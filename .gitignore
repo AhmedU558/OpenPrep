@@ -1,0 +1,25 @@
+node_modules/
+.next/
+out/
+coverage/
+playwright-report/
+test-results/
+next-env.d.ts
+*.tsbuildinfo
+src/generated/
+
+# secrets and personal data
+.env
+.env.*
+!.env.example
+data/
+uploads/
+
+# Local assistant state, release scratch files and database preservation fingerprints
+.claude/
+.release/
+content/bank/baseline.json
+content/bank/expansion/baseline.json
+content/bank/reports/preservation.json
+content/bank/expansion/reports/preservation.json
+content/bank/expansion/reports/audit-*.json
