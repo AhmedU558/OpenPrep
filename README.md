@@ -53,6 +53,8 @@ Promote an existing account to admin: put its email and password in `SEED_ADMIN_
 E2E tests use the installed Microsoft Edge on Windows. Elsewhere, run `npx playwright install chromium` and set `PW_CHANNEL=chromium`.
 
 ## Deploying
+Hosted instance: [OpenPrep](https://openprep-amber.vercel.app). Application functions and PostgreSQL use Singapore, near Pakistan. See [deployment configuration and operational limits](docs/deployment.md).
+
 Any Node.js host plus PostgreSQL works. Set the variables from `.env.example`, run `npm run db:deploy` and `npm run build`, then `npm start`. Put it behind HTTPS (cookies become `Secure` automatically when `BETTER_AUTH_URL` is https).
 
 **Costs, honestly:** the software is free; running it publicly is not automatically free. You need a server or PaaS, a PostgreSQL database, SMTP for password-reset email, and optionally a domain. Free tiers exist but change over time. The optional AI tutor costs nothing with a local [Ollama](https://ollama.com) model on your own hardware; hosted AI providers usually charge per request.

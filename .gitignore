@@ -18,6 +18,9 @@ uploads/
 # Local assistant state, release scratch files and database preservation fingerprints
 .claude/
 .release/
+.vercel/
+.agents/skills/
+skills-lock.json
 content/bank/baseline.json
 content/bank/expansion/baseline.json
 content/bank/reports/preservation.json
