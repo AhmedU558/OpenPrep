@@ -1,0 +1,173 @@
+{
+  "batch": 6,
+  "at": "2026-10-29T13:09:02.119Z",
+  "digest": "545191ed3be54ab7b8728833717bad2a4b1cafd7ecd4c830595be4fcc25b429b",
+  "before": 232,
+  "after": 232,
+  "imported": 0,
+  "skipped": 25,
+  "rejected": 0,
+  "quarantined": 0,
+  "errors": [],
+  "coverage": [
+    {
+      "code": "op26-0126",
+      "subject": "Genetics",
+      "topic": "Penetrance",
+      "objective": "Distinguish penetrance from variable expressivity."
+    },
+    {
+      "code": "op26-0127",
+      "subject": "Genetics",
+      "topic": "Genomic imprinting",
+      "objective": "Explain parent-of-origin syndromes using imprinting and an active parental allele."
+    },
+    {
+      "code": "op26-0128",
+      "subject": "Genetics",
+      "topic": "Hardy-Weinberg carriers",
+      "objective": "Estimate carrier frequency from recessive disease prevalence under Hardy-Weinberg assumptions."
+    },
+    {
+      "code": "op26-0129",
+      "subject": "Genetics",
+      "topic": "Balanced translocation",
+      "objective": "Explain reproductive risk from unbalanced segregation in a balanced translocation carrier."
+    },
+    {
+      "code": "op26-0130",
+      "subject": "Genetics",
+      "topic": "Loss of heterozygosity",
+      "objective": "Recognize loss of the normal tumor suppressor allele as loss of heterozygosity."
+    },
+    {
+      "code": "op26-0131",
+      "subject": "Ethics",
+      "topic": "Decision-making capacity",
+      "objective": "Assess capacity by decision-making abilities rather than agreement with advice."
+    },
+    {
+      "code": "op26-0132",
+      "subject": "Ethics",
+      "topic": "Emergency consent",
+      "objective": "Apply the emergency consent exception without treating it as unrestricted authority."
+    },
+    {
+      "code": "op26-0133",
+      "subject": "Ethics",
+      "topic": "Surrogate decisions",
+      "objective": "Distinguish substituted judgment from a best-interests decision."
+    },
+    {
+      "code": "op26-0134",
+      "subject": "Ethics",
+      "topic": "Informed consent disclosure",
+      "objective": "Include material risks and alternatives in informed consent."
+    },
+    {
+      "code": "op26-0135",
+      "subject": "Ethics",
+      "topic": "Professional interpreter",
+      "objective": "Use qualified interpretation to support patient understanding and autonomy."
+    },
+    {
+      "code": "op26-0136",
+      "subject": "Ethics",
+      "topic": "Error disclosure",
+      "objective": "Pair factual error disclosure with immediate harm assessment and reporting."
+    },
+    {
+      "code": "op26-0137",
+      "subject": "Ethics",
+      "topic": "Confidentiality",
+      "objective": "Protect confidential results when a capable patient declines family disclosure."
+    },
+    {
+      "code": "op26-0138",
+      "subject": "Ethics",
+      "topic": "Teach-back",
+      "objective": "Use teach-back to verify understanding without shaming the patient."
+    },
+    {
+      "code": "op26-0139",
+      "subject": "Ethics",
+      "topic": "Research voluntariness",
+      "objective": "Protect research voluntariness within an ongoing clinical relationship."
+    },
+    {
+      "code": "op26-0140",
+      "subject": "Ethics",
+      "topic": "Advance directives",
+      "objective": "Recognize that current capable choices can revise an earlier advance directive."
+    },
+    {
+      "code": "op26-0141",
+      "subject": "Biostatistics",
+      "topic": "Sensitivity",
+      "objective": "Calculate sensitivity using the diseased group as denominator."
+    },
+    {
+      "code": "op26-0142",
+      "subject": "Biostatistics",
+      "topic": "Specificity",
+      "objective": "Distinguish specificity from negative predictive value."
+    },
+    {
+      "code": "op26-0143",
+      "subject": "Biostatistics",
+      "topic": "Positive predictive value",
+      "objective": "Calculate positive predictive value from true and false positive results."
+    },
+    {
+      "code": "op26-0144",
+      "subject": "Biostatistics",
+      "topic": "Prevalence and predictive value",
+      "objective": "Predict the effect of lower disease prevalence on PPV."
+    },
+    {
+      "code": "op26-0145",
+      "subject": "Biostatistics",
+      "topic": "Relative risk",
+      "objective": "Distinguish relative risk from absolute risk difference in a cohort."
+    },
+    {
+      "code": "op26-0146",
+      "subject": "Biostatistics",
+      "topic": "Odds ratio",
+      "objective": "Calculate a case-control odds ratio using the cross-product."
+    },
+    {
+      "code": "op26-0147",
+      "subject": "Biostatistics",
+      "topic": "Number needed to treat",
+      "objective": "Calculate NNT from absolute risk reduction with a stated follow-up period."
+    },
+    {
+      "code": "op26-0148",
+      "subject": "Biostatistics",
+      "topic": "Confidence intervals",
+      "objective": "Interpret a risk-ratio interval containing the null without claiming equivalence."
+    },
+    {
+      "code": "op26-0149",
+      "subject": "Biostatistics",
+      "topic": "Confounding",
+      "objective": "Identify a nonmediating shared risk factor as a confounder."
+    },
+    {
+      "code": "op26-0150",
+      "subject": "Biostatistics",
+      "topic": "Lead-time bias",
+      "objective": "Distinguish lead-time bias from a true screening mortality benefit."
+    }
+  ],
+  "persisted": 25,
+  "practiceAvailable": 25,
+  "firstImport": {
+    "at": "2026-10-29T12:49:00.655Z",
+    "before": 157,
+    "after": 182,
+    "imported": 25,
+    "digest": "545191ed3be54ab7b8728833717bad2a4b1cafd7ecd4c830595be4fcc25b429b"
+  }
+}

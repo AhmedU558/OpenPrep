@@ -1,0 +1,4127 @@
+{
+  "batch": 13,
+  "at": "2026-10-29T17:48:39.569Z",
+  "digest": "0f8e84347ccc395c574400ee3eb63c7b48d91da38757a273252f2fd59463b50d",
+  "generated": 100,
+  "eligible": 100,
+  "rejected": 0,
+  "quarantined": 0,
+  "imported": 0,
+  "skipped": 100,
+  "available": 100,
+  "persisted": 100,
+  "stored": 100,
+  "storedReview": 0,
+  "before": 1028,
+  "after": 1028,
+  "mismatches": [],
+  "firstImport": {
+    "at": "2026-10-29T14:00:06.204Z",
+    "before": 732,
+    "after": 832,
+    "imported": 100,
+    "digest": "0f8e84347ccc395c574400ee3eb63c7b48d91da38757a273252f2fd59463b50d"
+  },
+  "items": [
+    {
+      "code": "op26x-0401",
+      "concept": "coeliac-unexplained-iron-deficiency-screen",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Consider coeliac disease in unexplained persistent iron deficiency without diarrhea. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG20: Coeliac disease recognition and assessment supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: iron-deficiency anemia mechanism. Distinct decision: Consider coeliac disease in unexplained persistent iron deficiency without diarrhea.",
+      "candidates": [
+        {
+          "code": "op26x-0294",
+          "score": 0.1836,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0056",
+          "score": 0.1717,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0057",
+          "score": 0.1525,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Extraintestinal coeliac presentation",
+      "objective": "Consider coeliac disease in unexplained persistent iron deficiency without diarrhea.",
+      "reference": [
+        {
+          "label": "NICE NG20: Coeliac disease recognition and assessment",
+          "url": "https://www.nice.org.uk/guidance/ng20/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0402",
+      "concept": "coeliac-gluten-before-testing",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Maintain appropriate gluten exposure while evaluating suspected coeliac disease. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG20: Coeliac disease recognition and assessment supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: intestinal absorption physiology. Distinct decision: Maintain appropriate gluten exposure while evaluating suspected coeliac disease.",
+      "candidates": [
+        {
+          "code": "op26-0067",
+          "score": 0.1638,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0401",
+          "score": 0.1391,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0736",
+          "score": 0.1112,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Diet and diagnostic test validity",
+      "objective": "Maintain appropriate gluten exposure while evaluating suspected coeliac disease.",
+      "reference": [
+        {
+          "label": "NICE NG20: Coeliac disease recognition and assessment",
+          "url": "https://www.nice.org.uk/guidance/ng20/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0403",
+      "concept": "coeliac-iga-deficiency-serology",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Recognize the limitation of negative IgA coeliac testing in IgA deficiency. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG20: Coeliac disease recognition and assessment supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: immunoglobulin classes. Distinct decision: Recognize the limitation of negative IgA coeliac testing in IgA deficiency.",
+      "candidates": [
+        {
+          "code": "op26x-0401",
+          "score": 0.193,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0176",
+          "score": 0.1622,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0402",
+          "score": 0.1158,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Coeliac serology with IgA deficiency",
+      "objective": "Recognize the limitation of negative IgA coeliac testing in IgA deficiency.",
+      "reference": [
+        {
+          "label": "NICE NG20: Coeliac disease recognition and assessment",
+          "url": "https://www.nice.org.uk/guidance/ng20/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0404",
+      "concept": "coeliac-negative-test-high-suspicion",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Continue specialist evaluation when coeliac suspicion remains high despite negative serology. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG20: Coeliac disease recognition and assessment supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: intestinal malabsorption. Distinct decision: Continue specialist evaluation when coeliac suspicion remains high despite negative serology.",
+      "candidates": [
+        {
+          "code": "op26x-0403",
+          "score": 0.3283,
+          "sameObjective": false,
+          "lexical": 0.020833333333333332
+        },
+        {
+          "code": "op26x-0401",
+          "score": 0.1911,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0402",
+          "score": 0.1778,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Persistent coeliac suspicion",
+      "objective": "Continue specialist evaluation when coeliac suspicion remains high despite negative serology.",
+      "reference": [
+        {
+          "label": "NICE NG20: Coeliac disease recognition and assessment",
+          "url": "https://www.nice.org.uk/guidance/ng20/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0405",
+      "concept": "coeliac-persistent-symptoms-diet-review",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Review exposure and coexisting disease before labeling coeliac symptoms refractory. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG20: Coeliac disease recognition and assessment supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: intestinal malabsorption. Distinct decision: Review exposure and coexisting disease before labeling coeliac symptoms refractory.",
+      "candidates": [
+        {
+          "code": "op26x-0402",
+          "score": 0.2814,
+          "sameObjective": false,
+          "lexical": 0.022222222222222223
+        },
+        {
+          "code": "op26x-0401",
+          "score": 0.1783,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0404",
+          "score": 0.1638,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Symptoms after coeliac diagnosis",
+      "objective": "Review exposure and coexisting disease before labeling coeliac symptoms refractory.",
+      "reference": [
+        {
+          "label": "NICE NG20: Coeliac disease recognition and assessment",
+          "url": "https://www.nice.org.uk/guidance/ng20/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0406",
+      "concept": "ibs-pain-bowel-association",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Identify an IBS-compatible pattern after appropriate red-flag assessment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG61: Irritable bowel syndrome supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: inflammatory bowel pattern. Distinct decision: Identify an IBS-compatible pattern after appropriate red-flag assessment.",
+      "candidates": [
+        {
+          "code": "op26-0115",
+          "score": 0.1167,
+          "sameObjective": false,
+          "lexical": 0.058823529411764705
+        },
+        {
+          "code": "op26x-0514",
+          "score": 0.1167,
+          "sameObjective": false,
+          "lexical": 0.01818181818181818
+        },
+        {
+          "code": "op26x-0661",
+          "score": 0.115,
+          "sameObjective": false,
+          "lexical": 0.03636363636363636
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Positive IBS symptom pattern",
+      "objective": "Identify an IBS-compatible pattern after appropriate red-flag assessment.",
+      "reference": [
+        {
+          "label": "NICE CG61: Irritable bowel syndrome",
+          "url": "https://www.nice.org.uk/guidance/cg61/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0407",
+      "concept": "ibs-redflag-anemia-weightloss",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Reevaluate IBS when objective alarm features develop. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG61: Irritable bowel syndrome supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: inflammatory bowel pattern. Distinct decision: Reevaluate IBS when objective alarm features develop.",
+      "candidates": [
+        {
+          "code": "op26x-0401",
+          "score": 0.2221,
+          "sameObjective": false,
+          "lexical": 0.023255813953488372
+        },
+        {
+          "code": "op26x-0294",
+          "score": 0.128,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0057",
+          "score": 0.1205,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Reassessing a functional bowel label",
+      "objective": "Reevaluate IBS when objective alarm features develop.",
+      "reference": [
+        {
+          "label": "NICE CG61: Irritable bowel syndrome",
+          "url": "https://www.nice.org.uk/guidance/cg61/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0408",
+      "concept": "ibs-baseline-exclusion-tests",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Select targeted basic tests in an IBS-compatible presentation without alarm features. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG61: Irritable bowel syndrome supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: diagnostic test selection. Distinct decision: Select targeted basic tests in an IBS-compatible presentation without alarm features.",
+      "candidates": [
+        {
+          "code": "op26x-0407",
+          "score": 0.2273,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0406",
+          "score": 0.1728,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0404",
+          "score": 0.1299,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Targeted initial tests for IBS",
+      "objective": "Select targeted basic tests in an IBS-compatible presentation without alarm features.",
+      "reference": [
+        {
+          "label": "NICE CG61: Irritable bowel syndrome",
+          "url": "https://www.nice.org.uk/guidance/cg61/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0409",
+      "concept": "ibs-no-routine-colonoscopy-lowrisk",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Avoid routine colonoscopy solely to confirm a low-risk IBS presentation. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG61: Irritable bowel syndrome supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: diagnostic testing stewardship. Distinct decision: Avoid routine colonoscopy solely to confirm a low-risk IBS presentation.",
+      "candidates": [
+        {
+          "code": "op26x-0408",
+          "score": 0.3435,
+          "sameObjective": false,
+          "lexical": 0.019230769230769232
+        },
+        {
+          "code": "op26x-0407",
+          "score": 0.1968,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0394",
+          "score": 0.1017,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Avoiding unnecessary IBS investigations",
+      "objective": "Avoid routine colonoscopy solely to confirm a low-risk IBS presentation.",
+      "reference": [
+        {
+          "label": "NICE CG61: Irritable bowel syndrome",
+          "url": "https://www.nice.org.uk/guidance/cg61/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0410",
+      "concept": "ibs-soluble-insoluble-fiber",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Choose soluble fiber rather than escalating poorly tolerated bran in IBS. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG61: Irritable bowel syndrome supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: intestinal motility. Distinct decision: Choose soluble fiber rather than escalating poorly tolerated bran in IBS.",
+      "candidates": [
+        {
+          "code": "op26x-0407",
+          "score": 0.1009,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0409",
+          "score": 0.0959,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0408",
+          "score": 0.0787,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Fiber choice in IBS",
+      "objective": "Choose soluble fiber rather than escalating poorly tolerated bran in IBS.",
+      "reference": [
+        {
+          "label": "NICE CG61: Irritable bowel syndrome",
+          "url": "https://www.nice.org.uk/guidance/cg61/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0411",
+      "concept": "pancreatitis-antibiotics-uninfected",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Avoid routine prophylactic antibiotics for uninfected acute pancreatitis. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG104: Pancreatitis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: acute pancreatitis diagnostic criteria. Distinct decision: Avoid routine prophylactic antibiotics for uninfected acute pancreatitis.",
+      "candidates": [
+        {
+          "code": "op26x-0501",
+          "score": 0.2548,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0390",
+          "score": 0.1854,
+          "sameObjective": false,
+          "lexical": 0.08163265306122448
+        },
+        {
+          "code": "s2-0006",
+          "score": 0.1383,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Antibiotics in acute pancreatitis",
+      "objective": "Avoid routine prophylactic antibiotics for uninfected acute pancreatitis.",
+      "reference": [
+        {
+          "label": "NICE NG104: Pancreatitis",
+          "url": "https://www.nice.org.uk/guidance/ng104/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0412",
+      "concept": "pancreatitis-oral-intake-tolerated",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Avoid prolonged fasting solely for persistent enzyme elevation in improving pancreatitis. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG104: Pancreatitis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: acute pancreatitis diagnostic criteria. Distinct decision: Avoid prolonged fasting solely for persistent enzyme elevation in improving pancreatitis.",
+      "candidates": [
+        {
+          "code": "op26x-0411",
+          "score": 0.1806,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0167",
+          "score": 0.1447,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0409",
+          "score": 0.1391,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Nutrition in mild pancreatitis",
+      "objective": "Avoid prolonged fasting solely for persistent enzyme elevation in improving pancreatitis.",
+      "reference": [
+        {
+          "label": "NICE NG104: Pancreatitis",
+          "url": "https://www.nice.org.uk/guidance/ng104/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0413",
+      "concept": "severe-pancreatitis-enteral-route",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Prioritize enteral feeding when severe pancreatitis prevents adequate oral intake. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG104: Pancreatitis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: intestinal nutrition physiology. Distinct decision: Prioritize enteral feeding when severe pancreatitis prevents adequate oral intake.",
+      "candidates": [
+        {
+          "code": "op26x-0549",
+          "score": 0.1163,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0332",
+          "score": 0.1041,
+          "sameObjective": false,
+          "lexical": 0.0425531914893617
+        },
+        {
+          "code": "op26x-0411",
+          "score": 0.1008,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Nutrition route in severe pancreatitis",
+      "objective": "Prioritize enteral feeding when severe pancreatitis prevents adequate oral intake.",
+      "reference": [
+        {
+          "label": "NICE NG104: Pancreatitis",
+          "url": "https://www.nice.org.uk/guidance/ng104/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0414",
+      "concept": "pancreatitis-nongallstone-causes",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Investigate alternative causes of pancreatitis when alcohol and gallstones are absent. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG104: Pancreatitis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: acute pancreatitis diagnostic criteria. Distinct decision: Investigate alternative causes of pancreatitis when alcohol and gallstones are absent.",
+      "candidates": [
+        {
+          "code": "op26x-0360",
+          "score": 0.1319,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0324",
+          "score": 0.1202,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0405",
+          "score": 0.1173,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Etiological evaluation of pancreatitis",
+      "objective": "Investigate alternative causes of pancreatitis when alcohol and gallstones are absent.",
+      "reference": [
+        {
+          "label": "NICE NG104: Pancreatitis",
+          "url": "https://www.nice.org.uk/guidance/ng104/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0415",
+      "concept": "chronic-pancreatitis-malabsorption",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Assess malabsorption and nutritional risk in chronic pancreatitis with steatorrhea. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG104: Pancreatitis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: pancreatic enzyme physiology. Distinct decision: Assess malabsorption and nutritional risk in chronic pancreatitis with steatorrhea.",
+      "candidates": [
+        {
+          "code": "op26-0032",
+          "score": 0.2102,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0413",
+          "score": 0.1658,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0525",
+          "score": 0.1538,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Nutritional consequences of chronic pancreatitis",
+      "objective": "Assess malabsorption and nutritional risk in chronic pancreatitis with steatorrhea.",
+      "reference": [
+        {
+          "label": "NICE NG104: Pancreatitis",
+          "url": "https://www.nice.org.uk/guidance/ng104/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0416",
+      "concept": "chronic-pancreatitis-new-diabetes",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Recognize diabetes as a possible endocrine complication of chronic pancreatitis. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG104: Pancreatitis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: pancreatic endocrine physiology. Distinct decision: Recognize diabetes as a possible endocrine complication of chronic pancreatitis.",
+      "candidates": [
+        {
+          "code": "op26x-0415",
+          "score": 0.1887,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0091",
+          "score": 0.1401,
+          "sameObjective": false,
+          "lexical": 0.022727272727272728
+        },
+        {
+          "code": "op26x-0411",
+          "score": 0.1341,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Pancreatogenic diabetes recognition",
+      "objective": "Recognize diabetes as a possible endocrine complication of chronic pancreatitis.",
+      "reference": [
+        {
+          "label": "NICE NG104: Pancreatitis",
+          "url": "https://www.nice.org.uk/guidance/ng104/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0417",
+      "concept": "cirrhosis-normal-enzymes-not-exclusion",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Avoid excluding cirrhosis solely because aminotransferases are normal. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG50: Cirrhosis in over 16s supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: obstructive jaundice laboratory pattern. Distinct decision: Avoid excluding cirrhosis solely because aminotransferases are normal.",
+      "candidates": [
+        {
+          "code": "op26-0068",
+          "score": 0.1861,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0009",
+          "score": 0.1337,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        },
+        {
+          "code": "op26-0175",
+          "score": 0.1226,
+          "sameObjective": false,
+          "lexical": 0.0196078431372549
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Limits of aminotransferases in cirrhosis",
+      "objective": "Avoid excluding cirrhosis solely because aminotransferases are normal.",
+      "reference": [
+        {
+          "label": "NICE NG50: Cirrhosis in over 16s",
+          "url": "https://www.nice.org.uk/guidance/ng50/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0418",
+      "concept": "cirrhosis-hcc-surveillance-purpose",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Explain the rationale for hepatocellular carcinoma surveillance in cirrhosis. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG50: Cirrhosis in over 16s supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: hepatic pathology. Distinct decision: Explain the rationale for hepatocellular carcinoma surveillance in cirrhosis.",
+      "candidates": [
+        {
+          "code": "op26x-0118",
+          "score": 0.1334,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0417",
+          "score": 0.1192,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0168",
+          "score": 0.0911,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Cancer surveillance in cirrhosis",
+      "objective": "Explain the rationale for hepatocellular carcinoma surveillance in cirrhosis.",
+      "reference": [
+        {
+          "label": "NICE NG50: Cirrhosis in over 16s",
+          "url": "https://www.nice.org.uk/guidance/ng50/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0419",
+      "concept": "cirrhosis-varices-screening-purpose",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Explain why variceal risk may need assessment before first bleeding. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG50: Cirrhosis in over 16s supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: upper gastrointestinal bleeding appearance. Distinct decision: Explain why variceal risk may need assessment before first bleeding.",
+      "candidates": [
+        {
+          "code": "op26-0009",
+          "score": 0.2556,
+          "sameObjective": false,
+          "lexical": 0.020833333333333332
+        },
+        {
+          "code": "op26x-0418",
+          "score": 0.1069,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0575",
+          "score": 0.0852,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Portal hypertensive complication assessment",
+      "objective": "Explain why variceal risk may need assessment before first bleeding.",
+      "reference": [
+        {
+          "label": "NICE NG50: Cirrhosis in over 16s",
+          "url": "https://www.nice.org.uk/guidance/ng50/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0420",
+      "concept": "cirrhosis-ascites-infection-assessment",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Evaluate ascitic infection when cirrhosis decompensates with fever and renal decline. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG50: Cirrhosis in over 16s supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: hepatic encephalopathy. Distinct decision: Evaluate ascitic infection when cirrhosis decompensates with fever and renal decline.",
+      "candidates": [
+        {
+          "code": "op26x-0388",
+          "score": 0.1698,
+          "sameObjective": false,
+          "lexical": 0.023809523809523808
+        },
+        {
+          "code": "op26x-0312",
+          "score": 0.1282,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0370",
+          "score": 0.1242,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "New illness in cirrhotic ascites",
+      "objective": "Evaluate ascitic infection when cirrhosis decompensates with fever and renal decline.",
+      "reference": [
+        {
+          "label": "NICE NG50: Cirrhosis in over 16s",
+          "url": "https://www.nice.org.uk/guidance/ng50/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0421",
+      "concept": "cirrhosis-confusion-broad-differential",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Correct severe hypoglycemia before attributing all confusion to hepatic encephalopathy. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG50: Cirrhosis in over 16s supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: hepatic encephalopathy mechanism. Distinct decision: Correct severe hypoglycemia before attributing all confusion to hepatic encephalopathy.",
+      "candidates": [
+        {
+          "code": "op26-0168",
+          "score": 0.2617,
+          "sameObjective": false,
+          "lexical": 0.04081632653061224
+        },
+        {
+          "code": "op26x-0643",
+          "score": 0.1897,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0548",
+          "score": 0.1429,
+          "sameObjective": false,
+          "lexical": 0.02040816326530612
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Confusion in cirrhosis without anchoring",
+      "objective": "Correct severe hypoglycemia before attributing all confusion to hepatic encephalopathy.",
+      "reference": [
+        {
+          "label": "NICE NG50: Cirrhosis in over 16s",
+          "url": "https://www.nice.org.uk/guidance/ng50/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0422",
+      "concept": "cirrhosis-decompensation-multiorgan",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Recognize new ascites jaundice and confusion as possible cirrhotic decompensation. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG50: Cirrhosis in over 16s supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: hepatic encephalopathy. Distinct decision: Recognize new ascites jaundice and confusion as possible cirrhotic decompensation.",
+      "candidates": [
+        {
+          "code": "op26x-0420",
+          "score": 0.1692,
+          "sameObjective": false,
+          "lexical": 0.025
+        },
+        {
+          "code": "op26x-0643",
+          "score": 0.1547,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0168",
+          "score": 0.1225,
+          "sameObjective": false,
+          "lexical": 0.023809523809523808
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Recognizing liver decompensation",
+      "objective": "Recognize new ascites jaundice and confusion as possible cirrhotic decompensation.",
+      "reference": [
+        {
+          "label": "NICE NG50: Cirrhosis in over 16s",
+          "url": "https://www.nice.org.uk/guidance/ng50/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0423",
+      "concept": "coeliac-autoimmune-risk-context",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Consider associated coeliac disease in symptomatic adults with type 1 diabetes. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG20: Coeliac disease recognition and assessment supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: autoimmunity. Distinct decision: Consider associated coeliac disease in symptomatic adults with type 1 diabetes.",
+      "candidates": [
+        {
+          "code": "op26x-0401",
+          "score": 0.36,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0416",
+          "score": 0.1958,
+          "sameObjective": false,
+          "lexical": 0.023255813953488372
+        },
+        {
+          "code": "op26x-0405",
+          "score": 0.1864,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Coeliac testing in autoimmune risk",
+      "objective": "Consider associated coeliac disease in symptomatic adults with type 1 diabetes.",
+      "reference": [
+        {
+          "label": "NICE NG20: Coeliac disease recognition and assessment",
+          "url": "https://www.nice.org.uk/guidance/ng20/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0424",
+      "concept": "pancreatitis-pseudocyst-symptomatic",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Identify compressive symptoms as a reason to assess pseudocyst drainage. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG104: Pancreatitis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: acute pancreatitis diagnostic criteria. Distinct decision: Identify compressive symptoms as a reason to assess pseudocyst drainage.",
+      "candidates": [
+        {
+          "code": "op26x-0416",
+          "score": 0.1706,
+          "sameObjective": false,
+          "lexical": 0.025
+        },
+        {
+          "code": "op26x-0423",
+          "score": 0.1516,
+          "sameObjective": false,
+          "lexical": 0.02
+        },
+        {
+          "code": "op26x-0415",
+          "score": 0.141,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Symptomatic pancreatic fluid collection",
+      "objective": "Identify compressive symptoms as a reason to assess pseudocyst drainage.",
+      "reference": [
+        {
+          "label": "NICE NG104: Pancreatitis",
+          "url": "https://www.nice.org.uk/guidance/ng104/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0425",
+      "concept": "ibs-diet-restriction-dietitian",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Seek dietary expertise for restrictive IBS dietary interventions. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG61: Irritable bowel syndrome supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: nutritional assessment. Distinct decision: Seek dietary expertise for restrictive IBS dietary interventions.",
+      "candidates": [
+        {
+          "code": "op26x-0410",
+          "score": 0.107,
+          "sameObjective": false,
+          "lexical": 0.020833333333333332
+        },
+        {
+          "code": "op26x-0407",
+          "score": 0.0981,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0409",
+          "score": 0.0981,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Restrictive diets in refractory IBS",
+      "objective": "Seek dietary expertise for restrictive IBS dietary interventions.",
+      "reference": [
+        {
+          "label": "NICE CG61: Irritable bowel syndrome",
+          "url": "https://www.nice.org.uk/guidance/cg61/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0426",
+      "concept": "copd-inhaler-technique-before-escalation",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Correct treatment delivery before escalating apparently ineffective COPD inhalers. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG115: COPD in over 16s supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: COPD spirometry interpretation. Distinct decision: Correct treatment delivery before escalating apparently ineffective COPD inhalers.",
+      "candidates": [
+        {
+          "code": "op26-0093",
+          "score": 0.1826,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0331",
+          "score": 0.123,
+          "sameObjective": false,
+          "lexical": 0.058823529411764705
+        },
+        {
+          "code": "op26x-0353",
+          "score": 0.0718,
+          "sameObjective": false,
+          "lexical": 0.02127659574468085
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Persistent COPD symptoms",
+      "objective": "Correct treatment delivery before escalating apparently ineffective COPD inhalers.",
+      "reference": [
+        {
+          "label": "NICE NG115: COPD in over 16s",
+          "url": "https://www.nice.org.uk/guidance/ng115/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0427",
+      "concept": "copd-rehabilitation-functional-disability",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Offer pulmonary rehabilitation for functionally limiting stable COPD. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG115: COPD in over 16s supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: COPD spirometry interpretation. Distinct decision: Offer pulmonary rehabilitation for functionally limiting stable COPD.",
+      "candidates": [
+        {
+          "code": "op26x-0426",
+          "score": 0.1222,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0342",
+          "score": 0.1117,
+          "sameObjective": false,
+          "lexical": 0.0425531914893617
+        },
+        {
+          "code": "op26x-0392",
+          "score": 0.1051,
+          "sameObjective": false,
+          "lexical": 0.020833333333333332
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Pulmonary rehabilitation referral",
+      "objective": "Offer pulmonary rehabilitation for functionally limiting stable COPD.",
+      "reference": [
+        {
+          "label": "NICE NG115: COPD in over 16s",
+          "url": "https://www.nice.org.uk/guidance/ng115/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0428",
+      "concept": "copd-hemoptysis-alternative-diagnosis",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Investigate hemoptysis and weight loss rather than anchoring on COPD. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG115: COPD in over 16s supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: COPD spirometry interpretation. Distinct decision: Investigate hemoptysis and weight loss rather than anchoring on COPD.",
+      "candidates": [
+        {
+          "code": "op26x-0386",
+          "score": 0.2228,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0407",
+          "score": 0.1677,
+          "sameObjective": false,
+          "lexical": 0.02631578947368421
+        },
+        {
+          "code": "op26x-0427",
+          "score": 0.1207,
+          "sameObjective": false,
+          "lexical": 0.022222222222222223
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Atypical symptoms in COPD",
+      "objective": "Investigate hemoptysis and weight loss rather than anchoring on COPD.",
+      "reference": [
+        {
+          "label": "NICE NG115: COPD in over 16s",
+          "url": "https://www.nice.org.uk/guidance/ng115/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0429",
+      "concept": "copd-niv-persistent-acidosis",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Consider NIV for persistent acidotic hypercapnic failure after initial COPD treatment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG115: COPD in over 16s supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: respiratory acidosis physiology. Distinct decision: Consider NIV for persistent acidotic hypercapnic failure after initial COPD treatment.",
+      "candidates": [
+        {
+          "code": "op26x-0427",
+          "score": 0.1727,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0426",
+          "score": 0.1498,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0428",
+          "score": 0.1329,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Ventilatory support during COPD exacerbation",
+      "objective": "Consider NIV for persistent acidotic hypercapnic failure after initial COPD treatment.",
+      "reference": [
+        {
+          "label": "NICE NG115: COPD in over 16s",
+          "url": "https://www.nice.org.uk/guidance/ng115/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0430",
+      "concept": "copd-ltot-stable-assessment",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Separate acute exacerbation hypoxemia from stable long-term oxygen eligibility. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG115: COPD in over 16s supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: COPD gas exchange. Distinct decision: Separate acute exacerbation hypoxemia from stable long-term oxygen eligibility.",
+      "candidates": [
+        {
+          "code": "op26x-0429",
+          "score": 0.1788,
+          "sameObjective": false,
+          "lexical": 0.01818181818181818
+        },
+        {
+          "code": "op26x-0183",
+          "score": 0.1267,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0037",
+          "score": 0.1264,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Long-term oxygen eligibility assessment",
+      "objective": "Separate acute exacerbation hypoxemia from stable long-term oxygen eligibility.",
+      "reference": [
+        {
+          "label": "NICE NG115: COPD in over 16s",
+          "url": "https://www.nice.org.uk/guidance/ng115/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0431",
+      "concept": "copd-still-smoking-cessation-support",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Offer smoking-cessation support throughout established COPD care. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG115: COPD in over 16s supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: emphysema pathogenesis. Distinct decision: Offer smoking-cessation support throughout established COPD care.",
+      "candidates": [
+        {
+          "code": "op26x-0767",
+          "score": 0.1711,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0427",
+          "score": 0.1515,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0428",
+          "score": 0.1464,
+          "sameObjective": false,
+          "lexical": 0.024390243902439025
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Smoking cessation in COPD",
+      "objective": "Offer smoking-cessation support throughout established COPD care.",
+      "reference": [
+        {
+          "label": "NICE NG115: COPD in over 16s",
+          "url": "https://www.nice.org.uk/guidance/ng115/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0432",
+      "concept": "pneumonia-crb65-integration",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Integrate multiple pneumonia severity features into urgent place-of-care assessment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG250: Pneumonia diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: pneumonia respiratory physiology. Distinct decision: Integrate multiple pneumonia severity features into urgent place-of-care assessment.",
+      "candidates": [
+        {
+          "code": "op26x-0327",
+          "score": 0.1733,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0301",
+          "score": 0.1486,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0154",
+          "score": 0.1245,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Pneumonia severity assessment",
+      "objective": "Integrate multiple pneumonia severity features into urgent place-of-care assessment.",
+      "reference": [
+        {
+          "label": "NICE NG250: Pneumonia diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng250/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0433",
+      "concept": "pneumonia-score-clinical-context",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Override a low pneumonia score when major clinical constraints make home care unsafe. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG250: Pneumonia diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: severity-score interpretation. Distinct decision: Override a low pneumonia score when major clinical constraints make home care unsafe.",
+      "candidates": [
+        {
+          "code": "op26x-0432",
+          "score": 0.1779,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0393",
+          "score": 0.1036,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0139",
+          "score": 0.0884,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Severity score limitations in pneumonia",
+      "objective": "Override a low pneumonia score when major clinical constraints make home care unsafe.",
+      "reference": [
+        {
+          "label": "NICE NG250: Pneumonia diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng250/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0434",
+      "concept": "pneumonia-followup-risk-based-imaging",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Consider follow-up imaging after pneumonia when symptoms and malignancy risk persist. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG250: Pneumonia diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: lobar consolidation. Distinct decision: Consider follow-up imaging after pneumonia when symptoms and malignancy risk persist.",
+      "candidates": [
+        {
+          "code": "op26x-0428",
+          "score": 0.2434,
+          "sameObjective": false,
+          "lexical": 0.022727272727272728
+        },
+        {
+          "code": "op26x-0423",
+          "score": 0.2024,
+          "sameObjective": false,
+          "lexical": 0.0196078431372549
+        },
+        {
+          "code": "op26x-0641",
+          "score": 0.1899,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Selective chest imaging after pneumonia",
+      "objective": "Consider follow-up imaging after pneumonia when symptoms and malignancy risk persist.",
+      "reference": [
+        {
+          "label": "NICE NG250: Pneumonia diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng250/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0435",
+      "concept": "pneumonia-recovery-safety-net",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Provide deterioration and nonresponse advice during community pneumonia treatment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG250: Pneumonia diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: pneumonia clinical assessment. Distinct decision: Provide deterioration and nonresponse advice during community pneumonia treatment.",
+      "candidates": [
+        {
+          "code": "op26x-0432",
+          "score": 0.1441,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0434",
+          "score": 0.1231,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0177",
+          "score": 0.112,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Expected recovery and deterioration advice",
+      "objective": "Provide deterioration and nonresponse advice during community pneumonia treatment.",
+      "reference": [
+        {
+          "label": "NICE NG250: Pneumonia diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng250/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0436",
+      "concept": "asthma-confirm-objective-evidence",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Support an adult asthma history with appropriate objective testing. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. BTS NICE SIGN NG245: Asthma diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: airway obstruction physiology. Distinct decision: Support an adult asthma history with appropriate objective testing.",
+      "candidates": [
+        {
+          "code": "op26x-0381",
+          "score": 0.1275,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0378",
+          "score": 0.1162,
+          "sameObjective": false,
+          "lexical": 0.047619047619047616
+        },
+        {
+          "code": "op26-0019",
+          "score": 0.1134,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Objective diagnosis of adult asthma",
+      "objective": "Support an adult asthma history with appropriate objective testing.",
+      "reference": [
+        {
+          "label": "BTS NICE SIGN NG245: Asthma diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng245/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0437",
+      "concept": "asthma-tests-negative-persistent-suspicion",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Consider bronchial challenge after nondiagnostic initial asthma testing with persistent suspicion. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. BTS NICE SIGN NG245: Asthma diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: airway reactivity. Distinct decision: Consider bronchial challenge after nondiagnostic initial asthma testing with persistent suspicion.",
+      "candidates": [
+        {
+          "code": "op26x-0436",
+          "score": 0.3178,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s2-0002",
+          "score": 0.1984,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0404",
+          "score": 0.1321,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Unconfirmed suspected asthma",
+      "objective": "Consider bronchial challenge after nondiagnostic initial asthma testing with persistent suspicion.",
+      "reference": [
+        {
+          "label": "BTS NICE SIGN NG245: Asthma diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng245/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0438",
+      "concept": "asthma-control-multidomain",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Assess nighttime symptoms and activity restriction when judging asthma control. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. BTS NICE SIGN NG245: Asthma diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: airway obstruction physiology. Distinct decision: Assess nighttime symptoms and activity restriction when judging asthma control.",
+      "candidates": [
+        {
+          "code": "op26x-0436",
+          "score": 0.1701,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0624",
+          "score": 0.1546,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0437",
+          "score": 0.1275,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Assessing asthma control beyond daytime symptoms",
+      "objective": "Assess nighttime symptoms and activity restriction when judging asthma control.",
+      "reference": [
+        {
+          "label": "BTS NICE SIGN NG245: Asthma diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng245/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0439",
+      "concept": "af-irregular-pulse-ecg-confirmation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Confirm suspected atrial fibrillation with ECG rhythm documentation. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG196: Atrial fibrillation supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cardiac conduction physiology. Distinct decision: Confirm suspected atrial fibrillation with ECG rhythm documentation.",
+      "candidates": [
+        {
+          "code": "op26-0186",
+          "score": 0.156,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0004",
+          "score": 0.1503,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0184",
+          "score": 0.1388,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Confirming suspected atrial fibrillation",
+      "objective": "Confirm suspected atrial fibrillation with ECG rhythm documentation.",
+      "reference": [
+        {
+          "label": "NICE NG196: Atrial fibrillation",
+          "url": "https://www.nice.org.uk/guidance/ng196/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0440",
+      "concept": "paroxysmal-af-ambulatory-recording",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Use suitable ambulatory monitoring for suspected paroxysmal AF with a normal clinic ECG. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG196: Atrial fibrillation supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cardiac conduction physiology. Distinct decision: Use suitable ambulatory monitoring for suspected paroxysmal AF with a normal clinic ECG.",
+      "candidates": [
+        {
+          "code": "op26x-0439",
+          "score": 0.2717,
+          "sameObjective": false,
+          "lexical": 0.022727272727272728
+        },
+        {
+          "code": "op26x-0339",
+          "score": 0.1462,
+          "sameObjective": false,
+          "lexical": 0.02
+        },
+        {
+          "code": "op26x-0336",
+          "score": 0.1334,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Intermittent palpitations with normal ECG",
+      "objective": "Use suitable ambulatory monitoring for suspected paroxysmal AF with a normal clinic ECG.",
+      "reference": [
+        {
+          "label": "NICE NG196: Atrial fibrillation",
+          "url": "https://www.nice.org.uk/guidance/ng196/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0441",
+      "concept": "af-hemodynamic-instability-cardioversion",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Prioritize emergency cardioversion for AF causing life-threatening instability. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG196: Atrial fibrillation supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cardiac arrhythmia physiology. Distinct decision: Prioritize emergency cardioversion for AF causing life-threatening instability.",
+      "candidates": [
+        {
+          "code": "op26-0132",
+          "score": 0.1461,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0333",
+          "score": 0.1412,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0695",
+          "score": 0.1393,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Unstable atrial fibrillation",
+      "objective": "Prioritize emergency cardioversion for AF causing life-threatening instability.",
+      "reference": [
+        {
+          "label": "NICE NG196: Atrial fibrillation",
+          "url": "https://www.nice.org.uk/guidance/ng196/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0442",
+      "concept": "af-aspirin-not-anticoagulation-substitute",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Distinguish oral anticoagulation from aspirin alone for indicated AF stroke prevention. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG196: Atrial fibrillation supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: platelet versus coagulation pharmacology. Distinct decision: Distinguish oral anticoagulation from aspirin alone for indicated AF stroke prevention.",
+      "candidates": [
+        {
+          "code": "op26-0085",
+          "score": 0.1554,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0004",
+          "score": 0.129,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0396",
+          "score": 0.1179,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Stroke prevention in AF",
+      "objective": "Distinguish oral anticoagulation from aspirin alone for indicated AF stroke prevention.",
+      "reference": [
+        {
+          "label": "NICE NG196: Atrial fibrillation",
+          "url": "https://www.nice.org.uk/guidance/ng196/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0443",
+      "concept": "af-falls-age-anticoagulation-review",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Avoid withholding AF anticoagulation solely on age or fall risk. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG196: Atrial fibrillation supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: medical ethics older adult treatment. Distinct decision: Avoid withholding AF anticoagulation solely on age or fall risk.",
+      "candidates": [
+        {
+          "code": "op26x-0442",
+          "score": 0.2825,
+          "sameObjective": false,
+          "lexical": 0.017857142857142856
+        },
+        {
+          "code": "s3-0004",
+          "score": 0.156,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0396",
+          "score": 0.153,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Anticoagulation in older adults with AF",
+      "objective": "Avoid withholding AF anticoagulation solely on age or fall risk.",
+      "reference": [
+        {
+          "label": "NICE NG196: Atrial fibrillation",
+          "url": "https://www.nice.org.uk/guidance/ng196/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0444",
+      "concept": "af-bleeding-risk-modifiable",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Address modifiable bleeding hazards when considering AF anticoagulation. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG196: Atrial fibrillation supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: drug and clinical bleeding risk. Distinct decision: Address modifiable bleeding hazards when considering AF anticoagulation.",
+      "candidates": [
+        {
+          "code": "op26x-0443",
+          "score": 0.2749,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0442",
+          "score": 0.189,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0396",
+          "score": 0.141,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Bleeding risk review before anticoagulation",
+      "objective": "Address modifiable bleeding hazards when considering AF anticoagulation.",
+      "reference": [
+        {
+          "label": "NICE NG196: Atrial fibrillation",
+          "url": "https://www.nice.org.uk/guidance/ng196/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0445",
+      "concept": "hypertension-abpm-confirm",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Confirm nonemergency clinic hypertension using appropriate out-of-office measurements. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG136: Hypertension in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: blood pressure physiology. Distinct decision: Confirm nonemergency clinic hypertension using appropriate out-of-office measurements.",
+      "candidates": [
+        {
+          "code": "op26x-0543",
+          "score": 0.2029,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0440",
+          "score": 0.194,
+          "sameObjective": false,
+          "lexical": 0.020833333333333332
+        },
+        {
+          "code": "op26x-0303",
+          "score": 0.1185,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Confirming clinic hypertension",
+      "objective": "Confirm nonemergency clinic hypertension using appropriate out-of-office measurements.",
+      "reference": [
+        {
+          "label": "NICE NG136: Hypertension in adults",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0446",
+      "concept": "white-coat-hypertension-discordance",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Identify the direction of clinic-versus-ambulatory discrepancy in a white-coat pattern. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG136: Hypertension in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: blood pressure measurement. Distinct decision: Identify the direction of clinic-versus-ambulatory discrepancy in a white-coat pattern.",
+      "candidates": [
+        {
+          "code": "op26x-0445",
+          "score": 0.2857,
+          "sameObjective": false,
+          "lexical": 0.024390243902439025
+        },
+        {
+          "code": "op26x-0440",
+          "score": 0.1783,
+          "sameObjective": false,
+          "lexical": 0.02631578947368421
+        },
+        {
+          "code": "op26x-0060",
+          "score": 0.139,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Clinic and ambulatory pressure discordance",
+      "objective": "Identify the direction of clinic-versus-ambulatory discrepancy in a white-coat pattern.",
+      "reference": [
+        {
+          "label": "NICE NG136: Hypertension in adults",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0447",
+      "concept": "masked-hypertension-outofoffice",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Recognize elevated out-of-office pressure despite normal clinic measurements. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG136: Hypertension in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: blood pressure measurement. Distinct decision: Recognize elevated out-of-office pressure despite normal clinic measurements.",
+      "candidates": [
+        {
+          "code": "op26x-0445",
+          "score": 0.3905,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0446",
+          "score": 0.2312,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0546",
+          "score": 0.1623,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Masked hypertension pattern",
+      "objective": "Recognize elevated out-of-office pressure despite normal clinic measurements.",
+      "reference": [
+        {
+          "label": "NICE NG136: Hypertension in adults",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0448",
+      "concept": "bp-irregular-pulse-manual",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Use suitable manual blood-pressure measurement when pulse irregularity impairs automated readings. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG136: Hypertension in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cardiac conduction physiology. Distinct decision: Use suitable manual blood-pressure measurement when pulse irregularity impairs automated readings.",
+      "candidates": [
+        {
+          "code": "op26x-0447",
+          "score": 0.1244,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0739",
+          "score": 0.1046,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0372",
+          "score": 0.0935,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Blood-pressure technique with irregular pulse",
+      "objective": "Use suitable manual blood-pressure measurement when pulse irregularity impairs automated readings.",
+      "reference": [
+        {
+          "label": "NICE NG136: Hypertension in adults",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0449",
+      "concept": "bp-both-arms-initial",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Use the higher-reading arm after confirming a persistent interarm pressure difference. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG136: Hypertension in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: blood pressure measurement. Distinct decision: Use the higher-reading arm after confirming a persistent interarm pressure difference.",
+      "candidates": [
+        {
+          "code": "op26-0193",
+          "score": 0.2064,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0749",
+          "score": 0.1418,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0739",
+          "score": 0.1177,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Interarm pressure difference",
+      "objective": "Use the higher-reading arm after confirming a persistent interarm pressure difference.",
+      "reference": [
+        {
+          "label": "NICE NG136: Hypertension in adults",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0450",
+      "concept": "resistant-hypertension-check-adherence",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Check sustained pressure and actual treatment exposure before labeling resistant hypertension. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG136: Hypertension in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: primary hyperaldosteronism mechanism. Distinct decision: Check sustained pressure and actual treatment exposure before labeling resistant hypertension.",
+      "candidates": [
+        {
+          "code": "op26x-0331",
+          "score": 0.38,
+          "sameObjective": false,
+          "lexical": 0.017241379310344827
+        },
+        {
+          "code": "op26x-0445",
+          "score": 0.2967,
+          "sameObjective": false,
+          "lexical": 0.01818181818181818
+        },
+        {
+          "code": "op26x-0447",
+          "score": 0.2377,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Apparent resistant hypertension",
+      "objective": "Check sustained pressure and actual treatment exposure before labeling resistant hypertension.",
+      "reference": [
+        {
+          "label": "NICE NG136: Hypertension in adults",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0451",
+      "concept": "ra-persistent-synovitis-negative-rf",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Refer persistent small-joint synovitis despite negative rheumatoid factor and normal markers. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG100: Rheumatoid arthritis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: autoimmune joint pathology. Distinct decision: Refer persistent small-joint synovitis despite negative rheumatoid factor and normal markers.",
+      "candidates": [
+        {
+          "code": "op26x-0404",
+          "score": 0.2116,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0407",
+          "score": 0.0968,
+          "sameObjective": false,
+          "lexical": 0.04878048780487805
+        },
+        {
+          "code": "op26x-0346",
+          "score": 0.0941,
+          "sameObjective": false,
+          "lexical": 0.02040816326530612
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Seronegative inflammatory arthritis referral",
+      "objective": "Refer persistent small-joint synovitis despite negative rheumatoid factor and normal markers.",
+      "reference": [
+        {
+          "label": "NICE NG100: Rheumatoid arthritis",
+          "url": "https://www.nice.org.uk/guidance/ng100/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0452",
+      "concept": "ra-nsaids-not-disease-modifying",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Distinguish symptomatic NSAID benefit from disease control in RA. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG100: Rheumatoid arthritis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: inflammatory joint pathology. Distinct decision: Distinguish symptomatic NSAID benefit from disease control in RA.",
+      "candidates": [
+        {
+          "code": "op26x-0451",
+          "score": 0.2056,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0370",
+          "score": 0.1047,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0387",
+          "score": 0.0944,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "RA symptom relief versus damage prevention",
+      "objective": "Distinguish symptomatic NSAID benefit from disease control in RA.",
+      "reference": [
+        {
+          "label": "NICE NG100: Rheumatoid arthritis",
+          "url": "https://www.nice.org.uk/guidance/ng100/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0453",
+      "concept": "ra-treat-target-remission",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Identify remission or low disease activity as the RA treat-to-target goal. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG100: Rheumatoid arthritis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: autoimmune inflammation. Distinct decision: Identify remission or low disease activity as the RA treat-to-target goal.",
+      "candidates": [
+        {
+          "code": "op26x-0452",
+          "score": 0.1315,
+          "sameObjective": false,
+          "lexical": 0.02127659574468085
+        },
+        {
+          "code": "op26x-0763",
+          "score": 0.1174,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0219",
+          "score": 0.0926,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "RA treatment target",
+      "objective": "Identify remission or low disease activity as the RA treat-to-target goal.",
+      "reference": [
+        {
+          "label": "NICE NG100: Rheumatoid arthritis",
+          "url": "https://www.nice.org.uk/guidance/ng100/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0454",
+      "concept": "ra-annual-comorbidity-review",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Include comorbidity and function assessment in an annual RA review. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG100: Rheumatoid arthritis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: chronic inflammatory disease. Distinct decision: Include comorbidity and function assessment in an annual RA review.",
+      "candidates": [
+        {
+          "code": "op26x-0324",
+          "score": 0.1154,
+          "sameObjective": false,
+          "lexical": 0.02
+        },
+        {
+          "code": "op26x-0332",
+          "score": 0.1095,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        },
+        {
+          "code": "op26x-0414",
+          "score": 0.1045,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "RA care beyond swollen joints",
+      "objective": "Include comorbidity and function assessment in an annual RA review.",
+      "reference": [
+        {
+          "label": "NICE NG100: Rheumatoid arthritis",
+          "url": "https://www.nice.org.uk/guidance/ng100/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0455",
+      "concept": "ra-cervical-neurological-redflags",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Escalate neck pain with neurological symptoms in longstanding RA. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG100: Rheumatoid arthritis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cervical cord dysfunction. Distinct decision: Escalate neck pain with neurological symptoms in longstanding RA.",
+      "candidates": [
+        {
+          "code": "op26x-0309",
+          "score": 0.2373,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0416",
+          "score": 0.1661,
+          "sameObjective": false,
+          "lexical": 0.06060606060606061
+        },
+        {
+          "code": "op26x-0680",
+          "score": 0.1605,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Cervical complications in RA",
+      "objective": "Escalate neck pain with neurological symptoms in longstanding RA.",
+      "reference": [
+        {
+          "label": "NICE NG100: Rheumatoid arthritis",
+          "url": "https://www.nice.org.uk/guidance/ng100/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0456",
+      "concept": "ra-respiratory-complication-assessment",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Evaluate new progressive respiratory symptoms independently of RA joint control. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG100: Rheumatoid arthritis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: extra-articular autoimmune disease. Distinct decision: Evaluate new progressive respiratory symptoms independently of RA joint control.",
+      "candidates": [
+        {
+          "code": "op26x-0360",
+          "score": 0.15,
+          "sameObjective": false,
+          "lexical": 0.09302325581395349
+        },
+        {
+          "code": "op26x-0438",
+          "score": 0.1445,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0339",
+          "score": 0.1394,
+          "sameObjective": false,
+          "lexical": 0.09090909090909091
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "New respiratory symptoms in RA",
+      "objective": "Evaluate new progressive respiratory symptoms independently of RA joint control.",
+      "reference": [
+        {
+          "label": "NICE NG100: Rheumatoid arthritis",
+          "url": "https://www.nice.org.uk/guidance/ng100/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0457",
+      "concept": "ra-hand-function-occupational-therapy",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Use occupational therapy for persistent task-related hand disability in RA. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG100: Rheumatoid arthritis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: musculoskeletal functional assessment. Distinct decision: Use occupational therapy for persistent task-related hand disability in RA.",
+      "candidates": [
+        {
+          "code": "op26x-0735",
+          "score": 0.107,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0455",
+          "score": 0.1018,
+          "sameObjective": false,
+          "lexical": 0.023255813953488372
+        },
+        {
+          "code": "op26x-0451",
+          "score": 0.1001,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Functional support in RA",
+      "objective": "Use occupational therapy for persistent task-related hand disability in RA.",
+      "reference": [
+        {
+          "label": "NICE NG100: Rheumatoid arthritis",
+          "url": "https://www.nice.org.uk/guidance/ng100/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0458",
+      "concept": "ra-foot-problems-podiatry",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Refer RA-associated painful foot disability for podiatry assessment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG100: Rheumatoid arthritis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: musculoskeletal biomechanics. Distinct decision: Refer RA-associated painful foot disability for podiatry assessment.",
+      "candidates": [
+        {
+          "code": "op26x-0451",
+          "score": 0.1058,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0301",
+          "score": 0.0805,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0688",
+          "score": 0.0771,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Foot care in inflammatory arthritis",
+      "objective": "Refer RA-associated painful foot disability for podiatry assessment.",
+      "reference": [
+        {
+          "label": "NICE NG100: Rheumatoid arthritis",
+          "url": "https://www.nice.org.uk/guidance/ng100/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0459",
+      "concept": "gout-normal-urate-during-flare",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Recheck urate after an acute flare when gout remains strongly suspected. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG219: Gout diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: purine metabolism. Distinct decision: Recheck urate after an acute flare when gout remains strongly suspected.",
+      "candidates": [
+        {
+          "code": "op26x-0212",
+          "score": 0.2979,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0404",
+          "score": 0.154,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0437",
+          "score": 0.1253,
+          "sameObjective": false,
+          "lexical": 0.0392156862745098
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Serum urate during acute gout",
+      "objective": "Recheck urate after an acute flare when gout remains strongly suspected.",
+      "reference": [
+        {
+          "label": "NICE NG219: Gout diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng219/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0460",
+      "concept": "gout-uncertain-aspiration",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Use synovial microscopy to clarify an uncertain crystal arthritis diagnosis. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG219: Gout diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: septic arthritis reasoning. Distinct decision: Use synovial microscopy to clarify an uncertain crystal arthritis diagnosis.",
+      "candidates": [
+        {
+          "code": "op26-0175",
+          "score": 0.1474,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0797",
+          "score": 0.1365,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0632",
+          "score": 0.1328,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Confirming uncertain crystal arthritis",
+      "objective": "Use synovial microscopy to clarify an uncertain crystal arthritis diagnosis.",
+      "reference": [
+        {
+          "label": "NICE NG219: Gout diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng219/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0461",
+      "concept": "gout-flare-renal-comorbidity-treatment",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Use renal and bleeding risks when selecting acute gout anti-inflammatory treatment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG219: Gout diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: NSAID renal and gastrointestinal effects. Distinct decision: Use renal and bleeding risks when selecting acute gout anti-inflammatory treatment.",
+      "candidates": [
+        {
+          "code": "op26x-0459",
+          "score": 0.1753,
+          "sameObjective": false,
+          "lexical": 0.038461538461538464
+        },
+        {
+          "code": "op26x-0389",
+          "score": 0.1095,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0443",
+          "score": 0.1015,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Comorbidity-informed gout flare care",
+      "objective": "Use renal and bleeding risks when selecting acute gout anti-inflammatory treatment.",
+      "reference": [
+        {
+          "label": "NICE NG219: Gout diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng219/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0462",
+      "concept": "gout-tophi-urate-lowering-indication",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Offer a long-term urate-lowering discussion for frequent gout flares with tophi. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG219: Gout diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: purine metabolism. Distinct decision: Offer a long-term urate-lowering discussion for frequent gout flares with tophi.",
+      "candidates": [
+        {
+          "code": "op26x-0797",
+          "score": 0.2163,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0341",
+          "score": 0.1959,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0459",
+          "score": 0.1782,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Long-term treatment for recurrent gout",
+      "objective": "Offer a long-term urate-lowering discussion for frequent gout flares with tophi.",
+      "reference": [
+        {
+          "label": "NICE NG219: Gout diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng219/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0463",
+      "concept": "gout-treat-target-monitoring",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Explain treat-to-target urate monitoring despite a pain-free interval. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG219: Gout diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: purine metabolism. Distinct decision: Explain treat-to-target urate monitoring despite a pain-free interval.",
+      "candidates": [
+        {
+          "code": "op26x-0462",
+          "score": 0.2657,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0459",
+          "score": 0.2305,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0212",
+          "score": 0.2137,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Monitoring urate-lowering therapy",
+      "objective": "Explain treat-to-target urate monitoring despite a pain-free interval.",
+      "reference": [
+        {
+          "label": "NICE NG219: Gout diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng219/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0464",
+      "concept": "gout-major-cvd-allopurinol-choice",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Select NICE-preferred first-line urate lowering when major cardiovascular disease is present. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG219: Gout diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: purine metabolism pharmacology. Distinct decision: Select NICE-preferred first-line urate lowering when major cardiovascular disease is present.",
+      "candidates": [
+        {
+          "code": "op26x-0463",
+          "score": 0.1863,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0462",
+          "score": 0.1728,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0459",
+          "score": 0.1444,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Urate-lowering choice with cardiovascular disease",
+      "objective": "Select NICE-preferred first-line urate lowering when major cardiovascular disease is present.",
+      "reference": [
+        {
+          "label": "NICE NG219: Gout diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng219/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0465",
+      "concept": "gout-ult-initiation-flare-prophylaxis",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Discuss flare prophylaxis when initiating and titrating urate-lowering therapy. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG219: Gout diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: purine metabolism. Distinct decision: Discuss flare prophylaxis when initiating and titrating urate-lowering therapy.",
+      "candidates": [
+        {
+          "code": "op26x-0462",
+          "score": 0.322,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0463",
+          "score": 0.213,
+          "sameObjective": false,
+          "lexical": 0.02040816326530612
+        },
+        {
+          "code": "op26x-0459",
+          "score": 0.176,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Preventing flares during urate lowering",
+      "objective": "Discuss flare prophylaxis when initiating and titrating urate-lowering therapy.",
+      "reference": [
+        {
+          "label": "NICE NG219: Gout diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng219/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0466",
+      "concept": "gout-cold-therapy-adjunct",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Use safe local cold therapy as an adjunct during a treated gout flare. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG219: Gout diagnosis and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: inflammatory joint pain. Distinct decision: Use safe local cold therapy as an adjunct during a treated gout flare.",
+      "candidates": [
+        {
+          "code": "op26x-0459",
+          "score": 0.2125,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0465",
+          "score": 0.1321,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0461",
+          "score": 0.131,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Supportive measures during gout flare",
+      "objective": "Use safe local cold therapy as an adjunct during a treated gout flare.",
+      "reference": [
+        {
+          "label": "NICE NG219: Gout diagnosis and management",
+          "url": "https://www.nice.org.uk/guidance/ng219/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0467",
+      "concept": "psoriasis-impact-small-bsa",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Include functional impact when assessing limited-area psoriasis at a disabling site. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG153: Psoriasis assessment and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cutaneous inflammation. Distinct decision: Include functional impact when assessing limited-area psoriasis at a disabling site.",
+      "candidates": [
+        {
+          "code": "op26x-0327",
+          "score": 0.1222,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0673",
+          "score": 0.1059,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0671",
+          "score": 0.1023,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Psoriasis severity beyond surface area",
+      "objective": "Include functional impact when assessing limited-area psoriasis at a disabling site.",
+      "reference": [
+        {
+          "label": "NICE CG153: Psoriasis assessment and management",
+          "url": "https://www.nice.org.uk/guidance/cg153/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0468",
+      "concept": "psoriasis-arthritis-yearly-screen",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Offer periodic psoriatic arthritis assessment in patients with psoriasis. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG153: Psoriasis assessment and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: autoimmune joint pathology. Distinct decision: Offer periodic psoriatic arthritis assessment in patients with psoriasis.",
+      "candidates": [
+        {
+          "code": "op26x-0453",
+          "score": 0.1157,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0057",
+          "score": 0.1104,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0427",
+          "score": 0.0985,
+          "sameObjective": false,
+          "lexical": 0.023255813953488372
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Joint assessment in psoriasis",
+      "objective": "Offer periodic psoriatic arthritis assessment in patients with psoriasis.",
+      "reference": [
+        {
+          "label": "NICE CG153: Psoriasis assessment and management",
+          "url": "https://www.nice.org.uk/guidance/cg153/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0469",
+      "concept": "psoriasis-new-inflammatory-joints",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Refer psoriasis with persistent inflammatory joint symptoms for rheumatological assessment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG153: Psoriasis assessment and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: autoimmune joint pathology. Distinct decision: Refer psoriasis with persistent inflammatory joint symptoms for rheumatological assessment.",
+      "candidates": [
+        {
+          "code": "op26x-0451",
+          "score": 0.332,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0468",
+          "score": 0.3051,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0452",
+          "score": 0.137,
+          "sameObjective": false,
+          "lexical": 0.044444444444444446
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Psoriatic arthritis referral",
+      "objective": "Refer psoriasis with persistent inflammatory joint symptoms for rheumatological assessment.",
+      "reference": [
+        {
+          "label": "NICE CG153: Psoriasis assessment and management",
+          "url": "https://www.nice.org.uk/guidance/cg153/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0470",
+      "concept": "generalized-pustular-psoriasis-urgent",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Arrange same-day specialist care for generalized pustular psoriasis. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG153: Psoriasis assessment and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cutaneous inflammation. Distinct decision: Arrange same-day specialist care for generalized pustular psoriasis.",
+      "candidates": [
+        {
+          "code": "op26x-0388",
+          "score": 0.1708,
+          "sameObjective": false,
+          "lexical": 0.027777777777777776
+        },
+        {
+          "code": "op26x-0468",
+          "score": 0.1599,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0469",
+          "score": 0.1503,
+          "sameObjective": false,
+          "lexical": 0.08571428571428572
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Acute severe psoriasis referral",
+      "objective": "Arrange same-day specialist care for generalized pustular psoriasis.",
+      "reference": [
+        {
+          "label": "NICE CG153: Psoriasis assessment and management",
+          "url": "https://www.nice.org.uk/guidance/cg153/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0471",
+      "concept": "erythrodermic-psoriasis-urgent",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Recognize erythroderma as an urgent psoriasis presentation even without pustules. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG153: Psoriasis assessment and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: skin barrier physiology. Distinct decision: Recognize erythroderma as an urgent psoriasis presentation even without pustules.",
+      "candidates": [
+        {
+          "code": "op26x-0470",
+          "score": 0.3279,
+          "sameObjective": false,
+          "lexical": 0.024390243902439025
+        },
+        {
+          "code": "op26x-0469",
+          "score": 0.1405,
+          "sameObjective": false,
+          "lexical": 0.045454545454545456
+        },
+        {
+          "code": "op26x-0468",
+          "score": 0.1238,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Erythroderma in psoriasis",
+      "objective": "Recognize erythroderma as an urgent psoriasis presentation even without pustules.",
+      "reference": [
+        {
+          "label": "NICE CG153: Psoriasis assessment and management",
+          "url": "https://www.nice.org.uk/guidance/cg153/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0472",
+      "concept": "psoriasis-topical-nonresponse-adherence",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Review formulation and adherence barriers before escalating topical psoriasis treatment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG153: Psoriasis assessment and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: topical drug delivery. Distinct decision: Review formulation and adherence barriers before escalating topical psoriasis treatment.",
+      "candidates": [
+        {
+          "code": "op26x-0331",
+          "score": 0.2318,
+          "sameObjective": false,
+          "lexical": 0.06896551724137931
+        },
+        {
+          "code": "op26x-0450",
+          "score": 0.1668,
+          "sameObjective": false,
+          "lexical": 0.016129032258064516
+        },
+        {
+          "code": "op26x-0426",
+          "score": 0.1403,
+          "sameObjective": false,
+          "lexical": 0.05454545454545454
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Review before topical psoriasis escalation",
+      "objective": "Review formulation and adherence barriers before escalating topical psoriasis treatment.",
+      "reference": [
+        {
+          "label": "NICE CG153: Psoriasis assessment and management",
+          "url": "https://www.nice.org.uk/guidance/cg153/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0473",
+      "concept": "psoriasis-psychological-burden",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Assess depression and social impact when psoriasis limits participation. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG153: Psoriasis assessment and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: depression severity formulation. Distinct decision: Assess depression and social impact when psoriasis limits participation.",
+      "candidates": [
+        {
+          "code": "op26x-0467",
+          "score": 0.2905,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0469",
+          "score": 0.1421,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0470",
+          "score": 0.1347,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Psychological impact in psoriasis",
+      "objective": "Assess depression and social impact when psoriasis limits participation.",
+      "reference": [
+        {
+          "label": "NICE CG153: Psoriasis assessment and management",
+          "url": "https://www.nice.org.uk/guidance/cg153/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0474",
+      "concept": "psoriasis-cardiovascular-risk-assessment",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Include cardiovascular risk review in severe psoriasis care. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG153: Psoriasis assessment and management supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: chronic inflammation and vascular risk. Distinct decision: Include cardiovascular risk review in severe psoriasis care.",
+      "candidates": [
+        {
+          "code": "op26x-0454",
+          "score": 0.2557,
+          "sameObjective": false,
+          "lexical": 0.022222222222222223
+        },
+        {
+          "code": "op26x-0324",
+          "score": 0.1962,
+          "sameObjective": false,
+          "lexical": 0.019230769230769232
+        },
+        {
+          "code": "op26x-0470",
+          "score": 0.1906,
+          "sameObjective": false,
+          "lexical": 0.05128205128205128
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Comorbidity review in severe psoriasis",
+      "objective": "Include cardiovascular risk review in severe psoriasis care.",
+      "reference": [
+        {
+          "label": "NICE CG153: Psoriasis assessment and management",
+          "url": "https://www.nice.org.uk/guidance/cg153/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0475",
+      "concept": "b12-neurological-without-macrocytosis",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Avoid excluding B12 deficiency from neurological symptoms solely because the blood count is normal. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG239: Vitamin B12 deficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: megaloblastic anemia mechanism. Distinct decision: Avoid excluding B12 deficiency from neurological symptoms solely because the blood count is normal.",
+      "candidates": [
+        {
+          "code": "op26x-0417",
+          "score": 0.3166,
+          "sameObjective": false,
+          "lexical": 0.09523809523809523
+        },
+        {
+          "code": "op26x-0366",
+          "score": 0.2583,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0058",
+          "score": 0.2164,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "B12 deficiency without anemia",
+      "objective": "Avoid excluding B12 deficiency from neurological symptoms solely because the blood count is normal.",
+      "reference": [
+        {
+          "label": "NICE NG239: Vitamin B12 deficiency",
+          "url": "https://www.nice.org.uk/guidance/ng239/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0476",
+      "concept": "b12-indeterminate-mma-next",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Use MMA to help clarify symptomatic indeterminate B12 results. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG239: Vitamin B12 deficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: B12-dependent metabolism. Distinct decision: Use MMA to help clarify symptomatic indeterminate B12 results.",
+      "candidates": [
+        {
+          "code": "op26x-0460",
+          "score": 0.1878,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0058",
+          "score": 0.1808,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0475",
+          "score": 0.1372,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Indeterminate B12 with symptoms",
+      "objective": "Use MMA to help clarify symptomatic indeterminate B12 results.",
+      "reference": [
+        {
+          "label": "NICE NG239: Vitamin B12 deficiency",
+          "url": "https://www.nice.org.uk/guidance/ng239/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0477",
+      "concept": "nitrous-oxide-functional-b12-assessment",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Assess functional B12 markers in suspected nitrous oxide-related neurological disease. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG239: Vitamin B12 deficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cobalamin metabolism. Distinct decision: Assess functional B12 markers in suspected nitrous oxide-related neurological disease.",
+      "candidates": [
+        {
+          "code": "op26-0058",
+          "score": 0.219,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0475",
+          "score": 0.2131,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0476",
+          "score": 0.157,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Functional B12 inactivation",
+      "objective": "Assess functional B12 markers in suspected nitrous oxide-related neurological disease.",
+      "reference": [
+        {
+          "label": "NICE NG239: Vitamin B12 deficiency",
+          "url": "https://www.nice.org.uk/guidance/ng239/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0478",
+      "concept": "b12-neurological-treatment-not-delay",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Avoid delaying replacement for suspected B12 deficiency with progressive neurological involvement. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG239: Vitamin B12 deficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: megaloblastic anemia mechanism. Distinct decision: Avoid delaying replacement for suspected B12 deficiency with progressive neurological involvement.",
+      "candidates": [
+        {
+          "code": "op26x-0475",
+          "score": 0.3342,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0477",
+          "score": 0.257,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0366",
+          "score": 0.1832,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Prompt treatment of suspected B12 neurological disease",
+      "objective": "Avoid delaying replacement for suspected B12 deficiency with progressive neurological involvement.",
+      "reference": [
+        {
+          "label": "NICE NG239: Vitamin B12 deficiency",
+          "url": "https://www.nice.org.uk/guidance/ng239/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0479",
+      "concept": "b12-autoimmune-gastritis-antibody",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Use anti-intrinsic factor antibodies to support autoimmune gastritis in confirmed B12 deficiency. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG239: Vitamin B12 deficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: intrinsic factor B12 transport. Distinct decision: Use anti-intrinsic factor antibodies to support autoimmune gastritis in confirmed B12 deficiency.",
+      "candidates": [
+        {
+          "code": "op26x-0383",
+          "score": 0.2703,
+          "sameObjective": false,
+          "lexical": 0.044444444444444446
+        },
+        {
+          "code": "op26x-0031",
+          "score": 0.2472,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0475",
+          "score": 0.1565,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Investigating the cause of B12 deficiency",
+      "objective": "Use anti-intrinsic factor antibodies to support autoimmune gastritis in confirmed B12 deficiency.",
+      "reference": [
+        {
+          "label": "NICE NG239: Vitamin B12 deficiency",
+          "url": "https://www.nice.org.uk/guidance/ng239/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0480",
+      "concept": "b12-negative-if-antibody-limits",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Recognize that negative intrinsic factor antibodies do not exclude autoimmune gastritis. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG239: Vitamin B12 deficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest item op26x-0479 asks which etiological test supports autoimmune gastritis in confirmed deficiency. This item instead requires interpreting a negative result despite high suspicion: limited sensitivity means the test does not exclude the cause. Test selection and negative-test interpretation are different clinical operations.",
+      "candidates": [
+        {
+          "code": "op26x-0479",
+          "score": 0.6504,
+          "sameObjective": false,
+          "lexical": 0.13157894736842105
+        },
+        {
+          "code": "op26x-0031",
+          "score": 0.2051,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0475",
+          "score": 0.1836,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Limits of intrinsic factor antibody testing",
+      "objective": "Recognize that negative intrinsic factor antibodies do not exclude autoimmune gastritis.",
+      "reference": [
+        {
+          "label": "NICE NG239: Vitamin B12 deficiency",
+          "url": "https://www.nice.org.uk/guidance/ng239/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0481",
+      "concept": "b12-autoimmune-lifelong-replacement",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Explain lifelong replacement when autoimmune gastritis causes B12 deficiency. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG239: Vitamin B12 deficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: intrinsic factor B12 transport. Distinct decision: Explain lifelong replacement when autoimmune gastritis causes B12 deficiency.",
+      "candidates": [
+        {
+          "code": "op26x-0479",
+          "score": 0.4084,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0480",
+          "score": 0.341,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0478",
+          "score": 0.1974,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Long-term B12 replacement with irreversible malabsorption",
+      "objective": "Explain lifelong replacement when autoimmune gastritis causes B12 deficiency.",
+      "reference": [
+        {
+          "label": "NICE NG239: Vitamin B12 deficiency",
+          "url": "https://www.nice.org.uk/guidance/ng239/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0482",
+      "concept": "b12-total-gastrectomy-replacement-plan",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Plan lifelong B12 replacement after total gastrectomy before delayed depletion occurs. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG239: Vitamin B12 deficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: intrinsic factor B12 transport. Distinct decision: Plan lifelong B12 replacement after total gastrectomy before delayed depletion occurs.",
+      "candidates": [
+        {
+          "code": "op26x-0481",
+          "score": 0.2766,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0478",
+          "score": 0.1735,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        },
+        {
+          "code": "op26x-0031",
+          "score": 0.1532,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "B12 care after total gastrectomy",
+      "objective": "Plan lifelong B12 replacement after total gastrectomy before delayed depletion occurs.",
+      "reference": [
+        {
+          "label": "NICE NG239: Vitamin B12 deficiency",
+          "url": "https://www.nice.org.uk/guidance/ng239/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0483",
+      "concept": "adrenal-crisis-treat-before-confirm",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Treat suspected adrenal crisis immediately rather than awaiting confirmatory tests. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. Society for Endocrinology: Adrenal crisis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: adrenal hormone physiology. Distinct decision: Treat suspected adrenal crisis immediately rather than awaiting confirmatory tests.",
+      "candidates": [
+        {
+          "code": "op26-0070",
+          "score": 0.1389,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0478",
+          "score": 0.1381,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0341",
+          "score": 0.0999,
+          "sameObjective": false,
+          "lexical": 0.022222222222222223
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Suspected adrenal crisis emergency",
+      "objective": "Treat suspected adrenal crisis immediately rather than awaiting confirmatory tests.",
+      "reference": [
+        {
+          "label": "Society for Endocrinology: Adrenal crisis",
+          "url": "https://www.endocrinology.org/clinical-practice/clinical-guidance/adrenal-crisis/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0484",
+      "concept": "adrenal-sick-day-education",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Provide sick-day and emergency instructions for physiological stress in adrenal insufficiency. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG243: Adrenal insufficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cortisol stress response. Distinct decision: Provide sick-day and emergency instructions for physiological stress in adrenal insufficiency.",
+      "candidates": [
+        {
+          "code": "op26x-0483",
+          "score": 0.154,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0070",
+          "score": 0.1149,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0355",
+          "score": 0.1005,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Stress dosing education in adrenal insufficiency",
+      "objective": "Provide sick-day and emergency instructions for physiological stress in adrenal insufficiency.",
+      "reference": [
+        {
+          "label": "NICE NG243: Adrenal insufficiency",
+          "url": "https://www.nice.org.uk/guidance/ng243/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0485",
+      "concept": "adrenal-vomiting-oral-route-failure",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Escalate repeated vomiting that prevents oral replacement in adrenal insufficiency. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG243: Adrenal insufficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cortisol stress response. Distinct decision: Escalate repeated vomiting that prevents oral replacement in adrenal insufficiency.",
+      "candidates": [
+        {
+          "code": "op26x-0484",
+          "score": 0.2506,
+          "sameObjective": false,
+          "lexical": 0.023809523809523808
+        },
+        {
+          "code": "op26x-0483",
+          "score": 0.1644,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0070",
+          "score": 0.1498,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Vomiting during adrenal replacement",
+      "objective": "Escalate repeated vomiting that prevents oral replacement in adrenal insufficiency.",
+      "reference": [
+        {
+          "label": "NICE NG243: Adrenal insufficiency",
+          "url": "https://www.nice.org.uk/guidance/ng243/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0486",
+      "concept": "adrenal-emergency-card-preparedness",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Use steroid emergency information as part of adrenal crisis preparedness. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG243: Adrenal insufficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: medical safety communication. Distinct decision: Use steroid emergency information as part of adrenal crisis preparedness.",
+      "candidates": [
+        {
+          "code": "op26x-0483",
+          "score": 0.2361,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0484",
+          "score": 0.2288,
+          "sameObjective": false,
+          "lexical": 0.024390243902439025
+        },
+        {
+          "code": "op26x-0485",
+          "score": 0.1969,
+          "sameObjective": false,
+          "lexical": 0.07894736842105263
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Emergency information for adrenal insufficiency",
+      "objective": "Use steroid emergency information as part of adrenal crisis preparedness.",
+      "reference": [
+        {
+          "label": "NICE NG243: Adrenal insufficiency",
+          "url": "https://www.nice.org.uk/guidance/ng243/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0487",
+      "concept": "adrenal-longterm-steroid-withdrawal",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Assess adrenal suppression risk before withdrawing prolonged systemic glucocorticoids. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG243: Adrenal insufficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: glucocorticoid negative feedback. Distinct decision: Assess adrenal suppression risk before withdrawing prolonged systemic glucocorticoids.",
+      "candidates": [
+        {
+          "code": "op26x-0020",
+          "score": 0.1227,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0330",
+          "score": 0.1062,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0486",
+          "score": 0.0856,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Adrenal risk after prolonged glucocorticoids",
+      "objective": "Assess adrenal suppression risk before withdrawing prolonged systemic glucocorticoids.",
+      "reference": [
+        {
+          "label": "NICE NG243: Adrenal insufficiency",
+          "url": "https://www.nice.org.uk/guidance/ng243/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0488",
+      "concept": "adrenal-morning-cortisol-timing",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Use standardized morning timing when applying an initial cortisol diagnostic pathway. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG243: Adrenal insufficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: circadian endocrine physiology. Distinct decision: Use standardized morning timing when applying an initial cortisol diagnostic pathway.",
+      "candidates": [
+        {
+          "code": "op26-0070",
+          "score": 0.2022,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0780",
+          "score": 0.1358,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0021",
+          "score": 0.119,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Initial testing for suspected adrenal insufficiency",
+      "objective": "Use standardized morning timing when applying an initial cortisol diagnostic pathway.",
+      "reference": [
+        {
+          "label": "NICE NG243: Adrenal insufficiency",
+          "url": "https://www.nice.org.uk/guidance/ng243/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0489",
+      "concept": "adrenal-replacement-overexposure-review",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Review possible overreplacement when adrenal therapy is accompanied by glucocorticoid-excess features. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG243: Adrenal insufficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cortisol metabolic actions. Distinct decision: Review possible overreplacement when adrenal therapy is accompanied by glucocorticoid-excess features.",
+      "candidates": [
+        {
+          "code": "op26x-0485",
+          "score": 0.1815,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0400",
+          "score": 0.141,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0474",
+          "score": 0.1141,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Possible glucocorticoid overreplacement",
+      "objective": "Review possible overreplacement when adrenal therapy is accompanied by glucocorticoid-excess features.",
+      "reference": [
+        {
+          "label": "NICE NG243: Adrenal insufficiency",
+          "url": "https://www.nice.org.uk/guidance/ng243/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0490",
+      "concept": "adrenal-underreplacement-clinical-review",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Reassess exposure and alternative causes when symptoms suggest inadequate adrenal replacement. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG243: Adrenal insufficiency supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cortisol and circulatory support. Distinct decision: Reassess exposure and alternative causes when symptoms suggest inadequate adrenal replacement.",
+      "candidates": [
+        {
+          "code": "op26x-0489",
+          "score": 0.2181,
+          "sameObjective": false,
+          "lexical": 0.07142857142857142
+        },
+        {
+          "code": "op26x-0485",
+          "score": 0.1728,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0414",
+          "score": 0.1681,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Possible inadequate adrenal replacement",
+      "objective": "Reassess exposure and alternative causes when symptoms suggest inadequate adrenal replacement.",
+      "reference": [
+        {
+          "label": "NICE NG243: Adrenal insufficiency",
+          "url": "https://www.nice.org.uk/guidance/ng243/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0491",
+      "concept": "aplastic-trilineage-cytopenia-pattern",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Recognize multilineage marrow failure as a unifying explanation for fatigue infection and bruising. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NHLBI: Aplastic anemia supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: hematopoiesis. Distinct decision: Recognize multilineage marrow failure as a unifying explanation for fatigue infection and bruising.",
+      "candidates": [
+        {
+          "code": "op26x-0615",
+          "score": 0.3132,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0262",
+          "score": 0.1407,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0169",
+          "score": 0.1239,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Marrow failure clinical pattern",
+      "objective": "Recognize multilineage marrow failure as a unifying explanation for fatigue infection and bruising.",
+      "reference": [
+        {
+          "label": "NHLBI: Aplastic anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/aplastic-anemia"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0492",
+      "concept": "aplastic-medication-exposure-history",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Take a marrow-toxic medication and exposure history in suspected aplastic anemia. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NHLBI: Aplastic anemia supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: hematopoiesis. Distinct decision: Take a marrow-toxic medication and exposure history in suspected aplastic anemia.",
+      "candidates": [
+        {
+          "code": "op26x-0360",
+          "score": 0.0945,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0363",
+          "score": 0.0928,
+          "sameObjective": false,
+          "lexical": 0.020833333333333332
+        },
+        {
+          "code": "op26x-0386",
+          "score": 0.0908,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Exposure history in suspected marrow failure",
+      "objective": "Take a marrow-toxic medication and exposure history in suspected aplastic anemia.",
+      "reference": [
+        {
+          "label": "NHLBI: Aplastic anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/aplastic-anemia"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0493",
+      "concept": "aplastic-bone-marrow-diagnostic-assessment",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Use specialist marrow assessment to investigate unexplained persistent pancytopenia. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NHLBI: Aplastic anemia supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: hematopoiesis. Distinct decision: Use specialist marrow assessment to investigate unexplained persistent pancytopenia.",
+      "candidates": [
+        {
+          "code": "op26x-0492",
+          "score": 0.1744,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0404",
+          "score": 0.1725,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0491",
+          "score": 0.171,
+          "sameObjective": false,
+          "lexical": 0.020833333333333332
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Evaluating suspected aplastic anemia",
+      "objective": "Use specialist marrow assessment to investigate unexplained persistent pancytopenia.",
+      "reference": [
+        {
+          "label": "NHLBI: Aplastic anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/aplastic-anemia"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0494",
+      "concept": "aplastic-neutropenia-infection-risk",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Explain infection risk from low white-cell production despite stable hemoglobin. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NHLBI: Aplastic anemia supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: hematopoiesis. Distinct decision: Explain infection risk from low white-cell production despite stable hemoglobin.",
+      "candidates": [
+        {
+          "code": "op26-0059",
+          "score": 0.1743,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0533",
+          "score": 0.1576,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0419",
+          "score": 0.1423,
+          "sameObjective": false,
+          "lexical": 0.07317073170731707
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Infection risk in marrow failure",
+      "objective": "Explain infection risk from low white-cell production despite stable hemoglobin.",
+      "reference": [
+        {
+          "label": "NHLBI: Aplastic anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/aplastic-anemia"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0495",
+      "concept": "sickle-new-infiltrate-acute-chest",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Recognize acute chest syndrome when a pain admission develops hypoxemia and an infiltrate. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NHLBI: Sickle cell disease health effects supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: sickle hemoglobin polymerization. Distinct decision: Recognize acute chest syndrome when a pain admission develops hypoxemia and an infiltrate.",
+      "candidates": [
+        {
+          "code": "op26x-0430",
+          "score": 0.2008,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s2-0008",
+          "score": 0.189,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0355",
+          "score": 0.1563,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Acute chest syndrome recognition",
+      "objective": "Recognize acute chest syndrome when a pain admission develops hypoxemia and an infiltrate.",
+      "reference": [
+        {
+          "label": "NHLBI: Sickle cell disease health effects",
+          "url": "https://www.nhlbi.nih.gov/health/sickle-cell-disease/health-effects"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0496",
+      "concept": "sickle-aplastic-crisis-reticulocytopenia",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Use reticulocytopenia to identify an aplastic crisis during sickle cell acute anemia. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NHLBI: Sickle cell disease health effects supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: sickle hemoglobin polymerization. Distinct decision: Use reticulocytopenia to identify an aplastic crisis during sickle cell acute anemia.",
+      "candidates": [
+        {
+          "code": "op26x-0494",
+          "score": 0.2202,
+          "sameObjective": false,
+          "lexical": 0.023255813953488372
+        },
+        {
+          "code": "op26x-0262",
+          "score": 0.177,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0492",
+          "score": 0.1724,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Acute anemia with low reticulocytes in sickle disease",
+      "objective": "Use reticulocytopenia to identify an aplastic crisis during sickle cell acute anemia.",
+      "reference": [
+        {
+          "label": "NHLBI: Sickle cell disease health effects",
+          "url": "https://www.nhlbi.nih.gov/health/sickle-cell-disease/health-effects"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0497",
+      "concept": "sickle-focal-neurology-emergency",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Escalate sudden focal neurological deficits in sickle disease as possible stroke. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NHLBI: Sickle cell disease health effects supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: ischemic stroke localization. Distinct decision: Escalate sudden focal neurological deficits in sickle disease as possible stroke.",
+      "candidates": [
+        {
+          "code": "op26x-0325",
+          "score": 0.2255,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0496",
+          "score": 0.1872,
+          "sameObjective": false,
+          "lexical": 0.07142857142857142
+        },
+        {
+          "code": "op26x-0320",
+          "score": 0.1756,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Acute neurological deficit in sickle disease",
+      "objective": "Escalate sudden focal neurological deficits in sickle disease as possible stroke.",
+      "reference": [
+        {
+          "label": "NHLBI: Sickle cell disease health effects",
+          "url": "https://www.nhlbi.nih.gov/health/sickle-cell-disease/health-effects"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0498",
+      "concept": "sickle-priapism-urgent-assessment",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Recognize prolonged painful priapism in sickle disease as an emergency. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NHLBI: Sickle cell disease health effects supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: sickle hemoglobin polymerization. Distinct decision: Recognize prolonged painful priapism in sickle disease as an emergency.",
+      "candidates": [
+        {
+          "code": "op26x-0684",
+          "score": 0.3898,
+          "sameObjective": false,
+          "lexical": 0.023255813953488372
+        },
+        {
+          "code": "op26x-0497",
+          "score": 0.2516,
+          "sameObjective": false,
+          "lexical": 0.05263157894736842
+        },
+        {
+          "code": "op26x-0496",
+          "score": 0.1681,
+          "sameObjective": false,
+          "lexical": 0.04878048780487805
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Vaso-occlusive urological complication",
+      "objective": "Recognize prolonged painful priapism in sickle disease as an emergency.",
+      "reference": [
+        {
+          "label": "NHLBI: Sickle cell disease health effects",
+          "url": "https://www.nhlbi.nih.gov/health/sickle-cell-disease/health-effects"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0499",
+      "concept": "sickle-chronic-transfusion-iron-review",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Assess cumulative iron overload after repeated transfusions in sickle cell disease. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NHLBI: Sickle cell disease health effects supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: iron overload diagnostic pattern. Distinct decision: Assess cumulative iron overload after repeated transfusions in sickle cell disease.",
+      "candidates": [
+        {
+          "code": "op26x-0496",
+          "score": 0.1722,
+          "sameObjective": false,
+          "lexical": 0.043478260869565216
+        },
+        {
+          "code": "op26x-0497",
+          "score": 0.1664,
+          "sameObjective": false,
+          "lexical": 0.0975609756097561
+        },
+        {
+          "code": "op26x-0498",
+          "score": 0.156,
+          "sameObjective": false,
+          "lexical": 0.075
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Iron burden after repeated transfusion",
+      "objective": "Assess cumulative iron overload after repeated transfusions in sickle cell disease.",
+      "reference": [
+        {
+          "label": "NHLBI: Sickle cell disease health effects",
+          "url": "https://www.nhlbi.nih.gov/health/sickle-cell-disease/health-effects"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0500",
+      "concept": "hypertension-renal-target-organ-assessment",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Assess albuminuria as part of renal target-organ evaluation in confirmed hypertension. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG136: Hypertension in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: glomerular filtration physiology. Distinct decision: Assess albuminuria as part of renal target-organ evaluation in confirmed hypertension.",
+      "candidates": [
+        {
+          "code": "op26x-0543",
+          "score": 0.2509,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0199",
+          "score": 0.1729,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0544",
+          "score": 0.1534,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Renal target-organ assessment in hypertension",
+      "objective": "Assess albuminuria as part of renal target-organ evaluation in confirmed hypertension.",
+      "reference": [
+        {
+          "label": "NICE NG136: Hypertension in adults",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/recommendations"
+        }
+      ]
+    }
+  ]
+}

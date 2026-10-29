@@ -1,0 +1,1152 @@
+[
+  {
+    "code": "op26-0001",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Axillary nerve",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old climber falls onto an outstretched arm and sustains an anterior shoulder dislocation. After reduction, she cannot abduct the arm from 20 to 90 degrees and has reduced sensation over the lateral shoulder. Which nerve is most likely injured?",
+    "options": [
+      {
+        "text": "Suprascapular nerve",
+        "explanation": "It supplies supraspinatus and infraspinatus without lateral shoulder skin sensation.",
+        "correct": false
+      },
+      {
+        "text": "Long thoracic nerve",
+        "explanation": "Injury weakens serratus anterior and causes scapular winging.",
+        "correct": false
+      },
+      {
+        "text": "Radial nerve",
+        "explanation": "Injury usually impairs wrist extension and dorsal hand sensation.",
+        "correct": false
+      },
+      {
+        "text": "Axillary nerve",
+        "explanation": "It supplies the deltoid and sensation over the lateral shoulder.",
+        "correct": true
+      }
+    ],
+    "explanation": "The combined motor and sensory deficit localizes to the axillary nerve, which passes near the surgical neck of the humerus. Deltoid weakness limits abduction after initiation by supraspinatus; the cutaneous deficit distinguishes this from an isolated rotator cuff tear.",
+    "objective": "Localize axillary injury using deltoid weakness and lateral shoulder numbness.",
+    "keyPoints": [
+      "Localize axillary injury using deltoid weakness and lateral shoulder numbness."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0002",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Long thoracic nerve",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "After axillary lymph-node surgery, a woman notices difficulty pushing open a heavy door. When she presses both palms against a wall, the medial border of one scapula lifts away from the thorax. Which muscle has most likely lost its innervation?",
+    "options": [
+      {
+        "text": "Rhomboid major",
+        "explanation": "Dorsal scapular injury impairs retraction rather than wall-push stabilization.",
+        "correct": false
+      },
+      {
+        "text": "Infraspinatus",
+        "explanation": "Suprascapular injury causes weak external rotation without this winging pattern.",
+        "correct": false
+      },
+      {
+        "text": "Serratus anterior",
+        "explanation": "Its long thoracic innervation is vulnerable along the lateral chest wall.",
+        "correct": true
+      },
+      {
+        "text": "Trapezius",
+        "explanation": "Accessory nerve injury causes shoulder droop and impaired shrugging.",
+        "correct": false
+      }
+    ],
+    "explanation": "Serratus anterior protracts the scapula and holds its medial border against the thoracic wall. Damage to the long thoracic nerve permits medial winging during forward pushing and can also impair upward rotation needed to elevate the arm overhead.",
+    "objective": "Recognize medial scapular winging from long thoracic nerve injury.",
+    "keyPoints": [
+      "Recognize medial scapular winging from long thoracic nerve injury."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0003",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Common fibular nerve",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A man spends several hours squatting while laying flooring. He subsequently develops foot drop, weak foot eversion, and numbness on the dorsum of his foot. Ankle inversion remains strong. Compression at which location best explains this pattern?",
+    "options": [
+      {
+        "text": "Posterior to the medial malleolus",
+        "explanation": "This is another location of the tibial nerve, sparing dorsiflexion.",
+        "correct": false
+      },
+      {
+        "text": "Fibular neck",
+        "explanation": "The common fibular nerve is superficial here and supplies both fibular branches.",
+        "correct": true
+      },
+      {
+        "text": "Tarsal tunnel",
+        "explanation": "Tibial compression produces plantar symptoms and may weaken toe flexion.",
+        "correct": false
+      },
+      {
+        "text": "Medial thigh",
+        "explanation": "Obturator injury weakens hip adduction rather than ankle dorsiflexion.",
+        "correct": false
+      }
+    ],
+    "explanation": "Compression of the common fibular nerve at the fibular neck affects dorsiflexion and eversion while sparing tibial-innervated inversion. Preserved inversion helps distinguish this peripheral lesion from an L5 radiculopathy, which may also weaken tibialis posterior.",
+    "objective": "Use preserved inversion to distinguish common fibular neuropathy from L5 root disease.",
+    "keyPoints": [
+      "Use preserved inversion to distinguish common fibular neuropathy from L5 root disease."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0004",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Median nerve",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A typist reports nighttime tingling in the thumb, index, and middle fingers. Thumb opposition is weak, but sensation over the thenar eminence is normal. The lesion most likely compresses which structure?",
+    "options": [
+      {
+        "text": "Median nerve in the carpal tunnel",
+        "explanation": "The palmar cutaneous branch leaves proximal to the tunnel and is spared.",
+        "correct": true
+      },
+      {
+        "text": "Ulnar nerve in Guyon canal",
+        "explanation": "This produces little-finger symptoms and weakness of ulnar hand muscles.",
+        "correct": false
+      },
+      {
+        "text": "Median nerve near the elbow",
+        "explanation": "A proximal lesion can affect thenar skin sensation and forearm flexors.",
+        "correct": false
+      },
+      {
+        "text": "Radial nerve in the spiral groove",
+        "explanation": "This impairs extension rather than thenar opposition.",
+        "correct": false
+      }
+    ],
+    "explanation": "The median nerve traverses the carpal tunnel beneath the flexor retinaculum. Its palmar cutaneous branch travels outside the tunnel, so preserved thenar eminence sensation despite median-digit paresthesias supports carpal tunnel compression rather than a proximal median lesion.",
+    "objective": "Localize carpal tunnel syndrome using sparing of thenar skin sensation.",
+    "keyPoints": [
+      "Localize carpal tunnel syndrome using sparing of thenar skin sensation."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0005",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Femoral nerve",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Following a pelvic procedure, a patient has weak knee extension and a reduced patellar reflex. Sensation is diminished along the medial leg, but ankle dorsiflexion is normal. Which nerve was most likely injured?",
+    "options": [
+      {
+        "text": "Obturator nerve",
+        "explanation": "It primarily supplies thigh adductors and a small medial thigh sensory area.",
+        "correct": false
+      },
+      {
+        "text": "Sciatic nerve",
+        "explanation": "A substantial lesion usually affects hamstrings and muscles below the knee.",
+        "correct": false
+      },
+      {
+        "text": "Superior gluteal nerve",
+        "explanation": "It weakens hip abductors and causes contralateral pelvic drop.",
+        "correct": false
+      },
+      {
+        "text": "Femoral nerve",
+        "explanation": "Its quadriceps branches and saphenous sensory branch explain the deficits.",
+        "correct": true
+      }
+    ],
+    "explanation": "The femoral nerve carries L2-L4 fibers to the quadriceps and supplies medial leg sensation through the saphenous nerve. Loss of knee extension and the patellar reflex therefore fits a femoral lesion, whereas an isolated obturator lesion would chiefly impair hip adduction.",
+    "objective": "Link quadriceps weakness, patellar reflex loss and saphenous sensory loss.",
+    "keyPoints": [
+      "Link quadriceps weakness, patellar reflex loss and saphenous sensory loss."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0006",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Nervous System",
+    "topic": "Cavernous sinus",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with a cavernous sinus lesion has horizontal diplopia and cannot abduct the right eye. The pupil responds normally and eyelid elevation is intact. Which cranial nerve is directly responsible for the lost movement?",
+    "options": [
+      {
+        "text": "Trochlear nerve",
+        "explanation": "It supplies superior oblique, important in depression of an adducted eye.",
+        "correct": false
+      },
+      {
+        "text": "Ophthalmic division of trigeminal nerve",
+        "explanation": "This provides sensation and the afferent corneal reflex limb, not eye movement.",
+        "correct": false
+      },
+      {
+        "text": "Abducens nerve",
+        "explanation": "It innervates the lateral rectus, which abducts the eye.",
+        "correct": true
+      },
+      {
+        "text": "Oculomotor nerve",
+        "explanation": "It supplies most other extraocular muscles, levator and pupillary fibers.",
+        "correct": false
+      }
+    ],
+    "explanation": "The lateral rectus abducts the globe and receives cranial nerve VI. This nerve runs within the cavernous sinus near the internal carotid artery. Preserved pupillary responses and lid elevation argue against a major oculomotor palsy as the explanation for this isolated deficit.",
+    "objective": "Identify cranial nerve VI dysfunction from failure of ocular abduction.",
+    "keyPoints": [
+      "Identify cranial nerve VI dysfunction from failure of ocular abduction."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0007",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Nervous System",
+    "topic": "Optic chiasm",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A woman with amenorrhea has a sellar mass extending upward. She bumps into objects on either side despite preserved central acuity. Which fibers are compressed to produce the expected visual-field defect?",
+    "options": [
+      {
+        "text": "Left occipital cortex fibers",
+        "explanation": "A unilateral cortical lesion causes a contralateral homonymous defect.",
+        "correct": false
+      },
+      {
+        "text": "Crossing nasal retinal fibers",
+        "explanation": "These carry temporal visual fields and cross in the optic chiasm.",
+        "correct": true
+      },
+      {
+        "text": "Uncrossed temporal retinal fibers only",
+        "explanation": "These carry nasal visual fields and do not explain bitemporal loss.",
+        "correct": false
+      },
+      {
+        "text": "Right optic tract fibers",
+        "explanation": "A tract lesion produces a left homonymous field deficit.",
+        "correct": false
+      }
+    ],
+    "explanation": "An expanding pituitary-region mass can compress the optic chiasm from below. Nasal retinal axons cross here and represent the temporal fields of both eyes. Their injury causes bitemporal hemianopia rather than the same-sided field loss caused by a postchiasmal lesion.",
+    "objective": "Map bitemporal field loss to crossing nasal retinal fibers.",
+    "keyPoints": [
+      "Map bitemporal field loss to crossing nasal retinal fibers."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0008",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Nervous System",
+    "topic": "Spinal cord tracts",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "After a right-sided spinal cord injury at T10, a patient loses right-leg vibration sense and develops right-leg weakness below the lesion. Pain and temperature are reduced in the left leg beginning a few segments lower. Which tract explains the left-sided sensory deficit?",
+    "options": [
+      {
+        "text": "Right anterolateral tract",
+        "explanation": "Pain-temperature fibers cross near entry and ascend contralaterally.",
+        "correct": true
+      },
+      {
+        "text": "Right dorsal column",
+        "explanation": "This carries ipsilateral vibration and position sense to the medulla.",
+        "correct": false
+      },
+      {
+        "text": "Left lateral corticospinal tract",
+        "explanation": "This is a descending motor pathway, not a pain-temperature tract.",
+        "correct": false
+      },
+      {
+        "text": "Right spinocerebellar tract",
+        "explanation": "This carries unconscious proprioceptive information rather than pain.",
+        "correct": false
+      }
+    ],
+    "explanation": "Pain and temperature afferents cross through the anterior white commissure shortly after entering the spinal cord. A right hemicord lesion interrupts pain signals ascending from the left side, with an offset of a few segments, while ipsilateral dorsal-column and corticospinal deficits occur below it.",
+    "objective": "Explain crossed pain-temperature loss in a spinal hemisection.",
+    "keyPoints": [
+      "Explain crossed pain-temperature loss in a spinal hemisection."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0009",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Gastrointestinal",
+    "topic": "Portal-systemic connections",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with cirrhosis develops bleeding esophageal varices. Increased portal pressure has expanded an anastomosis between the left gastric vein and systemic veins draining into which vessel?",
+    "options": [
+      {
+        "text": "Left renal vein",
+        "explanation": "It participates in other venous pathways but is not this esophageal drainage.",
+        "correct": false
+      },
+      {
+        "text": "Inferior mesenteric vein",
+        "explanation": "It is a portal tributary, not the systemic side of this anastomosis.",
+        "correct": false
+      },
+      {
+        "text": "Splenic vein",
+        "explanation": "This also belongs to the portal circulation and does not provide systemic outflow.",
+        "correct": false
+      },
+      {
+        "text": "Azygos vein",
+        "explanation": "Esophageal systemic veins drain toward the azygos system.",
+        "correct": true
+      }
+    ],
+    "explanation": "At the distal esophagus, portal tributaries of the left gastric vein communicate with systemic esophageal veins draining to the azygos system. Portal hypertension enlarges these submucosal channels, creating fragile varices that can bleed without requiring a primary esophageal mucosal ulcer.",
+    "objective": "Trace the portal-systemic pathway underlying esophageal varices.",
+    "keyPoints": [
+      "Trace the portal-systemic pathway underlying esophageal varices."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0010",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Gastrointestinal",
+    "topic": "Foregut blood supply",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "During surgery, the arterial supply to the stomach, spleen, and proximal duodenum is traced to a short anterior branch of the abdominal aorta just below the diaphragm. Which artery is this?",
+    "options": [
+      {
+        "text": "Inferior mesenteric artery",
+        "explanation": "It supplies hindgut rather than stomach or spleen.",
+        "correct": false
+      },
+      {
+        "text": "Internal iliac artery",
+        "explanation": "It supplies pelvic structures rather than upper abdominal foregut organs.",
+        "correct": false
+      },
+      {
+        "text": "Celiac trunk",
+        "explanation": "Its major branches supply foregut structures including the stomach and spleen.",
+        "correct": true
+      },
+      {
+        "text": "Superior mesenteric artery",
+        "explanation": "It supplies midgut from distal duodenum through proximal transverse colon.",
+        "correct": false
+      }
+    ],
+    "explanation": "The celiac trunk supplies the foregut through the left gastric, splenic, and common hepatic arteries. The duodenum has a transition to superior mesenteric supply near the major papilla, so the proximal location matters when localizing an upper gastrointestinal arterial injury.",
+    "objective": "Distinguish celiac foregut supply from mesenteric territories.",
+    "keyPoints": [
+      "Distinguish celiac foregut supply from mesenteric territories."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0011",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Pregnancy",
+    "topic": "Ureter and uterine artery",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "During hysterectomy, a vessel is ligated near the lateral cervix. The surgeon checks that a tubular structure passing inferior to this vessel has not been caught in the suture. Which structure is at risk?",
+    "options": [
+      {
+        "text": "Uterine tube",
+        "explanation": "It lies superiorly in the broad ligament rather than at the cervical crossing.",
+        "correct": false
+      },
+      {
+        "text": "Ureter",
+        "explanation": "It passes under the uterine artery near the cervix en route to the bladder.",
+        "correct": true
+      },
+      {
+        "text": "Ovarian ligament",
+        "explanation": "This connects ovary to uterus but is not the urine-carrying tube at this crossing.",
+        "correct": false
+      },
+      {
+        "text": "Round ligament of the uterus",
+        "explanation": "It courses toward the inguinal canal and is not beneath this arterial crossing.",
+        "correct": false
+      }
+    ],
+    "explanation": "The uterine artery crosses over the ureter near the cervix. This close relationship makes the ureter vulnerable during uterine artery ligation. A missed injury can later cause obstruction or urinary leakage despite an uncomplicated appearance of the bladder during surgery.",
+    "objective": "Recognize the ureter beneath the uterine artery near the cervix.",
+    "keyPoints": [
+      "Recognize the ureter beneath the uterine artery near the cervix."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0012",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Respiratory",
+    "topic": "Phrenic nerve",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient develops dyspnea after surgery near the anterior scalene muscle. Imaging shows paradoxical upward movement of one hemidiaphragm during a sniff. Which spinal nerve roots normally provide its principal motor innervation?",
+    "options": [
+      {
+        "text": "C3-C5",
+        "explanation": "These roots form the phrenic nerve, the motor supply of the diaphragm.",
+        "correct": true
+      },
+      {
+        "text": "C5-T1",
+        "explanation": "These mainly form the brachial plexus supplying the upper limb.",
+        "correct": false
+      },
+      {
+        "text": "T1-T4",
+        "explanation": "These contribute intercostal and sympathetic pathways, not phrenic motor supply.",
+        "correct": false
+      },
+      {
+        "text": "T7-T12",
+        "explanation": "These supply lower intercostal and abdominal muscles rather than the diaphragm.",
+        "correct": false
+      }
+    ],
+    "explanation": "The phrenic nerve descends on the anterior scalene and carries fibers mainly from C3-C5. Unilateral loss of diaphragmatic contraction allows negative intrathoracic pressure during inspiration to pull the affected hemidiaphragm upward, explaining paradoxical motion on sniff testing.",
+    "objective": "Relate phrenic root anatomy to unilateral diaphragmatic paralysis.",
+    "keyPoints": [
+      "Relate phrenic root anatomy to unilateral diaphragmatic paralysis."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0013",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Cardiovascular",
+    "topic": "Coronary dominance",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Angiography shows that the posterior interventricular artery originates from the right coronary artery. An occlusion of the right coronary proximal to this branch threatens which territory most directly supplied by the branch?",
+    "options": [
+      {
+        "text": "Anterior two thirds of the interventricular septum",
+        "explanation": "This is chiefly supplied by septal branches of the anterior interventricular artery.",
+        "correct": false
+      },
+      {
+        "text": "Left atrial appendage exclusively",
+        "explanation": "This is not the characteristic territory of the posterior interventricular artery.",
+        "correct": false
+      },
+      {
+        "text": "Anterior right ventricular outflow tract exclusively",
+        "explanation": "This is more closely associated with conus branches.",
+        "correct": false
+      },
+      {
+        "text": "Posterior portion of the interventricular septum",
+        "explanation": "The posterior interventricular artery supplies the posterior septal territory.",
+        "correct": true
+      }
+    ],
+    "explanation": "Coronary dominance is defined by the origin of the posterior interventricular artery, not by which artery is largest overall. In right dominance this branch comes from the right coronary and supplies the posterior septal region and adjacent inferior ventricular myocardium.",
+    "objective": "Define coronary dominance using the posterior interventricular artery.",
+    "keyPoints": [
+      "Define coronary dominance using the posterior interventricular artery."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0014",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Nervous System",
+    "topic": "Recurrent laryngeal nerve",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A man with a large aortic arch aneurysm develops persistent hoarseness. Laryngoscopy shows left vocal-fold immobility. Compression of a nerve looping beneath which structure best accounts for the finding?",
+    "options": [
+      {
+        "text": "Left internal carotid artery at the skull base",
+        "explanation": "This is not the recurrent loop responsible for arch-related compression.",
+        "correct": false
+      },
+      {
+        "text": "Mandibular angle",
+        "explanation": "The marginal mandibular facial branch affects lower facial muscles, not phonation.",
+        "correct": false
+      },
+      {
+        "text": "Aortic arch near the ligamentum arteriosum",
+        "explanation": "The left recurrent laryngeal nerve loops beneath this region.",
+        "correct": true
+      },
+      {
+        "text": "Right subclavian artery",
+        "explanation": "The right recurrent laryngeal nerve loops here, affecting the opposite vocal fold.",
+        "correct": false
+      }
+    ],
+    "explanation": "The left recurrent laryngeal nerve has a thoracic course around the aortic arch before ascending to the larynx. Arch pathology can injure it and impair intrinsic laryngeal muscles. The asymmetric right-sided loop around the subclavian artery explains the different vulnerability.",
+    "objective": "Associate arch lesions with left recurrent laryngeal palsy.",
+    "keyPoints": [
+      "Associate arch lesions with left recurrent laryngeal palsy."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0015",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Gastrointestinal",
+    "topic": "Inguinal canal",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A young adult has a groin hernia that enters the deep inguinal ring and extends toward the scrotum. At surgery the neck of the sac is lateral to the inferior epigastric vessels. Which classification fits?",
+    "options": [
+      {
+        "text": "Obturator hernia",
+        "explanation": "It passes through the obturator canal and often lacks a typical inguinal swelling.",
+        "correct": false
+      },
+      {
+        "text": "Indirect inguinal hernia",
+        "explanation": "It enters the deep ring lateral to the inferior epigastric vessels.",
+        "correct": true
+      },
+      {
+        "text": "Direct inguinal hernia",
+        "explanation": "It protrudes through the posterior wall medial to those vessels.",
+        "correct": false
+      },
+      {
+        "text": "Femoral hernia",
+        "explanation": "Its neck lies below the inguinal ligament in the femoral canal.",
+        "correct": false
+      }
+    ],
+    "explanation": "The relationship of the hernia neck to the inferior epigastric vessels distinguishes the inguinal types. An indirect sac follows the deep ring and canal and may reach the scrotum. A direct sac instead pushes through Hesselbach triangle medial to the vessels.",
+    "objective": "Classify inguinal hernias by the inferior epigastric vessels.",
+    "keyPoints": [
+      "Classify inguinal hernias by the inferior epigastric vessels."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0016",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Cardiovascular",
+    "topic": "Pressure-volume loops",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An isolated ventricle contracts against a sudden increase in aortic pressure. Preload and contractility are initially held constant. Which immediate change is expected in the first pressure-volume loop after the increase?",
+    "options": [
+      {
+        "text": "Higher end-systolic volume and lower stroke volume",
+        "explanation": "Higher afterload opposes ejection before compensatory changes occur.",
+        "correct": true
+      },
+      {
+        "text": "Lower end-systolic volume and higher stroke volume",
+        "explanation": "This resembles increased contractility or reduced afterload.",
+        "correct": false
+      },
+      {
+        "text": "Unchanged end-systolic volume with doubled stroke volume",
+        "explanation": "With fixed end-diastolic volume this violates stroke-volume arithmetic.",
+        "correct": false
+      },
+      {
+        "text": "Lower end-diastolic volume as the primary immediate effect",
+        "explanation": "The question fixes preload, isolating the effect on ejection.",
+        "correct": false
+      }
+    ],
+    "explanation": "A higher afterload requires greater ventricular pressure before the aortic valve opens and reduces fiber shortening at a given contractility. More blood remains at end systole, so stroke volume falls when end-diastolic volume is fixed. Later preload compensation is outside this first-beat comparison.",
+    "objective": "Predict the immediate effect of increased afterload on ventricular ejection.",
+    "keyPoints": [
+      "Predict the immediate effect of increased afterload on ventricular ejection."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0017",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Cardiovascular",
+    "topic": "Baroreceptor reflex",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A healthy adult stands rapidly after lying down. Venous return transiently decreases. Which autonomic change occurs before slower hormonal compensation to help restore arterial pressure?",
+    "options": [
+      {
+        "text": "Decreased sympathetic and increased parasympathetic output",
+        "explanation": "This would further reduce heart rate and vascular resistance.",
+        "correct": false
+      },
+      {
+        "text": "Increased vagal output to the sinoatrial node",
+        "explanation": "Vagal activation slows the heart and opposes the needed response.",
+        "correct": false
+      },
+      {
+        "text": "Suppressed arteriolar constriction with unchanged heart rate",
+        "explanation": "This would not compensate for the initial reduction in cardiac output.",
+        "correct": false
+      },
+      {
+        "text": "Increased sympathetic and decreased parasympathetic output",
+        "explanation": "Reduced baroreceptor stretch disinhibits sympathetic vasomotor responses.",
+        "correct": true
+      }
+    ],
+    "explanation": "Standing pools blood in dependent veins, lowering preload and briefly reducing pressure. Reduced carotid sinus and aortic arch stretch lowers baroreceptor firing, increasing sympathetic drive and withdrawing vagal tone. Tachycardia, venoconstriction, and arteriolar constriction then support pressure.",
+    "objective": "Connect orthostatic baroreceptor unloading to autonomic compensation.",
+    "keyPoints": [
+      "Connect orthostatic baroreceptor unloading to autonomic compensation."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0018",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Alveolar ventilation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A sedated patient breathing room air develops shallow respirations. Carbon dioxide production remains stable, but alveolar ventilation falls to half its previous value. What happens to arterial carbon dioxide tension near the new steady state?",
+    "options": [
+      {
+        "text": "It remains unchanged",
+        "explanation": "Stable production does not prevent CO2 retention when clearance falls.",
+        "correct": false
+      },
+      {
+        "text": "It falls to zero",
+        "explanation": "Ongoing metabolism continues to produce carbon dioxide.",
+        "correct": false
+      },
+      {
+        "text": "It approximately doubles",
+        "explanation": "PaCO2 varies inversely with alveolar ventilation at fixed CO2 production.",
+        "correct": true
+      },
+      {
+        "text": "It approximately halves",
+        "explanation": "This would follow increased, rather than decreased, alveolar ventilation.",
+        "correct": false
+      }
+    ],
+    "explanation": "The alveolar ventilation relationship gives PaCO2 proportional to carbon dioxide production divided by alveolar ventilation. Halving effective alveolar ventilation therefore roughly doubles PaCO2. Minute ventilation alone can be misleading because dead-space ventilation does not remove alveolar carbon dioxide.",
+    "objective": "Apply the inverse relationship between PaCO2 and alveolar ventilation.",
+    "keyPoints": [
+      "Apply the inverse relationship between PaCO2 and alveolar ventilation."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0019",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Diffusion capacity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Two patients have similar obstructive spirometry. One has extensive alveolar wall destruction; the other has uncomplicated asthma between attacks. Which measurement is more likely reduced in the patient with alveolar destruction?",
+    "options": [
+      {
+        "text": "Airway resistance relative to normal",
+        "explanation": "Both obstructive disorders can increase resistance, so this is not the distinction.",
+        "correct": false
+      },
+      {
+        "text": "Diffusing capacity for carbon monoxide",
+        "explanation": "Loss of alveolar surface and capillary bed reduces gas transfer capacity.",
+        "correct": true
+      },
+      {
+        "text": "Residual volume in all cases",
+        "explanation": "Emphysema commonly increases residual volume through air trapping.",
+        "correct": false
+      },
+      {
+        "text": "Total lung capacity in all cases",
+        "explanation": "Emphysema often increases rather than decreases total lung capacity.",
+        "correct": false
+      }
+    ],
+    "explanation": "Emphysema removes alveolar septa and associated capillary surface area, lowering DLCO. Uncomplicated asthma generally preserves this exchange surface. Hemoglobin concentration and pulmonary vascular disease can also influence DLCO, so the result must be interpreted with clinical context rather than as a unique diagnostic test.",
+    "objective": "Distinguish emphysema from asthma using loss of diffusion surface.",
+    "keyPoints": [
+      "Distinguish emphysema from asthma using loss of diffusion surface."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0020",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Renal clearance",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A freely filtered marker is neither secreted nor reabsorbed. Its urine concentration is 60 mg/mL, plasma concentration is 1 mg/mL, and urine flow is 2 mL/min. What glomerular filtration rate does its clearance estimate?",
+    "options": [
+      {
+        "text": "120 mL/min",
+        "explanation": "Clearance equals urine concentration times flow divided by plasma concentration.",
+        "correct": true
+      },
+      {
+        "text": "30 mL/min",
+        "explanation": "This divides by urine flow instead of multiplying by it.",
+        "correct": false
+      },
+      {
+        "text": "60 mL/min",
+        "explanation": "This omits the urine flow factor of 2 mL/min.",
+        "correct": false
+      },
+      {
+        "text": "240 mL/min",
+        "explanation": "This introduces an extra factor of two unsupported by the data.",
+        "correct": false
+      }
+    ],
+    "explanation": "For a marker handled only by filtration, clearance equals GFR. Substituting into C = U × V / P yields 60 × 2 / 1 = 120 mL/min. Units cancel correctly to volume per time; concentrations must be expressed in matching units before calculation.",
+    "objective": "Calculate GFR from clearance of a filtration-only marker.",
+    "keyPoints": [
+      "Calculate GFR from clearance of a filtration-only marker."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0021",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Glucose transport maximum",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient has progressively rising plasma glucose during an infusion. Initially all filtered glucose is reabsorbed; later glucose appears in the urine. Which process best explains glucosuria once the filtered load exceeds tubular capacity?",
+    "options": [
+      {
+        "text": "Active glucose secretion by the collecting duct",
+        "explanation": "Glucose loss normally reflects incomplete reabsorption, not this secretion.",
+        "correct": false
+      },
+      {
+        "text": "Loss of glucose filtration at the glomerulus",
+        "explanation": "Glucose is freely filtered, so stopping filtration would reduce urinary delivery.",
+        "correct": false
+      },
+      {
+        "text": "Complete blockade of water reabsorption",
+        "explanation": "Water handling can affect concentration but does not define glucose transport saturation.",
+        "correct": false
+      },
+      {
+        "text": "Saturation of proximal tubular glucose transport",
+        "explanation": "Carrier-mediated reabsorption has a finite transport maximum.",
+        "correct": true
+      }
+    ],
+    "explanation": "Proximal sodium-glucose cotransporters reclaim filtered glucose up to a finite capacity. Once delivery exceeds that capacity, unreabsorbed glucose remains in tubular fluid and can drive osmotic diuresis. Nephron-to-nephron variation causes splay, so glucose may appear before a sharp whole-kidney maximum is reached.",
+    "objective": "Explain glucosuria through saturable proximal tubular reabsorption.",
+    "keyPoints": [
+      "Explain glucosuria through saturable proximal tubular reabsorption."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0022",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Endocrine",
+    "topic": "Thyroid feedback",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A woman has fatigue, cold intolerance, elevated TSH, and a low free thyroxine concentration. She is not taking thyroid medication. Which regulatory relationship explains the high TSH?",
+    "options": [
+      {
+        "text": "Failure of the pituitary to synthesize TSH",
+        "explanation": "That would give low or inappropriately normal TSH with low T4.",
+        "correct": false
+      },
+      {
+        "text": "Direct stimulation of thyroid follicles by cortisol",
+        "explanation": "This does not explain the measured TSH-T4 feedback pattern.",
+        "correct": false
+      },
+      {
+        "text": "Reduced thyroid hormone feedback at pituitary and hypothalamus",
+        "explanation": "Low free T4 removes inhibition of TSH synthesis and release.",
+        "correct": true
+      },
+      {
+        "text": "Autonomous pituitary suppression by high T4",
+        "explanation": "High T4 generally lowers rather than raises TSH.",
+        "correct": false
+      }
+    ],
+    "explanation": "Primary thyroid failure lowers circulating free T4, reducing negative feedback on the hypothalamic-pituitary axis. An intact pituitary responds with elevated TSH. Central hypothyroidism instead gives low T4 with a TSH that is low or insufficiently elevated, so paired measurements localize the defect.",
+    "objective": "Use paired TSH and free T4 to identify primary thyroid failure.",
+    "keyPoints": [
+      "Use paired TSH and free T4 to identify primary thyroid failure."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0023",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Endocrine",
+    "topic": "Insulin signaling",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "After a carbohydrate-rich meal, insulin increases glucose uptake into skeletal muscle. Which cellular event most directly mediates this increase over the next several minutes?",
+    "options": [
+      {
+        "text": "Inhibition of all glucose phosphorylation",
+        "explanation": "Phosphorylation traps glucose intracellularly; inhibiting it would oppose utilization.",
+        "correct": false
+      },
+      {
+        "text": "Translocation of GLUT4 vesicles to the plasma membrane",
+        "explanation": "Insulin signaling rapidly increases the number of surface glucose transporters.",
+        "correct": true
+      },
+      {
+        "text": "Opening of GLUT2 channels by ATP",
+        "explanation": "GLUT2 is not the insulin-responsive muscle transporter or an ATP-gated channel.",
+        "correct": false
+      },
+      {
+        "text": "Synthesis of a new glucagon receptor",
+        "explanation": "This does not account for rapid insulin-dependent muscle glucose uptake.",
+        "correct": false
+      }
+    ],
+    "explanation": "Insulin binds a receptor tyrosine kinase and activates signaling that recruits GLUT4-containing vesicles to the muscle cell membrane. This rapidly increases facilitated glucose entry without waiting for new transporter synthesis. Liver glucose entry uses GLUT2 and is regulated differently from muscle and adipose uptake.",
+    "objective": "Identify GLUT4 trafficking as the rapid muscle response to insulin.",
+    "keyPoints": [
+      "Identify GLUT4 trafficking as the rapid muscle response to insulin."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0024",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Gastrointestinal",
+    "topic": "Pancreatic bicarbonate",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Acidic chyme enters the duodenum after a meal. Pancreatic duct cells release bicarbonate-rich fluid that neutralizes the acid. Which intestinal hormone is the principal direct stimulus for this ductal response?",
+    "options": [
+      {
+        "text": "Secretin",
+        "explanation": "Duodenal S cells release it in response to acid, stimulating ductal bicarbonate.",
+        "correct": true
+      },
+      {
+        "text": "Gastrin",
+        "explanation": "It principally promotes gastric acid secretion rather than pancreatic neutralization.",
+        "correct": false
+      },
+      {
+        "text": "Motilin",
+        "explanation": "It coordinates fasting migrating motor complexes rather than this secretory response.",
+        "correct": false
+      },
+      {
+        "text": "Somatostatin",
+        "explanation": "It broadly inhibits gastrointestinal secretion rather than driving bicarbonate release.",
+        "correct": false
+      }
+    ],
+    "explanation": "Duodenal acid stimulates S cells to secrete secretin, which increases pancreatic ductal bicarbonate and water secretion. Neutralization protects mucosa and provides a suitable pH for pancreatic enzymes. CCK chiefly promotes acinar enzyme secretion and gallbladder contraction, complementing rather than replacing secretin.",
+    "objective": "Distinguish secretin-mediated duct secretion from other gut hormone effects.",
+    "keyPoints": [
+      "Distinguish secretin-mediated duct secretion from other gut hormone effects."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0025",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Hematology",
+    "topic": "Oxygen dissociation curve",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A runner has increased temperature and carbon dioxide production in exercising muscle. Compared with resting tissue, which hemoglobin change facilitates oxygen delivery to this muscle?",
+    "options": [
+      {
+        "text": "Increased affinity with decreased P50",
+        "explanation": "A left shift holds oxygen more tightly and impedes tissue unloading.",
+        "correct": false
+      },
+      {
+        "text": "Loss of all cooperative oxygen binding",
+        "explanation": "Normal exercise shifts affinity without abolishing hemoglobin cooperativity.",
+        "correct": false
+      },
+      {
+        "text": "Conversion of most hemoglobin to methemoglobin",
+        "explanation": "Oxidation impairs functional oxygen carriage and is not the normal exercise response.",
+        "correct": false
+      },
+      {
+        "text": "Reduced oxygen affinity with increased P50",
+        "explanation": "A right shift promotes unloading at a given tissue oxygen tension.",
+        "correct": true
+      }
+    ],
+    "explanation": "Higher temperature, increased CO2, and local acidity shift the oxygen-hemoglobin dissociation curve rightward. P50 rises because a higher oxygen tension is needed for half saturation. At tissue oxygen tensions, lower affinity encourages unloading while pulmonary loading remains relatively preserved.",
+    "objective": "Relate a right shift and increased P50 to enhanced tissue oxygen unloading.",
+    "keyPoints": [
+      "Relate a right shift and increased P50 to enhanced tissue oxygen unloading."
+    ],
+    "references": [
+      {
+        "label": "OpenStax Anatomy and Physiology 2e (further reading only)",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

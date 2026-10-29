@@ -1,0 +1,82 @@
+{
+  "op26x-0095|op26-0073": {
+    "verdict": "distinct",
+    "reason": "New item asks about systemic metastatic calcification with disturbed mineral balance; the earlier item asks local dystrophic deposition with normal calcium."
+  },
+  "op26x-0099|op26-0055": {
+    "verdict": "duplicate",
+    "reason": "Both ask the learner to identify vascular fibroblast-rich granulation tissue and distinguish it from a granuloma; changed wording adds insufficient new objective."
+  },
+  "op26x-0307|op26-0003": {
+    "verdict": "duplicate",
+    "reason": "Both localize foot drop with preserved inversion to common fibular rather than L5 injury. Different presentation does not change the tested inference."
+  },
+  "op26x-0305|op26-0004": {
+    "verdict": "duplicate",
+    "reason": "Both identify median entrapment from nocturnal radial-digit symptoms. The new item does not add a distinct enough diagnostic or management decision."
+  },
+  "op26x-0701|op26-0143": {
+    "verdict": "distinct",
+    "reason": "New item conditions on negative test outcomes to compute NPV; earlier item uses positive outcomes for PPV. Denominator and tested interpretation differ."
+  },
+  "op26x-0704|op26x-0703": {
+    "verdict": "distinct",
+    "reason": "Bayesian update converts probability to odds and applies a supplied ratio; other item derives a negative likelihood ratio from sensitivity and specificity."
+  },
+  "op26x-0023|op26-0092": {
+    "verdict": "distinct",
+    "reason": "New physiology item traces nutrient-driven ATP generation and electrical coupling; prior drug item asks sulfonylurea target. The perturbation and causal entry point differ."
+  },
+  "op26x-0590|op26x-0589": {
+    "verdict": "distinct",
+    "reason": "Galeazzi radial shaft injury targets distal radioulnar disruption; Monteggia ulnar injury targets proximal radial-head dislocation. Anatomical paired injuries differ."
+  },
+  "op26x-0572|op26-0156": {
+    "verdict": "distinct",
+    "reason": "New traumatic hemothorax question integrates injury and pleural blood; prior item identifies spontaneous pneumothorax with pleural air and hyperresonance."
+  },
+  "op26x-0703|op26x-0702": {
+    "verdict": "distinct",
+    "reason": "Negative and positive likelihood ratios use different test-result conditional probabilities and have different effects on post-test odds."
+  },
+  "op26x-0789|op26x-0788": {
+    "verdict": "distinct",
+    "reason": "mTOR inhibition targets proliferative response downstream of growth signals; calcineurin inhibition targets NFAT-dependent IL2 transcription. Drug targets differ."
+  },
+  "op26x-0480|op26x-0479": {
+    "reason": "One asks which etiologic antibody test supports autoimmune gastritis in confirmed B12 deficiency; the other interprets a negative result under continuing clinical suspicion. Test selection and limited-sensitivity interpretation are distinct decisions.",
+    "verdict": "distinct"
+  },
+  "op26x-0181|op26x-0072": {
+    "reason": "Both identify catalase from conversion of hydrogen peroxide to water and oxygen. Changing organelle metabolism to a bacterial bubble test adds insufficient new inference.",
+    "verdict": "duplicate"
+  },
+  "op26x-0194|op26x-0193": {
+    "reason": "Negative-sense packaging asks why a virion needs RNA-dependent transcription before translation. Positive-sense entry asks how a genome can itself act as mRNA. Different polarity constraints and required inputs are tested.",
+    "verdict": "distinct"
+  },
+  "op26x-0198|op26-0100": {
+    "reason": "Both distinguish antigenic drift by point substitutions from shift by whole-segment reassortment. Reversing which label is requested repeats the same comparison objective.",
+    "verdict": "duplicate"
+  },
+  "op26x-0227|op26x-0199": {
+    "verdict": "distinct",
+    "reason": "Earlier item identifies the fungal membrane sterol. New item asks how binding the existing sterol causes permeability injury, distinguishing a polyene mechanism from sterol synthesis inhibition."
+  },
+  "op26x-0228|op26x-0200": {
+    "verdict": "distinct",
+    "reason": "Earlier item identifies a fungal wall polysaccharide. New item identifies the drug-target synthase from an echinocandin perturbation with preserved membrane sterol; structure recognition and enzyme inhibition differ."
+  },
+  "op26x-0238|op26x-0195": {
+    "verdict": "duplicate",
+    "reason": "Both describe completed viral DNA synthesis followed by chromosomal insertion and ask for integrase. Adding a drug-blocking frame does not change the enzyme-localization inference."
+  },
+  "op26x-0251|op26-0100": {
+    "verdict": "duplicate",
+    "reason": "Both use two influenza strains coinfecting one cell and whole RNA segment exchange to identify reassortment. The extra contrast with recombination does not sufficiently change the tested key."
+  },
+  "op26x-0539|op26x-0670": {
+    "verdict": "uncertain",
+    "reason": "The causes differ (suspected ruptured ectopic versus blunt abdominal trauma), but both use instability and free fluid to prioritize immediate hemorrhage control over detailed imaging. Hold both new versions pending an independent decision on whether the learning objectives are sufficiently distinct."
+  }
+}

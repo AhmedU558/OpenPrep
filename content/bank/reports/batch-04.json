@@ -1,0 +1,173 @@
+{
+  "batch": 4,
+  "at": "2026-10-29T13:08:57.644Z",
+  "digest": "7dbedbf9bee425cb637d2831b02828d0e81d7153fabd456d415ca839c19734cd",
+  "before": 232,
+  "after": 232,
+  "imported": 0,
+  "skipped": 25,
+  "rejected": 0,
+  "quarantined": 0,
+  "errors": [],
+  "coverage": [
+    {
+      "code": "op26-0076",
+      "subject": "Pharmacology",
+      "topic": "First-order elimination",
+      "objective": "Apply repeated half-lives to first-order drug elimination."
+    },
+    {
+      "code": "op26-0077",
+      "subject": "Pharmacology",
+      "topic": "Loading dose",
+      "objective": "Separate loading-dose calculation from clearance-based maintenance dosing."
+    },
+    {
+      "code": "op26-0078",
+      "subject": "Pharmacology",
+      "topic": "Renal clearance and maintenance",
+      "objective": "Adjust maintenance dosing rate in proportion to clearance."
+    },
+    {
+      "code": "op26-0079",
+      "subject": "Pharmacology",
+      "topic": "ACE inhibitor cough",
+      "objective": "Explain ACE inhibitor cough through impaired bradykinin degradation."
+    },
+    {
+      "code": "op26-0080",
+      "subject": "Pharmacology",
+      "topic": "Loop diuretics",
+      "objective": "Identify NKCC2 blockade and its effect on calcium handling."
+    },
+    {
+      "code": "op26-0081",
+      "subject": "Pharmacology",
+      "topic": "Thiazide adverse effects",
+      "objective": "Recognize thiazide-associated calcium conservation, hypokalemia and hyperuricemia."
+    },
+    {
+      "code": "op26-0082",
+      "subject": "Pharmacology",
+      "topic": "Beta-blockade in asthma",
+      "objective": "Relate nonselective beta blockade to loss of beta-2 bronchodilation."
+    },
+    {
+      "code": "op26-0083",
+      "subject": "Pharmacology",
+      "topic": "Nitrates and tolerance",
+      "objective": "Recognize nitrate tolerance and the rationale for a planned nitrate-free interval."
+    },
+    {
+      "code": "op26-0084",
+      "subject": "Pharmacology",
+      "topic": "Heparin mechanism",
+      "objective": "Distinguish antithrombin potentiation from other antithrombotic mechanisms."
+    },
+    {
+      "code": "op26-0085",
+      "subject": "Pharmacology",
+      "topic": "Warfarin initiation",
+      "objective": "Explain early warfarin protein C depletion and indication-specific overlap."
+    },
+    {
+      "code": "op26-0086",
+      "subject": "Pharmacology",
+      "topic": "Acetaminophen toxicity",
+      "objective": "Connect acetaminophen hepatotoxicity and antidote action to glutathione."
+    },
+    {
+      "code": "op26-0087",
+      "subject": "Pharmacology",
+      "topic": "Opioid overdose",
+      "objective": "Identify opioid receptor antagonism and the risk of recurrent respiratory depression."
+    },
+    {
+      "code": "op26-0088",
+      "subject": "Pharmacology",
+      "topic": "Organophosphate toxicity",
+      "objective": "Separate muscarinic and nicotinic effects of acetylcholinesterase inhibition."
+    },
+    {
+      "code": "op26-0089",
+      "subject": "Pharmacology",
+      "topic": "Beta-lactam action",
+      "objective": "Locate beta-lactam action at peptidoglycan transpeptidation."
+    },
+    {
+      "code": "op26-0090",
+      "subject": "Pharmacology",
+      "topic": "Aminoglycoside toxicity",
+      "objective": "Recognize renal and inner-ear toxicity during aminoglycoside treatment."
+    },
+    {
+      "code": "op26-0091",
+      "subject": "Pharmacology",
+      "topic": "Metformin mechanism",
+      "objective": "Distinguish metformin from direct insulin secretagogues."
+    },
+    {
+      "code": "op26-0092",
+      "subject": "Pharmacology",
+      "topic": "Sulfonylurea hypoglycemia",
+      "objective": "Trace sulfonylurea-induced insulin secretion from potassium-channel closure."
+    },
+    {
+      "code": "op26-0093",
+      "subject": "Pharmacology",
+      "topic": "Inhaled corticosteroids",
+      "objective": "Reduce local inhaled steroid effects with mouth rinsing and correct technique."
+    },
+    {
+      "code": "op26-0094",
+      "subject": "Pharmacology",
+      "topic": "Dopamine blockade",
+      "objective": "Localize antipsychotic-associated parkinsonism to nigrostriatal dopamine blockade."
+    },
+    {
+      "code": "op26-0095",
+      "subject": "Pharmacology",
+      "topic": "Partial agonism",
+      "objective": "Explain how a partial agonist can functionally oppose a full agonist."
+    },
+    {
+      "code": "op26-0096",
+      "subject": "Microbiology",
+      "topic": "Gram-positive cell wall",
+      "objective": "Differentiate gram-positive wall components from gram-negative and fungal structures."
+    },
+    {
+      "code": "op26-0097",
+      "subject": "Microbiology",
+      "topic": "Endotoxin",
+      "objective": "Identify lipid A as the endotoxin-active component of LPS."
+    },
+    {
+      "code": "op26-0098",
+      "subject": "Microbiology",
+      "topic": "Bacterial conjugation",
+      "objective": "Distinguish conjugation from transformation and transduction."
+    },
+    {
+      "code": "op26-0099",
+      "subject": "Microbiology",
+      "topic": "Bacterial spores",
+      "objective": "Recognize endospores as resistant bacterial survival structures."
+    },
+    {
+      "code": "op26-0100",
+      "subject": "Microbiology",
+      "topic": "Influenza reassortment",
+      "objective": "Distinguish influenza reassortment from point-mutation-driven antigenic drift."
+    }
+  ],
+  "persisted": 25,
+  "practiceAvailable": 25,
+  "firstImport": {
+    "at": "2026-10-29T12:42:07.824Z",
+    "before": 107,
+    "after": 132,
+    "imported": 25,
+    "digest": "7dbedbf9bee425cb637d2831b02828d0e81d7153fabd456d415ca839c19734cd"
+  }
+}

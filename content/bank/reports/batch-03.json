@@ -1,0 +1,173 @@
+{
+  "batch": 3,
+  "at": "2026-10-29T13:08:55.545Z",
+  "digest": "1c193101e0b8d56c42df156e6d8cdabe27fc1358f9b08878eab096e2567385db",
+  "before": 232,
+  "after": 232,
+  "imported": 0,
+  "skipped": 25,
+  "rejected": 0,
+  "quarantined": 0,
+  "errors": [],
+  "coverage": [
+    {
+      "code": "op26-0051",
+      "subject": "Pathology",
+      "topic": "Coagulative necrosis",
+      "objective": "Recognize preserved architecture with nuclear loss in an ischemic myocardial infarct."
+    },
+    {
+      "code": "op26-0052",
+      "subject": "Pathology",
+      "topic": "Liquefactive necrosis",
+      "objective": "Identify liquefaction as the characteristic necrosis pattern of cerebral infarction."
+    },
+    {
+      "code": "op26-0053",
+      "subject": "Pathology",
+      "topic": "Apoptosis",
+      "objective": "Differentiate apoptosis from necrosis using cell shrinkage and limited inflammation."
+    },
+    {
+      "code": "op26-0054",
+      "subject": "Pathology",
+      "topic": "Granulomatous inflammation",
+      "objective": "Explain Th1-macrophage signaling in granulomatous inflammation."
+    },
+    {
+      "code": "op26-0055",
+      "subject": "Pathology",
+      "topic": "Wound healing",
+      "objective": "Distinguish granulation tissue from granulomas and mature scar."
+    },
+    {
+      "code": "op26-0056",
+      "subject": "Pathology",
+      "topic": "Iron deficiency",
+      "objective": "Interpret low ferritin with high iron-binding capacity as iron deficiency."
+    },
+    {
+      "code": "op26-0057",
+      "subject": "Pathology",
+      "topic": "Anemia of inflammation",
+      "objective": "Link inflammatory anemia to hepcidin-mediated iron sequestration."
+    },
+    {
+      "code": "op26-0058",
+      "subject": "Pathology",
+      "topic": "Megaloblastic anemia",
+      "objective": "Distinguish cobalamin deficiency from folate deficiency using methylmalonic acid and neurologic signs."
+    },
+    {
+      "code": "op26-0059",
+      "subject": "Pathology",
+      "topic": "Intravascular hemolysis",
+      "objective": "Explain low haptoglobin during intravascular red-cell destruction."
+    },
+    {
+      "code": "op26-0060",
+      "subject": "Pathology",
+      "topic": "Thrombotic microangiopathy",
+      "objective": "Recognize ADAMTS13-related microangiopathic hemolysis with normal coagulation times."
+    },
+    {
+      "code": "op26-0061",
+      "subject": "Pathology",
+      "topic": "Nephrotic syndrome",
+      "objective": "Identify the nephrotic pattern from heavy proteinuria, hypoalbuminemia and lipiduria."
+    },
+    {
+      "code": "op26-0062",
+      "subject": "Pathology",
+      "topic": "Rapidly progressive glomerulonephritis",
+      "objective": "Interpret crescents as a response to severe glomerular capillary injury."
+    },
+    {
+      "code": "op26-0063",
+      "subject": "Pathology",
+      "topic": "Acute tubular injury",
+      "objective": "Associate muddy-brown casts after shock with acute tubular injury."
+    },
+    {
+      "code": "op26-0064",
+      "subject": "Pathology",
+      "topic": "Pulmonary edema",
+      "objective": "Explain cardiogenic pulmonary edema through elevated capillary hydrostatic pressure."
+    },
+    {
+      "code": "op26-0065",
+      "subject": "Pathology",
+      "topic": "Restrictive interstitial disease",
+      "objective": "Relate interstitial fibrosis to restriction, low compliance and impaired diffusion."
+    },
+    {
+      "code": "op26-0066",
+      "subject": "Pathology",
+      "topic": "Barrett metaplasia",
+      "objective": "Distinguish intestinal metaplasia from dysplasia and invasive carcinoma."
+    },
+    {
+      "code": "op26-0067",
+      "subject": "Pathology",
+      "topic": "Celiac enteropathy",
+      "objective": "Connect gluten-associated villous injury to proximal nutrient malabsorption."
+    },
+    {
+      "code": "op26-0068",
+      "subject": "Pathology",
+      "topic": "Cirrhosis",
+      "objective": "Link nodular hepatic fibrosis to increased portal vascular resistance."
+    },
+    {
+      "code": "op26-0069",
+      "subject": "Pathology",
+      "topic": "Graves disease",
+      "objective": "Explain suppressed TSH with antibody-driven thyroid stimulation."
+    },
+    {
+      "code": "op26-0070",
+      "subject": "Pathology",
+      "topic": "Primary adrenal insufficiency",
+      "objective": "Localize adrenal insufficiency with high ACTH, pigmentation and mineralocorticoid loss."
+    },
+    {
+      "code": "op26-0071",
+      "subject": "Pathology",
+      "topic": "Aortic dissection",
+      "objective": "Distinguish aortic dissection as intramural blood propagation through the media."
+    },
+    {
+      "code": "op26-0072",
+      "subject": "Pathology",
+      "topic": "Tumor suppressor genes",
+      "objective": "Separate dominant inherited predisposition from cellular two-hit tumor suppressor loss."
+    },
+    {
+      "code": "op26-0073",
+      "subject": "Pathology",
+      "topic": "Dystrophic calcification",
+      "objective": "Distinguish dystrophic calcification from systemic mineral-related deposition."
+    },
+    {
+      "code": "op26-0074",
+      "subject": "Pathology",
+      "topic": "Osteoporosis versus osteomalacia",
+      "objective": "Distinguish reduced bone quantity from defective matrix mineralization."
+    },
+    {
+      "code": "op26-0075",
+      "subject": "Pathology",
+      "topic": "Amyloid",
+      "objective": "Recognize amyloid structure while distinguishing detection from precursor typing."
+    }
+  ],
+  "persisted": 25,
+  "practiceAvailable": 25,
+  "firstImport": {
+    "at": "2026-10-29T12:38:32.816Z",
+    "before": 82,
+    "after": 107,
+    "imported": 25,
+    "digest": "1c193101e0b8d56c42df156e6d8cdabe27fc1358f9b08878eab096e2567385db"
+  }
+}

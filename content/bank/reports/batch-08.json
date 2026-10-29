@@ -1,0 +1,173 @@
+{
+  "batch": 8,
+  "at": "2026-10-29T13:09:06.584Z",
+  "digest": "87596de8d66e6d2ce79c468c6b1fd0958a00554a29fd50e4cafe8b1ea2025322",
+  "before": 232,
+  "after": 232,
+  "imported": 0,
+  "skipped": 25,
+  "rejected": 0,
+  "quarantined": 0,
+  "errors": [],
+  "coverage": [
+    {
+      "code": "op26-0176",
+      "subject": "Medicine",
+      "topic": "Hyperosmolar hyperglycemia",
+      "objective": "Explain severe hyperglycemia with limited ketosis through residual insulin activity."
+    },
+    {
+      "code": "op26-0177",
+      "subject": "Medicine",
+      "topic": "Postrenal kidney injury",
+      "objective": "Recognize bilateral outflow obstruction as a reversible cause of kidney injury."
+    },
+    {
+      "code": "op26-0178",
+      "subject": "Medicine",
+      "topic": "Inflammatory bowel pattern",
+      "objective": "Distinguish continuous mucosal colitis from skip-pattern transmural disease."
+    },
+    {
+      "code": "op26-0179",
+      "subject": "Medicine",
+      "topic": "Iron overload pattern",
+      "objective": "Link hereditary iron overload to inadequate hepcidin regulation."
+    },
+    {
+      "code": "op26-0180",
+      "subject": "Medicine",
+      "topic": "Anaphylactic shock mechanism",
+      "objective": "Explain circulatory collapse in anaphylaxis through vasodilation and vascular leak."
+    },
+    {
+      "code": "op26-0181",
+      "subject": "Surgery",
+      "topic": "Appendicitis pain migration",
+      "objective": "Explain appendicitis pain migration through visceral and somatic innervation."
+    },
+    {
+      "code": "op26-0182",
+      "subject": "Surgery",
+      "topic": "Adhesive bowel obstruction",
+      "objective": "Identify a postoperative mechanical small-bowel obstruction and recognize ischemic warning signs."
+    },
+    {
+      "code": "op26-0183",
+      "subject": "Surgery",
+      "topic": "Acute cholecystitis",
+      "objective": "Distinguish cystic duct obstruction in cholecystitis from transient biliary colic."
+    },
+    {
+      "code": "op26-0184",
+      "subject": "Surgery",
+      "topic": "Mesenteric ischemia",
+      "objective": "Recognize early mesenteric ischemia despite a relatively benign abdominal examination."
+    },
+    {
+      "code": "op26-0185",
+      "subject": "Surgery",
+      "topic": "Compartment syndrome",
+      "objective": "Avoid excluding compartment syndrome because distal pulses remain present."
+    },
+    {
+      "code": "op26-0186",
+      "subject": "Surgery",
+      "topic": "Acute limb ischemia",
+      "objective": "Identify abrupt arterial insufficiency and the significance of sensory loss."
+    },
+    {
+      "code": "op26-0187",
+      "subject": "Surgery",
+      "topic": "Tension pneumothorax",
+      "objective": "Explain tension pneumothorax shock through reduced venous return."
+    },
+    {
+      "code": "op26-0188",
+      "subject": "Surgery",
+      "topic": "Perforated viscus",
+      "objective": "Interpret pneumoperitoneum with acute rigidity as a perforation concern."
+    },
+    {
+      "code": "op26-0189",
+      "subject": "Surgery",
+      "topic": "Scaphoid fracture",
+      "objective": "Recognize occult scaphoid injury and its retrograde vascular risk."
+    },
+    {
+      "code": "op26-0190",
+      "subject": "Surgery",
+      "topic": "Incarcerated hernia",
+      "objective": "Distinguish irreducible hernia contents from ischemic strangulation."
+    },
+    {
+      "code": "op26-0191",
+      "subject": "Pediatrics",
+      "topic": "Pyloric stenosis",
+      "objective": "Connect nonbilious outlet obstruction to gastric acid loss and metabolic alkalosis."
+    },
+    {
+      "code": "op26-0192",
+      "subject": "Pediatrics",
+      "topic": "Intussusception",
+      "objective": "Recognize intussusception from episodic pain and concentric bowel ultrasound."
+    },
+    {
+      "code": "op26-0193",
+      "subject": "Pediatrics",
+      "topic": "Coarctation of the aorta",
+      "objective": "Use delayed femoral pulses and an arm-leg pressure gradient to identify coarctation."
+    },
+    {
+      "code": "op26-0194",
+      "subject": "Pediatrics",
+      "topic": "Croup localization",
+      "objective": "Localize barking cough with inspiratory stridor to a subglottic airway process."
+    },
+    {
+      "code": "op26-0195",
+      "subject": "Pediatrics",
+      "topic": "Dehydration assessment",
+      "objective": "Assess pediatric dehydration through perfusion and mental status as well as loss history."
+    },
+    {
+      "code": "op26-0196",
+      "subject": "Obstetrics",
+      "topic": "Ectopic pregnancy",
+      "objective": "Recognize tubal implantation as the commonest ectopic pregnancy location."
+    },
+    {
+      "code": "op26-0197",
+      "subject": "Obstetrics",
+      "topic": "Placenta previa",
+      "objective": "Distinguish placenta previa using placental coverage of the internal cervical os."
+    },
+    {
+      "code": "op26-0198",
+      "subject": "Obstetrics",
+      "topic": "Placental abruption",
+      "objective": "Recognize painful uterine bleeding as compatible with placental abruption."
+    },
+    {
+      "code": "op26-0199",
+      "subject": "Obstetrics",
+      "topic": "Preeclampsia pattern",
+      "objective": "Connect new pregnancy hypertension and organ symptoms to systemic endothelial dysfunction."
+    },
+    {
+      "code": "op26-0200",
+      "subject": "Obstetrics",
+      "topic": "Postpartum uterine atony",
+      "objective": "Explain postpartum atony through failure of myometrial vessel compression."
+    }
+  ],
+  "persisted": 25,
+  "practiceAvailable": 25,
+  "firstImport": {
+    "at": "2026-10-29T12:56:16.134Z",
+    "before": 207,
+    "after": 232,
+    "imported": 25,
+    "digest": "87596de8d66e6d2ce79c468c6b1fd0958a00554a29fd50e4cafe8b1ea2025322"
+  }
+}

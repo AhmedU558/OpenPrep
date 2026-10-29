@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OpenUworld</title>
+<style>
+:root{--bg:#f4f6f9;--card:#fff;--fg:#1d2733;--muted:#6b7785;--line:#d9dfe7;--brand:#1f4e8c;--brand-fg:#fff;--ok:#1e8a4c;--bad:#c0392b;--mark:#ffe58a;--sel:#e8f0fb}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#12161c;--card:#1b2129;--fg:#e4e9ef;--muted:#93a0ae;--line:#2c3540;--brand:#2d6cc0;--ok:#3fbf75;--bad:#e5675a;--mark:#7a6512;--sel:#22314a}}
+:root[data-theme=dark]{--bg:#12161c;--card:#1b2129;--fg:#e4e9ef;--muted:#93a0ae;--line:#2c3540;--brand:#2d6cc0;--ok:#3fbf75;--bad:#e5675a;--mark:#7a6512;--sel:#22314a}
+dialog.wide{max-width:96vw}
+*{box-sizing:border-box}
+body{margin:0;font:1rem/1.55system-ui,-apple-system,"Segoe UI",sans-serif;background:var(--bg);color:var(--fg)}
+header{display:flex;flex-wrap:wrap;gap:4px;align-items:center;background:var(--brand);color:var(--brand-fg);padding:8px 16px}
+header b{margin-right:16px;font-size:18px}
+header button{background:none;border:0;color:inherit;padding:6px 10px;border-radius:6px;cursor:pointer;font:inherit}
+header button:hover,header button.on{background:rgba(255,255,255,.18)}
+#app{max-width:1100px;margin:0 auto;padding:16px}
+h2{margin-top:0}
+fieldset{border:1px solid var(--line);border-radius:8px;margin:0 0 12px;background:var(--card)}
+legend{font-weight:600;padding:0 6px}
+label.chk{display:inline-block;min-width:220px;margin:2px 0}
+fieldset label{margin-right:14px}
+button{font:inherit;padding:6px 14px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg);cursor:pointer}
+button.primary{background:var(--brand);color:var(--brand-fg);border-color:var(--brand)}
+button:disabled{opacity:.45;cursor:default}
+input[type=number],input[type=text]{font:inherit;padding:4px 8px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg)}
+table{border-collapse:collapse;width:100%;background:var(--card)}
+th,td{border-bottom:1px solid var(--line);padding:6px 8px;text-align:left}
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:16px;margin-bottom:12px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin-bottom:12px}
+.stats div{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px}
+.stats b{display:block;font-size:26px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:8px 12px}
+.sp{flex:1}
+.meter{height:10px;background:var(--line);border-radius:5px;overflow:hidden;min-width:120px}
+.meter i{display:block;height:100%;background:var(--brand)}
+.ok{color:var(--ok)}.bad{color:var(--bad)}
+.exam{display:grid;grid-template-columns:72px 1fr;gap:12px}
+.exam>.bar{grid-column:1/-1}
+.qnav{display:flex;flex-direction:column;gap:4px;max-height:70vh;overflow:auto}
+.qnav button{padding:4px;font-size:14px}
+.qnav .cur{outline:2px solid var(--brand)}
+.qnav .right{color:var(--ok)}.qnav .wrong{color:var(--bad)}.qnav .answered{background:var(--sel)}
+.q{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:16px 20px;min-width:0}
+.q img{max-width:100%}
+mark{background:var(--mark);color:inherit}
+ol.choices{list-style:upper-alpha;padding-left:28px}
+ol.choices li{padding:4px 6px;border-radius:6px;margin:2px 0}
+ol.choices li label{cursor:pointer;display:block}
+ol.choices li.struck label{text-decoration:line-through;opacity:.5}
+ol.choices li.right{background:color-mix(in srgb,var(--ok) 18%,transparent)}
+ol.choices li.wrong{background:color-mix(in srgb,var(--bad) 18%,transparent)}
+.hint{color:var(--muted);font-size:13px}
+.expl{border-top:2px solid var(--line);margin-top:16px;padding-top:8px}
+.obj{background:var(--sel);border-radius:6px;padding:8px 12px;margin:8px 0}
+dialog{border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);max-width:min(560px,92vw);max-height:85vh}
+textarea{width:100%;min-width:min(480px,80vw);font:inherit;padding:8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg)}
+.trend{display:flex;align-items:flex-end;gap:4px;height:120px}
+.trend i{flex:1;background:var(--brand);border-radius:3px 3px 0 0;min-width:6px}
+dialog::backdrop{background:rgba(0,0,0,.4)}
+@media (max-width:640px){.exam{grid-template-columns:1fr}.qnav{flex-direction:row;flex-wrap:wrap;max-height:none}label.chk{min-width:0;display:block}}
+</style>
+</head>
+<body>
+<header>
+  <b>OpenUworld</b>
+  <button data-view="create">Create Test</button>
+  <button data-view="plan">Planner</button>
+  <button data-view="tests">Previous Tests</button>
+  <button data-view="perf">Performance</button>
+  <button data-view="notes">Notebook</button>
+  <button data-view="cards">Flashcards</button>
+  <button data-view="library">Library</button>
+  <span class="sp"></span>
+  <small id="syncst"></small>
+  <button id="theme" title="Theme"></button>
+  <button id="fminus" title="Smaller text">A−</button>
+  <button id="fplus" title="Larger text">A+</button>
+</header>
+<div id="app"></div>
+<dialog id="dlg"></dialog>
+<script src="questions.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

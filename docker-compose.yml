@@ -1,0 +1,29 @@
+# Local development services. Everything here is open source and free to run locally.
+services:
+  db:
+    image: postgres:17-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: openprep
+      POSTGRES_PASSWORD: openprep_dev_only
+      POSTGRES_DB: openprep
+    ports:
+      - "127.0.0.1:5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./docker/init-test-db.sql:/docker-entrypoint-initdb.d/init-test-db.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U openprep"]
+      interval: 3s
+      retries: 20
+
+  # Catches outgoing email (password reset) locally. Web UI: http://localhost:8025
+  mail:
+    image: axllent/mailpit:v1.27
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:1025:1025"
+      - "127.0.0.1:8025:8025"
+
+volumes:
+  pgdata:

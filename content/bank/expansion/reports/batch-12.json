@@ -1,0 +1,4133 @@
+{
+  "batch": 12,
+  "at": "2026-10-29T17:48:27.073Z",
+  "digest": "700acdf9a3aabfd36168793790fa4cdb5ad731d9315e0192058e5b5bf4baeec3",
+  "generated": 100,
+  "eligible": 98,
+  "rejected": 0,
+  "quarantined": 2,
+  "imported": 0,
+  "skipped": 98,
+  "available": 98,
+  "persisted": 98,
+  "stored": 100,
+  "storedReview": 2,
+  "before": 1028,
+  "after": 1028,
+  "mismatches": [],
+  "firstImport": {
+    "at": "2026-10-29T13:45:03.933Z",
+    "before": 232,
+    "after": 332,
+    "imported": 100,
+    "digest": "8bb008777ab78f77e33508f1bb28fca7a32b92004bdbec503be00ef2652d2a14"
+  },
+  "items": [
+    {
+      "code": "op26x-0301",
+      "concept": "fatigable-bulbar-respiratory-escalation",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Prioritize ventilatory assessment despite normal saturation in myasthenia. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Myasthenia gravis supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: myasthenic weakness receptor localization. Distinct decision: Prioritize ventilatory assessment despite normal saturation in myasthenia.",
+      "candidates": [
+        {
+          "code": "op26x-0432",
+          "score": 0.1486,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0672",
+          "score": 0.1411,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0495",
+          "score": 0.1207,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Neuromuscular respiratory weakness",
+      "objective": "Prioritize ventilatory assessment despite normal saturation in myasthenia.",
+      "reference": [
+        {
+          "label": "NINDS: Myasthenia gravis",
+          "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/myasthenia-gravis.pdf"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0302",
+      "concept": "ascending-areflexic-weakness-differential",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Distinguish acute postinfectious polyneuropathy from cord and junction disease. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Guillain-Barre syndrome supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: myasthenic weakness. Distinct decision: Distinguish acute postinfectious polyneuropathy from cord and junction disease.",
+      "candidates": [
+        {
+          "code": "op26-0005",
+          "score": 0.1524,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0524",
+          "score": 0.1374,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0172",
+          "score": 0.1329,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Acute polyneuropathy",
+      "objective": "Distinguish acute postinfectious polyneuropathy from cord and junction disease.",
+      "reference": [
+        {
+          "label": "NINDS: Guillain-Barre syndrome",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/guillain-barre-syndrome"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0303",
+      "concept": "gbs-autonomic-instability-monitoring",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Recognize dysautonomia as a monitoring indication in Guillain-Barre syndrome. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Guillain-Barre syndrome supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: septic shock hemodynamics. Distinct decision: Recognize dysautonomia as a monitoring indication in Guillain-Barre syndrome.",
+      "candidates": [
+        {
+          "code": "op26x-0302",
+          "score": 0.2548,
+          "sameObjective": false,
+          "lexical": 0.019230769230769232
+        },
+        {
+          "code": "op26x-0445",
+          "score": 0.1185,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0495",
+          "score": 0.1036,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Autonomic complications of neuropathy",
+      "objective": "Recognize dysautonomia as a monitoring indication in Guillain-Barre syndrome.",
+      "reference": [
+        {
+          "label": "NINDS: Guillain-Barre syndrome",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/guillain-barre-syndrome"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0304",
+      "concept": "distal-length-dependent-neuropathy",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Use a stocking distribution to identify distal polyneuropathy. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Peripheral neuropathy supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: myasthenic weakness. Distinct decision: Use a stocking distribution to identify distal polyneuropathy.",
+      "candidates": [
+        {
+          "code": "op26x-0302",
+          "score": 0.1114,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0209",
+          "score": 0.0972,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0515",
+          "score": 0.0969,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Peripheral neuropathy distribution",
+      "objective": "Use a stocking distribution to identify distal polyneuropathy.",
+      "reference": [
+        {
+          "label": "NINDS: Peripheral neuropathy",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/peripheral-neuropathy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0305",
+      "concept": "carpal-tunnel-median-distribution",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Localize nocturnal radial-three-digit paresthesia to median entrapment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Peripheral neuropathy supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest prior item op26-0004 also localizes median nerve entrapment at the carpal tunnel. Removing the thenar-sparing clue does not establish a sufficiently distinct tested decision; manual review flags semantic overlap.",
+      "candidates": [
+        {
+          "code": "op26-0004",
+          "score": 0.4591,
+          "sameObjective": false,
+          "lexical": 0.0784313725490196
+        },
+        {
+          "code": "op26x-0041",
+          "score": 0.1434,
+          "sameObjective": false,
+          "lexical": 0.0425531914893617
+        },
+        {
+          "code": "s1-0007",
+          "score": 0.1305,
+          "sameObjective": false,
+          "lexical": 0.01282051282051282
+        }
+      ],
+      "errors": [],
+      "quarantine": [
+        "Manual semantic review: overlaps baseline op26-0004 carpal tunnel localization; quarantine pending independent review or a genuinely new clinical objective.",
+        "Semantic overlap candidate op26-0004 (0.4591); Both identify median entrapment from nocturnal radial-digit symptoms. The new item does not add a distinct enough diagnostic or management decision."
+      ],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Median nerve entrapment",
+      "objective": "Localize nocturnal radial-three-digit paresthesia to median entrapment.",
+      "reference": [
+        {
+          "label": "NINDS: Peripheral neuropathy",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/peripheral-neuropathy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0306",
+      "concept": "ulnar-neuropathy-elbow-pressure",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Identify ulnar neuropathy from interosseous weakness and sensory territory. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Peripheral neuropathy supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: upper limb anatomy. Distinct decision: Identify ulnar neuropathy from interosseous weakness and sensory territory.",
+      "candidates": [
+        {
+          "code": "op26x-0041",
+          "score": 0.2249,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0040",
+          "score": 0.2174,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0305",
+          "score": 0.1764,
+          "sameObjective": false,
+          "lexical": 0.019230769230769232
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Ulnar nerve compression",
+      "objective": "Identify ulnar neuropathy from interosseous weakness and sensory territory.",
+      "reference": [
+        {
+          "label": "NINDS: Peripheral neuropathy",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/peripheral-neuropathy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0307",
+      "concept": "common-peroneal-footdrop",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Use preserved inversion to localize compressive foot drop. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Peripheral neuropathy supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest prior item op26-0003 uses preserved inversion with weak dorsiflexion and eversion to localize common fibular neuropathy. The trigger changes but the tested localization is the same; manual review flags semantic overlap.",
+      "candidates": [
+        {
+          "code": "op26-0003",
+          "score": 0.5573,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0517",
+          "score": 0.1294,
+          "sameObjective": false,
+          "lexical": 0.07017543859649122
+        },
+        {
+          "code": "op26x-0044",
+          "score": 0.1062,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [
+        "Manual semantic review: overlaps baseline op26-0003 preserved-inversion foot-drop localization; quarantine pending independent review or a genuinely new clinical objective.",
+        "Semantic overlap candidate op26-0003 (0.5573); Both localize foot drop with preserved inversion to common fibular rather than L5 injury. Different presentation does not change the tested inference."
+      ],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Foot-drop localization",
+      "objective": "Use preserved inversion to localize compressive foot drop.",
+      "reference": [
+        {
+          "label": "NINDS: Peripheral neuropathy",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/peripheral-neuropathy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0308",
+      "concept": "cauda-equina-urgent-referral",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Escalate back pain with new sphincter and saddle symptoms as an emergency. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG127: suspected neurological conditions, adult recognition and referral supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: spinal anatomy. Distinct decision: Escalate back pain with new sphincter and saddle symptoms as an emergency.",
+      "candidates": [
+        {
+          "code": "op26x-0497",
+          "score": 0.1394,
+          "sameObjective": false,
+          "lexical": 0.075
+        },
+        {
+          "code": "op26-0008",
+          "score": 0.1383,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0498",
+          "score": 0.1257,
+          "sameObjective": false,
+          "lexical": 0.025
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Spinal emergency recognition",
+      "objective": "Escalate back pain with new sphincter and saddle symptoms as an emergency.",
+      "reference": [
+        {
+          "label": "NICE NG127: suspected neurological conditions, adult recognition and referral",
+          "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-adults-aged-over-16"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0309",
+      "concept": "cervical-myelopathy-hand-gait",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Localize combined hand dysfunction and leg pyramidal signs to cervical cord. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG127: suspected neurological conditions, adult recognition and referral supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: motor pathway anatomy. Distinct decision: Localize combined hand dysfunction and leg pyramidal signs to cervical cord.",
+      "candidates": [
+        {
+          "code": "op26x-0455",
+          "score": 0.2373,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0008",
+          "score": 0.1615,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0647",
+          "score": 0.1478,
+          "sameObjective": false,
+          "lexical": 0.017241379310344827
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Cervical cord dysfunction",
+      "objective": "Localize combined hand dysfunction and leg pyramidal signs to cervical cord.",
+      "reference": [
+        {
+          "label": "NICE NG127: suspected neurological conditions, adult recognition and referral",
+          "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-adults-aged-over-16"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0310",
+      "concept": "parkinson-impact-levodopa",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Select levodopa for Parkinson motor symptoms affecting quality of life. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG71: Parkinson disease in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: basal ganglia circuitry. Distinct decision: Select levodopa for Parkinson motor symptoms affecting quality of life.",
+      "candidates": [
+        {
+          "code": "op26-0094",
+          "score": 0.1167,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0468",
+          "score": 0.0922,
+          "sameObjective": false,
+          "lexical": 0.0196078431372549
+        },
+        {
+          "code": "op26x-0467",
+          "score": 0.0778,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Parkinson treatment threshold",
+      "objective": "Select levodopa for Parkinson motor symptoms affecting quality of life.",
+      "reference": [
+        {
+          "label": "NICE NG71: Parkinson disease in adults",
+          "url": "https://www.nice.org.uk/guidance/ng71/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0311",
+      "concept": "parkinson-impulse-control-history",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Recognize new compulsive behavior during dopamine agonist therapy. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG71: Parkinson disease in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: dopamine pharmacology. Distinct decision: Recognize new compulsive behavior during dopamine agonist therapy.",
+      "candidates": [
+        {
+          "code": "op26-0095",
+          "score": 0.1504,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0094",
+          "score": 0.1197,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0456",
+          "score": 0.1008,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Dopaminergic behavioral monitoring",
+      "objective": "Recognize new compulsive behavior during dopamine agonist therapy.",
+      "reference": [
+        {
+          "label": "NICE NG71: Parkinson disease in adults",
+          "url": "https://www.nice.org.uk/guidance/ng71/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0312",
+      "concept": "ms-relapse-exclude-infection",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Exclude infection-associated worsening before diagnosing an MS relapse. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG220: Multiple sclerosis in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: central demyelination. Distinct decision: Exclude infection-associated worsening before diagnosing an MS relapse.",
+      "candidates": [
+        {
+          "code": "op26x-0420",
+          "score": 0.1282,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0502",
+          "score": 0.1217,
+          "sameObjective": false,
+          "lexical": 0.015873015873015872
+        },
+        {
+          "code": "op26x-0284",
+          "score": 0.1214,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Multiple sclerosis pseudo-relapse",
+      "objective": "Exclude infection-associated worsening before diagnosing an MS relapse.",
+      "reference": [
+        {
+          "label": "NICE NG220: Multiple sclerosis in adults",
+          "url": "https://www.nice.org.uk/guidance/ng220/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0313",
+      "concept": "first-seizure-eyewitness-history",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Use witness chronology when evaluating a possible first seizure. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Epilepsy and seizures supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: action potential physiology. Distinct decision: Use witness chronology when evaluating a possible first seizure.",
+      "candidates": [
+        {
+          "code": "op26x-0421",
+          "score": 0.1123,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0486",
+          "score": 0.0943,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0670",
+          "score": 0.091,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Transient loss-of-consciousness assessment",
+      "objective": "Use witness chronology when evaluating a possible first seizure.",
+      "reference": [
+        {
+          "label": "NINDS: Epilepsy and seizures",
+          "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/epilepsy-and-seizures.pdf"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0314",
+      "concept": "focal-impaired-awareness-seizure",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Identify focal impaired-awareness seizures from aura and automatisms. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Epilepsy and seizures supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: neuronal excitability. Distinct decision: Identify focal impaired-awareness seizures from aura and automatisms.",
+      "candidates": [
+        {
+          "code": "op26x-0630",
+          "score": 0.1612,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0168",
+          "score": 0.116,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0118",
+          "score": 0.094,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Focal seizure recognition",
+      "objective": "Identify focal impaired-awareness seizures from aura and automatisms.",
+      "reference": [
+        {
+          "label": "NINDS: Epilepsy and seizures",
+          "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/epilepsy-and-seizures.pdf"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0315",
+      "concept": "functional-seizure-video-eeg",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Choose event capture over unsupported labels in treatment-resistant spells. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Epilepsy and seizures supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: seizure neurophysiology. Distinct decision: Choose event capture over unsupported labels in treatment-resistant spells.",
+      "candidates": [
+        {
+          "code": "op26x-0313",
+          "score": 0.1311,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0630",
+          "score": 0.1255,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0522",
+          "score": 0.1239,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Functional event confirmation",
+      "objective": "Choose event capture over unsupported labels in treatment-resistant spells.",
+      "reference": [
+        {
+          "label": "NINDS: Epilepsy and seizures",
+          "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/epilepsy-and-seizures.pdf"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0316",
+      "concept": "transient-monocular-vision-vascular",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Escalate transient monocular visual loss for vascular evaluation. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG127: suspected neurological conditions, adult recognition and referral supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: ischemic stroke localization. Distinct decision: Escalate transient monocular visual loss for vascular evaluation.",
+      "candidates": [
+        {
+          "code": "op26-0180",
+          "score": 0.1139,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0308",
+          "score": 0.1114,
+          "sameObjective": false,
+          "lexical": 0.07142857142857142
+        },
+        {
+          "code": "op26x-0564",
+          "score": 0.111,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Transient retinal ischemia",
+      "objective": "Escalate transient monocular visual loss for vascular evaluation.",
+      "reference": [
+        {
+          "label": "NICE NG127: suspected neurological conditions, adult recognition and referral",
+          "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-adults-aged-over-16"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0317",
+      "concept": "thunderclap-emergency-assessment",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Treat thunderclap onset as an emergency despite normal limb findings. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG127: suspected neurological conditions, adult recognition and referral supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: meningeal anatomy. Distinct decision: Treat thunderclap onset as an emergency despite normal limb findings.",
+      "candidates": [
+        {
+          "code": "s2-0004",
+          "score": 0.1319,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s1-0003",
+          "score": 0.124,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0546",
+          "score": 0.1207,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Secondary headache red flags",
+      "objective": "Treat thunderclap onset as an emergency despite normal limb findings.",
+      "reference": [
+        {
+          "label": "NICE NG127: suspected neurological conditions, adult recognition and referral",
+          "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-adults-aged-over-16"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0318",
+      "concept": "headache-medication-overuse-pattern",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Identify frequent triptan use as a contributor to chronic headache. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG127: suspected neurological conditions, adult recognition and referral supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cranial pain pathways. Distinct decision: Identify frequent triptan use as a contributor to chronic headache.",
+      "candidates": [
+        {
+          "code": "op26x-0317",
+          "score": 0.1492,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0546",
+          "score": 0.1132,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0199",
+          "score": 0.0823,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Medication-overuse headache",
+      "objective": "Identify frequent triptan use as a contributor to chronic headache.",
+      "reference": [
+        {
+          "label": "NICE NG127: suspected neurological conditions, adult recognition and referral",
+          "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-adults-aged-over-16"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0319",
+      "concept": "bppv-position-provoked-brief",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Distinguish brief positional vertigo from continuous vestibular syndromes. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG127: suspected neurological conditions, adult recognition and referral supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: vestibular anatomy. Distinct decision: Distinguish brief positional vertigo from continuous vestibular syndromes.",
+      "candidates": [
+        {
+          "code": "op26x-0440",
+          "score": 0.1196,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0097",
+          "score": 0.0989,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0594",
+          "score": 0.0861,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Brief positional vertigo",
+      "objective": "Distinguish brief positional vertigo from continuous vestibular syndromes.",
+      "reference": [
+        {
+          "label": "NICE NG127: suspected neurological conditions, adult recognition and referral",
+          "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-adults-aged-over-16"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0320",
+      "concept": "acute-vestibular-central-redflags",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Prioritize stroke assessment when vertigo accompanies brainstem signs. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG127: suspected neurological conditions, adult recognition and referral supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: ischemic stroke localization. Distinct decision: Prioritize stroke assessment when vertigo accompanies brainstem signs.",
+      "candidates": [
+        {
+          "code": "op26x-0497",
+          "score": 0.1756,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0319",
+          "score": 0.1704,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0308",
+          "score": 0.15,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Acute vestibular emergency",
+      "objective": "Prioritize stroke assessment when vertigo accompanies brainstem signs.",
+      "reference": [
+        {
+          "label": "NICE NG127: suspected neurological conditions, adult recognition and referral",
+          "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-adults-aged-over-16"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0321",
+      "concept": "mnd-mixed-motor-signs",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Integrate upper and lower motor signs with sensory sparing. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG127: suspected neurological conditions, adult recognition and referral supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: motor pathway anatomy. Distinct decision: Integrate upper and lower motor signs with sensory sparing.",
+      "candidates": [
+        {
+          "code": "op26x-0524",
+          "score": 0.2564,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0309",
+          "score": 0.1733,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0041",
+          "score": 0.1667,
+          "sameObjective": false,
+          "lexical": 0.022222222222222223
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Motor neuron disease differential",
+      "objective": "Integrate upper and lower motor signs with sensory sparing.",
+      "reference": [
+        {
+          "label": "NICE NG127: suspected neurological conditions, adult recognition and referral",
+          "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-adults-aged-over-16"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0322",
+      "concept": "neuropathy-asymmetric-progressive-referral",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Recognize atypical rapid asymmetry as a trigger for neuropathy reassessment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG127: suspected neurological conditions, adult recognition and referral supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: distal sensory physiology. Distinct decision: Recognize atypical rapid asymmetry as a trigger for neuropathy reassessment.",
+      "candidates": [
+        {
+          "code": "op26x-0306",
+          "score": 0.1161,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0407",
+          "score": 0.1146,
+          "sameObjective": false,
+          "lexical": 0.047619047619047616
+        },
+        {
+          "code": "op26-0003",
+          "score": 0.0879,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Atypical neuropathy referral",
+      "objective": "Recognize atypical rapid asymmetry as a trigger for neuropathy reassessment.",
+      "reference": [
+        {
+          "label": "NICE NG127: suspected neurological conditions, adult recognition and referral",
+          "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-adults-aged-over-16"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0323",
+      "concept": "ms-fatigue-sleep-reversible",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Investigate reversible contributors to fatigue without focal MS relapse findings. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG220: Multiple sclerosis in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: central demyelination. Distinct decision: Investigate reversible contributors to fatigue without focal MS relapse findings.",
+      "candidates": [
+        {
+          "code": "op26x-0312",
+          "score": 0.2685,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0456",
+          "score": 0.1388,
+          "sameObjective": false,
+          "lexical": 0.07142857142857142
+        },
+        {
+          "code": "op26x-0491",
+          "score": 0.1065,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Fatigue assessment in multiple sclerosis",
+      "objective": "Investigate reversible contributors to fatigue without focal MS relapse findings.",
+      "reference": [
+        {
+          "label": "NICE NG220: Multiple sclerosis in adults",
+          "url": "https://www.nice.org.uk/guidance/ng220/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0324",
+      "concept": "parkinson-orthostatic-symptoms-review",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Review modifiable factors in symptomatic orthostatic hypotension with Parkinson disease. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG71: Parkinson disease in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: septic shock hemodynamics. Distinct decision: Review modifiable factors in symptomatic orthostatic hypotension with Parkinson disease.",
+      "candidates": [
+        {
+          "code": "op26x-0474",
+          "score": 0.1962,
+          "sameObjective": false,
+          "lexical": 0.019230769230769232
+        },
+        {
+          "code": "op26x-0450",
+          "score": 0.157,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0443",
+          "score": 0.1245,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Orthostatic symptoms in Parkinson disease",
+      "objective": "Review modifiable factors in symptomatic orthostatic hypotension with Parkinson disease.",
+      "reference": [
+        {
+          "label": "NICE NG71: Parkinson disease in adults",
+          "url": "https://www.nice.org.uk/guidance/ng71/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0325",
+      "concept": "new-dysphagia-progressive-neurology",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Escalate progressive bulbar weakness for neurological and swallowing assessment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG127: suspected neurological conditions, adult recognition and referral supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: myasthenic weakness. Distinct decision: Escalate progressive bulbar weakness for neurological and swallowing assessment.",
+      "candidates": [
+        {
+          "code": "op26x-0497",
+          "score": 0.2255,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0046",
+          "score": 0.1463,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0322",
+          "score": 0.1385,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Neurology",
+      "topic": "Progressive bulbar symptom referral",
+      "objective": "Escalate progressive bulbar weakness for neurological and swallowing assessment.",
+      "reference": [
+        {
+          "label": "NICE NG127: suspected neurological conditions, adult recognition and referral",
+          "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-adults-aged-over-16"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0326",
+      "concept": "depression-screen-past-hypomania",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Assess past mood elevation before treating a depressive presentation. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG222: Depression in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: neurotransmitter pathways. Distinct decision: Assess past mood elevation before treating a depressive presentation.",
+      "candidates": [
+        {
+          "code": "op26x-0693",
+          "score": 0.2081,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0692",
+          "score": 0.1364,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0473",
+          "score": 0.1026,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Bipolar differential before treatment",
+      "objective": "Assess past mood elevation before treating a depressive presentation.",
+      "reference": [
+        {
+          "label": "NICE NG222: Depression in adults",
+          "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0327",
+      "concept": "depression-functional-assessment",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Integrate functioning and risk into depressive severity assessment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG222: Depression in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: behavioral health symptom recognition. Distinct decision: Integrate functioning and risk into depressive severity assessment.",
+      "candidates": [
+        {
+          "code": "op26x-0432",
+          "score": 0.1733,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0692",
+          "score": 0.1321,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0467",
+          "score": 0.1222,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Depression severity formulation",
+      "objective": "Integrate functioning and risk into depressive severity assessment.",
+      "reference": [
+        {
+          "label": "NICE NG222: Depression in adults",
+          "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0328",
+      "concept": "depression-less-severe-preference",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Match initial less severe depression care to informed treatment preference. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG222: Depression in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: medical ethics shared decisions. Distinct decision: Match initial less severe depression care to informed treatment preference.",
+      "candidates": [
+        {
+          "code": "op26-0140",
+          "score": 0.1357,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0473",
+          "score": 0.1319,
+          "sameObjective": false,
+          "lexical": 0.022222222222222223
+        },
+        {
+          "code": "op26x-0691",
+          "score": 0.0919,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Initial treatment shared decision",
+      "objective": "Match initial less severe depression care to informed treatment preference.",
+      "reference": [
+        {
+          "label": "NICE NG222: Depression in adults",
+          "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0329",
+      "concept": "antidepressant-early-agitation-monitoring",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Respond promptly to new agitation and self-harm thoughts after treatment starts. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG222: Depression in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: antidepressant pharmacology. Distinct decision: Respond promptly to new agitation and self-harm thoughts after treatment starts.",
+      "candidates": [
+        {
+          "code": "op26-0136",
+          "score": 0.1623,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0694",
+          "score": 0.1172,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0328",
+          "score": 0.1165,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Early antidepressant review",
+      "objective": "Respond promptly to new agitation and self-harm thoughts after treatment starts.",
+      "reference": [
+        {
+          "label": "NICE NG222: Depression in adults",
+          "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0330",
+      "concept": "antidepressant-withdrawal-temporal",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Distinguish rapid SSRI withdrawal symptoms from recurrence of depression. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG222: Depression in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: antidepressant pharmacology. Distinct decision: Distinguish rapid SSRI withdrawal symptoms from recurrence of depression.",
+      "candidates": [
+        {
+          "code": "op26x-0490",
+          "score": 0.1065,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0487",
+          "score": 0.1062,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0430",
+          "score": 0.0871,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Antidepressant withdrawal recognition",
+      "objective": "Distinguish rapid SSRI withdrawal symptoms from recurrence of depression.",
+      "reference": [
+        {
+          "label": "NICE NG222: Depression in adults",
+          "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0331",
+      "concept": "depression-nonresponse-adherence",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Check actual adherence and tolerability before labeling depression treatment resistant. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG222: Depression in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: drug-response principles. Distinct decision: Check actual adherence and tolerability before labeling depression treatment resistant.",
+      "candidates": [
+        {
+          "code": "op26x-0450",
+          "score": 0.38,
+          "sameObjective": false,
+          "lexical": 0.017241379310344827
+        },
+        {
+          "code": "op26x-0472",
+          "score": 0.2318,
+          "sameObjective": false,
+          "lexical": 0.06896551724137931
+        },
+        {
+          "code": "op26x-0490",
+          "score": 0.1337,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Apparent antidepressant treatment failure",
+      "objective": "Check actual adherence and tolerability before labeling depression treatment resistant.",
+      "reference": [
+        {
+          "label": "NICE NG222: Depression in adults",
+          "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0332",
+      "concept": "psychotic-depression-specialist",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Escalate psychotic depression with impaired nutritional intake. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG222: Depression in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: psychosis symptom recognition. Distinct decision: Escalate psychotic depression with impaired nutritional intake.",
+      "candidates": [
+        {
+          "code": "op26x-0474",
+          "score": 0.1581,
+          "sameObjective": false,
+          "lexical": 0.0425531914893617
+        },
+        {
+          "code": "op26x-0415",
+          "score": 0.1329,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0549",
+          "score": 0.1202,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Depression with psychotic features",
+      "objective": "Escalate psychotic depression with impaired nutritional intake.",
+      "reference": [
+        {
+          "label": "NICE NG222: Depression in adults",
+          "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0333",
+      "concept": "depression-ect-life-threatening",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Identify a life-threatening depressive presentation where ECT merits consideration. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG222: Depression in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: severe depression assessment. Distinct decision: Identify a life-threatening depressive presentation where ECT merits consideration.",
+      "candidates": [
+        {
+          "code": "op26x-0441",
+          "score": 0.1412,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0132",
+          "score": 0.1169,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0134",
+          "score": 0.107,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Rapid treatment in severe depression",
+      "objective": "Identify a life-threatening depressive presentation where ECT merits consideration.",
+      "reference": [
+        {
+          "label": "NICE NG222: Depression in adults",
+          "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0334",
+      "concept": "mania-sleep-need-distinction",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Distinguish decreased sleep need during mania from insomnia with fatigue. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG185: Bipolar disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: sleep physiology. Distinct decision: Distinguish decreased sleep need during mania from insomnia with fatigue.",
+      "candidates": [
+        {
+          "code": "op26x-0693",
+          "score": 0.1867,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0722",
+          "score": 0.1354,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0323",
+          "score": 0.0964,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Mania versus insomnia",
+      "objective": "Distinguish decreased sleep need during mania from insomnia with fatigue.",
+      "reference": [
+        {
+          "label": "NICE CG185: Bipolar disorder",
+          "url": "https://www.nice.org.uk/guidance/cg185/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0335",
+      "concept": "mania-antidepressant-review",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Reconsider antidepressant monotherapy when a manic episode develops. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG185: Bipolar disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: antidepressant mechanisms. Distinct decision: Reconsider antidepressant monotherapy when a manic episode develops.",
+      "candidates": [
+        {
+          "code": "op26x-0693",
+          "score": 0.1825,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0326",
+          "score": 0.1078,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0329",
+          "score": 0.0995,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Mania emerging during antidepressant use",
+      "objective": "Reconsider antidepressant monotherapy when a manic episode develops.",
+      "reference": [
+        {
+          "label": "NICE CG185: Bipolar disorder",
+          "url": "https://www.nice.org.uk/guidance/cg185/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0336",
+      "concept": "bipolar-lithium-shared-monitoring",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Explain ongoing lithium safety monitoring during euthymic maintenance. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG185: Bipolar disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: drug therapeutic index. Distinct decision: Explain ongoing lithium safety monitoring during euthymic maintenance.",
+      "candidates": [
+        {
+          "code": "s2-0007",
+          "score": 0.2241,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0440",
+          "score": 0.1334,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0463",
+          "score": 0.1288,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Long-term bipolar relapse prevention",
+      "objective": "Explain ongoing lithium safety monitoring during euthymic maintenance.",
+      "reference": [
+        {
+          "label": "NICE CG185: Bipolar disorder",
+          "url": "https://www.nice.org.uk/guidance/cg185/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0337",
+      "concept": "bipolar-relapse-warning-plan",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Use personal early warning signs in bipolar relapse planning. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG185: Bipolar disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: long-term behavioral care. Distinct decision: Use personal early warning signs in bipolar relapse planning.",
+      "candidates": [
+        {
+          "code": "s2-0007",
+          "score": 0.1353,
+          "sameObjective": false,
+          "lexical": 0.012345679012345678
+        },
+        {
+          "code": "op26x-0336",
+          "score": 0.1342,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0326",
+          "score": 0.1307,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Bipolar early warning signs",
+      "objective": "Use personal early warning signs in bipolar relapse planning.",
+      "reference": [
+        {
+          "label": "NICE CG185: Bipolar disorder",
+          "url": "https://www.nice.org.uk/guidance/cg185/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0338",
+      "concept": "generalized-anxiety-multidomain",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Differentiate generalized anxiety from episodic panic and circumscribed phobia. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG113: Generalised anxiety and panic disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: stress response physiology. Distinct decision: Differentiate generalized anxiety from episodic panic and circumscribed phobia.",
+      "candidates": [
+        {
+          "code": "op26-0123",
+          "score": 0.1113,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0470",
+          "score": 0.0803,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0337",
+          "score": 0.0767,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Generalized anxiety differential",
+      "objective": "Differentiate generalized anxiety from episodic panic and circumscribed phobia.",
+      "reference": [
+        {
+          "label": "NICE CG113: Generalised anxiety and panic disorder",
+          "url": "https://www.nice.org.uk/guidance/cg113/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0339",
+      "concept": "panic-attack-medical-differential",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Avoid diagnostic anchoring when panic-like symptoms include cardiac red flags. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG113: Generalised anxiety and panic disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cardiovascular syncope. Distinct decision: Avoid diagnostic anchoring when panic-like symptoms include cardiac red flags.",
+      "candidates": [
+        {
+          "code": "op26x-0338",
+          "score": 0.1609,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0440",
+          "score": 0.1462,
+          "sameObjective": false,
+          "lexical": 0.02
+        },
+        {
+          "code": "op26x-0456",
+          "score": 0.1394,
+          "sameObjective": false,
+          "lexical": 0.09090909090909091
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Panic-like symptoms and medical evaluation",
+      "objective": "Avoid diagnostic anchoring when panic-like symptoms include cardiac red flags.",
+      "reference": [
+        {
+          "label": "NICE CG113: Generalised anxiety and panic disorder",
+          "url": "https://www.nice.org.uk/guidance/cg113/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0340",
+      "concept": "gad-harmful-substance-use",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Prioritize harmful dependent substance use when it complicates generalized anxiety. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG113: Generalised anxiety and panic disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: substance-use effects. Distinct decision: Prioritize harmful dependent substance use when it complicates generalized anxiety.",
+      "candidates": [
+        {
+          "code": "op26x-0338",
+          "score": 0.1187,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0444",
+          "score": 0.1129,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0693",
+          "score": 0.1023,
+          "sameObjective": false,
+          "lexical": 0.017857142857142856
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Anxiety and harmful alcohol use",
+      "objective": "Prioritize harmful dependent substance use when it complicates generalized anxiety.",
+      "reference": [
+        {
+          "label": "NICE CG113: Generalised anxiety and panic disorder",
+          "url": "https://www.nice.org.uk/guidance/cg113/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0341",
+      "concept": "gad-benzodiazepine-longterm",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Distinguish crisis benzodiazepine use from long-term generalized anxiety care. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG113: Generalised anxiety and panic disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: sedative pharmacology. Distinct decision: Distinguish crisis benzodiazepine use from long-term generalized anxiety care.",
+      "candidates": [
+        {
+          "code": "op26x-0462",
+          "score": 0.1959,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0338",
+          "score": 0.1647,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0328",
+          "score": 0.1586,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Long-term anxiety treatment choice",
+      "objective": "Distinguish crisis benzodiazepine use from long-term generalized anxiety care.",
+      "reference": [
+        {
+          "label": "NICE CG113: Generalised anxiety and panic disorder",
+          "url": "https://www.nice.org.uk/guidance/cg113/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0342",
+      "concept": "panic-disorder-cbt-option",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Identify CBT as an evidence-based psychological option for panic disorder. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG113: Generalised anxiety and panic disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: behavioral learning principles. Distinct decision: Identify CBT as an evidence-based psychological option for panic disorder.",
+      "candidates": [
+        {
+          "code": "op26x-0338",
+          "score": 0.1442,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0328",
+          "score": 0.1314,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        },
+        {
+          "code": "op26x-0339",
+          "score": 0.1172,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Psychological treatment for panic disorder",
+      "objective": "Identify CBT as an evidence-based psychological option for panic disorder.",
+      "reference": [
+        {
+          "label": "NICE CG113: Generalised anxiety and panic disorder",
+          "url": "https://www.nice.org.uk/guidance/cg113/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0343",
+      "concept": "ocd-obsessions-compulsions-insight",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Distinguish ego-dystonic obsessions and rituals from fixed psychotic conviction. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NIMH: Obsessive-compulsive disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: behavioral health symptom recognition. Distinct decision: Distinguish ego-dystonic obsessions and rituals from fixed psychotic conviction.",
+      "candidates": [
+        {
+          "code": "op26x-0694",
+          "score": 0.2949,
+          "sameObjective": false,
+          "lexical": 0.015625
+        },
+        {
+          "code": "op26x-0339",
+          "score": 0.0711,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0329",
+          "score": 0.0639,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "OCD versus psychotic belief",
+      "objective": "Distinguish ego-dystonic obsessions and rituals from fixed psychotic conviction.",
+      "reference": [
+        {
+          "label": "NIMH: Obsessive-compulsive disorder",
+          "url": "https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0344",
+      "concept": "ocd-exposure-response-prevention",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Recognize exposure with ritual prevention as a core OCD therapy component. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NIMH: Obsessive-compulsive disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: behavioral learning principles. Distinct decision: Recognize exposure with ritual prevention as a core OCD therapy component.",
+      "candidates": [
+        {
+          "code": "op26x-0442",
+          "score": 0.0882,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0257",
+          "score": 0.0863,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0114",
+          "score": 0.0774,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Behavioral treatment mechanism in OCD",
+      "objective": "Recognize exposure with ritual prevention as a core OCD therapy component.",
+      "reference": [
+        {
+          "label": "NIMH: Obsessive-compulsive disorder",
+          "url": "https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0345",
+      "concept": "ocd-functional-burden",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Use distress and impairment to distinguish pathological rituals from normal checking. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NIMH: Obsessive-compulsive disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: normal versus pathological behavior. Distinct decision: Use distress and impairment to distinguish pathological rituals from normal checking.",
+      "candidates": [
+        {
+          "code": "op26x-0694",
+          "score": 0.1628,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0327",
+          "score": 0.1153,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0626",
+          "score": 0.099,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Clinical significance of repetitive rituals",
+      "objective": "Use distress and impairment to distinguish pathological rituals from normal checking.",
+      "reference": [
+        {
+          "label": "NIMH: Obsessive-compulsive disorder",
+          "url": "https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0346",
+      "concept": "ptsd-symptom-cluster-integration",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Integrate persistent trauma-related symptom clusters in PTSD assessment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NIMH: Post-traumatic stress disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: stress response physiology. Distinct decision: Integrate persistent trauma-related symptom clusters in PTSD assessment.",
+      "candidates": [
+        {
+          "code": "op26x-0473",
+          "score": 0.1082,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0451",
+          "score": 0.0941,
+          "sameObjective": false,
+          "lexical": 0.02040816326530612
+        },
+        {
+          "code": "op26x-0585",
+          "score": 0.0916,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Post-traumatic stress syndrome",
+      "objective": "Integrate persistent trauma-related symptom clusters in PTSD assessment.",
+      "reference": [
+        {
+          "label": "NIMH: Post-traumatic stress disorder",
+          "url": "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0347",
+      "concept": "ptsd-not-universal-after-trauma",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Avoid equating early post-trauma symptoms with inevitable chronic PTSD. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NIMH: Post-traumatic stress disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: stress adaptation. Distinct decision: Avoid equating early post-trauma symptoms with inevitable chronic PTSD.",
+      "candidates": [
+        {
+          "code": "op26x-0346",
+          "score": 0.2509,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0475",
+          "score": 0.1069,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0692",
+          "score": 0.1006,
+          "sameObjective": false,
+          "lexical": 0.018518518518518517
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Trauma follow-up without assumed disorder",
+      "objective": "Avoid equating early post-trauma symptoms with inevitable chronic PTSD.",
+      "reference": [
+        {
+          "label": "NIMH: Post-traumatic stress disorder",
+          "url": "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0348",
+      "concept": "depression-anxiety-comorbidity-sequencing",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Prioritize depression when anxiety is part of the depressive episode. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG222: Depression in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: behavioral health differential diagnosis. Distinct decision: Prioritize depression when anxiety is part of the depressive episode.",
+      "candidates": [
+        {
+          "code": "op26x-0692",
+          "score": 0.1777,
+          "sameObjective": false,
+          "lexical": 0.017857142857142856
+        },
+        {
+          "code": "op26x-0340",
+          "score": 0.1769,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0335",
+          "score": 0.1697,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Depression with anxiety symptoms",
+      "objective": "Prioritize depression when anxiety is part of the depressive episode.",
+      "reference": [
+        {
+          "label": "NICE NG222: Depression in adults",
+          "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0349",
+      "concept": "depression-physical-comorbidity-plan",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Adapt depression treatment delivery for acquired cognitive impairment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG222: Depression in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: medical ethics accessibility. Distinct decision: Adapt depression treatment delivery for acquired cognitive impairment.",
+      "candidates": [
+        {
+          "code": "op26x-0342",
+          "score": 0.1354,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0333",
+          "score": 0.0863,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0535",
+          "score": 0.0807,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Accessible depression care",
+      "objective": "Adapt depression treatment delivery for acquired cognitive impairment.",
+      "reference": [
+        {
+          "label": "NICE NG222: Depression in adults",
+          "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0350",
+      "concept": "bipolar-family-collateral-history",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Use consensual collateral history to assess previous mood elevation. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG185: Bipolar disorder supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: medical ethics collateral information. Distinct decision: Use consensual collateral history to assess previous mood elevation.",
+      "candidates": [
+        {
+          "code": "op26x-0326",
+          "score": 0.2388,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0693",
+          "score": 0.1486,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0334",
+          "score": 0.1153,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Psychiatry",
+      "topic": "Collateral history in suspected bipolar disorder",
+      "objective": "Use consensual collateral history to assess previous mood elevation.",
+      "reference": [
+        {
+          "label": "NICE CG185: Bipolar disorder",
+          "url": "https://www.nice.org.uk/guidance/cg185/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0351",
+      "concept": "hypoactive-delirium-withdrawal",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Recognize quiet acute inattention as possible hypoactive delirium. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG103: Delirium supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: hepatic encephalopathy. Distinct decision: Recognize quiet acute inattention as possible hypoactive delirium.",
+      "candidates": [
+        {
+          "code": "s3-0010",
+          "score": 0.0907,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0182",
+          "score": 0.0838,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0677",
+          "score": 0.0772,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Hypoactive delirium",
+      "objective": "Recognize quiet acute inattention as possible hypoactive delirium.",
+      "reference": [
+        {
+          "label": "NICE CG103: Delirium",
+          "url": "https://www.nice.org.uk/guidance/cg103/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0352",
+      "concept": "delirium-superimposed-on-dementia",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Distinguish superimposed delirium from gradual dementia progression. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG103: Delirium supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: hepatic encephalopathy. Distinct decision: Distinguish superimposed delirium from gradual dementia progression.",
+      "candidates": [
+        {
+          "code": "s3-0010",
+          "score": 0.1207,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0351",
+          "score": 0.0881,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0267",
+          "score": 0.0871,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Acute change with baseline dementia",
+      "objective": "Distinguish superimposed delirium from gradual dementia progression.",
+      "reference": [
+        {
+          "label": "NICE CG103: Delirium",
+          "url": "https://www.nice.org.uk/guidance/cg103/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0353",
+      "concept": "delirium-first-deescalation",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Use de-escalation first for non-dangerous delirium-related distress. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG103: Delirium supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: medical ethics communication. Distinct decision: Use de-escalation first for non-dangerous delirium-related distress.",
+      "candidates": [
+        {
+          "code": "op26x-0351",
+          "score": 0.0921,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0345",
+          "score": 0.088,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0429",
+          "score": 0.0868,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Distress during delirium",
+      "objective": "Use de-escalation first for non-dangerous delirium-related distress.",
+      "reference": [
+        {
+          "label": "NICE CG103: Delirium",
+          "url": "https://www.nice.org.uk/guidance/cg103/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0354",
+      "concept": "delirium-parkinson-haloperidol-risk",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Identify Parkinson disease as a major haloperidol caution during delirium. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG103: Delirium supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: dopamine pharmacology. Distinct decision: Identify Parkinson disease as a major haloperidol caution during delirium.",
+      "candidates": [
+        {
+          "code": "op26x-0324",
+          "score": 0.1434,
+          "sameObjective": false,
+          "lexical": 0.06
+        },
+        {
+          "code": "op26x-0310",
+          "score": 0.1324,
+          "sameObjective": false,
+          "lexical": 0.017543859649122806
+        },
+        {
+          "code": "op26x-0311",
+          "score": 0.1156,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Delirium medication caution",
+      "objective": "Identify Parkinson disease as a major haloperidol caution during delirium.",
+      "reference": [
+        {
+          "label": "NICE CG103: Delirium",
+          "url": "https://www.nice.org.uk/guidance/cg103/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0355",
+      "concept": "delirium-risk-hip-fracture",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "recognition: Identify a hospitalized older adult at high risk for delirium. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG103: Delirium supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cognitive reserve. Distinct decision: Identify a hospitalized older adult at high risk for delirium.",
+      "candidates": [
+        {
+          "code": "op26x-0495",
+          "score": 0.1563,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0010",
+          "score": 0.1545,
+          "sameObjective": false,
+          "lexical": 0.03296703296703297
+        },
+        {
+          "code": "op26x-0351",
+          "score": 0.1366,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Delirium prevention eligibility",
+      "objective": "Identify a hospitalized older adult at high risk for delirium.",
+      "reference": [
+        {
+          "label": "NICE CG103: Delirium",
+          "url": "https://www.nice.org.uk/guidance/cg103/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0356",
+      "concept": "delirium-sensory-aid-prevention",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Restore sensory aids to support orientation during hospitalization. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG103: Delirium supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: sensory physiology. Distinct decision: Restore sensory aids to support orientation during hospitalization.",
+      "candidates": [
+        {
+          "code": "op26x-0626",
+          "score": 0.1118,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0090",
+          "score": 0.0725,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0355",
+          "score": 0.0666,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Sensory support in hospital",
+      "objective": "Restore sensory aids to support orientation during hospitalization.",
+      "reference": [
+        {
+          "label": "NICE CG103: Delirium",
+          "url": "https://www.nice.org.uk/guidance/cg103/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0357",
+      "concept": "delirium-nocturnal-sleep-protection",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Reduce avoidable nighttime interruption in a delirium prevention plan. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG103: Delirium supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: sleep physiology. Distinct decision: Reduce avoidable nighttime interruption in a delirium prevention plan.",
+      "candidates": [
+        {
+          "code": "op26x-0355",
+          "score": 0.2062,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0353",
+          "score": 0.1117,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        },
+        {
+          "code": "op26x-0352",
+          "score": 0.103,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Sleep protection in delirium prevention",
+      "objective": "Reduce avoidable nighttime interruption in a delirium prevention plan.",
+      "reference": [
+        {
+          "label": "NICE CG103: Delirium",
+          "url": "https://www.nice.org.uk/guidance/cg103/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0358",
+      "concept": "delirium-find-cause-not-label",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Investigate multiple precipitants after recognizing delirium. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG103: Delirium supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: hepatic encephalopathy. Distinct decision: Investigate multiple precipitants after recognizing delirium.",
+      "candidates": [
+        {
+          "code": "op26x-0355",
+          "score": 0.1531,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0414",
+          "score": 0.1114,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0428",
+          "score": 0.1045,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Delirium underlying-cause workup",
+      "objective": "Investigate multiple precipitants after recognizing delirium.",
+      "reference": [
+        {
+          "label": "NICE CG103: Delirium",
+          "url": "https://www.nice.org.uk/guidance/cg103/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0359",
+      "concept": "delirium-family-baseline",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Use collateral baseline to identify acute cognitive change. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG103: Delirium supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: medical ethics communication. Distinct decision: Use collateral baseline to identify acute cognitive change.",
+      "candidates": [
+        {
+          "code": "op26x-0350",
+          "score": 0.111,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0486",
+          "score": 0.1072,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0750",
+          "score": 0.1044,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Collateral baseline during acute confusion",
+      "objective": "Use collateral baseline to identify acute cognitive change.",
+      "reference": [
+        {
+          "label": "NICE CG103: Delirium",
+          "url": "https://www.nice.org.uk/guidance/cg103/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0360",
+      "concept": "drug-related-cognitive-impairment",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Evaluate medication effects before labeling new cognitive decline as Alzheimer disease. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Dementias supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cholinergic pharmacology. Distinct decision: Evaluate medication effects before labeling new cognitive decline as Alzheimer disease.",
+      "candidates": [
+        {
+          "code": "op26x-0456",
+          "score": 0.15,
+          "sameObjective": false,
+          "lexical": 0.09302325581395349
+        },
+        {
+          "code": "op26x-0414",
+          "score": 0.1319,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0405",
+          "score": 0.1279,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Reversible cognitive contributors",
+      "objective": "Evaluate medication effects before labeling new cognitive decline as Alzheimer disease.",
+      "reference": [
+        {
+          "label": "NINDS: Dementias",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/dementias"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0361",
+      "concept": "normal-pressure-hydrocephalus-sequence",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Identify normal pressure hydrocephalus from gait bladder and imaging findings. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Dementias supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cerebrospinal fluid physiology. Distinct decision: Identify normal pressure hydrocephalus from gait bladder and imaging findings.",
+      "candidates": [
+        {
+          "code": "op26x-0475",
+          "score": 0.1031,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0478",
+          "score": 0.0958,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0616",
+          "score": 0.0933,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Potentially treatable cognitive syndrome",
+      "objective": "Identify normal pressure hydrocephalus from gait bladder and imaging findings.",
+      "reference": [
+        {
+          "label": "NINDS: Dementias",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/dementias"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0362",
+      "concept": "lewy-body-cognitive-visual-parkinson",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Integrate hallucinations fluctuations and parkinsonism in dementia differential. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Lewy body dementia supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: basal ganglia circuitry. Distinct decision: Integrate hallucinations fluctuations and parkinsonism in dementia differential.",
+      "candidates": [
+        {
+          "code": "op26x-0352",
+          "score": 0.1511,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0094",
+          "score": 0.0805,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0313",
+          "score": 0.0596,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Lewy body dementia pattern",
+      "objective": "Integrate hallucinations fluctuations and parkinsonism in dementia differential.",
+      "reference": [
+        {
+          "label": "NINDS: Lewy body dementia",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/lewy-body-dementia"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0363",
+      "concept": "lewy-body-dream-enactment",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Use dream-enactment history as support for a Lewy body spectrum disorder. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Lewy body dementia supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: sleep physiology. Distinct decision: Use dream-enactment history as support for a Lewy body spectrum disorder.",
+      "candidates": [
+        {
+          "code": "op26x-0362",
+          "score": 0.1842,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0492",
+          "score": 0.0928,
+          "sameObjective": false,
+          "lexical": 0.020833333333333332
+        },
+        {
+          "code": "op26x-0737",
+          "score": 0.0841,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Sleep history in Lewy body disease",
+      "objective": "Use dream-enactment history as support for a Lewy body spectrum disorder.",
+      "reference": [
+        {
+          "label": "NINDS: Lewy body dementia",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/lewy-body-dementia"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0364",
+      "concept": "vascular-cognitive-stepwise-course",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Recognize a vascular contribution to stepwise poststroke cognitive decline. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Dementias supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: ischemic stroke localization. Distinct decision: Recognize a vascular contribution to stepwise poststroke cognitive decline.",
+      "candidates": [
+        {
+          "code": "op26x-0360",
+          "score": 0.1158,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0500",
+          "score": 0.0953,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0349",
+          "score": 0.0854,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Vascular cognitive impairment",
+      "objective": "Recognize a vascular contribution to stepwise poststroke cognitive decline.",
+      "reference": [
+        {
+          "label": "NINDS: Dementias",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/dementias"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0365",
+      "concept": "dementia-treatable-thyroid-check",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Assess thyroid dysfunction when cognitive complaints include hypothyroid features. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Dementias supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: thyroid hormone physiology. Distinct decision: Assess thyroid dysfunction when cognitive complaints include hypothyroid features.",
+      "candidates": [
+        {
+          "code": "op26-0022",
+          "score": 0.1722,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0679",
+          "score": 0.1317,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0361",
+          "score": 0.115,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Cognitive assessment reversible disease",
+      "objective": "Assess thyroid dysfunction when cognitive complaints include hypothyroid features.",
+      "reference": [
+        {
+          "label": "NINDS: Dementias",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/dementias"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0366",
+      "concept": "dementia-b12-reversible-contributor",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Evaluate B12 deficiency when cognition sensory loss and macrocytosis coexist. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Dementias supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: megaloblastic anemia mechanism. Distinct decision: Evaluate B12 deficiency when cognition sensory loss and macrocytosis coexist.",
+      "candidates": [
+        {
+          "code": "op26x-0475",
+          "score": 0.2583,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0058",
+          "score": 0.1905,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0478",
+          "score": 0.1832,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Cognition and nutritional deficiency",
+      "objective": "Evaluate B12 deficiency when cognition sensory loss and macrocytosis coexist.",
+      "reference": [
+        {
+          "label": "NINDS: Dementias",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/dementias"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0367",
+      "concept": "subdural-cognitive-fall-history",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Prioritize subdural bleeding evaluation after delayed postfall cognitive change. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Dementias supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: meningeal anatomy. Distinct decision: Prioritize subdural bleeding evaluation after delayed postfall cognitive change.",
+      "candidates": [
+        {
+          "code": "op26x-0584",
+          "score": 0.1671,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0443",
+          "score": 0.1231,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0539",
+          "score": 0.1201,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Subacute cognitive change after trauma",
+      "objective": "Prioritize subdural bleeding evaluation after delayed postfall cognitive change.",
+      "reference": [
+        {
+          "label": "NINDS: Dementias",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/dementias"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0368",
+      "concept": "dementia-normal-aging-function",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Use declining independence to identify clinically significant cognitive impairment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Dementias supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cognitive reserve. Distinct decision: Use declining independence to identify clinically significant cognitive impairment.",
+      "candidates": [
+        {
+          "code": "op26x-0359",
+          "score": 0.126,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0626",
+          "score": 0.1022,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0355",
+          "score": 0.0977,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Cognitive symptoms and independence",
+      "objective": "Use declining independence to identify clinically significant cognitive impairment.",
+      "reference": [
+        {
+          "label": "NINDS: Dementias",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/dementias"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0369",
+      "concept": "delirium-dehydration-access",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Address dependence and fluid access when preventing dehydration-associated delirium. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE CG103: Delirium supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: prerenal azotemia. Distinct decision: Address dependence and fluid access when preventing dehydration-associated delirium.",
+      "candidates": [
+        {
+          "code": "op26x-0355",
+          "score": 0.1166,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0195",
+          "score": 0.1064,
+          "sameObjective": false,
+          "lexical": 0.017543859649122806
+        },
+        {
+          "code": "op26x-0486",
+          "score": 0.0973,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Hydration support for cognitive vulnerability",
+      "objective": "Address dependence and fluid access when preventing dehydration-associated delirium.",
+      "reference": [
+        {
+          "label": "NICE CG103: Delirium",
+          "url": "https://www.nice.org.uk/guidance/cg103/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0370",
+      "concept": "older-adult-aki-medicine-risk",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Identify acute illness and medication combinations that increase AKI risk. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG148: Acute kidney injury supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: prerenal azotemia. Distinct decision: Identify acute illness and medication combinations that increase AKI risk.",
+      "candidates": [
+        {
+          "code": "op26x-0420",
+          "score": 0.1242,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0401",
+          "score": 0.1239,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0358",
+          "score": 0.1191,
+          "sameObjective": false,
+          "lexical": 0.02127659574468085
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "AKI risk with acute illness",
+      "objective": "Identify acute illness and medication combinations that increase AKI risk.",
+      "reference": [
+        {
+          "label": "NICE NG148: Acute kidney injury",
+          "url": "https://www.nice.org.uk/guidance/ng148/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0371",
+      "concept": "postrenal-retention-geriatric-assessment",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Assess retention as a reversible cause of AKI with a distended bladder. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG148: Acute kidney injury supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: postrenal kidney injury mechanism. Distinct decision: Assess retention as a reversible cause of AKI with a distended bladder.",
+      "candidates": [
+        {
+          "code": "op26-0177",
+          "score": 0.2887,
+          "sameObjective": false,
+          "lexical": 0.047619047619047616
+        },
+        {
+          "code": "op26x-0323",
+          "score": 0.1834,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0010",
+          "score": 0.1509,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Bladder assessment in oliguric AKI",
+      "objective": "Assess retention as a reversible cause of AKI with a distended bladder.",
+      "reference": [
+        {
+          "label": "NICE NG148: Acute kidney injury",
+          "url": "https://www.nice.org.uk/guidance/ng148/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0372",
+      "concept": "falls-postural-vitals",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Measure orthostatic blood pressure for falls preceded by standing-related lightheadedness. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG71: Parkinson disease in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: septic shock hemodynamics. Distinct decision: Measure orthostatic blood pressure for falls preceded by standing-related lightheadedness.",
+      "candidates": [
+        {
+          "code": "op26x-0324",
+          "score": 0.2054,
+          "sameObjective": false,
+          "lexical": 0.05263157894736842
+        },
+        {
+          "code": "op26x-0739",
+          "score": 0.1,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0314",
+          "score": 0.0989,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Postural contribution to falls",
+      "objective": "Measure orthostatic blood pressure for falls preceded by standing-related lightheadedness.",
+      "reference": [
+        {
+          "label": "NICE NG71: Parkinson disease in adults",
+          "url": "https://www.nice.org.uk/guidance/ng71/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0373",
+      "concept": "lbd-constipation-trigger-cognition",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Look for constipation and other physical triggers of acute behavioral deterioration. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Lewy body dementia supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: hepatic encephalopathy. Distinct decision: Look for constipation and other physical triggers of acute behavioral deterioration.",
+      "candidates": [
+        {
+          "code": "op26x-0362",
+          "score": 0.1588,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0312",
+          "score": 0.1459,
+          "sameObjective": false,
+          "lexical": 0.01694915254237288
+        },
+        {
+          "code": "op26x-0352",
+          "score": 0.1255,
+          "sameObjective": false,
+          "lexical": 0.05555555555555555
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Intercurrent illness in Lewy body dementia",
+      "objective": "Look for constipation and other physical triggers of acute behavioral deterioration.",
+      "reference": [
+        {
+          "label": "NINDS: Lewy body dementia",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/lewy-body-dementia"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0374",
+      "concept": "dementia-mixed-pathology-interpretation",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Allow mixed vascular and neurodegenerative contributions to cognitive decline. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Dementias supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: ischemic stroke localization. Distinct decision: Allow mixed vascular and neurodegenerative contributions to cognitive decline.",
+      "candidates": [
+        {
+          "code": "op26x-0364",
+          "score": 0.2229,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0323",
+          "score": 0.1659,
+          "sameObjective": false,
+          "lexical": 0.02040816326530612
+        },
+        {
+          "code": "op26x-0360",
+          "score": 0.1374,
+          "sameObjective": false,
+          "lexical": 0.04
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Mixed cognitive pathology",
+      "objective": "Allow mixed vascular and neurodegenerative contributions to cognitive decline.",
+      "reference": [
+        {
+          "label": "NINDS: Dementias",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/dementias"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0375",
+      "concept": "dementia-assessment-not-imaging-alone",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Recognize that normal structural imaging does not exclude a clinical dementia syndrome. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NINDS: Dementias supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: clinical neurological assessment. Distinct decision: Recognize that normal structural imaging does not exclude a clinical dementia syndrome.",
+      "candidates": [
+        {
+          "code": "op26x-0538",
+          "score": 0.1639,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0364",
+          "score": 0.1539,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0480",
+          "score": 0.1469,
+          "sameObjective": false,
+          "lexical": 0.023255813953488372
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Geriatrics",
+      "topic": "Limits of cognitive imaging",
+      "objective": "Recognize that normal structural imaging does not exclude a clinical dementia syndrome.",
+      "reference": [
+        {
+          "label": "NINDS: Dementias",
+          "url": "https://www.ninds.nih.gov/health-information/disorders/dementias"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0376",
+      "concept": "primary-hypothyroidism-lab-integration",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Distinguish overt primary hypothyroidism from central and subclinical patterns. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG145: Thyroid disease supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: thyroid hormone feedback. Distinct decision: Distinguish overt primary hypothyroidism from central and subclinical patterns.",
+      "candidates": [
+        {
+          "code": "op26-0022",
+          "score": 0.2959,
+          "sameObjective": false,
+          "lexical": 0.08888888888888889
+        },
+        {
+          "code": "op26x-0533",
+          "score": 0.1419,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0645",
+          "score": 0.1412,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Thyroid function interpretation",
+      "objective": "Distinguish overt primary hypothyroidism from central and subclinical patterns.",
+      "reference": [
+        {
+          "label": "NICE NG145: Thyroid disease",
+          "url": "https://www.nice.org.uk/guidance/ng145/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0377",
+      "concept": "central-hypothyroidism-tsht4",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Interpret normal TSH as potentially inappropriate when pituitary disease and low T4 coexist. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG145: Thyroid disease supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: thyroid hormone feedback. Distinct decision: Interpret normal TSH as potentially inappropriate when pituitary disease and low T4 coexist.",
+      "candidates": [
+        {
+          "code": "op26x-0376",
+          "score": 0.3171,
+          "sameObjective": false,
+          "lexical": 0.044444444444444446
+        },
+        {
+          "code": "op26-0022",
+          "score": 0.2887,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0018",
+          "score": 0.2307,
+          "sameObjective": false,
+          "lexical": 0.02040816326530612
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Central thyroid testing interpretation",
+      "objective": "Interpret normal TSH as potentially inappropriate when pituitary disease and low T4 coexist.",
+      "reference": [
+        {
+          "label": "NICE NG145: Thyroid disease",
+          "url": "https://www.nice.org.uk/guidance/ng145/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0378",
+      "concept": "subclinical-hypothyroidism-normal-ft4",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Classify persistently elevated TSH with normal free T4. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG145: Thyroid disease supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: thyroid feedback physiology. Distinct decision: Classify persistently elevated TSH with normal free T4.",
+      "candidates": [
+        {
+          "code": "op26x-0376",
+          "score": 0.353,
+          "sameObjective": false,
+          "lexical": 0.043478260869565216
+        },
+        {
+          "code": "op26x-0377",
+          "score": 0.3382,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        },
+        {
+          "code": "op26x-0018",
+          "score": 0.2693,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Subclinical thyroid biochemical definition",
+      "objective": "Classify persistently elevated TSH with normal free T4.",
+      "reference": [
+        {
+          "label": "NICE NG145: Thyroid disease",
+          "url": "https://www.nice.org.uk/guidance/ng145/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0379",
+      "concept": "thyroid-biotin-interference-history",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Investigate biotin interference when thyroid tests conflict with the clinical picture. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG145: Thyroid disease supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: laboratory measurement limitations. Distinct decision: Investigate biotin interference when thyroid tests conflict with the clinical picture.",
+      "candidates": [
+        {
+          "code": "op26-0022",
+          "score": 0.1264,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0697",
+          "score": 0.1234,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0018",
+          "score": 0.1138,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Thyroid assay interference",
+      "objective": "Investigate biotin interference when thyroid tests conflict with the clinical picture.",
+      "reference": [
+        {
+          "label": "NICE NG145: Thyroid disease",
+          "url": "https://www.nice.org.uk/guidance/ng145/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0380",
+      "concept": "acute-illness-thyroid-test-limit",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Account for acute nonthyroidal illness when interpreting incidental thyroid abnormalities. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG145: Thyroid disease supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: endocrine feedback. Distinct decision: Account for acute nonthyroidal illness when interpreting incidental thyroid abnormalities.",
+      "candidates": [
+        {
+          "code": "op26x-0379",
+          "score": 0.1805,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0018",
+          "score": 0.1355,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0022",
+          "score": 0.1295,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Thyroid tests during acute illness",
+      "objective": "Account for acute nonthyroidal illness when interpreting incidental thyroid abnormalities.",
+      "reference": [
+        {
+          "label": "NICE NG145: Thyroid disease",
+          "url": "https://www.nice.org.uk/guidance/ng145/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0381",
+      "concept": "thyroid-repeat-too-soon",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Avoid uninformative immediate thyroid retesting in a stable unchanged presentation. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG145: Thyroid disease supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: appropriate diagnostic testing. Distinct decision: Avoid uninformative immediate thyroid retesting in a stable unchanged presentation.",
+      "candidates": [
+        {
+          "code": "op26x-0380",
+          "score": 0.1553,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0436",
+          "score": 0.1275,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0018",
+          "score": 0.1178,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Timing of repeat thyroid assessment",
+      "objective": "Avoid uninformative immediate thyroid retesting in a stable unchanged presentation.",
+      "reference": [
+        {
+          "label": "NICE NG145: Thyroid disease",
+          "url": "https://www.nice.org.uk/guidance/ng145/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0382",
+      "concept": "thyrotoxicosis-suppressed-tsh",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Recognize overt thyrotoxicosis without inferring its cause from TSH alone. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG145: Thyroid disease supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: thyroid hormone physiology. Distinct decision: Recognize overt thyrotoxicosis without inferring its cause from TSH alone.",
+      "candidates": [
+        {
+          "code": "op26x-0376",
+          "score": 0.309,
+          "sameObjective": false,
+          "lexical": 0.06976744186046512
+        },
+        {
+          "code": "op26-0069",
+          "score": 0.2403,
+          "sameObjective": false,
+          "lexical": 0.022727272727272728
+        },
+        {
+          "code": "op26-0022",
+          "score": 0.2176,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Thyrotoxicosis laboratory pattern",
+      "objective": "Recognize overt thyrotoxicosis without inferring its cause from TSH alone.",
+      "reference": [
+        {
+          "label": "NICE NG145: Thyroid disease",
+          "url": "https://www.nice.org.uk/guidance/ng145/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0383",
+      "concept": "thyrotoxicosis-trab-cause",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Use TSH receptor antibodies to support Graves disease in confirmed thyrotoxicosis. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG145: Thyroid disease supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: thyroid feedback physiology. Distinct decision: Use TSH receptor antibodies to support Graves disease in confirmed thyrotoxicosis.",
+      "candidates": [
+        {
+          "code": "op26x-0479",
+          "score": 0.2703,
+          "sameObjective": false,
+          "lexical": 0.044444444444444446
+        },
+        {
+          "code": "op26-0069",
+          "score": 0.2664,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0382",
+          "score": 0.2431,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Distinguishing Graves from other thyrotoxicosis",
+      "objective": "Use TSH receptor antibodies to support Graves disease in confirmed thyrotoxicosis.",
+      "reference": [
+        {
+          "label": "NICE NG145: Thyroid disease",
+          "url": "https://www.nice.org.uk/guidance/ng145/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0384",
+      "concept": "aki-creatinine-change-baseline",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Detect AKI from a meaningful creatinine rise despite a reference-range final result. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG148: Acute kidney injury supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: prerenal azotemia. Distinct decision: Detect AKI from a meaningful creatinine rise despite a reference-range final result.",
+      "candidates": [
+        {
+          "code": "op26x-0780",
+          "score": 0.1677,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0167",
+          "score": 0.1674,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0377",
+          "score": 0.1476,
+          "sameObjective": false,
+          "lexical": 0.061224489795918366
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "AKI detection from a creatinine trend",
+      "objective": "Detect AKI from a meaningful creatinine rise despite a reference-range final result.",
+      "reference": [
+        {
+          "label": "NICE NG148: Acute kidney injury",
+          "url": "https://www.nice.org.uk/guidance/ng148/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0385",
+      "concept": "aki-oliguria-early-warning",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Treat sustained oliguria as an AKI warning even before creatinine rises. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG148: Acute kidney injury supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: renal filtration physiology. Distinct decision: Treat sustained oliguria as an AKI warning even before creatinine rises.",
+      "candidates": [
+        {
+          "code": "op26x-0370",
+          "score": 0.2407,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0063",
+          "score": 0.1715,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0371",
+          "score": 0.1685,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Urine output as an AKI marker",
+      "objective": "Treat sustained oliguria as an AKI warning even before creatinine rises.",
+      "reference": [
+        {
+          "label": "NICE NG148: Acute kidney injury",
+          "url": "https://www.nice.org.uk/guidance/ng148/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0386",
+      "concept": "aki-ultrasound-obstruction-risk",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Investigate obstruction in unexplained AKI with pelvic malignancy. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG148: Acute kidney injury supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: postrenal kidney injury. Distinct decision: Investigate obstruction in unexplained AKI with pelvic malignancy.",
+      "candidates": [
+        {
+          "code": "op26x-0428",
+          "score": 0.2228,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0177",
+          "score": 0.2161,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0434",
+          "score": 0.1628,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Imaging unexplained acute kidney injury",
+      "objective": "Investigate obstruction in unexplained AKI with pelvic malignancy.",
+      "reference": [
+        {
+          "label": "NICE NG148: Acute kidney injury",
+          "url": "https://www.nice.org.uk/guidance/ng148/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0387",
+      "concept": "aki-pyonephrosis-urgent",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Escalate suspected infected urinary obstruction for urgent source control. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG148: Acute kidney injury supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: postrenal kidney injury. Distinct decision: Escalate suspected infected urinary obstruction for urgent source control.",
+      "candidates": [
+        {
+          "code": "op26-0177",
+          "score": 0.1446,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0720",
+          "score": 0.1359,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0670",
+          "score": 0.1322,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Infected obstructed urinary system",
+      "objective": "Escalate suspected infected urinary obstruction for urgent source control.",
+      "reference": [
+        {
+          "label": "NICE NG148: Acute kidney injury",
+          "url": "https://www.nice.org.uk/guidance/ng148/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0388",
+      "concept": "aki-refractory-pulmonary-edema-rtt",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Use refractory fluid-overload complications rather than creatinine alone to trigger dialysis assessment. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG148: Acute kidney injury supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: renal fluid balance. Distinct decision: Use refractory fluid-overload complications rather than creatinine alone to trigger dialysis assessment.",
+      "candidates": [
+        {
+          "code": "op26x-0470",
+          "score": 0.1708,
+          "sameObjective": false,
+          "lexical": 0.027777777777777776
+        },
+        {
+          "code": "op26x-0420",
+          "score": 0.1698,
+          "sameObjective": false,
+          "lexical": 0.023809523809523808
+        },
+        {
+          "code": "op26x-0385",
+          "score": 0.1477,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Urgent renal replacement consideration",
+      "objective": "Use refractory fluid-overload complications rather than creatinine alone to trigger dialysis assessment.",
+      "reference": [
+        {
+          "label": "NICE NG148: Acute kidney injury",
+          "url": "https://www.nice.org.uk/guidance/ng148/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0389",
+      "concept": "aki-hematuria-proteinuria-nephritis",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Recognize blood and protein in AKI as a clue to intrinsic renal disease. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG148: Acute kidney injury supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: pulmonary-renal syndrome mechanism. Distinct decision: Recognize blood and protein in AKI as a clue to intrinsic renal disease.",
+      "candidates": [
+        {
+          "code": "op26x-0370",
+          "score": 0.211,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0386",
+          "score": 0.1497,
+          "sameObjective": false,
+          "lexical": 0.02040816326530612
+        },
+        {
+          "code": "op26x-0500",
+          "score": 0.1417,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Nephritic clues during AKI",
+      "objective": "Recognize blood and protein in AKI as a clue to intrinsic renal disease.",
+      "reference": [
+        {
+          "label": "NICE NG148: Acute kidney injury",
+          "url": "https://www.nice.org.uk/guidance/ng148/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0390",
+      "concept": "aki-diuretics-no-routine-cure",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Distinguish treatment of fluid overload from routine diuretic use for AKI. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG148: Acute kidney injury supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: renal diuretic physiology. Distinct decision: Distinguish treatment of fluid overload from routine diuretic use for AKI.",
+      "candidates": [
+        {
+          "code": "op26x-0370",
+          "score": 0.2241,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0388",
+          "score": 0.2113,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        },
+        {
+          "code": "op26x-0411",
+          "score": 0.1854,
+          "sameObjective": false,
+          "lexical": 0.08163265306122448
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Loop diuretics and AKI indication",
+      "objective": "Distinguish treatment of fluid overload from routine diuretic use for AKI.",
+      "reference": [
+        {
+          "label": "NICE NG148: Acute kidney injury",
+          "url": "https://www.nice.org.uk/guidance/ng148/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0391",
+      "concept": "aki-postepisode-followup",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Plan renal and medication follow-up after incompletely recovered AKI. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG148: Acute kidney injury supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: renal filtration physiology. Distinct decision: Plan renal and medication follow-up after incompletely recovered AKI.",
+      "candidates": [
+        {
+          "code": "op26x-0370",
+          "score": 0.2283,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0388",
+          "score": 0.1775,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        },
+        {
+          "code": "op26x-0389",
+          "score": 0.1553,
+          "sameObjective": false,
+          "lexical": 0.02
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Kidney monitoring after AKI",
+      "objective": "Plan renal and medication follow-up after incompletely recovered AKI.",
+      "reference": [
+        {
+          "label": "NICE NG148: Acute kidney injury",
+          "url": "https://www.nice.org.uk/guidance/ng148/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0392",
+      "concept": "pe-probability-select-test",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Use clinical probability to select an imaging pathway for likely pulmonary embolism. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG158: Venous thromboembolic diseases supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: pulmonary embolism gas exchange. Distinct decision: Use clinical probability to select an imaging pathway for likely pulmonary embolism.",
+      "candidates": [
+        {
+          "code": "op26x-0375",
+          "score": 0.1263,
+          "sameObjective": false,
+          "lexical": 0.023255813953488372
+        },
+        {
+          "code": "op26x-0488",
+          "score": 0.1185,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0158",
+          "score": 0.1142,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Suspected PE diagnostic pathway",
+      "objective": "Use clinical probability to select an imaging pathway for likely pulmonary embolism.",
+      "reference": [
+        {
+          "label": "NICE NG158: Venous thromboembolic diseases",
+          "url": "https://www.nice.org.uk/guidance/ng158/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0393",
+      "concept": "dvt-unlikely-negative-ddimer",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Interpret a negative D-dimer within an unlikely-DVT diagnostic pathway. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG158: Venous thromboembolic diseases supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: thrombus formation. Distinct decision: Interpret a negative D-dimer within an unlikely-DVT diagnostic pathway.",
+      "candidates": [
+        {
+          "code": "op26x-0392",
+          "score": 0.1885,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0488",
+          "score": 0.1162,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0704",
+          "score": 0.1116,
+          "sameObjective": false,
+          "lexical": 0.01694915254237288
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "D-dimer exclusion in low probability DVT",
+      "objective": "Interpret a negative D-dimer within an unlikely-DVT diagnostic pathway.",
+      "reference": [
+        {
+          "label": "NICE NG158: Venous thromboembolic diseases",
+          "url": "https://www.nice.org.uk/guidance/ng158/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0394",
+      "concept": "positive-ddimer-not-confirmation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Distinguish D-dimer positivity from objective confirmation of thrombosis. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG158: Venous thromboembolic diseases supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: coagulation physiology. Distinct decision: Distinguish D-dimer positivity from objective confirmation of thrombosis.",
+      "candidates": [
+        {
+          "code": "op26-0170",
+          "score": 0.181,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0393",
+          "score": 0.1389,
+          "sameObjective": false,
+          "lexical": 0.0392156862745098
+        },
+        {
+          "code": "op26x-0506",
+          "score": 0.1162,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "D-dimer diagnostic specificity",
+      "objective": "Distinguish D-dimer positivity from objective confirmation of thrombosis.",
+      "reference": [
+        {
+          "label": "NICE NG158: Venous thromboembolic diseases",
+          "url": "https://www.nice.org.uk/guidance/ng158/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0395",
+      "concept": "dvt-negative-scan-positive-ddimer",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Recognize the need for repeat proximal ultrasound in a negative-scan positive-D-dimer pathway. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG158: Venous thromboembolic diseases supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: venous thrombosis. Distinct decision: Recognize the need for repeat proximal ultrasound in a negative-scan positive-D-dimer pathway.",
+      "candidates": [
+        {
+          "code": "op26x-0393",
+          "score": 0.357,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0736",
+          "score": 0.1404,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0394",
+          "score": 0.1283,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Repeat ultrasound after discordant DVT tests",
+      "objective": "Recognize the need for repeat proximal ultrasound in a negative-scan positive-D-dimer pathway.",
+      "reference": [
+        {
+          "label": "NICE NG158: Venous thromboembolic diseases",
+          "url": "https://www.nice.org.uk/guidance/ng158/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0396",
+      "concept": "provoked-vte-duration-review",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "prioritization: Reassess anticoagulation duration after uncomplicated surgically provoked DVT. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG158: Venous thromboembolic diseases supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: coagulation physiology. Distinct decision: Reassess anticoagulation duration after uncomplicated surgically provoked DVT.",
+      "candidates": [
+        {
+          "code": "op26x-0443",
+          "score": 0.153,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0444",
+          "score": 0.141,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0395",
+          "score": 0.139,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Anticoagulation review after provoked VTE",
+      "objective": "Reassess anticoagulation duration after uncomplicated surgically provoked DVT.",
+      "reference": [
+        {
+          "label": "NICE NG158: Venous thromboembolic diseases",
+          "url": "https://www.nice.org.uk/guidance/ng158/chapter/Recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0397",
+      "concept": "hf-preserved-ejection-fraction",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Recognize that preserved ejection fraction does not exclude heart failure. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG106: Chronic heart failure in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cardiac output physiology. Distinct decision: Recognize that preserved ejection fraction does not exclude heart failure.",
+      "candidates": [
+        {
+          "code": "op26x-0375",
+          "score": 0.1794,
+          "sameObjective": false,
+          "lexical": 0.10256410256410256
+        },
+        {
+          "code": "op26x-0480",
+          "score": 0.1622,
+          "sameObjective": false,
+          "lexical": 0.022727272727272728
+        },
+        {
+          "code": "op26-0155",
+          "score": 0.1391,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Heart failure despite preserved EF",
+      "objective": "Recognize that preserved ejection fraction does not exclude heart failure.",
+      "reference": [
+        {
+          "label": "NICE NG106: Chronic heart failure in adults",
+          "url": "https://www.nice.org.uk/guidance/ng106/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0398",
+      "concept": "hf-natriuretic-peptide-confounders",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Interpret elevated NT-proBNP with renal and clinical context. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG106: Chronic heart failure in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cardiac stretch signaling. Distinct decision: Interpret elevated NT-proBNP with renal and clinical context.",
+      "candidates": [
+        {
+          "code": "op26x-0397",
+          "score": 0.1762,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0370",
+          "score": 0.12,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0165",
+          "score": 0.1122,
+          "sameObjective": false,
+          "lexical": 0.022222222222222223
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Natriuretic peptide interpretation",
+      "objective": "Interpret elevated NT-proBNP with renal and clinical context.",
+      "reference": [
+        {
+          "label": "NICE NG106: Chronic heart failure in adults",
+          "url": "https://www.nice.org.uk/guidance/ng106/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0399",
+      "concept": "hf-echo-structural-characterization",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "application: Choose echocardiography to characterize suspected heart failure. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG106: Chronic heart failure in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cardiac imaging anatomy. Distinct decision: Choose echocardiography to characterize suspected heart failure.",
+      "candidates": [
+        {
+          "code": "op26x-0397",
+          "score": 0.2233,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0507",
+          "score": 0.1686,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0398",
+          "score": 0.1632,
+          "sameObjective": false,
+          "lexical": 0.02564102564102564
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Echocardiography in suspected heart failure",
+      "objective": "Choose echocardiography to characterize suspected heart failure.",
+      "reference": [
+        {
+          "label": "NICE NG106: Chronic heart failure in adults",
+          "url": "https://www.nice.org.uk/guidance/ng106/chapter/recommendations"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0400",
+      "concept": "hf-selfmonitor-congestion-review",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "integration: Recognize rapid weight gain with edema and dyspnea as worsening heart failure. The stated findings and alternatives define this demand.",
+      "evidenceNote": "Publisher identity and relevant guidance/resource checked during authoring. NICE NG106: Chronic heart failure in adults supports the clinical domain; this item is original prose and is not expert validated.",
+      "semanticReviewNote": "Closest baseline concept: cardiac output physiology. Distinct decision: Recognize rapid weight gain with edema and dyspnea as worsening heart failure.",
+      "candidates": [
+        {
+          "code": "op26x-0397",
+          "score": 0.2397,
+          "sameObjective": false,
+          "lexical": 0.023255813953488372
+        },
+        {
+          "code": "op26x-0399",
+          "score": 0.1873,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0398",
+          "score": 0.1461,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Medicine",
+      "topic": "Heart failure deterioration signs",
+      "objective": "Recognize rapid weight gain with edema and dyspnea as worsening heart failure.",
+      "reference": [
+        {
+          "label": "NICE NG106: Chronic heart failure in adults",
+          "url": "https://www.nice.org.uk/guidance/ng106/chapter/recommendations"
+        }
+      ]
+    }
+  ]
+}

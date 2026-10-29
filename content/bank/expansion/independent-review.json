@@ -1,0 +1,14 @@
+{
+  "reviewType": "Independent AI content review; not qualified medical review",
+  "scope": "Batch16 answer calculations, explicit ambiguity, selected mechanism and difficulty checks",
+  "findings": {
+    "op26x-0757": "Infusion starting condition unspecified: from old steady state the time to 90% of the new plateau differs from zero-start. Hold this immutable version.",
+    "op26x-0730": "Causal collider integration does not establish level5 demand.",
+    "op26x-0750": "Two absolute-risk calculations do not establish level5 demand.",
+    "op26x-0781": "Explicit receptor upregulation cue reduces required inference.",
+    "op26x-0785": "Inactivation-to-toxicity inference likely overrated at level4.",
+    "op26x-0800": "Target is named in the drug class; integration rating is overstated."
+  },
+  "recomputedKeys": {"0701":0.9,"0702":4.5,"0703":0.05,"0704":0.5,"0710":0.8,"0711":"half the standard error","0721":"15 events per1000 person-years","0746":2,"0751":0.4,"0753":"6L/hour"},
+  "referenceLimitations": "NBK595000 is a whole book, not the exact pharmacokinetics chapter. Bibliographic and selected mechanism checks do not establish full item accuracy. Management references and US applicability remain review tasks."
+}

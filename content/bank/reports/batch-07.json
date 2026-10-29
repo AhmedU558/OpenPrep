@@ -1,0 +1,173 @@
+{
+  "batch": 7,
+  "at": "2026-10-29T13:09:04.325Z",
+  "digest": "9a6f77826f130628c73aefd7a168b6b48c12b5f515299f15fd085218a2e96df1",
+  "before": 232,
+  "after": 232,
+  "imported": 0,
+  "skipped": 25,
+  "rejected": 0,
+  "quarantined": 0,
+  "errors": [],
+  "coverage": [
+    {
+      "code": "op26-0151",
+      "subject": "Medicine",
+      "topic": "Acute coronary syndrome",
+      "objective": "Localize inferior myocardial injury from contiguous inferior-lead ST elevation."
+    },
+    {
+      "code": "op26-0152",
+      "subject": "Medicine",
+      "topic": "Aortic stenosis",
+      "objective": "Recognize the combined murmur and pulse findings of aortic stenosis."
+    },
+    {
+      "code": "op26-0153",
+      "subject": "Medicine",
+      "topic": "Mitral regurgitation",
+      "objective": "Identify mitral regurgitation from timing, location, radiation and handgrip response."
+    },
+    {
+      "code": "op26-0154",
+      "subject": "Medicine",
+      "topic": "Acute pericarditis",
+      "objective": "Integrate positional pain, friction rub and diffuse ECG changes in pericarditis."
+    },
+    {
+      "code": "op26-0155",
+      "subject": "Medicine",
+      "topic": "Tamponade physiology",
+      "objective": "Explain pulsus paradoxus through constrained filling and ventricular interaction."
+    },
+    {
+      "code": "op26-0156",
+      "subject": "Medicine",
+      "topic": "Pneumothorax examination",
+      "objective": "Differentiate pleural air from pleural fluid using percussion and breath sounds."
+    },
+    {
+      "code": "op26-0157",
+      "subject": "Medicine",
+      "topic": "Pleural effusion",
+      "objective": "Recognize pleural effusion from dullness with reduced tactile fremitus."
+    },
+    {
+      "code": "op26-0158",
+      "subject": "Medicine",
+      "topic": "Pulmonary embolism gas exchange",
+      "objective": "Interpret hypoxemia with hypocapnia as compatible with V/Q mismatch, not pure hypoventilation."
+    },
+    {
+      "code": "op26-0159",
+      "subject": "Medicine",
+      "topic": "COPD spirometry",
+      "objective": "Interpret a low expiratory ratio with increased residual volume as obstructive physiology."
+    },
+    {
+      "code": "op26-0160",
+      "subject": "Medicine",
+      "topic": "Prerenal azotemia",
+      "objective": "Interpret low fractional sodium excretion in a volume-depleted patient with intact tubular response."
+    },
+    {
+      "code": "op26-0161",
+      "subject": "Medicine",
+      "topic": "SIADH pattern",
+      "objective": "Recognize impaired free-water excretion in a compatible SIADH pattern."
+    },
+    {
+      "code": "op26-0162",
+      "subject": "Medicine",
+      "topic": "Central diabetes insipidus",
+      "objective": "Use desmopressin responsiveness to localize impaired antidiuretic signaling."
+    },
+    {
+      "code": "op26-0163",
+      "subject": "Medicine",
+      "topic": "Diabetic ketoacidosis",
+      "objective": "Distinguish serum potassium from total-body stores in diabetic ketoacidosis."
+    },
+    {
+      "code": "op26-0164",
+      "subject": "Medicine",
+      "topic": "Primary hyperaldosteronism",
+      "objective": "Distinguish autonomous aldosterone excess by suppressed renin and potassium wasting."
+    },
+    {
+      "code": "op26-0165",
+      "subject": "Medicine",
+      "topic": "Upper gastrointestinal bleeding",
+      "objective": "Interpret melena with hematemesis while recognizing limits of stool appearance."
+    },
+    {
+      "code": "op26-0166",
+      "subject": "Medicine",
+      "topic": "Obstructive jaundice",
+      "objective": "Explain bilirubinuria through conjugated, rather than unconjugated, bilirubin."
+    },
+    {
+      "code": "op26-0167",
+      "subject": "Medicine",
+      "topic": "Acute pancreatitis",
+      "objective": "Apply the two-of-three diagnostic framework without equating enzyme magnitude with severity."
+    },
+    {
+      "code": "op26-0168",
+      "subject": "Medicine",
+      "topic": "Hepatic encephalopathy",
+      "objective": "Understand hepatic encephalopathy while avoiding ammonia-only diagnosis."
+    },
+    {
+      "code": "op26-0169",
+      "subject": "Medicine",
+      "topic": "Monoclonal plasma-cell disease",
+      "objective": "Recognize monoclonal plasma-cell disease with attributable end-organ injury."
+    },
+    {
+      "code": "op26-0170",
+      "subject": "Medicine",
+      "topic": "Disseminated intravascular coagulation",
+      "objective": "Explain simultaneous microthrombosis and consumptive bleeding in DIC."
+    },
+    {
+      "code": "op26-0171",
+      "subject": "Medicine",
+      "topic": "Ischemic stroke localization",
+      "objective": "Localize face-arm weakness with aphasia to the dominant MCA territory."
+    },
+    {
+      "code": "op26-0172",
+      "subject": "Medicine",
+      "topic": "Myasthenic weakness",
+      "objective": "Localize fatigable weakness with receptor antibodies to the postsynaptic junction."
+    },
+    {
+      "code": "op26-0173",
+      "subject": "Medicine",
+      "topic": "Septic shock hemodynamics",
+      "objective": "Identify reduced vascular resistance as the distributive component of septic shock."
+    },
+    {
+      "code": "op26-0174",
+      "subject": "Medicine",
+      "topic": "Pulmonary-renal syndrome",
+      "objective": "Connect a pulmonary-renal syndrome and linear IgG to anti-GBM injury."
+    },
+    {
+      "code": "op26-0175",
+      "subject": "Medicine",
+      "topic": "Septic arthritis reasoning",
+      "objective": "Avoid excluding septic arthritis solely because crystals or normal early radiographs are present."
+    }
+  ],
+  "persisted": 25,
+  "practiceAvailable": 25,
+  "firstImport": {
+    "at": "2026-10-29T12:52:36.286Z",
+    "before": 182,
+    "after": 207,
+    "imported": 25,
+    "digest": "9a6f77826f130628c73aefd7a168b6b48c12b5f515299f15fd085218a2e96df1"
+  }
+}

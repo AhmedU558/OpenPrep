@@ -1,0 +1,1152 @@
+[
+  {
+    "code": "op26-0076",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "First-order elimination",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A drug follows first-order elimination and has a four-hour half-life. After a single dose has completed distribution, its plasma concentration is 80 mg/L. Without another dose, what concentration is expected 12 hours later?",
+    "options": [
+      {
+        "text": "10 mg/L",
+        "explanation": "Three half-lives reduce the concentration to one eighth of the starting value.",
+        "correct": true
+      },
+      {
+        "text": "20 mg/L",
+        "explanation": "This is the value after two half-lives, or eight hours.",
+        "correct": false
+      },
+      {
+        "text": "40 mg/L",
+        "explanation": "This corresponds to only one four-hour half-life.",
+        "correct": false
+      },
+      {
+        "text": "0 mg/L",
+        "explanation": "First-order elimination approaches zero without a fixed complete-clearance time.",
+        "correct": false
+      }
+    ],
+    "explanation": "First-order kinetics remove a constant fraction of drug per unit time. Twelve hours equals three four-hour half-lives, giving 80 × (1/2)^3 = 10 mg/L. This calculation assumes unchanged clearance and distribution and does not apply unchanged to saturable, zero-order elimination.",
+    "objective": "Apply repeated half-lives to first-order drug elimination.",
+    "keyPoints": [
+      "Apply repeated half-lives to first-order drug elimination."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0077",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Loading dose",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A clinician wants a target plasma concentration of 10 mg/L for an intravenous drug with a volume of distribution of 40 L. Assuming complete bioavailability and ignoring distribution delay, which loading dose is appropriate?",
+    "options": [
+      {
+        "text": "4 mg",
+        "explanation": "This divides rather than multiplies the concentration by distribution volume.",
+        "correct": false
+      },
+      {
+        "text": "40 mg",
+        "explanation": "This omits the concentration factor of 10 mg/L.",
+        "correct": false
+      },
+      {
+        "text": "4000 mg",
+        "explanation": "This introduces a tenfold excess beyond the calculated requirement.",
+        "correct": false
+      },
+      {
+        "text": "400 mg",
+        "explanation": "Loading dose equals target concentration times volume of distribution.",
+        "correct": true
+      }
+    ],
+    "explanation": "For intravenous administration, bioavailability is one, so loading dose = target concentration × volume of distribution. The required amount is 10 mg/L × 40 L = 400 mg. Clearance primarily determines maintenance dosing; it is not needed for this initial distribution-based calculation.",
+    "objective": "Separate loading-dose calculation from clearance-based maintenance dosing.",
+    "keyPoints": [
+      "Separate loading-dose calculation from clearance-based maintenance dosing."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0078",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Renal clearance and maintenance",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with stable chronic kidney disease begins a drug eliminated predominantly unchanged by the kidneys. Its volume of distribution is unchanged but clearance is reduced by half. To maintain the same average steady-state concentration, what should happen to the dosing rate?",
+    "options": [
+      {
+        "text": "Keep dosing rate fixed because volume is unchanged",
+        "explanation": "Volume determines loading dose but does not remove the need to adjust maintenance.",
+        "correct": false
+      },
+      {
+        "text": "Double the loading dose solely because clearance fell",
+        "explanation": "An unchanged volume does not justify that loading-dose increase.",
+        "correct": false
+      },
+      {
+        "text": "Reduce the maintenance dosing rate by half",
+        "explanation": "Steady-state average concentration equals dosing rate divided by clearance.",
+        "correct": true
+      },
+      {
+        "text": "Double the maintenance dosing rate",
+        "explanation": "This would increase accumulation when clearance is already reduced.",
+        "correct": false
+      }
+    ],
+    "explanation": "At steady state, drug input must match elimination. Halving clearance therefore requires halving the average maintenance dosing rate to preserve concentration. Dose size or interval may be adjusted according to the drug, while loading dose remains based mainly on target concentration and distribution volume.",
+    "objective": "Adjust maintenance dosing rate in proportion to clearance.",
+    "keyPoints": [
+      "Adjust maintenance dosing rate in proportion to clearance."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0079",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "ACE inhibitor cough",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient develops persistent dry cough after starting lisinopril. Chest examination and radiograph are unremarkable. Accumulation of which mediator most directly explains this adverse effect?",
+    "options": [
+      {
+        "text": "Acetylcholine from irreversible cholinesterase inhibition",
+        "explanation": "Lisinopril is not an irreversible cholinesterase inhibitor.",
+        "correct": false
+      },
+      {
+        "text": "Bradykinin",
+        "explanation": "ACE normally participates in its degradation, so inhibition can increase its effects.",
+        "correct": true
+      },
+      {
+        "text": "Angiotensin II",
+        "explanation": "ACE inhibition decreases formation of this vasoconstrictor.",
+        "correct": false
+      },
+      {
+        "text": "Aldosterone",
+        "explanation": "ACE inhibition usually reduces aldosterone signaling rather than causing accumulation.",
+        "correct": false
+      }
+    ],
+    "explanation": "ACE converts angiotensin I to angiotensin II and also degrades bradykinin. Its inhibition can increase bradykinin-mediated airway effects, producing dry cough and occasionally angioedema. An angiotensin receptor blocker acts downstream and generally causes less cough because it does not directly inhibit bradykinin breakdown.",
+    "objective": "Explain ACE inhibitor cough through impaired bradykinin degradation.",
+    "keyPoints": [
+      "Explain ACE inhibitor cough through impaired bradykinin degradation."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0080",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Loop diuretics",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with pulmonary congestion receives furosemide and develops increased urinary calcium excretion. Inhibition of which transporter initiates the characteristic tubular effects?",
+    "options": [
+      {
+        "text": "Na-K-2Cl cotransporter in the thick ascending limb",
+        "explanation": "Blocking NKCC2 reduces salt transport and the lumen-positive potential supporting calcium uptake.",
+        "correct": true
+      },
+      {
+        "text": "Na-Cl cotransporter in the distal convoluted tubule",
+        "explanation": "Thiazide blockade here generally reduces urinary calcium.",
+        "correct": false
+      },
+      {
+        "text": "Epithelial sodium channel in the collecting duct",
+        "explanation": "Amiloride acts here without the characteristic loop calcium effect.",
+        "correct": false
+      },
+      {
+        "text": "Sodium-glucose cotransporter in the proximal tubule",
+        "explanation": "SGLT blockade increases glucosuria and is not furosemide action.",
+        "correct": false
+      }
+    ],
+    "explanation": "Loop diuretics block NKCC2 in the thick ascending limb. Reduced potassium recycling and transport decrease the lumen-positive voltage that normally promotes paracellular calcium and magnesium reabsorption. Increased distal sodium delivery also contributes to potassium loss, explaining the need to monitor electrolytes during treatment.",
+    "objective": "Identify NKCC2 blockade and its effect on calcium handling.",
+    "keyPoints": [
+      "Identify NKCC2 blockade and its effect on calcium handling."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0081",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Thiazide adverse effects",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient treated for hypertension develops mild hypokalemia and an elevated serum uric acid concentration after beginning hydrochlorothiazide. Which additional renal effect is characteristic of this drug class?",
+    "options": [
+      {
+        "text": "Marked inhibition of thick ascending limb NKCC2",
+        "explanation": "That is the principal site of loop diuretic action.",
+        "correct": false
+      },
+      {
+        "text": "Direct blockade of aldosterone receptors",
+        "explanation": "Spironolactone and eplerenone act through that mechanism.",
+        "correct": false
+      },
+      {
+        "text": "Predictable severe potassium retention in every patient",
+        "explanation": "Thiazides more commonly promote potassium loss.",
+        "correct": false
+      },
+      {
+        "text": "Reduced urinary calcium excretion",
+        "explanation": "Thiazides promote calcium retention, unlike loop diuretics.",
+        "correct": true
+      }
+    ],
+    "explanation": "Thiazides inhibit distal convoluted tubular sodium-chloride transport and reduce urinary calcium excretion. Increased distal sodium delivery can promote potassium loss, while altered urate handling may precipitate gout. These effects distinguish the class from potassium-sparing agents and from loops that increase calcium excretion.",
+    "objective": "Recognize thiazide-associated calcium conservation, hypokalemia and hyperuricemia.",
+    "keyPoints": [
+      "Recognize thiazide-associated calcium conservation, hypokalemia and hyperuricemia."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0082",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "Beta-blockade in asthma",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with reactive airway disease develops wheezing shortly after receiving a nonselective beta blocker. Blockade of which receptor best explains the bronchoconstriction?",
+    "options": [
+      {
+        "text": "Muscarinic M3 receptors",
+        "explanation": "Blocking M3 generally reduces cholinergic bronchoconstriction.",
+        "correct": false
+      },
+      {
+        "text": "Histamine H1 receptors",
+        "explanation": "Antagonism does not produce the characteristic beta-blocker airway mechanism.",
+        "correct": false
+      },
+      {
+        "text": "Beta-2 adrenergic receptors",
+        "explanation": "Blocking bronchodilator signaling can narrow susceptible airways.",
+        "correct": true
+      },
+      {
+        "text": "Alpha-1 adrenergic receptors",
+        "explanation": "Their blockade primarily reduces vascular tone rather than this airway effect.",
+        "correct": false
+      }
+    ],
+    "explanation": "Beta-2 receptor activation relaxes bronchial smooth muscle. A nonselective beta blocker can remove this bronchodilator influence and provoke bronchospasm, especially in reactive airways. Beta-1 selectivity is relative and dose dependent, so it does not mean that all airway risk is absent.",
+    "objective": "Relate nonselective beta blockade to loss of beta-2 bronchodilation.",
+    "keyPoints": [
+      "Relate nonselective beta blockade to loss of beta-2 bronchodilation."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0083",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "Nitrates and tolerance",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient uses a nitrate patch continuously for several days and notices reduced antianginal benefit. Which dosing principle is commonly used to limit tolerance while preserving a planned treatment schedule?",
+    "options": [
+      {
+        "text": "Abrupt elimination of all antianginal therapy during severe symptoms",
+        "explanation": "Symptom deterioration requires clinical reassessment rather than unplanned withdrawal.",
+        "correct": false
+      },
+      {
+        "text": "A daily nitrate-free interval when clinically appropriate",
+        "explanation": "Intermittent exposure can reduce tolerance from sustained nitrate delivery.",
+        "correct": true
+      },
+      {
+        "text": "Continuous escalation without reassessment",
+        "explanation": "Escalation alone does not reliably address tolerance and may cause hypotension.",
+        "correct": false
+      },
+      {
+        "text": "Addition of a phosphodiesterase-5 inhibitor",
+        "explanation": "This combination can cause dangerous hypotension.",
+        "correct": false
+      }
+    ],
+    "explanation": "Sustained nitrate exposure can lead to tolerance, so prescribed regimens often include a nitrate-free interval tailored to symptom timing. Nitrates increase cyclic GMP-mediated smooth muscle relaxation, primarily lowering preload through venodilation. Concurrent PDE-5 inhibitors amplify this pathway and create a major hypotension risk.",
+    "objective": "Recognize nitrate tolerance and the rationale for a planned nitrate-free interval.",
+    "keyPoints": [
+      "Recognize nitrate tolerance and the rationale for a planned nitrate-free interval."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0084",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "Heparin mechanism",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A hospitalized patient receives unfractionated heparin for acute thrombosis. Which plasma protein interaction most directly produces its anticoagulant effect?",
+    "options": [
+      {
+        "text": "Potentiation of antithrombin",
+        "explanation": "Heparin accelerates inhibition of thrombin and factor Xa through antithrombin.",
+        "correct": true
+      },
+      {
+        "text": "Inhibition of vitamin K epoxide reductase",
+        "explanation": "This is the mechanism of warfarin rather than heparin.",
+        "correct": false
+      },
+      {
+        "text": "Irreversible acetylation of platelet cyclooxygenase",
+        "explanation": "This describes aspirin antiplatelet action.",
+        "correct": false
+      },
+      {
+        "text": "Direct conversion of plasminogen to plasmin",
+        "explanation": "This is the action of fibrinolytic agents, not heparin.",
+        "correct": false
+      }
+    ],
+    "explanation": "Unfractionated heparin binds antithrombin and accelerates inhibition of activated coagulation factors, notably thrombin and Xa. It prevents extension of thrombosis rather than directly dissolving an established clot. Its mechanism differs from vitamin K antagonism, platelet inhibition, and fibrinolysis, which act at separate steps.",
+    "objective": "Distinguish antithrombin potentiation from other antithrombotic mechanisms.",
+    "keyPoints": [
+      "Distinguish antithrombin potentiation from other antithrombotic mechanisms."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0085",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "Warfarin initiation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient starting warfarin for an appropriate indication is also given a short course of parenteral anticoagulation. Which early biochemical change helps explain the transient prothrombotic risk of warfarin alone?",
+    "options": [
+      {
+        "text": "Thrombin is directly activated by warfarin binding",
+        "explanation": "Warfarin does not directly activate the thrombin enzyme.",
+        "correct": false
+      },
+      {
+        "text": "All existing coagulation factors disappear instantly",
+        "explanation": "Warfarin impairs synthesis of functional new proteins; existing factors persist.",
+        "correct": false
+      },
+      {
+        "text": "Platelet cyclooxygenase is irreversibly inhibited",
+        "explanation": "This describes aspirin and would not explain the early protein imbalance.",
+        "correct": false
+      },
+      {
+        "text": "Protein C activity falls before several procoagulant factors",
+        "explanation": "Its shorter half-life can transiently reduce natural anticoagulation first.",
+        "correct": true
+      }
+    ],
+    "explanation": "Warfarin reduces vitamin K-dependent activation of factors II, VII, IX, X and proteins C and S. Because protein C falls relatively quickly, anticoagulant protection may decline before longer-lived procoagulant factors. Overlap is used for selected indications such as acute venous thrombosis, not automatically for every person starting warfarin.",
+    "objective": "Explain early warfarin protein C depletion and indication-specific overlap.",
+    "keyPoints": [
+      "Explain early warfarin protein C depletion and indication-specific overlap."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0086",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Acetaminophen toxicity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "After a large acetaminophen ingestion, a patient receives N-acetylcysteine. Which mechanism most directly explains the antidote benefit?",
+    "options": [
+      {
+        "text": "Chelation of iron in the intestinal lumen",
+        "explanation": "This is unrelated to acetaminophen reactive metabolite handling.",
+        "correct": false
+      },
+      {
+        "text": "Conversion of NAPQI into carbon monoxide",
+        "explanation": "This is not the relevant detoxification pathway.",
+        "correct": false
+      },
+      {
+        "text": "Restoration of glutathione availability for toxic metabolite detoxification",
+        "explanation": "This supports neutralization of reactive NAPQI.",
+        "correct": true
+      },
+      {
+        "text": "Irreversible blockade of opioid receptors",
+        "explanation": "Naloxone acts at opioid receptors and is not this antidote.",
+        "correct": false
+      }
+    ],
+    "explanation": "A minor acetaminophen pathway produces NAPQI, normally detoxified by glutathione. Overdose can exhaust glutathione and permit hepatic injury. N-acetylcysteine provides substrate supporting glutathione restoration and has additional benefits; clinical use depends on timing, measured levels, and toxicity assessment rather than dose history alone.",
+    "objective": "Connect acetaminophen hepatotoxicity and antidote action to glutathione.",
+    "keyPoints": [
+      "Connect acetaminophen hepatotoxicity and antidote action to glutathione."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0087",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Opioid overdose",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An unresponsive patient has very slow breathing and pinpoint pupils after taking an unknown tablet. Ventilation is supported and naloxone improves respiratory rate. Which receptor action explains the reversal?",
+    "options": [
+      {
+        "text": "Stimulation of dopamine D2 receptors",
+        "explanation": "This is not the principal mechanism of naloxone.",
+        "correct": false
+      },
+      {
+        "text": "Competitive antagonism at opioid receptors",
+        "explanation": "Naloxone displaces agonist effects responsible for respiratory depression.",
+        "correct": true
+      },
+      {
+        "text": "Activation of benzodiazepine binding sites",
+        "explanation": "This would not explain opioid reversal and may worsen sedation.",
+        "correct": false
+      },
+      {
+        "text": "Irreversible inhibition of acetylcholinesterase",
+        "explanation": "This produces a cholinergic syndrome rather than specific opioid antagonism.",
+        "correct": false
+      }
+    ],
+    "explanation": "Naloxone antagonizes opioid receptors and can reverse opioid-induced respiratory depression. Its effect may wear off before that of the ingested opioid, so recurrent hypoventilation can occur. Airway and ventilatory support remain central; an initial response does not establish that observation is no longer needed.",
+    "objective": "Identify opioid receptor antagonism and the risk of recurrent respiratory depression.",
+    "keyPoints": [
+      "Identify opioid receptor antagonism and the risk of recurrent respiratory depression."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0088",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Organophosphate toxicity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A farm worker develops salivation, wheezing, diarrhea, bradycardia, and fasciculations after pesticide exposure. Which enzyme is inhibited to cause this combined muscarinic and nicotinic syndrome?",
+    "options": [
+      {
+        "text": "Acetylcholinesterase",
+        "explanation": "Inhibition permits acetylcholine accumulation at autonomic and neuromuscular synapses.",
+        "correct": true
+      },
+      {
+        "text": "Monoamine oxidase",
+        "explanation": "This affects monoamines rather than causing the classic cholinergic toxidrome.",
+        "correct": false
+      },
+      {
+        "text": "Tyrosine hydroxylase",
+        "explanation": "Reduced catecholamine synthesis does not explain secretions with fasciculations.",
+        "correct": false
+      },
+      {
+        "text": "Carbonic anhydrase",
+        "explanation": "Its inhibition causes bicarbonate loss rather than this cholinergic syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "Organophosphates inhibit acetylcholinesterase, allowing acetylcholine to accumulate at muscarinic receptors, autonomic ganglia, and neuromuscular junctions. Secretions and bradycardia reflect muscarinic excess; fasciculations reflect nicotinic involvement. Atropine treats muscarinic effects but does not by itself reverse all neuromuscular weakness.",
+    "objective": "Separate muscarinic and nicotinic effects of acetylcholinesterase inhibition.",
+    "keyPoints": [
+      "Separate muscarinic and nicotinic effects of acetylcholinesterase inhibition."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0089",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Beta-lactam action",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A growing bacterial culture is exposed to a penicillin. Cell-wall cross-linking falls and susceptible organisms lyse. Which bacterial target is directly bound by the drug?",
+    "options": [
+      {
+        "text": "The 30S ribosomal decoding site",
+        "explanation": "This is associated with other antibiotic classes, not penicillin action.",
+        "correct": false
+      },
+      {
+        "text": "DNA-dependent RNA polymerase",
+        "explanation": "Rifamycins target this transcription enzyme.",
+        "correct": false
+      },
+      {
+        "text": "Ergosterol in fungal membranes",
+        "explanation": "Bacteria lack this fungal membrane target.",
+        "correct": false
+      },
+      {
+        "text": "Penicillin-binding transpeptidases",
+        "explanation": "Beta-lactams inhibit the enzymes that cross-link peptidoglycan.",
+        "correct": true
+      }
+    ],
+    "explanation": "Beta-lactams bind penicillin-binding proteins involved in peptidoglycan cross-linking. In susceptible growing bacteria, impaired wall integrity leads to death. Beta-lactamases, altered binding proteins, and reduced access can each confer resistance, so the mechanism does not guarantee activity against every organism.",
+    "objective": "Locate beta-lactam action at peptidoglycan transpeptidation.",
+    "keyPoints": [
+      "Locate beta-lactam action at peptidoglycan transpeptidation."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0090",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Aminoglycoside toxicity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient treated with gentamicin develops rising creatinine and new difficulty hearing high-frequency sounds. Which paired toxicity is most characteristic of the drug class?",
+    "options": [
+      {
+        "text": "Gingival hyperplasia and hirsutism",
+        "explanation": "This is not the characteristic gentamicin adverse-effect pairing.",
+        "correct": false
+      },
+      {
+        "text": "Orange secretions and isolated thrombocytosis",
+        "explanation": "Orange discoloration is more characteristic of rifampin exposure.",
+        "correct": false
+      },
+      {
+        "text": "Nephrotoxicity and ototoxicity",
+        "explanation": "Aminoglycosides can injure proximal tubular cells and inner-ear structures.",
+        "correct": true
+      },
+      {
+        "text": "Pulmonary fibrosis and hemorrhagic cystitis",
+        "explanation": "This pair is associated with other agents rather than classic aminoglycoside toxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "Aminoglycosides can accumulate in renal tubular and inner-ear tissues, causing kidney injury and auditory or vestibular toxicity. Risk depends on exposure, renal function, duration, and other toxic drugs. Monitoring does not eliminate risk, and a new hearing complaint deserves evaluation even if serum concentrations were previously acceptable.",
+    "objective": "Recognize renal and inner-ear toxicity during aminoglycoside treatment.",
+    "keyPoints": [
+      "Recognize renal and inner-ear toxicity during aminoglycoside treatment."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0091",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "Metformin mechanism",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with type 2 diabetes begins metformin and has lower fasting glucose without a direct stimulation of pancreatic insulin release. Which effect best explains its principal glucose-lowering action?",
+    "options": [
+      {
+        "text": "Direct activation of renal glucose reabsorption",
+        "explanation": "Increasing glucose reclamation would not explain the desired glucose reduction.",
+        "correct": false
+      },
+      {
+        "text": "Reduced hepatic glucose production",
+        "explanation": "Suppression of hepatic gluconeogenesis is a central therapeutic effect.",
+        "correct": true
+      },
+      {
+        "text": "Closure of beta-cell ATP-sensitive potassium channels",
+        "explanation": "This describes the insulin-secretagogue mechanism of sulfonylureas.",
+        "correct": false
+      },
+      {
+        "text": "Inhibition of intestinal fat absorption",
+        "explanation": "This is the primary action of orlistat, not metformin.",
+        "correct": false
+      }
+    ],
+    "explanation": "Metformin lowers hepatic glucose production and improves glucose handling without directly forcing beta cells to secrete insulin. This gives it a lower intrinsic hypoglycemia risk than secretagogues when used alone. Its molecular effects are multifactorial, so describing it solely as a single-receptor agonist would be misleading.",
+    "objective": "Distinguish metformin from direct insulin secretagogues.",
+    "keyPoints": [
+      "Distinguish metformin from direct insulin secretagogues."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0092",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "Sulfonylurea hypoglycemia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An older adult taking glyburide develops recurrent hypoglycemia after skipping meals. Which beta-cell event is directly initiated by sulfonylureas?",
+    "options": [
+      {
+        "text": "Closure of ATP-sensitive potassium channels",
+        "explanation": "Depolarization then opens calcium channels and promotes insulin release.",
+        "correct": true
+      },
+      {
+        "text": "Opening of ATP-sensitive potassium channels",
+        "explanation": "This hyperpolarizes cells and tends to reduce insulin secretion.",
+        "correct": false
+      },
+      {
+        "text": "Irreversible destruction of insulin granules",
+        "explanation": "This would reduce rather than increase insulin availability.",
+        "correct": false
+      },
+      {
+        "text": "Blockade of the insulin receptor on muscle",
+        "explanation": "This would impair glucose uptake instead of directly stimulating secretion.",
+        "correct": false
+      }
+    ],
+    "explanation": "Sulfonylureas bind the regulatory component of beta-cell ATP-sensitive potassium channels and close them. The membrane depolarizes, calcium enters, and insulin is released. Because secretion can continue despite inadequate food intake, missed meals and impaired clearance can increase the duration and severity of hypoglycemia.",
+    "objective": "Trace sulfonylurea-induced insulin secretion from potassium-channel closure.",
+    "keyPoints": [
+      "Trace sulfonylurea-induced insulin secretion from potassium-channel closure."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0093",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "Inhaled corticosteroids",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient using an inhaled corticosteroid for asthma develops white oral plaques. Which counseling step most directly reduces local drug exposure while maintaining prescribed anti-inflammatory therapy?",
+    "options": [
+      {
+        "text": "Stop all controller therapy permanently without review",
+        "explanation": "Unplanned withdrawal may worsen asthma control.",
+        "correct": false
+      },
+      {
+        "text": "Use the inhaled steroid only to reverse an acute severe attack",
+        "explanation": "It is not a rapid rescue bronchodilator.",
+        "correct": false
+      },
+      {
+        "text": "Double every dose whenever oral plaques appear",
+        "explanation": "This increases local exposure rather than addressing the adverse effect.",
+        "correct": false
+      },
+      {
+        "text": "Rinse the mouth after inhalation and review inhaler technique",
+        "explanation": "This reduces residual oropharyngeal steroid deposition and candidiasis risk.",
+        "correct": true
+      }
+    ],
+    "explanation": "Inhaled corticosteroids reduce airway inflammation but deposited drug can suppress local oral defenses and permit candidiasis. Mouth rinsing and appropriate technique, including a spacer when compatible with the device, reduce exposure. This adverse effect should prompt assessment rather than abandonment of needed controller treatment.",
+    "objective": "Reduce local inhaled steroid effects with mouth rinsing and correct technique.",
+    "keyPoints": [
+      "Reduce local inhaled steroid effects with mouth rinsing and correct technique."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0094",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Dopamine blockade",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient develops rigidity, bradykinesia, and resting tremor after starting a dopamine D2 antagonist. Blockade in which pathway most directly produces these motor adverse effects?",
+    "options": [
+      {
+        "text": "Tuberoinfundibular pathway",
+        "explanation": "Blockade here raises prolactin rather than directly causing parkinsonism.",
+        "correct": false
+      },
+      {
+        "text": "Retinohypothalamic pathway",
+        "explanation": "This visual circadian pathway is not the characteristic D2 motor circuit.",
+        "correct": false
+      },
+      {
+        "text": "Nigrostriatal pathway",
+        "explanation": "Dopamine blockade here disrupts basal ganglia motor regulation.",
+        "correct": true
+      },
+      {
+        "text": "Mesolimbic pathway",
+        "explanation": "Blockade here is associated with antipsychotic efficacy rather than the main motor toxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "D2 antagonism in the nigrostriatal system can produce drug-induced parkinsonism and other extrapyramidal effects. Dopamine pathways have different functions, so the same receptor blockade can also affect prolactin and psychiatric symptoms in other circuits. Timing after medication initiation supports the adverse-effect interpretation.",
+    "objective": "Localize antipsychotic-associated parkinsonism to nigrostriatal dopamine blockade.",
+    "keyPoints": [
+      "Localize antipsychotic-associated parkinsonism to nigrostriatal dopamine blockade."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0095",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Partial agonism",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A partial receptor agonist is added while a full agonist is already producing a near-maximal effect. As the partial agonist occupies more receptors, the total response falls. Which property explains this behavior?",
+    "options": [
+      {
+        "text": "Irreversible destruction of the receptor is required",
+        "explanation": "Competition can occur without destroying receptor molecules.",
+        "correct": false
+      },
+      {
+        "text": "Lower intrinsic efficacy despite receptor binding",
+        "explanation": "Replacing full agonist occupancy with partial agonist occupancy reduces response.",
+        "correct": true
+      },
+      {
+        "text": "Absence of all receptor affinity",
+        "explanation": "A compound that never binds cannot compete for receptor occupancy.",
+        "correct": false
+      },
+      {
+        "text": "Greater maximal efficacy than the full agonist",
+        "explanation": "That would not explain a fall from the full-agonist response.",
+        "correct": false
+      }
+    ],
+    "explanation": "A partial agonist binds and activates receptors but produces a lower maximal response than a full agonist in the same system. In the presence of the full agonist, it can reduce response by occupying receptors that otherwise would be more strongly activated. Its effect therefore depends on the background agonist environment.",
+    "objective": "Explain how a partial agonist can functionally oppose a full agonist.",
+    "keyPoints": [
+      "Explain how a partial agonist can functionally oppose a full agonist."
+    ],
+    "references": [
+      {
+        "label": "Nursing Pharmacology, 2nd ed., Open RN / NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0096",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Gram-positive cell wall",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A bacterial isolate stains purple after the Gram procedure. Electron microscopy shows a thick peptidoglycan layer and no outer membrane. Which additional cell-wall component is most consistent with this organism?",
+    "options": [
+      {
+        "text": "Teichoic acids",
+        "explanation": "These are characteristic components of many gram-positive cell walls.",
+        "correct": true
+      },
+      {
+        "text": "Outer-membrane lipopolysaccharide",
+        "explanation": "LPS is associated with the outer membrane of gram-negative bacteria.",
+        "correct": false
+      },
+      {
+        "text": "Ergosterol",
+        "explanation": "This is a fungal membrane sterol rather than a bacterial wall component.",
+        "correct": false
+      },
+      {
+        "text": "Chitin as the primary wall polymer",
+        "explanation": "Chitin is characteristic of fungal walls, not typical bacterial peptidoglycan walls.",
+        "correct": false
+      }
+    ],
+    "explanation": "Gram-positive bacteria have a thick peptidoglycan wall that retains the crystal violet-iodine complex during decolorization. Teichoic and lipoteichoic acids contribute to wall organization and host interactions. The absence of an outer membrane distinguishes this architecture from gram-negative organisms, which contain lipopolysaccharide.",
+    "objective": "Differentiate gram-positive wall components from gram-negative and fungal structures.",
+    "keyPoints": [
+      "Differentiate gram-positive wall components from gram-negative and fungal structures."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0097",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Endotoxin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "During gram-negative bloodstream infection, bacterial outer-membrane material activates innate immunity and contributes to shock. Which part of lipopolysaccharide is principally responsible for its endotoxin activity?",
+    "options": [
+      {
+        "text": "O antigen alone",
+        "explanation": "The variable polysaccharide helps serotyping but is not the main toxic moiety.",
+        "correct": false
+      },
+      {
+        "text": "Capsular hyaluronic acid",
+        "explanation": "This is not the endotoxin-active component of lipopolysaccharide.",
+        "correct": false
+      },
+      {
+        "text": "Flagellar hook protein",
+        "explanation": "Flagellar components are distinct from outer-membrane LPS.",
+        "correct": false
+      },
+      {
+        "text": "Lipid A",
+        "explanation": "This membrane-anchoring component triggers the characteristic innate inflammatory response.",
+        "correct": true
+      }
+    ],
+    "explanation": "Lipid A is the biologically active endotoxin component of gram-negative lipopolysaccharide. Host recognition can trigger cytokine release, endothelial activation, and coagulation disturbances. The severity of sepsis depends on the host response and infection context, so the presence of LPS alone does not predict a fixed clinical course.",
+    "objective": "Identify lipid A as the endotoxin-active component of LPS.",
+    "keyPoints": [
+      "Identify lipid A as the endotoxin-active component of LPS."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0098",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Bacterial conjugation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "In a mixed culture, resistance appears in recipient bacteria only when living donor cells make direct contact. The transferred DNA is carried on a conjugative plasmid. Which mechanism accounts for the transfer?",
+    "options": [
+      {
+        "text": "Transduction",
+        "explanation": "This transfers DNA through a bacteriophage rather than direct conjugation.",
+        "correct": false
+      },
+      {
+        "text": "Vertical inheritance alone",
+        "explanation": "Transfer to a separate recipient strain is horizontal, not just parent-to-offspring inheritance.",
+        "correct": false
+      },
+      {
+        "text": "Conjugation",
+        "explanation": "Cell-to-cell transfer of plasmid DNA requires conjugative machinery.",
+        "correct": true
+      },
+      {
+        "text": "Transformation",
+        "explanation": "This involves uptake of free environmental DNA rather than required donor contact.",
+        "correct": false
+      }
+    ],
+    "explanation": "Conjugation moves DNA between bacterial cells through a donor-encoded transfer apparatus. Conjugative plasmids can disseminate resistance genes across compatible hosts. Free-DNA uptake and phage-mediated delivery are alternative horizontal routes; experimental dependence on direct contact distinguishes the mechanism here.",
+    "objective": "Distinguish conjugation from transformation and transduction.",
+    "keyPoints": [
+      "Distinguish conjugation from transformation and transduction."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0099",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Bacterial spores",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A hospital surface remains contaminated with a dormant bacterial form despite drying and routine environmental stress. The form contains a dehydrated core and calcium-dipicolinate. Which process produced it?",
+    "options": [
+      {
+        "text": "Routine binary fission",
+        "explanation": "Vegetative division does not itself create this resistant dormant structure.",
+        "correct": false
+      },
+      {
+        "text": "Endospore formation",
+        "explanation": "Selected bacteria create resistant dormant survival structures, not reproductive offspring.",
+        "correct": true
+      },
+      {
+        "text": "Budding of enveloped virions",
+        "explanation": "Viruses do not form calcium-dipicolinate bacterial endospores.",
+        "correct": false
+      },
+      {
+        "text": "Fungal hyphal branching only",
+        "explanation": "Hyphal growth does not explain the described bacterial core architecture.",
+        "correct": false
+      }
+    ],
+    "explanation": "Bacterial endospores are specialized dormant forms that tolerate conditions lethal to many vegetative cells. Their resistance relates to core dehydration, protective layers, and other features including calcium-dipicolinate. Sporulation is a survival strategy rather than multiplication, and validated sporicidal processing is needed where spore elimination is required.",
+    "objective": "Recognize endospores as resistant bacterial survival structures.",
+    "keyPoints": [
+      "Recognize endospores as resistant bacterial survival structures."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0100",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "Influenza reassortment",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Two influenza A strains infect the same cell. Progeny viruses acquire a new combination of entire genome segments, including a different hemagglutinin segment. Which genetic event is demonstrated?",
+    "options": [
+      {
+        "text": "Reassortment",
+        "explanation": "Segmented viral genomes can exchange whole segments during coinfection.",
+        "correct": true
+      },
+      {
+        "text": "Point mutation alone",
+        "explanation": "A base substitution does not exchange an entire genome segment.",
+        "correct": false
+      },
+      {
+        "text": "Bacterial conjugation",
+        "explanation": "Influenza does not transfer its genome through bacterial conjugative pili.",
+        "correct": false
+      },
+      {
+        "text": "Reverse transcription into the host germline",
+        "explanation": "Influenza replication does not require this mechanism.",
+        "correct": false
+      }
+    ],
+    "explanation": "Influenza A has a segmented RNA genome. Coinfection can package segments from different parental strains into progeny, producing reassortment and potentially a major antigenic change. Gradual mutation-driven antigenic drift is a separate process, so new whole-segment combinations should not be labeled drift alone.",
+    "objective": "Distinguish influenza reassortment from point-mutation-driven antigenic drift.",
+    "keyPoints": [
+      "Distinguish influenza reassortment from point-mutation-driven antigenic drift."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

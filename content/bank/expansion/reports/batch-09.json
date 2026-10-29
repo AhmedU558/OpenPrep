@@ -1,0 +1,4130 @@
+{
+  "batch": 9,
+  "at": "2026-10-29T17:47:47.827Z",
+  "digest": "f9f05a68b5391c63b751e5fb2fab9eebde80d6ab8dddcb157f8752c0f6e1641f",
+  "generated": 100,
+  "eligible": 99,
+  "rejected": 0,
+  "quarantined": 1,
+  "imported": 0,
+  "skipped": 99,
+  "available": 99,
+  "persisted": 99,
+  "stored": 100,
+  "storedReview": 1,
+  "before": 1028,
+  "after": 1028,
+  "mismatches": [],
+  "firstImport": {
+    "at": "2026-10-29T13:45:37.698Z",
+    "before": 432,
+    "after": 532,
+    "imported": 100,
+    "digest": "b9cb4e89cd3b8df14a27eb4abaa17d1b2f4c9143cc1f6f3dad868037730965f3"
+  },
+  "items": [
+    {
+      "code": "op26x-0001",
+      "concept": "absolute-neuronal-refractory-period",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain why sodium-channel inactivation prevents immediate neuronal restimulation.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior neuromuscular transmitter release; the new objective is explain why sodium-channel inactivation prevents immediate neuronal restimulation.",
+      "candidates": [
+        {
+          "code": "op26-0160",
+          "score": 0.1155,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0245",
+          "score": 0.1031,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0092",
+          "score": 0.0837,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Absolute neuronal refractory period",
+      "objective": "Explain why sodium-channel inactivation prevents immediate neuronal restimulation.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0002",
+      "concept": "saltatory-conduction-failure",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Predict the electrical consequences of losing myelin insulation.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior spinal cord tract localization; the new objective is predict the electrical consequences of losing myelin insulation.",
+      "candidates": [
+        {
+          "code": "op26x-0001",
+          "score": 0.1206,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0033",
+          "score": 0.1126,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0245",
+          "score": 0.1025,
+          "sameObjective": false,
+          "lexical": 0.02564102564102564
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Saltatory conduction failure",
+      "objective": "Predict the electrical consequences of losing myelin insulation.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0003",
+      "concept": "presynaptic-calcium-trigger",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Link terminal calcium entry to activity-dependent transmitter release.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior vesicle-fusion toxin effects; the new objective is link terminal calcium entry to activity-dependent transmitter release.",
+      "candidates": [
+        {
+          "code": "op26-0034",
+          "score": 0.1238,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0033",
+          "score": 0.0951,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0115",
+          "score": 0.0875,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Presynaptic calcium trigger",
+      "objective": "Link terminal calcium entry to activity-dependent transmitter release.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0004",
+      "concept": "temporal-synaptic-summation",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Distinguish temporal summation from summation of separate spatial inputs.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior neuromuscular transmission; the new objective is distinguish temporal summation from summation of separate spatial inputs.",
+      "candidates": [
+        {
+          "code": "op26x-0722",
+          "score": 0.1046,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0321",
+          "score": 0.0979,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0001",
+          "score": 0.0898,
+          "sameObjective": false,
+          "lexical": 0.024390243902439025
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Temporal synaptic summation",
+      "objective": "Distinguish temporal summation from summation of separate spatial inputs.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0005",
+      "concept": "postsynaptic-chloride-shunting",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain inhibition by conductance shunting without large hyperpolarization.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior neuronal excitation mechanisms; the new objective is explain inhibition by conductance shunting without large hyperpolarization.",
+      "candidates": [
+        {
+          "code": "op26x-0245",
+          "score": 0.2459,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0004",
+          "score": 0.1227,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0203",
+          "score": 0.12,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Postsynaptic chloride shunting",
+      "objective": "Explain inhibition by conductance shunting without large hyperpolarization.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0006",
+      "concept": "atp-binding-and-rigor",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Separate ATP-dependent myosin detachment from calcium-dependent site exposure.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior troponin-mediated contraction; the new objective is separate atp-dependent myosin detachment from calcium-dependent site exposure.",
+      "candidates": [
+        {
+          "code": "op26-0034",
+          "score": 0.3497,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0037",
+          "score": 0.1383,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0213",
+          "score": 0.1338,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "ATP binding and rigor",
+      "objective": "Separate ATP-dependent myosin detachment from calcium-dependent site exposure.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0007",
+      "concept": "smooth-muscle-calcium-sensor",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Identify the calcium sensor that activates smooth muscle contraction.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior skeletal troponin regulation; the new objective is identify the calcium sensor that activates smooth muscle contraction.",
+      "candidates": [
+        {
+          "code": "op26-0034",
+          "score": 0.3291,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0006",
+          "score": 0.224,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0246",
+          "score": 0.1779,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Smooth muscle calcium sensor",
+      "objective": "Identify the calcium sensor that activates smooth muscle contraction.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0008",
+      "concept": "motor-unit-recruitment",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Apply the motor-neuron size principle to voluntary force recruitment.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior muscle calcium regulation; the new objective is apply the motor-neuron size principle to voluntary force recruitment.",
+      "candidates": [
+        {
+          "code": "op26x-0004",
+          "score": 0.1136,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0321",
+          "score": 0.1099,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0751",
+          "score": 0.0931,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Motor unit recruitment",
+      "objective": "Apply the motor-neuron size principle to voluntary force recruitment.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0009",
+      "concept": "muscle-spindle-stretch-sensing",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Identify the muscle spindle as the receptor for the stretch-reflex input.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior peripheral motor nerve lesions; the new objective is identify the muscle spindle as the receptor for the stretch-reflex input.",
+      "candidates": [
+        {
+          "code": "op26x-0007",
+          "score": 0.1128,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0101",
+          "score": 0.1006,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0321",
+          "score": 0.0891,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Muscle spindle stretch sensing",
+      "objective": "Identify the muscle spindle as the receptor for the stretch-reflex input.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0010",
+      "concept": "gamma-motor-drive",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain how gamma activation preserves spindle feedback during contraction.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior stretch receptor identification; the new objective is explain how gamma activation preserves spindle feedback during contraction.",
+      "candidates": [
+        {
+          "code": "op26x-0009",
+          "score": 0.2036,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0008",
+          "score": 0.1348,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0321",
+          "score": 0.1031,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Gamma motor drive",
+      "objective": "Explain how gamma activation preserves spindle feedback during contraction.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0011",
+      "concept": "photoreceptor-light-response",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Trace light-induced cGMP reduction to rod hyperpolarization.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior optic chiasm anatomy; the new objective is trace light-induced cgmp reduction to rod hyperpolarization.",
+      "candidates": [
+        {
+          "code": "op26-0092",
+          "score": 0.1537,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0005",
+          "score": 0.1527,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0245",
+          "score": 0.1344,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Photoreceptor light response",
+      "objective": "Trace light-induced cGMP reduction to rod hyperpolarization.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0012",
+      "concept": "hair-cell-potassium-entry",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain why potassium entry depolarizes cochlear hair cells.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior neuronal synaptic calcium trigger; the new objective is explain why potassium entry depolarizes cochlear hair cells.",
+      "candidates": [
+        {
+          "code": "op26-0027",
+          "score": 0.1159,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0005",
+          "score": 0.1146,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0566",
+          "score": 0.1123,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Hair cell potassium entry",
+      "objective": "Explain why potassium entry depolarizes cochlear hair cells.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0013",
+      "concept": "horizontal-semicircular-canal-sensing",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Distinguish angular acceleration sensing from otolith functions.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior cochlear transduction; the new objective is distinguish angular acceleration sensing from otolith functions.",
+      "candidates": [
+        {
+          "code": "op26x-0117",
+          "score": 0.0798,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0178",
+          "score": 0.0785,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0120",
+          "score": 0.0729,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Horizontal semicircular canal sensing",
+      "objective": "Distinguish angular acceleration sensing from otolith functions.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0014",
+      "concept": "olfactory-primary-afferents",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Locate primary olfactory receptor neuronal cell bodies.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior cranial nerve motor localization; the new objective is locate primary olfactory receptor neuronal cell bodies.",
+      "candidates": [
+        {
+          "code": "op26x-0299",
+          "score": 0.1606,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0758",
+          "score": 0.0837,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0270",
+          "score": 0.0802,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Olfactory primary afferents",
+      "objective": "Locate primary olfactory receptor neuronal cell bodies.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0015",
+      "concept": "posterior-pituitary-hormone-synthesis",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Distinguish vasopressin synthesis from posterior pituitary release.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior ADH collecting-duct response; the new objective is distinguish vasopressin synthesis from posterior pituitary release.",
+      "candidates": [
+        {
+          "code": "op26x-0014",
+          "score": 0.1642,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0644",
+          "score": 0.1217,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0377",
+          "score": 0.1037,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Posterior pituitary hormone synthesis",
+      "objective": "Distinguish vasopressin synthesis from posterior pituitary release.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0016",
+      "concept": "pulsatile-gnrh-signaling",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain gonadotroph desensitization during continuous GnRH exposure.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior thyroid negative feedback; the new objective is explain gonadotroph desensitization during continuous gnrh exposure.",
+      "candidates": [
+        {
+          "code": "op26x-0779",
+          "score": 0.2338,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0556",
+          "score": 0.154,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0644",
+          "score": 0.1208,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Pulsatile GnRH signaling",
+      "objective": "Explain gonadotroph desensitization during continuous GnRH exposure.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0017",
+      "concept": "prolactin-tonic-inhibition",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Link stalk interruption to loss of dopaminergic prolactin inhibition.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior sellar mass visual-field findings; the new objective is link stalk interruption to loss of dopaminergic prolactin inhibition.",
+      "candidates": [
+        {
+          "code": "op26x-0559",
+          "score": 0.1883,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0015",
+          "score": 0.1237,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0644",
+          "score": 0.1183,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Prolactin tonic inhibition",
+      "objective": "Link stalk interruption to loss of dopaminergic prolactin inhibition.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0018",
+      "concept": "thyroid-hormone-binding-proteins",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine independent findings to infer the intermediate mechanism: Integrate altered binding with normal feedback and free thyroid hormone.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior primary thyroid failure feedback; the new objective is integrate altered binding with normal feedback and free thyroid hormone.",
+      "candidates": [
+        {
+          "code": "op26-0022",
+          "score": 0.4105,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0378",
+          "score": 0.2693,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0069",
+          "score": 0.2607,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Thyroid hormone binding proteins",
+      "objective": "Integrate altered binding with normal feedback and free thyroid hormone.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0019",
+      "concept": "peripheral-t4-activation",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Distinguish activating outer-ring deiodination from reverse T3 formation.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior thyroid hormone binding; the new objective is distinguish activating outer-ring deiodination from reverse t3 formation.",
+      "candidates": [
+        {
+          "code": "op26x-0151",
+          "score": 0.1037,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0097",
+          "score": 0.102,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0022",
+          "score": 0.0992,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Peripheral T4 activation",
+      "objective": "Distinguish activating outer-ring deiodination from reverse T3 formation.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0020",
+      "concept": "adrenal-cortical-zonation",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Identify cortisol production in the zona fasciculata.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior adrenal failure clinical pattern; the new objective is identify cortisol production in the zona fasciculata.",
+      "candidates": [
+        {
+          "code": "op26x-0487",
+          "score": 0.1227,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0486",
+          "score": 0.117,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0562",
+          "score": 0.0991,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Adrenal cortical zonation",
+      "objective": "Identify cortisol production in the zona fasciculata.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0021",
+      "concept": "cortisol-permissive-vascular-action",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain cortisol-dependent maintenance of catecholamine responsiveness.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior primary adrenal insufficiency diagnosis; the new objective is explain cortisol-dependent maintenance of catecholamine responsiveness.",
+      "candidates": [
+        {
+          "code": "op26x-0488",
+          "score": 0.119,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0162",
+          "score": 0.1043,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0078",
+          "score": 0.0867,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Cortisol permissive vascular action",
+      "objective": "Explain cortisol-dependent maintenance of catecholamine responsiveness.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0022",
+      "concept": "adrenal-pnmt-induction",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Connect cortical cortisol delivery with medullary PNMT expression.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior adrenal cortical zonation; the new objective is connect cortical cortisol delivery with medullary pnmt expression.",
+      "candidates": [
+        {
+          "code": "op26x-0020",
+          "score": 0.1438,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0485",
+          "score": 0.123,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0021",
+          "score": 0.1074,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Adrenal PNMT induction",
+      "objective": "Connect cortical cortisol delivery with medullary PNMT expression.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0023",
+      "concept": "beta-cell-glucose-electrical-coupling",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Trace beta-cell ATP elevation through potassium-channel closure to calcium entry.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior insulin target-cell GLUT4 translocation; the new objective is trace beta-cell atp elevation through potassium-channel closure to calcium entry.",
+      "candidates": [
+        {
+          "code": "op26-0092",
+          "score": 0.5008,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0006",
+          "score": 0.1612,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0091",
+          "score": 0.1563,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Beta-cell glucose electrical coupling",
+      "objective": "Trace beta-cell ATP elevation through potassium-channel closure to calcium entry.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0024",
+      "concept": "glucagon-target-specificity",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain liver versus muscle differences in direct glucagon responsiveness.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior insulin secretion coupling; the new objective is explain liver versus muscle differences in direct glucagon responsiveness.",
+      "candidates": [
+        {
+          "code": "op26-0091",
+          "score": 0.1936,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0023",
+          "score": 0.1332,
+          "sameObjective": false,
+          "lexical": 0.023809523809523808
+        },
+        {
+          "code": "op26-0034",
+          "score": 0.1296,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Glucagon target specificity",
+      "objective": "Explain liver versus muscle differences in direct glucagon responsiveness.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0025",
+      "concept": "incretin-enhancement-of-insulin",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain the insulin difference between matched oral and intravenous glucose.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior beta-cell electrical coupling; the new objective is explain the insulin difference between matched oral and intravenous glucose.",
+      "candidates": [
+        {
+          "code": "op26-0091",
+          "score": 0.2193,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0176",
+          "score": 0.1761,
+          "sameObjective": false,
+          "lexical": 0.017543859649122806
+        },
+        {
+          "code": "op26-0021",
+          "score": 0.1758,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Incretin enhancement of insulin",
+      "objective": "Explain the insulin difference between matched oral and intravenous glucose.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0026",
+      "concept": "calcitriol-intestinal-transcription",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Apply nuclear receptor signaling to intestinal calcium transport.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior renal PTH effects; the new objective is apply nuclear receptor signaling to intestinal calcium transport.",
+      "candidates": [
+        {
+          "code": "op26x-0112",
+          "score": 0.164,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0246",
+          "score": 0.137,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0108",
+          "score": 0.1306,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Calcitriol intestinal transcription",
+      "objective": "Apply nuclear receptor signaling to intestinal calcium transport.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0027",
+      "concept": "growth-hormone-igf-1-mediation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Identify IGF-1 as a major mediator of growth hormone-dependent growth.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior anterior pituitary feedback; the new objective is identify igf-1 as a major mediator of growth hormone-dependent growth.",
+      "candidates": [
+        {
+          "code": "op26x-0789",
+          "score": 0.1419,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0122",
+          "score": 0.1378,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0618",
+          "score": 0.1356,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Growth hormone IGF-1 mediation",
+      "objective": "Identify IGF-1 as a major mediator of growth hormone-dependent growth.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0028",
+      "concept": "leptin-nutritional-signaling",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Predict compensatory appetite signaling after loss of fat-derived leptin.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior incretin meal signaling; the new objective is predict compensatory appetite signaling after loss of fat-derived leptin.",
+      "candidates": [
+        {
+          "code": "op26x-0559",
+          "score": 0.0934,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0179",
+          "score": 0.0816,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0127",
+          "score": 0.0799,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Leptin nutritional signaling",
+      "objective": "Predict compensatory appetite signaling after loss of fat-derived leptin.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0029",
+      "concept": "melatonin-circadian-source",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Identify the pineal source of circulating nocturnal melatonin.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior adrenal hormone zonation; the new objective is identify the pineal source of circulating nocturnal melatonin.",
+      "candidates": [
+        {
+          "code": "op26x-0636",
+          "score": 0.1003,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0113",
+          "score": 0.0779,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0028",
+          "score": 0.0722,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Melatonin circadian source",
+      "objective": "Identify the pineal source of circulating nocturnal melatonin.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0030",
+      "concept": "gastric-apical-proton-pump",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Identify the apical parietal-cell transporter responsible for acid secretion.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior pancreatic bicarbonate secretion; the new objective is identify the apical parietal-cell transporter responsible for acid secretion.",
+      "candidates": [
+        {
+          "code": "op26x-0791",
+          "score": 0.2423,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0792",
+          "score": 0.1459,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0026",
+          "score": 0.1316,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Gastric apical proton pump",
+      "objective": "Identify the apical parietal-cell transporter responsible for acid secretion.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0031",
+      "concept": "intrinsic-factor-b12-transport",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Link gastric intrinsic factor production to ileal vitamin B12 uptake.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior ileal bile salt recycling; the new objective is link gastric intrinsic factor production to ileal vitamin b12 uptake.",
+      "candidates": [
+        {
+          "code": "op26x-0479",
+          "score": 0.2472,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0480",
+          "score": 0.2051,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0475",
+          "score": 0.1564,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Intrinsic factor B12 transport",
+      "objective": "Link gastric intrinsic factor production to ileal vitamin B12 uptake.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0032",
+      "concept": "enteropeptidase-activation-cascade",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Identify the intestinal initiator of pancreatic protease activation.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior pancreatitis clinical criteria; the new objective is identify the intestinal initiator of pancreatic protease activation.",
+      "candidates": [
+        {
+          "code": "op26x-0796",
+          "score": 0.1064,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0024",
+          "score": 0.102,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0667",
+          "score": 0.1019,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Enteropeptidase activation cascade",
+      "objective": "Identify the intestinal initiator of pancreatic protease activation.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0033",
+      "concept": "cck-biliary-coordination",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Predict coordinated biliary responses to fat-induced CCK release.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior secretin bicarbonate response; the new objective is predict coordinated biliary responses to fat-induced cck release.",
+      "candidates": [
+        {
+          "code": "op26x-0784",
+          "score": 0.1259,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0024",
+          "score": 0.1166,
+          "sameObjective": false,
+          "lexical": 0.06666666666666667
+        },
+        {
+          "code": "op26x-0032",
+          "score": 0.1068,
+          "sameObjective": false,
+          "lexical": 0.02702702702702703
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "CCK biliary coordination",
+      "objective": "Predict coordinated biliary responses to fat-induced CCK release.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0034",
+      "concept": "motilin-migrating-motor-complex",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Associate motilin with the fasting migrating motor complex.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior intestinal bicarbonate signaling; the new objective is associate motilin with the fasting migrating motor complex.",
+      "candidates": [
+        {
+          "code": "op26x-0412",
+          "score": 0.101,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0321",
+          "score": 0.0968,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0647",
+          "score": 0.0926,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Motilin migrating motor complex",
+      "objective": "Associate motilin with the fasting migrating motor complex.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0035",
+      "concept": "receptive-gastric-relaxation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain vagovagal coordination of proximal gastric accommodation.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior fasting motility pattern; the new objective is explain vagovagal coordination of proximal gastric accommodation.",
+      "candidates": [
+        {
+          "code": "op26x-0395",
+          "score": 0.0928,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0325",
+          "score": 0.087,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0653",
+          "score": 0.0855,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Receptive gastric relaxation",
+      "objective": "Explain vagovagal coordination of proximal gastric accommodation.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0036",
+      "concept": "lactase-osmotic-diarrhea",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Connect selective lactase deficiency with osmotic retention and bacterial fermentation.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior celiac villous injury; the new objective is connect selective lactase deficiency with osmotic retention and bacterial fermentation.",
+      "candidates": [
+        {
+          "code": "op26x-0796",
+          "score": 0.1984,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0793",
+          "score": 0.1845,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0623",
+          "score": 0.0999,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Lactase osmotic diarrhea",
+      "objective": "Connect selective lactase deficiency with osmotic retention and bacterial fermentation.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0037",
+      "concept": "chylomicron-lymphatic-export",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Trace intestinal chylomicron export through lymphatic drainage.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior bile salt recycling; the new objective is trace intestinal chylomicron export through lymphatic drainage.",
+      "candidates": [
+        {
+          "code": "op26x-0598",
+          "score": 0.1242,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0298",
+          "score": 0.1105,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0294",
+          "score": 0.0984,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Chylomicron lymphatic export",
+      "objective": "Trace intestinal chylomicron export through lymphatic drainage.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0038",
+      "concept": "gastric-alkaline-tide",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain the bicarbonate movement accompanying gastric acid secretion.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior parietal proton pump identification; the new objective is explain the bicarbonate movement accompanying gastric acid secretion.",
+      "candidates": [
+        {
+          "code": "op26x-0791",
+          "score": 0.2187,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0792",
+          "score": 0.1976,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0035",
+          "score": 0.1935,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Gastric alkaline tide",
+      "objective": "Explain the bicarbonate movement accompanying gastric acid secretion.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0039",
+      "concept": "butyrate-colonocyte-fuel",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Identify butyrate as a fermentation-derived colonocyte fuel.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior lactose fermentation and diarrhea; the new objective is identify butyrate as a fermentation-derived colonocyte fuel.",
+      "candidates": [
+        {
+          "code": "op26x-0796",
+          "score": 0.1058,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0116",
+          "score": 0.0972,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0410",
+          "score": 0.0737,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Physiology",
+      "topic": "Butyrate colonocyte fuel",
+      "objective": "Identify butyrate as a fermentation-derived colonocyte fuel.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0040",
+      "concept": "palmar-interosseous-adduction",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Associate impaired finger adduction with palmar interosseous weakness.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior median nerve opposition deficit; the new objective is associate impaired finger adduction with palmar interosseous weakness.",
+      "candidates": [
+        {
+          "code": "op26x-0306",
+          "score": 0.2174,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0004",
+          "score": 0.1374,
+          "sameObjective": false,
+          "lexical": 0.02
+        },
+        {
+          "code": "op26x-0305",
+          "score": 0.1176,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Palmar interosseous adduction",
+      "objective": "Associate impaired finger adduction with palmar interosseous weakness.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0041",
+      "concept": "posterior-interosseous-motor-lesion",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine independent findings to infer the intermediate mechanism: Integrate motor sparing and absent sensory loss to localize posterior interosseous injury.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior common fibular versus root localization; the new objective is integrate motor sparing and absent sensory loss to localize posterior interosseous injury.",
+      "candidates": [
+        {
+          "code": "op26-0005",
+          "score": 0.2403,
+          "sameObjective": false,
+          "lexical": 0.038461538461538464
+        },
+        {
+          "code": "op26x-0306",
+          "score": 0.2249,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0587",
+          "score": 0.1886,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Posterior interosseous motor lesion",
+      "objective": "Integrate motor sparing and absent sensory loss to localize posterior interosseous injury.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0042",
+      "concept": "obturator-thigh-adduction",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Localize isolated hip adduction weakness to the obturator nerve.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior femoral quadriceps injury; the new objective is localize isolated hip adduction weakness to the obturator nerve.",
+      "candidates": [
+        {
+          "code": "op26-0005",
+          "score": 0.3568,
+          "sameObjective": false,
+          "lexical": 0.0392156862745098
+        },
+        {
+          "code": "op26x-0587",
+          "score": 0.154,
+          "sameObjective": false,
+          "lexical": 0.02127659574468085
+        },
+        {
+          "code": "op26x-0519",
+          "score": 0.1521,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Obturator thigh adduction",
+      "objective": "Localize isolated hip adduction weakness to the obturator nerve.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0043",
+      "concept": "superior-gluteal-pelvic-stabilization",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Determine weak stance-side hip abductors from contralateral pelvic drop.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior long thoracic scapular stabilization; the new objective is determine weak stance-side hip abductors from contralateral pelvic drop.",
+      "candidates": [
+        {
+          "code": "op26-0008",
+          "score": 0.1598,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0521",
+          "score": 0.1189,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0587",
+          "score": 0.1111,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Superior gluteal pelvic stabilization",
+      "objective": "Determine weak stance-side hip abductors from contralateral pelvic drop.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0044",
+      "concept": "tibial-tarsal-tunnel-route",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Locate the tibial nerve within the tarsal tunnel.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior common fibular foot drop; the new objective is locate the tibial nerve within the tarsal tunnel.",
+      "candidates": [
+        {
+          "code": "op26-0004",
+          "score": 0.1926,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0005",
+          "score": 0.1821,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0587",
+          "score": 0.1775,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Tibial tarsal tunnel route",
+      "objective": "Locate the tibial nerve within the tarsal tunnel.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0045",
+      "concept": "corneal-reflex-efferent-localization",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine independent findings to infer the intermediate mechanism: Use bilateral stimulus responses to localize corneal reflex efferent dysfunction.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior abducens eye movement deficit; the new objective is use bilateral stimulus responses to localize corneal reflex efferent dysfunction.",
+      "candidates": [
+        {
+          "code": "op26x-0681",
+          "score": 0.1277,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0008",
+          "score": 0.1214,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0171",
+          "score": 0.0872,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Corneal reflex efferent localization",
+      "objective": "Use bilateral stimulus responses to localize corneal reflex efferent dysfunction.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0046",
+      "concept": "hypoglossal-tongue-deviation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain tongue deviation toward a lower motor hypoglossal lesion.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior cranial ocular motor localization; the new objective is explain tongue deviation toward a lower motor hypoglossal lesion.",
+      "candidates": [
+        {
+          "code": "op26x-0682",
+          "score": 0.4067,
+          "sameObjective": false,
+          "lexical": 0.0625
+        },
+        {
+          "code": "op26x-0524",
+          "score": 0.2003,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0008",
+          "score": 0.177,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Hypoglossal tongue deviation",
+      "objective": "Explain tongue deviation toward a lower motor hypoglossal lesion.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0047",
+      "concept": "stylopharyngeus-motor-supply",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Identify glossopharyngeal motor innervation of stylopharyngeus.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior recurrent laryngeal anatomy; the new objective is identify glossopharyngeal motor innervation of stylopharyngeus.",
+      "candidates": [
+        {
+          "code": "op26-0006",
+          "score": 0.1391,
+          "sameObjective": false,
+          "lexical": 0.02
+        },
+        {
+          "code": "op26-0012",
+          "score": 0.1137,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0682",
+          "score": 0.1028,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Stylopharyngeus motor supply",
+      "objective": "Identify glossopharyngeal motor innervation of stylopharyngeus.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0048",
+      "concept": "parotid-otic-ganglion-relay",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Trace parotid secretomotor fibers through the otic ganglion.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior stylopharyngeus motor supply; the new objective is trace parotid secretomotor fibers through the otic ganglion.",
+      "candidates": [
+        {
+          "code": "op26x-0681",
+          "score": 0.1394,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0047",
+          "score": 0.1116,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0007",
+          "score": 0.0932,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Parotid otic ganglion relay",
+      "objective": "Trace parotid secretomotor fibers through the otic ganglion.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0049",
+      "concept": "ciliary-accommodation-mechanics",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Explain ciliary muscle control of lens accommodation.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior optic chiasm visual fields; the new objective is explain ciliary muscle control of lens accommodation.",
+      "candidates": [
+        {
+          "code": "op26-0034",
+          "score": 0.1095,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0007",
+          "score": 0.0936,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0187",
+          "score": 0.089,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Ciliary accommodation mechanics",
+      "objective": "Explain ciliary muscle control of lens accommodation.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0050",
+      "concept": "thoracic-duct-venous-termination",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Locate the usual thoracic duct termination at the left venous angle.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior portal-systemic venous connections; the new objective is locate the usual thoracic duct termination at the left venous angle.",
+      "candidates": [
+        {
+          "code": "op26x-0605",
+          "score": 0.1036,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0014",
+          "score": 0.0954,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0667",
+          "score": 0.0929,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Thoracic duct venous termination",
+      "objective": "Locate the usual thoracic duct termination at the left venous angle.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0051",
+      "concept": "intercostal-bundle-costal-groove",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Locate the principal intercostal neurovascular bundle.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior phrenic motor supply; the new objective is locate the principal intercostal neurovascular bundle.",
+      "candidates": [
+        {
+          "code": "op26x-0715",
+          "score": 0.13,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0027",
+          "score": 0.0866,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0012",
+          "score": 0.0706,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Intercostal bundle costal groove",
+      "objective": "Locate the principal intercostal neurovascular bundle.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0052",
+      "concept": "epiploic-foramen-posterior-boundary",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Identify the inferior vena cava behind the epiploic foramen.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior foregut arterial supply; the new objective is identify the inferior vena cava behind the epiploic foramen.",
+      "candidates": [
+        {
+          "code": "op26-0151",
+          "score": 0.109,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0015",
+          "score": 0.1074,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0011",
+          "score": 0.0881,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Epiploic foramen posterior boundary",
+      "objective": "Identify the inferior vena cava behind the epiploic foramen.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0053",
+      "concept": "portal-triad-posterior-member",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Recognize the portal vein as the posterior portal triad member.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior portal-systemic collateral drainage; the new objective is recognize the portal vein as the posterior portal triad member.",
+      "candidates": [
+        {
+          "code": "op26-0009",
+          "score": 0.2415,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0068",
+          "score": 0.1444,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0051",
+          "score": 0.1315,
+          "sameObjective": false,
+          "lexical": 0.024390243902439025
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Portal triad posterior member",
+      "objective": "Recognize the portal vein as the posterior portal triad member.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0054",
+      "concept": "pectinate-line-somatic-sensation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Associate lower anal canal pain with pudendal somatic innervation.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior appendiceal pain migration; the new objective is associate lower anal canal pain with pudendal somatic innervation.",
+      "candidates": [
+        {
+          "code": "op26x-0661",
+          "score": 0.1551,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0664",
+          "score": 0.1339,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0010",
+          "score": 0.1303,
+          "sameObjective": false,
+          "lexical": 0.02040816326530612
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Pectinate line somatic sensation",
+      "objective": "Associate lower anal canal pain with pudendal somatic innervation.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0055",
+      "concept": "splenorenal-pancreatic-tail",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Locate the pancreatic tail in the splenorenal ligament.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior celiac trunk foregut territory; the new objective is locate the pancreatic tail in the splenorenal ligament.",
+      "candidates": [
+        {
+          "code": "op26x-0053",
+          "score": 0.1001,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0188",
+          "score": 0.0812,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0014",
+          "score": 0.0752,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Splenorenal pancreatic tail",
+      "objective": "Locate the pancreatic tail in the splenorenal ligament.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0056",
+      "concept": "secondary-duodenal-retroperitoneal-fixation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain secondary retroperitoneal fixation of most of the duodenum.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior foregut arterial anatomy; the new objective is explain secondary retroperitoneal fixation of most of the duodenum.",
+      "candidates": [
+        {
+          "code": "op26-0013",
+          "score": 0.143,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0053",
+          "score": 0.132,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0607",
+          "score": 0.129,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Secondary duodenal retroperitoneal fixation",
+      "objective": "Explain secondary retroperitoneal fixation of most of the duodenum.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0057",
+      "concept": "renal-hilar-anterior-posterior-order",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Identify the renal vein as the usual anterior major hilar structure.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior renal clearance physiology; the new objective is identify the renal vein as the usual anterior major hilar structure.",
+      "candidates": [
+        {
+          "code": "op26x-0053",
+          "score": 0.213,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0009",
+          "score": 0.123,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0051",
+          "score": 0.1222,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Renal hilar anterior posterior order",
+      "objective": "Identify the renal vein as the usual anterior major hilar structure.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0058",
+      "concept": "dorsal-root-sensory-cell-bodies",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Locate primary spinal somatic sensory neuronal cell bodies.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior spinal tract crossing patterns; the new objective is locate primary spinal somatic sensory neuronal cell bodies.",
+      "candidates": [
+        {
+          "code": "op26x-0014",
+          "score": 0.2451,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0008",
+          "score": 0.1486,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0012",
+          "score": 0.1198,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Dorsal root sensory cell bodies",
+      "objective": "Locate primary spinal somatic sensory neuronal cell bodies.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0059",
+      "concept": "accessory-nerve-shoulder-shrug",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Localize weak shoulder shrug and droop to spinal accessory dysfunction.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior long thoracic scapular winging; the new objective is localize weak shoulder shrug and droop to spinal accessory dysfunction.",
+      "candidates": [
+        {
+          "code": "op26-0001",
+          "score": 0.3092,
+          "sameObjective": false,
+          "lexical": 0.05084745762711865
+        },
+        {
+          "code": "op26x-0552",
+          "score": 0.1469,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0041",
+          "score": 0.1306,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "Accessory nerve shoulder shrug",
+      "objective": "Localize weak shoulder shrug and droop to spinal accessory dysfunction.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0060",
+      "concept": "white-ramus-thoracolumbar-restriction",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Distinguish restricted thoracolumbar white rami from widespread gray rami.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior peripheral sensory ganglion localization; the new objective is distinguish restricted thoracolumbar white rami from widespread gray rami.",
+      "candidates": [
+        {
+          "code": "op26x-0446",
+          "score": 0.139,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0048",
+          "score": 0.1257,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0494",
+          "score": 0.0808,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Anatomy",
+      "topic": "White ramus thoracolumbar restriction",
+      "objective": "Distinguish restricted thoracolumbar white rami from widespread gray rami.",
+      "reference": [
+        {
+          "label": "OpenStax Anatomy and Physiology 2e; further reading",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0061",
+      "concept": "enzyme-positive-cooperativity",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Recognize positive cooperativity from sigmoidal enzyme kinetics.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior competitive enzyme inhibition; the new objective is recognize positive cooperativity from sigmoidal enzyme kinetics.",
+      "candidates": [
+        {
+          "code": "op26-0036",
+          "score": 0.1888,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0220",
+          "score": 0.0988,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0107",
+          "score": 0.0926,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Enzyme positive cooperativity",
+      "objective": "Recognize positive cooperativity from sigmoidal enzyme kinetics.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0062",
+      "concept": "ubiquitin-proteasomal-targeting",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Distinguish ubiquitin-dependent proteasomal targeting from lysosomal enzyme sorting.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior mannose-6-phosphate targeting; the new objective is distinguish ubiquitin-dependent proteasomal targeting from lysosomal enzyme sorting.",
+      "candidates": [
+        {
+          "code": "op26-0048",
+          "score": 0.1648,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0266",
+          "score": 0.1185,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0101",
+          "score": 0.0817,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Ubiquitin proteasomal targeting",
+      "objective": "Distinguish ubiquitin-dependent proteasomal targeting from lysosomal enzyme sorting.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0063",
+      "concept": "signal-recognition-particle-targeting",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain signal recognition particle targeting of secretory protein translation.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior lysosomal hydrolase Golgi sorting; the new objective is explain signal recognition particle targeting of secretory protein translation.",
+      "candidates": [
+        {
+          "code": "op26x-0216",
+          "score": 0.1318,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0062",
+          "score": 0.1277,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0112",
+          "score": 0.1192,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Signal recognition particle targeting",
+      "objective": "Explain signal recognition particle targeting of secretory protein translation.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0064",
+      "concept": "er-n-linked-glycosylation",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Identify ER N-linked glycosylation at asparagine residues.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior lysosomal carbohydrate sorting signal; the new objective is identify er n-linked glycosylation at asparagine residues.",
+      "candidates": [
+        {
+          "code": "op26x-0130",
+          "score": 0.1157,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0063",
+          "score": 0.1036,
+          "sameObjective": false,
+          "lexical": 0.023809523809523808
+        },
+        {
+          "code": "op26x-0157",
+          "score": 0.0904,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "ER N-linked glycosylation",
+      "objective": "Identify ER N-linked glycosylation at asparagine residues.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0065",
+      "concept": "er-disulfide-folding-environment",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain compartment-specific formation of secretory protein disulfide bonds.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior collagen hydroxylation; the new objective is explain compartment-specific formation of secretory protein disulfide bonds.",
+      "candidates": [
+        {
+          "code": "op26-0034",
+          "score": 0.0913,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0223",
+          "score": 0.0906,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0112",
+          "score": 0.0881,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "ER disulfide folding environment",
+      "objective": "Explain compartment-specific formation of secretory protein disulfide bonds.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0066",
+      "concept": "unfolded-protein-response-attenuation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain translational attenuation during adaptive ER stress signaling.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior secretory peptide targeting; the new objective is explain translational attenuation during adaptive er stress signaling.",
+      "candidates": [
+        {
+          "code": "op26x-0205",
+          "score": 0.125,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0738",
+          "score": 0.0836,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0698",
+          "score": 0.077,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Unfolded protein response attenuation",
+      "objective": "Explain translational attenuation during adaptive ER stress signaling.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0067",
+      "concept": "ldl-coated-pit-internalization",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Distinguish LDL surface binding from coated-pit internalization.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior soluble lysosomal enzyme targeting; the new objective is distinguish ldl surface binding from coated-pit internalization.",
+      "candidates": [
+        {
+          "code": "op26x-0781",
+          "score": 0.2495,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0782",
+          "score": 0.2241,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0779",
+          "score": 0.2148,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "LDL coated-pit internalization",
+      "objective": "Distinguish LDL surface binding from coated-pit internalization.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0068",
+      "concept": "endosomal-receptor-recycling",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain how endosomal recycling supports repeated receptor-mediated uptake.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior initial clathrin internalization; the new objective is explain how endosomal recycling supports repeated receptor-mediated uptake.",
+      "candidates": [
+        {
+          "code": "op26x-0151",
+          "score": 0.1379,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0188",
+          "score": 0.1348,
+          "sameObjective": false,
+          "lexical": 0.024390243902439025
+        },
+        {
+          "code": "op26x-0781",
+          "score": 0.1222,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Endosomal receptor recycling",
+      "objective": "Explain how endosomal recycling supports repeated receptor-mediated uptake.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0069",
+      "concept": "mitochondrial-transcript-translation",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Identify the translation site for mitochondrially encoded polypeptides.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior mitochondrial inheritance; the new objective is identify the translation site for mitochondrially encoded polypeptides.",
+      "candidates": [
+        {
+          "code": "op26x-0218",
+          "score": 0.236,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0123",
+          "score": 0.1671,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0193",
+          "score": 0.1617,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Mitochondrial transcript translation",
+      "objective": "Identify the translation site for mitochondrially encoded polypeptides.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0070",
+      "concept": "nuclear-encoded-mitochondrial-import",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Trace synthesis and targeting of a nuclear-encoded mitochondrial matrix protein.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior mitochondrial transcript translation; the new objective is trace synthesis and targeting of a nuclear-encoded mitochondrial matrix protein.",
+      "candidates": [
+        {
+          "code": "op26x-0069",
+          "score": 0.333,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0218",
+          "score": 0.2127,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0063",
+          "score": 0.1506,
+          "sameObjective": false,
+          "lexical": 0.022727272727272728
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Nuclear encoded mitochondrial import",
+      "objective": "Trace synthesis and targeting of a nuclear-encoded mitochondrial matrix protein.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0071",
+      "concept": "peroxisomal-chain-shortening",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Connect very-long-chain fatty acid accumulation to peroxisomal processing failure.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior carnitine-dependent mitochondrial lipid entry; the new objective is connect very-long-chain fatty acid accumulation to peroxisomal processing failure.",
+      "candidates": [
+        {
+          "code": "op26-0050",
+          "score": 0.334,
+          "sameObjective": false,
+          "lexical": 0.043478260869565216
+        },
+        {
+          "code": "op26x-0069",
+          "score": 0.1184,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0033",
+          "score": 0.1065,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Peroxisomal chain shortening",
+      "objective": "Connect very-long-chain fatty acid accumulation to peroxisomal processing failure.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0072",
+      "concept": "catalase-peroxide-decomposition",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Identify catalase-mediated peroxide disposal.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior NADPH-dependent glutathione defense; the new objective is identify catalase-mediated peroxide disposal.",
+      "candidates": [
+        {
+          "code": "op26x-0030",
+          "score": 0.1297,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0101",
+          "score": 0.1191,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0116",
+          "score": 0.0873,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Catalase peroxide decomposition",
+      "objective": "Identify catalase-mediated peroxide disposal.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0073",
+      "concept": "kinesin-axonal-transport",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Associate kinesin with anterograde microtubule transport in axons.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior synaptic vesicle release; the new objective is associate kinesin with anterograde microtubule transport in axons.",
+      "candidates": [
+        {
+          "code": "op26x-0270",
+          "score": 0.1701,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0058",
+          "score": 0.1309,
+          "sameObjective": false,
+          "lexical": 0.023255813953488372
+        },
+        {
+          "code": "op26x-0244",
+          "score": 0.1075,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Kinesin axonal transport",
+      "objective": "Associate kinesin with anterograde microtubule transport in axons.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0074",
+      "concept": "actin-lamellipodial-protrusion",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain actin-driven lamellipodial extension during cell migration.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior wound healing collagen deposition; the new objective is explain actin-driven lamellipodial extension during cell migration.",
+      "candidates": [
+        {
+          "code": "op26x-0188",
+          "score": 0.1624,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0120",
+          "score": 0.0938,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0128",
+          "score": 0.0765,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Actin lamellipodial protrusion",
+      "objective": "Explain actin-driven lamellipodial extension during cell migration.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0075",
+      "concept": "keratin-tensile-support",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Identify keratin intermediate filaments as epithelial tensile support.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior actin-driven migration; the new objective is identify keratin intermediate filaments as epithelial tensile support.",
+      "candidates": [
+        {
+          "code": "op26x-0196",
+          "score": 0.0991,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0125",
+          "score": 0.0575,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0256",
+          "score": 0.0566,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Keratin tensile support",
+      "objective": "Identify keratin intermediate filaments as epithelial tensile support.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0076",
+      "concept": "claudin-paracellular-barrier",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Link claudin disruption to increased paracellular permeability.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior receptor-mediated transcellular uptake; the new objective is link claudin disruption to increased paracellular permeability.",
+      "candidates": [
+        {
+          "code": "op26-0026",
+          "score": 0.0717,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0039",
+          "score": 0.0704,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0135",
+          "score": 0.0678,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Claudin paracellular barrier",
+      "objective": "Link claudin disruption to increased paracellular permeability.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0077",
+      "concept": "connexin-gap-junction-channels",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Identify connexins as gap-junction channel subunits.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior tight junction permeability; the new objective is identify connexins as gap-junction channel subunits.",
+      "candidates": [
+        {
+          "code": "op26x-0001",
+          "score": 0.1021,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0023",
+          "score": 0.1004,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0092",
+          "score": 0.0939,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Connexin gap junction channels",
+      "objective": "Identify connexins as gap-junction channel subunits.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0078",
+      "concept": "integrin-matrix-linkage",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain integrin coupling between matrix attachment and cell behavior.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior leukocyte adhesion deficiency; the new objective is explain integrin coupling between matrix attachment and cell behavior.",
+      "candidates": [
+        {
+          "code": "op26x-0779",
+          "score": 0.1377,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0070",
+          "score": 0.1304,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0177",
+          "score": 0.1114,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Integrin matrix linkage",
+      "objective": "Explain integrin coupling between matrix attachment and cell behavior.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0079",
+      "concept": "cadherin-extracellular-calcium-dependence",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain extracellular calcium dependence of cadherin-mediated adhesion.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior integrin matrix attachment; the new objective is explain extracellular calcium dependence of cadherin-mediated adhesion.",
+      "candidates": [
+        {
+          "code": "op26x-0026",
+          "score": 0.1712,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0003",
+          "score": 0.1466,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0117",
+          "score": 0.1462,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Cadherin extracellular calcium dependence",
+      "objective": "Explain extracellular calcium dependence of cadherin-mediated adhesion.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0080",
+      "concept": "importin-nuclear-localization",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Associate basic nuclear targeting sequences with importin-mediated transport.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior ER signal recognition particle; the new objective is associate basic nuclear targeting sequences with importin-mediated transport.",
+      "candidates": [
+        {
+          "code": "op26x-0070",
+          "score": 0.2914,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0063",
+          "score": 0.1564,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0026",
+          "score": 0.1552,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Importin nuclear localization",
+      "objective": "Associate basic nuclear targeting sequences with importin-mediated transport.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0081",
+      "concept": "alternative-exon-selection",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Distinguish alternative splicing from DNA mutation as a source of protein isoforms.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior DNA repair defects; the new objective is distinguish alternative splicing from dna mutation as a source of protein isoforms.",
+      "candidates": [
+        {
+          "code": "op26x-0147",
+          "score": 0.1592,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0193",
+          "score": 0.1374,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0145",
+          "score": 0.1322,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Alternative exon selection",
+      "objective": "Distinguish alternative splicing from DNA mutation as a source of protein isoforms.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0082",
+      "concept": "microrna-repression",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain microRNA-mediated reduction of target protein output.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior alternative splice isoforms; the new objective is explain microrna-mediated reduction of target protein output.",
+      "candidates": [
+        {
+          "code": "op26x-0194",
+          "score": 0.1511,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0193",
+          "score": 0.1379,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0081",
+          "score": 0.114,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "MicroRNA repression",
+      "objective": "Explain microRNA-mediated reduction of target protein output.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0083",
+      "concept": "histone-acetylation-charge",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Relate histone acetylation to chromatin accessibility through charge alteration.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior genomic imprinting; the new objective is relate histone acetylation to chromatin accessibility through charge alteration.",
+      "candidates": [
+        {
+          "code": "op26x-0146",
+          "score": 0.0661,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0049",
+          "score": 0.0569,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0779",
+          "score": 0.0502,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Histone acetylation charge",
+      "objective": "Relate histone acetylation to chromatin accessibility through charge alteration.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0084",
+      "concept": "topoisomerase-torsional-control",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Identify topoisomerase activity as the solution to replication-associated torsion.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior DNA repair pathway recognition; the new objective is identify topoisomerase activity as the solution to replication-associated torsion.",
+      "candidates": [
+        {
+          "code": "op26x-0222",
+          "score": 0.3244,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0261",
+          "score": 0.125,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0255",
+          "score": 0.1128,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Topoisomerase torsional control",
+      "objective": "Identify topoisomerase activity as the solution to replication-associated torsion.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0085",
+      "concept": "lagging-strand-polymerase-direction",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Explain Okazaki fragments from polymerase directionality and antiparallel templates.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior topoisomerase function; the new objective is explain okazaki fragments from polymerase directionality and antiparallel templates.",
+      "candidates": [
+        {
+          "code": "op26x-0163",
+          "score": 0.1392,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0255",
+          "score": 0.1301,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0207",
+          "score": 0.1262,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Lagging strand polymerase direction",
+      "objective": "Explain Okazaki fragments from polymerase directionality and antiparallel templates.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0086",
+      "concept": "telomerase-rna-template",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Identify the template role of telomerase RNA.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior lagging strand DNA synthesis; the new objective is identify the template role of telomerase rna.",
+      "candidates": [
+        {
+          "code": "op26x-0193",
+          "score": 0.2153,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0195",
+          "score": 0.1844,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0243",
+          "score": 0.1775,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biochemistry",
+      "topic": "Telomerase RNA template",
+      "objective": "Identify the template role of telomerase RNA.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0087",
+      "concept": "cellular-hypertrophy-adaptation",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Distinguish hypertrophy from hyperplasia and metaplasia.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior Barrett metaplasia; the new objective is distinguish hypertrophy from hyperplasia and metaplasia.",
+      "candidates": [
+        {
+          "code": "op26-0066",
+          "score": 0.094,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0511",
+          "score": 0.0889,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0016",
+          "score": 0.076,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pathology",
+      "topic": "Cellular hypertrophy adaptation",
+      "objective": "Distinguish hypertrophy from hyperplasia and metaplasia.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0088",
+      "concept": "disuse-atrophy-protein-balance",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain disuse atrophy through altered cellular protein balance.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior coagulative necrosis; the new objective is explain disuse atrophy through altered cellular protein balance.",
+      "candidates": [
+        {
+          "code": "op26x-0266",
+          "score": 0.1159,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0023",
+          "score": 0.1115,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0052",
+          "score": 0.0933,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pathology",
+      "topic": "Disuse atrophy protein balance",
+      "objective": "Explain disuse atrophy through altered cellular protein balance.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0089",
+      "concept": "hydropic-reversible-injury",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Link reversible hypoxic swelling to ATP-dependent pump impairment.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior ischemic necrosis morphology; the new objective is link reversible hypoxic swelling to atp-dependent pump impairment.",
+      "candidates": [
+        {
+          "code": "op26-0038",
+          "score": 0.1881,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0037",
+          "score": 0.1665,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0006",
+          "score": 0.1493,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pathology",
+      "topic": "Hydropic reversible injury",
+      "objective": "Link reversible hypoxic swelling to ATP-dependent pump impairment.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0090",
+      "concept": "reperfusion-oxidant-injury",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain reactive oxygen species as a contributor to reperfusion injury.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior electron transport inhibition; the new objective is explain reactive oxygen species as a contributor to reperfusion injury.",
+      "candidates": [
+        {
+          "code": "op26x-0183",
+          "score": 0.3273,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0025",
+          "score": 0.1023,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0108",
+          "score": 0.1019,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pathology",
+      "topic": "Reperfusion oxidant injury",
+      "objective": "Explain reactive oxygen species as a contributor to reperfusion injury.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0091",
+      "concept": "autophagic-nutrient-recycling",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Identify autophagic recycling of cytoplasm during nutrient deprivation.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior proteasomal degradation; the new objective is identify autophagic recycling of cytoplasm during nutrient deprivation.",
+      "candidates": [
+        {
+          "code": "op26x-0768",
+          "score": 0.1006,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0007",
+          "score": 0.0861,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0269",
+          "score": 0.0745,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pathology",
+      "topic": "Autophagic nutrient recycling",
+      "objective": "Identify autophagic recycling of cytoplasm during nutrient deprivation.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0092",
+      "concept": "senescence-versus-quiescence",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Distinguish senescence from reversible quiescence and cell death.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior apoptosis pathways; the new objective is distinguish senescence from reversible quiescence and cell death.",
+      "candidates": [
+        {
+          "code": "op26x-0789",
+          "score": 0.0844,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0266",
+          "score": 0.0734,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0275",
+          "score": 0.0641,
+          "sameObjective": false,
+          "lexical": 0.022727272727272728
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pathology",
+      "topic": "Senescence versus quiescence",
+      "objective": "Distinguish senescence from reversible quiescence and cell death.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0093",
+      "concept": "lipofuscin-residual-pigment",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Recognize lipofuscin as residual oxidation-associated intracellular pigment.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior dystrophic calcification; the new objective is recognize lipofuscin as residual oxidation-associated intracellular pigment.",
+      "candidates": [
+        {
+          "code": "op26-0176",
+          "score": 0.1157,
+          "sameObjective": false,
+          "lexical": 0.017543859649122806
+        },
+        {
+          "code": "op26-0159",
+          "score": 0.1038,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0050",
+          "score": 0.0999,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pathology",
+      "topic": "Lipofuscin residual pigment",
+      "objective": "Recognize lipofuscin as residual oxidation-associated intracellular pigment.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0094",
+      "concept": "hemosiderin-iron-detection",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Select Prussian blue to demonstrate hemosiderin ferric iron.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior amyloid Congo red staining; the new objective is select prussian blue to demonstrate hemosiderin ferric iron.",
+      "candidates": [
+        {
+          "code": "op26x-0179",
+          "score": 0.1615,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0093",
+          "score": 0.1439,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0056",
+          "score": 0.1075,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pathology",
+      "topic": "Hemosiderin iron detection",
+      "objective": "Select Prussian blue to demonstrate hemosiderin ferric iron.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0095",
+      "concept": "metastatic-mineral-calcification",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Distinguish systemic metastatic calcification from dystrophic deposits.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior dystrophic calcification; the new objective is distinguish systemic metastatic calcification from dystrophic deposits.",
+      "candidates": [
+        {
+          "code": "op26-0073",
+          "score": 0.5878,
+          "sameObjective": false,
+          "lexical": 0.04878048780487805
+        },
+        {
+          "code": "op26-0113",
+          "score": 0.1414,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0199",
+          "score": 0.1083,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pathology",
+      "topic": "Metastatic mineral calcification",
+      "objective": "Distinguish systemic metastatic calcification from dystrophic deposits.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0096",
+      "concept": "fat-necrosis-saponification",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Explain chalky fat necrosis through calcium-fatty-acid soap formation.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior pancreatitis diagnostic reasoning; the new objective is explain chalky fat necrosis through calcium-fatty-acid soap formation.",
+      "candidates": [
+        {
+          "code": "op26x-0071",
+          "score": 0.1693,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0033",
+          "score": 0.149,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0620",
+          "score": 0.1254,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pathology",
+      "topic": "Fat necrosis saponification",
+      "objective": "Explain chalky fat necrosis through calcium-fatty-acid soap formation.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0097",
+      "concept": "selectin-inflammatory-rolling",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Separate selectin-mediated rolling from integrin-mediated firm adhesion.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior leukocyte adhesion deficiency; the new objective is separate selectin-mediated rolling from integrin-mediated firm adhesion.",
+      "candidates": [
+        {
+          "code": "op26-0117",
+          "score": 0.2189,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0079",
+          "score": 0.1776,
+          "sameObjective": false,
+          "lexical": 0.024390243902439025
+        },
+        {
+          "code": "op26x-0319",
+          "score": 0.0989,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pathology",
+      "topic": "Selectin inflammatory rolling",
+      "objective": "Separate selectin-mediated rolling from integrin-mediated firm adhesion.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0098",
+      "concept": "pecam-junctional-diapedesis",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Associate PECAM-1 with leukocyte diapedesis through endothelial junctions.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior selectin rolling; the new objective is associate pecam-1 with leukocyte diapedesis through endothelial junctions.",
+      "candidates": [
+        {
+          "code": "op26-0117",
+          "score": 0.1679,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0097",
+          "score": 0.1646,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0186",
+          "score": 0.1441,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pathology",
+      "topic": "PECAM junctional diapedesis",
+      "objective": "Associate PECAM-1 with leukocyte diapedesis through endothelial junctions.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0099",
+      "concept": "granulation-versus-granuloma",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly described structure or process: Recognize granulation tissue and distinguish it from granulomatous inflammation.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior granulomatous inflammation; the new objective is recognize granulation tissue and distinguish it from granulomatous inflammation.",
+      "candidates": [
+        {
+          "code": "op26-0055",
+          "score": 0.4867,
+          "sameObjective": false,
+          "lexical": 0.04878048780487805
+        },
+        {
+          "code": "op26x-0186",
+          "score": 0.124,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s1-0005",
+          "score": 0.1067,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [
+        "Semantic duplicate of op26-0055: same granulation-tissue recognition key and morphology; quarantine pending independent review.",
+        "Semantic overlap candidate op26-0055 (0.4867); Both ask the learner to identify vascular fibroblast-rich granulation tissue and distinguish it from a granuloma; changed wording adds insufficient new objective."
+      ],
+      "exam": "Step 1",
+      "subject": "Pathology",
+      "topic": "Granulation versus granuloma",
+      "objective": "Recognize granulation tissue and distinguish it from granulomatous inflammation.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0100",
+      "concept": "carcinoma-basement-membrane-breach",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply one causal mechanism to the stated perturbation: Use basement membrane breach to distinguish invasive from in situ carcinoma.",
+      "evidenceNote": "Publisher or NIH indexed bibliographic identity and broad subject coverage checked. OpenStax action-potential chapter was readable; direct NCBI requests encountered human verification. Book-level further reading does not independently validate every option or vignette; no clinician review.",
+      "semanticReviewNote": "Compared with prior metaplasia and tumor suppression; the new objective is use basement membrane breach to distinguish invasive from in situ carcinoma.",
+      "candidates": [
+        {
+          "code": "op26-0174",
+          "score": 0.2194,
+          "sameObjective": false,
+          "lexical": 0.023255813953488372
+        },
+        {
+          "code": "op26-0066",
+          "score": 0.1682,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0621",
+          "score": 0.1029,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pathology",
+      "topic": "Carcinoma basement membrane breach",
+      "objective": "Use basement membrane breach to distinguish invasive from in situ carcinoma.",
+      "reference": [
+        {
+          "label": "Molecular Biology of the Cell, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+        }
+      ]
+    }
+  ]
+}
