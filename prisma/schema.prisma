@@ -1,0 +1,517 @@
+// OpenPrep data model. See docs/architecture.md for the overview.
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum Role {
+  LEARNER
+  EDITOR
+  ADMIN
+}
+
+enum QuestionType {
+  SINGLE
+  MULTIPLE
+}
+
+enum QuestionStatus {
+  DRAFT
+  REVIEW
+  PUBLISHED
+  ARCHIVED
+}
+
+enum SessionMode {
+  TUTOR
+  TIMED
+}
+
+enum SessionState {
+  CREATED
+  IN_PROGRESS
+  PAUSED
+  SUBMITTED
+  ABANDONED
+}
+
+enum ItemState {
+  UNSEEN
+  ANSWERED
+  LOCKED
+}
+
+enum ReportStatus {
+  OPEN
+  RESOLVED
+  DISMISSED
+}
+
+enum TaskKind {
+  QUESTIONS
+  REVIEW
+  FLASHCARDS
+}
+
+// ---------------------------------------------------------------- auth (Better Auth core models)
+
+model User {
+  id            String   @id
+  name          String
+  email         String   @unique
+  emailVerified Boolean  @default(false)
+  image         String?
+  role          Role     @default(LEARNER)
+  isAnonymous   Boolean? @default(false) // guest/demo account (Better Auth anonymous plugin)
+  preferences   Json     @default("{}")
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  sessions      Session[]
+  accounts      Account[]
+  testSessions  TestSession[]
+  practiceExams PracticeExam[]
+  responses     Response[]
+  bookmarks     Bookmark[]
+  notes         Note[]
+  questionTags  QuestionTag[]
+  notebookPages NotebookPage[]
+  collections   Collection[]
+  cards         Card[]
+  cardReviews   CardReview[]
+  studyPlan     StudyPlan?
+  reports       ContentReport[]  @relation("reporter")
+  authored      Question[]       @relation("author")
+  auditLogs     AuditLog[]
+
+  @@map("user")
+}
+
+model Session {
+  id        String   @id
+  expiresAt DateTime
+  token     String   @unique
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  ipAddress String?
+  userAgent String?
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@map("session")
+}
+
+model Account {
+  id                    String    @id
+  accountId             String
+  providerId            String
+  userId                String
+  user                  User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  accessToken           String?
+  refreshToken          String?
+  idToken               String?
+  accessTokenExpiresAt  DateTime?
+  refreshTokenExpiresAt DateTime?
+  scope                 String?
+  password              String?
+  createdAt             DateTime  @default(now())
+  updatedAt             DateTime  @updatedAt
+
+  @@index([userId])
+  @@map("account")
+}
+
+model Verification {
+  id         String   @id
+  identifier String
+  value      String
+  expiresAt  DateTime
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@index([identifier])
+  @@map("verification")
+}
+
+// ---------------------------------------------------------------- taxonomy
+
+model Exam {
+  id        String     @id @default(cuid())
+  slug      String     @unique
+  name      String
+  position  Int        @default(0)
+  questions Question[]
+  plans     StudyPlan[]
+
+  @@map("exam")
+}
+
+model Subject {
+  id        String     @id @default(cuid())
+  name      String     @unique
+  questions Question[]
+  topics    Topic[]
+  tasks     PlanTask[]
+
+  @@map("subject")
+}
+
+model System {
+  id        String     @id @default(cuid())
+  name      String     @unique
+  questions Question[]
+  tasks     PlanTask[]
+
+  @@map("system")
+}
+
+model Topic {
+  id        String     @id @default(cuid())
+  name      String
+  subjectId String
+  subject   Subject    @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  questions Question[]
+
+  @@unique([subjectId, name])
+  @@map("topic")
+}
+
+// ---------------------------------------------------------------- content
+
+model Question {
+  id            String         @id @default(cuid())
+  code          String         @unique // human-readable ID shown to learners, e.g. s1-0001
+  type          QuestionType   @default(SINGLE)
+  status        QuestionStatus @default(DRAFT)
+  difficulty    Int            @default(3) // 1 (easy) .. 5 (hard)
+  examId        String
+  exam          Exam           @relation(fields: [examId], references: [id])
+  subjectId     String
+  subject       Subject        @relation(fields: [subjectId], references: [id])
+  systemId      String
+  system        System         @relation(fields: [systemId], references: [id])
+  topicId       String?
+  topic         Topic?         @relation(fields: [topicId], references: [id])
+  stemMd        String
+  explanationMd String
+  objective     String?
+  keyPoints     String[]
+  references    Json           @default("[]") // [{ label, url? }]
+  imageUrl      String?
+  imageAlt      String?
+  source        String // who wrote it / where it came from
+  license       String // e.g. CC-BY-SA-4.0
+  attribution   String?
+  isDemo        Boolean        @default(false)
+  authorId      String?
+  author        User?          @relation("author", fields: [authorId], references: [id], onDelete: SetNull)
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+  publishedAt   DateTime?
+
+  options         Option[]
+  sessionItems    SessionItem[]
+  responses       Response[]
+  bookmarks       Bookmark[]
+  notes           Note[]
+  tags            QuestionTag[]
+  collectionItems CollectionItem[]
+  cards           Card[]
+  reports         ContentReport[]
+
+  @@index([examId, status])
+  @@index([subjectId])
+  @@index([systemId])
+  @@index([status, updatedAt])
+  @@map("question")
+}
+
+model Option {
+  id            String   @id @default(cuid())
+  questionId    String
+  question      Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  position      Int
+  text          String
+  isCorrect     Boolean  @default(false)
+  explanationMd String?
+
+  @@unique([questionId, position])
+  @@map("option")
+}
+
+// ---------------------------------------------------------------- practice engine
+
+model PracticeExam {
+  id             String        @id @default(cuid())
+  userId         String
+  user           User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  blocksTotal    Int
+  breakBudgetSec Int           @default(2700)
+  breakUsedSec   Int           @default(0)
+  breakStartedAt DateTime?
+  createdAt      DateTime      @default(now())
+  blocks         TestSession[]
+
+  @@index([userId, createdAt])
+  @@map("practice_exam")
+}
+
+model TestSession {
+  id              String        @id @default(cuid())
+  userId          String
+  user            User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name            String?
+  mode            SessionMode
+  state           SessionState  @default(CREATED)
+  timeLimitSec    Int? // null = untimed
+  negativeMark    Float         @default(0) // points deducted per wrong answer
+  activeMs        Int           @default(0) // time spent while IN_PROGRESS, excluding the current stretch
+  lastResumedAt   DateTime?
+  startedAt       DateTime?
+  submittedAt     DateTime?
+  currentPosition Int           @default(0)
+  positionSince   DateTime? // when the learner arrived at currentPosition; time-per-question is measured from here
+  version         Int           @default(0) // optimistic concurrency for submit
+  total           Int
+  correctCount    Int?
+  score           Float?
+  practiceExamId  String?
+  practiceExam    PracticeExam? @relation(fields: [practiceExamId], references: [id], onDelete: Cascade)
+  blockIndex      Int?
+  createdAt       DateTime      @default(now())
+  items           SessionItem[]
+
+  @@index([userId, createdAt])
+  @@index([userId, state])
+  @@map("test_session")
+}
+
+model SessionItem {
+  id                String      @id @default(cuid())
+  sessionId         String
+  session           TestSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  position          Int
+  questionId        String
+  question          Question    @relation(fields: [questionId], references: [id])
+  state             ItemState   @default(UNSEEN)
+  selectedOptionIds String[]
+  struckOptionIds   String[]
+  highlightsHtml    String? // sanitized stem HTML with <mark> tags
+  flagged           Boolean     @default(false)
+  timeMs            Int         @default(0)
+  isCorrect         Boolean?
+  points            Float?
+  answeredAt        DateTime?
+  lockedAt          DateTime?
+
+  @@unique([sessionId, position])
+  @@unique([sessionId, questionId])
+  @@map("session_item")
+}
+
+// Latest outcome per user + question. Drives the unused/incorrect/omitted/correct pools.
+model Response {
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  questionId String
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  sessionId  String
+  isCorrect  Boolean
+  omitted    Boolean
+  timeMs     Int
+  answeredAt DateTime @default(now())
+
+  @@id([userId, questionId])
+  @@index([userId, answeredAt])
+  @@map("response")
+}
+
+// ---------------------------------------------------------------- personal study tools
+
+model Bookmark {
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  questionId String
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  createdAt  DateTime @default(now())
+
+  @@id([userId, questionId])
+  @@map("bookmark")
+}
+
+model Note {
+  id         String   @id @default(cuid())
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  questionId String
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  body       String
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@unique([userId, questionId])
+  @@map("note")
+}
+
+model QuestionTag {
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  questionId String
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  tag        String
+
+  @@id([userId, questionId, tag])
+  @@index([userId, tag])
+  @@map("question_tag")
+}
+
+model NotebookPage {
+  id        String         @id @default(cuid())
+  userId    String
+  user      User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+  parentId  String?
+  parent    NotebookPage?  @relation("tree", fields: [parentId], references: [id], onDelete: Cascade)
+  children  NotebookPage[] @relation("tree")
+  title     String
+  body      String         @default("")
+  tags      String[]
+  position  Int            @default(0)
+  createdAt DateTime       @default(now())
+  updatedAt DateTime       @updatedAt
+
+  @@index([userId, parentId])
+  @@map("notebook_page")
+}
+
+model Collection {
+  id        String           @id @default(cuid())
+  userId    String
+  user      User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name      String
+  createdAt DateTime         @default(now())
+  items     CollectionItem[]
+
+  @@unique([userId, name])
+  @@map("collection")
+}
+
+model CollectionItem {
+  collectionId String
+  collection   Collection @relation(fields: [collectionId], references: [id], onDelete: Cascade)
+  questionId   String
+  question     Question   @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  addedAt      DateTime   @default(now())
+
+  @@id([collectionId, questionId])
+  @@map("collection_item")
+}
+
+model Card {
+  id         String       @id @default(cuid())
+  userId     String
+  user       User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  questionId String?
+  question   Question?    @relation(fields: [questionId], references: [id], onDelete: SetNull)
+  front      String
+  back       String
+  ease       Float        @default(2.5)
+  interval   Int          @default(0) // days
+  reps       Int          @default(0)
+  lapses     Int          @default(0)
+  due        DateTime     @default(now())
+  suspended  Boolean      @default(false)
+  createdAt  DateTime     @default(now())
+  updatedAt  DateTime     @updatedAt
+  reviews    CardReview[]
+
+  @@index([userId, due])
+  @@map("card")
+}
+
+model CardReview {
+  id         String   @id @default(cuid())
+  cardId     String
+  card       Card     @relation(fields: [cardId], references: [id], onDelete: Cascade)
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  rating     Int // 1 again, 2 hard, 3 good, 4 easy
+  durationMs Int      @default(0)
+  reviewedAt DateTime @default(now())
+
+  @@index([userId, reviewedAt])
+  @@map("card_review")
+}
+
+model StudyPlan {
+  id               String     @id @default(cuid())
+  userId           String     @unique
+  user             User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  examId           String?
+  exam             Exam?      @relation(fields: [examId], references: [id])
+  startDate        DateTime   @db.Date
+  examDate         DateTime   @db.Date
+  hoursPerDay      Float      @default(3)
+  questionsPerHour Int        @default(20)
+  restDays         Int[] // 0 = Sunday .. 6 = Saturday
+  createdAt        DateTime   @default(now())
+  updatedAt        DateTime   @updatedAt
+  tasks            PlanTask[]
+
+  @@map("study_plan")
+}
+
+model PlanTask {
+  id        String    @id @default(cuid())
+  planId    String
+  plan      StudyPlan @relation(fields: [planId], references: [id], onDelete: Cascade)
+  date      DateTime  @db.Date
+  kind      TaskKind
+  subjectId String?
+  subject   Subject?  @relation(fields: [subjectId], references: [id])
+  systemId  String?
+  system    System?   @relation(fields: [systemId], references: [id])
+  target    Int
+  done      Boolean   @default(false)
+
+  @@index([planId, date])
+  @@map("plan_task")
+}
+
+// ---------------------------------------------------------------- moderation & audit
+
+model ContentReport {
+  id           String       @id @default(cuid())
+  userId       String
+  user         User         @relation("reporter", fields: [userId], references: [id], onDelete: Cascade)
+  questionId   String
+  question     Question     @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  message      String
+  status       ReportStatus @default(OPEN)
+  resolvedById String?
+  resolvedAt   DateTime?
+  createdAt    DateTime     @default(now())
+
+  @@index([status, createdAt])
+  @@map("content_report")
+}
+
+model AuditLog {
+  id         String   @id @default(cuid())
+  actorId    String?
+  actor      User?    @relation(fields: [actorId], references: [id], onDelete: SetNull)
+  action     String // e.g. question.create, question.status, user.role, import
+  entityType String
+  entityId   String
+  diff       Json     @default("{}")
+  createdAt  DateTime @default(now())
+
+  @@index([entityType, entityId])
+  @@index([createdAt])
+  @@map("audit_log")
+}

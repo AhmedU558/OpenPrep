@@ -1,0 +1,1152 @@
+[
+  {
+    "code": "op26-0126",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Penetrance",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A pathogenic autosomal dominant variant is found in 100 adults old enough to express the associated condition. Seventy have the defined phenotype, while 30 have no manifestations. Which term describes the observed 70% figure?",
+    "options": [
+      {
+        "text": "Allele frequency",
+        "explanation": "That is the frequency of an allele in a population rather than phenotype among carriers.",
+        "correct": false
+      },
+      {
+        "text": "Recombination frequency",
+        "explanation": "This measures separation of linked loci during meiosis.",
+        "correct": false
+      },
+      {
+        "text": "Penetrance",
+        "explanation": "It is the proportion of variant carriers who express the defined phenotype.",
+        "correct": true
+      },
+      {
+        "text": "Variable expressivity",
+        "explanation": "This describes differences in manifestation among affected individuals, not the fraction affected.",
+        "correct": false
+      }
+    ],
+    "explanation": "Penetrance asks whether a carrier expresses a specified phenotype under defined conditions. The observed fraction here is 70/100. Expressivity instead describes how the phenotype varies among people who express it. Age and ascertainment matter, which is why the stem specifies adults old enough for expected expression.",
+    "objective": "Distinguish penetrance from variable expressivity.",
+    "keyPoints": [
+      "Distinguish penetrance from variable expressivity."
+    ],
+    "references": [
+      {
+        "label": "Molecular Biology of the Cell, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0127",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Genomic imprinting",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Two children have abnormalities affecting the same chromosomal region but different syndromes depending on whether the missing active gene copy was inherited from the mother or father. Which mechanism best explains the parent-of-origin effect?",
+    "options": [
+      {
+        "text": "Universal loss of X inactivation",
+        "explanation": "This does not explain the specified parent-of-origin pattern at the same region.",
+        "correct": false
+      },
+      {
+        "text": "Genomic imprinting",
+        "explanation": "Parent-specific epigenetic silencing can leave only one parental copy active.",
+        "correct": true
+      },
+      {
+        "text": "Simple codominance",
+        "explanation": "Expression of both alleles does not explain selective parent-specific silencing.",
+        "correct": false
+      },
+      {
+        "text": "Random mitochondrial segregation alone",
+        "explanation": "The affected region is chromosomal rather than mitochondrial DNA.",
+        "correct": false
+      }
+    ],
+    "explanation": "Imprinting establishes parent-specific epigenetic expression patterns. If one parental copy is normally silent, deletion or dysfunction of the active copy can cause disease despite an intact silent allele. The resulting phenotype depends on which parent contributed the affected region and which genes normally remain active.",
+    "objective": "Explain parent-of-origin syndromes using imprinting and an active parental allele.",
+    "keyPoints": [
+      "Explain parent-of-origin syndromes using imprinting and an active parental allele."
+    ],
+    "references": [
+      {
+        "label": "Molecular Biology of the Cell, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0128",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Hardy-Weinberg carriers",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A fully penetrant autosomal recessive disease affects 1 in 10,000 individuals in a population meeting Hardy-Weinberg assumptions. Approximately what fraction are heterozygous carriers?",
+    "options": [
+      {
+        "text": "1 in 50",
+        "explanation": "q is 0.01 and 2pq is approximately 0.0198, or about 2%.",
+        "correct": true
+      },
+      {
+        "text": "1 in 100",
+        "explanation": "This is the allele frequency q, not the approximate carrier frequency.",
+        "correct": false
+      },
+      {
+        "text": "1 in 10,000",
+        "explanation": "This is q squared, the affected genotype frequency.",
+        "correct": false
+      },
+      {
+        "text": "1 in 2",
+        "explanation": "This is far above the carrier frequency implied by the rare allele.",
+        "correct": false
+      }
+    ],
+    "explanation": "For a recessive disease, affected frequency is q²=0.0001, so q=0.01 and p=0.99. Carrier frequency is 2pq=0.0198, approximately one in 50. The estimate relies on random mating and the other equilibrium assumptions; population structure or selection can make clinical carrier rates differ.",
+    "objective": "Estimate carrier frequency from recessive disease prevalence under Hardy-Weinberg assumptions.",
+    "keyPoints": [
+      "Estimate carrier frequency from recessive disease prevalence under Hardy-Weinberg assumptions."
+    ],
+    "references": [
+      {
+        "label": "CDC Principles of Epidemiology, 3rd ed.",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0129",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Balanced translocation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A phenotypically healthy adult has a balanced reciprocal translocation identified during evaluation for recurrent pregnancy loss. Which explanation best accounts for reproductive risk despite a normal phenotype?",
+    "options": [
+      {
+        "text": "Every gamete must contain a complete normal karyotype",
+        "explanation": "Balanced somatic DNA content does not guarantee balanced meiotic products.",
+        "correct": false
+      },
+      {
+        "text": "The translocation converts all autosomal genes to mitochondrial genes",
+        "explanation": "Chromosome rearrangement does not change the cellular genome compartment this way.",
+        "correct": false
+      },
+      {
+        "text": "The adult must have a severe phenotype in every balanced rearrangement",
+        "explanation": "Many balanced carriers are healthy, although breakpoint effects can occur.",
+        "correct": false
+      },
+      {
+        "text": "Meiotic segregation can create unbalanced gametes",
+        "explanation": "A balanced carrier can generate conceptions with duplicated or deleted chromosomal material.",
+        "correct": true
+      }
+    ],
+    "explanation": "A balanced reciprocal translocation may preserve overall gene dosage in the carrier while altering chromosome pairing during meiosis. Some segregation products are unbalanced, increasing miscarriage or affected-offspring risk. Risk assessment depends on the chromosomes and breakpoints, so a generic fixed recurrence percentage would be inappropriate.",
+    "objective": "Explain reproductive risk from unbalanced segregation in a balanced translocation carrier.",
+    "keyPoints": [
+      "Explain reproductive risk from unbalanced segregation in a balanced translocation carrier."
+    ],
+    "references": [
+      {
+        "label": "Molecular Biology of the Cell, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0130",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Loss of heterozygosity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient inherits one normal and one pathogenic tumor suppressor allele. Tumor DNA later contains only the pathogenic allele at that locus because the normal allele was deleted. Which genetic event is demonstrated?",
+    "options": [
+      {
+        "text": "Mitochondrial bottleneck",
+        "explanation": "This concerns mitochondrial variant segregation rather than deletion of a nuclear allele.",
+        "correct": false
+      },
+      {
+        "text": "Synonymous substitution only",
+        "explanation": "A silent base change does not explain disappearance of the normal allele.",
+        "correct": false
+      },
+      {
+        "text": "Loss of heterozygosity",
+        "explanation": "The tumor loses the remaining normal allelic contribution at the locus.",
+        "correct": true
+      },
+      {
+        "text": "Antigenic drift",
+        "explanation": "This refers to gradual microbial antigen change, not tumor allelic loss.",
+        "correct": false
+      }
+    ],
+    "explanation": "Loss of heterozygosity can remove the remaining functional tumor suppressor copy in a predisposed cell. Deletion is one mechanism; mitotic recombination and other events can also eliminate normal allelic function. The event supports a second hit but should be distinguished from simple activation of a growth-promoting oncogene.",
+    "objective": "Recognize loss of the normal tumor suppressor allele as loss of heterozygosity.",
+    "keyPoints": [
+      "Recognize loss of the normal tumor suppressor allele as loss of heterozygosity."
+    ],
+    "references": [
+      {
+        "label": "Molecular Biology of the Cell, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0131",
+    "exam": "Step 2 CK",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Decision-making capacity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An adult refuses a recommended operation. She explains her diagnosis, compares risks and benefits, understands the likely consequences, and gives a stable choice consistent with her values. Which response best respects her decision?",
+    "options": [
+      {
+        "text": "Withhold information until she agrees",
+        "explanation": "Coercion or inadequate disclosure undermines informed decision-making.",
+        "correct": false
+      },
+      {
+        "text": "Confirm voluntariness and respect the informed refusal",
+        "explanation": "A decision differing from the clinician recommendation does not itself negate capacity.",
+        "correct": true
+      },
+      {
+        "text": "Declare incapacity solely because she refuses",
+        "explanation": "Disagreement is not a capacity assessment.",
+        "correct": false
+      },
+      {
+        "text": "Seek a relative to override her immediately",
+        "explanation": "A capable adult retains authority over her own treatment decision.",
+        "correct": false
+      }
+    ],
+    "explanation": "Capacity is decision specific and includes understanding, appreciation, reasoning, and communicating a choice. A capable patient may refuse even beneficial treatment. The clinician should clarify concerns, ensure adequate information and voluntariness, document the discussion, and offer ongoing care rather than equating refusal with incapacity.",
+    "objective": "Assess capacity by decision-making abilities rather than agreement with advice.",
+    "keyPoints": [
+      "Assess capacity by decision-making abilities rather than agreement with advice."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0132",
+    "exam": "Step 2 CK",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Emergency consent",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An unconscious adult arrives with life-threatening internal bleeding. No surrogate or advance directive can be found in time, and delay would likely be fatal. Which ethical basis supports immediate necessary treatment?",
+    "options": [
+      {
+        "text": "Emergency treatment in the patient best interests when consent is unavailable",
+        "explanation": "Urgent intervention can proceed when the patient cannot decide and delay is dangerous.",
+        "correct": true
+      },
+      {
+        "text": "A permanent waiver of all future consent",
+        "explanation": "The exception does not eliminate later consent once capacity or a surrogate becomes available.",
+        "correct": false
+      },
+      {
+        "text": "Assumption that every refusal in other settings is invalid",
+        "explanation": "The emergency exception does not override a known applicable competent refusal.",
+        "correct": false
+      },
+      {
+        "text": "Permission from any unrelated bystander",
+        "explanation": "A random bystander does not become the authorized surrogate.",
+        "correct": false
+      }
+    ],
+    "explanation": "When urgent treatment is necessary and the patient cannot participate, clinicians may act in the patient interests if no applicable directive or authorized surrogate is available. The exception is limited to the emergency circumstances. Efforts to locate preferences and obtain consent should continue as soon as feasible.",
+    "objective": "Apply the emergency consent exception without treating it as unrestricted authority.",
+    "keyPoints": [
+      "Apply the emergency consent exception without treating it as unrestricted authority."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0133",
+    "exam": "Step 2 CK",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Surrogate decisions",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient lacks decision-making capacity. Her designated surrogate knows she repeatedly declined prolonged mechanical support when recovery would be unlikely. Which standard should guide a decision when these prior wishes clearly apply?",
+    "options": [
+      {
+        "text": "The surrogate personal preferences alone",
+        "explanation": "The surrogate role is to represent the patient, not replace her values.",
+        "correct": false
+      },
+      {
+        "text": "A fixed rule to use every available intervention",
+        "explanation": "Available technology does not determine the patient preferred goals.",
+        "correct": false
+      },
+      {
+        "text": "A vote among all visitors",
+        "explanation": "Decision authority and patient wishes are not determined by informal majority vote.",
+        "correct": false
+      },
+      {
+        "text": "Substituted judgment based on the patient known values",
+        "explanation": "The surrogate should represent what the patient would choose.",
+        "correct": true
+      }
+    ],
+    "explanation": "Substituted judgment uses the patient prior statements, preferences, and values to guide decisions when capacity is absent. When those are unknown, a best-interests standard is used. Clinicians should verify the surrogate authority and the applicability of the stated wishes rather than asking the surrogate to choose only from personal preference.",
+    "objective": "Distinguish substituted judgment from a best-interests decision.",
+    "keyPoints": [
+      "Distinguish substituted judgment from a best-interests decision."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0134",
+    "exam": "Step 2 CK",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Informed consent disclosure",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Before an elective procedure, a physician describes its benefit but omits a material complication because she fears the patient may decline. The patient has capacity and wants full information. Which improvement is most appropriate?",
+    "options": [
+      {
+        "text": "Ask the family to keep the risk secret",
+        "explanation": "Family preference does not justify withholding requested material information.",
+        "correct": false
+      },
+      {
+        "text": "Describe only complications that have already occurred",
+        "explanation": "Prospective decisions require discussion of relevant potential harms.",
+        "correct": false
+      },
+      {
+        "text": "Discuss material risks, alternatives and the option of no procedure",
+        "explanation": "Meaningful choice requires balanced information relevant to the decision.",
+        "correct": true
+      },
+      {
+        "text": "Obtain a signature without further discussion",
+        "explanation": "A form alone does not establish understanding or adequate disclosure.",
+        "correct": false
+      }
+    ],
+    "explanation": "Informed consent is a communication process, not simply a signed form. It includes the nature of the intervention, expected benefits, material risks, alternatives, and consequences of declining. Disclosure should be understandable and responsive to the patient questions; fear of refusal does not itself justify concealment.",
+    "objective": "Include material risks and alternatives in informed consent.",
+    "keyPoints": [
+      "Include material risks and alternatives in informed consent."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0135",
+    "exam": "Step 2 CK",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Professional interpreter",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with limited proficiency in the clinic language needs to discuss a sensitive diagnosis. Her young child offers to interpret. A qualified interpreter is available. Which approach best supports accurate, voluntary communication?",
+    "options": [
+      {
+        "text": "Proceed without checking understanding",
+        "explanation": "Language barriers make confirmation of comprehension especially important.",
+        "correct": false
+      },
+      {
+        "text": "Use the qualified interpreter and address the patient directly",
+        "explanation": "This improves accuracy and privacy while keeping the patient central.",
+        "correct": true
+      },
+      {
+        "text": "Use the child for all sensitive details by default",
+        "explanation": "A child may lack vocabulary and may be burdened by sensitive content.",
+        "correct": false
+      },
+      {
+        "text": "Speak only to the interpreter and ignore the patient",
+        "explanation": "The patient remains the decision-maker and should be addressed directly.",
+        "correct": false
+      }
+    ],
+    "explanation": "A qualified interpreter supports accurate communication, confidentiality, and informed choice. Clinicians should speak to the patient, use clear segments, and confirm understanding rather than directing the entire encounter to the interpreter. Family involvement may be welcomed by the patient, but it should not replace appropriate professional interpretation by default.",
+    "objective": "Use qualified interpretation to support patient understanding and autonomy.",
+    "keyPoints": [
+      "Use qualified interpretation to support patient understanding and autonomy."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0136",
+    "exam": "Step 2 CK",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Error disclosure",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A clinician discovers that a patient received an incorrect medication dose. The patient is stable but requires monitoring. Which response best fulfills professional duties?",
+    "options": [
+      {
+        "text": "Assess harm promptly, explain known facts and the care plan, and report the event",
+        "explanation": "Transparent disclosure and safety action should accompany immediate clinical assessment.",
+        "correct": true
+      },
+      {
+        "text": "Hide the event because no permanent harm is yet evident",
+        "explanation": "Absence of demonstrated permanent harm does not remove disclosure duties.",
+        "correct": false
+      },
+      {
+        "text": "Alter the record to match the intended dose",
+        "explanation": "Falsification undermines care and accountability.",
+        "correct": false
+      },
+      {
+        "text": "Blame an individual before reviewing the facts",
+        "explanation": "Premature blame does not replace factual disclosure and system evaluation.",
+        "correct": false
+      }
+    ],
+    "explanation": "The first priority is patient assessment and appropriate mitigation. The clinician should communicate what is known, explain uncertainty and next steps, and use institutional reporting processes. Honest disclosure can include an apology without speculation; the record should accurately reflect events and corrective care.",
+    "objective": "Pair factual error disclosure with immediate harm assessment and reporting.",
+    "keyPoints": [
+      "Pair factual error disclosure with immediate harm assessment and reporting."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0137",
+    "exam": "Step 2 CK",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Confidentiality",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient spouse calls asking for the result of a sensitive test. The patient has capacity and has explicitly declined permission to share it. No emergency or disclosure exception applies. What should the clinician do?",
+    "options": [
+      {
+        "text": "Disclose because marriage always gives full access",
+        "explanation": "Relationship status alone does not override the patient stated preference.",
+        "correct": false
+      },
+      {
+        "text": "Send the result to every family member",
+        "explanation": "This expands unauthorized disclosure rather than protecting privacy.",
+        "correct": false
+      },
+      {
+        "text": "Tell the spouse a false result",
+        "explanation": "Lying is not an appropriate way to maintain confidentiality.",
+        "correct": false
+      },
+      {
+        "text": "Maintain confidentiality and invite the patient to discuss sharing if desired",
+        "explanation": "A spouse is not automatically entitled to confidential results from a capable adult.",
+        "correct": true
+      }
+    ],
+    "explanation": "Confidentiality supports trust and patient control over personal information. With a capable patient and no applicable exception, the clinician should not release the result against an explicit refusal. The clinician can explain the confidentiality policy without confirming sensitive details and can explore the patient concerns about disclosure.",
+    "objective": "Protect confidential results when a capable patient declines family disclosure.",
+    "keyPoints": [
+      "Protect confidential results when a capable patient declines family disclosure."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0138",
+    "exam": "Step 2 CK",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Teach-back",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "After explaining a new medication, a clinician asks, \"So I can check how clearly I explained it, how will you take this at home?\" Which communication method is being used?",
+    "options": [
+      {
+        "text": "A substitute for consent disclosure",
+        "explanation": "Checking understanding complements rather than replaces material information.",
+        "correct": false
+      },
+      {
+        "text": "Coercive persuasion",
+        "explanation": "The stated approach invites explanation rather than pressuring agreement.",
+        "correct": false
+      },
+      {
+        "text": "Teach-back",
+        "explanation": "The patient explains the plan in their own words to reveal misunderstandings.",
+        "correct": true
+      },
+      {
+        "text": "A test of intelligence",
+        "explanation": "The method evaluates communication success, not the patient worth or intelligence.",
+        "correct": false
+      }
+    ],
+    "explanation": "Teach-back checks whether the clinician communicated effectively by asking the patient to restate the plan. Framing it as a check on the explanation reduces shame and makes gaps easier to correct. It is useful across literacy levels and should lead to clarification rather than blame when understanding is incomplete.",
+    "objective": "Use teach-back to verify understanding without shaming the patient.",
+    "keyPoints": [
+      "Use teach-back to verify understanding without shaming the patient."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0139",
+    "exam": "Step 2 CK",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Research voluntariness",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A physician invites her patient to join a study and says that declining will not affect access to ordinary care. She explains alternatives, risks, and the right to withdraw. Which ethical concern does the reassurance about ordinary care most directly address?",
+    "options": [
+      {
+        "text": "Replacement of independent ethics review",
+        "explanation": "Individual consent does not substitute for appropriate review.",
+        "correct": false
+      },
+      {
+        "text": "Voluntariness and undue influence",
+        "explanation": "Patients should not feel forced to enroll to preserve clinical care.",
+        "correct": true
+      },
+      {
+        "text": "Automatic proof that the study is effective",
+        "explanation": "A voluntary consent process does not establish treatment efficacy.",
+        "correct": false
+      },
+      {
+        "text": "Elimination of all research risk",
+        "explanation": "Disclosure and choice do not remove biological or procedural risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "The clinical relationship can create perceived pressure to join research. Clear separation of care access from enrollment supports voluntariness. Research consent also requires understanding, honest uncertainty, and appropriate oversight; a patient signature or willingness alone does not show the study intervention is beneficial.",
+    "objective": "Protect research voluntariness within an ongoing clinical relationship.",
+    "keyPoints": [
+      "Protect research voluntariness within an ongoing clinical relationship."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0140",
+    "exam": "Step 2 CK",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Advance directives",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with capacity has an old advance directive declining intubation but now clearly requests a time-limited trial after discussing the current illness. Which preference should guide care?",
+    "options": [
+      {
+        "text": "The current informed decision after confirming capacity and voluntariness",
+        "explanation": "A capable patient can revise prior treatment preferences.",
+        "correct": true
+      },
+      {
+        "text": "The old document regardless of the current decision",
+        "explanation": "Advance directives primarily guide care when the patient cannot decide.",
+        "correct": false
+      },
+      {
+        "text": "The preference of a relative who disagrees",
+        "explanation": "A capable patient current choice has priority over a relative preference.",
+        "correct": false
+      },
+      {
+        "text": "An automatic lifetime ban on changing directives",
+        "explanation": "Preferences can change and should be documented accurately.",
+        "correct": false
+      }
+    ],
+    "explanation": "Advance directives preserve preferences for periods when direct decision-making is unavailable. A capable patient current informed choice can revise earlier instructions. The team should clarify the scope and goals of the trial, update documentation, and communicate the change to reduce later confusion.",
+    "objective": "Recognize that current capable choices can revise an earlier advance directive.",
+    "keyPoints": [
+      "Recognize that current capable choices can revise an earlier advance directive."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0141",
+    "exam": "Step 1",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Sensitivity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A diagnostic study includes 100 people with disease confirmed by a valid reference standard. The new test is positive in 85 and negative in 15. What is the sensitivity?",
+    "options": [
+      {
+        "text": "15%",
+        "explanation": "This is the false-negative proportion among diseased participants.",
+        "correct": false
+      },
+      {
+        "text": "50%",
+        "explanation": "This cannot be derived as sensitivity from these counts.",
+        "correct": false
+      },
+      {
+        "text": "100%",
+        "explanation": "Fifteen diseased participants had negative results.",
+        "correct": false
+      },
+      {
+        "text": "85%",
+        "explanation": "Sensitivity is true positives divided by all people with disease: 85/100.",
+        "correct": true
+      }
+    ],
+    "explanation": "Sensitivity is P(test positive | disease present). The denominator includes all reference-standard-positive participants, not all positive index tests. Here 85/(85+15)=85%. Specificity and predictive values require information about the nondiseased group or the distribution of test-positive results and cannot be inferred from these numbers alone.",
+    "objective": "Calculate sensitivity using the diseased group as denominator.",
+    "keyPoints": [
+      "Calculate sensitivity using the diseased group as denominator."
+    ],
+    "references": [
+      {
+        "label": "CDC Principles of Epidemiology, 3rd ed.",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0142",
+    "exam": "Step 1",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Specificity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A screening study includes 200 people without disease according to a valid reference standard. The index test is negative in 180 and positive in 20. What is its specificity?",
+    "options": [
+      {
+        "text": "80%",
+        "explanation": "This does not follow the provided true-negative denominator.",
+        "correct": false
+      },
+      {
+        "text": "100%",
+        "explanation": "Twenty nondiseased participants had positive results.",
+        "correct": false
+      },
+      {
+        "text": "90%",
+        "explanation": "Specificity equals true negatives divided by all nondiseased people: 180/200.",
+        "correct": true
+      },
+      {
+        "text": "10%",
+        "explanation": "This is the false-positive rate among nondiseased participants.",
+        "correct": false
+      }
+    ],
+    "explanation": "Specificity is P(test negative | disease absent), calculated as TN/(TN+FP). Here 180/(180+20)=90%. It is different from the probability of being disease free after a negative test, which is the negative predictive value and depends additionally on disease prevalence in the tested population.",
+    "objective": "Distinguish specificity from negative predictive value.",
+    "keyPoints": [
+      "Distinguish specificity from negative predictive value."
+    ],
+    "references": [
+      {
+        "label": "CDC Principles of Epidemiology, 3rd ed.",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0143",
+    "exam": "Step 1",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Positive predictive value",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "In a representative tested population, a test produces 40 true positives, 60 false positives, 10 false negatives, and 890 true negatives. What proportion of positive results represent true disease?",
+    "options": [
+      {
+        "text": "4%",
+        "explanation": "This uses all 1000 tested people as the denominator.",
+        "correct": false
+      },
+      {
+        "text": "40%",
+        "explanation": "PPV equals 40 divided by all 100 positive results.",
+        "correct": true
+      },
+      {
+        "text": "80%",
+        "explanation": "This is sensitivity: 40 divided by the 50 people with disease.",
+        "correct": false
+      },
+      {
+        "text": "94%",
+        "explanation": "This roughly reflects specificity rather than the requested positive-result probability.",
+        "correct": false
+      }
+    ],
+    "explanation": "Positive predictive value asks P(disease | positive test), so the denominator is all positive tests. PPV=40/(40+60)=40%. This differs from sensitivity, which conditions on disease first. Even a useful test may have modest PPV when disease prevalence is low and false positives outnumber true positives.",
+    "objective": "Calculate positive predictive value from true and false positive results.",
+    "keyPoints": [
+      "Calculate positive predictive value from true and false positive results."
+    ],
+    "references": [
+      {
+        "label": "CDC Principles of Epidemiology, 3rd ed.",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0144",
+    "exam": "Step 1",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Prevalence and predictive value",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A test with unchanged sensitivity and specificity is used in two otherwise comparable populations. The second has a much lower disease prevalence. What happens to positive predictive value?",
+    "options": [
+      {
+        "text": "It decreases",
+        "explanation": "With fewer diseased people, false positives comprise a larger share of positive tests.",
+        "correct": true
+      },
+      {
+        "text": "It necessarily increases",
+        "explanation": "Lower prevalence generally moves PPV in the opposite direction.",
+        "correct": false
+      },
+      {
+        "text": "It is fixed by sensitivity alone",
+        "explanation": "PPV depends on prevalence and specificity as well as sensitivity.",
+        "correct": false
+      },
+      {
+        "text": "It becomes identical to specificity",
+        "explanation": "These probabilities condition on different events.",
+        "correct": false
+      }
+    ],
+    "explanation": "At lower prevalence there are fewer true disease cases available to produce true positives, while the larger nondiseased group still generates false positives at the same false-positive rate. PPV therefore falls under the stated assumptions. Test properties may also vary with clinical spectrum in real populations, a separate issue from this arithmetic effect.",
+    "objective": "Predict the effect of lower disease prevalence on PPV.",
+    "keyPoints": [
+      "Predict the effect of lower disease prevalence on PPV."
+    ],
+    "references": [
+      {
+        "label": "CDC Principles of Epidemiology, 3rd ed.",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0145",
+    "exam": "Step 1",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Relative risk",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "In a cohort, 30 of 300 exposed participants and 15 of 300 unexposed participants develop disease over the same follow-up. What is the relative risk for exposed participants?",
+    "options": [
+      {
+        "text": "0.5",
+        "explanation": "This reverses the exposed and unexposed comparison.",
+        "correct": false
+      },
+      {
+        "text": "0.05",
+        "explanation": "This is the absolute risk difference, not the risk ratio.",
+        "correct": false
+      },
+      {
+        "text": "1.0",
+        "explanation": "The disease risks in the two groups are not equal.",
+        "correct": false
+      },
+      {
+        "text": "2.0",
+        "explanation": "The risks are 0.10 and 0.05, giving a ratio of two.",
+        "correct": true
+      }
+    ],
+    "explanation": "Relative risk compares cumulative incidence in the exposed group with that in the unexposed group. Here (30/300)/(15/300)=2.0. The absolute difference is five percentage points. A risk ratio quantifies association but does not by itself establish causation or address confounding and follow-up differences.",
+    "objective": "Distinguish relative risk from absolute risk difference in a cohort.",
+    "keyPoints": [
+      "Distinguish relative risk from absolute risk difference in a cohort."
+    ],
+    "references": [
+      {
+        "label": "CDC Principles of Epidemiology, 3rd ed.",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0146",
+    "exam": "Step 1",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Odds ratio",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A case-control study finds prior exposure in 60 of 100 cases and 30 of 100 controls. What is the exposure odds ratio comparing cases with controls?",
+    "options": [
+      {
+        "text": "0.286",
+        "explanation": "This is the reciprocal of the requested odds ratio.",
+        "correct": false
+      },
+      {
+        "text": "0.30",
+        "explanation": "This is the difference in exposure proportions, not an odds ratio.",
+        "correct": false
+      },
+      {
+        "text": "3.5",
+        "explanation": "The cross-product ratio is (60×70)/(40×30)=3.5.",
+        "correct": true
+      },
+      {
+        "text": "2.0",
+        "explanation": "This compares exposure proportions rather than the odds required by this design.",
+        "correct": false
+      }
+    ],
+    "explanation": "Exposure odds among cases are 60/40 and among controls 30/70. Their ratio is 3.5. Because case-control sampling fixes the numbers of cases and controls, disease risk cannot be directly calculated from these margins. Under appropriate conditions, the odds ratio estimates a disease association; it is not always numerically close to a risk ratio.",
+    "objective": "Calculate a case-control odds ratio using the cross-product.",
+    "keyPoints": [
+      "Calculate a case-control odds ratio using the cross-product."
+    ],
+    "references": [
+      {
+        "label": "CDC Principles of Epidemiology, 3rd ed.",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0147",
+    "exam": "Step 1",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Number needed to treat",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A randomized trial reports an event rate of 12% with control and 8% with treatment over two years. What is the number needed to treat to prevent one event over this period?",
+    "options": [
+      {
+        "text": "33",
+        "explanation": "This confuses the approximate relative risk reduction with the reciprocal absolute difference.",
+        "correct": false
+      },
+      {
+        "text": "25",
+        "explanation": "Absolute risk reduction is 0.04, and its reciprocal is 25.",
+        "correct": true
+      },
+      {
+        "text": "4",
+        "explanation": "This treats percentage points as a proportion without conversion.",
+        "correct": false
+      },
+      {
+        "text": "8",
+        "explanation": "This is the treated event percentage rather than an NNT.",
+        "correct": false
+      }
+    ],
+    "explanation": "Absolute risk reduction is 0.12-0.08=0.04, so NNT=1/0.04=25. The two-year time horizon is essential because event risks accumulate over time. Relative risk reduction is about one third, but NNT uses the absolute difference and varies with baseline risk even when relative effects are similar.",
+    "objective": "Calculate NNT from absolute risk reduction with a stated follow-up period.",
+    "keyPoints": [
+      "Calculate NNT from absolute risk reduction with a stated follow-up period."
+    ],
+    "references": [
+      {
+        "label": "CDC Principles of Epidemiology, 3rd ed.",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0148",
+    "exam": "Step 1",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Confidence intervals",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A trial reports a risk ratio of 0.80 with a 95% confidence interval of 0.62 to 1.04. Using a conventional two-sided 5% significance threshold, which interpretation is most appropriate?",
+    "options": [
+      {
+        "text": "The result is not statistically significant because the interval includes 1",
+        "explanation": "One is the null value for a risk ratio.",
+        "correct": true
+      },
+      {
+        "text": "The treatment is proven to have no effect",
+        "explanation": "Failure to exclude the null does not prove equivalence.",
+        "correct": false
+      },
+      {
+        "text": "There is a 95% probability that this fixed parameter lies in this realized interval",
+        "explanation": "That is not the standard frequentist interpretation of a confidence interval.",
+        "correct": false
+      },
+      {
+        "text": "The interval excludes every clinically useful benefit",
+        "explanation": "The lower bound includes a potentially meaningful reduction in risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "The confidence interval includes the null risk ratio of 1, so the conventional two-sided test would not reject no association at the 5% level. It also contains benefit and slight harm. Statistical nonsignificance does not establish equivalence; precision and clinically relevant effect sizes must be considered.",
+    "objective": "Interpret a risk-ratio interval containing the null without claiming equivalence.",
+    "keyPoints": [
+      "Interpret a risk-ratio interval containing the null without claiming equivalence."
+    ],
+    "references": [
+      {
+        "label": "CDC Principles of Epidemiology, 3rd ed.",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0149",
+    "exam": "Step 1",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Confounding",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A study links coffee drinking to lung cancer. Coffee drinkers smoke more frequently, and smoking independently increases lung cancer risk without lying on a causal pathway from coffee. Which role does smoking play?",
+    "options": [
+      {
+        "text": "Mediator by definition",
+        "explanation": "The stem excludes smoking as a consequence on the proposed coffee pathway.",
+        "correct": false
+      },
+      {
+        "text": "Random measurement error only",
+        "explanation": "The systematic exposure-outcome relationship is not merely random noise.",
+        "correct": false
+      },
+      {
+        "text": "Proof of a coffee carcinogenic effect",
+        "explanation": "An uncontrolled common factor can distort rather than prove that association.",
+        "correct": false
+      },
+      {
+        "text": "Confounder",
+        "explanation": "It is associated with the exposure and independently with the outcome.",
+        "correct": true
+      }
+    ],
+    "explanation": "A confounder is associated with exposure and outcome and is not an intermediate in the exposure effect being estimated. Smoking can generate or exaggerate an apparent coffee-cancer association. Design and analysis methods can address measured confounders, but adjustment does not guarantee removal of unmeasured or poorly measured confounding.",
+    "objective": "Identify a nonmediating shared risk factor as a confounder.",
+    "keyPoints": [
+      "Identify a nonmediating shared risk factor as a confounder."
+    ],
+    "references": [
+      {
+        "label": "CDC Principles of Epidemiology, 3rd ed.",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0150",
+    "exam": "Step 1",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Lead-time bias",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A new cancer screening test diagnoses disease two years earlier. Survival measured from diagnosis increases, but the age at death and population cancer mortality remain unchanged. Which bias best explains the apparent survival improvement?",
+    "options": [
+      {
+        "text": "Loss-to-follow-up bias",
+        "explanation": "The stem does not describe selective missing outcomes.",
+        "correct": false
+      },
+      {
+        "text": "A proven mortality benefit",
+        "explanation": "Unchanged age at death and mortality contradict that inference.",
+        "correct": false
+      },
+      {
+        "text": "Lead-time bias",
+        "explanation": "Earlier starting of the survival clock increases measured survival without delaying death.",
+        "correct": true
+      },
+      {
+        "text": "Recall bias",
+        "explanation": "This concerns differential recollection of past exposure, not the survival clock.",
+        "correct": false
+      }
+    ],
+    "explanation": "Screening can advance the date of diagnosis without altering the natural course, mechanically lengthening survival from diagnosis. Mortality and other appropriately chosen endpoints are needed to judge benefit. Length bias is related but distinct: it reflects preferential detection of slower-growing disease rather than the clock shift alone.",
+    "objective": "Distinguish lead-time bias from a true screening mortality benefit.",
+    "keyPoints": [
+      "Distinguish lead-time bias from a true screening mortality benefit."
+    ],
+    "references": [
+      {
+        "label": "CDC Principles of Epidemiology, 3rd ed.",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

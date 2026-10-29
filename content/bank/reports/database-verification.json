@@ -1,0 +1,28 @@
+{
+  "verifiedAt": "2026-10-29T17:52:11.759Z",
+  "total": 1028,
+  "expected": 200,
+  "persisted": 200,
+  "available": 200,
+  "optionCount": 800,
+  "medicallyReviewed": 0,
+  "authorship": "AI-authored; medically unreviewed",
+  "subjects": {
+    "Anatomy": 15,
+    "Biochemistry": 15,
+    "Biostatistics": 10,
+    "Ethics": 10,
+    "Genetics": 10,
+    "Immunology": 10,
+    "Medicine": 30,
+    "Microbiology": 15,
+    "Obstetrics": 5,
+    "Pathology": 25,
+    "Pediatrics": 5,
+    "Pharmacology": 20,
+    "Physiology": 20,
+    "Surgery": 10
+  },
+  "mismatches": [],
+  "validationErrors": []
+}

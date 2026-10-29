@@ -1,0 +1,173 @@
+{
+  "batch": 1,
+  "at": "2026-10-29T13:05:58.409Z",
+  "digest": "15222e19f504420dbeb6316d5c2e6cea7ff99c2b72368c53bd5e1ddc5a234103",
+  "before": 232,
+  "after": 232,
+  "imported": 0,
+  "skipped": 25,
+  "rejected": 0,
+  "quarantined": 0,
+  "errors": [],
+  "coverage": [
+    {
+      "code": "op26-0001",
+      "subject": "Anatomy",
+      "topic": "Axillary nerve",
+      "objective": "Localize axillary injury using deltoid weakness and lateral shoulder numbness."
+    },
+    {
+      "code": "op26-0002",
+      "subject": "Anatomy",
+      "topic": "Long thoracic nerve",
+      "objective": "Recognize medial scapular winging from long thoracic nerve injury."
+    },
+    {
+      "code": "op26-0003",
+      "subject": "Anatomy",
+      "topic": "Common fibular nerve",
+      "objective": "Use preserved inversion to distinguish common fibular neuropathy from L5 root disease."
+    },
+    {
+      "code": "op26-0004",
+      "subject": "Anatomy",
+      "topic": "Median nerve",
+      "objective": "Localize carpal tunnel syndrome using sparing of thenar skin sensation."
+    },
+    {
+      "code": "op26-0005",
+      "subject": "Anatomy",
+      "topic": "Femoral nerve",
+      "objective": "Link quadriceps weakness, patellar reflex loss and saphenous sensory loss."
+    },
+    {
+      "code": "op26-0006",
+      "subject": "Anatomy",
+      "topic": "Cavernous sinus",
+      "objective": "Identify cranial nerve VI dysfunction from failure of ocular abduction."
+    },
+    {
+      "code": "op26-0007",
+      "subject": "Anatomy",
+      "topic": "Optic chiasm",
+      "objective": "Map bitemporal field loss to crossing nasal retinal fibers."
+    },
+    {
+      "code": "op26-0008",
+      "subject": "Anatomy",
+      "topic": "Spinal cord tracts",
+      "objective": "Explain crossed pain-temperature loss in a spinal hemisection."
+    },
+    {
+      "code": "op26-0009",
+      "subject": "Anatomy",
+      "topic": "Portal-systemic connections",
+      "objective": "Trace the portal-systemic pathway underlying esophageal varices."
+    },
+    {
+      "code": "op26-0010",
+      "subject": "Anatomy",
+      "topic": "Foregut blood supply",
+      "objective": "Distinguish celiac foregut supply from mesenteric territories."
+    },
+    {
+      "code": "op26-0011",
+      "subject": "Anatomy",
+      "topic": "Ureter and uterine artery",
+      "objective": "Recognize the ureter beneath the uterine artery near the cervix."
+    },
+    {
+      "code": "op26-0012",
+      "subject": "Anatomy",
+      "topic": "Phrenic nerve",
+      "objective": "Relate phrenic root anatomy to unilateral diaphragmatic paralysis."
+    },
+    {
+      "code": "op26-0013",
+      "subject": "Anatomy",
+      "topic": "Coronary dominance",
+      "objective": "Define coronary dominance using the posterior interventricular artery."
+    },
+    {
+      "code": "op26-0014",
+      "subject": "Anatomy",
+      "topic": "Recurrent laryngeal nerve",
+      "objective": "Associate arch lesions with left recurrent laryngeal palsy."
+    },
+    {
+      "code": "op26-0015",
+      "subject": "Anatomy",
+      "topic": "Inguinal canal",
+      "objective": "Classify inguinal hernias by the inferior epigastric vessels."
+    },
+    {
+      "code": "op26-0016",
+      "subject": "Physiology",
+      "topic": "Pressure-volume loops",
+      "objective": "Predict the immediate effect of increased afterload on ventricular ejection."
+    },
+    {
+      "code": "op26-0017",
+      "subject": "Physiology",
+      "topic": "Baroreceptor reflex",
+      "objective": "Connect orthostatic baroreceptor unloading to autonomic compensation."
+    },
+    {
+      "code": "op26-0018",
+      "subject": "Physiology",
+      "topic": "Alveolar ventilation",
+      "objective": "Apply the inverse relationship between PaCO2 and alveolar ventilation."
+    },
+    {
+      "code": "op26-0019",
+      "subject": "Physiology",
+      "topic": "Diffusion capacity",
+      "objective": "Distinguish emphysema from asthma using loss of diffusion surface."
+    },
+    {
+      "code": "op26-0020",
+      "subject": "Physiology",
+      "topic": "Renal clearance",
+      "objective": "Calculate GFR from clearance of a filtration-only marker."
+    },
+    {
+      "code": "op26-0021",
+      "subject": "Physiology",
+      "topic": "Glucose transport maximum",
+      "objective": "Explain glucosuria through saturable proximal tubular reabsorption."
+    },
+    {
+      "code": "op26-0022",
+      "subject": "Physiology",
+      "topic": "Thyroid feedback",
+      "objective": "Use paired TSH and free T4 to identify primary thyroid failure."
+    },
+    {
+      "code": "op26-0023",
+      "subject": "Physiology",
+      "topic": "Insulin signaling",
+      "objective": "Identify GLUT4 trafficking as the rapid muscle response to insulin."
+    },
+    {
+      "code": "op26-0024",
+      "subject": "Physiology",
+      "topic": "Pancreatic bicarbonate",
+      "objective": "Distinguish secretin-mediated duct secretion from other gut hormone effects."
+    },
+    {
+      "code": "op26-0025",
+      "subject": "Physiology",
+      "topic": "Oxygen dissociation curve",
+      "objective": "Relate a right shift and increased P50 to enhanced tissue oxygen unloading."
+    }
+  ],
+  "persisted": 25,
+  "practiceAvailable": 25,
+  "firstImport": {
+    "at": "2026-10-29T12:31:32.391Z",
+    "before": 32,
+    "after": 57,
+    "imported": 25,
+    "digest": "15222e19f504420dbeb6316d5c2e6cea7ff99c2b72368c53bd5e1ddc5a234103"
+  }
+}

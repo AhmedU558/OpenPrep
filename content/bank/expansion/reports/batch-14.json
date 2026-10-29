@@ -1,0 +1,4129 @@
+{
+  "batch": 14,
+  "at": "2026-10-29T17:50:45.598Z",
+  "digest": "222f5b8f961d49607f4589a607f6bb1fb3483ee9e46bce34b605b37f3546fb0d",
+  "generated": 100,
+  "eligible": 99,
+  "rejected": 0,
+  "quarantined": 1,
+  "imported": 0,
+  "skipped": 99,
+  "available": 99,
+  "persisted": 99,
+  "stored": 100,
+  "storedReview": 1,
+  "before": 1028,
+  "after": 1028,
+  "mismatches": [],
+  "firstImport": {
+    "at": "2026-10-29T13:45:19.442Z",
+    "before": 332,
+    "after": 432,
+    "imported": 100,
+    "digest": "222f5b8f961d49607f4589a607f6bb1fb3483ee9e46bce34b605b37f3546fb0d"
+  },
+  "items": [
+    {
+      "code": "op26x-0501",
+      "concept": "bronchiolitis-antibiotic-stewardship",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated disease principle to the vignette: Use respiratory pattern and absence of a bacterial focus to avoid unnecessary antibiotics.",
+      "evidenceNote": "CDC: Pediatric outpatient clinical care: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Use respiratory pattern and absence of a bacterial focus to avoid unnecessary antibiotics.",
+      "candidates": [
+        {
+          "code": "op26x-0411",
+          "score": 0.2548,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0381",
+          "score": 0.0974,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0629",
+          "score": 0.0936,
+          "sameObjective": false,
+          "lexical": 0.014492753623188406
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Bronchiolitis antibiotic stewardship",
+      "objective": "Use respiratory pattern and absence of a bacterial focus to avoid unnecessary antibiotics.",
+      "reference": [
+        {
+          "label": "CDC: Pediatric outpatient clinical care",
+          "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0502",
+      "concept": "sinusitis-double-worsening",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Interpret worsening after initial recovery as a bacterial sinusitis pattern.",
+      "evidenceNote": "CDC: Pediatric outpatient clinical care: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Interpret worsening after initial recovery as a bacterial sinusitis pattern.",
+      "candidates": [
+        {
+          "code": "op26x-0676",
+          "score": 0.1293,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0400",
+          "score": 0.1259,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0312",
+          "score": 0.1217,
+          "sameObjective": false,
+          "lexical": 0.015873015873015872
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Sinusitis double worsening",
+      "objective": "Interpret worsening after initial recovery as a bacterial sinusitis pattern.",
+      "reference": [
+        {
+          "label": "CDC: Pediatric outpatient clinical care",
+          "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0503",
+      "concept": "otitis-media-diagnostic-threshold",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated disease principle to the vignette: Require effusion rather than membrane redness alone for acute otitis media.",
+      "evidenceNote": "CDC: Pediatric outpatient clinical care: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Require effusion rather than membrane redness alone for acute otitis media.",
+      "candidates": [
+        {
+          "code": "op26-0071",
+          "score": 0.1203,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s1-0006",
+          "score": 0.1178,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0460",
+          "score": 0.0879,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Otitis media diagnostic threshold",
+      "objective": "Require effusion rather than membrane redness alone for acute otitis media.",
+      "reference": [
+        {
+          "label": "CDC: Pediatric outpatient clinical care",
+          "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0504",
+      "concept": "otitis-conjunctivitis-antibiotic-selection",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Prioritize the stated action with the clinical constraints: Use conjunctivitis as a constraint on antibiotic choice in established otitis media.",
+      "evidenceNote": "CDC: Pediatric outpatient clinical care: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Use conjunctivitis as a constraint on antibiotic choice in established otitis media.",
+      "candidates": [
+        {
+          "code": "op26x-0503",
+          "score": 0.2397,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0249",
+          "score": 0.1015,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0201",
+          "score": 0.0976,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Otitis conjunctivitis antibiotic selection",
+      "objective": "Use conjunctivitis as a constraint on antibiotic choice in established otitis media.",
+      "reference": [
+        {
+          "label": "CDC: Pediatric outpatient clinical care",
+          "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0505",
+      "concept": "negative-streptococcal-rapid-test",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated disease principle to the vignette: Account for imperfect rapid antigen sensitivity when testing a symptomatic child.",
+      "evidenceNote": "CDC: Pediatric outpatient clinical care: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Account for imperfect rapid antigen sensitivity when testing a symptomatic child.",
+      "candidates": [
+        {
+          "code": "s3-0001",
+          "score": 0.1925,
+          "sameObjective": false,
+          "lexical": 0.015384615384615385
+        },
+        {
+          "code": "op26-0141",
+          "score": 0.1407,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0638",
+          "score": 0.1277,
+          "sameObjective": false,
+          "lexical": 0.017241379310344827
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Negative streptococcal rapid test",
+      "objective": "Account for imperfect rapid antigen sensitivity when testing a symptomatic child.",
+      "reference": [
+        {
+          "label": "CDC: Pediatric outpatient clinical care",
+          "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0506",
+      "concept": "common-cold-secretion-color",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated disease principle to the vignette: Separate nonspecific mucus color from validated bacterial infection patterns.",
+      "evidenceNote": "CDC: Pediatric outpatient clinical care: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Separate nonspecific mucus color from validated bacterial infection patterns.",
+      "candidates": [
+        {
+          "code": "op26x-0501",
+          "score": 0.1676,
+          "sameObjective": false,
+          "lexical": 0.08620689655172414
+        },
+        {
+          "code": "op26x-0502",
+          "score": 0.1561,
+          "sameObjective": false,
+          "lexical": 0.015625
+        },
+        {
+          "code": "op26x-0394",
+          "score": 0.1162,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Common cold secretion color",
+      "objective": "Separate nonspecific mucus color from validated bacterial infection patterns.",
+      "reference": [
+        {
+          "label": "CDC: Pediatric outpatient clinical care",
+          "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0507",
+      "concept": "large-ventricular-septal-defect-pulmonary-flow",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Connect infant feeding failure to pulmonary overcirculation through a large ventricular defect.",
+      "evidenceNote": "NHLBI: Congenital heart defects, types: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Connect infant feeding failure to pulmonary overcirculation through a large ventricular defect.",
+      "candidates": [
+        {
+          "code": "op26x-0604",
+          "score": 0.2605,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0399",
+          "score": 0.1686,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0064",
+          "score": 0.1622,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Large ventricular septal defect pulmonary flow",
+      "objective": "Connect infant feeding failure to pulmonary overcirculation through a large ventricular defect.",
+      "reference": [
+        {
+          "label": "NHLBI: Congenital heart defects, types",
+          "url": "https://www.nhlbi.nih.gov/health/congenital-heart-defects/types"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0508",
+      "concept": "atrial-septal-defect-chamber-burden",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Trace atrial shunt flow to identify the chamber volume burden.",
+      "evidenceNote": "NHLBI: Congenital heart defects, types: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Trace atrial shunt flow to identify the chamber volume burden.",
+      "candidates": [
+        {
+          "code": "op26x-0507",
+          "score": 0.2271,
+          "sameObjective": false,
+          "lexical": 0.07272727272727272
+        },
+        {
+          "code": "op26x-0604",
+          "score": 0.192,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0399",
+          "score": 0.1123,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Atrial septal defect chamber burden",
+      "objective": "Trace atrial shunt flow to identify the chamber volume burden.",
+      "reference": [
+        {
+          "label": "NHLBI: Congenital heart defects, types",
+          "url": "https://www.nhlbi.nih.gov/health/congenital-heart-defects/types"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0509",
+      "concept": "patent-ductus-flow-direction",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated disease principle to the vignette: Infer postnatal ductal flow from the pressure gradient and anatomic connection.",
+      "evidenceNote": "NHLBI: Congenital heart defects, types: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Infer postnatal ductal flow from the pressure gradient and anatomic connection.",
+      "candidates": [
+        {
+          "code": "op26x-0604",
+          "score": 0.2774,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0654",
+          "score": 0.1515,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0507",
+          "score": 0.1326,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Patent ductus flow direction",
+      "objective": "Infer postnatal ductal flow from the pressure gradient and anatomic connection.",
+      "reference": [
+        {
+          "label": "NHLBI: Congenital heart defects, types",
+          "url": "https://www.nhlbi.nih.gov/health/congenital-heart-defects/types"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0510",
+      "concept": "transposition-parallel-circulations",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Explain the role of mixing in transposition rather than treating the circuits as serial.",
+      "evidenceNote": "NHLBI: Congenital heart defects, types: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Explain the role of mixing in transposition rather than treating the circuits as serial.",
+      "candidates": [
+        {
+          "code": "op26x-0509",
+          "score": 0.1794,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0604",
+          "score": 0.1445,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0508",
+          "score": 0.1043,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Transposition parallel circulations",
+      "objective": "Explain the role of mixing in transposition rather than treating the circuits as serial.",
+      "reference": [
+        {
+          "label": "NHLBI: Congenital heart defects, types",
+          "url": "https://www.nhlbi.nih.gov/health/congenital-heart-defects/types"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0511",
+      "concept": "tetralogy-cyanosis-determinant",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Relate outflow obstruction to shunt direction and cyanosis in tetralogy.",
+      "evidenceNote": "NHLBI: Congenital heart defects, types: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Relate outflow obstruction to shunt direction and cyanosis in tetralogy.",
+      "candidates": [
+        {
+          "code": "op26x-0507",
+          "score": 0.2874,
+          "sameObjective": false,
+          "lexical": 0.05454545454545454
+        },
+        {
+          "code": "op26-0177",
+          "score": 0.1811,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0508",
+          "score": 0.1616,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Tetralogy cyanosis determinant",
+      "objective": "Relate outflow obstruction to shunt direction and cyanosis in tetralogy.",
+      "reference": [
+        {
+          "label": "NHLBI: Congenital heart defects, types",
+          "url": "https://www.nhlbi.nih.gov/health/congenital-heart-defects/types"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0512",
+      "concept": "hirschsprung-rectal-biopsy",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Connect neonatal distal obstruction to aganglionosis on rectal biopsy.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Connect neonatal distal obstruction to aganglionosis on rectal biopsy.",
+      "candidates": [
+        {
+          "code": "op26x-0608",
+          "score": 0.309,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0666",
+          "score": 0.1569,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0603",
+          "score": 0.1503,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Hirschsprung rectal biopsy",
+      "objective": "Connect neonatal distal obstruction to aganglionosis on rectal biopsy.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0513",
+      "concept": "biliary-atresia-cholestasis",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Distinguish neonatal cholestasis from benign unconjugated jaundice.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Distinguish neonatal cholestasis from benign unconjugated jaundice.",
+      "candidates": [
+        {
+          "code": "op26-0166",
+          "score": 0.3446,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0611",
+          "score": 0.2349,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0610",
+          "score": 0.2316,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Biliary atresia cholestasis",
+      "objective": "Distinguish neonatal cholestasis from benign unconjugated jaundice.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0514",
+      "concept": "necrotizing-enterocolitis-pneumatosis",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Integrate prematurity, intestinal bleeding and intramural gas to identify bowel injury.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Integrate prematurity, intestinal bleeding and intramural gas to identify bowel injury.",
+      "candidates": [
+        {
+          "code": "op26x-0606",
+          "score": 0.1921,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0678",
+          "score": 0.1458,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0182",
+          "score": 0.1347,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Necrotizing enterocolitis pneumatosis",
+      "objective": "Integrate prematurity, intestinal bleeding and intramural gas to identify bowel injury.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0515",
+      "concept": "duodenal-atresia-bilious-vomiting",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Use bile content and absent distal gas to localize congenital intestinal obstruction.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Use bile content and absent distal gas to localize congenital intestinal obstruction.",
+      "candidates": [
+        {
+          "code": "op26x-0606",
+          "score": 0.3682,
+          "sameObjective": false,
+          "lexical": 0.03571428571428571
+        },
+        {
+          "code": "op26x-0514",
+          "score": 0.1793,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0512",
+          "score": 0.1422,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Duodenal atresia bilious vomiting",
+      "objective": "Use bile content and absent distal gas to localize congenital intestinal obstruction.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0516",
+      "concept": "postinfectious-nephritis-complement",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Distinguish delayed complement-consuming nephritis from synpharyngitic hematuria.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Distinguish delayed complement-consuming nephritis from synpharyngitic hematuria.",
+      "candidates": [
+        {
+          "code": "s1-0011",
+          "score": 0.1545,
+          "sameObjective": false,
+          "lexical": 0.029850746268656716
+        },
+        {
+          "code": "op26-0061",
+          "score": 0.1344,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0063",
+          "score": 0.1155,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Postinfectious nephritis complement",
+      "objective": "Distinguish delayed complement-consuming nephritis from synpharyngitic hematuria.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0517",
+      "concept": "minimal-change-childhood-nephrosis",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Infer podocyte injury from a typical childhood nephrotic presentation.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Infer podocyte injury from a typical childhood nephrotic presentation.",
+      "candidates": [
+        {
+          "code": "op26-0061",
+          "score": 0.2427,
+          "sameObjective": false,
+          "lexical": 0.014925373134328358
+        },
+        {
+          "code": "op26x-0307",
+          "score": 0.1294,
+          "sameObjective": false,
+          "lexical": 0.07017543859649122
+        },
+        {
+          "code": "s1-0011",
+          "score": 0.1266,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Minimal change childhood nephrosis",
+      "objective": "Infer podocyte injury from a typical childhood nephrotic presentation.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0518",
+      "concept": "hemolytic-uremic-syndrome-pattern",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Recognize the postdiarrheal thrombotic microangiopathy rather than its toxin mechanism.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Recognize the postdiarrheal thrombotic microangiopathy rather than its toxin mechanism.",
+      "candidates": [
+        {
+          "code": "op26-0104",
+          "score": 0.2761,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0060",
+          "score": 0.2075,
+          "sameObjective": false,
+          "lexical": 0.016129032258064516
+        },
+        {
+          "code": "op26-0170",
+          "score": 0.1217,
+          "sameObjective": false,
+          "lexical": 0.015384615384615385
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Hemolytic uremic syndrome pattern",
+      "objective": "Recognize the postdiarrheal thrombotic microangiopathy rather than its toxin mechanism.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0519",
+      "concept": "slipped-capital-femoral-epiphysis-referred-pain",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Identify hip pathology in an adolescent presenting with referred knee pain.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Identify hip pathology in an adolescent presenting with referred knee pain.",
+      "candidates": [
+        {
+          "code": "op26x-0042",
+          "score": 0.1521,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0005",
+          "score": 0.116,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0355",
+          "score": 0.0925,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Slipped capital femoral epiphysis referred pain",
+      "objective": "Identify hip pathology in an adolescent presenting with referred knee pain.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0520",
+      "concept": "legg-calve-perthes-age-pattern",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Distinguish childhood femoral head ischemia from adolescent physeal disease.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Distinguish childhood femoral head ischemia from adolescent physeal disease.",
+      "candidates": [
+        {
+          "code": "op26x-0519",
+          "score": 0.2497,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0193",
+          "score": 0.1328,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0686",
+          "score": 0.1096,
+          "sameObjective": false,
+          "lexical": 0.015625
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Legg Calve Perthes age pattern",
+      "objective": "Distinguish childhood femoral head ischemia from adolescent physeal disease.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0521",
+      "concept": "septic-hip-versus-transient-synovitis",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Prioritize the stated action with the clinical constraints: Prioritize evaluation of a potentially infected hip over benign postviral explanations.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Prioritize evaluation of a potentially infected hip over benign postviral explanations.",
+      "candidates": [
+        {
+          "code": "op26x-0460",
+          "score": 0.1308,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0043",
+          "score": 0.1189,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0519",
+          "score": 0.1173,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Septic hip versus transient synovitis",
+      "objective": "Prioritize evaluation of a potentially infected hip over benign postviral explanations.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0522",
+      "concept": "infantile-spasms-developmental-regression",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Integrate seizure semiology, developmental regression and EEG background.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Integrate seizure semiology, developmental regression and EEG background.",
+      "candidates": [
+        {
+          "code": "op26x-0630",
+          "score": 0.132,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0315",
+          "score": 0.1239,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0302",
+          "score": 0.0852,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Infantile spasms developmental regression",
+      "objective": "Integrate seizure semiology, developmental regression and EEG background.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0523",
+      "concept": "simple-febrile-seizure-classification",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated disease principle to the vignette: Apply duration, focality and recurrence criteria to a febrile seizure.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Apply duration, focality and recurrence criteria to a febrile seizure.",
+      "candidates": [
+        {
+          "code": "op26x-0522",
+          "score": 0.1232,
+          "sameObjective": false,
+          "lexical": 0.015873015873015872
+        },
+        {
+          "code": "op26x-0484",
+          "score": 0.0911,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0313",
+          "score": 0.0905,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Simple febrile seizure classification",
+      "objective": "Apply duration, focality and recurrence criteria to a febrile seizure.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0524",
+      "concept": "spinal-muscular-atrophy-localization",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Localize infantile weakness with tongue fasciculations and areflexia.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Localize infantile weakness with tongue fasciculations and areflexia.",
+      "candidates": [
+        {
+          "code": "op26x-0321",
+          "score": 0.2564,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0046",
+          "score": 0.2003,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0172",
+          "score": 0.1753,
+          "sameObjective": false,
+          "lexical": 0.01818181818181818
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Spinal muscular atrophy localization",
+      "objective": "Localize infantile weakness with tongue fasciculations and areflexia.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0525",
+      "concept": "kwashiorkor-edema-distinction",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Recognize nutritional edema as severe malnutrition even when measured weight is misleading.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Recognize nutritional edema as severe malnutrition even when measured weight is misleading.",
+      "candidates": [
+        {
+          "code": "op26x-0415",
+          "score": 0.1538,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0029",
+          "score": 0.128,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0332",
+          "score": 0.0983,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Kwashiorkor edema distinction",
+      "objective": "Recognize nutritional edema as severe malnutrition even when measured weight is misleading.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0526",
+      "concept": "dehydration-oral-versus-intravenous-route",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated disease principle to the vignette: Choose the least invasive effective rehydration route using perfusion and oral tolerance.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Choose the least invasive effective rehydration route using perfusion and oral tolerance.",
+      "candidates": [
+        {
+          "code": "op26x-0485",
+          "score": 0.143,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0108",
+          "score": 0.0934,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0195",
+          "score": 0.0923,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Dehydration oral versus intravenous route",
+      "objective": "Choose the least invasive effective rehydration route using perfusion and oral tolerance.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0527",
+      "concept": "epiglottitis-examination-precaution",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Prioritize the stated action with the clinical constraints: Prioritize controlled airway assessment over provocative examination in suspected supraglottic obstruction.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Prioritize controlled airway assessment over provocative examination in suspected supraglottic obstruction.",
+      "candidates": [
+        {
+          "code": "op26-0194",
+          "score": 0.2,
+          "sameObjective": false,
+          "lexical": 0.037037037037037035
+        },
+        {
+          "code": "op26x-0672",
+          "score": 0.1629,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s2-0003",
+          "score": 0.1325,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Epiglottitis examination precaution",
+      "objective": "Prioritize controlled airway assessment over provocative examination in suspected supraglottic obstruction.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0528",
+      "concept": "foreign-body-unilateral-wheeze",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Retain aspiration in the differential despite a radiolucent chest film.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Retain aspiration in the differential despite a radiolucent chest film.",
+      "candidates": [
+        {
+          "code": "s2-0008",
+          "score": 0.1119,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0079",
+          "score": 0.1028,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0606",
+          "score": 0.091,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Foreign body unilateral wheeze",
+      "objective": "Retain aspiration in the differential despite a radiolucent chest film.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0529",
+      "concept": "pertussis-infant-apnea",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Recognize an age-specific pertussis presentation without relying on a whoop.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Recognize an age-specific pertussis presentation without relying on a whoop.",
+      "candidates": [
+        {
+          "code": "op26x-0440",
+          "score": 0.1056,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0511",
+          "score": 0.0909,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0194",
+          "score": 0.0904,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Pertussis infant apnea",
+      "objective": "Recognize an age-specific pertussis presentation without relying on a whoop.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0530",
+      "concept": "roseola-fever-rash-sequence",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Use the fever-to-rash sequence to distinguish common childhood exanthems.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Use the fever-to-rash sequence to distinguish common childhood exanthems.",
+      "candidates": [
+        {
+          "code": "op26x-0642",
+          "score": 0.1302,
+          "sameObjective": false,
+          "lexical": 0.03571428571428571
+        },
+        {
+          "code": "s2-0010",
+          "score": 0.1257,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0113",
+          "score": 0.1145,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Roseola fever rash sequence",
+      "objective": "Use the fever-to-rash sequence to distinguish common childhood exanthems.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0531",
+      "concept": "kawasaki-multisystem-clues",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Identify the coronary consequence of a pediatric mucocutaneous vasculitis pattern.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Identify the coronary consequence of a pediatric mucocutaneous vasculitis pattern.",
+      "candidates": [
+        {
+          "code": "s2-0010",
+          "score": 0.3498,
+          "sameObjective": false,
+          "lexical": 0.03409090909090909
+        },
+        {
+          "code": "op26-0013",
+          "score": 0.1733,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0689",
+          "score": 0.1213,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Kawasaki multisystem clues",
+      "objective": "Identify the coronary consequence of a pediatric mucocutaneous vasculitis pattern.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0532",
+      "concept": "iga-vasculitis-abdominal-renal-pattern",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Integrate normal platelets with skin, joint, intestinal and renal findings.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Integrate normal platelets with skin, joint, intestinal and renal findings.",
+      "candidates": [
+        {
+          "code": "op26-0182",
+          "score": 0.121,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0517",
+          "score": 0.1148,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0170",
+          "score": 0.1107,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "IgA vasculitis abdominal renal pattern",
+      "objective": "Integrate normal platelets with skin, joint, intestinal and renal findings.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0533",
+      "concept": "congenital-hypothyroidism-screening-rationale",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Explain the value of prompt biochemical detection before overt neonatal symptoms.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Explain the value of prompt biochemical detection before overt neonatal symptoms.",
+      "candidates": [
+        {
+          "code": "op26-0022",
+          "score": 0.2352,
+          "sameObjective": false,
+          "lexical": 0.0196078431372549
+        },
+        {
+          "code": "op26x-0018",
+          "score": 0.2133,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0382",
+          "score": 0.1887,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Congenital hypothyroidism screening rationale",
+      "objective": "Explain the value of prompt biochemical detection before overt neonatal symptoms.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0534",
+      "concept": "salt-wasting-congenital-adrenal-hyperplasia",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Combine adrenal electrolyte failure with androgen excess to distinguish steroid defects.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Combine adrenal electrolyte failure with androgen excess to distinguish steroid defects.",
+      "candidates": [
+        {
+          "code": "op26-0163",
+          "score": 0.1341,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s2-0005",
+          "score": 0.1296,
+          "sameObjective": false,
+          "lexical": 0.008403361344537815
+        },
+        {
+          "code": "op26-0161",
+          "score": 0.1191,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Salt wasting congenital adrenal hyperplasia",
+      "objective": "Combine adrenal electrolyte failure with androgen excess to distinguish steroid defects.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0535",
+      "concept": "developmental-regression-versus-delay",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated disease principle to the vignette: Distinguish loss of acquired skills from a static developmental delay.",
+      "evidenceNote": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 pediatric dehydration, croup localization, coarctation, pyloric acid-base change and intussusception mechanism; distinct objective: Distinguish loss of acquired skills from a static developmental delay.",
+      "candidates": [
+        {
+          "code": "op26x-0522",
+          "score": 0.1629,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0625",
+          "score": 0.1115,
+          "sameObjective": false,
+          "lexical": 0.01694915254237288
+        },
+        {
+          "code": "op26x-0627",
+          "score": 0.1091,
+          "sameObjective": false,
+          "lexical": 0.015873015873015872
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Pediatrics",
+      "topic": "Developmental regression versus delay",
+      "objective": "Distinguish loss of acquired skills from a static developmental delay.",
+      "reference": [
+        {
+          "label": "WHO Pocket Book of Hospital Care for Children, 2nd edition (2013)",
+          "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0536",
+      "concept": "pregnancy-unknown-location-stable-followup",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Separate nondiagnostic early imaging from a definitive location diagnosis.",
+      "evidenceNote": "ACOG: Ectopic pregnancy: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Separate nondiagnostic early imaging from a definitive location diagnosis.",
+      "candidates": [
+        {
+          "code": "op26-0196",
+          "score": 0.2779,
+          "sameObjective": false,
+          "lexical": 0.034482758620689655
+        },
+        {
+          "code": "op26x-0635",
+          "score": 0.1715,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0643",
+          "score": 0.1176,
+          "sameObjective": false,
+          "lexical": 0.01694915254237288
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Pregnancy unknown location stable followup",
+      "objective": "Separate nondiagnostic early imaging from a definitive location diagnosis.",
+      "reference": [
+        {
+          "label": "ACOG: Ectopic pregnancy",
+          "url": "https://www.acog.org/womens-health/faqs/ectopic-pregnancy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0537",
+      "concept": "threatened-pregnancy-loss-viability",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Interpret first-trimester bleeding using cervical findings and documented viability.",
+      "evidenceNote": "ACOG: Early pregnancy loss: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Interpret first-trimester bleeding using cervical findings and documented viability.",
+      "candidates": [
+        {
+          "code": "op26-0197",
+          "score": 0.2087,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0536",
+          "score": 0.2064,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0648",
+          "score": 0.1616,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Threatened pregnancy loss viability",
+      "objective": "Interpret first-trimester bleeding using cervical findings and documented viability.",
+      "reference": [
+        {
+          "label": "ACOG: Early pregnancy loss",
+          "url": "https://www.acog.org/womens-health/faqs/early-pregnancy-loss"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0538",
+      "concept": "early-pregnancy-ultrasound-uncertainty",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated disease principle to the vignette: Avoid diagnosing early pregnancy failure from an inadequately timed single scan.",
+      "evidenceNote": "ACOG: Early pregnancy loss: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Avoid diagnosing early pregnancy failure from an inadequately timed single scan.",
+      "candidates": [
+        {
+          "code": "op26x-0537",
+          "score": 0.2236,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0536",
+          "score": 0.1853,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0375",
+          "score": 0.1639,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Early pregnancy ultrasound uncertainty",
+      "objective": "Avoid diagnosing early pregnancy failure from an inadequately timed single scan.",
+      "reference": [
+        {
+          "label": "ACOG: Early pregnancy loss",
+          "url": "https://www.acog.org/womens-health/faqs/early-pregnancy-loss"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0539",
+      "concept": "ruptured-ectopic-hemodynamic-priority",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Prioritize the stated action with the clinical constraints: Use instability and intraperitoneal fluid to prioritize hemorrhage control.",
+      "evidenceNote": "ACOG: Ectopic pregnancy: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Use instability and intraperitoneal fluid to prioritize hemorrhage control.",
+      "candidates": [
+        {
+          "code": "op26x-0670",
+          "score": 0.4207,
+          "sameObjective": false,
+          "lexical": 0.03508771929824561
+        },
+        {
+          "code": "op26x-0536",
+          "score": 0.2354,
+          "sameObjective": false,
+          "lexical": 0.03389830508474576
+        },
+        {
+          "code": "op26x-0695",
+          "score": 0.1948,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [
+        "Semantic overlap candidate op26x-0670 (0.4207); The causes differ (suspected ruptured ectopic versus blunt abdominal trauma), but both use instability and free fluid to prioritize immediate hemorrhage control over detailed imaging. Hold both new versions pending an independent decision on whether the learning objectives are sufficiently distinct."
+      ],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Ruptured ectopic hemodynamic priority",
+      "objective": "Use instability and intraperitoneal fluid to prioritize hemorrhage control.",
+      "reference": [
+        {
+          "label": "ACOG: Ectopic pregnancy",
+          "url": "https://www.acog.org/womens-health/faqs/ectopic-pregnancy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0540",
+      "concept": "vasa-previa-fetal-hemorrhage",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Distinguish fetal from maternal hemorrhage using membrane rupture and discordant vital signs.",
+      "evidenceNote": "ACOG: Bleeding during pregnancy: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Distinguish fetal from maternal hemorrhage using membrane rupture and discordant vital signs.",
+      "candidates": [
+        {
+          "code": "op26x-0650",
+          "score": 0.3216,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0658",
+          "score": 0.2677,
+          "sameObjective": false,
+          "lexical": 0.03389830508474576
+        },
+        {
+          "code": "op26x-0652",
+          "score": 0.1601,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Vasa previa fetal hemorrhage",
+      "objective": "Distinguish fetal from maternal hemorrhage using membrane rupture and discordant vital signs.",
+      "reference": [
+        {
+          "label": "ACOG: Bleeding during pregnancy",
+          "url": "https://www.acog.org/womens-health/faqs/bleeding-during-pregnancy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0541",
+      "concept": "placenta-accreta-risk-anatomy",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Combine uterine scar and previa with abnormal placental attachment anatomy.",
+      "evidenceNote": "ACOG: Bleeding during pregnancy: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Combine uterine scar and previa with abnormal placental attachment anatomy.",
+      "candidates": [
+        {
+          "code": "op26-0197",
+          "score": 0.3138,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0198",
+          "score": 0.1607,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0654",
+          "score": 0.1018,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Placenta accreta risk anatomy",
+      "objective": "Combine uterine scar and previa with abnormal placental attachment anatomy.",
+      "reference": [
+        {
+          "label": "ACOG: Bleeding during pregnancy",
+          "url": "https://www.acog.org/womens-health/faqs/bleeding-during-pregnancy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0542",
+      "concept": "concealed-abruption-severity",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Recognize concealed hemorrhage rather than grading abruption by external blood alone.",
+      "evidenceNote": "ACOG: Bleeding during pregnancy: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Recognize concealed hemorrhage rather than grading abruption by external blood alone.",
+      "candidates": [
+        {
+          "code": "op26-0198",
+          "score": 0.1845,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0670",
+          "score": 0.1376,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0540",
+          "score": 0.1256,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Concealed abruption severity",
+      "objective": "Recognize concealed hemorrhage rather than grading abruption by external blood alone.",
+      "reference": [
+        {
+          "label": "ACOG: Bleeding during pregnancy",
+          "url": "https://www.acog.org/womens-health/faqs/bleeding-during-pregnancy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0543",
+      "concept": "gestational-hypertension-versus-preeclampsia",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Classify new nonsevere hypertension using timing and absence of organ injury.",
+      "evidenceNote": "ACOG: Preeclampsia and high blood pressure during pregnancy: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Classify new nonsevere hypertension using timing and absence of organ injury.",
+      "candidates": [
+        {
+          "code": "op26-0199",
+          "score": 0.2706,
+          "sameObjective": false,
+          "lexical": 0.03571428571428571
+        },
+        {
+          "code": "op26x-0500",
+          "score": 0.2509,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0445",
+          "score": 0.2029,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Gestational hypertension versus preeclampsia",
+      "objective": "Classify new nonsevere hypertension using timing and absence of organ injury.",
+      "reference": [
+        {
+          "label": "ACOG: Preeclampsia and high blood pressure during pregnancy",
+          "url": "https://www.acog.org/womens-health/faqs/preeclampsia-and-high-blood-pressure-during-pregnancy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0544",
+      "concept": "preeclampsia-without-proteinuria",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Recognize severe organ features as an alternative to proteinuria for preeclampsia.",
+      "evidenceNote": "ACOG: Preeclampsia and high blood pressure during pregnancy: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Recognize severe organ features as an alternative to proteinuria for preeclampsia.",
+      "candidates": [
+        {
+          "code": "op26-0199",
+          "score": 0.344,
+          "sameObjective": false,
+          "lexical": 0.10416666666666667
+        },
+        {
+          "code": "op26x-0543",
+          "score": 0.3285,
+          "sameObjective": false,
+          "lexical": 0.04838709677419355
+        },
+        {
+          "code": "op26x-0500",
+          "score": 0.1534,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Preeclampsia without proteinuria",
+      "objective": "Recognize severe organ features as an alternative to proteinuria for preeclampsia.",
+      "reference": [
+        {
+          "label": "ACOG: Preeclampsia and high blood pressure during pregnancy",
+          "url": "https://www.acog.org/womens-health/faqs/preeclampsia-and-high-blood-pressure-during-pregnancy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0545",
+      "concept": "hellp-laboratory-integration",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Combine microangiopathic hemolysis, liver injury and thrombocytopenia.",
+      "evidenceNote": "ACOG: Preeclampsia and high blood pressure during pregnancy: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Combine microangiopathic hemolysis, liver injury and thrombocytopenia.",
+      "candidates": [
+        {
+          "code": "op26-0060",
+          "score": 0.2287,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0544",
+          "score": 0.2211,
+          "sameObjective": false,
+          "lexical": 0.01694915254237288
+        },
+        {
+          "code": "op26x-0518",
+          "score": 0.1711,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "HELLP laboratory integration",
+      "objective": "Combine microangiopathic hemolysis, liver injury and thrombocytopenia.",
+      "reference": [
+        {
+          "label": "ACOG: Preeclampsia and high blood pressure during pregnancy",
+          "url": "https://www.acog.org/womens-health/faqs/preeclampsia-and-high-blood-pressure-during-pregnancy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0546",
+      "concept": "postpartum-preeclampsia-warning",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Recognize new postpartum hypertensive disease despite normal antenatal measurements.",
+      "evidenceNote": "ACOG: Preeclampsia and high blood pressure during pregnancy: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Recognize new postpartum hypertensive disease despite normal antenatal measurements.",
+      "candidates": [
+        {
+          "code": "op26-0199",
+          "score": 0.2721,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0544",
+          "score": 0.2171,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0447",
+          "score": 0.1623,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Postpartum preeclampsia warning",
+      "objective": "Recognize new postpartum hypertensive disease despite normal antenatal measurements.",
+      "reference": [
+        {
+          "label": "ACOG: Preeclampsia and high blood pressure during pregnancy",
+          "url": "https://www.acog.org/womens-health/faqs/preeclampsia-and-high-blood-pressure-during-pregnancy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0547",
+      "concept": "preeclampsia-delivery-maternal-tradeoff",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Explain competing maternal disease and neonatal prematurity risks without a universal timing rule.",
+      "evidenceNote": "ACOG: Preeclampsia and high blood pressure during pregnancy: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Explain competing maternal disease and neonatal prematurity risks without a universal timing rule.",
+      "candidates": [
+        {
+          "code": "op26-0199",
+          "score": 0.1722,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0544",
+          "score": 0.1343,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0540",
+          "score": 0.1135,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Preeclampsia delivery maternal tradeoff",
+      "objective": "Explain competing maternal disease and neonatal prematurity risks without a universal timing rule.",
+      "reference": [
+        {
+          "label": "ACOG: Preeclampsia and high blood pressure during pregnancy",
+          "url": "https://www.acog.org/womens-health/faqs/preeclampsia-and-high-blood-pressure-during-pregnancy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0548",
+      "concept": "gestational-diabetes-fetal-insulin",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Connect prenatal glucose exposure to postnatal hypoglycemia through fetal insulin.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Connect prenatal glucose exposure to postnatal hypoglycemia through fetal insulin.",
+      "candidates": [
+        {
+          "code": "op26-0091",
+          "score": 0.1926,
+          "sameObjective": false,
+          "lexical": 0.0196078431372549
+        },
+        {
+          "code": "op26x-0025",
+          "score": 0.1716,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0652",
+          "score": 0.1645,
+          "sameObjective": false,
+          "lexical": 0.043478260869565216
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Gestational diabetes fetal insulin",
+      "objective": "Connect prenatal glucose exposure to postnatal hypoglycemia through fetal insulin.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0549",
+      "concept": "hyperemesis-versus-ordinary-nausea",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Use nutritional and volume consequences to distinguish severe pregnancy vomiting.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Use nutritional and volume consequences to distinguish severe pregnancy vomiting.",
+      "candidates": [
+        {
+          "code": "op26x-0424",
+          "score": 0.1399,
+          "sameObjective": false,
+          "lexical": 0.019230769230769232
+        },
+        {
+          "code": "op26-0160",
+          "score": 0.1239,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0332",
+          "score": 0.1202,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Hyperemesis versus ordinary nausea",
+      "objective": "Use nutritional and volume consequences to distinguish severe pregnancy vomiting.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0550",
+      "concept": "molar-pregnancy-early-severe-manifestations",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Integrate excessive hCG, uterine size and absent embryonic tissue in trophoblastic disease.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Integrate excessive hCG, uterine size and absent embryonic tissue in trophoblastic disease.",
+      "candidates": [
+        {
+          "code": "op26x-0537",
+          "score": 0.1608,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0200",
+          "score": 0.0941,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0538",
+          "score": 0.0908,
+          "sameObjective": false,
+          "lexical": 0.01639344262295082
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Molar pregnancy early severe manifestations",
+      "objective": "Integrate excessive hCG, uterine size and absent embryonic tissue in trophoblastic disease.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0551",
+      "concept": "uterine-rupture-intrapartum-pattern",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Recognize scar-related uterine disruption from simultaneous maternal and fetal changes.",
+      "evidenceNote": "ACOG: Bleeding during pregnancy: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Recognize scar-related uterine disruption from simultaneous maternal and fetal changes.",
+      "candidates": [
+        {
+          "code": "op26x-0650",
+          "score": 0.3838,
+          "sameObjective": false,
+          "lexical": 0.02040816326530612
+        },
+        {
+          "code": "op26x-0540",
+          "score": 0.2485,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0658",
+          "score": 0.1935,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Uterine rupture intrapartum pattern",
+      "objective": "Recognize scar-related uterine disruption from simultaneous maternal and fetal changes.",
+      "reference": [
+        {
+          "label": "ACOG: Bleeding during pregnancy",
+          "url": "https://www.acog.org/womens-health/faqs/bleeding-during-pregnancy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0552",
+      "concept": "shoulder-dystocia-recognition",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Localize failed shoulder delivery after head emergence to shoulder impaction.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Localize failed shoulder delivery after head emergence to shoulder impaction.",
+      "candidates": [
+        {
+          "code": "op26-0001",
+          "score": 0.1673,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0659",
+          "score": 0.1662,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0059",
+          "score": 0.1469,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Shoulder dystocia recognition",
+      "objective": "Localize failed shoulder delivery after head emergence to shoulder impaction.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0553",
+      "concept": "postpartum-laceration-versus-atony",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Use uterine tone and direct inspection to distinguish traumatic postpartum bleeding.",
+      "evidenceNote": "ACOG: Bleeding during pregnancy: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Use uterine tone and direct inspection to distinguish traumatic postpartum bleeding.",
+      "candidates": [
+        {
+          "code": "op26-0200",
+          "score": 0.1988,
+          "sameObjective": false,
+          "lexical": 0.0196078431372549
+        },
+        {
+          "code": "op26-0198",
+          "score": 0.1861,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0197",
+          "score": 0.1608,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Postpartum laceration versus atony",
+      "objective": "Use uterine tone and direct inspection to distinguish traumatic postpartum bleeding.",
+      "reference": [
+        {
+          "label": "ACOG: Bleeding during pregnancy",
+          "url": "https://www.acog.org/womens-health/faqs/bleeding-during-pregnancy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0554",
+      "concept": "retained-placenta-postpartum-bleeding",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Link placental incompleteness and subinvolution to retained tissue.",
+      "evidenceNote": "ACOG: Bleeding during pregnancy: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Link placental incompleteness and subinvolution to retained tissue.",
+      "candidates": [
+        {
+          "code": "op26-0197",
+          "score": 0.2297,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0198",
+          "score": 0.1909,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0553",
+          "score": 0.1578,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Retained placenta postpartum bleeding",
+      "objective": "Link placental incompleteness and subinvolution to retained tissue.",
+      "reference": [
+        {
+          "label": "ACOG: Bleeding during pregnancy",
+          "url": "https://www.acog.org/womens-health/faqs/bleeding-during-pregnancy"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0555",
+      "concept": "postpartum-endometritis-localization",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Localize postpartum fever using uterine tenderness and discharge characteristics.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Localize postpartum fever using uterine tenderness and discharge characteristics.",
+      "candidates": [
+        {
+          "code": "op26x-0650",
+          "score": 0.2134,
+          "sameObjective": false,
+          "lexical": 0.018518518518518517
+        },
+        {
+          "code": "op26x-0551",
+          "score": 0.1764,
+          "sameObjective": false,
+          "lexical": 0.05357142857142857
+        },
+        {
+          "code": "op26-0198",
+          "score": 0.1382,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Postpartum endometritis localization",
+      "objective": "Localize postpartum fever using uterine tenderness and discharge characteristics.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0556",
+      "concept": "functional-hypothalamic-amenorrhea",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Use energy history and gonadotropin direction to localize amenorrhea.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Use energy history and gonadotropin direction to localize amenorrhea.",
+      "candidates": [
+        {
+          "code": "op26x-0016",
+          "score": 0.154,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0378",
+          "score": 0.1004,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0377",
+          "score": 0.0952,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Functional hypothalamic amenorrhea",
+      "objective": "Use energy history and gonadotropin direction to localize amenorrhea.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0557",
+      "concept": "primary-ovarian-insufficiency-gonadotropins",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Localize low estrogen with elevated FSH to primary ovarian dysfunction.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Localize low estrogen with elevated FSH to primary ovarian dysfunction.",
+      "candidates": [
+        {
+          "code": "op26x-0556",
+          "score": 0.1841,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0639",
+          "score": 0.1523,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0660",
+          "score": 0.1308,
+          "sameObjective": false,
+          "lexical": 0.01818181818181818
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Primary ovarian insufficiency gonadotropins",
+      "objective": "Localize low estrogen with elevated FSH to primary ovarian dysfunction.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0558",
+      "concept": "pcos-endometrial-exposure",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Connect chronic anovulation to unopposed endometrial estrogen exposure.",
+      "evidenceNote": "ACOG: Abnormal uterine bleeding: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Connect chronic anovulation to unopposed endometrial estrogen exposure.",
+      "candidates": [
+        {
+          "code": "op26x-0639",
+          "score": 0.1963,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0557",
+          "score": 0.0921,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0067",
+          "score": 0.0801,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "PCOS endometrial exposure",
+      "objective": "Connect chronic anovulation to unopposed endometrial estrogen exposure.",
+      "reference": [
+        {
+          "label": "ACOG: Abnormal uterine bleeding",
+          "url": "https://www.acog.org/womens-health/faqs/abnormal-uterine-bleeding"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0559",
+      "concept": "hyperprolactinemic-amenorrhea",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Explain ovulatory suppression in hyperprolactinemia without assuming irreversible ovarian loss.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Explain ovulatory suppression in hyperprolactinemia without assuming irreversible ovarian loss.",
+      "candidates": [
+        {
+          "code": "op26x-0556",
+          "score": 0.2483,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0017",
+          "score": 0.1883,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0557",
+          "score": 0.1851,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Hyperprolactinemic amenorrhea",
+      "objective": "Explain ovulatory suppression in hyperprolactinemia without assuming irreversible ovarian loss.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0560",
+      "concept": "asherman-syndrome-postinstrumentation",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Identify an acquired uterine cavity cause of menstrual change and infertility.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Identify an acquired uterine cavity cause of menstrual change and infertility.",
+      "candidates": [
+        {
+          "code": "op26x-0554",
+          "score": 0.2032,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0550",
+          "score": 0.1294,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0198",
+          "score": 0.1114,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Asherman syndrome postinstrumentation",
+      "objective": "Identify an acquired uterine cavity cause of menstrual change and infertility.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0561",
+      "concept": "endometriosis-extrauterine-tissue",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Distinguish extrauterine endometrial implants from intramyometrial disease.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Distinguish extrauterine endometrial implants from intramyometrial disease.",
+      "candidates": [
+        {
+          "code": "op26x-0558",
+          "score": 0.128,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0639",
+          "score": 0.0906,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0673",
+          "score": 0.0797,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Endometriosis extrauterine tissue",
+      "objective": "Distinguish extrauterine endometrial implants from intramyometrial disease.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0562",
+      "concept": "adenomyosis-diffuse-uterine-enlargement",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Differentiate diffuse intramyometrial disease from a focal uterine or adnexal mass.",
+      "evidenceNote": "ACOG: Abnormal uterine bleeding: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Differentiate diffuse intramyometrial disease from a focal uterine or adnexal mass.",
+      "candidates": [
+        {
+          "code": "op26-0200",
+          "score": 0.124,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0560",
+          "score": 0.1048,
+          "sameObjective": false,
+          "lexical": 0.01639344262295082
+        },
+        {
+          "code": "op26x-0561",
+          "score": 0.1006,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Adenomyosis diffuse uterine enlargement",
+      "objective": "Differentiate diffuse intramyometrial disease from a focal uterine or adnexal mass.",
+      "reference": [
+        {
+          "label": "ACOG: Abnormal uterine bleeding",
+          "url": "https://www.acog.org/womens-health/faqs/abnormal-uterine-bleeding"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0563",
+      "concept": "submucosal-fibroid-bleeding-mechanism",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Use fibroid relationship to the cavity to explain heavy menstrual bleeding.",
+      "evidenceNote": "ACOG: Abnormal uterine bleeding: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Use fibroid relationship to the cavity to explain heavy menstrual bleeding.",
+      "candidates": [
+        {
+          "code": "op26x-0560",
+          "score": 0.1977,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0553",
+          "score": 0.1822,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0639",
+          "score": 0.1286,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Submucosal fibroid bleeding mechanism",
+      "objective": "Use fibroid relationship to the cavity to explain heavy menstrual bleeding.",
+      "reference": [
+        {
+          "label": "ACOG: Abnormal uterine bleeding",
+          "url": "https://www.acog.org/womens-health/faqs/abnormal-uterine-bleeding"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0564",
+      "concept": "postmenopausal-bleeding-diagnostic-priority",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated disease principle to the vignette: Recognize postmenopausal bleeding as an evaluation trigger without prematurely assigning a diagnosis.",
+      "evidenceNote": "ACOG: Abnormal uterine bleeding: publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Recognize postmenopausal bleeding as an evaluation trigger without prematurely assigning a diagnosis.",
+      "candidates": [
+        {
+          "code": "op26x-0638",
+          "score": 0.2034,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0553",
+          "score": 0.1612,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0648",
+          "score": 0.1424,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Postmenopausal bleeding diagnostic priority",
+      "objective": "Recognize postmenopausal bleeding as an evaluation trigger without prematurely assigning a diagnosis.",
+      "reference": [
+        {
+          "label": "ACOG: Abnormal uterine bleeding",
+          "url": "https://www.acog.org/womens-health/faqs/abnormal-uterine-bleeding"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0565",
+      "concept": "imperforate-hymen-outflow-obstruction",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Distinguish an anatomic outflow defect from endocrine causes of primary amenorrhea.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Distinguish an anatomic outflow defect from endocrine causes of primary amenorrhea.",
+      "candidates": [
+        {
+          "code": "op26-0177",
+          "score": 0.1674,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0511",
+          "score": 0.1591,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0557",
+          "score": 0.1004,
+          "sameObjective": false,
+          "lexical": 0.01818181818181818
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Imperforate hymen outflow obstruction",
+      "objective": "Distinguish an anatomic outflow defect from endocrine causes of primary amenorrhea.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0566",
+      "concept": "mullerian-agenesis-versus-androgen-insensitivity",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Integrate karyotype, pubic hair and gonadal anatomy in primary amenorrhea.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Integrate karyotype, pubic hair and gonadal anatomy in primary amenorrhea.",
+      "candidates": [
+        {
+          "code": "op26x-0565",
+          "score": 0.1691,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0534",
+          "score": 0.1211,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0557",
+          "score": 0.1195,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Mullerian agenesis versus androgen insensitivity",
+      "objective": "Integrate karyotype, pubic hair and gonadal anatomy in primary amenorrhea.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0567",
+      "concept": "ovarian-torsion-preserved-doppler-flow",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Avoid falsely excluding adnexal torsion on the basis of preserved Doppler flow.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Avoid falsely excluding adnexal torsion on the basis of preserved Doppler flow.",
+      "candidates": [
+        {
+          "code": "op26x-0656",
+          "score": 0.1751,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0654",
+          "score": 0.1611,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0186",
+          "score": 0.1509,
+          "sameObjective": false,
+          "lexical": 0.020833333333333332
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Ovarian torsion preserved Doppler flow",
+      "objective": "Avoid falsely excluding adnexal torsion on the basis of preserved Doppler flow.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0568",
+      "concept": "ruptured-functional-cyst-stable-patient",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Combine pregnancy exclusion, stable hemoglobin and collapsed cyst imaging.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Combine pregnancy exclusion, stable hemoglobin and collapsed cyst imaging.",
+      "candidates": [
+        {
+          "code": "op26x-0635",
+          "score": 0.1847,
+          "sameObjective": false,
+          "lexical": 0.03278688524590164
+        },
+        {
+          "code": "op26x-0536",
+          "score": 0.176,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0567",
+          "score": 0.1593,
+          "sameObjective": false,
+          "lexical": 0.016666666666666666
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Ruptured functional cyst stable patient",
+      "objective": "Combine pregnancy exclusion, stable hemoglobin and collapsed cyst imaging.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0569",
+      "concept": "genitourinary-menopause-mucosal-change",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Link noninfectious postmenopausal irritation to hypoestrogenic mucosal change.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Link noninfectious postmenopausal irritation to hypoestrogenic mucosal change.",
+      "candidates": [
+        {
+          "code": "op26x-0637",
+          "score": 0.1898,
+          "sameObjective": false,
+          "lexical": 0.043478260869565216
+        },
+        {
+          "code": "op26x-0631",
+          "score": 0.1496,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0633",
+          "score": 0.1441,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Genitourinary menopause mucosal change",
+      "objective": "Link noninfectious postmenopausal irritation to hypoestrogenic mucosal change.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0570",
+      "concept": "pelvic-inflammatory-disease-infertility",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Connect an ascending pelvic infection to later tubal factor infertility.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 ectopic site, previa identification, abruption mechanism, preeclampsia mechanism and uterine atony mechanism; distinct objective: Connect an ascending pelvic infection to later tubal factor infertility.",
+      "candidates": [
+        {
+          "code": "op26x-0560",
+          "score": 0.2336,
+          "sameObjective": false,
+          "lexical": 0.01694915254237288
+        },
+        {
+          "code": "op26x-0635",
+          "score": 0.1748,
+          "sameObjective": false,
+          "lexical": 0.05357142857142857
+        },
+        {
+          "code": "op26-0196",
+          "score": 0.123,
+          "sameObjective": false,
+          "lexical": 0.01694915254237288
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Obstetrics",
+      "topic": "Pelvic inflammatory disease infertility",
+      "objective": "Connect an ascending pelvic infection to later tubal factor infertility.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0571",
+      "concept": "flail-chest-paradoxical-segment",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Connect double fractures of adjacent ribs to paradoxical chest-wall motion.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Connect double fractures of adjacent ribs to paradoxical chest-wall motion.",
+      "candidates": [
+        {
+          "code": "op26x-0605",
+          "score": 0.0944,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0635",
+          "score": 0.0932,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0495",
+          "score": 0.0882,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Flail chest paradoxical segment",
+      "objective": "Connect double fractures of adjacent ribs to paradoxical chest-wall motion.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0572",
+      "concept": "massive-hemothorax-examination",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Use pleural fluid and percussion to distinguish traumatic blood from pleural air.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Use pleural fluid and percussion to distinguish traumatic blood from pleural air.",
+      "candidates": [
+        {
+          "code": "op26-0156",
+          "score": 0.4637,
+          "sameObjective": false,
+          "lexical": 0.01694915254237288
+        },
+        {
+          "code": "op26-0157",
+          "score": 0.3654,
+          "sameObjective": false,
+          "lexical": 0.017857142857142856
+        },
+        {
+          "code": "op26-0187",
+          "score": 0.2657,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Massive hemothorax examination",
+      "objective": "Use pleural fluid and percussion to distinguish traumatic blood from pleural air.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0573",
+      "concept": "traumatic-tamponade-obstructive-pattern",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Distinguish traumatic pericardial obstruction from isolated volume-loss shock.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Distinguish traumatic pericardial obstruction from isolated volume-loss shock.",
+      "candidates": [
+        {
+          "code": "op26x-0572",
+          "score": 0.2022,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0155",
+          "score": 0.1646,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0156",
+          "score": 0.1201,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Traumatic tamponade obstructive pattern",
+      "objective": "Distinguish traumatic pericardial obstruction from isolated volume-loss shock.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0574",
+      "concept": "traumatic-diaphragmatic-rupture",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Identify herniated abdominal contents as evidence of traumatic diaphragm disruption.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Identify herniated abdominal contents as evidence of traumatic diaphragm disruption.",
+      "candidates": [
+        {
+          "code": "op26x-0605",
+          "score": 0.1509,
+          "sameObjective": false,
+          "lexical": 0.017543859649122806
+        },
+        {
+          "code": "op26-0012",
+          "score": 0.1412,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0678",
+          "score": 0.1264,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Traumatic diaphragmatic rupture",
+      "objective": "Identify herniated abdominal contents as evidence of traumatic diaphragm disruption.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0575",
+      "concept": "esophageal-perforation-after-vomiting",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Distinguish a full-thickness vomiting-associated rupture from a mucosal bleeding tear.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Distinguish a full-thickness vomiting-associated rupture from a mucosal bleeding tear.",
+      "candidates": [
+        {
+          "code": "op26-0178",
+          "score": 0.1239,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0540",
+          "score": 0.1192,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0649",
+          "score": 0.1145,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Esophageal perforation after vomiting",
+      "objective": "Distinguish a full-thickness vomiting-associated rupture from a mucosal bleeding tear.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0576",
+      "concept": "mallory-weiss-bleeding-anatomy",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Identify mucosal rather than transmural injury after vomiting.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Identify mucosal rather than transmural injury after vomiting.",
+      "candidates": [
+        {
+          "code": "op26x-0575",
+          "score": 0.2173,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0661",
+          "score": 0.1754,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0663",
+          "score": 0.1451,
+          "sameObjective": false,
+          "lexical": 0.02
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Mallory Weiss bleeding anatomy",
+      "objective": "Identify mucosal rather than transmural injury after vomiting.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0577",
+      "concept": "gallstone-ileus-fistula-pattern",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Integrate pneumobilia with an ectopic obstructing stone to infer a biliary-enteric fistula.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Integrate pneumobilia with an ectopic obstructing stone to infer a biliary-enteric fistula.",
+      "candidates": [
+        {
+          "code": "op26-0182",
+          "score": 0.1821,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0678",
+          "score": 0.1269,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0606",
+          "score": 0.117,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Gallstone ileus fistula pattern",
+      "objective": "Integrate pneumobilia with an ectopic obstructing stone to infer a biliary-enteric fistula.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0578",
+      "concept": "sigmoid-volvulus-torsion-anatomy",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Recognize a focal mesenteric twist as a closed-loop colonic obstruction.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Recognize a focal mesenteric twist as a closed-loop colonic obstruction.",
+      "candidates": [
+        {
+          "code": "op26-0184",
+          "score": 0.1599,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0182",
+          "score": 0.1138,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0056",
+          "score": 0.1,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Sigmoid volvulus torsion anatomy",
+      "objective": "Recognize a focal mesenteric twist as a closed-loop colonic obstruction.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0579",
+      "concept": "cecal-volvulus-mobile-right-colon",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Localize volvulus to the displaced cecum rather than inferring location from pain alone.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Localize volvulus to the displaced cecum rather than inferring location from pain alone.",
+      "candidates": [
+        {
+          "code": "op26x-0578",
+          "score": 0.1431,
+          "sameObjective": false,
+          "lexical": 0.017241379310344827
+        },
+        {
+          "code": "op26x-0690",
+          "score": 0.0985,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0607",
+          "score": 0.0974,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Cecal volvulus mobile right colon",
+      "objective": "Localize volvulus to the displaced cecum rather than inferring location from pain alone.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0580",
+      "concept": "duodenal-hematoma-after-handlebar-injury",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Link delayed posttraumatic bilious obstruction to intramural duodenal bleeding.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Link delayed posttraumatic bilious obstruction to intramural duodenal bleeding.",
+      "candidates": [
+        {
+          "code": "op26x-0515",
+          "score": 0.2064,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0607",
+          "score": 0.1083,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0514",
+          "score": 0.1071,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Duodenal hematoma after handlebar injury",
+      "objective": "Link delayed posttraumatic bilious obstruction to intramural duodenal bleeding.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0581",
+      "concept": "pelvic-fracture-urethral-injury",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Prioritize the stated action with the clinical constraints: Prioritize anatomic urethral assessment before instrumentation after pelvic trauma.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Prioritize anatomic urethral assessment before instrumentation after pelvic trauma.",
+      "candidates": [
+        {
+          "code": "op26-0189",
+          "score": 0.135,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0386",
+          "score": 0.1279,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0389",
+          "score": 0.0983,
+          "sameObjective": false,
+          "lexical": 0.019230769230769232
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Pelvic fracture urethral injury",
+      "objective": "Prioritize anatomic urethral assessment before instrumentation after pelvic trauma.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0582",
+      "concept": "intraperitoneal-bladder-rupture",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Use contrast distribution to distinguish intraperitoneal from extraperitoneal bladder injury.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Use contrast distribution to distinguish intraperitoneal from extraperitoneal bladder injury.",
+      "candidates": [
+        {
+          "code": "op26x-0670",
+          "score": 0.1494,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0669",
+          "score": 0.1473,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0371",
+          "score": 0.1464,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Intraperitoneal bladder rupture",
+      "objective": "Use contrast distribution to distinguish intraperitoneal from extraperitoneal bladder injury.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0583",
+      "concept": "epidural-hematoma-arterial-anatomy",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Combine fracture location and extra-axial collection geometry to identify the bleeding source.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Combine fracture location and extra-axial collection geometry to identify the bleeding source.",
+      "candidates": [
+        {
+          "code": "s1-0007",
+          "score": 0.0668,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0004",
+          "score": 0.0621,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0006",
+          "score": 0.0602,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Epidural hematoma arterial anatomy",
+      "objective": "Combine fracture location and extra-axial collection geometry to identify the bleeding source.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0584",
+      "concept": "subdural-hematoma-bridging-veins",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Distinguish a venous subdural collection using age, injury and CT distribution.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Distinguish a venous subdural collection using age, injury and CT distribution.",
+      "candidates": [
+        {
+          "code": "op26x-0367",
+          "score": 0.1671,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0443",
+          "score": 0.1206,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0583",
+          "score": 0.1056,
+          "sameObjective": false,
+          "lexical": 0.017857142857142856
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Subdural hematoma bridging veins",
+      "objective": "Distinguish a venous subdural collection using age, injury and CT distribution.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0585",
+      "concept": "basilar-skull-fracture-csf-leak",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Integrate a specific fluid marker with skull-base trauma signs.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Integrate a specific fluid marker with skull-base trauma signs.",
+      "candidates": [
+        {
+          "code": "op26x-0677",
+          "score": 0.1487,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0572",
+          "score": 0.1338,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0670",
+          "score": 0.1102,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Basilar skull fracture CSF leak",
+      "objective": "Integrate a specific fluid marker with skull-base trauma signs.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0586",
+      "concept": "septal-hematoma-after-nasal-trauma",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Explain why a posttraumatic septal collection threatens avascular cartilage.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Explain why a posttraumatic septal collection threatens avascular cartilage.",
+      "candidates": [
+        {
+          "code": "op26x-0663",
+          "score": 0.1531,
+          "sameObjective": false,
+          "lexical": 0.08928571428571429
+        },
+        {
+          "code": "op26x-0646",
+          "score": 0.1215,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0013",
+          "score": 0.0975,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Septal hematoma after nasal trauma",
+      "objective": "Explain why a posttraumatic septal collection threatens avascular cartilage.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0587",
+      "concept": "posterior-hip-dislocation-sciatic-risk",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Connect posterior hip displacement and a distal motor deficit to sciatic injury.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Connect posterior hip displacement and a distal motor deficit to sciatic injury.",
+      "candidates": [
+        {
+          "code": "op26x-0521",
+          "score": 0.2176,
+          "sameObjective": false,
+          "lexical": 0.03508771929824561
+        },
+        {
+          "code": "op26x-0041",
+          "score": 0.1886,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0044",
+          "score": 0.1775,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Posterior hip dislocation sciatic risk",
+      "objective": "Connect posterior hip displacement and a distal motor deficit to sciatic injury.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0588",
+      "concept": "supracondylar-fracture-vascular-concern",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Prioritize the vascular implication of a displaced pediatric elbow fracture.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Prioritize the vascular implication of a displaced pediatric elbow fracture.",
+      "candidates": [
+        {
+          "code": "s1-0007",
+          "score": 0.2447,
+          "sameObjective": false,
+          "lexical": 0.012048192771084338
+        },
+        {
+          "code": "op26-0195",
+          "score": 0.1891,
+          "sameObjective": false,
+          "lexical": 0.01694915254237288
+        },
+        {
+          "code": "op26x-0579",
+          "score": 0.1271,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Supracondylar fracture vascular concern",
+      "objective": "Prioritize the vascular implication of a displaced pediatric elbow fracture.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0589",
+      "concept": "monteggia-injury-paired-lesion",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Identify the joint injury accompanying a proximal ulnar fracture.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Identify the joint injury accompanying a proximal ulnar fracture.",
+      "candidates": [
+        {
+          "code": "op26x-0306",
+          "score": 0.1474,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0189",
+          "score": 0.139,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s1-0007",
+          "score": 0.1175,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Monteggia injury paired lesion",
+      "objective": "Identify the joint injury accompanying a proximal ulnar fracture.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0590",
+      "concept": "galeazzi-injury-distal-radioulnar-joint",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Recognize distal radioulnar disruption accompanying a radial shaft fracture.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Recognize distal radioulnar disruption accompanying a radial shaft fracture.",
+      "candidates": [
+        {
+          "code": "op26x-0589",
+          "score": 0.4922,
+          "sameObjective": false,
+          "lexical": 0.1702127659574468
+        },
+        {
+          "code": "s1-0007",
+          "score": 0.1522,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0588",
+          "score": 0.1371,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Galeazzi injury distal radioulnar joint",
+      "objective": "Recognize distal radioulnar disruption accompanying a radial shaft fracture.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0591",
+      "concept": "open-fracture-infection-pathway",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated disease principle to the vignette: Define an open fracture by communication rather than visible protruding bone.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Define an open fracture by communication rather than visible protruding bone.",
+      "candidates": [
+        {
+          "code": "op26-0074",
+          "score": 0.1658,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0589",
+          "score": 0.1548,
+          "sameObjective": false,
+          "lexical": 0.0392156862745098
+        },
+        {
+          "code": "op26x-0678",
+          "score": 0.1527,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Open fracture infection pathway",
+      "objective": "Define an open fracture by communication rather than visible protruding bone.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0592",
+      "concept": "testicular-torsion-clinical-pattern",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Integrate onset, testicular position and reflex findings in an acute scrotum.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Integrate onset, testicular position and reflex findings in an acute scrotum.",
+      "candidates": [
+        {
+          "code": "op26x-0686",
+          "score": 0.1784,
+          "sameObjective": false,
+          "lexical": 0.03225806451612903
+        },
+        {
+          "code": "op26x-0567",
+          "score": 0.1614,
+          "sameObjective": false,
+          "lexical": 0.034482758620689655
+        },
+        {
+          "code": "op26x-0685",
+          "score": 0.1497,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Testicular torsion clinical pattern",
+      "objective": "Integrate onset, testicular position and reflex findings in an acute scrotum.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0593",
+      "concept": "hydrocele-transillumination",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Use sonographic location and fluid character to identify a hydrocele.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Use sonographic location and fluid character to identify a hydrocele.",
+      "candidates": [
+        {
+          "code": "op26x-0685",
+          "score": 0.2171,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0686",
+          "score": 0.1846,
+          "sameObjective": false,
+          "lexical": 0.018867924528301886
+        },
+        {
+          "code": "op26x-0536",
+          "score": 0.1257,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Hydrocele transillumination",
+      "objective": "Use sonographic location and fluid character to identify a hydrocele.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0594",
+      "concept": "varicocele-positional-venous-dilation",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Identify a positional pampiniform venous lesion rather than a solid scrotal mass.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Identify a positional pampiniform venous lesion rather than a solid scrotal mass.",
+      "candidates": [
+        {
+          "code": "op26x-0685",
+          "score": 0.1536,
+          "sameObjective": false,
+          "lexical": 0.05555555555555555
+        },
+        {
+          "code": "op26x-0686",
+          "score": 0.1505,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0593",
+          "score": 0.1422,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Varicocele positional venous dilation",
+      "objective": "Identify a positional pampiniform venous lesion rather than a solid scrotal mass.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0595",
+      "concept": "necrotizing-soft-tissue-infection-warning",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Identify deep destructive infection from disproportionate pain and systemic deterioration.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Identify deep destructive infection from disproportionate pain and systemic deterioration.",
+      "candidates": [
+        {
+          "code": "op26x-0609",
+          "score": 0.1265,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0673",
+          "score": 0.1141,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0678",
+          "score": 0.1056,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Necrotizing soft tissue infection warning",
+      "objective": "Identify deep destructive infection from disproportionate pain and systemic deterioration.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0596",
+      "concept": "fournier-perineal-infection",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Recognize perineal fascial infection despite preserved testicular perfusion.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Recognize perineal fascial infection despite preserved testicular perfusion.",
+      "candidates": [
+        {
+          "code": "op26x-0592",
+          "score": 0.1347,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0595",
+          "score": 0.1255,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0675",
+          "score": 0.1109,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Fournier perineal infection",
+      "objective": "Recognize perineal fascial infection despite preserved testicular perfusion.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0597",
+      "concept": "breast-fibroadenoma-clinical-pattern",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Integrate age, mobility and ultrasound orientation in a benign breast mass pattern.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Integrate age, mobility and ultrasound orientation in a benign breast mass pattern.",
+      "candidates": [
+        {
+          "code": "op26x-0646",
+          "score": 0.1662,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0685",
+          "score": 0.1298,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0660",
+          "score": 0.1272,
+          "sameObjective": false,
+          "lexical": 0.01694915254237288
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Breast fibroadenoma clinical pattern",
+      "objective": "Integrate age, mobility and ultrasound orientation in a benign breast mass pattern.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0598",
+      "concept": "inflammatory-breast-cancer-lymphatics",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Explain malignant peau d orange through dermal lymphatic obstruction.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Explain malignant peau d orange through dermal lymphatic obstruction.",
+      "candidates": [
+        {
+          "code": "op26x-0298",
+          "score": 0.1508,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0037",
+          "score": 0.1242,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0677",
+          "score": 0.1171,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Inflammatory breast cancer lymphatics",
+      "objective": "Explain malignant peau d orange through dermal lymphatic obstruction.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0599",
+      "concept": "phyllodes-stromal-breast-tumor",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Identify a leaflike stromal breast lesion while avoiding grade inference from growth alone.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Identify a leaflike stromal breast lesion while avoiding grade inference from growth alone.",
+      "candidates": [
+        {
+          "code": "op26x-0597",
+          "score": 0.1828,
+          "sameObjective": false,
+          "lexical": 0.01818181818181818
+        },
+        {
+          "code": "op26x-0639",
+          "score": 0.1557,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0616",
+          "score": 0.1454,
+          "sameObjective": false,
+          "lexical": 0.03571428571428571
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Phyllodes stromal breast tumor",
+      "objective": "Identify a leaflike stromal breast lesion while avoiding grade inference from growth alone.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0600",
+      "concept": "intraductal-papilloma-discharge",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Combine the independent clinical findings to distinguish alternatives: Integrate single-duct bleeding with benign papillary ductal histology.",
+      "evidenceNote": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990): publisher/official indexed record checked 2026-10-29. Supports disease framework or clinical examination; book-level references do not independently validate every option. Older books are not used to assert a current drug regimen.",
+      "semanticReviewNote": "Compared with Batch 08 surgical recognition and mechanism items, including obstruction, ischemia, hernia and fracture vascular risk; distinct objective: Integrate single-duct bleeding with benign papillary ductal histology.",
+      "candidates": [
+        {
+          "code": "op26-0024",
+          "score": 0.1048,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0667",
+          "score": 0.0869,
+          "sameObjective": false,
+          "lexical": 0.01639344262295082
+        },
+        {
+          "code": "op26x-0597",
+          "score": 0.0865,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 2 CK",
+      "subject": "Surgery",
+      "topic": "Intraductal papilloma discharge",
+      "objective": "Integrate single-duct bleeding with benign papillary ductal histology.",
+      "reference": [
+        {
+          "label": "Clinical Methods, 3rd edition: examination and diagnostic reasoning (1990)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+        }
+      ]
+    }
+  ]
+}

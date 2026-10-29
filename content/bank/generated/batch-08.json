@@ -1,0 +1,1152 @@
+[
+  {
+    "code": "op26-0176",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Hyperosmolar hyperglycemia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An older adult with type 2 diabetes develops profound dehydration and confusion. Glucose is 860 mg/dL, effective osmolality is markedly elevated, and ketones are minimal without substantial acidosis. Which mechanism explains the relative absence of ketosis?",
+    "options": [
+      {
+        "text": "Residual insulin limits lipolysis more than it controls glucose",
+        "explanation": "Enough insulin may remain to suppress marked ketogenesis despite severe hyperglycemia.",
+        "correct": true
+      },
+      {
+        "text": "All insulin secretion is necessarily absent",
+        "explanation": "Complete insulin deficiency more strongly favors ketogenesis.",
+        "correct": false
+      },
+      {
+        "text": "The kidney converts all ketones into glucose instantly",
+        "explanation": "This is not the physiologic explanation for the syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Hyperglycemia directly prevents all fat breakdown",
+        "explanation": "Glucose alone does not replace insulin-dependent regulation of lipolysis.",
+        "correct": false
+      }
+    ],
+    "explanation": "Hyperosmolar hyperglycemic illness can occur when insulin activity is insufficient for normal glucose control but still limits extensive lipolysis and ketone production. Osmotic diuresis causes major water loss and hyperosmolality. Overlap with ketoacidosis can occur, so the syndromes should not be treated as mutually exclusive based on glucose alone.",
+    "objective": "Explain severe hyperglycemia with limited ketosis through residual insulin activity.",
+    "keyPoints": [
+      "Explain severe hyperglycemia with limited ketosis through residual insulin activity."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0177",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Postrenal kidney injury",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An older man has suprapubic fullness, weak urinary stream, bilateral hydronephrosis, and rising creatinine. Which mechanism best explains the kidney injury?",
+    "options": [
+      {
+        "text": "Isolated unilateral ureteral obstruction with a completely normal opposite kidney",
+        "explanation": "This does not best explain bilateral dilation and substantial global kidney dysfunction.",
+        "correct": false
+      },
+      {
+        "text": "Primary nephrotic protein leakage",
+        "explanation": "The obstructive symptoms and hydronephrosis point to outflow impairment.",
+        "correct": false
+      },
+      {
+        "text": "Excess water intake without obstruction",
+        "explanation": "This does not explain a distended bladder and bilateral hydronephrosis.",
+        "correct": false
+      },
+      {
+        "text": "Urinary outflow obstruction increasing upstream pressure",
+        "explanation": "Bilateral obstruction can reduce effective filtration pressure and kidney function.",
+        "correct": true
+      }
+    ],
+    "explanation": "Bladder outlet obstruction can transmit pressure to both collecting systems and impair filtration. The combination of retention symptoms, suprapubic fullness, and bilateral hydronephrosis supports postrenal injury. Relief may be followed by substantial diuresis and electrolyte shifts, so identifying the cause is only the start of ongoing clinical management.",
+    "objective": "Recognize bilateral outflow obstruction as a reversible cause of kidney injury.",
+    "keyPoints": [
+      "Recognize bilateral outflow obstruction as a reversible cause of kidney injury."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0178",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Inflammatory bowel pattern",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A young adult has recurrent bloody diarrhea. Colonoscopy shows continuous mucosal inflammation extending proximally from the rectum, without skip lesions or transmural fistulas. Which diagnosis is most consistent?",
+    "options": [
+      {
+        "text": "Irritable bowel syndrome",
+        "explanation": "It does not explain visible inflammatory mucosal injury and bleeding.",
+        "correct": false
+      },
+      {
+        "text": "Uncomplicated lactose intolerance",
+        "explanation": "This causes malabsorptive symptoms without this continuous inflammatory lesion.",
+        "correct": false
+      },
+      {
+        "text": "Ulcerative colitis",
+        "explanation": "Continuous rectal-origin mucosal disease is the characteristic distribution.",
+        "correct": true
+      },
+      {
+        "text": "Crohn disease",
+        "explanation": "This more often has skip lesions, transmural involvement or fistulas.",
+        "correct": false
+      }
+    ],
+    "explanation": "Ulcerative colitis characteristically begins in the rectum and extends continuously through variable lengths of colon, with inflammation centered in the mucosa. Crohn disease can affect other gastrointestinal sites and is more often discontinuous and transmural. Infection and other colitides still need exclusion before assigning a chronic inflammatory bowel diagnosis.",
+    "objective": "Distinguish continuous mucosal colitis from skip-pattern transmural disease.",
+    "keyPoints": [
+      "Distinguish continuous mucosal colitis from skip-pattern transmural disease."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0179",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Iron overload pattern",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A man has diabetes, skin hyperpigmentation, and liver disease. Transferrin saturation and ferritin are elevated. Which mechanism is most consistent with hereditary hemochromatosis?",
+    "options": [
+      {
+        "text": "Excess urinary iron excretion as the primary event",
+        "explanation": "Losing iron would not explain progressive systemic accumulation.",
+        "correct": false
+      },
+      {
+        "text": "Inappropriately low hepcidin signaling for body iron stores",
+        "explanation": "Excess intestinal iron entry and release promote progressive overload.",
+        "correct": true
+      },
+      {
+        "text": "Complete absence of dietary iron absorption",
+        "explanation": "This would cause deficiency rather than iron accumulation.",
+        "correct": false
+      },
+      {
+        "text": "Isolated failure of intrinsic factor secretion",
+        "explanation": "This impairs cobalamin absorption rather than causing this iron pattern.",
+        "correct": false
+      }
+    ],
+    "explanation": "Common hereditary hemochromatosis involves inadequate hepcidin regulation relative to iron stores, allowing excessive ferroportin-mediated iron transfer into plasma. Progressive tissue deposition can injure liver, pancreas, and other organs. Ferritin is nonspecific and can rise in inflammation, so transferrin saturation and etiologic evaluation are needed rather than diagnosis from pigmentation alone.",
+    "objective": "Link hereditary iron overload to inadequate hepcidin regulation.",
+    "keyPoints": [
+      "Link hereditary iron overload to inadequate hepcidin regulation."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0180",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Anaphylactic shock mechanism",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient develops wheezing, diffuse urticaria, and hypotension minutes after an antibiotic injection. Which paired vascular change most directly contributes to the hypotension?",
+    "options": [
+      {
+        "text": "Vasodilation and increased vascular permeability",
+        "explanation": "Mediator release reduces vascular tone and shifts fluid out of vessels.",
+        "correct": true
+      },
+      {
+        "text": "Uniform intense vasoconstriction with no fluid shift",
+        "explanation": "This is opposite to the typical distributive and permeability effects.",
+        "correct": false
+      },
+      {
+        "text": "Isolated chronic reduction in red-cell production",
+        "explanation": "This cannot explain the abrupt allergic circulatory collapse.",
+        "correct": false
+      },
+      {
+        "text": "Mechanical blockage of the aortic valve",
+        "explanation": "The acute multisystem allergic pattern does not indicate a new fixed valve obstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "Anaphylaxis can rapidly produce vasodilation and capillary leak, reducing effective circulating volume and pressure while bronchoconstriction impairs ventilation. The combined skin, respiratory, and circulatory findings support a systemic allergic emergency. Hypotension is not required in every case, and an absent rash does not exclude anaphylaxis.",
+    "objective": "Explain circulatory collapse in anaphylaxis through vasodilation and vascular leak.",
+    "keyPoints": [
+      "Explain circulatory collapse in anaphylaxis through vasodilation and vascular leak."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0181",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Appendicitis pain migration",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old has vague periumbilical pain that later localizes to the right lower quadrant with guarding. Which change best explains migration of the pain as appendicitis progresses?",
+    "options": [
+      {
+        "text": "The appendix physically migrates from the umbilicus",
+        "explanation": "Pain migration reflects innervation and inflammation rather than organ relocation.",
+        "correct": false
+      },
+      {
+        "text": "Only skin nerves are affected throughout",
+        "explanation": "Early pain is visceral rather than purely cutaneous.",
+        "correct": false
+      },
+      {
+        "text": "The right kidney always becomes infected secondarily",
+        "explanation": "Renal infection is not required for the characteristic sequence.",
+        "correct": false
+      },
+      {
+        "text": "Inflammation spreads from visceral afferent stimulation to parietal peritoneal irritation",
+        "explanation": "Somatic peritoneal innervation permits more precise localization.",
+        "correct": true
+      }
+    ],
+    "explanation": "Early appendiceal distention produces poorly localized visceral pain often perceived near the umbilicus. When inflammation reaches adjacent parietal peritoneum, somatic innervation localizes tenderness to the right lower quadrant. Position variations and patient factors can alter the presentation, so the classic sequence is helpful but not obligatory.",
+    "objective": "Explain appendicitis pain migration through visceral and somatic innervation.",
+    "keyPoints": [
+      "Explain appendicitis pain migration through visceral and somatic innervation."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0182",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Adhesive bowel obstruction",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A woman with prior abdominal surgery develops colicky pain, vomiting, distention, and failure to pass stool or flatus. Imaging shows dilated small-bowel loops with a transition point. Which cause is most likely?",
+    "options": [
+      {
+        "text": "Isolated gastroesophageal reflux",
+        "explanation": "This does not explain obstipation and dilated small bowel.",
+        "correct": false
+      },
+      {
+        "text": "Uncomplicated hemorrhoids",
+        "explanation": "These do not cause a small-bowel obstructive transition.",
+        "correct": false
+      },
+      {
+        "text": "Postoperative adhesions",
+        "explanation": "Fibrous bands after surgery commonly create a mechanical small-bowel transition.",
+        "correct": true
+      },
+      {
+        "text": "Diffuse paralytic ileus alone",
+        "explanation": "Ileus generally lacks a discrete mechanical transition point.",
+        "correct": false
+      }
+    ],
+    "explanation": "Prior surgery makes adhesions a common cause of mechanical small-bowel obstruction. A transition point separates dilated proximal bowel from decompressed distal bowel and helps distinguish mechanical obstruction from diffuse ileus. Continuous severe pain, peritonitis, or systemic deterioration raises concern for ischemia rather than an uncomplicated obstructive course.",
+    "objective": "Identify a postoperative mechanical small-bowel obstruction and recognize ischemic warning signs.",
+    "keyPoints": [
+      "Identify a postoperative mechanical small-bowel obstruction and recognize ischemic warning signs."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0183",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Acute cholecystitis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient has persistent right upper quadrant pain, fever, and inspiratory arrest during subcostal palpation. Ultrasound shows gallstones, gallbladder wall thickening, and pericholecystic fluid. Which obstruction most commonly initiates this process?",
+    "options": [
+      {
+        "text": "Portal vein occlusion as an obligatory event",
+        "explanation": "Portal thrombosis is not the usual initiating mechanism.",
+        "correct": false
+      },
+      {
+        "text": "Cystic duct obstruction",
+        "explanation": "Impaired gallbladder outflow leads to distention and inflammation.",
+        "correct": true
+      },
+      {
+        "text": "Distal ureteral obstruction",
+        "explanation": "This affects urinary drainage rather than the gallbladder.",
+        "correct": false
+      },
+      {
+        "text": "Esophageal obstruction",
+        "explanation": "This does not explain inflammatory gallbladder ultrasound findings.",
+        "correct": false
+      }
+    ],
+    "explanation": "Acute calculous cholecystitis usually follows cystic duct obstruction, leading to gallbladder distention, wall inflammation, and surrounding fluid. Persistent pain and inflammatory findings distinguish it from transient uncomplicated biliary colic. Common bile duct obstruction may cause a different pattern, particularly jaundice, but is not required for cholecystitis.",
+    "objective": "Distinguish cystic duct obstruction in cholecystitis from transient biliary colic.",
+    "keyPoints": [
+      "Distinguish cystic duct obstruction in cholecystitis from transient biliary colic."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0184",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Mesenteric ischemia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An older patient with atrial fibrillation develops abrupt severe abdominal pain. The early abdominal examination is relatively mild compared with the reported pain. Which vascular event is most concerning?",
+    "options": [
+      {
+        "text": "Embolic occlusion of a mesenteric artery",
+        "explanation": "Atrial emboli can abruptly reduce intestinal arterial perfusion.",
+        "correct": true
+      },
+      {
+        "text": "Isolated superficial abdominal vein inflammation",
+        "explanation": "This does not usually produce acute intestinal ischemic pain.",
+        "correct": false
+      },
+      {
+        "text": "Slow uncomplicated hemorrhoidal bleeding",
+        "explanation": "This does not explain abrupt pain out of proportion to early examination.",
+        "correct": false
+      },
+      {
+        "text": "Stable chronic reflux alone",
+        "explanation": "This does not account for the embolic risk and severe acute pain.",
+        "correct": false
+      }
+    ],
+    "explanation": "Acute mesenteric arterial embolism can produce severe visceral pain before transmural injury creates prominent peritoneal signs. Atrial fibrillation supplies an important embolic context. The classic examination mismatch is suggestive rather than universal; absence of dramatic early tenderness should not falsely reassure when ischemia is plausible.",
+    "objective": "Recognize early mesenteric ischemia despite a relatively benign abdominal examination.",
+    "keyPoints": [
+      "Recognize early mesenteric ischemia despite a relatively benign abdominal examination."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0185",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Compartment syndrome",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "After a tibial fracture, a patient has escalating leg pain despite analgesia and severe pain with passive toe movement. The compartment is tense, but distal pulses are present. Which conclusion is most appropriate?",
+    "options": [
+      {
+        "text": "Normal pulses definitively exclude compartment syndrome",
+        "explanation": "Pulse loss is a late and unreliable exclusion criterion.",
+        "correct": false
+      },
+      {
+        "text": "Pain with passive stretch proves only a skin bruise",
+        "explanation": "This finding raises concern for ischemic muscle in a closed compartment.",
+        "correct": false
+      },
+      {
+        "text": "The problem must be chronic venous insufficiency",
+        "explanation": "The acute post-fracture evolution is not a typical chronic venous pattern.",
+        "correct": false
+      },
+      {
+        "text": "Compartment syndrome remains possible despite palpable pulses",
+        "explanation": "Microvascular perfusion can fail before large-artery pulses disappear.",
+        "correct": true
+      }
+    ],
+    "explanation": "Rising pressure within a fascial compartment can reduce capillary perfusion and injure muscle and nerves. Pain out of proportion and pain on passive stretch are concerning early findings, while palpable pulses may persist. This is a time-sensitive surgical assessment; waiting for pulselessness risks irreversible tissue injury.",
+    "objective": "Avoid excluding compartment syndrome because distal pulses remain present.",
+    "keyPoints": [
+      "Avoid excluding compartment syndrome because distal pulses remain present."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0186",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Acute limb ischemia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with atrial fibrillation develops sudden leg pain, pallor, coolness, absent distal pulses, and new sensory loss. Which mechanism best integrates the abrupt presentation?",
+    "options": [
+      {
+        "text": "Chronic peripheral neuropathy alone",
+        "explanation": "This does not explain a newly cold pulseless limb.",
+        "correct": false
+      },
+      {
+        "text": "Stable osteoarthritis",
+        "explanation": "This does not cause abrupt perfusion failure and sensory loss.",
+        "correct": false
+      },
+      {
+        "text": "Acute arterial occlusion",
+        "explanation": "Sudden loss of arterial inflow produces ischemic sensory and vascular findings.",
+        "correct": true
+      },
+      {
+        "text": "Uncomplicated deep venous thrombosis",
+        "explanation": "Venous thrombosis more often causes swelling and does not usually abolish arterial pulses.",
+        "correct": false
+      }
+    ],
+    "explanation": "Acute limb ischemia causes sudden arterial underperfusion with pain, pallor, coolness, pulse loss, and potentially sensory or motor deficits. An embolus is plausible with atrial fibrillation. Neurologic deficits indicate threatened tissue, so the clinical finding is more than a chronic claudication complaint and requires urgent vascular evaluation.",
+    "objective": "Identify abrupt arterial insufficiency and the significance of sensory loss.",
+    "keyPoints": [
+      "Identify abrupt arterial insufficiency and the significance of sensory loss."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0187",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Tension pneumothorax",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A ventilated trauma patient suddenly becomes hypotensive and hypoxemic. One side has absent breath sounds and marked hyperresonance. Which mechanism most directly causes the circulatory compromise if tension pneumothorax is present?",
+    "options": [
+      {
+        "text": "Low pleural pressure greatly increases preload",
+        "explanation": "The pathologic pressure is increased and limits rather than boosts filling.",
+        "correct": false
+      },
+      {
+        "text": "Elevated pleural pressure impairs venous return",
+        "explanation": "Pressure on intrathoracic veins reduces cardiac filling and output.",
+        "correct": true
+      },
+      {
+        "text": "A primary increase in left ventricular contractility",
+        "explanation": "This does not explain obstructive shock from pleural pressure.",
+        "correct": false
+      },
+      {
+        "text": "Immediate loss of all circulating red-cell mass",
+        "explanation": "Tension physiology does not require catastrophic external blood loss.",
+        "correct": false
+      }
+    ],
+    "explanation": "A one-way pleural air leak can progressively raise intrathoracic pressure, compressing lung and impairing venous return. The resulting obstructive shock can evolve rapidly, particularly during positive-pressure ventilation. The mechanism explains why circulatory failure may accompany unilateral chest findings rather than being due only to impaired oxygen exchange.",
+    "objective": "Explain tension pneumothorax shock through reduced venous return.",
+    "keyPoints": [
+      "Explain tension pneumothorax shock through reduced venous return."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0188",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Perforated viscus",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with sudden severe abdominal pain has a rigid abdomen and free air beneath the diaphragm on upright imaging. Which process best explains these findings?",
+    "options": [
+      {
+        "text": "Perforation of a hollow gastrointestinal organ",
+        "explanation": "Escaped gas and luminal contents can cause pneumoperitoneum and peritonitis.",
+        "correct": true
+      },
+      {
+        "text": "Uncomplicated constipation alone",
+        "explanation": "This does not explain free intraperitoneal air with rigidity.",
+        "correct": false
+      },
+      {
+        "text": "Isolated reflux without a wall defect",
+        "explanation": "Reflux does not normally release air into the peritoneal cavity.",
+        "correct": false
+      },
+      {
+        "text": "Simple renal cyst",
+        "explanation": "A renal cyst does not contain gastrointestinal luminal gas.",
+        "correct": false
+      }
+    ],
+    "explanation": "Free intraperitoneal gas with acute peritoneal irritation strongly suggests perforation of a hollow viscus in the appropriate context. Leakage causes chemical and potentially bacterial peritonitis. Recent procedures can also introduce free air, so imaging must be interpreted with history, but the rigid acute abdomen here is a major warning sign.",
+    "objective": "Interpret pneumoperitoneum with acute rigidity as a perforation concern.",
+    "keyPoints": [
+      "Interpret pneumoperitoneum with acute rigidity as a perforation concern."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0189",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Scaphoid fracture",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient falls onto an outstretched hand and has anatomic snuffbox tenderness. Initial radiographs are normal. Which feature makes an occult scaphoid fracture clinically important to recognize?",
+    "options": [
+      {
+        "text": "Every fracture is visible on the first radiograph",
+        "explanation": "Early imaging can miss a fracture despite compatible examination.",
+        "correct": false
+      },
+      {
+        "text": "The scaphoid has no role in wrist mechanics",
+        "explanation": "It is an important carpal bone and untreated injury can impair function.",
+        "correct": false
+      },
+      {
+        "text": "Snuffbox tenderness proves a distal phalanx injury",
+        "explanation": "The examination localizes concern to the radial wrist rather than a finger tip.",
+        "correct": false
+      },
+      {
+        "text": "Risk of proximal fragment osteonecrosis from retrograde blood supply",
+        "explanation": "A fracture can interrupt vessels entering more distally.",
+        "correct": true
+      }
+    ],
+    "explanation": "Much of the scaphoid receives blood through vessels entering distally and traveling proximally. Fracture can compromise proximal perfusion and increase nonunion or osteonecrosis risk. A normal initial radiograph does not eliminate an occult fracture, so persistent clinical suspicion requires appropriate protection and follow-up evaluation.",
+    "objective": "Recognize occult scaphoid injury and its retrograde vascular risk.",
+    "keyPoints": [
+      "Recognize occult scaphoid injury and its retrograde vascular risk."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0190",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Incarcerated hernia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient has a previously reducible groin bulge that is now painful and cannot be reduced. Vomiting and abdominal distention develop. Which additional finding most strongly raises concern for strangulation rather than incarceration alone?",
+    "options": [
+      {
+        "text": "Absence of any discomfort",
+        "explanation": "This would be less supportive of acute ischemic complication.",
+        "correct": false
+      },
+      {
+        "text": "Normal appetite and easy reduction",
+        "explanation": "These do not fit the described incarcerated obstructive process.",
+        "correct": false
+      },
+      {
+        "text": "Progressive severe tenderness with systemic toxicity",
+        "explanation": "These suggest compromised blood supply and ischemic bowel.",
+        "correct": true
+      },
+      {
+        "text": "A longstanding history of a reducible bulge",
+        "explanation": "This establishes a hernia history but does not itself show strangulation.",
+        "correct": false
+      }
+    ],
+    "explanation": "Incarceration means hernia contents cannot be reduced; strangulation adds impaired blood supply. Escalating pain, local inflammatory changes, peritoneal signs, or systemic toxicity heighten concern for ischemic bowel. Obstruction can occur without strangulation, so the terms should not be treated as identical even though both may require urgent surgical evaluation.",
+    "objective": "Distinguish irreducible hernia contents from ischemic strangulation.",
+    "keyPoints": [
+      "Distinguish irreducible hernia contents from ischemic strangulation."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0191",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Pyloric stenosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A five-week-old infant has progressively forceful nonbilious vomiting after feeds and remains hungry afterward. Examination suggests a small firm epigastric mass. Which acid-base disturbance is most characteristic after sustained gastric losses?",
+    "options": [
+      {
+        "text": "Hyperchloremic acidosis from intestinal bicarbonate loss",
+        "explanation": "This is more characteristic of substantial lower gastrointestinal bicarbonate loss.",
+        "correct": false
+      },
+      {
+        "text": "Hypochloremic metabolic alkalosis",
+        "explanation": "Loss of gastric hydrochloric acid raises bicarbonate and depletes chloride.",
+        "correct": true
+      },
+      {
+        "text": "High-gap ketoacidosis as the obligatory primary lesion",
+        "explanation": "Gastric acid loss primarily favors alkalosis rather than this pattern.",
+        "correct": false
+      },
+      {
+        "text": "Primary respiratory alkalosis from airway obstruction",
+        "explanation": "The described lesion is gastric outlet obstruction, not a primary pulmonary process.",
+        "correct": false
+      }
+    ],
+    "explanation": "Hypertrophic pyloric stenosis obstructs gastric emptying proximal to bile entry, explaining nonbilious vomiting. Repeated loss of gastric acid and chloride causes metabolic alkalosis and volume depletion. The classic biochemical pattern may be absent early, so normal initial electrolytes do not exclude the disorder in a compatible infant.",
+    "objective": "Connect nonbilious outlet obstruction to gastric acid loss and metabolic alkalosis.",
+    "keyPoints": [
+      "Connect nonbilious outlet obstruction to gastric acid loss and metabolic alkalosis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0192",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Intussusception",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A toddler has intermittent episodes of severe abdominal pain with drawing up of the legs, followed by relative comfort. He later passes bloody mucus. Ultrasound shows concentric bowel rings. Which process is occurring?",
+    "options": [
+      {
+        "text": "Telescoping of one bowel segment into another",
+        "explanation": "Invaginated bowel creates obstruction and can compromise venous and arterial flow.",
+        "correct": true
+      },
+      {
+        "text": "Isolated gastric acid reflux",
+        "explanation": "This does not produce the concentric bowel target pattern.",
+        "correct": false
+      },
+      {
+        "text": "Fixed pyloric muscle thickening",
+        "explanation": "This occurs near the gastric outlet in younger infants and causes nonbilious vomiting.",
+        "correct": false
+      },
+      {
+        "text": "Simple lactose malabsorption",
+        "explanation": "This does not explain episodic obstructive pain with a sonographic bowel target.",
+        "correct": false
+      }
+    ],
+    "explanation": "Intussusception involves invagination of bowel and its mesentery, producing intermittent pain and obstruction. Venous congestion can lead to mucosal bleeding and later ischemia. The classic pain, mass, and bloody-stool triad is not always complete; the ultrasound target supports the diagnosis without requiring every classic feature.",
+    "objective": "Recognize intussusception from episodic pain and concentric bowel ultrasound.",
+    "keyPoints": [
+      "Recognize intussusception from episodic pain and concentric bowel ultrasound."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0193",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "Coarctation of the aorta",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A school-age child has high arm blood pressure and weaker, delayed femoral pulses. Leg pressure is lower than arm pressure. Which structural lesion best explains the examination?",
+    "options": [
+      {
+        "text": "Isolated atrial septal defect",
+        "explanation": "This does not usually cause delayed femoral pulses with an arm-leg gradient.",
+        "correct": false
+      },
+      {
+        "text": "Uncomplicated patent foramen ovale",
+        "explanation": "This does not create a fixed lower-body arterial obstruction.",
+        "correct": false
+      },
+      {
+        "text": "Mitral valve prolapse",
+        "explanation": "This does not explain a major upper-lower limb pulse difference.",
+        "correct": false
+      },
+      {
+        "text": "Aortic coarctation",
+        "explanation": "Narrowing limits flow to the lower body and produces upper-lower pressure differences.",
+        "correct": true
+      }
+    ],
+    "explanation": "Coarctation narrows the aorta, commonly near the ductal region, causing higher pressure proximal to the narrowing and reduced distal pulses or pressure. Comparing arm and leg findings is therefore valuable. Pulse asymmetry can depend on the exact anatomy, and echocardiographic or vascular imaging defines the lesion.",
+    "objective": "Use delayed femoral pulses and an arm-leg pressure gradient to identify coarctation.",
+    "keyPoints": [
+      "Use delayed femoral pulses and an arm-leg pressure gradient to identify coarctation."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0194",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Croup localization",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A two-year-old develops a barking cough, hoarse voice, and inspiratory stridor after several days of upper respiratory symptoms. Imaging, if obtained, suggests subglottic narrowing. Which location is principally responsible?",
+    "options": [
+      {
+        "text": "Pleural space",
+        "explanation": "Pleural disease does not account for subglottic stridor.",
+        "correct": false
+      },
+      {
+        "text": "Pulmonary arterial tree",
+        "explanation": "A vascular lesion does not explain the characteristic upper-airway sound and cough.",
+        "correct": false
+      },
+      {
+        "text": "Subglottic upper airway",
+        "explanation": "Inflammation narrows this relatively small pediatric airway segment.",
+        "correct": true
+      },
+      {
+        "text": "Alveolar capillary membrane only",
+        "explanation": "Alveolar disease more often impairs gas exchange than producing a barking cough.",
+        "correct": false
+      }
+    ],
+    "explanation": "Croup is an inflammatory upper-airway syndrome with subglottic narrowing, producing barking cough, hoarseness, and inspiratory stridor. The clinical pattern usually guides diagnosis. Toxic appearance, drooling, severe swallowing difficulty, or atypical progression should prompt consideration of other airway disorders rather than forcing every stridor presentation into croup.",
+    "objective": "Localize barking cough with inspiratory stridor to a subglottic airway process.",
+    "keyPoints": [
+      "Localize barking cough with inspiratory stridor to a subglottic airway process."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0195",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Dehydration assessment",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A child with gastroenteritis has lethargy, tachycardia, delayed capillary refill, dry mucosa, and markedly reduced urine output. Which finding most directly indicates impaired peripheral perfusion rather than fluid loss history alone?",
+    "options": [
+      {
+        "text": "A family member with similar illness",
+        "explanation": "Exposure history does not quantify the child hemodynamic status.",
+        "correct": false
+      },
+      {
+        "text": "Delayed capillary refill with altered mental status",
+        "explanation": "These examination findings suggest clinically important circulatory compromise.",
+        "correct": true
+      },
+      {
+        "text": "One loose stool reported yesterday",
+        "explanation": "Stool history alone does not establish current perfusion.",
+        "correct": false
+      },
+      {
+        "text": "Normal tears and normal activity",
+        "explanation": "These would be less concerning for severe dehydration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Dehydration assessment integrates mental status, circulation, mucosa, urine output, and other findings rather than relying on one historical symptom. Delayed refill with lethargy and tachycardia raises concern for significant volume depletion and poor perfusion. No single sign precisely measures deficit, so serial reassessment is essential during care.",
+    "objective": "Assess pediatric dehydration through perfusion and mental status as well as loss history.",
+    "keyPoints": [
+      "Assess pediatric dehydration through perfusion and mental status as well as loss history."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0196",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Ectopic pregnancy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with a positive pregnancy test has unilateral pelvic pain, vaginal spotting, and an adnexal gestational structure separate from the uterus. Which implantation site is most common for ectopic pregnancy?",
+    "options": [
+      {
+        "text": "Fallopian tube",
+        "explanation": "Tubal implantation accounts for most ectopic pregnancies.",
+        "correct": true
+      },
+      {
+        "text": "Normal uterine fundal endometrium",
+        "explanation": "This is an intrauterine implantation location rather than ectopic.",
+        "correct": false
+      },
+      {
+        "text": "Ovarian cortex in nearly every case",
+        "explanation": "Ovarian implantation is much less common than tubal implantation.",
+        "correct": false
+      },
+      {
+        "text": "Abdominal wall skin",
+        "explanation": "This is not a typical implantation site.",
+        "correct": false
+      }
+    ],
+    "explanation": "Most ectopic pregnancies implant in the fallopian tube, often in its ampullary portion. Pain and bleeding in early pregnancy require assessment because rupture can cause internal hemorrhage. A pregnancy test and symptoms alone do not localize a pregnancy; the specified extrauterine gestational structure supplies the key localization here.",
+    "objective": "Recognize tubal implantation as the commonest ectopic pregnancy location.",
+    "keyPoints": [
+      "Recognize tubal implantation as the commonest ectopic pregnancy location."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0197",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Placenta previa",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient in the third trimester develops painless vaginal bleeding. Ultrasound shows placental tissue covering the internal cervical os. Which diagnosis best fits?",
+    "options": [
+      {
+        "text": "Placental abruption",
+        "explanation": "This more often causes pain and uterine tenderness from premature separation.",
+        "correct": false
+      },
+      {
+        "text": "Tubal ectopic pregnancy",
+        "explanation": "This does not fit a third-trimester placental position over the cervix.",
+        "correct": false
+      },
+      {
+        "text": "Ovarian torsion",
+        "explanation": "This causes acute adnexal pain and does not explain placental coverage of the os.",
+        "correct": false
+      },
+      {
+        "text": "Placenta previa",
+        "explanation": "Placental coverage of the internal os explains this bleeding pattern.",
+        "correct": true
+      }
+    ],
+    "explanation": "Placenta previa is defined by placental tissue over the internal cervical os. Painless late-pregnancy bleeding is characteristic, although clinical presentations vary. Ultrasound localization is central, and a digital cervical examination can provoke bleeding when previa is present; evaluation must account for placental location before such examination.",
+    "objective": "Distinguish placenta previa using placental coverage of the internal cervical os.",
+    "keyPoints": [
+      "Distinguish placenta previa using placental coverage of the internal cervical os."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0198",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Placental abruption",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A pregnant patient develops painful vaginal bleeding, uterine tenderness, and frequent contractions after abdominal trauma. Ultrasound does not show placenta covering the cervix. Which process is most concerning?",
+    "options": [
+      {
+        "text": "Placenta previa by definition",
+        "explanation": "Previa involves placental coverage of the cervical os, not the specified pattern.",
+        "correct": false
+      },
+      {
+        "text": "Normal physiologic labor in every case",
+        "explanation": "Painful bleeding after trauma cannot automatically be treated as normal labor.",
+        "correct": false
+      },
+      {
+        "text": "Premature separation of a normally implanted placenta",
+        "explanation": "Abruption causes bleeding at the placental interface and may compromise the fetus.",
+        "correct": true
+      },
+      {
+        "text": "Uncomplicated cervical ectropion alone",
+        "explanation": "This does not explain a tender contracting uterus after trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Placental abruption is separation of a normally implanted placenta before delivery. Pain, uterine tenderness, and contractions support the diagnosis, and hemorrhage may be partly concealed. A normal or nondiagnostic ultrasound does not exclude abruption, so maternal and fetal clinical assessment is essential.",
+    "objective": "Recognize painful uterine bleeding as compatible with placental abruption.",
+    "keyPoints": [
+      "Recognize painful uterine bleeding as compatible with placental abruption."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0199",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Preeclampsia pattern",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "At 32 weeks, a previously normotensive patient develops hypertension with proteinuria. She reports severe headache and visual disturbance. Which pathophysiologic process is central to preeclampsia?",
+    "options": [
+      {
+        "text": "Physiologic suppression of all vascular resistance without injury",
+        "explanation": "Systemic endothelial dysfunction, not benign vasodilation alone, is central.",
+        "correct": false
+      },
+      {
+        "text": "Placental dysfunction with systemic maternal endothelial injury",
+        "explanation": "Abnormal placental signaling contributes to vascular and multisystem dysfunction.",
+        "correct": true
+      },
+      {
+        "text": "Isolated benign expansion of normal blood volume",
+        "explanation": "The syndrome is not explained by normal pregnancy volume changes.",
+        "correct": false
+      },
+      {
+        "text": "A primary urinary tract infection in every case",
+        "explanation": "Infection does not account for the defining hypertensive multisystem disorder.",
+        "correct": false
+      }
+    ],
+    "explanation": "Preeclampsia arises after midpregnancy with hypertension and proteinuria or other qualifying organ dysfunction. Placental abnormalities and maternal endothelial injury contribute to renal, neurologic, hepatic, and hematologic manifestations. Severe headache and visual symptoms raise concern for severe disease; proteinuria is not required in every diagnostic presentation.",
+    "objective": "Connect new pregnancy hypertension and organ symptoms to systemic endothelial dysfunction.",
+    "keyPoints": [
+      "Connect new pregnancy hypertension and organ symptoms to systemic endothelial dysfunction."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0200",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Postpartum uterine atony",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Immediately after delivery, a patient develops heavy vaginal bleeding. The uterus is enlarged and boggy on examination. Which mechanism best explains bleeding in uterine atony?",
+    "options": [
+      {
+        "text": "Failure of myometrial contraction to compress placental bed vessels",
+        "explanation": "A firm contracting uterus normally limits blood loss from the separation site.",
+        "correct": true
+      },
+      {
+        "text": "Excessive sustained myometrial contraction",
+        "explanation": "This is the opposite of a boggy poorly contracted uterus.",
+        "correct": false
+      },
+      {
+        "text": "An obligatory isolated cervical laceration",
+        "explanation": "Lacerations can bleed but do not by themselves explain uterine bogginess.",
+        "correct": false
+      },
+      {
+        "text": "Complete absence of uterine blood vessels",
+        "explanation": "Avascular tissue could not produce the described hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "After placental separation, myometrial contraction compresses the uterine vessels and provides an important hemostatic mechanism. Atony leaves these vessels insufficiently compressed, causing major postpartum bleeding. Trauma, retained tissue, and coagulation abnormalities remain additional causes to assess rather than assuming every postpartum hemorrhage is due solely to tone.",
+    "objective": "Explain postpartum atony through failure of myometrial vessel compression.",
+    "keyPoints": [
+      "Explain postpartum atony through failure of myometrial vessel compression."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

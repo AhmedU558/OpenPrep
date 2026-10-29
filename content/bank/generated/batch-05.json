@@ -1,0 +1,1152 @@
+[
+  {
+    "code": "op26-0101",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Staphylococcal identification",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A blood culture from a patient with an infected vascular catheter grows gram-positive cocci in clusters. The isolate is catalase positive and coagulase positive. Which organism is most consistent with these results?",
+    "options": [
+      {
+        "text": "Staphylococcus epidermidis",
+        "explanation": "It is catalase positive but usually coagulase negative.",
+        "correct": false
+      },
+      {
+        "text": "Streptococcus pyogenes",
+        "explanation": "Streptococci are catalase negative and typically form chains.",
+        "correct": false
+      },
+      {
+        "text": "Enterococcus faecalis",
+        "explanation": "Enterococci are not the classic catalase-positive clustered coagulase-positive isolate.",
+        "correct": false
+      },
+      {
+        "text": "Staphylococcus aureus",
+        "explanation": "Clustered cocci with coagulase activity support this species.",
+        "correct": true
+      }
+    ],
+    "explanation": "Catalase distinguishes typical staphylococci from streptococci, while coagulase supports identification of S. aureus among common human staphylococci. Catheter infections can involve several organisms, so the laboratory features rather than the device alone determine this answer. Susceptibility testing is still required to guide therapy.",
+    "objective": "Use catalase and coagulase to identify a common bloodstream isolate.",
+    "keyPoints": [
+      "Use catalase and coagulase to identify a common bloodstream isolate."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0102",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Streptococcal virulence",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A child develops pharyngitis caused by group A Streptococcus. A surface protein impedes opsonization and phagocytosis. Which virulence factor best fits this role?",
+    "options": [
+      {
+        "text": "Lipid A",
+        "explanation": "It is the toxic part of gram-negative LPS, absent from streptococcal walls.",
+        "correct": false
+      },
+      {
+        "text": "Ergosterol",
+        "explanation": "It is a fungal membrane component, not a streptococcal surface protein.",
+        "correct": false
+      },
+      {
+        "text": "M protein",
+        "explanation": "This surface factor interferes with effective opsonophagocytic clearance.",
+        "correct": true
+      },
+      {
+        "text": "Protein A",
+        "explanation": "It is a staphylococcal Fc-binding virulence factor.",
+        "correct": false
+      }
+    ],
+    "explanation": "Group A streptococcal M protein contributes to resistance to phagocytosis, helping the organism persist at infected sites. Its variable regions also have immunologic significance. This differs from staphylococcal protein A, which binds antibody Fc, and from endotoxin mechanisms of gram-negative organisms.",
+    "objective": "Identify M protein as an antiphagocytic group A streptococcal factor.",
+    "keyPoints": [
+      "Identify M protein as an antiphagocytic group A streptococcal factor."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0103",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "Gastrointestinal",
+    "topic": "Cholera toxin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A traveler has profuse watery diarrhea without fecal leukocytes. The responsible toxin ADP-ribosylates Gs, leaving adenylate cyclase persistently activated. Which intracellular change drives intestinal chloride and water secretion?",
+    "options": [
+      {
+        "text": "Complete inhibition of sodium-glucose cotransport",
+        "explanation": "That transporter can remain functional, supporting oral rehydration physiology.",
+        "correct": false
+      },
+      {
+        "text": "Increased cyclic AMP",
+        "explanation": "Persistent Gs activity raises cAMP and stimulates chloride secretion.",
+        "correct": true
+      },
+      {
+        "text": "Reduced cyclic AMP",
+        "explanation": "This is opposite to sustained adenylate cyclase activation.",
+        "correct": false
+      },
+      {
+        "text": "Direct destruction of all villous cells",
+        "explanation": "The toxin causes secretion without requiring widespread mucosal invasion.",
+        "correct": false
+      }
+    ],
+    "explanation": "Cholera toxin modifies Gs so that adenylate cyclase remains active, increasing cAMP-mediated chloride secretion and water loss. The largely noninvasive process explains watery rather than inflammatory diarrhea. Preserved sodium-glucose coupled absorption helps explain why appropriate oral rehydration solutions can replace substantial fluid losses.",
+    "objective": "Trace cholera toxin signaling from Gs activation to secretory diarrhea.",
+    "keyPoints": [
+      "Trace cholera toxin signaling from Gs activation to secretory diarrhea."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0104",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "Gastrointestinal",
+    "topic": "Shiga toxin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A child develops bloody diarrhea followed by anemia with schistocytes, thrombocytopenia, and acute kidney injury. A bacterial toxin depurinates 28S ribosomal RNA. Which cellular process is directly impaired?",
+    "options": [
+      {
+        "text": "Protein synthesis at the 60S ribosomal subunit",
+        "explanation": "The toxin disrupts the large-subunit ribosomal machinery.",
+        "correct": true
+      },
+      {
+        "text": "DNA replication by bacterial gyrase alone",
+        "explanation": "This is not the host-cell target of the described toxin.",
+        "correct": false
+      },
+      {
+        "text": "Mitochondrial ATP synthase exclusively",
+        "explanation": "This does not describe 28S rRNA injury.",
+        "correct": false
+      },
+      {
+        "text": "Peptidoglycan cross-linking in host cells",
+        "explanation": "Human cells do not synthesize a peptidoglycan wall.",
+        "correct": false
+      }
+    ],
+    "explanation": "Shiga-family toxins damage 28S rRNA within the eukaryotic 60S subunit, inhibiting protein synthesis. Endothelial injury contributes to a thrombotic microangiopathy with hemolysis, platelet consumption, and renal dysfunction. This mechanism is distinct from cAMP-driven watery diarrhea and should not be inferred from diarrhea alone without the associated findings.",
+    "objective": "Connect Shiga-family ribosomal injury to hemolytic uremic syndrome.",
+    "keyPoints": [
+      "Connect Shiga-family ribosomal injury to hemolytic uremic syndrome."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0105",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "Nervous System",
+    "topic": "Tetanus toxin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with a contaminated puncture wound develops trismus and painful generalized muscle spasms. The responsible toxin prevents inhibitory neurotransmitter release from spinal interneurons. Which transmitter pair is principally affected?",
+    "options": [
+      {
+        "text": "Dopamine and serotonin at the neuromuscular junction",
+        "explanation": "These are not the principal inhibitory spinal transmitters in this mechanism.",
+        "correct": false
+      },
+      {
+        "text": "Acetylcholine from motor terminals",
+        "explanation": "Blocking peripheral acetylcholine release instead causes flaccid weakness.",
+        "correct": false
+      },
+      {
+        "text": "Histamine and bradykinin from mast cells",
+        "explanation": "These mediators do not explain loss of spinal motor inhibition.",
+        "correct": false
+      },
+      {
+        "text": "Glycine and GABA",
+        "explanation": "Loss of inhibitory interneuron signaling disinhibits motor neurons.",
+        "correct": true
+      }
+    ],
+    "explanation": "Tetanus toxin reaches inhibitory interneurons and blocks vesicular neurotransmitter release, reducing glycine and GABA signaling. Motor neurons become disinhibited, producing rigidity and spasms. The related vesicle-cleavage strategy of botulinum toxin acts at peripheral cholinergic terminals and produces a contrasting flaccid paralysis.",
+    "objective": "Explain tetanic spasms through loss of inhibitory spinal neurotransmission.",
+    "keyPoints": [
+      "Explain tetanic spasms through loss of inhibitory spinal neurotransmission."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0106",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "Mycobacterial staining",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with chronic cough has organisms that retain carbol fuchsin after acid-alcohol decolorization. Which cell-envelope feature most directly explains this staining behavior?",
+    "options": [
+      {
+        "text": "A chitin wall",
+        "explanation": "Chitin is characteristic of fungi rather than mycobacteria.",
+        "correct": false
+      },
+      {
+        "text": "An ordinary gram-negative outer membrane only",
+        "explanation": "Typical LPS-containing walls do not explain strong acid-fast retention.",
+        "correct": false
+      },
+      {
+        "text": "A lipid-rich wall containing mycolic acids",
+        "explanation": "The unusual hydrophobic envelope underlies acid-fast staining.",
+        "correct": true
+      },
+      {
+        "text": "A thick hyaluronic acid capsule alone",
+        "explanation": "A capsule does not confer the defining acid-fast wall properties.",
+        "correct": false
+      }
+    ],
+    "explanation": "Mycobacterial envelopes contain long-chain mycolic acids and other lipids that alter staining and permeability. Acid-fast staining can support detection of these organisms, but a positive smear does not by itself establish species, viability, or drug susceptibility. Molecular and culture methods provide complementary information.",
+    "objective": "Relate mycolic acids to acid-fast staining while recognizing its diagnostic limits.",
+    "keyPoints": [
+      "Relate mycolic acids to acid-fast staining while recognizing its diagnostic limits."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0107",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Hepatitis B serology",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A vaccinated healthcare worker has positive hepatitis B surface antibody, negative surface antigen, and negative core antibody. Which interpretation best fits this combination?",
+    "options": [
+      {
+        "text": "A chronic carrier state",
+        "explanation": "This generally requires persistent surface antigen rather than isolated surface antibody.",
+        "correct": false
+      },
+      {
+        "text": "Immunity from vaccination",
+        "explanation": "Vaccines generate surface antibody without exposure to viral core antigen.",
+        "correct": true
+      },
+      {
+        "text": "Acute active hepatitis B infection",
+        "explanation": "Active infection is not supported by isolated surface antibody with negative antigen.",
+        "correct": false
+      },
+      {
+        "text": "Resolved natural infection",
+        "explanation": "Natural infection usually leaves core antibody as well as surface antibody.",
+        "correct": false
+      }
+    ],
+    "explanation": "Hepatitis B vaccination exposes the immune system to surface antigen and can generate protective anti-HBs. It does not generate anti-HBc because core antigen is not part of the vaccine. Prior natural infection commonly produces core antibody, so the combination distinguishes vaccination from resolved infection in this standard pattern.",
+    "objective": "Interpret isolated hepatitis B surface antibody after vaccination.",
+    "keyPoints": [
+      "Interpret isolated hepatitis B surface antibody after vaccination."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0108",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "HIV receptor entry",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A viral isolate infects cells expressing CD4 together with CCR5. A drug prevents engagement of the chemokine coreceptor. Which step of infection is most directly inhibited?",
+    "options": [
+      {
+        "text": "Viral entry into susceptible cells",
+        "explanation": "HIV envelope interaction with CD4 and a coreceptor precedes fusion.",
+        "correct": true
+      },
+      {
+        "text": "Integration of viral DNA after nuclear entry",
+        "explanation": "Integrase inhibitors act at that later stage.",
+        "correct": false
+      },
+      {
+        "text": "Proteolytic processing during virion maturation",
+        "explanation": "Protease inhibitors target maturation rather than coreceptor binding.",
+        "correct": false
+      },
+      {
+        "text": "Reverse transcription after entry",
+        "explanation": "Reverse transcriptase inhibitors act after the entry step described.",
+        "correct": false
+      }
+    ],
+    "explanation": "HIV entry requires envelope binding to CD4 and a suitable coreceptor, commonly CCR5 or CXCR4. Blocking CCR5 prevents entry of susceptible CCR5-tropic virus but does not automatically block strains using another coreceptor. The entry step is distinct from reverse transcription, integration, and protease-dependent maturation.",
+    "objective": "Locate CCR5 blockade at HIV entry and recognize tropism dependence.",
+    "keyPoints": [
+      "Locate CCR5 blockade at HIV entry and recognize tropism dependence."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0109",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Candida morphology",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An immunocompromised patient has oral plaques. Microscopy of the isolate shows budding yeast and pseudohyphae, and a germ-tube test is positive. Which organism is the most likely conventional identification?",
+    "options": [
+      {
+        "text": "Cryptococcus neoformans",
+        "explanation": "It is typically an encapsulated budding yeast without this characteristic pseudohyphal pattern.",
+        "correct": false
+      },
+      {
+        "text": "Aspergillus fumigatus",
+        "explanation": "It forms septate branching hyphae rather than budding yeast with germ tubes.",
+        "correct": false
+      },
+      {
+        "text": "Mucor species",
+        "explanation": "These form broad pauciseptate hyphae rather than the described yeast pattern.",
+        "correct": false
+      },
+      {
+        "text": "Candida albicans",
+        "explanation": "Budding yeast, pseudohyphae and germ tubes support this common species.",
+        "correct": true
+      }
+    ],
+    "explanation": "Candida albicans can form budding yeast, pseudohyphae, and germ tubes under appropriate testing conditions. These findings support identification, though related species can share some features and modern laboratories may use additional methods. Oral colonization alone differs from symptomatic mucosal disease or invasive candidiasis.",
+    "objective": "Interpret yeast morphology and germ-tube testing in a compatible mucosal infection.",
+    "keyPoints": [
+      "Interpret yeast morphology and germ-tube testing in a compatible mucosal infection."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0110",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "Hematology",
+    "topic": "Malaria life cycle",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A traveler develops periodic fever after mosquito exposure. Blood smear shows intraerythrocytic parasites. Which mosquito-inoculated form first establishes infection in the human liver?",
+    "options": [
+      {
+        "text": "Gametocyte",
+        "explanation": "Mosquitoes ingest gametocytes from human blood for sexual development.",
+        "correct": false
+      },
+      {
+        "text": "Ookinete",
+        "explanation": "This motile stage develops in the mosquito rather than being the inoculated human liver stage.",
+        "correct": false
+      },
+      {
+        "text": "Sporozoite",
+        "explanation": "Mosquito salivary sporozoites invade hepatocytes before blood-stage infection.",
+        "correct": true
+      },
+      {
+        "text": "Merozoite",
+        "explanation": "Merozoites invade erythrocytes after release from hepatic or blood schizonts.",
+        "correct": false
+      }
+    ],
+    "explanation": "An infected Anopheles mosquito inoculates sporozoites, which enter hepatocytes and develop before releasing merozoites into blood. Erythrocytic cycles produce many clinical manifestations. Gametocytes continue transmission when taken up by another mosquito, so identifying the host and stage prevents confusing distinct points in the life cycle.",
+    "objective": "Distinguish liver-infecting sporozoites from erythrocyte-infecting merozoites.",
+    "keyPoints": [
+      "Distinguish liver-infecting sporozoites from erythrocyte-infecting merozoites."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0111",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "General Principles",
+    "topic": "Type I hypersensitivity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Minutes after eating a food allergen, a sensitized patient develops urticaria, wheezing, and hypotension. Cross-linking of which cell-bound antibody initiates the immediate reaction?",
+    "options": [
+      {
+        "text": "IgM attached to naive B-cell receptors alone",
+        "explanation": "This does not account for the immediate sensitized mast-cell mechanism.",
+        "correct": false
+      },
+      {
+        "text": "IgE on mast-cell Fc receptors",
+        "explanation": "Allergen-mediated cross-linking triggers rapid mediator release.",
+        "correct": true
+      },
+      {
+        "text": "IgG bound only to erythrocyte antigens",
+        "explanation": "This more closely relates to antibody-mediated blood-cell injury.",
+        "correct": false
+      },
+      {
+        "text": "Secretory IgA in the gut lumen",
+        "explanation": "It helps mucosal defense but is not the mast-cell triggering antibody here.",
+        "correct": false
+      }
+    ],
+    "explanation": "In immediate hypersensitivity, prior sensitization generates allergen-specific IgE bound to high-affinity mast-cell receptors. Re-exposure cross-links adjacent IgE molecules and triggers mediator release. Systemic airway and circulatory effects constitute anaphylaxis; the mechanism differs from immune-complex deposition and delayed T-cell inflammation.",
+    "objective": "Identify IgE cross-linking as the trigger of immediate mast-cell hypersensitivity.",
+    "keyPoints": [
+      "Identify IgE cross-linking as the trigger of immediate mast-cell hypersensitivity."
+    ],
+    "references": [
+      {
+        "label": "Immunobiology, 5th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0112",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Hematology",
+    "topic": "Type II hypersensitivity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "After receiving an incompatible red-cell transfusion, a patient develops fever, flank pain, and hemoglobinuria. Recipient antibodies bind donor erythrocyte antigens. Which hypersensitivity mechanism is operating?",
+    "options": [
+      {
+        "text": "Antibody-mediated injury to cell-surface targets",
+        "explanation": "Complement activation and cell destruction fit a type II mechanism.",
+        "correct": true
+      },
+      {
+        "text": "Delayed T-cell dermatitis",
+        "explanation": "This does not explain immediate antibody binding to transfused erythrocytes.",
+        "correct": false
+      },
+      {
+        "text": "IgE-dependent food allergy",
+        "explanation": "The target and effector mechanism are different from allergic mast-cell activation.",
+        "correct": false
+      },
+      {
+        "text": "Soluble immune-complex deposition alone",
+        "explanation": "Here antibodies bind antigens on donor cells rather than primarily deposited soluble complexes.",
+        "correct": false
+      }
+    ],
+    "explanation": "An acute hemolytic transfusion reaction can occur when recipient antibodies recognize donor erythrocyte antigens and activate complement. This is type II, cell-directed antibody injury. The mechanism differs from a febrile nonhemolytic reaction, and the combination of hemoglobinuria and compatible timing requires urgent transfusion evaluation.",
+    "objective": "Classify antibody-mediated transfused red-cell injury as type II hypersensitivity.",
+    "keyPoints": [
+      "Classify antibody-mediated transfused red-cell injury as type II hypersensitivity."
+    ],
+    "references": [
+      {
+        "label": "Immunobiology, 5th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0113",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "General Principles",
+    "topic": "Type III hypersensitivity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Ten days after exposure to a foreign protein, a patient develops fever, arthralgia, and a rash. Circulating antigen-antibody complexes deposit in tissues and activate complement. Which mechanism best fits?",
+    "options": [
+      {
+        "text": "Type I immediate mast-cell activation",
+        "explanation": "This usually occurs rapidly after re-exposure rather than through circulating complexes.",
+        "correct": false
+      },
+      {
+        "text": "Type II antibody binding to one fixed cell antigen",
+        "explanation": "The stem specifies soluble complex deposition at multiple sites.",
+        "correct": false
+      },
+      {
+        "text": "Direct toxin blockade of ribosomes",
+        "explanation": "This does not require antigen-antibody complex formation.",
+        "correct": false
+      },
+      {
+        "text": "Type III immune-complex hypersensitivity",
+        "explanation": "Deposited soluble complexes recruit complement and inflammatory cells.",
+        "correct": true
+      }
+    ],
+    "explanation": "Serum sickness is a systemic immune-complex process that can appear after enough time has elapsed for antibodies to form. Deposited complexes activate complement and inflammation in vessels, joints, and other tissues. The delay and soluble-complex mechanism distinguish it from immediate allergy and from antibodies directed at fixed surface antigens.",
+    "objective": "Identify systemic immune-complex deposition as type III hypersensitivity.",
+    "keyPoints": [
+      "Identify systemic immune-complex deposition as type III hypersensitivity."
+    ],
+    "references": [
+      {
+        "label": "Immunobiology, 5th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0114",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Dermatology",
+    "topic": "Type IV hypersensitivity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient develops an itchy vesicular rash two days after skin contact with a nickel-containing watch strap. Which effector mechanism is primarily responsible for this delayed reaction?",
+    "options": [
+      {
+        "text": "ABO antibodies lysing skin cells",
+        "explanation": "ABO incompatibility is not the mechanism of nickel contact dermatitis.",
+        "correct": false
+      },
+      {
+        "text": "Absent innate immune recognition",
+        "explanation": "The rash reflects an active adaptive cellular response, not lack of recognition.",
+        "correct": false
+      },
+      {
+        "text": "Sensitized T cells with local cytokine-mediated inflammation",
+        "explanation": "Contact dermatitis is a delayed cellular hypersensitivity response.",
+        "correct": true
+      },
+      {
+        "text": "Preformed IgE-triggered histamine release only",
+        "explanation": "This is the principal immediate rather than delayed mechanism.",
+        "correct": false
+      }
+    ],
+    "explanation": "Nickel-associated contact dermatitis is mediated by previously sensitized T cells responding after re-exposure. Recruitment and cytokine effects take time, explaining the delayed eruption. This is type IV hypersensitivity and does not require allergen-specific IgE, so immediate-allergy test concepts cannot simply be transferred to it.",
+    "objective": "Recognize delayed contact dermatitis as T-cell-mediated hypersensitivity.",
+    "keyPoints": [
+      "Recognize delayed contact dermatitis as T-cell-mediated hypersensitivity."
+    ],
+    "references": [
+      {
+        "label": "Immunobiology, 5th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0115",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "General Principles",
+    "topic": "Complement deficiency",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A young adult has recurrent invasive Neisseria infections. Immunoglobulin levels and neutrophil counts are normal. Deficiency of which complement group most specifically fits this infection pattern?",
+    "options": [
+      {
+        "text": "Only erythropoietin",
+        "explanation": "This controls erythropoiesis and does not form complement membrane pores.",
+        "correct": false
+      },
+      {
+        "text": "Terminal components C5-C9",
+        "explanation": "They form the membrane attack complex important in defense against Neisseria.",
+        "correct": true
+      },
+      {
+        "text": "C1 inhibitor",
+        "explanation": "Its deficiency causes bradykinin-mediated angioedema rather than this typical recurrent infection pattern.",
+        "correct": false
+      },
+      {
+        "text": "Only factor VIII",
+        "explanation": "This is a coagulation factor, not a terminal complement component.",
+        "correct": false
+      }
+    ],
+    "explanation": "The terminal complement components assemble the membrane attack complex. Defects in C5-C9 predispose especially to recurrent Neisseria disease, even when antibody concentration and neutrophil counts appear normal. Other complement defects produce different susceptibility patterns, so normal routine blood counts do not exclude an innate immune defect.",
+    "objective": "Associate terminal complement deficiency with recurrent Neisseria infection.",
+    "keyPoints": [
+      "Associate terminal complement deficiency with recurrent Neisseria infection."
+    ],
+    "references": [
+      {
+        "label": "Immunobiology, 5th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0116",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "General Principles",
+    "topic": "Chronic granulomatous disease",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A boy has recurrent deep infections with catalase-positive organisms. Neutrophils ingest bacteria, but an oxidative burst assay is abnormal. Which enzyme complex is most likely defective?",
+    "options": [
+      {
+        "text": "NADPH oxidase",
+        "explanation": "Failure to generate superoxide impairs the respiratory burst.",
+        "correct": true
+      },
+      {
+        "text": "Adenosine deaminase",
+        "explanation": "Its deficiency causes severe lymphocyte dysfunction rather than isolated phagocyte burst failure.",
+        "correct": false
+      },
+      {
+        "text": "C1 esterase inhibitor",
+        "explanation": "Its deficiency causes angioedema, not this oxidative killing defect.",
+        "correct": false
+      },
+      {
+        "text": "Glucose-6-phosphatase",
+        "explanation": "Its deficiency causes glycogen storage disease rather than this neutrophil phenotype.",
+        "correct": false
+      }
+    ],
+    "explanation": "NADPH oxidase initiates the phagocyte respiratory burst by generating superoxide. Its deficiency causes chronic granulomatous disease with impaired killing of selected pathogens despite ingestion. Catalase-positive organisms remove their own hydrogen peroxide, limiting an alternative oxidant source available to defective phagocytes.",
+    "objective": "Connect impaired neutrophil oxidative burst to NADPH oxidase deficiency.",
+    "keyPoints": [
+      "Connect impaired neutrophil oxidative burst to NADPH oxidase deficiency."
+    ],
+    "references": [
+      {
+        "label": "Immunobiology, 5th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0117",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "General Principles",
+    "topic": "Leukocyte adhesion deficiency",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An infant has delayed separation of the umbilical cord, recurrent bacterial infections with little pus, and marked neutrophilia in blood. Which defect best explains failure of neutrophils to reach tissues?",
+    "options": [
+      {
+        "text": "Failure of hemoglobin oxygen binding",
+        "explanation": "This would not selectively prevent neutrophil tissue migration.",
+        "correct": false
+      },
+      {
+        "text": "Excess IgE on mast cells",
+        "explanation": "This does not explain delayed cord separation with absent pus.",
+        "correct": false
+      },
+      {
+        "text": "Absent platelet cyclooxygenase",
+        "explanation": "This affects platelet signaling rather than leukocyte endothelial adhesion.",
+        "correct": false
+      },
+      {
+        "text": "Defective beta-2 integrin-mediated firm adhesion",
+        "explanation": "CD18 deficiency impairs leukocyte arrest and migration from blood.",
+        "correct": true
+      }
+    ],
+    "explanation": "In leukocyte adhesion deficiency due to CD18 abnormalities, neutrophils cannot perform effective firm adhesion before extravasation. They accumulate in circulation while infected tissue has poor neutrophil delivery, explaining neutrophilia with little pus. This differs from an oxidative killing defect in cells that have already reached infection sites.",
+    "objective": "Localize absent pus with neutrophilia to leukocyte adhesion failure.",
+    "keyPoints": [
+      "Localize absent pus with neutrophilia to leukocyte adhesion failure."
+    ],
+    "references": [
+      {
+        "label": "Immunobiology, 5th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0118",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "General Principles",
+    "topic": "Thymic development",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An infant with hypocalcemic seizures has conotruncal heart disease and very low T-cell numbers. A chromosome 22q11.2 deletion is identified. Impaired development of which organ best explains the immune finding?",
+    "options": [
+      {
+        "text": "Bone marrow erythroid islands only",
+        "explanation": "This does not explain selective loss of thymic maturation.",
+        "correct": false
+      },
+      {
+        "text": "Adrenal medulla",
+        "explanation": "Catecholamine-producing tissue is not the primary T-cell maturation site.",
+        "correct": false
+      },
+      {
+        "text": "Thymus",
+        "explanation": "Abnormal pharyngeal pouch development can impair thymic T-cell maturation.",
+        "correct": true
+      },
+      {
+        "text": "Spleen exclusively",
+        "explanation": "Asplenia mainly impairs defense against encapsulated bacteria rather than thymic T-cell development.",
+        "correct": false
+      }
+    ],
+    "explanation": "A 22q11.2 deletion can disrupt development of structures associated with the pharyngeal apparatus, including thymus and parathyroids. Thymic hypoplasia reduces T-cell maturation while parathyroid dysfunction contributes to hypocalcemia. Severity varies, so the deletion does not imply identical immune impairment in every affected child.",
+    "objective": "Connect thymic hypoplasia and hypocalcemia in the 22q11.2 deletion phenotype.",
+    "keyPoints": [
+      "Connect thymic hypoplasia and hypocalcemia in the 22q11.2 deletion phenotype."
+    ],
+    "references": [
+      {
+        "label": "Immunobiology, 5th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0119",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "General Principles",
+    "topic": "Class switching",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A child has recurrent infections, high IgM, and very low IgG and IgA. Activated T cells cannot express functional CD40 ligand. Which B-cell process is most directly impaired?",
+    "options": [
+      {
+        "text": "Complement C5 polymerization",
+        "explanation": "This is not the T-cell-to-B-cell signal needed for switching.",
+        "correct": false
+      },
+      {
+        "text": "Immunoglobulin class-switch recombination",
+        "explanation": "CD40-CD40L signaling supports switching to downstream heavy-chain classes.",
+        "correct": true
+      },
+      {
+        "text": "Initial assembly of every IgM receptor",
+        "explanation": "The high IgM shows that initial immunoglobulin production is not completely absent.",
+        "correct": false
+      },
+      {
+        "text": "Neutrophil rolling on selectins",
+        "explanation": "This is a leukocyte trafficking process, not the main antibody-class defect.",
+        "correct": false
+      }
+    ],
+    "explanation": "CD40 ligand on helper T cells engages CD40 on B cells and supports class switching and germinal-center responses. Defective signaling can leave relatively preserved or elevated IgM with low switched isotypes. Because CD40 signaling also influences other immune cells, susceptibility extends beyond a simple missing antibody subclass.",
+    "objective": "Explain the hyper-IgM pattern through failed CD40-dependent class switching.",
+    "keyPoints": [
+      "Explain the hyper-IgM pattern through failed CD40-dependent class switching."
+    ],
+    "references": [
+      {
+        "label": "Immunobiology, 5th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0120",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "General Principles",
+    "topic": "Antigen presentation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A virus infects a nucleated host cell. Viral peptides generated in the cytosol are presented to cytotoxic T lymphocytes. Which surface complex normally displays these endogenous peptides?",
+    "options": [
+      {
+        "text": "MHC class I",
+        "explanation": "It presents cytosolic peptides to CD8-positive T cells.",
+        "correct": true
+      },
+      {
+        "text": "MHC class II on all infected cells",
+        "explanation": "Class II chiefly presents endosomal peptides to CD4 cells on professional antigen-presenting cells.",
+        "correct": false
+      },
+      {
+        "text": "Secreted IgE",
+        "explanation": "An antibody is not the peptide-presenting complex for cytotoxic T-cell recognition.",
+        "correct": false
+      },
+      {
+        "text": "Complement C3b",
+        "explanation": "C3b opsonizes targets but does not present peptide in an MHC groove.",
+        "correct": false
+      }
+    ],
+    "explanation": "Most nucleated cells display endogenous peptides through MHC class I, enabling CD8 T cells to recognize intracellular infection. Peptide processing and loading link cytosolic proteins to surface surveillance. MHC class II uses a different principal pathway and engages CD4 helper cells, so antigen source and responding lymphocyte matter.",
+    "objective": "Match endogenous peptide presentation to MHC I and CD8 T cells.",
+    "keyPoints": [
+      "Match endogenous peptide presentation to MHC I and CD8 T cells."
+    ],
+    "references": [
+      {
+        "label": "Immunobiology, 5th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0121",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Autosomal recessive probability",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Two unaffected parents are confirmed heterozygous carriers of the same autosomal recessive disease. Their child is known to be unaffected. What is the probability that this unaffected child is a carrier, assuming full penetrance?",
+    "options": [
+      {
+        "text": "One half",
+        "explanation": "This ignores conditioning on the child being unaffected.",
+        "correct": false
+      },
+      {
+        "text": "One quarter",
+        "explanation": "This is the disease probability before learning the child is unaffected.",
+        "correct": false
+      },
+      {
+        "text": "One",
+        "explanation": "Unaffected offspring can also inherit two normal alleles.",
+        "correct": false
+      },
+      {
+        "text": "Two thirds",
+        "explanation": "Among unaffected genotypes, two of the three possibilities are heterozygous.",
+        "correct": true
+      }
+    ],
+    "explanation": "A carrier-by-carrier cross gives one normal homozygote, two heterozygotes, and one affected homozygote in four equally weighted outcomes. Excluding the affected outcome leaves three unaffected outcomes, two of which are carriers. Each pregnancy is independent under the stated Mendelian assumptions.",
+    "objective": "Calculate carrier probability conditional on being unaffected in a recessive pedigree.",
+    "keyPoints": [
+      "Calculate carrier probability conditional on being unaffected in a recessive pedigree."
+    ],
+    "references": [
+      {
+        "label": "Molecular Biology of the Cell, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0122",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "X-linked recessive inheritance",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A woman is a confirmed carrier of an X-linked recessive disorder and her partner is unaffected. Assuming equal sex probability and full penetrance in males, what is the chance that their next child will be an affected boy?",
+    "options": [
+      {
+        "text": "Three quarters",
+        "explanation": "This does not follow the parental X-linked genotypes.",
+        "correct": false
+      },
+      {
+        "text": "Zero",
+        "explanation": "A carrier mother can transmit the affected X chromosome to a son.",
+        "correct": false
+      },
+      {
+        "text": "One quarter",
+        "explanation": "There is a one-half chance of a boy and a one-half chance he receives the affected X.",
+        "correct": true
+      },
+      {
+        "text": "One half",
+        "explanation": "This is the risk conditional on the child already being known to be male.",
+        "correct": false
+      }
+    ],
+    "explanation": "The father provides a Y chromosome to sons, while the mother provides either of her X chromosomes. Half of sons inherit the affected allele. Multiplying by a one-half chance of male sex gives an overall one-quarter chance per pregnancy for an affected boy in this simplified model.",
+    "objective": "Distinguish sex-conditional risk from overall X-linked recessive pregnancy risk.",
+    "keyPoints": [
+      "Distinguish sex-conditional risk from overall X-linked recessive pregnancy risk."
+    ],
+    "references": [
+      {
+        "label": "Molecular Biology of the Cell, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0123",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Mitochondrial inheritance",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A woman and her brother have a disorder caused by a pathogenic mitochondrial DNA variant. Several of her children are affected, while none of his children inherit the variant from him. Which inheritance principle explains this pattern?",
+    "options": [
+      {
+        "text": "X-linked dominant inheritance with no affected daughters",
+        "explanation": "That description does not explain mitochondrial maternal transmission.",
+        "correct": false
+      },
+      {
+        "text": "Maternal transmission of mitochondrial DNA",
+        "explanation": "Offspring generally inherit mitochondria through the oocyte.",
+        "correct": true
+      },
+      {
+        "text": "Paternal Y-linked transmission",
+        "explanation": "This would pass through fathers to sons, contrary to the pattern.",
+        "correct": false
+      },
+      {
+        "text": "Autosomal recessive transmission with obligatory father-to-son spread",
+        "explanation": "Recessive inheritance does not impose that transmission rule.",
+        "correct": false
+      }
+    ],
+    "explanation": "Mitochondrial DNA is transmitted predominantly through the mother, so affected men do not ordinarily pass their mitochondrial variant to children. Heteroplasmy and tissue thresholds can cause variable severity among maternal relatives. Maternal inheritance therefore does not imply that all offspring have identical clinical expression.",
+    "objective": "Explain maternal transmission and variable expression of mitochondrial disorders.",
+    "keyPoints": [
+      "Explain maternal transmission and variable expression of mitochondrial disorders."
+    ],
+    "references": [
+      {
+        "label": "Molecular Biology of the Cell, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0124",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Anticipation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Across generations in a family, an inherited neurologic disorder begins progressively earlier. Molecular testing shows expansion of a trinucleotide repeat. Which concept describes the earlier onset in later generations?",
+    "options": [
+      {
+        "text": "Anticipation",
+        "explanation": "Repeat expansion can increase disease severity or lower age at onset across generations.",
+        "correct": true
+      },
+      {
+        "text": "Complete nonpenetrance",
+        "explanation": "This means a genotype lacks clinical expression, not progressively earlier onset.",
+        "correct": false
+      },
+      {
+        "text": "Codominance",
+        "explanation": "This describes simultaneous expression of both alleles, not repeat instability.",
+        "correct": false
+      },
+      {
+        "text": "Hardy-Weinberg equilibrium",
+        "explanation": "This is a population-genetic model rather than an intergenerational clinical trend.",
+        "correct": false
+      }
+    ],
+    "explanation": "Some repeat-expansion disorders show anticipation because the repeat length can increase during gamete formation, altering disease expression in descendants. The pattern and parent-of-origin effects differ by disorder. Earlier onset alone is not enough to prove repeat expansion without molecular or family evidence.",
+    "objective": "Recognize anticipation in an expanding-repeat pedigree.",
+    "keyPoints": [
+      "Recognize anticipation in an expanding-repeat pedigree."
+    ],
+    "references": [
+      {
+        "label": "Molecular Biology of the Cell, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0125",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Nondisjunction",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A child has trisomy 21 from maternal meiotic nondisjunction. Genetic markers near the centromere show two different maternal chromosome 21 homologues. In which division did the error most likely occur?",
+    "options": [
+      {
+        "text": "Maternal meiosis II",
+        "explanation": "Failure of sister chromatids typically duplicates one homologue near the centromere.",
+        "correct": false
+      },
+      {
+        "text": "Paternal mitosis only",
+        "explanation": "The extra chromosome is shown to be maternal.",
+        "correct": false
+      },
+      {
+        "text": "Normal fertilization without a segregation error",
+        "explanation": "Three copies require an abnormal chromosome contribution or later segregation event.",
+        "correct": false
+      },
+      {
+        "text": "Maternal meiosis I",
+        "explanation": "Failure of homologous chromosomes to separate preserves both maternal homologues.",
+        "correct": true
+      }
+    ],
+    "explanation": "During meiosis I, homologous chromosomes normally separate. A failure can place both maternal homologues into one gamete, producing trisomy after fertilization. Centromeric markers are useful because more distal recombination can complicate interpretation; the specified two different maternal homologues support a meiosis I error.",
+    "objective": "Use centromeric parental markers to localize meiotic nondisjunction.",
+    "keyPoints": [
+      "Use centromeric parental markers to localize meiotic nondisjunction."
+    ],
+    "references": [
+      {
+        "label": "Molecular Biology of the Cell, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

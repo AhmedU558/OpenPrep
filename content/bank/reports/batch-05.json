@@ -1,0 +1,173 @@
+{
+  "batch": 5,
+  "at": "2026-10-29T13:08:59.962Z",
+  "digest": "3151151c13786f8593d3bd4718fdfc6c327862e6efa7617c3e89e0ecb54a3752",
+  "before": 232,
+  "after": 232,
+  "imported": 0,
+  "skipped": 25,
+  "rejected": 0,
+  "quarantined": 0,
+  "errors": [],
+  "coverage": [
+    {
+      "code": "op26-0101",
+      "subject": "Microbiology",
+      "topic": "Staphylococcal identification",
+      "objective": "Use catalase and coagulase to identify a common bloodstream isolate."
+    },
+    {
+      "code": "op26-0102",
+      "subject": "Microbiology",
+      "topic": "Streptococcal virulence",
+      "objective": "Identify M protein as an antiphagocytic group A streptococcal factor."
+    },
+    {
+      "code": "op26-0103",
+      "subject": "Microbiology",
+      "topic": "Cholera toxin",
+      "objective": "Trace cholera toxin signaling from Gs activation to secretory diarrhea."
+    },
+    {
+      "code": "op26-0104",
+      "subject": "Microbiology",
+      "topic": "Shiga toxin",
+      "objective": "Connect Shiga-family ribosomal injury to hemolytic uremic syndrome."
+    },
+    {
+      "code": "op26-0105",
+      "subject": "Microbiology",
+      "topic": "Tetanus toxin",
+      "objective": "Explain tetanic spasms through loss of inhibitory spinal neurotransmission."
+    },
+    {
+      "code": "op26-0106",
+      "subject": "Microbiology",
+      "topic": "Mycobacterial staining",
+      "objective": "Relate mycolic acids to acid-fast staining while recognizing its diagnostic limits."
+    },
+    {
+      "code": "op26-0107",
+      "subject": "Microbiology",
+      "topic": "Hepatitis B serology",
+      "objective": "Interpret isolated hepatitis B surface antibody after vaccination."
+    },
+    {
+      "code": "op26-0108",
+      "subject": "Microbiology",
+      "topic": "HIV receptor entry",
+      "objective": "Locate CCR5 blockade at HIV entry and recognize tropism dependence."
+    },
+    {
+      "code": "op26-0109",
+      "subject": "Microbiology",
+      "topic": "Candida morphology",
+      "objective": "Interpret yeast morphology and germ-tube testing in a compatible mucosal infection."
+    },
+    {
+      "code": "op26-0110",
+      "subject": "Microbiology",
+      "topic": "Malaria life cycle",
+      "objective": "Distinguish liver-infecting sporozoites from erythrocyte-infecting merozoites."
+    },
+    {
+      "code": "op26-0111",
+      "subject": "Immunology",
+      "topic": "Type I hypersensitivity",
+      "objective": "Identify IgE cross-linking as the trigger of immediate mast-cell hypersensitivity."
+    },
+    {
+      "code": "op26-0112",
+      "subject": "Immunology",
+      "topic": "Type II hypersensitivity",
+      "objective": "Classify antibody-mediated transfused red-cell injury as type II hypersensitivity."
+    },
+    {
+      "code": "op26-0113",
+      "subject": "Immunology",
+      "topic": "Type III hypersensitivity",
+      "objective": "Identify systemic immune-complex deposition as type III hypersensitivity."
+    },
+    {
+      "code": "op26-0114",
+      "subject": "Immunology",
+      "topic": "Type IV hypersensitivity",
+      "objective": "Recognize delayed contact dermatitis as T-cell-mediated hypersensitivity."
+    },
+    {
+      "code": "op26-0115",
+      "subject": "Immunology",
+      "topic": "Complement deficiency",
+      "objective": "Associate terminal complement deficiency with recurrent Neisseria infection."
+    },
+    {
+      "code": "op26-0116",
+      "subject": "Immunology",
+      "topic": "Chronic granulomatous disease",
+      "objective": "Connect impaired neutrophil oxidative burst to NADPH oxidase deficiency."
+    },
+    {
+      "code": "op26-0117",
+      "subject": "Immunology",
+      "topic": "Leukocyte adhesion deficiency",
+      "objective": "Localize absent pus with neutrophilia to leukocyte adhesion failure."
+    },
+    {
+      "code": "op26-0118",
+      "subject": "Immunology",
+      "topic": "Thymic development",
+      "objective": "Connect thymic hypoplasia and hypocalcemia in the 22q11.2 deletion phenotype."
+    },
+    {
+      "code": "op26-0119",
+      "subject": "Immunology",
+      "topic": "Class switching",
+      "objective": "Explain the hyper-IgM pattern through failed CD40-dependent class switching."
+    },
+    {
+      "code": "op26-0120",
+      "subject": "Immunology",
+      "topic": "Antigen presentation",
+      "objective": "Match endogenous peptide presentation to MHC I and CD8 T cells."
+    },
+    {
+      "code": "op26-0121",
+      "subject": "Genetics",
+      "topic": "Autosomal recessive probability",
+      "objective": "Calculate carrier probability conditional on being unaffected in a recessive pedigree."
+    },
+    {
+      "code": "op26-0122",
+      "subject": "Genetics",
+      "topic": "X-linked recessive inheritance",
+      "objective": "Distinguish sex-conditional risk from overall X-linked recessive pregnancy risk."
+    },
+    {
+      "code": "op26-0123",
+      "subject": "Genetics",
+      "topic": "Mitochondrial inheritance",
+      "objective": "Explain maternal transmission and variable expression of mitochondrial disorders."
+    },
+    {
+      "code": "op26-0124",
+      "subject": "Genetics",
+      "topic": "Anticipation",
+      "objective": "Recognize anticipation in an expanding-repeat pedigree."
+    },
+    {
+      "code": "op26-0125",
+      "subject": "Genetics",
+      "topic": "Nondisjunction",
+      "objective": "Use centromeric parental markers to localize meiotic nondisjunction."
+    }
+  ],
+  "persisted": 25,
+  "practiceAvailable": 25,
+  "firstImport": {
+    "at": "2026-10-29T12:45:35.145Z",
+    "before": 132,
+    "after": 157,
+    "imported": 25,
+    "digest": "3151151c13786f8593d3bd4718fdfc6c327862e6efa7617c3e89e0ecb54a3752"
+  }
+}

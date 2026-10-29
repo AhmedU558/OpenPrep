@@ -1,0 +1,1152 @@
+[
+  {
+    "code": "op26-0051",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Cardiovascular",
+    "topic": "Coagulative necrosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A man dies two days after an occlusive coronary thrombus. In the affected myocardium, tissue outlines are preserved but myocyte nuclei have disappeared and cytoplasm is intensely eosinophilic. Which pattern of cell death is present?",
+    "options": [
+      {
+        "text": "Fat necrosis",
+        "explanation": "This affects adipose tissue, often after pancreatic enzyme release or trauma.",
+        "correct": false
+      },
+      {
+        "text": "Coagulative necrosis",
+        "explanation": "Ischemic protein denaturation preserves tissue architecture initially.",
+        "correct": true
+      },
+      {
+        "text": "Liquefactive necrosis",
+        "explanation": "Enzymatic digestion dominates in brain infarcts and many abscesses.",
+        "correct": false
+      },
+      {
+        "text": "Caseous necrosis",
+        "explanation": "This produces amorphous granular debris in selected granulomatous infections.",
+        "correct": false
+      }
+    ],
+    "explanation": "Myocardial ischemia commonly causes coagulative necrosis. Denatured structural proteins and enzymes delay tissue dissolution, so outlines remain visible despite loss of nuclei. Inflammatory cells subsequently remove the dead tissue, and healing replaces lost myocytes with scar rather than regeneration of normal contractile myocardium.",
+    "objective": "Recognize preserved architecture with nuclear loss in an ischemic myocardial infarct.",
+    "keyPoints": [
+      "Recognize preserved architecture with nuclear loss in an ischemic myocardial infarct."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0052",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Nervous System",
+    "topic": "Liquefactive necrosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient has a large cerebral infarction. Several weeks later imaging shows a fluid-filled cavity in the affected region. Which tissue response best accounts for this appearance?",
+    "options": [
+      {
+        "text": "Enzymatic digestion producing liquefactive necrosis",
+        "explanation": "Brain infarction characteristically undergoes tissue dissolution and cavitation.",
+        "correct": true
+      },
+      {
+        "text": "Persistent coagulative architecture",
+        "explanation": "This describes many solid-organ infarcts but not the usual late brain pattern.",
+        "correct": false
+      },
+      {
+        "text": "Calcium soap formation",
+        "explanation": "Saponification is associated with fat necrosis rather than cerebral cavitation.",
+        "correct": false
+      },
+      {
+        "text": "Caseating granuloma formation",
+        "explanation": "An uncomplicated ischemic infarct does not produce an infectious caseating granuloma.",
+        "correct": false
+      }
+    ],
+    "explanation": "After cerebral ischemia, enzymatic degradation and removal of dead cells lead to liquefaction and a residual cavity with surrounding gliosis. This is an important exception to the coagulative pattern seen in most other ischemic solid organs. The vascular distribution distinguishes infarction from a primary abscess.",
+    "objective": "Identify liquefaction as the characteristic necrosis pattern of cerebral infarction.",
+    "keyPoints": [
+      "Identify liquefaction as the characteristic necrosis pattern of cerebral infarction."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0053",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Apoptosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Following withdrawal of a growth signal, cultured cells shrink, condense their chromatin, and fragment into membrane-bound bodies. Adjacent tissue has little inflammation. Which process mediates this pattern?",
+    "options": [
+      {
+        "text": "Uncontrolled membrane rupture",
+        "explanation": "This favors necrotic inflammation rather than orderly membrane-bound fragments.",
+        "correct": false
+      },
+      {
+        "text": "Bacterial abscess formation",
+        "explanation": "This usually involves neutrophilic inflammation and tissue digestion.",
+        "correct": false
+      },
+      {
+        "text": "Amyloid deposition",
+        "explanation": "Extracellular protein accumulation does not explain this sequence of cell fragmentation.",
+        "correct": false
+      },
+      {
+        "text": "Caspase-dependent apoptosis",
+        "explanation": "Controlled fragmentation limits leakage of intracellular inflammatory contents.",
+        "correct": true
+      }
+    ],
+    "explanation": "Apoptosis uses protease cascades to dismantle cells into fragments that can be cleared by phagocytes. Early membrane integrity limits inflammation compared with necrosis. Growth-factor withdrawal often activates the intrinsic mitochondrial pathway, while death receptors can activate a separate upstream route converging on executioner caspases.",
+    "objective": "Differentiate apoptosis from necrosis using cell shrinkage and limited inflammation.",
+    "keyPoints": [
+      "Differentiate apoptosis from necrosis using cell shrinkage and limited inflammation."
+    ],
+    "references": [
+      {
+        "label": "Molecular Biology of the Cell, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0054",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "Granulomatous inflammation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A lung biopsy shows clusters of epithelioid macrophages and multinucleated giant cells surrounding central acellular debris. Which immune mechanism most directly sustains macrophage activation in this type of granuloma?",
+    "options": [
+      {
+        "text": "Complete absence of cellular immunity",
+        "explanation": "Organized immune granulomas require an active cellular response.",
+        "correct": false
+      },
+      {
+        "text": "Platelet inhibition of macrophage recruitment",
+        "explanation": "This does not provide the principal activating signal described.",
+        "correct": false
+      },
+      {
+        "text": "T-cell interferon-gamma signaling",
+        "explanation": "Th1-derived interferon-gamma enhances macrophage activation in immune granulomas.",
+        "correct": true
+      },
+      {
+        "text": "IgE-mediated mast-cell degranulation only",
+        "explanation": "This chiefly mediates immediate hypersensitivity rather than organized granulomas.",
+        "correct": false
+      }
+    ],
+    "explanation": "Persistent poorly cleared antigens can drive a T-cell and macrophage response. Interferon-gamma promotes activated epithelioid macrophages, while other cytokines help organize and maintain granulomas. The morphology narrows the differential but does not alone establish tuberculosis; organisms and clinical context still require investigation.",
+    "objective": "Explain Th1-macrophage signaling in granulomatous inflammation.",
+    "keyPoints": [
+      "Explain Th1-macrophage signaling in granulomatous inflammation."
+    ],
+    "references": [
+      {
+        "label": "Immunobiology, 5th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0055",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Wound healing",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A clean surgical incision is examined five days after closure. The wound contains fragile new capillaries, fibroblasts, and loose extracellular matrix. Which term best describes this tissue?",
+    "options": [
+      {
+        "text": "Normal uninjured dermis",
+        "explanation": "The prominent new vessels and active repair distinguish it from baseline tissue.",
+        "correct": false
+      },
+      {
+        "text": "Granulation tissue",
+        "explanation": "New vessels and proliferating fibroblasts characterize the early repair bed.",
+        "correct": true
+      },
+      {
+        "text": "Mature dense scar",
+        "explanation": "Scar remodeling and relative vascular regression develop later.",
+        "correct": false
+      },
+      {
+        "text": "Caseating granuloma",
+        "explanation": "A granuloma is a macrophage aggregate, distinct from granulation tissue.",
+        "correct": false
+      }
+    ],
+    "explanation": "Granulation tissue fills a healing wound with new capillaries, fibroblasts, and provisional matrix. It later matures as collagen accumulates, cross-links, and remodels while vascularity declines. The similar-sounding granuloma describes organized macrophage inflammation and should not be confused with this normal repair process.",
+    "objective": "Distinguish granulation tissue from granulomas and mature scar.",
+    "keyPoints": [
+      "Distinguish granulation tissue from granulomas and mature scar."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0056",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Iron deficiency",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A woman with prolonged heavy menstrual bleeding has hemoglobin 9 g/dL, MCV 68 fL, low ferritin, and increased total iron-binding capacity. Which mechanism most directly produces the microcytosis?",
+    "options": [
+      {
+        "text": "Reduced heme synthesis from inadequate iron",
+        "explanation": "Limited hemoglobin production produces smaller, hypochromic erythrocytes.",
+        "correct": true
+      },
+      {
+        "text": "Defective DNA synthesis from folate depletion",
+        "explanation": "This usually causes macrocytosis and nuclear maturation delay.",
+        "correct": false
+      },
+      {
+        "text": "Immune destruction of mature red cells alone",
+        "explanation": "Hemolysis does not explain the depleted iron stores and high binding capacity.",
+        "correct": false
+      },
+      {
+        "text": "Increased hepcidin with iron sequestration alone",
+        "explanation": "Inflammation more often lowers binding capacity and preserves or raises ferritin.",
+        "correct": false
+      }
+    ],
+    "explanation": "Chronic blood loss depletes storage iron, reflected by low ferritin. Reduced heme availability limits hemoglobin synthesis and leads to microcytic erythrocytes. Increased transferrin raises total iron-binding capacity; this pattern helps distinguish deficiency from inflammatory iron restriction, although mixed states can complicate interpretation.",
+    "objective": "Interpret low ferritin with high iron-binding capacity as iron deficiency.",
+    "keyPoints": [
+      "Interpret low ferritin with high iron-binding capacity as iron deficiency."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0057",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Anemia of inflammation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with longstanding inflammatory arthritis has anemia, low serum iron, low total iron-binding capacity, and elevated ferritin. Which regulator most directly explains the restricted iron availability?",
+    "options": [
+      {
+        "text": "Absent hepcidin with unrestricted iron export",
+        "explanation": "This would increase rather than restrict circulating iron availability.",
+        "correct": false
+      },
+      {
+        "text": "Increased intrinsic factor secretion",
+        "explanation": "Intrinsic factor affects cobalamin absorption rather than this iron pattern.",
+        "correct": false
+      },
+      {
+        "text": "Reduced bilirubin conjugation",
+        "explanation": "This does not explain low iron with preserved storage ferritin.",
+        "correct": false
+      },
+      {
+        "text": "Increased hepcidin causing ferroportin loss",
+        "explanation": "Hepcidin reduces intestinal iron export and iron release from macrophages.",
+        "correct": true
+      }
+    ],
+    "explanation": "Inflammation increases hepatic hepcidin, which binds ferroportin and reduces iron transfer into plasma. Iron becomes less available for erythropoiesis despite preserved stores. Ferritin also rises as an acute-phase reactant, so an elevated value during inflammation does not by itself exclude concurrent true iron deficiency.",
+    "objective": "Link inflammatory anemia to hepcidin-mediated iron sequestration.",
+    "keyPoints": [
+      "Link inflammatory anemia to hepcidin-mediated iron sequestration."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0058",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Megaloblastic anemia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An older patient with paresthesias and an unsteady gait has macro-ovalocytes and hypersegmented neutrophils. Both homocysteine and methylmalonic acid are elevated. Which deficiency best explains the combined findings?",
+    "options": [
+      {
+        "text": "Iron",
+        "explanation": "It generally causes microcytosis rather than this megaloblastic pattern.",
+        "correct": false
+      },
+      {
+        "text": "Vitamin K",
+        "explanation": "It affects clotting-factor activation rather than nuclear maturation and myelin findings.",
+        "correct": false
+      },
+      {
+        "text": "Vitamin B12",
+        "explanation": "Its deficiency affects DNA synthesis and methylmalonyl-CoA metabolism with neurologic disease.",
+        "correct": true
+      },
+      {
+        "text": "Folate",
+        "explanation": "It raises homocysteine but typically not methylmalonic acid.",
+        "correct": false
+      }
+    ],
+    "explanation": "Cobalamin deficiency impairs methionine synthase and methylmalonyl-CoA mutase. Defective DNA synthesis produces megaloblastic hematopoiesis, while neurologic abnormalities distinguish it from isolated folate deficiency. Elevated methylmalonic acid supports cobalamin deficiency, although renal impairment can influence the measurement.",
+    "objective": "Distinguish cobalamin deficiency from folate deficiency using methylmalonic acid and neurologic signs.",
+    "keyPoints": [
+      "Distinguish cobalamin deficiency from folate deficiency using methylmalonic acid and neurologic signs."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0059",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Intravascular hemolysis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient develops abrupt anemia with dark urine after mechanical red-cell injury. Haptoglobin is very low and plasma free hemoglobin is elevated. Which event most directly lowers haptoglobin?",
+    "options": [
+      {
+        "text": "Reduced intestinal iron absorption alone",
+        "explanation": "This does not cause acute plasma free-hemoglobin accumulation.",
+        "correct": false
+      },
+      {
+        "text": "Binding and clearance of free plasma hemoglobin",
+        "explanation": "Haptoglobin-hemoglobin complexes are rapidly removed from circulation.",
+        "correct": true
+      },
+      {
+        "text": "Urinary loss of intact erythrocytes only",
+        "explanation": "Hematuria alone does not account for consumption by plasma hemoglobin.",
+        "correct": false
+      },
+      {
+        "text": "Increased liver synthesis of haptoglobin",
+        "explanation": "Greater synthesis would oppose the observed decrease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Intravascular red-cell rupture releases hemoglobin into plasma. Haptoglobin binds it, and clearance of the complexes consumes circulating haptoglobin; when binding is overwhelmed, hemoglobin may appear in urine. Low haptoglobin is supportive rather than exclusive evidence because severe liver disease can also reduce its synthesis.",
+    "objective": "Explain low haptoglobin during intravascular red-cell destruction.",
+    "keyPoints": [
+      "Explain low haptoglobin during intravascular red-cell destruction."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0060",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Thrombotic microangiopathy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient has confusion, thrombocytopenia, schistocytes, and elevated LDH. PT and aPTT are normal. Severe deficiency of a protease that cleaves large von Willebrand factor multimers is found. Which disorder is most likely?",
+    "options": [
+      {
+        "text": "Thrombotic thrombocytopenic purpura",
+        "explanation": "ADAMTS13 deficiency permits platelet-rich microthrombi and mechanical hemolysis.",
+        "correct": true
+      },
+      {
+        "text": "Disseminated intravascular coagulation",
+        "explanation": "This often consumes clotting factors and prolongs coagulation times.",
+        "correct": false
+      },
+      {
+        "text": "Immune thrombocytopenia",
+        "explanation": "It usually causes isolated thrombocytopenia without microangiopathic hemolysis.",
+        "correct": false
+      },
+      {
+        "text": "Hemophilia A",
+        "explanation": "Factor VIII deficiency prolongs aPTT and does not explain platelet consumption.",
+        "correct": false
+      }
+    ],
+    "explanation": "Severely deficient ADAMTS13 leaves unusually large von Willebrand factor multimers that promote microvascular platelet aggregation. Platelet consumption and red-cell fragmentation produce thrombocytopenia and hemolysis. Normal clotting times fit platelet-rich microthrombosis better than widespread coagulation-factor consumption; suspected clinical TTP is an emergency.",
+    "objective": "Recognize ADAMTS13-related microangiopathic hemolysis with normal coagulation times.",
+    "keyPoints": [
+      "Recognize ADAMTS13-related microangiopathic hemolysis with normal coagulation times."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0061",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Nephrotic syndrome",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient develops generalized edema, serum albumin 2 g/dL, and urinary protein excretion of 6 g/day. Urine sediment contains fatty casts without prominent red-cell casts. Which lesion type best explains the dominant syndrome?",
+    "options": [
+      {
+        "text": "Isolated distal urinary tract hemorrhage",
+        "explanation": "This does not cause this degree of albumin loss or fatty casts.",
+        "correct": false
+      },
+      {
+        "text": "Selective collecting-duct failure to reabsorb glucose",
+        "explanation": "This affects glucose handling rather than massive protein filtration.",
+        "correct": false
+      },
+      {
+        "text": "Complete ureteral obstruction on one side",
+        "explanation": "This may cause hydronephrosis but not the characteristic nephrotic pattern.",
+        "correct": false
+      },
+      {
+        "text": "Increased glomerular permeability to protein",
+        "explanation": "Heavy albumin loss lowers oncotic pressure and produces nephrotic features.",
+        "correct": true
+      }
+    ],
+    "explanation": "Nephrotic syndrome reflects marked glomerular protein leakage, with hypoalbuminemia and edema. Hyperlipidemia and lipiduria commonly accompany it, explaining fatty casts. The syndrome describes a pattern rather than a single cause; diabetes, podocyte disorders, and immune-mediated diseases require separate etiologic evaluation.",
+    "objective": "Identify the nephrotic pattern from heavy proteinuria, hypoalbuminemia and lipiduria.",
+    "keyPoints": [
+      "Identify the nephrotic pattern from heavy proteinuria, hypoalbuminemia and lipiduria."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0062",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Rapidly progressive glomerulonephritis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient has rapidly worsening kidney function, dysmorphic urinary red cells, and red-cell casts. Biopsy shows crescents in many glomeruli. Which process forms the crescents?",
+    "options": [
+      {
+        "text": "Isolated renal pelvic smooth muscle hypertrophy",
+        "explanation": "This is outside the glomerulus and cannot explain red-cell casts.",
+        "correct": false
+      },
+      {
+        "text": "Increased normal podocyte replication alone",
+        "explanation": "Crescents are not simply normal podocyte proliferation.",
+        "correct": false
+      },
+      {
+        "text": "Parietal epithelial proliferation with macrophage entry after capillary injury",
+        "explanation": "Leakage into Bowman space drives the crescentic response.",
+        "correct": true
+      },
+      {
+        "text": "Lipid accumulation in collecting ducts",
+        "explanation": "This does not create proliferative lesions within Bowman space.",
+        "correct": false
+      }
+    ],
+    "explanation": "Severe glomerular capillary-wall injury permits fibrin and inflammatory material to enter Bowman space, stimulating parietal epithelial proliferation and macrophage accumulation. Crescents indicate aggressive injury but do not specify the cause; immunofluorescence and serology distinguish anti-GBM, immune-complex, and pauci-immune mechanisms.",
+    "objective": "Interpret crescents as a response to severe glomerular capillary injury.",
+    "keyPoints": [
+      "Interpret crescents as a response to severe glomerular capillary injury."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0063",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Acute tubular injury",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "After prolonged hypotension during major hemorrhage, a patient develops oliguria and rising creatinine. Urinalysis shows granular muddy-brown casts. Which structure is primarily injured?",
+    "options": [
+      {
+        "text": "Renal pelvic urothelium exclusively",
+        "explanation": "This does not account for ischemia-associated tubular sediment.",
+        "correct": false
+      },
+      {
+        "text": "Renal tubular epithelium",
+        "explanation": "Ischemic epithelial injury and sloughed material produce characteristic granular casts.",
+        "correct": true
+      },
+      {
+        "text": "Bladder transitional epithelium only",
+        "explanation": "Lower tract injury does not explain kidney failure with tubular casts.",
+        "correct": false
+      },
+      {
+        "text": "Glomerular basement membrane exclusively",
+        "explanation": "An isolated inflammatory glomerular lesion more often yields red-cell casts.",
+        "correct": false
+      }
+    ],
+    "explanation": "Sustained hypoperfusion can progress from reversible prerenal physiology to ischemic tubular epithelial injury. Sloughed cells and proteinaceous material form granular casts. Clinical recovery depends on restoration of perfusion and repair; the sediment supports tubular injury but should be interpreted alongside medications, volume status, and obstruction assessment.",
+    "objective": "Associate muddy-brown casts after shock with acute tubular injury.",
+    "keyPoints": [
+      "Associate muddy-brown casts after shock with acute tubular injury."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0064",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "Pulmonary edema",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with acute left ventricular failure develops bilateral crackles and pink frothy sputum. Which initial capillary change most directly drives fluid into pulmonary interstitial and alveolar spaces?",
+    "options": [
+      {
+        "text": "Increased pulmonary capillary hydrostatic pressure",
+        "explanation": "Elevated left-sided filling pressure is transmitted backward to pulmonary vessels.",
+        "correct": true
+      },
+      {
+        "text": "Reduced pulmonary venous pressure",
+        "explanation": "This would decrease the force driving cardiogenic filtration.",
+        "correct": false
+      },
+      {
+        "text": "Increased plasma oncotic pressure",
+        "explanation": "This favors retaining fluid within capillaries.",
+        "correct": false
+      },
+      {
+        "text": "Primary loss of all surfactant-producing cells",
+        "explanation": "Surfactant loss is not the initiating pressure mechanism in cardiogenic edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Left ventricular failure raises left atrial and pulmonary venous pressures, increasing pulmonary capillary hydrostatic pressure. When filtration exceeds lymphatic clearance, interstitial and then alveolar edema develop. This pressure-driven process differs from permeability edema, although both may cause severe hypoxemia and similar radiographic opacities.",
+    "objective": "Explain cardiogenic pulmonary edema through elevated capillary hydrostatic pressure.",
+    "keyPoints": [
+      "Explain cardiogenic pulmonary edema through elevated capillary hydrostatic pressure."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0065",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "Restrictive interstitial disease",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with progressive exertional dyspnea has low total lung capacity, a preserved or elevated FEV1/FVC ratio, and reduced DLCO. Biopsy shows diffuse interstitial collagen deposition. Which mechanical change is expected?",
+    "options": [
+      {
+        "text": "Markedly increased lung compliance",
+        "explanation": "This is more typical of loss of elastic tissue in emphysema.",
+        "correct": false
+      },
+      {
+        "text": "Reduced elastic recoil from alveolar wall destruction",
+        "explanation": "This describes emphysematous obstruction rather than interstitial scarring.",
+        "correct": false
+      },
+      {
+        "text": "Normal diffusion surface in all cases",
+        "explanation": "Fibrosis thickens the gas-transfer barrier and can impair diffusion.",
+        "correct": false
+      },
+      {
+        "text": "Reduced lung compliance",
+        "explanation": "Fibrotic parenchyma requires greater pressure for a given volume change.",
+        "correct": true
+      }
+    ],
+    "explanation": "Interstitial fibrosis stiffens the lung, reducing compliance and total lung capacity. Greater recoil can preserve the FEV1/FVC ratio even when both volumes fall. Thickened interstitium and associated vascular changes impair gas transfer, so a preserved ratio does not mean pulmonary function is normal.",
+    "objective": "Relate interstitial fibrosis to restriction, low compliance and impaired diffusion.",
+    "keyPoints": [
+      "Relate interstitial fibrosis to restriction, low compliance and impaired diffusion."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0066",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Barrett metaplasia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A man with longstanding reflux has distal esophageal biopsy showing intestinal-type columnar epithelium with goblet cells replacing stratified squamous epithelium. No invasion or cytologic dysplasia is present. Which process is shown?",
+    "options": [
+      {
+        "text": "Simple hypertrophy",
+        "explanation": "Larger cells alone do not explain a different epithelial lineage.",
+        "correct": false
+      },
+      {
+        "text": "Coagulative necrosis",
+        "explanation": "The biopsy shows viable differentiated epithelium rather than ischemic cell death.",
+        "correct": false
+      },
+      {
+        "text": "Metaplasia",
+        "explanation": "A differentiated epithelial type has been replaced by another adapted type.",
+        "correct": true
+      },
+      {
+        "text": "Invasive carcinoma",
+        "explanation": "Invasion is specifically absent and is not established by metaplasia.",
+        "correct": false
+      }
+    ],
+    "explanation": "Barrett esophagus is intestinal metaplasia associated with chronic reflux injury. It increases the risk of esophageal adenocarcinoma but is not itself proof of malignancy. Dysplasia and invasion are distinct additional findings, so terminology matters when explaining risk and planning clinical surveillance.",
+    "objective": "Distinguish intestinal metaplasia from dysplasia and invasive carcinoma.",
+    "keyPoints": [
+      "Distinguish intestinal metaplasia from dysplasia and invasive carcinoma."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0067",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Celiac enteropathy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient has chronic diarrhea, iron deficiency, and a duodenal biopsy showing villous blunting, crypt hyperplasia, and increased intraepithelial lymphocytes. Which mechanism most closely fits this pattern in celiac disease?",
+    "options": [
+      {
+        "text": "Excess gastric intrinsic factor",
+        "explanation": "This is not the mechanism of gluten-triggered enteropathy.",
+        "correct": false
+      },
+      {
+        "text": "Immune-mediated mucosal injury triggered by gluten",
+        "explanation": "T-cell-associated injury reduces absorptive surface in susceptible individuals.",
+        "correct": true
+      },
+      {
+        "text": "Isolated pancreatic duct obstruction",
+        "explanation": "This can cause maldigestion without the characteristic duodenal lymphocytic lesion.",
+        "correct": false
+      },
+      {
+        "text": "Primary failure of colonic water absorption only",
+        "explanation": "This does not explain proximal small-bowel villous injury and iron malabsorption.",
+        "correct": false
+      }
+    ],
+    "explanation": "In genetically susceptible patients, gluten-related immune responses damage small-intestinal mucosa. Villous loss reduces absorptive area, and proximal involvement can impair iron absorption. The histologic pattern supports the diagnosis in context but is not fully specific; appropriate serologic testing and dietary history remain necessary.",
+    "objective": "Connect gluten-associated villous injury to proximal nutrient malabsorption.",
+    "keyPoints": [
+      "Connect gluten-associated villous injury to proximal nutrient malabsorption."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0068",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Cirrhosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A liver biopsy shows regenerative nodules surrounded by broad fibrous septa. The patient has ascites and splenomegaly. Which structural consequence most directly contributes to portal hypertension?",
+    "options": [
+      {
+        "text": "Increased resistance through distorted hepatic vascular channels",
+        "explanation": "Fibrosis and nodular remodeling impede portal blood flow.",
+        "correct": true
+      },
+      {
+        "text": "Complete disappearance of portal inflow",
+        "explanation": "Portal hypertension requires ongoing flow against increased resistance.",
+        "correct": false
+      },
+      {
+        "text": "Uniform expansion of unobstructed hepatic sinusoids",
+        "explanation": "This does not describe the resistance-producing nodular scar.",
+        "correct": false
+      },
+      {
+        "text": "Isolated excess pancreatic enzyme secretion",
+        "explanation": "This is unrelated to the liver architecture causing portal hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "Cirrhosis combines diffuse fibrosis with regenerative nodules that distort hepatic architecture and increase intrahepatic vascular resistance. Portal hypertension contributes to ascites, varices, and splenic enlargement. Reduced synthetic function and circulatory changes also influence complications, so structural obstruction is important but not the sole mechanism of ascites.",
+    "objective": "Link nodular hepatic fibrosis to increased portal vascular resistance.",
+    "keyPoints": [
+      "Link nodular hepatic fibrosis to increased portal vascular resistance."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0069",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Endocrine",
+    "topic": "Graves disease",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A woman has diffuse thyroid enlargement, elevated free T4, suppressed TSH, and eye prominence. Which antibody action most directly explains hormone excess in Graves disease?",
+    "options": [
+      {
+        "text": "Destruction of the adrenal cortex",
+        "explanation": "This causes primary adrenal insufficiency rather than autonomous thyroid stimulation.",
+        "correct": false
+      },
+      {
+        "text": "Blockade of all thyroid iodide uptake",
+        "explanation": "Complete uptake blockade would oppose increased hormone synthesis.",
+        "correct": false
+      },
+      {
+        "text": "Binding intrinsic factor",
+        "explanation": "This impairs cobalamin absorption and does not explain diffuse hyperthyroidism.",
+        "correct": false
+      },
+      {
+        "text": "Stimulation of the TSH receptor",
+        "explanation": "Receptor-activating antibodies drive hormone synthesis despite low pituitary TSH.",
+        "correct": true
+      }
+    ],
+    "explanation": "Graves hyperthyroidism results from antibodies that activate the TSH receptor, producing diffuse stimulation independent of pituitary control. Elevated thyroid hormone suppresses TSH through normal feedback. Orbitopathy reflects an associated autoimmune tissue process; it is not simply an effect of a high T4 concentration on eye position.",
+    "objective": "Explain suppressed TSH with antibody-driven thyroid stimulation.",
+    "keyPoints": [
+      "Explain suppressed TSH with antibody-driven thyroid stimulation."
+    ],
+    "references": [
+      {
+        "label": "Immunobiology, 5th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0070",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Endocrine",
+    "topic": "Primary adrenal insufficiency",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient has fatigue, weight loss, hypotension, hyperpigmentation, hyponatremia, and hyperkalemia. Morning cortisol is low and ACTH is high. Which site of dysfunction best accounts for the complete pattern?",
+    "options": [
+      {
+        "text": "Adrenal medulla alone",
+        "explanation": "Catecholamine deficiency does not explain this cortisol-ACTH pattern.",
+        "correct": false
+      },
+      {
+        "text": "Thyroid follicular cells",
+        "explanation": "Thyroid failure does not directly explain hyperkalemia with elevated ACTH.",
+        "correct": false
+      },
+      {
+        "text": "Adrenal cortex",
+        "explanation": "Primary cortical failure lowers cortisol and often aldosterone while increasing ACTH.",
+        "correct": true
+      },
+      {
+        "text": "Anterior pituitary corticotrophs",
+        "explanation": "Central ACTH deficiency does not produce high ACTH and usually preserves aldosterone.",
+        "correct": false
+      }
+    ],
+    "explanation": "Primary adrenal insufficiency lowers cortisol and may reduce mineralocorticoid production, causing sodium loss, hyperkalemia, and volume depletion. Loss of cortisol feedback raises ACTH, contributing to pigmentation through related melanocortin signaling. Central adrenal insufficiency typically lacks this combination of high ACTH and aldosterone deficiency.",
+    "objective": "Localize adrenal insufficiency with high ACTH, pigmentation and mineralocorticoid loss.",
+    "keyPoints": [
+      "Localize adrenal insufficiency with high ACTH, pigmentation and mineralocorticoid loss."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0071",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Cardiovascular",
+    "topic": "Aortic dissection",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with severe hypertension develops abrupt tearing chest pain radiating to the back. Imaging shows blood separating layers of the aortic media. Which initiating structural event defines the usual dissection mechanism?",
+    "options": [
+      {
+        "text": "Thickening of an intact pericardium alone",
+        "explanation": "This does not account for blood dissecting through the media.",
+        "correct": false
+      },
+      {
+        "text": "An intimal tear allowing blood into the media",
+        "explanation": "Pressurized blood propagates a false channel within the aortic wall.",
+        "correct": true
+      },
+      {
+        "text": "Rupture of a superficial skin vein",
+        "explanation": "This cannot produce an intramural aortic false lumen.",
+        "correct": false
+      },
+      {
+        "text": "A coronary plaque confined to the lumen",
+        "explanation": "A luminal coronary lesion does not define separation of aortic wall layers.",
+        "correct": false
+      }
+    ],
+    "explanation": "An aortic dissection commonly begins with an intimal tear that permits blood to enter and split the media. Propagation can compromise branch vessels or rupture outward. Severe hypertension is a major risk factor, while connective-tissue disorders can predispose at younger ages; the location determines urgent management strategy.",
+    "objective": "Distinguish aortic dissection as intramural blood propagation through the media.",
+    "keyPoints": [
+      "Distinguish aortic dissection as intramural blood propagation through the media."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0072",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Tumor suppressor genes",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A child inherits one nonfunctional allele of a tumor suppressor gene. A retinal tumor later develops after the remaining functional allele is lost in a retinal cell. Which model best explains tumor development?",
+    "options": [
+      {
+        "text": "Two-hit loss of tumor suppressor function",
+        "explanation": "Both functional copies are lost within the tumor cell.",
+        "correct": true
+      },
+      {
+        "text": "Single activated oncogene copy must always be lost",
+        "explanation": "Oncogenes usually promote growth through gain of function, not obligatory loss.",
+        "correct": false
+      },
+      {
+        "text": "Maternal mitochondrial inheritance",
+        "explanation": "A nuclear tumor suppressor two-hit mechanism is not mitochondrial inheritance.",
+        "correct": false
+      },
+      {
+        "text": "Reversible enzyme competition only",
+        "explanation": "A clonal genetic loss is not explained by transient substrate competition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Tumor suppressor function often persists with one intact allele at the cellular level. An inherited first hit makes a second somatic event more likely to eliminate the remaining protection in susceptible tissue. Thus cancer predisposition can appear dominant in a family even though loss of function is recessive within individual tumor cells.",
+    "objective": "Separate dominant inherited predisposition from cellular two-hit tumor suppressor loss.",
+    "keyPoints": [
+      "Separate dominant inherited predisposition from cellular two-hit tumor suppressor loss."
+    ],
+    "references": [
+      {
+        "label": "Molecular Biology of the Cell, 4th ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0073",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Dystrophic calcification",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with a normal serum calcium level has calcium deposition in an old damaged heart valve. Which process best explains mineral deposition at this site?",
+    "options": [
+      {
+        "text": "Metastatic calcification from hypercalcemia",
+        "explanation": "This typically reflects altered systemic mineral balance, absent in the stem.",
+        "correct": false
+      },
+      {
+        "text": "Normal endochondral ossification",
+        "explanation": "A degenerating valve is not a normal growing cartilage template.",
+        "correct": false
+      },
+      {
+        "text": "Acute intracellular potassium accumulation",
+        "explanation": "Potassium accumulation does not explain calcium mineral in a scarred valve.",
+        "correct": false
+      },
+      {
+        "text": "Dystrophic calcification",
+        "explanation": "Damaged tissue can calcify despite normal systemic calcium concentration.",
+        "correct": true
+      }
+    ],
+    "explanation": "Dystrophic calcification occurs in injured or necrotic tissue where local conditions favor mineral deposition, even with normal serum calcium. Metastatic calcification instead affects otherwise viable tissues in the setting of disturbed calcium-phosphate balance. The local damage and normal serum value identify the appropriate mechanism here.",
+    "objective": "Distinguish dystrophic calcification from systemic mineral-related deposition.",
+    "keyPoints": [
+      "Distinguish dystrophic calcification from systemic mineral-related deposition."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0074",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Osteoporosis versus osteomalacia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An older adult has a low-trauma vertebral compression fracture. Serum calcium, phosphate, and alkaline phosphatase are normal. Bone biopsy shows reduced bone mass with normal mineralization of the remaining matrix. Which process best fits?",
+    "options": [
+      {
+        "text": "Acute osteomyelitis",
+        "explanation": "This is infection with inflammatory bone injury rather than isolated low bone mass.",
+        "correct": false
+      },
+      {
+        "text": "Paget disease",
+        "explanation": "This involves disordered remodeling and often elevated alkaline phosphatase.",
+        "correct": false
+      },
+      {
+        "text": "Osteoporosis",
+        "explanation": "Bone quantity is reduced while mineralization of remaining osteoid is preserved.",
+        "correct": true
+      },
+      {
+        "text": "Osteomalacia",
+        "explanation": "This involves defective mineralization and excess unmineralized osteoid.",
+        "correct": false
+      }
+    ],
+    "explanation": "Osteoporosis reduces total bone mass and disrupts microarchitecture, predisposing to fragility fractures despite often normal routine mineral tests. Osteomalacia instead reflects insufficient mineralization of osteoid. This distinction prevents assuming that every fracture with reduced radiographic density is caused by a calcium concentration abnormality.",
+    "objective": "Distinguish reduced bone quantity from defective matrix mineralization.",
+    "keyPoints": [
+      "Distinguish reduced bone quantity from defective matrix mineralization."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op26-0075",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Amyloid",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A patient with a chronic inflammatory disorder develops proteinuria. Kidney biopsy shows extracellular deposits with Congo red staining and apple-green birefringence under polarized light. Which protein conformation is characteristic of these deposits?",
+    "options": [
+      {
+        "text": "Dispersed soluble monomers without aggregation",
+        "explanation": "The pathologic material is an organized fibrillar protein deposit.",
+        "correct": false
+      },
+      {
+        "text": "Cross-beta-pleated sheet fibrils",
+        "explanation": "This shared structure accounts for characteristic amyloid staining properties.",
+        "correct": true
+      },
+      {
+        "text": "Normal collagen triple helices only",
+        "explanation": "Collagen has a different structure and does not define Congo red-positive amyloid.",
+        "correct": false
+      },
+      {
+        "text": "Intact membrane phospholipid bilayers",
+        "explanation": "Amyloid is aggregated protein rather than ordinary lipid membrane.",
+        "correct": false
+      }
+    ],
+    "explanation": "Amyloid comprises extracellular fibrils with a beta-sheet-rich structure, regardless of precursor protein. Chronic inflammation can generate AA amyloid from serum amyloid A, while other conditions produce different types. Congo red demonstrates amyloid but does not establish its precursor; typing is needed for etiologic treatment decisions.",
+    "objective": "Recognize amyloid structure while distinguishing detection from precursor typing.",
+    "keyPoints": [
+      "Recognize amyloid structure while distinguishing detection from precursor typing."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

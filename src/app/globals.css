@@ -1,0 +1,87 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+/* OpenPrep design tokens. Contrast pairs are WCAG AA (≥ 4.5:1 for text). */
+:root {
+  --bg: #f5f6f2;
+  --surface: #ffffff;
+  --surface-2: #eceee8;
+  --ink: #16201c;
+  --muted: #56645d;
+  --line: #d8ded6;
+  --brand: #0b6e5a;
+  --brand-strong: #08594a;
+  --brand-ink: #ffffff;
+  --brand-soft: #e1f1eb;
+  --accent: #b4540a;
+  --ok: #157a3c;
+  --ok-soft: #e3f4e8;
+  --bad: #b42318;
+  --bad-soft: #fbe9e7;
+  --warn-soft: #fdf3dc;
+  --mark: #fde68a;
+  --focus: #1d4ed8;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme=light]) {
+    --bg: #0f1513; --surface: #161e1b; --surface-2: #1e2824; --ink: #e6ece8; --muted: #9daaa3; --line: #2b3732;
+    --brand: #34b393; --brand-strong: #5cc9ad; --brand-ink: #062a22; --brand-soft: #173a31; --accent: #f0a35e;
+    --ok: #5fd08a; --ok-soft: #173826; --bad: #f08a80; --bad-soft: #3d1c19; --warn-soft: #3a2f14; --mark: #7a5d0c; --focus: #8ab4ff;
+    color-scheme: dark;
+  }
+}
+:root[data-theme=dark] {
+  --bg: #0f1513; --surface: #161e1b; --surface-2: #1e2824; --ink: #e6ece8; --muted: #9daaa3; --line: #2b3732;
+  --brand: #34b393; --brand-strong: #5cc9ad; --brand-ink: #062a22; --brand-soft: #173a31; --accent: #f0a35e;
+  --ok: #5fd08a; --ok-soft: #173826; --bad: #f08a80; --bad-soft: #3d1c19; --warn-soft: #3a2f14; --mark: #7a5d0c; --focus: #8ab4ff;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-brand: var(--brand);
+  --color-brand-strong: var(--brand-strong);
+  --color-brand-ink: var(--brand-ink);
+  --color-brand-soft: var(--brand-soft);
+  --color-accent: var(--accent);
+  --color-ok: var(--ok);
+  --color-ok-soft: var(--ok-soft);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-warn-soft: var(--warn-soft);
+  --font-sans: ui-sans-serif, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+}
+
+html { font-size: var(--font-size, 16px); }
+body { background: var(--bg); color: var(--ink); -webkit-font-smoothing: antialiased; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 4px; }
+::selection { background: var(--brand-soft); }
+
+/* Rendered Markdown (question stems, explanations, notes) */
+.prose-q { line-height: 1.7; }
+.prose-q p { margin: 0.65em 0; }
+.prose-q ul, .prose-q ol { margin: 0.6em 0; padding-left: 1.4em; }
+.prose-q ul { list-style: disc; }
+.prose-q ol { list-style: decimal; }
+.prose-q li { margin: 0.2em 0; }
+.prose-q strong { font-weight: 650; }
+.prose-q a { color: var(--brand); text-decoration: underline; }
+.prose-q table { border-collapse: collapse; margin: 0.8em 0; }
+.prose-q th, .prose-q td { border: 1px solid var(--line); padding: 0.35em 0.6em; text-align: left; }
+.prose-q blockquote { border-left: 3px solid var(--line); padding-left: 0.8em; color: var(--muted); }
+.prose-q img { max-width: 100%; border-radius: 6px; }
+mark { background: var(--mark); color: inherit; padding: 0 1px; border-radius: 2px; }
+
+@media print {
+  header, nav, .no-print { display: none !important; }
+  body { background: white; color: black; }
+}

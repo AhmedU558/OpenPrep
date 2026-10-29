@@ -1,0 +1,4139 @@
+{
+  "batch": 16,
+  "at": "2026-10-29T17:49:16.960Z",
+  "digest": "2372757be51c79fe440a8b644c9080e52affdd7bd9c2cfe5a98fe639b416db74",
+  "generated": 100,
+  "eligible": 94,
+  "rejected": 0,
+  "quarantined": 6,
+  "imported": 0,
+  "skipped": 94,
+  "available": 94,
+  "persisted": 94,
+  "stored": 100,
+  "storedReview": 6,
+  "before": 1028,
+  "after": 1028,
+  "mismatches": [],
+  "firstImport": {
+    "at": "2026-10-29T13:45:53.643Z",
+    "before": 532,
+    "after": 632,
+    "imported": 100,
+    "digest": "043ea76385110294164a3f4c09078fa3b14742f8ad35de6c1e1bbedc7a422e00"
+  },
+  "items": [
+    {
+      "code": "op26x-0701",
+      "concept": "research-drugs-701-negative-predictive-value",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Choose all negative tests as the denominator rather than diseased subjects.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Negative predictive value) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Negative predictive value: Calculate negative predictive value using only negative test outcomes. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0143",
+          "score": 0.5174,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0142",
+          "score": 0.2225,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0141",
+          "score": 0.195,
+          "sameObjective": false,
+          "lexical": 0.03278688524590164
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Negative predictive value",
+      "objective": "Calculate negative predictive value using only negative test outcomes.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0702",
+      "concept": "research-drugs-702-positive-likelihood-ratio",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Convert sensitivity and specificity into a comparison of positive-result probabilities.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Positive likelihood ratio) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Positive likelihood ratio: Use a positive likelihood ratio as an odds multiplier. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0144",
+          "score": 0.219,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0001",
+          "score": 0.2108,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0146",
+          "score": 0.1974,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Positive likelihood ratio",
+      "objective": "Use a positive likelihood ratio as an odds multiplier.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0703",
+      "concept": "research-drugs-703-negative-likelihood-ratio",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Identify a negative result in diseased and nondiseased groups before forming the ratio.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Negative likelihood ratio) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Negative likelihood ratio: Calculate a negative likelihood ratio without confusing it with post-test probability. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0702",
+          "score": 0.453,
+          "sameObjective": false,
+          "lexical": 0.07017543859649122
+        },
+        {
+          "code": "op26-0142",
+          "score": 0.2338,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0701",
+          "score": 0.2244,
+          "sameObjective": false,
+          "lexical": 0.03225806451612903
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Negative likelihood ratio",
+      "objective": "Calculate a negative likelihood ratio without confusing it with post-test probability.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0704",
+      "concept": "research-drugs-704-bayesian-odds-update",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Convert probability to odds, apply the given likelihood ratio, then return to probability.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Bayesian odds update) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Bayesian odds update: Perform a complete probability-to-odds Bayesian diagnostic update. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0703",
+          "score": 0.514,
+          "sameObjective": false,
+          "lexical": 0.034482758620689655
+        },
+        {
+          "code": "op26x-0702",
+          "score": 0.4029,
+          "sameObjective": false,
+          "lexical": 0.015625
+        },
+        {
+          "code": "op26-0146",
+          "score": 0.1497,
+          "sameObjective": false,
+          "lexical": 0.017857142857142856
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Bayesian odds update",
+      "objective": "Perform a complete probability-to-odds Bayesian diagnostic update.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0705",
+      "concept": "research-drugs-705-serial-testing-dependence",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Recognize that shared measurement mechanisms invalidate an independence assumption.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Serial testing dependence) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Serial testing dependence: Identify conditional dependence when combining diagnostic tests. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0704",
+          "score": 0.1718,
+          "sameObjective": false,
+          "lexical": 0.03225806451612903
+        },
+        {
+          "code": "op26x-0702",
+          "score": 0.1717,
+          "sameObjective": false,
+          "lexical": 0.015625
+        },
+        {
+          "code": "op26x-0703",
+          "score": 0.1511,
+          "sameObjective": false,
+          "lexical": 0.01694915254237288
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Serial testing dependence",
+      "objective": "Identify conditional dependence when combining diagnostic tests.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0706",
+      "concept": "research-drugs-706-screening-threshold-tradeoff",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Predict the direction of sensitivity and specificity changes when a cutoff is lowered.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Screening threshold tradeoff) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Screening threshold tradeoff: Predict a threshold-driven sensitivity-specificity tradeoff. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0702",
+          "score": 0.1556,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0703",
+          "score": 0.1409,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0144",
+          "score": 0.1404,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Screening threshold tradeoff",
+      "objective": "Predict a threshold-driven sensitivity-specificity tradeoff.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0707",
+      "concept": "research-drugs-707-roc-discrimination",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Compare summary discrimination across thresholds while avoiding an accuracy claim for a specific cutoff.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (ROC discrimination) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets ROC discrimination: Distinguish ROC ranking discrimination from calibration and prevalence. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0144",
+          "score": 0.0845,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0467",
+          "score": 0.067,
+          "sameObjective": false,
+          "lexical": 0.016666666666666666
+        },
+        {
+          "code": "op26x-0699",
+          "score": 0.0539,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "ROC discrimination",
+      "objective": "Distinguish ROC ranking discrimination from calibration and prevalence.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0708",
+      "concept": "research-drugs-708-calibration",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Separate agreement of predicted risk with observed frequency from ranking performance.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Calibration) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Calibration: Recognize miscalibration despite preserved risk ranking. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "s3-0004",
+          "score": 0.1372,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0707",
+          "score": 0.1325,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0001",
+          "score": 0.0984,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Calibration",
+      "objective": "Recognize miscalibration despite preserved risk ranking.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0709",
+      "concept": "research-drugs-709-type-i-error",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the false-positive inferential event rather than a patient-level test error.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Type I error) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Type I error: Define type I error as rejecting a true null hypothesis. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0143",
+          "score": 0.1144,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0148",
+          "score": 0.0879,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0147",
+          "score": 0.0745,
+          "sameObjective": false,
+          "lexical": 0.01818181818181818
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Type I error",
+      "objective": "Define type I error as rejecting a true null hypothesis.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0710",
+      "concept": "research-drugs-710-type-ii-error-and-power",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Translate beta into the probability of detecting a specified alternative effect.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Type II error and power) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Type II error and power: Relate power to beta for a specified effect size. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0083",
+          "score": 0.0984,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0082",
+          "score": 0.0898,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0200",
+          "score": 0.0834,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Type II error and power",
+      "objective": "Relate power to beta for a specified effect size.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0711",
+      "concept": "research-drugs-711-sample-size-and-precision",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Use inverse square-root scaling of standard error rather than assuming linear improvement.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Sample size and precision) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Sample size and precision: Apply square-root sample-size scaling to precision. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0705",
+          "score": 0.114,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0709",
+          "score": 0.0785,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0488",
+          "score": 0.0733,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Sample size and precision",
+      "objective": "Apply square-root sample-size scaling to precision.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0712",
+      "concept": "research-drugs-712-standard-deviation-versus-standard-error",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Distinguish variability among people from uncertainty in their estimated mean.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Standard deviation versus standard error) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Standard deviation versus standard error: Separate individual variability from uncertainty in an estimated mean. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0711",
+          "score": 0.2966,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0445",
+          "score": 0.1133,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0705",
+          "score": 0.097,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Standard deviation versus standard error",
+      "objective": "Separate individual variability from uncertainty in an estimated mean.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0713",
+      "concept": "research-drugs-713-p-value-interpretation",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "State the probability conditional on the null without reversing the conditioning.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (P-value interpretation) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets P-value interpretation: Interpret a p-value without reversing its conditional probability. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0710",
+          "score": 0.2419,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0709",
+          "score": 0.2071,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0148",
+          "score": 0.1086,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "P-value interpretation",
+      "objective": "Interpret a p-value without reversing its conditional probability.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0714",
+      "concept": "research-drugs-714-multiple-testing",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Recognize the increased chance of any false discovery across many null tests.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Multiple testing) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Multiple testing: Recognize multiplicity when selecting significant outcomes after many tests. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0701",
+          "score": 0.2178,
+          "sameObjective": false,
+          "lexical": 0.015384615384615385
+        },
+        {
+          "code": "op26-0143",
+          "score": 0.183,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0713",
+          "score": 0.1233,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Multiple testing",
+      "objective": "Recognize multiplicity when selecting significant outcomes after many tests.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0715",
+      "concept": "research-drugs-715-noninferiority-interpretation",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Compare a confidence bound with the prespecified harm margin rather than ordinary significance alone.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Noninferiority interpretation) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Noninferiority interpretation: Interpret noninferiority using the prespecified direction and margin. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0148",
+          "score": 0.1511,
+          "sameObjective": false,
+          "lexical": 0.014084507042253521
+        },
+        {
+          "code": "op26-0147",
+          "score": 0.1466,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0051",
+          "score": 0.13,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Noninferiority interpretation",
+      "objective": "Interpret noninferiority using the prespecified direction and margin.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0716",
+      "concept": "research-drugs-716-intention-to-treat-analysis",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Preserve randomized allocation when classifying participants despite crossover.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies is a checked reference identity for this domain. The question is independently authored; its specific inference (Intention-to-treat analysis) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Intention-to-treat analysis: Identify intention-to-treat analysis in a trial with treatment crossover. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0147",
+          "score": 0.1372,
+          "sameObjective": false,
+          "lexical": 0.016666666666666666
+        },
+        {
+          "code": "s3-0004",
+          "score": 0.1048,
+          "sameObjective": false,
+          "lexical": 0.028169014084507043
+        },
+        {
+          "code": "op26x-0708",
+          "score": 0.0863,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Intention-to-treat analysis",
+      "objective": "Identify intention-to-treat analysis in a trial with treatment crossover.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0717",
+      "concept": "research-drugs-717-allocation-concealment",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Locate the bias-prevention step before enrollment rather than after treatment begins.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies is a checked reference identity for this domain. The question is independently authored; its specific inference (Allocation concealment) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Allocation concealment: Distinguish allocation concealment from post-assignment blinding. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0699",
+          "score": 0.1595,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0328",
+          "score": 0.0632,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0004",
+          "score": 0.0628,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Allocation concealment",
+      "objective": "Distinguish allocation concealment from post-assignment blinding.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0718",
+      "concept": "research-drugs-718-cluster-randomization",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Identify the unit of allocation and the resulting within-cluster correlation.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies is a checked reference identity for this domain. The question is independently authored; its specific inference (Cluster randomization) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Cluster randomization: Account for clustering when clinics rather than patients are randomized. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0712",
+          "score": 0.197,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0004",
+          "score": 0.1321,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0001",
+          "score": 0.1004,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Cluster randomization",
+      "objective": "Account for clustering when clinics rather than patients are randomized.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0719",
+      "concept": "research-drugs-719-crossover-washout",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Assess carryover against a stable chronic condition before accepting a within-person comparison.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies is a checked reference identity for this domain. The question is independently authored; its specific inference (Crossover washout) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Crossover washout: Evaluate carryover and washout in a crossover trial. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0716",
+          "score": 0.1843,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0147",
+          "score": 0.1225,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0709",
+          "score": 0.1222,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Crossover washout",
+      "objective": "Evaluate carryover and washout in a crossover trial.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0720",
+      "concept": "research-drugs-720-case-control-source-population",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Choose controls independently of the exposure while retaining the population that produced cases.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies is a checked reference identity for this domain. The question is independently authored; its specific inference (Case-control source population) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Case-control source population: Select case-control controls from the population generating cases. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0146",
+          "score": 0.2684,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0387",
+          "score": 0.1359,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0461",
+          "score": 0.0893,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Case-control source population",
+      "objective": "Select case-control controls from the population generating cases.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0721",
+      "concept": "research-drugs-721-incidence-density",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Use person-time when follow-up duration differs among participants.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Incidence density) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Incidence density: Calculate an incidence rate using a person-time denominator. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0147",
+          "score": 0.1655,
+          "sameObjective": false,
+          "lexical": 0.018867924528301886
+        },
+        {
+          "code": "op26-0141",
+          "score": 0.1366,
+          "sameObjective": false,
+          "lexical": 0.02
+        },
+        {
+          "code": "s3-0007",
+          "score": 0.1079,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Incidence density",
+      "objective": "Calculate an incidence rate using a person-time denominator.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0722",
+      "concept": "research-drugs-722-cross-sectional-temporality",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Identify that simultaneous exposure and outcome measurement does not establish which came first.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies is a checked reference identity for this domain. The question is independently authored; its specific inference (Cross-sectional temporality) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Cross-sectional temporality: Recognize temporal ambiguity in a cross-sectional association. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0334",
+          "score": 0.1354,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0004",
+          "score": 0.1046,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0165",
+          "score": 0.0866,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Cross-sectional temporality",
+      "objective": "Recognize temporal ambiguity in a cross-sectional association.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0723",
+      "concept": "research-drugs-723-ecological-fallacy",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Separate a group-level correlation from an individual-level causal inference.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies is a checked reference identity for this domain. The question is independently authored; its specific inference (Ecological fallacy) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Ecological fallacy: Identify ecological fallacy when applying regional associations to individuals. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0721",
+          "score": 0.13,
+          "sameObjective": false,
+          "lexical": 0.017241379310344827
+        },
+        {
+          "code": "op26x-0449",
+          "score": 0.1157,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0709",
+          "score": 0.0856,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Ecological fallacy",
+      "objective": "Identify ecological fallacy when applying regional associations to individuals.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0724",
+      "concept": "research-drugs-724-recall-bias",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Locate differential memory of past exposures after outcome status is known.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies is a checked reference identity for this domain. The question is independently authored; its specific inference (Recall bias) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Recall bias: Recognize differential recall in retrospective exposure interviews. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0150",
+          "score": 0.1074,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0007",
+          "score": 0.1045,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0123",
+          "score": 0.0708,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Recall bias",
+      "objective": "Recognize differential recall in retrospective exposure interviews.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0725",
+      "concept": "research-drugs-725-length-time-bias",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Identify preferential detection of indolent disease rather than simply starting follow-up earlier.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Length-time bias) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Length-time bias: Distinguish length-biased screening selection from lead-time bias. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "s3-0007",
+          "score": 0.3157,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0150",
+          "score": 0.3146,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0009",
+          "score": 0.1009,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Length-time bias",
+      "objective": "Distinguish length-biased screening selection from lead-time bias.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0726",
+      "concept": "research-drugs-726-immortal-time-bias",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Identify misclassified event-free time required to qualify as treated.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Immortal time bias) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Immortal time bias: Recognize event-free exposure qualification as immortal time bias. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0725",
+          "score": 0.1884,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0150",
+          "score": 0.1646,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0007",
+          "score": 0.1504,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Immortal time bias",
+      "objective": "Recognize event-free exposure qualification as immortal time bias.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0727",
+      "concept": "research-drugs-727-informative-attrition",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Relate differential dropout to likely unobserved outcomes rather than sample size alone.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Informative attrition) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Informative attrition: Identify response-related dropout as a threat to trial validity. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0716",
+          "score": 0.1639,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0719",
+          "score": 0.1213,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0714",
+          "score": 0.1191,
+          "sameObjective": false,
+          "lexical": 0.017241379310344827
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Informative attrition",
+      "objective": "Identify response-related dropout as a threat to trial validity.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0728",
+      "concept": "research-drugs-728-effect-modification",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Interpret distinct stratum-specific effects as information rather than automatically eliminating them.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Effect modification) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Effect modification: Recognize and report effect heterogeneity on a specified scale. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0710",
+          "score": 0.1383,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0024",
+          "score": 0.0921,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0168",
+          "score": 0.0861,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Effect modification",
+      "objective": "Recognize and report effect heterogeneity on a specified scale.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0729",
+      "concept": "research-drugs-729-mediator-adjustment",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Choose adjustment variables according to whether the target is a total causal effect.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Mediator adjustment) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Mediator adjustment: Distinguish mediators from baseline confounders when estimating total effects. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0438",
+          "score": 0.0945,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0482",
+          "score": 0.0911,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0488",
+          "score": 0.0818,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Mediator adjustment",
+      "objective": "Distinguish mediators from baseline confounders when estimating total effects.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0730",
+      "concept": "research-drugs-730-collider-selection",
+      "reasoning": "synthesis",
+      "difficulty": 5,
+      "difficultyReason": "Integrate two causes of selection and infer how conditioning creates a noncausal association.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Collider selection) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Collider selection: Explain a selection-induced association by conditioning on a collider. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0728",
+          "score": 0.1782,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0168",
+          "score": 0.1074,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0327",
+          "score": 0.0938,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [
+        "Difficulty rubric concern: collider inference integrates causes and selection but does not justify synthesis level 5; hold for a conservatively rated new version."
+      ],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Collider selection",
+      "objective": "Explain a selection-induced association by conditioning on a collider.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0731",
+      "concept": "research-drugs-731-overmatching",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Identify matching that suppresses the exposure contrast the investigation needs.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies is a checked reference identity for this domain. The question is independently authored; its specific inference (Overmatching) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Overmatching: Recognize overmatching that removes the exposure contrast. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0146",
+          "score": 0.2599,
+          "sameObjective": false,
+          "lexical": 0.07692307692307693
+        },
+        {
+          "code": "op26x-0720",
+          "score": 0.1771,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0529",
+          "score": 0.067,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Overmatching",
+      "objective": "Recognize overmatching that removes the exposure contrast.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0732",
+      "concept": "research-drugs-732-restriction-in-study-design",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Identify how limiting eligibility controls one measured characteristic while narrowing generalizability.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies is a checked reference identity for this domain. The question is independently authored; its specific inference (Restriction in study design) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Restriction in study design: Identify restriction and its generalizability tradeoff. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0271",
+          "score": 0.0872,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0149",
+          "score": 0.0867,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0731",
+          "score": 0.08,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Restriction in study design",
+      "objective": "Identify restriction and its generalizability tradeoff.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0733",
+      "concept": "research-drugs-733-stratified-analysis",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Compare crude and stratum-specific estimates to detect a distorted pooled association.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Stratified analysis) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Stratified analysis: Use crude and stratified estimates to assess confounding. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0728",
+          "score": 0.1867,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0148",
+          "score": 0.0902,
+          "sameObjective": false,
+          "lexical": 0.030303030303030304
+        },
+        {
+          "code": "op26x-0732",
+          "score": 0.086,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Stratified analysis",
+      "objective": "Use crude and stratified estimates to assess confounding.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0734",
+      "concept": "research-drugs-734-age-standardization",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Recognize that a reference age distribution separates composition from age-specific risk.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Age standardization) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Age standardization: Use a common age distribution to compare composition-adjusted rates. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0443",
+          "score": 0.1107,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0150",
+          "score": 0.1046,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0584",
+          "score": 0.1009,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Age standardization",
+      "objective": "Use a common age distribution to compare composition-adjusted rates.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0735",
+      "concept": "research-drugs-735-healthy-worker-effect",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Identify baseline selection into employment as distinct from a protective occupational exposure.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies is a checked reference identity for this domain. The question is independently authored; its specific inference (Healthy worker effect) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Healthy worker effect: Recognize healthy worker selection in occupational comparisons. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0457",
+          "score": 0.107,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0107",
+          "score": 0.0953,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0001",
+          "score": 0.0901,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Healthy worker effect",
+      "objective": "Recognize healthy worker selection in occupational comparisons.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0736",
+      "concept": "research-drugs-736-verification-bias",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Trace how reference-standard selection depending on the index result distorts accuracy estimates.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Verification bias) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Verification bias: Identify diagnostic verification depending on the index test result. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "s3-0001",
+          "score": 0.3041,
+          "sameObjective": false,
+          "lexical": 0.015151515151515152
+        },
+        {
+          "code": "op26x-0701",
+          "score": 0.2104,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0141",
+          "score": 0.1898,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Verification bias",
+      "objective": "Identify diagnostic verification depending on the index test result.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0737",
+      "concept": "research-drugs-737-spectrum-effects",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Relate disease severity and alternative diagnoses to test performance across settings.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Spectrum effects) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Spectrum effects: Assess diagnostic test performance in the intended clinical spectrum. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0736",
+          "score": 0.18,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0001",
+          "score": 0.1574,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0146",
+          "score": 0.1152,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Spectrum effects",
+      "objective": "Assess diagnostic test performance in the intended clinical spectrum.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0738",
+      "concept": "research-drugs-738-nondifferential-exposure-error",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "State the usual attenuation tendency while avoiding an absolute law for all errors.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Nondifferential exposure error) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Nondifferential exposure error: Interpret attenuation under stated nondifferential misclassification assumptions. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0713",
+          "score": 0.1398,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0146",
+          "score": 0.1223,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0710",
+          "score": 0.1105,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Nondifferential exposure error",
+      "objective": "Interpret attenuation under stated nondifferential misclassification assumptions.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0739",
+      "concept": "research-drugs-739-bias-versus-precision",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Distinguish a repeatable measurement offset from random sampling uncertainty.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Bias versus precision) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Bias versus precision: Separate systematic measurement bias from statistical precision. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0712",
+          "score": 0.1515,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0711",
+          "score": 0.133,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0449",
+          "score": 0.1177,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Bias versus precision",
+      "objective": "Separate systematic measurement bias from statistical precision.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0740",
+      "concept": "research-drugs-740-post-hoc-power",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Prefer effect precision and clinically relevant intervals over a restatement of nonsignificance.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Post hoc power) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Post hoc power: Interpret an imprecise trial without converting nonsignificance into equivalence. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0148",
+          "score": 0.2138,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0710",
+          "score": 0.1664,
+          "sameObjective": false,
+          "lexical": 0.015625
+        },
+        {
+          "code": "op26x-0729",
+          "score": 0.0906,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Post hoc power",
+      "objective": "Interpret an imprecise trial without converting nonsignificance into equivalence.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0741",
+      "concept": "research-drugs-741-paired-continuous-measurements",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Identify the repeated-person structure before choosing a comparison of mean changes.",
+      "evidenceNote": "NIST Engineering Statistics Handbook: Analysis of Paired Observations is a checked reference identity for this domain. The question is independently authored; its specific inference (Paired continuous measurements) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Paired continuous measurements: Choose a paired analysis for repeated continuous observations. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0718",
+          "score": 0.1747,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0711",
+          "score": 0.1646,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0731",
+          "score": 0.125,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Paired continuous measurements",
+      "objective": "Choose a paired analysis for repeated continuous observations.",
+      "reference": [
+        {
+          "label": "NIST Engineering Statistics Handbook: Analysis of Paired Observations",
+          "url": "https://www.itl.nist.gov/div898/handbook/prc/section3/prc311.htm"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0742",
+      "concept": "research-drugs-742-sparse-categorical-data",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Recognize that very small expected cell counts undermine a large-sample approximation.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Sparse categorical data) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Sparse categorical data: Select an appropriate exact approach for sparse binary outcome tables. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0738",
+          "score": 0.1507,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0707",
+          "score": 0.1051,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0159",
+          "score": 0.0848,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Sparse categorical data",
+      "objective": "Select an appropriate exact approach for sparse binary outcome tables.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0743",
+      "concept": "research-drugs-743-right-censoring",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Distinguish incomplete observed event time from an observed absence of future events.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Right censoring) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Right censoring: Represent incomplete follow-up as right censoring rather than an invented outcome. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0726",
+          "score": 0.1163,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0721",
+          "score": 0.1001,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0150",
+          "score": 0.0958,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Right censoring",
+      "objective": "Represent incomplete follow-up as right censoring rather than an invented outcome.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0744",
+      "concept": "research-drugs-744-hazard-ratio",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Differentiate an instantaneous rate comparison from a fixed-time risk difference.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Hazard ratio) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Hazard ratio: Interpret a hazard ratio without converting it into an absolute risk or lifespan claim. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0147",
+          "score": 0.1639,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0148",
+          "score": 0.1631,
+          "sameObjective": false,
+          "lexical": 0.0851063829787234
+        },
+        {
+          "code": "op26x-0708",
+          "score": 0.1331,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Hazard ratio",
+      "objective": "Interpret a hazard ratio without converting it into an absolute risk or lifespan claim.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0745",
+      "concept": "research-drugs-745-skewed-distributions",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Choose a summary resistant to a small number of extreme high values.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Skewed distributions) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Skewed distributions: Choose a robust central summary for a strongly right-skewed variable. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0725",
+          "score": 0.09,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0741",
+          "score": 0.0793,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0108",
+          "score": 0.0783,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Skewed distributions",
+      "objective": "Choose a robust central summary for a strongly right-skewed variable.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0746",
+      "concept": "research-drugs-746-logarithmic-outcome-scale",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Translate an additive change on a log scale into a multiplicative original-scale effect.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Logarithmic outcome scale) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Logarithmic outcome scale: Interpret exponentiated log-scale coefficients as multiplicative comparisons. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0744",
+          "score": 0.1116,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0713",
+          "score": 0.0921,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0708",
+          "score": 0.0882,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Logarithmic outcome scale",
+      "objective": "Interpret exponentiated log-scale coefficients as multiplicative comparisons.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0747",
+      "concept": "research-drugs-747-independent-event-probabilities",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Multiply probabilities only after using the stated independence assumption.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Independent event probabilities) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Independent event probabilities: Calculate a joint event probability under an explicit independence assumption. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0713",
+          "score": 0.1673,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0121",
+          "score": 0.1404,
+          "sameObjective": false,
+          "lexical": 0.05454545454545454
+        },
+        {
+          "code": "op26x-0721",
+          "score": 0.1354,
+          "sameObjective": false,
+          "lexical": 0.02040816326530612
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Independent event probabilities",
+      "objective": "Calculate a joint event probability under an explicit independence assumption.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0748",
+      "concept": "research-drugs-748-correlation-and-causation",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Identify an alternative shared cause despite a strong and precise association.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Correlation and causation) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Correlation and causation: Avoid a causal claim from a shared seasonal correlation. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0722",
+          "score": 0.1071,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0730",
+          "score": 0.0973,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0168",
+          "score": 0.0925,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Correlation and causation",
+      "objective": "Avoid a causal claim from a shared seasonal correlation.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0749",
+      "concept": "research-drugs-749-regression-to-the-mean",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Recognize selection on an extreme measurement and random fluctuation at follow-up.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Regression to the mean) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Regression to the mean: Recognize regression to the mean after selection on an extreme baseline. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0712",
+          "score": 0.1537,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0449",
+          "score": 0.1418,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0450",
+          "score": 0.1225,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Regression to the mean",
+      "objective": "Recognize regression to the mean after selection on an extreme baseline.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0750",
+      "concept": "research-drugs-750-absolute-versus-relative-subgroup-benefit",
+      "reasoning": "synthesis",
+      "difficulty": 5,
+      "difficultyReason": "Combine equal relative effects with different baseline risks and compare absolute treatment benefits.",
+      "evidenceNote": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data is a checked reference identity for this domain. The question is independently authored; its specific inference (Absolute versus relative subgroup benefit) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Absolute versus relative subgroup benefit: Compare absolute benefits when equal relative effects act on different baseline risks. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0147",
+          "score": 0.2466,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0145",
+          "score": 0.2428,
+          "sameObjective": false,
+          "lexical": 0.016666666666666666
+        },
+        {
+          "code": "s3-0004",
+          "score": 0.2031,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [
+        "Difficulty rubric concern: two absolute-risk calculations do not justify synthesis level 5; hold for a conservatively rated new version."
+      ],
+      "exam": "Step 1",
+      "subject": "Biostatistics",
+      "topic": "Absolute versus relative subgroup benefit",
+      "objective": "Compare absolute benefits when equal relative effects act on different baseline risks.",
+      "reference": [
+        {
+          "label": "CDC Field Epidemiology Manual: Analyzing and Interpreting Data",
+          "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0751",
+      "concept": "research-drugs-751-absolute-oral-bioavailability",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Normalize oral and intravenous exposure by their different administered doses.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Absolute oral bioavailability) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Absolute oral bioavailability: Calculate absolute bioavailability using dose-normalized AUC. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0077",
+          "score": 0.2472,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0750",
+          "score": 0.1215,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0076",
+          "score": 0.119,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Absolute oral bioavailability",
+      "objective": "Calculate absolute bioavailability using dose-normalized AUC.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0752",
+      "concept": "research-drugs-752-first-pass-avoidance",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Identify the route that bypasses portal first-pass delivery rather than changing receptor affinity.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (First-pass avoidance) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets First-pass avoidance: Explain route-dependent availability through avoidance of initial portal metabolism. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0068",
+          "score": 0.141,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0053",
+          "score": 0.1203,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0009",
+          "score": 0.1113,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "First-pass avoidance",
+      "objective": "Explain route-dependent availability through avoidance of initial portal metabolism.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0753",
+      "concept": "research-drugs-753-clearance-from-steady-infusion",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Use a known steady-state input rate and concentration to infer elimination clearance.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Clearance from steady infusion) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Clearance from steady infusion: Infer total clearance from a steady infusion and concentration. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0076",
+          "score": 0.2417,
+          "sameObjective": false,
+          "lexical": 0.03225806451612903
+        },
+        {
+          "code": "op26-0078",
+          "score": 0.2275,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0020",
+          "score": 0.17,
+          "sameObjective": false,
+          "lexical": 0.015873015873015872
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Clearance from steady infusion",
+      "objective": "Infer total clearance from a steady infusion and concentration.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0754",
+      "concept": "research-drugs-754-distribution-volume-interpretation",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Infer tissue partitioning from a volume that exceeds actual body water.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Distribution volume interpretation) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Distribution volume interpretation: Interpret a large apparent distribution volume as extensive extravascular partitioning. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0077",
+          "score": 0.2015,
+          "sameObjective": false,
+          "lexical": 0.037037037037037035
+        },
+        {
+          "code": "op26-0076",
+          "score": 0.1044,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0078",
+          "score": 0.0913,
+          "sameObjective": false,
+          "lexical": 0.015873015873015872
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Distribution volume interpretation",
+      "objective": "Interpret a large apparent distribution volume as extensive extravascular partitioning.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0755",
+      "concept": "research-drugs-755-distribution-and-dialyzability",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Integrate tissue distribution with the limited vascular drug pool available to dialysis.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Distribution and dialyzability) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Distribution and dialyzability: Use distribution volume when assessing potential extracorporeal toxin removal. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0754",
+          "score": 0.1829,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0077",
+          "score": 0.1172,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0189",
+          "score": 0.0918,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Distribution and dialyzability",
+      "objective": "Use distribution volume when assessing potential extracorporeal toxin removal.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0756",
+      "concept": "research-drugs-756-free-versus-total-drug-concentration",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Interpret binding changes before increasing a dose based on a low total concentration.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Free versus total drug concentration) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Free versus total drug concentration: Interpret therapeutic exposure using unbound concentration when protein binding is altered. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0018",
+          "score": 0.1653,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0753",
+          "score": 0.1546,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0076",
+          "score": 0.1255,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Free versus total drug concentration",
+      "objective": "Interpret therapeutic exposure using unbound concentration when protein binding is altered.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0757",
+      "concept": "research-drugs-757-time-to-steady-state",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Separate the time constant from the height of the eventual plateau.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Time to steady state) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Time to steady state: Distinguish dose-dependent plateau concentration from the linear time to steady state. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0753",
+          "score": 0.3809,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0078",
+          "score": 0.293,
+          "sameObjective": false,
+          "lexical": 0.013157894736842105
+        },
+        {
+          "code": "op26x-0751",
+          "score": 0.17,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [
+        "Answer ambiguity: if infusion is doubled from an old steady state, the starting fraction of the new plateau differs; unchanged fractional time requires a specified zero-start or fraction-of-change definition."
+      ],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Time to steady state",
+      "objective": "Distinguish dose-dependent plateau concentration from the linear time to steady state.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0758",
+      "concept": "research-drugs-758-saturable-elimination",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Recognize loss of proportional concentration response when metabolism approaches capacity.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Saturable elimination) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Saturable elimination: Recognize nonlinear accumulation near a saturable metabolic capacity. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0076",
+          "score": 0.1856,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0056",
+          "score": 0.127,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0021",
+          "score": 0.1173,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Saturable elimination",
+      "objective": "Recognize nonlinear accumulation near a saturable metabolic capacity.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0759",
+      "concept": "research-drugs-759-zero-order-elimination",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Identify a constant amount removed per unit time rather than a constant fraction.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Zero-order elimination) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Zero-order elimination: Distinguish constant-amount elimination from a constant half-life. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0076",
+          "score": 0.3542,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0753",
+          "score": 0.235,
+          "sameObjective": false,
+          "lexical": 0.015873015873015872
+        },
+        {
+          "code": "op26x-0149",
+          "score": 0.119,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Zero-order elimination",
+      "objective": "Distinguish constant-amount elimination from a constant half-life.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0760",
+      "concept": "research-drugs-760-weak-acid-ion-trapping",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Apply ionization and membrane permeability to the direction of renal reabsorption.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Weak acid ion trapping) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Weak acid ion trapping: Explain reduced weak-acid reabsorption through urinary ion trapping. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0021",
+          "score": 0.2445,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0031",
+          "score": 0.1457,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0063",
+          "score": 0.128,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Weak acid ion trapping",
+      "objective": "Explain reduced weak-acid reabsorption through urinary ion trapping.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0761",
+      "concept": "research-drugs-761-weak-base-acidic-compartment",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Reverse the weak-acid rule and connect protonation to trapping in an acidic compartment.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Weak base acidic compartment) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Weak base acidic compartment: Predict acidic-compartment trapping of a permeant weak base. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0185",
+          "score": 0.1373,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0103",
+          "score": 0.129,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0180",
+          "score": 0.1262,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Weak base acidic compartment",
+      "objective": "Predict acidic-compartment trapping of a permeant weak base.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0762",
+      "concept": "research-drugs-762-flow-limited-hepatic-clearance",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Identify which variable dominates when extraction is already very high.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Flow-limited hepatic clearance) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Flow-limited hepatic clearance: Recognize blood-flow dependence of high-extraction hepatic clearance. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0068",
+          "score": 0.1325,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0752",
+          "score": 0.1283,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0389",
+          "score": 0.1276,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Flow-limited hepatic clearance",
+      "objective": "Recognize blood-flow dependence of high-extraction hepatic clearance.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0763",
+      "concept": "research-drugs-763-poor-metabolizer-prodrug",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Distinguish impaired activation of a prodrug from reduced elimination of an active parent.",
+      "evidenceNote": "FDA: Examples of Drugs that Interact with CYP Enzymes and Transporter Systems is a checked reference identity for this domain. The question is independently authored; its specific inference (Poor metabolizer prodrug) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Poor metabolizer prodrug: Interpret reduced enzyme activity when metabolism activates a prodrug. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0208",
+          "score": 0.2057,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0243",
+          "score": 0.1328,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0453",
+          "score": 0.1174,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Poor metabolizer prodrug",
+      "objective": "Interpret reduced enzyme activity when metabolism activates a prodrug.",
+      "reference": [
+        {
+          "label": "FDA: Examples of Drugs that Interact with CYP Enzymes and Transporter Systems",
+          "url": "https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0764",
+      "concept": "research-drugs-764-enzyme-induction-time-course",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Relate delayed interaction onset and offset to protein synthesis and enzyme turnover.",
+      "evidenceNote": "FDA: Examples of Drugs that Interact with CYP Enzymes and Transporter Systems is a checked reference identity for this domain. The question is independently authored; its specific inference (Enzyme induction time course) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Enzyme induction time course: Explain delayed induction and deinduction through enzyme turnover. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0146",
+          "score": 0.1077,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0758",
+          "score": 0.09,
+          "sameObjective": false,
+          "lexical": 0.017543859649122806
+        },
+        {
+          "code": "op26x-0334",
+          "score": 0.0809,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Enzyme induction time course",
+      "objective": "Explain delayed induction and deinduction through enzyme turnover.",
+      "reference": [
+        {
+          "label": "FDA: Examples of Drugs that Interact with CYP Enzymes and Transporter Systems",
+          "url": "https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0765",
+      "concept": "research-drugs-765-intestinal-efflux-transport",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Separate a transporter-mediated absorption barrier from hepatic metabolism.",
+      "evidenceNote": "FDA: Examples of Drugs that Interact with CYP Enzymes and Transporter Systems is a checked reference identity for this domain. The question is independently authored; its specific inference (Intestinal efflux transport) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Intestinal efflux transport: Distinguish intestinal efflux inhibition from metabolic inhibition. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0752",
+          "score": 0.1452,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0026",
+          "score": 0.1258,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0036",
+          "score": 0.1041,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Intestinal efflux transport",
+      "objective": "Distinguish intestinal efflux inhibition from metabolic inhibition.",
+      "reference": [
+        {
+          "label": "FDA: Examples of Drugs that Interact with CYP Enzymes and Transporter Systems",
+          "url": "https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0766",
+      "concept": "research-drugs-766-grapefruit-interaction-specificity",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Apply an identified intestinal enzyme interaction without treating all members of a drug class identically.",
+      "evidenceNote": "FDA: Grapefruit Juice and Some Drugs Do Not Mix is a checked reference identity for this domain. The question is independently authored; its specific inference (Grapefruit interaction specificity) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Grapefruit interaction specificity: Identify drug-specific exposure elevation from grapefruit-mediated intestinal CYP3A4 inhibition. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0206",
+          "score": 0.1205,
+          "sameObjective": false,
+          "lexical": 0.023255813953488372
+        },
+        {
+          "code": "op26x-0765",
+          "score": 0.1184,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0249",
+          "score": 0.0873,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Grapefruit interaction specificity",
+      "objective": "Identify drug-specific exposure elevation from grapefruit-mediated intestinal CYP3A4 inhibition.",
+      "reference": [
+        {
+          "label": "FDA: Grapefruit Juice and Some Drugs Do Not Mix",
+          "url": "https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0767",
+      "concept": "research-drugs-767-smoking-related-enzyme-induction",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Distinguish combustion exposure changes from nicotine substitution when assessing an interaction.",
+      "evidenceNote": "FDA: Examples of Drugs that Interact with CYP Enzymes and Transporter Systems is a checked reference identity for this domain. The question is independently authored; its specific inference (Smoking-related enzyme induction) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Smoking-related enzyme induction: Recognize concentration changes after cessation of smoke-related enzyme induction. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0431",
+          "score": 0.1711,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0764",
+          "score": 0.1487,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0756",
+          "score": 0.1348,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Smoking-related enzyme induction",
+      "objective": "Recognize concentration changes after cessation of smoke-related enzyme induction.",
+      "reference": [
+        {
+          "label": "FDA: Examples of Drugs that Interact with CYP Enzymes and Transporter Systems",
+          "url": "https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0768",
+      "concept": "research-drugs-768-enterohepatic-recycling",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Trace biliary secretion, intestinal release and reabsorption as a recycling pathway.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Enterohepatic recycling) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Enterohepatic recycling: Identify enterohepatic recycling as a cause of secondary drug exposure peaks. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0068",
+          "score": 0.1094,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0076",
+          "score": 0.1009,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0091",
+          "score": 0.1006,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Enterohepatic recycling",
+      "objective": "Identify enterohepatic recycling as a cause of secondary drug exposure peaks.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0769",
+      "concept": "research-drugs-769-redistribution-after-bolus",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Separate rapid loss of central effect from complete metabolic elimination.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Redistribution after bolus) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Redistribution after bolus: Distinguish redistribution-limited initial effect from whole-body elimination. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0759",
+          "score": 0.133,
+          "sameObjective": false,
+          "lexical": 0.014925373134328358
+        },
+        {
+          "code": "op26x-0758",
+          "score": 0.0825,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0076",
+          "score": 0.0744,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Redistribution after bolus",
+      "objective": "Distinguish redistribution-limited initial effect from whole-body elimination.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0770",
+      "concept": "research-drugs-770-modified-release-formulation-integrity",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Connect a dosage-form change to release kinetics rather than assuming chemical equivalence is enough.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Modified-release formulation integrity) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Modified-release formulation integrity: Protect modified-release kinetics by checking product-specific administration instructions. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0325",
+          "score": 0.0881,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0742",
+          "score": 0.0694,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0484",
+          "score": 0.0663,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Modified-release formulation integrity",
+      "objective": "Protect modified-release kinetics by checking product-specific administration instructions.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0771",
+      "concept": "research-drugs-771-dosing-interval-and-fluctuation",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Hold average input constant while predicting larger peak-trough differences with less frequent dosing.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Dosing interval and fluctuation) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Dosing interval and fluctuation: Distinguish average drug exposure from dosing-interval peak-trough variation. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0751",
+          "score": 0.1421,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0078",
+          "score": 0.1261,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0077",
+          "score": 0.1088,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Dosing interval and fluctuation",
+      "objective": "Distinguish average drug exposure from dosing-interval peak-trough variation.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0772",
+      "concept": "research-drugs-772-therapeutic-index",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Compare effective and toxic dose ranges rather than confusing potency with safety margin.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Therapeutic index) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Therapeutic index: Interpret a narrow therapeutic index as limited separation of benefit and toxicity. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0756",
+          "score": 0.169,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0767",
+          "score": 0.1201,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0771",
+          "score": 0.0954,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Therapeutic index",
+      "objective": "Interpret a narrow therapeutic index as limited separation of benefit and toxicity.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0773",
+      "concept": "research-drugs-773-irreversible-antagonist",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Infer reduced maximal capacity when receptor inactivation cannot be overcome by added agonist.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Irreversible antagonist) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Irreversible antagonist: Interpret reduced maximal response after irreversible receptor inactivation. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0095",
+          "score": 0.2218,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0036",
+          "score": 0.2172,
+          "sameObjective": false,
+          "lexical": 0.017241379310344827
+        },
+        {
+          "code": "op26x-0758",
+          "score": 0.1062,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Irreversible antagonist",
+      "objective": "Interpret reduced maximal response after irreversible receptor inactivation.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0774",
+      "concept": "research-drugs-774-potency-versus-efficacy",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Compare horizontal dose-response displacement separately from the maximal effect.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Potency versus efficacy) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Potency versus efficacy: Distinguish EC50-defined potency from maximal efficacy. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0773",
+          "score": 0.2335,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0095",
+          "score": 0.2015,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0036",
+          "score": 0.1814,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Potency versus efficacy",
+      "objective": "Distinguish EC50-defined potency from maximal efficacy.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0775",
+      "concept": "research-drugs-775-spare-receptors",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Recognize maximal signaling despite incomplete receptor occupancy.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Spare receptors) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Spare receptors: Explain maximal effect at partial receptor occupancy through receptor reserve. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0095",
+          "score": 0.2995,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0773",
+          "score": 0.2652,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0774",
+          "score": 0.1463,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Spare receptors",
+      "objective": "Explain maximal effect at partial receptor occupancy through receptor reserve.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0776",
+      "concept": "research-drugs-776-inverse-agonism",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Compare baseline constitutive activity with the effects of two receptor-binding ligands.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Inverse agonism) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Inverse agonism: Distinguish inverse agonism from neutral receptor antagonism. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0773",
+          "score": 0.1917,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0095",
+          "score": 0.1831,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0151",
+          "score": 0.1556,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Inverse agonism",
+      "objective": "Distinguish inverse agonism from neutral receptor antagonism.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0777",
+      "concept": "research-drugs-777-physiologic-antagonism",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Recognize opposite effects mediated through different receptors rather than competitive binding.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Physiologic antagonism) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Physiologic antagonism: Recognize opposing tissue responses mediated through different receptor systems. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0775",
+          "score": 0.1674,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0776",
+          "score": 0.1609,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0773",
+          "score": 0.1333,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Physiologic antagonism",
+      "objective": "Recognize opposing tissue responses mediated through different receptor systems.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0778",
+      "concept": "research-drugs-778-chemical-antagonism",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Identify direct binding neutralization as distinct from receptor competition or enzyme induction.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Chemical antagonism) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Chemical antagonism: Identify direct drug-antidote complex formation as chemical antagonism. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0225",
+          "score": 0.1625,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0086",
+          "score": 0.1355,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0215",
+          "score": 0.1283,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Chemical antagonism",
+      "objective": "Identify direct drug-antidote complex formation as chemical antagonism.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0779",
+      "concept": "research-drugs-779-receptor-desensitization",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Connect a declining response at unchanged concentration to altered signaling rather than changed clearance.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Receptor desensitization) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Receptor desensitization: Distinguish receptor adaptation from falling drug exposure. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0016",
+          "score": 0.2338,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0067",
+          "score": 0.2148,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0773",
+          "score": 0.1746,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Receptor desensitization",
+      "objective": "Distinguish receptor adaptation from falling drug exposure.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0780",
+      "concept": "research-drugs-780-drug-concentration-sampling-time",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Account for a post-dose distribution phase before interpreting an apparent toxic result.",
+      "evidenceNote": "Merck Manual Professional: Overview of Pharmacokinetics is a checked reference identity for this domain. The question is independently authored; its specific inference (Drug concentration sampling time) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Drug concentration sampling time: Interpret drug monitoring results using the intended sampling time. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0384",
+          "score": 0.1677,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0077",
+          "score": 0.1441,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0488",
+          "score": 0.1358,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Drug concentration sampling time",
+      "objective": "Interpret drug monitoring results using the intended sampling time.",
+      "reference": [
+        {
+          "label": "Merck Manual Professional: Overview of Pharmacokinetics",
+          "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0781",
+      "concept": "research-drugs-781-hmg-coa-reductase-inhibition",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Link a hepatic synthesis block to compensatory receptor-mediated clearance of circulating LDL.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (HMG-CoA reductase inhibition) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets HMG-CoA reductase inhibition: Explain statin LDL lowering through compensatory hepatic LDL receptor upregulation. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0067",
+          "score": 0.2495,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0005",
+          "score": 0.1924,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0068",
+          "score": 0.1222,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [
+        "Difficulty rubric concern: the stem supplies receptor upregulation and asks the resulting uptake, likely recognition/application rather than integration."
+      ],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "HMG-CoA reductase inhibition",
+      "objective": "Explain statin LDL lowering through compensatory hepatic LDL receptor upregulation.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0782",
+      "concept": "research-drugs-782-pcsk9-and-ldl-receptors",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Trace preservation of receptor recycling rather than inhibition of cholesterol synthesis.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (PCSK9 and LDL receptors) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets PCSK9 and LDL receptors: Distinguish PCSK9 blockade from other lipid-lowering targets. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0781",
+          "score": 0.4083,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0067",
+          "score": 0.2241,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0005",
+          "score": 0.1265,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "PCSK9 and LDL receptors",
+      "objective": "Distinguish PCSK9 blockade from other lipid-lowering targets.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0783",
+      "concept": "research-drugs-783-intestinal-cholesterol-uptake",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Identify a luminal uptake target rather than the hepatic synthesis enzyme.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Intestinal cholesterol uptake) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Intestinal cholesterol uptake: Identify ezetimibe as an inhibitor of intestinal NPC1L1-mediated cholesterol uptake. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0781",
+          "score": 0.2228,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0782",
+          "score": 0.1448,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0249",
+          "score": 0.1284,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Intestinal cholesterol uptake",
+      "objective": "Identify ezetimibe as an inhibitor of intestinal NPC1L1-mediated cholesterol uptake.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0784",
+      "concept": "research-drugs-784-bile-acid-binding",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Connect interrupted recycling with hepatic use of cholesterol to replace bile acids.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Bile acid binding) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Bile acid binding: Explain LDL lowering after interruption of bile acid recycling. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0781",
+          "score": 0.3297,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0782",
+          "score": 0.3116,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0783",
+          "score": 0.2138,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Bile acid binding",
+      "objective": "Explain LDL lowering after interruption of bile acid recycling.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0785",
+      "concept": "research-drugs-785-xanthine-oxidase-drug-interaction",
+      "reasoning": "prioritization",
+      "difficulty": 4,
+      "difficultyReason": "Recognize impaired inactivation of a thiopurine when a second drug blocks its metabolic route.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Xanthine oxidase drug interaction) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Xanthine oxidase drug interaction: Recognize the clinically important allopurinol-thiopurine interaction. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0206",
+          "score": 0.1043,
+          "sameObjective": false,
+          "lexical": 0.02127659574468085
+        },
+        {
+          "code": "op26x-0157",
+          "score": 0.0943,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0763",
+          "score": 0.0869,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [
+        "Difficulty rubric concern: a stated inactivation block leading to toxicity likely requires application/integration rather than prioritization level 4."
+      ],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Xanthine oxidase drug interaction",
+      "objective": "Recognize the clinically important allopurinol-thiopurine interaction.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0786",
+      "concept": "research-drugs-786-methotrexate-and-folate-metabolism",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Link inhibited folate regeneration to nucleotide synthesis rather than mitochondrial energy production.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Methotrexate and folate metabolism) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Methotrexate and folate metabolism: Connect DHFR inhibition to reduced folate-dependent nucleotide synthesis. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0221",
+          "score": 0.2903,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0261",
+          "score": 0.1414,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0047",
+          "score": 0.141,
+          "sameObjective": false,
+          "lexical": 0.02127659574468085
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Methotrexate and folate metabolism",
+      "objective": "Connect DHFR inhibition to reduced folate-dependent nucleotide synthesis.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0787",
+      "concept": "research-drugs-787-leucovorin-rescue",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Distinguish bypassing a blocked activation step from simply adding its precursor.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Leucovorin rescue) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Leucovorin rescue: Explain reduced-folate rescue as bypass of a DHFR-dependent bottleneck. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0786",
+          "score": 0.2756,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0221",
+          "score": 0.157,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0220",
+          "score": 0.1456,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Leucovorin rescue",
+      "objective": "Explain reduced-folate rescue as bypass of a DHFR-dependent bottleneck.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0788",
+      "concept": "research-drugs-788-calcineurin-inhibition",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Link a drug target to T-cell transcription rather than DNA synthesis alone.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Calcineurin inhibition) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Calcineurin inhibition: Identify reduced NFAT/IL-2 signaling after calcineurin inhibition. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0786",
+          "score": 0.0967,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0054",
+          "score": 0.0935,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0094",
+          "score": 0.0925,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Calcineurin inhibition",
+      "objective": "Identify reduced NFAT/IL-2 signaling after calcineurin inhibition.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0789",
+      "concept": "research-drugs-789-mtor-inhibition",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Differentiate suppression of cytokine-response signaling from suppression of cytokine transcription.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (mTOR inhibition) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets mTOR inhibition: Distinguish mTOR-dependent growth signaling from calcineurin-dependent cytokine transcription. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0788",
+          "score": 0.4289,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0027",
+          "score": 0.1419,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0122",
+          "score": 0.1089,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "mTOR inhibition",
+      "objective": "Distinguish mTOR-dependent growth signaling from calcineurin-dependent cytokine transcription.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0790",
+      "concept": "research-drugs-790-p2y12-inhibition",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Identify an ADP-linked platelet pathway rather than the coagulation cascade.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (P2Y12 inhibition) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets P2Y12 inhibition: Locate P2Y12 drug action at platelet ADP signaling. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0190",
+          "score": 0.1549,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0788",
+          "score": 0.1327,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0789",
+          "score": 0.1159,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "P2Y12 inhibition",
+      "objective": "Locate P2Y12 drug action at platelet ADP signaling.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0791",
+      "concept": "research-drugs-791-proton-pump-inhibition",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Locate the final acid secretory step rather than an upstream histamine receptor.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Proton pump inhibition) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Proton pump inhibition: Identify the final secretory pump targeted by proton pump inhibitors. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0030",
+          "score": 0.2423,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0038",
+          "score": 0.2187,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0384",
+          "score": 0.1407,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Proton pump inhibition",
+      "objective": "Identify the final secretory pump targeted by proton pump inhibitors.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0792",
+      "concept": "research-drugs-792-h2-receptor-antagonism",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Separate receptor-level reduction of a secretory stimulus from direct acid neutralization.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (H2 receptor antagonism) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets H2 receptor antagonism: Explain receptor-level acid suppression through H2 signaling blockade. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0791",
+          "score": 0.2184,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0038",
+          "score": 0.1976,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0777",
+          "score": 0.1789,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "H2 receptor antagonism",
+      "objective": "Explain receptor-level acid suppression through H2 signaling blockade.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0793",
+      "concept": "research-drugs-793-osmotic-laxative-action",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Identify luminal water retention rather than a systemic endocrine mechanism.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Osmotic laxative action) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Osmotic laxative action: Explain luminal water retention by an osmotic laxative. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0036",
+          "score": 0.1845,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0026",
+          "score": 0.1159,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0765",
+          "score": 0.1034,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Osmotic laxative action",
+      "objective": "Explain luminal water retention by an osmotic laxative.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0794",
+      "concept": "research-drugs-794-sglt2-inhibition",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Trace reduced proximal glucose reclamation to a filtered-substrate-dependent urinary effect.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (SGLT2 inhibition) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets SGLT2 inhibition: Identify glucosuria from pharmacologic inhibition of proximal SGLT2. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0021",
+          "score": 0.3366,
+          "sameObjective": false,
+          "lexical": 0.019230769230769232
+        },
+        {
+          "code": "op26-0080",
+          "score": 0.196,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0160",
+          "score": 0.1489,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "SGLT2 inhibition",
+      "objective": "Identify glucosuria from pharmacologic inhibition of proximal SGLT2.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0795",
+      "concept": "research-drugs-795-dpp-4-inhibition",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Relate reduced hormone breakdown to glucose-dependent rather than unrestricted insulin secretion.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (DPP-4 inhibition) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets DPP-4 inhibition: Explain DPP-4 inhibition as preservation of endogenous incretin action. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0091",
+          "score": 0.1815,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0025",
+          "score": 0.166,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0794",
+          "score": 0.1145,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "DPP-4 inhibition",
+      "objective": "Explain DPP-4 inhibition as preservation of endogenous incretin action.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0796",
+      "concept": "research-drugs-796-alpha-glucosidase-inhibition",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Locate slowed carbohydrate digestion before absorption rather than renal glucose loss.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Alpha-glucosidase inhibition) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Alpha-glucosidase inhibition: Connect delayed carbohydrate digestion to postprandial glucose control and fermentation. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0036",
+          "score": 0.1984,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0091",
+          "score": 0.1515,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0023",
+          "score": 0.137,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Alpha-glucosidase inhibition",
+      "objective": "Connect delayed carbohydrate digestion to postprandial glucose control and fermentation.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0797",
+      "concept": "research-drugs-797-microtubule-targeting-gout-therapy",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Connect altered cytoskeletal function to neutrophil inflammatory activity.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Microtubule-targeting gout therapy) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Microtubule-targeting gout therapy: Distinguish colchicine microtubule effects from urate-lowering mechanisms. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26x-0462",
+          "score": 0.2163,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0244",
+          "score": 0.2044,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0231",
+          "score": 0.1772,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Microtubule-targeting gout therapy",
+      "objective": "Distinguish colchicine microtubule effects from urate-lowering mechanisms.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0798",
+      "concept": "research-drugs-798-mineralocorticoid-receptor-blockade",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Predict potassium retention by blocking a distal sodium-retaining hormone signal.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Mineralocorticoid receptor blockade) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Mineralocorticoid receptor blockade: Predict potassium retention from mineralocorticoid receptor antagonism. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0027",
+          "score": 0.2295,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0087",
+          "score": 0.163,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0008",
+          "score": 0.157,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Mineralocorticoid receptor blockade",
+      "objective": "Predict potassium retention from mineralocorticoid receptor antagonism.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0799",
+      "concept": "research-drugs-799-carbonic-anhydrase-inhibition",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Link proximal bicarbonate reclamation failure to urinary and systemic acid-base effects.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Carbonic anhydrase inhibition) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Carbonic anhydrase inhibition: Explain bicarbonaturia and acidosis after proximal carbonic anhydrase inhibition. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0035",
+          "score": 0.1509,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0794",
+          "score": 0.1374,
+          "sameObjective": false,
+          "lexical": 0.02702702702702703
+        },
+        {
+          "code": "op26-0021",
+          "score": 0.1183,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Carbonic anhydrase inhibition",
+      "objective": "Explain bicarbonaturia and acidosis after proximal carbonic anhydrase inhibition.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0800",
+      "concept": "research-drugs-800-direct-oral-factor-xa-inhibition",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Identify a coagulation target that does not require antithrombin or vitamin K antagonism.",
+      "evidenceNote": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics is a checked reference identity for this domain. The question is independently authored; its specific inference (Direct oral factor Xa inhibition) and distractors remain medically/editorially unreviewed.",
+      "semanticReviewNote": "Compared against the prior 200-item topic/objective inventory. This question targets Direct oral factor Xa inhibition: Distinguish direct factor Xa inhibition from indirect anticoagulant mechanisms. It is not a change of age or wording to an earlier calculation/key.",
+      "candidates": [
+        {
+          "code": "op26-0084",
+          "score": 0.2975,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0085",
+          "score": 0.1435,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0778",
+          "score": 0.1411,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [
+        "Difficulty rubric concern: naming a direct Xa inhibitor supplies the target; recognition rather than integration is more defensible."
+      ],
+      "exam": "Step 1",
+      "subject": "Pharmacology",
+      "topic": "Direct oral factor Xa inhibition",
+      "objective": "Distinguish direct factor Xa inhibition from indirect anticoagulant mechanisms.",
+      "reference": [
+        {
+          "label": "Open RN Nursing Pharmacology: Pharmacokinetics and Pharmacodynamics",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595000/"
+        }
+      ]
+    }
+  ]
+}

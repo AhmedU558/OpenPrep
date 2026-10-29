@@ -1,0 +1,173 @@
+{
+  "batch": 2,
+  "at": "2026-10-29T13:08:53.484Z",
+  "digest": "6af02238bd9e7b520cb0f612f3b1ef5e980f48b097d26f9ef58ec5d3f15794f4",
+  "before": 232,
+  "after": 232,
+  "imported": 0,
+  "skipped": 25,
+  "rejected": 0,
+  "quarantined": 0,
+  "errors": [],
+  "coverage": [
+    {
+      "code": "op26-0026",
+      "subject": "Physiology",
+      "topic": "Antidiuretic hormone",
+      "objective": "Explain ADH-dependent water permeability through apical aquaporin-2."
+    },
+    {
+      "code": "op26-0027",
+      "subject": "Physiology",
+      "topic": "Potassium secretion",
+      "objective": "Locate aldosterone-driven potassium secretion in principal cells."
+    },
+    {
+      "code": "op26-0028",
+      "subject": "Physiology",
+      "topic": "Ventilation-perfusion mismatch",
+      "objective": "Distinguish embolic dead space from an intrapulmonary shunt."
+    },
+    {
+      "code": "op26-0029",
+      "subject": "Physiology",
+      "topic": "Starling forces",
+      "objective": "Explain hypoalbuminemic edema through reduced plasma oncotic pressure."
+    },
+    {
+      "code": "op26-0030",
+      "subject": "Physiology",
+      "topic": "Fick principle",
+      "objective": "Calculate cardiac output from oxygen consumption and content difference."
+    },
+    {
+      "code": "op26-0031",
+      "subject": "Physiology",
+      "topic": "Parathyroid hormone",
+      "objective": "Pair PTH-mediated calcium conservation with renal phosphate wasting."
+    },
+    {
+      "code": "op26-0032",
+      "subject": "Physiology",
+      "topic": "Bile salt recycling",
+      "objective": "Relate extensive terminal ileal loss to bile salt depletion and steatorrhea."
+    },
+    {
+      "code": "op26-0033",
+      "subject": "Physiology",
+      "topic": "Neuromuscular transmission",
+      "objective": "Predict the effect of presynaptic vesicle fusion failure on end-plate potentials."
+    },
+    {
+      "code": "op26-0034",
+      "subject": "Physiology",
+      "topic": "Skeletal muscle contraction",
+      "objective": "Distinguish troponin-dependent skeletal muscle activation from smooth muscle regulation."
+    },
+    {
+      "code": "op26-0035",
+      "subject": "Physiology",
+      "topic": "Acid-base compensation",
+      "objective": "Calculate the anion gap and expected compensation in bicarbonate loss."
+    },
+    {
+      "code": "op26-0036",
+      "subject": "Biochemistry",
+      "topic": "Competitive inhibition",
+      "objective": "Interpret increased apparent Km with unchanged Vmax as competitive inhibition."
+    },
+    {
+      "code": "op26-0037",
+      "subject": "Biochemistry",
+      "topic": "Mitochondrial uncoupling",
+      "objective": "Separate uncoupling from electron-transport inhibition using oxygen use and ATP yield."
+    },
+    {
+      "code": "op26-0038",
+      "subject": "Biochemistry",
+      "topic": "Cyanide and electron transport",
+      "objective": "Link complex IV blockade to impaired oxygen utilization and lactate production."
+    },
+    {
+      "code": "op26-0039",
+      "subject": "Biochemistry",
+      "topic": "Pentose phosphate pathway",
+      "objective": "Identify the pentose phosphate pathway as the erythrocyte NADPH source."
+    },
+    {
+      "code": "op26-0040",
+      "subject": "Biochemistry",
+      "topic": "Pyruvate dehydrogenase cofactors",
+      "objective": "Connect thiamine deficiency to impaired oxidative decarboxylation and lactate elevation."
+    },
+    {
+      "code": "op26-0041",
+      "subject": "Biochemistry",
+      "topic": "Fructose metabolism",
+      "objective": "Explain fructose-triggered hypoglycemia through aldolase B deficiency."
+    },
+    {
+      "code": "op26-0042",
+      "subject": "Biochemistry",
+      "topic": "Galactose metabolism",
+      "objective": "Identify the blocked enzyme when galactose-1-phosphate accumulates after milk exposure."
+    },
+    {
+      "code": "op26-0043",
+      "subject": "Biochemistry",
+      "topic": "Urea cycle",
+      "objective": "Use orotic acid to distinguish proximal urea-cycle defects."
+    },
+    {
+      "code": "op26-0044",
+      "subject": "Biochemistry",
+      "topic": "Phenylalanine metabolism",
+      "objective": "Recognize tyrosine as conditionally essential in phenylalanine hydroxylase deficiency."
+    },
+    {
+      "code": "op26-0045",
+      "subject": "Biochemistry",
+      "topic": "Collagen hydroxylation",
+      "objective": "Distinguish vitamin C-dependent collagen hydroxylation from later cross-linking."
+    },
+    {
+      "code": "op26-0046",
+      "subject": "Biochemistry",
+      "topic": "Heme synthesis",
+      "objective": "Identify the heme synthesis targets of lead toxicity."
+    },
+    {
+      "code": "op26-0047",
+      "subject": "Biochemistry",
+      "topic": "Purine salvage",
+      "objective": "Connect HGPRT deficiency to defective purine salvage and urate excess."
+    },
+    {
+      "code": "op26-0048",
+      "subject": "Biochemistry",
+      "topic": "Lysosomal targeting",
+      "objective": "Explain extracellular lysosomal enzymes through failure of mannose-6-phosphate targeting."
+    },
+    {
+      "code": "op26-0049",
+      "subject": "Biochemistry",
+      "topic": "DNA repair",
+      "objective": "Identify nucleotide excision repair as the pathway for bulky UV DNA lesions."
+    },
+    {
+      "code": "op26-0050",
+      "subject": "Biochemistry",
+      "topic": "Fatty acid entry into mitochondria",
+      "objective": "Describe carnitine-dependent transport for long-chain fatty acid oxidation."
+    }
+  ],
+  "persisted": 25,
+  "practiceAvailable": 25,
+  "firstImport": {
+    "at": "2026-10-29T12:35:02.412Z",
+    "before": 57,
+    "after": 82,
+    "imported": 25,
+    "digest": "6af02238bd9e7b520cb0f612f3b1ef5e980f48b097d26f9ef58ec5d3f15794f4"
+  }
+}

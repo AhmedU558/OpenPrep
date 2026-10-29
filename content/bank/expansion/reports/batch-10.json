@@ -1,0 +1,4131 @@
+{
+  "batch": 10,
+  "at": "2026-10-29T17:48:00.719Z",
+  "digest": "c26ee63f01a4fd7f8d12ec423c38ea95877c84a07bd68034f76bc3800fa335e7",
+  "generated": 100,
+  "eligible": 98,
+  "rejected": 0,
+  "quarantined": 2,
+  "imported": 0,
+  "skipped": 98,
+  "available": 98,
+  "persisted": 98,
+  "stored": 98,
+  "storedReview": 0,
+  "before": 1028,
+  "after": 1028,
+  "mismatches": [],
+  "firstImport": {
+    "at": "2026-10-29T17:36:02.086Z",
+    "before": 832,
+    "after": 930,
+    "imported": 98,
+    "digest": "c26ee63f01a4fd7f8d12ec423c38ea95877c84a07bd68034f76bc3800fa335e7"
+  },
+  "items": [
+    {
+      "code": "op26x-0101",
+      "concept": "tap-peptide-transport",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify TAP-dependent ER entry as a distinct class I processing step.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: generic class I antigen presentation. Distinct objective: Identify TAP-dependent ER entry as a distinct class I processing step.",
+      "candidates": [
+        {
+          "code": "op26-0120",
+          "score": 0.1394,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0271",
+          "score": 0.1098,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0119",
+          "score": 0.1036,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "TAP peptide transport",
+      "objective": "Identify TAP-dependent ER entry as a distinct class I processing step.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0102",
+      "concept": "invariant-chain-groove-protection",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain invariant-chain prevention of premature class II peptide loading.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: generic antigen presentation. Distinct objective: Explain invariant-chain prevention of premature class II peptide loading.",
+      "candidates": [
+        {
+          "code": "op26x-0101",
+          "score": 0.1657,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0120",
+          "score": 0.1263,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0071",
+          "score": 0.0835,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Invariant chain groove protection",
+      "objective": "Explain invariant-chain prevention of premature class II peptide loading.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0103",
+      "concept": "hla-dm-peptide-exchange",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify HLA-DM-mediated CLIP exchange in class II processing.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: class II cellular distribution. Distinct objective: Identify HLA-DM-mediated CLIP exchange in class II processing.",
+      "candidates": [
+        {
+          "code": "op26x-0101",
+          "score": 0.1374,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0761",
+          "score": 0.129,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0068",
+          "score": 0.1057,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "HLA-DM peptide exchange",
+      "objective": "Identify HLA-DM-mediated CLIP exchange in class II processing.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0104",
+      "concept": "dendritic-cross-presentation",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Integrate extracellular antigen uptake with class I-dependent CD8 priming.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: class I versus class II recognition. Distinct objective: Integrate extracellular antigen uptake with class I-dependent CD8 priming.",
+      "candidates": [
+        {
+          "code": "op26-0120",
+          "score": 0.1785,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0119",
+          "score": 0.1041,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0655",
+          "score": 0.1019,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Dendritic cross-presentation",
+      "objective": "Integrate extracellular antigen uptake with class I-dependent CD8 priming.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0105",
+      "concept": "cd28-costimulatory-requirement",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify B7-CD28 as a major naive T-cell costimulatory interaction.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: antigen presentation alone. Distinct objective: Identify B7-CD28 as a major naive T-cell costimulatory interaction.",
+      "candidates": [
+        {
+          "code": "op26x-0104",
+          "score": 0.1393,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0120",
+          "score": 0.139,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0103",
+          "score": 0.1171,
+          "sameObjective": false,
+          "lexical": 0.04878048780487805
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "CD28 costimulatory requirement",
+      "objective": "Identify B7-CD28 as a major naive T-cell costimulatory interaction.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0106",
+      "concept": "ctla-4-activation-restraint",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Distinguish CTLA-4 restraint from CD28 costimulation.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: T-cell activation requirement. Distinct objective: Distinguish CTLA-4 restraint from CD28 costimulation.",
+      "candidates": [
+        {
+          "code": "op26x-0105",
+          "score": 0.1541,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0779",
+          "score": 0.0843,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0781",
+          "score": 0.0812,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "CTLA-4 activation restraint",
+      "objective": "Distinguish CTLA-4 restraint from CD28 costimulation.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0107",
+      "concept": "thymic-positive-selection",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain loss of thymocytes that cannot recognize self-MHC during positive selection.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: thymic developmental absence. Distinct objective: Explain loss of thymocytes that cannot recognize self-MHC during positive selection.",
+      "candidates": [
+        {
+          "code": "op26-0120",
+          "score": 0.1234,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0749",
+          "score": 0.1039,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0735",
+          "score": 0.0953,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Thymic positive selection",
+      "objective": "Explain loss of thymocytes that cannot recognize self-MHC during positive selection.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0108",
+      "concept": "aire-tissue-antigen-display",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Connect AIRE-dependent tissue antigen display to central T-cell tolerance.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: thymic development. Distinct objective: Connect AIRE-dependent tissue antigen display to central T-cell tolerance.",
+      "candidates": [
+        {
+          "code": "op26-0118",
+          "score": 0.1459,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0026",
+          "score": 0.1307,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0285",
+          "score": 0.1104,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "AIRE tissue antigen display",
+      "objective": "Connect AIRE-dependent tissue antigen display to central T-cell tolerance.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0109",
+      "concept": "b-cell-receptor-editing",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain light-chain receptor editing as a central B-cell tolerance mechanism.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: CD40-dependent class switching. Distinct objective: Explain light-chain receptor editing as a central B-cell tolerance mechanism.",
+      "candidates": [
+        {
+          "code": "op26x-0108",
+          "score": 0.2463,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0007",
+          "score": 0.1193,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0011",
+          "score": 0.0958,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "B-cell receptor editing",
+      "objective": "Explain light-chain receptor editing as a central B-cell tolerance mechanism.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0110",
+      "concept": "follicular-affinity-maturation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Separate variable-region affinity maturation from constant-region class switching.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: class switching defect. Distinct objective: Separate variable-region affinity maturation from constant-region class switching.",
+      "candidates": [
+        {
+          "code": "op26x-0274",
+          "score": 0.1319,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0107",
+          "score": 0.111,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0025",
+          "score": 0.0989,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Follicular affinity maturation",
+      "objective": "Separate variable-region affinity maturation from constant-region class switching.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0111",
+      "concept": "primary-versus-secondary-igg-response",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Integrate response speed and antibody affinity as evidence of B-cell memory.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: class switching. Distinct objective: Integrate response speed and antibody affinity as evidence of B-cell memory.",
+      "candidates": [
+        {
+          "code": "op26x-0110",
+          "score": 0.1591,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0655",
+          "score": 0.1582,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0104",
+          "score": 0.101,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Primary versus secondary IgG response",
+      "objective": "Integrate response speed and antibody affinity as evidence of B-cell memory.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0112",
+      "concept": "secretory-iga-epithelial-transport",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify polymeric immunoglobulin receptor transport of secretory IgA.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: immunoglobulin class switching. Distinct objective: Identify polymeric immunoglobulin receptor transport of secretory IgA.",
+      "candidates": [
+        {
+          "code": "op26x-0026",
+          "score": 0.1641,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0063",
+          "score": 0.1192,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0119",
+          "score": 0.0992,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Secretory IgA epithelial transport",
+      "objective": "Identify polymeric immunoglobulin receptor transport of secretory IgA.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0113",
+      "concept": "placental-igg-fcrn-transport",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly cued biological process: Identify IgG as the major placentally transferred antibody class.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: mucosal IgA transport. Distinct objective: Identify IgG as the major placentally transferred antibody class.",
+      "candidates": [
+        {
+          "code": "op26x-0655",
+          "score": 0.2408,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0119",
+          "score": 0.1313,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0112",
+          "score": 0.1165,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Placental IgG FcRn transport",
+      "objective": "Identify IgG as the major placentally transferred antibody class.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0114",
+      "concept": "classical-complement-initiation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify C1q as the recognition component of antibody-initiated complement.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: terminal complement deficiency. Distinct objective: Identify C1q as the recognition component of antibody-initiated complement.",
+      "candidates": [
+        {
+          "code": "op26-0113",
+          "score": 0.1205,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0107",
+          "score": 0.1064,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0111",
+          "score": 0.1063,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Classical complement initiation",
+      "objective": "Identify C1q as the recognition component of antibody-initiated complement.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0115",
+      "concept": "c3b-opsonization-function",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Distinguish surface C3b opsonization from soluble complement inflammatory fragments.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: terminal complement deficiency. Distinct objective: Distinguish surface C3b opsonization from soluble complement inflammatory fragments.",
+      "candidates": [
+        {
+          "code": "op26x-0114",
+          "score": 0.1227,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0067",
+          "score": 0.1143,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0115",
+          "score": 0.1022,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "C3b opsonization function",
+      "objective": "Distinguish surface C3b opsonization from soluble complement inflammatory fragments.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0116",
+      "concept": "c5a-chemotactic-gradient",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify C5a as a potent complement-derived neutrophil chemoattractant.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: C3b opsonization. Distinct objective: Identify C5a as a potent complement-derived neutrophil chemoattractant.",
+      "candidates": [
+        {
+          "code": "op26x-0115",
+          "score": 0.1926,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0115",
+          "score": 0.1132,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0114",
+          "score": 0.1014,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "C5a chemotactic gradient",
+      "objective": "Identify C5a as a potent complement-derived neutrophil chemoattractant.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0117",
+      "concept": "daf-host-convertase-restraint",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify CD55-mediated acceleration of complement convertase decay.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: terminal complement deficiency. Distinct objective: Identify CD55-mediated acceleration of complement convertase decay.",
+      "candidates": [
+        {
+          "code": "op26x-0114",
+          "score": 0.1034,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0115",
+          "score": 0.0948,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0102",
+          "score": 0.0938,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "DAF host convertase restraint",
+      "objective": "Identify CD55-mediated acceleration of complement convertase decay.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0118",
+      "concept": "nk-missing-self-recognition",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain NK surveillance of cells with reduced self class I display.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: CD8 antigen recognition. Distinct objective: Explain NK surveillance of cells with reduced self class I display.",
+      "candidates": [
+        {
+          "code": "op26x-0108",
+          "score": 0.2047,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0104",
+          "score": 0.1419,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0101",
+          "score": 0.1364,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "NK missing self recognition",
+      "objective": "Explain NK surveillance of cells with reduced self class I display.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0119",
+      "concept": "adcc-fc-receptor-recognition",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify CD16-mediated NK recognition during antibody-dependent cytotoxicity.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: NK missing-self surveillance. Distinct objective: Identify CD16-mediated NK recognition during antibody-dependent cytotoxicity.",
+      "candidates": [
+        {
+          "code": "op26x-0113",
+          "score": 0.1504,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0114",
+          "score": 0.1479,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0112",
+          "score": 0.1325,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "ADCC Fc receptor recognition",
+      "objective": "Identify CD16-mediated NK recognition during antibody-dependent cytotoxicity.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0120",
+      "concept": "perforin-granzyme-killing",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Distinguish granzyme apoptotic signaling from noncytotoxic enzyme functions.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: generic apoptosis recognition. Distinct objective: Distinguish granzyme apoptotic signaling from noncytotoxic enzyme functions.",
+      "candidates": [
+        {
+          "code": "op26x-0119",
+          "score": 0.1039,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0118",
+          "score": 0.1012,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0074",
+          "score": 0.0938,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Perforin granzyme killing",
+      "objective": "Distinguish granzyme apoptotic signaling from noncytotoxic enzyme functions.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0121",
+      "concept": "fas-activation-induced-death",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify Fas-mediated initiation of extrinsic lymphocyte apoptosis.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: growth-factor withdrawal intrinsic apoptosis. Distinct objective: Identify Fas-mediated initiation of extrinsic lymphocyte apoptosis.",
+      "candidates": [
+        {
+          "code": "op26-0053",
+          "score": 0.1397,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0120",
+          "score": 0.1154,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0266",
+          "score": 0.1049,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Fas activation-induced death",
+      "objective": "Identify Fas-mediated initiation of extrinsic lymphocyte apoptosis.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0122",
+      "concept": "il-2-autocrine-expansion",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain the IL-2 growth loop following productive T-cell activation.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: CD28 costimulation. Distinct objective: Explain the IL-2 growth loop following productive T-cell activation.",
+      "candidates": [
+        {
+          "code": "op26x-0027",
+          "score": 0.1379,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0106",
+          "score": 0.113,
+          "sameObjective": false,
+          "lexical": 0.022727272727272728
+        },
+        {
+          "code": "op26x-0390",
+          "score": 0.1125,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "IL-2 autocrine expansion",
+      "objective": "Explain the IL-2 growth loop following productive T-cell activation.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0123",
+      "concept": "il-12-th1-polarization",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify IL-12 as an upstream driver of Th1 polarization.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: interferon-gamma granuloma maintenance. Distinct objective: Identify IL-12 as an upstream driver of Th1 polarization.",
+      "candidates": [
+        {
+          "code": "op26x-0122",
+          "score": 0.1701,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0105",
+          "score": 0.1677,
+          "sameObjective": false,
+          "lexical": 0.04878048780487805
+        },
+        {
+          "code": "op26-0054",
+          "score": 0.167,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "IL-12 Th1 polarization",
+      "objective": "Identify IL-12 as an upstream driver of Th1 polarization.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0124",
+      "concept": "il-4-th2-polarization",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Connect IL-4 exposure with helper T-cell type 2 differentiation.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: IgE mast-cell degranulation. Distinct objective: Connect IL-4 exposure with helper T-cell type 2 differentiation.",
+      "candidates": [
+        {
+          "code": "op26x-0123",
+          "score": 0.2458,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        },
+        {
+          "code": "op26x-0272",
+          "score": 0.131,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0105",
+          "score": 0.1259,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "IL-4 Th2 polarization",
+      "objective": "Connect IL-4 exposure with helper T-cell type 2 differentiation.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0125",
+      "concept": "il-17-barrier-neutrophil-recruitment",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Associate IL-17 with barrier-driven neutrophil recruitment.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: C5a immediate chemotaxis. Distinct objective: Associate IL-17 with barrier-driven neutrophil recruitment.",
+      "candidates": [
+        {
+          "code": "op26x-0123",
+          "score": 0.1772,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0122",
+          "score": 0.1406,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0124",
+          "score": 0.1377,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "IL-17 barrier neutrophil recruitment",
+      "objective": "Associate IL-17 with barrier-driven neutrophil recruitment.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0126",
+      "concept": "foxp3-regulatory-lineage",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly cued biological process: Identify the FOXP3-associated regulatory T-cell lineage.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: thymic negative selection. Distinct objective: Identify the FOXP3-associated regulatory T-cell lineage.",
+      "candidates": [
+        {
+          "code": "op26x-0788",
+          "score": 0.0921,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0022",
+          "score": 0.086,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0121",
+          "score": 0.0831,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "FOXP3 regulatory lineage",
+      "objective": "Identify the FOXP3-associated regulatory T-cell lineage.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0127",
+      "concept": "il-10-inflammatory-restraint",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain IL-10-mediated restraint of inflammatory antigen-presenting cells.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: Th1 macrophage activation. Distinct objective: Explain IL-10-mediated restraint of inflammatory antigen-presenting cells.",
+      "candidates": [
+        {
+          "code": "op26x-0123",
+          "score": 0.2649,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0122",
+          "score": 0.2092,
+          "sameObjective": false,
+          "lexical": 0.044444444444444446
+        },
+        {
+          "code": "op26x-0125",
+          "score": 0.1262,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "IL-10 inflammatory restraint",
+      "objective": "Explain IL-10-mediated restraint of inflammatory antigen-presenting cells.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0128",
+      "concept": "superantigen-external-crosslinking",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Integrate processing independence and broad T-cell activation to identify superantigen action.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: ordinary class II antigen presentation. Distinct objective: Integrate processing independence and broad T-cell activation to identify superantigen action.",
+      "candidates": [
+        {
+          "code": "op26x-0103",
+          "score": 0.1411,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0101",
+          "score": 0.1225,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0105",
+          "score": 0.1143,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Superantigen external crosslinking",
+      "objective": "Integrate processing independence and broad T-cell activation to identify superantigen action.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0129",
+      "concept": "t-independent-repetitive-epitopes",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain B-cell receptor crosslinking by repetitive T-independent polysaccharides.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: protein-dependent class switching. Distinct objective: Explain B-cell receptor crosslinking by repetitive T-independent polysaccharides.",
+      "candidates": [
+        {
+          "code": "op26x-0128",
+          "score": 0.22,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0493",
+          "score": 0.0948,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0095",
+          "score": 0.0925,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "T-independent repetitive epitopes",
+      "objective": "Explain B-cell receptor crosslinking by repetitive T-independent polysaccharides.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0130",
+      "concept": "conjugate-vaccine-linked-recognition",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Explain linked recognition in a polysaccharide-protein conjugate response.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: T-independent polysaccharide activation. Distinct objective: Explain linked recognition in a polysaccharide-protein conjugate response.",
+      "candidates": [
+        {
+          "code": "op26x-0129",
+          "score": 0.2058,
+          "sameObjective": false,
+          "lexical": 0.044444444444444446
+        },
+        {
+          "code": "op26-0122",
+          "score": 0.1255,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0228",
+          "score": 0.1242,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Conjugate vaccine linked recognition",
+      "objective": "Explain linked recognition in a polysaccharide-protein conjugate response.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0131",
+      "concept": "rag-recombination-initiation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify RAG initiation of antigen receptor V(D)J recombination.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: class switching and affinity maturation. Distinct objective: Identify RAG initiation of antigen receptor V(D)J recombination.",
+      "candidates": [
+        {
+          "code": "op26x-0205",
+          "score": 0.1754,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0110",
+          "score": 0.1328,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0109",
+          "score": 0.1177,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "RAG recombination initiation",
+      "objective": "Identify RAG initiation of antigen receptor V(D)J recombination.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0132",
+      "concept": "tdt-junctional-diversity",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify TdT-generated non-templated receptor junctional diversity.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: RAG cleavage initiation. Distinct objective: Identify TdT-generated non-templated receptor junctional diversity.",
+      "candidates": [
+        {
+          "code": "op26x-0070",
+          "score": 0.1227,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0131",
+          "score": 0.0988,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0640",
+          "score": 0.085,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "TdT junctional diversity",
+      "objective": "Identify TdT-generated non-templated receptor junctional diversity.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0133",
+      "concept": "immunoglobulin-allelic-exclusion",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain allelic exclusion as support for B-cell clonal specificity.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: immunoglobulin class switching. Distinct objective: Explain allelic exclusion as support for B-cell clonal specificity.",
+      "candidates": [
+        {
+          "code": "op26x-0109",
+          "score": 0.1707,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0122",
+          "score": 0.1385,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0001",
+          "score": 0.1328,
+          "sameObjective": false,
+          "lexical": 0.01818181818181818
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Immunoglobulin allelic exclusion",
+      "objective": "Explain allelic exclusion as support for B-cell clonal specificity.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0134",
+      "concept": "hla-codominant-expression",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly cued biological process: Recognize codominant expression of inherited HLA alleles.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: genomic imprinting. Distinct objective: Recognize codominant expression of inherited HLA alleles.",
+      "candidates": [
+        {
+          "code": "op26x-0103",
+          "score": 0.139,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0120",
+          "score": 0.1025,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0130",
+          "score": 0.0921,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "HLA codominant expression",
+      "objective": "Recognize codominant expression of inherited HLA alleles.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0135",
+      "concept": "alternative-complement-properdin",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify properdin stabilization of the alternative complement convertase.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: terminal complement deficiency. Distinct objective: Identify properdin stabilization of the alternative complement convertase.",
+      "candidates": [
+        {
+          "code": "op26x-0117",
+          "score": 0.2129,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0115",
+          "score": 0.129,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0114",
+          "score": 0.1209,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Alternative complement properdin",
+      "objective": "Identify properdin stabilization of the alternative complement convertase.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0136",
+      "concept": "lectin-complement-carbohydrate-recognition",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify antibody-independent carbohydrate recognition by the lectin complement pathway.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: classical C1q initiation. Distinct objective: Identify antibody-independent carbohydrate recognition by the lectin complement pathway.",
+      "candidates": [
+        {
+          "code": "op26x-0114",
+          "score": 0.2506,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0119",
+          "score": 0.1655,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0135",
+          "score": 0.1508,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Lectin complement carbohydrate recognition",
+      "objective": "Identify antibody-independent carbohydrate recognition by the lectin complement pathway.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0137",
+      "concept": "type-i-interferon-antiviral-state",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain paracrine induction of a type I interferon antiviral program.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: HIV receptor entry. Distinct objective: Explain paracrine induction of a type I interferon antiviral program.",
+      "candidates": [
+        {
+          "code": "op26x-0123",
+          "score": 0.1507,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0767",
+          "score": 0.1339,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0054",
+          "score": 0.1306,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Type I interferon antiviral state",
+      "objective": "Explain paracrine induction of a type I interferon antiviral program.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0138",
+      "concept": "pattern-recognition-conserved-motifs",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly cued biological process: Distinguish germline innate pattern recognition from rearranged adaptive receptors.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: B-cell receptor diversity. Distinct objective: Distinguish germline innate pattern recognition from rearranged adaptive receptors.",
+      "candidates": [
+        {
+          "code": "op26x-0109",
+          "score": 0.1546,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0119",
+          "score": 0.147,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0775",
+          "score": 0.1081,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Pattern recognition conserved motifs",
+      "objective": "Distinguish germline innate pattern recognition from rearranged adaptive receptors.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0139",
+      "concept": "inflammasome-il-1beta-maturation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify caspase-1-dependent cytokine maturation downstream of an inflammasome.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: apoptotic executioner caspases. Distinct objective: Identify caspase-1-dependent cytokine maturation downstream of an inflammasome.",
+      "candidates": [
+        {
+          "code": "op26x-0127",
+          "score": 0.202,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0122",
+          "score": 0.1088,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0053",
+          "score": 0.1077,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Inflammasome IL-1beta maturation",
+      "objective": "Identify caspase-1-dependent cytokine maturation downstream of an inflammasome.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0140",
+      "concept": "eosinophil-granule-helminth-injury",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Associate eosinophil major basic protein with extracellular helminth-directed injury.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: IgE-mediated immediate allergy. Distinct objective: Associate eosinophil major basic protein with extracellular helminth-directed injury.",
+      "candidates": [
+        {
+          "code": "op26x-0080",
+          "score": 0.1503,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0244",
+          "score": 0.1181,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0023",
+          "score": 0.0954,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Immunology",
+      "topic": "Eosinophil granule helminth injury",
+      "objective": "Associate eosinophil major basic protein with extracellular helminth-directed injury.",
+      "reference": [
+        {
+          "label": "Immunobiology, 5th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK10757/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0141",
+      "concept": "missense-amino-acid-substitution",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly cued biological process: Identify a missense variant from a single amino-acid replacement.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: inheritance pattern recognition. Distinct objective: Identify a missense variant from a single amino-acid replacement.",
+      "candidates": [
+        {
+          "code": "op26x-0080",
+          "score": 0.1006,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0070",
+          "score": 0.0847,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0784",
+          "score": 0.0803,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Missense amino acid substitution",
+      "objective": "Identify a missense variant from a single amino-acid replacement.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0142",
+      "concept": "nonsense-premature-stop",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly cued biological process: Recognize a nonsense substitution that introduces premature translation termination.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: missense substitution. Distinct objective: Recognize a nonsense substitution that introduces premature translation termination.",
+      "candidates": [
+        {
+          "code": "op26x-0141",
+          "score": 0.2514,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0202",
+          "score": 0.119,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0050",
+          "score": 0.0701,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Nonsense premature stop",
+      "objective": "Recognize a nonsense substitution that introduces premature translation termination.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0143",
+      "concept": "coding-frameshift-deletion",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Apply triplet coding to explain a non-triplet deletion frameshift.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: nondisjunction. Distinct objective: Apply triplet coding to explain a non-triplet deletion frameshift.",
+      "candidates": [
+        {
+          "code": "op26x-0142",
+          "score": 0.1469,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0118",
+          "score": 0.1084,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0243",
+          "score": 0.0761,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Coding frameshift deletion",
+      "objective": "Apply triplet coding to explain a non-triplet deletion frameshift.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0144",
+      "concept": "in-frame-coding-deletion",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Distinguish in-frame codon loss from a downstream reading-frame shift.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: frameshift mechanism. Distinct objective: Distinguish in-frame codon loss from a downstream reading-frame shift.",
+      "candidates": [
+        {
+          "code": "op26x-0143",
+          "score": 0.1401,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0141",
+          "score": 0.1121,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0142",
+          "score": 0.1037,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "In-frame coding deletion",
+      "objective": "Distinguish in-frame codon loss from a downstream reading-frame shift.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0145",
+      "concept": "splice-donor-disruption",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Link a donor-site variant with abnormal removal of pre-mRNA introns.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: alternative physiological splicing. Distinct objective: Link a donor-site variant with abnormal removal of pre-mRNA introns.",
+      "candidates": [
+        {
+          "code": "op26x-0081",
+          "score": 0.1324,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0142",
+          "score": 0.0912,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0144",
+          "score": 0.0881,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Splice donor disruption",
+      "objective": "Link a donor-site variant with abnormal removal of pre-mRNA introns.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0146",
+      "concept": "promoter-expression-reduction",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain lower protein abundance from impaired promoter activity.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: coding missense changes. Distinct objective: Explain lower protein abundance from impaired promoter activity.",
+      "candidates": [
+        {
+          "code": "op26x-0142",
+          "score": 0.1546,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0205",
+          "score": 0.1324,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0102",
+          "score": 0.118,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Promoter expression reduction",
+      "objective": "Explain lower protein abundance from impaired promoter activity.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0147",
+      "concept": "synonymous-splice-regulatory-effect",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Integrate synonymous codon preservation with disrupted splicing regulation.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: splice donor disruption. Distinct objective: Integrate synonymous codon preservation with disrupted splicing regulation.",
+      "candidates": [
+        {
+          "code": "op26x-0081",
+          "score": 0.1595,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0141",
+          "score": 0.1524,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0142",
+          "score": 0.1495,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Synonymous splice regulatory effect",
+      "objective": "Integrate synonymous codon preservation with disrupted splicing regulation.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0148",
+      "concept": "nonsense-mediated-transcript-decay",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain context-dependent degradation of a premature-stop transcript.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: nonsense variant classification. Distinct objective: Explain context-dependent degradation of a premature-stop transcript.",
+      "candidates": [
+        {
+          "code": "op26x-0142",
+          "score": 0.1728,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0145",
+          "score": 0.1208,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0146",
+          "score": 0.0973,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Nonsense-mediated transcript decay",
+      "objective": "Explain context-dependent degradation of a premature-stop transcript.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0149",
+      "concept": "haploinsufficient-dosage-mechanism",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Distinguish insufficient normal dosage from mutant-protein interference.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: tumor suppressor two-hit model. Distinct objective: Distinguish insufficient normal dosage from mutant-protein interference.",
+      "candidates": [
+        {
+          "code": "op26-0130",
+          "score": 0.1744,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0072",
+          "score": 0.1569,
+          "sameObjective": false,
+          "lexical": 0.017241379310344827
+        },
+        {
+          "code": "op26x-0252",
+          "score": 0.1256,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Haploinsufficient dosage mechanism",
+      "objective": "Distinguish insufficient normal dosage from mutant-protein interference.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0150",
+      "concept": "dominant-negative-multimer-poisoning",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Infer dominant-negative action from mutant incorporation and impaired mixed complexes.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: haploinsufficient gene dosage. Distinct objective: Infer dominant-negative action from mutant incorporation and impaired mixed complexes.",
+      "candidates": [
+        {
+          "code": "op26x-0149",
+          "score": 0.2316,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0072",
+          "score": 0.1314,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0130",
+          "score": 0.1219,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Dominant negative multimer poisoning",
+      "objective": "Infer dominant-negative action from mutant incorporation and impaired mixed complexes.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0151",
+      "concept": "constitutive-receptor-gain-of-function",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Classify ligand-independent receptor signaling as gain of function.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: tumor suppressor loss. Distinct objective: Classify ligand-independent receptor signaling as gain of function.",
+      "candidates": [
+        {
+          "code": "op26x-0776",
+          "score": 0.1557,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0149",
+          "score": 0.154,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0068",
+          "score": 0.138,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Constitutive receptor gain of function",
+      "objective": "Classify ligand-independent receptor signaling as gain of function.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0152",
+      "concept": "allelic-heterogeneity",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly cued biological process: Distinguish multiple causal variants in one gene as allelic heterogeneity.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: penetrance. Distinct objective: Distinguish multiple causal variants in one gene as allelic heterogeneity.",
+      "candidates": [
+        {
+          "code": "op26x-0777",
+          "score": 0.1161,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0133",
+          "score": 0.114,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0081",
+          "score": 0.1078,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Allelic heterogeneity",
+      "objective": "Distinguish multiple causal variants in one gene as allelic heterogeneity.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0153",
+      "concept": "locus-heterogeneity",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly cued biological process: Recognize different causal genes producing an overlapping phenotype.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: allelic heterogeneity. Distinct objective: Recognize different causal genes producing an overlapping phenotype.",
+      "candidates": [
+        {
+          "code": "op26x-0152",
+          "score": 0.3856,
+          "sameObjective": false,
+          "lexical": 0.05
+        },
+        {
+          "code": "op26x-0134",
+          "score": 0.1474,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0777",
+          "score": 0.1188,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Locus heterogeneity",
+      "objective": "Recognize different causal genes producing an overlapping phenotype.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0154",
+      "concept": "variable-expressivity-severity",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Distinguish variable disease severity from incomplete penetrance.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: penetrance in unaffected carriers. Distinct objective: Distinguish variable disease severity from incomplete penetrance.",
+      "candidates": [
+        {
+          "code": "op26-0126",
+          "score": 0.319,
+          "sameObjective": false,
+          "lexical": 0.017857142857142856
+        },
+        {
+          "code": "op26-0123",
+          "score": 0.1591,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0110",
+          "score": 0.1365,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Variable expressivity severity",
+      "objective": "Distinguish variable disease severity from incomplete penetrance.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0155",
+      "concept": "gonadal-mosaic-recurrence",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Integrate recurrence and negative parental blood testing as evidence compatible with gonadal mosaicism.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: autosomal dominant transmission. Distinct objective: Integrate recurrence and negative parental blood testing as evidence compatible with gonadal mosaicism.",
+      "candidates": [
+        {
+          "code": "op26x-0111",
+          "score": 0.1006,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s3-0006",
+          "score": 0.0948,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0342",
+          "score": 0.0842,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Gonadal mosaic recurrence",
+      "objective": "Integrate recurrence and negative parental blood testing as evidence compatible with gonadal mosaicism.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0156",
+      "concept": "postzygotic-somatic-mosaicism",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Infer somatic mosaicism from a lineage-restricted postzygotic variant.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: germline mosaic recurrence. Distinct objective: Infer somatic mosaicism from a lineage-restricted postzygotic variant.",
+      "candidates": [
+        {
+          "code": "op26x-0155",
+          "score": 0.1474,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0126",
+          "score": 0.1468,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0141",
+          "score": 0.1208,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Postzygotic somatic mosaicism",
+      "objective": "Infer somatic mosaicism from a lineage-restricted postzygotic variant.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0157",
+      "concept": "skewed-x-inactivation-expression",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Integrate genotype and tissue X-inactivation bias to explain an X-linked phenotype.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: X-linked recessive transmission probability. Distinct objective: Integrate genotype and tissue X-inactivation bias to explain an X-linked phenotype.",
+      "candidates": [
+        {
+          "code": "op26-0122",
+          "score": 0.117,
+          "sameObjective": false,
+          "lexical": 0.031746031746031744
+        },
+        {
+          "code": "op26x-0785",
+          "score": 0.0943,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0204",
+          "score": 0.0938,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Skewed X-inactivation expression",
+      "objective": "Integrate genotype and tissue X-inactivation bias to explain an X-linked phenotype.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0158",
+      "concept": "mitochondrial-heteroplasmy-threshold",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Explain tissue-selective dysfunction through heteroplasmy and energetic thresholds.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: maternal mitochondrial inheritance. Distinct objective: Explain tissue-selective dysfunction through heteroplasmy and energetic thresholds.",
+      "candidates": [
+        {
+          "code": "op26x-0252",
+          "score": 0.1365,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0150",
+          "score": 0.1147,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0208",
+          "score": 0.1074,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Mitochondrial heteroplasmy threshold",
+      "objective": "Explain tissue-selective dysfunction through heteroplasmy and energetic thresholds.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0159",
+      "concept": "microarray-copy-number-detection",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Select genomic dosage analysis for a submicroscopic chromosomal deletion.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: balanced translocation. Distinct objective: Select genomic dosage analysis for a submicroscopic chromosomal deletion.",
+      "candidates": [
+        {
+          "code": "op26-0127",
+          "score": 0.1181,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0143",
+          "score": 0.1013,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0118",
+          "score": 0.1005,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Microarray copy number detection",
+      "objective": "Select genomic dosage analysis for a submicroscopic chromosomal deletion.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0160",
+      "concept": "balanced-rearrangement-array-limitation",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Reconcile a visible balanced translocation with normal genomic copy-number results.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: balanced translocation reproductive risk. Distinct objective: Reconcile a visible balanced translocation with normal genomic copy-number results.",
+      "candidates": [
+        {
+          "code": "op26-0129",
+          "score": 0.2248,
+          "sameObjective": false,
+          "lexical": 0.06818181818181818
+        },
+        {
+          "code": "op26x-0159",
+          "score": 0.1527,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0149",
+          "score": 0.1193,
+          "sameObjective": false,
+          "lexical": 0.02040816326530612
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Balanced rearrangement array limitation",
+      "objective": "Reconcile a visible balanced translocation with normal genomic copy-number results.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0161",
+      "concept": "fish-targeted-localization",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify targeted fluorescent DNA localization as FISH.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: genome-wide microarray dosage. Distinct objective: Identify targeted fluorescent DNA localization as FISH.",
+      "candidates": [
+        {
+          "code": "op26x-0222",
+          "score": 0.1163,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0073",
+          "score": 0.0804,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0791",
+          "score": 0.0774,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "FISH targeted localization",
+      "objective": "Identify targeted fluorescent DNA localization as FISH.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0162",
+      "concept": "pcr-primer-site-allele-dropout",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Infer primer-related allele dropout from discordant genotypes and a primer-site variant.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: sequence variant classification. Distinct objective: Infer primer-related allele dropout from discordant genotypes and a primer-site variant.",
+      "candidates": [
+        {
+          "code": "op26x-0151",
+          "score": 0.1298,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0134",
+          "score": 0.115,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0146",
+          "score": 0.1106,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "PCR primer site allele dropout",
+      "objective": "Infer primer-related allele dropout from discordant genotypes and a primer-site variant.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0163",
+      "concept": "sanger-dideoxy-termination",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly cued biological process: Explain Sanger sequencing through dideoxynucleotide chain termination.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: DNA polymerase directionality. Distinct objective: Explain Sanger sequencing through dideoxynucleotide chain termination.",
+      "candidates": [
+        {
+          "code": "op26x-0236",
+          "score": 0.2121,
+          "sameObjective": false,
+          "lexical": 0.04878048780487805
+        },
+        {
+          "code": "op26x-0085",
+          "score": 0.1393,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0142",
+          "score": 0.123,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Sanger dideoxy termination",
+      "objective": "Explain Sanger sequencing through dideoxynucleotide chain termination.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0164",
+      "concept": "low-level-mosaic-sequencing-depth",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Integrate low variant fraction and assay sensitivity when interpreting negative sequencing.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: somatic mosaic tissue distribution. Distinct objective: Integrate low variant fraction and assay sensitivity when interpreting negative sequencing.",
+      "candidates": [
+        {
+          "code": "op26x-0155",
+          "score": 0.1838,
+          "sameObjective": false,
+          "lexical": 0.0196078431372549
+        },
+        {
+          "code": "op26x-0156",
+          "score": 0.1511,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0141",
+          "score": 0.1279,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Low-level mosaic sequencing depth",
+      "objective": "Integrate low variant fraction and assay sensitivity when interpreting negative sequencing.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0165",
+      "concept": "variant-uncertain-significance-interpretation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Interpret uncertain variant classification without treating rarity as proof of causality.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: missense variant type. Distinct objective: Interpret uncertain variant classification without treating rarity as proof of causality.",
+      "candidates": [
+        {
+          "code": "op26x-0141",
+          "score": 0.1898,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0164",
+          "score": 0.1717,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0142",
+          "score": 0.1049,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Variant uncertain significance interpretation",
+      "objective": "Interpret uncertain variant classification without treating rarity as proof of causality.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0166",
+      "concept": "recessive-variant-phase-in-trans",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Use parental origin to distinguish trans from cis variants in a recessive gene.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: autosomal recessive recurrence probability. Distinct objective: Use parental origin to distinguish trans from cis variants in a recessive gene.",
+      "candidates": [
+        {
+          "code": "op26x-0152",
+          "score": 0.2656,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0127",
+          "score": 0.2463,
+          "sameObjective": false,
+          "lexical": 0.017543859649122806
+        },
+        {
+          "code": "op26-0121",
+          "score": 0.1416,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Recessive variant phase in trans",
+      "objective": "Use parental origin to distinguish trans from cis variants in a recessive gene.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0167",
+      "concept": "pseudogene-sequence-misalignment",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Infer pseudogene misalignment from homologous reads and locus-specific confirmation.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: PCR allele dropout artifact. Distinct objective: Infer pseudogene misalignment from homologous reads and locus-specific confirmation.",
+      "candidates": [
+        {
+          "code": "op26x-0152",
+          "score": 0.0925,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0130",
+          "score": 0.0805,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0153",
+          "score": 0.0728,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Pseudogene sequence misalignment",
+      "objective": "Infer pseudogene misalignment from homologous reads and locus-specific confirmation.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0168",
+      "concept": "linkage-disequilibrium-association",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Distinguish linked marker association from direct variant causality.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: genetic variant evidence interpretation. Distinct objective: Distinguish linked marker association from direct variant causality.",
+      "candidates": [
+        {
+          "code": "op26x-0165",
+          "score": 0.1652,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0153",
+          "score": 0.1405,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0020",
+          "score": 0.1281,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Linkage disequilibrium association",
+      "objective": "Distinguish linked marker association from direct variant causality.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0169",
+      "concept": "de-novo-constitutional-variant",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify plausible early origins of an apparently de novo constitutional variant.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: gonadal mosaic recurrence. Distinct objective: Identify plausible early origins of an apparently de novo constitutional variant.",
+      "candidates": [
+        {
+          "code": "op26x-0155",
+          "score": 0.2096,
+          "sameObjective": false,
+          "lexical": 0.04081632653061224
+        },
+        {
+          "code": "op26x-0156",
+          "score": 0.1304,
+          "sameObjective": false,
+          "lexical": 0.0196078431372549
+        },
+        {
+          "code": "op26x-0162",
+          "score": 0.1059,
+          "sameObjective": false,
+          "lexical": 0.02040816326530612
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "De novo constitutional variant",
+      "objective": "Identify plausible early origins of an apparently de novo constitutional variant.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0170",
+      "concept": "pleiotropic-gene-effects",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly cued biological process: Recognize multiple organ effects of a single gene as pleiotropy.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: locus heterogeneity. Distinct objective: Recognize multiple organ effects of a single gene as pleiotropy.",
+      "candidates": [
+        {
+          "code": "op26x-0152",
+          "score": 0.2676,
+          "sameObjective": false,
+          "lexical": 0.023809523809523808
+        },
+        {
+          "code": "op26-0169",
+          "score": 0.1344,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0141",
+          "score": 0.126,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Genetics",
+      "topic": "Pleiotropic gene effects",
+      "objective": "Recognize multiple organ effects of a single gene as pleiotropy.",
+      "reference": [
+        {
+          "label": "MedlinePlus Genetics: Help Me Understand Genetics",
+          "url": "https://medlineplus.gov/genetics/understanding/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0171",
+      "concept": "naked-dna-transformation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Use DNase sensitivity and carrier independence to identify bacterial transformation.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: plasmid conjugation. Distinct objective: Use DNase sensitivity and carrier independence to identify bacterial transformation.",
+      "candidates": [
+        {
+          "code": "op26-0098",
+          "score": 0.2322,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0221",
+          "score": 0.0799,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0141",
+          "score": 0.0752,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Naked DNA transformation",
+      "objective": "Use DNase sensitivity and carrier independence to identify bacterial transformation.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0172",
+      "concept": "generalized-phage-transduction",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Integrate random locus transfer with phage carriage to identify generalized transduction.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: bacterial conjugation. Distinct objective: Integrate random locus transfer with phage carriage to identify generalized transduction.",
+      "candidates": [
+        {
+          "code": "op26-0098",
+          "score": 0.2174,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0171",
+          "score": 0.1289,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0470",
+          "score": 0.082,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Generalized phage transduction",
+      "objective": "Integrate random locus transfer with phage carriage to identify generalized transduction.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0173",
+      "concept": "specialized-prophage-excision-transfer",
+      "reasoning": "integration",
+      "difficulty": 3,
+      "difficultyReason": "Integrate independent findings and infer the intermediate defect: Infer specialized transduction from prophage excision and neighboring-gene restriction.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: generalized transduction. Distinct objective: Infer specialized transduction from prophage excision and neighboring-gene restriction.",
+      "candidates": [
+        {
+          "code": "op26x-0172",
+          "score": 0.2262,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0098",
+          "score": 0.1292,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0732",
+          "score": 0.0788,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Specialized prophage excision transfer",
+      "objective": "Infer specialized transduction from prophage excision and neighboring-gene restriction.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0174",
+      "concept": "lysogenic-toxin-conversion",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Distinguish phage-encoded toxin conversion from transfer of donor bacterial genes.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: bacterial conjugation. Distinct objective: Distinguish phage-encoded toxin conversion from transfer of donor bacterial genes.",
+      "candidates": [
+        {
+          "code": "op26x-0173",
+          "score": 0.2618,
+          "sameObjective": false,
+          "lexical": 0.022222222222222223
+        },
+        {
+          "code": "op26x-0153",
+          "score": 0.1573,
+          "sameObjective": false,
+          "lexical": 0.05128205128205128
+        },
+        {
+          "code": "op26x-0172",
+          "score": 0.1522,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Lysogenic toxin conversion",
+      "objective": "Distinguish phage-encoded toxin conversion from transfer of donor bacterial genes.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0175",
+      "concept": "capsule-antiphagocytic-role",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain capsule-associated resistance to unopsonized phagocytosis.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: C3b-mediated opsonization. Distinct objective: Explain capsule-associated resistance to unopsonized phagocytosis.",
+      "candidates": [
+        {
+          "code": "op26x-0130",
+          "score": 0.1486,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0230",
+          "score": 0.11,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0102",
+          "score": 0.0962,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Capsule antiphagocytic role",
+      "objective": "Explain capsule-associated resistance to unopsonized phagocytosis.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0176",
+      "concept": "mucosal-bacterial-iga-protease",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Connect bacterial IgA proteolysis with impaired mucosal immune exclusion.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: secretory IgA epithelial transport. Distinct objective: Connect bacterial IgA proteolysis with impaired mucosal immune exclusion.",
+      "candidates": [
+        {
+          "code": "op26x-0403",
+          "score": 0.1622,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0266",
+          "score": 0.1483,
+          "sameObjective": false,
+          "lexical": 0.08333333333333333
+        },
+        {
+          "code": "op26x-0112",
+          "score": 0.1475,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Mucosal bacterial IgA protease",
+      "objective": "Connect bacterial IgA proteolysis with impaired mucosal immune exclusion.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0177",
+      "concept": "biofilm-matrix-persistence",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain biofilm persistence without assuming universal new resistance mutations.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: bacterial capsule shielding. Distinct objective: Explain biofilm persistence without assuming universal new resistance mutations.",
+      "candidates": [
+        {
+          "code": "op26x-0435",
+          "score": 0.1126,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0078",
+          "score": 0.1116,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0074",
+          "score": 0.1007,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Biofilm matrix persistence",
+      "objective": "Explain biofilm persistence without assuming universal new resistance mutations.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0178",
+      "concept": "quorum-sensing-density-signal",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify density-dependent bacterial gene regulation through quorum sensing.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: bacterial genetic transfer. Distinct objective: Identify density-dependent bacterial gene regulation through quorum sensing.",
+      "candidates": [
+        {
+          "code": "op26x-0126",
+          "score": 0.1114,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0099",
+          "score": 0.0866,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0173",
+          "score": 0.0798,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Quorum sensing density signal",
+      "objective": "Identify density-dependent bacterial gene regulation through quorum sensing.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0179",
+      "concept": "siderophore-iron-scavenging",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain siderophore-mediated microbial acquisition of host-restricted iron.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: iron sequestration in inflammation. Distinct objective: Explain siderophore-mediated microbial acquisition of host-restricted iron.",
+      "candidates": [
+        {
+          "code": "op26-0057",
+          "score": 0.1713,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0094",
+          "score": 0.1615,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0056",
+          "score": 0.1356,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Siderophore iron scavenging",
+      "objective": "Explain siderophore-mediated microbial acquisition of host-restricted iron.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0180",
+      "concept": "urease-ammonia-generation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Link bacterial urease activity to local acid buffering.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: gastric proton secretion. Distinct objective: Link bacterial urease activity to local acid buffering.",
+      "candidates": [
+        {
+          "code": "op26-0043",
+          "score": 0.1288,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0761",
+          "score": 0.1262,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0038",
+          "score": 0.1151,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Urease ammonia generation",
+      "objective": "Link bacterial urease activity to local acid buffering.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0181",
+      "concept": "catalase-bubble-test",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly cued biological process: Identify catalase activity from peroxide-associated oxygen bubble formation.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: staphylococcal coagulase identification. Distinct objective: Identify catalase activity from peroxide-associated oxygen bubble formation.",
+      "candidates": [
+        {
+          "code": "op26x-0072",
+          "score": 0.467,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0101",
+          "score": 0.1191,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0038",
+          "score": 0.1129,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [
+        "Semantic overlap candidate op26x-0072 (0.467); Both identify catalase from conversion of hydrogen peroxide to water and oxygen. Changing organelle metabolism to a bacterial bubble test adds insufficient new inference."
+      ],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Catalase bubble test",
+      "objective": "Identify catalase activity from peroxide-associated oxygen bubble formation.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0182",
+      "concept": "pilus-antigenic-variation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain antibody evasion through bacterial pilus antigenic variation.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: influenza reassortment. Distinct objective: Explain antibody evasion through bacterial pilus antigenic variation.",
+      "candidates": [
+        {
+          "code": "op26x-0240",
+          "score": 0.1049,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0479",
+          "score": 0.1004,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0176",
+          "score": 0.0965,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Pilus antigenic variation",
+      "objective": "Explain antibody evasion through bacterial pilus antigenic variation.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0183",
+      "concept": "obligate-anaerobe-oxygen-toxicity",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Connect the stated anaerobic oxygen sensitivity with deficient oxidant detoxification.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: bacterial spore resistance. Distinct objective: Connect the stated anaerobic oxygen sensitivity with deficient oxidant detoxification.",
+      "candidates": [
+        {
+          "code": "op26x-0090",
+          "score": 0.3257,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0430",
+          "score": 0.1241,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0223",
+          "score": 0.1213,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Obligate anaerobe oxygen toxicity",
+      "objective": "Connect the stated anaerobic oxygen sensitivity with deficient oxidant detoxification.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0184",
+      "concept": "mycoplasma-absent-wall",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain target absence as the basis of mycoplasmal wall-drug insensitivity.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: beta-lactam peptidoglycan action. Distinct objective: Explain target absence as the basis of mycoplasmal wall-drug insensitivity.",
+      "candidates": [
+        {
+          "code": "op26x-0228",
+          "score": 0.2106,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0202",
+          "score": 0.1991,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0096",
+          "score": 0.1696,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Mycoplasma absent wall",
+      "objective": "Explain target absence as the basis of mycoplasmal wall-drug insensitivity.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0185",
+      "concept": "chlamydia-elementary-body-entry",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly cued biological process: Identify the elementary body as the infectious chlamydial form.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: bacterial endospores. Distinct objective: Identify the elementary body as the infectious chlamydial form.",
+      "candidates": [
+        {
+          "code": "op26x-0254",
+          "score": 0.1778,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0289",
+          "score": 0.1699,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0275",
+          "score": 0.1223,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Chlamydia elementary body entry",
+      "objective": "Identify the elementary body as the infectious chlamydial form.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0186",
+      "concept": "rickettsial-endothelial-tropism",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Connect rickettsial endothelial infection with vascular leakage and inflammation.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: malaria erythrocyte life cycle. Distinct objective: Connect rickettsial endothelial infection with vascular leakage and inflammation.",
+      "candidates": [
+        {
+          "code": "op26-0199",
+          "score": 0.1585,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0098",
+          "score": 0.1441,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0099",
+          "score": 0.1241,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Rickettsial endothelial tropism",
+      "objective": "Connect rickettsial endothelial infection with vascular leakage and inflammation.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0187",
+      "concept": "legionella-replication-vacuole",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain Legionella survival through modification of an intracellular replication compartment.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: bacterial capsule uptake resistance. Distinct objective: Explain Legionella survival through modification of an intracellular replication compartment.",
+      "candidates": [
+        {
+          "code": "op26x-0230",
+          "score": 0.1025,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0761",
+          "score": 0.1024,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0289",
+          "score": 0.0883,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Legionella replication vacuole",
+      "objective": "Explain Legionella survival through modification of an intracellular replication compartment.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0188",
+      "concept": "listeria-actin-cell-to-cell-spread",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain the immune-exposure advantage of actin-driven Listeria cell-to-cell spread.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: fibroblast actin motility. Distinct objective: Explain the immune-exposure advantage of actin-driven Listeria cell-to-cell spread.",
+      "candidates": [
+        {
+          "code": "op26x-0074",
+          "score": 0.1625,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0068",
+          "score": 0.1348,
+          "sameObjective": false,
+          "lexical": 0.024390243902439025
+        },
+        {
+          "code": "op26x-0187",
+          "score": 0.1197,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Listeria actin cell-to-cell spread",
+      "objective": "Explain the immune-exposure advantage of actin-driven Listeria cell-to-cell spread.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0189",
+      "concept": "diphtheria-ef2-inactivation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Link diphtheria toxin EF-2 modification to inhibition of protein elongation.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: Shiga toxin ribosomal RNA injury. Distinct objective: Link diphtheria toxin EF-2 modification to inhibition of protein elongation.",
+      "candidates": [
+        {
+          "code": "op26-0104",
+          "score": 0.2315,
+          "sameObjective": false,
+          "lexical": 0.021739130434782608
+        },
+        {
+          "code": "op26x-0216",
+          "score": 0.2315,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0248",
+          "score": 0.2164,
+          "sameObjective": false,
+          "lexical": 0.02631578947368421
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Diphtheria EF2 inactivation",
+      "objective": "Link diphtheria toxin EF-2 modification to inhibition of protein elongation.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0190",
+      "concept": "pertussis-inhibitory-g-protein-block",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Distinguish Gi inactivation from Gs activation as routes to increased cAMP.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: cholera toxin Gs activation. Distinct objective: Distinguish Gi inactivation from Gs activation as routes to increased cAMP.",
+      "candidates": [
+        {
+          "code": "s1-0010",
+          "score": 0.2236,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0103",
+          "score": 0.181,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0189",
+          "score": 0.1644,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Pertussis inhibitory G protein block",
+      "objective": "Distinguish Gi inactivation from Gs activation as routes to increased cAMP.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0191",
+      "concept": "anthrax-edema-factor-cyclase",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify edema factor as a delivered calmodulin-dependent adenylyl cyclase.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: cholera and pertussis G-protein modification. Distinct objective: Identify edema factor as a delivered calmodulin-dependent adenylyl cyclase.",
+      "candidates": [
+        {
+          "code": "op26x-0190",
+          "score": 0.2154,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0103",
+          "score": 0.1775,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0007",
+          "score": 0.1432,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Anthrax edema factor cyclase",
+      "objective": "Identify edema factor as a delivered calmodulin-dependent adenylyl cyclase.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0192",
+      "concept": "viral-envelope-detergent-vulnerability",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain selective vulnerability of required viral lipid envelopes to detergent disruption.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: bacterial peptidoglycan structure. Distinct objective: Explain selective vulnerability of required viral lipid envelopes to detergent disruption.",
+      "candidates": [
+        {
+          "code": "op26x-0225",
+          "score": 0.1933,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0264",
+          "score": 0.1265,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0271",
+          "score": 0.1204,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Viral envelope detergent vulnerability",
+      "objective": "Explain selective vulnerability of required viral lipid envelopes to detergent disruption.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0193",
+      "concept": "positive-sense-rna-initial-translation",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify messenger-sense viral RNA as a direct initial translation template.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: influenza segmented genome reassortment. Distinct objective: Identify messenger-sense viral RNA as a direct initial translation template.",
+      "candidates": [
+        {
+          "code": "op26x-0086",
+          "score": 0.2153,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0260",
+          "score": 0.2051,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0243",
+          "score": 0.2032,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Positive sense RNA initial translation",
+      "objective": "Identify messenger-sense viral RNA as a direct initial translation template.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0194",
+      "concept": "negative-sense-packaged-polymerase",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Explain why negative-sense RNA virions must carry transcriptional polymerase activity.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: positive-sense RNA translation. Distinct objective: Explain why negative-sense RNA virions must carry transcriptional polymerase activity.",
+      "candidates": [
+        {
+          "code": "op26x-0193",
+          "score": 0.416,
+          "sameObjective": false,
+          "lexical": 0.0625
+        },
+        {
+          "code": "op26x-0257",
+          "score": 0.3292,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0207",
+          "score": 0.2662,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Negative sense packaged polymerase",
+      "objective": "Explain why negative-sense RNA virions must carry transcriptional polymerase activity.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0195",
+      "concept": "retroviral-dna-integration",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Distinguish retroviral integrase insertion from reverse transcriptase DNA synthesis.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: HIV receptor entry. Distinct objective: Distinguish retroviral integrase insertion from reverse transcriptase DNA synthesis.",
+      "candidates": [
+        {
+          "code": "op26x-0237",
+          "score": 0.1965,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0086",
+          "score": 0.1845,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0265",
+          "score": 0.1702,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Retroviral DNA integration",
+      "objective": "Distinguish retroviral integrase insertion from reverse transcriptase DNA synthesis.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0196",
+      "concept": "hepatitis-b-rna-intermediate",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Recognize HBV DNA production through a pregenomic RNA intermediate.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: hepatitis B serology. Distinct objective: Recognize HBV DNA production through a pregenomic RNA intermediate.",
+      "candidates": [
+        {
+          "code": "op26x-0256",
+          "score": 0.228,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0255",
+          "score": 0.2271,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0263",
+          "score": 0.2024,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Hepatitis B RNA intermediate",
+      "objective": "Recognize HBV DNA production through a pregenomic RNA intermediate.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0197",
+      "concept": "herpes-neuronal-episomal-latency",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Identify restricted herpes genome persistence in sensory neurons as latency.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: viral integration. Distinct objective: Identify restricted herpes genome persistence in sensory neurons as latency.",
+      "candidates": [
+        {
+          "code": "op26x-0275",
+          "score": 0.1857,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0232",
+          "score": 0.1574,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0233",
+          "score": 0.0925,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Herpes neuronal episomal latency",
+      "objective": "Identify restricted herpes genome persistence in sensory neurons as latency.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0198",
+      "concept": "influenza-antigenic-drift-substitutions",
+      "reasoning": "application",
+      "difficulty": 2,
+      "difficultyReason": "Apply the stated molecular or cellular mechanism: Distinguish point-mutation antigenic drift from segment reassortment.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: influenza reassortment. Distinct objective: Distinguish point-mutation antigenic drift from segment reassortment.",
+      "candidates": [
+        {
+          "code": "op26-0100",
+          "score": 0.465,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0182",
+          "score": 0.1172,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0067",
+          "score": 0.1057,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [
+        "Semantic overlap candidate op26-0100 (0.465); Both distinguish antigenic drift by point substitutions from shift by whole-segment reassortment. Reversing which label is requested repeats the same comparison objective."
+      ],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Influenza antigenic drift substitutions",
+      "objective": "Distinguish point-mutation antigenic drift from segment reassortment.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0199",
+      "concept": "fungal-membrane-ergosterol",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly cued biological process: Identify ergosterol as a characteristic fungal membrane sterol.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: Candida morphology. Distinct objective: Identify ergosterol as a characteristic fungal membrane sterol.",
+      "candidates": [
+        {
+          "code": "op26x-0227",
+          "score": 0.428,
+          "sameObjective": false,
+          "lexical": 0.022222222222222223
+        },
+        {
+          "code": "op26x-0226",
+          "score": 0.2584,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0228",
+          "score": 0.1773,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Fungal membrane ergosterol",
+      "objective": "Identify ergosterol as a characteristic fungal membrane sterol.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    },
+    {
+      "code": "op26x-0200",
+      "concept": "fungal-beta-glucan-wall",
+      "reasoning": "recognition",
+      "difficulty": 1,
+      "difficultyReason": "Identify the explicitly cued biological process: Distinguish fungal wall beta glucan from membrane ergosterol.",
+      "evidenceNote": "NIH indexed bibliographic identity and broad topic coverage checked. Indexed Immunobiology antigen-processing and T-cell activation chapters confirmed TAP/invariant-chain and CD28/B7 concepts; MedlinePlus variant definitions were checked. Other items have book-level further reading, not option-level or clinician validation; direct NCBI requests encountered human verification.",
+      "semanticReviewNote": "Closest prior topic: Gram-positive peptidoglycan wall. Distinct objective: Distinguish fungal wall beta glucan from membrane ergosterol.",
+      "candidates": [
+        {
+          "code": "op26x-0228",
+          "score": 0.4459,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0199",
+          "score": 0.3533,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0227",
+          "score": 0.3287,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "errors": [],
+      "quarantine": [],
+      "exam": "Step 1",
+      "subject": "Microbiology",
+      "topic": "Fungal beta glucan wall",
+      "objective": "Distinguish fungal wall beta glucan from membrane ergosterol.",
+      "reference": [
+        {
+          "label": "Medical Microbiology, 4th edition; further reading",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK7627/"
+        }
+      ]
+    }
+  ]
+}
