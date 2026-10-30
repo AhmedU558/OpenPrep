@@ -26,3 +26,30 @@ content/bank/expansion/baseline.json
 content/bank/reports/preservation.json
 content/bank/expansion/reports/preservation.json
 content/bank/expansion/reports/audit-*.json
+
+# Build output, logs, keys, database backups and temporary uploads (keep migrations).
+build/
+dist/
+logs/
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+*.dump
+*.backup
+*.sqlite
+*.sqlite3
+*.sql.gz
+*.db
+*.jks
+id_rsa
+id_ed25519
+database-dumps/
+backups/
+tmp/
+temp/
+
+# Python compliance audit cache
+__pycache__/
+*.pyc

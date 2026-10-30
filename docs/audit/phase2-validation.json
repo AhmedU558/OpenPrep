@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-30",
+  "timezone": "Asia/Karachi",
+  "node": "v24.22.1",
+  "activeLicense": "MIT",
+  "agplActivated": false,
+  "unit": {
+    "passed": 91,
+    "files": 8
+  },
+  "full": {
+    "passed": 129,
+    "failed": 0,
+    "success": true
+  },
+  "browser": {
+    "startTime": "2026-10-30T10:11:35.314Z",
+    "duration": 68535.55500000001,
+    "expected": 23,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "lintExit": 0,
+  "typecheckExit": 0,
+  "prismaGenerateExit": 0,
+  "prismaValidateExit": 0,
+  "build": {
+    "command": "npm run build -- --webpack",
+    "exit": 0
+  },
+  "legacyExit": 0,
+  "actionlint": {
+    "version": "1.7.12",
+    "exit": 0,
+    "shellcheck": false,
+    "pyflakes": false
+  },
+  "yamlFiles": 5,
+  "migration": {
+    "originalTables": 26,
+    "differences": 0,
+    "originalQuestions": 32,
+    "defaultRights": "UNVERIFIED",
+    "database": "New volume-free loopback PostgreSQL test container on 55432; no existing study or production database accessed"
+  },
+  "distributionPreflight": {
+    "exit": 1,
+    "expected": true,
+    "governedFiles": 58,
+    "withheld": 58,
+    "artifactProduced": false
+  },
+  "dependencyEvidence": {
+    "targeted": 167,
+    "priorUnresolved": 156,
+    "integrityVerified": 167,
+    "artifactNotices": 63,
+    "upstreamText": 79,
+    "publisherCommitText": 64,
+    "weakerTagText": 15,
+    "remainingTextGaps": 25
+  },
+  "privateReporting": {
+    "enabled": false,
+    "monitoredChannelVerified": false,
+    "remoteSettingsChanged": false
+  },
+  "notExecuted": [
+    "Hosted CI/CodeQL/SARIF upload",
+    "Linux/physical-device/production/load tests",
+    "Actual application container SBOM/release compliance",
+    "Independent legal/medical review"
+  ],
+  "earlierFailures": [
+    "New test pagination assumption corrected",
+    "Old browser fixture required new explicit rights-review steps",
+    "Overlapping disposable-database tests caused seed conflict; excluded and rerun sequentially",
+    "Truncated cached download replaced only after fresh lockfile integrity success"
+  ],
+  "committed": false,
+  "pushed": false,
+  "released": false,
+  "deployed": false
+}

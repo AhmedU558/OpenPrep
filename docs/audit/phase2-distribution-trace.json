@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-30",
+  "scope": "Local Windows Webpack production build server file traces only. Absence does not establish non-inclusion in browser chunks, Linux deployments, containers or vendored code.",
+  "traceFiles": 35,
+  "families": {
+    "sharp": {
+      "found": true,
+      "traceFiles": [
+        ".next/next-server.js.nft.json"
+      ],
+      "examples": [
+        "../node_modules/sharp/dist/channel.cjs",
+        "../node_modules/sharp/dist/colour.cjs"
+      ],
+      "traceCount": 1
+    },
+    "@img/sharp": {
+      "found": true,
+      "traceFiles": [
+        ".next/next-server.js.nft.json"
+      ],
+      "examples": [
+        "../node_modules/@img/sharp-win32-x64/index.cjs",
+        "../node_modules/@img/sharp-win32-x64/lib/libvips-42.dll"
+      ],
+      "traceCount": 1
+    },
+    "elkjs": {
+      "found": false,
+      "traceFiles": [],
+      "examples": [],
+      "traceCount": 0
+    },
+    "lightningcss": {
+      "found": false,
+      "traceFiles": [],
+      "examples": [],
+      "traceCount": 0
+    },
+    "axe-core": {
+      "found": false,
+      "traceFiles": [],
+      "examples": [],
+      "traceCount": 0
+    },
+    "dompurify": {
+      "found": false,
+      "traceFiles": [],
+      "examples": [],
+      "traceCount": 0
+    },
+    "caniuse-lite": {
+      "found": false,
+      "traceFiles": [],
+      "examples": [],
+      "traceCount": 0
+    }
+  },
+  "containerDockerfilePresent": false
+}

@@ -1,0 +1,21 @@
+{
+  "lockSha256": "299215f1a9c22cbbc51077c5f1b622ee5b72e2abd1aa4023e0a33e82c873e5f2",
+  "inventoryLockMatches": true,
+  "evidenceFilesChecked": 92,
+  "hashErrors": [],
+  "investigated": 25,
+  "missingTextPackages": [
+    "@better-auth/utils@0.5.0",
+    "@humanfs/types@0.15.0",
+    "@prisma/dev@0.24.17",
+    "@types/json5@0.0.29",
+    "client-only@0.0.1",
+    "language-subtag-registry@0.3.23",
+    "language-tags@1.0.9",
+    "natural-compare@1.4.0",
+    "stable-hash@0.0.5"
+  ],
+  "activeLicense": "MIT",
+  "rootLockLicense": "MIT",
+  "stagedAgplSha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0"
+}

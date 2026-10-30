@@ -39,3 +39,7 @@ Do not change published answer options casually: existing attempts refer to opti
 `bankQuestionSchema` requires 4–5 distinct options, exactly one correct option, a substantive stem/explanation, a rationale for each choice, an objective, takeaways, a topic, approved taxonomy, linked references, attribution, license, and explicit AI/unreviewed provenance. Structural validation cannot establish medical truth or plausible distractors. Normalized exact and trigram Jaccard similarity checks quarantine candidate duplicates at >=0.65; human review must also detect semantic duplicates and topic overconcentration.
 
 No credentials, patient data, proprietary content, or paid API is needed for authoring. Vignettes are synthetic. These items are educational exercises and should not direct individual patient care.
+
+## Phase 2 saved-version and rights controls
+
+The earlier milestone notes above describe historical behavior. Current local source adds a separate rights-evidence workflow: no CC declaration or PUBLISHED flag alone establishes delivery/export authority. Admin edits/import replacements with attempts or linked study references require a new code, preserving the original options and derivatives; unchanged retries and create-only seeding retain stored data. Rights approval does not remove medical-unreviewed labels or quality holds. These controls are not deployed; do not treat the hosted bank as migrated. See [CONTENT_RIGHTS_ENFORCEMENT](CONTENT_RIGHTS_ENFORCEMENT.md).

@@ -1,3 +1,4 @@
+import { approveFixtureRights } from '../fixtures/rights';
 import { beforeAll, describe, expect, it } from 'vitest';
 import { exportMyData } from '@/lib/account';
 import * as admin from '@/lib/admin';
@@ -163,13 +164,14 @@ describe('content administration and roles (T2, T11)', () => {
 
     await admin.setStatus(editor, qid, 'REVIEW');
     await expect(admin.setStatus(editor, qid, 'PUBLISHED')).rejects.toMatchObject({ code: 'FORBIDDEN' });
+    await approveFixtureRights(boss, qid);
     await admin.setStatus(boss, qid, 'PUBLISHED');
     await expect(admin.updateQuestion(editor, qid, content('ed-1', { stem: 'Edited by editor after publishing?' }))).rejects.toMatchObject({ code: 'FORBIDDEN' });
     await admin.updateQuestion(boss, qid, content('ed-1', { stem: 'Admin fixed a typo in the stem?' }));
 
     const log = await db.auditLog.findMany({ where: { entityId: qid }, orderBy: { createdAt: 'asc' } });
-    expect(log.map((l) => l.action)).toEqual(['question.create', 'question.status', 'question.status', 'question.update']);
-    expect(log[3]!.diff).toMatchObject({ changed: ['stemMd'] });
+    expect(log.filter((l) => !l.action.startsWith('question.rights.')).map((l) => l.action)).toEqual(['question.create', 'question.status', 'question.status', 'question.update']);
+    expect(log.find((l) => l.action === 'question.update')!.diff).toMatchObject({ changed: ['stemMd'] });
   });
 
   it('import: dry run writes nothing; one bad row rejects the whole file; real import creates drafts', async () => {
@@ -188,6 +190,9 @@ describe('content administration and roles (T2, T11)', () => {
     expect(await db.question.count({ where: { code: { in: ['imp-1', 'imp-2'] }, status: 'DRAFT' } })).toBe(2);
     await expect(admin.importQuestions(editor, { not: 'an array' }, true)).rejects.toThrow(/JSON array/);
 
+    // An admin must explicitly approve synthetic fixture rights before an export round trip.
+    const reviewer = await makeUser('ADMIN');
+    for (const q of await db.question.findMany({where:{code:{in:['imp-1','imp-2']}}})) await approveFixtureRights(reviewer,q.id);
     // round trip: export → import is a no-op update
     const exported = (await admin.exportQuestions(editor, 'DRAFT')).filter((q) => q.code.startsWith('imp-'));
     expect((await admin.importQuestions(editor, exported, true))).toMatchObject({ created: 0, updated: 2, errors: [] });

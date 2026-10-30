@@ -1,6 +1,7 @@
 // Study plan: settings + generated daily tasks. Progress is measured from real answers, not self-reported.
 import { z } from 'zod';
 import { db } from './db';
+import { deliverableQuestion } from './content-rights';
 import { AppError } from './errors';
 import { generatePlan, utcDay } from './planner';
 
@@ -20,7 +21,7 @@ export const planSchema = z.object({
 async function unusedBySystem(userId: string, examId: string | null) {
   const rows = await db.question.groupBy({
     by: ['systemId'],
-    where: { status: 'PUBLISHED', ...(examId ? { examId } : {}), responses: { none: { userId } } },
+    where: { ...deliverableQuestion, ...(examId ? { examId } : {}), responses: { none: { userId } } },
     _count: true,
     orderBy: { _count: { systemId: 'desc' } },
   });

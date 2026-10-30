@@ -63,7 +63,19 @@ test.describe('content administration (T11)', () => {
     await page.getByRole('button', { name: 'Submit for review' }).click();
     await expect(page.getByText('Moved to review.')).toBeVisible();
     await page.getByRole('button', { name: 'Publish' }).click();
+    await expect(page.getByText('Verified rights and explicit delivery permission are required before publication.')).toBeVisible();
+    await page.getByLabel('Rights holder', { exact: true }).fill('Synthetic browser fixture');
+    await page.getByLabel('Authorization evidence reference').fill('Disposable browser regression fixture only; no real content rights granted.');
+    await page.getByRole('button', { name: 'Submit rights evidence' }).click();
+    await expect(page.getByText('PENDING', { exact: true })).toBeVisible();
+    await page.getByLabel('Rights decision reason').fill('Reviewed synthetic browser fixture for this isolated test.');
+    await page.getByLabel('Evidence permits learner delivery on this instance').check();
+    await page.getByLabel('Evidence permits content redistribution and exports').check();
+    await page.getByRole('button', { name: 'Verify rights', exact: true }).click();
+    await expect(page.getByText('VERIFIED', { exact: true })).toBeVisible();
+    await page.getByRole('button', { name: 'Publish' }).click();
     await expect(page.getByText('Moved to published.')).toBeVisible();
+    const editUrl = page.url();
 
     await page.goto('/admin/audit');
     await expect(page.getByText('question.create').first()).toBeVisible();
@@ -71,5 +83,14 @@ test.describe('content administration (T11)', () => {
     await page.goto(`/questions?q=${encodeURIComponent('diuretics')}`);
     await expect(page.getByText(code)).toBeVisible();
     expect(alerted).toBe(false);
+    await page.goto(editUrl);
+    await page.getByLabel('Rights decision reason').fill('Synthetic fixture dispute to verify immediate withdrawal.');
+    await page.getByRole('button', { name: 'Dispute rights', exact: true }).click();
+    await expect(page.getByText('DISPUTED', { exact: true })).toBeVisible();
+    const response = await page.request.get('/api/admin/export');
+    expect(response.status()).toBe(200);
+    expect((await response.json()).some((q: {code: string}) => q.code === code)).toBe(false);
+    await page.goto('/questions?q=diuretics');
+    await expect(page.getByText(code, { exact: true })).toHaveCount(0);
   });
 });

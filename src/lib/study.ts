@@ -4,11 +4,12 @@ import { db } from './db';
 import { AppError } from './errors';
 import { renderMarkdown } from './markdown';
 import { schedule, type Rating } from './srs';
+import { deliverableQuestion, deliverableCard } from './content-rights';
 
 const id = z.string().min(1).max(64);
 
 async function publishedQuestion(questionId: string) {
-  const q = await db.question.findFirst({ where: { id: questionId, status: 'PUBLISHED' }, select: { id: true, stemMd: true, objective: true, explanationMd: true, options: { where: { isCorrect: true }, select: { text: true } } } });
+  const q = await db.question.findFirst({ where: { id: questionId, ...deliverableQuestion }, select: { id: true, stemMd: true, objective: true, explanationMd: true, options: { where: { isCorrect: true }, select: { text: true } } } });
   if (!q) throw new AppError('NOT_FOUND', 'Question not found.');
   return q;
 }
@@ -129,7 +130,7 @@ export async function reviewCard(userId: string, rawId: unknown, rawRating: unkn
   const rating = z.union([z.literal(1), z.literal(2), z.literal(3), z.literal(4)]).parse(rawRating) as Rating;
   const durationMs = z.number().int().min(0).max(3_600_000).catch(0).parse(rawMs);
   return db.$transaction(async (tx) => {
-    const c = await tx.card.findFirst({ where: { id: cardId, userId } });
+    const c = await tx.card.findFirst({ where: { id: cardId, userId, ...deliverableCard } });
     if (!c) throw new AppError('NOT_FOUND', 'Card not found.');
     const next = schedule(c, rating);
     await tx.card.update({ where: { id: c.id }, data: next });
@@ -141,7 +142,7 @@ export async function reviewCard(userId: string, rawId: unknown, rawRating: unkn
 export async function dueCards(userId: string, limit = 50) {
   const now = new Date();
   const [due, total, reviewedToday] = await Promise.all([
-    db.card.findMany({ where: { userId, suspended: false, due: { lte: now } }, orderBy: { due: 'asc' }, take: limit }),
+    db.card.findMany({ where: { userId, suspended: false, due: { lte: now }, ...deliverableCard }, orderBy: { due: 'asc' }, take: limit }),
     db.card.count({ where: { userId } }),
     db.cardReview.count({ where: { userId, reviewedAt: { gte: new Date(new Date().setHours(0, 0, 0, 0)) } } }),
   ]);

@@ -1,4 +1,6 @@
 import type { NextConfig } from 'next';
+// @ts-expect-error Audit-only JavaScript plugin has no application types or runtime dependency.
+import ComplianceStatsPlugin from './scripts/webpack-compliance-plugin.mjs';
 
 const isDev = process.env.NODE_ENV !== 'production';
 
@@ -19,6 +21,10 @@ const csp = [
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
+  webpack(config, { isServer, nextRuntime }) {
+    if (process.env.OPENPREP_COMPLIANCE_STATS === '1') config.plugins.push(new ComplianceStatsPlugin(isServer ? `server-${nextRuntime ?? 'node'}` : 'browser'));
+    return config;
+  },
   async headers() {
     return [
       {

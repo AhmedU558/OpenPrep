@@ -1,0 +1,1039 @@
+{
+  "baseline": "f5c4aef26e5b59965660236665494e02084c96d2",
+  "scope": "Tracked and non-ignored untracked repository files only. Ignored generated/install/deployment scratch is excluded. No deleted tracked files.",
+  "summary": {
+    "created": 35,
+    "modified": 16,
+    "unchanged": 206
+  },
+  "files": [
+    {
+      "file": ".env.example",
+      "status": "modified"
+    },
+    {
+      "file": ".github/dependabot.yml",
+      "status": "created"
+    },
+    {
+      "file": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "status": "created"
+    },
+    {
+      "file": ".github/ISSUE_TEMPLATE/config.yml",
+      "status": "created"
+    },
+    {
+      "file": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "status": "created"
+    },
+    {
+      "file": ".github/ISSUE_TEMPLATE/security_report.md",
+      "status": "created"
+    },
+    {
+      "file": ".github/PULL_REQUEST_TEMPLATE.md",
+      "status": "created"
+    },
+    {
+      "file": ".github/workflows/ci.yml",
+      "status": "created"
+    },
+    {
+      "file": ".github/workflows/codeql.yml",
+      "status": "created"
+    },
+    {
+      "file": ".github/workflows/dependency-review.yml",
+      "status": "created"
+    },
+    {
+      "file": ".gitignore",
+      "status": "modified"
+    },
+    {
+      "file": "CODE_OF_CONDUCT.md",
+      "status": "created"
+    },
+    {
+      "file": "content/bank/author.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/batch-01.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/batch-02.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/batch-03.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/batch-04.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/batch-05.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/batch-06.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/batch-07.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/batch-08.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/batch-09.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/batch-10.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/batch-11.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/batch-12.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/batch-13.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/batch-14.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/batch-15.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/batch-16.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/generated/batch-09.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/generated/batch-10.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/generated/batch-11.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/generated/batch-12.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/generated/batch-13.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/generated/batch-14.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/generated/batch-15.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/generated/batch-16.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/independent-review.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/reports/batch-09.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/reports/batch-10.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/reports/batch-11.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/reports/batch-12.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/reports/batch-13.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/reports/batch-14.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/reports/batch-15.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/reports/batch-16.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/reports/final-verification.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/semantic-decisions.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/expansion/types.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/generated/batch-01.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/generated/batch-02.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/generated/batch-03.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/generated/batch-04.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/generated/batch-05.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/generated/batch-06.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/generated/batch-07.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/generated/batch-08.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/reports/batch-01.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/reports/batch-02.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/reports/batch-03.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/reports/batch-04.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/reports/batch-05.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/reports/batch-06.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/reports/batch-07.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/reports/batch-08.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/reports/database-verification.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/spec.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "content/bank/taxonomy.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "CONTRIBUTING.md",
+      "status": "modified"
+    },
+    {
+      "file": "docker-compose.yml",
+      "status": "unchanged"
+    },
+    {
+      "file": "docker/init-test-db.sql",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/architecture.md",
+      "status": "modified"
+    },
+    {
+      "file": "docs/audit/content-provenance.json",
+      "status": "created"
+    },
+    {
+      "file": "docs/audit/dependency-inventory.json",
+      "status": "created"
+    },
+    {
+      "file": "docs/audit/dependency-inventory.md",
+      "status": "created"
+    },
+    {
+      "file": "docs/audit/file-changes.json",
+      "status": "created"
+    },
+    {
+      "file": "docs/audit/file-changes.md",
+      "status": "created"
+    },
+    {
+      "file": "docs/audit/npm-advisories.json",
+      "status": "created"
+    },
+    {
+      "file": "docs/audit/secret-scan.json",
+      "status": "created"
+    },
+    {
+      "file": "docs/audit/THIRD_PARTY_LICENSE_TEXTS.md",
+      "status": "created"
+    },
+    {
+      "file": "docs/audit/validation.json",
+      "status": "created"
+    },
+    {
+      "file": "docs/CONTENT_LICENSING_POLICY.md",
+      "status": "created"
+    },
+    {
+      "file": "docs/content-format.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/content-policy.md",
+      "status": "modified"
+    },
+    {
+      "file": "docs/deployment.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/feature-matrix.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/final-report.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/GITHUB_CONFIGURATION.md",
+      "status": "created"
+    },
+    {
+      "file": "docs/implementation-plan.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/licenses/AGPL-3.0.txt",
+      "status": "created"
+    },
+    {
+      "file": "docs/LICENSING_AUDIT.md",
+      "status": "created"
+    },
+    {
+      "file": "docs/OPEN_SOURCE_INITIAL_AUDIT.md",
+      "status": "created"
+    },
+    {
+      "file": "docs/OPEN_SOURCE_READINESS.md",
+      "status": "created"
+    },
+    {
+      "file": "docs/product-requirements.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/progress.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/question-bank-content-quality.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/question-bank-progress.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/question-bank-roadmap.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/question-content-policy.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/question-difficulty-rubric.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/question-import-format.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/rea-skill-audit.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "docs/SECURITY_AUDIT.md",
+      "status": "created"
+    },
+    {
+      "file": "docs/TRADEMARK_POLICY.md",
+      "status": "created"
+    },
+    {
+      "file": "e2e/auth.spec.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "e2e/global-setup.ts",
+      "status": "modified"
+    },
+    {
+      "file": "e2e/helpers.ts",
+      "status": "modified"
+    },
+    {
+      "file": "e2e/practice.spec.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "e2e/question-bank.spec.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "e2e/responsive-a11y.spec.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "e2e/security-admin.spec.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "eslint.config.mjs",
+      "status": "modified"
+    },
+    {
+      "file": "GOVERNANCE.md",
+      "status": "created"
+    },
+    {
+      "file": "legacy/app.js",
+      "status": "unchanged"
+    },
+    {
+      "file": "legacy/index.html",
+      "status": "unchanged"
+    },
+    {
+      "file": "legacy/package.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "legacy/questions.js",
+      "status": "unchanged"
+    },
+    {
+      "file": "legacy/README.md",
+      "status": "unchanged"
+    },
+    {
+      "file": "legacy/server.js",
+      "status": "unchanged"
+    },
+    {
+      "file": "legacy/test.js",
+      "status": "unchanged"
+    },
+    {
+      "file": "LICENSE",
+      "status": "unchanged"
+    },
+    {
+      "file": "next.config.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "NOTICE",
+      "status": "created"
+    },
+    {
+      "file": "package-lock.json",
+      "status": "modified"
+    },
+    {
+      "file": "package.json",
+      "status": "modified"
+    },
+    {
+      "file": "playwright.config.ts",
+      "status": "modified"
+    },
+    {
+      "file": "postcss.config.mjs",
+      "status": "unchanged"
+    },
+    {
+      "file": "prisma.config.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "prisma/migrations/20261028211249_init/migration.sql",
+      "status": "unchanged"
+    },
+    {
+      "file": "prisma/migrations/20261028211741_session_position_since/migration.sql",
+      "status": "unchanged"
+    },
+    {
+      "file": "prisma/migrations/20261028212245_guest_accounts/migration.sql",
+      "status": "unchanged"
+    },
+    {
+      "file": "prisma/migrations/migration_lock.toml",
+      "status": "unchanged"
+    },
+    {
+      "file": "prisma/schema.prisma",
+      "status": "unchanged"
+    },
+    {
+      "file": "prisma/seed-data/multiple.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "prisma/seed.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "README.md",
+      "status": "modified"
+    },
+    {
+      "file": "scripts/audit-bank.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "scripts/audit-open-source.mjs",
+      "status": "created"
+    },
+    {
+      "file": "scripts/bank-baseline.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "scripts/expansion-batch.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "scripts/question-bank.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "scripts/report-expansion.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "scripts/test-database.ts",
+      "status": "created"
+    },
+    {
+      "file": "scripts/verify-bank.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "SECURITY.md",
+      "status": "modified"
+    },
+    {
+      "file": "src/app/(app)/(main)/create/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(app)/(main)/dashboard/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(app)/(main)/flashcards/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(app)/(main)/loading.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(app)/(main)/notebook/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(app)/(main)/performance/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(app)/(main)/planner/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(app)/(main)/questions/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(app)/(main)/settings/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(app)/(main)/tests/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(app)/layout.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(app)/test/[id]/results/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(auth)/forgot-password/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(auth)/layout.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(auth)/login/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(auth)/register/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(auth)/reset-password/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(exam)/layout.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/(exam)/test/[id]/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/actions/account.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/actions/admin.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/actions/exam.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/actions/notebook.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/actions/plan.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/actions/study.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/admin/audit/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/admin/import/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/admin/layout.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/admin/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/admin/questions/[id]/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/admin/questions/new/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/admin/questions/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/admin/reports/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/admin/taxonomy/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/admin/users/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/api/admin/export/route.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/api/ai/ask/route.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/api/auth/[...all]/route.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/api/export/me/route.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/api/export/plan/route.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/api/export/progress/route.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/error.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/globals.css",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/layout.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/not-found.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/app/page.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/admin/admin-widgets.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/admin/question-editor.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/auth-forms.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/breakdown-table.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/charts.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/create-test-form.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/exam/exam-screen.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/exam/explanation.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/exam/tools.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/flashcards-ui.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/logo.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/nav-links.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/notebook-ui.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/planner-ui.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/prefs-controls.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/question-browser.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/results-actions.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/settings-ui.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/ui.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/components/user-menu.tsx",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/account.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/admin.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/ai.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/analytics.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/auth-client.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/auth.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/bank-expansion.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/calc.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/db.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/env.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/errors.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/exam/machine.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/exam/scoring.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/exam/service.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/log.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/mail.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/markdown.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/notebook.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/plan.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/planner.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/question-bank.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/questions.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/session.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/srs.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/study.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/validation/content.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "src/lib/validation/exam.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "SUPPORT.md",
+      "status": "created"
+    },
+    {
+      "file": "tests/global-setup.ts",
+      "status": "modified"
+    },
+    {
+      "file": "tests/integration/bank-expansion.test.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "tests/integration/exam.test.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "tests/integration/features.test.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "tests/integration/helpers.ts",
+      "status": "modified"
+    },
+    {
+      "file": "tests/integration/question-bank.test.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "tests/setup.ts",
+      "status": "modified"
+    },
+    {
+      "file": "tests/unit/bank-expansion.test.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "tests/unit/content-and-analytics.test.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "tests/unit/exam-engine.test.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "tests/unit/learning-tools.test.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "tests/unit/question-bank.test.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "tests/unit/test-database.test.ts",
+      "status": "created"
+    },
+    {
+      "file": "THIRD_PARTY_NOTICES.md",
+      "status": "created"
+    },
+    {
+      "file": "tsconfig.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "vercel.json",
+      "status": "unchanged"
+    },
+    {
+      "file": "vitest.config.ts",
+      "status": "unchanged"
+    },
+    {
+      "file": "vitest.unit.config.ts",
+      "status": "created"
+    }
+  ]
+}

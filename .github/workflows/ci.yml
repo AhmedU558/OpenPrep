@@ -1,0 +1,57 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    services:
+      mail:
+        image: axllent/mailpit:v1.27
+        ports: ['127.0.0.1:1025:1025', '127.0.0.1:8025:8025']
+      postgres:
+        image: postgres:17-alpine
+        env:
+          POSTGRES_USER: openprep
+          POSTGRES_PASSWORD: ci_disposable_only
+          POSTGRES_DB: openprep_test
+        ports: ['127.0.0.1:5432:5432']
+        options: >-
+          --health-cmd "pg_isready -U openprep -d openprep_test"
+          --health-interval 5s --health-timeout 5s --health-retries 12
+    env:
+      DATABASE_URL: postgresql://openprep:ci_disposable_only@127.0.0.1:5432/openprep
+      TEST_DATABASE_URL: postgresql://openprep:ci_disposable_only@127.0.0.1:5432/openprep_test
+      BETTER_AUTH_SECRET: ci-disposable-placeholder-never-use-for-hosting
+      BETTER_AUTH_URL: http://localhost:3000
+      SMTP_HOST: 127.0.0.1
+      SMTP_PORT: '1025'
+      AI_PROVIDER: ''
+      PW_CHANNEL: chromium
+      NEXT_TELEMETRY_DISABLED: '1'
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: '24.22.1'
+          cache: npm
+      - run: npm ci
+      - run: npx prisma generate
+      - run: npm run lint
+      - run: npm run typecheck
+      - run: npm run test:unit
+      - run: npm run compliance:test
+      - run: npm test
+      - run: node legacy/test.js
+      - run: npm run build -- --webpack
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:e2e

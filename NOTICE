@@ -1,0 +1,19 @@
+OpenPrep — licensing transition pending
+
+The existing software license remains MIT in the root LICENSE. Its existing
+copyright notice, "Copyright (c) 2026 OpenPrep contributors", is retained;
+it has not been independently verified or reassigned by this audit.
+
+AGPL-3.0-only is the proposed future software license. The official text at
+docs/licenses/AGPL-3.0.txt is a reference, not an operative license grant for
+OpenPrep. Ownership and contributor permissions require review before activation.
+No ownership is assigned to Ahmed Umer or Aqvion Labs by these changes.
+
+Educational prose is separate from software. Bundled content retains its
+recorded CC-BY-SA-4.0 declarations; the owner confirmed redistribution rights
+on 2026-10-30, but supporting provenance evidence remains to be reviewed.
+Third-party works retain their own licenses, notices and attribution.
+OpenPrep branding is addressed separately in docs/TRADEMARK_POLICY.md.
+
+See docs/LICENSING_AUDIT.md, docs/CONTENT_LICENSING_POLICY.md and
+THIRD_PARTY_NOTICES.md for scope, evidence and unresolved decisions.

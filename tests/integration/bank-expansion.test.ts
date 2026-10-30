@@ -1,3 +1,4 @@
+import { approveFixtureRights } from '../fixtures/rights';
 import {beforeAll,expect,it} from 'vitest';
 import {db} from '@/lib/db';
 import {exportQuestions,importQuestions,setStatus} from '@/lib/admin';
@@ -18,6 +19,7 @@ it('persists the accepted subset of a 100-item batch and safely skips its identi
   const before=await db.question.findMany({where:{code:{startsWith:'op26x-'}},orderBy:{code:'asc'},include:{options:{orderBy:{position:'asc'}}}});
   expect((await importQuestions(actor,accepted,false,true)).skipped).toBe(94);
   expect(await db.question.findMany({where:{code:{startsWith:'op26x-'}},orderBy:{code:'asc'},include:{options:{orderBy:{position:'asc'}}}})).toEqual(before);
+  for (const q of before) await approveFixtureRights(actor,q.id);
   const exported=new Map((await exportQuestions(actor)).map(q=>[q.code,q]));
   for(const q of accepted)expect(questionContentSchema.parse(exported.get(q.code))).toEqual(questionContentSchema.parse(q));
   expect(await db.question.findMany({where:{NOT:{code:{startsWith:'op26x-'}}},orderBy:{code:'asc'},include:{options:{orderBy:{position:'asc'}}}})).toEqual(original);

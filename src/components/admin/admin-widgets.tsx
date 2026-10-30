@@ -19,7 +19,7 @@ export function ImportPanel() {
   return (
     <Card className="space-y-4">
       <h2 className="font-semibold">Import questions</h2>
-      <p className="text-sm text-muted">Upload a JSON array in the documented format (docs/content-format.md). Run a dry run first: nothing is saved until every row is valid. Imported questions arrive as drafts.</p>
+      <p className="text-sm text-muted">Upload a JSON array in the documented format (docs/content-format.md). Run a dry run first: nothing is saved until every row is valid. Imports cannot grant rights approval. New questions arrive as unverified drafts; changed content requires renewed rights review. Exports include only verified content with explicit export permission.</p>
       <input type="file" accept="application/json,.json" aria-label="Question file" className="text-sm" onChange={async (e) => {
         const f = e.target.files?.[0];
         setReport(null); setErr('');

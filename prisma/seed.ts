@@ -31,6 +31,8 @@ export async function seed(db: PrismaClient) {
   const systems = new Map((await db.system.findMany()).map((s) => [s.name, s.id]));
 
   for (const q of all) {
+    // Never rewrite an existing question, its license, rights decision or historical option IDs.
+    if (await db.question.findUnique({ where: { code: q.id }, select: { id: true } })) continue;
     const correct = new Set(q.answers ?? [q.answer!]);
     const data = {
       type: correct.size > 1 ? ('MULTIPLE' as const) : ('SINGLE' as const),
@@ -52,8 +54,7 @@ export async function seed(db: PrismaClient) {
       publishedAt: new Date(),
     };
     await db.$transaction(async (tx) => {
-      const row = await tx.question.upsert({ where: { code: q.id }, update: data, create: { code: q.id, ...data } });
-      await tx.option.deleteMany({ where: { questionId: row.id } });
+      const row = await tx.question.create({ data: { code: q.id, ...data } });
       await tx.option.createMany({
         data: q.choices.map((text, position) => ({ questionId: row.id, position, text, isCorrect: correct.has(position) })),
       });

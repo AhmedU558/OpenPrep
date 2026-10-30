@@ -1,0 +1,6 @@
+* text=auto
+
+# Preserve exact retrieved and hashed compliance evidence bytes across platforms.
+docs/audit/** -text
+docs/licenses/** -text
+docs/SBOM_*.json -text

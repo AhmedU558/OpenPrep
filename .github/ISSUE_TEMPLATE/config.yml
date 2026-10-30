@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security reporting status (private channel pending)
+    url: https://github.com/AhmedU558/OpenPrep/blob/main/SECURITY.md
+    about: Do not report vulnerabilities in a public issue. Read the current reporting status.

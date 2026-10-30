@@ -1,0 +1,132 @@
+{
+  "package": "sharp@0.35.5",
+  "registryIdentityVerified": true,
+  "registryUrl": "https://registry.npmjs.org/sharp/0.35.5",
+  "source": "https://registry.npmjs.org/sharp/-/sharp-0.35.5.tgz",
+  "integrity": "sha512-Ywn4OnzGukp7CDMrp08RQ50YKmuwG47brZgIVPTvBaaAfQlRlygrRqSrxdCiL9M+LlzLBiJ68IR1QqvzHyjC7g==",
+  "integrityVerified": true,
+  "publisherCommit": "51a990faa26ade5586a4934ac9673c98d8893326",
+  "repository": {
+    "url": "git+https://github.com/lovell/sharp.git",
+    "type": "git"
+  },
+  "licenseDeclaration": "Apache-2.0",
+  "licenseTexts": [
+    {
+      "kind": "exact npm artifact license/notice",
+      "archiveMember": "package/LICENSE",
+      "sourceUrl": "https://registry.npmjs.org/sharp/-/sharp-0.35.5.tgz",
+      "sha256": "73ba74dfaa520b49a401b5d21459a8523a146f3b7518a833eea5efa85130bf68",
+      "file": "docs/audit/phase3-license-texts/73ba74dfaa520b49a401b5d21459a8523a146f3b7518a833eea5efa85130bf68.txt",
+      "fullGrantDetected": true
+    }
+  ],
+  "sourceFileHeaders": [
+    {
+      "path": "package/src/common.cc",
+      "sha256": "c3c56a37bb780dfd97ee53d3556d9ba3d674b1b9cf7d57caf94248f982207a75",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    },
+    {
+      "path": "package/src/metadata.cc",
+      "sha256": "a127c134c9e537db9c63962ff1aa1d0762a8d517d746a844e6b43b299e11a581",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    },
+    {
+      "path": "package/src/operations.cc",
+      "sha256": "a61e6545cde7d2f2ae508b4eceeeec9db9ef711211d5cba1ed470f9325f914fb",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    },
+    {
+      "path": "package/src/pipeline.cc",
+      "sha256": "445ed9aa726806dc01188cf13a2866ee47ccd38504cddd049e4e639703edc0e9",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    },
+    {
+      "path": "package/src/sharp.cc",
+      "sha256": "9f407b50bb2d02e5eb711b769f05d3e6659028430e055c4271e5ab1593f5a257",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    },
+    {
+      "path": "package/src/stats.cc",
+      "sha256": "72f8f2ad0e4315951c88b115511eb96741fd0479385ed094141f7bd254739791",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    },
+    {
+      "path": "package/src/utilities.cc",
+      "sha256": "91c164bb740529156e15dedbfcb4236dd2b5fbf94c7a3a4f1639929d034f700e",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    },
+    {
+      "path": "package/src/binding.gyp",
+      "sha256": "aa0750bba07e0de556ccdf1463e148a21e373ea43ac0ee622d23ad287890e658",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    },
+    {
+      "path": "package/src/common.h",
+      "sha256": "70a4f13f5e56a956edd8340066240865e39d3039157bd511930de2bf5aa17ba9",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    },
+    {
+      "path": "package/src/metadata.h",
+      "sha256": "5e02c25ec821a525b0caf31161b1e8675ff32cfd098c17cda0b888440362b057",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    },
+    {
+      "path": "package/src/operations.h",
+      "sha256": "6f41d329634471dff8e093d12e38ff356293079e2aeecc5b922fc23ba99799e6",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    },
+    {
+      "path": "package/src/pipeline.h",
+      "sha256": "e09c3dbd873071a373e6d95679b470a6fe1be5fc2ef781b00fd87958b5ab5e98",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    },
+    {
+      "path": "package/src/stats.h",
+      "sha256": "db854f0c3c4a0db1751021ed676413c6d5ca00becc08bdc13258b29047450b8c",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    },
+    {
+      "path": "package/src/utilities.h",
+      "sha256": "0b126ab63cf1aedf8e71e6cb8179899d3ef02c46419100e847b2ca4284b8901b",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    },
+    {
+      "path": "package/install/build.js",
+      "sha256": "fea92e0d55cce8692413c479021173aa1512304e1b849039949cbee9d6ceb1de",
+      "spdx": [
+        "Apache-2.0"
+      ]
+    }
+  ],
+  "buildCorrespondence": "NOT_VERIFIED; addon/libvips platform artifacts reviewed separately."
+}

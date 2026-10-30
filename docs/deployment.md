@@ -1,5 +1,9 @@
 # Vercel deployment
 
+## Repository merge hold — 2026-10-30
+
+Git-triggered deployments are disabled by `git.deploymentEnabled: false` in `vercel.json`, including previews. The hardening PR can merge without deploying the additive rights migration or changing the existing hosted application. Do not remove this hold until the release blockers are resolved and deployment plus production migration are explicitly authorized. No existing database migration or Vercel account setting is changed by this configuration. See [Vercel Git configuration](https://vercel.com/docs/project-configuration/git-configuration#turning-off-all-automatic-deployments) and [release readiness](PHASE_3_READINESS.md).
+
 Production address: https://openprep-amber.vercel.app
 
 The `openprep` project belongs to the `ahmedu558` Vercel team and is connected to `AhmedU558/OpenPrep`, production branch `main`. Application functions and the `openprep-postgres-sin1` Neon PostgreSQL database use **Singapore (`sin1`)**, selected for proximity to Pakistan and to keep application/database queries within one region. Vercel's build machines and global CDN may operate elsewhere.

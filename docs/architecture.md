@@ -4,18 +4,18 @@
 | Layer | Choice | Version | License | Why |
 |---|---|---|---|---|
 | Framework | Next.js (App Router) + React | 16.4.1 / 19.3.1 | MIT | One deployable app containing server components, route handlers and server actions. |
-| Language | TypeScript | 7.0.2 | Apache-2.0 | Strict typing across client, server and database. |
+| Language | TypeScript | 6.0.3 | Apache-2.0 | Strict typing across client, server and database. |
 | Styling | Tailwind CSS | 4.3.3 | MIT | Design tokens as CSS variables; light and dark themes. |
 | Database | PostgreSQL 17 (Docker) | — | PostgreSQL License | Open source and self-hostable; full-text search; transactions. |
-| ORM | Prisma + `@prisma/adapter-pg` / `pg` | 7.10.0 / 8.23.1 | Apache-2.0 / MIT | Migrations, typed queries, seed scripts. |
+| ORM | Prisma + `@prisma/adapter-pg` / `pg` | 7.10.1 / 8.23.1 | Apache-2.0 / MIT | Migrations, typed queries, seed scripts. |
 | Auth | Better Auth (email + password, DB sessions) | 1.7.8 | MIT | Maintained; scrypt password hashing; session cookies; password reset; rate limiting. |
 | Validation | Zod | 4.6.7 | MIT | One schema for each input, checked on the server. |
 | Markdown | marked + isomorphic-dompurify | 18.1.1 / 4.5.0 | MIT | Question text is Markdown and is sanitized before it is rendered (XSS boundary). |
-| Email | Nodemailer → SMTP; Mailpit locally | 10.1.1 | MIT-0 | No paid email service needed for development. |
+| Email | Nodemailer → SMTP; Mailpit locally | 10.3.1 | MIT-0 | No paid email service needed for development. |
 | Charts | Recharts | 3.10.1 | MIT | Performance graphs. |
 | Tests | Vitest, Playwright, @axe-core/playwright | 5.0.4 / 1.64.1 / 4.13.0 | MIT / Apache-2.0 / MPL-2.0 | Unit, integration and E2E tests, plus accessibility checks. MPL-2.0 applies only to test code that is not shipped. |
 
-All runtime dependencies are permissively licensed (MIT, Apache-2.0, MIT-0). Run `npm ls --all --long` or `npx license-checker --summary` to audit the full tree.
+Direct package licenses do not describe the full dependency tree. Transitive native libraries/tooling include LGPL, MPL, EPL and compound terms. See the [full inventory](audit/dependency-inventory.md) and [licensing audit](LICENSING_AUDIT.md); regenerate offline with node scripts/audit-open-source.mjs. No compatibility certification is implied.
 
 ## Layout
 ```
@@ -46,7 +46,7 @@ src/
     planner.ts           deterministic study-plan generator (pure)
     analytics.ts         aggregate queries
     markdown.ts          sanitized Markdown → HTML
-    ai/                  provider abstraction (none | ollama | openai-compatible)
+    ai.ts                provider abstraction (none | ollama | openai-compatible)
 tests/                   Vitest unit + integration tests (integration tests use a test DB)
 e2e/                     Playwright specs
 legacy/                  the earlier zero-dependency app, kept for reference
@@ -71,15 +71,15 @@ Indexes: `Question(examId, status)`, `Question(subjectId)`, `Question(systemId)`
 
 ## Security model
 - Every data query is scoped `where: { userId: session.user.id }`, done centrally in service functions (IDOR protection). Admin routes call `requireRole('EDITOR' | 'ADMIN')` on the server.
-- Server actions and route handlers validate all input with Zod. Prisma parameterizes queries. The only raw SQL is full-text search, written with `$queryRaw` tagged templates.
+- Server actions and route handlers use Zod and scoped service boundaries. Prisma parameterizes queries; tagged SQL also covers search, analytics and exam row locking. See the security audit for review limits.
 - Markdown is sanitized with DOMPurify before rendering. React escapes everything else. CSP headers are set in `next.config.ts`.
-- Cookies are `httpOnly`, `SameSite=Lax`, and `Secure` in production. Next.js server actions check the Origin header (CSRF), and route handlers check it too.
+- Auth cookie behavior follows Better Auth and the configured HTTPS origin. Next.js server actions and Better Auth provide origin checks; the AI POST route has no additional explicit origin check and needs dedicated cross-origin verification.
 - Better Auth rate-limits sign-in, sign-up and reset. Password reset tokens are single-use and expire.
 - The logger redacts `password`, `token`, `cookie`, `authorization` and email addresses.
-- Uploads accept only PNG, JPEG, WebP and GIF, at most 2 MB. Content type is checked by magic bytes and files are stored with random names.
+- No image-upload endpoint is implemented. Content imports can reference image URLs/paths; rights, origin restrictions and privacy require review.
 
 ## AI provider abstraction (optional)
-`lib/ai/index.ts` exports `getProvider()`, which returns `null` when `AI_PROVIDER` is unset. The "Ask" panel renders only when a provider exists, so the core app never depends on AI. Built-in options are Ollama (local and free; it runs on your own hardware) and any OpenAI-compatible endpoint the user configures. Hosted inference usually costs money, and the UI says so.
+`src/lib/ai.ts` exports `getProvider()`, which returns `null` when `AI_PROVIDER` is unset. The "Ask" panel renders only when a provider exists, so the core app never depends on AI. Built-in options are Ollama (local and free; it runs on your own hardware) and any OpenAI-compatible endpoint the user configures. Hosted inference usually costs money, and the UI says so.
 
 ## Costs (be explicit)
 The software is free. **Hosting is not automatically free.** A public deployment needs a server or PaaS, a PostgreSQL database, a domain (optional) and SMTP delivery for password reset. Free tiers exist, but they change and are not guaranteed. Local use costs nothing.

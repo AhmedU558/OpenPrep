@@ -1,12 +1,14 @@
 import type { Prisma } from '@/generated/prisma/client';
 import { db } from './db';
 import type { Filters } from './validation/exam';
+import { deliverableQuestion } from './content-rights';
 
 // ponytail: full-text search computes to_tsvector per query (no index); add a generated tsvector column + GIN index past ~50k questions
 export async function searchIds(q: string): Promise<string[]> {
   const rows = await db.$queryRaw<{ id: string }[]>`
     SELECT id FROM question
     WHERE status = 'PUBLISHED'
+      AND "rightsStatus" = 'VERIFIED' AND "rightsAllowDelivery" = true
       AND to_tsvector('english', "stemMd" || ' ' || "explanationMd" || ' ' || coalesce(objective, ''))
           @@ websearch_to_tsquery('english', ${q})
     LIMIT 5000`;
@@ -15,7 +17,7 @@ export async function searchIds(q: string): Promise<string[]> {
 
 /** Published questions matching the filters. `userId` scopes the personal pools (unused, incorrect, ...). */
 export async function questionWhere(userId: string | null, f: Filters): Promise<Prisma.QuestionWhereInput> {
-  const where: Prisma.QuestionWhereInput = { status: 'PUBLISHED' };
+  const where: Prisma.QuestionWhereInput = { ...deliverableQuestion };
   if (f.examIds.length) where.examId = { in: f.examIds };
   if (f.subjectIds.length) where.subjectId = { in: f.subjectIds };
   if (f.systemIds.length) where.systemId = { in: f.systemIds };
@@ -41,6 +43,7 @@ export type Facet = { id: string; name: string; count: number };
 
 /** Taxonomy with counts of matching questions, for the filter sidebar. */
 export async function facets(where: Prisma.QuestionWhereInput): Promise<Facets> {
+  where = { AND: [where, deliverableQuestion] };
   const [exams, subjects, systems, topics, byExam, bySubject, bySystem, byTopic] = await Promise.all([
     db.exam.findMany({ orderBy: { position: 'asc' } }),
     db.subject.findMany({ orderBy: { name: 'asc' } }),

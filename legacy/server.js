@@ -8,6 +8,16 @@ const ROOT = __dirname;
 const DATA = path.join(ROOT, 'data', 'progress.json');
 const PORT = +process.env.PORT || 8642;
 const LAN = process.argv.includes('--lan');
+function requireLanRights() {
+  const { createHash } = require('crypto');
+  const { distributionAllowed } = require('../scripts/check-content-distribution.mjs');
+  const approvals = JSON.parse(fs.readFileSync(path.join(ROOT, '../docs/audit/content-distribution-approvals.json'), 'utf8')).approvals;
+  const digest = createHash('sha256').update(fs.readFileSync(path.join(ROOT, 'questions.js'))).digest('hex');
+  if (!distributionAllowed('legacy/questions.js', digest, approvals, 'hosted') || !distributionAllowed('legacy/questions.js', digest, approvals, 'source')) {
+    throw new Error('Legacy LAN publication is withheld pending current hosted and redistribution rights evidence. Local mode remains available.');
+  }
+}
+if (LAN) requireLanRights();
 const TYPES = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.css': 'text/css', '.json': 'application/json', '.md': 'text/plain; charset=utf-8', '.png': 'image/png', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.gif': 'image/gif', '.svg': 'image/svg+xml', '.webp': 'image/webp' };
 
 const read = () => { try { return JSON.parse(fs.readFileSync(DATA, 'utf8')); } catch { return {}; } };
@@ -20,8 +30,13 @@ const send = (res, code, body, type = 'application/json') => { res.writeHead(cod
 
 http.createServer((req, res) => {
   const url = new URL(req.url, 'http://localhost');
+  if (LAN) {
+    try { requireLanRights(); }
+    catch { return send(res, 403, { error: 'Legacy content rights are unresolved or the approved file changed.' }); }
+  }
 
   if (url.pathname === '/api/progress') {
+    if (LAN && read().custom?.length) return send(res, 403, { error: 'Custom content requires the main application rights-review workflow. Stored data is preserved.' });
     if (req.method === 'GET') return send(res, 200, read());
     if (req.method !== 'POST') return send(res, 405, { error: 'GET or POST' });
     let body = '';
@@ -30,6 +45,7 @@ http.createServer((req, res) => {
       let incoming;
       try { incoming = JSON.parse(body); } catch { return send(res, 400, { error: 'invalid JSON' }); }
       if (!incoming || typeof incoming !== 'object' || Array.isArray(incoming)) return send(res, 400, { error: 'expected an object' });
+      if (LAN && incoming.custom != null && JSON.stringify(incoming.custom) !== '[]') return send(res, 403, { error: 'Custom content may be used locally; LAN publication requires the main application rights-review workflow.' });
       const merged = url.searchParams.has('overwrite') ? mergeState({}, incoming) : mergeState(read(), incoming);
       write(merged);
       send(res, 200, merged);

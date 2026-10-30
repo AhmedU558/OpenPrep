@@ -2,8 +2,9 @@ import { randomUUID } from 'node:crypto';
 import { expect, type Page } from '@playwright/test';
 import { PrismaPg } from '@prisma/adapter-pg';
 import { PrismaClient } from '../src/generated/prisma/client';
+import { testDatabaseUrl } from '../scripts/test-database';
 
-export const testDb = () => new PrismaClient({ adapter: new PrismaPg({ connectionString: process.env.TEST_DATABASE_URL! }) });
+export const testDb = () => new PrismaClient({ adapter: new PrismaPg({ connectionString: testDatabaseUrl(process.env.TEST_DATABASE_URL, process.env.DATABASE_URL) }) });
 
 /** Unique throwaway credentials for a test user on the local test server. */
 export const newCreds = () => ({ name: 'E2E Learner', email: `e2e-${randomUUID()}@test.localhost`, password: `pw-${randomUUID()}` });

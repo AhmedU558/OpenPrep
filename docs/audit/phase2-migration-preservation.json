@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-30",
+  "scope": "Synthetic fixture created using prior schema in new disposable local container; all original columns/rows hashed before and after additive migration",
+  "tables": {
+    "account": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "preserved": true
+    },
+    "audit_log": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "preserved": true
+    },
+    "bookmark": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "preserved": true
+    },
+    "card": {
+      "count": 1,
+      "sha256": "d347c603a5b4b3b4c91afb975e9ef94de3fc7d0c86f8f45020affb4c52e15f6d",
+      "preserved": true
+    },
+    "card_review": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "preserved": true
+    },
+    "collection": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "preserved": true
+    },
+    "collection_item": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "preserved": true
+    },
+    "content_report": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "preserved": true
+    },
+    "exam": {
+      "count": 3,
+      "sha256": "eadc26d59a29b844700a83e8371d99bdccdd34afbf5ab84495f178415327304e",
+      "preserved": true
+    },
+    "note": {
+      "count": 1,
+      "sha256": "71fae14850405e173ed9d7c3f1116e1dddef8fdc7303aa6b72ab11c6829ee44c",
+      "preserved": true
+    },
+    "notebook_page": {
+      "count": 1,
+      "sha256": "98a3baa2fca267a3e164079751608f2e98c99784eb87a22c6fec8ee81224b977",
+      "preserved": true
+    },
+    "option": {
+      "count": 160,
+      "sha256": "f5d56ea61df7ad01172bd4f98ff37bfbd1b67866b6f1a48a44e40d3781b1dc79",
+      "preserved": true
+    },
+    "plan_task": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "preserved": true
+    },
+    "practice_exam": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "preserved": true
+    },
+    "question": {
+      "count": 32,
+      "sha256": "9178017154f3ebe0ca43b36bde8b12e789f3fda0ee4befe6ad156f704c1837c3",
+      "preserved": true
+    },
+    "question_tag": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "preserved": true
+    },
+    "response": {
+      "count": 1,
+      "sha256": "4ffccee8c358d0716dda2c3fc886400d6f481821c49b5ac74d077d80f3c9dce6",
+      "preserved": true
+    },
+    "session": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "preserved": true
+    },
+    "session_item": {
+      "count": 1,
+      "sha256": "95b5a6ed0401de2cfb0a279b22fbcdc9e072fd0950a8ca4871ca8b6bee6f6ae0",
+      "preserved": true
+    },
+    "study_plan": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "preserved": true
+    },
+    "subject": {
+      "count": 16,
+      "sha256": "d5848e6a3b35b2e1b38c756868c48cd617083a9598e38ca5d756cfd4a02bbbf2",
+      "preserved": true
+    },
+    "system": {
+      "count": 12,
+      "sha256": "c7a45100d25010ee147317bd6d74de136476c64398e23567c850a9afb41b5cb3",
+      "preserved": true
+    },
+    "test_session": {
+      "count": 1,
+      "sha256": "27d47f140e77063ea5a20425e87bbe281b554e718e66700ba4413fce8823e2c6",
+      "preserved": true
+    },
+    "topic": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "preserved": true
+    },
+    "user": {
+      "count": 1,
+      "sha256": "9df45a002650ab7271a78cec1415837d8c5f5683fc45e03aa424ab18cc7df5c0",
+      "preserved": true
+    },
+    "verification": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "preserved": true
+    }
+  },
+  "differences": [],
+  "rightsDefaults": [
+    {
+      "rightsStatus": "UNVERIFIED",
+      "count": 32
+    }
+  ]
+}
