@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-30",
+  "timezone": "Asia/Karachi",
+  "node": "v24.22.1",
+  "npm": "11.19.1",
+  "database": "New volume-free local PostgreSQL 17 container, loopback port 55432; no existing application or production database targeted",
+  "installation": {
+    "freshSourceOnly": true,
+    "envFileCopied": false,
+    "npmCiExit": 0,
+    "packagesAdded": 607,
+    "prismaGenerateExit": 0,
+    "prismaValidateExit": 0
+  },
+  "unit": {
+    "passed": 83,
+    "failed": 0,
+    "files": 6
+  },
+  "full": {
+    "passed": 112,
+    "failed": 0,
+    "success": true
+  },
+  "browser": {
+    "passed": 23,
+    "failed": 0,
+    "skipped": 0,
+    "flaky": 0,
+    "durationMs": 97928.299
+  },
+  "lintExit": 0,
+  "typecheckExit": 0,
+  "legacyExit": 0,
+  "webpackBuildExit": 0,
+  "actionlint": {
+    "version": "1.7.12",
+    "exit": 0,
+    "shellcheck": false,
+    "pyflakes": false
+  },
+  "yamlFilesParsed": 5,
+  "npmAudit": {
+    "info": 0,
+    "low": 0,
+    "moderate": 0,
+    "high": 0,
+    "critical": 0,
+    "total": 0
+  },
+  "agplReferenceSha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+  "activeSoftwareLicense": "MIT (AGPL activation blocked by owner decision)",
+  "preserved": [
+    "src/",
+    "prisma/",
+    "content/",
+    "LICENSE",
+    "vercel.json"
+  ],
+  "notRun": [
+    "Hosted workflows and CodeQL",
+    "Production deployment/smoke/load tests",
+    "Physical-device QA",
+    "Independent ownership/clinical review",
+    "Whole-artifact licensing review"
+  ],
+  "warnings": [
+    "Existing ESLint plugin peer ranges",
+    "pg concurrent-query deprecation",
+    "NO_COLOR/FORCE_COLOR",
+    "Initial sandbox startup/build failures; identical non-sandbox runs pass"
+  ],
+  "remoteChanges": false,
+  "pushed": false,
+  "committed": false
+}

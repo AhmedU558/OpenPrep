@@ -5,6 +5,7 @@ import { renderMarkdown } from '@/lib/markdown';
 import { requireUserPage } from '@/lib/session';
 import { previewIntervals } from '@/lib/srs';
 import { dueCards } from '@/lib/study';
+import { deliverableCard } from '@/lib/content-rights';
 
 export const metadata = { title: 'Flashcards' };
 
@@ -14,7 +15,7 @@ export default async function FlashcardsPage({ searchParams }: { searchParams: P
   const [{ due, total, reviewedToday }, all] = await Promise.all([
     dueCards(user.id),
     db.card.findMany({
-      where: { userId: user.id, ...(q ? { OR: [{ front: { contains: q, mode: 'insensitive' } }, { back: { contains: q, mode: 'insensitive' } }] } : {}) },
+      where: { userId: user.id, AND: [deliverableCard, ...(q ? [{ OR: [{ front: { contains: q, mode: 'insensitive' as const } }, { back: { contains: q, mode: 'insensitive' as const } }] }] : [])] },
       orderBy: { createdAt: 'desc' }, take: 100,
       select: { id: true, front: true, back: true, due: true, interval: true, suspended: true, question: { select: { code: true, subject: { select: { name: true } } } } },
     }),

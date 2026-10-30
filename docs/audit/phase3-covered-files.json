@@ -1,0 +1,1648 @@
+{
+  "scope": "Every MPL/EPL lockfile path, including duplicate versions/platforms. No whole-dependency AGPL compatibility conclusion.",
+  "packages": [
+    {
+      "package": "@axe-core/playwright@4.13.0",
+      "installPath": "node_modules/@axe-core/playwright",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "812e9d96e900a093ae4d1d3f22c5f82f568a0a0461c3007a99d00573d41c5461",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/dist/index.js",
+          "sha256": "9a4f63fad34eb93fe99dc3dde41dc21d0614e5956d524f288b029634cbd6b39d",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "b7325a3f67fbefba9f3da2e3eaec796958b919a306c4beaa8a3de73a7ed3991f",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "d237b2a27072fa9262bbcb028ec4d521366727bb138a3ccd64d5c998997cce84",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/dist/index.mjs",
+          "sha256": "2aa36f4a8f726f9a50f159ccf18babf5a80f505b2a73770053cf132ed9724922",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/dist/index.d.mts",
+          "sha256": "66ad5b01e4f530910e3c59bcf36047dad39f1669804185c0e64c8b8e44af781f",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/dist/index.d.ts",
+          "sha256": "66ad5b01e4f530910e3c59bcf36047dad39f1669804185c0e64c8b8e44af781f",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "INSTALLED_BYTES_MATCH"
+    },
+    {
+      "package": "axe-core@4.13.0",
+      "installPath": "node_modules/axe-core",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "af175b9d96ee93c21a036152e1b905b0b95304d4ae8c2c921c7609100ba8df7e",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/axe.js",
+          "sha256": "138a93a4ce7b7c6c08ed84144e45dcd8cc36d2d4ff8ed673619faf0406906d88",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/axe.min.js",
+          "sha256": "c24f097bd2f451d4f933e8bc7d8d539f8672a2ebcb5cc9f9f3eec8ca9470a0c1",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/gather-internals.js",
+          "sha256": "1de74833cfc98d7dcfe9735e282df596dd785976178f522281c6f3ffccc9ee40",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/_template.json",
+          "sha256": "2bf17b41eb5b929ca9d99f112c2358a943b14355c91c1914bc3c9517958ac82c",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/da.json",
+          "sha256": "f9b90b10ef0c8eca2dfbe1633a9b93c20cbe0e08a7168e1affb1d3e9df0adc8c",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/de.json",
+          "sha256": "be847da4dd80fac0258f35303b6c20094199783b596a650aae05bc95a34c6e3d",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/el.json",
+          "sha256": "f91a293bc32fb490cb9984d666e86f814a3f966ef86dacb913bf71d7f1737c1c",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/es.json",
+          "sha256": "c25e489d1883af7c83df95a0acebd599c3b841e36eb0224c61bebc6635f11e2b",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/eu.json",
+          "sha256": "aa85a5b935e4870600beeadc16cf2af08b541d627c1054b75cd8984696d80e44",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/fr.json",
+          "sha256": "672b4bbe50df0fb16c33a2290437e244716ab168b03835b6f03ce60e978d2be9",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/he.json",
+          "sha256": "9d745665374db88432ab02e57b2f84ea8edb9b4bcd5cb3cd9931112febb7cbf2",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/it.json",
+          "sha256": "a95b156d2f323baeb8e483a3bc4a9508088de20454b0f04ea304a83a1c5a7aa1",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/ja.json",
+          "sha256": "aef19f49b6910412611f662258184d6881d636bed635649ff585d939a730d6c8",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/ko.json",
+          "sha256": "4a5143e837b937b674907dd531d5c40535258d7a6df217c3344fc1271a46e7cd",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/nb.json",
+          "sha256": "9e7085a68c138798b756b1dfdf9c646dcdcc09d5dd16f3adc6260ac851cd87f4",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/nl.json",
+          "sha256": "31fabe2e12898192853c9f98d8f16900b1d68bc62ebb3ab9eb47bd521f40acbc",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "d208b100bbee8f00e469bf8093fad40b5e3bdb0565fb4c1d89b6c9a289a06847",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/pl.json",
+          "sha256": "8e5e4cfd770e80184c050988004a5ec86d597fe6edd44705e83753aafaa0da9c",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/pt_BR.json",
+          "sha256": "19a7d3975cb0a6d0f7d04f4287a4bb29b71d04387aaded3d4597f7f4a518a388",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/pt_PT.json",
+          "sha256": "f115d352edc439fc4659184963738c01ce6b62c45c147015d4cfb1ccb9d2a93f",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/ru.json",
+          "sha256": "991a427b4fc962d31c580700678cbc5ebb14d1774dd7c0ac06286840f7338321",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/sri-history.json",
+          "sha256": "cdfc4ff850b8c6a5e515da8d9a60888dfade00a84ba053e5720fa5da01bf9387",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/sv.json",
+          "sha256": "33932e64bbbdefe288de16f83d6cb410c9c74fe78c24fdcd45e49146af3373c5",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/zh_CN.json",
+          "sha256": "b47a48eb91a0da0d10dd3a755592b37e31622cf8badbee23a0824126c99f932f",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/zh_TW.json",
+          "sha256": "3d4a4d802cfaf1244afb5df7ec2c5855c996f20ab43efbc36a6e98d1df8a3243",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/locales/README.md",
+          "sha256": "914a731bca1c00551f98cfe27d56ca2100ee020d6d9a23d35fc18a87de1810ab",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "90f7366c3a6e9347dd17b083709fc4cbea06a1b694127c389f5a9dd377fa368b",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/axe.d.ts",
+          "sha256": "3e9c4cb66f55d27fdf9662bb97338c121fa242034a2708b59b18d7335f495892",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/LICENSE-3RD-PARTY.txt",
+          "sha256": "4f8563870d0fca38bbc3e00b6f670cb7fa9f380ba9f26a7f7d1184a6b18b1653",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "INSTALLED_BYTES_MATCH"
+    },
+    {
+      "package": "dompurify@3.4.17",
+      "installPath": "node_modules/dompurify",
+      "licenseDeclaration": "(MPL-2.0 OR Apache-2.0)",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/src/license_header",
+          "sha256": "5803fa925ae1703b9c752921c95a321570e6cabf06fcf2de895ddaf1687cebef",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/LICENSE-MPL",
+          "sha256": "fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/dist/purify.cjs.js",
+          "sha256": "e89caec0717b7c1726e819b480133beaa1cdf7439c22fbfb753e5688be6922c3",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/dist/purify.cov.cjs.js",
+          "sha256": "5e6038ee47efed44524948e109decaccee5bd9b6a456ec264332024561937995",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/dist/purify.js",
+          "sha256": "a7b6dc750251c79c95592d6abf8908bcecb51319b0b5c4194b82222566ed29b9",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/dist/purify.min.js",
+          "sha256": "cd37898f9782adf54820c413191b5691803f0f137c799d6edcfd38523b4c2c31",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "e6235e2a233d3f5550e2be3bf826a39f4ff5180a710779c1e16dcdf4b9eb20b9",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/dist/purify.cjs.js.map",
+          "sha256": "db58c2849b71cccdcd6e406e8255cb42097c83a2e451f07eb0fcf1f63dc7ed05",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/dist/purify.cov.cjs.js.map",
+          "sha256": "6e0e3cf7aabf1d887b2c25a4279f515aa4082a98b678cc8b26dc5ec882ec89aa",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/dist/purify.es.mjs.map",
+          "sha256": "2d8320d303936a66e9d2b881395a680bcf4de2974014ddf8b2893e248a0af973",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/dist/purify.js.map",
+          "sha256": "487540591d650413b627cac52fb9cb6cfa3e0b15cf3f3dd9e54ca0d3366e3aa8",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/dist/purify.min.js.map",
+          "sha256": "3b8343cc326034b684098bc5f00628142d0544f4624c92c9b9c79adb78fd5d8e",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "565e6a29192b5dbb94b172ef5e4b90759994eb34874da22bb8e9be5c3e894969",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/dist/purify.es.mjs",
+          "sha256": "60c5d5ccbb466de3de3ba863461a92bf134f8c156cef7992da43e0f659bc5cbd",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/dist/purify.es.d.mts",
+          "sha256": "5d0a5bbb7e3f9c05d2a606717ff08b4e07a6165a2377c4497c3f1c6deb3636fa",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/src/attrs.ts",
+          "sha256": "2c15077a49f25308de8630ec4b29014a3c9eecb3f96cd9b5073809c08200caf4",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/src/config.ts",
+          "sha256": "55ec2be2396e140ada9572206e08a0fd639b5c2183741b8436b6d1e082a7159b",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/dist/purify.cjs.d.ts",
+          "sha256": "fd7bbe3fc3488ed6e4a247f82e3ecd846eb5bbd453897b321ec09b0e0d4eb71d",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/src/purify.ts",
+          "sha256": "204ff31c5c71ac9da67bb3bfda85fb3bc27c070144efbe74f2f014c937cc2082",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/src/regexp.ts",
+          "sha256": "2d2375c6077cba45d1f5ea991d28a88581300e0da1c9b0e7410f1fc5b6771b75",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/src/tags.ts",
+          "sha256": "959dc7f21ddbf2dbe584f3511c0ae41eed313236e217d099856b7c3dc94e66e8",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/src/types.ts",
+          "sha256": "4e634256e51e710ad0317833091a91abe27409e1150fdca2f607bb8eaac57110",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/src/utils.ts",
+          "sha256": "c7cb3c3a37f304be6b52b6ea076ade726d773daf78bde33e6492f104c19d949d",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "INSTALLED_BYTES_MATCH"
+    },
+    {
+      "package": "elkjs@0.11.1",
+      "installPath": "node_modules/elkjs",
+      "licenseDeclaration": "EPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/lib/elk-api.js",
+          "sha256": "3d72abb2975c93795878439592145292662d40697181e5c07daf066ab19474bc",
+          "installedMatchesPublished": true,
+          "headerSpdx": [
+            "EPL-2.0"
+          ],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lib/elk-worker.js",
+          "sha256": "c93ae799ceb15b94b19272307b5bfde46e7dde6f274a2fb78afeba2ac0393f77",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lib/elk-worker.min.js",
+          "sha256": "458fbe927f19d11d8d054e34b7587011b9a4d1ecbdfb688b60e491fbdfb2a8d7",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lib/elk.bundled.js",
+          "sha256": "20dd2114d683ce758b3ce19bcc56e28a504a617b0d280f760407c37314631d0e",
+          "installedMatchesPublished": true,
+          "headerSpdx": [
+            "EPL-2.0"
+          ],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lib/main.js",
+          "sha256": "360a4cb0e80ef2c15a1cc16fb427713b82fd31ca8dd980be376348ab17d1b168",
+          "installedMatchesPublished": true,
+          "headerSpdx": [
+            "EPL-2.0"
+          ],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "ceb0e021feb67f6e85b78c1db6e268582e20b0addedee75c6c775465ebb6ae12",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/LICENSE.md",
+          "sha256": "89591d4578fb1ebd91501312a3d25f021bd865a2e436641c1cf7b1bc7e3c1617",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "a83dbb420b0b4f335f4b9d2ca65c335be3fdcf83248bff49f81582b9c0c30712",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lib/elk-api.d.ts",
+          "sha256": "8b19c4f0fc122eadeb8e592606086420ca8ea27a33a4785bd8540085110f25ec",
+          "installedMatchesPublished": true,
+          "headerSpdx": [
+            "EPL-2.0"
+          ],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lib/elk-worker.d.ts",
+          "sha256": "cfd7e67195b610f808ebab6ba1065cc2b1709af17309a1975a70f52f814459cc",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lib/elk.bundled.d.ts",
+          "sha256": "e2540f67a80eed487a4851a05a8c7d89542e68bae4f2a0090c1f5e318f1e5ff9",
+          "installedMatchesPublished": true,
+          "headerSpdx": [
+            "EPL-2.0"
+          ],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lib/main.d.ts",
+          "sha256": "e2540f67a80eed487a4851a05a8c7d89542e68bae4f2a0090c1f5e318f1e5ff9",
+          "installedMatchesPublished": true,
+          "headerSpdx": [
+            "EPL-2.0"
+          ],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "INSTALLED_BYTES_MATCH"
+    },
+    {
+      "package": "lightningcss@1.32.0",
+      "installPath": "node_modules/lightningcss",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/node/ast.js.flow",
+          "sha256": "e5989bbd0fc456a6e01f8b291f503121ca1cbea2abcca6c1a2130c2e69654183",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/index.js.flow",
+          "sha256": "2d59ea45908b37ccc08aa36b9c4123788e7d9424e09949c9fb216d3ce8aa9e16",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/targets.js.flow",
+          "sha256": "2a8a5ce45165daf3ccc368e9c9bb48a6683fd15e4276b42998a625b26bd795e5",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/browserslistToTargets.js",
+          "sha256": "18b2c767c8623273e0c5ead5bb8e09f3f843d8401aaa6518dbdd20337849f37b",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/composeVisitors.js",
+          "sha256": "0d5aeaeaf42ccc6c64d10add07aa243102cdc8c6c25c3e2ebb1b01c46a1356f5",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/flags.js",
+          "sha256": "646027f1c0977cf151916b221edf51c2b4287ff5b5028c60243f6b014e9a388d",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/index.js",
+          "sha256": "8b7f10ff14d65a382bd7041a747df4a0d4b7c4e22b2842bcaca2588cd86bb045",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "1b7fbd47a660ecb37d1fa8304a14b726aa44a31bb3d3338f417593f6276b762f",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "5c0c95d29d204230e9bdb1b998b6dc960f88524f4202e2375062b75bba2b957b",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/index.mjs",
+          "sha256": "e1a8e4ea3242b6e95d13aeddb3ef95ff9d3282852e23257618f784566484e452",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/ast.d.ts",
+          "sha256": "3fd8a5aefd8c3feb3936ca66f5aa89dff7bf6e6537b4158dbd0f6e0d65ed3b9e",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/index.d.ts",
+          "sha256": "41c41c6e90133bb2a14f7561f29944771886e5535945b2b372e2f6ed6987746e",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/targets.d.ts",
+          "sha256": "a18642ddf216f162052a16cba0944892c4c4c977d3306a87cb673d46abbb0cbf",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "INSTALLED_BYTES_MATCH"
+    },
+    {
+      "package": "lightningcss-android-arm64@1.32.0",
+      "installPath": "node_modules/lightningcss-android-arm64",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "80887f49af2792022de937888e799812360ab7335d06fe378ee18f0b6b31681a",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "0cf9f120e0ee3289ed30971b6a869f2849b5db2fa8e9e98ed7fe1de606e7f7e6",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.android-arm64.node",
+          "sha256": "20d914c89f41ae07838e327c7175db71e5fac5c9ffe6c230078ec0c3b9a1b6ce",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-darwin-arm64@1.32.0",
+      "installPath": "node_modules/lightningcss-darwin-arm64",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "339b80a4fdb2b8d9dc8e85ceda4b43bebdb45c50bdbd10704095131cbd88d0bd",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "1abbdc63f9f5bae3e65bdb9fc1c5368631ff15c0a41e697e95bceaac1d2f574d",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.darwin-arm64.node",
+          "sha256": "6ac4ba1cce8aca75dbcafafa1951955dd30d99ca9953fa81020d0c5246cbd317",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-darwin-x64@1.32.0",
+      "installPath": "node_modules/lightningcss-darwin-x64",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "ffb98e184cb4affb5fa529c2784d8467dc926eb5ae45c75235af05912dd07841",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "83f82f4fbb999a6550c0e556cd001c5184f1abaf9c94ad6a14c602e44732a109",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.darwin-x64.node",
+          "sha256": "9928d84d5274207b3c3cf7364ec96f2e9bc06d7016a47dbb1a241cd0346d6b35",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-freebsd-x64@1.32.0",
+      "installPath": "node_modules/lightningcss-freebsd-x64",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "d825922a47f75d9c24ae012421229d83ddf5673f14fd97bc818d7c64c603a4d3",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "afad978bc3e23c9bb7f70fdddd13465c1351997c5035a4711ca56dec7b1ffa2e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.freebsd-x64.node",
+          "sha256": "de9d727197ad1493772d9a41dc82f4b1e233cf27c39e1632e0cba8a9061e3113",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-linux-arm-gnueabihf@1.32.0",
+      "installPath": "node_modules/lightningcss-linux-arm-gnueabihf",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "cb99d345a1a30d18bcbc418fe9fe8586a3f55540f36c3ae8154e0e57d85980d6",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "b74bfdfa531ea47592b518ec42180d6039b23eaf4057c7b3412890fa3d1e44fc",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.linux-arm-gnueabihf.node",
+          "sha256": "bd864a0f9aafad7272eaadb83f342e4c2ba33225a4e13f15dae03325bfd819d8",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-linux-arm64-gnu@1.32.0",
+      "installPath": "node_modules/lightningcss-linux-arm64-gnu",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "e0c3f446c87a30859343ea70b08eacce5cc6bc19b32b223c82d527455d665d37",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "1bcc077c4e7ba9f20d2b1d4a4d014ebabe017868936883a69c208d993f49ecb0",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.linux-arm64-gnu.node",
+          "sha256": "d1d49e9d946775577d8894d0fbf8ecc3675de61af14884b5b0c78744afbe7061",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-linux-arm64-musl@1.32.0",
+      "installPath": "node_modules/lightningcss-linux-arm64-musl",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "3b72ef5bbee71c617c9a1a69bfa806c12ad7bf1985dffcc7f94544f43f46b9e6",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "2a535e563129575404f58abcbc39767a305b58ab68d502218f8370983d192084",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.linux-arm64-musl.node",
+          "sha256": "e9a8271f82daada53e248bace5f9e68e56787b5e7eb4751cb757f0159eea91b4",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-linux-x64-gnu@1.32.0",
+      "installPath": "node_modules/lightningcss-linux-x64-gnu",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "38c8b40149b0492fbfcc06b4b8fab20314d9b9d0e648c7da8c5c0634b6a90412",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "0c48b4ca6e5fdcdd7f54aa38b6ad29c6d6d18e342a0d1b0265877c1a289a4f5b",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.linux-x64-gnu.node",
+          "sha256": "2024f99789a601c7438b387117032ba07594cbba9b784064b47cdc60a0972326",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-linux-x64-musl@1.32.0",
+      "installPath": "node_modules/lightningcss-linux-x64-musl",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "6d7a4bcc5fef739dae30dbf9852578f2d31b69a174f7b9333eb0dbdf03a959c9",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "92bdef8edfb887ee9a14bce8d8f081d332c5f2578248253ff7a176f0571844b1",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.linux-x64-musl.node",
+          "sha256": "e2c30fdc3868240af5ad6c8ec0a034848bad9a78f4b0fd32f3a41cd890814b19",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-win32-arm64-msvc@1.32.0",
+      "installPath": "node_modules/lightningcss-win32-arm64-msvc",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "f9afda880f1c14de973f04a6ae7afc2bae952d317c495faae71aff4688357023",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "7a4e7dd4e27b64a6a0c21a6ad3406a50a7700df90f54e27f30d233b7ebb40f86",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.win32-arm64-msvc.node",
+          "sha256": "471d900379517bae034df0a240d329131a342bbc4ae0f4c62bf461dc23b1819e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-win32-x64-msvc@1.32.0",
+      "installPath": "node_modules/lightningcss-win32-x64-msvc",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "76456a8ca20848b96b5819f115368bebfbb941c51c860b62073e3e591c836b8b",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "7a8ce7a98de104127a9414f2ad3d1c36e169609c8c85b0e9c232dc723178bd2c",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.win32-x64-msvc.node",
+          "sha256": "83e7e838ef1bbf5454c651103574fec31a1cec0b453b999d1173365cbc6c7841",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "INSTALLED_BYTES_MATCH"
+    },
+    {
+      "package": "lightningcss@1.33.0",
+      "installPath": "node_modules/vite/node_modules/lightningcss",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/node/ast.js.flow",
+          "sha256": "77bf7eeeedb46af8074af0af110eb950b07cff543646dbfb2a311ffc58e743e4",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/index.js.flow",
+          "sha256": "c0a3c5b9c8acdc12cbdd9baf2d379d71154ae67acadf8f4a62b7077d99fafd8a",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/targets.js.flow",
+          "sha256": "2a8a5ce45165daf3ccc368e9c9bb48a6683fd15e4276b42998a625b26bd795e5",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/browserslistToTargets.js",
+          "sha256": "18b2c767c8623273e0c5ead5bb8e09f3f843d8401aaa6518dbdd20337849f37b",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/composeVisitors.js",
+          "sha256": "0d5aeaeaf42ccc6c64d10add07aa243102cdc8c6c25c3e2ebb1b01c46a1356f5",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/flags.js",
+          "sha256": "646027f1c0977cf151916b221edf51c2b4287ff5b5028c60243f6b014e9a388d",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/index.js",
+          "sha256": "8b7f10ff14d65a382bd7041a747df4a0d4b7c4e22b2842bcaca2588cd86bb045",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "b26fa1b188f90ec672206326e9a1de793f0403a263be9c3797c2e2d56aa48b3c",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "5c0c95d29d204230e9bdb1b998b6dc960f88524f4202e2375062b75bba2b957b",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/index.mjs",
+          "sha256": "e1a8e4ea3242b6e95d13aeddb3ef95ff9d3282852e23257618f784566484e452",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/ast.d.ts",
+          "sha256": "f3fe8197217cb6fd6e07c0eaa0966e4ece77cd779cbfc55767a93704cc692e04",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/index.d.ts",
+          "sha256": "617112682fcb55805f0a0e16450397edc016881962eee4298f4f4e3ef795aee8",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/node/targets.d.ts",
+          "sha256": "a18642ddf216f162052a16cba0944892c4c4c977d3306a87cb673d46abbb0cbf",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "INSTALLED_BYTES_MATCH"
+    },
+    {
+      "package": "lightningcss-android-arm64@1.33.0",
+      "installPath": "node_modules/vite/node_modules/lightningcss-android-arm64",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "3a45f484abb1f56be80a12d2ea7c180df5a2b9ea98fc5407a98350d348bf6806",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "0cf9f120e0ee3289ed30971b6a869f2849b5db2fa8e9e98ed7fe1de606e7f7e6",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.android-arm64.node",
+          "sha256": "d754cdc0af391caa283f435b53d1b11f9d1933b6b611c4b7d45e2e23d2104ec6",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-darwin-arm64@1.33.0",
+      "installPath": "node_modules/vite/node_modules/lightningcss-darwin-arm64",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "1f50679ba283d8cc6c883b516a6b4689bb017d67a4dc35bf64af2f31ea6bbb7d",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "1abbdc63f9f5bae3e65bdb9fc1c5368631ff15c0a41e697e95bceaac1d2f574d",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.darwin-arm64.node",
+          "sha256": "aee1601d7145d89f262d4c777f308ef06ed53046ee49b780d31a98f02db2e253",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-darwin-x64@1.33.0",
+      "installPath": "node_modules/vite/node_modules/lightningcss-darwin-x64",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "4d09df551754494eb38c4363593e8897e6c8e2298d4f0ea3649b4ddf09cf816b",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "83f82f4fbb999a6550c0e556cd001c5184f1abaf9c94ad6a14c602e44732a109",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.darwin-x64.node",
+          "sha256": "a094d4e4b93e53daa1b467ba21a6e5e3c679f96641092de3845404f042130bb0",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-freebsd-x64@1.33.0",
+      "installPath": "node_modules/vite/node_modules/lightningcss-freebsd-x64",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "da6e39e808798636b781aa2a179104c50a5d79f54ece8b47af4a156cca5b2dec",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "afad978bc3e23c9bb7f70fdddd13465c1351997c5035a4711ca56dec7b1ffa2e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.freebsd-x64.node",
+          "sha256": "dfb2f178af52beafdc4f30e65582f21c488796ac4474263881b7f0293cf18feb",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-linux-arm-gnueabihf@1.33.0",
+      "installPath": "node_modules/vite/node_modules/lightningcss-linux-arm-gnueabihf",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "23aeb78a482372a433be4b676a9f9f757045c2dbbbdf505b6dbf0f7972404527",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "b74bfdfa531ea47592b518ec42180d6039b23eaf4057c7b3412890fa3d1e44fc",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.linux-arm-gnueabihf.node",
+          "sha256": "f1753b0c73545d71d55b0aeaea753bea9f2b9497ce7fbbb6b027a22b4883322d",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-linux-arm64-gnu@1.33.0",
+      "installPath": "node_modules/vite/node_modules/lightningcss-linux-arm64-gnu",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "b1d0e85aeed20593a71feee73a4833af9366c975f502acbde3523f0381a4a227",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "1bcc077c4e7ba9f20d2b1d4a4d014ebabe017868936883a69c208d993f49ecb0",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.linux-arm64-gnu.node",
+          "sha256": "630753f910bd6235aad7d702a984c109aa723563342b8057b88f34306702b626",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-linux-arm64-musl@1.33.0",
+      "installPath": "node_modules/vite/node_modules/lightningcss-linux-arm64-musl",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "4663dfa9fc9f33c34770e723d57d8c1d219b833862ab194ef672fd046c67f140",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "2a535e563129575404f58abcbc39767a305b58ab68d502218f8370983d192084",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.linux-arm64-musl.node",
+          "sha256": "1505fe66a29fcf11576b9b66bca8c65521641e291475dd880ea74d37a8e8de77",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-linux-x64-gnu@1.33.0",
+      "installPath": "node_modules/vite/node_modules/lightningcss-linux-x64-gnu",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "ffa202abaa05da41d1fa809dbc3eda56f76953c8cf0e954c96b4b73de08fb915",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "0c48b4ca6e5fdcdd7f54aa38b6ad29c6d6d18e342a0d1b0265877c1a289a4f5b",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.linux-x64-gnu.node",
+          "sha256": "84c6f35fb9c78f9920090f4017a9dc6dc50842a56c543f509943a0d434325d93",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-linux-x64-musl@1.33.0",
+      "installPath": "node_modules/vite/node_modules/lightningcss-linux-x64-musl",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "e37324a042d39eba6b152457dfbb4c7398286463767930309afe8734a1e54e7c",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "92bdef8edfb887ee9a14bce8d8f081d332c5f2578248253ff7a176f0571844b1",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.linux-x64-musl.node",
+          "sha256": "a5cf77ba1e47a5539987d569d973bc9389f8c2bb1522d36a3adf22c82afaa86d",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-win32-arm64-msvc@1.33.0",
+      "installPath": "node_modules/vite/node_modules/lightningcss-win32-arm64-msvc",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "23fdfbb51d6db8ae7058961ced61acc1fc1ffe856fa22f8a1b55c87ce87ad9ba",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "7a4e7dd4e27b64a6a0c21a6ad3406a50a7700df90f54e27f30d233b7ebb40f86",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.win32-arm64-msvc.node",
+          "sha256": "a2e857f84767de7e39da00d908696824ffaeea38251f49b048b2d8cf42dfdb6c",
+          "installedMatchesPublished": null,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "UNINSTALLED_PLATFORM"
+    },
+    {
+      "package": "lightningcss-win32-x64-msvc@1.33.0",
+      "installPath": "node_modules/vite/node_modules/lightningcss-win32-x64-msvc",
+      "licenseDeclaration": "MPL-2.0",
+      "files": [
+        {
+          "archivePath": "package/LICENSE",
+          "sha256": "5eba353fe5076ac3432177f8ab1cf75e3afcd0584251e37c3bfead5f447d040e",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": true
+        },
+        {
+          "archivePath": "package/package.json",
+          "sha256": "b5ebddf44be90f0f82899482f512de5c2937fee0892dd001041cd17b35bc7699",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/README.md",
+          "sha256": "7a8ce7a98de104127a9414f2ad3d1c36e169609c8c85b0e9c232dc723178bd2c",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        },
+        {
+          "archivePath": "package/lightningcss.win32-x64-msvc.node",
+          "sha256": "d043df0f0675e7fffed4cf8b8c33e28639ec9f21d445c21e7fe4985e4a9b5a91",
+          "installedMatchesPublished": true,
+          "headerSpdx": [],
+          "secondaryIncompatibilityHeaderCandidate": false
+        }
+      ],
+      "modifiedInstalledFiles": [],
+      "scope": "Package-root declaration plus recorded file headers; generated/minified/native outputs do not establish complete covered upstream Source Code Form.",
+      "secondaryLicenseElection": "NOT_ESTABLISHED; generic license exhibits are not an election.",
+      "status": "INSTALLED_BYTES_MATCH"
+    }
+  ]
+}

@@ -27,6 +27,14 @@ enum QuestionStatus {
   ARCHIVED
 }
 
+enum ContentRightsStatus {
+  UNVERIFIED
+  PENDING
+  VERIFIED
+  DISPUTED
+  REJECTED
+}
+
 enum SessionMode {
   TUTOR
   TIMED
@@ -208,6 +216,14 @@ model Question {
   source        String // who wrote it / where it came from
   license       String // e.g. CC-BY-SA-4.0
   attribution   String?
+  rightsStatus        ContentRightsStatus @default(UNVERIFIED)
+  rightsHolder        String?
+  rightsEvidence      String? // private evidence reference; never included in content exports
+  rightsDecision      String?
+  rightsReviewedBy    String? // retained audit identity, not an ownership assignment
+  rightsReviewedAt    DateTime?
+  rightsAllowDelivery Boolean @default(false)
+  rightsAllowExport   Boolean @default(false)
   isDemo        Boolean        @default(false)
   authorId      String?
   author        User?          @relation("author", fields: [authorId], references: [id], onDelete: SetNull)
@@ -229,6 +245,7 @@ model Question {
   @@index([subjectId])
   @@index([systemId])
   @@index([status, updatedAt])
+  @@index([status, rightsStatus, rightsAllowDelivery])
   @@map("question")
 }
 
@@ -380,6 +397,7 @@ model NotebookPage {
   children  NotebookPage[] @relation("tree")
   title     String
   body      String         @default("")
+  sourceQuestionIds String[] @default([]) // retained even when a clipped page is edited
   tags      String[]
   position  Int            @default(0)
   createdAt DateTime       @default(now())

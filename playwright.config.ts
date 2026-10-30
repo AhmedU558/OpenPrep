@@ -1,5 +1,6 @@
 import 'dotenv/config';
 import { defineConfig, devices } from '@playwright/test';
+import { testDatabaseUrl } from './scripts/test-database';
 
 // E2E runs the production build against the separate test database (never your study data).
 // Browser: installed Microsoft Edge by default on Windows; set PW_CHANNEL=chromium after `npx playwright install chromium`.
@@ -28,7 +29,7 @@ export default defineConfig({
     reuseExistingServer: false,
     timeout: 120_000,
     env: {
-      DATABASE_URL: process.env.TEST_DATABASE_URL ?? '',
+      DATABASE_URL: testDatabaseUrl(process.env.TEST_DATABASE_URL, process.env.DATABASE_URL),
       BETTER_AUTH_URL: baseURL,
       BETTER_AUTH_SECRET: process.env.BETTER_AUTH_SECRET ?? '',
       NODE_ENV: 'production',

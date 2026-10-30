@@ -1,5 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "git": { "deploymentEnabled": false },
   "buildCommand": "npx prisma generate && npx next build --webpack",
   "regions": ["sin1"]
 }

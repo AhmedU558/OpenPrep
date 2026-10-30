@@ -1,3 +1,4 @@
+import { approveFixtureRights } from '../fixtures/rights';
 import { beforeAll, describe, expect, it } from 'vitest';
 import { db } from '@/lib/db';
 import { getQuestionContent, importQuestions, listQuestionsAdmin, setStatus, updateQuestion } from '@/lib/admin';
@@ -41,7 +42,7 @@ describe('bank import and learning integration on isolated test database', () =>
     await setStatus(editor,row.id,'REVIEW');
     await expect(setStatus(editor,row.id,'PUBLISHED')).rejects.toMatchObject({code:'FORBIDDEN'});
     await expect(getQuestionContent(learner,row.id)).rejects.toMatchObject({code:'FORBIDDEN'});
-    for (const q of await db.question.findMany({where:{code:{startsWith:'op26-'}}})) await setStatus(admin,q.id,'PUBLISHED');
+    for (const q of await db.question.findMany({where:{code:{startsWith:'op26-'}}})) { await approveFixtureRights(admin,q.id); await setStatus(admin,q.id,'PUBLISHED'); }
     expect((await importQuestions(admin,questions,false,true)).skipped).toBe(25);
   });
   it('filters subjects and topics, searches, and selects only matching practice questions', async () => {

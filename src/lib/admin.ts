@@ -4,6 +4,7 @@ import type { QuestionStatus, Role } from '@/generated/prisma/enums';
 import { db, type Tx } from './db';
 import { AppError } from './errors';
 import { questionContentSchema, type QuestionContent } from './validation/content';
+import { deliveryRights, exportRights, invalidateRights, lockQuestion } from './content-rights';
 
 export type Actor = { id: string; role: Role };
 const RANK: Record<Role, number> = { LEARNER: 0, EDITOR: 1, ADMIN: 2 };
@@ -64,6 +65,12 @@ async function writeOptions(tx: Tx, questionId: string, c: QuestionContent) {
   await tx.option.createMany({ data: c.options.map((o, position) => ({ questionId, position, text: o.text, isCorrect: o.correct, explanationMd: o.explanation || null })) });
 }
 
+async function requireMutableQuestion(tx: Tx, questionId: string, code: string) {
+  const referenced = await tx.question.count({ where: { id: questionId, OR: [{ sessionItems: { some: {} } }, { cards: { some: {} } }, { notes: { some: {} } }, { reports: { some: {} } }] } });
+  const clipped = await tx.notebookPage.count({ where: { OR: [{ sourceQuestionIds: { has: questionId } }, { sourceQuestionIds: { has: `code:${code}` } }, { body: { contains: `— Question ${code}` } }] } });
+  if (referenced || clipped) throw new AppError('CONFLICT', 'This question has saved attempts or study references. Create a new code for revised content; the original and its options must remain unchanged.');
+}
+
 // ---------------------------------------------------------------- questions
 
 export async function createQuestion(actor: Actor, raw: unknown) {
@@ -83,13 +90,17 @@ export async function updateQuestion(actor: Actor, rawId: unknown, raw: unknown)
   const qid = id.parse(rawId);
   const c = questionContentSchema.parse(raw);
   return db.$transaction(async (tx) => {
+    await lockQuestion(tx, qid);
     const before = await tx.question.findUnique({ where: { id: qid } });
     if (!before) throw new AppError('NOT_FOUND', 'Question not found.');
     if (!canEditContent(actor.role, before.status)) throw new AppError('FORBIDDEN', 'Only admins can edit published or archived questions.');
     const clash = await tx.question.findFirst({ where: { code: c.code, id: { not: qid } } });
     if (clash) throw new AppError('CONFLICT', `Code ${c.code} is already used.`);
+    const full = await tx.question.findUniqueOrThrow({ where: { id: qid }, include: { options: { orderBy: { position: 'asc' } }, exam: true, subject: true, system: true, topic: true } });
+    if (JSON.stringify(questionContentSchema.parse(toContent(full))) === JSON.stringify(c)) return;
+    await requireMutableQuestion(tx, qid, before.code);
     const data = { ...columns(c), ...(await taxonomyIds(tx, actor, c)) };
-    await tx.question.update({ where: { id: qid }, data });
+    await tx.question.update({ where: { id: qid }, data: { ...data, ...invalidateRights } });
     await writeOptions(tx, qid, c);
     const changed = Object.keys(data).filter((k) => JSON.stringify((before as Record<string, unknown>)[k]) !== JSON.stringify((data as Record<string, unknown>)[k]));
     await audit(tx, actor, 'question.update', 'question', qid, { changed });
@@ -101,9 +112,11 @@ export async function setStatus(actor: Actor, rawId: unknown, rawTo: unknown) {
   const qid = id.parse(rawId);
   const to = z.enum(['DRAFT', 'REVIEW', 'PUBLISHED', 'ARCHIVED']).parse(rawTo);
   return db.$transaction(async (tx) => {
+    await lockQuestion(tx, qid);
     const q = await tx.question.findUnique({ where: { id: qid } });
     if (!q) throw new AppError('NOT_FOUND', 'Question not found.');
     if (!canTransition(actor.role, q.status, to)) throw new AppError('FORBIDDEN', `You can't move a question from ${q.status.toLowerCase()} to ${to.toLowerCase()}.`);
+    if (to === 'PUBLISHED' && (q.rightsStatus !== deliveryRights.rightsStatus || !q.rightsAllowDelivery)) throw new AppError('FORBIDDEN', 'Verified rights and explicit delivery permission are required before publication.');
     await tx.question.update({ where: { id: qid }, data: { status: to, publishedAt: to === 'PUBLISHED' ? new Date() : q.publishedAt } });
     await audit(tx, actor, 'question.status', 'question', qid, { from: q.status, to });
   });
@@ -117,7 +130,9 @@ export async function getQuestionContent(actor: Actor, rawId: unknown) {
     include: { options: { orderBy: { position: 'asc' } }, exam: true, subject: true, system: true, topic: true, author: { select: { name: true } } },
   });
   if (!q) throw new AppError('NOT_FOUND', 'Question not found.');
-  return { meta: { id: q.id, status: q.status, author: q.author?.name ?? null, updatedAt: q.updatedAt, isDemo: q.isDemo }, content: toContent(q) };
+  return { meta: { id: q.id, status: q.status, author: q.author?.name ?? null, updatedAt: q.updatedAt, isDemo: q.isDemo,
+    rightsStatus: q.rightsStatus, rightsHolder: q.rightsHolder, rightsEvidence: q.rightsEvidence,
+    rightsDecision: q.rightsDecision, rightsAllowDelivery: q.rightsAllowDelivery, rightsAllowExport: q.rightsAllowExport }, content: toContent(q) };
 }
 
 type FullQ = NonNullable<Awaited<ReturnType<typeof fetchForExport>>>[number];
@@ -133,7 +148,7 @@ function toContent(q: FullQ): QuestionContent {
 
 function fetchForExport(status?: QuestionStatus) {
   return db.question.findMany({
-    where: status ? { status } : {}, orderBy: { code: 'asc' },
+    where: { ...exportRights, ...(status ? { status } : {}) }, orderBy: { code: 'asc' },
     include: { options: { orderBy: { position: 'asc' } }, exam: true, subject: true, system: true, topic: true },
   });
 }
@@ -166,16 +181,25 @@ export async function importQuestions(actor: Actor, raw: unknown, dryRun = true,
   try {
     await db.$transaction(async (tx) => {
       for (const c of rows) {
-        const existing = await tx.question.findUnique({ where: { code: c.code } });
+        let existing = await tx.question.findUnique({ where: { code: c.code } });
+        if (existing) {
+          await lockQuestion(tx, existing.id);
+          existing = await tx.question.findUniqueOrThrow({ where: { id: existing.id } });
+        }
         if (existing && createOnly) {
           const full = await tx.question.findUniqueOrThrow({ where: { id: existing.id }, include: { options: { orderBy: { position: 'asc' } }, exam: true, subject: true, system: true, topic: true } });
           if (JSON.stringify(questionContentSchema.parse(toContent(full))) !== JSON.stringify(c)) throw new AppError('CONFLICT', `Code ${c.code} exists with different content; create-only import refused.`);
           report.skipped++; continue;
         }
         if (existing && !canEditContent(actor.role, existing.status)) { report.skipped++; continue; }
+        if (existing) {
+          const full = await tx.question.findUniqueOrThrow({ where: { id: existing.id }, include: { options: { orderBy: { position: 'asc' } }, exam: true, subject: true, system: true, topic: true } });
+          if (JSON.stringify(questionContentSchema.parse(toContent(full))) === JSON.stringify(c)) { report.updated++; continue; }
+          await requireMutableQuestion(tx, existing.id, existing.code);
+        }
         const data = { ...columns(c), ...(await taxonomyIds(tx, actor, c)) };
         const q = existing
-          ? await tx.question.update({ where: { id: existing.id }, data })
+          ? await tx.question.update({ where: { id: existing.id }, data: { ...data, ...invalidateRights } })
           : await tx.question.create({ data: { ...data, status: 'DRAFT', isDemo: false, authorId: actor.id } });
         await writeOptions(tx, q.id, c);
         if (existing) report.updated++; else report.created++;

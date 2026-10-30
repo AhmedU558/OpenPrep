@@ -1,0 +1,74 @@
+{
+  "baselinePaths": 320,
+  "preservationChecked": 65,
+  "changedProtectedFiles": [],
+  "database": "openprep_phase3_20261030_884d4a35_test",
+  "connectionTarget": "127.0.0.1:55437",
+  "existingDatabaseAccess": "No existing database was queried or connected. No existing volumes reused.",
+  "cleanup": "Both new labeled containers removed, tmpfs only, no volume persisted.",
+  "tests": {
+    "unit": {
+      "passed": 91,
+      "files": 8,
+      "exit": 0
+    },
+    "allVitest": {
+      "passed": 129,
+      "files": 14,
+      "exit": 0
+    },
+    "browser": {
+      "passed": 23,
+      "exit": 0
+    },
+    "compliance": {
+      "passed": 16,
+      "exit": 0
+    },
+    "lint": 0,
+    "typecheck": 0,
+    "legacy": 0,
+    "webpackBuild": 0,
+    "actionlint": 0,
+    "cleanInstall": 0,
+    "cleanPrismaGenerate": 0,
+    "npmAudit": 0,
+    "npmAuditSignatures": 0,
+    "sbomValidation": {
+      "inventories": 5,
+      "exit": 0
+    },
+    "releasePreflight": {
+      "expectedExit": 1,
+      "scopeStatuses": {
+        "source": "BLOCKED",
+        "browser": "BLOCKED",
+        "hosted": "BLOCKED",
+        "native": "BLOCKED",
+        "container": "BLOCKED"
+      }
+    },
+    "contentGate": {
+      "expectedExit": 1,
+      "withheldPaths": 58
+    },
+    "licenseEvidenceHashes": {
+      "files": 92,
+      "errors": 0
+    }
+  },
+  "diagnosticLimit": "A supplementary read-only question count used an unmapped table name and failed; no question-count result was recorded. Migration identities and synthetic user count (21) were recorded before cleanup.",
+  "limitations": [
+    "Sandboxed Vitest startup, initial build and Python temporary test fixtures failed with platform access errors; reruns outside sandbox passed.",
+    "ESLint 10/React-plugin peer-range warnings remain; no dependency changed.",
+    "pg concurrency deprecation warnings remain."
+  ],
+  "runtime": {
+    "node": "24.22.1",
+    "npm": "11.19.1",
+    "python": "3.12.10",
+    "jsonschema": "4.25.1",
+    "actionlint": "1.7.12"
+  },
+  "cleanInstallScope": "New public-safe source copy; same final lockfile/dependency versions. Later changes are audit tooling, documentation and release-script aliases, not application dependencies."
+}

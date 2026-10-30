@@ -1,0 +1,27 @@
+{
+  "smtpPort": 11037,
+  "host": "127.0.0.1",
+  "portBindings": {
+    "5432/tcp": [
+      {
+        "HostIp": "127.0.0.1",
+        "HostPort": "55437"
+      }
+    ]
+  },
+  "mailName": "openprep-phase3-20261030-884d4a35-mail",
+  "database": "openprep_phase3_20261030_884d4a35_test",
+  "mailId": "3d21233d9e1e262ab3f9f20a653c44e5e19c2285d487a2d8291be9555a195339",
+  "mailApi": "http://127.0.0.1:18037",
+  "created": "2026-10-30T11:38:25.210350211Z",
+  "beforeMigration": "openprep_phase3_20261030_884d4a35_test|0",
+  "tmpfs": {
+    "/var/lib/postgresql/data": "rw"
+  },
+  "mounts": [],
+  "id": "92f1eee6fe086af25ecb47ac9bd4493699e218b2dc6cce549621fd28c8fecff5",
+  "image": "sha256:266d3c257594e195b309ae9d1805e54c788f1d7b375f56bf6c367aac6c917e7b",
+  "name": "openprep-phase3-20261030-884d4a35",
+  "stamp": "20261030-884d4a35",
+  "port": 55437
+}

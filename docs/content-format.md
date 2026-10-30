@@ -41,3 +41,7 @@ Used by the admin editor, **Import & export** (a JSON array of these objects), a
 | `source`, `license` | Required. Use an SPDX-style identifier where one exists (e.g. `CC-BY-4.0`, `CC0-1.0`). |
 
 Imports are **all or nothing**: if any row is invalid, nothing is saved and every problem is listed. New questions arrive as **drafts**; an admin publishes them.
+
+## Phase 2 rights review
+
+The content format records source, license and attribution, but does not grant verification. Imported rights-status/permission flags are ignored; real evidence and scoped approval must be recorded through the protected admin workflow. All new imports remain unverified and cannot be published or exported until approved. Evidence references/reviewer metadata are private admin fields and are not included in content export JSON. See [CONTENT_RIGHTS_ENFORCEMENT](CONTENT_RIGHTS_ENFORCEMENT.md).

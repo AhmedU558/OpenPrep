@@ -6,6 +6,7 @@ import { db, type Tx } from '../db';
 import { AppError } from '../errors';
 import { acceptHighlights, renderMarkdown } from '../markdown';
 import { questionWhere } from '../questions';
+import { deliverableQuestion, requireQuestionDelivery } from '../content-rights';
 import { createSessionSchema, positionSchema, selectionSchema } from '../validation/exam';
 import { activeMsAt, isExpired, remainingMs, transition } from './machine';
 import { scoreItem, scoreSession, validateSelection, type ItemOutcome } from './scoring';
@@ -21,7 +22,7 @@ export async function createSession(userId: string, raw: unknown): Promise<strin
   const input = createSessionSchema.parse(raw);
   let ids: string[];
   if (input.questionIds?.length) {
-    ids = (await db.question.findMany({ where: { id: { in: input.questionIds }, status: 'PUBLISHED' }, select: { id: true } })).map((r) => r.id);
+    ids = (await db.question.findMany({ where: { id: { in: input.questionIds }, ...deliverableQuestion }, select: { id: true } })).map((r) => r.id);
   } else {
     const where = await questionWhere(userId, input);
     ids = (await db.question.findMany({ where, select: { id: true } })).map((r) => r.id);
@@ -298,6 +299,7 @@ export async function getView(userId: string, id: string) {
     },
   });
   const q = it.question;
+  await requireQuestionDelivery(q.id);
   // answers and explanations leave the server only once this item is locked
   const reveal = it.state === 'LOCKED';
   const now = new Date();

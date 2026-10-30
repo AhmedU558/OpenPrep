@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
 import { QuestionEditor } from '@/components/admin/question-editor';
+import { RightsReview } from '@/components/admin/rights-review';
 import { Card, PageHeader } from '@/components/ui';
 import { canEditContent, canTransition, getQuestionContent } from '@/lib/admin';
 import { db } from '@/lib/db';
@@ -20,6 +21,7 @@ export default async function EditQuestion({ params }: { params: Promise<{ id: s
   return (
     <>
       <PageHeader title={`Question ${q.content.code}`} subtitle={`Last updated ${q.meta.updatedAt.toLocaleString()}`} />
+      <RightsReview key={q.meta.updatedAt.toISOString()} rights={{ ...q.meta, updatedAt: q.meta.updatedAt.toISOString() }} admin={actor.role === 'ADMIN'} />
       <div className="grid gap-6 xl:grid-cols-[1fr_420px]">
         <QuestionEditor initial={q.content} meta={q.meta} transitions={transitions} canEdit={canEditContent(actor.role, q.meta.status)}
           taxonomy={{ exams: exams.map((x) => x.name), subjects: subjects.map((x) => x.name), systems: systems.map((x) => x.name) }} />

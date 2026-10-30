@@ -4,6 +4,7 @@ import { db } from '@/lib/db';
 import { AppError, jsonError } from '@/lib/errors';
 import { log } from '@/lib/log';
 import { requireUser } from '@/lib/session';
+import { deliverableQuestion } from '@/lib/content-rights';
 
 const body = z.object({ questionId: z.string().min(1).max(64), question: z.string().trim().min(3).max(1000) });
 
@@ -25,7 +26,8 @@ export async function POST(req: Request) {
     const answered = await db.response.findUnique({ where: { userId_questionId: { userId: u.id, questionId } } });
     if (!answered) throw new AppError('FORBIDDEN', 'Answer the question first.');
     if (limited(u.id)) throw new AppError('CONFLICT', 'You have asked a lot this hour. Please try again later.');
-    const q = await db.question.findFirstOrThrow({ where: { id: questionId, status: 'PUBLISHED' }, include: { options: { orderBy: { position: 'asc' } } } });
+    const q = await db.question.findFirst({ where: { id: questionId, ...deliverableQuestion }, include: { options: { orderBy: { position: 'asc' } } } });
+    if (!q) throw new AppError('NOT_FOUND', 'Question content is withheld pending rights review.');
     const context = `QUESTION:\n${q.stemMd}\n\nCHOICES:\n${q.options.map((o, i) => `${'ABCDEFGHIJ'[i]}. ${o.text}${o.isCorrect ? ' (correct)' : ''}`).join('\n')}\n\nEXPLANATION:\n${q.explanationMd}`;
     const answer = await provider.chat(TUTOR_PROMPT, `${context}\n\nLEARNER ASKS: ${question}`);
     return Response.json({ answer: answer.slice(0, 4000), provider: provider.name });

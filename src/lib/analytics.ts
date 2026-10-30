@@ -1,5 +1,6 @@
 // Personal performance analytics. All queries are scoped to one userId.
 import { db } from './db';
+import { deliverableQuestion } from './content-rights';
 
 export type Row = { id: string; name: string; total: number; correct: number; incorrect: number; omitted: number; pct: number };
 
@@ -38,7 +39,7 @@ export function breakdown(responses: Resp[], names: Map<string, string>, key: 'e
 export async function overview(userId: string) {
   const since = new Date(Date.now() - 83 * DAY);
   const [published, agg, avg, daily, sessions, responses, exams, subjects, systems, cardsDue] = await Promise.all([
-    db.question.count({ where: { status: 'PUBLISHED' } }),
+    db.question.count({ where: deliverableQuestion }),
     db.response.groupBy({ by: ['isCorrect', 'omitted'], where: { userId }, _count: true }),
     db.response.aggregate({ where: { userId }, _avg: { timeMs: true } }),
     db.$queryRaw<{ day: Date; n: bigint }[]>`

@@ -24,22 +24,29 @@
     "bank:verify": "tsx scripts/verify-bank.ts",
     "bank:expand": "tsx scripts/expansion-batch.ts",
     "test": "vitest run",
-    "test:unit": "vitest run tests/unit",
+    "test:unit": "vitest run --config vitest.unit.config.ts",
     "test:int": "vitest run tests/integration",
     "test:e2e": "playwright test",
-    "legacy": "node legacy/server.js"
+    "legacy": "node legacy/server.js",
+    "release:check-content": "node scripts/check-content-distribution.mjs",
+    "compliance:provenance": "node scripts/verify-publisher-provenance.mjs",
+    "compliance:sbom": "python scripts/release-compliance.py sbom",
+    "compliance:check": "python scripts/release-compliance.py check",
+    "compliance:test": "python -m unittest discover -s tests/compliance -v",
+    "compliance:validate": "python scripts/validate-sbom.py",
+    "release:preflight": "python scripts/release-compliance.py check"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"
   },
   "dependencies": {
-    "@prisma/adapter-pg": "7.10.0",
-    "@prisma/client": "7.10.0",
+    "@prisma/adapter-pg": "7.10.1",
+    "@prisma/client": "7.10.1",
     "better-auth": "1.7.8",
     "isomorphic-dompurify": "4.5.0",
     "marked": "18.1.1",
     "next": "16.4.1",
-    "nodemailer": "10.1.1",
+    "nodemailer": "10.3.1",
     "pg": "8.23.1",
     "react": "19.3.1",
     "react-dom": "19.3.1",
@@ -58,16 +65,16 @@
     "dotenv": "18.0.8",
     "eslint": "10.12.0",
     "eslint-config-next": "16.4.1",
-    "prisma": "7.10.0",
+    "prisma": "7.10.1",
     "tailwindcss": "4.3.3",
     "tsx": "4.23.15",
     "typescript": "6.0.3",
     "vitest": "5.0.4"
   },
   "allowScripts": {
-    "prisma@7.10.0": true,
-    "@prisma/engines@7.10.0": true,
     "esbuild@0.28.2": true,
-    "unrs-resolver@1.12.2": true
+    "unrs-resolver@1.12.2": true,
+    "prisma@7.10.1": true,
+    "@prisma/engines@7.10.1": true
   }
 }

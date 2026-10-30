@@ -50,6 +50,7 @@ test.describe('accounts (T1)', () => {
   });
 
   test('password reset by email (Mailpit)', async ({ page, request }) => {
+    const mailpit = process.env.TEST_MAILPIT_URL ?? 'http://localhost:8025';
     const c = await register(page);
     await page.context().clearCookies();
     await page.goto('/forgot-password');
@@ -60,9 +61,9 @@ test.describe('accounts (T1)', () => {
     // read the email from the local Mailpit inbox
     let link = '';
     for (let i = 0; i < 20 && !link; i++) {
-      const list = await (await request.get(`http://localhost:8025/api/v1/search?query=${encodeURIComponent(`to:"${c.email}"`)}`)).json();
+      const list = await (await request.get(`${mailpit}/api/v1/search?query=${encodeURIComponent(`to:"${c.email}"`)}`)).json();
       const id = list.messages?.[0]?.ID;
-      if (id) link = /(http\S+reset-password\S*)/.exec((await (await request.get(`http://localhost:8025/api/v1/message/${id}`)).json()).Text)?.[1] ?? '';
+      if (id) link = /(http\S+reset-password\S*)/.exec((await (await request.get(`${mailpit}/api/v1/message/${id}`)).json()).Text)?.[1] ?? '';
       if (!link) await page.waitForTimeout(500);
     }
     expect(link, 'reset email should arrive').toBeTruthy();

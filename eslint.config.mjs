@@ -4,7 +4,7 @@ import nextTs from 'eslint-config-next/typescript';
 const config = [
   ...nextVitals,
   ...nextTs,
-  { ignores: ['.next/**', 'src/generated/**', 'legacy/**', 'node_modules/**', 'playwright-report/**', 'test-results/**', 'next-env.d.ts'] },
+  { ignores: ['.next/**', '.release/**', 'src/generated/**', 'legacy/**', 'node_modules/**', 'playwright-report/**', 'test-results/**', 'next-env.d.ts'] },
   {
     rules: {
       // question text is sanitized server-side (src/lib/markdown.ts); images come from vetted content URLs

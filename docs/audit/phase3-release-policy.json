@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "scope": "No approvals are populated automatically. Evidence capture is separate from legal/operational authorization.",
+  "distributionApprovals": [],
+  "componentPermissions": [],
+  "sourceOffers": [],
+  "artifactNotices": [],
+  "releasePrerequisites": []
+}

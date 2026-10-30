@@ -1,0 +1,1945 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6",
+  "version": 1,
+  "metadata": {
+    "component": {
+      "type": "application",
+      "name": "OpenPrep browser inventory",
+      "version": "0.1.0",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "openprep:coverage",
+        "value": "INCOMPLETE; see docs/audit/phase3-artifacts.json and RELEASE_ARTIFACT_COMPLIANCE.md"
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@better-auth/core",
+      "name": "@better-auth/core",
+      "version": "1.7.8",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "807e4222ab8f040330b38fe018a9b35346debd353eaf240dbe1bdd7348a78f8b56da520aa38c41da89e702dcda12dbee8e478fa48d96242781b606147d85251e"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@better-auth/core/-/core-1.7.8.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@better-fetch/fetch",
+      "name": "@better-fetch/fetch",
+      "version": "1.3.2",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "1acee7f7d6f9b6a502e9c4003db574b840f722b68707ac506c72d0fc2de5ed915a7c749c3b1f6943e0d898fe5b95b2c54a15562eac4d52523dc22e3153f5fea3"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@better-fetch/fetch/-/fetch-1.3.2.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@reduxjs/toolkit",
+      "name": "@reduxjs/toolkit",
+      "version": "2.13.0",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "7fa8f05517f05b7d3eb67965cf861cb071e93d860e13b69b707932502a2f0fe3fb0f285d008e69af3d8587ff132e16a48e937eeda2048a89f5b392ffb6f95894"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@reduxjs/toolkit/-/toolkit-2.13.0.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@swc/helpers",
+      "name": "@swc/helpers",
+      "version": "0.5.23",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e654ac30e4d751178f8250dfbee01052a9067a4f47836924b0e61acb69b4f9747ef9bd8d5982ffe2c5b2baf54122cf282a725ac64762f7085a2ffb2a375dda7f"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@swc/helpers/-/helpers-0.5.23.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/better-auth",
+      "name": "better-auth",
+      "version": "1.7.8",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "9281d7a491b4078bfac25a84d142e1ffb553b737a16c5bc7376c76dcce66fad8ad6c38e506ccdd5b3b256d4fb9a68016546c361d8b2764471e0403de16dfd00e"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/better-auth/-/better-auth-1.7.8.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/better-call",
+      "name": "better-call",
+      "version": "1.4.2",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "94e9850931b529c13ad185b1a1f7f65b1d05bfbbfb76b3ff7d04c362784950276403b57a4165dd2cf5223293900aaec57744ecdc092b4700f6df1a22a28b6518"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/better-call/-/better-call-1.4.2.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/clsx",
+      "name": "clsx",
+      "version": "2.1.1",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "7989b441606d52b0566561b4777f3a386030d7a67df793e2395a3607b6e35926c779d1a5e5ed1959aabae6438681448d7ac1080e407d2126d383f24af5d84264"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/clsx/-/clsx-2.1.1.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/d3-array",
+      "name": "d3-array",
+      "version": "3.2.4",
+      "licenses": [
+        {
+          "license": {
+            "name": "ISC"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "b5d4009b2035f22e09ef0a6ba58abc0a5731672dd20b7d5031e072c8217246dec1547751110679969ce87b998511865459efa8abc1c1be4f498e989bc8457826"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/d3-array/-/d3-array-3.2.4.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/d3-color",
+      "name": "d3-color",
+      "version": "3.1.0",
+      "licenses": [
+        {
+          "license": {
+            "name": "ISC"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ce0fdc85b5f2781b4c4352db0ff592a16d83a42dc8d26a663dd5beca74538ffc760c0598ac863ba9e6481e2768cf0576e26e226afaf5e653702302f14663b184"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/d3-color/-/d3-color-3.1.0.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/d3-format",
+      "name": "d3-format",
+      "version": "3.1.0",
+      "licenses": [
+        {
+          "license": {
+            "name": "ISC"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "632508e8012e63f5a9b7c2962e0647b0853ce9ab668a4ba83a609fa269add0b60789048f8ef5f601c15cdfc3d7d02069af6442c998637b1f8d4bf2cf3afe98a8"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/d3-format/-/d3-format-3.1.0.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/d3-interpolate",
+      "name": "d3-interpolate",
+      "version": "3.0.1",
+      "licenses": [
+        {
+          "license": {
+            "name": "ISC"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ddb62cd6b383df7ba8f1aa897ca3f72563c089b830f199b6f8bf6f04a107276460faf89347ba39326bf999972278df854586803965f94890135fa9353d6cfbda"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-3.0.1.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/d3-path",
+      "name": "d3-path",
+      "version": "3.1.0",
+      "licenses": [
+        {
+          "license": {
+            "name": "ISC"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a7728fe4709ffdbbe305248ab9789de99aa28f1ef021f356f89fe668fb3e8b0477e5ab792426cb513d0bcc5d5c9e36c21d686acd04c83762697bca5179b20415"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/d3-path/-/d3-path-3.1.0.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/d3-scale",
+      "name": "d3-scale",
+      "version": "4.0.2",
+      "licenses": [
+        {
+          "license": {
+            "name": "ISC"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "1995b8eb8835487eda83763b8578dff11a14b80148aa494e02adcc465e0e69669b4c5258f4f37f1356249615cb87e390ddf33dc92da73a40a84be58b67a92fc5"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/d3-scale/-/d3-scale-4.0.2.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/d3-shape",
+      "name": "d3-shape",
+      "version": "3.2.0",
+      "licenses": [
+        {
+          "license": {
+            "name": "ISC"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "49a2c1bb01a6dcc395891ab600193778ba31c1910ba47eb3865dc56c0a09ed59b58287cac7a125d486f9cf6dcd504845f40b0697bcbe7732dee42c36000ac64c"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/d3-shape/-/d3-shape-3.2.0.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/d3-time",
+      "name": "d3-time",
+      "version": "3.1.0",
+      "licenses": [
+        {
+          "license": {
+            "name": "ISC"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "56a2a3cc12de8db48c4f82206e65600e3a6462b3565182676c21a8f3be2eecc30a216b082d15fe3a95ff81393c32a8e94f503f73a1d8d9d080efb64dd25910d9"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/d3-time/-/d3-time-3.1.0.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/d3-time-format",
+      "name": "d3-time-format",
+      "version": "4.1.0",
+      "licenses": [
+        {
+          "license": {
+            "name": "ISC"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "749c4f065cc2ecdba00763c32f0a3d43c2624d1dccddee3f5c0364ade29253117cbef5caaa6d587eae10e5d97c6ee765ba745595451a0d4805b7b780f03e8d2e"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/d3-time-format/-/d3-time-format-4.1.0.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/decimal.js-light",
+      "name": "decimal.js-light",
+      "version": "2.5.1",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a88305a533199a7cbe30c222b4007a0fb8953c4a2b570e984115a4bdaad3913e2d05e48b2e21f37308faab4326612142895a62a8f253244608ae970fcd5108be"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/decimal.js-light/-/decimal.js-light-2.5.1.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/defu",
+      "name": "defu",
+      "version": "6.1.7",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ef3db6426516890ff67742a475898035b45454006967d48d6321f9bf1e8f67e9c4e5b702d25eee16f11f1e5ca577f1dc1811532f9dfa0a50eddc311c4a510901"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/defu/-/defu-6.1.7.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/es-toolkit",
+      "name": "es-toolkit",
+      "version": "1.53.0",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "dfe0185e9f5f989fd484704c623dbf53e45a528b8c0fdd12ce822dc83381d996bb5ba741edf400a451a764f976305e8af3f4efd64a21d49ca2ad2c7f923bba3f"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/es-toolkit/-/es-toolkit-1.53.0.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/eventemitter3",
+      "name": "eventemitter3",
+      "version": "5.0.4",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "9a5b1347219a3c18cf79d93a06fc3e6aa6ec5c3b680320339b930eec9814fb2551c8c4393bc6c3e0a71c8bb052f397fddef79e81e08f90bf11e062c29678cb17"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/eventemitter3/-/eventemitter3-5.0.4.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/immer",
+      "name": "immer",
+      "version": "11.2.9",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "210e1412d5e3663c9e7f25a3b4b1035d44ab17a4f68708ca3e2e812099776d8ff65d75b6e1de9c34675725204e03ff8a367ba25e4658e834740b779fa25862b4"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/immer/-/immer-11.2.9.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/internmap",
+      "name": "internmap",
+      "version": "2.0.3",
+      "licenses": [
+        {
+          "license": {
+            "name": "ISC"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e4787b635c106ef639a281a03db0da2f98982c03f331352b8ccba5b241cb1fac27bff03ed6ae6b8046a2baa12307ea3119721566cd4517e47f28f37765241862"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/internmap/-/internmap-2.0.3.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/nanostores",
+      "name": "nanostores",
+      "version": "1.5.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "162c6d136dfd1a5e86cf464608ad16cef37039b342230553f8bef341c7f5420700e80cc1c5b973a9ef4e4fcf2a8ae70d921b2348eaa2a2049a1798d56c98aa48"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/nanostores/-/nanostores-1.5.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/next",
+      "name": "next",
+      "version": "16.4.1",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "b9ceb9ed5eb6137e1f388e96e4db46f48cf0b0f726b3467ad20af3d8c246b609600fea5316736de18c363f3694eb6dad7d7e2f86b0e02d9ce2704d98961236d1"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/next/-/next-16.4.1.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/react",
+      "name": "react",
+      "version": "19.3.1",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "40d85676dee7ae05565901b9f10b86b004778efdc76dee266f8bf3ef0d9cb271dabdc89926075ad423cd6a5745e9e571bfdd2e7778d45e92a51cbebd80edfccb"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/react/-/react-19.3.1.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/react-dom",
+      "name": "react-dom",
+      "version": "19.3.1",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "6346c0473e77961102d4d302012b34fe3f9f681ff3aaddd1f21a6f8357bcfbad59549e142f451d0b87016d77d931c22e86b7e07882d32def9978109abd03ed29"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/react-dom/-/react-dom-19.3.1.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/react-is",
+      "name": "react-is",
+      "version": "19.3.1",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "45189e17a232c5006470aea93fcc4e1e9acb4cf5ba4234646c67489ada8d99efbf85857009990b40b7656463a152a5f0912f481329da1af3c9b6fe9707f733d1"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/react-is/-/react-is-19.3.1.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/react-redux",
+      "name": "react-redux",
+      "version": "9.3.1",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "bf130b4f495a9548db64f9284dea56c8a0196e320816cb0dc7f0842fd9537f040153a5e99064a608d75c088ae438152007af2e7ed64c9db5d56fa0f01a785129"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/react-redux/-/react-redux-9.3.1.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/recharts",
+      "name": "recharts",
+      "version": "3.10.1",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "41716bbede8855cc3b79e642a325d3c24209017dc3bf59f2561322717278ec6b060c3a5c37ccfaa3ae380e26c4f578e90534e1b6ca262ca9d357a95cf9c54550"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/recharts/-/recharts-3.10.1.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/redux",
+      "name": "redux",
+      "version": "5.0.1",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "33dfc42ea17a7f2f05c269299c5d12dd828ea8cca8589e3e092e447e0d9cb77a18f5d690bddfcf73bd45a4666c56c6e5dc2a5bf8821c8c10d49e7c817506eae3"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/redux/-/redux-5.0.1.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/redux-thunk",
+      "name": "redux-thunk",
+      "version": "3.1.0",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "356dabe53ea4b1429709a6f384bf73fa1db4e87430fcd26470b9b518f226450f08cdf5f0446aa356128919ab878ab4f40c0bb2cba863767319691a00732d0a97"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/redux-thunk/-/redux-thunk-3.1.0.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/reselect",
+      "name": "reselect",
+      "version": "5.2.0",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "02067750e666dd89dd7eb2783988e0ad3edb9829bfd62aa48ef11f1ffa188f387a3c3daac3842e4f78e39d722ba5db78313a4c5dc94c4f79576e6458f9745a93"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/reselect/-/reselect-5.2.0.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/scheduler",
+      "name": "scheduler",
+      "version": "0.28.0",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "8eea2b7c2988908c3cb53fa9e415d29ba3c98d017fc9c11898acb3511088b7f45a64884bf8fba56d0f58bb6cf51dd3890dda834e5c40d7ec4a0661d726c73303"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/scheduler/-/scheduler-0.28.0.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/use-sync-external-store",
+      "name": "use-sync-external-store",
+      "version": "1.7.0",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e8bf847a280731085d6883cd20550ac1f5894b058543c8096c9d832ceb39b0321e813c11f5f471be7337b9c8872a3219845cfe280bf67a6856311bc398c718f0"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/use-sync-external-store/-/use-sync-external-store-1.7.0.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/victory-vendor",
+      "name": "victory-vendor",
+      "version": "37.4.1",
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT AND ISC AND BSD-3-Clause"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "compiler/tracer observed input; inclusion extent requires review"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "81e578a761957d533d9609bd6514b7a6fb1b00f4be0541a133d5bd9cfccf1d32a2fbff8a8cdac55dd80fe8a906f97b29359baf71799c85caed9257ee4388278b"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/victory-vendor/-/victory-vendor-37.4.1.tgz"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/ZIPc508bD0FQ0fYBg0R1r/_buildManifest.js",
+      "name": ".next/static/ZIPc508bD0FQ0fYBg0R1r/_buildManifest.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7336fe7827124374b05f5a3c0370f94e6c866e0daa0fee72910ce32b8e918153"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/ZIPc508bD0FQ0fYBg0R1r/_ssgManifest.js",
+      "name": ".next/static/ZIPc508bD0FQ0fYBg0R1r/_ssgManifest.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "678f6ce2cb80b1fe72fc67e7412be6e2ab6ada083111b64f7c40d35e3cba5e00"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/1515-18295f6c1a63c732.js",
+      "name": ".next/static/chunks/1515-18295f6c1a63c732.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3e52948fc1b333d3ad961d35f53046ffe8fa09d68386403455c257a6c77f73a4"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/1966.1560d0f43ac9a41a.js",
+      "name": ".next/static/chunks/1966.1560d0f43ac9a41a.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "95f5232d21a397e41c4ad79146dd438612090660c5a2ab57fd77bb0c43dc27c6"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/2815-e2ffdada80667e7a.js",
+      "name": ".next/static/chunks/2815-e2ffdada80667e7a.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "85e3ce722134272809a21fc2e745aa6c1f3efc28ce8b9237b49f31960afd7631"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/3794-6171eec589156688.js",
+      "name": ".next/static/chunks/3794-6171eec589156688.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "92f9651af722ce2cc445c6bed2f4397fe9138b6cfe060ae99cfb52af66c29016"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/3899.55a0943bf5e7fec7.js",
+      "name": ".next/static/chunks/3899.55a0943bf5e7fec7.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8339ce092a1eedf6f7599becd183b3fa069a0c3db229c92689a664de5f8c88e0"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/4327-d4f7b5fe6afe4711.js",
+      "name": ".next/static/chunks/4327-d4f7b5fe6afe4711.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6327050674f8e4110d2f4cbf6f097dff208fa77f6a83372124bc57181dd197ed"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/4bd1b696-e199e788e58acf79.js",
+      "name": ".next/static/chunks/4bd1b696-e199e788e58acf79.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "92b4fe06c9e49f7c6e41deafb7fb0785ba9504956dd5252bcd6db881ff98cf61"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/761-42e8350bdd3089f9.js",
+      "name": ".next/static/chunks/761-42e8350bdd3089f9.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c15e2209937087bff370be0b79640323039295d74d432ebae55ad909df697954"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/8500-107859ed31978aa3.js",
+      "name": ".next/static/chunks/8500-107859ed31978aa3.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "80d17f936e8c0d871b8e4414a349ac9ca6e2ae0125e34ebba3a730add4044ac6"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/8992-65ec6b8db6d8723a.js",
+      "name": ".next/static/chunks/8992-65ec6b8db6d8723a.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "07039c3c875bc8f4f86457cad04188ef5aea8d7b34fa0846f8f77d5392ce8170"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(app)/(main)/create/page-8a086a69addb7e16.js",
+      "name": ".next/static/chunks/app/(app)/(main)/create/page-8a086a69addb7e16.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "44684d0a8955cd0798d2086d78db6e06d9ec65952c1b84f770617d85ad4a875a"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(app)/(main)/dashboard/page-d3ec0a0b9fb41d92.js",
+      "name": ".next/static/chunks/app/(app)/(main)/dashboard/page-d3ec0a0b9fb41d92.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "cc581d8dc9740be4729d012eb52737b97e9a31f57300a1a84383737816d606b8"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(app)/(main)/flashcards/page-568894ac208c129c.js",
+      "name": ".next/static/chunks/app/(app)/(main)/flashcards/page-568894ac208c129c.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "aca103a5fe949ffbbf7942283970a9b387219c4a61ce72571f4340b8cf9b14e7"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(app)/(main)/loading-4d98d5b1a373266e.js",
+      "name": ".next/static/chunks/app/(app)/(main)/loading-4d98d5b1a373266e.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8abca96d85f1776d84afa0e1606f16925cb067bccc8c1d75011917780b79f753"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(app)/(main)/notebook/page-491f079ca7edbfee.js",
+      "name": ".next/static/chunks/app/(app)/(main)/notebook/page-491f079ca7edbfee.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "eff6bfe88f884052ac2d00abf4f61a775e8b4be2c6e4f9015b7da012928f17ae"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(app)/(main)/performance/page-cb18abddbdd86e91.js",
+      "name": ".next/static/chunks/app/(app)/(main)/performance/page-cb18abddbdd86e91.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "60ddb134b818c9781fe9ff80bff967069b868f89dade2045a4a9a2e0e331be26"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(app)/(main)/planner/page-815d17b617c85e04.js",
+      "name": ".next/static/chunks/app/(app)/(main)/planner/page-815d17b617c85e04.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2665e122df830b38590dad88f318a3de070757024160382179c5e0a4264a571f"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(app)/(main)/questions/page-9046737120e67426.js",
+      "name": ".next/static/chunks/app/(app)/(main)/questions/page-9046737120e67426.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e2a50ed7840abb9eb587c322a05704ec42a76891ff456642aaf84cfe9a6e8dad"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(app)/(main)/settings/page-2bbb42d1922ffcbb.js",
+      "name": ".next/static/chunks/app/(app)/(main)/settings/page-2bbb42d1922ffcbb.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "58d60087afa69f69161801cb4f8fdf0ea62809c5da78ea0845c4db9bcc7a69fe"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(app)/(main)/tests/page-03b63eecb0b447d8.js",
+      "name": ".next/static/chunks/app/(app)/(main)/tests/page-03b63eecb0b447d8.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6647249e182e45e6411a464636eac0e7bb29dbc3d6b4ade689513f7bc7bbc2be"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(app)/layout-a8e418c31120a058.js",
+      "name": ".next/static/chunks/app/(app)/layout-a8e418c31120a058.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ceda7829d8fb5078879e34bc85b20efd8b3d802f7142cef23cc48b325b6b10d2"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(app)/test/[id]/results/page-34e29c314a9ffd72.js",
+      "name": ".next/static/chunks/app/(app)/test/[id]/results/page-34e29c314a9ffd72.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f975e7714e92c3a259f14e573323d923b494669c034e869f40a8ed121d8d1385"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(auth)/forgot-password/page-5be44337bb9bdbe7.js",
+      "name": ".next/static/chunks/app/(auth)/forgot-password/page-5be44337bb9bdbe7.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4dfd15fe9926e3888975e825486035e87a5db19a1d50f4b27099ecf0308659ae"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(auth)/layout-03b63eecb0b447d8.js",
+      "name": ".next/static/chunks/app/(auth)/layout-03b63eecb0b447d8.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6647249e182e45e6411a464636eac0e7bb29dbc3d6b4ade689513f7bc7bbc2be"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(auth)/login/page-85d23c5feadff835.js",
+      "name": ".next/static/chunks/app/(auth)/login/page-85d23c5feadff835.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0dc84e66471be377ce777b2b9c8038726d4689033ad2b4b6a48eb55c4c2619bd"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(auth)/register/page-1752efd214e092ae.js",
+      "name": ".next/static/chunks/app/(auth)/register/page-1752efd214e092ae.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "056c971211a34a9724ed8f4361c05d719226044f4b4ab705ecc5d59a48e96298"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(auth)/reset-password/page-b5f85ed00ff3451a.js",
+      "name": ".next/static/chunks/app/(auth)/reset-password/page-b5f85ed00ff3451a.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ce68f661b22ba0d526fc382ae66e55ffbc95035ed5f0cfea966700babfa0833a"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(exam)/layout-4d98d5b1a373266e.js",
+      "name": ".next/static/chunks/app/(exam)/layout-4d98d5b1a373266e.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8abca96d85f1776d84afa0e1606f16925cb067bccc8c1d75011917780b79f753"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/(exam)/test/[id]/page-d81bede1246d3a34.js",
+      "name": ".next/static/chunks/app/(exam)/test/[id]/page-d81bede1246d3a34.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "aa1af15163158eba2f23561477d17d04ee25c25559fd7f67af8dc9e69aee1b49"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/_global-error/page-4d98d5b1a373266e.js",
+      "name": ".next/static/chunks/app/_global-error/page-4d98d5b1a373266e.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8abca96d85f1776d84afa0e1606f16925cb067bccc8c1d75011917780b79f753"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/_not-found/page-4d98d5b1a373266e.js",
+      "name": ".next/static/chunks/app/_not-found/page-4d98d5b1a373266e.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8abca96d85f1776d84afa0e1606f16925cb067bccc8c1d75011917780b79f753"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/admin/audit/page-03b63eecb0b447d8.js",
+      "name": ".next/static/chunks/app/admin/audit/page-03b63eecb0b447d8.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6647249e182e45e6411a464636eac0e7bb29dbc3d6b4ade689513f7bc7bbc2be"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/admin/import/page-f69da78b2ae5674c.js",
+      "name": ".next/static/chunks/app/admin/import/page-f69da78b2ae5674c.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c35843d54c8b0877ae25e93534f6a8a7f4926db7f2bc5ed3c2023175c29f205a"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/admin/layout-8aa05cf234959963.js",
+      "name": ".next/static/chunks/app/admin/layout-8aa05cf234959963.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a5e6de98aa4f9fe7809bff05b343b2fcf8a4a41d382ee8615c14403ba8425503"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/admin/page-03b63eecb0b447d8.js",
+      "name": ".next/static/chunks/app/admin/page-03b63eecb0b447d8.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6647249e182e45e6411a464636eac0e7bb29dbc3d6b4ade689513f7bc7bbc2be"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/admin/questions/[id]/page-576cefd97f6bbba3.js",
+      "name": ".next/static/chunks/app/admin/questions/[id]/page-576cefd97f6bbba3.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0dd8d7143d163ca9a82cd3bac8e2b5dcbecd2aa39981b2700312b89ab12ed7b9"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/admin/questions/new/page-c32b2c9a3d67df74.js",
+      "name": ".next/static/chunks/app/admin/questions/new/page-c32b2c9a3d67df74.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2458c7d60ad1c021e54336fd74f5682206c0de30d1282316a4a6414926a41eed"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/admin/questions/page-03b63eecb0b447d8.js",
+      "name": ".next/static/chunks/app/admin/questions/page-03b63eecb0b447d8.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6647249e182e45e6411a464636eac0e7bb29dbc3d6b4ade689513f7bc7bbc2be"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/admin/reports/page-b5ad5e6f50855313.js",
+      "name": ".next/static/chunks/app/admin/reports/page-b5ad5e6f50855313.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "eb1e5c63df1e4fb0bab1d7cbe46d6c82216805d23aa54d3216be4de6525dd89f"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/admin/taxonomy/page-a90ce1610098ff96.js",
+      "name": ".next/static/chunks/app/admin/taxonomy/page-a90ce1610098ff96.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6294dba9227aba708aabb95019cd596d100645e6622b976ec238b53565b54012"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/admin/users/page-43752b0d34f23979.js",
+      "name": ".next/static/chunks/app/admin/users/page-43752b0d34f23979.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ee3ba8ca08be2d00aa72700fab070345a20d75fe77fd183abf1c1325df94467c"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/api/admin/export/route-4d98d5b1a373266e.js",
+      "name": ".next/static/chunks/app/api/admin/export/route-4d98d5b1a373266e.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8abca96d85f1776d84afa0e1606f16925cb067bccc8c1d75011917780b79f753"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/api/ai/ask/route-4d98d5b1a373266e.js",
+      "name": ".next/static/chunks/app/api/ai/ask/route-4d98d5b1a373266e.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8abca96d85f1776d84afa0e1606f16925cb067bccc8c1d75011917780b79f753"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/api/auth/[...all]/route-4d98d5b1a373266e.js",
+      "name": ".next/static/chunks/app/api/auth/[...all]/route-4d98d5b1a373266e.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8abca96d85f1776d84afa0e1606f16925cb067bccc8c1d75011917780b79f753"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/api/export/me/route-4d98d5b1a373266e.js",
+      "name": ".next/static/chunks/app/api/export/me/route-4d98d5b1a373266e.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8abca96d85f1776d84afa0e1606f16925cb067bccc8c1d75011917780b79f753"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/api/export/plan/route-4d98d5b1a373266e.js",
+      "name": ".next/static/chunks/app/api/export/plan/route-4d98d5b1a373266e.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8abca96d85f1776d84afa0e1606f16925cb067bccc8c1d75011917780b79f753"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/api/export/progress/route-4d98d5b1a373266e.js",
+      "name": ".next/static/chunks/app/api/export/progress/route-4d98d5b1a373266e.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8abca96d85f1776d84afa0e1606f16925cb067bccc8c1d75011917780b79f753"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/error-31e2e9a2e92ff6d8.js",
+      "name": ".next/static/chunks/app/error-31e2e9a2e92ff6d8.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "abf09da31101f01eef423adad393ced377660cb3f398cc6fb6046c85d72411e2"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/layout-ae431765cf7297d9.js",
+      "name": ".next/static/chunks/app/layout-ae431765cf7297d9.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8eef5fdaeef7185b762d36a3353fbb96a6582f13a7b3fc6f7af6aeb28a8ee610"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/not-found-03b63eecb0b447d8.js",
+      "name": ".next/static/chunks/app/not-found-03b63eecb0b447d8.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6647249e182e45e6411a464636eac0e7bb29dbc3d6b4ade689513f7bc7bbc2be"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/app/page-40503535f81114b7.js",
+      "name": ".next/static/chunks/app/page-40503535f81114b7.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "87296ad1df9972ffc8d16b2fe333659fc9d27c50e2b0800d10e76157041502eb"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/framework-7db505987826b98f.js",
+      "name": ".next/static/chunks/framework-7db505987826b98f.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "bf5549a7383b2f465d766af63596c558a46f1179e1a854b83ba1341454fd14eb"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/main-a7ee793b0926fe5f.js",
+      "name": ".next/static/chunks/main-a7ee793b0926fe5f.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7edef1fd9bb2fffde5163c0396002cc0261300c81936bfacfd790c80eba1ad7d"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/main-app-02edb4a3545b6e53.js",
+      "name": ".next/static/chunks/main-app-02edb4a3545b6e53.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5b55d66de6b0684e857d57ac842d46fe7c76629e17ecbbc8dc2a4b1b8ab18f2e"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/next/dist/client/components/builtin/app-error-4d98d5b1a373266e.js",
+      "name": ".next/static/chunks/next/dist/client/components/builtin/app-error-4d98d5b1a373266e.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8abca96d85f1776d84afa0e1606f16925cb067bccc8c1d75011917780b79f753"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/next/dist/client/components/builtin/forbidden-4d98d5b1a373266e.js",
+      "name": ".next/static/chunks/next/dist/client/components/builtin/forbidden-4d98d5b1a373266e.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8abca96d85f1776d84afa0e1606f16925cb067bccc8c1d75011917780b79f753"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/next/dist/client/components/builtin/global-error-9b280dd428c1174f.js",
+      "name": ".next/static/chunks/next/dist/client/components/builtin/global-error-9b280dd428c1174f.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "105aec1319241dfb5daa01f60f85ff10f8c9c304faeff8c0ca5d3fd0b984bb88"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/next/dist/client/components/builtin/unauthorized-4d98d5b1a373266e.js",
+      "name": ".next/static/chunks/next/dist/client/components/builtin/unauthorized-4d98d5b1a373266e.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8abca96d85f1776d84afa0e1606f16925cb067bccc8c1d75011917780b79f753"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/polyfills-42372ed130431b0a.js",
+      "name": ".next/static/chunks/polyfills-42372ed130431b0a.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/chunks/webpack-304436cd2acd5df4.js",
+      "name": ".next/static/chunks/webpack-304436cd2acd5df4.js",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "724d6668e1b2e34917be496e9ebdaa421786f89a58c991fc00530fd0492f32ab"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.next/static/css/063af2e1ea4c35f0.css",
+      "name": ".next/static/css/063af2e1ea4c35f0.css",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "dd88ba0e10d22439499af9dba2bbb7c334be52baaa810a5db126535cf0c04472"
+        }
+      ]
+    }
+  ]
+}

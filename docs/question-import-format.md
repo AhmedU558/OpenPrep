@@ -79,3 +79,7 @@ npm run test:e2e
 ```
 
 `bank:preserve` compares the original question/option and user/study table hashes with `content/bank/baseline.json`. It is a milestone integrity check, not a backup or a permanent assertion after normal learner activity. Vitest and Playwright use the separate `_test` database; do not run them concurrently because both reset that database. Never run `db:reset` or `db:seed` against the live bank to populate these batches: the old seed updates existing demo options.
+
+## Phase 2 rights enforcement
+
+Imports remain unverified regardless of CC metadata or demo flags. Existing local-practice flags cannot bypass setStatus rights checks: importing a batch does not authorize publication. Review actual evidence in admin, record the permitted delivery/export scopes, then use the existing publication workflow. Create-only retries preserve approved unchanged versions; changed content needs new review, and sources with attempts or study references require a new code. Bank verification/report commands that use exportQuestions see only export-authorized content; withheld output is not proof that stored questions were deleted. Generated authoring JSON remains a local candidate: use the source-content preflight before any public distribution. See [CONTENT_RIGHTS_ENFORCEMENT](CONTENT_RIGHTS_ENFORCEMENT.md).
