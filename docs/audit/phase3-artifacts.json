@@ -46,7 +46,7 @@
         },
         {
           "path": ".github/workflows/dependency-review.yml",
-          "sha256": "f11e516be11265187d29a71522ab13c340b05c0cf65afac82912ad6501582859"
+          "sha256": "8181a0584a680efbb30ea31ee6eb53664be01fe5169c95eeb96990c8692a4fe7"
         },
         {
           "path": ".gitignore",
@@ -334,7 +334,7 @@
         },
         {
           "path": "docs/GITHUB_CONFIGURATION.md",
-          "sha256": "cf6d0b2d3601008477995e4014378fdc9781eda82ba33f18f6ce4db2fa096835"
+          "sha256": "274273097cd1ff2c4e10b24085b196c943856417e981f9793acdf6c013ce06c5"
         },
         {
           "path": "docs/LICENSING_AUDIT.md",
@@ -26624,7 +26624,7 @@
   "sboms": [
     {
       "path": "docs/SBOM_SOURCE.json",
-      "sha256": "8776014d4de02d82fb28842ca353f8f02b005c007ebb214eaa0ac1ee56c6138e"
+      "sha256": "e0f5d203dc0878821c2aa95c71dba5022c31d7e5b3bc75c4695973a3bcd5d8f0"
     },
     {
       "path": "docs/SBOM_BROWSER.json",

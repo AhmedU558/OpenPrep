@@ -10,6 +10,33 @@ jobs:
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
         with:
           persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: '24.22.1'
+          cache: npm
+      - run: npm ci
+      - name: Audit every locked dependency
+        run: npm audit --audit-level=moderate
+      - name: Check dependency-review availability
+        id: graph
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          response="$RUNNER_TEMP/dependency-graph-response"
+          if gh api --include "repos/$GITHUB_REPOSITORY/dependency-graph/compare/$BASE_SHA...$HEAD_SHA" > "$response" 2> "$response.error"; then
+            echo 'available=true' >> "$GITHUB_OUTPUT"
+          elif grep -Eq '^HTTP/[0-9.]+ (403|404)([[:space:]]|$)' "$response"; then
+            echo 'available=false' >> "$GITHUB_OUTPUT"
+            echo '::warning::GitHub dependency review is unavailable. Full-lockfile npm audit is required and ran above; no repository setting was changed.'
+          else
+            cat "$response.error"
+            exit 1
+          fi
       - uses: actions/dependency-review-action@a1d282b36b6f3519aa1f3fc636f609c47dddb294 # v5.0.0
+        if: steps.graph.outputs.available == 'true'
         with:
           fail-on-severity: moderate

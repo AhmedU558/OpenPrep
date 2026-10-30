@@ -30,3 +30,7 @@ Require PRs, passing required checks and resolved review conversations; block fo
 ## Maintainer references
 
 [GitHub secure Actions use](https://docs.github.com/en/actions/reference/security/secure-use) · [Dependency review availability and graph requirements](https://docs.github.com/en/code-security/concepts/supply-chain-security/dependency-review) · [Private reporting configuration](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/configure-for-a-repository). Feature availability is time-sensitive; verify it again before configuring the repository.
+
+## Hosted dependency-review availability
+
+During PR preparation on 2026-10-30, GitHub reported dependency review unsupported because Dependency Graph is disabled (the compare API returned HTTP 403). The dependency-review workflow now always performs a full-lockfile `npm audit --audit-level=moderate`, and additionally runs GitHub delta review when its compare API is available. Only explicit HTTP 403/404 unavailability selects the audit-only path; network/server failures remain errors. This does not enable a GitHub setting, waive vulnerability findings or represent the unavailable delta review as successful. Enabling Dependency Graph remains a separately authorized setting change.
