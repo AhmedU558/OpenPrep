@@ -4,12 +4,12 @@
 
 /* OpenPrep design tokens. Contrast pairs are WCAG AA (≥ 4.5:1 for text). */
 :root {
-  --bg: #f5f6f2;
+  --bg: #f3f6f2;
   --surface: #ffffff;
   --surface-2: #eceee8;
   --ink: #16201c;
   --muted: #56645d;
-  --line: #d8ded6;
+  --line: #dfe6df;
   --brand: #0b6e5a;
   --brand-strong: #08594a;
   --brand-ink: #ffffff;
@@ -66,6 +66,16 @@ body { background: var(--bg); color: var(--ink); -webkit-font-smoothing: antiali
 :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 4px; }
 ::selection { background: var(--brand-soft); }
 
+.study-sidebar { background: #153f35; color: #fff; overflow-y: auto; }
+.study-sidebar > a { color: #fff; }
+.study-sidebar > a svg { --brand: #fff; --brand-ink: #153f35; }
+.study-hero { background: #153f35; color: #fff; }
+.study-orbits { position: absolute; width: 340px; height: 340px; right: -80px; top: -45px; opacity: .45; pointer-events: none; }
+.study-orbits span { position: absolute; inset: 0; border: 1px solid #8bb5a0; border-radius: 50%; }
+.study-orbits span:nth-child(2) { inset: 42px; }
+.study-orbits span:nth-child(3) { inset: 84px; background: #ffffff0b; }
+@media (max-width: 640px) { .study-orbits { right: -230px; opacity: .2; } }
+
 /* Rendered Markdown (question stems, explanations, notes) */
 .prose-q { line-height: 1.7; }
 .prose-q p { margin: 0.65em 0; }
@@ -83,5 +93,7 @@ mark { background: var(--mark); color: inherit; padding: 0 1px; border-radius: 2
 
 @media print {
   header, nav, .no-print { display: none !important; }
+  .study-sidebar { display: none !important; }
+  .study-shell { padding-left: 0 !important; }
   body { background: white; color: black; }
 }

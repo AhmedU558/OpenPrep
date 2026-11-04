@@ -20,6 +20,7 @@ const csp = [
 ].join('; ');
 
 const nextConfig: NextConfig = {
+  experimental: { cpus: 2 },
   poweredByHeader: false,
   webpack(config, { isServer, nextRuntime }) {
     if (process.env.OPENPREP_COMPLIANCE_STATS === '1') config.plugins.push(new ComplianceStatsPlugin(isServer ? `server-${nextRuntime ?? 'node'}` : 'browser'));

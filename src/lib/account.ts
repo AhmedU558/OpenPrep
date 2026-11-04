@@ -35,11 +35,18 @@ export async function exportMyData(userId: string) {
     db.contentReport.findMany({ where: { userId, question: exportRights } }),
   ]);
   const notebook = await filterNotebookRights(pages, 'export');
-  return { exportedAt: new Date().toISOString(), user, sessions, responses, bookmarks, notes, tags, notebook, collections, cards, plan, reports,
+  const serializableSessions = sessions.map(session => ({ ...session, sessionStartEventSeq: session.sessionStartEventSeq?.toString() ?? null }));
+  return { exportedAt: new Date().toISOString(), user, sessions: serializableSessions, responses, bookmarks, notes, tags, notebook, collections, cards, plan, reports,
     rightsNotice: 'Question-linked notes, reports, cards and notebook clips with unresolved or non-exportable rights are withheld; stored records and study history are preserved.' };
 }
 
 export async function deleteAccount(userId: string) {
   // cascades remove sessions, answers, notes, cards, plans; authored questions keep content with author set to null
-  await db.user.delete({ where: { id: userId } });
+  await db.$transaction(async tx => {
+    await tx.practiceAttempt.deleteMany({ where: { userId } });
+    await tx.practiceReset.deleteMany({ where: { userId } });
+    await tx.practiceEvent.deleteMany({ where: { userId } });
+    await tx.userPracticeState.deleteMany({ where: { userId } });
+    await tx.user.delete({ where: { id: userId } });
+  });
 }

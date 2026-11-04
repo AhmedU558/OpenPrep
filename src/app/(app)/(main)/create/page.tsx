@@ -2,6 +2,7 @@ import { CreateTestForm } from '@/components/create-test-form';
 import { PageHeader } from '@/components/ui';
 import { db } from '@/lib/db';
 import { facets, questionWhere } from '@/lib/questions';
+import { resolveUserActiveQuestionPools } from '@/lib/practice-event-sequence';
 import { requireUserPage } from '@/lib/session';
 import { filtersSchema, POOLS } from '@/lib/validation/exam';
 
@@ -10,9 +11,10 @@ export const metadata = { title: 'Create test' };
 export default async function CreatePage({ searchParams }: { searchParams: Promise<{ collection?: string }> }) {
   const user = await requireUserPage();
   const { collection } = await searchParams;
+  const pools = await resolveUserActiveQuestionPools(db, user.id);
   const [f, poolCounts, collections] = await Promise.all([
     facets({ status: 'PUBLISHED' }),
-    Promise.all(POOLS.map(async (pool) => [pool, await db.question.count({ where: await questionWhere(user.id, filtersSchema.parse({ pool })) })] as const)),
+    Promise.all(POOLS.map(async (pool) => [pool, await db.question.count({ where: await questionWhere(user.id, filtersSchema.parse({ pool }), pools) })] as const)),
     db.collection.findMany({ where: { userId: user.id }, select: { id: true, name: true, _count: { select: { items: true } } }, orderBy: { name: 'asc' } }),
   ]);
   return (

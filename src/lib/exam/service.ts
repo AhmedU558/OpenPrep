@@ -1,4 +1,4 @@
-﻿// Practice-session operations. Every function takes the acting userId and only touches that user's sessions.
+// Practice-session operations. Every function takes the acting userId and only touches that user's sessions.
 // Each mutating call locks the session row (SELECT ... FOR UPDATE) so concurrent requests are serialized:
 // a double-clicked Submit, or an answer racing the deadline, cannot corrupt or double-score a test.
 import type { SessionItem, TestSession } from '@/generated/prisma/client';
@@ -6,10 +6,12 @@ import { db, type Tx } from '../db';
 import { AppError } from '../errors';
 import { acceptHighlights, renderMarkdown } from '../markdown';
 import { questionWhere } from '../questions';
-import { deliverableQuestion, requireQuestionDelivery } from '../content-rights';
+import { deliverableQuestion } from '../content-rights';
 import { createSessionSchema, positionSchema, selectionSchema } from '../validation/exam';
 import { activeMsAt, isExpired, remainingMs, transition } from './machine';
 import { scoreItem, scoreSession, validateSelection, type ItemOutcome } from './scoring';
+import { recordAttemptSubmission, recordPracticeEvent } from '../practice-event-sequence';
+import { getDeliverableQuestion, type QuestionContentSnapshot } from '../question-revision';
 
 const MAX_ITEM_STRETCH_MS = 30 * 60e3; // ignore time beyond 30 min on one question (left the tab open)
 
@@ -75,12 +77,168 @@ async function accrue(tx: Tx, s: TestSession, now: Date) {
   s.positionSince = now;
 }
 
-type ItemWithKey = SessionItem & { question: { id: string; type: 'SINGLE' | 'MULTIPLE'; options: { id: string; isCorrect: boolean }[] } };
+type ItemOption = { id: string; position: number; text: string; isCorrect: boolean };
+type ItemWithKey = SessionItem & { question: { id: string; type: 'SINGLE' | 'MULTIPLE'; options: ItemOption[] } };
 const correctIds = (i: ItemWithKey) => i.question.options.filter((o) => o.isCorrect).map((o) => o.id);
 
+/**
+ * Ensures the session has a persisted sessionStartEventSeq.
+ * Uses the already-acquired session row lock (SELECT FOR UPDATE in mutate/lock).
+ * If s.sessionStartEventSeq is already present, returns it immediately without creating an event.
+ * If missing (e.g. legacy in-progress session started before deployment), backfills exactly one
+ * synthetic SESSION_START event atomically and persists sessionStartEventSeq to test_session.
+ */
+async function ensureSessionStartSeq(tx: Tx, userId: string, s: TestSession, now: Date): Promise<bigint> {
+  if (s.sessionStartEventSeq != null) {
+    return s.sessionStartEventSeq;
+  }
+
+  const { eventSeq } = await recordPracticeEvent(tx, {
+    userId,
+    eventType: 'SESSION_START',
+    sessionId: s.id,
+    payload: {
+      synthetic: true,
+      reason: 'legacy_in_progress_backfill',
+      startedAt: (s.startedAt ?? now).toISOString(),
+    },
+  });
+
+  await tx.testSession.update({
+    where: { id: s.id },
+    data: { sessionStartEventSeq: eventSeq },
+  });
+
+  s.sessionStartEventSeq = eventSeq;
+  return eventSeq;
+}
+
 async function lockItem(tx: Tx, userId: string, s: TestSession, item: ItemWithKey, now: Date): Promise<ItemOutcome> {
-  const out = scoreItem(correctIds(item), item.selectedOptionIds, s.negativeMark);
-  await tx.sessionItem.update({ where: { id: item.id }, data: { state: 'LOCKED', isCorrect: out.isCorrect, points: out.points, lockedAt: now } });
+  // 1. Resolve delivered revision and content snapshot (pinned or deliverable)
+  let deliveredRevisionId = item.deliveredRevisionId;
+  let snapshot: QuestionContentSnapshot | null = null;
+  let isVersioned = false;
+
+  // Re-read deliveredRevisionId under lock in case it was bound concurrently
+  if (!deliveredRevisionId) {
+    const fresh = await tx.sessionItem.findUnique({
+      where: { id: item.id },
+      select: { deliveredRevisionId: true },
+    });
+    if (fresh?.deliveredRevisionId) {
+      deliveredRevisionId = fresh.deliveredRevisionId;
+      item.deliveredRevisionId = deliveredRevisionId;
+    }
+  }
+
+  if (deliveredRevisionId) {
+    const rev = await tx.questionRevision.findUnique({
+      where: { id: deliveredRevisionId },
+      select: { id: true, revisionNumber: true, contentSnapshot: true },
+    });
+    if (!rev) {
+      throw new AppError('NOT_FOUND', 'Delivered question revision not found.');
+    }
+    snapshot = rev.contentSnapshot as unknown as QuestionContentSnapshot;
+    isVersioned = true;
+  } else {
+    const delivery = await getDeliverableQuestion(tx, item.questionId);
+    if (!delivery.deliverable) {
+      throw new AppError('NOT_FOUND', delivery.reason ?? 'Question content is withheld pending review. Your saved attempt is preserved.');
+    }
+    if (delivery.isVersioned && delivery.revisionId) {
+      deliveredRevisionId = delivery.revisionId;
+      snapshot = delivery.snapshot;
+      isVersioned = true;
+      await tx.sessionItem.updateMany({
+        where: { id: item.id, deliveredRevisionId: null },
+        data: { deliveredRevisionId: delivery.revisionId },
+      });
+      item.deliveredRevisionId = delivery.revisionId;
+    }
+  }
+
+  // Determine correct option IDs: from approved snapshot if versioned, else from live options
+  let correctOptionIds: string[];
+  if (isVersioned && snapshot) {
+    const correctPositions = new Set(
+      snapshot.options.filter((so) => so.isCorrect).map((so) => so.position)
+    );
+    correctOptionIds = item.question.options
+      .filter((o) => correctPositions.has(o.position))
+      .map((o) => o.id);
+  } else {
+    correctOptionIds = correctIds(item);
+  }
+
+  const out = scoreItem(correctOptionIds, item.selectedOptionIds, s.negativeMark);
+  await tx.sessionItem.update({
+    where: { id: item.id },
+    data: {
+      state: 'LOCKED',
+      isCorrect: out.isCorrect,
+      points: out.points,
+      lockedAt: now,
+      ...(deliveredRevisionId ? { deliveredRevisionId } : {}),
+    },
+  });
+
+  // 2. Session start sequence resolution (atomic & race-safe)
+  const sessionStartEventSeq = await ensureSessionStartSeq(tx, userId, s, now);
+
+  // 3. Format option snapshot according to answer rules
+  const sortedOptions = [...item.question.options].sort((a, b) => a.position - b.position);
+  const selectedOptions = sortedOptions.filter((o) => item.selectedOptionIds.includes(o.id));
+
+  let selectedOptionId: string | null = null;
+  let selectedOptionIdentifier: string;
+  let selectedOptionTextSnapshot: string;
+
+  if (selectedOptions.length === 0) {
+    selectedOptionIdentifier = 'OMITTED';
+    selectedOptionTextSnapshot = '(Omitted)';
+  } else if (selectedOptions.length === 1) {
+    const single = selectedOptions[0]!;
+    selectedOptionId = single.id;
+    selectedOptionIdentifier = String.fromCharCode(65 + single.position);
+    const snapOpt = snapshot?.options.find((so) => so.position === single.position);
+    selectedOptionTextSnapshot = snapOpt?.text ?? single.text;
+  } else {
+    selectedOptionId = null;
+    selectedOptionIdentifier = selectedOptions.map((o) => String.fromCharCode(65 + o.position)).join(', ');
+    selectedOptionTextSnapshot = JSON.stringify(
+      selectedOptions.map((o) => {
+        const snapOpt = snapshot?.options.find((so) => so.position === o.position);
+        return {
+          identifier: String.fromCharCode(65 + o.position),
+          text: snapOpt?.text ?? o.text,
+        };
+      })
+    );
+  }
+
+  // 4. Exact delivered revision ID
+  const revisionId = isVersioned ? deliveredRevisionId : null;
+
+  // 5. Deterministic idempotency key
+  const idempotencyKey = `session:${s.id}:item:${item.id}`;
+
+  // 6. Record attempt atomically
+  await recordAttemptSubmission(tx, {
+    userId,
+    idempotencyKey,
+    sessionId: s.id,
+    sessionItemId: item.id,
+    questionId: item.questionId,
+    revisionId,
+    sessionStartEventSeq,
+    selectedOptionId,
+    selectedOptionIdentifier,
+    selectedOptionTextSnapshot,
+    isCorrect: out.isCorrect,
+    secondsSpent: Math.max(0, Math.round(item.timeMs / 1000)),
+    clientSubmittedAt: now,
+  });
   const resp = { sessionId: s.id, isCorrect: out.isCorrect, omitted: out.omitted, timeMs: item.timeMs, answeredAt: now };
   await tx.response.upsert({
     where: { userId_questionId: { userId, questionId: item.questionId } },
@@ -94,7 +252,7 @@ async function doSubmit(tx: Tx, userId: string, s: TestSession, now: Date) {
   await accrue(tx, s, now);
   const items = await tx.sessionItem.findMany({
     where: { sessionId: s.id },
-    include: { question: { select: { id: true, type: true, options: { select: { id: true, isCorrect: true } } } } },
+    include: { question: { select: { id: true, type: true, options: { select: { id: true, position: true, text: true, isCorrect: true }, orderBy: { position: 'asc' } } } } },
   });
   const outcomes: ItemOutcome[] = [];
   for (const it of items) {
@@ -127,7 +285,7 @@ async function expireIfDue(tx: Tx, userId: string, s: TestSession, now: Date) {
 async function itemAt(tx: Tx, s: TestSession, position: number): Promise<ItemWithKey> {
   const it = await tx.sessionItem.findUnique({
     where: { sessionId_position: { sessionId: s.id, position } },
-    include: { question: { select: { id: true, type: true, options: { select: { id: true, isCorrect: true } } } } },
+    include: { question: { select: { id: true, type: true, options: { select: { id: true, position: true, text: true, isCorrect: true }, orderBy: { position: 'asc' } } } } },
   });
   if (!it) throw new AppError('NOT_FOUND', 'Question not found in this test.');
   return it as ItemWithKey;
@@ -149,6 +307,24 @@ export async function openSession(userId: string, id: string) {
   return mutate(userId, id, async (tx, s, now) => {
     if (await expireIfDue(tx, userId, s, now)) return;
     if (s.state === 'CREATED' || s.state === 'PAUSED') {
+      let startSeq = s.sessionStartEventSeq;
+      if (s.state === 'CREATED' && startSeq == null) {
+        const { eventSeq } = await recordPracticeEvent(tx, {
+          userId,
+          eventType: 'SESSION_START',
+          sessionId: s.id,
+          payload: { mode: s.mode, total: s.total },
+        });
+        startSeq = eventSeq;
+        s.sessionStartEventSeq = eventSeq;
+      } else if (s.state === 'PAUSED') {
+        await recordPracticeEvent(tx, {
+          userId,
+          eventType: 'SESSION_RESUME',
+          sessionId: s.id,
+          payload: { activeMs: s.activeMs },
+        });
+      }
       if (s.state === 'CREATED' && s.practiceExamId && (s.blockIndex ?? 0) > 0) {
         const pe = await tx.practiceExam.findUniqueOrThrow({ where: { id: s.practiceExamId } });
         if (pe.breakStartedAt) {
@@ -160,7 +336,7 @@ export async function openSession(userId: string, id: string) {
         where: { id: s.id },
         data: {
           state: transition(s.state, s.state === 'CREATED' ? 'start' : 'resume'),
-          startedAt: s.startedAt ?? now, lastResumedAt: now, positionSince: now,
+          startedAt: s.startedAt ?? now, lastResumedAt: now, positionSince: now, ...(startSeq != null ? { sessionStartEventSeq: startSeq } : {}),
         },
       });
     }
@@ -169,11 +345,19 @@ export async function openSession(userId: string, id: string) {
 
 export async function pauseSession(userId: string, id: string) {
   return mutate(userId, id, async (tx, s, now) => {
+    if (s.state === 'PAUSED') return;
     if (await expireIfDue(tx, userId, s, now)) return;
     await accrue(tx, s, now);
+    const activeMs = Math.round(activeMsAt(s, now));
+    await recordPracticeEvent(tx, {
+      userId,
+      eventType: 'SESSION_SUSPEND',
+      sessionId: s.id,
+      payload: { activeMs },
+    });
     await tx.testSession.update({
       where: { id: s.id },
-      data: { state: transition(s.state, 'pause'), activeMs: Math.round(activeMsAt(s, now)), lastResumedAt: null, positionSince: null },
+      data: { state: transition(s.state, 'pause'), activeMs, lastResumedAt: null, positionSince: null },
     });
   });
 }
@@ -265,7 +449,18 @@ export async function setHighlights(userId: string, id: string, rawPosition: unk
   return mutate(userId, id, async (tx, s) => {
     const it = await itemAt(tx, s, position);
     const q = await tx.question.findUniqueOrThrow({ where: { id: it.questionId }, select: { stemMd: true } });
-    const clean = html === '' ? null : acceptHighlights(html, q.stemMd);
+    let stemMd = q.stemMd;
+    if (it.deliveredRevisionId) {
+      const rev = await tx.questionRevision.findUnique({
+        where: { id: it.deliveredRevisionId },
+        select: { contentSnapshot: true },
+      });
+      if (rev) {
+        const snap = rev.contentSnapshot as unknown as QuestionContentSnapshot;
+        if (snap.stemMd) stemMd = snap.stemMd;
+      }
+    }
+    const clean = html === '' ? null : acceptHighlights(html, stemMd);
     if (html !== '' && !clean) throw new AppError('INVALID', 'Highlights did not match the question text.');
     await tx.sessionItem.update({ where: { id: it.id }, data: { highlightsHtml: clean } });
   });
@@ -299,10 +494,91 @@ export async function getView(userId: string, id: string) {
     },
   });
   const q = it.question;
-  await requireQuestionDelivery(q.id);
+  let deliveredRevisionId = it.deliveredRevisionId;
+  let snap: QuestionContentSnapshot | null = null;
+
+  if (deliveredRevisionId) {
+    if (q.rightsStatus !== 'VERIFIED' || !q.rightsAllowDelivery) {
+      throw new AppError('NOT_FOUND', 'Question content is withheld pending rights review. Your saved attempt is preserved.');
+    }
+    const rev = await db.questionRevision.findUnique({
+      where: { id: deliveredRevisionId },
+      select: { id: true, revisionNumber: true, contentSnapshot: true },
+    });
+    if (!rev) {
+      throw new AppError('NOT_FOUND', 'Delivered question revision not found.');
+    }
+    snap = rev.contentSnapshot as unknown as QuestionContentSnapshot;
+  } else {
+    // Atomic revision binding with row-level locking to prevent concurrent overwrite
+    const resolved = await db.$transaction(async (tx) => {
+      const rows = await tx.$queryRaw<{ id: string; deliveredRevisionId: string | null }[]>`
+        SELECT id, "deliveredRevisionId"
+        FROM session_item
+        WHERE id = ${it.id}
+        FOR UPDATE
+      `;
+      if (!rows || rows.length === 0) {
+        throw new AppError('NOT_FOUND', 'Session item not found.');
+      }
+      const current = rows[0]!;
+
+      // If already bound by a concurrent request, reread and return the winning revision
+      if (current.deliveredRevisionId) {
+        const rev = await tx.questionRevision.findUnique({
+          where: { id: current.deliveredRevisionId },
+          select: { id: true, revisionNumber: true, contentSnapshot: true },
+        });
+        if (!rev) {
+          throw new AppError('NOT_FOUND', 'Delivered question revision not found.');
+        }
+        return {
+          deliveredRevisionId: current.deliveredRevisionId,
+          snap: rev.contentSnapshot as unknown as QuestionContentSnapshot,
+        };
+      }
+
+      // Otherwise resolve deliverable question under lock
+      const delivery = await getDeliverableQuestion(tx, q.id);
+      if (!delivery.deliverable) {
+        throw new AppError('NOT_FOUND', delivery.reason ?? 'Question content is withheld pending review. Your saved attempt is preserved.');
+      }
+
+      let newRevId: string | null = null;
+      let newSnap: QuestionContentSnapshot | null = null;
+
+      if (delivery.isVersioned && delivery.revisionId) {
+        newRevId = delivery.revisionId;
+        newSnap = delivery.snapshot;
+        // Conditional update: only if deliveredRevisionId is still null
+        await tx.sessionItem.updateMany({
+          where: { id: it.id, deliveredRevisionId: null },
+          data: { deliveredRevisionId: newRevId },
+        });
+      }
+
+      return {
+        deliveredRevisionId: newRevId,
+        snap: newSnap,
+      };
+    });
+
+    deliveredRevisionId = resolved.deliveredRevisionId;
+    snap = resolved.snap;
+    it.deliveredRevisionId = deliveredRevisionId;
+  }
+
   // answers and explanations leave the server only once this item is locked
   const reveal = it.state === 'LOCKED';
   const now = new Date();
+
+  // Prefer approved revision snapshot content when question is versioned
+  const stem = snap ? snap.stemMd : q.stemMd;
+  const explanation = snap ? snap.explanationMd : q.explanationMd;
+  const objective = snap ? snap.objective : q.objective;
+  const keyPoints = snap ? snap.keyPoints : q.keyPoints;
+  const references = snap ? snap.references : q.references;
+
   return {
     session: {
       id: s.id, name: s.name, mode: s.mode, state: s.state, total: s.total, position: pos,
@@ -317,20 +593,27 @@ export async function getView(userId: string, id: string) {
     })),
     item: {
       position: it.position, state: it.state, selectedOptionIds: it.selectedOptionIds, struckOptionIds: it.struckOptionIds,
-      flagged: it.flagged, timeMs: it.timeMs, stemHtml: it.highlightsHtml ?? renderMarkdown(q.stemMd),
+      flagged: it.flagged, timeMs: it.timeMs, stemHtml: it.highlightsHtml ?? renderMarkdown(stem),
     },
     question: {
       id: q.id, code: q.code, type: q.type, isDemo: q.isDemo, isAiAuthored: q.source.includes('AI-authored'), imageUrl: q.imageUrl, imageAlt: q.imageAlt,
       exam: q.exam.name, subject: q.subject.name, system: q.system.name,
       bookmarked: q.bookmarks.length > 0, note: q.notes[0]?.body ?? '',
-      options: q.options.map((o) => ({
-        id: o.id, text: o.text,
-        ...(reveal ? { isCorrect: o.isCorrect, explanationHtml: o.explanationMd ? renderMarkdown(o.explanationMd) : null } : {}),
-      })),
+      options: q.options.map((o) => {
+        const snapOpt = snap?.options.find((so) => so.position === o.position);
+        const optText = snapOpt?.text ?? o.text;
+        const optCorrect = snapOpt?.isCorrect ?? o.isCorrect;
+        const optExp = snapOpt?.explanationMd ?? o.explanationMd;
+        return {
+          id: o.id,
+          text: optText,
+          ...(reveal ? { isCorrect: optCorrect, explanationHtml: optExp ? renderMarkdown(optExp) : null } : {}),
+        };
+      }),
       reveal: reveal ? {
         isCorrect: it.isCorrect, omitted: it.selectedOptionIds.length === 0,
-        explanationHtml: renderMarkdown(q.explanationMd), objective: q.objective, keyPoints: q.keyPoints,
-        references: q.references as { label: string; url?: string }[], source: q.source, license: q.license,
+        explanationHtml: renderMarkdown(explanation), objective, keyPoints,
+        references: references as { label: string; url?: string }[], source: snap?.source ?? q.source, license: snap?.license ?? q.license,
       } : null,
     },
   };

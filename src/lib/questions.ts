@@ -2,6 +2,8 @@ import type { Prisma } from '@/generated/prisma/client';
 import { db } from './db';
 import type { Filters } from './validation/exam';
 import { deliverableQuestion } from './content-rights';
+import { resolveUserActiveQuestionPools, type UserActiveQuestionPools } from './practice-event-sequence';
+import { isRevisionFullyApproved, type QuestionContentSnapshot } from './question-revision';
 
 // ponytail: full-text search computes to_tsvector per query (no index); add a generated tsvector column + GIN index past ~50k questions
 export async function searchIds(q: string): Promise<string[]> {
@@ -16,7 +18,11 @@ export async function searchIds(q: string): Promise<string[]> {
 }
 
 /** Published questions matching the filters. `userId` scopes the personal pools (unused, incorrect, ...). */
-export async function questionWhere(userId: string | null, f: Filters): Promise<Prisma.QuestionWhereInput> {
+export async function questionWhere(
+  userId: string | null,
+  f: Filters,
+  preloadedPools?: UserActiveQuestionPools,
+): Promise<Prisma.QuestionWhereInput> {
   const where: Prisma.QuestionWhereInput = { ...deliverableQuestion };
   if (f.examIds.length) where.examId = { in: f.examIds };
   if (f.subjectIds.length) where.subjectId = { in: f.subjectIds };
@@ -25,16 +31,40 @@ export async function questionWhere(userId: string | null, f: Filters): Promise<
   if (f.difficulty.length) where.difficulty = { in: f.difficulty };
   if (userId) {
     const mine = { userId };
-    switch (f.pool) {
-      case 'unused': where.responses = { none: mine }; break;
-      case 'incorrect': where.responses = { some: { ...mine, isCorrect: false, omitted: false } }; break;
-      case 'omitted': where.responses = { some: { ...mine, omitted: true } }; break;
-      case 'correct': where.responses = { some: { ...mine, isCorrect: true } }; break;
-      case 'marked': where.bookmarks = { some: mine }; break;
+    if (f.pool === 'marked') {
+      where.bookmarks = { some: mine };
+    } else if (f.pool !== 'all') {
+      const pools = preloadedPools ?? (await resolveUserActiveQuestionPools(db, userId));
+      switch (f.pool) {
+        case 'unused':
+          if (pools.activeUsed.size > 0) {
+            where.id = { notIn: Array.from(pools.activeUsed) };
+          }
+          break;
+        case 'incorrect':
+          where.id = { in: Array.from(pools.activeIncorrect) };
+          break;
+        case 'omitted':
+          where.id = { in: Array.from(pools.activeOmitted) };
+          break;
+        case 'correct':
+          where.id = { in: Array.from(pools.activeCorrect) };
+          break;
+      }
     }
     if (f.collectionId) where.collectionItems = { some: { collectionId: f.collectionId, collection: { userId } } };
   }
-  if (f.q) where.id = { in: await searchIds(f.q) };
+  if (f.q) {
+    const qIds = await searchIds(f.q);
+    if (where.id && typeof where.id === 'object') {
+      where.AND = [
+        ...(Array.isArray(where.AND) ? where.AND : where.AND ? [where.AND] : []),
+        { id: { in: qIds } },
+      ];
+    } else {
+      where.id = { in: qIds };
+    }
+  }
   return where;
 }
 
@@ -80,8 +110,28 @@ export async function listQuestions(userId: string | null, f: Filters, page: num
         exam: { select: { name: true } }, subject: { select: { name: true } }, system: { select: { name: true } },
         responses: userId ? { where: { userId }, select: { isCorrect: true, omitted: true } } : false,
         bookmarks: userId ? { where: { userId }, select: { questionId: true } } : false,
+        revisions: {
+          orderBy: { revisionNumber: 'desc' },
+          take: 1,
+          select: { contentSnapshot: true, reviews: true },
+        },
       },
     }),
   ]);
-  return { total, page, pageSize, rows, where };
+
+  const sanitizedRows = rows.map((r) => {
+    let stemMd = r.stemMd;
+    if (r.revisions && r.revisions.length > 0) {
+      const latestRev = r.revisions[0]!;
+      const { approved } = isRevisionFullyApproved(latestRev.reviews);
+      if (approved && latestRev.contentSnapshot) {
+        const snap = latestRev.contentSnapshot as unknown as QuestionContentSnapshot;
+        if (snap.stemMd) stemMd = snap.stemMd;
+      }
+    }
+    const { revisions, ...rest } = r;
+    return { ...rest, stemMd };
+  });
+
+  return { total, page, pageSize, rows: sanitizedRows, where };
 }
