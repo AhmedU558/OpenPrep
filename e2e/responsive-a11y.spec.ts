@@ -59,6 +59,8 @@ test('redesigned workspace keeps navigation and practice actions usable', async 
   await page.getByRole('button', { name: 'Theme: auto. Click to change.', exact: true }).click();
   await page.getByRole('button', { name: 'Theme: light. Click to change.', exact: true }).click();
   await expect(page.locator('html')).toHaveAttribute('data-theme', 'dark');
+  // Audit the settled theme rather than intermediate navigation color transitions.
+  await page.evaluate(() => Promise.all(document.getAnimations().map(animation => animation.finished.catch(() => undefined))));
   await audit(page, 'dark dashboard');
   await page.screenshot({ path: testInfo.outputPath('dashboard-dark.png'), fullPage: true });
   await page.getByRole('link', { name: 'Start a practice test' }).click();
