@@ -49,3 +49,21 @@ test('the exam is fully keyboard operable (T12)', async ({ page }) => {
   await page.keyboard.press('Tab');
   await expect(page.getByRole('link', { name: 'Skip to content' })).toBeFocused();
 });
+
+test('redesigned workspace keeps navigation and practice actions usable', async ({ page }, testInfo) => {
+  await register(page);
+  const nav = page.getByRole('navigation', { name: 'Main', exact: true }).filter({ visible: true });
+  await expect(nav.getByRole('link', { name: 'Home', exact: true })).toHaveAttribute('aria-current', 'page');
+  await expect(page.getByRole('heading', { name: 'Your next chapter starts here.' })).toBeVisible();
+  await page.screenshot({ path: testInfo.outputPath('dashboard-light.png'), fullPage: true });
+  await page.getByRole('button', { name: 'Theme: auto. Click to change.', exact: true }).click();
+  await page.getByRole('button', { name: 'Theme: light. Click to change.', exact: true }).click();
+  await expect(page.locator('html')).toHaveAttribute('data-theme', 'dark');
+  await audit(page, 'dark dashboard');
+  await page.screenshot({ path: testInfo.outputPath('dashboard-dark.png'), fullPage: true });
+  await page.getByRole('link', { name: 'Start a practice test' }).click();
+  await expect(page).toHaveURL(/\/create$/);
+  await expect(page.getByLabel('Questions per block')).toBeVisible();
+  await expect(nav.getByRole('link', { name: 'Create test', exact: true })).toHaveAttribute('aria-current', 'page');
+  await page.screenshot({ path: testInfo.outputPath('create-test.png'), fullPage: true });
+});

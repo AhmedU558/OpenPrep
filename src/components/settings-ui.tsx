@@ -2,12 +2,18 @@
 import { useRouter } from 'next/navigation';
 import { useState, useTransition, type ReactNode } from 'react';
 import { deleteAccountAction, savePrefsAction } from '@/app/actions/account';
+import { resetPracticeAction } from '@/app/actions/study';
 import type { Prefs } from '@/lib/account';
 import { authClient } from '@/lib/auth-client';
-import { Alert, Button, ButtonLink, Card, Field, inputCls } from './ui';
+import { Alert, Button, ButtonLink, Card, Field, cx, inputCls } from './ui';
 
-function Section({ title, children }: { title: string; children: ReactNode }) {
-  return <Card><h2 className="mb-4 font-semibold">{title}</h2>{children}</Card>;
+function Section({ title, children, id }: { title: string; children: ReactNode; id?: string }) {
+  return (
+    <Card id={id}>
+      <h2 className="mb-4 font-semibold">{title}</h2>
+      {children}
+    </Card>
+  );
 }
 
 export function AccountSettings({ user, prefs }: { user: { name: string; email: string; isGuest: boolean }; prefs: Prefs }) {
@@ -18,6 +24,8 @@ export function AccountSettings({ user, prefs }: { user: { name: string; email: 
   const [name, setName] = useState(user.name);
   const [p, setP] = useState(prefs);
   const [confirmText, setConfirm] = useState('');
+  const [resetScope, setResetScope] = useState<'ALL' | 'INCORRECT_ONLY' | 'MARKED_ONLY'>('INCORRECT_ONLY');
+  const [resetConfirm, setResetConfirm] = useState('');
 
   return (
     <div className="grid max-w-3xl gap-6">
@@ -70,10 +78,79 @@ export function AccountSettings({ user, prefs }: { user: { name: string; email: 
         </form>
         <p className="mt-4 text-sm text-muted">Theme and text size are in the top bar and are remembered on this device.</p>
       </Section>
+
+      <Section id="reset" title="Question bank reset">
+        <p className="text-sm text-muted">
+          Reset active question statuses for a second pass. Your historical test sessions, past scores, and answer records are permanently preserved in your activity logs; only your active practice pools are refreshed.
+        </p>
+
+        <form className="mt-4 space-y-4" onSubmit={(e) => {
+          e.preventDefault();
+          if (resetScope === 'ALL' && resetConfirm.trim() !== 'RESET') {
+            say('reset', false, 'Please type RESET to confirm a full question bank reset.');
+            return;
+          }
+          start(async () => {
+            const r = await resetPracticeAction({ scope: resetScope });
+            if (r.ok) {
+              say('reset', true, `Question bank reset successful (${r.data.affectedCount} question${r.data.affectedCount === 1 ? '' : 's'} affected).`);
+              setResetConfirm('');
+              router.refresh();
+            } else {
+              say('reset', false, r.error);
+            }
+          });
+        }}>
+          <fieldset>
+            <legend className="text-sm font-semibold">Choose reset scope</legend>
+            <div className="mt-2 space-y-2">
+              {[
+                {
+                  id: 'INCORRECT_ONLY' as const,
+                  title: 'Reset incorrect & omitted questions only',
+                  desc: 'Keeps questions you got right as used; returns wrong and skipped questions to the unused pool for focused revision.',
+                },
+                {
+                  id: 'MARKED_ONLY' as const,
+                  title: 'Reset bookmarked questions only',
+                  desc: 'Returns questions you marked/flagged during study back to the active pool.',
+                },
+                {
+                  id: 'ALL' as const,
+                  title: 'Full bank reset (all questions)',
+                  desc: 'Marks all questions as unused for a complete second pass through the entire question bank.',
+                },
+              ].map((opt) => (
+                <label key={opt.id} className={cx('flex cursor-pointer items-start gap-3 rounded-xl border p-3 text-sm transition-colors', resetScope === opt.id ? 'border-brand bg-brand-soft' : 'border-line bg-surface')}>
+                  <input type="radio" name="resetScope" value={opt.id} checked={resetScope === opt.id} onChange={() => setResetScope(opt.id)} className="mt-0.5 accent-[var(--brand)]" />
+                  <div>
+                    <span className="font-medium text-ink">{opt.title}</span>
+                    <p className="mt-0.5 text-xs text-muted">{opt.desc}</p>
+                  </div>
+                </label>
+              ))}
+            </div>
+          </fieldset>
+
+          {resetScope === 'ALL' && (
+            <Field label='Type "RESET" to confirm full question bank reset' htmlFor="resetConfirm">
+              <input id="resetConfirm" value={resetConfirm} onChange={(e) => setResetConfirm(e.target.value)} placeholder="RESET" className={inputCls} autoComplete="off" />
+            </Field>
+          )}
+
+          <Button type="submit" variant={resetScope === 'ALL' ? 'danger' : 'primary'} disabled={pending || (resetScope === 'ALL' && resetConfirm.trim() !== 'RESET')}>
+            {pending ? 'Resetting…' : resetScope === 'ALL' ? 'Confirm full reset' : 'Reset selected questions'}
+          </Button>
+
+          {msg.reset && <Alert tone={msg.reset.ok ? 'ok' : 'bad'}>{msg.reset.text}</Alert>}
+        </form>
+      </Section>
+
       <Section title="Your data">
         <p className="text-sm text-muted">Download everything stored about you (answers, notes, cards, plan) as JSON.</p>
         <a href="/api/export/me" className="mt-3 inline-flex h-10 items-center rounded-lg border border-line bg-surface px-4 text-[15px] hover:bg-surface-2">Download my data</a>
       </Section>
+
       <Section title="Delete account">
         <p className="text-sm">This permanently deletes your account and all of your study data. It cannot be undone.</p>
         {!user.isGuest && (
