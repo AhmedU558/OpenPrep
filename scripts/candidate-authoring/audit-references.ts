@@ -1,4 +1,5 @@
 import { readFileSync, readdirSync } from 'node:fs';
+import { isPlaceholderReference, parseReferenceUrl } from './reference-url';
 
 const dirs = [
   'content/candidates/step1',
@@ -15,11 +16,8 @@ for (const dir of dirs) {
     const items = JSON.parse(readFileSync(`${dir}/${file}`, 'utf-8'));
     for (const item of items) {
       for (const ref of item.references || []) {
-        if (
-          ref.url === 'https://pubmed.ncbi.nlm.nih.gov/' ||
-          ref.url === 'https://pubmed.ncbi.nlm.nih.gov' ||
-          ref.url.endsWith('ncbi.nlm.nih.gov/')
-        ) {
+        const url = parseReferenceUrl(ref.url);
+        if (!url || isPlaceholderReference(url)) {
           console.log(`[Placeholder URL] ${item.code} in ${file}: "${ref.label}" -> ${ref.url}`);
           placeholderCount++;
         }

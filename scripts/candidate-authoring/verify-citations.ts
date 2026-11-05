@@ -1,4 +1,5 @@
 import { readFileSync, readdirSync } from 'node:fs';
+import { isPlaceholderReference, parseReferenceUrl } from './reference-url';
 
 console.log('================================================================');
 console.log('      BIBLIOGRAPHIC FORMAT & RETRIEVAL READINESS AUDIT          ');
@@ -32,10 +33,8 @@ for (const dir of dirs) {
         totalReferences++;
         
         // 1. Syntactic check
-        const isNotPlaceholder = ref.url &&
-          ref.url !== 'https://pubmed.ncbi.nlm.nih.gov/' &&
-          ref.url !== 'https://pubmed.ncbi.nlm.nih.gov' &&
-          !ref.url.endsWith('ncbi.nlm.nih.gov/');
+        const url = parseReferenceUrl(ref.url);
+        const isNotPlaceholder = url && !isPlaceholderReference(url);
         
         if (isNotPlaceholder) {
           syntacticallyValidUrls++;
@@ -44,7 +43,7 @@ for (const dir of dirs) {
         // 2. Bibliographic format check (author/organization + year + identifier)
         const hasAuthor = /[A-Z][a-z]+ [A-Z]{1,2}/.test(ref.label) || ref.label.includes('AHA') || ref.label.includes('CDC') || ref.label.includes('ACOG') || ref.label.includes('Joint Commission') || ref.label.includes('GOLD') || ref.label.includes('ASAM') || ref.label.includes('USPSTF');
         const hasYear = /\b(19\d\d|20\d\d)\b/.test(ref.label);
-        const hasPmidOrDoiOrCatalog = /PMID:\s*\d+/i.test(ref.label) || /DOI:/i.test(ref.label) || /NLM ID:/i.test(ref.label) || ref.url.includes('doi.org') || ref.url.includes('pubmed') || ref.url.includes('cdc.gov') || ref.url.includes('fda.gov') || ref.url.includes('goldcopd.org');
+        const hasPmidOrDoiOrCatalog = /PMID:\s*\d+/i.test(ref.label) || /DOI:/i.test(ref.label) || /NLM ID:/i.test(ref.label) || (url && ['doi.org', 'pubmed.ncbi.nlm.nih.gov', 'cdc.gov', 'www.cdc.gov', 'fda.gov', 'www.fda.gov', 'goldcopd.org'].includes(url.hostname));
 
         if (hasAuthor && hasYear && hasPmidOrDoiOrCatalog) {
           bibliographicFormatMatches++;

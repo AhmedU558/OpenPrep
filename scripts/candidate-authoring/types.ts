@@ -1,4 +1,5 @@
 import type { QuestionContent } from '../../src/lib/validation/content';
+import { citationMentionsHost } from './reference-url';
 
 export type CandidateChoice = [string, string]; // [text, distractor/correct explanation]
 
@@ -210,9 +211,9 @@ export function materializeCandidate(spec: CandidateSpec, indexInExam: number): 
         url = `https://doi.org/${doiMatch[1]}`;
       } else if (urlMatch) {
         url = urlMatch[0];
-      } else if (spec.citation.includes('goldcopd.org')) {
+      } else if (citationMentionsHost(spec.citation, 'goldcopd.org')) {
         url = 'https://goldcopd.org/2024-gold-report/';
-      } else if (spec.citation.includes('CDC.gov') || spec.citation.includes('MMWR')) {
+      } else if (citationMentionsHost(spec.citation, 'cdc.gov') || spec.citation.includes('MMWR')) {
         url = 'https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5414a1.htm';
       } else if (spec.citation.includes('FDA')) {
         url = 'https://www.fda.gov/drugs/drug-safety-and-availability/';
