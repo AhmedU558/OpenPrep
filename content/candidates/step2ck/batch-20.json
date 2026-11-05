@@ -1,0 +1,1198 @@
+[
+  {
+    "code": "op-c-s2-0476",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Neutropenic Fever and Initial Empiric Monotherapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old man with acute myeloid leukemia undergoes induction chemotherapy with cytarabine and daunorubicin (7+3 regimen). On day 10 post-chemotherapy, he develops chills and diaphoresis. Vital signs demonstrate blood pressure of 118/74 mm Hg, heart rate of 98/min, respiratory rate of 18/min, and an oral temperature of 38.6 C (101.5 F). Physical examination reveals a peripherally inserted central catheter (PICC) in the right basilic vein that is clean and intact without erythema, tenderness, or purulent drainage. Examination of the oral cavity reveals mild mucositis without ulcerations. The lungs are clear to auscultation, and the abdomen is soft and non-tender without peritoneal signs. Rectal examination is deliberately withheld. Laboratory evaluation reveals:\n- Hemoglobin: 8.4 g/dL\n- White blood cell count: 400/mm3\n- Absolute neutrophil count (ANC): 120/mm3 (reference > 1,500/mm3)\n- Platelet count: 24,000/mm3\n- Serum creatinine: 0.8 mg/dL\n- Serum lactate: 1.1 mmol/L\n\nTwo sets of blood cultures (one from the PICC line and one from a peripheral vein) and a clean-catch urine culture are obtained. Which of the following represents the most appropriate initial antimicrobial management for this patient?",
+    "options": [
+      {
+        "text": "Immediate intravenous monotherapy with an antipseudomonal beta-lactam agent (e.g., cefepime 2 g every 8 hours, piperacillin-tazobactam 4.5 g every 6 hours, or meropenem 1 g every 8 hours), withholding upfront vancomycin",
+        "correct": true,
+        "explanation": "Neutropenic Fever is defined by the Infectious Diseases Society of America (IDSA) as: (1) Fever: A single oral temperature >= 38.3 C (101.0 F) OR a sustained temperature >= 38.0 C (100.4 F) over a 1-hour period; AND (2) Neutropenia: An Absolute Neutrophil Count (ANC) < 500 cells/mm3, OR an ANC expected to decrease to < 500 cells/mm3 within 48 hours. Neutropenic patients lack the capacity to mount a robust inflammatory response; localized signs of infection (erythema, pus, radiographic consolidation) are typically absent, and bacteremia can rapidly progress to fatal septic shock within hours. FIRST-LINE ANTIMICROBIAL REGIMEN: Immediate administration (within 60 minutes of presentation) of INTRAVENOUS ANTIPSEUDOMONAL BETA-LACTAM MONOTHERAPY is the mandatory standard of care. Acceptable first-line monotherapy agents include: (a) CEFEPIME (2 g IV q8h), (b) PIPERACILLIN-TAZOBACTAM (4.5 g IV q6h), or (c) MEROPENEM (1 g IV q8h). Ceftriaxone and ertapenem are STRICTLY INADEQUATE because they lack Pseudomonas aeruginosa activity. INDICATIONS FOR UPFRONT VANCOMYCIN: Routine addition of vancomycin to initial empiric therapy is NOT recommended because trials demonstrate no survival advantage while significantly increasing nephrotoxicity and vancomycin-resistant enterococci (VRE) selection. Vancomycin is added upfront ONLY for specific clinical indications: (1) Hemodynamic instability or septic shock; (2) Obvious catheter-related infection (erythema, purulence); (3) Radiographically confirmed pneumonia; (4) Clinically suspected serious skin/soft-tissue infection; or (5) Known prior colonization with MRSA."
+      },
+      {
+        "text": "Immediate combination therapy with intravenous vancomycin and intravenous cefepime in all patients with ANC < 500/mm3",
+        "correct": false,
+        "explanation": "Routine upfront vancomycin in hemodynamically stable neutropenic fever without catheter site infection, pneumonia, or MRSA colonization provides no survival benefit and increases renal toxicity."
+      },
+      {
+        "text": "Oral ciprofloxacin 750 mg twice daily plus amoxicillin-clavulanate 875 mg twice daily as outpatient therapy",
+        "correct": false,
+        "explanation": "Oral outpatient therapy is reserved exclusively for low-risk neutropenic fever (MASCC risk score >= 21, anticipated neutropenia < 7 days); leukemia induction patients have prolonged profound neutropenia (> 7 days) and require inpatient IV therapy."
+      },
+      {
+        "text": "Intravenous ceftriaxone 2 g daily plus intravenous metronidazole 500 mg every 8 hours",
+        "correct": false,
+        "explanation": "Ceftriaxone lacks activity against Pseudomonas aeruginosa, a lethal pathogen in neutropenic patients that causes rapid vascular invasion and ecthyma gangrenosum; antipseudomonal coverage is mandatory."
+      },
+      {
+        "text": "Withhold all antimicrobial therapy until preliminary blood culture results return from the laboratory in 24 to 48 hours",
+        "correct": false,
+        "explanation": "Withholding antibiotics in neutropenic fever carries a catastrophic mortality exceeding 50% due to rapid progression of occult pseudomonal or enteric bacteremia; empiric treatment within 60 minutes is mandatory."
+      }
+    ],
+    "explanation": "Neutropenic Fever is defined by the Infectious Diseases Society of America (IDSA) as: (1) Fever: A single oral temperature >= 38.3 C (101.0 F) OR a sustained temperature >= 38.0 C (100.4 F) over a 1-hour period; AND (2) Neutropenia: An Absolute Neutrophil Count (ANC) < 500 cells/mm3, OR an ANC expected to decrease to < 500 cells/mm3 within 48 hours. Neutropenic patients lack the capacity to mount a robust inflammatory response; localized signs of infection (erythema, pus, radiographic consolidation) are typically absent, and bacteremia can rapidly progress to fatal septic shock within hours. FIRST-LINE ANTIMICROBIAL REGIMEN: Immediate administration (within 60 minutes of presentation) of INTRAVENOUS ANTIPSEUDOMONAL BETA-LACTAM MONOTHERAPY is the mandatory standard of care. Acceptable first-line monotherapy agents include: (a) CEFEPIME (2 g IV q8h), (b) PIPERACILLIN-TAZOBACTAM (4.5 g IV q6h), or (c) MEROPENEM (1 g IV q8h). Ceftriaxone and ertapenem are STRICTLY INADEQUATE because they lack Pseudomonas aeruginosa activity. INDICATIONS FOR UPFRONT VANCOMYCIN: Routine addition of vancomycin to initial empiric therapy is NOT recommended because trials demonstrate no survival advantage while significantly increasing nephrotoxicity and vancomycin-resistant enterococci (VRE) selection. Vancomycin is added upfront ONLY for specific clinical indications: (1) Hemodynamic instability or septic shock; (2) Obvious catheter-related infection (erythema, purulence); (3) Radiographically confirmed pneumonia; (4) Clinically suspected serious skin/soft-tissue infection; or (5) Known prior colonization with MRSA. Neutropenic fever (ANC 120/mm3, temp 38.6 C) without hypotension or catheter site infection requires immediate empiric IV antipseudomonal beta-lactam monotherapy (cefepime, pip-tazo, or meropenem); withhold routine vancomycin.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Neutropenic Fever and Initial Empiric Monotherapy.",
+    "keyPoints": [
+      "Neutropenic Fever and Initial Empiric Monotherapy",
+      "Neutropenic fever (ANC 120/mm3, temp 38.6 C) without hypotension or catheter site infection requires immediate empiric IV antipseudomonal beta-lactam monotherapy (cefepime, pip-taz"
+    ],
+    "references": [
+      {
+        "label": "Freifeld AG, Bow EJ, Sepkowitz KA, et al. Clinical practice guideline for the use of antimicrobial agents in neutropenic patients with cancer: 2010 update by the Infectious Diseases Society of America. Clin Infect Dis. 2011;52(4):e56-e93. PMID: 21258094.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21258094/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0477",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Extended-Spectrum Beta-Lactamase (ESBL) Bacteremia and the MERINO Trial",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 66-year-old woman with a history of recurrent urinary tract infections, neurogenic bladder managed with intermittent catheterization, and stage 3 chronic kidney disease is hospitalized with acute pyelonephritis and urosepsis. Initial blood cultures drawn at admission grow a gram-negative rod identified 36 hours later as Klebsiella pneumoniae. Antimicrobial susceptibility testing reveals:\n- Ampicillin: Resistant\n- Ceftriaxone: Resistant (MIC >= 32 mcg/mL)\n- Ceftazidime: Resistant (MIC >= 16 mcg/mL)\n- Cefepime: Resistant (MIC >= 16 mcg/mL)\n- Piperacillin-tazobactam: Susceptible (MIC = 8/4 mcg/mL; susceptible breakpoint <= 16/4 mcg/mL)\n- Meropenem: Susceptible (MIC <= 0.25 mcg/mL)\n- Levofloxacin: Resistant\n- Trimethoprim-sulfamethoxazole: Resistant\n- Confirmatory phenotypic testing: Positive for Extended-Spectrum Beta-Lactamase (ESBL) production\n\nThe patient is currently receiving intravenous piperacillin-tazobactam 3.375 g every 6 hours initiated in the emergency department. She remains febrile at 38.2 C (100.8 F) with persistent costovertebral angle tenderness.\n\nBased on landmark randomized clinical trial evidence (the MERINO trial), which of the following represents the most appropriate antimicrobial management for this patient's bloodstream infection?",
+    "options": [
+      {
+        "text": "Continue intravenous piperacillin-tazobactam unchanged, because in vitro automated susceptibility testing confirms an MIC within the susceptible range",
+        "correct": false,
+        "explanation": "The MERINO trial proved that using piperacillin-tazobactam for ESBL bacteremia based on in vitro susceptibility nearly quadruples 30-day mortality (12.3% vs 3.7%) compared to meropenem; pip-tazo is clinically inadequate."
+      },
+      {
+        "text": "Switch antimicrobial therapy to intravenous meropenem (1 g every 8 hours, adjusted for renal function), as carbapenems demonstrate superior survival compared to piperacillin-tazobactam in ESBL bacteremia",
+        "correct": true,
+        "explanation": "Extended-Spectrum Beta-Lactamases (ESBLs, primarily CTX-M, SHV, and TEM variants) are plasmid-mediated bacterial enzymes produced by Enterobacterales (most commonly Klebsiella pneumoniae and Escherichia coli) that hydrolyze penicillins, cephalosporins (including third- and fourth-generation cephalosporins like ceftriaxone and cefepime), and aztreonam, while sparing carbapenems. THE LANDMARK MERINO TRIAL (JAMA 2018): Historically, in vitro testing frequently reported ESBL-producing isolates as 'susceptible' to piperacillin-tazobactam, leading clinicians to use pip-tazo for carbapenem-sparing stewardship. The multicenter randomized MERINO trial directly tested this strategy in patients with bloodstream infections caused by ceftriaxone-resistant E. coli or K. pneumoniae: (1) Mortality Endpoint: 30-day all-cause mortality was 12.3% in the piperacillin-tazobactam group compared to 3.7% in the meropenem group (a statistically significant risk difference of 8.6%). (2) Clinical Cure: Piperacillin-tazobactam failed to meet non-inferiority criteria and was associated with lower clinical resolution and higher rates of microbiological persistence. (3) Mechanism: In vivo, high bacterial inocula ('inoculum effect') and hyperproduction of beta-lactamases overwhelm the inhibitory capacity of tazobactam, causing clinical failure despite in vitro susceptibility. CURRENT GUIDELINES (IDSA AND ESCMID): For all serious infections (especially bacteremia and severe pyelonephritis) caused by ESBL-producing Enterobacterales, CARBAPENEMS (meropenem 1 g IV q8h or ertapenem 1 g IV q24h) ARE THE UNDISPUTED FIRST-LINE THERAPY OF CHOICE. Piperacillin-tazobactam should NOT be used for ESBL bacteremia regardless of reported in vitro MIC."
+      },
+      {
+        "text": "Switch to high-dose intravenous cefepime 2 g every 8 hours via continuous infusion to overcome the elevated MIC",
+        "correct": false,
+        "explanation": "Cefepime is hydrolyzed by CTX-M and other ESBL enzymes; using cefepime for ESBL bacteremia carries high treatment failure rates and is strongly discouraged by IDSA guidelines."
+      },
+      {
+        "text": "Switch to intravenous colistin (polymyxin E) monotherapy to preserve carbapenem stewardship in the hospital",
+        "correct": false,
+        "explanation": "Polymyxins carry severe nephrotoxicity and neurotoxicity and are inferior to carbapenems; they are reserved strictly for carbapenem-resistant Enterobacterales (CRE), not ESBL."
+      },
+      {
+        "text": "Switch to oral nitrofurantoin 100 mg twice daily for 5 days to complete therapy enterally",
+        "correct": false,
+        "explanation": "Nitrofurantoin achieves therapeutic concentrations only in lower urinary tract bladder urine; it achieves negligible tissue and serum levels and is completely contraindicated in pyelonephritis and bacteremia."
+      }
+    ],
+    "explanation": "Extended-Spectrum Beta-Lactamases (ESBLs, primarily CTX-M, SHV, and TEM variants) are plasmid-mediated bacterial enzymes produced by Enterobacterales (most commonly Klebsiella pneumoniae and Escherichia coli) that hydrolyze penicillins, cephalosporins (including third- and fourth-generation cephalosporins like ceftriaxone and cefepime), and aztreonam, while sparing carbapenems. THE LANDMARK MERINO TRIAL (JAMA 2018): Historically, in vitro testing frequently reported ESBL-producing isolates as 'susceptible' to piperacillin-tazobactam, leading clinicians to use pip-tazo for carbapenem-sparing stewardship. The multicenter randomized MERINO trial directly tested this strategy in patients with bloodstream infections caused by ceftriaxone-resistant E. coli or K. pneumoniae: (1) Mortality Endpoint: 30-day all-cause mortality was 12.3% in the piperacillin-tazobactam group compared to 3.7% in the meropenem group (a statistically significant risk difference of 8.6%). (2) Clinical Cure: Piperacillin-tazobactam failed to meet non-inferiority criteria and was associated with lower clinical resolution and higher rates of microbiological persistence. (3) Mechanism: In vivo, high bacterial inocula ('inoculum effect') and hyperproduction of beta-lactamases overwhelm the inhibitory capacity of tazobactam, causing clinical failure despite in vitro susceptibility. CURRENT GUIDELINES (IDSA AND ESCMID): For all serious infections (especially bacteremia and severe pyelonephritis) caused by ESBL-producing Enterobacterales, CARBAPENEMS (meropenem 1 g IV q8h or ertapenem 1 g IV q24h) ARE THE UNDISPUTED FIRST-LINE THERAPY OF CHOICE. Piperacillin-tazobactam should NOT be used for ESBL bacteremia regardless of reported in vitro MIC. Confirmed ESBL Klebsiella bacteremia must be treated with IV meropenem; the MERINO trial proved piperacillin-tazobactam causes nearly 4x higher mortality (12.3% vs 3.7%) despite in vitro susceptibility.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Extended-Spectrum Beta-Lactamase (ESBL) Bacteremia and the MERINO Trial.",
+    "keyPoints": [
+      "Extended-Spectrum Beta-Lactamase (ESBL) Bacteremia and the MERINO Trial",
+      "Confirmed ESBL Klebsiella bacteremia must be treated with IV meropenem; the MERINO trial proved piperacillin-tazobactam causes nearly 4x higher mortality (12.3% vs 3.7%) despite in"
+    ],
+    "references": [
+      {
+        "label": "Harris PNA, Tambyah PA, Lye DC, et al. Effect of Piperacillin-Tazobactam vs Meropenem on 30-Day Mortality for Patients With E coli or Klebsiella pneumoniae Bloodstream Infection and Ceftriaxone Resistance: A Randomized Clinical Trial. JAMA. 2018;320(10):984-994. PMID: 30208454.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30208454/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0478",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Acute Bacterial Meningitis Emergency Algorithm",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old previously healthy man is brought to the emergency department by his college roommate due to severe headache, high fever, and extreme neck stiffness that developed over the past 8 hours. On physical examination, he is alert and fully oriented to person, place, and time (Glasgow Coma Scale score 15: E4V5M6). Cranial nerves II through XII are completely normal. Pupillary reflexes are briskly reactive bilaterally, and funduscopic examination reveals sharp, crisp optic disc margins with spontaneous venous pulsations present bilaterally. Motor strength is 5/5 in all extremities without pronator drift. Meningeal signs are markedly positive: flexion of the neck provokes involuntary flexion of the hips and knees (Brudzinski sign), and resistance is encountered when attempting to extend the knee with the hip flexed to 90 degrees (Kernig sign). There is no rash, petechiae, or focal neurological deficit. Vital signs show blood pressure of 128/78 mm Hg, heart rate of 106/min, respiratory rate of 20/min, and temperature of 39.2 C (102.6 F).\n\nWhich of the following represents the most appropriate immediate sequence of interventions for this patient?",
+    "options": [
+      {
+        "text": "Transport the patient immediately for non-contrast head computed tomography (CT) before performing lumbar puncture or administering antibiotics",
+        "correct": false,
+        "explanation": "Routine head CT in an alert patient with normal neuro exam and no papilledema causes an unacceptable delay of 2 to 4 hours in antimicrobial administration, dramatically increasing mortality and neurological injury."
+      },
+      {
+        "text": "Administer intravenous vancomycin and ceftriaxone immediately, deferring dexamethasone until CSF Gram stain confirms Streptococcus pneumoniae",
+        "correct": false,
+        "explanation": "Administering dexamethasone after antibiotics have already been infused provides zero clinical benefit because bacterial lysis and cytokine cascades have already been initiated; dexamethasone must be given prior to or with the first antibiotic dose."
+      },
+      {
+        "text": "Draw two sets of blood cultures, immediately perform an emergent diagnostic lumbar puncture, and promptly administer intravenous dexamethasone alongside empiric intravenous vancomycin and ceftriaxone",
+        "correct": true,
+        "explanation": "Acute Bacterial Meningitis is an extreme medical emergency carrying high mortality and catastrophic neurological morbidity without rapid intervention. (1) INDICATIONS FOR HEAD CT PRIOR TO LUMBAR PUNCTURE: A common clinical misconception is that all patients with suspected meningitis require head CT before LP. Guidelines (IDSA) mandate that head CT before LP is indicated ONLY in the presence of specific 'high-risk' criteria: (a) Immunocompromise (HIV, transplant, immunosuppressive therapy); (b) History of CNS disease (stroke, mass, focal infection); (c) New-onset seizure within 1 week; (d) Papilledema (blurred disc margins, absent venous pulsations); (e) Abnormal level of consciousness (obtundation, coma); or (f) Focal neurological deficits (e.g., hemiparesis, dilated non-reactive pupil, facial droop). Because this patient is fully alert (GCS 15), immunocompetent, has a completely normal neurological examination, and exhibits crisp optic discs with spontaneous venous pulsations, HEAD CT IS NOT INDICATED AND WILL ONLY HARMFULLY DELAY LIFE-SAVING THERAPY. (2) SEQUENCE OF CARE: In low-risk patients: (a) Draw blood cultures; (b) Perform immediate bedside lumbar puncture; and (c) Immediately administer intravenous dexamethasone (0.15 mg/kg, 10 mg) concomitantly with or 10-20 minutes PRIOR to the first dose of empiric antibiotics (vancomycin 15-20 mg/kg + ceftriaxone 2 g IV). Dexamethasone suppresses subarachnoid space inflammation triggered by bactericidal antibiotic-induced bacterial cell lysis, significantly reducing hearing loss and mortality in Streptococcus pneumoniae meningitis. If dexamethasone is given after antibiotics, its protective anti-inflammatory benefit is completely lost."
+      },
+      {
+        "text": "Perform lumbar puncture, administer intravenous ampicillin monotherapy, and withhold all cephalosporins due to enterococcal concerns",
+        "correct": false,
+        "explanation": "Ampicillin is added to vancomycin and ceftriaxone only in patients > 50 years of age or immunocompromised individuals to cover Listeria monocytogenes; ampicillin monotherapy fails to cover penicillin-resistant pneumococci or Neisseria meningitidis."
+      },
+      {
+        "text": "Administer oral ciprofloxacin 750 mg single dose and discharge home with close outpatient follow-up in 24 hours",
+        "correct": false,
+        "explanation": "Oral ciprofloxacin is post-exposure chemoprophylaxis for asymptomatic close contacts of meningococcal meningitis; active bacterial meningitis requires immediate emergent hospitalization and high-dose IV bactericidal therapy."
+      }
+    ],
+    "explanation": "Acute Bacterial Meningitis is an extreme medical emergency carrying high mortality and catastrophic neurological morbidity without rapid intervention. (1) INDICATIONS FOR HEAD CT PRIOR TO LUMBAR PUNCTURE: A common clinical misconception is that all patients with suspected meningitis require head CT before LP. Guidelines (IDSA) mandate that head CT before LP is indicated ONLY in the presence of specific 'high-risk' criteria: (a) Immunocompromise (HIV, transplant, immunosuppressive therapy); (b) History of CNS disease (stroke, mass, focal infection); (c) New-onset seizure within 1 week; (d) Papilledema (blurred disc margins, absent venous pulsations); (e) Abnormal level of consciousness (obtundation, coma); or (f) Focal neurological deficits (e.g., hemiparesis, dilated non-reactive pupil, facial droop). Because this patient is fully alert (GCS 15), immunocompetent, has a completely normal neurological examination, and exhibits crisp optic discs with spontaneous venous pulsations, HEAD CT IS NOT INDICATED AND WILL ONLY HARMFULLY DELAY LIFE-SAVING THERAPY. (2) SEQUENCE OF CARE: In low-risk patients: (a) Draw blood cultures; (b) Perform immediate bedside lumbar puncture; and (c) Immediately administer intravenous dexamethasone (0.15 mg/kg, 10 mg) concomitantly with or 10-20 minutes PRIOR to the first dose of empiric antibiotics (vancomycin 15-20 mg/kg + ceftriaxone 2 g IV). Dexamethasone suppresses subarachnoid space inflammation triggered by bactericidal antibiotic-induced bacterial cell lysis, significantly reducing hearing loss and mortality in Streptococcus pneumoniae meningitis. If dexamethasone is given after antibiotics, its protective anti-inflammatory benefit is completely lost. Young alert patient with meningitis and normal neuro exam/no papilledema does NOT need head CT; perform immediate LP and administer IV dexamethasone with/prior to empiric vancomycin + ceftriaxone.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Bacterial Meningitis Emergency Algorithm.",
+    "keyPoints": [
+      "Acute Bacterial Meningitis Emergency Algorithm",
+      "Young alert patient with meningitis and normal neuro exam/no papilledema does NOT need head CT; perform immediate LP and administer IV dexamethasone with/prior to empiric vancomyci"
+    ],
+    "references": [
+      {
+        "label": "van de Beek D, Cabellos C, Dzupova O, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. Clin Microbiol Infect. 2016;22 Suppl 3:S37-S62. PMID: 27062097.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27062097/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0479",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Clostridioides difficile Infection (CDI) Modern First-Line Regimens",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old woman presents to the clinic with a 5-day history of 6 to 8 watery, non-bloody bowel movements daily accompanied by lower abdominal cramping and low-grade fever. Two weeks ago, she completed a 10-day course of oral clindamycin prescribed by her dentist for a severe dental abscess. On physical examination, she appears mildly dehydrated. Vital signs demonstrate blood pressure of 118/72 mm Hg, heart rate of 88/min, respiratory rate of 16/min, and temperature of 37.8 C (100.0 F). The abdomen is soft with mild, diffuse lower quadrant tenderness to palpation without rebound, guarding, or distension. Stool toxin nucleic acid amplification test (NAAT) combined with enzyme immunoassay (EIA) is positive for Clostridioides difficile toxin A and B. Laboratory evaluation reveals:\n- White blood cell count: 9,400/mm3 (normal < 15,000/mm3)\n- Serum creatinine: 0.9 mg/dL (baseline 0.8 mg/dL)\n- Serum albumin: 3.8 g/dL\n\nWhich of the following represents the preferred first-line pharmacological regimen for this initial episode of non-severe Clostridioides difficile infection?",
+    "options": [
+      {
+        "text": "Oral metronidazole 500 mg three times daily for 10 days as first-line monotherapy",
+        "correct": false,
+        "explanation": "Oral metronidazole has demonstrated clear inferiority in clinical cure and higher recurrence rates compared to vancomycin and fidaxomicin; it is no longer recommended as first-line therapy by IDSA/SHEA."
+      },
+      {
+        "text": "Intravenous vancomycin 1,000 mg every 12 hours infused slowly over 60 minutes",
+        "correct": false,
+        "explanation": "Intravenous vancomycin is eliminated by glomerular filtration into urine and is not excreted into the colonic lumen; IV vancomycin achieves undetectable fecal concentrations and has zero efficacy in CDI."
+      },
+      {
+        "text": "Oral loperamide 4 mg initially followed by 2 mg after each loose stool, with close observation",
+        "correct": false,
+        "explanation": "Antimotility agents (loperamide) prevent toxin clearance, prolong mucosal contact with C. diff toxins, and can precipitate fatal toxic megacolon; they are strictly contraindicated."
+      },
+      {
+        "text": "Oral fidaxomicin (200 mg twice daily for 10 days) or oral vancomycin (125 mg four times daily for 10 days)",
+        "correct": true,
+        "explanation": "Clostridioides difficile Infection (CDI) is an anaerobic, spore-forming, toxin-producing bacterium that colonizes the colon following disruption of normal intestinal microbiota by broad-spectrum antimicrobials (most classically clindamycin, fluoroquinolones, cephalosporins). (1) DISEASE SEVERITY STRATIFICATION (IDSA/SHEA): (a) NON-SEVERE: WBC < 15,000 cells/mm3 AND serum creatinine < 1.5 mg/dL; (b) SEVERE: WBC >= 15,000 cells/mm3 OR serum creatinine >= 1.5 mg/dL; (c) FULMINANT: Hypotension, septic shock, ileus, or toxic megacolon. (2) FIRST-LINE THERAPY (IDSA/SHEA 2021 UPDATED GUIDELINES): (a) FIDAXOMICIN: Oral fidaxomicin (200 mg twice daily for 10 days) is the PREFERRED FIRST-LINE AGENT for initial non-severe and severe CDI. Fidaxomicin is a macrocyclic bactericidal RNA polymerase inhibitor with narrow-spectrum activity against C. diff that spares normal Bacteroides intestinal commensals. Landmark randomized clinical trials proved that while fidaxomicin and vancomycin achieve equivalent initial clinical cure rates (~88%), FIDAXOMICIN SIGNIFICANTLY REDUCES RECURRENCE RATES by ~45% (recurrence ~15% vs ~25% for vancomycin). (b) ORAL VANCOMYCIN: Oral vancomycin (125 mg four times daily for 10 days) is the primary acceptable alternative when fidaxomicin is unavailable. (3) METRONIDAZOLE OBSOLESCENCE: Oral metronidazole is INFERIOR to oral vancomycin and fidaxomicin in clinical cure and recurrence; current guidelines state metronidazole should only be used if fidaxomicin and oral vancomycin are strictly unavailable."
+      },
+      {
+        "text": "Immediate colonoscopic fecal microbiota transplantation (FMT)",
+        "correct": false,
+        "explanation": "Fecal microbiota transplantation is reserved for multiple recurrent CDI (at least two prior recurrences failing targeted antibiotic therapy), not an initial first episode of CDI."
+      }
+    ],
+    "explanation": "Clostridioides difficile Infection (CDI) is an anaerobic, spore-forming, toxin-producing bacterium that colonizes the colon following disruption of normal intestinal microbiota by broad-spectrum antimicrobials (most classically clindamycin, fluoroquinolones, cephalosporins). (1) DISEASE SEVERITY STRATIFICATION (IDSA/SHEA): (a) NON-SEVERE: WBC < 15,000 cells/mm3 AND serum creatinine < 1.5 mg/dL; (b) SEVERE: WBC >= 15,000 cells/mm3 OR serum creatinine >= 1.5 mg/dL; (c) FULMINANT: Hypotension, septic shock, ileus, or toxic megacolon. (2) FIRST-LINE THERAPY (IDSA/SHEA 2021 UPDATED GUIDELINES): (a) FIDAXOMICIN: Oral fidaxomicin (200 mg twice daily for 10 days) is the PREFERRED FIRST-LINE AGENT for initial non-severe and severe CDI. Fidaxomicin is a macrocyclic bactericidal RNA polymerase inhibitor with narrow-spectrum activity against C. diff that spares normal Bacteroides intestinal commensals. Landmark randomized clinical trials proved that while fidaxomicin and vancomycin achieve equivalent initial clinical cure rates (~88%), FIDAXOMICIN SIGNIFICANTLY REDUCES RECURRENCE RATES by ~45% (recurrence ~15% vs ~25% for vancomycin). (b) ORAL VANCOMYCIN: Oral vancomycin (125 mg four times daily for 10 days) is the primary acceptable alternative when fidaxomicin is unavailable. (3) METRONIDAZOLE OBSOLESCENCE: Oral metronidazole is INFERIOR to oral vancomycin and fidaxomicin in clinical cure and recurrence; current guidelines state metronidazole should only be used if fidaxomicin and oral vancomycin are strictly unavailable. Initial non-severe C. difficile infection is treated first-line with oral fidaxomicin (preferred for lower recurrence) or oral vancomycin; metronidazole is inferior and no longer first-line.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Clostridioides difficile Infection (CDI) Modern First-Line Regimens.",
+    "keyPoints": [
+      "Clostridioides difficile Infection (CDI) Modern First-Line Regimens",
+      "Initial non-severe C. difficile infection is treated first-line with oral fidaxomicin (preferred for lower recurrence) or oral vancomycin; metronidazole is inferior and no longer f"
+    ],
+    "references": [
+      {
+        "label": "Johnson S, et al. IDSA/SHEA 2021 Focused Update Guidelines on Management of Clostridioides difficile Infection in Adults. Clin Infect Dis. 2021;73(5):e1029-e1044. PMID: 34164648.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34164648/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0480",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Candidemia and Catheter-Related Fungal Bloodstream Infections",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 58-year-old man who underwent an emergent exploratory laparotomy and bowel resection for perforated diverticulitis 12 days ago remains in the surgical intensive care unit. He has a right internal jugular central venous catheter in place and has been receiving total parenteral nutrition (TPN) and broad-spectrum intravenous piperacillin-tazobactam for 10 days. Today, he develops a new fever of 38.8 C (101.8 F) and sinus tachycardia at 116/min. Blood pressure is 108/68 mm Hg. Two sets of peripheral blood cultures drawn at the time of fever demonstrate budding yeast with pseudohyphae on preliminary Gram stain, identified 24 hours later as Candida albicans. The patient is alert, comfortable, and denies visual symptoms or eye pain.\n\nWhich of the following represents the most appropriate initial management sequence for this patient's bloodstream infection?",
+    "options": [
+      {
+        "text": "Initiate intravenous fluconazole 400 mg daily, retain the central venous catheter, and withhold ophthalmologic examination unless visual loss develops",
+        "correct": false,
+        "explanation": "Fluconazole is inferior to echinocandins for initial candidemia; retaining the central catheter leads to persistent fungal biofilms and fungemia; and early Candida endophthalmitis is often asymptomatic, making dilated eye exam mandatory."
+      },
+      {
+        "text": "Instill an amphotericin B 'antibiotic lock' into the central venous catheter lumen and continue parenteral nutrition unchanged",
+        "correct": false,
+        "explanation": "Catheter lock therapy is completely ineffective for fungal bloodstream infections; guidelines mandate immediate mechanical catheter removal."
+      },
+      {
+        "text": "Initiate oral voriconazole 200 mg twice daily as standalone monotherapy without removing the catheter",
+        "correct": false,
+        "explanation": "Voriconazole is used primarily for invasive Aspergillus; it has significant hepatotoxicity, visual hallucinations, and drug-drug interactions, and is not first-line for candidemia."
+      },
+      {
+        "text": "Treat with intravenous caspofungin for 48 hours and stop therapy as soon as fever defers, without repeating blood cultures",
+        "correct": false,
+        "explanation": "Candidemia requires a minimum of 14 days of antifungal therapy calculated from the date of the FIRST NEGATIVE blood culture to prevent metastatic fungal abscesses and endocarditis."
+      },
+      {
+        "text": "Initiate intravenous echinocandin therapy (e.g., caspofungin, micafungin, or anidulafungin), remove the indwelling central venous catheter, and perform a mandatory dilated ophthalmologic examination within the first week of therapy",
+        "correct": true,
+        "explanation": "Candidemia (Candida bloodstream infection) carries a 30-day mortality approaching 30-40%. Major risk factors include: central venous catheters, total parenteral nutrition (TPN), broad-spectrum antibiotic exposure, recent abdominal surgery, and prolonged ICU stay. (1) FIRST-LINE EMPIRIC PHARMACOTHERAPY (IDSA GUIDELINES): An ECHINOCANDIN (caspofungin 70 mg loading dose then 50 mg daily, micafungin 100 mg daily, or anidulafungin 200 mg loading dose then 100 mg daily) is the RECOMMENDED FIRST-LINE EMPIRIC AGENT for candidemia in both non-neutropenic and neutropenic adults. Echinocandins inhibit (1,3)-beta-D-glucan synthase in the fungal cell wall, are fungicidal against Candida species, and have superior clinical efficacy compared to fluconazole. Transition (step-down) to oral fluconazole is considered only after 5 to 7 days if the patient is clinically stable, blood cultures have cleared, and the isolate is confirmed fluconazole-susceptible. (2) CENTRAL VENOUS CATHETER REMOVAL: The central catheter serves as the primary nidus for intraluminal fungal biofilm formation and sustained seeded bacteremia; guidelines strongly mandate immediate removal of existing central venous catheters. (3) MANDATORY DILATED OPHTHALMOLOGIC EXAMINATION: Candida exhibits high hematogenous tropism for the richly vascularized choroid and retina, causing Candida chorioretinitis or endophthalmitis in 5% to 15% of candidemia cases. Because ocular involvement is often asymptomatic in early stages, a DILATED FUNDUSCOPIC EXAMINATION BY AN OPHTHALMOLOGIST IS MANDATORY within the first week of candidemia diagnosis. If chorioretinitis or endophthalmitis is present, treatment requires prolonged high-dose systemic amphotericin B plus flucytosine or fluconazole, and intravitreal antifungal injections, as echinocandins do not penetrate the vitreous body."
+      }
+    ],
+    "explanation": "Candidemia (Candida bloodstream infection) carries a 30-day mortality approaching 30-40%. Major risk factors include: central venous catheters, total parenteral nutrition (TPN), broad-spectrum antibiotic exposure, recent abdominal surgery, and prolonged ICU stay. (1) FIRST-LINE EMPIRIC PHARMACOTHERAPY (IDSA GUIDELINES): An ECHINOCANDIN (caspofungin 70 mg loading dose then 50 mg daily, micafungin 100 mg daily, or anidulafungin 200 mg loading dose then 100 mg daily) is the RECOMMENDED FIRST-LINE EMPIRIC AGENT for candidemia in both non-neutropenic and neutropenic adults. Echinocandins inhibit (1,3)-beta-D-glucan synthase in the fungal cell wall, are fungicidal against Candida species, and have superior clinical efficacy compared to fluconazole. Transition (step-down) to oral fluconazole is considered only after 5 to 7 days if the patient is clinically stable, blood cultures have cleared, and the isolate is confirmed fluconazole-susceptible. (2) CENTRAL VENOUS CATHETER REMOVAL: The central catheter serves as the primary nidus for intraluminal fungal biofilm formation and sustained seeded bacteremia; guidelines strongly mandate immediate removal of existing central venous catheters. (3) MANDATORY DILATED OPHTHALMOLOGIC EXAMINATION: Candida exhibits high hematogenous tropism for the richly vascularized choroid and retina, causing Candida chorioretinitis or endophthalmitis in 5% to 15% of candidemia cases. Because ocular involvement is often asymptomatic in early stages, a DILATED FUNDUSCOPIC EXAMINATION BY AN OPHTHALMOLOGIST IS MANDATORY within the first week of candidemia diagnosis. If chorioretinitis or endophthalmitis is present, treatment requires prolonged high-dose systemic amphotericin B plus flucytosine or fluconazole, and intravitreal antifungal injections, as echinocandins do not penetrate the vitreous body. Candidemia requires immediate IV echinocandin therapy (caspofungin/micafungin), central venous catheter removal, and mandatory dilated ophthalmologic examination to rule out endophthalmitis.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Candidemia and Catheter-Related Fungal Bloodstream Infections.",
+    "keyPoints": [
+      "Candidemia and Catheter-Related Fungal Bloodstream Infections",
+      "Candidemia requires immediate IV echinocandin therapy (caspofungin/micafungin), central venous catheter removal, and mandatory dilated ophthalmologic examination to rule out endoph"
+    ],
+    "references": [
+      {
+        "label": "Pappas PG, Kauffman CA, Andes DR, et al. Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2016;62(4):e1-e50. PMID: 26679288.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26679288/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0481",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Infective Endocarditis Empiric Regimens",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man presents to the emergency department with a 2-week history of low-grade fever, chills, night sweats, anorexia, and fatigue. He underwent surgical aortic valve replacement with a mechanical bileaflet prosthetic valve 8 months ago. Physical examination reveals an alert man with pale conjunctivae. Vital signs demonstrate blood pressure of 124/76 mm Hg, heart rate of 96/min, respiratory rate of 18/min, and temperature of 38.5 C (101.3 F). Cardiac auscultation reveals crisp mechanical valve closure clicks accompanied by a new grade 3/6 early diastolic murmur heard best at the right upper sternal border. Inspection of the hands reveals splinter hemorrhages under two fingernails and non-tender erythematous macules on the palms (Janeway lesions). Transesophageal echocardiography (TEE) reveals an 11-mm oscillating vegetation attached to the prosthetic aortic valve sewing ring with mild paravalvular regurgitation. Three separate sets of blood cultures are drawn from different venipuncture sites over a 1-hour period.\n\nWhich of the following represents the most appropriate empiric antimicrobial regimen while awaiting blood culture results?",
+    "options": [
+      {
+        "text": "Intravenous vancomycin PLUS intravenous cefepime (or gentamicin), withholding rifampin until blood cultures become sterile",
+        "correct": true,
+        "explanation": "Prosthetic Valve Endocarditis (PVE) occurring within 12 months of valve surgery (early PVE) is predominantly caused by healthcare-associated pathogens inoculated during the perioperative period: methicillin-resistant coagulase-negative staphylococci (Staphylococcus epidermidis, > 30-40%), Staphylococcus aureus (20%), gram-negative bacilli, and enterococci. (1) EMPIRIC REGIMEN FOR PROSTHETIC VALVE ENDOCARDITIS: Guidelines (AHA and ESC) recommend combination empiric therapy covering MRSA, MRSE, and hospital-acquired gram-negative bacilli: (a) INTRAVENOUS VANCOMycin (15-20 mg/kg IV q8-12h targeting a trough 15-20 mcg/mL or AUC 400-600) PLUS (b) INTRAVENOUS CEFEPIME (or an aminoglycoside like GENTAMICIN). (2) THE CRITICAL RATIONALE FOR WITHHOLDING RIFAMPIN INITIALLY: Rifampin has exceptional penetration into staphylococcal foreign-body biofilms, which is critical for curing prosthetic valve infections. However, RIFAMPIN MUST NEVER BE INITIATED EMPIRICALLY OR WHILE ACTIVE BACTEREMIA IS PRESENT. If rifampin is administered while high concentrations of circulating bacteria are present in the bloodstream, staphylococci develop rapid, high-level single-step point mutations in the rpoB gene, conferring irreversible rifampin resistance within 24 to 48 hours. Therefore, AHA guidelines mandate: Rifampin (300 mg orally or IV q8h) is added ONLY AFTER blood cultures have become completely sterile and the pathogen is confirmed as a staphylococcal species."
+      },
+      {
+        "text": "Immediate four-drug combination therapy with intravenous vancomycin, intravenous gentamicin, oral rifampin, and intravenous ampicillin initiated simultaneously on day 1",
+        "correct": false,
+        "explanation": "Administering rifampin while blood cultures are actively positive rapidly breeds high-level rifampin resistance via rpoB mutations, ruining the biofilm-penetrating drug."
+      },
+      {
+        "text": "Intravenous ampicillin-sulbactam monotherapy, as prosthetic valve endocarditis is predominantly caused by viridans group streptococci",
+        "correct": false,
+        "explanation": "Viridans streptococci cause late native valve endocarditis (> 12 months); prosthetic valves < 12 months are dominated by methicillin-resistant staphylococci (MRSE/MRSA) which are completely resistant to ampicillin-sulbactam."
+      },
+      {
+        "text": "Oral linezolid 600 mg twice daily combined with oral ciprofloxacin 750 mg twice daily",
+        "correct": false,
+        "explanation": "Bactericidal parenteral therapy is mandatory in endocarditis; bacteriostatic oral agents like linezolid have high failure rates in prosthetic valve infections and cannot overcome foreign-body biofilms."
+      },
+      {
+        "text": "Withhold all antibiotics until blood cultures identify the specific bacterial organism and susceptibility profile in 48 to 72 hours",
+        "correct": false,
+        "explanation": "Prosthetic valve endocarditis with an 11-mm vegetation and paravalvular regurgitation carries a high risk of rapid valve dehiscence, root abscess, and embolization; empiric treatment after blood cultures is mandatory."
+      }
+    ],
+    "explanation": "Prosthetic Valve Endocarditis (PVE) occurring within 12 months of valve surgery (early PVE) is predominantly caused by healthcare-associated pathogens inoculated during the perioperative period: methicillin-resistant coagulase-negative staphylococci (Staphylococcus epidermidis, > 30-40%), Staphylococcus aureus (20%), gram-negative bacilli, and enterococci. (1) EMPIRIC REGIMEN FOR PROSTHETIC VALVE ENDOCARDITIS: Guidelines (AHA and ESC) recommend combination empiric therapy covering MRSA, MRSE, and hospital-acquired gram-negative bacilli: (a) INTRAVENOUS VANCOMycin (15-20 mg/kg IV q8-12h targeting a trough 15-20 mcg/mL or AUC 400-600) PLUS (b) INTRAVENOUS CEFEPIME (or an aminoglycoside like GENTAMICIN). (2) THE CRITICAL RATIONALE FOR WITHHOLDING RIFAMPIN INITIALLY: Rifampin has exceptional penetration into staphylococcal foreign-body biofilms, which is critical for curing prosthetic valve infections. However, RIFAMPIN MUST NEVER BE INITIATED EMPIRICALLY OR WHILE ACTIVE BACTEREMIA IS PRESENT. If rifampin is administered while high concentrations of circulating bacteria are present in the bloodstream, staphylococci develop rapid, high-level single-step point mutations in the rpoB gene, conferring irreversible rifampin resistance within 24 to 48 hours. Therefore, AHA guidelines mandate: Rifampin (300 mg orally or IV q8h) is added ONLY AFTER blood cultures have become completely sterile and the pathogen is confirmed as a staphylococcal species. Early prosthetic valve endocarditis (< 12 mo) requires empiric IV vancomycin + cefepime; rifampin must be withheld until blood cultures clear to prevent rapid rpoB resistance mutations.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Infective Endocarditis Empiric Regimens.",
+    "keyPoints": [
+      "Infective Endocarditis Empiric Regimens",
+      "Early prosthetic valve endocarditis (< 12 mo) requires empiric IV vancomycin + cefepime; rifampin must be withheld until blood cultures clear to prevent rapid rpoB resistance mutat"
+    ],
+    "references": [
+      {
+        "label": "Baddour LM, Wilson WR, Bayer AS, et al. Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications: A Scientific Statement for Healthcare Professionals From the American Heart Association. Circulation. 2015;132(15):1435-1486. PMID: 2637...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26373316/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0482",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Lyme Disease Clinical Stages and Diagnostic Stewardship",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old landscape architect presents to an outpatient clinic in suburban Connecticut in late June with a 4-day history of an expanding skin lesion on his right posterior thigh. He also reports mild generalized fatigue, low-grade fever, and headache. He recalls removing a tiny, dark tick from his leg approximately 8 days ago after working in dense brush. Physical examination reveals an alert man in no distress. Vital signs show blood pressure of 122/76 mm Hg, heart rate of 74/min, and temperature of 37.8 C (100.0 F). Examination of the right posterior thigh reveals an erythematous, circular, non-tender, non-pruritic macule measuring 9 cm in diameter with a sharp outer border and central clearing ('bull's-eye' or targetoid appearance). The remainder of the skin examination is clear. Neurological examination, including cranial nerves, motor, sensory, and reflexes, is completely normal. Cardiac auscultation reveals normal S1 and S2 with regular rate and rhythm and no murmurs.\n\nWhich of the following represents the most appropriate diagnostic and therapeutic approach for this patient?",
+    "options": [
+      {
+        "text": "Order serum Lyme enzyme immunoassay (EIA) and withhold antibiotic therapy until positive confirmation is obtained",
+        "correct": false,
+        "explanation": "Lyme serology has < 40% sensitivity in early localized disease; waiting for antibodies delays treatment and risks bacterial dissemination to the heart and nervous system."
+      },
+      {
+        "text": "Diagnose early localized Lyme disease clinically and initiate oral doxycycline (100 mg twice daily for 10 to 14 days) without ordering Lyme serologic testing",
+        "correct": true,
+        "explanation": "Lyme disease is a tick-borne spirochetal infection caused by Borrelia burgdorferi, transmitted by the blacklegged tick (Ixodes scapularis in the Northeast/Midwest US). (1) CLINICAL STAGES: (a) Early Localized (days to weeks): Characterized by a solitary ERYTHEMA MIGRANS (EM) rash (expanding erythematous macule/patch >= 5 cm, often with central clearing) accompanied by viral-like symptoms; (b) Early Disseminated (weeks to months): Multiple secondary EM lesions, Lyme neuroborreliosis (unilateral or bilateral facial nerve palsy [CN VII], lymphocytic meningitis), and Lyme carditis (AV conduction block, myopericarditis); (c) Late Disease (months to years): Asymmetric, migratory, monoarticular or oligoarticular arthritis (most commonly the knee). (2) DIAGNOSTIC STEWARDSHIP (CDC / IDSA GUIDELINES): Serological testing (two-tiered testing: enzyme immunoassay [EIA] followed by Western blot or second EIA) has a notoriously POOR SENSITIVITY (< 30-40%) during early localized disease because the IgM/IgG antibody response requires 2 to 6 weeks to develop. Therefore, in an endemic region, the presence of an erythema migrans lesion >= 5 cm is SUFFICIENT TO ESTABLISH A DEFINITIVE CLINICAL DIAGNOSIS. SEROLOGIC TESTING SHOULD NOT BE PERFORMED because a negative test is falsely reassuring and delays curative treatment. (3) TREATMENT: Oral DOXYCYCLINE (100 mg twice daily for 10-14 days) is first-line; oral amoxicillin or cefuroxime axetil are first-line alternatives in pregnant women or young children."
+      },
+      {
+        "text": "Perform a 4-mm punch biopsy of the erythema migrans lesion for fungal culture and potassium hydroxide (KOH) examination",
+        "correct": false,
+        "explanation": "Erythema migrans is a clinical diagnosis; tinea corporis presents with scaly, pruritic borders and positive KOH, unlike the smooth, asymptomatic, rapidly expanding lesion of Lyme disease."
+      },
+      {
+        "text": "Admit to the hospital for intravenous ceftriaxone 2 g daily for 28 days and continuous cardiac telemetry",
+        "correct": false,
+        "explanation": "Intravenous ceftriaxone is reserved for early disseminated Lyme disease with advanced heart block (PR > 300 ms, second/third-degree AV block) or CNS meningitis; early localized disease is treated with oral doxycycline."
+      },
+      {
+        "text": "Administer a single prophylactic dose of oral doxycycline 200 mg and schedule outpatient follow-up",
+        "correct": false,
+        "explanation": "A single dose of doxycycline is post-exposure chemoprophylaxis given within 72 hours of removing an engorged deer tick before any rash appears; established erythema migrans requires a full 10-14 day therapeutic course."
+      }
+    ],
+    "explanation": "Lyme disease is a tick-borne spirochetal infection caused by Borrelia burgdorferi, transmitted by the blacklegged tick (Ixodes scapularis in the Northeast/Midwest US). (1) CLINICAL STAGES: (a) Early Localized (days to weeks): Characterized by a solitary ERYTHEMA MIGRANS (EM) rash (expanding erythematous macule/patch >= 5 cm, often with central clearing) accompanied by viral-like symptoms; (b) Early Disseminated (weeks to months): Multiple secondary EM lesions, Lyme neuroborreliosis (unilateral or bilateral facial nerve palsy [CN VII], lymphocytic meningitis), and Lyme carditis (AV conduction block, myopericarditis); (c) Late Disease (months to years): Asymmetric, migratory, monoarticular or oligoarticular arthritis (most commonly the knee). (2) DIAGNOSTIC STEWARDSHIP (CDC / IDSA GUIDELINES): Serological testing (two-tiered testing: enzyme immunoassay [EIA] followed by Western blot or second EIA) has a notoriously POOR SENSITIVITY (< 30-40%) during early localized disease because the IgM/IgG antibody response requires 2 to 6 weeks to develop. Therefore, in an endemic region, the presence of an erythema migrans lesion >= 5 cm is SUFFICIENT TO ESTABLISH A DEFINITIVE CLINICAL DIAGNOSIS. SEROLOGIC TESTING SHOULD NOT BE PERFORMED because a negative test is falsely reassuring and delays curative treatment. (3) TREATMENT: Oral DOXYCYCLINE (100 mg twice daily for 10-14 days) is first-line; oral amoxicillin or cefuroxime axetil are first-line alternatives in pregnant women or young children. Solitary 9-cm erythema migrans in Connecticut is early localized Lyme disease; diagnosed clinically and treated with oral doxycycline (10-14 days) without serologic testing.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Lyme Disease Clinical Stages and Diagnostic Stewardship.",
+    "keyPoints": [
+      "Lyme Disease Clinical Stages and Diagnostic Stewardship",
+      "Solitary 9-cm erythema migrans in Connecticut is early localized Lyme disease; diagnosed clinically and treated with oral doxycycline (10-14 days) without serologic testing."
+    ],
+    "references": [
+      {
+        "label": "Lantos PM, et al. IDSA, AAN, and ACR: 2020 Guidelines for the Prevention, Diagnosis and Treatment of Lyme Disease. Clin Infect Dis. 2021;72(1):e1-e48. PMID: 33251528.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33251528/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0483",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Acute Retroviral Syndrome (Acute HIV Infection)",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old man presents to the student health clinic with a 6-day history of high fever, severe sore throat, painful swallowing, diffuse body aches, and fatigue. Two days ago, he noticed a non-pruritic pink rash across his chest and back. He reports engaging in condomless receptive anal intercourse with a new male partner 16 days ago. Physical examination demonstrates an uncomfortable, febrile man. Vital signs reveal blood pressure of 118/74 mm Hg, heart rate of 102/min, and temperature of 38.9 C (102.0 F). Oropharyngeal examination reveals pharyngeal erythema without tonsillar exudates, and two small (2-mm), shallow, well-demarcated, painful ulcers on the buccal mucosa. Tender, non-tender cervical, axillary, and inguinal lymphadenopathy is palpable. Dermatologic examination reveals a diffuse, erythematous maculopapular rash on the trunk and upper extremities. Point-of-care rapid heterophile antibody test (monospot) is negative. A standard rapid 4th-generation HIV-1/2 antigen/antibody immunoassay is reported as non-reactive (negative).\n\nWhich of the following is the most appropriate next diagnostic test to establish the diagnosis?",
+    "options": [
+      {
+        "text": "HIV-1/HIV-2 antibody differentiation immunoassay",
+        "correct": false,
+        "explanation": "The antibody differentiation assay detects mature IgG antibodies; when the 4th-generation screening test is negative, antibody differentiation will also be negative because antibodies have not yet developed."
+      },
+      {
+        "text": "Western blot for HIV-1 antibodies",
+        "correct": false,
+        "explanation": "Western blot detects mature antibodies and is obsolete in CDC diagnostic algorithms; it has a long window period (28-45 days) and will be falsely negative during acute retroviral syndrome."
+      },
+      {
+        "text": "Plasma HIV-1 RNA quantitative nucleic acid testing (viral load)",
+        "correct": true,
+        "explanation": "Acute Retroviral Syndrome (Acute HIV Infection) occurs 2 to 4 weeks after viral transmission, coinciding with a massive burst of viral replication and widespread dissemination throughout lymphoid tissue. (1) CLINICAL PRESENTATION: Resembles infectious mononucleosis: high fever, pharyngitis, generalized lymphadenopathy, maculopapular trunk rash, arthralgias, and pathognomonic PAINFUL MUCOCUTANEOUS ORAL OR GENITAL ULCERS. (2) DIAGNOSTIC TESTING WINDOW AND KINETICS (CDC TESTING ALGORITHM): (a) Viral RNA (via quantitative RT-PCR viral load) becomes detectable in plasma FIRST, typically within 10 to 12 days after exposure, reaching extremely high levels (often > 100,000 to > 10,000,000 copies/mL). (b) HIV p24 antigen becomes detectable around day 14 to 17; (c) HIV-1/2 antibodies become detectable later, around day 20 to 30 (seroconversion window). (3) DIAGNOSTIC DILEMMA: During the earliest stages of acute infection (the 'eclipse phase' and early seroconversion), antibody titers are absent, and even the 4th-generation combination antigen/antibody test can be falsely negative or indeterminate if p24 antigen levels have not crossed detection thresholds or are bound in early immune complexes. Therefore, when acute HIV is clinically suspected, guidelines mandate ordering a QUANTITATIVE PLASMA HIV-1 RNA ASSAY (VIRAL LOAD). A dramatically elevated viral load (> 100,000 copies/mL) confirms acute HIV infection and mandates immediate initiation of combination antiretroviral therapy."
+      },
+      {
+        "text": "Epstein-Barr virus viral capsid antigen (VCA) IgM and IgG serology",
+        "correct": false,
+        "explanation": "While EBV causes infectious mononucleosis, it does not explain painful mucocutaneous shallow ulcerations, and condomless intercourse 16 days ago strongly points to acute HIV, which must be ruled out with viral load."
+      },
+      {
+        "text": "Repeat the rapid 4th-generation HIV antigen/antibody test in 6 months with no interim testing",
+        "correct": false,
+        "explanation": "Delaying evaluation for 6 months misses the critical opportunity to initiate immediate antiretroviral therapy, protect the immune system, and prevent transmission during the peak infectious phase."
+      }
+    ],
+    "explanation": "Acute Retroviral Syndrome (Acute HIV Infection) occurs 2 to 4 weeks after viral transmission, coinciding with a massive burst of viral replication and widespread dissemination throughout lymphoid tissue. (1) CLINICAL PRESENTATION: Resembles infectious mononucleosis: high fever, pharyngitis, generalized lymphadenopathy, maculopapular trunk rash, arthralgias, and pathognomonic PAINFUL MUCOCUTANEOUS ORAL OR GENITAL ULCERS. (2) DIAGNOSTIC TESTING WINDOW AND KINETICS (CDC TESTING ALGORITHM): (a) Viral RNA (via quantitative RT-PCR viral load) becomes detectable in plasma FIRST, typically within 10 to 12 days after exposure, reaching extremely high levels (often > 100,000 to > 10,000,000 copies/mL). (b) HIV p24 antigen becomes detectable around day 14 to 17; (c) HIV-1/2 antibodies become detectable later, around day 20 to 30 (seroconversion window). (3) DIAGNOSTIC DILEMMA: During the earliest stages of acute infection (the 'eclipse phase' and early seroconversion), antibody titers are absent, and even the 4th-generation combination antigen/antibody test can be falsely negative or indeterminate if p24 antigen levels have not crossed detection thresholds or are bound in early immune complexes. Therefore, when acute HIV is clinically suspected, guidelines mandate ordering a QUANTITATIVE PLASMA HIV-1 RNA ASSAY (VIRAL LOAD). A dramatically elevated viral load (> 100,000 copies/mL) confirms acute HIV infection and mandates immediate initiation of combination antiretroviral therapy. Patient with mono-like symptoms, oral ulcers, and sex 16 days ago has acute HIV; negative 4th-gen test represents early window period; diagnose with quantitative plasma HIV-1 RNA (viral load).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Retroviral Syndrome (Acute HIV Infection).",
+    "keyPoints": [
+      "Acute Retroviral Syndrome (Acute HIV Infection)",
+      "Patient with mono-like symptoms, oral ulcers, and sex 16 days ago has acute HIV; negative 4th-gen test represents early window period; diagnose with quantitative plasma HIV-1 RNA ("
+    ],
+    "references": [
+      {
+        "label": "Centers for Disease Control and Prevention and Association of Public Health Laboratories. Laboratory Testing for the Diagnosis of HIV Infection: Updated Recommendations. June 27, 2014. MMWR. NLM ID: 101636184.",
+        "url": "https://www.ncbi.nlm.nih.gov/nlmcatalog/101636184"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0484",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Cryptococcal Meningitis in Advanced HIV Infection",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old man with advanced HIV infection (CD4+ T-cell count 32/mm3) who has been non-adherent to antiretroviral therapy presents to the emergency department with a 2-week history of dull, continuous bifrontal headache, malaise, low-grade fevers, and mild confusion. On physical examination, he is lethargic but oriented to person and year. Cranial nerve examination reveals a right abducens (CN VI) nerve palsy with diplopia on right lateral gaze. Meningeal signs (neck stiffness) are minimal and subtle. Vital signs show blood pressure of 116/74 mm Hg, heart rate of 78/min, and temperature of 38.1 C (100.6 F). Non-contrast head CT reveals normal brain parenchyma without mass lesions, hydrocephalus, or midline shift. Lumbar puncture performed in the lateral decubitus position demonstrates an opening pressure of 360 mm H2O (markedly elevated; normal <= 200 mm H2O). Cerebrospinal fluid (CSF) analysis reveals:\n- Total nucleated cells: 68/mm3 (88% lymphocytes)\n- Protein: 124 mg/dL\n- Glucose: 28 mg/dL (serum glucose 102 mg/dL; CSF/serum ratio 0.27)\n- Cryptococcal capsular antigen (CrAg) lateral flow assay: Positive at a titer of 1:1,024\n- India ink preparation: Encapsulated round budding yeasts visible\n\nWhich of the following represents the most appropriate management sequence for this patient?",
+    "options": [
+      {
+        "text": "Initiate intravenous fluconazole 400 mg daily monotherapy and start combination antiretroviral therapy immediately on hospital day 1",
+        "correct": false,
+        "explanation": "Fluconazole monotherapy is fungistatic with slow CSF clearance and high mortality compared to amphotericin B plus flucytosine; immediate ART initiation doubles mortality from intracranial IRIS (COAT trial)."
+      },
+      {
+        "text": "Administer intravenous liposomal amphotericin B monotherapy and insert an immediate permanent ventriculoperitoneal shunt on day 1",
+        "correct": false,
+        "explanation": "Permanent shunting during acute active high-titer cryptococcal infection leads to fungal biofilm colonization and shunt obstruction; serial lumbar punctures are the primary modality to manage elevated opening pressure."
+      },
+      {
+        "text": "Administer high-dose intravenous dexamethasone 10 mg every 6 hours to reduce cerebral fungal inflammation",
+        "correct": false,
+        "explanation": "The landmark CryptoDex trial demonstrated that routine adjunctive dexamethasone does not reduce mortality, significantly slows CSF fungal clearance, and markedly increases severe adverse events and disability."
+      },
+      {
+        "text": "Initiate induction therapy with intravenous liposomal amphotericin B plus oral flucytosine for at least 2 weeks, perform serial therapeutic lumbar punctures to lower opening pressure < 200 mm H2O, and delay antiretroviral therapy (ART) initiation for 2 to 6 weeks",
+        "correct": true,
+        "explanation": "Cryptococcal Meningitis is caused by the encapsulated environmental yeast Cryptococcus neoformans, predominantly occurring in patients with advanced immunosuppression (CD4+ count < 100/mm3). (1) THREE-PHASE ANTIMICROBIAL REGIMEN (IDSA GUIDELINES): (a) INDUCTION: Liposomal amphotericin B (3-4 mg/kg IV daily) PLUS oral flucytosine (100 mg/kg daily in 4 divided doses) for a minimum of 2 weeks. Amphotericin binds fungal membrane ergosterol, while flucytosine enters fungal cells and is converted to 5-fluorouracil, inhibiting DNA and protein synthesis. Flucytosine significantly accelerates CSF fungal clearance and reduces mortality. (b) CONSOLIDATION: Oral fluconazole (400-800 mg daily) for 8 weeks; (c) MAINTENANCE: Low-dose oral fluconazole (200 mg daily) for at least 1 year and until CD4 > 100 for >= 3 months on ART. (2) INTRACRANIAL PRESSURE CONTROL: Cryptococcal capsular polysaccharide (glucuronoxylomannan) mechanically plugs the arachnoid villi, preventing CSF resorption and generating severe intracranial hypertension (opening pressure > 250-350 mm H2O, causing CN VI palsy). Elevated pressure must be aggressively relieved with DAILY SERIAL THERAPEUTIC LUMBAR PUNCTURES until opening pressure normalizes (< 200 mm H2O or 50% reduction). Shunting is reserved for persistent failure. (3) TIMING OF ART INITIATION: Landmark randomized trials (COAT trial) proved that initiating ART immediately (within the first 2 weeks) DOUBLES MORTALITY due to catastrophic intracranial Immune Reconstitution Inflammatory Syndrome (IRIS). ART MUST BE SAFELY DELAYED FOR 2 TO 6 WEEKS until induction antifungal therapy has cleared the fungal burden."
+      },
+      {
+        "text": "Administer oral flucytosine monotherapy for 6 weeks, avoiding amphotericin B due to nephrotoxicity concerns",
+        "correct": false,
+        "explanation": "Flucytosine monotherapy rapidly breeds high-level fungal resistance via mutations in cytosine permease within days; it must always be combined with amphotericin B."
+      }
+    ],
+    "explanation": "Cryptococcal Meningitis is caused by the encapsulated environmental yeast Cryptococcus neoformans, predominantly occurring in patients with advanced immunosuppression (CD4+ count < 100/mm3). (1) THREE-PHASE ANTIMICROBIAL REGIMEN (IDSA GUIDELINES): (a) INDUCTION: Liposomal amphotericin B (3-4 mg/kg IV daily) PLUS oral flucytosine (100 mg/kg daily in 4 divided doses) for a minimum of 2 weeks. Amphotericin binds fungal membrane ergosterol, while flucytosine enters fungal cells and is converted to 5-fluorouracil, inhibiting DNA and protein synthesis. Flucytosine significantly accelerates CSF fungal clearance and reduces mortality. (b) CONSOLIDATION: Oral fluconazole (400-800 mg daily) for 8 weeks; (c) MAINTENANCE: Low-dose oral fluconazole (200 mg daily) for at least 1 year and until CD4 > 100 for >= 3 months on ART. (2) INTRACRANIAL PRESSURE CONTROL: Cryptococcal capsular polysaccharide (glucuronoxylomannan) mechanically plugs the arachnoid villi, preventing CSF resorption and generating severe intracranial hypertension (opening pressure > 250-350 mm H2O, causing CN VI palsy). Elevated pressure must be aggressively relieved with DAILY SERIAL THERAPEUTIC LUMBAR PUNCTURES until opening pressure normalizes (< 200 mm H2O or 50% reduction). Shunting is reserved for persistent failure. (3) TIMING OF ART INITIATION: Landmark randomized trials (COAT trial) proved that initiating ART immediately (within the first 2 weeks) DOUBLES MORTALITY due to catastrophic intracranial Immune Reconstitution Inflammatory Syndrome (IRIS). ART MUST BE SAFELY DELAYED FOR 2 TO 6 WEEKS until induction antifungal therapy has cleared the fungal burden. Cryptococcal meningitis with opening pressure 360 mm H2O requires liposomal amphotericin B + flucytosine, serial LPs to lower pressure < 200 mm H2O, and delaying ART for 2-6 weeks to prevent fatal IRIS.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cryptococcal Meningitis in Advanced HIV Infection.",
+    "keyPoints": [
+      "Cryptococcal Meningitis in Advanced HIV Infection",
+      "Cryptococcal meningitis with opening pressure 360 mm H2O requires liposomal amphotericin B + flucytosine, serial LPs to lower pressure < 200 mm H2O, and delaying ART for 2-6 weeks "
+    ],
+    "references": [
+      {
+        "label": "Boulware DR, Meya DB, Muzoora C, et al. Timing of antiretroviral therapy after diagnosis of cryptococcal meningitis. N Engl J Med. 2014;370(26):2487-2498. PMID: 24963568.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24963568/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0485",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Toxoplasma gondii Encephalitis in AIDS",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old man with advanced HIV infection who has been lost to medical follow-up for 3 years is brought to the emergency department by his brother due to a 10-day history of progressive left-sided weakness, dull headache, and lethargy. This morning, he experienced a 2-minute focal motor seizure involving the left arm with secondary generalization. On physical examination, he is somnolent but arousable. Vital signs reveal blood pressure of 126/78 mm Hg, heart rate of 84/min, and temperature of 38.0 C (100.4 F). Neurological examination demonstrates left-sided spastic hemiparesis (motor strength 2/5 in left upper extremity, 3/5 in left lower extremity) with hyperactive left deep tendon reflexes and an extensor plantar response (positive Babinski sign) on the left. Contrast-enhanced brain MRI reveals multiple (four) discrete, rounded, ring-enhancing lesions located within the right basal ganglia, right frontoparietal cortex, and left thalamus, with prominent surrounding vasogenic edema and a 4-mm midline shift. Laboratory evaluation reveals a CD4+ T-cell count of 48/mm3 and positive serum Toxoplasma IgG antibody titers.\n\nWhich of the following represents the most appropriate initial pharmacological therapy for this patient?",
+    "options": [
+      {
+        "text": "High-dose intravenous trimethoprim-sulfamethoxazole monotherapy with oral folic acid (vitamin B9)",
+        "correct": false,
+        "explanation": "While TMP-SMX is an acceptable second-line alternative, combining it with regular folic acid does not rescue host bone marrow because folic acid requires intact DHFR; leucovorin (reduced folinic acid) is specifically required."
+      },
+      {
+        "text": "Stereotactic brain biopsy prior to administering any antimicrobial therapy",
+        "correct": false,
+        "explanation": "Multiple ring-enhancing lesions in a Toxoplasma-IgG-positive AIDS patient warrant an empiric 2-week trial of pyrimethamine-sulfadiazine; brain biopsy is reserved for lesions that fail to regress after 10-14 days."
+      },
+      {
+        "text": "Intravenous liposomal amphotericin B and oral flucytosine for fungal mass lesions",
+        "correct": false,
+        "explanation": "Amphotericin B and flucytosine treat Cryptococcus neoformans, which presents with diffuse meningoencephalitis and elevated opening pressure, rarely producing multiple ring-enhancing parenchymal lesions."
+      },
+      {
+        "text": "Intravenous ganciclovir and foscarnet for suspected viral encephalitis",
+        "correct": false,
+        "explanation": "Ganciclovir and foscarnet treat Cytomegalovirus (CMV), which causes periventricular ependymitis or retinitis, not discrete multi-focal ring-enhancing basal ganglia abscesses."
+      },
+      {
+        "text": "Oral pyrimethamine, oral sulfadiazine, and oral leucovorin (folinic acid)",
+        "correct": true,
+        "explanation": "Toxoplasma Encephalitis is the most common cause of focal central nervous system mass lesions in patients with advanced HIV infection (CD4+ T-lymphocyte count < 100/mm3). (1) CLINICAL AND RADIOLOGICAL FINDINGS: Subacute headache, focal neurological deficits (hemiparesis, cranial neuropathies), seizures, and altered mental status. Contrast-enhanced MRI classically demonstrates MULTIPLE, bilateral, ring-enhancing lesions with surrounding vasogenic edema, with a predilection for the basal ganglia, corticomedullary junction, and thalamus. (2) FIRST-LINE REGIMEN (CDC/IDSA/NIH GUIDELINES): (a) PYRIMETHAMINE: A potent competitive dihydrofolate reductase (DHFR) inhibitor; (b) SULFADIAZINE: A sulfonamide competitive dihydropteroate synthase inhibitor. The combination provides synergistic sequential blockade of microbial tetrahydrofolic acid synthesis. (c) LEUCOVORIN (FOLINIC ACID): Pyrimethamine inhibits human mammalian DHFR to a lesser extent; however, high therapeutic dosing produces severe dose-dependent bone marrow suppression (megaloblastic anemia, leukopenia, thrombocytopenia). LEUCOVORIN (folinic acid) supplies fully reduced 5-formyl-tetrahydrofolate directly to human mammalian cells (which possess folate uptake mechanisms), completely bypassing DHFR inhibition and preventing catastrophic myelosuppression. Note: Folic acid cannot be substituted because it requires DHFR for activation. (3) SECOND-LINE ALTERNATIVE: For patients with severe sulfa allergy, pyrimethamine PLUS clindamycin (plus leucovorin) is the primary regimen. (4) PRIMARY CNS LYMPHOMA (PCNSL) DIFFERENTIATION: PCNSL (associated with Epstein-Barr virus) typically presents as a solitary, periventricular, strongly enhancing lesion. An empiric 2-week trial of anti-toxoplasma therapy is standard: clinical and radiographic improvement confirms toxoplasmosis, avoiding the need for stereotactic brain biopsy."
+      }
+    ],
+    "explanation": "Toxoplasma Encephalitis is the most common cause of focal central nervous system mass lesions in patients with advanced HIV infection (CD4+ T-lymphocyte count < 100/mm3). (1) CLINICAL AND RADIOLOGICAL FINDINGS: Subacute headache, focal neurological deficits (hemiparesis, cranial neuropathies), seizures, and altered mental status. Contrast-enhanced MRI classically demonstrates MULTIPLE, bilateral, ring-enhancing lesions with surrounding vasogenic edema, with a predilection for the basal ganglia, corticomedullary junction, and thalamus. (2) FIRST-LINE REGIMEN (CDC/IDSA/NIH GUIDELINES): (a) PYRIMETHAMINE: A potent competitive dihydrofolate reductase (DHFR) inhibitor; (b) SULFADIAZINE: A sulfonamide competitive dihydropteroate synthase inhibitor. The combination provides synergistic sequential blockade of microbial tetrahydrofolic acid synthesis. (c) LEUCOVORIN (FOLINIC ACID): Pyrimethamine inhibits human mammalian DHFR to a lesser extent; however, high therapeutic dosing produces severe dose-dependent bone marrow suppression (megaloblastic anemia, leukopenia, thrombocytopenia). LEUCOVORIN (folinic acid) supplies fully reduced 5-formyl-tetrahydrofolate directly to human mammalian cells (which possess folate uptake mechanisms), completely bypassing DHFR inhibition and preventing catastrophic myelosuppression. Note: Folic acid cannot be substituted because it requires DHFR for activation. (3) SECOND-LINE ALTERNATIVE: For patients with severe sulfa allergy, pyrimethamine PLUS clindamycin (plus leucovorin) is the primary regimen. (4) PRIMARY CNS LYMPHOMA (PCNSL) DIFFERENTIATION: PCNSL (associated with Epstein-Barr virus) typically presents as a solitary, periventricular, strongly enhancing lesion. An empiric 2-week trial of anti-toxoplasma therapy is standard: clinical and radiographic improvement confirms toxoplasmosis, avoiding the need for stereotactic brain biopsy. Advanced AIDS with multiple ring-enhancing basal ganglia lesions and positive Toxoplasma IgG requires oral pyrimethamine + sulfadiazine + leucovorin (folinic acid to prevent myelosuppression).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Toxoplasma gondii Encephalitis in AIDS.",
+    "keyPoints": [
+      "Toxoplasma gondii Encephalitis in AIDS",
+      "Advanced AIDS with multiple ring-enhancing basal ganglia lesions and positive Toxoplasma IgG requires oral pyrimethamine + sulfadiazine + leucovorin (folinic acid to prevent myelos"
+    ],
+    "references": [
+      {
+        "label": "Panel on Opportunistic Infections in Adults and Adolescents with HIV. Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV. Department of Health and Human Services. Updated 2023. NLM ID: 101680789.",
+        "url": "https://www.ncbi.nlm.nih.gov/nlmcatalog/101680789"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0486",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Cytomegalovirus (CMV) Retinitis in Advanced AIDS",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 35-year-old man with advanced HIV infection who has declined antiretroviral therapy presents to the clinic with a 2-week history of painless, progressive blurring of vision and seeing 'floating black cobwebs and flashing lights' in his left eye. He denies eye pain, redness, discharge, or headache. On physical examination, he appears thin and cachectic. Vital signs are normal. Visual acuity is 20/20 in the right eye and 20/200 in the left eye. Pupillary examination reveals a left relative afferent pupillary defect. Anterior slit-lamp examination is completely normal with clear corneas and quiet anterior chambers bilaterally. Dilated indirect ophthalmoscopy of the left eye reveals extensive, full-thickness, fluffy white granular perivascular retinal infiltrates accompanied by extensive, dense flame-shaped intraretinal hemorrhages following the vascular arcades ('pizza pie' or 'cottage cheese and ketchup' retinopathy) with retinal edema approaching the macula. Examination of the right eye is currently unremarkable. Recent laboratory studies show a CD4+ T-cell count of 22/mm3 (reference > 500/mm3) and plasma HIV RNA of 480,000 copies/mL.\n\nWhich of the following represents the most appropriate initial pharmacological therapy to prevent irreversible bilateral blindness in this patient?",
+    "options": [
+      {
+        "text": "Intravenous ganciclovir (or oral valganciclovir), with consideration of intravitreal ganciclovir injections if immediate macular threat is present",
+        "correct": true,
+        "explanation": "Cytomegalovirus (CMV) Retinitis is the leading cause of viral blindness in patients with advanced acquired immunodeficiency syndrome, occurring almost exclusively at CD4+ T-lymphocyte counts < 50/mm3. (1) CLINICAL PRESENTATION: Painless visual blurring, floaters, flashing lights (photopsias), and scotomas. The absence of eye pain and normal anterior chamber (lack of uveitis or redness) distinguishes CMV retinitis from acute angle-closure glaucoma, keratitis, or anterior uveitis. (2) PATHOGNOMONIC OPHTHALMOSCOPIC APPEARANCE: Full-thickness necrotizing retinitis characterized by yellowish-white, fluffy, granular perivascular retinal infiltrates accompanied by extensive intraretinal hemorrhages, classically described as a 'PIZZA PIE' or 'COTTAGE CHEESE AND KETCHUP' fundus. Retinal detachment occurs in up to 30% of patients due to full-thickness retinal tears. (3) FIRST-LINE THERAPY (IDSA/CDC GUIDELINES): (a) SYSTEMIC THERAPY: Oral VALGANCICLOVIR (900 mg twice daily for 21 days induction, then 900 mg daily maintenance) for non-immediate sight-threatening peripheral lesions, OR Intravenous GANCICLOVIR (5 mg/kg IV q12h). Ganciclovir is a nucleoside analogue that inhibits viral DNA polymerase following phosphorylation by the viral UL97 protein kinase. (b) INTRAVITREAL INJECTIONS: For lesions immediately threatening the macula or optic nerve (sight-threatening within 1,500 microns of the fovea), INTRAVITREAL GANCICLOVIR OR FOSCARNET INJECTIONS are combined with systemic therapy to achieve immediate high local drug concentrations. (4) SECOND-LINE AGENTS: Intravenous FOSCARNET (direct DNA polymerase pyrophosphate-binding inhibitor) or CIDOFOVIR are used for ganciclovir resistance (UL97 mutations) or severe neutropenia."
+      },
+      {
+        "text": "High-dose intravenous acyclovir 10 mg/kg every 8 hours for 14 days",
+        "correct": false,
+        "explanation": "Acyclovir lacks adequate potency against CMV because CMV lacks thymidine kinase required for initial acyclovir monophosphorylation; acyclovir is completely ineffective for CMV retinitis."
+      },
+      {
+        "text": "Intravitreal pegaptanib or ranibizumab injections monthly for presumed wet macular degeneration",
+        "correct": false,
+        "explanation": "Anti-VEGF therapy treats choroidal neovascularization, not viral necrotizing retinitis; omitting antiviral therapy results in rapid total retinal necrosis and bilateral blindness."
+      },
+      {
+        "text": "Oral trimethoprim-sulfamethoxazole double-strength twice daily and systemic corticosteroids",
+        "correct": false,
+        "explanation": "TMP-SMX treats Toxoplasma chorioretinitis (which typically presents with vitritis ['headlight in the fog'] and smaller retinal scars); it has zero activity against CMV."
+      },
+      {
+        "text": "Immediate initiation of antiretroviral therapy without administering any antiviral therapy",
+        "correct": false,
+        "explanation": "Starting ART without controlling CMV replication triggers catastrophic immune reconstitution uveitis (IRU) and does not arrest ongoing viral retinal destruction; antiviral therapy is mandatory."
+      }
+    ],
+    "explanation": "Cytomegalovirus (CMV) Retinitis is the leading cause of viral blindness in patients with advanced acquired immunodeficiency syndrome, occurring almost exclusively at CD4+ T-lymphocyte counts < 50/mm3. (1) CLINICAL PRESENTATION: Painless visual blurring, floaters, flashing lights (photopsias), and scotomas. The absence of eye pain and normal anterior chamber (lack of uveitis or redness) distinguishes CMV retinitis from acute angle-closure glaucoma, keratitis, or anterior uveitis. (2) PATHOGNOMONIC OPHTHALMOSCOPIC APPEARANCE: Full-thickness necrotizing retinitis characterized by yellowish-white, fluffy, granular perivascular retinal infiltrates accompanied by extensive intraretinal hemorrhages, classically described as a 'PIZZA PIE' or 'COTTAGE CHEESE AND KETCHUP' fundus. Retinal detachment occurs in up to 30% of patients due to full-thickness retinal tears. (3) FIRST-LINE THERAPY (IDSA/CDC GUIDELINES): (a) SYSTEMIC THERAPY: Oral VALGANCICLOVIR (900 mg twice daily for 21 days induction, then 900 mg daily maintenance) for non-immediate sight-threatening peripheral lesions, OR Intravenous GANCICLOVIR (5 mg/kg IV q12h). Ganciclovir is a nucleoside analogue that inhibits viral DNA polymerase following phosphorylation by the viral UL97 protein kinase. (b) INTRAVITREAL INJECTIONS: For lesions immediately threatening the macula or optic nerve (sight-threatening within 1,500 microns of the fovea), INTRAVITREAL GANCICLOVIR OR FOSCARNET INJECTIONS are combined with systemic therapy to achieve immediate high local drug concentrations. (4) SECOND-LINE AGENTS: Intravenous FOSCARNET (direct DNA polymerase pyrophosphate-binding inhibitor) or CIDOFOVIR are used for ganciclovir resistance (UL97 mutations) or severe neutropenia. Advanced AIDS (CD4 22) with painless vision loss and 'pizza pie' necrotizing retinopathy has CMV retinitis; treated with IV ganciclovir or oral valganciclovir (plus intravitreal injection if macula threatened).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cytomegalovirus (CMV) Retinitis in Advanced AIDS.",
+    "keyPoints": [
+      "Cytomegalovirus (CMV) Retinitis in Advanced AIDS",
+      "Advanced AIDS (CD4 22) with painless vision loss and 'pizza pie' necrotizing retinopathy has CMV retinitis; treated with IV ganciclovir or oral valganciclovir (plus intravitreal in"
+    ],
+    "references": [
+      {
+        "label": "Jabs DA, et al. CMV resistance to ganciclovir and outcomes in patients with CMV retinitis in HAART era. Am J Ophthalmol. 2010;149(5):713-722. PMID: 20381792.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20381792/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0487",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Latent Tuberculosis Infection (LTBI) Modern Short-Course Regimens",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 38-year-old woman presents to the employee health clinic for pre-employment screening as a newly hired registered nurse. She is completely asymptomatic, denies cough, hemoptysis, fevers, night sweats, or weight loss, and has no chronic medical conditions. She emigrated from the Philippines 4 years ago. An interferon-gamma release assay (IGRA; QuantiFERON-TB Gold Plus) is positive. A two-view posterior-anterior and lateral chest radiograph demonstrates clear lung parenchyma without infiltrates, cavitary lesions, calcified granulomas, or hilar lymphadenopathy. Baseline hepatic panel shows serum alanine aminotransferase (ALT) of 18 U/L and aspartate aminotransferase (AST) of 22 U/L (both normal). The diagnosis of Latent Tuberculosis Infection (LTBI) is established.\n\nAccording to current Centers for Disease Control and Prevention (CDC) and National Tuberculosis Controllers Association (NTCA) guidelines, which of the following represents the preferred first-line pharmacological treatment regimen for this patient?",
+    "options": [
+      {
+        "text": "9 months of daily oral isoniazid monotherapy (9H) with pyridoxine",
+        "correct": false,
+        "explanation": "While historically common, 9 months of isoniazid is now designated as an alternative regimen due to significantly lower completion rates (< 60%) and higher hepatotoxicity compared to short-course rifamycin regimens (3HP or 4R)."
+      },
+      {
+        "text": "A modern short-course rifamycin-based regimen: 3 months of once-weekly oral isoniazid PLUS rifapentine (3HP) or 4 months of daily oral rifampin monotherapy (4R)",
+        "correct": true,
+        "explanation": "Latent Tuberculosis Infection (LTBI) is defined by evidence of Mycobacterium tuberculosis infection (positive tuberculin skin test or interferon-gamma release assay [IGRA]) with active disease ruled out by absence of symptoms and normal chest radiography. (1) PARADIGM SHIFT IN LTBI TREATMENT (CDC / NTCA 2020 GUIDELINES): Historically, 9 months of daily oral isoniazid monotherapy (9H) was standard. However, 9H suffered from very poor real-world completion rates (< 50-60%) and significant risks of drug-induced hepatotoxicity. (2) PREFERRED FIRST-LINE REGIMENS: The CDC and NTCA now STRONGLY PREFER SHORT-COURSE RIFAMYCIN-BASED REGIMENS over 6 to 9 months of isoniazid: (a) 3HP REGIMEN: 3 months of once-weekly oral isoniazid PLUS oral rifapentine taken with directly observed therapy or self-administered therapy (12 total doses). Landmark randomized clinical trials (PREVENT TB trial) proved 3HP has equivalent efficacy to 9H in preventing active TB, with significantly higher treatment completion rates (> 85-90%) and lower hepatotoxicity rates. (b) 4R REGIMEN: 4 months of daily oral rifampin monotherapy (120 total doses). Proven equally effective with the lowest rate of hepatotoxicity of all LTBI regimens. (c) 3HR REGIMEN: 3 months of daily isoniazid plus rifampin. (3) ISONIAZID MONOTHERAPY (6H or 9H): Now categorized as an ALTERNATIVE regimen reserved only for patients who cannot tolerate rifamycins or have significant drug-drug interactions (e.g., certain antiretroviral or immunosuppressive medications)."
+      },
+      {
+        "text": "Standard 4-drug combination therapy with rifampin, isoniazid, pyrazinamide, and ethambutol (RIPE) for 2 months",
+        "correct": false,
+        "explanation": "Four-drug RIPE therapy is indicated exclusively for active tuberculosis disease; treating latent infection with RIPE exposes the patient to severe unnecessary toxicity (hyperuricemia, optic neuritis, hepatotoxicity)."
+      },
+      {
+        "text": "Observation without pharmacological therapy, performing annual screening chest radiographs",
+        "correct": false,
+        "explanation": "Without preventative therapy, approximately 5% to 10% of immunocompetent individuals with LTBI will reactivate to active, infectious, destructive tuberculosis during their lifetime; treatment is strongly recommended."
+      },
+      {
+        "text": "Oral levofloxacin 750 mg daily for 6 months as first-line monotherapy",
+        "correct": false,
+        "explanation": "Fluoroquinolone monotherapy is reserved strictly for documented contacts of multidrug-resistant tuberculosis (MDR-TB); it is not approved for routine drug-susceptible LTBI."
+      }
+    ],
+    "explanation": "Latent Tuberculosis Infection (LTBI) is defined by evidence of Mycobacterium tuberculosis infection (positive tuberculin skin test or interferon-gamma release assay [IGRA]) with active disease ruled out by absence of symptoms and normal chest radiography. (1) PARADIGM SHIFT IN LTBI TREATMENT (CDC / NTCA 2020 GUIDELINES): Historically, 9 months of daily oral isoniazid monotherapy (9H) was standard. However, 9H suffered from very poor real-world completion rates (< 50-60%) and significant risks of drug-induced hepatotoxicity. (2) PREFERRED FIRST-LINE REGIMENS: The CDC and NTCA now STRONGLY PREFER SHORT-COURSE RIFAMYCIN-BASED REGIMENS over 6 to 9 months of isoniazid: (a) 3HP REGIMEN: 3 months of once-weekly oral isoniazid PLUS oral rifapentine taken with directly observed therapy or self-administered therapy (12 total doses). Landmark randomized clinical trials (PREVENT TB trial) proved 3HP has equivalent efficacy to 9H in preventing active TB, with significantly higher treatment completion rates (> 85-90%) and lower hepatotoxicity rates. (b) 4R REGIMEN: 4 months of daily oral rifampin monotherapy (120 total doses). Proven equally effective with the lowest rate of hepatotoxicity of all LTBI regimens. (c) 3HR REGIMEN: 3 months of daily isoniazid plus rifampin. (3) ISONIAZID MONOTHERAPY (6H or 9H): Now categorized as an ALTERNATIVE regimen reserved only for patients who cannot tolerate rifamycins or have significant drug-drug interactions (e.g., certain antiretroviral or immunosuppressive medications). Asymptomatic nurse with positive IGRA and clear CXR has LTBI; CDC guidelines recommend short-course rifamycin regimens (3HP: 3 months weekly isoniazid + rifapentine, or 4R: 4 months daily rifampin) over 9 months of isoniazid.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Latent Tuberculosis Infection (LTBI) Modern Short-Course Regimens.",
+    "keyPoints": [
+      "Latent Tuberculosis Infection (LTBI) Modern Short-Course Regimens",
+      "Asymptomatic nurse with positive IGRA and clear CXR has LTBI; CDC guidelines recommend short-course rifamycin regimens (3HP: 3 months weekly isoniazid + rifapentine, or 4R: 4 month"
+    ],
+    "references": [
+      {
+        "label": "Sterling TR, Njie G, Zenner D, et al. Guidelines for the Treatment of Latent Tuberculosis Infection: Recommendations from the National Tuberculosis Controllers Association and CDC, 2020. MMWR Recomm Rep. 2020;69(1):1-11. PMID: 32053584.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32053584/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0488",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Active Pulmonary Tuberculosis Treatment and Toxicity Mitigation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man who recently emigrated from an endemic region presents with a 6-week history of productive cough with blood-streaked sputum, drenching night sweats, subjective fevers, and an unintentional 7-kg (15-lb) weight loss. Sputum acid-fast bacillus (AFB) smear demonstrates 3+ acid-fast rods, and nucleic acid amplification testing (NAAT) is positive for Mycobacterium tuberculosis with no mutations conferring rifampin or isoniazid resistance. A chest radiograph demonstrates a 3.5-cm thick-walled cavitary lesion in the right lung apex with surrounding nodular infiltrates. Standard quadruple antimicrobial therapy is initiated with rifampin, isoniazid, pyrazinamide, and ethambutol (RIPE regimen). The patient has a history of poorly controlled type 2 diabetes mellitus and mild baseline diabetic sensory neuropathy in his toes.\n\nWhich of the following adjunctive interventions is essential to prescribe concomitantly with this quadruple therapy regimen?",
+    "options": [
+      {
+        "text": "Oral cyanocobalamin (vitamin B12, 1,000 mcg daily) to prevent ethambutol-mediated retrobulbar optic nerve demyelination",
+        "correct": false,
+        "explanation": "Cyanocobalamin does not prevent ethambutol optic toxicity, which is dose-dependent and mediated by mitochondrial copper/zinc chelation; ethambutol requires visual screening, while vitamin B6 is used for isoniazid."
+      },
+      {
+        "text": "Oral allopurinol 300 mg daily to prevent pyrazinamide-induced asymptomatic hyperuricemia",
+        "correct": false,
+        "explanation": "Pyrazinamide inhibits renal uric acid secretion causing asymptomatic hyperuricemia in most patients, which is self-limited and requires no therapy; allopurinol is indicated only if frank clinical gouty arthritis develops."
+      },
+      {
+        "text": "Oral pyridoxine (vitamin B6, 25 to 50 mg daily) to prevent isoniazid-induced peripheral neurotoxicity",
+        "correct": true,
+        "explanation": "The standard initial intensive phase of therapy for drug-susceptible pulmonary tuberculosis consists of 2 months of four drugs: RIFAMPIN (inhibits bacterial DNA-dependent RNA polymerase), ISONIAZID (inhibits mycolic acid synthesis via KatG-activated InhA inhibition), PYRAZINAMIDE (disrupts mycobacterial membrane transport at acidic pH), and ETHAMBUTOL (inhibits arabinosyl transferase in cell wall synthesis), followed by a 4-month continuation phase of rifampin and isoniazid (total 6 months). (1) ISONIAZID NEUROTOXICITY AND PYRIDOXINE: Isoniazid competitively inhibits pyridoxine phosphokinase, the enzyme responsible for converting dietary pyridoxine (vitamin B6) into its active coenzyme form, pyridoxal-5-phosphate. Furthermore, isoniazid forms inactive hydrazone complexes with pyridoxal phosphate, accelerating its renal clearance. Pyridoxal phosphate is an indispensable cofactor for glutamic acid decarboxylase, which synthesizes GABA, and for neuronal sphingolipid and myelin synthesis. Depletion of active vitamin B6 manifests clinically as symmetric, painful, 'stocking-glove' sensory peripheral neuropathy, ataxia, and rarely seizures. (2) ADJUNCTIVE PYRIDOXINE INDICATION: Routine co-administration of oral pyridoxine (vitamin B6, 25-50 mg daily) completely prevents isoniazid-induced neuropathy and is MANDATORY in patients with underlying risk factors: diabetes mellitus, chronic kidney disease, alcoholism, malnutrition, HIV infection, pregnancy, and pre-existing neuropathy. (3) ETHAMBUTOL TOXICITY: Requires baseline and monthly visual acuity and red-green color discrimination testing (Ishihara plates) to screen for retrobulbar optic neuritis."
+      },
+      {
+        "text": "Intravenous N-acetylcysteine daily to prevent rifampin-mediated intrinsic hepatocyte necrosis",
+        "correct": false,
+        "explanation": "N-acetylcysteine treats acetaminophen overdose; it has no role in preventing rifamycin hepatotoxicity, which is monitored with serial baseline and follow-up liver function tests."
+      },
+      {
+        "text": "High-dose oral prednisone 60 mg daily for 8 weeks to improve mycobacterial clearance in cavitary pulmonary disease",
+        "correct": false,
+        "explanation": "Corticosteroids have proven survival benefit exclusively in tuberculous meningitis and tuberculous pericarditis; routine adjunctive steroids are not indicated in uncomplicated pulmonary tuberculosis."
+      }
+    ],
+    "explanation": "The standard initial intensive phase of therapy for drug-susceptible pulmonary tuberculosis consists of 2 months of four drugs: RIFAMPIN (inhibits bacterial DNA-dependent RNA polymerase), ISONIAZID (inhibits mycolic acid synthesis via KatG-activated InhA inhibition), PYRAZINAMIDE (disrupts mycobacterial membrane transport at acidic pH), and ETHAMBUTOL (inhibits arabinosyl transferase in cell wall synthesis), followed by a 4-month continuation phase of rifampin and isoniazid (total 6 months). (1) ISONIAZID NEUROTOXICITY AND PYRIDOXINE: Isoniazid competitively inhibits pyridoxine phosphokinase, the enzyme responsible for converting dietary pyridoxine (vitamin B6) into its active coenzyme form, pyridoxal-5-phosphate. Furthermore, isoniazid forms inactive hydrazone complexes with pyridoxal phosphate, accelerating its renal clearance. Pyridoxal phosphate is an indispensable cofactor for glutamic acid decarboxylase, which synthesizes GABA, and for neuronal sphingolipid and myelin synthesis. Depletion of active vitamin B6 manifests clinically as symmetric, painful, 'stocking-glove' sensory peripheral neuropathy, ataxia, and rarely seizures. (2) ADJUNCTIVE PYRIDOXINE INDICATION: Routine co-administration of oral pyridoxine (vitamin B6, 25-50 mg daily) completely prevents isoniazid-induced neuropathy and is MANDATORY in patients with underlying risk factors: diabetes mellitus, chronic kidney disease, alcoholism, malnutrition, HIV infection, pregnancy, and pre-existing neuropathy. (3) ETHAMBUTOL TOXICITY: Requires baseline and monthly visual acuity and red-green color discrimination testing (Ishihara plates) to screen for retrobulbar optic neuritis. Active TB patient starting RIPE therapy with baseline diabetic neuropathy must receive oral pyridoxine (vitamin B6) to prevent isoniazid-induced peripheral neurotoxicity.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Active Pulmonary Tuberculosis Treatment and Toxicity Mitigation.",
+    "keyPoints": [
+      "Active Pulmonary Tuberculosis Treatment and Toxicity Mitigation",
+      "Active TB patient starting RIPE therapy with baseline diabetic neuropathy must receive oral pyridoxine (vitamin B6) to prevent isoniazid-induced peripheral neurotoxicity."
+    ],
+    "references": [
+      {
+        "label": "Nahid P, Dorman SE, Alipanah N, et al. Official American Thoracic Society/Centers for Disease Control and Prevention/Infectious Diseases Society of America Clinical Practice Guidelines: Treatment of Drug-Susceptible Tuberculosis. Clin Infect Dis. 2016;63(7):e147-e195. PMID: 27...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27516382/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0489",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Syphilis Clinical Staging and Stage-Specific Penicillin Regimens",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 36-year-old man presents to the clinic for a routine sexual health checkup. He is completely asymptomatic and denies fever, rash, genital lesions, visual disturbances, or neurological symptoms. He reports multiple sexual encounters with male partners over the past year. Physical examination is entirely normal: no skin rashes on the trunk, palms, or soles; no mucous patches or condyloma lata; and no lymphadenopathy. Neurological and ophthalmologic examinations are unremarkable. Routine nontreponemal screening reveals a reactive serum rapid plasma reagin (RPR) at a titer of 1:32, and confirmatory Treponema pallidum particle agglutination (TP-PA) testing is reactive. Review of the electronic medical record and public health registry reveals no prior history of syphilis and no documented negative nontreponemal test within the past 12 months. The patient cannot recall whether he had any transient genital sores or rashes over the preceding several years.\n\nAccording to current Centers for Disease Control and Prevention (CDC) sexually transmitted infections treatment guidelines, which of the following represents the most appropriate antimicrobial regimen for this patient?",
+    "options": [
+      {
+        "text": "A single intramuscular injection of benzathine penicillin G (2.4 million units IM once)",
+        "correct": false,
+        "explanation": "A single injection of benzathine penicillin G is curative only for early syphilis (duration <= 1 year); because this patient has syphilis of unknown duration, single-dose therapy carries high failure rates, and 3 weekly doses are mandatory."
+      },
+      {
+        "text": "Intravenous aqueous crystalline penicillin G (4 million units every 4 hours for 14 days)",
+        "correct": false,
+        "explanation": "Intravenous aqueous penicillin is reserved for neurosyphilis, ocular syphilis, or otosyphilis; in an asymptomatic patient with normal neurological and eye exams, lumbar puncture and IV therapy are not indicated."
+      },
+      {
+        "text": "Oral amoxicillin 500 mg three times daily plus oral probenecid for 14 days",
+        "correct": false,
+        "explanation": "Oral amoxicillin has erratic pharmacokinetics in late latent syphilis; parenteral benzathine penicillin G is the standard of care recommended by the CDC."
+      },
+      {
+        "text": "Intramuscular benzathine penicillin G (2.4 million units IM once weekly for 3 consecutive weeks; total 7.2 million units)",
+        "correct": true,
+        "explanation": "Syphilis is a multistage systemic infection caused by the spirochete Treponema pallidum. Clinical staging dictates the specific formulation, route, and duration of antimicrobial therapy: (1) EARLY SYPHILIS (duration <= 1 year): Encompasses Primary syphilis (solitary painless chancre), Secondary syphilis (diffuse maculopapular rash involving palms/soles, condyloma lata, generalized lymphadenopathy), and Early Latent syphilis (asymptomatic seropositivity with a documented negative serology or documented exposure within the preceding 12 months). TREATMENT: A SINGLE INTRAMUSCULAR DOSE of long-acting BENZATHINE PENICILLIN G (2.4 million units IM). (2) LATE LATENT SYPHILIS OR SYPHILIS OF UNKNOWN DURATION: Defined as asymptomatic seropositivity when infection occurred > 1 year ago, or when the duration of infection cannot be definitively verified (as in this patient, who has no prior tests within 12 months and no clear timeline). In late latent infection, treponemal replication is exceedingly slow; maintaining treponemicidal penicillin levels for an extended period is required to eradicate latent organisms. TREATMENT: INTRAMUSCULAR BENZATHINE PENICILLIN G (2.4 million units IM once weekly for 3 consecutive weeks, total 7.2 million units). (Note: If any dose is missed by > 7-9 days, the entire 3-week course must be restarted). (3) NEUROSYPHILIS / OCULAR SYPHILIS: Requires continuous INTRAVENOUS AQUEOUS CRYSTALLINE PENICILLIN G (18-24 million units daily IV for 10-14 days); intramuscular benzathine penicillin does not achieve treponemicidal levels in the cerebrospinal fluid."
+      },
+      {
+        "text": "Intramuscular procaine penicillin G 1.2 million units daily for 7 days",
+        "correct": false,
+        "explanation": "Procaine penicillin G is a short-acting daily formulation that does not provide the sustained treponemicidal levels achieved by long-acting benzathine penicillin G."
+      }
+    ],
+    "explanation": "Syphilis is a multistage systemic infection caused by the spirochete Treponema pallidum. Clinical staging dictates the specific formulation, route, and duration of antimicrobial therapy: (1) EARLY SYPHILIS (duration <= 1 year): Encompasses Primary syphilis (solitary painless chancre), Secondary syphilis (diffuse maculopapular rash involving palms/soles, condyloma lata, generalized lymphadenopathy), and Early Latent syphilis (asymptomatic seropositivity with a documented negative serology or documented exposure within the preceding 12 months). TREATMENT: A SINGLE INTRAMUSCULAR DOSE of long-acting BENZATHINE PENICILLIN G (2.4 million units IM). (2) LATE LATENT SYPHILIS OR SYPHILIS OF UNKNOWN DURATION: Defined as asymptomatic seropositivity when infection occurred > 1 year ago, or when the duration of infection cannot be definitively verified (as in this patient, who has no prior tests within 12 months and no clear timeline). In late latent infection, treponemal replication is exceedingly slow; maintaining treponemicidal penicillin levels for an extended period is required to eradicate latent organisms. TREATMENT: INTRAMUSCULAR BENZATHINE PENICILLIN G (2.4 million units IM once weekly for 3 consecutive weeks, total 7.2 million units). (Note: If any dose is missed by > 7-9 days, the entire 3-week course must be restarted). (3) NEUROSYPHILIS / OCULAR SYPHILIS: Requires continuous INTRAVENOUS AQUEOUS CRYSTALLINE PENICILLIN G (18-24 million units daily IV for 10-14 days); intramuscular benzathine penicillin does not achieve treponemicidal levels in the cerebrospinal fluid. Asymptomatic syphilis with unknown duration and no prior negative test in 12 months is classified as syphilis of unknown duration/late latent; treated with IM benzathine penicillin G weekly for 3 weeks.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Syphilis Clinical Staging and Stage-Specific Penicillin Regimens.",
+    "keyPoints": [
+      "Syphilis Clinical Staging and Stage-Specific Penicillin Regimens",
+      "Asymptomatic syphilis with unknown duration and no prior negative test in 12 months is classified as syphilis of unknown duration/late latent; treated with IM benzathine penicillin"
+    ],
+    "references": [
+      {
+        "label": "Workowski KA, Bachmann LH, Chan PA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187. PMID: 34292926.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34292926/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0490",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Diabetic Foot Osteomyelitis and Diagnostic Stewardship",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old man with a 15-year history of poorly controlled type 2 diabetes mellitus complicated by dense peripheral sensory neuropathy and peripheral artery disease presents to the outpatient wound clinic for evaluation of a chronic plantar ulcer beneath the right first metatarsal head that has been present for 8 weeks. He denies fever, chills, or new pain. On physical examination, there is a 2.2-cm circular ulcer with surrounding thick hyperkeratotic callus and minimal seropurulent discharge, without ascending cellulitis or fluctuance. The patient feels no discomfort during palpation. The clinician gently introduces a sterile, blunt metal probe into the ulcer base; the probe palpates a hard, gritty, solid surface with no intervening soft tissue (positive probe-to-bone test). Plain radiographs of the right foot reveal cortical irregularity, periosteal reaction, and focal osteolysis involving the head of the first metatarsal bone, highly suggestive of osteomyelitis. Contrast-enhanced MRI confirms cortical bone disruption and marrow edema consistent with osteomyelitis.\n\nWhich of the following represents the most appropriate next step to guide definitive antimicrobial therapy for this patient?",
+    "options": [
+      {
+        "text": "Swab the superficial purulent discharge from the ulcer base with a cotton swab and initiate 6 weeks of intravenous vancomycin and cefepime",
+        "correct": false,
+        "explanation": "Superficial wound swabs sample surface colonizers rather than true bone pathogens; treating based on superficial swabs leads to inappropriate antibiotic selection, resistant superinfections, and treatment failure."
+      },
+      {
+        "text": "Immediate urgent transmetatarsal amputation of the right forefoot without attempting conservative bone biopsy or antimicrobial therapy",
+        "correct": false,
+        "explanation": "Surgical amputation is reserved for severe gangrene, necrotizing infection, or extensive bone destruction refractory to therapy; conservative medical-surgical management guided by bone biopsy preserves limb function."
+      },
+      {
+        "text": "Initiate oral ciprofloxacin 750 mg twice daily monotherapy for 6 months based on radiological findings alone",
+        "correct": false,
+        "explanation": "Empiric fluoroquinolone monotherapy without microbiological identification frequently fails due to widespread staphylococcal and gram-negative resistance and exposes the patient to severe tendon and neurotoxicity."
+      },
+      {
+        "text": "Administer hyperbaric oxygen therapy daily for 40 sessions as primary standalone curative treatment",
+        "correct": false,
+        "explanation": "Hyperbaric oxygen is an adjunctive therapy with equivocal evidence; it does not replace the requirement for bone biopsy, pathogen-directed antimicrobial therapy, and proper mechanical offloading."
+      },
+      {
+        "text": "Perform a percutaneous or operative bone biopsy through uninfected skin to obtain bone tissue for histological evaluation and quantitative microbiological cultures, withholding prolonged targeted antibiotic therapy until culture results are available",
+        "correct": true,
+        "explanation": "Diabetic Foot Osteomyelitis (DFO) is a major complication of chronic neuropathic ulcers, carrying high risks of progressive tissue necrosis and lower-extremity amputation. (1) CLINICAL DIAGNOSIS: The 'Probe-to-Bone' (PTB) test has an exceptionally high positive predictive value (> 85-90%) in high-risk patients; when a sterile metal probe encounters a hard, gritty bony surface, osteomyelitis is virtually certain. Plain radiography and MRI provide anatomical confirmation. (2) MICROBIOLOGICAL STEWARDSHIP AND THE GOLD STANDARD (IDSA / IWGDF GUIDELINES): The definitive gold standard for guiding antimicrobial selection in DFO is a PERCUTANEOUS (OR OPERATIVE) BONE BIOPSY obtained through intact, cleansed skin or sterile operative field. Bone tissue undergoes histological analysis (confirming marrow osteonecrosis and polymorphonuclear infiltration) and aerobic, anaerobic, and fungal microbiological cultures. (3) DANGER OF SUPERFICIAL SWAB CULTURES: Superficial wound swabs, drainage swabs, or sinus tract swabs merely reflect superficial colonizing flora (e.g., coagulase-negative staphylococci, Corynebacterium species, Enterobacterales) rather than the true deep pathogens invading the bone matrix. Treating DFO based on superficial swabs results in inappropriate, ineffective antibiotic therapy, drug toxicity, and treatment failure. (4) CLINICAL STABILITY AND ANTIBIOTIC TIMING: In a clinically stable, non-septic patient with no systemic signs of toxicity, severe ischemia, or rapidly spreading soft-tissue infection, ANTIBIOTIC THERAPY SHOULD BE SAFELY HELD FOR SEVERAL DAYS until a bone biopsy is performed. Pre-biopsy antibiotics severely reduce the culture yield of bone specimens from > 70% to < 30%."
+      }
+    ],
+    "explanation": "Diabetic Foot Osteomyelitis (DFO) is a major complication of chronic neuropathic ulcers, carrying high risks of progressive tissue necrosis and lower-extremity amputation. (1) CLINICAL DIAGNOSIS: The 'Probe-to-Bone' (PTB) test has an exceptionally high positive predictive value (> 85-90%) in high-risk patients; when a sterile metal probe encounters a hard, gritty bony surface, osteomyelitis is virtually certain. Plain radiography and MRI provide anatomical confirmation. (2) MICROBIOLOGICAL STEWARDSHIP AND THE GOLD STANDARD (IDSA / IWGDF GUIDELINES): The definitive gold standard for guiding antimicrobial selection in DFO is a PERCUTANEOUS (OR OPERATIVE) BONE BIOPSY obtained through intact, cleansed skin or sterile operative field. Bone tissue undergoes histological analysis (confirming marrow osteonecrosis and polymorphonuclear infiltration) and aerobic, anaerobic, and fungal microbiological cultures. (3) DANGER OF SUPERFICIAL SWAB CULTURES: Superficial wound swabs, drainage swabs, or sinus tract swabs merely reflect superficial colonizing flora (e.g., coagulase-negative staphylococci, Corynebacterium species, Enterobacterales) rather than the true deep pathogens invading the bone matrix. Treating DFO based on superficial swabs results in inappropriate, ineffective antibiotic therapy, drug toxicity, and treatment failure. (4) CLINICAL STABILITY AND ANTIBIOTIC TIMING: In a clinically stable, non-septic patient with no systemic signs of toxicity, severe ischemia, or rapidly spreading soft-tissue infection, ANTIBIOTIC THERAPY SHOULD BE SAFELY HELD FOR SEVERAL DAYS until a bone biopsy is performed. Pre-biopsy antibiotics severely reduce the culture yield of bone specimens from > 70% to < 30%. Diabetic foot ulcer with positive probe-to-bone and MRI osteomyelitis in a stable patient requires bone biopsy through uninfected skin for culture before targeted antibiotic therapy; superficial swabs are inaccurate.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Diabetic Foot Osteomyelitis and Diagnostic Stewardship.",
+    "keyPoints": [
+      "Diabetic Foot Osteomyelitis and Diagnostic Stewardship",
+      "Diabetic foot ulcer with positive probe-to-bone and MRI osteomyelitis in a stable patient requires bone biopsy through uninfected skin for culture before targeted antibiotic therap"
+    ],
+    "references": [
+      {
+        "label": "Lipsky BA, Berendt AR, Cornia PB, et al. 2012 Infectious Diseases Society of America clinical practice guideline for the diagnosis and treatment of diabetic foot infections. Clin Infect Dis. 2012;54(12):e132-e173. PMID: 22619242.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22619242/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0491",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Native Joint Septic Arthritis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old woman with rheumatoid arthritis managed with weekly oral methotrexate and low-dose prednisone presents to the emergency department with sudden, severe right knee pain, swelling, and inability to bear weight that began 18 hours ago. She denies recent trauma, sexual activity, or tick bites. On physical examination, she appears in acute distress. Vital signs show blood pressure of 128/76 mm Hg, heart rate of 108/min, respiratory rate of 18/min, and temperature of 38.8 C (101.8 F). The right knee is markedly swollen with a large, tense effusion, erythematous, and warm to touch. Any passive or active range of motion of the knee is severely restricted due to excruciating pain. Other joints show mild chronic symmetrical rheumatoid changes without acute inflammation. Emergent bedside arthrocentesis is performed, yielding 45 mL of turbid, purulent yellowish-green synovial fluid. Laboratory analysis of the synovial fluid reveals:\n- White blood cell count: 88,000/mm3 with 94% polymorphonuclear neutrophils (PMNs)\n- Polarized light microscopy: Negative for monosodium urate and calcium pyrophosphate crystals\n- Gram stain: Gram-positive cocci in clusters visible\n\nWhich of the following represents the most appropriate immediate sequence of interventions for this patient?",
+    "options": [
+      {
+        "text": "Urgent orthopedic surgical joint decompression and irrigation (arthrotomy or arthroscopy) combined with immediate empiric intravenous vancomycin and ceftriaxone",
+        "correct": true,
+        "explanation": "Acute Native Joint Septic Arthritis is an orthopedic emergency that leads to irreversible articular cartilage destruction within 24 to 48 hours if untreated. Pathophysiology involves bacterial proliferation within the synovial fluid, triggering intense leukocyte recruitment; polymorphonuclear leukocyte lysosomal enzymes (elastase, collagenase) and high intra-articular pressure rapidly dissolve articular hyaline cartilage. (1) DIAGNOSIS: Synovial fluid leukocyte count > 50,000 cells/mm3 with > 90% neutrophils is virtually diagnostic of septic arthritis (and counts can exceed 100,000/mm3). The presence of gram-positive cocci in clusters strongly implicates Staphylococcus aureus (the most common cause across all age groups). (2) MANDATORY EMERGENCY DRAINAGE: Mechanical evacuation of infected purulent fluid and debris is PARAMOUNT. Repeated needle aspiration can be considered for easily accessible joints (like the knee) in select patients, but URGENT ORTHOPEDIC SURGICAL CONSULTATION FOR FORMAL ARTHROSCOPIC OR OPEN ARTHROTOMY DEBRIDEMENT AND IRRIGATION is standard of care, especially in immunocompromised hosts (methotrexate/prednisone), when large purulent effusions are present, or when loculations prevent complete needle emptying. (3) EMPIRIC ANTIMICROBIAL REGIMEN: Immediate intravenous bactericidal coverage covering methicillin-resistant Staphylococcus aureus (MRSA) and gram-negative bacilli is initiated: INTRAVENOUS VANCOMYCIN (15-20 mg/kg IV q8-12h) PLUS a third-generation cephalosporin (e.g., CEFTRIAXONE 2 g IV daily) or cefepime."
+      },
+      {
+        "text": "Initiate oral high-dose prednisone 60 mg daily and oral colchicine 0.6 mg twice daily for an acute rheumatoid arthritis flare",
+        "correct": false,
+        "explanation": "Synovial fluid WBC of 88,000/mm3 with 94% neutrophils and visible gram-positive cocci in clusters proves bacterial septic arthritis; treating with immunosuppressive corticosteroids leads to fulminant joint destruction and fatal septicemia."
+      },
+      {
+        "text": "Administer a single intra-articular injection of triamcinolone acetonide 40 mg into the right knee joint space",
+        "correct": false,
+        "explanation": "Injecting intra-articular corticosteroids into an actively infected septic joint suppresses local immune defenses, accelerating rapid total cartilage destruction and osteomyelitis."
+      },
+      {
+        "text": "Prescribe oral cephalexin 500 mg four times daily as outpatient therapy and arrange physical therapy in 1 week",
+        "correct": false,
+        "explanation": "Oral beta-lactam therapy is completely inadequate for acute septic arthritis; hospitalization, emergent surgical drainage, and high-dose intravenous bactericidal therapy are mandatory."
+      },
+      {
+        "text": "Apply a rigid plaster cylinder cast to immobilize the knee for 4 weeks with no drainage",
+        "correct": false,
+        "explanation": "Immobilizing an infected, purulent joint without drainage allows proteolytic enzymes and elevated compartment pressure to completely digest the articular cartilage, causing permanent ankylosis and disability."
+      }
+    ],
+    "explanation": "Acute Native Joint Septic Arthritis is an orthopedic emergency that leads to irreversible articular cartilage destruction within 24 to 48 hours if untreated. Pathophysiology involves bacterial proliferation within the synovial fluid, triggering intense leukocyte recruitment; polymorphonuclear leukocyte lysosomal enzymes (elastase, collagenase) and high intra-articular pressure rapidly dissolve articular hyaline cartilage. (1) DIAGNOSIS: Synovial fluid leukocyte count > 50,000 cells/mm3 with > 90% neutrophils is virtually diagnostic of septic arthritis (and counts can exceed 100,000/mm3). The presence of gram-positive cocci in clusters strongly implicates Staphylococcus aureus (the most common cause across all age groups). (2) MANDATORY EMERGENCY DRAINAGE: Mechanical evacuation of infected purulent fluid and debris is PARAMOUNT. Repeated needle aspiration can be considered for easily accessible joints (like the knee) in select patients, but URGENT ORTHOPEDIC SURGICAL CONSULTATION FOR FORMAL ARTHROSCOPIC OR OPEN ARTHROTOMY DEBRIDEMENT AND IRRIGATION is standard of care, especially in immunocompromised hosts (methotrexate/prednisone), when large purulent effusions are present, or when loculations prevent complete needle emptying. (3) EMPIRIC ANTIMICROBIAL REGIMEN: Immediate intravenous bactericidal coverage covering methicillin-resistant Staphylococcus aureus (MRSA) and gram-negative bacilli is initiated: INTRAVENOUS VANCOMYCIN (15-20 mg/kg IV q8-12h) PLUS a third-generation cephalosporin (e.g., CEFTRIAXONE 2 g IV daily) or cefepime. Purulent knee effusion with synovial WBC 88,000/mm3 (94% PMNs) and Gram-positive cocci is septic arthritis; requires urgent orthopedic surgical drainage/irrigation plus empiric IV vancomycin and ceftriaxone.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Native Joint Septic Arthritis.",
+    "keyPoints": [
+      "Native Joint Septic Arthritis",
+      "Purulent knee effusion with synovial WBC 88,000/mm3 (94% PMNs) and Gram-positive cocci is septic arthritis; requires urgent orthopedic surgical drainage/irrigation plus empiric IV "
+    ],
+    "references": [
+      {
+        "label": "Sharff KA, Richards EP, Townes JM. Clinical management of septic arthritis. Curr Rheumatol Rep. 2013;15(6):332. PMID: 23595964.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23595964/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0492",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Necrotizing Fasciitis and Clindamycin Antitoxin Therapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 48-year-old previously healthy woman presents to the emergency department with excruciating pain in her left lower leg that began 12 hours ago after sustaining a superficial scratch on a rose thorn. She describes the pain as unbearable (10/10) and throbbing. On physical examination, she is pale, diaphoretic, and in agonizing distress. Vital signs reveal blood pressure of 86/52 mm Hg, heart rate of 132/min, respiratory rate of 28/min, and temperature of 39.4 C (102.9 F). Examination of the left lower extremity reveals diffuse mild erythema and wooden edema extending from the ankle to the mid-calf. There are two small violaceous hemorrhagic bullae over the anterior tibial crest. Palpation of the leg produces exquisite, agonizing pain that extends well beyond the visible margins of cutaneous erythema (pain out of proportion). Palpable crepitus is felt along the deep fascia. Laboratory evaluation reveals:\n- White blood cell count: 28,400/mm3 with 22% bands\n- Serum sodium: 126 mEq/L\n- Serum creatinine: 2.2 mg/dL (baseline 0.8 mg/dL)\n- Serum glucose: 210 mg/dL\n- Serum lactate: 5.8 mmol/L\n- Laboratory Risk Indicator for Necrotizing Fasciitis (LRINEC) score: 9 (high risk >= 6)\n\nWhich of the following represents the most appropriate immediate definitive management sequence for this patient?",
+    "options": [
+      {
+        "text": "Obtain emergent contrast-enhanced MRI of the lower extremity to definitively delineate fascial planes before summoning a surgical consult",
+        "correct": false,
+        "explanation": "Necrotizing fasciitis is a clinical diagnosis; waiting for MRI causes severe delays of several hours, during which bacterial necrosis advances at centimeters per hour, leading to fatal septic shock."
+      },
+      {
+        "text": "Immediate emergent surgical exploration and aggressive operative debridement, accompanied by rapid intravenous crystalloid resuscitation and broad-spectrum antimicrobial therapy with intravenous vancomycin, piperacillin-tazobactam, and clindamycin",
+        "correct": true,
+        "explanation": "Necrotizing Fasciitis is a rapidly progressive, life-threatening bacterial infection of the deep subcutaneous tissue and fascia characterized by extensive microvascular thrombosis and liquefactive necrosis. (1) CLASSIFICATION: Type I (polymicrobial: mixed aerobes/anaerobes, common in diabetics) and Type II (monomicrobial: Group A Streptococcus [Streptococcus pyogenes], commonly in previously healthy patients following minor trauma). (2) CLINICAL HALLMARKS: (a) PAIN DISPROPORTIONATE TO PHYSICAL FINDINGS: The most reliable early clinical sign, caused by occlusion of nutrient vessels traveling through the deep fascia to superficial nerves; (b) Rapid clinical progression over hours with wooden skin induration, bullae (violaceous/hemorrhagic), skin anesthesia (from cutaneous nerve infarction), crepitus, and septic shock; (c) High LRINEC score (>= 6) with leukocytosis, hyponatremia, hyperglycemia, and elevated creatinine. (3) SURGERY IS PARAMOUNT: Emergent surgical exploration and aggressive operative fasciotomy/debridement of necrotic tissue is the SINGLE MOST IMPORTANT DETERMINANT OF SURVIVAL. Antibiotics cannot penetrate thrombosed, necrotic, non-perfused fascia; delaying surgical consultation for advanced imaging (CT/MRI) is a fatal mistake. (4) THE ESSENTIAL ROLE OF CLINDAMYCIN: In addition to broad-spectrum bactericidal therapy (vancomycin + piperacillin-tazobactam), INTRAVENOUS CLINDAMYCIN (600 to 900 mg IV q8h) MUST BE INCLUDED. In high-inoculum streptococcal infections, bacteria enter the stationary growth phase where penicillin-binding proteins (PBPs) are downregulated (the 'Eagle phenomenon'), rendering beta-lactams ineffective. Clindamycin binds the bacterial 50S ribosomal subunit, halting translation and shutting down production of lethal bacterial toxins (streptococcal pyrogenic exotoxins A and B [SPE-A, SPE-B], streptolysin O) that drive toxic shock and tissue necrosis."
+      },
+      {
+        "text": "Administer intravenous cefazolin 2 g every 8 hours monotherapy and observe in the step-down unit for 24 hours",
+        "correct": false,
+        "explanation": "Cefazolin monotherapy fails to cover anaerobes, gram-negative rods, and MRSA, and lacks the protein synthesis inhibition of clindamycin needed to shut down streptococcal exotoxin production."
+      },
+      {
+        "text": "Perform bedside needle aspiration of the hemorrhagic bullae and withhold antibiotics until Gram stain results are finalized",
+        "correct": false,
+        "explanation": "Fluid aspiration of superficial bullae does not evaluate deep fascial necrosis and delaying antibiotics in septic shock with lactate 5.8 mmol/L dramatically increases mortality."
+      },
+      {
+        "text": "Initiate outpatient oral amoxicillin-clavulanate 875 mg twice daily and apply warm compresses to the lower extremity",
+        "correct": false,
+        "explanation": "Oral antibiotics are completely ineffective for necrotizing soft tissue infections in septic shock; immediate ICU admission, resuscitation, and emergent surgical fasciotomy are required."
+      }
+    ],
+    "explanation": "Necrotizing Fasciitis is a rapidly progressive, life-threatening bacterial infection of the deep subcutaneous tissue and fascia characterized by extensive microvascular thrombosis and liquefactive necrosis. (1) CLASSIFICATION: Type I (polymicrobial: mixed aerobes/anaerobes, common in diabetics) and Type II (monomicrobial: Group A Streptococcus [Streptococcus pyogenes], commonly in previously healthy patients following minor trauma). (2) CLINICAL HALLMARKS: (a) PAIN DISPROPORTIONATE TO PHYSICAL FINDINGS: The most reliable early clinical sign, caused by occlusion of nutrient vessels traveling through the deep fascia to superficial nerves; (b) Rapid clinical progression over hours with wooden skin induration, bullae (violaceous/hemorrhagic), skin anesthesia (from cutaneous nerve infarction), crepitus, and septic shock; (c) High LRINEC score (>= 6) with leukocytosis, hyponatremia, hyperglycemia, and elevated creatinine. (3) SURGERY IS PARAMOUNT: Emergent surgical exploration and aggressive operative fasciotomy/debridement of necrotic tissue is the SINGLE MOST IMPORTANT DETERMINANT OF SURVIVAL. Antibiotics cannot penetrate thrombosed, necrotic, non-perfused fascia; delaying surgical consultation for advanced imaging (CT/MRI) is a fatal mistake. (4) THE ESSENTIAL ROLE OF CLINDAMYCIN: In addition to broad-spectrum bactericidal therapy (vancomycin + piperacillin-tazobactam), INTRAVENOUS CLINDAMYCIN (600 to 900 mg IV q8h) MUST BE INCLUDED. In high-inoculum streptococcal infections, bacteria enter the stationary growth phase where penicillin-binding proteins (PBPs) are downregulated (the 'Eagle phenomenon'), rendering beta-lactams ineffective. Clindamycin binds the bacterial 50S ribosomal subunit, halting translation and shutting down production of lethal bacterial toxins (streptococcal pyrogenic exotoxins A and B [SPE-A, SPE-B], streptolysin O) that drive toxic shock and tissue necrosis. Severe pain out of proportion, bullae, crepitus, and septic shock indicates necrotizing fasciitis; requires immediate emergent surgical debridement plus IV vancomycin, pip-tazo, and clindamycin (antitoxin effect).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Necrotizing Fasciitis and Clindamycin Antitoxin Therapy.",
+    "keyPoints": [
+      "Necrotizing Fasciitis and Clindamycin Antitoxin Therapy",
+      "Severe pain out of proportion, bullae, crepitus, and septic shock indicates necrotizing fasciitis; requires immediate emergent surgical debridement plus IV vancomycin, pip-tazo, an"
+    ],
+    "references": [
+      {
+        "label": "Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):e10-e52. PMID: 24973422.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24973422/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0493",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Staphylococcal Toxic Shock Syndrome (TSS)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old previously healthy woman presents to the emergency department with sudden high fever, chills, vomiting, profuse watery diarrhea, severe muscle aches, and lightheadedness that began 12 hours ago. She is currently on day 3 of her menstrual cycle and has been utilizing high-absorbency intravaginal tampons. Physical examination reveals an acutely ill, confused, and somnolent woman. Vital signs demonstrate blood pressure of 82/46 mm Hg, heart rate of 136/min, respiratory rate of 24/min, and temperature of 39.6 C (103.3 F). Physical examination reveals a diffuse, blanching, macular erythematous rash resembling a severe sunburn that involves the face, neck, trunk, and extremities, prominently including the palms and soles. Bilateral conjunctival injection and strawberry red tongue with prominent papillae are present. Pelvic examination reveals a retained, foul-smelling vaginal tampon, which is immediately removed, and hyperemic vaginal mucosa without adnexal masses. Laboratory evaluation reveals:\n- Platelet count: 72,000/mm3\n- Serum creatinine: 2.1 mg/dL\n- Total bilirubin: 2.8 mg/dL\n- Serum creatine kinase (CK): 1,850 U/L\n- Blood cultures drawn at admission show no growth at 24 hours\n\nIn addition to aggressive intravenous crystalloid resuscitation, which of the following represents the most appropriate antimicrobial regimen for this patient?",
+    "options": [
+      {
+        "text": "Intravenous ceftriaxone 2 g daily monotherapy",
+        "correct": false,
+        "explanation": "Ceftriaxone does not cover MRSA, lacks activity against staphylococcal superantigen production, and does not provide ribosomal protein synthesis suppression; clindamycin is mandatory."
+      },
+      {
+        "text": "Oral doxycycline 100 mg twice daily as standalone outpatient therapy",
+        "correct": false,
+        "explanation": "TSS is a medical emergency with refractory septic shock and multiorgan failure; outpatient oral therapy is catastrophic and ineffective."
+      },
+      {
+        "text": "Intravenous clindamycin PLUS intravenous vancomycin (or cefazolin if methicillin-susceptible)",
+        "correct": true,
+        "explanation": "Staphylococcal Toxic Shock Syndrome (TSS) is an acute, life-threatening toxin-mediated illness caused by strains of Staphylococcus aureus producing Toxic Shock Syndrome Toxin-1 (TSST-1) or enterotoxins. (1) PATHOPHYSIOLOGY OF SUPERANTIGENS: TSST-1 functions as a potent SUPERANTIGEN: it bypasses normal antigen processing by directly cross-linking the invariant beta-chain of the T-cell receptor (TCR) to the alpha-chain of MHC class II molecules on antigen-presenting cells outside the antigen-binding groove. This leads to non-specific, polyclonal activation of up to 20% to 30% of all circulating T cells (compared to 0.01% in normal antigen presentation), triggering a catastrophic surge of pro-inflammatory cytokines (TNF-alpha, IL-1, IL-2, interferon-gamma) causing capillary leak, diffuse vasodilation, refractory shock, and multiorgan failure. (2) DIAGNOSTIC CRITERIA (CDC): (a) Fever (temp >= 38.9 C); (b) Hypotension (systolic BP < 90 mm Hg); (c) Diffuse macular erythroderma; (d) Desquamation 1 to 2 weeks after illness onset (predominantly on palms and soles); and (e) Multisystem involvement of >= 3 organ systems (GI, muscular, renal, hepatic, hematologic, CNS). Note: Blood cultures are characteristically NEGATIVE in staphylococcal TSS (< 5% positive) because the disease is driven by localized mucosal toxin production, not bacteremia. (3) MANAGEMENT: (a) Immediate removal of the source (tampon, nasal packing, abscess drainage); (b) Aggressive IV crystalloid resuscitation; (c) ANTIMICROBIAL REGIMEN: Intravenous CLINDAMYCIN (ribosomal 50S protein synthesis inhibitor that suppresses TSST-1 transcription and toxin synthesis) COMBINED WITH an anti-staphylococcal agent (VANCOMYCIN for MRSA coverage, or CEFAZOLIN/OXACILLIN for MSSA)."
+      },
+      {
+        "text": "Intravenous immunoglobulin (IVIG) as standalone monotherapy without antibiotics or fluid resuscitation",
+        "correct": false,
+        "explanation": "While IVIG can be considered an adjunctive rescue therapy to neutralize superantigens in refractory shock, it does not replace fluid resuscitation, source removal, or antimicrobial therapy."
+      },
+      {
+        "text": "High-dose intravenous methylprednisolone 1,000 mg daily with no antimicrobial agents",
+        "correct": false,
+        "explanation": "Corticosteroids do not eradicate Staph aureus or suppress ongoing toxin production from a retained nidus; fluid resuscitation and clindamycin-based antibiotics are the primary therapy."
+      }
+    ],
+    "explanation": "Staphylococcal Toxic Shock Syndrome (TSS) is an acute, life-threatening toxin-mediated illness caused by strains of Staphylococcus aureus producing Toxic Shock Syndrome Toxin-1 (TSST-1) or enterotoxins. (1) PATHOPHYSIOLOGY OF SUPERANTIGENS: TSST-1 functions as a potent SUPERANTIGEN: it bypasses normal antigen processing by directly cross-linking the invariant beta-chain of the T-cell receptor (TCR) to the alpha-chain of MHC class II molecules on antigen-presenting cells outside the antigen-binding groove. This leads to non-specific, polyclonal activation of up to 20% to 30% of all circulating T cells (compared to 0.01% in normal antigen presentation), triggering a catastrophic surge of pro-inflammatory cytokines (TNF-alpha, IL-1, IL-2, interferon-gamma) causing capillary leak, diffuse vasodilation, refractory shock, and multiorgan failure. (2) DIAGNOSTIC CRITERIA (CDC): (a) Fever (temp >= 38.9 C); (b) Hypotension (systolic BP < 90 mm Hg); (c) Diffuse macular erythroderma; (d) Desquamation 1 to 2 weeks after illness onset (predominantly on palms and soles); and (e) Multisystem involvement of >= 3 organ systems (GI, muscular, renal, hepatic, hematologic, CNS). Note: Blood cultures are characteristically NEGATIVE in staphylococcal TSS (< 5% positive) because the disease is driven by localized mucosal toxin production, not bacteremia. (3) MANAGEMENT: (a) Immediate removal of the source (tampon, nasal packing, abscess drainage); (b) Aggressive IV crystalloid resuscitation; (c) ANTIMICROBIAL REGIMEN: Intravenous CLINDAMYCIN (ribosomal 50S protein synthesis inhibitor that suppresses TSST-1 transcription and toxin synthesis) COMBINED WITH an anti-staphylococcal agent (VANCOMYCIN for MRSA coverage, or CEFAZOLIN/OXACILLIN for MSSA). Menstruating female with retained tampon, fever, hypotension, sunburn rash on palms/soles, and multiorgan failure has Staphylococcal TSS; treat with tampon removal, fluids, and IV clindamycin (antitoxin) plus vancomycin.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Staphylococcal Toxic Shock Syndrome (TSS).",
+    "keyPoints": [
+      "Staphylococcal Toxic Shock Syndrome (TSS)",
+      "Menstruating female with retained tampon, fever, hypotension, sunburn rash on palms/soles, and multiorgan failure has Staphylococcal TSS; treat with tampon removal, fluids, and IV "
+    ],
+    "references": [
+      {
+        "label": "Lowy FD. Staphylococcus aureus infections. N Engl J Med. 1998;339(8):520-532. PMID: 9709046.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9709046/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0494",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Cat Scratch Disease (Bartonella henselae)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 10-year-old boy is brought to the pediatric outpatient clinic by his mother because of a swollen, tender lump under his left armpit that has been growing over the past 2 weeks. He also reports mild low-grade fever and malaise. The mother mentions that the family adopted an energetic 8-week-old kitten 4 weeks ago that frequently scratches the boy during play. Physical examination reveals an active child in no distress. Vital signs show temperature of 38.0 C (100.4 F), heart rate of 88/min, and blood pressure of 104/64 mm Hg. Examination of the left axilla reveals a 3.5-cm, solitary, firm, tender, movable lymph node with overlying faint erythema and warmth, without fluctuance. On the left dorsal forearm, there is a non-tender, 4-mm, crusted erythematous papule at the site of a prior scratch. The remainder of the physical examination, including the spleen, liver, and other lymph node basins, is normal. Complete blood count shows mild leukocytosis (WBC 11,200/mm3) with normal differential. Serum enzyme immunoassay (EIA) for Bartonella henselae IgM and IgG is positive.\n\nWhich of the following represents the most appropriate management approach for this patient?",
+    "options": [
+      {
+        "text": "Immediate surgical incision and drainage of the left axillary lymph node in the minor procedure suite",
+        "correct": false,
+        "explanation": "Incision and drainage of cat scratch lymphadenopathy is strictly contraindicated because it causes intractable chronic sinus tract formation and scarring; needle aspiration is preferred only if fluctuant."
+      },
+      {
+        "text": "Oral amoxicillin 500 mg three times daily for 14 days",
+        "correct": false,
+        "explanation": "Amoxicillin has zero clinical efficacy against Bartonella henselae; azithromycin is the drug of choice proven to accelerate node resolution."
+      },
+      {
+        "text": "Immediate complete surgical axillary lymph node dissection to rule out Hodgkin lymphoma",
+        "correct": false,
+        "explanation": "History of kitten scratch, primary inoculation papule, and positive Bartonella serology definitively establish cat scratch disease; invasive surgical lymphadenectomy is unnecessary and causes lymphedema."
+      },
+      {
+        "text": "Oral azithromycin (10 mg/kg on day 1, followed by 5 mg/kg once daily on days 2 through 5) to accelerate lymph node regression",
+        "correct": true,
+        "explanation": "Cat Scratch Disease (CSD) is caused by Bartonella henselae, a fastidious, pleomorphic, facultative intracellular gram-negative rod transmitted primarily via the scratch or bite of young domestic kittens (which harbor the flea vector Ctenocephalides felis). (1) CLINICAL COURSE: (a) Primary inoculation lesion: A small (2-5 mm), non-tender, non-pruritic erythematous papule or pustule develops at the scratch site within 3 to 10 days; (b) Regional lymphadenopathy: Develops 1 to 3 weeks later in the lymphatic basin draining the inoculation site (most commonly axillary, epitrochlear, or cervical). Nodes are typically large (1-5 cm), tender, and firm, occasionally suppurating (10-15%). Systemic signs (fever, malaise, headache) are mild. (2) DIAGNOSIS: Serology (Bartonella henselae indirect immunofluorescence or EIA) has high specificity; PCR can confirm atypical disease. (3) PHARMACOTHERAPY (AAP RED BOOK / IDSA GUIDELINES): While mild CSD is self-limited and resolves spontaneously over 2 to 4 months in immunocompetent hosts, a double-blind randomized placebo-controlled trial demonstrated that a 5-DAY COURSE OF ORAL AZITHROMYCIN (10 mg/kg day 1, then 5 mg/kg days 2-5) significantly accelerates the reduction of lymph node volume by > 80% within the first 30 days and shortens the duration of symptoms. Azithromycin is the treatment of choice for typical CSD. (4) CONTRAINDICATION TO SURGICAL EXCISION/INCISION: Incision and drainage of non-fluctuant lymph nodes is strictly avoided because it causes chronic draining sinus tracts and cosmetic scarring; needle aspiration is indicated only if the node becomes tense and painful with frank suppuration."
+      },
+      {
+        "text": "Intravenous vancomycin and ceftriaxone for 21 days for presumed acute bacterial lymphadenitis",
+        "correct": false,
+        "explanation": "Acute pyogenic lymphadenitis (Staph/Strep) presents acutely over 24-48 hours with high fever and cellulitis, unlike the subacute, indolent 2-week course of cat scratch disease with a primary papule."
+      }
+    ],
+    "explanation": "Cat Scratch Disease (CSD) is caused by Bartonella henselae, a fastidious, pleomorphic, facultative intracellular gram-negative rod transmitted primarily via the scratch or bite of young domestic kittens (which harbor the flea vector Ctenocephalides felis). (1) CLINICAL COURSE: (a) Primary inoculation lesion: A small (2-5 mm), non-tender, non-pruritic erythematous papule or pustule develops at the scratch site within 3 to 10 days; (b) Regional lymphadenopathy: Develops 1 to 3 weeks later in the lymphatic basin draining the inoculation site (most commonly axillary, epitrochlear, or cervical). Nodes are typically large (1-5 cm), tender, and firm, occasionally suppurating (10-15%). Systemic signs (fever, malaise, headache) are mild. (2) DIAGNOSIS: Serology (Bartonella henselae indirect immunofluorescence or EIA) has high specificity; PCR can confirm atypical disease. (3) PHARMACOTHERAPY (AAP RED BOOK / IDSA GUIDELINES): While mild CSD is self-limited and resolves spontaneously over 2 to 4 months in immunocompetent hosts, a double-blind randomized placebo-controlled trial demonstrated that a 5-DAY COURSE OF ORAL AZITHROMYCIN (10 mg/kg day 1, then 5 mg/kg days 2-5) significantly accelerates the reduction of lymph node volume by > 80% within the first 30 days and shortens the duration of symptoms. Azithromycin is the treatment of choice for typical CSD. (4) CONTRAINDICATION TO SURGICAL EXCISION/INCISION: Incision and drainage of non-fluctuant lymph nodes is strictly avoided because it causes chronic draining sinus tracts and cosmetic scarring; needle aspiration is indicated only if the node becomes tense and painful with frank suppuration. Child with kitten scratch, forearm papule, and subacute axillary lymphadenopathy has Cat Scratch Disease (Bartonella henselae); treated with a 5-day course of oral azithromycin.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cat Scratch Disease (Bartonella henselae).",
+    "keyPoints": [
+      "Cat Scratch Disease (Bartonella henselae)",
+      "Child with kitten scratch, forearm papule, and subacute axillary lymphadenopathy has Cat Scratch Disease (Bartonella henselae); treated with a 5-day course of oral azithromycin."
+    ],
+    "references": [
+      {
+        "label": "Bass JW, Vincent JM, Person DA. The expanding spectrum of Bartonella infections: II. Cat-scratch disease. Pediatr Infect Dis J. 1997;16(2):163-179. PMID: 9041631.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9041631/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0495",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Animal Bite Wound Management (Cat Bite)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 42-year-old woman presents to the urgent care clinic 6 hours after being bitten on the dorsum of her right hand by her domestic house cat while attempting to place the cat into a travel carrier. Physical examination reveals two deep, narrow puncture wounds over the third metacarpophalangeal joint with surrounding mild erythema and tenderness. Range of motion of all fingers is fully preserved without pain on passive extension of the digits, and there is no tenderness along the flexor tendon sheaths (absence of Kanavel cardinal signs). Neurovascular examination is intact. Vital signs are normal, and her last tetanus booster was 3 years ago.\n\nWhich of the following represents the most appropriate wound care and antimicrobial management strategy for this patient?",
+    "options": [
+      {
+        "text": "Irrigate copiously, immediately close the puncture wounds primarily with interrupted nylon sutures, and prescribe oral cephalexin 500 mg four times daily",
+        "correct": false,
+        "explanation": "Suturing cat bites traps bacteria in deep tissue spaces causing tenosynovitis, and cephalexin has notoriously poor activity against Pasteurella multocida, leading to rapid treatment failure."
+      },
+      {
+        "text": "Perform immediate surgical debridement of the metacarpophalangeal joint capsule in the operating room and administer intravenous vancomycin monotherapy",
+        "correct": false,
+        "explanation": "In the absence of active tenosynovitis or joint involvement, operative debridement is overly invasive; oral amoxicillin-clavulanate prophylaxis and copious irrigation are adequate."
+      },
+      {
+        "text": "Prescribe oral clindamycin 300 mg three times daily as first-line monotherapy, and apply a tight compressive bandage",
+        "correct": false,
+        "explanation": "Clindamycin lacks adequate activity against Pasteurella multocida; amoxicillin-clavulanate is the first-line antibiotic of choice for animal bites."
+      },
+      {
+        "text": "Irrigate the wound, withhold all antibiotics, and instruct the patient to return only if erythema or purulent drainage appears",
+        "correct": false,
+        "explanation": "Cat bite puncture wounds carry a high infection rate (> 50-80%); guidelines universally mandate antimicrobial prophylaxis with amoxicillin-clavulanate for all cat bites."
+      },
+      {
+        "text": "Perform copious wound irrigation with isotonic saline, leave the puncture wounds open to heal by secondary intention (avoiding primary suture closure), and initiate a 3- to 5-day prophylactic course of oral amoxicillin-clavulanate",
+        "correct": true,
+        "explanation": "Animal bite wound management requires understanding species-specific anatomy and microbiology: (1) MICROBIOLOGY OF CAT BITES: Cat mouths harbor virulent oral commensals, predominantly PASTEURELLA MULTOCIDA (a small, facultative anaerobic, encapsulated gram-negative coccobacillus present in > 90% of cat bites), along with Streptococcus species, Staphylococcus aureus, and oral anaerobes (Fusobacterium, Bacteroides). Pasteurella produces a rapid-onset, intensely inflammatory, destructive cellulitis typically developing within 12 to 24 hours of injury, with a high propensity to cause tenosynovitis, septic arthritis, and osteomyelitis. (2) ANATOMY OF CAT BITES: Domestic cats possess long, slender, extremely sharp canine teeth that act as natural hypodermic needles, inoculating bacteria deep into poorly vascularized avascular structures (periosteum, joint capsule, tendon sheaths), particularly on the dorsum of the hand where tendons lie superficial. (3) WOUND CLOSURE RULES: Cat puncture wounds and wounds on the hands or feet MUST NEVER BE CLOSED PRIMARILY with sutures. Suturing traps virulent inoculated bacteria within deep anaerobic tissue planes, exponentially increasing the risk of compartment syndrome, tenosynovitis, and necrotizing infection. Wounds should be thoroughly cleansed, irrigated copiously with saline, and LEFT OPEN TO HEAL BY SECONDARY INTENTION. (4) ANTIMICROBIAL PROPHYLAXIS: High-risk bite wounds (all cat bites, hand bites, puncture wounds) require prophylactic antibiotics. ORAL AMOXICILLIN-CLAVULANATE (875/125 mg twice daily for 3-5 days) is the FIRST-LINE REGIMEN OF CHOICE because the aminopenicillin provides potent bactericidal coverage against Pasteurella multocida while the clavulanate beta-lactamase inhibitor covers beta-lactamase-producing Staph aureus and anaerobes. (Note: Cephalexin, erythromycin, and clindamycin have POOR activity against Pasteurella multocida and must NEVER be used as monotherapy)."
+      }
+    ],
+    "explanation": "Animal bite wound management requires understanding species-specific anatomy and microbiology: (1) MICROBIOLOGY OF CAT BITES: Cat mouths harbor virulent oral commensals, predominantly PASTEURELLA MULTOCIDA (a small, facultative anaerobic, encapsulated gram-negative coccobacillus present in > 90% of cat bites), along with Streptococcus species, Staphylococcus aureus, and oral anaerobes (Fusobacterium, Bacteroides). Pasteurella produces a rapid-onset, intensely inflammatory, destructive cellulitis typically developing within 12 to 24 hours of injury, with a high propensity to cause tenosynovitis, septic arthritis, and osteomyelitis. (2) ANATOMY OF CAT BITES: Domestic cats possess long, slender, extremely sharp canine teeth that act as natural hypodermic needles, inoculating bacteria deep into poorly vascularized avascular structures (periosteum, joint capsule, tendon sheaths), particularly on the dorsum of the hand where tendons lie superficial. (3) WOUND CLOSURE RULES: Cat puncture wounds and wounds on the hands or feet MUST NEVER BE CLOSED PRIMARILY with sutures. Suturing traps virulent inoculated bacteria within deep anaerobic tissue planes, exponentially increasing the risk of compartment syndrome, tenosynovitis, and necrotizing infection. Wounds should be thoroughly cleansed, irrigated copiously with saline, and LEFT OPEN TO HEAL BY SECONDARY INTENTION. (4) ANTIMICROBIAL PROPHYLAXIS: High-risk bite wounds (all cat bites, hand bites, puncture wounds) require prophylactic antibiotics. ORAL AMOXICILLIN-CLAVULANATE (875/125 mg twice daily for 3-5 days) is the FIRST-LINE REGIMEN OF CHOICE because the aminopenicillin provides potent bactericidal coverage against Pasteurella multocida while the clavulanate beta-lactamase inhibitor covers beta-lactamase-producing Staph aureus and anaerobes. (Note: Cephalexin, erythromycin, and clindamycin have POOR activity against Pasteurella multocida and must NEVER be used as monotherapy). Cat bite puncture wound to hand requires copious irrigation, leaving wound open (no sutures), and oral amoxicillin-clavulanate to cover Pasteurella multocida.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Animal Bite Wound Management (Cat Bite).",
+    "keyPoints": [
+      "Animal Bite Wound Management (Cat Bite)",
+      "Cat bite puncture wound to hand requires copious irrigation, leaving wound open (no sutures), and oral amoxicillin-clavulanate to cover Pasteurella multocida."
+    ],
+    "references": [
+      {
+        "label": "Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update. Clin Infect Dis. 2014;59(2):e10-e52. PMID: 24973422.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24973422/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0496",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Herpes Simplex Virus (HSV-1) Encephalitis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 58-year-old previously healthy woman is brought to the emergency department by her husband due to a 3-day history of acute personality change, bizarre behavior, fever, and progressive confusion. Her husband states she became disoriented, began smelling an intense, foul, burning odor that was not present (olfactory hallucinations), and had a 2-minute episode of unresponsiveness with repetitive lip-smacking and right arm jerking. On physical examination, she is lethargic, disoriented to time and place, and exhibits fluent but nonsensical speech with frequent paraphasic errors (receptive aphasia). Cranial nerves are intact, and motor strength is 5/5 throughout without focal weakness. Neck flexion reveals mild nuchal rigidity. Vital signs show blood pressure of 134/82 mm Hg, heart rate of 94/min, respiratory rate of 18/min, and temperature of 38.9 C (102.0 F). Brain MRI reveals asymmetric hyperintensity and swelling restricted to the medial temporal and inferior frontal lobes on T2-weighted and FLAIR sequences, with patchy cortical petechial hemorrhage. Lumbar puncture demonstrates an opening pressure of 210 mm H2O. Cerebrospinal fluid analysis shows:\n- White blood cell count: 180/mm3 (88% lymphocytes)\n- Red blood cell count: 420/mm3 (elevated in tube 1 and tube 4)\n- Protein: 92 mg/dL\n- Glucose: 64 mg/dL (serum glucose 108 mg/dL)\n- Gram stain: Negative for bacteria\n\nWhich of the following represents the most appropriate immediate medical intervention for this patient?",
+    "options": [
+      {
+        "text": "Immediate initiation of intravenous acyclovir (10 mg/kg every 8 hours) while awaiting cerebrospinal fluid HSV polymerase chain reaction (PCR) results",
+        "correct": true,
+        "explanation": "Herpes Simplex Virus-1 (HSV-1) Encephalitis is the most common cause of fatal sporadic viral encephalitis in immunocompetent adults, resulting from retrograde transmission of reactivated virus along the olfactory or trigeminal nerve pathways to the frontal and temporal lobes. (1) CLINICAL AND RADIOLOGICAL HALLMARKS: Acute onset of fever, headache, altered mental status, focal seizures (often temporal lobe seizures with olfactory hallucinations or automatisms like lip smacking), and focal neurocognitive deficits (aphasia, memory loss). Brain MRI characteristically reveals asymmetric T2/FLAIR hyperintensity and edema involving the INFERIOR FRONTAL AND MEDIAL TEMPORAL LOBES, often accompanied by microhemorrhages. (2) CSF FINDINGS: Lymphocytic pleocytosis (typically 50-500 WBC/mm3), elevated protein, normal or mildly decreased glucose, and CHARACTERISTICALLY ELEVATED RED BLOOD CELLS (hemorrhagic lymphocytic pleocytosis) reflecting necrotizing viral angiitis. (3) DIAGNOSTIC TESTING: Cerebrospinal fluid HSV Polymerase Chain Reaction (PCR) is the diagnostic test of choice with > 95% sensitivity and specificity; however, viral PCR can be falsely negative in the first 24 to 48 hours of infection. (4) TIME-CRITICAL EMPIRIC THERAPY: Untreated HSV encephalitis carries a catastrophic mortality exceeding 70%, and survivors suffer devastating permanent cognitive and memory impairment. IMMEDIATE INTRAVENOUS ACYCLOVIR (10 mg/kg IV q8h for 14-21 days) MUST BE INITIATED EMPIRICALLY AS SOON AS HSV ENCEPHALITIS IS SUSPECTED, BEFORE awaiting PCR confirmation. If initial PCR is negative within the first 48 hours but suspicion remains high, acyclovir should be continued and lumbar puncture repeated in 3 to 7 days."
+      },
+      {
+        "text": "Withhold antiviral therapy until cerebrospinal fluid HSV PCR amplification definitively confirms viral DNA",
+        "correct": false,
+        "explanation": "Delaying acyclovir to await PCR results carries catastrophic mortality and severe irreversible neurological destruction; empiric acyclovir must be started immediately."
+      },
+      {
+        "text": "Administer intravenous ganciclovir 5 mg/kg every 12 hours for presumed cytomegalovirus encephalitis",
+        "correct": false,
+        "explanation": "Ganciclovir is used for CMV (which presents in severely immunocompromised AIDS patients with CD4 < 50), whereas HSV-1 is the predominant cause in immunocompetent adults and responds selectively to acyclovir."
+      },
+      {
+        "text": "Administer oral valacyclovir 1 g three times daily as outpatient therapy and arrange follow-up in 48 hours",
+        "correct": false,
+        "explanation": "Oral antivirals achieve insufficient cerebrospinal fluid concentrations for necrotizing central nervous system infection; high-dose parenteral intravenous acyclovir in an inpatient setting is mandatory."
+      },
+      {
+        "text": "Initiate intravenous vancomycin, ampicillin, and ceftriaxone monotherapy with no antiviral coverage",
+        "correct": false,
+        "explanation": "CSF showing lymphocytic pleocytosis with elevated RBCs and temporal lobe MRI lesions strongly indicates HSV encephalitis; omitting acyclovir leads to fatal viral necrosis."
+      }
+    ],
+    "explanation": "Herpes Simplex Virus-1 (HSV-1) Encephalitis is the most common cause of fatal sporadic viral encephalitis in immunocompetent adults, resulting from retrograde transmission of reactivated virus along the olfactory or trigeminal nerve pathways to the frontal and temporal lobes. (1) CLINICAL AND RADIOLOGICAL HALLMARKS: Acute onset of fever, headache, altered mental status, focal seizures (often temporal lobe seizures with olfactory hallucinations or automatisms like lip smacking), and focal neurocognitive deficits (aphasia, memory loss). Brain MRI characteristically reveals asymmetric T2/FLAIR hyperintensity and edema involving the INFERIOR FRONTAL AND MEDIAL TEMPORAL LOBES, often accompanied by microhemorrhages. (2) CSF FINDINGS: Lymphocytic pleocytosis (typically 50-500 WBC/mm3), elevated protein, normal or mildly decreased glucose, and CHARACTERISTICALLY ELEVATED RED BLOOD CELLS (hemorrhagic lymphocytic pleocytosis) reflecting necrotizing viral angiitis. (3) DIAGNOSTIC TESTING: Cerebrospinal fluid HSV Polymerase Chain Reaction (PCR) is the diagnostic test of choice with > 95% sensitivity and specificity; however, viral PCR can be falsely negative in the first 24 to 48 hours of infection. (4) TIME-CRITICAL EMPIRIC THERAPY: Untreated HSV encephalitis carries a catastrophic mortality exceeding 70%, and survivors suffer devastating permanent cognitive and memory impairment. IMMEDIATE INTRAVENOUS ACYCLOVIR (10 mg/kg IV q8h for 14-21 days) MUST BE INITIATED EMPIRICALLY AS SOON AS HSV ENCEPHALITIS IS SUSPECTED, BEFORE awaiting PCR confirmation. If initial PCR is negative within the first 48 hours but suspicion remains high, acyclovir should be continued and lumbar puncture repeated in 3 to 7 days. Temporal lobe seizures, aphasia, hemorrhagic lymphocytic CSF, and temporal MRI lesions is HSV encephalitis; initiate immediate empiric IV acyclovir while awaiting CSF PCR.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Herpes Simplex Virus (HSV-1) Encephalitis.",
+    "keyPoints": [
+      "Herpes Simplex Virus (HSV-1) Encephalitis",
+      "Temporal lobe seizures, aphasia, hemorrhagic lymphocytic CSF, and temporal MRI lesions is HSV encephalitis; initiate immediate empiric IV acyclovir while awaiting CSF PCR."
+    ],
+    "references": [
+      {
+        "label": "Whitley RJ, Gnann JW. Viral encephalitis: familiar infections and emerging pathogens. Lancet. 2002;359(9305):507-513. PMID: 11853816.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11853816/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0497",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Asymptomatic Bacteriuria Diagnostic Stewardship",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 81-year-old woman residing in a skilled nursing facility is seen for a routine medical review. She has a history of vascular dementia, osteoarthritis, and type 2 diabetes mellitus. She is fully ambulatory with a walker and reports feeling well. She has no fever, chills, dysuria, urinary frequency, urgency, suprapubic discomfort, or flank pain. Her chronic baseline cognitive impairment is unchanged. Vital signs are normal: blood pressure 128/78 mm Hg, heart rate 72/min, and temperature 36.8 C (98.2 F). Physical examination reveals a soft, non-tender abdomen without suprapubic fullness or costovertebral angle tenderness. As part of an annual institutional intake order set, a clean-catch urine specimen was collected. Urinalysis demonstrates:\n- Leukocyte esterase: Moderate\n- Nitrites: Positive\n- White blood cells: 25-30/high-power field\n- Red blood cells: 1-2/high-power field\n- Quantitative urine culture: > 100,000 colony-forming units/mL of pan-susceptible Escherichia coli\n\nAccording to current Infectious Diseases Society of America (IDSA) and US Preventive Services Task Force (USPSTF) guidelines, which of the following represents the most appropriate management approach for this patient?",
+    "options": [
+      {
+        "text": "Initiate oral nitrofurantoin 100 mg twice daily for 5 days to eradicate bacteriuria and prevent urosepsis",
+        "correct": false,
+        "explanation": "Treating asymptomatic bacteriuria in the elderly provides no clinical benefit, does not prevent urosepsis, and increases risks of Clostridioides difficile and multidrug-resistant superinfections."
+      },
+      {
+        "text": "Withhold antimicrobial therapy and provide reassurance, as screening and treatment of asymptomatic bacteriuria are not indicated in this clinical setting",
+        "correct": true,
+        "explanation": "Asymptomatic Bacteriuria (ASB) is defined as isolation of a specified quantitative count of bacteria (>= 100,000 CFU/mL of a single organism) in an appropriately collected urine specimen from an individual WITHOUT symptoms or signs attributable to a urinary tract infection (no dysuria, frequency, fever, suprapubic pain). (1) EPIDEMIOLOGY: ASB is exceedingly common, present in up to 20-50% of elderly institutionalized women, 100% of patients with long-term indwelling catheters, and 10-15% of diabetic individuals. (2) EVIDENCE-BASED STEWARDSHIP (IDSA GUIDELINES): Extensive randomized controlled trials have demonstrated that treating ASB in elderly individuals, catheterized patients, or diabetic patients DOES NOT reduce the incidence of symptomatic UTI, does not prevent bacteremia or renal failure, does not improve survival, and does not improve cognitive status or continence. Conversely, treating ASB significantly INCREASES adverse drug events, promotes colonization with multidrug-resistant pathogens (ESBL, CRE), and significantly increases the incidence of Clostridioides difficile colitis. (3) THE ONLY TWO CLEARLY DEFINED INDICATIONS FOR SCREENING AND TREATING ASB: (a) PREGNANT WOMEN: Screened at 12 to 16 weeks gestation; untreated ASB leads to acute pyelonephritis in 20-30% of pregnancies and increases risks of preterm labor, low birth weight, and perinatal mortality. (b) PATIENTS UNDERGOING ENDOSCOPIC UROLOGICAL PROCEDURES WITH ANTICIPATED MUCOSAL BLEEDING (e.g., transurethral resection of prostate [TURP]): Antibiotic treatment prevents procedure-induced bacteremia and septic shock. In all other populations, screening and treating ASB is STRONGLY DISCOURAGED."
+      },
+      {
+        "text": "Initiate oral trimethoprim-sulfamethoxazole one double-strength tablet twice daily for 3 days",
+        "correct": false,
+        "explanation": "Antimicrobial therapy is contraindicated in asymptomatic bacteriuria outside of pregnancy or urological surgery; pyuria (WBCs in urine) is a normal accompaniment of ASB and is not an indication for antibiotics."
+      },
+      {
+        "text": "Insert an indwelling Foley catheter to ensure continuous bladder drainage and prevent urinary stasis",
+        "correct": false,
+        "explanation": "Indwelling urinary catheters rapidly become colonized with bacterial biofilms and are the leading cause of catheter-associated UTIs and secondary bloodstream infections."
+      },
+      {
+        "text": "Order a renal and bladder ultrasound to rule out obstructive uropathy before initiating antibiotics",
+        "correct": false,
+        "explanation": "In an asymptomatic patient with normal renal function, imaging is unnecessary and represents low-value, wasteful care."
+      }
+    ],
+    "explanation": "Asymptomatic Bacteriuria (ASB) is defined as isolation of a specified quantitative count of bacteria (>= 100,000 CFU/mL of a single organism) in an appropriately collected urine specimen from an individual WITHOUT symptoms or signs attributable to a urinary tract infection (no dysuria, frequency, fever, suprapubic pain). (1) EPIDEMIOLOGY: ASB is exceedingly common, present in up to 20-50% of elderly institutionalized women, 100% of patients with long-term indwelling catheters, and 10-15% of diabetic individuals. (2) EVIDENCE-BASED STEWARDSHIP (IDSA GUIDELINES): Extensive randomized controlled trials have demonstrated that treating ASB in elderly individuals, catheterized patients, or diabetic patients DOES NOT reduce the incidence of symptomatic UTI, does not prevent bacteremia or renal failure, does not improve survival, and does not improve cognitive status or continence. Conversely, treating ASB significantly INCREASES adverse drug events, promotes colonization with multidrug-resistant pathogens (ESBL, CRE), and significantly increases the incidence of Clostridioides difficile colitis. (3) THE ONLY TWO CLEARLY DEFINED INDICATIONS FOR SCREENING AND TREATING ASB: (a) PREGNANT WOMEN: Screened at 12 to 16 weeks gestation; untreated ASB leads to acute pyelonephritis in 20-30% of pregnancies and increases risks of preterm labor, low birth weight, and perinatal mortality. (b) PATIENTS UNDERGOING ENDOSCOPIC UROLOGICAL PROCEDURES WITH ANTICIPATED MUCOSAL BLEEDING (e.g., transurethral resection of prostate [TURP]): Antibiotic treatment prevents procedure-induced bacteremia and septic shock. In all other populations, screening and treating ASB is STRONGLY DISCOURAGED. Elderly asymptomatic female with positive urine culture (> 100k E. coli) has asymptomatic bacteriuria; IDSA guidelines mandate withholding antibiotics because treatment causes harm without clinical benefit.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Asymptomatic Bacteriuria Diagnostic Stewardship.",
+    "keyPoints": [
+      "Asymptomatic Bacteriuria Diagnostic Stewardship",
+      "Elderly asymptomatic female with positive urine culture (> 100k E. coli) has asymptomatic bacteriuria; IDSA guidelines mandate withholding antibiotics because treatment causes harm"
+    ],
+    "references": [
+      {
+        "label": "Nicolle LE, Gupta K, Bradley SF, et al. Clinical Practice Guideline for the Management of Asymptomatic Bacteriuria: 2019 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2019;68(10):e83-e110. PMID: 30895288.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30895288/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0498",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Outpatient Community-Acquired Pneumonia (CAP) with Comorbidities",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old man presents to the primary care clinic with a 4-day history of worsening cough productive of thick rust-colored sputum, right-sided pleuritic chest pain, and subjective fevers. His medical history includes moderate chronic obstructive pulmonary disease (COPD) managed with an inhaled tiotropium and albuterol inhaler, and essential hypertension managed with amlodipine. He has not received antibiotics in the past 6 months. Physical examination reveals an alert, cooperative man in mild respiratory discomfort. Vital signs show blood pressure of 132/78 mm Hg, heart rate of 92/min, respiratory rate of 20/min, temperature of 38.4 C (101.1 F), and oxygen saturation of 94% on ambient room air. Chest examination reveals dullness to percussion and bronchial breath sounds with inspiratory crackles over the right lower lung base. Blood urea nitrogen is 14 mg/dL. He is fully oriented (confusion absent). His calculated CURB-65 score is 0. A two-view chest radiograph reveals a distinct alveolar consolidation in the right lower lobe, confirming community-acquired pneumonia.\n\nAccording to American Thoracic Society (ATS) and Infectious Diseases Society of America (IDSA) guidelines, which of the following represents the most appropriate outpatient antimicrobial regimen for this patient?",
+    "options": [
+      {
+        "text": "Oral amoxicillin 1,000 mg three times daily as standalone monotherapy",
+        "correct": false,
+        "explanation": "Amoxicillin monotherapy is reserved strictly for healthy outpatients without comorbidities; patients with COPD require broader coverage covering beta-lactamase-producing H. influenzae and atypicals."
+      },
+      {
+        "text": "Oral azithromycin 500 mg day 1 followed by 250 mg daily on days 2 through 5 as standalone monotherapy",
+        "correct": false,
+        "explanation": "Macrolide monotherapy is inadequate in patients with comorbidities and carries high failure rates due to widespread (> 30%) Streptococcus pneumoniae macrolide resistance."
+      },
+      {
+        "text": "Oral amoxicillin-clavulanate (875/125 mg twice daily) PLUS oral azithromycin (500 mg on day 1, then 250 mg daily for 4 days), OR oral levofloxacin (750 mg daily) monotherapy",
+        "correct": true,
+        "explanation": "Community-Acquired Pneumonia (CAP) treatment is guided by clinical site of care triage and patient comorbidity status. (1) SITE-OF-CARE TRIAGE (CURB-65 SCORE): (a) Confusion = 1 pt; (b) Urea (BUN > 19 mg/dL) = 1 pt; (c) Respiratory rate >= 30/min = 1 pt; (d) Blood pressure (SBP < 90 or DBP <= 60 mm Hg) = 1 pt; (e) Age >= 65 years = 1 pt. With a CURB-65 score of 0, outpatient management is clinically appropriate. (2) PATIENT STRATIFICATION AND EMPIRIC REGIMENS (ATS/IDSA GUIDELINES): (a) Healthy outpatients WITHOUT comorbidities (no chronic heart, lung, liver, or renal disease, diabetes, or immunosuppression): Monotherapy with oral AMOXICILLIN (1 g TID), DOXYCYCLINE (100 mg BID), or a macrolide (if local pneumococcal macrolide resistance is < 25%). (b) Outpatients WITH chronic comorbidities (such as COPD, heart failure, diabetes, alcoholism, chronic kidney disease): Patients with comorbidities have higher risks of infection with beta-lactamase-producing organisms (Haemophilus influenzae, Moraxella catarrhalis), gram-negative enteric bacilli, and macrolide-resistant Streptococcus pneumoniae. Therefore, guidelines MANDATE: (1) COMBINATION THERAPY: An oral beta-lactam with enhanced coverage (high-dose amoxicillin-clavulanate 875/125 mg BID or cefpodoxime/cefuroxime) PLUS an agent covering atypicals (oral AZITHROMYCIN, clarithromycin, or DOXYCYCLINE); OR (2) RESPIRATORY FLUOROQUINOLONE MONOTHERAPY: Oral LEVOFLOXACIN (750 mg daily) or MOXIFLOXACIN (400 mg daily)."
+      },
+      {
+        "text": "Immediate hospital admission to the intensive care unit for intravenous vancomycin and piperacillin-tazobactam",
+        "correct": false,
+        "explanation": "CURB-65 score is 0 and oxygen saturation is 94%; ICU admission and broad-spectrum anti-MRSA/antipseudomonal therapy represent massive overtreatment."
+      },
+      {
+        "text": "Oral ciprofloxacin 500 mg twice daily as standalone respiratory monotherapy",
+        "correct": false,
+        "explanation": "Ciprofloxacin is not a 'respiratory' fluoroquinolone; it has poor activity against Streptococcus pneumoniae and should never be used to treat community-acquired pneumonia."
+      }
+    ],
+    "explanation": "Community-Acquired Pneumonia (CAP) treatment is guided by clinical site of care triage and patient comorbidity status. (1) SITE-OF-CARE TRIAGE (CURB-65 SCORE): (a) Confusion = 1 pt; (b) Urea (BUN > 19 mg/dL) = 1 pt; (c) Respiratory rate >= 30/min = 1 pt; (d) Blood pressure (SBP < 90 or DBP <= 60 mm Hg) = 1 pt; (e) Age >= 65 years = 1 pt. With a CURB-65 score of 0, outpatient management is clinically appropriate. (2) PATIENT STRATIFICATION AND EMPIRIC REGIMENS (ATS/IDSA GUIDELINES): (a) Healthy outpatients WITHOUT comorbidities (no chronic heart, lung, liver, or renal disease, diabetes, or immunosuppression): Monotherapy with oral AMOXICILLIN (1 g TID), DOXYCYCLINE (100 mg BID), or a macrolide (if local pneumococcal macrolide resistance is < 25%). (b) Outpatients WITH chronic comorbidities (such as COPD, heart failure, diabetes, alcoholism, chronic kidney disease): Patients with comorbidities have higher risks of infection with beta-lactamase-producing organisms (Haemophilus influenzae, Moraxella catarrhalis), gram-negative enteric bacilli, and macrolide-resistant Streptococcus pneumoniae. Therefore, guidelines MANDATE: (1) COMBINATION THERAPY: An oral beta-lactam with enhanced coverage (high-dose amoxicillin-clavulanate 875/125 mg BID or cefpodoxime/cefuroxime) PLUS an agent covering atypicals (oral AZITHROMYCIN, clarithromycin, or DOXYCYCLINE); OR (2) RESPIRATORY FLUOROQUINOLONE MONOTHERAPY: Oral LEVOFLOXACIN (750 mg daily) or MOXIFLOXACIN (400 mg daily). Outpatient CAP in patient with COPD (CURB-65 = 0) requires combination therapy (amoxicillin-clavulanate + azithromycin) or respiratory fluoroquinolone (levofloxacin) monotherapy.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Outpatient Community-Acquired Pneumonia (CAP) with Comorbidities.",
+    "keyPoints": [
+      "Outpatient Community-Acquired Pneumonia (CAP) with Comorbidities",
+      "Outpatient CAP in patient with COPD (CURB-65 = 0) requires combination therapy (amoxicillin-clavulanate + azithromycin) or respiratory fluoroquinolone (levofloxacin) monotherapy."
+    ],
+    "references": [
+      {
+        "label": "Metlay JP, Waterer GW, Long AC, et al. Diagnosis and Treatment of Adults with Community-acquired Pneumonia. An Official Clinical Practice Guideline of the American Thoracic Society and Infectious Diseases Society of America. Am J Respir Crit Care Med. 2019;200(7):e45-e67. PMID...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31573350/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

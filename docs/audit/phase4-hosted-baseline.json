@@ -1,0 +1,97 @@
+{
+  "privateReporting": {
+    "exitCode": 0,
+    "result": {
+      "enabled": false
+    },
+    "error": null
+  },
+  "branchProtection": {
+    "exitCode": 1,
+    "result": {
+      "message": "Branch not protected",
+      "documentation_url": "https://docs.github.com/rest/branches/branch-protection#get-branch-protection",
+      "status": "404"
+    },
+    "error": "gh: Branch not protected (HTTP 404)"
+  },
+  "priorPrChecks": {
+    "exitCode": 0,
+    "result": {
+      "headRefOid": "eb3947ef6b9fc72320e92ea13c70dec380bb480d",
+      "mergeCommit": {
+        "oid": "87a7d339dc4eb269aebbaa3388a38eb348c9d913"
+      },
+      "state": "MERGED",
+      "statusCheckRollup": [
+        {
+          "__typename": "CheckRun",
+          "completedAt": "2026-10-30T12:24:59Z",
+          "conclusion": "SUCCESS",
+          "detailsUrl": "https://github.com/AhmedU558/OpenPrep/actions/runs/41054738012/job/124059304617",
+          "name": "validate",
+          "startedAt": "2026-10-30T12:21:37Z",
+          "status": "COMPLETED",
+          "workflowName": "CI"
+        },
+        {
+          "__typename": "CheckRun",
+          "completedAt": "2026-10-30T12:23:12Z",
+          "conclusion": "SUCCESS",
+          "detailsUrl": "https://github.com/AhmedU558/OpenPrep/actions/runs/41054738180/job/124059305642",
+          "name": "analyze",
+          "startedAt": "2026-10-30T12:21:37Z",
+          "status": "COMPLETED",
+          "workflowName": "CodeQL"
+        },
+        {
+          "__typename": "CheckRun",
+          "completedAt": "2026-10-30T12:22:09Z",
+          "conclusion": "SUCCESS",
+          "detailsUrl": "https://github.com/AhmedU558/OpenPrep/actions/runs/41054738011/job/124059304725",
+          "name": "review",
+          "startedAt": "2026-10-30T12:21:38Z",
+          "status": "COMPLETED",
+          "workflowName": "Dependency review"
+        },
+        {
+          "__typename": "CheckRun",
+          "completedAt": "2026-10-30T12:23:06Z",
+          "conclusion": "SUCCESS",
+          "detailsUrl": "https://github.com/AhmedU558/OpenPrep/runs/124059677415",
+          "name": "CodeQL",
+          "startedAt": "2026-10-30T12:22:33Z",
+          "status": "COMPLETED",
+          "workflowName": ""
+        }
+      ]
+    },
+    "error": null
+  },
+  "setupPythonCommit": {
+    "exitCode": 0,
+    "result": "a26af69be951a213d495a4c3e4e4022e16d87065",
+    "error": null
+  },
+  "uploadArtifactCommit": {
+    "exitCode": 0,
+    "result": "ea165f8d65b6e75b540449e92b4886f43607fa02",
+    "error": null
+  },
+  "phase4HostedExecution": "NOT_RUN: no Phase 4 push or workflow dispatch authorized",
+  "contributors": [
+    "87a7d339dc4eb269aebbaa3388a38eb348c9d913|Ahmed Umer|GitHub",
+    "eb3947ef6b9fc72320e92ea13c70dec380bb480d|AhmedU558|AhmedU558",
+    "b3f866ec13a09abc01257c4d16b3db893d8d355f|AhmedU558|AhmedU558",
+    "f5c4aef26e5b59965660236665494e02084c96d2|AhmedMA558|AhmedMA558",
+    "daf7fb00199aa909d1fbccd3d53412257d65132b|AhmedMA558|AhmedMA558",
+    "5950cc09a7b44b3b163f680f0dbc73808fa4424e|Ahmed Umer|GitHub",
+    "be2b752187ebf07c413bf53b74fbc1163dad9d6f|AhmedMA558|AhmedMA558",
+    "2611415f581b4c54145e6cc1e0312f04763a9035|AhmedMA558|AhmedMA558"
+  ],
+  "applicableBranchRules": {
+    "exitCode": 0,
+    "result": [],
+    "error": null
+  }
+}

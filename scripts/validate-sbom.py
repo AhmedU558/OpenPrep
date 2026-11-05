@@ -1,4 +1,5 @@
 """Validate all five local SBOMs using the pinned, vendored official schema; no network resolution."""
+import argparse
 import hashlib
 import json
 import pathlib
@@ -15,7 +16,8 @@ for path in folder.glob('*.schema.json'):
  registry=registry.with_resource(data['$id'],resource)
 schema=json.loads((folder/'bom-1.6.schema.json').read_text())
 validator=jsonschema.Draft7Validator(schema,registry=registry)
+parser=argparse.ArgumentParser();parser.add_argument('--directory',default='docs');args=parser.parse_args()
 for scope in ['SOURCE','BROWSER','HOSTED','NATIVE','CONTAINER']:
- file=root/f'docs/SBOM_{scope}.json'
+ file=root/args.directory/f'SBOM_{scope}.json'
  validator.validate(json.loads(file.read_text()))
  print(f'{file.name}: schema PASS')
