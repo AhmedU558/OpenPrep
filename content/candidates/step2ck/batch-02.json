@@ -1,0 +1,1327 @@
+[
+  {
+    "code": "op-c-s2-0026",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "HFrEF Guideline-Directed Medical Therapy & Quadruple Regimen Initiation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old man presents to the clinic 4 weeks after hospitalization for acute decompensated heart failure with reduced ejection fraction (HFrEF; echocardiogram showed an ejection fraction of 28%). He has mild exertional dyspnea when walking 2 blocks, but has no orthopnea, paroxysmal nocturnal dyspnea, or lower extremity edema. Current medications are: oral furosemide 40 mg daily and metoprolol succinate 25 mg daily. Vital signs are: blood pressure 122/76 mmHg, heart rate 68/min, and oxygen saturation 98% on ambient air. Physical examination reveals normal jugular venous pressure, clear lung fields, and no peripheral edema. Laboratory evaluation demonstrates: serum sodium 139 mEq/L, potassium 4.2 mEq/L, and estimated GFR 68 mL/min/1.73m2. According to current AHA/ACC/HFSA heart failure guidelines, which of the following is the most appropriate next step to optimize disease-modifying medical therapy to improve long-term survival in this patient?",
+    "options": [
+      {
+        "text": "Initiate sacubitril-valsartan (ARNI), an SGLT2 inhibitor (dapagliflozin or empagliflozin), and spironolactone, while continuing metoprolol succinate",
+        "correct": true,
+        "explanation": "Current AHA/ACC/HFSA heart failure guidelines establish that foundational Guideline-Directed Medical Therapy (GDMT) for patients with HFrEF (LVEF <= 40%) consists of four core medication classes (\"quadruple therapy\"), each of which independently reduces all-cause mortality and heart failure hospitalizations: (1) An Angiotensin Receptor-Neprilysin Inhibitor (ARNI, sacubitril-valsartan, preferred over ACEi/ARB), (2) An evidence-based beta-blocker (carvedilol, metoprolol succinate, or bisoprolol), (3) A Mineralocorticoid Receptor Antagonist (MRA, spironolactone or eplerenone), and (4) A Sodium-Glucose Cotransporter-2 (SGLT2) inhibitor (dapagliflozin or empagliflozin). Guidelines strongly emphasize initiating all four foundational classes rapidly and simultaneously (or in rapid sequence over 2–4 weeks) at low starting doses once the patient is euvolemic, rather than waiting months to titrate each single drug to target dose. Because this patient is euvolemic with stable blood pressure, normal potassium (4.2 mEq/L), and good renal function (eGFR 68), adding the remaining three foundational classes is strongly indicated."
+      },
+      {
+        "text": "Increase oral furosemide from 40 mg to 80 mg daily to ensure complete suppression of neurohormonal activation",
+        "correct": false,
+        "explanation": "Loop diuretics relieve congestive symptoms, but do NOT reduce mortality or alter disease progression; escalating diuretics in an already euvolemic patient risks prerenal azotemia and hypokalemia."
+      },
+      {
+        "text": "Add oral digoxin 0.25 mg daily to enhance inotropic myocardial contractility and improve ejection fraction",
+        "correct": false,
+        "explanation": "Digoxin reduces hospitalizations in selected patients, but does NOT reduce mortality in HFrEF; foundational quadruple therapy must be established first."
+      },
+      {
+        "text": "Add oral isosorbide dinitrate and hydralazine as preferred initial first-line therapy over renin-angiotensin antagonists",
+        "correct": false,
+        "explanation": "Hydralazine plus oral nitrates is recommended specifically for self-identified Black patients with persistent NYHA class III-IV symptoms despite foundational GDMT, or those intolerant to ARNI/ACEi/ARB; it is not the initial first-line regimen for the general population."
+      },
+      {
+        "text": "Discontinue metoprolol succinate and initiate daily oral diltiazem for superior rate control",
+        "correct": false,
+        "explanation": "Nondihydropyridine calcium channel blockers (diltiazem, verapamil) have negative inotropic effects and worsen outcomes in HFrEF, increasing mortality; they are strictly contraindicated."
+      }
+    ],
+    "explanation": "Foundational GDMT for HFrEF (LVEF <= 40%) requires all four pillar drug classes: (1) ARNI (sacubitril-valsartan, preferred), (2) beta-blocker (metoprolol succinate, carvedilol, bisoprolol), (3) MRA (spironolactone), and (4) SGLT2 inhibitor (dapagliflozin/empagliflozin). All four classes provide independent mortality reduction and should be initiated promptly in euvolemic patients. Loop diuretics relieve symptoms but do not reduce mortality.",
+    "objective": "Implement quadruple foundational guideline-directed medical therapy (ARNI, beta-blocker, MRA, SGLT2 inhibitor) in patients with HFrEF to reduce mortality.",
+    "keyPoints": [
+      "Four pillars of HFrEF mortality reduction: ARNI + beta-blocker + MRA + SGLT2 inhibitor.",
+      "Initiate all four classes rapidly at low doses in stable, euvolemic patients.",
+      "Loop diuretics treat congestion but have zero mortality benefit; nondihydropyridine CCBs are contraindicated."
+    ],
+    "references": [
+      {
+        "label": "2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: Core Medical Therapy",
+        "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0027",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Primary Spontaneous Pneumothorax Management: Large vs Small Thresholds",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 21-year-old tall, slender college student presents to the urgent care clinic with sudden-onset, sharp, right-sided pleuritic chest pain and mild shortness of breath that began 2 hours ago while sitting in class. He has no prior history of pulmonary disease, asthma, or trauma, but smokes 1 pack of cigarettes daily. On examination, he is alert and in mild distress. Vital signs are: blood pressure 124/76 mmHg, heart rate 88/min, respiratory rate 20/min, and oxygen saturation 96% on ambient air. Physical examination reveals decreased breath sounds and hyperresonance to percussion over the right apex, with normal left breath sounds and midline trachea. Upright posterior-anterior chest radiograph reveals a right primary spontaneous pneumothorax with a 3.2-cm visible rim of air between the lung margin and the chest wall at the apex (and a 2.4-cm rim at the level of the hilum). The mediastinum and cardiac silhouette are normal. Which of the following is the most appropriate initial management step for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and observation on ambient air with outpatient clinic follow-up in 1 week without intervention",
+        "correct": false,
+        "explanation": "A large pneumothorax (> 3 cm apex, > 2 cm hilum) fails conservative observation; leaving it untreated risks expansion and tension pneumothorax."
+      },
+      {
+        "text": "Percutaneous needle aspiration or insertion of a small-bore pigtail pleural catheter (<= 14 French)",
+        "correct": true,
+        "explanation": "Primary spontaneous pneumothorax (PSP) occurs in young, tall, thin males without underlying lung disease due to rupture of subpleural apical blebs. Management is determined by clinical stability and the size of the pneumothorax. According to American College of Chest Physicians (ACCP) and British Thoracic Society (BTS) guidelines: (1) A small PSP (< 2 cm between lung margin and chest wall at hilum, or < 3 cm at apex) in a clinically stable, asymptomatic patient can be managed conservatively with supplemental oxygen (which accelerates pleural nitrogen reabsorption fourfold) and observation for 4–6 hours followed by repeat radiography. (2) A large PSP (>= 2 cm at hilum, or >= 3 cm at apex, as present here: 3.2 cm apex, 2.4 cm hilum) or any symptomatic patient warrants active air evacuation: first-line therapy is percutaneous catheter aspiration (needle aspiration) or insertion of a small-bore chest drain (pigtail catheter <= 14 French) attached to a Heimlich one-way valve or water-seal. Large-bore surgical chest tubes (24–28 Fr) are unnecessarily painful and reserved for secondary pneumothorax or hemothorax."
+      },
+      {
+        "text": "Immediate emergent needle decompression in the 2nd intercostal space midclavicular line",
+        "correct": false,
+        "explanation": "Needle decompression is indicated exclusively for TENSION pneumothorax with hemodynamic collapse; this patient is hemodynamically stable with normal BP and midline trachea."
+      },
+      {
+        "text": "Immediate transfer to the operating room for emergency video-assisted thoracoscopic surgery (VATS) pleurodesis",
+        "correct": false,
+        "explanation": "Surgical pleurodesis (VATS wedge resection and mechanical abrasion) is indicated for recurrent pneumothorax (second episode), persistent air leak (> 3-5 days), or high-risk professions (pilots, divers), not an initial first-episode stable PSP."
+      },
+      {
+        "text": "Administration of intravenous broad-spectrum vancomycin and piperacillin-tazobactam for chemical pleuritis",
+        "correct": false,
+        "explanation": "Spontaneous pneumothorax is a mechanical bleb rupture, not an infectious disease; antibiotics have no therapeutic role."
+      }
+    ],
+    "explanation": "Primary spontaneous pneumothorax (PSP) in a stable patient is classified as small (< 2 cm at hilum) or large (>= 2 cm at hilum, or >= 3 cm at apex). Small stable PSPs can be managed with observation and supplemental oxygen. Large PSPs (here 3.2 cm at apex, 2.4 cm at hilum) require active evacuation: first-line is percutaneous needle aspiration or placement of a small-bore pigtail catheter (<= 14 Fr). VATS is reserved for recurrences.",
+    "objective": "Differentiate small from large primary spontaneous pneumothorax and select percutaneous needle aspiration or small-bore catheter evacuation for large stable pneumothorax.",
+    "keyPoints": [
+      "Large PSP (>= 2 cm at hilum or >= 3 cm at apex) requires active evacuation: needle aspiration or pigtail catheter (<= 14 Fr).",
+      "Small stable PSP (< 2 cm) can be managed with observation and high-flow oxygen.",
+      "VATS pleurodesis is indicated for recurrent pneumothorax or persistent air leak."
+    ],
+    "references": [
+      {
+        "label": "Chest 2021 Management of Spontaneous Pneumothorax: An American College of Chest Physicians Guideline",
+        "url": "https://journal.chestnet.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0028",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Acute Cholangitis (Reynolds Pentad) & Emergent ERCP Biliary Decompression",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old woman is brought to the emergency department from an assisted living facility due to acute fever, chills, and progressive confusion over the past 12 hours. Her family reports that she had right upper quadrant discomfort for 2 days. Vital signs are: temperature 39.4 C (102.9 F), blood pressure 82/48 mmHg (refractory to 2 liters of intravenous crystalloids and requiring low-dose norepinephrine infusion), heart rate 124/min, and respiratory rate 24/min. Physical examination reveals an obtunded, jaundiced woman with marked scleral icterus and severe right upper quadrant abdominal tenderness with involuntary guarding. Laboratory testing reveals: leukocytes 22,400/mcL with 24% band forms, total bilirubin 6.8 mg/dL, direct bilirubin 5.4 mg/dL, alkaline phosphatase 540 U/L, AST 180 U/L, and serum lactate 4.4 mmol/L. Emergent right upper quadrant ultrasonography demonstrates cholelithiasis, acoustic shadowing, a common bile duct (CBD) dilated to 14 mm (normal: < 6 mm), and an impacted calculus in the distal common bile duct, without pneumoperitoneum. Broad-spectrum intravenous piperacillin-tazobactam is initiated. Which of the following is the definitive next step in the emergency management of this patient?",
+    "options": [
+      {
+        "text": "Immediate transfer to the operating room for emergency open cholecystectomy with cystic duct ligation",
+        "correct": false,
+        "explanation": "Cholecystectomy removes the gallbladder but does NOT decompress the obstructed, infected common bile duct; operating on an unstable patient in septic shock without clearing the CBD carries prohibitive mortality."
+      },
+      {
+        "text": "Continue intravenous antibiotics and fluid resuscitation and perform elective outpatient ERCP in 2 to 3 weeks",
+        "correct": false,
+        "explanation": "Severe acute cholangitis with septic shock carries nearly 100% mortality without emergent biliary decompression; delaying decompression is fatal."
+      },
+      {
+        "text": "Emergent endoscopic retrograde cholangiopancreatography (ERCP) for biliary sphincterotomy and stone extraction or biliary stent placement",
+        "correct": true,
+        "explanation": "This patient presents with severe, life-threatening acute ascending cholangitis, exhibiting the full Reynolds pentad: (1) Fever, (2) Jaundice, (3) Right upper quadrant abdominal pain (Charcot triad), plus (4) Hypotension/septic shock, and (5) Altered mental status. Acute cholangitis occurs when choledocholithiasis or stricture causes complete biliary outflow obstruction, creating a closed-space, pressurized bacterial infection in the biliary tree (most commonly Escherichia coli, Klebsiella, Enterococcus). High intrabiliary pressure forces bacteria into the hepatic venous circulation, triggering rapid septic shock, multi-organ failure, and death. Once resuscitation and broad-spectrum intravenous antibiotics are started, the mandatory, life-saving definitive therapy is EMERGENT biliary decompression. Endoscopic Retrograde Cholangiopancreatography (ERCP) with endoscopic sphincterotomy and stone removal or biliary stent placement is the preferred gold standard. If ERCP is unavailable, unsuccessful, or contraindicated, percutaneous transhepatic biliary drainage (PTBD) or open surgical decompression is performed."
+      },
+      {
+        "text": "Diagnostic liver biopsy to evaluate for acute intrahepatic drug-induced cholestasis",
+        "correct": false,
+        "explanation": "Invasive liver biopsy in a septic patient with obstructive choledocholithiasis is dangerous and delays life-saving biliary drainage."
+      },
+      {
+        "text": "Magnetic resonance cholangiopancreatography (MRCP) without intravenous contrast to confirm calculus position",
+        "correct": false,
+        "explanation": "MRCP is purely diagnostic; in a patient in septic shock with proven choledocholithiasis on ultrasound, therapeutic ERCP is mandated immediately without delay for MRCP."
+      }
+    ],
+    "explanation": "Acute ascending cholangitis presenting with Reynolds pentad (Charcot triad + septic shock + altered mental status) is a surgical and endoscopic emergency. Biliary obstruction elevates intraductal pressure, seeding bacteria into the systemic circulation. Immediate management mandates: (1) fluid resuscitation, (2) IV broad-spectrum antibiotics (piperacillin-tazobactam), and (3) emergent biliary decompression via ERCP (sphincterotomy/stenting). Cholecystectomy does not decompress the common bile duct.",
+    "objective": "Diagnose severe acute cholangitis (Reynolds pentad) and prioritize emergent biliary decompression with ERCP over cholecystectomy.",
+    "keyPoints": [
+      "Reynolds pentad: Charcot triad (fever, jaundice, RUQ pain) + hypotension + altered mental status.",
+      "Emergency management: resuscitation, broad-spectrum IV antibiotics, and emergent ERCP biliary decompression.",
+      "Cholecystectomy does not clear the common bile duct and is deferred until sepsis resolves."
+    ],
+    "references": [
+      {
+        "label": "Journal of Hepato-Biliary-Pancreatic Sciences 2018 Tokyo Guidelines 2018: Diagnostic Criteria and Severity Grading of Acute Cholangitis",
+        "url": "https://onlinelibrary.wiley.com/journal/18686982"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0029",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Contrast-Associated AKI Prevention & Isotonic Crystalloid Hydration",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old man with a history of long-standing type 2 diabetes mellitus, peripheral artery disease, and stage 3b chronic kidney disease presents for outpatient evaluation of worsening bilateral calf claudication. Invasive lower extremity digital subtraction catheter angiography with iodinated radiocontrast media is scheduled for tomorrow morning. His baseline laboratory values demonstrate: serum creatinine 1.9 mg/dL (baseline eGFR 36 mL/min/1.73m2), blood urea nitrogen 28 mg/dL, and serum potassium 4.6 mEq/L. He is euvolemic on physical examination without peripheral edema or heart failure. Which of the following is the most effective evidence-based pharmacological or fluid management strategy to prevent contrast-associated acute kidney injury (CA-AKI) in this high-risk patient?",
+    "options": [
+      {
+        "text": "Oral N-acetylcysteine (NAC) 1,200 mg twice daily for 48 hours without intravenous hydration",
+        "correct": false,
+        "explanation": "The landmark PRESERVE trial (NEJM 2018) disproved the clinical utility of NAC, demonstrating that NAC provides zero protection against contrast nephropathy, death, or dialysis compared to placebo."
+      },
+      {
+        "text": "Intravenous furosemide 40 mg bolus administered immediately prior to contrast injection to maintain high tubular flow",
+        "correct": false,
+        "explanation": "Administering diuretics induces intravascular volume contraction and medullary ischemia, significantly INCREASING the incidence of contrast-induced nephropathy."
+      },
+      {
+        "text": "Prophylactic high-flux hemodialysis initiated within 2 hours following contrast administration",
+        "correct": false,
+        "explanation": "Prophylactic hemodialysis does not prevent CA-AKI, removes contrast too late after tissue binding, and exposes patients to dialysis-related hemodynamic instability and complications."
+      },
+      {
+        "text": "Intravenous volume expansion with isotonic 0.9% normal saline (or balanced crystalloids) administered before and after radiocontrast exposure, while minimizing contrast volume",
+        "correct": true,
+        "explanation": "Contrast-associated acute kidney injury (CA-AKI) is defined by an increase in serum creatinine >= 0.3 mg/dL or >= 50% from baseline within 48–72 hours following intravascular iodinated contrast exposure. Key risk factors include pre-existing chronic kidney disease (eGFR < 45 mL/min/1.73m2), diabetic nephropathy, volume depletion, and high contrast volume. The primary pathophysiological mechanism is contrast-induced medullary renal vasoconstriction (hypoxia) combined with direct tubular epithelial cytotoxicity and reactive oxygen species generation. Multiple landmark randomized clinical trials (including the AMACING and PRESERVE trials) have demonstrated that: (1) Intravenous isotonic volume expansion with 0.9% normal saline (or sodium bicarbonate) at 1.0–1.5 mL/kg/hr for 3–12 hours prior to and 6–12 hours after contrast exposure is the single proven, guideline-endorsed preventive strategy. Hydration expands intravascular volume, suppresses renin and endothelin, promotes medullary renal perfusion, and dilutes contrast within tubules. (2) Routine use of oral N-acetylcysteine (NAC) was proven completely ineffective and equivalent to placebo in the landmark PRESERVE trial (NEJM 2018). (3) Prophylactic hemodialysis or forced diuresis with furosemide is harmful and ineffective."
+      },
+      {
+        "text": "Oral mannitol solution (20%) administered 1 hour prior to angiography to promote osmotic diuresis",
+        "correct": false,
+        "explanation": "Osmotic diuresis with mannitol causes hypovolemia and worsens medullary ischemic damage; it is not recommended."
+      }
+    ],
+    "explanation": "Contrast-associated acute kidney injury (CA-AKI) is prevented primarily by pre- and post-procedure intravenous isotonic crystalloid hydration (0.9% normal saline at 1.0-1.5 mL/kg/hr for 3-12 hours before and 6-12 hours after) and minimizing contrast volume. The landmark PRESERVE trial (NEJM 2018) demonstrated that oral N-acetylcysteine (NAC) and sodium bicarbonate provide no benefit over normal saline. Furosemide and mannitol worsen renal outcomes.",
+    "objective": "Apply evidence-based prevention for contrast-associated acute kidney injury: intravenous isotonic crystalloid hydration before and after exposure, while recognizing that N-acetylcysteine has no proven efficacy.",
+    "keyPoints": [
+      "Proven CA-AKI prevention: intravenous isotonic crystalloids (0.9% saline) before and after procedure.",
+      "PRESERVE trial: N-acetylcysteine (NAC) is ineffective and equivalent to placebo.",
+      "Diuretics (furosemide, mannitol) worsen CA-AKI by causing volume depletion."
+    ],
+    "references": [
+      {
+        "label": "New England Journal of Medicine 2018 Outcomes after Angiography with Sodium Bicarbonate and Acetylcysteine (PRESERVE Trial)",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1710933"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0030",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Infective Endocarditis & Emergency Valve Surgery Indications (AHA/ACC)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old previously healthy man presents with a 2-week history of high fevers, chills, night sweats, and progressive exertional shortness of breath that acutely worsened over the past 24 hours into orthopnea and paroxysmal nocturnal dyspnea. Vital signs are: temperature 39.1 C, blood pressure 138/52 mmHg (wide pulse pressure), heart rate 108/min, respiratory rate 26/min, and oxygen saturation 91% on 4 L/min nasal cannula. Auscultation reveals a new, blowing, high-pitched decrescendo diastolic murmur heard best at the left sternal border in the 3rd intercostal space, and bilateral bibasilar pulmonary crackles extending to the mid-lung fields. Three sets of blood cultures drawn 1 hour apart all grow Staphylococcus aureus. Emergent transthoracic echocardiogram demonstrates a 14-mm mobile vegetation attached to the aortic valve leaflets, with severe acute aortic regurgitation and premature closure of the mitral valve in diastole (indicating severely elevated left ventricular end-diastolic pressure). Intravenous vancomycin and cefepime are initiated. Which of the following is the most appropriate next step in the definitive management of this patient?",
+    "options": [
+      {
+        "text": "Complete a 6-week course of targeted intravenous antibiotics alone, deferring any surgical consultation until antibiotic therapy is finished",
+        "correct": false,
+        "explanation": "Medical management alone in endocarditis complicated by acute severe aortic regurgitation and pulmonary edema carries prohibitive mortality; early surgical valve replacement is life-saving."
+      },
+      {
+        "text": "Initiate intravenous low-molecular-weight heparin anticoagulation to prevent systemic septic embolization",
+        "correct": false,
+        "explanation": "Anticoagulation in native valve endocarditis is strictly CONTRAINDICATED because it does not prevent septic emboli and dramatically increases the risk of catastrophic intracerebral hemorrhage from mycotic aneurysms."
+      },
+      {
+        "text": "Administer high-dose intravenous dexamethasone boluses to rapidly reduce vegetation size",
+        "correct": false,
+        "explanation": "Corticosteroids have zero efficacy in infective endocarditis and exacerbate systemic bacteremia and immunosuppression."
+      },
+      {
+        "text": "Perform percutaneous catheter-directed aspiration of the aortic valve vegetation using an endovascular snare",
+        "correct": false,
+        "explanation": "Catheter-directed snare aspiration carries an extreme risk of leaflet laceration, aortic rupture, and massive embolization; open surgical valve replacement is required."
+      },
+      {
+        "text": "Emergent or urgent surgical aortic valve replacement or repair during the current hospital admission",
+        "correct": true,
+        "explanation": "According to current AHA/ACC and ESC guidelines for the management of infective endocarditis (IE), emergency (< 24 hours) or urgent (< 72 hours) cardiac surgical valve intervention is strongly indicated in patients with native valve endocarditis who develop any of the following primary surgical criteria: (1) Severe acute valvular regurgitation (or obstruction) causing refractory pulmonary edema, heart failure, or cardiogenic shock (Class 1 indication—the single most common reason for emergency surgery). (2) Uncontrolled local infection (e.g., perivalvular abscess, fistula, pseudoaneurysm, or new heart block). (3) Infection caused by virulent, multi-drug resistant, or fungal pathogens (e.g., fungal endocarditis). (4) Persistent bacteremia or fevers lasting > 5–7 days despite appropriate targeted antimicrobial therapy. (5) Large mobile vegetations (> 10 mm in diameter) that have embolized or are associated with severe regurgitation. Waiting for 4–6 weeks of antibiotics prior to surgery in a patient with severe acute aortic regurgitation and heart failure is a fatal error, as medical therapy alone carries > 70-80% mortality. Early surgery dramatically improves survival."
+      }
+    ],
+    "explanation": "Infective endocarditis with severe acute aortic regurgitation causing acute heart failure / pulmonary edema is a Class 1 indication for emergent surgical valve replacement. Waiting for antibiotic completion in severe acute aortic regurgitation carries extreme mortality. Other surgical indications include perivalvular abscess/fistula, persistent bacteremia, fungal endocarditis, and large vegetations (> 10 mm). Anticoagulation is contraindicated in native valve endocarditis.",
+    "objective": "Identify absolute indications for emergency surgical valve intervention in infective endocarditis: severe acute valvular regurgitation with heart failure, perivalvular abscess, and persistent bacteremia.",
+    "keyPoints": [
+      "Infective endocarditis + acute severe regurgitation with pulmonary edema = emergent surgery.",
+      "Surgery is required during active infection; do not wait for antibiotic completion.",
+      "Anticoagulation is contraindicated in native valve endocarditis due to cerebral hemorrhage risk."
+    ],
+    "references": [
+      {
+        "label": "Circulation 2021 ACC/AHA Guideline for the Management of Patients with Valvular Heart Disease: Infective Endocarditis",
+        "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000923"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0031",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Primary Immune Thrombocytopenia in Adults: Corticosteroid First-Line Therapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old previously healthy woman presents with a 4-day history of spontaneous epistaxis, bleeding gums during tooth brushing, and a widespread pinpoint red rash on both lower extremities. She has had no fever, weight loss, night sweats, joint pain, or prior bleeding diathesis, and takes no medications. Vital signs are normal. Physical examination reveals extensive petechiae over the pretibial shins and ankles, along with scattered superficial ecchymoses on her forearms. There is no lymphadenopathy, hepatosplenomegaly, or joint swelling. Complete blood count reveals: hemoglobin 13.8 g/dL, leukocytes 6,400/mcL with normal differential, and platelets 11,000/mcL. Peripheral blood smear demonstrates marked thrombocytopenia with normal red blood cell and leukocyte morphology, few large giant platelets, and no schistocytes. Routine coagulation studies (PT/INR, aPTT, fibrinogen) and serum creatinine are normal. Testing for HIV, hepatitis C virus, and pregnancy is negative. Which of the following is the most appropriate initial management step for this patient?",
+    "options": [
+      {
+        "text": "Initiate oral corticosteroids (dexamethasone or prednisone) with close outpatient observation",
+        "correct": true,
+        "explanation": "This patient presents with classic primary immune thrombocytopenia (ITP), an acquired autoimmune disorder characterized by IgG autoantibodies directed against platelet membrane glycoproteins (GpIIb/IIIa and GpIb/IX), causing reticuloendothelial destruction in the spleen. Management in adults depends on platelet count and bleeding manifestations: (1) Adults with platelets >= 30,000/mcL and no significant bleeding can be observed safely without treatment. (2) Adults with platelets < 30,000/mcL (here 11,000/mcL) or those with active mucocutaneous bleeding warrant first-line pharmacological therapy: oral corticosteroids (high-dose dexamethasone 40 mg daily for 4 days or oral prednisone 1 mg/kg/day for 1–2 weeks) with or without intravenous immunoglobulin (IVIG). Corticosteroids decrease autoantibody production and reduce splenic macrophage phagocytosis. (3) Prophylactic platelet transfusions are strictly CONTRAINDICATED in non-life-threatening ITP because infused platelets are rapidly destroyed by circulating autoantibodies within minutes, yielding negligible platelet count elevation while exposing the patient to alloimmunization. Platelet transfusions are reserved exclusively for catastrophic, life-threatening hemorrhage (e.g., intracranial hemorrhage)."
+      },
+      {
+        "text": "Administer emergent prophylactic apheresis platelet transfusion to achieve a platelet count > 50,000/mcL",
+        "correct": false,
+        "explanation": "Prophylactic platelet transfusion is ineffective and contraindicated in non-life-threatening ITP because autoantibodies destroy donor platelets within minutes, risking alloimmunization."
+      },
+      {
+        "text": "Perform urgent laparoscopic splenectomy within 24 hours of admission",
+        "correct": false,
+        "explanation": "Splenectomy is a second-line therapy reserved for chronic refractory ITP that fails medical management (steroids, IVIG, and thrombopoietin receptor agonists) for at least 12 months."
+      },
+      {
+        "text": "Administer broad-spectrum intravenous antibiotics and perform emergent plasma exchange",
+        "correct": false,
+        "explanation": "Plasma exchange is the definitive treatment for Thrombotic Thrombocytopenic Purpura (TTP), not ITP; this patient has no schistocytes, microangiopathy, fever, or renal dysfunction."
+      },
+      {
+        "text": "Discontinue all medications and observe without treatment, expecting spontaneous resolution within 4 weeks",
+        "correct": false,
+        "explanation": "Observation without treatment is appropriate for children with ITP who have mild bleeding regardless of count, but adults with platelets < 30,000/mcL require corticosteroid treatment due to higher hemorrhage risk."
+      }
+    ],
+    "explanation": "Primary immune thrombocytopenia (ITP) in adults with platelets < 30,000/mcL or mucocutaneous bleeding requires first-line therapy with oral corticosteroids (dexamethasone or prednisone) +/- IVIG. Prophylactic platelet transfusions are contraindicated because antiplatelet antibodies rapidly clear donor platelets; transfusions are reserved solely for life-threatening bleeding. Splenectomy is second-line after medical failure.",
+    "objective": "Select oral corticosteroids as first-line therapy for adult ITP with platelets < 30,000/mcL and avoid unnecessary prophylactic platelet transfusions.",
+    "keyPoints": [
+      "Adult ITP with platelets < 30,000/mcL or bleeding: first-line therapy is corticosteroids +/- IVIG.",
+      "Platelet transfusions are contraindicated in routine ITP; donor platelets are cleared within minutes.",
+      "Splenectomy is second-line therapy for chronic refractory ITP after medical therapy failure."
+    ],
+    "references": [
+      {
+        "label": "Blood Advances 2019 American Society of Hematology 2019 Guidelines for Immune Thrombocytopenia (ITP)",
+        "url": "https://ashpublications.org/bloodadvances/article/3/23/3829/429212"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0032",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Primary Hyperparathyroidism: Surgical Parathyroidectomy Indications",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old woman presents for an annual routine physical examination. She feels entirely well and has no fatigue, weakness, bone pain, abdominal discomfort, constipation, polyuria, polydipsia, or history of kidney stones. She takes no medications or supplements. Vital signs are normal. Physical examination is entirely unremarkable, with no palpable neck masses. Routine comprehensive metabolic panel reveals: serum calcium 11.4 mg/dL (reference: 8.5–10.2 mg/dL), albumin 4.1 g/dL, serum phosphorus 2.3 mg/dL (reference: 2.5–4.5 mg/dL), and creatinine 0.8 mg/dL (eGFR 98 mL/min/1.73m2). Serum intact parathyroid hormone (PTH) is elevated at 108 pg/mL (reference: 15–65 pg/mL). Twenty-four-hour urinary calcium excretion is 280 mg/day (calcium-to-creatinine clearance ratio > 0.02, ruling out familial hypocalciuric hypercalcemia). Dual-energy X-ray absorptiometry (DEXA) demonstrates normal bone mineral density with T-scores > -1.0 at the lumbar spine, femoral neck, and distal 33% radius. Which of the following is the most appropriate management recommendation for this patient?",
+    "options": [
+      {
+        "text": "Reassure the patient and manage expectantly with annual serum calcium and biennial DEXA monitoring without surgery",
+        "correct": false,
+        "explanation": "Expectant monitoring is inappropriate because the patient meets definitive surgical guidelines (age < 50 and calcium > 1.0 mg/dL above normal); surgery prevents long-term complications."
+      },
+      {
+        "text": "Recommend parathyroidectomy based on patient age younger than 50 years",
+        "correct": true,
+        "explanation": "Primary hyperparathyroidism (PHPT) is most commonly caused by a solitary benign parathyroid adenoma (80–85%) producing autonomous PTH secretion. While many patients are diagnosed incidentally and are clinically asymptomatic, international consensus guidelines establish definitive criteria for parathyroidectomy in asymptomatic PHPT: (1) Age < 50 years (indicated in this patient who is 46 years old, because younger patients face decades of progressive bone loss, nephrolithiasis, and vascular calcification), (2) Serum calcium > 1.0 mg/dL above the upper limit of normal (> 11.2 mg/dL), (3) Skeletal involvement: T-score <= -2.5 at lumbar spine, hip, or distal 1/3 radius, or vertebral fracture on imaging, (4) Renal involvement: eGFR < 60 mL/min/1.73m2, 24-hour urine calcium > 400 mg/day, or presence of nephrolithiasis/nephrocalcinosis on imaging. Because this patient meets two surgical criteria (age 46 [< 50] AND serum calcium 11.4 mg/dL [> 1.0 mg/dL above ULN]), curative parathyroidectomy is strongly recommended. Preoperative localization (e.g., ultrasound and Tc-99m sestamibi SPECT/CT) is performed prior to minimally invasive parathyroidectomy."
+      },
+      {
+        "text": "Initiate daily oral cinacalcet calcimimetic therapy as curative definitive management",
+        "correct": false,
+        "explanation": "Cinacalcet lowers serum calcium by allosterically activating the calcium-sensing receptor, but it does NOT cure the adenoma or improve bone density; it is reserved for patients who are poor surgical candidates."
+      },
+      {
+        "text": "Prescribe high-dose oral alendronate bisphosphonate monotherapy and advise dietary calcium restriction",
+        "correct": false,
+        "explanation": "Bisphosphonates may reduce bone resorption but do not address autonomous PTH secretion; dietary calcium restriction is contraindicated as it stimulates PTH release."
+      },
+      {
+        "text": "Prescribe oral furosemide 40 mg daily to promote continuous urinary calcium clearance",
+        "correct": false,
+        "explanation": "Loop diuretics promote calciuria in acute hypercalcemic crisis with volume expansion, but have no role in outpatient chronic PHPT and exacerbate dehydration and nephrolithiasis."
+      }
+    ],
+    "explanation": "Guidelines for parathyroidectomy in asymptomatic primary hyperparathyroidism recommend surgery if any of the following are met: (1) Age < 50 years, (2) Serum calcium > 1.0 mg/dL above ULN (> 11.2 mg/dL), (3) T-score <= -2.5 at any site or vertebral fracture, or (4) eGFR < 60 mL/min, 24-hr urine Ca > 400 mg/day, or nephrolithiasis/nephrocalcinosis. This 46-year-old patient meets criteria based on both age < 50 and calcium > 1.0 mg/dL above normal.",
+    "objective": "Apply evidence-based surgical indications for parathyroidectomy in asymptomatic primary hyperparathyroidism (age < 50, calcium > 1 mg/dL above ULN, osteoporosis, or renal impairment).",
+    "keyPoints": [
+      "Asymptomatic primary hyperparathyroidism surgical criteria: age < 50, Ca > 1.0 mg/dL above ULN, T-score <= -2.5, eGFR < 60, or kidney stones.",
+      "Parathyroidectomy is the only definitive cure for primary hyperparathyroidism.",
+      "Cinacalcet is reserved for non-surgical candidates; it does not improve bone mineral density."
+    ],
+    "references": [
+      {
+        "label": "Journal of Bone and Mineral Research 2022 Guidelines for the Management of Asymptomatic Primary Hyperparathyroidism",
+        "url": "https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4649"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0033",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Ruptured Abdominal Aortic Aneurysm & Immediate Surgical Exploration",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 71-year-old man with a 45-pack-year smoking history and hypertension is brought to the emergency department by paramedics after suddenly collapsing at home. He complains of excruciating, tearing mid-abdominal and severe left flank pain radiating to the back. En route, he received 500 mL of normal saline. On arrival, he is pale, diaphoretic, and confused. Vital signs are: blood pressure 78/46 mmHg, heart rate 126/min, and oxygen saturation 94% on ambient air. Physical examination reveals a distended abdomen with a large, exquisitely tender, expansile, pulsatile mass palpated in the epigastrium and periumbilical region. Femoral pulses are diminished bilaterally. Bedside point-of-care focused abdominal ultrasonography reveals a 6.8-cm infrarenal aortic dilation with disruption of the aortic wall and free hypoechoic retroperitoneal and peritoneal fluid. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Immediate transport to the radiology suite for emergent contrast-enhanced computed tomography angiography (CTA)",
+        "correct": false,
+        "explanation": "Transporting an unstable, hypotensive patient with suspected ruptured AAA to the CT scanner causes fatal delay and scanner arrest; CTA is reserved exclusively for hemodynamically stable patients."
+      },
+      {
+        "text": "Rapid infusion of 4 liters of intravenous normal saline to restore systolic blood pressure to > 130 mmHg",
+        "correct": false,
+        "explanation": "Aggressive crystalloid resuscitation causes dilutional coagulopathy, hypothermia, and \"pops the clot,\" drastically accelerating lethal retroperitoneal hemorrhage; permissive hypotension (SBP 70–90) is standard."
+      },
+      {
+        "text": "Immediate transfer to the operating room for emergency open or endovascular surgical aneurysm repair",
+        "correct": true,
+        "explanation": "This patient presents with the classic triad of a ruptured abdominal aortic aneurysm (AAA): (1) Severe, acute abdominal/back/flank pain, (2) Hypotension/syncope (hemodynamic instability), and (3) A pulsatile, tender abdominal mass. In a hemodynamically unstable patient with a known or ultrasound-confirmed AAA, the single most critical, life-saving next step is IMMEDIATE transfer to the operating room for emergent surgical repair (open surgical or emergency endovascular aneurysm repair [EVAR]). Key resuscitation principles include \"permissive hypotension\" (maintaining systolic BP around 70–90 mmHg to avoid dislodging soft thrombus and worsening internal hemorrhage; aggressive crystalloid resuscitation is fatal), immediate blood product preparation (massive transfusion protocol with 1:1:1 PRBC, FFP, platelets), and zero diagnostic delay. Obtaining a formal CT angiography is strictly CONTRAINDICATED in hemodynamically unstable patients, as patients will arrest in the radiology scanner."
+      },
+      {
+        "text": "Administer intravenous labetalol boluses to achieve tight heart rate and blood pressure control",
+        "correct": false,
+        "explanation": "Antihypertensive therapy is indicated for acute aortic dissection in hypertensive patients, but is catastrophic and fatal in ruptured AAA with profound hemorrhagic hypotension (BP 78/46)."
+      },
+      {
+        "text": "Placement of a transjugular intrahepatic portosystemic shunt (TIPS) for decompression",
+        "correct": false,
+        "explanation": "TIPS treats portal hypertension and refractory variceal bleeding, which is irrelevant to ruptured infrarenal aortic aneurysm."
+      }
+    ],
+    "explanation": "A ruptured abdominal aortic aneurysm (AAA) is characterized by acute abdominal/flank pain, pulsatile mass, and hypotension. In hemodynamically unstable patients with ultrasound-confirmed ruptured AAA, immediate transfer to the operating room for surgical repair is mandatory. CT angiography is contraindicated in unstable patients because delay causes death in the scanner. Resuscitation requires permissive hypotension (SBP 70-90 mmHg) and massive transfusion protocol.",
+    "objective": "Prioritize immediate operating room transfer for emergency repair in hemodynamically unstable patients with ruptured abdominal aortic aneurysm without delaying for CT imaging.",
+    "keyPoints": [
+      "Ruptured AAA triad: sudden severe abdominal/back pain, hypotension, pulsatile abdominal mass.",
+      "Hemodynamically unstable patient with confirmed AAA -> immediate operating room repair; do NOT send for CT scan.",
+      "Permissive hypotension (SBP 70-90 mmHg) prevents clot disruption and dilution until surgical control."
+    ],
+    "references": [
+      {
+        "label": "Journal of Vascular Surgery 2020 Society for Vascular Surgery (SVS) Practice Guidelines on the Care of Patients with an Abdominal Aortic Aneurysm",
+        "url": "https://www.jvascsurg.org/article/S0741-5214(19)32130-9/fulltext"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0034",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Acute Epiglottitis & Controlled Airway Management in Operating Room",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 3-year-old unimmunized boy is brought to the emergency department by his parents due to rapid-onset high fever, difficulty swallowing, and noisy breathing that developed over the past 6 hours. He appears toxic, anxious, and sits leaning forward with his neck hyperextended and chin thrust forward (\"tripod\" position), with saliva continuously drooling from his open mouth. He refuses to lie down or drink fluids. Vital signs are: temperature 39.8 C (103.6 F), blood pressure 96/60 mmHg, heart rate 158/min, respiratory rate 38/min, and oxygen saturation 93% on ambient air. Inspiratory stridor and mild suprasternal retractions are noted. Which of the following is the most appropriate initial management step for this child?",
+    "options": [
+      {
+        "text": "Examine the posterior oropharynx with a tongue blade under direct visualization to confirm supraglottic swelling",
+        "correct": false,
+        "explanation": "Direct visual examination of the pharynx with a tongue depressor in un-intubated epiglottitis risks acute laryngospasm and complete fatal airway obstruction; it is strictly contraindicated."
+      },
+      {
+        "text": "Place the child in the supine position and establish two large-bore peripheral intravenous lines for blood cultures",
+        "correct": false,
+        "explanation": "Forcing the child into a supine position or causing distress with venipuncture can cause immediate cardiorespiratory arrest from airway collapse."
+      },
+      {
+        "text": "Transport the child unaccompanied to the radiology department for upright lateral neck radiography (\"thumbprint\" sign)",
+        "correct": false,
+        "explanation": "Radiographs are unnecessary and dangerous in clinically obvious epiglottitis; sending an unmonitored child to radiology risks unattended airway collapse."
+      },
+      {
+        "text": "Keep the child calm in the parent's lap and immediately notify anesthesia and otolaryngology for emergent airway securement in the operating room",
+        "correct": true,
+        "explanation": "This child presents with life-threatening acute epiglottitis (most commonly caused by Haemophilus influenzae type b [Hib] in unimmunized children, or Streptococcus pneumoniae, Staphylococcus aureus, or Group A Streptococcus). Clinical features include the classic 4 \"Ds\": Dysphagia, Dysphonia, Drooling, and Distress, alongside high fever, toxic appearance, tripod positioning, and inspiratory stridor. Acute inflammatory supraglottic edema can progress abruptly to total airway obstruction, respiratory arrest, and death. Management mandates strict adherence to the following emergency protocol: (1) Maintain the child in a position of comfort (preferably sitting upright in a parent's lap) and avoid ANY anxiety-provoking interventions (do NOT examine the pharynx with a tongue depressor, do NOT perform pharyngeal swabs, do NOT attempt venipuncture or IV lines in the ED, and do NOT separate the child from parents), as acute agitation can trigger immediate fatal laryngospasm. (2) Immediately mobilize the \"difficult airway team\" (senior anesthesiologist and otolaryngologist) to transport the patient directly to the operating room for controlled endotracheal intubation (or emergency tracheostomy/cricothyrotomy if intubation fails). (3) Blood cultures and IV broad-spectrum antibiotics (ceftriaxone plus vancomycin) are initiated ONLY after the airway is securely established."
+      },
+      {
+        "text": "Administer nebulized racemic epinephrine and high-dose oral dexamethasone, then observe in the emergency department",
+        "correct": false,
+        "explanation": "Racemic epinephrine and dexamethasone treat subglottic croup (laryngotracheobronchitis), not acute bacterial supraglottitis; relying on them delays life-saving surgical airway securement."
+      }
+    ],
+    "explanation": "Acute epiglottitis is a pediatric airway emergency characterized by high fever, toxic appearance, tripod positioning, drooling, dysphagia, and stridor. Management requires keeping the child calm in the parent's lap and avoiding all agitating interventions (no tongue depressors, no venipuncture, no supine positioning, no transport to radiology) while mobilizing anesthesia and ENT for urgent controlled endotracheal intubation in the operating room.",
+    "objective": "Prioritize controlled airway securement in the operating room for acute epiglottitis while avoiding agitation or direct pharyngeal examination.",
+    "keyPoints": [
+      "Acute epiglottitis 4 Ds: Drooling, Dysphagia, Dysphonia, Distress with high fever and tripod posture.",
+      "Do NOT use a tongue depressor, perform venipuncture, or separate from parents—agitation triggers fatal laryngospasm.",
+      "Immediate airway securement in the operating room with anesthesia and ENT is top priority."
+    ],
+    "references": [
+      {
+        "label": "Pediatrics in Review 2021 Epiglottitis and Pediatric Stridor Emergencies",
+        "url": "https://publications.aap.org/pediatricsinreview/article/42/1/18/35222"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0035",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Preterm Premature Rupture of Membranes (PPROM) Management at 31 Weeks",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old woman, gravida 2, para 1, at 31 weeks gestation presents to the labor and delivery unit reporting a sudden gush of clear fluid from her vagina followed by continuous leaking for the past 3 hours. She reports good fetal movement and denies contractions, vaginal bleeding, fever, or abdominal pain. Vital signs are: temperature 37.0 C, blood pressure 114/72 mmHg, heart rate 78/min, and respiratory rate 16/min. Sterile speculum examination demonstrates clear fluid pooling in the posterior vaginal fornix; nitrazine paper turns dark blue (pH > 6.5), and microscopic examination of the dried fluid reveals arborization (\"ferning\"). Digital cervical examination is withheld. Tocodynamometry shows no uterine contractions, and continuous fetal cardiotocography reveals a baseline fetal heart rate of 140/min with moderate variability and no decelerations. Transabdominal ultrasound reveals severe oligohydramnios (amniotic fluid index: 2.1 cm) and an intact fetus with estimated fetal weight appropriate for gestational age. There is no uterine tenderness or purulent discharge. Which of the following is the most appropriate management plan for this patient?",
+    "options": [
+      {
+        "text": "Perform immediate emergency cesarean delivery to prevent intrauterine infection",
+        "correct": false,
+        "explanation": "Immediate delivery at 31 weeks without evidence of chorioamnionitis or fetal compromise unnecessarily exposes the premature neonate to severe complications of extreme prematurity; expectant management to 34 weeks is standard."
+      },
+      {
+        "text": "Perform digital cervical examination to assess dilation and effacement before formulating a management plan",
+        "correct": false,
+        "explanation": "Digital vaginal examinations in PPROM significantly increase the risk of ascending intra-amniotic infection and shorten latency; speculum examination alone is performed."
+      },
+      {
+        "text": "Administer subcutaneous terbutaline tocolysis continuously for 14 days to prevent preterm labor",
+        "correct": false,
+        "explanation": "Tocolysis is controversial in PPROM and may be used only short-term (up to 48 hours) to permit steroid and magnesium administration; maintenance tocolysis beyond 48 hours is ineffective and harmful."
+      },
+      {
+        "text": "Induce labor immediately with intravenous oxytocin infusion and oral misoprostol",
+        "correct": false,
+        "explanation": "Induction of labor at 31 weeks is indicated only for overt chorioamnionitis, abruption, or nonreassuring fetal status; uncomplicated PPROM is managed expectantly until 34 weeks."
+      },
+      {
+        "text": "Administer latency antibiotics (intravenous ampicillin and erythromycin), intramuscular betamethasone, and intravenous magnesium sulfate, with expectant management until 34 weeks",
+        "correct": true,
+        "explanation": "This patient has confirmed preterm premature rupture of membranes (PPROM) at 31 weeks gestation, verified by pooling, positive nitrazine test, and microscopic ferning. Management of PPROM is strictly dictated by gestational age and the presence or absence of complications (intra-amniotic infection/chorioamnionitis, abruption, nonreassuring fetal status): (1) In the absence of infection, abruption, or fetal distress, expectant management is recommended between 24 and 33 6/7 weeks to prolong latency and reduce the risks of prematurity. (2) Standard guideline-directed medical therapy includes: (a) Latency antibiotics: a 7-day course of IV ampicillin and erythromycin (or oral azithromycin) followed by oral amoxicillin and erythromycin; this prolongs pregnancy latency, decreases maternal chorioamnionitis, and reduces neonatal sepsis, intraventricular hemorrhage, and respiratory distress syndrome. (b) Antenatal corticosteroids: IM betamethasone (two doses 24 hours apart) to accelerate fetal pulmonary maturity. (c) Magnesium sulfate infusion: indicated for neuroprotection against cerebral palsy for anticipated delivery prior to 32 weeks gestation. (d) Expectant management until 34 weeks gestation, at which time delivery is routinely indicated because the risk of infection outweighs the benefits of further prolongation. Digital cervical examinations are strictly avoided to prevent introducing ascending infection."
+      }
+    ],
+    "explanation": "Management of uncomplicated PPROM between 24 and 34 weeks gestation consists of: (1) Latency antibiotics (IV ampicillin and erythromycin) to prolong latency and prevent infection, (2) Antenatal corticosteroids (betamethasone) for lung maturation, (3) Magnesium sulfate for fetal neuroprotection if < 32 weeks, and (4) Expectant monitoring until 34 weeks gestation, at which time delivery is indicated. Digital vaginal exams are contraindicated.",
+    "objective": "Apply evidence-based management of preterm premature rupture of membranes (PPROM) < 34 weeks: latency antibiotics, corticosteroids, magnesium sulfate (< 32 weeks), and expectant management until 34 weeks.",
+    "keyPoints": [
+      "PPROM at 24–34 weeks without infection: expectant management until 34 weeks.",
+      "Core therapies: latency antibiotics (ampicillin + erythromycin/azithromycin), betamethasone, and MgSO4 (< 32w).",
+      "Never perform digital vaginal exams in PPROM—use sterile speculum exam only."
+    ],
+    "references": [
+      {
+        "label": "Obstetrics & Gynecology 2020 ACOG Practice Bulletin No. 217: Prelabor Rupture of Membranes",
+        "url": "https://journals.lww.com/greenjournal/abstract/2020/03000/prelabor_rupture_of_membranes__acog_practice.35.aspx"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0036",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Psychotic Depression: Combination Antidepressant-Antipsychotic Therapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old accountant is brought to the outpatient psychiatric clinic by his wife due to profound behavioral changes over the past 6 weeks. The patient reports pervasive depressed mood, anhedonia, severe insomnia with early morning awakening, marked psychomotor retardation, and an unintentional 14-lb weight loss. Over the past 2 weeks, he has become convinced that the Federal Bureau of Investigation is monitoring his thoughts and that he has committed an unforgivable financial crime that has permanently bankrupt his entire family, despite bank statements proving normal finances. He states, \"My internal organs are rotting because of the sins I committed, and I deserve to be executed.\" He denies substance use or prior psychiatric hospitalizations. Physical examination and routine laboratory studies (including thyroid function, toxicology screen, and brain MRI) are entirely normal. Which of the following is the most appropriate first-line pharmacotherapeutic regimen for this patient?",
+    "options": [
+      {
+        "text": "Initiate an antidepressant (such as sertraline) in combination with a second-generation antipsychotic (such as olanzapine)",
+        "correct": true,
+        "explanation": "This patient meets DSM-5-TR diagnostic criteria for Major Depressive Disorder with Psychotic Features (psychotic depression). The presentation is characterized by a full major depressive episode accompanied by delusions (mood-congruent somatic delusions of organ decay/sin and persecutory delusions). Psychotic depression is a severe, distinct psychiatric entity associated with high suicide risk, prolonged morbidity, and cognitive impairment. The definitive first-line treatment is COMBINATION therapy with an antidepressant (e.g., an SSRI like sertraline or escitalopram, or an SNRI like venlafaxine) PLUS a second-generation atypical antipsychotic (e.g., olanzapine, quetiapine, or risperidone). Monotherapy with an antidepressant alone or an antipsychotic alone is significantly inferior and has very low remission rates (< 20–30%). In cases of severe nutritional compromise (refusing food/water), catatonia, or acute high suicide risk, Electroconvulsive Therapy (ECT) is the first-line therapy of choice due to its rapid and robust efficacy."
+      },
+      {
+        "text": "Initiate sertraline monotherapy and titrate to the maximum therapeutic dose before considering antipsychotics",
+        "correct": false,
+        "explanation": "Antidepressant monotherapy is ineffective for psychotic depression, producing poor remission rates (< 30%) and leaving psychotic delusions and high suicide risk untreated."
+      },
+      {
+        "text": "Initiate olanzapine monotherapy and withhold antidepressant therapy to prevent mood destabilization",
+        "correct": false,
+        "explanation": "Antipsychotic monotherapy treats psychotic symptoms but fails to treat underlying core depressive illness and carries inadequate long-term remission rates."
+      },
+      {
+        "text": "Initiate outpatient psychodynamic psychotherapy and supportive group therapy without pharmacotherapy",
+        "correct": false,
+        "explanation": "Psychotherapy alone is completely ineffective and inappropriate for severe major depression with psychosis, which is a neurobiological medical emergency."
+      },
+      {
+        "text": "Prescribe oral alprazolam as needed for somatic delusions and anxiety",
+        "correct": false,
+        "explanation": "Benzodiazepines do not treat depression or psychosis and carry high addiction and disinhibition risks."
+      }
+    ],
+    "explanation": "Major depressive disorder with psychotic features requires combination therapy with an antidepressant (SSRI or SNRI) PLUS a second-generation antipsychotic (olanzapine, quetiapine, risperidone), or electroconvulsive therapy (ECT). Monotherapy with an antidepressant alone or antipsychotic alone is ineffective. ECT is first-line in patients with severe suicidality, catatonia, or food refusal.",
+    "objective": "Select combination therapy (antidepressant plus second-generation antipsychotic) or ECT for major depressive disorder with psychotic features and avoid monotherapy.",
+    "keyPoints": [
+      "MDD with psychotic features requires antidepressant + second-generation antipsychotic combination.",
+      "Antidepressant monotherapy and antipsychotic monotherapy have poor efficacy in psychotic depression.",
+      "ECT is preferred for severe suicidality, catatonia, or life-threatening dehydration/starvation."
+    ],
+    "references": [
+      {
+        "label": "American Journal of Psychiatry 2020 Pharmacotherapy for Major Depressive Disorder with Psychotic Features",
+        "url": "https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp.2019.19020141"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0037",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Acute Compartment Syndrome & Emergent Decompressive Fasciotomy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old motorcyclist is brought to the emergency department after a collision resulting in a closed, displaced mid-shaft fracture of the right tibia and fibula. The fracture is temporarily immobilized in a posterior plaster splint. Six hours after presentation, he complains of severe, excruciating pain in his right calf that is completely unresponsive to multiple doses of intravenous hydromorphone. On physical examination, the right lower leg is tensely swollen, indurated, and warm. Passive extension of the right great toe and passive dorsiflexion of the right ankle elicit agonizing, severe pain out of proportion to physical findings. He reports diminished sensation to light touch in the first web space of the right foot. Distal dorsalis pedis and posterior tibial pulses are palpable and 2+ bilaterally, with capillary refill less than 2 seconds. The patient's blood pressure is 118/76 mmHg. A needle compartment pressure monitor inserted into the anterior tibial compartment reveals an intracompartmental pressure of 52 mmHg (delta pressure = 24 mmHg). Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Elevate the right lower extremity above the level of the heart and apply compressive elastic bandages",
+        "correct": false,
+        "explanation": "Elevation of the extremity above heart level reduces arterial perfusion pressure into the compromised compartment, drastically worsening tissue ischemia; it is strictly contraindicated."
+      },
+      {
+        "text": "Immediate transfer to the operating room for emergency decompressive four-compartment fasciotomy",
+        "correct": true,
+        "explanation": "This patient has acute compartment syndrome of the lower extremity, a surgical emergency characterized by increased interstitial tissue pressure within an enclosed osteofascial muscle compartment, which compromises capillary perfusion and leads to irreversible muscle and nerve necrosis within 4–6 hours. The earliest and most sensitive clinical finding is severe pain out of proportion to the injury, exacerbated markedly by passive stretch of the involved muscles. Paresthesia (e.g., deep peroneal nerve distribution in the first web space) indicates early nerve ischemia. A critical clinical pearl is that distal pulses and capillary refill remain NORMAL in early to moderate compartment syndrome, because intracompartmental pressures (40–60 mmHg) easily exceed capillary perfusion pressure but do not exceed systolic arterial blood pressure (118 mmHg). Diagnostic confirmation is established when absolute compartment pressure exceeds 30 mmHg or when the \"delta pressure\" (diastolic blood pressure minus intracompartmental pressure: 76 - 52 = 24 mmHg) is <= 30 mmHg. The definitive, limb-saving treatment is emergent decompressive fasciotomy of all four compartments (anterior, lateral, superficial posterior, and deep posterior). Elevation of the leg above the heart is contraindicated because it further reduces arterial perfusion pressure."
+      },
+      {
+        "text": "Administer intravenous high-dose mannitol to reduce intracellular compartment edema",
+        "correct": false,
+        "explanation": "Osmotic diuresis with mannitol does not decompress a rigid fascial space and wastes precious minutes leading to permanent neuromuscular infarction."
+      },
+      {
+        "text": "Perform emergent surgical open reduction and internal fixation (ORIF) of the tibial fracture without opening the fascia",
+        "correct": false,
+        "explanation": "Rigid fracture fixation without decompressive fasciotomy traps ischemic muscle under extreme pressure, guaranteeing Volkmann contracture and limb amputation."
+      },
+      {
+        "text": "Increase intravenous opioid analgesia and repeat compartment pressure measurements in 6 hours",
+        "correct": false,
+        "explanation": "A delta pressure <= 30 mmHg is an absolute indication for emergency fasciotomy; delaying intervention for 6 hours causes irreversible ischemic necrosis and nerve death."
+      }
+    ],
+    "explanation": "Acute compartment syndrome is characterized by pain out of proportion to exam, pain with passive stretch, tensely swollen compartment, and paresthesias. Distal pulses are typically PRESERVED because intracompartmental pressure exceeds capillary pressure but not systolic arterial pressure. A delta pressure (diastolic BP - compartment pressure) <= 30 mmHg confirms compartment syndrome and mandates emergent decompressive fasciotomy of all four compartments.",
+    "objective": "Recognize acute compartment syndrome by pain out of proportion, pain on passive stretch, and delta pressure <= 30 mmHg, and perform emergent four-compartment fasciotomy.",
+    "keyPoints": [
+      "Early sign of compartment syndrome: severe pain out of proportion to injury, aggravated by passive stretch.",
+      "Distal pulses remain palpable because systolic pressure exceeds compartment pressure.",
+      "Delta pressure (diastolic BP - compartment pressure) <= 30 mmHg = emergent decompressive fasciotomy."
+    ],
+    "references": [
+      {
+        "label": "Journal of Bone and Joint Surgery 2020 Acute Compartment Syndrome of the Lower Extremity",
+        "url": "https://journals.lww.com/jbjsjournal/abstract/2020/09160/acute_compartment_syndrome.8.aspx"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0038",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Giant Cell Arteritis & Immediate Systemic Corticosteroids Before Biopsy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 72-year-old woman presents to the clinic with a 2-week history of persistent, throbbing, right-sided temporal headache, malaise, and morning stiffness in her shoulders and hips that lasts for 90 minutes. Over the past 48 hours, she has noticed severe fatigue and cramping in her jaw muscles when chewing meat or bread (jaw claudication). Yesterday evening, she experienced a transient 10-minute episode of complete, painless visual blackout in her right eye that spontaneously resolved (amaurosis fugax). Physical examination reveals a thickened, nodular, tender, and minimally pulsatile right superficial temporal artery. Visual acuity and funduscopic examination are currently normal. Laboratory evaluation demonstrates: erythrocyte sedimentation rate (ESR) 104 mm/hr (reference: < 30 mm/hr) and C-reactive protein (CRP) 48 mg/L (reference: < 5 mg/L). Which of the following is the most appropriate next step in the management of this patient?",
+    "options": [
+      {
+        "text": "Schedule an outpatient unilateral temporal artery biopsy and withhold corticosteroid therapy until histopathology confirms vasculitis",
+        "correct": false,
+        "explanation": "Withholding corticosteroids to await biopsy results carries an unacceptable risk of sudden, irreversible bilateral blindness; steroids must be started immediately."
+      },
+      {
+        "text": "Initiate intravenous low-molecular-weight heparin anticoagulation for suspected transient ischemic attack",
+        "correct": false,
+        "explanation": "Amaurosis fugax in this setting is caused by vasculitic ischemia, not thromboembolism; heparin does not treat vasculitis and does not prevent ischemic optic neuropathy."
+      },
+      {
+        "text": "Administer high-dose systemic corticosteroids (oral prednisone 60 mg daily or intravenous methylprednisolone) immediately, followed by scheduling a temporal artery biopsy",
+        "correct": true,
+        "explanation": "This patient presents with classic signs and symptoms of Giant Cell Arteritis (GCA; temporal arteritis), a large- and medium-vessel granulomatous vasculitis affecting branches of the carotid artery (particularly the superficial temporal, ophthalmic, and posterior ciliary arteries) in individuals >= 50 years of age. Key diagnostic clues include new localized headache, scalp tenderness, jaw claudication (the most specific symptom, indicating masseter ischemia), polymyalgia rheumatica symptoms, dramatically elevated inflammatory markers (ESR > 50–100 mm/hr, CRP), and transient monocular visual loss (amaurosis fugax). GCA is a true medical emergency: inflammation of the posterior ciliary arteries can cause anterior ischemic optic neuropathy, resulting in sudden, irreversible, permanent blindness in up to 15–20% of untreated patients, frequently followed rapidly by contralateral eye involvement within days. Management dictates IMMEDIATE administration of high-dose systemic corticosteroids (oral prednisone 40–60 mg daily, or high-dose IV pulse methylprednisolone if active visual symptoms/amaurosis fugax are present) BEFORE obtaining diagnostic confirmation with a temporal artery biopsy. Biopsy results remain histopathologically reliable for up to 2–4 weeks after steroid initiation. Delaying steroids to await biopsy is a catastrophic error."
+      },
+      {
+        "text": "Perform emergent lumbar puncture to rule out subacute bacterial or viral meningoencephalitis",
+        "correct": false,
+        "explanation": "Lumbar puncture does not evaluate temporal arteritis and causes unnecessary diagnostic delay in a patient with localized temporal artery tenderness and jaw claudication."
+      },
+      {
+        "text": "Prescribe oral sumatriptan and topiramate for atypical refractory migraine headache",
+        "correct": false,
+        "explanation": "Triptans are contraindicated in vasculopathy and do not treat giant cell arteritis; failing to give steroids leads to permanent blindness."
+      }
+    ],
+    "explanation": "Giant cell arteritis (GCA) is a medical emergency due to the risk of irreversible blindness from anterior ischemic optic neuropathy. In patients with high clinical suspicion (new headache, jaw claudication, tender temporal artery, elevated ESR > 50), high-dose corticosteroids (prednisone 60 mg/day or IV methylprednisolone for visual symptoms) must be initiated IMMEDIATELY before temporal artery biopsy. Steroids do not alter biopsy histopathology for 2-4 weeks.",
+    "objective": "Initiate immediate high-dose corticosteroids in suspected giant cell arteritis to prevent permanent blindness before obtaining a temporal artery biopsy.",
+    "keyPoints": [
+      "GCA: new headache, scalp tenderness, jaw claudication, amaurosis fugax, ESR > 50 mm/hr.",
+      "Administer high-dose corticosteroids immediately to prevent irreversible bilateral blindness.",
+      "Do not delay corticosteroid treatment for temporal artery biopsy; biopsy remains positive for 2–4 weeks."
+    ],
+    "references": [
+      {
+        "label": "Arthritis & Rheumatology 2021 American College of Rheumatology Guideline for the Management of Giant Cell Arteritis",
+        "url": "https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/art.41774"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0039",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Moderate-to-Severe Croup: Nebulized Racemic Epinephrine & Dexamethasone",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 18-month-old boy is brought to the emergency department at 2:00 AM by his parents due to harsh, noisy breathing and a barking cough that worsened progressively over the past 2 days following an initial mild rhinorrhea and low-grade fever. On physical examination, the child is alert and sitting up. Vital signs are: temperature 38.1 C (100.6 F), blood pressure 92/58 mmHg, heart rate 142/min, respiratory rate 36/min, and oxygen saturation 93% on ambient room air. He has a harsh, seal-like barking cough, hoarse vocalization, and audible inspiratory stridor while resting calmly in his father's lap, accompanied by moderate subcostal and intercostal retractions. Anterior-posterior neck radiograph reveals symmetric subglottic narrowing (\"steeple sign\"). Which of the following is the most appropriate initial pharmacological management for this child?",
+    "options": [
+      {
+        "text": "Administer oral amoxicillin-clavulanate and send the patient home with cool mist humidifier recommendations",
+        "correct": false,
+        "explanation": "Croup is caused by viral parainfluenza; antibacterial therapy is ineffective. Mild humidified air provides symptomatic comfort but is completely inadequate for stridor at rest."
+      },
+      {
+        "text": "Administer nebulized albuterol every 20 minutes for 3 doses and initiate oral prednisolone",
+        "correct": false,
+        "explanation": "Albuterol is a selective beta-2 agonist that bronchodilates lower airways in asthma, but has zero alpha-1 vasoconstrictor effect on subglottic upper airway edema and may cause tachycardia."
+      },
+      {
+        "text": "Perform emergent endotracheal intubation in the emergency department",
+        "correct": false,
+        "explanation": "Endotracheal intubation is reserved strictly for impending respiratory failure (exhaustion, lethargy, severe hypoxia, cyanosis); > 95% of moderate-to-severe croup responds rapidly to nebulized epinephrine and dexamethasone."
+      },
+      {
+        "text": "Administer nebulized racemic epinephrine and a single dose of oral (or intramuscular) dexamethasone",
+        "correct": true,
+        "explanation": "This child presents with moderate-to-severe croup (laryngotracheobronchitis), the most common pediatric cause of upper airway obstruction, typically caused by parainfluenza virus types 1 or 3. Viral infection causes mucosal edema and inflammation of the subglottic larynx and trachea, manifesting with the classic triad of a barking cough, hoarseness, and inspiratory stridor. Croup severity is classified based on stridor and retractions: (1) Mild croup: barking cough and hoarseness, with NO stridor at rest and no retractions; treated with a single dose of oral dexamethasone (0.15–0.60 mg/kg) and outpatient supportive care. (2) Moderate-to-severe croup: audible inspiratory stridor AT REST, with tachypnea, subcostal/intercostal retractions, or agitation (as present in this child). Management requires: (a) Nebulized racemic epinephrine (or L-epinephrine): stimulates mucosal alpha-1 adrenergic receptors, causing rapid capillary vasoconstriction, decreasing subglottic mucosal edema within 10–30 minutes, and relieving critical airway obstruction. (b) Oral or intramuscular dexamethasone (0.6 mg/kg): provides sustained anti-inflammatory effect that prevents rebound airway edema after the epinephrine effect wanes (typically at 2 hours). Patients must be observed in the emergency department for at least 2–4 hours after racemic epinephrine to ensure resolution without rebound stridor before discharge."
+      },
+      {
+        "text": "Administer intravenous vancomycin and cefotaxime for suspected bacterial tracheitis",
+        "correct": false,
+        "explanation": "Bacterial tracheitis presents with high toxic fever, purulent airway secretions, and failure to respond to racemic epinephrine; this child has classic viral croup."
+      }
+    ],
+    "explanation": "Moderate-to-severe croup (laryngotracheobronchitis) is characterized by inspiratory stridor AT REST, barking cough, and retractions. First-line emergency management is nebulized racemic epinephrine (which induces rapid alpha-1 mediated subglottic vasoconstriction) PLUS a single dose of systemic dexamethasone (oral or IM). Patients are observed for 2-4 hours to monitor for rebound airway obstruction.",
+    "objective": "Select nebulized racemic epinephrine combined with dexamethasone for moderate-to-severe croup with inspiratory stridor at rest.",
+    "keyPoints": [
+      "Croup triad: barking cough, hoarseness, and inspiratory stridor, usually caused by parainfluenza virus.",
+      "Stridor at rest indicates moderate-to-severe croup: treat with nebulized racemic epinephrine + dexamethasone.",
+      "Observe for at least 2–4 hours post-epinephrine to rule out rebound upper airway obstruction."
+    ],
+    "references": [
+      {
+        "label": "New England Journal of Medicine 2018 Acute Croup in Children",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMcp1710926"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0040",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Shoulder Dystocia: McRoberts Maneuver & Suprapubic Pressure Management",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 32-year-old gravida 3, para 2 woman with gestational diabetes mellitus managed with diet and insulin at 39 weeks gestation is in the second stage of labor. Following 45 minutes of active pushing, the fetal head delivers over the perineum, but immediately retracts tightly against the maternal vulva and perineum (\"turtle sign\"). Gentle downward maternal traction on the fetal head fails to effect delivery of the anterior shoulder, which is impacted behind the maternal symphysis pubis. Which of the following is the most appropriate next step in the emergency management of this delivery?",
+    "options": [
+      {
+        "text": "Instruct an assistant to apply firm, downward maternal fundal pressure to force the impacted shoulder through the pelvic inlet",
+        "correct": false,
+        "explanation": "Applying fundal pressure during shoulder dystocia is strictly contraindicated; it further impacts the anterior shoulder behind the symphysis, causes brachial plexus avulsion, and causes uterine rupture."
+      },
+      {
+        "text": "Apply forceful downward and lateral traction on the fetal head to dislodge the anterior shoulder",
+        "correct": false,
+        "explanation": "Excessive traction on the fetal neck stretches and ruptures the brachial plexus (C5-C6 roots), causing permanent Erb palsy."
+      },
+      {
+        "text": "Immediately push the fetal head back into the pelvis and perform an emergent cesarean section as the first-line intervention",
+        "correct": false,
+        "explanation": "The Zavanelli maneuver (replacing fetal head followed by cesarean delivery) is a catastrophic last-resort maneuver reserved only after all external and internal rotational maneuvers have failed."
+      },
+      {
+        "text": "Administer high-dose intravenous oxytocin bolus to augment uterine contractile force",
+        "correct": false,
+        "explanation": "Oxytocin increases uterine resting tone and impacts the shoulder further without relieving the mechanical obstruction."
+      },
+      {
+        "text": "Instruct the mother to stop pushing, call for emergency obstetric assistance, and immediately perform the McRoberts maneuver while an assistant applies firm suprapubic pressure",
+        "correct": true,
+        "explanation": "This presentation represents shoulder dystocia, an acute obstetric emergency where the anterior fetal shoulder becomes mechanically impacted against the maternal pubic symphysis following delivery of the fetal head. Risk factors include maternal diabetes mellitus, fetal macrosomia, maternal obesity, post-term pregnancy, and prolonged second stage. It carries severe risks of neonatal brachial plexus injury (Erb-Duchenne palsy), clavicular/humeral fractures, hypoxic-ischemic encephalopathy, and maternal perineal lacerations or hemorrhage. Management follows the HELPERR protocol: (1) Call for help (obstetrician, pediatrician, anesthesia), instruct the mother to STOP pushing, and avoid ANY excessive downward traction or twisting of the fetal head. (2) The first-line physical maneuver is the McRoberts maneuver: hyperflexing the maternal hips tightly against the maternal abdomen, which rotates the symphysis pubis cephalad, flattens the sacral promontory, and widens the pelvic outlet. (3) Concurrently, an assistant applies firm suprapubic pressure (directed downward and laterally) to push the anterior shoulder under the pubic bone. (4) Fundal pressure is strictly CONTRAINDICATED because it impacts the shoulder further and risks uterine rupture. Subsequent secondary maneuvers include the Woods screw maneuver, delivery of the posterior arm, and episiotomy if needed for internal hand access."
+      }
+    ],
+    "explanation": "Shoulder dystocia (indicated by the turtle sign) is an obstetric emergency. The initial management consists of: (1) Calling for assistance, (2) Stopping maternal pushing, (3) Performing the McRoberts maneuver (hyperflexion of maternal hips), and (4) Applying suprapubic pressure to dislodge the anterior shoulder. Fundal pressure is strictly contraindicated as it causes uterine rupture and severe brachial plexus injury.",
+    "objective": "Implement emergency management of shoulder dystocia: McRoberts maneuver and suprapubic pressure, while avoiding fundal pressure or excessive fetal head traction.",
+    "keyPoints": [
+      "Shoulder dystocia: turtle sign after delivery of head indicates anterior shoulder impaction.",
+      "Initial steps: call for help, McRoberts maneuver (hip hyperflexion), and suprapubic pressure.",
+      "Fundal pressure and forceful downward traction are contraindicated due to uterine rupture and brachial plexus injury risks."
+    ],
+    "references": [
+      {
+        "label": "Obstetrics & Gynecology 2020 ACOG Practice Bulletin No. 178: Shoulder Dystocia",
+        "url": "https://journals.lww.com/greenjournal/abstract/2017/05000/practice_bulletin_no__178__shoulder_dystocia.47.aspx"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0041",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Anaphylaxis Management: Intramuscular Epinephrine & Refractory Dosing Protocol",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old college student is brought to the emergency department by friends 15 minutes after consuming a baked pastry at a restaurant. He has a known severe peanut allergy. On arrival, he exhibits severe respiratory distress, audible inspiratory stridor, diffuse urticarial plaques covering his trunk and extremities, and profound lip and tongue angioedema. Vital signs are: blood pressure 72/42 mmHg, heart rate 136/min, respiratory rate 30/min, and oxygen saturation 88% on ambient air. The triage nurse immediately administers intramuscular epinephrine 0.3 mg (1:1,000 dilution) into the mid-outer anterolateral thigh, places the patient in the recumbent position, and starts high-flow oxygen via a non-rebreather mask. Ten minutes later, despite the initial injection, the patient remains profoundly hypotensive (blood pressure 76/44 mmHg), with persistent stridor, wheezing, and lightheadedness. Which of the following is the most appropriate next step in the emergency management of this patient?",
+    "options": [
+      {
+        "text": "Administer a second dose of intramuscular epinephrine into the anterolateral thigh and initiate rapid intravenous isotonic crystalloid boluses",
+        "correct": true,
+        "explanation": "Anaphylaxis is an acute, life-threatening, multi-system type I IgE-mediated hypersensitivity reaction characterized by massive mast cell and basophil degranulation with systemic histamine, leukotriene, and prostaglandin release. Intramuscular (IM) epinephrine (1:1,000, 0.3–0.5 mg in adults) injected into the vastus lateralis (anterolateral thigh) is the single first-line, life-saving drug. Epinephrine provides alpha-1 mediated vasoconstriction (reversing hypotension and mucosal edema), beta-1 positive inotropy/chronotropy, and beta-2 bronchodilation while directly stabilizing mast cell membranes to arrest mediator release. In approximately 10–20% of severe anaphylactic reactions, a single dose of epinephrine is insufficient. Guidelines state that if symptoms and hypotension persist or deteriorate after 5–15 minutes, a REPEAT dose of IM epinephrine should be administered immediately into the opposite thigh, along with aggressive intravenous isotonic crystalloid fluid resuscitation (1–2 liters of normal saline or lactated Ringer) to combat distributive shock caused by widespread vascular extravasation. If shock persists after multiple IM doses, an intravenous epinephrine infusion is titrated under continuous cardiac monitoring. Antihistamines and corticosteroids are adjunctive secondary agents that do not treat laryngeal edema or shock and must never delay repeat epinephrine."
+      },
+      {
+        "text": "Administer intravenous diphenhydramine 50 mg and methylprednisolone 125 mg and withhold further epinephrine",
+        "correct": false,
+        "explanation": "Antihistamines and systemic corticosteroids are adjunctive agents with slow onset of action (hours); they do not treat bronchospasm, laryngeal edema, or shock, and must never delay repeat epinephrine."
+      },
+      {
+        "text": "Place the patient in a high Fowler sitting position to maximize lung expansion and ease work of breathing",
+        "correct": false,
+        "explanation": "Placing a hypotensive anaphylactic patient upright precipitates \"empty heart syndrome\" (catastrophic loss of venous return) and sudden cardiac arrest; patients must remain recumbent with legs elevated."
+      },
+      {
+        "text": "Administer subcutaneous epinephrine 0.3 mg into the deltoid muscle",
+        "correct": false,
+        "explanation": "Subcutaneous injection and deltoid administration achieve significantly slower peak plasma concentrations compared to intramuscular injection into the highly vascular vastus lateralis."
+      },
+      {
+        "text": "Administer inhaled albuterol nebulization as monotherapy to manage upper airway obstruction",
+        "correct": false,
+        "explanation": "Albuterol acts selectively on beta-2 receptors in the lower airways and has no alpha-1 vasoconstrictor action to relieve life-threatening upper airway laryngeal edema or distributive shock."
+      }
+    ],
+    "explanation": "In severe anaphylaxis refractory to an initial dose of intramuscular epinephrine after 5-15 minutes, the mandatory next step is administering a REPEAT dose of intramuscular epinephrine into the anterolateral thigh combined with aggressive IV isotonic crystalloids (1-2 L) for distributive shock. If shock remains refractory, continuous IV epinephrine infusion is initiated. Antihistamines and steroids are secondary adjunctive agents that do not treat shock.",
+    "objective": "Prioritize repeat intramuscular epinephrine and aggressive intravenous crystalloid hydration for refractory anaphylactic shock.",
+    "keyPoints": [
+      "IM epinephrine (anterolateral thigh) is the primary life-saving treatment for anaphylaxis.",
+      "If shock or airway compromise persists after 5–15 minutes, repeat IM epinephrine immediately.",
+      "Aggressive IV crystalloids treat massive third-spacing; antihistamines and steroids are adjunctive only."
+    ],
+    "references": [
+      {
+        "label": "Journal of Allergy and Clinical Immunology 2020 Anaphylaxis: A Practice Parameter Update",
+        "url": "https://www.jacionline.org/article/S0091-6749(20)30105-6/fulltext"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0042",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Severe Hyperkalemia with ECG Changes: Intravenous Calcium Membrane Stabilization",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man with end-stage renal disease on hemodialysis presents to the emergency department after missing his last two scheduled dialysis sessions due to transportation issues. He reports generalized muscle weakness and fatigue. Vital signs are: blood pressure 156/88 mmHg, heart rate 46/min, respiratory rate 18/min, and oxygen saturation 97% on ambient air. Physical examination reveals an arteriovenous fistula in the left forearm with a palpable thrill and diminished bilateral deep tendon reflexes. Emergent laboratory evaluation demonstrates: serum potassium 7.6 mEq/L (reference: 3.5–5.0 mEq/L), blood urea nitrogen 84 mg/dL, and serum creatinine 7.2 mg/dL. A 12-lead electrocardiogram demonstrates sinus bradycardia, tall symmetrical peaked T waves, prolongation of the PR interval, and marked widening of the QRS complex (142 ms). Which of the following is the most appropriate immediate first step in the management of this patient?",
+    "options": [
+      {
+        "text": "Administer intravenous regular insulin 10 units with 50 mL of 50% dextrose",
+        "correct": false,
+        "explanation": "Insulin plus glucose shifts potassium intracellularly to lower serum levels, but it takes 15–30 minutes to work; membrane stabilization with IV calcium must precede it to prevent fatal ventricular arrest."
+      },
+      {
+        "text": "Administer intravenous calcium gluconate (or calcium chloride) under continuous cardiac monitoring",
+        "correct": true,
+        "explanation": "Severe hyperkalemia (potassium > 6.5–7.0 mEq/L, or any hyperkalemia with electrocardiographic changes) is a medical emergency that carries an immediate risk of fatal arrhythmias (sine-wave pattern, ventricular fibrillation, and asystole). ECG abnormalities progress sequentially: peaked T waves -> PR prolongation / loss of P waves -> QRS widening -> sine-wave formation -> cardiac arrest. The immediate, absolute first step in management is intravenous membrane stabilization with calcium gluconate (or calcium chloride via central access). Calcium antagonizes the cardiotoxic effects of hyperkalemia by raising the cardiac myocyte action potential threshold, restoring the normal resting-to-threshold voltage difference and stabilizing the myocardial cell membrane within 1–3 minutes, protecting against ventricular fibrillation. Crucially, calcium has NO effect on serum potassium concentration. Once the membrane is stabilized, therapies to shift potassium into cells (intravenous regular insulin with 50% dextrose, nebulized albuterol, and sodium bicarbonate if metabolic acidosis is present) are administered, followed by definitive potassium elimination (emergent hemodialysis in anuric ESRD patients, loop diuretics in functioning kidneys, or potassium binders like patiromer/sodium zirconium cyclosilicate)."
+      },
+      {
+        "text": "Administer oral sodium zirconium cyclosilicate (Lokelma) and await intestinal elimination",
+        "correct": false,
+        "explanation": "Oral gastrointestinal potassium binders take several hours to lower potassium and have zero role in emergency cardiac stabilization."
+      },
+      {
+        "text": "Immediately transfer the patient to the hemodialysis unit without pre-treatment medications",
+        "correct": false,
+        "explanation": "Transferring the patient to dialysis without immediate calcium membrane stabilization risks fatal ventricular fibrillation during transit and machine setup."
+      },
+      {
+        "text": "Administer intravenous furosemide 80 mg bolus to promote urinary potassium excretion",
+        "correct": false,
+        "explanation": "Loop diuretics require functioning renal parenchyma and are completely ineffective in anuric end-stage renal disease patients."
+      }
+    ],
+    "explanation": "Hyperkalemia with electrocardiographic changes (peaked T waves, PR prolongation, wide QRS) is a life-threatening emergency. The mandatory first step is IV calcium gluconate (or calcium chloride) to stabilize cardiac myocyte resting membrane potential within minutes, preventing ventricular fibrillation. IV calcium does NOT lower serum potassium; it is immediately followed by intracellular shifting agents (insulin + dextrose) and definitive elimination (hemodialysis in ESRD).",
+    "objective": "Prioritize intravenous calcium gluconate for cardiac membrane stabilization in severe hyperkalemia with ECG changes before initiating potassium-lowering therapies.",
+    "keyPoints": [
+      "ECG changes in hyperkalemia (peaked T waves, wide QRS) mandate immediate IV calcium.",
+      "IV calcium stabilizes myocardial membranes within 1–3 minutes but does NOT lower serum potassium.",
+      "Follow calcium with intracellular shifters (insulin + glucose) and definitive removal (hemodialysis)."
+    ],
+    "references": [
+      {
+        "label": "Circulation 2020 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care: Hyperkalemia",
+        "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000916"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0043",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "High-Risk Solitary Pulmonary Nodule: Tissue Biopsy vs Surveillance",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man presents to the clinic for evaluation of an incidental chest finding. He was seen in the emergency department 1 week ago following a minor motor vehicle collision, where a non-contrast trauma chest CT revealed a solitary 1.8-cm non-calcified, spiculated nodule in the right upper pulmonary lobe. He has no cough, hemoptysis, chest pain, dyspnea, fever, or weight loss. His past medical history is significant for coronary artery disease and hypertension. He has a 42-pack-year cigarette smoking history and continues to smoke 1 pack daily. Physical examination reveals clear lung fields bilaterally and no cervical or supraclavicular lymphadenopathy. Previous chest radiographs from 5 years ago are retrieved and show clear lung fields with no visible nodules. Which of the following is the most appropriate next step in the clinical management of this patient's pulmonary nodule?",
+    "options": [
+      {
+        "text": "Schedule low-dose serial non-contrast chest CT surveillance in 6 to 12 months to assess for volumetric growth",
+        "correct": false,
+        "explanation": "Watchful waiting with follow-up CT is appropriate only for low-risk, small nodules (< 6-8 mm) or non-smokers; a 1.8-cm spiculated upper-lobe nodule in a heavy smoker requires immediate tissue evaluation."
+      },
+      {
+        "text": "Prescribe a 14-day course of oral levofloxacin and repeat chest radiography in 6 weeks to rule out infectious infiltrate",
+        "correct": false,
+        "explanation": "Empiric antibiotics for an asymptomatic, non-calcified spiculated nodule in a heavy smoker is an outdated, dangerous practice that delays lung cancer diagnosis."
+      },
+      {
+        "text": "Perform 18F-fluorodeoxyglucose positron emission tomography (FDG-PET/CT) or obtain tissue biopsy / surgical wedge resection",
+        "correct": true,
+        "explanation": "This patient presents with a solitary pulmonary nodule (SPN; discrete parenchymal opacity <= 3 cm surrounded by normal lung). Management of an SPN is determined by assessing the pretest probability of malignancy based on patient and radiographic characteristics: (1) High-risk patient characteristics: older age (> 60 years), heavy smoking history (42 pack-years), family history of lung cancer, and occupational asbestos exposure. (2) High-risk radiographic features: size > 8 mm (here 1.8 cm / 18 mm), spiculated or corona radiata borders, upper lobe location, ground-glass or subsolid attenuation, absence of benign calcification (e.g., popcorn, concentric, diffuse), and absence of stability on prior imaging over 2 years. Based on Fleischner Society and ACCP guidelines, a nodule with high pretest probability of malignancy (> 65% risk) requires definitive tissue diagnosis: either 18F-FDG PET/CT scan to assess metabolic activity and mediastinal staging, followed by percutaneous transthoracic needle biopsy, bronchoscopy with endobronchial ultrasound (EBUS), or direct video-assisted thoracoscopic surgery (VATS) excisional wedge resection. Serial CT surveillance at 3–6 months is strictly contraindicated in high-risk nodules > 8 mm, as it delays curable early-stage lung cancer resection."
+      },
+      {
+        "text": "Perform sputum cytology and expectorant acid-fast bacillus cultures",
+        "correct": false,
+        "explanation": "Sputum cytology has extremely low sensitivity (< 20–30%) for peripheral solitary pulmonary nodules and should not replace tissue biopsy or PET-CT."
+      },
+      {
+        "text": "Reassure the patient that the nodule is benign because he has no respiratory symptoms or hemoptysis",
+        "correct": false,
+        "explanation": "Early-stage resectable lung cancers are completely asymptomatic; relying on symptoms to suspect malignancy results in metastatic presentation."
+      }
+    ],
+    "explanation": "A solitary pulmonary nodule > 8 mm with high-risk features (spiculated margins, upper lobe location, older age, heavy smoking history) has a high probability of malignancy. According to Fleischner Society guidelines, high-risk nodules mandate 18F-FDG PET/CT and/or tissue biopsy / surgical excision (VATS wedge resection). Serial CT surveillance is inappropriate for high-risk nodules > 8 mm, and empiric antibiotics cause dangerous diagnostic delay.",
+    "objective": "Select PET-CT or tissue biopsy/resection for high-risk solitary pulmonary nodules (> 8 mm, spiculated borders, smoker) rather than low-risk surveillance.",
+    "keyPoints": [
+      "Solitary pulmonary nodule > 8 mm with spiculated borders in a smoker = high pretest malignancy risk.",
+      "High-risk nodules mandate FDG-PET/CT, tissue biopsy, or surgical resection (VATS).",
+      "Do not perform serial CT surveillance or give empiric antibiotics for high-risk nodules."
+    ],
+    "references": [
+      {
+        "label": "Radiology 2017 Guidelines for Management of Incidental Pulmonary Nodules Detected on CT Images: From the Fleischner Society 2017",
+        "url": "https://pubs.rsna.org/doi/10.1148/radiol.2017161659"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0044",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Hypertrophic Pyloric Stenosis: Preoperative Fluid & Electrolyte Resuscitation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 4-week-old first-born male infant is brought to the pediatric emergency department by his mother due to progressively forceful, non-bilious vomiting after every feeding over the past 5 days. The mother states that he is constantly ravenous and vigorously latches onto the bottle immediately after vomiting. Birth and maternal prenatal history were uncomplicated. On physical examination, the infant appears lethargic with sunken anterior fontanelle, dry oral mucous membranes, and decreased skin turgor. A firm, mobile, non-tender, 1.5-cm olive-shaped mass is palpated in the right upper quadrant just lateral to the rectus abdominis. Abdominal ultrasonography confirms hypertrophic pyloric stenosis with a pyloric muscle thickness of 4.5 mm (normal: < 3 mm) and channel length of 18 mm (normal: < 14 mm). Serum chemistry demonstrates: sodium 131 mEq/L, potassium 2.9 mEq/L, chloride 84 mEq/L, bicarbonate 34 mEq/L, BUN 28 mg/dL, and serum creatinine 0.7 mg/dL. Arterial blood gas reveals pH 7.52 and pCO2 44 mmHg. Which of the following is the most appropriate next step in the clinical management of this infant?",
+    "options": [
+      {
+        "text": "Transfer the infant immediately to the operating room for emergency Ramstedt pyloromyotomy within 2 hours of arrival",
+        "correct": false,
+        "explanation": "Pyloromyotomy is not a surgical emergency; operating on an infant with severe metabolic alkalosis and hypokalemia induces life-threatening anesthetic apnea and cardiac arrhythmias."
+      },
+      {
+        "text": "Place a nasogastric tube and perform emergent upper gastrointestinal barium fluoroscopy to rule out malrotation",
+        "correct": false,
+        "explanation": "Ultrasound has already confirmed hypertrophic pyloric stenosis; barium fluoroscopy is redundant, exposes the infant to radiation, and risks barium aspiration."
+      },
+      {
+        "text": "Administer oral atropine sulfate drops to relax the hypertrophied pyloric circular smooth muscle",
+        "correct": false,
+        "explanation": "Endoscopic balloon dilation or medical atropine is inferior, slow, and reserved only when surgery is strictly contraindicated."
+      },
+      {
+        "text": "Initiate intravenous fluid resuscitation with isotonic crystalloid followed by 5% dextrose in 0.45% saline with potassium chloride until serum electrolytes and bicarbonate normalize, then perform pyloromyotomy",
+        "correct": true,
+        "explanation": "Infantile hypertrophic pyloric stenosis (IHPS) is characterized by hypertrophy of the pyloric circular smooth muscle, causing gastric outlet obstruction. Classic features include non-bilious projectile vomiting in a hungry infant aged 3–6 weeks and a palpable \"olive\" mass. Loss of gastric hydrochloric acid and water leads to hypochloremic, hypokalemic metabolic alkalosis with secondary volume depletion. In response to hypovolemia, aldosterone acts on renal collecting ducts to reabsorb sodium in exchange for potassium and hydrogen ions, resulting in severe potassium depletion and paradoxical aciduria. The single most important surgical principle in IHPS is that pyloromyotomy (Ramstedt pyloromyotomy) is NEVER a surgical emergency—it is a MEDICAL emergency requiring complete electrolyte and acid-base resuscitation PRIOR to surgery. Administering general anesthesia to an alkalotic, hypokalemic infant causes fatal postoperative hypoventilation and central apnea (alkalosis blunts central chemoreceptor respiratory drive). Fluid management begins with an isotonic saline bolus (20 mL/kg) for shock, followed by maintenance fluid with 5% dextrose in 0.45% saline plus potassium chloride (20–40 mEq/L) once urine output is verified, until serum chloride > 100 mEq/L, bicarbonate < 28 mEq/L, and potassium > 4.0 mEq/L."
+      },
+      {
+        "text": "Administer intravenous sodium bicarbonate infusion to correct paradoxical aciduria",
+        "correct": false,
+        "explanation": "The infant has severe systemic metabolic alkalosis (pH 7.52, bicarbonate 34); administering sodium bicarbonate is lethal."
+      }
+    ],
+    "explanation": "Infantile hypertrophic pyloric stenosis causes hypochloremic, hypokalemic metabolic alkalosis from persistent vomiting of gastric HCl. Pyloromyotomy is a medical, not surgical, emergency: surgery must be DEFERRED until dehydration and electrolyte derangements are fully corrected with IV fluids and potassium. Anesthesia during uncorrected metabolic alkalosis carries high risk of central apnea and cardiac arrest.",
+    "objective": "Prioritize intravenous fluid and electrolyte correction over immediate surgery in infantile hypertrophic pyloric stenosis to prevent postoperative anesthetic apnea.",
+    "keyPoints": [
+      "Pyloric stenosis causes hypochloremic, hypokalemic metabolic alkalosis with paradoxical aciduria.",
+      "Pyloromyotomy is NOT an emergency; surgical correction is performed only AFTER electrolytes normalize.",
+      "Operating on an uncorrected alkalotic infant risks catastrophic postoperative respiratory depression/apnea."
+    ],
+    "references": [
+      {
+        "label": "Pediatrics in Review 2020 Hypertrophic Pyloric Stenosis in Infants",
+        "url": "https://publications.aap.org/pediatricsinreview/article/41/8/414/35078"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0045",
+    "exam": "Step 2 CK",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Guillain-Barré Syndrome: Serial Respiratory Parameter Monitoring & Immunotherapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man presents to the emergency department with a 3-day history of progressive tingling in his toes and fingers followed by symmetrical weakness in both lower extremities that has now progressed to involve his arms. Two weeks ago, he had a self-limited diarrheal illness after a barbecue. Vital signs are: blood pressure 138/84 mmHg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98% on room air. Neurological examination reveals bilateral, symmetrical lower motor neuron weakness (muscle strength 3/5 in lower extremities, 4/5 in upper extremities), absent deep tendon reflexes (patellar, Achilles, and biceps 0/4), and mild stocking-glove vibratory sensation loss. Lumbar puncture demonstrates: opening pressure 140 mm H2O, protein 168 mg/dL (reference: 15–45 mg/dL), leukocytes 2/mcL (albuminocytologic dissociation), and normal glucose. Which of the following is the most critical immediate step in the ongoing clinical management of this patient?",
+    "options": [
+      {
+        "text": "Initiate high-dose intravenous methylprednisolone 1,000 mg daily for 5 days to reduce nerve root inflammation",
+        "correct": false,
+        "explanation": "Multiple randomized controlled trials have proven that systemic corticosteroids (IV or oral) are completely ineffective in Guillain-Barré syndrome and may actually delay recovery."
+      },
+      {
+        "text": "Rely on continuous pulse oximetry and initiate arterial blood gas testing only if oxygen saturation drops below 92%",
+        "correct": false,
+        "explanation": "Pulse oximetry is a late and dangerous indicator of neuromuscular respiratory failure; mechanics fail and CO2 retention occurs long before hypoxia develops."
+      },
+      {
+        "text": "Administer intravenous pyridostigmine to enhance acetylcholine transmission at the neuromuscular junction",
+        "correct": false,
+        "explanation": "Pyridostigmine is an acetylcholinesterase inhibitor used for myasthenia gravis; it has zero efficacy in autoimmune peripheral demyelinating neuropathy and increases airway secretions."
+      },
+      {
+        "text": "Administer oral ciprofloxacin to eradicate persistent gastrointestinal Campylobacter colonisation",
+        "correct": false,
+        "explanation": "GBS is a post-infectious autoimmune phenomenon occurring weeks after the enteric infection has resolved; antibiotics do not alter the neurological course."
+      },
+      {
+        "text": "Perform serial bedside spirometry measuring forced vital capacity (FVC) and negative inspiratory force (NIF), and initiate intravenous immunoglobulin (IVIG) or plasma exchange",
+        "correct": true,
+        "explanation": "This patient presents with Guillain-Barré Syndrome (GBS; acute inflammatory demyelinating polyradiculoneuropathy [AIDP]), most commonly triggered by molecular mimicry following Campylobacter jejuni enteritis (anti-GM1/GD1a ganglioside antibodies). Hallmarks are symmetric ascending flaccid quadriparesis, hyporeflexia/areflexia, and CSF albuminocytologic dissociation (elevated protein with normal cell count). The single greatest life-threatening complication of GBS is acute neuromuscular respiratory failure due to diaphragm and intercostal muscle paralysis, occurring in up to 30% of patients. Crucially, pulse oximetry and arterial blood gases remain deceptively normal until catastrophic sudden respiratory arrest occurs. Therefore, the single most critical management priority is SERIAL bedside monitoring of respiratory mechanics: (1) Forced Vital Capacity (FVC) and (2) Negative Inspiratory Force (NIF, or maximal inspiratory pressure). Indications for preemptive ICU admission and elective endotracheal intubation include: FVC < 15–20 mL/kg (or > 30% drop), NIF worse than -30 cm H2O (i.e., -20 to 0 cm H2O), or vital capacity < 1 liter. Disease-modifying therapy is IVIG (0.4 g/kg/day for 5 days) OR plasmapheresis (plasma exchange); both have equivalent efficacy. Corticosteroids are completely INEFFECTIVE and not recommended."
+      }
+    ],
+    "explanation": "Guillain-Barré Syndrome (ascending weakness, areflexia, albuminocytologic dissociation) carries a 30% risk of acute neuromuscular respiratory failure. Monitoring requires SERIAL measurements of forced vital capacity (FVC) and negative inspiratory force (NIF), as pulse oximetry remains normal until terminal arrest. First-line disease-modifying treatment is IVIG or plasmapheresis. Corticosteroids are ineffective in GBS.",
+    "objective": "Prioritize serial pulmonary mechanics monitoring (FVC and NIF) and immunotherapy (IVIG or plasmapheresis) in Guillain-Barré syndrome while recognizing corticosteroids are ineffective.",
+    "keyPoints": [
+      "GBS triad: ascending weakness, hyporeflexia/areflexia, and CSF albuminocytologic dissociation.",
+      "Monitor respiratory mechanics with serial FVC and NIF; pulse oximetry drops too late.",
+      "First-line immunotherapy: IVIG or plasmapheresis (equivalent efficacy); corticosteroids are ineffective."
+    ],
+    "references": [
+      {
+        "label": "Lancet Neurology 2021 Guillain-Barré Syndrome: Diagnosis, Treatment, and Prognosis",
+        "url": "https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(20)30444-4/fulltext"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0046",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Fetal Growth Restriction & Umbilical Artery Doppler Absent End-Diastolic Flow",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old primigravida at 32 weeks gestation presents for a scheduled maternal-fetal medicine follow-up ultrasound. She has chronic hypertension controlled on oral labetalol. Routine anatomical survey at 20 weeks was normal. Today, serial biometric ultrasonography reveals severe fetal growth restriction (FGR): estimated fetal weight is at the 2nd percentile for gestational age, and amniotic fluid index is 3.4 cm (oligohydramnios). Umbilical artery Doppler velocimetry demonstrates persistent absent end-diastolic flow (AEDF). Fetal cardiotocography demonstrates a reactive nonstress test with a baseline heart rate of 145/min, moderate variability, and two 15-beat accelerations lasting 15 seconds. Maternal blood pressure is 134/82 mmHg, and she has no proteinuria, headache, or visual changes. Which of the following is the most appropriate management plan for this pregnancy?",
+    "options": [
+      {
+        "text": "Administer intramuscular antenatal betamethasone, admit for continuous inpatient fetal surveillance, and deliver at 33 to 34 weeks (or sooner if testing deteriorates)",
+        "correct": true,
+        "explanation": "Fetal growth restriction (FGR; estimated fetal weight < 10th percentile) is most commonly caused by uteroplacental insufficiency. When placental vascular resistance rises due to obliteration of tertiary stem villi, blood flow through the umbilical artery in diastole progressively diminishes, progressing from decreased end-diastolic flow -> Absent End-Diastolic Flow (AEDF) -> Reversed End-Diastolic Flow (REDF). Umbilical artery Doppler velocimetry is the primary surveillance tool that guides delivery timing: (1) Absent end-diastolic velocity reflects >= 70% obliteration of the placental microvasculature, placing the fetus at extreme risk of intrauterine acidosis and stillbirth. (2) According to SMFM and ACOG guidelines, persistent AEDF at or beyond 32 0/7 weeks gestation is an indication for: (a) Hospital admission and close inpatient surveillance (daily nonstress testing / biophysical profiles), (b) Administration of antenatal corticosteroids (betamethasone) to accelerate fetal lung maturation, and (c) Delivery at 33 0/7 to 34 0/7 weeks gestation (or immediately if reversed end-diastolic flow [REDF] develops, if the biophysical profile is <= 4/10, or if nonreassuring testing occurs). (3) Expectant outpatient management to 37–39 weeks in the presence of AEDF carries an unacceptable risk of fetal demise."
+      },
+      {
+        "text": "Reassure the patient based on the reactive nonstress test and schedule repeat outpatient ultrasound in 4 weeks",
+        "correct": false,
+        "explanation": "A reactive NST reflects current status but does not mitigate the extreme risk of sudden fetal death in placental failure with AEDF; outpatient 4-week follow-up is negligent."
+      },
+      {
+        "text": "Perform emergent cesarean delivery under general anesthesia within 1 hour without corticosteroid administration",
+        "correct": false,
+        "explanation": "In the presence of a reactive NST and absent maternal acute instability, there is time to administer antenatal betamethasone to reduce neonatal RDS, IVH, and mortality prior to delivery."
+      },
+      {
+        "text": "Increase maternal oral labetalol dosage to lower systolic blood pressure to < 110 mmHg to enhance placental perfusion",
+        "correct": false,
+        "explanation": "Aggressive blood pressure reduction decreases uterine artery perfusion pressure, further starving the ischemic placenta and precipitating acute fetal bradycardia."
+      },
+      {
+        "text": "Initiate maternal intravenous heparin anticoagulation to dissolve placental villous microthrombi",
+        "correct": false,
+        "explanation": "Heparin does not reverse established placental vascular obliteration in FGR and exposes the mother to hemorrhage during delivery."
+      }
+    ],
+    "explanation": "Fetal growth restriction (estimated fetal weight < 10th percentile) complicated by umbilical artery Doppler absent end-diastolic flow (AEDF) indicates severe placental vascular resistance. SMFM/ACOG guidelines mandate: (1) Inpatient admission with intensive surveillance, (2) Antenatal corticosteroids (betamethasone) for lung maturity, and (3) Delivery at 33–34 weeks (or emergent delivery if reversed end-diastolic flow or nonreassuring testing occurs).",
+    "objective": "Manage fetal growth restriction with absent end-diastolic flow on umbilical artery Doppler: antenatal corticosteroids, inpatient surveillance, and delivery at 33–34 weeks.",
+    "keyPoints": [
+      "Umbilical artery Doppler reflects placental resistance: normal -> decreased -> absent (AEDF) -> reversed (REDF).",
+      "Persistent AEDF indicates >= 70% placental obliteration: admit, administer betamethasone, and deliver at 33–34 weeks.",
+      "Reversed end-diastolic flow (REDF) warrants immediate delivery at >= 30–32 weeks."
+    ],
+    "references": [
+      {
+        "label": "American Journal of Obstetrics & Gynecology 2020 SMFM Consult Series #52: Diagnosis and Management of Fetal Growth Restriction",
+        "url": "https://www.ajog.org/article/S0002-9378(20)30177-3/fulltext"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0047",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Delirium Diagnosis & Multicomponent Non-Pharmacological Management Strategy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 82-year-old woman is admitted to the medical surgical unit for treatment of acute pyelonephritis with intravenous ceftriaxone. On hospital day 2 at 11:00 PM, the night nurse calls the physician because the patient is highly agitated, pulling at her peripheral intravenous line and Foley catheter, and attempting to climb out of bed. Her daughter states that before hospitalization the patient lived independently, managed her own finances, and had no memory deficits. On examination, the patient is disoriented to place and time, incorrectly insisting that she is in an airport. Her attention is markedly impaired; she cannot count backward from 20 to 1 or name the months of the year in reverse. Over a 30-minute interview, her consciousness waxes and wanes from combative agitation to profound lethargy. Physical examination reveals suprapubic tenderness and bilateral costovertebral angle tenderness. Vital signs are: temperature 38.2 C (100.8 F), blood pressure 132/74 mmHg, heart rate 94/min, and oxygen saturation 96% on ambient air. Which of the following is the most appropriate initial management step for this patient's acute cognitive impairment?",
+    "options": [
+      {
+        "text": "Administer intravenous haloperidol 5 mg immediately and repeat every 4 hours around the clock to resolve delirium",
+        "correct": false,
+        "explanation": "Routine administration of antipsychotics does not prevent or resolve delirium, increases mortality in elderly patients, and causes extrapyramidal symptoms and QT prolongation."
+      },
+      {
+        "text": "Implement multicomponent non-pharmacological delirium interventions (frequent reorientation, lighting adjustments, family presence, early catheter removal) while identifying and treating underlying medical triggers",
+        "correct": true,
+        "explanation": "This patient presents with acute delirium (specifically mixed hyperactive/hypoactive delirium), characterized by an acute onset (hours to days), fluctuating course, impaired attention and awareness, and altered sleep-wake cycle. The acute onset, fluctuating cognitive state, and prominent inattention decisively differentiate delirium from major neurocognitive disorder (dementia), which has an insidious, progressive course with intact attention in early to moderate stages. Delirium in hospitalized elderly patients is almost always multifactorial, triggered by an acute medical illness (pyelonephritis/urosepsis), physical restraints, indwelling urinary catheters, unfamiliar environment, and sleep disruption. American Geriatrics Society (AGS) guidelines establish that the foundational, first-line management is NON-PHARMACOLOGICAL multicomponent interventions: (1) Reorientation strategies (clocks, calendars, verbal reorientation by staff and familiar family members), (2) Optimizing sensory input (ensuring patient has glasses and hearing aids), (3) Sleep hygiene (maintaining day/night circadian lighting, quiet environment at night, minimizing nocturnal vitals/blood draws), (4) Early removal of tethering lines (Foley catheters and unnecessary IV lines), and (5) Mobilization. Antipsychotics (such as haloperidol or quetiapine) carry black-box warnings and do NOT shorten delirium duration or improve mortality; they are reserved strictly as a last resort for severe, refractory agitation that poses an immediate danger to patient or staff safety."
+      },
+      {
+        "text": "Apply bilateral wrist restraints and vest restraints to the bed to prevent catheter dislodgement and falls",
+        "correct": false,
+        "explanation": "Physical restraints exacerbate agitation, increase fall-related head injuries, worsen delirium severity, and should be avoided."
+      },
+      {
+        "text": "Initiate oral donepezil 5 mg daily for rapid improvement of cognitive decline",
+        "correct": false,
+        "explanation": "Cholinesterase inhibitors treat chronic Alzheimer dementia; they have no role in acute delirium and worsen confusion and gastrointestinal symptoms."
+      },
+      {
+        "text": "Administer intravenous lorazepam 2 mg for rapid sedation",
+        "correct": false,
+        "explanation": "Benzodiazepines worsen delirium, prolong hospital stay, and paradoxically increase agitation and fall risk (unless delirium is caused by alcohol or sedative withdrawal)."
+      }
+    ],
+    "explanation": "Delirium is characterized by acute onset, fluctuating course, and marked inattention, distinguishing it from dementia. First-line management is non-pharmacological multicomponent environmental interventions (reorientation, sensory aids, sleep hygiene, family presence, removing tethers like Foley catheters) while treating the underlying medical cause (pyelonephritis). Antipsychotics are reserved solely for extreme violence/safety risk. Benzodiazepines and physical restraints worsen delirium.",
+    "objective": "Distinguish delirium from dementia by acute onset and inattention, and apply first-line non-pharmacological multicomponent delirium interventions.",
+    "keyPoints": [
+      "Delirium features: acute onset, fluctuating consciousness, and prominent inattention.",
+      "First-line management: treat underlying cause and apply non-pharmacological multicomponent interventions.",
+      "Antipsychotics do not cure delirium; physical restraints and benzodiazepines worsen delirium."
+    ],
+    "references": [
+      {
+        "label": "Journal of the American Geriatrics Society 2020 American Geriatrics Society Clinical Practice Guideline for Postoperative Delirium",
+        "url": "https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.13281"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0048",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Acute Testicular Torsion: Emergent Surgical Exploration & Bilateral Orchiopexy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 14-year-old boy is brought to the emergency department by his father due to sudden-onset, severe, excruciating left scrotal and lower abdominal pain that awakened him from sleep 2 hours ago. He has had two episodes of non-bilious vomiting since the pain began. He denies dysuria, urethral discharge, fever, or prior trauma. Vital signs are: temperature 37.1 C, blood pressure 134/78 mmHg, heart rate 112/min, and respiratory rate 20/min. Physical examination reveals an exquisitely tender, edematous, erythematous left hemiscrotum. The left testis is swollen, high-riding, and oriented in a horizontal (transverse) lie. Light stroking of the left inner thigh fails to elicit ipsilateral testicular elevation (absent cremasteric reflex). The right hemiscrotum and right testis are normal. Urinalysis reveals clear yellow urine with no leukocytes, nitrites, or erythrocytes. Which of the following is the most appropriate next step in the clinical management of this patient?",
+    "options": [
+      {
+        "text": "Perform emergent duplex Doppler scrotal ultrasonography and delay surgical consultation until radiological confirmation",
+        "correct": false,
+        "explanation": "When clinical features are classic in a surgical window (2 hours), delaying operative exploration for an ultrasound risks testicular ischemia and necrosis."
+      },
+      {
+        "text": "Prescribe oral ceftriaxone and doxycycline for acute epididymo-orchitis and discharge with scrotal support",
+        "correct": false,
+        "explanation": "Epididymo-orchitis typically has a subacute onset, positive Prehn sign, normal cremasteric reflex, pyuria on urinalysis, and dysuria; misdiagnosing torsion as epididymitis leads to testicular loss."
+      },
+      {
+        "text": "Immediate transfer to the operating room for emergency surgical scrotal exploration, detorsion, and bilateral orchiopexy",
+        "correct": true,
+        "explanation": "This patient presents with acute testicular torsion, a surgical emergency caused by twisting of the spermatic cord, compromising venous outflow followed by arterial inflow, resulting in testicular ischemia and infarction. It occurs most commonly in adolescents due to a congenital anatomical variant called the \"bell-clapper deformity\" (failure of normal posterior anchoring of the testis and epididymis to the tunica vaginalis, allowing the testis to twist freely on its vascular pedicle). Cardinal diagnostic features include: sudden severe scrotal pain, nausea/vomiting, high-riding testis with horizontal lie, and ABSENCE of the cremasteric reflex (the most sensitive physical exam finding, sensitivity > 99%). Testicular salvage is strictly time-dependent: salvage rates exceed 90% if detorsion occurs within 6 hours of symptom onset, but drop to < 10% after 24 hours. When clinical suspicion is high (severe acute onset, absent cremasteric reflex, horizontal lie in a teenager), IMMEDIATE emergency scrotal exploration without delay is mandatory. While Doppler ultrasound can demonstrate absent intratesticular blood flow, imaging must NEVER delay operative exploration if ultrasound cannot be performed immediately. During surgery, the affected testis is untwisted; if viable, it is fixed to the scrotal wall (orchiopexy). Crucially, BILATERAL orchiopexy is mandatory because the bell-clapper anomaly is bilateral in the vast majority of patients, placing the contralateral testis at extreme risk of future torsion."
+      },
+      {
+        "text": "Attempt bedside manual detorsion (\"opening a book\" technique) and discharge if pain resolves completely",
+        "correct": false,
+        "explanation": "Manual detorsion may be attempted while preparing the operating room, but it never substitutes for surgery because partial torsion or reperfusion failure can persist; surgical exploration and bilateral orchiopexy are mandatory."
+      },
+      {
+        "text": "Administer intravenous ketorolac and observe in the emergency department for 4 hours to assess for spontaneous detorsion",
+        "correct": false,
+        "explanation": "Observation allows irreversible ischemic necrosis of germ cells and Sertoli cells; delay beyond 6 hours results in permanent orchiectomy."
+      }
+    ],
+    "explanation": "Testicular torsion (sudden pain, high-riding horizontal testis, absent cremasteric reflex) is a surgical emergency with a 6-hour salvage window. Immediate scrotal exploration with detorsion and BILATERAL orchiopexy is mandatory. Bilateral fixation is required because the underlying anatomical defect (\"bell-clapper deformity\") is bilateral. Operative exploration must not be delayed for ultrasound if high clinical suspicion exists.",
+    "objective": "Prioritize emergent surgical exploration and bilateral orchiopexy for acute testicular torsion within the 6-hour window and avoid diagnostic delays.",
+    "keyPoints": [
+      "Testicular torsion hallmarks: acute severe pain, high-riding transverse testis, absent cremasteric reflex.",
+      "Salvage window is < 6 hours; do not delay surgical intervention for ultrasound.",
+      "Surgical exploration mandates BILATERAL orchiopexy due to the bilateral nature of bell-clapper anomaly."
+    ],
+    "references": [
+      {
+        "label": "Journal of Pediatric Urology 2021 Testicular Torsion: Diagnosis, Evaluation, and Management",
+        "url": "https://www.jpurol.com/article/S1477-5131(21)00215-6/fulltext"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0049",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Stevens-Johnson Syndrome / TEN: Drug Discontinuation & Burn ICU Care",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 38-year-old man presents to the emergency department with a 3-day history of high fever, malaise, sore throat, and a rapidly progressive painful body rash. He was diagnosed with focal epilepsy 3 weeks ago and started on oral lamotrigine. Vital signs are: temperature 39.2 C (102.6 F), blood pressure 104/64 mmHg, heart rate 118/min, and respiratory rate 22/min. Physical examination reveals extensive purpuric macules and targetoid lesions with dusky, necrotic centers covering his face, trunk, and proximal extremities. Flaccid bullae are present, and light lateral pressure on non-blistered erythematous skin results in epidermal sloughing (positive Nikolsky sign). Denuded, weeping skin involves approximately 22% of total body surface area (TBSA). Severe erosions and ulcerations with hemorrhagic crusting involve the lips, oral mucosa, and conjunctivae bilaterally. Complete blood count shows marked lymphopenia with normal platelets and no eosinophilia. Which of the following is the most critical initial step in the clinical management of this patient?",
+    "options": [
+      {
+        "text": "Continue lamotrigine at a reduced dose while administering oral diphenhydramine and topical hydrocortisone",
+        "correct": false,
+        "explanation": "Continuing the culprit drug in SJS/TEN drastically accelerates epidermal necrolysis and is lethal; the offending drug must be stopped immediately."
+      },
+      {
+        "text": "Perform aggressive surgical sharp debridement of all involved denuded epidermis in the operating room",
+        "correct": false,
+        "explanation": "Unlike necrotizing fasciitis or deep burns, SJS/TEN involves epidermal cleavage at the dermo-epidermal junction; aggressive surgical debridement strips viable dermis and increases mortality."
+      },
+      {
+        "text": "Administer high-dose intravenous vancomycin and clindamycin for staphylococcal scalded skin syndrome (SSSS)",
+        "correct": false,
+        "explanation": "SSSS occurs in neonates and young children due to exfoliative toxin targeting desmoglein-1, spares mucosal membranes, and does not cause targetoid lesions or extensive visceral involvement."
+      },
+      {
+        "text": "Immediately discontinue lamotrigine, calculate the SCORTEN prognostic score, and transfer the patient directly to an intensive care burn unit for aggressive supportive fluid and wound care",
+        "correct": true,
+        "explanation": "This patient presents with Stevens-Johnson Syndrome / Toxic Epidermal Necrolysis (SJS/TEN) overlap, a severe, life-threatening mucocutaneous adverse drug reaction characterized by extensive keratinocyte apoptosis and epidermal detachment mediated by cytotoxic T lymphocytes (CD8+) and natural killer cells via granulysin and Fas-Fas ligand interactions. It is classified by percentage of total body surface area (TBSA) epidermal detachment: SJS (< 10% TBSA), SJS/TEN overlap (10–30% TBSA, as in this patient with 22%), and TEN (> 30% TBSA). Common culprit drugs include anticonvulsants (lamotrigine, carbamazepine, phenytoin), allopurinol, sulfonamide antibiotics, and NSAIDs, typically manifesting 1–4 weeks after initiation. Cardinal features include high fever, severe painful mucosal erosion (at least 2 mucosal sites: oral, ocular, urogenital), purpuric macules with dusky centers, and flaccid bullae with positive Nikolsky sign. The single most important determinant of survival is IMMEDIATE discontinuation of all potential culprit medications; delayed cessation dramatically increases mortality. Patients must be transferred immediately to an accredited burn center or specialized intensive care unit. Supportive care parallels burn management: meticulous thermoregulation, sterile barrier wound care without surgical debridement, fluid resuscitation to replace insensible losses, nutritional support, and aggressive ophthalmologic consultation to prevent permanent cicatricial blindness. SCORTEN is calculated within 24 hours to predict mortality."
+      },
+      {
+        "text": "Prescribe oral valacyclovir for suspected disseminated herpes simplex virus infection",
+        "correct": false,
+        "explanation": "Targetoid lesions of erythema multiforme minor from HSV do not cause extensive flaccid bullae, > 20% TBSA epidermal detachment, or systemic toxicity."
+      }
+    ],
+    "explanation": "Stevens-Johnson Syndrome / TEN overlap (10-30% BSA epidermal sloughing, positive Nikolsky sign, mucosal involvement) is a dermatological emergency most commonly caused by anticonvulsants (lamotrigine), allopurinol, or sulfonamides. The single most critical step is IMMEDIATE discontinuation of the culprit drug, followed by SCORTEN calculation and transfer to a burn intensive care unit for fluid resuscitation and sterile supportive wound care. Aggressive surgical debridement is harmful.",
+    "objective": "Prioritize immediate culprit drug cessation and transfer to a specialized burn unit for SJS/TEN overlap while avoiding surgical debridement.",
+    "keyPoints": [
+      "SJS/TEN: mucosal involvement (>= 2 sites), positive Nikolsky sign, full-thickness epidermal necrosis.",
+      "SJS (< 10% BSA), SJS/TEN overlap (10–30% BSA), TEN (> 30% BSA).",
+      "Immediate culprit drug cessation and burn ICU transfer are the primary determinants of survival."
+    ],
+    "references": [
+      {
+        "label": "Journal of the American Academy of Dermatology 2020 Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis: Management Strategies",
+        "url": "https://www.jaad.org/article/S0190-9622(19)33036-7/fulltext"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0050",
+    "exam": "Step 2 CK",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Medical Error Disclosure & Transparent Physician Communication Protocol",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old woman is hospitalized for community-acquired pneumonia. Her physician writes an order for intravenous levofloxacin 750 mg daily. Due to a transcription error by the pharmacy technician and a nurse failing to perform standard two-patient-identifier barcode scanning, the patient inadvertently receives an intravenous dose of 150 mg of succinylcholine intended for a patient in the adjacent room undergoing emergency intubation. Within minutes, the patient developed complete flaccid muscular paralysis and acute respiratory arrest. The rapid response team was immediately activated, and the patient was emergently endotracheally intubated and mechanically ventilated. Four hours later, the paralytic effect has fully dissipated, the patient is successfully extubated, and she is fully alert, oriented, and neurologically intact without permanent physiological harm. The patient asks the attending physician, \"Why did I stop breathing and end up with a breathing tube down my throat?\" Which of the following is the most ethically and legally appropriate response by the attending physician?",
+    "options": [
+      {
+        "text": "Inform the patient that she experienced an unpredictable idiosyncratic adverse allergic reaction to levofloxacin requiring temporary intubation",
+        "correct": false,
+        "explanation": "Lying to or misleading a patient violates the core ethical principles of veracity, beneficence, and autonomy, and severely breaches professional ethics."
+      },
+      {
+        "text": "Disclose that an error occurred but explicitly state that the nursing and pharmacy departments were solely at fault",
+        "correct": false,
+        "explanation": "Deflecting blame onto other healthcare colleagues undermines multidisciplinary teamwork and patient trust; systemic errors must be addressed professionally and institutionally."
+      },
+      {
+        "text": "Withhold disclosure of the medication administration error because the paralysis was transient and the patient suffered no permanent physiological disability",
+        "correct": false,
+        "explanation": "Physicians have an ethical mandate to disclose medical errors that alter patient care or require invasive rescue, even if no permanent physical harm occurs."
+      },
+      {
+        "text": "Advise the patient to consult the hospital risk management and legal department before answering any medical questions",
+        "correct": false,
+        "explanation": "Deflecting communication to risk management abandons the physician's clinical and ethical duty to provide transparent medical care to the patient."
+      },
+      {
+        "text": "Provide a full, transparent disclosure of the medication error, explain the clinical consequences and corrective actions taken, offer an honest apology, and outline the systemic steps being implemented to prevent recurrence",
+        "correct": true,
+        "explanation": "Ethical codes from the American Medical Association (AMA Code of Medical Ethics Opinion 8.1), the Joint Commission, and hospital quality safety standards require full, transparent, and prompt disclosure of all medical errors that cause harm or meaningful clinical consequence to patients. The obligation to disclose is rooted in the ethical principle of patient AUTONOMY and truthful communication (veracity), which fosters trust in the physician-patient relationship. Professional standards mandate: (1) Prompt in-person disclosure by the attending physician, (2) Direct, objective explanation of exactly what occurred and why without obfuscation or medical jargon, (3) Detailed explanation of the consequences and the treatments administered to reverse the error, (4) An empathetic, sincere apology expressing regret for the event, and (5) Description of the institutional quality improvement process and systemic safety measures implemented to ensure the error does not happen to other patients. Withholding the disclosure because \"no permanent harm occurred\" or deflecting personal responsibility onto the nurse or pharmacy is unethical and violates national patient safety standards."
+      }
+    ],
+    "explanation": "Physicians have an ethical obligation (AMA Code of Ethics) to provide full, honest, and prompt disclosure of medical errors that result in harm or altered clinical status, regardless of whether permanent disability occurred. Disclosure requires explaining what happened, how it was managed, apologizing for the harm, and detailing systemic steps taken to prevent recurrence. Withholding disclosure or deflecting blame onto others is unethical.",
+    "objective": "Apply the ethical principles of autonomy and veracity to execute transparent medical error disclosure, apology, and systemic remediation.",
+    "keyPoints": [
+      "Full, prompt, transparent disclosure of medical errors is ethically mandatory.",
+      "Disclosure includes: facts of the error, consequences/remediation, sincere apology, and systemic prevention.",
+      "Absence of permanent harm does NOT excuse non-disclosure; lying or deflecting blame is unethical."
+    ],
+    "references": [
+      {
+        "label": "AMA Code of Medical Ethics Opinion 8.1: Routine Disclosure of Medical Errors",
+        "url": "https://code-medical-ethics.ama-assn.org/ethics-opinions/routine-disclosure-medical-errors"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

@@ -1,0 +1,238 @@
+{
+  "scopes": {
+    "source": {
+      "files": 480,
+      "packageEntries": 738,
+      "prismaStudioRelevantNames": [
+        "@prisma/dev@0.24.17",
+        "elkjs@0.11.1",
+        "prisma@7.10.1"
+      ],
+      "interpretation": "Only this candidate; declared source references are not conveyed package bytes; local absence is not cross-platform absence."
+    },
+    "browser": {
+      "files": 63,
+      "packageEntries": 35,
+      "prismaStudioRelevantNames": [],
+      "interpretation": "Only this candidate; declared source references are not conveyed package bytes; local absence is not cross-platform absence."
+    },
+    "hosted": {
+      "files": 1514,
+      "packageEntries": 105,
+      "prismaStudioRelevantNames": [],
+      "interpretation": "Only this candidate; declared source references are not conveyed package bytes; local absence is not cross-platform absence."
+    },
+    "native": {
+      "files": 26,
+      "packageEntries": 26,
+      "prismaStudioRelevantNames": [],
+      "interpretation": "Only this candidate; declared source references are not conveyed package bytes; local absence is not cross-platform absence."
+    },
+    "container": {
+      "files": 0,
+      "packageEntries": 0,
+      "prismaStudioRelevantNames": [],
+      "interpretation": "Only this candidate; declared source references are not conveyed package bytes; local absence is not cross-platform absence."
+    }
+  },
+  "vendoredComponents": [
+    {
+      "component": "react",
+      "compilerTargets": [
+        "browser"
+      ],
+      "sourceVersion": "NOT_ESTABLISHED",
+      "licenseCandidates": [
+        {
+          "path": "node_modules/next/dist/compiled/react/LICENSE",
+          "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+        }
+      ],
+      "status": "PARTIALLY_VERIFIED: compiler input; independent source/version/recipient notices pending",
+      "declaredLicense": null
+    },
+    {
+      "component": "react-dom",
+      "compilerTargets": [
+        "browser"
+      ],
+      "sourceVersion": "NOT_ESTABLISHED",
+      "licenseCandidates": [
+        {
+          "path": "node_modules/next/dist/compiled/react-dom/LICENSE",
+          "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+        }
+      ],
+      "status": "PARTIALLY_VERIFIED: compiler input; independent source/version/recipient notices pending",
+      "declaredLicense": null
+    },
+    {
+      "component": "scheduler",
+      "compilerTargets": [
+        "browser"
+      ],
+      "sourceVersion": "NOT_ESTABLISHED",
+      "licenseCandidates": [
+        {
+          "path": "node_modules/next/dist/compiled/scheduler/LICENSE",
+          "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+        }
+      ],
+      "status": "PARTIALLY_VERIFIED: compiler input; independent source/version/recipient notices pending",
+      "declaredLicense": null
+    },
+    {
+      "component": "process",
+      "compilerTargets": [
+        "browser"
+      ],
+      "sourceVersion": "NOT_ESTABLISHED",
+      "licenseCandidates": [
+        {
+          "path": "node_modules/next/dist/compiled/process/LICENSE",
+          "sha256": "59a400d04c5078579acc27ddd6452c1bdf763f9506e01364700935fbb1a7c91b"
+        }
+      ],
+      "status": "PARTIALLY_VERIFIED: compiler input; independent source/version/recipient notices pending",
+      "declaredLicense": "MIT"
+    },
+    {
+      "component": "path-to-regexp",
+      "compilerTargets": [
+        "browser",
+        "server-nodejs"
+      ],
+      "sourceVersion": "NOT_ESTABLISHED",
+      "licenseCandidates": [
+        {
+          "path": "node_modules/next/dist/compiled/path-to-regexp/LICENSE",
+          "sha256": "4eeb3271453a891df609e5a9f4ee79a68307f730c13417a3bfeffa604ac8cf25"
+        }
+      ],
+      "status": "PARTIALLY_VERIFIED: compiler input; independent source/version/recipient notices pending",
+      "declaredLicense": "MIT"
+    },
+    {
+      "component": "react-server-dom-webpack",
+      "compilerTargets": [
+        "browser",
+        "server-nodejs"
+      ],
+      "sourceVersion": "NOT_ESTABLISHED",
+      "licenseCandidates": [
+        {
+          "path": "node_modules/next/dist/compiled/react-server-dom-webpack/LICENSE",
+          "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+        }
+      ],
+      "status": "PARTIALLY_VERIFIED: compiler input; independent source/version/recipient notices pending",
+      "declaredLicense": null
+    },
+    {
+      "component": "bytes",
+      "compilerTargets": [
+        "server-nodejs"
+      ],
+      "sourceVersion": "NOT_ESTABLISHED",
+      "licenseCandidates": [
+        {
+          "path": "node_modules/next/dist/compiled/bytes/LICENSE",
+          "sha256": "e3b44af066615de2ea48d18d852d0762f18c0b2efcea714fa48a6f729d405b85"
+        }
+      ],
+      "status": "PARTIALLY_VERIFIED: compiler input; independent source/version/recipient notices pending",
+      "declaredLicense": "MIT"
+    },
+    {
+      "component": "@opentelemetry/api",
+      "compilerTargets": [
+        "server-nodejs"
+      ],
+      "sourceVersion": "NOT_ESTABLISHED",
+      "licenseCandidates": [
+        {
+          "path": "node_modules/next/dist/compiled/@opentelemetry/api/LICENSE",
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+        }
+      ],
+      "status": "PARTIALLY_VERIFIED: compiler input; independent source/version/recipient notices pending",
+      "declaredLicense": "Apache-2.0"
+    },
+    {
+      "component": "fresh",
+      "compilerTargets": [
+        "server-nodejs"
+      ],
+      "sourceVersion": "NOT_ESTABLISHED",
+      "licenseCandidates": [
+        {
+          "path": "node_modules/next/dist/compiled/fresh/LICENSE",
+          "sha256": "a0ec0dab16b3666f24950f86d257930ac2ad475557b4bfe245620e0817d8a45d"
+        }
+      ],
+      "status": "PARTIALLY_VERIFIED: compiler input; independent source/version/recipient notices pending",
+      "declaredLicense": "MIT"
+    },
+    {
+      "component": "superstruct",
+      "compilerTargets": [
+        "server-nodejs"
+      ],
+      "sourceVersion": "NOT_ESTABLISHED",
+      "licenseCandidates": [
+        {
+          "path": "node_modules/next/dist/compiled/superstruct/LICENSE",
+          "sha256": "0f644bc01d85e4b1958bdfe5a851704bd886404c78188d4d6fba43dc8293bc91"
+        }
+      ],
+      "status": "PARTIALLY_VERIFIED: compiler input; independent source/version/recipient notices pending",
+      "declaredLicense": "MIT"
+    },
+    {
+      "component": "cookie",
+      "compilerTargets": [
+        "server-nodejs"
+      ],
+      "sourceVersion": "NOT_ESTABLISHED",
+      "licenseCandidates": [
+        {
+          "path": "node_modules/next/dist/compiled/cookie/LICENSE",
+          "sha256": "c02110eedc16c7114f1a9bdc026c65626ce1d9c7e27fd51a8e0feee8a48a6858"
+        }
+      ],
+      "status": "PARTIALLY_VERIFIED: compiler input; independent source/version/recipient notices pending",
+      "declaredLicense": "MIT"
+    },
+    {
+      "component": "string-hash",
+      "compilerTargets": [
+        "server-nodejs"
+      ],
+      "sourceVersion": "NOT_ESTABLISHED",
+      "licenseCandidates": [],
+      "status": "PARTIALLY_VERIFIED: compiler input; independent source/version/recipient notices pending",
+      "declaredLicense": "CC0-1.0"
+    },
+    {
+      "component": "@edge-runtime/cookies",
+      "compilerTargets": [
+        "server-nodejs"
+      ],
+      "sourceVersion": "6.0.0",
+      "licenseCandidates": [],
+      "status": "PARTIALLY_VERIFIED: compiler input; independent source/version/recipient notices pending",
+      "declaredLicense": "MIT"
+    },
+    {
+      "component": "server-only",
+      "compilerTargets": [
+        "server-nodejs"
+      ],
+      "sourceVersion": "0.0.1",
+      "licenseCandidates": [],
+      "status": "PARTIALLY_VERIFIED: compiler input; independent source/version/recipient notices pending",
+      "declaredLicense": "MIT"
+    }
+  ],
+  "limits": "Source/version binding and complete file-level inclusion remain unresolved. No absence claim for unbuilt platforms or containers."
+}

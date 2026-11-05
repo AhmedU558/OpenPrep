@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s2-0051",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Stanford Type A versus Type B Aortic Dissection Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 58-year-old man presents to the emergency department with sudden-onset, tearing chest pain radiating between his shoulder blades that began 45 minutes ago. He has a history of poorly controlled hypertension. His blood pressure is 194/110 mm Hg in the right arm and 172/98 mm Hg in the left arm, heart rate is 96/min, respirations are 22/min, and oxygen saturation is 97% on ambient air. Cardiac auscultation reveals a regular rate and rhythm without murmurs, rubs, or gallops. Femoral and radial pulses are palpable bilaterally. ECG shows sinus tachycardia with voltage criteria for left ventricular hypertrophy and non-specific ST-segment flattening, but no acute ischemic ST-elevation. Emergent contrast-enhanced CT angiography of the chest demonstrates an intimal flap originating 1.5 cm distal to the origin of the left subclavian artery and extending into the descending thoracic aorta to the level of the diaphragm, without extension into the ascending aorta, pericardial effusion, or malperfusion of visceral branches. Which of the following is the most appropriate initial management for this patient?",
+    "options": [
+      {
+        "text": "Intravenous esmolol infusion titrated to target systolic blood pressure between 100 and 120 mm Hg",
+        "correct": true,
+        "explanation": "This patient has an acute, uncomplicated Stanford Type B (DeBakey Type III) aortic dissection, which originates distal to the left subclavian artery and does not involve the ascending aorta. First-line management is medical therapy in the intensive care unit with intravenous beta-blockers (such as esmolol or labetalol) to decrease heart rate (target < 60/min) and aortic wall shear stress (dP/dt), followed by intravenous vasodilators (such as nitroprusside or nicardipine) if needed to maintain systolic blood pressure between 100 and 120 mm Hg. Emergent surgical or endovascular repair is reserved for complicated Type B dissection (malperfusion, refractory pain, rupture)."
+      },
+      {
+        "text": "Emergent open surgical graft replacement with hypothermic circulatory arrest",
+        "correct": false,
+        "explanation": "Emergent open surgical repair is the mandatory immediate treatment for Stanford Type A aortic dissection (involving the ascending aorta) due to the high risk of fatal pericardial tamponade, aortic regurgitation, and coronary malperfusion; uncomplicated Type B dissection is managed medically."
+      },
+      {
+        "text": "Intravenous sodium nitroprusside monotherapy titrated to mean arterial pressure reduction of 25%",
+        "correct": false,
+        "explanation": "Vasodilator monotherapy without prior or concurrent beta-blockade causes reflex sympathetic tachycardia and increased left ventricular inotropy (increased dP/dt), which worsens the shearing force on the aortic flap and can propagate the dissection."
+      },
+      {
+        "text": "Immediate administration of intravenous recombinant tissue plasminogen activator",
+        "correct": false,
+        "explanation": "Thrombolytic therapy is absolutely contraindicated in aortic dissection and would cause catastrophic exsanguination or fatal pericardial tamponade."
+      },
+      {
+        "text": "Thoracic endovascular aortic repair within the first 6 hours of presentation",
+        "correct": false,
+        "explanation": "Routine immediate TEVAR is not indicated for uncomplicated Type B dissection, where optimal medical therapy yields equivalent or superior acute outcomes; TEVAR is indicated if there is evidence of end-organ malperfusion, progression, or persistent pain."
+      }
+    ],
+    "explanation": "This patient has an acute, uncomplicated Stanford Type B (DeBakey Type III) aortic dissection, which originates distal to the left subclavian artery and does not involve the ascending aorta. First-line management is medical therapy in the intensive care unit with intravenous beta-blockers (such as esmolol or labetalol) to decrease heart rate (target < 60/min) and aortic wall shear stress (dP/dt), followed by intravenous vasodilators (such as nitroprusside or nicardipine) if needed to maintain systolic blood pressure between 100 and 120 mm Hg. Emergent surgical or endovascular repair is reserved for complicated Type B dissection (malperfusion, refractory pain, rupture). Distinguish Stanford Type A (involves ascending aorta, requires emergent open surgical repair due to tamponade/coronary/aortic valve risk) from uncomplicated Type B (descending aorta distal to left subclavian, managed medically with IV beta-blockers targeting SBP 100-120 and HR < 60).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Stanford Type A versus Type B Aortic Dissection Management.",
+    "keyPoints": [
+      "Stanford Type A versus Type B Aortic Dissection Management",
+      "Distinguish Stanford Type A (involves ascending aorta, requires emergent open surgical repair due to tamponade/coronary/aortic valve risk) from uncomplicated Type B (descending aor"
+    ],
+    "references": [
+      {
+        "label": "Isselbacher EM, et al. 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease. Circulation. 2022;146(24):e334-e482. PMID: 36322642.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36322642/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0052",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Postpartum Hemorrhage Stepwise Uterotonic Pharmacotherapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old woman, gravida 2, para 2, undergoes an uncomplicated spontaneous vaginal delivery of a 4,100-g male infant at 39 weeks gestation. Her prenatal course was complicated by gestational hypertension managed with labetalol. Thirty minutes following delivery of the placenta, the nurse notes continuous heavy vaginal bleeding saturating several abdominal pads. On physical examination, her blood pressure is 156/98 mm Hg, heart rate is 114/min, and respiratory rate is 18/min. Abdominal palpation reveals a soft, boggy, poorly contracted uterus with the fundus palpable 3 cm above the umbilicus. Continuous bimanual uterine massage is initiated, and intravenous oxytocin infusion is administered along with intravenous tranexamic acid. Despite these initial measures, brisk vaginal bleeding continues, with cumulative estimated blood loss reaching 1,200 mL. Genital tract examination reveals no cervical or vaginal lacerations, and the placenta was delivered intact. Which of the following is the most appropriate next pharmacotherapeutic agent to administer?",
+    "options": [
+      {
+        "text": "Intramuscular methylergonovine maleate",
+        "correct": false,
+        "explanation": "Methylergonovine maleate is an ergot derivative that produces potent generalized arterial vasoconstriction and is contraindicated in patients with gestational hypertension, chronic hypertension, or preeclampsia due to the risk of catastrophic intracranial hemorrhage and malignant hypertension."
+      },
+      {
+        "text": "Intramuscular carboprost tromethamine (prostaglandin F2-alpha)",
+        "correct": true,
+        "explanation": "Postpartum hemorrhage due to uterine atony unresponsive to bimanual massage and oxytocin requires second-line uterotonic agents. Carboprost tromethamine (PGF2-alpha) stimulates vigorous myometrial contractions and is indicated here. Methylergonovine is an ergot alkaloid that also causes potent vasoconstriction and is strictly contraindicated in patients with hypertension, preeclampsia, or coronary artery disease due to the risk of severe hypertensive crisis and stroke. Carboprost is preferred here because the patient has hypertension and no history of asthma (carboprost is contraindicated in asthma due to bronchoconstriction)."
+      },
+      {
+        "text": "Intravenous magnesium sulfate infusion bolus",
+        "correct": false,
+        "explanation": "Magnesium sulfate is a smooth muscle relaxant and tocolytic; administering it would worsen uterine atony and exacerbate postpartum hemorrhage."
+      },
+      {
+        "text": "Subcutaneous terbutaline sulfate injection",
+        "correct": false,
+        "explanation": "Terbutaline is a beta-2 adrenergic agonist used to relax the myometrium (tocolysis) during uterine tachysystole or external cephalic version; it causes uterine relaxation and would accelerate hemorrhage."
+      },
+      {
+        "text": "Immediate laparotomy and emergent bilateral internal iliac artery ligation",
+        "correct": false,
+        "explanation": "Surgical intervention or intrauterine balloon tamponade (e.g., Bakri balloon) is indicated if pharmacological management fails; second-line uterotonics (carboprost, misoprostol) should be administered first while preparing for procedures."
+      }
+    ],
+    "explanation": "Postpartum hemorrhage due to uterine atony unresponsive to bimanual massage and oxytocin requires second-line uterotonic agents. Carboprost tromethamine (PGF2-alpha) stimulates vigorous myometrial contractions and is indicated here. Methylergonovine is an ergot alkaloid that also causes potent vasoconstriction and is strictly contraindicated in patients with hypertension, preeclampsia, or coronary artery disease due to the risk of severe hypertensive crisis and stroke. Carboprost is preferred here because the patient has hypertension and no history of asthma (carboprost is contraindicated in asthma due to bronchoconstriction). Recognize postpartum hemorrhage due to uterine atony (boggy uterus). Oxytocin and bimanual massage are first-line. Second-line uterotonics require knowing patient contraindications: Methylergonovine is contraindicated in hypertension; Carboprost tromethamine (PGF2alpha) is contraindicated in asthma. In a patient with chronic hypertension or preeclampsia, carboprost (or misoprostol/TXA) is selected over methylergonovine.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Postpartum Hemorrhage Stepwise Uterotonic Pharmacotherapy.",
+    "keyPoints": [
+      "Postpartum Hemorrhage Stepwise Uterotonic Pharmacotherapy",
+      "Recognize postpartum hemorrhage due to uterine atony (boggy uterus). Oxytocin and bimanual massage are first-line. Second-line uterotonics require knowing patient contraindications"
+    ],
+    "references": [
+      {
+        "label": "Committee on Practice Bulletins-Obstetrics. Practice Bulletin No. 183: Postpartum Hemorrhage. Obstet Gynecol. 2017;130(4):e168-e186. PMID: 28937571.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28937571/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0053",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Suspected Scaphoid Fracture with Negative Initial Radiographs",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 22-year-old collegiate rugby player presents to the urgent care clinic 2 hours after sustaining a fall directly onto his outstretched right hand during a match. He reports sharp pain on the radial aspect of his right wrist that worsens when attempting to grip his water bottle. On physical examination, there is mild swelling over the dorsoradial wrist. Point tenderness is elicited upon direct palpation of the anatomical snuffbox, and axial compression of the thumb reproduces significant pain. Active range of motion of the wrist is restricted by pain, but distal neurovascular examination is completely normal. Four-view radiographs of the right wrist, including dedicated scaphoid views, demonstrate no visible fracture line, cortical disruption, or dislocation. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Application of an elastic compression bandage with immediate return to sports as tolerated",
+        "correct": false,
+        "explanation": "Treating this as a simple sprain without immobilization places the patient at high risk for nonunion and permanent wrist disability secondary to scaphoid avascular necrosis."
+      },
+      {
+        "text": "Emergent open reduction and percutaneous screw fixation of the proximal pole",
+        "correct": false,
+        "explanation": "Surgical fixation is reserved for displaced fractures, open fractures, unstable vertical fractures, or established nonunion; it is not indicated before establishing a definitive radiologic diagnosis."
+      },
+      {
+        "text": "Immobilization in a thumb spica splint with repeat clinical examination and radiographs in 10 to 14 days",
+        "correct": true,
+        "explanation": "The anatomical snuffbox is bounded by the extensor pollicis longus, extensor pollicis brevis, and abductor pollicis longus; the floor is formed by the scaphoid bone. Initial plain radiographs of scaphoid fractures have a false-negative rate of 15–20% for nondisplaced fractures. Because the scaphoid receives its retrograde blood supply from branches of the radial artery entering at the distal pole, unrecognized fracture risks avascular necrosis of the proximal pole and fibrous nonunion. Patients with clinical snuffbox tenderness and negative initial films must be immobilized in a thumb spica splint and undergo repeat examination/radiographs in 10–14 days (or immediate MRI)."
+      },
+      {
+        "text": "Intra-articular radiocarpal corticosteroid injection for symptomatic pain relief",
+        "correct": false,
+        "explanation": "Intra-articular steroids can mask pain, inhibit bone healing, and increase the risk of infectious arthritis; they are contraindicated in acute trauma."
+      },
+      {
+        "text": "Obtain an emergent non-contrast head CT to evaluate for concurrent occult craniocervical injury",
+        "correct": false,
+        "explanation": "In an alert patient without loss of consciousness, neck pain, or focal neurologic deficit, head CT is not indicated for isolated upper extremity trauma."
+      }
+    ],
+    "explanation": "The anatomical snuffbox is bounded by the extensor pollicis longus, extensor pollicis brevis, and abductor pollicis longus; the floor is formed by the scaphoid bone. Initial plain radiographs of scaphoid fractures have a false-negative rate of 15–20% for nondisplaced fractures. Because the scaphoid receives its retrograde blood supply from branches of the radial artery entering at the distal pole, unrecognized fracture risks avascular necrosis of the proximal pole and fibrous nonunion. Patients with clinical snuffbox tenderness and negative initial films must be immobilized in a thumb spica splint and undergo repeat examination/radiographs in 10–14 days (or immediate MRI). Recognize fall on outstretched hand (FOOSH) with tenderness in the anatomical snuffbox. Initial plain radiographs can be falsely negative in up to 15-20% of nondisplaced scaphoid fractures. Management requires thumb spica splinting and repeat radiographs in 10-14 days (or immediate MRI) to prevent nonunion and avascular necrosis.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Suspected Scaphoid Fracture with Negative Initial Radiographs.",
+    "keyPoints": [
+      "Suspected Scaphoid Fracture with Negative Initial Radiographs",
+      "Recognize fall on outstretched hand (FOOSH) with tenderness in the anatomical snuffbox. Initial plain radiographs can be falsely negative in up to 15-20% of nondisplaced scaphoid f"
+    ],
+    "references": [
+      {
+        "label": "Duckworth AD, et al. Assessment and management of suspected scaphoid fractures. BMJ. 2012;344:e264. PMID: 22359495.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22359495/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0054",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Thyroid Storm Stepwise Pharmacotherapy and Wolff-Chaikoff Effect",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old woman with a history of Graves disease who has been non-adherent with methimazole presents to the emergency department with acute agitation, high fever, and vomiting following an elective tooth extraction 12 hours ago. On physical examination, she is delirious, diaphoretic, and severely tremulous. Temperature is 39.8 C (103.6 F), blood pressure is 164/78 mm Hg, heart rate is 156/min and irregularly irregular, and respirations are 28/min. Physical examination reveals proptosis, a diffusely enlarged thyroid gland with an audible systolic bruit, and bilateral pulmonary crackles at the lung bases. ECG demonstrates atrial fibrillation with rapid ventricular response. Burch-Wartofsky score is 65 (highly suggestive of thyroid storm). She is immediately administered intravenous propranolol and high-dose propylthiouracil. The team plans to administer a supersaturated potassium iodide solution (SSKI). What is the critical timing requirement for administering potassium iodide in this patient, and why?",
+    "options": [
+      {
+        "text": "Administer immediately before propylthiouracil to sensitize follicular cell iodine transporters",
+        "correct": false,
+        "explanation": "Administering iodine before a thionamide exacerbates thyrotoxicosis by fueling hormone synthesis, potentially inducing lethal arrhythmia or circulatory collapse."
+      },
+      {
+        "text": "Administer simultaneously with propylthiouracil to maximize synergistic thyroid peroxidase inhibition",
+        "correct": false,
+        "explanation": "Simultaneous administration does not allow sufficient time for propylthiouracil to block intracellular thyroid peroxidase before the high iodide concentration enters the follicular lumen."
+      },
+      {
+        "text": "Withhold potassium iodide completely because it is contraindicated in autoimmune thyrotoxicosis",
+        "correct": false,
+        "explanation": "Potassium iodide is not contraindicated; it is an indispensable component of thyroid storm therapy that rapidly reduces circulating free thyroid hormone within hours via the Wolff-Chaikoff effect."
+      },
+      {
+        "text": "Administer at least 1 hour after propylthiouracil to avoid providing substrate for new thyroid hormone synthesis",
+        "correct": true,
+        "explanation": "In thyroid storm, inorganic iodine (Lugol solution or SSKI) rapidly blocks thyroid hormone release via the Wolff-Chaikoff effect. However, if iodine is given before thionamides (PTU or methimazole) have effectively blocked thyroid peroxidase, the exogenous iodine load will be organified and utilized as substrate to synthesize massive amounts of new hormone (Jod-Basedow phenomenon), which can worsen thyrotoxicosis. Therefore, potassium iodide must be delayed until at least 1 hour after thionamide administration."
+      },
+      {
+        "text": "Administer only after definitive core-needle biopsy confirms absence of anaplastic carcinoma",
+        "correct": false,
+        "explanation": "Thyroid storm is a clinical emergency with high mortality (>20%); delaying therapy for thyroid biopsy is contraindicated and clinically dangerous."
+      }
+    ],
+    "explanation": "In thyroid storm, inorganic iodine (Lugol solution or SSKI) rapidly blocks thyroid hormone release via the Wolff-Chaikoff effect. However, if iodine is given before thionamides (PTU or methimazole) have effectively blocked thyroid peroxidase, the exogenous iodine load will be organified and utilized as substrate to synthesize massive amounts of new hormone (Jod-Basedow phenomenon), which can worsen thyrotoxicosis. Therefore, potassium iodide must be delayed until at least 1 hour after thionamide administration. Recognize thyroid storm (fever, delirium, tachycardia/afib, heart failure, jaundice). Sequence of medications: 1. Beta-blocker (propranolol); 2. Thionamide (PTU preferred over methimazole as it blocks peripheral T4->T3 conversion); 3. Potassium iodide (Lugol solution or SSKI) must be administered >=1 HOUR AFTER thionamide to prevent using the iodine as new hormone substrate (Jod-Basedow effect); 4. Glucocorticoids (hydrocortisone).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Thyroid Storm Stepwise Pharmacotherapy and Wolff-Chaikoff Effect.",
+    "keyPoints": [
+      "Thyroid Storm Stepwise Pharmacotherapy and Wolff-Chaikoff Effect",
+      "Recognize thyroid storm (fever, delirium, tachycardia/afib, heart failure, jaundice). Sequence of medications: 1. Beta-blocker (propranolol); 2. Thionamide (PTU preferred over meth"
+    ],
+    "references": [
+      {
+        "label": "Ross DS, et al. 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid. 2016;26(10):1343-1421. PMID: 27521067.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27521067/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0055",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Neutropenic Fever Post-Chemotherapy Emergent Monotherapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old woman with diffuse large B-cell lymphoma presents to the emergency department with chills and malaise 10 days after completing her third cycle of R-CHOP chemotherapy. Her temperature is 38.6 C (101.5 F), blood pressure is 118/74 mm Hg, heart rate is 98/min, and respirations are 16/min. Physical examination reveals mild oral mucosal erythema without ulceration, clean and non-tender skin surrounding her right-sided subclavian tunneled catheter, and clear breath sounds. Abdomen is soft and non-tender, with no perianal erythema or pain. Complete blood count reveals: white blood cell count 600/microL with 15% segmented neutrophils and 5% band forms (absolute neutrophil count: 120/microL), hemoglobin 9.2 g/dL, and platelet count 65,000/microL. Blood cultures are drawn from both the peripheral veins and each lumen of the central venous catheter, and a clean-catch urine specimen is sent for analysis. Which of the following is the most appropriate next step in antimicrobial management?",
+    "options": [
+      {
+        "text": "Combination therapy with intravenous vancomycin and oral ciprofloxacin",
+        "correct": false,
+        "explanation": "Oral fluoroquinolones are used only for low-risk outpatient neutropenia (MASCC score >= 21) in combination with amoxicillin-clavulanate, not for inpatient neutropenic fever; vancomycin monotherapy lacks gram-negative coverage."
+      },
+      {
+        "text": "Withhold antimicrobial therapy until blood cultures demonstrate confirmed bacterial growth",
+        "correct": false,
+        "explanation": "Delaying antibiotics until culture results return is associated with rapid progression to septic shock and mortality rates exceeding 40% in neutropenic bacteremia."
+      },
+      {
+        "text": "Immediate surgical removal of the tunneled subclavian catheter followed by oral levofloxacin",
+        "correct": false,
+        "explanation": "Catheter removal is not indicated unless there is exit-site tunnel infection, hemodynamic instability, septic emboli, or persistent bacteremia with Staphylococcus aureus, Candida, or Pseudomonas."
+      },
+      {
+        "text": "Intravenous fluconazole monotherapy targeting fungal angioinvasive aspergillosis",
+        "correct": false,
+        "explanation": "Empiric antifungal therapy is reserved for patients who remain persistently febrile after 4–7 days of broad-spectrum antibacterial coverage and in whom a fungal infection is suspected; it is not first-line therapy."
+      },
+      {
+        "text": "Immediate intravenous monotherapy with cefepime within 60 minutes of presentation",
+        "correct": true,
+        "explanation": "This patient meets criteria for neutropenic fever (single oral temp >= 38.3 C and ANC < 500/microL). In neutropenic patients, lack of inflammatory response allows Pseudomonas aeruginosa and enteric gram-negative bacilli to cause rapid sepsis and death within hours. IDSA guidelines mandate immediate administration of an antipseudomonal beta-lactam monotherapy (cefepime, piperacillin-tazobactam, or meropenem) within 60 minutes of arrival. Empiric vancomycin is not recommended upfront in hemodynamically stable patients without clinical suspicion of MRSA or catheter infection."
+      }
+    ],
+    "explanation": "This patient meets criteria for neutropenic fever (single oral temp >= 38.3 C and ANC < 500/microL). In neutropenic patients, lack of inflammatory response allows Pseudomonas aeruginosa and enteric gram-negative bacilli to cause rapid sepsis and death within hours. IDSA guidelines mandate immediate administration of an antipseudomonal beta-lactam monotherapy (cefepime, piperacillin-tazobactam, or meropenem) within 60 minutes of arrival. Empiric vancomycin is not recommended upfront in hemodynamically stable patients without clinical suspicion of MRSA or catheter infection. Recognize neutropenic fever: single oral temp >= 38.3 C (101 F) with absolute neutrophil count (ANC) < 500/microL. Immediate empiric monotherapy with an antipseudomonal beta-lactam (cefepime, piperacillin-tazobactam, or meropenem) within 60 minutes. Vancomycin is NOT routinely indicated upfront unless specific criteria are met (hemodynamic instability, pneumonia, catheter site infection, severe mucositis).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Neutropenic Fever Post-Chemotherapy Emergent Monotherapy.",
+    "keyPoints": [
+      "Neutropenic Fever Post-Chemotherapy Emergent Monotherapy",
+      "Recognize neutropenic fever: single oral temp >= 38.3 C (101 F) with absolute neutrophil count (ANC) < 500/microL. Immediate empiric monotherapy with an antipseudomonal beta-lactam"
+    ],
+    "references": [
+      {
+        "label": "Freifeld AG, et al. Clinical practice guideline for the use of antimicrobial agents in neutropenic patients with cancer: 2010 update by the Infectious Diseases Society of America. Clin Infect Dis. 2011;52(4):e56-e93. PMID: 21258094.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21258094/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0056",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Ileocolic Intussusception Ultrasound Diagnosis and Air Enema Reduction",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 10-month-old previously healthy boy is brought to the emergency department by his mother due to sudden episodes of severe abdominal distress. During these episodes, which occur every 15 to 20 minutes, the infant screams inconsolably, turns pale, and draws his knees up toward his chest. Between episodes, he appears abnormally lethargic and somnolent. Two hours ago, he had an episode of non-bilious emesis, followed by passage of a stool containing dark red blood mixed with mucus. Physical examination reveals a quiet, lethargic infant. Temperature is 37.4 C (99.3 F), blood pressure is 92/58 mm Hg, and heart rate is 135/min. Palpation of the right upper abdomen reveals a tubular, sausage-shaped mass with emptiness in the right lower quadrant (Dance sign). The abdomen is soft without guarding, rebound tenderness, or rigidity. Complete blood count is normal. Abdominal ultrasonography demonstrates a hypoechoic outer ring surrounding a hyperechoic center (target sign) in the right upper quadrant, with no evidence of free intraperitoneal fluid or pneumoperitoneum. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Pneumatic (air-contrast) enema reduction under fluoroscopic or sonographic guidance",
+        "correct": true,
+        "explanation": "This infant has classical ileocolic intussusception. Abdominal ultrasonography is the diagnostic imaging modality of choice, revealing the pathognomonic target or doughnut sign (transverse view) and pseudokidney sign (longitudinal view). In the absence of peritonitis, hemodynamic instability, or radiographic signs of perforation (pneumoperitoneum), pneumatic (air) or hydrostatic (saline/contrast) enema reduction under fluoroscopic or ultrasound guidance is both diagnostic and therapeutic, successfully reducing >85% of cases without surgery."
+      },
+      {
+        "text": "Emergent exploratory laparotomy with primary surgical resection of the cecum",
+        "correct": false,
+        "explanation": "Surgical exploration is indicated only when enema reduction fails, if the patient presents with signs of peritonitis, bowel perforation, shock, or when a pathological lead point is identified."
+      },
+      {
+        "text": "Upper gastrointestinal series with small bowel follow-through to rule out malrotation",
+        "correct": false,
+        "explanation": "Upper GI series is the gold standard for diagnosing midgut volvulus/malrotation, which classically presents with bilious emesis in neonates, not episodic crying with currant jelly stools in a 10-month-old."
+      },
+      {
+        "text": "Oral rehydration therapy and observation in the pediatric unit for infectious gastroenteritis",
+        "correct": false,
+        "explanation": "Delaying intervention for intussusception leads to progressive venous congestion, arterial compromise, transmural bowel necrosis, perforation, and peritonitis."
+      },
+      {
+        "text": "Technetium-99m pertechnetate scintigraphy to localize ectopic gastric mucosa",
+        "correct": false,
+        "explanation": "A Meckel scan identifies heterotopic gastric mucosa causing painless lower GI bleeding; while Meckel diverticulum can serve as a lead point for intussusception, acute enema reduction takes immediate priority."
+      }
+    ],
+    "explanation": "This infant has classical ileocolic intussusception. Abdominal ultrasonography is the diagnostic imaging modality of choice, revealing the pathognomonic target or doughnut sign (transverse view) and pseudokidney sign (longitudinal view). In the absence of peritonitis, hemodynamic instability, or radiographic signs of perforation (pneumoperitoneum), pneumatic (air) or hydrostatic (saline/contrast) enema reduction under fluoroscopic or ultrasound guidance is both diagnostic and therapeutic, successfully reducing >85% of cases without surgery. Recognize episodic colicky abdominal pain (knees to chest), vomiting, lethargy, and currant jelly stool in a 6-24 month infant. Abdominal ultrasound is diagnostic method of choice (target / donut sign). Treatment is air or hydrostatic (contrast) enema reduction, provided there are no signs of peritonitis or bowel perforation.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Ileocolic Intussusception Ultrasound Diagnosis and Air Enema Reduction.",
+    "keyPoints": [
+      "Ileocolic Intussusception Ultrasound Diagnosis and Air Enema Reduction",
+      "Recognize episodic colicky abdominal pain (knees to chest), vomiting, lethargy, and currant jelly stool in a 6-24 month infant. Abdominal ultrasound is diagnostic method of choice "
+    ],
+    "references": [
+      {
+        "label": "Kelley-Quon IQ, et al. Management of intussusception in children: a systematic review. J Pediatr Surg. 2021;56(3):587-596. PMID: 33189332.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33189332/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0057",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Acute Angle-Closure Glaucoma Immediate Medical Management Sequence",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old hyperopic woman presents to the emergency department with sudden, severe pain in her right eye, accompanied by an intense frontal headache, nausea, and vomiting that began 2 hours after walking out of a dimly lit movie theater. She describes seeing multicolored halos around light sources and blurred vision in the right eye. On physical examination, visual acuity is 20/20 in the left eye and 20/200 in the right eye. The right conjunctiva is severely injected, particularly around the limbus (ciliary flush). The right cornea appears hazy and edematous, and the right pupil is mid-dilated (5.5 mm) and fixed, non-reactive to both direct light and consensual stimulation. The globe feels rock-hard to palpation. Applanation tonometry reveals an intraocular pressure (IOP) of 58 mm Hg in the right eye and 15 mm Hg in the left eye. Which of the following multi-agent regimens represents the most appropriate immediate medical management to lower intraocular pressure before definitive intervention?",
+    "options": [
+      {
+        "text": "Topical cyclopentolate, topical phenylephrine, and oral prednisone",
+        "correct": false,
+        "explanation": "Cyclopentolate and phenylephrine are mydriatic agents that cause pupil dilation, which would further bunch the peripheral iris into the iridocorneal angle and worsen angle-closure."
+      },
+      {
+        "text": "Topical timolol, topical apraclonidine, topical pilocarpine, and intravenous acetazolamide",
+        "correct": true,
+        "explanation": "This patient has acute angle-closure glaucoma triggered by pupil dilation in a darkened environment. Immediate medical reduction of IOP is mandatory to prevent permanent ischemic damage to the optic nerve. Standard acute therapy combines: (1) topical beta-blockers (timolol) to reduce aqueous humor production; (2) topical alpha-2 agonists (apraclonidine) to decrease aqueous production and increase uveoscleral outflow; (3) topical muscarinic agonists (pilocarpine) to induce miosis and pull the peripheral iris away from the trabecular meshwork; and (4) systemic carbonic anhydrase inhibitors (IV acetazolamide) or osmotic agents (IV mannitol) to rapidly shut down aqueous secretion. Definitive treatment is bilateral laser peripheral iridotomy."
+      },
+      {
+        "text": "Topical ketorolac drops and emergent anterior chamber paracentesis with an 18-gauge needle",
+        "correct": false,
+        "explanation": "Anterior chamber paracentesis carries high risks of corneal decompression, crystalline lens damage, and intraocular hemorrhage, and is not first-line medical therapy."
+      },
+      {
+        "text": "Intravenous broad-spectrum vancomycin and ceftazidime with urgent pars plana vitrectomy",
+        "correct": false,
+        "explanation": "Intravitreal/intravenous antibiotics and vitrectomy are indicated for bacterial endophthalmitis (hypopyon, vitritis following intraocular surgery), not acute pupillary block glaucoma."
+      },
+      {
+        "text": "High-dose intravenous methylprednisolone pulse therapy targeting temporal arteritis",
+        "correct": false,
+        "explanation": "Giant cell arteritis presents with jaw claudication, scalp tenderness, elevated ESR, and ischemic optic neuropathy (pale swollen disc), with normal intraocular pressure and normal corneal transparency."
+      }
+    ],
+    "explanation": "This patient has acute angle-closure glaucoma triggered by pupil dilation in a darkened environment. Immediate medical reduction of IOP is mandatory to prevent permanent ischemic damage to the optic nerve. Standard acute therapy combines: (1) topical beta-blockers (timolol) to reduce aqueous humor production; (2) topical alpha-2 agonists (apraclonidine) to decrease aqueous production and increase uveoscleral outflow; (3) topical muscarinic agonists (pilocarpine) to induce miosis and pull the peripheral iris away from the trabecular meshwork; and (4) systemic carbonic anhydrase inhibitors (IV acetazolamide) or osmotic agents (IV mannitol) to rapidly shut down aqueous secretion. Definitive treatment is bilateral laser peripheral iridotomy. Recognize acute angle-closure glaucoma (unilateral severe ocular pain, headache, halos around lights, fixed mid-dilated pupil, cloudy cornea, rock-hard globe, IOP > 40-50 mm Hg). Immediate medical therapy combines topical pressure-lowering agents (timolol, apraclonidine, pilocarpine) and systemic agents (IV acetazolamide or IV mannitol). Definitive treatment is laser peripheral iridotomy.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Angle-Closure Glaucoma Immediate Medical Management Sequence.",
+    "keyPoints": [
+      "Acute Angle-Closure Glaucoma Immediate Medical Management Sequence",
+      "Recognize acute angle-closure glaucoma (unilateral severe ocular pain, headache, halos around lights, fixed mid-dilated pupil, cloudy cornea, rock-hard globe, IOP > 40-50 mm Hg). I"
+    ],
+    "references": [
+      {
+        "label": "Weinreb RN, et al. Primary open-angle glaucoma. Lancet. 2014;383(9930):1739-1748. PMID: 24529763.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24529763/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0058",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Ectopic Pregnancy Methotrexate Candidacy versus Laparoscopy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 27-year-old woman, gravida 1, para 0, presents to the emergency department with mild lower abdominal cramping and light vaginal spotting. Her last menstrual period was 6 weeks ago. Her medical history is unremarkable, and she takes no medications. On physical examination, she is alert and in no distress. Blood pressure is 122/76 mm Hg, heart rate is 74/min, and respirations are 14/min. Abdominal examination reveals mild tenderness in the right lower quadrant without rebound, guarding, or rigidity. Pelvic examination reveals closed cervical os with minimal dark blood in the vaginal vault; no adnexal masses are palpable. Quantitative serum beta-hCG is 2,450 mIU/mL. Transvaginal ultrasonography reveals an empty uterine cavity with a 9-mm stripe, no free fluid in the pouch of Douglas, and a 2.4-cm non-cystic complex mass in the right fallopian tube without embryonic cardiac activity. Serum creatinine is 0.7 mg/dL, AST is 22 U/L, and ALT is 18 U/L. The patient is reliable and committed to rigorous outpatient follow-up. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Immediate diagnostic and therapeutic laparoscopy with right salpingectomy",
+        "correct": false,
+        "explanation": "Surgical laparoscopy (salpingectomy or salpingostomy) is indicated for hemodynamic instability, symptoms of tubal rupture (peritoneal signs), contraindications to methotrexate, ectopic mass >= 3.5 cm, or beta-hCG > 5,000 mIU/mL."
+      },
+      {
+        "text": "Expectant management with repeat transvaginal ultrasonography in 48 hours",
+        "correct": false,
+        "explanation": "Expectant management is reserved for asymptomatic patients with very low, steadily declining beta-hCG levels (< 200–1,000 mIU/mL); at 2,450 mIU/mL, the risk of rupture without active treatment is unacceptably high."
+      },
+      {
+        "text": "Intramuscular methotrexate administration with serial serum beta-hCG monitoring on days 4 and 7",
+        "correct": true,
+        "explanation": "Medical management with intramuscular methotrexate is the treatment of choice for unruptured tubal ectopic pregnancy in patients who meet standard ACOG criteria: hemodynamic stability, baseline serum beta-hCG < 5,000 mIU/mL, ectopic mass size < 3.5 cm, absence of embryonic cardiac motion on ultrasound, normal renal and liver function, and patient reliability to comply with post-treatment monitoring. Beta-hCG levels are checked on days 4 and 7; a decrease >= 15% between days 4 and 7 indicates successful treatment."
+      },
+      {
+        "text": "Uterine dilation and curettage to evaluate for early non-viable intrauterine pregnancy",
+        "correct": false,
+        "explanation": "Transvaginal ultrasound has clearly visualized an extrauterine adnexal mass with an empty uterus above the discriminatory zone (1,500–2,000 mIU/mL); D&C is unnecessary and delays definitive treatment."
+      },
+      {
+        "text": "Oral mifepristone followed by vaginal misoprostol 48 hours later",
+        "correct": false,
+        "explanation": "The combination of mifepristone and misoprostol is indicated for medical termination of intrauterine pregnancy, not for tubal ectopic pregnancy, where it is ineffective and does not prevent rupture."
+      }
+    ],
+    "explanation": "Medical management with intramuscular methotrexate is the treatment of choice for unruptured tubal ectopic pregnancy in patients who meet standard ACOG criteria: hemodynamic stability, baseline serum beta-hCG < 5,000 mIU/mL, ectopic mass size < 3.5 cm, absence of embryonic cardiac motion on ultrasound, normal renal and liver function, and patient reliability to comply with post-treatment monitoring. Beta-hCG levels are checked on days 4 and 7; a decrease >= 15% between days 4 and 7 indicates successful treatment. Evaluate methotrexate candidacy for unruptured ectopic pregnancy: Hemodynamically stable, beta-hCG < 5,000 mIU/mL, ectopic gestational sac < 3.5-4 cm, no fetal cardiac activity, patient willing to comply with follow-up, and normal hepatic/renal function. Laparoscopy is indicated if hemodynamically unstable, peritoneal signs, contraindications to methotrexate, mass > 3.5 cm, cardiac activity present, or beta-hCG > 5,000.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Ectopic Pregnancy Methotrexate Candidacy versus Laparoscopy.",
+    "keyPoints": [
+      "Ectopic Pregnancy Methotrexate Candidacy versus Laparoscopy",
+      "Evaluate methotrexate candidacy for unruptured ectopic pregnancy: Hemodynamically stable, beta-hCG < 5,000 mIU/mL, ectopic gestational sac < 3.5-4 cm, no fetal cardiac activity, pa"
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists' Committee on Practice Bulletins—Gynecology. ACOG Practice Bulletin No. 193: Tubal Ectopic Pregnancy. Obstet Gynecol. 2018;131(3):e91-e103. PMID: 29470343.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29470343/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0059",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Obstructing Urolithiasis with Urosepsis Emergent Decompression",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 63-year-old woman with type 2 diabetes mellitus presents to the emergency department with severe right flank pain, rigors, nausea, and vomiting for 18 hours. Her temperature is 39.1 C (102.4 F), blood pressure is 86/54 mm Hg, heart rate is 122/min, and respirations are 24/min. Physical examination reveals an ill-appearing, shivering woman with marked right costovertebral angle tenderness. Laboratory studies demonstrate: leukocytosis of 19,400/microL with 18% bands, serum creatinine 2.1 mg/dL (baseline 0.9 mg/dL), and serum lactate 3.4 mmol/L. Urinalysis reveals 3+ leukocyte esterase, positive nitrites, >100 white blood cells per high-power field, and moderate bacteria. Non-contrast CT of the abdomen and pelvis reveals a 7-mm calcified stone lodged in the right proximal ureter causing severe hydronephrosis and perinephric fat stranding. Following initiation of aggressive intravenous crystalloid resuscitation and broad-spectrum intravenous piperacillin-tazobactam, which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Emergent extracorporeal shock wave lithotripsy to fragment the obstructing ureteral calculus",
+        "correct": false,
+        "explanation": "Shock wave lithotripsy (ESWL) is absolutely contraindicated in the presence of active urinary tract infection because stone fragmentation disperses infected debris and bacteria into the circulation, precipitating septic shock."
+      },
+      {
+        "text": "Immediate semi-rigid ureteroscopy with holmium laser lithotripsy and stone basketing",
+        "correct": false,
+        "explanation": "Definitive instrumentation and manipulation of an infected obstructed urinary tract increases intrapelvic pressure and forces bacteria into the renal venous plexus, worsening bacteremia; definitive lithotripsy is performed electively after decompression."
+      },
+      {
+        "text": "Medical expulsive therapy with oral tamsulosin and outpatient follow-up in 48 hours",
+        "correct": false,
+        "explanation": "Medical expulsive therapy is reserved for small (<10 mm) uncomplicated stones in hemodynamically stable patients without infection or renal failure; in obstructive sepsis, it is fatal."
+      },
+      {
+        "text": "Emergent renal decompression via retrograde ureteral stent placement or percutaneous nephrostomy",
+        "correct": true,
+        "explanation": "An obstructing ureteral calculus in the setting of systemic infection (fever, hemodynamic instability, pyuria, hydronephrosis) is an absolute urologic emergency (obstructive urosepsis/pyonephrosis). Antibiotics cannot penetrate an obstructed, high-pressure collecting system effectively, leading to rapid septic shock, renal cortical destruction, and death. Immediate decompression of the renal collecting system using either retrograde ureteral stent placement or percutaneous nephrostomy is mandatory. Definitive stone fragmentation is delayed until sepsis resolves."
+      },
+      {
+        "text": "Administration of intravenous sodium bicarbonate to achieve urinary alkalinization and dissolve the stone",
+        "correct": false,
+        "explanation": "Urinary alkalinization dissolves pure uric acid stones, but it does not acutely decompress an infected obstructed renal unit and is ineffective for radiopaque calcium-containing stones."
+      }
+    ],
+    "explanation": "An obstructing ureteral calculus in the setting of systemic infection (fever, hemodynamic instability, pyuria, hydronephrosis) is an absolute urologic emergency (obstructive urosepsis/pyonephrosis). Antibiotics cannot penetrate an obstructed, high-pressure collecting system effectively, leading to rapid septic shock, renal cortical destruction, and death. Immediate decompression of the renal collecting system using either retrograde ureteral stent placement or percutaneous nephrostomy is mandatory. Definitive stone fragmentation is delayed until sepsis resolves. Recognize infected obstructed kidney (ureteral stone + fever, leukocytosis, pyuria, hydronephrosis). This is a surgical urological emergency. Immediate decompression via percutaneous nephrostomy tube or retrograde ureteral stent placement under IV broad-spectrum antibiotics. Shock-wave lithotripsy and ureteroscopy are strictly contraindicated during acute infection.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Obstructing Urolithiasis with Urosepsis Emergent Decompression.",
+    "keyPoints": [
+      "Obstructing Urolithiasis with Urosepsis Emergent Decompression",
+      "Recognize infected obstructed kidney (ureteral stone + fever, leukocytosis, pyuria, hydronephrosis). This is a surgical urological emergency. Immediate decompression via percutaneo"
+    ],
+    "references": [
+      {
+        "label": "Assimos D, et al. Surgical Management of Stones: American Urological Association/Endourological Society Guideline. J Urol. 2016;196(4):1153-1160. PMID: 27238616.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27238616/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0060",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Developmental Dysplasia of the Hip Screening and Ultrasound",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 6-week-old female infant is brought to the clinic for a routine well-child check. She was born at 39 weeks gestation via planned Cesarean delivery due to persistent frank breech presentation throughout the third trimester. Birth weight was 3,450 g, and the neonatal period was uneventful. The mother reports no concerns with feeding or leg movements. On physical examination, the infant appears well and active. Lower extremity examination demonstrates symmetric thigh and gluteal skin folds. With the infant relaxed and supine, gentle abduction of the flexed right hip with anterior elevation of the greater trochanter produces a distinct, palpable \"clunk\" (positive Ortolani maneuver). Examination of the left hip reveals normal abduction without clicks or instability. Femoral pulses are strong and symmetric bilaterally. Which of the following is the most appropriate imaging modality to evaluate this infant’s hip pathology?",
+    "options": [
+      {
+        "text": "Anteroposterior and frog-leg lateral radiographs of the pelvis",
+        "correct": false,
+        "explanation": "Plain radiography of the pelvis is the imaging modality of choice only after 4 to 6 months of age, once the femoral head ossification center has developed sufficiently to allow measurement of the acetabular index."
+      },
+      {
+        "text": "Magnetic resonance imaging of the pelvis under general anesthesia",
+        "correct": false,
+        "explanation": "MRI is reserved for complex surgical planning or confirming femoral head reduction following closed or open reduction in a spica cast, not for initial diagnosis."
+      },
+      {
+        "text": "Non-contrast computed tomography of the pelvis with 3D reconstruction",
+        "correct": false,
+        "explanation": "CT provides excessive radiation to an infant and poorly visualizes unossified cartilaginous structures compared to ultrasound."
+      },
+      {
+        "text": "Radionuclide technetium-99m bone scintigraphy",
+        "correct": false,
+        "explanation": "Bone scintigraphy assesses metabolic bone turnover and osteomyelitis or avascular necrosis, not structural acetabular dysplasia."
+      },
+      {
+        "text": "Ultrasonography of the bilateral hip joints",
+        "correct": true,
+        "explanation": "Developmental dysplasia of the hip (DDH) refers to abnormal acetabular development leading to subluxation or dislocation of the femoral head. Major risk factors include breech presentation, female sex, and family history. In infants younger than 4 to 6 months of age, the femoral head and acetabulum are largely cartilaginous and non-ossified, rendering plain radiography insensitive and unreliable. Ultrasonography is the preferred imaging modality because it directly visualizes the cartilaginous femoral head and assesses dynamic stability during stress testing."
+      }
+    ],
+    "explanation": "Developmental dysplasia of the hip (DDH) refers to abnormal acetabular development leading to subluxation or dislocation of the femoral head. Major risk factors include breech presentation, female sex, and family history. In infants younger than 4 to 6 months of age, the femoral head and acetabulum are largely cartilaginous and non-ossified, rendering plain radiography insensitive and unreliable. Ultrasonography is the preferred imaging modality because it directly visualizes the cartilaginous femoral head and assesses dynamic stability during stress testing. Recognize risk factors for DDH (breech presentation, female, family history) or positive Ortolani/Barlow sign. In infants < 4-6 months of age, the femoral head is predominantly cartilaginous; therefore, ultrasound of the hips is the diagnostic imaging modality of choice. Plain radiographs are only reliable after 4-6 months when the femoral head ossifies.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Developmental Dysplasia of the Hip Screening and Ultrasound.",
+    "keyPoints": [
+      "Developmental Dysplasia of the Hip Screening and Ultrasound",
+      "Recognize risk factors for DDH (breech presentation, female, family history) or positive Ortolani/Barlow sign. In infants < 4-6 months of age, the femoral head is predominantly car"
+    ],
+    "references": [
+      {
+        "label": "Shaw BA, et al. Evaluation and referral for developmental dysplasia of the hip in infants. Pediatrics. 2016;138(6):e20163107. PMID: 27940748.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27940748/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0061",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Tension Pneumothorax Immediate Needle Decompression",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old unrestrained driver is brought to the trauma center following a high-speed motor vehicle collision. On arrival, he is in marked respiratory distress, cyanotic, and combative. His blood pressure is 74/42 mm Hg, heart rate is 138/min, respirations are 36/min, and oxygen saturation is 82% on a non-rebreather mask. Physical examination reveals distended neck veins reaching the angle of the mandible. Trachea is palpably deviated toward the left side. Auscultation of the chest demonstrates completely absent breath sounds over the entire right hemithorax with loud vesicular breath sounds on the left. Percussion over the right hemithorax yields marked hyperresonance. Heart sounds are rapid but audible without pericardial rub. The radiology technician is positioning the portable chest radiography cassette behind the patient. Which of the following is the most appropriate immediate action?",
+    "options": [
+      {
+        "text": "Immediate needle thoracostomy decompression in the right second intercostal space at the midclavicular line",
+        "correct": true,
+        "explanation": "The patient has tension pneumothorax, a lethal clinical diagnosis characterized by hypotension, severe respiratory distress, distended neck veins, absent breath sounds, hyperresonance to percussion, and contralateral tracheal deviation. Air accumulates under pressure in the pleural space, collapsing the ipsilateral lung and shifting the mediastinum, which kinks the inferior vena cava and halts venous return, causing obstructive shock. Treatment is immediate decompression with a large-bore needle (2nd ICS midclavicular or 5th ICS anterior axillary line) followed promptly by tube thoracostomy. Waiting for a chest radiograph is a fatal error."
+      },
+      {
+        "text": "Hold interventions until portable anteroposterior chest radiography confirms the pleural line",
+        "correct": false,
+        "explanation": "Tension pneumothorax is a strictly clinical diagnosis; delaying decompression to obtain radiographs frequently leads to pulseless electrical activity (PEA) arrest and death."
+      },
+      {
+        "text": "Emergent subxiphoid needle pericardiocentesis under bedside ultrasound guidance",
+        "correct": false,
+        "explanation": "Pericardiocentesis is the treatment for cardiac tamponade (Beck triad: hypotension, JVD, muffled heart sounds). In tamponade, lungs are clear to auscultation and percussion is resonant bilaterally, without unilateral absent breath sounds or tracheal deviation."
+      },
+      {
+        "text": "Endotracheal intubation with positive-pressure mechanical ventilation before thoracic intervention",
+        "correct": false,
+        "explanation": "Initiating positive-pressure mechanical ventilation before decompressing a tension pneumothorax markedly increases intrathoracic pressure, rapidly abolishing venous return and precipitating immediate cardiac arrest."
+      },
+      {
+        "text": "Intravenous infusion of 2 liters of normal saline and high-dose norepinephrine infusion",
+        "correct": false,
+        "explanation": "Volume and vasopressors cannot overcome mechanical obstruction to venous return caused by mediastinal shift; decompression of pleural tension is the only effective therapy."
+      }
+    ],
+    "explanation": "The patient has tension pneumothorax, a lethal clinical diagnosis characterized by hypotension, severe respiratory distress, distended neck veins, absent breath sounds, hyperresonance to percussion, and contralateral tracheal deviation. Air accumulates under pressure in the pleural space, collapsing the ipsilateral lung and shifting the mediastinum, which kinks the inferior vena cava and halts venous return, causing obstructive shock. Treatment is immediate decompression with a large-bore needle (2nd ICS midclavicular or 5th ICS anterior axillary line) followed promptly by tube thoracostomy. Waiting for a chest radiograph is a fatal error. Differentiate tension pneumothorax from cardiac tamponade in trauma. Both cause hypotension and JVD. Tension pneumothorax features absent unilateral breath sounds, hyperresonance to percussion, and contralateral tracheal deviation. Immediate treatment is needle decompression (2nd intercostal space midclavicular or 5th intercostal anterior axillary line) followed by tube thoracostomy, without waiting for a chest radiograph.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Tension Pneumothorax Immediate Needle Decompression.",
+    "keyPoints": [
+      "Tension Pneumothorax Immediate Needle Decompression",
+      "Differentiate tension pneumothorax from cardiac tamponade in trauma. Both cause hypotension and JVD. Tension pneumothorax features absent unilateral breath sounds, hyperresonance t"
+    ],
+    "references": [
+      {
+        "label": "American College of Surgeons. ATLS Student Course Manual. 10th ed. Chicago, IL: American College of Surgeons; 2018.",
+        "url": "https://www.facs.org/quality-programs/trauma/education/advanced-trauma-life-support/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0062",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Catatonia Lorazepam Challenge and Electroconvulsive Therapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old woman with a history of recurrent major depressive disorder is brought to the hospital by her sister because she has stopped eating, drinking, and speaking over the past 5 days. On physical examination, the patient sits rigidly in bed with eyes open, staring blankly ahead. She is completely mute and does not respond to verbal commands or painful stimuli. Vital signs are: blood pressure 118/76 mm Hg, heart rate 84/min, and temperature 37.1 C (98.8 F). When the examiner lifts her right arm into an awkward, abducted position, she maintains that position indefinitely for over 20 minutes without fatiguing (catalepsy and waxy flexibility). When the examiner attempts to passively bend her elbow, she resists with rigid force proportional to the examiner’s effort (gegenhalten/negativism). Serum creatine kinase, electrolytes, and brain MRI are normal. Which of the following is the most appropriate initial pharmacological intervention for this patient?",
+    "options": [
+      {
+        "text": "Intramuscular haloperidol administration targeting underlying psychotic thought disorder",
+        "correct": false,
+        "explanation": "First-generation and second-generation antipsychotics are strictly contraindicated in acute catatonia because dopamine D2 receptor antagonism exacerbates catatonia and dramatically increases the risk of precipitating neuroleptic malignant syndrome (NMS)."
+      },
+      {
+        "text": "Intravenous lorazepam challenge with monitoring of the clinical response over 30 minutes",
+        "correct": true,
+        "explanation": "This patient displays classic features of catatonia (stupor, mutism, catalepsy, waxy flexibility, negativism) in the setting of severe depression. The primary pathophysiological mechanism involves GABA-A receptor hypoactivity and dopamine dysregulation in the frontostriatal circuitry. The immediate first-line diagnostic and therapeutic intervention is an intravenous lorazepam challenge (1–2 mg IV). Rapid partial or complete reversal of catatonic signs within 15–30 minutes confirms the diagnosis and initiates treatment. If lorazepam is ineffective or if malignant catatonia develops, electroconvulsive therapy (ECT) is the definitive treatment."
+      },
+      {
+        "text": "Oral sertraline initiated at high dose with close suicide precautions",
+        "correct": false,
+        "explanation": "Oral SSRIs require weeks to achieve therapeutic efficacy and cannot be ingested by a mute, catatonic patient refusing food and fluids; they do not resolve acute catatonia."
+      },
+      {
+        "text": "Intravenous dantrolene infusion targeting skeletal muscle ryanodine receptors",
+        "correct": false,
+        "explanation": "Dantrolene is a skeletal muscle relaxant indicated for neuroleptic malignant syndrome or malignant hyperthermia with severe hyperpyrexia and autonomic instability, which are absent here."
+      },
+      {
+        "text": "Intravenous levothyroxine replacement therapy for presumed myxedema coma",
+        "correct": false,
+        "explanation": "Myxedema coma presents with profound hypothermia, severe bradycardia, hypotension, and generalized non-pitting edema with elevated TSH, not catalepsy and waxy flexibility with normal vitals."
+      }
+    ],
+    "explanation": "This patient displays classic features of catatonia (stupor, mutism, catalepsy, waxy flexibility, negativism) in the setting of severe depression. The primary pathophysiological mechanism involves GABA-A receptor hypoactivity and dopamine dysregulation in the frontostriatal circuitry. The immediate first-line diagnostic and therapeutic intervention is an intravenous lorazepam challenge (1–2 mg IV). Rapid partial or complete reversal of catatonic signs within 15–30 minutes confirms the diagnosis and initiates treatment. If lorazepam is ineffective or if malignant catatonia develops, electroconvulsive therapy (ECT) is the definitive treatment. Recognize catatonia (immobility, mutism, stupor, waxy flexibility, posturing, negativism) associated with severe mood disorders or psychotic disorders. First-line diagnostic and therapeutic intervention is the intravenous lorazepam challenge test (1-2 mg IV), which provides rapid temporary relief. Definitive therapy for refractory catatonia or malignant catatonia is electroconvulsive therapy (ECT). Antipsychotics are contraindicated as they can worsen catatonia or precipitate NMS.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Catatonia Lorazepam Challenge and Electroconvulsive Therapy.",
+    "keyPoints": [
+      "Catatonia Lorazepam Challenge and Electroconvulsive Therapy",
+      "Recognize catatonia (immobility, mutism, stupor, waxy flexibility, posturing, negativism) associated with severe mood disorders or psychotic disorders. First-line diagnostic and th"
+    ],
+    "references": [
+      {
+        "label": "Sienaert P, et al. Evidence-based treatment for catatonia: a systematic review. Curr Psychiatry Rep. 2014;16(7):450. PMID: 24838688.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24838688/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0063",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Spontaneous Bacterial Peritonitis Diagnostic Paracentesis and Albumin",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old man with decompensated alcohol-associated cirrhosis presents to the emergency department with diffuse abdominal discomfort and mild confusion for 24 hours. Physical examination reveals asterixis, scleral icterus, spider angiomas, and a distended abdomen with shifting dullness and mild generalized abdominal tenderness without rebound or involuntary guarding. Vital signs: temperature 38.3 C (101.0 F), blood pressure 104/62 mm Hg, heart rate 94/min, and respirations 18/min. Serum creatinine is 1.4 mg/dL (baseline: 0.9 mg/dL) and total bilirubin is 4.8 mg/dL. An immediate diagnostic paracentesis yields cloudy ascitic fluid with a total nucleated cell count of 680/microL with 72% polymorphonuclear neutrophils (PMNs) (absolute PMN count: 490/microL), total protein 1.1 g/dL, and serum-ascites albumin gradient (SAAG) of 1.6 g/dL. In addition to initiating intravenous cefotaxime, which of the following interventions significantly reduces the incidence of hepatorenal syndrome and decreases in-hospital mortality in this patient?",
+    "options": [
+      {
+        "text": "Immediate placement of a transjugular intrahepatic portosystemic shunt (TIPS)",
+        "correct": false,
+        "explanation": "TIPS is contraindicated during active systemic infection or peritonitis; it is used for refractory ascites or secondary prevention of variceal bleeding once infection is eradicated."
+      },
+      {
+        "text": "Large-volume therapeutic paracentesis with complete evacuation of 8 liters of ascites",
+        "correct": false,
+        "explanation": "Large-volume paracentesis during acute SBP does not resolve infection and carries risk of post-paracentesis circulatory dysfunction; only diagnostic paracentesis is warranted acutely."
+      },
+      {
+        "text": "Intravenous 20% albumin infusion (1.5 g/kg within 6 hours, followed by 1.0 g/kg on day 3)",
+        "correct": true,
+        "explanation": "This patient has spontaneous bacterial peritonitis (SBP), defined by an ascitic fluid absolute PMN count >= 250/microL in the absence of an intra-abdominal surgically treatable source. In addition to empiric broad-spectrum antibiotic therapy (e.g., IV cefotaxime or ceftriaxone), randomized trials demonstrate that intravenous albumin (1.5 g/kg body weight at diagnosis, followed by 1.0 g/kg on hospital day 3) prevents circulatory dysfunction, reduces the incidence of hepatorenal syndrome from 30% to 10%, and significantly reduces mortality, particularly in patients with baseline serum creatinine > 1.0 mg/dL, BUN > 30 mg/dL, or bilirubin > 4.0 mg/dL."
+      },
+      {
+        "text": "Oral lactulose titration targeting 8 to 10 loose bowel movements daily",
+        "correct": false,
+        "explanation": "Lactulose is titrated to 2–3 soft bowel movements daily for hepatic encephalopathy; targeting 8–10 bowel movements causes profound dehydration, hypokalemia, and precipitates acute renal failure."
+      },
+      {
+        "text": "Emergent exploratory laparotomy with peritoneal lavage and drain placement",
+        "correct": false,
+        "explanation": "Laparotomy is contraindicated in spontaneous bacterial peritonitis and leads to high surgical mortality; surgical exploration is reserved for secondary bacterial peritonitis (perforated viscus, Runyon criteria)."
+      }
+    ],
+    "explanation": "This patient has spontaneous bacterial peritonitis (SBP), defined by an ascitic fluid absolute PMN count >= 250/microL in the absence of an intra-abdominal surgically treatable source. In addition to empiric broad-spectrum antibiotic therapy (e.g., IV cefotaxime or ceftriaxone), randomized trials demonstrate that intravenous albumin (1.5 g/kg body weight at diagnosis, followed by 1.0 g/kg on hospital day 3) prevents circulatory dysfunction, reduces the incidence of hepatorenal syndrome from 30% to 10%, and significantly reduces mortality, particularly in patients with baseline serum creatinine > 1.0 mg/dL, BUN > 30 mg/dL, or bilirubin > 4.0 mg/dL. Recognize spontaneous bacterial peritonitis (cirrhosis with ascites + fever, abdominal pain, or altered mental status). Diagnostic paracentesis shows ascitic fluid absolute neutrophil count (PMN) >= 250/microL. Immediate empiric coverage is IV third-generation cephalosporin (cefotaxime or ceftriaxone) PLUS intravenous albumin (1.5 g/kg on day 1, 1.0 g/kg on day 3) to prevent hepatorenal syndrome and reduce mortality.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Spontaneous Bacterial Peritonitis Diagnostic Paracentesis and Albumin.",
+    "keyPoints": [
+      "Spontaneous Bacterial Peritonitis Diagnostic Paracentesis and Albumin",
+      "Recognize spontaneous bacterial peritonitis (cirrhosis with ascites + fever, abdominal pain, or altered mental status). Diagnostic paracentesis shows ascitic fluid absolute neutrop"
+    ],
+    "references": [
+      {
+        "label": "Biggins SW, et al. Diagnosis, Evaluation, and Management of Ascites and Complications in Cirrhosis: 2021 Practice Guidance by the American Association for the Study of Liver Diseases. Hepatology. 2021;74(2):1014-1048. PMID: 33942342.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33942342/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0064",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Hypertrophic Cardiomyopathy Primary Prevention of Sudden Death",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old collegiate basketball player is referred to the cardiology clinic after experiencing an episode of sudden loss of consciousness during a scrimmage. He collapsed onto the court without warning and regained consciousness within 30 seconds without post-ictal confusion. Family history is notable for his father, who died suddenly and unexpectedly at age 32 while playing tennis. Physical examination reveals a harsh, crescendo-decrescendo systolic murmur heard best at the left sternal border that increases in intensity during the Valsalva maneuver and standing, and softens with passive leg elevation. Transthoracic echocardiography demonstrates asymmetric septal hypertrophy with a maximal left ventricular septal wall thickness of 32 mm, systolic anterior motion (SAM) of the mitral valve, a resting left ventricular outflow tract (LVOT) gradient of 52 mm Hg, and a preserved left ventricular ejection fraction of 68%. Twenty-four-hour ambulatory Holter monitoring demonstrates multiple asymptomatic runs of non-sustained ventricular tachycardia. Which of the following interventions is the most effective next step to reduce the risk of sudden cardiac death in this patient?",
+    "options": [
+      {
+        "text": "Initiation of high-dose oral metoprolol succinate to prevent lethal ventricular arrhythmias",
+        "correct": false,
+        "explanation": "Beta-blockers are first-line for symptom management (angina, dyspnea) and reducing dynamic LVOT gradients, but they have never been shown to reduce the incidence of sudden cardiac death or terminate ventricular fibrillation."
+      },
+      {
+        "text": "Surgical septal myectomy (Morrow procedure) with mitral valve annuloplasty",
+        "correct": false,
+        "explanation": "Septal reduction therapy (surgical myectomy or alcohol septal ablation) is indicated for severe, drug-refractory symptoms caused by LVOT obstruction; it does not substitute for an ICD in a patient with multiple high-risk sudden death criteria."
+      },
+      {
+        "text": "Initiation of oral amiodarone maintenance therapy for ventricular arrhythmia suppression",
+        "correct": false,
+        "explanation": "Amiodarone does not provide definitive protection against ventricular fibrillation in high-risk HCM and carries significant long-term pulmonary, hepatic, and thyroid toxicities compared to an ICD."
+      },
+      {
+        "text": "Placement of a transvenous or subcutaneous implantable cardioverter-defibrillator",
+        "correct": true,
+        "explanation": "This patient has hypertrophic cardiomyopathy (HCM) with multiple major risk factors for sudden cardiac death (SCD): unexplained exertional syncope, strong family history of premature SCD in a first-degree relative, massive left ventricular wall hypertrophy (thickness >= 30 mm), and documented non-sustained ventricular tachycardia on Holter monitoring. An implantable cardioverter-defibrillator (ICD) is the only proven therapy that prevents sudden arrhythmic death in high-risk HCM patients. Beta-blockers or calcium channel blockers alleviate symptoms and outflow tract gradients but do not confer protection against sudden cardiac death."
+      },
+      {
+        "text": "Clearance to resume competitive collegiate athletic participation with an automated external defibrillator on site",
+        "correct": false,
+        "explanation": "Competitive sports participation is strictly prohibited in patients with high-risk HCM due to heightened catecholaminergic surge triggering fatal re-entrant ventricular tachyarrhythmias."
+      }
+    ],
+    "explanation": "This patient has hypertrophic cardiomyopathy (HCM) with multiple major risk factors for sudden cardiac death (SCD): unexplained exertional syncope, strong family history of premature SCD in a first-degree relative, massive left ventricular wall hypertrophy (thickness >= 30 mm), and documented non-sustained ventricular tachycardia on Holter monitoring. An implantable cardioverter-defibrillator (ICD) is the only proven therapy that prevents sudden arrhythmic death in high-risk HCM patients. Beta-blockers or calcium channel blockers alleviate symptoms and outflow tract gradients but do not confer protection against sudden cardiac death. Identify hypertrophic cardiomyopathy (HCM). Evaluate sudden cardiac death (SCD) risk factors: prior cardiac arrest/sustained VT (secondary prevention), or major primary risk factors: family history of sudden death, unexplained syncope, massive LV hypertrophy (wall thickness >= 30 mm), LV apical aneurysm, or LVEF < 50%. Patients with high-risk features require an implantable cardioverter-defibrillator (ICD). Beta-blockers improve symptoms but do not prevent sudden death.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hypertrophic Cardiomyopathy Primary Prevention of Sudden Death.",
+    "keyPoints": [
+      "Hypertrophic Cardiomyopathy Primary Prevention of Sudden Death",
+      "Identify hypertrophic cardiomyopathy (HCM). Evaluate sudden cardiac death (SCD) risk factors: prior cardiac arrest/sustained VT (secondary prevention), or major primary risk factor"
+    ],
+    "references": [
+      {
+        "label": "Ommen SR, et al. 2020 AHA/ACC Guideline for the Diagnosis and Treatment of Patients With Hypertrophic Cardiomyopathy. Circulation. 2020;142(25):e558-e631. PMID: 33215931.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33215931/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0065",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Placenta Previa Third-Trimester Management and Digital Exam Avoidance",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 31-year-old woman, gravida 3, para 2, at 33 weeks gestation presents to the labor and delivery unit with sudden-onset, painless, bright red vaginal bleeding that began 1 hour ago. She has had no contractions, abdominal pain, or leakage of fluid. Her two prior deliveries were by low-transverse Cesarean delivery for breech presentation. On physical examination, her blood pressure is 114/72 mm Hg, heart rate is 82/min, and respirations are 16/min. Abdominal palpation reveals a soft, non-tender, non-distended uterus with no palpable contractions. Continuous external fetal monitoring demonstrates a baseline fetal heart rate of 145/min with moderate variability, positive accelerations, and no decelerations. Maternal pad count reveals approximately 100 mL of fresh blood. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Immediate digital vaginal examination to assess cervical dilation and effacement",
+        "correct": false,
+        "explanation": "Digital examination in placenta previa can puncture the placental venous sinusoids and provoke catastrophic maternal hemorrhage and fetal exsanguination."
+      },
+      {
+        "text": "Emergent Cesarean delivery under general anesthesia without prior imaging",
+        "correct": false,
+        "explanation": "Immediate Cesarean delivery is indicated for hemodynamic instability, refractory severe hemorrhage, or non-reassuring fetal heart tracings; stable patients with reassuring fetal status are evaluated ultrasonographically and managed expectantly until 36–37 weeks."
+      },
+      {
+        "text": "Administration of intramuscular oxytocin to promote hemostasis through myometrial contraction",
+        "correct": false,
+        "explanation": "Oxytocin stimulates uterine contractions which disrupt placental attachment over the internal os, dramatically worsening bleeding in placenta previa."
+      },
+      {
+        "text": "Placement of an intrauterine pressure catheter to quantify subclinical uterine resting tone",
+        "correct": false,
+        "explanation": "Invasive intrauterine catheters are contraindicated through a cervix covered by placenta previa due to direct placental trauma."
+      },
+      {
+        "text": "Transabdominal ultrasonography followed by gentle transvaginal ultrasonography, avoiding digital cervical examination",
+        "correct": true,
+        "explanation": "The presentation of painless, bright red vaginal bleeding in the third trimester of pregnancy is classic for placenta previa. Prior Cesarean deliveries and multiparity are major risk factors. Digital cervical examination is strictly contraindicated because digital disruption of the placental bed overlying the cervical os can precipitate catastrophic, life-threatening maternal exsanguination. Transabdominal ultrasound is performed first, followed safely by transvaginal ultrasound (which is far more accurate for measuring distance from the internal os, as the probe angle avoids entering the cervix)."
+      }
+    ],
+    "explanation": "The presentation of painless, bright red vaginal bleeding in the third trimester of pregnancy is classic for placenta previa. Prior Cesarean deliveries and multiparity are major risk factors. Digital cervical examination is strictly contraindicated because digital disruption of the placental bed overlying the cervical os can precipitate catastrophic, life-threatening maternal exsanguination. Transabdominal ultrasound is performed first, followed safely by transvaginal ultrasound (which is far more accurate for measuring distance from the internal os, as the probe angle avoids entering the cervix). Recognize painless bright red vaginal bleeding in the 3rd trimester. Digital pelvic examination is strictly contraindicated due to risk of catastrophic hemorrhage. Initial evaluation is transabdominal followed by transvaginal ultrasound. In stable patients, manage expectantly with pelvic rest and antenatal corticosteroids, with scheduled Cesarean delivery at 36 0/7 to 37 6/7 weeks.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Placenta Previa Third-Trimester Management and Digital Exam Avoidance.",
+    "keyPoints": [
+      "Placenta Previa Third-Trimester Management and Digital Exam Avoidance",
+      "Recognize painless bright red vaginal bleeding in the 3rd trimester. Digital pelvic examination is strictly contraindicated due to risk of catastrophic hemorrhage. Initial evaluati"
+    ],
+    "references": [
+      {
+        "label": "Silver RM. Abnormal Placentation: Placenta Previa, Vasa Previa, and Placenta Accreta Spectrum. Obstet Gynecol. 2015;126(3):654-668. PMID: 26244840.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26244840/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0066",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Pancreatitis Fluid Resuscitation and Severity Stratification",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old man presents to the emergency department with severe, constant epigastric pain radiating directly to his back for the past 14 hours. The pain is associated with repeated retching and non-bilious vomiting and is slightly relieved when leaning forward. He has a history of gallstone disease. Physical examination reveals an uncomfortable man breathing rapidly. Temperature is 38.1 C (100.6 F), blood pressure is 108/68 mm Hg, heart rate is 112/min, and respirations are 24/min. Abdominal examination reveals voluntary guarding and marked tenderness to palpation in the epigastrium without rebound tenderness or flank ecchymoses. Bowel sounds are hypoactive. Laboratory evaluation reveals: serum lipase 3,840 U/L (normal: 10–140 U/L), serum amylase 1,220 U/L, hematocrit 48% (normal: 40–50%), BUN 28 mg/dL (baseline: 12 mg/dL), serum creatinine 1.4 mg/dL, and calcium 8.8 mg/dL. Right upper quadrant ultrasonography reveals multiple small gallstones in the gallbladder without gallbladder wall thickening, with common bile duct diameter of 5 mm. Which of the following is the most appropriate initial management for this patient?",
+    "options": [
+      {
+        "text": "Goal-directed intravenous fluid resuscitation with lactated Ringer solution targeting normalization of BUN and urine output",
+        "correct": true,
+        "explanation": "This patient has acute gallstone pancreatitis with systemic inflammatory response syndrome (SIRS) and hemoconcentration (elevated hematocrit, BUN 28 mg/dL). Massive capillary leak and third-spacing cause intravascular volume depletion, which drives pancreatic microvascular hypoperfusion and necrosis. Early, goal-directed intravenous fluid resuscitation with a balanced crystalloid (Lactated Ringer's solution at 200–500 mL/h, or 20 mL/kg bolus followed by 3 mL/kg/h) significantly reduces SIRS and systemic morbidity compared to 0.9% normal saline (which induces hyperchloremic metabolic acidosis). Targets include falling BUN and urine output > 0.5–1.0 mL/kg/h."
+      },
+      {
+        "text": "Empiric intravenous prophylactic meropenem therapy to prevent secondary infection of pancreatic necrosis",
+        "correct": false,
+        "explanation": "Prophylactic antibiotics are not recommended in acute pancreatitis, even in the presence of severe disease or sterile necrosis, as they do not decrease mortality or infected necrosis rates and increase resistant infections."
+      },
+      {
+        "text": "Emergent endoscopic retrograde cholangiopancreatography (ERCP) within 24 hours of presentation",
+        "correct": false,
+        "explanation": "Emergent ERCP within 24 hours is indicated strictly for gallstone pancreatitis complicated by concurrent acute cholangitis or persistent biliary duct obstruction (elevated bilirubin, dilated common bile duct); CBD is normal (5 mm) here."
+      },
+      {
+        "text": "Total parenteral nutrition initiated immediately via a central venous catheter",
+        "correct": false,
+        "explanation": "TPN is associated with higher rates of line sepsis and mortality compared to enteral nutrition; early oral feeding or enteral tube feeding (nasogastric/nasojejunal) is initiated once pain and nausea improve."
+      },
+      {
+        "text": "Immediate contrast-enhanced CT of the abdomen to evaluate for necrotizing collections",
+        "correct": false,
+        "explanation": "Contrast-enhanced CT is not recommended upon admission unless diagnosis is uncertain; pancreatic parenchymal necrosis takes 48–72 hours to fully organize, so early CT underestimates necrosis extent."
+      }
+    ],
+    "explanation": "This patient has acute gallstone pancreatitis with systemic inflammatory response syndrome (SIRS) and hemoconcentration (elevated hematocrit, BUN 28 mg/dL). Massive capillary leak and third-spacing cause intravascular volume depletion, which drives pancreatic microvascular hypoperfusion and necrosis. Early, goal-directed intravenous fluid resuscitation with a balanced crystalloid (Lactated Ringer's solution at 200–500 mL/h, or 20 mL/kg bolus followed by 3 mL/kg/h) significantly reduces SIRS and systemic morbidity compared to 0.9% normal saline (which induces hyperchloremic metabolic acidosis). Targets include falling BUN and urine output > 0.5–1.0 mL/kg/h. Recognize acute pancreatitis (epigastric pain radiating to back, lipase > 3x ULN). Early fluid resuscitation with balanced crystalloids (Lactated Ringer's) reduces SIRS and mortality compared to normal saline. High BUN (>20 mg/dL) or rising hematocrit reflects hemoconcentration and third-spacing, predicting pancreatic necrosis. Prophylactic antibiotics are NOT indicated for non-infected necrotizing pancreatitis.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Pancreatitis Fluid Resuscitation and Severity Stratification.",
+    "keyPoints": [
+      "Acute Pancreatitis Fluid Resuscitation and Severity Stratification",
+      "Recognize acute pancreatitis (epigastric pain radiating to back, lipase > 3x ULN). Early fluid resuscitation with balanced crystalloids (Lactated Ringer's) reduces SIRS and mortali"
+    ],
+    "references": [
+      {
+        "label": "Tenner S, et al. American College of Gastroenterology guideline: management of acute pancreatitis. Am J Gastroenterol. 2013;108(9):1400-1415. PMID: 23896955.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23896955/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0067",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Unstable Ventricular Tachycardia Synchronized Cardioversion",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man with a history of prior anterior myocardial infarction is brought to the emergency department after experiencing sudden palpitations, dizziness, and diaphoresis. While being placed on the cardiac monitor, he reports worsening lightheadedness and feeling as if he is about to pass out. Physical examination reveals a pale, diaphoretic, somnolent man. His blood pressure is 78/46 mm Hg, heart rate is 178/min, respirations are 22/min, and oxygen saturation is 94% on ambient air. Cardiac auscultation reveals a regular, very rapid rhythm with variable intensity of the first heart sound. Peripheral pulses are weak and thready. Bilateral lower lung fields have fine crackles. Continuous cardiac telemetry reveals a regular, monomorphic wide-complex tachycardia with QRS duration of 160 ms and evidence of atrioventricular dissociation with occasional fusion beats. A peripheral intravenous catheter is in place. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Immediate unsynchronized high-energy defibrillation at 200 Joules biphasic",
+        "correct": false,
+        "explanation": "Unsynchronized defibrillation is reserved for pulseless cardiac arrest (ventricular fibrillation or pulseless VT) or polymorphic VT (e.g., torsades de pointes); delivering an unsynchronized shock to a patient with organized rhythm can trigger ventricular fibrillation."
+      },
+      {
+        "text": "Immediate synchronized electrical cardioversion starting at 100 Joules biphasic",
+        "correct": true,
+        "explanation": "The patient has monomorphic ventricular tachycardia with severe hemodynamic instability (hypotension, lightheadedness, signs of acute pulmonary congestion). According to ACLS guidelines, any tachyarrhythmia with hemodynamic instability (hypotension, acute heart failure, ischemic chest discomfort, altered mental status) mandates immediate synchronized electrical cardioversion. Synchronization delivers the electrical shock on the R wave of the QRS complex, avoiding shock delivery during the vulnerable T wave phase which could induce ventricular fibrillation."
+      },
+      {
+        "text": "Intravenous amiodarone bolus of 150 mg infused over 10 minutes",
+        "correct": false,
+        "explanation": "Pharmacological cardioversion with antiarrhythmics (amiodarone, procainamide, sotalol) is reserved for stable wide-complex tachycardia; administering antiarrhythmics to an unstable, hypotensive patient causes dangerous delays and cardiovascular collapse."
+      },
+      {
+        "text": "Intravenous adenosine 6 mg rapid bolus with immediate saline flush",
+        "correct": false,
+        "explanation": "Adenosine is used for regular, narrow-complex supraventricular tachycardia (SVT); administering it in unstable VT is ineffective and delays definitive electrical therapy."
+      },
+      {
+        "text": "Performance of bilateral simultaneous carotid sinus massage",
+        "correct": false,
+        "explanation": "Simultaneous bilateral carotid sinus massage is dangerous and contraindicated due to stroke risk; unilateral vagal maneuvers are for stable narrow-complex SVT, never for unstable ventricular tachycardia."
+      }
+    ],
+    "explanation": "The patient has monomorphic ventricular tachycardia with severe hemodynamic instability (hypotension, lightheadedness, signs of acute pulmonary congestion). According to ACLS guidelines, any tachyarrhythmia with hemodynamic instability (hypotension, acute heart failure, ischemic chest discomfort, altered mental status) mandates immediate synchronized electrical cardioversion. Synchronization delivers the electrical shock on the R wave of the QRS complex, avoiding shock delivery during the vulnerable T wave phase which could induce ventricular fibrillation. Recognize wide-complex monomorphic tachycardia in an unstable patient (hypotension, altered mental status, chest pain, acute heart failure). Immediate synchronized electrical cardioversion is required. Unsynchronized defibrillation is reserved for pulseless arrest (ventricular fibrillation or pulseless VT) or polymorphic VT (torsades).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Unstable Ventricular Tachycardia Synchronized Cardioversion.",
+    "keyPoints": [
+      "Unstable Ventricular Tachycardia Synchronized Cardioversion",
+      "Recognize wide-complex monomorphic tachycardia in an unstable patient (hypotension, altered mental status, chest pain, acute heart failure). Immediate synchronized electrical cardi"
+    ],
+    "references": [
+      {
+        "label": "Panchal AR, et al. 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation. 2020;142(16_suppl_2):S366-S468. PMID: 33081529.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33081529/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0068",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Acute Bacterial Rhinosinusitis Diagnostic Criteria and Antibiotics",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 6-year-old boy is brought to the pediatric clinic with persistent daytime coughing and purulent nasal discharge. His mother states that he developed a typical mild cold with clear rhinorrhea and low-grade fever 12 days ago. While the fever resolved after 2 days, the purulent, yellowish-green nasal drainage has persisted without any interval improvement, and his cough has progressively worsened, especially at night when lying down. Over the past 2 days, he has also complained of pain over his cheeks and forehead. Physical examination reveals an alert, non-toxic child with temperature 37.6 C (99.7 F). Rhinoscopy demonstrates congested, boggy inferior turbinates covered with thick purulent mucus. There is marked tenderness to percussion over the bilateral maxillary sinuses. The tympanic membranes are clear with normal mobility. The posterior oropharynx demonstrates thick mucopurulent post-nasal drainage. Which of the following is the most appropriate next step in management for this child?",
+    "options": [
+      {
+        "text": "Supportive care with oral pseudoephedrine and intranasal saline irrigation alone",
+        "correct": false,
+        "explanation": "While viral rhinosinusitis is managed supportively, symptoms persisting beyond 10 days without improvement indicate bacterial superinfection requiring antibiotic therapy."
+      },
+      {
+        "text": "Non-contrast CT scan of the paranasal sinuses to establish mucosal thickening",
+        "correct": false,
+        "explanation": "Sinus CT or plain radiography is not recommended for uncomplicated ABRS because imaging cannot differentiate viral from bacterial inflammation and exposes the child to unnecessary radiation."
+      },
+      {
+        "text": "Initiation of oral amoxicillin-clavulanate therapy for 10 days",
+        "correct": true,
+        "explanation": "The clinical presentation meets diagnostic criteria for acute bacterial rhinosinusitis (ABRS) based on the \"persistent illness\" pattern: nasal discharge and daytime cough lasting >= 10 days without clinical improvement (the other two diagnostic pathways are \"severe onset\" with fever >= 39 C and purulent drainage for >= 3 days, or \"double sickening\"). The most common bacterial pathogens are Streptococcus pneumoniae, non-typeable Haemophilus influenzae, and Moraxella catarrhalis. First-line therapy per AAP guidelines is oral amoxicillin-clavulanate to cover beta-lactamase-producing H. influenzae and M. catarrhalis."
+      },
+      {
+        "text": "Rigid anterior rhinoscopy with endoscopically directed maxillary meatus culture",
+        "correct": false,
+        "explanation": "Routine cultures via endoscopy or sinus aspiration are reserved for immunocompromised patients, treatment refractory cases, or orbital/intracranial complications."
+      },
+      {
+        "text": "Intravenous ceftriaxone monotherapy in the pediatric inpatient unit",
+        "correct": false,
+        "explanation": "Inpatient parenteral ceftriaxone is reserved for children with toxic appearance, inability to tolerate oral medications, or suspected orbital/intracranial extension (e.g., orbital cellulitis, epidural abscess)."
+      }
+    ],
+    "explanation": "The clinical presentation meets diagnostic criteria for acute bacterial rhinosinusitis (ABRS) based on the \"persistent illness\" pattern: nasal discharge and daytime cough lasting >= 10 days without clinical improvement (the other two diagnostic pathways are \"severe onset\" with fever >= 39 C and purulent drainage for >= 3 days, or \"double sickening\"). The most common bacterial pathogens are Streptococcus pneumoniae, non-typeable Haemophilus influenzae, and Moraxella catarrhalis. First-line therapy per AAP guidelines is oral amoxicillin-clavulanate to cover beta-lactamase-producing H. influenzae and M. catarrhalis. Distinguish viral URI from acute bacterial rhinosinusitis (ABRS). Diagnostic criteria for ABRS: 1. Persistent symptoms >= 10 days without improvement; 2. Severe symptoms (fever >= 39 C and purulent nasal discharge >= 3 consecutive days); or 3. \"Double sickening\" (worsening after initial improvement). First-line antibiotic is oral amoxicillin-clavulanate.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Bacterial Rhinosinusitis Diagnostic Criteria and Antibiotics.",
+    "keyPoints": [
+      "Acute Bacterial Rhinosinusitis Diagnostic Criteria and Antibiotics",
+      "Distinguish viral URI from acute bacterial rhinosinusitis (ABRS). Diagnostic criteria for ABRS: 1. Persistent symptoms >= 10 days without improvement; 2. Severe symptoms (fever >= "
+    ],
+    "references": [
+      {
+        "label": "Wald ER, et al. Clinical practice guideline for the diagnosis and management of acute bacterial sinusitis in children aged 1 to 18 years. Pediatrics. 2013;132(1):e262-e280. PMID: 23796593.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23796593/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0069",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Preeclampsia with Severe Features Delivery Indications",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old primigravida at 35 weeks and 2 days gestation presents to the triage unit complaining of a persistent, throbbing frontal headache and seeing flickering spots in her visual field for the past 6 hours that did not improve with acetaminophen. On arrival, her blood pressure is 168/112 mm Hg and heart rate is 84/min. Repeat blood pressure 15 minutes later is 172/110 mm Hg. Physical examination reveals 3+ patellar reflexes bilaterally with 2 beats of ankle clonus and 2+ pitting pretibial edema. Funduscopic examination shows retinal arteriolar narrowing without papilledema. Laboratory testing reveals: platelet count 84,000/microL, serum creatinine 1.3 mg/dL (baseline: 0.6 mg/dL), AST 145 U/L, ALT 160 U/L, and urine protein-to-creatinine ratio of 0.8 mg/mg. Continuous electronic fetal monitoring demonstrates a baseline fetal heart rate of 140/min with moderate variability and no decelerations. Tocodynamometry shows no uterine contractions. Which of the following management plans is most appropriate for this patient?",
+    "options": [
+      {
+        "text": "Outpatient bed rest with oral methyldopa and serial laboratory evaluation twice weekly",
+        "correct": false,
+        "explanation": "Outpatient management of preeclampsia with severe features is contraindicated due to extreme risk of eclampsia, placental abruption, hepatic rupture, and maternal/fetal death."
+      },
+      {
+        "text": "Hospital admission for expectant management until 37 weeks gestation under oral labetalol",
+        "correct": false,
+        "explanation": "Expectant management of severe preeclampsia is never continued beyond 34 weeks gestation; the maternal risks of awaiting 37 weeks far outweigh any minor fetal prematurity risks."
+      },
+      {
+        "text": "Immediate administration of intramuscular betamethasone and withhold delivery until 39 weeks",
+        "correct": false,
+        "explanation": "Betamethasone is administered if < 37 weeks, but at >= 34 weeks with severe features, delivery should not be delayed past stabilization, and pregnancy is never prolonged to 39 weeks."
+      },
+      {
+        "text": "Intravenous magnesium sulfate infusion, intravenous labetalol or hydralazine, and induction of delivery",
+        "correct": true,
+        "explanation": "This patient has preeclampsia with severe features based on severe-range blood pressures (>= 160/110 mm Hg) accompanied by end-organ dysfunction (thrombocytopenia < 100,000/microL, elevated transaminases > 2x normal, elevated creatinine > 1.1 mg/dL, and persistent neurological/visual symptoms). In any pregnancy with preeclampsia with severe features at >= 34 weeks gestation, immediate maternal stabilization and prompt delivery is indicated. Stabilization requires intravenous magnesium sulfate (seizure prophylaxis) and immediate parenteral antihypertensives (IV labetalol, hydralazine, or oral nifedipine) to prevent intracranial hemorrhage."
+      },
+      {
+        "text": "Emergent exploratory laparotomy with subcapsular hepatic hematoma evacuation",
+        "correct": false,
+        "explanation": "While HELLP syndrome can rarely complicate into hepatic rupture, there is no acute abdominal pain, hypovolemic shock, or imaging evidence of subcapsular hematoma to warrant laparotomy."
+      }
+    ],
+    "explanation": "This patient has preeclampsia with severe features based on severe-range blood pressures (>= 160/110 mm Hg) accompanied by end-organ dysfunction (thrombocytopenia < 100,000/microL, elevated transaminases > 2x normal, elevated creatinine > 1.1 mg/dL, and persistent neurological/visual symptoms). In any pregnancy with preeclampsia with severe features at >= 34 weeks gestation, immediate maternal stabilization and prompt delivery is indicated. Stabilization requires intravenous magnesium sulfate (seizure prophylaxis) and immediate parenteral antihypertensives (IV labetalol, hydralazine, or oral nifedipine) to prevent intracranial hemorrhage. Recognize preeclampsia with severe features (BP >= 160/110, platelets < 100k, Cr > 1.1, AST/ALT 2x normal, pulmonary edema, persistent headache/visual symptoms). At >= 34 weeks gestation, immediate stabilization (IV magnesium sulfate for seizure prophylaxis, IV labetalol/hydralazine for BP) and delivery is indicated. Expectant management is only considered < 34 weeks in specialized centers.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Preeclampsia with Severe Features Delivery Indications.",
+    "keyPoints": [
+      "Preeclampsia with Severe Features Delivery Indications",
+      "Recognize preeclampsia with severe features (BP >= 160/110, platelets < 100k, Cr > 1.1, AST/ALT 2x normal, pulmonary edema, persistent headache/visual symptoms). At >= 34 weeks ges"
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. Gestational Hypertension and Preeclampsia: ACOG Practice Bulletin, Number 222. Obstet Gynecol. 2020;135(6):e237-e260. PMID: 32443079.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32443079/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0070",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "Kawasaki Disease Intravenous Immunoglobulin and Coronary Aneurysms",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 3-year-old boy is brought to the pediatric clinic by his parents because of a high fever reaching 39.5 C (103.1 F) that has persisted for 6 consecutive days despite alternating acetaminophen and ibuprofen. His parents also noticed that his eyes are red and his lips are severely cracked. On physical examination, the child is irritable. He has bilateral bulbar conjunctival injection without purulent discharge or photophobia. His lips are dry, red, and vertically fissured, and his tongue has prominent red papillae with an erythematous base (strawberry tongue). His palms and soles are erythematous and indurated with non-pitting edema. There is a diffuse maculopapular erythematous rash over his trunk and perineum. A single, tender, firm left anterior cervical lymph node measures 2.0 cm in diameter. Laboratory evaluation reveals: white blood cell count 18,200/microL with 78% neutrophils, platelet count 480,000/microL, ESR 84 mm/h, and CRP 9.2 mg/dL. Transthoracic echocardiogram is ordered. Which of the following therapeutic regimens should be initiated immediately to prevent the development of coronary artery aneurysms in this child?",
+    "options": [
+      {
+        "text": "Oral prednisone pulse therapy for 14 days without antiplatelet therapy",
+        "correct": false,
+        "explanation": "Glucocorticoid monotherapy without IVIG in Kawasaki disease historically yielded worse outcomes and higher aneurysm rates; corticosteroids are reserved as adjuncts for IVIG-resistant disease."
+      },
+      {
+        "text": "Intravenous ampicillin-sulbactam monotherapy targeting cervical bacterial lymphadenitis",
+        "correct": false,
+        "explanation": "Kawasaki disease is an immune-mediated vasculitis, not a bacterial infection; antibiotic therapy is ineffective and delays life-saving IVIG administration."
+      },
+      {
+        "text": "Oral oseltamivir and supportive care for complicated post-influenza exanthem",
+        "correct": false,
+        "explanation": "Oseltamivir is an antiviral for influenza; it does not treat systemic vasculitis and delaying IVIG risks permanent coronary aneurysm and myocardial infarction."
+      },
+      {
+        "text": "Subcutaneous low-molecular-weight heparin and oral dipyridamole",
+        "correct": false,
+        "explanation": "Therapeutic anticoagulation with LMWH is indicated only for giant coronary aneurysms (>8 mm in diameter) or established coronary thrombosis, not as primary acute anti-inflammatory therapy."
+      },
+      {
+        "text": "Intravenous immunoglobulin (single infusion of 2 g/kg) combined with oral high-dose aspirin",
+        "correct": true,
+        "explanation": "This child meets diagnostic criteria for classic Kawasaki disease: fever lasting >= 5 days plus all 5 clinical criteria (bilateral non-exudative conjunctivitis, oral mucosal changes, indurated extremity changes, polymorphous rash, and cervical lymphadenopathy > 1.5 cm). Kawasaki disease is a medium-vessel systemic vasculitis with a predilection for the coronary arteries. Administering high-dose intravenous immunoglobulin (IVIG, 2 g/kg as a single infusion over 10–12 hours) within the first 10 days of illness reduces the incidence of coronary artery aneurysms from 25% to less than 4%. It is co-administered with oral aspirin for anti-inflammatory and antiplatelet effects."
+      }
+    ],
+    "explanation": "This child meets diagnostic criteria for classic Kawasaki disease: fever lasting >= 5 days plus all 5 clinical criteria (bilateral non-exudative conjunctivitis, oral mucosal changes, indurated extremity changes, polymorphous rash, and cervical lymphadenopathy > 1.5 cm). Kawasaki disease is a medium-vessel systemic vasculitis with a predilection for the coronary arteries. Administering high-dose intravenous immunoglobulin (IVIG, 2 g/kg as a single infusion over 10–12 hours) within the first 10 days of illness reduces the incidence of coronary artery aneurysms from 25% to less than 4%. It is co-administered with oral aspirin for anti-inflammatory and antiplatelet effects. Recognize Kawasaki disease: fever >= 5 days plus >= 4 of 5 criteria: 1. Bilateral non-exudative conjunctivitis; 2. Mucocutaneous changes (strawberry tongue, cracked red lips); 3. Extremity changes (erythema, induration, desquamation); 4. Polymorphous rash; 5. Cervical lymphadenopathy (>1.5 cm, usually unilateral). Treatment is single high-dose IVIG (2 g/kg) plus oral aspirin within 10 days of fever onset to prevent coronary artery aneurysms.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Kawasaki Disease Intravenous Immunoglobulin and Coronary Aneurysms.",
+    "keyPoints": [
+      "Kawasaki Disease Intravenous Immunoglobulin and Coronary Aneurysms",
+      "Recognize Kawasaki disease: fever >= 5 days plus >= 4 of 5 criteria: 1. Bilateral non-exudative conjunctivitis; 2. Mucocutaneous changes (strawberry tongue, cracked red lips); 3. E"
+    ],
+    "references": [
+      {
+        "label": "McCrindle BW, et al. Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease: A Scientific Statement for Health Professionals From the American Heart Association. Circulation. 2017;135(17):e927-e999. PMID: 28356445.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28356445/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0071",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Epidural Hematoma Middle Meningeal Artery Surgical Indications",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old male is brought to the emergency department after being struck on the right side of the head with a baseball bat during an amateur game. Immediately following the impact, he was unresponsive for approximately 3 minutes. When emergency personnel arrived, he had regained full consciousness, was conversing normally, and complained only of a moderate right temporal headache (GCS 15). One hour after arriving in the emergency department, his nurse calls for help because the patient has become somnolent and confused, vomiting twice. Vital signs reveal blood pressure 168/90 mm Hg, heart rate 52/min, and respirations 12/min (Cushing reflex). Neurological examination reveals a Glasgow Coma Scale of 9 (E2V2M5), a dilated right pupil (6 mm) that is sluggishly reactive to light, and left-sided pronator drift and hyperreflexia. An emergent non-contrast head CT demonstrates a hyperdense, biconvex, lenticular extra-axial collection beneath the right temporal bone with an estimated volume of 45 cm3, maximal thickness of 18 mm, and 7 mm of midline shift to the left. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Immediate transfer to the operating room for emergent right temporal craniotomy and hematoma evacuation",
+        "correct": true,
+        "explanation": "The patient has an acute epidural hematoma resulting from a temporal skull fracture lacerating the middle meningeal artery (a branch of the maxillary artery traversing the foramen spinosum). The classical clinical pattern is initial loss of consciousness, a temporary \"lucid interval,\" followed by rapid deterioration due to arterial bleeding stripping the periosteal dura from the inner skull table. Progressive uncal herniation compresses the ipsilateral oculomotor nerve (blown pupil) and contralateral cerebral peduncle (hemiparesis). Standard neurosurgical guidelines mandate emergent craniotomy and evacuation for any acute epidural hematoma with volume > 30 cm3, regardless of GCS, or with focal deficits and midline shift > 5 mm."
+      },
+      {
+        "text": "Admission to the neuro-intensive care unit for observation and repeat head CT in 6 hours",
+        "correct": false,
+        "explanation": "Observation is permitted strictly for stable, neurologically intact patients with small epidural hematomas (< 30 cm3, thickness < 15 mm, shift < 5 mm); in a deteriorating patient with uncal herniation, delaying surgery causes brainstem compression and death."
+      },
+      {
+        "text": "Placement of a right frontal external ventricular drain to relieve intracranial hypertension",
+        "correct": false,
+        "explanation": "EVD placement does not evacuate extra-axial arterial hematomas and carries a severe risk of accelerating uncal herniation by decompressing the ventricular system while the mass effect remains unopposed."
+      },
+      {
+        "text": "Intravenous infusion of recombinant factor VIIa to achieve immediate local hemostasis",
+        "correct": false,
+        "explanation": "Factor VIIa is an procoagulant agent that does not relieve physical mass effect or mechanical brainstem herniation and causes severe thromboembolic complications."
+      },
+      {
+        "text": "Hyperventilation therapy to target PaCO2 between 20 and 25 mm Hg for the next 24 hours",
+        "correct": false,
+        "explanation": "Extreme hyperventilation induces cerebral vasoconstriction and causes profound cerebral ischemia; mild hyperventilation (PaCO2 30–35 mm Hg) is used only as a brief temporizing bridge while the patient is rolled into the OR."
+      }
+    ],
+    "explanation": "The patient has an acute epidural hematoma resulting from a temporal skull fracture lacerating the middle meningeal artery (a branch of the maxillary artery traversing the foramen spinosum). The classical clinical pattern is initial loss of consciousness, a temporary \"lucid interval,\" followed by rapid deterioration due to arterial bleeding stripping the periosteal dura from the inner skull table. Progressive uncal herniation compresses the ipsilateral oculomotor nerve (blown pupil) and contralateral cerebral peduncle (hemiparesis). Standard neurosurgical guidelines mandate emergent craniotomy and evacuation for any acute epidural hematoma with volume > 30 cm3, regardless of GCS, or with focal deficits and midline shift > 5 mm. Recognize epidural hematoma: temporal bone fracture (pterion) lacerating the middle meningeal artery, presenting with brief unconsciousness followed by a \"lucid interval\" and then rapid deterioration. Non-contrast CT shows hyperdense biconvex (lenticular) collection limited by suture lines. Surgical evacuation via craniotomy is indicated if volume > 30 cm3, thickness > 15 mm, midline shift > 5 mm, or GCS < 9 with pupillary anisocoria.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Epidural Hematoma Middle Meningeal Artery Surgical Indications.",
+    "keyPoints": [
+      "Epidural Hematoma Middle Meningeal Artery Surgical Indications",
+      "Recognize epidural hematoma: temporal bone fracture (pterion) lacerating the middle meningeal artery, presenting with brief unconsciousness followed by a \"lucid interval\" and then "
+    ],
+    "references": [
+      {
+        "label": "Bullock MR, et al. Surgical management of acute epidural hematomas. Neurosurgery. 2006;58(3 Suppl):S7-S15. PMID: 16540746.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16540746/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0072",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Primary Spontaneous Pneumothorax Blebectomy and Pleurodesis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old tall, slender college student presents to the emergency department with sudden-onset, sharp right-sided pleuritic chest pain and shortness of breath while studying at his desk. He has a 3-pack-year smoking history. Six months ago, he experienced an identical right-sided event that was diagnosed as a 35% primary spontaneous pneumothorax and was successfully managed with simple aspiration and tube thoracostomy. Vital signs: blood pressure 124/78 mm Hg, heart rate 88/min, respirations 20/min, and oxygen saturation 96% on ambient air. Physical examination reveals decreased breath sounds and hyperresonance over the right upper hemithorax. Upright inspiratory chest radiography demonstrates a 3-cm apex-to-cupola separation of the visceral pleural line on the right side, confirming a recurrent right primary spontaneous pneumothorax. Following placement of a small-bore pigtail catheter with clinical stabilization, the thoracic surgeon discusses long-term management to prevent future recurrences. Which of the following is the definitive recommended procedure for this patient?",
+    "options": [
+      {
+        "text": "Long-term ambulatory Heimlich valve placement without pleurodesis",
+        "correct": false,
+        "explanation": "A Heimlich one-way valve allows outpatient drainage of persistent air leaks but does not eradicate the underlying ruptured blebs or achieve pleural symphysis, leaving the high recurrence rate unchanged."
+      },
+      {
+        "text": "Video-assisted thoracoscopic surgery with apical bleb resection and mechanical pleurodesis",
+        "correct": true,
+        "explanation": "This patient has a second episode of ipsilateral primary spontaneous pneumothorax (PSP). PSP is caused by rupture of subpleural apical blebs, predominantly in tall, thin young male smokers. After an initial episode treated non-surgically, the recurrence rate is approximately 30%; after a second episode, recurrence exceeds 60%. Guidelines recommend definitive surgical intervention for: second ipsilateral episode, first contralateral episode, bilateral pneumothorax, persistent air leak (> 3–5 days), or high-risk occupations (pilots, scuba divers). The standard procedure is video-assisted thoracoscopic surgery (VATS) with apical blebectomy and parietal pleurodesis (mechanical pleural abrasion or talc poudrage)."
+      },
+      {
+        "text": "Chemical pleurodesis via bedside doxycycline instillation through the pigtail catheter alone",
+        "correct": false,
+        "explanation": "Bedside chemical slurry pleurodesis is less effective than surgical pleurodesis and does not allow inspection or resection of ruptured apical bullae; it is reserved for patients medically unfit for general anesthesia."
+      },
+      {
+        "text": "Permanent oral theophylline therapy to enhance diaphragmatic contractility",
+        "correct": false,
+        "explanation": "Theophylline is a methylxanthine bronchodilator with narrow therapeutic index; it has no role in preventing mechanical pleural rupture or bleb formation."
+      },
+      {
+        "text": "Repeat needle aspiration each time symptoms occur without pleural intervention",
+        "correct": false,
+        "explanation": "Repeated needle aspiration for recurring pneumothoraces is inappropriate given the compounding recurrence risk and morbidity associated with tension pneumothorax."
+      }
+    ],
+    "explanation": "This patient has a second episode of ipsilateral primary spontaneous pneumothorax (PSP). PSP is caused by rupture of subpleural apical blebs, predominantly in tall, thin young male smokers. After an initial episode treated non-surgically, the recurrence rate is approximately 30%; after a second episode, recurrence exceeds 60%. Guidelines recommend definitive surgical intervention for: second ipsilateral episode, first contralateral episode, bilateral pneumothorax, persistent air leak (> 3–5 days), or high-risk occupations (pilots, scuba divers). The standard procedure is video-assisted thoracoscopic surgery (VATS) with apical blebectomy and parietal pleurodesis (mechanical pleural abrasion or talc poudrage). Recognize recurrent primary spontaneous pneumothorax in a tall, thin young smoker. First episode can be managed with aspiration or small-bore chest tube. Indications for definitive surgical intervention (video-assisted thoracoscopic surgery [VATS] with apical wedge resection/blebectomy and mechanical pleurodesis): recurrent ipsilateral pneumothorax, bilateral pneumothorax, persistent air leak > 3-5 days, or high-risk profession (diver, pilot).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Primary Spontaneous Pneumothorax Blebectomy and Pleurodesis.",
+    "keyPoints": [
+      "Primary Spontaneous Pneumothorax Blebectomy and Pleurodesis",
+      "Recognize recurrent primary spontaneous pneumothorax in a tall, thin young smoker. First episode can be managed with aspiration or small-bore chest tube. Indications for definitive"
+    ],
+    "references": [
+      {
+        "label": "MacDuff A, et al. Management of spontaneous pneumothorax: British Thoracic Society Pleural Disease Guideline 2010. Thorax. 2010;65(Suppl 2):ii18-ii31. PMID: 20696690.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20696690/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0073",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Diabetic Foot Osteomyelitis Probe-to-Bone and Bone Biopsy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old man with a 15-year history of poorly controlled type 2 diabetes mellitus presents with a chronic non-healing ulcer on the plantar surface of his right first metatarsophalangeal joint that has been present for 7 weeks. He has severe peripheral sensory neuropathy and denies local pain. Physical examination reveals a 2.0 x 1.5 cm ulcer with calloused margins and a purulent base. Using a sterile blunt metallic probe, the physician gently inserts the tip into the center of the wound base and detects a distinct hard, gritty sensation with a metallic click, indicating contact with cortical bone (positive probe-to-bone test). Peripheral pulses are palpable. Plain radiography of the right foot demonstrates soft-tissue swelling over the first metatarsal head without visible periosteal reaction, cortical erosion, or osteolytic changes. Erythrocyte sedimentation rate (ESR) is elevated at 78 mm/h and C-reactive protein is 32 mg/L. What is the most definitive next step to establish the microbiological diagnosis and guide long-term targeted antibiotic therapy?",
+    "options": [
+      {
+        "text": "Superficial swab of the ulcer purulent exudate sent for aerobic and anaerobic cultures",
+        "correct": false,
+        "explanation": "Superficial wound swabs represent superficial colonizing microbiota rather than deep osseous invasive pathogens; treating based on swab cultures results in inappropriate antibiotic selection and treatment failure."
+      },
+      {
+        "text": "Empiric initiation of oral ciprofloxacin monotherapy for 6 weeks without further testing",
+        "correct": false,
+        "explanation": "Diabetic foot infections are frequently polymicrobial (Gram-positive cocci, Gram-negative rods, and anaerobes); fluoroquinolone monotherapy lacks adequate coverage for MRSA, Streptococcus, and anaerobes."
+      },
+      {
+        "text": "Percutaneous or operative bone biopsy for histopathology and quantitative microbiological culture",
+        "correct": true,
+        "explanation": "In diabetic foot ulcers, a positive probe-to-bone test in a high-prevalence setting has a high positive predictive value (>85%) for osteomyelitis. Plain radiographs can remain negative for the first 10–14 days because osteolysis requires loss of 30–50% of bone mineral density. Bone biopsy (percutaneous through uninfected skin or open surgical) with histological examination and culture is the undisputed gold standard for diagnosing osteomyelitis and determining exact pathogen sensitivities. Superficial wound swabs grow colonizing skin flora and should never be used to direct weeks of parenteral therapy."
+      },
+      {
+        "text": "Immediate transmetatarsal amputation of the forefoot without antibiotic trial",
+        "correct": false,
+        "explanation": "Primary amputation is reserved for unsalvageable foot gangrene, necrotizing fasciitis, or refractory osteomyelitis after medical failure; salvage with targeted antibiotics and local debridement is first-line."
+      },
+      {
+        "text": "Hyperbaric oxygen therapy sessions initiated as primary monotherapy",
+        "correct": false,
+        "explanation": "Hyperbaric oxygen is an adjunctive therapy for refractory wounds with documented microvascular hypoperfusion; it does not replace definitive microbiological diagnosis or antibiotic treatment."
+      }
+    ],
+    "explanation": "In diabetic foot ulcers, a positive probe-to-bone test in a high-prevalence setting has a high positive predictive value (>85%) for osteomyelitis. Plain radiographs can remain negative for the first 10–14 days because osteolysis requires loss of 30–50% of bone mineral density. Bone biopsy (percutaneous through uninfected skin or open surgical) with histological examination and culture is the undisputed gold standard for diagnosing osteomyelitis and determining exact pathogen sensitivities. Superficial wound swabs grow colonizing skin flora and should never be used to direct weeks of parenteral therapy. Recognize deep diabetic foot ulcer with positive probe-to-bone test (high positive predictive value for osteomyelitis). Plain radiographs are initial imaging (may take 2 weeks to show cortical erosion/periosteal reaction). MRI is test of choice if plain films equivocal. Bone biopsy with histological and microbiological culture is the GOLD STANDARD for identifying causative organisms and guiding targeted antibiotic therapy before initiating weeks of parenteral antibiotics.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Diabetic Foot Osteomyelitis Probe-to-Bone and Bone Biopsy.",
+    "keyPoints": [
+      "Diabetic Foot Osteomyelitis Probe-to-Bone and Bone Biopsy",
+      "Recognize deep diabetic foot ulcer with positive probe-to-bone test (high positive predictive value for osteomyelitis). Plain radiographs are initial imaging (may take 2 weeks to s"
+    ],
+    "references": [
+      {
+        "label": "Lipsky BA, et al. 2012 Infectious Diseases Society of America clinical practice guideline for the diagnosis and treatment of diabetic foot infections. Clin Infect Dis. 2012;54(12):e132-e173. PMID: 22619242.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22619242/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0074",
+    "exam": "Step 2 CK",
+    "subject": "Geriatrics",
+    "system": "Behavioral Health",
+    "topic": "Agitation in Dementia Non-Pharmacological Management and Beers Criteria",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "An 82-year-old woman with moderate Alzheimer disease residing in a specialized memory-care facility is evaluated for worsening restlessness and agitation occurring predominantly in the late afternoon and early evening (\"sundowning\"). Over the past week, she has been pacing the hallway, shouting that strangers are stealing her clothes, and refusing to enter her bedroom. She has not attempted to hit staff or residents and has not exhibited self-injurious behavior. Physical examination, vital signs, urinalysis, and metabolic panels are all normal, with no evidence of constipation, urinary retention, pain, or occult infection. The nursing facility administrator requests a prescription for scheduled oral quetiapine or risperidone to calm the patient during evening shifts. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Prescribe scheduled oral haloperidol at bedtime to achieve rapid symptom suppression",
+        "correct": false,
+        "explanation": "Typical antipsychotics like haloperidol carry high risks of severe extrapyramidal symptoms, tardive dyskinesia, sedation, falls, and increased mortality; they are not indicated for non-dangerous agitation."
+      },
+      {
+        "text": "Prescribe oral lorazepam as needed for agitation during the evening shift",
+        "correct": false,
+        "explanation": "Benzodiazepines are strongly cautioned in older adults (Beers criteria) because they frequently cause paradoxical disinhibition, worsening confusion, daytime sedation, and markedly increase fall and fracture risks."
+      },
+      {
+        "text": "Initiate scheduled oral diphenhydramine to promote evening relaxation and sleep",
+        "correct": false,
+        "explanation": "Diphenhydramine is a potent first-generation antihistamine with strong anticholinergic properties that precipitate acute delirium, urinary retention, and cognitive decline in dementia patients."
+      },
+      {
+        "text": "Implement non-pharmacological behavioral interventions, structured routines, and daytime light therapy",
+        "correct": true,
+        "explanation": "In dementia-related agitation and psychosis without immediate threat of physical harm to self or others, non-pharmacological environmental and behavioral modifications are strictly first-line. Interventions include: maintaining consistent daily routines, daytime natural light exposure, soothing sensory stimulation (music therapy), redirection, and addressing unmet physical needs (hunger, toileting, boredom). All second-generation and first-generation antipsychotics carry an FDA black-box warning for increased mortality (primarily from stroke and cardiovascular events) in elderly dementia patients and should never be used as chemical restraints for non-dangerous pacing or vocalization."
+      },
+      {
+        "text": "Apply bilateral wrist and vest physical restraints to prevent evening wandering",
+        "correct": false,
+        "explanation": "Physical restraints are ethically and clinically contraindicated for wandering; they exacerbate agitation, cause profound deconditioning, and increase asphyxiation and trauma risks."
+      }
+    ],
+    "explanation": "In dementia-related agitation and psychosis without immediate threat of physical harm to self or others, non-pharmacological environmental and behavioral modifications are strictly first-line. Interventions include: maintaining consistent daily routines, daytime natural light exposure, soothing sensory stimulation (music therapy), redirection, and addressing unmet physical needs (hunger, toileting, boredom). All second-generation and first-generation antipsychotics carry an FDA black-box warning for increased mortality (primarily from stroke and cardiovascular events) in elderly dementia patients and should never be used as chemical restraints for non-dangerous pacing or vocalization. Recognize behavioral and psychological symptoms of dementia (BPSD). First-line management is always non-pharmacological (reorientation, pain control, environmental modification, toileting). Antipsychotics (atypical/typical) carry an FDA black-box warning for increased all-cause mortality (stroke, cardiovascular) in dementia and should only be used as a last resort for severe, dangerous agitation that threatens safety.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Agitation in Dementia Non-Pharmacological Management and Beers Criteria.",
+    "keyPoints": [
+      "Agitation in Dementia Non-Pharmacological Management and Beers Criteria",
+      "Recognize behavioral and psychological symptoms of dementia (BPSD). First-line management is always non-pharmacological (reorientation, pain control, environmental modification, to"
+    ],
+    "references": [
+      {
+        "label": "Reus VI, et al. The American Psychiatric Association Practice Guideline on the Use of Antipsychotics to Treat Agitation or Psychosis in Patients With Dementia. Am J Psychiatry. 2016;173(5):543-546. PMID: 27133429.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27133429/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0075",
+    "exam": "Step 2 CK",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Adolescent Confidentiality and Minor Consent for STI Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 16-year-old high school student presents to the adolescent medicine clinic unaccompanied by an adult. She reports a 4-day history of dysuria, increased yellowish-green vaginal discharge, and intermenstrual pelvic cramping. She is sexually active with a new male partner for the past 2 months and uses barrier condoms inconsistently. Physical examination reveals mild lower abdominal tenderness, cervical motion tenderness on bimanual examination, and purulent endocervical discharge without adnexal masses. Rapid nucleic acid amplification testing (NAAT) confirms Neisseria gonorrhoeae and Chlamydia trachomatis cervicitis. After discussing the diagnosis and recommended intramuscular ceftriaxone plus oral doxycycline therapy, the patient expresses intense fear that her parents will find out, stating: \"If my father sees this on his insurance bill or finds out I have an infection, he will kick me out of the house.\" Which of the following is the most appropriate ethical and legal course of action?",
+    "options": [
+      {
+        "text": "Withhold antimicrobial treatment until her legal guardians provide written informed consent",
+        "correct": false,
+        "explanation": "Requiring parental consent for STI treatment is illegal under minor consent statutes and places the patient at imminent risk for pelvic inflammatory disease, ectopic pregnancy, and tubal infertility."
+      },
+      {
+        "text": "Contact her parents immediately because a minor cannot legally consent to prescription medications",
+        "correct": false,
+        "explanation": "Minors are legally emancipated for the specific purposes of sexual healthcare, substance abuse counseling, and mental health emergencies in almost all jurisdictions; contacting parents violates medical ethics and state law."
+      },
+      {
+        "text": "Report the encounter to Child Protective Services for suspected parental medical neglect",
+        "correct": false,
+        "explanation": "There is no indication of parental abuse or neglect; the adolescent is proactively seeking healthcare independently, which does not trigger CPS reporting."
+      },
+      {
+        "text": "Agree to treat only if she permits the clinic social worker to notify her school guidance counselor",
+        "correct": false,
+        "explanation": "Conditioning medical treatment on disclosing sensitive reproductive health information to third parties (school officials) is a direct breach of patient confidentiality and autonomy."
+      },
+      {
+        "text": "Provide confidential treatment without notifying her parents and arrange billing to protect her privacy",
+        "correct": true,
+        "explanation": "In the United States, all 50 states and the District of Columbia legally permit minors to consent independently to the confidential diagnosis and treatment of sexually transmitted infections (STIs), contraceptive services, and substance abuse without parental notification or consent. Breaching adolescent confidentiality damages the patient-provider relationship and discourages adolescents from seeking essential healthcare. The physician should validate her concerns, provide standard antimicrobial treatment, offer confidential partner notification services, and ensure billing and laboratory notifications do not inadvertently disclose sensitive details to the policyholder."
+      }
+    ],
+    "explanation": "In the United States, all 50 states and the District of Columbia legally permit minors to consent independently to the confidential diagnosis and treatment of sexually transmitted infections (STIs), contraceptive services, and substance abuse without parental notification or consent. Breaching adolescent confidentiality damages the patient-provider relationship and discourages adolescents from seeking essential healthcare. The physician should validate her concerns, provide standard antimicrobial treatment, offer confidential partner notification services, and ensure billing and laboratory notifications do not inadvertently disclose sensitive details to the policyholder. Recognize minor consent laws for sensitive healthcare services: Adolescents have the legal right to confidential medical evaluation and treatment for sexually transmitted infections (STIs), contraception, pregnancy care, and substance use without parental consent or notification. The physician must uphold confidentiality while encouraging communication with supportive adults.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Adolescent Confidentiality and Minor Consent for STI Management.",
+    "keyPoints": [
+      "Adolescent Confidentiality and Minor Consent for STI Management",
+      "Recognize minor consent laws for sensitive healthcare services: Adolescents have the legal right to confidential medical evaluation and treatment for sexually transmitted infection"
+    ],
+    "references": [
+      {
+        "label": "American Academy of Pediatrics Committee on Bioethics. Informed consent in decision-making in pediatric practice. Pediatrics. 2016;138(2):e20161484. PMID: 27456510.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27456510/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

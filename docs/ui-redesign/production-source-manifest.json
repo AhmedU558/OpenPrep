@@ -1,0 +1,41 @@
+{
+  "baselineCommit": "f5c4aef26e5b59965660236665494e02084c96d2",
+  "previousProductionDeployment": "dpl_2gkM2u1E55jwCV9tKTBWH12p2U4M",
+  "checkedBaselineFiles": 222,
+  "runtimeChanges": [
+    {
+      "path": "src/app/(app)/(main)/dashboard/page.tsx",
+      "sha256": "9841bd6e6c45d6114831468ad32ccbc549c8bdb1bfb28456e0480c56c1efcc8e"
+    },
+    {
+      "path": "src/app/(app)/layout.tsx",
+      "sha256": "4e3f092c0c5b8f927bb0fd739c0e506b03cc1fc9feae2432391a617d61ffffcd"
+    },
+    {
+      "path": "src/app/globals.css",
+      "sha256": "bd81f71a0d1e10df02f3eee2cfc33381254f8d42dce8e577744564891a410b52"
+    },
+    {
+      "path": "src/components/nav-links.tsx",
+      "sha256": "981c8ca33374246deba5aee1c9da438f608469e877b93aee9db9bb6ee12a6a24"
+    },
+    {
+      "path": "src/components/ui.tsx",
+      "sha256": "a9e004062725a93994323a59570e6b3d6970e8876a3e2bbc7e90a72776b0c550"
+    }
+  ],
+  "region": "sin1",
+  "databaseChanges": false,
+  "unfinishedQuestionBankIncluded": false,
+  "releaseException": "User explicitly authorized UI-only release despite incomplete internal review; missing reviews remain unverified.",
+  "createdAt": "2026-11-01T13:01:18.599Z",
+  "deploymentRuntimePin": {
+    "node": "24.x",
+    "reason": "Preserve currently deployed Node24; broad baseline engine selected Node26 on staged build",
+    "paths": [
+      "package.json",
+      "package-lock.json"
+    ],
+    "dependencyVersionsChanged": false
+  }
+}

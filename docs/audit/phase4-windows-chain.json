@@ -1,0 +1,119 @@
+{
+  "repository": "libvips/build-win64-mxe",
+  "releaseUrl": "https://github.com/libvips/build-win64-mxe/releases/tag/v8.18.7",
+  "tagCommit": "ef19ca09af2453d127453d677c849ccb37cf5694",
+  "archives": [
+    {
+      "name": "vips-dev-arm64-web-8.18.7-static.zip",
+      "size": 8617178,
+      "digest": "sha256:701d49f773fca3995d39215643d72b9e0495e02bf60980dd40ca1af59581f575",
+      "browser_download_url": "https://github.com/libvips/build-win64-mxe/releases/download/v8.18.7/vips-dev-arm64-web-8.18.7-static.zip",
+      "noticeCandidates": [
+        {
+          "kind": "exact Windows binary ZIP notice candidate",
+          "archiveMember": "vips-dev-8.18/LICENSE",
+          "sourceUrl": "https://github.com/libvips/build-win64-mxe/releases/download/v8.18.7/vips-dev-arm64-web-8.18.7-static.zip",
+          "sha256": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551",
+          "file": "docs/audit/phase4-texts/dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551.txt",
+          "fullGrantDetected": false
+        }
+      ],
+      "nativeFiles": [
+        {
+          "path": "vips-dev-8.18/bin/libvips-42.dll",
+          "sha256": "c3ff47e1546127d60ca0964dcbe27541c0bf35517b97aca10dc6a82fb9c540b7"
+        },
+        {
+          "path": "vips-dev-8.18/bin/libvips-cpp-42.dll",
+          "sha256": "1ba3cf406f461155ef5dd5761d818e117ab8d1e73d25f8cc9149195371cc496e"
+        }
+      ],
+      "sha256": "701d49f773fca3995d39215643d72b9e0495e02bf60980dd40ca1af59581f575",
+      "publisherDigestMatches": true,
+      "status": "BINARY_BYTES_AND_NOTICE_CANDIDATES_CAPTURED",
+      "npmNativeMatches": [
+        {
+          "zipPath": "vips-dev-8.18/bin/libvips-42.dll",
+          "npmPackage": "@img/sharp-win32-arm64@0.35.5",
+          "npmPath": "package/lib/libvips-42.dll",
+          "sha256": "c3ff47e1546127d60ca0964dcbe27541c0bf35517b97aca10dc6a82fb9c540b7"
+        }
+      ]
+    },
+    {
+      "name": "vips-dev-x64-web-8.18.7-static.zip",
+      "size": 9398858,
+      "digest": "sha256:a736af61d3b46499760efa606e469cb14e060445b1f6fd36a1fa2e75009e1197",
+      "browser_download_url": "https://github.com/libvips/build-win64-mxe/releases/download/v8.18.7/vips-dev-x64-web-8.18.7-static.zip",
+      "noticeCandidates": [
+        {
+          "kind": "exact Windows binary ZIP notice candidate",
+          "archiveMember": "vips-dev-8.18/LICENSE",
+          "sourceUrl": "https://github.com/libvips/build-win64-mxe/releases/download/v8.18.7/vips-dev-x64-web-8.18.7-static.zip",
+          "sha256": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551",
+          "file": "docs/audit/phase4-texts/dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551.txt",
+          "fullGrantDetected": false
+        }
+      ],
+      "nativeFiles": [
+        {
+          "path": "vips-dev-8.18/bin/libvips-42.dll",
+          "sha256": "06dab07cc386748513337a31672b1d5269fbc770a14ff403080575665bf0813f"
+        },
+        {
+          "path": "vips-dev-8.18/bin/libvips-cpp-42.dll",
+          "sha256": "c9af1e56c17a4c8883a986c19818c72087aa730f6edb889faf69a13547b3dfaa"
+        }
+      ],
+      "sha256": "a736af61d3b46499760efa606e469cb14e060445b1f6fd36a1fa2e75009e1197",
+      "publisherDigestMatches": true,
+      "status": "BINARY_BYTES_AND_NOTICE_CANDIDATES_CAPTURED",
+      "npmNativeMatches": [
+        {
+          "zipPath": "vips-dev-8.18/bin/libvips-42.dll",
+          "npmPackage": "@img/sharp-win32-x64@0.35.5",
+          "npmPath": "package/lib/libvips-42.dll",
+          "sha256": "06dab07cc386748513337a31672b1d5269fbc770a14ff403080575665bf0813f"
+        }
+      ]
+    },
+    {
+      "name": "vips-dev-x86-web-8.18.7-static.zip",
+      "size": 9531800,
+      "digest": "sha256:6f322f878deda8c4aea4e62d68296b6c5e74ecf010e137df897504a6f6d4c029",
+      "browser_download_url": "https://github.com/libvips/build-win64-mxe/releases/download/v8.18.7/vips-dev-x86-web-8.18.7-static.zip",
+      "noticeCandidates": [
+        {
+          "kind": "exact Windows binary ZIP notice candidate",
+          "archiveMember": "vips-dev-8.18/LICENSE",
+          "sourceUrl": "https://github.com/libvips/build-win64-mxe/releases/download/v8.18.7/vips-dev-x86-web-8.18.7-static.zip",
+          "sha256": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551",
+          "file": "docs/audit/phase4-texts/dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551.txt",
+          "fullGrantDetected": false
+        }
+      ],
+      "nativeFiles": [
+        {
+          "path": "vips-dev-8.18/bin/libvips-42.dll",
+          "sha256": "8bb40585d0c234922dda60549ad8a03b6f26c97120abf4d0c1fa41cc87dcb6a7"
+        },
+        {
+          "path": "vips-dev-8.18/bin/libvips-cpp-42.dll",
+          "sha256": "00edb18e3b38d81a450fe8946b848b7e21bbb1e33f6325044478badd0b27f773"
+        }
+      ],
+      "sha256": "6f322f878deda8c4aea4e62d68296b6c5e74ecf010e137df897504a6f6d4c029",
+      "publisherDigestMatches": true,
+      "status": "BINARY_BYTES_AND_NOTICE_CANDIDATES_CAPTURED",
+      "npmNativeMatches": [
+        {
+          "zipPath": "vips-dev-8.18/bin/libvips-42.dll",
+          "npmPackage": "@img/sharp-win32-ia32@0.35.5",
+          "npmPath": "package/lib/libvips-42.dll",
+          "sha256": "8bb40585d0c234922dda60549ad8a03b6f26c97120abf4d0c1fa41cc87dcb6a7"
+        }
+      ]
+    }
+  ],
+  "sourceCorrespondence": "NOT_ESTABLISHED: development binary ZIP is not complete corresponding source."
+}

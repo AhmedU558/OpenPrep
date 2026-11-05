@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s2-0301",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Right Ventricular Myocardial Infarction",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old man is brought to the emergency department by ambulance due to severe, crushing substernal chest pressure that started 2 hours ago while mowing his lawn, accompanied by nausea and profuse diaphoresis. During transport, the paramedics administered sublingual nitroglycerin 0.4 mg. Two minutes later, the patient experienced sudden severe dizziness, became obtunded, and his systolic blood pressure dropped from 132 mm Hg to 74 mm Hg.\n\nOn arrival at the resuscitation bay, he is pale, lethargic, and answering questions with single words. Vital signs show:\n- Blood pressure: 74/46 mm Hg\n- Heart rate: 52/min, regular\n- Respiratory rate: 20/min\n- Oxygen saturation: 96% on ambient air\n\nPhysical examination reveals completely clear lung fields bilaterally without crackles or wheezes. Cardiac examination demonstrates distant heart sounds without murmurs or gallops. The internal jugular venous pulsation is visible at the angle of the jaw while the patient is upright at 45 degrees, and the jugular venous column paradoxically rises further during inspiration (positive Kussmaul sign). The extremities are cool and clammy with delayed capillary refill, and there is no peripheral edema.\n\nA standard 12-lead electrocardiogram demonstrates 3-mm ST-segment elevation in leads II, III, and aVF with reciprocal ST-segment depression in leads I and aVL, accompanied by second-degree Mobitz type I atrioventricular nodal conduction delay.\n\nWhich of the following is the most appropriate initial intervention to stabilize this patient's hemodynamics?",
+    "options": [
+      {
+        "text": "Rapid intravenous administration of 0.9% normal saline bolus",
+        "correct": true,
+        "explanation": "The clinical picture—acute inferior ST-elevation myocardial infarction (ST elevation in II, III, aVF) complicated by profound hypotension, marked jugular venous distention with a positive Kussmaul sign, and completely CLEAR lung fields—is classic for acute right ventricular (RV) myocardial infarction. The ischemic right ventricle is acutely stiff, dilated, and non-compliant, impairing forward flow through the pulmonary circulation into the left heart and causing severe preload dependence. When nitroglycerin is administered, systemic venodilation precipitously depletes venous return to the right heart, leading to acute RV collapse, failure of left ventricular filling, and severe cardiogenic shock. The immediate, life-saving management is rapid isotonic crystalloid volume loading (0.9% saline bolus) to elevate right atrial and RV end-diastolic filling pressures, restoring forward transpulmonary flow and left-sided cardiac output."
+      },
+      {
+        "text": "Intravenous infusion of nitroglycerin titrated to reduce ventricular afterload and relieve ischemia",
+        "correct": false,
+        "explanation": "Intravenous nitrates cause potent venodilation, further decreasing right ventricular end-diastolic filling volume. In RV infarction, where the ventricle is exquisitely preload-dependent, nitrates precipitate irreversible electromechanical collapse and are strictly contraindicated."
+      },
+      {
+        "text": "Intravenous furosemide 40 mg to decompress elevated central venous pressure and jugular distension",
+        "correct": false,
+        "explanation": "Administering a loop diuretic in RV infarction drastically decreases intravascular volume and preload, worsening cardiogenic shock. Elevated JVP in RV failure reflects right heart stiffness, not left-sided pulmonary congestion."
+      },
+      {
+        "text": "Intravenous metoprolol 5 mg every 5 minutes to reduce myocardial oxygen consumption",
+        "correct": false,
+        "explanation": "Beta-blockers depress heart rate, contractility, and cardiac output. In an unstable patient with bradycardia, AV nodal conduction block, and cardiogenic shock, beta-blockers can trigger asystole or complete heart block."
+      },
+      {
+        "text": "Immediate placement of an intra-aortic balloon pump prior to cardiac catheterization",
+        "correct": false,
+        "explanation": "An intra-aortic balloon pump (IABP) reduces left ventricular afterload and augments coronary perfusion; it does not correct the primary defect of right ventricular preload failure and is not the initial intervention before rapid fluid resuscitation."
+      }
+    ],
+    "explanation": "The clinical picture—acute inferior ST-elevation myocardial infarction (ST elevation in II, III, aVF) complicated by profound hypotension, marked jugular venous distention with a positive Kussmaul sign, and completely CLEAR lung fields—is classic for acute right ventricular (RV) myocardial infarction. The ischemic right ventricle is acutely stiff, dilated, and non-compliant, impairing forward flow through the pulmonary circulation into the left heart and causing severe preload dependence. When nitroglycerin is administered, systemic venodilation precipitously depletes venous return to the right heart, leading to acute RV collapse, failure of left ventricular filling, and severe cardiogenic shock. The immediate, life-saving management is rapid isotonic crystalloid volume loading (0.9% saline bolus) to elevate right atrial and RV end-diastolic filling pressures, restoring forward transpulmonary flow and left-sided cardiac output. Inferior STEMI + profound hypotension after nitrate + elevated JVP with Kussmaul sign + clear lungs = RV infarction -> initial management is rapid IV normal saline bolus.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Right Ventricular Myocardial Infarction.",
+    "keyPoints": [
+      "Right Ventricular Myocardial Infarction",
+      "Inferior STEMI + profound hypotension after nitrate + elevated JVP with Kussmaul sign + clear lungs = RV infarction -> initial management is rapid IV normal saline bolus."
+    ],
+    "references": [
+      {
+        "label": "O'Gara PT, et al. 2013 ACCF/AHA guideline for the management of ST-elevation myocardial infarction. Circulation. 2013;127(4):e362-e425. PMID: 23247304.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23247304/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0302",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Acute Respiratory Distress Syndrome (ARDS)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old woman with severe acute gallstone pancreatitis is intubated in the intensive care unit for progressive hypoxemic respiratory failure. Chest radiography reveals extensive bilateral fluffy alveolar infiltrates with normal cardiac silhouette. Arterial blood gas analysis on mechanical ventilation (FiO2 0.80, positive end-expiratory pressure [PEEP] 10 cm H2O, tidal volume 600 mL, respiratory rate 16/min) demonstrates: pH 7.36, PaCO2 42 mm Hg, PaO2 64 mm Hg (PaO2/FiO2 ratio: 80 mm Hg). The patient's measured height is 162 cm (5 ft 4 in), and her predicted ideal body weight is 55 kg. The ventilator graphics display a plateau airway pressure of 36 cm H2O. Which of the following ventilator adjustments is most strongly indicated to improve survival in this patient?",
+    "options": [
+      {
+        "text": "Increase the respiratory rate to 28/min while maintaining the 600 mL tidal volume",
+        "correct": false,
+        "explanation": "Increasing the respiratory rate without reducing tidal volume maintains high plateau pressures (>30 cm H2O) and volutrauma, perpetuating alveolar rupture and inflammatory cytokine release without addressing the mechanical source of lung injury."
+      },
+      {
+        "text": "Reduce the tidal volume to 330 mL (6 mL/kg of predicted body weight)",
+        "correct": true,
+        "explanation": "The patient has severe ARDS (P/F ratio < 100 mm Hg, bilateral infiltrates, non-cardiogenic pulmonary edema). The ARDSNet trial demonstrated a significant mortality reduction with a lung-protective ventilation strategy utilizing low tidal volumes (4–8 mL/kg, targeting 6 mL/kg based on predicted/ideal body weight rather than actual weight) and maintaining plateau pressure ≤30 cm H2O. For her predicted body weight of 55 kg, 6 mL/kg is 330 mL. High tidal volumes (600 mL = 11 mL/kg) cause ventilator-induced lung injury (volutrauma and barotrauma), elevated plateau pressure (>30 cm H2O), and increased mortality."
+      },
+      {
+        "text": "Discontinue positive end-expiratory pressure to decrease mean airway pressure",
+        "correct": false,
+        "explanation": "PEEP prevents end-expiratory alveolar collapse (atelectotrauma) and improves oxygenation by recruiting non-aerated lung units. Discontinuing PEEP in severe ARDS causes derecruitment and catastrophic hypoxemia."
+      },
+      {
+        "text": "Switch to volume-targeted proportional assist ventilation with auto-titrating pressure",
+        "correct": false,
+        "explanation": "Proportional assist ventilation is an assist mode that varies support with patient effort, unsuitable for deeply sedated patients with severe ARDS, elevated plateau pressures, and severe hypoxemia where strict tidal volume limitation is life-saving."
+      },
+      {
+        "text": "Increase tidal volume to 750 mL to overcome alveolar dead space fraction",
+        "correct": false,
+        "explanation": "Increasing tidal volume to 750 mL (>13 mL/kg PBW) drastically elevates transpulmonary and plateau pressures, causing massive barotrauma, pneumothorax, and marked increase in mortality in ARDS."
+      }
+    ],
+    "explanation": "The patient has severe ARDS (P/F ratio < 100 mm Hg, bilateral infiltrates, non-cardiogenic pulmonary edema). The ARDSNet trial demonstrated a significant mortality reduction with a lung-protective ventilation strategy utilizing low tidal volumes (4–8 mL/kg, targeting 6 mL/kg based on predicted/ideal body weight rather than actual weight) and maintaining plateau pressure ≤30 cm H2O. For her predicted body weight of 55 kg, 6 mL/kg is 330 mL. High tidal volumes (600 mL = 11 mL/kg) cause ventilator-induced lung injury (volutrauma and barotrauma), elevated plateau pressure (>30 cm H2O), and increased mortality. Pancreatitis + severe ARDS + plateau pressure 36 cm H2O on 600 mL Vt -> lower tidal volume to 6 mL/kg PBW (330 mL) to target plateau pressure <= 30 cm H2O.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Respiratory Distress Syndrome (ARDS).",
+    "keyPoints": [
+      "Acute Respiratory Distress Syndrome (ARDS)",
+      "Pancreatitis + severe ARDS + plateau pressure 36 cm H2O on 600 mL Vt -> lower tidal volume to 6 mL/kg PBW (330 mL) to target plateau pressure <= 30 cm H2O."
+    ],
+    "references": [
+      {
+        "label": "The Acute Respiratory Distress Syndrome Network. Ventilation with Lower Tidal Volumes as Compared with Traditional Tidal Volumes for Acute Lung Injury. N Engl J Med. 2000;342(18):1301-1308. PMID: 10793162.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10793162/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0303",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Hemorrhagic Shock and Massive Transfusion Protocol",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 26-year-old man arrives at the trauma bay 20 minutes after sustaining multiple high-velocity gunshot wounds to the abdomen and pelvis. On arrival, he is somnolent and pale with cool, clammy extremities. Vital signs are: blood pressure 72/40 mm Hg, heart rate 138/min, and respiratory rate 26/min. Focused assessment with sonography for trauma (FAST) demonstrates abundant free fluid in Morison pouch and the splenorenal recess, and pelvis radiography reveals an unstable open-book pelvic fracture. Two large-bore 14-gauge peripheral intravenous lines are placed. Which of the following resuscitation strategies is most appropriate while preparing the patient for immediate emergency laparotomy?",
+    "options": [
+      {
+        "text": "Rapid infusion of 3 liters of warmed lactated Ringer solution prior to blood product administration",
+        "correct": false,
+        "explanation": "Aggressive crystalloid-first resuscitation is obsolete in major trauma; infusing 3 liters of lactated Ringer dilutes clotting factors and platelets, increases hydrostatic pressure dislodging early clots ('pop the clot'), and exacerbates hypothermia and coagulopathy."
+      },
+      {
+        "text": "Transfusion of 4 units of packed red blood cells followed by reassessment of laboratory coagulation parameters",
+        "correct": false,
+        "explanation": "Administering red cells alone without concurrent plasma and platelets rapidly produces dilutional thrombocytopenia and deficiency of clotting factors, precipitating uncontrollable diffuse microvascular bleeding."
+      },
+      {
+        "text": "Initiation of massive transfusion protocol with uncrossmatched blood, plasma, and platelets in a 1:1:1 ratio",
+        "correct": true,
+        "explanation": "The patient is in class IV hemorrhagic shock from penetrating abdominal and pelvic trauma. Modern damage control resuscitation mandates early activation of a massive transfusion protocol (MTP) using a balanced 1:1:1 ratio of packed red blood cells, fresh frozen plasma (FFP), and platelets. Large-volume crystalloid resuscitation causes dilutional coagulopathy, hypothermia, and metabolic acidosis (the 'lethal triad' of trauma), worsening hemorrhage and dramatically increasing mortality. The PROPPR trial demonstrated that balanced 1:1:1 hemostatic resuscitation improves early hemostasis and reduces death from exsanguination."
+      },
+      {
+        "text": "Continuous infusion of norepinephrine titrated to a mean arterial pressure of 80 mm Hg",
+        "correct": false,
+        "explanation": "Vasopressors in unresuscitated hemorrhagic shock cause intense peripheral and splanchnic vasoconstriction, worsening tissue hypoperfusion and lactic acidosis without addressing intravascular volume deficit. Hemostatic blood products are mandatory before vasopressors."
+      },
+      {
+        "text": "Administration of high-dose recombinant factor VIIa prior to surgical vascular control",
+        "correct": false,
+        "explanation": "Recombinant factor VIIa is reserved as off-label rescue therapy for refractory coagulopathic bleeding when standard blood products and surgical hemostasis fail, and carries a significant risk of thromboembolic events; it is not initial first-line therapy."
+      }
+    ],
+    "explanation": "The patient is in class IV hemorrhagic shock from penetrating abdominal and pelvic trauma. Modern damage control resuscitation mandates early activation of a massive transfusion protocol (MTP) using a balanced 1:1:1 ratio of packed red blood cells, fresh frozen plasma (FFP), and platelets. Large-volume crystalloid resuscitation causes dilutional coagulopathy, hypothermia, and metabolic acidosis (the 'lethal triad' of trauma), worsening hemorrhage and dramatically increasing mortality. The PROPPR trial demonstrated that balanced 1:1:1 hemostatic resuscitation improves early hemostasis and reduces death from exsanguination. Penetrating trauma + class IV hemorrhagic shock + positive FAST -> Massive Transfusion Protocol in balanced 1:1:1 ratio (PRBC:FFP:platelets) to prevent lethal triad.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hemorrhagic Shock and Massive Transfusion Protocol.",
+    "keyPoints": [
+      "Hemorrhagic Shock and Massive Transfusion Protocol",
+      "Penetrating trauma + class IV hemorrhagic shock + positive FAST -> Massive Transfusion Protocol in balanced 1:1:1 ratio (PRBC:FFP:platelets) to prevent lethal triad."
+    ],
+    "references": [
+      {
+        "label": "Holcomb JB, et al. Transfusion of Plasma, Platelets, and Red Blood Cells in a 1:1:1 vs a 1:1:2 Ratio and Mortality in Patients with Severe Trauma: The PROPPR Randomized Clinical Trial. JAMA. 2015;313(5):471-482. PMID: 25647203.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25647203/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0304",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Acetaminophen Toxicity",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old college student is brought to the emergency department by her roommate 5 hours after intentionally ingesting an entire bottle of extra-strength acetaminophen (approximately 25 grams) following an emotional breakup. She has vomited twice and complains of mild epigastric discomfort, but denies alcohol or other co-ingestions. Physical examination reveals normal vital signs, clear lungs, and mild non-tender epigastric fullness without peritoneal signs. Serum acetaminophen concentration drawn at 5 hours post-ingestion returns at 180 mcg/mL. Aspartate aminotransferase (AST) is 24 U/L and alanine aminotransferase (ALT) is 21 U/L. Which of the following is the most appropriate next step in the management of this patient?",
+    "options": [
+      {
+        "text": "Repeat the serum acetaminophen concentration in 4 hours before making treatment decisions",
+        "correct": false,
+        "explanation": "Delaying NAC therapy while awaiting repeat levels allows toxic NAPQI to bind covalently to hepatocellular macromolecules, causing irreversible centrilobular necrosis. Because the 5-hour level clearly exceeds the nomogram treatment line, immediate therapy is required."
+      },
+      {
+        "text": "Administer activated charcoal orally and discharge with psychiatry follow-up",
+        "correct": false,
+        "explanation": "Activated charcoal is most effective when administered within 1 to 2 hours of ingestion and is not adequate monotherapy for a toxic level at 5 hours; moreover, the patient requires inpatient NAC therapy and subsequent psychiatric evaluation."
+      },
+      {
+        "text": "Obtain urgent emergent consult for transjugular intrahepatic portosystemic shunt",
+        "correct": false,
+        "explanation": "TIPS is a procedure for portal hypertension (variceal bleeding or refractory ascites) and has no role in the management of acute acetaminophen toxicity."
+      },
+      {
+        "text": "Initiate intravenous N-acetylcysteine infusion immediately",
+        "correct": true,
+        "explanation": "The Rumack-Matthew nomogram plots serum acetaminophen concentration versus time elapsed since ingestion to assess hepatotoxicity risk. The treatment line starts at 150 mcg/mL at 4 hours and 75 mcg/mL at 8 hours. At 5 hours, 180 mcg/mL is well above the treatment line (which is approximately 130 mcg/mL at 5 hours), indicating substantial risk for centrilobular hepatic necrosis. N-acetylcysteine (NAC) replenishes glutathione stores and conjugates NAPQI (the toxic reactive metabolite), providing near 100% hepatoprotection when started within 8 hours of acute ingestion. Immediate initiation is mandatory."
+      },
+      {
+        "text": "Administer deferoxamine intravenously to prevent hepatic iron-induced lipid peroxidation",
+        "correct": false,
+        "explanation": "Deferoxamine is the specific chelating agent for acute iron poisoning, characterized by radiopaque pills on abdominal radiography and metabolic acidosis, not acetaminophen overdose."
+      }
+    ],
+    "explanation": "The Rumack-Matthew nomogram plots serum acetaminophen concentration versus time elapsed since ingestion to assess hepatotoxicity risk. The treatment line starts at 150 mcg/mL at 4 hours and 75 mcg/mL at 8 hours. At 5 hours, 180 mcg/mL is well above the treatment line (which is approximately 130 mcg/mL at 5 hours), indicating substantial risk for centrilobular hepatic necrosis. N-acetylcysteine (NAC) replenishes glutathione stores and conjugates NAPQI (the toxic reactive metabolite), providing near 100% hepatoprotection when started within 8 hours of acute ingestion. Immediate initiation is mandatory. Acute acetaminophen overdose at 5 hours with serum level 180 mcg/mL (above 130 mcg/mL nomogram line) -> immediate N-acetylcysteine to restore glutathione.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acetaminophen Toxicity.",
+    "keyPoints": [
+      "Acetaminophen Toxicity",
+      "Acute acetaminophen overdose at 5 hours with serum level 180 mcg/mL (above 130 mcg/mL nomogram line) -> immediate N-acetylcysteine to restore glutathione."
+    ],
+    "references": [
+      {
+        "label": "Dart RC, et al. Acetaminophen Poisoning: An Evidence-Based Consensus Guideline for Out-of-Hospital Management. Clin Toxicol (Phila). 2006;44(1):1-18. PMID: 16496488.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16496488/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0305",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Acute Aortic Dissection",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old man presents to the emergency department with sudden-onset, severe, tearing chest pain radiating between his shoulder blades that began 45 minutes ago. He has a history of poorly controlled hypertension. Vital signs are: blood pressure 210/118 mm Hg in the right arm and 184/98 mm Hg in the left arm, heart rate 104/min, respiratory rate 22/min, and oxygen saturation 96% on ambient air. Cardiac examination reveals a grade 2/6 early diastolic decrescendo murmur heard best along the right sternal border. Bilateral radial pulses are palpable but asymmetric. Contrast-enhanced CT angiography of the chest demonstrates a Stanford type A aortic dissection originating in the ascending aorta and extending into the aortic arch. Which of the following is the most appropriate initial medical management while surgical consultation is obtained?",
+    "options": [
+      {
+        "text": "Intravenous sodium nitroprusside monotherapy titrated rapidly to a systolic blood pressure < 110 mm Hg",
+        "correct": false,
+        "explanation": "Sodium nitroprusside is a potent pure vasodilator. Administered without prior beta-blockade, it causes reflex sympathetic adrenergic discharge, increasing heart rate and left ventricular contractility (dP/dt), which tears the aortic wall further."
+      },
+      {
+        "text": "Intravenous hydralazine 20 mg bolus every 20 minutes to maintain diastolic pressure < 80 mm Hg",
+        "correct": false,
+        "explanation": "Hydralazine causes unpredictable, prolonged vasodilation and pronounced reflex tachycardia, increasing dP/dt and increasing the risk of dissection propagation; it is contraindicated in acute aortic dissection."
+      },
+      {
+        "text": "Intravenous unfractionated heparin bolus and infusion to prevent thromboembolic propagation",
+        "correct": false,
+        "explanation": "Anticoagulation with heparin is strictly contraindicated in acute aortic dissection because it impairs false lumen clotting, exacerbates bleeding, and drastically increases the risk of fatal pericardial tamponade or hemothorax."
+      },
+      {
+        "text": "Urgent pericardiocentesis under echocardiographic guidance to treat the early aortic regurgitation",
+        "correct": false,
+        "explanation": "Pericardiocentesis is contraindicated in hemopericardium from acute aortic dissection unless the patient is in pulseless cardiac arrest; withdrawing blood acutely decompresses the intrapericardial space, increasing transaortic transmural pressure and precipitating fatal exsanguination."
+      },
+      {
+        "text": "Intravenous esmolol infusion targeting heart rate < 60/min, followed by intravenous nitroprusside if systolic blood pressure remains > 120 mm Hg",
+        "correct": true,
+        "explanation": "The acute medical management of aortic dissection aims to minimize aortic wall shear stress (rate of change of left ventricular pressure, dP/dt). This requires immediate heart rate control (target HR < 60/min) followed by blood pressure reduction (target SBP 100–120 mm Hg). Intravenous beta-blockers (such as esmolol or labetalol) must always be administered FIRST before vasodilators (such as sodium nitroprusside or nicardipine). Administering a vasodilator alone or prior to beta-blockade induces reflex sympathetic tachycardia and increases dP/dt, propagating the intimal flap and accelerating aortic rupture."
+      }
+    ],
+    "explanation": "The acute medical management of aortic dissection aims to minimize aortic wall shear stress (rate of change of left ventricular pressure, dP/dt). This requires immediate heart rate control (target HR < 60/min) followed by blood pressure reduction (target SBP 100–120 mm Hg). Intravenous beta-blockers (such as esmolol or labetalol) must always be administered FIRST before vasodilators (such as sodium nitroprusside or nicardipine). Administering a vasodilator alone or prior to beta-blockade induces reflex sympathetic tachycardia and increases dP/dt, propagating the intimal flap and accelerating aortic rupture. Type A dissection + severe hypertension and tachycardia -> IV beta-blocker (esmolol) first to HR < 60/min, then vasodilator (nitroprusside) if SBP > 120 mm Hg.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Aortic Dissection.",
+    "keyPoints": [
+      "Acute Aortic Dissection",
+      "Type A dissection + severe hypertension and tachycardia -> IV beta-blocker (esmolol) first to HR < 60/min, then vasodilator (nitroprusside) if SBP > 120 mm Hg."
+    ],
+    "references": [
+      {
+        "label": "Hiratzka LF, et al. 2010 ACCF/AHA/AATS Guidelines for the Diagnosis and Management of Patients with Thoracic Aortic Disease. Circulation. 2010;121(13):e266-e369. PMID: 20233780.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20233780/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0306",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Tension Pneumothorax",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old man is brought to the emergency department after being struck by an automobile while riding his bicycle. He is agitated, gasping for air, and cyanotic. Vital signs are: blood pressure 74/42 mm Hg, heart rate 142/min, respiratory rate 36/min, and oxygen saturation 81% on a nonrebreather mask. Physical examination reveals distended neck veins, trachea palpably deviated to the left, subcutaneous emphysema over the right hemithorax, and complete absence of breath sounds over the right lung with hyperresonance to percussion. The junior resident suggests immediately wheeling the patient to the radiology suite for a stat portable chest radiograph. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Perform immediate needle decompression in the second intercostal space at the midclavicular line",
+        "correct": true,
+        "explanation": "The patient has a life-threatening right-sided tension pneumothorax with severe hemodynamic compromise (hypotension, tachycardia, tracheal deviation, JVD, absent breath sounds). Tension pneumothorax is a clinical diagnosis; waiting for radiographic confirmation causes fatal delay. Immediate needle decompression (or finger thoracostomy) converts the tension pneumothorax into an open pneumothorax, decompressing intrathoracic pressure, relieving superior and inferior vena caval kinking, and restoring venous return and cardiac output, followed promptly by tube thoracostomy."
+      },
+      {
+        "text": "Obtain a portable upright chest radiograph to confirm the location of the pleural line",
+        "correct": false,
+        "explanation": "Delaying decompression to obtain an imaging study in an unstable patient with clinical signs of tension pneumothorax is a critical medical error that can result in pulseless electrical activity (PEA) cardiac arrest."
+      },
+      {
+        "text": "Perform emergency rapid sequence endotracheal intubation before thoracic intervention",
+        "correct": false,
+        "explanation": "Positive pressure ventilation prior to decompressing a tension pneumothorax exacerbates intrathoracic pressure, worsens mediastinal shift, and accelerates complete cardiovascular collapse."
+      },
+      {
+        "text": "Administer a 2-liter intravenous bolus of normal saline to treat the distributive shock",
+        "correct": false,
+        "explanation": "The primary etiology of hypotension is obstructive shock from impaired venous return due to positive intrathoracic pressure; volume infusion without thoracic decompression does not restore cardiac output."
+      },
+      {
+        "text": "Perform urgent pericardiocentesis under subxiphoid ultrasound guidance",
+        "correct": false,
+        "explanation": "While pericardial tamponade presents with JVD and hypotension, it features muffled heart sounds and clear lungs, whereas this patient has unilateral absent breath sounds, hyperresonance, and tracheal deviation diagnostic of tension pneumothorax."
+      }
+    ],
+    "explanation": "The patient has a life-threatening right-sided tension pneumothorax with severe hemodynamic compromise (hypotension, tachycardia, tracheal deviation, JVD, absent breath sounds). Tension pneumothorax is a clinical diagnosis; waiting for radiographic confirmation causes fatal delay. Immediate needle decompression (or finger thoracostomy) converts the tension pneumothorax into an open pneumothorax, decompressing intrathoracic pressure, relieving superior and inferior vena caval kinking, and restoring venous return and cardiac output, followed promptly by tube thoracostomy. Hypotension + absent breath sounds + hyperresonance + tracheal deviation to opposite side -> clinical tension pneumothorax -> immediate needle decompression without waiting for X-ray.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Tension Pneumothorax.",
+    "keyPoints": [
+      "Tension Pneumothorax",
+      "Hypotension + absent breath sounds + hyperresonance + tracheal deviation to opposite side -> clinical tension pneumothorax -> immediate needle decompression without waiting for X-r"
+    ],
+    "references": [
+      {
+        "label": "American College of Surgeons. Advanced Trauma Life Support (ATLS) Student Course Manual. 10th ed. Chicago, IL: American College of Surgeons; 2018. NLM ID: 101736637",
+        "url": "https://www.ncbi.nlm.nih.gov/nlmcatalog/101736637"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0307",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Tricyclic Antidepressant Overdose",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 38-year-old woman with a history of major depressive disorder is found unresponsive in her bedroom by family members, surrounded by empty medication containers of amitriptyline. On arrival of emergency medical services, she has a generalized tonic-clonic seizure that terminates after intravenous lorazepam. In the emergency department, she is somnolent with a Glasgow Coma Scale score of 7. Vital signs are: blood pressure 82/46 mm Hg, heart rate 128/min, respiratory rate 10/min, and temperature 38.3°C (100.9°F). Physical examination reveals warm, flushed skin, dry oral mucous membranes, and bilateral dilated pupils measuring 7 mm with sluggish light reactivity. An ECG demonstrates sinus tachycardia with a QRS duration of 148 ms and a prominent terminal R wave in lead aVR (> 3 mm). Which of the following is the most appropriate immediate pharmacotherapy to address this patient's cardiovascular findings?",
+    "options": [
+      {
+        "text": "Intravenous physostigmine salicylate infusion to reverse anticholinergic delirium",
+        "correct": false,
+        "explanation": "Physostigmine is a tertiary acetylcholinesterase inhibitor used in pure anticholinergic toxicity. In TCA overdose, physostigmine is strictly contraindicated because it precipitates complete heart block, asystole, and refractory seizures."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus and infusion",
+        "correct": true,
+        "explanation": "Tricyclic antidepressants (TCAs) inhibit myocardial fast sodium channels (phase 0 depolarization), prolonging the QRS complex and predisposing to fatal ventricular arrhythmias (ventricular tachycardia and fibrillation) and refractory hypotension. A QRS duration > 100 ms is an indication for intravenous sodium bicarbonate therapy. Sodium bicarbonate acts by: (1) increasing extracellular sodium concentration, which competitively overcomes sodium channel blockade, and (2) inducing serum alkalization (target pH 7.50–7.55), which shifts the lipophilic TCA drug molecules into an uncharged, non-binding state, dislodging them from the sodium channel receptor."
+      },
+      {
+        "text": "Intravenous amiodarone infusion for ventricular antiarrhythmic prophylaxis",
+        "correct": false,
+        "explanation": "Class Ia and III antiarrhythmics (including amiodarone, procainamide, and quinidine) prolong the cardiac action potential and QT interval, further worsening cardiac conduction delay and triggering polymorphic ventricular tachycardia in TCA toxicity."
+      },
+      {
+        "text": "Intravenous flumazenil bolus to reverse central benzodiazepine receptor sedation",
+        "correct": false,
+        "explanation": "Flumazenil is contraindicated in patients with suspected mixed tricyclic antidepressant ingestion because it blocks endogenous GABAergic inhibition, triggering uncontrollable seizures and cardiotoxicity."
+      },
+      {
+        "text": "Intravenous magnesium sulfate bolus for stabilization of the cardiac membrane",
+        "correct": false,
+        "explanation": "Magnesium sulfate is the treatment of choice for torsades de pointes (polymorphic VT with prolonged QT). For TCA-induced QRS prolongation and monomorphic ventricular tachycardia, hypertonic sodium bicarbonate is the specific antidote."
+      }
+    ],
+    "explanation": "Tricyclic antidepressants (TCAs) inhibit myocardial fast sodium channels (phase 0 depolarization), prolonging the QRS complex and predisposing to fatal ventricular arrhythmias (ventricular tachycardia and fibrillation) and refractory hypotension. A QRS duration > 100 ms is an indication for intravenous sodium bicarbonate therapy. Sodium bicarbonate acts by: (1) increasing extracellular sodium concentration, which competitively overcomes sodium channel blockade, and (2) inducing serum alkalization (target pH 7.50–7.55), which shifts the lipophilic TCA drug molecules into an uncharged, non-binding state, dislodging them from the sodium channel receptor. Amitriptyline overdose + anticholinergic signs + QRS 148 ms with tall R wave in aVR -> IV sodium bicarbonate to overcome fast sodium channel blockade.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Tricyclic Antidepressant Overdose.",
+    "keyPoints": [
+      "Tricyclic Antidepressant Overdose",
+      "Amitriptyline overdose + anticholinergic signs + QRS 148 ms with tall R wave in aVR -> IV sodium bicarbonate to overcome fast sodium channel blockade."
+    ],
+    "references": [
+      {
+        "label": "Body R, et al. Guidelines in Emergency Medicine Network (GEMNet): Guideline for the Management of Tricyclic Antidepressant Overdose. Emerg Med J. 2011;28(4):347-368. PMID: 21415174.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21415174/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0308",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Anaphylaxis Management",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 17-year-old boy is brought to the emergency department by his mother 20 minutes after eating a pastry containing almond flour at a bakery. He complains of throat tightness, difficulty swallowing, and a spreading pruritic rash. Physical examination reveals generalized urticaria with extensive erythematous wheals across his chest and extremities, facial and periorbital edema, and inspiratory stridor audible over the anterior neck. Vital signs are: blood pressure 86/52 mm Hg, heart rate 124/min, respiratory rate 26/min, and oxygen saturation 93% on room air. The triage nurse asks which medication should be administered first. Which of the following is the most appropriate initial therapy?",
+    "options": [
+      {
+        "text": "Intravenous diphenhydramine 50 mg and ranitidine 50 mg administered over 10 minutes",
+        "correct": false,
+        "explanation": "Antihistamines (H1 and H2 blockers) are secondary, adjunctive treatments that treat cutaneous symptoms (itching, hives) but do not relieve laryngeal edema, reverse bronchospasm, or treat hypotension, and should never delay epinephrine."
+      },
+      {
+        "text": "Intravenous methylprednisolone 125 mg to suppress late-phase inflammatory mediator release",
+        "correct": false,
+        "explanation": "Systemic corticosteroids have an onset of action of 4 to 6 hours; they have no immediate effect on acute airway obstruction or shock and must never precede epinephrine."
+      },
+      {
+        "text": "Intramuscular epinephrine (1:1,000) administered into the anterolateral mid-thigh",
+        "correct": true,
+        "explanation": "The patient is experiencing severe anaphylaxis with airway compromise (inspiratory stridor) and cardiovascular collapse (hypotension). Intramuscular epinephrine (1 mg/mL, 1:1,000 concentration, 0.01 mg/kg, maximum 0.3–0.5 mg in adults/adolescents) administered into the anterolateral thigh (vastus lateralis) is the undisputed first-line treatment for anaphylaxis. Epinephrine stimulates alpha-1 receptors (causing vasoconstriction to treat hypotension and reduce laryngeal mucosal edema), beta-1 receptors (increasing heart rate and cardiac contractility), and beta-2 receptors (inducing bronchodilation and inhibiting mast cell and basophil degranulation). Delivery into the anterolateral thigh achieves faster and higher peak plasma concentrations than subcutaneous injection or deltoid administration."
+      },
+      {
+        "text": "Inhaled albuterol nebulization 2.5 mg every 20 minutes for relief of upper airway obstruction",
+        "correct": false,
+        "explanation": "Inhaled albuterol treats lower airway bronchospasm (wheezing) but is ineffective for upper airway laryngeal edema (stridor) and does not treat systemic hypotension."
+      },
+      {
+        "text": "Subcutaneous epinephrine (1:1,000) injected into the upper deltoid region",
+        "correct": false,
+        "explanation": "Subcutaneous injection and deltoid site administration result in significantly delayed absorption and lower peak plasma epinephrine concentrations compared to intramuscular injection into the vastus lateralis."
+      }
+    ],
+    "explanation": "The patient is experiencing severe anaphylaxis with airway compromise (inspiratory stridor) and cardiovascular collapse (hypotension). Intramuscular epinephrine (1 mg/mL, 1:1,000 concentration, 0.01 mg/kg, maximum 0.3–0.5 mg in adults/adolescents) administered into the anterolateral thigh (vastus lateralis) is the undisputed first-line treatment for anaphylaxis. Epinephrine stimulates alpha-1 receptors (causing vasoconstriction to treat hypotension and reduce laryngeal mucosal edema), beta-1 receptors (increasing heart rate and cardiac contractility), and beta-2 receptors (inducing bronchodilation and inhibiting mast cell and basophil degranulation). Delivery into the anterolateral thigh achieves faster and higher peak plasma concentrations than subcutaneous injection or deltoid administration. Nut ingestion + urticaria + inspiratory stridor + hypotension -> anaphylaxis -> immediate IM epinephrine (1:1,000) in anterolateral thigh.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Anaphylaxis Management.",
+    "keyPoints": [
+      "Anaphylaxis Management",
+      "Nut ingestion + urticaria + inspiratory stridor + hypotension -> anaphylaxis -> immediate IM epinephrine (1:1,000) in anterolateral thigh."
+    ],
+    "references": [
+      {
+        "label": "Shaker MS, et al. Anaphylaxis—A 2020 Practice Parameter Update, Systematic Review, and Grading of Recommendations, Assessment, Development and Evaluation (GRADE) Analysis. J Allergy Clin Immunol. 2020;145(4):1082-1123. PMID: 32001153.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32001153/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0309",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Carbon Monoxide Poisoning",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old man is brought to the emergency department after being rescued from a house fire. He was found unconscious in a smoke-filled bedroom. On arrival, he is somnolent and confused, complaining of a throbbing headache, dizziness, and severe nausea. Vital signs are: blood pressure 138/84 mm Hg, heart rate 110/min, respiratory rate 20/min, and pulse oximetry saturation (SpO2) 99% on room air. Neurological examination reveals disorientation to time and place, but no focal deficits. Arterial blood gas analysis on 100% nonrebreather mask demonstrates: pH 7.31, PaCO2 36 mm Hg, PaO2 105 mm Hg, and an arterial blood carboxyhemoglobin level of 34% (normal: < 3% in non-smokers). Serum lactate is 4.8 mmol/L. Which of the following is the most appropriate next step in the management of this patient?",
+    "options": [
+      {
+        "text": "Discontinue oxygen therapy because the pulse oximetry confirms adequate tissue oxygen saturation",
+        "correct": false,
+        "explanation": "Pulse oximeters cannot differentiate carboxyhemoglobin from oxyhemoglobin, falsely reading 99% even in fatal CO toxicity; discontinuing oxygen exacerbates severe tissue hypoxia."
+      },
+      {
+        "text": "Administer intravenous hydroxocobalamin monotherapy and discharge once lactate clears",
+        "correct": false,
+        "explanation": "Hydroxocobalamin is the antidote for cyanide poisoning, which often co-occurs in smoke inhalation; however, this patient has proven severe CO poisoning (COHb 34%) with neurological impairment, requiring HBO therapy regardless of cyanide management."
+      },
+      {
+        "text": "Administer intravenous methylene blue for drug-induced functional dyshemoglobinemia",
+        "correct": false,
+        "explanation": "Methylene blue is the specific treatment for methemoglobinemia (converts Fe3+ to Fe2+), not carbon monoxide poisoning; methylene blue in CO poisoning can induce hemolytic anemia and is contraindicated."
+      },
+      {
+        "text": "Maintain 100% high-flow normobaric oxygen and arrange immediate hyperbaric oxygen therapy",
+        "correct": true,
+        "explanation": "The patient has severe carbon monoxide (CO) poisoning manifested by neurological dysfunction (somnolence, confusion, transient loss of consciousness) and an elevated carboxyhemoglobin level of 34%. Standard pulse oximetry cannot distinguish between oxyhemoglobin and carboxyhemoglobin (both absorb light at 660 nm), falsely reporting a normal SpO2 of 99%. Hyperbaric oxygen (HBO) therapy drastically shortens the half-life of carboxyhemoglobin (from ~300 minutes on room air and ~90 minutes on 100% normobaric O2 down to ~20–30 minutes at 2.5–3.0 atmospheres) and reduces long-term cognitive and neurological sequelae. Indications for HBO include: carboxyhemoglobin > 25% (> 15% in pregnancy), loss of consciousness, severe metabolic acidosis (pH < 7.25), end-organ ischemia (chest pain/ECG changes), or persistent neurological deficits."
+      },
+      {
+        "text": "Perform emergent fiberoptic bronchoscopy to confirm inhalational thermal airway injury",
+        "correct": false,
+        "explanation": "While airway assessment is important in smoke inhalation, bronchoscopy does not treat systemic cellular hypoxia from carbon monoxide poisoning and should not delay HBO therapy."
+      }
+    ],
+    "explanation": "The patient has severe carbon monoxide (CO) poisoning manifested by neurological dysfunction (somnolence, confusion, transient loss of consciousness) and an elevated carboxyhemoglobin level of 34%. Standard pulse oximetry cannot distinguish between oxyhemoglobin and carboxyhemoglobin (both absorb light at 660 nm), falsely reporting a normal SpO2 of 99%. Hyperbaric oxygen (HBO) therapy drastically shortens the half-life of carboxyhemoglobin (from ~300 minutes on room air and ~90 minutes on 100% normobaric O2 down to ~20–30 minutes at 2.5–3.0 atmospheres) and reduces long-term cognitive and neurological sequelae. Indications for HBO include: carboxyhemoglobin > 25% (> 15% in pregnancy), loss of consciousness, severe metabolic acidosis (pH < 7.25), end-organ ischemia (chest pain/ECG changes), or persistent neurological deficits. Smoke inhalation + pulse oximetry falsely 99% + confusion + carboxyhemoglobin 34% -> severe CO poisoning -> 100% normobaric O2 and immediate hyperbaric oxygen.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Carbon Monoxide Poisoning.",
+    "keyPoints": [
+      "Carbon Monoxide Poisoning",
+      "Smoke inhalation + pulse oximetry falsely 99% + confusion + carboxyhemoglobin 34% -> severe CO poisoning -> 100% normobaric O2 and immediate hyperbaric oxygen."
+    ],
+    "references": [
+      {
+        "label": "Weaver LK. Carbon Monoxide Poisoning. N Engl J Med. 2009;360(12):1217-1225. PMID: 19297574.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19297574/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0310",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Cardiac Tamponade",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old woman with metastatic breast cancer presents to the emergency department with progressive shortness of breath, profound fatigue, and lightheadedness over the past 3 days. On physical examination, she appears distressed and sits upright, leaning forward. Vital signs are: blood pressure 88/60 mm Hg, heart rate 118/min, respiratory rate 24/min, and temperature 37.0°C (98.6°F). Jugular venous distention is prominent up to the angle of the jaw with an absent y descent. Heart sounds are distant and muffled on auscultation, and the lungs are clear to auscultation bilaterally. On blood pressure cuff deflation, the first Korotkoff sounds are heard intermittently during expiration at 96 mm Hg, and become audible continuously throughout both inspiration and expiration at 80 mm Hg. Point-of-care echocardiography reveals a large circumferential pericardial effusion with diastolic collapse of the right ventricle. Which of the following is the most appropriate next step in the management of this patient?",
+    "options": [
+      {
+        "text": "Administer intravenous furosemide 40 mg to reduce elevated central venous pressure",
+        "correct": false,
+        "explanation": "Diuretics reduce intravascular volume and intracardiac filling pressures. In cardiac tamponade, cardiac output depends on high filling pressures to overcome external pericardial compression; diuresis eliminates preload, precipitating sudden cardiovascular collapse."
+      },
+      {
+        "text": "Initiate immediate positive-pressure noninvasive ventilation with BiPAP",
+        "correct": false,
+        "explanation": "Positive pressure ventilation increases intrathoracic pressure, further decreasing venous return to the right heart and worsening hemodynamic collapse in cardiac tamponade."
+      },
+      {
+        "text": "Administer intravenous beta-blocker to control sinus tachycardia and reduce myocardial oxygen demand",
+        "correct": false,
+        "explanation": "Sinus tachycardia is a vital compensatory mechanism to preserve cardiac output (CO = HR x SV) in the setting of a fixed, severely reduced stroke volume. Suppressing the heart rate precipitates fatal circulatory failure."
+      },
+      {
+        "text": "Schedule elective subxiphoid pericardial window placement within the next 48 hours",
+        "correct": false,
+        "explanation": "Delaying intervention for elective surgery in a hypotensive patient with diastolic right ventricular collapse is dangerous; immediate bedside decompression is required to prevent arrest."
+      },
+      {
+        "text": "Perform emergency echocardiography-guided pericardiocentesis",
+        "correct": true,
+        "explanation": "The patient presents with cardiac tamponade secondary to malignant pericardial effusion. She exhibits Beck triad (hypotension, jugular venous distention, muffled heart sounds) and pulsus paradoxus (> 10 mm Hg drop in systolic blood pressure during inspiration; here, 96 - 80 = 16 mm Hg). Diastolic collapse of the right ventricle on echocardiography confirms elevated intrapericardial pressure exceeding intracardiac chamber pressure, severely impeding venous return and stroke volume. Emergency pericardiocentesis under echocardiographic guidance relieves intrapericardial pressure, restores ventricular filling, and rapidly reverses cardiogenic shock."
+      }
+    ],
+    "explanation": "The patient presents with cardiac tamponade secondary to malignant pericardial effusion. She exhibits Beck triad (hypotension, jugular venous distention, muffled heart sounds) and pulsus paradoxus (> 10 mm Hg drop in systolic blood pressure during inspiration; here, 96 - 80 = 16 mm Hg). Diastolic collapse of the right ventricle on echocardiography confirms elevated intrapericardial pressure exceeding intracardiac chamber pressure, severely impeding venous return and stroke volume. Emergency pericardiocentesis under echocardiographic guidance relieves intrapericardial pressure, restores ventricular filling, and rapidly reverses cardiogenic shock. Metastatic breast cancer + Beck triad (JVD, hypotension, muffled sounds) + pulsus paradoxus 16 mm Hg + RV diastolic collapse -> cardiac tamponade -> emergency pericardiocentesis.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cardiac Tamponade.",
+    "keyPoints": [
+      "Cardiac Tamponade",
+      "Metastatic breast cancer + Beck triad (JVD, hypotension, muffled sounds) + pulsus paradoxus 16 mm Hg + RV diastolic collapse -> cardiac tamponade -> emergency pericardiocentesis."
+    ],
+    "references": [
+      {
+        "label": "Adler Y, et al. 2015 ESC Guidelines for the Diagnosis and Management of Pericardial Diseases. Eur Heart J. 2015;36(42):2921-2964. PMID: 26320112.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26320112/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0311",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Opioid Overdose vs Sedative-Hypnotic Withdrawal",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old man is brought to the emergency department after being found unresponsive in a public restroom. Empty syringes and a spoon with residue were discovered next to him. On arrival, he is comatose and does not respond to sternal rub. Vital signs are: blood pressure 94/56 mm Hg, heart rate 52/min, respiratory rate 5/min, and oxygen saturation 82% on ambient air. Physical examination reveals pinpoint pupils (1 mm) that react sluggishly to light, shallow chest excursions, and cool skin with track marks over both antecubital fossae. Bag-valve-mask ventilation with 100% supplemental oxygen is immediately initiated, improving oxygen saturation to 96%. Which of the following is the most appropriate next step in the pharmacologic management of this patient?",
+    "options": [
+      {
+        "text": "Administer low-dose intravenous naloxone (0.04 to 0.1 mg) titrated to adequate spontaneous ventilation",
+        "correct": true,
+        "explanation": "The patient has acute opioid overdose, characterized by the classic triad of central nervous system depression, miosis (pinpoint pupils), and respiratory depression. While naloxone is the specific opioid receptor antagonist, the goal of naloxone therapy in opioid-dependent individuals is restoration of adequate spontaneous ventilation (respiratory rate ≥ 10–12/min and normal tidal volume), not full arousal or consciousness. Administering low, titrated doses of intravenous naloxone (0.04 to 0.1 mg every 2–3 minutes) restores ventilation while preventing severe precipitated opioid withdrawal (agitation, violent vomiting, aspiration, and sympathetic surge)."
+      },
+      {
+        "text": "Administer a rapid intravenous bolus of naloxone 4 mg to achieve immediate full arousal",
+        "correct": false,
+        "explanation": "High-dose bolus naloxone precipitates acute, severe opioid withdrawal syndrome, causing tachycardia, hypertension, violent agitation, vomiting with high risk of pulmonary aspiration, and acute pulmonary edema."
+      },
+      {
+        "text": "Perform immediate endotracheal intubation without administering opioid antagonists",
+        "correct": false,
+        "explanation": "Intubation is invasive and carries complications. In opioid overdose, bag-valve-mask ventilation followed by titrated naloxone reliably restores spontaneous ventilation, avoiding the need for mechanical ventilation in the vast majority of cases."
+      },
+      {
+        "text": "Administer intravenous flumazenil 0.2 mg to treat suspected co-ingestion of benzodiazepines",
+        "correct": false,
+        "explanation": "Flumazenil carries a significant risk of inducing refractory seizures and status epilepticus in benzodiazepine-tolerant patients or mixed overdoses, and is contraindicated in undifferentiated coma."
+      },
+      {
+        "text": "Administer intravenous clonidine to suppress sympathetic hyperactivity and autonomic discharge",
+        "correct": false,
+        "explanation": "Clonidine treats autonomic symptoms of opioid withdrawal; administering it to a patient in acute opioid-induced coma and bradycardia would worsen hypotension and central depression."
+      }
+    ],
+    "explanation": "The patient has acute opioid overdose, characterized by the classic triad of central nervous system depression, miosis (pinpoint pupils), and respiratory depression. While naloxone is the specific opioid receptor antagonist, the goal of naloxone therapy in opioid-dependent individuals is restoration of adequate spontaneous ventilation (respiratory rate ≥ 10–12/min and normal tidal volume), not full arousal or consciousness. Administering low, titrated doses of intravenous naloxone (0.04 to 0.1 mg every 2–3 minutes) restores ventilation while preventing severe precipitated opioid withdrawal (agitation, violent vomiting, aspiration, and sympathetic surge). Coma + pinpoint pupils + respiratory rate 5/min + track marks -> opioid overdose -> titrated low-dose IV naloxone (0.04-0.1 mg) targeting adequate ventilation without severe withdrawal.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Opioid Overdose vs Sedative-Hypnotic Withdrawal.",
+    "keyPoints": [
+      "Opioid Overdose vs Sedative-Hypnotic Withdrawal",
+      "Coma + pinpoint pupils + respiratory rate 5/min + track marks -> opioid overdose -> titrated low-dose IV naloxone (0.04-0.1 mg) targeting adequate ventilation without severe withdr"
+    ],
+    "references": [
+      {
+        "label": "Boyer EW. Management of Opioid Analgesic Overdose. N Engl J Med. 2012;367(2):146-155. PMID: 22784117.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22784117/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0312",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Unstable Tachyarrhythmia",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man with a history of ischemic cardiomyopathy (left ventricular ejection fraction 30%) presents to the emergency department with sudden severe palpitations, chest tightness, and lightheadedness that began 30 minutes ago. On arrival, he is pale and diaphoretic. Vital signs are: blood pressure 78/48 mm Hg, heart rate 175/min and regular, respiratory rate 24/min, and oxygen saturation 94% on ambient air. Cardiac monitor shows a monomorphic wide-complex tachycardia with a QRS duration of 160 ms. He remains conscious but speaks in short, fragmented phrases and appears close to syncope. Which of the following is the most appropriate next step in the management of this patient?",
+    "options": [
+      {
+        "text": "Administer an immediate unsynchronized high-energy electrical shock (defibrillation)",
+        "correct": false,
+        "explanation": "Defibrillation (unsynchronized shock) is reserved for pulseless cardiac arrest (ventricular fibrillation or pulseless VT). Delivering an unsynchronized shock to a patient with a perfusing rhythm can trigger R-on-T phenomenon, converting ventricular tachycardia into fatal ventricular fibrillation."
+      },
+      {
+        "text": "Perform immediate synchronized electrical cardioversion",
+        "correct": true,
+        "explanation": "The patient has monomorphic wide-complex tachycardia (presumed ventricular tachycardia in a patient with structural heart disease) with hemodynamic instability (hypotension, chest tightness, altered mental status/near-syncope). According to ACLS guidelines, any tachyarrhythmia with pulse causing hemodynamic instability requires immediate synchronized electrical cardioversion. Synchronization delivers the electrical shock timed to the R wave of the QRS complex, preventing shock delivery during the vulnerable relative refractory period (T wave) which would precipitate ventricular fibrillation."
+      },
+      {
+        "text": "Administer intravenous amiodarone 150 mg infused over 10 minutes",
+        "correct": false,
+        "explanation": "Pharmacologic therapy with amiodarone is indicated only for hemodynamically STABLE wide-complex tachycardia; in an unstable, hypotensive patient, antiarrhythmic infusions delay life-saving electrical therapy and exacerbate hypotension."
+      },
+      {
+        "text": "Administer rapid intravenous adenosine 6 mg followed by a 20 mL saline flush",
+        "correct": false,
+        "explanation": "Adenosine is used for regular, narrow-complex supraventricular tachycardia (or stable undifferentiated monomorphic wide-complex tachycardia). In an unstable, hypotensive patient, chemical conversion delays definitive therapy."
+      },
+      {
+        "text": "Perform bilateral carotid sinus massage to increase vagal parasympathetic tone",
+        "correct": false,
+        "explanation": "Vagal maneuvers are used for stable paroxysmal supraventricular tachycardia. They are ineffective for ventricular tachycardia and contraindicated in unstable patients with shock."
+      }
+    ],
+    "explanation": "The patient has monomorphic wide-complex tachycardia (presumed ventricular tachycardia in a patient with structural heart disease) with hemodynamic instability (hypotension, chest tightness, altered mental status/near-syncope). According to ACLS guidelines, any tachyarrhythmia with pulse causing hemodynamic instability requires immediate synchronized electrical cardioversion. Synchronization delivers the electrical shock timed to the R wave of the QRS complex, preventing shock delivery during the vulnerable relative refractory period (T wave) which would precipitate ventricular fibrillation. Monomorphic wide-complex tachycardia + hypotension (BP 78/48) + chest pain -> unstable VT with pulse -> immediate synchronized electrical cardioversion.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Unstable Tachyarrhythmia.",
+    "keyPoints": [
+      "Unstable Tachyarrhythmia",
+      "Monomorphic wide-complex tachycardia + hypotension (BP 78/48) + chest pain -> unstable VT with pulse -> immediate synchronized electrical cardioversion."
+    ],
+    "references": [
+      {
+        "label": "Panchal AR, et al. 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care: Adult Basic and Advanced Life Support. Circulation. 2020;142(16_suppl_2):S366-S468. PMID: 33081529.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33081529/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0313",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Septic Shock Vasopressor Selection",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 72-year-old woman is admitted to the intensive care unit with severe urosepsis caused by multidrug-resistant Escherichia coli. Despite the administration of 30 mL/kg of intravenous balanced crystalloids over 2 hours and broad-spectrum antibiotics, she remains hypotensive. Current vital signs are: blood pressure 82/46 mm Hg (mean arterial pressure 58 mm Hg), heart rate 116/min and regular, respiratory rate 22/min, and temperature 38.6°C (101.5°F). Her extremities are warm with bounding peripheral pulses and brisk capillary refill. Serum lactate is 4.2 mmol/L. The central venous pressure is 10 mm Hg. Which of the following is the most appropriate next step in the hemodynamic management of this patient?",
+    "options": [
+      {
+        "text": "Initiate intravenous dopamine infusion titrated to renal dose to improve glomerular filtration",
+        "correct": false,
+        "explanation": "Dopamine was historically used in shock, but large randomized trials (SOAP II) demonstrated that dopamine causes significantly more arrhythmias (atrial fibrillation, ventricular tachycardia) and higher mortality compared to norepinephrine. 'Renal-dose' dopamine has been thoroughly debunked and is ineffective."
+      },
+      {
+        "text": "Administer an additional 3 liters of normal saline boluses to achieve a central venous pressure > 15 mm Hg",
+        "correct": false,
+        "explanation": "Excessive fluid administration after initial 30 mL/kg loading causes fluid overload, pulmonary edema, prolonged mechanical ventilation, and increased mortality without improving perfusion."
+      },
+      {
+        "text": "Initiate intravenous norepinephrine infusion titrated to a mean arterial pressure >= 65 mm Hg",
+        "correct": true,
+        "explanation": "The patient has septic shock refractory to initial fluid resuscitation (persistent hypotension with MAP < 65 mm Hg and hyperlactatemia despite 30 mL/kg fluid loading). According to the Surviving Sepsis Campaign guidelines, norepinephrine is the undisputed first-line vasopressor of choice. Norepinephrine possesses potent alpha-1 adrenergic agonism (causing systemic vasoconstriction to elevate vascular tone and MAP) with modest beta-1 adrenergic activity (supporting heart rate and stroke volume). Compared to dopamine, norepinephrine demonstrates superior efficacy in reversing shock, significantly lower rates of tachyarrhythmias, and reduced all-cause mortality."
+      },
+      {
+        "text": "Initiate intravenous epinephrine monotherapy as the primary inotrope and vasopressor",
+        "correct": false,
+        "explanation": "Epinephrine is a secondary, second-line vasopressor reserved for shock refractory to norepinephrine; as a first-line agent, it causes excessive tachycardia, peripheral vasoconstriction, and transient hyperlactatemia via aerobic beta-2 stimulation."
+      },
+      {
+        "text": "Initiate intravenous phenylephrine infusion to achieve pure vascular afterload increase",
+        "correct": false,
+        "explanation": "Phenylephrine is a pure alpha-1 agonist with no beta-1 inotropic activity. It causes reflex bradycardia and can decrease stroke volume and cardiac output; it is reserved for patients with severe tachycardia or arrhythmias where norepinephrine is contraindicated."
+      }
+    ],
+    "explanation": "The patient has septic shock refractory to initial fluid resuscitation (persistent hypotension with MAP < 65 mm Hg and hyperlactatemia despite 30 mL/kg fluid loading). According to the Surviving Sepsis Campaign guidelines, norepinephrine is the undisputed first-line vasopressor of choice. Norepinephrine possesses potent alpha-1 adrenergic agonism (causing systemic vasoconstriction to elevate vascular tone and MAP) with modest beta-1 adrenergic activity (supporting heart rate and stroke volume). Compared to dopamine, norepinephrine demonstrates superior efficacy in reversing shock, significantly lower rates of tachyarrhythmias, and reduced all-cause mortality. Septic shock with persistent hypotension after 30 mL/kg crystalloids -> first-line vasopressor is norepinephrine (target MAP >= 65 mm Hg).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Septic Shock Vasopressor Selection.",
+    "keyPoints": [
+      "Septic Shock Vasopressor Selection",
+      "Septic shock with persistent hypotension after 30 mL/kg crystalloids -> first-line vasopressor is norepinephrine (target MAP >= 65 mm Hg)."
+    ],
+    "references": [
+      {
+        "label": "Evans L, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2021. Crit Care Med. 2021;49(11):e1063-e1143. PMID: 34605781.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34605781/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0314",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Hypertensive Emergency with Acute Pulmonary Edema",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old man presents to the emergency department with acute severe shortness of breath that awoke him from sleep 1 hour ago. He has a history of long-standing hypertension but stopped taking his medications 3 weeks ago due to financial difficulties. On arrival, he is in marked respiratory distress, sitting bolt upright, and coughing up pink, frothy sputum. Vital signs are: blood pressure 224/128 mm Hg, heart rate 118/min, respiratory rate 32/min, and oxygen saturation 84% on ambient air. Physical examination reveals diffuse bilateral crackles extending to the apices, an S3 gallop, and distended neck veins. Arterial blood gas demonstrates acute hypoxemic respiratory failure. Portable chest radiograph confirms severe pulmonary edema with cephalization of pulmonary vasculature and bat-wing alveolar opacities. Which of the following is the most appropriate immediate medical management?",
+    "options": [
+      {
+        "text": "Administer intravenous labetalol 20 mg bolus every 10 minutes to rapidly lower blood pressure",
+        "correct": false,
+        "explanation": "Beta-blockers (such as labetalol or metoprolol) are strictly contraindicated in acute decompensated heart failure with pulmonary edema; suppressing myocardial contractility worsens forward cardiac output and precipitates cardiogenic shock."
+      },
+      {
+        "text": "Administer intravenous hydralazine 20 mg bolus to achieve rapid arteriolar vasodilatation",
+        "correct": false,
+        "explanation": "Hydralazine has an unpredictable onset and duration of action and induces significant reflex tachycardia, increasing myocardial oxygen demand; it is not recommended for acute pulmonary edema."
+      },
+      {
+        "text": "Initiate intravenous nitroprusside infusion combined with oral carvedilol therapy",
+        "correct": false,
+        "explanation": "While nitroprusside is a potent vasodilator, adding oral carvedilol (a beta-blocker) acutely suppresses left ventricular function and exacerbates acute pulmonary edema."
+      },
+      {
+        "text": "Initiate noninvasive positive-pressure ventilation, sublingual or intravenous nitroglycerin, and intravenous furosemide",
+        "correct": true,
+        "explanation": "The patient is experiencing a hypertensive emergency manifested by acute cardiogenic pulmonary edema (flash pulmonary edema). The immediate treatment goal is rapid reduction of left ventricular afterload and preload to alleviate pulmonary capillary wedge pressure. Noninvasive positive-pressure ventilation (CPAP or BiPAP) immediately improves oxygenation, recruits fluid-filled alveoli, and reduces both preload and afterload. Intravenous nitroglycerin provides potent venodilation (reducing preload) and at higher doses arteriolar dilation (reducing afterload), while intravenous loop diuretics (furosemide) provide early venodilation and subsequent diuresis. This triad rapidly relieves pulmonary congestion and stabilizes hemodynamics."
+      },
+      {
+        "text": "Perform emergency transesophageal echocardiography prior to initiating pharmacotherapy",
+        "correct": false,
+        "explanation": "Diagnostic echocardiography is helpful once stabilized, but delaying afterload reduction and respiratory support in a drowning, hypoxemic patient with acute pulmonary edema is life-threatening."
+      }
+    ],
+    "explanation": "The patient is experiencing a hypertensive emergency manifested by acute cardiogenic pulmonary edema (flash pulmonary edema). The immediate treatment goal is rapid reduction of left ventricular afterload and preload to alleviate pulmonary capillary wedge pressure. Noninvasive positive-pressure ventilation (CPAP or BiPAP) immediately improves oxygenation, recruits fluid-filled alveoli, and reduces both preload and afterload. Intravenous nitroglycerin provides potent venodilation (reducing preload) and at higher doses arteriolar dilation (reducing afterload), while intravenous loop diuretics (furosemide) provide early venodilation and subsequent diuresis. This triad rapidly relieves pulmonary congestion and stabilizes hemodynamics. Hypertensive emergency (BP 224/128) + flash pulmonary edema -> NIPPV + IV nitroglycerin + IV furosemide (avoid beta-blockers).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hypertensive Emergency with Acute Pulmonary Edema.",
+    "keyPoints": [
+      "Hypertensive Emergency with Acute Pulmonary Edema",
+      "Hypertensive emergency (BP 224/128) + flash pulmonary edema -> NIPPV + IV nitroglycerin + IV furosemide (avoid beta-blockers)."
+    ],
+    "references": [
+      {
+        "label": "Whelton PK, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. J Am Coll Cardiol. 2018;71(19):e127-e248. PMID: 29146535.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29146535/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0315",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Massive Pulmonary Embolism",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old woman who underwent an elective total knee arthroplasty 8 days ago presents to the emergency department with acute-onset severe dyspnea, pleuritic chest pain, and lightheadedness. While being escorted to the triage room, she experiences a witnessed syncopal episode. On arrival in the resuscitation bay, she is pale, diaphoretic, and confused. Vital signs are: blood pressure 76/44 mm Hg, heart rate 132/min, respiratory rate 30/min, and oxygen saturation 86% on a high-flow nonrebreather mask. Physical examination reveals cold, clammy extremities, prominent jugular venous distention, and an accentuated pulmonic component of the second heart sound (P2). Bedside echocardiography demonstrates acute right ventricular dilation with hypokinesia of the right ventricular free wall and sparing of the apex (McConnell sign), with paradoxical septal flattening into the left ventricle during diastole. She has no history of stroke, head trauma, or active bleeding. Which of the following is the most appropriate next step in the management of this patient?",
+    "options": [
+      {
+        "text": "Initiate therapeutic subcutaneous low-molecular-weight heparin and admit to telemetry",
+        "correct": false,
+        "explanation": "LMWH or unfractionated heparin alone is standard therapy for hemodynamically STABLE (low-risk or intermediate-risk) PE, but does not provide immediate clot dissolution and has unacceptably high mortality when used as monotherapy in unstable massive PE."
+      },
+      {
+        "text": "Perform urgent computed tomography pulmonary angiography to definitively quantify clot burden",
+        "correct": false,
+        "explanation": "Transporting a severely hypotensive, unstable patient in shock to the radiology scanner is dangerous and contraindicated when bedside echocardiography and clinical presentation confirm massive PE."
+      },
+      {
+        "text": "Administer a rapid 2-liter intravenous bolus of normal saline to correct hypotension",
+        "correct": false,
+        "explanation": "Aggressive fluid boluses in acute right ventricular failure overstretch the RV free wall, worsen ischemia, and exacerbate leftward septal shift, further compromising left ventricular filling and worsening shock."
+      },
+      {
+        "text": "Administer intravenous inferior vena cava filter placement as primary revascularization",
+        "correct": false,
+        "explanation": "IVC filters prevent future lower extremity emboli from reaching the lungs, but do not dissolve the existing obstructing central thrombus causing cardiogenic shock."
+      },
+      {
+        "text": "Administer systemic intravenous thrombolysis with recombinant tissue plasminogen activator (alteplase)",
+        "correct": true,
+        "explanation": "The patient has a massive (high-risk) pulmonary embolism defined by acute PE complicated by sustained hypotension (systolic BP < 90 mm Hg for > 15 minutes), cardiogenic shock, and echocardiographic signs of acute right ventricular strain. In hemodynamically unstable massive PE without absolute contraindications to anticoagulation/thrombolysis, immediate systemic intravenous thrombolytic therapy (e.g., alteplase 100 mg over 2 hours) is indicated to rapidly dissolve the obstructing thromboembolus, reduce right ventricular afterload, restore pulmonary perfusion, and prevent fatal circulatory arrest."
+      }
+    ],
+    "explanation": "The patient has a massive (high-risk) pulmonary embolism defined by acute PE complicated by sustained hypotension (systolic BP < 90 mm Hg for > 15 minutes), cardiogenic shock, and echocardiographic signs of acute right ventricular strain. In hemodynamically unstable massive PE without absolute contraindications to anticoagulation/thrombolysis, immediate systemic intravenous thrombolytic therapy (e.g., alteplase 100 mg over 2 hours) is indicated to rapidly dissolve the obstructing thromboembolus, reduce right ventricular afterload, restore pulmonary perfusion, and prevent fatal circulatory arrest. Post-op dyspnea + syncope + persistent hypotension (BP 76/44) + RV strain/McConnell sign -> massive PE -> immediate systemic thrombolysis (alteplase).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Massive Pulmonary Embolism.",
+    "keyPoints": [
+      "Massive Pulmonary Embolism",
+      "Post-op dyspnea + syncope + persistent hypotension (BP 76/44) + RV strain/McConnell sign -> massive PE -> immediate systemic thrombolysis (alteplase)."
+    ],
+    "references": [
+      {
+        "label": "Konstantinides SV, et al. 2019 ESC Guidelines for the Diagnosis and Management of Acute Pulmonary Embolism. Eur Heart J. 2020;41(4):543-603. PMID: 31504429.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31504429/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0316",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Traumatic Brain Injury & Intracranial Pressure",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old male motorcyclist is brought to the emergency department following a high-speed collision. He was not wearing a helmet. On initial assessment, he does not open his eyes to voice or pain, produces incomprehensible sounds, and demonstrates decerebrate (extensor) posturing in response to noxious stimulation (Glasgow Coma Scale score: 4). He is immediately intubated for airway protection. Vital signs are: blood pressure 184/92 mm Hg, heart rate 50/min, and respiratory rate 12/min on mechanical ventilation. His right pupil is 6 mm and non-reactive to light, while the left pupil is 3 mm and briskly reactive. A non-contrast head CT reveals a large right-sided acute epidural hematoma with a 12-mm midline shift and compression of the ipsilateral lateral ventricle. While the neurosurgeon is in transit to the operating room for emergency craniotomy, which of the following is the most appropriate immediate medical intervention to reduce intracranial pressure?",
+    "options": [
+      {
+        "text": "Intravenous administration of hypertonic (3%) saline or mannitol",
+        "correct": true,
+        "explanation": "The patient exhibits severe traumatic brain injury with uncal transtentorial herniation (ipsilateral fixed dilated pupil from CN III compression, contralateral extensor posturing) and the Cushing triad (hypertension, bradycardia, irregular respirations) reflecting critically elevated intracranial pressure (ICP). While preparing for emergent operative craniotomy, immediate osmotic therapy with intravenous hypertonic saline (3% or 23.4%) or mannitol is the standard of care to draw water from the brain parenchyma into the intravascular space, rapidly lowering ICP and improving cerebral perfusion pressure."
+      },
+      {
+        "text": "Intravenous administration of high-dose dexamethasone 20 mg bolus",
+        "correct": false,
+        "explanation": "Corticosteroids are strictly contraindicated in traumatic brain injury. The landmark CRASH randomized controlled trial demonstrated that high-dose corticosteroids in acute TBI increase mortality and worsen neurological outcomes."
+      },
+      {
+        "text": "Initiate aggressive prolonged hyperventilation targeting a PaCO2 of 20 to 25 mm Hg",
+        "correct": false,
+        "explanation": "Severe hyperventilation induces intense cerebral vasoconstriction, causing profound cerebral ischemia and secondary brain infarction. If used at all, mild brief hyperventilation (PaCO2 30–35 mm Hg) is reserved strictly for acute herniation crisis for minutes, not prolonged severe hypocapnia."
+      },
+      {
+        "text": "Administer intravenous labetalol to aggressively normalize blood pressure to 120/80 mm Hg",
+        "correct": false,
+        "explanation": "Hypertension in Cushing triad is a vital physiological compensatory reflex to maintain cerebral perfusion pressure (CPP = MAP - ICP). Lowering blood pressure in acute severe ICP elevation precipitates fatal cerebral hypoperfusion."
+      },
+      {
+        "text": "Place the patient in the Trendelenburg position to enhance cerebral venous filling pressure",
+        "correct": false,
+        "explanation": "Trendelenburg position elevates cerebral venous pressure and increases ICP; patients with elevated ICP must be positioned with the head of the bed elevated 30 degrees to optimize jugular venous drainage."
+      }
+    ],
+    "explanation": "The patient exhibits severe traumatic brain injury with uncal transtentorial herniation (ipsilateral fixed dilated pupil from CN III compression, contralateral extensor posturing) and the Cushing triad (hypertension, bradycardia, irregular respirations) reflecting critically elevated intracranial pressure (ICP). While preparing for emergent operative craniotomy, immediate osmotic therapy with intravenous hypertonic saline (3% or 23.4%) or mannitol is the standard of care to draw water from the brain parenchyma into the intravascular space, rapidly lowering ICP and improving cerebral perfusion pressure. Severe TBI + uncal herniation (blown pupil, extensor posturing) + Cushing triad -> osmotic therapy (hypertonic saline or mannitol) prior to emergent craniotomy.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Traumatic Brain Injury & Intracranial Pressure.",
+    "keyPoints": [
+      "Traumatic Brain Injury & Intracranial Pressure",
+      "Severe TBI + uncal herniation (blown pupil, extensor posturing) + Cushing triad -> osmotic therapy (hypertonic saline or mannitol) prior to emergent craniotomy."
+    ],
+    "references": [
+      {
+        "label": "Carney N, et al. Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition. Neurosurgery. 2017;80(1):6-15. PMID: 27654000.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27654000/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0317",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Cyanide Poisoning in Smoke Inhalation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old firefighter is brought to the emergency department after becoming trapped in a burning industrial warehouse containing synthetic plastics and furniture. On extraction, he was found in respiratory arrest and received bag-valve-mask ventilation. In the emergency department, he is stuporous. Vital signs are: blood pressure 82/46 mm Hg, heart rate 130/min, and respiratory rate 28/min on a mechanical ventilator with 100% FiO2. Physical examination reveals extensive soot around the nares and mouth, but no external cutaneous burns. Arterial blood gas demonstrates severe metabolic acidosis: pH 7.12, PaCO2 28 mm Hg, PaO2 120 mm Hg, and serum bicarbonate 9 mEq/L. Serum lactate is 14.5 mmol/L. Co-oximetry reveals a carboxyhemoglobin level of 18%. Which of the following is the most appropriate immediate pharmacologic antidote for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium nitrite followed by sodium thiosulfate infusion",
+        "correct": false,
+        "explanation": "Sodium nitrite induces methemoglobinemia (Fe2+ to Fe3+), which binds cyanide to form cyanmethemoglobin. However, in smoke inhalation with concurrent carbon monoxide poisoning, creating methemoglobinemia further drastically compromises blood oxygen-carrying capacity, precipitating lethal tissue hypoxia; nitrites are contraindicated in smoke inhalation."
+      },
+      {
+        "text": "Intravenous hydroxocobalamin infusion",
+        "correct": true,
+        "explanation": "The patient has acute cyanide toxicity secondary to smoke inhalation from synthetic materials (plastics, polyurethane, wool). Cyanide inhibits cytochrome c oxidase (complex IV) of the mitochondrial electron transport chain, arresting aerobic ATP production and causing severe lactic acidosis (lactate > 8–10 mmol/L in smoke inhalation is highly sensitive and specific for cyanide poisoning). Hydroxocobalamin is the preferred first-line antidote; it directly chelates cyanide to form non-toxic cyanocobalamin (vitamin B12), which is safely excreted in the urine. Unlike sodium nitrite, hydroxocobalamin does not induce methemoglobinemia, making it completely safe in victims with concurrent carbon monoxide poisoning (COHb 18%) who cannot tolerate reduced oxygen-carrying capacity."
+      },
+      {
+        "text": "Intravenous deferoxamine infusion to chelate toxic heavy metal combustion products",
+        "correct": false,
+        "explanation": "Deferoxamine chelates iron in acute iron poisoning; it has no affinity for cyanide and does not reverse mitochondrial cytochrome c oxidase inhibition."
+      },
+      {
+        "text": "Intravenous calcium disodium EDTA infusion for acute inorganic chemical chelation",
+        "correct": false,
+        "explanation": "Calcium disodium EDTA chelates lead and other heavy metals, having no therapeutic efficacy in cyanide toxicity."
+      },
+      {
+        "text": "Intravenous pralidoxime bolus to reactivate phosphorylated acetylcholinesterase enzymes",
+        "correct": false,
+        "explanation": "Pralidoxime (2-PAM) reactivates acetylcholinesterase in organophosphate nerve agent or pesticide poisoning, not cyanide poisoning."
+      }
+    ],
+    "explanation": "The patient has acute cyanide toxicity secondary to smoke inhalation from synthetic materials (plastics, polyurethane, wool). Cyanide inhibits cytochrome c oxidase (complex IV) of the mitochondrial electron transport chain, arresting aerobic ATP production and causing severe lactic acidosis (lactate > 8–10 mmol/L in smoke inhalation is highly sensitive and specific for cyanide poisoning). Hydroxocobalamin is the preferred first-line antidote; it directly chelates cyanide to form non-toxic cyanocobalamin (vitamin B12), which is safely excreted in the urine. Unlike sodium nitrite, hydroxocobalamin does not induce methemoglobinemia, making it completely safe in victims with concurrent carbon monoxide poisoning (COHb 18%) who cannot tolerate reduced oxygen-carrying capacity. Smoke inhalation (plastics) + profound lactic acidosis (lactate 14.5) + concurrent COHb -> cyanide poisoning -> IV hydroxocobalamin (avoids methemoglobinemia of nitrites).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cyanide Poisoning in Smoke Inhalation.",
+    "keyPoints": [
+      "Cyanide Poisoning in Smoke Inhalation",
+      "Smoke inhalation (plastics) + profound lactic acidosis (lactate 14.5) + concurrent COHb -> cyanide poisoning -> IV hydroxocobalamin (avoids methemoglobinemia of nitrites)."
+    ],
+    "references": [
+      {
+        "label": "Hall AH, et al. Hydroxocobalamin for the Treatment of Cyanide Poisoning: A Systematic Review. Clin Toxicol (Phila). 2010;48(1):1-14. PMID: 20041749.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20041749/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0318",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Exertional Heat Stroke",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old military recruit collapses during basic training after completing a 10-mile march carrying a heavy pack on a humid summer day (ambient temperature 36°C [96.8°F], relative humidity 75%). On arrival at the medical tent, he is unresponsive to verbal stimuli, agitated, and combative to physical touch. Physical examination reveals flushed, hot, profusely diaphoretic skin and profound confusion. Vital signs are: core rectal temperature 41.2°C (106.2°F), blood pressure 92/54 mm Hg, heart rate 144/min, and respiratory rate 26/min. Point-of-care fingerstick blood glucose is 92 mg/dL. The attending physician prepares to initiate emergent whole-body cooling. Which of the following is the most appropriate next step in the management of this patient?",
+    "options": [
+      {
+        "text": "Administer intravenous acetaminophen 1,000 mg to reset the hypothalamic thermal setpoint",
+        "correct": false,
+        "explanation": "Antipyretics (acetaminophen, NSAIDs) act on prostaglandin synthesis to lower an elevated hypothalamic set-point in pyrogen-mediated fever; they are completely ineffective in heat stroke (where the hypothalamic setpoint is normal and thermoregulation has failed) and can worsen hepatic and renal injury."
+      },
+      {
+        "text": "Administer intravenous dantrolene sodium to inhibit sarcoplasmic calcium release",
+        "correct": false,
+        "explanation": "Dantrolene is the specific therapy for malignant hyperthermia (ryanodine receptor defect induced by volatile anesthetics or succinylcholine); randomized trials have demonstrated no benefit in environmental or exertional heat stroke."
+      },
+      {
+        "text": "Perform immediate whole-body cold- or ice-water immersion",
+        "correct": true,
+        "explanation": "The patient has exertional heat stroke, characterized by core hyperthermia (> 40°C [104°F]) accompanied by central nervous system dysfunction (encephalopathy, confusion, coma) occurring during strenuous physical activity in hot/humid conditions. (Note: sweat is frequently present in exertional heat stroke, contrary to classic non-exertional heat stroke). Exertional heat stroke carries high mortality from systemic inflammatory response, rhabdomyolysis, and multi-organ failure. The gold standard and single most effective intervention is rapid whole-body ice-water immersion (conductive cooling), which provides the fastest cooling rates (~0.15–0.35°C/min) and dramatically reduces morbidity and mortality when initiated within 30 minutes."
+      },
+      {
+        "text": "Apply evaporative mist cooling with fans while awaiting transfer to a tertiary hospital",
+        "correct": false,
+        "explanation": "Evaporative cooling with mist and fans is the primary method for non-exertional (classic) heat stroke in elderly patients, but ice-water immersion has vastly superior cooling velocity and is mandatory for exertional heat stroke in young athletes/recruits."
+      },
+      {
+        "text": "Administer high-dose intravenous dexamethasone to reduce systemic cerebral edema",
+        "correct": false,
+        "explanation": "Corticosteroids have no proven efficacy in lowering core temperature or treating thermal injury in heat stroke and increase the risk of secondary infections and gastrointestinal ulceration."
+      }
+    ],
+    "explanation": "The patient has exertional heat stroke, characterized by core hyperthermia (> 40°C [104°F]) accompanied by central nervous system dysfunction (encephalopathy, confusion, coma) occurring during strenuous physical activity in hot/humid conditions. (Note: sweat is frequently present in exertional heat stroke, contrary to classic non-exertional heat stroke). Exertional heat stroke carries high mortality from systemic inflammatory response, rhabdomyolysis, and multi-organ failure. The gold standard and single most effective intervention is rapid whole-body ice-water immersion (conductive cooling), which provides the fastest cooling rates (~0.15–0.35°C/min) and dramatically reduces morbidity and mortality when initiated within 30 minutes. Recruit marching in heat + core temp 41.2°C + delirium -> exertional heat stroke -> immediate whole-body ice-water immersion (antipyretics are ineffective).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Exertional Heat Stroke.",
+    "keyPoints": [
+      "Exertional Heat Stroke",
+      "Recruit marching in heat + core temp 41.2°C + delirium -> exertional heat stroke -> immediate whole-body ice-water immersion (antipyretics are ineffective)."
+    ],
+    "references": [
+      {
+        "label": "Lipman GS, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2019 Update. Wilderness Environ Med. 2019;30(4S):S33-S46. PMID: 31668897.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31668897/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0319",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Severe Accidental Hypothermia",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old man who is experiencing homelessness is found unresponsive in an abandoned alley during a winter blizzard. On arrival in the emergency department, he is comatose with a Glasgow Coma Scale score of 3. Vital signs measured with a low-reading esophageal thermistor probe are: core body temperature 26.2°C (79.2°F), blood pressure 68/38 mm Hg, heart rate 28/min and irregular, and respiratory rate 4/min. Physical examination reveals cold, rigid extremities and fixed, dilated pupils. The cardiac monitor displays severe sinus bradycardia with prominent J waves (Osborn waves) at the junction of the QRS complex and ST segment. While moving the patient from the stretcher, a technician accidentally bumps the bed forcefully. Which of the following is the most appropriate management approach for this patient?",
+    "options": [
+      {
+        "text": "Immediate transcutaneous cardiac pacing to correct life-threatening sinus bradycardia",
+        "correct": false,
+        "explanation": "Cardiac pacing in severe hypothermia is ineffective on cold myocardium and carries a very high risk of precipitating intractable ventricular fibrillation."
+      },
+      {
+        "text": "Intravenous administration of atropine 1 mg bolus to reverse parasympathetic hypertonia",
+        "correct": false,
+        "explanation": "Hypothermic bradycardia is a physiological adaptation to reduced tissue oxygen consumption, not excessive vagal tone; atropine is ineffective and predisposes to arrhythmias as the patient warms."
+      },
+      {
+        "text": "Rapid aggressive external rewarming with hot water bottles applied to the extremities",
+        "correct": false,
+        "explanation": "Aggressive active external rewarming of extremities induces peripheral vasodilation, causing 'rewarming shock' (pooling of cold, acidotic blood in extremities that returns to the core, causing afterdrop and circulatory arrest)."
+      },
+      {
+        "text": "Gentle handling and initiation of active internal core rewarming with warmed intravenous fluids and humidified oxygen",
+        "correct": true,
+        "explanation": "The patient has severe accidental hypothermia (core temperature < 28°C [82.4°F]) with Osborn (J) waves and profound cardiorespiratory depression. Hypothermic myocardium is extremely irritable and prone to fatal ventricular fibrillation (VF) triggered by minimal mechanical disturbance; therefore, meticulous and gentle handling is mandatory. Active internal core rewarming—using warmed IV crystalloids (40–42°C), heated humidified oxygen, and in severe cases thoracic/peritoneal cavity lavage or extracorporeal membrane oxygenation (ECMO)—is required to restore cardiac stability. Bradycardia and hypotension are physiologic responses to decreased metabolic rate; vasopressors and transcutaneous pacing are ineffective and can trigger refractory VF."
+      },
+      {
+        "text": "Pronouncement of death due to fixed dilated pupils, profound coma, and hypothermia",
+        "correct": false,
+        "explanation": "Patients with profound hypothermia can appear clinically dead (fixed pupils, absent pulses, rigid muscles) yet achieve complete neurological recovery after rewarming ('no one is dead until warm and dead')."
+      }
+    ],
+    "explanation": "The patient has severe accidental hypothermia (core temperature < 28°C [82.4°F]) with Osborn (J) waves and profound cardiorespiratory depression. Hypothermic myocardium is extremely irritable and prone to fatal ventricular fibrillation (VF) triggered by minimal mechanical disturbance; therefore, meticulous and gentle handling is mandatory. Active internal core rewarming—using warmed IV crystalloids (40–42°C), heated humidified oxygen, and in severe cases thoracic/peritoneal cavity lavage or extracorporeal membrane oxygenation (ECMO)—is required to restore cardiac stability. Bradycardia and hypotension are physiologic responses to decreased metabolic rate; vasopressors and transcutaneous pacing are ineffective and can trigger refractory VF. Core temp 26.2°C + Osborn (J) waves + bradycardia -> severe accidental hypothermia -> gentle handling (avoid VF) + active internal core rewarming.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Severe Accidental Hypothermia.",
+    "keyPoints": [
+      "Severe Accidental Hypothermia",
+      "Core temp 26.2°C + Osborn (J) waves + bradycardia -> severe accidental hypothermia -> gentle handling (avoid VF) + active internal core rewarming."
+    ],
+    "references": [
+      {
+        "label": "Brown DJ, et al. Accidental Hypothermia. N Engl J Med. 2012;367(20):1930-1938. PMID: 23150960.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23150960/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0320",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Acute Angle-Closure Glaucoma",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old Asian woman presents to the emergency department with sudden severe right eye pain, a frontal headache, nausea, and vomiting that began 2 hours ago while sitting in a dimly lit movie theater. She describes seeing rainbow-colored halos around streetlights on her drive home. Physical examination of the right eye reveals conjunctival injection with ciliary flush, a cloudy, steamy cornea, and a mid-dilated, fixed pupil that does not react to light. Visual acuity in the right eye is reduced to hand motion. Tonometry reveals an intraocular pressure of 58 mm Hg in the right eye and 16 mm Hg in the left eye. Which of the following is the most appropriate initial medical regimen while ophthalmology is consulted for definitive laser iridotomy?",
+    "options": [
+      {
+        "text": "Topical atropine and cyclopentolate eyedrops to achieve maximal cycloplegia",
+        "correct": false,
+        "explanation": "Mydriatics and cycloplegics (such as atropine, cyclopentolate, or scopolamine) dilate the pupil and bunch the iris into the iridocorneal angle, completely blocking aqueous outflow and causing permanent vision loss in angle-closure glaucoma."
+      },
+      {
+        "text": "Topical high-dose prednisolone acetate eyedrops administered every 15 minutes",
+        "correct": false,
+        "explanation": "Topical corticosteroids treat anterior uveitis (iritis), which presents with miosis and ciliary flush with normal or low IOP; in glaucoma, steroids do not relieve pupillary block and can raise IOP."
+      },
+      {
+        "text": "Oral valacyclovir 1,000 mg three times daily for acute viral anterior keratitis",
+        "correct": false,
+        "explanation": "Herpetic keratoconjunctivitis presents with dendritic corneal ulcers and foreign body sensation without acute mid-dilated pupil, steamy cornea, or massive IOP elevation to 58 mm Hg."
+      },
+      {
+        "text": "Emergency bedside lateral canthotomy and inferior cantholysis of the right orbit",
+        "correct": false,
+        "explanation": "Lateral canthotomy is the emergency treatment for orbital compartment syndrome (e.g., retrobulbar hematoma following facial trauma causing proptosis and elevated IOP), not acute pupillary block glaucoma."
+      },
+      {
+        "text": "Topical timolol, apraclonidine, and pilocarpine eyedrops combined with systemic acetazolamide",
+        "correct": true,
+        "explanation": "The patient has acute angle-closure glaucoma (AACG) triggered by pupillary dilation in dim light, causing pupillary block and acute obstruction of trabecular outflow in an anatomically narrow anterior chamber. Intraocular pressure (IOP) is severely elevated (> 50 mm Hg). Immediate medical therapy requires a multi-agent regimen to lower IOP: (1) topical beta-blockers (timolol) to decrease aqueous humor production, (2) topical alpha-2 agonists (apraclonidine) to reduce production and enhance uveoscleral outflow, (3) systemic carbonic anhydrase inhibitors (oral/IV acetazolamide) to suppress aqueous synthesis, and (4) topical muscarinic agonists (pilocarpine 1–2%) to induce miosis and pull the iris away from the trabecular meshwork (typically effective once IOP is < 40–50 mm Hg). Definitive cure is bilateral laser peripheral iridotomy."
+      }
+    ],
+    "explanation": "The patient has acute angle-closure glaucoma (AACG) triggered by pupillary dilation in dim light, causing pupillary block and acute obstruction of trabecular outflow in an anatomically narrow anterior chamber. Intraocular pressure (IOP) is severely elevated (> 50 mm Hg). Immediate medical therapy requires a multi-agent regimen to lower IOP: (1) topical beta-blockers (timolol) to decrease aqueous humor production, (2) topical alpha-2 agonists (apraclonidine) to reduce production and enhance uveoscleral outflow, (3) systemic carbonic anhydrase inhibitors (oral/IV acetazolamide) to suppress aqueous synthesis, and (4) topical muscarinic agonists (pilocarpine 1–2%) to induce miosis and pull the iris away from the trabecular meshwork (typically effective once IOP is < 40–50 mm Hg). Definitive cure is bilateral laser peripheral iridotomy. Movie theater darkness + severe eye pain + rainbow halos + steamy cornea + fixed mid-dilated pupil (IOP 58 mm Hg) -> acute angle-closure glaucoma -> timolol, apraclonidine, pilocarpine, and acetazolamide.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Angle-Closure Glaucoma.",
+    "keyPoints": [
+      "Acute Angle-Closure Glaucoma",
+      "Movie theater darkness + severe eye pain + rainbow halos + steamy cornea + fixed mid-dilated pupil (IOP 58 mm Hg) -> acute angle-closure glaucoma -> timolol, apraclonidine, pilocar"
+    ],
+    "references": [
+      {
+        "label": "Weinreb RN, et al. Primary Open-Angle Glaucoma. Nat Rev Dis Primers. 2016;2:16067. PMID: 27654490.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27654490/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0321",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Caustic Alkali Ingestion",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 3-year-old boy is brought to the emergency department by his parents 45 minutes after accidentally drinking an unknown quantity of a liquid drain cleaner containing concentrated sodium hydroxide (lye). The child is crying, drooling copiously, and refusing to swallow. Physical examination reveals erythematous, ulcerated oral mucosa and edema of the lips and tongue. Vital signs are: blood pressure 98/62 mm Hg, heart rate 136/min, respiratory rate 24/min, and oxygen saturation 98% on room air. The lungs are clear without stridor. The parents state that on the way to the hospital, a neighbor advised them to make the child drink vinegar to neutralize the alkaline cleaner. Which of the following is the most appropriate management approach for this patient?",
+    "options": [
+      {
+        "text": "Maintain airway, keep NPO with IV hydration, and perform esophagogastroduodenoscopy within 12 to 24 hours",
+        "correct": true,
+        "explanation": "The child ingested a caustic alkali (sodium hydroxide/drain cleaner), which causes liquefactive necrosis of the esophagus and stomach, penetrating deeply into tissues. Management requires securing the airway, keeping nil per os (NPO), fluid resuscitation, and performing flexible esophagogastroduodenoscopy (EGD) within the first 12 to 24 hours to assess the depth and extent of mucosal injury (Zargar classification). Neutralizing agents (such as vinegar or citrus juice) are strictly contraindicated because the acid-base exothermic chemical reaction generates significant heat, producing severe secondary thermal burns. Emesis and gastric lavage are contraindicated because they re-expose the esophagus to the caustic substance and increase perforation risk."
+      },
+      {
+        "text": "Administer oral dilute acetic acid (vinegar) to chemically neutralize the alkaline base",
+        "correct": false,
+        "explanation": "Chemical neutralization with weak acid triggers a vigorous exothermic reaction, releasing substantial thermal energy that produces severe secondary coagulative and burn necrosis throughout the esophagus."
+      },
+      {
+        "text": "Administer syrup of ipecac to induce immediate emesis of the ingested drain cleaner",
+        "correct": false,
+        "explanation": "Inducing emesis re-exposes the esophageal and pharyngeal mucosa to the caustic chemical and increases the risk of aspiration into the respiratory tract and esophageal rupture."
+      },
+      {
+        "text": "Insert a nasogastric tube to perform activated charcoal administration and gastric lavage",
+        "correct": false,
+        "explanation": "Blind nasogastric tube insertion or gastric lavage carries a high risk of mechanically perforating the friable, necrotic esophageal wall, and charcoal does not bind caustic alkalis and obscures endoscopic visualization."
+      },
+      {
+        "text": "Delay endoscopy until 7 days post-ingestion to allow initial mucosal healing to occur",
+        "correct": false,
+        "explanation": "After 24–48 hours, the esophageal wall undergoes intense tissue sloughing and collagen degradation with maximum wall thinning, creating a high-risk 'vulnerable window' (days 3–14) where endoscopy frequently causes iatrogenic perforation."
+      }
+    ],
+    "explanation": "The child ingested a caustic alkali (sodium hydroxide/drain cleaner), which causes liquefactive necrosis of the esophagus and stomach, penetrating deeply into tissues. Management requires securing the airway, keeping nil per os (NPO), fluid resuscitation, and performing flexible esophagogastroduodenoscopy (EGD) within the first 12 to 24 hours to assess the depth and extent of mucosal injury (Zargar classification). Neutralizing agents (such as vinegar or citrus juice) are strictly contraindicated because the acid-base exothermic chemical reaction generates significant heat, producing severe secondary thermal burns. Emesis and gastric lavage are contraindicated because they re-expose the esophagus to the caustic substance and increase perforation risk. Drain cleaner (alkali) ingestion + drooling + oral burns -> NPO, IV fluids, and EGD within 12-24 hours (neutralization and emesis are strictly contraindicated).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Caustic Alkali Ingestion.",
+    "keyPoints": [
+      "Caustic Alkali Ingestion",
+      "Drain cleaner (alkali) ingestion + drooling + oral burns -> NPO, IV fluids, and EGD within 12-24 hours (neutralization and emesis are strictly contraindicated)."
+    ],
+    "references": [
+      {
+        "label": "Chibishev A, et al. Acute Caustic Ingestion: Management and Complications. Med Arch. 2014;68(5):345-349. PMID: 25568587.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25568587/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0322",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Malignant Spinal Cord Compression",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 66-year-old man with metastatic prostate cancer presents to the emergency department with severe, progressive mid-thoracic back pain for 2 weeks that has become constant and worsens when lying flat in bed. Over the past 12 hours, he has noticed progressive weakness and heaviness in both legs and experienced an episode of urinary incontinence. On physical examination, there is point tenderness to percussion over the T6 and T7 spinous processes. Motor strength is 3/5 in the hip flexors and knee extensors bilaterally, with 4/5 strength in ankle dorsiflexion. Deep tendon reflexes are 3+ at the patella and Achilles tendons bilaterally, with bilateral sustained ankle clonus and upgoing toes (Babinski sign). Sensation to pinprick is diminished below the level of the xiphoid process (T7 dermatome). Bedside post-void bladder ultrasound reveals 550 mL of retained urine. Which of the following is the most appropriate immediate intervention?",
+    "options": [
+      {
+        "text": "Obtain emergent non-contrast CT scan of the thoracic spine before initiating pharmacotherapy",
+        "correct": false,
+        "explanation": "CT imaging is inferior to MRI for visualizing soft tissue epidural tumor and thecal sac compression; moreover, holding corticosteroids until imaging is completed causes unnecessary irreversible spinal cord ischemia."
+      },
+      {
+        "text": "Administer high-dose intravenous dexamethasone immediately while arranging emergent whole-spine MRI",
+        "correct": true,
+        "explanation": "The patient has acute metastatic epidural spinal cord compression (MESCC), an oncologic emergency characterized by localized back pain, progressive motor weakness, upper motor neuron signs (hyperreflexia, Babinski), a sensory level, and autonomic dysfunction (urinary retention/overflow incontinence). The single most crucial determinant of final functional outcome is pretreatment neurological status: once paraplegia develops, recovery is rare. High-dose intravenous glucocorticoids (dexamethasone 10 to 16 mg IV bolus) must be administered immediately upon clinical suspicion before imaging or surgery. Dexamethasone reduces vasogenic tumor edema, preserves microvascular spinal perfusion, and alleviates pain. Emergent whole-spine MRI followed by radiation therapy or surgical decompression is then performed."
+      },
+      {
+        "text": "Administer intravenous zoledronic acid to stabilize osteolytic spinal bone metastases",
+        "correct": false,
+        "explanation": "Bisphosphonates prevent future skeletal-related events in bone metastases, but have zero effect on acute thecal sac compression and do not relieve spinal cord edema."
+      },
+      {
+        "text": "Perform emergency lumbar puncture to analyze CSF cytology for leptomeningeal disease",
+        "correct": false,
+        "explanation": "Lumbar puncture in the presence of complete epidural cord block is contraindicated because it lowers pressure below the block, potentially precipitating spinal cord herniation and immediate paraplegia."
+      },
+      {
+        "text": "Initiate oral bicalutamide and leuprolide therapy to achieve acute androgen deprivation",
+        "correct": false,
+        "explanation": "GnRH agonists cause a transient initial surge in luteinizing hormone and testosterone ('tumor flare'), which can exacerbate cord compression and accelerate permanent paralysis unless preceded by prolonged antiandrogen blockade."
+      }
+    ],
+    "explanation": "The patient has acute metastatic epidural spinal cord compression (MESCC), an oncologic emergency characterized by localized back pain, progressive motor weakness, upper motor neuron signs (hyperreflexia, Babinski), a sensory level, and autonomic dysfunction (urinary retention/overflow incontinence). The single most crucial determinant of final functional outcome is pretreatment neurological status: once paraplegia develops, recovery is rare. High-dose intravenous glucocorticoids (dexamethasone 10 to 16 mg IV bolus) must be administered immediately upon clinical suspicion before imaging or surgery. Dexamethasone reduces vasogenic tumor edema, preserves microvascular spinal perfusion, and alleviates pain. Emergent whole-spine MRI followed by radiation therapy or surgical decompression is then performed. Prostate cancer + back pain + bilateral leg weakness + T7 sensory level + urinary retention -> cord compression -> immediate high-dose IV dexamethasone + emergent MRI.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Malignant Spinal Cord Compression.",
+    "keyPoints": [
+      "Malignant Spinal Cord Compression",
+      "Prostate cancer + back pain + bilateral leg weakness + T7 sensory level + urinary retention -> cord compression -> immediate high-dose IV dexamethasone + emergent MRI."
+    ],
+    "references": [
+      {
+        "label": "Lawton AJ, et al. Assessment and Management of Patients with Metastatic Spinal Cord Compression: A Summary of NICE Guidance. Lancet Oncol. 2019;20(2):e93-e104. PMID: 30712809.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30712809/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0323",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Cholangitis (Reynolds Pentad)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old woman presents to the emergency department with severe right upper quadrant abdominal pain, high fever, and shaking chills for 18 hours. Her family notes that she became progressively confused and lethargic this morning. On physical examination, she appears toxic, jaundiced, and obtunded. Vital signs are: blood pressure 82/48 mm Hg, heart rate 124/min, respiratory rate 24/min, and temperature 39.4°C (102.9°F). Abdominal examination reveals scleral icterus and marked tenderness to palpation in the right upper quadrant with voluntary guarding, without rebound tenderness. Laboratory studies demonstrate: - Leukocytes: 19,800/mm3 with 18% bands - Total bilirubin: 6.8 mg/dL - Alkaline phosphatase: 480 U/L - AST: 142 U/L - ALT: 168 U/L - Serum lactate: 3.8 mmol/L. An ultrasound of the right upper quadrant reveals choledocholithiasis with a 12-mm common bile duct dilation and intrahepatic biliary ductal dilatation. Despite aggressive crystalloid resuscitation and intravenous piperacillin-tazobactam, she remains hypotensive. Which of the following is the most appropriate next step in the management of this patient?",
+    "options": [
+      {
+        "text": "Schedule elective laparoscopic cholecystectomy for the next open surgical operating suite",
+        "correct": false,
+        "explanation": "Cholecystectomy removes the gallbladder but does not decompress the obstructed common bile duct in acute suppurative cholangitis and is associated with high mortality in septic shock."
+      },
+      {
+        "text": "Perform emergent open surgical choledochotomy with T-tube drainage under general anesthesia",
+        "correct": false,
+        "explanation": "Surgical decompression of the biliary tree in patients with severe suppurative cholangitis carries significantly higher morbidity and mortality compared to minimally invasive endoscopic decompression via ERCP."
+      },
+      {
+        "text": "Perform emergent endoscopic retrograde cholangiopancreatography (ERCP) for biliary decompression",
+        "correct": true,
+        "explanation": "The patient has severe, life-threatening acute cholangitis presenting with the Reynolds pentad: Charcot triad (fever, jaundice, right upper quadrant pain) plus hypotension (shock) and altered mental status. Obstruction of the common bile duct by a gallstone (choledocholithiasis) leads to marked elevation of biliary intraductal pressure, causing translocation of bacteria across the hepatic parenchyma into the systemic venous circulation (biliary sepsis). In patients with toxic, suppurative cholangitis who fail to respond rapidly to fluid resuscitation and broad-spectrum IV antibiotics, emergent biliary decompression—most commonly via ERCP with sphincterotomy and biliary drainage/stenting—is mandatory. Without decompression, mortality approaches 100%."
+      },
+      {
+        "text": "Administer intravenous ursodeoxycholic acid to dissolve the obstructing choledocholithiasis",
+        "correct": false,
+        "explanation": "Ursodeoxycholic acid is a chronic oral bile acid used for medical dissolution of small radiolucent gallstones over months; it has zero efficacy in acute obstructive suppurative cholangitis."
+      },
+      {
+        "text": "Obtain an urgent magnetic resonance cholangiopancreatography (MRCP) to map the biliary tree",
+        "correct": false,
+        "explanation": "Diagnostic MRCP delays life-saving therapeutic decompression when ultrasound and laboratory findings already establish the diagnosis of choledocholithiasis and acute cholangitis."
+      }
+    ],
+    "explanation": "The patient has severe, life-threatening acute cholangitis presenting with the Reynolds pentad: Charcot triad (fever, jaundice, right upper quadrant pain) plus hypotension (shock) and altered mental status. Obstruction of the common bile duct by a gallstone (choledocholithiasis) leads to marked elevation of biliary intraductal pressure, causing translocation of bacteria across the hepatic parenchyma into the systemic venous circulation (biliary sepsis). In patients with toxic, suppurative cholangitis who fail to respond rapidly to fluid resuscitation and broad-spectrum IV antibiotics, emergent biliary decompression—most commonly via ERCP with sphincterotomy and biliary drainage/stenting—is mandatory. Without decompression, mortality approaches 100%. Fever + jaundice + RUQ pain + shock + confusion (Reynolds pentad) + dilated CBD -> severe acute cholangitis -> emergent ERCP for biliary decompression.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Cholangitis (Reynolds Pentad).",
+    "keyPoints": [
+      "Acute Cholangitis (Reynolds Pentad)",
+      "Fever + jaundice + RUQ pain + shock + confusion (Reynolds pentad) + dilated CBD -> severe acute cholangitis -> emergent ERCP for biliary decompression."
+    ],
+    "references": [
+      {
+        "label": "Kiriyama S, et al. Tokyo Guidelines 2018: Diagnostic Criteria and Severity Assessment of Acute Cholangitis. J Hepatobiliary Pancreat Sci. 2018;25(1):17-30. PMID: 29205594.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29205594/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0324",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Acute Limb Ischemia",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 71-year-old man with a history of permanent atrial fibrillation who discontinued his oral apixaban 2 weeks ago presents to the emergency department with sudden-onset, severe pain in his left leg that began 3 hours ago. He states that his left foot feels completely numb and cold. On physical examination, the left lower extremity is pale and marble-cool from the mid-calf down to the toes. Neurological examination of the left foot demonstrates absent sensation to light touch and pinprick over the dorsum and plantar surface, and inability to wiggle his toes or dorsiflex the ankle. Dorsalis pedis and posterior tibial pulses are absent to palpation and non-audible on Doppler examination, while the popliteal and femoral pulses are bounding (2+). Sensation, motor strength, and pulses in the right lower extremity are normal. Which of the following is the most appropriate immediate next step in the management of this patient?",
+    "options": [
+      {
+        "text": "Obtain outpatient duplex ultrasonography of the left lower extremity arterial tree",
+        "correct": false,
+        "explanation": "Outpatient ultrasound creates a disastrous delay for a patient with an immediately threatened ischemic limb (motor loss and sensory anesthesia); irreversible neuromuscular damage occurs within 6 hours."
+      },
+      {
+        "text": "Elevate the left lower extremity above the level of the heart to reduce ischemic edema",
+        "correct": false,
+        "explanation": "Limb elevation decreases arterial perfusion pressure across the occlusion, worsening tissue ischemia; the limb should be kept dependent or flat to facilitate collateral perfusion."
+      },
+      {
+        "text": "Administer oral clopidogrel 300 mg monotherapy and observe for 24 hours in the observation unit",
+        "correct": false,
+        "explanation": "Antiplatelet monotherapy is completely inadequate for acute embolic occlusion of a major artery and observing an immediately threatened limb results in limb gangrene."
+      },
+      {
+        "text": "Administer an immediate intravenous bolus of unfractionated heparin followed by continuous infusion",
+        "correct": true,
+        "explanation": "The patient presents with acute limb ischemia (ALI) of the left lower extremity secondary to a cardiogenic thromboembolism lodged in the popliteal or tibial trifurcation. He exhibits the classic '6 Ps': Pain, Pallor, Poikilothermia (coolness), Pulselessness, Paresthesia (numbness), and Paralysis (loss of motor function). The presence of motor deficit (inability to dorsiflex or wiggle toes) indicates Category IIb (immediately threatened limb) per Rutherford classification, requiring emergent revascularization within 4 to 6 hours to prevent irreversible muscle necrosis and amputation. The immediate first step is intravenous unfractionated heparin bolus and infusion, which halts thrombus propagation, prevents microvascular thrombosis in distal runoff vessels, and protects collateral channels while the patient is prepped for emergent surgical thromboembolectomy or catheter-directed thrombolysis."
+      },
+      {
+        "text": "Place a warm thermal heating blanket directly around the left foot to promote vasodilation",
+        "correct": false,
+        "explanation": "Applying direct heat to an ischemic, anesthetic extremity causes thermal burn injury and increases local metabolic demand without restoring arterial blood flow, accelerating tissue gangrene."
+      }
+    ],
+    "explanation": "The patient presents with acute limb ischemia (ALI) of the left lower extremity secondary to a cardiogenic thromboembolism lodged in the popliteal or tibial trifurcation. He exhibits the classic '6 Ps': Pain, Pallor, Poikilothermia (coolness), Pulselessness, Paresthesia (numbness), and Paralysis (loss of motor function). The presence of motor deficit (inability to dorsiflex or wiggle toes) indicates Category IIb (immediately threatened limb) per Rutherford classification, requiring emergent revascularization within 4 to 6 hours to prevent irreversible muscle necrosis and amputation. The immediate first step is intravenous unfractionated heparin bolus and infusion, which halts thrombus propagation, prevents microvascular thrombosis in distal runoff vessels, and protects collateral channels while the patient is prepped for emergent surgical thromboembolectomy or catheter-directed thrombolysis. AFib off anticoagulation + acute cold, numb, paralyzed foot (6 Ps) + absent Doppler pulses -> acute limb ischemia (Rutherford IIb) -> immediate IV heparin bolus/infusion followed by emergent revascularization.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Limb Ischemia.",
+    "keyPoints": [
+      "Acute Limb Ischemia",
+      "AFib off anticoagulation + acute cold, numb, paralyzed foot (6 Ps) + absent Doppler pulses -> acute limb ischemia (Rutherford IIb) -> immediate IV heparin bolus/infusion followed b"
+    ],
+    "references": [
+      {
+        "label": "Gerhard-Herman MD, et al. 2016 AHA/ACC Guideline on the Management of Patients With Lower Extremity Peripheral Artery Disease. Circulation. 2017;135(12):e726-e779. PMID: 27840333.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27840333/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0325",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Thyroid Storm",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old woman with a history of Graves disease who has been non-compliant with methimazole presents to the emergency department with severe agitation, confusion, and palpitations 24 hours after undergoing an uncomplicated tooth extraction. On arrival, she is tremulous, delirious, and profusely diaphoretic. Vital signs are: blood pressure 168/76 mm Hg, heart rate 158/min (irregularly irregular, consistent with atrial fibrillation), respiratory rate 26/min, and core temperature 40.2°C (104.4°F). Physical examination reveals marked exophthalmos, a diffusely enlarged non-tender thyroid goiter with an audible systolic bruit, diffuse bibasilar pulmonary crackles, and a 2+ bilateral pretibial pitting edema. Laboratory testing demonstrates an undetectable TSH (< 0.01 microU/mL) and free T4 of 5.8 ng/dL. The Burch-Wartofsky Point Scale score is 65, confirming thyroid storm. Which of the following represents the correct sequence and pharmacotherapy required for this patient?",
+    "options": [
+      {
+        "text": "Administer high-dose Lugol iodine solution immediately, followed 2 hours later by propylthiouracil and levothyroxine",
+        "correct": false,
+        "explanation": "Administering inorganic iodine before thionamide blockade provides rich iodide substrate to the hyperactive thyroid gland, synthesizing massive amounts of new thyroid hormone and worsening thyroid storm."
+      },
+      {
+        "text": "Administer intravenous radioiodine (I-131) ablation therapy immediately to destroy hyperactive thyroid follicular cells",
+        "correct": false,
+        "explanation": "Radioactive iodine ablation in acute thyroid storm causes radiation thyroiditis, releasing stored thyroid hormones into the bloodstream and triggering fatal cardiovascular collapse."
+      },
+      {
+        "text": "Administer intravenous amiodarone infusion to convert atrial fibrillation to normal sinus rhythm",
+        "correct": false,
+        "explanation": "Amiodarone contains 37% iodine by weight and is heavily metabolized to release massive iodine loads, worsening thyrotoxicosis and inducing refractory arrhythmias in Graves disease."
+      },
+      {
+        "text": "Initiate immediate therapeutic plasma exchange as first-line monotherapy without antithyroid medications",
+        "correct": false,
+        "explanation": "Plasmapheresis is a third-line rescue therapy reserved strictly for patients refractory to full medical management or with severe thionamide-induced agranulocytosis or hepatotoxicity."
+      },
+      {
+        "text": "Administer intravenous propranolol, followed by propylthiouracil, followed 1 hour later by potassium iodide (Lugol solution), and intravenous hydrocortisone",
+        "correct": true,
+        "explanation": "Thyroid storm is a life-threatening hypermetabolic state requiring immediate multimodal pharmacotherapy administered in a strict, specific sequence: (1) Beta-blockers (propranolol IV) to control adrenergic hyperactivity and block peripheral T4-to-T3 conversion; (2) Thionamides (propylthiouracil [PTU] or methimazole) to block new thyroid hormone synthesis via thyroid peroxidase inhibition (PTU also blocks peripheral T4-to-T3 conversion); (3) Inorganic iodine (Lugol solution or saturated solution of potassium iodide [SSKI]) to inhibit thyroid hormone release via the Wolff-Chaikoff effect; and (4) Glucocorticoids (IV hydrocortisone) to reduce peripheral conversion and treat potential relative adrenal insufficiency. CRITICAL PHARMACOLOGIC TIMING: Iodine must be administered AT LEAST 1 HOUR AFTER thionamide therapy; giving iodine first provides additional substrate for thyroid hormone synthesis, exacerbating the storm (Jod-Basedow phenomenon)."
+      }
+    ],
+    "explanation": "Thyroid storm is a life-threatening hypermetabolic state requiring immediate multimodal pharmacotherapy administered in a strict, specific sequence: (1) Beta-blockers (propranolol IV) to control adrenergic hyperactivity and block peripheral T4-to-T3 conversion; (2) Thionamides (propylthiouracil [PTU] or methimazole) to block new thyroid hormone synthesis via thyroid peroxidase inhibition (PTU also blocks peripheral T4-to-T3 conversion); (3) Inorganic iodine (Lugol solution or saturated solution of potassium iodide [SSKI]) to inhibit thyroid hormone release via the Wolff-Chaikoff effect; and (4) Glucocorticoids (IV hydrocortisone) to reduce peripheral conversion and treat potential relative adrenal insufficiency. CRITICAL PHARMACOLOGIC TIMING: Iodine must be administered AT LEAST 1 HOUR AFTER thionamide therapy; giving iodine first provides additional substrate for thyroid hormone synthesis, exacerbating the storm (Jod-Basedow phenomenon). Graves disease + fever (40.2°C) + AFib + delirium (Burch-Wartofsky 65) -> thyroid storm -> propranolol + PTU + iodine (Lugol's) delayed >= 1 hr + hydrocortisone.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Thyroid Storm.",
+    "keyPoints": [
+      "Thyroid Storm",
+      "Graves disease + fever (40.2°C) + AFib + delirium (Burch-Wartofsky 65) -> thyroid storm -> propranolol + PTU + iodine (Lugol's) delayed >= 1 hr + hydrocortisone."
+    ],
+    "references": [
+      {
+        "label": "Ross DS, et al. 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid. 2016;26(10):1343-1421. PMID: 27521067.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27521067/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

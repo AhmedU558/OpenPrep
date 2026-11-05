@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s2-0126",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Preeclampsia with Severe Features Management at Term vs Preterm",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 31-year-old primigravida at 34 weeks and 2 days of gestation presents to the triage labor and delivery unit with a persistent throbbing frontal headache and blurred vision that have worsened over the past 6 hours. Her prenatal care has been uncomplicated until today. Her blood pressure is 168/112 mm Hg on two measurements taken 20 minutes apart. Physical examination reveals 3+ bilateral patellar deep tendon reflexes with 2 beats of unsustained clonus, and 2+ dependent pitting edema of both lower extremities. Cardiotocography shows a reactive fetal heart rate tracing with normal baseline variability and no decelerations. Laboratory evaluation reveals: platelet count 88,000/mm³, serum creatinine 1.3 mg/dL, AST 118 U/L, and ALT 132 U/L. Urinalysis demonstrates 3+ protein. An intravenous infusion of magnesium sulfate is initiated immediately. Blood pressure is controlled with intravenous labetalol. Which of the following is the most appropriate next step in the definitive management of this patient?",
+    "options": [
+      {
+        "text": "Prompt induction of labor and delivery with continuous maternal and fetal monitoring",
+        "correct": true,
+        "explanation": "This patient meets clear criteria for preeclampsia with severe features (blood pressure >= 160/110 mm Hg, severe persistent headache/visual changes, thrombocytopenia < 100,000/mm³, serum creatinine > 1.1 mg/dL, and elevated transaminases > 2x upper limit of normal). When preeclampsia with severe features is diagnosed at or beyond 34 weeks of gestation, the only definitive and curative therapy is prompt delivery after maternal stabilization. Expectant management is contraindicated at >= 34 weeks because the maternal and fetal risks (including eclampsia, placental abruption, hepatic rupture, stroke, and intrauterine fetal demise) far outweigh the neonatal benefits of prolonging pregnancy. While intravenous magnesium sulfate prevents eclamptic seizures and antihypertensives (such as IV labetalol or hydralazine) prevent intracranial hemorrhage, neither cures the disease. Vaginal delivery via labor induction is preferred unless standard obstetric contraindications necessitate cesarean section."
+      },
+      {
+        "text": "Expectant outpatient management with oral labetalol and weekly serial biophysical profiles",
+        "correct": false,
+        "explanation": "Expectant management of preeclampsia with severe features is never conducted on an outpatient basis and is strictly contraindicated at >= 34 weeks of gestation due to high risk of maternal and fetal morbidity."
+      },
+      {
+        "text": "Immediate administration of intramuscular betamethasone and delay of delivery until 37 weeks",
+        "correct": false,
+        "explanation": "Antenatal corticosteroids are given before 34 weeks (or late preterm in select non-severe cases), but delaying delivery until 37 weeks in preeclampsia with severe features causes life-threatening maternal-fetal complications."
+      },
+      {
+        "text": "Discontinuation of magnesium sulfate once blood pressure decreases below 140/90 mm Hg",
+        "correct": false,
+        "explanation": "Magnesium sulfate is administered for seizure prophylaxis, not blood pressure control; it must be continued intrapartum and maintained for at least 24 hours postpartum regardless of BP response."
+      },
+      {
+        "text": "Urgent therapeutic plasmapheresis with fresh frozen plasma exchange for presumed TTP",
+        "correct": false,
+        "explanation": "While thrombocytopenia and renal dysfunction occur in thrombotic thrombocytopenic purpura (TTP), the classic constellation of new-onset hypertension, proteinuria, elevated transaminases, and hyperreflexia at 34 weeks confirms severe preeclampsia."
+      }
+    ],
+    "explanation": "This patient meets clear criteria for preeclampsia with severe features (blood pressure >= 160/110 mm Hg, severe persistent headache/visual changes, thrombocytopenia < 100,000/mm³, serum creatinine > 1.1 mg/dL, and elevated transaminases > 2x upper limit of normal). When preeclampsia with severe features is diagnosed at or beyond 34 weeks of gestation, the only definitive and curative therapy is prompt delivery after maternal stabilization. Expectant management is contraindicated at >= 34 weeks because the maternal and fetal risks (including eclampsia, placental abruption, hepatic rupture, stroke, and intrauterine fetal demise) far outweigh the neonatal benefits of prolonging pregnancy. While intravenous magnesium sulfate prevents eclamptic seizures and antihypertensives (such as IV labetalol or hydralazine) prevent intracranial hemorrhage, neither cures the disease. Vaginal delivery via labor induction is preferred unless standard obstetric contraindications necessitate cesarean section. Recognize Preeclampsia with Severe Features: gestational age >= 34 weeks + persistent SBP >= 160 mm Hg or DBP >= 110 mm Hg (or end-organ dysfunction: platelets < 100,000, Cr > 1.1, elevated transaminases, pulmonary edema, or new visual/cerebral symptoms). MANAGEMENT PRIORITY: 1. IV magnesium sulfate for seizure prophylaxis; 2. IV antihypertensives (labetalol, hydralazine, or oral nifedipine) for SBP >= 160 or DBP >= 110; 3. DELIVERY at >= 34 weeks of gestation (expectant management is contraindicated beyond 34 weeks when severe features are present).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Preeclampsia with Severe Features Management at Term vs Preterm.",
+    "keyPoints": [
+      "Preeclampsia with Severe Features Management at Term vs Preterm",
+      "Recognize Preeclampsia with Severe Features: gestational age >= 34 weeks + persistent SBP >= 160 mm Hg or DBP >= 110 mm Hg (or end-organ dysfunction: platelets < 100,000, Cr > 1.1,"
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin No. 222: Gestational Hypertension and Preeclampsia. Obstet Gynecol. 2020;135(6):e237-e260. PMID: 32443079.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32443079/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0127",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Third-Trimester Vaginal Bleeding Differentiation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old gravida 3, para 2 woman at 35 weeks of gestation presents to the labor and delivery department with sudden-onset, severe, constant lower abdominal pain and dark red vaginal bleeding that started 45 minutes ago. Her medical history is notable for chronic hypertension treated with oral nifedipine and active cigarette smoking. On physical examination, her blood pressure is 94/56 mm Hg, heart rate is 118/min, and respirations are 22/min. Abdominal palpation reveals a firm, intensely tender, hypertonic uterus that does not relax completely between contractions; uterine contractions occur every 1 to 2 minutes. External fetal monitoring reveals a fetal heart rate baseline of 100/min with absent variability and recurrent late decelerations. Two large-bore intravenous lines are placed, and fluid resuscitation is started. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Digital cervical examination to assess cervical dilation, effacement, and fetal station",
+        "correct": false,
+        "explanation": "Digital cervical examination is strictly contraindicated in unexplained third-trimester vaginal bleeding until placenta previa has been definitively ruled out, as it can cause catastrophic disruption of low-lying placental vessels."
+      },
+      {
+        "text": "Immediate emergency cesarean delivery under general anesthesia in the operating room",
+        "correct": true,
+        "explanation": "This presentation is classic for severe placental abruption (abruptio placentae): sudden-onset painful vaginal bleeding, severe abdominal pain, a hypertonic and persistently tender uterus, high-frequency contractions, maternal hemodynamic instability (tachycardia, hypotension), and severe nonreassuring fetal heart rate status (prolonged fetal bradycardia with recurrent late decelerations). Risk factors include maternal hypertension, cigarette smoking, and advanced maternal age. When placental abruption is accompanied by maternal hemodynamic compromise or acute fetal distress, the only appropriate management is emergent delivery, almost invariably by immediate cesarean section. Delaying delivery to perform MRI or waiting for vaginal delivery leads to fetal demise, severe maternal hemorrhage, and disseminated intravascular coagulation (DIC)."
+      },
+      {
+        "text": "Initiation of intravenous tocolytic therapy with terbutaline to halt uterine hypertonicity",
+        "correct": false,
+        "explanation": "Tocolytic agents are contraindicated in the setting of severe placental abruption with hemodynamic instability or nonreassuring fetal status, as stopping contractions delays necessary delivery and worsens hemorrhage."
+      },
+      {
+        "text": "Expectant observation awaiting spontaneous vaginal delivery with epidural analgesia",
+        "correct": false,
+        "explanation": "Expectant trial of vaginal delivery is only considered in hemodynamically stable mothers with reassuring fetal heart tracings; here severe fetal bradycardia and maternal shock demand immediate operative intervention."
+      },
+      {
+        "text": "Transvaginal ultrasonography to confirm the retroplacental hematoma before intervening",
+        "correct": false,
+        "explanation": "Ultrasonography has a low sensitivity (~25-50%) for detecting retroplacental clot; in the presence of life-threatening fetal bradycardia and maternal shock, delivery must never be delayed for imaging."
+      }
+    ],
+    "explanation": "This presentation is classic for severe placental abruption (abruptio placentae): sudden-onset painful vaginal bleeding, severe abdominal pain, a hypertonic and persistently tender uterus, high-frequency contractions, maternal hemodynamic instability (tachycardia, hypotension), and severe nonreassuring fetal heart rate status (prolonged fetal bradycardia with recurrent late decelerations). Risk factors include maternal hypertension, cigarette smoking, and advanced maternal age. When placental abruption is accompanied by maternal hemodynamic compromise or acute fetal distress, the only appropriate management is emergent delivery, almost invariably by immediate cesarean section. Delaying delivery to perform MRI or waiting for vaginal delivery leads to fetal demise, severe maternal hemorrhage, and disseminated intravascular coagulation (DIC). Differentiate cause of third-trimester hemorrhage: PAINFUL vaginal bleeding + hypertonic/tender uterus + high-frequency contractions + fetal heart rate decelerations = PLACENTAL ABRUPTION (retroplacental hemorrhage). PAINLESS bright red vaginal bleeding = PLACENTA PREVIA. CRUCIAL CLINICAL RULE: Digital vaginal examination is strictly contraindicated until transabdominal/transvaginal ultrasound excludes placenta previa. In hemodynamically unstable placental abruption or acute fetal distress: immediate emergency cesarean delivery is mandatory.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Third-Trimester Vaginal Bleeding Differentiation.",
+    "keyPoints": [
+      "Third-Trimester Vaginal Bleeding Differentiation",
+      "Differentiate cause of third-trimester hemorrhage: PAINFUL vaginal bleeding + hypertonic/tender uterus + high-frequency contractions + fetal heart rate decelerations = PLACENTAL AB"
+    ],
+    "references": [
+      {
+        "label": "Schmidt P, et al. Placental Abruption. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024. PMID: 29262106.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29262106/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0128",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Ectopic Pregnancy Medical vs Surgical Management Contraindications",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old nulligravida woman presents to the emergency department with severe right lower quadrant pelvic pain, lightheadedness, and vaginal spotting. Her last menstrual period was 6 weeks ago. Her medical history includes pelvic inflammatory disease 2 years ago treated with antibiotics. Her blood pressure is 88/54 mm Hg, heart rate is 122/min, and respirations are 20/min. Physical examination reveals marked right lower quadrant tenderness with guarding and rebound tenderness; cervical motion tenderness is exquisite on bimanual pelvic examination. Bedside point-of-care transvaginal ultrasonography shows an empty uterine cavity with a thickened endometrium, a 4.2-cm complex right adnexal mass with visible embryonic cardiac activity, and a large volume of free fluid with internal echoes in the posterior cul-de-sac and hepatorenal recess (Morison pouch). Serum beta-hCG is 7,850 mIU/mL. After initiating rapid intravenous crystalloid resuscitation and type and crossmatch, which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Intramuscular single-dose methotrexate therapy with outpatient beta-hCG monitoring",
+        "correct": false,
+        "explanation": "Methotrexate is strictly contraindicated in hemodynamically unstable patients, tubal rupture with hemoperitoneum, adnexal mass > 3.5 cm, beta-hCG > 5,000 mIU/mL, and when embryonic cardiac motion is present."
+      },
+      {
+        "text": "Dilation and curettage followed by repeat quantitative serum beta-hCG measurement in 48 hours",
+        "correct": false,
+        "explanation": "D&C is indicated for abnormal intrauterine pregnancy / incomplete abortion, but cannot address a life-threatening ruptured tubal ectopic pregnancy with hemoperitoneum."
+      },
+      {
+        "text": "Emergency exploratory laparoscopy with right salpingectomy",
+        "correct": true,
+        "explanation": "This patient has a ruptured ectopic pregnancy with hemoperitoneum and hypovolemic shock. Key findings include hemodynamic instability (BP 88/54, HR 122), peritoneal signs (guarding, rebound), large free fluid in the cul-de-sac and Morison pouch, and an adnexal mass with fetal cardiac activity. While unruptured ectopic pregnancy can be managed medically with systemic methotrexate in eligible candidates, medical management is strictly contraindicated in this patient due to multiple absolute contraindications: hemodynamic instability/shock, ruptured ectopic pregnancy with hemoperitoneum, presence of embryonic cardiac activity, gestational mass > 3.5 cm (4.2 cm here), and beta-hCG > 5,000 mIU/mL. The required definitive treatment is immediate surgical exploration (laparoscopy or laparotomy) with salpingectomy to achieve surgical hemostasis."
+      },
+      {
+        "text": "Pelvic magnetic resonance imaging to characterize the adnexal mass before intervention",
+        "correct": false,
+        "explanation": "Advanced cross-sectional imaging causes dangerous delays in surgical intervention for an acutely hemorrhaging, unstable patient."
+      },
+      {
+        "text": "Intravenous broad-spectrum piperacillin-tazobactam for recurrent pelvic inflammatory disease",
+        "correct": false,
+        "explanation": "While her history includes PID, positive beta-hCG with empty uterus, adnexal mass with cardiac activity, and free fluid proves ruptured ectopic pregnancy rather than acute PID."
+      }
+    ],
+    "explanation": "This patient has a ruptured ectopic pregnancy with hemoperitoneum and hypovolemic shock. Key findings include hemodynamic instability (BP 88/54, HR 122), peritoneal signs (guarding, rebound), large free fluid in the cul-de-sac and Morison pouch, and an adnexal mass with fetal cardiac activity. While unruptured ectopic pregnancy can be managed medically with systemic methotrexate in eligible candidates, medical management is strictly contraindicated in this patient due to multiple absolute contraindications: hemodynamic instability/shock, ruptured ectopic pregnancy with hemoperitoneum, presence of embryonic cardiac activity, gestational mass > 3.5 cm (4.2 cm here), and beta-hCG > 5,000 mIU/mL. The required definitive treatment is immediate surgical exploration (laparoscopy or laparotomy) with salpingectomy to achieve surgical hemostasis. Identify contraindications to Methotrexate for Ectopic Pregnancy: 1. Hemodynamic instability; 2. Signs of tubal rupture/hemoperitoneum (peritoneal signs, free fluid in pouch of Douglas/Morison pouch); 3. Gestational mass > 3.5-4 cm; 4. Fetal cardiac activity; 5. Baseline beta-hCG > 5,000 mIU/mL; 6. Pulmonary/renal/hepatic disease. Hemodynamically unstable patient or suspected tubal rupture requires IMMEDIATE EXPLORATORY LAPAROSCOPY (or laparotomy) with salpingectomy.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Ectopic Pregnancy Medical vs Surgical Management Contraindications.",
+    "keyPoints": [
+      "Ectopic Pregnancy Medical vs Surgical Management Contraindications",
+      "Identify contraindications to Methotrexate for Ectopic Pregnancy: 1. Hemodynamic instability; 2. Signs of tubal rupture/hemoperitoneum (peritoneal signs, free fluid in pouch of Dou"
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin No. 193: Tubal Ectopic Pregnancy. Obstet Gynecol. 2018;131(3):e91-e103. PMID: 29470343.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29470343/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0129",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Postpartum Hemorrhage Algorithmic Uterotonic Sequence",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old gravida 2, para 2 woman has severe vaginal bleeding 20 minutes following an uncomplicated spontaneous vaginal delivery of a 4,200-g male infant at 39 weeks of gestation. Her past medical history is significant for moderate persistent bronchial asthma, for which she uses an inhaled corticosteroid daily and an inhaled albuterol rescue inhaler twice weekly. She has no history of hypertension. On physical examination, her blood pressure is 92/58 mm Hg, heart rate is 114/min, and respirations are 18/min with clear breath sounds. Pelvic examination reveals a soft, boggy, poorly contracted uterus palpable 3 cm above the umbilicus with continuous brisk vaginal bleeding. Inspection of the cervix, vagina, and perineum reveals no lacerations, and the placenta was delivered intact with all cotyledons present. Continuous bimanual uterine massage is performed, and an intravenous infusion of oxytocin is running at maximum rate, but the uterus remains poorly contracted with ongoing brisk hemorrhage. Which of the following is the most appropriate next pharmacologic agent to administer?",
+    "options": [
+      {
+        "text": "Intramuscular carboprost tromethamine",
+        "correct": false,
+        "explanation": "Carboprost tromethamine (prostaglandin F2-alpha) is strictly contraindicated in patients with asthma because it causes potent bronchial smooth muscle constriction, precipitating severe bronchospasm and respiratory failure."
+      },
+      {
+        "text": "Subcutaneous terbutaline sulfate injection",
+        "correct": false,
+        "explanation": "Terbutaline is a beta-2 agonist used as a tocolytic to relax the uterus; administering it during postpartum hemorrhage relaxes the myometrium further, accelerating fatal blood loss."
+      },
+      {
+        "text": "Immediate transfer for emergent emergency hysterectomy without further medical trials",
+        "correct": false,
+        "explanation": "Emergency hysterectomy is the definitive last resort after conservative medical therapies (oxytocin, methylergonovine, misoprostol, tranexamic acid) and intrauterine balloon tamponade have failed."
+      },
+      {
+        "text": "Intramuscular methylergonovine maleate",
+        "correct": true,
+        "explanation": "Postpartum hemorrhage (PPH) is most commonly caused by uterine atony (> 80% of cases). Initial management is bimanual uterine massage and high-dose intravenous oxytocin. When bleeding persists despite oxytocin, second-line uterotonic agents must be chosen based on patient-specific contraindications: (1) Methylergonovine (an ergot alkaloid) stimulates powerful, sustained myometrial contractions and is safe in patients with asthma; it is strictly contraindicated in patients with gestational hypertension, preeclampsia, or coronary disease because it causes peripheral vasoconstriction and severe hypertension. (2) Carboprost tromethamine (15-methyl PGF2-alpha) is a potent uterotonic but is STRICTLY CONTRAINDICATED IN ASTHMA because prostaglandin F2-alpha stimulates bronchial smooth muscle contraction, precipitating life-threatening bronchospasm. Because this patient has asthma and normal blood pressure, methylergonovine is the ideal next uterotonic. Misoprostol (PGE1) and tranexamic acid (TXA) are also adjuncts, but carboprost must be avoided."
+      },
+      {
+        "text": "Intravenous magnesium sulfate infusion bolus",
+        "correct": false,
+        "explanation": "Magnesium sulfate is a smooth muscle relaxant used for eclampsia prophylaxis; it relaxes uterine muscle and exacerbates uterine atony."
+      }
+    ],
+    "explanation": "Postpartum hemorrhage (PPH) is most commonly caused by uterine atony (> 80% of cases). Initial management is bimanual uterine massage and high-dose intravenous oxytocin. When bleeding persists despite oxytocin, second-line uterotonic agents must be chosen based on patient-specific contraindications: (1) Methylergonovine (an ergot alkaloid) stimulates powerful, sustained myometrial contractions and is safe in patients with asthma; it is strictly contraindicated in patients with gestational hypertension, preeclampsia, or coronary disease because it causes peripheral vasoconstriction and severe hypertension. (2) Carboprost tromethamine (15-methyl PGF2-alpha) is a potent uterotonic but is STRICTLY CONTRAINDICATED IN ASTHMA because prostaglandin F2-alpha stimulates bronchial smooth muscle contraction, precipitating life-threatening bronchospasm. Because this patient has asthma and normal blood pressure, methylergonovine is the ideal next uterotonic. Misoprostol (PGE1) and tranexamic acid (TXA) are also adjuncts, but carboprost must be avoided. Manage Postpartum Hemorrhage (PPH) due to uterine atony: 1. Bimanual uterine massage + IV Oxytocin. If refractory, select second-line uterotonic based on patient contraindications: - METHYLERGONOVINE (Methergine): CONTRAINDICATED IN HYPERTENSION/PREECLAMPSIA (potent vasoconstrictor causing stroke); - CARBOPROST TROMETHAMINE (PGF2-alpha): CONTRAINDICATED IN ASTHMA (causes severe bronchospasm); - MISOPROSTOL (PGE1) or TRANEXAMIC ACID (TXA) are safe in both.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Postpartum Hemorrhage Algorithmic Uterotonic Sequence.",
+    "keyPoints": [
+      "Postpartum Hemorrhage Algorithmic Uterotonic Sequence",
+      "Manage Postpartum Hemorrhage (PPH) due to uterine atony: 1. Bimanual uterine massage + IV Oxytocin. If refractory, select second-line uterotonic based on patient contraindications:"
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin No. 183: Postpartum Hemorrhage. Obstet Gynecol. 2017;130(4):e168-e186. PMID: 28937962.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28937962/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0130",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Preterm Premature Rupture of Membranes Management at 30 Weeks",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old primigravida woman at 30 weeks and 4 days of gestation presents to the obstetric evaluation unit reporting a continuous, uncontrolled leakage of clear watery fluid from her vagina that began 4 hours ago. She has no contractions, fever, abdominal pain, or vaginal bleeding. Her vital signs are: temperature 36.8°C (98.2°F), blood pressure 116/72 mm Hg, heart rate 78/min, and respirations 16/min. Sterile speculum examination reveals pooling of clear fluid in the posterior vaginal fornix; the fluid turns nitrazine paper dark blue (pH 7.2) and exhibits prominent ferning on microscopic evaluation of an air-dried slide. There is no evidence of umbilical cord prolapse. Transabdominal ultrasound reveals oligohydramnios (amniotic fluid index 3.2 cm) with an active fetus in cephalic presentation. Fetal heart rate tracing is reactive with a baseline of 140/min and no decelerations. Maternal white blood cell count is 8,200/mm³. Which of the following regimens represents the most appropriate initial management to improve neonatal outcomes?",
+    "options": [
+      {
+        "text": "Immediate induction of labor with intravenous oxytocin to eliminate the infectious risk",
+        "correct": false,
+        "explanation": "Immediate delivery is reserved for gestational age >= 34 weeks, intraamniotic infection (chorioamnionitis), abruption, or fetal distress; at 30 weeks without infection, expectant management optimizes maturity."
+      },
+      {
+        "text": "Tocolysis with indomethacin for 7 days to eliminate subclinical contractions",
+        "correct": false,
+        "explanation": "Indomethacin beyond 48 hours and after 32 weeks is contraindicated due to premature closure of the fetal ductus arteriosus and oligohydramnios; prolonged tocolysis in PPROM is not recommended."
+      },
+      {
+        "text": "Placement of an emergency cervical cerclage to prevent further amniotic fluid loss",
+        "correct": false,
+        "explanation": "Cervical cerclage is contraindicated in the presence of ruptured membranes because foreign foreign-body material in the setting of ruptured membranes exponentially elevates chorioamnionitis and sepsis risk."
+      },
+      {
+        "text": "Outpatient bed rest with home oral cephalexin prophylaxis and weekly follow-up",
+        "correct": false,
+        "explanation": "PPROM prior to 34 weeks requires inpatient hospitalization with continuous monitoring; outpatient management carries unacceptable risk of undetected cord compression, abruption, or rapid chorioamnionitis."
+      },
+      {
+        "text": "Intramuscular betamethasone, intravenous magnesium sulfate, and a 7-day course of latency antibiotics",
+        "correct": true,
+        "explanation": "This patient has preterm premature rupture of membranes (PPROM) confirmed by vaginal pooling, nitrazine positive fluid (alkaline pH), and microscopic ferning at 30 weeks of gestation. In the absence of overt intraamniotic infection (chorioamnionitis), fetal compromise, or placental abruption, expectant management is indicated until 34 weeks. The recommended multimodal bundle includes: (1) A 7-day course of latency antibiotics (classically IV ampicillin and erythromycin or azithromycin, followed by oral amoxicillin and erythromycin), which prolongs pregnancy latency, reduces neonatal sepsis, and lowers rates of necrotizing enterocolitis (NEC); (2) Antenatal corticosteroids (intramuscular betamethasone or dexamethasone) to promote fetal lung maturity and reduce neonatal respiratory distress syndrome (RDS) and intraventricular hemorrhage; and (3) Intravenous magnesium sulfate for fetal neuroprotection (indicated for anticipated delivery prior to 32 weeks, reducing the incidence of cerebral palsy)."
+      }
+    ],
+    "explanation": "This patient has preterm premature rupture of membranes (PPROM) confirmed by vaginal pooling, nitrazine positive fluid (alkaline pH), and microscopic ferning at 30 weeks of gestation. In the absence of overt intraamniotic infection (chorioamnionitis), fetal compromise, or placental abruption, expectant management is indicated until 34 weeks. The recommended multimodal bundle includes: (1) A 7-day course of latency antibiotics (classically IV ampicillin and erythromycin or azithromycin, followed by oral amoxicillin and erythromycin), which prolongs pregnancy latency, reduces neonatal sepsis, and lowers rates of necrotizing enterocolitis (NEC); (2) Antenatal corticosteroids (intramuscular betamethasone or dexamethasone) to promote fetal lung maturity and reduce neonatal respiratory distress syndrome (RDS) and intraventricular hemorrhage; and (3) Intravenous magnesium sulfate for fetal neuroprotection (indicated for anticipated delivery prior to 32 weeks, reducing the incidence of cerebral palsy). Manage PPROM < 34 weeks without infection/distress: 1. Latency antibiotics (7-day course: IV ampicillin + erythromycin/azithromycin followed by oral amoxicillin + erythromycin) to prolong latency and reduce chorioamnionitis/neonatal sepsis; 2. Antenatal corticosteroids (betamethasone) to accelerate fetal lung maturity; 3. IV Magnesium sulfate for fetal neuroprotection if < 32 weeks; 4. GBS prophylaxis if in active labor. Delivery is indicated at 34 weeks or immediately if chorioamnionitis or fetal compromise develops.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Preterm Premature Rupture of Membranes Management at 30 Weeks.",
+    "keyPoints": [
+      "Preterm Premature Rupture of Membranes Management at 30 Weeks",
+      "Manage PPROM < 34 weeks without infection/distress: 1. Latency antibiotics (7-day course: IV ampicillin + erythromycin/azithromycin followed by oral amoxicillin + erythromycin) to "
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin No. 217: Prelabor Rupture of Membranes. Obstet Gynecol. 2020;135(3):e80-e97. PMID: 32080050.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32080050/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0131",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Hypertrophic Pyloric Stenosis Resuscitation Priorities",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-week-old first-born male infant is brought to the pediatric emergency department with a 5-day history of progressively worsening, forceful non-bilious vomiting that occurs immediately after every feeding. His mother states that he is constantly hungry and eagerly latches onto the bottle immediately after vomiting. Physical examination reveals an irritable, lethargic infant with sunken fontanelles, dry mucous membranes, and delayed capillary refill of 4 seconds. Palpation of the abdomen after bottle feeding demonstrates a firm, mobile, nontender 1.5-cm olive-shaped mass in the right epigastrium. Bedside abdominal ultrasonography confirms pyloric muscle thickness of 4.5 mm and pyloric channel length of 18 mm. Laboratory evaluation demonstrates: sodium 130 mEq/L, potassium 2.9 mEq/L, chloride 84 mEq/L, and serum bicarbonate 34 mEq/L. The pediatric surgical team is consulted. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Intravenous fluid resuscitation with isotonic saline and potassium supplementation until electrolyte and acid-base abnormalities normalize prior to surgery",
+        "correct": true,
+        "explanation": "This infant presents with classic infantile hypertrophic pyloric stenosis: non-bilious projectile vomiting at 3-6 weeks of age, vigorous appetite (\"hungry vomiter\"), dehydrated appearance, palpable \"olive-shaped\" epigastric mass, and ultrasound confirmation (muscle thickness >= 4 mm, channel length >= 14 mm). The hallmark laboratory finding is hypochloremic, hypokalemic metabolic alkalosis, resulting from gastric hydrochloric acid loss and subsequent renal retention of H+ at the expense of K+ to conserve volume. CRITICAL MANAGEMENT CONCEPT: Pyloric stenosis is a medical emergency, not a surgical emergency. Ramstedt pyloromyotomy must NEVER be performed until fluid resuscitation and full electrolyte/acid-base stabilization are achieved (serum chloride > 100 mEq/L, potassium > 4.0 mEq/L, bicarbonate < 28-30 mEq/L). Administering general anesthesia to a patient with severe metabolic alkalosis carries a high risk of postoperative respiratory depression, hypoventilation, and fatal central apnea."
+      },
+      {
+        "text": "Immediate emergent Ramstedt pyloromyotomy in the operating room to relieve gastric outlet obstruction",
+        "correct": false,
+        "explanation": "Pyloromyotomy is not a surgical emergency; operating on an infant with uncorrected hypochloremic metabolic alkalosis carries severe risks of intraoperative cardiac arrhythmia and postoperative apnea."
+      },
+      {
+        "text": "Insertion of a nasojejunal feeding tube to initiate post-pyloric elemental enteral feeding",
+        "correct": false,
+        "explanation": "Feeding tubes do not correct the underlying hypertrophic muscular obstruction and delay curative surgical pyloromyotomy once fluids are restored."
+      },
+      {
+        "text": "Initiation of oral atropine sulfate drops to relax hypertrophied pyloric smooth muscle",
+        "correct": false,
+        "explanation": "Oral or IV atropine is an experimental medical alternative only considered when severe coexisting medical conditions preclude general anesthesia; surgery is definitive."
+      },
+      {
+        "text": "Upper gastrointestinal fluoroscopy series with barium to confirm mechanical obstruction",
+        "correct": false,
+        "explanation": "Abdominal ultrasound has already established definitive anatomic diagnosis; barium studies are unnecessary, delay care, and risk barium aspiration in an actively vomiting infant."
+      }
+    ],
+    "explanation": "This infant presents with classic infantile hypertrophic pyloric stenosis: non-bilious projectile vomiting at 3-6 weeks of age, vigorous appetite (\"hungry vomiter\"), dehydrated appearance, palpable \"olive-shaped\" epigastric mass, and ultrasound confirmation (muscle thickness >= 4 mm, channel length >= 14 mm). The hallmark laboratory finding is hypochloremic, hypokalemic metabolic alkalosis, resulting from gastric hydrochloric acid loss and subsequent renal retention of H+ at the expense of K+ to conserve volume. CRITICAL MANAGEMENT CONCEPT: Pyloric stenosis is a medical emergency, not a surgical emergency. Ramstedt pyloromyotomy must NEVER be performed until fluid resuscitation and full electrolyte/acid-base stabilization are achieved (serum chloride > 100 mEq/L, potassium > 4.0 mEq/L, bicarbonate < 28-30 mEq/L). Administering general anesthesia to a patient with severe metabolic alkalosis carries a high risk of postoperative respiratory depression, hypoventilation, and fatal central apnea. Manage Infantile Hypertrophic Pyloric Stenosis: Non-bilious projectile vomiting in a 3-6 week-old infant with \"olive-shaped\" epigastric mass. Labs show HYPOCHLOREMIC, HYPOKALEMIC METABOLIC ALKALOSIS (due to loss of HCl from vomiting and renal compensation retaining H+ in exchange for K+). CRITICAL CLINICAL RULE: Pyloromyotomy is NEVER an emergency. OPERATIVE CORRECTION MUST BE DELAYED UNTIL COMPLETE CORRECTION OF DEHYDRATION AND ELECTROLYTE/ACID-BASE DISTURBANCES (normal chloride, potassium, and serum bicarbonate < 28-30 mEq/L) to prevent life-threatening intraoperative apnea and cardiac arrhythmias.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hypertrophic Pyloric Stenosis Resuscitation Priorities.",
+    "keyPoints": [
+      "Hypertrophic Pyloric Stenosis Resuscitation Priorities",
+      "Manage Infantile Hypertrophic Pyloric Stenosis: Non-bilious projectile vomiting in a 3-6 week-old infant with \"olive-shaped\" epigastric mass. Labs show HYPOCHLOREMIC, HYPOKALEMIC M"
+    ],
+    "references": [
+      {
+        "label": "Hernanz-Schulman M. Infantile hypertrophic pyloric stenosis. Radiology. 2003;227(2):319-331. PMID: 12732696.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12732696/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0132",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Intussusception Diagnostic and Therapeutic Approach",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "An 11-month-old boy is brought to the emergency department by his parents because of intermittent bouts of intense abdominal pain that began 12 hours ago. During these episodes, the child screams inconsolably, draws his knees tightly up to his chest, and appears pale; between episodes, he appears exhausted but relatively calm. He has had three episodes of non-bilious emesis, and 1 hour ago passed a bowel movement containing dark red blood mixed with mucus. His vital signs are: temperature 37.4°C (99.3°F), blood pressure 96/60 mm Hg, heart rate 130/min, and respirations 24/min. Physical examination of the abdomen between pain episodes reveals a soft, non-distended abdomen with a cylindrical, sausage-shaped mass palpable in the right upper quadrant and an emptiness in the right lower quadrant. There is no guarding, rigidity, or rebound tenderness. Abdominal ultrasonography reveals a multi-layered concentric ring mass (\"target sign\") measuring 3.8 cm in the right hepatic flexure. Plain abdominal radiography shows no free intraperitoneal air under the diaphragm. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Immediate emergent exploratory laparotomy with segmental bowel resection",
+        "correct": false,
+        "explanation": "Emergent exploratory laparotomy is indicated only when signs of peritonitis, bowel perforation, septic shock, or enema reduction failure are present; non-operative air enema is first-line in stable patients."
+      },
+      {
+        "text": "Ultrasound- or fluoroscopy-guided pneumatic (air) contrast enema reduction",
+        "correct": true,
+        "explanation": "This infant presents with the classic triad of ileocolic intussusception: episodic severe crampy abdominal pain with knees drawn up, palpable abdominal mass (sausage-shaped right upper quadrant mass with empty right lower quadrant, termed Dance sign), and \"currant-jelly\" stools (sloughed necrotic mucosa and blood). Ultrasound is the diagnostic gold standard, revealing the concentric concentric \"target\" or \"donut\" sign representing the intussusceptum telescoping into the intussuscipiens. In the absence of peritonitis (guarding/rigidity) or pneumoperitoneum (perforation), the initial management of choice is non-operative reduction via ultrasound- or fluoroscopy-guided air-contrast (pneumatic) or hydrostatic enema. Pneumatic reduction is successful in > 80-90% of cases and carries a lower risk of perforation than barium enemas. Immediate surgical intervention is reserved for patients presenting with frank peritonitis, bowel perforation, shock, or when non-operative enema reduction fails."
+      },
+      {
+        "text": "Administration of intravenous metronidazole and ampicillin with watchful waiting",
+        "correct": false,
+        "explanation": "Intussusception is a mechanical telescoping obstruction; antibiotic monotherapy does not relieve bowel obstruction and leads to intestinal ischemia, gangrene, and perforation."
+      },
+      {
+        "text": "Flexible fiberoptic colonoscopy to visualize the lead point and decompress the colon",
+        "correct": false,
+        "explanation": "Colonoscopy is technically challenging, risks bowel perforation in infants, and is not the standard of care for intussusception reduction."
+      },
+      {
+        "text": "Oral polyethylene glycol bowel cleanout followed by clear liquid challenge",
+        "correct": false,
+        "explanation": "Administering oral laxatives in complete mechanical bowel obstruction exacerbates intraluminal pressure, precipitating bowel ischemia and rupture."
+      }
+    ],
+    "explanation": "This infant presents with the classic triad of ileocolic intussusception: episodic severe crampy abdominal pain with knees drawn up, palpable abdominal mass (sausage-shaped right upper quadrant mass with empty right lower quadrant, termed Dance sign), and \"currant-jelly\" stools (sloughed necrotic mucosa and blood). Ultrasound is the diagnostic gold standard, revealing the concentric concentric \"target\" or \"donut\" sign representing the intussusceptum telescoping into the intussuscipiens. In the absence of peritonitis (guarding/rigidity) or pneumoperitoneum (perforation), the initial management of choice is non-operative reduction via ultrasound- or fluoroscopy-guided air-contrast (pneumatic) or hydrostatic enema. Pneumatic reduction is successful in > 80-90% of cases and carries a lower risk of perforation than barium enemas. Immediate surgical intervention is reserved for patients presenting with frank peritonitis, bowel perforation, shock, or when non-operative enema reduction fails. Recognize Ileocolic Intussusception: infant/toddler (6-36 months) with episodic severe crampy abdominal pain (inconsolable crying with legs drawn up to chest), vomiting, and classic \"currant-jelly\" stool or right upper quadrant sausage-shaped mass (empty RLQ - Dance sign). Ultrasound confirms: \"target\" or \"donut\" sign. MANAGEMENT: 1. If NO peritonitis or bowel perforation: PNEUMATIC (AIR-CONTRAST) OR HYDROSTATIC ENEMA is both diagnostic and therapeutic (success > 80-90%). 2. If PERITONITIS, PERFORATION, OR PERSISTENT REFRACTORY ILEUS: IMMEDIATE SURGICAL LAPAROTOMY is mandatory.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Intussusception Diagnostic and Therapeutic Approach.",
+    "keyPoints": [
+      "Intussusception Diagnostic and Therapeutic Approach",
+      "Recognize Ileocolic Intussusception: infant/toddler (6-36 months) with episodic severe crampy abdominal pain (inconsolable crying with legs drawn up to chest), vomiting, and classi"
+    ],
+    "references": [
+      {
+        "label": "Marsicovetere P, et al. Intussusception: Evaluation and Management. Am Fam Physician. 2018;98(6):347-353. PMID: 30215915.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30215915/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0133",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "Simple vs Complex Febrile Seizures Evaluation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 22-month-old girl is brought to the pediatric emergency department by her anxious parents 30 minutes after having a seizure at home. The parents report that the child was completely healthy until this morning, when she developed a runny nose and mild cough. An hour ago, her temperature was 39.4°C (103.0°F), and she suddenly stiffened, fell to the carpet, and had rhythmic jerking of all four extremities with upward eye rolling. The episode lasted approximately 3 minutes and ceased spontaneously without intervention. The child was drowsy for about 10 minutes afterward but is now awake and interacting playfully with her mother. She has no personal or family history of epilepsy and is up-to-date on all recommended childhood immunizations, including Hib and pneumococcal conjugate vaccines. Physical examination reveals an alert, active child. Her temperature is 38.6°C (101.5°F), heart rate is 116/min, and blood pressure is 94/60 mm Hg. Examination of the ears shows bilateral erythematous, bulging tympanic membranes with decreased mobility. Neurological examination reveals normal tone, symmetric spontaneous movements, intact cranial nerves, and no nuchal rigidity, Kernig sign, or Brudzinski sign. Which of the following is the most appropriate management strategy for this patient?",
+    "options": [
+      {
+        "text": "Immediate diagnostic lumbar puncture with cerebrospinal fluid analysis to exclude occult bacterial meningitis",
+        "correct": false,
+        "explanation": "Lumbar puncture is not indicated in a fully immunized child who presents with a simple febrile seizure, has returned to normal mental status, and demonstrates no meningeal signs."
+      },
+      {
+        "text": "Non-contrast head CT scan followed by outpatient 24-hour electroencephalography",
+        "correct": false,
+        "explanation": "Neuroimaging and EEG are not recommended following a first simple febrile seizure, as findings do not alter management or predict recurrence."
+      },
+      {
+        "text": "Reassurance, parental education regarding the benign natural history, and oral amoxicillin for acute otitis media",
+        "correct": true,
+        "explanation": "This child experienced a classic simple febrile seizure. Diagnostic criteria for a simple febrile seizure include: (1) Child age 6 months to 5 years; (2) Generalized (non-focal) tonic-clonic seizure; (3) Duration < 15 minutes; (4) Occurring only once within a 24-hour period; and (5) Complete return to baseline neurological status without signs of CNS infection. In a fully vaccinated child with an identifiable extracranial infection source (acute otitis media here), a reassuring physical examination, and no signs of meningitis (no nuchal rigidity, altered sensorium, or petechial rash), no routine laboratory workup, neuroimaging (CT/MRI), lumbar puncture, or electroencephalography (EEG) is indicated. Management consists of reassuring the parents about the excellent prognosis and benign course, explaining that febrile seizures do not increase the risk of cognitive impairment or significantly alter epilepsy risk, providing symptomatic antipyretics (though antipyretics do not prevent recurrent seizures), and treating the underlying infection with oral amoxicillin."
+      },
+      {
+        "text": "Initiation of daily maintenance phenobarbital therapy to prevent recurrent febrile seizures",
+        "correct": false,
+        "explanation": "Antiseizure medications are not indicated for simple febrile seizures; potential medication adverse effects (behavioral and cognitive decline) far outweigh the benign risk of recurrent febrile seizures."
+      },
+      {
+        "text": "Prescription of rectal diazepam gel to be administered at the earliest onset of any future fever",
+        "correct": false,
+        "explanation": "Rectal diazepam or intranasal midazolam rescue therapy is reserved for prolonged (> 5 minutes) or cluster seizures; it is not given prophylactically upon fever onset."
+      }
+    ],
+    "explanation": "This child experienced a classic simple febrile seizure. Diagnostic criteria for a simple febrile seizure include: (1) Child age 6 months to 5 years; (2) Generalized (non-focal) tonic-clonic seizure; (3) Duration < 15 minutes; (4) Occurring only once within a 24-hour period; and (5) Complete return to baseline neurological status without signs of CNS infection. In a fully vaccinated child with an identifiable extracranial infection source (acute otitis media here), a reassuring physical examination, and no signs of meningitis (no nuchal rigidity, altered sensorium, or petechial rash), no routine laboratory workup, neuroimaging (CT/MRI), lumbar puncture, or electroencephalography (EEG) is indicated. Management consists of reassuring the parents about the excellent prognosis and benign course, explaining that febrile seizures do not increase the risk of cognitive impairment or significantly alter epilepsy risk, providing symptomatic antipyretics (though antipyretics do not prevent recurrent seizures), and treating the underlying infection with oral amoxicillin. Differentiate Febrile Seizures: - SIMPLE FEBRILE SEIZURE: Generalized tonic-clonic, duration < 15 minutes, occurs only ONCE in 24 hours, normal baseline neurological status, child age 6 months to 5 years. Management: REASSURANCE, education, antipyretics for comfort (does not prevent seizure recurrence), NO routine LP, EEG, or neuroimaging unless meningeal signs or persistent altered mental status are present. - COMPLEX: Focal onset, duration >= 15 min, or recurrent within 24 hours (requires workup).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Simple vs Complex Febrile Seizures Evaluation.",
+    "keyPoints": [
+      "Simple vs Complex Febrile Seizures Evaluation",
+      "Differentiate Febrile Seizures: - SIMPLE FEBRILE SEIZURE: Generalized tonic-clonic, duration < 15 minutes, occurs only ONCE in 24 hours, normal baseline neurological status, child "
+    ],
+    "references": [
+      {
+        "label": "Subcommittee on Febrile Seizures; American Academy of Pediatrics. Febrile seizures: clinical practice guideline for the long-term management of the child with simple febrile seizures. Pediatrics. 2012;129(6):e1628-e1633. PMID: 22614778.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22614778/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0134",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Developmental Dysplasia of the Hip Imaging Modalities",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 6-week-old female infant is brought to the pediatric outpatient clinic for a routine well-child examination. She was born at 39 weeks of gestation via uncomplicated cesarean delivery due to frank breech presentation. Her birth weight was 3,400 g, and she has been breastfeeding vigorously with appropriate weight gain. Her mother has a history of wearing a corrective hip harness during infancy. On physical examination, the infant appears well and active. Lower extremity examination demonstrates asymmetric thigh skin folds and a subtle difference in knee height when the hips and knees are flexed to 90 degrees (positive Galeazzi sign). On performing the Ortolani maneuver with gentle abduction and anterior lifting of the right greater trochanter, a distinct palpable and audible \"clunk\" is felt as the femoral head relocates into the acetabulum. The Barlow maneuver elicits posterior dislocation of the right hip. Which of the following is the most appropriate imaging study to confirm the diagnosis and guide management in this infant?",
+    "options": [
+      {
+        "text": "Anteroposterior and frog-leg lateral pelvic radiographs",
+        "correct": false,
+        "explanation": "Pelvic radiography is inaccurate and insensitive in infants under 4 to 6 months of age because the cartilaginous femoral head has not yet ossified, making X-ray unreliable."
+      },
+      {
+        "text": "Pelvic magnetic resonance imaging under sedation",
+        "correct": false,
+        "explanation": "MRI is reserved for complex post-reduction surveillance following closed or open reduction in older children, not initial screening or diagnosis in an infant."
+      },
+      {
+        "text": "Radionuclide technetium-99m bone scintigraphy",
+        "correct": false,
+        "explanation": "Bone scans evaluate osteomyelitis or avascular necrosis; they have no role in anatomical assessment of hip dysplasia."
+      },
+      {
+        "text": "Bilateral hip ultrasonography",
+        "correct": true,
+        "explanation": "This 6-week-old infant has classic clinical findings and high-risk features for developmental dysplasia of the hip (DDH): female sex, breech presentation, positive family history, asymmetric folds, positive Galeazzi sign, and a positive Ortolani/Barlow examination. The diagnostic imaging modality of choice depends strictly on patient age: (1) In infants younger than 4 to 6 months of age, bilateral hip ultrasonography is the investigation of choice because the femoral head and acetabulum are predominantly cartilaginous and radiolucent on plain X-rays; ultrasound allows dynamic visualization of femoral head stability and precise measurement of acetabular morphology (alpha angle). (2) In infants 4 to 6 months of age and older, plain anteroposterior and frog-leg lateral radiographs of the pelvis become reliable because the femoral head secondary ossification center has begun to calcify. Because this patient is 6 weeks old, hip ultrasound is the correct test. Once confirmed, treatment is typically an abduction orthosis (Pavlik harness)."
+      },
+      {
+        "text": "Repeat clinical physical examination alone at 6 months of age without imaging",
+        "correct": false,
+        "explanation": "A palpable Ortolani \"clunk\" indicates a dislocated hip requiring immediate imaging confirmation and orthopedic intervention; delaying until 6 months leads to permanent dysplasia, false acetabulum formation, and early osteoarthritis."
+      }
+    ],
+    "explanation": "This 6-week-old infant has classic clinical findings and high-risk features for developmental dysplasia of the hip (DDH): female sex, breech presentation, positive family history, asymmetric folds, positive Galeazzi sign, and a positive Ortolani/Barlow examination. The diagnostic imaging modality of choice depends strictly on patient age: (1) In infants younger than 4 to 6 months of age, bilateral hip ultrasonography is the investigation of choice because the femoral head and acetabulum are predominantly cartilaginous and radiolucent on plain X-rays; ultrasound allows dynamic visualization of femoral head stability and precise measurement of acetabular morphology (alpha angle). (2) In infants 4 to 6 months of age and older, plain anteroposterior and frog-leg lateral radiographs of the pelvis become reliable because the femoral head secondary ossification center has begun to calcify. Because this patient is 6 weeks old, hip ultrasound is the correct test. Once confirmed, treatment is typically an abduction orthosis (Pavlik harness). Evaluate Developmental Dysplasia of the Hip (DDH): Risk factors: breech presentation, female sex, family history. Physical exam: positive Barlow (dislocates hip) or Ortolani (reduces hip with \"clunk\"), asymmetric gluteal/inguinal folds. IMAGING CHOICE DEPENDS ON AGE: - AGE < 4-6 MONTHS: ULTRASOUND OF THE HIPS (femoral head is cartilaginous and radiolucent on X-ray); - AGE >= 4-6 MONTHS: ANTEROPOSTERIOR HIP RADIOGRAPHY (femoral head ossification center is visible). Treatment < 6 months: Pavlik harness.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Developmental Dysplasia of the Hip Imaging Modalities.",
+    "keyPoints": [
+      "Developmental Dysplasia of the Hip Imaging Modalities",
+      "Evaluate Developmental Dysplasia of the Hip (DDH): Risk factors: breech presentation, female sex, family history. Physical exam: positive Barlow (dislocates hip) or Ortolani (reduc"
+    ],
+    "references": [
+      {
+        "label": "Shaw BA, et al. Evaluation and Referral for Developmental Dysplasia of the Hip in Infants. Pediatrics. 2016;138(6):e20163107. PMID: 27940749.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27940749/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0135",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Croup (Laryngotracheobronchitis) Severity Stratification",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 14-month-old boy is brought to the emergency department by his mother at 2:00 AM because of sudden worsening of difficulty breathing and a harsh, barking cough that sounds like a seal. The child has had low-grade fevers, rhinorrhea, and mild hoarseness for the past 2 days. On physical examination, the child is sitting upright on his mother's lap, visibly anxious and agitated. His temperature is 38.2°C (100.8°F), heart rate is 152/min, blood pressure is 98/62 mm Hg, respirations are 42/min, and oxygen saturation is 93% on room air. Audible inspiratory stridor is clearly present while the child is resting quietly without crying. There are marked suprasternal, intercostal, and subcostal retractions. Examination of the oropharynx is deferred to avoid agitation, but no drooling is observed. Auscultation reveals decreased air entry bilaterally with transmitted upper airway sounds. Which of the following is the most appropriate immediate therapy for this patient?",
+    "options": [
+      {
+        "text": "Inhaled albuterol sulfate nebulization and intravenous methylprednisolone",
+        "correct": false,
+        "explanation": "Albuterol is a beta-2 agonist that bronchodilates lower airway smooth muscle in asthma and viral wheezing; it does not reduce subglottic mucosal edema in croup and may cause tachycardia."
+      },
+      {
+        "text": "Immediate direct laryngoscopy and endotracheal intubation in the resuscitation suite",
+        "correct": false,
+        "explanation": "Invasive airway management is reserved for impending respiratory failure (exhaustion, lethargy, severe hypoxia); nebulized epinephrine and steroids rapidly relieve obstruction in almost all patients."
+      },
+      {
+        "text": "Initiation of intravenous ceftriaxone and vancomycin for suspected bacterial tracheitis",
+        "correct": false,
+        "explanation": "Antibiotics are indicated for bacterial tracheitis (toxic appearance, high fevers, copiously purulent tracheal secretions unresponsive to epinephrine); here viral croup is the primary diagnosis."
+      },
+      {
+        "text": "Application of warm humidified mist therapy and discharge home with close follow-up",
+        "correct": false,
+        "explanation": "Humidified mist has not been shown to improve croup outcomes in controlled clinical trials; discharging an infant with stridor at rest without epinephrine/steroids is unsafe."
+      },
+      {
+        "text": "Administration of nebulized racemic epinephrine and a single dose of oral or intramuscular dexamethasone",
+        "correct": true,
+        "explanation": "This child presents with moderate-to-severe croup (laryngotracheobronchitis, most commonly caused by parainfluenza virus). The key clinical feature dictating aggressive therapy is the presence of INSPIRATORY STRIDOR AT REST along with marked intercostal and suprasternal retractions. Mild croup (barking cough without stridor at rest) is treated with a single dose of oral dexamethasone alone. However, when stridor at rest, respiratory distress, or hypoxemia is present, the immediate treatment of choice is NEBULIZED RACEMIC EPINEPHRINE combined with DEXAMETHASONE (oral, IM, or IV). Epinephrine stimulates alpha-1 adrenergic receptors in the subglottic mucosa, causing rapid arteriolar vasoconstriction, fluid reabsorption, and dramatic reduction of subglottic airway edema within 10 to 30 minutes. Dexamethasone provides long-acting anti-inflammatory effects that peak at 4 to 6 hours. After epinephrine, patients must be observed for at least 2 to 3 hours to monitor for rebound airway swelling."
+      }
+    ],
+    "explanation": "This child presents with moderate-to-severe croup (laryngotracheobronchitis, most commonly caused by parainfluenza virus). The key clinical feature dictating aggressive therapy is the presence of INSPIRATORY STRIDOR AT REST along with marked intercostal and suprasternal retractions. Mild croup (barking cough without stridor at rest) is treated with a single dose of oral dexamethasone alone. However, when stridor at rest, respiratory distress, or hypoxemia is present, the immediate treatment of choice is NEBULIZED RACEMIC EPINEPHRINE combined with DEXAMETHASONE (oral, IM, or IV). Epinephrine stimulates alpha-1 adrenergic receptors in the subglottic mucosa, causing rapid arteriolar vasoconstriction, fluid reabsorption, and dramatic reduction of subglottic airway edema within 10 to 30 minutes. Dexamethasone provides long-acting anti-inflammatory effects that peak at 4 to 6 hours. After epinephrine, patients must be observed for at least 2 to 3 hours to monitor for rebound airway swelling. Manage Croup (parainfluenza virus subglottic tracheal narrowing / \"steeple sign\"): - MILD (barking cough, hoarseness, NO stridor at rest): Single dose of oral DEXAMETHASONE (0.6 mg/kg). - MODERATE-TO-SEVERE (INSPIRATORY STRIDOR AT REST, retractions, tachypnea): NEBULIZED RACEMIC EPINEPHRINE (causes alpha-1 mucosal vasoconstriction, rapidly reducing subglottic edema) PLUS ORAL/IM/IV DEXAMETHASONE. Observe for >= 2-3 hours after epinephrine to ensure no rebound stridor occurs.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Croup (Laryngotracheobronchitis) Severity Stratification.",
+    "keyPoints": [
+      "Croup (Laryngotracheobronchitis) Severity Stratification",
+      "Manage Croup (parainfluenza virus subglottic tracheal narrowing / \"steeple sign\"): - MILD (barking cough, hoarseness, NO stridor at rest): Single dose of oral DEXAMETHASONE (0.6 mg"
+    ],
+    "references": [
+      {
+        "label": "Bjornson C, et al. Croup in children. CMAJ. 2013;185(15):1317-1323. PMID: 23979873.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23979873/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0136",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Pertussis Diagnostic Testing and Post-Exposure Prophylaxis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 16-year-old high school student is brought to the clinic because of a relentless, exhausting cough that has persisted for 3 weeks. The illness began with mild nasal congestion and a low-grade fever that resolved, but the cough has progressively worsened into violent paroxysms during which he turns red in the face and struggles to catch his breath. Several coughing bouts have ended in vigorous vomiting. He received all recommended childhood immunizations, including DTaP, but has not received a tetanus-diphtheria-pertussis booster in the past 6 years. His 3-week-old sister and his parents reside in the same home. On physical examination, the patient is afebrile, well-nourished, and in no acute distress between coughing paroxysms. Examination of the chest reveals clear breath sounds bilaterally without wheezing or crackles. Complete blood count reveals: hemoglobin 14.2 g/dL, white blood cell count 26,500/mm³ with 78% lymphocytes and 18% neutrophils, and platelet count 310,000/mm³. Nasopharyngeal swab PCR confirms Bordetella pertussis. In addition to prescribing oral azithromycin for the patient, which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Prescribe oral azithromycin post-exposure prophylaxis for all household contacts regardless of their immunization status",
+        "correct": true,
+        "explanation": "This adolescent has classic whooping cough (pertussis) in the paroxysmal stage: episodic violent coughing fits, posttussive emesis, and marked absolute lymphocytosis (stimulated by pertussis toxin). Immunity following childhood acellular pertussis vaccination wanes significantly after 3 to 5 years, leaving adolescents and adults susceptible. Management of pertussis consists of: (1) Treating the patient with a macrolide (oral azithromycin is preferred, given as 500 mg on day 1 followed by 250 mg daily on days 2-5; or 10 mg/kg for infants) to eradicate nasopharyngeal carriage and halt transmission, though it may not shorten cough duration once the paroxysmal stage is established; and (2) Administering POST-EXPOSURE ANTIMICROBIAL PROPHYLAXIS (PEP) WITH A MACROLIDE TO ALL HOUSEHOLD AND CLOSE CONTACTS REGARDLESS OF THEIR VACCINATION STATUS. This is especially vital in this family because the patient has a 3-week-old infant sister at catastrophic risk of fatal pertussis apnea, pulmonary hypertension, and encephalopathy."
+      },
+      {
+        "text": "Administer the Tdap vaccine booster to the patient immediately to abort the active infection",
+        "correct": false,
+        "explanation": "Vaccination does not treat active pertussis infection or provide rapid protection; post-exposure antibiotic prophylaxis with a macrolide is required."
+      },
+      {
+        "text": "Withhold post-exposure prophylaxis for family members unless they develop symptoms of a cough",
+        "correct": false,
+        "explanation": "Waiting for symptoms allows pertussis transmission to the high-risk 3-week-old infant, in whom pertussis can cause fatal apnea without a typical whoop."
+      },
+      {
+        "text": "Prescribe oral amoxicillin-clavulanate for the patient and close contacts",
+        "correct": false,
+        "explanation": "Beta-lactam antibiotics are clinically ineffective against Bordetella pertussis; macrolides (azithromycin or clarithromycin) or trimethoprim-sulfamethoxazole are the only effective agents."
+      },
+      {
+        "text": "Perform bone marrow biopsy to evaluate for suspected chronic lymphocytic leukemia given lymphocytosis",
+        "correct": false,
+        "explanation": "Profound lymphocytosis is a physiological response to pertussis toxin (which inhibits lymphocyte extravasation into tissues), not a neoplastic hematologic disorder."
+      }
+    ],
+    "explanation": "This adolescent has classic whooping cough (pertussis) in the paroxysmal stage: episodic violent coughing fits, posttussive emesis, and marked absolute lymphocytosis (stimulated by pertussis toxin). Immunity following childhood acellular pertussis vaccination wanes significantly after 3 to 5 years, leaving adolescents and adults susceptible. Management of pertussis consists of: (1) Treating the patient with a macrolide (oral azithromycin is preferred, given as 500 mg on day 1 followed by 250 mg daily on days 2-5; or 10 mg/kg for infants) to eradicate nasopharyngeal carriage and halt transmission, though it may not shorten cough duration once the paroxysmal stage is established; and (2) Administering POST-EXPOSURE ANTIMICROBIAL PROPHYLAXIS (PEP) WITH A MACROLIDE TO ALL HOUSEHOLD AND CLOSE CONTACTS REGARDLESS OF THEIR VACCINATION STATUS. This is especially vital in this family because the patient has a 3-week-old infant sister at catastrophic risk of fatal pertussis apnea, pulmonary hypertension, and encephalopathy. Manage Bordetella pertussis (Whooping Cough): Clinical phases: 1. Catarrhal (mild rhinorrhea/cough); 2. Paroxysmal (severe coughing fits with inspiratory whoop and posttussive emesis/syncope); 3. Convalescent. Classic lab finding: MARKED LYMPHOCYTOSIS. Diagnosis: Nasopharyngeal swab PCR/culture. MANAGEMENT PRIORITY: 1. Treat patient with MACROLIDE (AZITHROMYCIN or clarithromycin) to reduce transmission; 2. POST-EXPOSURE ANTIMICROBIAL PROPHYLAXIS WITH ORAL AZITHROMYCIN FOR ALL CLOSE/HOUSEHOLD CONTACTS REGARDLESS OF VACCINATION STATUS (due to waning acellular vaccine immunity).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Pertussis Diagnostic Testing and Post-Exposure Prophylaxis.",
+    "keyPoints": [
+      "Pertussis Diagnostic Testing and Post-Exposure Prophylaxis",
+      "Manage Bordetella pertussis (Whooping Cough): Clinical phases: 1. Catarrhal (mild rhinorrhea/cough); 2. Paroxysmal (severe coughing fits with inspiratory whoop and posttussive emes"
+    ],
+    "references": [
+      {
+        "label": "CDC. Pertussis (Whooping Cough): Clinical Guidance and Prophylaxis. MMWR Recomm Rep. 2005;54(RR-14):1-16. PMID: 16340941.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16340941/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0137",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Acute Salicylate Toxicity Pathophysiology and Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old college student is brought to the emergency department by her roommates 4 hours after intentionally ingesting a handful of unknown over-the-counter pain pills following an emotional breakup. She complains of persistent high-pitched ringing in both ears, nausea, epigastric distress, and severe thirst. On physical examination, she is alert, flushed, and diaphoretic. Her temperature is 38.3°C (101.0°F), blood pressure is 112/68 mm Hg, heart rate is 108/min, and respirations are 32/min and notably deep. Neurological examination reveals no focal deficits. Laboratory evaluation reveals: sodium 140 mEq/L, potassium 3.8 mEq/L, chloride 104 mEq/L, bicarbonate 14 mEq/L, BUN 18 mg/dL, and creatinine 0.9 mg/dL. Arterial blood gas on room air shows: pH 7.42, PaCO2 22 mm Hg, and PaO2 96 mm Hg. Calculated serum anion gap is 22 mEq/L. Which of the following is the most appropriate initial therapy to enhance toxin elimination in this patient?",
+    "options": [
+      {
+        "text": "Intravenous administration of N-acetylcysteine bolus followed by maintenance infusion",
+        "correct": false,
+        "explanation": "N-acetylcysteine is the specific antidote for acetaminophen toxicity, which causes acute hepatic injury without early tinnitus, hyperventilation, or mixed respiratory alkalosis."
+      },
+      {
+        "text": "Continuous intravenous infusion of sodium bicarbonate to alkalinize the serum and urine",
+        "correct": true,
+        "explanation": "This patient has acute salicylate (aspirin) toxicity. Key features include tinnitus (\"ringing in the ears\"), hyperthermia (from uncoupling of mitochondrial oxidative phosphorylation), and prominent tachypnea/hyperpnea. Salicylate intoxication causes a classic pathognomonic mixed acid-base disorder: a primary respiratory alkalosis (due to direct stimulation of the medullary respiratory center causing hyperventilation and low PaCO2) and an elevated anion gap metabolic acidosis (due to accumulation of lactic acid, pyruvate, and ketoacids from uncoupled oxidative phosphorylation). This explains the normal pH (7.42) in the presence of very low PaCO2 (22) and low bicarbonate (14). MANAGEMENT: The definitive pharmacologic therapy to accelerate elimination is INTRAVENOUS SODIUM BICARBONATE URINARY ALKALINIZATION. Alkalinizing the urine (target urine pH 7.5 to 8.0) converts lipophilic salicylic acid into the charged, impermeable salicylate anion (ion trapping), preventing renal reabsorption and driving urinary excretion while keeping salicylate out of the brain. Potassium must be aggressively repleted because hypokalemia prevents urinary alkalinization."
+      },
+      {
+        "text": "Gastric lavage followed by whole-bowel irrigation with polyethylene glycol solution",
+        "correct": false,
+        "explanation": "Gastric lavage is rarely indicated, carries high risk of pulmonary aspiration, and is ineffective 4 hours after ingestion of non-sustained-release tablets."
+      },
+      {
+        "text": "Intramuscular injection of naloxone hydrochloride and flumazenil",
+        "correct": false,
+        "explanation": "Naloxone treats opioid toxicity (respiratory depression, miosis, somnolence); flumazenil carries severe seizure risks in benzodiazepine-tolerant patients."
+      },
+      {
+        "text": "Endotracheal intubation and mechanical ventilation targeting a normal PaCO2 of 40 mm Hg",
+        "correct": false,
+        "explanation": "Intubating and mechanically ventilating a salicylate-poisoned patient targeting a normal PaCO2 eliminates the patient's compensatory hyperventilation, causing catastrophic acidosis, CNS entry of salicylate, and death."
+      }
+    ],
+    "explanation": "This patient has acute salicylate (aspirin) toxicity. Key features include tinnitus (\"ringing in the ears\"), hyperthermia (from uncoupling of mitochondrial oxidative phosphorylation), and prominent tachypnea/hyperpnea. Salicylate intoxication causes a classic pathognomonic mixed acid-base disorder: a primary respiratory alkalosis (due to direct stimulation of the medullary respiratory center causing hyperventilation and low PaCO2) and an elevated anion gap metabolic acidosis (due to accumulation of lactic acid, pyruvate, and ketoacids from uncoupled oxidative phosphorylation). This explains the normal pH (7.42) in the presence of very low PaCO2 (22) and low bicarbonate (14). MANAGEMENT: The definitive pharmacologic therapy to accelerate elimination is INTRAVENOUS SODIUM BICARBONATE URINARY ALKALINIZATION. Alkalinizing the urine (target urine pH 7.5 to 8.0) converts lipophilic salicylic acid into the charged, impermeable salicylate anion (ion trapping), preventing renal reabsorption and driving urinary excretion while keeping salicylate out of the brain. Potassium must be aggressively repleted because hypokalemia prevents urinary alkalinization. Recognize Acute Salicylate (Aspirin) Toxicity: - Classic early symptom: TINNITUS, nausea, tachypnea/hyperpnea, diaphoresis. - ACID-BASE HALLMARK: MIXED PRIMARY RESPIRATORY ALKALOSIS (direct medullary respiratory center stimulation) AND HIGH ANION GAP METABOLIC ACIDOSIS (uncoupling of oxidative phosphorylation accumulating lactic acid and ketoacids). Near-normal pH with low PaCO2 and very low HCO3 confirms mixed disorder. - MANAGEMENT: 1. IV fluid resuscitation; 2. URINARY ALKALINIZATION WITH INTRAVENOUS SODIUM BICARBONATE (ion-trapping: traps charged salicylate in urine, accelerating excretion and preventing CNS entry); 3. Hemodialysis if serum salicylate > 90-100 mg/dL, altered mental status, pulmonary edema, or refractory acidosis.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Salicylate Toxicity Pathophysiology and Management.",
+    "keyPoints": [
+      "Acute Salicylate Toxicity Pathophysiology and Management",
+      "Recognize Acute Salicylate (Aspirin) Toxicity: - Classic early symptom: TINNITUS, nausea, tachypnea/hyperpnea, diaphoresis. - ACID-BASE HALLMARK: MIXED PRIMARY RESPIRATORY ALKALOSI"
+    ],
+    "references": [
+      {
+        "label": "O'Malley GF. Emergency department management of the salicylate-poisoned patient. Emerg Med Clin North Am. 2007;25(2):333-346. PMID: 17482023.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17482023/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0138",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Tricyclic Antidepressant Overdose Electrocardiogram Abnormalities",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old woman is brought to the emergency department by ambulance after being found unresponsive in her apartment with an empty bottle of amitriptyline. On arrival, she is stuporous and responds only to painful stimuli. Her temperature is 38.8°C (101.8°F), blood pressure is 82/46 mm Hg, heart rate is 128/min, and respirations are 10/min. Physical examination reveals warm, dry, flushed skin, widely dilated pupils that are sluggishly reactive to light, dry oral mucosa, and a distended, non-tympanic lower abdomen with absent bowel sounds. While an intravenous line is being placed, the patient has a 45-second generalized tonic-clonic seizure that ceases following administration of intravenous lorazepam. A 12-lead electrocardiogram demonstrates sinus tachycardia at 126/min, a PR interval of 210 ms, a QRS complex duration of 142 ms, and a prominent terminal R wave measuring 4 mm in lead aVR. Which of the following is the most appropriate immediate pharmacologic therapy to treat this patient's cardiac toxicity?",
+    "options": [
+      {
+        "text": "Intravenous physostigmine salicylate infusion",
+        "correct": false,
+        "explanation": "Physostigmine is an acetylcholinesterase inhibitor that is strictly contraindicated in TCA overdose; it precipitates asystole, refractory bradycardia, and cardiac arrest in the presence of sodium channel blockade."
+      },
+      {
+        "text": "Intravenous amiodarone hydrochloride bolus and infusion",
+        "correct": false,
+        "explanation": "Class IA, IC, and III antiarrhythmics (such as amiodarone, procainamide, and flecainide) block sodium or potassium channels and further prolong QRS and QTc intervals, worsening cardiac toxicity."
+      },
+      {
+        "text": "Intravenous hypertonic sodium bicarbonate boluses",
+        "correct": true,
+        "explanation": "This patient presents with severe tricyclic antidepressant (TCA, amitriptyline) overdose. TCAs cause a life-threatening combination of: (1) Anticholinergic toxidrome (hyperthermia, mydriasis, dry flushed skin, absent bowel sounds, urinary retention); (2) Neurological toxicity (coma, seizures); and (3) Severe cardiotoxicity due to blockade of myocardial fast voltage-gated sodium channels (phase 0 of the cardiac action potential). Cardiotoxicity manifests on ECG as QRS prolongation (> 100 ms strongly predicts seizures; > 160 ms predicts fatal ventricular tachycardia/fibrillation), right axis deviation, and a prominent terminal R wave in lead aVR (> 3 mm). The definitive antidote for TCA-induced cardiotoxicity is INTRAVENOUS SODIUM BICARBONATE (hypertonic 8.4% NaHCO3). Sodium bicarbonate acts through two synergistic mechanisms: (1) Increasing extracellular sodium concentration, which overcomes competitive sodium channel blockade; and (2) Inducing serum alkalization (target pH 7.50-7.55), which promotes the neutral, non-ionized form of the drug, facilitating its dissociation from myocardial sodium channels."
+      },
+      {
+        "text": "Intravenous calcium gluconate bolus",
+        "correct": false,
+        "explanation": "Calcium gluconate stabilizes cardiac membranes in severe hyperkalemia; it does not reverse the specific fast sodium channel blockade of tricyclic antidepressants."
+      },
+      {
+        "text": "Continuous intravenous lidocaine infusion monotherapy",
+        "correct": false,
+        "explanation": "While lidocaine is a class IB agent occasionally considered in refractory TCA-induced ventricular arrhythmias, intravenous sodium bicarbonate is the primary first-line antidote."
+      }
+    ],
+    "explanation": "This patient presents with severe tricyclic antidepressant (TCA, amitriptyline) overdose. TCAs cause a life-threatening combination of: (1) Anticholinergic toxidrome (hyperthermia, mydriasis, dry flushed skin, absent bowel sounds, urinary retention); (2) Neurological toxicity (coma, seizures); and (3) Severe cardiotoxicity due to blockade of myocardial fast voltage-gated sodium channels (phase 0 of the cardiac action potential). Cardiotoxicity manifests on ECG as QRS prolongation (> 100 ms strongly predicts seizures; > 160 ms predicts fatal ventricular tachycardia/fibrillation), right axis deviation, and a prominent terminal R wave in lead aVR (> 3 mm). The definitive antidote for TCA-induced cardiotoxicity is INTRAVENOUS SODIUM BICARBONATE (hypertonic 8.4% NaHCO3). Sodium bicarbonate acts through two synergistic mechanisms: (1) Increasing extracellular sodium concentration, which overcomes competitive sodium channel blockade; and (2) Inducing serum alkalization (target pH 7.50-7.55), which promotes the neutral, non-ionized form of the drug, facilitating its dissociation from myocardial sodium channels. Recognize TCA Overdose (amitriptyline, nortriptyline): 1. Anticholinergic toxidrome (hyperthermia, mydriasis, flushed dry skin, delirium, urinary retention); 2. CNS toxicity (seizures, coma); 3. CARDIOVASCULAR TOXICITY (hypotension and VENTRICULAR DYSRHYTHMIAS due to myocardial fast sodium channel blockade). ECG FINDINGS: QRS PROLONGATION (> 100 ms predicts seizures, > 160 ms predicts ventricular arrhythmias), right axis deviation, terminal R wave > 3 mm in aVR. TREATMENT: INTRAVENOUS SODIUM BICARBONATE (increases extracellular Na+ gradient and elevates serum pH, dissociating the drug from cardiac sodium channels).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Tricyclic Antidepressant Overdose Electrocardiogram Abnormalities.",
+    "keyPoints": [
+      "Tricyclic Antidepressant Overdose Electrocardiogram Abnormalities",
+      "Recognize TCA Overdose (amitriptyline, nortriptyline): 1. Anticholinergic toxidrome (hyperthermia, mydriasis, flushed dry skin, delirium, urinary retention); 2. CNS toxicity (seizu"
+    ],
+    "references": [
+      {
+        "label": "Body R, et al. Guidelines in Emergency Medicine Network (GEMNet): guideline for the management of tricyclic antidepressant overdose. Emerg Med J. 2011;28(4):347-368. PMID: 21398642.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21398642/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0139",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Organophosphate and Carbamate Poisoning Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old agricultural worker is brought to the emergency department by his coworkers 90 minutes after accidentally spilling an industrial pesticide container over his clothing and bare skin while spraying an orchard. He is confused, lethargic, and profusely sweating. His temperature is 36.2°C (97.2°F), blood pressure is 88/54 mm Hg, heart rate is 42/min, and respirations are 28/min with an oxygen saturation of 88% on room air. Physical examination reveals pinpoint pupils (1 mm bilaterally) that do not react to light, copious frothy secretions pouring from his mouth and nose, tearing from both eyes, and diffuse involuntary muscle fasciculations involving the muscles of the chest, arms, and thighs. Auscultation of the lungs reveals diffuse bilateral wheezing and coarse wet rhonchi throughout all lung fields. The patient's skin is damp and smells strongly of petroleum-based solvents. The emergency medical team dons protective equipment and strips the patient's contaminated clothes. In addition to airway support and supplemental oxygen, which of the following is the most appropriate initial pharmacologic therapy?",
+    "options": [
+      {
+        "text": "Intravenous pralidoxime chloride monotherapy without prior atropine administration",
+        "correct": false,
+        "explanation": "Pralidoxime alone does not immediately reverse life-threatening muscarinic bronchospasm and bronchorrhea, and can temporarily worsen symptoms if given without prior atropine."
+      },
+      {
+        "text": "Intravenous diphenhydramine hydrochloride injection",
+        "correct": false,
+        "explanation": "Diphenhydramine has mild anticholinergic properties but is completely inadequate to overcome massive organophosphate-induced cholinergic crisis and provides no enzyme reactivation."
+      },
+      {
+        "text": "Intravenous succinylcholine chloride to facilitate rapid sequence intubation",
+        "correct": false,
+        "explanation": "Succinylcholine is metabolized by pseudocholinesterase; in organophosphate poisoning, its breakdown is paralyzed, leading to prolonged, potentially fatal neuromuscular blockade."
+      },
+      {
+        "text": "Intravenous atropine sulfate titrated to the clearance of respiratory secretions and wheezing, followed by pralidoxime",
+        "correct": true,
+        "explanation": "This patient has acute organophosphate pesticide poisoning, causing irreversible inhibition of acetylcholinesterase and massive accumulation of acetylcholine at both muscarinic and nicotinic cholinergic synapses. The clinical picture is dominated by muscarinic hyperstimulation, remembered by the mnemonic DUMBBELLS (Diarrhea, Urination, Miosis, Bronchorrhea, Bronchospasm, Bradycardia, Emesis, Lacrimation, Salivation). The primary cause of death is asphyxiation from the \"killer Bs\": copious bronchorrhea, severe bronchospasm, and respiratory depression, compounded by bradycardia. The immediate, life-saving initial pharmacologic therapy is INTRAVENOUS ATROPINE SULFATE. Atropine is a competitive antagonist at muscarinic acetylcholine receptors. It must be administered in escalating doses (2 to 4 mg IV every 5 minutes) until tracheobronchial secretions dry up, bronchospasm resolves, and oxygenation improves (tachycardia and pupillary dilation are not the therapeutic endpoints). Following atropine, PRALIDOXIME (2-PAM) is administered to regenerate phosphorylated acetylcholinesterase at nicotinic synapses, relieving muscle weakness and diaphragmatic paralysis before irreversible \"aging\" of the enzyme-toxin bond occurs."
+      },
+      {
+        "text": "Intramuscular epinephrine injection for suspected occupational anaphylactic shock",
+        "correct": false,
+        "explanation": "While wheezing is present, pinpoint pupils, copious secretions, severe bradycardia, and widespread muscle fasciculations distinguish cholinergic toxicity from anaphylaxis."
+      }
+    ],
+    "explanation": "This patient has acute organophosphate pesticide poisoning, causing irreversible inhibition of acetylcholinesterase and massive accumulation of acetylcholine at both muscarinic and nicotinic cholinergic synapses. The clinical picture is dominated by muscarinic hyperstimulation, remembered by the mnemonic DUMBBELLS (Diarrhea, Urination, Miosis, Bronchorrhea, Bronchospasm, Bradycardia, Emesis, Lacrimation, Salivation). The primary cause of death is asphyxiation from the \"killer Bs\": copious bronchorrhea, severe bronchospasm, and respiratory depression, compounded by bradycardia. The immediate, life-saving initial pharmacologic therapy is INTRAVENOUS ATROPINE SULFATE. Atropine is a competitive antagonist at muscarinic acetylcholine receptors. It must be administered in escalating doses (2 to 4 mg IV every 5 minutes) until tracheobronchial secretions dry up, bronchospasm resolves, and oxygenation improves (tachycardia and pupillary dilation are not the therapeutic endpoints). Following atropine, PRALIDOXIME (2-PAM) is administered to regenerate phosphorylated acetylcholinesterase at nicotinic synapses, relieving muscle weakness and diaphragmatic paralysis before irreversible \"aging\" of the enzyme-toxin bond occurs. Manage Organophosphate Toxicity (irreversible acetylcholinesterase inhibition leading to acetylcholine excess): - MUSCARINIC TOXIDROME (DUMBBELLS: Diarrhea, Urination, Miosis, Bronchorrhea/Bronchospasm/Bradycardia, Emesis, Lacrimation, Salivation). Killer \"Bs\": Bronchorrhea, Bronchospasm, Bradycardia. - NICOTINIC SYMPTOMS: Muscle fasciculations, weakness, diaphragmatic paralysis. - IMMEDIATE MANAGEMENT: 1. PPE/Decontamination; 2. ATROPINE FIRST (competitive muscarinic antagonist; titrate until pulmonary secretions clear and bronchospasm resolves); 3. PRALIDOXIME (2-PAM) SECOND (regenerates acetylcholinesterase at both muscarinic and nicotinic receptors before \"aging\" occurs).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Organophosphate and Carbamate Poisoning Management.",
+    "keyPoints": [
+      "Organophosphate and Carbamate Poisoning Management",
+      "Manage Organophosphate Toxicity (irreversible acetylcholinesterase inhibition leading to acetylcholine excess): - MUSCARINIC TOXIDROME (DUMBBELLS: Diarrhea, Urination, Miosis, Bron"
+    ],
+    "references": [
+      {
+        "label": "Eddleston M, et al. Management of acute organophosphorus pesticide poisoning. Lancet. 2008;371(9612):597-607. PMID: 18280330.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18280330/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0140",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Toxic Alcohol Ingestion Differentiation and Treatment",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 48-year-old man with severe alcohol use disorder is brought to the emergency department by emergency medical services after being found disoriented, stumbling, and vomiting outside an automotive repair shop. On presentation, he is somnolent but arousable. He reports severe bilateral flank pain, nausea, and vomiting, but denies visual changes. His temperature is 36.5°C (97.7°F), blood pressure is 154/92 mm Hg, heart rate is 104/min, and respirations are 26/min and deep. Neurological examination reveals cranial nerves intact, no focal motor deficits, and absent asterixis. Physical examination of the eyes reveals normal optic discs with sharp margins and no hyperemia. Laboratory evaluation reveals: sodium 140 mEq/L, potassium 4.8 mEq/L, chloride 100 mEq/L, bicarbonate 10 mEq/L, BUN 38 mg/dL, creatinine 3.2 mg/dL (baseline 0.9 mg/dL 3 months ago), and serum glucose 98 mg/dL. Measured serum osmolality is 342 mOsm/kg H2O. Arterial blood gas shows: pH 7.22, PaCO2 25 mm Hg, and PaO2 94 mm Hg. Urinalysis reveals 1+ protein, microscopic hematuria, and numerous needle- and envelope-shaped birefringent crystals under polarized light microscopy. Which of the following is the most appropriate immediate pharmacologic therapy for this patient?",
+    "options": [
+      {
+        "text": "Intravenous folinic acid (leucovorin) infusion monotherapy",
+        "correct": false,
+        "explanation": "Folinic acid is an adjunct used in methanol toxicity to promote the metabolism of formic acid to carbon dioxide and water; it does not block ethylene glycol metabolism."
+      },
+      {
+        "text": "Intravenous thiamine, folate, and dextrose 50% solution alone",
+        "correct": false,
+        "explanation": "While thiamine and pyridoxine are useful cofactors that shift ethylene glycol metabolism toward less toxic alpha-hydroxy-beta-ketoadipate, they are adjunctive and cannot substitute for fomepizole."
+      },
+      {
+        "text": "Intravenous deferoxamine mesylate chelation therapy",
+        "correct": false,
+        "explanation": "Deferoxamine is the specific chelator for acute iron poisoning (radiopaque pills on X-ray, gastrointestinal hemorrhage); it has no activity in toxic alcohol ingestions."
+      },
+      {
+        "text": "Oral activated charcoal administration via nasogastric tube",
+        "correct": false,
+        "explanation": "Small polar molecules like alcohols (ethylene glycol, methanol, ethanol) do not bind to activated charcoal; charcoal is ineffective and carries an aspiration risk in somnolent patients."
+      },
+      {
+        "text": "Intravenous fomepizole loading dose to inhibit alcohol dehydrogenase",
+        "correct": true,
+        "explanation": "This patient has acute ethylene glycol ingestion (found near an automotive shop where antifreeze is kept). Key diagnostic findings include: (1) High anion gap metabolic acidosis (AG = 140 - [100 + 10] = 30 mEq/L); (2) High serum osmolal gap: calculated osmolality = 2(Na) + Glucose/18 + BUN/2.8 = 2(140) + 98/18 + 38/2.8 = 280 + 5.4 + 13.6 = 299 mOsm/kg; osmolal gap = measured 342 - calculated 299 = 43 mOsm/kg (normal < 10); (3) Acute kidney injury with oliguria and flank pain; and (4) Urinalysis demonstrating characteristic envelope-shaped or dumbbell-shaped calcium oxalate crystals (oxalate binds calcium in tubular fluid, precipitating acute tubular injury). In contrast, methanol causes optic disc hyperemia and \"snowfield\" blindness via formic acid. The immediate antidote is INTRAVENOUS FOMEPIZOLE (4-methylpyrazole), a potent competitive inhibitor of alcohol dehydrogenase that blocks the enzymatic conversion of ethylene glycol to its toxic nephrotoxic metabolites (glycolaldehyde, glycolic acid, and oxalic acid). Intravenous hemodialysis is also indicated given severe metabolic acidosis (pH 7.22) and acute renal failure."
+      }
+    ],
+    "explanation": "This patient has acute ethylene glycol ingestion (found near an automotive shop where antifreeze is kept). Key diagnostic findings include: (1) High anion gap metabolic acidosis (AG = 140 - [100 + 10] = 30 mEq/L); (2) High serum osmolal gap: calculated osmolality = 2(Na) + Glucose/18 + BUN/2.8 = 2(140) + 98/18 + 38/2.8 = 280 + 5.4 + 13.6 = 299 mOsm/kg; osmolal gap = measured 342 - calculated 299 = 43 mOsm/kg (normal < 10); (3) Acute kidney injury with oliguria and flank pain; and (4) Urinalysis demonstrating characteristic envelope-shaped or dumbbell-shaped calcium oxalate crystals (oxalate binds calcium in tubular fluid, precipitating acute tubular injury). In contrast, methanol causes optic disc hyperemia and \"snowfield\" blindness via formic acid. The immediate antidote is INTRAVENOUS FOMEPIZOLE (4-methylpyrazole), a potent competitive inhibitor of alcohol dehydrogenase that blocks the enzymatic conversion of ethylene glycol to its toxic nephrotoxic metabolites (glycolaldehyde, glycolic acid, and oxalic acid). Intravenous hemodialysis is also indicated given severe metabolic acidosis (pH 7.22) and acute renal failure. Differentiate Toxic Alcohols: Both present with HIGH OSMOLAL GAP and HIGH ANION GAP METABOLIC ACIDOSIS. - ETHYLENE GLYCOL: Metabolized by alcohol dehydrogenase to GLYCOLIC ACID and OXALIC ACID -> ACUTE KIDNEY INJURY, flank pain, and ENVELOPE-SHAPED CALCIUM OXALATE CRYSTALS in urine (positive Wood lamp fluorescence). - METHANOL: Metabolized to FORMIC ACID -> OPTIC PAPILLITIS, \"snowfield\" visual loss, and retinal edema. - TREATMENT FOR BOTH: 1. FOMEPIZOLE (competitive inhibitor of alcohol dehydrogenase, preventing toxic metabolite generation); 2. HEMODIALYSIS for severe refractory acidosis (pH < 7.25), renal failure, vision loss, or level > 50 mg/dL.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Toxic Alcohol Ingestion Differentiation and Treatment.",
+    "keyPoints": [
+      "Toxic Alcohol Ingestion Differentiation and Treatment",
+      "Differentiate Toxic Alcohols: Both present with HIGH OSMOLAL GAP and HIGH ANION GAP METABOLIC ACIDOSIS. - ETHYLENE GLYCOL: Metabolized by alcohol dehydrogenase to GLYCOLIC ACID and"
+    ],
+    "references": [
+      {
+        "label": "Kraut JA, et al. Toxic Alcohol Ingestions: Clinical Features, Diagnosis, and Management. Clin J Am Soc Nephrol. 2018;13(4):653-663. PMID: 28947545.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28947545/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0141",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Carbon Monoxide vs Cyanide Poisoning Differentiation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 58-year-old man is brought to the emergency department after being rescued by firefighters from a burning apartment building where he was trapped in an enclosed bedroom for 25 minutes. On arrival, he is somnolent, responds slowly to questions, and complains of a severe, throbbing headache and chest tightness. His medical history is significant for coronary artery disease with prior stent placement. His temperature is 37.1°C (98.8°F), blood pressure is 148/88 mm Hg, heart rate is 112/min, and respirations are 22/min. Standard pulse oximetry shows 99% while breathing ambient air. Physical examination reveals soot in the nares and oral cavity but no facial burns, stridor, or blistering. Cardiovascular examination reveals regular tachycardia without murmurs. A 12-lead electrocardiogram demonstrates sinus tachycardia with 1.5-mm horizontal ST-segment depressions in leads V4 through V6. Serum troponin I is 0.42 ng/mL (normal < 0.04 ng/mL). Venous blood gas co-oximetry demonstrates a carboxyhemoglobin level of 32%. Serum lactate is 3.1 mmol/L. High-flow 100% oxygen is immediately applied via a non-rebreather face mask. Which of the following is the most appropriate next step in management for this patient?",
+    "options": [
+      {
+        "text": "Transfer to a specialized hyperbaric facility for hyperbaric oxygen therapy",
+        "correct": true,
+        "explanation": "This patient has severe acute carbon monoxide (CO) poisoning complicated by end-organ myocardial ischemia and altered mental status. In enclosed space fires, CO is produced by incomplete combustion of hydrocarbons. CO binds to hemoglobin with an affinity > 200 times higher than oxygen, forming carboxyhemoglobin (COHb), which impairs oxygen delivery and shifts the oxygen-hemoglobin dissociation curve to the left, starving tissues of oxygen. Standard pulse oximeters cannot distinguish carboxyhemoglobin from oxyhemoglobin, falsely registering a normal 99% saturation; definitive diagnosis requires CO-oximetry on arterial or venous blood. While 100% normobaric oxygen via a tight-fitting non-rebreather mask is initiated immediately (reducing CO half-life from ~300 minutes to ~90 minutes), HYPERBARIC OXYGEN (HBO) THERAPY further shortens the half-life to ~30 minutes and reduces long-term delayed neuropsychiatric sequelae. Clear indications for HBO therapy include: (1) Carboxyhemoglobin level > 25% (or > 15% in pregnant women); (2) Transient or persistent loss of consciousness; (3) Acute neurological deficits or confusion; and (4) Evidence of myocardial ischemia (ECG changes or elevated troponin) or severe metabolic acidosis."
+      },
+      {
+        "text": "Intravenous administration of hydroxocobalamin infusion",
+        "correct": false,
+        "explanation": "Hydroxocobalamin is the antidote for cyanide poisoning (which typically causes profound lactic acidosis > 8-10 mmol/L and cardiovascular collapse); here lactate is only mildly elevated (3.1) and COHb is 32% with myocardial ischemia, making hyperbaric oxygen the priority."
+      },
+      {
+        "text": "Weaning supplemental oxygen as soon as pulse oximetry reaches 95%",
+        "correct": false,
+        "explanation": "Pulse oximetry is falsely elevated by carboxyhemoglobin; oxygen therapy must never be guided by standard pulse oximetry in CO poisoning."
+      },
+      {
+        "text": "Immediate administration of sublingual nitroglycerin and intravenous unfractionated heparin",
+        "correct": false,
+        "explanation": "While ST depressions and elevated troponin indicate demand myocardial ischemia, the primary underlying driver is profound tissue hypoxia from carboxyhemoglobin; hyperbaric oxygen is paramount."
+      },
+      {
+        "text": "Intravenous infusion of methylene blue solution",
+        "correct": false,
+        "explanation": "Methylene blue is the specific antidote for methemoglobinemia (chocolate-brown blood, oxygen saturation ~85% unresponsive to oxygen); it has no role in carbon monoxide poisoning."
+      }
+    ],
+    "explanation": "This patient has severe acute carbon monoxide (CO) poisoning complicated by end-organ myocardial ischemia and altered mental status. In enclosed space fires, CO is produced by incomplete combustion of hydrocarbons. CO binds to hemoglobin with an affinity > 200 times higher than oxygen, forming carboxyhemoglobin (COHb), which impairs oxygen delivery and shifts the oxygen-hemoglobin dissociation curve to the left, starving tissues of oxygen. Standard pulse oximeters cannot distinguish carboxyhemoglobin from oxyhemoglobin, falsely registering a normal 99% saturation; definitive diagnosis requires CO-oximetry on arterial or venous blood. While 100% normobaric oxygen via a tight-fitting non-rebreather mask is initiated immediately (reducing CO half-life from ~300 minutes to ~90 minutes), HYPERBARIC OXYGEN (HBO) THERAPY further shortens the half-life to ~30 minutes and reduces long-term delayed neuropsychiatric sequelae. Clear indications for HBO therapy include: (1) Carboxyhemoglobin level > 25% (or > 15% in pregnant women); (2) Transient or persistent loss of consciousness; (3) Acute neurological deficits or confusion; and (4) Evidence of myocardial ischemia (ECG changes or elevated troponin) or severe metabolic acidosis. Differentiate Enclosed Space Fire Inhalation Toxins: - CARBON MONOXIDE (CO): Binds hemoglobin with 200x affinity of O2 (carboxyhemoglobin), shifting O2-Hb curve left. Standard pulse oximetry is FALSELY NORMAL. Symptoms: headache, malaise, confusion, pink skin (rare). Diagnosis: CO-oximetry (elevated carboxyhemoglobin). TREATMENT: 100% NORMOBARIC O2; HYPERBARIC O2 (HBO) if COHb > 25% (or > 15% in pregnancy), loss of consciousness, neurological deficits, or cardiac ischemia. - CYANIDE: Blocks complex IV (cytochrome c oxidase), causing cellular asphyxiation and SEVERE LACTIC ACIDOSIS (lactate > 8-10 mmol/L). Treatment: HYDROXOCOBALAMIN.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Carbon Monoxide vs Cyanide Poisoning Differentiation.",
+    "keyPoints": [
+      "Carbon Monoxide vs Cyanide Poisoning Differentiation",
+      "Differentiate Enclosed Space Fire Inhalation Toxins: - CARBON MONOXIDE (CO): Binds hemoglobin with 200x affinity of O2 (carboxyhemoglobin), shifting O2-Hb curve left. Standard puls"
+    ],
+    "references": [
+      {
+        "label": "Rose JJ, et al. Carbon Monoxide Poisoning: Pathogenesis, Management, and Future Directions of Therapy. Am J Respir Crit Care Med. 2017;195(5):596-606. PMID: 27753502.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27753502/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0142",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Methemoglobinemia Etiology and Methylene Blue Reversal",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man undergoes an outpatient transesophageal echocardiogram (TEE) to evaluate for an intracardiac source of thromboembolism following a transient ischemic attack. Prior to probe insertion, his posterior oropharynx is sprayed generously with topical 20% benzocaine aerosol. Thirty minutes after completion of the procedure, while in the recovery suite, the patient develops progressive shortness of breath, headache, and lightheadedness. On physical examination, the patient appears visibly cyanotic with marked blue discoloration of his lips, nail beds, and ears. His temperature is 36.8°C (98.2°F), blood pressure is 128/76 mm Hg, heart rate is 106/min, and respirations are 24/min. Pulse oximetry displays an oxygen saturation of 85% that fails to increase despite administration of 100% oxygen via a non-rebreather mask. Auscultation reveals clear breath sounds bilaterally. Arterial blood gas analysis on 100% supplemental oxygen reveals: pH 7.41, PaCO2 38 mm Hg, and PaO2 245 mm Hg. A sample of freshly drawn arterial blood appears distinctly dark brown (\"chocolate-colored\") and does not turn bright red upon direct exposure to ambient air. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Immediate administration of high-dose intravenous dexamethasone for acute angioedema",
+        "correct": false,
+        "explanation": "Benzocaine allergy or angioedema causes swelling of the tongue and airway obstruction with stridor, not refractory cyanosis with dark brown blood and normal breath sounds."
+      },
+      {
+        "text": "Intravenous administration of methylene blue solution",
+        "correct": true,
+        "explanation": "This patient presents with acute methemoglobinemia triggered by topical benzocaine throat spray. In methemoglobinemia, oxidizing agents (such as benzocaine, prilocaine, dapsone, or nitrates) convert the iron in heme from the ferrous state (Fe2+) to the ferric state (Fe3+). Ferric iron cannot bind oxygen, and it induces an allosteric conformational change in remaining heme subunits that shifts the oxygen-hemoglobin dissociation curve to the left, severely impairing peripheral oxygen delivery. Key diagnostic features include: (1) Sudden cyanosis refractory to 100% supplemental oxygen; (2) The characteristic \"saturation gap\"—pulse oximetry reads ~85% (because methemoglobin equally absorbs 660 nm and 940 nm light, forcing the machine to calculate an R-ratio corresponding to 85%), whereas the arterial blood gas demonstrates a high PaO2 (245 mm Hg); and (3) Classic \"chocolate-brown\" colored blood that does not change color when exposed to air. The definitive antidote is INTRAVENOUS METHYLENE BLUE. Methylene blue acts as an electron acceptor that uses NADPH (generated by G6PD) to accelerate NADPH-methemoglobin reductase, reducing Fe3+ back to Fe2+."
+      },
+      {
+        "text": "Administration of intravenous deferoxamine for heavy metal intoxication",
+        "correct": false,
+        "explanation": "Deferoxamine chelates ferric iron in free systemic iron overload (hemochromatosis or acute iron ingestion), but does not reduce ferric heme in methemoglobinemia."
+      },
+      {
+        "text": "Therapeutic hyperbaric oxygen chamber therapy",
+        "correct": false,
+        "explanation": "Hyperbaric oxygen increases dissolved oxygen in plasma but does not reduce methemoglobin; intravenous methylene blue is the primary specific antidote of choice."
+      },
+      {
+        "text": "Endotracheal intubation with 100% oxygen and 10 cm H2O positive end-expiratory pressure",
+        "correct": false,
+        "explanation": "Intubation does not correct the biochemical inability of ferric hemoglobin to bind and unload oxygen; PaO2 is already 245 mm Hg in plasma."
+      }
+    ],
+    "explanation": "This patient presents with acute methemoglobinemia triggered by topical benzocaine throat spray. In methemoglobinemia, oxidizing agents (such as benzocaine, prilocaine, dapsone, or nitrates) convert the iron in heme from the ferrous state (Fe2+) to the ferric state (Fe3+). Ferric iron cannot bind oxygen, and it induces an allosteric conformational change in remaining heme subunits that shifts the oxygen-hemoglobin dissociation curve to the left, severely impairing peripheral oxygen delivery. Key diagnostic features include: (1) Sudden cyanosis refractory to 100% supplemental oxygen; (2) The characteristic \"saturation gap\"—pulse oximetry reads ~85% (because methemoglobin equally absorbs 660 nm and 940 nm light, forcing the machine to calculate an R-ratio corresponding to 85%), whereas the arterial blood gas demonstrates a high PaO2 (245 mm Hg); and (3) Classic \"chocolate-brown\" colored blood that does not change color when exposed to air. The definitive antidote is INTRAVENOUS METHYLENE BLUE. Methylene blue acts as an electron acceptor that uses NADPH (generated by G6PD) to accelerate NADPH-methemoglobin reductase, reducing Fe3+ back to Fe2+. Recognize Methemoglobinemia: Triggered by oxidizing agents (topical local anesthetics: BENZOCAINE spray, lidocaine; DAPSONE; nitrates). Fe2+ (ferrous) is oxidized to Fe3+ (ferric), which cannot bind O2. Hallmark: \"CHOCOLATE-COLORED BLOOD\", cyanosis unresponsive to 100% supplemental O2, and \"PULSE OXIMETRY SATURATION GAP\" (pulse oximeter stuck around ~85% while arterial blood gas shows normal PaO2). TREATMENT: INTRAVENOUS METHYLENE BLUE (acts as electron acceptor for NADPH-methemoglobin reductase). CAUTION: Methylene blue is CONTRAINDICATED in patients with G6PD DEFICIENCY (causes severe hemolysis because NADPH is deficient; treat with IV ascorbic acid instead).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Methemoglobinemia Etiology and Methylene Blue Reversal.",
+    "keyPoints": [
+      "Methemoglobinemia Etiology and Methylene Blue Reversal",
+      "Recognize Methemoglobinemia: Triggered by oxidizing agents (topical local anesthetics: BENZOCAINE spray, lidocaine; DAPSONE; nitrates). Fe2+ (ferrous) is oxidized to Fe3+ (ferric),"
+    ],
+    "references": [
+      {
+        "label": "Prchal JT. Methemoglobinemia. In: UpToDate, Post TW (Ed), UpToDate, Waltham, MA. (Accessed 2024). PMID: 29763138.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29763138/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0143",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Acute Iron Poisoning Clinical Phases and Chelation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 2-year-old boy is brought to the emergency department by his mother 3 hours after being found playing with an open, empty bottle of his mother's prenatal multivitamins with high-potency iron. Over the past 90 minutes, the child has had four episodes of forceful vomiting containing dark brown material and frank red blood streaks, accompanied by severe crampy abdominal pain and watery, dark green diarrhea. On physical examination, the child is lethargic, pale, and cold to the touch. His temperature is 36.6°C (97.9°F), blood pressure is 78/48 mm Hg, heart rate is 144/min, and respirations are 28/min. Abdominal examination reveals diffuse tenderness to palpation without rebound or rigidity. Laboratory evaluation reveals: hemoglobin 11.2 g/dL, white blood cell count 18,500/mm³, blood glucose 188 mg/dL, and serum bicarbonate 12 mEq/L with an anion gap of 22 mEq/L. A plain abdominal radiograph demonstrates multiple distinct radiopaque round densities clustered within the stomach and proximal duodenum. While aggressive intravenous isotonic crystalloid resuscitation is underway, which of the following is the most appropriate specific therapy?",
+    "options": [
+      {
+        "text": "Administration of multiple doses of oral activated charcoal via nasogastric tube",
+        "correct": false,
+        "explanation": "Activated charcoal does not bind elemental iron or other heavy metals and should not be given, as it increases vomiting and aspiration risks."
+      },
+      {
+        "text": "Oral administration of penicillamine capsules every 6 hours",
+        "correct": false,
+        "explanation": "Penicillamine is an oral chelator used for copper toxicity (Wilson disease) or lead/arsenic poisoning; it is ineffective for acute severe iron poisoning."
+      },
+      {
+        "text": "Continuous intravenous infusion of deferoxamine mesylate",
+        "correct": true,
+        "explanation": "This 2-year-old child presents with severe acute iron toxicity following accidental ingestion of prenatal vitamins containing ferrous sulfate. In iron overdose, free circulating iron overwhelms transferrin-binding capacity, directly corroding gastrointestinal mucosa and entering cells where it uncouples mitochondrial oxidative phosphorylation and generates destructive hydroxyl free radicals. The presentation follows classic clinical phases: (1) Gastrointestinal toxicity (30 min to 6 hours): abdominal pain, hematemesis, melena, and hypovolemia; (2) Latent phase (6 to 24 hours): apparent clinical stabilization; (3) Shock and metabolic acidosis (12 to 48 hours): cardiogenic/hypovolemic shock, profound high anion gap metabolic acidosis, and hepatic failure; and (4) Late gastrointestinal scarring/pyloric stenosis (2 to 6 weeks). Key diagnostic confirmations include high serum iron levels (> 500 mcg/dL) and visible RADIOPAQUE TABLETS ON ABDOMINAL RADIOGRAPHY (iron is radiodense). For patients with clinical toxicity (lethargy, hypotension, hematemesis, metabolic acidosis) or serum iron > 500 mcg/dL, the specific antidote is INTRAVENOUS DEFEROXAMINE. Deferoxamine chelates free ferric iron to form water-soluble ferrioxamine, which is excreted renally, classically turning the urine a reddish-orange (\"vin rosé\") color."
+      },
+      {
+        "text": "Intravenous calcium disodium EDTA infusion",
+        "correct": false,
+        "explanation": "Calcium disodium EDTA is used for severe lead poisoning; it does not bind or treat iron toxicity."
+      },
+      {
+        "text": "Urgent whole-bowel irrigation followed by emergency surgical gastrotomy without chelation",
+        "correct": false,
+        "explanation": "While whole-bowel irrigation with PEG can be used as an adjunct to clear visible radiopaque pills, systemic chelation with IV deferoxamine is the life-saving priority for systemic shock and acidosis."
+      }
+    ],
+    "explanation": "This 2-year-old child presents with severe acute iron toxicity following accidental ingestion of prenatal vitamins containing ferrous sulfate. In iron overdose, free circulating iron overwhelms transferrin-binding capacity, directly corroding gastrointestinal mucosa and entering cells where it uncouples mitochondrial oxidative phosphorylation and generates destructive hydroxyl free radicals. The presentation follows classic clinical phases: (1) Gastrointestinal toxicity (30 min to 6 hours): abdominal pain, hematemesis, melena, and hypovolemia; (2) Latent phase (6 to 24 hours): apparent clinical stabilization; (3) Shock and metabolic acidosis (12 to 48 hours): cardiogenic/hypovolemic shock, profound high anion gap metabolic acidosis, and hepatic failure; and (4) Late gastrointestinal scarring/pyloric stenosis (2 to 6 weeks). Key diagnostic confirmations include high serum iron levels (> 500 mcg/dL) and visible RADIOPAQUE TABLETS ON ABDOMINAL RADIOGRAPHY (iron is radiodense). For patients with clinical toxicity (lethargy, hypotension, hematemesis, metabolic acidosis) or serum iron > 500 mcg/dL, the specific antidote is INTRAVENOUS DEFEROXAMINE. Deferoxamine chelates free ferric iron to form water-soluble ferrioxamine, which is excreted renally, classically turning the urine a reddish-orange (\"vin rosé\") color. Manage Acute Iron Toxicity (pediatric ingestion of prenatal vitamins / iron supplements): - PATHOPHYSIOLOGY: Free iron generates toxic hydroxyl free radicals, causing direct mucosal corrosion, severe hypovolemic shock, and mitochondrial damage. - CLINICAL STAGES: 1. GI stage (0-6 hours: abdominal pain, hematemesis, melena); 2. Latent quiescent stage (6-24 hours); 3. Shock/Metabolic acidosis stage (12-48 hours: severe lactic acidosis, hepatic necrosis, coagulopathy); 4. Hepatic failure (2-3 days); 5. Bowel obstruction (2-6 weeks: gastric outlet/pyloric scarring). - DIAGNOSIS: Radiopaque pills on abdominal X-ray, high serum iron (> 350-500 mcg/dL). - TREATMENT: INTRAVENOUS DEFEROXAMINE (chelates ferric iron to form ferrioxamine, excreted in urine turning it \"vin rosé\" reddish-pink).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Iron Poisoning Clinical Phases and Chelation.",
+    "keyPoints": [
+      "Acute Iron Poisoning Clinical Phases and Chelation",
+      "Manage Acute Iron Toxicity (pediatric ingestion of prenatal vitamins / iron supplements): - PATHOPHYSIOLOGY: Free iron generates toxic hydroxyl free radicals, causing direct mucosa"
+    ],
+    "references": [
+      {
+        "label": "Chang TP, et al. Iron Toxicity. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024. PMID: 28613479.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28613479/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0144",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Digoxin Toxicity Manifestations and Digoxin-Specific Fab Fragments",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old woman with chronic systolic heart failure and atrial fibrillation is brought to the emergency department because of increasing nausea, three episodes of vomiting, profound weakness, and confusion over the past 3 days. She also reports that objects appear to have a \"yellowish-greenish halo\" surrounding light sources. Her home medications include digoxin, furosemide, carvedilol, lisinopril, and apixaban. Three days ago, her primary care physician added oral clarithromycin for bronchitis. Her blood pressure is 86/52 mm Hg, heart rate is 38/min and regular, and respirations are 16/min. Physical examination reveals an elderly, lethargic woman with dry mucous membranes. Cardiovascular examination reveals profound bradycardia with regular rhythm. A 12-lead electrocardiogram demonstrates junctional escape rhythm at 38/min, scooped \"hockey-stick\" ST-segment depressions in the lateral leads, and frequent premature ventricular contractions in a bigeminal pattern. Laboratory evaluation reveals: sodium 136 mEq/L, potassium 6.2 mEq/L, BUN 44 mg/dL, and creatinine 2.4 mg/dL (baseline 1.0 mg/dL). Which of the following is the most appropriate definitive therapy for this patient?",
+    "options": [
+      {
+        "text": "Rapid intravenous bolus of calcium chloride to stabilize cardiac membranes",
+        "correct": false,
+        "explanation": "Intravenous calcium is traditionally contraindicated or used with extreme caution in digoxin toxicity because high intracellular calcium already exists, and IV calcium administration can precipitate irreversible tetanic myocardial arrest (\"stone heart\")."
+      },
+      {
+        "text": "Hemodialysis to eliminate circulating digoxin from the intravascular compartment",
+        "correct": false,
+        "explanation": "Digoxin has an exceptionally large volume of distribution and extensive tissue binding; hemodialysis or hemoperfusion removes virtually no digoxin and is ineffective."
+      },
+      {
+        "text": "Immediate intravenous atropine sulfate bolus as definitive monotherapy",
+        "correct": false,
+        "explanation": "While atropine may transiently increase heart rate in severe bradycardia, it is only a temporary temporizing measure and does not reverse systemic cellular digitalis toxicity."
+      },
+      {
+        "text": "Intravenous administration of digoxin-specific antibody (Fab) fragments",
+        "correct": true,
+        "explanation": "This patient presents with classic, life-threatening digoxin toxicity precipitated by acute renal failure and a drug interaction with clarithromycin (a P-glycoprotein inhibitor that dramatically increases serum digoxin concentrations). Digoxin works by reversibly inhibiting myocardial Na+/K+-ATPase, increasing intracellular sodium and subsequently intracellular calcium via the Na+/Ca2+ exchanger. Toxicity causes a combination of: (1) Gastrointestinal symptoms (nausea, vomiting, anorexia); (2) Neurological and visual disturbances (confusion, weakness, and pathognomonic xanthopsia—yellow-green halos around lights); and (3) Cardiac arrhythmias (the most specific is paroxysmal atrial tachycardia with AV block, but junctional escape rhythms, ventricular bigeminy, and bidirectional ventricular tachycardia are frequent). In acute or severe digitalis toxicity, blockade of Na+/K+-ATPase prevents potassium uptake into cells, leading to severe hyperkalemia; the serum potassium level is the single most accurate prognostic indicator of acute mortality. The definitive, life-saving treatment is INTRAVENOUS DIGOXIN-SPECIFIC ANTIBODY (FAB) FRAGMENTS (DigiFab). Indications include hemodynamic instability, life-threatening arrhythmias, serum potassium > 5.0 to 5.5 mEq/L in acute overdose, or massive ingestion (> 10 mg)."
+      },
+      {
+        "text": "Intravenous amiodarone infusion to suppress ventricular bigeminy",
+        "correct": false,
+        "explanation": "Amiodarone inhibits P-glycoprotein and further elevates serum digoxin levels, exacerbating conduction block and fatal cardiac toxicity."
+      }
+    ],
+    "explanation": "This patient presents with classic, life-threatening digoxin toxicity precipitated by acute renal failure and a drug interaction with clarithromycin (a P-glycoprotein inhibitor that dramatically increases serum digoxin concentrations). Digoxin works by reversibly inhibiting myocardial Na+/K+-ATPase, increasing intracellular sodium and subsequently intracellular calcium via the Na+/Ca2+ exchanger. Toxicity causes a combination of: (1) Gastrointestinal symptoms (nausea, vomiting, anorexia); (2) Neurological and visual disturbances (confusion, weakness, and pathognomonic xanthopsia—yellow-green halos around lights); and (3) Cardiac arrhythmias (the most specific is paroxysmal atrial tachycardia with AV block, but junctional escape rhythms, ventricular bigeminy, and bidirectional ventricular tachycardia are frequent). In acute or severe digitalis toxicity, blockade of Na+/K+-ATPase prevents potassium uptake into cells, leading to severe hyperkalemia; the serum potassium level is the single most accurate prognostic indicator of acute mortality. The definitive, life-saving treatment is INTRAVENOUS DIGOXIN-SPECIFIC ANTIBODY (FAB) FRAGMENTS (DigiFab). Indications include hemodynamic instability, life-threatening arrhythmias, serum potassium > 5.0 to 5.5 mEq/L in acute overdose, or massive ingestion (> 10 mg). Recognize Digoxin Toxicity (inhibits Na+/K+-ATPase): - TRIGGERS: Hypokalemia (loop/thiazide diuretics enhance binding), renal insufficiency, medication interactions (verapamil, amiodarone, quinidine). - CLINICAL FEATURES: GI (nausea, vomiting, anorexia); NEURO/VISUAL (confusion, lethargy, XANTHOPSIA - yellow-green halos around lights); CARDIAC (any arrhythmia, classically ATRIAL TACHYCARDIA WITH AV BLOCK, bidirectional VT, bradycardia). - LAB HALLMARK IN ACUTE OVERDOSE: HYPERKALEMIA (inhibition of Na+/K+ pump traps potassium extracellularly; serum K+ is the strongest predictor of mortality). - TREATMENT: DIGOXIN-SPECIFIC ANTIBODY (FAB) FRAGMENTS (DigiFab). AVOID CALCIUM (traditionally avoided due to risk of \"stone heart\" tetanic contracture).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Digoxin Toxicity Manifestations and Digoxin-Specific Fab Fragments.",
+    "keyPoints": [
+      "Digoxin Toxicity Manifestations and Digoxin-Specific Fab Fragments",
+      "Recognize Digoxin Toxicity (inhibits Na+/K+-ATPase): - TRIGGERS: Hypokalemia (loop/thiazide diuretics enhance binding), renal insufficiency, medication interactions (verapamil, ami"
+    ],
+    "references": [
+      {
+        "label": "Yang EH, et al. Digitalis Toxicity: A Comprehensive Review. J Am Coll Cardiol. 2012;59(13):e1853. PMID: 22440263.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22440263/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0145",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Lead Poisoning Clinical Recognition and Chelation Indications",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 3-year-old boy is brought to the clinic by his mother because of progressive behavioral changes, increased temper tantrums, loss of previously acquired language milestones, and intermittent crampy abdominal pain with constipation over the past 4 months. The family lives in an unrenovated Victorian home built in 1948 with peeling, chipped paint along the windowsills that the child has been observed chewing on. On physical examination, the child is irritable and pale. Neurological examination reveals clumsy gait, hyperactive deep tendon reflexes, and mild bilateral wrist drop with extensor weakness. Along the gingival margins of his teeth, a thin, bluish-black line is faintly visible. Laboratory evaluation demonstrates: hemoglobin 9.1 g/dL, mean corpuscular volume (MCV) 72 fL, red blood cell distribution width (RDW) 17.5%, and reticulocyte count 3.8%. Peripheral blood smear reveals prominent, diffuse coarse basophilic stippling within erythrocytes. Confirmatory venous blood lead level is 78 mcg/dL. The child is immediately admitted to the pediatric inpatient ward. In addition to public health notification and environmental abatement, which of the following is the most appropriate initial medical therapy?",
+    "options": [
+      {
+        "text": "Outpatient prescription of oral ferrous sulfate drops to correct microcytic anemia",
+        "correct": false,
+        "explanation": "Iron deficiency frequently coexists with plumbism, but oral iron alone does not treat life-threatening lead toxicity (BLL 78 mcg/dL) and can form toxic complexes with chelators if given simultaneously."
+      },
+      {
+        "text": "Outpatient monotherapy with oral succimer (dimercaptosuccinic acid) and home follow-up",
+        "correct": false,
+        "explanation": "Oral succimer is appropriate for moderate lead levels (45 to 69 mcg/dL); severe toxicity (>= 70 mcg/dL) mandates inpatient dual chelation with parenteral EDTA and dimercaprol."
+      },
+      {
+        "text": "Intravenous deferasirox monotherapy with serial urine lead quantification",
+        "correct": false,
+        "explanation": "Deferasirox is an iron chelator used in transfusion-related hemosiderosis; it has no chelating activity against lead."
+      },
+      {
+        "text": "High-volume whole-bowel irrigation with polyethylene glycol followed by discharge",
+        "correct": false,
+        "explanation": "Whole-bowel irrigation is reserved for acute ingestion of visible foreign lead objects (such as lead curtain weights or fishing sinkers); chronic plumbism from paint dust requires systemic chelation."
+      },
+      {
+        "text": "Hospital admission with intravenous calcium disodium EDTA and intramuscular dimercaprol (BAL)",
+        "correct": true,
+        "explanation": "This 3-year-old child presents with severe lead toxicity (plumbism). Young children are vulnerable to lead poisoning from ingesting lead-based paint chips or contaminated dust in older homes (built before 1978). Lead inhibits ferrochelatase and delta-aminolevulinic acid (ALA) dehydratase in the heme synthesis pathway, causing microcytic anemia with characteristic coarse BASOPHILIC STIPPLING (clumps of degraded ribosomal RNA) on peripheral smear. Clinical manifestations include neurocognitive regression, behavioral changes, peripheral neuropathy (wrist drop/foot drop from motor axonopathy), lead colic (abdominal pain and constipation), and bluish gingival \"Burton lines.\" MANAGEMENT: The American Academy of Pediatrics dictates management based on venous blood lead levels (BLL): (1) BLL < 45 mcg/dL without symptoms: identify and eliminate environmental sources, monitor levels; (2) BLL 45 to 69 mcg/dL: oral chelation with succimer (DMSA); (3) BLL >= 70 mcg/dL or acute lead encephalopathy (lethargy, coma, seizures): EMERGENCY HOSPITAL ADMISSION and dual parenteral chelation with INTRAVENOUS CALCIUM DISODIUM EDTA (CaNa2EDTA) AND INTRAMUSCULAR DIMERCAPROL (BAL, British anti-Lewisite). Dimercaprol crosses the blood-brain barrier and is administered first to prevent mobilization of lead into the central nervous system."
+      }
+    ],
+    "explanation": "This 3-year-old child presents with severe lead toxicity (plumbism). Young children are vulnerable to lead poisoning from ingesting lead-based paint chips or contaminated dust in older homes (built before 1978). Lead inhibits ferrochelatase and delta-aminolevulinic acid (ALA) dehydratase in the heme synthesis pathway, causing microcytic anemia with characteristic coarse BASOPHILIC STIPPLING (clumps of degraded ribosomal RNA) on peripheral smear. Clinical manifestations include neurocognitive regression, behavioral changes, peripheral neuropathy (wrist drop/foot drop from motor axonopathy), lead colic (abdominal pain and constipation), and bluish gingival \"Burton lines.\" MANAGEMENT: The American Academy of Pediatrics dictates management based on venous blood lead levels (BLL): (1) BLL < 45 mcg/dL without symptoms: identify and eliminate environmental sources, monitor levels; (2) BLL 45 to 69 mcg/dL: oral chelation with succimer (DMSA); (3) BLL >= 70 mcg/dL or acute lead encephalopathy (lethargy, coma, seizures): EMERGENCY HOSPITAL ADMISSION and dual parenteral chelation with INTRAVENOUS CALCIUM DISODIUM EDTA (CaNa2EDTA) AND INTRAMUSCULAR DIMERCAPROL (BAL, British anti-Lewisite). Dimercaprol crosses the blood-brain barrier and is administered first to prevent mobilization of lead into the central nervous system. Manage Lead Poisoning (plumbism): Exposure in workers (battery, foundry, demolition) or children (lead paint in pre-1978 homes). Symptoms: \"LEAD\" - Leads (lines on gingiva: Burton lines; and metaphyses on X-ray), Encephalopathy (irritability, memory loss, foot/wrist drop due to peripheral neuropathy), Abdominal colic (lead colic), Microcytic sideroblastic/hemolytic Anemia with BASOPHILIC STIPPLING. CHELATION GUIDELINES: - Asymptomatic mild blood lead level (BLL) < 45 mcg/dL in children: Environmental removal and nutritional counseling; - BLL 45-69 mcg/dL: Oral SUCCIMER (DMSA); - Severe toxicity BLL >= 70 mcg/dL or encephalopathy: INTRAVENOUS CALCIUM DISODIUM EDTA + INTRAMUSCULAR DIMERCAPROL (BAL).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Lead Poisoning Clinical Recognition and Chelation Indications.",
+    "keyPoints": [
+      "Lead Poisoning Clinical Recognition and Chelation Indications",
+      "Manage Lead Poisoning (plumbism): Exposure in workers (battery, foundry, demolition) or children (lead paint in pre-1978 homes). Symptoms: \"LEAD\" - Leads (lines on gingiva: Burton "
+    ],
+    "references": [
+      {
+        "label": "Warniment ST, et al. Lead Poisoning in Children. Am Fam Physician. 2010;81(6):751-757. PMID: 20229875.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20229875/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0146",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Hematology",
+    "topic": "Neonatal Hyperbilirubinemia Evaluation and Phototherapy Thresholds",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 16-hour-old male infant born at 38 weeks of gestation is evaluated in the newborn nursery because of jaundice that was noted on his face, chest, and abdomen. The pregnancy was complicated by lack of prenatal care until the third trimester. His mother is a 24-year-old gravida 1, para 1 with blood group O, Rh-positive; the infant's blood type is A, Rh-positive. The delivery was an uncomplicated spontaneous vaginal birth with Apgar scores of 8 and 9 at 1 and 5 minutes. On physical examination, the infant appears jaundiced down to the lower extremities and palms. Vital signs are normal. Neurological examination reveals an irritable infant with high-pitched crying, hypertonia with backward arching of the neck (retrocollis), and poor suck reflex. Laboratory evaluation reveals: total serum bilirubin 23.8 mg/dL, direct (conjugated) bilirubin 0.6 mg/dL, hemoglobin 10.8 g/dL, reticulocyte count 11.2%, and positive direct Coombs (antiglobulin) test. Peripheral blood smear demonstrates marked microspherocytes and nucleated red blood cells. Intensive phototherapy with multiple light sources is immediately initiated. Which of the following is the most appropriate next step in management to prevent irreversible neurological damage in this infant?",
+    "options": [
+      {
+        "text": "Immediate preparation for double-volume exchange transfusion",
+        "correct": true,
+        "explanation": "This 16-hour-old term infant has severe, life-threatening unconjugated hyperbilirubinemia secondary to ABO hemolytic disease of the newborn (mother is blood group O with anti-A IgG antibodies that crossed the placenta; infant is blood type A with positive Coombs test, microspherocytosis, and high reticulocytosis). Jaundice appearing within the first 24 hours of life is ALWAYS pathologic. Total bilirubin of 23.8 mg/dL at 16 hours of life far exceeds the threshold for immediate exchange transfusion on the AAP neurotoxicity nomograms. Furthermore, the infant demonstrates active clinical signs of acute bilirubin encephalopathy (hypertonia, retrocollis, high-pitched cry, poor feeding), indicating imminent risk of kernicterus (permanent bilirubin deposition in the basal ganglia, subthalamic nuclei, and auditory pathways). While intensive phototherapy and IV fluids are initiated instantly, IMMEDIATE DOUBLE-VOLUME EXCHANGE TRANSFUSION is the definitive treatment to rapidly clear unbound bilirubin and circulating maternal antibodies and prevent irreversible kernicteric choreoathetoid cerebral palsy and sensorineural deafness."
+      },
+      {
+        "text": "Intravenous phenobarbital administration to induce hepatic glucuronosyltransferase",
+        "correct": false,
+        "explanation": "Phenobarbital takes several days to induce enzyme activity and has no role in the emergent management of acute severe neonatal hemolysis with bilirubin encephalopathy."
+      },
+      {
+        "text": "Intensive phototherapy alone for 24 hours followed by repeat total bilirubin measurement",
+        "correct": false,
+        "explanation": "Waiting 24 hours on phototherapy alone in a symptomatic infant with bilirubin 23.8 mg/dL at 16 hours will result in permanent kernicteric brain damage."
+      },
+      {
+        "text": "Surgical Kasai hepatoportoenterostomy within the next 48 hours",
+        "correct": false,
+        "explanation": "The Kasai procedure is indicated for biliary atresia, which presents at 2 to 8 weeks of age with conjugated (direct) hyperbilirubinemia, pale acholic stools, and dark urine."
+      },
+      {
+        "text": "Temporary cessation of breastfeeding and substitution with oral sterile water feedings",
+        "correct": false,
+        "explanation": "Sterile water feedings worsen hyperbilirubinemia by causing dehydration; furthermore, jaundice at 16 hours is hemolytic ABO incompatibility, not breastfeeding jaundice."
+      }
+    ],
+    "explanation": "This 16-hour-old term infant has severe, life-threatening unconjugated hyperbilirubinemia secondary to ABO hemolytic disease of the newborn (mother is blood group O with anti-A IgG antibodies that crossed the placenta; infant is blood type A with positive Coombs test, microspherocytosis, and high reticulocytosis). Jaundice appearing within the first 24 hours of life is ALWAYS pathologic. Total bilirubin of 23.8 mg/dL at 16 hours of life far exceeds the threshold for immediate exchange transfusion on the AAP neurotoxicity nomograms. Furthermore, the infant demonstrates active clinical signs of acute bilirubin encephalopathy (hypertonia, retrocollis, high-pitched cry, poor feeding), indicating imminent risk of kernicterus (permanent bilirubin deposition in the basal ganglia, subthalamic nuclei, and auditory pathways). While intensive phototherapy and IV fluids are initiated instantly, IMMEDIATE DOUBLE-VOLUME EXCHANGE TRANSFUSION is the definitive treatment to rapidly clear unbound bilirubin and circulating maternal antibodies and prevent irreversible kernicteric choreoathetoid cerebral palsy and sensorineural deafness. Differentiate Neonatal Hyperbilirubinemia: 1. UNCONJUGATED (INDIRECT) HYPERBILIRUBINEMIA: Risk of BIND (bilirubin-induced neurologic dysfunction) / KERNICTERUS (basal ganglia/brainstem deposition). Jaundice within FIRST 24 HOURS is ALWAYS PATHOLOGIC (most commonly ABO or Rh hemolytic disease). Manage based on nomograms: INTENSIVE PHOTOTHERAPY; if total serum bilirubin (TSB) approaches/exceeds exchange threshold (e.g. >= 20-25 mg/dL depending on hours of life and neurotoxicity risk factors) or signs of encephalopathy: IMMEDIATE EXCHANGE TRANSFUSION. 2. CONJUGATED (DIRECT > 20% of TSB): Biliary atresia (pale stools, dark urine; requires Kasai procedure).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Neonatal Hyperbilirubinemia Evaluation and Phototherapy Thresholds.",
+    "keyPoints": [
+      "Neonatal Hyperbilirubinemia Evaluation and Phototherapy Thresholds",
+      "Differentiate Neonatal Hyperbilirubinemia: 1. UNCONJUGATED (INDIRECT) HYPERBILIRUBINEMIA: Risk of BIND (bilirubin-induced neurologic dysfunction) / KERNICTERUS (basal ganglia/brain"
+    ],
+    "references": [
+      {
+        "label": "Kemper AR, et al. Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. Pediatrics. 2022;150(3):e2022058859. PMID: 35921872.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35921872/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0147",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Acute Epiglottitis Airway Prioritization and Antimicrobial Coverage",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-year-old unimmunized boy is brought to the emergency department by his parents because of acute high fever, severe difficulty swallowing, and progressive respiratory distress that began 6 hours ago. His parents report that he refused dinner, complained of an excruciating throat ache, and began sitting rigidly forward with his chin thrust outward. On arrival, the child is visibly toxic, toxic-appearing, and sitting in the \"tripod\" position with his neck hyperextended and mouth open. Thick saliva is continuously drooling from his lips. His temperature is 39.8°C (103.6°F), blood pressure is 104/64 mm Hg, heart rate is 164/min, and respirations are 38/min with an oxygen saturation of 91% on room air. Soft inspiratory stridor is audible at the bedside. The child speaks in a muffled, \"hot potato\" voice and whimpers when his father attempts to lie him flat. Which of the following is the most appropriate next step in the immediate management of this patient?",
+    "options": [
+      {
+        "text": "Depression of the tongue with a wooden blade to inspect the posterior pharynx and tonsillar pillars",
+        "correct": false,
+        "explanation": "Examining the throat with a tongue depressor is strictly contraindicated in suspected epiglottitis because it can trigger catastrophic, fatal laryngospasm and complete airway obstruction."
+      },
+      {
+        "text": "Immediate transfer to the operating room for controlled endotracheal intubation accompanied by anesthesiology and otolaryngology",
+        "correct": true,
+        "explanation": "This child presents with classic acute epiglottitis (supraglottitis), a life-threatening pediatric airway emergency classically caused by Haemophilus influenzae type b (especially in unimmunized children) or Streptococcus pyogenes/Staphylococcus aureus. Clinical hallmarks include the \"3 Ds\": Drooling, Dysphagia, and Distress, accompanied by high fevers, the classic \"tripod\" posture (sitting forward, resting on hands with chin thrust forward), and a muffled \"hot potato\" voice. Airway obstruction can progress precipitously to complete respiratory arrest. CARDINAL CLINICAL RULE: Any invasive manipulation, painful procedure, or agitation—including attempting to examine the oropharynx with a tongue depressor, placing an IV line, or forcing the child to lie supine—can trigger instantaneous, fatal reflex laryngospasm. The child must be kept completely calm in the parent's arms, given blow-by oxygen, and immediately transported directly to the operating room for controlled endotracheal intubation by experienced anesthesiology and otolaryngology teams under inhalational general anesthesia, with emergency tracheostomy equipment ready. IV antibiotics (ceftriaxone plus vancomycin) are initiated once the airway is secured."
+      },
+      {
+        "text": "Transport to the radiology suite for urgent soft-tissue lateral neck radiography",
+        "correct": false,
+        "explanation": "Transferring an unstable, severely compromised child to radiology for a lateral neck X-ray (\"thumbprint sign\") risks sudden cardiac arrest away from resuscitation equipment."
+      },
+      {
+        "text": "Immediate administration of nebulized racemic epinephrine and oral dexamethasone in triage",
+        "correct": false,
+        "explanation": "Nebulized racemic epinephrine and steroids are effective for subglottic edema in viral croup, but are ineffective for supraglottic cellulitis in acute epiglottitis."
+      },
+      {
+        "text": "Performance of needle cricothyroidotomy at the bedside in the emergency department",
+        "correct": false,
+        "explanation": "Surgical airway is the last resort when endotracheal intubation fails; immediate controlled intubation in the operating room is the correct planned intervention."
+      }
+    ],
+    "explanation": "This child presents with classic acute epiglottitis (supraglottitis), a life-threatening pediatric airway emergency classically caused by Haemophilus influenzae type b (especially in unimmunized children) or Streptococcus pyogenes/Staphylococcus aureus. Clinical hallmarks include the \"3 Ds\": Drooling, Dysphagia, and Distress, accompanied by high fevers, the classic \"tripod\" posture (sitting forward, resting on hands with chin thrust forward), and a muffled \"hot potato\" voice. Airway obstruction can progress precipitously to complete respiratory arrest. CARDINAL CLINICAL RULE: Any invasive manipulation, painful procedure, or agitation—including attempting to examine the oropharynx with a tongue depressor, placing an IV line, or forcing the child to lie supine—can trigger instantaneous, fatal reflex laryngospasm. The child must be kept completely calm in the parent's arms, given blow-by oxygen, and immediately transported directly to the operating room for controlled endotracheal intubation by experienced anesthesiology and otolaryngology teams under inhalational general anesthesia, with emergency tracheostomy equipment ready. IV antibiotics (ceftriaxone plus vancomycin) are initiated once the airway is secured. Manage Acute Epiglottitis (Haemophilus influenzae type b or Streptococcus/Staphylococcus): Presentation: Rapidly progressive high fever, severe sore throat, \"3 Ds\" (Drooling, Dysphagia, Distress), tripod position with neck hyperextended. X-ray shows \"thumbprint sign\" (do NOT obtain if patient in distress). CRITICAL AIRWAY RULE: MINIMIZE AGITATION. DO NOT EXAMINE OROPHARYNX WITH TONGUE DEPRESSOR OR ATTEMPT AWAKE INTUBATION IN ED (triggers fatal laryngospasm). IMMEDIATE MANAGEMENT: TRANSPORT DIRECTLY TO OPERATING ROOM WITH ANESTHESIOLOGY AND ENT FOR CONTROLLED ENDOTRACHEAL INTUBATION under inhalational anesthesia, followed by IV ceftriaxone + vancomycin.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Epiglottitis Airway Prioritization and Antimicrobial Coverage.",
+    "keyPoints": [
+      "Acute Epiglottitis Airway Prioritization and Antimicrobial Coverage",
+      "Manage Acute Epiglottitis (Haemophilus influenzae type b or Streptococcus/Staphylococcus): Presentation: Rapidly progressive high fever, severe sore throat, \"3 Ds\" (Drooling, Dysph"
+    ],
+    "references": [
+      {
+        "label": "Lindquist B, et al. Epiglottitis. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024. PMID: 28846312.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28846312/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0148",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Pediatric Ingestion of Button Batteries vs Blunt Foreign Bodies",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 16-month-old girl is brought to the emergency department by her panicked mother 45 minutes after the mother witnessed the child swallow a circular metallic object that had fallen out of a car key remote control. The child is currently crying, drooling copiously, and clutching her chest; she refused a sip of apple juice offered by her mother, immediately regurgitating it. On physical examination, the child is tachypneic with a respiratory rate of 32/min, heart rate of 132/min, and oxygen saturation of 98% on room air. There is no stridor, wheezing, or facial edema. An urgent anteroposterior chest radiograph reveals a 20-mm circular radiopaque object lodged at the level of the mid-esophagus demonstrating a distinct, concentric \"double-ring\" or \"halo\" sign; the lateral view reveals a prominent step-off bevel along the edge of the object. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Admit to the pediatric floor for serial abdominal radiographs every 12 hours to observe for spontaneous passage",
+        "correct": false,
+        "explanation": "Serial observation is strictly contraindicated for an esophageal button battery, as severe liquefactive necrosis and fatal aortic erosion occur within hours."
+      },
+      {
+        "text": "Administration of oral syrup of ipecac to induce immediate emesis of the foreign body",
+        "correct": false,
+        "explanation": "Inducing emesis is dangerous and ineffective; forceful retching can cause esophageal rupture or dislodge the battery into the larynx, precipitating asphyxia."
+      },
+      {
+        "text": "Immediate emergent rigid or flexible endoscopy under general anesthesia for foreign body extraction",
+        "correct": true,
+        "explanation": "This 16-month-old child has swallowed a button (disc) battery that has lodged in the mid-esophagus. On plain radiographs, a button battery is differentiated from a harmless coin by the characteristic \"double-ring\" or \"halo\" sign on the anteroposterior view (caused by the overlapping cathode and anode) and the \"step-off\" bevel on the lateral view. A BUTTON BATTERY LODGED IN THE ESOPHAGUS IS A CRITICAL SURGICAL EMERGENCY. The battery conducts local electrical currents through wet esophageal mucosal tissue, hydrolyzing tissue water and generating sodium hydroxide at the negative pole. This causes rapid, deep liquefactive necrosis, which can result in full-thickness esophageal perforation, catastrophic aortoesophageal fistula, vocal cord paralysis, or tracheoesophageal fistula in as little as 2 hours. Therefore, IMMEDIATE EMERGENT ENDOSCOPIC REMOVAL is mandatory. (If the child is > 1 year old, oral honey or sucralfate can be given as a temporizing measure to coat the battery while mobilizing the endoscopy team). In contrast, blunt foreign bodies (such as coins) in an asymptomatic esophagus can be observed for up to 12-24 hours."
+      },
+      {
+        "text": "Passage of a blunt Foley balloon catheter blindly through the esophagus to pull the object back out",
+        "correct": false,
+        "explanation": "Blind Foley balloon extraction carries severe risk of esophageal laceration, airway compromise, and battery dislodgement into the trachea, and is no longer recommended."
+      },
+      {
+        "text": "Initiation of intravenous glucagon infusion to relax the lower esophageal sphincter",
+        "correct": false,
+        "explanation": "Glucagon may relax smooth muscle in the distal esophagus for food impactions in adults, but has no role in foreign body battery impactions in infants."
+      }
+    ],
+    "explanation": "This 16-month-old child has swallowed a button (disc) battery that has lodged in the mid-esophagus. On plain radiographs, a button battery is differentiated from a harmless coin by the characteristic \"double-ring\" or \"halo\" sign on the anteroposterior view (caused by the overlapping cathode and anode) and the \"step-off\" bevel on the lateral view. A BUTTON BATTERY LODGED IN THE ESOPHAGUS IS A CRITICAL SURGICAL EMERGENCY. The battery conducts local electrical currents through wet esophageal mucosal tissue, hydrolyzing tissue water and generating sodium hydroxide at the negative pole. This causes rapid, deep liquefactive necrosis, which can result in full-thickness esophageal perforation, catastrophic aortoesophageal fistula, vocal cord paralysis, or tracheoesophageal fistula in as little as 2 hours. Therefore, IMMEDIATE EMERGENT ENDOSCOPIC REMOVAL is mandatory. (If the child is > 1 year old, oral honey or sucralfate can be given as a temporizing measure to coat the battery while mobilizing the endoscopy team). In contrast, blunt foreign bodies (such as coins) in an asymptomatic esophagus can be observed for up to 12-24 hours. Manage Foreign Body Ingestion (Button Battery vs Coin): - Radiographic differentiation: BUTTON BATTERY shows \"DOUBLE-RING\" OR \"HALO\" SIGN on AP view and \"STEP-OFF\" on lateral view. COIN shows homogeneous single density with smooth border. - ESOPHAGEAL BUTTON BATTERY IS A SURGICAL EMERGENCY: Generates local electrical current causing rapid liquefactive necrosis, esophageal perforation, and tracheoesophageal or aortoenteric fistula within 2 HOURS. TREATMENT: IMMEDIATE EMERGENT ENDOSCOPIC REMOVAL (or early honey/sucralfate ingestion to coat battery prior to endoscopy if child > 1 year). In contrast, coins in stomach can be observed for 12-24 hours.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Pediatric Ingestion of Button Batteries vs Blunt Foreign Bodies.",
+    "keyPoints": [
+      "Pediatric Ingestion of Button Batteries vs Blunt Foreign Bodies",
+      "Manage Foreign Body Ingestion (Button Battery vs Coin): - Radiographic differentiation: BUTTON BATTERY shows \"DOUBLE-RING\" OR \"HALO\" SIGN on AP view and \"STEP-OFF\" on lateral view."
+    ],
+    "references": [
+      {
+        "label": "Kramer RE, et al. Management of Ingested Foreign Bodies in Children: A Clinical Report of the NASPGHAN Endoscopy Committee. J Pediatr Gastroenterol Nutr. 2015;60(4):562-574. PMID: 25611037.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25611037/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0149",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "Acute Bacterial Meningitis in Children Empiric Regimen and Adjuncts",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 3-year-old girl is brought to the emergency department by her parents with a 12-hour history of high fever, persistent vomiting, severe headache, and increasing lethargy. She has no chronic medical problems. Her vital signs are: temperature 39.6°C (103.3°F), blood pressure 92/56 mm Hg, heart rate 148/min, and respirations 28/min. Physical examination reveals an ill-appearing, somnolent child who moans when moved. Neurological examination reveals marked nuchal rigidity with positive Brudzinski and Kernig signs; there are no focal neurological deficits, and funduscopic examination reveals sharp optic disc margins. Skin examination reveals multiple scattered petechiae and purpuric macules on the lower extremities and trunk. Two peripheral intravenous lines are rapidly secured, and blood cultures are drawn. A lumbar puncture is promptly performed without complication. Cerebrospinal fluid (CSF) analysis reveals: opening pressure 280 mm H2O, white blood cell count 3,200/mm³ with 92% neutrophils, protein 220 mg/dL, and glucose 18 mg/dL (serum glucose 105 mg/dL); Gram stain reveals numerous Gram-positive lancet-shaped diplococci. In addition to initiating intravenous vancomycin and ceftriaxone, which of the following interventions is most appropriate to reduce the risk of long-term sensorineural hearing loss in this child?",
+    "options": [
+      {
+        "text": "Administer intravenous dexamethasone only after completing 48 hours of bactericidal therapy",
+        "correct": false,
+        "explanation": "Corticosteroids given after antibiotic-mediated bacterial lysis has already occurred do not reduce neurological complications or hearing loss; timing must be prior to or concurrent with initial antibiotics."
+      },
+      {
+        "text": "Initiate continuous intravenous hypertonic 3% saline infusion targeting a serum sodium of 155 mEq/L",
+        "correct": false,
+        "explanation": "Hypertonic saline is reserved for impending cerebral herniation; prophylactic induction of severe hypernatremia is unnecessary and risks central pontine myelinolysis."
+      },
+      {
+        "text": "Perform repeated therapeutic lumbar punctures daily until CSF opening pressure normalizes",
+        "correct": false,
+        "explanation": "Serial daily lumbar punctures are not indicated for acute bacterial meningitis in children and increase infection and procedural trauma risks."
+      },
+      {
+        "text": "Administer intravenous dexamethasone immediately prior to or with the first dose of antibiotics",
+        "correct": true,
+        "explanation": "This 3-year-old child presents with acute bacterial meningitis caused by Streptococcus pneumoniae (Gram-positive lancet-shaped diplococci; high CSF opening pressure, marked polymorphonuclear pleocytosis, high protein, and markedly low glucose < 40% of serum glucose). S. pneumoniae is the most common cause of community-acquired bacterial meningitis in children over 1 month of age and is associated with substantial rates of mortality and permanent morbidity, particularly sensorineural hearing loss (due to suppurative labyrinthitis and cochlear ossification). When bactericidal antibiotics lyse bacteria in the subarachnoid space, cell wall fragments (peptidoglycan and teichoic acid) trigger an explosive release of inflammatory cytokines (TNF-alpha, IL-1). INTRAVENOUS DEXAMETHASONE administered prior to or concurrently with the first dose of antibiotics blunts this subarachnoid inflammatory cascade, dramatically reducing the risk of permanent sensorineural hearing loss and neurological complications. If antibiotics have already been administered, adding steroids later confers little to no therapeutic benefit."
+      },
+      {
+        "text": "Add intravenous acyclovir monotherapy while awaiting viral CSF polymerase chain reaction",
+        "correct": false,
+        "explanation": "The CSF profile (92% neutrophils, glucose 18 mg/dL) and Gram stain demonstrating Gram-positive diplococci conclusively prove pneumococcal meningitis; acyclovir is unnecessary."
+      }
+    ],
+    "explanation": "This 3-year-old child presents with acute bacterial meningitis caused by Streptococcus pneumoniae (Gram-positive lancet-shaped diplococci; high CSF opening pressure, marked polymorphonuclear pleocytosis, high protein, and markedly low glucose < 40% of serum glucose). S. pneumoniae is the most common cause of community-acquired bacterial meningitis in children over 1 month of age and is associated with substantial rates of mortality and permanent morbidity, particularly sensorineural hearing loss (due to suppurative labyrinthitis and cochlear ossification). When bactericidal antibiotics lyse bacteria in the subarachnoid space, cell wall fragments (peptidoglycan and teichoic acid) trigger an explosive release of inflammatory cytokines (TNF-alpha, IL-1). INTRAVENOUS DEXAMETHASONE administered prior to or concurrently with the first dose of antibiotics blunts this subarachnoid inflammatory cascade, dramatically reducing the risk of permanent sensorineural hearing loss and neurological complications. If antibiotics have already been administered, adding steroids later confers little to no therapeutic benefit. Manage Acute Bacterial Meningitis in Children (> 1 month old: Streptococcus pneumoniae, Neisseria meningitidis): - EMPIRIC ANTIMICROBIAL REGIMEN: IV VANCOMYCIN + CEFTRIAXONE (or Cefotaxime). - ADJUNCTIVE CORTICOSTEROIDS: INTRAVENOUS DEXAMETHASONE given PRIOR TO OR CONCURRENTLY WITH the first dose of antibiotics. Mechanism: Dampens the intense inflammatory cascade triggered by antibiotic-induced bacterial lysis in the subarachnoid space; significantly reduces the incidence of SENSORINEURAL HEARING LOSS and neurological sequelae (especially with S. pneumoniae and Hib). Giving steroids after antibiotics shows no clinical benefit.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Bacterial Meningitis in Children Empiric Regimen and Adjuncts.",
+    "keyPoints": [
+      "Acute Bacterial Meningitis in Children Empiric Regimen and Adjuncts",
+      "Manage Acute Bacterial Meningitis in Children (> 1 month old: Streptococcus pneumoniae, Neisseria meningitidis): - EMPIRIC ANTIMICROBIAL REGIMEN: IV VANCOMYCIN + CEFTRIAXONE (or Ce"
+    ],
+    "references": [
+      {
+        "label": "Brouwer MC, et al. Corticosteroids for acute bacterial meningitis. Cochrane Database Syst Rev. 2015;(9):CD004405. PMID: 26362566.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26362566/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0150",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Post-Cardiac Arrest Targeted Temperature Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old man collapses suddenly while jogging in a park. Bystanders immediately initiate cardiopulmonary resuscitation. Emergency medical services arrive 6 minutes later and find the patient in ventricular fibrillation. The patient undergoes defibrillation twice, receives 1 mg of intravenous epinephrine and 300 mg of amiodarone, and achieves return of spontaneous circulation (ROSC) after 14 minutes of advanced cardiac life support. Upon arrival at the emergency department, the patient is intubated and mechanically ventilated. His vital signs are: temperature 37.2°C (99.0°F), blood pressure 114/74 mm Hg on a low-dose norepinephrine infusion, and heart rate 88/min. Neurological examination reveals an unconscious, comatose patient with Glasgow Coma Scale score of 3T; pupils are 3 mm and sluggishly reactive to light, corneal reflexes are intact bilaterally, and there is no purposeful movement or motor response to noxious sternal pressure. A 12-lead electrocardiogram demonstrates sinus rhythm with nonspecific ST-segment and T-wave changes, without ST-segment elevation or bundle branch block. Bedside echocardiogram shows global left ventricular hypokinesis with an ejection fraction of 35%. Which of the following interventions has been proven to improve neurological outcomes in this patient?",
+    "options": [
+      {
+        "text": "Immediate administration of high-dose intravenous methylprednisolone to reduce cerebral edema",
+        "correct": false,
+        "explanation": "Corticosteroids have shown no benefit in post-cardiac arrest hypoxic-ischemic brain injury and increase infection rates and glycemic instability."
+      },
+      {
+        "text": "Hyperventilation on mechanical ventilation targeting an arterial PaCO2 of 25 to 28 mm Hg",
+        "correct": false,
+        "explanation": "Inducing severe hypocapnia causes potent cerebral vasoconstriction, dangerously reducing cerebral blood flow and exacerbating ischemic brain injury."
+      },
+      {
+        "text": "Administration of 100% fraction of inspired oxygen (FiO2) targeting a PaO2 > 300 mm Hg",
+        "correct": false,
+        "explanation": "Severe hyperoxia promotes oxygen free radical generation and worsens reperfusion injury; oxygen should be titrated to an SpO2 of 92% to 98%."
+      },
+      {
+        "text": "Prophylactic administration of intravenous levetiracetam in the absence of electrographic seizures",
+        "correct": false,
+        "explanation": "Routine prophylactic antiseizure medication in non-convulsive post-cardiac arrest patients without documented electrographic seizures on continuous EEG is not recommended."
+      },
+      {
+        "text": "Initiation of targeted temperature management maintaining a constant core body temperature of 32°C to 36°C for 24 hours",
+        "correct": true,
+        "explanation": "Following return of spontaneous circulation (ROSC) after out-of-hospital cardiac arrest, comatose adult patients (those who fail to follow commands or show purposeful responses) suffer severe ischemia-reperfusion brain injury. The standard of care to optimize cerebral recovery and improve survival with favorable functional neurological outcomes is TARGETED TEMPERATURE MANAGEMENT (TTM). TTM involves active cooling using surface pads or endovascular catheter devices to maintain a constant, controlled core body temperature between 32°C and 36°C (or actively preventing fever <= 37.5°C) for at least 24 hours, followed by controlled rewarming. Hypothermia and strict normothermia decrease cerebral metabolic rate for oxygen, attenuate post-ischemic cerebral edema, suppress glutamate-mediated excitotoxicity, inhibit free radical generation, and block apoptosis cascades. Hyperthermia/fever must be strictly prevented, as every 1°C increase in body temperature above 37°C significantly worsens neuronal death."
+      }
+    ],
+    "explanation": "Following return of spontaneous circulation (ROSC) after out-of-hospital cardiac arrest, comatose adult patients (those who fail to follow commands or show purposeful responses) suffer severe ischemia-reperfusion brain injury. The standard of care to optimize cerebral recovery and improve survival with favorable functional neurological outcomes is TARGETED TEMPERATURE MANAGEMENT (TTM). TTM involves active cooling using surface pads or endovascular catheter devices to maintain a constant, controlled core body temperature between 32°C and 36°C (or actively preventing fever <= 37.5°C) for at least 24 hours, followed by controlled rewarming. Hypothermia and strict normothermia decrease cerebral metabolic rate for oxygen, attenuate post-ischemic cerebral edema, suppress glutamate-mediated excitotoxicity, inhibit free radical generation, and block apoptosis cascades. Hyperthermia/fever must be strictly prevented, as every 1°C increase in body temperature above 37°C significantly worsens neuronal death. Manage Post-Cardiac Arrest Care after Return of Spontaneous Circulation (ROSC): In comatose patients (not following commands): 1. TARGETED TEMPERATURE MANAGEMENT (TTM): Maintain a constant core body temperature between 32°C and 36°C (or strict fever prevention < 37.5°C) for at least 24 hours. Mechanism: Lowers cerebral metabolic demand, suppresses free radical generation, and inhibits ischemic neuronal apoptosis, significantly improving neurological recovery. 2. AVOID FEVER (> 37.7°C), which exacerbates secondary brain injury. 3. Immediate coronary angiography for STEMI or suspected coronary etiology. 4. Avoid hyperoxia and hypocapnia.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Post-Cardiac Arrest Targeted Temperature Management.",
+    "keyPoints": [
+      "Post-Cardiac Arrest Targeted Temperature Management",
+      "Manage Post-Cardiac Arrest Care after Return of Spontaneous Circulation (ROSC): In comatose patients (not following commands): 1. TARGETED TEMPERATURE MANAGEMENT (TTM): Maintain a "
+    ],
+    "references": [
+      {
+        "label": "Panchal AR, et al. 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care: Part 3: Adult Basic and Advanced Life Support. Circulation. 2020;142(16_suppl_2):S366-S468. PMID: 33081529.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33081529/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]
