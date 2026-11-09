@@ -1,0 +1,1079 @@
+import { CandidateSpec } from './types';
+
+export const step1Batch39: CandidateSpec[] = [
+  {
+    "code": "op-c-s1-0951",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Alveolar-Arterial Oxygen Gradient Calculation Mechanisms of Hypoxemia",
+    "provisionalDifficulty": 4,
+    "stem": "A 32-year-old man is found unresponsive in an alley following an intentional overdose of an unknown substance. On arrival, he is bradypneic with 6 respirations per minute. Arterial blood gas on ambient air (FiO2 0.21, barometric pressure 760 mm Hg, water vapor pressure 47 mm Hg) demonstrates: pH 7.22, PaCO2 65 mm Hg, PaO2 60 mm Hg, and calculated bicarbonate 26 mEq/L. The patient receives intravenous naloxone, resulting in prompt awakening and normalization of his respiratory rate to 16/min. What was the patient's calculated alveolar-arterial oxygen gradient (A-a gradient) on room air prior to naloxone administration, and which of the following mechanisms produced his hypoxemia?",
+    "choices": [
+      [
+        "Normal A-a gradient (9 mm Hg), indicating pure alveolar hypoventilation",
+        "The alveolar-arterial oxygen gradient (A-a gradient) distinguishes pure hypoventilation or low inspired FiO2 (which have a NORMAL A-a gradient) from V/Q mismatch, shunt, or diffusion impairment (which have an ELEVATED A-a gradient). (1) First, calculate the Alveolar Oxygen Tension (PAO2) using the ALVEOLAR GAS EQUATION: PAO2 = FiO2 * (Patm - PH2O) - (PaCO2 / R) = 0.21 * (760 - 47) - (65 / 0.8) = 0.21 * (713) - 81.25 = 149.7 - 81.25 = 68.45 mm Hg (~69 mm Hg). (2) Next, calculate the A-a Gradient: A-a gradient = PAO2 - PaO2 = 69 - 60 = 9 mm Hg. A normal A-a gradient is < 10 to 15 mm Hg (or estimated as Age/4 + 4 = 32/4 + 4 = 12 mm Hg). Because the A-a gradient is completely NORMAL (9 mm Hg), the gas exchange surface of the alveolocapillary membrane is structurally intact. Hypoxemia was caused exclusively by PURE ALVEOLAR HYPOVENTILATION (opioid-induced respiratory center depression)."
+      ],
+      [
+        "Markedly elevated A-a gradient (32 mm Hg), indicating non-cardiogenic pulmonary edema",
+        "Pulmonary edema causes severe V/Q mismatch and intrapulmonary shunt, which markedly widens the A-a gradient (> 30 mm Hg)."
+      ],
+      [
+        "Elevated A-a gradient (24 mm Hg), indicating subsegmental acute pulmonary embolism",
+        "Pulmonary embolism creates dead space and V/Q mismatch with an elevated A-a gradient; here the A-a gradient is normal at 9 mm Hg."
+      ],
+      [
+        "Normal A-a gradient (2 mm Hg), indicating left-to-right intracardiac shunt",
+        "Left-to-right shunts (e.g., ASD, VSD) do not cause hypoxemia; right-to-left shunts cause hypoxemia with an elevated A-a gradient."
+      ],
+      [
+        "Significantly negative A-a gradient (-15 mm Hg), indicating hyperbaric diffusion enhancement",
+        "A-a gradient cannot be significantly negative under physiological conditions; arterial PO2 cannot exceed alveolar PO2 on room air."
+      ]
+    ],
+    "shortestValidSolution": "PAO2 = 150 - (65 / 0.8) = 150 - 81 = 69. A-a gradient = 69 - 60 = 9 mm Hg (Normal < 15). Normal A-a gradient + low PaO2 = Pure alveolar hypoventilation (opioid overdose).",
+    "necessaryInference": "Apply the alveolar gas equation to calculate a normal A-a gradient (9 mm Hg), proving pure hypoventilation as the cause of hypoxemia in opioid overdose.",
+    "strongestDistractor": "Markedly elevated A-a gradient (32 mm Hg), indicating non-cardiogenic pulmonary edema",
+    "distractorExclusion": "Pulmonary edema widens the A-a gradient (> 30 mm Hg); the calculation yields PAO2 of 69 mm Hg and an A-a gradient of 9 mm Hg, establishing pure hypoventilation.",
+    "citation": "Petersson J. Gas exchange and ventilation-perfusion relationships in the lung. Eur Respir J. 2014 Oct. PMID: 25063240.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 physiology item requiring multi-step deduction on alveolar-arterial oxygen gradient calculation mechanisms of hypoxemia.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0952",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Intrapulmonary Shunt Atelectasis ARDS Refractory to Supplemental Oxygen",
+    "provisionalDifficulty": 4,
+    "stem": "A 42-year-old man develops severe acute pancreatitis and is admitted to the intensive care unit. On hospital day 3, he develops acute tachypnea, tachycardia, and severe hypoxemia. Chest radiography demonstrates diffuse, bilateral alveolar infiltrates with air bronchograms sparing the cardiophrenic angles. Arterial blood gas on room air reveals PaO2 48 mm Hg. The patient is placed on a non-rebreather face mask delivering 100% supplemental oxygen (FiO2 1.0) for 30 minutes. Repeat arterial blood gas reveals a PaO2 of only 54 mm Hg (virtually unchanged despite maximal inspired oxygen). Which of the following physiological mechanisms explains why hypoxemia in this patient is refractory to 100% supplemental oxygen?",
+    "choices": [
+      [
+        "Right-to-left intrapulmonary shunt through completely unventilated, fluid-filled alveoli (V/Q = 0)",
+        "INTRAPULMONARY SHUNT (V/Q = 0) occurs when mixed venous blood perfuses pulmonary capillaries surrounding completely unventilated or collapsed alveoli (e.g., in acute respiratory distress syndrome [ARDS], lobar pneumonia, or complete atelectasis). Because no gas exchange occurs across these flooded alveoli, the blood traverses the pulmonary circulation without acquiring oxygen and directly mixes with oxygenated blood in the left atrium (true right-to-left shunt). Even when the patient inspires 100% O2 (FiO2 1.0), the alveolar gas in shunted units remains inaccessible to oxygen. Although the end-capillary PO2 in healthy ventilated units rises, hemoglobin is already 100% saturated and can carry only a tiny additional amount of dissolved oxygen, which is insufficient to overcome the desaturating effect of the shunted venous blood. Thus, REFRACTORINESS TO 100% SUPPLEMENTAL OXYGEN is the classic physiological hallmark of SHUNT (V/Q = 0). In contrast, V/Q MISMATCH (V/Q > 0, e.g., COPD, asthma, pulmonary embolism) corrects readily with supplemental oxygen."
+      ],
+      [
+        "Alveolar dead space ventilation with total cessation of pulmonary capillary blood flow (V/Q = infinity)",
+        "Dead space (V/Q = infinity, e.g., pulmonary embolism) represents ventilation without perfusion, causing impaired CO2 elimination rather than oxygen-refractory hypoxemia."
+      ],
+      [
+        "Severe thickening of the alveolocapillary diffusion barrier caused by interstitial fibrosis",
+        "Diffusion impairment causes hypoxemia that improves dramatically with 100% O2 due to the steep alveolar-to-capillary PO2 driving gradient."
+      ],
+      [
+        "Left-to-right systemic-to-pulmonary shunting across a patent ductus arteriosus",
+        "Left-to-right shunting recirculates oxygenated blood through the lungs, which does not cause hypoxemia or refractoriness to oxygen."
+      ],
+      [
+        "Alveolar hypoventilation caused by metabolic exhaustion of the diaphragm",
+        "Hypoventilation corrects immediately with supplemental oxygen because alveolar PO2 is readily restored by raising FiO2."
+      ]
+    ],
+    "shortestValidSolution": "ARDS + PaO2 fails to rise significantly on 100% FiO2 (48 -> 54 mm Hg) = Right-to-left intrapulmonary shunt (V/Q = 0) through flooded alveoli.",
+    "necessaryInference": "Deduce that hypoxemia refractory to 100% supplemental oxygen indicates a right-to-left shunt (V/Q = 0) through non-ventilated alveoli in ARDS.",
+    "strongestDistractor": "Alveolar dead space ventilation with total cessation of pulmonary capillary blood flow (V/Q = infinity)",
+    "distractorExclusion": "Dead space (V/Q = infinity) causes hypercapnia; hypoxemia refractory to 100% supplemental oxygen specifically defines right-to-left shunt (V/Q = 0).",
+    "citation": "Petersson J. Gas exchange and ventilation-perfusion relationships in the lung. Eur Respir J. 2014 Oct. PMID: 25063240.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 physiology item requiring multi-step deduction on intrapulmonary shunt atelectasis ards refractory to supplemental oxygen.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0953",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Physiological Dead Space Bohr Equation Pulmonary Embolism V/Q Infinity",
+    "provisionalDifficulty": 5,
+    "stem": "A 65-year-old woman with a history of deep vein thrombosis presents with acute-onset pleuritic chest pain and dyspnea. CT pulmonary angiography confirms a large saddle pulmonary embolism occluding major arterial branches to both lower lobes. Arterial blood gas demonstrates PaCO2 of 40 mm Hg. Mixed expired gas is collected simultaneously in a Douglas bag, revealing a mixed expired carbon dioxide tension (PECO2) of only 16 mm Hg. Her measured tidal volume (VT) is 500 mL. Using the Enghoff modification of the Bohr equation, what is the patient's physiological dead space volume (VD), and which of the following physiological alterations accounts for the disparity between PaCO2 and PECO2?",
+    "choices": [
+      [
+        "VD is 300 mL (60% of tidal volume), resulting from extensive alveolar dead space ventilation (V/Q = infinity) in non-perfused lung segments",
+        "PHYSIOLOGICAL DEAD SPACE (VD) is the volume of inspired air that does not participate in gas exchange, consisting of anatomical dead space (conducting airways) plus alveolar dead space (ventilated alveoli with zero perfusion). Physiological dead space is calculated using the BOHR EQUATION (Enghoff modification): VD / VT = (PaCO2 - PECO2) / PaCO2. Here: PaCO2 = 40 mm Hg, PECO2 = 16 mm Hg, and VT = 500 mL. VD / VT = (40 - 16) / 40 = 24 / 40 = 0.60 (60%). Therefore, Dead Space Volume (VD) = 0.60 * 500 mL = 300 mL. In healthy individuals, physiological dead space is ~150 mL (20-30% of VT) and consists almost entirely of anatomical dead space. In PULMONARY EMBOLISM, major arterial branches are occluded, completely cutting off perfusion to ventilated alveoli (ALVEOLAR DEAD SPACE; V/Q = infinity). These non-perfused alveoli contain no CO2; during expiration, this CO2-free air dilutes expired gas, driving mixed PECO2 down (to 16 mm Hg) and markedly increasing the dead space fraction to 60%."
+      ],
+      [
+        "VD is 150 mL (30% of tidal volume), representing normal anatomical dead space in conducting airways",
+        "Normal dead space is ~150 mL (30%); calculation yields VD of 300 mL (60%), reflecting massive pathological alveolar dead space."
+      ],
+      [
+        "VD is 200 mL (40% of tidal volume), resulting from right-to-left intracardiac shunting across a patent foramen ovale",
+        "Shunting introduces venous blood without affecting expired CO2 dilution in this manner; calculation yields (24/40)*500 = 300 mL."
+      ],
+      [
+        "VD is 450 mL (90% of tidal volume), caused by severe obstructive air-trapping in distal terminal bronchioles",
+        "Severe air-trapping occurs in COPD/asthma, but the exact calculated dead space here is 300 mL, not 450 mL."
+      ],
+      [
+        "VD is 80 mL (16% of tidal volume), reflecting hyperventilation-induced expansion of effective alveolar volume",
+        "Dead space fraction is (40-16)/40 = 0.60 (300 mL), not 80 mL; pulmonary embolism increases dead space, not decreases it."
+      ]
+    ],
+    "shortestValidSolution": "VD/VT = (PaCO2 - PECO2) / PaCO2 = (40 - 16) / 40 = 24/40 = 0.60. VD = 0.60 * 500 = 300 mL. PE occludes blood flow to ventilated alveoli = Alveolar dead space (V/Q = infinity).",
+    "necessaryInference": "Calculate physiological dead space using the Bohr equation (300 mL; 60% of VT) and recognize that pulmonary embolism creates alveolar dead space (V/Q = infinity).",
+    "strongestDistractor": "VD is 150 mL (30% of tidal volume), representing normal anatomical dead space in conducting airways",
+    "distractorExclusion": "Normal dead space is 150 mL; pulmonary embolism adds non-perfused ventilated alveoli, expanding dead space to (40-16)/40 * 500 = 300 mL.",
+    "citation": "Bourgoin P. Assessment of Bohr and Enghoff Dead Space Equations in Mechanically Ventilated Children. Respir Care. 2017 Apr. PMID: 28223465.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 physiology item requiring multi-step deduction on physiological dead space bohr equation pulmonary embolism v/q infinity.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0954",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Flow-Volume Loop Fixed Upper Airway Obstruction Tracheal Stenosis Plateau",
+    "provisionalDifficulty": 4,
+    "stem": "A 46-year-old woman who required prolonged endotracheal intubation and mechanical ventilation for 3 weeks following a motor vehicle collision 4 months ago presents with progressive exertional dyspnea and audible biphasic inspiratory and expiratory wheezing ('stridor'). Pulmonary function testing with maximal inspiratory and expiratory flow-volume loops is performed. The flow-volume loop reveals symmetric, severe flattening and truncation of BOTH the expiratory limb and the inspiratory limb, with flow rates plateauing at 1.5 L/s in both directions. Which of the following pathological entities is the most likely cause of this physiological pattern?",
+    "choices": [
+      [
+        "Fixed upper airway obstruction secondary to post-intubation tracheal stenosis",
+        "Flow-volume loops provide rapid differentiation of upper airway obstructions based on their anatomical location and mechanical mobility: (1) FIXED UPPER AIRWAY OBSTRUCTION: The airway caliber is mechanically rigid and does not change with transmural pressure fluctuations during the respiratory cycle (e.g., POST-INTUBATION TRACHEAL STENOSIS, large fixed goiter, rigid tracheal ring). Because airflow resistance is constant during both phases, the flow-volume loop demonstrates SYMMETRIC FLATTENING AND TRUNCATION OF BOTH INSPIRATORY AND EXPIRATORY LIMBS (plateauing in both directions). (2) VARIABLE EXTRATHORACIC OBSTRUCTION (e.g., vocal cord paralysis): Negative airway pressure during inspiration narrows the compliant vocal cords, causing selective INSPIRATORY FLATTENING with normal expiration. (3) VARIABLE INTRATHORACIC OBSTRUCTION (e.g., tracheomalacia): Positive pleural pressure during forced expiration collapses the airway, causing selective EXPIRATORY FLATTENING with normal inspiration."
+      ],
+      [
+        "Variable extrathoracic upper airway obstruction secondary to bilateral vocal cord paralysis",
+        "Variable extrathoracic obstruction causes selective flattening of the INSPIRATORY limb with a normal expiratory limb."
+      ],
+      [
+        "Variable intrathoracic airway obstruction secondary to severe dynamic tracheomalacia",
+        "Variable intrathoracic obstruction causes selective flattening of the EXPIRATORY limb with a normal inspiratory limb."
+      ],
+      [
+        "Small airways dynamic collapse secondary to centrilobular pulmonary emphysema",
+        "Emphysema shows a scooped-out expiratory limb with preserved peak expiratory flow and normal inspiratory loop, not symmetric truncation."
+      ],
+      [
+        "Chest wall restriction secondary to severe adolescent idiopathic kyphoscoliosis",
+        "Restrictive lung disease produces a miniature, narrow, 'witch's hat' loop with normal flow rates relative to reduced lung volume, not flat plateaus."
+      ]
+    ],
+    "shortestValidSolution": "Prolonged intubation + stridor + flattening of BOTH inspiratory and expiratory limbs on flow-volume loop = Fixed upper airway obstruction (tracheal stenosis).",
+    "necessaryInference": "Recognize that symmetric plateauing of both inspiratory and expiratory limbs on a flow-volume loop defines a fixed upper airway obstruction, characteristic of post-intubation tracheal stenosis.",
+    "strongestDistractor": "Variable extrathoracic upper airway obstruction secondary to bilateral vocal cord paralysis",
+    "distractorExclusion": "Vocal cord paralysis is a variable extrathoracic lesion that flattens only the inspiratory loop, whereas fixed tracheal stenosis truncates both inspiratory and expiratory loops.",
+    "citation": "Pellegrino R, Viegi G, Brusasco V, et al. Interpretative strategies for lung function tests. Eur Respir J. 2005;26(5):948-968. PMID: 16264058.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 physiology item requiring multi-step deduction on flow-volume loop fixed upper airway obstruction tracheal stenosis plateau.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0955",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Flow-Volume Loop Variable Extrathoracic Obstruction Vocal Cord Paralysis",
+    "provisionalDifficulty": 4,
+    "stem": "A 48-year-old woman undergoes total thyroidectomy for multinodular goiter. On postoperative day 1, she develops high-pitched inspiratory stridor and breathlessness during conversation, with no respiratory distress during expiration. Laryngoscopy reveals paralysis of both vocal cords, which remain adducted near the midline during inspiration. Spirometry with flow-volume loop testing is performed. Which of the following graphical contours on the flow-volume loop is characteristic of this patient's lesion?",
+    "choices": [
+      [
+        "Severe flattening and plateauing of the inspiratory limb with a completely normal, preserved expiratory curve",
+        "This patient has a VARIABLE EXTRATHORACIC UPPER AIRWAY OBSTRUCTION due to bilateral recurrent laryngeal nerve injury during thyroidectomy, causing vocal cord paralysis. The mechanics are governed by TRANSMURAL PRESSURE GRADIENTS: (1) During FORCED INSPIRATION, atmospheric pressure surrounding the compliant extrathoracic trachea is positive relative to the negative subatmospheric pressure within the airway lumen (intraluminal pressure < atmospheric pressure). This inward transmural pressure collapses the paralyzed, compliant vocal cords toward the midline, causing severe airflow limitation and SELECTIVE FLATTENING/PLATEAUING OF THE INSPIRATORY LIMB. (2) During FORCED EXPIRATION, high positive intraluminal pressure generated by the lungs exceeds ambient atmospheric pressure (intraluminal pressure > atmospheric pressure). This outward pressure pushes the paralyzed cords apart, widening the airway lumen and maintaining a COMPLETELY NORMAL, PRESERVED EXPIRATORY CURVE."
+      ],
+      [
+        "Selective flattening of the expiratory limb with a normal, preserved inspiratory loop",
+        "Selective expiratory flattening occurs in variable intrathoracic obstruction (e.g., tracheomalacia), where high pleural pressure collapses the thoracic trachea during expiration."
+      ],
+      [
+        "Symmetric truncation and plateauing of both inspiratory and expiratory limbs",
+        "Symmetric plateauing defines a fixed obstruction (e.g., rigid tracheal stenosis), which is unaffected by transmural pressure."
+      ],
+      [
+        "Deep coving and scooping of the expiratory limb with marked air trapping",
+        "Scooping of the expiratory curve characterizes diffuse small-airway obstruction (asthma, COPD), not focal vocal cord paralysis."
+      ],
+      [
+        "Proportional reduction in all lung volumes with preserved high peak expiratory flow rates",
+        "Proportional volume reduction with a narrow loop characterizes restrictive parenchymal disease (e.g., pulmonary fibrosis)."
+      ]
+    ],
+    "shortestValidSolution": "Vocal cord paralysis = Extrathoracic compliant lesion; negative inspiratory intraluminal pressure collapses cords -> Selective INSPIRATORY flattening with normal expiration.",
+    "necessaryInference": "Deduce that a variable extrathoracic lesion (vocal cord paralysis) causes selective inspiratory flattening on the flow-volume loop due to dynamic collapse during negative-pressure inspiration.",
+    "strongestDistractor": "Selective flattening of the expiratory limb with a normal, preserved inspiratory loop",
+    "distractorExclusion": "Expiratory flattening occurs in variable intrathoracic lesions (tracheomalacia); extrathoracic lesions collapse during inspiration, selectively flattening the inspiratory loop.",
+    "citation": "Miller RD. Evaluation of obstructing lesions of the trachea and larynx by flow-volume loops. Am Rev Respir Dis. 1973 Sep. PMID: 4745245.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 physiology item requiring multi-step deduction on flow-volume loop variable extrathoracic obstruction vocal cord paralysis.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0956",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Flow-Volume Loop Variable Intrathoracic Obstruction Expiratory Plateau",
+    "provisionalDifficulty": 4,
+    "stem": "A 58-year-old man with chronic obstructive pulmonary disease presents with chronic hacking cough and severe breathlessness during exertion. Dynamic bronchoscopy reveals dynamic crescentic collapse of the intrathoracic distal trachea and mainstem bronchi during forced expiration (tracheobronchomalacia). Spirometry with flow-volume loops is performed. Which of the following loop configurations is the hallmark of this variable intrathoracic airway obstruction?",
+    "choices": [
+      [
+        "Selective flattening and plateauing of the forced expiratory limb with an entirely normal inspiratory curve",
+        "In VARIABLE INTRATHORACIC AIRWAY OBSTRUCTION (e.g., tracheomalacia of the lower trachea or an intrathoracic tracheal mass): (1) During FORCED EXPIRATION, pleural pressure becomes highly positive (+20 to +50 cm H2O), significantly exceeding the intraluminal pressure within the weakened, malacic intrathoracic trachea. This positive transmural pressure gradient compresses and collapses the intrathoracic tracheal lumen, causing severe flow limitation and SELECTIVE FLATTENING/PLATEAUING OF THE EXPIRATORY LIMB. (2) During FORCED INSPIRATION, pleural pressure becomes highly negative (-20 to -30 cm H2O), creating an outward radial traction that pulls the intrathoracic trachea wide open. Consequently, inspiratory airflow is completely unimpeded, resulting in a COMPLETELY NORMAL, FULL-DEPTH INSPIRATORY LOOP. This is the exact inverse of extrathoracic obstruction."
+      ],
+      [
+        "Severe flattening of the inspiratory limb with an entirely normal, preserved expiratory curve",
+        "Inspiratory flattening characterizes variable extrathoracic lesions (vocal cord paralysis), which collapse during negative-pressure inspiration."
+      ],
+      [
+        "Symmetric truncation and plateauing of both inspiratory and expiratory limbs",
+        "Symmetric truncation defines fixed airway obstructions (e.g., fibrous tracheal stenosis), which do not change caliber with respiration."
+      ],
+      [
+        "Parallel downward shift of the entire loop with increased residual volume and TLC",
+        "Downwards shifts without dynamic plateaus occur in diffuse chronic emphysema with bullae."
+      ],
+      [
+        "Vertical compression of the loop producing a tall, narrow 'witch's hat' configuration",
+        "The 'witch's hat' appearance is diagnostic of restrictive lung disease with high elastic recoil, not dynamic tracheomalacia."
+      ]
+    ],
+    "shortestValidSolution": "Tracheomalacia in intrathoracic airway = High positive pleural pressure during expiration collapses airway -> Selective EXPIRATORY flattening with normal inspiratory loop.",
+    "necessaryInference": "Recognize that a variable intrathoracic obstruction causes selective expiratory flattening on the flow-volume loop due to positive pleural pressure compressing the airway during forced expiration.",
+    "strongestDistractor": "Severe flattening of the inspiratory limb with an entirely normal, preserved expiratory curve",
+    "distractorExclusion": "Inspiratory flattening occurs in variable extrathoracic lesions (vocal cords); intrathoracic lesions are compressed by positive pleural pressure during expiration, flattening the expiratory loop.",
+    "citation": "Pellegrino R, Viegi G, Brusasco V, et al. Interpretative strategies for lung function tests. Eur Respir J. 2005;26(5):948-968. PMID: 16264058.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 physiology item requiring multi-step deduction on flow-volume loop variable intrathoracic obstruction expiratory plateau.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0957",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Mechanical Ventilation Static Versus Dynamic Respiratory Compliance",
+    "provisionalDifficulty": 5,
+    "stem": "A 45-year-old intubated woman with acute respiratory distress syndrome (ARDS) is maintained on volume-cycled mechanical ventilation with a tidal volume (VT) of 420 mL and positive end-expiratory pressure (PEEP) of 10 cm H2O. Peak inspiratory pressure (PIP) is measured at 40 cm H2O. An end-inspiratory pause (inspiratory hold) is performed, revealing a plateau pressure (Pplat) of 34 cm H2O. Suddenly, the ventilator high-pressure alarm sounds. Repeat measurements demonstrate that PIP has jumped to 52 cm H2O, but plateau pressure remains exactly unchanged at 34 cm H2O. Which of the following acute complications accounts for this isolated increase in peak inspiratory pressure?",
+    "choices": [
+      [
+        "Acute endotracheal tube obstruction by a thick mucus plug (increased airway resistance)",
+        "In mechanical ventilation: (1) PEAK INSPIRATORY PRESSURE (PIP) is the pressure required to overcome both AIRWAY RESISTANCE and THORACIC COMPLIANCE: PIP = Flow * Raw + (VT / Cstatic) + PEEP. (2) PLATEAU PRESSURE (Pplat) is measured during an end-inspiratory pause (when airflow is zero; Flow = 0). Without flow, resistive pressure drops to zero, and Pplat reflects purely the ELASTIC RECOIL (COMPLIANCE) of the lungs and chest wall: Pplat = (VT / Cstatic) + PEEP. Static compliance is calculated as: Cstatic = VT / (Pplat - PEEP). (3) The difference (PIP - Pplat) represents RESISTIVE PRESSURE (transairway pressure). When PIP increases while Pplat remains UNCHANGED, the compliance of the lung is unchanged, and the acute issue is purely an INCREASE IN AIRWAY RESISTANCE (e.g., ENDOTRACHEAL TUBE KINKING, MUCUS PLUGGING, acute bronchospasm, or patient biting the tube). In contrast, an acute drop in compliance (e.g., tension pneumothorax, worsening pulmonary edema, or atelectasis) would elevate BOTH PIP and Pplat simultaneously."
+      ],
+      [
+        "Acute tension pneumothorax compressing the ipsilateral lung (decreased respiratory compliance)",
+        "Tension pneumothorax stiffens the respiratory system, decreasing compliance and elevating BOTH PIP and Pplat simultaneously."
+      ],
+      [
+        "Acute worsening of non-cardiogenic pulmonary edema with alveolar collapse",
+        "Pulmonary edema decreases lung compliance, which causes parallel rises in both PIP and Pplat."
+      ],
+      [
+        "Accidental migration of the endotracheal tube into the right mainstem bronchus",
+        "Mainstem intubation cuts functional lung volume in half, decreasing compliance and markedly raising both PIP and Pplat."
+      ],
+      [
+        "Severe dynamic hyperinflation with development of intrinsic auto-PEEP",
+        "Auto-PEEP increases total end-expiratory pressure and elevates plateau pressure, which is not seen here (Pplat remains 34 cm H2O)."
+      ]
+    ],
+    "shortestValidSolution": "PIP rose from 40 to 52 while Pplat remained 34 cm H2O -> PIP - Pplat (resistive pressure) increased -> Increased AIRWAY RESISTANCE (endotracheal tube mucus plug or kinking).",
+    "necessaryInference": "Distinguish increased airway resistance (isolated PIP elevation with constant Pplat) from decreased compliance (concomitant rise in both PIP and Pplat).",
+    "strongestDistractor": "Acute tension pneumothorax compressing the ipsilateral lung (decreased respiratory compliance)",
+    "distractorExclusion": "Tension pneumothorax reduces respiratory compliance, raising BOTH peak inspiratory pressure and plateau pressure; isolated PIP rise indicates increased airway resistance.",
+    "citation": "Fan E, Brodie D, Slutsky AS. Acute Respiratory Distress Syndrome: Advances in Diagnosis and Treatment. JAMA. 2018 Feb 20;319(7):698-710. PMID: 29466596.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 physiology item requiring multi-step deduction on mechanical ventilation static versus dynamic respiratory compliance.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0958",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Pulmonary Surfactant Dipalmitoylphosphatidylcholine Law of Laplace Mechanics",
+    "provisionalDifficulty": 4,
+    "stem": "A premature male infant born at 27 weeks gestation develops grunting, nasal flaring, intercostal retractions, and cyanosis within 30 minutes of birth. Chest radiography reveals diffuse reticulogranular 'ground-glass' opacities and air bronchograms, confirming neonatal respiratory distress syndrome (NRDS). The underlying pathophysiology involves a severe deficiency of pulmonary surfactant, normally synthesized by type II pneumocytes and composed primarily of dipalmitoylphosphatidylcholine (DPPC). According to the Law of Laplace (P = 2T / r), which of the following physical consequences occurs in the infant's alveoli in the absence of surfactant?",
+    "choices": [
+      [
+        "Collapsing pressure in smaller alveoli becomes inversely proportional to their radius, causing them to empty into larger alveoli and collapse",
+        "The LAW OF LAPLACE describes the collapsing distending pressure in spherical alveoli: P = 2T / r, where P is the collapsing pressure, T is the surface tension at the air-water interface, and r is the alveolar radius. Water molecules at the alveolar surface have high cohesive intermolecular hydrogen bonding, generating high surface tension (T) that tends to collapse the sphere. In the ABSENCE OF SURFACTANT: (1) Surface tension T remains constant across all alveoli regardless of size; (2) Therefore, according to P = 2T / r, SMALLER ALVEOLI (smaller r) DEVELOP DRAMATICALLY HIGHER COLLAPSING PRESSURES than larger alveoli; (3) Air flows down this pressure gradient from smaller alveoli into larger alveoli, causing widespread COLLAPSE OF SMALL ALVEOLI (diffuse microatelectasis) and hyperinflation of larger ones. PULMONARY SURFACTANT (DPPC) is an amphipathic phospholipid that inserts between water molecules, disrupting hydrogen bonds and LOWERING SURFACE TENSION T. Crucially, as an alveolus shrinks, surfactant molecules become tightly packed, REDUCING T PROPORTIONATELY TO RADIUS (T/r remains constant). This equalizes collapsing pressure across all alveolar sizes, stabilizing small alveoli and preventing atelectasis."
+      ],
+      [
+        "Collapsing pressure becomes directly proportional to alveolar radius, promoting spontaneous alveolar over-expansion",
+        "The Law of Laplace dictates an inverse relationship (P = 2T/r); collapsing pressure is inversely, not directly, proportional to radius."
+      ],
+      [
+        "Surface tension drops to zero in larger alveoli, abolishing the transpulmonary pressure gradient",
+        "Surface tension is highest in large alveoli where surfactant is least concentrated; it never drops to zero in large alveoli."
+      ],
+      [
+        "Alveolocapillary hydrostatic pressure exceeds oncotic pressure, driving active lymphatic fluid resorption",
+        "The Law of Laplace governs air-liquid interface surface tension and alveolar stability, not Starling forces across capillary endothelium."
+      ],
+      [
+        "Chest wall inward elastic recoil exceeds lung outward recoil at functional residual capacity",
+        "The chest wall has outward elastic recoil; surfactant deficiency stiffens the lung, increasing inward lung recoil and dropping FRC."
+      ]
+    ],
+    "shortestValidSolution": "Law of Laplace: P = 2T / r. Without surfactant, small alveoli (small r) have high collapsing pressure (P) -> Small alveoli empty into larger ones -> Diffuse atelectasis.",
+    "necessaryInference": "Apply the Law of Laplace (P = 2T/r) to explain how surfactant deficiency causes small alveoli to develop high collapsing pressures and undergo atelectasis in NRDS.",
+    "strongestDistractor": "Collapsing pressure becomes directly proportional to alveolar radius, promoting spontaneous alveolar over-expansion",
+    "distractorExclusion": "Laplace's Law dictates that collapsing pressure is inversely proportional to radius (P = 2T/r), meaning smaller alveoli have higher collapsing pressures without surfactant.",
+    "citation": "Tang X. EMC3 regulates trafficking and pulmonary toxicity of the SFTPCI73T mutation associated with interstitial lung disease. J Clin Invest. 2024 Oct 15. PMID: 39405113.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 physiology item requiring multi-step deduction on pulmonary surfactant dipalmitoylphosphatidylcholine law of laplace mechanics.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0959",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Respiratory",
+    "topic": "Oxygen-Hemoglobin Dissociation Curve Allosteric Shift Bohr Effect",
+    "provisionalDifficulty": 4,
+    "stem": "A 26-year-old marathon runner is sprinting the final 400 meters of a race. In his vigorously contracting quadriceps muscle, accelerated oxidative metabolism and anaerobic glycolysis generate high concentrations of carbon dioxide, hydrogen ions (lactic acid), heat, and 2,3-bisphosphoglycerate (2,3-BPG). These physiological changes alter the allosteric equilibrium of hemoglobin tetramers flowing through the muscle capillaries, promoting efficient oxygen unloading to the metabolically active tissues (the Bohr effect). Which of the following changes in the oxygen-hemoglobin dissociation curve and P50 occurs in this athlete's skeletal muscle capillaries?",
+    "choices": [
+      [
+        "Rightward shift of the dissociation curve with an increased P50, reflecting decreased oxygen affinity",
+        "The oxygen-hemoglobin dissociation curve is sigmoidal due to positive cooperativity among the four heme subunits. In exercising skeletal muscle, local metabolic factors (mnemonic: CADET, face Right!): (1) Increased CO2; (2) Increased Acid / low pH (the BOHR EFFECT: protons protonate histidine residues, forming salt bridges that stabilize the low-affinity deoxygenated T-STATE); (3) Increased 2,3-BPG (binds central cavity of deoxygenated beta chains); (4) Increased Exercise; and (5) Increased Temperature. All of these factors SHIFT THE DISSOCIATION CURVE TO THE RIGHT. A rightward shift means that at any given PO2, hemoglobin has DECREASED AFFINITY FOR OXYGEN, facilitating the unloading of oxygen to respiring tissues. Quantitatively, this is reflected by an INCREASE IN P50 (the PO2 required to achieve 50% hemoglobin saturation, rising from a baseline of ~27 mm Hg to > 35 mm Hg). Conversely, hypothermia, alkalosis, low CO2, low 2,3-BPG, fetal hemoglobin (HbF), and carboxyhemoglobin shift the curve to the LEFT (lower P50, higher affinity)."
+      ],
+      [
+        "Leftward shift of the dissociation curve with an increased P50, reflecting enhanced cooperativity",
+        "A leftward shift always reflects increased affinity and DECREASES P50, not increases it."
+      ],
+      [
+        "Leftward shift of the dissociation curve with a decreased P50, facilitating alveolar oxygen uptake",
+        "Leftward shifts (decreased P50) occur in cold, alkalotic alveolar capillaries to facilitate oxygen uptake, not in warm, acidotic exercising muscle."
+      ],
+      [
+        "Rightward shift of the dissociation curve with a decreased P50, increasing hemoglobin saturation",
+        "A rightward shift reflects decreased affinity, which increases P50 (it takes a higher PO2 to achieve 50% saturation)."
+      ],
+      [
+        "Downward flattening of the curve into a hyperbolic contour with loss of subunit cooperativity",
+        "Hyperbolic non-cooperative curves characterize monomeric MYOGLOBIN, not allosterically shifted tetrameric hemoglobin."
+      ]
+    ],
+    "shortestValidSolution": "Exercising muscle: High CO2, high H+ (acid), high 2,3-BPG, high temp -> RIGHT-SHIFT of O2-Hb curve -> Decreased O2 affinity -> Facilitates O2 unloading -> Increased P50.",
+    "necessaryInference": "Identify the factors that shift the oxygen-hemoglobin curve to the right in exercising muscle (Bohr effect), recognizing that right-shifts decrease affinity and increase P50.",
+    "strongestDistractor": "Leftward shift of the dissociation curve with a decreased P50, facilitating alveolar oxygen uptake",
+    "distractorExclusion": "Leftward shifts increase oxygen affinity and occur in cold, alkaline conditions; warm, acidotic exercising muscle right-shifts the curve to unload oxygen.",
+    "citation": "Mairbaurl H. Red blood cells in sports: effects of exercise and training on oxygen supply by red blood cells. Front Physiol. 2013;4:332. PMID: 24273518.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 biochemistry item requiring multi-step deduction on oxygen-hemoglobin dissociation curve allosteric shift bohr effect.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0960",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "Carbon Monoxide Toxicity Left-Shift Hemoglobin Oxygen-Carrying Capacity",
+    "provisionalDifficulty": 4,
+    "stem": "A 34-year-old man is found confused and lethargic in his garage next to a running portable gasoline generator during a winter power outage. In the emergency department, he complains of a severe, throbbing headache, nausea, and dizziness. Vital signs: blood pressure 110/70 mm Hg, heart rate 108/min, and respirations 20/min. Standard pulse oximetry reads 99% on room air. Arterial blood gas demonstrates: arterial pH 7.34, PaCO2 32 mm Hg, PaO2 98 mm Hg, and calculated bicarbonate 17 mEq/L. Blood co-oximetry reveals a carboxyhemoglobin saturation of 34%. A non-contrast head CT demonstrates bilateral symmetrical hypodensities in the globus pallidus. Which of the following profiles of arterial oxygen parameters is characteristic of this patient's condition?",
+    "choices": [
+      [
+        "Normal PaO2, severely reduced total oxygen content, and a leftward shift of the remaining oxyhemoglobin dissociation curve",
+        "CARBON MONOXIDE (CO) toxicity produces tissue hypoxia through two synergistic mechanisms: (1) COMPETITIVE REVERSIBLE BINDING TO HEME: CO binds to the iron atom of hemoglobin with an affinity > 200 times higher than oxygen, forming carboxyhemoglobin (HbCO). This occupies oxygen-binding sites, dramatically REDUCING TOTAL ARTERIAL OXYGEN CONTENT (CaO2 = 1.34 * [Hb] * SaO2 + 0.003 * PaO2). (2) ALLUSTERic ALTERATION (THE HALDANE/COOPERATIVE EFFECT): The binding of CO to one or two heme subunits alters tetramer conformation, increasing the affinity of the remaining heme sites for oxygen. This causes a dramatic LEFTWARD SHIFT of the oxyhemoglobin dissociation curve, severely IMPAIRING OXYGEN UNLOADING in peripheral tissues. Crucially, PaO2 (the partial pressure of oxygen physically dissolved in plasma) REMAINS COMPLETELY NORMAL because lung ventilation and gas diffusion are intact. Standard two-wavelength pulse oximeters cannot distinguish oxyhemoglobin from carboxyhemoglobin, falsely registering a normal SpO2 (99-100%). Bilateral globus pallidus necrosis on brain imaging is pathognomonic."
+      ],
+      [
+        "Severely reduced PaO2, reduced total oxygen content, and a rightward shift of the dissociation curve",
+        "PaO2 is the dissolved oxygen in plasma, which is completely normal in CO poisoning; CO shifts the curve to the left, not right."
+      ],
+      [
+        "Severely reduced PaO2, normal total oxygen content, and an increased P50 promoting tissue unloading",
+        "PaO2 is normal in CO toxicity, and oxygen content is markedly reduced by carboxyhemoglobin formation."
+      ],
+      [
+        "Normal PaO2, normal total oxygen content, and isolated inhibition of the erythrocyte 2,3-BPG mutase",
+        "Total oxygen content is severely reduced because hemoglobin oxygen saturation is functionally diminished by CO occupation."
+      ],
+      [
+        "Elevated PaO2, elevated methemoglobin fraction, and precipitation of insoluble Heinz bodies",
+        "Heinz bodies and methemoglobinemia are caused by oxidative drugs (e.g., dapsone, nitrites), not carbon monoxide poisoning."
+      ]
+    ],
+    "shortestValidSolution": "CO poisoning = Normal PaO2 (dissolved O2 normal) + Low total O2 content (Hb occupied) + Left-shift of curve (prevents O2 unloading) + Bilateral globus pallidus necrosis.",
+    "necessaryInference": "Deduce that carbon monoxide poisoning features normal PaO2, reduced oxygen-carrying capacity, and a leftward shift of the oxygen-hemoglobin curve that impedes tissue delivery.",
+    "strongestDistractor": "Severely reduced PaO2, reduced total oxygen content, and a rightward shift of the dissociation curve",
+    "distractorExclusion": "PaO2 reflects dissolved oxygen and remains normal in CO poisoning; CO shifts the dissociation curve to the left, impeding tissue oxygen release.",
+    "citation": "Weaver LK. Clinical practice. Carbon monoxide poisoning. N Engl J Med. 2009;360(12):1217-1225. PMID: 19297574.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 pathology item requiring multi-step deduction on carbon monoxide toxicity left-shift hemoglobin oxygen-carrying capacity.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0961",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Methemoglobinemia Ferric Iron Oxidation Chocolate Blood Methylene Blue",
+    "provisionalDifficulty": 4,
+    "stem": "A 29-year-old man undergoing an upper endoscopy for refractory dyspepsia receives topical benzocaine spray to his posterior pharynx for local anesthesia. Ten minutes into the procedure, his lips, tongue, and nail beds turn a distinct slate-blue/ashen-gray color (cyanosis). Pulse oximetry reads 85% and fails to rise despite administration of 100% supplemental oxygen via non-rebreather mask. Arterial blood gas on 100% O2 reveals: pH 7.42, PaCO2 38 mm Hg, and PaO2 280 mm Hg (markedly elevated dissolved oxygen). A tube of venous blood drawn for testing exhibits a dark 'chocolate-brown' appearance that does not turn bright red when exposed to room air. Which of the following alterations in heme iron chemistry accounts for this condition, and what is the definitive pharmacological antidote?",
+    "choices": [
+      [
+        "Oxidation of heme ferrous iron (Fe2+) to the ferric state (Fe3+); treated with intravenous methylene blue",
+        "METHEMOGLOBINEMIA occurs when the iron atom within hemoglobin is oxidized from the normal reduced FERROUS STATE (Fe2+) to the FERRIC STATE (Fe3+). Ferric iron cannot bind oxygen. Furthermore, the presence of Fe3+ in the hemoglobin tetramer exerts an allosteric effect that shifts the oxygen dissociation curve of the remaining Fe2+ subunits to the LEFT, preventing normal oxygen delivery to tissues. It is classically precipitated by OXIDIZING AGENTS: topical anesthetics (BENZOCAINE, lidocaine), dapsone, nitrates/nitrites, and sulfonamides. Clinical features include: (1) Cyanosis unresponsive to supplemental O2; (2) Normal or high PaO2 on arterial blood gas (dissolved oxygen is unaffected); (3) Characteristic 'CHOCOLATE-BROWN' BLOOD that fails to turn red upon atmospheric exposure; and (4) Pulse oximetry saturation plateauing around 85% (due to equal absorbance of 660 nm and 940 nm light by methemoglobin). The definitive antidote is METHYLENE BLUE, which acts as an electron acceptor for NADPH-methemoglobin reductase, rapidly reducing Fe3+ back to Fe2+."
+      ],
+      [
+        "Reduction of heme ferric iron (Fe3+) to the ferrous state (Fe2+); treated with intravenous deferoxamine",
+        "Methemoglobinemia is an OXIDATION of Fe2+ to Fe3+, not a reduction; deferoxamine is an iron chelator used in acute iron poisoning or hemochromatosis."
+      ],
+      [
+        "Irreversible carbonylation of beta-globin chains; treated with hyperbaric oxygen therapy",
+        "Carbonylation of globin chains does not cause methemoglobinemia; carbon monoxide binds ferrous iron and is treated with hyperbaric oxygen."
+      ],
+      [
+        "Mitochondrial cytochrome c oxidase inhibition; treated with intravenous sodium thiosulfate",
+        "Cytochrome c oxidase inhibition is the mechanism of cyanide poisoning (treated with hydroxocobalamin or nitrites/thiosulfate), not benzocaine toxicity."
+      ],
+      [
+        "Precipitation of oxidized hemoglobin into Heinz bodies; treated with therapeutic exchange transfusion",
+        "Heinz bodies and bite cells characterize acute G6PD hemolytic crisis; methemoglobinemia is managed primarily with methylene blue."
+      ]
+    ],
+    "shortestValidSolution": "Benzocaine spray + cyanosis + pulse ox 85% + chocolate-brown blood + PaO2 normal/high = Methemoglobinemia (Fe2+ oxidized to Fe3+); antidote is Methylene Blue.",
+    "necessaryInference": "Recognize methemoglobinemia from topical anesthetic exposure, cyanosis with normal PaO2, and chocolate-brown blood, identifying Fe2+ oxidation to Fe3+ treated with methylene blue.",
+    "strongestDistractor": "Reduction of heme ferric iron (Fe3+) to the ferrous state (Fe2+); treated with intravenous deferoxamine",
+    "distractorExclusion": "Methemoglobin forms when ferrous iron (Fe2+) is oxidized to ferric iron (Fe3+); deferoxamine is used for iron overload, whereas methylene blue treats methemoglobinemia.",
+    "citation": "Skold A, Cosco DL, Klein R. Methemoglobinemia: pathogenesis, diagnosis, and management. South Med J. 2011;104(11):757-761. PMID: 22024786.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 pathology item requiring multi-step deduction on methemoglobinemia ferric iron oxidation chocolate blood methylene blue.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0962",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Cyanide Poisoning Cytochrome c Oxidase Inhibition Hydroxocobalamin",
+    "provisionalDifficulty": 5,
+    "stem": "A 38-year-old firefighter is rescued from a burning industrial warehouse containing burning polyurethane plastics and synthetic furniture. He is confused, tachypneic, and vomiting. Physical examination reveals pink, cherry-red skin without soot in his oropharynx. Vital signs: blood pressure 88/54 mm Hg and heart rate 124/min. Pulse oximetry reads 99% on room air. Arterial blood gas demonstrates a severe high anion gap metabolic acidosis: pH 7.10, PaCO2 26 mm Hg, PaO2 102 mm Hg, and serum bicarbonate 8 mEq/L. Serum lactate is markedly elevated at 14 mmol/L. Central venous blood gas reveals an unusually high central venous oxygen saturation (ScvO2 92%; normal 70-75%). Which of the following mitochondrial enzymes is directly inhibited by this toxic inhalation, and what accounts for the abnormally elevated venous oxygen saturation?",
+    "choices": [
+      [
+        "Inhibition of cytochrome c oxidase (Complex IV) preventing cellular oxygen utilization",
+        "CYANIDE POISONING is a major cause of death in smoke inhalation victims from house and industrial fires (combustion of polyurethane, wool, silk, and synthetic polymers). Cyanide binds with high affinity to the ferric (Fe3+) iron within CYTOCHROME C OXIDASE (COMPLEX IV) of the mitochondrial electron transport chain. By halting the transfer of electrons to molecular oxygen, OXIDATIVE PHOSPHORYLATION CEASES, and cells are forced into anaerobic glycolysis, generating massive amounts of LACTIC ACID (severe lactic acidosis with high anion gap). Because arterial oxygen delivery and hemoglobin saturation are completely normal (PaO2 102 mm Hg, SpO2 99%), but peripheral cells are COMPLETELY INCAPABLE OF EXTRACTING OR UTILIZING OXYGEN, blood passes through tissue capillary beds unextracted. Consequently, venous blood returns to the right heart fully oxygenated, producing abnormally elevated venous oxygen saturation (ScvO2 > 90%) and bright cherry-red venous blood. First-line antidote is HYDROXOCOBALAMIN (which binds cyanide to form cyanocobalamin, excreted in urine), or sodium nitrite plus sodium thiosulfate."
+      ],
+      [
+        "Inhibition of mitochondrial pyruvate dehydrogenase complex preventing acetyl-CoA entry into the Krebs cycle",
+        "Arsenic inhibits pyruvate dehydrogenase (lipoic acid); cyanide specifically blocks cytochrome c oxidase in the electron transport chain."
+      ],
+      [
+        "Inhibition of ATP synthase (Complex V) causing proton gradient dissipation and thermal uncoupling",
+        "Uncoupling agents (2,4-dinitrophenol, aspirin) dissipate the proton gradient; cyanide blocks electron transport at Complex IV."
+      ],
+      [
+        "Inhibition of succinate dehydrogenase (Complex II) preventing FADH2 electron donation to coenzyme Q",
+        "Complex II is not the target of cyanide; Complex IV (cytochrome c oxidase) is the high-affinity binding site for cyanide."
+      ],
+      [
+        "Inhibition of NADH-ubiquinone oxidoreductase (Complex I) preventing NADH oxidation",
+        "Rotenone and metformin inhibit Complex I; cyanide inhibits Complex IV (cytochrome c oxidase)."
+      ]
+    ],
+    "shortestValidSolution": "Smoke inhalation + severe lactic acidosis + high venous ScvO2 (92%) = Cyanide poisoning; blocks mitochondrial Complex IV (cytochrome c oxidase), preventing tissue oxygen extraction.",
+    "necessaryInference": "Link smoke inhalation and severe lactic acidosis with high venous oxygen saturation to cyanide poisoning, identifying mitochondrial cytochrome c oxidase (Complex IV) inhibition.",
+    "strongestDistractor": "Inhibition of ATP synthase (Complex V) causing proton gradient dissipation and thermal uncoupling",
+    "distractorExclusion": "Aspirin and DNP uncouple oxidative phosphorylation; cyanide halts electron transfer at Complex IV (cytochrome c oxidase), blocking oxygen consumption.",
+    "citation": "Hamel J. A review of acute cyanide poisoning with a treatment update. Crit Care Nurse. 2011;31(1):72-81. PMID: 21285466.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 biochemistry item requiring multi-step deduction on cyanide poisoning cytochrome c oxidase inhibition hydroxocobalamin.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0963",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "Silicosis Macrophage Lysosomal Phagolysosome Rupture Eggshell Calcification",
+    "provisionalDifficulty": 4,
+    "stem": "A 58-year-old man who worked in sandblasting and granite quarrying for 30 years presents with progressive exertional dyspnea and dry cough. Physical examination reveals bilateral end-inspiratory crackles. Chest radiography demonstrates multiple small, discrete, rounded nodular opacities predominant in the UPPER LOBES of both lungs, accompanied by prominent peripheral rim calcification of the hilar and mediastinal lymph nodes ('eggshell calcification'). A tuberculin skin test (PPD) is placed and produces 18 mm of induration (positive). Which of the following cellular mechanisms explains both the pulmonary fibrotic nodules and the increased susceptibility to Mycobacterium tuberculosis in this occupational lung disease?",
+    "choices": [
+      [
+        "Phagocytosis of silica particles by alveolar macrophages causes lysosomal membrane rupture and macrophage lysis, impairing phagolysosomal killing",
+        "SILICOSIS is a pneumoconiosis caused by chronic inhalation of crystalline silica (quartz) particles (< 5 micrometers), common in SANDBLASTERS, foundry workers, miners, and granite stonecutters. Small silica particles deposit in distal terminal bronchioles and alveoli, where they are engulfed by ALVEOLAR MACROPHAGES. Insoluble crystalline silica particles interact with and physically disrupt PHAGOLYSOSOMAL MEMBRANES, causing phagolysosomal leakage of acid hydrolases into the macrophage cytoplasm, triggering MACROPHAGE LYSIS. The dying macrophages release viable silica particles along with fibrogenic cytokines (IL-1, TNF-alpha, TGF-beta, PDGF), recruiting new macrophages and stimulating fibroblasts to produce dense concentric collagenous nodular fibrosis. On chest radiography, this produces upper lobe nodular opacities and pathognomonic 'EGGSHELL CALCIFICATION' of hilar lymph nodes. Because macrophage phagolysosomal function and viability are chronically crippled, patients have a >30-fold INCREASED RISK OF ACTIVE TUBERCULOSIS (silicotuberculosis) and atypical mycobacterial infections."
+      ],
+      [
+        "Direct epigenetic inactivation of the p53 tumor suppressor gene by crystalline silica particles",
+        "Silicosis is associated with increased lung cancer risk, but the fibrotic and mycobacterial susceptibility mechanism is macrophage lysosomal disruption, not p53 mutation."
+      ],
+      [
+        "Deposition of silica crystals along the pleural mesothelium inducing chronic asbestos-like plaques",
+        "Pleural plaques and mesothelioma are caused by ASBESTOS fibers, whereas silica produces parenchymal nodular fibrosis and eggshell hilar calcification."
+      ],
+      [
+        "Generation of autoantibodies against pulmonary capillary endothelial basement membranes",
+        "Silicosis is a particle-induced macrophage-mediated fibrotic disease, not an autoimmune anti-basement membrane vasculitis."
+      ],
+      [
+        "Eosinophilic degranulation with major basic protein release causing diffuse non-caseating granulomas",
+        "Eosinophilic inflammation characterizes asthma and allergic bronchopulmonary aspergillosis, not silica-induced silicotic nodules."
+      ]
+    ],
+    "shortestValidSolution": "Sandblasting + upper lobe nodules + eggshell hilar calcification + high TB risk = Silicosis (silica disrupts alveolar macrophage phagolysosomes).",
+    "necessaryInference": "Identify silicosis from sandblasting history, upper lobe nodules, and eggshell calcification, linking pathogenesis and tuberculosis risk to alveolar macrophage phagolysosomal disruption.",
+    "strongestDistractor": "Deposition of silica crystals along the pleural mesothelium inducing chronic asbestos-like plaques",
+    "distractorExclusion": "Pleural plaques characterize asbestosis (lower lobes); silicosis causes upper lobe nodular parenchymal fibrosis and eggshell lymph node calcification with high tuberculosis risk.",
+    "citation": "Leung CC, Yu IT, Chen W. Silicosis. Lancet. 2012;379(9830):2008-2018. PMID: 22534002.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 pathology item requiring multi-step deduction on silicosis macrophage lysosomal phagolysosome rupture eggshell calcification.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0964",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "Asbestos Exposure Ferruginous Bodies Pleural Plaques Mesothelioma Risk",
+    "provisionalDifficulty": 4,
+    "stem": "A 68-year-old retired shipyard worker and pipefitter presents with progressive exertional dyspnea, dry cough, and 4 kg weight loss over 6 months. Physical examination reveals bilateral inspiratory Velcro crackles at the lung bases and digital clubbing. Chest CT reveals bilateral calcified diaphragmatic pleural plaques, subpleural reticular interstitial fibrosis predominant in the LOWER LOBES, and a large unilateral pleural effusion with nodular pleural thickening. Thoracentesis yields hemorrhagic exudative fluid with malignant mesothelial cells positive for calretinin and WT-1. Prussian blue iron staining of a transbronchial lung biopsy reveals golden-brown, fusiform, beaded rod-like structures with bulbous ends. Which of the following statements correctly reflects the epidemiology and pulmonary pathology of this occupational exposure?",
+    "choices": [
+      [
+        "Ferruginous bodies are iron- and protein-coated asbestos fibers, and bronchogenic carcinoma is far more common than malignant mesothelioma",
+        "ASBESTOS EXPOSURE occurs in shipyard workers, pipefitters, insulators, demolition workers, and brake mechanics. Inhaled amphibole and serpentine fibers deposit in lower lobes. Alveolar macrophages phagocytose the fibers and coat them with ferritin and hemosiderin, forming pathognomonic ASBESTOS (FERRUGINOUS) BODIES: golden-brown, beaded, dumbbell-shaped rods that stain intensely blue on PRUSSIAN BLUE iron stain. Classic pathological manifestations include: (1) Calcified ivory-white PLEURAL PLAQUES on the parietal and diaphragmatic pleura (the most common manifestation of exposure; does NOT undergo malignant transformation); (2) ASBESTOSIS: diffuse interstitial pulmonary fibrosis predominant in the LOWER LOBES (in contrast to silicosis and coal, which affect upper lobes); and (3) Malignancy: While MALIGNANT MESOTHELIOMA (calretinin-positive tumor encasing the lung) is specifically associated with asbestos, BRONCHOGENIC CARCINOMA (adenocarcinoma or squamous cell carcinoma) is epidemiologically MUCH MORE COMMON than mesothelioma in asbestos-exposed individuals, and its risk is exponentially multiplied by concurrent cigarette smoking."
+      ],
+      [
+        "Ferruginous bodies represent calcified silica crystals, and malignant mesothelioma is ten times more frequent than lung adenocarcinoma",
+        "Ferruginous bodies are asbestos fibers coated with iron, not silica, and bronchogenic carcinoma is far more common than mesothelioma."
+      ],
+      [
+        "Asbestos fibers induce diffuse upper lobe cavitation with high susceptibility to Aspergillus mycetoma",
+        "Asbestos causes lower lobe interstitial fibrosis without cavitation; upper lobe disease occurs in silicosis and coal worker pneumoconiosis."
+      ],
+      [
+        "The development of calcified pleural plaques represents obligate pre-invasive carcinoma in situ",
+        "Pleural plaques are benign collagenous fibrous markers of asbestos exposure that do NOT transform into malignancy."
+      ],
+      [
+        "Asbestos exposure in non-smokers carries zero excess risk of developing primary bronchogenic carcinoma",
+        "Asbestos exposure alone confers an increased risk of bronchogenic carcinoma, which becomes synergistically multiplied by smoking."
+      ]
+    ],
+    "shortestValidSolution": "Shipyard worker + lower lobe fibrosis + calcified pleural plaques + dumbbell rods (Prussian blue) = Asbestosis with ferruginous bodies; bronchogenic carcinoma > mesothelioma.",
+    "necessaryInference": "Recognize asbestos exposure from shipyard work, pleural plaques, and ferruginous bodies, understanding that bronchogenic carcinoma is more common than malignant mesothelioma.",
+    "strongestDistractor": "Ferruginous bodies represent calcified silica crystals, and malignant mesothelioma is ten times more frequent than lung adenocarcinoma",
+    "distractorExclusion": "Ferruginous bodies are iron-coated asbestos fibers (not silica), and bronchogenic carcinoma is substantially more frequent than mesothelioma in exposed patients.",
+    "citation": "Roggli VL, Gibbs AR, Attanoos R, et al. Pathology of asbestosis- An update of the diagnostic criteria: Report of the asbestosis committee of the college of american pathologists and pulmonary pathology society. Arch Pathol Lab Med. 2010;134(3):462-480. PMID: 20196674.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 pathology item requiring multi-step deduction on asbestos exposure ferruginous bodies pleural plaques mesothelioma risk.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0965",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "Coal Worker Pneumoconiosis Anthracosis Progressive Massive Fibrosis Upper Lobes",
+    "provisionalDifficulty": 5,
+    "stem": "A 66-year-old retired underground coal miner from West Virginia presents with worsening exertional dyspnea, black-tinged sputum production (melanoptysis), and productive morning cough. He has a 40-pack-year smoking history. Physical examination reveals decreased breath sounds bilaterally and coarse rhonchi. Chest radiography and high-resolution CT demonstrate diffuse, extensive coalescent nodular opacities larger than 2 cm in diameter in the bilateral UPPER LOBES with central cavitation and surrounding focal emphysema. Histopathological examination of lung biopsy tissue demonstrates large accumulations of carbon-laden macrophages within a dense network of collagen and reticulin fibers surrounding respiratory bronchioles (coal macules and nodules). Which of the following designations correctly describes this advanced stage of coal-induced lung disease?",
+    "choices": [
+      [
+        "Progressive massive fibrosis (PMF) complicating simple coal worker pneumoconiosis",
+        "COAL WORKER'S PNEUMOCONIOSIS (CWP; black lung disease) results from chronic inhalation of coal dust containing carbon and silica. The spectrum of disease ranges from: (1) ASYMPTOMATIC ANTHRACOSIS: widespread carbon pigment in alveolar macrophages and subpleural lymphatics without cellular injury (ubiquitous in city dwellers and smokers); (2) SIMPLE CWP: accumulation of carbon-laden macrophages along respiratory bronchioles, forming COAL MACULES (1-2 mm) and COAL NODULES with minimal functional impairment, predominantly in the UPPER LOBES (due to reduced lymphatic clearance in upper zones); and (3) COMPLICATED CWP (PROGRESSIVE MASSIVE FIBROSIS [PMF]): Coal nodules coalesce over decades into dense, black, collagenous fibrotic masses (> 2 cm in diameter), often with central ischemic necrosis and cavitation. PMF leads to severe restrictive/obstructive pulmonary impairment, pulmonary hypertension, and cor pulmonale. Unlike silicosis, pure coal dust exposure does not significantly increase susceptibility to tuberculosis."
+      ],
+      [
+        "Idiopathic pulmonary hemosiderosis secondary to chronic occult alveolar hemorrhage",
+        "Hemosiderosis shows iron-laden macrophages (Prussian blue positive) following alveolar hemorrhage, not carbonaceous coal dust."
+      ],
+      [
+        "Caplan syndrome characterized by rheumatoid factor-mediated eosinophilic vasculitis",
+        "Caplan syndrome is the combination of rheumatoid arthritis with pneumoconiotic nodules, not isolated progressive massive fibrosis."
+      ],
+      [
+        "Extrinsic allergic alveolitis secondary to thermophilic actinomycete hypersensitivity",
+        "Extrinsic allergic alveolitis (hypersensitivity pneumonitis) involves organic antigen exposure with poorly formed granulomas, not coal dust."
+      ],
+      [
+        "Byssinosis caused by chronic occupational inhalation of raw cotton fibers",
+        "Byssinosis ('Monday morning chest tightness') is caused by textile cotton dust, presenting with bronchospasm without progressive massive fibrosis."
+      ]
+    ],
+    "shortestValidSolution": "Coal miner + upper lobe coalescent masses > 2 cm + black sputum = Progressive massive fibrosis (complicated coal worker pneumoconiosis).",
+    "necessaryInference": "Identify progressive massive fibrosis as the severe advanced stage of coal worker pneumoconiosis, characterized by coalescent black upper-lobe fibrotic masses.",
+    "strongestDistractor": "Caplan syndrome characterized by rheumatoid factor-mediated eosinophilic vasculitis",
+    "distractorExclusion": "Caplan syndrome requires concurrent rheumatoid arthritis; progressive massive fibrosis is the standard severe stage of coalescing coal worker pneumoconiosis.",
+    "citation": "Zosky GR. Coal workers' pneumoconiosis: an Australian perspective. Med J Aust. 2016 Jun 20. PMID: 27318401.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 pathology item requiring multi-step deduction on coal worker pneumoconiosis anthracosis progressive massive fibrosis upper lobes.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0966",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Respiratory",
+    "topic": "Chronic Berylliosis Aerospace Worker Noncaseating Granulomas HLA-DPB1",
+    "provisionalDifficulty": 4,
+    "stem": "A 44-year-old man who works as a materials engineer in an aerospace manufacturing plant machining specialized heat-resistant alloys presents with progressive exertional dyspnea, fatigue, and dry cough. Physical examination reveals bilateral fine inspiratory crackles and mild digital clubbing. Chest radiography demonstrates diffuse bilateral hilar lymphadenopathy and reticulonodular infiltrates predominant in the upper lobes. Transbronchial lung biopsy reveals numerous well-formed, non-caseating granulomas with multinucleated giant cells, completely indistinguishable from sarcoidosis. Special stains for acid-fast bacilli and fungi are negative. Blood testing reveals a positive beryllium lymphocyte proliferation test (BeLPT). Genetic analysis demonstrates that individuals carrying the HLA-DPB1 Glu69 allele have a dramatically increased susceptibility to this disease. Which of the following immune mechanisms drives the formation of non-caseating granulomas in this disorder?",
+    "choices": [
+      [
+        "CD4+ T-helper type 1 (Th1) cell-mediated delayed-type hypersensitivity reaction driven by interferon-gamma and TNF-alpha",
+        "CHRONIC BERYLLIOSIS is an occupational granulomatous lung disease occurring in individuals exposed to beryllium metal, alloys, or ceramics (AEROSPACE, nuclear, telecommunications, electronics, and dental alloy manufacturing). In genetically susceptible individuals carrying the HLA-DPB1 Glu69 allele, ionic beryllium acts as a hapten, binding into a specific negatively charged pocket of the HLA-DP antigen-presenting groove. Antigen-presenting dendritic cells present beryllium to antigen-specific CD4+ T-CELLS, triggering a potent TYPE IV (DELAYED-TYPE) HYPERSENSITIVITY REACTION. Proliferating Th1 cells secrete INTERFERON-GAMMA and TNF-ALPHA, which activate alveolar macrophages into epithelioid histiocytes and multinucleated Langhans giant cells, forming NON-CASEATING GRANULOMAS. The clinical, radiological, and histopathological presentation is virtually IDENTICAL TO SARCOIDOSIS (hilar adenopathy, non-caseating granulomas), making occupational exposure history and the BERYLLIUM LYMPHOCYTE PROLIFERATION TEST (BeLPT) essential for differentiation."
+      ],
+      [
+        "Immediate IgE-mediated mast cell and basophil degranulation with leukotriene release",
+        "Immediate IgE-mediated degranulation is Type I hypersensitivity (e.g., asthma, anaphylaxis), which does not form non-caseating granulomas."
+      ],
+      [
+        "Immune complex deposition in alveolar capillary basements with classical complement activation",
+        "Immune complex deposition is Type III hypersensitivity (e.g., systemic lupus, hypersensitivity pneumonitis), not beryllium-specific Th1 granulomas."
+      ],
+      [
+        "Direct cytotoxicity mediated by CD8+ perforin-granzyme release targeting type I pneumocytes",
+        "Perforin-granzyme cytotoxicity occurs in viral pneumonias and graft rejection; berylliosis is driven by CD4+ Th1 cytokine-mediated granuloma formation."
+      ],
+      [
+        "Eosinophil major basic protein toxicity secondary to interleukin-5 hypersecretion",
+        "IL-5 and eosinophils drive allergic granulomatosis (EGPA) and chronic eosinophilic pneumonia, not non-caseating berylliosis."
+      ]
+    ],
+    "shortestValidSolution": "Aerospace worker + non-caseating granulomas (sarcoidosis mimic) + positive BeLPT = Berylliosis via CD4+ Th1 delayed-type hypersensitivity (IFN-gamma).",
+    "necessaryInference": "Identify chronic berylliosis from aerospace employment and non-caseating granulomas, recognizing the mechanism as CD4+ Th1 cell-mediated delayed-type hypersensitivity.",
+    "strongestDistractor": "Immune complex deposition in alveolar capillary basements with classical complement activation",
+    "distractorExclusion": "Type III immune complexes cause systemic vasculitis; berylliosis is a classic Type IV cell-mediated granulomatous reaction driven by Th1 lymphocytes.",
+    "citation": "Balmes JR, Abraham JL, Dweik RA, et al. An official American Thoracic Society statement: diagnosis and management of beryllium sensitivity and chronic beryllium disease. Am J Respir Crit Care Med. 2014;190(10):e34-e59. PMID: 25398119.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 immunology item requiring multi-step deduction on chronic berylliosis aerospace worker noncaseating granulomas hla-dpb1.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0967",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Respiratory",
+    "topic": "Hypersensitivity Pneumonitis Farmer Lung Thermophilic Actinomycetes Granulomas",
+    "provisionalDifficulty": 4,
+    "stem": "A 47-year-old dairy farmer presents with recurring episodes of fever, chills, non-productive cough, and severe shortness of breath that begin 4 to 6 hours after shoveling moldy hay into his barn. The symptoms peak over 12 hours and resolve spontaneously within 2 to 3 days when he leaves the farm on vacation, only to recur promptly upon his return. Physical examination during an acute attack reveals bibasilar crackles and mild tachypnea. Chest CT demonstrates diffuse bilateral ground-glass centrilobular nodules and air trapping. Bronchoalveolar lavage reveals a marked lymphocytic alveolitis (> 50% lymphocytes) with a CD4-to-CD8 ratio < 1.0 (CD8+ predominance). Lung biopsy demonstrates chronic interstitial lymphocytic inflammation, non-necrotizing poorly formed granulomas, and cellular bronchiolitis. Inhalation of which of the following antigens is the primary cause of this condition ('Farmer's lung')?",
+    "choices": [
+      [
+        "Spores of thermophilic actinomycetes (Saccharopolyspora rectivirgula) growing in moldy hay",
+        "HYPERSENSITIVITY PNEUMONITIS (extrinsic allergic alveolitis) is an immunologically mediated inflammatory lung disease resulting from repeated inhalation of environmental organic antigens. Common occupational variants include: (1) FARMER'S LUNG: caused by inhalation of THERMOPHILIC ACTINOMYCETES (Saccharopolyspora rectivirgula, formerly Micropolyspora faeni, or Thermoactinomyces vulgaris) that thrive in warm, moldy hay/compost; (2) BIRD FANCIER'S LUNG: caused by avian serum proteins in pigeon or parrot droppings/feathers. Pathophysiologically, it involves a COMBINED TYPE III (immune complex / IgG precipitating antibodies) and TYPE IV (delayed-type cell-mediated) HYPERSENSITIVITY response. Acute attacks occur 4-8 hours post-exposure (fever, dyspnea, chills). Histopathology reveals: (1) Interstitial lymphocytic and plasma cell infiltrate; (2) POORLY FORMED NON-CASEATING GRANULOMAS; and (3) Cellular bronchiolitis centered on respiratory bronchioles. Unlike sarcoidosis (which has CD4+ predominance with CD4/CD8 > 3.5), BAL in hypersensitivity pneumonitis characteristically shows CD8+ LYMPHOCYTIC PREDOMINANCE (CD4/CD8 < 1.0)."
+      ],
+      [
+        "Endotoxins released from the outer membrane of gram-negative Pseudomonas aeruginosa",
+        "Pseudomonas endotoxin causes acute septic lung injury or cystic fibrosis exacerbations, not agricultural hypersensitivity pneumonitis."
+      ],
+      [
+        "Inorganic crystalline silicon dioxide particles liberated from volcanic soil",
+        "Silicon dioxide causes silicosis (sandblasters/quarriers), characterized by upper lobe nodular fibrosis and eggshell calcification, not acute farmer's lung."
+      ],
+      [
+        "Exotoxin A synthesized by Corynebacterium diphtheriae colonizing the upper airways",
+        "Diphtheria exotoxin causes pseudomembranous pharyngitis and myocarditis, not extrinsic allergic alveolitis."
+      ],
+      [
+        "Aspergillus fumigatus hyphae actively invading bronchial cartilage and perivascular spaces",
+        "Invasive aspergillosis occurs in severely immunocompromised neutropenic patients, presenting with hemoptysis and halo sign, not moldy hay alveolitis."
+      ]
+    ],
+    "shortestValidSolution": "Farmer shoveling moldy hay + episodic dyspnea/fever 4-6 hrs post-exposure + CD8+ lymphocytic alveolitis + poorly formed granulomas = Farmer lung (Thermophilic actinomycetes).",
+    "necessaryInference": "Link moldy hay exposure in a dairy farmer to hypersensitivity pneumonitis caused by thermophilic actinomycetes, featuring combined Type III and Type IV hypersensitivity.",
+    "strongestDistractor": "Aspergillus fumigatus hyphae actively invading bronchial cartilage and perivascular spaces",
+    "distractorExclusion": "Invasive aspergillosis is an angioinvasive infection in neutropenia; farmer's lung is an immunologic hypersensitivity reaction to thermophilic actinomycetes in moldy hay.",
+    "citation": "Alberti ML. Hypersensitivity Pneumonitis: Diagnostic and Therapeutic Challenges. Front Med (Lausanne). 2021. PMID: 34631740.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 immunology item requiring multi-step deduction on hypersensitivity pneumonitis farmer lung thermophilic actinomycetes granulomas.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0968",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "Idiopathic Pulmonary Fibrosis UIP Pattern Fibroblastic Foci Honeycombing",
+    "provisionalDifficulty": 4,
+    "stem": "A 67-year-old male former smoker presents with a 1-year history of insidious, progressive exertional shortness of breath and a persistent, dry, hacking cough. Physical examination reveals bilateral prominent digital clubbing and dry, late-inspiratory 'Velcro-like' crackles over the lower lung bases. High-resolution chest CT (HRCT) demonstrates subpleural and basilar-predominant reticular opacities with extensive traction bronchiectasis and peripheral 'honeycombing' (clustered cystic airspaces with thick fibrotic walls). Pulmonary function tests show: FEV1 68% predicted, FVC 54% predicted, FEV1/FVC ratio 85% (elevated), total lung capacity (TLC) 60% predicted, and DLCO 42% predicted. Lung biopsy confirms a Usual Interstitial Pneumonia (UIP) pattern. Which of the following microscopic histopathological features is the cardinal diagnostic hallmark of this disease?",
+    "choices": [
+      [
+        "Temporal and spatial heterogeneity with alternating zones of normal lung, dense collagenous scarring, and active fibroblastic foci",
+        "IDIOPATHIC PULMONARY FIBROSIS (IPF) is a chronic, progressive, fibrosing interstitial pneumonia occurring predominantly in older male smokers. The definitive histopathological and radiological pattern is USUAL INTERSTITIAL PNEUMONIA (UIP). The cardinal microscopic hallmark of UIP is TEMPORAL AND SPATIAL HETEROGENEITY: areas of dense, mature collagenous scarring and subpleural HONEYCOMB CYSTIC AIRSPACES immediately adjacent to completely normal lung parenchyma. Crucially, active fibrogenesis is represented by FIBROBLASTIC FOCI (convex subepithelial proliferations of active spindle-shaped myofibroblasts and fibroblasts embedded in pale, myxoid extracellular matrix). Pathogenetically, repeated microinjuries to alveolar type I pneumocytes in genetically susceptible individuals trigger aberrant repair: type II pneumocytes fail to re-epithelialize and instead secrete TGF-BETA and PDGF, inducing excessive myofibroblast recruitment and progressive, irreversible collagen deposition. Honeycombing and traction bronchiectasis reflect end-stage architectural distortion."
+      ],
+      [
+        "Uniform, temporally homogeneous interstitial chronic lymphocytic and plasma cell infiltrates without honeycombing",
+        "Temporal homogeneity with uniform interstitial cellularity characterizes Non-Specific Interstitial Pneumonia (NSIP), which has a much better prognosis than UIP."
+      ],
+      [
+        "Widespread intra-alveolar accumulations of pigment-laden macrophages filling terminal respiratory bronchioles",
+        "Intra-alveolar pigmented macrophages define Respiratory Bronchiolitis-Interstitial Lung Disease (RB-ILD) and Desquamative Interstitial Pneumonia (DIP) in smokers."
+      ],
+      [
+        "Branching, non-caseating granulomas surrounding pulmonary venules and terminal bronchioles",
+        "Non-caseating granulomas define sarcoidosis and berylliosis, which are excluded in idiopathic pulmonary fibrosis."
+      ],
+      [
+        "Alveolar spaces filled with dense granular, periodic acid-Schiff (PAS)-positive eosinophilic surfactant protein",
+        "Alveolar spaces filled with PAS-positive lipoproteinaceous material define Pulmonary Alveolar Proteinosis (PAP), caused by anti-GM-CSF autoantibodies."
+      ]
+    ],
+    "shortestValidSolution": "Older smoker + dry crackles + digital clubbing + basilar honeycombing + restrictive PFTs = IPF with UIP pattern (temporal/spatial heterogeneity and fibroblastic foci).",
+    "necessaryInference": "Identify idiopathic pulmonary fibrosis from basilar subpleural honeycombing, recognizing the UIP histological pattern of spatial/temporal heterogeneity with fibroblastic foci.",
+    "strongestDistractor": "Uniform, temporally homogeneous interstitial chronic lymphocytic and plasma cell infiltrates without honeycombing",
+    "distractorExclusion": "Temporal homogeneity defines Non-Specific Interstitial Pneumonia (NSIP); Usual Interstitial Pneumonia (UIP/IPF) is defined by temporal and spatial heterogeneity.",
+    "citation": "Richeldi L, Collard HR, Jones MG. Idiopathic pulmonary fibrosis. Lancet. 2017 May 13;389(10082):1941-1952. PMID: 28365056.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 pathology item requiring multi-step deduction on idiopathic pulmonary fibrosis uip pattern fibroblastic foci honeycombing.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0969",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "Alpha-1 Antitrypsin Deficiency Panacinar Emphysema PiZZ Elastase Imbalance",
+    "provisionalDifficulty": 5,
+    "stem": "A 36-year-old man who has never smoked cigarettes presents with progressive shortness of breath on exertion and mild wheezing over the past 2 years. His father died of liver cirrhosis and emphysema at age 48. Pulmonary function testing reveals: FEV1 48% of predicted, FVC 82% of predicted, FEV1/FVC ratio 52% (severe obstructive deficit), and markedly elevated total lung capacity (135% of predicted). High-resolution chest CT demonstrates severe, diffuse pulmonary emphysema with a striking predilection for the LOWER LOBES. Serum protein electrophoresis reveals a markedly attenuated alpha-1 globulin band. Liver biopsy reveals hepatocytes containing numerous intra-cytoplasmic, round-to-oval, periodic acid-Schiff (PAS)-positive globules that resist diastase digestion. Which of the following pathophysiological mechanisms accounts for the lower-lobe pulmonary emphysema in this patient?",
+    "choices": [
+      [
+        "Unchecked neutrophil elastase-mediated degradation of alveolar elastin fibers due to systemic antiprotease deficiency (panacinar emphysema)",
+        "ALPHA-1 ANTITRYPSIN (AAT) DEFICIENCY is an autosomal codominant genetic disorder caused by mutations in the SERPINA1 gene on chromosome 14. The normal allele is Pi*M; the most severe deficiency allele is Pi*Z (Glu342Lys). In the Pi*ZZ genotype: (1) LIVER PATHOLOGY: The mutant Z-protein misfolds in the endoplasmic reticulum of hepatocytes, forming insoluble polymers that cannot be secreted into the blood. Accumulated polymers appear on liver histology as intra-cytoplasmic, diastase-resistant, PAS-POSITIVE GLOBULINS, leading to hepatitis, cirrhosis, and hepatocellular carcinoma. (2) LUNG PATHOLOGY: Because the liver cannot secrete AAT, systemic plasma levels of this primary antiprotease are severely depleted. In the lungs, NEUTROPHIL ELASTASE (released during inflammation) is left unchecked by AAT antiprotease activity. Unregulated elastase enzymatically hydrolyzes elastin fibers within alveolar walls, destroying the alveolocapillary architecture and producing PANACINAR (PANLOBULAR) EMPHYSEMA. Because pulmonary perfusion is greatest in dependent lung zones (greater delivery of circulating neutrophils), emphysema in AAT deficiency characteristically predominates in the LOWER LOBES. In contrast, SMOKING-INDUCED EMPHYSEMA is CENTRIACINAR (CENTRICLOBULAR) and predominates in the UPPER LOBES."
+      ],
+      [
+        "Selective destruction of respiratory bronchiolar walls by tobacco smoke oxidants sparing the alveolar ducts (centriacinar emphysema)",
+        "Smoking-induced emphysema is centriacinar and upper-lobe predominant, whereas AAT deficiency causes panacinar emphysema in lower lobes."
+      ],
+      [
+        "Excessive pulmonary vascular remodeling driven by unregulated vascular endothelial growth factor receptor-2",
+        "VEGF drives endothelial proliferation in pulmonary hypertension and glioblastoma, not alveolar destruction in emphysema."
+      ],
+      [
+        "Autoimmune antibody-mediated destruction of pulmonary surfactant protein B in dependent lung zones",
+        "AAT deficiency is an antiprotease deficiency, not an autoimmune surfactant disease."
+      ],
+      [
+        "Microvascular thrombosis within the bronchial arterial circulation causing focal lower-lobe infarction",
+        "AAT deficiency causes diffuse enzymatic proteolysis of alveolar walls, not ischemic infarction from bronchial artery thrombosis."
+      ]
+    ],
+    "shortestValidSolution": "Young non-smoker + lower-lobe emphysema + PAS-positive liver globules = Alpha-1 antitrypsin deficiency (PiZZ); unchecked neutrophil elastase causes panacinar emphysema.",
+    "necessaryInference": "Contrast panacinar lower-lobe emphysema in alpha-1 antitrypsin deficiency (unchecked neutrophil elastase) with centriacinar upper-lobe emphysema in cigarette smokers.",
+    "strongestDistractor": "Selective destruction of respiratory bronchiolar walls by tobacco smoke oxidants sparing the alveolar ducts (centriacinar emphysema)",
+    "distractorExclusion": "Centriacinar upper-lobe emphysema is caused by cigarette smoking; alpha-1 antitrypsin deficiency produces panacinar emphysema with marked lower-lobe predilection.",
+    "citation": "Stoller JK, Aboussouan LS. A review of alpha1-antitrypsin deficiency. Am J Respir Crit Care Med. 2012;185(3):246-259. PMID: 21960536.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 pathology item requiring multi-step deduction on alpha-1 antitrypsin deficiency panacinar emphysema pizz elastase imbalance.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0970",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "Bronchial Asthma Airway Remodeling Curschmann Spirals Charcot-Leyden Crystals",
+    "provisionalDifficulty": 4,
+    "stem": "A 14-year-old boy with a history of atopic eczema and allergic rhinitis presents to the emergency department with severe wheezing, cough, and chest tightness after visiting a friend's house with cats. On physical examination, he is in moderate respiratory distress with audible expiratory wheezing throughout all lung fields and intercostal retractions. Sputum cytology examined under light microscopy reveals: (1) Elongated, spiral-shaped mucus casts of small bronchioles composed of shed, degenerate respiratory epithelium (Curschmann spirals); and (2) Bipyramidal, hexagonal, needle-like eosinophilic crystals derived from the breakdown of eosinophil membrane lysophospholipase (Charcot-Leyden crystals). Which of the following lipid-derived inflammatory mediators, synthesized via the 5-lipoxygenase pathway, is the most potent bronchoconstrictor responsible for the prolonged airway smooth muscle contraction in this disease?",
+    "choices": [
+      [
+        "Cysteinyl leukotrienes (LTC4, LTD4, and LTE4)",
+        "BRONCHIAL ASTHMA is a chronic inflammatory disorder of the airways characterized by bronchial hyperresponsiveness, reversible airflow obstruction, and airway remodeling. Sputum evaluation classically reveals: (1) CURSCHMANN SPIRALS (whorled mucus plugs containing shed, degenerate epithelial cells); and (2) CHARCOT-LEYDEN CRYSTALS (hexagonal, needle-like crystals composed of eosinophil lysophospholipase / galectin-10). In the asthmatic inflammatory cascade, cross-linking of IgE on mast cells activates phospholipase A2 to liberate arachidonic acid from cell membranes. Arachidonic acid is metabolized by 5-LIPOXYGENASE (5-LOX) to form leukotriene A4 (LTA4), which is conjugated with glutathione to produce the CYSTEINYL LEUKOTRIENES: LTC4, LTD4, and LTE4. These mediators are approximately 1,000 times more potent than histamine in inducing BRONCHOCONSTRICTION, airway vascular permeability (edema), and goblet cell mucus hypersecretion. The prolonged bronchoconstrictor action of cysteinyl leukotrienes makes them key pharmacological targets: ZILEUTON inhibits 5-lipoxygenase, while MONTELUKAST and ZAFIRLUKAST are competitive antagonists of the CysLT1 receptor."
+      ],
+      [
+        "Prostaglandin I2 (prostacyclin) and prostaglandin E2",
+        "PGI2 and PGE2 are vasodilators and bronchial smooth muscle relaxants (bronchodilators), rather than bronchoconstrictors."
+      ],
+      [
+        "Thromboxane A2 synthesized via platelet cyclooxygenase-1",
+        "Thromboxane A2 induces platelet aggregation and vasoconstriction, but is far less potent than cysteinyl leukotrienes in asthmatic bronchospasm."
+      ],
+      [
+        "Leukotriene B4 (LTB4) acting on BLT1 chemotactic receptors",
+        "LTB4 is a potent neutrophil and eosinophil CHEMOTACTIC factor, but does not mediate direct smooth muscle bronchoconstriction like LTC4/LTD4/LTE4."
+      ],
+      [
+        "Platelet-activating factor (PAF) inhibiting bronchial goblet cell exocytosis",
+        "PAF stimulates mucus secretion and bronchoconstriction, but the cysteinyl leukotrienes (LTC4/D4/E4) are the primary 5-LOX bronchoconstrictors."
+      ]
+    ],
+    "shortestValidSolution": "Atopy + wheezing + Curschmann spirals + Charcot-Leyden crystals = Asthma; Cysteinyl leukotrienes (LTC4, LTD4, LTE4) are the potent 5-LOX bronchoconstrictors.",
+    "necessaryInference": "Recognize Curschmann spirals and Charcot-Leyden crystals in asthma, identifying cysteinyl leukotrienes (LTC4, LTD4, LTE4) as the potent 5-LOX bronchoconstrictors.",
+    "strongestDistractor": "Leukotriene B4 (LTB4) acting on BLT1 chemotactic receptors",
+    "distractorExclusion": "LTB4 is a chemotactic agent recruiting neutrophils and eosinophils; the cysteinyl leukotrienes (LTC4, LTD4, LTE4) directly trigger potent bronchoconstriction and mucus hypersecretion.",
+    "citation": "Holgate ST. Innate and adaptive immune responses in asthma. Nat Med. 2012;18(5):673-683. PMID: 22561831.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 pathology item requiring multi-step deduction on bronchial asthma airway remodeling curschmann spirals charcot-leyden crystals.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0971",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Respiratory",
+    "topic": "Cystic Fibrosis DeltaF508 Misfolding Proteasomal Degradation Chloride Transport",
+    "provisionalDifficulty": 4,
+    "stem": "A 6-month-old boy is brought to the clinic due to recurrent wheezing, productive cough, and failure to thrive despite a voracious appetite. His mother notes that his skin tastes excessively salty when she kisses his forehead. Stool microscopy demonstrates abundant unabsorbed fecal fat globules, and serum fat-soluble vitamin levels (A, D, E, K) are markedly decreased. Quantitative pilocarpine iontophoresis sweat test reveals a sweat chloride concentration of 88 mEq/L (abnormal > 60 mEq/L). Genetic testing confirms that the infant is homozygous for the DeltaF508 mutation in the CFTR gene on chromosome 7q31.2. Which of the following post-translational molecular mechanisms accounts for the total absence of functional CFTR channels at the apical plasma membrane in this mutation?",
+    "choices": [
+      [
+        "Abnormal protein folding in the endoplasmic reticulum triggering quality-control recognition and ubiquitin-proteasomal degradation",
+        "CYSTIC FIBROSIS (CF) is an autosomal recessive disorder caused by mutations in the CYSTIC FIBROSIS TRANSMEMBRANE CONDUCTANCE REGULATOR (CFTR) gene on chromosome 7q31. CFTR is an ATP-gated chloride channel that also regulates ENaC sodium channels. The most common mutation worldwide (accounting for ~70% of mutant alleles) is the DELTA-F508 MUTATION: an in-frame deletion of 3 base pairs (CTT) resulting in the DELETION OF A SINGLE PHENYLALANINE RESIDUE at position 508. This deletion causes ABNORMAL PROTEIN FOLDING within the rough endoplasmic reticulum (ER). The cellular chaperone and quality-control machinery recognizes the misfolded protein, preventing its trafficking to the Golgi apparatus and instead targeting it for UBIQUITINATION AND RETROTRANSLOCATION TO THE CYTOPLASMIC 26S PROTEASOME FOR DEGRADATION. Consequently, CFTR completely fails to reach the apical plasma membrane (Class II mutation). LUMACAFTOR and ELEZACAFTOR act as 'CFTR correctors' by binding misfolded DeltaF508-CFTR to facilitate proper folding and escort it to the plasma membrane, while IVACAFTOR acts as a 'potentiator' to open the channel gate."
+      ],
+      [
+        "Premature introduction of a nonsense termination codon leading to rapid nonsense-mediated mRNA decay",
+        "Nonsense mutations (e.g., G542X, W1282X; Class I) introduce premature stop codons; DeltaF508 is an in-frame single amino acid deletion causing misfolding."
+      ],
+      [
+        "Disruption of the ATP-binding cassette preventing nucleotide-dependent channel gating at the cell surface",
+        "Gating defects (e.g., G551D; Class III) reach the cell surface but cannot open; DeltaF508 never reaches the cell membrane due to ER degradation."
+      ],
+      [
+        "Alternative exon skipping resulting in the complete deletion of transmembrane spanning domain 1",
+        "Alternative splicing mutations (Class V) reduce the amount of normal CFTR; DeltaF508 is a post-translational ER folding failure."
+      ],
+      [
+        "Defective endosomal recycling with constitutive internalization and lysosomal destruction",
+        "DeltaF508 is degraded in the ER by proteasomes before ever reaching the plasma membrane or entering endosomal recycling pathways."
+      ]
+    ],
+    "shortestValidSolution": "Salty skin + failure to thrive + steatorrhea + sweat chloride > 60 = Cystic fibrosis (DeltaF508); misfolded protein in ER targeted for proteasomal degradation.",
+    "necessaryInference": "Recognize that the DeltaF508 mutation in cystic fibrosis causes misfolding in the endoplasmic reticulum, resulting in premature ubiquitin-proteasomal degradation before reaching the cell surface.",
+    "strongestDistractor": "Disruption of the ATP-binding cassette preventing nucleotide-dependent channel gating at the cell surface",
+    "distractorExclusion": "Gating mutations (G551D) reach the membrane but fail to open (treated with ivacaftor); DeltaF508 fails ER quality control and is degraded by proteasomes (treated with correctors).",
+    "citation": "Cutting GR. Cystic fibrosis genetics: from molecular understanding to clinical application. Nat Rev Genet. 2015;16(1):45-56. PMID: 25404111.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 genetics item requiring multi-step deduction on cystic fibrosis deltaf508 misfolding proteasomal degradation chloride transport.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0972",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Respiratory",
+    "topic": "Kartagener Syndrome Primary Ciliary Dyskinesia Dynein Arm Defect Situs Inversus",
+    "provisionalDifficulty": 4,
+    "stem": "A 24-year-old man presents with chronic purulent nasal discharge, recurrent maxillary sinusitis, and productive cough with copious foul-smelling sputum since early childhood. He has had multiple episodes of pneumonia. In addition, he and his wife have been unable to conceive after 2 years of unprotected intercourse; semen analysis demonstrates normal sperm count but zero sperm motility (asthenospermia). Physical examination reveals nasal polyps and digital clubbing. Cardiac examination demonstrates the apex beat located in the right 5th intercostal space in the midclavicular line. Plain chest radiograph and CT scan confirm dextrocardia (heart apex pointing rightward), complete transposition of abdominal viscera (situs inversus totalis), and bilateral cystic bronchiectasis in the lower lobes. Transmission electron microscopy of respiratory cilia from a nasal mucosal biopsy would most characteristically demonstrate an absence of which of the following ultrastructural components?",
+    "choices": [
+      [
+        "Outer and inner dynein arms projecting from the outer doublet microtubules",
+        "KARTAGENER SYNDROME is a classic subgroup of PRIMARY CILIARY DYSKINESIA (PCD; immotile cilia syndrome), an autosomal recessive disorder caused by mutations in genes encoding structural ciliary proteins (e.g., DNAH5, DNAI1). Normal respiratory cilia and sperm flagella have a '9+2' ULTRASTRUCTURAL ARCHITECTURE: 9 peripheral doublet microtubules surrounding 2 central singlet microtubules. Motility is powered by ATP-dependent MOTOR PROTEINS: INNER AND OUTER DYNEIN ARMS that project from the A-tubule toward the adjacent B-tubule to generate sliding forces. In Kartagener syndrome, congenital ABSENCE OF DYNEIN ARMS paralyzes cilia and flagella. This produces a classic triad: (1) CHRONIC SINOPULMONARY INFECTIONS & BRONCHIECTASIS: impaired mucociliary clearance leads to recurrent sinusitis and severe bronchiectasis; (2) INFERTILITY: immotile sperm flagella cause male infertility (and impaired ciliary action in fallopian tubes impairs female fertility); and (3) SITUS INVERSUS TOTALIS (dextrocardia + reversed abdominal viscera): during early embryonic gastrulation, rotating monocilia in the embryonic node normally create a leftward fluid flow ('nodal flow') that breaks symmetry and establishes left-right body axis determination. Paralyzed nodal cilia lead to random 50/50 left-right organ orientation."
+      ],
+      [
+        "Central singlet microtubules resulting in an abnormal '9+0' ciliary configuration",
+        "'9+0' architecture is normal for primary non-motile sensory monocilia and embryonic nodal monocilia; Kartagener syndrome is caused by absence of dynein arms."
+      ],
+      [
+        "Radial spokes connecting peripheral doublets to the central microtubule sheath",
+        "Radial spoke head protein defects (e.g., RSPH4A) cause rare variants of PCD without situs inversus; absence of dynein arms is the classic hallmark of Kartagener syndrome."
+      ],
+      [
+        "Nexin protein links interconnecting adjacent outer doublet microtubules",
+        "Nexin links maintain ciliary elastic structural integrity; mutations cause PCD variants, but dynein arm loss is the pathognomonic defect of Kartagener syndrome."
+      ],
+      [
+        "Basal bodies and striated rootlets anchoring ciliary doublets into the apical cytoplasm",
+        "Basal bodies (modified centrioles) anchor cilia into cytoplasm; they are structurally intact in primary ciliary dyskinesia."
+      ]
+    ],
+    "shortestValidSolution": "Sinusitis + bronchiectasis + situs inversus + immotile sperm = Kartagener syndrome (primary ciliary dyskinesia); electron microscopy shows absent dynein arms in 9+2 cilia.",
+    "necessaryInference": "Identify Kartagener syndrome from chronic sinusitis, bronchiectasis, and situs inversus, localizing the genetic defect to absent inner/outer dynein arms in 9+2 cilia.",
+    "strongestDistractor": "Central singlet microtubules resulting in an abnormal '9+0' ciliary configuration",
+    "distractorExclusion": "Primary non-motile cilia normally have a 9+0 pattern; motile respiratory cilia have a 9+2 pattern and Kartagener syndrome specifically lacks outer and inner dynein arms.",
+    "citation": "Knowles MR, Daniels LA, Davis SD, et al. Primary ciliary dyskinesia. Recent advances in diagnostics, genetics, and characterization of clinical disease. Am J Respir Crit Care Med. 2013;188(8):913-922. PMID: 23796196.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 genetics item requiring multi-step deduction on kartagener syndrome primary ciliary dyskinesia dynein arm defect situs inversus.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0973",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "High-Altitude Pulmonary Edema Hypoxic Pulmonary Vasoconstriction Heterogeneity",
+    "provisionalDifficulty": 4,
+    "stem": "A 28-year-old mountaineer rapidly ascends to an altitude of 4,200 meters (13,800 feet) in the Colorado Rockies. Within 24 hours of arrival, he develops progressive extreme breathlessness, dry cough that becomes productive of pink frothy sputum, cyanosis, and tachycardia. Physical examination reveals tachypnea (respirations 32/min), heart rate 118/min, and bilateral diffuse crackles. Arterial blood gas demonstrates severe hypoxemia (PaO2 36 mm Hg). Echocardiography reveals severe pulmonary hypertension with an estimated pulmonary artery systolic pressure of 65 mm Hg, normal left ventricular systolic function (LVEF 60%), and a normal left ventricular end-diastolic pressure. High-resolution CT shows patchy, non-uniform alveolar infiltrates. Which of the following pathophysiological mechanisms initiates this non-cardiogenic pulmonary edema?",
+    "choices": [
+      [
+        "Exaggerated, non-uniform hypoxic pulmonary vasoconstriction causing overperfusion and stress failure of unprotected capillary beds",
+        "HIGH-ALTITUDE PULMONARY EDEMA (HAPE) is a life-threatening form of non-cardiogenic pulmonary edema that develops in susceptible individuals who ascend rapidly above 2,500-3,000 meters. (1) PATHOPHYSIOLOGY: Atmospheric hypobaric hypoxia triggers widespread HYPOXIC PULMONARY VASOCONSTRICTION (HPV) of small precapillary pulmonary arterioles. In HAPE-susceptible individuals, this vasoconstrictor response is EXAGGERATED AND REGIONALLY NON-UNIFORM. Arterioles in some lung regions constrict intensely, while arterioles in other areas fail to constrict. The entire elevated pulmonary arterial blood flow is diverted through the relatively UNPROTECTED CAPILLARY BEDS, exposing them to massive hemodynamic shear stress and markedly elevated capillary hydrostatic pressure. This hydrostatic stress induces mechanical 'STRESS FAILURE' of the alveolocapillary membrane, causing high-permeability alveolar leakage of proteinaceous fluid and red blood cells (pink frothy sputum). (2) TREATMENT: Immediate descent to lower altitude, supplemental oxygen, and pulmonary vasodilators: NIFEDIPINE (calcium channel blocker) or phosphodiesterase-5 inhibitors (TADALAFIL), which relieve hypoxic vasoconstriction."
+      ],
+      [
+        "Acute left ventricular diastolic dysfunction causing retrograde elevation of pulmonary venous pressure",
+        "Echocardiogram demonstrates normal LV filling pressures; HAPE is non-cardiogenic with normal pulmonary capillary wedge pressure."
+      ],
+      [
+        "Direct toxic alveolar injury mediated by high-altitude ozone exposure and free radicals",
+        "HAPE is a hemodynamically driven hydrostatic stress failure caused by hypoxic vasoconstriction, not chemical ozone toxicity."
+      ],
+      [
+        "Systemic capillary leak syndrome secondary to generalized anaphylatoxin C3a and C5a release",
+        "Complement activation causes systemic angioedema or shock, not altitude-induced hydrostatic pulmonary edema."
+      ],
+      [
+        "Profound suppression of alveolar epithelial sodium channels (ENaC) by high systemic hypocapnia",
+        "While alveolar fluid clearance is compromised, the primary initiating mechanism is exaggerated regional hypoxic pulmonary vasoconstriction."
+      ]
+    ],
+    "shortestValidSolution": "Rapid high altitude ascent + dyspnea + pink frothy sputum + high PA pressure with normal LV function = HAPE (non-uniform hypoxic pulmonary vasoconstriction causing capillary stress failure).",
+    "necessaryInference": "Explain the hemodynamic pathogenesis of high-altitude pulmonary edema (HAPE) as exaggerated, patchy hypoxic pulmonary vasoconstriction leading to localized capillary stress failure.",
+    "strongestDistractor": "Acute left ventricular diastolic dysfunction causing retrograde elevation of pulmonary venous pressure",
+    "distractorExclusion": "HAPE is non-cardiogenic (normal PCWP and LV filling pressures); it is driven by precapillary hypoxic pulmonary vasoconstriction that overperfuses unprotected capillary beds.",
+    "citation": "Luks AM, Swenson ER, Bartsch P. Acute high-altitude sickness. Eur Respir Rev. 2017;26(143):160096. PMID: 28143879.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 pathology item requiring multi-step deduction on high-altitude pulmonary edema hypoxic pulmonary vasoconstriction heterogeneity.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0974",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Neonatal Respiratory Distress Syndrome Lecithin-Sphingomyelin Ratio",
+    "provisionalDifficulty": 5,
+    "stem": "A 29-year-old primigravida presents in preterm labor at 30 weeks gestation with spontaneous rupture of membranes. Amniocentesis is performed to assess fetal lung maturity. Analysis of amniotic fluid demonstrates a lecithin-to-sphingomyelin (L/S) ratio of 1.2 (immature; mature >= 2.0). To reduce the risk of neonatal respiratory distress syndrome (NRDS) and intraventricular hemorrhage prior to delivery, the obstetrician promptly administers intramuscular betamethasone to the mother. Antenatal maternal corticosteroid therapy accelerates fetal lung maturation by inducing the transcription of which of the following cellular components in fetal type II pneumocytes?",
+    "choices": [
+      [
+        "Surfactant-associated apoproteins and enzymes of the dipalmitoylphosphatidylcholine (DPPC) synthesis pathway",
+        "In fetal lung development, PULMONARY SURFACTANT synthesis by TYPE II PNEUMOCYTES begins around week 24 of gestation but does not reach adequate mature levels until week 35. The major component of surfactant is DIPALMITOYLPHOSPHATIDYLCHOLINE (DPPC; lecithin). Sphingomyelin is a membrane lipid that remains relatively constant throughout gestation, whereas lecithin levels rise sharply after week 32. An AMNIOTIC FLUID LECITHIN/SPHINGOMYELIN (L/S) RATIO >= 2.0 indicates mature surfactant production, whereas a ratio < 1.5 indicates high risk for NEONATAL RESPIRATORY DISTRESS SYNDROME (NRDS). When preterm delivery is anticipated between 24 and 34 weeks gestation, ANTENATAL GLUCOCORTICOIDS (BETAMETHASONE or DEXAMETHASONE) are administered to the mother. Corticosteroids readily cross the placenta, bind intracellular glucocorticoid receptors in fetal type II pneumocytes, and upregulate the transcription of: (1) SURFACTANT PROTEINS (SP-A, SP-B, SP-C); and (2) Choline-phosphate cytidylyltransferase, the rate-limiting enzyme in DPPC synthesis. This rapidly matures alveolar surfactant production, improving compliance and dramatically reducing NRDS mortality."
+      ],
+      [
+        "Vascular endothelial growth factor-A in capillary endothelial precursor cells",
+        "Corticosteroids upregulate surfactant synthesis; while angiogenesis occurs during alveolarization, surfactant enzymes are the primary target."
+      ],
+      [
+        "Elastase inhibitors in alveolar macrophages to prevent embryonic septal breakdown",
+        "Glucocorticoids induce surfactant phospholipid and apoprotein synthesis in type II pneumocytes, not alveolar macrophage elastase inhibitors."
+      ],
+      [
+        "Ciliated cell dynein heavy chains to promote clearance of embryonic amniotic fluid",
+        "Dynein heavy chains power ciliary motility; corticosteroids specifically stimulate surfactant synthesis and alveolar structural maturation."
+      ],
+      [
+        "Type I collagen alpha-chains to accelerate the mechanical tensile strength of alveolar septa",
+        "Excessive collagen deposition causes pulmonary fibrosis; surfactant proteins and DPPC enzymes are the induced molecules."
+      ]
+    ],
+    "shortestValidSolution": "L/S ratio 1.2 (< 2.0 = immature) in preterm labor = Risk of NRDS; Antenatal betamethasone induces transcription of surfactant apoproteins and DPPC synthesis enzymes in type II pneumocytes.",
+    "necessaryInference": "Link low amniotic L/S ratio (< 2.0) to fetal lung immaturity, and recognize that antenatal corticosteroids induce surfactant protein and DPPC synthesis in type II pneumocytes.",
+    "strongestDistractor": "Elastase inhibitors in alveolar macrophages to prevent embryonic septal breakdown",
+    "distractorExclusion": "Glucocorticoids act directly on fetal type II pneumocytes to accelerate surfactant apoprotein and phospholipid (DPPC) synthesis, not macrophage elastase inhibition.",
+    "citation": "Engle WA; American Academy of Pediatrics Committee on Fetus and Newborn. Surfactant-replacement therapy for respiratory distress in the preterm and term neonate. Pediatrics. 2008;121(2):419-432. PMID: 18245434.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 physiology item requiring multi-step deduction on neonatal respiratory distress syndrome lecithin-sphingomyelin ratio.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s1-0975",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Cardiovascular",
+    "topic": "Hereditary Pulmonary Arterial Hypertension BMPR2 Mutation Plexiform Lesions",
+    "provisionalDifficulty": 4,
+    "stem": "A 32-year-old woman presents with progressive exertional dyspnea, fatigue, and two episodes of near-syncope while climbing stairs. Physical examination reveals an accentuated, loud pulmonic component of the second heart sound (loud P2), a right ventricular heave along the left sternal border, and a pansystolic murmur at the lower left sternal border that increases with inspiration (Carvallo sign of tricuspid regurgitation). Transthoracic echocardiogram demonstrates marked right ventricular hypertrophy and dilation, with an estimated pulmonary artery systolic pressure of 78 mm Hg and normal left ventricular structure. Right heart catheterization confirms primary pulmonary arterial hypertension (mean pulmonary artery pressure 48 mm Hg; pulmonary capillary wedge pressure 10 mm Hg). Genetic analysis reveals an autosomal dominant loss-of-function mutation in the BMPR2 gene with incomplete penetrance. Inactivation of this receptor promotes which of the following vascular histopathological lesions?",
+    "choices": [
+      [
+        "Unregulated vascular smooth muscle proliferation and endothelial budding forming plexiform lesions in small muscular pulmonary arteries",
+        "HEREDITARY PULMONARY ARTERIAL HYPERTENSION (PAH; Group 1 PH) is an autosomal dominant disorder caused in ~70-80% of familial cases by loss-of-function mutations in the BONE MORPHOGENETIC PROTEIN RECEPTOR TYPE 2 (BMPR2) gene. Under normal physiological conditions, BMPR2 signaling (via the TGF-beta/Smad pathway) INHIBITS vascular smooth muscle proliferation and promotes endothelial apoptosis, maintaining a thin, low-resistance pulmonary vascular bed. In BMPR2 deficiency: (1) Loss of antiproliferative signaling leads to uninhibited HYPERPLASIA AND HYPERTROPHY OF PULMONARY ARTERIOLAR SMOOTH MUSCLE; (2) Progressive concentric intimal fibrosis and luminal obliteration develop; and (3) In advanced stages, aberrant endothelial tufts form network-like glomeruloid channels called PLEXIFORM LESIONS (pathognomonic of advanced severe PAH). This marked increase in pulmonary vascular resistance leads to loud P2, right ventricular hypertrophy, cor pulmonale, and right heart failure."
+      ],
+      [
+        "Transmural necrotizing inflammation with fibrinoid necrosis and leukocytoclastic vasculitis",
+        "Necrotizing vasculitis with fibrinoid necrosis characterizes systemic polyarteritis nodosa or GPA, not non-inflammatory BMPR2-mediated PAH."
+      ],
+      [
+        "Medial cystic necrosis with extensive fragmentation of internal elastic lamina (aortic aneurysm)",
+        "Cystic medial necrosis characterizes Marfan syndrome and aortic dissection, not small-vessel pulmonary hypertension."
+      ],
+      [
+        "Granulomatous panarteritis with marked mononuclear infiltration and multinucleated giant cells",
+        "Granulomatous arteritis with giant cells characterizes giant cell (temporal) arteritis and Takayasu arteritis affecting large elastic arteries."
+      ],
+      [
+        "Extensive concentric calcification of the internal elastic lamina without intimal expansion (Monckeberg)",
+        "Monckeberg arteriosclerosis causes medial calcification of muscular arteries without luminal narrowing, having no role in pulmonary hypertension."
+      ]
+    ],
+    "shortestValidSolution": "Young woman + exertional dyspnea/syncope + loud P2 + RVH + BMPR2 mutation = Hereditary pulmonary arterial hypertension with plexiform lesions.",
+    "necessaryInference": "Link BMPR2 mutations in hereditary pulmonary arterial hypertension to uninhibited vascular smooth muscle proliferation and the formation of pathognomonic plexiform lesions.",
+    "strongestDistractor": "Transmural necrotizing inflammation with fibrinoid necrosis and leukocytoclastic vasculitis",
+    "distractorExclusion": "Fibrinoid necrosis characterizes necrotizing vasculitis (PAN); pulmonary arterial hypertension is characterized by smooth muscle hypertrophy, concentric intimal fibrosis, and plexiform lesions.",
+    "citation": "Morrell NW, Yang X, Upton PD, et al. Altered growth responses of pulmonary artery smooth muscle cells from patients with primary pulmonary hypertension to transforming growth factor-beta(1) and bone morphogenetic proteins. Circulation. 2001;104(7):790-795. PMID: 11502704.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 pathology item requiring multi-step deduction on hereditary pulmonary arterial hypertension bmpr2 mutation plexiform lesions.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  }
+];

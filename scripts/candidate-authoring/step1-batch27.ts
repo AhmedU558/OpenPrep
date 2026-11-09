@@ -1,0 +1,1079 @@
+import { CandidateSpec } from './types';
+
+export const step1Batch27: CandidateSpec[] = [
+  {
+    "code": "op-c-s1-0651",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Dermatology",
+    "topic": "Pemphigus Vulgaris vs Bullous Pemphigoid Immunopathology",
+    "provisionalDifficulty": 4,
+    "stem": "A 46-year-old man presents with painful oral erosions that have made eating solids impossible for 6 weeks, followed by the appearance of fragile, flaccid blisters on his scalp, face, and upper chest that rupture easily to leave denuded, weeping surfaces. Light lateral pressure on normal-appearing perilesional skin causes sloughing of the epidermis (positive Nikolsky sign). Skin biopsy of a primary vesicle reveals suprabasilar acantholysis with intraepidermal blister formation; the basal layer remains attached to the basement membrane in a characteristic 'tombstone' appearance. Direct immunofluorescence demonstrates deposition of IgG and C3 in a net-like ('fishnet') pattern throughout the epidermal intercellular junctions. Which of the following cell-cell junctional structures is directly targeted by the autoantibodies in this patient?",
+    "choices": [
+      [
+        "Desmoglein-3 and desmoglein-1 transmembrane cadherin proteins within desmosomes (maculae adherentes)",
+        "Pemphigus vulgaris is caused by IgG autoantibodies targeting desmoglein-3 and desmoglein-1, transmembrane glycoproteins of desmosomes (maculae adherentes) that anchor keratinocytes to one another. Loss of intercellular adhesion (acantholysis) causes flaccid, intraepidermal blisters that rupture easily (positive Nikolsky sign) and painful oral mucosal involvement. Direct immunofluorescence shows intraepidermal IgG in a fishnet pattern."
+      ],
+      [
+        "Dystonin (BP230) and type XVII collagen (BP180) within hemidesmosomes anchoring the basal lamina",
+        "BP180 and BP230 are targeted in bullous pemphigoid, which features tense subepidermal bullae with negative Nikolsky sign, prominent eosinophils, and linear IgG/C3 along the dermoepidermal junction."
+      ],
+      [
+        "Claudins and occludins within tight junctions (zonulae occludentes) at the apical keratinocyte border",
+        "Tight junctions prevent paracellular solute diffusion (e.g., in blood-brain barrier or renal tubules); they are not targeted in pemphigus vulgaris."
+      ],
+      [
+        "Connexin-26 and connexin-43 hexameric channels forming gap junctions for intercellular metabolic coupling",
+        "Gap junctions mediate electrical and metabolic intercellular communication (mutated in non-syndromic deafness / Vohwinkel syndrome), not autoimmune blistering diseases."
+      ],
+      [
+        "E-cadherin and catenin complexes forming continuous belt-like adherens junctions (zonulae adherentes)",
+        "Adherens junctions couple actin cytoskeletons via classical cadherins; desmosomes specifically employ desmogleins and desmocollins, which are the targets in pemphigus."
+      ]
+    ],
+    "shortestValidSolution": "Flaccid blisters + oral erosions + Nikolsky positive + fishnet IgG = Pemphigus vulgaris -> Anti-desmoglein-3/1 IgG targeting desmosomes.",
+    "necessaryInference": "Contrast blistering diseases at the structural junction level: Pemphigus vulgaris = desmosome/desmoglein (intraepidermal); Bullous pemphigoid = hemidesmosome/BP180 (subepidermal).",
+    "strongestDistractor": "Dystonin (BP230) and type XVII collagen (BP180) within hemidesmosomes anchoring the basal lamina",
+    "distractorExclusion": "Hemidesmosomes are targeted in bullous pemphigoid (tense bullae, negative Nikolsky, linear subepidermal basement membrane pattern), not flaccid intraepidermal pemphigus.",
+    "citation": "Kasperkiewicz M, et al. Pemphigus. Nat Rev Dis Primers. 2017;3:17026. PMID: 28492232.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests exact cell junction biochemistry (desmosomes vs hemidesmosomes vs tight junctions) in autoimmune vesiculobullous disease.",
+      "distractorExclusionNotes": "Distractors feature hemidesmosomes (bullous pemphigoid), tight junctions, gap junctions, and adherens junctions.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0652",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Dermatology",
+    "topic": "Dermatitis Herpetiformis Anti-Tissue Transglutaminase Pathogenesis",
+    "provisionalDifficulty": 5,
+    "stem": "A 31-year-old man presents with an intensely pruritic, stinging rash on his bilateral elbows, knees, and buttocks that has recurred over the past 2 years. Physical examination reveals clusters of grouped erythematous papules and tiny vesicles on an urticarial base, many of which are excoriated. He also reports chronic loose stools and intermittent abdominal bloating. A punch biopsy of perilesional skin reveals neutrophilic microabscesses situated at the tips of dermal papillae with subepidermal microvesiculation. Direct immunofluorescence of uninvolved perilesional skin demonstrates granular deposits of IgA concentrated within the dermal papillae. Which of the following antibodies directed against an epidermal neoantigen is most specific for this condition?",
+    "choices": [
+      [
+        "IgA antibodies targeting epidermal transglutaminase (transglutaminase-3), which cross-react with dietary gluten-induced intestinal transglutaminase-2",
+        "Dermatitis herpetiformis is the pathognomonic cutaneous manifestation of celiac disease. Ingestion of gluten triggers mucosal anti-tissue transglutaminase (tTG-2) and anti-epidermal transglutaminase (tTG-3) IgA antibodies. IgA-tTG3 immune complexes deposit in a granular pattern within dermal papillae, activating complement and recruiting neutrophils to form papillary microabscesses with intense pruritus."
+      ],
+      [
+        "IgG antibodies directed against the non-collagenous NC16A domain of type XVII collagen (BP180)",
+        "Anti-BP180 IgG antibodies cause bullous pemphigoid (tense subepidermal bullae), not granular IgA papulovesicular dermatitis herpetiformis."
+      ],
+      [
+        "IgA autoantibodies directed against the cell-surface Fc-alpha receptor (CD89) on resident cutaneous mast cells",
+        "Direct CD89 autoantibodies are not the mechanism; immune complexes bind through Fc-alpha receptors, but the primary target is epidermal transglutaminase."
+      ],
+      [
+        "IgG autoantibodies directed against desmoglein-1 causing subcorneal acantholysis and crusted erosions",
+        "Anti-desmoglein-1 antibodies cause pemphigus foliaceus (superficial subcorneal blisters without mucosal involvement), not dermatitis herpetiformis."
+      ],
+      [
+        "Circulating IgE antibodies directed against cross-reactive aeroallergens triggering major basic protein degranulation",
+        "IgE-mediated aeroallergen hypersensitivity drives atopic dermatitis (eczematous flexural dermatitis), not extensor granular IgA microabscesses."
+      ]
+    ],
+    "shortestValidSolution": "Pruritic extensor vesicles + celiac symptoms + granular IgA in dermal papillae = Dermatitis herpetiformis -> IgA against epidermal transglutaminase-3.",
+    "necessaryInference": "Identify the precise autoantigen in dermatitis herpetiformis: epidermal transglutaminase (eTG / tTG-3) targeted by cross-reactive IgA complexes.",
+    "strongestDistractor": "IgG antibodies directed against the non-collagenous NC16A domain of type XVII collagen (BP180)",
+    "distractorExclusion": "Anti-BP180 IgG antibodies cause bullous pemphigoid with linear basement membrane fluorescence, contrasting with granular papillary IgA deposits.",
+    "citation": "Zone JJ. Skin manifestations of celiac disease. Gastroenterology. 2005;128(4 Suppl 1):S87-S91. PMID: 15825132.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Correlates clinical findings (celiac symptoms, extensor vesicles) with granular immunofluorescence and transglutaminase-3 biochemistry.",
+      "distractorExclusionNotes": "Distractors feature BP180 (bullous pemphigoid), desmoglein-1 (pemphigus foliaceus), CD89, and atopic IgE.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0653",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Erythema Multiforme Cytotoxic T-Cell Pathogenesis & Triggers",
+    "provisionalDifficulty": 4,
+    "stem": "A 24-year-old man presents with a sudden eruption of asymptomatic to mildly burning rash on the palms of his hands, dorsum of his forearms, and soles of his feet. Ten days prior to the rash, he had a painful cluster of vesicles on his lower lip that crusted and healed spontaneously. On physical examination, the cutaneous lesions consist of sharply demarcated, symmetrical, erythematous maculopapules displaying three concentric zones: a dark dusky red necrotic center, surrounded by a pale edematous ring, and an outer bright red halo ('target' or 'iris' lesions). Oral mucosa is spared. A punch biopsy of a representative target lesion demonstrates basal keratinocyte vacuolar degeneration, necrotic apoptotic keratinocytes (Civatte bodies), and a dense perivascular lymphocytic infiltrate at the dermoepidermal junction. Which of the following immunopathological mechanisms is directly responsible for this cutaneous reaction?",
+    "choices": [
+      [
+        "Cell-mediated cytotoxic CD8+ T lymphocyte immune response against viral antigens (herpes simplex virus DNA) expressed by epidermal keratinocytes",
+        "Erythema multiforme (EM) is a cell-mediated (type IV) hypersensitivity reaction, most commonly triggered by herpes simplex virus (HSV-1 or HSV-2) infection (>70% of cases), or less commonly Mycoplasma pneumoniae. HSV DNA fragments are phagocytosed by circulating CD34+ Langerhans cell precursors and transported to the skin, where keratinocyte viral antigen presentation recruits HSV-specific CD8+ cytotoxic T cells that induce widespread basal keratinocyte apoptosis, creating classic target lesions."
+      ],
+      [
+        "Deposition of circulating IgM-IgG cryoglobulins in dermal arterioles triggering classical complement fixation and leukocytoclasia",
+        "Cryoglobulinemic vasculitis causes palpable purpura on the lower extremities, typically associated with hepatitis C, not concentric targetoid lesions."
+      ],
+      [
+        "Autoimmune IgG antibodies targeting the NC16A domain of desmoglein-3 leading to suprabasilar acantholysis",
+        "Desmoglein-3 antibodies cause pemphigus vulgaris (flaccid blisters and oral erosions), not target lesions following an HSV cold sore."
+      ],
+      [
+        "Superantigen-mediated cross-linking of MHC class II molecules to T-cell receptors causing massive polyclonal cytokine storm",
+        "Superantigens (e.g., TSST-1 from S. aureus) cause toxic shock syndrome (diffuse sunburn-like erythroderma, desquamation, and hypotension), not localized target lesions."
+      ],
+      [
+        "Immediate IgE-mediated mast cell degranulation releasing histamine and leukotrienes into the papillary dermis",
+        "IgE mast cell degranulation causes acute urticaria (transient wheals that resolve within 24 hours without epidermal necrosis or concentric zones)."
+      ]
+    ],
+    "shortestValidSolution": "Target lesions + preceding lip cold sore = Erythema multiforme -> CD8+ cytotoxic T-cell response against HSV DNA in keratinocytes.",
+    "necessaryInference": "Link the clinical target lesion morphology and prior cold sore to the specific cell-mediated mechanism: CD8+ T-cell lysis of HSV-antigen-bearing keratinocytes.",
+    "strongestDistractor": "Immediate IgE-mediated mast cell degranulation releasing histamine and leukotrienes into the papillary dermis",
+    "distractorExclusion": "Urticarial wheals are transient (<24h) and lack central epidermal necrosis or three concentric rings, whereas EM target lesions persist for weeks with apoptosis.",
+    "citation": "Sokumbi O, Wetter DA. Clinical features, diagnosis, and treatment of erythema multiforme: a review. Dermatol Ther. 2012;25(3):278-289. PMID: 22913443.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Delineates cytotoxic T-cell mediated apoptosis in erythema multiforme following viral infection (HSV).",
+      "distractorExclusionNotes": "Distractors feature cryoglobulinemia, desmoglein-3 autoantibodies, superantigen shock, and urticarial IgE degranulation.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0654",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Stevens-Johnson Syndrome / TEN Fas-FasL & Granulysin Mediated Necrosis",
+    "provisionalDifficulty": 5,
+    "stem": "A 36-year-old woman is admitted to the burn intensive care unit with widespread painful skin sloughing that began 12 days after starting trimethoprim-sulfamethoxazole for a urinary tract infection. She reports high fevers, painful burning eyes, and severe throat pain. Physical examination demonstrates extensive dusky purpuric macules that have coalesced into large flaccid bullae, with full-thickness epidermal detachment involving 38% of her total body surface area. There is severe hemorrhagic crusting of the lips and extensive erosions of the conjunctival and vaginal mucous membranes. Skin biopsy demonstrates full-thickness epidermal necrosis with complete separation of the epidermis from the dermis at the dermoepidermal junction in the absence of significant dermal inflammatory infiltrates. Which of the following cytotoxic mediators is the primary soluble effector driving this extensive keratinocyte apoptosis?",
+    "choices": [
+      [
+        "Granulysin secreted by drug-specific cytotoxic CD8+ T lymphocytes and natural killer cells, acting synergistically with Fas-Fas ligand (CD95-CD95L) signaling",
+        "Toxic epidermal necrolysis (TEN, >30% BSA detachment) and Stevens-Johnson syndrome (SJS, <10% BSA) are severe delayed cytotoxic hypersensitivity reactions triggered by drugs (sulfonamides, antiepileptics, allopurinol). Drug-specific CD8+ cytotoxic T cells and NK cells release granulysin (a 15-kDa cytolytic protein) into blister fluid, which directly disrupts keratinocyte mitochondrial membranes, acting with FasL and perforin/granzyme B to cause massive, full-thickness apoptotic epidermal necrosis."
+      ],
+      [
+        "Exfoliative toxin A and B produced by Staphylococcus aureus, cleaving desmoglein-1 within the upper stratum granulosum",
+        "Staphylococcal scalded skin syndrome (SSSS) is caused by exfoliative toxins A/B cleaving desmoglein-1 in the superficial granular layer, sparing mucous membranes, unlike full-thickness SJS/TEN."
+      ],
+      [
+        "Interleukin-17A secreted by Th17 lymphocytes stimulating keratinocyte hyperproliferation and parakeratosis",
+        "IL-17A drives epidermal hyperproliferation and Munro microabscesses in psoriasis vulgaris, not acute full-thickness apoptotic necrosis."
+      ],
+      [
+        "High-affinity IgE cross-linking on cutaneous mast cells inducing major basic protein degranulation",
+        "Mast cell degranulation causes urticaria and anaphylaxis, not full-thickness epidermal necrotic sloughing."
+      ],
+      [
+        "Leukotriene B4 chemoattraction of eosinophils causing flame figure formation in the reticular dermis",
+        "Eosinophilic infiltration with flame figures defines eosinophilic cellulitis (Wells syndrome), not life-threatening bullous skin detachment."
+      ]
+    ],
+    "shortestValidSolution": "TMP-SMX + fever + mucous membrane erosions + 38% BSA detachment = TEN -> Granulysin + Fas-FasL mediated keratinocyte apoptosis.",
+    "necessaryInference": "Identify the primary cytotoxic molecule responsible for full-thickness epidermal necrosis in SJS/TEN: granulysin from CD8+ T cells and NK cells.",
+    "strongestDistractor": "Exfoliative toxin A and B produced by Staphylococcus aureus, cleaving desmoglein-1 within the upper stratum granulosum",
+    "distractorExclusion": "Staphylococcal exfoliative toxins cause superficial subcorneal cleavage sparing mucous membranes (SSSS), whereas TEN causes full-thickness necrosis involving multiple mucosal surfaces.",
+    "citation": "Chung WH, et al. Granulysin is a key mediator for disseminated keratinocyte death in Stevens-Johnson syndrome and toxic epidermal necrolysis. Nat Med. 2008;14(12):1343-1350. PMID: 19029983.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests exact molecular immunology of severe cutaneous adverse reactions (SCAR), distinguishing granulysin-mediated full-thickness death from superficial SSSS.",
+      "distractorExclusionNotes": "Distractors feature SSSS exfoliative toxin, IL-17A in psoriasis, IgE mast cell degranulation, and Wells eosinophilic syndrome.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0655",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Psoriasis Vulgaris Parakeratosis & Munro Microabscesses",
+    "provisionalDifficulty": 5,
+    "stem": "A 34-year-old man presents with well-demarcated, erythematous plaques covered by thick, silvery-white micaceous scales over his extensor elbows, knees, and presacral region. When the physician gently scrapes away a scale, pinpoint bleeding spots appear from the underlying dermis (positive Auspitz sign). His nails show characteristic pitting and salmon-colored 'oil drop' discoloration. Skin biopsy reveals regular elongation of rete ridges ('test tubes in a rack'), hyperkeratosis with prominent retention of nuclei in the stratum corneum (parakeratosis), thinning of the suprapapillary epidermal plates, and focal collections of neutrophils within the stratum corneum. Which of the following histopathological terms corresponds to these intracorneal neutrophil aggregates?",
+    "choices": [
+      [
+        "Munro microabscesses within the parakeratotic stratum corneum",
+        "Psoriasis vulgaris is characterized histologically by acanthosis with regular rete ridge elongation, hyperkeratosis with parakeratosis (retention of nuclei in stratum corneum), absence of the stratum granulosum, thinning of the suprapapillary plate (accounting for Auspitz sign when dilated dermal capillary loops bleed), and intraepidermal neutrophil collections: Munro microabscesses in the stratum corneum and spongiform pustules of Kogoj in the spinous layer."
+      ],
+      [
+        "Civatte bodies located along the liquefied dermoepidermal junction",
+        "Civatte (colloid) bodies are apoptotic basal keratinocytes characteristic of lichen planus, not neutrophil aggregates in psoriasis."
+      ],
+      [
+        "Pautrier microabscesses located within the basal and spinous epidermal layers",
+        "Pautrier microabscesses are intraepidermal aggregates of atypical neoplastic CD4+ T lymphocytes seen in mycosis fungoides (cutaneous T-cell lymphoma)."
+      ],
+      [
+        "Michaelis-Gutmann bodies within foamy histiocytes in the reticular dermis",
+        "Michaelis-Gutmann bodies are calcified basophilic inclusions found in malakoplakia (chronic bacterial histiocytic infection, e.g., E. coli)."
+      ],
+      [
+        "Schaumann bodies within multinucleated Langerhans-type giant cells",
+        "Schaumann bodies are laminated calcium-protein inclusions found in sarcoid granulomas, not the epidermal stratum corneum."
+      ]
+    ],
+    "shortestValidSolution": "Silvery plaques + Auspitz sign + neutrophils in stratum corneum = Psoriasis -> Munro microabscesses.",
+    "necessaryInference": "Recognize classic microscopic names: Munro microabscesses = neutrophils in stratum corneum (psoriasis); Pautrier = T-cells (mycosis fungoides); Civatte = apoptotic keratinocytes (lichen planus).",
+    "strongestDistractor": "Pautrier microabscesses located within the basal and spinous epidermal layers",
+    "distractorExclusion": "Pautrier microabscesses are clusters of malignant T lymphocytes in cutaneous T-cell lymphoma (mycosis fungoides), whereas Munro microabscesses are benign neutrophil collections in psoriasis.",
+    "citation": "Boehncke WH, Sch\u00f6n MP. Psoriasis. Lancet. 2015;386(9997):983-994. PMID: 26025581.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests pathognomonic microscopic terminology and cellular differential diagnosis in epidermal proliferative dermatoses.",
+      "distractorExclusionNotes": "Distractors feature Civatte bodies (lichen planus), Pautrier microabscesses (mycosis fungoides), Michaelis-Gutmann, and Schaumann bodies.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0656",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Lichen Planus Basal Liquefactive Degeneration & Civatte Bodies",
+    "provisionalDifficulty": 4,
+    "stem": "A 48-year-old man presents with an intensely pruritic rash that developed on the flexor surfaces of his wrists and ankles over the past 3 months. Physical examination reveals polygonal, flat-topped, violaceous papules with a shiny surface, crisscrossed by fine, whitish reticular lines (Wickham striae). Examination of the oral cavity reveals asymptomatic white lacy patches on the bilateral buccal mucosa. A punch biopsy of a wrist papule demonstrates hyperkeratosis without parakeratosis, focal hypergranulosis, irregular acanthosis with a 'sawtooth' appearance of the rete ridges, liquefactive degeneration of the basal cell layer, and an intense, continuous, band-like infiltrate of mononuclear inflammatory cells hugging the dermoepidermal junction. Which of the following microscopic structures represents necrotic apoptotic basal keratinocytes in this biopsy?",
+    "choices": [
+      [
+        "Civatte bodies (colloid or cytoid bodies) residing in the lower epidermis and papillary dermis",
+        "Lichen planus is a cell-mediated (CD8+ cytotoxic T-cell) autoimmune dermatosis directed against basal keratinocytes. Histopathology shows the classic 'sawtooth' rete ridges, hypergranulosis, and a dense band-like lymphocytic infiltrate at the dermoepidermal interface causing liquefactive degeneration. Apoptotic basal keratinocytes undergo anucleate eosinophilic hyaline degeneration, forming Civatte bodies (colloid bodies) in the basal layer and superficial dermis."
+      ],
+      [
+        "Russell bodies within the rough endoplasmic reticulum of mature plasma cells",
+        "Russell bodies are eosinophilic immunoglobulins distending the rough endoplasmic reticulum of plasma cells (seen in chronic inflammation and multiple myeloma), not apoptotic keratinocytes."
+      ],
+      [
+        "Cowdry A inclusion bodies within the nuclei of multi-nucleated epithelial giant cells",
+        "Cowdry A bodies are eosinophilic intranuclear inclusions seen in HSV and VZV infections, surrounded by an artifactual clear halo."
+      ],
+      [
+        "Negri bodies within the cytoplasm of cerebellar Purkinje cells and hippocampal pyramidal neurons",
+        "Negri bodies are round eosinophilic cytoplasmic viral inclusions diagnostic of rabies virus infection, not cutaneous inflammatory lesions."
+      ],
+      [
+        "Lewy bodies consisting of alpha-synuclein aggregates within pigmented substantia nigra neurons",
+        "Lewy bodies are intracellular inclusions of alpha-synuclein found in Parkinson disease and dementia with Lewy bodies."
+      ]
+    ],
+    "shortestValidSolution": "Pruritic violaceous flat papules + Wickham striae + sawtooth rete + basal liquefaction = Lichen planus -> Civatte bodies.",
+    "necessaryInference": "Map the specific histopathologic eponym in lichen planus: apoptotic basal keratinocytes forming anucleate eosinophilic Civatte (colloid) bodies.",
+    "strongestDistractor": "Russell bodies within the rough endoplasmic reticulum of mature plasma cells",
+    "distractorExclusion": "Russell bodies represent immunoglobulin-packed endoplasmic reticulum in plasma cells, not apoptotic keratinocytes.",
+    "citation": "Le Cleach L, Chosidow O. Clinical practice. Lichen planus. N Engl J Med. 2012;366(8):723-732. PMID: 22356325.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests classic dermatopathology eponyms and immune mechanism (CD8+ basal cell apoptosis in lichen planus).",
+      "distractorExclusionNotes": "Distractors feature Russell bodies, Cowdry A inclusions, Negri bodies, and Lewy bodies.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0657",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Dermatology",
+    "topic": "Melanoma BRAF V600E Activating Mutation & MAPK Pathway",
+    "provisionalDifficulty": 5,
+    "stem": "A 52-year-old fair-skinned man presents with an irregularly pigmented, asymmetrical cutaneous lesion on his upper back that has darkened and enlarged over the past 4 months. Dermoscopy reveals asymmetry, border irregularity, color variegation (black, brown, and bluish-white veil), and a diameter of 9 mm. Complete excisional biopsy confirms an invasive nodular malignant melanoma with a Breslow depth of 3.4 mm and ulceration. Staging evaluation reveals metastatic disease in multiple bilateral pulmonary nodules. Molecular genetic testing of the neoplastic melanocytes identifies a T-to-A transversion at nucleotide 1799, resulting in a valine-to-glutamic acid substitution at codon 600 (V600E) in the kinase domain of the BRAF protein. Which of the following downstream cellular alterations is directly driven by this specific oncoprotein?",
+    "choices": [
+      [
+        "Constitutive, monomeric serine/threonine kinase activation that continuously phosphorylates and activates MEK1/2, stimulating the MAPK/ERK proliferative cascade independent of upstream RAS-GTP",
+        "BRAF is a serine/threonine kinase in the MAPK signaling pathway (RAS -> RAF -> MEK -> ERK). The V600E mutation introduces a negative charge (glutamic acid for valine) into the activation loop, mimicking phosphorylation and rendering BRAF constitutively active as an active monomer. This continuously drives downstream MEK1/2 phosphorylation, ERK activation, and cyclin D1 expression, driving unrestrained melanoma cell cycle progression and survival independent of upstream receptor tyrosine kinase or RAS signaling."
+      ],
+      [
+        "Constitutive GTPase-activating protein (GAP) resistance in the G-protein subunit G-alpha-s, causing chronic adenylyl cyclase stimulation",
+        "G-alpha-s GTPase mutations cause McCune-Albright syndrome (caf\u00e9-au-lait spots, precocious puberty, fibrous dysplasia), not cutaneous melanoma."
+      ],
+      [
+        "Loss of dual-specificity lipid phosphatase activity, causing accumulation of phosphatidylinositol-3,4,5-trisphosphate (PIP3)",
+        "Loss of lipid phosphatase activity defines PTEN tumor suppressor inactivation, which can co-occur in melanoma, but BRAF V600E specifically functions as a gain-of-function serine/threonine kinase."
+      ],
+      [
+        "Direct transactivation of the c-MYC promoter following chromosomal translocation to the immunoglobulin heavy-chain locus",
+        "t(8;14) IGH-MYC translocation is the defining oncogenic mechanism of Burkitt lymphoma, not solid melanoma."
+      ],
+      [
+        "Inhibition of the mitochondrial permeability transition pore by high-affinity sequestration of pro-apoptotic BAX monomers",
+        "Bcl-2 overexpression sequesters BAX to prevent apoptosis (seen in t(14;18) follicular lymphoma); BRAF V600E acts through the MAPK kinase cascade."
+      ]
+    ],
+    "shortestValidSolution": "Metastatic melanoma + BRAF V600E = Constitutive monomeric serine/threonine kinase -> Direct activation of MEK1/2 and ERK in MAPK pathway.",
+    "necessaryInference": "Identify the exact enzyme activity and pathway position of BRAF V600E: serine/threonine kinase that phosphorylates MEK1/2 independent of RAS.",
+    "strongestDistractor": "Loss of dual-specificity lipid phosphatase activity, causing accumulation of phosphatidylinositol-3,4,5-trisphosphate (PIP3)",
+    "distractorExclusion": "PIP3 accumulation results from PTEN lipid phosphatase loss-of-function, whereas BRAF V600E is a kinase gain-of-function mutation in the MAPK cascade.",
+    "citation": "Davies H, et al. Mutations of the BRAF gene in human cancer. Nature. 2002;417(6892):949-954. PMID: 12068308.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests precision oncology molecular pharmacology, distinguishing BRAF kinase activity and MEK/ERK signaling from PI3K/PTEN.",
+      "distractorExclusionNotes": "Distractors feature McCune-Albright (Gs), PTEN lipid phosphatase, Burkitt t(8;14) c-MYC, and follicular t(14;18) Bcl-2.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0658",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Basal Cell Carcinoma PTCH1 & Hedgehog Signaling Pathway",
+    "provisionalDifficulty": 4,
+    "stem": "A 64-year-old man presents with a slow-growing, painless lesion on his right upper cheek that frequently bleeds after towel drying. Physical examination reveals a pearly, translucent papule measuring 7 mm with rolled borders, central ulceration, and prominent overlying telangiectatic vessels. Shave biopsy reveals nests and islands of basaloid cells extending from the basal layer into the papillary dermis; the outermost layer of cells within each island is arranged radially perpendicular to the tumor margin, forming a distinctive 'palisading' pattern, separated from the surrounding loose fibrous stroma by clear retraction clefts. Biopsy sequencing reveals loss-of-function inactivation of the patched-1 (PTCH1) tumor suppressor gene. Which of the following downstream events is directly caused by the loss of PTCH1 in these neoplastic basaloid cells?",
+    "choices": [
+      [
+        "Loss of tonic inhibition of smoothened (SMO), allowing SMO to translocate and activate GLI transcription factors that drive cellular proliferation",
+        "The hedgehog signaling pathway is essential in basal cell carcinoma (BCC) pathogenesis (both sporadic and inherited in Gorlin syndrome / nevoid BCC). Under resting conditions, the Patched-1 (PTCH1) 12-transmembrane receptor constitutively inhibits Smoothened (SMO). Loss-of-function mutations in PTCH1 relieve this tonic repression; uninhibited SMO triggers nuclear translocation of GLI1/GLI2 zinc-finger transcription factors, driving cell proliferation and anti-apoptotic gene expression."
+      ],
+      [
+        "Unrestrained phosphorylation of beta-catenin by the adenomatous polyposis coli (APC) destruction complex",
+        "Phosphorylation of beta-catenin by the APC/GSK3 complex promotes beta-catenin degradation (tumor suppression); loss of APC causes beta-catenin nuclear accumulation in colon cancer."
+      ],
+      [
+        "Failure of mismatch repair endonuclease complexes (MSH2/MLH1) to detect microsatellite base-pair slippage",
+        "MSH2/MLH1 deficiency causes hereditary nonpolyposis colorectal cancer (Lynch syndrome) and Muir-Torre syndrome (sebaceous neoplasms, not classic palisading BCC)."
+      ],
+      [
+        "Constitutive homodimerization of the RET receptor tyrosine kinase driving intracellular PLC-gamma activation",
+        "RET proto-oncogene activating mutations cause MEN2A and MEN2B syndromes, predisposing to medullary thyroid carcinoma and pheochromocytoma."
+      ],
+      [
+        "Hypermethylation of the VHL promoter preventing ubiquitination of hypoxia-inducible factor 1-alpha (HIF-1alpha)",
+        "VHL inactivation prevents HIF-1alpha degradation in clear cell renal carcinoma and hemangioblastomas, distinct from hedgehog/SMO/GLI signaling."
+      ]
+    ],
+    "shortestValidSolution": "Pearly papule + telangiectasias + peripheral palisading + PTCH1 mutation = Basal cell carcinoma -> Relieves inhibition of Smoothened (SMO) -> GLI activation.",
+    "necessaryInference": "Detail the hedgehog developmental signaling cascade: PTCH1 normally represses Smoothened (SMO); PTCH1 loss releases SMO to activate GLI transcription factors.",
+    "strongestDistractor": "Unrestrained phosphorylation of beta-catenin by the adenomatous polyposis coli (APC) destruction complex",
+    "distractorExclusion": "APC-mediated phosphorylation degrades beta-catenin, acting as a tumor suppressor in colorectal cancer; it is unrelated to PTCH1/SMO signaling in basal cell carcinoma.",
+    "citation": "Epstein EH. Basal cell carcinomas: attack of the hedgehog. Nat Rev Cancer. 2008;8(10):743-754. PMID: 18779810.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests exact developmental oncogenic pathway biochemistry (Hedgehog/PTCH1/SMO/GLI) in basal cell carcinoma.",
+      "distractorExclusionNotes": "Distractors feature APC beta-catenin degradation, Lynch mismatch repair, RET kinase, and VHL ubiquitination.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0659",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Squamous Cell Carcinoma UV Pyrimidine Dimerization & Keratin Pearls",
+    "provisionalDifficulty": 5,
+    "stem": "A 71-year-old retired farmer presents with a firm, ulcerated, non-healing nodule with a hyperkeratotic crust on the helix of his left ear that has grown over the past 6 months. Physical examination reveals a 1.2-cm indurated, scaling plaque with central ulceration arising on a background of sun-damaged, mottled skin with multiple erythematous rough sandpaper-like patches. Excisional biopsy demonstrates invasive atypical squamous epithelial cells extending through the basement membrane into the reticular dermis, with nuclear pleomorphism, frequent atypical mitotic figures, individual cell dyskeratosis, and concentric laminated whorls of eosinophilic cornified squamous cells ('keratin pearls'). Molecular analysis reveals characteristic UV-B signature mutations consisting of CC-to-TT tandem transitions in the TP53 gene. Which of the following photochemical DNA lesions is the direct initiating cause of these genetic transitions?",
+    "choices": [
+      [
+        "Covalent formation of cyclobutane pyrimidine dimers and 6-4 photoproducts between adjacent thymine or cytosine bases on the same DNA strand",
+        "Ultraviolet-B (UV-B, 290-320 nm) radiation directly damages DNA by forming covalent bonds between adjacent pyrimidine bases (thymine-thymine or cytosine-cytosine) on the same strand, generating cyclobutane pyrimidine dimers (CPDs) and 6-4 pyrimidine-pyrimidone photoproducts. Error-prone translesion DNA synthesis across unexcised pyrimidine dimers introduces characteristic UV-signature mutations (C->T or CC->TT tandem transitions), frequently inactivating the TP53 tumor suppressor gene and initiating squamous cell carcinoma (SCC)."
+      ],
+      [
+        "Formation of covalent guanine-adenine interstrand DNA cross-links mediated by reactive oxygen species",
+        "Interstrand cross-links are caused by bifunctional alkylating agents (e.g., cisplatin, cyclophosphamide) or psoralens, not UV-B pyrimidine dimerization."
+      ],
+      [
+        "Oxidative hydroxylation of guanine to 8-hydroxydeoxyguanosine driven by low-energy ionizing radiation",
+        "8-hydroxydeoxyguanosine is a marker of oxidative stress and ionizing radiation (X-rays, gamma-rays), not direct UV-B pyrimidine dimerization."
+      ],
+      [
+        "Spontaneous enzymatic deamination of 5-methylcytosine to uracil in unmethylated CpG islands",
+        "Deamination of cytosine produces uracil, and 5-methylcytosine deaminates to thymine; these are spontaneous hydrolytic events rather than UV-induced dimerizations."
+      ],
+      [
+        "Double-strand DNA breaks repaired by error-prone non-homologous end joining",
+        "Double-strand breaks are caused by ionizing radiation or radiomimetic chemotherapy, leading to translocations, distinct from UV-B point mutagenesis."
+      ]
+    ],
+    "shortestValidSolution": "Ear ulcer + keratin pearls + CC-to-TT mutations = Cutaneous SCC -> UV-B induced cyclobutane pyrimidine dimers.",
+    "necessaryInference": "Connect the clinical and histological hallmarks of SCC (keratin pearls) to the exact UV-B photochemical lesion: cyclobutane pyrimidine dimers / 6-4 photoproducts yielding CC->TT transitions.",
+    "strongestDistractor": "Oxidative hydroxylation of guanine to 8-hydroxydeoxyguanosine driven by low-energy ionizing radiation",
+    "distractorExclusion": "8-OHdG is an oxidative free-radical adduct caused by ionizing radiation, whereas UV-B specifically creates intrastrand cyclobutane pyrimidine dimers.",
+    "citation": "Pfeifer GP, et al. Sunlight and cancer. Cancer Res. 2005;65(16):7028-7032. PMID: 16103047.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests DNA photobiology and molecular mechanisms of UV-B carcinogenesis leading to TP53 inactivation in squamous neoplasia.",
+      "distractorExclusionNotes": "Distractors feature interstrand cross-links, ionizing radiation oxidative damage (8-OHdG), spontaneous deamination, and double-strand breaks.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0660",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Actinic Keratosis Cytologic Atypia & Malignant Transformation",
+    "provisionalDifficulty": 4,
+    "stem": "A 68-year-old fair-skinned woman presents for a routine skin check. She has spent decades gardening outdoors without sunscreen. Physical examination reveals multiple small, gritty, erythematous, sandpaper-like scaly papules measuring 3 to 6 mm across the bridge of her nose, forehead, and dorsal hands. A punch biopsy of a representative forehead lesion demonstrates hyperkeratosis with alternating parakeratosis, marked cytologic atypia (pleomorphism, hyperchromasia, loss of polarity) restricted entirely to the lower one-third of the epidermis, and severe solar elastosis (accumulation of basophilic elastotic fibers) within the superficial papillary dermis. The basement membrane is completely intact. If left untreated, this cutaneous lesion has the potential to progress directly into which of the following invasive malignancies?",
+    "choices": [
+      [
+        "Invasive cutaneous squamous cell carcinoma, through progressive full-thickness epidermal dysplasia breaching the basement membrane",
+        "Actinic keratosis (AK) is a premalignant epidermal lesion caused by chronic ultraviolet radiation damage. Histopathology reveals cytologic atypia and dysplasia restricted to the lower layers of the epidermis, with parakeratosis and solar elastosis. Approximately 0.1% to 10% of actinic keratoses per year transform directly into invasive squamous cell carcinoma (SCC) as dysplasia becomes full-thickness (SCC in situ / Bowen disease) and breaches the basement membrane."
+      ],
+      [
+        "Nodular basal cell carcinoma, through proliferation of sonic hedgehog-dependent basaloid cells",
+        "Basal cell carcinoma arises de novo from follicular or interfollicular basal cells; it does not develop from actinic keratosis."
+      ],
+      [
+        "Lentigo maligna melanoma, through clonal proliferation of atypical junctional melanocytes",
+        "Melanoma develops from atypical melanocytes (or pre-existing nevi / lentigo maligna), not keratinocytic dysplasias like actinic keratosis."
+      ],
+      [
+        "Merkel cell carcinoma, through integration of Merkel cell polyomavirus in neuroendocrine tactile cells",
+        "Merkel cell carcinoma is a rare, aggressive neuroendocrine carcinoma associated with Merkel cell polyomavirus, not a sequel of actinic keratosis."
+      ],
+      [
+        "Kaposi sarcoma, through human herpesvirus 8 (HHV-8) infection of lymphatic endothelial cells",
+        "Kaposi sarcoma is a vascular neoplasm caused by HHV-8 in immunocompromised patients, unrelated to ultraviolet-induced actinic keratosis."
+      ]
+    ],
+    "shortestValidSolution": "Sandpaper papules + lower-layer epidermal dysplasia = Actinic keratosis -> Direct precursor to invasive cutaneous squamous cell carcinoma.",
+    "necessaryInference": "Identify the natural history of actinic keratosis: it is a premalignant keratinocytic lesion that progresses to invasive squamous cell carcinoma.",
+    "strongestDistractor": "Nodular basal cell carcinoma, through proliferation of sonic hedgehog-dependent basaloid cells",
+    "distractorExclusion": "Basal cell carcinoma arises directly from basal cells/follicular structures and does not have an actinic keratosis precursor phase.",
+    "citation": "Ratushny V, et al. From keratinocyte to cancer: the pathogenesis and modeling of cutaneous squamous cell carcinoma. J Clin Invest. 2012;122(2):464-472. PMID: 22293185.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests precursor-malignancy lineage in cutaneous oncology, mapping partial-thickness dysplasia to invasive squamous cell carcinoma.",
+      "distractorExclusionNotes": "Distractors feature basal cell carcinoma, melanoma, Merkel cell carcinoma, and Kaposi sarcoma.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0661",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Vitiligo Autoimmune Melanocyte Destruction Mechanism",
+    "provisionalDifficulty": 5,
+    "stem": "A 26-year-old woman presents with asymptomatic, sharply demarcated, chalky-white patches of skin that began around her mouth and eyes and have recently appeared on the dorsum of both hands. She has a history of Hashimoto thyroiditis for which she takes levothyroxine. Examination under a Wood lamp (ultraviolet-A light) reveals bright blue-white accentuation of the completely depigmented macules. A punch biopsy taken from the center of a depigmented patch stained with Fontana-Masson silver stain and Melan-A (MART-1) immunohistochemistry is compared to adjacent normal skin. Which of the following histopathological findings is observed within the depigmented lesion?",
+    "choices": [
+      [
+        "Complete absence of functional epidermal melanocytes and total absence of melanin pigment in the basal layer",
+        "Vitiligo is an autoimmune disorder characterized by CD8+ cytotoxic T-cell-mediated destruction of epidermal melanocytes, frequently co-occurring with other autoimmune diseases (Hashimoto thyroiditis, type 1 diabetes). Histopathologically, Melan-A and Fontana-Masson silver stains demonstrate a complete, absolute absence of melanocytes and melanin pigment within the basal epidermal layer of established lesions."
+      ],
+      [
+        "Normal density of basal melanocytes with an absolute intracellular failure of melanin synthesis due to defective tyrosinase",
+        "Normal melanocyte density with absent melanin synthesis is the hallmark of oculocutaneous albinism (an inborn enzymatic defect), not autoimmune vitiligo."
+      ],
+      [
+        "Selective accumulation of giant macromelanosomes within keratinocyte cytoplasm causing abnormal melanosome transfer",
+        "Macromelanosomes are found in caf\u00e9-au-lait spots (neurofibromatosis type 1) or Ch\u00e9diak-Higashi syndrome, not depigmented vitiligo."
+      ],
+      [
+        "Impaired melanosome transfer from melanocyte dendrites to keratinocytes resulting in hypopigmentation without melanocyte loss",
+        "Impaired transfer without melanocyte loss occurs in post-inflammatory hypopigmentation or pityriasis alba, not complete amelanotic vitiligo."
+      ],
+      [
+        "Extensive granulomatous infiltration of the superficial dermis surrounding fragmented dendritic melanocytes",
+        "Vitiligo does not feature granulomatous inflammation; cytotoxic CD8+ T cells mediate apoptosis with minimal stromal alteration in mature patches."
+      ]
+    ],
+    "shortestValidSolution": "Depigmented patches + Wood lamp accentuation + Hashimoto thyroiditis = Vitiligo -> Complete absence of epidermal melanocytes and melanin.",
+    "necessaryInference": "Distinguish vitiligo from albinism histologically: vitiligo has zero melanocytes (autoimmune destruction); albinism has normal melanocyte numbers with zero melanin.",
+    "strongestDistractor": "Normal density of basal melanocytes with an absolute intracellular failure of melanin synthesis due to defective tyrosinase",
+    "distractorExclusion": "Normal melanocyte density with impaired tyrosinase activity defines oculocutaneous albinism, whereas vitiligo features complete autoimmune destruction of the melanocytes themselves.",
+    "citation": "Frisoli ML, et al. Vitiligo: mechanisms of pathogenesis and targeted therapy. Annu Rev Immunol. 2020;38:621-648. PMID: 32017656.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests histochemical and cellular differentiation between autoimmune melanocyte destruction (vitiligo) and genetic enzymatic failure (albinism).",
+      "distractorExclusionNotes": "Distractors feature albinism (normal melanocyte number), macromelanosomes (NF1), post-inflammatory transfer failure, and granulomas.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0662",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Dermatology",
+    "topic": "Oculocutaneous Albinism Tyrosinase Gene Mutation & Melanin Synthesis",
+    "provisionalDifficulty": 4,
+    "stem": "A 3-month-old male infant is evaluated by a pediatric ophthalmologist due to rapid, involuntary horizontal oscillatory eye movements (nystagmus) and extreme photophobia. His parents report that he has unusually fair skin and pale yellow-white hair compared to his older siblings. Physical examination reveals translucent, pale blue irises displaying a red fundus reflex under illumination, milky-white skin, and blonde-white hair. Funduscopic examination demonstrates foveal hypoplasia. A skin punch biopsy reveals a completely normal number and density of melanocytes along the dermoepidermal junction; however, a DOPA (dihydroxyphenylalanine) incubation histochemical reaction yields no melanin formation. Genetic testing confirms an autosomal recessive mutation in the TYR gene encoding tyrosinase. Which of the following biochemical conversions is directly catalyzed by this copper-dependent enzyme?",
+    "choices": [
+      [
+        "Oxidation of L-tyrosine to dihydroxyphenylalanine (L-DOPA) and subsequent oxidation of L-DOPA to dopaquinone",
+        "Oculocutaneous albinism type 1 (OCA1) is caused by mutations in the TYR gene encoding tyrosinase, a copper-containing enzyme located within melanosomes. Tyrosinase catalyzes the first two, rate-limiting steps in melanin synthesis: the hydroxylation of L-tyrosine to L-DOPA, and the oxidation of L-DOPA to dopaquinone. Melanocyte count is completely normal, but melanin pigments (eumelanin and pheomelanin) cannot be synthesized."
+      ],
+      [
+        "Decarboxylation of L-DOPA to dopamine catalyzed by aromatic L-amino acid decarboxylase",
+        "L-DOPA decarboxylation to dopamine occurs in the catecholamine synthesis pathway in neurons and adrenal chromaffin cells, not melanosomes."
+      ],
+      [
+        "Hydroxylation of phenylalanine to tyrosine catalyzed by tetrahydrobiopterin-dependent phenylalanine hydroxylase",
+        "Phenylalanine hydroxylase converts phenylalanine to tyrosine; deficiency causes phenylketonuria (PKU), which features mild hypopigmentation secondarily but not true OCA."
+      ],
+      [
+        "Oxidation of homogentisic acid to maleylacetoacetic acid by homogentisate 1,2-dioxygenase",
+        "Homogentisate dioxygenase deficiency causes alkaptonuria (ochronosis and black urine), not albinism."
+      ],
+      [
+        "Hydroxylation of dopamine to norepinephrine catalyzed by dopamine beta-hydroxylase",
+        "Dopamine beta-hydroxylase is an adrenergic biosynthetic enzyme in sympathetic synaptic vesicles, unrelated to melanin production in cutaneous melanocytes."
+      ]
+    ],
+    "shortestValidSolution": "Nystagmus + milky skin + normal melanocyte density + negative DOPA reaction = Albinism (OCA1) -> Tyrosinase converts tyrosine to DOPA to dopaquinone.",
+    "necessaryInference": "Detail the melanin synthetic pathway: tyrosinase (copper-dependent) oxidizes L-tyrosine -> L-DOPA -> dopaquinone; melanocyte count is normal.",
+    "strongestDistractor": "Decarboxylation of L-DOPA to dopamine catalyzed by aromatic L-amino acid decarboxylase",
+    "distractorExclusion": "DOPA decarboxylase synthesizes dopamine in catecholaminergic neurons and adrenal medulla, not melanin in cutaneous melanocytes.",
+    "citation": "Montoliu L, et al. Increasing the complexity: new genes and new types of albinism. Pigment Cell Melanoma Res. 2014;27(1):11-18. PMID: 24118991.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Differentiates melanin synthesis enzymology from catecholamine synthesis and phenylalanine catabolism.",
+      "distractorExclusionNotes": "Distractors feature DOPA decarboxylase (dopamine), phenylalanine hydroxylase (PKU), homogentisate dioxygenase (alkaptonuria), and dopamine beta-hydroxylase.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0663",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Dermatology",
+    "topic": "Xeroderma Pigmentosum Nucleotide Excision Repair Endonuclease Defect",
+    "provisionalDifficulty": 5,
+    "stem": "A 5-year-old boy is brought to the pediatric dermatology clinic due to severe freckling and extreme photosensitivity. His parents report that even minimal sun exposure of 5 to 10 minutes produces severe blistering sunburns. Physical examination reveals marked xerosis, widespread poikiloderma with hyperpigmented and atrophic macules on sun-exposed facial skin, telangiectasias, and corneal clouding with photophobia. A 4-mm biopsy of an indurated lesion on his lower lip confirms an invasive squamous cell carcinoma. Genetic testing confirms an autosomal recessive disorder caused by a mutation in the XPA gene. Which of the following DNA repair steps is primarily defective in this patient's cells?",
+    "choices": [
+      [
+        "Endonuclease-mediated recognition and dual incision of single-strand phosphodiester backbones flanking bulky UV-induced pyrimidine dimers during nucleotide excision repair",
+        "Xeroderma pigmentosum (XP) is an autosomal recessive disorder caused by deficiency in nucleotide excision repair (NER), specifically XP endonuclease complexes (XPA through XPG). NER is the essential cellular mechanism that repairs bulky, helix-distorting DNA lesions, primarily UV-induced cyclobutane pyrimidine dimers and 6-4 photoproducts. The defective endonuclease complex cannot perform dual incisions on either side of the damaged oligonucleotide, leading to catastrophic accumulation of UV-induced mutations and a >1,000-fold increase in skin cancers (SCC, BCC, melanoma) in childhood."
+      ],
+      [
+        "Glycosylase-mediated excision of deaminated cytosine or oxidatively damaged guanine bases during base excision repair",
+        "DNA glycosylases remove damaged individual bases (forming apurinic/apyrimidinic AP sites) during base excision repair (BER); BER repairs non-bulky lesions, not UV pyrimidine dimers."
+      ],
+      [
+        "Mismatch repair endonuclease incision targeting unmethylated daughter DNA strands following replication slippage",
+        "Mismatch repair (MMR, mediated by MSH2/MLH1) corrects base-base mismatches and small insertion/deletion loops following replication, defective in Lynch syndrome."
+      ],
+      [
+        "Non-homologous end joining (NHEJ) Ku70/Ku80-dependent ligation of double-strand DNA breaks",
+        "NHEJ repairs double-strand DNA breaks caused by ionizing radiation or radiomimetic agents; deficiency causes ataxia-telangiectasia or severe immunodeficiencies."
+      ],
+      [
+        "Homologous recombination directed by BRCA1 and RAD51 resolving stalled interstrand cross-link replication forks",
+        "Homologous recombination repairs double-strand breaks and interstrand cross-links using a sister chromatid template (defective in BRCA1/2-deficient breast/ovarian cancer or Fanconi anemia)."
+      ]
+    ],
+    "shortestValidSolution": "Child + severe freckling + sunburn with minimal UV + SCC at age 5 = Xeroderma pigmentosum -> Nucleotide excision repair (NER) endonuclease defect.",
+    "necessaryInference": "Link XP to its specific DNA repair pathway: Nucleotide Excision Repair (NER) uses endonucleases to remove bulky UV pyrimidine dimers.",
+    "strongestDistractor": "Glycosylase-mediated excision of deaminated cytosine or oxidatively damaged guanine bases during base excision repair",
+    "distractorExclusion": "Base excision repair uses glycosylases to repair small, non-bulky single base lesions (e.g., deaminated cytosine), whereas NER specifically removes bulky helix-distorting UV dimers.",
+    "citation": "DiGiovanna JJ, Kraemer KH. Shining a light on xeroderma pigmentosum. J Invest Dermatol. 2012;132(3 Pt 2):785-796. PMID: 22217736.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests exact molecular biochemistry of DNA repair pathways, contrasting NER from BER, MMR, and homologous recombination.",
+      "distractorExclusionNotes": "Distractors feature Base Excision Repair (glycosylases), Mismatch Repair (Lynch), Non-Homologous End Joining, and Homologous Recombination (BRCA).",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0664",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Dermatology",
+    "topic": "Porphyria Cutanea Tarda Uroporphyrinogen Decarboxylase Defect",
+    "provisionalDifficulty": 5,
+    "stem": "A 48-year-old man presents with painful blistering and skin fragility on the back of his hands that worsens significantly during summer months. He reports that minor trauma causes erosions that heal with scarring and tiny white cysts (milia). Physical examination reveals tense vesicles, bullae, crusts, hyperpigmentation, and hypertrichosis (excessive facial hair growth) over the cheeks and temples. He drinks 4 to 5 beers daily and was recently diagnosed with chronic hepatitis C. Urinalysis demonstrates reddish-brown discoloration that emits bright pink-red fluorescence when examined under a Wood ultraviolet lamp. Which of the following heme biosynthetic pathway enzymes is deficient in this patient?",
+    "choices": [
+      [
+        "Uroporphyrinogen decarboxylase (UROD), leading to accumulation of uroporphyrinogen and uroporphyrin in the skin and urine",
+        "Porphyria cutanea tarda (PCT) is the most common porphyria, caused by deficiency of uroporphyrinogen decarboxylase (UROD) in the heme biosynthetic pathway. Accumulation of uroporphyrinogen and its auto-oxidized product uroporphyrin leads to cutaneous photosensitivity: porphyrins absorb light at the Soret band (400-410 nm), generating reactive oxygen species that damage dermal capillaries, producing vesicles, erosions, milia, and hypertrichosis. Excreted uroporphyrins fluoresce coral pink under Wood light. Alcohol, hepatitis C, and iron overload are classical clinical triggers."
+      ],
+      [
+        "Porphobilinogen deaminase (PBGD / hydroxymethylbilane synthase), causing neurovisceral abdominal pain without photosensitivity",
+        "PBGD deficiency causes Acute Intermittent Porphyria (AIP), presenting with the '5 Ps' (painful abdomen, port-wine urine, polyneuropathy, psychological disturbances, precipitated by drugs), characteristically lacking cutaneous blisters."
+      ],
+      [
+        "Delta-aminolevulinic acid (ALA) dehydratase, causing accumulation of ALA with lead-poisoning-like symptoms",
+        "ALA dehydratase deficiency (or inhibition by lead) causes microcytic anemia, basophilic stippling, and colic, without uroporphyrin-mediated skin blistering."
+      ],
+      [
+        "Ferrochelatase, mediating the terminal incorporation of ferrous iron into protoporphyrin IX in erythroblasts",
+        "Ferrochelatase deficiency causes erythropoietic protoporphyria (EPP), presenting with burning pain within minutes of sun exposure without scarring blisters, or is inhibited by lead."
+      ],
+      [
+        "ALA synthase-1 (ALAS1), catalyzing the rate-limiting condensation of glycine and succinyl-CoA in mitochondria",
+        "ALAS1 is the rate-limiting enzyme in heme synthesis; deficiency of ALAS2 (erythroid form) causes X-linked sideroblastic anemia, not porphyria."
+      ]
+    ],
+    "shortestValidSolution": "Blisters on dorsal hands + hypertrichosis + Hep C + pink urine under Wood lamp = Porphyria cutanea tarda -> Uroporphyrinogen decarboxylase (UROD) defect.",
+    "necessaryInference": "Contrast porphyrias: PCT has blistering photosensitivity + uroporphyrin via UROD deficiency; AIP has neurovisceral pain without skin lesions via PBGD deficiency.",
+    "strongestDistractor": "Porphobilinogen deaminase (PBGD / hydroxymethylbilane synthase), causing neurovisceral abdominal pain without photosensitivity",
+    "distractorExclusion": "PBGD deficiency causes acute intermittent porphyria, which presents with severe abdominal pain and neuropsychiatric symptoms but characteristically lacks cutaneous photosensitivity.",
+    "citation": "Singal AK, Anderson KE. Porphyria cutanea tarda. Clin Liver Dis. 2013;17(4):695-714. PMID: 24099734.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests heme biosynthetic enzymology and clinical differentiation between cutaneous blistering porphyrias and neurovisceral porphyrias.",
+      "distractorExclusionNotes": "Distractors feature PBGD (AIP), ALA dehydratase (lead poisoning), ferrochelatase (EPP), and ALA synthase.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0665",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Dermatology",
+    "topic": "Atopic Dermatitis Filaggrin Mutation & Th2 Cytokine Skewing",
+    "provisionalDifficulty": 4,
+    "stem": "An 18-month-old boy is brought to the pediatric clinic due to an intensely pruritic, weeping, erythematous rash on his face, scalp, and extensor surfaces of his arms and legs that disrupts his sleep. His mother has severe allergic asthma and his father has seasonal allergic rhinitis. Physical examination reveals erythematous, excoriated papules and plaques with serous crusting. Serum total IgE concentration is markedly elevated at 1,480 IU/mL. Genetic analysis reveals a heterozygous loss-of-function null mutation (R501X) in the gene encoding profilaggrin (FLG). Which of the following pathophysiological mechanisms directly initiates the cutaneous inflammatory cascade in this child?",
+    "choices": [
+      [
+        "Disruption of the stratum corneum physical barrier allows epicutaneous penetration of environmental allergens, triggering thymic stromal lymphopoietin (TSLP) and a dominant Th2 cytokine response (IL-4, IL-13)",
+        "Filaggrin (filament-aggregating protein, encoded by FLG) aggregates keratin intermediate filaments in the stratum corneum and is degraded into natural moisturizing factors. Loss-of-function null mutations disrupt the stratum corneum barrier, increasing transepidermal water loss and permitting allergen/pathogen penetration. Keratinocytes release alarmins (TSLP, IL-33, IL-25), activating dendritic cells that drive a Th2 immune response (IL-4, IL-13, IL-31), stimulating B-cell class switching to IgE and intense pruritus."
+      ],
+      [
+        "Constitutive overactivation of the complement cascade via the lectin pathway, triggering mast cell membrane attack complex formation",
+        "Atopic dermatitis is driven by Th2 cellular immunity and IgE, not by primary inherited complement lectin pathway overactivation."
+      ],
+      [
+        "Direct cytotoxic CD8+ T-cell lysis of hair follicle keratinocytes mediated by perforin and granzyme B",
+        "Cytotoxic CD8+ lysis of follicular epithelium causes alopecia areata or lichen planopilaris, not eczematous atopic dermatitis."
+      ],
+      [
+        "Defective expression of the cystic fibrosis transmembrane conductance regulator (CFTR) on eccrine sweat gland ducts",
+        "CFTR mutations cause cystic fibrosis with salty sweat and pulmonary/pancreatic disease, distinct from filaggrin barrier defects in eczema."
+      ],
+      [
+        "Selective absence of cutaneous Langerhans cells preventing the induction of peripheral immune tolerance",
+        "Langerhans cell numbers are preserved or increased in atopic dermatitis and actively capture allergens to prime Th2 cells."
+      ]
+    ],
+    "shortestValidSolution": "Infant eczema + family asthma/allergies + high IgE + FLG mutation = Atopic dermatitis -> Stratum corneum barrier defect + Th2 (IL-4/IL-13) skewing.",
+    "necessaryInference": "Detail the two-hit hypothesis of atopic dermatitis: inherited filaggrin (FLG) epidermal barrier defect permits allergen entry, driving a Th2 immune response (IL-4, IL-13).",
+    "strongestDistractor": "Direct cytotoxic CD8+ T-cell lysis of hair follicle keratinocytes mediated by perforin and granzyme B",
+    "distractorExclusion": "CD8+ cytotoxic hair follicle destruction characterizes alopecia areata, whereas atopic dermatitis is an epidermal barrier defect with Th2 allergic inflammation.",
+    "citation": "Weidinger S, Novak N. Atopic dermatitis. Lancet. 2016;387(10023):1109-1122. PMID: 26377142.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Integrates skin structural barrier genetics (filaggrin) with modern mucosal immunology (TSLP, Th2 cytokines, IgE class switching).",
+      "distractorExclusionNotes": "Distractors feature complement activation, alopecia areata CD8+ destruction, CFTR sweat defects, and Langerhans cell absence.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0666",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Dermatology",
+    "topic": "Allergic Contact Dermatitis Type IV Hypersensitivity & Langerhans Cells",
+    "provisionalDifficulty": 5,
+    "stem": "A 28-year-old woman presents with an intensely pruritic, linear, erythematous vesicular eruption across her right shin and calf that developed 48 hours after hiking through a wooded state park. Physical examination reveals weeping, linear erythematous streaks of closely grouped vesicles and bullae with surrounding edema. Skin biopsy of an active vesicle reveals marked intercellular edema within the epidermis (spongiosis), microvesicle formation, and a perivascular lymphocytic infiltrate in the dermis. Which of the following cellular events occurs during the 'sensitization' (afferent) phase of this type IV hypersensitivity reaction?",
+    "choices": [
+      [
+        "Hapten molecules (urushiol) cross the stratum corneum and covalently bind endogenous self-proteins, forming neoantigens captured and processed by epidermal Langerhans cells that migrate to regional lymph nodes to prime naive T cells",
+        "Allergic contact dermatitis (e.g., poison ivy/urushiol) is a classic Type IV (delayed-type) cell-mediated hypersensitivity reaction. In the sensitization (afferent) phase, lipid-soluble haptens penetrate the epidermis, binding self-proteins to form complete immunogenic neoantigens. Epidermal Langerhans cells (dendritic cells containing Birbeck granules) capture these complexes, mature, and migrate via afferent lymphatics to regional lymph nodes, where they present peptide-MHC complexes to naive CD4+ and CD8+ T cells, generating effector and memory T cells over 1-2 weeks."
+      ],
+      [
+        "Pre-formed circulating IgE antibodies cross-link high-affinity Fc-epsilon-RI receptors on dermal mast cells, triggering instant degranulation",
+        "IgE cross-linking drives Type I immediate hypersensitivity (urticaria/anaphylaxis, occurring within minutes), not the 48-hour delayed cell-mediated spongiotic eruption of contact dermatitis."
+      ],
+      [
+        "Circulating antigen-antibody immune complexes deposit in dermal post-capillary venules, activating classical complement cascade C5a",
+        "Immune complex deposition defines Type III hypersensitivity (Arthus reaction or serum sickness), which produces leukocytoclastic vasculitis, not spongiotic intraepidermal vesicles."
+      ],
+      [
+        "Anti-endothelial autoantibodies activate antibody-dependent cellular cytotoxicity (ADCC) mediated by natural killer cells",
+        "ADCC represents Type II hypersensitivity (e.g., hyperacute allograft rejection or autoimmune hemolytic anemia), not hapten contact allergy."
+      ],
+      [
+        "Direct chemical alkylation of keratinocyte membrane lipids causes non-immunological physical necrosis of the stratum granulosum",
+        "Direct chemical necrosis is the mechanism of irritant contact dermatitis, which lacks immunological specificity and does not require a prior sensitization phase."
+      ]
+    ],
+    "shortestValidSolution": "Poison ivy hike + linear pruritic vesicles 48h later = Allergic contact dermatitis (Type IV) -> Urushiol hapten captured by Langerhans cells migrating to lymph nodes.",
+    "necessaryInference": "Identify the cellular stages of Type IV contact hypersensitivity: sensitization requires hapten-protein conjugate processing by Langerhans cells and lymph node T-cell priming.",
+    "strongestDistractor": "Direct chemical alkylation of keratinocyte membrane lipids causes non-immunological physical necrosis of the stratum granulosum",
+    "distractorExclusion": "Direct chemical toxicity defines non-immunologic irritant contact dermatitis, which occurs immediately on first exposure without a delayed sensitization phase.",
+    "citation": "Kimball AB, et al. Contact dermatitis. Lancet. 2008;372(9645):1241-1250. PMID: 18929904.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests exact immunological phases (afferent sensitization vs efferent elicitation) and dendritic cell migration in Type IV hypersensitivity.",
+      "distractorExclusionNotes": "Distractors feature Type I (IgE), Type III (immune complex), Type II (ADCC), and non-immunologic irritant contact necrosis.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0667",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "Dermatology",
+    "topic": "Scabies Sarcoptes Scabiei Stratum Corneum Burrowing & Transmission",
+    "provisionalDifficulty": 5,
+    "stem": "A 23-year-old college student presents with an intensely pruritic rash that is worse at night and has disrupted his sleep for the past 3 weeks. His roommate recently developed similar nocturnal itching. Physical examination reveals small, discrete, erythematous excoriated papules, tiny vesicles, and fine, tortuous, thread-like linear gray-white ridges measuring 4 to 8 mm across the interdigital finger webs, flexor wrists, axillary folds, and genitalia. A mineral oil skin scraping obtained from a linear wrist ridge examined under light microscopy confirms the diagnosis. Which of the following specific microscopic structures is visualized within the stratum corneum to establish the definitive diagnosis?",
+    "choices": [
+      [
+        "Adult eight-legged female mites (Sarcoptes scabiei var. hominis), along with oval ova and brown scybala (fecal pellets) embedded within the stratum corneum",
+        "Scabies is an infestation caused by the human itch mite, Sarcoptes scabiei var. hominis. The pregnant female mite burrows into the stratum corneum of the epidermis, tunneling at up to 2 mm/day and depositing 2-3 eggs and brown fecal pellets (scybala) daily. Diagnosis is confirmed by microscopic examination of skin scrapings in mineral oil, demonstrating the mite (oval body with 4 pairs of legs), translucent ova, or dark scybala. Intense nocturnal pruritus is driven by a delayed Type IV hypersensitivity reaction to mite proteins and feces."
+      ],
+      [
+        "Branched septate pseudohyphae and budding yeast forms ('spaghetti and meatballs') within the stratum corneum",
+        "Spaghetti-and-meatballs appearance defines Malassezia furfur in tinea versicolor, which presents with hyper- or hypopigmented scaling macules, not intensely pruritic interdigital burrows."
+      ],
+      [
+        "Encapsulated narrow-based budding yeast cells demonstrating thick mucopolysaccharide halos on India ink preparation",
+        "Encapsulated budding yeasts define Cryptococcus neoformans, diagnosed on CSF India ink or mucicarmine stain."
+      ],
+      [
+        "Elongated operculated nits cemented firmly to the hair shafts with chitinous sheaths",
+        "Nits cemented to hair shafts define pediculosis (lice: Pediculus humanus capitis/corporis, Phthirus pubis), which inhabit hair shafts rather than tunneling into the epidermal stratum corneum."
+      ],
+      [
+        "Multinucleated epithelial giant cells demonstrating nuclear molding and margination of chromatin on Tzanck smear",
+        "Multinucleated giant cells on Tzanck smear define Herpes simplex or Varicella-zoster virus infection, not mite infestation."
+      ]
+    ],
+    "shortestValidSolution": "Nocturnal itch + interdigital burrows + mineral oil scraping = Scabies -> Sarcoptes scabiei mites, ova, and scybala (feces) in stratum corneum.",
+    "necessaryInference": "Identify the diagnostic microscopic triad of scabies on mineral oil scraping: female mites, oval eggs, and fecal pellets (scybala) in the stratum corneum.",
+    "strongestDistractor": "Elongated operculated nits cemented firmly to the hair shafts with chitinous sheaths",
+    "distractorExclusion": "Operculated nits define pediculosis (lice), which affix to hair fibers, whereas scabies mites tunnel directly within the stratum corneum of glabrous skin.",
+    "citation": "Chosidow O. Clinical practices. Scabies. N Engl J Med. 2006;354(16):1718-1727. PMID: 16625010.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Correlates clinical presentation (nocturnal itch in roommates, interdigital distribution) with precise parasitological microscopy.",
+      "distractorExclusionNotes": "Distractors feature tinea versicolor (Malassezia), Cryptococcus, pediculosis (lice), and herpesvirus Tzanck smear.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0668",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "Dermatology",
+    "topic": "Seborrheic Dermatitis Malassezia Furfur Inflammatory Response",
+    "provisionalDifficulty": 4,
+    "stem": "A 42-year-old man with Parkinson disease presents with persistent scaling and flaking on his face and scalp that worsens during cold, dry weather. Physical examination reveals greasy, yellowish-red, erythematous plaques covered by fine bran-like scales localized along the nasolabial folds, eyebrow margins, external auditory canals, and anterior hairline. Examination reveals no joint pain or nail pitting. Microscopic examination of epidermal scrapings shows colonization by lipophilic, dimorphic yeasts of the genus Malassezia. Which of the following biochemical mechanisms explains how this commensal organism triggers cutaneous inflammation in seborrheic dermatitis?",
+    "choices": [
+      [
+        "Fungal lipase-mediated enzymatic hydrolysis of sebaceous gland triglycerides releases irritating free fatty acids and reactive oleic acid that breach the epidermal barrier",
+        "Seborrheic dermatitis is linked to proliferation of the commensal lipid-dependent yeast Malassezia (M. globosa, M. restricta). Malassezia secretes extracellular lipases that hydrolyze triglycerides in human sebum into saturated fatty acids (which the yeast consumes) and unsaturated free fatty acids (e.g., oleic acid, arachidonic acid). Unsaturated free fatty acids penetrate the stratum corneum, causing barrier disruption, epidermal hyperplasia, and an innate inflammatory cytokine response (IL-1alpha, IL-6, TNF-alpha)."
+      ],
+      [
+        "Direct production of keratinolytic proteases that selectively dissolve desmosomal cadherins in the stratum basale",
+        "Malassezia does not secrete desmosome-dissolving proteases; bacterial exfoliative toxins (S. aureus) cleave desmogleins in SSSS, not fungal yeasts."
+      ],
+      [
+        "Release of heat-labile enterotoxins that act as superantigens binding the variable beta domain of T-cell receptors",
+        "Superantigen enterotoxins are produced by Staphylococcus aureus and Streptococcus pyogenes, not Malassezia yeasts."
+      ],
+      [
+        "Invasion of dermal lymphatic channels inducing granulomatous macrophage activation and Langhans giant cells",
+        "Malassezia is an exclusively superficial epicutaneous organism; it does not invade dermal lymphatics or form granulomas."
+      ],
+      [
+        "Synthesis of melanin-inhibiting azelaic acid that competitively blocks tyrosinase in cutaneous melanocytes",
+        "Azelaic acid production by Malassezia inhibits tyrosinase in pityriasis versicolor, causing post-inflammatory hypopigmentation, but does not drive the greasy scaling of seborrheic dermatitis."
+      ]
+    ],
+    "shortestValidSolution": "Parkinson patient + greasy nasolabial scales + Malassezia = Seborrheic dermatitis -> Fungal lipase breaks sebum triglycerides into irritating free fatty acids.",
+    "necessaryInference": "Understand Malassezia pathophysiology: it secretes lipases that hydrolyze sebum triglycerides, producing irritating free fatty acids that induce cutaneous inflammation.",
+    "strongestDistractor": "Synthesis of melanin-inhibiting azelaic acid that competitively blocks tyrosinase in cutaneous melanocytes",
+    "distractorExclusion": "Azelaic acid inhibition of tyrosinase is the mechanism of hypopigmentation in pityriasis versicolor, not the inflammatory scaling of seborrheic dermatitis.",
+    "citation": "Borda LJ, Wikramanayake TC. Seborrheic Dermatitis and Dandruff: A Comprehensive Review. J Clin Investig Dermatol. 2015;3(2):10. PMID: 27148560.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests fungal biochemistry, commensal lipid metabolism, and association with neurodegenerative disorders (Parkinson disease).",
+      "distractorExclusionNotes": "Distractors feature desmosome proteases, bacterial superantigens, lymphatic invasion, and pityriasis versicolor azelaic acid.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0669",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "Dermatology",
+    "topic": "Pityriasis Rosea Herald Patch & Christmas Tree Cleavage Lines",
+    "provisionalDifficulty": 5,
+    "stem": "A 21-year-old female college student presents with a generalized rash on her trunk that appeared 8 days ago. She notes that the eruption began with a single, large, solitary oval lesion on her lower abdomen, followed a week later by an eruption of dozens of smaller, similar spots over her chest and back. Physical examination reveals an initial 3.5-cm salmon-colored oval plaque on the left lower quadrant with a delicate collarette of inward-facing scale just inside its raised border ('herald patch'). The trunk exhibits numerous smaller, 5 to 15 mm, oval, erythematous macules and thin plaques aligned with their long axes parallel to Langer cleavage lines, creating a characteristic 'Christmas tree' distribution on the back. Mucous membranes and palms/soles are completely clear. The patient is otherwise asymptomatic. This benign, self-limited exanthem is most frequently associated with the reactivation of which of the following viral agents?",
+    "choices": [
+      [
+        "Human herpesvirus 6 (HHV-6) and human herpesvirus 7 (HHV-7)",
+        "Pityriasis rosea is a benign, self-limited papulosquamous eruption commonly seen in adolescents and young adults. It classically begins with a solitary 'herald patch' followed by secondary eruptions of smaller oval plaques with inward collarettes of scale oriented along skin cleavage lines (Langer lines, 'Christmas tree pattern'). Molecular studies consistently associate pityriasis rosea with systemic reactivation of latent human herpesvirus 6 (HHV-6) and/or human herpesvirus 7 (HHV-7)."
+      ],
+      [
+        "Parvovirus B19 (erythrovirus), causing transient aplastic crisis and erythema infectiosum",
+        "Parvovirus B19 causes erythema infectiosum ('slapped-cheek' rash in children and reticular lacy rash on arms), not herald patch pityriasis rosea."
+      ],
+      [
+        "Epstein-Barr virus (EBV), triggering polyclonal B-cell expansion and heterophile antibodies",
+        "EBV causes infectious mononucleosis (fever, pharyngitis, lymphadenopathy) and a maculopapular rash when treated with ampicillin/amoxicillin."
+      ],
+      [
+        "Coxsackievirus A16, causing vesicular hand, foot, and mouth disease in toddlers",
+        "Coxsackievirus A16 causes hand-foot-and-mouth disease (vesicles on palms, soles, and oral mucosa), which clearly involves acral surfaces spared here."
+      ],
+      [
+        "Human papillomavirus type 16 (HPV-16), causing mucosal intraepithelial neoplasia",
+        "HPV-16 causes anogenital warts and cervical/oropharyngeal intraepithelial neoplasia, not acute papulosquamous cutaneous trunk eruptions."
+      ]
+    ],
+    "shortestValidSolution": "Herald patch + salmon oval plaques in Christmas tree distribution = Pityriasis rosea -> Linked to HHV-6 / HHV-7 reactivation.",
+    "necessaryInference": "Identify the classic clinical morphology of pityriasis rosea and link to its established viral etiology: human herpesvirus 6 and 7 (HHV-6/7).",
+    "strongestDistractor": "Parvovirus B19 (erythrovirus), causing transient aplastic crisis and erythema infectiosum",
+    "distractorExclusion": "Parvovirus B19 causes erythema infectiosum ('slapped-cheek' facial rash with lacy body rash), which lacks the initial solitary herald patch and collarette scale.",
+    "citation": "Drago F, et al. Pityriasis rosea: a comprehensive review. Dermatology. 2016;232(1):21-37. PMID: 26645390.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests pattern recognition (herald patch, collarette, Langer lines) and virological association (HHV-6/7).",
+      "distractorExclusionNotes": "Distractors feature Parvovirus B19, EBV, Coxsackievirus A16, and HPV-16.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0670",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Acanthosis Nigricans Hyperinsulinemia & IGF-1 Receptors",
+    "provisionalDifficulty": 4,
+    "stem": "A 16-year-old obese adolescent girl (BMI 36 kg/m2) is evaluated for dark, velvety skin changes on her neck and axillae that have developed over the past 2 years. Her mother is concerned that the skin appears 'dirty' and cannot be washed off with soap. Physical examination demonstrates hyperpigmented, thickened, velvety plaques with exaggerated skin markings over the posterior neck, bilateral axillae, and inframammary folds. Laboratory testing reveals fasting blood glucose 118 mg/dL and fasting serum insulin elevated at 48 microU/mL (normal < 15 microU/mL). A skin biopsy shows marked hyperkeratosis, prominent epidermal papillomatosis, and mild acanthosis with minimal hyperpigmentation confined to the basal layer. Which of the following molecular mechanisms directly drives the epidermal papillomatosis and hyperkeratosis in this patient?",
+    "choices": [
+      [
+        "Excessive circulating insulin at high concentrations cross-reacts with and stimulates insulin-like growth factor-1 (IGF-1) receptors on epidermal keratinocytes and dermal fibroblasts, promoting cellular proliferation",
+        "Acanthosis nigricans in metabolic syndrome is driven by severe hyperinsulinemia secondary to peripheral insulin resistance. High levels of circulating insulin spill over to bind and stimulate insulin-like growth factor-1 (IGF-1) receptors on epidermal keratinocytes and dermal fibroblasts (or hybrid insulin-IGF-1 receptors). Activation of downstream MAPK/ERK cascades drives keratinocyte proliferation and dermal papillomatosis. In malignant acanthosis nigricans (e.g., gastric adenocarcinoma), tumor-secreted transforming growth factor-alpha (TGF-alpha) acts via EGFR."
+      ],
+      [
+        "Overproduction of alpha-melanocyte-stimulating hormone (alpha-MSH) by the anterior pituitary stimulating melanocortin-1 receptors (MC1R)",
+        "Alpha-MSH stimulation of MC1R causes diffuse bronze hyperpigmentation (as seen in primary adrenal insufficiency / Addison disease), not localized velvety papillomatous plaques."
+      ],
+      [
+        "Direct antibody-mediated cross-linking of epidermal growth factor receptors (EGFR) triggering constitutive ras-GTP loading",
+        "EGFR cross-linking antibodies are therapeutic monoclonal drugs (e.g., cetuximab), which cause acneiform papulopustular eruptions, not velvety plaques."
+      ],
+      [
+        "Loss-of-function mutation in the glucagon-like peptide-1 (GLP-1) receptor causing localized glycogen accumulation",
+        "GLP-1 receptor mutations do not cause acanthosis nigricans; the lesion is driven by high insulin and IGF-1 stimulation."
+      ],
+      [
+        "Autoimmune cytotoxic destruction of dermal elastic fibers triggering reactive basal layer hyperplasia",
+        "Destruction of elastic fibers defines anetoderma or cutis laxa, which causes loose, sagging skin, not hyperkeratotic velvety plaques."
+      ]
+    ],
+    "shortestValidSolution": "Obese teen + velvety neck plaques + high fasting insulin = Acanthosis nigricans -> Insulin cross-stimulates IGF-1 receptors on keratinocytes.",
+    "necessaryInference": "Identify the receptor cross-reactivity in benign acanthosis nigricans: high insulin levels bind and stimulate IGF-1 receptors on epidermal cells, driving proliferation.",
+    "strongestDistractor": "Overproduction of alpha-melanocyte-stimulating hormone (alpha-MSH) by the anterior pituitary stimulating melanocortin-1 receptors (MC1R)",
+    "distractorExclusion": "MSH causes diffuse skin bronzing in Addison disease without epidermal papillomatosis, whereas acanthosis nigricans is caused by insulin/IGF-1 stimulating keratinocytes.",
+    "citation": "Phiske MM. An approach to acanthosis nigricans. Indian Dermatol Online J. 2014;5(3):239-249. PMID: 25165639.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests endocrinologic cross-talk (insulin cross-reacting with IGF-1 receptors) and histopathology (papillomatosis, hyperkeratosis) in metabolic syndrome.",
+      "distractorExclusionNotes": "Distractors feature Addison MSH bronzing, EGFR antibody activation, GLP-1 mutation, and cutis laxa elastolysis.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0671",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Calciphylaxis Arteriolar Medial Calcification Pathophysiology",
+    "provisionalDifficulty": 5,
+    "stem": "A 56-year-old woman with end-stage renal disease on hemodialysis for 6 years presents with excruciatingly painful skin lesions on both thighs that began as mottled, purpuric patches and have rapidly progressed over 10 days to form necrotic black eschars. Physical examination reveals firm, exquisitely tender, violaceous, indurated plaques with central ulceration and thick black eschars surrounded by a jagged, non-blanching retiform purpura on the anterior thighs and lower abdomen. Laboratory evaluation demonstrates: serum calcium 10.4 mg/dL, serum phosphorus 8.2 mg/dL (calcium-phosphate product 85.3 mg2/dL2), and intact PTH 680 pg/mL. A deep incisional wedge biopsy extending into the subcutaneous adipose tissue is performed. Which of the following histopathological findings confirms the diagnosis of calcific uremic arteriolopathy (calciphylaxis)?",
+    "choices": [
+      [
+        "Extensive calcification of the internal elastic lamina and tunica media of subcutaneous arterioles, accompanied by intimal fibroblastic hyperplasia and endovascular luminal thrombosis",
+        "Calciphylaxis (calcific uremic arteriolopathy) is a life-threatening complication of ESRD characterized by severe hyperphosphatemia, high calcium-phosphate product (>55 mg2/dL2), and secondary hyperparathyroidism. Histopathology reveals mural calcification (calcium phosphate deposition on von Kossa stain) of the tunica media and elastic lamina of small-to-medium arterioles in the dermis and panniculus, with endovascular intimal proliferation and acute fibrin thrombi, causing ischemic tissue infarction and painful necrotic eschars."
+      ],
+      [
+        "Transmural necrotizing inflammation with fibrinoid necrosis and neutrophilic leukocytoclasia involving dermal post-capillary venules",
+        "Leukocytoclastic vasculitis affects post-capillary venules and produces palpable purpura, but lacks extensive medial arteriolar calcification or deep subcutaneous tissue necrosis."
+      ],
+      [
+        "Dense non-caseating granulomatous inflammation surrounding obliterated subcutaneous lymphatics with asteroid bodies",
+        "Granulomatous lymphangitis characterizes cutaneous sarcoidosis or Crohn disease, not calcific uremic thrombotic infarction."
+      ],
+      [
+        "Proliferation of spindle-shaped endothelial cells forming slit-like vascular channels containing extravasated erythrocytes and hemosiderin",
+        "Spindle-cell vascular proliferation defines Kaposi sarcoma, which produces painless purple-red plaques on the lower extremities, not painful ischemic eschars."
+      ],
+      [
+        "Extensive lipid-laden histiocytic infiltrates within the reticular dermis with Touton multinucleated giant cells",
+        "Touton giant cells with lipidized histiocytes define xanthomas or juvenile xanthogranuloma, not calciphylaxis."
+      ]
+    ],
+    "shortestValidSolution": "ESRD on dialysis + high Ca x P product + painful black necrotic thigh eschars = Calciphylaxis -> Arteriolar medial calcification + luminal thrombosis.",
+    "necessaryInference": "Identify the microscopic hallmarks of calciphylaxis: calcification of the tunica media of subcutaneous arterioles with intimal hyperplasia and ischemic thrombosis.",
+    "strongestDistractor": "Transmural necrotizing inflammation with fibrinoid necrosis and neutrophilic leukocytoclasia involving dermal post-capillary venules",
+    "distractorExclusion": "Leukocytoclastic vasculitis involves post-capillary venules and immune complex deposition, whereas calciphylaxis is a non-vasculitic medial calcifying arteriopathy with secondary thrombosis.",
+    "citation": "Nigwekar SU, et al. Calciphylaxis. N Engl J Med. 2018;378(18):1704-1714. PMID: 29719190.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests clinicopathological integration of secondary hyperparathyroidism, calcium-phosphate product, and deep pannicular vascular calcification.",
+      "distractorExclusionNotes": "Distractors feature leukocytoclastic vasculitis, sarcoidosis, Kaposi sarcoma, and xanthomas (Touton giant cells).",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0672",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Pyoderma Gangrenosum Neutrophilic Dermatosis & Pathergy",
+    "provisionalDifficulty": 4,
+    "stem": "A 36-year-old woman with a 5-year history of ulcerative colitis presents with a rapidly enlarging, excruciatingly painful ulcer on her anterior left shin. The lesion began 5 days ago as a small, tender red pustule that broke down and ulcerated following a minor scratch from her cat. Physical examination demonstrates an irregularly shaped, 6 x 4 cm ulcer with a necrotic, purulent, cribriform base and a distinctive violaceous, overhang, undermined, ragged border surrounded by a zone of intense erythema. Bacterial, fungal, and mycobacterial cultures from the ulcer base yield no growth. When the patient undergoes a diagnostic punch biopsy of the ulcer margin, the biopsy site itself begins to ulcerate and expand within 48 hours (pathergy). Which of the following histopathological features is characteristic of this condition?",
+    "choices": [
+      [
+        "Massive, dense, sterile dermal infiltrate composed predominantly of polymorphonuclear neutrophils with extensive tissue necrosis, without evidence of primary vasculitis",
+        "Pyoderma gangrenosum is a non-infectious, ulcerative neutrophilic dermatosis strongly associated with inflammatory bowel disease (ulcerative colitis, Crohn disease) and rheumatoid arthritis. It presents as an exquisitely painful pustule that breaks down into an ulcer with undermined, violaceous borders and exhibits pathergy (worsening or ulceration triggered by minor trauma or debridement). Histopathology demonstrates an intense, sterile neutrophilic infiltrate with dermal necrosis and abscess formation without true leukocytoclastic vasculitis."
+      ],
+      [
+        "Extensive caseating granulomatous inflammation containing multinucleated Langhans giant cells with acid-fast bacilli",
+        "Caseating granulomas with acid-fast bacilli define cutaneous tuberculosis (lupus vulgaris / tuberculous gumma), which is culture-positive and lacks violaceous undermined borders."
+      ],
+      [
+        "Intraepidermal acantholytic dyskeratosis with corps ronds and grains confined to the stratum spinosum",
+        "Corps ronds and grains characterize Darier disease (ATP2A2 mutation), presenting with greasy hyperkeratotic papules in seborrheic areas, not acute painful leg ulcers."
+      ],
+      [
+        "Dense proliferation of atypical CD30+ large anaplastic lymphoid cells with horseshoe-shaped nuclei",
+        "Atypical CD30+ large cells define cutaneous anaplastic large cell lymphoma, a neoplastic lymphoproliferative disorder, not an inflammatory neutrophilic dermatosis."
+      ],
+      [
+        "Subepidermal split with a band-like infiltrate of CD4+ T lymphocytes and prominent eosinophils forming flame figures",
+        "Flame figures define Wells syndrome (eosinophilic cellulitis), not the neutrophil-dominated ulceration of pyoderma gangrenosum."
+      ]
+    ],
+    "shortestValidSolution": "Ulcerative colitis + painful leg ulcer with violaceous undermined border + pathergy = Pyoderma gangrenosum -> Massive sterile dermal neutrophilic infiltrate.",
+    "necessaryInference": "Identify the defining clinicopathologic features of pyoderma gangrenosum: association with IBD, pathergy phenomenon, undermined violaceous border, and sterile neutrophilic infiltrate.",
+    "strongestDistractor": "Subepidermal split with a band-like infiltrate of CD4+ T lymphocytes and prominent eosinophils forming flame figures",
+    "distractorExclusion": "Wells syndrome features eosinophilic infiltrates with flame figures, whereas pyoderma gangrenosum is a classic neutrophilic dermatosis dominated by polymorphonuclear leukocytes.",
+    "citation": "Partridge ACR, et al. Pyoderma Gangrenosum: A Review. JAMA Dermatol. 2018;154(1):101-102. PMID: 29094144.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests systemic disease association (ulcerative colitis), physical phenomenon (pathergy), and sterile neutrophilic dermatopathology.",
+      "distractorExclusionNotes": "Distractors feature cutaneous TB (caseating granulomas), Darier disease (corps ronds), CD30+ lymphoma, and Wells eosinophilic cellulitis.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0673",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Dermatology",
+    "topic": "Hereditary Angioedema C1 Esterase Inhibitor Deficiency & Bradykinin",
+    "provisionalDifficulty": 5,
+    "stem": "A 21-year-old woman presents to the emergency department with acute swelling of her lips, tongue, and eyelids that began 4 hours after a dental extraction. She also reports cramping abdominal pain and mild nausea. Physical examination reveals marked non-pitting, non-erythematous subcutaneous and submucosal edema of the facial structures and oropharynx without stridor. Crucially, there is no urticaria, erythema, or pruritus on any skin surface. She reports two prior episodes of unexplained, self-resolving facial swelling and severe colic in her teenage years, and her mother suffered fatal asphyxiation following a tonsillectomy. Laboratory testing reveals: normal serum C1q, normal serum C3, and markedly depressed serum C4 (< 5 mg/dL, normal 16-47 mg/dL). Which of the following vasoactive mediators is directly responsible for the increased vascular permeability in this patient?",
+    "choices": [
+      [
+        "Bradykinin, generated by unrestrained plasma kallikrein cleavage of high-molecular-weight kininogen (HMWK) due to deficiency of C1 esterase inhibitor",
+        "Hereditary angioedema (HAE) is an autosomal dominant condition caused by deficiency (Type I) or dysfunction (Type II) of C1 esterase inhibitor (C1-INH), encoded by SERPING1. C1-INH normally inactivates C1r, C1s, activated factor XII (Hageman factor), and plasma kallikrein. In its absence, kallikrein uninhibitedly cleaves high-molecular-weight kininogen (HMWK) to generate massive excess bradykinin. Bradykinin acts on endothelial B2 receptors, inducing profound vasodilation and vascular permeability. Because histamine is not involved, there is no urticaria or pruritus, and antihistamines/epinephrine are ineffective."
+      ],
+      [
+        "Histamine, released from dermal mast cells following Fc-epsilon-RI receptor cross-linking by allergen-specific IgE",
+        "Histamine release produces classic allergic angioedema, which is accompanied by intense pruritus, urticaria (hives), and responds to epinephrine, antihistamines, and glucocorticoids."
+      ],
+      [
+        "Prostaglandin D2 (PGD2), synthesized by mast cell cyclooxygenase-2 causing cutaneous arteriolar vasodilation",
+        "PGD2 contributes to mast cell flushing and allergic inflammation, but does not drive C1-INH deficient hereditary angioedema."
+      ],
+      [
+        "Leukotriene C4, D4, and E4 (cysteinyl leukotrienes), causing delayed microvascular leakage via CysLT1 receptors",
+        "Cysteinyl leukotrienes mediate bronchoconstriction and vascular permeability in asthma and anaphylaxis; they do not mediate hereditary angioedema."
+      ],
+      [
+        "Complement membrane attack complex (C5b-9), directly inserting into endothelial membranes to produce cytolytic pores",
+        "While C4 is consumed due to unchecked C1s activity, complement activation halts at C4/C2; the direct mediator of tissue edema is bradykinin, not cytolytic MAC."
+      ]
+    ],
+    "shortestValidSolution": "Facial swelling after dental work + no hives/itching + low C4 = Hereditary angioedema -> C1-INH deficiency leads to excess bradykinin.",
+    "necessaryInference": "Recognize the hallmark of hereditary angioedema: absence of urticaria/itching + low C4 = bradykinin-mediated (via kallikrein-kininogen pathway), not histamine-mediated.",
+    "strongestDistractor": "Histamine, released from dermal mast cells following Fc-epsilon-RI receptor cross-linking by allergen-specific IgE",
+    "distractorExclusion": "Histamine causes pruritus and urticarial hives (allergic angioedema), whereas hereditary angioedema is mediated by bradykinin and characteristically lacks both itching and hives.",
+    "citation": "Busse PJ, Christiansen SC. Hereditary Angioedema. N Engl J Med. 2020;382(12):1136-1148. PMID: 32187470.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests exact biochemistry of kallikrein-kinin vs complement cascades and biochemical distinction between bradykinin and histamine angioedema.",
+      "distractorExclusionNotes": "Distractors feature histamine (allergic angioedema with hives), PGD2, cysteinyl leukotrienes, and complement membrane attack complex.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0674",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Systemic Mastocytosis c-KIT (CD117) Activating Mutation",
+    "provisionalDifficulty": 4,
+    "stem": "A 43-year-old man presents with recurrent episodes of generalized flushing, lightheadedness, episodic diarrhea, and abdominal cramping over the past year. He notes that hot showers and vigorous exercise frequently provoke these episodes. Physical examination reveals widespread, reddish-brown, pruritic macules and slightly raised papules scattered across his trunk and thighs (urticaria pigmentosa). When the examiner firmly strokes one of the reddish-brown macules with the wooden end of a cotton swab, the lesion rapidly develops localized erythema, edema, and an urticarial wheal within 3 minutes (positive Darier sign). Laboratory evaluation reveals a serum baseline total tryptase concentration of 44 ng/mL (normal < 11.4 ng/mL). A skin biopsy demonstrates dense infiltrates of metachromatically staining round-to-spindle cells in the papillary and reticular dermis that are strongly immunoreactive for CD117 (c-KIT) and CD25. Which of the following genetic alterations is the primary molecular driver of this disorder?",
+    "choices": [
+      [
+        "Activating point mutation in the c-KIT proto-oncogene (most commonly D816V), conferring ligand-independent autophosphorylation of the receptor tyrosine kinase",
+        "Systemic mastocytosis and cutaneous mastocytosis (urticaria pigmentosa) are clonal mast cell disorders driven in >90% of cases by an activating point mutation in KIT (CD117), most commonly D816V in the kinase domain. This mutation causes constitutive, ligand-independent autophosphorylation of the receptor tyrosine kinase, driving unchecked mast cell survival, proliferation, and hyperresponsiveness. Mechanical stroking triggers localized mast cell degranulation (Darier sign), releasing histamine, heparin, and tryptase."
+      ],
+      [
+        "Biallelic loss-of-function mutation in NF1 encoding neurofibromin, leading to excessive cellular p21-ras activation",
+        "NF1 mutations cause neurofibromatosis type 1, featuring cutaneous neurofibromas, caf\u00e9-au-lait macules, and Lisch nodules, lacking Darier sign and elevated serum tryptase."
+      ],
+      [
+        "Inactivating point mutation in STAT3, impairing interleukin-17 generation and causing recurrent cold staphylococcal abscesses",
+        "STAT3 loss-of-function causes Hyper-IgE syndrome (Job syndrome), characterized by coarse facial features, cold abscesses, and eczema, not mastocytosis."
+      ],
+      [
+        "Constitutive fusion of BCR and ABL1 following a t(9;22) translocation, activating cytosolic tyrosine kinase cascades",
+        "The BCR-ABL1 fusion creates the Philadelphia chromosome driving chronic myeloid leukemia (CML), not mastocytosis."
+      ],
+      [
+        "Activating mutation in the GNAQ gene, driving vascular endothelial malformations and leptomeningeal angiomatosis",
+        "GNAQ mutations cause Sturge-Weber syndrome (port-wine stain / nevus flammeus), not mast cell proliferation with Darier sign."
+      ]
+    ],
+    "shortestValidSolution": "Urticaria pigmentosa + Darier sign + elevated tryptase = Mastocytosis -> Activating c-KIT (CD117) D816V receptor tyrosine kinase mutation.",
+    "necessaryInference": "Identify the molecular oncogene driving mastocytosis: c-KIT (CD117) D816V gain-of-function receptor tyrosine kinase mutation.",
+    "strongestDistractor": "Biallelic loss-of-function mutation in NF1 encoding neurofibromin, leading to excessive cellular p21-ras activation",
+    "distractorExclusion": "NF1 causes neurofibromatosis type 1 (caf\u00e9-au-lait macules and neurofibromas), which does not display Darier sign or elevated serum tryptase.",
+    "citation": "Valent P, et al. Advances in the Classification and Treatment of Mastocytosis: Current Status and Future Perspectives. J Allergy Clin Immunol. 2017;144(1):1-11. PMID: 31078656.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Tests precision oncology receptor genetics (c-KIT D816V), diagnostic physical signs (Darier sign), and mast cell secretory markers (tryptase).",
+      "distractorExclusionNotes": "Distractors feature neurofibromin (NF1), STAT3 (Job syndrome), BCR-ABL1 (CML), and GNAQ (Sturge-Weber).",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s1-0675",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Dermatology",
+    "topic": "Epidermolysis Bullosa Simplex Keratin 5/14 Intermediate Filament Mutations",
+    "provisionalDifficulty": 5,
+    "stem": "A 14-month-old toddler is evaluated for recurrent blister formation on his feet, hands, and buttocks that began shortly after he started crawling and walking. His parents state that friction from shoes or crawling on carpets quickly induces tense intraepidermal blisters that rupture and heal completely without scarring or milia formation. There is no oral mucosal involvement, and his fingernails and toenails are normal. A family history reveals that the child's father and paternal grandfather had identical friction-induced blistering in childhood that improved in adulthood. Skin transmission electron microscopy of a fresh friction-induced blister reveals cytolysis and cleavage localized entirely within the basal keratinocyte layer, with clumping of tonofilaments. Genetic analysis identifies an autosomal dominant missense mutation in the KRT14 gene encoding keratin 14. Which of the following cytoskeletal filament structures is fundamentally defective in this patient?",
+    "choices": [
+      [
+        "Intermediate filaments of the basal keratinocyte cytoskeleton (keratin 5 and keratin 14), failing to provide mechanical resilience against shearing forces",
+        "Epidermolysis bullosa simplex (EBS) is an autosomal dominant mechanobullous genodermatosis caused by mutations in KRT5 or KRT14, which encode basal layer intermediate filaments. Keratins 5 and 14 form heterodimers that polymerize into tonofilaments, anchoring the cell nucleus to hemidesmosomes and desmosomes to resist mechanical stress. Mutations disrupt filament assembly, causing basal keratinocyte fragility and intraepidermal cytolysis following minor friction, healing without scarring."
+      ],
+      [
+        "Type VII collagen anchoring fibrils linking the lamina densa to the underlying papillary dermis",
+        "Type VII collagen mutations (COL7A1) cause dystrophic epidermolysis bullosa (DEB), characterized by sublamina densa cleavage, severe mutilating scarring, milia, and pseudosyndactyly."
+      ],
+      [
+        "Laminin-332 (epiligrin) heterotrimeric glycoprotein complexes bridging the lamina lucida of the basement membrane",
+        "Laminin-332, integrin alpha-6-beta-4, or BP180 mutations cause junctional epidermolysis bullosa (JEB), characterized by cleavage through the lamina lucida with severe mucosal involvement and enamel hypoplasia."
+      ],
+      [
+        "Keratohyalin granules composed of profilaggrin maintaining stratum corneum hydration and aggregation",
+        "Profilaggrin/filaggrin mutations cause ichthyosis vulgaris and atopic dermatitis, characterized by dry scaling skin without friction-induced cytolytic bullae."
+      ],
+      [
+        "Microtubule doublet protofilaments composed of alpha- and beta-tubulin heterodimers",
+        "Microtubule defects cause ciliary dyskinesia (Kartagener syndrome) or neuronal migration disorders, not cutaneous blistering."
+      ]
+    ],
+    "shortestValidSolution": "Toddler + friction blisters on feet/hands healing without scarring + KRT14 mutation = Epidermolysis bullosa simplex -> Keratin 5/14 intermediate filaments.",
+    "necessaryInference": "Contrast epidermolysis bullosa subtypes: Simplex = intraepidermal / KRT5/14 intermediate filaments (no scars); Dystrophic = sub-basal / Type VII collagen (mutilating scars); Junctional = lamina lucida / laminin-332.",
+    "strongestDistractor": "Type VII collagen anchoring fibrils linking the lamina densa to the underlying papillary dermis",
+    "distractorExclusion": "Type VII collagen defects cause dystrophic epidermolysis bullosa with subepidermal cleavage and severe scarring, contrasting with non-scarring intraepidermal EBS.",
+    "citation": "Fine JD, et al. Inherited epidermolysis bullosa: updated recommendations on diagnosis and classification. J Am Acad Dermatol. 2014;70(6):1103-1126. PMID: 24690439.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Differentiates levels of cutaneous cleavage (intraepidermal vs lamina lucida vs sublamina densa) and specific cytoskeletal proteins (keratin 5/14).",
+      "distractorExclusionNotes": "Distractors feature Type VII collagen (DEB), laminin-332 (JEB), profilaggrin (ichthyosis), and microtubules.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  }
+];

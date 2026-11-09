@@ -32,6 +32,38 @@ for (const entry of manifest) {
 
 console.log(`Successfully verified manifest integrity with ${manifest.length} unique entries.`);
 
+// Verify against pre-execution baseline if present
+for (const baselinePath of ['content/candidates/baseline-batches1-28.json', 'content/candidates/baseline-batches1-32.json']) {
+  if (existsSync(baselinePath)) {
+    const baseline = JSON.parse(readFileSync(baselinePath, 'utf8'));
+    console.log(`--- BASELINE INTEGRITY AUDIT (${baselinePath}) ---`);
+    for (const [file, expectedHash] of Object.entries(baseline.fileHashes as Record<string, string>)) {
+      if (!existsSync(file)) {
+        console.error(`[FATAL] Baseline file missing: ${file}`);
+        process.exit(1);
+      }
+      const actualHash = createHash('sha256').update(readFileSync(file)).digest('hex');
+      if (actualHash !== expectedHash) {
+        console.error(`[FATAL] Baseline file hash mismatch for ${file}! Expected: ${expectedHash}, Actual: ${actualHash}`);
+        process.exit(1);
+      }
+    }
+    for (const [cCode, expectedHash] of Object.entries(baseline.manifestHashes as Record<string, string>)) {
+      const entry = manifestMap.get(cCode);
+      if (!entry) {
+        console.error(`[FATAL] Baseline manifest code missing: ${cCode}`);
+        process.exit(1);
+      }
+      if (entry.hash !== expectedHash) {
+        console.error(`[FATAL] Baseline manifest hash mismatch for ${cCode}! Expected: ${expectedHash}, Actual: ${entry.hash}`);
+        process.exit(1);
+      }
+    }
+    console.log(`Baseline check passed: ${baseline.totalFiles} historical batch files and ${baseline.totalManifestEntries} manifest records match pre-execution baseline with 100% hash parity.\n`);
+  }
+}
+
+
 const examDirs = [
   { exam: 'Step 1', dir: 'content/candidates/step1' },
   { exam: 'Step 2 CK', dir: 'content/candidates/step2ck' },

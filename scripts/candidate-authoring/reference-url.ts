@@ -14,8 +14,11 @@ export function isPlaceholderReference(url: URL): boolean {
 }
 
 export function citationMentionsHost(citation: string, hostname: string): boolean {
+  const targetHost = hostname.toLowerCase().replace(/\.$/, '');
   return citation.split(/\s+/).some(token => {
-    const url = parseReferenceUrl(token.includes('://') ? token : `https://${token}`);
-    return url?.hostname === hostname;
+    const cleaned = token.replace(/^[("']+|[)"',;:.]*$/g, '');
+    const url = parseReferenceUrl(cleaned.includes('://') ? cleaned : `https://${cleaned}`);
+    const host = url?.hostname.toLowerCase().replace(/\.$/, '');
+    return host === targetHost || host === `www.${targetHost}`;
   });
 }

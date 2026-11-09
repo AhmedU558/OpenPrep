@@ -267,7 +267,12 @@ export function materializeCandidate(spec: CandidateSpec, indexInExam: number): 
         throw new Error(`Candidate ${spec.code} has citation without resolvable specific URL or PMID: "${spec.citation}". A specific URL or PMID is required.`);
       }
 
-      const label = spec.citation.length > 280 ? spec.citation.slice(0, 277) + '...' : spec.citation;
+      let label = spec.citation;
+      if (label.length > 280) {
+        const pmidSuffix = pmidMatch ? ` PMID: ${pmidMatch[1]}.` : '';
+        const cut = 280 - pmidSuffix.length - 3;
+        label = spec.citation.slice(0, cut) + '...' + pmidSuffix;
+      }
       references = [{ label, url }];
     } else {
       throw new Error(`Candidate ${spec.code} has neither citation nor references provided. A specific supporting source is required.`);

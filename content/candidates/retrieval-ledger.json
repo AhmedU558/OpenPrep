@@ -1,0 +1,102 @@
+[
+  {
+    "code": "op-c-s3-0651",
+    "pmid": "26414968",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/26414968/",
+    "title": "Spironolactone versus placebo, bisoprolol, and doxazosin to determine the optimal treatment for drug-resistant hypertension (PATHWAY-2): a randomised, double-blind, crossover trial",
+    "journal": "Lancet. 2015;386(10011):2059-2068",
+    "retrievalDate": "2026-11-05",
+    "supportingPassage": "Spironolactone was the most effective add-on treatment for resistant hypertension... The reduction in home systolic blood pressure with spironolactone was superior to placebo (-8.70 mm Hg [95% CI -9.72 to -7.69]; p<0.0001), doxazosin (-4.03 mm Hg [-5.04 to -3.02]; p<0.0001), and bisoprolol (-4.48 mm Hg [-5.50 to -3.46]; p<0.0001).",
+    "mappedClaim": "Spironolactone is the guideline-preferred fourth-line add-on agent in resistant hypertension, proven superior to active comparators doxazosin and bisoprolol in lowering systolic blood pressure."
+  },
+  {
+    "code": "op-c-s3-0651",
+    "pmid": "29655877",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/29655877/",
+    "title": "Endocrine and hemodynamic changes in resistant hypertension, and blood pressure responses to spironolactone or amiloride: the PATHWAY-2 mechanisms study",
+    "journal": "Lancet Diabetes Endocrinol. 2018;6(6):464-475",
+    "retrievalDate": "2026-11-05",
+    "supportingPassage": "In patients with resistant hypertension, spironolactone was the most effective drug at reducing blood pressure; its superiority was greatest in individuals with the lowest renin and highest aldosterone-to-renin ratio, confirming that sodium retention and occult aldosterone excess are the predominant mechanisms.",
+    "mappedClaim": "Occult aldosterone-mediated sodium retention and intravascular volume expansion are the primary pathophysiological drivers of resistant hypertension."
+  },
+  {
+    "code": "op-c-s3-0690",
+    "pmid": "30699315",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30699315/",
+    "title": "Oral versus Intravenous Antibiotics for Bone and Joint Infection",
+    "journal": "N Engl J Med. 2019;380(5):425-436",
+    "retrievalDate": "2026-11-05",
+    "supportingPassage": "In the primary modified intention-to-treat (mITT) complete-case analysis (1,015 of 1,054 randomized patients: 509 oral vs 506 intravenous), definitive treatment failure occurred in 67 of 509 participants (13.2%) in the oral group and 74 of 506 participants (14.6%) in the intravenous group. The difference in the risk of definitive treatment failure was -1.4 percentage points (pre-specified primary 90% CI, -4.9 to 2.2 percentage points; additional 95% CI, -5.6 to 2.9 percentage points), which met the noninferiority criterion against the amended margin of 7.5 percentage points... Vascular access catheter complications occurred in 49 of 523 participants (9.4%) in the intravenous group and in 5 of 523 participants (1.0%) in the oral group.",
+    "mappedClaim": "Oral antibiotic therapy is non-inferior to intravenous therapy for bone and joint infections because the upper bounds of both the primary 90% CI (+2.2 percentage points) and additional 95% CI (+2.9 percentage points) fall strictly below the amended non-inferiority margin of 7.5 percentage points in the modified intention-to-treat (mITT) complete-case population (1,015 of 1,054 randomized). Intravenous therapy carried significantly higher vascular catheter complications (9.4% vs 1.0%)."
+  },
+  {
+    "code": "op-c-s3-0652",
+    "pmid": "33260057",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33260057/",
+    "title": "Effect of Finerenone on Chronic Kidney Disease Outcomes in Type 2 Diabetes",
+    "journal": "N Engl J Med. 2020;383(23):2219-2229",
+    "retrievalDate": "2026-11-05",
+    "supportingPassage": "In patients with CKD and type 2 diabetes, treatment with finerenone resulted in significantly lower risks of CKD progression and cardiovascular events than placebo... Primary composite outcome occurred in 504 of 2833 patients (17.8%) in the finerenone group and 600 of 2841 patients (21.1%) in the placebo group (hazard ratio, 0.82; 95% CI, 0.73 to 0.93; P=0.001).",
+    "mappedClaim": "Non-steroidal MRA finerenone slows diabetic kidney disease progression and reduces cardiovascular events in patients with persistent albuminuria on maximal ACEi/ARB."
+  },
+  {
+    "code": "op-c-s3-0655",
+    "pmid": "34449189",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34449189/",
+    "title": "Empagliflozin in Heart Failure with a Preserved Ejection Fraction",
+    "journal": "N Engl J Med. 2021;385(16):1451-1461",
+    "retrievalDate": "2026-11-05",
+    "supportingPassage": "Empagliflozin reduced the combined risk of cardiovascular death or hospitalization for heart failure in patients with heart failure and a preserved ejection fraction, regardless of the presence or absence of diabetes... Primary outcome occurred in 415 of 2997 patients (13.8%) in the empagliflozin group and 511 of 2991 patients (17.1%) in the placebo group (hazard ratio, 0.79; 95% CI, 0.69 to 0.90; P<0.001).",
+    "mappedClaim": "SGLT2 inhibitor empagliflozin significantly reduces cardiovascular death or heart failure hospitalization in patients with HFpEF."
+  },
+  {
+    "code": "op-c-s3-0604",
+    "pmid": "26095207",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/26095207/",
+    "title": "Perioperative Bridging Anticoagulation in Patients with Atrial Fibrillation",
+    "journal": "N Engl J Med. 2015;373(9):823-833",
+    "retrievalDate": "2026-11-05",
+    "supportingPassage": "Forgoing perioperative bridging was noninferior to perioperative bridging with low-molecular-weight heparin for the prevention of arterial thromboembolism and decreased the risk of major bleeding... Major bleeding occurred in 1.3% of the no-bridging group and 3.2% of the bridging group (relative risk, 0.41; 95% CI, 0.23 to 0.78; P=0.005).",
+    "mappedClaim": "Routine heparin bridging in anticoagulated patients with atrial fibrillation undergoing elective surgery increases major bleeding without reducing thromboembolism."
+  },
+  {
+    "code": "op-c-s3-0605",
+    "pmid": "31355835",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31355835/",
+    "title": "Perioperative Management of Patients With Atrial Fibrillation Receiving a Direct Oral Anticoagulant: The PAUSE Study",
+    "journal": "JAMA Intern Med. 2019;179(11):1534-1541",
+    "retrievalDate": "2026-11-05",
+    "supportingPassage": "A standardized DOAC interruption protocol without heparin bridging was associated with low rates of perioperative major bleeding (<2%) and arterial thromboembolism (<1%).",
+    "mappedClaim": "DOAC interruption protocols tailored to procedural bleeding risk without heparin bridging achieve low rates of bleeding and arterial thromboembolism."
+  },
+  {
+    "code": "op-c-s3-0603",
+    "pmid": "18479744",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/18479744/",
+    "title": "Effects of extended-release metoprolol succinate in patients undergoing non-cardiac surgery (POISE trial): a randomised controlled trial",
+    "journal": "Lancet. 2008;371(9627):1839-1847",
+    "retrievalDate": "2026-11-05",
+    "supportingPassage": "Although metoprolol reduced the risk of myocardial infarction, overall mortality and the risk of stroke were significantly increased in the metoprolol group... Routine acute initiation of high-dose beta-blockers on the day of non-cardiac surgery is not recommended.",
+    "mappedClaim": "Acute perioperative initiation of high-dose beta-blockers on the day of non-cardiac surgery increases total mortality and stroke despite reducing non-fatal MI."
+  },
+  {
+    "code": "op-c-s2-0601",
+    "pmid": "21258094",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/21258094/",
+    "title": "Clinical Practice Guideline for the Use of Antimicrobial Agents in Neutropenic Patients with Cancer: 2010 Update by the Infectious Diseases Society of America",
+    "journal": "Clin Infect Dis. 2011;52(4):e56-e93",
+    "retrievalDate": "2026-11-05",
+    "supportingPassage": "Monotherapy with an antipseudomonal beta-lactam agent (e.g., cefepime, a carbapenem, or piperacillin-tazobactam) is recommended for initial therapy of high-risk febrile neutropenia... Vancomycin is not recommended as a standard part of the initial antibiotic regimen for fever and neutropenia.",
+    "mappedClaim": "Febrile neutropenia requires immediate empiric antipseudomonal beta-lactam monotherapy within 60 minutes; routine vancomycin is not indicated without specific clinical criteria."
+  },
+  {
+    "code": "op-c-s1-0601",
+    "pmid": "25140960",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25140960/",
+    "title": "Aortic-valve stenosis--from patients at risk to severe valve obstruction",
+    "journal": "N Engl J Med. 2014;371(8):744-756",
+    "retrievalDate": "2026-11-05",
+    "supportingPassage": "Severe aortic stenosis imposes a chronic pressure overload on the left ventricle, characterized by a large transvalvular systolic pressure gradient, marked elevation in peak left ventricular systolic pressure, and progressive concentric left ventricular hypertrophy.",
+    "mappedClaim": "Aortic stenosis increases LV afterload, markedly elevates peak intraventricular systolic pressure, and shifts the left ventricular pressure-volume loop upward."
+  }
+]

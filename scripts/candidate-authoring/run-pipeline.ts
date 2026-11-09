@@ -25,6 +25,23 @@ import { step1Batch21 } from './step1-batch21';
 import { step1Batch22 } from './step1-batch22';
 import { step1Batch23 } from './step1-batch23';
 import { step1Batch24 } from './step1-batch24';
+import { step1Batch25 } from './step1-batch25';
+import { step1Batch26 } from './step1-batch26';
+import { step1Batch27 } from './step1-batch27';
+import { step1Batch28 } from './step1-batch28';
+import { step1Batch29 } from './step1-batch29';
+import { step1Batch30 } from './step1-batch30';
+import { step1Batch31 } from './step1-batch31';
+import { step1Batch32 } from './step1-batch32';
+import { step1Batch33 } from './step1-batch33';
+import { step1Batch34 } from './step1-batch34';
+import { step1Batch35 } from './step1-batch35';
+import { step1Batch36 } from './step1-batch36';
+import { step1Batch37 } from './step1-batch37';
+import { step1Batch38 } from './step1-batch38';
+import { step1Batch39 } from './step1-batch39';
+import { step1Batch40 } from './step1-batch40';
+import { step1Batch41 } from './step1-batch41';
 
 import { step2Batch1 } from './step2-batch1';
 import { step2Batch2 } from './step2-batch2';
@@ -50,6 +67,23 @@ import { step2Batch21 } from './step2-batch21';
 import { step2Batch22 } from './step2-batch22';
 import { step2Batch23 } from './step2-batch23';
 import { step2Batch24 } from './step2-batch24';
+import { step2Batch25 } from './step2-batch25';
+import { step2Batch26 } from './step2-batch26';
+import { step2Batch27 } from './step2-batch27';
+import { step2Batch28 } from './step2-batch28';
+import { step2Batch29 } from './step2-batch29';
+import { step2Batch30 } from './step2-batch30';
+import { step2Batch31 } from './step2-batch31';
+import { step2Batch32 } from './step2-batch32';
+import { step2Batch33 } from './step2-batch33';
+import { step2Batch34 } from './step2-batch34';
+import { step2Batch35 } from './step2-batch35';
+import { step2Batch36 } from './step2-batch36';
+import { step2Batch37 } from './step2-batch37';
+import { step2Batch38 } from './step2-batch38';
+import { step2Batch39 } from './step2-batch39';
+import { step2Batch40 } from './step2-batch40';
+import { step2Batch41 } from './step2-batch41';
 
 import { step3Batch1 } from './step3-batch1';
 import { step3Batch2 } from './step3-batch2';
@@ -75,6 +109,23 @@ import { step3Batch21 } from './step3-batch21';
 import { step3Batch22 } from './step3-batch22';
 import { step3Batch23 } from './step3-batch23';
 import { step3Batch24 } from './step3-batch24';
+import { step3Batch25 } from './step3-batch25';
+import { step3Batch26 } from './step3-batch26';
+import { step3Batch27 } from './step3-batch27';
+import { step3Batch28 } from './step3-batch28';
+import { step3Batch29 } from './step3-batch29';
+import { step3Batch30 } from './step3-batch30';
+import { step3Batch31 } from './step3-batch31';
+import { step3Batch32 } from './step3-batch32';
+import { step3Batch33 } from './step3-batch33';
+import { step3Batch34 } from './step3-batch34';
+import { step3Batch35 } from './step3-batch35';
+import { step3Batch36 } from './step3-batch36';
+import { step3Batch37 } from './step3-batch37';
+import { step3Batch38 } from './step3-batch38';
+import { step3Batch39 } from './step3-batch39';
+import { step3Batch40 } from './step3-batch40';
+import { step3Batch41 } from './step3-batch41';
 
 import type { CandidateSpec, ManifestEntry } from './types';
 import type { QuestionContent } from '../../src/lib/validation/content';
@@ -94,6 +145,10 @@ const allResults: PipelineResult[] = [];
 const runningCorpus = [...existingCorpus];
 
 const FORCE_OVERWRITE = process.argv.includes('--force-overwrite') || process.env.FORCE_OVERWRITE === 'true';
+const overwriteArg = process.argv.find(arg => arg.startsWith('--overwrite-batches='));
+const TARGET_OVERWRITE_BATCHES = overwriteArg
+  ? overwriteArg.split('=')[1]!.split(',').map(s => parseInt(s.trim(), 10)).filter(n => !isNaN(n))
+  : [];
 
 // Load existing manifest to protect and preserve reviewed statuses
 const existingManifestMap = new Map<string, ManifestEntry>();
@@ -118,16 +173,19 @@ function runBatch(batchData: CandidateSpec[], step: 'Step 1' | 'Step 2 CK' | 'St
   const result = processCandidateBatch(batchData, step, batchNum, runningCorpus);
   allResults.push(result);
 
+  const shouldOverwrite = FORCE_OVERWRITE || TARGET_OVERWRITE_BATCHES.includes(batchNum);
+  const shouldPreserveDisk = fileExists && !shouldOverwrite;
+
   for (const entry of result.manifestEntries) {
-    if (existingManifestMap.has(entry.code) && !FORCE_OVERWRITE && batchNum <= 20) {
+    if (existingManifestMap.has(entry.code) && !shouldOverwrite) {
       allManifestEntries.push(existingManifestMap.get(entry.code)!);
     } else {
       allManifestEntries.push(entry);
     }
   }
 
-  if (fileExists && !FORCE_OVERWRITE) {
-    console.log(`  [PRESERVED] ${filePath} already exists on disk. Preserving existing file (pass --force-overwrite to regenerate).`);
+  if (shouldPreserveDisk) {
+    console.log(`  [PRESERVED] ${filePath} already exists on disk. Preserving existing file (pass --overwrite-batches=${batchNum} to regenerate).`);
     let diskItems: QuestionContent[];
     try {
       const content = readFileSync(filePath, 'utf8');
@@ -175,6 +233,23 @@ runBatch(step1Batch21, 'Step 1', 21, 'content/candidates/step1', 'batch-21.json'
 runBatch(step1Batch22, 'Step 1', 22, 'content/candidates/step1', 'batch-22.json');
 runBatch(step1Batch23, 'Step 1', 23, 'content/candidates/step1', 'batch-23.json');
 runBatch(step1Batch24, 'Step 1', 24, 'content/candidates/step1', 'batch-24.json');
+runBatch(step1Batch25, 'Step 1', 25, 'content/candidates/step1', 'batch-25.json');
+runBatch(step1Batch26, 'Step 1', 26, 'content/candidates/step1', 'batch-26.json');
+runBatch(step1Batch27, 'Step 1', 27, 'content/candidates/step1', 'batch-27.json');
+runBatch(step1Batch28, 'Step 1', 28, 'content/candidates/step1', 'batch-28.json');
+runBatch(step1Batch29, 'Step 1', 29, 'content/candidates/step1', 'batch-29.json');
+runBatch(step1Batch30, 'Step 1', 30, 'content/candidates/step1', 'batch-30.json');
+runBatch(step1Batch31, 'Step 1', 31, 'content/candidates/step1', 'batch-31.json');
+runBatch(step1Batch32, 'Step 1', 32, 'content/candidates/step1', 'batch-32.json');
+runBatch(step1Batch33, 'Step 1', 33, 'content/candidates/step1', 'batch-33.json');
+runBatch(step1Batch34, 'Step 1', 34, 'content/candidates/step1', 'batch-34.json');
+runBatch(step1Batch35, 'Step 1', 35, 'content/candidates/step1', 'batch-35.json');
+runBatch(step1Batch36, 'Step 1', 36, 'content/candidates/step1', 'batch-36.json');
+runBatch(step1Batch37, 'Step 1', 37, 'content/candidates/step1', 'batch-37.json');
+runBatch(step1Batch38, 'Step 1', 38, 'content/candidates/step1', 'batch-38.json');
+runBatch(step1Batch39, 'Step 1', 39, 'content/candidates/step1', 'batch-39.json');
+runBatch(step1Batch40, 'Step 1', 40, 'content/candidates/step1', 'batch-40.json');
+runBatch(step1Batch41, 'Step 1', 41, 'content/candidates/step1', 'batch-41.json');
 
 // Step 2 CK: 20 Batches (500 items)
 runBatch(step2Batch1, 'Step 2 CK', 1, 'content/candidates/step2ck', 'batch-01.json');
@@ -201,6 +276,23 @@ runBatch(step2Batch21, 'Step 2 CK', 21, 'content/candidates/step2ck', 'batch-21.
 runBatch(step2Batch22, 'Step 2 CK', 22, 'content/candidates/step2ck', 'batch-22.json');
 runBatch(step2Batch23, 'Step 2 CK', 23, 'content/candidates/step2ck', 'batch-23.json');
 runBatch(step2Batch24, 'Step 2 CK', 24, 'content/candidates/step2ck', 'batch-24.json');
+runBatch(step2Batch25, 'Step 2 CK', 25, 'content/candidates/step2ck', 'batch-25.json');
+runBatch(step2Batch26, 'Step 2 CK', 26, 'content/candidates/step2ck', 'batch-26.json');
+runBatch(step2Batch27, 'Step 2 CK', 27, 'content/candidates/step2ck', 'batch-27.json');
+runBatch(step2Batch28, 'Step 2 CK', 28, 'content/candidates/step2ck', 'batch-28.json');
+runBatch(step2Batch29, 'Step 2 CK', 29, 'content/candidates/step2ck', 'batch-29.json');
+runBatch(step2Batch30, 'Step 2 CK', 30, 'content/candidates/step2ck', 'batch-30.json');
+runBatch(step2Batch31, 'Step 2 CK', 31, 'content/candidates/step2ck', 'batch-31.json');
+runBatch(step2Batch32, 'Step 2 CK', 32, 'content/candidates/step2ck', 'batch-32.json');
+runBatch(step2Batch33, 'Step 2 CK', 33, 'content/candidates/step2ck', 'batch-33.json');
+runBatch(step2Batch34, 'Step 2 CK', 34, 'content/candidates/step2ck', 'batch-34.json');
+runBatch(step2Batch35, 'Step 2 CK', 35, 'content/candidates/step2ck', 'batch-35.json');
+runBatch(step2Batch36, 'Step 2 CK', 36, 'content/candidates/step2ck', 'batch-36.json');
+runBatch(step2Batch37, 'Step 2 CK', 37, 'content/candidates/step2ck', 'batch-37.json');
+runBatch(step2Batch38, 'Step 2 CK', 38, 'content/candidates/step2ck', 'batch-38.json');
+runBatch(step2Batch39, 'Step 2 CK', 39, 'content/candidates/step2ck', 'batch-39.json');
+runBatch(step2Batch40, 'Step 2 CK', 40, 'content/candidates/step2ck', 'batch-40.json');
+runBatch(step2Batch41, 'Step 2 CK', 41, 'content/candidates/step2ck', 'batch-41.json');
 
 // Step 3: 20 Batches (500 items)
 runBatch(step3Batch1, 'Step 3', 1, 'content/candidates/step3', 'batch-01.json');
@@ -227,6 +319,23 @@ runBatch(step3Batch21, 'Step 3', 21, 'content/candidates/step3', 'batch-21.json'
 runBatch(step3Batch22, 'Step 3', 22, 'content/candidates/step3', 'batch-22.json');
 runBatch(step3Batch23, 'Step 3', 23, 'content/candidates/step3', 'batch-23.json');
 runBatch(step3Batch24, 'Step 3', 24, 'content/candidates/step3', 'batch-24.json');
+runBatch(step3Batch25, 'Step 3', 25, 'content/candidates/step3', 'batch-25.json');
+runBatch(step3Batch26, 'Step 3', 26, 'content/candidates/step3', 'batch-26.json');
+runBatch(step3Batch27, 'Step 3', 27, 'content/candidates/step3', 'batch-27.json');
+runBatch(step3Batch28, 'Step 3', 28, 'content/candidates/step3', 'batch-28.json');
+runBatch(step3Batch29, 'Step 3', 29, 'content/candidates/step3', 'batch-29.json');
+runBatch(step3Batch30, 'Step 3', 30, 'content/candidates/step3', 'batch-30.json');
+runBatch(step3Batch31, 'Step 3', 31, 'content/candidates/step3', 'batch-31.json');
+runBatch(step3Batch32, 'Step 3', 32, 'content/candidates/step3', 'batch-32.json');
+runBatch(step3Batch33, 'Step 3', 33, 'content/candidates/step3', 'batch-33.json');
+runBatch(step3Batch34, 'Step 3', 34, 'content/candidates/step3', 'batch-34.json');
+runBatch(step3Batch35, 'Step 3', 35, 'content/candidates/step3', 'batch-35.json');
+runBatch(step3Batch36, 'Step 3', 36, 'content/candidates/step3', 'batch-36.json');
+runBatch(step3Batch37, 'Step 3', 37, 'content/candidates/step3', 'batch-37.json');
+runBatch(step3Batch38, 'Step 3', 38, 'content/candidates/step3', 'batch-38.json');
+runBatch(step3Batch39, 'Step 3', 39, 'content/candidates/step3', 'batch-39.json');
+runBatch(step3Batch40, 'Step 3', 40, 'content/candidates/step3', 'batch-40.json');
+runBatch(step3Batch41, 'Step 3', 41, 'content/candidates/step3', 'batch-41.json');
 
 // Save Manifest
 writeFileSync('content/candidates/manifest.json', JSON.stringify(allManifestEntries, null, 2));

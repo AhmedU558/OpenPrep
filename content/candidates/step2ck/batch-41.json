@@ -1,0 +1,938 @@
+[
+  {
+    "code": "op-c-s2-1001",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Stanford Type A Aortic Dissection Emergency Open Surgical Repair",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 58-year-old man presents to the emergency department with sudden-onset, severe, 'tearing' substernal chest pain radiating directly between his shoulder blades. Vital signs: blood pressure 184/104 mm Hg in the right arm and 142/86 mm Hg in the left arm, heart rate 94/min. Physical examination reveals an early diastolic decrescendo murmur at the right sternal border and clear breath sounds bilaterally. Electrocardiogram reveals sinus tachycardia and non-specific ST-T wave changes without acute ST-segment elevation. Contrast-enhanced computed tomography (CT) angiography of the chest demonstrates an intimal flap extending from the aortic root 1.5 cm above the aortic valve into the proximal ascending thoracic aorta, with a small associated pericardial effusion. Which of the following is the most appropriate definitive management strategy for this patient?",
+    "options": [
+      {
+        "text": "Immediate intravenous beta-blocker therapy followed by emergency open surgical repair",
+        "correct": true,
+        "explanation": "Acute thoracic aortic dissection is classified using the Stanford system: TYPE A involves the ascending aorta (proximal to the brachiocephalic artery) regardless of entry site, whereas TYPE B is restricted to the descending aorta distal to the left subclavian artery. Stanford Type A dissection is a catastrophic surgical emergency with an untreated mortality rate of 1-2% per hour due to fatal complications including aortic rupture, hemopericardium with cardiac tamponade, acute severe aortic regurgitation, and coronary or cerebral malperfusion. Definitive management mandates IMMEDIATE EMERGENCY OPEN SURGICAL REPAIR (resection of the intimal tear, replacement of the ascending aorta with a synthetic graft, and aortic valve suspension or replacement). Preoperative medical management focuses on ANTIIIMPULSE THERAPY using IV beta-blockers (e.g., esmolol or labetalol) to reduce heart rate (<60/min) and shear stress (dP/dt), followed by vasodilators (e.g., clevidipine, nitroprusside) to lower systolic blood pressure to 100-120 mm Hg."
+      },
+      {
+        "text": "Exclusive medical therapy in the intensive care unit with intravenous labetalol and nitroprusside",
+        "correct": false,
+        "explanation": "Medical management alone is indicated for uncomplicated Stanford Type B dissections; for Type A dissections, medical therapy alone carries a 30-day mortality approaching 50%."
+      },
+      {
+        "text": "Elective thoracic endovascular aortic repair (TEVAR) after 48 hours of medical stabilization",
+        "correct": false,
+        "explanation": "TEVAR is the treatment of choice for complicated Type B aortic dissection, but open surgical sternotomy is standard of care for ascending Type A dissection."
+      },
+      {
+        "text": "Immediate therapeutic anticoagulation with intravenous unfractionated heparin",
+        "correct": false,
+        "explanation": "Anticoagulation is strictly contraindicated in acute aortic dissection because it accelerates intramural hematoma propagation, fatal hemopericardium, and exsanguination."
+      },
+      {
+        "text": "Pericardiocentesis under echocardiographic guidance to evacuate the pericardial effusion",
+        "correct": false,
+        "explanation": "Pericardiocentesis in Type A dissection can decompress intrapericardial pressure, re-initiating torrential pressurized hemorrhage into the pericardial space and precipitating death."
+      }
+    ],
+    "explanation": "Acute thoracic aortic dissection is classified using the Stanford system: TYPE A involves the ascending aorta (proximal to the brachiocephalic artery) regardless of entry site, whereas TYPE B is restricted to the descending aorta distal to the left subclavian artery. Stanford Type A dissection is a catastrophic surgical emergency with an untreated mortality rate of 1-2% per hour due to fatal complications including aortic rupture, hemopericardium with cardiac tamponade, acute severe aortic regurgitation, and coronary or cerebral malperfusion. Definitive management mandates IMMEDIATE EMERGENCY OPEN SURGICAL REPAIR (resection of the intimal tear, replacement of the ascending aorta with a synthetic graft, and aortic valve suspension or replacement). Preoperative medical management focuses on ANTIIIMPULSE THERAPY using IV beta-blockers (e.g., esmolol or labetalol) to reduce heart rate (<60/min) and shear stress (dP/dt), followed by vasodilators (e.g., clevidipine, nitroprusside) to lower systolic blood pressure to 100-120 mm Hg. Tearing chest pain + BP differential + ascending aortic intimal flap (Type A) = IV beta-blocker + emergency open surgical repair.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Stanford Type A Aortic Dissection Emergency Open Surgical Repair.",
+    "keyPoints": [
+      "Stanford Type A Aortic Dissection Emergency Open Surgical Repair",
+      "Tearing chest pain + BP differential + ascending aortic intimal flap (Type A) = IV beta-blocker + emergency open surgical repair."
+    ],
+    "references": [
+      {
+        "label": "Nienaber CA. Management of acute aortic dissection. Lancet. 2015 Feb 28. PMID: 25662791.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25662791/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1002",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Intermediate-High Risk Pulmonary Embolism Anticoagulation and Monitoring",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old woman presents to the emergency department with acute dyspnea and pleuritic chest pain 2 weeks after an elective total knee arthroplasty. Vital signs: blood pressure 128/82 mm Hg, heart rate 108/min, respiratory rate 26/min, and oxygen saturation 91% on room air. Physical examination reveals clear lungs and right lower-extremity swelling. Contrast CT pulmonary angiography demonstrates extensive bilateral filling defects within the main and lobar pulmonary arteries. Transthoracic echocardiogram demonstrates right ventricular hypokinesis with an RV-to-LV diameter ratio of 1.2 and flattening of the interventricular septum. Serum cardiac troponin I is elevated at 0.18 ng/mL (reference: <0.04 ng/mL), and plasma BNP is 450 pg/mL. She remains normotensive and alert. Which of the following is the most appropriate initial management?",
+    "options": [
+      {
+        "text": "Immediate administration of systemic full-dose intravenous tissue plasminogen activator",
+        "correct": false,
+        "explanation": "Full-dose systemic thrombolysis is indicated as first-line therapy only for high-risk (massive) PE with sustained hypotension (systolic BP <90 mm Hg); it causes excess major bleeding in normotensive patients."
+      },
+      {
+        "text": "Immediate therapeutic anticoagulation with weight-based low-molecular-weight heparin and ICU admission",
+        "correct": true,
+        "explanation": "This patient has an INTERMEDIATE-HIGH-RISK (SUBMASSIVE) PULMONARY EMBOLISM, defined by: (1) Hemodynamic stability (systolic blood pressure >= 90 mm Hg); (2) Evidence of RIGHT VENTRICULAR DYSFUNCTION on imaging (RV/LV diameter ratio > 0.9, McConnell sign); and (3) Evidence of MYOCARDIAL INJURY (elevated troponin or BNP). In hemodynamically stable intermediate-high-risk patients, initial therapy consists of IMMEDIATE THERAPEUTIC ANTICOAGULATION (with weight-based LMWH, fondaparinux, or unfractionated heparin) and ADMISSION TO AN INTERMEDIATE OR INTENSIVE CARE UNIT for frequent hemodynamic monitoring. Systemic thrombolysis is NOT indicated initially because bleeding risks (including hemorrhagic stroke) outweigh mortality benefits in normotensive patients. However, rescue reperfusion (systemic thrombolysis, catheter-directed thrombectomy, or surgical embolectomy) is immediately deployed if the patient develops overt hemodynamic collapse (hypotension, shock)."
+      },
+      {
+        "text": "Emergency surgical pulmonary embolectomy under cardiopulmonary bypass",
+        "correct": false,
+        "explanation": "Surgical embolectomy is reserved for patients with massive PE who have absolute contraindications to thrombolysis or failed catheter-directed therapies."
+      },
+      {
+        "text": "Placement of an inferior vena cava (IVC) filter without systemic anticoagulation",
+        "correct": false,
+        "explanation": "IVC filters are indicated only when therapeutic anticoagulation is absolutely contraindicated or when recurrent PE occurs despite documented therapeutic anticoagulation."
+      },
+      {
+        "text": "Discharge home on oral rivaroxaban with outpatient cardiology follow-up in 48 hours",
+        "correct": false,
+        "explanation": "Intermediate-high-risk PE patients carry significant 30-day early decompensation risks and require close inpatient hospital monitoring, not outpatient discharge."
+      }
+    ],
+    "explanation": "This patient has an INTERMEDIATE-HIGH-RISK (SUBMASSIVE) PULMONARY EMBOLISM, defined by: (1) Hemodynamic stability (systolic blood pressure >= 90 mm Hg); (2) Evidence of RIGHT VENTRICULAR DYSFUNCTION on imaging (RV/LV diameter ratio > 0.9, McConnell sign); and (3) Evidence of MYOCARDIAL INJURY (elevated troponin or BNP). In hemodynamically stable intermediate-high-risk patients, initial therapy consists of IMMEDIATE THERAPEUTIC ANTICOAGULATION (with weight-based LMWH, fondaparinux, or unfractionated heparin) and ADMISSION TO AN INTERMEDIATE OR INTENSIVE CARE UNIT for frequent hemodynamic monitoring. Systemic thrombolysis is NOT indicated initially because bleeding risks (including hemorrhagic stroke) outweigh mortality benefits in normotensive patients. However, rescue reperfusion (systemic thrombolysis, catheter-directed thrombectomy, or surgical embolectomy) is immediately deployed if the patient develops overt hemodynamic collapse (hypotension, shock). PE + normotension + RV strain on echo + elevated troponin (intermediate-high risk) = Therapeutic anticoagulation + close ICU monitoring.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Intermediate-High Risk Pulmonary Embolism Anticoagulation and Monitoring.",
+    "keyPoints": [
+      "Intermediate-High Risk Pulmonary Embolism Anticoagulation and Monitoring",
+      "PE + normotension + RV strain on echo + elevated troponin (intermediate-high risk) = Therapeutic anticoagulation + close ICU monitoring."
+    ],
+    "references": [
+      {
+        "label": "AbuRahma ZT. Catheter Directed Mechanical Thrombectomy for Intermediate-Risk Acute Pulmonary Embolism: Clinical Outcomes From a Single Center Experience. Vasc Endovascular Surg. 2026 May. PMID: 41217492.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41217492/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1003",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Fulminant Clostridioides difficile Colitis High-Dose Vancomycin and Surgery",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 72-year-old man hospitalized for 10 days for healthcare-associated pneumonia treated with cefepime and levofloxacin develops sudden severe abdominal distension, watery diarrhea, and fever. Vital signs: temperature 39.1 C (102.4 F), blood pressure 82/50 mm Hg, heart rate 124/min. Physical examination reveals a lethargic man with a diffusely distended, tympanitic, severely tender abdomen with involuntary guarding and absent bowel sounds. Laboratory studies show: white blood cell count 38,000/uL with 20% bands, serum creatinine 2.8 mg/dL (baseline 1.0 mg/dL), and serum lactate 3.4 mmol/L. Stool PCR is positive for Clostridioides difficile toxin genes. An abdominal radiograph reveals colonic dilation with a cecal diameter of 9.5 cm and no pneumoperitoneum (toxic megacolon). In addition to fluid resuscitation, which of the following is the most appropriate management?",
+    "options": [
+      {
+        "text": "Standard-dose oral fidaxomicin 200 mg twice daily monotherapy for 10 days",
+        "correct": false,
+        "explanation": "Fidaxomicin is effective for initial non-severe or severe C. difficile, but has not been established as first-line monotherapy for fulminant colitis with ileus and toxic megacolon."
+      },
+      {
+        "text": "Immediate colonoscopy with fecal microbiota transplantation into the right colon",
+        "correct": false,
+        "explanation": "Colonoscopy in the setting of acute toxic megacolon carries an unacceptable risk of mechanical colonic perforation and is strictly contraindicated."
+      },
+      {
+        "text": "High-dose oral/nasogastric vancomycin, intravenous metronidazole, and urgent surgical consultation",
+        "correct": true,
+        "explanation": "This patient has FULMINANT CLOSTRIDIOIDES DIFFICILE INFECTION, defined by the presence of C. difficile colitis complicated by HYPOTENSION/SHOCK, ILEUS, or TOXIC MEGACOLON (colonic dilation > 6 cm with systemic toxicity), severe leukocytosis (WBC >= 30,000/uL), or elevated serum lactate (> 2.2 mmol/L). Recommended medical therapy for fulminant disease consists of: (1) HIGH-DOSE ORAL OR ENTERIC VANCOMYCIN (500 mg 4 times daily orally or via nasogastric tube); (2) If ileus is present, rectal retention enemas of vancomycin (500 mg in 100 mL saline every 6 hours); PLUS (3) INTRAVENOUS METRONIDAZOLE (500 mg every 8 hours) to ensure tissue penetration; and (4) URGENT SURGICAL CONSULTATION for consideration of subtotal colectomy with end ileostomy or diverting loop ileostomy with colonic vancomycin lavage before colonic perforation or irreversible shock supervenes."
+      },
+      {
+        "text": "Intravenous vancomycin 15-20 mg/kg every 12 hours with loperamide for diarrhea control",
+        "correct": false,
+        "explanation": "Intravenous vancomycin is not excreted into the intestinal lumen in therapeutic quantities and is ineffective for C. difficile; antimotility agents precipitate toxic megacolon."
+      },
+      {
+        "text": "Oral metronidazole 500 mg three times daily as sole antimicrobial agent",
+        "correct": false,
+        "explanation": "Oral metronidazole monotherapy has unacceptably high treatment failure rates and is no longer recommended for severe or fulminant C. difficile colitis."
+      }
+    ],
+    "explanation": "This patient has FULMINANT CLOSTRIDIOIDES DIFFICILE INFECTION, defined by the presence of C. difficile colitis complicated by HYPOTENSION/SHOCK, ILEUS, or TOXIC MEGACOLON (colonic dilation > 6 cm with systemic toxicity), severe leukocytosis (WBC >= 30,000/uL), or elevated serum lactate (> 2.2 mmol/L). Recommended medical therapy for fulminant disease consists of: (1) HIGH-DOSE ORAL OR ENTERIC VANCOMYCIN (500 mg 4 times daily orally or via nasogastric tube); (2) If ileus is present, rectal retention enemas of vancomycin (500 mg in 100 mL saline every 6 hours); PLUS (3) INTRAVENOUS METRONIDAZOLE (500 mg every 8 hours) to ensure tissue penetration; and (4) URGENT SURGICAL CONSULTATION for consideration of subtotal colectomy with end ileostomy or diverting loop ileostomy with colonic vancomycin lavage before colonic perforation or irreversible shock supervenes. C. diff + shock + toxic megacolon + WBC 38k = High-dose oral vancomycin + IV metronidazole + urgent surgical consultation.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Fulminant Clostridioides difficile Colitis High-Dose Vancomycin and Surgery.",
+    "keyPoints": [
+      "Fulminant Clostridioides difficile Colitis High-Dose Vancomycin and Surgery",
+      "C. diff + shock + toxic megacolon + WBC 38k = High-dose oral vancomycin + IV metronidazole + urgent surgical consultation."
+    ],
+    "references": [
+      {
+        "label": "Pinzón MA. Fecal Microbiota Transplantation as a Rescue Therapy for Refractory Clostridioides difficile Infection in a Patient With Lupus. Case Rep Infect Dis. 2026. PMID: 42813038.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42813038/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1004",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Hepatorenal Syndrome-AKI Diagnosis Vasoconstrictor Therapy Terlipressin",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old man with decompensated alcohol-associated cirrhosis and refractory ascites is admitted for worsening abdominal distension and jaundice. He was treated with furosemide and spironolactone at home. On admission, his serum creatinine is 2.4 mg/dL (baseline 0.9 mg/dL 1 month ago). Vital signs: blood pressure 96/60 mm Hg, heart rate 78/min. Physical examination reveals spider angiomas, prominent shifting dullness with a positive fluid wave, and mild flapping tremor. Urinalysis shows no protein, no blood, and 0-1 WBCs/hpf; urine sodium is 6 mEq/L, and fractional excretion of sodium is 0.2%. Furosemide and spironolactone are immediately discontinued. He is treated with intravenous 20% albumin at 1 g/kg/day for 48 consecutive hours. Repeat serum creatinine after 48 hours of volume challenge is 2.6 mg/dL, and urine output remains <20 mL/hour. Renal ultrasound shows normal-sized kidneys with no hydronephrosis or parenchymal abnormalities. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Administration of high-dose intravenous furosemide infusion to overcome diuretic resistance",
+        "correct": false,
+        "explanation": "Furosemide further depletes effective circulating volume and exacerbates severe renal vasoconstriction in hepatorenal syndrome."
+      },
+      {
+        "text": "Immediate placement of an emergency transjugular intrahepatic portosystemic shunt (TIPS)",
+        "correct": false,
+        "explanation": "TIPS can improve renal hemodynamics in selected stable cirrhotics, but is not the immediate first-line pharmacological treatment for acute progressive HRS-AKI and carries high hepatic encephalopathy risks."
+      },
+      {
+        "text": "Initiation of broad-spectrum antibiotic therapy with intravenous vancomycin and piperacillin-tazobactam",
+        "correct": false,
+        "explanation": "Empiric antibiotics are indicated for spontaneous bacterial peritonitis (SBP), but diagnostic paracentesis is required first; antibiotics without vasoconstrictors do not reverse HRS."
+      },
+      {
+        "text": "Initiation of vasoconstrictor therapy with terlipressin combined with intravenous albumin",
+        "correct": true,
+        "explanation": "This patient meets the International Club of Ascites diagnostic criteria for HEPATORENAL SYNDROME-ACUTE KIDNEY INJURY (HRS-AKI): (1) Cirrhosis with ascites; (2) Doubling of serum creatinine to >= 1.5 mg/dL; (3) Lack of improvement in renal function (creatinine remaining elevated) after at least 48 HOURS OF DIURETIC WITHDRAWAL AND PLASMA VOLUME EXPANSION WITH ALBUMIN (1 g/kg/day); (4) Absence of shock; and (5) No current or recent exposure to nephrotoxic agents and absence of structural kidney disease (normal urinalysis, no proteinuria/hematuria, normal ultrasound). The pathophysiology is driven by profound splanchnic arterial vasodilation (mediated by portal hypertension and nitric oxide), resulting in extreme arterial underfilling and intense compensatory renal vasoconstriction. FIRST-LINE PHARMACOLOGIC THERAPY IS TERLIPRESSIN (a vasopressin V1 receptor agonist) COMBINED WITH IV ALBUMIN (or norepinephrine infusion plus albumin in ICU), which constricts the dilated splanchnic circulation and restores renal perfusion, bridging the patient to LIVER TRANSPLANTATION."
+      },
+      {
+        "text": "Urgent initiation of chronic intermittent hemodialysis as sole definitive therapy",
+        "correct": false,
+        "explanation": "Dialysis provides renal replacement for refractory acidosis, hyperkalemia, or volume overload, but does not correct splanchnic vasodilation and is not definitive therapy (liver transplant is)."
+      }
+    ],
+    "explanation": "This patient meets the International Club of Ascites diagnostic criteria for HEPATORENAL SYNDROME-ACUTE KIDNEY INJURY (HRS-AKI): (1) Cirrhosis with ascites; (2) Doubling of serum creatinine to >= 1.5 mg/dL; (3) Lack of improvement in renal function (creatinine remaining elevated) after at least 48 HOURS OF DIURETIC WITHDRAWAL AND PLASMA VOLUME EXPANSION WITH ALBUMIN (1 g/kg/day); (4) Absence of shock; and (5) No current or recent exposure to nephrotoxic agents and absence of structural kidney disease (normal urinalysis, no proteinuria/hematuria, normal ultrasound). The pathophysiology is driven by profound splanchnic arterial vasodilation (mediated by portal hypertension and nitric oxide), resulting in extreme arterial underfilling and intense compensatory renal vasoconstriction. FIRST-LINE PHARMACOLOGIC THERAPY IS TERLIPRESSIN (a vasopressin V1 receptor agonist) COMBINED WITH IV ALBUMIN (or norepinephrine infusion plus albumin in ICU), which constricts the dilated splanchnic circulation and restores renal perfusion, bridging the patient to LIVER TRANSPLANTATION. Decompensated cirrhosis + AKI unresponsive to 48h albumin volume expansion = HRS-AKI treated with terlipressin + IV albumin.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hepatorenal Syndrome-AKI Diagnosis Vasoconstrictor Therapy Terlipressin.",
+    "keyPoints": [
+      "Hepatorenal Syndrome-AKI Diagnosis Vasoconstrictor Therapy Terlipressin",
+      "Decompensated cirrhosis + AKI unresponsive to 48h albumin volume expansion = HRS-AKI treated with terlipressin + IV albumin."
+    ],
+    "references": [
+      {
+        "label": "Ozturk NB. Vasoconstrictor therapy for HRS-AKI in patients listed for liver transplantation: Translating evidence to the pretransplant setting. Liver Transpl. 2026 Oct 2. PMID: 42825583.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42825583/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1005",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Refractory Status Epilepticus Continuous Intravenous Anesthetic Infusion",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old man with a history of focal epilepsy is brought to the emergency department in active status epilepticus. Witnesses report continuous generalized tonic-clonic convulsions that began 35 minutes ago without return of consciousness. The emergency medical team administered two separate doses of intravenous lorazepam 4 mg (total 8 mg) without cessation of motor seizures. In the emergency department, endotracheal intubation is performed for airway protection. The patient is immediately loaded with intravenous levetiracetam 60 mg/kg (4,500 mg). Fifteen minutes after completing the levetiracetam infusion, continuous rhythmic clonic jerking of all four extremities persists, accompanied by persistent nystagmoid eye movements. Vital signs: blood pressure 138/84 mm Hg, heart rate 122/min, temperature 38.4 C (101.1 F). Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Administration of an additional dose of intravenous lorazepam 4 mg",
+        "correct": false,
+        "explanation": "Repeating benzodiazepines after adequate initial dosing (8 mg) is ineffective due to GABA receptor internalization and delays necessary anesthetic escalation."
+      },
+      {
+        "text": "Oral administration of carbamazepine via nasogastric tube",
+        "correct": false,
+        "explanation": "Enteric carbamazepine has slow, erratic absorption and is ineffective for acute emergency status epilepticus termination."
+      },
+      {
+        "text": "Intravenous administration of magnesium sulfate 4 g over 20 minutes",
+        "correct": false,
+        "explanation": "Magnesium sulfate is indicated for eclamptic seizures in pregnancy, but is ineffective for general refractory epileptic status in young men."
+      },
+      {
+        "text": "Emergent lumbar puncture prior to administering further antiseizure medications",
+        "correct": false,
+        "explanation": "Etiologic workup (neuroimaging, LP) is critical, but terminating active convulsive brain injury takes absolute therapeutic precedence; diagnostic LP must not delay continuous anesthesia."
+      },
+      {
+        "text": "Initiation of continuous intravenous infusion of midazolam or propofol with continuous EEG monitoring",
+        "correct": true,
+        "explanation": "This patient has REFRACTORY STATUS EPILEPTICUS (RSE), defined as ongoing clinical or electrographic seizure activity despite adequate doses of an initial first-line benzodiazepine (e.g., lorazepam 0.1 mg/kg or 8 mg) and an appropriate second-line non-sedating antiseizure medication (e.g., levetiracetam 60 mg/kg, fosphenytoin 20 mg PE/kg, or valproate 40 mg/kg). With prolonged seizures (>30 minutes), synaptic GABA-A receptors undergo progressive endocytosis and dephosphorylation, while excitatory NMDA receptors are upregulated, causing pharmacoresistance to standard anticonvulsants. Management of RSE requires THIRD-LINE THERAPY WITH CONTINUOUS INTRAVENOUS GENERAL ANESTHETIC AGENTS (e.g., continuous IV MIDAZOLAM, PROPOFOL, or KETAMINE) titrated to achieve clinical seizure cessation and continuous electroencephalographic (EEG) BURST SUPPRESSION or complete background suppression for 24-48 hours."
+      }
+    ],
+    "explanation": "This patient has REFRACTORY STATUS EPILEPTICUS (RSE), defined as ongoing clinical or electrographic seizure activity despite adequate doses of an initial first-line benzodiazepine (e.g., lorazepam 0.1 mg/kg or 8 mg) and an appropriate second-line non-sedating antiseizure medication (e.g., levetiracetam 60 mg/kg, fosphenytoin 20 mg PE/kg, or valproate 40 mg/kg). With prolonged seizures (>30 minutes), synaptic GABA-A receptors undergo progressive endocytosis and dephosphorylation, while excitatory NMDA receptors are upregulated, causing pharmacoresistance to standard anticonvulsants. Management of RSE requires THIRD-LINE THERAPY WITH CONTINUOUS INTRAVENOUS GENERAL ANESTHETIC AGENTS (e.g., continuous IV MIDAZOLAM, PROPOFOL, or KETAMINE) titrated to achieve clinical seizure cessation and continuous electroencephalographic (EEG) BURST SUPPRESSION or complete background suppression for 24-48 hours. Status epilepticus refractory to lorazepam and levetiracetam (RSE) = Continuous IV anesthetic infusion (midazolam/propofol) + continuous EEG.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Refractory Status Epilepticus Continuous Intravenous Anesthetic Infusion.",
+    "keyPoints": [
+      "Refractory Status Epilepticus Continuous Intravenous Anesthetic Infusion",
+      "Status epilepticus refractory to lorazepam and levetiracetam (RSE) = Continuous IV anesthetic infusion (midazolam/propofol) + continuous EEG."
+    ],
+    "references": [
+      {
+        "label": "Cornwall CD. Fast Acute Sedation at Intensive Care vs. High-Dose IV Anti-seizure Medication for Treatment of Non-convulsive Status Epilepticus: A Randomized, Multicenter Trial. Crit Care Explor. 2025 Sep 1. PMID: 40953286.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40953286/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1006",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Giant Cell Arteritis Anterior Ischemic Optic Neuropathy Methylprednisolone",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old woman presents to the emergency department with sudden, painless, severe loss of vision in her right eye that began 3 hours ago. For the past month, she has experienced progressive right-sided temporal headaches, scalp tenderness when brushing her hair, and fatigue. She also notes cramping jaw pain when chewing tough foods that resolves with rest. Vital signs: blood pressure 136/82 mm Hg, heart rate 72/min. Visual acuity is light perception only in the right eye and 20/25 in the left eye. Pupillary examination reveals a right relative afferent pupillary defect. Funduscopic examination of the right eye demonstrates a pale, edematous optic disc with blurred margins and splinter peripapillary hemorrhages. Laboratory studies reveal: erythrocyte sedimentation rate (ESR) 96 mm/hr (reference: <30 mm/hr) and C-reactive protein 42 mg/L (reference: <5 mg/L). Which of the following is the most appropriate immediate management?",
+    "options": [
+      {
+        "text": "Immediate high-dose intravenous methylprednisolone pulse therapy",
+        "correct": true,
+        "explanation": "This patient presents with GIANT CELL (TEMPORAL) ARTERITIS (GCA) complicated by ANTERIOR ISCHEMIC OPTIC NEUROPATHY (AION), an ophthalmic emergency. GCA is a large- and medium-vessel vasculitis predominantly affecting branches of the external carotid (temporal, facial, maxillary) and ophthalmic arteries. Thrombotic occlusion of the POSTERIOR CILIARY ARTERIES causes infarction of the optic nerve head, presenting as acute, painless, profound vision loss with disc pallor and edema. Visual loss in GCA is irreversible once established, and without immediate therapy, the contralateral eye becomes involved within days to weeks in up to 50% of patients. When visual symptoms or neuro-ophthalmic deficits are present, IMMEDIATE HIGH-DOSE INTRAVENOUS METHYLPREDNISOLONE (500 to 1,000 mg daily for 3 consecutive days) must be administered immediately. A temporal artery biopsy should be arranged within 1-2 weeks, but steroids must NEVER be delayed for diagnostic procedures."
+      },
+      {
+        "text": "Scheduling an outpatient temporal artery biopsy before initiating corticosteroid therapy",
+        "correct": false,
+        "explanation": "Delaying corticosteroids for biopsy risks catastrophic bilateral permanent blindness; histologic features of GCA persist for 2-4 weeks after initiating steroids."
+      },
+      {
+        "text": "Initiation of low-dose oral prednisone 20 mg daily with outpatient rheumatology referral",
+        "correct": false,
+        "explanation": "Low-dose oral prednisone is appropriate for isolated polymyalgia rheumatica, but is entirely inadequate for GCA with acute ischemic optic neuropathy."
+      },
+      {
+        "text": "Administration of intravenous tissue plasminogen activator (tPA) for retinal artery thrombosis",
+        "correct": false,
+        "explanation": "GCA-mediated visual loss is caused by inflammatory vasculitic stenosis and thrombosis of posterior ciliary arteries, not embolic central retinal artery occlusion."
+      },
+      {
+        "text": "Topical timolol and apraclonidine eye drops to reduce intraocular pressure",
+        "correct": false,
+        "explanation": "Topical glaucoma medications treat elevated intraocular pressure in angle-closure glaucoma; they have no effect on arteritic anterior ischemic optic neuropathy."
+      }
+    ],
+    "explanation": "This patient presents with GIANT CELL (TEMPORAL) ARTERITIS (GCA) complicated by ANTERIOR ISCHEMIC OPTIC NEUROPATHY (AION), an ophthalmic emergency. GCA is a large- and medium-vessel vasculitis predominantly affecting branches of the external carotid (temporal, facial, maxillary) and ophthalmic arteries. Thrombotic occlusion of the POSTERIOR CILIARY ARTERIES causes infarction of the optic nerve head, presenting as acute, painless, profound vision loss with disc pallor and edema. Visual loss in GCA is irreversible once established, and without immediate therapy, the contralateral eye becomes involved within days to weeks in up to 50% of patients. When visual symptoms or neuro-ophthalmic deficits are present, IMMEDIATE HIGH-DOSE INTRAVENOUS METHYLPREDNISOLONE (500 to 1,000 mg daily for 3 consecutive days) must be administered immediately. A temporal artery biopsy should be arranged within 1-2 weeks, but steroids must NEVER be delayed for diagnostic procedures. Temporal headache + jaw claudication + acute vision loss + ESR 96 (GCA) = Immediate high-dose IV methylprednisolone pulse therapy.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Giant Cell Arteritis Anterior Ischemic Optic Neuropathy Methylprednisolone.",
+    "keyPoints": [
+      "Giant Cell Arteritis Anterior Ischemic Optic Neuropathy Methylprednisolone",
+      "Temporal headache + jaw claudication + acute vision loss + ESR 96 (GCA) = Immediate high-dose IV methylprednisolone pulse therapy."
+    ],
+    "references": [
+      {
+        "label": "Diblík P. Giant Cell Arteritis in Ophthalmology - Current Treatment Options. A Review. Cesk Slov Oftalmol. 2026. PMID: 42900579.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42900579/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1007",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Immune Thrombocytopenia Isolated Severe Thrombocytopenia IVIG Steroids",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old woman presents to the clinic with widespread bruising and nosebleeds for the past 4 days. She notes scattered red pinpoint spots on her lower legs and blood on her toothbrush. She has no fever, joint pain, weight loss, or previous history of bleeding. Current medications: none. Vital signs: blood pressure 118/74 mm Hg, pulse 72/min, temperature 36.8 C (98.2 F). Physical examination reveals extensive petechiae over both lower extremities, scattered non-blanching purpura on her arms, and wet purpura (blood blisters) on the buccal mucosa. There is no hepatosplenomegaly or lymphadenopathy. Complete blood count shows: hemoglobin 13.2 g/dL, white blood cell count 6,800/uL with a normal differential, and platelet count 7,000/uL (reference: 150,000-450,000/uL). Coagulation studies (PT, aPTT, INR) are normal. Peripheral blood smear demonstrates markedly decreased platelets with scattered large platelets (megathrombocytes) and normal red blood cell morphology without schistocytes. Which of the following is the most appropriate initial therapy?",
+    "options": [
+      {
+        "text": "Immediate transfusion of two units of pooled donor platelets without pharmacotherapy",
+        "correct": false,
+        "explanation": "Prophylactic platelet transfusions are ineffective in ITP because circulating antiplatelet autoantibodies destroy transfused platelets within minutes to hours."
+      },
+      {
+        "text": "Systemic corticosteroids (oral dexamethasone or prednisone) plus intravenous immunoglobulin (IVIG)",
+        "correct": true,
+        "explanation": "This patient presents with PRIMARY IMMUNE THROMBOCYTOPENIA (ITP), an autoimmune disorder characterized by IgG autoantibodies directed against platelet membrane glycoproteins (e.g., GPIIb/IIIa). Antibody-coated platelets are cleared by splenic macrophage Fc receptors, causing ISOLATED SEVERE THROMBOCYTOPENIA without anemia, leukopenia, or schistocytes. In adults with ITP presenting with severe thrombocytopenia (platelet count < 20,000-30,000/uL) and ACTIVE MUCOSAL BLEEDING ('wet purpura', epistaxis), initial first-line therapy consists of SYSTEMIC CORTICOSTEROIDS (high-dose dexamethasone 40 mg daily for 4 days or oral prednisone 1 mg/kg/day) COMBINED WITH INTRAVENOUS IMMUNOGLOBULIN (IVIG, 1 g/kg). IVIG rapidly saturates splenic macrophage Fc-gamma receptors, halting platelet destruction and producing a rapid rise in platelet counts within 24-48 hours. Platelet transfusions are ineffective due to rapid antibody clearance and are reserved only for life-threatening hemorrhage."
+      },
+      {
+        "text": "Emergency laparoscopic splenectomy within 24 hours of hospital admission",
+        "correct": false,
+        "explanation": "Splenectomy is a second-line therapy for chronic ITP refractory to corticosteroids, IVIG, rituximab, and TPO receptor agonists, not initial management."
+      },
+      {
+        "text": "Initiation of daily plasma exchange (plasmapheresis) for suspected thrombotic microangiopathy",
+        "correct": false,
+        "explanation": "Plasma exchange is the treatment of choice for thrombotic thrombocytopenic purpura (TTP), but this patient has normal RBCs without schistocytes and no microangiopathy."
+      },
+      {
+        "text": "Observation and outpatient monitoring without medical therapy as long as intracranial bleeding is absent",
+        "correct": false,
+        "explanation": "Observation is appropriate for pediatric ITP with mild bleeding, but adults with platelets <20,000-30,000/uL and mucosal purpura require active medical therapy."
+      }
+    ],
+    "explanation": "This patient presents with PRIMARY IMMUNE THROMBOCYTOPENIA (ITP), an autoimmune disorder characterized by IgG autoantibodies directed against platelet membrane glycoproteins (e.g., GPIIb/IIIa). Antibody-coated platelets are cleared by splenic macrophage Fc receptors, causing ISOLATED SEVERE THROMBOCYTOPENIA without anemia, leukopenia, or schistocytes. In adults with ITP presenting with severe thrombocytopenia (platelet count < 20,000-30,000/uL) and ACTIVE MUCOSAL BLEEDING ('wet purpura', epistaxis), initial first-line therapy consists of SYSTEMIC CORTICOSTEROIDS (high-dose dexamethasone 40 mg daily for 4 days or oral prednisone 1 mg/kg/day) COMBINED WITH INTRAVENOUS IMMUNOGLOBULIN (IVIG, 1 g/kg). IVIG rapidly saturates splenic macrophage Fc-gamma receptors, halting platelet destruction and producing a rapid rise in platelet counts within 24-48 hours. Platelet transfusions are ineffective due to rapid antibody clearance and are reserved only for life-threatening hemorrhage. Isolated platelets 7k + mucosal wet purpura + normal smear = ITP treated with systemic corticosteroids + IVIG.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Immune Thrombocytopenia Isolated Severe Thrombocytopenia IVIG Steroids.",
+    "keyPoints": [
+      "Immune Thrombocytopenia Isolated Severe Thrombocytopenia IVIG Steroids",
+      "Isolated platelets 7k + mucosal wet purpura + normal smear = ITP treated with systemic corticosteroids + IVIG."
+    ],
+    "references": [
+      {
+        "label": "Weinstein Mezan D. Romiplostim during pregnancy in refractory primary immune thrombocytopenia: Literature review and case series. Ther Adv Hematol. 2026. PMID: 42620825.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42620825/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1008",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Infected Necrotizing Pancreatitis Minimally Invasive Step-Up Drainage",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man is hospitalized for severe acute gallstone pancreatitis. On admission, contrast-enhanced CT of the abdomen demonstrated extensive necrotizing pancreatitis involving >50% of the pancreatic parenchyma with peripancreatic fluid collections. He was managed in the ICU with intravenous fluid resuscitation and enteral nutrition via a nasojejunal tube. On hospital day 22, he develops new high fevers (temperature 39.2 C), worsening abdominal pain, leukocytosis (WBC 24,500/uL), and tachycardia (heart rate 116/min). Repeat contrast-enhanced CT of the abdomen reveals walled-off pancreatic necrosis with multiple gas bubbles within the retroperitoneal necrotic collection. Blood cultures grow Klebsiella pneumoniae. He is initiated on intravenous meropenem. Which of the following is the most appropriate next step in the management of this patient's infected necrosis?",
+    "options": [
+      {
+        "text": "Emergency open surgical exploratory laparotomy with blunt manual necrosectomy and wide debridement",
+        "correct": false,
+        "explanation": "Immediate open necrosectomy carries high morbidity (postoperative organ failure, fistulae) and significantly higher mortality than the minimally invasive step-up approach."
+      },
+      {
+        "text": "Immediate therapeutic endoscopic retrograde cholangiopancreatography (ERCP) with sphincterotomy",
+        "correct": false,
+        "explanation": "ERCP is indicated for acute gallstone pancreatitis complicated by concurrent acute cholangitis or persistent biliary obstruction, not for walled-off infected retroperitoneal necrosis."
+      },
+      {
+        "text": "Percutaneous catheter drainage or endoscopic transmural drainage as part of a step-up approach",
+        "correct": true,
+        "explanation": "This patient has INFECTED PANCREATIC NECROSIS, evidenced by clinical sepsis >2 weeks after onset of severe acute pancreatitis and the pathognomonic finding of RETROPERITONEAL EXTRAMURAL GAS BUBBLES within the necrotic collection on contrast CT. Over the past decade, high-quality randomized clinical trials (the PANTER trial and subsequent guidelines) established the MINIMALLY INVASIVE 'STEP-UP APPROACH' as the standard of care for infected necrosis, replacing traditional open surgical necrosectomy. The step-up approach begins with MINIMALLY INVASIVE DRAINAGE (either percutaneous catheter drainage or endoscopic transluminal ultrasound-guided cystogastrostomy). Drainage alone resolves infection and sepsis without requiring surgical debridement in up to 35-50% of patients. If clinical improvement does not occur within 72 hours, the next step is minimally invasive retroperitoneal necrosectomy (VARD). This strategy dramatically reduces new-onset multiorgan failure and mortality."
+      },
+      {
+        "text": "Continuing intravenous antibiotics alone without any drainage procedure for 6 weeks",
+        "correct": false,
+        "explanation": "Antibiotics alone cannot adequately penetrate or sterilize large walled-off fluid and solid necrotic debris; source control via mechanical drainage is mandatory."
+      },
+      {
+        "text": "CT-guided fine-needle aspiration of the collection for Gram stain and culture before considering drainage",
+        "correct": false,
+        "explanation": "Gas bubbles on CT in a septic patient are diagnostic of infected necrosis; routine diagnostic FNA is unnecessary and delays definitive therapeutic drainage."
+      }
+    ],
+    "explanation": "This patient has INFECTED PANCREATIC NECROSIS, evidenced by clinical sepsis >2 weeks after onset of severe acute pancreatitis and the pathognomonic finding of RETROPERITONEAL EXTRAMURAL GAS BUBBLES within the necrotic collection on contrast CT. Over the past decade, high-quality randomized clinical trials (the PANTER trial and subsequent guidelines) established the MINIMALLY INVASIVE 'STEP-UP APPROACH' as the standard of care for infected necrosis, replacing traditional open surgical necrosectomy. The step-up approach begins with MINIMALLY INVASIVE DRAINAGE (either percutaneous catheter drainage or endoscopic transluminal ultrasound-guided cystogastrostomy). Drainage alone resolves infection and sepsis without requiring surgical debridement in up to 35-50% of patients. If clinical improvement does not occur within 72 hours, the next step is minimally invasive retroperitoneal necrosectomy (VARD). This strategy dramatically reduces new-onset multiorgan failure and mortality. Infected pancreatic necrosis (gas on CT >3 weeks post-onset) = Minimally invasive step-up approach (percutaneous/endoscopic drainage first).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Infected Necrotizing Pancreatitis Minimally Invasive Step-Up Drainage.",
+    "keyPoints": [
+      "Infected Necrotizing Pancreatitis Minimally Invasive Step-Up Drainage",
+      "Infected pancreatic necrosis (gas on CT >3 weeks post-onset) = Minimally invasive step-up approach (percutaneous/endoscopic drainage first)."
+    ],
+    "references": [
+      {
+        "label": "Zuo Q. Robot-assisted pancreatic necrosectomy for infected pancreatic necrosis secondary to severe acute pancreatitis: a single-center retrospective cohort study. J Robot Surg. 2026 Aug 31. PMID: 42671732.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42671732/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1009",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Postpartum Hemorrhage Uterine Atony Intrauterine Balloon Tamponade",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 32-year-old primigravida delivered a healthy 4,200-g (9 lb 4 oz) male infant via spontaneous vaginal delivery 30 minutes ago following an uncomplicated labor augmented with oxytocin. The placenta delivered intact with three umbilical vessels. Fifteen minutes after delivery, the nurse notes brisk continuous vaginal bleeding and multiple large blood clots. Vital signs: blood pressure 92/58 mm Hg, heart rate 118/min. Physical examination reveals a soft, boggy, poorly contracted uterus with the fundus palpable 3 cm above the umbilicus. Continuous bimanual uterine massage is initiated. Despite high-dose intravenous oxytocin infusion (40 units in 1,000 mL normal saline), intramuscular methylergonovine 0.2 mg, rectal misoprostol 800 ug, and intramuscular carboprost 0.25 mg, heavy uterine hemorrhage persists with an estimated blood loss of 1,400 mL. Pelvic examination confirms absence of cervical or vaginal lacerations. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Immediate emergency emergent total abdominal hysterectomy",
+        "correct": false,
+        "explanation": "Emergency hysterectomy is the definitive treatment of absolute last resort; uterine balloon tamponade and compression sutures must be attempted first."
+      },
+      {
+        "text": "Administration of intravenous desmopressin (DDAVP) to stimulate factor VIII release",
+        "correct": false,
+        "explanation": "DDAVP is indicated for von Willebrand disease and mild hemophilia A; it has no role in mechanical uterine atony in patients with normal baseline coagulation."
+      },
+      {
+        "text": "Surgical exploration of the perineum for occult retroperitoneal hematoma",
+        "correct": false,
+        "explanation": "Physical exam confirmed uterine atony (boggy uterus above umbilicus) without perineal lacerations; pelvic exploration does not address uterine atony."
+      },
+      {
+        "text": "Placement of an intrauterine balloon tamponade (Bakri balloon)",
+        "correct": true,
+        "explanation": "POSTPARTUM HEMORRHAGE (PPH) is defined as cumulative blood loss >= 1,000 mL or blood loss accompanied by symptoms of hypovolemia within 24 hours of delivery. The most common etiology is UTERINE ATONY (accounting for 70-80% of cases), with risk factors including fetal macrosomia (>4,000 g), prolonged labor, and oxytocin augmentation. When uterine atony is REFRACTORY TO BIMANUAL MASSAGE AND MULTIMODAL FIRST-LINE UTEROTONICS (oxytocin, methylergonovine, carboprost, misoprostol), the immediate next step is INTRAUTERINE BALLOON TAMPONADE (e.g., Bakri balloon). The balloon is inserted into the uterine cavity and filled with sterile saline (typically 300-500 mL) to generate inward-to-outward hydrostatic pressure against the uterine wall and spiral arteries, arresting hemorrhage in 85% of cases and avoiding invasive laparotomy. If balloon tamponade fails, the patient proceeds to surgical interventions (uterine compression sutures like B-Lynch, uterine artery embolization, or hysterectomy)."
+      },
+      {
+        "text": "Withholding all interventions and waiting 30 minutes for endogenous clotting to occur",
+        "correct": false,
+        "explanation": "Delaying intervention in active ongoing hemorrhage with shock (BP 92/58, HR 118) leads to rapid consumptive coagulopathy, multiorgan failure, and maternal death."
+      }
+    ],
+    "explanation": "POSTPARTUM HEMORRHAGE (PPH) is defined as cumulative blood loss >= 1,000 mL or blood loss accompanied by symptoms of hypovolemia within 24 hours of delivery. The most common etiology is UTERINE ATONY (accounting for 70-80% of cases), with risk factors including fetal macrosomia (>4,000 g), prolonged labor, and oxytocin augmentation. When uterine atony is REFRACTORY TO BIMANUAL MASSAGE AND MULTIMODAL FIRST-LINE UTEROTONICS (oxytocin, methylergonovine, carboprost, misoprostol), the immediate next step is INTRAUTERINE BALLOON TAMPONADE (e.g., Bakri balloon). The balloon is inserted into the uterine cavity and filled with sterile saline (typically 300-500 mL) to generate inward-to-outward hydrostatic pressure against the uterine wall and spiral arteries, arresting hemorrhage in 85% of cases and avoiding invasive laparotomy. If balloon tamponade fails, the patient proceeds to surgical interventions (uterine compression sutures like B-Lynch, uterine artery embolization, or hysterectomy). Postpartum hemorrhage from uterine atony refractory to medical uterotonics = Intrauterine balloon tamponade (Bakri balloon).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Postpartum Hemorrhage Uterine Atony Intrauterine Balloon Tamponade.",
+    "keyPoints": [
+      "Postpartum Hemorrhage Uterine Atony Intrauterine Balloon Tamponade",
+      "Postpartum hemorrhage from uterine atony refractory to medical uterotonics = Intrauterine balloon tamponade (Bakri balloon)."
+    ],
+    "references": [
+      {
+        "label": "Basurte MC. Improving Obstetric Safety in Postpartum Hemorrhage: Impact of Protocol-Based Conservative Management. Life (Basel). 2026 Jun 19. PMID: 42355556.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42355556/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1010",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "Kawasaki Disease Refractory to Initial IVIG Treatment Escalation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 3-year-old boy is hospitalized with Kawasaki disease. At the time of admission, he met full diagnostic criteria with 6 days of high fever, bilateral non-exudative bulbar conjunctival injection, cracked red lips, strawberry tongue, polymorphous macular trunk rash, and induration of both hands. He was treated with standard first-line therapy: high-dose intravenous immunoglobulin (IVIG, 2 g/kg as a single 12-hour infusion) and high-dose oral aspirin (80 mg/kg/day). Thirty-six hours after the completion of the IVIG infusion, the child remains irritable and his temperature spikes to 39.4 C (102.9 F). Physical examination reveals persistent conjunctival injection and worsening cervical lymphadenopathy. Laboratory studies show: ESR 88 mm/hr, CRP 68 mg/L, and platelet count 520,000/uL. Echocardiogram demonstrates normal coronary arteries without ectasia or aneurysm. Which of the following is the most appropriate management for this patient's condition?",
+    "options": [
+      {
+        "text": "Immediate cessation of aspirin and initiation of broad-spectrum antibiotics with intravenous vancomycin",
+        "correct": false,
+        "explanation": "Kawasaki disease is an immune-mediated vasculitis, not a bacterial infection; discontinuing aspirin and giving antibiotics fails to treat vasculitis and increases coronary risk."
+      },
+      {
+        "text": "Increasing oral aspirin to 150 mg/kg/day as monotherapy without further immunomodulation",
+        "correct": false,
+        "explanation": "Increasing aspirin beyond standard anti-inflammatory doses (80-100 mg/kg/day) provides no additional vasculitic control and dramatically increases salicylate hepatotoxicity."
+      },
+      {
+        "text": "Administration of intramuscular methotrexate with maintenance oral colchicine",
+        "correct": false,
+        "explanation": "Methotrexate and colchicine are used for chronic adult rheumatic conditions; they are not indicated or effective for acute refractory Kawasaki disease."
+      },
+      {
+        "text": "Observation without further therapy since coronary arteries are normal on baseline echocardiogram",
+        "correct": false,
+        "explanation": "Normal baseline echocardiography does not preclude aneurysm formation; untreated persistent inflammation causes aneurysm development in 25% of cases within 2-4 weeks."
+      },
+      {
+        "text": "Administration of a second dose of intravenous immunoglobulin (2 g/kg) or adjunct infliximab",
+        "correct": true,
+        "explanation": "Approximately 10-20% of children with Kawasaki disease exhibit IVIG RESISTANCE (REFRACTORY KAWASAKI DISEASE), defined by the persistence or recrudescence of fever (temperature >= 38.0 C) at least 36 hours after completion of the initial IVIG infusion. IVIG resistance is a major risk factor for the development of CORONARY ARTERY ANEURYSMS due to ongoing systemic medium-vessel vasculitis. According to the American Heart Association (AHA) guidelines, the standard first-line management for IVIG-resistant Kawasaki disease is ADMINISTRATION OF A SECOND DOSE OF IVIG (2 g/kg). Alternatively, adjunctive therapy with a TNF-alpha inhibitor (INFLIXIMAB, 5 mg/kg) or a course of high-dose intravenous methylprednisolone pulse therapy is highly effective in terminating vascular inflammation and reducing coronary aneurysm risks."
+      }
+    ],
+    "explanation": "Approximately 10-20% of children with Kawasaki disease exhibit IVIG RESISTANCE (REFRACTORY KAWASAKI DISEASE), defined by the persistence or recrudescence of fever (temperature >= 38.0 C) at least 36 hours after completion of the initial IVIG infusion. IVIG resistance is a major risk factor for the development of CORONARY ARTERY ANEURYSMS due to ongoing systemic medium-vessel vasculitis. According to the American Heart Association (AHA) guidelines, the standard first-line management for IVIG-resistant Kawasaki disease is ADMINISTRATION OF A SECOND DOSE OF IVIG (2 g/kg). Alternatively, adjunctive therapy with a TNF-alpha inhibitor (INFLIXIMAB, 5 mg/kg) or a course of high-dose intravenous methylprednisolone pulse therapy is highly effective in terminating vascular inflammation and reducing coronary aneurysm risks. Persistent fever 36h after IVIG in Kawasaki disease = Second dose of IVIG (2 g/kg) or adjunct infliximab.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Kawasaki Disease Refractory to Initial IVIG Treatment Escalation.",
+    "keyPoints": [
+      "Kawasaki Disease Refractory to Initial IVIG Treatment Escalation",
+      "Persistent fever 36h after IVIG in Kawasaki disease = Second dose of IVIG (2 g/kg) or adjunct infliximab."
+    ],
+    "references": [
+      {
+        "label": "McCrindle BW. Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease: A Scientific Statement for Health Professionals From the American Heart Association. Circulation. 2017 Apr 25. PMID: 28356445.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28356445/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1011",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Tension Pneumothorax Immediate Decompression and Tube Thoracostomy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man is brought to the trauma center by emergency medical services following a high-speed motor vehicle collision in which his vehicle struck a concrete abutment. On arrival, he is in severe respiratory distress, cyanotic, and agitated. Vital signs: blood pressure 72/44 mm Hg, heart rate 142/min, respiratory rate 38/min, oxygen saturation 78% on a non-rebreather mask. Physical examination reveals distended neck veins (elevated jugular venous pressure), prominent subcutaneous emphysema over the right chest wall, absence of breath sounds over the entire right hemithorax, hyperresonance to percussion over the right chest, and visible deviation of the trachea to the left. The patient's blood pressure drops to 64/38 mm Hg while on the trauma stretcher. Which of the following is the most appropriate immediate action?",
+    "options": [
+      {
+        "text": "Immediate needle decompression or finger thoracostomy of the right chest followed by chest tube placement",
+        "correct": true,
+        "explanation": "This patient has a life-threatening TENSION PNEUMOTHORAX of the right hemithorax. A one-way valve mechanism allows air to enter the pleural space during inspiration without escaping during expiration, resulting in progressive intrapleural air accumulation and massively elevated intrathoracic pressure. This leads to: (1) Complete ipsilateral lung collapse; (2) Contralateral mediastinal and TRACHEAL SHIFT (to the left); (3) Compression of the superior and inferior vena cava and right atrium, severely impairing venous return (preload) and causing profound OBSTRUCTIVE SHOCK (hypotension, tachycardia, distended neck veins). Tension pneumothorax is a STRICTLY CLINICAL DIAGNOSIS. In an unstable patient, IMMEDIATE DECOMPRESSION must be performed without waiting for imaging: either NEEDLE DECOMPRESSION (14-gauge catheter at the 2nd intercostal space midclavicular line or 4th/5th intercostal space anterior axillary line) or FINGER THORACOSTOMY, immediately followed by FORMAL TUBE THORACOSTOMY (chest tube insertion)."
+      },
+      {
+        "text": "Immediate portable anteroposterior chest radiography in the trauma resuscitation bay",
+        "correct": false,
+        "explanation": "Delaying decompression to obtain diagnostic chest radiography in a decompensating, severely hypotensive trauma patient frequently precipitates cardiac arrest."
+      },
+      {
+        "text": "Immediate endotracheal intubation with high-pressure positive-pressure mechanical ventilation",
+        "correct": false,
+        "explanation": "Positive-pressure ventilation before decompressing a tension pneumothorax forces more air into the pleural space, accelerating cardiovascular collapse and death."
+      },
+      {
+        "text": "Emergency pericardiocentesis under subxiphoid ultrasound guidance for suspected cardiac tamponade",
+        "correct": false,
+        "explanation": "Pericardiocentesis treats tamponade; this patient has classic unilateral absent breath sounds and hyperresonance indicating tension pneumothorax, not tamponade."
+      },
+      {
+        "text": "Immediate administration of intravenous broad-spectrum vasopressors via central venous line",
+        "correct": false,
+        "explanation": "Vasopressors do not correct the mechanical obstruction to vena caval inflow; immediate pleural decompression is the definitive treatment for obstructive shock."
+      }
+    ],
+    "explanation": "This patient has a life-threatening TENSION PNEUMOTHORAX of the right hemithorax. A one-way valve mechanism allows air to enter the pleural space during inspiration without escaping during expiration, resulting in progressive intrapleural air accumulation and massively elevated intrathoracic pressure. This leads to: (1) Complete ipsilateral lung collapse; (2) Contralateral mediastinal and TRACHEAL SHIFT (to the left); (3) Compression of the superior and inferior vena cava and right atrium, severely impairing venous return (preload) and causing profound OBSTRUCTIVE SHOCK (hypotension, tachycardia, distended neck veins). Tension pneumothorax is a STRICTLY CLINICAL DIAGNOSIS. In an unstable patient, IMMEDIATE DECOMPRESSION must be performed without waiting for imaging: either NEEDLE DECOMPRESSION (14-gauge catheter at the 2nd intercostal space midclavicular line or 4th/5th intercostal space anterior axillary line) or FINGER THORACOSTOMY, immediately followed by FORMAL TUBE THORACOSTOMY (chest tube insertion). Trauma + shock + absent breath sounds + hyperresonance + tracheal deviation = Immediate needle decompression / tube thoracostomy.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Tension Pneumothorax Immediate Decompression and Tube Thoracostomy.",
+    "keyPoints": [
+      "Tension Pneumothorax Immediate Decompression and Tube Thoracostomy",
+      "Trauma + shock + absent breath sounds + hyperresonance + tracheal deviation = Immediate needle decompression / tube thoracostomy."
+    ],
+    "references": [
+      {
+        "label": "Ausman JA. Comparison of Needle Decompression to Simple (Finger) Thoracostomy in Non-Perfused Cadaveric Models with Theoretical Tension Pneumothorax. Prehosp Emerg Care. 2026. PMID: 42054269.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42054269/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1012",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Neuroleptic Malignant Syndrome Severe Lead-Pipe Rigidity Dantrolene",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 38-year-old man with treatment-resistant schizophrenia is brought to the emergency department by his family because of extreme lethargy, confusion, and high fever over the past 24 hours. Four days ago, his outpatient psychiatrist increased his haloperidol dose and added intramuscular haloperidol decanoate for worsening psychotic agitation. Vital signs: temperature 40.1 C (104.2 F), blood pressure 178/104 mm Hg, heart rate 128/min, respiratory rate 24/min. Physical examination reveals a stuporous, diaphoresis-soaked man with extreme, generalized 'lead-pipe' muscle rigidity in all four extremities. Reflexes are 1+ bilaterally with no ankle clonus or ocular tremor. Laboratory evaluation shows: white blood cell count 18,200/uL, serum creatinine 2.4 mg/dL (baseline 0.9 mg/dL), and serum creatine kinase (CK) 34,000 U/L (reference: 30-200 U/L). Urinalysis is positive for blood by dipstick but contains only 0-2 RBCs per high-power field (myoglobinuria). In addition to aggressive cooling and intravenous hydration, which of the following is the most appropriate pharmacotherapy?",
+    "options": [
+      {
+        "text": "Intravenous cyproheptadine",
+        "correct": false,
+        "explanation": "Cyproheptadine is a 5-HT2A serotonin antagonist used specifically for moderate-to-severe serotonin syndrome (hyperreflexia, clonus), not dopamine-antagonist NMS."
+      },
+      {
+        "text": "Intravenous dantrolene or oral bromocriptine",
+        "correct": true,
+        "explanation": "This patient presents with NEUROLEPTIC MALIGNANT SYNDROME (NMS), a life-threatening idiosyncratic reaction to dopamine receptor antagonists (most frequently high-potency typical antipsychotics like haloperidol). NMS is driven by central dopamine D2 receptor blockade in the hypothalamus and basal ganglia. The classic clinical tetrad consists of: (1) HYPERTHERMIA (often >40 C); (2) SEVERE 'LEAD-PIPE' MUSCLE RIGIDITY; (3) AUTONOMIC INSTABILITY (tachycardia, labile hypertension, diaphoresis); and (4) ALTERED MENTAL STATUS (encephalopathy). Massive muscle breakdown produces marked CREATINE KINASE ELEVATION (>10,000-50,000 U/L) and rhabdomyolysis-induced acute tubular necrosis (dipstick-positive blood without RBCs). Treatment requires immediate cessation of causative antipsychotics, intensive supportive care (aggressive cooling, IV hydration), and targeted pharmacotherapy: DANTROLENE (a direct ryanodine receptor blocker preventing sarcoplasmic calcium release) or BROMOCRIPTINE (a central dopamine D2 receptor agonist)."
+      },
+      {
+        "text": "Intramuscular flumazenil",
+        "correct": false,
+        "explanation": "Flumazenil is a benzodiazepine antagonist that can precipitate acute withdrawal seizures; it has no therapeutic efficacy in NMS."
+      },
+      {
+        "text": "High-dose intravenous methylprednisolone pulse therapy",
+        "correct": false,
+        "explanation": "Corticosteroids are indicated for autoimmune or vasculitic encephalitis, not for central dopamine D2 blockade in neuroleptic malignant syndrome."
+      },
+      {
+        "text": "Administration of diphenhydramine 50 mg intravenously",
+        "correct": false,
+        "explanation": "Diphenhydramine is an anticholinergic used for acute dystonic reactions; it does not reverse the hyperthermia, rhabdomyolysis, or severe rigidity of NMS."
+      }
+    ],
+    "explanation": "This patient presents with NEUROLEPTIC MALIGNANT SYNDROME (NMS), a life-threatening idiosyncratic reaction to dopamine receptor antagonists (most frequently high-potency typical antipsychotics like haloperidol). NMS is driven by central dopamine D2 receptor blockade in the hypothalamus and basal ganglia. The classic clinical tetrad consists of: (1) HYPERTHERMIA (often >40 C); (2) SEVERE 'LEAD-PIPE' MUSCLE RIGIDITY; (3) AUTONOMIC INSTABILITY (tachycardia, labile hypertension, diaphoresis); and (4) ALTERED MENTAL STATUS (encephalopathy). Massive muscle breakdown produces marked CREATINE KINASE ELEVATION (>10,000-50,000 U/L) and rhabdomyolysis-induced acute tubular necrosis (dipstick-positive blood without RBCs). Treatment requires immediate cessation of causative antipsychotics, intensive supportive care (aggressive cooling, IV hydration), and targeted pharmacotherapy: DANTROLENE (a direct ryanodine receptor blocker preventing sarcoplasmic calcium release) or BROMOCRIPTINE (a central dopamine D2 receptor agonist). Haloperidol + fever 40C + lead-pipe rigidity + CK 34k = NMS treated with dantrolene or bromocriptine.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Neuroleptic Malignant Syndrome Severe Lead-Pipe Rigidity Dantrolene.",
+    "keyPoints": [
+      "Neuroleptic Malignant Syndrome Severe Lead-Pipe Rigidity Dantrolene",
+      "Haloperidol + fever 40C + lead-pipe rigidity + CK 34k = NMS treated with dantrolene or bromocriptine."
+    ],
+    "references": [
+      {
+        "label": "Ivarola P. [Neuroleptic Malignant Syndrome]. Medicina (B Aires). 2026 Aug. PMID: 42659566.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42659566/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1013",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Thyroid Storm Burch-Wartofsky Multimodal Sequential Medical Therapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old woman with a history of Graves disease who discontinued her methimazole 3 months ago is brought to the emergency department with severe agitation, profuse sweating, vomiting, and diarrhea. She developed a high fever and productive cough 2 days ago. Vital signs: temperature 40.3 C (104.5 F), blood pressure 168/76 mm Hg, heart rate 158/min (irregularly irregular, consistent with atrial fibrillation), respiratory rate 28/min. Physical examination reveals an extremely delirious woman with marked proptosis, diffuse goiter with an audible vascular bruit, and fine hand tremors. Chest radiography demonstrates right lower lobe consolidation. Laboratory studies reveal: TSH <0.01 uIU/mL, free T4 5.8 ng/dL (reference: 0.8-1.8 ng/dL), and free T3 18.2 pg/mL (reference: 2.3-4.2 pg/mL). Her Burch-Wartofsky Point Scale score is 70 (diagnostic of thyroid storm). Which of the following represents the correct sequential multi-agent pharmacotherapy for this patient?",
+    "options": [
+      {
+        "text": "Immediate oral potassium iodide administration followed 2 hours later by intravenous methimazole",
+        "correct": false,
+        "explanation": "Administering iodine before thionamides provides substrate for massive new thyroid hormone synthesis, drastically exacerbating life-threatening thyrotoxicosis."
+      },
+      {
+        "text": "Monotherapy with high-dose intravenous levothyroxine to saturate systemic thyroid receptors",
+        "correct": false,
+        "explanation": "Levothyroxine is exogenous thyroid hormone and would precipitate fatal cardiovascular collapse in acute thyrotoxicosis."
+      },
+      {
+        "text": "Intravenous propranolol, oral propylthiouracil, inorganic potassium iodide administered 1 hour later, and intravenous hydrocortisone",
+        "correct": true,
+        "explanation": "THYROID STORM is an acute, life-threatening hypermetabolic state triggered by precipitating stressors (e.g., infection, surgery, non-compliance) in patients with thyrotoxicosis. Treatment requires a STRICTLY ORDERED MULTIMODAL REGIMEN: (1) BETA-BLOCKER (e.g., IV propranolol or esmolol) to control hyperadrenergic symptoms and block peripheral T4-to-T3 conversion; (2) THIONAMIDE: PROPYLTHIOURACIL (PTU) is preferred over methimazole in thyroid storm because PTU inhibits new hormone synthesis via thyroid peroxidase AND blocks peripheral conversion of T4 to active T3; (3) INORGANIC IODINE (potassium iodide or Lugol solution) to block hormone release via the Wolff-Chaikoff effect, but CRITICALLY, IODINE MUST BE DELAYED BY AT LEAST 1 HOUR AFTER THIONAMIDE ADMINISTRATION to prevent the iodine from serving as new substrate for accelerated thyroid hormone synthesis (the Jod-Basedow phenomenon); and (4) GLUCOCORTICOIDS (IV hydrocortisone) to reduce peripheral conversion of T4 to T3 and protect against relative adrenal insufficiency."
+      },
+      {
+        "text": "Immediate emergency total thyroidectomy within 6 hours of hospital presentation",
+        "correct": false,
+        "explanation": "Emergency surgery in unblocked thyroid storm carries catastrophic intraoperative mortality; patients must be pharmacologically rendered euthyroid prior to surgery."
+      },
+      {
+        "text": "Intravenous amiodarone infusion to treat atrial fibrillation and suppress thyroid secretion",
+        "correct": false,
+        "explanation": "Amiodarone contains large amounts of organic iodine that worsens thyrotoxicosis in Graves disease and can trigger fatal cardiovascular collapse."
+      }
+    ],
+    "explanation": "THYROID STORM is an acute, life-threatening hypermetabolic state triggered by precipitating stressors (e.g., infection, surgery, non-compliance) in patients with thyrotoxicosis. Treatment requires a STRICTLY ORDERED MULTIMODAL REGIMEN: (1) BETA-BLOCKER (e.g., IV propranolol or esmolol) to control hyperadrenergic symptoms and block peripheral T4-to-T3 conversion; (2) THIONAMIDE: PROPYLTHIOURACIL (PTU) is preferred over methimazole in thyroid storm because PTU inhibits new hormone synthesis via thyroid peroxidase AND blocks peripheral conversion of T4 to active T3; (3) INORGANIC IODINE (potassium iodide or Lugol solution) to block hormone release via the Wolff-Chaikoff effect, but CRITICALLY, IODINE MUST BE DELAYED BY AT LEAST 1 HOUR AFTER THIONAMIDE ADMINISTRATION to prevent the iodine from serving as new substrate for accelerated thyroid hormone synthesis (the Jod-Basedow phenomenon); and (4) GLUCOCORTICOIDS (IV hydrocortisone) to reduce peripheral conversion of T4 to T3 and protect against relative adrenal insufficiency. Thyroid storm = Sequential therapy: Propranolol + PTU + Potassium iodide (delayed 1h) + Hydrocortisone.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Thyroid Storm Burch-Wartofsky Multimodal Sequential Medical Therapy.",
+    "keyPoints": [
+      "Thyroid Storm Burch-Wartofsky Multimodal Sequential Medical Therapy",
+      "Thyroid storm = Sequential therapy: Propranolol + PTU + Potassium iodide (delayed 1h) + Hydrocortisone."
+    ],
+    "references": [
+      {
+        "label": "Zhang L. [Successful treatment of myocardial infarction complicated with thyroid crisis using extracorporeal membrane oxygenation: a case report and literature review]. Zhonghua Wei Zhong Bing Ji Jiu Yi Xue. 2026 Sep. PMID: 42875246.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42875246/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1014",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Ectopic Pregnancy Single-Dose Methotrexate Selection Criteria",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 27-year-old woman, gravida 2 para 1, presents to the early pregnancy assessment clinic with 4 days of intermittent light vaginal spotting and mild dull left lower quadrant aching. Her last menstrual period was 6 weeks ago. Vital signs: blood pressure 124/76 mm Hg, heart rate 74/min. Physical examination reveals mild tenderness in the left adnexa without peritoneal signs, rebound, or cervical motion tenderness. Quantitative serum beta-hCG is 2,400 mIU/mL. Transvaginal ultrasonography reveals an empty uterine cavity with a thickened endometrial stripe (11 mm), a normal right ovary, and a well-circumscribed, non-cystic, 2.6-cm ectopic gestational mass in the left ampulla without cardiac activity or yolk sac. There is no free fluid in the pouch of Douglas. Complete blood count, serum creatinine, and liver transaminases are entirely normal. The patient desires to preserve fertility. Which of the following is the most appropriate management?",
+    "options": [
+      {
+        "text": "Immediate exploratory laparoscopy with left total salpingectomy",
+        "correct": false,
+        "explanation": "Salpingectomy is definitive surgical management indicated for ruptured ectopic pregnancy, hemodynamic instability, or mass >3.5 cm, but is unnecessary for eligible medical candidates."
+      },
+      {
+        "text": "Dilation and curettage to evacuate presumed abnormal intrauterine pregnancy",
+        "correct": false,
+        "explanation": "Dilation and curettage is appropriate when distinguishing miscarriage from ectopic in non-visualized pregnancies, but transvaginal ultrasound already confirmed an adnexal ectopic mass."
+      },
+      {
+        "text": "Oral mifepristone 200 mg followed 24 hours later by oral misoprostol 800 ug",
+        "correct": false,
+        "explanation": "Mifepristone plus misoprostol is indicated for medical abortion of confirmed intrauterine pregnancies, but is entirely ineffective for tubal ectopic pregnancies."
+      },
+      {
+        "text": "Intramuscular single-dose methotrexate with quantitative beta-hCG monitoring on days 4 and 7",
+        "correct": true,
+        "explanation": "This patient has an UNRUPTURED TUBAL ECTOPIC PREGNANCY. Medical management with intramuscular METHOTREXATE (a folate antagonist that inhibits dihydrofolate reductase and arrests rapidly dividing trophoblastic tissue) is a safe, effective, fertility-sparing alternative to surgery in selected candidates. Key eligibility criteria for methotrexate therapy include: (1) HEMODYNAMIC STABILITY with minimal abdominal pain; (2) PRE-TREATMENT SERUM BETA-HCG < 5,000 mIU/mL (this patient is 2,400 mIU/mL); (3) GESTATIONAL MASS DIAMETER < 3.5 cm (patient is 2.6 cm); (4) ABSENCE OF EMBRYONIC CARDIAC ACTIVITY; and (5) Normal renal and hepatic function, with guaranteed patient compliance for outpatient follow-up. Protocol requires measuring serum beta-hCG on DAY 4 AND DAY 7; a decline >= 15% between days 4 and 7 indicates successful medical treatment. Surgical salpingostomy/salpingectomy is reserved for ruptured ectopic, hemodynamic instability, or methotrexate contraindications."
+      },
+      {
+        "text": "Expectant management with repeat serum beta-hCG measurement in 1 week",
+        "correct": false,
+        "explanation": "Expectant management is only considered for asymptomatic patients with very low, spontaneously declining beta-hCG levels (<1,000 mIU/mL); beta-hCG of 2,400 requires active treatment."
+      }
+    ],
+    "explanation": "This patient has an UNRUPTURED TUBAL ECTOPIC PREGNANCY. Medical management with intramuscular METHOTREXATE (a folate antagonist that inhibits dihydrofolate reductase and arrests rapidly dividing trophoblastic tissue) is a safe, effective, fertility-sparing alternative to surgery in selected candidates. Key eligibility criteria for methotrexate therapy include: (1) HEMODYNAMIC STABILITY with minimal abdominal pain; (2) PRE-TREATMENT SERUM BETA-HCG < 5,000 mIU/mL (this patient is 2,400 mIU/mL); (3) GESTATIONAL MASS DIAMETER < 3.5 cm (patient is 2.6 cm); (4) ABSENCE OF EMBRYONIC CARDIAC ACTIVITY; and (5) Normal renal and hepatic function, with guaranteed patient compliance for outpatient follow-up. Protocol requires measuring serum beta-hCG on DAY 4 AND DAY 7; a decline >= 15% between days 4 and 7 indicates successful medical treatment. Surgical salpingostomy/salpingectomy is reserved for ruptured ectopic, hemodynamic instability, or methotrexate contraindications. Unruptured ectopic (mass <3.5 cm, hCG <5000, no cardiac activity, stable) = Single-dose IM methotrexate.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Ectopic Pregnancy Single-Dose Methotrexate Selection Criteria.",
+    "keyPoints": [
+      "Ectopic Pregnancy Single-Dose Methotrexate Selection Criteria",
+      "Unruptured ectopic (mass <3.5 cm, hCG <5000, no cardiac activity, stable) = Single-dose IM methotrexate."
+    ],
+    "references": [
+      {
+        "label": "Mammadov R. Letrozole in ectopic pregnancy: exploring a promising frontier in non-surgical therapy - a narrative review. Ginekol Pol. 2026. PMID: 42663163.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42663163/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1015",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Septic Shock Fluid-Refractory Hypotension Norepinephrine Vasopressin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 66-year-old man with diabetes mellitus is admitted to the intensive care unit with septic shock secondary to acute pyelonephritis. Over the past 2 hours, he has received 30 mL/kg of intravenous balanced crystalloid fluids (total 2,500 mL) and broad-spectrum antibiotics. Despite adequate volume loading, his arterial blood pressure is 78/44 mm Hg with a mean arterial pressure (MAP) of 55 mm Hg. Heart rate is 114/min, and central venous oxygen saturation (ScvO2) is 62%. Physical examination reveals warm, flushed extremities with brisk capillary refill (<1 second). Bedside echocardiography demonstrates a hyperdynamic left ventricle with complete systolic cavity obliteration and a collapsing inferior vena cava. Serum lactate has increased from 2.8 mmol/L to 4.2 mmol/L. Which of the following is the most appropriate first-line vasopressor to restore systemic perfusion pressure in this patient?",
+    "options": [
+      {
+        "text": "Dopamine infusion titrated to achieve a renal-dose dopaminergic effect",
+        "correct": false,
+        "explanation": "Dopamine is associated with significantly higher rates of tachyarrhythmias and increased mortality compared to norepinephrine in septic shock; renal-dose dopamine is ineffective."
+      },
+      {
+        "text": "Phenylephrine infusion as pure alpha-1 vasoconstrictor monotherapy",
+        "correct": false,
+        "explanation": "Phenylephrine causes pure vasoconstriction and reflex bradycardia, which decreases stroke volume and cardiac index; it is reserved only for severe tachyarrhythmias."
+      },
+      {
+        "text": "Epinephrine infusion as first-line single agent before attempting norepinephrine",
+        "correct": false,
+        "explanation": "Epinephrine is recommended only as an add-on agent when norepinephrine and vasopressin are insufficient, as it causes excessive tachycardia and lactic acidosis."
+      },
+      {
+        "text": "Dobutamine monotherapy titrated to optimize left ventricular contractility",
+        "correct": false,
+        "explanation": "Dobutamine is an inodilator that causes peripheral vasodilation (beta-2) and would worsen profound arterial hypotension in distributive septic shock."
+      },
+      {
+        "text": "Norepinephrine infusion titrated to target a mean arterial pressure of at least 65 mm Hg",
+        "correct": true,
+        "explanation": "The Surviving Sepsis Campaign international guidelines strongly recommend NOREPINEPHRINE AS THE FIRST-LINE VASOPRESSOR OF CHOICE in septic shock. Septic shock is characterized by profound pathologically low systemic vascular resistance (distributive shock) caused by inflammatory endothelial nitric oxide release. Norepinephrine acts as a potent ALPHA-1 ADRENERGIC AGONIST, causing intense arteriolar vasoconstriction to restore vascular tone and increase MAP, combined with modest BETA-1 INOTROPIC STIMULATION that supports cardiac output without causing excessive tachycardia. The recommended target is a MAP >= 65 mm Hg. If MAP remains inadequate despite moderate-to-high doses of norepinephrine (e.g., >0.25 mcg/kg/min), VASOPRESSIN (fixed dose 0.03 units/min) is added as a second-line vasopressor to restore tone and reduce norepinephrine requirements."
+      }
+    ],
+    "explanation": "The Surviving Sepsis Campaign international guidelines strongly recommend NOREPINEPHRINE AS THE FIRST-LINE VASOPRESSOR OF CHOICE in septic shock. Septic shock is characterized by profound pathologically low systemic vascular resistance (distributive shock) caused by inflammatory endothelial nitric oxide release. Norepinephrine acts as a potent ALPHA-1 ADRENERGIC AGONIST, causing intense arteriolar vasoconstriction to restore vascular tone and increase MAP, combined with modest BETA-1 INOTROPIC STIMULATION that supports cardiac output without causing excessive tachycardia. The recommended target is a MAP >= 65 mm Hg. If MAP remains inadequate despite moderate-to-high doses of norepinephrine (e.g., >0.25 mcg/kg/min), VASOPRESSIN (fixed dose 0.03 units/min) is added as a second-line vasopressor to restore tone and reduce norepinephrine requirements. Septic shock refractory to crystalloids (MAP <65) = Norepinephrine first-line vasopressor targeting MAP >=65.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Septic Shock Fluid-Refractory Hypotension Norepinephrine Vasopressin.",
+    "keyPoints": [
+      "Septic Shock Fluid-Refractory Hypotension Norepinephrine Vasopressin",
+      "Septic shock refractory to crystalloids (MAP <65) = Norepinephrine first-line vasopressor targeting MAP >=65."
+    ],
+    "references": [
+      {
+        "label": "Zhang Y. Severity-stratified vasopressor-escalation strategies in septic shock: a cross-fitted doubly robust analysis with external replication. Front Pharmacol. 2026. PMID: 42565049.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42565049/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1016",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Stevens-Johnson Syndrome Toxic Epidermal Necrolysis SCORTEN Burn ICU",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 42-year-old man presents to the emergency department with a widespread, painful rash, high fever, and severe mouth sores that developed over the past 48 hours. Three weeks ago, he was started on allopurinol for gout. Vital signs: temperature 39.4 C (102.9 F), blood pressure 104/66 mm Hg, heart rate 112/min. Physical examination reveals extensive, dark purpuric macules and atypical targetoid lesions with dusky, necrotic centers involving his face, trunk, and proximal extremities. Flaccid bullae are present, and gentle lateral pressure on unaffected-appearing skin causes the epidermis to slide and separate from the dermis (positive Nikolsky sign). Approximately 22% of his total body surface area exhibits epidermal detachment. There are extensive, hemorrhagic erosions with gray pseudomembranes on his lips, buccal mucosa, and palpebral conjunctiva. Laboratory studies reveal: blood urea nitrogen 34 mg/dL and serum bicarbonate 18 mEq/L. Which of the following is the most critical initial management step?",
+    "options": [
+      {
+        "text": "Immediate discontinuation of allopurinol and urgent transfer to an intensive care burn center",
+        "correct": true,
+        "explanation": "This patient presents with STEVENS-JOHNSON SYNDROME / TOXIC EPIDERMAL NECROLYSIS (SJS/TEN) OVERLAP, a life-threatening, cell-mediated (cytotoxic CD8+ T-cell and NK-cell) cutaneous reaction characterized by extensive keratinocyte apoptosis. SJS involves <10% body surface area (BSA) epidermal detachment, SJS/TEN overlap involves 10-30% BSA detachment (this patient has 22%), and TEN involves >30% BSA detachment. The most common inciting triggers are medications (allopurinol, aromatic anticonvulsants, sulfonamides, NSAIDs). THE SINGLE MOST CRITICAL DETERMINANT OF SURVIVAL IS IMMEDIATE CESSATION OF THE OFFENDING DRUG. Furthermore, patients with extensive epidermal sloughing require URGENT TRANSFER TO A DEDICATED BURN UNIT OR SPECIALIZED ICU. Massive epidermal loss mirrors severe burn injury, causing catastrophic fluid loss, hypothermia, high-output failure, and life-threatening sepsis (most commonly Pseudomonas aeruginosa or S. aureus). SCORTEN score calculates predicted mortality."
+      },
+      {
+        "text": "Initiation of high-dose oral acyclovir for suspected disseminated herpes simplex infection",
+        "correct": false,
+        "explanation": "Acyclovir treats viral infections; SJS/TEN is a drug-induced cytotoxic immune reaction requiring immediate offending drug withdrawal and barrier skin care."
+      },
+      {
+        "text": "Topical application of silver sulfadiazine cream over all denuded areas",
+        "correct": false,
+        "explanation": "Silver sulfadiazine contains a sulfonamide moiety, a frequent trigger of SJS/TEN, and can cause systemic toxicity and impaired re-epithelialization in TEN."
+      },
+      {
+        "text": "Immediate high-dose intravenous immunoglobulin (IVIG) as outpatient clinic therapy",
+        "correct": false,
+        "explanation": "Outpatient management is contraindicated in life-threatening SJS/TEN involving 22% BSA; intensive inpatient barrier care and fluid resuscitation in a burn ICU are mandatory."
+      },
+      {
+        "text": "Full-thickness surgical debridement of all necrotic epidermis in the operating room",
+        "correct": false,
+        "explanation": "Aggressive surgical debridement strips viable basal cells and worsens wound healing; conservative barrier dressings without mechanical shear are standard."
+      }
+    ],
+    "explanation": "This patient presents with STEVENS-JOHNSON SYNDROME / TOXIC EPIDERMAL NECROLYSIS (SJS/TEN) OVERLAP, a life-threatening, cell-mediated (cytotoxic CD8+ T-cell and NK-cell) cutaneous reaction characterized by extensive keratinocyte apoptosis. SJS involves <10% body surface area (BSA) epidermal detachment, SJS/TEN overlap involves 10-30% BSA detachment (this patient has 22%), and TEN involves >30% BSA detachment. The most common inciting triggers are medications (allopurinol, aromatic anticonvulsants, sulfonamides, NSAIDs). THE SINGLE MOST CRITICAL DETERMINANT OF SURVIVAL IS IMMEDIATE CESSATION OF THE OFFENDING DRUG. Furthermore, patients with extensive epidermal sloughing require URGENT TRANSFER TO A DEDICATED BURN UNIT OR SPECIALIZED ICU. Massive epidermal loss mirrors severe burn injury, causing catastrophic fluid loss, hypothermia, high-output failure, and life-threatening sepsis (most commonly Pseudomonas aeruginosa or S. aureus). SCORTEN score calculates predicted mortality. Allopurinol + 22% epidermal detachment + mucosal erosions + Nikolsky positive = Stop drug + transfer to Burn ICU.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Stevens-Johnson Syndrome Toxic Epidermal Necrolysis SCORTEN Burn ICU.",
+    "keyPoints": [
+      "Stevens-Johnson Syndrome Toxic Epidermal Necrolysis SCORTEN Burn ICU",
+      "Allopurinol + 22% epidermal detachment + mucosal erosions + Nikolsky positive = Stop drug + transfer to Burn ICU."
+    ],
+    "references": [
+      {
+        "label": "Alfaro M. SCORTEN in Contrast: Two Cases of SJS/TEN Overlap With Divergent Outcomes Highlighting the Role of Renal Dysfunction. Clin Case Rep. 2026 Sep. PMID: 42698784.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42698784/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1017",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Acute Compartment Syndrome Delta Pressure Measurement Emergency Fasciotomy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 26-year-old motorcyclist is admitted following a collision resulting in a closed, displaced midshaft fracture of the right tibia and fibula. The fracture is temporarily immobilized in a posterior splint, and open reduction and internal fixation is scheduled for the morning. Six hours post-injury, the patient complains of excruciating right lower-leg pain that is progressively worsening despite multiple doses of intravenous morphine. Physical examination reveals a tense, firm, 'wooden' swelling of the right anterior and lateral calf. The patient screams in pain when the examiner passively flexes his toes. Sensation to light touch is diminished in the first dorsal web space of the right foot. Distal pedal pulses (dorsalis pedis and posterior tibial) remain 2+ bilaterally, and the foot is warm with capillary refill <2 seconds. Vital signs: blood pressure 110/70 mm Hg, heart rate 104/min. An intracompartmental pressure monitor inserted into the anterior compartment measures 48 mm Hg. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Elevation of the right leg above the level of the heart with tight compressive elastic wrapping",
+        "correct": false,
+        "explanation": "Elevating the leg decreases arterial inflow pressure, and compressive wraps increase tissue pressure; both accelerate ischemic muscle necrosis."
+      },
+      {
+        "text": "Immediate emergency four-compartment fasciotomy of the right lower leg",
+        "correct": true,
+        "explanation": "This patient has ACUTE COMPARTMENT SYNDROME (ACS) of the right lower leg, a surgical emergency commonly complicating closed tibial fractures. Increased pressure within an inelastic fascial compartment compromises capillary perfusion, leading to muscle ischemia and irreversible tissue necrosis within 4-6 hours. Clinical diagnosis is supported by the '6 Ps', but the EARLIEST AND MOST SENSITIVE CLINICAL SIGN IS PAIN OUT OF PROPORTION TO INJURY and PAIN EXACERBATED BY PASSIVE STRETCH of muscles in that compartment. Sensory deficits (e.g., deep peroneal nerve numbness in the first web space) precede motor deficits. CRITICALLY, PALPABLE PERIPHERAL PULSES DO NOT RULE OUT COMPARTMENT SYNDROME; arterial pulses persist until intracompartmental pressure exceeds systolic pressure. Diagnosis is confirmed by a DELTA PRESSURE (diastolic blood pressure minus compartment pressure) <= 30 mm Hg (here: 70 - 48 = 22 mm Hg). Immediate definitive treatment is EMERGENCY FASCIOTOMY OF ALL FOUR COMPARTMENTS (anterior, lateral, superficial posterior, deep posterior)."
+      },
+      {
+        "text": "Immediate application of a circumferential non-padded fiberglass cast",
+        "correct": false,
+        "explanation": "Circumferential casting constricts the expanding limb and drastically worsens intracompartmental pressure, precipitating rapid gangrene."
+      },
+      {
+        "text": "Administration of intravenous mannitol and continuous therapeutic unfractionated heparin",
+        "correct": false,
+        "explanation": "Anticoagulation can precipitate hematoma expansion within the closed compartment; medical therapies cannot decompress the rigid fascia."
+      },
+      {
+        "text": "Observation with repeat intracompartmental pressure measurements in 6 hours",
+        "correct": false,
+        "explanation": "A delta pressure of 22 mm Hg is diagnostic of tissue-threatening ischemia; delaying surgical decompression by 6 hours causes permanent nerve palsy and Volkmann contracture."
+      }
+    ],
+    "explanation": "This patient has ACUTE COMPARTMENT SYNDROME (ACS) of the right lower leg, a surgical emergency commonly complicating closed tibial fractures. Increased pressure within an inelastic fascial compartment compromises capillary perfusion, leading to muscle ischemia and irreversible tissue necrosis within 4-6 hours. Clinical diagnosis is supported by the '6 Ps', but the EARLIEST AND MOST SENSITIVE CLINICAL SIGN IS PAIN OUT OF PROPORTION TO INJURY and PAIN EXACERBATED BY PASSIVE STRETCH of muscles in that compartment. Sensory deficits (e.g., deep peroneal nerve numbness in the first web space) precede motor deficits. CRITICALLY, PALPABLE PERIPHERAL PULSES DO NOT RULE OUT COMPARTMENT SYNDROME; arterial pulses persist until intracompartmental pressure exceeds systolic pressure. Diagnosis is confirmed by a DELTA PRESSURE (diastolic blood pressure minus compartment pressure) <= 30 mm Hg (here: 70 - 48 = 22 mm Hg). Immediate definitive treatment is EMERGENCY FASCIOTOMY OF ALL FOUR COMPARTMENTS (anterior, lateral, superficial posterior, deep posterior). Tibia fracture + severe pain on passive stretch + delta pressure <=30 mmHg = Emergency four-compartment fasciotomy.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Compartment Syndrome Delta Pressure Measurement Emergency Fasciotomy.",
+    "keyPoints": [
+      "Acute Compartment Syndrome Delta Pressure Measurement Emergency Fasciotomy",
+      "Tibia fracture + severe pain on passive stretch + delta pressure <=30 mmHg = Emergency four-compartment fasciotomy."
+    ],
+    "references": [
+      {
+        "label": "Dasgupta R. Evaluation of Clinical and Venous Blood Parameters as Surrogate Indicators in Assessing the Need for Fasciotomy in Lower Limb Compartment Syndrome. Int J Low Extrem Wounds. 2024 Sep. PMID: 34792424.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34792424/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-1018",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Acute Angle-Closure Glaucoma Medical Decompression Laser Iridotomy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old Asian woman presents to the emergency department with sudden, severe, boring pain in and around her right eye that began 2 hours ago while sitting in a dark movie theater. She is nauseated and has vomited twice. She reports blurred vision and seeing rainbow-colored halos around lights. Physical examination of the right eye reveals intense conjunctival ciliary injection, a cloudy 'steamy' cornea, a shallow anterior chamber, and a mid-dilated (5 mm), vertically oval pupil that is completely non-reactive to light. Tonometry demonstrates an intraocular pressure (IOP) of 58 mm Hg in the right eye (reference: 10-21 mm Hg) and 16 mm Hg in the left eye. Which of the following represents the most appropriate immediate medical management to rapidly lower intraocular pressure?",
+    "options": [
+      {
+        "text": "Topical atropine eye drops administered every 15 minutes to relieve ciliary spasm",
+        "correct": false,
+        "explanation": "Atropine is a potent muscarinic antagonist that produces mydriasis (pupil dilation); it is strictly contraindicated because it precipitates total angle closure."
+      },
+      {
+        "text": "Immediate retrobulbar alcohol injection to block ciliary ganglion sensory transmission",
+        "correct": false,
+        "explanation": "Retrobulbar alcohol is a destructive procedure reserved for blind, painful eyes with end-stage absolute glaucoma, not acute reversible angle closure."
+      },
+      {
+        "text": "Topical timolol, topical apraclonidine, intravenous acetazolamide, followed by topical pilocarpine",
+        "correct": true,
+        "explanation": "This patient presents with ACUTE ANGLE-CLOSURE GLAUCOMA (AACG), an ophthalmologic emergency. In anatomically predisposed eyes (e.g., hyperopia, shallow anterior chamber), pupillary dilation in dim light causes the peripheral iris to bunch against the trabecular meshwork, producing acute pupillary block. Aqueous humor cannot drain through the canal of Schlemm, causing rapid spike in intraocular pressure (>40-60 mm Hg), optic nerve ischemia, and permanent vision loss within hours if untreated. IMMEDIATE MEDICAL THERAPY uses multiple topical and systemic agents to reduce aqueous production and facilitate outflow: (1) TOPICAL TIMOLOL (beta-blocker) and TOPICAL APRACLONIDINE (alpha-2 agonist) to decrease aqueous synthesis; (2) SYSTEMIC ACETAZOLAMIDE (IV carbonic anhydrase inhibitor) to suppress aqueous production; and (3) TOPICAL PILOCARPINE (muscarinic cholinergic agonist) to induce miosis, pulling the peripheral iris away from the trabecular meshwork (typically administered once IOP drops <40 mm Hg and pupillary sphincter ischemia resolves). Definitive curative therapy is BILATERAL LASER PERIPHERAL IRIDOTOMY."
+      },
+      {
+        "text": "Oral prednisone 60 mg daily combined with warm ocular compresses",
+        "correct": false,
+        "explanation": "Corticosteroids are indicated for uveitis or arteritic anterior ischemic optic neuropathy, but do not relieve pupillary block in acute angle-closure glaucoma."
+      },
+      {
+        "text": "Reassurance and discharge home with outpatient ophthalmology follow-up the next morning",
+        "correct": false,
+        "explanation": "Untreated acute angle closure with an IOP of 58 mm Hg causes irreversible ischemic damage to the optic nerve head and blindness within hours."
+      }
+    ],
+    "explanation": "This patient presents with ACUTE ANGLE-CLOSURE GLAUCOMA (AACG), an ophthalmologic emergency. In anatomically predisposed eyes (e.g., hyperopia, shallow anterior chamber), pupillary dilation in dim light causes the peripheral iris to bunch against the trabecular meshwork, producing acute pupillary block. Aqueous humor cannot drain through the canal of Schlemm, causing rapid spike in intraocular pressure (>40-60 mm Hg), optic nerve ischemia, and permanent vision loss within hours if untreated. IMMEDIATE MEDICAL THERAPY uses multiple topical and systemic agents to reduce aqueous production and facilitate outflow: (1) TOPICAL TIMOLOL (beta-blocker) and TOPICAL APRACLONIDINE (alpha-2 agonist) to decrease aqueous synthesis; (2) SYSTEMIC ACETAZOLAMIDE (IV carbonic anhydrase inhibitor) to suppress aqueous production; and (3) TOPICAL PILOCARPINE (muscarinic cholinergic agonist) to induce miosis, pulling the peripheral iris away from the trabecular meshwork (typically administered once IOP drops <40 mm Hg and pupillary sphincter ischemia resolves). Definitive curative therapy is BILATERAL LASER PERIPHERAL IRIDOTOMY. Sudden eye pain + halos + steamy mid-dilated pupil + IOP 58 mmHg = Topical timolol/apraclonidine + IV acetazolamide + pilocarpine.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Angle-Closure Glaucoma Medical Decompression Laser Iridotomy.",
+    "keyPoints": [
+      "Acute Angle-Closure Glaucoma Medical Decompression Laser Iridotomy",
+      "Sudden eye pain + halos + steamy mid-dilated pupil + IOP 58 mmHg = Topical timolol/apraclonidine + IV acetazolamide + pilocarpine."
+    ],
+    "references": [
+      {
+        "label": "Sharma S. Ophthaproblem. Acute angle-closure glaucoma. Can Fam Physician. 2000 Feb. PMID: 10690485.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10690485/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]
