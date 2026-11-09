@@ -1,5 +1,8 @@
 * text=auto
 
+# Candidate preservation baselines hash exact JSON bytes across platforms.
+content/candidates/**/*.json text eol=lf
+
 # Preserve exact retrieved and hashed compliance evidence bytes across platforms.
 docs/audit/** -text
 docs/licenses/** -text

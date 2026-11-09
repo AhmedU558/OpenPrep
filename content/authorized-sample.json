@@ -1,0 +1,49 @@
+[
+  {
+    "code": "auth-sample-01",
+    "exam": "Step 3",
+    "subject": "Internal Medicine",
+    "system": "Cardiovascular System",
+    "topic": "Aortic Stenosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 72-year-old male presents with exertional syncope and dyspnea. Physical examination reveals a harsh crescendo-decrescendo systolic murmur at the right upper sternal border radiating to the carotids, with delayed carotid upstroke (pulsus parvus et tardus). Echocardiography confirms severe calcific aortic stenosis with a valve area of 0.7 cm². Which of the following is the most appropriate definitive management?",
+    "options": [
+      {
+        "text": "Aortic valve replacement (surgical or transcatheter)",
+        "correct": true,
+        "explanation": "Symptomatic severe aortic stenosis has a dismal prognosis without intervention and requires prompt valve replacement."
+      },
+      {
+        "text": "High-dose loop diuretic monotherapy",
+        "correct": false,
+        "explanation": "Overzealous diuresis reduces preload in fixed outflow obstruction and can precipitate severe hypotension and cardiogenic shock."
+      },
+      {
+        "text": "Beta-blocker dose escalation",
+        "correct": false,
+        "explanation": "Beta-blockers can depress myocardial contractility and are contraindicated in critical symptomatic aortic stenosis."
+      },
+      {
+        "text": "Watchful waiting with follow-up echocardiogram in 6 months",
+        "correct": false,
+        "explanation": "Once symptoms appear, median survival without replacement is <2 years."
+      }
+    ],
+    "explanation": "Symptomatic severe aortic stenosis classically manifests with the triad of dyspnea, syncope, and angina. Once symptoms appear, definitive valve replacement is indicated to restore survival expectancy.",
+    "objective": "Recognize the clinical indications for prompt valve replacement in symptomatic severe aortic stenosis.",
+    "keyPoints": [
+      "Severe aortic stenosis is defined by aortic valve area <= 1.0 cm².",
+      "The onset of symptoms indicates dramatic mortality risk without aortic valve replacement."
+    ],
+    "references": [
+      {
+        "label": "2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease",
+        "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000923"
+      }
+    ],
+    "source": "Open Clinical Case Registry / Academic Medical Collaborative",
+    "license": "CC-BY-4.0",
+    "attribution": "Academic Division of Cardiology & Medical Education Collaborative"
+  }
+]

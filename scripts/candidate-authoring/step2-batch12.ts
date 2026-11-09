@@ -1,0 +1,1131 @@
+import { CandidateSpec } from './types';
+
+export const step2Batch12: CandidateSpec[] = [
+  {
+    "code": "op-c-s2-0276",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Heparin-Induced Thrombocytopenia 4T Score and Direct Thrombin Inhibitors",
+    "subtopic": "Argatroban First-Line, Immediate Heparin Cessation, and Warfarin Contraindication",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Heparin-Induced Thrombocytopenia (HIT Type 2): PATHOPHYSIOLOGY: Immune-mediated reaction: IgG autoantibodies against platelet factor 4 (PF4)-heparin complexes bind platelet Fc-gamma-RIIa receptors, triggering massive platelet activation, consumption, and explosive THROMBOPHILIA (arterial and venous thrombosis in > 50%!). 4T SCORE CRITERIA: 1. Thrombocytopenia (> 50% drop from peak, or nadir 20-100k). 2. Timing (onset 5-10 days after heparin exposure, or < 1 day if exposed in past 30-100 days). 3. Thrombosis (new DVT, PE, arterial stroke, skin necrosis). 4. oTher causes excluded. IMMEDIATE MANAGEMENT PROTOCOL: 1. STOP ALL FORMS OF HEPARIN IMMEDIATELY (unfractionated heparin, LMWH, heparin flushes/coatings). 2. INITIATE A NON-HEPARIN DIRECT THROMBIN INHIBITOR (ARGATROBAN or Bivalirudin) OR FONDAPARINUX IMMEDIATELY! (Argatroban is metabolized hepatically, preferred in renal failure; bivalirudin in liver failure). 3. THE DEADLY CONTRAINDICATION: WARFARIN IS STRICTLY CONTRAINDICATED IN ACUTE HIT! Administering warfarin during acute HIT precipitates rapid protein C depletion before prothrombin falls, triggering extensive microvascular thrombosis and CATASTROPHIC VENOUS LIMB GANGRENE AND SKIN NECROSIS! Reverse warfarin with vitamin K if already given. Transition to warfarin only AFTER platelets recover to > 150,000/mm3, overlapping with direct thrombin inhibitor for at least 5 days.",
+    "necessaryInference": "Synthesize HIT presentation (> 50% platelet drop 7 days post-heparin with new DVT) and deduce that all heparin must stop immediately, a non-heparin direct thrombin inhibitor (argatroban) must be initiated, and warfarin is strictly contraindicated in acute phase.",
+    "strongestDistractor": "Discontinue heparin and immediately initiate oral warfarin 10 mg daily to manage the new acute deep vein thrombosis",
+    "distractorExclusion": "Warfarin monotherapy in acute HIT causes rapid protein C depletion, precipitating extensive microvascular thrombosis and catastrophic venous limb gangrene.",
+    "citation": "Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia. Blood Adv. 2018;2(22):3360-3392. PMID: 30482768.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item assesses 4T score recognition, immediate transition to non-heparin direct thrombin inhibitors, and understanding the lethal risk of acute warfarin administration in HIT.",
+      "distractorExclusionNotes": "Distractors inappropriately give warfarin, transfuse platelets in a prothrombotic state, or switch to low molecular weight heparin (which cross-reacts > 90%).",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 64-year-old man who underwent elective total knee arthroplasty 7 days ago is evaluated for acute-onset pain, erythema, and swelling in his left calf. Following surgery, he was initiated on subcutaneous unfractionated heparin (5,000 units every 8 hours) for venous thromboembolism prophylaxis. His preoperative platelet count was 280,000/mm3. On physical examination, his left lower leg is swollen and tender with 2+ pitting edema; the surgical incision is healing normally without signs of infection. Duplex venous ultrasound of the left lower extremity demonstrates an occlusive deep vein thrombosis (DVT) in the left popliteal and femoral veins. Stat complete blood count reveals a platelet count of 88,000/mm3 (a 68.6% drop from baseline), hemoglobin 12.2 g/dL, and WBC 7,800/mm3. Serum creatinine is 1.8 mg/dL. The calculated 4T score is 7 points (high clinical probability for heparin-induced thrombocytopenia). A heparin-PF4 enzyme-linked immunosorbent assay (ELISA) is sent for testing. Which of the following is the most appropriate immediate management strategy for this patient?",
+    "options": [
+      {
+        "text": "Immediately discontinue all heparin products, initiate therapeutic anticoagulation with an intravenous direct thrombin inhibitor (such as argatroban), and avoid warfarin until platelet counts have fully recovered",
+        "explanation": "This patient presents with definitive clinical features of HEPARIN-INDUCED THROMBOCYTOPENIA (HIT Type 2), complicated by acute deep vein thrombosis. Master the pathophysiology, 4T score, and management algorithm established by the American Society of Hematology (ASH) on USMLE Step 2 CK: (1) PATHOPHYSIOLOGY: HIT is a life-threatening, immune-mediated prothrombotic disorder caused by IgG autoantibodies directed against complexes of endogenous PLATELET FACTOR 4 (PF4) and EXOGENOUS HEPARIN. The IgG-PF4-heparin immune complexes bind to Fc-gamma-RIIa receptors on the surface of circulating platelets, triggering massive, cross-linked platelet activation, aggregation, and alpha-granule release. This leads to profound platelet consumption (thrombocytopenia) and the release of procoagulant microparticles that stimulate thrombin generation, resulting in severe ARTERIAL AND VENOUS THROMBOSIS (occurring in >30% to 50% of untreated patients). (2) THE 4T SCORE CLINICAL ASSESSMENT: High probability (score 6-8) is based on: (a) Thrombocytopenia: >50% drop in platelet count (nadir usually 20,000-100,000/mm3; severe bleeding is rare); (b) Timing: Onset characteristically occurs 5 to 10 days after starting heparin; (c) Thrombosis: New confirmed venous or arterial thromboembolism; and (d) oTher causes: No other apparent etiology for thrombocytopenia. (3) MANDATORY MANAGEMENT STEPS: (a) STOP ALL HEPARIN IMMEDIATELY: Discontinue all subcutaneous heparin, intravenous heparin, low-molecular-weight heparins (LMWH cross-reacts with HIT antibodies in >90% of cases and is strictly contraindicated!), and heparin-coated catheters/flushes. (b) INITIATE IMMEDIATE NON-HEPARIN ANTICOAGULATION: Because HIT is a profoundly prothrombotic state, stopping heparin alone is insufficient; patients require immediate full therapeutic anticoagulation with a NON-HEPARIN DIRECT THROMBIN INHIBITOR (such as ARGATROBAN or BIVALIRUDIN) or FONDAPARINUX (a synthetic pentasaccharide factor Xa inhibitor). Argatroban is cleared hepatically and is the preferred agent in patients with renal insufficiency (creatinine 1.8 in this patient). (4) THE FATAL CONTRAINDICATION TO ACUTE WARFARIN: Warfarin (Coumadin) is STRICTLY CONTRAINDICATED IN THE ACUTE PHASE OF HIT. Warfarin rapidly suppresses protein C (a natural anticoagulant with a short half-life of ~6 hours) long before it suppresses procoagulant clotting factors (II and X). In a patient with active HIT-driven thrombin generation, administering warfarin causes a catastrophic hypercoagulable state, precipitating widespread microvascular thrombosis, VENOUS LIMB GANGRENE, AND EXTENSIVE CUTANEOUS SKIN NECROSIS. Warfarin must NEVER be initiated until platelet counts have completely normalized to >150,000/mm3, and must always be overlapped with a direct thrombin inhibitor for at least 5 days and until the INR is therapeutic."
+      },
+      {
+        "text": "Discontinue unfractionated heparin and immediately initiate oral warfarin 10 mg daily to manage the acute popliteal deep vein thrombosis",
+        "explanation": "Warfarin monotherapy in acute HIT causes rapid protein C depletion, precipitating extensive microvascular thrombosis and catastrophic venous limb gangrene."
+      },
+      {
+        "text": "Switch unfractionated heparin to therapeutic low-molecular-weight heparin (enoxaparin 1 mg/kg twice daily)",
+        "explanation": "LMWH cross-reacts with HIT antibodies in >90% of cases and will accelerate platelet aggregation and fatal thrombotic progression."
+      },
+      {
+        "text": "Transfuse two units of pooled platelets immediately to restore the platelet count to > 100,000/mm3",
+        "explanation": "Platelet transfusions in HIT are strictly contraindicated because transfused platelets provide substrate for antibody-mediated activation, fueling thrombosis."
+      },
+      {
+        "text": "Continue current heparin prophylaxis and repeat complete blood count in 48 hours to confirm true thrombocytopenia",
+        "explanation": "Continuing heparin in active HIT leads to catastrophic extension of thrombosis, pulmonary embolism, stroke, and limb amputation."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0277",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Thrombotic Thrombocytopenic Purpura Plasma Exchange vs Platelet Transfusion",
+    "subtopic": "ADAMTS13 Deficiency, Microangiopathic Hemolytic Anemia, and Transfusion Danger",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Thrombotic Thrombocytopenic Purpura (TTP): PATHOPHYSIOLOGY: Severe deficiency of ADAMTS13 (von Willebrand factor-cleaving protease; activity < 10%), almost always due to an acquired IgG autoantibody. Without ADAMTS13, ultra-large vWF multimers accumulate on vascular endothelial surfaces, shearing passing erythrocytes and aggregating platelets into microvascular platelet-rich thrombi. CLASSIC PENTAD (only 5-10% have all 5): 1. Thrombocytopenia (severe purpura, petechiae, mucosal bleeding). 2. Microangiopathic Hemolytic Anemia (MAHA; helmet cells / SCHISTOCYTES on peripheral blood smear, elevated LDH, indirect hyperbilirubinemia, undetectable haptoglobin, negative direct Coombs test). 3. Neurologic symptoms (fluctuating confusion, headache, focal deficits, seizures; seen in > 65%). 4. Renal impairment (mild hematuria/proteinuria; mild azotemia). 5. Fever. EMERGENCY MANAGEMENT MANDATE: 1. IMMEDIATE THERAPEUTIC PLASMA EXCHANGE (PEX / PLASMAPHERESIS)! (Removes autoantibodies and ultra-large multimers, while supplying active ADAMTS13 from donor plasma; mortality without PEX is > 90%, drops to < 15% with PEX!). 2. High-dose systemic corticosteroids (methylprednisolone) + Caplacizumab (anti-vWF nanobody) + Rituximab. THE FATAL CONTRAINDICATION: PLATELET TRANSFUSIONS ARE STRICTLY CONTRAINDICATED IN TTP! Transfusing platelets fuels new microvascular thrombosis ('adding fuel to the fire'), triggering fatal myocardial infarction, stroke, and acute circulatory arrest!",
+    "necessaryInference": "Synthesize TTP presentation (thrombocytopenia, schistocytes, fluctuating neurological deficits, elevated LDH) and deduce that emergent therapeutic plasma exchange is mandatory, while platelet transfusions are strictly contraindicated.",
+    "strongestDistractor": "Transfuse two units of apheresis platelets immediately to treat life-threatening thrombocytopenia prior to lumbar puncture",
+    "distractorExclusion": "Platelet transfusions in TTP fuel microvascular platelet aggregation, precipitating acute stroke, myocardial infarction, and death; plasma exchange is the emergency treatment.",
+    "citation": "Zheng XL, Vesely SK, Cataland SR, et al. ISTH guidelines for the diagnosis of thrombotic thrombocytopenic purpura. J Thromb Haemost. 2020;18(10):2486-2495. PMID: 32452601.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item tests emergency recognition of TTP, prioritization of emergent therapeutic plasma exchange over platelet transfusions, and understanding the molecular mechanism of ADAMTS13.",
+      "distractorExclusionNotes": "Distractors inappropriately prescribe platelet transfusions (contraindicated), mistake TTP for ITP and use IVIG alone, or perform hemodialysis without PEX.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 31-year-old previously healthy woman is brought to the emergency department by her husband due to progressive confusion, difficulty speaking, and petechial rash over the past 24 hours. Her husband notes that 3 days ago, she developed mild fatigue and dark, tea-colored urine. On physical examination, she is disoriented to time and place with fluctuating aphasia that waxes and wanes during the examination. Vital signs are: temperature 38.2 C, pulse 104/min, blood pressure 138/84 mm Hg, and respiratory rate 18/min. Neurological examination reveals no focal cranial nerve deficits or motor weakness. Dermatologic examination demonstrates diffuse non-blanching petechiae and ecchymoses across both lower extremities, with mucosal bleeding along the gingiva. Laboratory evaluation reveals: - Hemoglobin: 7.2 g/dL - Platelet Count: 12,000/mm3 - Reticulocyte Count: 8.4% - Lactate Dehydrogenase (LDH): 1,840 U/L (normal: 140-280 U/L; markedly elevated) - Total Bilirubin: 4.2 mg/dL (Direct Bilirubin: 0.6 mg/dL) - Serum Haptoglobin: < 10 mg/dL (undetectable) - Serum Creatinine: 1.6 mg/dL - Prothrombin Time (PT/INR): 1.0 (normal) - Activated Partial Thromboplastin Time (aPTT): 28 seconds (normal) - Fibrinogen: 320 mg/dL (normal) - Direct Antiglobulin (Coombs) Test: Completely negative A peripheral blood smear demonstrates marked red blood cell fragmentation with 4 to 5 schistocytes (helmet cells) per high-power field and severe thrombocytopenia. Which of the following is the most appropriate immediate management strategy for this patient?",
+    "options": [
+      {
+        "text": "Initiate emergent therapeutic plasma exchange (plasmapheresis) combined with high-dose intravenous corticosteroids; platelet transfusions are strictly contraindicated",
+        "explanation": "This patient presents with classic, life-threatening THROMBOTIC THROMBOCYTOPENIC PURPURA (TTP), a medical emergency requiring immediate therapeutic plasma exchange. Master the pathophysiology, clinical diagnosis, and management guidelines established by the International Society on Thrombosis and Haemostasis (ISTH) on USMLE Step 2 CK: (1) PATHOPHYSIOLOGY AND ADAMTS13 DEFICIENCY: TTP is caused by severe deficiency (<10% activity) of the metalloprotease enzyme ADAMTS13 (a disintegrin and metalloproteinase with a thrombospondin type 1 motif, member 13). In acquired TTP, this is driven by an autoantibody (IgG) that neutralizes ADAMTS13. In normal physiology, ADAMTS13 cleaves ultra-large von Willebrand factor (UL-vWF) multimers secreted by endothelial cells into smaller, less adhesive fragments. In the absence of ADAMTS13, ultra-large vWF multimers persist anchored to endothelium, spontaneously tethering passing platelets and forming microvascular platelet-rich thrombi in arterioles and capillaries. As erythrocytes travel through these partially occluded microvessels, high shear stress mechanically slices red cell membranes, producing fragmented SCHISTOCYTES (helmet cells) and Coombs-negative MICROANGIOPATHIC HEMOLYTIC ANEMIA (MAHA). (2) CLINICAL PENTAD (FAT RN): (a) Fever; (b) Microangiopathic hemolytic Anemia (schistocytes, high LDH, low haptoglobin, negative Coombs); (c) Thrombocytopenia (severe platelet consumption causing purpura and mucosal bleeding); (d) Renal dysfunction (usually mild hematuria/azotemia); and (e) Neurologic abnormalities (fluctuating confusion, transient ischemic attacks, seizures, coma; seen in >65% of patients). NOTE: Normal coagulation studies (PT/INR and aPTT normal, normal fibrinogen) are critical to DISTINGUISH TTP FROM DISSEMINATED INTRAVASCULAR COAGULATION (DIC), where coagulation factors are consumed and PT/PTT are markedly prolonged! (3) EMERGENCY THERAPEUTIC PLASMA EXCHANGE (PEX): PEX is the undisputed gold-standard, life-saving therapy. Untreated TTP carries a mortality >90%; emergent PEX reduces mortality to <15%. PEX acts via two synergistic mechanisms: it removes the circulating pathogenic anti-ADAMTS13 autoantibodies and ultra-large vWF multimers from recipient plasma, while simultaneously replacing active donor ADAMTS13 from infused fresh frozen plasma. PEX is combined with high-dose intravenous methylprednisolone (to suppress autoantibody synthesis), rituximab (anti-CD20), and caplacizumab (an anti-vWF nanobody that blocks vWF-platelet glycoprotein Ib interaction). (4) THE ABSOLUTE CONTRAINDICATION: PLATELET TRANSFUSIONS ARE STRICTLY CONTRAINDICATED IN TTP! Administering exogenous platelets provides additional substrate for ultra-large vWF multimers, fueling explosive new microvascular thrombosis ('adding gasoline to a fire') and precipitating acute myocardial infarction, stroke, and sudden circulatory arrest."
+      },
+      {
+        "text": "Transfuse two units of apheresis platelets immediately to raise the platelet count and prevent fatal intracranial hemorrhage",
+        "explanation": "Platelet transfusions in TTP fuel microvascular platelet aggregation, precipitating acute stroke, myocardial infarction, and death; plasma exchange is the emergency treatment."
+      },
+      {
+        "text": "Administer intravenous immunoglobulin (IVIG) monotherapy and high-dose oral dexamethasone for immune thrombocytopenia (ITP)",
+        "explanation": "ITP features isolated thrombocytopenia without microangiopathic hemolytic anemia or schistocytes; treating TTP as ITP with IVIG alone leads to death."
+      },
+      {
+        "text": "Initiate emergency hemodialysis for hemolytic uremic syndrome (HUS) with renal failure, withholding plasma exchange",
+        "explanation": "Fluctuating neurological deficits with profound ADAMTS13 deficiency indicate TTP, not typical HUS; plasma exchange is mandatory to prevent death."
+      },
+      {
+        "text": "Administer intravenous unfractionated heparin bolus followed by cryoprecipitate infusion for acute disseminated intravascular coagulation",
+        "explanation": "PT and aPTT are completely normal, ruling out DIC; heparin in severe thrombocytopenia causes catastrophic hemorrhage."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0278",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Warm vs Cold Autoimmune Hemolytic Anemia Diagnosis and Therapy",
+    "subtopic": "IgG Splenic Extravascular Hemolysis vs IgM Complement Intravascular Hemolysis",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Autoimmune Hemolytic Anemias (AIHA): 1. WARM AUTOIMMUNE HEMOLYTIC ANEMIA (wAIHA; ~80%): Warm-reacting IgG autoantibodies bind erythrocyte surface antigens at 37 C. Spleen macrophages recognize IgG Fc portion, phagocytosing parts of red cell membrane, generating MICROSPHEROCYTES (extravascular hemolysis). Direct Antiglobulin Test (DAT / Coombs): Positive for IgG alone or IgG + C3d. Causes: Idiopathic, SLE, CLL, drugs (penicillins, alpha-methyldopa). FIRST-LINE TREATMENT: HIGH-DOSE ORAL CORTICOSTEROIDS (PREDNISONE 1-2 mg/kg/day); second-line: Rituximab (anti-CD20); third-line: Splenectomy. 2. COLD AGGLUTININ DISEASE (CAD; ~20%): Cold-reacting IgM autoantibodies bind erythrocyte I-antigen at cold temperatures (< 37 C, optimal at 0-4 C). IgM fixes complement (C1q -> C3b), causing agglutination and INTRAVASCULAR LYSIS (or hepatic extravasation via Kupffer cell C3b receptors). Causes: Post-Mycoplasma pneumoniae, post-EBV mononucleosis, lymphoproliferative disorders. Direct Coombs: POSITIVE FOR C3d ONLY (IgM detaches at 37 C!). Clinical: Acrocyanosis (painful cyanosis of ears, nose, fingers upon cold exposure). FIRST-LINE TREATMENT: STRICT AVOIDANCE OF COLD EXPOSURE + RITUXIMAB! CRITICAL CONTRAINDICATION: CORTICOSTEROIDS AND SPLENECTOMY ARE COMPLETELY INEFFECTIVE IN COLD AGGLUTININ DISEASE (IgM is cleared in liver, not spleen, and steroids do not block complement activation)!",
+    "necessaryInference": "Differentiate warm (IgG, splenic extravascular hemolysis, responsive to steroids/splenectomy) from cold (IgM, complement C3d, hepatic clearance, treated with cold avoidance/rituximab, resistant to steroids) AIHA.",
+    "strongestDistractor": "Initiate high-dose oral prednisone 1 mg/kg daily followed by urgent elective splenectomy for cold agglutinin disease",
+    "distractorExclusion": "Corticosteroids and splenectomy are completely ineffective in cold agglutinin disease because hemolysis is complement-mediated and cleared by the liver; cold avoidance and rituximab are required.",
+    "citation": "Barcellini W, Fattizzo B. How I treat warm and cold autoimmune hemolytic anemia in adults. Blood. 2021;137(10):1283-1294. PMID: 33171490.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item assesses immunologic and therapeutic divergence between warm IgG extravascular hemolysis and cold IgM complement-mediated hemolysis.",
+      "distractorExclusionNotes": "Distractors inappropriately prescribe corticosteroids or splenectomy for cold agglutinin disease, or mistake spherocytes for hereditary spherocytosis.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 62-year-old man presents to the clinic with fatigue, exertional shortness of breath, dark urine, and painful bluish-purple discoloration of his fingers, toes, and earlobes whenever he is exposed to cold ambient temperatures for the past 2 months. He reports that his symptoms worsen significantly when retrieving items from the freezer. His medical history is notable for completing treatment for Mycoplasma pneumoniae bronchitis 8 weeks ago. On physical examination, he appears pale and mildly icteric. His hands are cold to touch, with dusky cyanosis of the distal digits that resolves upon active warming. Cardiac auscultation is normal, and abdominal examination reveals mild splenomegaly. Laboratory evaluation reveals: - Hemoglobin: 8.2 g/dL - Mean Corpuscular Volume (MCV): 108 fL (falsely elevated due to automated cell clumping) - Reticulocyte Count: 6.8% - Total Bilirubin: 3.4 mg/dL (Direct Bilirubin: 0.5 mg/dL; indirect hyperbilirubinemia) - Lactate Dehydrogenase (LDH): 890 U/L (normal: 140-280 U/L) - Serum Haptoglobin: < 10 mg/dL (undetectable) - Direct Antiglobulin Test (DAT / Coombs): Strongly positive for C3d; completely negative for IgG - Cold Agglutinin Titer: Markedly elevated at 1:512 at 4 C (normal: < 1:64) - Peripheral Blood Smear: Marked erythrocyte clumping (autoagglutination) at room temperature that disperses upon warming the glass slide to 37 C Which of the following is the most appropriate definitive management strategy for this patient?",
+    "options": [
+      {
+        "text": "Strict avoidance of cold exposure, keeping extremities warmly bundled, and initiating therapy with rituximab; corticosteroids and splenectomy are completely ineffective",
+        "explanation": "This patient presents with classic COLD AGGLUTININ DISEASE (CAD), a form of autoimmune hemolytic anemia triggered by cold-reacting autoantibodies (in this case, secondary to recent Mycoplasma pneumoniae infection). Master the immunologic, laboratory, and therapeutic differences between warm and cold AIHA on USMLE Step 2 CK: (1) PATHOPHYSIOLOGY OF COLD AGGLUTININ DISEASE: CAD is mediated by monoclonal or polyclonal IgM AUTOANTIBODIES directed against the I-antigen (or i-antigen) on erythrocyte membranes. IgM antibodies bind optimally at low temperatures (0 to 4 C) encountered in peripheral acral capillary beds (fingers, toes, nose, ears). Upon binding, pentameric IgM cross-links red blood cells, causing visible intravascular RBC AUTOAGGLUTINATION that obstructs cutaneous microvessels, producing painful cyanosis and raynaud-like changes (acrocyanosis). Furthermore, IgM potently fixes the classical complement cascade (C1q binding, generating C3b). When blood warms to 37 C in the central circulation, IgM detaches; however, C3b fragments remain covalently bound to erythrocyte surfaces, where they are cleaved to C3d. Red cells coated with C3b/C3d undergo complement-mediated intravascular lysis or are phagocytosed by Kupffer cells in the LIVER. (2) DIAGNOSTIC COOMBS (DAT) FINDING: The Direct Antiglobulin Test (DAT) is POSITIVE FOR C3d ONLY, AND NEGATIVE FOR IgG. (IgM dissociates at 37 C and cannot be detected directly). Automated cell counters often report falsely high MCV and MCHC because clumped doublets/triplets are read as giant single red cells. (3) THERAPEUTIC PRINCIPLES AND CRITICAL CONTRAINDICATIONS: (a) FIRST-LINE THERAPY: Strict COLD AVOIDANCE (dressing warmly, wearing insulated gloves, keeping ambient home temperatures high) is the cornerstone of management. In patients with symptomatic anemia or severe acrocyanosis, the pharmacotherapy of choice is RITUXIMAB (a monoclonal anti-CD20 antibody that depletes IgM-producing B-cell clones) with or without bendamustine or sutimlimab (a C1s inhibitor). (b) THE CONTRAINDICATED THERAPIES: Unlike warm AIHA, CORTICOSTEROIDS (PREDNISONE) AND SPLENECTOMY ARE COMPLETELY INEFFECTIVE IN COLD AGGLUTININ DISEASE! Prednisone does not inhibit complement activation, and complement-coated erythrocytes are cleared in the liver (by Kupffer cells) rather than the spleen; therefore, splenectomy provides zero clinical benefit and exposes the patient to surgical and infectious risks."
+      },
+      {
+        "text": "High-dose oral prednisone 1 mg/kg daily followed by elective laparoscopic splenectomy if hemolysis persists",
+        "explanation": "Corticosteroids and splenectomy are first-line for warm IgG AIHA, but are completely ineffective in cold IgM AIHA, which is cleared in the liver."
+      },
+      {
+        "text": "Immediate transfusion of uncrossed packed red blood cells pre-cooled on wet ice to prevent agglutinin activation",
+        "explanation": "Infusing cold blood into a patient with cold agglutinins triggers catastrophic systemic intravascular hemolysis and fatal circulatory collapse; blood must be pre-warmed."
+      },
+      {
+        "text": "Lifelong oral hydroxyurea therapy combined with daily folic acid supplementation",
+        "explanation": "Hydroxyurea is used for sickle cell anemia and myeloproliferative neoplasms, not cold agglutinin autoimmune hemolysis."
+      },
+      {
+        "text": "Immediate therapeutic plasma exchange followed by emergency open bone marrow transplantation",
+        "explanation": "Post-infectious cold agglutinin disease is typically self-limiting; aggressive bone marrow transplantation is contraindicated."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0279",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Tumor Lysis Syndrome Rasburicase Mechanism vs Allopurinol and G6PD Risk",
+    "subtopic": "Hyperuricemia, Hyperkalemia, Hyperphosphatemia, Hypocalcemia, and Recombinant Urate Oxidase",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Tumor Lysis Syndrome (TLS): ONCOLOGIC EMERGENCY occurring 12 to 72 hours after chemotherapy (or spontaneously) for high-grade hematologic malignancies (BURKITT LYMPHOMA, ALL, AML) with high proliferation rates and large tumor burdens. PATHOPHYSIOLOGY OF METABOLIC DERANGEMENTS: Massive, simultaneous lysis of millions of malignant cells releases intracellular contents into systemic circulation: 1. NUCLEIC ACID BREAKDOWN -> HYPERURICEMIA (> 8 mg/dL; insoluble uric acid precipitates in acidic renal collecting ducts, causing obstructive uric acid nephropathy). 2. INTRACELLULAR POTASSIUM RELEASE -> HYPERKALEMIA (> 6 mEq/L; risks lethal cardiac arrhythmias). 3. INTRACELLULAR PHOSPHATE RELEASE -> HYPERPHOSPHATEMIA (> 4.5 mg/dL; phosphate binds circulating calcium -> SECONDARY HYPOCALCEMIA with tetany/seizures; CALCIUM PHOSPHATE PRECIPITATION in renal parenchyma causes acute tubular necrosis and AKI!). FIRST-LINE PREVENTION AND MANAGEMENT: AGGRESSIVE INTRAVENOUS ISOTONIC HYDRATION (2-3 L/m2/day) to promote high renal clearance. PHARMACOLOGICAL URIC ACID LOWERING: 1. RASBURICASE (RECOMBINANT URATE OXIDASE): Converts insoluble uric acid into highly water-soluble ALLANTOIN, which is readily excreted in urine! Drug of choice for high-risk TLS (rapid onset, breaks down existing uric acid). THE FATAL CONTRAINDICATION: RASBURICASE IS STRICTLY CONTRAINDICATED IN G6PD DEFICIENCY! Degradation of uric acid to allantoin generates HYDROGEN PEROXIDE; in G6PD deficiency, failure of glutathione peroxidase triggers FATAL SEVERE METHEMOGLOBINEMIA AND ACUTE INTRAVASCULAR HEMOLYSIS! 2. ALLOPURINOL: Xanthine oxidase inhibitor; blocks NEW uric acid formation, but CANNOT degrade pre-existing uric acid; used for low/intermediate risk.",
+    "necessaryInference": "Synthesize tumor lysis syndrome pathophysiology and recognize that rasburicase (recombinant urate oxidase) degrades uric acid to water-soluble allantoin, but is strictly contraindicated in G6PD deficiency due to hydrogen peroxide-induced methemoglobinemia and hemolysis.",
+    "strongestDistractor": "Oral allopurinol monotherapy as the primary agent to break down pre-existing high circulating uric acid crystals rapidly",
+    "distractorExclusion": "Allopurinol is a xanthine oxidase inhibitor that prevents new uric acid synthesis, but cannot degrade pre-existing uric acid; rasburicase enzymatically converts uric acid to soluble allantoin.",
+    "citation": "Cairo MS, Coiffier B, Reiter A, Younes A; TLS Expert Panel. Recommendations for the evaluation of risk and prophylaxis of tumour lysis syndrome (TLS) in adults and children with malignant diseases: an expert TLS panel consensus. Br J Haematol. 2010;149(4):578-586. PMID: 20331465.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item tests multi-faceted TLS pathophysiology (hyperuricemia, hyperkalemia, hyperphosphatemia, hypocalcemia) and the biochemical mechanism of rasburicase vs allopurinol, highlighting the G6PD contraindication.",
+      "distractorExclusionNotes": "Distractors confuse allopurinol and rasburicase mechanisms, administer calcium indiscriminately in hyperphosphatemia, or omit the G6PD screening warning.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 16-year-old boy with newly diagnosed stage IV Burkitt lymphoma presenting with a massive 12-cm ileocecal mass and extensive retroperitoneal lymphadenopathy is admitted to the oncology floor to begin induction chemotherapy with cyclophosphamide, vincristine, doxorubicin, and high-dose methotrexate. Pre-chemotherapy baseline laboratory testing demonstrates: - WBC: 42,000/mm3 - Serum Uric Acid: 11.8 mg/dL (normal: 3.5-7.2 mg/dL) - Serum Potassium: 5.4 mEq/L (normal: 3.5-5.0 mEq/L) - Serum Phosphorus: 6.8 mg/dL (normal: 2.5-4.5 mg/dL) - Serum Calcium: 7.2 mg/dL (normal: 8.5-10.5 mg/dL; asymptomatic) - Serum Creatinine: 1.9 mg/dL (baseline 0.7 mg/dL) - Blood Urea Nitrogen: 34 mg/dL An ECG demonstrates normal sinus rhythm with peaked T waves in precordial leads V2 to V4. The oncology team initiates aggressive intravenous hydration with 0.9% normal saline at 250 mL/hr. Which of the following is the most appropriate pharmacological agent to reduce serum uric acid levels rapidly, what is its biochemical mechanism of action, and what absolute enzymatic contraindication must be screened prior to its administration?",
+    "options": [
+      {
+        "text": "Intravenous rasburicase; it enzymatically oxidizes insoluble uric acid into highly water-soluble allantoin; it is strictly contraindicated in glucose-6-phosphate dehydrogenase (G6PD) deficiency due to risk of fatal methemoglobinemia and acute hemolysis",
+        "explanation": "This patient presents with laboratory and clinical TUMOR LYSIS SYNDROME (TLS) triggered by high-grade Burkitt lymphoma (one of the fastest-growing human malignancies, with a Ki-67 proliferation index near 100%). Master the pathophysiology, Cairo-Bishop diagnostic criteria, and pharmacotherapy tested on USMLE Step 2 CK: (1) PATHOPHYSIOLOGY OF METABOLIC ABNORMALITIES: Rapid proliferation and massive chemosensitive cellular lysis release huge amounts of intracellular electrolytes and nucleic acids into the circulation: (a) Hyperuricemia: Massive purine catabolism generates uric acid, which precipitates in the acidic environment of renal collecting ducts, causing acute obstructive nephropathy; (b) Hyperphosphatemia: Malignant lymphoblasts contain up to 4 times more organic phosphate than normal lymphocytes; when released, phosphate binds circulating calcium, creating calcium-phosphate (Ca x P) complexes that precipitate in renal tubules and microvessels, driving acute tubular necrosis and renal failure; (c) Secondary Hypocalcemia: Consumption of free calcium causes neuromuscular tetany, paresthesias, seizures, and QT prolongation; (d) Hyperkalemia: Release of intracellular potassium causes peaked T waves, conduction blocks, and fatal ventricular arrhythmias. (2) PHARMACOTHERAPY \u2014 RASBURICASE VS ALLOPURINOL: (a) ALLOPURINOL: A purine analog that competitively inhibits XANTHINE OXIDASE, blocking the oxidation of hypoxanthine to xanthine and xanthine to uric acid. RATIONALE: Allopurinol PREVENTS THE FORMATION OF NEW URIC ACID, but CANNOT DEGRADE OR CLEAR PRE-EXISTING CIRCULATING URIC ACID. It is indicated for low-to-intermediate risk TLS prophylaxis. (b) RASBURICASE: A recombinant form of URATE OXIDASE (an enzyme naturally present in most mammals but absent in humans due to an evolutionary nonsense mutation). Rasburicase directly and rapidly CATALYZES THE ENZYMATIC OXIDATION OF INSOLUBLE URIC ACID INTO ALLANTOIN. Allantoin is 5 to 10 times more water-soluble than uric acid and is effortlessly cleared by the kidneys, dropping serum uric acid levels to near zero within 4 hours. Rasburicase is the preferred first-line agent for established hyperuricemia or high-risk TLS (Burkitt lymphoma, ALL, WBC > 100,000). (3) ABSOLUTE CONTRAINDICATION: In the enzymatic conversion of uric acid to allantoin, HYDROGEN PEROXIDE (H2O2) IS GENERATED AS A TOXIC BYPRODUCT. In patients with GLUCOSE-6-PHOSPHATE DEHYDROGENASE (G6PD) DEFICIENCY, red cells cannot generate sufficient NADPH to reduce glutathione and neutralize H2O2. Exposure to rasburicase triggers explosive INTRAVASCULAR HEMOLYTIC CRISIS AND LIFE-THREATENING METHEMOGLOBINEMIA. Therefore, G6PD deficiency must be screened prior to rasburicase administration."
+      },
+      {
+        "text": "Intravenous allopurinol; it directly degrades pre-existing uric acid crystals into soluble xanthine; it is strictly contraindicated in patients with HLA-B*5701",
+        "explanation": "Allopurinol blocks new uric acid synthesis and cannot degrade existing uric acid; HLA-B*5701 screens for abacavir hypersensitivity in HIV, not allopurinol."
+      },
+      {
+        "text": "Intravenous calcium gluconate bolus; it precipitates intestinal phosphate; it is strictly contraindicated in patients with hyperkalemia",
+        "explanation": "IV calcium in hyperphosphatemia causes widespread metastatic calcium-phosphate soft-tissue calcification; it is given only for symptomatic hypocalcemia or ECG changes."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate infusion; it acidifies urine to dissolve uric acid; it is strictly contraindicated in metabolic acidosis",
+        "explanation": "Urinary alkalinization is no longer recommended because raising urine pH above 6.5 promotes calcium phosphate precipitation and worsens renal failure."
+      },
+      {
+        "text": "Oral febuxostat monotherapy; it stimulates renal proximal urate excretion; it is strictly contraindicated in patients with heart failure",
+        "explanation": "Febuxostat is an oral xanthine oxidase inhibitor for chronic gout, not rapid enzymatic degradation of uric acid in acute oncologic emergencies."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0280",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Malignant Spinal Cord Compression High-Dose Dexamethasone Priority",
+    "subtopic": "Thoracic Sensory Level, Autonomic Dysfunction, and Urgent Spine MRI",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Metastatic Spinal Cord Compression (MSCC): ACUTE ONCOLOGIC EMERGENCY! Tumors with high spinal bone metastasis propensity: PROSTATE, BREAST, LUNG, MULTIPLE MYELOMA, and RENAL CELL CARCINOMA. Common location: Thoracic spine (60-70%), lumbosacral (20-30%), cervical (10%). PROGRESSIVE SYMPTOM SEQUENCE: 1. Pain: Severe, progressive, localized back pain worsening when recumbent/at night (distinguishes from mechanical degenerative pain which improves when lying down!). 2. Motor weakness: Symmetrical lower extremity weakness, difficulty walking, hyperreflexia, extensor plantar responses (Babinski sign). 3. Sensory level: Sharp dermatomal boundary below which sensation to pinprick/vibration is reduced (e.g., T4 at nipples, T10 at umbilicus). 4. Autonomic dysfunction (LATE, ominous sign!): Urinary retention, overflow incontinence, loss of anal sphincter tone (saddle anesthesia). EMERGENCY MANAGEMENT MANDATE: 1. IMMEDIATE HIGH-DOSE INTRAVENOUS DEXAMETHASONE (10 to 16 mg IV bolus followed by 4 mg q6h) MUST BE ADMINISTERED IMMEDIATELY BEFORE OR CONCURRENTLY WITH DIAGNOSTIC IMAGING! Steroids reduce vasogenic spinal cord edema, relieve neurological pain, and preserve functional ambulation. 2. EMERGENCY CONTRAST-ENHANCED MRI OF THE ENTIRE SPINE (not just symptomatic region; multiple compression sites occur in > 30%!). 3. Urgent neurosurgical decompression or radiation therapy.",
+    "necessaryInference": "Synthesize metastatic spinal cord compression signs (thoracic back pain worse recumbent, hyperreflexia, sensory level, urinary retention) and identify that immediate high-dose intravenous dexamethasone must be administered prior to emergency whole-spine MRI.",
+    "strongestDistractor": "Withhold all pharmacological therapies and obtain an emergency contrast-enhanced MRI of the entire spine before administering corticosteroids",
+    "distractorExclusion": "Administering high-dose intravenous dexamethasone must NEVER be delayed for MRI completion; delaying steroids while arranging imaging leads to permanent, irreversible paraplegia.",
+    "citation": "Lawton AJ, Lee KA, Cheville AL, et al. Assessment and Management of Patients With Metastatic Spinal Cord Compression: A Multidisciplinary Review. J Clin Oncol. 2019;37(1):61-71. PMID: 30403572.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item assesses recognition of malignant spinal cord compression and the critical clinical rule prioritizing immediate high-dose dexamethasone over waiting for neuroimaging completion.",
+      "distractorExclusionNotes": "Distractors inappropriately delay steroids for imaging, order plain radiographs only, or perform lumbar puncture which risks spinal cord herniation.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 67-year-old man with metastatic castration-resistant prostate cancer to the axial skeleton presents to the emergency department with severe, unremitting mid-back pain that has progressively worsened over the past 5 days. He reports that unlike his usual arthritis, this pain is excruciatingly worse when lying flat in bed at night and awakens him from sleep. Over the past 12 hours, he has developed progressive bilateral leg weakness, difficulty getting out of an armchair, and an unsteady gait. This morning, he experienced urinary urgency followed by involuntary dribbling of urine. Physical examination reveals an uncomfortable man writhing in bed. Vital signs are normal. Percussion tenderness is exquisite over the T6 and T7 spinous processes. Neurological examination reveals bilateral lower extremity proximal and distal muscle weakness (3/5 strength in hip flexors, knee extensors, and ankle dorsiflexors bilaterally). Patellar and Achilles deep tendon reflexes are brisk (3+ bilaterally) with bilateral sustained ankle clonus and upgoing toes on plantar stimulation (bilateral extensor Babinski responses). Sensory examination demonstrates a distinct, sharp loss of pinprick and temperature sensation below the T8 dermatome. Post-void bladder ultrasound demonstrates 650 mL of retained urine. Which of the following is the most critical immediate next step in management?",
+    "options": [
+      {
+        "text": "Immediate administration of high-dose intravenous dexamethasone, followed immediately by an emergency contrast-enhanced MRI of the entire spine",
+        "explanation": "This patient presents with definitive clinical features of ACUTE METASTATIC SPINAL CORD COMPRESSION (MSCC) at the mid-thoracic level, an oncologic emergency requiring immediate therapeutic intervention to prevent permanent, irreversible paraplegia. Master the presentation, clinical prioritization, and imaging guidelines on USMLE Step 2 CK: (1) PATHOPHYSIOLOGY AND CANCER TYPES: Tumors with the highest predilection for spinal bone metastases include PROSTATE, BREAST, LUNG, RENAL CELL CARCINOMA, AND MULTIPLE MYELOMA. Metastases to the vertebral bodies expand into the epidural space, directly compressing the thecal sac and spinal cord, while obstructing epidural venous plexuses and inducing severe vasogenic spinal cord edema, ischemia, and infarction. (2) CHRONOLOGY OF PROGRESSIVE SYMPTOMS: (a) Localized or radicular back pain (present in >90%): Typically precedes neurological deficits by weeks. A critical diagnostic clue is that MALIGNANT PAIN IS WORSE AT NIGHT AND WORSE WHEN RECUMBENT (lying flat causes distension of epidural venous plexuses), distinguishing it from benign mechanical back pain which improves with rest; (b) Motor weakness (upper motor neuron signs): Symmetrical bilateral leg weakness, hyperreflexia (3+ reflexes), ankle clonus, and positive extensor Babinski signs; (c) Sensory level: A sharp dermatomal transition of pinprick sensation (T8 level in this patient); (d) Autonomic dysfunction: Urinary retention, overflow incontinence, and fecal incontinence are late signs indicating severe cord compromise and a high risk of permanent paraplegia. (3) THE CRITICAL CLINICAL RULE \u2014 STEROIDS FIRST: The single most vital management priority is IMMEDIATE ADMINISTRATION OF HIGH-DOSE INTRAVENOUS DEXAMETHASONE (10 to 16 mg IV bolus followed by 4 mg IV every 6 hours). Glucocorticoids rapidly reduce vasogenic edema of the compressed spinal cord, restore capillary microcirculation, provide immediate neuropathic analgesia, and preserve motor function. CORTICOSTEROID ADMINISTRATION MUST NEVER BE DELAYED TO WAIT FOR IMAGING! Delays of even a few hours while arranging neuroimaging can cause irreversible ischemic transection of the cord. (4) IMAGING MODALITY: Once dexamethasone is administered, EMERGENCY CONTRAST-ENHANCED MRI OF THE ENTIRE SPINE (cervical, thoracic, and lumbar) must be performed immediately. Imaging the whole spine is mandatory because 20% to 30% of patients harbor multiple, non-contiguous sites of epidural spinal cord compression that would be missed if imaging were restricted to the symptomatic region. Subsequent therapy involves urgent neurosurgical decompression (laparotomy/laminectomy) or emergency radiation therapy."
+      },
+      {
+        "text": "Withhold pharmacological therapies and transport the patient immediately to the radiology suite for an urgent lumbar spine CT scan",
+        "explanation": "Withholding dexamethasone while obtaining imaging leads to permanent ischemic paraplegia; whole-spine MRI (not lumbar CT) is the diagnostic test of choice."
+      },
+      {
+        "text": "Perform emergent lumbar puncture to measure CSF opening pressure and evaluate for leptomeningeal carcinomatosis",
+        "explanation": "Lumbar puncture in spinal cord compression carries a high risk of downward spinal herniation and neurological collapse, and is strictly contraindicated."
+      },
+      {
+        "text": "Obtain two-view plain radiographs of the thoracic spine and initiate outpatient physical therapy for degenerative disk disease",
+        "explanation": "Plain radiographs cannot visualize the spinal cord or epidural metastases; delaying MRI and steroids for plain films causes permanent paralysis."
+      },
+      {
+        "text": "Initiate high-dose intravenous zoledronic acid infusion to treat malignant osteolysis and avoid corticosteroids",
+        "explanation": "Bisphosphonates prevent future skeletal events, but have zero effect on acute mechanical epidural cord compression and do not relieve cord edema."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0281",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Superior Vena Cava Syndrome Diagnosis and Etiology-Directed Management",
+    "subtopic": "Facial Plethora, Dilated Collateral Chest Veins, Pemberton Sign, and Contrast CT",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Superior Vena Cava (SVC) Syndrome: ETIOLOGY: Extrinsic compression or intravascular thrombosis of the thin-walled SVC within the rigid superior mediastinum. MALIGNANT CAUSES (~90%): 1. NON-SMALL CELL LUNG CANCER (~50%), 2. SMALL CELL LUNG CANCER (~25%), 3. NON-HODGKIN LYMPHOMA (especially mediastinal large B-cell or lymphoblastic), 4. Metastatic breast cancer. BENIGN CAUSES (~10%): Indwelling intravascular foreign bodies (pacemaker/ICD leads, central venous catheters) causing SVC thrombosis, fibrosing mediastinitis (Histoplasma capsulatum). CLINICAL PRESENTATION: Facial swelling and fullness, bilateral periorbital edema, neck fullness, headache worsening upon bending forward, dyspnea, cough, hoarseness, and DILATED ENGORGED SUBCUTANEOUS COLLATERAL VEINS over the anterior chest wall and neck. PEMBERTON SIGN: Raising both arms above the head for 1 minute induces facial plethora, cyanosis, and inspiratory stridor (pinches SVC inlet). DIAGNOSTIC TEST OF CHOICE: CONTRAST-ENHANCED CT SCAN OF THE CHEST. DEFINITIVE THERAPY DEPENDS ON HISTOPATHOLOGY: Small cell lung cancer and lymphoma -> Chemotherapy/corticosteroids. Non-small cell lung cancer -> Endovascular stenting or radiation therapy. Emergency radiation/stenting is reserved for severe cerebral edema (obtundation, coma) or laryngeal edema (stridor).",
+    "necessaryInference": "Synthesize SVC syndrome presentation (facial edema, dilated chest wall collateral veins, Pemberton sign) and identify contrast-enhanced chest CT as the diagnostic test of choice to guide histology-directed therapy.",
+    "strongestDistractor": "Perform emergency blind bedside mediastinoscopy and surgical resection before obtaining cross-sectional imaging",
+    "distractorExclusion": "Contrast-enhanced chest CT must be performed first to identify the lesion, assess airway patency, and evaluate for intravascular thrombus; blind surgery carries high vascular rupture risk.",
+    "citation": "Bickle I, Kelly B. Superior vena cava syndrome: a guide for the clinical oncologist. Clin Oncol (R Coll Radiol). 2008;20(8):613-620. PMID: 18693006.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item tests clinical recognition of SVC syndrome (Pemberton sign, chest wall collaterals), selection of contrast CT chest, and histopathologic tailoring of treatment.",
+      "distractorExclusionNotes": "Distractors confuse SVC syndrome with congestive heart failure, order invasive mediastinoscopy prematurely, or administer thrombolytics indiscriminately.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 58-year-old man with a 40 pack-year smoking history presents to the emergency department with a 2-week history of progressively worsening shortness of breath, facial puffiness, fullness in his neck, and early morning headaches that worsen significantly when he ties his shoes or bends over. Over the past 3 days, his voice has become hoarse, and his shirt collars no longer fit around his neck. On physical examination, he appears anxious. Vital signs are: temperature 37.2 C, pulse 94/min, blood pressure 142/88 mm Hg, respiratory rate 20/min, and oxygen saturation 94% on room air. Inspection demonstrates pronounced plethoric, reddish-blue swelling of his face, lips, eyelids, and neck. Prominent, tortuous, non-pulsatile subcutaneous veins are visibly engorged across his anterior chest wall, neck, and right shoulder. When the patient is asked to raise both arms above his head alongside his ears for 1 minute, his facial plethora intensifies dramatically, his tongue becomes cyanotic, and he develops faint inspiratory stridor (positive Pemberton sign). Heart sounds are normal without bruits, and lung auscultation reveals decreased breath sounds in the right upper lung field without wheezes. Which of the following is the most appropriate initial diagnostic imaging modality to confirm the diagnosis and delineate the etiology of this patient condition?",
+    "options": [
+      {
+        "text": "Contrast-enhanced computed tomography (CT) scan of the chest with intravenous contrast to delineate the superior vena cava, mediastinal mass, and collateral venous pathways",
+        "explanation": "This patient presents with classic, textbook features of SUPERIOR VENA CAVA (SVC) SYNDROME. Master the etiology, anatomical physical findings, and diagnostic approach on USMLE Step 2 CK: (1) PATHOPHYSIOLOGY AND ANATOMY: The superior vena cava is a thin-walled, low-pressure major venous conduit located in the middle mediastinum, surrounded by rigid anatomical structures (the trachea, right mainstem bronchus, aorta, pulmonary artery, and paratracheal/subcarinal lymph nodes). Increased extrinsic tissue pressure or intraluminal thrombus rapidly obstructs blood return from the head, neck, and upper extremities to the right atrium, driving severe venous hypertension and triggering the opening of retrograde subcutaneous venous collaterals (azygos vein, internal mammary veins, lateral thoracic veins). (2) ETIOLOGY: Malignancy accounts for >85% to 90% of cases: (a) NON-SMALL CELL LUNG CANCER (adenocarcinoma, squamous cell carcinoma; accounts for ~50%); (b) SMALL CELL LUNG CANCER (neuroendocrine tumor; accounts for ~25%); (c) LYMPHOMA (Non-Hodgkin lymphoma; accounts for ~10%); and (d) Metastatic breast cancer. Benign etiologies (~10%) include thrombosis secondary to indwelling central venous catheters, transvenous pacemaker/ICD leads, or fibrosing mediastinitis (Histoplasma). (3) CLINICAL FINDINGS: Facial fullness, periorbital edema, conjunctival injection, neck swelling, hoarseness, early morning headaches (due to cerebral venous congestion worsened by recumbency), and tortuous anterior chest wall subcutaneous venous collaterals. PEMBERTON SIGN: Elevation of both arms alongside the head for 60 seconds forces the clavicles into the thoracic inlet, worsening SVC obstruction and precipitating facial flushing, cyanosis, and inspiratory stridor. (4) DIAGNOSTIC MODALITY OF CHOICE: The gold standard initial diagnostic test is a CONTRAST-ENHANCED COMPUTED TOMOGRAPHY (CT) SCAN OF THE CHEST. Contrast-enhanced CT precisely localizes the level and degree of SVC obstruction, evaluates the extent of collateral vascular remodeling, identifies the causative neoplastic mediastinal mass or lung tumor, evaluates airway patency (tracheal compression), and detects intraluminal venous thrombi. (5) MANAGEMENT: SVC syndrome is rarely an immediate life threat unless accompanied by severe laryngeal edema (stridor) or cerebral edema (coma, seizures). Treatment is dictated by tissue histopathology: small cell lung cancer and lymphoma are treated with systemic chemotherapy and steroids, whereas non-small cell lung cancer or catheter thrombosis is managed with endovascular stenting, radiation therapy, or anticoagulation."
+      },
+      {
+        "text": "Transthoracic echocardiogram to evaluate left ventricular ejection fraction and pulmonary artery systolic pressure",
+        "explanation": "Echocardiogram assesses cardiac chambers, but cannot adequately visualize the mid-to-superior mediastinum or SVC obstruction."
+      },
+      {
+        "text": "Duplex ultrasonography of the bilateral internal jugular and subclavian veins as the definitive anatomical test",
+        "explanation": "Ultrasound cannot penetrate the bony thoracic cage to visualize the intrathoracic superior vena cava or mediastinal neoplastic masses."
+      },
+      {
+        "text": "Emergency exploratory right anterior mediastinotomy (Chamberlain procedure) under general anesthesia before imaging",
+        "explanation": "Invasive surgical exploration before cross-sectional imaging carries extreme risk of fatal vascular rupture of high-pressure venous collaterals."
+      },
+      {
+        "text": "Two-view upright plain chest radiography with discharge home if no pneumothorax is identified",
+        "explanation": "Chest radiography is insensitive and cannot evaluate vascular patency or distinguish vascular thrombosis from extrinsic tumor compression."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0282",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Acute Promyelocytic Leukemia DIC and All-Trans Retinoic Acid",
+    "subtopic": "t(15;17) PML-RARA, Severe Hypofibrinogenemia, Cryoprecipitate, and ATRA Timing",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Acute Promyelocytic Leukemia (APL / AML M3): GENETICS: Translocation t(15;17)(q22;q12) fusing PML gene on chromosome 15 to RARA (retinoic acid receptor alpha) gene on chromosome 17. The PML-RARA fusion oncoprotein blocks promyelocyte differentiation at the promyelocyte stage. PATHOLOGY: Blasts containing heavy azurophilic granules and bundles of Auer rods ('faggot cells'). THE DEADLY EMERGENCY \u2014 FULMINANT CONSUMPTIVE COAGULOPATHY (DIC): Neoplastic promyelocytes express massive amounts of TISSUE FACTOR and annexin II, triggering explosive thrombin generation and simultaneous hyperfibrinolysis: 1. Thrombocytopenia. 2. Prolonged PT/INR and aPTT. 3. MARKED HYPOFIBRINOGENEMIA (< 100-150 mg/dL; key marker!). 4. Markedly elevated D-dimer. Patients present with catastrophic intracranial or pulmonary hemorrhage! IMMEDIATE LIFE-SAVING INTERVENTION: 1. IMMEDIATE INITIATION OF ALL-TRANS RETINOIC ACID (ATRA / TRETINOIN) PLUS ARSENIC TRIOXIDE (ATO) UPON FIRST CLINICAL OR MORPHOLOGICAL SUSPICION! (ATRA forces promyelocytes to differentiate into mature neutrophils, rapidly shutting down tissue factor release and halting DIC within 24-48 hours; do NOT wait for cytogenetics!). 2. AGGRESSIVE COAGULOPATHY SUPPORT: Infuse CRYOPRECIPITATE to maintain fibrinogen > 150 mg/dL, along with platelets (maintain > 50,000) and FFP.",
+    "necessaryInference": "Recognize APL with fulminant DIC (t(15;17), Auer rods, severe hypofibrinogenemia) and deduce that all-trans retinoic acid (ATRA) must be initiated immediately upon morphological suspicion to abrogate fatal coagulopathy, supported by cryoprecipitate.",
+    "strongestDistractor": "Withhold retinoic acid therapy and initiate standard 7+3 cytarabine and daunorubicin induction, awaiting FISH confirmation of t(15;17)",
+    "distractorExclusion": "Waiting for genetic confirmation before starting ATRA leads to fatal intracerebral hemorrhage from unmitigated DIC; ATRA must be started immediately on suspicion.",
+    "citation": "Sanz MA, Fenaux P, Tallman MS, et al. Management of acute promyelocytic leukemia: updated recommendations from an expert panel of the European LeukemiaNet. Blood. 2019;133(15):1630-1643. PMID: 30803991.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item tests emergency management of acute promyelocytic leukemia complicated by fulminant DIC, emphasizing immediate ATRA administration upon smear recognition and cryoprecipitate for hypofibrinogenemia.",
+      "distractorExclusionNotes": "Distractors delay ATRA for cytogenetics, prescribe standard 7+3 chemotherapy which causes massive promyelocyte lysis and fatal DIC, or withhold cryoprecipitate.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 28-year-old previously healthy woman is brought to the emergency department due to severe epistaxis, bleeding gums while brushing her teeth, and extensive spontaneous bruising across her arms and legs for 3 days. Over the past 6 hours, she has developed a throbbing frontal headache and extreme fatigue. Physical examination reveals an acutely ill, pale woman. Vital signs are: temperature 38.3 C, pulse 112/min, and blood pressure 118/68 mm Hg. Dermatologic examination reveals extensive diffuse petechiae, purpura, and ecchymoses over the trunk and extremities, with active oozing of blood from peripheral venipuncture sites. Neurological examination reveals no focal motor or sensory deficits. Complete blood count demonstrates: - Hemoglobin: 6.8 g/dL - Platelet Count: 18,000/mm3 - Total WBC: 3,400/mm3 (Differential: 12% neutrophils, 68% abnormal promyelocytes with prominent dark azurophilic granules, 20% lymphocytes) Stat coagulation studies reveal: - Prothrombin Time (PT/INR): 2.2 (normal: 0.9-1.1) - Activated Partial Thromboplastin Time (aPTT): 52 seconds (normal: 25-35 seconds) - Serum Fibrinogen: 68 mg/dL (normal: 200-400 mg/dL; severely depressed) - D-Dimer: > 20,000 ng/mL (markedly elevated) Examination of a peripheral blood Wright-Giemsa stained smear reveals numerous large, abnormal promyelocytes packed with coarse reddish-purple granules, with several promyelocytes demonstrating multiple, stacked crystalline needle-like cytoplasmic inclusions resembling bundles of wood ('faggot cells' / Auer rods). Which of the following represents the most critical immediate pharmacological and supportive intervention for this patient?",
+    "options": [
+      {
+        "text": "Immediate initiation of oral all-trans retinoic acid (ATRA / tretinoin) upon morphological suspicion, combined with aggressive cryoprecipitate infusion to maintain serum fibrinogen > 150 mg/dL",
+        "explanation": "This patient presents with an acute hematologic emergency: ACUTE PROMYELOCYTIC LEUKEMIA (APL, formerly AML FAB M3) complicated by fulminant, life-threatening DISSEMINATED INTRAVASCULAR COAGULATION (DIC) with severe consumptive hypofibrinogenemia. Master the pathophysiology, morphology, and emergency management on USMLE Step 2 CK: (1) MOLECULAR PATHOPHYSIOLOGY AND MORPHOLOGY: APL is driven by the reciprocal chromosomal translocation t(15;17)(q22;q12), which fuses the Promyelocytic Leukemia (PML) gene on chromosome 15 to the Retinoic Acid Receptor Alpha (RARA) gene on chromosome 17. The resulting PML-RARA fusion oncoprotein acts as a dominant-negative transcriptional repressor that recruits histone deacetylases, completely arresting myeloid differentiation at the promyelocyte stage. Peripheral blood smear demonstrates characteristic leukemic promyelocytes containing dense azurophilic granules and bundles of Auer rods stacked parallel like bundles of sticks ('FAGGOT CELLS'). (2) THE DEADLY COMPLICATION \u2014 FULMINANT CONSUMPTIVE COAGULOPATHY: Unlike other forms of AML, APL promyelocytes express astronomical levels of TISSUE FACTOR, ANNEXIN II (a cell-surface receptor for plasminogen and tPA), and microparticles. This triggers explosive systemic activation of the extrinsic coagulation cascade (generating thrombin) paired with intense secondary hyperfibrinolysis. This dual process causes rapid consumption of clotting factors and platelets, manifesting as profound THROMBOCYTOPENIA, PROLONGED PT/INR, PROLONGED aPTT, MARKEDLY ELEVATED D-DIMER, AND SEVERE CONSUMPTIVE HYPOFIBRINOGENEMIA (fibrinogen < 100-150 mg/dL). Over 10% to 20% of patients die of catastrophic INTRACRANIAL OR PULMONARY HEMORRHAGE within hours of presentation if treatment is delayed. (3) IMMEDIATE LIFE-SAVING ACTION \u2014 ALL-TRANS RETINOIC ACID (ATRA): According to European LeukemiaNet and ASH guidelines, ORAL ALL-TRANS RETINOIC ACID (ATRA, tretinoin) MUST BE INITIATED IMMEDIATELY UPON FIRST CLINICAL OR MORPHOLOGICAL SUSPICION, WITHOUT WAITING FOR CYTOGENETIC OR FISH CONFIRMATION OF t(15;17)! ATRA binds the mutated PML-RARA receptor at supraphysiological doses, inducing dissociation of repressor complexes and forcing promyelocytes to differentiate into mature post-mitotic granulocytes. This halts the release of tissue factor and resolves the consumptive coagulopathy within 24 to 48 hours. ATRA is combined with ARSENIC TRIOXIDE (ATO), achieving complete remission rates >95% without traditional cytotoxic chemotherapy. (4) SUPPORTIVE AGGRESSIVE COAGULOPATHY MANAGEMENT: The patient must receive immediate CRYOPRECIPITATE TRANSFUSIONS to maintain serum fibrinogen > 150 mg/dL (cryoprecipitate is rich in fibrinogen, factor VIII, and vWF), alongside platelet transfusions to maintain platelets > 50,000/mm3."
+      },
+      {
+        "text": "Withhold all-trans retinoic acid and initiate standard intensive induction chemotherapy with cytarabine and daunorubicin (7+3 regimen)",
+        "explanation": "Administering cytotoxic 7+3 chemotherapy without ATRA lyses promyelocytes, causing massive tissue factor release, exacerbating DIC, and causing fatal intracerebral hemorrhage."
+      },
+      {
+        "text": "Withhold retinoic acid until fluorescence in situ hybridization (FISH) confirms the t(15;17) translocation in 48 hours",
+        "explanation": "Delaying ATRA while waiting for genetic confirmation results in early fatal hemorrhage; guidelines dictate starting ATRA immediately upon morphological suspicion."
+      },
+      {
+        "text": "Administer high-dose intravenous unfractionated heparin bolus to inhibit thrombin generation, avoiding blood product transfusions",
+        "explanation": "Heparin in a severely thrombocytopenic, hypofibrinogenemic patient causes immediate catastrophic fatal intracranial hemorrhage."
+      },
+      {
+        "text": "Administer intravenous recombinant erythropoietin and granulocyte colony-stimulating factor (G-CSF) monotherapy",
+        "explanation": "G-CSF accelerates leukemic promyelocyte proliferation and worsens fulminant coagulopathy; it is strictly contraindicated."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0283",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Hyperleukocytosis and Leukostasis Syndrome Emergency Management",
+    "subtopic": "AML Blast Count > 100,000, Hydroxyurea Cytoreduction, and Transfusion Contraindication",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Hyperleukocytosis and Leukostasis Syndrome: DEFINITION: Markedly elevated total white blood cell count (> 100,000/mm3) with circulating myeloid blasts in acute myeloid leukemia (AML). PATHOPHYSIOLOGY: Leukemic myeloblasts are large, rigid, non-deformable cells with high cytoplasmic volume and adhesive cell-surface adhesion molecules (selectins, integrins). In microvessels, blasts aggregate, adhere to endothelial cells, and obstruct microvascular blood flow, while cytokine-mediated endothelial injury causes local tissue hypoxemia, microvascular thrombosis, and hemorrhage. CLINICAL PRESENTATION: 1. PULMONARY (seen in > 80%): Progressive tachypnea, severe exertional dyspnea, hypoxemia, diffuse bilateral interstitial infiltrates, and acute respiratory failure. 2. NEUROLOGICAL (seen in > 50%): Throbbing headache, confusion, somnolence, delirium, visual blurring (retinal hemorrhages / Roth spots), focal deficits, and fatal intracerebral hemorrhage. 3. Other: Priapism, acute renal failure, myocardial ischemia. EMERGENCY MANAGEMENT: 1. Aggressive IV hydration (3 L/m2/day) to decrease viscosity. 2. Rapid cytoreduction with HIGH-DOSE ORAL HYDROXYUREA (50-100 mg/kg/day) or induction chemotherapy. 3. EMERGENCY LEUKAPHERESIS for severe refractory pulmonary or neurological symptoms. THE DEADLY CONTRAINDICATION: RED BLOOD CELL TRANSFUSIONS ARE STRICTLY CONTRAINDICATED IN ACTIVE LEUKOSTASIS UNLESS HEMOGLOBIN IS CRITICALLY LIFE-THREATENING (< 5-6 g/dL)! Transfusing packed red blood cells dramatically elevates whole-blood viscosity, aggravating microvascular stasis and precipitating catastrophic, fatal intracerebral hemorrhage or acute pulmonary infarction!",
+    "necessaryInference": "Synthesize leukostasis presentation in AML (WBC > 100k, respiratory failure, neurological confusion, retinal hemorrhages) and deduce that hydroxyurea cytoreduction and leukapheresis are required, while blood transfusions are strictly contraindicated due to viscosity surge.",
+    "strongestDistractor": "Immediate transfusion of two units of packed red blood cells to correct anemia-induced cerebral hypoperfusion",
+    "distractorExclusion": "Transfusing red blood cells sharply increases whole-blood viscosity in hyperleukocytosis, triggering catastrophic intracerebral hemorrhage and acute pulmonary occlusion.",
+    "citation": "Ganzel C, Becker J, Mintz PD, Lazarus HM, Rowe JM. Hyperleukocytosis, leukostasis and leukapheresis: practice management. Blood Rev. 2012;26(3):117-122. PMID: 22364731.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item tests emergency recognition of leukostasis in AML, prioritizing rapid cytoreduction (hydroxyurea/leukapheresis) and recognizing the deadly contraindication to packed red blood cell transfusions.",
+      "distractorExclusionNotes": "Distractors inappropriately prescribe blood transfusions (catastrophic viscosity spike), perform therapeutic phlebotomy alone, or prescribe anticoagulants in thrombocytopenia.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 54-year-old previously healthy man presents to the emergency department due to progressive, severe shortness of breath, throbbing holocranial headache, visual blurring, and profound fatigue over the past 48 hours. On physical examination, he appears tachypneic, diaphoretic, and confused, disoriented to time and location. Vital signs are: temperature 38.4 C, pulse 118/min, blood pressure 138/78 mm Hg, respiratory rate 30/min, and oxygen saturation 88% while breathing ambient room air, which improves to 92% on a high-flow non-rebreather mask. Funduscopic examination demonstrates marked retinal venous engorgement, flame-shaped retinal hemorrhages, and pale-centered Roth spots bilaterally. Lung auscultation reveals diffuse bilateral coarse crackles and expiratory wheezing. Spleen is palpable 4 cm below the left costal margin. Neurological examination reveals lethargy and global cognitive blunting without focal motor deficits. Laboratory evaluation reveals: - Total White Blood Cell Count: 142,000/mm3 (Differential: 84% large, immature myeloblasts with prominent nucleoli and scant cytoplasm, 8% segmented neutrophils, 8% lymphocytes) - Hemoglobin: 7.2 g/dL - Platelet Count: 28,000/mm3 - Serum Creatinine: 1.8 mg/dL - Serum Lactate: 4.2 mmol/L A portable chest radiograph reveals diffuse, bilateral fluffy alveolar and interstitial infiltrates without cardiomegaly. Which of the following is the most appropriate immediate management strategy for this patient?",
+    "options": [
+      {
+        "text": "Initiate aggressive intravenous hydration, administer high-dose oral hydroxyurea for rapid chemical cytoreduction, and prepare for emergency leukapheresis; packed red blood cell transfusions are strictly contraindicated",
+        "explanation": "This patient presents with acute LEUKOSTASIS SYNDROME secondary to hyperleukocytic ACUTE MYELOID LEUKEMIA (AML). Master the pathophysiology, clinical presentation, and emergency management on USMLE Step 2 CK: (1) PATHOPHYSIOLOGY OF LEUKOSTASIS: Hyperleukocytosis is defined as a total circulating white blood cell count > 100,000/mm3. Leukostasis occurs when these excessive circulating cells produce clinical symptoms of microvascular hypoperfusion and tissue ischemia. Although leukostasis can occasionally occur in chronic myeloid leukemia (CML) or acute lymphoblastic leukemia (ALL) at very high counts (>300,000-400,000/mm3), it occurs primarily and at much lower counts in ACUTE MYELOID LEUKEMIA (AML). Myeloblasts are large (12-15 micrometers in diameter), rigid, non-deformable cells that express high densities of surface adhesion molecules (CD11a, CD11b, CD18, and selectins). As blasts travel through microcapillaries, they adhere to endothelial cells, causing physical plug formation, microvascular sludging, and severe local tissue hypoxemia. (2) CLINICAL MANIFESTATIONS: Leukostasis preferentially targets organs with delicate microvascular beds: (a) Pulmonary system (>80%): Progressive exertional dyspnea, tachypnea, hypoxemia, bilateral fluffy infiltrates, and rapid progression to acute respiratory distress syndrome (ARDS); (b) Central nervous system (>50%): Severe headache, confusion, delirium, stupor, visual blurring (retinal hemorrhages and Roth spots), focal neurological deficits, and fatal intracerebral hemorrhage; (c) Other: Priapism, acute kidney injury, and acute myocardial infarction. (3) EMERGENCY THERAPEUTIC MANAGEMENT: (a) AGGRESSIVE INTRAVENOUS HYDRATION (2.5 to 3 L/m2/day with isotonic saline) to promote intravascular hemodilution and maintain renal perfusion; (b) RAPID CYTOREDUCTION WITH HIGH-DOSE ORAL HYDROXYUREA (50 to 100 mg/kg/day, typically 2 to 4 grams daily): Hydroxyurea inhibits ribonucleotide reductase, halting DNA synthesis and dropping blast counts by 50% to 80% within 24 to 48 hours; (c) EMERGENCY LEUKAPHERESIS: Indicated for patients with overt, life-threatening pulmonary or neurological symptoms to mechanically remove blasts rapidly; (d) Allopurinol or rasburicase to prevent tumor lysis syndrome. (4) THE FATAL CONTRAINDICATION: PACKED RED BLOOD CELL (PRBC) TRANSFUSIONS ARE STRICTLY CONTRAINDICATED IN ACTIVE LEUKOSTASIS! Red blood cells are the primary determinant of whole-blood viscosity. In a patient with 142,000 myeloblasts/mm3, transfusing PRBCs sharply increases blood viscosity, causing immediate microvascular arrest, catastrophic intra-alveolar hemorrhage, and fatal hemorrhagic cerebral infarction. Transfusions must be withheld unless hemoglobin falls to critically life-threatening levels (< 5-6 g/dL), and then administered only slowly after leukoreduction has begun."
+      },
+      {
+        "text": "Immediately transfuse two units of packed red blood cells to elevate hemoglobin to > 10 g/dL and improve cerebral oxygenation",
+        "explanation": "Transfusing red blood cells sharply increases whole-blood viscosity in hyperleukocytosis, triggering catastrophic intracerebral hemorrhage and acute pulmonary occlusion."
+      },
+      {
+        "text": "Perform therapeutic phlebotomy of 500 mL of whole blood followed by strict oral fluid restriction",
+        "explanation": "Fluid restriction worsens hemoconcentration and microvascular sludging; aggressive hydration is mandatory to lower blood viscosity."
+      },
+      {
+        "text": "Initiate full-dose therapeutic anticoagulation with intravenous unfractionated heparin for pulmonary microvascular thrombosis",
+        "explanation": "Heparin in a patient with severe thrombocytopenia (platelets 28,000) and leukostasis precipitates massive, fatal intracranial hemorrhage."
+      },
+      {
+        "text": "Administer high-dose intravenous dexamethasone monotherapy and discharge with outpatient follow-up in the leukemia clinic",
+        "explanation": "Dexamethasone does not cytoreduce AML blasts; leukostasis is an acute ICU oncologic emergency requiring immediate hospital admission and hydroxyurea."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0284",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Immune Checkpoint Inhibitor Colitis High-Dose Steroids and Infliximab",
+    "subtopic": "Anti-PD-1 and Anti-CTLA-4 Toxicity, Autoimmune Enterocolitis, and Infliximab Rescue",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Immune Checkpoint Inhibitor (ICI) Toxicities (irAEs): AGENTS: Anti-PD-1 (Pembrolizumab, Nivolumab), Anti-PD-L1 (Atezolizumab, Durvalumab), Anti-CTLA-4 (Ipilimumab). PATHOPHYSIOLOGY: Checkpoint inhibitors remove negative co-inhibitory signals on T lymphocytes, unleashing uninhibited antitumor immunity; however, loss of peripheral immune tolerance allows autoreactive T cells to attack normal host tissues (immune-related adverse events, irAEs). SEVERE GASTROINTESTINAL TOXICITY (IMMUNE-MEDIATED COLITIS): Most frequent with ipilimumab or combination CTLA-4 + PD-1 blockade. Manifests 6 to 12 weeks post-initiation: Profuse watery or bloody diarrhea (> 6 stools/day over baseline; Grade 3), severe lower abdominal cramping, fever, hematochezia, and risk of toxic megacolon or bowel perforation! Stool studies to rule out C. difficile and bacterial pathogens. MANAGEMENT MANDATE (ASCO / NCCN GUIDELINES): 1. PERMANENT OR TEMPORARY CESSATION OF IMMUNE CHECKPOINT INHIBITOR THERAPY! 2. IMMEDIATE INITIATION OF HIGH-DOSE SYSTEMIC CORTICOSTEROIDS (ORAL PREDNISONE 1-2 MG/KG/DAY OR IV METHYLPREDNISOLONE)! 3. SECOND-LINE RESCUE FOR STEROID-REFRACTORY COLITIS (lack of clinical improvement within 48 to 72 hours): INFLIXIMAB (monoclonal anti-TNF-alpha antibody) OR VEDOLIZUMAB (gut-homing anti-alpha4beta7 integrin antibody)! Rationale: TNF-alpha drives mucosal inflammation in steroid-resistant irAE colitis.",
+    "necessaryInference": "Synthesize immune checkpoint inhibitor colitis (severe watery diarrhea post-ipilimumab/nivolumab) and deduce that management requires immediate immunotherapy cessation, high-dose corticosteroids, and infliximab if steroid-refractory.",
+    "strongestDistractor": "Continue immunotherapy at full dose, prescribe oral loperamide 4 mg every 4 hours, and advise dietary fiber supplementation",
+    "distractorExclusion": "Administering antimotility agents in immune-mediated colitis masks active bowel inflammation and precipitates toxic megacolon or fatal bowel perforation; high-dose corticosteroids are required.",
+    "citation": "Schneider BJ, Naidoo J, Santomasso BD, et al. Management of Immune-Related Adverse Events in Patients Treated With Immune Checkpoint Inhibitor Therapy: ASCO Guideline Update. J Clin Oncol. 2021;39(36):4073-4126. PMID: 34726992.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item assesses identification of high-grade immune checkpoint inhibitor-induced colitis, immediate drug discontinuation, high-dose corticosteroid management, and infliximab escalation.",
+      "distractorExclusionNotes": "Distractors inappropriately use antimotility agents (risking toxic megacolon), treat as simple infectious diarrhea with antibiotics alone, or continue checkpoint blockade.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 61-year-old man with metastatic cutaneous melanoma involving the lung and retroperitoneal lymph nodes presents to the clinic with severe diarrhea, diffuse crampy abdominal pain, and extreme fatigue for 5 days. Eight weeks ago, he initiated combination immunotherapy with ipilimumab (anti-CTLA-4 monoclonal antibody) and nivolumab (anti-PD-1 monoclonal antibody), completing his third infusion 10 days ago. Over the past 48 hours, his bowel movements have increased from a baseline of 1 per day to 9 to 11 voluminous, watery bowel movements per day, occasionally accompanied by visible streaks of bright red blood and nocturnal awakening. Physical examination reveals an uncomfortable, fatigued man with dry oral mucous membranes. Vital signs are: temperature 37.9 C, pulse 102/min, blood pressure 108/68 mm Hg, and respiratory rate 16/min. Abdominal examination demonstrates diffuse, moderate tenderness to palpation across both lower quadrants with hyperactive bowel sounds; there is no voluntary guarding, rigidity, or rebound tenderness. Digital rectal examination reveals heme-positive liquid brown stool. Comprehensive stool evaluation\u2014including Clostridioides difficile PCR, bacterial enteric culture (Campylobacter, Salmonella, Shigella), Shiga toxin, and ova and parasites\u2014is completely negative. Complete blood count demonstrates: WBC 12,400/mm3 with normal differential, hemoglobin 11.2 g/dL, and C-reactive protein (CRP) markedly elevated at 58 mg/L. Which of the following represents the most appropriate initial management strategy for this patient?",
+    "options": [
+      {
+        "text": "Permanently withhold combination immunotherapy, initiate high-dose systemic corticosteroid therapy (oral prednisone 1 to 2 mg/kg/day or intravenous methylprednisolone), and plan for infliximab if symptoms fail to improve within 48 to 72 hours",
+        "explanation": "This patient presents with severe (Grade 3) IMMUNE CHECKPOINT INHIBITOR (ICI)-INDUCED ENTEROCOLITIS, an immune-related adverse event (irAE) secondary to combination ipilimumab (anti-CTLA-4) and nivolumab (anti-PD-1) therapy. Master the mechanism, staging, and guideline-mandated management of irAEs on USMLE Step 2 CK: (1) MECHANISM OF IMMUNE CHECKPOINT INHIBITOR TOXICITY: T-cell activation is tightly modulated by co-inhibitory checkpoint receptors: CTLA-4 blocks early T-cell priming in lymph nodes by competing with CD28 for B7 ligands, while PD-1 blocks effector T-cell activity in peripheral tissues upon binding PD-L1/PD-L2. Checkpoint inhibitor antibodies unleash potent anti-neoplastic T-cell responses; however, removing these immune brakes simultaneously breaks peripheral self-tolerance. Autoreactive CD4+ and CD8+ T cells infiltrate normal organs, triggering severe autoimmune toxicities: enterocolitis (most common with CTLA-4 inhibitors), dermatitis, autoimmune hypophysitis, thyroiditis, hepatitis, pneumonitis, and myocarditis. (2) CLINICAL SEVERITY STAGING OF COLITIS (ASCO / NCCN GUIDELINES): (a) Grade 1: < 4 stools/day above baseline; (b) Grade 2: 4 to 6 stools/day above baseline with abdominal pain; (c) Grade 3: >= 7 stools/day above baseline, incontinence, severe abdominal pain, nocturnal defecation, or dehydration requiring hospitalization. This patient has 9 to 11 stools/day with hematochezia and nocturnal symptoms, categorizing his condition as GRADE 3 IMMUNE COLITIS. (3) MANAGEMENT ALGORITHM: (a) STEP 1 (IMMEDIATE DRUG CESSATION): Withhold checkpoint inhibitor therapy immediately. Combination CTLA-4/PD-1 therapy is permanently discontinued for severe Grade 3-4 colitis; (b) STEP 2 (HIGH-DOSE GLUCOCORTICOIDS): Initiate prompt high-dose systemic corticosteroids: ORAL PREDNISONE 1 TO 2 MG/KG/DAY OR INTRAVENOUS METHYLPREDNISOLONE (1-2 mg/kg/day). Glucocorticoid therapy must be continued until symptoms improve to Grade 1, followed by a gradual taper over at least 4 to 6 weeks to prevent relapse; (c) STEP 3 (BIOLOGIC RESCUE FOR STEROID-REFRACTORY CASES): If the patient fails to show substantial clinical improvement within 48 to 72 hours of high-dose steroids, or develops worsening symptoms, GUIDELINES MANDATE THE IMMEDIATE ADDITION OF INFLIXIMAB (5 mg/kg IV; a chimeric monoclonal anti-TNF-alpha antibody) or VEDOLIZUMAB (an anti-alpha4beta7 integrin antibody). TNF-alpha is a critical pro-inflammatory cytokine driving mucosal ulceration in checkpoint colitis. (4) CONTRAINDICATION: ANTIMOTILITY AGENTS (such as loperamide or diphenoxylate-atropine) ARE STRICTLY CONTRAINDICATED in high-grade immune colitis because halting bowel motility can precipitate toxic megacolon, bowel necrosis, and fatal perforation."
+      },
+      {
+        "text": "Continue combination immunotherapy without interruption, prescribe oral loperamide 4 mg immediately followed by 2 mg after each loose stool, and recommend a high-fiber diet",
+        "explanation": "Antimotility agents (loperamide) are contraindicated in severe immune colitis due to risk of toxic megacolon and perforation; immunotherapy must be discontinued."
+      },
+      {
+        "text": "Prescribe oral ciprofloxacin 500 mg twice daily plus oral metronidazole 500 mg three times daily for 14 days for presumed bacterial enteritis",
+        "explanation": "Stool cultures and C. difficile PCR are negative, confirming non-infectious autoimmune colitis; antibiotics alone are useless without immunosuppression."
+      },
+      {
+        "text": "Perform an emergency total colectomy with end ileostomy within 12 hours prior to attempting medical immunosuppression",
+        "explanation": "Emergency colectomy is reserved for life-threatening complications (bowel perforation, refractory toxic megacolon); medical therapy achieves cure in >95%."
+      },
+      {
+        "text": "Initiate continuous intravenous octreotide infusion to control neuroendocrine secretory diarrhea and discharge to outpatient care",
+        "explanation": "Octreotide treats neuroendocrine VIPomas and carcinoid diarrhea, not T-cell-mediated autoimmune mucosal enterocolitis."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0285",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Transfusion-Related Acute Lung Injury vs Transfusion Circulatory Overload",
+    "subtopic": "Donor Anti-HLA Antibodies, Non-Cardiogenic Pulmonary Edema, and Hypotension",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Acute Pulmonary Transfusion Reactions: 1. TRANSFUSION-RELATED ACUTE LUNG INJURY (TRALI): PATHOPHYSIOLOGY: 'Two-hit model': Recipient pre-existing condition (sepsis, surgery, trauma) causes neutrophil sequestration in pulmonary capillaries (Hit 1); transfusion of plasma-rich blood products (FFP, platelets) containing DONOR ANTI-HLA CLASS I/II OR ANTI-HUMAN NEUTROPHIL (HNA) ANTIBODIES binds recipient neutrophils (Hit 2), triggering massive neutrophil activation, oxidative burst, elastase release, and alveolar-capillary endothelial breakdown! CLINICAL (within 6 hours of transfusion): Acute non-cardiogenic pulmonary edema: Severe dyspnea, tachypnea, hypoxemia (PaO2/FiO2 <= 300), bilateral pulmonary infiltrates on CXR, FEVER (> 38 C), and TRANSIENT HYPOTENSION! HEMODYNAMICS: NORMAL BNP, NORMAL CARDIAC PRESSURES (PCWP <= 18 mm Hg, normal JVP, NO S3). MANAGEMENT: Stop transfusion, oxygen/ventilatory support; DIURETICS ARE INEFFECTIVE AND HARMFUL (patient is often hypotensive/hypovolemic!). 2. TRANSFUSION-ASSOCIATED CIRCULATORY OVERLOAD (TACO): Hydrostatic cardiogenic pulmonary edema due to volume overload in patients with pre-existing heart/renal failure: Clinical: HYPERTENSION, elevated JVP, S3 gallop, and ELEVATED BNP! Treatment: Stop transfusion and INTRAVENOUS FUROSEMIDE!",
+    "necessaryInference": "Differentiate TRALI (donor anti-HLA antibodies, non-cardiogenic pulmonary edema, fever, hypotension, normal BNP) from TACO (cardiogenic, hypertension, high BNP), recognizing that TRALI requires supportive ventilation and that diuretics are harmful.",
+    "strongestDistractor": "Administer intravenous furosemide 80 mg bolus immediately to promote loop diuresis for acute hydrostatic cardiogenic pulmonary overload",
+    "distractorExclusion": "Furosemide treats hydrostatic volume overload (TACO), but worsens hypotension and hypovolemia in capillary-leak non-cardiogenic pulmonary edema (TRALI).",
+    "citation": "Vlaar APJ, Toy P, Fung M, et al. A consensus definition of transfusion-related acute lung injury. Transfusion. 2019;59(7):2465-2476. PMID: 31081541.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item tests critical bedside distinction between TRALI (neutrophil-mediated capillary leak, normal BNP, hypotension) and TACO (cardiogenic hydrostatic edema, elevated BNP, hypertension).",
+      "distractorExclusionNotes": "Distractors confuse TRALI and TACO pathophysiology, inappropriately administer aggressive diuretics in TRALI, or suspect anaphylaxis without urticaria/stridor.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 44-year-old woman is admitted to the intensive care unit following an emergent open cholecystectomy for acute gangrenous cholecystitis. Intraoperatively, she sustained an estimated blood loss of 600 mL. In the surgical ICU, 2 hours after initiating a transfusion of two units of fresh frozen plasma (FFP) to reverse a prolonged coagulopathy, she develops sudden-onset, severe shortness of breath, rapid breathing, and shivering chills. On physical examination, she is in acute respiratory distress, using accessory muscles of respiration. Vital signs are: temperature 38.6 C (101.5 F), pulse 124/min, blood pressure 84/48 mm Hg (hypotension), respiratory rate 34/min, and oxygen saturation 82% while breathing 10 L/min via non-rebreather mask. Auscultation of the lungs reveals diffuse, bilateral coarse crackles throughout all lung fields. Cardiac auscultation reveals regular tachycardia without murmurs, rubs, or S3 gallop; jugular venous pressure is normal at 5 cm H2O. There is no urticaria, facial edema, wheezing, or stridor. Arterial blood gas reveals: pH 7.32, PaCO2 32 mm Hg, and PaO2 54 mm Hg (PaO2/FiO2 ratio = 112). A stat bedside portable chest radiograph reveals diffuse, bilateral, symmetrical fluffy alveolar infiltrates with normal cardiac silhouette and absence of cephalization or Kerley B lines. Bedside echocardiogram demonstrates normal left ventricular systolic function (EF 60%) with a non-distended inferior vena cava. Serum brain natriuretic peptide (BNP) is 64 pg/mL (normal: < 100 pg/mL). Which of the following is the underlying immunological mechanism and the most appropriate management strategy for this patient?",
+    "options": [
+      {
+        "text": "Transfusion-related acute lung injury (TRALI) mediated by donor anti-HLA or anti-neutrophil antibodies activating recipient neutrophils in pulmonary capillaries; management requires immediate transfusion cessation and supportive ventilatory care, avoiding loop diuretics",
+        "explanation": "This patient presents with classic TRANSFUSION-RELATED ACUTE LUNG INJURY (TRALI), the leading cause of transfusion-related fatalities. Master the clinical differentiation between TRALI and TRANSFUSION-ASSOCIATED CIRCULATORY OVERLOAD (TACO) on USMLE Step 2 CK: (1) PATHOPHYSIOLOGY AND THE 'TWO-HIT' MODEL: TRALI is an acute, immune-mediated, non-cardiogenic pulmonary edema occurring within 6 hours of blood product transfusion (most commonly associated with high-plasma-volume products: fresh frozen plasma [FFP] and apheresis platelets). (a) Hit 1: The recipient underlying systemic inflammatory state (in this patient, acute gangrenous cholecystitis and major surgery) induces endothelial adhesion and pulmonary capillary sequestration of primed recipient neutrophils. (b) Hit 2: The infused blood product contains high-titer DONOR ANTI-HLA CLASS I OR CLASS II ANTIBODIES (or anti-human neutrophil antigen [HNA] antibodies), typically from multiparous female blood donors alloimmunized during prior pregnancies. These donor antibodies bind directly to the primed recipient neutrophils sequestered in pulmonary microvessels, triggering an explosive oxidative burst, neutrophil degranulation, and release of elastases and reactive oxygen species. This induces massive endothelial cytotoxicity, breakdown of alveolar-capillary membrane integrity, and widespread leakage of proteinaceous fluid into alveolar spaces (non-cardiogenic capillary leak). (2) CLINICAL DIFFERENTIATION FROM TACO: (a) TRALI presents with acute respiratory distress, severe hypoxemia (PaO2/FiO2 <= 300), bilateral pulmonary infiltrates, FEVER (temperature > 38 C), and TRANSIENT HYPOTENSION OR DISTRIBUTIVE SHOCK. CRITICAL HEMODYNAMIC METRICS: Left atrial and ventricular filling pressures are entirely normal (normal JVP, no S3, normal ejection fraction, and NORMAL BNP < 100 pg/mL). (b) IN CONTRAST, TACO is pure hydrostatic cardiogenic volume overload, presenting with HYPERTENSION, elevated jugular venous distension, S3 gallop, cardiomegaly, and MARKEDLY ELEVATED BNP (> 300-1,000 pg/mL). (3) MANAGEMENT PRINCIPLES: The primary management for TRALI is IMMEDIATE CESSATION OF TRANSFUSION, aggressive respiratory and ventilatory support (supplemental oxygen, high-flow nasal cannula, or mechanical ventilation using lung-protective low tidal volumes), and hemodynamic stabilization. CRITICAL PHARMACOLOGICAL CONTRAINDICATION: LOOP DIURETICS (FUROSEMIDE) ARE INEFFECTIVE AND POTENTIALLY HARMFUL IN TRALI! In TRALI, intravascular volume is normal or reduced due to massive capillary leakage; administering aggressive diuretics to a hypotensive patient (BP 84/48 mm Hg) causes severe hypovolemic shock, prerenal azotemia, and hemodynamic collapse. (Diuretics are indicated for TACO, not TRALI)."
+      },
+      {
+        "text": "Transfusion-associated circulatory overload (TACO) mediated by excess hydrostatic hydrostatic volume expansion; management requires immediate intravenous furosemide 80 mg bolus",
+        "explanation": "TACO presents with hypertension, elevated JVP, S3 gallop, and high BNP; this patient has hypotension, fever, normal BNP, and capillary-leak edema (TRALI)."
+      },
+      {
+        "text": "Severe IgE-mediated anaphylactic transfusion reaction; management requires immediate intramuscular epinephrine and high-dose intravenous diphenhydramine",
+        "explanation": "Anaphylaxis presents with cutaneous urticaria, facial angioedema, wheezing, and stridor; bilateral alveolar infiltrates with normal breath sounds indicate TRALI."
+      },
+      {
+        "text": "Acute hemolytic transfusion reaction from ABO incompatibility; management requires immediate initiation of intravenous sodium bicarbonate and therapeutic plasma exchange",
+        "explanation": "Acute hemolytic transfusion reactions present with flank pain, gross hemoglobinuria, DIC, and positive direct Coombs testing, not isolated non-cardiogenic pulmonary edema."
+      },
+      {
+        "text": "Transfusion-transmitted bacterial sepsis from contaminated blood; management requires immediate high-dose intravenous vancomycin plus meropenem and blood culture collection",
+        "explanation": "Bacterial sepsis presents with high fevers and septic shock, but bilateral non-cardiogenic capillary-leak infiltrates post-FFP are the hallmark of TRALI."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0286",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Transfusion-Associated Graft-versus-Host Disease Gamma Irradiation Rule",
+    "subtopic": "Viable Donor T Lymphocytes, Bone Marrow Aplasia, and Irradiation Prevention",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Transfusion-Associated Graft-versus-Host Disease (TA-GvHD): CATASTROPHIC COMPLICATION WITH MORTALITY > 90%! PATHOPHYSIOLOGY: Viable, immunocompetent DONOR T LYMPHOCYTES in cellular blood products (PRBCs, platelets) recognize recipient tissues as foreign and mount an aggressive alloreactive cytotoxic immune response against host tissues. RISK GROUPS: 1. Immunodeficient hosts: Hematologic malignancies (Hodgkin lymphoma, acute leukemias), allogeneic/autologous hematopoietic stem cell transplant recipients, congenital cellular immunodeficiencies (SCID), patients treated with PURINE ANALOGS (Fludarabine, cladribine). 2. Immunocompetent hosts receiving blood from BIOLOGICALLY RELATED FAMILY MEMBERS (directed donor blood from parents, siblings, children) or HLA-matched donors: The donor is homozygous for an HLA haplotype that the recipient shares; the recipient immune system does not recognize donor cells as foreign, but the donor T cells recognize the other recipient haplotype as foreign and attack! CLINICAL MANIFESTATIONS (onset 1-4 weeks post-transfusion): High fever, diffuse maculopapular erythroderma progressing to toxic epidermal necrolysis, watery diarrhea, elevated transaminases/jaundice, and PATHOGNOMONIC PROFOUND BONE MARROW FAILURE (PANCYTOPENIA; recipient marrow is completely destroyed, unlike post-transplant GvHD where marrow is spared!). THE ABSOLUTE PREVENTION MANDATE: GAMMA IRRADIATION OF CELLULAR BLOOD PRODUCTS! Ionizing irradiation damages donor T-cell DNA, permanently abolishing their ability to divide and proliferate, while preserving RBC and platelet function. LEUKOREDUCTION FILTERS DO NOT PREVENT TA-GvHD (they remove 99.9% of WBCs, but the residual 10^6 T cells are sufficient to cause fatal TA-GvHD)!",
+    "necessaryInference": "Synthesize TA-GvHD risk factors (purine analogs, Hodgkin lymphoma, directed family blood) and recognize that gamma irradiation of cellular blood products is the mandatory prevention strategy, while leukoreduction filters are inadequate.",
+    "strongestDistractor": "Use standard third-generation leukoreduction filters to remove all donor leukocytes and prevent graft-versus-host disease",
+    "distractorExclusion": "Leukoreduction filters decrease CMV transmission and febrile non-hemolytic reactions, but residual donor T cells can still cause fatal TA-GvHD; gamma irradiation is mandatory.",
+    "citation": "Kopolovic I, Ostro J, Tsubota H, et al. A systematic review of transfusion-associated graft-versus-host disease. Blood. 2015;126(3):406-414. PMID: 25964669.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item tests prevention of transfusion-associated graft-versus-host disease, specifically highlighting the requirement for gamma irradiation over leukoreduction in high-risk patients.",
+      "distractorExclusionNotes": "Distractors confuse leukoreduction with irradiation, order washing alone, or fail to recognize the fatal bone marrow aplasia hallmark of TA-GvHD.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 38-year-old woman with stage III classical Hodgkin lymphoma who is undergoing salvage chemotherapy with ifosfamide, carboplatin, and etoposide (ICE) followed by high-dose fludarabine therapy in preparation for an autologous stem cell transplant develops symptomatic anemia with a hemoglobin of 6.8 g/dL. Her brother volunteers to donate whole blood as a designated directed donor to assist with her transfusion requirements. The patient is scheduled to receive two units of packed red blood cells. Which of the following processing procedures is mandatory for all cellular blood products administered to this patient to prevent a fatal immunological complication?",
+    "options": [
+      {
+        "text": "Gamma irradiation of cellular blood products to cross-link and inactivate donor T-lymphocyte DNA, permanently preventing mitotic proliferation",
+        "explanation": "This patient possesses multiple major risk factors for TRANSFUSION-ASSOCIATED GRAFT-VERSUS-HOST DISEASE (TA-GvHD), a catastrophic, near universally fatal (>90% mortality) transfusion complication: (1) PATHOPHYSIOLOGY OF TA-GvHD: TA-GvHD occurs when viable, immunocompetent donor T lymphocytes present in transfused cellular blood products (packed red blood cells, whole blood, or platelets) engraft in the recipient and mount an aggressive alloreactive immune attack against host tissues (skin, liver, gastrointestinal tract, and bone marrow). (2) HIGH-RISK POPULATIONS: (a) SEVERELY IMMUNOCOMPROMISED HOSTS: Patients with Hodgkin lymphoma, acute leukemias, hematopoietic stem cell transplants, and individuals treated with PURINE NUCLEOSIDE ANALOGS (such as fludarabine, cladribine, or clofarabine; fludarabine causes profound, protracted T-cell immunosuppression); and (b) PARTIAL HLA HAPLOTYPE MATCHING (DIRECTED FAMILY BLOOD DONATIONS): When an immunocompetent patient receives blood from a first- or second-degree biologically related family member (e.g., her brother), the donor is frequently homozygous for an HLA haplotype for which the recipient is heterozygous. The recipient immune system recognizes the donor cells as 'self' and fails to reject them; however, the donor T cells recognize the recipient's unshared HLA antigens as 'foreign' and launch a fulminant cytotoxic attack. (3) CLINICAL MANIFESTATION \u2014 THE FATAL MARROW SIGN: Symptoms develop 1 to 4 weeks after transfusion: high fever, diffuse maculopapular erythroderma, toxic epidermal necrolysis, profuse watery diarrhea, and jaundice. THE PATHOGNOMONIC HALLMARK IS PROFOUND PANCYTOPENIA AND COMPLETE BONE MARROW APLASIA (in contrast to post-transplant GvHD, where the bone marrow is of donor origin and is spared, in TA-GvHD the marrow is host origin and is completely obliterated by donor T cells). (4) THE ABSOLUTE PREVENTION MANDATE \u2014 GAMMA IRRADIATION: According to AABB and FDA guidelines, ALL CELLULAR BLOOD PRODUCTS ADMINISTERED TO HIGH-RISK PATIENTS (OR FROM BIOLOGICALLY RELATED DONORS) MUST UNDERGO GAMMA OR X-RAY IRRADIATION (typically 25 Gy). Ionizing radiation breaks donor T-lymphocyte DNA, completely abolishing their capacity for mitotic division and clonal expansion, while leaving non-nucleated erythrocytes and platelets functionally intact. (5) THE LEUKOREDUCTION PITFALL: Standard LEUKOREDUCTION FILTERS DO NOT PREVENT TA-GvHD! Leukoreduction filters remove 99.9% of white blood cells (reducing CMV transmission, febrile non-hemolytic reactions, and HLA alloimmunization); however, the residual 10^5 to 10^6 T cells remaining after leukoreduction are more than sufficient to trigger fatal TA-GvHD in an immunosuppressed host. Only irradiation prevents TA-GvHD."
+      },
+      {
+        "text": "Standard third-generation leukoreduction filtration alone without irradiation, which removes 99.9% of donor white blood cells",
+        "explanation": "Leukoreduction filters leave residual viable donor T lymphocytes that can still engraft and cause fatal TA-GvHD; gamma irradiation is mandatory."
+      },
+      {
+        "text": "Saline washing of packed red blood cells to strip away donor plasma proteins and prevent allergic anaphylactic reactions",
+        "explanation": "Saline washing removes plasma proteins for IgA deficiency, but does not inactivate viable donor T lymphocytes and does not prevent TA-GvHD."
+      },
+      {
+        "text": "Pre-storage cytomegalovirus (CMV) serological screening of donor units to prevent opportunistic viral pneumonitis",
+        "explanation": "CMV screening prevents viral infection, but provides zero protection against donor T-lymphocyte proliferation and fatal TA-GvHD."
+      },
+      {
+        "text": "Premedication of the patient with high-dose oral diphenhydramine and acetaminophen 30 minutes prior to transfusion",
+        "explanation": "Antihistamine and antipyretic premedications do not inactivate donor T lymphocytes and have zero efficacy in preventing fatal TA-GvHD."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0287",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Sickle Cell Acute Chest Syndrome Exchange Transfusion Criteria",
+    "subtopic": "New Segmental Infiltrate, PaO2 < 60 mm Hg, and Automated Erythrocytapheresis",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Sickle Cell Disease Acute Chest Syndrome (ACS): DEFINITION: New pulmonary infiltrate on chest radiography involving >= 1 complete lung segment accompanied by >= 1 of: fever (> 38.5 C), chest pain, tachypnea/wheezing/cough, or hypoxemia (drop in SpO2 > 3% from baseline). Leading cause of death in sickle cell patients! PATHOPHYSIOLOGY: Pulmonary microvascular vaso-occlusion, in situ sickling, pulmonary fat embolism from necrotic bone marrow, and secondary infection (Chlamydia, Mycoplasma, S. pneumoniae). MULTIMODAL THERAPY FOR ALL ACS: 1. Empiric IV antibiotics: 3rd-generation cephalosporin (Ceftriaxone) PLUS macrolide (Azithromycin). 2. Judicious IV fluids (hypotonic/isotonic at maintenance rate; over-hydration causes acute pulmonary edema!). 3. Pain control and incentive spirometry. INDICATIONS FOR EMERGENCY RED BLOOD CELL EXCHANGE TRANSFUSION (ERYTHROCYTAPHERESIS): SEVERE ACS: 1. Severe hypoxemia (arterial PaO2 < 60 mm Hg or SpO2 < 85-90% despite supplemental oxygen). 2. Multilobar pulmonary infiltrates or rapid radiographic progression. 3. Hemodynamic instability or declining mental status. TARGET: Automated exchange transfusion rapidly LOWERS HbS CONCENTRATION TO < 30% WHILE RAISING TOTAL HEMOGLOBIN TO ~10 G/DL (simple transfusion is inadequate and simple transfusion to Hb > 10-11 g/dL triggers fatal hyperviscosity crisis!).",
+    "necessaryInference": "Synthesize severe acute chest syndrome in sickle cell disease (multilobar infiltrates, PaO2 < 60 mm Hg despite oxygen) and recognize that emergency automated red blood cell exchange transfusion (targeting HbS < 30% and total Hb ~10 g/dL) is the life-saving treatment.",
+    "strongestDistractor": "Simple packed red blood cell transfusion targeting a final hemoglobin of 14 g/dL to maximize oxygen-carrying capacity",
+    "distractorExclusion": "Simple transfusion to hemoglobin > 10-11 g/dL in sickle cell disease dramatically elevates blood viscosity and triggers catastrophic stroke and multiorgan failure; exchange transfusion targeting HbS < 30% and Hb 10 is required.",
+    "citation": "Howard J, Hart N, Roberts-Harewood M, et al. Guideline on the management of acute chest syndrome in sickle cell disease. Br J Haematol. 2015;169(4):492-505. PMID: 25772338.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item assesses recognition of severe acute chest syndrome in sickle cell disease and the critical clinical indications for automated exchange transfusion versus simple transfusion.",
+      "distractorExclusionNotes": "Distractors inappropriately target hemoglobin > 10-11 g/dL with simple transfusion (risking fatal hyperviscosity), overhydrate with aggressive fluids, or give anticoagulation.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 22-year-old man with homozygous sickle cell anemia (HbSS) is admitted to the medical ward for an acute painful vaso-occlusive crisis involving his lower back and bilateral thighs. On admission, his chest radiograph was clear, and oxygen saturation was 97% on room air. Baseline hemoglobin is 7.4 g/dL. On hospital day 2, he develops sudden-onset pleuritic chest pain, tachypnea, and productive cough with blood-tinged sputum. On physical examination, he appears acutely distressed and exhausted. Vital signs are: temperature 39.1 C, pulse 128/min, blood pressure 104/62 mm Hg, respiratory rate 36/min, and oxygen saturation 84% on room air, which improves only to 88% while breathing through an oxygen reservoir mask at 15 L/min. Auscultation reveals bronchial breath sounds and coarse crackles over the right middle and left lower lung fields. Repeat portable chest radiography reveals new, dense consolidations in the right middle lobe and left lower lobe. Arterial blood gas on 100% FiO2 reveals: pH 7.30, PaCO2 34 mm Hg, and PaO2 54 mm Hg (severe refractory hypoxemia). Complete blood count demonstrates: hemoglobin 6.2 g/dL, reticulocytes 12%, and WBC 24,800/mm3. Hemoglobin electrophoresis demonstrates 84% HbS and 16% HbF. In addition to broad-spectrum intravenous ceftriaxone and azithromycin, which of the following is the most appropriate definitive intervention for this patient?",
+    "options": [
+      {
+        "text": "Emergency automated red blood cell exchange transfusion (erythrocytapheresis) targeting a hemoglobin S concentration < 30% and a final total hemoglobin of approximately 10 g/dL",
+        "explanation": "This patient presents with SEVERE ACUTE CHEST SYNDROME (ACS), the leading cause of mortality in sickle cell disease (HbSS). Master the diagnostic criteria, severity stratification, and transfusion strategies on USMLE Step 2 CK: (1) DEFINITION AND PATHOPHYSIOLOGY: ACS is defined as a new pulmonary infiltrate on chest radiography involving >= 1 complete lung segment accompanied by >= 1 clinical sign: fever (> 38.5 C), chest pain, tachypnea, wheezing, cough, or acute hypoxemia (SpO2 drop > 3% from baseline). Pathophysiology involves a vicious cycle of: (a) Pulmonary microvascular vaso-occlusion: Deoxygenated HbS molecules polymerize into rigid sickle polymers, occluding pulmonary capillaries; (b) Hypoventilation and atelectasis from rib/thoracic bone infarcts; (c) Pulmonary fat embolism: Infarcted necrotic bone marrow releases fat droplets into the venous circulation that lodge in pulmonary vessels; and (d) Secondary atypical pulmonary infections (Chlamydia pneumoniae, Mycoplasma pneumoniae, viruses, or S. pneumoniae). Hypoxemia causes further HbS polymerization, accelerating sickling and leading to respiratory failure and death. (2) SEVERITY STRATIFICATION AND MANAGEMENT: (a) MILD-TO-MODERATE ACS: In patients with single-lobe disease, mild hypoxemia responsive to nasal cannula, and stable vitals: First-line management is conservative: IV ceftriaxone + azithromycin, judicious IV fluids (avoid over-hydration which causes pulmonary edema!), multimodal analgesia, and simple PRBC transfusion if hemoglobin drops > 1-2 g/dL below baseline (targeting total Hb ~10 g/dL). (b) SEVERE ACS (THIS PATIENT): Criteria for severe, life-threatening ACS include: SEVERE HYPOXEMIA (arterial PaO2 < 60 mm Hg on room air, or persistent SpO2 < 90% despite high-flow oxygen); multi-lobar pulmonary infiltrates; respiratory acidosis; or clinical deterioration despite simple transfusion. (3) DEFINITIVE INTERVENTION \u2014 AUTOMATED EXCHANGE TRANSFUSION: Severe ACS mandates EMERGENCY AUTOMATED RED BLOOD CELL EXCHANGE TRANSFUSION (erythrocytapheresis). Exchange transfusion mechanically removes the patient rigid HbS-containing erythrocytes and simultaneously replaces them with normal donor HbA red blood cells. GUIDELINE TARGETS: Rapidly lower the HEMOGLOBIN S CONCENTRATION TO < 30% WHILE MAINTAINING TOTAL HEMOGLOBIN AT APPROXIMATELY 10 G/DL. (4) THE FATAL PITFALL OF SIMPLE TRANSFUSION: Simple transfusion is inadequate in severe ACS because it does not rapidly lower the proportion of circulating sickled HbS cells. Furthermore, transfusing simple packed red blood cells to push the total hemoglobin above 10 to 11 g/dL dramatically increases whole-blood viscosity in the presence of high circulating HbS, triggering catastrophic hyperviscosity crisis, acute stroke, and multi-organ ischemic infarction."
+      },
+      {
+        "text": "Simple packed red blood cell transfusion targeting a final hemoglobin of 14 g/dL to maximize oxygen delivery to ischemic lung tissue",
+        "explanation": "Pushing hemoglobin > 10-11 g/dL with simple transfusion in sickle cell disease dramatically elevates blood viscosity, triggering fatal stroke and multiorgan failure."
+      },
+      {
+        "text": "Rapid infusion of 3 liters of 0.45% hypotonic saline over 2 hours to reverse microvascular dehydration and sickling",
+        "explanation": "Aggressive fluid loading in acute chest syndrome rapidly precipitates acute pulmonary edema and respiratory arrest; fluids must be strictly maintenance."
+      },
+      {
+        "text": "Initiation of high-dose oral hydroxyurea 30 mg/kg daily as the primary acute treatment to upregulate fetal hemoglobin",
+        "explanation": "Hydroxyurea takes weeks to months to elevate HbF and is used for long-term outpatient maintenance; it has zero efficacy in acute severe chest syndrome."
+      },
+      {
+        "text": "Immediate therapeutic anticoagulation with intravenous unfractionated heparin for presumed acute pulmonary thromboembolism",
+        "explanation": "ACS is driven by microvascular sickling and fat embolism, not venous macro-thrombi; heparin increases risk of massive pulmonary hemorrhage."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0288",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Hematology",
+    "topic": "Sickle Cell Aplastic Crisis vs Acute Splenic Sequestration Crisis",
+    "subtopic": "Parvovirus B19 Reticulocytopenia vs Splenomegaly with Hyper-Reticulocytosis",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Acute Anemic Crises in Sickle Cell Disease: 1. APLASTIC CRISIS: Precipitous drop in hemoglobin accompanied by SEVERE RETICULOCYTOPENIA (RETICULOCYTE COUNT < 1% or < 10,000/mm3; zero new RBC production!). ETIOLOGY: PARVOVIRUS B19 infection: The virus selectively binds the erythrocyte P-antigen, invading and destroying erythroid progenitor cells (erythroblasts) in the bone marrow, causing transient cessation of erythropoiesis for 7-14 days. Because sickle RBCs survive only 10-20 days (vs 120 days normal), halting production causes a rapid, life-threatening plunge in hemoglobin! Physical exam: Pale, lethargic, tachycardia; NO SPLENOMEGALY! Treatment: Packed red blood cell transfusion + respiratory droplet isolation (prevent nosocomial spread). 2. ACUTE SPLENIC SEQUESTRATION CRISIS: Typically occurs in infants/toddlers (age 6 months to 3 years) before autosplenectomy. Massive intrasplenic trapping of sickled erythrocytes in splenic red pulp cords: Sudden profound anemia, RAPIDLY ENLARGING, TENDER SPLENOMEGALY, hypovolemic shock, AND MARKED HYPER-RETICULOCYTOSIS (> 10% to 20%; marrow is working furiously to compensate!). Treatment: Cautious small-volume PRBC transfusion (prevent hyperviscosity when spleen autotransfuses stored RBCs upon recovery).",
+    "necessaryInference": "Differentiate sickle cell aplastic crisis (parvovirus B19, reticulocytopenia < 1%, absent splenomegaly) from splenic sequestration (hyper-reticulocytosis, tender splenomegaly, hypovolemic shock).",
+    "strongestDistractor": "Acute splenic sequestration crisis characterized by massive intrasplenic erythrocyte pooling and reticulocytosis",
+    "distractorExclusion": "Splenic sequestration features an acutely enlarged, tender spleen with marked compensatory reticulocytosis (> 10%); this patient has an absent spleen and profound reticulocytopenia (< 0.1%).",
+    "citation": "Ballas SK. Sickle cell disease: classification of clinical complications and approaches to preventive and therapeutic management. Clin Hemorheol Microcirc. 2018;68(2-3):105-128. PMID: 29630541.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item assesses pathophysiological and laboratory distinction between parvovirus B19-induced aplastic crisis (reticulocytopenia) and splenic sequestration (reticulocytosis with splenomegaly) in sickle cell anemia.",
+      "distractorExclusionNotes": "Distractors confuse reticulocyte responses in aplastic vs sequestration crisis, suspect G6PD deficiency, or misdiagnose acute leukemia.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 9-year-old boy with homozygous sickle cell anemia (HbSS) is brought to the pediatric emergency department due to extreme fatigue, pallor, dizziness when sitting upright, and shortness of breath for 2 days. Four days ago, he developed a mild low-grade fever, headache, and runny nose; several children in his elementary school class recently had 'slapped-cheek' facial rashes. His baseline hemoglobin is 8.0 g/dL with a baseline reticulocyte count of 8% to 10%. On physical examination, he appears profoundly pale, listless, and lethargic. Vital signs are: temperature 37.8 C, pulse 138/min, blood pressure 88/52 mm Hg, and respiratory rate 26/min. Cardiac auscultation reveals a prominent grade 3/6 systolic ejection flow murmur across the precordium with bounding carotid pulses. Abdominal examination reveals a soft, non-tender abdomen; the liver and spleen are completely non-palpable, and there is no abdominal distension. Sclerae are mildly icteric. Laboratory evaluation reveals: - Hemoglobin: 3.6 g/dL (normal baseline: 8.0 g/dL; profound drop) - Hematocrit: 11% - Platelet Count: 180,000/mm3 - Total WBC: 6,800/mm3 - Reticulocyte Count: 0.1% (Absolute Reticulocyte Count: 3,800/mm3; normal baseline > 150,000/mm3) - Total Bilirubin: 2.2 mg/dL (unchanged from baseline) Which of the following is the definitive diagnosis and the underlying pathophysiological mechanism of this acute crisis?",
+    "options": [
+      {
+        "text": "Aplastic crisis caused by Parvovirus B19 infection selectively infecting and destroying erythroid progenitor cells in the bone marrow, resulting in temporary cessation of erythropoiesis and severe reticulocytopenia",
+        "explanation": "This patient presents with an acute APLASTIC CRISIS triggered by PARVOVIRUS B19 infection in the setting of homozygous sickle cell anemia (HbSS). Master the clinical distinction between the three acute anemic crises in sickle cell disease on USMLE Step 2 CK: (1) PATHOPHYSIOLOGY OF PARVOVIRUS B19 APLASTIC CRISIS: In sickle cell disease, chronic baseline hemolysis shortens erythrocyte lifespan from the normal 120 days down to only 10 to 20 days. To maintain a steady-state hemoglobin of 7 to 9 g/dL, the bone marrow operates at maximal compensatory erythropoiesis, reflected by a baseline reticulocyte count of 8% to 15%. Parvovirus B19 (a single-stranded non-enveloped DNA virus that causes erythema infectiosum / 'fifth disease' with 'slapped cheek' rash in healthy children) binds specifically to the P-ANTIGEN (globoside) on the surface of human erythroid progenitor cells. Upon entering proerythroblasts and normoblasts in the bone marrow, the virus replicates and induces cytotoxic apoptosis, temporarily shutting down red blood cell production for 7 to 14 days. In an individual with normal RBC survival (120 days), losing 7 days of production causes an imperceptible drop in hemoglobin (~7% decline). IN SICKLE CELL PATIENTS, HOWEVER, whose red cells hemolyze in 10 to 20 days, halting production causes a CATASTROPHIC, PRECIPITOUS PLUNGE IN HEMOGLOBIN (often dropping to 2-4 g/dL within days), leading to high-output heart failure, lethargy, and shock. (2) THE DECISIVE LABORATORY HALLMARK \u2014 RETICULOCYTE COUNT: The pathognomonic finding is PROFOUND RETICULOCYTOPENIA: The reticulocyte count falls to < 1% (in this patient, 0.1%), and the absolute reticulocyte count is near zero (< 10,000/mm3). This reflects complete marrow erythroid shutdown. (3) CRITICAL DIFFERENTIATION FROM OTHER ANEMIC CRISES: (a) SPLENIC SEQUESTRATION CRISIS: Typically occurs in infants and young children (< 3-5 years) before autosplenectomy. Sickled red cells become physically trapped in the splenic red pulp cords, causing sudden severe anemia, hypovolemic shock, RAPIDLY EXPANDING TENDER SPLENOMEGALY, AND MARKED RETICULOCYTOSIS (> 10% to 20%; the marrow is functioning normally and pouring out reticulocytes). In our 9-year-old patient, the spleen has already undergone fibrotic autosplenectomy and is non-palpable, and the reticulocyte count is 0.1%, ruling out sequestration. (b) HYPERHEMOLYTIC CRISIS: Accelerated hemolysis with marked reticulocytosis, jaundice, and high indirect bilirubin. (4) MANAGEMENT: Immediate blood transfusion with packed red blood cells, continuous cardiopulmonary monitoring, and droplet isolation to prevent nosocomial transmission."
+      },
+      {
+        "text": "Acute splenic sequestration crisis caused by sudden microvascular entrapment of erythrocytes in the splenic cords, resulting in massive splenomegaly and reticulocytosis",
+        "explanation": "Splenic sequestration features an acutely enlarged, tender spleen with high reticulocytosis (> 10%); this patient has an absent spleen and reticulocytopenia (0.1%)."
+      },
+      {
+        "text": "Hyperhemolytic crisis caused by acute complement-mediated intravascular hemolysis, resulting in hemoglobinuria and reticulocytosis",
+        "explanation": "Hyperhemolytic crisis features accelerated hemolysis with rising bilirubin, dark urine, and high reticulocyte counts, not absent reticulocytes."
+      },
+      {
+        "text": "Acute megaloblastic crisis secondary to severe dietary folic acid deficiency, resulting in nuclear-cytoplasmic dyssynchrony",
+        "explanation": "Folate deficiency produces macrocytic megaloblastic changes insidiously over months, not an acute precipitous drop to Hb 3.6 within 4 days."
+      },
+      {
+        "text": "Autoimmune pure red cell aplasia mediated by anti-erythropoietin antibodies secondary to chronic blood transfusions",
+        "explanation": "Anti-EPO pure red cell aplasia is a rare chronic complication of recombinant EPO therapy, not an acute post-viral infection in a child."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0289",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Antiphospholipid Syndrome in Pregnancy Aspirin and LMWH Regimen",
+    "subtopic": "Recurrent Pregnancy Loss, Placental Thrombosis, and Warfarin Teratogenicity",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Antiphospholipid Syndrome (APS) in Pregnancy: DIAGNOSTIC CRITERIA (Sydney Criteria): >= 1 clinical criterion + >= 1 persistent laboratory criterion. PREGNANCY MORBIDITY CRITERIA: 1. >= 3 unexplained consecutive spontaneous abortions before 10 weeks gestation. 2. >= 1 unexplained fetal death of a morphologically normal fetus at >= 10 weeks gestation. 3. >= 1 premature birth at < 34 weeks due to severe preeclampsia, eclampsia, or placental insufficiency. LABORATORY CRITERIA (present on >= 2 occasions at least 12 weeks apart): Lupus anticoagulant, Anticardiolipin antibody (IgG/IgM > 40 GPL/MPL), or Anti-beta2-glycoprotein-I antibody (IgG/IgM). PATHOPHYSIOLOGY: Antiphospholipid antibodies bind trophoblast annexin A5 and activate complement on decidual endothelium, causing placental infarction, uteroplacental insufficiency, and fetal loss. FIRST-LINE MANAGEMENT IN PREGNANCY TO ENSURE FETAL VIABILITY: COMBINATION OF LOW-DOSE ASPIRIN (81 MG DAILY) PLUS PROPHYLACTIC LOW-MOLECULAR-WEIGHT HEPARIN (LMWH; e.g., ENOXAPARIN 40 MG DAILY) STARTED AS SOON AS PREGNANCY IS CONFIRMED! THE DEADLY CONTRAINDICATION: WARFARIN IS STRICTLY CONTRAINDICATED IN PREGNANCY (crosses placenta; teratogenic in first trimester causing warfarin embryopathy: nasal hypoplasia, stippled epiphyses, and CNS defects). LMWH does NOT cross the placenta.",
+    "necessaryInference": "Synthesize antiphospholipid syndrome in pregnancy (recurrent second-trimester miscarriages, positive lupus anticoagulant) and deduce that combination low-dose aspirin plus LMWH throughout pregnancy is the mandatory regimen, while warfarin is contraindicated.",
+    "strongestDistractor": "Initiate oral warfarin 5 mg daily targeting an INR of 2.0 to 3.0 throughout all trimesters of pregnancy",
+    "distractorExclusion": "Warfarin crosses the placenta and causes severe teratogenic embryopathy (nasal hypoplasia, chondrodysplasia) and fetal hemorrhage; LMWH does not cross the placenta.",
+    "citation": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 132: Antiphospholipid Syndrome. Obstet Gynecol. 2012;120(6):1514-1521. PMID: 23168784.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item tests recognition of obstetric antiphospholipid syndrome criteria, prioritization of dual aspirin plus LMWH therapy, and awareness of warfarin teratogenicity.",
+      "distractorExclusionNotes": "Distractors inappropriately prescribe teratogenic warfarin, omit heparin in high-risk pregnancy loss, or use high-dose prednisone.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 31-year-old woman, gravida 4 para 0, presents to the obstetrics clinic at 6 weeks gestation for prenatal care following a positive home urine pregnancy test. Her past obstetric history is notable for three consecutive, unexplained pregnancy losses: an intrauterine fetal demise at 18 weeks gestation with a morphologically normal fetus, and two early spontaneous miscarriages at 8 and 9 weeks gestation. She has no personal history of deep vein thrombosis or pulmonary embolism. During her prior workup for recurrent pregnancy loss, laboratory testing performed 14 weeks apart demonstrated persistent elevation of anticardiolipin IgG antibodies (68 GPL units; normal: < 15 GPL units) and a positive lupus anticoagulant documented by a prolonged dilute Russell viper venom time (dRVVT) that failed to correct with normal plasma but corrected with excess phospholipid. She takes prenatal vitamins daily. Physical examination reveals an alert, healthy woman with normal vital signs. Pelvic ultrasound confirms a single viable intrauterine gestational sac with a fetal pole demonstrating an active heart rate of 124/min, consistent with 6 weeks 2 days gestation. Which of the following is the most appropriate pharmacotherapeutic regimen to maximize the likelihood of a successful full-term live birth in this patient?",
+    "options": [
+      {
+        "text": "Initiate oral low-dose aspirin (81 mg daily) combined with daily prophylactic subcutaneous low-molecular-weight heparin (such as enoxaparin 40 mg daily) immediately and continue throughout pregnancy",
+        "explanation": "This patient meets definitive diagnostic criteria for OBSTETRIC ANTIPHOSPHOLIPID SYNDROME (APS). Master the diagnostic criteria, placental pathophysiology, and pregnancy pharmacotherapy on USMLE Step 2 CK: (1) DIAGNOSTIC CRITERIA (SYDNEY CRITERIA): Requires at least one clinical criterion and at least one persistent laboratory criterion: (a) Clinical Obstetric Criteria: (i) >= 1 unexplained fetal death of a morphologically normal fetus at >= 10 weeks gestation; OR (ii) >= 1 premature birth at < 34 weeks due to severe preeclampsia, eclampsia, or placental insufficiency; OR (iii) >= 3 unexplained consecutive spontaneous abortions before 10 weeks gestation. (b) Laboratory Criteria (must be documented on >= 2 occasions at least 12 weeks apart): Lupus anticoagulant, Anticardiolipin antibody (IgG or IgM in medium-to-high titers > 40 GPL/MPL), or Anti-beta2-glycoprotein-I antibody (IgG or IgM). This patient satisfies both the clinical criteria (one 18-week loss plus two early losses) and laboratory criteria (persistent high-titer anticardiolipin IgG and positive lupus anticoagulant). (2) PATHOPHYSIOLOGY IN PREGNANCY: Antiphospholipid antibodies target beta-2-glycoprotein-I expressed on syncytiotrophoblast membranes, disrupting annexin A5 (a natural anticoagulant 'shield' on placental villi). This induces complement activation, localized thrombosis of maternal spiral arteries, and defective trophoblast invasion, leading to placental infarction, fetal growth restriction, preeclampsia, and recurrent miscarriage. (3) FIRST-LINE EVIDENCE-BASED MANAGEMENT IN PREGNANCY: According to ACOG and American Society of Hematology (ASH) guidelines, women with obstetric APS require COMBINATION THERAPY WITH LOW-DOSE ASPIRIN (81 MG DAILY) PLUS PROPHYLACTIC DOSES OF LOW-MOLECULAR-WEIGHT HEPARIN (LMWH, such as enoxaparin 40 mg subcutaneously daily) initiated as soon as viable intrauterine pregnancy is documented. Combination therapy reduces miscarriage rates by >50% and achieves live birth rates >75-80%. (4) WHY LMWH AND NOT WARFARIN? LMWH is a large, negatively charged polysaccharide that DOES NOT CROSS THE PLACENTA and carries zero teratogenic risk. IN CONTRAST, WARFARIN FREELY CROSSES THE PLACENTA AND IS A POTENT TERATOGEN, especially during organogenesis (weeks 6-12), causing WARFARIN EMBRYOPATHY (severe nasal hypoplasia, depressed nasal bridge, stippled epiphyses [chondrodysplasia punctata], optic atrophy, and mental retardation), as well as fetal cerebral hemorrhage in the second and third trimesters. Warfarin is strictly contraindicated throughout pregnancy."
+      },
+      {
+        "text": "Initiate oral warfarin 5 mg daily targeting an international normalized ratio (INR) of 2.0 to 3.0 throughout all trimesters of pregnancy",
+        "explanation": "Warfarin crosses the placenta and causes severe teratogenic embryopathy (nasal hypoplasia, chondrodysplasia) and fetal hemorrhage; LMWH does not cross the placenta."
+      },
+      {
+        "text": "Oral low-dose aspirin 81 mg daily monotherapy without anticoagulation, reserving heparin only if lower extremity deep vein thrombosis develops",
+        "explanation": "Aspirin monotherapy is significantly inferior to combination aspirin plus LMWH in obstetric APS, resulting in unacceptable recurrent miscarriage rates."
+      },
+      {
+        "text": "High-dose oral prednisone 40 mg daily for the first 20 weeks of gestation to suppress autoimmune antibody synthesis",
+        "explanation": "Corticosteroids do not improve live birth rates in obstetric APS and significantly increase risks of gestational diabetes, hypertension, and preterm birth."
+      },
+      {
+        "text": "Monthly intravenous immunoglobulin (IVIG) infusions combined with therapeutic plasma exchange every 2 weeks",
+        "explanation": "IVIG and plasma exchange are expensive, unproven second-line therapies reserved for catastrophic APS, not standard obstetric APS."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0290",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Paroxysmal Nocturnal Hemoglobinuria Flow Cytometry and Eculizumab",
+    "subtopic": "PIGA Gene Mutation, Loss of CD55 and CD59, Budd-Chiari Thrombosis, and Meningococcal Vaccine",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Paroxysmal Nocturnal Hemoglobinuria (PNH): PATHOPHYSIOLOGY: Acquired somatic mutation in the PIGA gene (X-linked) in hematopoietic stem cells. PIGA encodes an enzyme essential for synthesizing GLYCOSYLPHOSPHATIDYLINOSITOL (GPI) ANCHORS. GPI anchors tether protective complement-regulatory surface proteins to cell membranes, specifically: 1. CD55 (Decay-Accelerating Factor, DAF; accelerates decay of C3/C5 convertases). 2. CD59 (MAC Inhibitory Protein, MIRL; prevents C9 binding and membrane attack complex [MAC] assembly). Loss of CD55 and CD59 renders erythrocytes vulnerable to UNCHECKED COMPLEMENT-MEDIATED INTRAVASCULAR HEMOLYSIS (worse at night due to shallow breathing/mild nocturnal respiratory acidosis which enhances complement activation; manifests as dark morning tea-colored urine, high LDH, indirect hyperbilirubinemia, low haptoglobin, negative Coombs). THE MOST DANGEROUS COMPLICATION: SEVERE THROMBOPHILIA! Lysis releases free hemoglobin (which scavenges nitric oxide, causing smooth muscle spasm, dysphagia, erectile dysfunction, pulmonary hypertension) and activates platelets, leading to UNUSUAL VENOUS THROMBOSES: HEPATIC VEIN THROMBOSIS (BUDD-CHIARI SYNDROME), mesenteric vein, portal vein, cerebral cavernous/sagittal sinus! DIAGNOSTIC GOLD STANDARD: MULTI-PARAMETER FLOW CYTOMETRY DEMONSTRATING ABSENCE OF CD55 AND CD59 (or FLAER [fluorescently labeled aerolysin]) on granulocytes/erythrocytes! FIRST-LINE THERAPY: ECULIZUMAB (monoclonal anti-C5 antibody; halts terminal complement MAC assembly!). MANDATORY PRE-TREATMENT SAFETY REQUIREMENT: MENINGOCOCCAL VACCINATION (Neisseria meningitidis infection risk increases > 1,000-fold due to MAC blockade!).",
+    "necessaryInference": "Synthesize PNH presentation (intravascular hemolysis, dark morning urine, hepatic vein thrombosis/Budd-Chiari) and identify flow cytometry showing absence of CD55/CD59 as diagnostic, requiring eculizumab with mandatory prior meningococcal vaccination.",
+    "strongestDistractor": "Perform Ham acid hemolysis test to confirm red cell lysis, followed by immediate lifelong therapeutic warfarin monotherapy without complement inhibitors",
+    "distractorExclusion": "The Ham test is historically obsolete; flow cytometry is the gold standard, and eculizumab is the definitive therapy, which requires mandatory meningococcal vaccination.",
+    "citation": "Brodsky RA. Paroxysmal nocturnal hemoglobinuria. Blood. 2014;124(18):2804-2811. PMID: 25237200.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item assesses modern PNH diagnostic gold standard (flow cytometry for CD55/CD59), recognition of atypical venous thrombophilia (Budd-Chiari), and eculizumab C5 blockade with meningococcal vaccination mandate.",
+      "distractorExclusionNotes": "Distractors feature obsolete diagnostic tests (Ham test/sucrose lysis), manage thrombosis without complement inhibition, or omit meningococcal immunization.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 34-year-old woman presents to the emergency department with severe right upper quadrant abdominal pain, abdominal distension, and jaundice for 4 days. Over the past 6 months, she has noticed persistent fatigue, intermittent difficulty swallowing solid foods, and episodes where her first morning urine is dark reddish-brown like cola, which progressively clears to pale yellow by the afternoon. On physical examination, she appears acutely uncomfortable and icteric. Vital signs are: temperature 37.4 C, pulse 102/min, and blood pressure 114/72 mm Hg. Abdominal examination reveals a tensely distended abdomen with prominent shifting dullness, fluid wave, and tender hepatomegaly extending 6 cm below the right costal margin. Neurological examination is normal. Laboratory evaluation reveals: - Hemoglobin: 7.8 g/dL - Mean Corpuscular Volume (MCV): 94 fL - Platelet Count: 68,000/mm3 - Total WBC: 3,400/mm3 (pancytopenia) - Reticulocyte Count: 6.4% - Lactate Dehydrogenase (LDH): 1,940 U/L (normal: 140-280 U/L) - Total Bilirubin: 4.6 mg/dL (Direct Bilirubin: 0.8 mg/dL) - Serum Haptoglobin: < 10 mg/dL (undetectable) - Direct Antiglobulin (Coombs) Test: Completely negative - Serum Aminotransferases: AST 142 U/L, ALT 168 U/L An urgent Doppler ultrasound of the abdomen demonstrates acute, complete thrombotic occlusion of all three hepatic veins with hepatomegaly and massive ascites (Budd-Chiari syndrome). Which of the following is the gold-standard diagnostic test to establish the underlying diagnosis, and what mandatory vaccination must be administered prior to initiating the definitive therapeutic monoclonal antibody?",
+    "options": [
+      {
+        "text": "Multi-parameter flow cytometry demonstrating absence of glycosylphosphatidylinositol-anchored proteins (CD55 and CD59) on granulocytes; Neisseria meningitidis vaccination is mandatory prior to initiating eculizumab",
+        "explanation": "This patient presents with PAROXYSMAL NOCTURNAL HEMOGLOBINURIA (PNH) complicated by acute BUDD-CHIARI SYNDROME (hepatic vein thrombosis). Master the pathophysiology, flow cytometry diagnosis, and complement therapeutics on USMLE Step 2 CK: (1) PATHOPHYSIOLOGY AND THE PIGA MUTATION: PNH is an acquired, clonal hematopoietic stem cell disorder caused by a somatic loss-of-function mutation in the X-linked PIGA (phosphatidylinositol glycan class A) gene. PIGA encodes an enzyme required for the biosynthesis of GLYCOSYLPHOSPHATIDYLINOSITOL (GPI) ANCHORS. GPI anchors tether numerous complement-regulatory proteins to the outer leaflet of cell membranes, most critically: (a) CD55 (Decay-Accelerating Factor, DAF): Accelerates the dissociation of C3 and C5 convertases; and (b) CD59 (Membrane Attack Complex Inhibitory Protein, MIRL): Directly blocks the incorporation of complement C9 into the C5b-8 complex, preventing assembly of the cytotoxic MEMBRANE ATTACK COMPLEX (MAC, C5b-9). (2) TRIAD OF CLINICAL FINDINGS: (a) Complement-Mediated Intravascular Hemolysis: In the absence of CD55/CD59, red cells are chronically lysed by alternate complement pathway activation. Nocturnal hypoventilation produces mild physiological respiratory acidosis that accelerates complement binding, causing dark morning urine (hemoglobinuria) that clears as daytime ventilation improves. Intravascular lysis releases free plasma hemoglobin, which avidly scavenges NITRIC OXIDE (NO), producing severe systemic smooth muscle dystonias (esophageal spasms/dysphagia, erectile dysfunction, abdominal pain, and pulmonary hypertension); (b) Pancytopenia / Bone Marrow Failure (aplastic anemia overlap); and (c) SEVERE, LIFE-THREATENING THROMBOPHILIA: Thrombosis is the leading cause of mortality in PNH (seen in >40% of patients). Platelet activation and endothelial nitric oxide depletion drive thrombosis in ATYPICAL VENOUS SITES: Hepatic veins (Budd-Chiari syndrome), mesenteric veins, dermal veins, and cerebral sagittal sinuses. (3) GOLD STANDARD DIAGNOSTIC TEST: The historic Ham acid hemolysis test and sucrose lysis test are OBSOLETE and have zero clinical utility. The modern gold standard is MULTI-PARAMETER FLOW CYTOMETRY, which directly demonstrates the complete absence of CD55 and CD59, or uses fluorescently labeled aerolysin (FLAER; binds directly to the GPI anchor) on peripheral blood granulocytes and monocytes. (4) DEFINITIVE THERAPY AND THE MENINGOCOCCAL VACCINE MANDATE: The first-line therapy of choice is ECULIZUMAB (or ravulizumab), a humanized monoclonal antibody that binds complement protein C5, preventing cleavage into C5a and C5b and completely blocking MAC (C5b-9) assembly. Eculizumab rapidly arrests intravascular hemolysis, reduces transfusion requirements, and reduces thrombotic events by >85%. CRITICAL SAFETY MANDATE: Because terminal complement components (C5-C9) are the primary defense against encapsulated Neisseria species, blocking C5 increases the risk of invasive, fulminant MENINGOCOCCAL SEPSIS AND MENINGITIS by > 1,000-fold! ALL PATIENTS MUST RECEIVE BOTH MENINGOCOCCAL CONJUGATE (MENACWY) AND SEROGROUP B (MENB) VACCINATIONS AT LEAST 2 WEEKS PRIOR TO STARTING ECULIZUMAB, accompanied by prophylactic oral penicillin or ciprofloxacin."
+      },
+      {
+        "text": "Acidified serum lysis (Ham test) demonstrating in vitro erythrocyte lysis; Streptococcus pneumoniae vaccination is mandatory prior to eculizumab",
+        "explanation": "The Ham test is historically obsolete and abandoned; flow cytometry for CD55/CD59 is the gold standard, and Neisseria meningitidis (not S. pneumoniae) is the vaccine required."
+      },
+      {
+        "text": "Bone marrow aspirate demonstrating ringed sideroblasts on Prussian blue staining; Hepatitis B vaccination is mandatory prior to azacitidine",
+        "explanation": "Ringed sideroblasts diagnose myelodysplastic syndrome or sideroblastic anemia, not PNH; PNH features flow cytometric absence of CD55/CD59."
+      },
+      {
+        "text": "Osmotic fragility testing using graded hypotonic saline solutions; Varicella-zoster vaccination is mandatory prior to splenectomy",
+        "explanation": "Osmotic fragility diagnoses hereditary spherocytosis (extravascular splenic hemolysis with positive spherocytes), not intravascular PNH."
+      },
+      {
+        "text": "Genetic testing for JAK2 V617F point mutation on peripheral blood; Haemophilus influenzae type b vaccination is mandatory prior to hydroxyurea",
+        "explanation": "JAK2 V617F mutation diagnoses polycythemia vera and essential thrombocythemia; PNH is caused by somatic mutations in PIGA."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0291",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Polycythemia Vera JAK2 Mutation vs Secondary Erythrocytosis",
+    "subtopic": "Suppressed Serum Erythropoietin, Aquagenic Pruritus, Phlebotomy, and Hydroxyurea",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Polycythemia Vera (PV) vs Secondary Polycythemia: 1. POLYCYTHEMIA VERA: Clonal myeloproliferative neoplasm driven by a constitutive gain-of-function mutation in the JAK2 GENE (JAK2 V617F mutation in > 95%; exon 12 in 3%). JAK2 mutation causes cytokine-independent, autonomous erythropoiesis, granulopoiesis, and megakaryopoiesis ('panmyelosis'). Clinical: Hyperviscosity (headache, dizziness, visual disturbances, TIA), AQUAGENIC PRURITUS (severe generalized itching without rash after warm baths/showers, mediated by basophil/mast cell histamine release!), ERYTHROMELALGIA (burning pain, erythema, and warmth in hands/feet due to microvascular thromboses; responsive to aspirin!), splenomegaly, gout, and high thrombosis risk (DVT, PE, arterial stroke, Budd-Chiari). DECISIVE LABORATORY DIFFERENTIATION: SERUM ERYTHROPOIETIN (EPO) LEVEL IS LOW / SUPPRESSED (< 5 mIU/mL)! Autonomous RBC proliferation creates negative feedback on renal peritubular interstitial cells, suppressing EPO. 2. SECONDARY POLYCYTHEMIA: Driven by elevated EPO (SERUM EPO IS HIGH!): Hypoxia-driven (COPD, cyanotic congenital heart disease, high altitude, obstructive sleep apnea, heavy smoking [carboxyhemoglobinemia]) or Autonomous tumor secretion (renal cell carcinoma, hepatocellular carcinoma, cerebellar hemangioblastoma, uterine leiomyoma). PV MANAGEMENT: 1. THERAPEUTIC PHLEBOTOMY TO MAINTAIN HEMATOCRIT < 45% (in both men and women; rigorously proven to decrease cardiovascular death and thrombosis!). 2. DAILY LOW-DOSE ASPIRIN. 3. HYDROXYUREA for high-risk patients (age > 60 or prior thrombosis).",
+    "necessaryInference": "Differentiate polycythemia vera from secondary polycythemia: identify that elevated hematocrit with aquagenic pruritus, splenomegaly, and a suppressed serum erythropoietin confirms PV (JAK2 V617F), managed with phlebotomy targeting hematocrit < 45% and low-dose aspirin.",
+    "strongestDistractor": "Secondary erythrocytosis due to chronic nocturnal hypoxemia, managed with nocturnal continuous positive airway pressure (CPAP)",
+    "distractorExclusion": "Secondary erythrocytosis causes elevated serum erythropoietin; a suppressed EPO (< 2 mIU/mL) with splenomegaly and aquagenic pruritus confirms autonomous polycythemia vera.",
+    "citation": "Tefferi A. Polycythemia vera and essential thrombocythemia: 2021 update on diagnosis, risk-stratification and management. Am J Hematol. 2021;96(1):145-162. PMID: 33179335.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item assesses diagnostic differentiation between primary polycythemia vera (suppressed EPO, JAK2 mutation) and secondary erythrocytosis, testing the strict hematocrit < 45% phlebotomy target.",
+      "distractorExclusionNotes": "Distractors confuse primary and secondary polycythemia EPO levels, target inappropriate hematocrit thresholds (> 50%), or omit low-dose aspirin.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 56-year-old man presents to the clinic complaining of severe, intractable generalized itching that occurs every time he takes a warm bath or hot shower. He describes the itching as an intense, stinging, prickling sensation that lasts for 45 minutes after drying off, without any visible rash or hives. Over the past 4 months, he has also experienced recurrent throbbing headaches, dizziness, ringing in his ears, and episodes of intense, burning pain accompanied by redness and swelling in his palms and soles that is partially relieved by elevating his hands and cool compresses (erythromelalgia). He has a 10 pack-year smoking history but quit 15 years ago. On physical examination, he has a ruddy, plethoric facial complexion and conjunctival suffusion. Blood pressure is 156/94 mm Hg, and oxygen saturation is 98% on ambient air. Abdominal examination demonstrates smooth, non-tender splenomegaly palpable 3 cm below the left costal margin. Laboratory evaluation reveals: - Hemoglobin: 19.8 g/dL - Hematocrit: 61% (normal: 41-50%) - Total Red Blood Cell Count: 6.8 million/mm3 - Total WBC: 14,200/mm3 (80% neutrophils, 2% basophils) - Platelet Count: 480,000/mm3 (thrombocytosis) - Serum Erythropoietin (EPO): < 1.0 mIU/mL (normal: 4-24 mIU/mL; markedly suppressed) - Serum Ferritin: 18 ng/mL (normal: 20-250 ng/mL; depleted) Peripheral blood molecular genetic testing is positive for the JAK2 V617F mutation in exon 14. Which of the following is the most appropriate first-line management strategy to reduce the risk of major thrombotic events in this patient?",
+    "options": [
+      {
+        "text": "Therapeutic phlebotomy targeting a strict hematocrit goal < 45%, combined with daily low-dose aspirin (81 mg)",
+        "explanation": "This patient presents with classic POLYCYTHEMIA VERA (PV), a clonal myeloproliferative neoplasm characterized by autonomous overproduction of red blood cells (erythrocytosis) often accompanied by granulocytosis and thrombocytosis (panmyelosis). Master the pathophysiology, diagnostic criteria, and management guidelines established by the World Health Organization (WHO) and European LeukemiaNet on USMLE Step 2 CK: (1) MOLECULAR PATHOPHYSIOLOGY: >95% of PV cases are driven by a somatic gain-of-function point mutation in the JAK2 (Janus kinase 2) gene\u2014specifically the JAK2 V617F mutation (substitution of valine with phenylalanine at codon 617 in the pseudokinase autoinhibitory domain). This mutation results in constitutive, ligand-independent tyrosine kinase phosphorylation of downstream STAT transcription factors, driving autonomous erythrocyte proliferation even in the complete absence of erythropoietin. (2) CLINICAL FEATURES: (a) Hyperviscosity symptoms: Headache, dizziness, tinnitus, blurred vision; (b) AQUAGENIC PRURITUS: Severe, non-dermatologic itching occurring within minutes of contact with warm water (seen in >40-50% of patients), mediated by hyperactive basophils and mast cells releasing histamine and prostaglandins in response to temperature changes; (c) ERYTHROMELALGIA: Episodic, excruciating burning pain, erythema, and warmth in the extremities caused by microvascular platelet-rich thrombi and arteriolar inflammation, characteristically exquisitely responsive to aspirin; (d) Splenomegaly (due to extramedullary hematopoiesis); and (e) Major thrombotic events (arterial stroke, myocardial infarction, deep vein thrombosis, and hepatic vein thrombosis [Budd-Chiari syndrome]). (3) DECISIVE DIFFERENTIATION FROM SECONDARY POLYCYTHEMIA: The key differentiating test is SERUM ERYTHROPOIETIN (EPO): In Polycythemia Vera, autonomous red cell production triggers negative feedback on renal oxygen sensors, resulting in a MARKEDLY LOW OR SUPPRESSED SERUM EPO (< 4 mIU/mL). In contrast, Secondary Polycythemia (driven by chronic hypoxemia, smoking, sleep apnea, or EPO-secreting tumors like renal cell carcinoma or cerebellar hemangioblastoma) demonstrates HIGH OR INAPPROPRIATELY NORMAL SERUM EPO. (4) FIRST-LINE EVIDENCE-BASED MANAGEMENT: Landmark randomized controlled trials (the CYTO-PV trial) demonstrated that MAINTAINING A STRICT HEMATOCRIT GOAL < 45% WITH SERIAL THERAPEUTIC PHLEBOTOMY SIGNIFICANTLY REDUCES CARDIOVASCULAR DEATH AND MAJOR THROMBOSIS by nearly 4-fold compared to higher hematocrit targets (45-50%). All patients must also receive DAILY LOW-DOSE ASPIRIN (81 mg) to prevent arterial and venous thrombosis and relieve erythromelalgia. In HIGH-RISK patients (age >= 60 years OR a history of prior thrombosis), CYTOREDUCTIVE THERAPY WITH HYDROXYUREA is added to phlebotomy."
+      },
+      {
+        "text": "Therapeutic phlebotomy targeting a liberal hematocrit goal < 52%, combined with oral diphenhydramine monotherapy",
+        "explanation": "Targeting hematocrit between 45% and 50% quadruples the rate of cardiovascular death and thrombosis compared to strict hematocrit < 45%."
+      },
+      {
+        "text": "Nocturnal continuous positive airway pressure (CPAP) therapy to treat hypoxia-induced secondary erythrocytosis",
+        "explanation": "Serum EPO is suppressed (< 1.0 mIU/mL), and the patient has the JAK2 V617F mutation, definitively confirming primary polycythemia vera, not hypoxia."
+      },
+      {
+        "text": "Daily oral ferrous sulfate supplementation to correct depleted ferritin stores and normalize microcytic indices",
+        "explanation": "Iron supplementation fuels rapid, explosive production of additional erythrocytes in polycythemia vera, triggering fatal hyperviscosity crisis and stroke."
+      },
+      {
+        "text": "Immediate therapeutic anticoagulation with high-dose warfarin targeting an INR of 3.0 to 4.0 without phlebotomy",
+        "explanation": "Anticoagulation does not reduce whole-blood viscosity; phlebotomy targeting hematocrit < 45% plus aspirin is the proven first-line standard."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0292",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "MGUS vs Smoldering Myeloma vs Multiple Myeloma CRAB Criteria",
+    "subtopic": "M-Protein < 3 g/dL, Bone Marrow Plasma Cells < 10%, and Surveillance vs Therapy",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Plasma Cell Dyscrasias: 1. MONOCLONAL GAMMOPATHY OF UNDETERMINED SIGNIFICANCE (MGUS): Premalignant clonal plasma cell proliferation (present in > 3-5% of adults > 50). DIAGNOSTIC TRIAD: (a) Serum monoclonal protein (M-spike on SPEP) < 3.0 g/dL. (b) Clonal bone marrow plasma cells < 10%. (c) ABSENCE OF END-ORGAN DAMAGE (NO 'CRAB' FEATURES: Hypercalcemia, Renal insufficiency, Anemia, Bone lytic lesions). Progression risk: ~1% per year to multiple myeloma. MANAGEMENT: OBSERVATION AND CLINICAL SURVEILLANCE! Repeat SPEP, CBC, calcium, and creatinine every 6 to 12 months. CHEMOTHERAPY IS STRICTLY CONTRAINDICATED! 2. SMOLDERING MULTIPLE MYELOMA: Serum M-protein >= 3.0 g/dL OR bone marrow plasma cells 10% to 60%, BUT STILL NO CRAB FEATURES! Management: Close observation (or clinical trials). 3. MULTIPLE MYELOMA (ACTIVE): Clonal bone marrow plasma cells >= 10% (or biopsy-proven plasmacytoma) PLUS >= 1 'CRAB' FEATURE: C = Calcium elevated (> 11 mg/dL); R = Renal insufficiency (Cr > 2 mg/dL); A = Anemia (Hb < 10 g/dL or > 2 g/dL below normal); B = Bone lesions (>= 1 lytic lesion on skeletal survey, CT, or PET-CT). OR Myeloma-Defining Biomarkers (SLiM): S = Sixty percent (>= 60%) marrow plasma cells; Li = Light chain involved/uninvolved ratio >= 100; M = > 1 focal lesion on MRI.",
+    "necessaryInference": "Synthesize plasma cell dyscrasia staging criteria: identify MGUS by serum M-spike < 3 g/dL, bone marrow plasma cells < 10%, and complete absence of CRAB end-organ damage, requiring observation rather than chemotherapy.",
+    "strongestDistractor": "Initiate immediate chemotherapy with bortezomib, lenalidomide, and dexamethasone (VRd) to prevent malignant progression",
+    "distractorExclusion": "Chemotherapy is indicated only for active multiple myeloma with CRAB end-organ damage; administering chemotherapy in asymptomatic MGUS exposes the patient to severe toxicities without survival benefit.",
+    "citation": "Rajkumar SV. Multiple myeloma: 2020 update on diagnosis, risk-stratification, and management. Am J Hematol. 2020;95(5):548-567. PMID: 32212351.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item tests strict application of International Myeloma Working Group (IMWG) criteria distinguishing MGUS from active multiple myeloma, emphasizing surveillance over toxic therapy.",
+      "distractorExclusionNotes": "Distractors inappropriately initiate chemotherapy or autologous stem cell transplant for MGUS, order bone marrow biopsy when criteria are met, or ignore surveillance.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 66-year-old man presents for a routine annual wellness examination. He feels completely well and reports no bone pain, fatigue, unintended weight loss, fever, or recurrent infections. His past medical history is notable for mild hypertension controlled with lisinopril. On physical examination, he appears energetic and healthy with normal vital signs. Cardiac, pulmonary, abdominal, and musculoskeletal examinations are completely normal; there is no bony tenderness over the spine, ribs, or pelvis, and no lymphadenopathy or hepatosplenomegaly. Initial routine screening laboratory studies demonstrate: - Complete Blood Count: Hemoglobin 14.2 g/dL (normal: 13.5-17.5 g/dL), WBC 6,400/mm3, Platelets 220,000/mm3 - Total Serum Protein: 8.2 g/dL (normal: 6.0-8.0 g/dL) - Serum Albumin: 4.2 g/dL (normal: 3.5-5.0 g/dL) - Serum Calcium: 9.2 mg/dL (normal: 8.5-10.5 mg/dL) - Serum Creatinine: 0.9 mg/dL (normal: 0.7-1.3 mg/dL) Because of the mild elevation in total serum protein with a normal albumin, serum protein electrophoresis (SPEP) is ordered, revealing a narrow, sharp monoclonal immunoglobulin peak (M-spike) in the gamma region measuring 1.6 g/dL. Immunofixation electrophoresis confirms an IgG kappa monoclonal protein. A 24-hour urine protein electrophoresis reveals 80 mg of Bence Jones protein per 24 hours (normal: < 100 mg). A subsequent bone marrow aspirate and biopsy reveals 6% clonal kappa-restricted plasma cells without dysplasia. A whole-body low-dose CT skeletal survey demonstrates no osteolytic lesions, cortical bone destruction, or pathological fractures. Which of the following is the definitive diagnosis and the most appropriate management plan for this patient?",
+    "options": [
+      {
+        "text": "Monoclonal gammopathy of undetermined significance (MGUS); management consists of clinical observation with repeat complete blood count, serum calcium, creatinine, and SPEP in 6 to 12 months",
+        "explanation": "This patient meets the definitive diagnostic criteria for MONOCLONAL GAMMOPATHY OF UNDETERMINED SIGNIFICANCE (MGUS). Master the International Myeloma Working Group (IMWG) criteria differentiating MGUS, smoldering multiple myeloma, and active multiple myeloma on USMLE Step 2 CK: (1) DIAGNOSTIC CRITERIA FOR MGUS: MGUS is an asymptomatic, premalignant clonal plasma cell proliferation occurring in 3% to 4% of individuals over age 50 and >5% over age 70. Diagnosis requires ALL THREE of the following criteria: (a) Serum monoclonal protein (M-spike on SPEP) < 3.0 g/dL; (b) Clonal bone marrow plasma cells < 10%; AND (c) ABSENCE OF CRAB END-ORGAN DAMAGE attributable to the plasma cell proliferative disorder: - C (Hypercalcemia): Serum calcium normal (9.2 mg/dL); - R (Renal insufficiency): Serum creatinine normal (0.9 mg/dL); - A (Anemia): Hemoglobin completely normal (14.2 g/dL); - B (Bone lesions): Whole-body low-dose CT or skeletal survey demonstrates zero lytic lesions or osteopenia. This patient has an IgG kappa M-spike of 1.6 g/dL, 6% bone marrow plasma cells, and zero CRAB features, establishing definitive MGUS. (2) DIFFERENTIATION FROM SMOLDERING AND ACTIVE MYELOMA: (a) SMOLDERING MULTIPLE MYELOMA: Serum M-protein >= 3.0 g/dL OR bone marrow plasma cells 10% to 60%, BUT STILL COMPLETELY LACKING CRAB features; (b) ACTIVE MULTIPLE MYELOMA: Bone marrow plasma cells >= 10% PLUS at least one CRAB feature (calcium > 11, creatinine > 2, hemoglobin < 10, or >= 1 lytic bone lesion) OR a 'Myeloma-Defining Biomarker' (bone marrow plasma cells >= 60%, involved/uninvolved serum free light chain ratio >= 100, or > 1 focal bone lesion on MRI). (3) CLINICAL PROGRESSION AND SURVEILLANCE MANDATE: MGUS progresses to multiple myeloma, AL amyloidosis, or related B-cell lymphoproliferative disorders at a constant rate of approximately 1% per year. However, extensive randomized trials demonstrate that ADMINISTERING CYTOTOXIC CHEMOTHERAPY OR IMMUNOMODULATORY DRUGS IN MGUS DOES NOT PROLONG SURVIVAL, DOES NOT PREVENT PROGRESSION, AND EXPOSES PATIENTS TO SEVERE DRUG TOXICITIES (neuropathy, secondary leukemias, deep vein thrombosis). Therefore, CHEMOTHERAPY IS STRICTLY CONTRAINDICATED IN MGUS. Management consists solely of CAREFUL SURVEILLANCE: Repeat CBC, serum calcium, serum creatinine, and SPEP at 6 months, and annually thereafter if stable, educating the patient to report new bone pain, fatigue, or recurrent infections promptly."
+      },
+      {
+        "text": "Smoldering multiple myeloma; management consists of immediate initiation of triplet chemotherapy with bortezomib, lenalidomide, and dexamethasone",
+        "explanation": "Smoldering myeloma requires M-spike >= 3.0 g/dL or marrow plasma cells 10-60%; this patient has M-spike 1.6 and 6% plasma cells, which is MGUS."
+      },
+      {
+        "text": "Active multiple myeloma; management requires urgent referral for high-dose melphalan followed by autologous hematopoietic stem cell transplantation",
+        "explanation": "Active myeloma requires >= 10% plasma cells PLUS CRAB end-organ damage; this patient is completely asymptomatic with zero CRAB features."
+      },
+      {
+        "text": "Waldenstrom macroglobulinemia; management requires immediate therapeutic plasma exchange followed by rituximab monotherapy",
+        "explanation": "Waldenstrom macroglobulinemia produces an IgM monoclonal paraprotein with lymphoplasmacytic marrow infiltration; this patient has an IgG paraprotein."
+      },
+      {
+        "text": "Solitary plasmacytoma of bone; management requires definitive localized external beam radiation therapy (40-50 Gy)",
+        "explanation": "Plasmacytoma presents with a single localized biopsy-proven bone or soft-tissue mass; this patient has normal skeletal survey and diffuse MGUS."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0293",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "AL Amyloidosis Congo Red Apple-Green Birefringence and Macroglossia",
+    "subtopic": "Monoclonal Light Chains, Nephrotic Syndrome, Restrictive Cardiomyopathy, and Periorbital Purpura",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Systemic Amyloidosis: 1. AL AMYLOIDOSIS (Primary / Light Chain Amyloidosis): Clonal plasma cell dyscrasia (or multiple myeloma) hyper-secreting unstable MONOCLONAL IMMUNOGLOBULIN LIGHT CHAINS (LAMBDA in ~75%, kappa in 25%). Light chains misfold into insoluble beta-pleated sheet fibrils that deposit in extracellular tissues. MULTI-ORGAN CLINICAL SPECTRUM: (a) RENAL: NEPHROTIC SYNDROME (heavy proteinuria > 3.5 g/day, hypoalbuminemia, peripheral edema, progressive renal failure). (b) CARDIAC: RESTRICTIVE CARDIOMYOPATHY (rapidly progressive diastolic heart failure with preserved EF, low-voltage QRS on ECG despite concentric ventricular hypertrophy on echo, granular 'speckling' of myocardium). (c) PATHOGNOMONIC PHYSICAL SIGNS: MACROGLOSSIA (enlarged tongue with lateral dental indentations; virtually pathognomonic for AL amyloidosis!), PERIORBITAL PURPURA ('RACCOON EYES' / pinch purpura; light chain deposition in fragile dermal capillaries causes spontaneous ecchymoses after coughing or Valsalva). (d) HEPATIC: Massive non-tender hepatomegaly with high alkaline phosphatase. DIAGNOSTIC GOLD STANDARD: TISSUE BIOPSY (ABDOMINAL FAT PAD ASPIRATION [80% sensitive] or affected organ biopsy): CONGO RED STAINING DEMONSTRATING PATHOGNOMONIC APPLE-GREEN BIREFRINGENCE UNDER POLARIZED LIGHT MICROSCOPY! Followed by mass spectrometry.",
+    "necessaryInference": "Synthesize AL amyloidosis presentation (nephrotic syndrome, restrictive cardiomyopathy with low ECG voltage, pathognomonic macroglossia, periorbital purpura) and identify abdominal fat pad biopsy with Congo red apple-green birefringence as the diagnostic confirmation.",
+    "strongestDistractor": "Perform an open surgical renal cortical biopsy as the required initial test, avoiding fat pad aspiration due to low sensitivity",
+    "distractorExclusion": "Abdominal subcutaneous fat pad aspiration is the minimally invasive initial diagnostic test of choice (> 80% sensitive), avoiding the significant bleeding risks of renal biopsy in amyloidosis.",
+    "citation": "Merlini G, Dispenzieri A, Sanchorawala V, et al. Systemic immunoglobulin light chain amyloidosis. Nat Rev Dis Primers. 2018;4(1):38. PMID: 30361521.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item tests multi-system clinical integration of AL amyloidosis (macroglossia, periorbital purpura, nephrotic syndrome, restrictive cardiomyopathy) and selection of abdominal fat pad biopsy with Congo red staining.",
+      "distractorExclusionNotes": "Distractors confuse AL with AA (secondary) amyloidosis, mistake macroglossia for hypothyroidism, or misinterpret low-voltage ECG in cardiac hypertrophy.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 63-year-old woman presents to the clinic with progressive shortness of breath on exertion, orthopnea, bilateral lower leg swelling, and easy bruising over the past 4 months. She reports that her tongue feels swollen and too large for her mouth, causing difficulty chewing food and slurred speech. On physical examination, she appears fatigued with a hoarse voice. Vital signs are: pulse 84/min, blood pressure 102/64 mm Hg, and respiratory rate 18/min. Inspection of the oral cavity reveals a massively enlarged, firm, thickened tongue with prominent scalloped indentations along its lateral borders matching her dental arches (macroglossia). Bilateral periorbital ecchymoses and dark violaceous purpura are present around both eyes ('raccoon eyes' / pinch purpura) after minor coughing. Jugular venous pressure is elevated at 10 cm H2O. Auscultation reveals a prominent S4 gallop and bibasilar pulmonary crackles. Abdominal examination demonstrates smooth, firm, non-tender hepatomegaly extending 5 cm below the right costal margin. Bilateral 3+ pitting pretibial edema extends to the mid-thighs. Laboratory evaluation reveals: - Serum Albumin: 2.2 g/dL (normal: 3.5-5.0 g/dL) - 24-hour Urine Protein: 6.4 g/24 hr (nephrotic-range proteinuria) - Serum Creatinine: 1.8 mg/dL - Serum Alkaline Phosphatase: 340 U/L (normal: 35-120 U/L) - Serum Free Light Chain Assay: Markedly elevated free lambda light chains with an abnormal kappa/lambda ratio of 0.02 (normal: 0.26-1.65) A 12-lead ECG demonstrates sinus rhythm with markedly diminished, low-voltage QRS complexes (< 5 mm in limb leads) despite a transthoracic echocardiogram demonstrating severe concentric left ventricular wall thickening (septal thickness 16 mm) and a 'sparkling' granular myocardial texture with restrictive diastolic filling. Which of the following is the most appropriate initial, minimally invasive diagnostic procedure to confirm the diagnosis?",
+    "options": [
+      {
+        "text": "Abdominal subcutaneous fat pad aspiration biopsy stained with Congo red dye, demonstrating pathognomonic apple-green birefringence under cross-polarized light microscopy",
+        "explanation": "This patient presents with the full, classic multi-system clinical syndrome of AL AMYLOIDOSIS (Primary / Immunoglobulin Light Chain Amyloidosis). Master the pathophysiology, physical hallmarks, and diagnostic confirmation on USMLE Step 2 CK: (1) PATHOPHYSIOLOGY: AL amyloidosis is caused by an underlying clonal plasma cell dyscrasia (often a subtle, low-burden clone, or overt multiple myeloma) that hyper-secretes abnormal, misfolded MONOCLONAL IMMUNOGLOBULIN LIGHT CHAINS (lambda light chains in ~75%, kappa in 25%). These light chains polymerize into insoluble, rigid fibrils with a characteristic beta-pleated sheet conformation. The fibrils deposit in the extracellular space of organs, mechanically disrupting tissue architecture and inducing direct cellular cytotoxicity. (2) MULTI-SYSTEM CLINICAL MANIFESTATIONS: (a) RENAL (most common, ~70%): Glomerular amyloid deposition causes severe NEPHROTIC SYNDROME with heavy proteinuria (> 3.5 g/day), hypoalbuminemia, generalized edema, and progressive renal failure; (b) CARDIAC (leading cause of death, ~60%): Interstitial myocardial infiltration causes RESTRICTIVE CARDIOMYOPATHY. A classic high-yield board clue is the PARADOXICAL DISCORDANCE BETWEEN ECG AND ECHOCARDIOGRAM: Echocardiography demonstrates marked concentric ventricular wall thickening ('pseudo-hypertrophy') with a sparkling, granular ground-glass myocardial appearance and severe diastolic dysfunction, WHILE THE ECG SHOWS MARKEDLY REDUCED LOW-VOLTAGE QRS COMPLEXES (due to replacement of conductive myocytes by electrically inert amyloid fibrils); (c) PATHOGNOMONIC PHYSICAL SIGNS: (i) MACROGLOSSIA: Massive enlargement of the tongue with scalloped edges from dental pressure, seen in ~15-20% of patients and virtually pathognomonic for AL amyloidosis (does not occur in secondary AA or transthyretin ATTR amyloidosis); (ii) PERIORBITAL PURPURA ('RACCOON EYES'): Amyloid fibrils infiltrate fragile cutaneous blood vessels; minor shear stress (rubbing, coughing, Valsalva) ruptures capillaries, producing striking periorbital ecchymoses; (d) HEPATOMEGALY with isolated marked elevation of alkaline phosphatase. (3) DIAGNOSTIC CONFIRMATION: Tissue diagnosis is mandatory to identify amyloid deposits. ABDOMINAL SUBCUTANEOUS FAT PAD ASPIRATION is the preferred initial, minimally invasive test of choice. It is simple, safe, outpatient, and has a sensitivity of 70% to 80% (avoiding the high bleeding risk of invasive renal or hepatic biopsies in amyloidosis). Staining with CONGO RED DYE demonstrates salmon-pink staining under light microscopy that exhibits PATHOGNOMONIC APPLE-GREEN BIREFRINGENCE WHEN VIEWED UNDER CROSS-POLARIZED LIGHT. Liquid chromatography-tandem mass spectrometry (LC-MS/MS) on the biopsy confirms the light-chain subtype (AL vs ATTR vs AA)."
+      },
+      {
+        "text": "Open surgical renal cortical wedge biopsy under general anesthesia to evaluate for membranous glomerulonephritis",
+        "explanation": "Invasive renal biopsy carries a high risk of catastrophic retroperitoneal bleeding in amyloidosis; abdominal fat pad aspiration is the minimally invasive first-line test."
+      },
+      {
+        "text": "Endomyocardial biopsy to evaluate for cardiac sarcoidosis with non-caseating granulomas",
+        "explanation": "Endomyocardial biopsy is invasive with risks of ventricular perforation; fat pad aspiration confirms systemic AL amyloidosis safely."
+      },
+      {
+        "text": "Serum thyroid-stimulating hormone (TSH) and free T4 to evaluate for severe hypothyroid myxedema",
+        "explanation": "Severe hypothyroidism can cause macroglossia, but does not cause nephrotic proteinuria, lambda light chain excess, or apple-green birefringence."
+      },
+      {
+        "text": "Genetic testing for transthyretin (TTR) gene point mutations to confirm hereditary cardiac amyloidosis",
+        "explanation": "Hereditary ATTR amyloidosis is caused by TTR mutations, but features normal free light chain ratios and never causes macroglossia or nephrotic syndrome."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0294",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Warfarin-Induced Skin Necrosis Protein C Depletion and Heparin Bridge",
+    "subtopic": "Short Half-Life of Protein C, Paradoxical Hypercoagulability, and Bridging Mandate",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Warfarin-Induced Skin Necrosis: PATHOPHYSIOLOGY: Warfarin competitively inhibits VITAMIN K EPOXIDE REDUCTASE (VKORC1), blocking gamma-carboxylation of glutamic acid residues on Vitamin K-dependent clotting factors: 1. Procoagulant factors: II (prothrombin, half-life 60-72 h), VII (half-life 6 h), IX (half-life 24 h), X (half-life 40 h). 2. Anticoagulant proteins: PROTEIN C (half-life ~6 HOURS!) and PROTEIN S (half-life 30 h). THE TRANSIENT HYPERCOAGULABLE WINDOW: Because Protein C has a very short half-life (~6 hours), initiating high-dose warfarin ('loading dose') causes a RAPID, PRECIPITOUS PLUNGE IN PROTEIN C LEVELS while procoagulant factors (prothrombin II and factor X) remain completely active! This creates a temporary, severe PARADOXICAL HYPERCOAGULABLE STATE during the first 24 to 72 hours! HIGHEST RISK: Patients with underlying HETEROZYGOUS PROTEIN C DEFICIENCY! CLINICAL: Extensive microvascular thrombosis in subcutaneous fat: Erythematous, intensely painful purpuric plaques progressing rapidly to hemorrhagic bullae and full-thickness ischemic skin necrosis, characteristically in areas with high subcutaneous fat (BREASTS, BUTTOCKS, THIGHS). EMERGENCY MANAGEMENT: 1. STOP WARFARIN IMMEDIATELY! 2. Administer INTRAVENOUS VITAMIN K and FRESH FROZEN PLASMA (or 4-factor Prothrombin Complex Concentrate / Protein C concentrate) to restore Protein C! 3. Initiate therapeutic non-warfarin anticoagulation (unfractionated heparin). THE GOLDEN PREVENTION MANDATE: ALWAYS CO-ADMINISTER THERAPEUTIC HEPARIN/LMWH AS A BRIDGE FOR AT LEAST 5 DAYS AND UNTIL INR IS THERAPEUTIC (2.0-3.0) FOR >= 24 HOURS!",
+    "necessaryInference": "Synthesize warfarin-induced skin necrosis pathophysiology (rapid depletion of short-lived protein C creating paradoxical thrombosis in fatty tissues) and identify that therapeutic heparin bridging for at least 5 days until INR is therapeutic is mandatory to prevent it.",
+    "strongestDistractor": "Initiate high-dose oral warfarin 10 mg daily monotherapy without bridging heparin to achieve rapid anticoagulation for acute deep vein thrombosis",
+    "distractorExclusion": "Administering warfarin monotherapy without heparin bridging rapidly depletes protein C before clotting factors fall, triggering catastrophic microvascular thrombosis and skin necrosis.",
+    "citation": "Nazarian RM, Van Cott EM, Zembowicz A, Duncan LM. Warfarin-induced skin necrosis. J Am Acad Dermatol. 2009;61(2):325-332. PMID: 19615543.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item assesses the biochemical half-life dynamics of vitamin K-dependent factors, explaining why warfarin causes paradoxical thrombosis without heparin bridging.",
+      "distractorExclusionNotes": "Distractors inappropriately initiate high-dose warfarin loading doses, misdiagnose necrosis as cellulitis, or fail to understand the rapid clearance of protein C.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 48-year-old woman is admitted to the hospital for treatment of an acute unprovoked deep vein thrombosis in her right femoral vein. The admitting resident prescribes oral warfarin at a 'loading dose' of 10 mg daily without co-administering heparin or low-molecular-weight heparin. On hospital day 3 (approximately 48 hours after the first warfarin dose), the patient develops severe, agonizing pain and redness over her right breast, lower abdomen, and bilateral anterior thighs. Physical examination reveals an acutely distressed woman. Examination of the breasts and thighs demonstrates large, sharply demarcated, tender, dusky violaceous purpuric plaques with central cutaneous bullae and areas of black, full-thickness ischemic skin necrosis. Laboratory studies reveal: prothrombin time (PT/INR) is 1.8, platelet count is 240,000/mm3, and fibrinogen is 310 mg/dL. The patient is diagnosed with warfarin-induced skin necrosis. Which of the following physiological principles directly explains why this catastrophic thrombotic complication occurred, and what mandatory preventative protocol was violated?",
+    "options": [
+      {
+        "text": "Protein C has a much shorter half-life (~6 hours) than procoagulant factors II and X, resulting in a temporary hypercoagulable state; prevention mandates co-administering therapeutic heparin for at least 5 days until the INR is therapeutic for 24 hours",
+        "explanation": "This patient presents with classic, devastating WARFARIN-INDUCED SKIN NECROSIS. Master the pharmacodynamics of vitamin K antagonism and bridging guidelines on USMLE Step 2 CK: (1) MECHANISM OF WARFARIN: Warfarin competitively inhibits the enzyme VITAMIN K EPOXIDE REDUCTASE (VKORC1), blocking the recycling of reduced vitamin K (vitamin K hydroquinone). Reduced vitamin K is the essential cofactor for gamma-glutamyl carboxylase, which carboxylates glutamic acid residues on vitamin K-dependent coagulation proteins, enabling them to bind calcium and phospholipid surfaces. The vitamin K-dependent proteins consist of: (a) Procoagulant clotting factors: Factor II (prothrombin), Factor VII, Factor IX, and Factor X; and (b) Endogenous natural anticoagulant proteins: PROTEIN C and PROTEIN S. (2) THE CRITICAL HALF-LIFE DIVERGENCE: The circulating half-lives of these proteins vary dramatically: - Factor VII: ~6 hours - PROTEIN C: ~6 HOURS (very short!) - Factor IX: ~24 hours - Protein S: ~30 hours - Factor X: ~40 hours - Factor II (Prothrombin): ~60 to 72 HOURS (very long!). (3) PATHOPHYSIOLOGY OF SKIN NECROSIS: When warfarin is administered\u2014especially at high loading doses (> 10 mg) without heparin\u2014Protein C and Factor VII levels plunge precipitously within the first 24 to 36 hours. However, procoagulant Factor X and Factor II remain active in substantial concentrations for several days. Because Protein C (with its cofactor Protein S) is responsible for proteolytically inactivating activated factors Va and VIIIa, losing Protein C before procoagulant factors fall creates an intense, paradoxical HYPERCOAGULABLE STATE during the first 48 to 72 hours. Widespread microvascular thrombosis develops in post-capillary venules within subcutaneous adipose tissue (which has high tissue pressure and low native protein C levels). This causes venous infarction, petechiae, hemorrhagic bullae, and full-thickness ischemic necrosis of breasts, buttocks, and thighs. Patients with underlying congenital HETEROZYGOUS PROTEIN C DEFICIENCY are at extreme risk. (4) MANDATORY PREVENTION PROTOCOL: Warfarin must NEVER be initiated as monotherapy for acute thrombosis. Clinical guidelines strictly mandate that WARFARIN MUST ALWAYS BE OVERLAPPED WITH A RAPID-ACTING PARENTERAL ANTICOAGULANT (therapeutic unfractionated heparin, LMWH, or fondaparinux) FOR A MINIMUM OF 5 DAYS AND UNTIL THE INR HAS REACHED THE THERAPEUTIC TARGET (2.0 to 3.0) FOR AT LEAST 24 CONSECUTIVE HOURS. Heparin suppresses thrombin generation during the vulnerable protein C nadir window."
+      },
+      {
+        "text": "Factor II (prothrombin) is depleted immediately, resulting in acute platelet aggregation and consumptive coagulopathy; prevention mandates administering high-dose aspirin",
+        "explanation": "Factor II has the longest half-life (~60-72 hours) and declines very slowly; it is the rapid depletion of protein C that drives hypercoagulability."
+      },
+      {
+        "text": "Warfarin directly stimulates endothelial cell apoptosis via protein kinase C activation; prevention mandates premedication with high-dose intravenous hydrocortisone",
+        "explanation": "Warfarin does not cause direct endothelial toxicity; skin necrosis is driven by microvascular thrombosis secondary to protein C depletion."
+      },
+      {
+        "text": "Warfarin induces IgG autoantibodies directed against platelet factor 4; prevention mandates avoiding all beta-lactam antibiotics during therapy",
+        "explanation": "Antibodies to platelet factor 4 cause heparin-induced thrombocytopenia (HIT), not warfarin skin necrosis; platelets are normal in warfarin necrosis."
+      },
+      {
+        "text": "Factor X clearance is delayed by impaired renal excretion, triggering systemic arterial embolism; prevention mandates dose adjustment based on creatinine clearance",
+        "explanation": "Factor X is cleared by hepatic catabolism, not renal excretion; necrosis is microvascular venous thrombosis from protein C deficiency."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0295",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Factor V Leiden Thrombophilia Activated Protein C Resistance",
+    "subtopic": "Arg506Gln Point Mutation, Venous Thromboembolism Propensity, and APC Resistance Assay",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Inherited Thrombophilias: 1. FACTOR V LEIDEN (FVL): MOST COMMON INHERITED THROMBOPHILIA IN CAUCASIANS (prevalence ~5% of Caucasian population; accounts for > 20-40% of unprovoked DVT/PE!). GENETICS: Autosomal dominant missense point mutation in the F5 gene (G1691A substitution), causing an ARGININE-TO-GLUTAMINE REPLACEMENT AT POSITION 506 (Arg506Gln). Normal physiology: Activated Protein C (APC) proteolytically cleaves and inactivates Factor Va at three specific arginine residues (Arg306, Arg506, Arg679). In FVL, the Arg506Gln mutation ALTERS THE CLEAVAGE SITE, RENDERING FACTOR Va RESISTANT TO INACTIVATION BY ACTIVATED PROTEIN C! This permits unchecked prothrombinase complex activity, resulting in sustained thrombin generation and venous thrombophilia. DIAGNOSTIC SCREENING TEST: ACTIVATED PROTEIN C (APC) RESISTANCE ASSAY (aPTT measured with and without added APC; in FVL, adding APC fails to prolong the aPTT!). CONFIRMATORY TEST: Genetic DNA PCR testing for the Factor V Leiden mutation. 2. PROTHROMBIN G20210A MUTATION (second most common): Point mutation in 3'-untranslated region -> increased prothrombin mRNA stability and higher prothrombin levels.",
+    "necessaryInference": "Synthesize the molecular mechanism of Factor V Leiden: point mutation causing Arg506Gln substitution renders Factor Va resistant to proteolytic inactivation by activated Protein C, confirmed by the APC resistance assay.",
+    "strongestDistractor": "Inactivating missense mutation in the antithrombin III gene preventing heparin-induced thrombin inhibition",
+    "distractorExclusion": "Factor V Leiden is caused by an Arg506Gln mutation in Factor V that resists activated protein C cleavage; antithrombin deficiency is a distinct, less common thrombophilia.",
+    "citation": "Kujovich JL. Factor V Leiden thrombophilia. Genet Med. 2011;13(1):1-16. PMID: 21116184.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item tests molecular pathophysiology of Factor V Leiden (Arg506Gln mutation causing APC resistance), screening via APC resistance assay, and clinical management.",
+      "distractorExclusionNotes": "Distractors confuse Factor V Leiden with prothrombin G20210A, antithrombin III deficiency, or protein S deficiency.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 28-year-old previously healthy Caucasian woman presents to the emergency department with acute-onset pain, warmth, and swelling in her left calf for 2 days. She does not use oral contraceptive pills and has had no recent surgeries, trauma, or prolonged immobilization. Her family history is significant for her mother and maternal uncle both experiencing unprovoked deep vein thrombosis in their early thirties. On physical examination, her left calf is swollen, tender, and 3 cm larger in circumference than the right calf. Duplex ultrasonography demonstrates an acute, occlusive thrombus in the left popliteal and superficial femoral veins. Laboratory evaluation reveals: normal complete blood count, normal PT/INR, normal aPTT, normal protein C and protein S activity levels, and normal antithrombin III activity. A functional coagulation screening test demonstrates ACTIVATED PROTEIN C (APC) RESISTANCE (the ratio of aPTT in the presence of added APC compared to aPTT in the absence of APC is markedly decreased at 1.4; normal: > 2.2). DNA sequencing confirms a heterozygous G-to-A point mutation at nucleotide 1691 of the Factor V gene. Which of the following molecular mechanisms directly accounts for the increased thrombotic propensity in this patient?",
+    "options": [
+      {
+        "text": "Replacement of arginine with glutamine at position 506 (Arg506Gln) in Factor V, rendering activated Factor Va resistant to proteolytic cleavage and inactivation by activated Protein C",
+        "explanation": "This patient presents with an unprovoked deep vein thrombosis in the setting of FACTOR V LEIDEN (FVL) thrombophilia, the most common inherited thrombophilia in Caucasian populations (present in 3% to 8% of healthy individuals and in 20% to 40% of patients presenting with a first unprovoked venous thromboembolism). Master the molecular genetics, biochemical mechanism, and clinical diagnosis on USMLE Step 2 CK: (1) MOLECULAR GENETICS: Factor V Leiden is inherited in an autosomal dominant fashion with variable penetrance. It is caused by a single point mutation in the F5 gene on chromosome 1q24: a G-to-A transition at nucleotide 1691 (G1691A). This mutation results in a single amino acid substitution of ARGININE BY GLUTAMINE AT CODON 506 (Arg506Gln) in the heavy chain of the Factor V molecule. (2) BIOCHEMICAL MECHANISM OF APC RESISTANCE: In normal hemostasis, Factor Va functions as an essential non-enzymatic cofactor that binds activated Factor X (Factor Xa) on platelet phospholipid membranes to form the PROTHROMBINASE COMPLEX, accelerating the conversion of prothrombin (Factor II) into thrombin (Factor IIa). To prevent unchecked, runaway coagulation, the natural anticoagulant ACTIVATED PROTEIN C (APC, working in synergy with its cofactor Protein S) binds and cleaves Factor Va at three specific peptide cleavage sites: Arg306, Arg506, and Arg679. Cleavage at Arg506 is the critical initial step required for rapid enzymatic inactivation of Factor Va. IN FACTOR V LEIDEN, the Arg506Gln mutation alters the spatial conformation of this cleavage site, RENDERING ACTIVATED FACTOR Va RESISTANT TO PROTEOLYTIC INACTIVATION BY ACTIVATED PROTEIN C. Mutated Factor Va remains active in the prothrombinase complex for a prolonged duration, producing unchecked, excessive thrombin generation and a 3- to 8-fold increased lifetime risk of venous thromboembolism (VTE) in heterozygotes (and up to 50- to 80-fold in homozygotes). (3) DIAGNOSTIC TESTING: (a) Functional screening test: The ACTIVATED PROTEIN C (APC) RESISTANCE ASSAY: The patient plasma aPTT is measured before and after the addition of a standardized amount of exogenous activated Protein C. In normal plasma, APC rapidly inactivates Factor Va, significantly prolonging the aPTT (APC sensitivity ratio > 2.2). In Factor V Leiden, mutated Factor Va resists inactivation, so adding APC fails to prolong the aPTT (ratio < 2.0). (b) Confirmatory test: Targeted DNA genetic analysis by PCR for the F5 G1691A mutation."
+      },
+      {
+        "text": "A point mutation in the 3'-untranslated region of the prothrombin gene (G20210A), causing increased mRNA stability and elevated prothrombin concentrations",
+        "explanation": "The prothrombin G20210A mutation is the second most common inherited thrombophilia, but involves prothrombin mRNA stability, not Factor V APC resistance."
+      },
+      {
+        "text": "An inactivating mutation in the SERPINC1 gene encoding antithrombin III, preventing heparin-mediated thrombin inhibition",
+        "explanation": "Antithrombin III deficiency impairs heparin-mediated inhibition of thrombin and factor Xa; antithrombin levels were normal in this patient."
+      },
+      {
+        "text": "A mutation in the thrombomodulin gene preventing thrombin binding and eliminating Protein C activation",
+        "explanation": "Thrombomodulin mutations are exceptionally rare; Factor V Leiden is specifically characterized by an Arg506Gln mutation in Factor V."
+      },
+      {
+        "text": "A homozygous missense mutation in the protein C gene causing spontaneous auto-activation of Factor VIII",
+        "explanation": "Protein C activity is normal; the defect resides in the target substrate (Factor V), which resists cleavage by normal activated protein C."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0296",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Von Willebrand Disease Type 1 vs 2B and Desmopressin Challenge",
+    "subtopic": "Weibel-Palade Bodies, Normal Platelet Count, PFA-100 Prolongation, and DDAVP Danger in 2B",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Von Willebrand Disease (vWD): MOST COMMON INHERITED BLEEDING DISORDER (autosomal dominant; prevalence ~1%). DUAL PHYSIOLOGICAL FUNCTIONS OF vWF: 1. Platelet Adhesion: Binds subendothelial collagen and bridges platelet GLYCOPROTEIN Ib (GpIb) receptors to damaged vascular wall (primary hemostasis). 2. Carrier Protein for Factor VIII: Binds and stabilizes plasma Factor VIII, protecting it from rapid proteolytic degradation (prolongs Factor VIII half-life from 2 hours to 12 hours!). CLINICAL PRESENTATION: MUCOCUTANEOUS BLEEDING: Heavy menstrual bleeding (menorrhagia), recurrent epistaxis, easy bruising, gingival bleeding, prolonged oozing after dental extractions or minor surgery. (Hemarthroses are rare, seen only in severe Type 3 vWD). LABORATORY PROFILE: 1. Platelet count: NORMAL. 2. Platelet Function Assay (PFA-100) / Bleeding time: PROLONGED. 3. aPTT: Mildly prolonged or normal (depends on Factor VIII level). 4. PT/INR: NORMAL. DIAGNOSTIC PANEL: vWF antigen (vWF:Ag; low), Ristocetin cofactor activity (vWF:RCo; low; measures platelet-binding activity), Factor VIII coagulant activity (low). SUBTYPE DIFFERENTIATION AND THERAPY: TYPE 1 (~75-80%): Mild-to-moderate QUANTITATIVE deficiency. First-line therapy for acute bleeding or minor surgical prophylaxis: DESMOPRESSIN (DDAVP; stimulates endothelial Weibel-Palade bodies to release stored vWF and Factor VIII). CRITICAL CONTRAINDICATION: TYPE 2B vWD! Gain-of-function mutation binds platelets spontaneously; administering DDAVP in Type 2B causes SEVERE THROMBOCYTOPENIA AND PARADOXICAL THROMBOSIS!",
+    "necessaryInference": "Synthesize vWD presentation (mucocutaneous bleeding, normal platelet count, prolonged PFA-100, low vWF:RCo) and identify desmopressin (DDAVP) as the first-line therapy for Type 1, while recognizing the contraindication in Type 2B.",
+    "strongestDistractor": "Prescribe oral warfarin 5 mg daily combined with low-dose aspirin to manage primary hemostatic dysfunction",
+    "distractorExclusion": "Warfarin and aspirin are anticoagulants/antiplatelets that would trigger catastrophic, fatal hemorrhage in a patient with an inherited bleeding disorder.",
+    "citation": "James PD, Connell NT, Ameer B, et al. ASH ISTH NHF WFH 2021 guidelines on the management of von Willebrand disease. Blood Adv. 2021;5(1):301-325. PMID: 33570648.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item assesses diagnosis and management of Type 1 von Willebrand disease, testing desmopressin mechanism (Weibel-Palade release) and highlighting the dangerous contraindication in Type 2B.",
+      "distractorExclusionNotes": "Distractors inappropriately prescribe anticoagulants, transfuse unselected platelets, or use recombinant factor IX (which treats hemophilia B).",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 22-year-old woman presents to the clinic to discuss bleeding concerns prior to an elective third molar (wisdom tooth) extraction scheduled in 2 weeks. She reports a lifelong history of frequent, prolonged nosebleeds that require direct pressure for > 20 minutes, bleeding from her gums when brushing her teeth, and easy bruising with minimal trauma. Since menarche at age 12, she has had severe menorrhagia requiring the use of double pads every 1 to 2 hours for the first 3 days of her menses. Her mother and maternal aunt have similar bleeding histories. She takes no medications. Physical examination reveals several small ecchymoses over her shins and forearms without petechiae, joint swelling, or deformity. Laboratory evaluation reveals: - Platelet Count: 240,000/mm3 (normal: 150,000-400,000/mm3) - Hemoglobin: 11.4 g/dL (MCV: 76 fL; mild microcytic iron deficiency anemia) - Prothrombin Time (PT/INR): 1.0 (normal) - Activated Partial Thromboplastin Time (aPTT): 38 seconds (normal: 25-35 seconds; mildly prolonged) - Platelet Function Analyzer (PFA-100) Closure Time: Markedly prolonged at 240 seconds (normal: < 110 seconds) - von Willebrand Factor Antigen (vWF:Ag): 28% (normal: 50-150%) - Ristocetin Cofactor Activity (vWF:RCo): 22% (normal: 50-150%) - Factor VIII Coagulant Activity: 34% (normal: 50-150%) - von Willebrand Multimer Analysis: Structurally normal multimers present in reduced quantities (consistent with Type 1 vWD) Which of the following is the most appropriate first-line pharmacotherapeutic agent to prevent excessive hemorrhage during her dental procedure, and what is its physiological mechanism?",
+    "options": [
+      {
+        "text": "Intravenous or intranasal desmopressin (DDAVP); it stimulates endothelial Weibel-Palade bodies to release stored endogenous von Willebrand factor and Factor VIII into the circulation",
+        "explanation": "This patient presents with classic TYPE 1 VON WILLEBRAND DISEASE (vWD), the most common inherited bleeding disorder in humans. Master the pathophysiology, diagnostic laboratory profile, and pharmacotherapy on USMLE Step 2 CK: (1) PATHOPHYSIOLOGY AND DUAL FUNCTIONS OF vWF: Von Willebrand factor is a large, multimeric adhesive glycoprotein synthesized by vascular endothelial cells (stored in WEIBEL-PALADE BODIES) and megakaryocytes (stored in platelet alpha-granules). vWF has two crucial physiological roles in hemostasis: (a) Primary Hemostasis: In response to vascular endothelial damage, vWF binds exposed subendothelial collagen and simultaneously binds platelet GLYCOPROTEIN Ib (GpIb) receptors, mediating initial platelet tethering and adhesion under high shear stress; (b) Secondary Coagulation: Circulating vWF binds to FACTOR VIII, serving as an obligate protective carrier protein that shields Factor VIII from rapid proteolytic degradation by activated protein C, extending Factor VIII half-life from ~2 hours up to 12 hours. (2) CLINICAL PRESENTATION AND LABS: Patients present with MUCOCUTANEOUS BLEEDING: Heavy menstrual bleeding (menorrhagia), recurrent epistaxis, gingival bleeding, and prolonged oozing following dental extractions or minor lacerations. (Deep tissue hemarthroses are rare and occur only in severe Type 3 vWD with undetectable Factor VIII). Laboratory testing demonstrates: Normal platelet count, prolonged PFA-100 closure time / bleeding time, normal PT/INR, mildly prolonged aPTT (due to secondary Factor VIII deficiency), and reduced vWF:Ag, vWF:RCo, and Factor VIII activity. (3) FIRST-LINE THERAPY FOR TYPE 1 vWD: TYPE 1 vWD (accounting for ~75% to 80% of all cases) is characterized by a partial, quantitative deficiency of structurally normal vWF multimers. The first-line therapy of choice for treating acute mild bleeding or for perioperative prophylaxis during minor surgery/dental extractions is DESMOPRESSIN (DDAVP; administered intravenously, subcutaneously, or as a concentrated high-dose intranasal spray [Stimate]). MECHANISM: Desmopressin is a synthetic vasopressin V2-receptor agonist that triggers the exocytosis of preformed, stored vWF and Factor VIII from ENDOTHELIAL WEIBEL-PALADE BODIES into the plasma, increasing circulating vWF and Factor VIII levels by 3- to 5-fold within 30 to 60 minutes. (Antifibrinolytics like tranexamic acid are useful adjuncts for oral mucosal bleeding). (4) CRITICAL CONTRAINDICATION IN TYPE 2B vWD: Desmopressin is STRICTLY CONTRAINDICATED IN TYPE 2B vWD! Type 2B involves a gain-of-function mutation in vWF that causes hyper-affinity binding to platelets in the circulation. Administering DDAVP releases hyperactive vWF that induces massive intravascular platelet aggregation, precipitating severe acute thrombocytopenia and paradoxical thrombosis!"
+      },
+      {
+        "text": "Recombinant human Factor IX concentrate infusion targeting a plasma activity level > 80%",
+        "explanation": "Factor IX concentrate treats Hemophilia B (Christmas disease); vWD involves deficiency of vWF and Factor VIII, not Factor IX."
+      },
+      {
+        "text": "Transfusion of two units of uncrossed random-donor platelets prior to dental extraction",
+        "explanation": "Platelet counts are completely normal; the defect is in plasma vWF bridging. Transfusing platelets fails to correct endothelial vWF deficiency."
+      },
+      {
+        "text": "High-dose oral prednisone 60 mg daily for 7 days to upregulate hepatic vWF transcription",
+        "explanation": "Corticosteroids do not stimulate vWF synthesis or release and have zero role in the management of inherited von Willebrand disease."
+      },
+      {
+        "text": "Daily subcutaneous low-molecular-weight heparin to prevent paradoxical microvascular thrombosis",
+        "explanation": "Anticoagulants are strictly contraindicated in an active bleeding disorder; administering heparin prior to surgery causes life-threatening hemorrhage."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0297",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Hematology",
+    "topic": "Hemophilia A Factor VIII Deficiency and Emicizumab Mechanism",
+    "subtopic": "X-Linked Recessive, Hemarthrosis, Mixing Study Correction, and Bispecific Antibody",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Hemophilia A vs Hemophilia B: GENETICS: Both are X-LINKED RECESSIVE disorders affecting males (females are asymptomatic carriers). 1. HEMOPHILIA A (Factor VIII deficiency; accounts for ~80-85% of hemophilia). 2. HEMOPHILIA B (Factor IX deficiency / Christmas disease; accounts for ~15-20%). CLINICAL HALLMARK: DEEP TISSUE AND JOINT BLEEDING (HEMARTHROSIS: knee, elbow, ankle; leads to chronic hemophilic arthropathy with joint destruction), intramuscular hematomas, retroperitoneal hemorrhage, and excessive delayed bleeding after circumcision or trauma. (Unlike vWD, mucocutaneous petechiae do NOT occur!). COAGULATION PROFILE: 1. aPTT: MARKEDLY PROLONGED. 2. PT/INR: NORMAL. 3. Platelet count: NORMAL. 4. Bleeding time / PFA-100: NORMAL. 5. 1:1 MIXING STUDY: PROMPT CORRECTION OF aPTT TO NORMAL when patient plasma is mixed 1:1 with normal pooled plasma! (Correction proves a factor deficiency; failure to correct indicates a factor inhibitor / antibody!). TREATMENT: Recombinant Factor VIII concentrate. NOVEL PROPHYLAXIS: EMICIZUMAB (a humanized BISPECIFIC MONOCLONAL ANTIBODY that binds both FACTOR IXa AND FACTOR X simultaneously, mimicking the exact enzymatic cofactor function of Factor VIII, effective even in the presence of Factor VIII inhibitors!).",
+    "necessaryInference": "Synthesize hemophilia A presentation (spontaneous hemarthrosis, prolonged aPTT correcting on 1:1 mixing study, normal PT/platelets) and identify emicizumab as the novel bispecific monoclonal antibody bridging Factor IXa and Factor X to restore hemostasis.",
+    "strongestDistractor": "Administration of high-dose intravenous recombinant activated Factor VII monotherapy as first-line maintenance in uncomplicated hemophilia A",
+    "distractorExclusion": "Recombinant activated Factor VII (rFVIIa) is a bypassing agent reserved strictly for patients with high-titer Factor VIII neutralizing inhibitors, not first-line therapy for uncomplicated hemophilia.",
+    "citation": "Callaghan MU, Negrier C, Paz-Priel I, et al. Long-term outcomes with emicizumab prophylaxis for hemophilia A with or without FVIII inhibitors. Blood. 2021;137(16):2231-2242. PMID: 33271575.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item assesses classical diagnostic findings of hemophilia A (hemarthrosis, mixing study correction) and the molecular pharmacology of emicizumab (bispecific bridging of FIXa and FX).",
+      "distractorExclusionNotes": "Distractors confuse hemophilia A and B, misinterpret mixing study failure to correct, or inappropriately prescribe bypassing agents as first-line maintenance.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 4-year-old boy is brought to the pediatric emergency department due to swelling, warmth, and severe pain in his right knee that began 6 hours ago after bumping his knee against a coffee table while playing. He refuses to bear weight on the right leg. His past medical history is notable for prolonged, excessive bleeding following his neonatal circumcision that required local hemostatic measures, as well as multiple deep intramuscular hematomas following routine childhood immunizations. His maternal uncle has a severe bleeding disorder requiring intravenous infusions. Physical examination reveals an uncomfortable boy with the right knee held in 30 degrees of flexion. The right knee is tensely swollen, warm, and exquisitely tender to palpation with a large joint effusion; active and passive range of motion are severely restricted by pain. Sensation and distal peripheral pulses are intact. Complete blood count demonstrates: hemoglobin 11.8 g/dL, WBC 7,200/mm3, and platelet count 280,000/mm3. Coagulation testing reveals: - Prothrombin Time (PT/INR): 1.0 (normal) - Activated Partial Thromboplastin Time (aPTT): 64 seconds (normal: 25-35 seconds; markedly prolonged) - Thrombin Time: 16 seconds (normal) - Fibrinogen: 280 mg/dL (normal) A 1:1 mixing study is performed: When the patient plasma is incubated in equal parts with normal pooled plasma, the aPTT immediately corrects to 28 seconds (normal). Specific factor assays confirm a Factor VIII coagulant activity of < 1% (severe Hemophilia A). In addition to acute factor replacement for the hemarthrosis, which of the following represents the molecular mechanism of emicizumab, an approved agent used for long-term bleeding prophylaxis in this condition?",
+    "options": [
+      {
+        "text": "A bispecific monoclonal antibody that binds both activated Factor IX (FIXa) and Factor X simultaneously, mimicking the cofactor function of Factor VIII to activate the tenase complex",
+        "explanation": "This patient presents with acute spontaneous HEMARTHROSIS in the setting of severe, classic HEMOPHILIA A. Master the genetics, coagulation testing, and novel therapeutics on USMLE Step 2 CK: (1) GENETICS AND CLINICAL MANIFESTATIONS: Hemophilia A is an X-linked recessive disorder caused by mutations in the F8 gene on the X chromosome, leading to deficiency or dysfunction of clotting FACTOR VIII. It predominantly affects males, whereas females are heterozygous carriers. Severity is defined by baseline factor activity: Severe (< 1% activity; frequent spontaneous bleeds), Moderate (1-5% activity), and Mild (5-40% activity; bleeding only after major trauma or surgery). HALLMARK MANIFESTATION: DEEP TISSUE HEMORRHAGE: Recurrent, painful HEMARTHROSES (bleeding into synovial joint cavities, most commonly knees, elbows, ankles). Chronic hemarthroses cause hemosiderin deposition, synovial hypertrophy, cartilage destruction, and permanent crippling hemophilic arthropathy. Patients also suffer large intramuscular hematomas and intracranial hemorrhages (the leading cause of bleeding death). (2) COAGULATION PROFILE AND THE MIXING STUDY: (a) aPTT is MARKEDLY PROLONGED (Factor VIII is an essential cofactor in the intrinsic tenase complex); (b) PT/INR, platelet count, and bleeding time/PFA-100 are COMPLETELY NORMAL; (c) THE 1:1 MIXING STUDY: Patient plasma is mixed in equal proportions (1:1) with normal pooled plasma. Because normal plasma contains 100% factor activity, mixing supplies >= 50% factor levels, which is more than sufficient to normalize clotting time. IMMEDIATE CORRECTION OF aPTT TO NORMAL PROVES A COAGULATION FACTOR DEFICIENCY. (If the aPTT fails to correct or prolongs further upon incubation, it indicates the presence of a factor inhibitor/neutralizing antibody or lupus anticoagulant). (3) NOVEL PHARMACOTHERAPY \u2014 EMICIZUMAB: In traditional management, patients receive regular intravenous infusions of recombinant Factor VIII concentrate. However, up to 30% of severe hemophilia A patients develop neutralizing alloantibodies ('inhibitors') against infused Factor VIII. EMICIZUMAB is a revolutionary humanized BISPECIFIC MONOCLONAL ANTIBODY engineered with two distinct antigen-binding arms: one arm binds ACTIVATED FACTOR IX (FIXa), and the other arm binds FACTOR X (FX). By physically bridging FIXa and FX in close molecular proximity on phospholipid surfaces, emicizumab precisely MIMICS THE COFACTOR FUNCTION OF ACTIVATED FACTOR VIII (FVIIIa), restoring the intrinsic tenase complex and driving thrombin generation. Because emicizumab has a completely different molecular structure from Factor VIII, it is unaffected by Factor VIII inhibitors, and its long subcutaneous half-life (~4 weeks) enables convenient, effective bleeding prophylaxis."
+      },
+      {
+        "text": "A recombinant protease that directly cleaves prothrombin into thrombin, bypassing all upstream intrinsic and extrinsic coagulation cascades",
+        "explanation": "No clinical drug directly cleaves prothrombin to thrombin; emicizumab functions as a bispecific cofactor bridging FIXa and FX."
+      },
+      {
+        "text": "A monoclonal antibody that binds and neutralizes tissue factor pathway inhibitor (TFPI) to enhance extrinsic coagulation",
+        "explanation": "Anti-TFPI antibodies (concizumab) are distinct investigational agents; emicizumab is a bispecific antibody bridging FIXa and FX."
+      },
+      {
+        "text": "A synthetic vasopressin analogue that stimulates endothelial Weibel-Palade bodies to release endogenous stored Factor VIII",
+        "explanation": "Desmopressin (DDAVP) releases stored vWF and Factor VIII in mild hemophilia A and vWD, but is completely ineffective in severe hemophilia A (< 1% factor)."
+      },
+      {
+        "text": "An activated Factor VII recombinant bypassing agent that directly activates Factor X on tissue factor surfaces",
+        "explanation": "Recombinant activated Factor VII (rFVIIa) is an acute bypassing agent, but is not emicizumab, which is a bispecific monoclonal antibody."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0298",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Sickle Cell Vaso-Occlusive Pain Crisis Management and Incentive Spirometry",
+    "subtopic": "Multimodal Analgesia, Hydration Balance, and Prevention of Acute Chest Syndrome",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 88,
+    "shortestValidSolution": "Differentiate Sickle Cell Vaso-Occlusive Crisis (VOC): PATHOPHYSIOLOGY: Microvascular occlusion in bone marrow caused by deoxygenated sickled erythrocytes, leading to severe bone marrow ischemia, localized infarction, and excruciating inflammatory pain (typically in lumbar spine, femur, ribs, pelvis). PRECIPITANTS: Dehydration, cold temperature, infection, acidosis, hypoxia, emotional stress. CLINICAL CRITERIA: Severe acute bone pain in the ABSENCE of new pulmonary infiltrates (rules out Acute Chest Syndrome), fever, or osteomyelitis. FIRST-LINE EMERGENCY MANAGEMENT PROTOCOL: 1. RAPID, AGGRESSIVE MULTIMODAL ANALGESIA: Intravenous opioids (Morphine or Hydromorphone) administered within 30-60 minutes of triage, dosed on a scheduled or patient-controlled analgesia (PCA) basis, combined with oral NSAIDs (ketorolac / ibuprofen). 2. INTRAVENOUS FLUIDS: Administer maintenance isotonic or hypotonic crystalloids (e.g., 5% dextrose in 0.45% saline). CRITICAL FLUID RULE: AVOID OVER-HYDRATION! Aggressive fluid boluses precipitate acute pulmonary edema and acute chest syndrome! 3. MANDATORY PREVENTATIVE INTERVENTION: INCENTIVE SPIROMETRY (10 breaths every 2 hours while awake)! Rationale: Severe thoracic wall bone pain causes shallow breathing, atelectasis, and hypoventilation, which rapidly triggers deoxygenation, pulmonary sickling, and FATAL ACUTE CHEST SYNDROME! Incentive spirometry reduces ACS incidence by > 50%!",
+    "necessaryInference": "Synthesize uncomplicated vaso-occlusive pain crisis management in sickle cell disease: prioritize rapid parenteral opioids and judicious maintenance fluids, and deduce that mandatory incentive spirometry is essential to prevent atelectasis and acute chest syndrome.",
+    "strongestDistractor": "Routine administration of prophylactic packed red blood cell transfusion to suppress endogenous HbS synthesis during uncomplicated pain crisis",
+    "distractorExclusion": "Transfusions are strictly contraindicated in uncomplicated vaso-occlusive crisis without end-organ failure, as they increase blood viscosity, alloimmunization, and iron overload.",
+    "citation": "Yawn BP, Buchanan GR, Afenyi-Annan AN, et al. Management of sickle cell disease: summary of the 2014 evidence-based report by expert panel members. JAMA. 2014;312(10):1033-1048. PMID: 25203779.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item assesses evidence-based inpatient management of acute sickle cell pain crisis: rapid opioid analgesia, avoiding overhydration, omitting unindicated transfusions, and prescribing incentive spirometry.",
+      "distractorExclusionNotes": "Distractors inappropriately give routine blood transfusions, overhydrate with rapid fluid boluses, or withhold opioids due to addiction bias.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 24-year-old man with homozygous sickle cell disease (HbSS) presents to the emergency department with severe, agonizing pain in his lower back, bilateral hips, and thighs for 8 hours. He rates the pain as 10/10 and states it is identical to his previous acute vaso-occlusive crises. He reports no fever, chills, cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. He takes hydroxyurea and daily folic acid at home. On physical examination, he appears in severe distress, writhing and groaning in bed due to pain. Vital signs are: temperature 37.2 C, pulse 108/min, blood pressure 132/78 mm Hg, respiratory rate 18/min, and oxygen saturation 98% on ambient room air. Sclerae show mild baseline icterus. Musculoskeletal examination demonstrates diffuse tenderness to palpation over the lumbar spine and bilateral anterior thighs without focal erythema, warmth, joint effusion, or swelling. Cardiac examination is normal, and lungs are completely clear to auscultation bilaterally without crackles or wheezing. A portable chest radiograph demonstrates clear lung fields without infiltrates, consolidations, or effusions. Complete blood count demonstrates: hemoglobin 7.8 g/dL (baseline 7.6-8.0 g/dL), reticulocytes 9.2%, and WBC 9,800/mm3. Which of the following represents the most appropriate, guideline-adherent management strategy for this patient?",
+    "options": [
+      {
+        "text": "Administer prompt intravenous opioid analgesia on a scheduled or patient-controlled basis, provide maintenance intravenous crystalloids without over-hydration, and institute mandatory incentive spirometry while awake to prevent acute chest syndrome",
+        "explanation": "This patient presents with an acute, uncomplicated VASO-OCCLUSIVE PAIN CRISIS (VOC) in homozygous sickle cell anemia (HbSS). Master the evidence-based management principles established by the National Heart, Lung, and Blood Institute (NHLBI) and JAMA guidelines on USMLE Step 2 CK: (1) PATHOPHYSIOLOGY: Deoxygenated hemoglobin S (HbS) polymerizes into rigid sickle fibers, deforming erythrocytes into sickle shapes. Sickled red cells adhere to vascular endothelium and occlude post-capillary venules within the bone marrow, producing acute bone ischemia, localized micro-infarction, and intense inflammatory nociceptive pain. Common triggers include dehydration, cold ambient temperature, physical exertion, and emotional stress. (2) ANALGESIA PRINCIPLES: Severe acute pain is a medical emergency. Guidelines mandate that PARENTERAL OPIOID ANALGESIA (such as intravenous morphine or hydromorphone) MUST BE ADMINISTERED WITHIN 30 TO 60 MINUTES OF PRESENTATION. Analgesia should be individualized, utilizing scheduled dosing or patient-controlled analgesia (PCA) rather than 'as needed' (PRN) orders, supplemented with oral NSAIDs (ketorolac or ibuprofen) for multimodal anti-inflammatory synergy. (3) INTRAVENOUS FLUID PROTOCOL: Patients should receive maintenance intravenous hydration (e.g., 5% dextrose in 0.45% normal saline) to reverse subclinical dehydration. CRITICAL FLUID PITFALL: AGGRESSIVE HYPER-HYDRATION WITH LARGE-VOLUME CRYSTALLOID BOLUSES MUST BE AVOIDED. Over-hydration increases pulmonary capillary hydrostatic pressure, precipitating acute pulmonary edema and acute chest syndrome. (4) MANDATORY INCENTIVE SPIROMETRY: A landmark randomized controlled trial demonstrated that INSTITUTING MANDATORY INCENTIVE SPIROMETRY (10 maximal inspirations every 2 hours while awake) REDUCES THE INCIDENCE OF ACUTE CHEST SYNDROME BY OVER 50%. Severe thoracic and lumbar pain causes splinting, shallow respirations, and basilar atelectasis; atelectasis produces localized alveolar hypoxia, which triggers massive pulmonary sickling and rapid progression to life-threatening acute chest syndrome. (5) CONTRAINDICATION TO ROUTINE TRANSFUSION: Blood transfusions are NOT INDICATED for uncomplicated vaso-occlusive pain crises when hemoglobin is at baseline (7.8 g/dL in this patient). Routine transfusion increases whole-blood viscosity (aggravating vaso-occlusion), exposes the patient to alloimmunization, and accelerates iron overload. Transfusion is reserved for acute drops in hemoglobin > 2 g/dL below baseline, acute chest syndrome, stroke, or multi-organ failure."
+      },
+      {
+        "text": "Administer an immediate two-unit packed red blood cell transfusion to suppress endogenous hemoglobin S production and relieve vaso-occlusion",
+        "explanation": "Blood transfusion is contraindicated in uncomplicated pain crises with baseline hemoglobin, as it increases blood viscosity and alloimmunization."
+      },
+      {
+        "text": "Rapidly infuse 3 liters of 0.9% normal saline over 2 hours and withhold all opioid analgesics due to concerns for narcotic dependency",
+        "explanation": "Aggressive fluid boluses precipitate acute chest syndrome; withholding opioids in acute sickle cell crisis violates standard medical care."
+      },
+      {
+        "text": "Initiate full therapeutic anticoagulation with subcutaneous enoxaparin to dissolve microvascular bone marrow thrombi",
+        "explanation": "Vaso-occlusion is driven by sickled erythrocyte adhesion, not macroscopic venous thrombosis; heparin does not relieve sickle pain crises."
+      },
+      {
+        "text": "Prescribe oral acetaminophen 650 mg as needed and discharge home immediately with instructions to rest",
+        "explanation": "Severe 10/10 sickle cell vaso-occlusive crisis requires parenteral opioid analgesia and inpatient admission, not outpatient acetaminophen."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0299",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Heparin-Induced Thrombocytopenia Diagnostic Item Lead-In Defect Analysis",
+    "subtopic": "Editorial Critique Flagging Direct Mechanism and Diagnosis Disclosure in Stem",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 85,
+    "shortestValidSolution": "REJECTED ON EDITORIAL CRITIQUE: The vignette and final lead-in sentence explicitly disclose the target diagnosis and diagnostic confirmation ('Given that this patient has heparin-induced thrombocytopenia confirmed by a positive serotonin release assay...'), eliminating the intended multi-step clinical deduction. The learner is bypassed from analyzing the 4T score or identifying HIT. Rejected to protect question bank difficulty and clinical integrity.",
+    "necessaryInference": "Clinical diagnostic deduction bypassed by premature disclosure in question stem lead-in.",
+    "strongestDistractor": "Plausible distractor superseded by prompt defect",
+    "distractorExclusion": "Defective item formulation.",
+    "citation": "Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia. Blood Adv. 2018;2(22):3360-3392. PMID: 30482768.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Failed editorial screen: Question stem prematurely discloses the target diagnosis ('heparin-induced thrombocytopenia confirmed by serotonin release assay') in the lead-in sentence, reducing the item to a simple recall match rather than clinical inference.",
+      "distractorExclusionNotes": "Distractors are structurally parallel, but the stem giveaway invalidates the intended diagnostic reasoning challenge.",
+      "verdict": "REJECT",
+      "rejectionNotes": "Question stem lead-in explicitly discloses the underlying diagnosis, bypassing clinical reasoning.",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 62-year-old man who underwent coronary artery bypass grafting 6 days ago receives subcutaneous unfractionated heparin for thromboprophylaxis. His platelet count drops from 260,000/mm3 to 74,000/mm3, and duplex ultrasound reveals an acute femoral vein thrombosis. Given that this patient has heparin-induced thrombocytopenia confirmed by a positive serotonin release assay, which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Discontinue heparin and initiate an intravenous direct thrombin inhibitor such as argatroban",
+        "explanation": "This item is rejected because the prompt directly stated the diagnosis in the lead-in sentence."
+      },
+      {
+        "text": "Immediately initiate oral warfarin 10 mg daily as monotherapy",
+        "explanation": "Warfarin monotherapy in acute HIT causes venous gangrene."
+      },
+      {
+        "text": "Transfuse two units of pooled platelets to restore platelet count",
+        "explanation": "Platelet transfusions in HIT are contraindicated."
+      },
+      {
+        "text": "Switch to therapeutic low-molecular-weight heparin",
+        "explanation": "LMWH cross-reacts with HIT antibodies."
+      },
+      {
+        "text": "Continue current heparin and observe platelet count over 48 hours",
+        "explanation": "Continuing heparin in active HIT leads to fatal thrombosis."
+      }
+    ]
+  },
+  {
+    "code": "op-c-s2-0300",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Duration of Anticoagulation for Unprovoked Venous Thromboembolism",
+    "subtopic": "Clinical Controversy Between Indefinite Anticoagulation vs Cessation After 3-6 Months",
+    "provisionalDifficulty": "Hard",
+    "estimatedDifficultyPercent": 86,
+    "shortestValidSolution": "UNRESOLVED CLINICAL CONTROVERSY: Determining the optimal duration of secondary anticoagulation for a first episode of unprovoked proximal deep vein thrombosis or pulmonary embolism in a patient with low-to-moderate bleeding risk. CHEST guidelines recommend indefinite (extended) oral anticoagulation with direct oral anticoagulants (DOACs; apixaban, rivaroxaban) because the annual recurrence rate after stopping anticoagulation is ~10% in the first year and > 30% at 5 years. Conversely, other international guidelines (NICE, European Society of Cardiology) emphasize that the cumulative lifetime bleeding risk on DOACs (major bleeding ~1-2% per year, intracranial hemorrhage ~0.2-0.4% per year) eventually overtakes the fatal PE prevention benefit, particularly if serial post-anticoagulation D-dimer testing (HERDOO2 or Vienna prediction model) is persistently negative. Classified as UNRESOLVED clinical debate.",
+    "necessaryInference": "Clinical decision regarding indefinite anticoagulation vs cessation with D-dimer surveillance in first unprovoked VTE currently lacks universal consensus due to competing recurrence vs cumulative bleeding hazards.",
+    "strongestDistractor": "Immediate placement of a permanent inferior vena cava (IVC) filter followed by permanent cessation of all anticoagulants",
+    "distractorExclusion": "IVC filters do not reduce long-term mortality and increase recurrent DVT rates; they are indicated strictly for acute VTE with absolute contraindications to anticoagulation.",
+    "citation": "Kearon C, Akl EA, Ornelas J, et al. Antithrombotic Therapy for VTE Disease: CHEST Guideline and Expert Panel Report. Chest. 2016;149(2):315-352. PMID: 26867832.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Item explores the major clinical controversy regarding duration of anticoagulation for first unprovoked VTE. Major international guidelines diverge between indefinite DOAC therapy vs finite 3-6 month therapy guided by clinical prediction rules and D-dimer.",
+      "distractorExclusionNotes": "Exclusion of IVC filter is clear, but the core choice between indefinite therapy versus finite duration with surveillance remains an active clinical dispute.",
+      "verdict": "UNRESOLVED",
+      "unresolvedNotes": "Guideline consensus regarding indefinite anticoagulation versus finite 3-to-6 month therapy with serial D-dimer surveillance in first unprovoked VTE remains actively debated.",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    },
+    "stem": "A 54-year-old previously healthy man completes an uncomplicated 6-month course of therapeutic anticoagulation with apixaban (5 mg twice daily) for a first episode of unprovoked proximal left femoral-popliteal deep vein thrombosis. He has had no bleeding complications, no recurrent leg swelling, and no symptoms of pulmonary embolism. He has no personal or family history of thrombophilia or malignancy, and age-appropriate cancer screening is up to date. Physical examination reveals an athletic man with normal vital signs and no leg edema. Laboratory evaluation reveals normal renal and hepatic function, and high-sensitivity D-dimer is normal at 280 ng/mL. The decision regarding whether to continue oral apixaban indefinitely versus permanently discontinuing anticoagulation remains an active, unresolved clinical dilemma in hematology guidelines because:",
+    "options": [
+      {
+        "text": "The significant reduction in recurrent fatal venous thromboembolism achieved by indefinite anticoagulation must be balanced against the cumulative, lifelong risk of major hemorrhage",
+        "explanation": "The optimal duration of anticoagulation following a first episode of UNPROVOKED (idiopathic) venous thromboembolism (VTE) is one of the most hotly debated, unresolved clinical controversies in modern vascular medicine. Master the competing clinical arguments tested on USMLE Step 2 CK: (1) THE CASE FOR EXTENDED / INDEFINITE ANTICOAGULATION (CHEST GUIDELINES): Patients with a first unprovoked proximal DVT or PE who stop anticoagulation after 3 to 6 months face an exceptionally high recurrence risk: approximately 10% in the first year, and cumulative recurrence rates exceeding 30% to 40% at 5 to 10 years. Because recurrent VTE carries a case-fatality rate of 5% to 9% (from massive pulmonary embolism), the American College of Chest Physicians (CHEST) guidelines recommend INDEFINITE (EXTENDED) ORAL ANTICOAGULATION (typically using direct oral anticoagulants [DOACs], often at reduced doses like apixaban 2.5 mg BID) for patients with first unprovoked VTE who have low-to-moderate bleeding risk. (2) THE CASE FOR DISCONTINUATION AFTER 3 TO 6 MONTHS: Conversely, other international panels (such as NICE and certain European societies) emphasize that INDEFINITE ANTICOAGULATION EXPOSES PATIENTS TO A CONSTANT, CUMULATIVE LIFETIME RISK OF MAJOR BLEEDING (approximately 1% to 2% per year on DOACs, with fatal or intracranial hemorrhage rates of 0.2% to 0.4% per year). As patients age, develop hypertension, take NSAIDs, or sustain trauma, bleeding risks escalate exponentially. Furthermore, risk stratification tools (such as the HERDOO2 rule, Vienna prediction model, and post-anticoagulation serial D-dimer testing) demonstrate that patients with persistently normal D-dimer levels have substantially lower recurrence rates (~3-5% per year) that may not justify lifelong bleeding hazards. Because randomized trials demonstrate competing trade-offs between recurrent thrombosis prevention and cumulative bleeding, guidelines explicitly categorize this decision as requiring individualized patient values and shared decision-making rather than a rigid consensus rule."
+      },
+      {
+        "text": "Direct oral anticoagulants completely lose their antithrombotic efficacy after 6 months of continuous therapy due to P-glycoprotein upregulation",
+        "explanation": "DOACs maintain reliable, stable antithrombotic efficacy indefinitely without drug tolerance or loss of activity."
+      },
+      {
+        "text": "A negative D-dimer level proves that the underlying venous endothelium has completely regenerated and that recurrence risk is zero",
+        "explanation": "A normal D-dimer reduces estimated recurrence risk, but recurrence remains 3% to 5% per year; it does not confer zero risk."
+      },
+      {
+        "text": "Indefinite anticoagulation is strictly contraindicated in all individuals under 65 years of age due to risk of osteopenia",
+        "explanation": "Heparin can cause osteopenia with long-term use, but DOACs do not cause bone density loss and are widely used in adults of all ages."
+      },
+      {
+        "text": "Permanent inferior vena cava filter placement provides identical mortality reduction to oral anticoagulation without bleeding risk",
+        "explanation": "IVC filters do not reduce long-term mortality, increase DVT recurrence, and are not an alternative to anticoagulation in unprovoked VTE."
+      }
+    ]
+  }
+];

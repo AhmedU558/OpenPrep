@@ -1,0 +1,202 @@
+diff --git a/e2e/responsive-a11y.spec.ts b/e2e/responsive-a11y.spec.ts
+index 6df22d8..7595a4b 100644
+--- a/e2e/responsive-a11y.spec.ts
++++ b/e2e/responsive-a11y.spec.ts
+@@ -49,3 +49,21 @@ test('the exam is fully keyboard operable (T12)', async ({ page }) => {
+   await page.keyboard.press('Tab');
+   await expect(page.getByRole('link', { name: 'Skip to content' })).toBeFocused();
+ });
++
++test('redesigned workspace keeps navigation and practice actions usable', async ({ page }, testInfo) => {
++  await register(page);
++  const nav = page.getByRole('navigation', { name: 'Main', exact: true }).filter({ visible: true });
++  await expect(nav.getByRole('link', { name: 'Home', exact: true })).toHaveAttribute('aria-current', 'page');
++  await expect(page.getByRole('heading', { name: 'Your next chapter starts here.' })).toBeVisible();
++  await page.screenshot({ path: testInfo.outputPath('dashboard-light.png'), fullPage: true });
++  await page.getByRole('button', { name: 'Theme: auto. Click to change.', exact: true }).click();
++  await page.getByRole('button', { name: 'Theme: light. Click to change.', exact: true }).click();
++  await expect(page.locator('html')).toHaveAttribute('data-theme', 'dark');
++  await audit(page, 'dark dashboard');
++  await page.screenshot({ path: testInfo.outputPath('dashboard-dark.png'), fullPage: true });
++  await page.getByRole('link', { name: 'Start a practice test' }).click();
++  await expect(page).toHaveURL(/\/create$/);
++  await expect(page.getByLabel('Questions per block')).toBeVisible();
++  await expect(nav.getByRole('link', { name: 'Create test', exact: true })).toHaveAttribute('aria-current', 'page');
++  await page.screenshot({ path: testInfo.outputPath('create-test.png'), fullPage: true });
++});
+diff --git a/src/app/(app)/(main)/dashboard/page.tsx b/src/app/(app)/(main)/dashboard/page.tsx
+index 010ffb3..b4438b5 100644
+--- a/src/app/(app)/(main)/dashboard/page.tsx
++++ b/src/app/(app)/(main)/dashboard/page.tsx
+@@ -26,6 +26,16 @@ export default async function Dashboard() {
+       <PageHeader title={`Welcome back, ${first}`} subtitle={o.used ? `${o.today} questions today · ${o.streak}-day streak` : 'Start with a short tutor-mode test to get a feel for things.'}
+         actions={<ButtonLink href="/create">Create test</ButtonLink>} />
+ 
++      <section className="study-hero relative mb-7 overflow-hidden rounded-3xl px-6 py-8 sm:px-9 sm:py-10" aria-labelledby="practice-heading">
++        <div className="relative z-10 max-w-lg">
++          <p className="text-xs font-semibold uppercase tracking-[0.18em] text-white/75">One session closer</p>
++          <h2 id="practice-heading" className="mt-3 font-serif text-3xl leading-tight sm:text-4xl">Your next chapter<br />starts here.</h2>
++          <p className="mt-4 max-w-sm text-sm leading-relaxed text-white/80">Make space for a little progress. Practice with purpose, understand the why, and keep moving forward.</p>
++          <Link href="/create" className="mt-6 inline-flex min-h-11 items-center gap-5 rounded-xl bg-white px-5 py-3 text-sm font-semibold text-[#153f35] hover:bg-[#edf5f0]">Start a practice test <span aria-hidden="true">↗</span></Link>
++        </div>
++        <div className="study-orbits" aria-hidden="true"><span /><span /><span /></div>
++      </section>
++
+       {suspended.length > 0 && (
+         <Card className="mb-6 border-accent/40 bg-warn-soft">
+           <h2 className="font-semibold">Pick up where you left off</h2>
+diff --git a/src/app/(app)/layout.tsx b/src/app/(app)/layout.tsx
+index b6f9e0c..71bedb7 100644
+--- a/src/app/(app)/layout.tsx
++++ b/src/app/(app)/layout.tsx
+@@ -9,11 +9,23 @@ import { hasRole, requireUserPage } from '@/lib/session';
+ export default async function AppLayout({ children }: { children: ReactNode }) {
+   const user = await requireUserPage();
+   return (
+-    <div className="min-h-screen">
++    <div className="study-shell min-h-screen lg:pl-60">
++      <aside className="study-sidebar fixed inset-y-0 left-0 z-40 hidden w-60 flex-col px-5 py-8 lg:flex" aria-label="Study workspace">
++        <Logo href="/dashboard" />
++        <p className="mb-8 mt-2 pl-9 text-xs tracking-wide text-white/65">A little progress, every day.</p>
++        <p className="mb-3 px-3 text-[10px] font-semibold uppercase tracking-[0.2em] text-white/55">Your workspace</p>
++        <NavLinks sidebar />
++        <div className="mt-auto rounded-2xl border border-white/15 bg-white/5 p-4">
++          <p className="text-sm font-medium">Build understanding.</p>
++          <p className="mt-2 text-xs leading-relaxed text-white/70">Review each explanation. Small, consistent sessions add up.</p>
++          <Link href="/planner" className="mt-4 inline-block text-sm font-medium text-white underline underline-offset-4">Make a study plan →</Link>
++        </div>
++        <p className="mt-5 px-1 text-[11px] leading-relaxed text-white/60">AI-authored and medically unreviewed. For exam preparation only.</p>
++      </aside>
+       <header className="sticky top-0 z-30 border-b border-line bg-surface/95 backdrop-blur">
+         <div className="mx-auto flex max-w-7xl items-center gap-4 px-4 py-2.5">
+-          <Logo href="/dashboard" />
+-          <div className="hidden min-w-0 flex-1 lg:block"><NavLinks /></div>
++          <div className="lg:hidden"><Logo href="/dashboard" /></div>
++          <div className="hidden lg:block"><p className="text-xs uppercase tracking-[0.16em] text-muted">Your learning space</p><p className="mt-0.5 text-sm font-medium">USMLE preparation</p></div>
+           <div className="ml-auto flex items-center gap-1">
+             <FontSize />
+             <ThemeToggle />
+@@ -27,7 +39,8 @@ export default async function AppLayout({ children }: { children: ReactNode }) {
+           You&apos;re in guest mode. <Link href="/register" className="font-medium text-brand underline">Create a free account</Link> to keep your progress.
+         </div>
+       )}
+-      <main id="main" className="mx-auto max-w-7xl px-4 py-8">{children}</main>
++      <main id="main" className="mx-auto max-w-7xl px-4 py-8 sm:px-7 lg:px-10 lg:py-10">{children}</main>
++      <footer className="mx-auto max-w-7xl px-4 pb-8 text-xs text-muted sm:px-7 lg:px-10">AI-authored and medically unreviewed. For exam preparation only.</footer>
+     </div>
+   );
+ }
+diff --git a/src/app/globals.css b/src/app/globals.css
+index b2f3f4a..45e85de 100644
+--- a/src/app/globals.css
++++ b/src/app/globals.css
+@@ -4,12 +4,12 @@
+ 
+ /* OpenPrep design tokens. Contrast pairs are WCAG AA (≥ 4.5:1 for text). */
+ :root {
+-  --bg: #f5f6f2;
++  --bg: #f3f6f2;
+   --surface: #ffffff;
+   --surface-2: #eceee8;
+   --ink: #16201c;
+   --muted: #56645d;
+-  --line: #d8ded6;
++  --line: #dfe6df;
+   --brand: #0b6e5a;
+   --brand-strong: #08594a;
+   --brand-ink: #ffffff;
+@@ -66,6 +66,16 @@ body { background: var(--bg); color: var(--ink); -webkit-font-smoothing: antiali
+ :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 4px; }
+ ::selection { background: var(--brand-soft); }
+ 
++.study-sidebar { background: #153f35; color: #fff; overflow-y: auto; }
++.study-sidebar > a { color: #fff; }
++.study-sidebar > a svg { --brand: #fff; --brand-ink: #153f35; }
++.study-hero { background: #153f35; color: #fff; }
++.study-orbits { position: absolute; width: 340px; height: 340px; right: -80px; top: -45px; opacity: .45; pointer-events: none; }
++.study-orbits span { position: absolute; inset: 0; border: 1px solid #8bb5a0; border-radius: 50%; }
++.study-orbits span:nth-child(2) { inset: 42px; }
++.study-orbits span:nth-child(3) { inset: 84px; background: #ffffff0b; }
++@media (max-width: 640px) { .study-orbits { right: -230px; opacity: .2; } }
++
+ /* Rendered Markdown (question stems, explanations, notes) */
+ .prose-q { line-height: 1.7; }
+ .prose-q p { margin: 0.65em 0; }
+@@ -83,5 +93,7 @@ mark { background: var(--mark); color: inherit; padding: 0 1px; border-radius: 2
+ 
+ @media print {
+   header, nav, .no-print { display: none !important; }
++  .study-sidebar { display: none !important; }
++  .study-shell { padding-left: 0 !important; }
+   body { background: white; color: black; }
+ }
+diff --git a/src/components/nav-links.tsx b/src/components/nav-links.tsx
+index 2cb0a47..0560e25 100644
+--- a/src/components/nav-links.tsx
++++ b/src/components/nav-links.tsx
+@@ -14,15 +14,27 @@ const LINKS = [
+   ['/planner', 'Planner'],
+ ] as const;
+ 
+-export function NavLinks() {
++const ICONS = [
++  'M3 10 12 3l9 7v10a1 1 0 0 1-1 1h-5v-7H9v7H4a1 1 0 0 1-1-1Z',
++  'M12 5v14M5 12h14',
++  'M4 5h16v15H4zM8 2v6M16 2v6M4 10h16',
++  'M4 4h6l2 2 2-2h6v16h-6l-2 2-2-2H4zM12 6v16',
++  'M4 20V10M12 20V4M20 20v-7',
++  'M5 3h14v15H5zM8 21h14V6',
++  'M5 3h15v18H5zM3 7h4M3 12h4M3 17h4M10 8h6M10 12h6',
++  'M4 5h16v16H4zM8 3v4M16 3v4M4 11h16M8 15h2M14 15h2',
++] as const;
++
++export function NavLinks({ sidebar = false }: { sidebar?: boolean }) {
+   const path = usePathname();
+   return (
+-    <nav aria-label="Main" className="flex gap-1 overflow-x-auto">
+-      {LINKS.map(([href, label]) => {
++    <nav aria-label="Main" className={cx('flex gap-1', sidebar ? 'flex-col' : 'overflow-x-auto')}>
++      {LINKS.map(([href, label], i) => {
+         const on = path === href || path.startsWith(`${href}/`);
+         return (
+           <Link key={href} href={href} aria-current={on ? 'page' : undefined}
+-            className={cx('whitespace-nowrap rounded-lg px-3 py-1.5 text-sm', on ? 'bg-brand-soft font-medium text-brand' : 'text-muted hover:bg-surface-2 hover:text-ink')}>
++            className={cx('flex items-center gap-3 whitespace-nowrap rounded-full px-3 text-sm transition-colors', sidebar ? 'py-3' : 'py-2', sidebar ? (on ? 'bg-[#edf5f0] font-semibold text-[#153f35]' : 'text-white/70 hover:bg-white/10 hover:text-white') : (on ? 'bg-brand-soft font-medium text-brand' : 'text-muted hover:bg-surface-2 hover:text-ink'))}>
++            {sidebar && <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d={ICONS[i]} /></svg>}
+             {label}
+           </Link>
+         );
+diff --git a/src/components/ui.tsx b/src/components/ui.tsx
+index 6fa2345..11d8e5d 100644
+--- a/src/components/ui.tsx
++++ b/src/components/ui.tsx
+@@ -24,7 +24,7 @@ export function ButtonLink({ variant = 'primary', size = 'md', className, ...p }
+ }
+ 
+ export function Card({ className, ...p }: ComponentProps<'div'>) {
+-  return <div className={cx('rounded-xl border border-line bg-surface p-5', className)} {...p} />;
++  return <div className={cx('rounded-2xl border border-line bg-surface p-5 shadow-[0_3px_16px_-10px_rgba(20,55,42,0.18)] sm:p-6', className)} {...p} />;
+ }
+ 
+ export function Badge({ tone = 'neutral', className, ...p }: ComponentProps<'span'> & { tone?: 'neutral' | 'brand' | 'ok' | 'bad' | 'warn' }) {
+@@ -36,7 +36,7 @@ export function PageHeader({ title, subtitle, actions }: { title: string; subtit
+   return (
+     <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
+       <div>
+-        <h1 className="text-2xl font-semibold tracking-tight">{title}</h1>
++        <h1 className="font-serif text-3xl font-medium tracking-tight sm:text-4xl">{title}</h1>
+         {subtitle && <p className="mt-1 text-muted">{subtitle}</p>}
+       </div>
+       {actions && <div className="flex flex-wrap gap-2">{actions}</div>}
+@@ -46,9 +46,9 @@ export function PageHeader({ title, subtitle, actions }: { title: string; subtit
+ 
+ export function Stat({ label, value, hint }: { label: string; value: ReactNode; hint?: ReactNode }) {
+   return (
+-    <div className="rounded-xl border border-line bg-surface p-4">
++    <div className="rounded-2xl border border-line bg-surface p-5 shadow-[0_3px_16px_-10px_rgba(20,55,42,0.18)]">
+       <div className="text-sm text-muted">{label}</div>
+-      <div className="mt-1 text-2xl font-semibold tabular-nums">{value}</div>
++      <div className="mt-3 text-3xl font-semibold tracking-tight tabular-nums">{value}</div>
+       {hint && <div className="mt-1 text-xs text-muted">{hint}</div>}
+     </div>
+   );
