@@ -1,0 +1,47 @@
+import { beforeEach, expect, it } from 'vitest';
+import { db } from '@/lib/db';
+import { persistAuthorizedBatch } from '@/lib/authorized-importer';
+import { authorizeOwnerTestRelease, createQuestionRevision, getDeliverableQuestion, isRevisionFullyApproved, recordQuestionReview } from '@/lib/question-revision';
+import { setStatus } from '@/lib/admin';
+import { listQuestions } from '@/lib/questions';
+import { filtersSchema } from '@/lib/validation/exam';
+import { answer, createSession, getView, openSession, submitItem } from '@/lib/exam/service';
+import { questions } from '../../content/bank/batch-01';
+import { makeUser, resetDb } from './helpers';
+
+beforeEach(resetDb);
+
+it('delivers and browses an owner-authorized immutable test revision without clinical approvals, and honors revocation', async () => {
+  const actor = await makeUser('ADMIN');
+  const evidence = { authorizedBy: 'Synthetic project owner', authorizedAt: new Date().toISOString(), authorization: 'Synthetic owner instruction to allow unreviewed practice questions.' };
+  await db.$transaction(tx => persistAuthorizedBatch(tx, actor, [{ ...questions[0]!, code: 'fixture-owner-test-release' }]));
+  const q = await db.question.findUniqueOrThrow({ where: { code: 'fixture-owner-test-release' } });
+  const rev = await db.questionRevision.findFirstOrThrow({ where: { questionId: q.id } });
+  await expect(db.$transaction(tx => authorizeOwnerTestRelease(tx, { id: actor.id, role: 'EDITOR' }, rev.id, evidence))).rejects.toMatchObject({ code: 'FORBIDDEN' });
+  await db.$transaction(tx => authorizeOwnerTestRelease(tx, actor, rev.id, evidence));
+  expect((await getDeliverableQuestion(db, q.id)).deliverable).toBe(false);
+  await db.question.update({ where: { id: q.id }, data: { rightsStatus: 'VERIFIED', rightsHolder: 'Synthetic test rights', rightsEvidence: 'Synthetic permission only in disposable test database.', rightsDecision: 'Synthetic owner delivery permission.', rightsReviewedBy: actor.id, rightsReviewedAt: new Date(), rightsAllowDelivery: true } });
+  await setStatus(actor, q.id, 'PUBLISHED');
+  expect((await getDeliverableQuestion(db, q.id)).revisionId).toBe(rev.id);
+  expect(await db.questionReview.count({ where: { revisionId: rev.id } })).toBe(0);
+  expect(isRevisionFullyApproved([]).approved).toBe(false);
+  const listed = await listQuestions(null, filtersSchema.parse({}), 1, 100);
+  expect(listed.rows.find(r => r.id === q.id)?.stemMd).toBe(q.stemMd);
+  const learner = await makeUser();
+  const sessionId = await createSession(learner.id, { mode: 'TUTOR', count: 1, questionIds: [q.id] });
+  await openSession(learner.id, sessionId);
+  const view = await getView(learner.id, sessionId);
+  expect(view.item.stemHtml).toContain('<p>');
+  const correct = await db.option.findFirstOrThrow({ where: { questionId: q.id, isCorrect: true } });
+  await answer(learner.id, sessionId, 0, [correct.id]);
+  await submitItem(learner.id, sessionId, 0);
+  expect((await getView(learner.id, sessionId)).question.reveal?.isCorrect).toBe(true);
+  expect((await db.practiceAttempt.findFirstOrThrow({ where: { sessionId } })).revisionId).toBe(rev.id);
+  await db.$transaction(tx => recordQuestionReview(tx, { revisionId: rev.id, reviewerId: actor.id, reviewKind: 'CLINICAL', decision: 'REVOKED' }));
+  expect((await getDeliverableQuestion(db, q.id)).deliverable).toBe(false);
+  await expect(db.$transaction(tx => authorizeOwnerTestRelease(tx, actor, rev.id, evidence))).rejects.toMatchObject({ code: 'CONFLICT' });
+  await db.question.update({ where: { id: q.id }, data: { objective: 'A materially different synthetic objective.' } });
+  const next = await db.$transaction(tx => createQuestionRevision(tx, { questionId: q.id }));
+  expect(next.revision.ownerTestRelease).toBeNull();
+  await expect(db.$transaction(tx => authorizeOwnerTestRelease(tx, actor, rev.id, evidence))).rejects.toMatchObject({ code: 'CONFLICT' });
+});

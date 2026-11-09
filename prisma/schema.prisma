@@ -660,6 +660,7 @@ model QuestionRevision {
   contentHash     String
   schemaVersion   Int               @default(1)
   contentSnapshot Json
+  ownerTestRelease Json?
   changeSummary   String?
   authorId        String?
   author          User?             @relation("revisionAuthor", fields: [authorId], references: [id], onDelete: SetNull)
