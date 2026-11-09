@@ -1,6 +1,6 @@
 import { createHash } from 'node:crypto';
 import { z } from 'zod';
-import type { Prisma, QuestionReview, QuestionRevision } from '@/generated/prisma/client';
+import { Prisma, type QuestionReview, type QuestionRevision } from '@/generated/prisma/client';
 import type { ReviewDecision, ReviewKind } from '@/generated/prisma/enums';
 import type { Tx } from './db';
 import { AppError } from './errors';
@@ -332,15 +332,24 @@ export function isRevisionAvailableForPractice(revision: {
 }
 
 export async function authorizeOwnerTestRelease(tx: Tx, actor: { id: string; role: string }, revisionId: string, evidence: { authorizedBy: string; authorizedAt: string; authorization: string }) {
+  return authorizeOwnerTestReleases(tx, actor, [revisionId], evidence);
+}
+
+export async function authorizeOwnerTestReleases(tx: Tx, actor: { id: string; role: string }, revisionIds: string[], evidence: { authorizedBy: string; authorizedAt: string; authorization: string }) {
   if (actor.role !== 'ADMIN') throw new AppError('FORBIDDEN', 'Only admins record owner test-release authorization.');
-  const revision = await tx.questionRevision.findUniqueOrThrow({ where: { id: revisionId }, include: { reviews: true } });
-  await tx.$queryRaw`SELECT id FROM question WHERE id = ${revision.questionId} FOR UPDATE`;
-  const latest = await tx.questionRevision.findFirst({ where: { questionId: revision.questionId }, orderBy: { revisionNumber: 'desc' }, include: { reviews: true } });
-  if (latest?.id !== revisionId) throw new AppError('CONFLICT', 'Only the current revision can receive owner test-release permission.');
-  if (latest.reviews.some(r => r.decision === 'REVOKED' || r.decision === 'REJECTED')) throw new AppError('CONFLICT', 'Rejected or revoked content requires correction and a new revision.');
-  const release = ownerTestReleaseSchema.parse({ ...evidence, contentHash: latest.contentHash, clinicalReviewClaimed: false });
-  await tx.questionRevision.update({ where: { id: revisionId }, data: { ownerTestRelease: release } });
-  await tx.auditLog.create({ data: { actorId: actor.id, action: 'question.owner_test_release', entityType: 'question_revision', entityId: revisionId, diff: release } });
+  const ids = z.array(z.string().min(1)).min(1).max(100).parse(revisionIds);
+  const parents = await tx.questionRevision.findMany({ where: { id: { in: ids } }, select: { questionId: true } });
+  if (parents.length !== new Set(ids).size) throw new AppError('NOT_FOUND', 'Question revision not found.');
+  await tx.$queryRaw(Prisma.sql`SELECT id FROM question WHERE id IN (${Prisma.join(parents.map(r => r.questionId))}) ORDER BY id FOR UPDATE`);
+  const revisions = await tx.questionRevision.findMany({ where: { id: { in: ids } }, include: { reviews: true } });
+  const latest = await tx.questionRevision.groupBy({ by: ['questionId'], where: { questionId: { in: parents.map(r => r.questionId) } }, _max: { revisionNumber: true } });
+  const rows = revisions.map(revision => {
+    if (latest.find(r => r.questionId === revision.questionId)?._max.revisionNumber !== revision.revisionNumber) throw new AppError('CONFLICT', 'Only the current revision can receive owner test-release permission.');
+    if (revision.reviews.some(r => r.decision === 'REVOKED' || r.decision === 'REJECTED')) throw new AppError('CONFLICT', 'Rejected or revoked content requires correction and a new revision.');
+    return { id: revision.id, release: ownerTestReleaseSchema.parse({ ...evidence, contentHash: revision.contentHash, clinicalReviewClaimed: false }) };
+  });
+  await tx.$executeRaw`UPDATE question_revision r SET "ownerTestRelease" = p.release FROM jsonb_to_recordset(${JSON.stringify(rows)}::jsonb) AS p(id text, release jsonb) WHERE r.id = p.id`;
+  await tx.auditLog.createMany({ data: rows.map(row => ({ actorId: actor.id, action: 'question.owner_test_release', entityType: 'question_revision', entityId: row.id, diff: row.release })) });
 }
 
 export type DeliverableQuestionResult = {
