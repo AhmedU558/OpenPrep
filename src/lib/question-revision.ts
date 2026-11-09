@@ -311,6 +311,38 @@ export function isRevisionFullyApproved(
   };
 }
 
+const ownerTestReleaseSchema = z.object({
+  contentHash: z.string().regex(/^[a-f0-9]{64}$/),
+  authorizedBy: z.string().trim().min(2).max(200),
+  authorizedAt: z.iso.datetime(),
+  authorization: z.string().trim().min(20).max(2000),
+  clinicalReviewClaimed: z.literal(false),
+});
+
+/** Owner test permission never counts as editorial, clinical or rights review. */
+export function isRevisionAvailableForPractice(revision: {
+  contentHash?: string;
+  ownerTestRelease?: unknown;
+  reviews: Array<{ reviewKind: ReviewKind; decision: ReviewDecision }>;
+}): boolean {
+  if (isRevisionFullyApproved(revision.reviews).approved) return true;
+  if (revision.reviews.some(r => r.decision === 'REVOKED' || r.decision === 'REJECTED')) return false;
+  const release = ownerTestReleaseSchema.safeParse(revision.ownerTestRelease);
+  return release.success && release.data.contentHash === revision.contentHash;
+}
+
+export async function authorizeOwnerTestRelease(tx: Tx, actor: { id: string; role: string }, revisionId: string, evidence: { authorizedBy: string; authorizedAt: string; authorization: string }) {
+  if (actor.role !== 'ADMIN') throw new AppError('FORBIDDEN', 'Only admins record owner test-release authorization.');
+  const revision = await tx.questionRevision.findUniqueOrThrow({ where: { id: revisionId }, include: { reviews: true } });
+  await tx.$queryRaw`SELECT id FROM question WHERE id = ${revision.questionId} FOR UPDATE`;
+  const latest = await tx.questionRevision.findFirst({ where: { questionId: revision.questionId }, orderBy: { revisionNumber: 'desc' }, include: { reviews: true } });
+  if (latest?.id !== revisionId) throw new AppError('CONFLICT', 'Only the current revision can receive owner test-release permission.');
+  if (latest.reviews.some(r => r.decision === 'REVOKED' || r.decision === 'REJECTED')) throw new AppError('CONFLICT', 'Rejected or revoked content requires correction and a new revision.');
+  const release = ownerTestReleaseSchema.parse({ ...evidence, contentHash: latest.contentHash, clinicalReviewClaimed: false });
+  await tx.questionRevision.update({ where: { id: revisionId }, data: { ownerTestRelease: release } });
+  await tx.auditLog.create({ data: { actorId: actor.id, action: 'question.owner_test_release', entityType: 'question_revision', entityId: revisionId, diff: release } });
+}
+
 export type DeliverableQuestionResult = {
   deliverable: boolean;
   reason?: string;
@@ -324,8 +356,8 @@ export type DeliverableQuestionResult = {
  * Resolves delivery eligibility and exact content snapshot for a question:
  * 1. Enforces content-rights and publication check (status = PUBLISHED, rightsStatus = VERIFIED, rightsAllowDelivery = true).
  * 2. For unversioned legacy questions (0 revisions): deliverable under legacy mode.
- * 3. For versioned questions: requires the latest revision to be fully approved across all 3 pillars with NO revocation.
- *    If the latest revision is pending, rejected, or revoked, delivery is strictly withheld.
+ * 3. For versioned questions: requires three-pillar approval or an explicit owner test release for that exact hash.
+ *    Owner permission cannot bypass a rejected/revoked review and never claims qualified clinical review.
  *    Does NOT fall back to older approved revisions.
  */
 export async function getDeliverableQuestion(
@@ -376,7 +408,7 @@ export async function getDeliverableQuestion(
   const latestRevision = revisions[0]!;
   const { approved, missingKinds } = isRevisionFullyApproved(latestRevision.reviews);
 
-  if (!approved) {
+  if (!approved && !isRevisionAvailableForPractice(latestRevision)) {
     return {
       deliverable: false,
       reason: `Question content is withheld pending editorial review of revision #${latestRevision.revisionNumber} (missing or revoked: ${missingKinds.join(', ')}). Your saved attempt is preserved.`,
