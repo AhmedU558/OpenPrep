@@ -66,6 +66,33 @@ enum TaskKind {
   FLASHCARDS
 }
 
+enum PracticeEventType {
+  SESSION_START
+  ATTEMPT_SUBMISSION
+  PRACTICE_RESET
+  SESSION_SUSPEND
+  SESSION_RESUME
+}
+
+enum ResetScope {
+  ALL
+  INCORRECT_ONLY
+  MARKED_ONLY
+  CUSTOM
+}
+
+enum ReviewDecision {
+  APPROVED
+  REJECTED
+  REVOKED
+}
+
+enum ReviewKind {
+  EDITORIAL
+  CLINICAL
+  RIGHTS
+}
+
 // ---------------------------------------------------------------- auth (Better Auth core models)
 
 model User {
@@ -80,22 +107,28 @@ model User {
   createdAt     DateTime @default(now())
   updatedAt     DateTime @updatedAt
 
-  sessions      Session[]
-  accounts      Account[]
-  testSessions  TestSession[]
-  practiceExams PracticeExam[]
-  responses     Response[]
-  bookmarks     Bookmark[]
-  notes         Note[]
-  questionTags  QuestionTag[]
-  notebookPages NotebookPage[]
-  collections   Collection[]
-  cards         Card[]
-  cardReviews   CardReview[]
-  studyPlan     StudyPlan?
-  reports       ContentReport[]  @relation("reporter")
-  authored      Question[]       @relation("author")
-  auditLogs     AuditLog[]
+  sessions          Session[]
+  accounts          Account[]
+  testSessions      TestSession[]
+  practiceExams     PracticeExam[]
+  responses         Response[]
+  bookmarks         Bookmark[]
+  notes             Note[]
+  questionTags      QuestionTag[]
+  notebookPages     NotebookPage[]
+  collections       Collection[]
+  cards             Card[]
+  cardReviews       CardReview[]
+  studyPlan         StudyPlan?
+  reports           ContentReport[]    @relation("reporter")
+  authored          Question[]         @relation("author")
+  auditLogs         AuditLog[]
+  practiceState     UserPracticeState?
+  practiceEvents    PracticeEvent[]
+  practiceResets    PracticeReset[]
+  practiceAttempts  PracticeAttempt[]
+  questionRevisions QuestionRevision[] @relation("revisionAuthor")
+  questionReviews   QuestionReview[]   @relation("reviewer")
 
   @@map("user")
 }
@@ -150,10 +183,10 @@ model Verification {
 // ---------------------------------------------------------------- taxonomy
 
 model Exam {
-  id        String     @id @default(cuid())
-  slug      String     @unique
+  id        String      @id @default(cuid())
+  slug      String      @unique
   name      String
-  position  Int        @default(0)
+  position  Int         @default(0)
   questions Question[]
   plans     StudyPlan[]
 
@@ -193,53 +226,55 @@ model Topic {
 // ---------------------------------------------------------------- content
 
 model Question {
-  id            String         @id @default(cuid())
-  code          String         @unique // human-readable ID shown to learners, e.g. s1-0001
-  type          QuestionType   @default(SINGLE)
-  status        QuestionStatus @default(DRAFT)
-  difficulty    Int            @default(3) // 1 (easy) .. 5 (hard)
-  examId        String
-  exam          Exam           @relation(fields: [examId], references: [id])
-  subjectId     String
-  subject       Subject        @relation(fields: [subjectId], references: [id])
-  systemId      String
-  system        System         @relation(fields: [systemId], references: [id])
-  topicId       String?
-  topic         Topic?         @relation(fields: [topicId], references: [id])
-  stemMd        String
-  explanationMd String
-  objective     String?
-  keyPoints     String[]
-  references    Json           @default("[]") // [{ label, url? }]
-  imageUrl      String?
-  imageAlt      String?
-  source        String // who wrote it / where it came from
-  license       String // e.g. CC-BY-SA-4.0
-  attribution   String?
+  id                  String              @id @default(cuid())
+  code                String              @unique // human-readable ID shown to learners, e.g. s1-0001
+  type                QuestionType        @default(SINGLE)
+  status              QuestionStatus      @default(DRAFT)
+  difficulty          Int                 @default(3) // 1 (easy) .. 5 (hard)
+  examId              String
+  exam                Exam                @relation(fields: [examId], references: [id])
+  subjectId           String
+  subject             Subject             @relation(fields: [subjectId], references: [id])
+  systemId            String
+  system              System              @relation(fields: [systemId], references: [id])
+  topicId             String?
+  topic               Topic?              @relation(fields: [topicId], references: [id])
+  stemMd              String
+  explanationMd       String
+  objective           String?
+  keyPoints           String[]
+  references          Json                @default("[]") // [{ label, url? }]
+  imageUrl            String?
+  imageAlt            String?
+  source              String // who wrote it / where it came from
+  license             String // e.g. CC-BY-SA-4.0
+  attribution         String?
   rightsStatus        ContentRightsStatus @default(UNVERIFIED)
   rightsHolder        String?
   rightsEvidence      String? // private evidence reference; never included in content exports
   rightsDecision      String?
   rightsReviewedBy    String? // retained audit identity, not an ownership assignment
   rightsReviewedAt    DateTime?
-  rightsAllowDelivery Boolean @default(false)
-  rightsAllowExport   Boolean @default(false)
-  isDemo        Boolean        @default(false)
-  authorId      String?
-  author        User?          @relation("author", fields: [authorId], references: [id], onDelete: SetNull)
-  createdAt     DateTime       @default(now())
-  updatedAt     DateTime       @updatedAt
-  publishedAt   DateTime?
+  rightsAllowDelivery Boolean             @default(false)
+  rightsAllowExport   Boolean             @default(false)
+  isDemo              Boolean             @default(false)
+  authorId            String?
+  author              User?               @relation("author", fields: [authorId], references: [id], onDelete: SetNull)
+  createdAt           DateTime            @default(now())
+  updatedAt           DateTime            @updatedAt
+  publishedAt         DateTime?
 
-  options         Option[]
-  sessionItems    SessionItem[]
-  responses       Response[]
-  bookmarks       Bookmark[]
-  notes           Note[]
-  tags            QuestionTag[]
-  collectionItems CollectionItem[]
-  cards           Card[]
-  reports         ContentReport[]
+  options          Option[]
+  sessionItems     SessionItem[]
+  responses        Response[]
+  bookmarks        Bookmark[]
+  notes            Note[]
+  tags             QuestionTag[]
+  collectionItems  CollectionItem[]
+  cards            Card[]
+  reports          ContentReport[]
+  revisions        QuestionRevision[]
+  practiceAttempts PracticeAttempt[]
 
   @@index([examId, status])
   @@index([subjectId])
@@ -250,13 +285,14 @@ model Question {
 }
 
 model Option {
-  id            String   @id @default(cuid())
-  questionId    String
-  question      Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
-  position      Int
-  text          String
-  isCorrect     Boolean  @default(false)
-  explanationMd String?
+  id               String            @id @default(cuid())
+  questionId       String
+  question         Question          @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  position         Int
+  text             String
+  isCorrect        Boolean           @default(false)
+  explanationMd    String?
+  practiceAttempts PracticeAttempt[]
 
   @@unique([questionId, position])
   @@map("option")
@@ -280,29 +316,32 @@ model PracticeExam {
 }
 
 model TestSession {
-  id              String        @id @default(cuid())
-  userId          String
-  user            User          @relation(fields: [userId], references: [id], onDelete: Cascade)
-  name            String?
-  mode            SessionMode
-  state           SessionState  @default(CREATED)
-  timeLimitSec    Int? // null = untimed
-  negativeMark    Float         @default(0) // points deducted per wrong answer
-  activeMs        Int           @default(0) // time spent while IN_PROGRESS, excluding the current stretch
-  lastResumedAt   DateTime?
-  startedAt       DateTime?
-  submittedAt     DateTime?
-  currentPosition Int           @default(0)
-  positionSince   DateTime? // when the learner arrived at currentPosition; time-per-question is measured from here
-  version         Int           @default(0) // optimistic concurrency for submit
-  total           Int
-  correctCount    Int?
-  score           Float?
-  practiceExamId  String?
-  practiceExam    PracticeExam? @relation(fields: [practiceExamId], references: [id], onDelete: Cascade)
-  blockIndex      Int?
-  createdAt       DateTime      @default(now())
-  items           SessionItem[]
+  id               String            @id @default(cuid())
+  userId           String
+  user             User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name             String?
+  mode             SessionMode
+  state            SessionState      @default(CREATED)
+  timeLimitSec     Int? // null = untimed
+  negativeMark     Float             @default(0) // points deducted per wrong answer
+  activeMs         Int               @default(0) // time spent while IN_PROGRESS, excluding the current stretch
+  lastResumedAt    DateTime?
+  startedAt            DateTime?
+  submittedAt          DateTime?
+  sessionStartEventSeq BigInt?
+  currentPosition  Int               @default(0)
+  positionSince    DateTime? // when the learner arrived at currentPosition; time-per-question is measured from here
+  version          Int               @default(0) // optimistic concurrency for submit
+  total            Int
+  correctCount     Int?
+  score            Float?
+  practiceExamId   String?
+  practiceExam     PracticeExam?     @relation(fields: [practiceExamId], references: [id], onDelete: Cascade)
+  blockIndex       Int?
+  createdAt        DateTime          @default(now())
+  items            SessionItem[]
+  practiceEvents   PracticeEvent[]
+  practiceAttempts PracticeAttempt[]
 
   @@index([userId, createdAt])
   @@index([userId, state])
@@ -310,25 +349,29 @@ model TestSession {
 }
 
 model SessionItem {
-  id                String      @id @default(cuid())
+  id                String            @id @default(cuid())
   sessionId         String
-  session           TestSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  session           TestSession       @relation(fields: [sessionId], references: [id], onDelete: Cascade)
   position          Int
   questionId        String
-  question          Question    @relation(fields: [questionId], references: [id])
-  state             ItemState   @default(UNSEEN)
+  question          Question          @relation(fields: [questionId], references: [id])
+  state             ItemState         @default(UNSEEN)
   selectedOptionIds String[]
   struckOptionIds   String[]
   highlightsHtml    String? // sanitized stem HTML with <mark> tags
-  flagged           Boolean     @default(false)
-  timeMs            Int         @default(0)
+  flagged           Boolean           @default(false)
+  timeMs            Int               @default(0)
   isCorrect         Boolean?
   points            Float?
   answeredAt        DateTime?
-  lockedAt          DateTime?
+  lockedAt            DateTime?
+  deliveredRevisionId String?
+  deliveredRevision   QuestionRevision? @relation(fields: [deliveredRevisionId], references: [id], onDelete: Restrict)
+  practiceAttempts    PracticeAttempt[]
 
   @@unique([sessionId, position])
   @@unique([sessionId, questionId])
+  @@index([deliveredRevisionId])
   @@map("session_item")
 }
 
@@ -389,19 +432,19 @@ model QuestionTag {
 }
 
 model NotebookPage {
-  id        String         @id @default(cuid())
-  userId    String
-  user      User           @relation(fields: [userId], references: [id], onDelete: Cascade)
-  parentId  String?
-  parent    NotebookPage?  @relation("tree", fields: [parentId], references: [id], onDelete: Cascade)
-  children  NotebookPage[] @relation("tree")
-  title     String
-  body      String         @default("")
-  sourceQuestionIds String[] @default([]) // retained even when a clipped page is edited
-  tags      String[]
-  position  Int            @default(0)
-  createdAt DateTime       @default(now())
-  updatedAt DateTime       @updatedAt
+  id                String         @id @default(cuid())
+  userId            String
+  user              User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+  parentId          String?
+  parent            NotebookPage?  @relation("tree", fields: [parentId], references: [id], onDelete: Cascade)
+  children          NotebookPage[] @relation("tree")
+  title             String
+  body              String         @default("")
+  sourceQuestionIds String[]       @default([]) // retained even when a clipped page is edited
+  tags              String[]
+  position          Int            @default(0)
+  createdAt         DateTime       @default(now())
+  updatedAt         DateTime       @updatedAt
 
   @@index([userId, parentId])
   @@map("notebook_page")
@@ -532,4 +575,117 @@ model AuditLog {
   @@index([entityType, entityId])
   @@index([createdAt])
   @@map("audit_log")
+}
+
+// ---------------------------------------------------------------- practice history, provenance & revisions
+
+model UserPracticeState {
+  userId         String   @id
+  user           User     @relation(fields: [userId], references: [id], onDelete: Restrict)
+  lastEventSeq   BigInt   @default(0)
+  activeResetSeq BigInt   @default(0)
+  updatedAt      DateTime @updatedAt
+
+  @@map("user_practice_state")
+}
+
+model PracticeEvent {
+  id        String            @id @default(cuid())
+  userId    String
+  user      User              @relation(fields: [userId], references: [id], onDelete: Restrict)
+  eventSeq  BigInt
+  eventType PracticeEventType
+  sessionId String?
+  session   TestSession?      @relation(fields: [sessionId], references: [id], onDelete: SetNull)
+  payload   Json              @default("{}")
+  createdAt DateTime          @default(now())
+
+  @@unique([userId, eventSeq])
+  @@index([userId])
+  @@map("practice_event")
+}
+
+model PracticeReset {
+  id                  String     @id @default(cuid())
+  userId              String
+  user                User       @relation(fields: [userId], references: [id], onDelete: Restrict)
+  resetEventSeq       BigInt
+  scope               ResetScope
+  affectedQuestionIds String[]   @default([])
+  filterCriteria      Json       @default("{}")
+  snapshotCounts      Json       @default("{}")
+  createdAt           DateTime   @default(now())
+
+  @@unique([userId, resetEventSeq])
+  @@index([userId, resetEventSeq])
+  @@map("practice_reset")
+}
+
+model PracticeAttempt {
+  id                         String            @id @default(cuid())
+  idempotencyKey             String
+  userId                     String
+  user                       User              @relation(fields: [userId], references: [id], onDelete: Restrict)
+  sessionId                  String?
+  session                    TestSession?      @relation(fields: [sessionId], references: [id], onDelete: SetNull)
+  sessionItemId              String?
+  sessionItem                SessionItem?      @relation(fields: [sessionItemId], references: [id], onDelete: SetNull)
+  questionId                 String
+  question                   Question          @relation(fields: [questionId], references: [id], onDelete: Restrict)
+  revisionId                 String?
+  revision                   QuestionRevision? @relation(fields: [revisionId], references: [id], onDelete: SetNull)
+  sessionStartEventSeq       BigInt
+  attemptEventSeq            BigInt
+  selectedOptionId           String?
+  selectedOption             Option?           @relation(fields: [selectedOptionId], references: [id], onDelete: SetNull)
+  selectedOptionIdentifier   String
+  selectedOptionTextSnapshot String
+  isCorrect                  Boolean
+  secondsSpent               Int               @default(0)
+  clientSubmittedAt          DateTime
+  serverRecordedAt           DateTime          @default(now())
+
+  @@unique([userId, idempotencyKey])
+  @@unique([userId, attemptEventSeq])
+  @@index([userId, questionId, attemptEventSeq])
+  @@index([sessionId, sessionItemId])
+  @@map("practice_attempt")
+}
+
+model QuestionRevision {
+  id              String            @id @default(cuid())
+  questionId      String
+  question        Question          @relation(fields: [questionId], references: [id], onDelete: Restrict)
+  revisionNumber  Int
+  contentHash     String
+  schemaVersion   Int               @default(1)
+  contentSnapshot Json
+  ownerTestRelease Json?
+  changeSummary   String?
+  authorId        String?
+  author          User?             @relation("revisionAuthor", fields: [authorId], references: [id], onDelete: SetNull)
+  createdAt       DateTime          @default(now())
+  reviews         QuestionReview[]
+  attempts        PracticeAttempt[]
+  sessionItems    SessionItem[]
+
+  @@unique([questionId, revisionNumber])
+  @@index([contentHash])
+  @@map("question_revision")
+}
+
+model QuestionReview {
+  id                  String           @id @default(cuid())
+  revisionId          String
+  revision            QuestionRevision @relation(fields: [revisionId], references: [id], onDelete: Restrict)
+  reviewerId          String
+  reviewer            User             @relation("reviewer", fields: [reviewerId], references: [id], onDelete: Restrict)
+  reviewKind          ReviewKind
+  decision            ReviewDecision
+  reviewerCredentials String?
+  comments            String?
+  createdAt           DateTime         @default(now())
+
+  @@index([revisionId, reviewKind, decision])
+  @@map("question_review")
 }

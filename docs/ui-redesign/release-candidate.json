@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-01T12:53:42.986Z",
+  "baselineCommit": "87a7d339dc4eb269aebbaa3388a38eb348c9d913",
+  "patchSha256": "d95cc725e786d55ec9290c074dabeedeb11f2ab0e6dc0c9f0c25b5f2b2e4b4ce",
+  "files": [
+    {
+      "path": "src/app/(app)/(main)/dashboard/page.tsx",
+      "sha256": "9841bd6e6c45d6114831468ad32ccbc549c8bdb1bfb28456e0480c56c1efcc8e"
+    },
+    {
+      "path": "src/app/(app)/layout.tsx",
+      "sha256": "4e3f092c0c5b8f927bb0fd739c0e506b03cc1fc9feae2432391a617d61ffffcd"
+    },
+    {
+      "path": "src/app/globals.css",
+      "sha256": "bd81f71a0d1e10df02f3eee2cfc33381254f8d42dce8e577744564891a410b52"
+    },
+    {
+      "path": "src/components/nav-links.tsx",
+      "sha256": "981c8ca33374246deba5aee1c9da438f608469e877b93aee9db9bb6ee12a6a24"
+    },
+    {
+      "path": "src/components/ui.tsx",
+      "sha256": "a9e004062725a93994323a59570e6b3d6970e8876a3e2bbc7e90a72776b0c550"
+    },
+    {
+      "path": "e2e/responsive-a11y.spec.ts",
+      "sha256": "5b2fd70941c7547bbc96dafebb1f74c1d77befe5fd6ad885c3c688a301eea196"
+    }
+  ],
+  "excluded": [
+    "content/step3/**",
+    "unrelated compliance edits",
+    "database migrations",
+    "credentials and private environment files"
+  ],
+  "hostedContentCheck": {
+    "checked": 65,
+    "allowed": 0,
+    "withheld": 65,
+    "decision": "BLOCKED: missing current content-rights approvals; no artifact produced"
+  },
+  "contentApprovalRecords": 0,
+  "releasePolicyRecordCounts": {
+    "distributionApprovals": 0,
+    "componentPermissions": 0,
+    "sourceOffers": 0,
+    "artifactNotices": 0,
+    "releasePrerequisites": 0
+  },
+  "deployable": false,
+  "limitation": "This patch isolates presentation and browser-test edits; it is not a deployable build or a release approval. Baseline application changes and production database compatibility still require review."
+}

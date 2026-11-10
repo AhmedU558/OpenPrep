@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s1-0726",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Loop vs Thiazide Diuretics Renal Calcium Excretion Mechanisms",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old woman with chronic hypertension and osteopenia is evaluated for medication optimization. Her current medications include amlodipine 10 mg daily and hydrochlorothiazide 25 mg daily. Her 24-hour urinary calcium excretion is measured at 85 mg/day (normal 100-300 mg/day). In contrast, her 66-year-old husband with heart failure is treated with oral furosemide 40 mg daily, and his 24-hour urinary calcium excretion is 380 mg/day. Which of the following transport mechanisms directly explains why thiazide diuretics cause hypocalciuria while loop diuretics promote hypercalciuria?",
+    "options": [
+      {
+        "text": "Thiazides inhibit the distal convoluted tubule NCCT cotransporter, decreasing intracellular Na+ and stimulating basolateral 3Na+/Ca2+ exchange and passive apical Ca2+ entry, whereas loop diuretics abolish the lumen-positive potential in the thick ascending limb",
+        "correct": true,
+        "explanation": "In the distal convoluted tubule (DCT), THIAZIDE diuretics inhibit the apical Na+-Cl- cotransporter (NCCT). This lowers intracellular sodium concentration, which markedly enhances the electrochemical gradient driving basolateral 3Na+/Ca2+ antiporter (NCX1) activity. Increased NCX1 activity extrudes calcium into the interstitium and lowers intracellular calcium, which accelerates apical calcium reabsorption through TRPV5 calcium channels, producing hypocalciuria and protecting against nephrolithiasis and bone loss. Conversely, LOOP diuretics (furosemide) inhibit the apical Na+-K+-2Cl- cotransporter (NKCC2) in the thick ascending limb. This prevents potassium recycling via apical ROMK channels, collapsing the lumen-positive transepithelial electrical potential (+8 to +10 mV) that normally drives passive paracellular reabsorption of divalent cations (Ca2+ and Mg2+), resulting in hypercalciuria and hypermagnesuria."
+      },
+      {
+        "text": "Loop diuretics directly upregulate the apical calcium-sensing receptor (CaSR) in the proximal tubule, blocking all calcium reabsorption",
+        "correct": false,
+        "explanation": "CaSR is primarily in the thick ascending limb and parathyroid gland; loop diuretics do not directly bind or activate CaSR."
+      },
+      {
+        "text": "Thiazide diuretics stimulate parathyroid hormone release from the parathyroid glands via allosteric activation of adenylate cyclase",
+        "correct": false,
+        "explanation": "Thiazides do not stimulate parathyroid hormone secretion; PTH levels are typically normal or slightly suppressed due to mild hypercalcemia."
+      },
+      {
+        "text": "Loop diuretics inhibit mitochondrial carbonic anhydrase in the collecting duct, inducing massive urinary calcium precipitation",
+        "correct": false,
+        "explanation": "Carbonic anhydrase is primarily in the proximal tubule and is inhibited by acetazolamide, not furosemide."
+      },
+      {
+        "text": "Thiazide diuretics block the basolateral Ca2+-ATPase pump in medullary collecting duct principal cells",
+        "correct": false,
+        "explanation": "Thiazides act on apical NCCT in the distal convoluted tubule, not on basolateral Ca2+-ATPase in the collecting duct."
+      }
+    ],
+    "explanation": "In the distal convoluted tubule (DCT), THIAZIDE diuretics inhibit the apical Na+-Cl- cotransporter (NCCT). This lowers intracellular sodium concentration, which markedly enhances the electrochemical gradient driving basolateral 3Na+/Ca2+ antiporter (NCX1) activity. Increased NCX1 activity extrudes calcium into the interstitium and lowers intracellular calcium, which accelerates apical calcium reabsorption through TRPV5 calcium channels, producing hypocalciuria and protecting against nephrolithiasis and bone loss. Conversely, LOOP diuretics (furosemide) inhibit the apical Na+-K+-2Cl- cotransporter (NKCC2) in the thick ascending limb. This prevents potassium recycling via apical ROMK channels, collapsing the lumen-positive transepithelial electrical potential (+8 to +10 mV) that normally drives passive paracellular reabsorption of divalent cations (Ca2+ and Mg2+), resulting in hypercalciuria and hypermagnesuria. Thiazides (DCT NCCT) -> Decrease intracellular Na+ -> Stimulate basolateral NCX1 -> Hypocalciuria. Loop (TAL NKCC2) -> Abolish lumen-positive potential -> Hypercalciuria.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Loop vs Thiazide Diuretics Renal Calcium Excretion Mechanisms.",
+    "keyPoints": [
+      "Loop vs Thiazide Diuretics Renal Calcium Excretion Mechanisms",
+      "Thiazides (DCT NCCT) -> Decrease intracellular Na+ -> Stimulate basolateral NCX1 -> Hypocalciuria. Loop (TAL NKCC2) -> Abolish lumen-positive potential -> Hypercalciuria."
+    ],
+    "references": [
+      {
+        "label": "Reilly RF, Ellison DH. Mammalian distal tubule: physiology, pathophysiology, and role in mineral homeostasis. Physiol Rev. 2000;80(1):277-313. PMID: 10659918.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10659918/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0727",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Cardiovascular",
+    "topic": "Aortic Regurgitation Pressure-Volume Loop and Hemodynamic Volume Overload",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old woman with a history of bicuspid aortic valve undergoes cardiac catheterization for progressive dyspnea on exertion. Physical examination reveals an early, blowing, decrescendo diastolic murmur heard best at the left third intercostal space with the patient sitting upright and leaning forward in full expiration. Peripheral examination demonstrates bounding 'water-hammer' carotid pulses, head bobbing with each heartbeat (de Musset sign), and a widened pulse pressure (164/52 mm Hg). Echocardiography confirms severe chronic aortic regurgitation with left ventricular eccentric hypertrophy. Which of the following alterations on a left ventricular pressure-volume loop is most characteristic of this patient's chronic compensated valvular lesion compared to a normal heart?",
+    "options": [
+      {
+        "text": "Marked upward elevation of peak systolic ventricular pressure with unchanged end-diastolic volume and reduced loop width",
+        "correct": false,
+        "explanation": "Upward elevation of peak systolic pressure with preserved or decreased EDV and reduced stroke volume describes isolated severe aortic stenosis, not aortic regurgitation."
+      },
+      {
+        "text": "Rightward shift of the end-diastolic volume point with loss of distinct isovolumetric contraction and relaxation phases and massive widening of loop width",
+        "correct": true,
+        "explanation": "Aortic regurgitation (AR) produces a combined VOLUME AND PRESSURE OVERLOAD on the left ventricle. During diastole, blood flows retrograde from the aorta into the left ventricle simultaneously with normal antegrade mitral filling, resulting in a marked increase in end-diastolic volume (EDV shifted far to the right). Because the aortic valve is incompetent and leaks continuously throughout diastole, true isovolumetric contraction and relaxation phases are lost (the pressure-volume loop has rounded vertical boundaries). The regurgitant volume plus effective stroke volume produces a massive increase in total stroke volume (represented by substantial widening of the width of the pressure-volume loop). High stroke volume ejected into the aorta raises peak systolic pressure, while rapid runoff into the LV lowers diastolic pressure, generating a widened pulse pressure."
+      },
+      {
+        "text": "Leftward and downward shift of the entire pressure-volume loop with preserved pulse pressure",
+        "correct": false,
+        "explanation": "Leftward and downward shift occurs in hypovolemia or acute blood loss due to reduced preload."
+      },
+      {
+        "text": "Parallel rightward displacement of the end-systolic volume point with an acute reduction in left ventricular stroke volume",
+        "correct": false,
+        "explanation": "Pure rightward shift of ESV with reduced stroke volume describes dilated cardiomyopathy with pure systolic failure, not chronic volume-overloaded regurgitation with huge total stroke volume."
+      },
+      {
+        "text": "Selective loss of the ventricular ejection phase with immediate isometric filling through the tricuspid valve",
+        "correct": false,
+        "explanation": "The ejection phase is preserved and augmented in aortic regurgitation to accommodate the massive stroke volume."
+      }
+    ],
+    "explanation": "Aortic regurgitation (AR) produces a combined VOLUME AND PRESSURE OVERLOAD on the left ventricle. During diastole, blood flows retrograde from the aorta into the left ventricle simultaneously with normal antegrade mitral filling, resulting in a marked increase in end-diastolic volume (EDV shifted far to the right). Because the aortic valve is incompetent and leaks continuously throughout diastole, true isovolumetric contraction and relaxation phases are lost (the pressure-volume loop has rounded vertical boundaries). The regurgitant volume plus effective stroke volume produces a massive increase in total stroke volume (represented by substantial widening of the width of the pressure-volume loop). High stroke volume ejected into the aorta raises peak systolic pressure, while rapid runoff into the LV lowers diastolic pressure, generating a widened pulse pressure. Aortic regurgitation = Massive increase in EDV (rightward shift) + widened loop width (huge total stroke volume) + loss of true isovolumetric phases.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Aortic Regurgitation Pressure-Volume Loop and Hemodynamic Volume Overload.",
+    "keyPoints": [
+      "Aortic Regurgitation Pressure-Volume Loop and Hemodynamic Volume Overload",
+      "Aortic regurgitation = Massive increase in EDV (rightward shift) + widened loop width (huge total stroke volume) + loss of true isovolumetric phases."
+    ],
+    "references": [
+      {
+        "label": "Carabello BA. Aortic regurgitation: a tale of two diseases. Circulation. 2006;113(6):897-906. PMID: 16476863.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16476863/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0728",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Diphtheria Toxin and Pseudomonas Exotoxin A EF-2 Inactivation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 5-year-old unimmunized girl brought from an Eastern European orphanage presents with a 3-day history of low-grade fever, sore throat, and severe cervical lymphadenopathy producing a 'bull neck' appearance. On physical examination, a dense, gray-white, fibrinous pseudomembrane is tightly adherent to her posterior pharyngeal wall and tonsillar pillars; attempting to dislodge the membrane produces brisk bleeding. ECG reveals PR prolongation and first-degree atrioventricular block. The pathogenic organism is an aerobic, non-spore-forming, Gram-positive club-shaped rod containing metachromatic polyphosphate granules on Albert stain. Which of the following molecular mechanisms directly accounts for the cytotoxic cellular lethality of this organism's primary exotoxin?",
+    "options": [
+      {
+        "text": "ADP-ribosylation of the alpha-inhibitory (Gi) subunit of heterotrimeric G proteins preventing adenylate cyclase inhibition",
+        "correct": false,
+        "explanation": "Gi ADP-ribosylation is the mechanism of pertussis toxin (Bordetella pertussis), which leads to persistent adenylate cyclase activation and lymphocytosis."
+      },
+      {
+        "text": "Cleavage of host cell surface membrane ganglioside GM1 receptors by a heat-labile metalloendopeptidase",
+        "correct": false,
+        "explanation": "Vibrio cholerae toxin binds GM1 ganglioside receptors; it does not cleave them."
+      },
+      {
+        "text": "Transfer of an ADP-ribose moiety from NAD+ to a diphthamide residue on elongation factor-2 (EF-2), irreversibly halting ribosomal protein synthesis",
+        "correct": true,
+        "explanation": "Corynebacterium diphtheriae produces diphtheria toxin, a potent AB-type exotoxin encoded by the tox gene on a lysogenic beta-corynephage. The B subunit binds the host heparin-binding epidermal growth factor-like precursor on myocardial and neural tissues, mediating receptor-mediated endocytosis. The catalytic A subunit translocates into the cytosol, where it catalyzes the transfer of ADP-ribose from host NAD+ to a modified histidine residue (diphthamide) on ELONGATION FACTOR-2 (EF-2). Inactivation of EF-2 halts ribosome translocation along mRNA, completely arresting cellular protein synthesis. This causes mucosal epithelial necrosis (forming the adherent pseudomembrane), life-threatening toxic myocarditis with arrhythmias and heart block, and demyelinating cranial/peripheral neuropathies. Pseudomonas aeruginosa Exotoxin A utilizes this exact same molecular mechanism (ADP-ribosylation of EF-2)."
+      },
+      {
+        "text": "Cleavage of the SNARE protein SNAP-25 preventing exocytosis of inhibitory neurotransmitters GABA and glycine",
+        "correct": false,
+        "explanation": "SNAP-25 cleavage is the mechanism of botulinum neurotoxin types A and E, which causes flaccid motor paralysis."
+      },
+      {
+        "text": "Lysis of phagolysosomal membranes via a thiol-activated cholesterol-dependent pore-forming cytolysin",
+        "correct": false,
+        "explanation": "Pore formation to escape the phagolysosome is mediated by listeriolysin O in Listeria monocytogenes, not C. diphtheriae."
+      }
+    ],
+    "explanation": "Corynebacterium diphtheriae produces diphtheria toxin, a potent AB-type exotoxin encoded by the tox gene on a lysogenic beta-corynephage. The B subunit binds the host heparin-binding epidermal growth factor-like precursor on myocardial and neural tissues, mediating receptor-mediated endocytosis. The catalytic A subunit translocates into the cytosol, where it catalyzes the transfer of ADP-ribose from host NAD+ to a modified histidine residue (diphthamide) on ELONGATION FACTOR-2 (EF-2). Inactivation of EF-2 halts ribosome translocation along mRNA, completely arresting cellular protein synthesis. This causes mucosal epithelial necrosis (forming the adherent pseudomembrane), life-threatening toxic myocarditis with arrhythmias and heart block, and demyelinating cranial/peripheral neuropathies. Pseudomonas aeruginosa Exotoxin A utilizes this exact same molecular mechanism (ADP-ribosylation of EF-2). Diphtheria = Pseudomembrane + bull neck + myocarditis -> Diphtheria toxin (and Pseudomonas exotoxin A) ADP-ribosylates EF-2, halting protein synthesis.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Diphtheria Toxin and Pseudomonas Exotoxin A EF-2 Inactivation.",
+    "keyPoints": [
+      "Diphtheria Toxin and Pseudomonas Exotoxin A EF-2 Inactivation",
+      "Diphtheria = Pseudomembrane + bull neck + myocarditis -> Diphtheria toxin (and Pseudomonas exotoxin A) ADP-ribosylates EF-2, halting protein synthesis."
+    ],
+    "references": [
+      {
+        "label": "Hadfield TL, McEvoy P, Polotsky Y, Tzinserling VA, Yakovlev AA. The pathology of diphtheria. J Infect Dis. 2000;181 Suppl 1:S116-S120. PMID: 10657202.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10657202/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0729",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Musculoskeletal",
+    "topic": "Marfan Syndrome FBN1 Mutations and Microfibril Assembly",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 17-year-old tall, slender adolescent is evaluated following a sports physical. He has long, thin extremities with an arm span-to-height ratio of 1.08. Physical examination reveals arachnodactyly, a positive Steinberg thumb sign, pectus excavatum, severe scoliosis, and bilateral upward and outward (superotemporal) subluxation of the ocular lenses (ectopia lentis). Echocardiography demonstrates marked dilation of the aortic root at the sinuses of Valsalva with mild aortic regurgitation. A younger sibling died suddenly of acute aortic rupture. Which of the following is the underlying molecular defect in this patient's disorder?",
+    "options": [
+      {
+        "text": "Mutations in the COL5A1 or COL5A2 genes causing defective assembly of type V fibrillar collagen",
+        "correct": false,
+        "explanation": "Classical Ehlers-Danlos syndrome is caused by type V collagen mutations (COL5A1/COL5A2), presenting with hyperextensible skin, joint hypermobility, and fragile 'cigarette-paper' atrophic scars, without upward ectopia lentis."
+      },
+      {
+        "text": "Autosomal dominant mutation in the COL1A1 gene encoding alpha-1 chains of type I collagen",
+        "correct": false,
+        "explanation": "Type I collagen mutations cause Osteogenesis Imperfecta (brittle bones, blue sclerae, hearing loss, dentinogenesis imperfecta), not arachnodactyly or aortic root aneurysm."
+      },
+      {
+        "text": "Mutation in the COL3A1 gene causing defective synthesis of type III reticular procollagen",
+        "correct": false,
+        "explanation": "Vascular Ehlers-Danlos syndrome involves type III collagen mutations (COL3A1), causing fragile blood vessels and spontaneous bowel/uterine rupture without marfanoid habitus or ectopia lentis."
+      },
+      {
+        "text": "Autosomal dominant mutation in the FBN1 gene encoding fibrillin-1, a glycoprotein that forms the structural microfibrillar scaffold for elastin deposition",
+        "correct": true,
+        "explanation": "Marfan syndrome is an autosomal dominant connective tissue disorder caused by mutations in the FBN1 gene on chromosome 15q21, which encodes FIBRILLIN-1. Fibrillin-1 is an extracellular matrix glycoprotein that forms microfibrils, which serve as the essential structural scaffold for the deposition of elastin in elastic fibers throughout the aorta, ocular ciliary zonules, and periosteum. Mutated fibrillin-1 weakens the aortic tunica media (cystic medial necrosis), predisposing to aortic root aneurysm and dissection. Furthermore, microfibrils normally sequester latent transforming growth factor-beta (TGF-beta); defective fibrillin-1 leads to excessive free TGF-beta signaling, promoting matrix metalloproteinase-mediated elastic fiber destruction and skeletal elongation. Upward/outward ectopia lentis is pathognomonic (in contrast to downward/inward subluxation in homocystinuria)."
+      },
+      {
+        "text": "Deficiency of lysyl hydroxylase causing impaired covalent intermolecular cross-linking of collagen fibrils",
+        "correct": false,
+        "explanation": "Kyphoscoliotic Ehlers-Danlos syndrome is caused by lysyl hydroxylase deficiency, presenting with severe progressive scoliosis and ocular fragility, without fibrillin-1 involvement."
+      }
+    ],
+    "explanation": "Marfan syndrome is an autosomal dominant connective tissue disorder caused by mutations in the FBN1 gene on chromosome 15q21, which encodes FIBRILLIN-1. Fibrillin-1 is an extracellular matrix glycoprotein that forms microfibrils, which serve as the essential structural scaffold for the deposition of elastin in elastic fibers throughout the aorta, ocular ciliary zonules, and periosteum. Mutated fibrillin-1 weakens the aortic tunica media (cystic medial necrosis), predisposing to aortic root aneurysm and dissection. Furthermore, microfibrils normally sequester latent transforming growth factor-beta (TGF-beta); defective fibrillin-1 leads to excessive free TGF-beta signaling, promoting matrix metalloproteinase-mediated elastic fiber destruction and skeletal elongation. Upward/outward ectopia lentis is pathognomonic (in contrast to downward/inward subluxation in homocystinuria). Tall habitus + arachnodactyly + superotemporal ectopia lentis + aortic root aneurysm = Marfan syndrome -> FBN1 mutation (fibrillin-1 microfibril defect).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Marfan Syndrome FBN1 Mutations and Microfibril Assembly.",
+    "keyPoints": [
+      "Marfan Syndrome FBN1 Mutations and Microfibril Assembly",
+      "Tall habitus + arachnodactyly + superotemporal ectopia lentis + aortic root aneurysm = Marfan syndrome -> FBN1 mutation (fibrillin-1 microfibril defect)."
+    ],
+    "references": [
+      {
+        "label": "Dietz HC, Cutting GR, Pyeritz RE, et al. Marfan syndrome caused by a recurrent de novo missense mutation in the fibrillin gene. Nature. 1991;352(6333):337-339. PMID: 1852208.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1852208/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0730",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Classic Galactosemia vs Galactokinase Deficiency Biochemical Spectrum",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 3-week-old female infant is brought to the emergency department for severe lethargy, vomiting, and yellow discoloration of the skin and eyes that began shortly after breastfeeding was initiated. Physical examination reveals an irritable, deeply jaundiced infant with hepatosplenomegaly, full fontanelle, and bilateral dense nuclear cataracts. Laboratory evaluation demonstrates: total bilirubin 14.2 mg/dL, direct bilirubin 8.8 mg/dL, AST 340 U/L, ALT 290 U/L, and prolonged prothrombin time (INR 2.4). Blood cultures grow Escherichia coli. Urinalysis reveals positive non-glucose reducing substances with a negative glucose dipstick. Which of the following enzymatic deficiencies is responsible for this infant's multi-organ failure and cataracts?",
+    "options": [
+      {
+        "text": "Galactokinase (GALK) deficiency causing isolated benign cataracts without systemic organ toxicity",
+        "correct": false,
+        "explanation": "Galactokinase deficiency causes isolated cataract formation from galactitol accumulation without hepatomegaly, jaundice, liver dysfunction, or E. coli sepsis."
+      },
+      {
+        "text": "UDP-galactose 4-epimerase (GALE) deficiency restricted solely to peripheral mature erythrocytes",
+        "correct": false,
+        "explanation": "GALE deficiency can cause a mild peripheral form or severe classic-like disease, but the classic presentation with E. coli sepsis and early neonatal hepatic collapse is GALT deficiency."
+      },
+      {
+        "text": "Aldolase B (fructose-1-phosphate aldolase) deficiency causing toxic fructose-1-phosphate accumulation",
+        "correct": false,
+        "explanation": "Hereditary fructose intolerance (aldolase B deficiency) causes hypoglycemia, vomiting, and hepatomegaly upon introduction of fructose/sucrose (fruits, juice), not during breastfeeding (lactose)."
+      },
+      {
+        "text": "Fructokinase deficiency causing benign, asymptomatic presence of reducing sugars in the urine",
+        "correct": false,
+        "explanation": "Essential fructosuria (fructokinase deficiency) is a completely benign, asymptomatic condition detected incidentally by non-glucose reducing sugars in urine."
+      },
+      {
+        "text": "Galactose-1-phosphate uridyltransferase (GALT) deficiency causing toxic intracellular accumulation of galactose-1-phosphate and galactitol",
+        "correct": true,
+        "explanation": "CLASSIC GALACTOSEMIA is an autosomal recessive inborn error of carbohydrate metabolism caused by deficiency of GALACTOSE-1-PHOSPHATE URIDYLTRANSFERASE (GALT). GALT converts galactose-1-phosphate and UDP-glucose into glucose-1-phosphate and UDP-galactose. In GALT deficiency, toxic galactose-1-phosphate accumulates inside hepatocytes, renal tubular cells, and neurons, depleting inorganic phosphate and halting cellular ATP generation. This causes severe hepatomegaly, cirrhosis, renal Fanconi syndrome, intellectual disability, and profound susceptibility to systemic Escherichia coli sepsis. Concurrently, excess circulating galactose is shunted via ALDOSE REDUCTASE into GALACTITOL, which accumulates inside lens fibers, creating an osmotic gradient that draws water into the lens and causes cataracts. In contrast, GALACTOKINASE (GALK) deficiency causes ONLY benign cataracts from galactitol without liver failure or E. coli sepsis."
+      }
+    ],
+    "explanation": "CLASSIC GALACTOSEMIA is an autosomal recessive inborn error of carbohydrate metabolism caused by deficiency of GALACTOSE-1-PHOSPHATE URIDYLTRANSFERASE (GALT). GALT converts galactose-1-phosphate and UDP-glucose into glucose-1-phosphate and UDP-galactose. In GALT deficiency, toxic galactose-1-phosphate accumulates inside hepatocytes, renal tubular cells, and neurons, depleting inorganic phosphate and halting cellular ATP generation. This causes severe hepatomegaly, cirrhosis, renal Fanconi syndrome, intellectual disability, and profound susceptibility to systemic Escherichia coli sepsis. Concurrently, excess circulating galactose is shunted via ALDOSE REDUCTASE into GALACTITOL, which accumulates inside lens fibers, creating an osmotic gradient that draws water into the lens and causes cataracts. In contrast, GALACTOKINASE (GALK) deficiency causes ONLY benign cataracts from galactitol without liver failure or E. coli sepsis. Neonatal jaundice + hepatosplenomegaly + E. coli sepsis + cataracts + urine reducing substances = Classic galactosemia -> GALT deficiency (galactose-1-phosphate toxicity).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Classic Galactosemia vs Galactokinase Deficiency Biochemical Spectrum.",
+    "keyPoints": [
+      "Classic Galactosemia vs Galactokinase Deficiency Biochemical Spectrum",
+      "Neonatal jaundice + hepatosplenomegaly + E. coli sepsis + cataracts + urine reducing substances = Classic galactosemia -> GALT deficiency (galactose-1-phosphate toxicity)."
+    ],
+    "references": [
+      {
+        "label": "Bosch AM. Classic galactosemia: new insights and old questions. J Inherit Metab Dis. 2006;29(4):516-523. PMID: 16838075.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16838075/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0731",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Hematology",
+    "topic": "Chronic Granulomatous Disease gp91phox and Respiratory Burst Failure",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 3-year-old boy is hospitalized for the fourth time with invasive bacterial and fungal infections, including Serratia marcescens osteomyelitis, a liver abscess requiring surgical drainage that grew Staphylococcus aureus, and recurrent Aspergillus fumigatus pneumonia. Physical examination reveals cervical lymphadenopathy and hepatosplenomegaly. Dihydrorhodamine 123 (DHR) flow cytometry demonstrates a complete absence of green fluorescence upon phorbol myristate acetate stimulation of neutrophils. Nitroblue tetrazolium (NBT) slide test shows failure of neutrophils to reduce yellow NBT dye to blue formazan precipitate. Which of the following enzymatic complexes is defective in this patient?",
+    "options": [
+      {
+        "text": "Neutrophil membrane-bound NADPH oxidase (phox) complex preventing generation of superoxide radicals (O2•-)",
+        "correct": true,
+        "explanation": "Chronic granulomatous disease (CGD) is an inherited immunodeficiency most commonly caused by an X-linked recessive mutation in the CYBB gene encoding the gp91phox subunit of the NADPH oxidase complex. NADPH oxidase normally transfers electrons from cytosolic NADPH to molecular oxygen, generating SUPEROXIDE ANIONS (O2•-), the essential precursor for hydrogen peroxide (H2O2), hydroxyl radicals (•OH), and hypochlorous acid (HOCl via myeloperoxidase). Without NADPH oxidase, phagocytes cannot generate the respiratory burst required to kill catalase-positive organisms (Staphylococcus aureus, Pseudomonas/Burkholderia cepacia, Serratia marcescens, Nocardia, Aspergillus). Catalase-positive pathogens degrade their own endogenous H2O2, depriving the neutrophil of any substrate for myeloperoxidase killing, resulting in recurrent abscesses, granuloma formation, and negative DHR/NBT tests."
+      },
+      {
+        "text": "Lysosomal myeloperoxidase (MPO) in primary azurophilic granules preventing conversion of H2O2 to hypochlorous acid",
+        "correct": false,
+        "explanation": "MPO deficiency causes impaired HOCl production, but neutrophils generate normal superoxide and H2O2, producing a normal DHR flow cytometry and NBT reduction."
+      },
+      {
+        "text": "Leukocyte beta-2 integrin CD18 subunit preventing firm endothelial adhesion and extravasation",
+        "correct": false,
+        "explanation": "Leukocyte adhesion deficiency type 1 (LAD-1) is caused by CD18/LFA-1 deficiency, presenting with delayed umbilical cord separation, recurrent infections WITHOUT pus, and marked leukocytosis."
+      },
+      {
+        "text": "Cytosolic glucose-6-phosphate dehydrogenase causing complete depletion of erythroid NADPH stores",
+        "correct": false,
+        "explanation": "G6PD deficiency causes hemolytic anemia, not isolated recurrent invasive staphylococcal and fungal granulomatous abscesses."
+      },
+      {
+        "text": "Vesicular trafficking regulator protein (LYST) preventing phagolysosomal fusion in granulocytes",
+        "correct": false,
+        "explanation": "LYST mutations cause Chédiak-Higashi syndrome, characterized by partial albinism, peripheral neuropathy, and giant lysosomal granules in granulocytes."
+      }
+    ],
+    "explanation": "Chronic granulomatous disease (CGD) is an inherited immunodeficiency most commonly caused by an X-linked recessive mutation in the CYBB gene encoding the gp91phox subunit of the NADPH oxidase complex. NADPH oxidase normally transfers electrons from cytosolic NADPH to molecular oxygen, generating SUPEROXIDE ANIONS (O2•-), the essential precursor for hydrogen peroxide (H2O2), hydroxyl radicals (•OH), and hypochlorous acid (HOCl via myeloperoxidase). Without NADPH oxidase, phagocytes cannot generate the respiratory burst required to kill catalase-positive organisms (Staphylococcus aureus, Pseudomonas/Burkholderia cepacia, Serratia marcescens, Nocardia, Aspergillus). Catalase-positive pathogens degrade their own endogenous H2O2, depriving the neutrophil of any substrate for myeloperoxidase killing, resulting in recurrent abscesses, granuloma formation, and negative DHR/NBT tests. Recurrent catalase-positive infections (Serratia, Staph, Aspergillus) + negative DHR/NBT = CGD -> Defective NADPH oxidase (no superoxide burst).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Chronic Granulomatous Disease gp91phox and Respiratory Burst Failure.",
+    "keyPoints": [
+      "Chronic Granulomatous Disease gp91phox and Respiratory Burst Failure",
+      "Recurrent catalase-positive infections (Serratia, Staph, Aspergillus) + negative DHR/NBT = CGD -> Defective NADPH oxidase (no superoxide burst)."
+    ],
+    "references": [
+      {
+        "label": "Holland SM. Chronic granulomatous disease. Hematol Oncol Clin North Am. 2013;27(1):89-99. PMID: 23351989.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23351989/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0732",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Chronic Myeloid Leukemia BCR-ABL1 Translocation and Constitutive Tyrosine Kinase",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man presents with progressive fatigue, early satiety, and left upper quadrant fullness. Physical examination reveals massive splenomegaly extending 8 cm below the left costal margin without lymphadenopathy. Complete blood count shows: WBC 142,000/microL with a full spectrum of granulocytic precursors (myelocytes, metamyelocytes, band forms), absolute basophilia (4%), absolute eosinophilia, hemoglobin 10.2 g/dL, and platelets 580,000/microL. Leukocyte alkaline phosphatase (LAP) score is markedly decreased at 12 (normal 40-130). Bone marrow cytogenetics confirms a reciprocal translocation t(9;22)(q34;q11). Which of the following molecular mechanisms directly drives the unrestrained granulocytic proliferation in this disease?",
+    "options": [
+      {
+        "text": "Constitutive point mutation in the pseudokinase domain of JAK2 (V617F) causing hypersensitivity to erythropoietin",
+        "correct": false,
+        "explanation": "JAK2 V617F is the hallmark of polycythemia vera, essential thrombocythemia, and primary myelofibrosis, not chronic myeloid leukemia."
+      },
+      {
+        "text": "Fusion of the BCR and ABL1 genes generating a chimeric protein with constitutive, ligand-independent tyrosine kinase activity",
+        "correct": true,
+        "explanation": "Chronic Myeloid Leukemia (CML) is a myeloproliferative neoplasm defined by the Philadelphia chromosome, a reciprocal translocation t(9;22)(q34;q11). This translocates the ABL1 proto-oncogene from chromosome 9 to the BCR gene on chromosome 22, creating a chimeric BCR-ABL1 fusion gene. The resulting BCR-ABL1 fusion protein (p210 or p190) functions as a CONSTITUTIVELY ACTIVE NON-RECEPTOR TYROSINE KINASE that autophosphorylates and activates downstream oncogenic pathways (RAS/MAPK, JAK/STAT, PI3K/Akt). This drives uncontrolled granulocyte proliferation, inhibits apoptosis, and reduces cell adhesion to bone marrow stroma. CML is distinguished from a reactive leukemoid reaction by a LOW leukocyte alkaline phosphatase (LAP) score, absolute basophilia, and presence of the t(9;22) translocation."
+      },
+      {
+        "text": "Translocation t(15;17)(q22;q21) creating a PML-RARA fusion protein that blocks promyelocytic differentiation",
+        "correct": false,
+        "explanation": "PML-RARA is the hallmark of acute promyelocytic leukemia (APL, AML M3), presenting with severe coagulopathy/DIC, not indolent massive granulocytosis."
+      },
+      {
+        "text": "Translocation t(8;14)(q24;q32) juxtaposing the c-MYC oncogene with the immunoglobulin heavy-chain promoter",
+        "correct": false,
+        "explanation": "c-MYC translocation t(8;14) drives Burkitt lymphoma, an aggressive B-cell non-Hodgkin lymphoma with starry-sky histology."
+      },
+      {
+        "text": "Overexpression of the anti-apoptotic protein BCL-2 via translocation t(14;18)(q32;q21)",
+        "correct": false,
+        "explanation": "t(14;18) translocation causes follicular lymphoma by upregulating BCL-2, preventing apoptosis in germinal center B cells."
+      }
+    ],
+    "explanation": "Chronic Myeloid Leukemia (CML) is a myeloproliferative neoplasm defined by the Philadelphia chromosome, a reciprocal translocation t(9;22)(q34;q11). This translocates the ABL1 proto-oncogene from chromosome 9 to the BCR gene on chromosome 22, creating a chimeric BCR-ABL1 fusion gene. The resulting BCR-ABL1 fusion protein (p210 or p190) functions as a CONSTITUTIVELY ACTIVE NON-RECEPTOR TYROSINE KINASE that autophosphorylates and activates downstream oncogenic pathways (RAS/MAPK, JAK/STAT, PI3K/Akt). This drives uncontrolled granulocyte proliferation, inhibits apoptosis, and reduces cell adhesion to bone marrow stroma. CML is distinguished from a reactive leukemoid reaction by a LOW leukocyte alkaline phosphatase (LAP) score, absolute basophilia, and presence of the t(9;22) translocation. Massive splenomegaly + WBC 142k + basophilia + low LAP score + t(9;22) = CML -> BCR-ABL1 constitutive tyrosine kinase activity.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Chronic Myeloid Leukemia BCR-ABL1 Translocation and Constitutive Tyrosine Kinase.",
+    "keyPoints": [
+      "Chronic Myeloid Leukemia BCR-ABL1 Translocation and Constitutive Tyrosine Kinase",
+      "Massive splenomegaly + WBC 142k + basophilia + low LAP score + t(9;22) = CML -> BCR-ABL1 constitutive tyrosine kinase activity."
+    ],
+    "references": [
+      {
+        "label": "Druker BJ. Translation of the Philadelphia chromosome into therapy for CML. Blood. 2008;112(13):4808-4817. PMID: 19064741.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19064741/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0733",
+    "exam": "Step 1",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Primary vs Secondary Adrenal Insufficiency and Aldosterone Preservation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 36-year-old woman presents with severe fatigue, weight loss, dizziness on standing, and salt craving. Physical examination reveals orthostatic hypotension (blood pressure drops from 108/68 mm Hg supine to 84/52 mm Hg standing) and generalized bronze hyperpigmentation, particularly prominent on the palmar creases, vermilion border of the lips, and recent surgical scars. Serum electrolytes reveal: sodium 128 mEq/L, potassium 5.6 mEq/L, chloride 96 mEq/L, and bicarbonate 20 mEq/L. Serum morning cortisol is 2.4 mcg/dL (normal 5-25 mcg/dL). Administration of synthetic ACTH (cosyntropin 250 mcg IV) produces a 60-minute serum cortisol of 2.8 mcg/dL. Plasma ACTH is markedly elevated at 480 pg/mL (normal 10-60 pg/mL). Which of the following physiological principles explains why aldosterone secretion is severely deficient in primary adrenal insufficiency but preserved in secondary adrenal insufficiency?",
+    "options": [
+      {
+        "text": "Pituitary ACTH directly stimulates the apical 21-hydroxylase enzyme in the zona glomerulosa, which is spared in secondary failure",
+        "correct": false,
+        "explanation": "ACTH does not selectively stimulate 21-hydroxylase; aldosterone regulation is independent of pituitary ACTH and is governed by angiotensin II."
+      },
+      {
+        "text": "Cortisol is converted into aldosterone within the hepatic portal circulation via the 11-beta-hydroxysteroid dehydrogenase enzyme",
+        "correct": false,
+        "explanation": "Cortisol is not converted into aldosterone; 11-beta-HSD type 2 converts cortisol to inactive cortisone in the kidney to prevent mineralocorticoid receptor overactivation."
+      },
+      {
+        "text": "Aldosterone secretion from the zona glomerulosa is primarily regulated by the renin-angiotensin-aldosterone system (RAAS) and potassium, not by pituitary ACTH",
+        "correct": true,
+        "explanation": "In PRIMARY adrenal insufficiency (Addison disease), autoimmune destruction or infiltrative disease destroys all three layers of the adrenal cortex (zona glomerulosa, fasciculata, and reticularis). Loss of the zona glomerulosa eliminates ALDOSTERONE, causing salt wasting, severe hyponatremia, hyperkalemia, hypovolemia, and orthostatic hypotension. Furthermore, loss of cortisol removes negative feedback on the pituitary, causing massive ACTH and pro-opiomelanocortin (POMC) secretion; cleavage of POMC generates alpha-melanocyte-stimulating hormone (alpha-MSH), which binds melanocortin-1 receptors (MC1R) on epidermal melanocytes to produce hyperpigmentation. In contrast, in SECONDARY adrenal insufficiency (pituitary ACTH deficiency) or tertiary insufficiency (hypothalamic CRH deficiency), the adrenal cortex is intact. Because aldosterone secretion is physiologically controlled by the RENIN-ANGIOTENSIN SYSTEM (angiotensin II) and serum POTASSIUM, aldosterone secretion is PRESERVED, preventing severe hyperkalemia, volume collapse, or cutaneous hyperpigmentation."
+      },
+      {
+        "text": "Secondary adrenal insufficiency involves compensatory hypersecretion of hypothalamic vasopressin that stimulates V1a aldosterone receptors",
+        "correct": false,
+        "explanation": "Vasopressin does not maintain normal aldosterone secretion in secondary adrenal insufficiency; the intact renin-angiotensin axis maintains it."
+      },
+      {
+        "text": "The zona glomerulosa undergoes selective hyperplastic hypertrophy in response to deficient hypothalamic corticotropin-releasing hormone",
+        "correct": false,
+        "explanation": "The zona glomerulosa does not hypertrophy in secondary adrenal insufficiency; it simply functions normally under independent renin-angiotensin control."
+      }
+    ],
+    "explanation": "In PRIMARY adrenal insufficiency (Addison disease), autoimmune destruction or infiltrative disease destroys all three layers of the adrenal cortex (zona glomerulosa, fasciculata, and reticularis). Loss of the zona glomerulosa eliminates ALDOSTERONE, causing salt wasting, severe hyponatremia, hyperkalemia, hypovolemia, and orthostatic hypotension. Furthermore, loss of cortisol removes negative feedback on the pituitary, causing massive ACTH and pro-opiomelanocortin (POMC) secretion; cleavage of POMC generates alpha-melanocyte-stimulating hormone (alpha-MSH), which binds melanocortin-1 receptors (MC1R) on epidermal melanocytes to produce hyperpigmentation. In contrast, in SECONDARY adrenal insufficiency (pituitary ACTH deficiency) or tertiary insufficiency (hypothalamic CRH deficiency), the adrenal cortex is intact. Because aldosterone secretion is physiologically controlled by the RENIN-ANGIOTENSIN SYSTEM (angiotensin II) and serum POTASSIUM, aldosterone secretion is PRESERVED, preventing severe hyperkalemia, volume collapse, or cutaneous hyperpigmentation. Primary adrenal insufficiency = Low cortisol + low aldosterone (high K, low Na) + high ACTH (hyperpigmentation). Secondary = Aldosterone preserved (RAAS intact).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Primary vs Secondary Adrenal Insufficiency and Aldosterone Preservation.",
+    "keyPoints": [
+      "Primary vs Secondary Adrenal Insufficiency and Aldosterone Preservation",
+      "Primary adrenal insufficiency = Low cortisol + low aldosterone (high K, low Na) + high ACTH (hyperpigmentation). Secondary = Aldosterone preserved (RAAS intact)."
+    ],
+    "references": [
+      {
+        "label": "Charmandari E, Nicolaides NC, Chrousos GP. Adrenal insufficiency. Lancet. 2014;383(9935):2152-2167. PMID: 24503135.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24503135/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0734",
+    "exam": "Step 1",
+    "subject": "Neurology",
+    "system": "General Principles",
+    "topic": "Syringomyelia Anterior White Commissure Spinothalamic Decussation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old woman presents with bilateral burns on her fingertips and forearms that occurred while cooking; she states she felt no pain or heat when touching hot cookware. Neurological examination reveals complete loss of pain and temperature sensation across both shoulders, arms, and upper chest in a 'cape-like' distribution, with intact light touch, vibration sense, and proprioception in the exact same dermatomal regions. Muscle strength and deep tendon reflexes are initially preserved in all four extremities. Sagittal T1-weighted cervical spine MRI demonstrates a cystic fluid-filled cavity (syrinx) within the central cord extending from C3 to T2, associated with tonsillar ectopia 6 mm below the foramen magnum (Chiari I malformation). Which of the following neuroanatomical structures was damaged first by the expanding central fluid cavity to produce this dissociated sensory loss?",
+    "options": [
+      {
+        "text": "Posterior columns (fasciculus cuneatus and gracilis) carrying primary ascending mechanoreceptor axons",
+        "correct": false,
+        "explanation": "Damage to the posterior columns causes loss of vibration, conscious proprioception, and fine touch, not selective loss of pain and temperature."
+      },
+      {
+        "text": "Lateral corticospinal tract carrying descending upper motor neuron efferents from the motor cortex",
+        "correct": false,
+        "explanation": "Lateral corticospinal tract compression causes spastic paraparesis and hyperreflexia below the lesion, not dermatomal cape-like analgesia."
+      },
+      {
+        "text": "Substantia gelatinosa of the dorsal root entry zone bilaterally throughout all sacral segments",
+        "correct": false,
+        "explanation": "Syringomyelia typically affects the cervical cord, not sacral segments; it initially damages crossing commissural fibers rather than dorsal root entry zones."
+      },
+      {
+        "text": "Anterior white commissure carrying crossing second-order spinothalamic axons",
+        "correct": true,
+        "explanation": "Syringomyelia is a chronic cystic cavitary expansion of the central canal of the spinal cord (syrinx), most frequently located in the cervical cord and strongly associated with Chiari I malformations. As the central fluid cavity expands, it first compresses and disrupts the ANTERIOR WHITE COMMISSURE. The anterior white commissure contains the second-order axons of the anterolateral (spinothalamic) system that decussate immediately after synapsing in the dorsal horn (substantia gelatinosa). Disruption of these crossing fibers abolishes bilateral pain and temperature sensation in the affected dermatomes ('cape-like' distribution). The posterior columns (fasciculus gracilis and cuneatus), which ascend ipsilaterally without crossing in the spinal cord, are spared initially, producing the classic DISSOCIATED SENSORY LOSS (loss of pain/temperature with preserved light touch, vibration, and proprioception). As the syrinx enlarges further, it can compress anterior horn lower motor neurons (causing flaccid arm weakness and muscle wasting) and lateral corticospinal tracts (spastic leg weakness)."
+      },
+      {
+        "text": "Spinoreticular tracts in the ventrolateral funiculus mediating autonomic cardiovascular reflexes",
+        "correct": false,
+        "explanation": "Spinoreticular damage does not explain the selective, bilateral cape-like sensory dissociation of pain and temperature."
+      }
+    ],
+    "explanation": "Syringomyelia is a chronic cystic cavitary expansion of the central canal of the spinal cord (syrinx), most frequently located in the cervical cord and strongly associated with Chiari I malformations. As the central fluid cavity expands, it first compresses and disrupts the ANTERIOR WHITE COMMISSURE. The anterior white commissure contains the second-order axons of the anterolateral (spinothalamic) system that decussate immediately after synapsing in the dorsal horn (substantia gelatinosa). Disruption of these crossing fibers abolishes bilateral pain and temperature sensation in the affected dermatomes ('cape-like' distribution). The posterior columns (fasciculus gracilis and cuneatus), which ascend ipsilaterally without crossing in the spinal cord, are spared initially, producing the classic DISSOCIATED SENSORY LOSS (loss of pain/temperature with preserved light touch, vibration, and proprioception). As the syrinx enlarges further, it can compress anterior horn lower motor neurons (causing flaccid arm weakness and muscle wasting) and lateral corticospinal tracts (spastic leg weakness). Bilateral cape-like loss of pain and temp + preserved vibration/touch + central cord syrinx = Syringomyelia -> Interruption of crossing anterior white commissure.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Syringomyelia Anterior White Commissure Spinothalamic Decussation.",
+    "keyPoints": [
+      "Syringomyelia Anterior White Commissure Spinothalamic Decussation",
+      "Bilateral cape-like loss of pain and temp + preserved vibration/touch + central cord syrinx = Syringomyelia -> Interruption of crossing anterior white commissure."
+    ],
+    "references": [
+      {
+        "label": "Klekamp J. The pathophysiology of syringomyelia - historical overview and current concept. Acta Neurochir (Wien). 2002;144(7):649-664. PMID: 12181695.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12181695/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0735",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "High-Altitude Acclimatization and 2,3-BPG Right Shift",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old mountaineer ascends rapidly from sea level to a base camp at 14,500 feet (4,420 meters), where atmospheric pressure is approximately 440 mm Hg. Within 24 hours, he experiences mild headache, fatigue, and dyspnea on exertion. Arterial blood gas on ambient air reveals: pH 7.48, PaCO2 28 mm Hg, PaO2 44 mm Hg, and calculated bicarbonate 21 mEq/L. Over the next 5 days of gradual acclimatization, his resting ventilation remains elevated, and his erythrocyte 2,3-bisphosphoglycerate (2,3-BPG) concentration increases by 45%. Which of the following alterations in oxygen transport and acid-base homeostasis occurs as a consequence of this 5-day physiological acclimatization?",
+    "options": [
+      {
+        "text": "Leftward shift of the oxygen-hemoglobin dissociation curve driven by massive downregulation of 2,3-BPG",
+        "correct": false,
+        "explanation": "Hypoxia and alkalosis stimulate 2,3-BPG production; 2,3-BPG increases (not decreases) and shifts the curve to the right, facilitating tissue oxygen release."
+      },
+      {
+        "text": "Renal retention of hydrogen ions and bicarbonate causing a secondary high anion gap metabolic alkalosis",
+        "correct": false,
+        "explanation": "The kidneys excrete bicarbonate (causing compensatory non-gap metabolic acidosis) to counteract respiratory alkalosis, not retain it."
+      },
+      {
+        "text": "Complete suppression of erythropoietin secretion by renal juxtaglomerular apparatus due to hypocapnic vasoconstriction",
+        "correct": false,
+        "explanation": "Erythropoietin is secreted by peritubular interstitial cells in response to tissue hypoxia (HIF-1alpha); EPO is markedly upregulated, increasing red cell mass."
+      },
+      {
+        "text": "Permanent closure of the peripheral chemoreceptor potassium channels preventing any further ventilatory response",
+        "correct": false,
+        "explanation": "Peripheral chemoreceptors remain active and sensitized during acclimatization, maintaining hyperventilation."
+      },
+      {
+        "text": "Rightward shift of the oxygen-hemoglobin dissociation curve facilitating peripheral oxygen unloading, accompanied by renal bicarbonate excretion to normalize arterial pH",
+        "correct": true,
+        "explanation": "At high altitude, low barometric pressure reduces inspired PO2 (PiO2 = 0.21 x (440 - 47) = 82 mm Hg), causing arterial hypoxemia. Peripheral chemoreceptors (carotid bodies) trigger hyperventilation, blowing off CO2 and inducing acute respiratory alkalosis (high pH, low PaCO2). Over several days, physiological ACCLIMATIZATION occurs: (1) Severe hypoxemia stimulates erythrocyte glycolysis, increasing production of 2,3-BISPHOSPHOGLYCERATE (2,3-BPG) via the Rapoport-Luebering shunt. 2,3-BPG binds the central cavity of the deoxyhemoglobin tetramer, stabilizing the T (taut) state and shifting the oxygen-hemoglobin dissociation curve to the RIGHT (increasing P50), which facilitates peripheral tissue oxygen unloading despite arterial hypoxemia. (2) The kidneys compensate for respiratory alkalosis by downregulating proximal bicarbonate reabsorption and excreting bicarbonate in the urine, restoring arterial pH toward normal (compensatory metabolic acidosis). (3) Renal interstitial peritubular cells sense hypoxia and secrete ERYTHROPOIETIN (EPO), increasing hematocrit and blood oxygen-carrying capacity."
+      }
+    ],
+    "explanation": "At high altitude, low barometric pressure reduces inspired PO2 (PiO2 = 0.21 x (440 - 47) = 82 mm Hg), causing arterial hypoxemia. Peripheral chemoreceptors (carotid bodies) trigger hyperventilation, blowing off CO2 and inducing acute respiratory alkalosis (high pH, low PaCO2). Over several days, physiological ACCLIMATIZATION occurs: (1) Severe hypoxemia stimulates erythrocyte glycolysis, increasing production of 2,3-BISPHOSPHOGLYCERATE (2,3-BPG) via the Rapoport-Luebering shunt. 2,3-BPG binds the central cavity of the deoxyhemoglobin tetramer, stabilizing the T (taut) state and shifting the oxygen-hemoglobin dissociation curve to the RIGHT (increasing P50), which facilitates peripheral tissue oxygen unloading despite arterial hypoxemia. (2) The kidneys compensate for respiratory alkalosis by downregulating proximal bicarbonate reabsorption and excreting bicarbonate in the urine, restoring arterial pH toward normal (compensatory metabolic acidosis). (3) Renal interstitial peritubular cells sense hypoxia and secrete ERYTHROPOIETIN (EPO), increasing hematocrit and blood oxygen-carrying capacity. High-altitude acclimatization = Hyperventilation -> Respiratory alkalosis -> Renal HCO3- wasting (compensatory metabolic acidosis) + Increased 2,3-BPG (right shift).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of High-Altitude Acclimatization and 2,3-BPG Right Shift.",
+    "keyPoints": [
+      "High-Altitude Acclimatization and 2,3-BPG Right Shift",
+      "High-altitude acclimatization = Hyperventilation -> Respiratory alkalosis -> Renal HCO3- wasting (compensatory metabolic acidosis) + Increased 2,3-BPG (right shift)."
+    ],
+    "references": [
+      {
+        "label": "West JB. High-altitude medicine. Am J Respir Crit Care Med. 2012;186(12):1229-1237. PMID: 23024026.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23024026/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0736",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Succinylcholine Phase I vs Phase II Block and Butyrylcholinesterase",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man undergoes rapid sequence intubation for an emergent appendectomy. Anesthesia is induced with intravenous propofol followed by intravenous succinylcholine 1.5 mg/kg. Muscle fasciculations are noted in his face and extremities followed by complete flaccidity. Two hours after the conclusion of the 30-minute procedure, the patient remains paralyzed and apneic, requiring continued mechanical ventilation. Train-of-four (TOF) peripheral nerve stimulation reveals a sustained, equal reduction in twitch amplitude across all four twitches without fade (equal four twitches of diminished height). Post-tetanic potentiation is absent. Administration of intravenous neostigmine at this time produces a further deepening of neuromuscular blockade. Which of the following genetic or enzymatic abnormalities explains this patient's prolonged paralysis?",
+    "options": [
+      {
+        "text": "Genetic deficiency of plasma butyrylcholinesterase (pseudocholinesterase) prolonging Phase I depolarization blockade",
+        "correct": true,
+        "explanation": "Succinylcholine is a depolarizing neuromuscular blocker consisting of two linked acetylcholine molecules. It binds postsynaptic nicotinic receptors at the motor endplate, inducing persistent opening of Na+ channels and generating initial muscle fasciculations followed by flaccid paralysis (PHASE I BLOCK). Phase I block is characterized on train-of-four (TOF) stimulation by CONSTANT, EQUAL TWITCH HEIGHT (NO FADE) and ABSENCE of post-tetanic potentiation. Importantly, administration of an acetylcholinesterase inhibitor (neostigmine) during Phase I worsens the block by increasing synaptic ACh concentration, intensifying depolarization. Succinylcholine is rapidly hydrolyzed in the bloodstream by PLASMA BUTYRYLCHOLINESTERASE (pseudocholinesterase), with a normal duration of 5-10 minutes. Patients with atypical or deficient butyrylcholinesterase (e.g., homozygous atypical BCHE gene variant) cannot metabolize succinylcholine, leading to persistent, massive Phase I depolarization blockade and prolonged apnea lasting several hours."
+      },
+      {
+        "text": "Homozygous deletion of the cardiac sodium-calcium exchanger (NCX1) in the myoplasm",
+        "correct": false,
+        "explanation": "NCX1 is cardiac-specific; it does not metabolize neuromuscular blockers or regulate skeletal neuromuscular transmission."
+      },
+      {
+        "text": "Constitutive overactivation of synaptic acetylcholinesterase in the neuromuscular junction",
+        "correct": false,
+        "explanation": "Overactive acetylcholinesterase would accelerate acetylcholine degradation, shortening (not prolonging) neuromuscular transmission."
+      },
+      {
+        "text": "Autoantibodies directed against presynaptic choline acetyltransferase halting acetylcholine synthesis",
+        "correct": false,
+        "explanation": "Autoantibodies to choline acetyltransferase do not occur in acute succinylcholine-induced prolonged apnea."
+      },
+      {
+        "text": "Acquired deficiency of skeletal muscle dystrophin resulting in generalized endplate receptor internalization",
+        "correct": false,
+        "explanation": "Dystrophin deficiency causes muscular dystrophy; it does not impair plasma pseudocholinesterase-mediated drug clearance."
+      }
+    ],
+    "explanation": "Succinylcholine is a depolarizing neuromuscular blocker consisting of two linked acetylcholine molecules. It binds postsynaptic nicotinic receptors at the motor endplate, inducing persistent opening of Na+ channels and generating initial muscle fasciculations followed by flaccid paralysis (PHASE I BLOCK). Phase I block is characterized on train-of-four (TOF) stimulation by CONSTANT, EQUAL TWITCH HEIGHT (NO FADE) and ABSENCE of post-tetanic potentiation. Importantly, administration of an acetylcholinesterase inhibitor (neostigmine) during Phase I worsens the block by increasing synaptic ACh concentration, intensifying depolarization. Succinylcholine is rapidly hydrolyzed in the bloodstream by PLASMA BUTYRYLCHOLINESTERASE (pseudocholinesterase), with a normal duration of 5-10 minutes. Patients with atypical or deficient butyrylcholinesterase (e.g., homozygous atypical BCHE gene variant) cannot metabolize succinylcholine, leading to persistent, massive Phase I depolarization blockade and prolonged apnea lasting several hours. Succinylcholine apnea + TOF without fade + worsened by neostigmine = Prolonged Phase I block -> Butyrylcholinesterase (pseudocholinesterase) deficiency.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Succinylcholine Phase I vs Phase II Block and Butyrylcholinesterase.",
+    "keyPoints": [
+      "Succinylcholine Phase I vs Phase II Block and Butyrylcholinesterase",
+      "Succinylcholine apnea + TOF without fade + worsened by neostigmine = Prolonged Phase I block -> Butyrylcholinesterase (pseudocholinesterase) deficiency."
+    ],
+    "references": [
+      {
+        "label": "Andersson ML, Moller AM, Wildgaard K. Butyrylcholinesterase deficiency and its clinical importance in anaesthesia: a systematic review. Anaesthesia. 2019;74(4):518-528. PMID: 30607519.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30607519/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0737",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Gastrointestinal",
+    "topic": "Zollinger-Ellison Syndrome Secretin Paradoxical Gastrin Stimulation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 42-year-old man presents with severe, recurrent burning epigastric pain, watery diarrhea, and weight loss. Upper endoscopy reveals multiple deep ulcerations in the duodenal bulb and jejunum, accompanied by prominent gastric rugal fold hypertrophy. Fasting serum gastrin concentration is markedly elevated at 1,450 pg/mL (normal < 100 pg/mL), and gastric pH is 1.4. To definitively differentiate a gastrinoma from non-neoplastic hypergastrinemia, an intravenous secretin stimulation test is performed. Which of the following hormonal responses to secretin administration confirms the diagnosis of Zollinger-Ellison syndrome?",
+    "options": [
+      {
+        "text": "Immediate precipitous drop in serum gastrin to undetectable levels within 15 minutes",
+        "correct": false,
+        "explanation": "A drop in serum gastrin in response to secretin is the normal physiological response observed in non-neoplastic hypergastrinemia (e.g., G-cell hyperplasia or proton pump inhibitor use)."
+      },
+      {
+        "text": "Paradoxical elevation in serum gastrin concentration exceeding 120 pg/mL above baseline",
+        "correct": true,
+        "explanation": "Zollinger-Ellison syndrome (ZES) is caused by a gastrin-secreting neuroendocrine tumor (gastrinoma), typically located in the duodenum or pancreas ('gastrinoma triangle'). Hypergastrinemia stimulates gastric parietal cells via CCK-B receptors to hypersecrete hydrochloric acid, causing refractory, recurrent peptic ulcers (often post-bulbar or in the jejunum) and prominent gastric mucosal hypertrophy. The gold-standard confirmatory test is the INTRAVENOUS SECRETIN STIMULATION TEST. In normal physiological states, secretin (released by duodenal S cells in response to luminal acid) INHIBITS normal antral G-cell gastrin release. In contrast, in patients with gastrinomas, secretin PARADOXICALLY STIMULATES gastrinoma cells via secretin receptors, causing a rapid and marked rise in serum gastrin (increase >= 120 pg/mL above baseline within 2 to 30 minutes), definitively establishing the diagnosis."
+      },
+      {
+        "text": "Selective suppression of gastric intrinsic factor secretion with profound elevation of somatostatin",
+        "correct": false,
+        "explanation": "Secretin does not selectively block intrinsic factor; its diagnostic utility rests entirely on paradoxical gastrin release from neoplastic gastrinoma cells."
+      },
+      {
+        "text": "Massive stimulation of duodenal cholecystokinin secretion triggering biliary colic",
+        "correct": false,
+        "explanation": "Secretin stimulates pancreatic ductal bicarbonate secretion and biliary bicarbonate flow, but CCK hypersecretion is not a diagnostic marker for ZES."
+      },
+      {
+        "text": "Paradoxical alkalinization of gastric secretions to pH > 7.0 due to parietal cell exhaustion",
+        "correct": false,
+        "explanation": "Parietal cells remain hyperstimulated by the massive gastrin surge, maintaining severe gastric hyperacidity (pH < 2.0)."
+      }
+    ],
+    "explanation": "Zollinger-Ellison syndrome (ZES) is caused by a gastrin-secreting neuroendocrine tumor (gastrinoma), typically located in the duodenum or pancreas ('gastrinoma triangle'). Hypergastrinemia stimulates gastric parietal cells via CCK-B receptors to hypersecrete hydrochloric acid, causing refractory, recurrent peptic ulcers (often post-bulbar or in the jejunum) and prominent gastric mucosal hypertrophy. The gold-standard confirmatory test is the INTRAVENOUS SECRETIN STIMULATION TEST. In normal physiological states, secretin (released by duodenal S cells in response to luminal acid) INHIBITS normal antral G-cell gastrin release. In contrast, in patients with gastrinomas, secretin PARADOXICALLY STIMULATES gastrinoma cells via secretin receptors, causing a rapid and marked rise in serum gastrin (increase >= 120 pg/mL above baseline within 2 to 30 minutes), definitively establishing the diagnosis. Recurrent jejunal ulcers + rugal hypertrophy + high gastrin = Zollinger-Ellison syndrome -> Secretin paradoxically increases gastrin >= 120 pg/mL.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Zollinger-Ellison Syndrome Secretin Paradoxical Gastrin Stimulation.",
+    "keyPoints": [
+      "Zollinger-Ellison Syndrome Secretin Paradoxical Gastrin Stimulation",
+      "Recurrent jejunal ulcers + rugal hypertrophy + high gastrin = Zollinger-Ellison syndrome -> Secretin paradoxically increases gastrin >= 120 pg/mL."
+    ],
+    "references": [
+      {
+        "label": "Jensen RT, Niederle B, Mitry E, et al. Gastrinoma (duodenal and pancreatic). Neuroendocrinology. 2006;84(3):173-182. PMID: 17312377.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17312377/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0738",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Maple Syrup Urine Disease Branched-Chain Alpha-Ketoacid Dehydrogenase",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 6-day-old male infant born to consanguineous parents develops poor feeding, progressive lethargy, and vomiting. On physical examination, he is stuporous with alternating episodes of hypertonia and hypotonia, and characteristic dystonic cycling movements of his extremities ('fencing and bicycling'). His diapers emit a sweet, caramelized maple syrup-like odor. Serum amino acid quantification demonstrates massive elevation of leucine, isoleucine, and valine, with detection of alloisoleucine. Arterial blood gas reveals severe metabolic acidosis without hyperammonemia. Which of the following cofactors is essential for the enzymatic complex whose deficiency produces this infant's condition?",
+    "options": [
+      {
+        "text": "Tetrahydrobiopterin (BH4) and molecular oxygen",
+        "correct": false,
+        "explanation": "BH4 is the cofactor for aromatic amino acid hydroxylases (phenylalanine, tyrosine, and tryptophan hydroxylase) and nitric oxide synthase; deficiency causes hyperphenylalaninemia, not MSUD."
+      },
+      {
+        "text": "Pyridoxal phosphate (vitamin B6) and heme",
+        "correct": false,
+        "explanation": "Pyridoxal phosphate (PLP) is the cofactor for transaminases and cystathionine beta-synthase; defect causes homocystinuria, not BCAA accumulation."
+      },
+      {
+        "text": "Thiamine pyrophosphate (TPP), lipoic acid, coenzyme A, FAD, and NAD+ (Tender Loving Care For Nancy)",
+        "correct": true,
+        "explanation": "Maple syrup urine disease (MSUD) is an autosomal recessive inborn error of metabolism caused by deficiency of the mitochondrial BRANCHED-CHAIN ALPHA-KETO ACID DEHYDROGENASE (BCKDH) complex. BCKDH catalyzes the oxidative decarboxylation of alpha-ketoacids derived from the branched-chain amino acids (BCAAs): LEUCINE, ISOLEUCINE, and VALINE (mnemonic: 'I Love Vermont maple syrup'). The BCKDH complex is analogous in structure and mechanism to the pyruvate dehydrogenase (PDH) and alpha-ketoglutarate dehydrogenase complexes, requiring the exact same FIVE COFACTORS: (1) Thiamine pyrophosphate (TPP, vitamin B1), (2) Lipoic acid, (3) Coenzyme A (pantothenic acid, B5), (4) FAD (riboflavin, B2), and (5) NAD+ (niacin, B3). Accumulation of leucine and its ketoacid (alpha-ketoisocaproate) is neurotoxic, causing cerebral edema, encephalopathy, and dystonia. A subset of patients with thiamine-responsive MSUD improve with high-dose thiamine supplementation."
+      },
+      {
+        "text": "Adenosylcobalamin (vitamin B12) and biotin (vitamin B7)",
+        "correct": false,
+        "explanation": "Adenosylcobalamin is the cofactor for methylmalonyl-CoA mutase, and biotin is for carboxylases (propionyl-CoA carboxylase, pyruvate carboxylase)."
+      },
+      {
+        "text": "Ascorbic acid (vitamin C) and copper",
+        "correct": false,
+        "explanation": "Ascorbic acid and copper are cofactors for dopamine beta-hydroxylase and lysyl oxidase (collagen cross-linking), not alpha-ketoacid dehydrogenases."
+      }
+    ],
+    "explanation": "Maple syrup urine disease (MSUD) is an autosomal recessive inborn error of metabolism caused by deficiency of the mitochondrial BRANCHED-CHAIN ALPHA-KETO ACID DEHYDROGENASE (BCKDH) complex. BCKDH catalyzes the oxidative decarboxylation of alpha-ketoacids derived from the branched-chain amino acids (BCAAs): LEUCINE, ISOLEUCINE, and VALINE (mnemonic: 'I Love Vermont maple syrup'). The BCKDH complex is analogous in structure and mechanism to the pyruvate dehydrogenase (PDH) and alpha-ketoglutarate dehydrogenase complexes, requiring the exact same FIVE COFACTORS: (1) Thiamine pyrophosphate (TPP, vitamin B1), (2) Lipoic acid, (3) Coenzyme A (pantothenic acid, B5), (4) FAD (riboflavin, B2), and (5) NAD+ (niacin, B3). Accumulation of leucine and its ketoacid (alpha-ketoisocaproate) is neurotoxic, causing cerebral edema, encephalopathy, and dystonia. A subset of patients with thiamine-responsive MSUD improve with high-dose thiamine supplementation. Sweet-smelling urine + encephalopathy + elevated leucine/isoleucine/valine = MSUD -> Defective BCKDH complex requiring TPP, Lipoate, CoA, FAD, NAD+.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Maple Syrup Urine Disease Branched-Chain Alpha-Ketoacid Dehydrogenase.",
+    "keyPoints": [
+      "Maple Syrup Urine Disease Branched-Chain Alpha-Ketoacid Dehydrogenase",
+      "Sweet-smelling urine + encephalopathy + elevated leucine/isoleucine/valine = MSUD -> Defective BCKDH complex requiring TPP, Lipoate, CoA, FAD, NAD+."
+    ],
+    "references": [
+      {
+        "label": "Strauss KA, Puffenberger EG, Morton DH. Maple Syrup Urine Disease. In: GeneReviews. Seattle (WA): University of Washington, Seattle; 2006. PMID: 20301495.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20301495/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0739",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Streptococcus pneumoniae Capsule and Bacterial Transformation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "In a laboratory experiment replicating the classic Avery-MacLeod-McCarty and Griffith experiments, mice are injected subcutaneously with living, unencapsulated, non-virulent 'rough' (R) strain Streptococcus pneumoniae and survive without disease. A second group of mice is injected with heat-killed, encapsulated, virulent 'smooth' (S) strain S. pneumoniae and also survives. However, when mice are injected with a mixture of living rough (R) strain bacteria AND heat-killed smooth (S) strain bacteria, the mice die of fulminant pneumococcal bacteremia, and living encapsulated smooth (S) strain pneumococci are recovered from their cardiac blood. Which of the following genetic processes explains the emergence of the virulent encapsulated bacteria in this experiment?",
+    "options": [
+      {
+        "text": "Generalized transduction mediated by a lytic bacteriophage packaging random host chromosomal fragments",
+        "correct": false,
+        "explanation": "Transduction requires an intermediate bacteriophage virus to transfer genetic material; Griffith's experiment used cell-free heat-killed extracts without phage involvement."
+      },
+      {
+        "text": "F-plasmid-mediated conjugative transfer of an autonomous episome through a specialized sex pilus",
+        "correct": false,
+        "explanation": "Conjugation requires direct cell-to-cell contact between viable donor and recipient bacteria via a sex pilus; heat-killed bacteria cannot conjugate."
+      },
+      {
+        "text": "Site-specific lysogenic conversion mediated by a temperate bacteriophage integrating a prophage genome",
+        "correct": false,
+        "explanation": "Lysogenic conversion occurs in Corynebacterium diphtheriae, Streptococcus pyogenes (erythrogenic toxin), and Clostridium botulinum, not pneumococcal transformation."
+      },
+      {
+        "text": "Natural bacterial transformation via uptake and homologous recombination of naked extracellular DNA fragments from the heat-killed donor strain",
+        "correct": true,
+        "explanation": "Bacterial TRANSFORMATION is the process by which naturally competent bacteria bind, import, and incorporate exogenous 'naked' environmental DNA fragments into their own chromosome through homologous recombination. Streptococcus pneumoniae, Haemophilus influenzae, and Neisseria species are the classical 'SHiN' bacteria that exhibit natural competence. In the Griffith and Avery experiments, heat-killed smooth (S) strain pneumococci lysed, releasing naked double-stranded DNA fragments containing the functional capsular polysaccharide gene. Living rough (R) strain bacteria expressed cell-wall competence factors (Com proteins), took up the naked capsular gene, incorporated it into their genome, and synthesized the antiphagocytic polysaccharide capsule, rendering them virulent."
+      },
+      {
+        "text": "Transposition of a mobile genetic insertion sequence mediated by transposase jumping between non-homologous plasmids",
+        "correct": false,
+        "explanation": "Transposons jump within or between DNA molecules in living cells; transformation specifically refers to the uptake of free extracellular environmental DNA."
+      }
+    ],
+    "explanation": "Bacterial TRANSFORMATION is the process by which naturally competent bacteria bind, import, and incorporate exogenous 'naked' environmental DNA fragments into their own chromosome through homologous recombination. Streptococcus pneumoniae, Haemophilus influenzae, and Neisseria species are the classical 'SHiN' bacteria that exhibit natural competence. In the Griffith and Avery experiments, heat-killed smooth (S) strain pneumococci lysed, releasing naked double-stranded DNA fragments containing the functional capsular polysaccharide gene. Living rough (R) strain bacteria expressed cell-wall competence factors (Com proteins), took up the naked capsular gene, incorporated it into their genome, and synthesized the antiphagocytic polysaccharide capsule, rendering them virulent. Rough S. pneumoniae + heat-killed smooth S. pneumoniae -> Living smooth bacteria emerge = Natural transformation via naked DNA uptake.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Streptococcus pneumoniae Capsule and Bacterial Transformation.",
+    "keyPoints": [
+      "Streptococcus pneumoniae Capsule and Bacterial Transformation",
+      "Rough S. pneumoniae + heat-killed smooth S. pneumoniae -> Living smooth bacteria emerge = Natural transformation via naked DNA uptake."
+    ],
+    "references": [
+      {
+        "label": "Johnston C, Polard P, Claverys JP. The pneumococcal competence pathway for transformation: cellular organization and control. Front Genet. 2014;5:316. PMID: 25309562.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25309562/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0740",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Minimal Change Disease Loss of Glomerular Polyanion Charge Barrier",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-year-old boy is brought to the pediatrician due to sudden puffiness around his eyes that is most prominent in the morning, along with abdominal distension and swollen feet. Blood pressure is normal at 96/60 mm Hg. Physical examination reveals periorbital edema, shifting dullness on abdominal percussion, and 2+ pitting pretibial edema. Urinalysis demonstrates 4+ protein with zero erythrocytes or red blood cell casts. Twenty-four-hour urine protein quantification reveals 4.2 g/day of protein, of which > 90% is albumin (highly selective proteinuria). Serum albumin is 1.8 g/dL and total cholesterol is 340 mg/dL. Renal biopsy shows completely normal glomerular architecture on light microscopy and negative immunofluorescence. Transmission electron microscopy demonstrates diffuse, uniform effacement of visceral epithelial cell foot processes (podocytes). Which of the following pathophysiological alterations directly accounts for the highly selective albuminuria in this patient?",
+    "options": [
+      {
+        "text": "Subepithelial immune complex deposition causing mechanical rupture of the lamina densa and podocyte apoptosis",
+        "correct": false,
+        "explanation": "Subepithelial immune complex deposition (with spike-and-dome appearance) occurs in membranous nephropathy, causing non-selective proteinuria."
+      },
+      {
+        "text": "Subendothelial immune complex deposition with mesangial interposition and duplication of the basement membrane",
+        "correct": false,
+        "explanation": "Subendothelial deposits with 'tram-track' basement membrane splitting occur in membranoproliferative glomerulonephritis (MPGN), causing nephritic/nephrotic syndrome."
+      },
+      {
+        "text": "Widespread mesangial expansion and formation of periodic acid-Schiff-positive nodular glomerulosclerosis lesions",
+        "correct": false,
+        "explanation": "Kimmelstiel-Wilson nodular glomerulosclerosis is the hallmark of diabetic nephropathy, not pediatric minimal change disease."
+      },
+      {
+        "text": "Anti-GBM IgG autoantibodies binding non-collagenous domain 1 of the alpha-3 chain of type IV collagen",
+        "correct": false,
+        "explanation": "Anti-GBM antibodies cause Goodpasture disease, presenting with rapidly progressive glomerulonephritis, alveolar hemorrhage, and linear IgG on immunofluorescence."
+      },
+      {
+        "text": "Cytokine-mediated loss of negatively charged heparan sulfate and sialoglycoproteins on the glomerular basement membrane and podocyte glycocalyx",
+        "correct": true,
+        "explanation": "Minimal change disease (MCD) is the most common cause of nephrotic syndrome in children. It is mediated by T-cell dysfunction leading to release of circulating permeability factors (such as IL-13 and hemopexin). The glomerular filtration barrier consists of three layers: fenestrated capillary endothelium, glomerular basement membrane (GBM), and visceral epithelial foot processes (podocytes) with slit diaphragms. The GBM and podocyte glycocalyx are richly coated with NEGATIVELY CHARGED POLYANIONS, primarily HEPARAN SULFATE proteoglycans and sialoglycoproteins. Because serum albumin is also negatively charged at physiological pH, it is electrostatically repelled by the normal intact charge barrier. In MCD, immune cytokines neutralize or degrade the negative charge barrier, permitting albumin (radius 3.6 nm) to cross the filtration barrier unimpeded, resulting in HIGHLY SELECTIVE PROTEINURIA (albuminuria without larger globulins). Effacement of foot processes is a secondary response to podocyte cytoskeletal stress."
+      }
+    ],
+    "explanation": "Minimal change disease (MCD) is the most common cause of nephrotic syndrome in children. It is mediated by T-cell dysfunction leading to release of circulating permeability factors (such as IL-13 and hemopexin). The glomerular filtration barrier consists of three layers: fenestrated capillary endothelium, glomerular basement membrane (GBM), and visceral epithelial foot processes (podocytes) with slit diaphragms. The GBM and podocyte glycocalyx are richly coated with NEGATIVELY CHARGED POLYANIONS, primarily HEPARAN SULFATE proteoglycans and sialoglycoproteins. Because serum albumin is also negatively charged at physiological pH, it is electrostatically repelled by the normal intact charge barrier. In MCD, immune cytokines neutralize or degrade the negative charge barrier, permitting albumin (radius 3.6 nm) to cross the filtration barrier unimpeded, resulting in HIGHLY SELECTIVE PROTEINURIA (albuminuria without larger globulins). Effacement of foot processes is a secondary response to podocyte cytoskeletal stress. Child with nephrotic syndrome + normal light microscopy + podocyte effacement on EM = Minimal change disease -> Loss of negative charge barrier (heparan sulfate).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Minimal Change Disease Loss of Glomerular Polyanion Charge Barrier.",
+    "keyPoints": [
+      "Minimal Change Disease Loss of Glomerular Polyanion Charge Barrier",
+      "Child with nephrotic syndrome + normal light microscopy + podocyte effacement on EM = Minimal change disease -> Loss of negative charge barrier (heparan sulfate)."
+    ],
+    "references": [
+      {
+        "label": "Vivarelli M, Massella L, Ruggiero B, Emma F. Minimal Change Disease. Clin J Am Soc Nephrol. 2017;12(2):332-345. PMID: 27940460.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27940460/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0741",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Cardiovascular",
+    "topic": "Tetralogy of Fallot Infundibular Spasm and Squatting Physiology",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 3-year-old uncorrected boy with congenital heart disease is brought to the emergency department during an episode of intense crying. His mother reports that he suddenly became acutely dyspneic, agitated, and deeply cyanotic around his mouth and fingers. On physical examination, he instinctively assumes a squatting posture with his knees pressed firmly against his chest. Within 2 minutes of squatting, his cyanosis noticeably diminishes, his breathing slows, and a harsh systolic ejection murmur at the left upper sternal border becomes louder. An echocardiogram previously demonstrated a large malalignment ventricular septal defect, severe infundibular pulmonary stenosis, an overriding aorta, and concentric right ventricular hypertrophy. Which of the following hemodynamic mechanisms explains the rapid clinical improvement produced by squatting in this child?",
+    "options": [
+      {
+        "text": "Squatting kinks the femoral arteries, increasing systemic vascular resistance and left ventricular afterload, which reverses right-to-left shunting through the VSD",
+        "correct": true,
+        "explanation": "In Tetralogy of Fallot (caused by anterosuperior deviation of the infundibular septum), the magnitude of cyanosis is dictated by the severity of right ventricular outflow tract (RVOT) obstruction relative to systemic vascular resistance (SVR). During a hypercyanotic 'tet spell' (triggered by crying, feeding, or agitation), infundibular spasm or a sudden drop in SVR markedly increases RIGHT-TO-LEFT SHUNTING of deoxygenated blood across the large VSD into the systemic circulation, causing profound arterial hypoxemia. When the child SQUATS, two crucial hemodynamic changes occur: (1) Kinking of the femoral arteries and compression of abdominal vessels markedly INCREASES SYSTEMIC VASCULAR RESISTANCE (SVR) and left ventricular afterload. (2) Compression of lower extremity veins transiently increases VENOUS RETURN (preload). The sharp rise in LV pressure exceeds RV systolic pressure, FORCING BLOOD FROM THE RIGHT VENTRICLE ACROSS THE STENOTIC PULMONARY VALVE INTO THE LUNGS instead of through the VSD, restoring pulmonary blood flow, oxygenating arterial blood, and increasing the intensity of the pulmonary stenosis murmur."
+      },
+      {
+        "text": "Squatting reduces systemic vascular resistance, decreasing left ventricular afterload and accelerating systemic blood delivery",
+        "correct": false,
+        "explanation": "Decreasing SVR would lower LV pressure below RV pressure, worsening right-to-left shunting and deepening cyanosis; squatting INCREASES SVR."
+      },
+      {
+        "text": "Squatting induces sudden vagal bradycardia that terminates a paroxysmal supraventricular tachycardia",
+        "correct": false,
+        "explanation": "Tet spells are driven by dynamic right-to-left shunting from infundibular spasm, not re-entrant supraventricular tachycardia."
+      },
+      {
+        "text": "Squatting elevates intrathoracic pressure, collapsing the inferior vena cava and decreasing right ventricular end-diastolic pressure",
+        "correct": false,
+        "explanation": "Squatting increases venous return (preload) rather than collapsing the IVC; its primary therapeutic benefit is increasing SVR."
+      },
+      {
+        "text": "Squatting causes direct mechanical compression of the ventricular septal defect, sealing the intraventricular communication",
+        "correct": false,
+        "explanation": "Squatting cannot mechanically close a congenital fibrous-muscular VSD inside the heart; it alters hemodynamic pressure gradients."
+      }
+    ],
+    "explanation": "In Tetralogy of Fallot (caused by anterosuperior deviation of the infundibular septum), the magnitude of cyanosis is dictated by the severity of right ventricular outflow tract (RVOT) obstruction relative to systemic vascular resistance (SVR). During a hypercyanotic 'tet spell' (triggered by crying, feeding, or agitation), infundibular spasm or a sudden drop in SVR markedly increases RIGHT-TO-LEFT SHUNTING of deoxygenated blood across the large VSD into the systemic circulation, causing profound arterial hypoxemia. When the child SQUATS, two crucial hemodynamic changes occur: (1) Kinking of the femoral arteries and compression of abdominal vessels markedly INCREASES SYSTEMIC VASCULAR RESISTANCE (SVR) and left ventricular afterload. (2) Compression of lower extremity veins transiently increases VENOUS RETURN (preload). The sharp rise in LV pressure exceeds RV systolic pressure, FORCING BLOOD FROM THE RIGHT VENTRICLE ACROSS THE STENOTIC PULMONARY VALVE INTO THE LUNGS instead of through the VSD, restoring pulmonary blood flow, oxygenating arterial blood, and increasing the intensity of the pulmonary stenosis murmur. Tetralogy of Fallot tet spell improved by squatting -> Squatting increases SVR (afterload), reducing right-to-left VSD shunt and increasing pulmonary flow.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Tetralogy of Fallot Infundibular Spasm and Squatting Physiology.",
+    "keyPoints": [
+      "Tetralogy of Fallot Infundibular Spasm and Squatting Physiology",
+      "Tetralogy of Fallot tet spell improved by squatting -> Squatting increases SVR (afterload), reducing right-to-left VSD shunt and increasing pulmonary flow."
+    ],
+    "references": [
+      {
+        "label": "Bailliard F, Anderson RH. Tetralogy of Fallot. Orphanet J Rare Dis. 2009;4:2. PMID: 19144126.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19144126/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0742",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Hematology",
+    "topic": "Wiskott-Aldrich Syndrome WAS Protein Actin Polymerization Defect",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 14-month-old boy presents with recurrent epistaxis, bloody diarrhea, and persistent severe atopic dermatitis on his face and flexural creases. His past medical history is notable for recurrent otitis media and encapsulated bacterial sinopulmonary infections since 4 months of age. Physical examination reveals widespread petechiae and ecchymoses on his trunk and extremities. Complete blood count shows: hemoglobin 10.4 g/dL, white blood cell count 8,200/microL, and platelet count 24,000/microL. Examination of the peripheral blood smear reveals that the circulating platelets are markedly reduced in number and abnormally small in size (mean platelet volume [MPV] 5.2 fL, normal 7.4-10.4 fL). Serum immunoglobulin profiling demonstrates elevated IgA and IgE, normal IgG, and decreased IgM. Which of the following cellular processes is defective as a result of the mutation in the WAS gene in this patient?",
+    "options": [
+      {
+        "text": "DNA double-strand break repair via the non-homologous end-joining (NHEJ) pathway",
+        "correct": false,
+        "explanation": "Defects in non-homologous end-joining (NHEJ) cause ataxia-telangiectasia (ATM mutation) or severe combined immunodeficiency (Artemis/DNA-PKcs mutations), not WAS."
+      },
+      {
+        "text": "Actin cytoskeleton remodeling and microfilament nucleation mediated by the Arp2/3 complex in hematopoietic cells",
+        "correct": true,
+        "explanation": "Wiskott-Aldrich syndrome (WAS) is an X-linked recessive primary immunodeficiency caused by mutations in the WAS gene, which encodes the Wiskott-Aldrich syndrome protein (WASP). WASP is expressed exclusively in hematopoietic cells and acts as an intracellular bridge linking cell surface signaling receptors (via Cdc42 and Rac GTPases) to the actin-related protein 2/3 (Arp2/3) complex. The Arp2/3 complex is essential for NUCLEATING ACTIN POLYMERIZATION and branching of actin microfilaments. Defective WASP disables actin cytoskeleton remodeling, preventing platelet megakaryocyte proplatelet formation (causing MICROTHROMBOCYTOPENIA: small, defective platelets with bleeding), impairing immune synapse formation between T-cells and antigen-presenting cells (causing combined T- and B-cell immunodeficiency with low IgM and high IgA/IgE), and disrupting cell migration, resulting in the classic triad of ECZEMA, MICROTHROMBOCYTOPENIA, and RECURRENT INFECTIONS."
+      },
+      {
+        "text": "Integrin-mediated binding of beta-2 integrin (CD18) to intercellular adhesion molecule-1 (ICAM-1)",
+        "correct": false,
+        "explanation": "CD18 deficiency causes Leukocyte Adhesion Deficiency type 1 (LAD-1), characterized by absent pus and delayed cord separation with normal-sized platelets."
+      },
+      {
+        "text": "Lysosomal acidification and fusion in phagocytes mediated by vesicle-associated membrane proteins",
+        "correct": false,
+        "explanation": "Lysosomal trafficking defects occur in Chédiak-Higashi syndrome (LYST gene), characterized by giant cytoplasmic granules and oculocutaneous albinism."
+      },
+      {
+        "text": "Terminal glycosylation of GPI-anchored surface complement regulatory proteins on erythrocyte precursors",
+        "correct": false,
+        "explanation": "GPI anchor failure occurs in paroxysmal nocturnal hemoglobinuria (PIGA mutation), causing intravascular hemolysis, not microthrombocytopenia and eczema."
+      }
+    ],
+    "explanation": "Wiskott-Aldrich syndrome (WAS) is an X-linked recessive primary immunodeficiency caused by mutations in the WAS gene, which encodes the Wiskott-Aldrich syndrome protein (WASP). WASP is expressed exclusively in hematopoietic cells and acts as an intracellular bridge linking cell surface signaling receptors (via Cdc42 and Rac GTPases) to the actin-related protein 2/3 (Arp2/3) complex. The Arp2/3 complex is essential for NUCLEATING ACTIN POLYMERIZATION and branching of actin microfilaments. Defective WASP disables actin cytoskeleton remodeling, preventing platelet megakaryocyte proplatelet formation (causing MICROTHROMBOCYTOPENIA: small, defective platelets with bleeding), impairing immune synapse formation between T-cells and antigen-presenting cells (causing combined T- and B-cell immunodeficiency with low IgM and high IgA/IgE), and disrupting cell migration, resulting in the classic triad of ECZEMA, MICROTHROMBOCYTOPENIA, and RECURRENT INFECTIONS. Eczema + microthrombocytopenia (small platelets) + recurrent infections = Wiskott-Aldrich syndrome -> WAS gene mutation (defective actin cytoskeleton/Arp2/3).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Wiskott-Aldrich Syndrome WAS Protein Actin Polymerization Defect.",
+    "keyPoints": [
+      "Wiskott-Aldrich Syndrome WAS Protein Actin Polymerization Defect",
+      "Eczema + microthrombocytopenia (small platelets) + recurrent infections = Wiskott-Aldrich syndrome -> WAS gene mutation (defective actin cytoskeleton/Arp2/3)."
+    ],
+    "references": [
+      {
+        "label": "Notarangelo LD, Miao CH, Ochs HD. Wiskott-Aldrich syndrome. Curr Opin Pediatr. 2008;20(6):670-676. PMID: 18978583.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18978583/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0743",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Prader-Willi vs Angelman Syndrome 15q11-q13 Genomic Imprinting",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 3-year-old boy is brought to the pediatric genetics clinic for severe, insatiable hyperphagia, rapid morbid weight gain, and aggressive food-seeking behavior. As an infant, he had severe hypotonia, a weak suck requiring nasogastric tube feeding, and cryptorchidism. Physical examination reveals short stature, small hands and feet, almond-shaped palpebral fissures, a narrow bifrontal diameter, and hypogonadism. Chromosomal microarray analysis reveals a 4-Mb microdeletion on chromosome 15q11.2-q13. Methylation-specific PCR demonstrates that the single remaining allele at this locus is exclusively methylated (maternal pattern) with complete absence of the unmethylated paternal allele. Which of the following genetic mechanisms is the underlying cause of this child's disorder?",
+    "options": [
+      {
+        "text": "Loss of expression of the maternally inherited UBE3A ubiquitin-protein ligase gene on chromosome 15q11-q13",
+        "correct": false,
+        "explanation": "Loss of the maternal UBE3A allele causes ANGELMAN SYNDROME (severe intellectual disability, seizures, ataxia, inappropriate laughter), not Prader-Willi hyperphagia and obesity."
+      },
+      {
+        "text": "Trinucleotide repeat expansion of CTG in the 3' untranslated region of the DMPK gene",
+        "correct": false,
+        "explanation": "DMPK CTG expansion causes Myotonic Dystrophy type 1 (myotonia, muscle wasting, cataracts, testicular atrophy), not Prader-Willi syndrome."
+      },
+      {
+        "text": "Loss of expression of paternally inherited genes on chromosome 15q11-q13 (normally silenced on the maternal allele by genomic imprinting)",
+        "correct": true,
+        "explanation": "Prader-Willi syndrome (PWS) and Angelman syndrome (AS) are classic examples of GENOMIC IMPRINTING involving chromosome 15q11-q13. Genomic imprinting is an epigenetic phenomenon in which one parental allele is transcriptionally silenced by DNA methylation during gametogenesis. In normal individuals, genes at the 15q11-q13 locus (including SNRPN, NDN, and snoRNAs) are PATERNALLY EXPRESSED and maternally silenced (imprinted). Conversely, the nearby UBE3A gene is MATERNALLY EXPRESSED in brain neurons and paternally silenced. PRADER-WILLI SYNDROME occurs when there is LOSS OF EXPRESSION OF THE PATERNAL 15q11-q13 ALLELE, most commonly due to a paternal microdeletion (~70%) or maternal uniparental disomy (UPD, ~25%). PWS presents with neonatal hypotonia, failure to thrive, followed in toddlerhood by insatiable hyperphagia, morbid obesity, hypogonadism, and intellectual disability. In contrast, loss of the MATERNAL allele (or paternal UPD) causes ANGELMAN SYNDROME ('happy puppet', inappropriate laughter, seizures, ataxia)."
+      },
+      {
+        "text": "Paternal uniparental disomy of chromosome 11p15.5 leading to overexpression of insulin-like growth factor 2 (IGF-2)",
+        "correct": false,
+        "explanation": "Paternal UPD 11p15.5 causes Beckwith-Wiedemann syndrome (macrosomia, macroglossia, omphalocele, hemihyperplasia, Wilms tumor), not Prader-Willi syndrome."
+      },
+      {
+        "text": "Microdeletion of chromosome 7q11.23 including the elastin gene",
+        "correct": false,
+        "explanation": "7q11.23 deletion causes Williams syndrome (elfin facies, supravalvular aortic stenosis, hypercalcemia, extreme friendliness), not hyperphagic obesity."
+      }
+    ],
+    "explanation": "Prader-Willi syndrome (PWS) and Angelman syndrome (AS) are classic examples of GENOMIC IMPRINTING involving chromosome 15q11-q13. Genomic imprinting is an epigenetic phenomenon in which one parental allele is transcriptionally silenced by DNA methylation during gametogenesis. In normal individuals, genes at the 15q11-q13 locus (including SNRPN, NDN, and snoRNAs) are PATERNALLY EXPRESSED and maternally silenced (imprinted). Conversely, the nearby UBE3A gene is MATERNALLY EXPRESSED in brain neurons and paternally silenced. PRADER-WILLI SYNDROME occurs when there is LOSS OF EXPRESSION OF THE PATERNAL 15q11-q13 ALLELE, most commonly due to a paternal microdeletion (~70%) or maternal uniparental disomy (UPD, ~25%). PWS presents with neonatal hypotonia, failure to thrive, followed in toddlerhood by insatiable hyperphagia, morbid obesity, hypogonadism, and intellectual disability. In contrast, loss of the MATERNAL allele (or paternal UPD) causes ANGELMAN SYNDROME ('happy puppet', inappropriate laughter, seizures, ataxia). Neonatal hypotonia -> Toddler hyperphagia + obesity + hypogonadism = Prader-Willi syndrome -> Deletion of paternal 15q11-q13 (maternal allele imprinted).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Prader-Willi vs Angelman Syndrome 15q11-q13 Genomic Imprinting.",
+    "keyPoints": [
+      "Prader-Willi vs Angelman Syndrome 15q11-q13 Genomic Imprinting",
+      "Neonatal hypotonia -> Toddler hyperphagia + obesity + hypogonadism = Prader-Willi syndrome -> Deletion of paternal 15q11-q13 (maternal allele imprinted)."
+    ],
+    "references": [
+      {
+        "label": "Cassidy SB, Schwartz S, Miller JL, Driscoll DJ. Prader-Willi syndrome. Genet Med. 2012;14(1):10-26. PMID: 22237428.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22237428/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0744",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Acetaminophen Hepatotoxicity CYP2E1 NAPQI and N-Acetylcysteine",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old woman is brought to the emergency department 28 hours after intentionally ingesting 40 tablets of 500-mg acetaminophen during an acute emotional crisis. She initially felt mild nausea that resolved, but over the past 12 hours she developed severe right upper quadrant abdominal pain and persistent vomiting. Physical examination reveals scleral icterus and marked right upper quadrant tenderness with hepatomegaly. Serum chemistries demonstrate: AST 14,800 U/L, ALT 16,200 U/L, total bilirubin 6.8 mg/dL, and prothrombin time 42 seconds (INR 3.8). Which of the following biochemical pathways accounts for the centrilobular hepatic parenchymal necrosis observed in this patient?",
+    "options": [
+      {
+        "text": "Direct non-enzymatic alkylation of microsomal glucose-6-phosphatase leading to glycogen accumulation and ballooning degeneration",
+        "correct": false,
+        "explanation": "NAPQI binds mitochondrial proteins causing necrotic lysis, not glycogen storage disease from glucose-6-phosphatase inhibition."
+      },
+      {
+        "text": "Competitive inhibition of mitochondrial carnitine palmitoyltransferase-1 halting fatty acid beta-oxidation",
+        "correct": false,
+        "explanation": "CPT-1 inhibition causes microvesicular steatosis and hypoketotic hypoglycemia (Reye syndrome or Jamaican vomiting sickness), not fulminant centrilobular transaminitis."
+      },
+      {
+        "text": "Irreversible acetylation of canalicular bile salt export pump (BSEP) causing intrahepatic cholestatic hepatitis",
+        "correct": false,
+        "explanation": "BSEP mutations cause progressive familial intrahepatic cholestasis (PFIC); APAP causes acute centrilobular necrosis, not pure isolated cholestasis."
+      },
+      {
+        "text": "Saturation of glucuronidation and sulfation pathways leading to excessive cytochrome P450 (CYP2E1) conversion to toxic N-acetyl-p-benzoquinone imine (NAPQI) that depletes glutathione",
+        "correct": true,
+        "explanation": "Acetaminophen (APAP) at therapeutic doses is predominantly metabolized in the liver via Phase II conjugation pathways: GLUCURONIDATION (50-60%) and SULFATION (30-40%) to non-toxic water-soluble metabolites excreted in urine. A small fraction (~5-10%) is oxidized by cytochrome P450 enzymes (predominantly CYP2E1) into the highly reactive, electrophilic, and toxic intermediate N-ACETYL-P-BENZOQUINONE IMINE (NAPQI). Under normal conditions, NAPQI is rapidly detoxified by conjugation with endogenous GLUTATHIONE (GSH) to non-toxic mercapturic acid conjugates. In massive overdose, glucuronidation and sulfation pathways become saturated. Excess APAP is shunted to CYP2E1, producing massive amounts of NAPQI that DEPLETE HEPATIC GLUTATHIONE STORES by > 70-80%. Unconjugated NAPQI covalently binds cysteinyl sulfhydryl groups on hepatic mitochondrial proteins, inducing mitochondrial oxidative stress, opening of the mitochondrial permeability transition pore, ATP depletion, and massive CENTRILOBULAR (ZONE 3) HEPATOCYTE NECROSIS. Zone 3 is selectively damaged because it has the highest concentration of CYP2E1 and lowest baseline glutathione."
+      },
+      {
+        "text": "Immune complex-mediated destruction of portal triad biliary ductules via drug-hapten formation",
+        "correct": false,
+        "explanation": "APAP toxicity is direct, dose-dependent, predictable biochemical necrosis (toxic intrinsic hepatopathy), not an idiosyncratic or immune-mediated drug allergy."
+      }
+    ],
+    "explanation": "Acetaminophen (APAP) at therapeutic doses is predominantly metabolized in the liver via Phase II conjugation pathways: GLUCURONIDATION (50-60%) and SULFATION (30-40%) to non-toxic water-soluble metabolites excreted in urine. A small fraction (~5-10%) is oxidized by cytochrome P450 enzymes (predominantly CYP2E1) into the highly reactive, electrophilic, and toxic intermediate N-ACETYL-P-BENZOQUINONE IMINE (NAPQI). Under normal conditions, NAPQI is rapidly detoxified by conjugation with endogenous GLUTATHIONE (GSH) to non-toxic mercapturic acid conjugates. In massive overdose, glucuronidation and sulfation pathways become saturated. Excess APAP is shunted to CYP2E1, producing massive amounts of NAPQI that DEPLETE HEPATIC GLUTATHIONE STORES by > 70-80%. Unconjugated NAPQI covalently binds cysteinyl sulfhydryl groups on hepatic mitochondrial proteins, inducing mitochondrial oxidative stress, opening of the mitochondrial permeability transition pore, ATP depletion, and massive CENTRILOBULAR (ZONE 3) HEPATOCYTE NECROSIS. Zone 3 is selectively damaged because it has the highest concentration of CYP2E1 and lowest baseline glutathione. Acetaminophen overdose -> Glucuronidation/sulfation saturated -> CYP2E1 generates NAPQI -> Glutathione depleted -> Zone 3 centrilobular hepatic necrosis.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acetaminophen Hepatotoxicity CYP2E1 NAPQI and N-Acetylcysteine.",
+    "keyPoints": [
+      "Acetaminophen Hepatotoxicity CYP2E1 NAPQI and N-Acetylcysteine",
+      "Acetaminophen overdose -> Glucuronidation/sulfation saturated -> CYP2E1 generates NAPQI -> Glutathione depleted -> Zone 3 centrilobular hepatic necrosis."
+    ],
+    "references": [
+      {
+        "label": "Larson AM. Acetaminophen hepatotoxicity. Clin Liver Dis. 2007;11(3):525-548. PMID: 17723918.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17723918/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0745",
+    "exam": "Step 1",
+    "subject": "Neurology",
+    "system": "General Principles",
+    "topic": "Brown-Sequard Syndrome Spinal Cord Hemisection Tract Topography",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old man is brought to the trauma center after sustaining a knife stab wound to the middle thoracic back. Neurological examination reveals complete loss of voluntary motor function and spastic weakness in the right lower extremity, accompanied by a right-sided Babinski sign and hyperactive right patellar reflex. Sensory testing demonstrates: (1) Complete loss of vibration sense, light touch, and joint proprioception in the right lower extremity up to the level of the T8 dermatome. (2) Complete loss of pain and temperature sensation in the left lower extremity starting at the T10 dermatome and extending downwards. Pain and temperature sensation on the right side is completely intact below T8. Which of the following spinal cord lesions accounts for this constellation of neurological findings?",
+    "options": [
+      {
+        "text": "Left-sided spinal cord hemisection at the T10 level",
+        "correct": false,
+        "explanation": "A left-sided hemisection at T10 would produce left-sided motor weakness and left-sided vibration loss, with right-sided pain/temperature loss."
+      },
+      {
+        "text": "Complete spinal cord transection at the T8 level",
+        "correct": false,
+        "explanation": "Complete transection produces bilateral loss of motor function and bilateral loss of all sensory modalities below T8."
+      },
+      {
+        "text": "Central cord syndrome involving the anterior white commissure from T8 to T10",
+        "correct": false,
+        "explanation": "Central cord syndrome (or syringomyelia) produces bilateral suspended loss of pain/temperature in a cape-like or girdle distribution, sparing dorsal columns."
+      },
+      {
+        "text": "Anterior spinal artery thrombosis producing bilateral anterior horn and spinothalamic infarction",
+        "correct": false,
+        "explanation": "Anterior spinal artery syndrome causes bilateral motor paralysis and bilateral loss of pain/temperature with preserved dorsal column vibration/proprioception."
+      },
+      {
+        "text": "Right-sided spinal cord hemisection at the T8 level",
+        "correct": true,
+        "explanation": "This patient presents with Brown-Séquard syndrome (spinal cord hemisection), here involving the RIGHT hemicord at the T8 level. The distinctive neuroanatomical pattern arises from the differing decussation levels of the major spinal tracts: (1) LATERAL CORTICOSPINAL TRACT: Upper motor neuron fibers decussate in the medullary pyramids; therefore, a right T8 lesion produces IPSILATERAL (right-sided) spastic paralysis, hyperreflexia, and Babinski sign below the lesion level. (2) DORSAL COLUMN-MEDIAL LEMNISCUS (fasciculus gracilis): First-order sensory axons ascend ipsilaterally in the cord without decussating until the medullary gracile nucleus; therefore, a right T8 lesion produces IPSILATERAL (right-sided) loss of vibration, conscious proprioception, and fine touch below T8. (3) LATERAL SPINOTHALAMIC TRACT: Second-order axons decussate in the anterior white commissure 1 to 2 spinal segments above their entry level; therefore, a right T8 hemisection disrupts ascending crossed fibers that originated from the LEFT side of the body, causing CONTRALATERAL (left-sided) loss of pain and temperature sensation beginning 1 to 2 dermatomes below the lesion (at T10)."
+      }
+    ],
+    "explanation": "This patient presents with Brown-Séquard syndrome (spinal cord hemisection), here involving the RIGHT hemicord at the T8 level. The distinctive neuroanatomical pattern arises from the differing decussation levels of the major spinal tracts: (1) LATERAL CORTICOSPINAL TRACT: Upper motor neuron fibers decussate in the medullary pyramids; therefore, a right T8 lesion produces IPSILATERAL (right-sided) spastic paralysis, hyperreflexia, and Babinski sign below the lesion level. (2) DORSAL COLUMN-MEDIAL LEMNISCUS (fasciculus gracilis): First-order sensory axons ascend ipsilaterally in the cord without decussating until the medullary gracile nucleus; therefore, a right T8 lesion produces IPSILATERAL (right-sided) loss of vibration, conscious proprioception, and fine touch below T8. (3) LATERAL SPINOTHALAMIC TRACT: Second-order axons decussate in the anterior white commissure 1 to 2 spinal segments above their entry level; therefore, a right T8 hemisection disrupts ascending crossed fibers that originated from the LEFT side of the body, causing CONTRALATERAL (left-sided) loss of pain and temperature sensation beginning 1 to 2 dermatomes below the lesion (at T10). Hemisection at right T8 = Ipsilateral (right) motor and vibration loss + Contralateral (left) pain/temp loss starting 1-2 levels below (T10).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Brown-Sequard Syndrome Spinal Cord Hemisection Tract Topography.",
+    "keyPoints": [
+      "Brown-Sequard Syndrome Spinal Cord Hemisection Tract Topography",
+      "Hemisection at right T8 = Ipsilateral (right) motor and vibration loss + Contralateral (left) pain/temp loss starting 1-2 levels below (T10)."
+    ],
+    "references": [
+      {
+        "label": "Tattersall R, Turner B. Brown-Sequard and his syndrome. Lancet. 2005;365(9466):1276-1278. PMID: 15811462.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15811462/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0746",
+    "exam": "Step 1",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Multiple Endocrine Neoplasia Type 1 vs Type 2A/2B Tumor Genetics",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old man presents with recurrent renal calculi and persistent epigastric pain. Laboratory studies reveal: serum calcium 11.8 mg/dL, intact parathyroid hormone (PTH) 142 pg/mL (normal 15-65 pg/mL), serum phosphate 2.1 mg/dL, and fasting serum gastrin 890 pg/mL with multiple refractory duodenal ulcers on endoscopy. Pituitary MRI reveals a 1.2-cm prolactin-secreting pituitary macroadenoma. Genetic testing confirms an inactivating germline mutation in the MEN1 gene on chromosome 11q13 encoding the menin protein. In contrast, his maternal cousin was recently diagnosed with medullary thyroid carcinoma and bilateral pheochromocytomas secondary to a mutation in the RET gene. Which of the following genetic principles correctly contrasts the molecular function of the mutated genes in these two related syndromes?",
+    "options": [
+      {
+        "text": "MEN1 is a classical tumor suppressor gene following Knudson's two-hit hypothesis (loss-of-function), whereas RET is a proto-oncogene encoding a receptor tyrosine kinase activated by gain-of-function mutations",
+        "correct": true,
+        "explanation": "MULTIPLE ENDOCRINE NEOPLASIA (MEN) syndromes are autosomal dominant disorders with distinct genetic mechanisms: (1) MEN TYPE 1 (Wermer syndrome; '3 Ps': Parathyroid adenomas/hyperplasia [95%], Pancreatic neuroendocrine tumors [gastrinoma, insulinoma], and Pituitary adenomas [prolactinoma]) is caused by inactivating mutations in the MEN1 TUMOR SUPPRESSOR GENE on chromosome 11q13. MEN1 encodes MENIN, a nuclear scaffold protein that regulates gene transcription and cell cycle checkpoints. Tumorigenesis requires 'two hits' (Knudson hypothesis): an inherited germline loss-of-function mutation followed by acquired somatic loss of heterozygosity (LOH) in target endocrine tissue. (2) MEN TYPE 2 (MEN 2A and 2B) is caused by GAIN-OF-FUNCTION missense mutations in the RET PROTO-ONCOGENE on chromosome 10q11. RET encodes a transmembrane receptor tyrosine kinase for glial cell line-derived neurotrophic factor (GDNF). Activating mutations trigger constitutive, ligand-independent dimerization and kinase signaling, driving medullary thyroid carcinoma (calcitonin-secreting C-cells) and pheochromocytoma."
+      },
+      {
+        "text": "MEN1 is an activated oncogene encoding an intracellular serine-threonine kinase, whereas RET is a classic DNA mismatch repair tumor suppressor gene",
+        "correct": false,
+        "explanation": "MEN1 is a tumor suppressor gene (loss-of-function), not an activated oncogene; RET is an oncogene (gain-of-function), not a DNA mismatch repair gene."
+      },
+      {
+        "text": "Both MEN1 and RET are tumor suppressor genes that require homozygous somatic loss of heterozygosity to initiate neoplastic transformation",
+        "correct": false,
+        "explanation": "RET is a proto-oncogene; a single gain-of-function missense mutation in one allele is sufficient to induce oncogenic transformation without loss of heterozygosity."
+      },
+      {
+        "text": "Both MEN1 and RET are proto-oncogenes activated by chromosomal translocations that juxtapose their promoters to immunoglobulin heavy-chain enhancers",
+        "correct": false,
+        "explanation": "Neither MEN1 nor RET is activated by immunoglobulin translocations (which occurs in Burkitt lymphoma t(8;14) or follicular lymphoma t(14;18))."
+      },
+      {
+        "text": "MEN1 mutation causes constitutive activation of the Gs-alpha subunit, while RET mutation causes loss of intracellular GTPase-activating protein",
+        "correct": false,
+        "explanation": "Gs-alpha mutation causes McCune-Albright syndrome, not MEN1; RET is a receptor tyrosine kinase, not a GAP protein."
+      }
+    ],
+    "explanation": "MULTIPLE ENDOCRINE NEOPLASIA (MEN) syndromes are autosomal dominant disorders with distinct genetic mechanisms: (1) MEN TYPE 1 (Wermer syndrome; '3 Ps': Parathyroid adenomas/hyperplasia [95%], Pancreatic neuroendocrine tumors [gastrinoma, insulinoma], and Pituitary adenomas [prolactinoma]) is caused by inactivating mutations in the MEN1 TUMOR SUPPRESSOR GENE on chromosome 11q13. MEN1 encodes MENIN, a nuclear scaffold protein that regulates gene transcription and cell cycle checkpoints. Tumorigenesis requires 'two hits' (Knudson hypothesis): an inherited germline loss-of-function mutation followed by acquired somatic loss of heterozygosity (LOH) in target endocrine tissue. (2) MEN TYPE 2 (MEN 2A and 2B) is caused by GAIN-OF-FUNCTION missense mutations in the RET PROTO-ONCOGENE on chromosome 10q11. RET encodes a transmembrane receptor tyrosine kinase for glial cell line-derived neurotrophic factor (GDNF). Activating mutations trigger constitutive, ligand-independent dimerization and kinase signaling, driving medullary thyroid carcinoma (calcitonin-secreting C-cells) and pheochromocytoma. MEN1 = 3 Ps (Parathyroid, Pancreas, Pituitary) -> MEN1 tumor suppressor (two-hit loss of function). MEN2 = Medullary thyroid, Pheo -> RET oncogene (gain of function).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Multiple Endocrine Neoplasia Type 1 vs Type 2A/2B Tumor Genetics.",
+    "keyPoints": [
+      "Multiple Endocrine Neoplasia Type 1 vs Type 2A/2B Tumor Genetics",
+      "MEN1 = 3 Ps (Parathyroid, Pancreas, Pituitary) -> MEN1 tumor suppressor (two-hit loss of function). MEN2 = Medullary thyroid, Pheo -> RET oncogene (gain of function)."
+    ],
+    "references": [
+      {
+        "label": "Thakker RV. Multiple endocrine neoplasia type 1 (MEN1) and type 4 (MEN4). Mol Cell Endocrinol. 2014;386(1-2):2-15. PMID: 24333547.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24333547/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0747",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Hematology",
+    "topic": "Factor V Leiden Resistance to Activated Protein C Cleavage",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 28-year-old Caucasian woman presents with acute pain and swelling in her left calf 10 days after starting an oral contraceptive pill. Duplex ultrasound confirms an extensive occlusive deep venous thrombosis in the left common femoral and popliteal veins. Her family history is significant for a pulmonary embolism in her mother at age 34 and an unprovoked DVT in her maternal uncle. Coagulation profile shows: PT and PTT within normal limits. In an activated protein C (APC) resistance assay, the patient's PTT fails to prolong normally upon the addition of exogenous activated protein C. Genetic testing confirms a heterozygous missense mutation in the F5 gene (G1691A). Which of the following molecular alterations is responsible for this patient's hereditary thrombophilia?",
+    "options": [
+      {
+        "text": "Point mutation in the 3' untranslated region (G20210A) of the prothrombin gene causing excessive mRNA translation",
+        "correct": false,
+        "explanation": "Prothrombin G20210A mutation is the second most common inherited thrombophilia; it increases prothrombin mRNA synthesis, not resistance of Factor V to APC cleavage."
+      },
+      {
+        "text": "Substitution of glutamine for arginine at position 506 (Arg506Gln) eliminating the primary proteolytic cleavage site for activated Protein C",
+        "correct": true,
+        "explanation": "FACTOR V LEIDEN is the most common inherited cause of venous thromboembolism in Caucasians (~5% carrier frequency). It is caused by a single point mutation in the F5 gene: a guanine-to-adenine substitution at nucleotide 1691 (G1691A), which substitutes GLUTAMINE FOR ARGININE AT CODON 506 (Arg506Gln). In normal hemostasis, Activated Protein C (APC), in complex with its cofactor Protein S, cleaves and inactivates procoagulant Activated Factor V (FVa) at Arg506. The Arg506Gln mutation removes this primary cleavage target, rendering mutated Factor Va resistant to inactivation by APC (ACTIVATED PROTEIN C RESISTANCE). Mutated Factor Va persists in circulation, driving continuous conversion of prothrombin to thrombin by the prothrombinase complex, generating a hypercoagulable state with high risk of recurrent deep venous thrombosis and pulmonary embolism, especially when combined with oral contraceptives or pregnancy."
+      },
+      {
+        "text": "Nonsense mutation in the antithrombin III gene preventing covalent binding and clearance of thrombin",
+        "correct": false,
+        "explanation": "Antithrombin III deficiency causes severe thrombophilia with heparin resistance, not selective APC resistance at Factor V codon 506."
+      },
+      {
+        "text": "Homozygous deletion of the endothelial thrombomodulin receptor halting activation of Protein C",
+        "correct": false,
+        "explanation": "Thrombomodulin binds thrombin to activate Protein C; in Factor V Leiden, Protein C is normally activated, but Factor V cannot be cleaved."
+      },
+      {
+        "text": "Autoantibodies directed against phospholipid-bound beta-2-glycoprotein I causing in vitro PTT prolongation",
+        "correct": false,
+        "explanation": "Antiphospholipid syndrome is an acquired autoimmune thrombophilia with lupus anticoagulant (prolonged baseline PTT in vitro), not an inherited Arg506Gln mutation."
+      }
+    ],
+    "explanation": "FACTOR V LEIDEN is the most common inherited cause of venous thromboembolism in Caucasians (~5% carrier frequency). It is caused by a single point mutation in the F5 gene: a guanine-to-adenine substitution at nucleotide 1691 (G1691A), which substitutes GLUTAMINE FOR ARGININE AT CODON 506 (Arg506Gln). In normal hemostasis, Activated Protein C (APC), in complex with its cofactor Protein S, cleaves and inactivates procoagulant Activated Factor V (FVa) at Arg506. The Arg506Gln mutation removes this primary cleavage target, rendering mutated Factor Va resistant to inactivation by APC (ACTIVATED PROTEIN C RESISTANCE). Mutated Factor Va persists in circulation, driving continuous conversion of prothrombin to thrombin by the prothrombinase complex, generating a hypercoagulable state with high risk of recurrent deep venous thrombosis and pulmonary embolism, especially when combined with oral contraceptives or pregnancy. Recurrent DVT + failure of PTT to prolong with APC = Factor V Leiden -> Arg506Gln missense mutation eliminates APC cleavage site.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Factor V Leiden Resistance to Activated Protein C Cleavage.",
+    "keyPoints": [
+      "Factor V Leiden Resistance to Activated Protein C Cleavage",
+      "Recurrent DVT + failure of PTT to prolong with APC = Factor V Leiden -> Arg506Gln missense mutation eliminates APC cleavage site."
+    ],
+    "references": [
+      {
+        "label": "Castoldi E, Rosing J. APC resistance: biological basis and detection. Semin Thromb Hemost. 2010;36(2):126-140. PMID: 20414828.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20414828/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0748",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Opioid Withdrawal Adenylate Cyclase Superactivation Rebound",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old man with chronic opioid use disorder presents to the emergency department in intense distress 18 hours after his last dose of heroin. He complains of diffuse abdominal cramping, severe muscle aches, diarrhea, and nausea. On physical examination, he is agitated and diaphoresis is noted. Vital signs: blood pressure 152/94 mm Hg, heart rate 118/min, and respirations 22/min. Physical examination demonstrates marked bilateral pupillary dilation (mydriasis), piloerection ('goosebumps'), rhinorrhea, lacrimation, and hyperactive bowel sounds. Which of the following intracellular signaling adaptations directly accounts for the massive autonomic hyperactivity observed during acute opioid withdrawal?",
+    "options": [
+      {
+        "text": "Permanent inactivation of the vesicular monoamine transporter 2 (VMAT2) causing vesicular dopamine depletion",
+        "correct": false,
+        "explanation": "VMAT2 inhibition is the mechanism of tetrabenazine and reserpine, causing parkinsonism and depression, not opioid withdrawal hyperactivity."
+      },
+      {
+        "text": "Direct block of postsynaptic muscarinic M3 receptors in gastrointestinal smooth muscle",
+        "correct": false,
+        "explanation": "Muscarinic blockade produces constipation and urinary retention, whereas opioid withdrawal causes hyperactive bowel sounds and diarrhea."
+      },
+      {
+        "text": "Upregulation and superactivation of adenylate cyclase following abrupt removal of chronic Gi-coupled mu-opioid receptor inhibition",
+        "correct": true,
+        "explanation": "Opioid agonists (heroin, morphine, methadone) bind to Gi-protein-coupled MU-OPIOID RECEPTORS. Gi activation acutely inhibits adenylate cyclase, reduces intracellular cAMP, closes presynaptic N-type voltage-gated calcium channels (inhibiting neurotransmitter release), and opens postsynaptic G-protein-coupled inwardly rectifying potassium (GIRK) channels (hyperpolarizing neurons and suppressing noradrenergic output in the locus coeruleus). With CHRONIC opioid exposure, homeostatic tolerance occurs: neurons upregulate adenylate cyclase, protein kinase A (PKA), and CREB to restore baseline cAMP levels. When the opioid is ABRUPTLY WITHDRAWN, the tonic Gi inhibition is suddenly lifted, unmasking a massive SUPERACTIVATION OF ADENYLATE CYCLASE. This causes runaway intracellular cAMP surges and excessive noradrenergic firing from the locus coeruleus, producing the severe autonomic hyperactivity of withdrawal (tachycardia, hypertension, mydriasis, diaphoresis, diarrhea, piloerection). Clonidine (alpha-2 agonist) relieves withdrawal by restoring Gi-mediated adenylate cyclase inhibition."
+      },
+      {
+        "text": "Constitutive opening of gamma-aminobutyric acid type A (GABA-A) chloride channels in the locus coeruleus",
+        "correct": false,
+        "explanation": "GABA-A opening causes central nervous system sedation and depression (the mechanism of benzodiazepines), the opposite of withdrawal hyperactivity."
+      },
+      {
+        "text": "Autoantibodies directed against presynaptic alpha-2 adrenergic receptors blocking negative feedback",
+        "correct": false,
+        "explanation": "Opioid withdrawal is an intracellular neuroadaptive signaling phenomenon (cAMP rebound), not an autoimmune receptor disease."
+      }
+    ],
+    "explanation": "Opioid agonists (heroin, morphine, methadone) bind to Gi-protein-coupled MU-OPIOID RECEPTORS. Gi activation acutely inhibits adenylate cyclase, reduces intracellular cAMP, closes presynaptic N-type voltage-gated calcium channels (inhibiting neurotransmitter release), and opens postsynaptic G-protein-coupled inwardly rectifying potassium (GIRK) channels (hyperpolarizing neurons and suppressing noradrenergic output in the locus coeruleus). With CHRONIC opioid exposure, homeostatic tolerance occurs: neurons upregulate adenylate cyclase, protein kinase A (PKA), and CREB to restore baseline cAMP levels. When the opioid is ABRUPTLY WITHDRAWN, the tonic Gi inhibition is suddenly lifted, unmasking a massive SUPERACTIVATION OF ADENYLATE CYCLASE. This causes runaway intracellular cAMP surges and excessive noradrenergic firing from the locus coeruleus, producing the severe autonomic hyperactivity of withdrawal (tachycardia, hypertension, mydriasis, diaphoresis, diarrhea, piloerection). Clonidine (alpha-2 agonist) relieves withdrawal by restoring Gi-mediated adenylate cyclase inhibition. Opioid withdrawal = Mydriasis + piloerection + diarrhea + tachycardia -> Chronic Gi tolerance unmasked by abrupt cessation -> Adenylate cyclase cAMP surge in locus coeruleus.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Opioid Withdrawal Adenylate Cyclase Superactivation Rebound.",
+    "keyPoints": [
+      "Opioid Withdrawal Adenylate Cyclase Superactivation Rebound",
+      "Opioid withdrawal = Mydriasis + piloerection + diarrhea + tachycardia -> Chronic Gi tolerance unmasked by abrupt cessation -> Adenylate cyclase cAMP surge in locus coeruleus."
+    ],
+    "references": [
+      {
+        "label": "Williams JT, Christie MJ, Manzoni O. Cellular and synaptic adaptations mediating opioid dependence. Physiol Rev. 2001;81(1):299-343. PMID: 11152760.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11152760/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0749",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Listeria monocytogenes Actin Rocket Motility and Cell-to-Cell Spread",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old renal transplant recipient on chronic immunosuppressive therapy with tacrolimus, mycophenolate mofetil, and prednisone presents with high fever, headache, photophobia, and altered mental status. Physical examination reveals nuchal rigidity and confusion. Lumbar puncture demonstrates cloudy cerebrospinal fluid with an opening pressure of 260 mm H2O, WBC 1,200/microL with 88% neutrophils, protein 180 mg/dL, and glucose 24 mg/dL. CSF Gram stain reveals intracellular and extracellular Gram-positive coccobacilli. The organism exhibits tumbling motility at 25 C and produces narrow zones of beta-hemolysis on sheep blood agar. Following entry into host macrophages, the bacterium utilizes a surface protein (ActA) to propel itself through the host cytoplasm and directly invade adjacent cells. Which of the following host cytoskeletal proteins is recruited and nucleated by this bacterial factor to achieve intracellular motility?",
+    "options": [
+      {
+        "text": "Microtubule alpha/beta-tubulin heterodimers polymerizing into dynein-dependent retrograde transport tracks",
+        "correct": false,
+        "explanation": "Microtubules and dynein/kinesin mediate viral retrograde transport (e.g., rabies, herpes simplex), not Listeria actin-based propulsion."
+      },
+      {
+        "text": "Keratin intermediate filaments forming stable desmosomal anchoring plaques",
+        "correct": false,
+        "explanation": "Intermediate filaments provide structural tensile strength and do not form dynamic propulsion comet tails."
+      },
+      {
+        "text": "Clathrin triskelions assembling into endocytic transport vesicles at the trans-Golgi network",
+        "correct": false,
+        "explanation": "Clathrin coats endocytic vesicles for receptor-mediated endocytosis; it does not generate intracellular motility rockets."
+      },
+      {
+        "text": "Host G-actin monomers polymerized into filamentous F-actin comet tails via recruitment of the Arp2/3 complex",
+        "correct": true,
+        "explanation": "Listeria monocytogenes is a facultative intracellular, foodborne Gram-positive rod capable of causing life-threatening meningitis and bacteremia in neonates, pregnant women, and cell-mediated immunocompromised hosts (e.g., organ transplants). After ingestion (unpasteurized dairy, deli meats), Listeria enters host epithelial cells and macrophages via internalins (InlA/InlB). Inside the phagolysosome, it secretes LISTERIOLYSIN O (a pore-forming cytolysin) and phospholipases to escape into the cytosol before lysosomal degradation. In the host cytoplasm, Listeria expresses the surface protein ActA on one bacterial pole. ActA binds and activates the host cell ARP2/3 COMPLEX and neural Wiskott-Aldrich syndrome protein (N-WASP), driving rapid polymerization of host G-ACTIN into FILAMENTOUS F-ACTIN 'COMET TAILS' ('actin rockets'). This actin rocket pushes the bacterium against the host plasma membrane, forming pseudopod-like protrusions (listeriopods) that are engulfed by neighboring cells, allowing cell-to-cell spread WITHOUT entering the extracellular space, completely shielding the pathogen from circulating humoral antibodies."
+      },
+      {
+        "text": "Myosin heavy-chain cross-bridges generating sliding filament contractions along microfilaments",
+        "correct": false,
+        "explanation": "Listeria movement is driven purely by the physical force of actin polymerization (monomer addition at the barbed end), not ATP-dependent myosin motor stepping."
+      }
+    ],
+    "explanation": "Listeria monocytogenes is a facultative intracellular, foodborne Gram-positive rod capable of causing life-threatening meningitis and bacteremia in neonates, pregnant women, and cell-mediated immunocompromised hosts (e.g., organ transplants). After ingestion (unpasteurized dairy, deli meats), Listeria enters host epithelial cells and macrophages via internalins (InlA/InlB). Inside the phagolysosome, it secretes LISTERIOLYSIN O (a pore-forming cytolysin) and phospholipases to escape into the cytosol before lysosomal degradation. In the host cytoplasm, Listeria expresses the surface protein ActA on one bacterial pole. ActA binds and activates the host cell ARP2/3 COMPLEX and neural Wiskott-Aldrich syndrome protein (N-WASP), driving rapid polymerization of host G-ACTIN into FILAMENTOUS F-ACTIN 'COMET TAILS' ('actin rockets'). This actin rocket pushes the bacterium against the host plasma membrane, forming pseudopod-like protrusions (listeriopods) that are engulfed by neighboring cells, allowing cell-to-cell spread WITHOUT entering the extracellular space, completely shielding the pathogen from circulating humoral antibodies. Listeria = Tumbling motility + Gram-positive rod + meningitis in immunocompromised -> ActA recruits host Arp2/3 to polymerize F-actin rockets for cell-to-cell spread.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Listeria monocytogenes Actin Rocket Motility and Cell-to-Cell Spread.",
+    "keyPoints": [
+      "Listeria monocytogenes Actin Rocket Motility and Cell-to-Cell Spread",
+      "Listeria = Tumbling motility + Gram-positive rod + meningitis in immunocompromised -> ActA recruits host Arp2/3 to polymerize F-actin rockets for cell-to-cell spread."
+    ],
+    "references": [
+      {
+        "label": "Tilney LG, Portnoy DA. Actin filaments and the growth, movement, and spread of the intracellular parasite, Listeria monocytogenes. J Cell Biol. 1989;109(4 Pt 1):1597-1608. PMID: 2507553.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2507553/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0750",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Musculoskeletal",
+    "topic": "Duchenne vs Becker Dystrophy Reading Frame Rule and Molecular Pathogenesis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-year-old boy is evaluated for progressive proximal muscle weakness, frequent falling, and difficulty rising from the floor. His mother notes that he places his hands on his thighs and knees to push himself erect (positive Gowers sign). Physical examination shows bilateral pseudohypertrophy of the calf muscles and lumbar hyperlordosis. Serum creatine kinase is markedly elevated at 19,200 U/L. Multiplex ligation-dependent probe amplification (MLPA) of the dystrophin gene (DMD) demonstrates a genomic deletion spanning exons 45 through 50. In contrast, his 32-year-old maternal uncle experiences mild, adult-onset exertional leg cramping but remains ambulatory without assistance. Targeted genetic testing in the uncle reveals a deletion spanning exons 45 through 47 within the same DMD gene. Which of the following molecular mechanisms best accounts for the striking difference in clinical severity between the nephew and his uncle?",
+    "options": [
+      {
+        "text": "Alternative pre-mRNA splicing with inclusion of a cryptic pseudoexon versus skipped exon silencing by small nuclear ribonucleoproteins",
+        "correct": false,
+        "explanation": "Alternative splicing aberrations and cryptic pseudoexons can alter protein isoform expression, but they do not account for the allelic reading frame difference between Duchenne and Becker muscular dystrophy."
+      },
+      {
+        "text": "Paternal genomic imprinting of the homologous locus versus post-zygotic somatic mosaicism in early myogenic precursor cells",
+        "correct": false,
+        "explanation": "DMD is an X-linked recessive gene subject to maternal transmission, not paternal genomic imprinting; somatic mosaicism explains discordant twin manifestations or carrier females, not the distinct molecular phenotypes of allelic dystrophin deletions."
+      },
+      {
+        "text": "Expansion of an unstable non-coding trinucleotide repeat causing transcriptional silencing versus a single missense substitution in the actin-binding domain",
+        "correct": false,
+        "explanation": "Trinucleotide repeat expansions cause disorders such as myotonic dystrophy (CTG repeat in DMPK) and Fragile X syndrome (CGG in FMR1); dystrophinopathy is primarily caused by large intragenic genomic exon deletions."
+      },
+      {
+        "text": "Selective degradation of the dystrophin-associated glycoprotein complex by calcium-activated calpain proteases versus intact sarcolemmal linkage",
+        "correct": false,
+        "explanation": "Calpain-3 protease mutations cause autosomal recessive limb-girdle muscular dystrophy type 2A (calpainopathy), rather than explaining the differential severity of intragenic dystrophin deletions."
+      },
+      {
+        "text": "Disruption of the translational reading frame introducing a downstream premature termination codon versus maintenance of the reading frame generating an internally shortened protein",
+        "correct": true,
+        "explanation": "Duchenne (DMD) and Becker (BMD) muscular dystrophies are X-linked recessive allelic disorders caused by mutations in the dystrophin gene (DMD) on Xp21, the largest human gene (79 exons). Dystrophin is an essential structural cytoskeletal protein that anchors intracellular F-actin to the transmembrane dystrophin-glycoprotein complex (specifically beta-dystroglycan), bridging the sarcolemma to the extracellular matrix protein laminin-2. This structural link stabilizes the muscle sarcolemma during the mechanical stress of contraction. The fundamental molecular determinant of disease severity is the READING FRAME RULE: (1) In DUCHENNE muscular dystrophy (nephew with exons 45-50 deletion), the deletion alters the triplet codon reading frame (FRAMESHIFT / OUT-OF-FRAME DELETION). This shifts the translational phase and introduces a PREMATURE STOP CODON downstream. The resulting aberrant mRNA transcript is recognized by the cellular surveillance machinery and undergoes rapid nonsense-mediated decay, resulting in a COMPLETE ABSENCE OF FUNCTIONAL DYSTROPHIN (demonstrated by absent sarcolemmal immunohistochemistry and negative western blot). Contracting myofibers suffer sarcolemmal microtears, unregulated calcium influx, and progressive necrosis with fibrofatty replacement. (2) In BECKER muscular dystrophy (uncle with exons 45-47 deletion), the deletion removes a specific number of nucleotides divisible by three (IN-FRAME DELETION), which preserves the downstream translational triplet reading frame. This produces a truncated, INTERNALLY SHORTENED DYSTROPHIN PROTEIN of reduced molecular weight that retains essential N-terminal actin-binding and C-terminal dystroglycan-binding domains, conferring partial structural stability and a dramatically milder, ambulatory clinical phenotype."
+      }
+    ],
+    "explanation": "Duchenne (DMD) and Becker (BMD) muscular dystrophies are X-linked recessive allelic disorders caused by mutations in the dystrophin gene (DMD) on Xp21, the largest human gene (79 exons). Dystrophin is an essential structural cytoskeletal protein that anchors intracellular F-actin to the transmembrane dystrophin-glycoprotein complex (specifically beta-dystroglycan), bridging the sarcolemma to the extracellular matrix protein laminin-2. This structural link stabilizes the muscle sarcolemma during the mechanical stress of contraction. The fundamental molecular determinant of disease severity is the READING FRAME RULE: (1) In DUCHENNE muscular dystrophy (nephew with exons 45-50 deletion), the deletion alters the triplet codon reading frame (FRAMESHIFT / OUT-OF-FRAME DELETION). This shifts the translational phase and introduces a PREMATURE STOP CODON downstream. The resulting aberrant mRNA transcript is recognized by the cellular surveillance machinery and undergoes rapid nonsense-mediated decay, resulting in a COMPLETE ABSENCE OF FUNCTIONAL DYSTROPHIN (demonstrated by absent sarcolemmal immunohistochemistry and negative western blot). Contracting myofibers suffer sarcolemmal microtears, unregulated calcium influx, and progressive necrosis with fibrofatty replacement. (2) In BECKER muscular dystrophy (uncle with exons 45-47 deletion), the deletion removes a specific number of nucleotides divisible by three (IN-FRAME DELETION), which preserves the downstream translational triplet reading frame. This produces a truncated, INTERNALLY SHORTENED DYSTROPHIN PROTEIN of reduced molecular weight that retains essential N-terminal actin-binding and C-terminal dystroglycan-binding domains, conferring partial structural stability and a dramatically milder, ambulatory clinical phenotype. Exons 45-50 deletion = Frameshift with premature stop / absent dystrophin (Duchenne) vs Exons 45-47 deletion = In-frame internally shortened dystrophin (Becker).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Duchenne vs Becker Dystrophy Reading Frame Rule and Molecular Pathogenesis.",
+    "keyPoints": [
+      "Duchenne vs Becker Dystrophy Reading Frame Rule and Molecular Pathogenesis",
+      "Exons 45-50 deletion = Frameshift with premature stop / absent dystrophin (Duchenne) vs Exons 45-47 deletion = In-frame internally shortened dystrophin (Becker)."
+    ],
+    "references": [
+      {
+        "label": "Koenig M, Beggs AH, Moyer PE, et al. The molecular basis for Duchenne versus Becker muscular dystrophy: correlation of severity with type of deletion. Am J Hum Genet. 1989;45(4):498-506. PMID: 2679094.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2679094/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

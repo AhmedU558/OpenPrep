@@ -5,12 +5,26 @@ import { AppError } from './errors';
 import { renderMarkdown } from './markdown';
 import { schedule, type Rating } from './srs';
 import { deliverableQuestion, deliverableCard } from './content-rights';
+import type { Prisma } from '@/generated/prisma/client';
+import { recordPracticeReset, resolveUserActiveQuestionPools } from './practice-event-sequence';
+import { getDeliverableQuestion } from './question-revision';
 
 const id = z.string().min(1).max(64);
 
 async function publishedQuestion(questionId: string) {
+  const delivery = await getDeliverableQuestion(db, questionId);
+  if (!delivery.deliverable) throw new AppError('NOT_FOUND', delivery.reason ?? 'Question not found.');
   const q = await db.question.findFirst({ where: { id: questionId, ...deliverableQuestion }, select: { id: true, stemMd: true, objective: true, explanationMd: true, options: { where: { isCorrect: true }, select: { text: true } } } });
   if (!q) throw new AppError('NOT_FOUND', 'Question not found.');
+  if (delivery.isVersioned && delivery.snapshot) {
+    return {
+      id: q.id,
+      stemMd: delivery.snapshot.stemMd,
+      objective: delivery.snapshot.objective,
+      explanationMd: delivery.snapshot.explanationMd,
+      options: delivery.snapshot.options.filter((o) => o.isCorrect).map((o) => ({ text: o.text })),
+    };
+  }
   return q;
 }
 
@@ -147,4 +161,118 @@ export async function dueCards(userId: string, limit = 50) {
     db.cardReview.count({ where: { userId, reviewedAt: { gte: new Date(new Date().setHours(0, 0, 0, 0)) } } }),
   ]);
   return { due: due.map((c) => ({ ...c, frontHtml: renderMarkdown(c.front), backHtml: renderMarkdown(c.back) })), total, reviewedToday };
+}
+
+
+// ---------------- practice reset
+
+export const resetPracticeSchema = z.object({
+  scope: z.enum(['ALL', 'INCORRECT_ONLY', 'MARKED_ONLY', 'CUSTOM']),
+  subjectIds: z.array(id).max(100).default([]),
+  systemIds: z.array(id).max(100).default([]),
+  examIds: z.array(id).max(20).default([]),
+  topicIds: z.array(id).max(100).default([]),
+});
+export type ResetPracticeInput = z.infer<typeof resetPracticeSchema>;
+
+/**
+ * Executes a learner practice reset with strict transactional ordering:
+ * 1. Acquires authenticated user's UserPracticeState row lock (FOR UPDATE).
+ * 2. Resolves affected question IDs while holding that lock.
+ * 3. Computes pre-reset snapshot counts consistently.
+ * 4. Allocates exactly one event sequence number (incrementing lastEventSeq and activeResetSeq).
+ * 5. Inserts PRACTICE_RESET event and PracticeReset record in the same transaction.
+ * 6. Commits atomically.
+ * Resets do NOT delete or rewrite historical attempts or legacy Response records.
+ */
+export async function resetPractice(userId: string, rawInput: unknown) {
+  const input = resetPracticeSchema.parse(rawInput);
+  return db.$transaction(async (tx) => {
+    // 1. Acquire the authenticated user's UserPracticeState row lock
+    await tx.$executeRaw`
+      INSERT INTO "user_practice_state" ("userId", "lastEventSeq", "activeResetSeq", "updatedAt")
+      VALUES (${userId}, 0, 0, NOW())
+      ON CONFLICT ("userId") DO NOTHING
+    `;
+    const rows = await tx.$queryRaw<{ lastEventSeq: bigint | number | string; activeResetSeq: bigint | number | string }[]>`
+      SELECT "lastEventSeq", "activeResetSeq"
+      FROM "user_practice_state"
+      WHERE "userId" = ${userId}
+      FOR UPDATE
+    `;
+    const stateLock = rows[0];
+    if (!stateLock) {
+      throw new AppError('CONFLICT', 'Failed to acquire user practice state lock.');
+    }
+
+    // 2. Resolve affected question IDs while holding that lock
+    const pools = await resolveUserActiveQuestionPools(tx, userId);
+    let affectedQuestionIds: string[] = [];
+
+    if (input.scope === 'ALL') {
+      affectedQuestionIds = [];
+    } else if (input.scope === 'INCORRECT_ONLY') {
+      affectedQuestionIds = Array.from(new Set([...pools.activeIncorrect, ...pools.activeOmitted]));
+    } else if (input.scope === 'MARKED_ONLY') {
+      const bookmarks = await tx.bookmark.findMany({
+        where: { userId },
+        select: { questionId: true },
+      });
+      affectedQuestionIds = bookmarks
+        .map((b) => b.questionId)
+        .filter((qId) => pools.activeUsed.has(qId));
+    } else if (input.scope === 'CUSTOM') {
+      const where: Prisma.QuestionWhereInput = { ...deliverableQuestion };
+      if (input.examIds.length) where.examId = { in: input.examIds };
+      if (input.subjectIds.length) where.subjectId = { in: input.subjectIds };
+      if (input.systemIds.length) where.systemId = { in: input.systemIds };
+      if (input.topicIds.length) where.topicId = { in: input.topicIds };
+      const matched = await tx.question.findMany({
+        where,
+        select: { id: true },
+      });
+      affectedQuestionIds = matched
+        .map((q) => q.id)
+        .filter((qId) => pools.activeUsed.has(qId));
+    }
+
+    // 3. Compute pre-reset snapshot counts consistently
+    const affectedCount = input.scope === 'ALL' ? pools.activeUsed.size : affectedQuestionIds.length;
+    const snapshotCounts = {
+      totalAttempted: pools.activeUsed.size,
+      correct: pools.activeCorrect.size,
+      incorrect: pools.activeIncorrect.size,
+      omitted: pools.activeOmitted.size,
+      affectedCount,
+    };
+
+    // 4. Allocate exactly one event sequence number
+    const nextSeq = BigInt(stateLock.lastEventSeq) + 1n;
+    await tx.$executeRaw`
+      UPDATE "user_practice_state"
+      SET "lastEventSeq" = ${nextSeq},
+          "activeResetSeq" = ${nextSeq},
+          "updatedAt" = NOW()
+      WHERE "userId" = ${userId}
+    `;
+
+    // 5. Insert PRACTICE_RESET event and PracticeReset record in the same transaction
+    const res = await recordPracticeReset(
+      tx,
+      {
+        userId,
+        scope: input.scope,
+        affectedQuestionIds,
+        filterCriteria: input,
+        snapshotCounts,
+      },
+      nextSeq,
+    );
+
+    // 6. Commits atomically
+    return {
+      resetEventSeq: res.resetEventSeq,
+      reset: res.reset,
+    };
+  });
 }

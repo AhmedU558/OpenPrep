@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s1-0401",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "General Principles",
+    "topic": "GPCR Signal Transduction and Desensitization",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Cultured human bronchial smooth muscle cells are exposed to continuous, high-concentration isoproterenol in an in vitro pharmacologic assay. Intracellular cyclic AMP (cAMP) levels rise sharply, reaching a peak within 3 minutes, but then progressively decline toward baseline over the subsequent 45 minutes despite the constant presence of extracellular ligand. Biochemical analysis of the cell membrane reveals phosphorylation of serine and threonine residues located specifically on the carboxyl-terminal cytoplasmic tail of the beta-2 adrenergic receptor, followed by high-affinity binding of an intracellular cytosolic adapter protein that physically blocks interaction with Gs-alpha subunits and links the receptor to clathrin-coated pits. Which of the following proteins directly mediates this receptor uncoupling and initiates clathrin-dependent endocytosis?",
+    "options": [
+      {
+        "text": "Beta-arrestin",
+        "correct": true,
+        "explanation": "Continuous exposure of G-protein coupled receptors (GPCRs) like the beta-2 adrenergic receptor to agonists leads to homologous desensitization. The process involves two coordinated steps: (1) G-protein coupled receptor kinases (GRKs) phosphorylate serine and threonine residues on the intracellular carboxyl-terminal tail of the activated receptor. (2) Phosphorylation creates high-affinity binding sites for BETA-ARRESTIN. Beta-arrestin binding sterically hinders the receptor from interacting with heterotrimeric G-protein (Gs-alpha) subunits, rapidly terminating cAMP production. Furthermore, beta-arrestin functions as an adaptor protein that binds directly to clathrin and the AP-2 adaptor complex, targeting the desensitized receptor to clathrin-coated pits for internalization (endocytosis) into endosomes for either recycling or lysosomal degradation."
+      },
+      {
+        "text": "Phospholipase C-beta",
+        "correct": false,
+        "explanation": "Phospholipase C-beta is an effector enzyme activated by Gq-alpha that cleaves phosphatidylinositol 4,5-bisphosphate (PIP2) into IP3 and DAG, not an adapter that mediates GPCR endocytosis."
+      },
+      {
+        "text": "Adenylyl cyclase type V",
+        "correct": false,
+        "explanation": "Adenylyl cyclase is the membrane-bound effector enzyme activated by Gs-alpha to synthesize cAMP from ATP; it does not bind clathrin or mediate receptor internalization."
+      },
+      {
+        "text": "Regulator of G-protein signaling (RGS)",
+        "correct": false,
+        "explanation": "RGS proteins accelerate the intrinsic GTPase activity of G-alpha subunits (GAP function) to promote GTP hydrolysis to GDP, but they do not bind the carboxyl tail or clathrin-coated pits."
+      },
+      {
+        "text": "Protein phosphatase 2A",
+        "correct": false,
+        "explanation": "Protein phosphatase 2A dephosphorylates phosphoproteins; it reverses phosphorylation events rather than docking onto phosphorylated receptor tails to recruit clathrin."
+      }
+    ],
+    "explanation": "Continuous exposure of G-protein coupled receptors (GPCRs) like the beta-2 adrenergic receptor to agonists leads to homologous desensitization. The process involves two coordinated steps: (1) G-protein coupled receptor kinases (GRKs) phosphorylate serine and threonine residues on the intracellular carboxyl-terminal tail of the activated receptor. (2) Phosphorylation creates high-affinity binding sites for BETA-ARRESTIN. Beta-arrestin binding sterically hinders the receptor from interacting with heterotrimeric G-protein (Gs-alpha) subunits, rapidly terminating cAMP production. Furthermore, beta-arrestin functions as an adaptor protein that binds directly to clathrin and the AP-2 adaptor complex, targeting the desensitized receptor to clathrin-coated pits for internalization (endocytosis) into endosomes for either recycling or lysosomal degradation. Phosphorylation of GPCR carboxyl tail recruits beta-arrestin, which uncouples Gs-alpha and targets receptor to clathrin-coated pits for endocytosis.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of GPCR Signal Transduction and Desensitization.",
+    "keyPoints": [
+      "GPCR Signal Transduction and Desensitization",
+      "Phosphorylation of GPCR carboxyl tail recruits beta-arrestin, which uncouples Gs-alpha and targets receptor to clathrin-coated pits for endocytosis."
+    ],
+    "references": [
+      {
+        "label": "Lefkowitz RJ. Arrestins, GPCRs, and modern pharmacology. Physiology (Bethesda). 2013;28(1):9-13. PMID: 23280178.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23280178/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0402",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "General Principles",
+    "topic": "Receptor Tyrosine Kinase Downstream Cascades",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "An experimental peptide growth factor binds to an extracellular cell-surface receptor on vascular endothelial cells, triggering rapid receptor dimerization and autophosphorylation of intracellular tyrosine residues. An adapter protein containing an SH2 domain docks onto the phosphorylated receptor and recruits a lipid kinase that phosphorylates phosphatidylinositol 4,5-bisphosphate (PIP2) at the 3-position of the inositol ring. The resulting lipid second messenger recruits a cytosolic serine/threonine protein kinase to the inner leaflet of the plasma membrane via its pleckstrin homology (PH) domain, leading to kinase activation and downstream inhibition of the pro-apoptotic protein BAD. Which of the following downstream enzymes is directly activated by this signaling cascade to promote protein synthesis and cell survival?",
+    "options": [
+      {
+        "text": "Glycogen synthase kinase-3 beta (GSK-3beta)",
+        "correct": false,
+        "explanation": "Akt phosphorylates and INACTIVATES GSK-3beta (inhibition of an inhibitor); GSK-3beta is not activated to promote cell survival."
+      },
+      {
+        "text": "Mechanistic target of rapamycin complex 1 (mTORC1)",
+        "correct": true,
+        "explanation": "Receptor tyrosine kinase (RTK) stimulation activates the PI3K-Akt signaling axis: (1) Receptor autophosphorylation recruits Phosphoinositide 3-kinase (PI3K) via its SH2 domain. (2) PI3K phosphorylates PIP2 to generate Phosphatidylinositol 3,4,5-trisphosphate (PIP3). (3) PIP3 anchors both Phosphoinositide-dependent kinase 1 (PDK1) and Protein Kinase B (Akt) to the membrane via their Pleckstrin Homology (PH) domains, allowing PDK1 to phosphorylate and activate Akt. (4) Activated Akt phosphorylates and inactivates the tuberous sclerosis complex (TSC1/TSC2), which relieves inhibition on Rheb-GTP, leading to direct activation of mTORC1 (mechanistic target of rapamycin complex 1). mTORC1 phosphorylates S6K and 4E-BP1 to drive ribosomal translation, cell growth, and survival, while Akt directly phosphorylates and inhibits the pro-apoptotic Bcl-2 family member BAD."
+      },
+      {
+        "text": "Caspase-3 executioner protease",
+        "correct": false,
+        "explanation": "Caspase-3 is an executioner protease of the apoptotic cascade; Akt signaling actively blocks apoptosis by inhibiting BAD and caspase-9."
+      },
+      {
+        "text": "Forkhead box protein O1 (FOXO1) transcription factor",
+        "correct": false,
+        "explanation": "Akt phosphorylates FOXO transcription factors, creating binding sites for 14-3-3 chaperone proteins that sequester FOXO in the cytoplasm, preventing pro-apoptotic transcription."
+      },
+      {
+        "text": "Guanylyl cyclase B",
+        "correct": false,
+        "explanation": "Guanylyl cyclase B is a transmembrane natriuretic peptide receptor that synthesizes cGMP from GTP, independent of the PI3K-Akt-mTOR survival axis."
+      }
+    ],
+    "explanation": "Receptor tyrosine kinase (RTK) stimulation activates the PI3K-Akt signaling axis: (1) Receptor autophosphorylation recruits Phosphoinositide 3-kinase (PI3K) via its SH2 domain. (2) PI3K phosphorylates PIP2 to generate Phosphatidylinositol 3,4,5-trisphosphate (PIP3). (3) PIP3 anchors both Phosphoinositide-dependent kinase 1 (PDK1) and Protein Kinase B (Akt) to the membrane via their Pleckstrin Homology (PH) domains, allowing PDK1 to phosphorylate and activate Akt. (4) Activated Akt phosphorylates and inactivates the tuberous sclerosis complex (TSC1/TSC2), which relieves inhibition on Rheb-GTP, leading to direct activation of mTORC1 (mechanistic target of rapamycin complex 1). mTORC1 phosphorylates S6K and 4E-BP1 to drive ribosomal translation, cell growth, and survival, while Akt directly phosphorylates and inhibits the pro-apoptotic Bcl-2 family member BAD. PIP2 -> PIP3 via PI3K recruits Akt via PH domain, which phosphorylates TSC2/Rheb to activate mTORC1 and promote cell growth/survival.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Receptor Tyrosine Kinase Downstream Cascades.",
+    "keyPoints": [
+      "Receptor Tyrosine Kinase Downstream Cascades",
+      "PIP2 -> PIP3 via PI3K recruits Akt via PH domain, which phosphorylates TSC2/Rheb to activate mTORC1 and promote cell growth/survival."
+    ],
+    "references": [
+      {
+        "label": "Manning BD, Toker A. AKT/PKB Signaling: Navigating the Network. Cell. 2017;169(3):381-405. PMID: 28431241.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28431241/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0403",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Hematology",
+    "topic": "JAK-STAT Signaling in Myeloproliferative Neoplasms",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 58-year-old man presents with persistent pruritus that worsens dramatically after warm baths, intermittent headache, and painful erythema of his palms and soles (erythromelalgia). Physical examination reveals a plethoric facies and splenomegaly extending 4 cm below the left costal margin. Laboratory studies reveal a hematocrit of 62%, platelet count of 540,000/mm3, and white blood cell count of 14,200/mm3. Serum erythropoietin concentration is undetectable (< 1 mIU/mL). Bone marrow biopsy reveals trilineage panmyelosis. Genetic sequencing reveals a point mutation substituting phenylalanine for valine at position 617 within the pseudokinase regulatory domain of an intracellular non-receptor tyrosine kinase. Which of the following biochemical events directly results from this specific genetic alteration?",
+    "options": [
+      {
+        "text": "Constitutive GTP loading on Ras resulting in continuous Raf-MEK-ERK mitogen signaling",
+        "correct": false,
+        "explanation": "Constitutive Ras GTP-loading occurs with KRAS/NRAS mutations (loss of intrinsic GTPase activity), not JAK2 pseudokinase point mutations."
+      },
+      {
+        "text": "Enhanced binding of the von Hippel-Lindau (VHL) E3 ubiquitin ligase to hypoxia-inducible factor 1-alpha",
+        "correct": false,
+        "explanation": "VHL binds hydroxylated HIF-1alpha to target it for proteasomal degradation under normoxia; increased VHL binding would suppress erythropoiesis, not cause polycythemia."
+      },
+      {
+        "text": "Loss of autoinhibitory control leading to constitutive kinase phosphorylation and downstream STAT transcription factor dimerization",
+        "correct": true,
+        "explanation": "The patient has polycythemia vera, a classic myeloproliferative neoplasm driven in >95% of cases by the JAK2 V617F mutation. Erythropoietin, thrombopoietin, and G-CSF signal through cytokine receptors that lack intrinsic enzymatic activity and instead rely on the Janus kinase 2 (JAK2) non-receptor tyrosine kinase. JAK2 possesses a catalytic kinase domain (JH1) and an adjacent pseudokinase regulatory domain (JH2). Under normal conditions, the JH2 pseudokinase domain exerts an AUTOINHIBITORY effect that keeps the JH1 catalytic domain quiescent in the absence of ligand binding. The V617F mutation within the JH2 domain disrupts this autoinhibition, producing constitutive, ligand-independent JAK2 tyrosine phosphorylation. Activated JAK2 then phosphorylates cytoplasmic STAT (signal transducers and activators of transcription) proteins, inducing STAT SH2-domain-mediated dimerization, nuclear translocation, and unbridled transcription of erythroid survival genes despite undetectable serum erythropoietin."
+      },
+      {
+        "text": "Impaired intrinsic GTP hydrolysis by heterotrimeric Gs-alpha subunits leading to continuous adenylyl cyclase activation",
+        "correct": false,
+        "explanation": "Constitutive Gs-alpha activation occurs in McCune-Albright syndrome (GNAS mutation), not polycythemia vera."
+      },
+      {
+        "text": "Direct transcriptional activation of the BCR-ABL1 chimeric fusion oncoprotein",
+        "correct": false,
+        "explanation": "BCR-ABL1 is a reciprocal t(9;22) translocation product characteristic of chronic myeloid leukemia (CML), not polycythemia vera."
+      }
+    ],
+    "explanation": "The patient has polycythemia vera, a classic myeloproliferative neoplasm driven in >95% of cases by the JAK2 V617F mutation. Erythropoietin, thrombopoietin, and G-CSF signal through cytokine receptors that lack intrinsic enzymatic activity and instead rely on the Janus kinase 2 (JAK2) non-receptor tyrosine kinase. JAK2 possesses a catalytic kinase domain (JH1) and an adjacent pseudokinase regulatory domain (JH2). Under normal conditions, the JH2 pseudokinase domain exerts an AUTOINHIBITORY effect that keeps the JH1 catalytic domain quiescent in the absence of ligand binding. The V617F mutation within the JH2 domain disrupts this autoinhibition, producing constitutive, ligand-independent JAK2 tyrosine phosphorylation. Activated JAK2 then phosphorylates cytoplasmic STAT (signal transducers and activators of transcription) proteins, inducing STAT SH2-domain-mediated dimerization, nuclear translocation, and unbridled transcription of erythroid survival genes despite undetectable serum erythropoietin. JAK2 V617F mutation disrupts the autoinhibitory JH2 pseudokinase domain -> constitutive phosphorylation and STAT dimerization.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of JAK-STAT Signaling in Myeloproliferative Neoplasms.",
+    "keyPoints": [
+      "JAK-STAT Signaling in Myeloproliferative Neoplasms",
+      "JAK2 V617F mutation disrupts the autoinhibitory JH2 pseudokinase domain -> constitutive phosphorylation and STAT dimerization."
+    ],
+    "references": [
+      {
+        "label": "Baxter EJ, et al. Acquired mutation of the tyrosine kinase JAK2 in human myeloproliferative disorders. Lancet. 2005;365(9464):1054-1061. PMID: 15781101.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15781101/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0404",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Cardiovascular",
+    "topic": "Nitric Oxide and Cyclic GMP Signaling",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An isolated vascular smooth muscle strip is treated with acetylcholine in an organ bath containing intact vascular endothelium. The vascular ring promptly relaxes. Biochemical analysis demonstrates that acetylcholine stimulates endothelial muscarinic M3 receptors, raising intracellular calcium and activating an enzyme that synthesizes a short-lived gas from L-arginine, molecular oxygen, and NADPH. The gas diffuses across the internal elastic lamina into the adjacent vascular smooth muscle cell, binding directly to the heme prosthetic group of an intracellular enzyme. Which of the following downstream events directly accounts for the subsequent relaxation of the vascular smooth muscle cell?",
+    "options": [
+      {
+        "text": "Direct phosphorylation and activation of myosin light chain kinase (MLCK) by cyclic AMP-dependent protein kinase",
+        "correct": false,
+        "explanation": "Activation of MLCK promotes smooth muscle contraction, not relaxation; relaxation requires MLCP activation or MLCK inhibition."
+      },
+      {
+        "text": "Opening of sarcoplasmic reticulum ryanodine receptor channels with massive calcium release into the cytoplasm",
+        "correct": false,
+        "explanation": "Ryanodine receptor opening floods the cytosol with Ca2+, stimulating Ca2+-calmodulin-dependent MLCK and inducing profound smooth muscle CONTRACTION."
+      },
+      {
+        "text": "Gq-protein-mediated hydrolysis of phosphatidylinositol 4,5-bisphosphate to inositol 1,4,5-trisphosphate",
+        "correct": false,
+        "explanation": "Gq activation and IP3 production in smooth muscle stimulates Ca2+ release and contraction; M3 on endothelium activates eNOS, but the smooth muscle response is mediated by cGMP/PKG."
+      },
+      {
+        "text": "Activation of protein kinase G (PKG), which stimulates myosin light chain phosphatase and decreases cytosolic free calcium",
+        "correct": true,
+        "explanation": "Endothelial-dependent vasodilation proceeds through the Nitric Oxide (NO)-cyclic GMP pathway: (1) Endothelial M3 receptor stimulation raises intracellular Ca2+, activating Endothelial Nitric Oxide Synthase (eNOS) to produce NO from L-arginine. (2) NO gas diffuses into vascular smooth muscle and binds to the ferrous heme moiety of SOLUBLE GUANYLYL CYCLASE (sGC), stimulating conversion of GTP to cyclic GMP (cGMP). (3) cGMP activates PROTEIN KINASE G (PKG). (4) PKG induces smooth muscle relaxation through three coordinated mechanisms: (a) activating MYOSIN LIGHT CHAIN PHOSPHATASE (MLCP), which dephosphorylates myosin light chains to prevent cross-bridge cycling; (b) phosphorylating and activating phospholamban, which stimulates the SERCA pump to sequester Ca2+ into the sarcoplasmic reticulum; and (c) closing voltage-gated L-type Ca2+ channels."
+      },
+      {
+        "text": "Inhibition of the plasma membrane Na+/K+-ATPase resulting in intracellular sodium accumulation",
+        "correct": false,
+        "explanation": "Inhibiting Na+/K+-ATPase (as with cardiac glycosides) increases intracellular Na+ and Ca2+, promoting contraction, not vasodilation."
+      }
+    ],
+    "explanation": "Endothelial-dependent vasodilation proceeds through the Nitric Oxide (NO)-cyclic GMP pathway: (1) Endothelial M3 receptor stimulation raises intracellular Ca2+, activating Endothelial Nitric Oxide Synthase (eNOS) to produce NO from L-arginine. (2) NO gas diffuses into vascular smooth muscle and binds to the ferrous heme moiety of SOLUBLE GUANYLYL CYCLASE (sGC), stimulating conversion of GTP to cyclic GMP (cGMP). (3) cGMP activates PROTEIN KINASE G (PKG). (4) PKG induces smooth muscle relaxation through three coordinated mechanisms: (a) activating MYOSIN LIGHT CHAIN PHOSPHATASE (MLCP), which dephosphorylates myosin light chains to prevent cross-bridge cycling; (b) phosphorylating and activating phospholamban, which stimulates the SERCA pump to sequester Ca2+ into the sarcoplasmic reticulum; and (c) closing voltage-gated L-type Ca2+ channels. Endothelial NO activates smooth muscle soluble guanylyl cyclase -> cGMP -> PKG -> stimulates myosin light chain phosphatase (MLCP) -> relaxation.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Nitric Oxide and Cyclic GMP Signaling.",
+    "keyPoints": [
+      "Nitric Oxide and Cyclic GMP Signaling",
+      "Endothelial NO activates smooth muscle soluble guanylyl cyclase -> cGMP -> PKG -> stimulates myosin light chain phosphatase (MLCP) -> relaxation."
+    ],
+    "references": [
+      {
+        "label": "Francis SH, Busch JL, Corbin JD. cGMP-dependent protein kinases and cGMP phosphodiesterases in nitric oxide and cGMP signaling. Pharmacol Rev. 2010;62(3):525-563. PMID: 20716671.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20716671/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0405",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Intrinsic Mitochondrial vs Extrinsic Apoptosis Pathways",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Cultured human follicular lymphoma cells are treated with an experimental small-molecule BH3-mimetic antagonist that selectively binds with nanomolar affinity to the hydrophobic groove of the anti-apoptotic protein BCL-2. Within 6 hours of exposure, mitochondrial membrane integrity is compromised. Immunoblotting of subcellular fractions reveals a rapid shift of a 12-kDa heme-containing mitochondrial intermembrane space protein into the cytoplasm, where it binds directly to Apaf-1 in the presence of dATP to assemble a heptameric macromolecular complex. Which of the following downstream proteases is directly recruited and activated as the initiator enzyme within this apoptosome complex?",
+    "options": [
+      {
+        "text": "Procaspase-8 zymogen",
+        "correct": false,
+        "explanation": "Procaspase-8 is the initiator caspase of the EXTRINSIC (death receptor) apoptosis pathway, recruited to the Death-Inducing Signaling Complex (DISC) following FasL/Fas or TNF-alpha/TNFR1 ligation via FADD, not the mitochondrial apoptosome."
+      },
+      {
+        "text": "Procaspase-1 zymogen",
+        "correct": false,
+        "explanation": "Caspase-1 is an inflammatory caspase recruited to the INFLAMMASOME (NLRP3) to process pro-IL-1beta and pro-IL-18 during pyroptosis, not the mitochondrial apoptosome."
+      },
+      {
+        "text": "Procaspase-3 zymogen",
+        "correct": false,
+        "explanation": "Caspase-3 is an EXECUTIONER caspase, not the initiator caspase; it is cleaved and activated downstream by active caspase-9."
+      },
+      {
+        "text": "Granzyme B protease",
+        "correct": false,
+        "explanation": "Granzyme B is an exogenous serine protease delivered into target cells by cytotoxic T lymphocytes and natural killer cells via perforin pores; it is not part of the apoptosome complex."
+      },
+      {
+        "text": "Procaspase-9 zymogen",
+        "correct": true,
+        "explanation": "The intrinsic (mitochondrial) pathway of apoptosis is regulated by the balance between pro- and anti-apoptotic BCL-2 family proteins. BCL-2 normally sequesters pro-apoptotic effectors BAX and BAK. When a BH3-mimetic (like venetoclax) binds BCL-2, BAX and BAK are released, oligomerize, and form pores in the outer mitochondrial membrane (mitochondrial outer membrane permeabilization, MOMP). This allows CYTOCHROME C to leak from the intermembrane space into the cytosol. In the cytosol, cytochrome c binds Apoptotic protease-activating factor 1 (Apaf-1) in a dATP-dependent manner, triggering the assembly of a wheel-like heptameric 'APOPTOSOME'. The apoptosome specifically recruits and activates the initiator caspase PROCASPASE-9. Activated caspase-9 then cleaves and activates downstream executioner caspases (caspase-3 and caspase-7) to execute apoptotic cell death."
+      }
+    ],
+    "explanation": "The intrinsic (mitochondrial) pathway of apoptosis is regulated by the balance between pro- and anti-apoptotic BCL-2 family proteins. BCL-2 normally sequesters pro-apoptotic effectors BAX and BAK. When a BH3-mimetic (like venetoclax) binds BCL-2, BAX and BAK are released, oligomerize, and form pores in the outer mitochondrial membrane (mitochondrial outer membrane permeabilization, MOMP). This allows CYTOCHROME C to leak from the intermembrane space into the cytosol. In the cytosol, cytochrome c binds Apoptotic protease-activating factor 1 (Apaf-1) in a dATP-dependent manner, triggering the assembly of a wheel-like heptameric 'APOPTOSOME'. The apoptosome specifically recruits and activates the initiator caspase PROCASPASE-9. Activated caspase-9 then cleaves and activates downstream executioner caspases (caspase-3 and caspase-7) to execute apoptotic cell death. Cytochrome c + Apaf-1 + dATP assemble the apoptosome, which recruits and activates initiator procaspase-9.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Intrinsic Mitochondrial vs Extrinsic Apoptosis Pathways.",
+    "keyPoints": [
+      "Intrinsic Mitochondrial vs Extrinsic Apoptosis Pathways",
+      "Cytochrome c + Apaf-1 + dATP assemble the apoptosome, which recruits and activates initiator procaspase-9."
+    ],
+    "references": [
+      {
+        "label": "Czabotar PE, Lessene G, Strasser A, Adams JM. Control of apoptosis by the BCL-2 protein family: implications for physiology and therapy. Nat Rev Mol Cell Biol. 2014;15(1):49-63. PMID: 24355989.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24355989/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0406",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "General Principles",
+    "topic": "Cell Cycle Control and Retinoblastoma Protein",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old woman with metastatic ER-positive, HER2-negative breast cancer is initiated on palbociclib, an orally active small-molecule inhibitor of cyclin-dependent kinases 4 and 6 (CDK4/6), in combination with an aromatase inhibitor. Bone marrow suppression with severe neutropenia is observed 2 weeks after starting therapy. At the cellular level, palbociclib arrests malignant epithelial cells and hematopoietic progenitors specifically at the G1 restriction point (G1-to-S phase transition). Which of the following molecular states of the Retinoblastoma (Rb) protein is maintained as a direct consequence of this targeted drug mechanism?",
+    "options": [
+      {
+        "text": "Hypophosphorylated Rb complexed with and inhibiting E2F transcription factors",
+        "correct": true,
+        "explanation": "The G1-to-S phase transition is the critical 'restriction point' of the mammalian cell cycle. In quiescent or early G1 cells, the Retinoblastoma (Rb) tumor suppressor protein is HYPOPHOSPHORYLATED (active state). Hypophosphorylated Rb binds tightly to E2F family transcription factors, repressing their transactivation domains and recruiting histone deacetylases (HDACs) to repress genes required for DNA synthesis. Mitogenic signaling upregulates Cyclin D, which complexes with CDK4 and CDK6. Cyclin D-CDK4/6 phosphorylates Rb. Hyperphosphorylated Rb dissociates from E2F, freeing E2F to transcribe Cyclin E, Cyclin A, and DNA polymerases, driving the cell irreversibly into S phase. CDK4/6 inhibitors (e.g., palbociclib, ribociclib, abemaciclib) block Rb phosphorylation, trapping Rb in its active, hypophosphorylated state bound to E2F, arresting cells in G1."
+      },
+      {
+        "text": "Hyperphosphorylated Rb dissociated from E2F transcription factors",
+        "correct": false,
+        "explanation": "Hyperphosphorylated Rb is the inactive form produced by CDK4/6 activity that releases E2F to drive S-phase entry; CDK4/6 inhibitors prevent this phosphorylation."
+      },
+      {
+        "text": "Polyubiquitinated Rb targeted for rapid 26S proteasomal degradation",
+        "correct": false,
+        "explanation": "Rb is regulated by cyclic reversible phosphorylation, not targeted for proteasomal degradation by CDK4/6; oncoproteins like HPV E7 promote Rb degradation, not CDK inhibitors."
+      },
+      {
+        "text": "Acetylated Rb localized to the nucleolus to prevent ribosomal biogenesis",
+        "correct": false,
+        "explanation": "Rb regulates transcription of cell cycle genes at replication origins and promoters, not by nucleolar sequestration."
+      },
+      {
+        "text": "Cleaved Rb fragments generated by active executioner caspase-3",
+        "correct": false,
+        "explanation": "Caspase-mediated cleavage of Rb occurs during apoptosis, distinct from pharmacological G1 cell cycle arrest."
+      }
+    ],
+    "explanation": "The G1-to-S phase transition is the critical 'restriction point' of the mammalian cell cycle. In quiescent or early G1 cells, the Retinoblastoma (Rb) tumor suppressor protein is HYPOPHOSPHORYLATED (active state). Hypophosphorylated Rb binds tightly to E2F family transcription factors, repressing their transactivation domains and recruiting histone deacetylases (HDACs) to repress genes required for DNA synthesis. Mitogenic signaling upregulates Cyclin D, which complexes with CDK4 and CDK6. Cyclin D-CDK4/6 phosphorylates Rb. Hyperphosphorylated Rb dissociates from E2F, freeing E2F to transcribe Cyclin E, Cyclin A, and DNA polymerases, driving the cell irreversibly into S phase. CDK4/6 inhibitors (e.g., palbociclib, ribociclib, abemaciclib) block Rb phosphorylation, trapping Rb in its active, hypophosphorylated state bound to E2F, arresting cells in G1. CDK4/6 inhibition prevents Rb phosphorylation, maintaining hypophosphorylated Rb bound to and repressing E2F at the G1 restriction point.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cell Cycle Control and Retinoblastoma Protein.",
+    "keyPoints": [
+      "Cell Cycle Control and Retinoblastoma Protein",
+      "CDK4/6 inhibition prevents Rb phosphorylation, maintaining hypophosphorylated Rb bound to and repressing E2F at the G1 restriction point."
+    ],
+    "references": [
+      {
+        "label": "Sherr CJ, Beach D, Shapiro GI. Targeting CDK4 and CDK6: From Discovery to Therapy. Cancer Discov. 2016;6(4):353-367. PMID: 26658054.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26658054/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0407",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "General Principles",
+    "topic": "DNA Damage Response & p53 Pathway",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Cultured human primary fibroblasts are exposed to ionizing radiation, causing extensive double-strand DNA breaks. Within minutes, the sensor kinase Ataxia-Telangiectasia Mutated (ATM) autophosphorylates and phosphorylates downstream effector kinases. A critical tumor suppressor protein undergoes phosphorylation at serine residues near its amino terminus, which sterically disrupts its interaction with an endogenous E3 ubiquitin ligase (MDM2) that normally targets it for constitutive proteasomal degradation. The resulting stabilized tumor suppressor protein accumulates in the nucleus and acts as a homotetrameric transcription factor. Which of the following genes is directly transcribed by this stabilized protein to enforce cell cycle arrest at the G1 checkpoint?",
+    "options": [
+      {
+        "text": "CCND1 (encoding Cyclin D1)",
+        "correct": false,
+        "explanation": "Cyclin D1 promotes cell cycle progression; p53 suppresses cell division rather than transcribing Cyclin D1."
+      },
+      {
+        "text": "CDKN1A (encoding p21 CIP1/WAF1)",
+        "correct": true,
+        "explanation": "The cellular response to DNA double-strand breaks relies on the ATM-p53 signaling pathway: (1) ATM detects double-strand breaks and phosphorylates both p53 (at Ser15/Ser20) and MDM2. (2) Phosphorylation of p53 prevents MDM2 (an E3 ubiquitin ligase) from binding p53, halting its polyubiquitination and proteasomal degradation. (3) Stabilized p53 forms homotetramers, binds specific DNA response elements, and transcribes target genes. (4) The principal mediator of p53-induced G1 cell cycle arrest is CDKN1A, which encodes p21 (CIP1/WAF1). p21 is a potent cyclin-dependent kinase inhibitor (CKI) that binds to and inhibits Cyclin E-CDK2 and Cyclin D-CDK4/6 complexes, preventing Rb phosphorylation and arresting the cell in G1 to allow DNA repair. If damage is irreparable, p53 transcribes pro-apoptotic genes (BAX, PUMA, NOXA)."
+      },
+      {
+        "text": "BCL2 (encoding BCL-2 anti-apoptotic protein)",
+        "correct": false,
+        "explanation": "BCL-2 is an anti-apoptotic survival protein; p53 represses BCL-2 while transcribing pro-apoptotic BAX, PUMA, and NOXA."
+      },
+      {
+        "text": "MYC (encoding c-Myc oncoprotein)",
+        "correct": false,
+        "explanation": "c-Myc is an oncogenic transcription factor that drives cellular proliferation and metabolic reprogramming, not a p53-induced checkpoint mediator."
+      },
+      {
+        "text": "TERT (encoding telomerase reverse transcriptase)",
+        "correct": false,
+        "explanation": "Telomerase reverse transcriptase maintenance is upregulated in malignancies; p53 does not transcribe TERT to enforce DNA repair arrest."
+      }
+    ],
+    "explanation": "The cellular response to DNA double-strand breaks relies on the ATM-p53 signaling pathway: (1) ATM detects double-strand breaks and phosphorylates both p53 (at Ser15/Ser20) and MDM2. (2) Phosphorylation of p53 prevents MDM2 (an E3 ubiquitin ligase) from binding p53, halting its polyubiquitination and proteasomal degradation. (3) Stabilized p53 forms homotetramers, binds specific DNA response elements, and transcribes target genes. (4) The principal mediator of p53-induced G1 cell cycle arrest is CDKN1A, which encodes p21 (CIP1/WAF1). p21 is a potent cyclin-dependent kinase inhibitor (CKI) that binds to and inhibits Cyclin E-CDK2 and Cyclin D-CDK4/6 complexes, preventing Rb phosphorylation and arresting the cell in G1 to allow DNA repair. If damage is irreparable, p53 transcribes pro-apoptotic genes (BAX, PUMA, NOXA). Stabilized p53 transcribes CDKN1A (p21 CIP1/WAF1), which inhibits CDK2 and CDK4/6 to induce G1 arrest for DNA repair.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of DNA Damage Response & p53 Pathway.",
+    "keyPoints": [
+      "DNA Damage Response & p53 Pathway",
+      "Stabilized p53 transcribes CDKN1A (p21 CIP1/WAF1), which inhibits CDK2 and CDK4/6 to induce G1 arrest for DNA repair."
+    ],
+    "references": [
+      {
+        "label": "Kastan MB, Lim DS. The many substrates and functions of ATM. Nat Rev Mol Cell Biol. 2000;1(3):179-186. PMID: 11252893.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11252893/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0408",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Musculoskeletal",
+    "topic": "Excitation-Contraction Coupling Biophysics",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "An experimental neurophysiology laboratory investigates excitation-contraction coupling in isolated single skeletal muscle myofibers compared to isolated ventricular cardiomyocytes. In the first experiment, skeletal myofibers are placed in a calcium-free extracellular bathing solution containing ethylene glycol-bis(beta-aminoethyl ether)-N,N,N',N'-tetraacetic acid (EGTA). When the sarcolemma is depolarized with an electrical pulse, robust twitch tension is generated despite the complete absence of extracellular calcium. In the second experiment, ventricular cardiomyocytes exposed to the identical calcium-free EGTA bathing solution fail to generate any twitch force upon depolarization. Which of the following biophysical mechanisms explains why skeletal muscle contraction persists in the absence of extracellular calcium?",
+    "options": [
+      {
+        "text": "Extracellular calcium influx through T-type voltage-gated calcium channels that directly triggers sarcoplasmic reticulum calcium release",
+        "correct": false,
+        "explanation": "Skeletal muscle does not rely on extracellular calcium influx for contraction; EGTA chelation proved contraction is independent of external calcium."
+      },
+      {
+        "text": "Constitutive activity of the sarcoplasmic/endoplasmic reticulum calcium ATPase (SERCA) pump during membrane depolarization",
+        "correct": false,
+        "explanation": "SERCA pumps calcium from the cytosol back INTO the sarcoplasmic reticulum to mediate muscle RELAXATION, not calcium release for contraction."
+      },
+      {
+        "text": "Direct mechanical conformational coupling between the T-tubule dihydropyridine receptor and the sarcoplasmic reticulum ryanodine receptor (RYR1)",
+        "correct": true,
+        "explanation": "Skeletal muscle and cardiac muscle utilize fundamentally different mechanisms to release calcium from the sarcoplasmic reticulum (SR): (1) In SKELETAL MUSCLE, the L-type voltage-gated calcium channel in the transverse (T) tubule (Dihydropyridine receptor, DHPR) acts primarily as a VOLTAGE SENSOR rather than a conduit for calcium influx. Depolarization induces a physical conformational change in the DHPR that mechanically pulls open the adjacent Ryanodine Receptor 1 (RYR1) in the SR terminal cisternae via direct protein-protein physical contact ('foot protein' coupling). Therefore, skeletal muscle contraction DOES NOT require extracellular calcium influx. (2) In CARDIAC MUSCLE, the DHPR and RYR2 are NOT mechanically linked; depolarization causes calcium INFLUX through the L-type channel, and this small calcium influx binds to and triggers opening of RYR2 (Calcium-Induced Calcium Release, CICR). Without extracellular calcium, cardiac CICR cannot occur and contraction ceases."
+      },
+      {
+        "text": "Sodium-calcium exchanger (NCX) operating in reverse mode to import calcium from the extracellular space",
+        "correct": false,
+        "explanation": "Reverse-mode NCX occurs in myocardium under high intracellular sodium, but in a calcium-free EGTA medium, no external calcium exists to import."
+      },
+      {
+        "text": "Gq-protein-coupled receptor activation with inositol 1,4,5-trisphosphate (IP3) dependent calcium release",
+        "correct": false,
+        "explanation": "IP3-mediated calcium release operates in vascular smooth muscle and non-muscle cells, not skeletal muscle excitation-contraction coupling."
+      }
+    ],
+    "explanation": "Skeletal muscle and cardiac muscle utilize fundamentally different mechanisms to release calcium from the sarcoplasmic reticulum (SR): (1) In SKELETAL MUSCLE, the L-type voltage-gated calcium channel in the transverse (T) tubule (Dihydropyridine receptor, DHPR) acts primarily as a VOLTAGE SENSOR rather than a conduit for calcium influx. Depolarization induces a physical conformational change in the DHPR that mechanically pulls open the adjacent Ryanodine Receptor 1 (RYR1) in the SR terminal cisternae via direct protein-protein physical contact ('foot protein' coupling). Therefore, skeletal muscle contraction DOES NOT require extracellular calcium influx. (2) In CARDIAC MUSCLE, the DHPR and RYR2 are NOT mechanically linked; depolarization causes calcium INFLUX through the L-type channel, and this small calcium influx binds to and triggers opening of RYR2 (Calcium-Induced Calcium Release, CICR). Without extracellular calcium, cardiac CICR cannot occur and contraction ceases. Skeletal muscle DHPR mechanically pulls open RYR1 via direct physical coupling (independent of external Ca2+), unlike cardiac Ca2+-induced Ca2+ release.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Excitation-Contraction Coupling Biophysics.",
+    "keyPoints": [
+      "Excitation-Contraction Coupling Biophysics",
+      "Skeletal muscle DHPR mechanically pulls open RYR1 via direct physical coupling (independent of external Ca2+), unlike cardiac Ca2+-induced Ca2+ release."
+    ],
+    "references": [
+      {
+        "label": "Bers DM. Cardiac excitation-contraction coupling. Nature. 2002;415(6868):198-205. PMID: 11805843.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11805843/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0409",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "General Principles",
+    "topic": "Autophagy and Macroautophagy Mechanics",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Cultured hepatocytes are placed in a serum- and amino-acid-depleted starvation medium to induce macroautophagy. Intracellular nutrient-sensing cascades respond with rapid inactivation of mTORC1, allowing the ULK1/Atg1 kinase complex to initiate isolation membrane (phagophore) nucleation. During autophagosome elongation, a cytosolic microtubule-associated protein (LC3-I) undergoes enzymatic cleavage by the cysteine protease Atg4 and subsequent covalent conjugation to a lipid moiety in the phagophore membrane. This lipidated form (LC3-II) associates with both the inner and outer membranes of the expanding autophagosome to facilitate cargo recruitment and membrane closure. Which of the following lipid molecules is covalently linked to LC3-I during this essential autophagic maturation step?",
+    "options": [
+      {
+        "text": "Phosphatidylserine (PS)",
+        "correct": false,
+        "explanation": "Phosphatidylserine is normally restricted to the inner leaflet of the plasma membrane and flips to the outer leaflet as an 'eat-me' signal during apoptosis, not the lipid conjugated to LC3 in autophagy."
+      },
+      {
+        "text": "Phosphatidylinositol 4,5-bisphosphate (PIP2)",
+        "correct": false,
+        "explanation": "PIP2 is a plasma membrane phospholipid cleaved by PLC to yield IP3 and DAG or phosphorylated by PI3K to yield PIP3, not the lipid conjugate for LC3."
+      },
+      {
+        "text": "Cardiolipin",
+        "correct": false,
+        "explanation": "Cardiolipin is a dimeric phospholipid localized almost exclusively to the inner mitochondrial membrane that stabilizes respiratory chain complexes, not the autophagosomal LC3 conjugate."
+      },
+      {
+        "text": "Phosphatidylethanolamine (PE)",
+        "correct": true,
+        "explanation": "Macroautophagy is a conserved cellular recycling process triggered by nutrient starvation or cell stress. When mTORC1 is inactivated, the ULK1 kinase complex initiates phagophore nucleation. Expansion and closure of the phagophore into a double-membrane AUTOPHAGOSOME requires two ubiquitin-like conjugation systems: (1) The Atg12-Atg5-Atg16L1 complex. (2) The LC3 (Atg8) conjugation system. Cytosolic LC3 is cleaved by Atg4 to expose a C-terminal glycine residue, generating LC3-I. LC3-I is then transferred sequentially by Atg7 (E1-like enzyme) and Atg3 (E2-like enzyme) to covalently conjugate to the polar headgroup of PHOSPHATIDYLETHANOLAMINE (PE). This lipidated form, LC3-II, inserts stably into the autophagosomal membrane. LC3-II serves as the canonical biochemical marker of autophagosome abundance and functions as a dock for autophagy receptors (e.g., p62/SQSTM1) that deliver polyubiquitinated cellular cargo for lysosomal degradation."
+      },
+      {
+        "text": "Sphingomyelin",
+        "correct": false,
+        "explanation": "Sphingomyelin is a plasma membrane and myelin sheath sphingolipid enriched in lipid rafts, not involved in LC3 lipidation."
+      }
+    ],
+    "explanation": "Macroautophagy is a conserved cellular recycling process triggered by nutrient starvation or cell stress. When mTORC1 is inactivated, the ULK1 kinase complex initiates phagophore nucleation. Expansion and closure of the phagophore into a double-membrane AUTOPHAGOSOME requires two ubiquitin-like conjugation systems: (1) The Atg12-Atg5-Atg16L1 complex. (2) The LC3 (Atg8) conjugation system. Cytosolic LC3 is cleaved by Atg4 to expose a C-terminal glycine residue, generating LC3-I. LC3-I is then transferred sequentially by Atg7 (E1-like enzyme) and Atg3 (E2-like enzyme) to covalently conjugate to the polar headgroup of PHOSPHATIDYLETHANOLAMINE (PE). This lipidated form, LC3-II, inserts stably into the autophagosomal membrane. LC3-II serves as the canonical biochemical marker of autophagosome abundance and functions as a dock for autophagy receptors (e.g., p62/SQSTM1) that deliver polyubiquitinated cellular cargo for lysosomal degradation. During autophagosome elongation, cytosolic LC3-I is lipidated by covalent conjugation to phosphatidylethanolamine (PE) to yield LC3-II.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Autophagy and Macroautophagy Mechanics.",
+    "keyPoints": [
+      "Autophagy and Macroautophagy Mechanics",
+      "During autophagosome elongation, cytosolic LC3-I is lipidated by covalent conjugation to phosphatidylethanolamine (PE) to yield LC3-II."
+    ],
+    "references": [
+      {
+        "label": "Mizushima N, Komatsu M. Autophagy: renovation of cells and tissues. Cell. 2011;147(4):728-741. PMID: 22078875.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22078875/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0410",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Genomic Imprinting and Epigenetics",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 3-year-old boy is brought to the pediatric genetics clinic due to developmental delay, severe intellectual disability, paroxysms of inappropriate laughter, and an unsteady, jerky, ataxic gait. He has microcephaly and a prominent mandible, but no hyperphagia or obesity. High-resolution cytogenetic microarray demonstrates a 4-megabase interstitial microdeletion on the long arm of chromosome 15 (15q11-q13). Methylation-specific PCR of the SNRPN promoter in this chromosomal region reveals a normal paternal methylation pattern with complete absence of the maternal unmethylated allele. Which of the following genes located within this deleted region is normally expressed exclusively from the maternal allele in brain tissue and is responsible for this patient's clinical phenotype?",
+    "options": [
+      {
+        "text": "SNRPN (small nuclear ribonucleoprotein polypeptide N)",
+        "correct": false,
+        "explanation": "SNRPN is maternally imprinted (silenced) and expressed exclusively from the PATERNAL allele; its loss contributes to Prader-Willi syndrome (hypotonia, hyperphagia, hypogonadism), not Angelman syndrome."
+      },
+      {
+        "text": "MECP2 (methyl-CpG-binding protein 2)",
+        "correct": false,
+        "explanation": "MECP2 is an X-linked gene (Xq28) mutated in Rett syndrome, which causes developmental regression in girls, not 15q11-q13 microdeletion."
+      },
+      {
+        "text": "FMR1 (fragile X messenger ribonucleoprotein 1)",
+        "correct": false,
+        "explanation": "FMR1 is an X-linked gene (Xq27.3) whose 5'-UTR CGG repeat expansion causes Fragile X syndrome, characterized by macroorchidism, long face, and large ears."
+      },
+      {
+        "text": "H19 (imprinted long noncoding RNA)",
+        "correct": false,
+        "explanation": "H19 is an imprinted lncRNA on chromosome 11p15.5 associated with Beckwith-Wiedemann and Silver-Russell syndromes, not chromosome 15."
+      },
+      {
+        "text": "UBE3A (ubiquitin-protein ligase E3A)",
+        "correct": true,
+        "explanation": "Angelman syndrome is an imprinted neurodevelopmental disorder caused by the loss of normal maternal expression of the UBE3A gene on chromosome 15q11-q13. The UBE3A gene encodes an E3 ubiquitin ligase critical for synaptic protein degradation. Genomic imprinting in this region is tissue-specific: in most somatic tissues, UBE3A is expressed biallelically; however, in neurons of the brain, the paternal UBE3A allele is epigenetically SILENCED by an antisense transcript (UBE3A-ATS), leaving only the maternal UBE3A allele functionally active. Loss of the active maternal allele—via maternal 15q11-q13 microdeletion (70%), paternal uniparental disomy (UPD 15, ~5%), imprinting defects, or point mutations in maternal UBE3A—causes Angelman syndrome ('happy puppet' syndrome: ataxia, paroxysmal laughter, microcephaly, seizures, absent speech). Conversely, loss of paternal 15q11-q13 expression (SNRPN, snoRNAs, NDN) causes Prader-Willi syndrome."
+      }
+    ],
+    "explanation": "Angelman syndrome is an imprinted neurodevelopmental disorder caused by the loss of normal maternal expression of the UBE3A gene on chromosome 15q11-q13. The UBE3A gene encodes an E3 ubiquitin ligase critical for synaptic protein degradation. Genomic imprinting in this region is tissue-specific: in most somatic tissues, UBE3A is expressed biallelically; however, in neurons of the brain, the paternal UBE3A allele is epigenetically SILENCED by an antisense transcript (UBE3A-ATS), leaving only the maternal UBE3A allele functionally active. Loss of the active maternal allele—via maternal 15q11-q13 microdeletion (70%), paternal uniparental disomy (UPD 15, ~5%), imprinting defects, or point mutations in maternal UBE3A—causes Angelman syndrome ('happy puppet' syndrome: ataxia, paroxysmal laughter, microcephaly, seizures, absent speech). Conversely, loss of paternal 15q11-q13 expression (SNRPN, snoRNAs, NDN) causes Prader-Willi syndrome. Ataxia + laughter + intellectual disability + maternal 15q11-q13 deletion = Angelman syndrome, caused by loss of maternal neuronal expression of UBE3A.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Genomic Imprinting and Epigenetics.",
+    "keyPoints": [
+      "Genomic Imprinting and Epigenetics",
+      "Ataxia + laughter + intellectual disability + maternal 15q11-q13 deletion = Angelman syndrome, caused by loss of maternal neuronal expression of UBE3A."
+    ],
+    "references": [
+      {
+        "label": "Buiting K, et al. Angelman syndrome—insights into a rare neurogenetic disorder. Nat Rev Neurol. 2016;12(10):584-593. PMID: 27615419.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27615419/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0411",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Mitochondrial Genetics and Heteroplasmy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 22-year-old man presents to the emergency department with acute right-sided hemiparesis, aphasia, and a left temporal lobe infarction on brain MRI that does not conform to a typical vascular arterial territory. He has a history of sensorineural hearing loss, short stature, and exercise intolerance. Serum lactate is markedly elevated at 5.4 mmol/L (normal < 2.0 mmol/L). A skeletal muscle biopsy demonstrates subsarcolemmal accumulations of abnormal mitochondria on modified Gomori trichrome stain ('ragged-red fibers'). Genetic testing identifies an m.3243A>G mutation in the MT-TL1 mitochondrial gene encoding tRNALeu(UUR). Family pedigree analysis reveals that the patient's mother has mild sensorineural hearing loss and type 2 diabetes mellitus, his maternal aunt has refractory migraines and myopathy, but his maternal uncle is completely asymptomatic. Which of the following genetic principles best explains the marked variability in clinical disease severity among maternal relatives carrying this pathogenic mutation?",
+    "options": [
+      {
+        "text": "Heteroplasmy with stochastic replicative segregation of mutant and wild-type mitochondrial genomes during cell division",
+        "correct": true,
+        "explanation": "Mitochondrial DNA (mtDNA) is inherited exclusively from the mother. Each eukaryotic cell contains hundreds of mitochondria, and each mitochondrion harbors multiple circular copies of mtDNA. In mitochondrial disorders like MELAS (Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes), mutated and wild-type mtDNA genomes co-exist within the same cell—a state termed HETEROPLASMY. During cytokinesis, mitochondria divide and segregate randomly (stochastic replicative segregation) into daughter cells. Consequently, different tissues and different individuals within the same maternal lineage receive varying proportions of mutant mtDNA. Tissues with high oxidative metabolic demands (brain, skeletal muscle, cochlea, pancreatic beta cells) are exquisitely vulnerable: clinical disease manifests only when the percentage of mutant mtDNA exceeds a critical physiological THRESHOLD, explaining the variable penetrance and phenotypic severity seen across family members."
+      },
+      {
+        "text": "X-linked dominant inheritance with skewed lyonization of the maternal X chromosome",
+        "correct": false,
+        "explanation": "mtDNA is encoded on extranuclear circular mitochondrial DNA and inherited maternally, not on the X chromosome."
+      },
+      {
+        "text": "Variable trinucleotide repeat expansion with anticipation occurring preferentially through maternal transmission",
+        "correct": false,
+        "explanation": "Trinucleotide repeats (e.g., Huntington, Fragile X) involve nuclear DNA tandem repeats, whereas MELAS is caused by a mitochondrial point mutation."
+      },
+      {
+        "text": "Incomplete penetrance due to variable paternal genomic imprinting of the nuclear respiratory factor gene",
+        "correct": false,
+        "explanation": "mtDNA is exclusively maternally inherited without paternal transmission or nuclear genomic imprinting."
+      },
+      {
+        "text": "Somatic mosaicism resulting from post-zygotic mitotic non-disjunction of nuclear chromosome 16",
+        "correct": false,
+        "explanation": "The disorder is caused by an inherited maternal mitochondrial mutation present across generations, not an acquired nuclear aneuploidy."
+      }
+    ],
+    "explanation": "Mitochondrial DNA (mtDNA) is inherited exclusively from the mother. Each eukaryotic cell contains hundreds of mitochondria, and each mitochondrion harbors multiple circular copies of mtDNA. In mitochondrial disorders like MELAS (Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes), mutated and wild-type mtDNA genomes co-exist within the same cell—a state termed HETEROPLASMY. During cytokinesis, mitochondria divide and segregate randomly (stochastic replicative segregation) into daughter cells. Consequently, different tissues and different individuals within the same maternal lineage receive varying proportions of mutant mtDNA. Tissues with high oxidative metabolic demands (brain, skeletal muscle, cochlea, pancreatic beta cells) are exquisitely vulnerable: clinical disease manifests only when the percentage of mutant mtDNA exceeds a critical physiological THRESHOLD, explaining the variable penetrance and phenotypic severity seen across family members. Variable clinical severity in mitochondrial disorders (e.g., MELAS) arises from heteroplasmy and stochastic replicative segregation exceeding tissue threshold.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Mitochondrial Genetics and Heteroplasmy.",
+    "keyPoints": [
+      "Mitochondrial Genetics and Heteroplasmy",
+      "Variable clinical severity in mitochondrial disorders (e.g., MELAS) arises from heteroplasmy and stochastic replicative segregation exceeding tissue threshold."
+    ],
+    "references": [
+      {
+        "label": "Stewart JB, Chinnery PF. The dynamics of mitochondrial DNA heteroplasmy: implications for human health and disease. Nat Rev Genet. 2015;16(9):530-542. PMID: 26281784.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26281784/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0412",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Nervous System",
+    "topic": "Microtubule Molecular Motors and Axonal Transport",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old spelunker is bitten on the right thumb by a wild bat in a cave. Three weeks later, he develops fever, severe hydrophobia, agitation, and copious hypersalivation. The patient subsequently lapses into a coma and dies of respiratory arrest. Histopathologic examination of hippocampal pyramidal neurons and cerebellar Purkinje cells reveals characteristic eosinophilic cytoplasmic inclusions (Negri bodies). Following initial local inoculation at the neuromuscular junction, the rhabdovirus enters peripheral nerve axon terminals and travels toward the neuronal cell body (soma) in the dorsal root ganglion and central nervous system. Which of the following molecular motor complexes directly mediates this movement along the axonal cytoskeleton?",
+    "options": [
+      {
+        "text": "Kinesin-1 moving toward the plus end of microtubules",
+        "correct": false,
+        "explanation": "Kinesin mediates ANTEROGRADE axonal transport (soma to nerve terminal, toward the plus end); moving from the bitten thumb to the spinal cord is retrograde."
+      },
+      {
+        "text": "Cytoplasmic dynein moving toward the minus end of microtubules",
+        "correct": true,
+        "explanation": "Axonal transport along microtubules is directed by two distinct classes of ATP-dependent molecular motor proteins: (1) CYTOPLASMIC DYNEIN mediates RETROGRADE transport—movement from the axon terminal toward the neuronal cell body (soma), which corresponds to the MINUS (-) end of microtubules (anchored at the centrosome/microtubule-organizing center near the nucleus). Pathogens that utilize dynein-mediated retrograde axonal transport include Rabies virus, Clostridium tetani toxin, Poliovirus, and Herpes simplex virus (during initial sensory nerve invasion from mucosa to sensory ganglia). (2) KINESIN mediates ANTEROGRADE transport—movement from the cell body toward the axon terminal, corresponding to the PLUS (+) end of microtubules (e.g., transporting synaptic vesicles, mitochondria, and reactivated HSV particles back to the skin/mucosa)."
+      },
+      {
+        "text": "Myosin V moving along cortical actin microfilaments",
+        "correct": false,
+        "explanation": "Myosin motors move along actin filaments for short-range local vesicle trafficking near the plasma membrane, not long-distance axonal transit over centimeters to meters."
+      },
+      {
+        "text": "Clathrin heavy chain triskelions mediating fluid-phase pinocytosis",
+        "correct": false,
+        "explanation": "Clathrin coats vesicular buds at the plasma membrane for endocytosis; it is not a motor protein that moves cargo along microtubules."
+      },
+      {
+        "text": "Tubulin heterodimers polymerizing by GTP cap addition",
+        "correct": false,
+        "explanation": "Tubulin is the structural subunit of the microtubule polymer itself, not an active mechanical motor protein."
+      }
+    ],
+    "explanation": "Axonal transport along microtubules is directed by two distinct classes of ATP-dependent molecular motor proteins: (1) CYTOPLASMIC DYNEIN mediates RETROGRADE transport—movement from the axon terminal toward the neuronal cell body (soma), which corresponds to the MINUS (-) end of microtubules (anchored at the centrosome/microtubule-organizing center near the nucleus). Pathogens that utilize dynein-mediated retrograde axonal transport include Rabies virus, Clostridium tetani toxin, Poliovirus, and Herpes simplex virus (during initial sensory nerve invasion from mucosa to sensory ganglia). (2) KINESIN mediates ANTEROGRADE transport—movement from the cell body toward the axon terminal, corresponding to the PLUS (+) end of microtubules (e.g., transporting synaptic vesicles, mitochondria, and reactivated HSV particles back to the skin/mucosa). Rabies travels retrograde from peripheral axon terminal to neuronal cell body using cytoplasmic dynein toward the microtubule minus end.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Microtubule Molecular Motors and Axonal Transport.",
+    "keyPoints": [
+      "Microtubule Molecular Motors and Axonal Transport",
+      "Rabies travels retrograde from peripheral axon terminal to neuronal cell body using cytoplasmic dynein toward the microtubule minus end."
+    ],
+    "references": [
+      {
+        "label": "Hirokawa N, Noda Y, Tanaka Y, Niwa S. Kinesin superfamily motor proteins and intracellular transport. Nat Rev Mol Cell Biol. 2009;10(10):682-696. PMID: 19773780.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19773780/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0413",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Telomerase Biochemistry and Cellular Senescence",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An oncology research group studies the mechanisms that allow human glioblastoma multiforme cells to achieve replicative immortality. While normal primary human somatic fibroblasts enter irreversible replicative senescence after approximately 50 to 60 population doublings (the Hayflick limit), the glioblastoma cell line proliferates indefinitely in culture. Biochemical extraction of nuclear proteins reveals high activity of a ribonucleoprotein enzyme complex that extends the 3' overhang of linear eukaryotic chromosomes. Which of the following biochemical activities best characterizes the catalytic subunit of this enzyme complex?",
+    "options": [
+      {
+        "text": "DNA-dependent RNA polymerase that transcribes non-coding ribosomal RNAs",
+        "correct": false,
+        "explanation": "DNA-dependent RNA polymerases (Pol I, II, III) synthesize RNA from DNA templates, whereas telomerase synthesizes DNA from an RNA template (reverse transcriptase)."
+      },
+      {
+        "text": "DNA topoisomerase I that relieves torsional strain by creating transient single-strand breaks",
+        "correct": false,
+        "explanation": "Topoisomerase I relaxes supercoiled DNA ahead of replication forks by cleaving and religating single strands, not synthesizing telomeric repeats."
+      },
+      {
+        "text": "RNA-dependent DNA polymerase (reverse transcriptase) that synthesizes TTAGGG hexanucleotide tandem repeats",
+        "correct": true,
+        "explanation": "Linear eukaryotic chromosomes cannot fully replicate the 3' ends of their lagging strands during DNA replication because removal of the terminal RNA primer leaves a gap that standard DNA polymerases cannot fill (the 'end-replication problem'). This leads to progressive telomere shortening with each cell division, culminating in senescence. Immortal cells (cancer cells, embryonic stem cells, adult germ cells) express TELOMERASE, a specialized ribonucleoprotein complex consisting of: (1) TERC (telomerase RNA component), an intrinsic RNA molecule containing the template 3'-CAAUCCCAAUC-5'; and (2) TERT (telomerase reverse transcriptase), a catalytic subunit with RNA-DEPENDENT DNA POLYMERASE activity. TERT uses the internal TERC RNA template to synthesize tandem 5'-TTAGGG-3' hexanucleotide repeats onto the 3' end of the leading strand, preserving chromosomal length and conferring cellular immortality."
+      },
+      {
+        "text": "Flap endonuclease 1 (FEN1) that removes displaced 5' single-stranded flaps during lagging strand synthesis",
+        "correct": false,
+        "explanation": "FEN1 processes Okazaki fragment flaps during lagging strand replication; it does not add telomeric repeat sequences."
+      },
+      {
+        "text": "Poly(A) polymerase that adds post-transcriptional adenosine residues to the 3' end of pre-mRNAs",
+        "correct": false,
+        "explanation": "Poly(A) polymerase adds polyadenylate tails to mRNA transcripts in the nucleus without a template, not chromosomal telomere repeat synthesis."
+      }
+    ],
+    "explanation": "Linear eukaryotic chromosomes cannot fully replicate the 3' ends of their lagging strands during DNA replication because removal of the terminal RNA primer leaves a gap that standard DNA polymerases cannot fill (the 'end-replication problem'). This leads to progressive telomere shortening with each cell division, culminating in senescence. Immortal cells (cancer cells, embryonic stem cells, adult germ cells) express TELOMERASE, a specialized ribonucleoprotein complex consisting of: (1) TERC (telomerase RNA component), an intrinsic RNA molecule containing the template 3'-CAAUCCCAAUC-5'; and (2) TERT (telomerase reverse transcriptase), a catalytic subunit with RNA-DEPENDENT DNA POLYMERASE activity. TERT uses the internal TERC RNA template to synthesize tandem 5'-TTAGGG-3' hexanucleotide repeats onto the 3' end of the leading strand, preserving chromosomal length and conferring cellular immortality. Telomerase reverse transcriptase (TERT) is an RNA-dependent DNA polymerase that uses an internal RNA template to add TTAGGG repeats.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Telomerase Biochemistry and Cellular Senescence.",
+    "keyPoints": [
+      "Telomerase Biochemistry and Cellular Senescence",
+      "Telomerase reverse transcriptase (TERT) is an RNA-dependent DNA polymerase that uses an internal RNA template to add TTAGGG repeats."
+    ],
+    "references": [
+      {
+        "label": "Shay JW, Wright WE. Telomeres and telomerase in normal and cancer cells. FEBS Lett. 2010;584(17):3819-3825. PMID: 20494633.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20494633/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0414",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Ubiquitin-Proteasome System Enzymology",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 36-year-old man presents with a 3-month history of painless left flank fullness and microscopic hematuria. Abdominal computed tomography reveals a 6.5-cm heterogeneously enhancing solid mass in the lower pole of the left kidney, accompanied by bilateral multiple retinal angiomas and a cystic pancreatic lesion. Left radical nephrectomy confirms clear cell renal cell carcinoma. Genetic analysis confirms a germline loss-of-function mutation in the VHL tumor suppressor gene. In normoxic healthy cells, the functional VHL gene product acts as the substrate-recognition recognition subunit of a multi-protein enzyme complex that targets hypoxia-inducible factor 1-alpha (HIF-1alpha) for destruction. Which of the following enzymatic classes describes the function of the multi-protein complex of which the VHL protein is a component?",
+    "options": [
+      {
+        "text": "E1 ubiquitin-activating enzyme",
+        "correct": false,
+        "explanation": "E1 is a generic enzyme that activates ubiquitin using ATP; it does not confer substrate specificity and is encoded by UBA1, not VHL."
+      },
+      {
+        "text": "20S catalytic core threonine protease",
+        "correct": false,
+        "explanation": "The 20S core of the 26S proteasome contains the catalytic threonine proteases that degrade polyubiquitinated proteins; VHL tags the substrate rather than degrading it directly."
+      },
+      {
+        "text": "Lysosomal acid hydrolase",
+        "correct": false,
+        "explanation": "Lysosomal acid hydrolases degrade extracellular proteins via endocytosis or bulk organelles via autophagy, distinct from the ubiquitin-proteasome pathway."
+      },
+      {
+        "text": "E3 ubiquitin ligase",
+        "correct": true,
+        "explanation": "The Ubiquitin-Proteasome System (UPS) utilizes a three-step enzymatic cascade to target proteins for degradation: (1) E1 (Ubiquitin-activating enzyme) activates ubiquitin in an ATP-dependent reaction. (2) E2 (Ubiquitin-conjugating enzyme) transfers ubiquitin from E1 to its active site cysteine. (3) E3 (UBIQUITIN LIGASE) provides the crucial SUBSTRATE SPECIFICITY. The E3 ligase binds both the E2-ubiquitin conjugate and the specific target substrate, transferring ubiquitin to lysine residues on the target protein. Sequential ubiquitination forms a polyubiquitin chain (via Lys48 linkages), which serves as a recognition signal for degradation by the 26S PROTEASOME. The von Hippel-Lindau (VHL) protein functions as the substrate-recognition subunit of an E3 cullin-RING ubiquitin ligase complex. Under normoxic conditions, proline hydroxylases hydroxylate HIF-1alpha, allowing VHL to bind HIF-1alpha and polyubiquitinate it for proteasomal destruction. Loss of VHL prevents HIF-1alpha degradation, leading to constitutive expression of VEGF, PDGF, and erythropoietin."
+      },
+      {
+        "text": "Deubiquitinating enzyme (DUB)",
+        "correct": false,
+        "explanation": "DUBs remove ubiquitin from proteins to rescue them from degradation, opposing the action of E3 ligases like the VHL complex."
+      }
+    ],
+    "explanation": "The Ubiquitin-Proteasome System (UPS) utilizes a three-step enzymatic cascade to target proteins for degradation: (1) E1 (Ubiquitin-activating enzyme) activates ubiquitin in an ATP-dependent reaction. (2) E2 (Ubiquitin-conjugating enzyme) transfers ubiquitin from E1 to its active site cysteine. (3) E3 (UBIQUITIN LIGASE) provides the crucial SUBSTRATE SPECIFICITY. The E3 ligase binds both the E2-ubiquitin conjugate and the specific target substrate, transferring ubiquitin to lysine residues on the target protein. Sequential ubiquitination forms a polyubiquitin chain (via Lys48 linkages), which serves as a recognition signal for degradation by the 26S PROTEASOME. The von Hippel-Lindau (VHL) protein functions as the substrate-recognition subunit of an E3 cullin-RING ubiquitin ligase complex. Under normoxic conditions, proline hydroxylases hydroxylate HIF-1alpha, allowing VHL to bind HIF-1alpha and polyubiquitinate it for proteasomal destruction. Loss of VHL prevents HIF-1alpha degradation, leading to constitutive expression of VEGF, PDGF, and erythropoietin. VHL is the substrate-recognition component of an E3 ubiquitin ligase complex that polyubiquitinates hydroxylated HIF-1alpha for 26S proteasome destruction.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Ubiquitin-Proteasome System Enzymology.",
+    "keyPoints": [
+      "Ubiquitin-Proteasome System Enzymology",
+      "VHL is the substrate-recognition component of an E3 ubiquitin ligase complex that polyubiquitinates hydroxylated HIF-1alpha for 26S proteasome destruction."
+    ],
+    "references": [
+      {
+        "label": "Kaelin WG Jr. The von Hippel-Lindau tumor suppressor protein and clear cell renal carcinoma. Clin Cancer Res. 2007;13(2 Pt 2):680s-684s. PMID: 17255293.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17255293/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0415",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Gastrointestinal",
+    "topic": "Wnt / Beta-Catenin Signaling in Colorectal Carcinogenesis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old man undergoes screening colonoscopy because his father died of metastatic colorectal cancer at age 38. The colonoscopy reveals greater than 1,500 adenomatous polyps carpeting the entire mucosal surface of the colon and rectum. Genetic sequencing identifies a germline nonsense mutation in the adenomatous polyposis coli (APC) gene. In normal resting colonic epithelial cells in the absence of Wnt ligand, the APC protein forms a scaffolding destruction complex with Axin, glycogen synthase kinase 3-beta (GSK-3beta), and casein kinase 1 (CK1). What is the primary biochemical consequence of loss-of-function APC mutations on this signaling cascade?",
+    "options": [
+      {
+        "text": "Excessive phosphorylation of beta-catenin by active GSK-3beta, accelerating its proteasomal destruction",
+        "correct": false,
+        "explanation": "Loss of the APC scaffold PREVENTS GSK-3beta from phosphorylating beta-catenin; beta-catenin is stabilized, not destroyed."
+      },
+      {
+        "text": "Direct transcriptional repression of the TP53 gene promoter via promoter hypermethylation",
+        "correct": false,
+        "explanation": "APC loss acts through beta-catenin/TCF-LEF, not through direct p53 promoter methylation; p53 mutations occur late in the adenoma-carcinoma sequence."
+      },
+      {
+        "text": "Inability of E-cadherin to anchor at adherens junctions, causing immediate epithelial-to-mesenchymal transition",
+        "correct": false,
+        "explanation": "While beta-catenin also binds E-cadherin at cell junctions, the driver of polyp formation in FAP is transcriptional activation via nuclear beta-catenin/TCF, not immediate loss of cell-cell adhesion."
+      },
+      {
+        "text": "Constitutive activation of KRAS GTPase activity via hyperactive son-of-sevenless (SOS) exchange",
+        "correct": false,
+        "explanation": "KRAS mutations represent the second major step in the classic Vogelstein adenoma-carcinoma sequence, distinct from APC/beta-catenin activation."
+      },
+      {
+        "text": "Failure of cytoplasmic beta-catenin phosphorylation and degradation, leading to its nuclear accumulation and activation of TCF/LEF transcription factors",
+        "correct": true,
+        "explanation": "The Wnt/beta-catenin signaling pathway controls intestinal stem cell renewal and colorectal carcinogenesis: (1) In the ABSENCE of Wnt ligand ('off' state), cytoplasmic beta-catenin is constantly sequestered by a multiprotein 'DESTRUCTION COMPLEX' composed of APC, Axin, CK1, and GSK-3beta. Within this complex, CK1 and GSK-3beta phosphorylate beta-catenin at conserved serine/threonine residues, creating a binding site for the beta-TrCP E3 ubiquitin ligase that targets beta-catenin for rapid 26S proteasomal degradation. (2) When the APC gene suffers biallelic loss-of-function mutations (as in Familial Adenomatous Polyposis, FAP), the destruction complex fails to assemble. Unphosphorylated beta-catenin escapes degradation, accumulates to high levels in the cytoplasm, and translocates into the NUCLEUS. In the nucleus, beta-catenin binds TCF/LEF (T-cell factor/lymphoid enhancer factor) transcription factors, driving constitutive transcription of oncogenic drivers including c-MYC and Cyclin D1, initiating adenoma formation."
+      }
+    ],
+    "explanation": "The Wnt/beta-catenin signaling pathway controls intestinal stem cell renewal and colorectal carcinogenesis: (1) In the ABSENCE of Wnt ligand ('off' state), cytoplasmic beta-catenin is constantly sequestered by a multiprotein 'DESTRUCTION COMPLEX' composed of APC, Axin, CK1, and GSK-3beta. Within this complex, CK1 and GSK-3beta phosphorylate beta-catenin at conserved serine/threonine residues, creating a binding site for the beta-TrCP E3 ubiquitin ligase that targets beta-catenin for rapid 26S proteasomal degradation. (2) When the APC gene suffers biallelic loss-of-function mutations (as in Familial Adenomatous Polyposis, FAP), the destruction complex fails to assemble. Unphosphorylated beta-catenin escapes degradation, accumulates to high levels in the cytoplasm, and translocates into the NUCLEUS. In the nucleus, beta-catenin binds TCF/LEF (T-cell factor/lymphoid enhancer factor) transcription factors, driving constitutive transcription of oncogenic drivers including c-MYC and Cyclin D1, initiating adenoma formation. APC loss destroys the destruction complex -> beta-catenin escapes phosphorylation/degradation -> translocates to nucleus and binds TCF/LEF to transcribe MYC/Cyclin D1.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Wnt / Beta-Catenin Signaling in Colorectal Carcinogenesis.",
+    "keyPoints": [
+      "Wnt / Beta-Catenin Signaling in Colorectal Carcinogenesis",
+      "APC loss destroys the destruction complex -> beta-catenin escapes phosphorylation/degradation -> translocates to nucleus and binds TCF/LEF to transcribe MYC/Cyclin D1."
+    ],
+    "references": [
+      {
+        "label": "Clevers H, Nusse R. Wnt/beta-catenin signaling and disease. Cell. 2012;149(6):1192-1205. PMID: 22682243.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22682243/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0416",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "General Principles",
+    "topic": "Notch Signaling and Regulated Intramembrane Proteolysis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 16-year-old boy presents with fatigue, anterior mediastinal mass, generalized lymphadenopathy, and a peripheral leukocyte count of 94,000/mm3 consisting of 82% lymphoblasts that express CD3, CD4, CD8, and terminal deoxynucleotidyl transferase (TdT), establishing a diagnosis of T-cell acute lymphoblastic leukemia (T-ALL). Molecular cytogenetic analysis identifies an activating mutation in the NOTCH1 gene. In normal developmental hematopoiesis, ligand binding (Delta-like or Jagged) to the extracellular domain of the Notch transmembrane receptor induces sequential proteolytic cleavages. Which of the following membrane-bound proteolytic enzyme complexes performs the final intramembrane cleavage that releases the Notch intracellular domain (NICD) to translocate into the nucleus?",
+    "options": [
+      {
+        "text": "Gamma-secretase complex (presenilin-dependent intramembrane protease)",
+        "correct": true,
+        "explanation": "The Notch signaling pathway regulates binary cell-fate decisions, particularly T-cell lineage specification. The pathway functions without second messengers via regulated intramembrane proteolysis (RIP): (1) Engagement of the extracellular domain by Delta-like or Jagged ligands induces a first cleavage (S2) by an ADAM family metalloproteinase (TACE/ADAM10). (2) This exposes the membrane-proximal stalk to an essential SECOND cleavage (S3) within the hydrophobic lipid bilayer performed by the GAMMA-SECRETASE complex (a multiprotein complex containing presenilin 1/2, nicastrin, APH-1, and PEN-2). (3) Gamma-secretase intramembrane cleavage liberates the Notch Intracellular Domain (NICD). (4) NICD translocates directly into the nucleus, complexes with the CSL (RBP-Jkappa) DNA-binding transcription factor, displaces corepressors, recruits coactivators (MAML1, p300), and transcribes T-cell developmental target genes (e.g., HES1, MYC). Over 50% of human T-ALL cases harbor activating NOTCH1 mutations, making gamma-secretase inhibitors an active area of investigation."
+      },
+      {
+        "text": "Beta-site amyloid precursor protein cleaving enzyme 1 (BACE1)",
+        "correct": false,
+        "explanation": "BACE1 is a beta-secretase that performs an extracellular luminal cleavage of amyloid precursor protein (APP) in Alzheimer disease, not the intramembrane S3 cleavage of Notch."
+      },
+      {
+        "text": "Granzyme B serine protease",
+        "correct": false,
+        "explanation": "Granzyme B is delivered by cytotoxic T cells and natural killer cells to cleave procaspases and Bid, inducing apoptosis, not intramembrane receptor processing."
+      },
+      {
+        "text": "Angiotensin-converting enzyme 2 (ACE2)",
+        "correct": false,
+        "explanation": "ACE2 is an endothelial zinc carboxypeptidase that converts angiotensin II to angiotensin-(1-7); it does not perform intramembrane cleavage."
+      },
+      {
+        "text": "Caspase-8 cysteine-aspartic protease",
+        "correct": false,
+        "explanation": "Caspase-8 is an initiator caspase in the extrinsic apoptosis pathway, not an intramembrane multiprotein secretase complex."
+      }
+    ],
+    "explanation": "The Notch signaling pathway regulates binary cell-fate decisions, particularly T-cell lineage specification. The pathway functions without second messengers via regulated intramembrane proteolysis (RIP): (1) Engagement of the extracellular domain by Delta-like or Jagged ligands induces a first cleavage (S2) by an ADAM family metalloproteinase (TACE/ADAM10). (2) This exposes the membrane-proximal stalk to an essential SECOND cleavage (S3) within the hydrophobic lipid bilayer performed by the GAMMA-SECRETASE complex (a multiprotein complex containing presenilin 1/2, nicastrin, APH-1, and PEN-2). (3) Gamma-secretase intramembrane cleavage liberates the Notch Intracellular Domain (NICD). (4) NICD translocates directly into the nucleus, complexes with the CSL (RBP-Jkappa) DNA-binding transcription factor, displaces corepressors, recruits coactivators (MAML1, p300), and transcribes T-cell developmental target genes (e.g., HES1, MYC). Over 50% of human T-ALL cases harbor activating NOTCH1 mutations, making gamma-secretase inhibitors an active area of investigation. Notch signaling final intramembrane cleavage is executed by the gamma-secretase complex (presenilin), releasing NICD to enter the nucleus.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Notch Signaling and Regulated Intramembrane Proteolysis.",
+    "keyPoints": [
+      "Notch Signaling and Regulated Intramembrane Proteolysis",
+      "Notch signaling final intramembrane cleavage is executed by the gamma-secretase complex (presenilin), releasing NICD to enter the nucleus."
+    ],
+    "references": [
+      {
+        "label": "Aster JC, Pear WS, Blacklow SC. The Varied Roles of Notch in Cancer. Annu Rev Pathol. 2017;12:245-275. PMID: 27959635.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27959635/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0417",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "General Principles",
+    "topic": "TGF-Beta / SMAD Signaling Cascades",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "An experimental model of progressive tissue fibrosis investigates the molecular pathways activated in hepatic stellate cells during cirrhosis development. Upon exposure to transforming growth factor-beta 1 (TGF-beta1), the ligand binds to a cell-surface Type II receptor, which recruits, transphosphorylates, and activates a Type I receptor. Unlike traditional growth factor receptors (such as EGFR or PDGFR) that possess intrinsic tyrosine kinase activity, the active cytoplasmic domains of TGF-beta receptors possess a distinct enzymatic activity that phosphorylates receptor-regulated intracellular effector proteins (R-SMADs) at a C-terminal SSXS motif. Which of the following describes the enzymatic activity of the TGF-beta receptor complex and the identity of the common-mediator protein with which phosphorylated R-SMADs must partner to enter the nucleus?",
+    "options": [
+      {
+        "text": "Tyrosine kinase activity; partners with signal transducer and activator of transcription 3 (STAT3)",
+        "correct": false,
+        "explanation": "TGF-beta receptors are serine/threonine kinases, not tyrosine kinases; STAT3 is activated by non-receptor tyrosine kinases (JAKs)."
+      },
+      {
+        "text": "Serine/threonine kinase activity; partners with common-mediator SMAD4 (Co-SMAD)",
+        "correct": true,
+        "explanation": "The TGF-beta signaling superfamily (including TGF-beta, bone morphogenetic proteins [BMPs], and activin) is unique among membrane growth factor receptors because its receptors possess intrinsic SERINE/THREONINE KINASE activity, rather than tyrosine kinase activity. The signaling sequence is: (1) TGF-beta binds the Type II receptor (a constitutively active serine/threonine kinase). (2) The Type II receptor recruits and transphosphorylates the Type I receptor at its GS domain. (3) The activated Type I receptor phosphorylates Receptor-regulated SMADs (R-SMADs: SMAD2 and SMAD3 for TGF-beta; SMAD1/5/8 for BMPs) at a C-terminal SSXS serine motif. (4) Phosphorylated R-SMADs dissociate from the receptor and form a trimeric complex with the universal common-mediator SMAD: SMAD4 (Co-SMAD). (5) The R-SMAD/SMAD4 complex translocates into the nucleus, binding DNA alongside transcriptional cofactors to drive extracellular matrix collagen synthesis (fibrosis) or cell cycle inhibition (p15/p21). Inactivating mutations of SMAD4 are frequent in pancreatic and gastrointestinal carcinomas."
+      },
+      {
+        "text": "Guanosine triphosphatase (GTPase) activity; partners with the beta-arrestin adaptor complex",
+        "correct": false,
+        "explanation": "Receptors do not possess intrinsic GTPase activity (GTPases are G-alpha or Ras proteins); beta-arrestin is an adaptor for GPCRs, not TGF-beta."
+      },
+      {
+        "text": "Phospholipase activity; partners with the calcineurin protein phosphatase",
+        "correct": false,
+        "explanation": "Phospholipase activity is exhibited by PLC, not TGF-beta receptors; calcineurin is activated by Ca2+-calmodulin to dephosphorylate NFAT."
+      },
+      {
+        "text": "Histone acetyltransferase activity; partners with the E2F1 transcription factor",
+        "correct": false,
+        "explanation": "Histone acetyltransferases (e.g., p300/CBP) are nuclear transcriptional coactivators, not cell-surface transmembrane receptors."
+      }
+    ],
+    "explanation": "The TGF-beta signaling superfamily (including TGF-beta, bone morphogenetic proteins [BMPs], and activin) is unique among membrane growth factor receptors because its receptors possess intrinsic SERINE/THREONINE KINASE activity, rather than tyrosine kinase activity. The signaling sequence is: (1) TGF-beta binds the Type II receptor (a constitutively active serine/threonine kinase). (2) The Type II receptor recruits and transphosphorylates the Type I receptor at its GS domain. (3) The activated Type I receptor phosphorylates Receptor-regulated SMADs (R-SMADs: SMAD2 and SMAD3 for TGF-beta; SMAD1/5/8 for BMPs) at a C-terminal SSXS serine motif. (4) Phosphorylated R-SMADs dissociate from the receptor and form a trimeric complex with the universal common-mediator SMAD: SMAD4 (Co-SMAD). (5) The R-SMAD/SMAD4 complex translocates into the nucleus, binding DNA alongside transcriptional cofactors to drive extracellular matrix collagen synthesis (fibrosis) or cell cycle inhibition (p15/p21). Inactivating mutations of SMAD4 are frequent in pancreatic and gastrointestinal carcinomas. TGF-beta receptors have intrinsic serine/threonine kinase activity; phosphorylated R-SMADs bind common-mediator SMAD4 to enter the nucleus.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of TGF-Beta / SMAD Signaling Cascades.",
+    "keyPoints": [
+      "TGF-Beta / SMAD Signaling Cascades",
+      "TGF-beta receptors have intrinsic serine/threonine kinase activity; phosphorylated R-SMADs bind common-mediator SMAD4 to enter the nucleus."
+    ],
+    "references": [
+      {
+        "label": "Massague J. TGFbeta signalling in context. Nat Rev Mol Cell Biol. 2012;13(10):616-630. PMID: 22992590.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22992590/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0418",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Dermatology",
+    "topic": "Hedgehog Signaling Pathway in Basal Cell Carcinoma",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old man presents with a slowly enlarging, non-healing ulcerated nodule on his right temple. Physical examination reveals a 1.8-cm pearly, translucent pink papule with rolled borders, central ulceration, and prominent overlying telangiectasias. Punch biopsy demonstrates nests of atypical basaloid cells extending from the epidermis into the dermis with characteristic peripheral palisading and stromal retraction artifact, confirming nodular basal cell carcinoma. Molecular analysis demonstrates biallelic loss-of-function mutations in the PTCH1 gene. Under normal physiological conditions in the absence of Sonic Hedgehog (Shh) ligand, what is the primary regulatory function of the Patched-1 (PTCH1) receptor protein?",
+    "options": [
+      {
+        "text": "Direct phosphorylation of GLI transcription factors to trigger their nuclear export",
+        "correct": false,
+        "explanation": "PTCH1 does not act as a kinase to directly phosphorylate GLI; GLI is phosphorylated by cytoplasmic PKA, CK1, and GSK-3beta downstream of SMO repression."
+      },
+      {
+        "text": "Covalent dimerization with the epidermal growth factor receptor to block Ras GTP loading",
+        "correct": false,
+        "explanation": "PTCH1 does not heterodimerize with EGFR or signal through Ras; it specifically regulates Smoothened."
+      },
+      {
+        "text": "Constitutive tonic inhibition of the transmembrane G-protein coupled-like transducer Smoothened (SMO)",
+        "correct": true,
+        "explanation": "The Hedgehog (Hh) signaling pathway regulates tissue patterning and stem cell maintenance, and its aberrant activation drives basal cell carcinoma (BCC): (1) In the ABSENCE of Hedgehog ligand (repressed state), the 12-transmembrane receptor PATCHED-1 (PTCH1) resides in the primary cilium and exerts CONSTITUTIVE TONIC INHIBITION on SMOOTHENED (SMO), a 7-transmembrane GPCR-like transducer. In this repressed state, GLI zinc-finger transcription factors are phosphorylated, cleaved by proteasomes into truncated repressors (GLI-R), and block target gene transcription. (2) When Sonic Hedgehog binds PTCH1 (or when PTCH1 loses function via mutation, as in sporadic BCC or Gorlin syndrome/nevoid BCC syndrome), PTCH1 is internalized, relieving its tonic inhibition on SMO. Active SMO accumulates in the primary cilium, preventing GLI repressor cleavage and allowing full-length GLI activators (GLI-A) to translocate into the nucleus, transcribing oncogenic drivers (GLI1, PTCH1, BCL2, Cyclin D). Vismodegib and sonidegib are targeted SMO antagonists that restore pathway repression in advanced BCC."
+      },
+      {
+        "text": "Cleavage of membrane-bound Notch to generate nuclear transcription factors",
+        "correct": false,
+        "explanation": "Intramembrane cleavage of Notch is performed by the gamma-secretase complex, unrelated to the Patched/Hedgehog pathway."
+      },
+      {
+        "text": "Ubiquitination of beta-catenin in coordination with the Axin-APC scaffold",
+        "correct": false,
+        "explanation": "Beta-catenin ubiquitination is governed by the Wnt destruction complex, distinct from the Hedgehog/Smoothened pathway."
+      }
+    ],
+    "explanation": "The Hedgehog (Hh) signaling pathway regulates tissue patterning and stem cell maintenance, and its aberrant activation drives basal cell carcinoma (BCC): (1) In the ABSENCE of Hedgehog ligand (repressed state), the 12-transmembrane receptor PATCHED-1 (PTCH1) resides in the primary cilium and exerts CONSTITUTIVE TONIC INHIBITION on SMOOTHENED (SMO), a 7-transmembrane GPCR-like transducer. In this repressed state, GLI zinc-finger transcription factors are phosphorylated, cleaved by proteasomes into truncated repressors (GLI-R), and block target gene transcription. (2) When Sonic Hedgehog binds PTCH1 (or when PTCH1 loses function via mutation, as in sporadic BCC or Gorlin syndrome/nevoid BCC syndrome), PTCH1 is internalized, relieving its tonic inhibition on SMO. Active SMO accumulates in the primary cilium, preventing GLI repressor cleavage and allowing full-length GLI activators (GLI-A) to translocate into the nucleus, transcribing oncogenic drivers (GLI1, PTCH1, BCL2, Cyclin D). Vismodegib and sonidegib are targeted SMO antagonists that restore pathway repression in advanced BCC. In the absence of Hedgehog, PTCH1 tonically inhibits Smoothened (SMO); loss of PTCH1 in basal cell carcinoma relieves SMO inhibition, activating GLI transcription.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hedgehog Signaling Pathway in Basal Cell Carcinoma.",
+    "keyPoints": [
+      "Hedgehog Signaling Pathway in Basal Cell Carcinoma",
+      "In the absence of Hedgehog, PTCH1 tonically inhibits Smoothened (SMO); loss of PTCH1 in basal cell carcinoma relieves SMO inhibition, activating GLI transcription."
+    ],
+    "references": [
+      {
+        "label": "Epstein EH. Basal cell carcinomas: attack of the hedgehog. Nat Rev Cancer. 2008;8(10):743-754. PMID: 18784738.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18784738/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0419",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "General Principles",
+    "topic": "NF-kappa-B Signaling and I-kappa-B Degradation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Cultured human peripheral blood macrophages are stimulated with bacterial lipopolysaccharide (LPS). LPS binds to CD14 and Toll-like receptor 4 (TLR4), initiating an intracellular signaling cascade via MyD88 and IRAK4 that activates the I-kappa-B kinase (IKK) trimeric complex. Activated IKK rapidly phosphorylates two conserved serine residues on an endogenous inhibitory chaperone protein. Phosphorylation triggers polyubiquitination and subsequent degradation of this inhibitory protein within the 26S proteasome, thereby releasing a p50/p65 heterodimeric transcription factor to expose its nuclear localization sequence (NLS) and migrate into the nucleus. Which of the following proteins serves as the specific inhibitory chaperone that undergoes phosphorylation and degradation in this pathway?",
+    "options": [
+      {
+        "text": "Heat shock protein 90 (HSP90)",
+        "correct": false,
+        "explanation": "HSP90 sequesters cytoplasmic steroid hormone receptors (e.g., glucocorticoid receptor) in the absence of ligand, not the NF-kappa-B p50/p65 heterodimer."
+      },
+      {
+        "text": "Calreticulin chaperone",
+        "correct": false,
+        "explanation": "Calreticulin is an endoplasmic reticulum quality-control lectin chaperone that binds newly synthesized glycoproteins, not a cytoplasmic NF-kappa-B regulator."
+      },
+      {
+        "text": "14-3-3 sigma adaptor protein",
+        "correct": false,
+        "explanation": "14-3-3 proteins bind phosphorylated BAD or phosphorylated FOXO transcription factors in the cytoplasm, not the p50/p65 NF-kappa-B complex."
+      },
+      {
+        "text": "I-kappa-B-alpha (IkappaBalpha)",
+        "correct": true,
+        "explanation": "Nuclear factor kappa-light-chain-enhancer of activated B cells (NF-kappa-B) is the master transcriptional regulator of innate immunity, inflammation, and cell survival: (1) In resting cells, the canonical NF-kappa-B heterodimer (composed of p50 and RelA/p65 subunits) is sequestered in the cytoplasm by its physical association with an inhibitory chaperone: I-KAPPA-B-ALPHA (IkappaBalpha). IkappaBalpha sterically masks the nuclear localization sequence (NLS) of the p65 subunit, preventing nuclear entry. (2) Upon inflammatory stimulation (LPS via TLR4, TNF-alpha via TNFR1, IL-1beta via IL-1R), an upstream kinase cascade activates the I-kappa-B kinase (IKK) complex. (3) IKK phosphorylates IkappaBalpha at serines 32 and 36. (4) Phosphorylation recruits the beta-TrCP E3 ubiquitin ligase, which polyubiquitinates IkappaBalpha, targeting it for rapid degradation by the 26S proteasome. (5) Destruction of IkappaBalpha unmasks the NLS of NF-kappa-B, allowing p50/p65 to translocate into the nucleus and transcribe inflammatory cytokines (TNF, IL-1, IL-6), chemokines, adhesion molecules (ICAM-1), and anti-apoptotic genes."
+      },
+      {
+        "text": "Myeloid differentiation primary response 88 (MyD88)",
+        "correct": false,
+        "explanation": "MyD88 is an upstream cytosolic adapter that couples TLR4 to IRAK4/TRAF6; it is not the inhibitory chaperone that masks the NF-kappa-B nuclear localization sequence."
+      }
+    ],
+    "explanation": "Nuclear factor kappa-light-chain-enhancer of activated B cells (NF-kappa-B) is the master transcriptional regulator of innate immunity, inflammation, and cell survival: (1) In resting cells, the canonical NF-kappa-B heterodimer (composed of p50 and RelA/p65 subunits) is sequestered in the cytoplasm by its physical association with an inhibitory chaperone: I-KAPPA-B-ALPHA (IkappaBalpha). IkappaBalpha sterically masks the nuclear localization sequence (NLS) of the p65 subunit, preventing nuclear entry. (2) Upon inflammatory stimulation (LPS via TLR4, TNF-alpha via TNFR1, IL-1beta via IL-1R), an upstream kinase cascade activates the I-kappa-B kinase (IKK) complex. (3) IKK phosphorylates IkappaBalpha at serines 32 and 36. (4) Phosphorylation recruits the beta-TrCP E3 ubiquitin ligase, which polyubiquitinates IkappaBalpha, targeting it for rapid degradation by the 26S proteasome. (5) Destruction of IkappaBalpha unmasks the NLS of NF-kappa-B, allowing p50/p65 to translocate into the nucleus and transcribe inflammatory cytokines (TNF, IL-1, IL-6), chemokines, adhesion molecules (ICAM-1), and anti-apoptotic genes. IKK phosphorylates I-kappa-B-alpha, triggering its proteasomal degradation and unmasking the NF-kappa-B (p50/p65) nuclear localization signal.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of NF-kappa-B Signaling and I-kappa-B Degradation.",
+    "keyPoints": [
+      "NF-kappa-B Signaling and I-kappa-B Degradation",
+      "IKK phosphorylates I-kappa-B-alpha, triggering its proteasomal degradation and unmasking the NF-kappa-B (p50/p65) nuclear localization signal."
+    ],
+    "references": [
+      {
+        "label": "Hayden MS, Ghosh S. Shared principles in NF-kappaB signaling. Cell. 2008;132(3):344-362. PMID: 18267068.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18267068/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0420",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Nervous System",
+    "topic": "Ras-MAPK Pathway and Neurofibromatosis Type 1",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "An 8-year-old boy is brought to the clinic for a routine physical examination. His mother reports that he has mild learning difficulties in school. Physical examination reveals eight smooth-bordered, light brown macules measuring 15 to 30 mm in diameter on his trunk and thighs (> 6 café-au-lait spots), prominent freckling in the bilateral axillary and inguinal regions (Crowe sign), and multiple raised, soft, flesh-colored subcutaneous nodules. Slit-lamp biomicroscopy reveals bilateral pigmented iris hamartomas (Lisch nodules). Genetic testing confirms a heterozygous loss-of-function mutation in the NF1 gene on chromosome 17q11.2. The normal protein product of this gene, neurofibromin, functions as a critical negative regulator of an intracellular molecular switch. Which of the following biochemical functions is directly mediated by normal neurofibromin?",
+    "options": [
+      {
+        "text": "Guanine nucleotide exchange factor (GEF) activity that unloads GDP from Ras to facilitate GTP binding",
+        "correct": false,
+        "explanation": "GEF activity (performed by SOS) ACTIVATES Ras by facilitating GTP loading; neurofibromin is a GAP that INACTIVATES Ras by promoting GTP hydrolysis."
+      },
+      {
+        "text": "Farnesyltransferase-mediated post-translational isoprenylation of Ras to anchor it to the plasma membrane",
+        "correct": false,
+        "explanation": "Farnesyltransferase adds a lipid moiety to anchor Ras to the inner leaflet of the plasma membrane, distinct from neurofibromin's GAP catalytic function."
+      },
+      {
+        "text": "Direct dephosphorylation of MEK1/2 to terminate downstream ERK kinase activation",
+        "correct": false,
+        "explanation": "Dephosphorylation of MAP kinases is performed by dual-specificity phosphatases (DUSPs), not neurofibromin."
+      },
+      {
+        "text": "Cleavage of membrane phosphoinositides to generate inositol 1,4,5-trisphosphate and diacylglycerol",
+        "correct": false,
+        "explanation": "Cleavage of PIP2 into IP3 and DAG is the function of phospholipase C (PLC), unrelated to neurofibromin."
+      },
+      {
+        "text": "Acceleration of intrinsic GTP hydrolysis by Ras, converting active Ras-GTP into inactive Ras-GDP",
+        "correct": true,
+        "explanation": "Neurofibromatosis type 1 (NF1, von Recklinghausen disease) is an autosomal dominant disorder caused by loss-of-function mutations in the NF1 tumor suppressor gene on chromosome 17q11.2. The NF1 gene product, NEUROFIBROMIN, contains a central domain that functions as a GTPase-ACTIVATING PROTEIN (GAP). Ras is a small membrane-anchored monomeric G-protein that alternates between an inactive GDP-bound state and an active GTP-bound state. Guanine nucleotide exchange factors (GEFs, such as SOS) activate Ras by loading GTP. Active Ras-GTP recruits Raf-1 to trigger the mitogenic MAPK (Raf-MEK-ERK) signaling cascade. Neurofibromin (Ras-GAP) terminates signaling by accelerating the intrinsically slow GTPase activity of Ras by over 100,000-fold, rapidly hydrolyzing GTP to GDP. Loss of neurofibromin leads to failure of Ras-GTP inactivation, causing unbridled Ras-MAPK signaling and predisposing to neurofibromas, optic pathway gliomas, malignant peripheral nerve sheath tumors, and pheochromocytomas."
+      }
+    ],
+    "explanation": "Neurofibromatosis type 1 (NF1, von Recklinghausen disease) is an autosomal dominant disorder caused by loss-of-function mutations in the NF1 tumor suppressor gene on chromosome 17q11.2. The NF1 gene product, NEUROFIBROMIN, contains a central domain that functions as a GTPase-ACTIVATING PROTEIN (GAP). Ras is a small membrane-anchored monomeric G-protein that alternates between an inactive GDP-bound state and an active GTP-bound state. Guanine nucleotide exchange factors (GEFs, such as SOS) activate Ras by loading GTP. Active Ras-GTP recruits Raf-1 to trigger the mitogenic MAPK (Raf-MEK-ERK) signaling cascade. Neurofibromin (Ras-GAP) terminates signaling by accelerating the intrinsically slow GTPase activity of Ras by over 100,000-fold, rapidly hydrolyzing GTP to GDP. Loss of neurofibromin leads to failure of Ras-GTP inactivation, causing unbridled Ras-MAPK signaling and predisposing to neurofibromas, optic pathway gliomas, malignant peripheral nerve sheath tumors, and pheochromocytomas. Neurofibromin is a Ras-GAP that accelerates intrinsic Ras GTP hydrolysis (Ras-GTP -> Ras-GDP); NF1 loss leads to constitutive Ras-MAPK signaling.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Ras-MAPK Pathway and Neurofibromatosis Type 1.",
+    "keyPoints": [
+      "Ras-MAPK Pathway and Neurofibromatosis Type 1",
+      "Neurofibromin is a Ras-GAP that accelerates intrinsic Ras GTP hydrolysis (Ras-GTP -> Ras-GDP); NF1 loss leads to constitutive Ras-MAPK signaling."
+    ],
+    "references": [
+      {
+        "label": "Ratner N, Miller SJ. A role for neurofibromin in NF1-associated tumors. Nat Rev Cancer. 2015;15(5):290-301. PMID: 25907221.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25907221/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0421",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Endocrine",
+    "topic": "Nuclear Receptor Superfamily Mechanics",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An endocrine pharmacology laboratory compares the cellular mechanisms of action of dexamethasone (a synthetic glucocorticoid) and levothyroxine (thyroid hormone, T4/T3). In radiolabeled ligand-binding assays, unbound glucocorticoid receptors are isolated predominantly from the cytosolic subcellular fraction bound to molecular chaperone complexes containing heat shock protein 90 (HSP90). Upon ligand binding, HSP90 dissociates, allowing the receptor to homodimerize and translocate into the nucleus. In contrast, unbound thyroid hormone receptors (TRs) are isolated exclusively from the nuclear chromatin fraction even in the complete absence of thyroid hormone. Which of the following features best characterizes the inactive, unbound state of the thyroid hormone receptor within the nucleus?",
+    "options": [
+      {
+        "text": "Bound to DNA as a heterodimer with the Retinoid X Receptor (RXR) complexed with corepressor proteins that actively silence target gene transcription",
+        "correct": true,
+        "explanation": "The nuclear receptor superfamily is classified into two major structural and functional types: (1) TYPE I (Steroid receptors: glucocorticoid, mineralocorticoid, progesterone, androgen, estrogen receptors). In the absence of hormone, Type I receptors reside in the CYTOPLASM complexed with molecular chaperones (HSP90, HSP70). Ligand binding induces conformational change, chaperone dissociation, receptor homodimerization, and nuclear translocation to bind inverted palindromic hormone response elements (HREs). (2) TYPE II (Non-steroid receptors: Thyroid hormone [TR], Vitamin D [VDR], Retinoic acid [RAR], Peroxisome proliferator-activated [PPAR] receptors). Type II receptors reside CONSTITUTIVELY IN THE NUCLEUS bound to direct repeat DNA response elements as HETERODIMERS with the Retinoid X Receptor (RXR). In the absence of ligand, the TR-RXR heterodimer binds COREPRESSOR proteins (NCoR, SMRT) that recruit histone deacetylases (HDACs), actively silencing basal transcription. Ligand binding induces corepressor dissociation and coactivator recruitment (histone acetyltransferases), switching the complex to an active transcriptional activator."
+      },
+      {
+        "text": "Sequestered in the nucleolus by binding to ribosomal RNA precursors until hormone-dependent export to the cytoplasm",
+        "correct": false,
+        "explanation": "Thyroid hormone receptors do not reside in the nucleolus or export to the cytoplasm upon ligand binding; they operate directly on promoter chromatin."
+      },
+      {
+        "text": "Tethered to the inner nuclear envelope by lamin A/C phosphorylation",
+        "correct": false,
+        "explanation": "Lamin A/C provides nuclear structural support, but nuclear hormone receptors bind specific genomic DNA response elements."
+      },
+      {
+        "text": "Cleaved into inactive fragments by the 20S proteasome until ubiquitin-specific ligases reassemble the active domain",
+        "correct": false,
+        "explanation": "Receptors are not cleaved and reassembled; they exist as full-length intact transcription factor heterodimers."
+      },
+      {
+        "text": "Bound to the cytoplasmic face of the rough endoplasmic reticulum adjacent to signal recognition particles",
+        "correct": false,
+        "explanation": "Type II nuclear receptors never localize to the rough ER; they reside constitutively within the nucleus."
+      }
+    ],
+    "explanation": "The nuclear receptor superfamily is classified into two major structural and functional types: (1) TYPE I (Steroid receptors: glucocorticoid, mineralocorticoid, progesterone, androgen, estrogen receptors). In the absence of hormone, Type I receptors reside in the CYTOPLASM complexed with molecular chaperones (HSP90, HSP70). Ligand binding induces conformational change, chaperone dissociation, receptor homodimerization, and nuclear translocation to bind inverted palindromic hormone response elements (HREs). (2) TYPE II (Non-steroid receptors: Thyroid hormone [TR], Vitamin D [VDR], Retinoic acid [RAR], Peroxisome proliferator-activated [PPAR] receptors). Type II receptors reside CONSTITUTIVELY IN THE NUCLEUS bound to direct repeat DNA response elements as HETERODIMERS with the Retinoid X Receptor (RXR). In the absence of ligand, the TR-RXR heterodimer binds COREPRESSOR proteins (NCoR, SMRT) that recruit histone deacetylases (HDACs), actively silencing basal transcription. Ligand binding induces corepressor dissociation and coactivator recruitment (histone acetyltransferases), switching the complex to an active transcriptional activator. Type II nuclear receptors (thyroid hormone, vitamin D) reside constitutively in the nucleus as RXR heterodimers bound to corepressors, actively silencing transcription until ligand binds.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Nuclear Receptor Superfamily Mechanics.",
+    "keyPoints": [
+      "Nuclear Receptor Superfamily Mechanics",
+      "Type II nuclear receptors (thyroid hormone, vitamin D) reside constitutively in the nucleus as RXR heterodimers bound to corepressors, actively silencing transcription until ligand"
+    ],
+    "references": [
+      {
+        "label": "Mangelsdorf DJ, et al. The nuclear receptor superfamily: the second decade. Cell. 1995;83(6):835-839. PMID: 8521507.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8521507/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0422",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "General Principles",
+    "topic": "Phospholipase C and Gq Signal Transduction",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An experimental pharmacology assay studies the second-messenger cascade triggered when oxytocin binds to its G-protein-coupled receptor on human myometrial smooth muscle cells. Receptor activation leads to GTP-loading of heterotrimeric Gq-alpha subunits, which activate phospholipase C-beta (PLC-beta). PLC-beta hydrolyzes the minor plasma membrane phospholipid phosphatidylinositol 4,5-bisphosphate (PIP2) into two distinct second messengers. One messenger is a water-soluble molecule that diffuses through the cytosol to open calcium channels on the sarcoplasmic reticulum, whereas the other messenger is a hydrophobic molecule that remains embedded in the inner leaflet of the plasma membrane. Which of the following downstream enzymes is directly activated by the combined action of this membrane-bound hydrophobic messenger and elevated cytosolic calcium?",
+    "options": [
+      {
+        "text": "Protein kinase A (PKA)",
+        "correct": false,
+        "explanation": "Protein kinase A is activated by cyclic AMP (cAMP) downstream of Gs-coupled adenylyl cyclase, not by DAG and calcium."
+      },
+      {
+        "text": "Protein kinase C (PKC)",
+        "correct": true,
+        "explanation": "The Gq-coupled signaling cascade bifurcates through the cleavage of PIP2 by phospholipase C (PLC): (1) INOSITOL 1,4,5-TRISPHOSPHATE (IP3): A water-soluble, hydrophilic molecule that diffuses through the cytoplasm to bind ligand-gated IP3 receptors on the sarcoplasmic/endoplasmic reticulum, triggering the release of stored Ca2+ into the cytosol. (2) DIACYLGLYCEROL (DAG): A hydrophobic molecule consisting of a glycerol backbone and two fatty acyl chains that remains anchored in the inner leaflet of the plasma membrane. DAG and the elevated cytosolic Ca2+ work synergistically to recruit and activate PROTEIN KINASE C (PKC). Activated conventional PKC isoforms phosphorylate target cellular proteins (such as caldesmon and calponin in smooth muscle) to promote contractility and cellular proliferation."
+      },
+      {
+        "text": "Protein kinase G (PKG)",
+        "correct": false,
+        "explanation": "Protein kinase G is activated by cyclic GMP (cGMP) downstream of nitric oxide and guanylyl cyclase, not by Gq/PLC/DAG."
+      },
+      {
+        "text": "Calmodulin-dependent protein kinase II (CaMKII)",
+        "correct": false,
+        "explanation": "CaMKII is activated by the Ca2+-calmodulin complex alone; it does not bind or require the membrane-anchored lipid diacylglycerol (DAG)."
+      },
+      {
+        "text": "Phospholipase A2 (PLA2)",
+        "correct": false,
+        "explanation": "Phospholipase A2 cleaves membrane phospholipids to release arachidonic acid for eicosanoid synthesis; it is not the classic target activated by DAG."
+      }
+    ],
+    "explanation": "The Gq-coupled signaling cascade bifurcates through the cleavage of PIP2 by phospholipase C (PLC): (1) INOSITOL 1,4,5-TRISPHOSPHATE (IP3): A water-soluble, hydrophilic molecule that diffuses through the cytoplasm to bind ligand-gated IP3 receptors on the sarcoplasmic/endoplasmic reticulum, triggering the release of stored Ca2+ into the cytosol. (2) DIACYLGLYCEROL (DAG): A hydrophobic molecule consisting of a glycerol backbone and two fatty acyl chains that remains anchored in the inner leaflet of the plasma membrane. DAG and the elevated cytosolic Ca2+ work synergistically to recruit and activate PROTEIN KINASE C (PKC). Activated conventional PKC isoforms phosphorylate target cellular proteins (such as caldesmon and calponin in smooth muscle) to promote contractility and cellular proliferation. PLC cleaves PIP2 into soluble IP3 (releases Ca2+ from SR) and membrane-bound DAG; DAG + Ca2+ directly activate Protein Kinase C (PKC).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Phospholipase C and Gq Signal Transduction.",
+    "keyPoints": [
+      "Phospholipase C and Gq Signal Transduction",
+      "PLC cleaves PIP2 into soluble IP3 (releases Ca2+ from SR) and membrane-bound DAG; DAG + Ca2+ directly activate Protein Kinase C (PKC)."
+    ],
+    "references": [
+      {
+        "label": "Nishizuka Y. Intracellular signaling by hydrolysis of phospholipids and activation of protein kinase C. Science. 1992;258(5082):607-614. PMID: 1411541.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1411541/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0423",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "General Principles",
+    "topic": "Resting Membrane Potential Biophysics",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An intracellular glass microelectrode records the resting membrane potential of a healthy human skeletal muscle cell at -85 mV. The extracellular and intracellular concentrations of major ions are measured: \n- Extracellular Na+: 145 mEq/L, Intracellular Na+: 12 mEq/L (ENa = +67 mV)\n- Extracellular K+: 4.0 mEq/L, Intracellular K+: 140 mEq/L (EK = -95 mV)\n- Extracellular Cl-: 110 mEq/L, Intracellular Cl-: 10 mEq/L (ECl = -64 mV)\n- Extracellular Ca2+: 2.0 mEq/L, Intracellular free Ca2+: 0.0001 mEq/L (ECa = +129 mV)\n\nUnder resting conditions, which of the following biophysical properties of the plasma membrane primarily accounts for the observation that the resting membrane potential (-85 mV) is close to the potassium equilibrium potential (-95 mV) and far from the sodium equilibrium potential (+67 mV)?",
+    "options": [
+      {
+        "text": "Direct 1:1 electroneutral transport of sodium and potassium by the plasma membrane Na+/K+-ATPase",
+        "correct": false,
+        "explanation": "The Na+/K+-ATPase is electrogenic, pumping 3 Na+ out for every 2 K+ in (a 3:2 net ratio, not 1:1), but its direct pump current contributes only ~ -3 to -5 mV; high K+ permeability drives the remaining -80 mV."
+      },
+      {
+        "text": "Active extrusion of chloride ions by sodium-potassium-chloride cotransporters to maintain negative resting potential",
+        "correct": false,
+        "explanation": "Chloride transport adjusts intracellular chloride, but the primary determinant of negative resting membrane potential is high potassium permeability."
+      },
+      {
+        "text": "High resting membrane permeability to potassium relative to sodium through constitutively open background potassium leak channels",
+        "correct": true,
+        "explanation": "The resting membrane potential (Vm) of excitable cells is determined by two factors: (1) the concentration gradients of ions across the membrane (maintained by the electrogenic Na+/K+-ATPase pump), and (2) the RELATIVE PERMEABILITY of the membrane to each ion, as described mathematically by the Goldman-Hodgkin-Katz (GHK) voltage equation. At rest, the membrane permeability to potassium (PK) is 25 to 100 times greater than its permeability to sodium (PNa) or other ions, primarily due to the presence of constitutively open inward-rectifying and two-pore domain (K2P) background potassium 'leak' channels. Because potassium can diffuse down its chemical gradient out of the cell much more freely than sodium can enter, Vm is driven close to the potassium equilibrium potential (EK = -95 mV). The slight difference between -85 mV and -95 mV reflects a small basal inward leak of sodium ions."
+      },
+      {
+        "text": "Continuous opening of voltage-gated sodium channels operating at subthreshold membrane voltages",
+        "correct": false,
+        "explanation": "Voltage-gated sodium channels are predominantly closed and inactivated at -85 mV; opening them would depolarize the membrane toward +67 mV."
+      },
+      {
+        "text": "Intracellular binding of all free calcium to sarcoplasmic reticulum calsequestrin molecules",
+        "correct": false,
+        "explanation": "Calsequestrin buffers calcium inside the sarcoplasmic reticulum, but resting membrane potential across the sarcolemma is governed by surface potassium leak permeability."
+      }
+    ],
+    "explanation": "The resting membrane potential (Vm) of excitable cells is determined by two factors: (1) the concentration gradients of ions across the membrane (maintained by the electrogenic Na+/K+-ATPase pump), and (2) the RELATIVE PERMEABILITY of the membrane to each ion, as described mathematically by the Goldman-Hodgkin-Katz (GHK) voltage equation. At rest, the membrane permeability to potassium (PK) is 25 to 100 times greater than its permeability to sodium (PNa) or other ions, primarily due to the presence of constitutively open inward-rectifying and two-pore domain (K2P) background potassium 'leak' channels. Because potassium can diffuse down its chemical gradient out of the cell much more freely than sodium can enter, Vm is driven close to the potassium equilibrium potential (EK = -95 mV). The slight difference between -85 mV and -95 mV reflects a small basal inward leak of sodium ions. High resting K+ permeability through leak channels (PK >> PNa) pulls resting membrane potential (-85 mV) close to EK (-95 mV) per the GHK equation.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Resting Membrane Potential Biophysics.",
+    "keyPoints": [
+      "Resting Membrane Potential Biophysics",
+      "High resting K+ permeability through leak channels (PK >> PNa) pulls resting membrane potential (-85 mV) close to EK (-95 mV) per the GHK equation."
+    ],
+    "references": [
+      {
+        "label": "Hodgkin AL, Katz B. The effect of sodium ions on the electrical activity of the giant axon of the squid. J Physiol. 1949;108(1):37-77. PMID: 18128231.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18128231/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0424",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Cardiovascular",
+    "topic": "Cardiac Action Potential Phases in Ventricular Myocytes",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "An intracellular electrophysiological recording of a single ventricular cardiomyocyte displays a prolonged action potential lasting approximately 250 milliseconds with a prominent, sustained plateau phase (Phase 2). During this plateau phase, the transmembrane potential remains relatively stable near 0 mV for over 100 milliseconds before rapid repolarization begins. Which of the following combinations of transmembrane ionic currents is actively operating in balance across the sarcolemma during this sustained Phase 2 plateau?",
+    "options": [
+      {
+        "text": "Inward sodium current through persistent Nav1.5 channels balanced by outward chloride current",
+        "correct": false,
+        "explanation": "Phase 0 fast sodium channels are rapidly and completely inactivated by Phase 1; persistent sodium currents are pathological (e.g., LQT3)."
+      },
+      {
+        "text": "Outward calcium current via plasma membrane Ca2+-ATPase balanced by inward sodium current through NCX",
+        "correct": false,
+        "explanation": "L-type calcium channels flux calcium INWARD into the cytoplasm down its steep concentration gradient, not outward via ATPase during the plateau."
+      },
+      {
+        "text": "Inward funny current (If) balanced by outward delayed rectifier potassium current",
+        "correct": false,
+        "explanation": "The funny current (If, pacemaker channel HCN4) is present in Phase 4 of nodal pacemaker cells (SA/AV nodes), not Phase 2 of ventricular myocytes."
+      },
+      {
+        "text": "Inward calcium current through L-type calcium channels (Cav1.2) balanced by outward potassium current through delayed rectifier channels (IKr and IKs)",
+        "correct": true,
+        "explanation": "The ventricular cardiac action potential (fast-response tissue) comprises 5 distinct phases: (1) Phase 0: Rapid depolarization via massive inward Na+ current (INa via Nav1.5). (2) Phase 1: Early transient repolarization via inactivation of Na+ channels and activation of transient outward K+ current (Ito). (3) Phase 2 (PLATEAU): The unique, prolonged plateau phase that prevents cardiac tetany and ensures adequate ejection time. It is characterized by an exquisite ELECTRICAL BALANCE between: INWARD Ca2+ current through voltage-gated L-type calcium channels (ICa,L via Cav1.2, activated during phase 0 and slow to inactivate) and OUTWARD K+ current through delayed rectifier potassium channels (IKr [rapid] and IKs [slow]). (4) Phase 3: Rapid repolarization as L-type Ca2+ channels close while delayed rectifier (IKr, IKs) and inward rectifier (IK1) K+ currents predominate. (5) Phase 4: Resting membrane potential maintained near -90 mV primarily by IK1."
+      },
+      {
+        "text": "Inward potassium current through inward rectifier channels (IK1) balanced by inward calcium current",
+        "correct": false,
+        "explanation": "IK1 channels are closed during Phase 2 due to polyamine and Mg2+ block at depolarized potentials, opening only during Phase 3 and Phase 4."
+      }
+    ],
+    "explanation": "The ventricular cardiac action potential (fast-response tissue) comprises 5 distinct phases: (1) Phase 0: Rapid depolarization via massive inward Na+ current (INa via Nav1.5). (2) Phase 1: Early transient repolarization via inactivation of Na+ channels and activation of transient outward K+ current (Ito). (3) Phase 2 (PLATEAU): The unique, prolonged plateau phase that prevents cardiac tetany and ensures adequate ejection time. It is characterized by an exquisite ELECTRICAL BALANCE between: INWARD Ca2+ current through voltage-gated L-type calcium channels (ICa,L via Cav1.2, activated during phase 0 and slow to inactivate) and OUTWARD K+ current through delayed rectifier potassium channels (IKr [rapid] and IKs [slow]). (4) Phase 3: Rapid repolarization as L-type Ca2+ channels close while delayed rectifier (IKr, IKs) and inward rectifier (IK1) K+ currents predominate. (5) Phase 4: Resting membrane potential maintained near -90 mV primarily by IK1. Ventricular Phase 2 plateau is maintained by a balance between inward L-type Ca2+ current (ICa,L) and outward delayed rectifier K+ current (IKr/IKs).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cardiac Action Potential Phases in Ventricular Myocytes.",
+    "keyPoints": [
+      "Cardiac Action Potential Phases in Ventricular Myocytes",
+      "Ventricular Phase 2 plateau is maintained by a balance between inward L-type Ca2+ current (ICa,L) and outward delayed rectifier K+ current (IKr/IKs)."
+    ],
+    "references": [
+      {
+        "label": "Nerbonne JM, Kass RS. Molecular physiology of cardiac repolarization. Physiol Rev. 2005;85(4):1205-1253. PMID: 16183911.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16183911/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0425",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Renal Tubular Water Transport and Aquaporins",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 42-year-old man presents with extreme thirst, polyuria, and polydipsia, consuming 8 liters of water daily. Serum sodium is 148 mEq/L, and plasma osmolality is 308 mOsm/kg. Simultaneous spot urine osmolality is dilute at 95 mOsm/kg. Following a supervised 8-hour water deprivation test, urine osmolality remains low at 110 mOsm/kg. Subcutaneous desmopressin (dDAVP) is administered. Two hours later, urine osmolality rises sharply to 640 mOsm/kg, accompanied by a dramatic reduction in urine volume. In a healthy kidney, the physiologic activation of the receptor targeted by desmopressin triggers which of the following cell-biological events in the medullary collecting duct?",
+    "options": [
+      {
+        "text": "Direct insertion of constitutively active aquaporin-3 and aquaporin-4 channels into the luminal apical membrane",
+        "correct": false,
+        "explanation": "AQP3 and AQP4 are localized exclusively to the BASOLATERAL membrane and are constitutively active; AQP2 is the regulated apical water channel."
+      },
+      {
+        "text": "Gq-protein-coupled activation of phospholipase C with opening of apical calcium-activated water channels",
+        "correct": false,
+        "explanation": "V2 receptors couple to Gs-adenylyl cyclase-cAMP, not Gq/PLC; V1 receptors on vascular smooth muscle couple to Gq to mediate vasoconstriction."
+      },
+      {
+        "text": "Transcriptional upregulation of urea transporter A1 (UTA1) without affecting plasma membrane water channels",
+        "correct": false,
+        "explanation": "While vasopressin also enhances inner medullary urea permeability via UT-A1/UT-A3, the rapid water reabsorption is driven by AQP2 apical trafficking."
+      },
+      {
+        "text": "Endocytosis and lysosomal degradation of apical sodium-chloride cotransporters in the collecting duct",
+        "correct": false,
+        "explanation": "Vasopressin stimulates water reabsorption via AQP2 and sodium reabsorption via ENaC; it does not degrade cotransporters in the collecting duct."
+      },
+      {
+        "text": "Protein kinase A (PKA) phosphorylation of aquaporin-2 (AQP2), inducing exocytic insertion of subapical storage vesicles into the luminal apical membrane",
+        "correct": true,
+        "explanation": "The patient has central diabetes insipidus, diagnosed by dilute urine that concentrates dramatically (>50% increase) in response to desmopressin (dDAVP). Desmopressin is a synthetic analogue that selectively binds the VASOPRESSIN V2 RECEPTOR on the basolateral membrane of principal cells in the late distal convoluted tubule and collecting duct. The downstream cellular mechanism is: (1) V2 receptor couples to Gs-alpha, activating adenylyl cyclase to increase cyclic AMP (cAMP). (2) Elevated cAMP activates Protein Kinase A (PKA). (3) PKA phosphorylates specific serine residues (Ser256) on the C-terminal cytoplasmic tail of AQUAPORIN-2 (AQP2) water channels stored in intracellular subapical endosomes. (4) Phosphorylation triggers targeted exocytic translocation and fusion of these AQP2 vesicles into the LUMINAL (APICAL) plasma membrane, rendering the previously water-impermeable apical membrane permeable to water. Water enters the cell through apical AQP2 and exits into the hypertonic medullary interstitium via constitutively active basolateral AQP3 and AQP4 channels."
+      }
+    ],
+    "explanation": "The patient has central diabetes insipidus, diagnosed by dilute urine that concentrates dramatically (>50% increase) in response to desmopressin (dDAVP). Desmopressin is a synthetic analogue that selectively binds the VASOPRESSIN V2 RECEPTOR on the basolateral membrane of principal cells in the late distal convoluted tubule and collecting duct. The downstream cellular mechanism is: (1) V2 receptor couples to Gs-alpha, activating adenylyl cyclase to increase cyclic AMP (cAMP). (2) Elevated cAMP activates Protein Kinase A (PKA). (3) PKA phosphorylates specific serine residues (Ser256) on the C-terminal cytoplasmic tail of AQUAPORIN-2 (AQP2) water channels stored in intracellular subapical endosomes. (4) Phosphorylation triggers targeted exocytic translocation and fusion of these AQP2 vesicles into the LUMINAL (APICAL) plasma membrane, rendering the previously water-impermeable apical membrane permeable to water. Water enters the cell through apical AQP2 and exits into the hypertonic medullary interstitium via constitutively active basolateral AQP3 and AQP4 channels. Desmopressin binds V2 receptors -> Gs -> cAMP -> PKA phosphorylates AQP2 -> exocytic insertion of AQP2 vesicles into the apical luminal membrane.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Renal Tubular Water Transport and Aquaporins.",
+    "keyPoints": [
+      "Renal Tubular Water Transport and Aquaporins",
+      "Desmopressin binds V2 receptors -> Gs -> cAMP -> PKA phosphorylates AQP2 -> exocytic insertion of AQP2 vesicles into the apical luminal membrane."
+    ],
+    "references": [
+      {
+        "label": "Nielsen S, et al. Cellular and molecular biology of aquaporins in the kidney. Physiol Rev. 2002;82(1):205-244. PMID: 11773613.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11773613/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

@@ -6,7 +6,7 @@
   "license": "MIT",
   "type": "module",
   "engines": {
-    "node": ">=22.12"
+    "node": "24.x"
   },
   "scripts": {
     "dev": "next dev",
@@ -76,5 +76,8 @@
     "unrs-resolver@1.12.2": true,
     "prisma@7.10.1": true,
     "@prisma/engines@7.10.1": true
+  },
+  "overrides": {
+    "minimatch@>=7.0.0 <11.0.1": "11.0.1"
   }
 }

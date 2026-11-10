@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s2-0151",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Acute Ischemic Stroke Thrombolysis Eligibility and Blood Pressure Goals",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old man is brought to the emergency department by ambulance 75 minutes after the sudden onset of right-sided hemiplegia and severe expressive aphasia. His wife witnessed him collapse while having breakfast; he was at his normal neurological baseline 90 minutes prior to arrival. His medical history includes hypertension, hyperlipidemia, and type 2 diabetes mellitus. On physical examination, the patient is awake and alert but unable to speak fluently, following simple one-step commands only. Neurological examination reveals right facial droop involving the lower face, flaccid paralysis of the right upper and lower extremities (0/5 strength), and right-sided hemisensory loss. The National Institutes of Health Stroke Scale (NIHSS) score is 16. His vital signs are: blood pressure 204/118 mm Hg, heart rate 86/min, respirations 18/min, and oxygen saturation 98% on room air. Point-of-care blood glucose is 142 mg/dL. An immediate non-contrast head CT scan demonstrates no evidence of acute intracranial hemorrhage or early ischemic hypodensity. Platelet count is 245,000/mm³, and INR is 1.0. Which of the following is the most appropriate next step in the management of this patient?",
+    "options": [
+      {
+        "text": "Administer intravenous labetalol or nicardipine to lower blood pressure below 185/110 mm Hg, followed by intravenous alteplase",
+        "correct": true,
+        "explanation": "This patient presents with an acute ischemic stroke within the therapeutic window for intravenous thrombolysis (< 4.5 hours from last known well, here 90 minutes) and has a disabling neurological deficit (NIHSS 16, aphasia, and hemiplegia). Non-contrast CT has ruled out intracranial hemorrhage. However, his blood pressure is 204/118 mm Hg. An elevated blood pressure >= 185 mm Hg systolic or >= 110 mm Hg diastolic is an absolute contraindication to administering IV alteplase (or tenecteplase) due to a dramatically increased risk of fatal secondary intracerebral hemorrhage. The standard guideline-directed approach is to immediately lower the blood pressure below 185/110 mm Hg using short-acting, titratable intravenous antihypertensives—specifically intravenous labetalol (10-20 mg IV push) or a continuous nicardipine or clevidipine infusion. Once blood pressure is successfully reduced below 185/110 mm Hg, intravenous alteplase should be administered promptly. Blood pressure must then be maintained below 180/105 mm Hg for at least 24 hours post-thrombolysis."
+      },
+      {
+        "text": "Immediately administer intravenous alteplase without delaying for blood pressure reduction",
+        "correct": false,
+        "explanation": "Administering alteplase while blood pressure remains >= 185/110 mm Hg markedly escalates the risk of catastrophic symptomatic intracranial hemorrhage and is strictly prohibited."
+      },
+      {
+        "text": "Administer 325 mg of oral aspirin and admit to the neurology floor for permissive hypertension",
+        "correct": false,
+        "explanation": "Permissive hypertension (up to 220/120 mm Hg) is maintained only in patients who are NOT eligible for thrombolysis; this patient is fully eligible once BP is safely lowered."
+      },
+      {
+        "text": "Perform immediate lumbar puncture to rule out subarachnoid hemorrhage before considering thrombolysis",
+        "correct": false,
+        "explanation": "Lumbar puncture is unnecessary when CT is negative and the presentation is classic painless ischemic hemispheric stroke; an LP is an invasive puncture that creates a contraindication to thrombolysis."
+      },
+      {
+        "text": "Infuse intravenous mannitol and hypertonic 3% saline to reduce acute cerebral edema",
+        "correct": false,
+        "explanation": "Osmotic therapy is reserved for signs of mass effect and impending herniation; acute ischemic stroke at 90 minutes does not yet have cytotoxic cerebral edema."
+      }
+    ],
+    "explanation": "This patient presents with an acute ischemic stroke within the therapeutic window for intravenous thrombolysis (< 4.5 hours from last known well, here 90 minutes) and has a disabling neurological deficit (NIHSS 16, aphasia, and hemiplegia). Non-contrast CT has ruled out intracranial hemorrhage. However, his blood pressure is 204/118 mm Hg. An elevated blood pressure >= 185 mm Hg systolic or >= 110 mm Hg diastolic is an absolute contraindication to administering IV alteplase (or tenecteplase) due to a dramatically increased risk of fatal secondary intracerebral hemorrhage. The standard guideline-directed approach is to immediately lower the blood pressure below 185/110 mm Hg using short-acting, titratable intravenous antihypertensives—specifically intravenous labetalol (10-20 mg IV push) or a continuous nicardipine or clevidipine infusion. Once blood pressure is successfully reduced below 185/110 mm Hg, intravenous alteplase should be administered promptly. Blood pressure must then be maintained below 180/105 mm Hg for at least 24 hours post-thrombolysis. Manage Acute Ischemic Stroke: Window for IV Alteplase (or Tenecteplase) is < 4.5 hours from last known normal. CRITICAL CONTRAINDICATIONS: Intracranial hemorrhage on non-contrast CT, ischemic stroke or severe head trauma within past 3 months, major surgery within 14 days, active internal bleeding, platelet count < 100,000, INR > 1.7 or therapeutic DOAC use, and BLOOD PRESSURE >= 185/110 mm Hg REFRACTORY TO TREATMENT. Management of high BP: Administer IV LABETALOL OR NICARDIPINE to lower BP < 185/110 BEFORE thrombolytic infusion; maintain BP < 180/105 during and for 24 hours post-infusion.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Ischemic Stroke Thrombolysis Eligibility and Blood Pressure Goals.",
+    "keyPoints": [
+      "Acute Ischemic Stroke Thrombolysis Eligibility and Blood Pressure Goals",
+      "Manage Acute Ischemic Stroke: Window for IV Alteplase (or Tenecteplase) is < 4.5 hours from last known normal. CRITICAL CONTRAINDICATIONS: Intracranial hemorrhage on non-contrast C"
+    ],
+    "references": [
+      {
+        "label": "Powers WJ, et al. Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update. Stroke. 2019;50(12):e344-e418. PMID: 31662037.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31662037/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0152",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Status Epilepticus First- and Second-Line Pharmacotherapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 42-year-old man with a known history of structural epilepsy secondary to a previous traumatic brain injury is brought to the emergency department by emergency medical services. His family witnessed him develop generalized tonic-clonic motor activity that began 18 minutes ago and has continued without interruption. Upon arrival, the patient is unresponsive, cyanotic, and actively convulsing with rhythmic, symmetric contractions of all four extremities, jaw clenching, and tongue biting. His vital signs are: blood pressure 168/96 mm Hg, heart rate 136/min, respirations 24/min, and oxygen saturation 89% on ambient air. High-flow oxygen is applied via a non-rebreather mask, two peripheral intravenous lines are placed, and fingerstick glucose is 112 mg/dL. The patient receives an immediate intravenous push of 4 mg of lorazepam, followed by a second 4 mg dose 5 minutes later; however, generalized tonic-clonic convulsions continue unabated at the 25-minute mark. Which of the following is the most appropriate next pharmacologic intervention?",
+    "options": [
+      {
+        "text": "A third intravenous bolus of 4 mg lorazepam followed by oral carbamazepine",
+        "correct": false,
+        "explanation": "Continuing to administer repeated doses of benzodiazepines beyond the recommended limit risks severe respiratory depression and hypotension without terminating status epilepticus; second-line IV AEDs are needed."
+      },
+      {
+        "text": "Intravenous loading dose of levetiracetam, fosphenytoin, or valproate sodium",
+        "correct": true,
+        "explanation": "This patient is in established convulsive status epilepticus, defined as continuous generalized seizure activity lasting >= 5 minutes (or two or more seizures without complete recovery of consciousness between episodes). Prolonged status epilepticus causes progressive neuronal necrosis from excitotoxicity, systemic lactic acidosis, rhabdomyolysis, and hyperthermia. Guidelines from the American Epilepsy Society dictate a rapid, phased management protocol: (1) Phase 1 (Emergent initial therapy, 0-10 minutes): First-line therapy is a rapid-acting benzodiazepine—specifically intravenous lorazepam (0.1 mg/kg, typically 4 mg IV repeated once) or intramuscular midazolam if IV access is delayed. (2) Phase 2 (Urgent control therapy, 10-30 minutes): When seizures persist despite full-dose benzodiazepines (refractory to 8 mg of lorazepam), the immediate next step is a non-sedating second-line intravenous antiseizure medication loading dose—specifically intravenous LEVETIRACETAM (60 mg/kg, max 4500 mg), FOSPHENYTOIN (20 mg PE/kg), or VALPROATE SODIUM (40 mg/kg). (3) Phase 3 (Refractory status, > 30-40 minutes): If second-line therapy fails, the patient requires endotracheal intubation and general anesthesia with continuous infusion of propofol, midazolam, or pentobarbital."
+      },
+      {
+        "text": "Immediate administration of oral ethosuximide solution via a nasogastric tube",
+        "correct": false,
+        "explanation": "Ethosuximide is used exclusively for absence seizures and has zero efficacy in terminating generalized tonic-clonic status epilepticus."
+      },
+      {
+        "text": "Continuous intravenous infusion of succinylcholine chloride to stop motor movements",
+        "correct": false,
+        "explanation": "Neuromuscular blocking agents paralyze peripheral skeletal muscles but have zero effect on central cerebral epileptiform activity, masking ongoing electrical status epilepticus."
+      },
+      {
+        "text": "Immediate emergency craniotomy with surgical temporal lobectomy",
+        "correct": false,
+        "explanation": "Surgical resection is an elective option for medically refractory focal epilepsy, not an emergent treatment for acute status epilepticus."
+      }
+    ],
+    "explanation": "This patient is in established convulsive status epilepticus, defined as continuous generalized seizure activity lasting >= 5 minutes (or two or more seizures without complete recovery of consciousness between episodes). Prolonged status epilepticus causes progressive neuronal necrosis from excitotoxicity, systemic lactic acidosis, rhabdomyolysis, and hyperthermia. Guidelines from the American Epilepsy Society dictate a rapid, phased management protocol: (1) Phase 1 (Emergent initial therapy, 0-10 minutes): First-line therapy is a rapid-acting benzodiazepine—specifically intravenous lorazepam (0.1 mg/kg, typically 4 mg IV repeated once) or intramuscular midazolam if IV access is delayed. (2) Phase 2 (Urgent control therapy, 10-30 minutes): When seizures persist despite full-dose benzodiazepines (refractory to 8 mg of lorazepam), the immediate next step is a non-sedating second-line intravenous antiseizure medication loading dose—specifically intravenous LEVETIRACETAM (60 mg/kg, max 4500 mg), FOSPHENYTOIN (20 mg PE/kg), or VALPROATE SODIUM (40 mg/kg). (3) Phase 3 (Refractory status, > 30-40 minutes): If second-line therapy fails, the patient requires endotracheal intubation and general anesthesia with continuous infusion of propofol, midazolam, or pentobarbital. Manage Convulsive Status Epilepticus (continuous seizure >= 5 minutes or >= 2 seizures without full recovery of consciousness between): - FIRST-LINE EMERGENCE (0-10 min): INTRAVENOUS LORAZEPAM (or IM Midazolam if no IV access). - SECOND-LINE URGENT CONTROL (10-30 min): NON-SEDATING ANTISEIZURE MEDICATION (IV LEVETIRACETAM, FOSPHENYTOIN, or SODIUM VALPROATE). - REFRACTORY STATUS (> 30 min): Continuous general anesthetic infusion (PROPOFOL, MIDAZOLAM, or PENTOBARBITAL) with endotracheal intubation and continuous EEG monitoring.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Status Epilepticus First- and Second-Line Pharmacotherapy.",
+    "keyPoints": [
+      "Status Epilepticus First- and Second-Line Pharmacotherapy",
+      "Manage Convulsive Status Epilepticus (continuous seizure >= 5 minutes or >= 2 seizures without full recovery of consciousness between): - FIRST-LINE EMERGENCE (0-10 min): INTRAVENO"
+    ],
+    "references": [
+      {
+        "label": "Glauser T, et al. Evidence-Based Guideline: Treatment of Convulsive Status Epilepticus in Children and Adults: Report of the Guideline Committee of the American Epilepsy Society. Epilepsy Curr. 2016;16(1):48-61. PMID: 26900382.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26900382/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0153",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Myasthenic Crisis Respiratory Failure and Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old woman with generalized myasthenia gravis is brought to the emergency department because of rapidly progressive shortness of breath, severe difficulty swallowing her saliva, and profound generalized weakness over the past 24 hours. Two days ago, she was prescribed oral ciprofloxacin by an urgent care provider for a urinary tract infection. Her home medications include oral pyridostigmine and prednisone. On physical examination, the patient is in severe respiratory distress, sitting upright, and using her sternocleidomastoid accessory muscles to breathe. She has bilateral ptosis, diplopia on lateral gaze, an inability to count past 8 in a single breath, and a weak, nasal voice. Auscultation reveals shallow, rapid breaths with faint bilateral basilar crackles. Bedside pulmonary function testing reveals a forced vital capacity (FVC) of 12 mL/kg (normal > 60 mL/kg) and a negative inspiratory force (NIF) of -16 cm H2O (normal < -60 cm H2O). Arterial blood gas shows: pH 7.28, PaCO2 52 mm Hg, and PaO2 68 mm Hg on room air. After securing the patient's airway via elective endotracheal intubation, which of the following is the most appropriate management plan?",
+    "options": [
+      {
+        "text": "Escalate oral pyridostigmine to maximum intravenous doses and administer broad-spectrum aminoglycosides",
+        "correct": false,
+        "explanation": "Aminoglycosides (such as gentamicin) severely inhibit presynaptic acetylcholine release and worsen neuromuscular weakness; escalating pyridostigmine causes massive cholinergic pulmonary secretions."
+      },
+      {
+        "text": "Administer intravenous edrophonium chloride to confirm the diagnosis and assess muscle strength",
+        "correct": false,
+        "explanation": "The edrophonium (Tensilon) test is obsolete and dangerous in unstable respiratory distress, as it can induce fatal cholinergic bradycardia, bronchospasm, and cardiac arrest."
+      },
+      {
+        "text": "Initiate therapeutic plasma exchange (plasmapheresis) or intravenous immunoglobulin, and temporarily hold oral pyridostigmine",
+        "correct": true,
+        "explanation": "This patient is experiencing a life-threatening myasthenic crisis precipitated by fluoroquinolone administration (ciprofloxacin blocks neuromuscular transmission and is strictly contraindicated in myasthenia gravis). Myasthenic crisis is defined as respiratory failure resulting from severe diaphragm, intercostal, and bulbar muscle weakness. Bedside monitoring relies on the \"20/30 rule\": elective endotracheal intubation is indicated when forced vital capacity drops below 15 to 20 mL/kg, negative inspiratory force (NIF) drops to worse than -20 to -30 cm H2O, or acute hypercapnic respiratory acidosis occurs (PaCO2 52, pH 7.28). Once the airway is secured, the definitive therapies to rapidly eliminate circulating pathogenic acetylcholine receptor antibodies are THERAPEUTIC PLASMA EXCHANGE (PLASMAPHERESIS) OR INTRAVENOUS IMMUNOGLOBULIN (IVIG). Crucially, ORAL PYRIDOSTIGMINE (acetylcholinesterase inhibitor) SHOULD BE TEMPORARILY DISCONTINUED OR WITHHELD in intubated patients. Pyridostigmine produces copious oral, tracheal, and bronchial secretions (bronchorrhea) and increases the risk of aspiration and extubation failure while contributing little to respiratory muscle strength during crisis."
+      },
+      {
+        "text": "Initiate non-invasive positive pressure ventilation (BiPAP) and observe on the floor for 48 hours",
+        "correct": false,
+        "explanation": "Severe bulbar weakness with inability to clear secretions and FVC 12 mL/kg is an absolute contraindication to BiPAP due to massive aspiration risk; invasive endotracheal intubation is required."
+      },
+      {
+        "text": "Emergency thymectomy via median sternotomy in the operating room",
+        "correct": false,
+        "explanation": "Thymectomy is an elective long-term disease-modifying treatment performed in stable patients; it is never performed during an acute myasthenic crisis."
+      }
+    ],
+    "explanation": "This patient is experiencing a life-threatening myasthenic crisis precipitated by fluoroquinolone administration (ciprofloxacin blocks neuromuscular transmission and is strictly contraindicated in myasthenia gravis). Myasthenic crisis is defined as respiratory failure resulting from severe diaphragm, intercostal, and bulbar muscle weakness. Bedside monitoring relies on the \"20/30 rule\": elective endotracheal intubation is indicated when forced vital capacity drops below 15 to 20 mL/kg, negative inspiratory force (NIF) drops to worse than -20 to -30 cm H2O, or acute hypercapnic respiratory acidosis occurs (PaCO2 52, pH 7.28). Once the airway is secured, the definitive therapies to rapidly eliminate circulating pathogenic acetylcholine receptor antibodies are THERAPEUTIC PLASMA EXCHANGE (PLASMAPHERESIS) OR INTRAVENOUS IMMUNOGLOBULIN (IVIG). Crucially, ORAL PYRIDOSTIGMINE (acetylcholinesterase inhibitor) SHOULD BE TEMPORARILY DISCONTINUED OR WITHHELD in intubated patients. Pyridostigmine produces copious oral, tracheal, and bronchial secretions (bronchorrhea) and increases the risk of aspiration and extubation failure while contributing little to respiratory muscle strength during crisis. Manage Myasthenic Crisis (severe exacerbation of generalized myasthenia gravis with diaphragmatic/bulbar weakness): - MONITORING FOR IMPENDING RESPIRATORY FAILURE: Serial forced vital capacity (FVC) and negative inspiratory force (NIF). INTUBATE IF: FVC < 15-20 mL/kg or NIF worse than -20 to -30 cm H2O (\"20/30 rule\"), or severe bulbar weakness with aspiration risk. - DEFINITIVE TREATMENT: PLASMAPHERESIS (PLEX) OR INTRAVENOUS IMMUNOGLOBULIN (IVIG) + systemic corticosteroids. - CRITICAL MEDICATION ADJUSTMENT: TEMPORARILY WITHHOLD PYRIDOSTIGMINE (acetylcholinesterase inhibitor) during mechanical ventilation to eliminate excessive bronchorrhea and airway secretions that impair extubation.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Myasthenic Crisis Respiratory Failure and Management.",
+    "keyPoints": [
+      "Myasthenic Crisis Respiratory Failure and Management",
+      "Manage Myasthenic Crisis (severe exacerbation of generalized myasthenia gravis with diaphragmatic/bulbar weakness): - MONITORING FOR IMPENDING RESPIRATORY FAILURE: Serial forced vi"
+    ],
+    "references": [
+      {
+        "label": "Sanders DB, et al. International consensus guidance for management of myasthenia gravis: Executive summary. Neurology. 2016;87(4):419-425. PMID: 27358333.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27358333/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0154",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Aneurysmal Subarachnoid Hemorrhage Medical and Surgical Priorities",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old woman presents to the emergency department reporting the sudden onset of an excruciating headache that reached maximum intensity within 30 seconds while she was lifting a heavy laundry basket. She describes it as \"the worst headache of my entire life.\" The headache is accompanied by nausea, three episodes of vomiting, and severe photophobia. Her past medical history is notable for autosomal dominant polycystic kidney disease and poorly controlled hypertension. On physical examination, her blood pressure is 164/98 mm Hg, heart rate is 76/min, and temperature is 37.2°C (99.0°F). Neurological examination reveals an alert, oriented woman with marked nuchal rigidity and photophobia, but no focal cranial nerve or motor deficits. A non-contrast head CT scan demonstrates extensive hyperdense, star-shaped blood filling the basal cisterns, sylvian fissures, and interhemispheric fissure. CT angiography of the circle of Willis demonstrates a 7-mm saccular aneurysm arising from the anterior communicating artery. While neurosurgery is preparing the patient for intervention, which of the following medical pharmacologic therapies is most appropriate to prevent delayed cerebral ischemia?",
+    "options": [
+      {
+        "text": "Intravenous unfractionated heparin infusion targeting an aPTT of 60 to 80 seconds",
+        "correct": false,
+        "explanation": "Anticoagulation with heparin is strictly contraindicated in acute intracranial hemorrhage due to catastrophic risk of fatal rebleeding."
+      },
+      {
+        "text": "Intravenous tranexamic acid continuous infusion for 21 days",
+        "correct": false,
+        "explanation": "Antifibrinolytic agents (TXA) may reduce rebleeding slightly but increase the risk of delayed cerebral ischemia and venous thromboembolism, offering no net survival benefit."
+      },
+      {
+        "text": "Prophylactic hypervolemic-hypertensive-hemodilution (triple-H) therapy prior to aneurysm securing",
+        "correct": false,
+        "explanation": "Triple-H therapy is outdated and dangerous before aneurysm securing because induced hypertension triggers aneurysm re-rupture; euvolemia is maintained."
+      },
+      {
+        "text": "Oral nimodipine administered every 4 hours for 21 consecutive days",
+        "correct": true,
+        "explanation": "This patient presents with classic aneurysmal subarachnoid hemorrhage (SAH) from rupture of an anterior communicating artery saccular (berry) aneurysm, strongly associated with autosomal dominant polycystic kidney disease (ADPKD). Hallmark symptoms include sudden-onset \"thunderclap\" headache reaching maximal intensity within seconds, accompanied by vomiting, meningismus (nuchal rigidity), and photophobia. The two major causes of secondary morbidity and mortality in SAH are: (1) Rebleeding (highest within the first 24 hours, prevented by prompt surgical clipping or endovascular coiling within 24-72 hours and maintaining SBP < 140-160 mm Hg); and (2) Cerebral vasospasm leading to delayed cerebral ischemia (DCI), which typically occurs 3 to 14 days following the initial hemorrhage. ORAL NIMODIPINE (a dihydropyridine calcium channel blocker) administered 60 mg orally every 4 hours for 21 days has been proven in multiple randomized clinical trials to dramatically reduce cerebral vasospasm, prevent delayed cerebral ischemic infarction, and improve overall functional neurological survival."
+      },
+      {
+        "text": "Daily therapeutic lumbar punctures to drain bloody cerebrospinal fluid",
+        "correct": false,
+        "explanation": "Lumbar puncture is diagnostic when CT is negative; serial therapeutic drainage does not prevent cerebral vasospasm or delayed ischemia."
+      }
+    ],
+    "explanation": "This patient presents with classic aneurysmal subarachnoid hemorrhage (SAH) from rupture of an anterior communicating artery saccular (berry) aneurysm, strongly associated with autosomal dominant polycystic kidney disease (ADPKD). Hallmark symptoms include sudden-onset \"thunderclap\" headache reaching maximal intensity within seconds, accompanied by vomiting, meningismus (nuchal rigidity), and photophobia. The two major causes of secondary morbidity and mortality in SAH are: (1) Rebleeding (highest within the first 24 hours, prevented by prompt surgical clipping or endovascular coiling within 24-72 hours and maintaining SBP < 140-160 mm Hg); and (2) Cerebral vasospasm leading to delayed cerebral ischemia (DCI), which typically occurs 3 to 14 days following the initial hemorrhage. ORAL NIMODIPINE (a dihydropyridine calcium channel blocker) administered 60 mg orally every 4 hours for 21 days has been proven in multiple randomized clinical trials to dramatically reduce cerebral vasospasm, prevent delayed cerebral ischemic infarction, and improve overall functional neurological survival. Manage Aneurysmal Subarachnoid Hemorrhage (SAH, ruptured saccular/berry aneurysm): Diagnosis: Non-contrast head CT (high sensitivity in first 6 hours); if negative and clinical suspicion high: LUMBAR PUNCTURE (shows xanthochromia and persistently elevated RBCs from tube 1 to tube 4). IMMEDIATE COMPREHENSIVE MANAGEMENT: 1. SECURE ANEURYSM EARLY (< 24-72 hours via endovascular coiling or surgical clipping) to prevent catastrophic REBLEEDING (greatest risk in first 24 hours); 2. NIMODIPINE (oral calcium channel blocker) started immediately to prevent DELAYED CEREBRAL ISCHEMIA / VASOSPASM (peaks at days 3-14); 3. Blood pressure control (maintain SBP < 140-160 mm Hg prior to securing aneurysm).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Aneurysmal Subarachnoid Hemorrhage Medical and Surgical Priorities.",
+    "keyPoints": [
+      "Aneurysmal Subarachnoid Hemorrhage Medical and Surgical Priorities",
+      "Manage Aneurysmal Subarachnoid Hemorrhage (SAH, ruptured saccular/berry aneurysm): Diagnosis: Non-contrast head CT (high sensitivity in first 6 hours); if negative and clinical sus"
+    ],
+    "references": [
+      {
+        "label": "Connolly ES Jr, et al. Guidelines for the management of aneurysmal subarachnoid hemorrhage: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2012;43(6):1711-1737. PMID: 22556195.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22556195/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0155",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Giant Cell (Temporal) Arteritis Immediate Glucocorticoid Therapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 72-year-old woman presents to the clinic with a 3-week history of a constant, throbbing, dull ache over her right temple and right scalp that hurts when she brushes her hair. She reports severe aching and fatigue in her jaw muscles that occurs only after chewing solid food such as meat or tough bread and resolves with rest. For the past 2 months, she has also experienced severe morning stiffness and pain in her shoulders and hips that lasts over an hour. Over the past 24 hours, she has noticed two brief episodes of painless, curtain-like darkening of vision in her right eye (amaurosis fugax) that resolved spontaneously within minutes. On physical examination, her right temporal artery is palpably thickened, tortuous, tender to light pressure, and has diminished pulses. Visual acuity is 20/25 in both eyes with normal funduscopic examination. Laboratory testing reveals: erythrocyte sedimentation rate (ESR) 98 mm/hr, C-reactive protein (CRP) 48 mg/L (normal < 5 mg/L), and hemoglobin 10.4 g/dL. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Schedule an elective outpatient temporal artery biopsy and withhold steroids until histological confirmation",
+        "correct": false,
+        "explanation": "Withholding corticosteroids to wait for a biopsy schedule exposes the patient to an unacceptable risk of sudden, irreversible, bilateral blindness."
+      },
+      {
+        "text": "Prescribe high-dose oral methotrexate monotherapy as first-line induction immunosuppression",
+        "correct": false,
+        "explanation": "Methotrexate takes months to achieve therapeutic immunosuppressive effects and has zero role in the acute prevention of ischemic blindness in GCA."
+      },
+      {
+        "text": "Order a non-contrast brain MRI and MR angiography of the head and neck before starting therapy",
+        "correct": false,
+        "explanation": "Advanced neuroimaging causes dangerous delays in initiating life-saving glucocorticoids when the clinical picture and ESR/CRP are overwhelmingly diagnostic."
+      },
+      {
+        "text": "Prescribe high-dose nonsteroidal anti-inflammatory drugs and follow-up in 2 weeks",
+        "correct": false,
+        "explanation": "NSAIDs do not suppress the systemic vascular inflammation of giant cell arteritis and do not prevent ischemic optic nerve infarction."
+      },
+      {
+        "text": "Immediate administration of high-dose systemic corticosteroids prior to scheduling a temporal artery biopsy",
+        "correct": true,
+        "explanation": "This 72-year-old woman presents with classic manifestations of giant cell (temporal) arteritis (GCA) and associated polymyalgia rheumatica (PMR): new localized unilateral headache, scalp tenderness, pathognomonic jaw claudication (masseter ischemia during chewing), elevated inflammatory markers (ESR > 50 mm/hr, markedly elevated CRP), and transient monocular visual loss (amaurosis fugax). GCA is a granulomatous vasculitis affecting medium and large branches of the external and internal carotid arteries. The most devastating and irreversible complication is permanent blindness secondary to ischemic optic neuropathy from inflammatory occlusion of the posterior ciliary arteries or ophthalmic artery. CARDINAL MANAGEMENT RULE: Glucocorticoid therapy must NEVER BE DELAYED while awaiting diagnostic testing or scheduling a temporal artery biopsy. Immediate high-dose systemic corticosteroid therapy (oral prednisone 60 mg daily, or intravenous pulse methylprednisolone for patients with active visual symptoms) must be initiated immediately to preserve vision. Biopsy of a long segment (>= 1.5-2 cm) of the temporal artery can be safely performed within 1 to 2 weeks without losing histological diagnostic sensitivity (granulomatous inflammation persists for weeks)."
+      }
+    ],
+    "explanation": "This 72-year-old woman presents with classic manifestations of giant cell (temporal) arteritis (GCA) and associated polymyalgia rheumatica (PMR): new localized unilateral headache, scalp tenderness, pathognomonic jaw claudication (masseter ischemia during chewing), elevated inflammatory markers (ESR > 50 mm/hr, markedly elevated CRP), and transient monocular visual loss (amaurosis fugax). GCA is a granulomatous vasculitis affecting medium and large branches of the external and internal carotid arteries. The most devastating and irreversible complication is permanent blindness secondary to ischemic optic neuropathy from inflammatory occlusion of the posterior ciliary arteries or ophthalmic artery. CARDINAL MANAGEMENT RULE: Glucocorticoid therapy must NEVER BE DELAYED while awaiting diagnostic testing or scheduling a temporal artery biopsy. Immediate high-dose systemic corticosteroid therapy (oral prednisone 60 mg daily, or intravenous pulse methylprednisolone for patients with active visual symptoms) must be initiated immediately to preserve vision. Biopsy of a long segment (>= 1.5-2 cm) of the temporal artery can be safely performed within 1 to 2 weeks without losing histological diagnostic sensitivity (granulomatous inflammation persists for weeks). Manage Giant Cell (Temporal) Arteritis (GCA / Horton disease): Granulomatous large/medium-vessel vasculitis in patients >= 50 years old. Symptoms: New unilateral headache, scalp tenderness, jaw claudication, polymyalgia rheumatica (proximal stiffness), markedly elevated ESR (> 50-100 mm/hr) and CRP. Most feared complication: PERMANENT BLINDNESS due to ischemic optic neuropathy (ophthalmic/posterior ciliary artery occlusion). GOLDEN CLINICAL RULE: NEVER DELAY SYSTEMIC CORTICOSTEROIDS TO AWAIT TEMPORAL ARTERY BIOPSY. Immediate high-dose oral prednisone (or IV methylprednisolone if vision loss has begun) must be started IMMEDIATELY, followed by biopsy within 1-2 weeks (pathology remains positive for weeks).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Giant Cell (Temporal) Arteritis Immediate Glucocorticoid Therapy.",
+    "keyPoints": [
+      "Giant Cell (Temporal) Arteritis Immediate Glucocorticoid Therapy",
+      "Manage Giant Cell (Temporal) Arteritis (GCA / Horton disease): Granulomatous large/medium-vessel vasculitis in patients >= 50 years old. Symptoms: New unilateral headache, scalp te"
+    ],
+    "references": [
+      {
+        "label": "Salvarani C, et al. Polymyalgia rheumatica and giant-cell arteritis. Lancet. 2008;372(9634):234-245. PMID: 18640460.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18640460/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0156",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Normal Pressure Hydrocephalus Diagnosis and Treatment",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 76-year-old man is brought to the geriatric neurology clinic by his daughter because of progressive walking difficulty, frequent falls, and memory loss over the past 9 months. His daughter notes that he shuffles his feet along the floor and appears \"stuck\" when attempting to initiate walking or turn around. In addition, over the last 3 months, he has developed increasing urinary urgency and several episodes of involuntary urinary incontinence before reaching the bathroom. He has also become apathetic and has trouble managing his finances. On physical examination, the patient is alert and cooperative with a Mini-Mental State Examination score of 23/30. Neurological examination reveals normal muscle strength and sensation in all extremities, with no resting tremor or cogwheel rigidity. On ambulation, his gait is wide-based, slow, and short-stepped, with his feet barely lifting off the floor, resembling a \"magnetic\" gait; turning requires multiple hesitant steps. Brain MRI demonstrates marked symmetric dilation of the lateral and third ventricles out of proportion to mild cortical sulcal atrophy, without intracranial mass or aqueductal stenosis. Which of the following is the most appropriate next step in the diagnostic and therapeutic management of this patient?",
+    "options": [
+      {
+        "text": "Perform a large-volume lumbar puncture (removal of 30-50 mL of CSF) and objectively assess gait before and after the procedure",
+        "correct": true,
+        "explanation": "This patient presents with the classic clinical triad of normal pressure hydrocephalus (NPH): gait impairment (wobbly), urinary incontinence (wet), and cognitive decline (wacky). Gait disturbance is characteristically the earliest, most prominent, and most treatable manifestation; it presents as a broad-based, slow, shuffling, short-stepped gait where the patient appears \"glued to the floor\" (magnetic gait). Brain MRI reveals ventriculomegaly out of proportion to sulcal enlargement (increased Evans index). Pathophysiologically, decreased CSF resorption at the arachnoid granulations leads to transient intermittent intracranial pressure spikes that stretch periventricular sacral motor fibers in the corona radiata. The definitive diagnostic confirmatory test is a LARGE-VOLUME LUMBAR PUNCTURE TAP TEST (removal of 30 to 50 mL of CSF) with formal pre- and post-procedure objective gait assessments (such as timed 10-meter walk test and stride length). Significant improvement in walking speed and balance following CSF drainage strongly confirms the diagnosis of NPH and predicts a high likelihood of successful response to definitive surgical VENTRICULOPERITONEAL (VP) SHUNTING."
+      },
+      {
+        "text": "Initiate oral carbidopa-levodopa to treat suspected Parkinson disease",
+        "correct": false,
+        "explanation": "Although gait is impaired, the absence of resting tremor, cogwheel rigidity, or asymmetric bradykinesia—combined with ventriculomegaly and urinary incontinence—rules out Parkinson disease; dopaminergic therapy is ineffective."
+      },
+      {
+        "text": "Prescribe oral donepezil and memantine for presumed advanced Alzheimer disease",
+        "correct": false,
+        "explanation": "In Alzheimer disease, severe memory impairment precedes motor symptoms by years; here prominent magnetic gait and incontinence with ventriculomegaly indicate NPH."
+      },
+      {
+        "text": "Initiate daily oral acetazolamide therapy to suppress choroid plexus CSF production",
+        "correct": false,
+        "explanation": "Acetazolamide is used for idiopathic intracranial hypertension (pseudotumor cerebri) in young obese women; it is ineffective for definitive long-term treatment of NPH."
+      },
+      {
+        "text": "Perform emergent stereotactic deep brain stimulation of the subthalamic nucleus",
+        "correct": false,
+        "explanation": "Deep brain stimulation treats medication-refractory Parkinson disease or essential tremor; it has zero role in the treatment of normal pressure hydrocephalus."
+      }
+    ],
+    "explanation": "This patient presents with the classic clinical triad of normal pressure hydrocephalus (NPH): gait impairment (wobbly), urinary incontinence (wet), and cognitive decline (wacky). Gait disturbance is characteristically the earliest, most prominent, and most treatable manifestation; it presents as a broad-based, slow, shuffling, short-stepped gait where the patient appears \"glued to the floor\" (magnetic gait). Brain MRI reveals ventriculomegaly out of proportion to sulcal enlargement (increased Evans index). Pathophysiologically, decreased CSF resorption at the arachnoid granulations leads to transient intermittent intracranial pressure spikes that stretch periventricular sacral motor fibers in the corona radiata. The definitive diagnostic confirmatory test is a LARGE-VOLUME LUMBAR PUNCTURE TAP TEST (removal of 30 to 50 mL of CSF) with formal pre- and post-procedure objective gait assessments (such as timed 10-meter walk test and stride length). Significant improvement in walking speed and balance following CSF drainage strongly confirms the diagnosis of NPH and predicts a high likelihood of successful response to definitive surgical VENTRICULOPERITONEAL (VP) SHUNTING. Recognize Normal Pressure Hydrocephalus (NPH, impaired CSF absorption across arachnoid villi): - CLASSIC CLINICAL TRIAD: \"WET, WACKY, WOBBLY\" - 1. Gait disturbance (earliest and most responsive to treatment: broad-based, slow, shuffling, \"magnetic\" gait as if feet are glued to floor); 2. Urinary incontinence (urgency/frequency progressing to overt incontinence); 3. Cognitive impairment / dementia. - NEUROIMAGING: Ventriculomegaly out of proportion to cerebral sulcal atrophy (Evans index > 0.3). - CONFIRMATORY DIAGNOSTIC TEST: HIGH-VOLUME LUMBAR PUNCTURE (tap test: removal of 30-50 mL CSF) demonstrating OBJECTIVE IMPROVEMENT IN GAIT SPEED AND STRIDE LENGTH. - DEFINITIVE TREATMENT: VENTRICULOPERITONEAL (VP) SHUNT.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Normal Pressure Hydrocephalus Diagnosis and Treatment.",
+    "keyPoints": [
+      "Normal Pressure Hydrocephalus Diagnosis and Treatment",
+      "Recognize Normal Pressure Hydrocephalus (NPH, impaired CSF absorption across arachnoid villi): - CLASSIC CLINICAL TRIAD: \"WET, WACKY, WOBBLY\" - 1. Gait disturbance (earliest and mo"
+    ],
+    "references": [
+      {
+        "label": "Williams MA, et al. Normal pressure hydrocephalus: review of clinical features, diagnosis, and management. Clin Neurol Neurosurg. 2016;145:102-111. PMID: 27077884.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27077884/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0157",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Wernicke Encephalopathy Recognition and Sequence of Vitamin Repletion",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man with a 20-year history of heavy alcohol use is brought to the emergency department by social services after being found disoriented, disheveled, and hypothermic on a park bench. On physical examination, the patient is awake but profoundly confused, slow to respond, and oriented only to person. His temperature is 35.4°C (95.7°F), blood pressure is 102/64 mm Hg, heart rate is 108/min, and respirations are 14/min. Point-of-care capillary blood glucose is 48 mg/dL. Examination of the eyes reveals prominent horizontal nystagmus on lateral gaze and an inability to abduct either eye past the midline (bilateral abducens nerve palsy). Cranial nerves VII through XII are intact. On motor examination, muscle tone is normal, but attempts to have the patient stand or walk reveal marked truncal instability and a broad-based, severely ataxic gait. Which of the following is the most appropriate sequence of pharmacologic interventions for this patient?",
+    "options": [
+      {
+        "text": "Administer 50% dextrose in water bolus immediately, followed by oral multivitamin supplementation tomorrow",
+        "correct": false,
+        "explanation": "Infusing dextrose alone in a thiamine-deficient patient rapidly exhausts remaining cofactor stores, converting reversible Wernicke encephalopathy into permanent Korsakoff syndrome."
+      },
+      {
+        "text": "Administer intravenous thiamine immediately, followed promptly by intravenous dextrose",
+        "correct": true,
+        "explanation": "This patient presents with the full classic triad of WERNICKE ENCEPHALOPATHY: (1) Acute encephalopathy (confusion, lethargy, disorientation); (2) Oculomotor dysfunction (horizontal nystagmus, bilateral sixth nerve palsies with impaired lateral abduction); and (3) Cerebellar ataxia (wide-based, unsteady gait). Wernicke encephalopathy is caused by severe deficiency of thiamine (vitamin B1), an essential cofactor for critical enzymes in carbohydrate and energy metabolism (specifically pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, and transketolase). When chronic alcohol-dependent or malnourished patients develop hypoglycemia, administering intravenous glucose or dextrose WITHOUT thiamine drives rapid cellular glycolytic flux, immediately depleting any remaining trace thiamine stores. This precipitates irreversible hemorrhagic and ischemic necrosis of the mamillary bodies, periaqueductal gray matter, and thalamic nuclei, locking the patient into irreversible Korsakoff psychosis (anterograde/retrograde amnesia, confabulation) or causing coma and death. Therefore, HIGH-DOSE INTRAVENOUS THIAMINE MUST BE ADMINISTERED PRIOR TO OR CONCURRENTLY WITH INTRAVENOUS DEXTROSE."
+      },
+      {
+        "text": "Administer intravenous naloxone hydrochloride followed by flumazenil infusion",
+        "correct": false,
+        "explanation": "The patient has hypoglycemia, nystagmus, ophthalmoplegia, and ataxia, which are specific for Wernicke encephalopathy rather than acute opioid or benzodiazepine intoxication."
+      },
+      {
+        "text": "Initiate continuous intravenous sodium chloride 3% hypertonic saline to correct cerebral edema",
+        "correct": false,
+        "explanation": "Rapid infusion of hypertonic saline in malnourished alcoholic patients risks osmotic demyelination syndrome (central pontine myelinolysis)."
+      },
+      {
+        "text": "Perform emergent non-contrast head CT scan before initiating any intravenous vitamins or glucose",
+        "correct": false,
+        "explanation": "Neuroimaging should never delay immediate empiric treatment with thiamine and dextrose for acute Wernicke encephalopathy and hypoglycemia."
+      }
+    ],
+    "explanation": "This patient presents with the full classic triad of WERNICKE ENCEPHALOPATHY: (1) Acute encephalopathy (confusion, lethargy, disorientation); (2) Oculomotor dysfunction (horizontal nystagmus, bilateral sixth nerve palsies with impaired lateral abduction); and (3) Cerebellar ataxia (wide-based, unsteady gait). Wernicke encephalopathy is caused by severe deficiency of thiamine (vitamin B1), an essential cofactor for critical enzymes in carbohydrate and energy metabolism (specifically pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, and transketolase). When chronic alcohol-dependent or malnourished patients develop hypoglycemia, administering intravenous glucose or dextrose WITHOUT thiamine drives rapid cellular glycolytic flux, immediately depleting any remaining trace thiamine stores. This precipitates irreversible hemorrhagic and ischemic necrosis of the mamillary bodies, periaqueductal gray matter, and thalamic nuclei, locking the patient into irreversible Korsakoff psychosis (anterograde/retrograde amnesia, confabulation) or causing coma and death. Therefore, HIGH-DOSE INTRAVENOUS THIAMINE MUST BE ADMINISTERED PRIOR TO OR CONCURRENTLY WITH INTRAVENOUS DEXTROSE. Manage Wernicke Encephalopathy: Acute thiamine (vitamin B1) deficiency, classically in chronic alcohol use disorder, malabsorption, or bariatric surgery. CLASSIC TRIAD: 1. ENCEPHALOPATHY (confusion, disorientation, apathy); 2. OCULOMOTOR DYSFUNCTION (horizontal nystagmus, bilateral abducens [CN VI] palsy, conjugate gaze palsy); 3. GAIT ATAXIA (wide-based cerebellar ataxia). PATHOPHYSIOLOGY: Thiamine is a required cofactor for pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase. If dextrose is given without thiamine, glucose metabolism rapidly exhausts residual thiamine stores, causing acute metabolic neuronal necrosis in the mamillary bodies and periaqueductal gray. GOLDEN RULE: ADMINISTER HIGH-DOSE INTRAVENOUS THIAMINE BEFORE OR CONCURRENTLY WITH INTRAVENOUS DEXTROSE.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Wernicke Encephalopathy Recognition and Sequence of Vitamin Repletion.",
+    "keyPoints": [
+      "Wernicke Encephalopathy Recognition and Sequence of Vitamin Repletion",
+      "Manage Wernicke Encephalopathy: Acute thiamine (vitamin B1) deficiency, classically in chronic alcohol use disorder, malabsorption, or bariatric surgery. CLASSIC TRIAD: 1. ENCEPHAL"
+    ],
+    "references": [
+      {
+        "label": "Sechi G, et al. Wernicke's encephalopathy: new clinical settings and recent advances in diagnosis and management. Lancet Neurol. 2007;6(5):442-455. PMID: 17434099.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17434099/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0158",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Guillain-Barré Syndrome Monitoring and Immunotherapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 28-year-old man presents to the emergency department with a 3-day history of progressive weakness in his legs that has now ascended to involve both arms. Two weeks ago, he had a self-limiting diarrheal illness characterized by fever, crampy abdominal pain, and loose watery stools that resolved after 4 days. On physical examination, the patient is alert and afebrile. His blood pressure is 142/86 mm Hg with fluctuations down to 104/62 mm Hg, and heart rate is 94/min. Neurological examination reveals symmetric flaccid weakness: muscle strength is 2/5 in the lower extremities bilaterally and 3/5 in the proximal upper extremities. Deep tendon reflexes (patellar, Achilles, biceps, and brachioradialis) are absent (0/4) throughout all four extremities. Sensation to light touch and vibration is mildly diminished in a stocking-glove distribution. Bedside forced vital capacity (FVC) is currently 32 mL/kg (normal > 60 mL/kg). A diagnostic lumbar puncture demonstrates an opening pressure of 140 mm H2O, cerebrospinal fluid protein of 165 mg/dL, and white blood cell count of 2/mm³ (all lymphocytes). Which of the following is the most appropriate next step in the clinical management of this patient?",
+    "options": [
+      {
+        "text": "Administer high-dose intravenous methylprednisolone pulse therapy for 5 days",
+        "correct": false,
+        "explanation": "Systemic corticosteroids have been tested in multiple randomized trials and proven completely ineffective in Guillain-Barré syndrome, and may even delay nerve recovery."
+      },
+      {
+        "text": "Initiate oral pyridostigmine therapy and perform repetitive nerve stimulation testing",
+        "correct": false,
+        "explanation": "Pyridostigmine is indicated for neuromuscular junction dysfunction in myasthenia gravis, but has zero role in peripheral demyelinating polyradiculopathy."
+      },
+      {
+        "text": "Admit to the intensive care unit for serial bedside measurement of forced vital capacity and negative inspiratory force, and initiate intravenous immunoglobulin or plasmapheresis",
+        "correct": true,
+        "explanation": "This young man presents with classic Guillain-Barré syndrome (GBS, specifically acute inflammatory demyelinating polyradiculoneuropathy [AIDP]) triggered by Campylobacter jejuni gastroenteritis. Pathophysiology involves molecular mimicry between microbial lipooligosaccharides and human peripheral nerve gangliosides (e.g., GM1), leading to complement-mediated autoimmune demyelination of peripheral nerves and nerve roots. Key diagnostic features include: (1) Progressive, symmetric, ascending flaccid muscle weakness; (2) Diffuse hyporeflexia or generalized areflexia (0/4); (3) Autonomic instability (labile blood pressure, arrhythmias); and (4) CSF analysis showing pathognomonic ALBUMINOCYTOLOGIC DISSOCIATION (markedly elevated protein with a normal leukocyte count). The most critical aspect of early management is ADMISSION TO AN ICU WITH SERIAL MONITORING OF PULMONARY FUNCTION (FVC and NIF measured every 4 to 6 hours) because up to 30% of patients develop neuromuscular diaphragmatic failure requiring mechanical ventilation (indicated when FVC < 15-20 mL/kg or NIF worse than -20 to -30 cm H2O). The definitive disease-modifying treatment is INTRAVENOUS IMMUNOGLOBULIN (IVIG) OR PLASMAPHERESIS (therapeutic plasma exchange). Systemic corticosteroids are completely ineffective in GBS and should not be administered."
+      },
+      {
+        "text": "Admit to the general medical ward with continuous pulse oximetry monitoring as the primary respiratory metric",
+        "correct": false,
+        "explanation": "Pulse oximetry is a notoriously late indicator of neuromuscular hypoventilation; hypoxemia only occurs after severe atelectasis and hypercapnic respiratory arrest have developed."
+      },
+      {
+        "text": "Administer oral ciprofloxacin to eradicate persistent gastrointestinal Campylobacter carriage",
+        "correct": false,
+        "explanation": "Post-infectious GBS is an autoimmune phenomenon occurring weeks after clearance of the original bacterial pathogen; treating the prior diarrheal infection has no therapeutic impact."
+      }
+    ],
+    "explanation": "This young man presents with classic Guillain-Barré syndrome (GBS, specifically acute inflammatory demyelinating polyradiculoneuropathy [AIDP]) triggered by Campylobacter jejuni gastroenteritis. Pathophysiology involves molecular mimicry between microbial lipooligosaccharides and human peripheral nerve gangliosides (e.g., GM1), leading to complement-mediated autoimmune demyelination of peripheral nerves and nerve roots. Key diagnostic features include: (1) Progressive, symmetric, ascending flaccid muscle weakness; (2) Diffuse hyporeflexia or generalized areflexia (0/4); (3) Autonomic instability (labile blood pressure, arrhythmias); and (4) CSF analysis showing pathognomonic ALBUMINOCYTOLOGIC DISSOCIATION (markedly elevated protein with a normal leukocyte count). The most critical aspect of early management is ADMISSION TO AN ICU WITH SERIAL MONITORING OF PULMONARY FUNCTION (FVC and NIF measured every 4 to 6 hours) because up to 30% of patients develop neuromuscular diaphragmatic failure requiring mechanical ventilation (indicated when FVC < 15-20 mL/kg or NIF worse than -20 to -30 cm H2O). The definitive disease-modifying treatment is INTRAVENOUS IMMUNOGLOBULIN (IVIG) OR PLASMAPHERESIS (therapeutic plasma exchange). Systemic corticosteroids are completely ineffective in GBS and should not be administered. Manage Guillain-Barré Syndrome (Acute Inflammatory Demyelinating Polyradiculoneuropathy - AIDP): Post-infectious autoimmune molecular mimicry (Campylobacter jejuni, CMV, EBV). Symptoms: ASCENDING, SYMMETRICAL FLACCID WEAKNESS with HYPOREFLEXIA OR AREFLEXIA, autonomic dysfunction. CSF: ALBUMINOCYTOLOGIC DISSOCIATION (elevated protein with normal WBC). CRITICAL MONITORING: SERIAL BEDSIDE SPIROMETRY (Forced Vital Capacity [FVC] and Negative Inspiratory Force [NIF]) every 4-6 hours to anticipate diaphragmatic paralysis. INTUBATE if FVC < 15-20 mL/kg or NIF worse than -30 cm H2O. TREATMENT: INTRAVENOUS IMMUNOGLOBULIN (IVIG) OR PLASMAPHERESIS (PLEX). STRICTLY INEFFECTIVE: Corticosteroids (no benefit in GBS).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Guillain-Barré Syndrome Monitoring and Immunotherapy.",
+    "keyPoints": [
+      "Guillain-Barré Syndrome Monitoring and Immunotherapy",
+      "Manage Guillain-Barré Syndrome (Acute Inflammatory Demyelinating Polyradiculoneuropathy - AIDP): Post-infectious autoimmune molecular mimicry (Campylobacter jejuni, CMV, EBV). Symp"
+    ],
+    "references": [
+      {
+        "label": "Willison HJ, et al. Guillain-Barré syndrome. Lancet. 2016;388(10045):717-727. PMID: 26948435.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26948435/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0159",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Herpes Simplex Encephalitis Clinical Features and Immediate Empiric Antiviral",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 48-year-old previously healthy woman is brought to the emergency department by her husband because of acute confusion, fever, and increasingly bizarre behavior over the past 36 hours. Her husband reports that she became disoriented, began hearing voices talking to her, and experienced a 2-minute episode of unresponsiveness with repetitive lip smacking and chewing movements followed by confusion. On physical examination, her temperature is 38.9°C (102.0°F), blood pressure is 134/78 mm Hg, heart rate is 102/min, and respirations are 18/min. Neurological examination reveals an agitated, disoriented woman who is oriented only to person; she demonstrates a mild right-sided facial weakness and word-finding difficulty (aphasia). There is no nuchal rigidity. While awaiting a brain MRI, a non-contrast head CT scan shows subtle hypodensity and sulcal effacement confined to the left anterior and medial temporal lobe. A lumbar puncture is performed; cerebrospinal fluid analysis demonstrates: opening pressure 210 mm H2O, white blood cell count 180/mm³ (88% lymphocytes, 12% neutrophils), red blood cell count 650/mm³, protein 94 mg/dL, and glucose 68 mg/dL (serum glucose 102 mg/dL). Which of the following is the most appropriate immediate therapy for this patient?",
+    "options": [
+      {
+        "text": "Withhold antiviral therapy until cerebrospinal fluid HSV polymerase chain reaction results return",
+        "correct": false,
+        "explanation": "Delaying acyclovir while awaiting HSV PCR results (which can take 24 to 48 hours) dramatically increases mortality and irreversible frontotemporal brain damage."
+      },
+      {
+        "text": "Administer intravenous vancomycin, ceftriaxone, and ampicillin alone",
+        "correct": false,
+        "explanation": "While antibacterial coverage is standard for suspected acute bacterial meningitis, the focal temporal lobe involvement, seizures, and CSF RBCs indicate HSV encephalitis, demanding acyclovir."
+      },
+      {
+        "text": "Initiate intravenous ganciclovir and foscarnet therapy for suspected cytomegalovirus",
+        "correct": false,
+        "explanation": "Cytomegalovirus (CMV) encephalitis occurs almost exclusively in severely immunocompromised individuals (e.g., advanced AIDS with CD4 < 50/mm³); HSV-1 is the cause in immunocompetent hosts."
+      },
+      {
+        "text": "Immediate initiation of high-dose intravenous acyclovir",
+        "correct": true,
+        "explanation": "This patient presents with classic acute herpes simplex virus (HSV-1) encephalitis. HSV-1 has an intense neurotropic predilection for the temporal and orbitofrontal lobes, causing focal necrotizing, hemorrhagic encephalitis. Clinical hallmarks include: (1) Acute fever, headache, and encephalopathy with psychiatric/behavioral manifestations (hallucinations, bizarre behavior, personality changes); (2) Focal temporal lobe seizures (classically with automatisms like lip smacking or chewing); (3) Focal neurological deficits (aphasia, hemiparesis); and (4) CSF analysis demonstrating lymphocytic pleocytosis, moderately elevated protein, normal-to-mildly low glucose, and uniquely ELEVATED RED BLOOD CELLS (resulting from necrotizing hemorrhagic necrosis of temporal tissue). Brain imaging confirms temporal lobe edema/hemorrhage. HSV encephalitis carries a mortality rate > 70% if untreated and causes severe permanent cognitive/memory disability. The absolute priority is IMMEDIATE EMPIRIC INTRAVENOUS ACYCLOVIR (10 mg/kg IV every 8 hours) started at the earliest clinical suspicion. Therapy must never be delayed for CSF PCR confirmation."
+      },
+      {
+        "text": "Administer high-dose intravenous methylprednisolone for suspected autoimmune limbic encephalitis",
+        "correct": false,
+        "explanation": "Empiric immunosuppression with corticosteroids prior to treating active necrotizing HSV-1 infection can exacerbate viral replication with catastrophic consequences."
+      }
+    ],
+    "explanation": "This patient presents with classic acute herpes simplex virus (HSV-1) encephalitis. HSV-1 has an intense neurotropic predilection for the temporal and orbitofrontal lobes, causing focal necrotizing, hemorrhagic encephalitis. Clinical hallmarks include: (1) Acute fever, headache, and encephalopathy with psychiatric/behavioral manifestations (hallucinations, bizarre behavior, personality changes); (2) Focal temporal lobe seizures (classically with automatisms like lip smacking or chewing); (3) Focal neurological deficits (aphasia, hemiparesis); and (4) CSF analysis demonstrating lymphocytic pleocytosis, moderately elevated protein, normal-to-mildly low glucose, and uniquely ELEVATED RED BLOOD CELLS (resulting from necrotizing hemorrhagic necrosis of temporal tissue). Brain imaging confirms temporal lobe edema/hemorrhage. HSV encephalitis carries a mortality rate > 70% if untreated and causes severe permanent cognitive/memory disability. The absolute priority is IMMEDIATE EMPIRIC INTRAVENOUS ACYCLOVIR (10 mg/kg IV every 8 hours) started at the earliest clinical suspicion. Therapy must never be delayed for CSF PCR confirmation. Manage Herpes Simplex Virus (HSV-1) Encephalitis: - CLINICAL PICTURE: Acute onset of fever, headache, altered mental status, bizarre behavioral changes/hallucinations, and focal seizures. - PATHOLOGY/IMAGING: Predilection for INFEROMEDIAL TEMPORAL LOBES (and orbitofrontal cortex), showing edema, hemorrhage, and periodic lateralized epileptiform discharges (PLEDs) on EEG. - CSF FINDINGS: Lymphocytic pleocytosis, elevated protein, and ELEVATED ERYTHROCYTES (RBCs) without xanthochromia (due to hemorrhagic temporal lobe necrotizing encephalitis). PCR confirms HSV DNA. - MANAGEMENT PRIORITY: IMMEDIATE EMPIRIC INTRAVENOUS ACYCLOVIR. NEVER DELAY ACYCLOVIR PENDING LUMBAR PUNCTURE OR PCR RESULTS (mortality exceeds 70% if untreated).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Herpes Simplex Encephalitis Clinical Features and Immediate Empiric Antiviral.",
+    "keyPoints": [
+      "Herpes Simplex Encephalitis Clinical Features and Immediate Empiric Antiviral",
+      "Manage Herpes Simplex Virus (HSV-1) Encephalitis: - CLINICAL PICTURE: Acute onset of fever, headache, altered mental status, bizarre behavioral changes/hallucinations, and focal se"
+    ],
+    "references": [
+      {
+        "label": "Whitley RJ. Herpes simplex encephalitis: adolescents and adults. Antiviral Res. 2006;71(2-3):141-148. PMID: 16675036.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16675036/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0160",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Epidural Hematoma Anatomy and Emergency Surgical Decompression",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 22-year-old man is brought to the emergency department after being struck on the right side of the head by a baseball during a competitive game. Witnesses report that he was knocked unconscious for approximately 2 minutes immediately following the impact, but then awakened completely, stood up, and conversed normally with his teammates for about 45 minutes (\"lucid interval\"). However, while sitting in the dugout, he developed a severe throbbing headache, vomited twice, and became progressively somnolent and unresponsive. On arrival, his blood pressure is 172/96 mm Hg, heart rate is 50/min (Cushing reflex), and respirations are 12/min and irregular. Neurological examination reveals a comatose patient with a Glasgow Coma Scale score of 6 (E1V1M4). His right pupil is 6 mm, fixed, and non-reactive to direct or consensual light, whereas the left pupil is 3 mm and briskly reactive. There is left-sided hemiplegia with extensor posturing of the left upper and lower extremities. An urgent non-contrast head CT scan reveals a linear skull fracture traversing the right pterion and a large, lens-shaped (biconvex) hyperdense extra-axial mass in the right temporoparietal region that does not cross cranial suture lines, causing 11 mm of midline shift and compression of the ipsilateral lateral ventricle. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Placement of a bedside lumbar drain to reduce cerebrospinal fluid pressure",
+        "correct": false,
+        "explanation": "Lumbar puncture or lumbar drainage in the setting of acute intracranial mass effect with 11 mm midline shift triggers catastrophic downward transtentorial and tonsillar herniation and instantaneous death."
+      },
+      {
+        "text": "Admit to the neuro-intensive care unit for continuous hypertonic saline infusion and repeat CT in 6 hours",
+        "correct": false,
+        "explanation": "Osmotic therapy is only a temporary bridge to the operating room; delaying surgical evacuation of an arterial epidural hematoma with active uncal herniation leads to fatal brainstem infarction."
+      },
+      {
+        "text": "Administration of intravenous tranexamic acid and high-dose dexamethasone",
+        "correct": false,
+        "explanation": "Antifibrinolytics cannot control an arterial middle meningeal rupture, and corticosteroids are ineffective in traumatic brain injury (CRASH trial showed increased mortality)."
+      },
+      {
+        "text": "Emergent therapeutic burr hole drainage on the contralateral left temporal bone",
+        "correct": false,
+        "explanation": "If a burr hole is performed in an austere environment, it must be placed ipsilateral to the lesion (right side); operating on the contralateral side is a fatal wrong-site error."
+      },
+      {
+        "text": "Immediate emergency neurosurgical craniotomy and surgical hematoma evacuation",
+        "correct": true,
+        "explanation": "This patient presents with a classic acute epidural hematoma (EDH) undergoing rapid decompensation with uncal (transtentorial) herniation. The pathophysiology involves blunt head trauma to the pterion (where the temporal, parietal, frontal, and sphenoid bones meet), causing a skull fracture that lacerates the MIDDLE MENINGEAL ARTERY (a branch of the maxillary artery). Because bleeding is arterial under high systemic pressure, it strips the tightly adherent dura from the inner table of the skull, forming a characteristic BICONVEX (LENTICULAR) HYPERDENSITY on CT that does not cross cranial suture lines (dura is firmly fixed at sutures). The clinical course is famous for the \"LUCID INTERVAL\": brief concussive unconsciousness, followed by a transient lucid period of normal mental status, followed by rapid neurologic collapse as the expanding arterial hematoma drives intracranial pressure upward. Compression of the uncus of the temporal lobe herniates across the tentorial notch, compressing the ipsilateral oculomotor nerve (CN III, causing right pupillary dilation and loss of light reflex) and the ipsilateral cerebral peduncle (causing contralateral left hemiplegia). Cushing triad (hypertension, bradycardia, irregular respirations) confirms life-threatening intracranial hypertension. The only definitive life-saving management is IMMEDIATE EMERGENCY SURGICAL CRANIOTOMY AND HEMATOMA EVACUATION to relieve brainstem compression."
+      }
+    ],
+    "explanation": "This patient presents with a classic acute epidural hematoma (EDH) undergoing rapid decompensation with uncal (transtentorial) herniation. The pathophysiology involves blunt head trauma to the pterion (where the temporal, parietal, frontal, and sphenoid bones meet), causing a skull fracture that lacerates the MIDDLE MENINGEAL ARTERY (a branch of the maxillary artery). Because bleeding is arterial under high systemic pressure, it strips the tightly adherent dura from the inner table of the skull, forming a characteristic BICONVEX (LENTICULAR) HYPERDENSITY on CT that does not cross cranial suture lines (dura is firmly fixed at sutures). The clinical course is famous for the \"LUCID INTERVAL\": brief concussive unconsciousness, followed by a transient lucid period of normal mental status, followed by rapid neurologic collapse as the expanding arterial hematoma drives intracranial pressure upward. Compression of the uncus of the temporal lobe herniates across the tentorial notch, compressing the ipsilateral oculomotor nerve (CN III, causing right pupillary dilation and loss of light reflex) and the ipsilateral cerebral peduncle (causing contralateral left hemiplegia). Cushing triad (hypertension, bradycardia, irregular respirations) confirms life-threatening intracranial hypertension. The only definitive life-saving management is IMMEDIATE EMERGENCY SURGICAL CRANIOTOMY AND HEMATOMA EVACUATION to relieve brainstem compression. Manage Acute Epidural Hematoma (EDH): - ANATOMY: Fracture of the PTERION (thinnest part of skull where frontal, parietal, temporal, and sphenoid bones meet) lacerating the MIDDLE MENINGEAL ARTERY (branch of maxillary artery). - CLINICAL COURSE: Classic \"LUCID INTERVAL\" (initial loss of consciousness from concussion -> temporary regaining of consciousness -> rapid deterioration into coma as arterial hematoma expands). Signs of UNCAL HERNIATION: ipsilateral dilated, fixed pupil (CN III compression) and contralateral hemiparesis (cerebral peduncle compression). - CT HEAD: BICONVEX (LENTICULAR) HYPERDENSITY that DOES NOT CROSS SUTURE LINES (limited by dura attached to sutures). - TREATMENT: IMMEDIATE EMERGENT SURGICAL CRANIOTOMY AND HEMATOMA EVACUATION.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Epidural Hematoma Anatomy and Emergency Surgical Decompression.",
+    "keyPoints": [
+      "Epidural Hematoma Anatomy and Emergency Surgical Decompression",
+      "Manage Acute Epidural Hematoma (EDH): - ANATOMY: Fracture of the PTERION (thinnest part of skull where frontal, parietal, temporal, and sphenoid bones meet) lacerating the MIDDLE M"
+    ],
+    "references": [
+      {
+        "label": "Bullock MR, et al. Surgical management of acute epidural hematomas. Neurosurgery. 2006;58(3 Suppl):S7-15. PMID: 16540742.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16540742/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0161",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Tumor Lysis Syndrome Prevention and Rasburicase Mechanism",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man with newly diagnosed stage IV Burkitt lymphoma is admitted to the oncology service to begin induction combination chemotherapy. Baseline laboratory studies reveal a white blood cell count of 88,000/mm³, serum lactate dehydrogenase (LDH) of 3,850 U/L (normal < 250 U/L), and extensive retroperitoneal and abdominal lymphadenopathy on staging CT. Twelve hours after receiving his first cycle of chemotherapy, the patient complains of muscle cramps, nausea, and numbness around his mouth. On physical examination, his blood pressure is 138/84 mm Hg, heart rate is 104/min, and respirations are 18/min. Tapping over the facial nerve anterior to the ear elicits brief twitching of the ipsilateral upper lip and facial muscles (positive Chvostek sign). A 12-lead electrocardiogram demonstrates normal sinus rhythm with peaked T waves in leads V2 through V4. Laboratory evaluation demonstrates: serum potassium 6.2 mEq/L, serum phosphorus 8.4 mg/dL (normal 2.5-4.5 mg/dL), serum calcium 6.1 mg/dL (normal 8.5-10.5 mg/dL), serum creatinine 2.6 mg/dL (baseline 0.9 mg/dL), and serum uric acid 15.8 mg/dL. In addition to continuous aggressive intravenous hydration and cardiac membrane stabilization, which of the following is the most appropriate pharmacologic agent to rapidly lower this patient's circulating uric acid level?",
+    "options": [
+      {
+        "text": "Intravenous rasburicase infusion",
+        "correct": true,
+        "explanation": "This patient presents with acute, life-threatening laboratory and clinical tumor lysis syndrome (TLS) following induction chemotherapy for Burkitt lymphoma (a high-grade B-cell malignancy with an extremely high proliferative index and high LDH). TLS is caused by the massive, rapid lysis of neoplastic cells, releasing intracellular ions and nucleic acids into the systemic circulation. This produces a characteristic metabolic tetrad: (1) HYPERURICEMIA (catabolism of purines to hypoxanthine, xanthine, and uric acid, precipitating in renal tubules and causing acute uric acid nephropathy); (2) HYPERKALEMIA (releasing intracellular potassium, risking fatal ventricular arrhythmias); (3) HYPERPHOSPHATEMIA (releasing intracellular phosphate); and (4) SECONDARY HYPOCALCEMIA (phosphate binds ionized calcium, precipitating as calcium phosphate crystals in tissues, causing tetany, Chvostek sign, and seizures). While allopurinol inhibits xanthine oxidase to block the synthesis of NEW uric acid, it has zero ability to degrade uric acid that is ALREADY PRESENT in the circulation. The treatment of choice for high-risk patients or established hyperuricemia is INTRAVENOUS RASBURICASE. Rasburicase is a recombinant urate oxidase enzyme (absent in humans) that directly catalyzes the enzymatic conversion of insoluble uric acid into ALLANTOIN, a metabolite that is 5 to 10 times more water-soluble and freely excreted by the kidneys, rapidly clearing uric acid within hours."
+      },
+      {
+        "text": "Oral allopurinol administered at high doses every 8 hours",
+        "correct": false,
+        "explanation": "Allopurinol inhibits xanthine oxidase, preventing the formation of new uric acid, but does not degrade existing circulating uric acid (15.8 mg/dL here) and takes days to lower levels."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate infusion to achieve urinary alkalinization",
+        "correct": false,
+        "explanation": "Urinary alkalinization is no longer recommended in tumor lysis syndrome because high urine pH promotes calcium phosphate precipitation in renal tubules, worsening acute kidney injury."
+      },
+      {
+        "text": "Oral febuxostat monotherapy with forced loop diuresis",
+        "correct": false,
+        "explanation": "Like allopurinol, febuxostat only blocks uric acid production without enzymatic degradation of existing uric acid pools."
+      },
+      {
+        "text": "Continuous intravenous calcium gluconate infusion targeting a hypercalcemic state",
+        "correct": false,
+        "explanation": "While calcium gluconate is indicated transiently for cardiac membrane stabilization with peaked T waves, aggressive calcium administration promotes extensive systemic calcium-phosphate crystallization."
+      }
+    ],
+    "explanation": "This patient presents with acute, life-threatening laboratory and clinical tumor lysis syndrome (TLS) following induction chemotherapy for Burkitt lymphoma (a high-grade B-cell malignancy with an extremely high proliferative index and high LDH). TLS is caused by the massive, rapid lysis of neoplastic cells, releasing intracellular ions and nucleic acids into the systemic circulation. This produces a characteristic metabolic tetrad: (1) HYPERURICEMIA (catabolism of purines to hypoxanthine, xanthine, and uric acid, precipitating in renal tubules and causing acute uric acid nephropathy); (2) HYPERKALEMIA (releasing intracellular potassium, risking fatal ventricular arrhythmias); (3) HYPERPHOSPHATEMIA (releasing intracellular phosphate); and (4) SECONDARY HYPOCALCEMIA (phosphate binds ionized calcium, precipitating as calcium phosphate crystals in tissues, causing tetany, Chvostek sign, and seizures). While allopurinol inhibits xanthine oxidase to block the synthesis of NEW uric acid, it has zero ability to degrade uric acid that is ALREADY PRESENT in the circulation. The treatment of choice for high-risk patients or established hyperuricemia is INTRAVENOUS RASBURICASE. Rasburicase is a recombinant urate oxidase enzyme (absent in humans) that directly catalyzes the enzymatic conversion of insoluble uric acid into ALLANTOIN, a metabolite that is 5 to 10 times more water-soluble and freely excreted by the kidneys, rapidly clearing uric acid within hours. Manage Tumor Lysis Syndrome (TLS): Massive release of intracellular contents following induction chemotherapy for high-turnover hematologic malignancies (Burkitt lymphoma, ALL, AML). - LAB ABNORMALITIES: HYPERKALEMIA (arrhythmias), HYPERPHOSPHATEMIA (calcium-phosphate precipitation), HYPOCALCEMIA (tetany, seizures), and HYPERURICEMIA (uric acid nephropathy/AKI). - MANAGEMENT: 1. Aggressive IV hydration (isotonic saline); 2. ALLOPURINOL (xanthine oxidase inhibitor, PREVENTS new uric acid formation, best for low-to-intermediate risk); 3. RASBURICASE (recombinant urate oxidase that BREAKS DOWN EXISTING URIC ACID into allantoin, highly soluble and readily excreted; INDICATED FOR HIGH RISK OR ESTABLISHED HYPERURICEMIA). CAUTION: Rasburicase is CONTRAINDICATED in G6PD DEFICIENCY (causes severe hemolysis and methemoglobinemia).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Tumor Lysis Syndrome Prevention and Rasburicase Mechanism.",
+    "keyPoints": [
+      "Tumor Lysis Syndrome Prevention and Rasburicase Mechanism",
+      "Manage Tumor Lysis Syndrome (TLS): Massive release of intracellular contents following induction chemotherapy for high-turnover hematologic malignancies (Burkitt lymphoma, ALL, AML"
+    ],
+    "references": [
+      {
+        "label": "Cairo MS, et al. Recommendations for the evaluation of risk and prophylaxis of tumour lysis syndrome (TLS) in adults and children with malignant diseases: an expert TLS consensus group. Br J Haematol. 2010;149(4):578-586. PMID: 20377590.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20377590/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0162",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Malignant Epidural Spinal Cord Compression Emergency Protocol",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 66-year-old man with metastatic prostate cancer to the bones presents to the emergency department with a 2-week history of progressively worsening mid-thoracic back pain that radiates bilaterally around his rib cage in a band-like distribution. The pain is severe, constant, worse when lying supine in bed at night, and unimproved by oral acetaminophen and tramadol. Over the last 2 days, he has experienced progressive weakness and stiffness in both legs, making him unsteady and requiring a walker. This morning, he noticed difficulty urinating and had an episode of involuntary urinary dribbling. On physical examination, his blood pressure is 144/88 mm Hg, heart rate is 82/min, and respirations are 16/min. Point tenderness is elicited on direct percussion over the T6 and T7 spinous processes. Neurological examination reveals spastic paraparesis: motor strength is 3/5 in the hip flexors and knee extensors bilaterally, patellar and Achilles deep tendon reflexes are 3+ bilaterally with sustained clonus, and bilateral Babinski signs are present. Sensation to pinprick is sharply decreased below the T8 dermatome level (umbilicus). Bladder scan reveals 750 mL of post-void residual urine. Which of the following is the most appropriate immediate first step in the management of this patient?",
+    "options": [
+      {
+        "text": "Obtain plain radiographs of the thoracic spine and withhold steroids until a fracture is identified",
+        "correct": false,
+        "explanation": "Plain X-rays cannot visualize the spinal cord or evaluate epidural soft-tissue tumor mass; delaying steroids for plain radiographs risks permanent paraplegia."
+      },
+      {
+        "text": "Administer high-dose intravenous dexamethasone immediately and order an urgent MRI of the entire spine",
+        "correct": true,
+        "explanation": "This patient presents with classic signs of acute malignant epidural spinal cord compression (MESCC) secondary to metastatic prostate cancer. MESCC is a catastrophic oncologic emergency that can lead to permanent, irreversible paraplegia within hours if untreated. The clinical presentation typically follows a predictable sequence: (1) Focal, progressive back pain that worsens at night in the supine position and with spinal percussion; (2) Upper motor neuron weakness (hyperreflexia, spasticity, positive Babinski signs, bilateral leg weakness); (3) A distinct sensory level (sharp loss below T8 dermatome); and (4) Autonomic/sphincter dysfunction (urinary retention, overflow dribbling, and lax anal sphincter tone). The single most critical immediate intervention is IMMEDIATE HIGH-DOSE INTRAVENOUS DEXAMETHASONE (e.g., 10 to 16 mg IV bolus followed by maintenance doses). Glucocorticoids reduce vasogenic spinal cord edema, restore capillary microcirculation, relieve pain, and arrest neurological decline while preparing for imaging and definitive local therapy. Concurrently, an URGENT MRI OF THE ENTIRE SPINE (cervical, thoracic, and lumbosacral) must be obtained immediately, as up to 30% of patients have asymptomatic multiple non-contiguous metastatic compression sites. Radiation therapy or neurosurgical decompression is then performed urgently."
+      },
+      {
+        "text": "Place a transurethral catheter, prescribe oral tamsulosin, and arrange outpatient radiation oncology consultation",
+        "correct": false,
+        "explanation": "Urinary retention in this setting is neurogenic from spinal cord compression, not benign prostatic hyperplasia; outpatient referral results in irreversible paralysis."
+      },
+      {
+        "text": "Administer intravenous zoledronic acid infusion to stabilize osteolytic bone metastases",
+        "correct": false,
+        "explanation": "Bisphosphonates prevent future skeletal-related events but have zero acute decompressive or anti-edema effect on the acutely compromised spinal cord."
+      },
+      {
+        "text": "Perform an emergency bedside lumbar puncture to evaluate cerebrospinal fluid cytology",
+        "correct": false,
+        "explanation": "Performing a lumbar puncture below a complete spinal cord block can cause a sudden pressure differential, triggering \"spinal herniation\" and worsening cord compression."
+      }
+    ],
+    "explanation": "This patient presents with classic signs of acute malignant epidural spinal cord compression (MESCC) secondary to metastatic prostate cancer. MESCC is a catastrophic oncologic emergency that can lead to permanent, irreversible paraplegia within hours if untreated. The clinical presentation typically follows a predictable sequence: (1) Focal, progressive back pain that worsens at night in the supine position and with spinal percussion; (2) Upper motor neuron weakness (hyperreflexia, spasticity, positive Babinski signs, bilateral leg weakness); (3) A distinct sensory level (sharp loss below T8 dermatome); and (4) Autonomic/sphincter dysfunction (urinary retention, overflow dribbling, and lax anal sphincter tone). The single most critical immediate intervention is IMMEDIATE HIGH-DOSE INTRAVENOUS DEXAMETHASONE (e.g., 10 to 16 mg IV bolus followed by maintenance doses). Glucocorticoids reduce vasogenic spinal cord edema, restore capillary microcirculation, relieve pain, and arrest neurological decline while preparing for imaging and definitive local therapy. Concurrently, an URGENT MRI OF THE ENTIRE SPINE (cervical, thoracic, and lumbosacral) must be obtained immediately, as up to 30% of patients have asymptomatic multiple non-contiguous metastatic compression sites. Radiation therapy or neurosurgical decompression is then performed urgently. Manage Malignant Epidural Spinal Cord Compression (MESCC): True oncologic emergency (prostate, breast, lung cancer, myeloma, renal cell carcinoma). - CLINICAL PROGRESSION: 1. Progressive, severe, focal back pain (worse lying flat, worse with percussion/valsalva); 2. Motor weakness (lower extremity weakness, difficulty walking); 3. Sensory level loss; 4. Autonomic/sphincter dysfunction (urinary retention with overflow incontinence, fecal incontinence - late finding, poor prognosis for recovery). - EMERGENCY PROTOCOL: 1. IMMEDIATE HIGH-DOSE INTRAVENOUS DEXAMETHASONE (reduces vasogenic spinal cord edema, relieves pain, and preserves neurologic function); 2. URGENT MRI OF THE ENTIRE SPINE (scans cervical, thoracic, and lumbar spine because multi-level metastases occur in ~30%); 3. Emergency radiation oncology and neurosurgical spine consultation for decompression.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Malignant Epidural Spinal Cord Compression Emergency Protocol.",
+    "keyPoints": [
+      "Malignant Epidural Spinal Cord Compression Emergency Protocol",
+      "Manage Malignant Epidural Spinal Cord Compression (MESCC): True oncologic emergency (prostate, breast, lung cancer, myeloma, renal cell carcinoma). - CLINICAL PROGRESSION: 1. Progr"
+    ],
+    "references": [
+      {
+        "label": "Lawton AJ, et al. Assessment and Management of Patients With Metastatic Spinal Cord Compression: A Multidisciplinary Review. J Clin Oncol. 2019;37(1):61-71. PMID: 30452336.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30452336/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0163",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Superior Vena Cava Syndrome Diagnosis and Initial Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old man with a 45-pack-year smoking history presents to the emergency department because of progressive swelling of his face, neck, and right arm that has developed over the past 2 weeks. He reports a feeling of tightness around his shirt collar, persistent morning headache, and shortness of breath that worsens when he bends forward to tie his shoes or lies flat in bed. He has had a 15-lb unintended weight loss and a chronic non-productive cough over the last 3 months. On physical examination, his blood pressure is 138/84 mm Hg, heart rate is 92/min, respirations are 20/min, and oxygen saturation is 94% on room air. The patient exhibits prominent periorbital edema, facial plethora (ruddy purplish discoloration), and bilateral jugular venous distension without visible venous pulsations. Multiple tortuous, dilated superficial collateral veins are visible across the anterior chest wall and upper abdomen. When the patient is asked to raise both arms straight above his head for 1 minute, marked facial cyanosis, fullness, and inspiratory stridor develop (positive Pemberton sign). Auscultation of the right upper lung field reveals decreased breath sounds. Which of the following is the most appropriate initial diagnostic imaging study to evaluate this patient?",
+    "options": [
+      {
+        "text": "Non-contrast magnetic resonance imaging of the brain and orbits",
+        "correct": false,
+        "explanation": "Brain MRI evaluates intracranial metastases or elevated ICP, but does not identify the primary thoracic pathology compressing the superior vena cava."
+      },
+      {
+        "text": "Transthoracic echocardiography with agitated saline bubble study",
+        "correct": false,
+        "explanation": "Echocardiography assesses cardiac chamber filling and pericardial effusion, but cannot visualize the superior vena cava in its entirety or mediastinal tumors."
+      },
+      {
+        "text": "Contrast-enhanced computed tomography of the chest and neck",
+        "correct": true,
+        "explanation": "This patient presents with classic superior vena cava (SVC) syndrome. The superior vena cava is a thin-walled, low-pressure vessel surrounded by rigid mediastinal structures (sternum, trachea, right bronchus, and lymph nodes), making it highly susceptible to extrinsic compression or intraluminal obstruction. Over 70% of cases are caused by intrathoracic malignancies—most commonly small cell lung cancer, non-small cell lung cancer, or mediastinal lymphoma. Clinical features include: (1) Facial, periorbital, and neck edema; (2) Arm swelling; (3) Dilated subcutaneous collateral veins branching over the chest wall; and (4) Positional exacerbation—symptoms worsen when bending forward or lying supine. The positive Pemberton sign (facial plethora, cyanosis, and airway compromise upon bilateral arm elevation) confirms thoracic inlet obstruction. The diagnostic test of choice is CONTRAST-ENHANCED COMPUTED TOMOGRAPHY (CT) OF THE CHEST AND NECK. Contrast-enhanced CT precisely identifies the anatomical site and degree of SVC obstruction, maps out collateral venous networks, detects intraluminal thrombus, and characterizes the underlying mass to guide tissue biopsy. Initial supportive management includes head elevation and oxygen; definitive treatment relies on endovascular stenting or radiation/chemotherapy."
+      },
+      {
+        "text": "Right upper extremity venous duplex ultrasonography alone",
+        "correct": false,
+        "explanation": "Duplex ultrasound can detect peripheral subclavian or internal jugular vein thrombosis, but cannot image the central intrathoracic superior vena cava or mediastinal lymphadenopathy."
+      },
+      {
+        "text": "Urgent diagnostic rigid bronchoscopy under general anesthesia",
+        "correct": false,
+        "explanation": "Bronchoscopy under general anesthesia in a patient with severe SVC syndrome and airway compromise risks life-threatening tracheal collapse, bleeding, and complete airway obstruction."
+      }
+    ],
+    "explanation": "This patient presents with classic superior vena cava (SVC) syndrome. The superior vena cava is a thin-walled, low-pressure vessel surrounded by rigid mediastinal structures (sternum, trachea, right bronchus, and lymph nodes), making it highly susceptible to extrinsic compression or intraluminal obstruction. Over 70% of cases are caused by intrathoracic malignancies—most commonly small cell lung cancer, non-small cell lung cancer, or mediastinal lymphoma. Clinical features include: (1) Facial, periorbital, and neck edema; (2) Arm swelling; (3) Dilated subcutaneous collateral veins branching over the chest wall; and (4) Positional exacerbation—symptoms worsen when bending forward or lying supine. The positive Pemberton sign (facial plethora, cyanosis, and airway compromise upon bilateral arm elevation) confirms thoracic inlet obstruction. The diagnostic test of choice is CONTRAST-ENHANCED COMPUTED TOMOGRAPHY (CT) OF THE CHEST AND NECK. Contrast-enhanced CT precisely identifies the anatomical site and degree of SVC obstruction, maps out collateral venous networks, detects intraluminal thrombus, and characterizes the underlying mass to guide tissue biopsy. Initial supportive management includes head elevation and oxygen; definitive treatment relies on endovascular stenting or radiation/chemotherapy. Manage Superior Vena Cava (SVC) Syndrome: Extrinsic compression or intravascular thrombosis of the thin-walled SVC by mediastinal malignancy (small cell lung carcinoma, non-small cell lung carcinoma, lymphoma) or indwelling central venous catheter/pacemaker lead. - SYMPTOMS: Facial fullness/edema, bilateral arm swelling, neck vein distention, dilated subcutaneous collateral veins across upper chest wall, dyspnea, and plethora (worse leaning forward - Pemberton sign). - DIAGNOSIS: CONTRAST-ENHANCED CT SCAN OF THE CHEST. - MANAGEMENT: 1. Elevation of head of bed and supplemental oxygen; 2. Intravenous corticosteroids for lymphoma or thymoma; 3. ENDOVASCULAR STENTING (rapid symptomatic relief) or radiation therapy / systemic chemotherapy based on tumor histology.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Superior Vena Cava Syndrome Diagnosis and Initial Management.",
+    "keyPoints": [
+      "Superior Vena Cava Syndrome Diagnosis and Initial Management",
+      "Manage Superior Vena Cava (SVC) Syndrome: Extrinsic compression or intravascular thrombosis of the thin-walled SVC by mediastinal malignancy (small cell lung carcinoma, non-small c"
+    ],
+    "references": [
+      {
+        "label": "Wilson LD, et al. Clinical practice. Superior vena cava syndrome with malignant causes. N Engl J Med. 2007;356(18):1862-1869. PMID: 17476012.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17476012/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0164",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Severe Hypercalcemia of Malignancy Management Hierarchy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 63-year-old man with a 40-pack-year smoking history is brought to the emergency department by his family because of severe lethargy, confusion, constipation, and intractable nausea over the past 5 days. Over the last month, he has lost 18 lbs and complained of a chronic productive cough and right-sided chest pain. On physical examination, the patient is obtunded, arousable only to loud voice, and profoundly dehydrated with dry mucous membranes and sunken eyes. His blood pressure is 92/56 mm Hg, heart rate is 112/min, and respirations are 16/min. Cardiopulmonary examination reveals decreased breath sounds over the right upper lung field. A 12-lead electrocardiogram demonstrates sinus tachycardia with a shortened QT interval (QTc 340 ms). Laboratory evaluation reveals: serum sodium 142 mEq/L, potassium 3.6 mEq/L, BUN 48 mg/dL, creatinine 2.4 mg/dL (baseline 0.9 mg/dL), total serum calcium 15.6 mg/dL (normal 8.5-10.5 mg/dL), serum albumin 3.0 g/dL, and corrected serum calcium 16.4 mg/dL. Parathyroid hormone (PTH) is suppressed at 4 pg/mL (normal 10-65 pg/mL), and parathyroid hormone-related protein (PTHrP) is markedly elevated. While aggressive resuscitation with intravenous 0.9% normal saline is initiated, which of the following represents the most appropriate pharmacologic regimen to provide both rapid and sustained reduction of serum calcium in this patient?",
+    "options": [
+      {
+        "text": "Intravenous furosemide boluses every 4 hours while withholding isotonic fluids",
+        "correct": false,
+        "explanation": "Loop diuretics administered without adequate fluid resuscitation exacerbate severe volume depletion, worsen prerenal azotemia, and increase serum calcium concentration; furosemide is reserved only for volume overload."
+      },
+      {
+        "text": "High-dose oral ergocalciferol (vitamin D2) supplementation",
+        "correct": false,
+        "explanation": "Vitamin D administration stimulates intestinal calcium absorption and bone resorption, further worsening hypercalcemia."
+      },
+      {
+        "text": "Oral cinacalcet monotherapy with outpatient follow-up",
+        "correct": false,
+        "explanation": "Cinacalcet is a calcimimetic used for secondary hyperparathyroidism in end-stage renal disease or parathyroid carcinoma; it is ineffective for severe PTHrP-driven hypercalcemia."
+      },
+      {
+        "text": "Subcutaneous calcitonin for rapid onset combined with intravenous zoledronic acid for sustained effect",
+        "correct": true,
+        "explanation": "This patient presents with life-threatening severe hypercalcemia of malignancy (corrected calcium > 14 mg/dL, obtundation, volume depletion, and shortened QT interval), driven by humoral hypercalcemia of malignancy via tumor secretion of parathyroid hormone-related protein (PTHrP), classically from a squamous cell lung carcinoma. Hypercalcemia impairs renal concentrating ability (inducing nephrogenic diabetes insipidus), causing profound dehydration and hypovolemia that further worsens calcium excretion. Management must follow a coordinated physiologic timeline: (1) Aggressive intravenous isotonic saline (0.9% NaCl at 200 to 300 mL/hr) is the essential first step to restore intravascular volume and promote renal calcium excretion. (2) SUBCUTANEOUS OR INTRAMUSCULAR CALCITONIN provides rapid reduction in calcium levels (beginning within 4 to 6 hours) by inhibiting osteoclastic bone resorption and increasing renal calcium excretion; however, its efficacy is transient due to tachyphylaxis (receptor downregulation) after 48 hours. (3) INTRAVENOUS BISPHOSPHONATES (specifically ZOLEDRONIC ACID or pamidronate) are the most potent agents for sustained calcium reduction; they bind to hydroxyapatite and poison osteoclasts. Because bisphosphonates require 48 to 72 hours to achieve their therapeutic nadir, pairing calcitonin (immediate bridge) with zoledronic acid (long-term control) is the gold standard."
+      },
+      {
+        "text": "Emergency surgical parathyroidectomy within the next 12 hours",
+        "correct": false,
+        "explanation": "Serum PTH is suppressed (4 pg/mL), confirming that hypercalcemia is PTH-independent; parathyroidectomy is completely contraindicated."
+      }
+    ],
+    "explanation": "This patient presents with life-threatening severe hypercalcemia of malignancy (corrected calcium > 14 mg/dL, obtundation, volume depletion, and shortened QT interval), driven by humoral hypercalcemia of malignancy via tumor secretion of parathyroid hormone-related protein (PTHrP), classically from a squamous cell lung carcinoma. Hypercalcemia impairs renal concentrating ability (inducing nephrogenic diabetes insipidus), causing profound dehydration and hypovolemia that further worsens calcium excretion. Management must follow a coordinated physiologic timeline: (1) Aggressive intravenous isotonic saline (0.9% NaCl at 200 to 300 mL/hr) is the essential first step to restore intravascular volume and promote renal calcium excretion. (2) SUBCUTANEOUS OR INTRAMUSCULAR CALCITONIN provides rapid reduction in calcium levels (beginning within 4 to 6 hours) by inhibiting osteoclastic bone resorption and increasing renal calcium excretion; however, its efficacy is transient due to tachyphylaxis (receptor downregulation) after 48 hours. (3) INTRAVENOUS BISPHOSPHONATES (specifically ZOLEDRONIC ACID or pamidronate) are the most potent agents for sustained calcium reduction; they bind to hydroxyapatite and poison osteoclasts. Because bisphosphonates require 48 to 72 hours to achieve their therapeutic nadir, pairing calcitonin (immediate bridge) with zoledronic acid (long-term control) is the gold standard. Manage Severe Hypercalcemia (serum calcium > 14 mg/dL or symptomatic): Classically caused by malignancy (PTHrP from squamous cell cancers; bone osteolytic metastases in breast cancer/myeloma; or 1,25-(OH)2D production in lymphoma). Symptoms: \"Stones, bones, abdominal groans, psychiatric overtones\" + severe volume depletion (nephrogenic DI). SHORT-TERM & LONG-TERM MANAGEMENT PROTOCOL: 1. IMMEDIATE AGGRESSIVE INTRAVENOUS ISOTONIC SALINE (replaces massive volume deficits and promotes calciuresis); 2. CALCITONIN (subcutaneous/IM: fast-acting within 4-6 hours by inhibiting osteoclasts, but causes tachyphylaxis after 48 hours); 3. INTRAVENOUS BISPHOSPHONATES (ZOLEDRONIC ACID or pamidronate: potent osteoclast inhibitors that take 48-72 hours to work but provide sustained control for weeks). 4. AVOID FUROSEMIDE unless volume overload develops.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Severe Hypercalcemia of Malignancy Management Hierarchy.",
+    "keyPoints": [
+      "Severe Hypercalcemia of Malignancy Management Hierarchy",
+      "Manage Severe Hypercalcemia (serum calcium > 14 mg/dL or symptomatic): Classically caused by malignancy (PTHrP from squamous cell cancers; bone osteolytic metastases in breast canc"
+    ],
+    "references": [
+      {
+        "label": "Shane E, et al. Management of hypercalcemia of malignancy in adults. In: UpToDate, Post TW (Ed), UpToDate, Waltham, MA. (Accessed 2024). PMID: 23620958.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23620958/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0165",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Neutropenic Fever Empiric Antimicrobial Regimen Selection",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old woman with acute myeloid leukemia receives induction chemotherapy with cytarabine and daunorubicin. On post-chemotherapy day 8, she develops sudden chills and shivering. Her temperature is 38.6°C (101.5°F), blood pressure is 118/74 mm Hg, heart rate is 96/min, and respirations are 16/min. Physical examination reveals an alert woman with mild oral mucositis without ulcerations; her lungs are clear to auscultation bilaterally, abdomen is soft and nontender, and her right subclavian tunneled central venous catheter site is clean, dry, and intact with no erythema, tenderness, or purulent drainage. Laboratory evaluation reveals: hemoglobin 8.6 g/dL, platelet count 28,000/mm³, and white blood cell count 600/mm³ with 10% segmented neutrophils and 5% band forms (calculated absolute neutrophil count [ANC] 90/mm³). Blood cultures are drawn from both the central line and a peripheral vein, and a urine culture is obtained. Which of the following is the most appropriate next step in the antimicrobial management of this patient?",
+    "options": [
+      {
+        "text": "Routine administration of intravenous vancomycin combined with cefepime",
+        "correct": false,
+        "explanation": "Routine addition of vancomycin to initial empiric therapy does not improve survival in stable patients without catheter infection, shock, pneumonia, or MRSA, and increases nephrotoxicity."
+      },
+      {
+        "text": "Oral ciprofloxacin and amoxicillin-clavulanate outpatient therapy",
+        "correct": false,
+        "explanation": "Oral outpatient regimens are reserved only for low-risk neutropenic patients (MASCC risk index score >= 21, ANC expected to recover within 7 days, no severe comorbidities); acute leukemia induction causes prolonged profound neutropenia requiring inpatient IV therapy."
+      },
+      {
+        "text": "Immediate surgical removal of the tunneled central venous catheter",
+        "correct": false,
+        "explanation": "Catheter removal is not indicated unless there is tunnel infection, septic emboli, hemodynamic instability, or persistent bacteremia with Staphylococcus aureus, Pseudomonas, or Candida."
+      },
+      {
+        "text": "Withhold antimicrobial therapy until blood cultures identify a specific causative organism",
+        "correct": false,
+        "explanation": "Delaying antibiotics in neutropenic fever while awaiting culture growth carries a mortality rate approaching 50% within 48 hours."
+      },
+      {
+        "text": "Immediate administration of intravenous cefepime monotherapy",
+        "correct": true,
+        "explanation": "This patient meets clear diagnostic criteria for NEUTROPENIC FEVER: a single oral temperature >= 38.3°C (101.0°F) or >= 38.0°C (100.4°F) sustained for >= 1 hour in a patient with an absolute neutrophil count (ANC) < 500/mm³ (here ANC is 90/mm³: 600 x 0.15 = 90). Because neutropenic patients lack the ability to mount an adequate inflammatory response, life-threatening bacteremia and septic shock can develop within hours, particularly from virulent Gram-negative rods such as Pseudomonas aeruginosa. The Infectious Diseases Society of America (IDSA) guidelines recommend IMMEDIATE EMPIRIC INTRAVENOUS ANTIPSEUDOMONAL MONOTHERAPY. Recommended first-line agents include CEFEPIME, PIPERACILLIN-TAZOBACTAM, or MEROPENEM. Crucially, the routine empiric addition of vancomycin is NOT recommended unless specific clinical indications are present: (1) Hemodynamic instability or septic shock; (2) Obvious central venous catheter site infection; (3) Known MRSA colonization; (4) Clinically apparent skin/soft tissue infection; or (5) Radiographic evidence of pneumonia. Because this patient is hemodynamically stable with an uninfected catheter site, cefepime monotherapy is the most appropriate management."
+      }
+    ],
+    "explanation": "This patient meets clear diagnostic criteria for NEUTROPENIC FEVER: a single oral temperature >= 38.3°C (101.0°F) or >= 38.0°C (100.4°F) sustained for >= 1 hour in a patient with an absolute neutrophil count (ANC) < 500/mm³ (here ANC is 90/mm³: 600 x 0.15 = 90). Because neutropenic patients lack the ability to mount an adequate inflammatory response, life-threatening bacteremia and septic shock can develop within hours, particularly from virulent Gram-negative rods such as Pseudomonas aeruginosa. The Infectious Diseases Society of America (IDSA) guidelines recommend IMMEDIATE EMPIRIC INTRAVENOUS ANTIPSEUDOMONAL MONOTHERAPY. Recommended first-line agents include CEFEPIME, PIPERACILLIN-TAZOBACTAM, or MEROPENEM. Crucially, the routine empiric addition of vancomycin is NOT recommended unless specific clinical indications are present: (1) Hemodynamic instability or septic shock; (2) Obvious central venous catheter site infection; (3) Known MRSA colonization; (4) Clinically apparent skin/soft tissue infection; or (5) Radiographic evidence of pneumonia. Because this patient is hemodynamically stable with an uninfected catheter site, cefepime monotherapy is the most appropriate management. Manage Febrile Neutropenia: - DEFINITION: Single oral temperature >= 38.3°C (101.0°F) or >= 38.0°C (100.4°F) sustained for >= 1 hour in a patient with ABSOLUTE NEUTROPHIL COUNT (ANC) < 500/mm³ (or expected to fall < 500 within 48 hours). - PATHOGENESIS: Translocation of endogenous flora across mucositis breakdown; Pseudomonas aeruginosa causes rapid sepsis and mortality within hours. - INITIAL THERAPY: IMMEDIATE IV ANTIPSEUDOMONAL MONOTHERAPY: CEFEPIME, PIPERACILLIN-TAZOBACTAM, OR MEROPENEM. - INDICATIONS TO ADD VANCOMYCIN: Hemodynamic instability/shock, catheter-related infection, skin/soft tissue infection, pneumonia, or MRSA colonization. Do NOT add vancomycin routinely without these indications.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Neutropenic Fever Empiric Antimicrobial Regimen Selection.",
+    "keyPoints": [
+      "Neutropenic Fever Empiric Antimicrobial Regimen Selection",
+      "Manage Febrile Neutropenia: - DEFINITION: Single oral temperature >= 38.3°C (101.0°F) or >= 38.0°C (100.4°F) sustained for >= 1 hour in a patient with ABSOLUTE NEUTROPHIL COUNT (AN"
+    ],
+    "references": [
+      {
+        "label": "Freifeld AG, et al. Clinical practice guideline for the use of antimicrobial agents in neutropenic patients with cancer: 2010 update by the Infectious Diseases Society of America. Clin Infect Dis. 2011;52(4):e56-e93. PMID: 21258094.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21258094/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0166",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Neuroleptic Malignant Syndrome Pathophysiology and Treatment",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 31-year-old man with treatment-resistant schizophrenia was admitted to the inpatient psychiatric unit 4 days ago for acute auditory hallucinations and paranoia. His medication regimen was changed from oral risperidone to high-dose intramuscular haloperidol. This morning, nursing staff found him stuporous and soaked in sweat. On physical examination, the patient is obtunded, responding only with unintelligible groans to sternal rub. His temperature is 40.2°C (104.4°F), blood pressure is 178/104 mm Hg, heart rate is 134/min, and respirations are 24/min. He is profusely diaphoretic with warm, flushed skin. Neurological examination reveals extreme, diffuse, generalized \"lead-pipe\" muscular rigidity across all four extremities and the neck; deep tendon reflexes are diminished, and there is no clonus. Laboratory evaluation reveals: white blood cell count 19,400/mm³ with 82% neutrophils, serum creatinine 2.8 mg/dL, AST 184 U/L, ALT 142 U/L, and serum creatine kinase (CK) 34,200 U/L (normal < 200 U/L). Urinalysis is positive for large blood on dipstick, but microscopic examination demonstrates only 0 to 1 red blood cells per high-power field. In addition to immediately discontinuing haloperidol, transferring to the intensive care unit, and initiating aggressive cooling and intravenous fluids, which of the following is the most appropriate specific pharmacologic agent to administer?",
+    "options": [
+      {
+        "text": "Intravenous dantrolene sodium or oral bromocriptine mesylate",
+        "correct": true,
+        "explanation": "This patient presents with classic, life-threatening NEUROLEPTIC MALIGNANT SYNDROME (NMS), precipitated by the escalation of high-potency typical antipsychotic therapy (haloperidol). NMS is caused by profound blockade of central dopamine D2 receptors in the nigrostriatal pathway, hypothalamus, and spinal cord. It presents with a classic clinical tetrad: (1) Severe, generalized \"lead-pipe\" muscle rigidity; (2) Hyperthermia (temperature often exceeding 40°C); (3) Autonomic dysregulation (tachycardia, diaphoresis, labile hypertension); and (4) Altered mental status (delirium progressing to stupor and coma). Laboratory hallmarks are marked LEUKOCYTOSIS and MASSIVE CREATINE KINASE (CK) ELEVATION resulting from sustained rhabdomyolysis, leading to myoglobinuria (positive dipstick for blood with absent RBCs on microscopy) and acute kidney injury. Initial management requires: stopping the offending neuroleptic, aggressive physical cooling, and high-volume intravenous hydration to prevent myoglobinuric tubular necrosis. For moderate-to-severe refractory cases, specific pharmacologic therapy includes: (1) DANTROLENE (a skeletal muscle relaxant that blocks ryanodine calcium channels in the sarcoplasmic reticulum, arresting muscle hypermetabolism); and/or (2) BROMOCRIPTINE or AMANTADINE (dopamine receptor agonists that overcome central dopamine blockade)."
+      },
+      {
+        "text": "Oral cyproheptadine hydrochloride administration via nasogastric tube",
+        "correct": false,
+        "explanation": "Cyproheptadine is a serotonin antagonist used to treat serotonin syndrome, which is distinguished from NMS by hyperreflexia, prominent tremor, and ocular/myoclonus rather than lead-pipe rigidity."
+      },
+      {
+        "text": "Intravenous benztropine mesylate injection",
+        "correct": false,
+        "explanation": "Benztropine treats acute dystonic reactions or medication-induced parkinsonism; anticholinergic agents impair sweating, exacerbating hyperthermia and mortality in NMS."
+      },
+      {
+        "text": "Intramuscular fluphenazine decanoate to treat underlying psychosis",
+        "correct": false,
+        "explanation": "Administering further dopamine receptor blockers in NMS is catastrophic, causing fatal hyperpyrexia and cardiovascular collapse."
+      },
+      {
+        "text": "Intravenous methylprednisolone pulse therapy for presumed autoimmune encephalitis",
+        "correct": false,
+        "explanation": "High fever, lead-pipe rigidity, and CK > 30,000 U/L following haloperidol escalation confirm NMS; corticosteroids have no role and do not reverse dopamine blockade."
+      }
+    ],
+    "explanation": "This patient presents with classic, life-threatening NEUROLEPTIC MALIGNANT SYNDROME (NMS), precipitated by the escalation of high-potency typical antipsychotic therapy (haloperidol). NMS is caused by profound blockade of central dopamine D2 receptors in the nigrostriatal pathway, hypothalamus, and spinal cord. It presents with a classic clinical tetrad: (1) Severe, generalized \"lead-pipe\" muscle rigidity; (2) Hyperthermia (temperature often exceeding 40°C); (3) Autonomic dysregulation (tachycardia, diaphoresis, labile hypertension); and (4) Altered mental status (delirium progressing to stupor and coma). Laboratory hallmarks are marked LEUKOCYTOSIS and MASSIVE CREATINE KINASE (CK) ELEVATION resulting from sustained rhabdomyolysis, leading to myoglobinuria (positive dipstick for blood with absent RBCs on microscopy) and acute kidney injury. Initial management requires: stopping the offending neuroleptic, aggressive physical cooling, and high-volume intravenous hydration to prevent myoglobinuric tubular necrosis. For moderate-to-severe refractory cases, specific pharmacologic therapy includes: (1) DANTROLENE (a skeletal muscle relaxant that blocks ryanodine calcium channels in the sarcoplasmic reticulum, arresting muscle hypermetabolism); and/or (2) BROMOCRIPTINE or AMANTADINE (dopamine receptor agonists that overcome central dopamine blockade). Manage Neuroleptic Malignant Syndrome (NMS): Triggered by DOPAMINE D2 RECEPTOR ANTAGONISTS (high-potency typical antipsychotics like haloperidol, fluphenazine; or abrupt withdrawal of dopamine agonists like levodopa). TETRAD OF FEATURES: 1. \"LEAD-PIPE\" GENERALIZED MUSCLE RIGIDITY; 2. HYPERTHERMIA (temp often > 40°C / 104°F); 3. AUTONOMIC INSTABILITY (tachycardia, labile BP, diaphoresis); 4. ALTERED MENTAL STATUS (delirium, stupor, mutism). LABS: Markedly elevated CREATINE KINASE (CK > 1,000-50,000 U/L) and LEUKOCYTOSIS. TREATMENT: 1. Discontinue offending neuroleptic; 2. Aggressive cooling & IV hydration (prevent myoglobinuric renal failure); 3. DANTROLENE (ryanodine receptor blocker, relaxes muscle) or BROMOCRIPTINE (dopamine agonist).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Neuroleptic Malignant Syndrome Pathophysiology and Treatment.",
+    "keyPoints": [
+      "Neuroleptic Malignant Syndrome Pathophysiology and Treatment",
+      "Manage Neuroleptic Malignant Syndrome (NMS): Triggered by DOPAMINE D2 RECEPTOR ANTAGONISTS (high-potency typical antipsychotics like haloperidol, fluphenazine; or abrupt withdrawal"
+    ],
+    "references": [
+      {
+        "label": "Strawn JR, et al. Neuroleptic malignant syndrome. Am J Psychiatry. 2007;164(6):870-876. PMID: 17541044.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17541044/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0167",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Serotonin Syndrome vs Neuroleptic Malignant Syndrome",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old woman is brought to the emergency department by her partner because of acute agitation, trembling, profuse sweating, and confusion that started 4 hours ago. Her past medical history is significant for major depressive disorder treated with daily sertraline. Two days ago, she developed a tooth abscess and was prescribed oral tramadol for pain by an oral surgeon. On physical examination, the patient is markedly agitated, pacing the examination room, and disoriented to time and place. Her temperature is 39.1°C (102.4°F), blood pressure is 162/98 mm Hg, heart rate is 126/min, and respirations are 22/min. Physical examination reveals flushed skin, marked diaphoresis, and dilated pupils (mydriasis) bilaterally. Auscultation of the abdomen reveals hyperactive, loud, frequent bowel sounds. Neurological examination reveals prominent, continuous resting tremors in both hands, hyperreflexia (4+ patellar and Achilles reflexes bilaterally), and 6 to 8 beats of sustained clonus elicited upon rapid dorsiflexion of both ankles. There is no muscle rigidity, and tone is slightly decreased. Which of the following is the most appropriate specific pharmacologic therapy for this patient?",
+    "options": [
+      {
+        "text": "Intravenous dantrolene sodium infusion",
+        "correct": false,
+        "explanation": "Dantrolene is a ryanodine receptor antagonist used primarily for malignant hyperthermia and severe rigidity in NMS; it is not indicated for serotonin syndrome."
+      },
+      {
+        "text": "Intravenous lorazepam combined with oral cyproheptadine",
+        "correct": true,
+        "explanation": "This patient presents with classic SEROTONIN SYNDROME, precipitated by the dangerous co-administration of an SSRI (sertraline) and a synthetic opioid that inhibits serotonin reuptake (tramadol). Serotonin syndrome results from overstimulation of central and peripheral serotonin receptors (particularly 5-HT1A and 5-HT2A). The Hunter Toxicity Criteria confirm the diagnosis based on the presence of: spontaneous clonus, inducible clonus with agitation or diaphoresis, or ocular clonus with tremor and hyperreflexia. Key distinguishing features that differentiate Serotonin Syndrome from Neuroleptic Malignant Syndrome (NMS) include: (1) Neuromuscular hyperactivity: Prominent HYPERREFLEXIA and sustained CLONUS (versus \"lead-pipe\" rigidity and hyporeflexia in NMS); (2) Gastrointestinal findings: HYPERACTIVE BOWEL SOUNDS and diarrhea (versus normal or hypoactive bowel sounds in NMS); and (3) Rapid onset within hours (versus slow onset over days to weeks in NMS). First-line management includes discontinuing all serotonergic medications, aggressive supportive care, and INTRAVENOUS BENZODIAZEPINES (such as lorazepam) to control agitation, muscle hyperactivity, and autonomic instability. For moderate-to-severe cases unresponsive to benzodiazepines, the specific antidote is CYPROHEPTADINE, a first-generation antihistamine with potent 5-HT1A and 5-HT2A serotonin antagonist properties."
+      },
+      {
+        "text": "Intravenous bromocriptine mesylate via nasogastric tube",
+        "correct": false,
+        "explanation": "Bromocriptine is a dopamine agonist used for NMS; it has no role in serotonin receptor antagonism."
+      },
+      {
+        "text": "Subcutaneous sumatriptan injection",
+        "correct": false,
+        "explanation": "Sumatriptan is a 5-HT1B/1D serotonin agonist; administering it will exacerbate serotonin toxicity, worsening hyperthermia and seizures."
+      },
+      {
+        "text": "Intramuscular haloperidol to manage severe psychomotor agitation",
+        "correct": false,
+        "explanation": "Antipsychotics like haloperidol can worsen hyperthermia, cause acute dystonia, and confound the clinical picture by precipitating neuroleptic malignant syndrome."
+      }
+    ],
+    "explanation": "This patient presents with classic SEROTONIN SYNDROME, precipitated by the dangerous co-administration of an SSRI (sertraline) and a synthetic opioid that inhibits serotonin reuptake (tramadol). Serotonin syndrome results from overstimulation of central and peripheral serotonin receptors (particularly 5-HT1A and 5-HT2A). The Hunter Toxicity Criteria confirm the diagnosis based on the presence of: spontaneous clonus, inducible clonus with agitation or diaphoresis, or ocular clonus with tremor and hyperreflexia. Key distinguishing features that differentiate Serotonin Syndrome from Neuroleptic Malignant Syndrome (NMS) include: (1) Neuromuscular hyperactivity: Prominent HYPERREFLEXIA and sustained CLONUS (versus \"lead-pipe\" rigidity and hyporeflexia in NMS); (2) Gastrointestinal findings: HYPERACTIVE BOWEL SOUNDS and diarrhea (versus normal or hypoactive bowel sounds in NMS); and (3) Rapid onset within hours (versus slow onset over days to weeks in NMS). First-line management includes discontinuing all serotonergic medications, aggressive supportive care, and INTRAVENOUS BENZODIAZEPINES (such as lorazepam) to control agitation, muscle hyperactivity, and autonomic instability. For moderate-to-severe cases unresponsive to benzodiazepines, the specific antidote is CYPROHEPTADINE, a first-generation antihistamine with potent 5-HT1A and 5-HT2A serotonin antagonist properties. Differentiate Serotonin Syndrome (SS) from Neuroleptic Malignant Syndrome (NMS): - SS TRIGGER: Combinations of serotonergic agents (SSRI/SNRI + MAOI, tramadol, linezolid, triptan, dextromethorphan, MDMA). - CLINICAL HALLMARK: NEUROMUSCULAR EXCITATION (HYPERREFLEXIA, SPONTANEOUS/INDUCIBLE CLONUS, OCULAR CLONUS, TREMOR), agitation, diaphoresis, hyperactive bowel sounds (diarrhea), and hyperthermia. Hunter criteria: Clonus is the most sensitive finding. - CONTRAST WITH NMS: NMS has \"lead-pipe\" rigidity, hyporeflexia, and normal/hypoactive bowel sounds. - TREATMENT FOR SS: 1. Discontinue serotonergic agents; 2. IV Benzodiazepines (sedation, reduce agitation/hyperthermia); 3. CYPROHEPTADINE (5-HT2A serotonin receptor antagonist) for moderate-to-severe cases.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Serotonin Syndrome vs Neuroleptic Malignant Syndrome.",
+    "keyPoints": [
+      "Serotonin Syndrome vs Neuroleptic Malignant Syndrome",
+      "Differentiate Serotonin Syndrome (SS) from Neuroleptic Malignant Syndrome (NMS): - SS TRIGGER: Combinations of serotonergic agents (SSRI/SNRI + MAOI, tramadol, linezolid, triptan, "
+    ],
+    "references": [
+      {
+        "label": "Boyer EW, et al. The serotonin syndrome. N Engl J Med. 2005;352(11):1112-1120. PMID: 15784664.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15784664/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0168",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Acute Dystonic Reaction Diagnosis and Treatment",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old man is brought to the emergency department by his roommate because of sudden, terrifying muscle spasms of his neck and face that started 30 minutes ago. Yesterday afternoon, the patient was evaluated in an urgent care clinic for acute nausea and vomiting secondary to gastroenteritis and was prescribed oral metoclopramide. On physical examination, the patient is awake, alert, and in intense distress. His vital signs are: temperature 37.0°C (98.6°F), blood pressure 130/80 mm Hg, heart rate 94/min, and respirations 18/min. Neurological examination reveals his neck to be painfully twisted and locked in extreme rightward rotation (torticollis). His eyes are fixed in a sustained, involuntary upward and lateral gaze that he cannot force down (oculogyric crisis), and his jaw muscles are rigidly clenched. Mental status is completely normal, speech is strained but intelligible, and there are no focal sensory or deep tendon reflex abnormalities. Which of the following is the most appropriate immediate pharmacologic therapy for this patient?",
+    "options": [
+      {
+        "text": "Oral propranolol hydrochloride tablet",
+        "correct": false,
+        "explanation": "Propranolol is a beta-blocker used as the first-line treatment for antipsychotic-induced akathisia (motor restlessness), not acute dystonic spasms."
+      },
+      {
+        "text": "Intramuscular haloperidol injection",
+        "correct": false,
+        "explanation": "Haloperidol is a high-potency D2 antagonist that causes acute dystonia; administering it will severely worsen and prolong the dystonic crisis."
+      },
+      {
+        "text": "Intravenous benztropine mesylate or diphenhydramine hydrochloride",
+        "correct": true,
+        "explanation": "This patient is experiencing an ACUTE DYSTONIC REACTION, a classic extrapyramidal symptom (EPS) triggered by metoclopramide. Metoclopramide is a prokinetic antiemetic that exerts its therapeutic effect by blocking dopamine D2 receptors in the chemoreceptor trigger zone, but it also crosses the blood-brain barrier to block D2 receptors in the striatum. Acute dopamine blockade abruptly shifts the striatal neurochemical equilibrium toward excess cholinergic (muscarinic) transmission, triggering sudden, sustained, involuntary, and painful muscle contractions. Manifestations typically occur within 24 to 48 hours of drug exposure and include torticollis (spasmodic neck twisting), retrocollis, oculogyric crisis (involuntary upward gaze deviation), trismus (jaw clenching), and laryngeal dystonia. The immediate, definitive treatment is INTRAVENOUS OR INTRAMUSCULAR BENZTROPINE OR DIPHENHYDRAMINE. Both agents are centrally active anticholinergic (antimuscarinic) medications that restore the striatal dopamine-acetylcholine balance, rapidly resolving muscle spasm within 10 to 15 minutes. Oral anticholinergics should be continued for several days to prevent recurrence."
+      },
+      {
+        "text": "Intravenous dantrolene sodium infusion",
+        "correct": false,
+        "explanation": "Dantrolene treats neuroleptic malignant syndrome with lead-pipe rigidity and hyperthermia; it is unnecessary and inappropriate for isolated focal acute dystonia."
+      },
+      {
+        "text": "Oral baclofen and physical therapy stretching exercises",
+        "correct": false,
+        "explanation": "Baclofen is a GABAB agonist used for chronic spasticity in multiple sclerosis or spinal cord injury; it does not treat acute dopamine-antagonist dystonia."
+      }
+    ],
+    "explanation": "This patient is experiencing an ACUTE DYSTONIC REACTION, a classic extrapyramidal symptom (EPS) triggered by metoclopramide. Metoclopramide is a prokinetic antiemetic that exerts its therapeutic effect by blocking dopamine D2 receptors in the chemoreceptor trigger zone, but it also crosses the blood-brain barrier to block D2 receptors in the striatum. Acute dopamine blockade abruptly shifts the striatal neurochemical equilibrium toward excess cholinergic (muscarinic) transmission, triggering sudden, sustained, involuntary, and painful muscle contractions. Manifestations typically occur within 24 to 48 hours of drug exposure and include torticollis (spasmodic neck twisting), retrocollis, oculogyric crisis (involuntary upward gaze deviation), trismus (jaw clenching), and laryngeal dystonia. The immediate, definitive treatment is INTRAVENOUS OR INTRAMUSCULAR BENZTROPINE OR DIPHENHYDRAMINE. Both agents are centrally active anticholinergic (antimuscarinic) medications that restore the striatal dopamine-acetylcholine balance, rapidly resolving muscle spasm within 10 to 15 minutes. Oral anticholinergics should be continued for several days to prevent recurrence. Manage Acute Dystonic Reaction (extrapyramidal symptom [EPS] occurring within hours to days of starting dopamine D2 antagonists): - AGENTS: High-potency first-generation antipsychotics (haloperidol, fluphenazine) or antiemetics (metoclopramide, prochlorperazine). - CLINICAL MANIFESTATIONS: Sudden, involuntary, painful, sustained muscle contractions: TORTICOLLIS (twisted neck), OCULOGYRIC CRISIS (sustained upward deviation of eyes), TRISMUS (jaw clenching), or OPISTHOTONOS. - PATHOPHYSIOLOGY: Acute disruption of dopamine-acetylcholine balance in the basal ganglia (excess cholinergic activity). - TREATMENT: IMMEDIATE INTRAMUSCULAR OR INTRAVENOUS ANTICHOLINERGIC AGENT: BENZTROPINE OR DIPHENHYDRAMINE (rapid symptom reversal within minutes).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Dystonic Reaction Diagnosis and Treatment.",
+    "keyPoints": [
+      "Acute Dystonic Reaction Diagnosis and Treatment",
+      "Manage Acute Dystonic Reaction (extrapyramidal symptom [EPS] occurring within hours to days of starting dopamine D2 antagonists): - AGENTS: High-potency first-generation antipsycho"
+    ],
+    "references": [
+      {
+        "label": "Stroup TS, et al. Management of Common Adverse Effects of Antipsychotic Medications. World Psychiatry. 2018;17(3):341-356. PMID: 30192082.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30192082/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0169",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Lithium Toxicity Manifestations and Hemodialysis Thresholds",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 46-year-old woman with bipolar I disorder is brought to the emergency department by her sister because of worsening confusion, unsteadiness, slurred speech, and vomiting over the past 3 days. Her psychiatric condition has been stable on lithium carbonate for 8 years. Two weeks ago, her primary care physician initiated oral hydrochlorothiazide for newly diagnosed essential hypertension. On physical examination, the patient is disoriented to date and place, lethargic, and dysarthric. Her blood pressure is 106/64 mm Hg, heart rate is 62/min, and respirations are 16/min. Examination of the oral mucosa reveals dry membranes. Neurological examination reveals prominent, coarse bilateral hand tremors, widespread dysmetria on finger-to-nose testing, hyperreflexia (3+) with unsustained ankle clonus, and a severely ataxic gait. Laboratory evaluation reveals: sodium 134 mEq/L, potassium 3.2 mEq/L, BUN 42 mg/dL, creatinine 2.6 mg/dL (baseline 0.8 mg/dL), and serum lithium concentration 4.4 mEq/L (therapeutic range 0.6-1.2 mEq/L). An electrocardiogram shows sinus bradycardia with first-degree AV block and flattened T waves. Which of the following is the most appropriate definitive management for this patient?",
+    "options": [
+      {
+        "text": "Intravenous normal saline infusion alone with serial lithium levels every 6 hours",
+        "correct": false,
+        "explanation": "While isotonic saline is an important adjunct, relying on hydration alone in a patient with acute renal failure and a lithium level of 4.4 mEq/L results in permanent cerebellar damage or death."
+      },
+      {
+        "text": "Administration of multiple doses of oral activated charcoal via a nasogastric tube",
+        "correct": false,
+        "explanation": "Lithium is a tiny monovalent charged cation that does not bind to activated charcoal; charcoal is ineffective and risks aspiration in a lethargic patient."
+      },
+      {
+        "text": "Intravenous sodium polystyrene sulfonate administration to clear systemic lithium",
+        "correct": false,
+        "explanation": "Sodium polystyrene sulfonate binds potassium in the colon, not lithium, and risks severe hypokalemia and bowel necrosis."
+      },
+      {
+        "text": "Emergency hemodialysis",
+        "correct": true,
+        "explanation": "This patient presents with severe acute-on-chronic lithium toxicity precipitated by the addition of hydrochlorothiazide. Lithium is filtered by the glomerulus and 80% is reabsorbed in the proximal convoluted tubule alongside sodium. Thiazide diuretics inhibit the Na+/Cl- cotransporter in the distal convoluted tubule, causing mild volume depletion; in response, the proximal tubule compensatory machinery ramps up sodium reabsorption, inadvertently reabsorbing massive amounts of lithium and causing toxic accumulation. (NSAIDs and ACE inhibitors/ARBs also decrease lithium clearance). Toxicity progresses from gastrointestinal distress to debilitating neurological toxicity: coarse tremors, dysarthria, cerebellar ataxia, confusion, and potential seizures or coma. Definite indications for EMERGENCY HEMODIALYSIS include: (1) Serum lithium concentration > 4.0 mEq/L regardless of clinical status; (2) Serum lithium concentration > 2.5 mEq/L in the presence of severe neurological symptoms (ataxia, confusion, seizures), acute renal impairment, or hemodynamic instability; or (3) Inability to tolerate fluid resuscitation (heart failure). Because her lithium level is 4.4 mEq/L and she has acute kidney injury with encephalopathy, hemodialysis is mandatory."
+      },
+      {
+        "text": "Forced alkaline diuresis with intravenous sodium bicarbonate boluses",
+        "correct": false,
+        "explanation": "Alkaline diuresis is used for salicylate toxicity, not lithium; it does not clear lithium and risks pulmonary edema and metabolic alkalosis."
+      }
+    ],
+    "explanation": "This patient presents with severe acute-on-chronic lithium toxicity precipitated by the addition of hydrochlorothiazide. Lithium is filtered by the glomerulus and 80% is reabsorbed in the proximal convoluted tubule alongside sodium. Thiazide diuretics inhibit the Na+/Cl- cotransporter in the distal convoluted tubule, causing mild volume depletion; in response, the proximal tubule compensatory machinery ramps up sodium reabsorption, inadvertently reabsorbing massive amounts of lithium and causing toxic accumulation. (NSAIDs and ACE inhibitors/ARBs also decrease lithium clearance). Toxicity progresses from gastrointestinal distress to debilitating neurological toxicity: coarse tremors, dysarthria, cerebellar ataxia, confusion, and potential seizures or coma. Definite indications for EMERGENCY HEMODIALYSIS include: (1) Serum lithium concentration > 4.0 mEq/L regardless of clinical status; (2) Serum lithium concentration > 2.5 mEq/L in the presence of severe neurological symptoms (ataxia, confusion, seizures), acute renal impairment, or hemodynamic instability; or (3) Inability to tolerate fluid resuscitation (heart failure). Because her lithium level is 4.4 mEq/L and she has acute kidney injury with encephalopathy, hemodialysis is mandatory. Manage Lithium Toxicity: Narrow therapeutic window (0.6-1.2 mEq/L). - PRECIPITATING TRIGGERS: Dehydration, low-sodium diet, or medications that decrease renal clearance: THIAZIDE DIURETICS (highest risk: induces proximal tubular reabsorption of Na+ and Li+), NSAIDs, ACE inhibitors/ARBs. - CLINICAL STAGES: Mild (nausea, vomiting, diarrhea, fine tremor); Moderate (confusion, lethargy, COARSE TREMOR, dysarthria, ataxia); Severe (seizures, stupor, coma, non-convulsive status, arrhythmias). - TREATMENT: 1. Discontinue lithium + aggressive IV isotonic saline (promotes renal excretion); 2. HEMODIALYSIS INDICATIONS: Serum lithium > 4.0 mEq/L regardless of symptoms, OR serum lithium > 2.5 mEq/L with severe neurologic symptoms (seizures, coma) or renal failure.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Lithium Toxicity Manifestations and Hemodialysis Thresholds.",
+    "keyPoints": [
+      "Lithium Toxicity Manifestations and Hemodialysis Thresholds",
+      "Manage Lithium Toxicity: Narrow therapeutic window (0.6-1.2 mEq/L). - PRECIPITATING TRIGGERS: Dehydration, low-sodium diet, or medications that decrease renal clearance: THIAZIDE D"
+    ],
+    "references": [
+      {
+        "label": "Baird-Gunning J, et al. Lithium Poisoning. J Intensive Care Med. 2017;32(4):249-263. PMID: 27516079.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27516079/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0170",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Alcohol Withdrawal Delirium (Delirium Tremens) Protocol",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old man is admitted to the orthopedic surgical floor following an open reduction and internal fixation of a fractured femur sustained in a motor vehicle collision 3 days ago. On postoperative day 3, the patient becomes severely agitated, belligerent, and disoriented, screaming that spiders and insects are crawling across his ceiling and hospital bed. Physical examination reveals an extremely agitated, diaphoretic man drenched in sweat. His temperature is 38.8°C (101.8°F), blood pressure is 184/108 mm Hg, heart rate is 132/min, and respirations are 24/min. Physical examination demonstrates marked gross resting tremors of both outstretched hands. Neurological examination reveals that he is disoriented to person, place, and date, unable to follow commands, and picking frantically at his bed linens. Cardiopulmonary examination reveals sinus tachycardia without murmurs or lung crackles. Surgical wound examination reveals a clean, dry, well-approximated incision without erythema or drainage. Laboratory evaluation shows: white blood cell count 8,200/mm³, AST 142 U/L, ALT 68 U/L (AST:ALT ratio > 2:1), and total bilirubin 1.4 mg/dL. Which of the following is the most appropriate pharmacologic therapy to control this patient's condition and reduce mortality?",
+    "options": [
+      {
+        "text": "Intramuscular haloperidol monotherapy every 4 hours until agitation resolves",
+        "correct": false,
+        "explanation": "Antipsychotics like haloperidol lower the seizure threshold, predisposing to status epilepticus, and fail to prevent the deadly autonomic complications of alcohol withdrawal; they should never be used as monotherapy."
+      },
+      {
+        "text": "Continuous intravenous propofol infusion without benzodiazepine therapy",
+        "correct": false,
+        "explanation": "Propofol is reserved for refractory delirium tremens in an intubated ICU patient after massive doses of benzodiazepines have failed; IV benzodiazepines are the first-line treatment."
+      },
+      {
+        "text": "Intravenous broad-spectrum vancomycin and cefepime for presumed postoperative wound sepsis",
+        "correct": false,
+        "explanation": "The surgical wound is clean, WBC count is normal, and the clinical picture (onset on post-op day 3, tremors, hallucinations, AST:ALT > 2) is pathognomonic for delirium tremens."
+      },
+      {
+        "text": "Oral chlordiazepoxide administration with physical wrist restraints",
+        "correct": false,
+        "explanation": "Chlordiazepoxide is an oral long-acting agent with active oxidative hepatic metabolites; in an agitated, uncooperative surgical patient with liver injury, intravenous lorazepam is the appropriate route."
+      },
+      {
+        "text": "Escalating doses of intravenous lorazepam administered according to a symptom-triggered protocol",
+        "correct": true,
+        "explanation": "This patient presents with classic DELIRIUM TREMENS (DTs), the most severe, life-threatening manifestation of alcohol withdrawal. DTs typically occurs 48 to 96 hours after the cessation or reduction of heavy, chronic alcohol consumption. It is characterized by acute delirium (fluctuating disorientation, agitation, perceptual hallucinations) and profound autonomic hyperactivity (hyperthermia, tachycardia, marked hypertension, and drenching diaphoresis). Mortality in untreated DTs approaches 15% to 20% due to hyperthermia, arrhythmias, dehydration, or seizures. The cornerstone of therapy and gold standard to reduce mortality is INTRAVENOUS BENZODIAZEPINES. Benzodiazepines act as positive allosteric modulators at GABAA receptors, substituting for alcohol-induced neuroinhibition and blunting central noradrenergic and glutamatergic rebound storm. A symptom-triggered protocol guided by validated scales (such as the CIWA-Ar) utilizing intravenous LORAZEPAM or DIAZEPAM is preferred. Lorazepam (or oxazepam) is specifically preferred in patients with underlying hepatic dysfunction (evidenced here by AST:ALT > 2) because it undergoes simple Phase II glucuronidation and does not rely on hepatic microsomal oxidation."
+      }
+    ],
+    "explanation": "This patient presents with classic DELIRIUM TREMENS (DTs), the most severe, life-threatening manifestation of alcohol withdrawal. DTs typically occurs 48 to 96 hours after the cessation or reduction of heavy, chronic alcohol consumption. It is characterized by acute delirium (fluctuating disorientation, agitation, perceptual hallucinations) and profound autonomic hyperactivity (hyperthermia, tachycardia, marked hypertension, and drenching diaphoresis). Mortality in untreated DTs approaches 15% to 20% due to hyperthermia, arrhythmias, dehydration, or seizures. The cornerstone of therapy and gold standard to reduce mortality is INTRAVENOUS BENZODIAZEPINES. Benzodiazepines act as positive allosteric modulators at GABAA receptors, substituting for alcohol-induced neuroinhibition and blunting central noradrenergic and glutamatergic rebound storm. A symptom-triggered protocol guided by validated scales (such as the CIWA-Ar) utilizing intravenous LORAZEPAM or DIAZEPAM is preferred. Lorazepam (or oxazepam) is specifically preferred in patients with underlying hepatic dysfunction (evidenced here by AST:ALT > 2) because it undergoes simple Phase II glucuronidation and does not rely on hepatic microsomal oxidation. Manage Alcohol Withdrawal Syndrome: - TIMELINE: 1. Mild withdrawal (6-12 hr: tremors, insomnia, anxiety, diaphoresis); 2. Withdrawal seizures (12-48 hr: generalized tonic-clonic); 3. Alcoholic hallucinosis (12-48 hr: auditory/visual hallucinations with CLEAR SENSORIUM/intact orientation); 4. DELIRIUM TREMENS (DTs, 48-96 hr: DISORIENTATION/DELIRIUM, severe autonomic hyperactivity: fever, hypertension, drenching diaphoresis, tachycardia). - GOLD STANDARD TREATMENT: INTRAVENOUS BENZODIAZEPINES (Diazepam, Chlordiazepoxide, or LORAZEPAM/OXAZEPAM in patients with advanced liver disease/cirrhosis because \"LOT\" drugs undergo direct glucuronidation without hepatic oxidation). Dose titrated via validated CIWA-Ar protocol.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Alcohol Withdrawal Delirium (Delirium Tremens) Protocol.",
+    "keyPoints": [
+      "Alcohol Withdrawal Delirium (Delirium Tremens) Protocol",
+      "Manage Alcohol Withdrawal Syndrome: - TIMELINE: 1. Mild withdrawal (6-12 hr: tremors, insomnia, anxiety, diaphoresis); 2. Withdrawal seizures (12-48 hr: generalized tonic-clonic); "
+    ],
+    "references": [
+      {
+        "label": "Schuckit MA. Recognition and management of withdrawal delirium (delirium tremens). N Engl J Med. 2014;371(22):2109-2113. PMID: 25427113.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25427113/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0171",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Cardiovascular",
+    "topic": "Monoamine Oxidase Inhibitor Hypertensive Crisis Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old woman with treatment-resistant depression is brought to the emergency department with a sudden, excruciating, pounding occipital headache, palpitations, neck stiffness, and chest tightness that began 45 minutes after attending an artisan wine and cheese tasting party. Her home medications include phenelzine, which she has been taking for 6 months with significant improvement in her depressive symptoms. On physical examination, the patient is pale, trembling, and profusely diaphoretic. Her blood pressure is 224/128 mm Hg, heart rate is 122/min, and respirations are 22/min. Physical examination reveals widely dilated pupils that are reactive to light, jugular venous distension, and cold, clammy extremities. Cardiovascular examination reveals a hyperdynamic precordium with an audible S4 gallop and no murmurs. Neurological examination demonstrates no focal weakness, but mild bilateral hand tremors are present. An electrocardiogram demonstrates sinus tachycardia with diffuse ST-segment depressions in the lateral precordial leads. Which of the following is the most appropriate immediate pharmacologic agent to reduce this patient's blood pressure?",
+    "options": [
+      {
+        "text": "Intravenous phentolamine mesylate or sodium nitroprusside",
+        "correct": true,
+        "explanation": "This patient is experiencing an acute HYPERTENSIVE CRISIS (\"cheese reaction\") resulting from an interaction between a monoamine oxidase inhibitor (MAOI, phenelzine) and dietary tyramine. Monoamine oxidase-A in the gastrointestinal mucosa and liver normally metabolizes dietary tyramine into inactive metabolites. When irreversible MAOIs block this enzymatic degradation, ingested tyramine from fermented, aged foods (such as aged cheeses, cured meats, red wine, or draft beer) enters the systemic circulation intact. Tyramine is an indirect sympathomimetic amine: it is taken up into presynaptic adrenergic terminals via the norepinephrine transporter (NET) and displaces massive stores of norepinephrine into the synaptic cleft. This produces an explosive sympathetic adrenergic storm, causing extreme peripheral vasoconstriction, malignant hypertension (BP 224/128 mm Hg), severe occipital headache, diaphoresis, and myocardial ischemia. The treatment of choice is an INTRAVENOUS ALPHA-ADRENERGIC RECEPTOR ANTAGONIST—specifically PHENTOLAMINE (a competitive non-selective alpha-1 and alpha-2 receptor blocker) or intravenous vasodilators like SODIUM NITROPRUSSIDE or labetalol. Crucially, pure beta-blockers (like propranolol) must be avoided, as uninhibited alpha-adrenergic stimulation can paradoxically worsen vasoconstriction and hypertension."
+      },
+      {
+        "text": "Intravenous metoprolol tartrate bolus monotherapy",
+        "correct": false,
+        "explanation": "Pure beta-blockers leave alpha-1 adrenergic receptors unopposed, precipitating severe paradoxical worsening of peripheral vasoconstriction and malignant hypertension."
+      },
+      {
+        "text": "Sublingual nifedipine immediate-release capsule",
+        "correct": false,
+        "explanation": "Sublingual immediate-release nifedipine causes unpredictable, precipitous drops in blood pressure and is associated with stroke and myocardial infarction."
+      },
+      {
+        "text": "Oral sumatriptan tablet for acute migraine relief",
+        "correct": false,
+        "explanation": "Sumatriptan causes coronary and cranial vasoconstriction and has serotonergic properties; giving it in this setting risks catastrophic cerebral infarction."
+      },
+      {
+        "text": "Continuous intravenous epinephrine infusion",
+        "correct": false,
+        "explanation": "Epinephrine is a potent alpha- and beta-agonist that will escalate blood pressure to lethal levels and trigger aortic dissection or intracerebral hemorrhage."
+      }
+    ],
+    "explanation": "This patient is experiencing an acute HYPERTENSIVE CRISIS (\"cheese reaction\") resulting from an interaction between a monoamine oxidase inhibitor (MAOI, phenelzine) and dietary tyramine. Monoamine oxidase-A in the gastrointestinal mucosa and liver normally metabolizes dietary tyramine into inactive metabolites. When irreversible MAOIs block this enzymatic degradation, ingested tyramine from fermented, aged foods (such as aged cheeses, cured meats, red wine, or draft beer) enters the systemic circulation intact. Tyramine is an indirect sympathomimetic amine: it is taken up into presynaptic adrenergic terminals via the norepinephrine transporter (NET) and displaces massive stores of norepinephrine into the synaptic cleft. This produces an explosive sympathetic adrenergic storm, causing extreme peripheral vasoconstriction, malignant hypertension (BP 224/128 mm Hg), severe occipital headache, diaphoresis, and myocardial ischemia. The treatment of choice is an INTRAVENOUS ALPHA-ADRENERGIC RECEPTOR ANTAGONIST—specifically PHENTOLAMINE (a competitive non-selective alpha-1 and alpha-2 receptor blocker) or intravenous vasodilators like SODIUM NITROPRUSSIDE or labetalol. Crucially, pure beta-blockers (like propranolol) must be avoided, as uninhibited alpha-adrenergic stimulation can paradoxically worsen vasoconstriction and hypertension. Manage MAOI-Tyramine Hypertensive Crisis: Patient on MONOAMINE OXIDASE INHIBITOR (phenelzine, tranylcypromine, isocarboxazid, or selegiline) ingests TYRAMINE-RICH FOODS (aged cheeses, cured meats, draft beer, red wine, fava beans, fermented soy). Mechanism: MAO-A in GI tract normally breaks down dietary tyramine. Unmetabolized tyramine enters systemic circulation, gets taken up into sympathetic presynaptic terminals, and forces massive release of NOREPINEPHRINE. Manifestations: Severe occipital headache, profuse sweating, dilated pupils, and MALIGNANT HYPERTENSION (BP > 180/120 mm Hg) risking stroke or aortic dissection. TREATMENT: INTRAVENOUS PHENTOLAMINE (non-selective alpha-1 and alpha-2 adrenergic blocker) or NITROPRUSSIDE.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Monoamine Oxidase Inhibitor Hypertensive Crisis Management.",
+    "keyPoints": [
+      "Monoamine Oxidase Inhibitor Hypertensive Crisis Management",
+      "Manage MAOI-Tyramine Hypertensive Crisis: Patient on MONOAMINE OXIDASE INHIBITOR (phenelzine, tranylcypromine, isocarboxazid, or selegiline) ingests TYRAMINE-RICH FOODS (aged chees"
+    ],
+    "references": [
+      {
+        "label": "Gillman PK. A review of monoamine oxidase inhibitor induced hypertension and the potential role of tyramine. J Neural Transm (Vienna). 2018;125(11):1707-1717. PMID: 30128766.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30128766/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0172",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Hematology",
+    "topic": "Clozapine-Induced Agranulocytosis Monitoring and Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 36-year-old man with refractory schizophrenia has been treated with oral clozapine for the past 14 weeks after failing trials of olanzapine and risperidone. His auditory hallucinations have resolved, and he has reintegrated well with his family. Today, he presents to the outpatient clinic for his routine scheduled laboratory monitoring. He reports feeling mildly fatigued and notes a sore throat and low-grade chills that began yesterday. On physical examination, his temperature is 38.4°C (101.1°F), blood pressure is 118/76 mm Hg, heart rate is 98/min, and respirations are 16/min. Examination of the oropharynx reveals mild erythema and tonsillar pillar injection without purulent exudates; there is no cervical lymphadenopathy. Cardiovascular and pulmonary examinations are unremarkable. Complete blood count demonstrates: hemoglobin 13.8 g/dL, platelet count 240,000/mm³, and white blood cell count 1,200/mm³ with 18% segmented neutrophils and 2% bands (calculated absolute neutrophil count [ANC] 240/mm³). Baseline ANC prior to clozapine initiation was 4,200/mm³. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Reduce the clozapine dose by 50% and repeat the complete blood count in 48 hours",
+        "correct": false,
+        "explanation": "Dose reduction is completely inadequate; continuing clozapine in the setting of ANC 240/mm³ leads to fulminant septic shock and death."
+      },
+      {
+        "text": "Immediately and permanently discontinue clozapine, admit to the hospital for reverse isolation, and initiate empiric broad-spectrum antibiotic coverage",
+        "correct": true,
+        "explanation": "This patient presents with clozapine-induced agranulocytosis complicated by neutropenic fever (sore throat, fever 38.4°C, and ANC 240/mm³). Clozapine is the most effective antipsychotic for treatment-resistant schizophrenia and suicidal behavior, but its clinical utility is constrained by a ~1% risk of potentially fatal idiosyncratic agranulocytosis (typically peaking during the first 3 to 6 months of treatment). Strict regulatory registries mandate baseline and serial ANC monitoring: weekly for the first 6 months, every 2 weeks for months 6 to 12, and monthly thereafter. When severe neutropenia occurs (ANC < 1,000/mm³, and particularly agranulocytosis with ANC < 500/mm³), the standard of care dictates: (1) IMMEDIATE AND PERMANENT DISCONTINUATION OF CLOZAPINE; (2) Immediate inpatient hospital admission with protective reverse isolation precautions; (3) Urgent infectious workup (blood and urine cultures) and initiation of empiric broad-spectrum antipseudomonal antibiotics (e.g., cefepime); and (4) Consideration of granulocyte colony-stimulating factor (G-CSF/filgrastim). Because of high recurrence and mortality, patients who develop clozapine agranulocytosis must NEVER BE RECHALLENGED with clozapine in the future."
+      },
+      {
+        "text": "Prescribe oral amoxicillin-clavulanate outpatient therapy and continue clozapine at the current dose",
+        "correct": false,
+        "explanation": "Outpatient oral antibiotics are contraindicated for neutropenic fever with agranulocytosis; inpatient hospitalization and immediate drug cessation are required."
+      },
+      {
+        "text": "Switch clozapine to high-dose carbamazepine to manage both psychosis and mood stability",
+        "correct": false,
+        "explanation": "Carbamazepine also causes bone marrow suppression and aplastic anemia, which is synergistic with clozapine toxicity and strictly contraindicated."
+      },
+      {
+        "text": "Administer intramuscular benztropine and continue close observation in the clinic",
+        "correct": false,
+        "explanation": "Benztropine treats extrapyramidal symptoms; it has zero efficacy in reversing life-threatening clozapine-induced neutrophil depletion."
+      }
+    ],
+    "explanation": "This patient presents with clozapine-induced agranulocytosis complicated by neutropenic fever (sore throat, fever 38.4°C, and ANC 240/mm³). Clozapine is the most effective antipsychotic for treatment-resistant schizophrenia and suicidal behavior, but its clinical utility is constrained by a ~1% risk of potentially fatal idiosyncratic agranulocytosis (typically peaking during the first 3 to 6 months of treatment). Strict regulatory registries mandate baseline and serial ANC monitoring: weekly for the first 6 months, every 2 weeks for months 6 to 12, and monthly thereafter. When severe neutropenia occurs (ANC < 1,000/mm³, and particularly agranulocytosis with ANC < 500/mm³), the standard of care dictates: (1) IMMEDIATE AND PERMANENT DISCONTINUATION OF CLOZAPINE; (2) Immediate inpatient hospital admission with protective reverse isolation precautions; (3) Urgent infectious workup (blood and urine cultures) and initiation of empiric broad-spectrum antipseudomonal antibiotics (e.g., cefepime); and (4) Consideration of granulocyte colony-stimulating factor (G-CSF/filgrastim). Because of high recurrence and mortality, patients who develop clozapine agranulocytosis must NEVER BE RECHALLENGED with clozapine in the future. Manage Clozapine-Induced Agranulocytosis: Clozapine is an atypical antipsychotic indicated for treatment-resistant schizophrenia and reducing suicide risk. SEVERE ADVERSE EFFECT: AGRANULOCYTOSIS (occurs in ~1% of patients, highest in first 6 months). MANDATORY MONITORING: Absolute Neutrophil Count (ANC) weekly for 6 months, every 2 weeks for 6 months, then monthly. CRITICAL ANC ACTION THRESHOLDS: 1. Normal ANC >= 1500/mm³: Continue clozapine; 2. Mild neutropenia (ANC 1000-1499): Continue therapy, monitor ANC 3x/week; 3. SEVERE NEUTROPENIA / AGRANULOCYTOSIS (ANC < 1000, and specifically < 500/mm³): IMMEDIATELY AND PERMANENTLY DISCONTINUE CLOZAPINE. Admit, obtain infectious workup, and NEVER rechallenge.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Clozapine-Induced Agranulocytosis Monitoring and Management.",
+    "keyPoints": [
+      "Clozapine-Induced Agranulocytosis Monitoring and Management",
+      "Manage Clozapine-Induced Agranulocytosis: Clozapine is an atypical antipsychotic indicated for treatment-resistant schizophrenia and reducing suicide risk. SEVERE ADVERSE EFFECT: A"
+    ],
+    "references": [
+      {
+        "label": "Sultan RS, et al. Clozapine-Induced Agranulocytosis: A Review of the Mechanisms and Management. Ment Health Clin. 2017;7(3):104-109. PMID: 29955507.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29955507/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0173",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Acute Catatonia Diagnosis and Lorazepam Challenge",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old woman with a history of bipolar I disorder is brought to the psychiatric emergency service by her parents because of a profound, sudden change in behavior over the past 48 hours. Her parents report that she stopped speaking, refused all food and water, and has remained motionless in her bedroom. On physical examination, the patient is awake with her eyes open, staring blankly ahead into space. She does not speak or respond to verbal questions (mutism) and makes no spontaneous movements. When the examiner elevates her right arm above her head, she maintains this unnatural, awkward posture indefinitely against gravity without fatigue (catalepsy). When the examiner attempts to passively bend her elbow, there is smooth, plastic resistance reminiscent of bending a candle (waxy flexibility). When instructed to open her mouth, she clamps her teeth shut tighter (negativism). Her vital signs are: temperature 37.1°C (98.8°F), blood pressure 114/72 mm Hg, heart rate 78/min, and respirations 16/min. Comprehensive laboratory workup, urine drug screen, and non-contrast head CT scan are all completely normal. Which of the following is the most appropriate initial diagnostic and therapeutic intervention for this patient?",
+    "options": [
+      {
+        "text": "Administer intramuscular haloperidol to manage severe psychotic immobility",
+        "correct": false,
+        "explanation": "Antipsychotics such as haloperidol are strictly contraindicated in acute catatonia because dopamine D2 blockade markedly worsens catatonic symptoms and precipitates fatal malignant catatonia or NMS."
+      },
+      {
+        "text": "Immediate involuntary civil commitment for stereotactic cingulotomy",
+        "correct": false,
+        "explanation": "Psychosurgical procedures are historical or reserved for extreme refractory OCD; catatonia responds rapidly to medical therapy with lorazepam or ECT."
+      },
+      {
+        "text": "Administer an intravenous lorazepam challenge test",
+        "correct": true,
+        "explanation": "This patient presents with acute CATATONIA complicating bipolar disorder. Catatonia is a severe psychomotor syndrome characterized by a cluster of motor, behavioral, and vocal abnormalities. Classic clinical signs include: (1) Mutism (minimal or absent verbal response); (2) Stupor (unresponsiveness to external stimuli); (3) Catalepsy (passive induction of a posture held against gravity); (4) Waxy flexibility (initial slight resistance followed by yielding to passive repositioning); and (5) Negativism (active resistance to instructions or movement). The gold-standard diagnostic and initial therapeutic intervention is the INTRAVENOUS LORAZEPAM CHALLENGE TEST. Administering 1 to 2 mg of IV lorazepam typically produces dramatic, rapid resolution or significant improvement of catatonic signs within 10 to 15 minutes, conclusively confirming the diagnosis. If positive, the patient is started on scheduled standing lorazepam (often requiring high daily doses, 6 to 16 mg/day). If catatonia is refractory to benzodiazepines, or if malignant catatonia develops (autonomic instability, hyperthermia), ELECTROCONVULSIVE THERAPY (ECT) is the definitive, life-saving treatment of choice. CRITICAL WARNING: Antipsychotic medications must be strictly avoided, as they exacerbate catatonia and trigger neuroleptic malignant syndrome."
+      },
+      {
+        "text": "Initiate oral lithium carbonate titration with daily therapeutic serum levels",
+        "correct": false,
+        "explanation": "Lithium is a maintenance mood stabilizer that takes 1 to 2 weeks to titrate; it does not treat acute catatonic mutism or dehydration."
+      },
+      {
+        "text": "Perform an emergency diagnostic lumbar puncture to rule out viral encephalitis",
+        "correct": false,
+        "explanation": "With a normal head CT, normal vital signs, absent fever, and classic waxy flexibility and catalepsy, lorazepam challenge is the immediate priority."
+      }
+    ],
+    "explanation": "This patient presents with acute CATATONIA complicating bipolar disorder. Catatonia is a severe psychomotor syndrome characterized by a cluster of motor, behavioral, and vocal abnormalities. Classic clinical signs include: (1) Mutism (minimal or absent verbal response); (2) Stupor (unresponsiveness to external stimuli); (3) Catalepsy (passive induction of a posture held against gravity); (4) Waxy flexibility (initial slight resistance followed by yielding to passive repositioning); and (5) Negativism (active resistance to instructions or movement). The gold-standard diagnostic and initial therapeutic intervention is the INTRAVENOUS LORAZEPAM CHALLENGE TEST. Administering 1 to 2 mg of IV lorazepam typically produces dramatic, rapid resolution or significant improvement of catatonic signs within 10 to 15 minutes, conclusively confirming the diagnosis. If positive, the patient is started on scheduled standing lorazepam (often requiring high daily doses, 6 to 16 mg/day). If catatonia is refractory to benzodiazepines, or if malignant catatonia develops (autonomic instability, hyperthermia), ELECTROCONVULSIVE THERAPY (ECT) is the definitive, life-saving treatment of choice. CRITICAL WARNING: Antipsychotic medications must be strictly avoided, as they exacerbate catatonia and trigger neuroleptic malignant syndrome. Manage Acute Catatonia: Neuropsychiatric syndrome occurring in mood disorders (bipolar, major depression) or psychotic disorders. - CLINICAL SIGNS (Bush-Francis Catatonia Rating Scale): MUTISM, STUPOR, CATALEPSY (passive induction of a posture held against gravity), WAXY FLEXIBILITY (slight resistance to repositioning like bending a candle), NEGATIVISM (active resistance to instructions), ECHOLALIA, ECHOPRAXIA. - DIAGNOSTIC & INITIAL THERAPY: LORAZEPAM CHALLENGE TEST (1-2 mg IV lorazepam produces marked temporary relief of catatonic signs within 10-15 minutes, confirming diagnosis). - DEFINITIVE TREATMENT: Scheduled high-dose LORAZEPAM; if refractory or malignant catatonia (fever, autonomic instability): ELECTROCONVULSIVE THERAPY (ECT). AVOID ANTIPSYCHOTICS (worsens catatonia and precipitates NMS).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Catatonia Diagnosis and Lorazepam Challenge.",
+    "keyPoints": [
+      "Acute Catatonia Diagnosis and Lorazepam Challenge",
+      "Manage Acute Catatonia: Neuropsychiatric syndrome occurring in mood disorders (bipolar, major depression) or psychotic disorders. - CLINICAL SIGNS (Bush-Francis Catatonia Rating Sc"
+    ],
+    "references": [
+      {
+        "label": "Walsh K, et al. Catatonia: An Update for the Clinician. Psychiatr Clin North Am. 2018;41(3):477-488. PMID: 30098658.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30098658/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0174",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Acute Severe Agitation in the Emergency Department",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 28-year-old man is brought to the emergency department by police after being found yelling incoherently, smashing shop windows, and threatening bystanders with a broken glass bottle. In the triage area, the patient is pacing frantically, screaming profanities, and claiming that government agents are trying to steal his organs. The emergency physician and nursing staff attempt verbal de-escalation in a calm, quiet room from a safe distance, but the patient becomes increasingly combative. He suddenly picks up a metal intravenous pole, brandishes it as a weapon, and advances aggressively toward a nurse, shouting that he will kill anyone who approaches him. Hospital security officers physically restrain the patient to the floor to prevent immediate physical harm to staff. Which of the following is the most appropriate immediate pharmacologic intervention for this patient?",
+    "options": [
+      {
+        "text": "Simultaneous intramuscular administration of olanzapine and intramuscular lorazepam",
+        "correct": false,
+        "explanation": "Co-administering intramuscular olanzapine and an intramuscular benzodiazepine carries an FDA black-box warning for severe synergistic cardiorespiratory depression, profound hypotension, and death."
+      },
+      {
+        "text": "Prescription of oral liquid risperidone and request that the patient swallow it voluntarily",
+        "correct": false,
+        "explanation": "Oral medications are appropriate for cooperative patients; offering oral tablets to an actively combative, violent patient brandishing a weapon is impossible and unsafe."
+      },
+      {
+        "text": "Subcutaneous injection of regular insulin and dextrose to calm adrenergic hyperactivity",
+        "correct": false,
+        "explanation": "Administering insulin to an agitated patient without documented diabetic ketoacidosis causes life-threatening hypoglycemia and brain injury."
+      },
+      {
+        "text": "Intramuscular administration of haloperidol combined with intramuscular lorazepam",
+        "correct": true,
+        "explanation": "This patient presents with acute, severe, violent agitation with active assaultive behavior that poses an immediate, life-threatening danger to himself and medical staff. While the initial preferred approach to any agitated patient is verbal de-escalation in a safe, non-threatening environment, verbal de-escalation has completely failed. When a patient demonstrates active physical violence or weapon brandishing, immediate rapid chemical sedation is necessary to prevent severe injury. The most widely established, effective, and safe rapid-acting parenteral regimen is the combination of an INTRAMUSCULAR HIGH-POTENCY FIRST-GENERATION ANTIPSYCHOTIC (haloperidol 5 mg) AND AN INTRAMUSCULAR BENZODIAZEPINE (lorazepam 2 mg)—frequently referred to as the \"5 and 2\" combination. Haloperidol blocks D2 receptors to control psychosis and agitation, while lorazepam enhances GABAA transmission to produce rapid sedation, reduce muscle tension, and significantly lower the incidence of extrapyramidal symptoms (acute dystonia) caused by haloperidol. (Second-generation IM antipsychotics like olanzapine or ziprasidone are acceptable alternatives, but IM olanzapine must NEVER be combined simultaneously with IM benzodiazepines due to excessive risks of fatal respiratory arrest)."
+      },
+      {
+        "text": "Application of four-point physical leather restraints alone without any pharmacologic sedation",
+        "correct": false,
+        "explanation": "Physical restraints without chemical sedation are dangerous, leading to intense physical struggling, severe rhabdomyolysis, metabolic acidosis, hyperthermia, and sudden cardiac death."
+      }
+    ],
+    "explanation": "This patient presents with acute, severe, violent agitation with active assaultive behavior that poses an immediate, life-threatening danger to himself and medical staff. While the initial preferred approach to any agitated patient is verbal de-escalation in a safe, non-threatening environment, verbal de-escalation has completely failed. When a patient demonstrates active physical violence or weapon brandishing, immediate rapid chemical sedation is necessary to prevent severe injury. The most widely established, effective, and safe rapid-acting parenteral regimen is the combination of an INTRAMUSCULAR HIGH-POTENCY FIRST-GENERATION ANTIPSYCHOTIC (haloperidol 5 mg) AND AN INTRAMUSCULAR BENZODIAZEPINE (lorazepam 2 mg)—frequently referred to as the \"5 and 2\" combination. Haloperidol blocks D2 receptors to control psychosis and agitation, while lorazepam enhances GABAA transmission to produce rapid sedation, reduce muscle tension, and significantly lower the incidence of extrapyramidal symptoms (acute dystonia) caused by haloperidol. (Second-generation IM antipsychotics like olanzapine or ziprasidone are acceptable alternatives, but IM olanzapine must NEVER be combined simultaneously with IM benzodiazepines due to excessive risks of fatal respiratory arrest). Manage Acute Severe Agitation and Violent Behavior: Sequence of escalation: 1. Environmental de-escalation (calm verbal engagement, offering oral medication); 2. If verbal de-escalation FAILS and patient poses an IMMEDIATE PHYSICAL THREAT to self or medical staff: RAPID CHEMICAL RESTRAINT. - FIRST-LINE PARENTERAL REGIMEN: INTRAMUSCULAR FIRST-GENERATION ANTIPSYCHOTIC (HALOPERIDOL 5 mg) PLUS INTRAMUSCULAR BENZODIAZEPINE (LORAZEPAM 2 mg) - the classic \"5 and 2\" combo. (Alternatively: IM Olanzapine or Ziprasidone; DO NOT CO-ADMINISTER IM OLANZAPINE WITH IM BENZODIAZEPINE due to fatal respiratory depression and hypotension).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Severe Agitation in the Emergency Department.",
+    "keyPoints": [
+      "Acute Severe Agitation in the Emergency Department",
+      "Manage Acute Severe Agitation and Violent Behavior: Sequence of escalation: 1. Environmental de-escalation (calm verbal engagement, offering oral medication); 2. If verbal de-escal"
+    ],
+    "references": [
+      {
+        "label": "Richmond JS, et al. Verbal De-escalation of the Agitated Patient: Consensus Statement of the American Association for Emergency Psychiatry Project BETA De-escalation Workgroup. West J Emerg Med. 2012;13(1):17-25. PMID: 22461917.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22461917/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0175",
+    "exam": "Step 2 CK",
+    "subject": "Geriatrics",
+    "system": "Nervous System",
+    "topic": "Delirium vs Dementia Differentiation and Non-Pharmacologic Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "An 81-year-old woman is admitted to the medical ward for treatment of a non-severe community-acquired pneumonia with intravenous ceftriaxone. She has a baseline history of mild vascular dementia for which she lives with her daughter and is fully capable of eating, dressing, and recognizing family members. On her second hospital night, she becomes suddenly agitated, attempts to climb out of bed, and pulls out her peripheral intravenous catheter, screaming that strangers are trying to poison her. On physical examination the following morning, the patient is drowsy and slow to respond. When the physician attempts to engage her, she falls asleep mid-sentence, drifts off topic, and is unable to name the days of the week in reverse order or count backward from 20. Two hours later during afternoon rounds, she is wide awake, hypervigilant, and crying hysterically. Her temperature is 37.8°C (100.0°F), blood pressure is 138/80 mm Hg, heart rate is 88/min, and oxygen saturation is 95% on 2 L/min nasal cannula. Auscultation reveals resolving right lower lobe crackles. A urinary catheter is placed and drains 850 mL of cloudy urine. Complete blood count shows white blood cell count 11,200/mm³, and urinalysis demonstrates 3+ leukocyte esterase, positive nitrites, and > 50 WBCs per high-power field. Which of the following is the most appropriate management approach for this patient's acute neurocognitive change?",
+    "options": [
+      {
+        "text": "Administer scheduled intravenous lorazepam every 6 hours to manage nighttime agitation",
+        "correct": false,
+        "explanation": "Benzodiazepines paradoxically worsen delirium in elderly patients, increase fall risk, and lengthen ICU and hospital stay; they are contraindicated unless delirium is from alcohol withdrawal."
+      },
+      {
+        "text": "Reassure the family that this acute deterioration represents the expected natural progression of vascular dementia",
+        "correct": false,
+        "explanation": "Vascular dementia progresses slowly in a stepwise fashion; acute dramatic day-to-night cognitive fluctuations with inattention indicate acute reversible delirium."
+      },
+      {
+        "text": "Initiate high-dose oral donepezil and memantine to improve acute cholinergic transmission",
+        "correct": false,
+        "explanation": "Cholinesterase inhibitors do not treat or reverse acute delirium and can cause bradycardia, syncope, and gastrointestinal adverse effects."
+      },
+      {
+        "text": "Place the patient in continuous four-point wrist and ankle restraints to prevent catheter dislodgement",
+        "correct": false,
+        "explanation": "Physical restraints increase agitation, delirium severity, strangulation risk, pressure ulcers, and aspiration; they should be avoided."
+      },
+      {
+        "text": "Treat the underlying urinary tract infection, implement non-pharmacologic delirium interventions, and avoid benzodiazepines",
+        "correct": true,
+        "explanation": "This elderly patient has developed ACUTE DELIRIUM superimposed on pre-existing mild dementia. Delirium is an acute, fluctuating disturbance in attention, awareness, and cognition that is triggered by an underlying medical condition, infection, or medication. Key features that differentiate delirium from underlying dementia include: (1) Acute onset over hours to days (versus insidious progression over months to years in dementia); (2) Fluctuating course throughout the day (drowsy and inattentive in the morning, hypervigilant and agitated in the afternoon); and (3) Prominent impairment in ATTENTION (inability to recite months or days backward or sustain focus), whereas attention is typically preserved in early-to-moderate dementia. The acute delirium here was precipitated by a combination of hospitalization, acute pneumonia, and a new acute urinary tract infection with urinary retention (draining 850 mL). The cornerstone of delirium management is: (1) Promptly identifying and treating underlying medical triggers (adjusting antibiotics for UTI and relieving urinary retention); and (2) Implementing non-pharmacologic multi-component delirium interventions (reorientation, providing hearing aids and eyeglasses, maintaining day-night circadian light cycles, encouraging early mobility, and involving family members). Crucially, BENZODIAZEPINES SHOULD BE STRICTLY AVOIDED because they paradoxically worsen confusion, increase fall risk, and prolong delirium duration (they are indicated only for delirium caused by alcohol or sedative withdrawal)."
+      }
+    ],
+    "explanation": "This elderly patient has developed ACUTE DELIRIUM superimposed on pre-existing mild dementia. Delirium is an acute, fluctuating disturbance in attention, awareness, and cognition that is triggered by an underlying medical condition, infection, or medication. Key features that differentiate delirium from underlying dementia include: (1) Acute onset over hours to days (versus insidious progression over months to years in dementia); (2) Fluctuating course throughout the day (drowsy and inattentive in the morning, hypervigilant and agitated in the afternoon); and (3) Prominent impairment in ATTENTION (inability to recite months or days backward or sustain focus), whereas attention is typically preserved in early-to-moderate dementia. The acute delirium here was precipitated by a combination of hospitalization, acute pneumonia, and a new acute urinary tract infection with urinary retention (draining 850 mL). The cornerstone of delirium management is: (1) Promptly identifying and treating underlying medical triggers (adjusting antibiotics for UTI and relieving urinary retention); and (2) Implementing non-pharmacologic multi-component delirium interventions (reorientation, providing hearing aids and eyeglasses, maintaining day-night circadian light cycles, encouraging early mobility, and involving family members). Crucially, BENZODIAZEPINES SHOULD BE STRICTLY AVOIDED because they paradoxically worsen confusion, increase fall risk, and prolong delirium duration (they are indicated only for delirium caused by alcohol or sedative withdrawal). Differentiate Delirium from Dementia: - DELIRIUM: ACUTE onset (hours to days), FLUCTUATING course, impaired ATTENTION / AWARENESS (cannot spell \"WORLD\" backward or name months in reverse), altered level of consciousness, visual hallucinations; reversible once underlying medical cause (infection/UTI, electrolyte abnormality, medication change, hypoxia, urinary retention) is treated. - DEMENTIA: Insidious onset (months to years), progressive decline, stable attention in early stages, clear consciousness. - MANAGEMENT OF DELIRIUM: 1. Identify and treat underlying medical trigger; 2. NON-PHARMACOLOGIC PROTOCOLS (reorientation, day-night lighting, frequent mobilization, family presence, sensory aids like glasses/hearing aids); 3. AVOID BENZODIAZEPINES (paradoxically worsens delirium and prolongs hospitalization; only indicated if alcohol/sedative withdrawal).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Delirium vs Dementia Differentiation and Non-Pharmacologic Management.",
+    "keyPoints": [
+      "Delirium vs Dementia Differentiation and Non-Pharmacologic Management",
+      "Differentiate Delirium from Dementia: - DELIRIUM: ACUTE onset (hours to days), FLUCTUATING course, impaired ATTENTION / AWARENESS (cannot spell \"WORLD\" backward or name months in r"
+    ],
+    "references": [
+      {
+        "label": "Inouye SK, et al. Delirium in elderly people. Lancet. 2014;383(9920):911-922. PMID: 23992774.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23992774/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

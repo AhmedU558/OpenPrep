@@ -1,5 +1,16 @@
 # Question bank progress — 2026-10-29
 
+## Production practice import — 10 November 2026
+
+Production now contains **4,028 stored and practice-available questions**. This run imported **3,000 new retained candidates**, exactly 1,000 each for Step 1, Step 2 CK and Step 3, through the create-only importer in 31 sequential transactions (10-question pilot, 90-question continuation, then 29 batches of 100). All 3,000 passed full PostgreSQL content read-back, immutable-snapshot hash checks and version-bound owner test-permission checks. A pilot rerun skipped its 10 existing records and preserved their stored-content/option-ID digest.
+
+Import counts: **3,000 imported; 0 updated; 0 rejected; 0 quarantined during import; 3,000 newly available; 4,028 total available**. The 24 rejected and 13 unresolved manifest-only drafts are outside the retained input and were not inserted. Original 1,028 question payloads and 4,144 option records retain their exact baseline digest. The importer performs no learner/account/session/attempt/bookmark/note writes.
+
+Availability is based on the owner's explicit authorization for unreviewed learner practice, recorded separately from qualified review. All AI-authored/medically-unreviewed labels remain; **zero qualified clinical reviews were fabricated or recorded**. 1271 items remain in the semantic review queue; source support, answer-key ambiguity and difficulty calibration still require qualified work. See the [actual batch report](imports/2026-11-10-production-test-import.json), [content-quality report](question-bank-production-quality.md) and [owner test-release model](owner-authorized-test-release.md).
+
+The sections below are historical local milestones and retain their original dates/counts.
+
+
 ## 1,000-question expansion: completed local milestone
 
 The existing PostgreSQL database grew from **232 to 1,028 stored questions**. **1,017 are available in the question browser and practice engine**; 11 stored expansion versions are in REVIEW. The original 232 questions/options and 15 tracked account/study tables have unchanged SHA-256 preservation digests.

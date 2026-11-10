@@ -1,0 +1,929 @@
+import { CandidateSpec } from './types';
+
+export const step1Batch4: CandidateSpec[] = [
+  {
+    code: 'op-c-s1-0076',
+    exam: 'Step 1',
+    subject: 'Genetics',
+    system: 'Nervous System',
+    topic: 'Patau Syndrome Holoprosencephaly and Prechordal Mesoderm Defect',
+    subtopic: 'Trisomy 13 Craniofacial and Central Nervous System Embryopathy',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Recognize Trisomy 13 (Patau syndrome): holoprosencephaly (incomplete forebrain cleavage), microcephaly, microphthalmia/anophthalmia, cleft lip/palate, postaxial polydactyly, cutis aplasia (scalp skin defects), and congenital heart disease. Caused by defective development of prechordal mesoderm.',
+    citation: 'Patau K, et al. Multiple congenital anomaly caused by an extra autosome. Lancet. 1960;1(7128):790-793. PMID: 14430807.',
+    stem:
+      'A female infant born at 38 weeks gestation to a 41-year-old primigravida dies 3 hours after birth due to intractable central apnea. Physical examination of the deceased neonate reveals severe microcephaly with a sloping forehead, hypotelorism, a single fused central nostril (proboscis) positioned above fused orbital fissures with microphthalmia, and a bilateral midline cleft lip and palate. The scalp vertex demonstrates a punched-out, oval, 1.5-cm sharply circumscribed defect lacking epidermis and dermis (cutis aplasia). Both hands and feet display postaxial polydactyly. Autopsy reveals a monoventricular cerebrum with failure of the forebrain to bifurcate into two distinct cerebral hemispheres (alobar holoprosencephaly), along with a ventricular septal defect and persistent truncus arteriosus. Cytogenetic analysis demonstrates a 47,XX,+13 karyotype. Which of the following embryological processes is primarily defective in this infant?',
+    options: [
+      {
+        text: 'Development and signaling of the prechordal mesoderm coordinating forebrain ventral induction',
+        explanation: 'Patau syndrome (Trisomy 13) classically presents with severe midline craniofacial and forebrain abnormalities, including holoprosencephaly (incomplete cleavage of the prosencephalon), microphthalmia, cleft lip/palate, cutis aplasia, and postaxial polydactyly. The underlying embryological mechanism is defective development and ventral induction of the prechordal mesoderm during early gastrulation (weeks 3–4), which disrupts Sonic hedgehog (SHH) signaling required for midline separation of the cerebral hemispheres and facial primordia.'
+      },
+      {
+        text: 'Neural crest cell migration into the third and fourth pharyngeal pouches',
+        explanation: 'Impaired neural crest cell migration into the 3rd and 4th pharyngeal pouches causes 22q11.2 deletion syndrome (DiGeorge syndrome), characterized by thymic hypoplasia, hypoparathyroidism, and conotruncal cardiac malformations, without holoprosencephaly or cutis aplasia.'
+      },
+      {
+        text: 'Premature craniosynostosis of the sagittal and coronal cranial suture lines',
+        explanation: 'Craniosynostosis is premature cranial suture fusion seen in FGFR-related syndromic craniosynostoses (Apert, Crouzon syndromes), presenting with abnormal skull shape without alobar holoprosencephaly.'
+      },
+      {
+        text: 'Failure of primary posterior neural tube closure at the caudal neuropore',
+        explanation: 'Defects in posterior neural tube closure cause spina bifida and myelomeningocele, which occur at day 28 of embryogenesis and are typically associated with elevated maternal alpha-fetoprotein, not holoprosencephaly.'
+      },
+      {
+        text: 'Disruption of bilateral paraxial mesodermal segmentation into somites',
+        explanation: 'Paraxial mesoderm segmentation governs axial skeletal and skeletal muscle development; defects cause vertebral segmentation anomalies (Klippel-Feil, hemivertebrae), not cyclopia or alobar prosencephalic fusion.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0077',
+    exam: 'Step 1',
+    subject: 'Microbiology',
+    system: 'Nervous System',
+    topic: 'Clostridium Tetani Tetanospasmin Synaptobrevin Cleavage',
+    subtopic: 'Retrograde Axonal Transport and Renshaw Cell Disinhibition',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 89,
+    shortestValidSolution:
+      'Recognize tetanus: puncture wound, trismus (lockjaw), risus sardonicus, opisthotonos. Clostridium tetani produces tetanospasmin, an AB neurotoxin that undergoes retrograde motor axonal transport to the spinal cord. Its zinc endopeptidase light chain cleaves synaptobrevin (VAMP), blocking vesicular exocytosis of inhibitory neurotransmitters (glycine and GABA) from Renshaw interneurons, causing spastic paralysis.',
+    citation: 'Farrar JJ, et al. Tetanus. J Neurol Neurosurg Psychiatry. 2000;69(3):292-301. PMID: 10945801.',
+    stem:
+      'A 62-year-old immigrant from rural Southeast Asia presents to the emergency department with severe, painful muscle stiffness in his jaw and neck that began 24 hours ago and has progressively spread to his back and abdomen. Ten days ago, he sustained a deep puncture wound to his left heel while working in an agricultural field, which he dressed with a cloth. Physical examination reveals an alert, sweating man with sustained contraction of the facial muscles, furrowed forehead, and raised eyebrows with an involuntary sneering grin (risus sardonicus). Trismus prevents opening of the mouth. His abdomen is rigid and board-like without focal tenderness. Minor tactile stimuli and ambient sounds provoke generalized, painful muscle spasms with hyperextension of the spine and neck (opisthotonos). Laboratory testing and brain imaging are unremarkable. The pathogenic neurotoxin responsible for this condition travels by retrograde axonal transport and exerts which of the following molecular actions in the central nervous system?',
+    options: [
+      {
+        text: 'Zinc endopeptidase cleavage of synaptobrevin blocking glycine and GABA exocytosis from Renshaw cells',
+        explanation: 'Clostridium tetani spores germinate in deep anaerobic wounds, producing tetanospasmin. The toxin enters lower motor neurons at neuromuscular junctions and undergoes retrograde intra-axonal transport to spinal cord anterior horn cells. It traverses the synaptic cleft to enter inhibitory interneurons (Renshaw cells). The light chain of tetanospasmin is a zinc-dependent metalloproteinase that cleaves synaptobrevin (VAMP), a crucial SNARE protein. This prevents vesicular release of inhibitory neurotransmitters (glycine and GABA), producing disinhibition of lower motor neurons and sustained spastic contraction.'
+      },
+      {
+        text: 'Cleavage of SNAP-25 at peripheral cholinergic motor endplates preventing acetylcholine release',
+        explanation: 'Botulinum neurotoxin (types A and E) cleaves SNAP-25 at the peripheral presynaptic neuromuscular junction, blocking acetylcholine release and causing flaccid paralysis (not spastic paralysis).'
+      },
+      {
+        text: 'ADP-ribosylation of elongation factor 2 halting ribosomal polypeptide synthesis',
+        explanation: 'Inactivation of elongation factor-2 via ADP-ribosylation is the cytotoxic mechanism of diphtheria toxin (Corynebacterium diphtheriae) and exotoxin A (Pseudomonas aeruginosa), causing cell necrosis rather than tetanic spasticity.'
+      },
+      {
+        text: 'Constitutive activation of adenylyl cyclase via persistent stimulatory G-protein alpha ADP-ribosylation',
+        explanation: 'ADP-ribosylation of Gs-alpha constitutively activating adenylyl cyclase is the mechanism of cholera toxin (Vibrio cholerae) and heat-labile enterotoxin (ETEC), causing secretory diarrhea.'
+      },
+      {
+        text: 'Antagonism of postsynaptic glycine receptors in the spinal ventral horn',
+        explanation: 'Direct competitive antagonism of postsynaptic glycine receptors is the mechanism of strychnine poisoning, which produces similar spasms but does not involve microbial neurotoxins or retrograde axonal transport.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0078',
+    exam: 'Step 1',
+    subject: 'Pathology',
+    system: 'Nervous System',
+    topic: 'Glioblastoma Multiforme Pseudopalisading Necrosis and EGFR',
+    subtopic: 'High-Grade Astrocytoma Histopathology and Microvascular Hyperplasia',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Recognize glioblastoma (GBM, WHO grade 4 astrocytoma): elderly patient, rapidly progressive headache/seizures, ring-enhancing hemispheric mass crossing the corpus callosum (butterfly glioma). Histopathology demonstrates GFAP-positivity, pseudopalisading pleomorphic tumor cells surrounding serpentine areas of necrosis, and glomeruloid microvascular endothelial proliferation. Molecular hallmark is EGFR amplification / mutation.',
+    citation: 'Louis DN, et al. The 2021 WHO Classification of Tumors of the Central Nervous System: a summary. Neuro Oncol. 2021;23(8):1231-1251. PMID: 34185076.',
+    stem:
+      'A 63-year-old man presents to the emergency department with a 4-week history of progressively worsening morning headaches, new-onset nausea, and subtle personality changes noticed by his family. Over the past 48 hours, he has developed progressive weakness in his left upper extremity. Contrast-enhanced brain MRI reveals a 5.5-cm solitary, irregularly shaped, ring-enhancing mass in the right frontal and temporal lobes that crosses the genu of the corpus callosum into the left hemisphere, accompanied by extensive surrounding vasogenic edema and 8 mm of midline shift. The patient undergoes stereotactic surgical biopsy and debulking. Microscopic examination of the resected tissue demonstrates highly pleomorphic, astrocytic tumor cells strongly immunoreactive for glial fibrillary acidic protein (GFAP). Which of the following histopathological features observed on this biopsy is specifically required to confirm the highest World Health Organization (WHO) grade for this tumor?',
+    options: [
+      {
+        text: 'Serpentine zones of ischemic necrosis lined by pseudopalisading tumor cells and glomeruloid microvascular proliferation',
+        explanation: 'Glioblastoma (WHO grade 4 astrocytoma) is the most common and aggressive primary malignant brain tumor in adults. Cross-corpus callosum extension produces the characteristic "butterfly glioma" appearance on neuroimaging. Histopathological confirmation of WHO grade 4 status requires marked cellular atypia and mitotic activity along with either of two diagnostic hallmarks: (1) serpentine areas of tumor necrosis bordered by crowded, radially oriented neoplastic nuclei (pseudopalisading necrosis), or (2) prominent glomeruloid microvascular endothelial hyperplasia driven by VEGF secretion.'
+      },
+      {
+        text: 'Whorled concentric arrangements of spindle cells with central psammoma calcification bodies',
+        explanation: 'Whorled architecture with laminated calcific psammoma bodies is the diagnostic histological feature of meningioma, a benign extra-axial dural-based tumor.'
+      },
+      {
+        text: 'Sheets of uniform round cells with perinuclear halos producing a "fried-egg" appearance surrounded by "chicken-wire" capillaries',
+        explanation: 'Fried-egg cells with branching chicken-wire delicate capillaries characterize oligodendroglioma, which features 1p/19q codeletion and IDH mutation, distinct from glioblastoma.'
+      },
+      {
+        text: 'Biphasic architecture featuring compact Antoni A areas with Verocay bodies and hypocellular Antoni B areas',
+        explanation: 'Biphasic Antoni A/B architecture with Verocay bodies characterizes schwannoma (S100-positive), most commonly arising from the vestibular branch of CN VIII at the cerebellopontine angle.'
+      },
+      {
+        text: 'Perivascular pseudorosettes surrounding central vascular lumens with ependymal dot-like EMA positivity',
+        explanation: 'Perivascular pseudorosettes surrounding blood vessels characterize ependymoma, typically located within the 4th ventricle in pediatric patients.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0079',
+    exam: 'Step 1',
+    subject: 'Biochemistry',
+    system: 'Hematology',
+    topic: 'Glucose-6-Phosphate Dehydrogenase Deficiency and Glutathione',
+    subtopic: 'Hexose Monophosphate Shunt and Oxidant Hemolysis',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 86,
+    shortestValidSolution:
+      'Recognize G6PD deficiency: episodic acute hemolytic anemia following oxidant exposure (fava beans, primaquine, dapsone, sulfa drugs, infection). G6PD catalyzes the rate-limiting step of the hexose monophosphate (HMP) shunt, reducing NADP+ to NADPH. NADPH maintains glutathione reductase activity to keep glutathione reduced (GSH). Lack of GSH leads to oxidation of hemoglobin sulfhydryl groups, forming insoluble Heinz bodies that splenic macrophages bite out (bite cells / degmacytes).',
+    citation: 'Luzzatto L, et al. Glucose-6-phosphate dehydrogenase deficiency. Lancet. 2020;395(10223):519-531. PMID: 32061312.',
+    stem:
+      'A 24-year-old African American man presents to the urgent care clinic with dark tea-colored urine, jaundice, and fatigue that developed 3 days after completing a course of trimethoprim-sulfamethoxazole for a skin infection. Physical examination reveals scleral icterus and conjunctival pallor without hepatosplenomegaly. Laboratory evaluation reveals: hemoglobin 8.4 g/dL (baseline: 14.2 g/dL), reticulocyte count 7.8%, total bilirubin 4.1 mg/dL with indirect bilirubin 3.5 mg/dL, and elevated lactate dehydrogenase. Direct antiglobulin (Coombs) test is negative. Examination of a peripheral blood smear with supravital crystal violet stain demonstrates dark round inclusions attached to the inner erythrocyte cell membranes (Heinz bodies) and numerous erythrocytes with scooped-out marginal defects (bite cells). What biochemical conversion is directly impaired as the rate-limiting step in this patient’s primary metabolic pathway?',
+    options: [
+      {
+        text: 'Reduction of NADP+ to NADPH coupled to the oxidation of glucose-6-phosphate',
+        explanation: 'Glucose-6-phosphate dehydrogenase (G6PD) deficiency is an X-linked recessive disorder and the most common human enzymatic disorder. G6PD catalyzes the first and rate-limiting step of the hexose monophosphate (HMP) shunt (pentose phosphate pathway), converting glucose-6-phosphate to 6-phosphoglucono-delta-lactone while reducing NADP+ to NADPH. In erythrocytes, which lack mitochondria, NADPH is exclusively generated by the HMP shunt and is essential for glutathione reductase to regenerate reduced glutathione (GSH). When exposed to oxidant stressors (sulfa drugs, fava beans, infection), low GSH allows reactive oxygen species to cross-link hemoglobin sulfhydryl groups, forming precipitates (Heinz bodies) removed by splenic macrophages (bite cells).'
+      },
+      {
+        text: 'Oxidative decarboxylation of pyruvate to acetyl-CoA by pyruvate dehydrogenase',
+        explanation: 'Pyruvate dehydrogenase oxidizes pyruvate in mitochondria; mature red cells lack mitochondria, so this reaction does not take place in erythrocytes.'
+      },
+      {
+        text: 'Conversion of phosphoenolpyruvate to pyruvate yielding ATP by pyruvate kinase',
+        explanation: 'Pyruvate kinase generates ATP in glycolysis; its deficiency causes chronic congenital extravascular hemolytic anemia with echinocytes, not episodic oxidant-induced Heinz body hemolysis.'
+      },
+      {
+        text: 'Hydrolysis of 2,3-bisphosphoglycerate into 3-phosphoglycerate by mutase enzymes',
+        explanation: 'The Rapoport-Luebering shunt regulates 2,3-BPG concentration and oxygen delivery, not antioxidant defense against sulfa-induced oxidative stress.'
+      },
+      {
+        text: 'Isomerization of ribulose-5-phosphate into ribose-5-phosphate for nucleotide synthesis',
+        explanation: 'Phosphopentose isomerase catalyzes non-oxidative reversible interconversions in the HMP shunt; it does not produce NADPH or protect against oxidant hemolysis.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0080',
+    exam: 'Step 1',
+    subject: 'Genetics',
+    system: 'Gastrointestinal',
+    topic: 'Lynch Syndrome DNA Mismatch Repair and Microsatellite Instability',
+    subtopic: 'MutS and MutL Homologs in Colorectal and Endometrial Carcinogenesis',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Recognize Lynch syndrome (HNPCC): early-onset right-sided colorectal adenocarcinoma, endometrial carcinoma, ovarian carcinoma. Caused by germline loss-of-function mutations in DNA mismatch repair (MMR) genes (MLH1, MSH2, MSH6, PMS2). Defective proofreading leads to microsatellite instability (MSI-H) and frameshift mutations across simple sequence repeats.',
+    citation: 'Lynch HT, et al. Review of the Lynch syndrome: history, molecular genetics, screening, differential diagnosis, and medicolegal ramifications. Clin Genet. 2009;76(1):1-18. PMID: 19659756.',
+    stem:
+      'A 39-year-old woman presents to the clinic with fatigue and iron deficiency anemia. Colonoscopy reveals a 4.0-cm ulcerated, fungating mass in the ascending colon near the cecum. Histopathology confirms a poorly differentiated mucinous adenocarcinoma with marked intraepithelial lymphocytic infiltration. Family history is notable: her mother died of endometrial cancer at age 44, a maternal aunt was treated for ovarian cancer at age 48, and her maternal grandfather had colon cancer diagnosed at age 42. Immunohistochemical staining of the resected colonic tumor tissue demonstrates total absence of MSH2 and MSH6 nuclear protein expression, with preserved expression of MLH1 and PMS2. Molecular testing reveals high-level microsatellite instability (MSI-H). Which of the following DNA repair mechanisms is inherently defective in this patient’s condition?',
+    options: [
+      {
+        text: 'Post-replicative mismatch repair resolving base-base errors and insertion-deletion loops',
+        explanation: 'Lynch syndrome (hereditary nonpolyposis colorectal cancer, HNPCC) is an autosomal dominant cancer predisposition syndrome caused by germline mutations in DNA mismatch repair (MMR) genes (MSH2, MLH1, MSH6, PMS2). The MSH2-MSH6 complex (MutS-alpha) recognizes single base-base mismatches and small insertion-deletion loops that escape DNA polymerase proofreading during replication. Loss of MMR function leads to genome-wide accumulation of slippage errors in simple tandem repeat sequences (microsatellites), causing microsatellite instability (MSI) and frame-shift mutations in key tumor suppressors (TGF-beta receptor II, BAX).'
+      },
+      {
+        text: 'Nucleotide excision repair removing bulky ultraviolet-induced pyrimidine photodimers',
+        explanation: 'Nucleotide excision repair defects (XPA through XPG) cause xeroderma pigmentosum, characterized by photosensitivity, poikiloderma, and multiple early-onset cutaneous carcinomas.'
+      },
+      {
+        text: 'Base excision repair removing deaminated cytosine and 8-oxoguanine bases',
+        explanation: 'Base excision repair involves DNA glycosylases (e.g., MUTYH); biallelic MUTYH mutations cause MUTYH-associated polyposis (MAP), which features dozens to hundreds of polyps, distinct from MMR mismatch repair.'
+      },
+      {
+        text: 'Homologous recombination repair of ionizing radiation-induced double-strand breaks',
+        explanation: 'Homologous recombination double-strand break repair is mediated by BRCA1, BRCA2, and PALB2; germline mutations predispose to hereditary breast and ovarian cancer syndrome, not classic Lynch MSI-H colon cancer.'
+      },
+      {
+        text: 'Non-homologous end joining resolving DNA double-strand breaks without a sister template',
+        explanation: 'Non-homologous end joining (NHEJ) defects occur in ataxia-telangiectasia (ATM) and DNA-PK deficiencies (SCID), predisposing to lymphoma and radiosensitivity rather than hereditary nonpolyposis colon cancer.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0081',
+    exam: 'Step 1',
+    subject: 'Pathology',
+    system: 'Musculoskeletal',
+    topic: 'Sjogren Syndrome Salivary Histopathology and Lymphoma Risk',
+    subtopic: 'Periductal Lymphocytic Infiltration and B-Cell Malignancy',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 87,
+    shortestValidSolution:
+      'Recognize Sjogren syndrome (keratoconjunctivitis sicca, xerostomia, bilateral parotid enlargement, positive anti-Ro/SSA and anti-La/SSB). Minor salivary gland lip biopsy shows focal periductal lymphocytic sialadenitis (focus score >= 1 focus of >= 50 lymphocytes per 4 mm2). Patients carry a markedly elevated risk (up to 30-40 fold) of developing non-Hodgkin B-cell lymphoma (marginal zone / MALT lymphoma or DLBCL).',
+    citation: 'Mariette X, Criswell LA. Primary Sjögren\'s Syndrome. N Engl J Med. 2018;378(10):931-939. PMID: 29514034.',
+    stem:
+      'A 49-year-old woman presents to the rheumatology clinic with a 1-year history of gritty sensation in both eyes, feeling as though sand is constantly trapped beneath her eyelids, and severe dry mouth requiring her to drink water to swallow dry food. She has also developed dental caries requiring multiple extractions despite brushing twice daily. Physical examination reveals dry, injected bulbar conjunctivae with punctate corneal ulcerations on rose bengal staining, a dry, fissured tongue, and firm, non-tender, bilateral enlargement of the parotid glands. Laboratory testing reveals positive antinuclear antibodies, high-titer anti-Ro/SSA antibodies, and anti-La/SSB antibodies. Rheumatoid factor is positive. A minor labial salivary gland biopsy is performed, revealing dense aggregates of periductal mononuclear cells (lymphocytes and plasma cells) replacing normal acinar architecture, with a focus score of 3 (defined as >= 50 lymphocytes per 4 mm2 of glandular tissue). This patient has a markedly increased lifetime risk for developing which of the following neoplasms?',
+    options: [
+      {
+        text: 'Extranodal marginal zone B-cell lymphoma (mucosa-associated lymphoid tissue lymphoma)',
+        explanation: 'The clinical picture is diagnostic of primary Sjogren syndrome (autoimmune destruction of lacrimal and salivary exocrine glands). Histopathology shows focal lymphocytic sialadenitis with periductal CD4+ T cells, CD8+ T cells, and polyclonal B cells. Chronic antigenic stimulation, polyclonal B-cell activation, and elevated levels of B-cell activating factor (BAFF) confer a 30- to 40-fold increased risk of developing B-cell non-Hodgkin lymphoma, most commonly extranodal marginal zone B-cell lymphoma (MALT lymphoma) involving the parotid glands, or diffuse large B-cell lymphoma (DLBCL).'
+      },
+      {
+        text: 'Pleomorphic adenoma of the parotid gland stromal tissue',
+        explanation: 'Pleomorphic adenoma is the most common benign salivary gland neoplasm (biphasic epithelial/mesenchymal); it is not an autoimmune-driven lymphoproliferative malignancy.'
+      },
+      {
+        text: 'Mucoepidermoid carcinoma arising from major salivary ductal epithelium',
+        explanation: 'Mucoepidermoid carcinoma is the most common malignant salivary gland epithelial tumor; its incidence is not specifically elevated by Sjogren syndrome compared to B-cell lymphoma.'
+      },
+      {
+        text: 'Cutaneous T-cell lymphoma (mycosis fungoides) of epidermotropic CD4+ cells',
+        explanation: 'Mycosis fungoides is a primary cutaneous T-cell lymphoma characterized by Pautrier microabscesses, unrelated to Sjogren exocrine autoimmunity.'
+      },
+      {
+        text: 'Adenoid cystic carcinoma displaying cribriform Swiss-cheese histopathology',
+        explanation: 'Adenoid cystic carcinoma exhibits high propensity for perineural invasion with cribriform morphology; it is an epithelial neoplasm unrelated to B-cell clonal expansion in Sjogren syndrome.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0082',
+    exam: 'Step 1',
+    subject: 'Pharmacology',
+    system: 'Cardiovascular',
+    topic: 'Digoxin Inotropy Mechanism and Delayed Afterdepolarizations',
+    subtopic: 'Na+/K+-ATPase Inhibition and Calcium Overload Arrhythmias',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 89,
+    shortestValidSolution:
+      'Understand digoxin mechanism: Direct reversible inhibition of myocardial sarcolemmal Na+/K+-ATPase pump -> increased intracellular Na+ -> reduced activity/reversal of Na+/Ca2+ exchanger (NCX) -> accumulation of intracellular Ca2+ stored in sarcoplasmic reticulum -> increased inotropy. Toxicity: Ca2+ overload causes spontaneous sarcoplasmic Ca2+ release, generating transient inward current (Iti) and delayed afterdepolarizations (DADs), producing ectopic ventricular beats and bidirectional ventricular tachycardia.',
+    citation: 'Patel S, et al. Digoxin Toxicity. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023. PMID: 29763071.',
+    stem:
+      'A 72-year-old man with systolic heart failure and chronic atrial fibrillation managed with carvedilol, lisinopril, and oral digoxin presents to the emergency department with nausea, anorexia, yellow-tinted visual disturbances (xanthopsia), and dizziness for 2 days. Physical examination reveals an irregularly irregular pulse at 48/min and blood pressure of 102/64 mm Hg. Serum creatinine has worsened from 1.1 to 2.4 mg/dL following a bout of gastroenteritis. Serum potassium is elevated at 5.8 mEq/L (normal: 3.5–5.0 mEq/L), and serum digoxin level is markedly supratherapeutic at 3.8 ng/mL (therapeutic range: 0.5–0.9 ng/mL). Continuous rhythm telemetry reveals frequent premature ventricular contractions with alternating beat-to-beat QRS axis polarity (bidirectional ventricular tachycardia). Which of the following describes the cellular electrophysiological mechanism responsible for triggering ventricular arrhythmias in this patient?',
+    options: [
+      {
+        text: 'Intracellular calcium overload inducing delayed afterdepolarizations via the sodium-calcium exchanger',
+        explanation: 'Digoxin reversibly inhibits the sarcolemmal Na+/K+-ATPase pump, increasing intracellular sodium concentration. This reduces the transmembrane electrochemical gradient driving the sodium-calcium exchanger (NCX, 3 Na+ in / 1 Ca2+ out), thereby elevating cytosolic calcium that is pumped into the sarcoplasmic reticulum (SR) by SERCA2a, enhancing contractility (inotropy). In toxicity, excessive SR calcium loading leads to spontaneous diastolic release of calcium into the cytoplasm. This triggers a transient inward depolarizing current (Iti) mediated primarily by NCX, creating delayed afterdepolarizations (DADs). When DADs reach threshold, they fire triggered ectopic beats and lethal ventricular arrhythmias (e.g., bidirectional VT).'
+      },
+      {
+        text: 'Prolongation of phase 2 action potential duration causing early afterdepolarizations',
+        explanation: 'Prolongation of action potential duration (prolonged QT interval) triggers early afterdepolarizations (EADs) during phase 2 or 3, producing torsades de pointes (caused by Class IA/III antiarrhythmics), whereas digoxin shortens the QT interval and triggers DADs.'
+      },
+      {
+        text: 'Blockade of the delayed rectifier potassium current (IKr) preventing phase 3 repolarization',
+        explanation: 'Blockade of IKr potassium channels is the mechanism of Class III antiarrhythmic toxicity (e.g., sotalol, dofetilide), which prolongs repolarization and triggers EADs, not DADs.'
+      },
+      {
+        text: 'Direct opening of mitochondrial permeability transition pores triggering necrotic lysis',
+        explanation: 'Mitochondrial permeability transition pore opening mediates ischemia-reperfusion injury, not digoxin-induced electrophysiological triggered automaticity.'
+      },
+      {
+        text: 'Selective antagonism of presynaptic muscarinic M2 receptors increasing acetylcholine release',
+        explanation: 'Digoxin increases central vagal tone (parasympathetic activation), slowing AV conduction, but this central vagotonic effect does not trigger ventricular ectopy or bidirectional VT.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0083',
+    exam: 'Step 1',
+    subject: 'Anatomy',
+    system: 'Respiratory',
+    topic: 'Primary Ciliary Dyskinesia Dynein Arm Defect and Situs Inversus',
+    subtopic: 'Kartagener Syndrome Axonemal Microtubule Motor Failure',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Recognize Kartagener syndrome (subgroup of primary ciliary dyskinesia): triad of situs inversus (complete dextrocardia/abdominal situs inversus), chronic sinusitis, and bronchiectasis, plus male infertility due to immotile sperm flagella. Caused by mutations in outer or inner dynein arms (e.g., DNAH5, DNAI1), which normally hydrolyze ATP to slide microtubule doublets in the 9+2 axoneme.',
+    citation: 'Knowles MR, et al. Primary ciliary dyskinesia: recent advances in genomics, unconventional treatments, and novel therapies. Am J Respir Crit Care Med. 2013;188(8):913-922. PMID: 23796196.',
+    stem:
+      'A 26-year-old man presents to the pulmonary clinic with a lifelong history of daily cough productive of foul-smelling, purulent sputum, chronic nasal congestion, and recurrent bouts of sinusitis and otitis media requiring multiple antibiotic courses since infancy. He and his wife have been unable to conceive after 2 years of unprotected intercourse; semen analysis demonstrates normal sperm count and morphology, but 0% motility. Physical examination reveals nasal polyps and bilateral basilar crackles and wheezes. The cardiac apex beat is palpated in the right fifth intercostal space at the midclavicular line. Chest radiography confirms dextrocardia with the gastric bubble located beneath the right hemidiaphragm and hepatic shadow on the left (situs inversus totalis), along with tram-track bronchial wall thickening and cystic spaces in the lung bases consistent with bronchiectasis. Transmission electron microscopy of an endobronchial mucosal biopsy is performed. Which of the following ultrastructural abnormalities within respiratory cilia confirms the diagnosis?',
+    options: [
+      {
+        text: 'Absence of outer and inner dynein arms bridging peripheral microtubule doublets',
+        explanation: 'The patient has Kartagener syndrome, an autosomal recessive ciliopathy and a subgroup of primary ciliary dyskinesia (PCD). The classical triad consists of situs inversus totalis, chronic sinusitis/nasal polyposis, and bronchiectasis, accompanied by male infertility from immotile sperm tails. Cilia and sperm flagella share a common "9+2" axonemal arrangement of nine peripheral microtubule doublets surrounding a central pair. The motor that powers ciliary bending is the dynein arm (an ATPase that slides adjacent doublets). Mutations in dynein motor proteins (DNAH5, DNAI1) result in absent outer or inner dynein arms, causing ciliary paralysis, failure of embryonic nodal ciliary rotation (randomizing left-right organ orientation), and impaired mucociliary clearance.'
+      },
+      {
+        text: 'Deficiency of central singlet microtubules producing a "9+0" axonemal configuration',
+        explanation: 'A 9+0 arrangement is normal for primary non-motile sensory monocilia (e.g., in kidney tubules); respiratory motile cilia have a 9+2 configuration.'
+      },
+      {
+        text: 'Disruption of the apical CFTR chloride channels with thickened mucus capping cilia',
+        explanation: 'Cystic fibrosis presents with bronchiectasis and male infertility (congenital bilateral absence of the vas deferens), but patients have normal left-right organ laterality (no situs inversus) and normal ciliary dynein structure.'
+      },
+      {
+        text: 'Complete absence of radial spokes connecting doublets to the central microtubule sheath',
+        explanation: 'Radial spoke defects are a very rare variant of PCD, but absent dynein arms account for >80% of identified structural defects in classical Kartagener syndrome.'
+      },
+      {
+        text: 'Hypertrophy of basal bodies with abnormal proliferation of actin microfilaments',
+        explanation: 'Cilia are composed of tubulin microtubules, not actin filaments; basal bodies are modified centrioles that anchor axonemes and are not structurally hypertrophied in PCD.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0084',
+    exam: 'Step 1',
+    subject: 'Pathology',
+    system: 'Endocrine',
+    topic: 'Primary Adrenal Insufficiency POMC Hypersecretion Hyperpigmentation',
+    subtopic: 'ACTH and Alpha-MSH Derived from Proopiomelanocortin',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 87,
+    shortestValidSolution:
+      'Recognize primary adrenal insufficiency (Addison disease): fatigue, weight loss, orthostatic hypotension, hyponatremia, hyperkalemia, non-anion gap metabolic acidosis, and generalized cutaneous and mucosal hyperpigmentation (palmar creases, buccal mucosa). Loss of cortisol removes negative feedback at the anterior pituitary, causing massive transcription of proopiomelanocortin (POMC), which is cleaved into ACTH and alpha-melanocyte-stimulating hormone (alpha-MSH).',
+    citation: 'Bornstein SR, et al. Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2016;101(2):642-659. PMID: 26760044.',
+    stem:
+      'A 34-year-old woman presents to the clinic with progressive fatigue, lightheadedness upon standing, anorexia, and a 7-kg unintentional weight loss over the past 5 months. She also reports severe salt cravings. Physical examination reveals blood pressure of 92/58 mm Hg supine that drops to 74/46 mm Hg upon standing with a pulse rise from 78 to 110/min. Physical examination is notable for generalized bronze cutaneous hyperpigmentation, with striking dark blue-black pigmentation over the buccal mucosa, gums, palmar creases, and recent surgical scars. Laboratory evaluation demonstrates: serum sodium 128 mEq/L, potassium 5.6 mEq/L, chloride 94 mEq/L, and bicarbonate 18 mEq/L. Morning serum cortisol is low at 2.1 mcg/dL (normal: 10–20 mcg/dL), and plasma adrenocorticotropic hormone (ACTH) is markedly elevated at 340 pg/mL (normal: 10–60 pg/mL). High-dose synthetic ACTH (cosyntropin) stimulation testing fails to elicit an increase in serum cortisol. The patient’s cutaneous hyperpigmentation is a direct consequence of increased transcription and processing of which of the following precursor polypeptide molecules?',
+    options: [
+      {
+        text: 'Proopiomelanocortin synthesized in the anterior pituitary corticotrophs',
+        explanation: 'The patient has primary adrenal insufficiency (Addison disease, most commonly autoimmune adrenalitis targeting 21-hydroxylase). Destruction of all three adrenal cortical zones leads to cortisol and aldosterone deficiency, producing hypotension, hyponatremia, hyperkalemia, and non-anion gap metabolic acidosis. The profound deficiency of circulating cortisol removes negative feedback inhibition at the hypothalamus and anterior pituitary corticotrophs, stimulating massive gene transcription of proopiomelanocortin (POMC). Post-translational cleavage of POMC yields both ACTH and alpha-melanocyte-stimulating hormone (alpha-MSH). Both ACTH and alpha-MSH bind melanocortin-1 receptors (MC1R) on epidermal melanocytes, driving melanin synthesis and producing mucosal and cuticular hyperpigmentation.'
+      },
+      {
+        text: 'Thyroglobulin polypeptide cleaved within thyroid follicular lumens',
+        explanation: 'Thyroglobulin is synthesized by thyroid follicular cells to produce T3/T4; its processing has no melanin-stimulating properties.'
+      },
+      {
+        text: 'Preprovasopressin-neurophysin II processed in magnocellular hypothalamic nuclei',
+        explanation: 'Preprovasopressin is cleaved to yield antidiuretic hormone (ADH) and neurophysin II; it regulates renal water retention and does not alter skin pigmentation.'
+      },
+      {
+        text: 'Procalcitonin cleaved within medullary parafollicular C cells',
+        explanation: 'Procalcitonin is processed to calcitonin in thyroid C cells or elevated in sepsis; it has no pigmentary effects.'
+      },
+      {
+        text: 'Preprogastrin synthesized within neuroendocrine G cells of the pyloric antrum',
+        explanation: 'Preprogastrin is processed to gastrin, which stimulates gastric acid secretion, with no interaction at melanocyte receptors.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0085',
+    exam: 'Step 1',
+    subject: 'Pharmacology',
+    system: 'Respiratory',
+    topic: 'Macrolide 50S Ribosomal Inhibition and Methylation Resistance',
+    subtopic: '23S rRNA Methylation Mediated by erm Genes',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Recognize macrolide mechanism: Azithromycin/clarithromycin bind reversibly to the 23S rRNA of the 50S bacterial ribosomal subunit, blocking transpeptidation/translocation of nascent peptide chains. Major mechanism of acquired bacterial resistance in Streptococcus pneumoniae: plasmid or transposon-encoded erm (erythromycin ribosome methylation) genes, which post-transcriptionally methylate a specific adenine residue on the 23S rRNA, preventing drug binding.',
+    citation: 'Dinos GP. The macrolide antibiotic renaissance. Br J Pharmacol. 2017;174(18):2967-2983. PMID: 28543501.',
+    stem:
+      'A 28-year-old woman presents to the urgent care clinic with a 4-day history of dry cough, low-grade fever, sore throat, and malaise. Physical examination reveals mild pharyngeal erythema and bilateral basilar end-expiratory crackles. Chest radiography demonstrates patchy bilateral interstitial infiltrates. Sputum Gram stain shows numerous mononuclear cells without predominant bacteria. Polymerase chain reaction of a nasopharyngeal swab confirms Mycoplasma pneumoniae infection. The patient is treated with oral azithromycin and achieves full clinical resolution within 5 days. Azithromycin inhibits bacterial protein synthesis by binding to a specific ribosomal target. In resistant strains of Streptococcus pneumoniae, which of the following biochemical alterations directly prevents macrolide binding to this target?',
+    options: [
+      {
+        text: 'Methylation of a specific adenine residue on the 23S ribosomal RNA subunit',
+        explanation: 'Macrolides (azithromycin, clarithromycin, erythromycin) bind reversibly to the 23S rRNA component of the 50S bacterial ribosomal subunit, inhibiting translocation of the nascent peptidyl-tRNA from the A-site to the P-site. The most widespread mechanism of high-level macrolide resistance in Gram-positive pathogens (such as Streptococcus pneumoniae and Staphylococcus aureus) is post-transcriptional dimethylation of an adenine residue within the 23S rRNA binding site, catalyzed by methyltransferases encoded by erm (erythromycin ribosome methylation) genes. This steric alteration prevents macrolides (and lincosamides and streptogramin B—the MLSB phenotype) from binding without disrupting bacterial protein translation.'
+      },
+      {
+        text: 'Enzymatic phosphorylation of aminoglycoside-modifying nucleotidyltransferases',
+        explanation: 'Aminoglycoside resistance occurs via bacterial transferase enzymes that acetylate, adenylate, or phosphorylate aminoglycosides, rendering them unable to bind the 30S subunit.'
+      },
+      {
+        text: 'Point mutation in the chromosomal DNA gyrase subunit A binding pocket',
+        explanation: 'Mutations in the quinolone resistance-determining region of gyrA (DNA gyrase) or parC (topoisomerase IV) confer resistance to fluoroquinolones (ciprofloxacin, levofloxacin), not macrolides.'
+      },
+      {
+        text: 'Enzymatic cleavage of a four-membered beta-lactam core ring structure',
+        explanation: 'Beta-lactamase hydrolysis cleaves the beta-lactam ring of penicillins and cephalosporins, not the macrolactone ring of macrolides.'
+      },
+      {
+        text: 'Alteration of terminal D-alanyl-D-alanine pentapeptide residues to D-alanyl-D-lactate',
+        explanation: 'Altering D-Ala-D-Ala to D-Ala-D-Lac (encoded by vanA/vanB) is the mechanism of vancomycin resistance in Enterococcus (VRE).'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0086',
+    exam: 'Step 1',
+    subject: 'Biochemistry',
+    system: 'Nervous System',
+    topic: 'Tay-Sachs Disease GM2 Ganglioside Accumulation and Lysosomes',
+    subtopic: 'Hexosaminidase A Deficiency versus Niemann-Pick Disease',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Distinguish Tay-Sachs from Niemann-Pick disease. Both present in infants with developmental regression, hyperreflexia, and a cherry-red macular spot. Tay-Sachs has HEXOSAMINIDASE A deficiency leading to GM2 ganglioside accumulation, with NO hepatosplenomegaly. Niemann-Pick has SPHINGOMYELINASE deficiency with sphingomyelin accumulation and PROMINENT hepatosplenomegaly.',
+    citation: 'Ferreira CR, Gahl WA. Lysosomal storage diseases. Transl Sci Rare Dis. 2017;2(1-2):1-71. PMID: 29152456.',
+    stem:
+      'A 6-month-old male infant of Ashkenazi Jewish descent is brought to the pediatric neurology clinic by his parents because of progressive loss of motor developmental milestones. At 4 months of age, he could roll over and maintain good head control; currently, he cannot roll, has profound head lag, and cannot sit even with support. His parents report an exaggerated startle response to everyday ambient sounds (acoustic hyperacusis). Physical examination reveals a hypotonic, non-interactive infant with generalized muscle weakness and brisk 3+ deep tendon reflexes bilaterally. Abdominal palpation reveals a soft, non-distended abdomen with no palpable hepatomegaly or splenomegaly. Dilated funduscopic examination reveals prominent, well-demarcated cherry-red spots centered within the fovea centralis of both maculae, surrounded by a pale, white, lipid-laden retina. Which of the following lysosomal enzymes is deficient, and which glycolipid substrate pathologically accumulates in this child’s neuronal lysosomes?',
+    options: [
+      {
+        text: 'Deficiency of beta-hexosaminidase A with accumulation of GM2 ganglioside',
+        explanation: 'The patient has Tay-Sachs disease, an autosomal recessive lysosomal storage disease caused by mutations in the HEXA gene on chromosome 15, encoding beta-hexosaminidase A. Absence of hexosaminidase A prevents degradation of GM2 gangliosides into GM3 gangliosides, leading to toxic intracellular accumulation of GM2 ganglioside in neuronal lysosomes, producing ballooned neurons with lamellar whorled "onion-skin" inclusions. Clinical hallmarks: progressive developmental regression, hyperacusis, cherry-red macular spots, and crucially, ABSENCE of hepatosplenomegaly. Niemann-Pick disease also features cherry-red spots and neurodegeneration (sphingomyelinase deficiency), but has prominent hepatosplenomegaly.'
+      },
+      {
+        text: 'Deficiency of acid sphingomyelinase with accumulation of sphingomyelin',
+        explanation: 'Acid sphingomyelinase deficiency causes Niemann-Pick disease type A; while it also presents with neurodegeneration and a cherry-red macular spot, it is distinguished by marked hepatosplenomegaly and foam cells on bone marrow aspirate, both absent here.'
+      },
+      {
+        text: 'Deficiency of galactocerebrosidase with accumulation of galactosylceramide',
+        explanation: 'Galactocerebrosidase deficiency causes Krabbe disease, characterized by hypertonia, optic atrophy, peripheral neuropathy, and multinucleated globoid cells, without cherry-red spots.'
+      },
+      {
+        text: 'Deficiency of glucocerebrosidase with accumulation of glucosylceramide',
+        explanation: 'Glucocerebrosidase deficiency causes Gaucher disease, presenting with massive hepatosplenomegaly, bone crises/osteopenia, and "crinkled paper" histiocytes, without cherry-red spots.'
+      },
+      {
+        text: 'Deficiency of alpha-L-iduronidase with accumulation of heparan sulfate',
+        explanation: 'Alpha-L-iduronidase deficiency causes Hurler syndrome (MPS I), characterized by coarse facial features, corneal clouding, dysostosis multiplex, and hepatosplenomegaly.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0087',
+    exam: 'Step 1',
+    subject: 'Pathology',
+    system: 'Cardiovascular',
+    topic: 'Polyarteritis Nodosa Transmural Necrotizing Arteritis',
+    subtopic: 'Medium-Vessel Vasculitis and Hepatitis B Surface Antigen',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Recognize polyarteritis nodosa (PAN): medium-sized muscular artery vasculitis presenting with hypertension (renal artery involvement), abdominal angina (mesenteric), mononeuritis multiplex (foot/wrist drop), livedo reticularis, testicular pain, and strong association with Hepatitis B virus (HBsAg). Histology shows segmental transmural necrotizing inflammation with fibrinoid necrosis. It SPARES the pulmonary circulation.',
+    citation: 'de Menthon M, et al. Polyarteritis nodosa: a review. Clin Exp Rheumatol. 2011;29(1 Suppl 64):S110-S116. PMID: 21586204.',
+    stem:
+      'A 48-year-old man presents with a 2-month history of low-grade fever, malaise, 8-kg unintentional weight loss, and severe bilateral calf and testicular pain. Over the past week, he has developed a sudden right wrist drop and left foot drop (mononeuritis multiplex). Physical examination reveals a blood pressure of 168/104 mm Hg (previously normotensive) and a mottled, purplish, lace-like vascular discoloration over both lower extremities (livedo reticularis). Laboratory testing reveals: ESR 96 mm/h, serum creatinine 2.2 mg/dL, and active chronic Hepatitis B virus infection with positive HBsAg and HBeAg. Serum antineutrophil cytoplasmic antibodies (ANCA) are negative. Chest radiography is completely normal with clear lung parenchyma. Mesenteric and renal catheter angiography reveals multiple segmental aneurysms and stenoses along the medium-sized arteries, creating a classic "string of pearls" appearance. If a biopsy of a symptomatic sural nerve or muscle were performed, which of the following histopathological patterns would be observed?',
+    options: [
+      {
+        text: 'Segmental, transmural necrotizing inflammation of medium-sized arteries with prominent fibrinoid necrosis',
+        explanation: 'Polyarteritis nodosa (PAN) is a systemic necrotizing vasculitis that targets medium-sized and small muscular arteries, classically sparing arterioles, venules, capillaries, and the pulmonary circulation. Approximately 30% of cases are associated with chronic Hepatitis B infection (immune complex deposition). Hallmark clinical manifestations: renal ischemia/hypertension (without glomerulonephritis), mesenteric ischemia (postprandial angina), mononeuritis multiplex (ischemic nerve infarction), testicular pain, and livedo reticularis. Histopathology reveals segmental, transmural necrotizing inflammation with fibrinoid necrosis, with lesions of different chronological stages coexisting in the same vessel.'
+      },
+      {
+        text: 'Granulomatous inflammation of the aortic arch with transmural fibrous obliteration of great vessel lumens',
+        explanation: 'Takayasu arteritis causes granulomatous inflammation of the aorta and its primary branches in young women (<40 years), manifesting with absent upper extremity pulses ("pulseless disease") and ocular disturbances.'
+      },
+      {
+        text: 'Necrotizing granulomatous vasculitis with prominent eosinophilic infiltration of the pulmonary parenchyma',
+        explanation: 'Eosinophilic granulomatosis with polyangiitis (EGPA / Churg-Strauss) features severe asthma, peripheral eosinophilia, lung infiltrates, and positive p-ANCA (anti-MPO), distinct from PAN which spares the lungs.'
+      },
+      {
+        text: 'Non-caseating granulomas with palisading histiocytes surrounding areas of geographic dermal collagen necrosis',
+        explanation: 'Granuloma annulare or necrobiosis lipoidica exhibits palisading histiocytes around necrobiotic collagen in the skin, not systemic necrotizing arterial vasculitis.'
+      },
+      {
+        text: 'Leukocytoclastic vasculitis restricted strictly to superficial dermal postcapillary venules',
+        explanation: 'Hypersensitivity vasculitis (leukocytoclastic vasculitis) is a small-vessel vasculitis of postcapillary venules presenting with palpable purpura following medication exposure, lacking medium-vessel aneurysms.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0088',
+    exam: 'Step 1',
+    subject: 'Anatomy',
+    system: 'General Principles',
+    topic: 'DiGeorge Syndrome Third and Fourth Pharyngeal Pouch Dysgenesis',
+    subtopic: '22q11.2 Microdeletion and Thymic Parathyroid Hypoplasia',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Recognize DiGeorge syndrome (22q11.2 microdeletion): CATCH-22 (Conotruncal cardiac defects like truncus arteriosus or tetralogy of Fallot, Abnormal facies, Thymic hypoplasia causing T-cell deficiency, Cleft palate, Hypocalcemia due to parathyroid hypoplasia). Caused by failure of the 3rd and 4th pharyngeal pouches to develop due to defective neural crest migration.',
+    citation: 'McDonald-McGinn DM, et al. 22q11.2 deletion syndrome. Nat Rev Dis Primers. 2015;1:15071. PMID: 27189754.',
+    stem:
+      'A 3-day-old male infant born at 39 weeks gestation develops generalized tonic-clonic seizure activity. Physical examination reveals low-set ears, micrognathia, a short philtrum, a high-arched palate, and a harsh holosystolic murmur heard loudest at the left sternal border. Transthoracic echocardiogram demonstrates tetralogy of Fallot with an overriding aorta and a large ventricular septal defect. Laboratory evaluation reveals: serum calcium 6.1 mg/dL (normal: 8.5–10.5 mg/dL), serum phosphorus 7.8 mg/dL (normal: 4.5–6.5 mg/dL), and undetectable intact parathyroid hormone (iPTH < 5 pg/mL). Chest radiography confirms absent thymic shadow (no normal "sail sign" over the superior mediastinum). Flow cytometry reveals markedly reduced circulating CD3+ T lymphocytes with normal numbers of CD19+ B lymphocytes. Fluorescence in situ hybridization (FISH) confirms a microdeletion on the long arm of chromosome 22. This patient’s anatomical and immunological defects stem from abnormal development of which of the following embryonic structures?',
+    options: [
+      {
+        text: 'Endodermal lining of the third and fourth pharyngeal pouches',
+        explanation: 'DiGeorge syndrome (22q11.2 microdeletion syndrome) results from defective neural crest cell migration into the pharyngeal arches and pouches during embryogenesis. The thymus and inferior parathyroid glands derive from the endoderm of the 3rd pharyngeal pouch, while the superior parathyroids derive from the 4th pharyngeal pouch. Dysgenesis of these pouches leads to thymic aplasia/hypoplasia (profound T-cell deficiency and opportunistic infection risk) and absent parathyroid glands (hypocalcemia and tetany/seizures). Conotruncal cardiac malformations (tetralogy of Fallot, truncus arteriosus) result from neural crest migration failure into the aorticopulmonary septum.'
+      },
+      {
+        text: 'Ectodermal lining of the first and second pharyngeal clefts',
+        explanation: 'The 1st pharyngeal cleft develops into the external auditory meatus; the 2nd through 4th clefts form temporary cervical sinuses that regress; defects cause branchial cleft cysts, not thymic aplasia or hypocalcemia.'
+      },
+      {
+        text: 'Mesodermal core of the first pharyngeal arch',
+        explanation: 'The 1st pharyngeal arch gives rise to the muscles of mastication, mylohyoid, anterior digastric, tensor tympani, maxilla, zygoma, and mandible (defective in Treacher Collins syndrome), not the thymus.'
+      },
+      {
+        text: 'Second pharyngeal pouch endodermal diverticulum',
+        explanation: 'The 2nd pharyngeal pouch endoderm gives rise to the palatine tonsil epithelial lining and tonsillar crypts, not the thymus or parathyroids.'
+      },
+      {
+        text: 'Sixth pharyngeal arch vascular derivatives',
+        explanation: 'The 6th pharyngeal arch forms the pulmonary arteries and ductus arteriosus, but its isolated defect does not cause thymic or parathyroid absence.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0089',
+    exam: 'Step 1',
+    subject: 'Pharmacology',
+    system: 'Renal',
+    topic: 'Aminoglycoside Nephrotoxicity Proximal Tubular Accumulation',
+    subtopic: '30S Subunit Misreading and Acute Tubular Necrosis',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 87,
+    shortestValidSolution:
+      'Recognize aminoglycoside toxicity: Gentamicin/tobramycin/amikacin bind the 30S ribosomal subunit, causing misreading of mRNA. They accumulate in proximal convoluted tubule cells via megalin-mediated pinocytosis, disrupting lysosomes and inducing acute tubular necrosis (ATN) with muddy brown granular casts, non-oliguric renal failure, and hypokalemia/hypomagnesemia (Fanconi-like). Also cause cochlear/vestibular ototoxicity.',
+    citation: 'Hermanns-Le T, et al. Aminoglycoside nephrotoxicity: modeling, mechanisms, and prevention. Front Pharmacol. 2018;9:1198. PMID: 30420807.',
+    stem:
+      'A 58-year-old man is hospitalized in the intensive care unit for treatment of Pseudomonas aeruginosa bacteremia secondary to a complex intra-abdominal infection. He is treated with intravenous tobramycin and piperacillin-tazobactam. On hospital day 7, his serum creatinine has increased from 1.0 mg/dL to 2.8 mg/dL, accompanied by a serum BUN of 32 mg/dL (BUN/creatinine ratio ~11:1). His urine output remains preserved at 1.8 liters per day (non-oliguric renal failure). Urinalysis reveals fractional excretion of sodium (FENa) of 2.6%, low urine osmolality (280 mOsm/kg), and microscopic sediment examination reveals numerous coarse, muddy brown granular casts and sloughed epithelial cells. Serum potassium is 3.1 mEq/L and serum magnesium is 1.4 mg/dL. He also complains of high-pitched bilateral tinnitus and unsteady balance. Which of the following describes the initial cellular mechanism of renal injury induced by this patient’s antimicrobial therapy?',
+    options: [
+      {
+        text: 'Receptor-mediated endocytosis into proximal tubule epithelial cells causing lysosomal phospholipidosis and necrosis',
+        explanation: 'Aminoglycosides (tobramycin, gentamicin, amikacin) are polycationic antibiotics that freely filter through the glomerulus and bind to megalin/cubilin receptor complexes on the brush border of proximal convoluted tubule (PCT) cells. Following receptor-mediated endocytosis, they accumulate within lysosomes, inhibiting lysosomal phospholipases (phospholipidosis) and generating reactive oxygen species that rupture lysosomal membranes, releasing hydrolytic enzymes into the cytoplasm. This triggers apoptotic and necrotic cell death (acute tubular necrosis), manifesting with muddy brown granular casts, non-oliguric acute kidney injury, and wasting of magnesium and potassium.'
+      },
+      {
+        text: 'Direct immune-mediated hypersensitivity with interstitial eosinophilic infiltrate and interstitial edema',
+        explanation: 'Acute interstitial nephritis (AIN) is a type IV/type I hypersensitivity reaction (classically caused by beta-lactams, NSAIDs, PPIs) presenting with fever, rash, eosinophilia, and white blood cell casts without muddy brown casts.'
+      },
+      {
+        text: 'Intraluminal crystallization and mechanical obstruction within collecting ducts',
+        explanation: 'Crystal nephropathy is caused by acyclovir, sulfonamides, methotrexate, or indinavir precipitated in distal tubules during dehydration, not aminoglycoside lysosomal injury.'
+      },
+      {
+        text: 'Selective afferent arteriolar vasoconstriction induced by endothelin-1 hypersecretion',
+        explanation: 'Calcineurin inhibitors (cyclosporine, tacrolimus) and high-dose radiocontrast agents cause intense afferent arteriolar vasoconstriction, not aminoglycoside ATN.'
+      },
+      {
+        text: 'Membranous immune complex deposition across the glomerular capillary basement membrane',
+        explanation: 'Aminoglycosides cause direct tubular necrosis (ATN); they do not produce glomerular immune complex nephropathies.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0090',
+    exam: 'Step 1',
+    subject: 'Genetics',
+    system: 'Renal',
+    topic: 'Autosomal Dominant Polycystic Kidney Disease Polycystin Defect',
+    subtopic: 'PKD1/PKD2 Mutations Primary Cilia and Berry Aneurysms',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Recognize Autosomal Dominant Polycystic Kidney Disease (ADPKD): bilateral enlarged kidneys with multiple cysts, flank pain, hematuria, hypertension, progressive renal failure in adults (ages 30-50). Caused by PKD1 (85%, chromosome 16, encodes polycystin-1) or PKD2 (15%, chromosome 4, encodes polycystin-2) mutations. Polycystins localize to the primary cilium, regulating mechanosensation and intracellular calcium. Extrarenal manifestations: berry aneurysms of circle of Willis (subarachnoid hemorrhage risk), hepatic cysts, mitral valve prolapse.',
+    citation: 'Cornec-Le Gall E, et al. Autosomal dominant polycystic kidney disease. Lancet. 2019;393(10174):919-935. PMID: 30819518.',
+    stem:
+      'A 44-year-old man presents to the clinic with bilateral dull flank pain and gross hematuria. He reports that his father died suddenly from a ruptured brain aneurysm at age 48 after having been on maintenance hemodialysis for several years. On physical examination, the patient’s blood pressure is 158/98 mm Hg. Abdominal palpation reveals markedly enlarged, nodular, non-tender masses extending below both costal margins. Laboratory evaluation reveals: serum creatinine 1.8 mg/dL and BUN 24 mg/dL. Urinalysis demonstrates 2+ protein, 3+ blood, and numerous red blood cells without casts. Abdominal ultrasonography demonstrates massively enlarged bilateral kidneys replaced by innumerable cysts of varying sizes throughout the cortex and medulla, along with several simple cysts within the liver parenchyma. Screening magnetic resonance angiography (MRA) of the head reveals a 6-mm saccular (berry) aneurysm at the junction of the anterior communicating artery and anterior cerebral artery. The primary mutated protein in >80% of patients with this disorder functions as which of the following?',
+    options: [
+      {
+        text: 'A primary ciliary membrane glycoprotein mechanosensor regulating intracellular calcium influx',
+        explanation: 'The patient has autosomal dominant polycystic kidney disease (ADPKD). In ~85% of cases, ADPKD is caused by mutations in PKD1 on chromosome 16p13.3 (encoding polycystin-1); the remaining ~15% are caused by PKD2 on chromosome 4q22 (encoding polycystin-2). Polycystin-1 is a large transmembrane glycoprotein localized to the primary cilium of tubular epithelial cells, where it complexes with polycystin-2 (a calcium-permeable cation channel). Primary cilia act as fluid-flow mechanosensors. Defective polycystin signaling impairs intracellular calcium influx, activating adenylyl cyclase and cAMP signaling, which drives uncontrolled epithelial cell proliferation and fluid secretion, forming cysts.'
+      },
+      {
+        text: 'A basement membrane alpha-5 chain of type IV collagen anchoring podocyte slit diaphragms',
+        explanation: 'Mutations in the alpha-5 chain of type IV collagen (COL4A5) cause Alport syndrome, presenting with sensorineural deafness, basket-weave GBM, and hematuria without multiple large renal and hepatic cysts.'
+      },
+      {
+        text: 'A renal apical sodium-glucose cotransporter regulating proximal tubular glucose reclamation',
+        explanation: 'SGLT2 (SLC5A2) mediates proximal tubular glucose reabsorption; mutations cause benign familial renal glycosuria, not polycystic kidney disease.'
+      },
+      {
+        text: 'A lysosomal acid alpha-glucosidase hydrolyzing glycogen into free cytoplasmic glucose',
+        explanation: 'Acid alpha-glucosidase deficiency causes Pompe disease (glycogen storage disease type II), characterized by massive cardiomegaly and severe hypotonia, not adult renal cystic disease.'
+      },
+      {
+        text: 'A basolateral chloride-bicarbonate anion exchanger in type A intercalated cells',
+        explanation: 'Mutations in AE1 (SLC4A1) cause distal renal tubular acidosis (Type 1 RTA) with nephrocalcinosis and hypokalemic metabolic acidosis, lacking bilateral multicystic enlargement.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0091',
+    exam: 'Step 1',
+    subject: 'Pathology',
+    system: 'Dermatology',
+    topic: 'Psoriasis Vulgaris Histopathology and Munro Microabscesses',
+    subtopic: 'Acanthosis Parakeratosis and Auspitz Sign Mechanism',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 87,
+    shortestValidSolution:
+      'Recognize psoriasis vulgaris: well-demarcated salmon-colored plaques with silvery scales on extensor surfaces (elbows, knees, scalp). Auspitz sign (pinpoint bleeding when scale is scraped off) is caused by thinning of the suprapapillary epidermal plates over dilated, tortuous dermal capillaries. Histopathology shows: acanthosis (epidermal hyperplasia), parakeratosis (retention of nuclei in stratum corneum), absent stratum granulosum, elongation of rete ridges, and Munro microabscesses (neutrophils in the stratum corneum).',
+    citation: 'Boehncke WH, Schön MP. Psoriasis. Lancet. 2015;386(9997):983-994. PMID: 26025581.',
+    stem:
+      'A 36-year-old man presents to the dermatology clinic with chronic, itchy skin lesions over his elbows, knees, and lower back that worsen during winter months. He also complains of morning stiffness and swelling in his distal interphalangeal joints. Dermatological examination reveals sharply demarcated, erythematous plaques covered with thick, silvery-white micaceous scales on the extensor surfaces of both elbows and over the lumbosacral area. Examination of his fingernails demonstrates pitting, subungual hyperkeratosis, and yellow-brown "oil drop" discoloration. When the physician gently scrapes away one of the silvery scales from an elbow plaque, multiple pinpoint bleeding spots appear beneath the scraped surface (positive Auspitz sign). A punch biopsy of the plaque is performed. Which of the following histopathological combinations is most characteristic of this disease?',
+    options: [
+      {
+        text: 'Epidermal acanthosis, parakeratosis, Munro microabscesses in the stratum corneum, and thinning of suprapapillary plates',
+        explanation: 'Psoriasis vulgaris is a chronic inflammatory dermatosis driven by IL-23/IL-17 signaling. Accelerated keratinocyte turnover (maturation time shortened from 28 to 4 days) produces classic histopathological features: (1) marked epidermal hyperplasia (acanthosis) with uniform elongation of rete ridges ("test-tubes in a rack"); (2) retention of nuclei within the stratum corneum (parakeratosis) with loss of the stratum granulosum; (3) collections of neutrophils within the stratum corneum (Munro microabscesses) or spinosum (spongiform pustules of Kogoj); and (4) marked thinning of the suprapapillary epidermal plate directly overlying dilated, tortuous dermal papillae capillaries, which tear upon scraping to produce pinpoint bleeding (Auspitz sign).'
+      },
+      {
+        text: 'Hyperkeratosis with wedge-shaped hypergranulosis, saw-toothed rete ridges, and band-like dermal lymphocytic infiltration',
+        explanation: 'Saw-tooth rete pegs, hypergranulosis, and a band-like dermal lymphocytic infiltrate at the dermoepidermal junction characterize lichen planus (the 5 P\'s: pruritic, planar, polygonal, purple papules with Wickham striae).'
+      },
+      {
+        text: 'Intraepidermal acantholysis with suprabasal intraepithelial bullae and tombstone row basal keratinocytes',
+        explanation: 'Acantholysis with suprabasal intraepidermal split and tombstone basal cells characterizes pemphigus vulgaris, mediated by anti-desmoglein-3 autoantibodies.'
+      },
+      {
+        text: 'Subepidermal non-acantholytic bullae with linear IgG and C3 deposition along the hemidesmosomal basement membrane',
+        explanation: 'Subepidermal non-acantholytic blisters with linear basement membrane zone staining characterize bullous pemphigoid (anti-BP180/BP230 autoantibodies).'
+      },
+      {
+        text: 'Spongiosis with intraepidermal microvesicles and superficial perivascular eosinophilic and lymphocytic infiltration',
+        explanation: 'Prominent epidermal intercellular edema (spongiosis) with intraepidermal vesiculation characterizes acute eczematous (atopic or contact) dermatitis.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0092',
+    exam: 'Step 1',
+    subject: 'Pharmacology',
+    system: 'General Principles',
+    topic: 'Pseudocholinesterase Deficiency Prolonged Succinylcholine Apnea',
+    subtopic: 'Atypical Butyrylcholinesterase and Dibucaine Number',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Recognize prolonged neuromuscular paralysis and apnea lasting hours after induction with succinylcholine. Succinylcholine is a depolarizing neuromuscular blocker rapidly hydrolyzed in plasma by butyrylcholinesterase (pseudocholinesterase) within 5-10 minutes. Atypical pseudocholinesterase (BCHE gene mutation, autosomal recessive) fails to hydrolyze succinylcholine, prolonging paralysis. Confirmed by low dibucaine number (dibucaine inhibits normal pseudocholinesterase by 80%, but atypical by only 20%).',
+    citation: 'Andersson ML, et al. Prolonged succinylcholine-induced paralysis: a review. Acta Anaesthesiol Scand. 2019;63(7):844-852. PMID: 30873636.',
+    stem:
+      'A 29-year-old previously healthy woman undergoes rapid sequence induction of general anesthesia for an emergent appendectomy. Anesthesia is induced with intravenous propofol, fentanyl, and succinylcholine (1.5 mg/kg). The trachea is successfully intubated without complication, and the surgical procedure is completed in 35 minutes under sevoflurane maintenance. At the conclusion of the operation, the volatile anesthetic is discontinued; however, the patient remains completely paralyzed and apneic with no spontaneous respiratory effort or muscle twitches. Peripheral nerve stimulation using a train-of-four (TOF) monitor over the ulnar nerve elicits zero twitches out of four (0/4 twitches). Two hours later in the post-anesthesia care unit, while remaining intubated and mechanically ventilated, she continues to demonstrate complete flaccid neuromuscular blockade (0/4 twitches) with normal core body temperature (36.8 C), normal serum electrolytes, and normal arterial blood gas. A plasma enzyme assay demonstrates an abnormally low dibucaine inhibition number of 20% (normal: 75–85%). Which of the following enzymes is genetically abnormal in this patient?',
+    options: [
+      {
+        text: 'Plasma butyrylcholinesterase (pseudocholinesterase) synthesized by hepatocytes',
+        explanation: 'Succinylcholine is a depolarizing neuromuscular blocker composed of two linked acetylcholine molecules. Under normal physiology, it is rapidly metabolized within 5 to 10 minutes in the bloodstream by plasma butyrylcholinesterase (also known as pseudocholinesterase or plasma cholinesterase), synthesized by the liver. Atypical pseudocholinesterase is an autosomal recessive pharmacogenetic disorder (BCHE gene mutations) resulting in an enzyme with markedly reduced substrate affinity. Standard doses of succinylcholine or mivacurium persist in the circulation, causing prolonged flaccid paralysis and apnea lasting several hours. The dibucaine test differentiates normal enzyme (inhibited >80% by dibucaine) from homozygous atypical enzyme (inhibited <20%). Management is continued mechanical ventilation until the drug is eliminated.'
+      },
+      {
+        text: 'Red blood cell acetylcholinesterase anchored to erythrocyte membranes',
+        explanation: 'True acetylcholinesterase is concentrated at the neuromuscular junction synaptic cleft and erythrocyte membranes; it degrades acetylcholine with extreme speed but does not clear circulating succinylcholine in plasma.'
+      },
+      {
+        text: 'Skeletal muscle ryanodine receptor calcium-release channel (RYR1)',
+        explanation: 'Mutations in RYR1 cause malignant hyperthermia in response to succinylcholine and volatile anesthetics, characterized by hypercatabolism, severe muscle rigidity, hyperthermia, and rhabdomyolysis, which are absent here.'
+      },
+      {
+        text: 'Hepatic cytochrome P450 2D6 metabolizing lipophilic amine substrates',
+        explanation: 'CYP2D6 metabolizes codeine, beta-blockers, and antidepressants; it plays no role in succinylcholine hydrolysis.'
+      },
+      {
+        text: 'UDP-glucuronosyltransferase 1A1 conjugating lipid-soluble bilirubin',
+        explanation: 'UGT1A1 mutations cause Gilbert syndrome or Crigler-Najjar syndrome (unconjugated hyperbilirubinemia), unrelated to neuromuscular blockade.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0093',
+    exam: 'Step 1',
+    subject: 'Immunology',
+    system: 'Dermatology',
+    topic: 'Immunoglobulin A Vasculitis Leukocytoclastic Postcapillary Venulitis',
+    subtopic: 'Henoch-Schonlein Purpura Palpable Lesions and Mesangial Deposits',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 87,
+    shortestValidSolution:
+      'Recognize IgA vasculitis (Henoch-Schönlein purpura): classic tetrad of palpable purpura on buttocks/lower extremities, colicky abdominal pain (intussusception risk), arthralgias, and renal disease (hematuria). Follows an upper respiratory infection. Caused by galactose-deficient IgA1 immune complexes depositing in small vessels (dermal postcapillary venules and renal mesangium), producing leukocytoclastic vasculitis. Platelet count and coagulation profile are normal.',
+    citation: 'Ozen S, et al. EULAR/PRINTO/PRES criteria for Henoch-Schönlein purpura and childhood vasculitis. Ann Rheum Dis. 2010;69(5):798-806. PMID: 20413568.',
+    stem:
+      'A 7-year-old boy is brought to the pediatric urgent care clinic with a 2-day history of non-blanching red spots on his legs, crampy abdominal pain, and refusal to bear weight on his right knee. One week ago, he had a mild upper respiratory infection that resolved without treatment. Physical examination reveals an alert child who is afebrile with normal blood pressure. Dermatological examination reveals multiple raised, palpable, non-tender purpuric lesions and petechiae clustered symmetrically over his lower legs, ankles, and buttocks, with complete sparing of the trunk and face. The right knee and left ankle are mildly swollen and tender to palpation without warmth or erythema. Abdomen is soft with diffuse, mild periumbilical tenderness without guarding or rebound. Complete blood count reveals: hemoglobin 12.8 g/dL, white blood cell count 8,400/microL, and platelet count 285,000/microL (normal: 150,000–450,000/microL). Prothrombin time and activated partial thromboplastin time are normal. Urinalysis demonstrates 1+ protein, 2+ blood, and 10–15 RBCs/HPF without casts. Direct immunofluorescence microscopy of a skin punch biopsy obtained from a lower extremity lesion demonstrates which of the following findings?',
+    options: [
+      {
+        text: 'Granular deposition of immunoglobulin A and complement C3 in postcapillary dermal venule walls',
+        explanation: 'The patient has immunoglobulin A (IgA) vasculitis (Henoch-Schönlein purpura), the most common systemic vasculitis of childhood. The classic tetrad consists of: (1) palpable purpura on dependent lower extremities and buttocks without thrombocytopenia; (2) colicky abdominal pain (due to bowel wall edema/ischemia, predisposing to intussusception); (3) arthralgias/arthritis of large joints; and (4) renal disease (identical to IgA nephropathy). Pathogenesis involves mucosal antigen exposure triggering production of galactose-deficient IgA1, forming immune complexes that deposit in small postcapillary venules and renal mesangium, inciting leukocytoclastic neutrophilic inflammation with nuclear debris (karyorrhexis).'
+      },
+      {
+        text: 'Linear deposition of IgG along the basement membrane zone without complement',
+        explanation: 'Linear IgG basement membrane deposition characterizes anti-GBM disease (Goodpasture syndrome) or bullous pemphigoid, not pediatric palpable purpura with normal platelets.'
+      },
+      {
+        text: 'Intercellular "net-like" epidermal deposition of IgG targeting desmoglein-1',
+        explanation: 'Intercellular fishnet IgG deposition characterizes pemphigus foliaceus or pemphigus vulgaris, producing flaccid intraepidermal bullae rather than palpable purpuric venulitis.'
+      },
+      {
+        text: 'Absence of all immune complexes or complement deposition (pauci-immune pattern)',
+        explanation: 'Pauci-immune necrotizing vasculitis is characteristic of ANCA-associated vasculitides (granulomatosis with polyangiitis, microscopic polyangiitis), not IgA vasculitis.'
+      },
+      {
+        text: 'Dense vascular deposition of IgM and cold agglutinins with microthrombi',
+        explanation: 'IgM cold agglutinin deposition causes cold agglutinin autoimmune hemolytic anemia and acrocyanosis in response to Mycoplasma or EBV, not leukocytoclastic purpura on buttocks.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0094',
+    exam: 'Step 1',
+    subject: 'Physiology',
+    system: 'Gastrointestinal',
+    topic: 'Zollinger-Ellison Syndrome Parietal Cell CCK-B Hyperstimulation',
+    subtopic: 'Secretin Paradoxical Stimulation and Gastrinoma Localization',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Recognize Zollinger-Ellison syndrome (ZES / gastrinoma): neuroendocrine tumor (duodenum or pancreas) secreting unregulated gastrin -> acts on CCK-B receptors on parietal cells and ECL cells (histamine release) -> massive HCl secretion -> prominent rugal hypertrophy, multiple refractory peptic ulcers (especially distal to duodenal bulb), and diarrhea (acid inactivates pancreatic lipases). Diagnostic confirmation: Secretin stimulation test causes a paradoxical rise in serum gastrin (>120 pg/mL).',
+    citation: 'Ito T, et al. Current management and recent advances in Zollinger-Ellison syndrome. Curr Opin Gastroenterol. 2020;36(6):534-541. PMID: 32889985.',
+    stem:
+      'A 42-year-old man presents to the gastroenterology clinic with a 6-month history of severe burning epigastric abdominal pain and watery diarrhea (4–6 stools daily) that improves only partially with high-dose oral omeprazole. He has a history of recurrent peptic ulcer disease and underwent endoscopic clipping for a bleeding duodenal ulcer 4 months ago. Upper endoscopy reveals multiple deep peptic ulcers in the second and third portions of the duodenum and proximal jejunum, along with markedly thickened, hypertrophic gastric mucosal rugal folds. Baseline fasting serum gastrin concentration is markedly elevated at 1,450 pg/mL (normal: < 100 pg/mL) while gastric fluid pH is 1.2. Intravenous secretin is administered during a confirmatory diagnostic stimulation test; 10 minutes later, repeat serum gastrin rises sharply to 2,180 pg/mL. Gastrin directly stimulates which of the following cellular receptors on gastric parietal cells to increase hydrochloric acid secretion?',
+    options: [
+      {
+        text: 'Cholecystokinin-B (CCK-B) receptors coupled to Gq proteins mobilizing intracellular calcium',
+        explanation: 'The patient has Zollinger-Ellison syndrome (ZES) caused by a gastrin-secreting neuroendocrine tumor (gastrinoma), located most often in the "gastrinoma triangle" (duodenum, pancreas, porta hepatis). Gastrin stimulates gastric acid secretion through two distinct pathways: (1) direct binding to cholecystokinin-B (CCK-B / CCK2) receptors on the basolateral membrane of parietal cells, which are coupled to Gq proteins that activate phospholipase C, generating IP3 and mobilizing intracellular calcium to stimulate the apical H+/K+-ATPase proton pump; and (2) indirect binding to CCK-B receptors on enterochromaffin-like (ECL) cells, stimulating histamine release (which binds H2 receptors via Gs/cAMP). Secretin normally inhibits antral gastrin release, but in gastrinomas secretin paradoxically stimulates gastrin secretion.'
+      },
+      {
+        text: 'Histamine H2 receptors coupled to Gs proteins stimulating adenylyl cyclase and cAMP',
+        explanation: 'Histamine binds H2 receptors coupled to Gs/cAMP; while gastrin stimulates histamine release from ECL cells, gastrin itself binds CCK-B receptors, not H2 receptors.'
+      },
+      {
+        text: 'Muscarinic M3 acetylcholine receptors coupled to Gi proteins reducing adenylyl cyclase',
+        explanation: 'Acetylcholine released from postganglionic vagal fibers binds M3 receptors coupled to Gq (not Gi) to stimulate acid secretion.'
+      },
+      {
+        text: 'Prostaglandin EP3 receptors coupled to Gi proteins suppressing gastric acid output',
+        explanation: 'Prostaglandin E2 binds EP3 receptors on parietal cells coupled to Gi, which inhibits adenylyl cyclase and reduces acid secretion while stimulating mucosal mucus production.'
+      },
+      {
+        text: 'Somatostatin SSTR2 receptors coupled to Gq proteins triggering gastrin cleavage',
+        explanation: 'Somatostatin released from D cells binds SSTR2 receptors coupled to Gi, which exerts tonic inhibitory tone on both gastrin and acid release.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0095',
+    exam: 'Step 1',
+    subject: 'Pathology',
+    system: 'Musculoskeletal',
+    topic: 'Myasthenia Gravis Thymic Follicular Hyperplasia Pathology',
+    subtopic: 'Anticholinesterase Electrophysiology and Thymectomy Remission',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Recognize myasthenia gravis: fluctuating, fatigable skeletal muscle weakness worsening with activity (ptosis, diplopia, dysphagia, proximal limb weakness). Autoantibodies target postsynaptic nicotinic acetylcholine receptors (nAChR). Decremental response on low-frequency repetitive nerve stimulation. Thymic pathology: Thymic lymphoid follicular hyperplasia with germinal centers is present in 65-75% of patients (thymoma in 10-15%). Thymectomy improves symptoms and can induce remission by removing autoreactive T/B-cell interactions against myoid cells.',
+    citation: 'Gilhus NE. Myasthenia Gravis. N Engl J Med. 2016;375(26):2570-2581. PMID: 28029925.',
+    stem:
+      'A 28-year-old woman presents with fluctuating drooping of her left eyelid and horizontal double vision that worsens toward the end of each workday and resolves after a night of sleep. Over the past month, she has also noticed difficulty chewing tough meat and fatigue when brushing her hair. Physical examination demonstrates bilateral asymmetric ptosis that worsens after 60 seconds of sustained upward gaze (curtain sign). Repetitive nerve stimulation at 3 Hz demonstrates a 22% decremental decline in compound muscle action potential (CMAP) amplitude between the first and fifth electrical impulses. Serum testing is strongly positive for anti-acetylcholine receptor (AChR) binding and modulating antibodies. Contrast-enhanced chest CT demonstrates a soft-tissue fullness in the anterior mediastinum without an encapsulated discrete mass. The patient undergoes surgical resection of the anterior mediastinal tissue (extended thymectomy). Histopathological examination of the resected thymus is most likely to reveal which of the following findings?',
+    options: [
+      {
+        text: 'Medullary lymphoid follicular hyperplasia with active germinal center formation',
+        explanation: 'Myasthenia gravis is an autoimmune disorder mediated by IgG autoantibodies targeting postsynaptic nicotinic acetylcholine receptors (nAChR) at the motor endplate, triggering complement-mediated destruction of junctional folds. The thymus plays an essential role in pathogenesis: 65% to 75% of patients with generalized myasthenia gravis demonstrate thymic lymphoid follicular hyperplasia (presence of B-cell germinal centers in the thymic medulla), while 10% to 15% have a thymoma (epithelial neoplasm). The thymus contains myoid cells expressing nAChR antigens; germinal centers facilitate presentation of these self-antigens by dendritic cells to autoreactive T cells, promoting somatic hypermutation and autoantibody synthesis. Thymectomy is a proven disease-modifying therapy.'
+      },
+      {
+        text: 'Encapsulated lobulated proliferation of spindle-shaped epithelial cells lacking lymphocytes',
+        explanation: 'This describes type A thymoma, which occurs in older adults (ages 50–70) in 10–15% of myasthenia gravis patients, whereas young female patients predominantly exhibit thymic follicular hyperplasia.'
+      },
+      {
+        text: 'Extensive cystic degeneration with extensive caseating granulomatous necrosis',
+        explanation: 'Caseating granulomas indicate Mycobacterium tuberculosis infection, which does not mediate anti-nAChR autoimmunity.'
+      },
+      {
+        text: 'Aggressive sheets of immature CD4+/CD8+ double-positive lymphoblasts with high mitotic index',
+        explanation: 'This describes T-cell lymphoblastic lymphoma/leukemia, a malignant hematologic neoplasm presenting as an anterior mediastinal mass in adolescents, not thymic hyperplasia.'
+      },
+      {
+        text: 'Replacement of thymic parenchyma entirely by mature unilocular adipose tissue',
+        explanation: 'Complete involution with fatty replacement is normal physiological age-related thymic regression in healthy adults; in myasthenia gravis, abnormal germinal center follicular hyperplasia persists.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0096',
+    exam: 'Step 1',
+    subject: 'Biochemistry',
+    system: 'Gastrointestinal',
+    topic: 'Hereditary Fructose Intolerance Aldolase B Deficiency Mechanism',
+    subtopic: 'Phosphate Trapping and Gluconeogenesis Inhibition',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Distinguish Hereditary Fructose Intolerance (HFI) from Essential Fructosuria. Essential fructosuria (fructokinase deficiency) is completely benign and asymptomatic, causing fructose in urine. Hereditary fructose intolerance is caused by ALDOLASE B deficiency. Fructose-1-phosphate accumulates and traps intracellular inorganic phosphate (Pi), depleting cellular ATP and inhibiting both glycogenolysis and gluconeogenesis, producing profound hypoglycemia, vomiting, jaundice, and hepatomegaly following introduction of fruits/juice/sucrose into infant diet.',
+    citation: 'Ali M, et al. Hereditary fructose intolerance. J Med Genet. 1998;35(5):353-365. PMID: 9610797.',
+    stem:
+      'A 6-month-old female infant is brought to the emergency department for severe lethargy, profuse vomiting, and sweating that began 3 hours after her mother fed her fruit puree and apple juice for the first time. Up to this point, the infant had been exclusively breastfed and developed normally. Physical examination reveals an irritable, somnolent infant with mild scleral icterus and hepatomegaly palpable 4 cm below the right costal margin. Capillary blood glucose is 32 mg/dL. Urinalysis demonstrates a negative glucose oxidase dipstick test, but a copper reduction tablet test (Clinitest) is strongly positive for reducing substances. Serum electrolytes reveal an elevated anion gap metabolic acidosis with hyperuricemia and hypophosphatemia. Ingestion of fructose in this infant causes profound hypoglycemia primarily through which of the following biochemical mechanisms?',
+    options: [
+      {
+        text: 'Intracellular trapping of inorganic phosphate in fructose-1-phosphate inhibiting glycogenolysis and gluconeogenesis',
+        explanation: 'The infant has hereditary fructose intolerance (HFI), an autosomal recessive disorder caused by deficiency of aldolase B (fructose-1,6-bisphosphate aldolase). Fructokinase phosphorylates dietary fructose to fructose-1-phosphate using ATP. Without aldolase B to cleave fructose-1-phosphate into dihydroxyacetone phosphate (DHAP) and glyceraldehyde, fructose-1-phosphate accumulates in hepatocytes. This sequesters intracellular inorganic phosphate (Pi), halting ATP regeneration from ADP and AMP. High AMP is degraded to uric acid (hyperuricemia). Crucially, the depletion of free inorganic phosphate inhibits glycogen phosphorylase (halting glycogenolysis) and aldolase (halting gluconeogenesis), precipitating profound, life-threatening hypoglycemia upon weaning to fructose/sucrose.'
+      },
+      {
+        text: 'Inability to phosphorylate free fructose into fructose-1-phosphate in the intestinal mucosa',
+        explanation: 'Fructokinase deficiency causes essential fructosuria, an entirely benign and asymptomatic condition characterized by elevated urinary fructose without hypoglycemia or organ damage.'
+      },
+      {
+        text: 'Deficiency of galactose-1-phosphate uridylyltransferase leading to galactitol accumulation in the lens',
+        explanation: 'Classic galactosemia (GALT deficiency) presents in the first days of life upon exposure to breast milk or cow\'s milk formula (lactose), not upon introduction of fruits/table sugar.'
+      },
+      {
+        text: 'Uncoupling of oxidative phosphorylation via excessive free fructose accumulation in renal tubules',
+        explanation: 'Uncoupling dissipates mitochondrial proton gradients without trapping phosphate; HFI hypoglycemia is driven by inorganic phosphate depletion shutting down gluconeogenesis and glycogenolysis.'
+      },
+      {
+        text: 'Hyperinsulinemia triggered by fructose cross-activation of pancreatic beta-cell GLUT2 transporters',
+        explanation: 'Fructose does not stimulate pancreatic insulin secretion directly; the hypoglycemia in HFI is entirely hepatic in origin due to metabolic enzyme inhibition.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0097',
+    exam: 'Step 1',
+    subject: 'Anatomy',
+    system: 'Gastrointestinal',
+    topic: 'Femoral Canal Anatomy and High Hernial Incarceration Risk',
+    subtopic: 'Femoral Ring Boundaries and Inguinal Ligament Relationships',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Identify femoral hernia: bulge in groin below the inguinal ligament, inferolateral to the pubic tubercle, medial to the femoral vein. More common in elderly females. The femoral ring is bounded: anteriorly by inguinal ligament, posteriorly by pectineal (Cooper\'s) ligament, medially by lacunar ligament, and laterally by femoral vein. Because the femoral ring has unyielding rigid fibrous borders, femoral hernias carry the highest risk of incarceration and strangulation among all groin hernias.',
+    citation: 'Hope WW, et al. Guidelines for laparoscopic (TAPP) and endoscopic (TEP) treatment of inguinal and femoral hernia. Hernia. 2011;15(6):607-613. PMID: 21424683.',
+    stem:
+      'A 73-year-old multiparous woman presents to the emergency department with severe, crampy right groin and lower abdominal pain, accompanied by nausea and repeated bilious vomiting for 14 hours. Physical examination reveals abdominal distension with high-pitched hyperactive bowel sounds. Inspection of the right groin reveals a tender, non-reducible, walnut-sized mass located strictly inferior to the inguinal ligament and medial to the palpable femoral arterial pulse. The overlying skin is warm and mildly violaceous. Plain abdominal radiographs demonstrate multiple dilated small bowel loops with air-fluid levels and an absence of distal colonic gas, consistent with mechanical small bowel obstruction. Which of the following anatomical structures forms the immediate medial boundary of the narrow canal through which this patient’s herniated loop has protruded, explaining its high propensity for ischemic incarceration?',
+    options: [
+      {
+        text: 'Lacunar (Gimbernat) ligament',
+        explanation: 'The patient has a strangulated femoral hernia causing mechanical small bowel obstruction. Femoral hernias protrude through the femoral ring into the femoral canal, emerging below the inguinal ligament and medial to the femoral vein. Femoral hernias have the highest rate of incarceration and strangulation (~40%) of all groin hernias because the femoral ring is small and bordered by rigid, unyielding fibrous structures: (1) anteriorly: the inguinal (Poupart) ligament; (2) posteriorly: the pectineal (Cooper) ligament; (3) laterally: the femoral vein; and (4) medially: the sharp, crescentic lacunar (Gimbernat) ligament.'
+      },
+      {
+        text: 'Femoral vein adventitia',
+        explanation: 'The femoral vein forms the lateral boundary of the femoral canal; compression can cause leg edema, but the medial boundary is the lacunar ligament.'
+      },
+      {
+        text: 'Pectineal (Cooper) ligament',
+        explanation: 'The pectineal ligament is a thick fibrous band covering the pectineal line of the pubic bone that forms the rigid posterior boundary of the femoral ring, not the medial boundary.'
+      },
+      {
+        text: 'Inferior epigastric artery and vein',
+        explanation: 'The inferior epigastric vessels form the superolateral boundary of Hesselbach\'s triangle and differentiate indirect (lateral) from direct (medial) inguinal hernias above the inguinal ligament.'
+      },
+      {
+        text: 'Reflected inguinal ligament fibers (Colles ligament)',
+        explanation: 'The reflected inguinal ligament lies above the inguinal ligament at the external inguinal ring, not within the femoral canal.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0098',
+    exam: 'Step 1',
+    subject: 'Pathology',
+    system: 'Renal',
+    topic: 'Scleroderma Renal Crisis Endothelial Proliferation and Renin',
+    subtopic: 'Systemic Sclerosis Arcuate Arteriolopathy and ACE Inhibitors',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 89,
+    shortestValidSolution:
+      'Recognize scleroderma renal crisis (SRC): diffuse cutaneous systemic sclerosis (anti-RNA polymerase III or anti-Scl-70), presenting with abrupt onset malignant hypertension, oliguric acute renal failure, and microangiopathic hemolytic anemia with schistocytes. Pathogenesis: endothelial injury in renal arcuate/interlobular arteries -> "onion-skin" intimal thickening and myxoid fibroplasia -> luminal occlusion -> severe cortical hypoperfusion -> massive renin secretion by juxtaglomerular apparatus. Treatment is immediate ACE INHIBITORS (captopril). Corticosteroids are a major trigger for SRC.',
+    citation: 'Penn H, et al. Scleroderma renal crisis. QJM. 2007;100(8):485-494. PMID: 17616548.',
+    stem:
+      'A 48-year-old woman with a 3-year history of diffuse cutaneous systemic sclerosis (scleroderma) managed with low-dose oral prednisone (20 mg daily) presents to the emergency department with severe headache, blurred vision, and dyspnea. Her blood pressure is 214/118 mm Hg (baseline: 110/70 mm Hg) and heart rate is 96/min. Funduscopic examination demonstrates bilateral flame hemorrhages, cotton-wool spots, and optic disc edema (grade IV hypertensive retinopathy). Physical examination reveals taut, shiny, bound-down skin over her face, forearms, chest, and hands with sclerodactyly. Laboratory evaluation reveals: serum creatinine 3.8 mg/dL (baseline: 0.8 mg/dL), BUN 48 mg/dL, hemoglobin 8.6 g/dL (baseline 12.0 g/dL), platelet count 72,000/microL, and LDH 980 U/L. Peripheral blood smear confirms microangiopathic hemolytic anemia with numerous schistocytes (helmet cells). Serum renin level is markedly elevated. Which of the following pathological processes in the renal vasculature initiates this life-threatening crisis?',
+    options: [
+      {
+        text: 'Endothelial injury with concentric "onion-skin" intimal fibroplasia in interlobular arteries triggering hyperreninemia',
+        explanation: 'The patient has scleroderma renal crisis (SRC), a life-threatening complication occurring in up to 10% of patients with diffuse cutaneous systemic sclerosis (particularly those exposed to glucocorticoids or with anti-RNA polymerase III antibodies). The initial insult is endothelial cell activation and injury in renal arcuate and interlobular arteries, triggering platelet aggregation, release of PDGF and TGF-beta, and exuberant concentric smooth muscle proliferation with myxoid intimal expansion ("onion-skinning"). Luminal narrowing produces profound renal cortical hypoperfusion and ischemia, which triggers massive renin hypersecretion by juxtaglomerular cells, driving malignant hypertension. ACE inhibitors (e.g., short-acting captopril) are life-saving.'
+      },
+      {
+        text: 'Linear immune complex deposition of anti-glomerular basement membrane antibodies with crescent formation',
+        explanation: 'Anti-GBM disease produces rapidly progressive glomerulonephritis with cellular crescents, presenting with hematuria and hemoptysis, lacking malignant hypertension or microvascular onion-skinning.'
+      },
+      {
+        text: 'Granulomatous transmural necrotizing inflammation of medium-sized renal arteries',
+        explanation: 'Necrotizing arteritis characterizes polyarteritis nodosa (PAN) or granulomatosis with polyangiitis (GPA), distinct from non-inflammatory intimal fibroplasia in scleroderma.'
+      },
+      {
+        text: 'Cholesterol crystal clefts lodged within distal renal arterioles with eosinophiluria',
+        explanation: 'Atheroembolic renal disease produces biconvex needle-shaped cholesterol clefts following vascular catheterization, accompanied by eosinophiluria and livedo reticularis.'
+      },
+      {
+        text: 'Glomerular subepithelial immune complex deposits producing spike-and-dome basement membrane thickening',
+        explanation: 'Spike-and-dome subepithelial deposits characterize membranous nephropathy, causing heavy proteinuria (nephrotic syndrome) without abrupt malignant hypertension.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0099',
+    exam: 'Step 1',
+    subject: 'Pharmacology',
+    system: 'Nervous System',
+    topic: 'Acetazolamide Carbonic Anhydrase Inhibition and Proximal RTA',
+    subtopic: 'Aqueous Humor Formation and Hyperchloremic Acidosis',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Recognize acetazolamide: non-competitive reversible inhibitor of carbonic anhydrase. In the eye: inhibits carbonic anhydrase in ciliary body non-pigmented epithelium, decreasing HCO3- and aqueous humor formation to lower IOP. In the kidney: blocks carbonic anhydrase in the proximal convoluted tubule brush border and cytoplasm, wasting sodium bicarbonate and causing Type 2 (proximal) renal tubular acidosis, alkalinizing the urine, and producing systemic normal anion-gap (hyperchloremic) metabolic acidosis.',
+    citation: 'Supuran CT. Carbonic anhydrases: novel therapeutic applications for inhibitors and activators. Nat Rev Drug Discov. 2008;7(2):168-181. PMID: 18167490.',
+    stem:
+      'A 64-year-old woman with severe, medically refractory open-angle glaucoma is started on oral acetazolamide (250 mg twice daily) as adjunctive therapy while awaiting trabeculectomy. Four weeks later, she returns for follow-up. Her intraocular pressure has successfully decreased from 28 mm Hg to 17 mm Hg; however, she complains of mild fatigue, anorexia, and paresthesias in her fingertips and toes. Serum chemistry demonstrates: sodium 138 mEq/L, potassium 3.2 mEq/L (normal: 3.5–5.0 mEq/L), chloride 114 mEq/L (normal: 96–106 mEq/L), bicarbonate 16 mEq/L (normal: 22–28 mEq/L), and creatinine 1.0 mg/dL. Arterial blood gas confirms a normal anion gap metabolic acidosis. Urinalysis demonstrates an alkaline urine pH of 7.4. Which of the following describes the simultaneous physiological actions of acetazolamide responsible for both its ocular therapeutic benefit and its systemic acid-base disturbance?',
+    options: [
+      {
+        text: 'Inhibition of ciliary non-pigmented epithelial secretion and inhibition of proximal tubular bicarbonate reabsorption',
+        explanation: 'Acetazolamide is a potent reversible inhibitor of carbonic anhydrase (CA II intracellularly, CA IV on the apical membrane). In the eye, carbonic anhydrase in the non-pigmented ciliary epithelium produces bicarbonate required for aqueous humor secretion; CA inhibition suppresses aqueous production by ~50%, effectively lowering intraocular pressure. In the kidney, carbonic anhydrase in the proximal convoluted tubule is essential for reabsorbing filtered bicarbonate. Blocking proximal CA causes urinary bicarbonate wasting (Type 2 renal tubular acidosis), resulting in alkaline urine (pH > 7.0) and normal anion gap (hyperchloremic) metabolic acidosis, accompanied by hypokalemia due to increased distal delivery of sodium.'
+      },
+      {
+        text: 'Contraction of the ciliary muscle opening trabecular meshwork and inhibition of distal tubular hydrogen secretion',
+        explanation: 'Ciliary muscle contraction with trabecular opening is the mechanism of cholinergic miotics (pilocarpine); distal H+ secretion failure is Type 1 RTA (due to H+-ATPase defects).'
+      },
+      {
+        text: 'Alpha-2 adrenergic suppression of aqueous production and blockade of the thick ascending limb NKCC2 cotransporter',
+        explanation: 'Alpha-2 stimulation is the ocular mechanism of brimonidine; NKCC2 blockade is the mechanism of loop diuretics (furosemide), which cause hypokalemic metabolic alkalosis, not acidosis.'
+      },
+      {
+        text: 'Osmotic extraction of vitreous fluid and competitive antagonism of medullary collecting duct mineralocorticoid receptors',
+        explanation: 'Osmotic vitreous dehydration is achieved by IV mannitol; mineralocorticoid antagonism is the mechanism of spironolactone, which causes hyperkalemia and non-alkaline urine.'
+      },
+      {
+        text: 'Facilitation of uveoscleral outflow and inhibition of collecting duct epithelial sodium channels',
+        explanation: 'Uveoscleral outflow is increased by prostaglandin analogs (latanoprost); ENaC inhibition is the renal action of amiloride and triamterene.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s1-0100',
+    exam: 'Step 1',
+    subject: 'Biochemistry',
+    system: 'Hematology',
+    topic: 'Lead Poisoning Heme Synthesis Enzymes and Basophilic Stippling',
+    subtopic: 'Delta-ALA Dehydratase and Ferrochelatase Inhibition',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Recognize lead poisoning (plumbism): adult worker (battery plant, radiator repair, plumbing, old paint removal) presenting with abdominal colic ("lead colic"), wrist/foot drop (radial/peroneal neuropathy), nephropathy, microcytic anemia, and lead lines on gingivae (Burton lines). Lead directly inhibits two enzymes in heme synthesis: delta-aminolevulinic acid dehydratase (ALAD) and ferrochelatase, causing elevation of delta-ALA and zinc protoporphyrin. Peripheral blood smear demonstrates basophilic stippling due to lead inhibition of pyrimidine 5\'-nucleotidase, causing ribosomal RNA aggregation.',
+    citation: 'Flora G, et al. Toxicity of lead: A review with recent updates. Interdiscip Toxicol. 2012;5(2):47-58. PMID: 23118587.',
+    stem:
+      'A 46-year-old man who works at an automobile radiator repair and lead-acid battery recycling facility presents to the clinic with persistent crampy abdominal pain, constipation, fatigue, and memory lapses over the past 3 months. He also notes a recent weakness in his right hand, making it difficult to lift his wrist or open jars. Physical examination reveals a thin, bluish-purple hyperpigmented line along the gingival margin adjacent to his teeth (Burton line). Neurological examination demonstrates weakness of right wrist and finger extension (wrist drop) with normal sensory examination. Complete blood count reveals: hemoglobin 10.2 g/dL with MCV of 74 fL (microcytic hypochromic anemia) and normal white blood cell and platelet counts. Examination of the peripheral blood smear reveals prominent, coarse, dark blue granular inclusions distributed uniformly throughout the cytoplasm of erythrocytes (basophilic stippling). Serum testing confirms an elevated blood lead level of 68 mcg/dL (normal: < 5 mcg/dL). Lead toxicity produces this patient’s microcytic anemia by primarily inhibiting which of the following pairs of enzymes in the heme biosynthetic pathway?',
+    options: [
+      {
+        text: 'Delta-aminolevulinic acid dehydratase and ferrochelatase',
+        explanation: 'Lead poisoning (plumbism) causes microcytic hypochromic sideroblastic anemia by inhibiting two critical zinc-dependent enzymes in heme biosynthesis: (1) delta-aminolevulinic acid dehydratase (ALAD / porphobilinogen synthase), which converts delta-ALA to porphobilinogen, leading to accumulation of neurotoxic delta-ALA; and (2) ferrochelatase, which inserts ferrous iron (Fe2+) into protoporphyrin IX in the inner mitochondrial matrix, causing accumulation of free erythrocyte protoporphyrin (which binds zinc to form zinc protoporphyrin, ZPP). Furthermore, lead inhibits pyrimidine 5\'-nucleotidase, preventing ribosomal RNA degradation in reticulocytes and producing uniform cytoplasmic basophilic stippling.'
+      },
+      {
+        text: 'Delta-aminolevulinic acid synthase and uroporphyrinogen decarboxylase',
+        explanation: 'ALA synthase is the rate-limiting enzyme requiring vitamin B6 (inhibited by isoniazid); uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda with photosensitive blistering, neither being the primary target of lead.'
+      },
+      {
+        text: 'Porphobilinogen deaminase and coproporphyrinogen oxidase',
+        explanation: 'Porphobilinogen deaminase (hydroxymethylbilane synthase) deficiency causes acute intermittent porphyria (neurovisceral attacks without rash or basophilic stippling).'
+      },
+      {
+        text: 'Pyruvate kinase and glucose-6-phosphate dehydrogenase',
+        explanation: 'These are erythrocyte carbohydrate metabolic enzymes; their deficiencies cause normocytic hemolytic anemias, not microcytic anemia with basophilic stippling and zinc protoporphyrin elevation.'
+      },
+      {
+        text: 'Ribonucleotide reductase and thymidylate synthase',
+        explanation: 'These enzymes synthesize deoxynucleotides for DNA replication (inhibited by hydroxyurea and 5-fluorouracil), causing megaloblastic macrocytic anemia, not microcytic sideroblastic anemia.'
+      }
+    ]
+  }
+];

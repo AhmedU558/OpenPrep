@@ -1,0 +1,16 @@
+{
+  "environment": "stage",
+  "origin": "https://openprep-h0ozpa5ag-ahmedu558.vercel.app",
+  "readOnly": true,
+  "checkedAt": "2026-11-01T13:08:23.683Z",
+  "checks": [
+    "public landing page 200 and scripts load",
+    "deployed CSS contains approved sidebar, hero and decorative styles",
+    "unauthenticated dashboard redirects to functioning login page",
+    "test builder and question bank remain protected by login",
+    "public landing page fits 390px viewport"
+  ],
+  "pageErrors": [],
+  "failedResponses": [],
+  "passed": true
+}

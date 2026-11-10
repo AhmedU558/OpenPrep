@@ -24,7 +24,7 @@ export function ButtonLink({ variant = 'primary', size = 'md', className, ...p }
 }
 
 export function Card({ className, ...p }: ComponentProps<'div'>) {
-  return <div className={cx('rounded-xl border border-line bg-surface p-5', className)} {...p} />;
+  return <div className={cx('rounded-2xl border border-line bg-surface p-5 shadow-[0_3px_16px_-10px_rgba(20,55,42,0.18)] sm:p-6', className)} {...p} />;
 }
 
 export function Badge({ tone = 'neutral', className, ...p }: ComponentProps<'span'> & { tone?: 'neutral' | 'brand' | 'ok' | 'bad' | 'warn' }) {
@@ -36,7 +36,7 @@ export function PageHeader({ title, subtitle, actions }: { title: string; subtit
   return (
     <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
       <div>
-        <h1 className="text-2xl font-semibold tracking-tight">{title}</h1>
+        <h1 className="font-serif text-3xl font-medium tracking-tight sm:text-4xl">{title}</h1>
         {subtitle && <p className="mt-1 text-muted">{subtitle}</p>}
       </div>
       {actions && <div className="flex flex-wrap gap-2">{actions}</div>}
@@ -46,9 +46,9 @@ export function PageHeader({ title, subtitle, actions }: { title: string; subtit
 
 export function Stat({ label, value, hint }: { label: string; value: ReactNode; hint?: ReactNode }) {
   return (
-    <div className="rounded-xl border border-line bg-surface p-4">
+    <div className="rounded-2xl border border-line bg-surface p-5 shadow-[0_3px_16px_-10px_rgba(20,55,42,0.18)]">
       <div className="text-sm text-muted">{label}</div>
-      <div className="mt-1 text-2xl font-semibold tabular-nums">{value}</div>
+      <div className="mt-3 text-3xl font-semibold tracking-tight tabular-nums">{value}</div>
       {hint && <div className="mt-1 text-xs text-muted">{hint}</div>}
     </div>
   );

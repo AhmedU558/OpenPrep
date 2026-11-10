@@ -6,26 +6,76 @@ import type { ExamView } from '@/lib/exam/service';
 import { Alert, Button, cx } from '../ui';
 import { Dialog } from './tools';
 
+const PROMPT_CHIPS = [
+  'Why is the correct answer best?',
+  'Explain key distractor differences',
+  'Underlying pathophysiology',
+  'High-yield clinical takeaway',
+];
+
 function AskPanel({ questionId }: { questionId: string }) {
   const [q, setQ] = useState('');
   const [a, setA] = useState<{ ok: boolean; text: string } | null>(null);
   const [busy, setBusy] = useState(false);
-  const ask = async () => {
+
+  const askQuery = async (queryText: string) => {
+    if (queryText.trim().length < 3) return;
     setBusy(true);
     try {
-      const r = await fetch('/api/ai/ask', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ questionId, question: q }) });
+      const r = await fetch('/api/ai/ask', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ questionId, question: queryText }),
+      });
       const j = await r.json();
       setA(r.ok ? { ok: true, text: j.answer } : { ok: false, text: j.error ?? 'The assistant is unavailable.' });
-    } catch { setA({ ok: false, text: 'The assistant is unavailable.' }); }
-    finally { setBusy(false); }
+    } catch {
+      setA({ ok: false, text: 'The assistant is unavailable.' });
+    } finally {
+      setBusy(false);
+    }
   };
+
   return (
     <div className="mt-6 rounded-xl border border-line bg-surface p-4">
       <label htmlFor="ask" className="text-sm font-semibold">Ask the study assistant</label>
       <p className="text-xs text-muted">AI answers can be wrong. Check them against the explanation.</p>
-      <div className="mt-2 flex gap-2">
-        <input id="ask" value={q} onChange={(e) => setQ(e.target.value)} maxLength={1000} placeholder="e.g. Why isn't C correct?" className="h-10 w-full rounded-lg border border-line bg-bg px-3 text-sm" />
-        <Button size="sm" onClick={ask} disabled={busy || q.trim().length < 3}>{busy ? 'Thinking…' : 'Ask'}</Button>
+
+      <div className="mt-2.5 flex flex-wrap gap-1.5">
+        {PROMPT_CHIPS.map((chip) => (
+          <button
+            key={chip}
+            type="button"
+            disabled={busy}
+            onClick={() => {
+              setQ(chip);
+              void askQuery(chip);
+            }}
+            className="rounded-full border border-line bg-surface-2 px-2.5 py-1 text-xs text-muted transition-colors hover:border-brand hover:text-brand disabled:opacity-50"
+          >
+            {chip}
+          </button>
+        ))}
+      </div>
+
+      <div className="mt-3 flex gap-2">
+        <input
+          id="ask"
+          value={q}
+          onChange={(e) => setQ(e.target.value)}
+          onKeyDown={(e) => {
+            if (e.key === 'Enter' && !busy && q.trim().length >= 3) {
+              e.preventDefault();
+              void askQuery(q);
+            }
+          }}
+          maxLength={1000}
+          placeholder="e.g. Why isn't C correct?"
+          className="h-10 w-full rounded-lg border border-line bg-bg px-3 text-sm"
+        />
+        <Button size="sm" onClick={() => void askQuery(q)} disabled={busy || q.trim().length < 3}>
+          {busy ? 'Thinking…' : 'Ask'}
+        </Button>
       </div>
       {/* rendered as plain text, never as HTML */}
       {a && <p className={cx('mt-3 whitespace-pre-wrap text-sm', !a.ok && 'text-bad')}>{a.text}</p>}
