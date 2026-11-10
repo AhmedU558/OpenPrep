@@ -1,0 +1,414 @@
+{
+  "totalChecked": 39,
+  "bibliographicIdentityVerified": 39,
+  "decisiveClaimStatusSummary": {
+    "SUPPORTED": 36,
+    "PARTIALLY_SUPPORTED": 3,
+    "UNSUPPORTED": 0
+  },
+  "distractorExclusionStatusSummary": {
+    "SUPPORTED": 4,
+    "PARTIALLY_SUPPORTED": 14,
+    "UNSUPPORTED": 21
+  },
+  "overallOutcomeSummary": {
+    "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED": 18,
+    "PARTIALLY_SUPPORTED": 3,
+    "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL": 14,
+    "CLAIM_SUPPORTED_DISTRACTOR_SUPPORTED": 4
+  },
+  "missingFromNcbi": 0,
+  "mismatchesFlagged": 0,
+  "records": [
+    {
+      "code": "op-c-s1-1001",
+      "pmid": "3872065",
+      "exam": "Step 1",
+      "topic": "Homocystinuria Cystathionine Beta-Synthase Deficiency Pyridoxine Responsiveness",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s1-1002",
+      "pmid": "42234520",
+      "exam": "Step 1",
+      "topic": "Listeria monocytogenes ActA Actin-Based Motility and CSF Penetration",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s1-1003",
+      "pmid": "34175765",
+      "exam": "Step 1",
+      "topic": "Chronic Granulomatous Disease CYBB gp91phox Mutation Catalase Organisms",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s1-1004",
+      "pmid": "7563097",
+      "exam": "Step 1",
+      "topic": "Digoxin Toxicity Sodium-Potassium ATPase Inhibition and Fab Fragments",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s1-1005",
+      "pmid": "42989087",
+      "exam": "Step 1",
+      "topic": "Membranous Nephropathy M-Type Phospholipase A2 Receptor Podocyte Antigens",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s1-1006",
+      "pmid": "42993355",
+      "exam": "Step 1",
+      "topic": "Hypertrophic Cardiomyopathy Sarcomeric Mutations and Myofiber Disarray",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s1-1007",
+      "pmid": "42483935",
+      "exam": "Step 1",
+      "topic": "Neonatal Respiratory Distress Syndrome Dipalmitoylphosphatidylcholine",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s1-1008",
+      "pmid": "42933937",
+      "exam": "Step 1",
+      "topic": "Hereditary Hemochromatosis HFE C282Y Mutation Hepcidin Suppression",
+      "decisiveClaimStatus": "PARTIALLY_SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "PARTIALLY_SUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s1-1009",
+      "pmid": "42580739",
+      "exam": "Step 1",
+      "topic": "Multiple Endocrine Neoplasia Type 2B RET Proto-Oncogene M918T",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s1-1010",
+      "pmid": "42180722",
+      "exam": "Step 1",
+      "topic": "Paroxysmal Nocturnal Hemoglobinuria PIGA Mutation CD55 CD59 Deficiency",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s1-1011",
+      "pmid": "30598970",
+      "exam": "Step 1",
+      "topic": "Pemphigus Vulgaris Desmoglein-3 Autoantibodies and Intraepidermal Acantholysis",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "PARTIALLY_SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1001",
+      "pmid": "25662791",
+      "exam": "Step 2 CK",
+      "topic": "Stanford Type A Aortic Dissection Emergency Open Surgical Repair",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "PARTIALLY_SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1002",
+      "pmid": "41217492",
+      "exam": "Step 2 CK",
+      "topic": "Intermediate-High Risk Pulmonary Embolism Anticoagulation and Monitoring",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "PARTIALLY_SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1003",
+      "pmid": "42813038",
+      "exam": "Step 2 CK",
+      "topic": "Fulminant Clostridioides difficile Colitis High-Dose Vancomycin and Surgery",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_SUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1004",
+      "pmid": "42825583",
+      "exam": "Step 2 CK",
+      "topic": "Hepatorenal Syndrome-AKI Diagnosis Vasoconstrictor Therapy Terlipressin",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1005",
+      "pmid": "40953286",
+      "exam": "Step 2 CK",
+      "topic": "Refractory Status Epilepticus Continuous Intravenous Anesthetic Infusion",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1006",
+      "pmid": "42900579",
+      "exam": "Step 2 CK",
+      "topic": "Giant Cell Arteritis Anterior Ischemic Optic Neuropathy Methylprednisolone",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "PARTIALLY_SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1007",
+      "pmid": "42620825",
+      "exam": "Step 2 CK",
+      "topic": "Immune Thrombocytopenia Isolated Severe Thrombocytopenia IVIG Steroids",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "PARTIALLY_SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1008",
+      "pmid": "42671732",
+      "exam": "Step 2 CK",
+      "topic": "Infected Necrotizing Pancreatitis Minimally Invasive Step-Up Drainage",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_SUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1009",
+      "pmid": "42355556",
+      "exam": "Step 2 CK",
+      "topic": "Postpartum Hemorrhage Uterine Atony Intrauterine Balloon Tamponade",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "PARTIALLY_SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1010",
+      "pmid": "28356445",
+      "exam": "Step 2 CK",
+      "topic": "Kawasaki Disease Refractory to Initial IVIG Treatment Escalation",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1011",
+      "pmid": "42054269",
+      "exam": "Step 2 CK",
+      "topic": "Tension Pneumothorax Immediate Decompression and Tube Thoracostomy",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1012",
+      "pmid": "42659566",
+      "exam": "Step 2 CK",
+      "topic": "Neuroleptic Malignant Syndrome Severe Lead-Pipe Rigidity Dantrolene",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1013",
+      "pmid": "42875246",
+      "exam": "Step 2 CK",
+      "topic": "Thyroid Storm Burch-Wartofsky Multimodal Sequential Medical Therapy",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1014",
+      "pmid": "42663163",
+      "exam": "Step 2 CK",
+      "topic": "Ectopic Pregnancy Single-Dose Methotrexate Selection Criteria",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "PARTIALLY_SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1015",
+      "pmid": "42565049",
+      "exam": "Step 2 CK",
+      "topic": "Septic Shock Fluid-Refractory Hypotension Norepinephrine Vasopressin",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "PARTIALLY_SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1016",
+      "pmid": "42698784",
+      "exam": "Step 2 CK",
+      "topic": "Stevens-Johnson Syndrome Toxic Epidermal Necrolysis SCORTEN Burn ICU",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1017",
+      "pmid": "34792424",
+      "exam": "Step 2 CK",
+      "topic": "Acute Compartment Syndrome Delta Pressure Measurement Emergency Fasciotomy",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s2-1018",
+      "pmid": "10690485",
+      "exam": "Step 2 CK",
+      "topic": "Acute Angle-Closure Glaucoma Medical Decompression Laser Iridotomy",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "PARTIALLY_SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s3-1001",
+      "pmid": "42940478",
+      "exam": "Step 3",
+      "topic": "Deprescribing in Frail Older Adults STOPPFrail Criteria Glycemic Targets",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "PARTIALLY_SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s3-1002",
+      "pmid": "42925351",
+      "exam": "Step 3",
+      "topic": "Cardiorenal Syndrome Type 1 Loop Diuretic Escalation Venous Congestion",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_SUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s3-1003",
+      "pmid": "42906565",
+      "exam": "Step 3",
+      "topic": "Intention-to-Treat Principle Missing Outcome Data and Attrition Bias",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "PARTIALLY_SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s3-1004",
+      "pmid": "10720363",
+      "exam": "Step 3",
+      "topic": "Root Cause Analysis Systems Engineering and Swiss Cheese Safety Model",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_SUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s3-1005",
+      "pmid": "40940043",
+      "exam": "Step 3",
+      "topic": "Surrogate Decision-Making Substituted Judgment Advanced Directive",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_UNSUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s3-1006",
+      "pmid": "42324625",
+      "exam": "Step 3",
+      "topic": "USPSTF Colorectal Cancer Screening Modalities and Surveillance Intervals",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "PARTIALLY_SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s3-1007",
+      "pmid": "42946431",
+      "exam": "Step 3",
+      "topic": "Malignant Pleural Mesothelioma Asbestos Exposure Thoracoscopic Biopsy",
+      "decisiveClaimStatus": "PARTIALLY_SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "PARTIALLY_SUPPORTED",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s3-1008",
+      "pmid": "42768981",
+      "exam": "Step 3",
+      "topic": "Transition of Care High-Risk Medication Reconciliation 48-Hour Contact",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "PARTIALLY_SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s1-0902",
+      "pmid": "32644584",
+      "exam": "Step 1",
+      "topic": "Medial Midbrain Weber Syndrome Posterior Cerebral Artery Infarction",
+      "decisiveClaimStatus": "SUPPORTED",
+      "distractorExclusionStatus": "PARTIALLY_SUPPORTED",
+      "overallOutcome": "CLAIM_SUPPORTED_DISTRACTOR_PARTIAL",
+      "retrievalDate": "2026-11-08"
+    },
+    {
+      "code": "op-c-s1-0904",
+      "pmid": "24365430",
+      "exam": "Step 1",
+      "topic": "Tabes Dorsalis Treponema pallidum Dorsal Root Ganglion Atrophy",
+      "decisiveClaimStatus": "PARTIALLY_SUPPORTED",
+      "distractorExclusionStatus": "UNSUPPORTED",
+      "overallOutcome": "PARTIALLY_SUPPORTED",
+      "retrievalDate": "2026-11-08"
+    }
+  ]
+}

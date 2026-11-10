@@ -7,9 +7,11 @@ import { resolve } from 'node:path';
 if (!process.env.npm_execpath) throw new Error('Run via npm run compliance:provenance so the npm verification runtime is explicit.');
 const npmRequire = createRequire(process.env.npm_execpath);
 const sigstore = npmRequire('sigstore');
-const doc = JSON.parse(readFileSync('docs/audit/phase3-license-investigation.json', 'utf8'));
+const input = process.argv[2] || 'docs/audit/phase3-license-investigation.json';
+const output = process.argv[3] || 'docs/audit/phase3-provenance-verification.json';
+const doc = JSON.parse(readFileSync(input, 'utf8'));
 const prior = JSON.parse(readFileSync('docs/audit/dependency-compliance-evidence.json', 'utf8')).artifacts;
-const directory = 'docs/audit/phase3-provenance';
+const directory = process.argv[4] || 'docs/audit/phase3-provenance';
 mkdirSync(directory, { recursive: true });
 const results = [];
 for (const item of doc.packages.filter((p) => p.registryAttestation?.url)) {
@@ -45,7 +47,7 @@ for (const item of doc.packages.filter((p) => p.registryAttestation?.url)) {
   if (result.verified && item.licenseTexts.some((n) => n.fullGrantDetected && n.sourceBinding)) item.status = 'SIGNED_PROVENANCE_SOURCE_GRANT_CAPTURED';
   results.push(result);
 }
-writeFileSync('docs/audit/phase3-license-investigation.json', JSON.stringify(doc, null, 2) + '\n');
-writeFileSync(resolve('docs/audit/phase3-provenance-verification.json'), JSON.stringify({ date: '2026-10-30', npmRuntime: process.env.npm_execpath.replaceAll('\\', '/'), results }, null, 2) + '\n');
+writeFileSync(input, JSON.stringify(doc, null, 2) + '\n');
+writeFileSync(resolve(output), JSON.stringify({ date: '2026-10-30', npmRuntime: process.env.npm_execpath.replaceAll('\\', '/'), results }, null, 2) + '\n');
 console.log(JSON.stringify({ checked: results.length, verified: results.filter((r) => r.verified).length, failures: results.filter((r) => !r.verified).map((r) => ({ package: r.package, error: r.error })) }));
 if (results.some((r) => !r.verified)) process.exitCode = 1;

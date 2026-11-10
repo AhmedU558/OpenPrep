@@ -1,0 +1,26 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6",
+  "version": 1,
+  "metadata": {
+    "component": {
+      "type": "application",
+      "name": "OpenPrep container inventory",
+      "version": "0.1.0",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "openprep:coverage",
+        "value": "INCOMPLETE; see docs/audit/phase3-artifacts.json and RELEASE_ARTIFACT_COMPLIANCE.md"
+      }
+    ]
+  },
+  "components": []
+}

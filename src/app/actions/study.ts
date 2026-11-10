@@ -18,3 +18,18 @@ export async function reviewCardAction(id: string, rating: number, ms: number) {
 export async function createCollectionAction(name: string) { return action(async () => { const c = await study.createCollection(await me(), name); revalidatePath('/questions'); return c.id; }); }
 export async function collectionItemAction(collectionId: string, questionId: string, on: boolean) { return action(async () => { await study.setInCollection(await me(), collectionId, questionId, on); }); }
 export async function deleteCollectionAction(id: string) { return action(async () => { await study.deleteCollection(await me(), id); revalidatePath('/questions'); }); }
+
+export async function resetPracticeAction(input: unknown) {
+  return action(async () => {
+    const u = await requireUser();
+    const res = await study.resetPractice(u.id, input);
+    revalidatePath('/create');
+    revalidatePath('/questions');
+    return {
+      ok: true,
+      resetEventSeq: res.resetEventSeq.toString(),
+      scope: res.reset.scope,
+      affectedCount: res.reset.affectedQuestionIds.length,
+    };
+  });
+}

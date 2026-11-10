@@ -3,6 +3,7 @@ import type { Prisma } from '@/generated/prisma/client';
 import { db, type Tx } from './db';
 import type { Actor } from './admin';
 import { AppError } from './errors';
+import { getDeliverableQuestion } from './question-revision';
 
 // Neither an existing CC declaration nor an import can grant verification.
 export const deliveryRights = { rightsStatus: 'VERIFIED', rightsAllowDelivery: true } as const;
@@ -60,8 +61,9 @@ export async function reviewContentRights(actor: Actor, rawId: unknown, raw: unk
 }
 
 export async function requireQuestionDelivery(id: string) {
-  if (!await db.question.findFirst({ where: { id, ...deliveryRights }, select: { id: true } })) {
-    throw new AppError('NOT_FOUND', 'Question content is withheld pending rights review. Your saved attempt is preserved.');
+  const result = await getDeliverableQuestion(db, id);
+  if (!result.deliverable) {
+    throw new AppError('NOT_FOUND', result.reason ?? 'Question content is withheld pending rights review. Your saved attempt is preserved.');
   }
 }
 

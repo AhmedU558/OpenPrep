@@ -1,0 +1,1091 @@
+{
+  "at": "2026-10-30T14:56:23.034Z",
+  "references": [
+    {
+      "url": "https://www.heart.org/-/media/832EA0F4E73948848612F228F7FA2D35.pdf",
+      "codes": [
+        "op-s3-0001",
+        "op-s3-0002",
+        "op-s3-0003",
+        "op-s3-0004",
+        "op-s3-0005",
+        "op-s3-0029",
+        "op-s3-0051"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/",
+      "codes": [
+        "op-s3-0006",
+        "op-s3-0307",
+        "op-s3-0311",
+        "op-s3-0632"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.nhlbi.nih.gov/health/dash-eating-plan",
+      "codes": [
+        "op-s3-0007",
+        "op-s3-0008"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/07/17/19/06/2023-guideline-for-chronic-coronary-disease-gl-ccd",
+      "codes": [
+        "op-s3-0009",
+        "op-s3-0010",
+        "op-s3-0030",
+        "op-s3-0050",
+        "op-s3-0059"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2020/12/16/22/01/2020-acc-aha-vhd-gl-pt-3-gl-vhd",
+      "codes": [
+        "op-s3-0011",
+        "op-s3-0038"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://professional.heart.org/en/science-news/2023-acc-aha-accp-hrs-guideline-for-the-diagnosis-and-management-of-atrial-fibrillation",
+      "codes": [
+        "op-s3-0012",
+        "op-s3-0027"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acc.org/Latest-in-Cardiology/ten-points-to-remember/2024/05/06/15/12/2024-hypertrophic-cardiomyopathy-gl",
+      "codes": [
+        "op-s3-0013",
+        "op-s3-0014"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/01/19/14/49/2023-acc-consensus-on-cardiac-amyloidosis",
+      "codes": [
+        "op-s3-0015",
+        "op-s3-0040"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2024/09/23/04/15/2024-aha-acc-perioperative-guideline-gl",
+      "codes": [
+        "op-s3-0016",
+        "op-s3-0017"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2024/05/09/15/00/2024-guideline-for-lower-extremity-pad",
+      "codes": [
+        "op-s3-0018",
+        "op-s3-0019"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acc.org/Latest-in-Cardiology/ten-points-to-remember/2022/11/01/12/21/2022-Guideline-on-Aortic-Disease-2-gl-ad",
+      "codes": [
+        "op-s3-0020",
+        "op-s3-0037",
+        "op-s3-0060"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.nutrition.va.gov/NUTRITION/docs/UpdatedPatientEd/Warfarin_2022.pdf",
+      "codes": [
+        "op-s3-0021"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://ods.od.nih.gov/factsheets/vitaminK-HealthProfessional/",
+      "codes": [
+        "op-s3-0022"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix",
+      "codes": [
+        "op-s3-0023"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.nccih.nih.gov/health/licorice-root",
+      "codes": [
+        "op-s3-0024"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.nice.org.uk/guidance/cg32/chapter/Recommendations",
+      "codes": [
+        "op-s3-0025",
+        "op-s3-0653"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://ods.od.nih.gov/factsheets/magnesium-HealthProfessional/",
+      "codes": [
+        "op-s3-0026"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.heart.org/en/health-topics/heart-failure/treatment-options-for-heart-failure/lifestyle-changes-for-heart-failure",
+      "codes": [
+        "op-s3-0028",
+        "op-s3-0051"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.hsrd.research.va.gov/publications/management_briefs/default.cfm?ManagementBriefsMenu=eBrief-no219&eBriefTitle=In-Hospital+Sodium+Intake+for+Acute+Decompensated+Heart+Failure",
+      "codes": [
+        "op-s3-0029"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9364424/",
+      "codes": [
+        "op-s3-0031",
+        "op-s3-0032",
+        "op-s3-0033"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acc.org/Latest-in-Cardiology/ten-points-to-remember/2020/12/16/21/58/2020-ACC-AHA-VHD-GL-Pt-1-GL-VHD",
+      "codes": [
+        "op-s3-0034",
+        "op-s3-0054"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://professional.heart.org/en/science-news//-/media/PHD-Files-2/Science-News/2/2020/2020_ACC_AHA_Guideline_for_the_Management_of_Patients_with_Valvular_Heart_Disease_Slide_Set.pdf",
+      "codes": [
+        "op-s3-0035"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acc.org/latest-in-cardiology/articles/2022/08/10/12/06/clinical-applications-of-cardiac-mri-in-pericardial-diseases",
+      "codes": [
+        "op-s3-0036"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acc.org/Latest-in-Cardiology/ten-points-to-remember/2020/12/16/22/00/2020-ACC-AHA-VHD-GL-Pt-2-GL-VHD",
+      "codes": [
+        "op-s3-0039",
+        "op-s3-0055"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/Algorithm-PALS-Tachyarrhythmia-250117.pdf",
+      "codes": [
+        "op-s3-0041"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7807827/",
+      "codes": [
+        "op-s3-0042"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/Algorithm-ACLS-Tachycardia-250514.pdf",
+      "codes": [
+        "op-s3-0043"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://doi.org/10.1161/CIR.0000000000000628",
+      "codes": [
+        "op-s3-0044",
+        "op-s3-0058"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2020/03/30/12/17/takotsubo-syndrome",
+      "codes": [
+        "op-s3-0045"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.10.080",
+      "codes": [
+        "op-s3-0046"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.heart.org/-/media/files/health-topics/infective-endocarditis/infective-endocarditis-wallet-card.pdf",
+      "codes": [
+        "op-s3-0047"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=0b0be196-0c62-461c-94f4-9a35339b4501",
+      "codes": [
+        "op-s3-0048"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acc.org/Guidelines/Guidelines/2025/08/12/10/14/Diagnosis-and-Management-of-Pericarditis-CCG",
+      "codes": [
+        "op-s3-0049"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1308/",
+      "codes": [
+        "op-s3-0052"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+      "codes": [
+        "op-s3-0053",
+        "op-s3-0628"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2024/07/02/12/51/practical-guidance-for",
+      "codes": [
+        "op-s3-0053",
+        "op-s3-0056"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.nhlbi.nih.gov/health/long-qt-syndrome",
+      "codes": [
+        "op-s3-0057"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ahajournals.org/doi/10.1161/HYP.0000000000000249",
+      "codes": [
+        "op-s3-0061",
+        "op-s3-0062"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.heart.org/en/health-topics/cardiomyopathy/what-is-cardiomyopathy-in-adults/peripartum-cardiomyopathy-ppcm",
+      "codes": [
+        "op-s3-0063"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5957087/",
+      "codes": [
+        "op-s3-0064"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009",
+      "codes": [
+        "op-s3-0065",
+        "op-s3-0066",
+        "op-s3-0067",
+        "op-s3-0068",
+        "op-s3-0069",
+        "op-s3-0070"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ahajournals.org/doi/full/10.1161/STR.0000000000000098",
+      "codes": [
+        "op-s3-0301",
+        "op-s3-0302"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ahajournals.org/doi/10.1161/STR.0000000000000456",
+      "codes": [
+        "op-s3-0303"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ninds.nih.gov/health-information/disorders/epilepsy-and-seizures",
+      "codes": [
+        "op-s3-0304",
+        "op-s3-0305"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=valproic+acid",
+      "codes": [
+        "op-s3-0306"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/",
+      "codes": [
+        "op-s3-0308"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.tga.gov.au/news/safety-updates/peripheral-neuropathy-supplementary-vitamin-b6-pyridoxine",
+      "codes": [
+        "op-s3-0309"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/",
+      "codes": [
+        "op-s3-0310"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/",
+      "codes": [
+        "op-s3-0312"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ninds.nih.gov/health-information/disorders/parkinsons-disease",
+      "codes": [
+        "op-s3-0313"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11701286/",
+      "codes": [
+        "op-s3-0314"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/mmwr/volumes/70/rr/rr7002a1.htm",
+      "codes": [
+        "op-s3-0315"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5534a1.htm",
+      "codes": [
+        "op-s3-0316"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ninds.nih.gov/health-information/disorders/guillain-barre-syndrome",
+      "codes": [
+        "op-s3-0317"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.nhs.uk/conditions/lambert-eaton-myasthenic-syndrome/",
+      "codes": [
+        "op-s3-0318"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ninds.nih.gov/health-information/disorders/myasthenia-gravis",
+      "codes": [
+        "op-s3-0319"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.aan.com/siteassets/home-page/policy-and-guidelines/quality/quality-measures/12alsmeasurementset_pg.pdf",
+      "codes": [
+        "op-s3-0320"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://professional.heart.org/en/guidelines-and-statements",
+      "codes": [
+        "op-s3-0321"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ahajournals.org/doi/10.1161/STR.0000000000000457",
+      "codes": [
+        "op-s3-0322"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.idsociety.org/practice-guideline/vertebral-osteomyelitis/",
+      "codes": [
+        "op-s3-0323"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ninds.nih.gov/health-information/disorders/spinal-cord-infarction",
+      "codes": [
+        "op-s3-0324"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ahajournals.org/doi/10.1161/STR.0000000000000407",
+      "codes": [
+        "op-s3-0325"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ahajournals.org/doi/10.1161/STR.0000000000000436",
+      "codes": [
+        "op-s3-0326"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ninds.nih.gov/health-information/disorders/cerebral-aneurysms",
+      "codes": [
+        "op-s3-0327"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/bells-palsy/",
+      "codes": [
+        "op-s3-0328"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ninds.nih.gov/health-information/disorders/ramsay-hunt-syndrome",
+      "codes": [
+        "op-s3-0329"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ninds.nih.gov/sites/default/files/2025-07/NINDS_Headache_Booklet_Digital_508c%20%281%29.pdf",
+      "codes": [
+        "op-s3-0330"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/idiopathic-intracranial-hypertension",
+      "codes": [
+        "op-s3-0331"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12344528/",
+      "codes": [
+        "op-s3-0332"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.neurology.org/doi/full/10.1212/WNL.0000000000214881",
+      "codes": [
+        "op-s3-0333"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=topiramate",
+      "codes": [
+        "op-s3-0334"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.nidcd.nih.gov/health/menieres-disease",
+      "codes": [
+        "op-s3-0335"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.nidcd.nih.gov/health/sudden-deafness",
+      "codes": [
+        "op-s3-0336"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ninds.nih.gov/health-information/disorders/transverse-myelitis",
+      "codes": [
+        "op-s3-0337"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.aao.org/young-ophthalmologists/yo-info/article/yo-need-to-know-facing-pupil-abnormalities-without",
+      "codes": [
+        "op-s3-0338"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ninds.nih.gov/health-information/disorders/syringomyelia",
+      "codes": [
+        "op-s3-0339"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/condition/huntingtons-disease/",
+      "codes": [
+        "op-s3-0340"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://health.nih.gov/health-topics-a-z/meningitis-and-encephalitis",
+      "codes": [
+        "op-s3-0341",
+        "op-s3-0345"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK581826/",
+      "codes": [
+        "op-s3-0342"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/progressive?view=full",
+      "codes": [
+        "op-s3-0343"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/toxoplasmosis",
+      "codes": [
+        "op-s3-0344"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.va.gov/MS/LEARN_ABOUT_MULTIPLE_SCLEROSIS/Keep_Cool_Multiple_Sclerosis_and_Heat_Tolerance.asp",
+      "codes": [
+        "op-s3-0346"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.nhlbi.nih.gov/health/sleep-apnea/living-with",
+      "codes": [
+        "op-s3-0347"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://health.nih.gov/health-topics-a-z/narcolepsy",
+      "codes": [
+        "op-s3-0348"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.asahq.org/standards-and-practice-parameters/statement-on-post-dural-puncture-headache-management",
+      "codes": [
+        "op-s3-0349"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=be5f8ca6-7232-423a-a2d5-cccb7abe7921",
+      "codes": [
+        "op-s3-0350"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.nimh.nih.gov/health/publications/eating-disorders",
+      "codes": [
+        "op-s3-0391"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.psychiatry.org/patients-families/eating-disorders/what-are-eating-disorders/",
+      "codes": [
+        "op-s3-0392"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.health.ny.gov/diseases/conditions/mimds/diagnosis.htm",
+      "codes": [
+        "op-s3-0393"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10101189/",
+      "codes": [
+        "op-s3-0394"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.samhsa.gov/sites/default/files/quick-start-guide.pdf",
+      "codes": [
+        "op-s3-0395"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-strengthens-warning-untreated-constipation-caused-schizophrenia-medicine-clozapine-clozaril-can",
+      "codes": [
+        "op-s3-0396"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.asam.org/quality-care/clinical-guidelines/benzodiazepine-tapering",
+      "codes": [
+        "op-s3-0397"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.asam.org/quality-care/clinical-guidelines/alcohol-withdrawal-management-guideline",
+      "codes": [
+        "op-s3-0398"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.nimh.nih.gov/health/topics/mental-health-medications",
+      "codes": [
+        "op-s3-0399"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4",
+      "codes": [
+        "op-s3-0400"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/mmwr/volumes/73/rr/rr7304a1.htm",
+      "codes": [
+        "op-s3-0601",
+        "op-s3-0602",
+        "op-s3-0639"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/std/treatment-guidelines/pid.htm",
+      "codes": [
+        "op-s3-0603",
+        "op-s3-0608",
+        "op-s3-0638"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.idsociety.org/practice-guideline/asymptomatic-bacteriuria",
+      "codes": [
+        "op-s3-0604"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/index.php/recommendation/folic-acid-for-the-prevention-of-neural-tube-defects-preventive-medication",
+      "codes": [
+        "op-s3-0605"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/news/news-releases/2026/04/acog-publishes-updated-guidance-evaluation-postmenopausal-bleeding",
+      "codes": [
+        "op-s3-0606"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/05/the-role-of-transvaginal-ultrasonography-in-evaluating-the-endometrium-of-women-with-postmenopausal-bleeding",
+      "codes": [
+        "op-s3-0606"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/womens-health/faqs/group-b-strep-and-pregnancy",
+      "codes": [
+        "op-s3-0607"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/contraception/hcp/usspr/emergency-contraception.html",
+      "codes": [
+        "op-s3-0609"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.fda.gov/medical-devices/surgery-devices/endometrial-ablation-heavy-menstrual-bleeding",
+      "codes": [
+        "op-s3-0610"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/12/management-of-pregnant-women-with-presumptive-exposure-to-listeria-monocytogenes",
+      "codes": [
+        "op-s3-0611"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish",
+      "codes": [
+        "op-s3-0612"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-b12.html",
+      "codes": [
+        "op-s3-0613"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/womens-health/faqs/dysmenorrhea-painful-periods",
+      "codes": [
+        "op-s3-0614"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm",
+      "codes": [
+        "op-s3-0615"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/std/treatment-guidelines/trichomoniasis.htm",
+      "codes": [
+        "op-s3-0616"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/std/treatment-guidelines/chlamydia.htm",
+      "codes": [
+        "op-s3-0617"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/womens-health/faqs/uterine-fibroids",
+      "codes": [
+        "op-s3-0618"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/womens-health/faqs/evaluating-infertility",
+      "codes": [
+        "op-s3-0619",
+        "op-s3-0646"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.reproductivefacts.org/news-and-publications/fact-sheets-and-infographics/diagnostic-testing-for-infertility/",
+      "codes": [
+        "op-s3-0619"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.radiologyinfo.org/en/info/acs-eval-nipple-discharge",
+      "codes": [
+        "op-s3-0620"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/prostatitis-inflammation-prostate",
+      "codes": [
+        "op-s3-0621",
+        "op-s3-0622"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/penile-curvature-peyronies-disease",
+      "codes": [
+        "op-s3-0623"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cancer.gov/types/breast/breast-cancer-types/paget-disease-breast",
+      "codes": [
+        "op-s3-0624"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cancer.gov/types/testicular/hp/testicular-treatment-pdq",
+      "codes": [
+        "op-s3-0625"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+      "codes": [
+        "op-s3-0626"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.hematology.org/Resources/Patients/Anemia/Pregnancy",
+      "codes": [
+        "op-s3-0627"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/",
+      "codes": [
+        "op-s3-0629"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://ods.od.nih.gov/factsheets/iodine-HealthProfessional/",
+      "codes": [
+        "op-s3-0630"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK148970/",
+      "codes": [
+        "op-s3-0631"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2018/01/nausea-and-vomiting-of-pregnancy",
+      "codes": [
+        "op-s3-0632"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://medlineplus.gov/ency/article/001282.htm",
+      "codes": [
+        "op-s3-0633"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cancer.gov/types/breast/breast-cancer-types/inflammatory",
+      "codes": [
+        "op-s3-0634"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/womens-health/faqs/pelvic-support-problems",
+      "codes": [
+        "op-s3-0635"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/vaginal-vulvar-cancers/symptoms/index.html",
+      "codes": [
+        "op-s3-0636"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.auanet.org/documents/Guidelines/PDF/2024%20Guidelines/Male%20Infertility%20Unabridged%20Final.pdf",
+      "codes": [
+        "op-s3-0637"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer",
+      "codes": [
+        "op-s3-0640"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm",
+      "codes": [
+        "op-s3-0641"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/mmwr/volumes/73/rr/rr7301a1.htm",
+      "codes": [
+        "op-s3-0642"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis-pregnancy.htm",
+      "codes": [
+        "op-s3-0643"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://womenshealth.gov/a-z-topics/ovarian-cysts",
+      "codes": [
+        "op-s3-0644"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2021/02/breastfeeding-challenges",
+      "codes": [
+        "op-s3-0645"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/womens-health/faqs/Premenstrual-Syndrome",
+      "codes": [
+        "op-s3-0647"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/std/treatment-guidelines/anogenital-warts.htm",
+      "codes": [
+        "op-s3-0648"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-HE20_3000-PURL-gpo189870/pdf/GOVPUB-HE20_3000-PURL-gpo189870.pdf",
+      "codes": [
+        "op-s3-0649",
+        "op-s3-0650"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13618744/",
+      "codes": [
+        "op-s3-0651"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/",
+      "codes": [
+        "op-s3-0652",
+        "op-s3-0658"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/management-of-women-with-phenylalanine-hydroxylase-deficiency-phenylketonuria",
+      "codes": [
+        "op-s3-0654"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK572755/",
+      "codes": [
+        "op-s3-0655"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/womens-health/faqs/morning-sickness-nausea-and-vomiting-of-pregnancy",
+      "codes": [
+        "op-s3-0656"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.niddk.nih.gov/health-information/weight-management/healthy-eating-physical-activity-for-life/health-tips-for-pregnant-women",
+      "codes": [
+        "op-s3-0657"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/01/importance-of-social-determinants-of-health-and-cultural-awareness-in-the-delivery-of-reproductive-health-care",
+      "codes": [
+        "op-s3-0659"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    },
+    {
+      "url": "https://www.cdc.gov/toxoplasmosis/prevention/",
+      "codes": [
+        "op-s3-0660"
+      ],
+      "status": "claim-level support and recommendation currency require qualified review"
+    }
+  ],
+  "clinicallyVerifiedClaims": 0,
+  "sourceAccessEvidence": "See per-author reference notes; URL presence/source access is not clinical verification."
+}

@@ -1,0 +1,121 @@
+import json
+
+items_b15_p2 = [
+  # 0356
+  {
+    "code": "op-c-s1-0356",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "SIADH vs Cerebral Salt Wasting Volume Status Differentiation",
+    "subtopic": "Euvolemic Hyponatremia with Inappropriately Concentrated Urine and High Urine Sodium",
+    "provisionalDifficulty": 4,
+    "stem": "A 58-year-old man with small cell lung cancer presents with mild confusion and lethargy. Physical examination demonstrates moist mucous membranes, normal skin turgor, flat neck veins, and no peripheral edema or orthostatic blood pressure changes (clinically euvolemic). Serum sodium is 121 mEq/L (marked hyponatremia), serum osmolality is 248 mOsm/kg (hypoosmolar), and serum uric acid is 2.2 mg/dL (hypouricemia). Simultaneous spot urinalysis demonstrates urine osmolality 480 mOsm/kg (inappropriately elevated > 100 mOsm/kg) and urine sodium concentration 64 mEq/L (inappropriately elevated > 40 mEq/L). Thyroid and adrenal functions are normal. In this patient, which of the following physiological mechanisms explains why the patient maintains clinical euvolemia despite continuous, uninhibited antidiuretic hormone (ADH) secretion?",
+    "choices": [
+      ["Secondary volume expansion triggers release of atrial natriuretic peptide (ANP), promoting compensatory natriuresis and pressure diuresis ('aldosterone escape')", "Correct. Syndrome of Inappropriate Antidiuretic Hormone (SIADH) is characterized by autonomous, uninhibited ADH secretion (most commonly from ectopic small cell lung cancer, CNS disorders, or pulmonary infections). ADH stimulates V2 receptors in medullary collecting ducts, driving aquaporin-2 insertion and free water reabsorption. Initially, this causes water retention and subclinical volume expansion. CRUCIAL STEP 1 PATHOPHYSIOLOGY: Why doesn't the patient develop edema or hypervolemia? Because the subclinical volume expansion stretches atrial myocytes and renal juxtaglomerular cells, triggering: (1) Release of ATRIAL NATRIURETIC PEPTIDE (ANP) and brain natriuretic peptide (BNP); (2) Suppression of the renin-angiotensin-aldosterone system (RAAS); (3) Pressure natriuresis. The high ANP and low aldosterone stimulate marked urinary sodium and water excretion (COMPENSATORY NATRIURESIS; urine Na+ > 40 mEq/L). This natriuretic reset successfully expels excess intravascular volume, returning the patient to a state of CLINICAL EUVOLEMIA, but at the cost of worsening serum hyponatremia."],
+      ["Intrarenal vasoconstriction mediated by endothelin-1 leading to reduced glomerular filtration rate and sodium retention", "Endothelin vasoconstriction occurs in hepatorenal syndrome and acute kidney injury, causing oliguria and fluid retention with edema, not euvolemic hyponatremia."],
+      ["Primary hypothalamic thirst center ablation preventing free water intake and volume expansion", "Adipsia (loss of thirst) occurs with hypothalamic lesions and causes severe DEHYDRATION and HYPERNATREMIA, not euvolemic hyponatremia."],
+      ["Proximal tubular hyper-reabsorption of sodium and water driven by sympathetic adrenergic stimulation", "Proximal sodium reabsorption is enhanced in hypovolemia (causing urine Na+ < 20 mEq/L and high uric acid); in SIADH, volume expansion suppresses proximal reabsorption, leading to high urine Na+ and hypouricemia."],
+      ["Downregulation of apical urea transporters (UT-A1) in medullary collecting ducts causing osmotic diuresis", "Urea transporter alterations do not account for the systemic natriuretic reset driven by ANP in SIADH."]
+    ],
+    "shortestValidSolution": "Ectopic ADH (small cell lung cancer) + euvolemic hyponatremia + high urine Na+ -> SIADH (volume expansion stimulates ANP, causing natriuresis that preserves euvolemia).",
+    "necessaryInference": "SIADH causes euvolemic hyponatremia. Clinical euvolemia is maintained because subclinical volume expansion stimulates ANP and suppresses aldosterone, driving compensatory natriuresis ('aldosterone escape').",
+    "strongestDistractor": "Proximal tubular hyper-reabsorption of sodium and water driven by sympathetic adrenergic stimulation",
+    "distractorExclusion": "Proximal reabsorption is suppressed (not enhanced) by volume expansion in SIADH, which is why serum uric acid is low (< 4 mg/dL) and urine sodium is high (> 40 mEq/L).",
+    "citation": "Ellison DH, Berl T. The syndrome of inappropriate antidiuresis. N Engl J Med. 2007;356(20):2064-2072. PMID: 17507705."
+  },
+  # 0357
+  {
+    "code": "op-c-s1-0357",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Endocrine",
+    "topic": "Central vs Nephrogenic Diabetes Insipidus Water Deprivation Test",
+    "subtopic": "Desmopressin Challenge Distinguishing Posterior Pituitary Deficiency from V2 Receptor Resistance",
+    "provisionalDifficulty": 4,
+    "stem": "A 28-year-old man who sustained a severe closed head injury with a skull base fracture in a motorcycle collision 3 weeks ago presents with extreme polyuria (voiding 8 to 10 liters daily) and intense polydipsia. Laboratory evaluation demonstrates serum sodium 149 mEq/L and serum osmolality 308 mOsm/kg. Baseline urine osmolality is dilute at 110 mOsm/kg. A standardized water deprivation test is performed: despite 6 hours of strict water restriction and a 3% loss of body weight, his urine osmolality remains low at 125 mOsm/kg. Subcutaneous desmopressin (DDAVP, a synthetic V2 vasopressin agonist) is then administered. Two hours following desmopressin administration, his urine osmolality surges to 580 mOsm/kg (a > 300% increase), and urine volume drops sharply. Which of the following is the primary anatomical origin and pathophysiological mechanism of this patient's polyuria?",
+    "choices": [
+      ["Loss of neurohypophyseal antidiuretic hormone (vasopressin) storage and secretion following hypothalamic-pituitary tract transection (Central Diabetes Insipidus)", "Correct. Diabetes insipidus (DI) is characterized by polyuria, polydipsia, and inability to concentrate urine, leading to dilute urine (< 300 mOsm/kg) despite hyperosmolar serum. Master the WATER DEPRIVATION TEST AND DESMOPRESSIN CHALLENGE on USMLE Step 1: (1) After water restriction, urine osmolality fails to concentrate in both central and nephrogenic DI. (2) Administration of DESMOPRESSIN (DDAVP) definitively separates the two: (a) CENTRAL DI (present in this patient): Driven by deficiency of ADH synthesized in the supraoptic/paraventricular nuclei of the hypothalamus and stored/released from the POSTERIOR PITUITARY (neurohypophysis; commonly disrupted by head trauma, skull fractures, pituitary surgery, or histiocytosis). Because the renal collecting ducts possess normal, intact V2 receptors and aquaporin-2 channels, administration of exogenous desmopressin produces a DRAMATIC SURGE IN URINE OSMOLALITY (> 50% to 300% increase) and reduction in urine volume. (b) NEPHROGENIC DI: Driven by renal collecting duct resistance to ADH (lithium toxicity, hypercalcemia, AVPR2 receptor mutations). Administration of desmopressin produces NO OR MINIMAL RESPONSE (< 10% increase in urine osmolality)."],
+      ["Acquired loss-of-function mutation in the collecting duct V2 vasopressin receptor preventing aquaporin-2 apical translocation (Nephrogenic Diabetes Insipidus)", "Nephrogenic DI exhibits minimal or no response (< 10-50% increase) to exogenous desmopressin because the end-organ receptor is defective or blocked (e.g., by lithium), directly contradicting the >300% surge seen here."],
+      ["Compulsive water consumption suppressing medullary hypertonicity with intact endogenous ADH reserve (Primary Polydipsia)", "In primary polydipsia, water deprivation alone concentrates urine to > 500-600 mOsm/kg BEFORE desmopressin is given, and serum sodium is low or normal (< 137 mEq/L), not hypernatremic (149 mEq/L)."],
+      ["Osmotic diuresis secondary to impaired proximal tubular glucose reabsorption via sodium-glucose cotransporters", "Osmotic diuresis (diabetic ketoacidosis or SGLT2 inhibition) produces concentrated or iso-osmolar urine with high specific gravity, not dilute hypoosmolar urine."],
+      ["Accelerated enzymatic degradation of circulating vasopressin by placental vasopressinase", "Placental vasopressinase causes gestational diabetes insipidus in pregnancy, which does not apply to this male trauma patient."]
+    ],
+    "shortestValidSolution": "Polyuria after head trauma + dilute urine that surges >300% after desmopressin -> Central diabetes insipidus (posterior pituitary ADH deficiency).",
+    "necessaryInference": "Dilute urine despite hypernatremia + >50% surge in urine osmolality after DDAVP = Central DI. The trauma disrupted ADH release from the posterior pituitary, while renal V2 receptors remain fully functional.",
+    "strongestDistractor": "Acquired loss-of-function mutation in the collecting duct V2 vasopressin receptor preventing aquaporin-2 apical translocation (Nephrogenic Diabetes Insipidus)",
+    "distractorExclusion": "Nephrogenic DI fails to respond to desmopressin challenge because the end-organ kidney is refractory, whereas central DI responds with a dramatic surge in urine osmolality.",
+    "citation": "Robertson GL. Diabetes insipidus. Endocrinol Metab Clin North Am. 1995;24(3):549-572. PMID: 8468091."
+  },
+  # 0358
+  {
+    "code": "op-c-s1-0358",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Renal",
+    "topic": "Post-Streptococcal Glomerulonephritis Subepithelial Humps",
+    "subtopic": "Type III Hypersensitivity, C3 Depression, and Coarse Granular 'Starry Sky' Pattern",
+    "provisionalDifficulty": 4,
+    "stem": "An 8-year-old boy is brought to the clinic because of dark, smoky 'cola-colored' urine and puffiness around his eyes (periorbital edema) that began 2 days ago. Three weeks ago, he was treated for impetigo with honey-colored crusted facial lesions. Blood pressure is 142/92 mm Hg. Urinalysis demonstrates moderate proteinuria (1.2 g/24 hr), dysmorphic erythrocytes, and red blood cell casts. Serum laboratory evaluation reveals elevated anti-streptolysin O (ASO) and anti-DNase B titers, with marked depression of serum complement C3 (32 mg/dL; normal: 80-160 mg/dL) and normal C4. Renal biopsy is performed. Which of the following combinations of light microscopy, immunofluorescence, and electron microscopy findings is diagnostic of this patient's nephritic condition?",
+    "choices": [
+      ["Light microscopy: diffuse endocapillary hypercellularity; Immunofluorescence: coarse granular 'starry sky' IgG and C3 deposition; Electron microscopy: large subepithelial electron-dense 'humps'", "Correct. Post-Streptococcal Glomerulonephritis (PSGN) is a classic Type III immune complex-mediated hypersensitivity reaction that develops 1 to 3 weeks after streptococcal pharyngitis or 3 to 6 weeks after impetigo (caused by group A beta-hemolytic streptococci; Streptococcus pyogenes expressing nephritogenic M-protein serotypes). Nephritogenic streptococcal antigens (speB, NAPIr) deposit in glomerular basement membranes, triggering in situ immune complex formation and classical/alternative complement activation, driving MARKED CONSUMPTION AND DEPRESSION OF SERUM C3 (C4 remains normal). Diagnostic triad on renal biopsy: (1) LIGHT MICROSCOPY: Diffusely enlarged, hypercellular glomeruli with endocapillary proliferation of endothelial and mesangial cells and neutrophilic infiltration; (2) IMMUNOFLUORESCENCE: Coarse granular deposition of IgG, IgM, and C3 along the GBM and mesangium, creating a characteristic 'starry sky' or 'lumpy-bumpy' appearance; (3) ELECTRON MICROSCOPY: Large, discrete SUBEPITHELIAL ELECTRON-DENSE 'HUMPS' (immune complexes between the GBM and overlying podocyte foot processes)."],
+      ["Light microscopy: normal glomeruli; Immunofluorescence: completely negative; Electron microscopy: diffuse effacement of visceral epithelial foot processes", "This describes Minimal Change Disease, which presents with nephrotic syndrome (massive selective proteinuria, severe edema) and normal complement levels, without gross hematuria or red cell casts."],
+      ["Light microscopy: mesangial expansion with IgA deposition; Immunofluorescence: predominant mesangial IgA and C3; Electron microscopy: mesangial electron-dense deposits", "This describes IgA nephropathy (Berger disease), which presents within 1 to 2 days of a respiratory infection ('synpharyngitic'), has normal serum C3, and exhibits purely mesangial deposits."],
+      ["Light microscopy: crescentic cellular proliferation in Bowman space; Immunofluorescence: smooth linear IgG staining along the GBM; Electron microscopy: no electron-dense deposits", "This describes Anti-GBM / Goodpasture disease, characterized by linear immunofluorescence against alpha-3 Type IV collagen, without granular humps or low C3."],
+      ["Light microscopy: diffuse glomerular basement membrane thickening with 'spike and dome' pattern; Immunofluorescence: fine granular subepithelial IgG; Electron microscopy: subepithelial deposits with basement membrane spikes", "This describes Membranous Nephropathy, a nephrotic syndrome characterized by subepithelial spikes (anti-PLA2R antibodies), without low C3 or post-streptococcal cola-colored urine."]
+    ],
+    "shortestValidSolution": "Cola-colored urine 3 weeks post-impetigo + low C3 -> PSGN (light microscopy: hypercellularity; IF: granular 'starry sky' IgG/C3; EM: subepithelial humps).",
+    "necessaryInference": "Identify PSGN from timing post-impetigo (3 weeks), nephritic sediment (RBC casts), and low C3. Match the pathognomonic renal biopsy findings: subepithelial electron-dense humps on EM and granular starry-sky IgG/C3 on IF.",
+    "strongestDistractor": "Light microscopy: mesangial expansion with IgA deposition; Immunofluorescence: predominant mesangial IgA and C3; Electron microscopy: mesangial electron-dense deposits",
+    "distractorExclusion": "IgA nephropathy occurs concurrently with infections (1-2 days synpharyngitic), has normal C3, and features mesangial IgA deposits, whereas PSGN has a 2-4 week latency, low C3, and subepithelial humps.",
+    "citation": "Rodriguez-Iturbe B, Musser JM. The current state of poststreptococcal glomerulonephritis. J Am Soc Nephrol. 2008;19(10):1855-1864. PMID: 18667731."
+  },
+  # 0359
+  {
+    "code": "op-c-s1-0359",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Minimal Change Disease Podocyte Effacement and Selective Albuminuria",
+    "subtopic": "T-Cell Cytokine-Mediated Loss of Glomerular Polyanion Charge Barrier",
+    "provisionalDifficulty": 4,
+    "stem": "A 4-year-old boy is brought to the pediatrician by his mother because of progressive abdominal distension and swollen eyelids that are most severe in the morning. Physical examination reveals marked periorbital edema, scrotal edema, and shifting dullness on abdominal percussion (ascites). Blood pressure is normal at 96/60 mm Hg. Urinalysis demonstrates 4+ proteinuria, with zero red blood cells, zero white blood cells, and no cellular casts. 24-hour urine collection confirms massive proteinuria of 4.8 g/24 hr. Serum albumin is 1.8 g/dL (severe hypoalbuminemia), and total cholesterol is 340 mg/dL. Urine protein electrophoresis demonstrates that > 90% of the excreted protein is albumin, with negligible amounts of high-molecular-weight globulins (highly selective proteinuria). The child is prescribed a trial of oral prednisone and experiences complete resolution of proteinuria within 3 weeks. In this patient, the loss of selective glomerular filtration permselectivity is primarily caused by which of the following molecular alterations?",
+    "choices": [
+      ["T-cell derived cytokine-mediated loss of negatively charged heparan sulfate proteoglycans on the glomerular basement membrane and diffuse effacement of podocyte foot processes", "Correct. Minimal Change Disease (MCD; nil disease) is the most common cause of NEPHROTIC SYNDROME in children (accounting for > 80% of pediatric cases). The pathogenesis is driven by immune dysregulation (systemic T-cell dysfunction releasing circulating permeability cytokines, such as IL-13 or hemopexin). These cytokines cause: (1) Neutralization and loss of negatively charged POLYANIONS (heparan sulfate proteoglycans and podocalyxin) on the glomerular capillary filtration barrier. Because albumin is negatively charged at physiological pH, loss of the electrostatic charge barrier permits massive filtration of albumin, producing characteristically HIGHLY SELECTIVE ALBUMINURIA (without larger globulins); (2) Cytoskeletal disruption of visceral epithelial cells, resulting in DIFFUSE EFFACEMENT (flattening and retraction) OF PODOCYTE FOOT PROCESSES. Renal biopsy findings: LIGHT MICROSCOPY: Completely normal glomeruli (hence 'minimal change'); IMMUNOFLUORESCENCE: Completely negative (no immunoglobulin or complement deposition); ELECTRON MICROSCOPY: Diffuse effacement of podocyte foot processes. MCD has a rapid and complete response to CORTICOSTEROID therapy in > 90% of pediatric patients."],
+      ["Subendothelial deposition of circulating immune complexes activating the classical complement cascade", "Subendothelial immune complex deposition is seen in MPGN and lupus nephritis Class IV, producing nephritic syndrome with low C3 and cellular proliferation, not steroid-responsive pure selective proteinuria."],
+      ["Autosomal dominant mutation in the podocin (NPHS2) gene causing focal segmental sclerosis", "Podocin/nephrin mutations cause congenital or genetic focal segmental glomerulosclerosis (FSGS), which is steroid-resistant and features non-selective proteinuria."],
+      ["Anti-phospholipase A2 receptor (PLA2R) autoantibodies binding in situ to podocyte surface antigens", "Anti-PLA2R antibodies cause Membranous Nephropathy (subepithelial spikes on silver stain, non-selective proteinuria, adult onset), not pediatric minimal change disease."],
+      ["Non-enzymatic glycation of collagen leading to selective efferent arteriolar hyalinosis", "Non-enzymatic glycation causes diabetic nephropathy (Kimmelstiel-Wilson nodules), not pediatric selective albuminuria."]
+    ],
+    "shortestValidSolution": "Child with nephrotic syndrome + highly selective albuminuria + rapid steroid response -> Minimal Change Disease (loss of negative charge barrier + podocyte foot process effacement).",
+    "necessaryInference": "Pediatric nephrotic syndrome + selective albuminuria + steroid responsiveness = Minimal Change Disease. The pathophysiology is T-cell cytokine-mediated loss of negative charge barrier (heparan sulfate) and diffuse podocyte effacement on electron microscopy.",
+    "strongestDistractor": "Autosomal dominant mutation in the podocin (NPHS2) gene causing focal segmental sclerosis",
+    "distractorExclusion": "Podocin mutations cause FSGS, which presents with non-selective proteinuria and is notoriously steroid-resistant, whereas MCD features selective albuminuria and excellent steroid response.",
+    "citation": "Vivarelli M, Massella L, Ruggiero B, Emma F. Minimal Change Disease. Clin J Am Soc Nephrol. 2017;12(2):332-345. PMID: 27940460."
+  },
+  # 0360
+  {
+    "code": "op-c-s1-0360",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Focal Segmental Glomerulosclerosis APOL1 Risk and Non-Selective Proteinuria",
+    "subtopic": "Segmental Sclerosis, Hyalinosis, and Podocyte Foot Process Effacement",
+    "provisionalDifficulty": 4,
+    "stem": "A 32-year-old African American man with a history of HIV infection on antiretroviral therapy (CD4 count 320/mcL, viral load undetectable) presents with worsening lower extremity edema, frothy urine, and fatigue. Blood pressure is 148/92 mm Hg. Urinalysis demonstrates 4+ protein, trace blood, and lipid droplets under polarized microscopy ('Maltese cross' appearance). 24-hour urine collection reveals 7.6 g of protein. Serum albumin is 2.1 g/dL, and serum creatinine has risen from a baseline of 0.9 mg/dL to 1.8 mg/dL. Urine protein electrophoresis reveals a mixed pattern containing high concentrations of both albumin and high-molecular-weight gamma-globulins (non-selective proteinuria). Genetic testing identifies homozygous G1/G1 risk alleles in the APOL1 (apolipoprotein L1) gene. Renal biopsy demonstrates sclerosis affecting some but not all glomeruli, and within affected glomeruli, only a portion of the capillary tuft shows collapse, extracellular matrix deposition, and hyalinosis. Immunofluorescence shows non-specific focal entrapment of IgM and C3 in sclerotic areas. Which of the following electron microscopic findings is most characteristic of this condition?",
+    "choices": [
+      ["Diffuse effacement of podocyte foot processes with podocyte detachment and denudation of the underlying glomerular basement membrane", "Correct. Focal Segmental Glomerulosclerosis (FSGS) is the most common cause of nephrotic syndrome in African American adults and in patients with HIV infection (HIV-associated nephropathy; collapsing glomerulopathy variant), sickle cell disease, massive obesity, or heroin use. APOL1 G1/G2 risk variants confer natural immunity to African trypanosomes (sleeping sickness), but induce podocyte autophagy and membrane pore formation, driving genetic predisposition to FSGS. Hallmarks on renal biopsy: (1) LIGHT MICROSCOPY: FOCAL (affecting some, but not all, glomeruli) and SEGMENTAL (affecting only a portion of the capillary tuft in involved glomeruli) sclerosis, capillary collapse, and hyalinosis (entrapped plasma proteins); (2) IMMUNOFLUORESCENCE: Usually negative, but may show non-specific mechanical trapping of IgM and C3 in sclerotic scars; (3) ELECTRON MICROSCOPY: DIFFUSE EFFACEMENT OF PODOCYTE FOOT PROCESSES, along with podocyte hypertrophy, detachment, and focal DENUDATION of the bare glomerular basement membrane. Unlike minimal change disease, FSGS features NON-SELECTIVE PROTEINURIA, microhematuria, hypertension, frequent renal insufficiency, and POOR RESPONSE TO CORTICOSTEROIDS (frequent progression to end-stage renal disease)."],
+      ["Marked subendothelial electron-dense immune deposits with duplication and 'tram-track' splitting of the glomerular basement membrane", "This describes Membranoproliferative Glomerulonephritis (MPGN Type I), which features subendothelial deposits and mesangial interposition, not focal segmental sclerosis."],
+      ["Subepithelial electron-dense deposits embedded between projection spikes of glomerular basement membrane material", "This describes Membranous Nephropathy (spike and dome pattern on silver stain), which affects all capillary loops diffusely."],
+      ["Extensive linear deposition of immune complexes along the lamina densa of the glomerular basement membrane", "Linear GBM deposition is the pathognomonic hallmark of Anti-GBM / Goodpasture disease on immunofluorescence; FSGS has negative or non-specific entrapment."],
+      ["Randomly oriented, non-branching extracellular fibrils measuring 8 to 10 nm in diameter within the mesangium", "This describes Renal Amyloidosis, which features Congo red positivity and apple-green birefringence under polarized light, not segmental sclerosis."]
+    ],
+    "shortestValidSolution": "African American HIV patient + nephrotic syndrome + APOL1 risk + segmental sclerosis/hyalinosis -> FSGS (podocyte foot process effacement and detachment).",
+    "necessaryInference": "Segmental sclerosis affecting some glomeruli + APOL1 risk in HIV = FSGS. The primary electron microscopic lesion is diffuse podocyte foot process effacement with podocyte detachment and bare GBM denudation.",
+    "strongestDistractor": "Subepithelial electron-dense deposits embedded between projection spikes of glomerular basement membrane material",
+    "distractorExclusion": "Subepithelial spikes describe membranous nephropathy, whereas FSGS lacks immune complex deposits and displays segmental scarring with podocyte detachment.",
+    "citation": "D'Agati VD, Kaskel FJ, Falk RJ. Focal segmental glomerulosclerosis. N Engl J Med. 2011;365(25):2398-2411. PMID: 22187987."
+  }
+]
+
+print(f"Loaded {len(items_b15_p2)} items for Batch 15 part 2.")
