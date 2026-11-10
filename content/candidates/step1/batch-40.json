@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s1-0976",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Gastrointestinal",
+    "topic": "Crigler-Najjar Type II Phenobarbital UGT1A1 Enzyme Induction",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 3-week-old male infant is brought to the clinic for persistent jaundice. He was born at full term without complications. Total serum bilirubin is 14.2 mg/dL, and direct (conjugated) bilirubin is 0.8 mg/dL. Hemoglobin and reticulocyte count are normal, and direct antiglobulin test is negative. Aspartate aminotransferase and alanine aminotransferase are within normal limits. A 2-week trial of oral phenobarbital is initiated, resulting in a 40% reduction in serum bilirubin down to 8.4 mg/dL. Which of the following best describes the molecular defect and the mechanism of clinical response in this patient?",
+    "options": [
+      {
+        "text": "Partial deficiency of UDP-glucuronosyltransferase with CAR-mediated enzyme induction",
+        "correct": true,
+        "explanation": "This patient has Crigler-Najjar syndrome type II (Arias syndrome), characterized by moderate unconjugated hyperbilirubinemia (typically 10-20 mg/dL) caused by missense mutations leading to partial deficiency of UDP-glucuronosyltransferase (UGT1A1). Administration of phenobarbital binds and activates the constitutive androstane receptor (CAR), a nuclear receptor that translocates to the nucleus, heterodimerizes with the retinoid X receptor (RXR), and induces transcription of the UGT1A1 gene. The resultant increase in residual UGT1A1 enzyme synthesis reduces serum unconjugated bilirubin by >25-30%. In contrast, Crigler-Najjar type I is caused by null/frameshift mutations resulting in zero UGT1A1 activity; therefore, phenobarbital cannot induce functional enzyme, bilirubin remains >20 mg/dL, and patients require phototherapy or liver transplantation to prevent kernicterus."
+      },
+      {
+        "text": "Complete absence of canalicular MRP2 transporter with nuclear PXR upregulation",
+        "correct": false,
+        "explanation": "Dubin-Johnson syndrome is caused by homozygous mutations in the canalicular multidrug resistance-associated protein 2 (ABCC2/MRP2), producing conjugated (direct) hyperbilirubinemia with a grossly black liver, not unconjugated hyperbilirubinemia responsive to phenobarbital."
+      },
+      {
+        "text": "Impaired basolateral organic anion transporting polypeptide with CAR induction",
+        "correct": false,
+        "explanation": "Rotor syndrome is an autosomal recessive disorder caused by deficiency of the basolateral hepatic reuptake transporters OATP1B1 and OATP1B3 (SLCO1B1/SLCO1B3), causing conjugated hyperbilirubinemia without hepatic pigmentation."
+      },
+      {
+        "text": "UGT1A1 promoter TATAA box dinucleotide insertion with glucocorticoid receptor activation",
+        "correct": false,
+        "explanation": "Gilbert syndrome is caused by a homozygous TATAA element insertion (A(TA)7TAA vs normal A(TA)6TAA) in the UGT1A1 promoter, reducing transcription by 60-70%. While phenobarbital can reduce bilirubin, Gilbert syndrome typically manifests as mild intermittent jaundice (bilirubin <3 mg/dL) triggered by fasting, stress, or illness in adolescents/adults, not persistent marked infantile hyperbilirubinemia of 14 mg/dL."
+      },
+      {
+        "text": "Complete absence of microsomal heme oxygenase with failure of porphyrin ring cleavage",
+        "correct": false,
+        "explanation": "Heme oxygenase deficiency is an exceedingly rare condition that prevents conversion of heme to biliverdin, producing hemolytic anemia, splenomegaly, and tissue iron deposition, rather than isolated unconjugated hyperbilirubinemia."
+      }
+    ],
+    "explanation": "This patient has Crigler-Najjar syndrome type II (Arias syndrome), characterized by moderate unconjugated hyperbilirubinemia (typically 10-20 mg/dL) caused by missense mutations leading to partial deficiency of UDP-glucuronosyltransferase (UGT1A1). Administration of phenobarbital binds and activates the constitutive androstane receptor (CAR), a nuclear receptor that translocates to the nucleus, heterodimerizes with the retinoid X receptor (RXR), and induces transcription of the UGT1A1 gene. The resultant increase in residual UGT1A1 enzyme synthesis reduces serum unconjugated bilirubin by >25-30%. In contrast, Crigler-Najjar type I is caused by null/frameshift mutations resulting in zero UGT1A1 activity; therefore, phenobarbital cannot induce functional enzyme, bilirubin remains >20 mg/dL, and patients require phototherapy or liver transplantation to prevent kernicterus. Unconjugated hyperbilirubinemia + 40% drop with phenobarbital = Crigler-Najjar type II (partial UGT1A1 deficiency; CAR-mediated induction).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Crigler-Najjar Type II Phenobarbital UGT1A1 Enzyme Induction.",
+    "keyPoints": [
+      "Crigler-Najjar Type II Phenobarbital UGT1A1 Enzyme Induction",
+      "Unconjugated hyperbilirubinemia + 40% drop with phenobarbital = Crigler-Najjar type II (partial UGT1A1 deficiency; CAR-mediated induction)."
+    ],
+    "references": [
+      {
+        "label": "Isa HM. UGT1A1-related disorders in Bahrain: A genetic and clinical overview of Crigler-Najjar and Gilbert syndromes. World J Clin Pediatr. 2026 Dec 9. PMID: 42964466.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42964466/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0977",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Dubin-Johnson Syndrome ABCC2 Lysosomal Pigment Canalicular Excretion Defect",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 23-year-old woman presents to the clinic for evaluation of recurrent mild jaundice that first appeared during her third trimester of pregnancy and worsened with oral contraceptive use. She is asymptomatic. Vital signs are normal. Physical examination is notable for mild scleral icterus and absence of hepatosplenomegaly. Laboratory evaluation reveals: total bilirubin 4.8 mg/dL, direct bilirubin 3.6 mg/dL, AST 24 U/L, ALT 22 U/L, alkaline phosphatase 78 U/L. Fractionated urinary coproporphyrin excretion shows normal total levels, but coproporphyrin I constitutes 88% of total coproporphyrin (normal <20%). A core needle liver biopsy is performed, revealing dark black gross coloration and abundant dense, dark-brown pigment granules within hepatocyte lysosomes. Which of the following transport mechanisms is primarily defective in this patient?",
+    "options": [
+      {
+        "text": "Sodium-taurocholate cotransporting polypeptide uptake of bile acids at the sinusoidal membrane",
+        "correct": false,
+        "explanation": "NTCP (SLC10A1) mediates sinusoidal uptake of conjugated bile salts; defects cause hypercholanemia without isolated conjugated hyperbilirubinemia or dark lysosomal pigmentation."
+      },
+      {
+        "text": "ATP-dependent canalicular excretion of conjugated organic anions into bile",
+        "correct": true,
+        "explanation": "Dubin-Johnson syndrome is an autosomal recessive disorder caused by mutations in the ABCC2 gene encoding multidrug resistance-associated protein 2 (MRP2), an ATP-binding cassette transporter localized to the canalicular membrane of hepatocytes. MRP2 mediates the ATP-dependent export of glucuronide- and glutathione-conjugated organic anions (including bilirubin diglucuronide) across the canalicular membrane into bile canaliculi. When MRP2 is defective, conjugated bilirubin accumulates and regurgitates into sinusoidal blood, causing direct hyperbilirubinemia. Furthermore, impaired excretion of epinephrine and other catecholamine metabolites results in their accumulation and polymerization into coarse, dark-brown, melanin-like pigment within hepatocyte lysosomes, giving the liver a characteristic dark black appearance. Coproporphyrin I constitutes >80% of urinary coproporphyrin. Rotor syndrome, by contrast, involves defective hepatic reuptake (OATP1B1/1B3) without pigment accumulation (normal liver color)."
+      },
+      {
+        "text": "Microsomal UDP-glucuronosyltransferase conjugation of hydrophobic tetrapyrroles",
+        "correct": false,
+        "explanation": "Defects in UGT1A1 cause unconjugated hyperbilirubinemia (Crigler-Najjar, Gilbert) without lysosomal melanin-like pigment deposition."
+      },
+      {
+        "text": "ATP8B1 aminophospholipid translocase flip of phosphatidylserine at the apical membrane",
+        "correct": false,
+        "explanation": "ATP8B1 mutations cause progressive familial intrahepatic cholestasis type 1 (Byler disease), presenting with pruritus, severe cholestasis, and low/normal serum GGT, not benign black-liver jaundice."
+      },
+      {
+        "text": "Bile salt export pump transport of monovalent bile acids into bile canaliculi",
+        "correct": false,
+        "explanation": "BSEP (ABCB11) defects cause progressive familial intrahepatic cholestasis type 2, characterized by severe early cholestasis, cirrhosis, and normal GGT, without lysosomal catecholamine pigment."
+      }
+    ],
+    "explanation": "Dubin-Johnson syndrome is an autosomal recessive disorder caused by mutations in the ABCC2 gene encoding multidrug resistance-associated protein 2 (MRP2), an ATP-binding cassette transporter localized to the canalicular membrane of hepatocytes. MRP2 mediates the ATP-dependent export of glucuronide- and glutathione-conjugated organic anions (including bilirubin diglucuronide) across the canalicular membrane into bile canaliculi. When MRP2 is defective, conjugated bilirubin accumulates and regurgitates into sinusoidal blood, causing direct hyperbilirubinemia. Furthermore, impaired excretion of epinephrine and other catecholamine metabolites results in their accumulation and polymerization into coarse, dark-brown, melanin-like pigment within hepatocyte lysosomes, giving the liver a characteristic dark black appearance. Coproporphyrin I constitutes >80% of urinary coproporphyrin. Rotor syndrome, by contrast, involves defective hepatic reuptake (OATP1B1/1B3) without pigment accumulation (normal liver color). Direct hyperbilirubinemia + black liver + 88% urinary coproporphyrin I = Dubin-Johnson (MRP2/ABCC2 canalicular export defect).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Dubin-Johnson Syndrome ABCC2 Lysosomal Pigment Canalicular Excretion Defect.",
+    "keyPoints": [
+      "Dubin-Johnson Syndrome ABCC2 Lysosomal Pigment Canalicular Excretion Defect",
+      "Direct hyperbilirubinemia + black liver + 88% urinary coproporphyrin I = Dubin-Johnson (MRP2/ABCC2 canalicular export defect)."
+    ],
+    "references": [
+      {
+        "label": "Tharmaseelan H. Successful treatment with BrECADD in a patient with Dubin-Johnson syndrome and classic Hodgkin lymphoma: a case report. Cancer Chemother Pharmacol. 2026 Oct 23. PMID: 42909633.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42909633/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0978",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Hereditary Hemochromatosis HFE C282Y Inappropriate Low Hepcidin Expression",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old man presents with progressive fatigue, diffuse joint pains in his hands, and darkening of his skin. Physical examination reveals hyperpigmentation of sun-exposed areas, mild hepatomegaly, and tenderness with bony enlargement of the second and third metacarpophalangeal joints bilaterally. Fasting blood glucose is 184 mg/dL. Serum iron studies reveal: iron 210 ug/dL, total iron-binding capacity 240 ug/dL (transferrin saturation 87.5%), and ferritin 1,850 ng/mL. Genetic testing identifies a homozygous C282Y mutation in the HFE gene on chromosome 6. Which of the following molecular alterations is the primary driver of systemic iron overload in this patient?",
+    "options": [
+      {
+        "text": "Constitutive overexpression of divalent metal transporter 1 on the apical enterocyte brush border",
+        "correct": false,
+        "explanation": "DMT1 is regulated by intracellular iron regulatory proteins (IRPs); it is not the primary target of HFE mutation, and apical transport alone cannot drive systemic overload without uninhibited basolateral ferroportin."
+      },
+      {
+        "text": "Hyperactive transferrin receptor 2 endocytosis within hepatic Kupffer cells",
+        "correct": false,
+        "explanation": "HFE mutation disrupts iron sensing in hepatocytes; Kupffer cells actually lose iron in early hemochromatosis because unregulated ferroportin exports iron into plasma."
+      },
+      {
+        "text": "Inappropriately low hepatic hepcidin synthesis leading to constitutive ferroportin activity",
+        "correct": true,
+        "explanation": "Hereditary hemochromatosis is most commonly caused by homozygous missense mutation (C282Y: cysteine-to-tyrosine substitution at codon 282) in the HFE gene on chromosome 6p21.3. Wild-type HFE protein interacts with transferrin receptor 1 (TfR1) and transferrin receptor 2 (TfR2) on the hepatocyte surface to sense circulating iron levels and upregulate the expression of HEPCIDIN, the master negative regulator of systemic iron balance. Mutant C282Y HFE fails to associate with TfR1, disrupting intracellular iron sensing. Consequently, hepatocytes interpret systemic iron stores as low and synthesize INAPPROPRIATELY LOW LEVELS OF HEPCIDIN despite marked total-body iron overload. Low hepcidin fails to internalize and degrade FERROPORTIN on the basolateral surface of duodenal enterocytes and reticuloendothelial macrophages. Uncontrolled ferroportin iron export drives continuous, unregulated intestinal iron absorption (2-4 mg/day above normal), progressive parenchymal iron accumulation (Prussian blue-positive hemosiderin), and organ toxicity (cirrhosis, bronze diabetes, cardiomyopathy, pseudogout/MCP arthropathy)."
+      },
+      {
+        "text": "Failure of ferroxidase activity by ceruloplasmin resulting in systemic ferrous iron precipitation",
+        "correct": false,
+        "explanation": "Aceruloplasminemia is a rare neurodegenerative and iron overload disorder due to defective oxidation of Fe2+ to Fe3+, presenting with retinal degeneration and ataxia, distinct from classic HFE hemochromatosis."
+      },
+      {
+        "text": "Basolateral export failure of hemosiderin through renal tubular megalin receptors",
+        "correct": false,
+        "explanation": "Megalin mediates protein reabsorption in the proximal tubule and is not involved in basolateral iron export or hemochromatosis pathogenesis."
+      }
+    ],
+    "explanation": "Hereditary hemochromatosis is most commonly caused by homozygous missense mutation (C282Y: cysteine-to-tyrosine substitution at codon 282) in the HFE gene on chromosome 6p21.3. Wild-type HFE protein interacts with transferrin receptor 1 (TfR1) and transferrin receptor 2 (TfR2) on the hepatocyte surface to sense circulating iron levels and upregulate the expression of HEPCIDIN, the master negative regulator of systemic iron balance. Mutant C282Y HFE fails to associate with TfR1, disrupting intracellular iron sensing. Consequently, hepatocytes interpret systemic iron stores as low and synthesize INAPPROPRIATELY LOW LEVELS OF HEPCIDIN despite marked total-body iron overload. Low hepcidin fails to internalize and degrade FERROPORTIN on the basolateral surface of duodenal enterocytes and reticuloendothelial macrophages. Uncontrolled ferroportin iron export drives continuous, unregulated intestinal iron absorption (2-4 mg/day above normal), progressive parenchymal iron accumulation (Prussian blue-positive hemosiderin), and organ toxicity (cirrhosis, bronze diabetes, cardiomyopathy, pseudogout/MCP arthropathy). C282Y HFE mutation + high ferritin/transferrin saturation = inappropriately low hepcidin -> constitutive ferroportin iron export.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hereditary Hemochromatosis HFE C282Y Inappropriate Low Hepcidin Expression.",
+    "keyPoints": [
+      "Hereditary Hemochromatosis HFE C282Y Inappropriate Low Hepcidin Expression",
+      "C282Y HFE mutation + high ferritin/transferrin saturation = inappropriately low hepcidin -> constitutive ferroportin iron export."
+    ],
+    "references": [
+      {
+        "label": "Alamgir M. Genetics of Hereditary Hemochromatosis. Gastroenterol Clin North Am. 2026 Dec. PMID: 42933937.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933937/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0979",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Wilson Disease ATP7B Transcellular Copper Transport Defect Pathogenesis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old college student is brought to the clinic by his roommate because of progressive slurred speech, clumsy gait, and emotional lability with deteriorating academic performance over the past 6 months. Physical examination demonstrates resting and intention tremors of both arms ('wing-beating' tremor), dysarthria, and subtle dystonic posturing of the hands. Slit-lamp biomicroscopy reveals golden-brown granular rings in the peripheral cornea. Laboratory evaluation shows: total bilirubin 2.6 mg/dL, direct bilirubin 0.9 mg/dL, AST 94 U/L, ALT 68 U/L, serum ceruloplasmin 8 mg/dL (reference 20-40 mg/dL), and 24-hour urinary copper excretion 180 ug/24 hr (reference <40 ug/24 hr). Which of the following subcellular processes is primarily defective in this disorder?",
+    "options": [
+      {
+        "text": "Endosomal reduction of cupric copper to cuprous copper by STEAP metalloreductases",
+        "correct": false,
+        "explanation": "STEAP metalloreductases reduce ferric iron and cupric copper at the apical membrane/endosomes, not the trans-Golgi network defect characteristic of Wilson disease."
+      },
+      {
+        "text": "Sinusoidal uptake of albumin-bound copper by copper transporter 1 (CTR1)",
+        "correct": false,
+        "explanation": "CTR1 mediates copper entry into hepatocytes; it is functioning normally in Wilson disease, allowing copper to enter and accumulate within liver tissue."
+      },
+      {
+        "text": "Mitochondrial cytochrome c oxidase assembly mediated by COX17 copper chaperone",
+        "correct": false,
+        "explanation": "COX17 delivers copper to mitochondria for cytochrome c oxidase assembly; defects cause rare mitochondrial encephalocardiomyopathies, not Wilson disease."
+      },
+      {
+        "text": "Copper transport into the trans-Golgi network for ceruloplasmin incorporation and biliary excretion",
+        "correct": true,
+        "explanation": "Wilson disease (hepatolenticular degeneration) is an autosomal recessive disorder caused by mutations in the ATP7B gene on chromosome 13q14. ATP7B encodes a transmembrane P-type copper-transporting ATPase localized to the trans-Golgi network of hepatocytes. Under physiological conditions, ATP7B performs two vital functions: (1) Translocates copper across the Golgi membrane to be incorporated into apoceruloplasmin to form mature ceruloplasmin; and (2) Vesicular trafficking and excretion of excess copper across the canalicular membrane into bile. Defective ATP7B leads to failure of biliary copper excretion (the primary route of copper elimination) and failure to synthesize holo-ceruloplasmin (unbound apoceruloplasmin is rapidly degraded in circulation, explaining LOW SERUM CERULOPLASMIN). Free copper accumulates in hepatocytes, generating toxic reactive oxygen species (Fenton reaction). Once hepatocyte capacity is overwhelmed, copper spills into circulation, depositing in the basal ganglia (putamen and globus pallidus causing Parkinsonism, dysarthria, chorea), Descemet's membrane of the cornea (Kayser-Fleischer rings), and kidneys."
+      },
+      {
+        "text": "Intestinal basolateral copper export into mesenteric capillaries mediated by ATP7A",
+        "correct": false,
+        "explanation": "ATP7A mutations cause Menkes disease (kinky hair disease), an X-linked recessive disorder of systemic copper DEFICIENCY resulting from failure of enterocyte copper export."
+      }
+    ],
+    "explanation": "Wilson disease (hepatolenticular degeneration) is an autosomal recessive disorder caused by mutations in the ATP7B gene on chromosome 13q14. ATP7B encodes a transmembrane P-type copper-transporting ATPase localized to the trans-Golgi network of hepatocytes. Under physiological conditions, ATP7B performs two vital functions: (1) Translocates copper across the Golgi membrane to be incorporated into apoceruloplasmin to form mature ceruloplasmin; and (2) Vesicular trafficking and excretion of excess copper across the canalicular membrane into bile. Defective ATP7B leads to failure of biliary copper excretion (the primary route of copper elimination) and failure to synthesize holo-ceruloplasmin (unbound apoceruloplasmin is rapidly degraded in circulation, explaining LOW SERUM CERULOPLASMIN). Free copper accumulates in hepatocytes, generating toxic reactive oxygen species (Fenton reaction). Once hepatocyte capacity is overwhelmed, copper spills into circulation, depositing in the basal ganglia (putamen and globus pallidus causing Parkinsonism, dysarthria, chorea), Descemet's membrane of the cornea (Kayser-Fleischer rings), and kidneys. Wing-beating tremor + Kayser-Fleischer rings + low ceruloplasmin = ATP7B defect (copper transport into trans-Golgi / biliary export).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Wilson Disease ATP7B Transcellular Copper Transport Defect Pathogenesis.",
+    "keyPoints": [
+      "Wilson Disease ATP7B Transcellular Copper Transport Defect Pathogenesis",
+      "Wing-beating tremor + Kayser-Fleischer rings + low ceruloplasmin = ATP7B defect (copper transport into trans-Golgi / biliary export)."
+    ],
+    "references": [
+      {
+        "label": "Xu Z. An incidental heterozygous ATP7B nonsense variant leading to a diagnostic pitfall for Wilson disease: a pediatric case report. BMC Gastroenterol. 2026 Jul 24. PMID: 42897454.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42897454/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0980",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Alpha-1 Antitrypsin Deficiency PiZZ Misfolded Protein Polymerization in RER",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man presents with progressive shortness of breath on exertion and mild abdominal distension. He is a non-smoker with no history of alcohol abuse. Physical examination reveals bibasilar wheezing, mild scleral icterus, spider angiomas on the chest, and moderate ascites. A pulmonary function test demonstrates an obstructive pattern with a marked decrease in DLCO. High-resolution chest CT shows panacinar emphysematous destruction predominantly affecting the lower lung zones. A liver biopsy is performed, and microscopic examination reveals round, eosinophilic cytoplasmic inclusions within periportal hepatocytes that stain intensely with periodic acid-Schiff (PAS) and remain intact after treatment with diastase. Which of the following molecular mechanisms directly produces these intrahepatic inclusions?",
+    "options": [
+      {
+        "text": "Ubiquitin-proteasome hyperactivation leading to accumulation of unphosphorylated neurofilaments",
+        "correct": false,
+        "explanation": "Mallory-Denk bodies seen in alcoholic hepatitis consist of ubiquitinated intermediate cytokeratin filaments (CK8/18), not PAS-positive, diastase-resistant secretory glycoproteins."
+      },
+      {
+        "text": "Defective lysosomal alpha-glucosidase activity causing intralysosomal accumulation of branched glycogen",
+        "correct": false,
+        "explanation": "Pompe disease (glycogen storage disease type II) is caused by lysosomal acid alpha-glucosidase deficiency, producing PAS-positive inclusions that ARE digested by diastase."
+      },
+      {
+        "text": "Microtubule disassembly causing vesicular entrapment of low-density lipoproteins in the Golgi apparatus",
+        "correct": false,
+        "explanation": "Microtubule disruption impairs lipid export, causing microvesicular or macrovesicular steatosis, which washes out during histological processing and does not stain PAS-positive."
+      },
+      {
+        "text": "Impaired chaperone-mediated autophagy leading to iron-bound hemosiderin deposition in autophagosomes",
+        "correct": false,
+        "explanation": "Hemosiderin appears as golden-brown coarse refractile pigment that stains with Prussian blue (Perls stain), not PAS-positive diastase-resistant globules."
+      },
+      {
+        "text": "Abnormal loop-sheet polymerization and retention of misfolded glycoprotein within the rough endoplasmic reticulum",
+        "correct": true,
+        "explanation": "Alpha-1 antitrypsin (AAT) deficiency is an autosomal codominant genetic disorder caused by mutations in the SERPINA1 gene on chromosome 14q32. The most severe and clinically significant genotype is PiZZ, resulting from a single nucleotide substitution (Glu342Lys) in the AAT protein. This mutation destabilizes the native tertiary conformation, causing a reactive loop from one molecule to insert into the beta-sheet of an adjacent molecule (loop-sheet polymerization). The polymerized mutant Z protein cannot fold properly or be transported through the secretory pathway, becoming entrapped and aggregated within the cisternae of the ROUGH ENDOPLASMIC RETICULUM (RER) of hepatocytes. These aggregated glycoproteins form round, amorphous cytoplasmic inclusions that are PAS-positive because of their glycoprotein carbohydrate side chains and DIASTASE-RESISTANT because they are glycoproteins rather than glycogen. The retention of mutant protein causes chronic ER stress, hepatocyte apoptosis, and progressive cirrhosis (gain-of-function toxicity), while the resulting systemic deficiency of circulating neutrophil elastase inhibitor allows uninhibited degradation of alveolar elastin, causing lower-lobe panacinar emphysema (loss-of-function toxicity)."
+      }
+    ],
+    "explanation": "Alpha-1 antitrypsin (AAT) deficiency is an autosomal codominant genetic disorder caused by mutations in the SERPINA1 gene on chromosome 14q32. The most severe and clinically significant genotype is PiZZ, resulting from a single nucleotide substitution (Glu342Lys) in the AAT protein. This mutation destabilizes the native tertiary conformation, causing a reactive loop from one molecule to insert into the beta-sheet of an adjacent molecule (loop-sheet polymerization). The polymerized mutant Z protein cannot fold properly or be transported through the secretory pathway, becoming entrapped and aggregated within the cisternae of the ROUGH ENDOPLASMIC RETICULUM (RER) of hepatocytes. These aggregated glycoproteins form round, amorphous cytoplasmic inclusions that are PAS-positive because of their glycoprotein carbohydrate side chains and DIASTASE-RESISTANT because they are glycoproteins rather than glycogen. The retention of mutant protein causes chronic ER stress, hepatocyte apoptosis, and progressive cirrhosis (gain-of-function toxicity), while the resulting systemic deficiency of circulating neutrophil elastase inhibitor allows uninhibited degradation of alveolar elastin, causing lower-lobe panacinar emphysema (loss-of-function toxicity). Panacinar lower lobe emphysema + liver cirrhosis + PAS-positive diastase-resistant globules = AAT PiZZ misfolding in RER.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Alpha-1 Antitrypsin Deficiency PiZZ Misfolded Protein Polymerization in RER.",
+    "keyPoints": [
+      "Alpha-1 Antitrypsin Deficiency PiZZ Misfolded Protein Polymerization in RER",
+      "Panacinar lower lobe emphysema + liver cirrhosis + PAS-positive diastase-resistant globules = AAT PiZZ misfolding in RER."
+    ],
+    "references": [
+      {
+        "label": "Ather N. Alpha-1 Antitrypsin PiMZ Heterozygosity in the Setting of Alcohol-Associated Cirrhosis: A Case Report. Cureus. 2026 Sep. PMID: 42840819.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42840819/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0981",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Reye Syndrome Mitochondrial Beta-Oxidation Inhibition Microvesicular Steatosis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 6-year-old boy is brought to the emergency department because of sudden lethargy, persistent vomiting, and combativeness. Four days ago, he had high fevers, chills, and myalgias due to influenza B, for which his parents administered an over-the-counter liquid fever medication. On examination, he is agitated, disoriented, and hyperventilating. Decerebrate posturing is elicited with painful stimuli. Hepatomegaly is noted, but there is no jaundice. Laboratory evaluation shows: AST 420 U/L, ALT 510 U/L, total bilirubin 1.4 mg/dL (unconjugated 1.0 mg/dL), prothrombin time 26 seconds (INR 2.4), blood glucose 42 mg/dL, and arterial ammonia 195 umol/L (reference 15-45 umol/L). Liver biopsy would most likely show which of the following histological features?",
+    "options": [
+      {
+        "text": "Diffuse microvesicular steatosis with swelling and disruption of hepatocyte mitochondria",
+        "correct": true,
+        "explanation": "This child has REYE SYNDROME, an acute encephalopathy and fatty liver failure triggered by the administration of SALICYLATES (aspirin) during a viral illness (typically influenza A or B, or varicella). Salicylates and viral metabolites act as toxic insults to MITOCHONDRIA: they uncouple oxidative phosphorylation and reversibly inhibit mitochondrial fatty acid beta-oxidation enzymes. The failure of beta-oxidation leads to accumulation of intracellular fatty acids, which coalesce into tiny lipid droplets that distribute throughout the cytoplasm without displacing the central nucleus—termed DIFFUSE MICROVESICULAR STEATOSIS. Because mitochondrial energy production fails, hepatic gluconeogenesis is impaired (hypoglycemia), and the urea cycle is paralyzed (severe hyperammonemia). Hyperammonemia drives astrocyte swelling and severe cerebral edema with intracranial hypertension. Remarkably, hepatocellular injury occurs without prominent inflammation or necrosis, and serum bilirubin remains normal or only minimally elevated (jaundice is characteristically absent)."
+      },
+      {
+        "text": "Extensive centrilobular (zone 3) bridging necrosis with dense neutrophilic infiltrates and Mallory-Denk bodies",
+        "correct": false,
+        "explanation": "Zone 3 hemorrhagic necrosis with neutrophils and Mallory-Denk bodies is typical of alcoholic hepatitis or acetaminophen toxicity, not Reye syndrome."
+      },
+      {
+        "text": "Concentric 'onion-skin' periductal fibrosis with lymphocytic portal tract expansion",
+        "correct": false,
+        "explanation": "Onion-skin fibrosis of bile ducts is the hallmark of primary sclerosing cholangitis, which presents with cholestatic jaundice and pruritus, not acute hyperammonemic coma."
+      },
+      {
+        "text": "Massive macrovesicular steatosis with peripheral displacement of hepatocyte nuclei and ballooning degeneration",
+        "correct": false,
+        "explanation": "Macrovesicular steatosis occurs in metabolic dysfunction-associated steatotic liver disease (MASLD) or chronic alcohol use, displacing nuclei peripherally, unlike microvesicular droplets."
+      },
+      {
+        "text": "Granulomatous destruction of medium-sized interlobular bile ducts with dense plasma cell infiltration",
+        "correct": false,
+        "explanation": "Florid duct lesions with granulomas and plasma cells characterize primary biliary cholangitis, not acute pediatric mitochondrial toxicity."
+      }
+    ],
+    "explanation": "This child has REYE SYNDROME, an acute encephalopathy and fatty liver failure triggered by the administration of SALICYLATES (aspirin) during a viral illness (typically influenza A or B, or varicella). Salicylates and viral metabolites act as toxic insults to MITOCHONDRIA: they uncouple oxidative phosphorylation and reversibly inhibit mitochondrial fatty acid beta-oxidation enzymes. The failure of beta-oxidation leads to accumulation of intracellular fatty acids, which coalesce into tiny lipid droplets that distribute throughout the cytoplasm without displacing the central nucleus—termed DIFFUSE MICROVESICULAR STEATOSIS. Because mitochondrial energy production fails, hepatic gluconeogenesis is impaired (hypoglycemia), and the urea cycle is paralyzed (severe hyperammonemia). Hyperammonemia drives astrocyte swelling and severe cerebral edema with intracranial hypertension. Remarkably, hepatocellular injury occurs without prominent inflammation or necrosis, and serum bilirubin remains normal or only minimally elevated (jaundice is characteristically absent). Post-viral aspirin ingestion + hyperammonemia + normal bilirubin + cerebral edema = Reye syndrome (microvesicular steatosis; mitochondrial injury).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Reye Syndrome Mitochondrial Beta-Oxidation Inhibition Microvesicular Steatosis.",
+    "keyPoints": [
+      "Reye Syndrome Mitochondrial Beta-Oxidation Inhibition Microvesicular Steatosis",
+      "Post-viral aspirin ingestion + hyperammonemia + normal bilirubin + cerebral edema = Reye syndrome (microvesicular steatosis; mitochondrial injury)."
+    ],
+    "references": [
+      {
+        "label": "Noor A. A Case of Reye Syndrome Caused by Influenza A Virus. Ochsner J. 2018 Winter. PMID: 30559633.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30559633/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0982",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Primary Biliary Cholangitis AMA Pyruvate Dehydrogenase Florid Duct Lesion",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 48-year-old woman presents with severe generalized pruritus that is worse at night, particularly on the palms and soles, and debilitating daytime fatigue for the past 7 months. She has a history of Hashimoto thyroiditis managed with levothyroxine. Physical examination demonstrates skin excoriations across the limbs and torso, and bilateral yellowish plaques on the inner canthe of both eyelids (xanthelasma). There is no jaundice or stigmata of chronic liver disease. Laboratory findings: AST 45 U/L, ALT 52 U/L, alkaline phosphatase 580 U/L, gamma-glutamyl transferase (GGT) 320 U/L, total bilirubin 1.1 mg/dL, and total cholesterol 310 mg/dL. Serum autoantibody testing is positive for anti-mitochondrial antibodies (titers 1:320). Which of the following pathological processes is the direct cause of this patient's disease?",
+    "options": [
+      {
+        "text": "Fibro-obliterative concentric periductal sclerosis of extrahepatic and large intrahepatic bile ducts",
+        "correct": false,
+        "explanation": "Concentric periductal fibrosis ('onion-skinning') characterizes primary sclerosing cholangitis (PSC), which primarily affects men, is strongly linked to ulcerative colitis, and is p-ANCA positive."
+      },
+      {
+        "text": "T-cell mediated granulomatous destruction of intralobular and septal bile ducts",
+        "correct": true,
+        "explanation": "This patient has PRIMARY BILIARY CHOLANGITIS (PBC, formerly primary biliary cirrhosis), an autoimmune cholestatic liver disease predominantly affecting middle-aged women with a strong association with other autoimmune conditions (e.g., Sjogren syndrome, Hashimoto thyroiditis, celiac disease). Pathogenesis involves auto-reactive CD4+ and CD8+ T cells directed against the E2 subunit of the pyruvate dehydrogenase complex (PDC-E2) on the inner mitochondrial membrane. Aberrant expression of PDC-E2 on the apical membrane of biliary epithelial cells triggers targeted immune attack. Histopathology demonstrates chronic, non-suppurative granulomatous destruction of medium-sized intralobular and septal bile ducts (termed 'florid duct lesions'). Progressive ductopenia leads to retention of hydrophobic bile acids, which causes severe pruritus, secondary hypercholesterolemia with xanthelasmas, fat-soluble vitamin malabsorption, and eventually micronodular biliary cirrhosis."
+      },
+      {
+        "text": "Complement-mediated membrane attack complex lysis of sinusoidal endothelial cells",
+        "correct": false,
+        "explanation": "This describes sinusoidal obstruction syndrome (veno-occlusive disease) or hyperacute allograft rejection, not chronic autoimmune cholangiopathy."
+      },
+      {
+        "text": "Autoantibody-mediated neutralization of canalicular ABCB4 phospholipid flippase",
+        "correct": false,
+        "explanation": "ABCB4 (MDR3) deficiency impairs phosphatidylcholine secretion into bile, predisposing to low-phospholipid-associated cholelithiasis (LPAC), not autoimmune PBC."
+      },
+      {
+        "text": "Deposition of insoluble amyloid light-chain fibrils within hepatic space of Disse",
+        "correct": false,
+        "explanation": "Hepatic amyloidosis causes hepatomegaly and elevated alkaline phosphatase due to space-of-Disse deposition, but lacks antimitochondrial antibodies and florid duct destruction."
+      }
+    ],
+    "explanation": "This patient has PRIMARY BILIARY CHOLANGITIS (PBC, formerly primary biliary cirrhosis), an autoimmune cholestatic liver disease predominantly affecting middle-aged women with a strong association with other autoimmune conditions (e.g., Sjogren syndrome, Hashimoto thyroiditis, celiac disease). Pathogenesis involves auto-reactive CD4+ and CD8+ T cells directed against the E2 subunit of the pyruvate dehydrogenase complex (PDC-E2) on the inner mitochondrial membrane. Aberrant expression of PDC-E2 on the apical membrane of biliary epithelial cells triggers targeted immune attack. Histopathology demonstrates chronic, non-suppurative granulomatous destruction of medium-sized intralobular and septal bile ducts (termed 'florid duct lesions'). Progressive ductopenia leads to retention of hydrophobic bile acids, which causes severe pruritus, secondary hypercholesterolemia with xanthelasmas, fat-soluble vitamin malabsorption, and eventually micronodular biliary cirrhosis. Middle-aged woman + pruritus + xanthelasma + high ALP + AMA = Primary Biliary Cholangitis (granulomatous intralobular bile duct destruction).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Primary Biliary Cholangitis AMA Pyruvate Dehydrogenase Florid Duct Lesion.",
+    "keyPoints": [
+      "Primary Biliary Cholangitis AMA Pyruvate Dehydrogenase Florid Duct Lesion",
+      "Middle-aged woman + pruritus + xanthelasma + high ALP + AMA = Primary Biliary Cholangitis (granulomatous intralobular bile duct destruction)."
+    ],
+    "references": [
+      {
+        "label": "Ejnisman C. Sjögren's Disease With Primary Biliary Cholangitis Fulfilling the 2010 ACR/EULAR Classification Criteria for Rheumatoid Arthritis: A Case Report and Review of an Under-Recognized Overlap. Cureus. 2026 Oct. PMID: 42967197.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42967197/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0983",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Primary Sclerosing Cholangitis Periductal Onion-Skin Fibrosis p-ANCA MRCP",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man with a 6-year history of ulcerative colitis presents for routine follow-up. He reports intermittent fatigue and mild right upper quadrant abdominal fullness, but denies abdominal pain, fever, or weight loss. His ulcerative colitis is in clinical remission on mesalamine maintenance therapy. Physical examination is unremarkable without jaundice. Laboratory studies reveal: AST 52 U/L, ALT 64 U/L, alkaline phosphatase 440 U/L (reference 35-120 U/L), GGT 240 U/L, and total bilirubin 1.4 mg/dL. Serum testing reveals a positive perinuclear antineutrophil cytoplasmic antibody (p-ANCA) pattern, while anti-mitochondrial antibodies are negative. Magnetic resonance cholangiopancreatography (MRCP) reveals multifocal segmental strictures and dilations involving both the intrahepatic and extrahepatic biliary ducts, giving a 'beaded' appearance. Which of the following histopathological findings on liver biopsy is most characteristic of this condition?",
+    "options": [
+      {
+        "text": "Interface hepatitis with dense lymphoplasmacytic portal infiltrates invading the limiting plate",
+        "correct": false,
+        "explanation": "Interface hepatitis with plasma cells is characteristic of autoimmune hepatitis, which responds dramatically to corticosteroids, unlike PSC."
+      },
+      {
+        "text": "Eosinophilic granulomatous necrosis of portal vein branches and hepatic sinusoids",
+        "correct": false,
+        "explanation": "Granulomatous phlebitis or sinusoidal destruction occurs in schistosomiasis or sarcoidosis, not idiopathic sclerosing cholangitis."
+      },
+      {
+        "text": "Concentric layers of fibrous connective tissue encircling medium and small bile ducts ('onion-skin' fibrosis)",
+        "correct": true,
+        "explanation": "PRIMARY SCLEROSING CHOLANGITIS (PSC) is a chronic, progressive cholestatic disorder characterized by inflammation, obliterative fibrosis, and destruction of both intrahepatic and extrahepatic bile ducts. It has a striking association with inflammatory bowel disease, particularly ULCERATIVE COLITIS (present in ~70-80% of patients with PSC). Serum autoantibodies frequently demonstrate atypical p-ANCA positivity (>80%), whereas antimitochondrial antibodies are negative. MRCP is the diagnostic imaging modality of choice, revealing classic multifocal, short, annular strictures alternating with normal or dilated segments ('beading' of bile ducts). When a liver biopsy is performed (often unnecessary if imaging is definitive), the pathognomonic finding is concentric periductal fibrosis—collagen fibers deposited circumferentially around medium and small interlobular bile ducts in an 'ONION-SKIN' pattern. This concentric sclerosis progressively constricts and obliterates the ductal lumen, leaving a fibro-obliterative scar ('tombstone' scar). Patients carry a high risk of developing cholangiocarcinoma (10-15% lifetime incidence)."
+      },
+      {
+        "text": "Microvesicular lipid droplet accumulation within centrilobular hepatocytes without cellular necrosis",
+        "correct": false,
+        "explanation": "Microvesicular steatosis is the hallmark of Reye syndrome, acute fatty liver of pregnancy, or tetracycline toxicity, not PSC."
+      },
+      {
+        "text": "Florid bile duct lesions with epithelioid granulomas confined to interlobular septa",
+        "correct": false,
+        "explanation": "Florid duct lesions with noncaseating granulomas are the classic biopsy finding in primary biliary cholangitis (PBC), which is AMA-positive and spares extrahepatic ducts."
+      }
+    ],
+    "explanation": "PRIMARY SCLEROSING CHOLANGITIS (PSC) is a chronic, progressive cholestatic disorder characterized by inflammation, obliterative fibrosis, and destruction of both intrahepatic and extrahepatic bile ducts. It has a striking association with inflammatory bowel disease, particularly ULCERATIVE COLITIS (present in ~70-80% of patients with PSC). Serum autoantibodies frequently demonstrate atypical p-ANCA positivity (>80%), whereas antimitochondrial antibodies are negative. MRCP is the diagnostic imaging modality of choice, revealing classic multifocal, short, annular strictures alternating with normal or dilated segments ('beading' of bile ducts). When a liver biopsy is performed (often unnecessary if imaging is definitive), the pathognomonic finding is concentric periductal fibrosis—collagen fibers deposited circumferentially around medium and small interlobular bile ducts in an 'ONION-SKIN' pattern. This concentric sclerosis progressively constricts and obliterates the ductal lumen, leaving a fibro-obliterative scar ('tombstone' scar). Patients carry a high risk of developing cholangiocarcinoma (10-15% lifetime incidence). Ulcerative colitis + beaded bile ducts on MRCP + p-ANCA = Primary Sclerosing Cholangitis (concentric onion-skin periductal fibrosis).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Primary Sclerosing Cholangitis Periductal Onion-Skin Fibrosis p-ANCA MRCP.",
+    "keyPoints": [
+      "Primary Sclerosing Cholangitis Periductal Onion-Skin Fibrosis p-ANCA MRCP",
+      "Ulcerative colitis + beaded bile ducts on MRCP + p-ANCA = Primary Sclerosing Cholangitis (concentric onion-skin periductal fibrosis)."
+    ],
+    "references": [
+      {
+        "label": "Attauabi M. Radiological Primary Sclerosing Cholangitis in Incident Inflammatory Bowel Disease - A Prospective Copenhagen Inflammatory Bowel Disease Inception Cohort Study. Clin Gastroenterol Hepatol. 2026 Sep 2. PMID: 42685962.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42685962/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0984",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Autoimmune Hepatitis Type 1 ASMA Interface Hepatitis Plasma Cell Infiltration",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 32-year-old woman presents with progressive fatigue, nausea, anorexia, and mild jaundice over the past month. She has a history of type 1 diabetes mellitus and vitiligo. Physical examination reveals mild scleral icterus and tender hepatomegaly extending 3 cm below the right costal margin. Laboratory studies reveal: AST 860 U/L, ALT 940 U/L, alkaline phosphatase 165 U/L, total bilirubin 4.2 mg/dL, direct bilirubin 2.8 mg/dL. Viral serologies for hepatitis A, B, C, and E are negative. Serum protein electrophoresis demonstrates polyclonal hypergammaglobulinemia with a marked elevation of IgG (2,600 mg/dL, reference 700-1,600 mg/dL). Serological testing reveals high-titer anti-smooth muscle antibodies (ASMA, 1:160) and positive antinuclear antibodies (ANA, 1:320), while anti-liver kidney microsomal-1 (anti-LKM-1) antibodies and antimitochondrial antibodies are negative. A core needle liver biopsy is obtained. Which of the following histological features is most typical of this patient's diagnosis?",
+    "options": [
+      {
+        "text": "Centrilobular ballooning degeneration with Mallory-Denk bodies and dense neutrophilic infiltrates",
+        "correct": false,
+        "explanation": "Mallory-Denk bodies with neutrophilic infiltrate in zone 3 are pathognomonic for alcohol-associated hepatitis or severe steatohepatitis, not autoimmune hepatitis."
+      },
+      {
+        "text": "Diffuse sinusoidal expansion by multinucleated giant cells and noncaseating sarcoid-like granulomas",
+        "correct": false,
+        "explanation": "Hepatic sarcoidosis features well-formed epithelioid noncaseating granulomas along portal tracts, lacking the prominent plasma cell interface hepatitis of AIH."
+      },
+      {
+        "text": "Pericellular 'chicken-wire' fibrosis centered around central veins with sinusoidal collagen deposition",
+        "correct": false,
+        "explanation": "Pericellular 'chicken-wire' fibrosis is characteristic of metabolic dysfunction-associated or alcoholic steatohepatitis, not interface hepatitis."
+      },
+      {
+        "text": "Interface hepatitis with dense lymphoplasmacytic infiltrates traversing the limiting plate and hepatocyte rosettes",
+        "correct": true,
+        "explanation": "This clinical picture represents TYPE 1 AUTOIMMUNE HEPATITIS (AIH), a chronic progressive hepatitis that predominantly affects young to middle-aged females and frequently co-occurs with other autoimmune disorders (type 1 diabetes, vitiligo, autoimmune thyroiditis). It is characterized serologically by high-titer ANTINUCLEAR ANTIBODIES (ANA), ANTI-SMOOTH MUSCLE ANTIBODIES (ASMA, directed against F-actin), and marked selective POLYCLONAL HYPERGAMMAGLOBULINEMIA (predominantly IgG). Liver biopsy is mandatory for definitive diagnosis and staging. The hallmark histological feature is INTERFACE HEPATITIS (piecemeal necrosis): a dense mononuclear inflammatory infiltrate consisting predominantly of LYMPHOCYTES AND ABUNDANT PLASMA CELLS that expands the portal tract, breaches the limiting plate, and invades the surrounding periportal hepatocyte parenchyma. Surviving periportal hepatocytes frequently undergo regenerative changes forming clustered pseudoglandular structures termed 'hepatocyte rosettes'. AIH shows a prompt, dramatic response to immunosuppressive therapy with corticosteroids (prednisone) and azathioprine."
+      },
+      {
+        "text": "Non-suppurative destructive cholangitis with disappearance of bile ducts in portal tracts",
+        "correct": false,
+        "explanation": "Ductopenia from destructive cholangitis is seen in PBC or chronic graft-versus-host disease, where ALP and GGT are disproportionately elevated compared to transaminases."
+      }
+    ],
+    "explanation": "This clinical picture represents TYPE 1 AUTOIMMUNE HEPATITIS (AIH), a chronic progressive hepatitis that predominantly affects young to middle-aged females and frequently co-occurs with other autoimmune disorders (type 1 diabetes, vitiligo, autoimmune thyroiditis). It is characterized serologically by high-titer ANTINUCLEAR ANTIBODIES (ANA), ANTI-SMOOTH MUSCLE ANTIBODIES (ASMA, directed against F-actin), and marked selective POLYCLONAL HYPERGAMMAGLOBULINEMIA (predominantly IgG). Liver biopsy is mandatory for definitive diagnosis and staging. The hallmark histological feature is INTERFACE HEPATITIS (piecemeal necrosis): a dense mononuclear inflammatory infiltrate consisting predominantly of LYMPHOCYTES AND ABUNDANT PLASMA CELLS that expands the portal tract, breaches the limiting plate, and invades the surrounding periportal hepatocyte parenchyma. Surviving periportal hepatocytes frequently undergo regenerative changes forming clustered pseudoglandular structures termed 'hepatocyte rosettes'. AIH shows a prompt, dramatic response to immunosuppressive therapy with corticosteroids (prednisone) and azathioprine. Young woman + AST/ALT >800 + IgG >2,500 + ASMA + ANA = Autoimmune Hepatitis (interface hepatitis with dense plasma cells).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Autoimmune Hepatitis Type 1 ASMA Interface Hepatitis Plasma Cell Infiltration.",
+    "keyPoints": [
+      "Autoimmune Hepatitis Type 1 ASMA Interface Hepatitis Plasma Cell Infiltration",
+      "Young woman + AST/ALT >800 + IgG >2,500 + ASMA + ANA = Autoimmune Hepatitis (interface hepatitis with dense plasma cells)."
+    ],
+    "references": [
+      {
+        "label": "Scott H. Markedly Elevated CA 19-9 in ANA/ASMA-Negative IgG4-Related Autoimmune Hepatitis With Concomitant Pancreatitis: A Case Report. Case Rep Gastrointest Med. 2026. PMID: 42015972.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42015972/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0985",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Biliary Atresia Fibro-Obliterative Extrahepatic Duct Destruction Kasai Timing",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 5-week-old full-term female infant is brought to the pediatrician because of yellowing of her skin and eyes that has worsened over the past 2 weeks. Her parents report that her urine has become dark amber and stains her diapers, and her stools have gradually become pale, clay-colored (acholic). She is breastfeeding vigorously and gaining weight appropriately. Physical examination reveals marked icterus and firm hepatomegaly extending 3 cm below the right costal margin; the spleen tip is palpable. Laboratory evaluation reveals: total bilirubin 9.8 mg/dL, direct bilirubin 7.2 mg/dL, AST 112 U/L, ALT 98 U/L, alkaline phosphatase 680 U/L, and GGT 520 U/L. Abdominal ultrasound demonstrates an absent or hypoplastic gallbladder and a triangular echogenic fibrous cord at the porta hepatis. Which of the following is the most urgent intervention indicated to prevent rapid progression to secondary biliary cirrhosis in this patient?",
+    "options": [
+      {
+        "text": "Immediate cholecystectomy with primary end-to-end choledochoduodenostomy",
+        "correct": false,
+        "explanation": "Primary choledochoduodenostomy is impossible because the entire extrahepatic biliary ductal system is fibrotic and atretic; Roux-en-Y hepatoportoenterostomy to the liver capsule is required."
+      },
+      {
+        "text": "Initiation of high-dose oral ursodeoxycholic acid and fat-soluble vitamin supplementation",
+        "correct": false,
+        "explanation": "While ursodeoxycholic acid and fat-soluble vitamins (A, D, E, K) are supportive adjunctive therapies, medical management cannot re-establish bile drainage across an anatomically obliterated extrahepatic tract and cannot prevent fatal cirrhosis."
+      },
+      {
+        "text": "Percutaneous transhepatic balloon dilation of intrahepatic biliary radicles",
+        "correct": false,
+        "explanation": "Biliary atresia is an extrahepatic obliterative process; balloon dilation cannot overcome the complete anatomical absence of patent extrahepatic ducts."
+      },
+      {
+        "text": "Elective orthotopic liver transplantation deferred until after 2 years of age",
+        "correct": false,
+        "explanation": "Delaying intervention until age 2 without a Kasai procedure will result in end-stage biliary cirrhosis, portal hypertension, and mortality before the child reaches age 2."
+      },
+      {
+        "text": "Hepatoportoenterostomy (Kasai procedure) performed before 60 days of life",
+        "correct": true,
+        "explanation": "This infant has BILIARY ATRESIA, a progressive fibro-obliterative disease of the extrahepatic biliary tree that leads to complete luminal obstruction of bile flow. It is the most common cause of neonatal cholestasis and the leading indication for pediatric liver transplantation. Infants typically appear healthy at birth and develop progressive direct (conjugated) hyperbilirubinemia, acholic (clay-colored) stools, and dark amber urine between 2 and 8 weeks of life. High GGT and alkaline phosphatase reflect severe cholestasis. Ultrasound may show an absent/contracted gallbladder and the 'triangular cord sign' (fibrous remnant at the porta hepatis). Early surgical intervention with a HEPATOPORTOENTEROSTOMY (KASAI PROCEDURE)—in which the fibrous porta hepatis is excised and an intestinal conduit (Roux-en-Y jejunal loop) is anastomosed directly to the exposed transected microductules of the liver hilum—is critical. Surgical success in establishing bile drainage is inversely related to age: success rates exceed 80% when performed before 60 days of life, but plummet to <20% if delayed beyond 90 days due to irreversible biliary cirrhosis."
+      }
+    ],
+    "explanation": "This infant has BILIARY ATRESIA, a progressive fibro-obliterative disease of the extrahepatic biliary tree that leads to complete luminal obstruction of bile flow. It is the most common cause of neonatal cholestasis and the leading indication for pediatric liver transplantation. Infants typically appear healthy at birth and develop progressive direct (conjugated) hyperbilirubinemia, acholic (clay-colored) stools, and dark amber urine between 2 and 8 weeks of life. High GGT and alkaline phosphatase reflect severe cholestasis. Ultrasound may show an absent/contracted gallbladder and the 'triangular cord sign' (fibrous remnant at the porta hepatis). Early surgical intervention with a HEPATOPORTOENTEROSTOMY (KASAI PROCEDURE)—in which the fibrous porta hepatis is excised and an intestinal conduit (Roux-en-Y jejunal loop) is anastomosed directly to the exposed transected microductules of the liver hilum—is critical. Surgical success in establishing bile drainage is inversely related to age: success rates exceed 80% when performed before 60 days of life, but plummet to <20% if delayed beyond 90 days due to irreversible biliary cirrhosis. 5-week infant + acholic stools + direct bilirubin 7.2 + triangular cord sign = Biliary Atresia (Kasai hepatoportoenterostomy before 60 days).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Biliary Atresia Fibro-Obliterative Extrahepatic Duct Destruction Kasai Timing.",
+    "keyPoints": [
+      "Biliary Atresia Fibro-Obliterative Extrahepatic Duct Destruction Kasai Timing",
+      "5-week infant + acholic stools + direct bilirubin 7.2 + triangular cord sign = Biliary Atresia (Kasai hepatoportoenterostomy before 60 days)."
+    ],
+    "references": [
+      {
+        "label": "González-Villarreal LC. Hilar cysts in jaundiced neonates: Diagnostic challenges and surgical outcomes at a National Pediatric Referral Center in Colombia. Cir Pediatr. 2026 Oct 19. PMID: 42992438.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42992438/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0986",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Gastrointestinal",
+    "topic": "Zollinger-Ellison Gastrinoma Secretin Paradoxical Stimulation Test Mechanism",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old man presents with persistent epigastric burning pain, watery diarrhea, and a 5-kg weight loss over the past 4 months. The pain improves briefly after eating but recurs 2 hours later. He has been taking omeprazole 40 mg daily for 2 months without substantial relief. Upper endoscopy reveals prominent, thickened gastric folds and multiple ulcerations in the second and third portions of the duodenum as well as the proximal jejunum. Fasting serum gastrin is 650 pg/mL (reference <100 pg/mL). Gastric pH is 1.4. To confirm the diagnosis, an intravenous secretin stimulation test is performed. Which of the following responses to secretin administration confirms the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "A paradoxical rise in serum gastrin concentration by >120 pg/mL above baseline",
+        "correct": true,
+        "explanation": "This patient has a GASTRINOMA (ZOLLINGER-ELLISON SYNDROME, ZES), a neuroendocrine tumor arising most commonly in the 'gastrinoma triangle' (duodenum, head of pancreas, porta hepatis) that hypersecretes GASTRIN. Unregulated gastrin binds to CCK-B receptors on enterochromaffin-like (ECL) cells, triggering massive histamine release that stimulates parietal cell H+/K+ ATPase to secrete excess gastric acid. This causes hypertrophic gastric rugae, multiple refractory peptic ulcers (especially in distal duodenum and jejunum, beyond the duodenal bulb), and watery secretory diarrhea (excess acid inactivates pancreatic lipase, causing steatorrhea). When fasting serum gastrin is non-diagnostic (between 110 and 1,000 pg/mL with pH <2.0), the definitive confirmatory test is the INTRAVENOUS SECRETIN STIMULATION TEST. Under normal physiological conditions, secretin inhibits antral G-cell gastrin release. However, gastrinoma cells express aberrant secretin receptors coupled to adenylate cyclase and intracellular calcium release; administration of IV secretin produces a PARADOXICAL RISE IN SERUM GASTRIN (typically >120 pg/mL above baseline, often >200 pg/mL), establishing the diagnosis of ZES."
+      },
+      {
+        "text": "A prompt suppression of serum gastrin to undetectable levels (<10 pg/mL)",
+        "correct": false,
+        "explanation": "Normal antral G cells are suppressed by secretin; a drop in gastrin occurs in physiological hypergastrinemia (e.g., atrophic gastritis, PPI use), not gastrinoma."
+      },
+      {
+        "text": "A profound increase in duodenal bicarbonate output exceeding 30 mEq/hr",
+        "correct": false,
+        "explanation": "While secretin stimulates pancreatic ductal bicarbonate excretion, secretin-stimulated bicarbonate output is a test for chronic pancreatitis (where it is reduced), not the diagnostic standard for gastrinoma."
+      },
+      {
+        "text": "A marked elevation of serum somatostatin with cessation of diarrhea",
+        "correct": false,
+        "explanation": "Secretin does not cause massive somatostatin release in ZES; somatostatin analogues (octreotide) are therapeutic agents, not the diagnostic response elicited by secretin."
+      },
+      {
+        "text": "A rapid alkalization of gastric aspirate to pH >6.0 within 15 minutes",
+        "correct": false,
+        "explanation": "Secretin does not neutralize gastric acid in ZES; acid production remains robustly elevated despite secretin infusion."
+      }
+    ],
+    "explanation": "This patient has a GASTRINOMA (ZOLLINGER-ELLISON SYNDROME, ZES), a neuroendocrine tumor arising most commonly in the 'gastrinoma triangle' (duodenum, head of pancreas, porta hepatis) that hypersecretes GASTRIN. Unregulated gastrin binds to CCK-B receptors on enterochromaffin-like (ECL) cells, triggering massive histamine release that stimulates parietal cell H+/K+ ATPase to secrete excess gastric acid. This causes hypertrophic gastric rugae, multiple refractory peptic ulcers (especially in distal duodenum and jejunum, beyond the duodenal bulb), and watery secretory diarrhea (excess acid inactivates pancreatic lipase, causing steatorrhea). When fasting serum gastrin is non-diagnostic (between 110 and 1,000 pg/mL with pH <2.0), the definitive confirmatory test is the INTRAVENOUS SECRETIN STIMULATION TEST. Under normal physiological conditions, secretin inhibits antral G-cell gastrin release. However, gastrinoma cells express aberrant secretin receptors coupled to adenylate cyclase and intracellular calcium release; administration of IV secretin produces a PARADOXICAL RISE IN SERUM GASTRIN (typically >120 pg/mL above baseline, often >200 pg/mL), establishing the diagnosis of ZES. Refractory jejunal peptic ulcers + diarrhea + secretin stimulation = paradoxical gastrin rise (>120 pg/mL) confirming gastrinoma.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Zollinger-Ellison Gastrinoma Secretin Paradoxical Stimulation Test Mechanism.",
+    "keyPoints": [
+      "Zollinger-Ellison Gastrinoma Secretin Paradoxical Stimulation Test Mechanism",
+      "Refractory jejunal peptic ulcers + diarrhea + secretin stimulation = paradoxical gastrin rise (>120 pg/mL) confirming gastrinoma."
+    ],
+    "references": [
+      {
+        "label": "Alexander RG. Diarrhea, Weight Loss, and an Elevated Gastrin: A Case Report. Case Rep Gastroenterol. 2025 Jan-Dec. PMID: 40503451.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40503451/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0987",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Gastrointestinal",
+    "topic": "VIPoma WDHA Syndrome Enterocyte cAMP Mediated Secretory Diarrhea",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old woman presents with severe, unrelenting watery diarrhea for the past 6 weeks. She reports 10 to 15 bowel movements per day, which persist during a 48-hour hospital fasting trial with a stool volume of 3.2 liters per day. She also reports episodic facial flushing and diffuse muscle cramps. Physical examination reveals dry mucous membranes and flat neck veins. Laboratory evaluation shows: sodium 134 mEq/L, potassium 2.1 mEq/L, chloride 108 mEq/L, bicarbonate 16 mEq/L, BUN 42 mg/dL, and creatinine 1.8 mg/dL. Stool analysis reveals: stool osmolality 290 mOsm/kg, stool sodium 95 mEq/L, stool potassium 45 mEq/L (calculated stool osmotic gap = 290 - 2*(95 + 45) = 10 mOsm/kg). Gastric fluid analysis reveals an aspirate pH of 6.8. Contrast-enhanced abdominal CT reveals a 4.5-cm solitary hypervascular mass in the pancreatic tail. Which of the following molecular cascades in intestinal epithelial cells is directly driven by the hormone secreted by this tumor?",
+    "options": [
+      {
+        "text": "Activation of phospholipase C generating inositol trisphosphate and intracellular calcium mobilization",
+        "correct": false,
+        "explanation": "Phospholipase C/IP3 signaling is utilized by gastrin, CCK, and acetylcholine (M3 receptors), which stimulate gastric acid secretion rather than causing achlorhydria."
+      },
+      {
+        "text": "Stimulation of adenylyl cyclase causing increased intracellular cyclic AMP and apical CFTR chloride secretion",
+        "correct": true,
+        "explanation": "This patient has a VIPOMA (also known as VERNER-MORRISON SYNDROME or WDHA SYNDROME: Watery Diarrhea, Hypokalemia, Achlorhydria), a rare neuroendocrine tumor typically located in the pancreatic tail that hypersecretes VASOACTIVE INTESTINAL PEPTIDE (VIP). VIP binds to VPAC1 and VPAC2 G-protein-coupled receptors on intestinal epithelial cells, activating G-alpha-s, which stimulates ADENYLYL CYCLASE, markedly elevating intracellular CYCLIC AMP (cAMP). Elevated cAMP activates protein kinase A (PKA), which phosphorylates and opens apical CFTR chloride channels and basolateral potassium channels, driving massive active secretion of chloride, potassium, and water into the intestinal lumen, while inhibiting electroneutral NaCl absorption. This produces copious, secretory diarrhea (>3 L/day) that characteristically PERSISTS DURING FASTING with a LOW STOOL OSMOTIC GAP (<50 mOsm/kg). High luminal potassium and bicarbonate wasting lead to severe hypokalemia and normal anion gap metabolic acidosis. Concurrently, VIP INHIBITS GASTRIC ACID SECRETION by parietal cells, producing ACHLORHYDRIA or hypochlorhydria (gastric pH >6.0). Treatment involves somatostatin analogues (octreotide) and surgical resection."
+      },
+      {
+        "text": "Inhibition of enterocyte guanylyl cyclase C preventing cyclic GMP formation",
+        "correct": false,
+        "explanation": "Heat-stable enterotoxin of E. coli and linaclotide ACTIVATE guanylyl cyclase C to elevate cGMP; inhibition would prevent secretory diarrhea, not cause it."
+      },
+      {
+        "text": "Direct blockade of basolateral Na+/K+ ATPase leading to enterocyte sodium retention",
+        "correct": false,
+        "explanation": "Inhibition of Na+/K+ ATPase is the mechanism of cardiac glycosides (digoxin); VIP stimulates secretory transport through cAMP-dependent apical chloride channels."
+      },
+      {
+        "text": "Upregulation of mucosal somatostatin receptor sst2 coupled to inhibitory Gi protein",
+        "correct": false,
+        "explanation": "Somatostatin analogues (octreotide) activate sst2/Gi to INHIBIT adenylyl cyclase and treat VIPoma; the tumor's secreted hormone (VIP) stimulates adenylyl cyclase via Gs."
+      }
+    ],
+    "explanation": "This patient has a VIPOMA (also known as VERNER-MORRISON SYNDROME or WDHA SYNDROME: Watery Diarrhea, Hypokalemia, Achlorhydria), a rare neuroendocrine tumor typically located in the pancreatic tail that hypersecretes VASOACTIVE INTESTINAL PEPTIDE (VIP). VIP binds to VPAC1 and VPAC2 G-protein-coupled receptors on intestinal epithelial cells, activating G-alpha-s, which stimulates ADENYLYL CYCLASE, markedly elevating intracellular CYCLIC AMP (cAMP). Elevated cAMP activates protein kinase A (PKA), which phosphorylates and opens apical CFTR chloride channels and basolateral potassium channels, driving massive active secretion of chloride, potassium, and water into the intestinal lumen, while inhibiting electroneutral NaCl absorption. This produces copious, secretory diarrhea (>3 L/day) that characteristically PERSISTS DURING FASTING with a LOW STOOL OSMOTIC GAP (<50 mOsm/kg). High luminal potassium and bicarbonate wasting lead to severe hypokalemia and normal anion gap metabolic acidosis. Concurrently, VIP INHIBITS GASTRIC ACID SECRETION by parietal cells, producing ACHLORHYDRIA or hypochlorhydria (gastric pH >6.0). Treatment involves somatostatin analogues (octreotide) and surgical resection. Persistent watery diarrhea while fasting + hypokalemia + achlorhydria + pancreatic tail mass = VIPoma (cAMP-mediated intestinal secretagogue).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of VIPoma WDHA Syndrome Enterocyte cAMP Mediated Secretory Diarrhea.",
+    "keyPoints": [
+      "VIPoma WDHA Syndrome Enterocyte cAMP Mediated Secretory Diarrhea",
+      "Persistent watery diarrhea while fasting + hypokalemia + achlorhydria + pancreatic tail mass = VIPoma (cAMP-mediated intestinal secretagogue)."
+    ],
+    "references": [
+      {
+        "label": "Amano S. Living Donor Liver Transplantation for Vasoactive Intestinal Peptide-Secreting Tumors with Watery Diarrhea, Hypokalemia, and Achlorhydria Syndrome Resulting from Transformation of a Nonfunctional Pancreatic Neuroendocrine Tumor with Multiple Liver Meta... PMID: 42889871.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42889871/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0988",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Carcinoid Syndrome Serotonin Cardiac Plaque Pulmonary MAO Degradation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old man presents with episodic bright red flushing of his face and upper neck accompanied by a warm sensation, and 6 to 8 daily watery bowel movements over the past 8 months. Recently, he has developed progressive exertional dyspnea and bilateral ankle swelling. Physical examination reveals facial telangiectasias, mild hepatomegaly, a prominent jugular venous 'v' wave, and a high-pitched holosystolic murmur at the left lower sternal border that increases in intensity with inspiration. Echocardiography demonstrates marked thickening, retraction, and immobility of the tricuspid valve leaflets with severe tricuspid regurgitation and mild pulmonary valve stenosis; the mitral and aortic valves are structurally and functionally normal. Contrast-enhanced CT of the abdomen reveals multiple hyperenhancing lesions in both hepatic lobes and a small, hypervascular mass in the distal ileum with surrounding mesenteric desmoplasia. Which of the following explains why the left-sided cardiac valves are spared in this patient?",
+    "options": [
+      {
+        "text": "Left ventricular high-pressure hemodynamics physically dislodge fibroelastic plaque deposits",
+        "correct": false,
+        "explanation": "Mechanical shear stress in the high-pressure left ventricle does not prevent plaque formation; rather, biochemical enzymatic inactivation in the lungs prevents exposure."
+      },
+      {
+        "text": "Coronary sinus endothelial cells express somatostatin receptors that inhibit fibroblast proliferation",
+        "correct": false,
+        "explanation": "Coronary sinus endothelium does not degrade serotonin or selectively protect the left heart valves."
+      },
+      {
+        "text": "High concentrations of pulmonary monoamine oxidase metabolize circulating serotonin into 5-HIAA",
+        "correct": true,
+        "explanation": "This patient has CARCINOID SYNDROME caused by a metastatic neuroendocrine tumor (NET) of the MIDGUT (distal ileum). Primary midgut carcinoid tumors secrete serotonin (5-HT), bradykinin, and prostaglandins into the portal circulation, where they are completely metabolized and inactivated by hepatic first-pass metabolism (monoamine oxidase, MAO). Therefore, carcinoid syndrome manifests ONLY AFTER HEPATIC METASTASES develop, enabling vasoactive substances to bypass the liver and enter hepatic veins and the inferior vena cava directly. High circulating serotonin levels stimulate 5-HT2B receptors on subendothelial cardiac fibroblasts, promoting extensive collagen deposition and fibrous plaque formation on the TRICUSPID AND PULMONARY VALVES (carcinoid heart disease: tricuspid regurgitation, pulmonary stenosis). Crucially, the LEFT-SIDED CARDIAC VALVES (mitral and aortic) are characteristically SPARED because the pulmonary vascular bed is richly endowed with MONOAMINE OXIDASE-A (MAO-A) and pulmonary endothelial serotonin reuptake transporters, which rapidly convert bioactive serotonin into inactive 5-hydroxyindoleacetic acid (5-HIAA) before blood enters the left heart. Left-sided carcinoid heart disease occurs only in the presence of a right-to-left intracardiac shunt (e.g., patent foramen ovale) or a primary bronchial carcinoid tumor."
+      },
+      {
+        "text": "Serotonin undergoes selective renal clearance before entering systemic bronchial arterial circulation",
+        "correct": false,
+        "explanation": "Serotonin is not cleared by the kidneys prior to pulmonary circulation; blood passes directly from the IVC through the right heart into the lungs."
+      },
+      {
+        "text": "Alveolar type II pneumocytes selectively synthesize prostaglandin E2 that degrades serotonin receptors",
+        "correct": false,
+        "explanation": "Type II pneumocytes produce pulmonary surfactant; they do not secrete prostaglandins that downregulate cardiac serotonin receptors."
+      }
+    ],
+    "explanation": "This patient has CARCINOID SYNDROME caused by a metastatic neuroendocrine tumor (NET) of the MIDGUT (distal ileum). Primary midgut carcinoid tumors secrete serotonin (5-HT), bradykinin, and prostaglandins into the portal circulation, where they are completely metabolized and inactivated by hepatic first-pass metabolism (monoamine oxidase, MAO). Therefore, carcinoid syndrome manifests ONLY AFTER HEPATIC METASTASES develop, enabling vasoactive substances to bypass the liver and enter hepatic veins and the inferior vena cava directly. High circulating serotonin levels stimulate 5-HT2B receptors on subendothelial cardiac fibroblasts, promoting extensive collagen deposition and fibrous plaque formation on the TRICUSPID AND PULMONARY VALVES (carcinoid heart disease: tricuspid regurgitation, pulmonary stenosis). Crucially, the LEFT-SIDED CARDIAC VALVES (mitral and aortic) are characteristically SPARED because the pulmonary vascular bed is richly endowed with MONOAMINE OXIDASE-A (MAO-A) and pulmonary endothelial serotonin reuptake transporters, which rapidly convert bioactive serotonin into inactive 5-hydroxyindoleacetic acid (5-HIAA) before blood enters the left heart. Left-sided carcinoid heart disease occurs only in the presence of a right-to-left intracardiac shunt (e.g., patent foramen ovale) or a primary bronchial carcinoid tumor. Ileal neuroendocrine tumor + liver metastases + tricuspid regurgitation + normal mitral valve = pulmonary MAO-A degradation of serotonin.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Carcinoid Syndrome Serotonin Cardiac Plaque Pulmonary MAO Degradation.",
+    "keyPoints": [
+      "Carcinoid Syndrome Serotonin Cardiac Plaque Pulmonary MAO Degradation",
+      "Ileal neuroendocrine tumor + liver metastases + tricuspid regurgitation + normal mitral valve = pulmonary MAO-A degradation of serotonin."
+    ],
+    "references": [
+      {
+        "label": "Khederlou H. Carcinoid Heart Disease Associated with a Primary Ovarian Stromal Carcinoid Tumor: A Case Report and a Review of the Literature. Case Rep Oncol. 2026 Jan-Dec. PMID: 42923515.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42923515/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0989",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Gastrointestinal",
+    "topic": "Celiac Disease Tissue Transglutaminase Deamidation HLA-DQ2/DQ8 Presentation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old woman presents with persistent abdominal bloating, foul-smelling diarrhea with floating stools, and a 6-kg weight loss over the past 6 months. She also notes an intensely pruritic rash consisting of tiny vesicles grouped on an erythematous base symmetrically distributed over the extensor surfaces of both elbows and knees. Laboratory evaluation reveals: hemoglobin 10.2 g/dL, MCV 72 fL, serum ferritin 9 ng/mL, and serum IgA anti-tissue transglutaminase (anti-tTG) antibody titers markedly elevated at >100 U/mL (reference <10 U/mL). Upper endoscopy with duodenal biopsy is performed. Which of the following immunological events represents the initial enzymatic modification of dietary antigen required for disease pathogenesis?",
+    "options": [
+      {
+        "text": "Cleavage of transglutaminase-bound gliadin by neutrophil elastase at the basolateral membrane",
+        "correct": false,
+        "explanation": "Neutrophil elastase degrades extracellular elastin; it does not perform the defining enzymatic modification (deamidation) in celiac pathogenesis."
+      },
+      {
+        "text": "Phosphorylation of serine residues on alpha-gliadin by protein kinase C in enterocyte cytoplasm",
+        "correct": false,
+        "explanation": "Phosphorylation is not the mechanism of antigen modification; tissue transglutaminase deamidates glutamine to negatively charged glutamic acid."
+      },
+      {
+        "text": "Lysosomal glycosylation of deamidated gliadin peptides within intraepithelial lymphocytes",
+        "correct": false,
+        "explanation": "Glycosylation is not involved in celiac pathogenesis; deamidated peptides bind directly to HLA-DQ2/DQ8 grooves without glycosylation."
+      },
+      {
+        "text": "Deamidation of glutamine residues in gliadin peptides by tissue transglutaminase",
+        "correct": true,
+        "explanation": "CELIAC DISEASE (gluten-sensitive enteropathy) is an immune-mediated enteropathy triggered by the ingestion of gluten-containing grains (wheat, barley, rye). Gluten contains the proline- and glutamine-rich protein GLIADIN, which is resistant to gastric, pancreatic, and brush-border proteolytic degradation. Intact 33-mer gliadin peptides cross the intestinal epithelial barrier into the lamina propria. In the lamina propria, the enzyme TISSUE TRANSGLUTAMINASE (tTG, transglutaminase 2) catalyzes the DEAMIDATION of neutral glutamine residues into negatively charged GLUTAMIC ACID. This negative charge enables deamidated gliadin peptides to bind with high affinity into the positively charged antigen-binding pockets of HLA-DQ2 or HLA-DQ8 heterodimers on antigen-presenting cells (dendritic cells and macrophages). Presenting cells then activate CD4+ T helper cells, which release pro-inflammatory cytokines (IFN-gamma) and stimulate B cells to produce anti-tTG, anti-deamidated gliadin peptides (anti-DGP), and anti-endomysial antibodies. Concurrently, enterocytes express IL-15, which transforms intraepithelial lymphocytes into cytotoxic CD8+ NK-like T cells that kill enterocytes via MIC-A/NKG2D, producing the classic histopathology: intraepithelial lymphocytosis, crypt hyperplasia, and villous atrophy predominantly in the duodenum and jejunum. Associated dermatitis herpetiformis results from dermal IgA deposition."
+      },
+      {
+        "text": "Ubiquitination of enterocyte tight junction claudins by mucosal natural killer cells",
+        "correct": false,
+        "explanation": "While barrier permeability may increase, enterocyte damage is driven by cytotoxic CD8+ intraepithelial lymphocytes targeting MIC-A, not ubiquitin ligase degradation of claudins."
+      }
+    ],
+    "explanation": "CELIAC DISEASE (gluten-sensitive enteropathy) is an immune-mediated enteropathy triggered by the ingestion of gluten-containing grains (wheat, barley, rye). Gluten contains the proline- and glutamine-rich protein GLIADIN, which is resistant to gastric, pancreatic, and brush-border proteolytic degradation. Intact 33-mer gliadin peptides cross the intestinal epithelial barrier into the lamina propria. In the lamina propria, the enzyme TISSUE TRANSGLUTAMINASE (tTG, transglutaminase 2) catalyzes the DEAMIDATION of neutral glutamine residues into negatively charged GLUTAMIC ACID. This negative charge enables deamidated gliadin peptides to bind with high affinity into the positively charged antigen-binding pockets of HLA-DQ2 or HLA-DQ8 heterodimers on antigen-presenting cells (dendritic cells and macrophages). Presenting cells then activate CD4+ T helper cells, which release pro-inflammatory cytokines (IFN-gamma) and stimulate B cells to produce anti-tTG, anti-deamidated gliadin peptides (anti-DGP), and anti-endomysial antibodies. Concurrently, enterocytes express IL-15, which transforms intraepithelial lymphocytes into cytotoxic CD8+ NK-like T cells that kill enterocytes via MIC-A/NKG2D, producing the classic histopathology: intraepithelial lymphocytosis, crypt hyperplasia, and villous atrophy predominantly in the duodenum and jejunum. Associated dermatitis herpetiformis results from dermal IgA deposition. Duodenal villous blunting + dermatitis herpetiformis + anti-tTG = tTG deamidation of gliadin glutamine residues to glutamic acid.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Celiac Disease Tissue Transglutaminase Deamidation HLA-DQ2/DQ8 Presentation.",
+    "keyPoints": [
+      "Celiac Disease Tissue Transglutaminase Deamidation HLA-DQ2/DQ8 Presentation",
+      "Duodenal villous blunting + dermatitis herpetiformis + anti-tTG = tTG deamidation of gliadin glutamine residues to glutamic acid."
+    ],
+    "references": [
+      {
+        "label": "Gawron-Kiszka M. Guidelines for the management of coeliac disease: recommendations of the Intestinal Diseases Section of the Polish Society of Gastroenterology. Prz Gastroenterol. 2026. PMID: 42889705.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42889705/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0990",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "Gastrointestinal",
+    "topic": "Whipple Disease Tropheryma Whipplei PAS-Positive Foamy Macrophages",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old white male farmer presents with progressive fatigue, abdominal cramps, diarrhea, and a 12-kg weight loss over the past year. Over the preceding 5 years, he suffered from recurrent migratory, non-deforming polyarthralgias affecting his knees, ankles, and wrists that were managed intermittently with NSAIDs. Physical examination reveals temporal wasting, generalized nontender lymphadenopathy, hyperpigmentation of sun-exposed skin, and mild diffuse abdominal tenderness without rebound. Neurological examination is notable for supranuclear vertical gaze palsy and rhythmic contractions of the masticatory muscles synchronous with ocular movements (oculomasticatory myorhythmia). Laboratory studies show: hemoglobin 9.4 g/dL, MCV 78 fL, albumin 2.4 g/dL, and elevated ESR at 78 mm/hr. Upper endoscopy reveals pale yellow, shaggy plaques in the duodenum. A mucosal biopsy is obtained. Microscopic evaluation will most likely demonstrate which of the following findings?",
+    "options": [
+      {
+        "text": "Mucosal expansion by CD4+ T lymphocytes forming transmural noncaseating granulomas with Langhans giant cells",
+        "correct": false,
+        "explanation": "Noncaseating granulomas with transmural lymphoid infiltration characterize Crohn disease, which lacks PAS-positive foamy macrophages and oculomasticatory myorhythmia."
+      },
+      {
+        "text": "Dense infiltration of lamina propria by clonal plasma cells displaying lambda light chain restriction and Congo red birefringence",
+        "correct": false,
+        "explanation": "AL amyloidosis shows apple-green birefringence under polarized light after Congo red staining, not intracellular PAS-positive bacillary inclusions."
+      },
+      {
+        "text": "Epithelial detachment and intraepithelial neutrophilic crypt abscesses with mucosal pseudomembrane formation",
+        "correct": false,
+        "explanation": "Crypt abscesses are characteristic of ulcerative colitis, and pseudomembranes occur in Clostridioides difficile colitis, neither of which causes systemic migratory arthralgias and oculomasticatory myorhythmia."
+      },
+      {
+        "text": "Prominent atrophy of mucosal crypts with extensive eosinophilic infiltration and multinucleated epithelial giant cells",
+        "correct": false,
+        "explanation": "Intestinal crypt atrophy with eosinophils occurs in eosinophilic gastroenteritis, which does not present with systemic lymphadenopathy or PAS-positive macrophage accumulation."
+      },
+      {
+        "text": "Lamina propria distended by foamy macrophages containing periodic acid-Schiff (PAS)-positive, diastase-resistant cytoplasmic granules",
+        "correct": true,
+        "explanation": "This patient has WHIPPLE DISEASE, a rare systemic infectious disease caused by the Gram-positive actinomycete bacterium TROPHERYMA WHIPPLEI. The classic clinical presentation is summarized by the triad or tetrad of: (1) Migratory, seronegative polyarthralgias (often preceding GI symptoms by years); (2) Malabsorption syndrome with chronic diarrhea, weight loss, and abdominal pain; (3) Hyperpigmentation and lymphadenopathy; and (4) Neurological manifestations, particularly cognitive changes, supranuclear ophthalmoplegia, and the pathognomonic OCULOMASTICATORY MYORHYTHMIA (synchronous ocular convergent oscillations and rhythmic jaw contractions). The diagnostic hallmark on small intestinal mucosal biopsy is the expansion of the LAMINA PROPRIA BY MASSES OF FOAMY MACROPHAGES packed with PAS-POSITIVE, DIASTASE-RESISTANT inclusions. The PAS positivity reflects the carbohydrate-rich bacterial cell wall glycoprotein, which resists diastase enzymatic digestion. Electron microscopy reveals intact and degenerating rod-shaped bacillary organisms within macrophage phagolysosomes. Intestinal villi are blunted, and lacteals are engorged with lipid droplets. T. whipplei is treated with IV ceftriaxone or penicillin followed by oral trimethoprim-sulfamethoxazole for 1 full year to eradicate the organism and prevent neurological relapse."
+      }
+    ],
+    "explanation": "This patient has WHIPPLE DISEASE, a rare systemic infectious disease caused by the Gram-positive actinomycete bacterium TROPHERYMA WHIPPLEI. The classic clinical presentation is summarized by the triad or tetrad of: (1) Migratory, seronegative polyarthralgias (often preceding GI symptoms by years); (2) Malabsorption syndrome with chronic diarrhea, weight loss, and abdominal pain; (3) Hyperpigmentation and lymphadenopathy; and (4) Neurological manifestations, particularly cognitive changes, supranuclear ophthalmoplegia, and the pathognomonic OCULOMASTICATORY MYORHYTHMIA (synchronous ocular convergent oscillations and rhythmic jaw contractions). The diagnostic hallmark on small intestinal mucosal biopsy is the expansion of the LAMINA PROPRIA BY MASSES OF FOAMY MACROPHAGES packed with PAS-POSITIVE, DIASTASE-RESISTANT inclusions. The PAS positivity reflects the carbohydrate-rich bacterial cell wall glycoprotein, which resists diastase enzymatic digestion. Electron microscopy reveals intact and degenerating rod-shaped bacillary organisms within macrophage phagolysosomes. Intestinal villi are blunted, and lacteals are engorged with lipid droplets. T. whipplei is treated with IV ceftriaxone or penicillin followed by oral trimethoprim-sulfamethoxazole for 1 full year to eradicate the organism and prevent neurological relapse. Migratory arthritis + malabsorption + oculomasticatory myorhythmia = Whipple disease (Tropheryma whipplei; PAS-positive diastase-resistant macrophages).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Whipple Disease Tropheryma Whipplei PAS-Positive Foamy Macrophages.",
+    "keyPoints": [
+      "Whipple Disease Tropheryma Whipplei PAS-Positive Foamy Macrophages",
+      "Migratory arthritis + malabsorption + oculomasticatory myorhythmia = Whipple disease (Tropheryma whipplei; PAS-positive diastase-resistant macrophages)."
+    ],
+    "references": [
+      {
+        "label": "Lima R. Trust Your Gut: Recognizing Whipple's Disease Beyond the Intestine. Cureus. 2026 Feb. PMID: 41798491.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41798491/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0991",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Crohn Disease Transmural Inflammation Noncaseating Granulomas Creeping Fat",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man presents with right lower quadrant abdominal pain, low-grade fevers, and 4 to 5 non-bloody bowel movements daily for the past 5 months. He has lost 5 kg. Physical examination reveals tenderness in the right iliac fossa with a palpable, tender fullness, as well as an erythematous, draining perianal fissure. Colonoscopy reveals scattered, deep linear (serpiginous) ulcers separated by segments of completely normal-appearing mucosa ('skip lesions') in the terminal ileum and ascending colon; the rectum is completely normal. Surgical resection of an obstructed ileal segment is performed. Which of the following pathological features observed on gross and microscopic evaluation of the surgical specimen is most specific for this patient's disease?",
+    "options": [
+      {
+        "text": "Transmural lymphoid inflammation with noncaseating epithelioid granulomas and mesenteric 'creeping fat'",
+        "correct": true,
+        "explanation": "This patient has CROHN DISEASE, an inflammatory bowel disease characterized by chronic granulomatous inflammation affecting any part of the gastrointestinal tract from mouth to anus, most commonly the terminal ileum and proximal colon. Pathognomonic and characteristic features include: (1) TRANSMURAL INFLAMMATION: the inflammatory process involves all layers of the intestinal wall (mucosa, submucosa, muscularis propria, subserosa), predisposing to deep fissuring ulcers, fistulas (perianal, enterocutaneous, enterovesical), and fibrous strictures with bowel obstruction; (2) NONCASEATING EPITHELIOID GRANULOMAS: present in ~50-60% of cases, found across all bowel wall layers and in draining mesenteric lymph nodes; (3) SKIP LESIONS: sharply demarcated areas of disease interspersed with normal intervening mucosa; (4) 'CREEPING FAT' (fat wrapping): extensive hypertrophy and extension of mesenteric adipose tissue wrapping around the antimesenteric serosal surface of the bowel; and (5) 'COBBLESTONE' mucosal appearance produced by intersecting longitudinal and transverse linear ulcers separating islands of edematous mucosa. In contrast, ulcerative colitis is confined to the mucosa and submucosa, begins in the rectum and extends proximally in a continuous fashion without skip lesions, never forms granulomas, and never exhibits transmural creeping fat."
+      },
+      {
+        "text": "Inflammation strictly limited to the mucosa and submucosa with extensive crypt abscesses and mucosal pseudopolyps",
+        "correct": false,
+        "explanation": "Mucosa- and submucosa-limited inflammation with crypt abscesses and pseudopolyps is the defining pathological hallmark of ulcerative colitis."
+      },
+      {
+        "text": "Concentric muscularis propria hypertrophy with complete absence of myenteric ganglion cells",
+        "correct": false,
+        "explanation": "Absence of ganglion cells defines Hirschsprung disease, a congenital defect in neural crest migration causing functional distal obstruction."
+      },
+      {
+        "text": "Superficial ischemic necrosis of mucosal surface with 'ghost-like' tubular glands and fibrin pseudomembranes",
+        "correct": false,
+        "explanation": "Ischemic colitis manifests with mucosal sloughing, ghost glands, and hyalinized lamina propria in watershed territories (splenic flexure), not perianal fistulas and transmural creeping fat."
+      },
+      {
+        "text": "Dense submucosal deposits of amorphous eosinophilic material demonstrating apple-green birefringence",
+        "correct": false,
+        "explanation": "This describes gastrointestinal amyloidosis, which produces malabsorption or dysmotility without perianal fistulas or skip ulcerations."
+      }
+    ],
+    "explanation": "This patient has CROHN DISEASE, an inflammatory bowel disease characterized by chronic granulomatous inflammation affecting any part of the gastrointestinal tract from mouth to anus, most commonly the terminal ileum and proximal colon. Pathognomonic and characteristic features include: (1) TRANSMURAL INFLAMMATION: the inflammatory process involves all layers of the intestinal wall (mucosa, submucosa, muscularis propria, subserosa), predisposing to deep fissuring ulcers, fistulas (perianal, enterocutaneous, enterovesical), and fibrous strictures with bowel obstruction; (2) NONCASEATING EPITHELIOID GRANULOMAS: present in ~50-60% of cases, found across all bowel wall layers and in draining mesenteric lymph nodes; (3) SKIP LESIONS: sharply demarcated areas of disease interspersed with normal intervening mucosa; (4) 'CREEPING FAT' (fat wrapping): extensive hypertrophy and extension of mesenteric adipose tissue wrapping around the antimesenteric serosal surface of the bowel; and (5) 'COBBLESTONE' mucosal appearance produced by intersecting longitudinal and transverse linear ulcers separating islands of edematous mucosa. In contrast, ulcerative colitis is confined to the mucosa and submucosa, begins in the rectum and extends proximally in a continuous fashion without skip lesions, never forms granulomas, and never exhibits transmural creeping fat. Right lower quadrant pain + skip lesions + perianal fistula + creeping fat = Crohn disease (transmural inflammation with noncaseating granulomas).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Crohn Disease Transmural Inflammation Noncaseating Granulomas Creeping Fat.",
+    "keyPoints": [
+      "Crohn Disease Transmural Inflammation Noncaseating Granulomas Creeping Fat",
+      "Right lower quadrant pain + skip lesions + perianal fistula + creeping fat = Crohn disease (transmural inflammation with noncaseating granulomas)."
+    ],
+    "references": [
+      {
+        "label": "Gong YX. [Clinicopathological and molecular genetic features of Crohn's disease]. Zhonghua Bing Li Xue Za Zhi. 2024 Apr 8. PMID: 38556818.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38556818/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0992",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Gastrointestinal",
+    "topic": "Familial Adenomatous Polyposis APC Beta-Catenin Wnt Pathway Dysregulation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old asymptomatic man presents for genetic counseling and screening. His father was diagnosed with colon cancer at age 38, and his paternal grandfather died of metastatic colorectal cancer in his early 40s. A screening colonoscopy reveals carpet-like polyposis consisting of more than 1,500 pedunculated and sessile adenomatous polyps distributed throughout the entire colon and rectum. Physical examination reveals a non-tender, bony prominence on the angle of the left mandible, and fundoscopic examination reveals multiple pigmented retinal lesions consistent with congenital hypertrophy of the retinal pigment epithelium (CHRPE). Genetic analysis reveals a germline nonsense mutation on chromosome 5q21. Which of the following downstream cellular alterations directly drives polyp development in this patient?",
+    "options": [
+      {
+        "text": "Defective nucleotide excision repair resulting in thymine dimer accumulation upon exposure to reactive nitrogen species",
+        "correct": false,
+        "explanation": "Defective nucleotide excision repair causes xeroderma pigmentosum, which produces extreme skin cancer risk upon UV exposure, not colonic polyposis."
+      },
+      {
+        "text": "Failure of beta-catenin ubiquitination and degradation leading to constitutive nuclear transcription of cyclin D1 and c-Myc",
+        "correct": true,
+        "explanation": "This patient has FAMILIAL ADENOMATOUS POLYPOSIS (FAP, Gardner variant), an autosomal dominant inherited cancer predisposition syndrome caused by germline mutations in the APC (adenomatous polyposis coli) tumor suppressor gene on chromosome 5q21. Gardner syndrome comprises classical FAP (hundreds to thousands of colorectal adenomas) plus extracolonic manifestations: osteomas (mandible/skull), dental abnormalities, soft tissue desmoid tumors, epidermoid cysts, and congenital hypertrophy of the retinal pigment epithelium (CHRPE). Under physiological conditions, the APC protein forms a 'destruction complex' with axin and glycogen synthase kinase 3-beta (GSK3-beta) that phosphorylates BETA-CATENIN, targeting it for ubiquitination and degradation by the 26S proteasome. When APC is truncated or lost (following 'second-hit' somatic inactivation in a colonic crypt stem cell), the destruction complex cannot form. Unphosphorylated beta-catenin accumulates in the cytoplasm, translocates into the nucleus, and forms a transcriptional complex with TCF/LEF transcription factors. This constitutively drives the expression of proto-oncogenes including CYCLIN D1 and C-MYC, promoting continuous G1/S cell-cycle progression and adenoma formation. 100% of untreated patients progress to colorectal adenocarcinoma by age 40."
+      },
+      {
+        "text": "Inactivation of the PTEN phosphatase resulting in uncontrolled PIP3 phosphorylation and AKT signaling",
+        "correct": false,
+        "explanation": "PTEN germline mutations cause Cowden syndrome, characterized by hamartomatous polyps, breast and thyroid cancers, not profuse adenomatous polyposis and CHRPE."
+      },
+      {
+        "text": "Microsatelite instability due to hypermethylation of the MLH1 promoter with deficient mismatch repair",
+        "correct": false,
+        "explanation": "MSI-H from MLH1 hypermethylation occurs in sporadic colorectal cancers with the serrated pathway, or in Lynch syndrome via germline MMR mutations without carpet-like polyposis."
+      },
+      {
+        "text": "Failure of the spindle assembly checkpoint leading to aneuploidy driven by BUB1B kinase mutations",
+        "correct": false,
+        "explanation": "BUB1B mutations cause mosaic variegated aneuploidy syndrome, presenting with growth deficiency and microcephaly, not classical FAP."
+      }
+    ],
+    "explanation": "This patient has FAMILIAL ADENOMATOUS POLYPOSIS (FAP, Gardner variant), an autosomal dominant inherited cancer predisposition syndrome caused by germline mutations in the APC (adenomatous polyposis coli) tumor suppressor gene on chromosome 5q21. Gardner syndrome comprises classical FAP (hundreds to thousands of colorectal adenomas) plus extracolonic manifestations: osteomas (mandible/skull), dental abnormalities, soft tissue desmoid tumors, epidermoid cysts, and congenital hypertrophy of the retinal pigment epithelium (CHRPE). Under physiological conditions, the APC protein forms a 'destruction complex' with axin and glycogen synthase kinase 3-beta (GSK3-beta) that phosphorylates BETA-CATENIN, targeting it for ubiquitination and degradation by the 26S proteasome. When APC is truncated or lost (following 'second-hit' somatic inactivation in a colonic crypt stem cell), the destruction complex cannot form. Unphosphorylated beta-catenin accumulates in the cytoplasm, translocates into the nucleus, and forms a transcriptional complex with TCF/LEF transcription factors. This constitutively drives the expression of proto-oncogenes including CYCLIN D1 and C-MYC, promoting continuous G1/S cell-cycle progression and adenoma formation. 100% of untreated patients progress to colorectal adenocarcinoma by age 40. >1,000 colonic polyps + mandibular osteoma + CHRPE = FAP (APC mutation on 5q21 -> failure of beta-catenin degradation -> nuclear Wnt activation).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Familial Adenomatous Polyposis APC Beta-Catenin Wnt Pathway Dysregulation.",
+    "keyPoints": [
+      "Familial Adenomatous Polyposis APC Beta-Catenin Wnt Pathway Dysregulation",
+      ">1,000 colonic polyps + mandibular osteoma + CHRPE = FAP (APC mutation on 5q21 -> failure of beta-catenin degradation -> nuclear Wnt activation)."
+    ],
+    "references": [
+      {
+        "label": "Cando-Bonilla V. Management and Follow-up of Sporadic Cribriform-Morular Thyroid Carcinoma After the 2022 World Health Organization Reclassification. AACE Endocrinol Diabetes. 2026 Sep-Oct. PMID: 42979003.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42979003/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0993",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Gastrointestinal",
+    "topic": "Lynch Syndrome DNA Mismatch Repair Defect Microsatellite Instability",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 42-year-old woman is diagnosed with an invasive adenocarcinoma of the ascending colon (cecum) during an evaluation for iron deficiency anemia. Her pedigree reveals that her mother was diagnosed with endometrial adenocarcinoma at age 46, her maternal aunt had ovarian carcinoma at age 48, and her maternal grandfather died of colon cancer at age 45. Colonoscopy shows no other polyps elsewhere in the colon. Immunohistochemical staining of the resected colonic tumor tissue reveals complete loss of nuclear expression of both MSH2 and MSH6 proteins, with preserved expression of MLH1 and PMS2. PCR amplification of repetitive DNA sequences demonstrates widespread alterations in repeat length compared to normal surrounding mucosa. Which of the following molecular mechanisms is defective in this patient's tumor cells?",
+    "options": [
+      {
+        "text": "End-joining of double-strand DNA breaks via the non-homologous end-joining pathway",
+        "correct": false,
+        "explanation": "NHEJ repair defects occur in radiosensitive severe combined immunodeficiency (e.g., Artemis, Ku70/80 deficiency), not Lynch syndrome."
+      },
+      {
+        "text": "Homologous recombination repair of interstrand DNA cross-links and stalled replication forks",
+        "correct": false,
+        "explanation": "Homologous recombination defects characterize BRCA1/BRCA2 and Fanconi anemia, conferring breast/ovarian cancer risk without classic MSI-H."
+      },
+      {
+        "text": "Recognition and correction of post-replicative base-base mismatches and small insertion/deletion loops",
+        "correct": true,
+        "explanation": "This patient has LYNCH SYNDROME (hereditary nonpolyposis colorectal cancer, HNPCC), an autosomal dominant cancer predisposition syndrome caused by germline mutations in one of four DNA MISMATCH REPAIR (MMR) genes: MSH2 (chromosome 2p), MLH1 (3p), MSH6 (2p), or PMS2 (7q). MMR proteins function as obligate heterodimers: MSH2 pairs with MSH6 (MutS-alpha) to recognize single base-base mismatches and single-base insertion/deletion loops, or with MSH3 (MutS-beta) for larger loops. MLH1 pairs with PMS2 (MutL-alpha) to coordinate excision and resynthesis by DNA polymerase delta. When germline MSH2 is mutated and a somatic 'second hit' inactivates the remaining wild-type allele, both MSH2 and its partner MSH6 undergo proteolytic degradation, resulting in dual loss of MSH2/MSH6 on immunohistochemistry. In the absence of functional MMR, DNA polymerase slippage errors during replication of simple repetitive nucleotide sequences (microsatellites) go unrepaired, producing MICROSATELLITE INSTABILITY (MSI-H). Frameshift mutations accumulate in coding repeats of critical tumor suppressors (e.g., TGFBR2, BAX), driving early carcinogenesis (mean age ~45), predominantly in the right colon, and conferring high risks of extracolonic malignancies (endometrial [most common extracolonic], ovarian, gastric, urothelial). Polyps are few in number."
+      },
+      {
+        "text": "Base excision repair of spontaneous cytosine deamination via DNA glycosylase",
+        "correct": false,
+        "explanation": "Base excision repair mediated by MUTYH glycosylase causes MUTYH-associated polyposis (MAP), which features dozens of adenomas, not primary MMR slippage defects."
+      },
+      {
+        "text": "Removal of bulky pyrimidine dimers induced by ultraviolet radiation via dual incision",
+        "correct": false,
+        "explanation": "Nucleotide excision repair (NER) corrects UV-induced pyrimidine dimers; its defect causes xeroderma pigmentosum, not colorectal cancer."
+      }
+    ],
+    "explanation": "This patient has LYNCH SYNDROME (hereditary nonpolyposis colorectal cancer, HNPCC), an autosomal dominant cancer predisposition syndrome caused by germline mutations in one of four DNA MISMATCH REPAIR (MMR) genes: MSH2 (chromosome 2p), MLH1 (3p), MSH6 (2p), or PMS2 (7q). MMR proteins function as obligate heterodimers: MSH2 pairs with MSH6 (MutS-alpha) to recognize single base-base mismatches and single-base insertion/deletion loops, or with MSH3 (MutS-beta) for larger loops. MLH1 pairs with PMS2 (MutL-alpha) to coordinate excision and resynthesis by DNA polymerase delta. When germline MSH2 is mutated and a somatic 'second hit' inactivates the remaining wild-type allele, both MSH2 and its partner MSH6 undergo proteolytic degradation, resulting in dual loss of MSH2/MSH6 on immunohistochemistry. In the absence of functional MMR, DNA polymerase slippage errors during replication of simple repetitive nucleotide sequences (microsatellites) go unrepaired, producing MICROSATELLITE INSTABILITY (MSI-H). Frameshift mutations accumulate in coding repeats of critical tumor suppressors (e.g., TGFBR2, BAX), driving early carcinogenesis (mean age ~45), predominantly in the right colon, and conferring high risks of extracolonic malignancies (endometrial [most common extracolonic], ovarian, gastric, urothelial). Polyps are few in number. Proximal colon cancer + endometrial cancer pedigree + MSH2/MSH6 loss + microsatellite instability = Lynch syndrome (DNA mismatch repair defect).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Lynch Syndrome DNA Mismatch Repair Defect Microsatellite Instability.",
+    "keyPoints": [
+      "Lynch Syndrome DNA Mismatch Repair Defect Microsatellite Instability",
+      "Proximal colon cancer + endometrial cancer pedigree + MSH2/MSH6 loss + microsatellite instability = Lynch syndrome (DNA mismatch repair defect)."
+    ],
+    "references": [
+      {
+        "label": "Xavier GC. MLH1 AND MSH2 PROTEIN EXPRESSION LOSS AND MICROSATELLITE INSTABILITY IN COLORECTAL ADENOMAS OF PATIENTS WITH LYNCH SYNDROME: A SYSTEMATIC REVIEW AND META-ANALYSIS. Arq Gastroenterol. 2026. PMID: 42987038.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42987038/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0994",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Gastrointestinal",
+    "topic": "Peutz-Jeghers Syndrome STK11 Hamartomatous Polyps Arborizing Smooth Muscle",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 14-year-old boy is brought to the emergency department because of sudden, severe, colicky abdominal pain accompanied by bilious vomiting and obstipation. Physical examination reveals abdominal distension and high-pitched tinkling bowel sounds. Inspection of the oral cavity reveals multiple 1- to 3-mm dark-brown to bluish-black macules on the vermilion border of the lower lip and the buccal mucosa; similar hyperpigmented macules are noted on the palmar aspects of his fingers. Abdominal CT demonstrates a 'target-like' mass in the small bowel consistent with ileoileal intussusception. An emergent exploratory laparotomy is performed, and an obstructive small bowel polyp serving as the lead point is resected. Histopathological examination of the polyp reveals branching bands of smooth muscle interdigitating with hyperplastic, well-differentiated glandular epithelium ('arborizing' smooth muscle architecture). Genetic testing in this patient is most likely to identify a mutation in which of the following genes?",
+    "options": [
+      {
+        "text": "SMAD4 / BMPR1A transcription factor complex on chromosome 18q21",
+        "correct": false,
+        "explanation": "SMAD4 and BMPR1A mutations cause Juvenile Polyposis Syndrome (JPS), characterized by hamartomatous polyps with cystically dilated glands filled with mucin and edematous lamina propria, lacking arborizing smooth muscle or mucocutaneous pigmentation."
+      },
+      {
+        "text": "PTEN lipid and protein dual-specificity phosphatase on chromosome 10q23",
+        "correct": false,
+        "explanation": "PTEN mutations cause Cowden syndrome, featuring trichilemmomas, oral papillomas, and hamartomas, without arborizing smooth muscle polyps or lip macules."
+      },
+      {
+        "text": "RET receptor tyrosine kinase proto-oncogene on chromosome 10q11.2",
+        "correct": false,
+        "explanation": "RET mutations cause MEN2A/2B and Hirschsprung disease; MEN2B features mucosal neuromas on tongue/lips, not melanin macules or small bowel hamartomas."
+      },
+      {
+        "text": "STK11 (LKB1) serine/threonine kinase on chromosome 19p13.3",
+        "correct": true,
+        "explanation": "This patient has PEUTZ-JEGHERS SYNDROME (PJS), an autosomal dominant genetic syndrome caused by heterozygous loss-of-function mutations in the STK11 (also known as LKB1) gene on chromosome 19p13.3. STK11 encodes a master serine/threonine kinase that phosphorylates and activates AMP-activated protein kinase (AMPK), which acts as a cellular energy sensor and tumor suppressor by downregulating the mTOR (mammalian target of rapamycin) signaling pathway. Loss of STK11 leads to hyperactivation of mTOR, cell growth dysregulation, and development of benign HAMARTOMATOUS POLYPS throughout the gastrointestinal tract, predominantly in the jejunum, ileum, and stomach. Pathognomonic histopathology reveals an 'ARBORIZING' (tree-like branching) network of smooth muscle derived from the muscularis mucosae that interdigitates between normal-appearing glandular epithelial elements. These pedunculated small bowel polyps frequently serve as lead points for INTUSSUSCEPTION and bowel obstruction in adolescents. PJS is also characterized by distinctive MUCOCUTANEOUS MELANOCYTIC MACULES on the lips, perioral skin, buccal mucosa, palms, and soles. Patients carry a markedly elevated lifetime risk of malignancies (breast cancer [~50%], colorectal, pancreatic, gastric, and sex cord-stromal ovarian/testicular tumors)."
+      },
+      {
+        "text": "NF1 neurofibromin GTPase-activating protein on chromosome 17q11.2",
+        "correct": false,
+        "explanation": "NF1 mutations cause neurofibromatosis type 1 (cafe-au-lait macules, neurofibromas, Lisch nodules, pheochromocytoma), not arborizing hamartomatous GI polyposis."
+      }
+    ],
+    "explanation": "This patient has PEUTZ-JEGHERS SYNDROME (PJS), an autosomal dominant genetic syndrome caused by heterozygous loss-of-function mutations in the STK11 (also known as LKB1) gene on chromosome 19p13.3. STK11 encodes a master serine/threonine kinase that phosphorylates and activates AMP-activated protein kinase (AMPK), which acts as a cellular energy sensor and tumor suppressor by downregulating the mTOR (mammalian target of rapamycin) signaling pathway. Loss of STK11 leads to hyperactivation of mTOR, cell growth dysregulation, and development of benign HAMARTOMATOUS POLYPS throughout the gastrointestinal tract, predominantly in the jejunum, ileum, and stomach. Pathognomonic histopathology reveals an 'ARBORIZING' (tree-like branching) network of smooth muscle derived from the muscularis mucosae that interdigitates between normal-appearing glandular epithelial elements. These pedunculated small bowel polyps frequently serve as lead points for INTUSSUSCEPTION and bowel obstruction in adolescents. PJS is also characterized by distinctive MUCOCUTANEOUS MELANOCYTIC MACULES on the lips, perioral skin, buccal mucosa, palms, and soles. Patients carry a markedly elevated lifetime risk of malignancies (breast cancer [~50%], colorectal, pancreatic, gastric, and sex cord-stromal ovarian/testicular tumors). Perioral melanin macules + small bowel intussusception + arborizing smooth muscle polyp = Peutz-Jeghers syndrome (STK11 mutation on 19p13.3).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Peutz-Jeghers Syndrome STK11 Hamartomatous Polyps Arborizing Smooth Muscle.",
+    "keyPoints": [
+      "Peutz-Jeghers Syndrome STK11 Hamartomatous Polyps Arborizing Smooth Muscle",
+      "Perioral melanin macules + small bowel intussusception + arborizing smooth muscle polyp = Peutz-Jeghers syndrome (STK11 mutation on 19p13.3)."
+    ],
+    "references": [
+      {
+        "label": "Adam MP. Peutz-Jeghers Syndrome. . 1993. PMID: 20301443.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20301443/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0995",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Acute Pancreatitis Intra-Acinar Cathepsin B Trypsinogen Premature Activation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old woman presents to the emergency department with sudden-onset, severe, boring epigastric pain that radiates directly to her mid-back. The pain began 6 hours after eating a heavy restaurant meal and is accompanied by persistent nausea and non-bilious vomiting. She finds that leaning forward provides slight relief. She has a history of asymptomatic gallstones. Physical examination reveals tachycardia, epigastric guarding, and hypoactive bowel sounds without rebound tenderness. Laboratory studies demonstrate: serum amylase 1,240 U/L (reference 30-110 U/L), serum lipase 2,850 U/L (reference 10-60 U/L), AST 180 U/L, ALT 240 U/L, and total bilirubin 1.8 mg/dL. Abdominal ultrasound shows cholelithiasis with acoustic shadowing and a mildly dilated common bile duct of 7.5 mm. Which of the following cellular events represents the primary inciting molecular mechanism of parenchymal tissue damage in this patient?",
+    "options": [
+      {
+        "text": "Retrograde reflux of bile salts activating enterokinase on pancreatic ductal apical membranes",
+        "correct": false,
+        "explanation": "Enterokinase (enteropeptidase) is an enzyme localized exclusively to the duodenal brush border; it is not present on pancreatic ductal membranes."
+      },
+      {
+        "text": "Direct lipid peroxidation of acinar mitochondrial membranes by circulating unconjugated bilirubin",
+        "correct": false,
+        "explanation": "Unconjugated bilirubin causes neurotoxicity (kernicterus); it does not initiate pancreatic acinar autodigestion in gallstone pancreatitis."
+      },
+      {
+        "text": "Constitutive phosphorylation of the CFTR apical chloride channel by protein kinase A",
+        "correct": false,
+        "explanation": "CFTR phosphorylation opens chloride channels and promotes alkaline fluid flushing; CFTR failure (as in cystic fibrosis) causes inspissation, not sudden gallstone pancreatitis."
+      },
+      {
+        "text": "Complement-mediated membrane attack complex insertion into periacinar capillary endothelia",
+        "correct": false,
+        "explanation": "Microvascular thrombosis and ischemia worsen pancreatitis secondarily, but the primary initiating biochemical trigger is intra-acinar trypsinogen activation by cathepsin B."
+      },
+      {
+        "text": "Premature intra-acinar cleavage of trypsinogen to trypsin by lysosomal cathepsin B within co-localized zymogen granules",
+        "correct": true,
+        "explanation": "This patient has ACUTE GALLSTONE PANCREATITIS, triggered by transient or persistent impaction of a gallstone at the ampulla of Vater. Ampullary obstruction increases ductal hypertension and impairs the apical exocytosis of zymogen granules from pancreatic acinar cells. As a result, zymogen granules fuse aberrantly with intracellular lysosomes—a phenomenon known as CRINOPHAGY or CO-LOCALIZATION. Within these co-localized vacuoles, the lysosomal acid hydrolase CATHEPSIN B cleaves the inhibitory activation peptide from TRYPSINOGEN, prematurely converting it into active TRYPSIN inside the acinar cytoplasm. Active trypsin then overcomes the protective neutralizing capacity of endogenous intracellular inhibitors (serine protease inhibitor Kazal-type 1, SPINK1) and autocatalytically activates additional trypsinogen molecules. Trypsin subsequently cleaves and activates a cascade of other proenzymes: (1) Prophospholipase A2 -> phospholipase A2 (destroys cellular phospholipid membranes); (2) Proelastase -> elastase (degrades vascular elastica, causing intramural vessel rupture and hemorrhagic necrosis); and (3) Prekallikrein -> kallikrein-kinin system activation (increases vascular permeability, edema, and shock). Lipase release into the surrounding retroperitoneum hydrolyzes peripancreatic adipocyte triglycerides into free fatty acids, which complex with divalent calcium ions to form insoluble calcium soaps—producing ENZYMATIC FAT NECROSIS WITH SAPONIFICATION."
+      }
+    ],
+    "explanation": "This patient has ACUTE GALLSTONE PANCREATITIS, triggered by transient or persistent impaction of a gallstone at the ampulla of Vater. Ampullary obstruction increases ductal hypertension and impairs the apical exocytosis of zymogen granules from pancreatic acinar cells. As a result, zymogen granules fuse aberrantly with intracellular lysosomes—a phenomenon known as CRINOPHAGY or CO-LOCALIZATION. Within these co-localized vacuoles, the lysosomal acid hydrolase CATHEPSIN B cleaves the inhibitory activation peptide from TRYPSINOGEN, prematurely converting it into active TRYPSIN inside the acinar cytoplasm. Active trypsin then overcomes the protective neutralizing capacity of endogenous intracellular inhibitors (serine protease inhibitor Kazal-type 1, SPINK1) and autocatalytically activates additional trypsinogen molecules. Trypsin subsequently cleaves and activates a cascade of other proenzymes: (1) Prophospholipase A2 -> phospholipase A2 (destroys cellular phospholipid membranes); (2) Proelastase -> elastase (degrades vascular elastica, causing intramural vessel rupture and hemorrhagic necrosis); and (3) Prekallikrein -> kallikrein-kinin system activation (increases vascular permeability, edema, and shock). Lipase release into the surrounding retroperitoneum hydrolyzes peripancreatic adipocyte triglycerides into free fatty acids, which complex with divalent calcium ions to form insoluble calcium soaps—producing ENZYMATIC FAT NECROSIS WITH SAPONIFICATION. Boring epigastric pain radiating to back + lipase >2,000 + gallstones = acute pancreatitis (intra-acinar cathepsin B cleavage of trypsinogen to trypsin).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Pancreatitis Intra-Acinar Cathepsin B Trypsinogen Premature Activation.",
+    "keyPoints": [
+      "Acute Pancreatitis Intra-Acinar Cathepsin B Trypsinogen Premature Activation",
+      "Boring epigastric pain radiating to back + lipase >2,000 + gallstones = acute pancreatitis (intra-acinar cathepsin B cleavage of trypsinogen to trypsin)."
+    ],
+    "references": [
+      {
+        "label": "Kang Y. SCO-792 alleviates HFD-aggravated chronic pancreatitis by modulating the gut-pancreas axis via the AMPK/ACC and TLR4/NF-κB signaling pathways. Front Immunol. 2026. PMID: 42755448.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42755448/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0996",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Hepatic Adenoma Oral Contraceptive Association Subcapsular Rupture Risk",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old woman presents to the emergency department with acute, severe right upper quadrant abdominal pain and lightheadedness that began 2 hours ago. She has no chronic medical conditions and has taken combined oral contraceptive pills (ethinyl estradiol and levonorgestrel) continuously for the past 9 years. On arrival, she is pale and diaphoretic. Vital signs: blood pressure 82/50 mm Hg, heart rate 124/min, respiratory rate 20/min. Physical examination reveals marked tenderness and involuntary guarding in the right upper quadrant, with abdominal distension and dullness to percussion in the flanks. Laboratory studies show: hemoglobin 7.8 g/dL (baseline 13.2 g/dL 3 months ago), platelets 240,000/uL, AST 64 U/L, ALT 58 U/L. A bedside focused assessment with sonography for trauma (FAST) demonstrates a large volume of free intraperitoneal fluid and a 7-cm well-circumscribed, heterogeneous subcapsular mass in the right hepatic lobe. Following emergent resuscitation, she undergoes exploratory laparotomy. Histopathological evaluation of the resected mass will most likely demonstrate which of the following features?",
+    "options": [
+      {
+        "text": "Sheets of benign, uniform hepatocytes filled with glycogen and fat, completely lacking portal tracts, bile ducts, and central veins",
+        "correct": true,
+        "explanation": "This patient has a ruptured HEPATIC ADENOMA (hepatocellular adenoma) causing life-threatening intraperitoneal hemorrhage (hemoperitoneum) and hypovolemic shock. Hepatic adenomas are benign epithelial neoplasms of hepatocytes that occur predominantly in young women (ages 20-40) with a history of LONG-TERM USE OF ORAL CONTRACEPTIVE PILLS (or anabolic steroids in men, or glycogen storage disease type I). Estrogen promotes hepatocyte proliferation and vascular ectasia. Histopathologically, hepatic adenomas consist of sheets of well-differentiated, uniform hepatocytes that often contain abundant glycogen and lipid droplets (cleared cytoplasm). Crucially, the normal hepatic architecture is completely absent: there are NO PORTAL TRACTS, NO BILE DUCTS, and NO NORMAL CENTRAL VEINS. Instead, the tumor is nourished by thin-walled, solitary, muscular feeding arteries and dilated, thin-walled sinusoidal vessels that lack fibrous support. Because of this abnormal, fragile vascular supply and frequent subcapsular location, adenomas (especially those >5 cm in diameter) carry a high risk of spontaneous NECROSIS, INTRATUMORAL HEMORRHAGE, AND SUBCAPSULAR RUPTURE with massive intraperitoneal bleeding. Additionally, beta-catenin-mutated adenomas carry a risk of malignant transformation into hepatocellular carcinoma."
+      },
+      {
+        "text": "Central stellate fibrous scar containing thick-walled malformed arteries surrounded by hyperplastic hepatocyte nodules",
+        "correct": false,
+        "explanation": "A central stellate scar containing malformed arteries characterizes focal nodular hyperplasia (FNH), a benign non-neoplastic hyperplastic vascular response that rarely ruptures."
+      },
+      {
+        "text": "Cavernous vascular spaces lined by a single layer of flat endothelium and separated by thin fibrous septa",
+        "correct": false,
+        "explanation": "Cavernous hemangioma is composed of large blood-filled vascular spaces lined by endothelium; it is the most common benign liver tumor and rarely ruptures spontaneously."
+      },
+      {
+        "text": "Markedly pleomorphic hepatocytes forming pseudoglandular rosettes with prominent macrovascular invasion",
+        "correct": false,
+        "explanation": "Pleomorphic hepatocytes with vascular invasion define hepatocellular carcinoma (HCC), which typically develops in the setting of cirrhosis or chronic HBV."
+      },
+      {
+        "text": "Dilated bile ducts surrounded by dense concentric fibrous collars and intrahepatic biliary microliths",
+        "correct": false,
+        "explanation": "Biliary hamartomas (von Meyenburg complexes) or Caroli disease feature abnormal bile ducts, not sheets of benign hepatocytes without ductal structures."
+      }
+    ],
+    "explanation": "This patient has a ruptured HEPATIC ADENOMA (hepatocellular adenoma) causing life-threatening intraperitoneal hemorrhage (hemoperitoneum) and hypovolemic shock. Hepatic adenomas are benign epithelial neoplasms of hepatocytes that occur predominantly in young women (ages 20-40) with a history of LONG-TERM USE OF ORAL CONTRACEPTIVE PILLS (or anabolic steroids in men, or glycogen storage disease type I). Estrogen promotes hepatocyte proliferation and vascular ectasia. Histopathologically, hepatic adenomas consist of sheets of well-differentiated, uniform hepatocytes that often contain abundant glycogen and lipid droplets (cleared cytoplasm). Crucially, the normal hepatic architecture is completely absent: there are NO PORTAL TRACTS, NO BILE DUCTS, and NO NORMAL CENTRAL VEINS. Instead, the tumor is nourished by thin-walled, solitary, muscular feeding arteries and dilated, thin-walled sinusoidal vessels that lack fibrous support. Because of this abnormal, fragile vascular supply and frequent subcapsular location, adenomas (especially those >5 cm in diameter) carry a high risk of spontaneous NECROSIS, INTRATUMORAL HEMORRHAGE, AND SUBCAPSULAR RUPTURE with massive intraperitoneal bleeding. Additionally, beta-catenin-mutated adenomas carry a risk of malignant transformation into hepatocellular carcinoma. Young woman on long-term OCPs + sudden hemoperitoneum + 7-cm subcapsular liver mass = ruptured hepatic adenoma (sheets of hepatocytes lacking portal tracts/bile ducts).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hepatic Adenoma Oral Contraceptive Association Subcapsular Rupture Risk.",
+    "keyPoints": [
+      "Hepatic Adenoma Oral Contraceptive Association Subcapsular Rupture Risk",
+      "Young woman on long-term OCPs + sudden hemoperitoneum + 7-cm subcapsular liver mass = ruptured hepatic adenoma (sheets of hepatocytes lacking portal tracts/bile ducts)."
+    ],
+    "references": [
+      {
+        "label": "Garbarine IC. Nonoperative Management of Hepatic Adenomas: A Review. J Gastrointest Cancer. 2026 Feb 13. PMID: 41680345.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41680345/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0997",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Hepatocellular Carcinoma HBV DNA Integration Insertional Mutagenesis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old immigrant from Southeast Asia presents with dull right upper quadrant abdominal discomfort, anorexia, and a 6-kg unintentional weight loss over the past 3 months. He has no prior medical care. Physical examination reveals mild temporal wasting, non-tender hepatomegaly with an irregular, firm lower liver edge, and absence of spider angiomas, palmar erythema, ascites, or splenomegaly. Laboratory studies show: AST 68 U/L, ALT 74 U/L, total bilirubin 1.2 mg/dL, platelets 220,000/uL, and serum alpha-fetoprotein (AFP) markedly elevated at 4,800 ng/mL (reference <10 ng/mL). Serology is positive for hepatitis B surface antigen (HBsAg), positive for HBeAg, and negative for anti-HBs; HCV antibody is negative. A contrast-enhanced multiphasic liver CT reveals a 6-cm solitary solid mass in the right hepatic lobe demonstrating intense arterial phase hyperenhancement followed by rapid washout on venous and delayed phases; the background liver parenchyma exhibits normal morphology without imaging features of cirrhosis. Which of the following viral properties explains how this patient developed malignancy in the absence of preceding hepatic cirrhosis?",
+    "options": [
+      {
+        "text": "Persistent cytoplasmic replication of viral single-stranded positive-sense RNA causing chronic lipid peroxidation",
+        "correct": false,
+        "explanation": "This describes hepatitis C virus (HCV), an RNA flavivirus that does NOT integrate into the host DNA and almost exclusively causes HCC in the setting of established cirrhosis."
+      },
+      {
+        "text": "Integration of viral genomic DNA into the host genome causing insertional mutagenesis and expression of the oncogenic HBx protein",
+        "correct": true,
+        "explanation": "HEPATOCELLULAR CARCINOMA (HCC) is the most common primary liver malignancy. While >80-90% of HCC cases worldwide arise in the background of CIRRHOSIS (driven by chronic inflammation, hepatocyte necrosis, and regenerative nodular hyperplasia seen in HCV, alcohol, and MASLD), HEPATITIS B VIRUS (HBV) possesses a unique oncogenic ability to induce HCC in young patients WITHOUT PRECEDING CIRRHOSIS. HBV is a partially double-stranded DNA hepadnavirus. During chronic persistent infection, linear fragments of HBV genomic DNA become STABLY INTEGRATED INTO THE HOST HEPATOCYTE CHROMOSOMAL DNA. This produces two potent pro-oncogenic effects: (1) INSERTIONAL MUTAGENESIS: integration near or within host cellular proto-oncogenes or tumor suppressors (e.g., TERT promoter, MLL4, CCNE1) disrupts cell-cycle control; and (2) TRANSCRIPTION OF VIRAL ONCOPROTEINS: specifically the HEPATITIS B VIRUS X PROTEIN (HBx). The HBx protein acts as a transcriptional transactivator that upregulates host oncogenes (c-Myc, c-Jun), activates the NF-kappaB and Ras/MAPK pathways, and directly binds and inactivates the p53 tumor suppressor, inhibiting DNA repair and apoptosis. Concurrently, viral integration promotes genomic instability and chromosomal translocations, driving malignant transformation directly."
+      },
+      {
+        "text": "Selective packaging of host telomerase reverse transcriptase into the viral icosahedral capsid",
+        "correct": false,
+        "explanation": "HBV does not package host telomerase into its capsid; rather, viral DNA integration can upregulate the TERT promoter within host chromosomes."
+      },
+      {
+        "text": "Production of a viral serine protease that cleaves host interferon-beta regulatory factors",
+        "correct": false,
+        "explanation": "HCV NS3/4A protease cleaves host immune adapter proteins (TRIF/MAVS) to evade innate immunity, but this does not cause non-cirrhotic DNA integration mutagenesis."
+      },
+      {
+        "text": "Receptor-mediated internalization of viral envelope antigens downregulating hepatocyte HLA class I molecules",
+        "correct": false,
+        "explanation": "Immune evasion allows viral persistence, but the direct mechanism of non-cirrhotic oncogenesis is genomic DNA integration and HBx-mediated p53 inhibition."
+      }
+    ],
+    "explanation": "HEPATOCELLULAR CARCINOMA (HCC) is the most common primary liver malignancy. While >80-90% of HCC cases worldwide arise in the background of CIRRHOSIS (driven by chronic inflammation, hepatocyte necrosis, and regenerative nodular hyperplasia seen in HCV, alcohol, and MASLD), HEPATITIS B VIRUS (HBV) possesses a unique oncogenic ability to induce HCC in young patients WITHOUT PRECEDING CIRRHOSIS. HBV is a partially double-stranded DNA hepadnavirus. During chronic persistent infection, linear fragments of HBV genomic DNA become STABLY INTEGRATED INTO THE HOST HEPATOCYTE CHROMOSOMAL DNA. This produces two potent pro-oncogenic effects: (1) INSERTIONAL MUTAGENESIS: integration near or within host cellular proto-oncogenes or tumor suppressors (e.g., TERT promoter, MLL4, CCNE1) disrupts cell-cycle control; and (2) TRANSCRIPTION OF VIRAL ONCOPROTEINS: specifically the HEPATITIS B VIRUS X PROTEIN (HBx). The HBx protein acts as a transcriptional transactivator that upregulates host oncogenes (c-Myc, c-Jun), activates the NF-kappaB and Ras/MAPK pathways, and directly binds and inactivates the p53 tumor suppressor, inhibiting DNA repair and apoptosis. Concurrently, viral integration promotes genomic instability and chromosomal translocations, driving malignant transformation directly. Young Southeast Asian male + HBsAg positive + AFP 4,800 + HCC without cirrhosis = HBV integration into host genome and HBx oncoprotein expression.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hepatocellular Carcinoma HBV DNA Integration Insertional Mutagenesis.",
+    "keyPoints": [
+      "Hepatocellular Carcinoma HBV DNA Integration Insertional Mutagenesis",
+      "Young Southeast Asian male + HBsAg positive + AFP 4,800 + HCC without cirrhosis = HBV integration into host genome and HBx oncoprotein expression."
+    ],
+    "references": [
+      {
+        "label": "Zamanian M. Commonly expressed key driver genes in the pathogenesis of viral and non-viral liver cancer. PLoS One. 2026. PMID: 42993760.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42993760/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0998",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Hirschsprung Disease Neural Crest Migration Failure Aganglionosis RET Mutation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 36-hour-old full-term male newborn has failed to pass meconium since birth. Over the past 12 hours, he has developed progressive abdominal distension and bilious vomiting. Pregnancy and delivery were uncomplicated, and his birth weight was at the 50th percentile. Physical examination reveals a markedly distended, tympanitic abdomen with visible bowel loops. A digital rectal examination reveals a snug, tight anal sphincter; upon withdrawal of the examining finger, there is an explosive expulsion of liquid foul-smelling stool and flatus ('squirt sign' / 'blast sign'), followed by temporary decompression of the abdomen. An abdominal radiograph shows dilated small bowel loops and an absence of air in the rectum. A contrast enema reveals a narrowed rectosigmoid lumen with a cone-shaped transition zone leading into a massively dilated proximal colon. Which of the following embryological processes failed during development in this infant?",
+    "options": [
+      {
+        "text": "Ventral wall fusion failure leading to herniation of physiological midgut contents into the umbilical cord",
+        "correct": false,
+        "explanation": "Failure of ventral abdominal wall fusion produces omphalocele (herniation covered by membrane) or gastroschisis, not aganglionic megacolon."
+      },
+      {
+        "text": "Recanalization of the embryonic gut lumen following endodermal epithelial cell proliferation",
+        "correct": false,
+        "explanation": "Failure of recanalization causes duodenal or intestinal atresia ('double bubble' sign), presenting with immediate vomiting on day 1, not failure of distal neuroblast migration."
+      },
+      {
+        "text": "Craniocaudal migration of neural crest-derived neuroblasts into the distal hindgut",
+        "correct": true,
+        "explanation": "HIRSCHSPRUNG DISEASE (congenital aganglionic megacolon) is caused by the failure of NEURAL CREST CELLS to complete their normal CRANIOCAUDAL MIGRATION into the distal gastrointestinal tract during embryonic weeks 5 to 12. Vagal neural crest cells normally migrate from the neural crest into the developing foregut and travel caudally along the alimentary canal to reach the rectum by gestational week 12. Failure of this migration results in a complete absence of parasympathetic ganglion cells in both the SUBMUCOSAL (MEISSNER) and MYENTERIC (AUERBACH) PLEXUSES of the distal bowel. The disease always involves the internal anal sphincter and rectum and extends proximally for a variable distance (short-segment disease in ~80%, involving rectosigmoid; long-segment in ~15-20%). Because ganglion cells are absent, the affected distal segment cannot relax (loss of inhibitory nitrergic and VIPergic motor neurons) and remains tonically contracted, producing a functional obstruction. The normal proximal bowel becomes progressively dilated and hypertrophied (megacolon). Characteristic findings include failure to pass meconium within 48 hours, abdominal distension, bilious emesis, and the 'squirt sign' on DRE. Calretinin immunohistochemistry is negative in aganglionic segments. Many cases are associated with loss-of-function mutations in the RET receptor tyrosine kinase gene."
+      },
+      {
+        "text": "Counterclockwise 270-degree rotation of the midgut loop around the superior mesenteric artery",
+        "correct": false,
+        "explanation": "Malrotation results from failure of midgut rotation around the SMA, predisposing to midgut volvulus and Ladd band compression, not rectal aganglionosis."
+      },
+      {
+        "text": "Regression of the distal vitelline (omphalomesenteric) duct prior to birth",
+        "correct": false,
+        "explanation": "Persistence of the vitelline duct produces a Meckel diverticulum, which may cause painless lower GI bleeding due to ectopic gastric mucosa, not aganglionosis."
+      }
+    ],
+    "explanation": "HIRSCHSPRUNG DISEASE (congenital aganglionic megacolon) is caused by the failure of NEURAL CREST CELLS to complete their normal CRANIOCAUDAL MIGRATION into the distal gastrointestinal tract during embryonic weeks 5 to 12. Vagal neural crest cells normally migrate from the neural crest into the developing foregut and travel caudally along the alimentary canal to reach the rectum by gestational week 12. Failure of this migration results in a complete absence of parasympathetic ganglion cells in both the SUBMUCOSAL (MEISSNER) and MYENTERIC (AUERBACH) PLEXUSES of the distal bowel. The disease always involves the internal anal sphincter and rectum and extends proximally for a variable distance (short-segment disease in ~80%, involving rectosigmoid; long-segment in ~15-20%). Because ganglion cells are absent, the affected distal segment cannot relax (loss of inhibitory nitrergic and VIPergic motor neurons) and remains tonically contracted, producing a functional obstruction. The normal proximal bowel becomes progressively dilated and hypertrophied (megacolon). Characteristic findings include failure to pass meconium within 48 hours, abdominal distension, bilious emesis, and the 'squirt sign' on DRE. Calretinin immunohistochemistry is negative in aganglionic segments. Many cases are associated with loss-of-function mutations in the RET receptor tyrosine kinase gene. Neonate failing to pass meconium + squirt sign on DRE + transition zone = Hirschsprung disease (failure of neural crest craniocaudal migration).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hirschsprung Disease Neural Crest Migration Failure Aganglionosis RET Mutation.",
+    "keyPoints": [
+      "Hirschsprung Disease Neural Crest Migration Failure Aganglionosis RET Mutation",
+      "Neonate failing to pass meconium + squirt sign on DRE + transition zone = Hirschsprung disease (failure of neural crest craniocaudal migration)."
+    ],
+    "references": [
+      {
+        "label": "Mutanen A. Long-term outcomes after total colonic aganglionosis: retrospective European multicentre cohort study. BJS Open. 2026 Nov 3. PMID: 42980207.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42980207/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0999",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Gastrointestinal",
+    "topic": "Zenker Diverticulum Killian Triangle Cricopharyngeal Incoordination Herniation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man presents with a 2-year history of worsening difficulty swallowing solid foods and liquids, feeling as if food becomes 'stuck' in his throat. Over the past 6 months, he has noticed loud gurgling noises in his neck while eating, foul-smelling breath (halitosis), and frequent coughing spells when lying flat. Three days ago, he coughed up recognizable, undigested bits of dinner that he had eaten the previous evening. He has had two episodes of aspiration pneumonia treated with antibiotics over the past year. Physical examination reveals a soft, fluctuant, non-tender swelling on the left side of his neck that diminishes in size with manual compression, accompanied by a gurgling sound (Boyce sign). Barium swallow fluoroscopy demonstrates a 4-cm pouch protruding posteriorly from the hypopharynx immediately above the upper esophageal sphincter. Which of the following anatomical sites represents the precise area of muscular weakness through which this pouch herniated?",
+    "options": [
+      {
+        "text": "Laimer's triangle between the cricopharyngeus and circular longitudinal esophageal muscle fibers",
+        "correct": false,
+        "explanation": "Laimer's triangle (or area) is located inferior to the cricopharyngeus muscle, predisposing to rare Laimer diverticula, not classic Zenker pulsion diverticulum."
+      },
+      {
+        "text": "Killian-Jamieson space anterolateral to the esophagus below the insertion of the cricopharyngeus",
+        "correct": false,
+        "explanation": "The Killian-Jamieson space is located anterolaterally below the cricopharyngeus; herniation here creates a Killian-Jamieson diverticulum, which is lateral rather than posterior."
+      },
+      {
+        "text": "Pharyngobasilar fascia defect between the superior pharyngeal constrictor and the skull base",
+        "correct": false,
+        "explanation": "This defect (sinus of Morgagni) transmits the auditory (Eustachian) tube and levator veli palatini, not esophageal pulsion diverticula."
+      },
+      {
+        "text": "Killian's triangle between the thyropharyngeus and cricopharyngeus muscles of the inferior pharyngeal constrictor",
+        "correct": true,
+        "explanation": "ZENKER DIVERTICULUM is a FALSE (pulsion) diverticulum characterized by mucosal and submucosal herniation through a muscular defect in the posterior hypopharynx, known as KILLIAN'S TRIANGLE. Killian's triangle is an anatomical area of natural muscular weakness bounded superiorly by the oblique fibers of the THYROPHARYNGEUS muscle and inferiorly by the transverse fibers of the CRICOPHARYNGEUS muscle, both of which are components of the inferior pharyngeal constrictor. The underlying pathophysiology is uncoordinated swallowing mechanics: increased intraluminal hypopharyngeal pressure during swallowing resulting from premature contraction or incomplete relaxation (spasm/incoordination) of the cricopharyngeus muscle (the upper esophageal sphincter). Over time, repeated high pulsion pressures force the hypopharyngeal mucosa and submucosa to herniate posteriorly through Killian's triangle. Because it lacks a muscularis propria layer, it is classified as a FALSE diverticulum. Clinical features include progressive oropharyngeal dysphagia, regurgitation of undigested food, halitosis, neck mass that gurgles on compression (Boyce sign), and a high risk of recurrent aspiration pneumonia. Treatment involves cricopharyngeal myotomy with diverticulectomy or endoscopic diverticulotomy."
+      },
+      {
+        "text": "Quadrangular membrane weakness between the aryepiglottic fold and vestibular ligament",
+        "correct": false,
+        "explanation": "The quadrangular membrane is an intrinsic laryngeal ligament forming the vestibular fold (false vocal cord), unrelated to hypopharyngeal pulsion diverticula."
+      }
+    ],
+    "explanation": "ZENKER DIVERTICULUM is a FALSE (pulsion) diverticulum characterized by mucosal and submucosal herniation through a muscular defect in the posterior hypopharynx, known as KILLIAN'S TRIANGLE. Killian's triangle is an anatomical area of natural muscular weakness bounded superiorly by the oblique fibers of the THYROPHARYNGEUS muscle and inferiorly by the transverse fibers of the CRICOPHARYNGEUS muscle, both of which are components of the inferior pharyngeal constrictor. The underlying pathophysiology is uncoordinated swallowing mechanics: increased intraluminal hypopharyngeal pressure during swallowing resulting from premature contraction or incomplete relaxation (spasm/incoordination) of the cricopharyngeus muscle (the upper esophageal sphincter). Over time, repeated high pulsion pressures force the hypopharyngeal mucosa and submucosa to herniate posteriorly through Killian's triangle. Because it lacks a muscularis propria layer, it is classified as a FALSE diverticulum. Clinical features include progressive oropharyngeal dysphagia, regurgitation of undigested food, halitosis, neck mass that gurgles on compression (Boyce sign), and a high risk of recurrent aspiration pneumonia. Treatment involves cricopharyngeal myotomy with diverticulectomy or endoscopic diverticulotomy. Halitosis + undigested food regurgitation + gurgling neck mass = Zenker diverticulum (Killian's triangle between thyropharyngeus and cricopharyngeus).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Zenker Diverticulum Killian Triangle Cricopharyngeal Incoordination Herniation.",
+    "keyPoints": [
+      "Zenker Diverticulum Killian Triangle Cricopharyngeal Incoordination Herniation",
+      "Halitosis + undigested food regurgitation + gurgling neck mass = Zenker diverticulum (Killian's triangle between thyropharyngeus and cricopharyngeus)."
+    ],
+    "references": [
+      {
+        "label": "Sun GY. Current status of endoscopic treatment for esophageal diverticulum based on diverticular peroral endoscopic myotomy. World J Gastrointest Endosc. 2025 Jun 16. PMID: 40547549.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40547549/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-1000",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Gastrointestinal",
+    "topic": "Hypertrophic Pyloric Stenosis Hypochloremic Hypokalemic Metabolic Alkalosis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 4-week-old first-born male infant is brought to the emergency department because of forceful vomiting after every feeding for the past 5 days. His mother states that the emesis shoots across the room ('projectile'), contains curdled milk without any green or yellow discoloration, and occurs immediately following breast milk feeding. Immediately after vomiting, the infant appears intensely hungry and eagerly attempts to feed again. Physical examination reveals a dehydrated infant with a sunken anterior fontanelle, dry mucous membranes, and delayed capillary refill. Palpation of the abdomen reveals a firm, non-tender, mobile 2-cm olive-shaped mass in the right epigastrium, and visible peristaltic waves are seen moving from left to right across the upper abdomen. Serum electrolytes are: sodium 131 mEq/L, potassium 2.9 mEq/L, chloride 82 mEq/L, and bicarbonate 34 mEq/L. Which of the following physiological mechanisms directly drives the metabolic and urinary derangements in this infant?",
+    "options": [
+      {
+        "text": "Excessive duodenal bicarbonate loss into emesis with renal compensatory retention of hydrogen ions",
+        "correct": false,
+        "explanation": "Pyloric obstruction prevents duodenal contents from entering the stomach; emesis is non-bilious and loses gastric acid (H+ and Cl-), not alkaline duodenal secretions."
+      },
+      {
+        "text": "Failure of pancreatic alpha-amylase and bicarbonate secretion causing severe hyperchloremic non-gap metabolic acidosis",
+        "correct": false,
+        "explanation": "Pancreatic insufficiency does not cause projectile vomiting or metabolic alkalosis; HPS causes hypochloremic metabolic alkalosis."
+      },
+      {
+        "text": "Renal tubular loss of bicarbonate mediated by Fanconi syndrome with type 2 proximal RTA",
+        "correct": false,
+        "explanation": "Fanconi syndrome causes proximal renal tubular acidosis with hypokalemic normal anion gap metabolic ACIDOSIS, not severe metabolic alkalosis with an epigastric olive mass."
+      },
+      {
+        "text": "Biliary free fatty acid wasting producing an unmeasured anion gap metabolic ketoacidosis",
+        "correct": false,
+        "explanation": "Fatty acid wasting causes malabsorption; the metabolic defect in HPS is a hypochloremic, hypokalemic metabolic ALKALOSIS, not ketoacidosis."
+      },
+      {
+        "text": "Gastric hydrochloric acid loss causing intravascular contraction, secondary hyperaldosteronism, and paradoxical aciduria",
+        "correct": true,
+        "explanation": "This infant has INFANTILE HYPERTROPHIC PYLORIC STENOSIS (HPS), caused by hypertrophy and hyperplasia of the circular smooth muscle layer of the pylorus, producing gastric outlet obstruction. It characteristically manifests between 2 and 6 weeks of age, predominantly in first-born males, with non-bilious projectile vomiting, avid re-feeding hunger ('hungry vomiter'), peristaltic waves, and a palpable 'olive-like' mass in the epigastrium. Repeated vomiting of gastric secretions causes profound loss of GASTRIC HYDROCHLORIC ACID (H+ and Cl-) and water. The loss of H+ generates a severe METABOLIC ALKALOSIS (elevated serum bicarbonate). The loss of Cl- causes severe HYPOCHLOREMIA, which depletes luminal chloride in renal cortical collecting ducts, impairing pendrin (Cl-/HCO3- exchanger) and preventing renal bicarbonate excretion. Concurrently, volume depletion activates the renin-angiotensin-aldosterone system (RAAS), driving SECONDARY HYPERALDOSTERONISM. Aldosterone acts on principal cells to reabsorb sodium in exchange for potassium and hydrogen secretion, producing HYPOKALEMIA. As systemic hypokalemia worsens, renal alpha-intercalated cells attempt to conserve potassium via the apical H+/K+ ATPase, pumping H+ ions into the urine despite existing systemic alkalemia. This phenomenon is termed PARADOXICAL ACIDURIA. Definitive correction requires initial IV volume and electrolyte repletion before surgical Ramstedt pyloromyotomy."
+      }
+    ],
+    "explanation": "This infant has INFANTILE HYPERTROPHIC PYLORIC STENOSIS (HPS), caused by hypertrophy and hyperplasia of the circular smooth muscle layer of the pylorus, producing gastric outlet obstruction. It characteristically manifests between 2 and 6 weeks of age, predominantly in first-born males, with non-bilious projectile vomiting, avid re-feeding hunger ('hungry vomiter'), peristaltic waves, and a palpable 'olive-like' mass in the epigastrium. Repeated vomiting of gastric secretions causes profound loss of GASTRIC HYDROCHLORIC ACID (H+ and Cl-) and water. The loss of H+ generates a severe METABOLIC ALKALOSIS (elevated serum bicarbonate). The loss of Cl- causes severe HYPOCHLOREMIA, which depletes luminal chloride in renal cortical collecting ducts, impairing pendrin (Cl-/HCO3- exchanger) and preventing renal bicarbonate excretion. Concurrently, volume depletion activates the renin-angiotensin-aldosterone system (RAAS), driving SECONDARY HYPERALDOSTERONISM. Aldosterone acts on principal cells to reabsorb sodium in exchange for potassium and hydrogen secretion, producing HYPOKALEMIA. As systemic hypokalemia worsens, renal alpha-intercalated cells attempt to conserve potassium via the apical H+/K+ ATPase, pumping H+ ions into the urine despite existing systemic alkalemia. This phenomenon is termed PARADOXICAL ACIDURIA. Definitive correction requires initial IV volume and electrolyte repletion before surgical Ramstedt pyloromyotomy. 4-week male + non-bilious projectile vomiting + olive mass + low Cl/K and high HCO3 = Pyloric stenosis (loss of HCl -> hypochloremic hypokalemic alkalosis with paradoxical aciduria).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hypertrophic Pyloric Stenosis Hypochloremic Hypokalemic Metabolic Alkalosis.",
+    "keyPoints": [
+      "Hypertrophic Pyloric Stenosis Hypochloremic Hypokalemic Metabolic Alkalosis",
+      "4-week male + non-bilious projectile vomiting + olive mass + low Cl/K and high HCO3 = Pyloric stenosis (loss of HCl -> hypochloremic hypokalemic alkalosis with paradoxical aciduria"
+    ],
+    "references": [
+      {
+        "label": "Holweger KA. Mixed acid-base disturbances due to presumed congenital pyloric stenosis in a 7-month-old Holstein-Friesian calf. Can Vet J. 2026 Nov. PMID: 42959827.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42959827/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

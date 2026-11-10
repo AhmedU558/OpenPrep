@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s2-0951",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Variceal Bleeding Multi-Modal Therapy Octreotide Ceftriaxone Ligation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man with alcohol-associated cirrhosis presents to the emergency department with sudden, large-volume hematemesis and melena for 3 hours. On arrival, he is pale and diaphoretic. Vital signs: blood pressure 84/52 mm Hg, heart rate 122/min, respiratory rate 22/min, and oxygen saturation 96% on room air. Physical examination reveals spider angiomas, prominent caput medusae, and palpable splenomegaly. Peripheral IV access with two 16-gauge cannulas is established, and rapid crystalloid infusion is initiated along with 1 unit of packed red blood cells targeting hemoglobin 7 to 8 g/dL. Which of the following combinations of medical therapies should be initiated immediately prior to urgent endoscopy?",
+    "options": [
+      {
+        "text": "Intravenous octreotide continuous infusion plus intravenous ceftriaxone 1 gram daily",
+        "correct": true,
+        "explanation": "Acute variceal hemorrhage in cirrhosis is a medical emergency with a 6-week mortality rate of 15-20%. The standard-of-care medical management initiated IMMEDIATELY UPON PRESENTATION (before endoscopy) includes: (1) RESTRICTIVE TRANSFUSION STRATEGY: Transfuse packed red blood cells to maintain hemoglobin between 7.0 and 8.0 g/dL (overtransfusion to >9-10 g/dL causes rebound portal hypertension and increases rebleeding and mortality); (2) VASOACTIVE INFUSION: Intravenous OCTREOTIDE (50 ug bolus followed by 50 ug/hr continuous infusion for 2 to 5 days), a synthetic somatostatin analogue that causes splanchnic arterial vasoconstriction, decreasing portal inflow and variceal pressure; and (3) PROPHYLACTIC ANTIBIOTICS: Intravenous CEFTRIAXONE (1 g daily for up to 7 days). Cirrhotic patients with GI hemorrhage have an extremely high risk of bacterial translocation, spontaneous bacterial peritonitis (SBP), and sepsis; routine prophylactic ceftriaxone significantly reduces bacterial infections, early rebleeding, and all-cause hospital mortality. Urgent upper endoscopy for ENDOSCOPIC VARICEAL LIGATION (EVL) should be performed within 12 hours of presentation once initial hemodynamic stabilization is achieved."
+      },
+      {
+        "text": "Intravenous regular insulin infusion plus oral propranolol 40 mg twice daily",
+        "correct": false,
+        "explanation": "Non-selective beta-blockers (propranolol, nadolol) are used for primary and secondary chronic prophylaxis, but are STRICTLY CONTRAINDICATED during acute active hemorrhage because they blunt compensatory tachycardia."
+      },
+      {
+        "text": "High-dose intravenous terlipressin combined with aggressive crystalloid loading to CVP >15",
+        "correct": false,
+        "explanation": "Over-aggressive fluid resuscitation elevates portal pressures and precipitates fatal variceal rebleeding; fluid administration must be conservative and blood transfusion restrictive."
+      },
+      {
+        "text": "Intravenous pantoprazole continuous infusion as the sole pharmacotherapy",
+        "correct": false,
+        "explanation": "While PPIs are used for peptic ulcer bleeding, variceal bleeding requires splanchnic vasoconstriction (octreotide) and prophylactic antibiotics (ceftriaxone) to reduce mortality."
+      },
+      {
+        "text": "Immediate insertion of a Sengstaken-Blakemore balloon tube before medical therapy",
+        "correct": false,
+        "explanation": "Balloon tamponade is a salvage bridge reserved only for refractory exsanguinating hemorrhage when endoscopy fails, not initial first-line therapy."
+      }
+    ],
+    "explanation": "Acute variceal hemorrhage in cirrhosis is a medical emergency with a 6-week mortality rate of 15-20%. The standard-of-care medical management initiated IMMEDIATELY UPON PRESENTATION (before endoscopy) includes: (1) RESTRICTIVE TRANSFUSION STRATEGY: Transfuse packed red blood cells to maintain hemoglobin between 7.0 and 8.0 g/dL (overtransfusion to >9-10 g/dL causes rebound portal hypertension and increases rebleeding and mortality); (2) VASOACTIVE INFUSION: Intravenous OCTREOTIDE (50 ug bolus followed by 50 ug/hr continuous infusion for 2 to 5 days), a synthetic somatostatin analogue that causes splanchnic arterial vasoconstriction, decreasing portal inflow and variceal pressure; and (3) PROPHYLACTIC ANTIBIOTICS: Intravenous CEFTRIAXONE (1 g daily for up to 7 days). Cirrhotic patients with GI hemorrhage have an extremely high risk of bacterial translocation, spontaneous bacterial peritonitis (SBP), and sepsis; routine prophylactic ceftriaxone significantly reduces bacterial infections, early rebleeding, and all-cause hospital mortality. Urgent upper endoscopy for ENDOSCOPIC VARICEAL LIGATION (EVL) should be performed within 12 hours of presentation once initial hemodynamic stabilization is achieved. Acute variceal hemorrhage = Restrictive transfusion (target Hb 7-8) + IV octreotide + IV ceftriaxone + EVL within 12 hrs.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Variceal Bleeding Multi-Modal Therapy Octreotide Ceftriaxone Ligation.",
+    "keyPoints": [
+      "Acute Variceal Bleeding Multi-Modal Therapy Octreotide Ceftriaxone Ligation",
+      "Acute variceal hemorrhage = Restrictive transfusion (target Hb 7-8) + IV octreotide + IV ceftriaxone + EVL within 12 hrs."
+    ],
+    "references": [
+      {
+        "label": "Gralnek IM. Endoscopic diagnosis and management of esophagogastric variceal hemorrhage: European Society of Gastrointestinal Endoscopy (ESGE) Guideline. Endoscopy. 2022 Nov. PMID: 36174643.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36174643/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0952",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Severe Ulcerative Colitis Intravenous Steroids Infliximab Rescue",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old woman with a 3-year history of ulcerative colitis presents to the hospital with a severe flare. Over the past 4 days, she has had 10 to 12 bloody bowel movements daily accompanied by severe tenesmus and lower abdominal cramping. Vital signs: temperature 38.4 C (101.1 F), blood pressure 104/66 mm Hg, heart rate 114/min, respiratory rate 18/min. Physical examination reveals mild diffuse lower abdominal tenderness without guarding, rigidity, or rebound. Stool testing is negative for Clostridioides difficile toxin and PCR, and negative for enteropathogenic bacteria and parasites. Laboratory evaluation reveals: hemoglobin 8.8 g/dL, WBC count 14,200/uL, ESR 68 mm/hr, and C-reactive protein (CRP) markedly elevated at 58 mg/L. Abdominal radiograph shows colonic diameter of 4.2 cm without toxic megacolon. She is admitted to the hospital and initiated on high-dose intravenous methylprednisolone 60 mg daily, bowel rest, and venous thromboembolism prophylaxis. On hospital day 3 of intravenous corticosteroids, she continues to have 9 bloody stools daily, pulse rate is 108/min, and repeat CRP remains elevated at 52 mg/L. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Continuation of intravenous methylprednisolone for an additional 14 days before changing therapy",
+        "correct": false,
+        "explanation": "Prolonging ineffective corticosteroids beyond day 3 to 5 dramatically increases infectious morbidity, colonic perforation, and perioperative surgical mortality."
+      },
+      {
+        "text": "Initiation of medical rescue therapy with intravenous infliximab (or cyclosporine)",
+        "correct": true,
+        "explanation": "This patient meets the Truelove and Witts criteria for ACUTE SEVERE ULCERATIVE COLITIS (ASUC): >= 6 bloody stools per day plus at least one systemic sign (fever >37.8 C, tachycardia >90 bpm, anemia Hb <10.5, or ESR >30 mm/hr / CRP >45 mg/L). Initial management is HIGH-DOSE INTRAVENOUS CORTICOSTEROIDS (methylprednisolone 60 mg daily). However, approximately one-third of ASUC patients fail to respond to IV steroids. Formal clinical assessment for steroid responsiveness MUST BE PERFORMED ON DAY 3 OF THERAPY (e.g., the Oxford Index: >8 stools/day or 3-8 stools/day with CRP >45 mg/L on day 3 predicts an 85% risk of colectomy). Prolonged courses of ineffective IV steroids beyond 3 to 5 days provide no additional benefit and drastically increase infectious and surgical complications. For patients failing IV corticosteroids on day 3, GUIDELINE-DIRECTED MEDICAL RESCUE THERAPY WITH AN ANTI-TNF AGENT (INFLIXIMAB 5 to 10 mg/kg) OR INTRAVENOUS CYCLOSPORINE must be initiated promptly, with concurrent urgent surgical consultation. If medical rescue therapy fails within 48 to 72 hours, emergent subtotal colectomy is required."
+      },
+      {
+        "text": "Addition of oral mesalamine 4.8 grams daily and rectally administered hydrocortisone enemas",
+        "correct": false,
+        "explanation": "5-ASA formulations (mesalamine) are ineffective in severe hospitalized flares and can trigger paradoxical worsening of colitis; they have no role in ASUC rescue."
+      },
+      {
+        "text": "Immediate emergency total proctocolectomy with permanent end ileostomy without rescue drug trial",
+        "correct": false,
+        "explanation": "Emergency colectomy is reserved for toxic megacolon, perforation, severe hemorrhage, or failure of rescue medical therapy; infliximab provides >70% rescue rate."
+      },
+      {
+        "text": "Initiation of oral azathioprine 2.5 mg/kg daily as primary monotherapy",
+        "correct": false,
+        "explanation": "Azathioprine has a delayed onset of action of 8 to 12 weeks and is completely useless for acute hospitalized rescue management."
+      }
+    ],
+    "explanation": "This patient meets the Truelove and Witts criteria for ACUTE SEVERE ULCERATIVE COLITIS (ASUC): >= 6 bloody stools per day plus at least one systemic sign (fever >37.8 C, tachycardia >90 bpm, anemia Hb <10.5, or ESR >30 mm/hr / CRP >45 mg/L). Initial management is HIGH-DOSE INTRAVENOUS CORTICOSTEROIDS (methylprednisolone 60 mg daily). However, approximately one-third of ASUC patients fail to respond to IV steroids. Formal clinical assessment for steroid responsiveness MUST BE PERFORMED ON DAY 3 OF THERAPY (e.g., the Oxford Index: >8 stools/day or 3-8 stools/day with CRP >45 mg/L on day 3 predicts an 85% risk of colectomy). Prolonged courses of ineffective IV steroids beyond 3 to 5 days provide no additional benefit and drastically increase infectious and surgical complications. For patients failing IV corticosteroids on day 3, GUIDELINE-DIRECTED MEDICAL RESCUE THERAPY WITH AN ANTI-TNF AGENT (INFLIXIMAB 5 to 10 mg/kg) OR INTRAVENOUS CYCLOSPORINE must be initiated promptly, with concurrent urgent surgical consultation. If medical rescue therapy fails within 48 to 72 hours, emergent subtotal colectomy is required. Acute severe UC failing IV steroids on day 3 (Oxford criteria: >8 stools + CRP >45) = Medical rescue with IV infliximab or cyclosporine.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Severe Ulcerative Colitis Intravenous Steroids Infliximab Rescue.",
+    "keyPoints": [
+      "Acute Severe Ulcerative Colitis Intravenous Steroids Infliximab Rescue",
+      "Acute severe UC failing IV steroids on day 3 (Oxford criteria: >8 stools + CRP >45) = Medical rescue with IV infliximab or cyclosporine."
+    ],
+    "references": [
+      {
+        "label": "Singh A. Tofacitinib 20 vs 30 mg in acute severe ulcerative colitis: a double-blind randomized controlled trial. J Crohns Colitis. 2026 Oct 9. PMID: 42880720.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42880720/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0953",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Acute Mesenteric Ischemia Pain Out of Proportion CTA Emergent Laparotomy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 72-year-old woman with permanent atrial fibrillation on no anticoagulation presents to the emergency department with sudden-onset, severe, agonizing periumbilical abdominal pain for 3 hours. She states the pain is 10/10 and has caused her to double over and vomit twice. Physical examination reveals an elderly woman writhing in severe pain. Vital signs: blood pressure 138/84 mm Hg, heart rate 116/min (irregularly irregular), respiratory rate 22/min. On abdominal examination, the abdomen is soft and non-distended, with mild, non-specific periumbilical tenderness on deep palpation, without voluntary guarding, rigidity, or rebound tenderness; bowel sounds are active. 12-lead ECG demonstrates atrial fibrillation with rapid ventricular response. Laboratory studies show: WBC count 16,800/uL with left shift, serum lactate elevated at 3.6 mmol/L, and normal serum amylase and lipase. Which of the following is the most appropriate next step to establish the diagnosis and guide emergent surgical therapy?",
+    "options": [
+      {
+        "text": "Plain upright abdominal radiography to rule out free intraperitoneal air",
+        "correct": false,
+        "explanation": "Abdominal X-rays are completely normal in early mesenteric ischemia and delaying definitive CTA for plain films wastes critical ischemic bowel salvage time."
+      },
+      {
+        "text": "Immediate colonoscopy to visualize ischemic mucosal changes in the sigmoid colon",
+        "correct": false,
+        "explanation": "Colonoscopy is indicated for ischemic colitis (which affects the colon, typically watershed areas), but is contraindicated in acute mesenteric arterial ischemia due to perforation risk from air insufflation."
+      },
+      {
+        "text": "Multiphase contrast-enhanced CT angiography of the abdomen and pelvis",
+        "correct": true,
+        "explanation": "This patient presents with classic ACUTE MESENTERIC ISCHEMIA (AMI), most commonly caused by an ACUTE ARTERIAL EMBOLUS TO THE SUPERIOR MESENTERIC ARTERY (SMA, ~50% of cases), typically dislodging from the left atrium in atrial fibrillation. The pathognomonic clinical hallmark is SEVERE, AGONIZING ABDOMINAL PAIN OUT OF PROPORTION TO PHYSICAL EXAMINATION FINDINGS (the abdomen remains soft and non-tender initially because ischemia is mucosal, without transmural peritonitis). Elevated serum lactate and leukocytosis are classic markers of early tissue ischemia. Because irreversible transmural bowel infarction and gangrene occur within 6 to 12 hours of onset, rapid diagnosis is paramount. The diagnostic gold standard of choice is BIPHASIC/MULTIPHASIC CONTRAST-ENHANCED CT ANGIOGRAPHY (CTA) OF THE ABDOMEN AND PELVIS. CTA has a sensitivity and specificity >95%, rapidly identifying filling defects in the SMA, absence of bowel wall enhancement, mesenteric stranding, or pneumatosis intestinalis. Once confirmed, management requires immediate fluid resuscitation, broad-spectrum antibiotics, IV heparin, and EMERGENT SURGICAL LAPAROTOMY for surgical embolectomy and resection of non-viable bowel."
+      },
+      {
+        "text": "Serum D-dimer measurement followed by outpatient magnetic resonance angiography",
+        "correct": false,
+        "explanation": "Waiting for outpatient imaging in acute arterial embolic mesenteric ischemia guarantees extensive bowel gangrene, septic shock, and death."
+      },
+      {
+        "text": "Empiric administration of high-dose intravenous pantoprazole and discharge if pain improves",
+        "correct": false,
+        "explanation": "Misdiagnosing mesenteric ischemia as acid peptic disease leads to fatal bowel necrosis; acute pain out of proportion demands urgent CTA."
+      }
+    ],
+    "explanation": "This patient presents with classic ACUTE MESENTERIC ISCHEMIA (AMI), most commonly caused by an ACUTE ARTERIAL EMBOLUS TO THE SUPERIOR MESENTERIC ARTERY (SMA, ~50% of cases), typically dislodging from the left atrium in atrial fibrillation. The pathognomonic clinical hallmark is SEVERE, AGONIZING ABDOMINAL PAIN OUT OF PROPORTION TO PHYSICAL EXAMINATION FINDINGS (the abdomen remains soft and non-tender initially because ischemia is mucosal, without transmural peritonitis). Elevated serum lactate and leukocytosis are classic markers of early tissue ischemia. Because irreversible transmural bowel infarction and gangrene occur within 6 to 12 hours of onset, rapid diagnosis is paramount. The diagnostic gold standard of choice is BIPHASIC/MULTIPHASIC CONTRAST-ENHANCED CT ANGIOGRAPHY (CTA) OF THE ABDOMEN AND PELVIS. CTA has a sensitivity and specificity >95%, rapidly identifying filling defects in the SMA, absence of bowel wall enhancement, mesenteric stranding, or pneumatosis intestinalis. Once confirmed, management requires immediate fluid resuscitation, broad-spectrum antibiotics, IV heparin, and EMERGENT SURGICAL LAPAROTOMY for surgical embolectomy and resection of non-viable bowel. Atrial fibrillation + agonizing pain out of proportion + soft abdomen + high lactate = Acute mesenteric ischemia (contrast CT angiography).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Mesenteric Ischemia Pain Out of Proportion CTA Emergent Laparotomy.",
+    "keyPoints": [
+      "Acute Mesenteric Ischemia Pain Out of Proportion CTA Emergent Laparotomy",
+      "Atrial fibrillation + agonizing pain out of proportion + soft abdomen + high lactate = Acute mesenteric ischemia (contrast CT angiography)."
+    ],
+    "references": [
+      {
+        "label": "Wang B. Enlightenment and lesson from the successful treatment of acute superior mesenteric artery embolism. Cell Mol Biol (Noisy-le-grand). 2017 Nov 30. PMID: 29208189.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29208189/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0954",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Ischemic Colitis Watershed Splenic Flexure Colonoscopy Conservative Therapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old woman presents with acute, crampy left lower quadrant abdominal pain followed by the passage of bright red blood and clots mixed with loose stool 4 hours ago. Yesterday, she experienced prolonged dizziness and lightheadedness following the initiation of high-dose lisinopril and hydrochlorothiazide for hypertension. She has a history of peripheral artery disease and hyperlipidemia. Vital signs: blood pressure 114/72 mm Hg, heart rate 86/min, respiratory rate 16/min, and temperature 37.3 C. Physical examination reveals moderate tenderness to palpation in the left lower quadrant without peritoneal signs (no guarding or rebound). Digital rectal examination confirms maroon-colored blood in the rectal vault. Laboratory studies show: hemoglobin 11.2 g/dL, WBC count 11,800/uL, and serum lactate normal at 1.2 mmol/L. Contrast-enhanced abdominal CT demonstrates segmental thickening and submucosal edema ('thumbprinting') localized to the splenic flexure and descending colon, with patent mesenteric vessels. Which of the following is the most appropriate management plan for this patient?",
+    "options": [
+      {
+        "text": "Emergent exploratory laparotomy with total abdominal colectomy and end ileostomy",
+        "correct": false,
+        "explanation": "Surgical resection is indicated only in the minority (<15%) of patients who develop transmural gangrene, perforation, or peritonitis; mild-to-moderate ischemic colitis resolves with medical care."
+      },
+      {
+        "text": "Immediate therapeutic anticoagulation with intravenous unfractionated heparin infusion",
+        "correct": false,
+        "explanation": "Anticoagulation provides no benefit in non-occlusive low-flow ischemic colitis and can worsen active colonic mucosal bleeding."
+      },
+      {
+        "text": "Catheter-directed thrombolysis of the inferior mesenteric artery via interventional radiology",
+        "correct": false,
+        "explanation": "Ischemic colitis is non-occlusive hypoperfusion; thrombolysis is contraindicated and carries high bleeding risks without vascular targets."
+      },
+      {
+        "text": "Supportive care with intravenous fluids, bowel rest, and flexible sigmoidoscopy to evaluate mucosal viability",
+        "correct": true,
+        "explanation": "This patient has ISCHEMIC COLITIS (colonic ischemia), the most common form of intestinal ischemia. Unlike acute mesenteric ischemia (which is an acute embolic or thrombotic macrovascular occlusion of the SMA causing small bowel infarction), ischemic colitis is typically caused by TRANSIENT NON-OCCLUSIVE SYSTEMIC HYPOPERFUSION (e.g., severe dehydration, shock, heart failure, or medication-induced hypotension) in patients with underlying atherosclerotic disease. It classically affects 'WATERSHED AREAS' of the colon that have limited collateral microvascular blood supply: (1) GRIFFITHS' POINT at the SPLENIC FLEXURE (junction between the superior mesenteric artery [middle colic] and inferior mesenteric artery [left colic]), and (2) SUDECK'S POINT at the RECTOSIGMOID JUNCTION. The classic clinical presentation is: sudden, crampy abdominal pain (typically left-sided) rapidly followed within 24 hours by mild-to-moderate hematochezia or bloody diarrhea. CT shows colonic thumbprinting. Diagnostic confirmation is made via GENTLE FLEXIBLE SIGMOIDOSCOPY (avoiding high-pressure air insufflation), revealing pale, edematous, hemorrhagic mucosa with petechial ulcerations. >85% of cases are transient and resolve spontaneously with SUPPORTIVE MEDICAL CARE: IV fluids to restore perfusion, bowel rest, and holding offending hypotensive drugs. Surgery is indicated only for fulminant necrosis, gangrene, or peritonitis."
+      },
+      {
+        "text": "Administration of high-dose oral prednisone 60 mg daily for suspected inflammatory bowel disease",
+        "correct": false,
+        "explanation": "Corticosteroids have no role in ischemic colitis, mask peritonitis, and increase colonic perforation risks; supportive rehydration is standard."
+      }
+    ],
+    "explanation": "This patient has ISCHEMIC COLITIS (colonic ischemia), the most common form of intestinal ischemia. Unlike acute mesenteric ischemia (which is an acute embolic or thrombotic macrovascular occlusion of the SMA causing small bowel infarction), ischemic colitis is typically caused by TRANSIENT NON-OCCLUSIVE SYSTEMIC HYPOPERFUSION (e.g., severe dehydration, shock, heart failure, or medication-induced hypotension) in patients with underlying atherosclerotic disease. It classically affects 'WATERSHED AREAS' of the colon that have limited collateral microvascular blood supply: (1) GRIFFITHS' POINT at the SPLENIC FLEXURE (junction between the superior mesenteric artery [middle colic] and inferior mesenteric artery [left colic]), and (2) SUDECK'S POINT at the RECTOSIGMOID JUNCTION. The classic clinical presentation is: sudden, crampy abdominal pain (typically left-sided) rapidly followed within 24 hours by mild-to-moderate hematochezia or bloody diarrhea. CT shows colonic thumbprinting. Diagnostic confirmation is made via GENTLE FLEXIBLE SIGMOIDOSCOPY (avoiding high-pressure air insufflation), revealing pale, edematous, hemorrhagic mucosa with petechial ulcerations. >85% of cases are transient and resolve spontaneously with SUPPORTIVE MEDICAL CARE: IV fluids to restore perfusion, bowel rest, and holding offending hypotensive drugs. Surgery is indicated only for fulminant necrosis, gangrene, or peritonitis. Transient hypotension + crampy LLQ pain + bloody diarrhea + splenic flexure thumbprinting = Ischemic colitis (supportive care + gentle sigmoidoscopy).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Ischemic Colitis Watershed Splenic Flexure Colonoscopy Conservative Therapy.",
+    "keyPoints": [
+      "Ischemic Colitis Watershed Splenic Flexure Colonoscopy Conservative Therapy",
+      "Transient hypotension + crampy LLQ pain + bloody diarrhea + splenic flexure thumbprinting = Ischemic colitis (supportive care + gentle sigmoidoscopy)."
+    ],
+    "references": [
+      {
+        "label": "Gadi SRV. Exercise-Induced Colon Ischemia in a Middle-Aged Female Athlete. ACG Case Rep J. 2025 Oct. PMID: 41122680.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41122680/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0955",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Spontaneous Bacterial Peritonitis Diagnostic Paracentesis Ceftriaxone Albumin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old man with decompensated cirrhosis and known chronic ascites presents with low-grade fever, mild diffuse abdominal discomfort, and progressive confusion over the past 24 hours. Physical examination reveals scleral icterus, asterixis, moderate abdominal distension with shifting dullness, and diffuse mild abdominal tenderness without rigidity or rebound. Vital signs: temperature 38.2 C (100.8 F), blood pressure 106/64 mm Hg, heart rate 98/min. Laboratory evaluation reveals: serum creatinine 1.8 mg/dL (baseline 1.0 mg/dL 1 month ago), WBC 12,400/uL, and total bilirubin 4.2 mg/dL. An immediate diagnostic paracentesis is performed. Ascitic fluid analysis reveals: nucleated cell count 640/uL with 78% polymorphonuclear neutrophils (absolute PMN count = 640 x 0.78 = 499/uL), total protein 0.8 g/dL, glucose 62 mg/dL, and LDH 88 U/L. Gram stain is negative. Which of the following represents the most appropriate management for this patient?",
+    "options": [
+      {
+        "text": "Withholding antimicrobial therapy until ascitic fluid bacterial cultures confirm growth",
+        "correct": false,
+        "explanation": "Delaying antibiotics while awaiting culture in SBP with PMN >= 250 leads to rapid septic shock, hepatorenal syndrome, and death."
+      },
+      {
+        "text": "Performance of emergent exploratory laparotomy for suspected ruptured appendicitis",
+        "correct": false,
+        "explanation": "SBP is a primary medical infection; unindicated exploratory laparotomy in cirrhotic patients carries an in-hospital mortality rate approaching 80%."
+      },
+      {
+        "text": "Therapeutic large-volume paracentesis of 5 liters without intravenous albumin replacement",
+        "correct": false,
+        "explanation": "Large-volume paracentesis without albumin replacement causes post-paracentesis circulatory dysfunction (PICD), rapid renal failure, and death."
+      },
+      {
+        "text": "Initiation of oral ciprofloxacin 500 mg daily as definitive primary treatment",
+        "correct": false,
+        "explanation": "Oral fluoroquinolones are used for secondary outpatient prophylaxis, but acute active SBP requires parenteral broad-spectrum bactericidal therapy (IV ceftriaxone) plus albumin."
+      },
+      {
+        "text": "Initiation of intravenous ceftriaxone plus intravenous albumin infusion (1.5 g/kg on day 1, 1.0 g/kg on day 3)",
+        "correct": true,
+        "explanation": "This patient has SPONTANEOUS BACTERIAL PERITONITIS (SBP), an acute bacterial infection of ascitic fluid occurring in patients with cirrhosis and portal hypertension, driven by bacterial translocation from the gut into mesenteric lymph nodes. Diagnostic criteria for SBP are met when ASCITIC FLUID ABSOLUTE POLYMORPHONUCLEAR (PMN) COUNT IS >= 250 CELLS/uL (here 499/uL), regardless of whether Gram stain or bacterial culture is positive. Treatment must NEVER BE DELAYED awaiting culture results. The definitive management consists of two critical components: (1) EMPIRIC BROAD-SPECTRUM ANTIBIOTIC THERAPY: A third-generation cephalosporin (intravenous CEFTRIAXONE 2 g daily or cefotaxime) is the treatment of choice, covering typical enteric pathogens (Escherichia coli, Klebsiella pneumoniae, and Streptococcus pneumoniae); and (2) INTRAVENOUS ALBUMIN INFUSION: Administered at 1.5 g/kg within 6 hours of diagnosis, followed by 1.0 g/kg on day 3. Randomized controlled trials have demonstrated that adding intravenous albumin significantly reduces the incidence of hepatorenal syndrome (from 33% to 10%) and reduces hospital mortality (from 29% to 10%) by preserving effective arterial blood volume and renal perfusion. Patients surviving an episode of SBP require lifelong secondary antibiotic prophylaxis (oral ciprofloxacin or TMP-SMX)."
+      }
+    ],
+    "explanation": "This patient has SPONTANEOUS BACTERIAL PERITONITIS (SBP), an acute bacterial infection of ascitic fluid occurring in patients with cirrhosis and portal hypertension, driven by bacterial translocation from the gut into mesenteric lymph nodes. Diagnostic criteria for SBP are met when ASCITIC FLUID ABSOLUTE POLYMORPHONUCLEAR (PMN) COUNT IS >= 250 CELLS/uL (here 499/uL), regardless of whether Gram stain or bacterial culture is positive. Treatment must NEVER BE DELAYED awaiting culture results. The definitive management consists of two critical components: (1) EMPIRIC BROAD-SPECTRUM ANTIBIOTIC THERAPY: A third-generation cephalosporin (intravenous CEFTRIAXONE 2 g daily or cefotaxime) is the treatment of choice, covering typical enteric pathogens (Escherichia coli, Klebsiella pneumoniae, and Streptococcus pneumoniae); and (2) INTRAVENOUS ALBUMIN INFUSION: Administered at 1.5 g/kg within 6 hours of diagnosis, followed by 1.0 g/kg on day 3. Randomized controlled trials have demonstrated that adding intravenous albumin significantly reduces the incidence of hepatorenal syndrome (from 33% to 10%) and reduces hospital mortality (from 29% to 10%) by preserving effective arterial blood volume and renal perfusion. Patients surviving an episode of SBP require lifelong secondary antibiotic prophylaxis (oral ciprofloxacin or TMP-SMX). Cirrhosis ascites + PMN >= 250/uL (499) = Spontaneous bacterial peritonitis (IV ceftriaxone + IV albumin 1.5 g/kg day 1 and 1 g/kg day 3).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Spontaneous Bacterial Peritonitis Diagnostic Paracentesis Ceftriaxone Albumin.",
+    "keyPoints": [
+      "Spontaneous Bacterial Peritonitis Diagnostic Paracentesis Ceftriaxone Albumin",
+      "Cirrhosis ascites + PMN >= 250/uL (499) = Spontaneous bacterial peritonitis (IV ceftriaxone + IV albumin 1.5 g/kg day 1 and 1 g/kg day 3)."
+    ],
+    "references": [
+      {
+        "label": "Ahmed LM. Listeria monocytogenes Spontaneous Bacterial Peritonitis in a Patient With Decompensated Cirrhosis. Cureus. 2025 Dec. PMID: 41602264.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41602264/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0956",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Hepatic Encephalopathy First-Line Lactulose and Rifaximin Secondary Prevention",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old man with alcohol-associated cirrhosis is brought to the hospital by his wife due to marked confusion, daytime somnolence, and inappropriate behavior over the past 2 days. She states he has been sleeping during the day and wandering the house at night. He ran out of his furosemide and spironolactone 5 days ago and had a single episode of dark, tarry stool yesterday. On examination, he is disoriented to date and place. When asked to extend his wrists with fingers separated, rhythmic, non-synchronous flapping movements of his hands are elicited (asterixis). Cardiopulmonary examination is normal. Abdomen is distended with shifting dullness and mild splenomegaly without tenderness. Laboratory studies show: serum sodium 136 mEq/L, potassium 3.2 mEq/L, BUN 38 mg/dL, creatinine 1.4 mg/dL (baseline 0.9 mg/dL), and venous blood ammonia 118 umol/L. Which of the following is the most appropriate initial therapy to manage this acute episode and reduce the risk of future hospitalizations?",
+    "options": [
+      {
+        "text": "Oral or nasogastric lactulose titrated to 2 to 3 soft bowel movements per day, adding rifaximin if symptoms recur",
+        "correct": true,
+        "explanation": "This patient presents with acute HEPATIC ENCEPHALOPATHY (HE, Grade II-III), characterized by altered sleep-wake cycle, confusion, and asterixis (flapping tremor), precipitated by gastrointestinal bleeding (melena releasing nitrogenous blood load) and hypokalemic volume depletion. In cirrhosis, portosystemic shunting and impaired hepatic metabolic capacity allow neurotoxic substances—primarily AMMONIA (NH3) generated by gut bacterial degradation of proteins—to bypass the liver, cross the blood-brain barrier, and cause astrocyte swelling and neurotoxicity. Management requires: (1) Identifying and treating precipitating factors (infection/SBP, GI bleed, hypokalemia, constipation, sedatives); and (2) Lowering systemic ammonia. The undisputed FIRST-LINE PHARMACOTHERAPY is LACTULOSE (a nonabsorbable synthetic disaccharide). In the colonic lumen, bacterial fermentation converts lactulose into lactic and acetic acids. Acidification of the colonic lumen (pH <5.0) converts diffusable ammonia (NH3) into nonabsorbable ammonium (NH4+)—a process termed 'AMMONIA TRAPPING'. Concurrently, lactulose acts as an osmotic laxative, accelerating fecal excretion of ammonium. Dosing is titrated to achieve 2 TO 3 SOFT BOWEL MOVEMENTS PER DAY. For patients with recurrent HE despite lactulose or severe hospitalized episodes, the nonabsorbable antibiotic RIFAXIMIN (550 mg twice daily) is added as combination therapy to reduce gut urease-producing bacteria, significantly reducing recurrent hospitalizations."
+      },
+      {
+        "text": "Immediate dietary protein restriction to <20 grams per day to eliminate ammonia production",
+        "correct": false,
+        "explanation": "Severe dietary protein restriction was historically practiced but is now proven to worsen sarcopenia, malnutrition, and overall mortality; normal protein intake (1.2-1.5 g/kg/day) is recommended."
+      },
+      {
+        "text": "Initiation of oral flumazenil 0.5 mg daily to block endogenous benzodiazepine receptors",
+        "correct": false,
+        "explanation": "Flumazenil can produce brief transient arousal in severe hepatic coma, but has no sustained clinical benefit and carries seizure risks; it does not replace lactulose."
+      },
+      {
+        "text": "Administration of intravenous loop diuretics to accelerate renal ammonia excretion",
+        "correct": false,
+        "explanation": "Diuretics worsen volume depletion and hypokalemia; hypokalemia promotes renal ammoniagenesis and drives ammonia into astrocytes, worsening encephalopathy."
+      },
+      {
+        "text": "Immediate insertion of a transjugular intrahepatic portosystemic shunt (TIPS)",
+        "correct": false,
+        "explanation": "TIPS creates a large artificial portosystemic shunt that diverts portal blood directly into systemic circulation, dramatically WORSENING hepatic encephalopathy (new or worsening HE occurs in 30-50% post-TIPS)."
+      }
+    ],
+    "explanation": "This patient presents with acute HEPATIC ENCEPHALOPATHY (HE, Grade II-III), characterized by altered sleep-wake cycle, confusion, and asterixis (flapping tremor), precipitated by gastrointestinal bleeding (melena releasing nitrogenous blood load) and hypokalemic volume depletion. In cirrhosis, portosystemic shunting and impaired hepatic metabolic capacity allow neurotoxic substances—primarily AMMONIA (NH3) generated by gut bacterial degradation of proteins—to bypass the liver, cross the blood-brain barrier, and cause astrocyte swelling and neurotoxicity. Management requires: (1) Identifying and treating precipitating factors (infection/SBP, GI bleed, hypokalemia, constipation, sedatives); and (2) Lowering systemic ammonia. The undisputed FIRST-LINE PHARMACOTHERAPY is LACTULOSE (a nonabsorbable synthetic disaccharide). In the colonic lumen, bacterial fermentation converts lactulose into lactic and acetic acids. Acidification of the colonic lumen (pH <5.0) converts diffusable ammonia (NH3) into nonabsorbable ammonium (NH4+)—a process termed 'AMMONIA TRAPPING'. Concurrently, lactulose acts as an osmotic laxative, accelerating fecal excretion of ammonium. Dosing is titrated to achieve 2 TO 3 SOFT BOWEL MOVEMENTS PER DAY. For patients with recurrent HE despite lactulose or severe hospitalized episodes, the nonabsorbable antibiotic RIFAXIMIN (550 mg twice daily) is added as combination therapy to reduce gut urease-producing bacteria, significantly reducing recurrent hospitalizations. Cirrhosis + confusion + asterixis + melena = Hepatic encephalopathy (titrate lactulose to 2-3 soft stools/day; add rifaximin for recurrence).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hepatic Encephalopathy First-Line Lactulose and Rifaximin Secondary Prevention.",
+    "keyPoints": [
+      "Hepatic Encephalopathy First-Line Lactulose and Rifaximin Secondary Prevention",
+      "Cirrhosis + confusion + asterixis + melena = Hepatic encephalopathy (titrate lactulose to 2-3 soft stools/day; add rifaximin for recurrence)."
+    ],
+    "references": [
+      {
+        "label": "Szilagyi A. Microbiome alternative treatments for hepatic encephalopathy: Reassessment of the potential use of lactose in lactase non-persistent cirrhosis patients. Can Liver J. 2026 May. PMID: 42404992.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42404992/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0957",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Hepatorenal Syndrome Terlipressin and Albumin Liver Transplant Bridging",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old man with end-stage cirrhosis and refractory ascites is hospitalized for progressive oliguria and fatigue. Over the past 48 hours, his urine output has dropped to 250 mL/day. On examination, he is deeply jaundiced with marked abdominal distension, shifting dullness, and 2+ pitting edema in both legs. Vital signs: blood pressure 92/58 mm Hg, heart rate 88/min. Diagnostic paracentesis yields clear fluid with a PMN count of 85/uL (excluding SBP). All diuretics were discontinued on admission, and he received intravenous 20% albumin at 1 g/kg/day (total 150 g over 48 hours) without any improvement in urine output or renal function. Laboratory studies show: serum creatinine has risen from a baseline of 1.2 mg/dL to 3.8 mg/dL over 4 days, BUN is 54 mg/dL, serum sodium is 126 mEq/L, and fractional excretion of sodium (FENa) is <0.2%. Urinalysis shows normal specific gravity with bland sediment (no RBCs, WBCs, or casts), and renal ultrasound demonstrates normal-sized kidneys with no hydronephrosis or parenchymal disease. Which of the following is the definitive medical management to reverse this functional renal impairment while bridging to liver transplantation?",
+    "options": [
+      {
+        "text": "Immediate initiation of high-dose intravenous furosemide infusion at 40 mg/hr",
+        "correct": false,
+        "explanation": "Diuretics worsen intravascular hypovolemia and further activate the renin-angiotensin system, accelerating renal failure and death in HRS."
+      },
+      {
+        "text": "Continuous intravenous terlipressin combined with intravenous albumin infusion",
+        "correct": true,
+        "explanation": "This patient meets the International Club of Ascites criteria for HEPATORENAL SYNDROME - ACUTE KIDNEY INJURY (HRS-AKI): (1) Cirrhosis with ascites; (2) Acute increase in serum creatinine >= 0.3 mg/dL within 48 hours or >= 50% above baseline; (3) Lack of response after at least 48 hours of diuretic withdrawal and plasma volume expansion with intravenous albumin (1 g/kg/day); (4) Absence of shock; (5) No recent nephrotoxic drug exposure; and (6) No intrinsic renal disease (absence of proteinuria >500 mg/day, microscopic hematuria, or abnormal renal ultrasound). The underlying pathophysiology is SPLANCHNIC ARTERIAL VASODILATION driven by portal hypertension-induced nitric oxide release. Splanchnic pooling severely reduces effective circulating arterial blood volume, triggering intense compensatory activation of the RAAS, sympathetic nervous system, and vasopressin. This causes PROFOUND, FUNCTIONAL RENAL ARTERIOLAR VASOCONSTRICTION, plummeting renal blood flow and GFR (manifesting as low urine sodium and FENa <0.2% with structurally intact kidneys). The first-line medical therapy of choice to reverse HRS-AKI is TERLIPRESSIN (a synthetic vasopressin V1 receptor agonist) COMBINED WITH INTRAVENOUS ALBUMIN. Terlipressin constricts dilated splanchnic arteries, restoring systemic vascular resistance and renal arterial perfusion. If terlipressin is unavailable, norepinephrine plus albumin or octreotide/midodrine plus albumin is used. The definitive, curative treatment for the underlying liver failure is ORTHOTOPIC LIVER TRANSPLANTATION."
+      },
+      {
+        "text": "Performance of emergent transjugular intrahepatic portosystemic shunt (TIPS) placement",
+        "correct": false,
+        "explanation": "While TIPS can lower portal pressure, it carries extreme risks of worsening hepatic failure, encephalopathy, and high procedural mortality in acute renal shutdown."
+      },
+      {
+        "text": "Placement of a bilateral percutaneous nephrostomy tube to relieve intrarenal pressure",
+        "correct": false,
+        "explanation": "Renal ultrasound confirmed the absence of urinary obstruction; nephrostomy is invasive, dangerous, and completely ineffective for functional prerenal vasoconstriction."
+      },
+      {
+        "text": "Empiric initiation of high-dose oral corticosteroids for suspected acute interstitial nephritis",
+        "correct": false,
+        "explanation": "Urinalysis confirmed bland sediment without WBC casts or eosinophils; the etiology is functional hemodynamics of cirrhosis, which does not respond to steroids."
+      }
+    ],
+    "explanation": "This patient meets the International Club of Ascites criteria for HEPATORENAL SYNDROME - ACUTE KIDNEY INJURY (HRS-AKI): (1) Cirrhosis with ascites; (2) Acute increase in serum creatinine >= 0.3 mg/dL within 48 hours or >= 50% above baseline; (3) Lack of response after at least 48 hours of diuretic withdrawal and plasma volume expansion with intravenous albumin (1 g/kg/day); (4) Absence of shock; (5) No recent nephrotoxic drug exposure; and (6) No intrinsic renal disease (absence of proteinuria >500 mg/day, microscopic hematuria, or abnormal renal ultrasound). The underlying pathophysiology is SPLANCHNIC ARTERIAL VASODILATION driven by portal hypertension-induced nitric oxide release. Splanchnic pooling severely reduces effective circulating arterial blood volume, triggering intense compensatory activation of the RAAS, sympathetic nervous system, and vasopressin. This causes PROFOUND, FUNCTIONAL RENAL ARTERIOLAR VASOCONSTRICTION, plummeting renal blood flow and GFR (manifesting as low urine sodium and FENa <0.2% with structurally intact kidneys). The first-line medical therapy of choice to reverse HRS-AKI is TERLIPRESSIN (a synthetic vasopressin V1 receptor agonist) COMBINED WITH INTRAVENOUS ALBUMIN. Terlipressin constricts dilated splanchnic arteries, restoring systemic vascular resistance and renal arterial perfusion. If terlipressin is unavailable, norepinephrine plus albumin or octreotide/midodrine plus albumin is used. The definitive, curative treatment for the underlying liver failure is ORTHOTOPIC LIVER TRANSPLANTATION. Cirrhosis + rising creatinine refractory to 48 hrs albumin + bland urine (FENa <0.2%) = Hepatorenal syndrome (IV terlipressin + IV albumin).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hepatorenal Syndrome Terlipressin and Albumin Liver Transplant Bridging.",
+    "keyPoints": [
+      "Hepatorenal Syndrome Terlipressin and Albumin Liver Transplant Bridging",
+      "Cirrhosis + rising creatinine refractory to 48 hrs albumin + bland urine (FENa <0.2%) = Hepatorenal syndrome (IV terlipressin + IV albumin)."
+    ],
+    "references": [
+      {
+        "label": "Ozturk NB. Vasoconstrictor therapy for HRS-AKI in patients listed for liver transplantation: Translating evidence to the pretransplant setting. Liver Transpl. 2026 Oct 2. PMID: 42825583.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42825583/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0958",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Pancreatitis Goal-Directed Lactated Ringer and Early Enteral Nutrition",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old woman presents to the emergency department with severe epigastric pain radiating to her back, nausea, and persistent vomiting for 8 hours after a weekend barbecue. She has a history of asymptomatic gallstones. Physical examination reveals epigastric tenderness and involuntary guarding without rebound. Vital signs: blood pressure 114/72 mm Hg, heart rate 102/min, respiratory rate 18/min, and temperature 37.6 C. Laboratory studies reveal: serum lipase 3,400 U/L (reference 10-60 U/L), hematocrit 44%, BUN 24 mg/dL, creatinine 1.1 mg/dL, AST 180 U/L, ALT 240 U/L, and normal bilirubin. Abdominal ultrasound confirms multiple small gallstones in the gallbladder without common bile duct dilation. Which of the following represents the most appropriate initial fluid resuscitation and nutritional strategy over the first 24 to 48 hours?",
+    "options": [
+      {
+        "text": "Strict bowel rest (NPO) for at least 7 days with early initiation of total parenteral nutrition (TPN)",
+        "correct": false,
+        "explanation": "Total parenteral nutrition (TPN) increases gut atrophy, bacterial translocation, and central line sepsis, and is associated with significantly higher infectious mortality than enteral feeding."
+      },
+      {
+        "text": "Massive aggressive crystalloid resuscitation with 0.9% normal saline at 500 mL/hr for 48 hours",
+        "correct": false,
+        "explanation": "The WATERFALL trial proved aggressive fixed hydration causes volume overload, pulmonary edema, and increased mortality without improving pancreatitis outcomes."
+      },
+      {
+        "text": "Moderate goal-directed hydration with lactated Ringer solution and early oral feeding as soon as tolerated",
+        "correct": true,
+        "explanation": "Modern evidence-based guidelines (AGA and IAP/APA) establish the cornerstones of early management in ACUTE PANCREATITIS: (1) FLUID RESCITATION: Moderate, goal-directed fluid therapy using ISOTONIC CRYSTALLOIDS—specifically LACTATED RINGER (LR) SOLUTION. Lactated Ringer solution is superior to normal saline (0.9% NaCl) because large volumes of normal saline induce hyperchloremic non-anion gap metabolic acidosis, which promotes pancreatic acinar zymogen activation and systemic inflammation. However, the landmark WATERFALL randomized controlled trial proved that AGGRESSIVE fluid resuscitation (>20 mL/kg bolus followed by high rates) causes severe fluid overload and increases mortality without improving clinical outcomes; thus, MODERATE GOAL-DIRECTED HYDRATION (e.g., 10 mL/kg bolus if hypovolemic, followed by 1.5-2.0 mL/kg/hr, reassessing hematocrit, BUN, and urine output every 6-12 hours) is recommended; and (2) NUTRITIONAL MANAGEMENT: Historical practices of 'bowel rest' (NPO until pain completely resolves) are obsolete. EARLY ORAL ENTERAL NUTRITION (low-fat solid or liquid diet initiated as soon as abdominal pain improves and ileus resolves, typically within 24 hours) preserves the gut mucosal barrier, prevents bacterial translocation, reduces infectious complications by >50%, and shortens hospital stay. Routine prophylactic antibiotics are NOT recommended."
+      },
+      {
+        "text": "Routine empiric administration of intravenous meropenem to prevent secondary pancreatic necrosis",
+        "correct": false,
+        "explanation": "Prophylactic antibiotics in acute pancreatitis do not prevent infected necrosis or reduce mortality, and select for resistant hospital organisms."
+      },
+      {
+        "text": "Immediate endoscopic retrograde cholangiopancreatography (ERCP) with biliary sphincterotomy",
+        "correct": false,
+        "explanation": "Urgent ERCP is indicated ONLY for acute gallstone pancreatitis complicated by CONCURRENT ACUTE CHOLANGITIS or persistent common bile duct obstruction, not uncomplicated gallstone pancreatitis."
+      }
+    ],
+    "explanation": "Modern evidence-based guidelines (AGA and IAP/APA) establish the cornerstones of early management in ACUTE PANCREATITIS: (1) FLUID RESCITATION: Moderate, goal-directed fluid therapy using ISOTONIC CRYSTALLOIDS—specifically LACTATED RINGER (LR) SOLUTION. Lactated Ringer solution is superior to normal saline (0.9% NaCl) because large volumes of normal saline induce hyperchloremic non-anion gap metabolic acidosis, which promotes pancreatic acinar zymogen activation and systemic inflammation. However, the landmark WATERFALL randomized controlled trial proved that AGGRESSIVE fluid resuscitation (>20 mL/kg bolus followed by high rates) causes severe fluid overload and increases mortality without improving clinical outcomes; thus, MODERATE GOAL-DIRECTED HYDRATION (e.g., 10 mL/kg bolus if hypovolemic, followed by 1.5-2.0 mL/kg/hr, reassessing hematocrit, BUN, and urine output every 6-12 hours) is recommended; and (2) NUTRITIONAL MANAGEMENT: Historical practices of 'bowel rest' (NPO until pain completely resolves) are obsolete. EARLY ORAL ENTERAL NUTRITION (low-fat solid or liquid diet initiated as soon as abdominal pain improves and ileus resolves, typically within 24 hours) preserves the gut mucosal barrier, prevents bacterial translocation, reduces infectious complications by >50%, and shortens hospital stay. Routine prophylactic antibiotics are NOT recommended. Acute pancreatitis = Moderate hydration with Lactated Ringer (avoid overload) + early oral feeding within 24 hours (avoid TPN/prophylactic antibiotics).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Pancreatitis Goal-Directed Lactated Ringer and Early Enteral Nutrition.",
+    "keyPoints": [
+      "Acute Pancreatitis Goal-Directed Lactated Ringer and Early Enteral Nutrition",
+      "Acute pancreatitis = Moderate hydration with Lactated Ringer (avoid overload) + early oral feeding within 24 hours (avoid TPN/prophylactic antibiotics)."
+    ],
+    "references": [
+      {
+        "label": "Márton S. Critical Care Management of Severe Acute Pancreatitis: Current Concepts, Clinical Challenges, and Future Perspectives. Life (Basel). 2026 Aug 25. PMID: 42795274.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42795274/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0959",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Infected Pancreatic Necrosis Step-Up Minimally Invasive Drainage Approach",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man has been hospitalized for 4 weeks following a severe episode of acute necrotizing pancreatitis. Over the past 48 hours, he has developed recrudescent high fevers, worsening abdominal pain, leukocytosis (WBC rising from 9,800 to 22,400/uL), and new oxygen requirements. Contrast-enhanced abdominal CT reveals a 12-cm encapsulated collection of non-enhancing liquid and necrotic tissue in the lesser sac replacing the pancreatic body and tail (walled-off necrosis [WON]), containing multiple pockets of gas (extraluminal gas bubbles). Blood cultures grow Klebsiella pneumoniae. He is initiated on intravenous meropenem. Which of the following represents the preferred definitive management strategy for this infected necrotizing collection?",
+    "options": [
+      {
+        "text": "Immediate emergency open exploratory laparotomy with radical surgical necrosectomy and wide pack drainage",
+        "correct": false,
+        "explanation": "Open surgical necrosectomy causes massive hemorrhage, enterocutaneous fistulas, and significantly higher mortality compared to the minimally invasive step-up approach."
+      },
+      {
+        "text": "Conservative management with intravenous meropenem monotherapy for 6 weeks without any drainage",
+        "correct": false,
+        "explanation": "Infected walled-off necrosis contains dense devitalized tissue and pus that cannot be sterilized by antibiotics alone; mechanical source control via drainage is mandatory."
+      },
+      {
+        "text": "Fine-needle aspiration under CT guidance to confirm bacterial speciation before considering any drainage",
+        "correct": false,
+        "explanation": "Routine diagnostic FNA is unnecessary and redundant when gas bubbles are present on CT with overt clinical sepsis; immediate drainage is indicated."
+      },
+      {
+        "text": "A minimally invasive 'step-up' approach beginning with percutaneous catheter drainage or endoscopic transmural drainage",
+        "correct": true,
+        "explanation": "This patient has INFECTED WALLED-OFF PANCREATIC NECROSIS (WON), defined as a mature, encapsulated collection of pancreatic and peripancreatic necrosis that develops >4 weeks after the onset of necrotizing pancreatitis. The presence of EXTRALUMINAL GAS on CT in the setting of new sepsis is diagnostic of secondary bacterial infection. Historical management involved open surgical necrosectomy, which carried extreme morbidity (35-50% mortality, high rates of fistulas and incisional hernias). The landmark Dutch Pancreatitis Study Group PANTER trial established the 'STEP-UP APPROACH' as the modern international standard of care. The step-up protocol begins with: (1) INTRAVENOUS ANTIBIOTICS (carbapenems or fluoroquinolones with metronidazole) that effectively penetrate pancreatic necrosis; (2) STEP 1: MINIMALLY INVASIVE DECOMPRESSION using PERCUTANEOUS CATHETER DRAINAGE (radiological retroperitoneal drain) OR ENDOSCOPIC TRANSMURAL DRAINAGE (EUS-guided cystogastrostomy with lumen-apposing metal stents [LAMS]); in >35-40% of patients, catheter drainage alone resolves the infection and obviates the need for any surgical intervention; and (3) STEP 2: If clinical improvement does not occur within 72 hours, MINIMALLY INVASIVE SURGICAL NECROSECTOMY (video-assisted retroperitoneal debridement [VARD] or direct endoscopic necrosectomy [DEN]) is performed through the existing drain tract. Open necrosectomy is reserved only as a final salvage."
+      },
+      {
+        "text": "Endoscopic retrograde cholangiopancreatography with transpapillary pancreatic duct stent placement",
+        "correct": false,
+        "explanation": "Transpapillary duct stenting cannot drain massive (12 cm) peripancreatic necrosis and introduces secondary infection into ductal structures."
+      }
+    ],
+    "explanation": "This patient has INFECTED WALLED-OFF PANCREATIC NECROSIS (WON), defined as a mature, encapsulated collection of pancreatic and peripancreatic necrosis that develops >4 weeks after the onset of necrotizing pancreatitis. The presence of EXTRALUMINAL GAS on CT in the setting of new sepsis is diagnostic of secondary bacterial infection. Historical management involved open surgical necrosectomy, which carried extreme morbidity (35-50% mortality, high rates of fistulas and incisional hernias). The landmark Dutch Pancreatitis Study Group PANTER trial established the 'STEP-UP APPROACH' as the modern international standard of care. The step-up protocol begins with: (1) INTRAVENOUS ANTIBIOTICS (carbapenems or fluoroquinolones with metronidazole) that effectively penetrate pancreatic necrosis; (2) STEP 1: MINIMALLY INVASIVE DECOMPRESSION using PERCUTANEOUS CATHETER DRAINAGE (radiological retroperitoneal drain) OR ENDOSCOPIC TRANSMURAL DRAINAGE (EUS-guided cystogastrostomy with lumen-apposing metal stents [LAMS]); in >35-40% of patients, catheter drainage alone resolves the infection and obviates the need for any surgical intervention; and (3) STEP 2: If clinical improvement does not occur within 72 hours, MINIMALLY INVASIVE SURGICAL NECROSECTOMY (video-assisted retroperitoneal debridement [VARD] or direct endoscopic necrosectomy [DEN]) is performed through the existing drain tract. Open necrosectomy is reserved only as a final salvage. Necrotizing pancreatitis at week 4 + gas on CT + sepsis = Infected walled-off necrosis (minimally invasive step-up approach: percutaneous/endoscopic drainage first).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Infected Pancreatic Necrosis Step-Up Minimally Invasive Drainage Approach.",
+    "keyPoints": [
+      "Infected Pancreatic Necrosis Step-Up Minimally Invasive Drainage Approach",
+      "Necrotizing pancreatitis at week 4 + gas on CT + sepsis = Infected walled-off necrosis (minimally invasive step-up approach: percutaneous/endoscopic drainage first)."
+    ],
+    "references": [
+      {
+        "label": "Walsh K. Complications Associated with the Management of Infected Pancreatic Necrosis. Surg Clin North Am. 2026 Dec. PMID: 42933425.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933425/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0960",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Ascending Cholangitis Tokyo Guidelines Emergent ERCP Decompression",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old woman presents to the emergency department with severe right upper quadrant abdominal pain, shaking chills, and high fevers that began 12 hours ago. On arrival, she is lethargic and confused. Vital signs: temperature 39.4 C (102.9 F), blood pressure 82/48 mm Hg, heart rate 126/min, respiratory rate 24/min, and oxygen saturation 96% on room air. Physical examination reveals marked scleral icterus and significant right upper quadrant abdominal tenderness with involuntary guarding and a positive Murphy sign. Laboratory studies show: WBC count 21,800/uL with 14% band forms, total bilirubin 6.8 mg/dL (direct bilirubin 5.4 mg/dL), alkaline phosphatase 480 U/L, AST 160 U/L, ALT 190 U/L, and arterial lactate 4.2 mmol/L. Abdominal ultrasound demonstrates cholelithiasis, marked dilation of the common bile duct to 14 mm (reference <6 mm), and an obstructing 10-mm hyperechoic calculus in the distal common bile duct with acoustic shadowing. Fluid resuscitation with balanced crystalloids and intravenous piperacillin-tazobactam are initiated. Which of the following is the most appropriate next definitive intervention?",
+    "options": [
+      {
+        "text": "Immediate emergency open cholecystectomy with surgical common bile duct exploration",
+        "correct": false,
+        "explanation": "Emergency open surgery in a patient in septic shock with acute cholangitis carries high perioperative mortality; endoscopic decompression (ERCP) is the safer, minimally invasive standard."
+      },
+      {
+        "text": "Continuation of intravenous antibiotics alone for 48 hours to evaluate clinical response before imaging",
+        "correct": false,
+        "explanation": "Delaying biliary decompression in toxic cholangitis with shock leads to rapid multi-organ failure and death; decompression is mandatory and emergent."
+      },
+      {
+        "text": "Extracorporeal shock wave lithotripsy (ESWL) to fragment the distal choledochal calculus",
+        "correct": false,
+        "explanation": "Lithotripsy cannot relieve acute biliary sepsis or decompress infected ducts, and can worsen inflammation and ductal trauma."
+      },
+      {
+        "text": "Elective outpatient MRCP scheduled after discharge to confirm ductal clearance",
+        "correct": false,
+        "explanation": "MRCP is a diagnostic imaging tool; in severe septic shock from choledocholithiasis, therapeutic intervention with ERCP cannot be deferred."
+      },
+      {
+        "text": "Emergent endoscopic retrograde cholangiopancreatography (ERCP) for biliary decompression",
+        "correct": true,
+        "explanation": "This patient presents with SEVERE (GRADE III) ACUTE ASCENDING CHOLANGITIS, exhibiting REYNOLDS' PENTAD: (1) Right upper quadrant pain, (2) Jaundice, (3) Fever/chills (Charcot's triad), PLUS (4) Hypotension/septic shock, and (5) Altered mental status/confusion. Acute cholangitis results from biliary outflow obstruction (most commonly choledocholithiasis) that increases intrabiliary ductal pressure, promoting rapid retrograde bacterial proliferation and systemic bacteremic seeding across the canalicular-venous barrier into the hepatic veins. In accordance with the Tokyo Guidelines (TG18), severe Grade III acute cholangitis complicated by organ dysfunction (hypotension requiring vasopressors, confusion, high lactate) represents a LIFE-THREATENING EMERGENCY. In addition to rapid fluid resuscitation and broad-spectrum intravenous antibiotics (e.g., piperacillin-tazobactam), THE DEFINITIVE TREATMENT OF CHOICE IS EMERGENT BILIARY DECOMPRESSION VIA ERCP (endoscopic sphincterotomy with stone extraction and/or biliary stent placement) PERFORMED WITHIN 12 TO 24 HOURS (or immediately). If ERCP is technically unsuccessful or unavailable, percutaneous transhepatic biliary drainage (PTBD) is performed. Cholecystectomy should be deferred until the acute sepsis and cholangitis have completely resolved."
+      }
+    ],
+    "explanation": "This patient presents with SEVERE (GRADE III) ACUTE ASCENDING CHOLANGITIS, exhibiting REYNOLDS' PENTAD: (1) Right upper quadrant pain, (2) Jaundice, (3) Fever/chills (Charcot's triad), PLUS (4) Hypotension/septic shock, and (5) Altered mental status/confusion. Acute cholangitis results from biliary outflow obstruction (most commonly choledocholithiasis) that increases intrabiliary ductal pressure, promoting rapid retrograde bacterial proliferation and systemic bacteremic seeding across the canalicular-venous barrier into the hepatic veins. In accordance with the Tokyo Guidelines (TG18), severe Grade III acute cholangitis complicated by organ dysfunction (hypotension requiring vasopressors, confusion, high lactate) represents a LIFE-THREATENING EMERGENCY. In addition to rapid fluid resuscitation and broad-spectrum intravenous antibiotics (e.g., piperacillin-tazobactam), THE DEFINITIVE TREATMENT OF CHOICE IS EMERGENT BILIARY DECOMPRESSION VIA ERCP (endoscopic sphincterotomy with stone extraction and/or biliary stent placement) PERFORMED WITHIN 12 TO 24 HOURS (or immediately). If ERCP is technically unsuccessful or unavailable, percutaneous transhepatic biliary drainage (PTBD) is performed. Cholecystectomy should be deferred until the acute sepsis and cholangitis have completely resolved. Charcot triad + shock + confusion (Reynolds pentad) + dilated CBD = Acute cholangitis (emergent ERCP biliary decompression).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Ascending Cholangitis Tokyo Guidelines Emergent ERCP Decompression.",
+    "keyPoints": [
+      "Acute Ascending Cholangitis Tokyo Guidelines Emergent ERCP Decompression",
+      "Charcot triad + shock + confusion (Reynolds pentad) + dilated CBD = Acute cholangitis (emergent ERCP biliary decompression)."
+    ],
+    "references": [
+      {
+        "label": "Konstantopoulos AD. Diagnosis and Management of Acute Cholangitis: A Review. JAMA Surg. 2026 Nov 4. PMID: 42981059.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42981059/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0961",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Fulminant Clostridioides Difficile High-Dose Oral Vancomycin IV Metronidazole",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old woman hospitalized for 10 days for healthcare-associated pneumonia treated with piperacillin-tazobactam develops severe watery diarrhea, high fevers, and acute abdominal distension. Today, she suddenly becomes hypotensive and oliguric, and her diarrhea abruptly stops. Vital signs: temperature 39.1 C (102.4 F), blood pressure 82/50 mm Hg on norepinephrine, heart rate 128/min, and respiratory rate 26/min. Physical examination reveals a lethargic woman with a tympanitic, massively distended abdomen and diffuse guarding with rebound tenderness; bowel sounds are absent. Stool PCR is positive for Clostridioides difficile toxin B gene. Laboratory evaluation demonstrates: WBC count markedly elevated at 38,000/uL with 18% band forms, serum creatinine 3.2 mg/dL (baseline 0.9 mg/dL), and serum lactate 4.8 mmol/L. Abdominal CT reveals a markedly dilated cecum measuring 9.5 cm and transverse colon measuring 7.5 cm, with diffuse colonic wall thickening and severe 'accordion sign' edema, without free intraperitoneal air. Which of the following is the most appropriate antimicrobial regimen to initiate immediately?",
+    "options": [
+      {
+        "text": "High-dose oral vancomycin (500 mg four times daily) plus intravenous metronidazole (500 mg every 8 hours) with consideration of vancomycin retention enemas",
+        "correct": true,
+        "explanation": "This patient has FULMINANT (LIFE-THREATENING) CLOSTRIDIOIDES DIFFICILE INFECTION (CDI), defined by CDI complicated by HYPOTENSION/SEPTIC SHOCK, ILEUS, OR TOXIC MEGACOLON (transverse colon >6 cm with systemic toxicity). Markers of extreme disease severity include marked leukocytosis (WBC >= 30,000/uL), acute kidney injury (creatinine >1.5-2x baseline), and elevated serum lactate (>2.2-4.0 mmol/L). In patients with fulminant CDI, particularly in the presence of ILEUS (where peristalsis is halted and oral drugs cannot reach the distal colon), the IDSA/SHEA guideline-directed regimen is: (1) HIGH-DOSE ORAL (or nasogastric) VANCOMYCIN (500 mg four times daily; standard non-fulminant dose is 125 mg QID); COMBINED WITH (2) INTRAVENOUS METRONIDAZOLE (500 mg every 8 hours); and (3) If ileus is present, RECTALLY ADMINISTERED VANCOMYCIN RETENTION ENEMAS (500 mg in 100 mL saline every 6 hours via Foley catheter) to ensure delivery of topical drug directly to the diseased rectosigmoid and left colon. Oral vancomycin is not absorbed systemically and works intraluminally, whereas IV metronidazole is excreted into bile and the inflamed colonic mucosa, achieving synergistic tissue and luminal bactericidal concentrations. Concurrent emergent surgical consultation for loop ileostomy with colonic lavage or subtotal colectomy is mandatory."
+      },
+      {
+        "text": "Oral fidaxomicin 200 mg twice daily monotherapy as the primary regimen",
+        "correct": false,
+        "explanation": "Fidaxomicin is the preferred first-line agent for non-fulminant initial CDI, but has NOT been studied or approved as monotherapy in fulminant CDI with shock and ileus."
+      },
+      {
+        "text": "Intravenous vancomycin 1 gram every 12 hours as the sole antimicrobial therapy",
+        "correct": false,
+        "explanation": "Intravenous vancomycin is NOT excreted into the gastrointestinal tract in therapeutic concentrations and is COMPLETELY INEFFECTIVE for Clostridioides difficile colitis."
+      },
+      {
+        "text": "Oral metronidazole 500 mg three times daily monotherapy for 10 days",
+        "correct": false,
+        "explanation": "Oral metronidazole monotherapy has unacceptably high failure rates in severe/fulminant CDI and is explicitly non-recommended as initial monotherapy in modern guidelines."
+      },
+      {
+        "text": "Immediate fecal microbiota transplantation (FMT) administered via colonoscopy",
+        "correct": false,
+        "explanation": "FMT is indicated for recurrent CDI (after at least two prior recurrences); colonoscopy in fulminant toxic colitis carries an extreme risk of colonic perforation and death."
+      }
+    ],
+    "explanation": "This patient has FULMINANT (LIFE-THREATENING) CLOSTRIDIOIDES DIFFICILE INFECTION (CDI), defined by CDI complicated by HYPOTENSION/SEPTIC SHOCK, ILEUS, OR TOXIC MEGACOLON (transverse colon >6 cm with systemic toxicity). Markers of extreme disease severity include marked leukocytosis (WBC >= 30,000/uL), acute kidney injury (creatinine >1.5-2x baseline), and elevated serum lactate (>2.2-4.0 mmol/L). In patients with fulminant CDI, particularly in the presence of ILEUS (where peristalsis is halted and oral drugs cannot reach the distal colon), the IDSA/SHEA guideline-directed regimen is: (1) HIGH-DOSE ORAL (or nasogastric) VANCOMYCIN (500 mg four times daily; standard non-fulminant dose is 125 mg QID); COMBINED WITH (2) INTRAVENOUS METRONIDAZOLE (500 mg every 8 hours); and (3) If ileus is present, RECTALLY ADMINISTERED VANCOMYCIN RETENTION ENEMAS (500 mg in 100 mL saline every 6 hours via Foley catheter) to ensure delivery of topical drug directly to the diseased rectosigmoid and left colon. Oral vancomycin is not absorbed systemically and works intraluminally, whereas IV metronidazole is excreted into bile and the inflamed colonic mucosa, achieving synergistic tissue and luminal bactericidal concentrations. Concurrent emergent surgical consultation for loop ileostomy with colonic lavage or subtotal colectomy is mandatory. Fulminant C. diff with shock/ileus (WBC 38k, lactate 4.8) = High-dose oral vancomycin 500 mg QID + IV metronidazole +/- vancomycin retention enemas.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Fulminant Clostridioides Difficile High-Dose Oral Vancomycin IV Metronidazole.",
+    "keyPoints": [
+      "Fulminant Clostridioides Difficile High-Dose Oral Vancomycin IV Metronidazole",
+      "Fulminant C. diff with shock/ileus (WBC 38k, lactate 4.8) = High-dose oral vancomycin 500 mg QID + IV metronidazole +/- vancomycin retention enemas."
+    ],
+    "references": [
+      {
+        "label": "Iwanaga E. Fulminant Clostridioides difficile Infection During Repeated High-Dose Cytarabine Consolidation for Acute Myeloid Leukemia: A Fatal Case. Cureus. 2026 Jan. PMID: 41737109.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41737109/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0962",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Toxic Megacolon Serial Radiographs Subtotal Colectomy Indications",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 32-year-old man with a 4-year history of ulcerative colitis is admitted to the hospital with a severe flare. On hospital day 2, he suddenly develops severe rigors, abdominal distension, and lethargy. Vital signs: temperature 39.2 C (102.6 F), blood pressure 88/56 mm Hg, heart rate 132/min, respiratory rate 24/min. Physical examination reveals an acutely ill, toxic-appearing man with a massively distended, tympanitic abdomen and involuntary guarding with marked rebound tenderness over all four quadrants. Supine abdominal radiograph demonstrates marked, non-obstructive dilation of the transverse colon measuring 8.2 cm with loss of normal haustral markings; no free subdiaphragmatic air is identified. Laboratory studies reveal: WBC count 24,500/uL with 16% bands, hemoglobin 7.8 g/dL, serum potassium 3.1 mEq/L, and arterial lactate 3.4 mmol/L. Broad-spectrum intravenous antibiotics (ceftriaxone and metronidazole), aggressive crystalloid resuscitation, and high-dose intravenous hydrocortisone are initiated. Despite 24 hours of intensive medical therapy and nasogastric decompression in the ICU, his transverse colon diameter expands to 9.0 cm, blood pressure remains dependent on low-dose norepinephrine, and WBC rises to 28,000/uL. Which of the following is the definitive surgical procedure of choice?",
+    "options": [
+      {
+        "text": "Emergency proctocolectomy with immediate ileal pouch-anal anastomosis (IPAA)",
+        "correct": false,
+        "explanation": "Pelvic dissection and immediate pouch construction (IPAA) in a septic patient with tissue necrosis and shock carries catastrophic leak and pelvic sepsis rates; IPAA must be deferred."
+      },
+      {
+        "text": "Subtotal (total abdominal) colectomy with end ileostomy and Hartmann pouch",
+        "correct": true,
+        "explanation": "This patient has TOXIC MEGACOLON complicating severe ulcerative colitis. Toxic megacolon is defined as non-obstructive colonic dilation (TRANSVERSE COLON DIAMETER >6.0 CM on plain radiograph) associated with SEVERE SYSTEMIC TOXICITY (meeting at least three of: fever >38.6 C, tachycardia >120 bpm, leukocytosis >10,500/uL, anemia; PLUS at least one of: dehydration, altered mental status, electrolyte derangement, or hypotension). The inflamed, necrotic colonic mucosa loses neuromuscular tone, allowing pressurized gas and feces to distend the thinned colonic wall. While initial management consists of aggressive medical therapy (high-dose IV steroids, broad-spectrum antibiotics, bowel rest, nasogastric decompression, rolling from side to side to redistribute gas), SURGICAL INTERVENTION IS MANDATORY FOR: (1) Free colonic perforation (pneumoperitoneum); (2) Massive uncontrollable hemorrhage; (3) Progressive colonic dilation or peritonitis; or (4) LACK OF IMPROVEMENT WITHIN 24 TO 72 HOURS OF INTENSIVE MEDICAL THERAPY. The surgical procedure of choice in toxic megacolon is SUBTOTAL (TOTAL ABDOMINAL) COLECTOMY WITH END ILEOSTOMY. The diseased, friable colon is removed down to the rectosigmoid junction, preserving the rectum (Hartmann's pouch or exteriorized mucus fistula) while avoiding a pelvic dissection or anastomosis in an unstable, septic patient on high-dose steroids."
+      },
+      {
+        "text": "Segmental transverse colectomy with primary end-to-end colocolonic anastomosis",
+        "correct": false,
+        "explanation": "Segmental resection leaves behind diseased, friable ulcerative colitis mucosa prone to dehiscence and recurrent toxic dilation; subtotal colectomy is required."
+      },
+      {
+        "text": "Colonoscopic decompression with transanal placement of a decompression tube",
+        "correct": false,
+        "explanation": "Colonoscopy is strictly contraindicated in toxic megacolon due to the extreme risk of mechanical perforation of the paper-thin, necrotic colonic wall."
+      },
+      {
+        "text": "Continuation of medical therapy for an additional 7 days before surgical reconsideration",
+        "correct": false,
+        "explanation": "Delaying surgery in progressive toxic megacolon with peritonitis and persistent dilation guarantees free perforation, feculent peritonitis, and an 80% mortality rate."
+      }
+    ],
+    "explanation": "This patient has TOXIC MEGACOLON complicating severe ulcerative colitis. Toxic megacolon is defined as non-obstructive colonic dilation (TRANSVERSE COLON DIAMETER >6.0 CM on plain radiograph) associated with SEVERE SYSTEMIC TOXICITY (meeting at least three of: fever >38.6 C, tachycardia >120 bpm, leukocytosis >10,500/uL, anemia; PLUS at least one of: dehydration, altered mental status, electrolyte derangement, or hypotension). The inflamed, necrotic colonic mucosa loses neuromuscular tone, allowing pressurized gas and feces to distend the thinned colonic wall. While initial management consists of aggressive medical therapy (high-dose IV steroids, broad-spectrum antibiotics, bowel rest, nasogastric decompression, rolling from side to side to redistribute gas), SURGICAL INTERVENTION IS MANDATORY FOR: (1) Free colonic perforation (pneumoperitoneum); (2) Massive uncontrollable hemorrhage; (3) Progressive colonic dilation or peritonitis; or (4) LACK OF IMPROVEMENT WITHIN 24 TO 72 HOURS OF INTENSIVE MEDICAL THERAPY. The surgical procedure of choice in toxic megacolon is SUBTOTAL (TOTAL ABDOMINAL) COLECTOMY WITH END ILEOSTOMY. The diseased, friable colon is removed down to the rectosigmoid junction, preserving the rectum (Hartmann's pouch or exteriorized mucus fistula) while avoiding a pelvic dissection or anastomosis in an unstable, septic patient on high-dose steroids. Toxic megacolon (transverse colon 8.2 cm + shock) failing 24 hrs medical therapy = Subtotal colectomy with end ileostomy.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Toxic Megacolon Serial Radiographs Subtotal Colectomy Indications.",
+    "keyPoints": [
+      "Toxic Megacolon Serial Radiographs Subtotal Colectomy Indications",
+      "Toxic megacolon (transverse colon 8.2 cm + shock) failing 24 hrs medical therapy = Subtotal colectomy with end ileostomy."
+    ],
+    "references": [
+      {
+        "label": "Sheth SG. Toxic megacolon. Lancet. 1998 Feb 14. PMID: 9482465.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9482465/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0963",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "MASH Steatohepatitis Resmetirom and GLP-1 RA Liver Fibrosis Improvement",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old woman with type 2 diabetes mellitus, obesity (BMI 36 kg/m2), and hypertension presents for management of chronically elevated liver enzymes. Over the past 18 months, her AST has fluctuated between 48 and 64 U/L, and ALT between 68 and 88 U/L. Viral hepatitis B and C serologies, autoimmune markers, and iron studies are normal. Abdominal ultrasound shows marked hepatic steatosis. Vibration-controlled transient elastography (FibroScan) reveals a liver stiffness measurement of 10.8 kPa and controlled attenuation parameter (CAP) of 340 dB/m, consistent with non-cirrhotic significant-to-advanced fibrosis (Stage F2-F3). A percutaneous core liver biopsy confirms METABOLIC DYSFUNCTION-ASSOCIATED STEATOHEPATITIS (MASH, formerly NASH) with moderate ballooning degeneration, lobular inflammation, and peri-sinusoidal Stage 2 fibrosis. Her HbA1c is 8.4% on metformin monotherapy. In addition to lifestyle modification and dietary counseling, which of the following pharmacotherapeutic strategies is most appropriate to treat both her glycemic control and promote MASH resolution and fibrosis improvement?",
+    "options": [
+      {
+        "text": "Initiation of high-dose oral vitamin E (1,200 IU daily) monotherapy as the treatment of choice",
+        "correct": false,
+        "explanation": "Vitamin E is used only in non-diabetic adults with biopsy-proven MASH; it has no effect on diabetes, carries safety concerns with high doses, and does not treat hyperglycemia."
+      },
+      {
+        "text": "Immediate referral for transjugular intrahepatic portosystemic shunt (TIPS) placement",
+        "correct": false,
+        "explanation": "TIPS treats complications of severe portal hypertension in decompensated cirrhosis; it has no role in non-cirrhotic Stage F2-F3 steatohepatitis."
+      },
+      {
+        "text": "Initiation of a GLP-1 receptor agonist (semaglutide) and consideration of resmetirom",
+        "correct": true,
+        "explanation": "This patient has biopsy-proven METABOLIC DYSFUNCTION-ASSOCIATED STEATOHEPATITIS (MASH) WITH SIGNIFICANT FIBROSIS (Stage F2-F3), in the setting of poorly controlled type 2 diabetes and obesity. MASH is the progressive inflammatory subtype of metabolic dysfunction-associated steatotic liver disease (MASLD), carrying a substantial risk of progression to cirrhosis and hepatocellular carcinoma. Current AASLD and EASL clinical guidelines recommend: (1) GLUCAGON-LIKE PEPTIDE-1 RECEPTOR AGONISTS (GLP-1 RAs, e.g., SEMAGLUTIDE or dual GIP/GLP-1 RA tirzepatide): In randomized trials, GLP-1 RAs promote significant weight loss (10-15%), improve insulin sensitivity, achieve glycemic control (lowering HbA1c), and demonstrate histological resolution of steatohepatitis without worsening fibrosis; and (2) RESMETIROM: A selective thyroid hormone receptor-beta (THR-beta) agonist approved specifically for adults with non-cirrhotic MASH and moderate-to-advanced liver fibrosis (consistent with stages F2-F3). THR-beta is the predominant thyroid receptor in hepatocytes; resmetirom targets hepatic lipotoxicity, accelerates mitochondrial fatty acid beta-oxidation, and in the MAESTRO-NASH trial achieved both MASH resolution and at least one stage of fibrosis improvement without worsening MASH. Concurrent cardiovascular risk reduction (statin therapy) is also indicated."
+      },
+      {
+        "text": "Oral gemfibrozil 600 mg twice daily to clear hepatic parenchymal triglyceride vacuoles",
+        "correct": false,
+        "explanation": "Fibrates treat severe hypertriglyceridemia, but have no proven histological efficacy in reversing steatohepatitis or hepatic fibrosis."
+      },
+      {
+        "text": "Initiation of lifelong therapeutic phlebotomy targeting serum ferritin <50 ng/mL",
+        "correct": false,
+        "explanation": "Iron overload was excluded; therapeutic phlebotomy treats hereditary hemochromatosis, not metabolic dysfunction-associated steatohepatitis."
+      }
+    ],
+    "explanation": "This patient has biopsy-proven METABOLIC DYSFUNCTION-ASSOCIATED STEATOHEPATITIS (MASH) WITH SIGNIFICANT FIBROSIS (Stage F2-F3), in the setting of poorly controlled type 2 diabetes and obesity. MASH is the progressive inflammatory subtype of metabolic dysfunction-associated steatotic liver disease (MASLD), carrying a substantial risk of progression to cirrhosis and hepatocellular carcinoma. Current AASLD and EASL clinical guidelines recommend: (1) GLUCAGON-LIKE PEPTIDE-1 RECEPTOR AGONISTS (GLP-1 RAs, e.g., SEMAGLUTIDE or dual GIP/GLP-1 RA tirzepatide): In randomized trials, GLP-1 RAs promote significant weight loss (10-15%), improve insulin sensitivity, achieve glycemic control (lowering HbA1c), and demonstrate histological resolution of steatohepatitis without worsening fibrosis; and (2) RESMETIROM: A selective thyroid hormone receptor-beta (THR-beta) agonist approved specifically for adults with non-cirrhotic MASH and moderate-to-advanced liver fibrosis (consistent with stages F2-F3). THR-beta is the predominant thyroid receptor in hepatocytes; resmetirom targets hepatic lipotoxicity, accelerates mitochondrial fatty acid beta-oxidation, and in the MAESTRO-NASH trial achieved both MASH resolution and at least one stage of fibrosis improvement without worsening MASH. Concurrent cardiovascular risk reduction (statin therapy) is also indicated. MASH with F2-F3 fibrosis + diabetes (HbA1c 8.4%) = GLP-1 receptor agonist (semaglutide) +/- resmetirom (resolves MASH and improves fibrosis).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of MASH Steatohepatitis Resmetirom and GLP-1 RA Liver Fibrosis Improvement.",
+    "keyPoints": [
+      "MASH Steatohepatitis Resmetirom and GLP-1 RA Liver Fibrosis Improvement",
+      "MASH with F2-F3 fibrosis + diabetes (HbA1c 8.4%) = GLP-1 receptor agonist (semaglutide) +/- resmetirom (resolves MASH and improves fibrosis)."
+    ],
+    "references": [
+      {
+        "label": "Cheng PN. Taiwan GEST-TASL-TMASO Joint Position Statement in Managing Metabolic Dysfunction-Associated Steatotic Liver Disease and Obesity. Liver Int. 2026 Nov. PMID: 42922180.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42922180/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0964",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Autoimmune Hepatitis Prednisone Azathioprine Histological Remission",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 36-year-old woman with a history of Hashimoto thyroiditis is diagnosed with Type 1 autoimmune hepatitis based on marked transaminase elevations (AST 740 U/L, ALT 810 U/L), high serum IgG (2,450 mg/dL), positive anti-smooth muscle antibodies (ASMA, 1:160), and a core liver biopsy demonstrating classic interface hepatitis with dense plasma cell infiltration. She is initiated on induction therapy with oral prednisone (30 mg daily) and azathioprine (50 mg daily). Over the subsequent 6 months, she adheres strictly to therapy, and prednisone is gradually tapered to 5 mg daily. At her 1-year follow-up, she is completely asymptomatic. Laboratory studies show: AST 22 U/L, ALT 24 U/L, total bilirubin 0.8 mg/dL, alkaline phosphatase 68 U/L, and serum IgG has normalized to 1,120 mg/dL. Her physician discusses the potential future withdrawal of immunosuppressive pharmacotherapy. Which of the following is required before any attempt at complete discontinuation of immunosuppressive therapy can be safely considered?",
+    "options": [
+      {
+        "text": "Negative seroconversion of anti-smooth muscle antibodies to undetectable titers",
+        "correct": false,
+        "explanation": "Autoantibody titers (ANA, ASMA) correlate poorly with disease activity and histological inflammation; seronegativity cannot substitute for biopsy confirmation of remission."
+      },
+      {
+        "text": "Demonstration of normal liver stiffness (<5.0 kPa) on transient elastography without biopsy",
+        "correct": false,
+        "explanation": "While elastography evaluates fibrosis, it cannot reliably exclude mild-to-moderate interface hepatitis; biopsy is required before stopping drugs."
+      },
+      {
+        "text": "Immediate cessation of azathioprine today since transaminases and IgG are completely normal",
+        "correct": false,
+        "explanation": "Stopping immunosuppression after only 1 year without biopsy verification causes disease relapse in nearly 90% of patients."
+      },
+      {
+        "text": "A repeat liver biopsy demonstrating complete histological resolution of interface hepatitis",
+        "correct": true,
+        "explanation": "AUTOIMMUNE HEPATITIS (AIH) requires structured, prolonged immunosuppressive therapy (corticosteroids and azathioprine) to prevent progression to cirrhosis and liver failure. Complete biochemical remission is defined by normalization of serum transaminases (AST and ALT) and serum IgG. However, in autoimmune hepatitis, BIOCHEMICAL NORMALIZATION DOES NOT GUARANTEE HISTOLOGICAL REMISSION: persistent subclinical interface hepatitis and ongoing portal inflammation are present in >50% of patients who achieve normal AST/ALT and IgG levels. Attempting immunosuppressive withdrawal in patients with persistent histological inflammation results in disease relapse in >80-90% of cases, often triggering acute-on-chronic liver failure. Therefore, current AASLD guidelines dictate that IMMUNOSUPPRESSIVE WITHDRAWAL SHOULD BE CONSIDERED ONLY AFTER AT LEAST 2 TO 3 YEARS OF SUSTAINED BIOCHEMICAL REMISSION, AND REQUIRES A REPEAT LIVER BIOPSY CONFIRMING COMPLETE HISTOLOGICAL RESOLUTION (absence of interface hepatitis, portal inflammation, and necrosis). If histological inflammation persists on biopsy, maintenance immunosuppression (typically azathioprine monotherapy or low-dose budesonide) must be continued indefinitely."
+      },
+      {
+        "text": "Switching maintenance azathioprine to oral methotrexate for a mandatory 6-month washout",
+        "correct": false,
+        "explanation": "Methotrexate is hepatotoxic and not used for maintenance in AIH; maintenance therapy is achieved with azathioprine or low-dose steroids."
+      }
+    ],
+    "explanation": "AUTOIMMUNE HEPATITIS (AIH) requires structured, prolonged immunosuppressive therapy (corticosteroids and azathioprine) to prevent progression to cirrhosis and liver failure. Complete biochemical remission is defined by normalization of serum transaminases (AST and ALT) and serum IgG. However, in autoimmune hepatitis, BIOCHEMICAL NORMALIZATION DOES NOT GUARANTEE HISTOLOGICAL REMISSION: persistent subclinical interface hepatitis and ongoing portal inflammation are present in >50% of patients who achieve normal AST/ALT and IgG levels. Attempting immunosuppressive withdrawal in patients with persistent histological inflammation results in disease relapse in >80-90% of cases, often triggering acute-on-chronic liver failure. Therefore, current AASLD guidelines dictate that IMMUNOSUPPRESSIVE WITHDRAWAL SHOULD BE CONSIDERED ONLY AFTER AT LEAST 2 TO 3 YEARS OF SUSTAINED BIOCHEMICAL REMISSION, AND REQUIRES A REPEAT LIVER BIOPSY CONFIRMING COMPLETE HISTOLOGICAL RESOLUTION (absence of interface hepatitis, portal inflammation, and necrosis). If histological inflammation persists on biopsy, maintenance immunosuppression (typically azathioprine monotherapy or low-dose budesonide) must be continued indefinitely. Autoimmune hepatitis in biochemical remission = Repeat liver biopsy confirming complete histological resolution before stopping immunosuppression.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Autoimmune Hepatitis Prednisone Azathioprine Histological Remission.",
+    "keyPoints": [
+      "Autoimmune Hepatitis Prednisone Azathioprine Histological Remission",
+      "Autoimmune hepatitis in biochemical remission = Repeat liver biopsy confirming complete histological resolution before stopping immunosuppression."
+    ],
+    "references": [
+      {
+        "label": "Dou J. Hepatitis B virus and hepatitis D virus co-infection complicated by autoimmune hepatitis: Two case reports. World J Clin Cases. 2025 Sep 16. PMID: 40881490.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40881490/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0965",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Wilson Disease Chelation Trientine Penicillamine Zinc Maintenance Strategy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 21-year-old man is diagnosed with Wilson disease following an evaluation for resting hand tremor, dysarthria, and elevated transaminases. Slit-lamp biomicroscopy confirms Kayser-Fleischer rings, serum ceruloplasmin is 9 mg/dL (reference 20-40 mg/dL), and 24-hour urinary copper excretion is 280 ug/24 hr. He is initiated on oral chelation therapy with trientine hydrochloride, accompanied by dietary restriction of copper-rich foods (shellfish, organ meats, chocolate, nuts). Over the subsequent 18 months, his neurological symptoms stabilize, transaminases normalize, and 24-hour urinary copper excretion while on chelation stabilizes at 250-400 ug/24 hr (indicating effective chelation). Serum non-ceruloplasmin-bound ('free') copper normalizes to 12 ug/dL (reference 5-15 ug/dL). The patient asks how his treatment will be managed over the long term. Which of the following is the most appropriate long-term management principle for this patient?",
+    "options": [
+      {
+        "text": "Complete discontinuation of all medications after 2 years of normal liver enzymes and urinary copper",
+        "correct": false,
+        "explanation": "Discontinuation of maintenance therapy leads to rapid copper re-accumulation and fatal fulminant liver failure or irreversible neurological decline within 1 to 2 years."
+      },
+      {
+        "text": "Elective prophylactic orthotopic liver transplantation to eliminate the defective ATP7B gene",
+        "correct": false,
+        "explanation": "Liver transplantation is reserved strictly for acute fulminant Wilsonian liver failure or end-stage decompensated cirrhosis refractory to medical chelation."
+      },
+      {
+        "text": "Serial therapeutic phlebotomy performed every 2 weeks targeting normal serum ceruloplasmin",
+        "correct": false,
+        "explanation": "Phlebotomy removes iron in hemochromatosis, but does not remove systemic copper stores; Wilson disease requires chemical chelation or zinc."
+      },
+      {
+        "text": "Lifelong high-dose intravenous deferoxamine infusions administered monthly",
+        "correct": false,
+        "explanation": "Deferoxamine chelates iron, not copper; trientine, penicillamine, and zinc are the specific therapeutic agents for copper overload."
+      },
+      {
+        "text": "Lifelong medical therapy with either reduced-dose chelator or oral zinc to block intestinal copper absorption",
+        "correct": true,
+        "explanation": "WILSON DISEASE (hepatolenticular degeneration) is an autosomal recessive inborn error of copper metabolism caused by mutations in ATP7B, impairing biliary copper excretion. Management is divided into two phases: (1) INITIAL DE-COPPERING / CHELATION PHASE: Initial therapy for symptomatic patients requires a systemic COPPER CHELATING AGENT (TRIENTINE or D-penicillamine) to promote urinary copper excretion. Trientine is preferred over penicillamine due to lower rates of adverse effects (nephrotic syndrome, bone marrow suppression, drug-induced lupus, neurological worsening). (2) CHRONIC MAINTENANCE PHASE: Once clinical symptoms resolve, transaminases normalize, and non-ceruloplasmin-bound copper is controlled (typically after 1 to 3 years), LIFELONG MAINTENANCE THERAPY IS MANDATORY. Maintenance can be achieved with either a LOWER DOSE OF CHELATING AGENT (e.g., trientine or penicillamine) OR ORAL ZINC ACETATE. Zinc induces enterocyte expression of METALLOTHIONEIN, an intracellular protein that binds dietary copper with high affinity, trapping copper inside enterocytes so it is sloughed into stool with normal cell turnover. Crucially, CESSATION OF MEDICAL THERAPY IN WILSON DISEASE INEVITABLY LEADS TO FATAL COPPER RE-ACCUMULATION, ACUTE LIVER FAILURE, AND REFRACTORY NEUROLOGICAL COLLAPSE."
+      }
+    ],
+    "explanation": "WILSON DISEASE (hepatolenticular degeneration) is an autosomal recessive inborn error of copper metabolism caused by mutations in ATP7B, impairing biliary copper excretion. Management is divided into two phases: (1) INITIAL DE-COPPERING / CHELATION PHASE: Initial therapy for symptomatic patients requires a systemic COPPER CHELATING AGENT (TRIENTINE or D-penicillamine) to promote urinary copper excretion. Trientine is preferred over penicillamine due to lower rates of adverse effects (nephrotic syndrome, bone marrow suppression, drug-induced lupus, neurological worsening). (2) CHRONIC MAINTENANCE PHASE: Once clinical symptoms resolve, transaminases normalize, and non-ceruloplasmin-bound copper is controlled (typically after 1 to 3 years), LIFELONG MAINTENANCE THERAPY IS MANDATORY. Maintenance can be achieved with either a LOWER DOSE OF CHELATING AGENT (e.g., trientine or penicillamine) OR ORAL ZINC ACETATE. Zinc induces enterocyte expression of METALLOTHIONEIN, an intracellular protein that binds dietary copper with high affinity, trapping copper inside enterocytes so it is sloughed into stool with normal cell turnover. Crucially, CESSATION OF MEDICAL THERAPY IN WILSON DISEASE INEVITABLY LEADS TO FATAL COPPER RE-ACCUMULATION, ACUTE LIVER FAILURE, AND REFRACTORY NEUROLOGICAL COLLAPSE. Wilson disease stabilized on trientine chelation = Lifelong maintenance therapy with reduced chelator or oral zinc (blocks intestinal copper absorption).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Wilson Disease Chelation Trientine Penicillamine Zinc Maintenance Strategy.",
+    "keyPoints": [
+      "Wilson Disease Chelation Trientine Penicillamine Zinc Maintenance Strategy",
+      "Wilson disease stabilized on trientine chelation = Lifelong maintenance therapy with reduced chelator or oral zinc (blocks intestinal copper absorption)."
+    ],
+    "references": [
+      {
+        "label": "Vien S. Comparative management practices of Wilson disease in Californian and Italian providers. J Health Popul Nutr. 2025 Sep 30. PMID: 41029868.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41029868/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0966",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Hereditary Hemochromatosis Therapeutic Phlebotomy Ferritin Target Strategy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 48-year-old man presents for management of hereditary hemochromatosis following genetic confirmation of homozygous C282Y mutation in the HFE gene. He was evaluated after an annual physical revealed elevated transaminases (AST 58 U/L, ALT 64 U/L) and fasting blood glucose of 168 mg/dL. He reports mild fatigue and stiffness in the second and third metacarpophalangeal joints of both hands. Physical examination reveals mild hyperpigmentation of the sun-exposed skin and non-tender hepatomegaly. Baseline laboratory studies reveal: serum iron 230 ug/dL, total iron-binding capacity (TIBC) 250 ug/dL (transferrin saturation 92%), and serum ferritin markedly elevated at 2,100 ng/mL (reference 20-250 ng/mL). A core needle liver biopsy shows grade 3 iron overload (hemosiderin within parenchymal hepatocytes staining intensely with Prussian blue) and Stage 2 bridging fibrosis, without cirrhosis. Which of the following is the most appropriate initial therapeutic management and long-term surveillance goal?",
+    "options": [
+      {
+        "text": "Weekly therapeutic phlebotomy (500 mL) until serum ferritin reaches 50 to 100 ng/mL, followed by lifelong maintenance phlebotomy",
+        "correct": true,
+        "explanation": "THERAPEUTIC PHLEBOTOMY is the undisputed first-line treatment of choice for HEREDITARY HEMOCHROMATOSIS with symptomatic or laboratory evidence of iron overload (ferritin >1,000 ng/mL or elevated transaminases). Each 500 mL unit of whole blood removed eliminates approximately 200 to 250 mg of elemental iron. Protocol: (1) INDUCTION PHASE: Weekly or biweekly phlebotomy of 500 mL of blood, monitoring hemoglobin/hematocrit before each session (holding if hematocrit <33% or Hb <11 g/dL). Phlebotomy is continued until iron depletion is achieved, defined by a TARGET SERUM FERRITIN OF 50 TO 100 NG/ML (and transferrin saturation <50%); (2) MAINTENANCE PHASE: Once target ferritin is reached, LIFELONG MAINTENANCE PHLEBOTOMY (typically 1 unit every 2 to 4 months) is required to maintain ferritin between 50 and 100 ng/mL. Phlebotomy reverses hepatic fibrosis, improves glycemic control, resolves skin pigmentation, and prevents cirrhosis and hepatocellular carcinoma. However, ESTABLISHED MCP ARTHROPATHY AND TESTICULAR ATROPHY (hypogonadotropic hypogonadism) RARELY IMPROVE DESPITE SUCCESSFUL DE-IRONING. Phlebotomy is far superior, safer, and less toxic than chemical iron chelators (deferoxamine/deferasirox), which are reserved only for patients with severe anemia or refractory heart disease."
+      },
+      {
+        "text": "Immediate initiation of oral iron chelation with deferasirox 20 mg/kg daily as first-line therapy",
+        "correct": false,
+        "explanation": "Oral chelators are expensive and carry significant nephrotoxicity and ocular/auditory toxicities; therapeutic phlebotomy is the safer, superior first-line standard in hemochromatosis."
+      },
+      {
+        "text": "Dietary iron restriction alone without phlebotomy until serum ferritin drops below 500 ng/mL",
+        "correct": false,
+        "explanation": "Dietary restriction can only prevent minimal iron absorption (~1-2 mg/day) and will take decades to remove 20 to 30 grams of stored iron; phlebotomy is mandatory."
+      },
+      {
+        "text": "Therapeutic phlebotomy continued aggressively until serum ferritin is completely undetectable (<5 ng/mL)",
+        "correct": false,
+        "explanation": "Lowering ferritin to <5 ng/mL causes severe clinical iron-deficiency anemia, profound fatigue, and restless legs syndrome; target ferritin is 50 to 100 ng/mL."
+      },
+      {
+        "text": "Monthly plasmapheresis with fresh frozen plasma replacement targeting normal transferrin saturation",
+        "correct": false,
+        "explanation": "Plasmapheresis removes plasma proteins and clotting factors, not red blood cell-bound elemental iron; whole blood phlebotomy is required."
+      }
+    ],
+    "explanation": "THERAPEUTIC PHLEBOTOMY is the undisputed first-line treatment of choice for HEREDITARY HEMOCHROMATOSIS with symptomatic or laboratory evidence of iron overload (ferritin >1,000 ng/mL or elevated transaminases). Each 500 mL unit of whole blood removed eliminates approximately 200 to 250 mg of elemental iron. Protocol: (1) INDUCTION PHASE: Weekly or biweekly phlebotomy of 500 mL of blood, monitoring hemoglobin/hematocrit before each session (holding if hematocrit <33% or Hb <11 g/dL). Phlebotomy is continued until iron depletion is achieved, defined by a TARGET SERUM FERRITIN OF 50 TO 100 NG/ML (and transferrin saturation <50%); (2) MAINTENANCE PHASE: Once target ferritin is reached, LIFELONG MAINTENANCE PHLEBOTOMY (typically 1 unit every 2 to 4 months) is required to maintain ferritin between 50 and 100 ng/mL. Phlebotomy reverses hepatic fibrosis, improves glycemic control, resolves skin pigmentation, and prevents cirrhosis and hepatocellular carcinoma. However, ESTABLISHED MCP ARTHROPATHY AND TESTICULAR ATROPHY (hypogonadotropic hypogonadism) RARELY IMPROVE DESPITE SUCCESSFUL DE-IRONING. Phlebotomy is far superior, safer, and less toxic than chemical iron chelators (deferoxamine/deferasirox), which are reserved only for patients with severe anemia or refractory heart disease. Hereditary hemochromatosis + ferritin 2,100 = Weekly therapeutic phlebotomy (target ferritin 50-100 ng/mL; arthropathy rarely improves).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hereditary Hemochromatosis Therapeutic Phlebotomy Ferritin Target Strategy.",
+    "keyPoints": [
+      "Hereditary Hemochromatosis Therapeutic Phlebotomy Ferritin Target Strategy",
+      "Hereditary hemochromatosis + ferritin 2,100 = Weekly therapeutic phlebotomy (target ferritin 50-100 ng/mL; arthropathy rarely improves)."
+    ],
+    "references": [
+      {
+        "label": "Belhomme N. Patient-reported outcomes and their relation with iron parameters in HFE haemochromatosis during maintenance therapy: A prospective cohort study. Liver Int. 2022 Nov. PMID: 35727816.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35727816/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0967",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Gastric Antral Vascular Ectasia Argon Plasma Coagulation vs TIPS Harm",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old woman with decompensated cirrhosis secondary to metabolic dysfunction-associated steatohepatitis (MASH) presents for evaluation of chronic, transfusion-dependent iron deficiency anemia. Over the past 6 months, she has required 8 units of packed red blood cells for recurrent symptomatic anemia. She denies hematemesis, melena, or abdominal pain. Upper endoscopy reveals longitudinally oriented, tortuous, erythematous stripes converging on the pylorus along the gastric antrum ('watermelon stomach' appearance). Biopsy confirms dilated, ectatic mucosal capillaries containing microvascular fibrin thrombi with fibrohyalinosis of the lamina propria, consistent with GASTRIC ANTRAL VASCULAR ECTASIA (GAVE). Concurrently, small non-bleeding esophageal varices are noted. A consulting resident suggests that placing a transjugular intrahepatic portosystemic shunt (TIPS) will decompress the portal system and resolve both her varices and her gastric bleeding. Which of the following is the most accurate clinical assessment regarding the proposed TIPS procedure and the appropriate management of GAVE in this patient?",
+    "options": [
+      {
+        "text": "TIPS is the definitive curative procedure for GAVE because reducing portal pressure collapses antral ectasias",
+        "correct": false,
+        "explanation": "GAVE is not driven by portal hypertension; multiple prospective studies have demonstrated that TIPS fails to stop GAVE bleeding."
+      },
+      {
+        "text": "TIPS is ineffective for GAVE and increases encephalopathy risk; endoscopic argon plasma coagulation is the treatment of choice",
+        "correct": true,
+        "explanation": "GASTRIC ANTRAL VASCULAR ECTASIA (GAVE, 'watermelon stomach') is a distinct vascular lesion characterized by columns of erythematous, dilated ectatic mucosal capillaries radiating from the pylorus into the antrum. Although GAVE frequently occurs in patients with cirrhosis (up to 30% of GAVE cases occur in cirrhotic patients), GAVE IS NOT A MANIFESTATION OF PORTAL HYPERTENSION: it occurs equally in non-cirrhotic patients with systemic sclerosis (scleroderma) and autoimmune conditions, and hepatic venous pressure gradients do NOT correlate with GAVE severity. Consequently, REDUCING PORTAL HYPERTENSION VIA TIPS (OR NON-SELECTIVE BETA-BLOCKERS) IS COMPLETELY INEFFECTIVE FOR GAVE: TIPS does not reduce transfusion requirements or control GAVE hemorrhage. Furthermore, TIPS diverts portal blood away from the liver, substantially increasing the risk of debilitating HEPATIC ENCEPHALOPATHY. The definitive, first-line treatment of choice for GAVE is ENDOSCOPIC ABLATIVE THERAPY using ARGON PLASMA COAGULATION (APC) or endoscopic band ligation (EBL). Repeat sessions of APC (typically 2-4 sessions spaced 4-6 weeks apart) obliterate ectatic antral vessels, successfully eliminate transfusion dependence in >80% of patients, and carry minimal procedural risk."
+      },
+      {
+        "text": "Oral non-selective beta-blockade with propranolol titrated to heart rate 55 bpm is the primary treatment for GAVE",
+        "correct": false,
+        "explanation": "While beta-blockers prevent variceal bleeding, they are completely ineffective for GAVE mucosal bleeding because GAVE is not portal-pressure dependent."
+      },
+      {
+        "text": "Immediate distal partial gastrectomy (antrectomy) is the preferred initial minimally invasive management",
+        "correct": false,
+        "explanation": "Surgical antrectomy carries high perioperative mortality in cirrhotic patients and is obsolete; endoscopic argon plasma coagulation is the safe standard."
+      },
+      {
+        "text": "Lifelong high-dose intravenous pantoprazole infusion to promote mucosal ulcer healing",
+        "correct": false,
+        "explanation": "GAVE is a primary mucosal vascular ectasia, not an acid-peptic ulcer disease; PPI therapy does not stop GAVE vascular bleeding or eliminate transfusion requirements."
+      }
+    ],
+    "explanation": "GASTRIC ANTRAL VASCULAR ECTASIA (GAVE, 'watermelon stomach') is a distinct vascular lesion characterized by columns of erythematous, dilated ectatic mucosal capillaries radiating from the pylorus into the antrum. Although GAVE frequently occurs in patients with cirrhosis (up to 30% of GAVE cases occur in cirrhotic patients), GAVE IS NOT A MANIFESTATION OF PORTAL HYPERTENSION: it occurs equally in non-cirrhotic patients with systemic sclerosis (scleroderma) and autoimmune conditions, and hepatic venous pressure gradients do NOT correlate with GAVE severity. Consequently, REDUCING PORTAL HYPERTENSION VIA TIPS (OR NON-SELECTIVE BETA-BLOCKERS) IS COMPLETELY INEFFECTIVE FOR GAVE: TIPS does not reduce transfusion requirements or control GAVE hemorrhage. Furthermore, TIPS diverts portal blood away from the liver, substantially increasing the risk of debilitating HEPATIC ENCEPHALOPATHY. The definitive, first-line treatment of choice for GAVE is ENDOSCOPIC ABLATIVE THERAPY using ARGON PLASMA COAGULATION (APC) or endoscopic band ligation (EBL). Repeat sessions of APC (typically 2-4 sessions spaced 4-6 weeks apart) obliterate ectatic antral vessels, successfully eliminate transfusion dependence in >80% of patients, and carry minimal procedural risk. Cirrhosis + watermelon stomach on endoscopy = GAVE (Argon plasma coagulation is treatment of choice; TIPS is ineffective and harmful).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Gastric Antral Vascular Ectasia Argon Plasma Coagulation vs TIPS Harm.",
+    "keyPoints": [
+      "Gastric Antral Vascular Ectasia Argon Plasma Coagulation vs TIPS Harm",
+      "Cirrhosis + watermelon stomach on endoscopy = GAVE (Argon plasma coagulation is treatment of choice; TIPS is ineffective and harmful)."
+    ],
+    "references": [
+      {
+        "label": "Avila-Franco AY. Endoscopic Band Ligation for Gastric Antral Vascular Ectasia: Report of Two Cases at a Mexican Tertiary Care Center. Cureus. 2026 Aug. PMID: 42751465.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42751465/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0968",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Dieulafoy Lesion Endoscopic Hemoclip Banding Obscure Upper GI Hemorrhage",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old man presents with sudden-onset, massive hematemesis and syncope. He has a history of osteoarthritis for which he takes occasional celecoxib, but denies heavy alcohol use, prior peptic ulcer disease, or liver disease. On arrival, he is pale and clammy. Vital signs: blood pressure 86/50 mm Hg, heart rate 124/min, and oxygen saturation 96% on 2 L nasal cannula. Intravenous fluid resuscitation and packed red blood cell transfusion are initiated, and an intravenous pantoprazole bolus and infusion are started. Emergent upper endoscopy is performed within 2 hours. Careful examination of the stomach reveals normal antral and duodenal mucosa without peptic ulcers, erosions, or varices. In the proximal stomach, approximately 4 cm below the gastroesophageal junction on the lesser curvature, the endoscopist visualizes a minute, 2-mm mucosal defect with an exposed, pulsating caliber-persistent arterial vessel actively spurting arterial blood, surrounded by completely normal, non-ulcerated gastric mucosa. Which of the following is the most appropriate endoscopic hemostatic intervention?",
+    "options": [
+      {
+        "text": "Injection of 10 mL of normal saline alone into the surrounding submucosa",
+        "correct": false,
+        "explanation": "Saline injection provides transient compression but fails to achieve definitive thrombosis or mechanical occlusion of a high-pressure 2-mm artery."
+      },
+      {
+        "text": "Oral sucralfate suspension 1 gram four times daily to coat the mucosal surface",
+        "correct": false,
+        "explanation": "Sucralfate coats mucosal ulcers; it cannot stop arterial pulsatile bleeding from a Dieulafoy lesion and has no role in active hemorrhage."
+      },
+      {
+        "text": "Application of endoscopic mechanical hemoclips (or endoscopic band ligation) directly onto the bleeding vessel",
+        "correct": true,
+        "explanation": "This patient has a bleeding DIEULAFOY LESION, a relatively rare but life-threatening cause of massive upper gastrointestinal hemorrhage (accounting for 1-2% of acute GI bleeds). A Dieulafoy lesion is defined as an ABNORMALLY LARGE, CALIBER-PERSISTENT SUBMUCOSAL ARTERIAL BRANCH (diameter 1 to 3 mm, up to 10 times the normal mucosal capillary caliber) that fails to taper as it reaches the mucosal surface. The artery protrudes through a tiny (2-5 mm) solitary mucosal defect, becoming eroded by gastric acid or mechanical friction, resulting in sudden, massive arterial hemorrhage. Classically, >75% of Dieulafoy lesions are located in the PROXIMAL STOMACH ON THE LESSER CURVATURE (within 6 cm of the gastroesophageal junction), where large submucosal arteries arise directly from the left gastric artery. Crucially, the vessel is surrounded by COMPLETELY NORMAL, NON-ULCERATED MUCOSA, which can make identification difficult when not actively spurting. The endoscopic treatment of choice is MECHANICAL HEMOSTASIS using ENDOSCOPIC HEMOCLIPS (THROUGH-THE-SCOPE CLIPS) OR ENDOSCOPIC BAND LIGATION (EBL), with or without dilute epinephrine injection. Mechanical hemoclips directly compress and occlude the muscular arterial wall, achieving primary hemostasis in >90% of cases and carrying the lowest risk of rebleeding and perforation. Thermal contact therapy (bipolar electrocoagulation or heater probe) is also effective."
+      },
+      {
+        "text": "Immediate emergency open total gastrectomy as the initial standard of care",
+        "correct": false,
+        "explanation": "Endoscopic therapy with hemoclips achieves >90% permanent hemostasis, obviating the need for radical gastric resection in the modern era."
+      },
+      {
+        "text": "Placement of a Blakemore balloon tube with gastric balloon inflation to 250 mL",
+        "correct": false,
+        "explanation": "Balloon tamponade is designed for bleeding gastroesophageal varices; it does not reliably tamponade lesser curvature gastric arteries and risks perforation."
+      }
+    ],
+    "explanation": "This patient has a bleeding DIEULAFOY LESION, a relatively rare but life-threatening cause of massive upper gastrointestinal hemorrhage (accounting for 1-2% of acute GI bleeds). A Dieulafoy lesion is defined as an ABNORMALLY LARGE, CALIBER-PERSISTENT SUBMUCOSAL ARTERIAL BRANCH (diameter 1 to 3 mm, up to 10 times the normal mucosal capillary caliber) that fails to taper as it reaches the mucosal surface. The artery protrudes through a tiny (2-5 mm) solitary mucosal defect, becoming eroded by gastric acid or mechanical friction, resulting in sudden, massive arterial hemorrhage. Classically, >75% of Dieulafoy lesions are located in the PROXIMAL STOMACH ON THE LESSER CURVATURE (within 6 cm of the gastroesophageal junction), where large submucosal arteries arise directly from the left gastric artery. Crucially, the vessel is surrounded by COMPLETELY NORMAL, NON-ULCERATED MUCOSA, which can make identification difficult when not actively spurting. The endoscopic treatment of choice is MECHANICAL HEMOSTASIS using ENDOSCOPIC HEMOCLIPS (THROUGH-THE-SCOPE CLIPS) OR ENDOSCOPIC BAND LIGATION (EBL), with or without dilute epinephrine injection. Mechanical hemoclips directly compress and occlude the muscular arterial wall, achieving primary hemostasis in >90% of cases and carrying the lowest risk of rebleeding and perforation. Thermal contact therapy (bipolar electrocoagulation or heater probe) is also effective. Massive hematemesis + 2-mm pulsating artery in normal proximal gastric mucosa = Dieulafoy lesion (endoscopic hemoclips or band ligation).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Dieulafoy Lesion Endoscopic Hemoclip Banding Obscure Upper GI Hemorrhage.",
+    "keyPoints": [
+      "Dieulafoy Lesion Endoscopic Hemoclip Banding Obscure Upper GI Hemorrhage",
+      "Massive hematemesis + 2-mm pulsating artery in normal proximal gastric mucosa = Dieulafoy lesion (endoscopic hemoclips or band ligation)."
+    ],
+    "references": [
+      {
+        "label": "Norton ID. Management and long-term prognosis of Dieulafoy lesion. Gastrointest Endosc. 1999 Dec. PMID: 10570333.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10570333/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0969",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Boerhaave Syndrome Transmural Perforation Water-Soluble Contrast Surgery",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man presents to the emergency department with sudden-onset, severe, retrosternal chest pain and upper abdominal pain that began immediately following repeated episodes of violent, forceful retching after an evening of heavy alcohol consumption. He states that after vomiting twice, he felt a sudden 'pop' in his lower chest, followed by agonizing pain that radiates to his back and left shoulder, and progressive breathlessness. Vital signs: temperature 38.6 C (101.5 F), blood pressure 94/60 mm Hg, heart rate 126/min, respiratory rate 28/min, and oxygen saturation 91% on room air. Physical examination reveals an acutely ill man in severe distress. Palpation of the anterior neck and suprasternal notch reveals soft tissue crepitus (subcutaneous emphysema). Chest auscultation demonstrates crunching, rasping sounds synchronous with the heartbeat heard best over the precordium (Hamman sign), with decreased breath sounds over the left lung base. Portable chest radiograph demonstrates pneumomediastinum, a left-sided pleural effusion, and subcutaneous emphysema in the cervical soft tissues. Which of the following is the most appropriate next diagnostic step to confirm the diagnosis and plan emergent surgical intervention?",
+    "options": [
+      {
+        "text": "Immediate flexible esophagogastroduodenoscopy (EGD) to direct endoscopic mucosal clipping",
+        "correct": false,
+        "explanation": "Flexible endoscopy is generally contraindicated initially because air insufflation can expand the transmural tear, force air into the mediastinum, and worsen tension pneumothorax."
+      },
+      {
+        "text": "Barium swallow fluoroscopy as the immediate first-line study of choice",
+        "correct": false,
+        "explanation": "Barium is contraindicated as the initial agent in suspected perforation because extravasation into the mediastinum causes permanent fibrosing mediastinitis and granulomatous reactions."
+      },
+      {
+        "text": "Transthoracic echocardiogram to rule out acute Stanford Type A aortic dissection",
+        "correct": false,
+        "explanation": "While aortic dissection causes chest pain, cervical subcutaneous crepitus and Hamman sign following vomiting are pathognomonic of esophageal rupture."
+      },
+      {
+        "text": "Esophagography with water-soluble oral contrast (Gastrografin) or contrast-enhanced chest CT",
+        "correct": true,
+        "explanation": "This patient presents with BOERHAAVE SYNDROME (spontaneous transmural rupture of the esophagus), a life-threatening surgical emergency. It occurs when a sudden, massive increase in intraesophageal pressure during violent retching or vomiting against a closed glottis exceeds esophageal wall tensile strength, producing a full-thickness transmural tear. In >90% of cases, the tear occurs in the LEFT POSTEROLATERAL ASPECT OF THE DISTAL THIRD OF THE ESOPHAGUS (2-3 cm above the gastroesophageal junction). The classic clinical triad (MACKLER'S TRIAD) consists of: (1) Retching/vomiting, (2) Sudden lower thoracic pain, and (3) SUBCUTANEOUS EMPHYSEMA (cervical crepitus). Auscultation reveals HAMMAN'S SIGN (mediastinal crunch synchronous with heartbeats due to air in the mediastinum). Leakage of acidic gastric juice, digestive enzymes, and oral bacteria into the mediastinum causes fulminant chemical and bacterial MEDIASTINITIS, septic shock, and rapid death if untreated. The diagnostic test of choice is ESOPHAGOGRAPHY USING WATER-SOLUBLE CONTRAST (GASTROGRAFIN / diatrizoate meglumine) or CONTRAST-ENHANCED CHEST CT WITH ORAL CONTRAST. Water-soluble contrast is preferred initially because barium leaks into the mediastinum and causes severe, permanent chemical mediastinal fibrosis and granulomas (if negative and clinical suspicion remains high, barium can follow). Definitive management requires broad-spectrum IV antibiotics, resuscitation, and EMERGENT SURGICAL REPAIR (within 24 hours)."
+      },
+      {
+        "text": "Performance of diagnostic paracentesis to evaluate for spontaneous bacterial peritonitis",
+        "correct": false,
+        "explanation": "The pathology is an intrathoracic esophageal perforation with pneumomediastinum; paracentesis does not diagnose mediastinal disruption."
+      }
+    ],
+    "explanation": "This patient presents with BOERHAAVE SYNDROME (spontaneous transmural rupture of the esophagus), a life-threatening surgical emergency. It occurs when a sudden, massive increase in intraesophageal pressure during violent retching or vomiting against a closed glottis exceeds esophageal wall tensile strength, producing a full-thickness transmural tear. In >90% of cases, the tear occurs in the LEFT POSTEROLATERAL ASPECT OF THE DISTAL THIRD OF THE ESOPHAGUS (2-3 cm above the gastroesophageal junction). The classic clinical triad (MACKLER'S TRIAD) consists of: (1) Retching/vomiting, (2) Sudden lower thoracic pain, and (3) SUBCUTANEOUS EMPHYSEMA (cervical crepitus). Auscultation reveals HAMMAN'S SIGN (mediastinal crunch synchronous with heartbeats due to air in the mediastinum). Leakage of acidic gastric juice, digestive enzymes, and oral bacteria into the mediastinum causes fulminant chemical and bacterial MEDIASTINITIS, septic shock, and rapid death if untreated. The diagnostic test of choice is ESOPHAGOGRAPHY USING WATER-SOLUBLE CONTRAST (GASTROGRAFIN / diatrizoate meglumine) or CONTRAST-ENHANCED CHEST CT WITH ORAL CONTRAST. Water-soluble contrast is preferred initially because barium leaks into the mediastinum and causes severe, permanent chemical mediastinal fibrosis and granulomas (if negative and clinical suspicion remains high, barium can follow). Definitive management requires broad-spectrum IV antibiotics, resuscitation, and EMERGENT SURGICAL REPAIR (within 24 hours). Violent vomiting -> chest pain + subcutaneous neck crepitus + Hamman sign = Boerhaave syndrome (water-soluble Gastrografin esophagogram or CT).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Boerhaave Syndrome Transmural Perforation Water-Soluble Contrast Surgery.",
+    "keyPoints": [
+      "Boerhaave Syndrome Transmural Perforation Water-Soluble Contrast Surgery",
+      "Violent vomiting -> chest pain + subcutaneous neck crepitus + Hamman sign = Boerhaave syndrome (water-soluble Gastrografin esophagogram or CT)."
+    ],
+    "references": [
+      {
+        "label": "Jung HS. Negative Contrast Esophagography Does Not Exclude Dehiscence After Boerhaave Repair: Complementary Low-Insufflation Carbon Dioxide Endoscopy. Diagnostics (Basel). 2026 May 28. PMID: 42279538.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42279538/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0970",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Mallory-Weiss Syndrome Non-Transmural Mucosal Tear Supportive Care",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man presents to the emergency department after vomiting blood. He attended a party earlier in the evening and consumed large amounts of alcohol. He subsequently experienced three episodes of forceful, non-bloody, dry retching and emesis, followed immediately on the fourth episode by approximately 150 mL of bright red blood and clots. He denies prior episodes of hematemesis, melena, lightheadedness, or chronic medical conditions. Vital signs: blood pressure 124/78 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 99% on room air. Physical examination reveals an alert man in no acute distress; cardiopulmonary examination is completely normal with no subcutaneous crepitus or Hamman sign, and the abdomen is soft and non-tender without organomegaly. Complete blood count reveals: hemoglobin 13.8 g/dL and platelets 240,000/uL. Upper endoscopy is performed 4 hours later, which reveals a single, 1.5-cm longitudinal, superficial mucosal laceration crossing the gastroesophageal junction onto the gastric cardia, with a clean, fibrinous base and no active bleeding or visible vessel. Which of the following is the most appropriate management for this patient?",
+    "options": [
+      {
+        "text": "Immediate placement of multiple through-the-scope endoscopic hemoclips across the clean base",
+        "correct": false,
+        "explanation": "Endoscopic therapy (clipping, thermal coagulation) is indicated ONLY for active arterial bleeding or non-bleeding visible vessels with high rebleeding risk, not for clean-based tears."
+      },
+      {
+        "text": "Emergent exploratory laparotomy with surgical oversewing of the mucosal laceration",
+        "correct": false,
+        "explanation": "Open surgery is obsolete for Mallory-Weiss syndrome; surgery is indicated only for transmural Boerhaave rupture or refractory exsanguination."
+      },
+      {
+        "text": "Continuous intravenous octreotide infusion for 5 days to reduce splanchnic blood flow",
+        "correct": false,
+        "explanation": "Octreotide reduces portal venous pressure in variceal bleeding; it has no role in non-variceal arterial mucosal tears like Mallory-Weiss."
+      },
+      {
+        "text": "Endoscopic injection of 100% absolute ethanol into the edges of the mucosal tear",
+        "correct": false,
+        "explanation": "Ethanol injection is ulcer sclerotherapy that carries high risk of tissue necrosis and perforation; it is not indicated for self-limited tears with a clean base."
+      },
+      {
+        "text": "Supportive care with oral proton pump inhibitor therapy and discharge with outpatient follow-up",
+        "correct": true,
+        "explanation": "This patient has MALLORY-WEISS SYNDROME (tear), which must be critically distinguished from Boerhaave syndrome. Mallory-Weiss tears are NON-TRANSMURAL, LONGITUDINAL MUCOSAL LACERATIONS (involving the mucosa and submucosa, but sparing the muscularis propria) typically located at the GASTROESOPHAGEAL JUNCTION or gastric cardia. They are provoked by a sudden, sharp rise in intragastric pressure during violent retching, vomiting, coughing, or straining, most commonly in the setting of acute alcohol intoxication. The classic history is: REPEATED EPISODES OF NON-BLOODY VOMITING FOLLOWED BY ACUTE HEMATEMESIS. In sharp contrast to Boerhaave syndrome, there is NO transmural perforation, NO pneumomediastinum, NO subcutaneous crepitus, and NO mediastinitis. In >80-90% of cases, bleeding from a Mallory-Weiss tear is self-limiting and STOPS SPONTANEOUSLY because the torn mucosal arterioles rapidly clot under low venous pressures. When upper endoscopy reveals a clean base, flat pigmented spot, or absence of active bleeding or visible vessel, ENDOSCOPIC THERAPY IS NOT REQUIRED. Management is purely SUPPORTIVE: antiemetics to prevent further retching, ORAL PROTON PUMP INHIBITOR (PPI) therapy for 1 to 2 weeks to promote mucosal re-epithelialization, and safe outpatient discharge."
+      }
+    ],
+    "explanation": "This patient has MALLORY-WEISS SYNDROME (tear), which must be critically distinguished from Boerhaave syndrome. Mallory-Weiss tears are NON-TRANSMURAL, LONGITUDINAL MUCOSAL LACERATIONS (involving the mucosa and submucosa, but sparing the muscularis propria) typically located at the GASTROESOPHAGEAL JUNCTION or gastric cardia. They are provoked by a sudden, sharp rise in intragastric pressure during violent retching, vomiting, coughing, or straining, most commonly in the setting of acute alcohol intoxication. The classic history is: REPEATED EPISODES OF NON-BLOODY VOMITING FOLLOWED BY ACUTE HEMATEMESIS. In sharp contrast to Boerhaave syndrome, there is NO transmural perforation, NO pneumomediastinum, NO subcutaneous crepitus, and NO mediastinitis. In >80-90% of cases, bleeding from a Mallory-Weiss tear is self-limiting and STOPS SPONTANEOUSLY because the torn mucosal arterioles rapidly clot under low venous pressures. When upper endoscopy reveals a clean base, flat pigmented spot, or absence of active bleeding or visible vessel, ENDOSCOPIC THERAPY IS NOT REQUIRED. Management is purely SUPPORTIVE: antiemetics to prevent further retching, ORAL PROTON PUMP INHIBITOR (PPI) therapy for 1 to 2 weeks to promote mucosal re-epithelialization, and safe outpatient discharge. Vomiting food followed by blood + clean-based tear at GE junction = Mallory-Weiss tear (supportive care with oral PPI; stops spontaneously in >85%).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Mallory-Weiss Syndrome Non-Transmural Mucosal Tear Supportive Care.",
+    "keyPoints": [
+      "Mallory-Weiss Syndrome Non-Transmural Mucosal Tear Supportive Care",
+      "Vomiting food followed by blood + clean-based tear at GE junction = Mallory-Weiss tear (supportive care with oral PPI; stops spontaneously in >85%)."
+    ],
+    "references": [
+      {
+        "label": "Kortas DY. Mallory-Weiss tear: predisposing factors and predictors of a complicated course. Am J Gastroenterol. 2001 Oct. PMID: 11693318.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11693318/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0971",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Small Bowel Obstruction Closed-Loop Strangulation Emergent Laparotomy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old woman presents to the emergency department with a 12-hour history of severe, unrelenting mid-abdominal pain, obstipation, and bilious vomiting. She had an open appendectomy 20 years ago and an open total abdominal hysterectomy 8 years ago. Over the past 4 hours, her pain has transformed from intermittent crampy spasms into severe, continuous, localized pain in the right lower quadrant. Vital signs: temperature 38.5 C (101.3 F), blood pressure 102/64 mm Hg, heart rate 118/min, and respiratory rate 22/min. Physical examination reveals a distended abdomen with a midline surgical scar, high-pitched metallic tinkling bowel sounds, and exquisite focal tenderness, involuntary muscular guarding, and rebound tenderness localized to the right lower quadrant. Laboratory evaluation shows: WBC count 17,200/uL with 12% bands, serum lactate elevated at 3.2 mmol/L, and serum creatinine 1.4 mg/dL. Contrast-enhanced abdominal CT demonstrates high-grade mechanical small bowel obstruction with transition point in the right lower quadrant, characterized by a C-shaped fluid-filled bowel loop with mesenteric vessel engorgement ('whirl sign'), thickened bowel wall with poor intravenous contrast mucosal enhancement, and small pockets of intramural gas (pneumatosis intestinalis). Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Emergent surgical exploratory laparotomy (or laparoscopy) for bowel detorsion and resection",
+        "correct": true,
+        "explanation": "This patient has a MECHANICAL SMALL BOWEL OBSTRUCTION (SBO) complicated by CLOSED-LOOP OBSTRUCTION AND STRANGULATION (ISCHEMIA/INFARCTION). Intra-abdominal adhesions from prior surgeries are the leading cause of SBO (>70% of cases). While uncomplicated adhesive SBO is initially managed conservatively (nasogastric decompression, IV fluids, bowel rest, serial abdominal exams), the development of CLOSED-LOOP STRANGULATION IS A SURGICAL EMERGENCY. In closed-loop obstruction, both the afferent and efferent limbs of a bowel segment are occluded (often twisting around an adhesive band), preventing decompression in either direction. Rapidly rising intraluminal pressure compromises venous outflow, leading to arterial insufficiency, transmural gangrene, and perforation. The clinical hallmarks of STRANGULATION ('THE RED FLAGS OF SBO') include: (1) Transition from colicky pain to continuous, localized pain; (2) Peritoneal signs (guarding, rebound); (3) Systemic toxicity (fever, tachycardia, leukocytosis with bandemia, lactic acidosis); and (4) CT signs: lack of bowel wall enhancement, mesenteric 'whirl sign', and PNEUMATOSIS INTESTINALIS. The definitive, mandatory management is EMERGENT SURGICAL EXPLORATION to release the obstruction, assess bowel viability, and resect necrotic gangrenous segments before free perforation occurs."
+      },
+      {
+        "text": "Trial of non-operative management with nasogastric suction and Gastrografin challenge for 48 hours",
+        "correct": false,
+        "explanation": "Non-operative management and water-soluble contrast challenges are strictly contraindicated in the presence of strangulation, peritonitis, or pneumatosis, and will lead to fatal perforation."
+      },
+      {
+        "text": "Colonoscopic decompression with transanal placement of a decompression tube",
+        "correct": false,
+        "explanation": "Colonoscopy is indicated for colonic pseudo-obstruction (Ogilvie) or sigmoid volvulus, not small bowel mechanical strangulation."
+      },
+      {
+        "text": "Barium small bowel follow-through fluoroscopy to determine the precise level of obstruction",
+        "correct": false,
+        "explanation": "Barium study is contraindicated in suspected bowel ischemia and acute obstruction due to barium peritonitis risks if perforation occurs."
+      },
+      {
+        "text": "Administration of intravenous neostigmine 2 mg bolus with cardiac telemetry monitoring",
+        "correct": false,
+        "explanation": "Neostigmine treats colonic pseudo-obstruction (Ogilvie); administering a prokinetic in mechanical small bowel strangulation causes immediate bowel rupture."
+      }
+    ],
+    "explanation": "This patient has a MECHANICAL SMALL BOWEL OBSTRUCTION (SBO) complicated by CLOSED-LOOP OBSTRUCTION AND STRANGULATION (ISCHEMIA/INFARCTION). Intra-abdominal adhesions from prior surgeries are the leading cause of SBO (>70% of cases). While uncomplicated adhesive SBO is initially managed conservatively (nasogastric decompression, IV fluids, bowel rest, serial abdominal exams), the development of CLOSED-LOOP STRANGULATION IS A SURGICAL EMERGENCY. In closed-loop obstruction, both the afferent and efferent limbs of a bowel segment are occluded (often twisting around an adhesive band), preventing decompression in either direction. Rapidly rising intraluminal pressure compromises venous outflow, leading to arterial insufficiency, transmural gangrene, and perforation. The clinical hallmarks of STRANGULATION ('THE RED FLAGS OF SBO') include: (1) Transition from colicky pain to continuous, localized pain; (2) Peritoneal signs (guarding, rebound); (3) Systemic toxicity (fever, tachycardia, leukocytosis with bandemia, lactic acidosis); and (4) CT signs: lack of bowel wall enhancement, mesenteric 'whirl sign', and PNEUMATOSIS INTESTINALIS. The definitive, mandatory management is EMERGENT SURGICAL EXPLORATION to release the obstruction, assess bowel viability, and resect necrotic gangrenous segments before free perforation occurs. SBO + localized peritonitis + high lactate + pneumatosis on CT = Closed-loop strangulated SBO (emergent exploratory laparotomy).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Small Bowel Obstruction Closed-Loop Strangulation Emergent Laparotomy.",
+    "keyPoints": [
+      "Small Bowel Obstruction Closed-Loop Strangulation Emergent Laparotomy",
+      "SBO + localized peritonitis + high lactate + pneumatosis on CT = Closed-loop strangulated SBO (emergent exploratory laparotomy)."
+    ],
+    "references": [
+      {
+        "label": "Derkaoui A. Obturator hernia misdiagnosed as inguinal incarceration: a case of postoperative small-bowel perforation and subcutaneous fecal emphysema. Int J Surg Case Rep. 2026 Oct. PMID: 42857362.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42857362/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0972",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Colonic Pseudo-Obstruction Ogilvie Syndrome Neostigmine Decompression",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old woman is recovering on the orthopedic surgery ward on postoperative day 4 following surgical fixation of a right femoral neck fracture. She has received scheduled oral oxycodone for pain control. Over the past 36 hours, her abdomen has become massively distended, and she has not passed flatus or stool. She reports mild, dull abdominal discomfort and nausea, but denies vomiting. Vital signs: blood pressure 128/78 mm Hg, heart rate 82/min, respiratory rate 16/min, and temperature 37.2 C. Physical examination reveals an alert, comfortable-appearing woman with a massively distended, tympanitic abdomen. There is mild diffuse tenderness to palpation, but no muscular rigidity, guarding, or rebound tenderness; bowel sounds are hypoactive. Complete blood count, serum electrolytes, and arterial lactate are within normal limits. An urgent water-soluble contrast enema CT scan rules out mechanical colonic obstruction (no tumor, stricture, or volvulus) and demonstrates marked, diffuse dilation of the entire colon with maximal cecal diameter of 11.2 cm, with normal bowel wall thickness and absence of pneumatosis or free air. Correction of hypokalemia and 24 hours of conservative management (holding opioids, nasogastric and rectal tube decompression, ambulation) fail to reduce cecal diameter, which remains 11.0 cm. Which of the following is the most appropriate next pharmacotherapeutic intervention?",
+    "options": [
+      {
+        "text": "Immediate exploratory laparotomy with subtotal colectomy and end ileostomy",
+        "correct": false,
+        "explanation": "Surgical colectomy carries high morbidity and is reserved only for patients who fail medical/endoscopic decompression or who exhibit ischemia or perforation."
+      },
+      {
+        "text": "Intravenous neostigmine 2 mg infused slowly over 3 to 5 minutes with cardiac monitoring and atropine at the bedside",
+        "correct": true,
+        "explanation": "This patient has ACUTE COLONIC PSEUDO-OBSTRUCTION (ACPO, OGILVIE SYNDROME), characterized by massive non-obstructive dilation of the colon in the absence of mechanical anatomical obstruction. It typically occurs in hospitalized elderly patients following major orthopedic, pelvic, or cardiothoracic surgery, severe illness, or metabolic/electrolyte disturbances, compounded by OPIOIDS or anticholinergic medications that impair parasympathetic colonic motility. The major life-threatening risk in Ogilvie syndrome is CECAL PERFORATION, which occurs when the cecal diameter exceeds 10 TO 12 CM or remains persistently dilated for >48-72 hours, resulting from Laplace's law (wall tension is highest where diameter is greatest). Initial therapy is conservative (holding narcotics, correcting electrolytes, rectal tube). When cecal diameter exceeds 10-12 cm or conservative therapy fails after 24 to 48 hours, the pharmacotherapy of choice is INTRAVENOUS NEOSTIGMINE (2.0 mg IV over 3-5 minutes). Neostigmine is a reversible acetylcholinesterase inhibitor that increases synaptic acetylcholine concentrations, stimulating parasympathetic muscarinic receptors to trigger immediate, robust colonic peristalsis and evacuation of flatus/stool in >80-90% of patients within 10 to 30 minutes. Because neostigmine causes potent muscarinic stimulation, it can induce SEVERE BRADYCARDIA, bronchospasm, and hypotension; therefore, CONTINUOUS ECG MONITORING AND BEDSIDE ATROPINE ARE MANDATORY. If neostigmine is contraindicated or fails, colonoscopic decompression is indicated."
+      },
+      {
+        "text": "Administration of oral polyethylene glycol electrolyte solution 4 liters via nasogastric tube",
+        "correct": false,
+        "explanation": "Administering large-volume osmotic laxatives into a severely dilated colon (11 cm cecum) with functional paralysis increases intraluminal pressure and triggers cecal perforation."
+      },
+      {
+        "text": "Intravenous metoclopramide 10 mg every 6 hours to stimulate upper gastrointestinal motility",
+        "correct": false,
+        "explanation": "Metoclopramide stimulates gastric and small bowel motility, not colonic motility, and will increase proximal fluid delivery into an already dilated colon."
+      },
+      {
+        "text": "Immediate therapeutic colonoscopy performed with high-pressure air insufflation",
+        "correct": false,
+        "explanation": "While colonoscopy is a second-line option if neostigmine fails, high-pressure air insufflation can rupture the thinned cecum; neostigmine is the preferred initial intervention."
+      }
+    ],
+    "explanation": "This patient has ACUTE COLONIC PSEUDO-OBSTRUCTION (ACPO, OGILVIE SYNDROME), characterized by massive non-obstructive dilation of the colon in the absence of mechanical anatomical obstruction. It typically occurs in hospitalized elderly patients following major orthopedic, pelvic, or cardiothoracic surgery, severe illness, or metabolic/electrolyte disturbances, compounded by OPIOIDS or anticholinergic medications that impair parasympathetic colonic motility. The major life-threatening risk in Ogilvie syndrome is CECAL PERFORATION, which occurs when the cecal diameter exceeds 10 TO 12 CM or remains persistently dilated for >48-72 hours, resulting from Laplace's law (wall tension is highest where diameter is greatest). Initial therapy is conservative (holding narcotics, correcting electrolytes, rectal tube). When cecal diameter exceeds 10-12 cm or conservative therapy fails after 24 to 48 hours, the pharmacotherapy of choice is INTRAVENOUS NEOSTIGMINE (2.0 mg IV over 3-5 minutes). Neostigmine is a reversible acetylcholinesterase inhibitor that increases synaptic acetylcholine concentrations, stimulating parasympathetic muscarinic receptors to trigger immediate, robust colonic peristalsis and evacuation of flatus/stool in >80-90% of patients within 10 to 30 minutes. Because neostigmine causes potent muscarinic stimulation, it can induce SEVERE BRADYCARDIA, bronchospasm, and hypotension; therefore, CONTINUOUS ECG MONITORING AND BEDSIDE ATROPINE ARE MANDATORY. If neostigmine is contraindicated or fails, colonoscopic decompression is indicated. Post-op hip fracture + massive colonic dilation without obstruction (cecum 11.2 cm) = Ogilvie syndrome (IV neostigmine with cardiac monitoring and bedside atropine).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Colonic Pseudo-Obstruction Ogilvie Syndrome Neostigmine Decompression.",
+    "keyPoints": [
+      "Acute Colonic Pseudo-Obstruction Ogilvie Syndrome Neostigmine Decompression",
+      "Post-op hip fracture + massive colonic dilation without obstruction (cecum 11.2 cm) = Ogilvie syndrome (IV neostigmine with cardiac monitoring and bedside atropine)."
+    ],
+    "references": [
+      {
+        "label": "Alayón-Rosario G. Management Patterns and Outcomes of Ogilvie Syndrome in the Absence of Standardized Protocols: A Single-Center Case Series From Puerto Rico. Cureus. 2026 Sep. PMID: 42964910.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42964910/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0973",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Sigmoid Volvulus Coffee-Bean Sign Endoscopic Detorsion Elective Resection",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 81-year-old man residing in a long-term nursing facility is brought to the emergency department because of progressive abdominal distension, obstipation, and cramping over the past 3 days. He has advanced Parkinson disease, chronic constipation managed with multiple laxatives, and neurogenic bladder. On examination, he is alert and in mild discomfort. Vital signs: blood pressure 132/84 mm Hg, heart rate 86/min, respiratory rate 18/min, and temperature 37.1 C. Physical examination reveals an asymmetrical, massively distended, tympanitic abdomen with mild diffuse tenderness to palpation, but no involuntary guarding, rigidity, or peritoneal signs; bowel sounds are hypoactive. Digital rectal examination demonstrates an empty, collapsed rectal vault without blood. Complete blood count and serum lactate are normal. Supine abdominal radiograph demonstrates a massive, inverted U-shaped dilated loop of bowel without haustra originating in the pelvis and extending toward the right upper quadrant, with a central double-wall line resembling a 'coffee bean' (the 'coffee-bean sign'). Which of the following is the most appropriate initial management for this patient?",
+    "options": [
+      {
+        "text": "Immediate emergency open laparotomy with Hartmann's procedure without attempting endoscopy",
+        "correct": false,
+        "explanation": "Emergency surgery without prior decompression carries high morbidity and mortality in frail elderly patients; endoscopic detorsion is the preferred initial step in the absence of gangrene."
+      },
+      {
+        "text": "Administration of oral polyethylene glycol solution 4 liters via nasogastric tube",
+        "correct": false,
+        "explanation": "Oral laxatives in an obstructed volvulus cause rapid proximal fluid accumulation, marked wall tension, and catastrophic colonic perforation."
+      },
+      {
+        "text": "Flexible sigmoidoscopy with endoscopic detorsion and placement of a rectal flatus tube, followed by semi-elective sigmoid resection",
+        "correct": true,
+        "explanation": "This patient has a SIGMOID VOLVULUS, characterized by the abnormal torsion or twisting of the sigmoid colon around its mesenteric axis. It typically occurs in ELDERLY, INSTITUTIONALIZED PATIENTS with chronic constipation, neuropsychiatric disorders (Parkinson disease, dementia), or prolonged immobility, who develop an elongated, redundant sigmoid colon with a narrow mesenteric base (megasigmoid). The classic abdominal radiograph demonstrates the 'COFFEE-BEAN SIGN' (or inverted U-sign): a massively dilated sigmoid loop with apex pointing toward the right upper quadrant and lines converging in the left lower pelvis. The management of uncomplicated sigmoid volvulus (absence of fever, peritonitis, shock, or mucosal necrosis) follows a classic two-step algorithm: (1) INITIAL DECOMPRESSION: FLEXIBLE SIGMOIDOSCOPY (or rigid proctosigmoidoscopy) WITH ENDOSCOPIC DETORSION. The endoscope is advanced under direct visualization to the twisted point; gentle maneuvering untwists the volvulus, resulting in an immediate, dramatic rush of flatus and liquid feces and rapid abdominal decompression. A soft rectal tube is left in place for 24 to 48 hours to maintain decompression; and (2) DEFINITIVE SURGICAL RESECTION: Because recurrence rates after non-operative detorsion exceed 50% to 70%, SEMI-ELECTIVE SIGMOID COLECTOMY during the same hospital admission is strongly recommended once the patient is nutritionally stabilized and bowel prepped."
+      },
+      {
+        "text": "Barium enema fluoroscopy with high-pressure hydrostatic reduction",
+        "correct": false,
+        "explanation": "Hydrostatic reduction is used for pediatric intussusception; in adult sigmoid volvulus, barium carries high perforation risks and chemical peritonitis."
+      },
+      {
+        "text": "Discharge back to the nursing facility with high-fiber diet following successful endoscopic detorsion",
+        "correct": false,
+        "explanation": "Discharge without definitive surgical resection leads to recurrent volvulus in >60% of patients, often presenting with irreversible gangrene and death."
+      }
+    ],
+    "explanation": "This patient has a SIGMOID VOLVULUS, characterized by the abnormal torsion or twisting of the sigmoid colon around its mesenteric axis. It typically occurs in ELDERLY, INSTITUTIONALIZED PATIENTS with chronic constipation, neuropsychiatric disorders (Parkinson disease, dementia), or prolonged immobility, who develop an elongated, redundant sigmoid colon with a narrow mesenteric base (megasigmoid). The classic abdominal radiograph demonstrates the 'COFFEE-BEAN SIGN' (or inverted U-sign): a massively dilated sigmoid loop with apex pointing toward the right upper quadrant and lines converging in the left lower pelvis. The management of uncomplicated sigmoid volvulus (absence of fever, peritonitis, shock, or mucosal necrosis) follows a classic two-step algorithm: (1) INITIAL DECOMPRESSION: FLEXIBLE SIGMOIDOSCOPY (or rigid proctosigmoidoscopy) WITH ENDOSCOPIC DETORSION. The endoscope is advanced under direct visualization to the twisted point; gentle maneuvering untwists the volvulus, resulting in an immediate, dramatic rush of flatus and liquid feces and rapid abdominal decompression. A soft rectal tube is left in place for 24 to 48 hours to maintain decompression; and (2) DEFINITIVE SURGICAL RESECTION: Because recurrence rates after non-operative detorsion exceed 50% to 70%, SEMI-ELECTIVE SIGMOID COLECTOMY during the same hospital admission is strongly recommended once the patient is nutritionally stabilized and bowel prepped. Elderly nursing home resident + coffee-bean sign on X-ray = Sigmoid volvulus (flexible sigmoidoscopy detorsion + elective sigmoid resection).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Sigmoid Volvulus Coffee-Bean Sign Endoscopic Detorsion Elective Resection.",
+    "keyPoints": [
+      "Sigmoid Volvulus Coffee-Bean Sign Endoscopic Detorsion Elective Resection",
+      "Elderly nursing home resident + coffee-bean sign on X-ray = Sigmoid volvulus (flexible sigmoidoscopy detorsion + elective sigmoid resection)."
+    ],
+    "references": [
+      {
+        "label": "Fakirullahoglu M. Childhood sigmoid volvulus. Pak J Med Sci. 2026 Sep. PMID: 42819637.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42819637/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0974",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Cecal Volvulus Emergent Right Hemicolectomy vs Endoscopic Detorsion Harm",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old woman presents to the emergency department with sudden-onset, severe, colicky right-sided abdominal pain and vomiting that began 6 hours ago. She has no chronic medical conditions and had an uneventful normal spontaneous vaginal delivery 3 weeks ago. On examination, she is in moderate distress. Vital signs: blood pressure 118/74 mm Hg, heart rate 104/min, respiratory rate 20/min, and temperature 37.4 C. Physical examination reveals an asymmetric, tender fullness in the left upper quadrant and epigastrium, with tympany to percussion; the right lower quadrant feels strangely empty on palpation. Complete blood count reveals WBC 12,800/uL with 78% neutrophils; serum lactate is 1.8 mmol/L. Abdominal CT demonstrates a massively dilated, comma-shaped cecum measuring 10.5 cm that has twisted and displaced into the left upper quadrant, with swirling of the mesenteric vessels ('whirl sign') and collapsed distal colon. Which of the following represents the definitive management for this patient?",
+    "options": [
+      {
+        "text": "Flexible sigmoidoscopy with endoscopic detorsion and placement of a rectal tube",
+        "correct": false,
+        "explanation": "Endoscopic detorsion is the standard for SIGMOID volvulus, but is strictly contraindicated and ineffective in CECAL volvulus due to high perforation rates."
+      },
+      {
+        "text": "Conservative non-operative management with nasogastric decompression and intravenous fluids",
+        "correct": false,
+        "explanation": "Conservative observation leads to rapid vascular compromise, cecal gangrene, and peritonitis; emergent surgical resection is mandatory."
+      },
+      {
+        "text": "Barium enema examination to achieve hydrostatic reduction of the twisted cecum",
+        "correct": false,
+        "explanation": "Barium enema carries high risk of cecal rupture and barium peritonitis; it is contraindicated in acute volvulus."
+      },
+      {
+        "text": "Emergent surgical right hemicolectomy (ileocecectomy) with primary ileocolic anastomosis",
+        "correct": true,
+        "explanation": "This patient has a CECAL VOLVULUS (torsion of the cecum and ascending colon around its mesentery). Unlike sigmoid volvulus, which affects elderly chronically constipated patients, cecal volvulus frequently affects YOUNGER PATIENTS (ages 30-50, especially women postpartum or with prior pelvic surgery) and is caused by congenital incomplete embryological retroperitoneal fixation of the cecum and ascending colon (mobile cecum syndrome). On plain radiograph or CT, the dilated, comma-shaped or kidney bean-shaped cecum characteristically rotates out of the right lower quadrant (leaving an 'empty RLQ' on palpation) and points toward the LEFT UPPER QUADRANT (LUQ). CRITICALLY, THE MANAGEMENT OF CECAL VOLVULUS DIFFERS COMPLETELY FROM SIGMOID VOLVULUS: ENDOSCOPIC DETORSION (COLONOSCOPY) HAS AN EXTREMELY LOW SUCCESS RATE (<30%) AND CARRIES A PROHIBITIVELY HIGH RISK OF COLONIC PERFORATION (>25%) because the cecal wall is thin and distended. Therefore, ENDOSCOPIC DETORSION IS STRICTLY CONTRAINDICATED in cecal volvulus. The undisputed definitive treatment of choice is EMERGENT SURGICAL LAPAROTOMY/LAPAROSCOPY WITH RIGHT HEMICOLECTOMY (or ileocecectomy). Primary ileocolic anastomosis is performed if the remaining bowel is viable and the patient is stable."
+      },
+      {
+        "text": "Intravenous neostigmine 2 mg infusion with continuous cardiac telemetry monitoring",
+        "correct": false,
+        "explanation": "Neostigmine treats colonic pseudo-obstruction (Ogilvie); in mechanical volvulus, neostigmine stimulates violent peristalsis against a closed twist, causing immediate perforation."
+      }
+    ],
+    "explanation": "This patient has a CECAL VOLVULUS (torsion of the cecum and ascending colon around its mesentery). Unlike sigmoid volvulus, which affects elderly chronically constipated patients, cecal volvulus frequently affects YOUNGER PATIENTS (ages 30-50, especially women postpartum or with prior pelvic surgery) and is caused by congenital incomplete embryological retroperitoneal fixation of the cecum and ascending colon (mobile cecum syndrome). On plain radiograph or CT, the dilated, comma-shaped or kidney bean-shaped cecum characteristically rotates out of the right lower quadrant (leaving an 'empty RLQ' on palpation) and points toward the LEFT UPPER QUADRANT (LUQ). CRITICALLY, THE MANAGEMENT OF CECAL VOLVULUS DIFFERS COMPLETELY FROM SIGMOID VOLVULUS: ENDOSCOPIC DETORSION (COLONOSCOPY) HAS AN EXTREMELY LOW SUCCESS RATE (<30%) AND CARRIES A PROHIBITIVELY HIGH RISK OF COLONIC PERFORATION (>25%) because the cecal wall is thin and distended. Therefore, ENDOSCOPIC DETORSION IS STRICTLY CONTRAINDICATED in cecal volvulus. The undisputed definitive treatment of choice is EMERGENT SURGICAL LAPAROTOMY/LAPAROSCOPY WITH RIGHT HEMICOLECTOMY (or ileocecectomy). Primary ileocolic anastomosis is performed if the remaining bowel is viable and the patient is stable. Young woman + comma-shaped cecum in LUQ + empty RLQ = Cecal volvulus (emergent right hemicolectomy; endoscopy is contraindicated).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cecal Volvulus Emergent Right Hemicolectomy vs Endoscopic Detorsion Harm.",
+    "keyPoints": [
+      "Cecal Volvulus Emergent Right Hemicolectomy vs Endoscopic Detorsion Harm",
+      "Young woman + comma-shaped cecum in LUQ + empty RLQ = Cecal volvulus (emergent right hemicolectomy; endoscopy is contraindicated)."
+    ],
+    "references": [
+      {
+        "label": "Aabalou M. Caecal volvulus around a Ladd's band in undiagnosed adult malrotation. J Surg Case Rep. 2026 Sep. PMID: 42718910.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42718910/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0975",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Refeeding Syndrome Severe Hypophosphatemia Thiamine Repletion Prevention",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old woman with severe anorexia nervosa (BMI 12.8 kg/m2, weight 34 kg) is admitted to the hospital for nutritional rehabilitation. She reports restricting her oral intake to approximately 200 kcal/day for the past 4 months. Baseline laboratory studies reveal: serum sodium 138 mEq/L, potassium 3.6 mEq/L, chloride 104 mEq/L, bicarbonate 24 mEq/L, BUN 18 mg/dL, creatinine 0.6 mg/dL, phosphorus 3.2 mg/dL (reference 2.5-4.5 mg/dL), and magnesium 1.9 mg/dL (reference 1.7-2.2 mg/dL). A nasogastric feeding tube is placed, and aggressive enteral nutrition is initiated at 2,200 kcal/day. On hospital day 2, she develops severe lethargy, muscle weakness, confusion, and tachypnea. Physical examination reveals bibasilar crackles, peripheral edema, and new diffuse hyporeflexia. 12-lead ECG shows sinus tachycardia with prolonged QTc interval and ventricular premature complexes. Repeat laboratory studies show: serum potassium 2.6 mEq/L, magnesium 1.2 mg/dL, and serum phosphorus severely plummeted to 0.9 mg/dL. Which of the following physiological cascades triggered this acute life-threatening decompensation?",
+    "options": [
+      {
+        "text": "Rapid expansion of intravascular volume triggering atrial natriuretic peptide release and renal phosphate wasting",
+        "correct": false,
+        "explanation": "While sodium and water retention occur, hypophosphatemia is driven by intracellular insulin-mediated shifting and ATP synthesis, not renal ANP phosphate wasting."
+      },
+      {
+        "text": "Excessive catabolism of skeletal muscle releasing intracellular myoglobin and inducing acute tubular necrosis",
+        "correct": false,
+        "explanation": "Rhabdomyolysis is a downstream consequence of severe ATP depletion from hypophosphatemia, not the initiating trigger of electrolyte shifts."
+      },
+      {
+        "text": "Suppression of parathyroid hormone secretion by dietary calcium leading to renal phosphate retention",
+        "correct": false,
+        "explanation": "PTH suppression increases renal phosphate retention; refeeding causes severe hypophosphatemia via intracellular cellular influx, not hyperphosphatemia."
+      },
+      {
+        "text": "Inhibition of the sodium-potassium ATPase pump by circulating free fatty acids",
+        "correct": false,
+        "explanation": "Insulin ACTUALLY STIMULATES the Na+/K+ ATPase, driving potassium into cells; it does not inhibit it."
+      },
+      {
+        "text": "Carbohydrate reintroduction triggering insulin surge with massive cellular uptake of phosphorus, potassium, and magnesium",
+        "correct": true,
+        "explanation": "This patient has developed classic, severe REFEEDING SYNDROME. During prolonged starvation or severe malnutrition (anorexia nervosa, chronic alcoholism, cancer cachexia), the body shifts from carbohydrate metabolism to fat and protein catabolism (ketone bodies and free fatty acids). Total-body intracellular stores of electrolytes—particularly PHOSPHATE, POTASSIUM, AND MAGNESIUM—become severely depleted, although serum levels often appear deceptively normal due to decreased renal excretion and hemoconcentration. When enteral or parenteral carbohydrates are suddenly REINTRODUCED AGGRESSIVELY, the surge in circulating GLUCOSE stimulates a rapid, MASSIVE RELEASE OF ENDOGENOUS INSULIN. Insulin drives glucose, potassium, magnesium, and phosphate out of the extracellular space and INTO SKELETAL MUSCLE AND HEPATOCYTES. Concurrently, accelerated intracellular glycolysis consumes massive amounts of inorganic phosphate to synthesize adenosine triphosphate (ATP) and 2,3-bisphosphoglycerate (2,3-BPG). This produces CRITICAL, SEVERE HYPOPHOSPHATEMIA (serum phosphorus <1.0-1.5 mg/dL). Severe hypophosphatemia causes tissue hypoxia (impaired oxygen unloading due to depleted 2,3-BPG) and cellular energy failure (depleted ATP), manifesting as acute heart failure, lethal ventricular arrhythmias, diaphragmatic respiratory muscle paralysis, rhabdomyolysis, seizures, coma, and sudden cardiac arrest. Prevention requires: 'START LOW AND GO SLOW' (initiating calories at 10-15 kcal/kg/day), administering INTRAVENOUS THIAMINE BEFORE carbohydrate reintroduction (to prevent Wernicke encephalopathy), and proactively monitoring and repletion of phosphorus, potassium, and magnesium."
+      }
+    ],
+    "explanation": "This patient has developed classic, severe REFEEDING SYNDROME. During prolonged starvation or severe malnutrition (anorexia nervosa, chronic alcoholism, cancer cachexia), the body shifts from carbohydrate metabolism to fat and protein catabolism (ketone bodies and free fatty acids). Total-body intracellular stores of electrolytes—particularly PHOSPHATE, POTASSIUM, AND MAGNESIUM—become severely depleted, although serum levels often appear deceptively normal due to decreased renal excretion and hemoconcentration. When enteral or parenteral carbohydrates are suddenly REINTRODUCED AGGRESSIVELY, the surge in circulating GLUCOSE stimulates a rapid, MASSIVE RELEASE OF ENDOGENOUS INSULIN. Insulin drives glucose, potassium, magnesium, and phosphate out of the extracellular space and INTO SKELETAL MUSCLE AND HEPATOCYTES. Concurrently, accelerated intracellular glycolysis consumes massive amounts of inorganic phosphate to synthesize adenosine triphosphate (ATP) and 2,3-bisphosphoglycerate (2,3-BPG). This produces CRITICAL, SEVERE HYPOPHOSPHATEMIA (serum phosphorus <1.0-1.5 mg/dL). Severe hypophosphatemia causes tissue hypoxia (impaired oxygen unloading due to depleted 2,3-BPG) and cellular energy failure (depleted ATP), manifesting as acute heart failure, lethal ventricular arrhythmias, diaphragmatic respiratory muscle paralysis, rhabdomyolysis, seizures, coma, and sudden cardiac arrest. Prevention requires: 'START LOW AND GO SLOW' (initiating calories at 10-15 kcal/kg/day), administering INTRAVENOUS THIAMINE BEFORE carbohydrate reintroduction (to prevent Wernicke encephalopathy), and proactively monitoring and repletion of phosphorus, potassium, and magnesium. Malnutrition + aggressive re-feeding -> phosphorus drops to 0.9 + weakness + heart failure = Refeeding syndrome (insulin surge -> massive intracellular shift of PO4, K, Mg).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Refeeding Syndrome Severe Hypophosphatemia Thiamine Repletion Prevention.",
+    "keyPoints": [
+      "Refeeding Syndrome Severe Hypophosphatemia Thiamine Repletion Prevention",
+      "Malnutrition + aggressive re-feeding -> phosphorus drops to 0.9 + weakness + heart failure = Refeeding syndrome (insulin surge -> massive intracellular shift of PO4, K, Mg)."
+    ],
+    "references": [
+      {
+        "label": "Senthil A. Cardiac Complications of Refeeding Syndrome: Pathophysiological Mechanisms, Clinical Manifestations, and Preventive Strategies. Cardiol Rev. 2026 May 12. PMID: 42115821.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42115821/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s3-0301",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Diabetic Kidney Disease and Heart Failure Management",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man with a 12-year history of type 2 diabetes mellitus, hypertension, and ischemic cardiomyopathy (left ventricular ejection fraction 38%) presents to the clinic for follow-up. He is currently asymptomatic, with no dyspnea, orthopnea, or peripheral edema. Medications are: lisinopril 40 mg daily, carvedilol 25 mg twice daily, empagliflozin 10 mg daily (initiated 4 weeks ago), and atorvastatin 40 mg daily. On physical examination, blood pressure is 126/76 mm Hg, heart rate is 68/min, and cardiopulmonary exam is normal without jugular venous distention or rales. Routine follow-up laboratory testing today demonstrates: - Serum creatinine: 1.6 mg/dL (baseline 4 weeks ago prior to empagliflozin was 1.3 mg/dL, corresponding to an eGFR decrease from 58 to 46 mL/min/1.73 m2, a 23% increase in creatinine) - Serum potassium: 4.6 mEq/L - Serum sodium: 138 mEq/L - Blood urea nitrogen: 24 mg/dL - Spot urine albumin-to-creatinine ratio: 420 mg/g (persistent macroalbuminuria). The patient feels well and has no volume depletion. Which of the following is the most appropriate next step in the clinical management of this patient?",
+    "options": [
+      {
+        "text": "Continue empagliflozin and lisinopril at current doses and initiate the non-steroidal mineralocorticoid receptor antagonist finerenone",
+        "correct": true,
+        "explanation": "The patient has diabetic kidney disease with persistent macroalbuminuria and heart failure with reduced ejection fraction (HFrEF). Initiating an SGLT2 inhibitor (empagliflozin) characteristically causes a transient, hemodynamic 'eGFR dip' of up to 30% within the first 2 to 4 weeks of therapy. This dip reflects normalization of glomerular hyperfiltration via restoration of tubuloglomerular feedback (increased distal sodium delivery to the macula densa triggers afferent arteriolar constriction), which reduces intraglomerular pressure and provides long-term preservation of renal function and cardiorenal protection. According to ADA and KDIGO guidelines, AN eGFR DROP OF UP TO 30% IS BENIGN AND EXPECTED; SGLT2 INHIBITORS AND ACE INHIBITORS SHOULD BE CONTINUED UNLESS THE eGFR DECLINE EXCEEDS 30% OR SEVERE HYPERKALEMIA/HYPOVOLEMIA OCCURS. Furthermore, in patients with type 2 diabetes and CKD with persistent albuminuria despite maximally tolerated ACEi/ARB and SGLT2 inhibitor therapy, adding FINERENONE (a non-steroidal selective mineralocorticoid receptor antagonist) is guideline-recommended to further reduce CKD progression and cardiovascular events (FIDELIO-DKD and FIGARO-DKD trials)."
+      },
+      {
+        "text": "Discontinue empagliflozin immediately due to acute drug-induced nephrotoxicity",
+        "correct": false,
+        "explanation": "Stopping empagliflozin because of a 23% hemodynamic eGFR dip deprives the patient of proven long-term cardiovascular and renal survival benefits; dips < 30% are anticipated and reversible."
+      },
+      {
+        "text": "Discontinue lisinopril and switch to oral hydralazine and isosorbide dinitrate",
+        "correct": false,
+        "explanation": "Discontinuing the ACE inhibitor in the setting of an expected SGLT2i hemodynamic shift removes essential neurohormonal blockade in HFrEF and proteinuria without clinical justification."
+      },
+      {
+        "text": "Perform an urgent percutaneous renal core needle biopsy to evaluate for interstitial nephritis",
+        "correct": false,
+        "explanation": "A 23% rise in creatinine after starting an SGLT2 inhibitor is a well-established physiological hemodynamic effect; invasive renal biopsy carries bleeding risks without diagnostic necessity."
+      },
+      {
+        "text": "Administer high-dose intravenous loop diuretics to clear intravascular volume overload",
+        "correct": false,
+        "explanation": "The patient is clinically euvolemic with clear lungs and normal blood pressure; adding diuretics in this setting causes true intravascular volume contraction and pre-renal azotemia."
+      }
+    ],
+    "explanation": "The patient has diabetic kidney disease with persistent macroalbuminuria and heart failure with reduced ejection fraction (HFrEF). Initiating an SGLT2 inhibitor (empagliflozin) characteristically causes a transient, hemodynamic 'eGFR dip' of up to 30% within the first 2 to 4 weeks of therapy. This dip reflects normalization of glomerular hyperfiltration via restoration of tubuloglomerular feedback (increased distal sodium delivery to the macula densa triggers afferent arteriolar constriction), which reduces intraglomerular pressure and provides long-term preservation of renal function and cardiorenal protection. According to ADA and KDIGO guidelines, AN eGFR DROP OF UP TO 30% IS BENIGN AND EXPECTED; SGLT2 INHIBITORS AND ACE INHIBITORS SHOULD BE CONTINUED UNLESS THE eGFR DECLINE EXCEEDS 30% OR SEVERE HYPERKALEMIA/HYPOVOLEMIA OCCURS. Furthermore, in patients with type 2 diabetes and CKD with persistent albuminuria despite maximally tolerated ACEi/ARB and SGLT2 inhibitor therapy, adding FINERENONE (a non-steroidal selective mineralocorticoid receptor antagonist) is guideline-recommended to further reduce CKD progression and cardiovascular events (FIDELIO-DKD and FIGARO-DKD trials). Creatinine rises by 23% after starting empagliflozin + persistent albuminuria on ACEi -> expected SGLT2i hemodynamic dip (< 30%) -> continue empagliflozin/lisinopril + add finerenone.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Diabetic Kidney Disease and Heart Failure Management.",
+    "keyPoints": [
+      "Diabetic Kidney Disease and Heart Failure Management",
+      "Creatinine rises by 23% after starting empagliflozin + persistent albuminuria on ACEi -> expected SGLT2i hemodynamic dip (< 30%) -> continue empagliflozin/lisinopril + add finereno"
+    ],
+    "references": [
+      {
+        "label": "de Boer IH, et al. Diabetes Management in Chronic Kidney Disease: A Consensus Report by the American Diabetes Association (ADA) and Kidney Disease: Improving Global Outcomes (KDIGO). Diabetes Care. 2022;45(12):3075-3090. PMID: 36190773.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36190773/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0302",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Resistant Hypertension",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old man presents to the clinic for follow-up of hypertension. At his last three office visits over the past 4 months, his blood pressure has ranged from 154/94 to 162/98 mm Hg despite taking amlodipine 10 mg daily, valsartan 320 mg daily, and chlorthalidone 25 mg daily at maximally tolerated doses. Pharmacy refill records confirm > 95% medication adherence. A 24-hour ambulatory blood pressure monitor (ABPM) demonstrates a mean daytime blood pressure of 152/92 mm Hg and mean nighttime blood pressure of 144/88 mm Hg (non-dipping pattern), ruling out white-coat hypertension. Secondary causes of hypertension—including renal artery stenosis (normal renal duplex), obstructive sleep apnea (negative polysomnography), and Cushing syndrome—have been ruled out. Laboratory testing reveals: - Serum sodium: 139 mEq/L - Serum potassium: 4.3 mEq/L - Serum creatinine: 1.0 mg/dL (eGFR > 60 mL/min/1.73 m2). Which of the following is the most appropriate next pharmacologic step to achieve blood pressure control in this patient?",
+    "options": [
+      {
+        "text": "Initiate oral atenolol 50 mg daily as the preferred fourth-line sympatholytic agent",
+        "correct": false,
+        "explanation": "In the PATHWAY-2 trial, beta-blockers (bisoprolol/atenolol) were statistically significantly inferior to spironolactone in reducing systolic blood pressure in resistant hypertension."
+      },
+      {
+        "text": "Initiate low-dose oral spironolactone (25 to 50 mg daily) with follow-up serum potassium and creatinine monitoring in 2 to 4 weeks",
+        "correct": true,
+        "explanation": "The patient has confirmed TRUE RESISTANT HYPERTENSION, defined as blood pressure that remains above goal (>= 130/80 mm Hg) despite the concurrent use of THREE antihypertensive drug classes at maximally tolerated doses, one of which must be a long-acting thiazide-like diuretic (e.g., CCB + RAS blocker + chlorthalidone), with medication non-adherence and white-coat hypertension excluded. According to AHA/ACC guidelines and the landmark PATHWAY-2 randomized controlled trial, the UNDISPUTED PREFERRED FOURTH-LINE AGENT FOR RESISTANT HYPERTENSION IS A MINERALOCORTICOID RECEPTOR ANTAGONIST (SPIRONOLACTONE 25–50 mg daily, or eplerenone). Spironolactone targets occult sodium retention and subclinical mineralocorticoid excess that commonly drives resistant hypertension, demonstrating significant superiority over beta-blockers (bisoprolol) or alpha-blockers (doxazosin). Serum potassium and creatinine must be monitored closely 2 to 4 weeks after initiation."
+      },
+      {
+        "text": "Initiate oral hydralazine 50 mg three times daily combined with oral isosorbide mononitrate",
+        "correct": false,
+        "explanation": "Hydralazine is a fifth- or sixth-line direct vasodilator reserved for patients who cannot tolerate or fail spironolactone; it requires frequent dosing and causes reflex tachycardia and fluid retention."
+      },
+      {
+        "text": "Switch chlorthalidone to oral hydrochlorothiazide 25 mg daily to enhance distal tubular delivery",
+        "correct": false,
+        "explanation": "Chlorthalidone is significantly more potent, has a much longer half-life (40–72 hr), and provides superior 24-hour blood pressure reduction compared to hydrochlorothiazide; switching would worsen control."
+      },
+      {
+        "text": "Refer for bilateral renal sympathetic denervation without medical adjustment",
+        "correct": false,
+        "explanation": "Renal denervation is an emerging interventional procedure, but guideline-directed medical optimization with fourth-line spironolactone is the established evidence-based standard before invasive devices."
+      }
+    ],
+    "explanation": "The patient has confirmed TRUE RESISTANT HYPERTENSION, defined as blood pressure that remains above goal (>= 130/80 mm Hg) despite the concurrent use of THREE antihypertensive drug classes at maximally tolerated doses, one of which must be a long-acting thiazide-like diuretic (e.g., CCB + RAS blocker + chlorthalidone), with medication non-adherence and white-coat hypertension excluded. According to AHA/ACC guidelines and the landmark PATHWAY-2 randomized controlled trial, the UNDISPUTED PREFERRED FOURTH-LINE AGENT FOR RESISTANT HYPERTENSION IS A MINERALOCORTICOID RECEPTOR ANTAGONIST (SPIRONOLACTONE 25–50 mg daily, or eplerenone). Spironolactone targets occult sodium retention and subclinical mineralocorticoid excess that commonly drives resistant hypertension, demonstrating significant superiority over beta-blockers (bisoprolol) or alpha-blockers (doxazosin). Serum potassium and creatinine must be monitored closely 2 to 4 weeks after initiation. True resistant hypertension on CCB + ARB + chlorthalidone with normal potassium (4.3) -> add spironolactone 25 mg daily (PATHWAY-2 trial preferred 4th-line agent).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Resistant Hypertension.",
+    "keyPoints": [
+      "Resistant Hypertension",
+      "True resistant hypertension on CCB + ARB + chlorthalidone with normal potassium (4.3) -> add spironolactone 25 mg daily (PATHWAY-2 trial preferred 4th-line agent)."
+    ],
+    "references": [
+      {
+        "label": "Williams B, et al. Endocrine and Hemodynamic Changes in Resistant Hypertension, and Blood Pressure Responses to Spironolactone or Other Agents: The PATHWAY-2 Study. Lancet Diabetes Endocrinol. 2018;6(6):464-473. PMID: 29655883.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29655883/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0303",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Endocrine",
+    "topic": "Glycemic Targets in Frail Elderly Patients",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 82-year-old woman is accompanied to the clinic by her daughter for management of type 2 diabetes mellitus. The daughter reports that over the past 2 months, the patient has had two episodes of sudden confusion, diaphoresis, and shakiness at home that resolved after drinking orange juice, as well as a fall in the bathroom without fracture. Her medical history includes moderate Alzheimer dementia, chronic kidney disease stage 3b (eGFR 38 mL/min/1.73 m2), hypertension, and osteoporosis. She requires assistance with instrumental activities of daily living (bathing and meal preparation). Current medications are: glimepiride 4 mg daily, metformin 500 mg daily, amlodipine 5 mg daily, and donepezil 10 mg daily. On physical examination, blood pressure is 128/72 mm Hg without orthostasis, heart rate is 70/min, and BMI is 21 kg/m2. Mini-Mental State Examination score is 18/30. Laboratory evaluation reveals: - Hemoglobin A1c: 6.2% - Serum creatinine: 1.5 mg/dL (baseline) - Fasting blood glucose: 68 mg/dL. Which of the following is the most appropriate management approach for this patient's diabetes?",
+    "options": [
+      {
+        "text": "Increase glimepiride to 6 mg daily and add sliding-scale regular insulin before meals",
+        "correct": false,
+        "explanation": "Increasing sulfonylureas and adding sliding-scale insulin in an 82-year-old with an HbA1c of 6.2% and cognitive impairment is reckless and leads to catastrophic fatal hypoglycemia and head trauma."
+      },
+      {
+        "text": "Maintain glimepiride at 4 mg daily to keep HbA1c strictly below 6.5% to prevent microvascular disease",
+        "correct": false,
+        "explanation": "Tight glycemic control (< 6.5–7.0%) takes decades to show microvascular benefit and provides zero benefit in frail older adults while dramatically increasing fatal hypoglycemia."
+      },
+      {
+        "text": "Discontinue glimepiride, liberalize the glycemic target to an HbA1c of 7.5% to 8.5%, and maintain lifestyle measures",
+        "correct": true,
+        "explanation": "The patient is a frail older adult with multiple chronic co-morbidities (moderate dementia, CKD stage 3b, osteoporosis) and functional impairment who is experiencing recurrent neuroglycopenic hypoglycemia and falls driven by overtreatment (HbA1c 6.2%). According to the American Diabetes Association (ADA) and American Geriatrics Society (AGS) guidelines, GLYCEMIC TARGETS MUST BE INDIVIDUALIZED: in older adults with complex health status, cognitive impairment, or limited life expectancy, RELAXED HbA1c TARGETS OF 7.5% TO 8.5% (or even avoiding strict targets while preventing symptomatic hyperglycemia) ARE MANDATED to prioritize avoidance of hypoglycemia. Furthermore, GLIMEPIRIDE IS ON THE AGS BEERS CRITERIA as a high-risk medication in older adults: long-acting sulfonylureas have prolonged half-lives in CKD, causing severe, prolonged, and fatal hypoglycemia that precipitates falls, fractures, and vascular events. Discontinuing glimepiride immediately and de-escalating glycemic therapy is the correct evidence-based management."
+      },
+      {
+        "text": "Switch glimepiride to subcutaneous exenatide twice daily to promote weight loss",
+        "correct": false,
+        "explanation": "The patient has a low BMI (21 kg/m2), advanced age, and CKD; GLP-1 receptor agonists causing gastrointestinal side effects and weight loss would exacerbate frailty and malnutrition."
+      },
+      {
+        "text": "Initiate long-acting basal insulin glargine 20 units at bedtime while continuing glimepiride",
+        "correct": false,
+        "explanation": "Adding basal insulin to an overtreating sulfonylurea in an already hypoglycemic patient with an HbA1c of 6.2% causes profound nocturnal hypoglycemia."
+      }
+    ],
+    "explanation": "The patient is a frail older adult with multiple chronic co-morbidities (moderate dementia, CKD stage 3b, osteoporosis) and functional impairment who is experiencing recurrent neuroglycopenic hypoglycemia and falls driven by overtreatment (HbA1c 6.2%). According to the American Diabetes Association (ADA) and American Geriatrics Society (AGS) guidelines, GLYCEMIC TARGETS MUST BE INDIVIDUALIZED: in older adults with complex health status, cognitive impairment, or limited life expectancy, RELAXED HbA1c TARGETS OF 7.5% TO 8.5% (or even avoiding strict targets while preventing symptomatic hyperglycemia) ARE MANDATED to prioritize avoidance of hypoglycemia. Furthermore, GLIMEPIRIDE IS ON THE AGS BEERS CRITERIA as a high-risk medication in older adults: long-acting sulfonylureas have prolonged half-lives in CKD, causing severe, prolonged, and fatal hypoglycemia that precipitates falls, fractures, and vascular events. Discontinuing glimepiride immediately and de-escalating glycemic therapy is the correct evidence-based management. 82-year-old with dementia + falls/hypoglycemia on glimepiride + HbA1c 6.2% -> overtreatment -> discontinue glimepiride (Beers criteria) + liberalize HbA1c target to 7.5-8.5%.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Glycemic Targets in Frail Elderly Patients.",
+    "keyPoints": [
+      "Glycemic Targets in Frail Elderly Patients",
+      "82-year-old with dementia + falls/hypoglycemia on glimepiride + HbA1c 6.2% -> overtreatment -> discontinue glimepiride (Beers criteria) + liberalize HbA1c target to 7.5-8.5%."
+    ],
+    "references": [
+      {
+        "label": "American Diabetes Association. 13. Older Adults: Standards of Medical Care in Diabetes—2023. Diabetes Care. 2023;46(Suppl 1):S216-S229. PMID: 36507634.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36507634/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0304",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Osteoarthritis in Chronic Kidney Disease",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 71-year-old woman presents to the clinic with chronic bilateral knee pain for the past 3 years that has worsened over the past 6 months. She describes the pain as a deep ache that worsens with prolonged walking and climbing stairs and is accompanied by morning stiffness lasting approximately 15 minutes. Physical examination reveals bony enlargement (osteophytes) and fine crepitus on passive flexion and extension of both knees, with no erythema, warmth, or joint effusion. Weight-bearing radiographs of the knees confirm severe bilateral medial joint space narrowing and subchondral sclerosis consistent with advanced primary knee osteoarthritis. Her medical history includes stage 3b chronic kidney disease (baseline serum creatinine 1.7 mg/dL, eGFR 34 mL/min/1.73 m2), hypertension, and peptic ulcer disease treated with a proton pump inhibitor. Over-the-counter acetaminophen up to 3,000 mg daily has provided minimal pain relief. The patient asks if she can start taking high-dose oral celecoxib or naproxen. Which of the following is the most appropriate next pharmacologic step for managing this patient's knee pain?",
+    "options": [
+      {
+        "text": "Initiate oral celecoxib 200 mg daily because COX-2 inhibitors are completely free of renal side effects",
+        "correct": false,
+        "explanation": "COX-2 is constitutively expressed in renal podocytes and the macula densa; COX-2 inhibitors cause identical renal vasoconstriction, acute kidney injury, and hypertension as non-selective NSAIDs."
+      },
+      {
+        "text": "Initiate oral naproxen 500 mg twice daily combined with misoprostol",
+        "correct": false,
+        "explanation": "Oral naproxen causes severe renal afferent arteriolar constriction and acute tubular necrosis in patients with baseline eGFR < 60 mL/min; misoprostol does not prevent renal injury."
+      },
+      {
+        "text": "Initiate daily low-dose oral oxycodone therapy for long-term chronic pain management",
+        "correct": false,
+        "explanation": "Opioids are not recommended for chronic osteoarthritis due to high risks of dependency, overdose, constipation, delirium, falls, and lack of long-term functional improvement."
+      },
+      {
+        "text": "Topical non-steroidal anti-inflammatory drug (topical diclofenac 1% gel)",
+        "correct": true,
+        "explanation": "The patient has symptomatic knee osteoarthritis requiring escalation beyond acetaminophen, but has major contraindications to systemic oral NSAIDs: stage 3b chronic kidney disease (eGFR 34 mL/min/1.73 m2) and a history of peptic ulcer disease. Systemic oral NSAIDs (including COX-2 selective agents like celecoxib) inhibit renal vasodilatory prostaglandins (PGE2, PGI2), constricting afferent arterioles and triggering acute-on-chronic kidney injury, hyperkalemia, sodium/water retention, and gastrointestinal hemorrhage. According to the American College of Rheumatology (ACR) and Osteoarthritis Research Society International (OARSI) guidelines, TOPICAL NSAIDs (TOPICAL DICLOFENAC GEL) ARE STRONGLY RECOMMENDED AS FIRST-LINE PHARMACOTHERAPY FOR KNEE OSTEOARTHRITIS, PARTICULARLY IN OLDER ADULTS WITH RENAL OR GI COMORBIDITIES. Topical application provides equivalent analgesic efficacy to oral NSAIDs while resulting in systemic drug absorption of less than 5% to 10%, virtually eliminating the risk of systemic renal failure, fluid overload, or ulcer bleeding."
+      },
+      {
+        "text": "Administer intra-articular hyaluronic acid injections every 3 months",
+        "correct": false,
+        "explanation": "Current ACR guidelines conditionally recommend against intra-articular hyaluronic acid viscosupplementation because high-quality trials demonstrate no meaningful clinical benefit over placebo."
+      }
+    ],
+    "explanation": "The patient has symptomatic knee osteoarthritis requiring escalation beyond acetaminophen, but has major contraindications to systemic oral NSAIDs: stage 3b chronic kidney disease (eGFR 34 mL/min/1.73 m2) and a history of peptic ulcer disease. Systemic oral NSAIDs (including COX-2 selective agents like celecoxib) inhibit renal vasodilatory prostaglandins (PGE2, PGI2), constricting afferent arterioles and triggering acute-on-chronic kidney injury, hyperkalemia, sodium/water retention, and gastrointestinal hemorrhage. According to the American College of Rheumatology (ACR) and Osteoarthritis Research Society International (OARSI) guidelines, TOPICAL NSAIDs (TOPICAL DICLOFENAC GEL) ARE STRONGLY RECOMMENDED AS FIRST-LINE PHARMACOTHERAPY FOR KNEE OSTEOARTHRITIS, PARTICULARLY IN OLDER ADULTS WITH RENAL OR GI COMORBIDITIES. Topical application provides equivalent analgesic efficacy to oral NSAIDs while resulting in systemic drug absorption of less than 5% to 10%, virtually eliminating the risk of systemic renal failure, fluid overload, or ulcer bleeding. Knee osteoarthritis failing acetaminophen + CKD stage 3b (eGFR 34) -> choose TOPICAL diclofenac gel (systemic absorption < 10%; avoids oral NSAID nephrotoxicity).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Osteoarthritis in Chronic Kidney Disease.",
+    "keyPoints": [
+      "Osteoarthritis in Chronic Kidney Disease",
+      "Knee osteoarthritis failing acetaminophen + CKD stage 3b (eGFR 34) -> choose TOPICAL diclofenac gel (systemic absorption < 10%; avoids oral NSAID nephrotoxicity)."
+    ],
+    "references": [
+      {
+        "label": "Kolasinski SL, et al. 2019 American College of Rheumatology/Arthritis Foundation Guideline for the Management of Osteoarthritis of the Hand, Hip, and Knee. Arthritis Rheumatol. 2020;72(2):220-233. PMID: 31908163.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31908163/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0305",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Cardiovascular",
+    "topic": "Atrial Fibrillation with Prior Intracranial Hemorrhage",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old man presents to the outpatient cardiology clinic for consultation regarding stroke prevention. He has a history of permanent non-valvular atrial fibrillation, hypertension, type 2 diabetes mellitus, and a prior ischemic stroke (CHA2DS2-VASc score: 5). Six weeks ago, while taking oral apixaban 5 mg twice daily, he suffered an acute spontaneous deep hypertensive intracerebral hemorrhage (ICH) in the left putamen. Apixaban was discontinued, and he was managed non-operatively in the neuro-ICU with tight blood pressure control. Over the past 6 weeks, he has achieved excellent neurological recovery with only mild residual right arm pronator drift. Repeat brain MRI performed yesterday reveals complete resolution of the acute hematoma and no cerebral amyloid angiopathy, microbleeds, or underlying vascular malformation. His blood pressure is currently 122/74 mm Hg on lisinopril and amlodipine. The clinical team debates how to balance his severe thromboembolic stroke risk against his risk of recurrent intracranial hemorrhage. Which of the following is the most appropriate management approach for this patient?",
+    "options": [
+      {
+        "text": "Initiate dual antiplatelet therapy with aspirin and clopidogrel indefinitely",
+        "correct": false,
+        "explanation": "Dual antiplatelet therapy confers an intracranial hemorrhage risk virtually identical to oral anticoagulation while providing substantially inferior stroke prevention in atrial fibrillation."
+      },
+      {
+        "text": "Permanently withhold all antithrombotic therapy and advise that anticoagulation is forever contraindicated",
+        "correct": false,
+        "explanation": "Permanently withholding anticoagulation in a patient with a CHA2DS2-VASc of 5 and resolved deep ICH leaves him at catastrophic risk of fatal thromboembolic stroke; guideline consensus supports shared decision-making regarding resumption."
+      },
+      {
+        "text": "Immediately resume full-dose intravenous unfractionated heparin bridge therapy today",
+        "correct": false,
+        "explanation": "Heparin bridging confers a high risk of acute intracranial hemorrhage expansion without stroke prevention benefit, and is strictly contraindicated post-ICH."
+      },
+      {
+        "text": "Initiate high-dose subcutaneous low-molecular-weight heparin as a safer alternative to oral DOACs",
+        "correct": false,
+        "explanation": "LMWH is not superior to DOACs for long-term stroke prevention in atrial fibrillation and increases minor bleeding complications; DOACs have the lowest ICH rates among all anticoagulants."
+      },
+      {
+        "text": "Discuss the risks and benefits of resuming oral anticoagulation with a direct oral anticoagulant (DOAC) after 4 to 8 weeks, or referral for percutaneous left atrial appendage occlusion",
+        "correct": true,
+        "explanation": "Managing anticoagulation in patients with atrial fibrillation following an intracerebral hemorrhage (ICH) represents one of the most challenging dilemmas in clinical medicine. With a CHA2DS2-VASc score of 5, his annual ischemic stroke risk exceeds 7% to 10%, while untreated ischemic strokes carry high mortality. Large observational cohorts and randomized pilot trials (e.g., RESTART, APACHE-AF, SoSTART) demonstrate that RESUMING ORAL ANTICOAGULATION (preferably with a DOAC like apixaban rather than warfarin) after a waiting period of at least 4 to 8 weeks in patients with deep hypertensive ICH (where blood pressure is strictly controlled) significantly reduces ischemic stroke and all-cause mortality without a statistically significant increase in fatal recurrent ICH. Alternatively, in patients at high risk of recurrent bleeding or who decline anticoagulation, PERCUTANEOUS LEFT ATRIAL APPENDAGE OCCLUSION (Watchman device) is an evidence-backed alternative that achieves mechanical exclusion of the primary source of thromboemboli."
+      }
+    ],
+    "explanation": "Managing anticoagulation in patients with atrial fibrillation following an intracerebral hemorrhage (ICH) represents one of the most challenging dilemmas in clinical medicine. With a CHA2DS2-VASc score of 5, his annual ischemic stroke risk exceeds 7% to 10%, while untreated ischemic strokes carry high mortality. Large observational cohorts and randomized pilot trials (e.g., RESTART, APACHE-AF, SoSTART) demonstrate that RESUMING ORAL ANTICOAGULATION (preferably with a DOAC like apixaban rather than warfarin) after a waiting period of at least 4 to 8 weeks in patients with deep hypertensive ICH (where blood pressure is strictly controlled) significantly reduces ischemic stroke and all-cause mortality without a statistically significant increase in fatal recurrent ICH. Alternatively, in patients at high risk of recurrent bleeding or who decline anticoagulation, PERCUTANEOUS LEFT ATRIAL APPENDAGE OCCLUSION (Watchman device) is an evidence-backed alternative that achieves mechanical exclusion of the primary source of thromboemboli. AFib (CHA2DS2-VASc 5) with deep ICH 6 weeks ago, now resolved + BP controlled -> resume DOAC after 4-8 weeks or left atrial appendage occlusion (Watchman).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Atrial Fibrillation with Prior Intracranial Hemorrhage.",
+    "keyPoints": [
+      "Atrial Fibrillation with Prior Intracranial Hemorrhage",
+      "AFib (CHA2DS2-VASc 5) with deep ICH 6 weeks ago, now resolved + BP controlled -> resume DOAC after 4-8 weeks or left atrial appendage occlusion (Watchman)."
+    ],
+    "references": [
+      {
+        "label": "Greenberg SM, et al. 2022 Guideline for the Management of Patients with Spontaneous Intracerebral Hemorrhage: A Guideline from the AHA/ASA. Stroke. 2022;53(7):e282-e361. PMID: 35579034.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35579034/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0306",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "COPD Escalation Therapy (GOLD Guidelines)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old man presents to the pulmonary clinic for follow-up of chronic obstructive pulmonary disease (COPD). Despite daily use of an inhaled long-acting beta-2 agonist (LABA) and long-acting muscarinic antagonist (LAMA) combination inhaler (vilanterol/umeclidinium), he continues to experience daily exertional dyspnea when walking 50 yards and chronic productive cough. Over the past 12 months, he has had two moderate acute COPD exacerbations requiring outpatient oral prednisone and antibiotics. He has a 40-pack-year smoking history but quit 3 years ago. Physical examination reveals a barrel chest, prolonged expiratory phase with scattered dry wheezes, and distant heart sounds. Spirometry confirms severe airflow obstruction: post-bronchodilator FEV1 is 44% of predicted, with an FEV1/FVC ratio of 0.52. Complete blood count reveals: - Leukocyte count: 7,200/mm3 - Absolute blood eosinophil count: 380 cells/microL (5.3%) - Hemoglobin: 15.2 g/dL. He has had no episodes of pneumonia in the past 3 years. According to the current Global Initiative for Chronic Obstructive Lung Disease (GOLD) guidelines, which of the following is the most appropriate next step in pharmacotherapy for this patient?",
+    "options": [
+      {
+        "text": "Escalate to single-inhaler triple therapy by adding an inhaled corticosteroid (ICS + LABA + LAMA)",
+        "correct": true,
+        "explanation": "The patient has severe COPD (GOLD Stage 3, Group E) characterized by frequent exacerbations (>= 2 moderate exacerbations in the prior year) despite dual long-acting bronchodilator therapy (LABA/LAMA). According to the updated Global Initiative for Chronic Obstructive Lung Disease (GOLD) guidelines, ESCALATION TO INHALED CORTICOSTEROID (ICS) TRIPLE THERAPY (ICS + LABA + LAMA) is strongly indicated for patients who continue to experience exacerbations on LABA/LAMA, ESPECIALLY WHEN THE BLOOD EOSINOPHIL COUNT IS >= 300 CELLS/MICROL. Blood eosinophils serve as a validated predictive biomarker: patients with eosinophils >= 300 cells/microL derive the greatest magnitude of exacerbation reduction from the addition of an ICS. Landmark trials (IMPACT and ETHOS) demonstrated that single-inhaler triple therapy significantly reduces moderate-to-severe exacerbations, improves lung function and quality of life, and demonstrates a statistically significant reduction in all-cause mortality compared to LABA/LAMA dual therapy in frequent exacerbators."
+      },
+      {
+        "text": "Add daily oral roflumilast (PDE-4 inhibitor) while continuing dual LABA/LAMA therapy",
+        "correct": false,
+        "explanation": "Oral roflumilast is indicated for patients with chronic bronchitis and FEV1 < 50% who continue to exacerbate on triple therapy (ICS/LABA/LAMA); in a patient with eosinophils >= 300 cells/microL, an ICS is the prioritized first escalation."
+      },
+      {
+        "text": "Initiate chronic prophylactic oral azithromycin 250 mg daily as sole escalation",
+        "correct": false,
+        "explanation": "Chronic macrolide prophylaxis is a secondary consideration for former smokers who continue to exacerbate despite optimized inhaler therapy including triple therapy; adding an ICS is the primary guideline-directed step."
+      },
+      {
+        "text": "Discontinue the long-acting muscarinic antagonist and switch to high-dose oral theophylline",
+        "correct": false,
+        "explanation": "Theophylline is a non-specific phosphodiesterase inhibitor with narrow therapeutic index, severe arrhythmogenic toxicity, and inferior efficacy; it is not recommended in modern GOLD guidelines."
+      },
+      {
+        "text": "Prescribe daily low-dose oral prednisone maintenance therapy (5 mg daily)",
+        "correct": false,
+        "explanation": "Chronic oral systemic corticosteroids have zero proven benefit for maintenance COPD therapy and cause severe osteoporosis, muscle wasting, diabetes, and adrenal suppression; they are explicitly contraindicated."
+      }
+    ],
+    "explanation": "The patient has severe COPD (GOLD Stage 3, Group E) characterized by frequent exacerbations (>= 2 moderate exacerbations in the prior year) despite dual long-acting bronchodilator therapy (LABA/LAMA). According to the updated Global Initiative for Chronic Obstructive Lung Disease (GOLD) guidelines, ESCALATION TO INHALED CORTICOSTEROID (ICS) TRIPLE THERAPY (ICS + LABA + LAMA) is strongly indicated for patients who continue to experience exacerbations on LABA/LAMA, ESPECIALLY WHEN THE BLOOD EOSINOPHIL COUNT IS >= 300 CELLS/MICROL. Blood eosinophils serve as a validated predictive biomarker: patients with eosinophils >= 300 cells/microL derive the greatest magnitude of exacerbation reduction from the addition of an ICS. Landmark trials (IMPACT and ETHOS) demonstrated that single-inhaler triple therapy significantly reduces moderate-to-severe exacerbations, improves lung function and quality of life, and demonstrates a statistically significant reduction in all-cause mortality compared to LABA/LAMA dual therapy in frequent exacerbators. COPD on LABA/LAMA with >= 2 exacerbations/year + blood eosinophils 380 (>= 300 cells/microL) -> escalate to triple therapy (ICS + LABA + LAMA).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of COPD Escalation Therapy (GOLD Guidelines).",
+    "keyPoints": [
+      "COPD Escalation Therapy (GOLD Guidelines)",
+      "COPD on LABA/LAMA with >= 2 exacerbations/year + blood eosinophils 380 (>= 300 cells/microL) -> escalate to triple therapy (ICS + LABA + LAMA)."
+    ],
+    "references": [
+      {
+        "label": "Global Initiative for Chronic Obstructive Lung Disease (GOLD). Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease: 2023 Report. Fontana, WI: GOLD; 2023. https://goldcopd.org/2023-gold-report-2/",
+        "url": "https://goldcopd.org/2023-gold-report-2/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0307",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Severe Osteoporosis Management",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old postmenopausal woman is referred to the bone health clinic for management of osteoporosis. Three weeks ago, she sustained a non-traumatic vertebral compression fracture at L2 after bending over to pick up her laundry basket. She reports a 6-cm loss of height over the past 5 years and chronic thoracolumbar back pain. She has never taken bone-directed pharmacotherapy. Dual-energy X-ray absorptiometry (DEXA) scan reveals: - Lumbar spine T-score: -3.6 - Femoral neck T-score: -3.2 - Total hip T-score: -3.0. Her 10-year probability of major osteoporotic fracture calculated by FRAX is 38%, and her 10-year probability of hip fracture is 18%, placing her in the 'very high fracture risk' category. Serum calcium, 25-hydroxyvitamin D, intact PTH, serum creatinine, and alkaline phosphatase are completely normal. Which of the following is the most appropriate initial pharmacologic therapy for this patient?",
+    "options": [
+      {
+        "text": "Initiate oral alendronate 70 mg weekly as the standard first-line therapy for all osteoporosis categories",
+        "correct": false,
+        "explanation": "While oral bisphosphonates are first-line for moderate risk, guidelines explicitly mandate anabolic bone-forming agents as initial therapy for VERY HIGH-RISK patients (recent fracture, T-score < -3.0)."
+      },
+      {
+        "text": "Initiate daily subcutaneous teriparatide (or abaloparatide) for 18 to 24 months, followed by an antiresorptive agent (bisphosphonate)",
+        "correct": true,
+        "explanation": "The patient has SEVERE OSTEOPOROSIS AT VERY HIGH RISK OF FRACTURE, defined by: (1) recent osteoporotic fragility fracture (L2 vertebral compression fracture), (2) extremely low T-score <= -3.0, and (3) very high FRAX scores (major fracture > 30%, hip fracture > 4.5%). According to the updated American Association of Clinical Endocrinologists (AACE) and Endocrine Society guidelines, IN PATIENTS AT VERY HIGH FRACTURE RISK, AN ANABOLIC BONE-FORMING AGENT (teriparatide [PTH analog], abaloparatide [PTHrP analog], or romosozumab [sclerostin inhibitor]) IS STRONGLY RECOMMENDED AS INITIAL FIRST-LINE THERAPY, RATHER THAN AN ANTIRESORPTIVE BISPHOSPHONATE. Anabolic agents stimulate new osteoblastic bone formation, dramatically increasing bone mineral density and reducing vertebral and non-vertebral fracture rates faster and more robustly than antiresorptives (VERDICT trial). CRITICAL SEQUENTIAL PRINCIPLE: Bone gained during anabolic therapy must be consolidated: when the 18–24 month anabolic course is completed, the patient MUST IMMEDIATELY TRANSITION TO AN ANTIRESORPTIVE AGENT (such as oral alendronate or IV zoledronic acid) to prevent rapid bone density loss."
+      },
+      {
+        "text": "Administer intravenous zoledronic acid once yearly and advise that anabolic agents are obsolete",
+        "correct": false,
+        "explanation": "Zoledronic acid is an antiresorptive that suppresses bone remodeling; in very high-risk osteoporosis with active vertebral collapse, head-to-head trials prove that anabolic agents achieve superior fracture reduction."
+      },
+      {
+        "text": "Prescribe daily oral raloxifene 60 mg monotherapy for selective estrogen receptor modulation",
+        "correct": false,
+        "explanation": "Raloxifene reduces vertebral fractures in milder postmenopausal osteopenia, but is ineffective for hip or non-vertebral fractures and is vastly inadequate for severe osteoporosis with a T-score of -3.6."
+      },
+      {
+        "text": "Administer continuous daily calcitonin nasal spray to stimulate trabecular bone calcification",
+        "correct": false,
+        "explanation": "Calcitonin has weak efficacy, has been linked to increased malignancy risk in long-term surveillance, and is no longer recommended for chronic osteoporosis management."
+      }
+    ],
+    "explanation": "The patient has SEVERE OSTEOPOROSIS AT VERY HIGH RISK OF FRACTURE, defined by: (1) recent osteoporotic fragility fracture (L2 vertebral compression fracture), (2) extremely low T-score <= -3.0, and (3) very high FRAX scores (major fracture > 30%, hip fracture > 4.5%). According to the updated American Association of Clinical Endocrinologists (AACE) and Endocrine Society guidelines, IN PATIENTS AT VERY HIGH FRACTURE RISK, AN ANABOLIC BONE-FORMING AGENT (teriparatide [PTH analog], abaloparatide [PTHrP analog], or romosozumab [sclerostin inhibitor]) IS STRONGLY RECOMMENDED AS INITIAL FIRST-LINE THERAPY, RATHER THAN AN ANTIRESORPTIVE BISPHOSPHONATE. Anabolic agents stimulate new osteoblastic bone formation, dramatically increasing bone mineral density and reducing vertebral and non-vertebral fracture rates faster and more robustly than antiresorptives (VERDICT trial). CRITICAL SEQUENTIAL PRINCIPLE: Bone gained during anabolic therapy must be consolidated: when the 18–24 month anabolic course is completed, the patient MUST IMMEDIATELY TRANSITION TO AN ANTIRESORPTIVE AGENT (such as oral alendronate or IV zoledronic acid) to prevent rapid bone density loss. Recent vertebral compression fracture + T-score -3.6 + FRAX hip risk 18% (very high risk) -> anabolic agent (teriparatide) FIRST for 18-24 months, followed by antiresorptive (bisphosphonate).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Severe Osteoporosis Management.",
+    "keyPoints": [
+      "Severe Osteoporosis Management",
+      "Recent vertebral compression fracture + T-score -3.6 + FRAX hip risk 18% (very high risk) -> anabolic agent (teriparatide) FIRST for 18-24 months, followed by antiresorptive (bisph"
+    ],
+    "references": [
+      {
+        "label": "Camacho PM, et al. American Association of Clinical Endocrinologists/American College of Endocrinology Clinical Practice Guidelines for the Diagnosis and Treatment of Postmenopausal Osteoporosis - 2020 Update. Endocr Pract. 2020;26(Suppl 1):1-46. PMID: 32427503.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32427503/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0308",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Hepatitis C in Advanced Chronic Kidney Disease",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old man with end-stage renal disease (ESRD) secondary to hypertensive nephrosclerosis who has been maintained on maintenance hemodialysis three times weekly for 4 years is evaluated for hepatitis C virus (HCV) infection. He is asymptomatic. Physical examination reveals a functional left arteriovenous fistula, with no ascites, spider angiomas, or jaundice. Laboratory evaluation reveals: - HCV antibody: positive - HCV RNA quantitative viral load: 1,850,000 IU/mL - HCV genotype: 1a - Serum creatinine: 8.4 mg/dL (eGFR < 15 mL/min/1.73 m2) - Platelet count: 210,000/mm3 - AST: 38 U/L - ALT: 42 U/L - Transient elastography (FibroScan): liver stiffness of 6.2 kPa, consistent with stage F0–F1 fibrosis (absence of cirrhosis). Which of the following is the most appropriate management plan for this patient's hepatitis C infection?",
+    "options": [
+      {
+        "text": "Withhold antiviral therapy because direct-acting antivirals are absolutely contraindicated in end-stage renal disease",
+        "correct": false,
+        "explanation": "DAAs are safe and highly effective in ESRD on hemodialysis; withholding therapy leaves the patient infected and ineligible for renal transplantation."
+      },
+      {
+        "text": "Administer pegylated interferon-alpha and ribavirin with dosage reduction for hemodialysis",
+        "correct": false,
+        "explanation": "Interferon and ribavirin regimens are obsolete, cause life-threatening hemolytic anemia and severe neurotoxicity in ESRD, and have been replaced by DAAs."
+      },
+      {
+        "text": "Initiate treatment with an all-oral, pan-genotypic direct-acting antiviral regimen (glecaprevir/pibrentasvir for 8 weeks or sofosbuvir/velpatasvir for 12 weeks)",
+        "correct": true,
+        "explanation": "Hepatitis C virus (HCV) infection in patients with advanced chronic kidney disease (CKD stage 4 or 5) and end-stage renal disease (ESRD) on maintenance hemodialysis is associated with accelerated liver disease, increased all-cause mortality, and loss of kidney transplant eligibility. Historically, interferon-based therapies carried severe, intolerable toxicity in ESRD. Modern pan-genotypic DIRECT-ACTING ANTIVIRAL (DAA) REGIMENS have revolutionized HCV therapy, achieving sustained virologic response (SVR12, cure) in > 95% to 98% of patients. According to AASLD/IDSA and KDIGO guidelines, patients with severe renal impairment (eGFR < 30 mL/min/1.73 m2, including dialysis) can be safely and effectively treated with: (1) GLECAPREVIR/PIBRENTASVIR (an NS3/4A protease inhibitor + NS5A inhibitor) for 8 weeks in non-cirrhotic treatment-naive patients, which undergoes biliary excretion with negligible renal clearance, or (2) SOFOSBUVIR/VELPATASVIR for 12 weeks (the FDA updated labeling to remove renal contraindications for sofosbuvir-based regimens). Eradication of HCV cures the infection, reduces mortality, and restores eligibility for deceased-donor kidney transplantation."
+      },
+      {
+        "text": "Defer HCV treatment until after the patient receives a successful kidney transplant",
+        "correct": false,
+        "explanation": "Treating HCV prior to kidney transplantation eliminates the risk of post-transplant fibrosing cholestatic hepatitis, reduces graft loss, and allows the patient to accept HCV-viremic donor kidneys."
+      },
+      {
+        "text": "Administer daily intravenous silymarin (milk thistle extract) as hepatoprotective monotherapy",
+        "correct": false,
+        "explanation": "Herbal extracts do not eradicate viral replication and have no proven efficacy in preventing HCV progression or achieving sustained virologic response."
+      }
+    ],
+    "explanation": "Hepatitis C virus (HCV) infection in patients with advanced chronic kidney disease (CKD stage 4 or 5) and end-stage renal disease (ESRD) on maintenance hemodialysis is associated with accelerated liver disease, increased all-cause mortality, and loss of kidney transplant eligibility. Historically, interferon-based therapies carried severe, intolerable toxicity in ESRD. Modern pan-genotypic DIRECT-ACTING ANTIVIRAL (DAA) REGIMENS have revolutionized HCV therapy, achieving sustained virologic response (SVR12, cure) in > 95% to 98% of patients. According to AASLD/IDSA and KDIGO guidelines, patients with severe renal impairment (eGFR < 30 mL/min/1.73 m2, including dialysis) can be safely and effectively treated with: (1) GLECAPREVIR/PIBRENTASVIR (an NS3/4A protease inhibitor + NS5A inhibitor) for 8 weeks in non-cirrhotic treatment-naive patients, which undergoes biliary excretion with negligible renal clearance, or (2) SOFOSBUVIR/VELPATASVIR for 12 weeks (the FDA updated labeling to remove renal contraindications for sofosbuvir-based regimens). Eradication of HCV cures the infection, reduces mortality, and restores eligibility for deceased-donor kidney transplantation. Hepatitis C in hemodialysis patient (ESRD) without cirrhosis -> all-oral pan-genotypic DAA (glecaprevir/pibrentasvir for 8 weeks or sofosbuvir/velpatasvir for 12 weeks) achieves cure.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hepatitis C in Advanced Chronic Kidney Disease.",
+    "keyPoints": [
+      "Hepatitis C in Advanced Chronic Kidney Disease",
+      "Hepatitis C in hemodialysis patient (ESRD) without cirrhosis -> all-oral pan-genotypic DAA (glecaprevir/pibrentasvir for 8 weeks or sofosbuvir/velpatasvir for 12 weeks) achieves cu"
+    ],
+    "references": [
+      {
+        "label": "AASLD-IDSA. Hepatitis C Guidance 2019 Update: American Association for the Study of Liver Diseases-Infectious Diseases Society of America Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection. Hepatology. 2020;71(2):686-721. PMID: 31816111.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31816111/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0309",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Chronic Gout Management During an Acute Flare",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man presents to the clinic with acute, severe pain, swelling, and redness in his right first metatarsophalangeal (MTP) joint that woke him from sleep 18 hours ago. He has a history of recurrent gouty arthritis, hypertension, and stage 2 chronic kidney disease (eGFR 72 mL/min/1.73 m2). He has been taking allopurinol 200 mg daily for the past 6 months, but his last serum urate level 3 months ago was 7.4 mg/dL. He takes amlodipine for hypertension. On physical examination, the right first MTP joint is warm, exquisitely tender to the touch, and erythematous with periarticular swelling, without skin breakdown or tophi. Synovial fluid aspiration from the joint confirms intracellular needle-shaped, negatively birefringent crystals under polarized light microscopy, with no bacteria on Gram stain. The patient asks if he should immediately stop taking his allopurinol until the acute attack subsides. Which of the following is the most appropriate management approach for this patient?",
+    "options": [
+      {
+        "text": "Discontinue allopurinol immediately and resume it only after the patient has been symptom-free for 6 months",
+        "correct": false,
+        "explanation": "Stopping allopurinol during an acute attack triggers dramatic urate shifts that destabilize articular microcrystals, worsening and prolonging the inflammatory flare."
+      },
+      {
+        "text": "Double the allopurinol dose to 400 mg daily today to rapidly lower serum urate during the attack",
+        "correct": false,
+        "explanation": "Acutely increasing allopurinol during an active flare also causes rapid serum urate swings that exacerbate articular inflammation; dose increases should occur after the acute flare resolves."
+      },
+      {
+        "text": "Discontinue allopurinol permanently and switch to lifelong oral indomethacin monotherapy",
+        "correct": false,
+        "explanation": "NSAIDs treat acute flares but do not lower systemic urate; lifelong NSAID monotherapy leads to chronic kidney injury, peptic ulcers, and uncontrolled tophaceous destruction."
+      },
+      {
+        "text": "Continue allopurinol at the current dose, treat the acute flare with low-dose colchicine or an oral corticosteroid, and titrate allopurinol upward once the flare resolves to achieve a serum urate < 6.0 mg/dL",
+        "correct": true,
+        "explanation": "The management of an acute gout flare in a patient already taking urate-lowering therapy (ULT, such as allopurinol) requires adherence to two fundamental principles established by the American College of Rheumatology (ACR) Gout Guidelines: (1) CONTINUING ULT DURING AN ACUTE FLARE: In patients who experience an acute gout flare while taking allopurinol, ALLOPURINOL SHOULD BE UNINTERRUPTED AND CONTINUED WITHOUT INTERRUPTION. Discontinuing allopurinol causes sudden fluctuations in serum urate levels, which triggers rapid dissolution of articular monosodium urate crystal surfaces, prolonging the duration and severity of the acute inflammatory flare. (2) TREATMENT OF THE ACUTE FLARE: Initiate anti-inflammatory therapy promptly (low-dose colchicine, oral prednisone, or an NSAID). (3) TREAT-TO-TARGET TITRATION: Once the acute flare has fully resolved, the dose of allopurinol must be titrated upward (e.g., to 300 mg daily or higher) to achieve the guideline-directed target serum urate level of < 6.0 mg/dL (or < 5.0 mg/dL in tophaceous disease) to dissolve existing crystal stores and prevent future flares."
+      },
+      {
+        "text": "Administer intravenous rasburicase infusion to achieve an immediate serum urate of zero",
+        "correct": false,
+        "explanation": "Rasburicase is a recombinant urate oxidase reserved strictly for tumor lysis syndrome in hematologic malignancies; it is not approved or indicated for routine outpatient gout."
+      }
+    ],
+    "explanation": "The management of an acute gout flare in a patient already taking urate-lowering therapy (ULT, such as allopurinol) requires adherence to two fundamental principles established by the American College of Rheumatology (ACR) Gout Guidelines: (1) CONTINUING ULT DURING AN ACUTE FLARE: In patients who experience an acute gout flare while taking allopurinol, ALLOPURINOL SHOULD BE UNINTERRUPTED AND CONTINUED WITHOUT INTERRUPTION. Discontinuing allopurinol causes sudden fluctuations in serum urate levels, which triggers rapid dissolution of articular monosodium urate crystal surfaces, prolonging the duration and severity of the acute inflammatory flare. (2) TREATMENT OF THE ACUTE FLARE: Initiate anti-inflammatory therapy promptly (low-dose colchicine, oral prednisone, or an NSAID). (3) TREAT-TO-TARGET TITRATION: Once the acute flare has fully resolved, the dose of allopurinol must be titrated upward (e.g., to 300 mg daily or higher) to achieve the guideline-directed target serum urate level of < 6.0 mg/dL (or < 5.0 mg/dL in tophaceous disease) to dissolve existing crystal stores and prevent future flares. Acute gout flare while taking allopurinol + urate 7.4 mg/dL -> continue allopurinol, treat flare with colchicine/steroids, then titrate allopurinol upward to target urate < 6.0 mg/dL.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Chronic Gout Management During an Acute Flare.",
+    "keyPoints": [
+      "Chronic Gout Management During an Acute Flare",
+      "Acute gout flare while taking allopurinol + urate 7.4 mg/dL -> continue allopurinol, treat flare with colchicine/steroids, then titrate allopurinol upward to target urate < 6.0 mg/"
+    ],
+    "references": [
+      {
+        "label": "FitzGerald JD, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Rheumatol. 2020;72(6):879-895. PMID: 32391934.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32391934/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0310",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Benign Prostatic Hyperplasia (BPH)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old man presents to the clinic with progressively worsening urinary symptoms over the past 12 months. He reports hesitancy, a weak and interrupted urinary stream, straining to void, post-void dribbling, and waking up 4 times every night to urinate (nocturia). His International Prostate Symptom Score (IPSS) is 24 (severe lower urinary tract symptoms). He has had no dysuria, hematuria, or fever. Physical examination reveals a non-tender, symmetrically enlarged, smooth, rubbery prostate on digital rectal examination, with an estimated volume of 45 grams (normal: < 25 grams). Urinalysis is completely negative. Post-void residual volume measured by bladder ultrasound is 85 mL (normal: < 100 mL). Serum prostate-specific antigen (PSA) is 3.2 ng/mL (normal: < 4.0 ng/mL). The patient desires medical pharmacotherapy to relieve his symptoms and prevent disease progression. Which of the following is the most appropriate initial medical regimen for this patient?",
+    "options": [
+      {
+        "text": "Monotherapy with the muscarinic receptor antagonist tolterodine",
+        "correct": false,
+        "explanation": "Tolterodine treats overactive bladder and detrusor overactivity, but does not relieve bladder outlet obstruction in BPH and increases the risk of acute urinary retention."
+      },
+      {
+        "text": "Immediate transurethral resection of the prostate (TURP) without a trial of medical therapy",
+        "correct": false,
+        "explanation": "TURP is the surgical gold standard reserved for patients who fail medical therapy or develop refractory retention, recurrent UTIs, bladder calculi, or renal insufficiency; initial medical therapy is indicated."
+      },
+      {
+        "text": "Monotherapy with oral saw palmetto (Serenoa repens) dietary supplements",
+        "correct": false,
+        "explanation": "Rigorous Cochrane reviews and double-blind multicenter trials (STEP and CAMUS) demonstrated that saw palmetto is no better than placebo in relieving LUTS or reducing prostate size."
+      },
+      {
+        "text": "Prescribe daily oral ciprofloxacin for 4 weeks to treat subclinical chronic bacterial prostatitis",
+        "correct": false,
+        "explanation": "The patient has no dysuria, fever, leukocyturia, or bacteriuria; empirical antibiotics for sterile BPH contribute to antimicrobial resistance without clinical efficacy."
+      },
+      {
+        "text": "Combination therapy with an alpha-1 adrenergic antagonist (tamsulosin) and a 5-alpha reductase inhibitor (finasteride)",
+        "correct": true,
+        "explanation": "The patient has severe lower urinary tract symptoms (LUTS) secondary to benign prostatic hyperplasia (BPH) with documented prostatic enlargement (prostate volume 45 g, PSA > 1.5 ng/mL). According to American Urological Association (AUA) guidelines and landmark randomized trials (MTOPS and CombAT), COMBINATION THERAPY WITH AN ALPHA-1 ANTAGONIST AND A 5-ALPHA REDUCTASE INHIBITOR (5-ARI) IS THE OPTIMAL FIRST-LINE STRATEGY FOR MEN WITH MODERATE-TO-SEVERE LUTS AND PROSTATIC ENLARGEMENT (> 30–35 g): (1) Alpha-1 antagonists (tamsulosin or alfuzosin) relax prostatic and bladder neck smooth muscle, providing rapid symptom relief within days to weeks; (2) 5-alpha reductase inhibitors (finasteride or dutasteride) inhibit conversion of testosterone to dihydrotestosterone (DHT), shrinking prostate epithelial volume by 20% to 25% over 6 to 12 months. Long-term combination therapy significantly reduces the risk of acute urinary retention and the need for future BPH-related surgery compared to monotherapy with either drug alone. (Note: 5-ARIs reduce serum PSA by approximately 50%; baseline PSA must be multiplied by 2 during subsequent cancer screening)."
+      }
+    ],
+    "explanation": "The patient has severe lower urinary tract symptoms (LUTS) secondary to benign prostatic hyperplasia (BPH) with documented prostatic enlargement (prostate volume 45 g, PSA > 1.5 ng/mL). According to American Urological Association (AUA) guidelines and landmark randomized trials (MTOPS and CombAT), COMBINATION THERAPY WITH AN ALPHA-1 ANTAGONIST AND A 5-ALPHA REDUCTASE INHIBITOR (5-ARI) IS THE OPTIMAL FIRST-LINE STRATEGY FOR MEN WITH MODERATE-TO-SEVERE LUTS AND PROSTATIC ENLARGEMENT (> 30–35 g): (1) Alpha-1 antagonists (tamsulosin or alfuzosin) relax prostatic and bladder neck smooth muscle, providing rapid symptom relief within days to weeks; (2) 5-alpha reductase inhibitors (finasteride or dutasteride) inhibit conversion of testosterone to dihydrotestosterone (DHT), shrinking prostate epithelial volume by 20% to 25% over 6 to 12 months. Long-term combination therapy significantly reduces the risk of acute urinary retention and the need for future BPH-related surgery compared to monotherapy with either drug alone. (Note: 5-ARIs reduce serum PSA by approximately 50%; baseline PSA must be multiplied by 2 during subsequent cancer screening). Severe BPH symptoms (IPSS 24) + enlarged prostate (45 g, PSA 3.2) -> combination therapy: alpha-1 blocker (tamsulosin) + 5-alpha reductase inhibitor (finasteride) (MTOPS trial).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Benign Prostatic Hyperplasia (BPH).",
+    "keyPoints": [
+      "Benign Prostatic Hyperplasia (BPH)",
+      "Severe BPH symptoms (IPSS 24) + enlarged prostate (45 g, PSA 3.2) -> combination therapy: alpha-1 blocker (tamsulosin) + 5-alpha reductase inhibitor (finasteride) (MTOPS trial)."
+    ],
+    "references": [
+      {
+        "label": "Lerner LB, et al. Management of Lower Urinary Tract Symptoms Attributed to Benign Prostatic Hyperplasia: AUA Guideline Part II—Surgical Evaluation and Treatment. J Urol. 2021;206(4):818-826. PMID: 34384236.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34384236/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0311",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Subclinical Hypothyroidism",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old woman presents for a routine annual health checkup. She reports feeling entirely well with no fatigue, cold intolerance, weight gain, constipation, depression, or skin dryness. She takes no medications and has no chronic medical conditions. Physical examination is completely normal, with a blood pressure of 122/76 mm Hg, heart rate of 68/min, and no thyroid enlargement, nodularity, or delayed relaxation of deep tendon reflexes. Routine laboratory screening reveals: - Serum TSH: 6.8 microU/mL (normal: 0.5–5.0 microU/mL) - Free T4: 1.1 ng/dL (normal: 0.8–1.8 ng/dL) - Serum cholesterol: 195 mg/dL. The patient is not pregnant and is not planning pregnancy. The medical resident recommends immediately initiating oral levothyroxine 50 mcg daily. Which of the following is the most appropriate next step in the clinical management of this patient?",
+    "options": [
+      {
+        "text": "Repeat serum TSH and free T4 in 3 months to confirm persistent elevation before considering therapy",
+        "correct": true,
+        "explanation": "The patient has asymptomatic mild subclinical hypothyroidism (elevated TSH [5.0–10.0 microU/mL] with a normal free T4). According to American Thyroid Association (ATA) and Endocrine Society guidelines, the MANDATORY FIRST STEP is to REPEAT SERUM TSH AND FREE T4 IN 3 MONTHS (often with anti-thyroid peroxidase [anti-TPO] antibody testing). In up to 40% to 50% of patients with mild TSH elevations (< 7–10 microU/mL), repeat testing demonstrates spontaneous normalization of TSH without intervention (e.g., following subacute thyroiditis or transient systemic illness). Furthermore, randomized controlled trials (TRUST trial) have conclusively demonstrated that treating mild subclinical hypothyroidism (TSH < 10 microU/mL) in asymptomatic older adults provides NO BENEFIT in terms of fatigue, cognitive function, mood, or cardiovascular endpoints. Clear indications for levothyroxine therapy include: (1) TSH >= 10 microU/mL, (2) Pregnancy or actively planning pregnancy, (3) Presence of severe hypothyroid symptoms, or (4) High-titer anti-TPO antibodies with goiter."
+      },
+      {
+        "text": "Initiate oral levothyroxine 50 mcg daily immediately to prevent progression to overt hypothyroidism",
+        "correct": false,
+        "explanation": "Starting levothyroxine immediately based on a single mild TSH elevation of 6.8 microU/mL results in unnecessary lifelong medication for a value that spontaneously normalizes in half of patients."
+      },
+      {
+        "text": "Perform a radionuclide iodine-123 thyroid uptake scan to evaluate follicular iodine clearance",
+        "correct": false,
+        "explanation": "Radioactive iodine uptake scans are indicated for thyrotoxicosis (hyperthyroidism), not hypothyroidism, and provide zero clinical utility in subclinical hypothyroidism."
+      },
+      {
+        "text": "Perform high-resolution ultrasound of the thyroid gland to evaluate for occult papillary thyroid cancer",
+        "correct": false,
+        "explanation": "Thyroid ultrasound is indicated for discrete palpable thyroid nodules or goiter; it is not indicated for isolated mild biochemical subclinical hypothyroidism with a normal physical exam."
+      },
+      {
+        "text": "Initiate daily oral liothyronine (synthetic T3) monotherapy to bypass peripheral deiodinase conversion",
+        "correct": false,
+        "explanation": "Liothyronine (T3) monotherapy causes wide fluctuations in plasma levels, cardiac arrhythmias, and palpitations, and is explicitly not recommended for hypothyroidism."
+      }
+    ],
+    "explanation": "The patient has asymptomatic mild subclinical hypothyroidism (elevated TSH [5.0–10.0 microU/mL] with a normal free T4). According to American Thyroid Association (ATA) and Endocrine Society guidelines, the MANDATORY FIRST STEP is to REPEAT SERUM TSH AND FREE T4 IN 3 MONTHS (often with anti-thyroid peroxidase [anti-TPO] antibody testing). In up to 40% to 50% of patients with mild TSH elevations (< 7–10 microU/mL), repeat testing demonstrates spontaneous normalization of TSH without intervention (e.g., following subacute thyroiditis or transient systemic illness). Furthermore, randomized controlled trials (TRUST trial) have conclusively demonstrated that treating mild subclinical hypothyroidism (TSH < 10 microU/mL) in asymptomatic older adults provides NO BENEFIT in terms of fatigue, cognitive function, mood, or cardiovascular endpoints. Clear indications for levothyroxine therapy include: (1) TSH >= 10 microU/mL, (2) Pregnancy or actively planning pregnancy, (3) Presence of severe hypothyroid symptoms, or (4) High-titer anti-TPO antibodies with goiter. Asymptomatic adult with mild TSH elevation (6.8 microU/mL) and normal free T4 -> repeat TSH/free T4 in 3 months before treatment (normalizes spontaneously in ~50%; treat only if TSH >= 10, pregnant, or symptomatic).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Subclinical Hypothyroidism.",
+    "keyPoints": [
+      "Subclinical Hypothyroidism",
+      "Asymptomatic adult with mild TSH elevation (6.8 microU/mL) and normal free T4 -> repeat TSH/free T4 in 3 months before treatment (normalizes spontaneously in ~50%; treat only if TS"
+    ],
+    "references": [
+      {
+        "label": "Stott DJ, et al. Thyroid Hormone Therapy for Older Adults with Subclinical Hypothyroidism. N Engl J Med. 2017;376(26):2534-2544. PMID: 28402241.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28402241/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0312",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Statin-Associated Muscle Symptoms (SAMS)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old man presents to the clinic complaining of bilateral aching, soreness, and heaviness in his thighs and calves that began 4 weeks after initiating atorvastatin 40 mg daily for primary prevention of atherosclerotic cardiovascular disease (10-year ASCVD risk: 14%). He states that the muscle soreness is present throughout the day and impairs his ability to jog. He denies muscle weakness, dark or tea-colored urine, fever, or joint pain. On physical examination, blood pressure is 126/78 mm Hg and heart rate is 70/min. Neurological examination reveals full 5/5 motor strength in proximal and distal muscles of both lower extremities with normal muscle tone, intact sensation, and normal deep tendon reflexes. Laboratory evaluation reveals: - Serum creatine kinase (CK): 280 U/L (normal: 30–200 U/L; upper limit of normal [ULN]: 200 U/L; CK is < 2x ULN) - Serum creatinine: 0.9 mg/dL - AST: 28 U/L - ALT: 24 U/L - Urinalysis: negative for blood and protein. Which of the following is the most appropriate next step in the clinical management of this patient?",
+    "options": [
+      {
+        "text": "Permanently discontinue all statin therapy and declare an absolute lifelong statin allergy",
+        "correct": false,
+        "explanation": "Declaring a permanent statin allergy deprives the patient of the most powerful proven mortality-reducing class of cardiovascular medications; > 70–80% of patients with myalgia successfully tolerate an alternative statin or lower dose."
+      },
+      {
+        "text": "Discontinue atorvastatin temporarily for 2 to 4 weeks (drug holiday), assess for symptom resolution, and rechallenge with a lower dose or a different statin (such as rosuvastatin or pravastatin)",
+        "correct": true,
+        "explanation": "The patient is experiencing Statin-Associated Muscle Symptoms (SAMS), the most common adverse effect of statin therapy (occurring in 5–10% of patients), typically presenting as symmetric proximal myalgia without significant weakness. According to ACC/AHA and NLA guidelines, when evaluating SAMS: (1) Rule out rhabdomyolysis: check serum CK and urinalysis (rhabdomyolysis features CK > 10x ULN, severe weakness, and myoglobinuria; here, CK is only mildly elevated at < 2x ULN). (2) RECHALLENGE PROTOCOL: Temporarily discontinue the statin for a 2- to 4-week 'drug holiday' to confirm that symptoms resolve. (3) RE-CHALLENGE WITH LOWER DOSE OR ALTERNATIVE STATIN: Once symptoms resolve, rechallenge with the same statin at a lower dose, or switch to an alternative statin with different pharmacokinetic properties (e.g., rosuvastatin, pravastatin, or fluvastatin, which are more hydrophilic than lipophilic atorvastatin). Intermittent once- or twice-weekly dosing of long-acting statins (e.g., rosuvastatin 5–10 mg twice weekly) is highly effective and tolerated in > 70% of patients with prior myalgias, allowing them to achieve necessary LDL-lowering goals."
+      },
+      {
+        "text": "Initiate daily oral coenzyme Q10 (ubiquinone) supplements while continuing atorvastatin 40 mg daily",
+        "correct": false,
+        "explanation": "Multiple randomized controlled trials and meta-analyses have conclusively demonstrated that coenzyme Q10 supplementation does not prevent or treat statin-induced myalgias compared to placebo."
+      },
+      {
+        "text": "Refer for immediate subcutaneous PCSK9 inhibitor therapy (evolocumab) as first-line monotherapy",
+        "correct": false,
+        "explanation": "PCSK9 inhibitors are expensive second-line injectable monoclonal antibodies reserved for patients who have confirmed intolerance to multiple statins at lowest doses combined with ezetimibe; statin rechallenge must be attempted first."
+      },
+      {
+        "text": "Administer oral prednisone 40 mg daily for suspected autoimmune necrotizing myopathy",
+        "correct": false,
+        "explanation": "Statin-induced immune-mediated necrotizing myopathy (associated with anti-HMGCR antibodies) causes severe progressive proximal weakness and massive CK elevations (> 10–50x ULN) that persist after stopping the statin; it is not present in mild myalgias."
+      }
+    ],
+    "explanation": "The patient is experiencing Statin-Associated Muscle Symptoms (SAMS), the most common adverse effect of statin therapy (occurring in 5–10% of patients), typically presenting as symmetric proximal myalgia without significant weakness. According to ACC/AHA and NLA guidelines, when evaluating SAMS: (1) Rule out rhabdomyolysis: check serum CK and urinalysis (rhabdomyolysis features CK > 10x ULN, severe weakness, and myoglobinuria; here, CK is only mildly elevated at < 2x ULN). (2) RECHALLENGE PROTOCOL: Temporarily discontinue the statin for a 2- to 4-week 'drug holiday' to confirm that symptoms resolve. (3) RE-CHALLENGE WITH LOWER DOSE OR ALTERNATIVE STATIN: Once symptoms resolve, rechallenge with the same statin at a lower dose, or switch to an alternative statin with different pharmacokinetic properties (e.g., rosuvastatin, pravastatin, or fluvastatin, which are more hydrophilic than lipophilic atorvastatin). Intermittent once- or twice-weekly dosing of long-acting statins (e.g., rosuvastatin 5–10 mg twice weekly) is highly effective and tolerated in > 70% of patients with prior myalgias, allowing them to achieve necessary LDL-lowering goals. Statin myalgias with CK < 2x ULN (no rhabdomyolysis) -> stop statin for 2-4 weeks (drug holiday), then rechallenge with lower dose or alternative statin (pravastatin/rosuvastatin).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Statin-Associated Muscle Symptoms (SAMS).",
+    "keyPoints": [
+      "Statin-Associated Muscle Symptoms (SAMS)",
+      "Statin myalgias with CK < 2x ULN (no rhabdomyolysis) -> stop statin for 2-4 weeks (drug holiday), then rechallenge with lower dose or alternative statin (pravastatin/rosuvastatin)."
+    ],
+    "references": [
+      {
+        "label": "Grundy SM, et al. 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol. Circulation. 2019;139(25):e1082-e1143. PMID: 30422031.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30422031/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0313",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Behavioral and Psychological Symptoms of Dementia (BPSD)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 81-year-old man with moderate Alzheimer dementia is brought to the geriatric clinic by his exhausted wife and primary caregiver. The wife reports that over the past 3 weeks, the patient has become increasingly restless, agitated, and verbally argumentative every evening around 5:00 PM ('sundowning'). He paces the hallway, repeatedly asks to 'go home' to his childhood residence, and resists his wife's attempts to guide him to dinner or bed. He has not exhibited physical violence, delusions, or hallucinations, and has not threatened harm to himself or others. His medical history includes hypertension and osteoarthritis. Physical examination reveals normal vital signs, clear lungs, soft non-tender abdomen, and no signs of acute urinary retention, fecal impaction, or pain. Urinalysis is completely negative. The wife asks if the doctor can prescribe haloperidol or quetiapine to 'calm him down in the evenings'. Which of the following is the most appropriate initial management approach for this patient?",
+    "options": [
+      {
+        "text": "Initiate low-dose oral haloperidol 1 mg every evening at 4:30 PM",
+        "correct": false,
+        "explanation": "Typical antipsychotics (haloperidol) carry high rates of extrapyramidal symptoms, tardive dyskinesia, accelerated cognitive decline, and increased mortality in dementia; they are contraindicated for mild agitation."
+      },
+      {
+        "text": "Initiate oral quetiapine 25 mg every evening as first-line pharmacologic monotherapy",
+        "correct": false,
+        "explanation": "Atypical antipsychotics also carry the FDA black-box warning for increased mortality in elderly dementia patients and should never precede non-pharmacologic environmental strategies in non-violent patients."
+      },
+      {
+        "text": "Implement structured non-pharmacologic behavioral and environmental modifications, establish a consistent daily routine, and offer caregiver support resources",
+        "correct": true,
+        "explanation": "The patient is experiencing behavioral and psychological symptoms of dementia (BPSD), specifically 'sundowning' (agitation and confusion worsening in late afternoon/evening). According to American Psychiatric Association (APA) and American Geriatrics Society (AGS) guidelines, NON-PHARMACOLOGIC BEHAVIORAL AND ENVIRONMENTAL INTERVENTIONS ARE THE MANDATORY FIRST-LINE TREATMENT FOR BPSD. Interventions include: (1) establishing predictable daily routines, (2) daytime exposure to sunlight and structured physical activities to reinforce circadian rhythms, (3) minimizing evening environmental overstimulation (noise, clutter, multiple caregivers), (4) validating emotions and gentle redirection rather than confronting disorientation, and (5) caregiver respite and support. PHARMACOLOGIC SAFETY PRINCIPLE: Antipsychotic medications (both typical like haloperidol and atypical like quetiapine, risperidone, olanzapine) carry an FDA BLACK-BOX WARNING for an increased risk of stroke, cardiovascular events, and all-cause mortality in elderly patients with dementia-related psychosis. Antipsychotics should be reserved strictly as a last resort for severe, refractory neuropsychiatric symptoms where the patient poses imminent danger to self or others."
+      },
+      {
+        "text": "Prescribe oral alprazolam 0.5 mg twice daily for acute anxiolytic sedation",
+        "correct": false,
+        "explanation": "Benzodiazepines in older adults with dementia (AGS Beers Criteria) cause severe worsening of confusion, paradoxical agitation, respiratory depression, motor ataxia, falls, and hip fractures."
+      },
+      {
+        "text": "Recommend immediate placement in an acute psychiatric inpatient locked facility",
+        "correct": false,
+        "explanation": "Inpatient psychiatric commitment is unnecessary and traumatic for non-violent sundowning; environmental modifications and caregiver home support successfully manage the vast majority of cases."
+      }
+    ],
+    "explanation": "The patient is experiencing behavioral and psychological symptoms of dementia (BPSD), specifically 'sundowning' (agitation and confusion worsening in late afternoon/evening). According to American Psychiatric Association (APA) and American Geriatrics Society (AGS) guidelines, NON-PHARMACOLOGIC BEHAVIORAL AND ENVIRONMENTAL INTERVENTIONS ARE THE MANDATORY FIRST-LINE TREATMENT FOR BPSD. Interventions include: (1) establishing predictable daily routines, (2) daytime exposure to sunlight and structured physical activities to reinforce circadian rhythms, (3) minimizing evening environmental overstimulation (noise, clutter, multiple caregivers), (4) validating emotions and gentle redirection rather than confronting disorientation, and (5) caregiver respite and support. PHARMACOLOGIC SAFETY PRINCIPLE: Antipsychotic medications (both typical like haloperidol and atypical like quetiapine, risperidone, olanzapine) carry an FDA BLACK-BOX WARNING for an increased risk of stroke, cardiovascular events, and all-cause mortality in elderly patients with dementia-related psychosis. Antipsychotics should be reserved strictly as a last resort for severe, refractory neuropsychiatric symptoms where the patient poses imminent danger to self or others. Alzheimer patient with non-violent evening agitation (sundowning) -> first-line management is structured non-pharmacologic environmental modifications (antipsychotics carry FDA black-box mortality warning).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Behavioral and Psychological Symptoms of Dementia (BPSD).",
+    "keyPoints": [
+      "Behavioral and Psychological Symptoms of Dementia (BPSD)",
+      "Alzheimer patient with non-violent evening agitation (sundowning) -> first-line management is structured non-pharmacologic environmental modifications (antipsychotics carry FDA bla"
+    ],
+    "references": [
+      {
+        "label": "Reus VI, et al. The American Psychiatric Association Practice Guideline on the Use of Antipsychotics to Treat Agitation or Psychosis in Patients With Dementia. Am J Psychiatry. 2016;173(5):543-546. PMID: 27133427.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27133427/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0314",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Behavioral Health",
+    "topic": "Chronic Insomnia in Older Adults",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 72-year-old retired schoolteacher presents to the clinic complaining of persistent difficulty falling asleep and staying asleep for the past 6 months. She reports lying awake in bed for 1 to 2 hours every night before falling asleep, waking up 3 to 4 times during the night, and feeling unrefreshed and fatigued throughout the day. She has no chronic pain, orthopnea, nocturnal dyspnea, or restless legs. Her medical history includes well-controlled hypertension and osteopenia. She drinks two cups of coffee in the morning and does not drink alcohol. On physical examination, blood pressure is 124/76 mm Hg and BMI is 23 kg/m2. Epworth Sleepiness Scale score is 6 (normal < 10). STOP-BANG score is 1 (low risk for obstructive sleep apnea). Routine laboratory testing (CBC, TSH, comprehensive metabolic panel) is completely normal. The patient requests a prescription for zolpidem or lorazepam, stating that her neighbor takes a 'sleeping pill' with great success. According to the American College of Physicians (ACP) and American Academy of Sleep Medicine (AASM) guidelines, which of the following is the most appropriate first-line therapy for this patient?",
+    "options": [
+      {
+        "text": "Initiate oral zolpidem 5 mg at bedtime with a 30-day supply and monthly refills",
+        "correct": false,
+        "explanation": "Z-drugs (zolpidem) are on the Beers Criteria; they carry high risks of parasomnias (sleepwalking, sleep eating), next-day grogginess, falls, and fractures in older adults, and have no long-term durability."
+      },
+      {
+        "text": "Initiate low-dose oral lorazepam 0.5 mg at bedtime for acute anxiolytic hypnotic effect",
+        "correct": false,
+        "explanation": "Benzodiazepines cause physical dependence, tolerance, cognitive decline, and significantly increase the risk of falls and fractures in older adults; they are not indicated for chronic insomnia."
+      },
+      {
+        "text": "Prescribe over-the-counter diphenhydramine 50 mg nightly for histamine-1 receptor blockade",
+        "correct": false,
+        "explanation": "First-generation antihistamines (diphenhydramine) possess potent anticholinergic properties that cause acute urinary retention, constipation, dry mouth, blurred vision, and delirium in older adults."
+      },
+      {
+        "text": "Cognitive Behavioral Therapy for Insomnia (CBT-I)",
+        "correct": true,
+        "explanation": "The patient meets diagnostic criteria for Chronic Insomnia Disorder (difficulty initiating or maintaining sleep occurring >= 3 nights per week for >= 3 months with daytime impairment). According to the American College of Physicians (ACP) and American Academy of Sleep Medicine (AASM) clinical practice guidelines, COGNITIVE BEHAVIORAL THERAPY FOR INSOMNIA (CBT-I) IS THE INITIAL FIRST-LINE THERAPY FOR ALL ADULTS WITH CHRONIC INSOMNIA. CBT-I is a structured multicomponent psychological therapy encompassing: (1) stimulus control (using the bed strictly for sleep and sex; leaving bed if awake > 20 minutes), (2) sleep restriction (matching time in bed to actual total sleep time to consolidate sleep architecture), (3) sleep hygiene education, and (4) cognitive restructuring to dispel catastrophic beliefs about sleep loss. Head-to-head clinical trials demonstrate that CBT-I produces sustained sleep improvements equivalent or superior to hypnotic medications, WITHOUT TOLERANCE, REBOUND INSOMNIA, OR DRUG SIDE EFFECTS. GERIATRIC PHARMACOTHERAPY SAFETY: Sedative-hypnotics (Z-drugs like zolpidem, eszopiclone) and benzodiazepines (lorazepam) are listed on the AGS BEERS CRITERIA because they drastically increase the risk of cognitive impairment, delirium, motor vehicle collisions, falls, and hip fractures in older adults."
+      },
+      {
+        "text": "Initiate oral quetiapine 25 mg nightly as an off-label sedative-hypnotic agent",
+        "correct": false,
+        "explanation": "Atypical antipsychotics have severe metabolic, cardiovascular, and extrapyramidal toxicities and are explicitly not recommended for the treatment of primary chronic insomnia."
+      }
+    ],
+    "explanation": "The patient meets diagnostic criteria for Chronic Insomnia Disorder (difficulty initiating or maintaining sleep occurring >= 3 nights per week for >= 3 months with daytime impairment). According to the American College of Physicians (ACP) and American Academy of Sleep Medicine (AASM) clinical practice guidelines, COGNITIVE BEHAVIORAL THERAPY FOR INSOMNIA (CBT-I) IS THE INITIAL FIRST-LINE THERAPY FOR ALL ADULTS WITH CHRONIC INSOMNIA. CBT-I is a structured multicomponent psychological therapy encompassing: (1) stimulus control (using the bed strictly for sleep and sex; leaving bed if awake > 20 minutes), (2) sleep restriction (matching time in bed to actual total sleep time to consolidate sleep architecture), (3) sleep hygiene education, and (4) cognitive restructuring to dispel catastrophic beliefs about sleep loss. Head-to-head clinical trials demonstrate that CBT-I produces sustained sleep improvements equivalent or superior to hypnotic medications, WITHOUT TOLERANCE, REBOUND INSOMNIA, OR DRUG SIDE EFFECTS. GERIATRIC PHARMACOTHERAPY SAFETY: Sedative-hypnotics (Z-drugs like zolpidem, eszopiclone) and benzodiazepines (lorazepam) are listed on the AGS BEERS CRITERIA because they drastically increase the risk of cognitive impairment, delirium, motor vehicle collisions, falls, and hip fractures in older adults. Chronic insomnia in 72-year-old -> first-line therapy is Cognitive Behavioral Therapy for Insomnia (CBT-I) (sedative-hypnotics are Beers Criteria violations).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Chronic Insomnia in Older Adults.",
+    "keyPoints": [
+      "Chronic Insomnia in Older Adults",
+      "Chronic insomnia in 72-year-old -> first-line therapy is Cognitive Behavioral Therapy for Insomnia (CBT-I) (sedative-hypnotics are Beers Criteria violations)."
+    ],
+    "references": [
+      {
+        "label": "Qaseem A, et al. Management of Chronic Insomnia Disorder in Adults: A Clinical Practice Guideline From the American College of Physicians. Ann Intern Med. 2016;165(2):125-133. PMID: 27136449.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27136449/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0315",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "General Principles",
+    "topic": "Unintentional Weight Loss in Older Adults",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 83-year-old man is brought to the clinic by his son because of unintentional weight loss. Over the past 6 months, the patient has lost 7.5 kg (16.5 lb), representing an 11% loss of his baseline body weight. His son notes that the patient rarely finishes his meals and complains that food 'doesn't taste good anymore'. The patient lives alone following the death of his wife 9 months ago. His medical history includes hypertension, benign prostatic hyperplasia, and osteoarthritis. Current medications are: lisinopril 20 mg daily, amlodipine 5 mg daily, tamsulosin 0.4 mg daily, and over-the-counter naproxen 220 mg twice daily. On physical examination, blood pressure is 118/72 mm Hg, heart rate is 68/min, and BMI is 19.8 kg/m2 (down from 22.2 kg/m2). Oral examination reveals poorly fitting upper and lower dentures with mucosal erythema (denture stomatitis). Abdominal examination is normal without masses or organomegaly. Geriatric Depression Scale (GDS) score is 8/15 (suggestive of mild-to-moderate depression). Laboratory testing (CBC, CMP, TSH, fecal occult blood) is completely normal. The son asks if his father should be started on megestrol acetate or dronabinol to stimulate his appetite. Which of the following is the most appropriate management approach for this patient?",
+    "options": [
+      {
+        "text": "Initiate oral megestrol acetate suspension 400 mg daily as first-line pharmacologic appetite stimulation",
+        "correct": false,
+        "explanation": "Megestrol acetate carries a high risk of deep vein thrombosis, pulmonary embolism, fluid retention, adrenal insufficiency, and death in older adults (Beers Criteria violation) with negligible benefit."
+      },
+      {
+        "text": "Initiate daily oral dronabinol (synthetic THC) 2.5 mg before lunch and dinner",
+        "correct": false,
+        "explanation": "Dronabinol causes severe central nervous system toxicities in older adults, including somnolence, confusion, orthostatic hypotension, and increased fall risk, without proven benefit in non-AIDS cachexia."
+      },
+      {
+        "text": "Immediately place a percutaneous endoscopic gastrostomy (PEG) feeding tube for enteral hyperalimentation",
+        "correct": false,
+        "explanation": "Feeding tubes do not improve survival, reduce aspiration pneumonia, or enhance quality of life in frail older adults with progressive weight loss, and carry surgical complications."
+      },
+      {
+        "text": "Prescribe high-dose oral prednisone 20 mg daily to stimulate appetite and reduce systemic inflammation",
+        "correct": false,
+        "explanation": "Systemic corticosteroids cause severe muscle wasting (steroid myopathy), osteoporosis, hyperglycemia, and immunosuppression, worsening sarcopenia and frailty."
+      },
+      {
+        "text": "Perform dental adjustment, initiate treatment for depression, recommend high-calorie oral nutritional snacks between meals, and avoid megestrol acetate",
+        "correct": true,
+        "explanation": "Unintentional weight loss in older adults (defined as > 5% loss in 6 months or > 10% in 1 year) is a geriatric syndrome associated with increased functional decline, infection, and mortality. The etiology is typically multifactorial: (1) Oral/dental issues (denture stomatitis, poorly fitting dentures), (2) Neuropsychiatric disorders (late-life depression, bereavement, isolation), (3) Polypharmacy/medications, and (4) Chronic medical diseases. Management requires a systematic, multifactorial approach: repair dentures, treat underlying depression (e.g., mirtazapine, which promotes appetite and weight gain while treating depression), provide social assistance (Meals on Wheels), and encourage energy-dense oral nutritional supplements taken BETWEEN meals (so as not to displace regular meals). PHARMACOLOGIC SAFETY PRINCIPLE: MEGESTROL ACETATE IS STRONGLY DISCOURAGED BY THE AGS BEERS CRITERIA: megestrol produces minimal lean muscle mass gain (mostly fluid and fat) while substantially increasing the risk of venous thromboembolism (deep vein thrombosis and fatal pulmonary embolism), adrenal insufficiency, and all-cause mortality in older adults."
+      }
+    ],
+    "explanation": "Unintentional weight loss in older adults (defined as > 5% loss in 6 months or > 10% in 1 year) is a geriatric syndrome associated with increased functional decline, infection, and mortality. The etiology is typically multifactorial: (1) Oral/dental issues (denture stomatitis, poorly fitting dentures), (2) Neuropsychiatric disorders (late-life depression, bereavement, isolation), (3) Polypharmacy/medications, and (4) Chronic medical diseases. Management requires a systematic, multifactorial approach: repair dentures, treat underlying depression (e.g., mirtazapine, which promotes appetite and weight gain while treating depression), provide social assistance (Meals on Wheels), and encourage energy-dense oral nutritional supplements taken BETWEEN meals (so as not to displace regular meals). PHARMACOLOGIC SAFETY PRINCIPLE: MEGESTROL ACETATE IS STRONGLY DISCOURAGED BY THE AGS BEERS CRITERIA: megestrol produces minimal lean muscle mass gain (mostly fluid and fat) while substantially increasing the risk of venous thromboembolism (deep vein thrombosis and fatal pulmonary embolism), adrenal insufficiency, and all-cause mortality in older adults. 83-year-old with 11% weight loss + poor dentures + depression -> fix dentures, treat depression, high-calorie snacks between meals; avoid megestrol acetate (DVT/adrenal risk, Beers criteria).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Unintentional Weight Loss in Older Adults.",
+    "keyPoints": [
+      "Unintentional Weight Loss in Older Adults",
+      "83-year-old with 11% weight loss + poor dentures + depression -> fix dentures, treat depression, high-calorie snacks between meals; avoid megestrol acetate (DVT/adrenal risk, Beers"
+    ],
+    "references": [
+      {
+        "label": "Gaddey HL, Holder K. Unintentional Weight Loss in Older Adults. Am Fam Physician. 2014;89(9):718-722. PMID: 24784334.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24784334/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0316",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man with stage 5 chronic kidney disease (eGFR 12 mL/min/1.73 m2, preparing for peritoneal dialysis) presents to the nephrology clinic for routine follow-up. He feels well and adheres to dietary sodium restriction. Medications are: lisinopril 10 mg daily, torsemide 20 mg daily, and rosuvastatin 10 mg daily. On physical examination, blood pressure is 132/80 mm Hg and cardiopulmonary exam is normal without peripheral edema. Follow-up laboratory testing reveals: - Serum phosphorus: 6.8 mg/dL (normal: 2.5–4.5 mg/dL; target in CKD: 3.5–5.5 mg/dL) - Serum calcium: 9.6 mg/dL (normal: 8.5–10.2 mg/dL) - Calcium-phosphate product: 65 mg2/dL2 (elevated; goal: < 55 mg2/dL2) - Intact parathyroid hormone (PTH): 280 pg/mL (target in stage 5 CKD: ~150–300 pg/mL) - Serum albumin: 4.1 g/dL - 25-hydroxyvitamin D: 34 ng/mL. Plain lateral abdominal radiograph demonstrates prominent, linear calcification outlining the abdominal aorta and iliac vessels. A clinical trainee suggests initiating calcium carbonate or calcium acetate 1,000 mg with each meal to bind dietary phosphate. Which of the following is the most appropriate management approach for this patient's hyperphosphatemia?",
+    "options": [
+      {
+        "text": "Prescribe dietary phosphate restriction and initiate a non-calcium-based phosphate binder (sevelamer carbonate or lanthanum carbonate) with meals",
+        "correct": true,
+        "explanation": "The patient has Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD) manifested by hyperphosphatemia and prominent vascular calcification of the aorta and iliac vessels. Reduced GFR impairs renal phosphate excretion; hyperphosphatemia stimulates FGF-23 and PTH, while driving vascular smooth muscle cells to undergo phenotypic switching into osteoblast-like cells, causing extensive medial vascular calcification (arteriosclerosis) and predisposing to calciphylaxis. According to KDIGO CKD-MBD clinical practice guidelines, IN ADULT PATIENTS WITH CKD STAGES 3a–5D, EXCESSIVE EXOGENOUS CALCIUM LOADING SHOULD BE AVOIDED. Using calcium-based phosphate binders (calcium acetate or calcium carbonate) in a patient with normal baseline serum calcium (9.6 mg/dL) and pre-existing vascular calcification accelerates arterial calcification, aortic stiffness, and cardiovascular mortality. Therefore, the recommended therapy is DIETARY PHOSPHATE RESTRICTION combined with a NON-CALCIUM-BASED PHOSPHATE BINDER (such as SEVELAMER CARBONATE or LANTHANUM CARBONATE) taken with meals to bind luminal dietary phosphate and form insoluble unabsorbable complexes excreted in the feces."
+      },
+      {
+        "text": "Initiate calcium carbonate 1,000 mg three times daily with meals to maximize luminal calcium-phosphate precipitation",
+        "correct": false,
+        "explanation": "Administering calcium-based binders causes positive calcium balance and accelerates metastatic vascular calcification and calciphylaxis in CKD stage 5."
+      },
+      {
+        "text": "Administer high-dose active oral calcitriol (1,25-dihydroxyvitamin D) 0.5 mcg daily",
+        "correct": false,
+        "explanation": "Calcitriol increases gastrointestinal absorption of both calcium and phosphorus; giving calcitriol when serum phosphorus is already 6.8 mg/dL drastically worsens hyperphosphatemia and vascular calcification."
+      },
+      {
+        "text": "Discontinue lisinopril to improve renal tubular phosphate filtration clearance",
+        "correct": false,
+        "explanation": "ACE inhibitors have negligible effect on tubular phosphate excretion, and stopping lisinopril worsens blood pressure control and cardiovascular risk."
+      },
+      {
+        "text": "Initiate intravenous zoledronic acid infusion to block osteoclastic bone resorption",
+        "correct": false,
+        "explanation": "Bisphosphonates are contraindicated in severe CKD (eGFR < 30–35 mL/min/1.73 m2) due to risk of adynamic bone disease and nephrotoxicity."
+      }
+    ],
+    "explanation": "The patient has Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD) manifested by hyperphosphatemia and prominent vascular calcification of the aorta and iliac vessels. Reduced GFR impairs renal phosphate excretion; hyperphosphatemia stimulates FGF-23 and PTH, while driving vascular smooth muscle cells to undergo phenotypic switching into osteoblast-like cells, causing extensive medial vascular calcification (arteriosclerosis) and predisposing to calciphylaxis. According to KDIGO CKD-MBD clinical practice guidelines, IN ADULT PATIENTS WITH CKD STAGES 3a–5D, EXCESSIVE EXOGENOUS CALCIUM LOADING SHOULD BE AVOIDED. Using calcium-based phosphate binders (calcium acetate or calcium carbonate) in a patient with normal baseline serum calcium (9.6 mg/dL) and pre-existing vascular calcification accelerates arterial calcification, aortic stiffness, and cardiovascular mortality. Therefore, the recommended therapy is DIETARY PHOSPHATE RESTRICTION combined with a NON-CALCIUM-BASED PHOSPHATE BINDER (such as SEVELAMER CARBONATE or LANTHANUM CARBONATE) taken with meals to bind luminal dietary phosphate and form insoluble unabsorbable complexes excreted in the feces. CKD stage 5 + hyperphosphatemia (6.8) + normal calcium (9.6) + aortic calcification -> non-calcium phosphate binder (sevelamer/lanthanum) with meals (avoid calcium binders).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD).",
+    "keyPoints": [
+      "Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD)",
+      "CKD stage 5 + hyperphosphatemia (6.8) + normal calcium (9.6) + aortic calcification -> non-calcium phosphate binder (sevelamer/lanthanum) with meals (avoid calcium binders)."
+    ],
+    "references": [
+      {
+        "label": "Kidney Disease: Improving Global Outcomes (KDIGO) CKD-MBD Update Work Group. KDIGO 2017 Clinical Practice Guideline Update for the Diagnosis, Evaluation, Prevention, and Treatment of Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD). Kidney Int Suppl (2011). 2017;7(1)...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30675257/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0317",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Heart Failure with Preserved Ejection Fraction (HFpEF)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old woman presents to the cardiology clinic with progressive exertional shortness of breath, fatigue, and lower extremity swelling over the past 4 months. She can now walk only half a block on level ground before having to stop to rest. She sleeps on three pillows to avoid nocturnal breathlessness. Her medical history includes hypertension, obesity (BMI 34 kg/m2), and stage 3a chronic kidney disease. Current medications are: amlodipine 10 mg daily and hydrochlorothiazide 25 mg daily. On physical examination, blood pressure is 138/84 mm Hg and heart rate is 76/min. Physical examination reveals: jugular venous distention 4 cm above the sternal angle at 45 degrees, bilateral bibasilar fine inspiratory crackles, a prominent S4 gallop, and 2+ bilateral pitting pretibial edema. Laboratory evaluation reveals: - Serum creatinine: 1.4 mg/dL (eGFR 44 mL/min/1.73 m2) - Serum potassium: 4.4 mEq/L - N-terminal pro-B-type natriuretic peptide (NT-proBNP): 1,450 pg/mL (normal: < 125 pg/mL). Transthoracic echocardiography reveals: left ventricular ejection fraction of 56% (preserved), marked left ventricular concentric hypertrophy (interventricular septal thickness 1.4 cm), left atrial enlargement (left atrial volume index 42 mL/m2), and an elevated E/e' ratio of 16, consistent with elevated left ventricular filling pressures. Which of the following is the most appropriate pharmacologic agent to initiate to reduce the risk of cardiovascular death and heart failure hospitalization in this patient?",
+    "options": [
+      {
+        "text": "Oral digoxin monotherapy titrated to a serum trough level of 1.0 ng/mL",
+        "correct": false,
+        "explanation": "The DIG trial demonstrated that digoxin has zero mortality benefit in heart failure, and in HFpEF with concentric hypertrophy, inotropic stimulation provides no diastolic relaxation benefit and increases toxicity."
+      },
+      {
+        "text": "An SGLT2 inhibitor (empagliflozin or dapagliflozin)",
+        "correct": true,
+        "explanation": "The patient has Heart Failure with Preserved Ejection Fraction (HFpEF), defined by: (1) symptoms and signs of heart failure (dyspnea, orthopnea, JVD, S4 gallop, edema), (2) preserved LVEF (>= 50%), and (3) objective evidence of spontaneous or provokable increased left ventricular filling pressures (elevated NT-proBNP, elevated E/e' ratio > 14, left atrial enlargement, and LV concentric hypertrophy). Historically, neurohormonal antagonists (ACE inhibitors, ARBs, beta-blockers) failed in large clinical trials to demonstrate significant reductions in cardiovascular mortality or hospitalization in HFpEF. However, the landmark EMPEROR-Preserved and DELIVER randomized controlled trials conclusively established that SGLT2 INHIBITORS (EMPAGLIFLOZIN AND DAPAGLIFLOZIN) PRODUCE A STATISTICALLY SIGNIFICANT AND ROBUST REDUCTION IN THE COMPOSITE OUTCOME OF CARDIOVASCULAR DEATH OR HEART FAILURE HOSPITALIZATION ACROSS THE ENTIRE SPECTRUM OF HFpEF, REGARDLESS OF THE PRESENCE OR ABSENCE OF DIABETES. Current AHA/ACC/HFSA guidelines grant SGLT2 inhibitors a Class 1 recommendation for all patients with HFpEF."
+      },
+      {
+        "text": "Oral diltiazem 120 mg daily as primary therapy to enhance left ventricular diastolic filling",
+        "correct": false,
+        "explanation": "Non-dihydropyridine calcium channel blockers have failed to improve clinical outcomes or mortality in heart failure trials and are not guideline-directed therapy for HFpEF."
+      },
+      {
+        "text": "High-dose oral vericiguat (soluble guanylate cyclase stimulator)",
+        "correct": false,
+        "explanation": "Vericiguat is approved for worsening HFrEF with reduced ejection fraction; large randomized trials (VITALITY-HFpEF) showed no improvement in quality of life or clinical outcomes in HFpEF."
+      },
+      {
+        "text": "Immediate referral for transcatheter interatrial shunt device implantation",
+        "correct": false,
+        "explanation": "Interatrial shunt devices remain investigational; the REDUCE LAP-HF II randomized sham-controlled trial failed to demonstrate clinical benefit in the overall HFpEF population."
+      }
+    ],
+    "explanation": "The patient has Heart Failure with Preserved Ejection Fraction (HFpEF), defined by: (1) symptoms and signs of heart failure (dyspnea, orthopnea, JVD, S4 gallop, edema), (2) preserved LVEF (>= 50%), and (3) objective evidence of spontaneous or provokable increased left ventricular filling pressures (elevated NT-proBNP, elevated E/e' ratio > 14, left atrial enlargement, and LV concentric hypertrophy). Historically, neurohormonal antagonists (ACE inhibitors, ARBs, beta-blockers) failed in large clinical trials to demonstrate significant reductions in cardiovascular mortality or hospitalization in HFpEF. However, the landmark EMPEROR-Preserved and DELIVER randomized controlled trials conclusively established that SGLT2 INHIBITORS (EMPAGLIFLOZIN AND DAPAGLIFLOZIN) PRODUCE A STATISTICALLY SIGNIFICANT AND ROBUST REDUCTION IN THE COMPOSITE OUTCOME OF CARDIOVASCULAR DEATH OR HEART FAILURE HOSPITALIZATION ACROSS THE ENTIRE SPECTRUM OF HFpEF, REGARDLESS OF THE PRESENCE OR ABSENCE OF DIABETES. Current AHA/ACC/HFSA guidelines grant SGLT2 inhibitors a Class 1 recommendation for all patients with HFpEF. Heart failure signs + LVEF 56% (preserved) + NT-proBNP 1,450 + E/e' 16 -> HFpEF -> SGLT2 inhibitor (empagliflozin/dapagliflozin) reduces CV death and HF hospitalizations (EMPEROR-Preserved).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Heart Failure with Preserved Ejection Fraction (HFpEF).",
+    "keyPoints": [
+      "Heart Failure with Preserved Ejection Fraction (HFpEF)",
+      "Heart failure signs + LVEF 56% (preserved) + NT-proBNP 1,450 + E/e' 16 -> HFpEF -> SGLT2 inhibitor (empagliflozin/dapagliflozin) reduces CV death and HF hospitalizations (EMPEROR-P"
+    ],
+    "references": [
+      {
+        "label": "Heidenreich PA, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2022;145(18):e895-e1032. PMID: 35363499.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35363499/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0318",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Anticoagulation in End-Stage Renal Disease (ESRD) with Atrial Fibrillation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 82-year-old woman with end-stage renal disease (ESRD) secondary to diabetic glomerulosclerosis who has been maintained on maintenance hemodialysis for 3 years presents for a routine nephrology evaluation. Two weeks ago, she was diagnosed with new-onset persistent non-valvular atrial fibrillation. She has a history of ischemic stroke 4 years ago and hypertension (CHA2DS2-VASc score: 6). Her dry weight is 54 kg (119 lb). She feels well and has had no active bleeding, syncope, or chest discomfort. Current medications are: sevelamer carbonate, amlodipine, and carvedilol. On physical examination, blood pressure is 128/74 mm Hg, heart rate is 74/min (irregularly irregular), and her right upper arm arteriovenous fistula has a palpable thrill and continuous bruit. Complete blood count reveals: hemoglobin 10.8 g/dL and platelet count 185,000/mm3. The clinical team decides to initiate stroke prophylaxis. Which of the following is the most appropriate oral anticoagulant and dosage regimen for this patient?",
+    "options": [
+      {
+        "text": "Oral apixaban 5 mg twice daily",
+        "correct": false,
+        "explanation": "Apixaban 5 mg BID is the standard dose in dialysis patients who do NOT fulfill two dose-reduction criteria; because this patient is >= 80 years AND weighs <= 60 kg, 5 mg BID would cause drug accumulation and excessive bleeding."
+      },
+      {
+        "text": "Oral dabigatran etexilate 150 mg twice daily",
+        "correct": false,
+        "explanation": "Dabigatran is 80% eliminated by the kidneys and is strictly contraindicated in patients on hemodialysis due to profound drug accumulation and fatal hemorrhagic strokes."
+      },
+      {
+        "text": "Oral apixaban 2.5 mg twice daily",
+        "correct": true,
+        "explanation": "The patient has end-stage renal disease (ESRD) on hemodialysis with high-risk non-valvular atrial fibrillation (CHA2DS2-VASc = 6). Selecting an oral anticoagulant in ESRD requires precise knowledge of pharmacokinetics and clinical trial evidence: (1) Dabigatran (80% renal clearance) and rivaroxaban are NOT recommended in ESRD/dialysis in clinical guidelines due to significant drug accumulation and bleeding risks. (2) APIXABAN has only ~27% renal clearance and is metabolized primarily by the liver (CYP3A4) and excreted via the biliary/intestinal tract. (3) FDA AND GUIDELINE APINXABAN DOSING RULES IN ESRD/DIALYSIS: The standard dose of apixaban is 5 mg twice daily. However, DOSE REDUCTION TO 2.5 MG TWICE DAILY IS MANDATED IF THE PATIENT MEETS AT LEAST TWO OF THE FOLLOWING THREE CRITERIA: (a) Age >= 80 years, (b) Body weight <= 60 kg, or (c) Serum creatinine >= 1.5 mg/dL. In ESRD on dialysis, this patient fulfills TWO criteria: she is 82 years old (age >= 80) AND weighs 54 kg (weight <= 60 kg). Therefore, the correct evidence-based dose is APIXABAN 2.5 MG TWICE DAILY. Large observational cohort studies demonstrate that apixaban in dialysis is associated with lower risks of major bleeding and mortality compared to warfarin."
+      },
+      {
+        "text": "Oral rivaroxaban 20 mg once daily with the evening meal",
+        "correct": false,
+        "explanation": "Rivaroxaban is not recommended in hemodialysis due to lack of randomized trial safety data and high bleeding risks compared to apixaban."
+      },
+      {
+        "text": "Withhold all anticoagulation because anticoagulants are absolutely contraindicated in all hemodialysis patients",
+        "correct": false,
+        "explanation": "Withholding anticoagulation in a patient with a CHA2DS2-VASc score of 6 and prior stroke leaves her at extreme risk of recurrent fatal thromboembolic stroke; guideline consensus supports apixaban or warfarin."
+      }
+    ],
+    "explanation": "The patient has end-stage renal disease (ESRD) on hemodialysis with high-risk non-valvular atrial fibrillation (CHA2DS2-VASc = 6). Selecting an oral anticoagulant in ESRD requires precise knowledge of pharmacokinetics and clinical trial evidence: (1) Dabigatran (80% renal clearance) and rivaroxaban are NOT recommended in ESRD/dialysis in clinical guidelines due to significant drug accumulation and bleeding risks. (2) APIXABAN has only ~27% renal clearance and is metabolized primarily by the liver (CYP3A4) and excreted via the biliary/intestinal tract. (3) FDA AND GUIDELINE APINXABAN DOSING RULES IN ESRD/DIALYSIS: The standard dose of apixaban is 5 mg twice daily. However, DOSE REDUCTION TO 2.5 MG TWICE DAILY IS MANDATED IF THE PATIENT MEETS AT LEAST TWO OF THE FOLLOWING THREE CRITERIA: (a) Age >= 80 years, (b) Body weight <= 60 kg, or (c) Serum creatinine >= 1.5 mg/dL. In ESRD on dialysis, this patient fulfills TWO criteria: she is 82 years old (age >= 80) AND weighs 54 kg (weight <= 60 kg). Therefore, the correct evidence-based dose is APIXABAN 2.5 MG TWICE DAILY. Large observational cohort studies demonstrate that apixaban in dialysis is associated with lower risks of major bleeding and mortality compared to warfarin. 82-year-old on hemodialysis with AFib weighing 54 kg -> apixaban reduced to 2.5 mg BID (meets 2 reduction criteria: age >= 80 AND weight <= 60 kg).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Anticoagulation in End-Stage Renal Disease (ESRD) with Atrial Fibrillation.",
+    "keyPoints": [
+      "Anticoagulation in End-Stage Renal Disease (ESRD) with Atrial Fibrillation",
+      "82-year-old on hemodialysis with AFib weighing 54 kg -> apixaban reduced to 2.5 mg BID (meets 2 reduction criteria: age >= 80 AND weight <= 60 kg)."
+    ],
+    "references": [
+      {
+        "label": "Pokorney SD, et al. Apixaban for Patients With Atrial Fibrillation on Hemodialysis: A Systematic Review and Meta-Analysis. Circulation. 2022;146(23):1735-1745. PMID: 36345719.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36345719/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0319",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Behavioral Health",
+    "topic": "Alcohol Use Disorder Maintenance Pharmacotherapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 48-year-old man presents to the outpatient addiction medicine clinic seeking medical pharmacotherapy to maintain abstinence from alcohol. He recently completed an inpatient medically supervised alcohol withdrawal protocol and has been completely abstinent for 10 days. He reports intense daily cravings for alcohol. He has a 20-year history of severe alcohol use disorder complicated by alcoholic hepatitis and early cirrhosis with portal hypertension (history of treated esophageal varices). He denies illicit drug use or chronic pain and has never taken opioids. On physical examination, blood pressure is 126/78 mm Hg and heart rate is 72/min. Physical examination reveals spider angiomas on the chest, palmar erythema, and a palpable liver edge 2 cm below the costal margin, without ascites, asterixis, or peripheral edema. Laboratory evaluation reveals: - AST: 84 U/L - ALT: 62 U/L - Total bilirubin: 2.1 mg/dL - Serum albumin: 3.2 g/dL - International Normalized Ratio (INR): 1.4 - Serum creatinine: 0.8 mg/dL (eGFR > 90 mL/min/1.73 m2). Which of the following is the most appropriate first-line pharmacologic agent to reduce cravings and support maintenance of abstinence in this patient?",
+    "options": [
+      {
+        "text": "Oral naltrexone 50 mg daily as the primary anticraving agent",
+        "correct": false,
+        "explanation": "Naltrexone undergoes extensive hepatic first-pass metabolism and causes dose-dependent hepatocellular injury; it is contraindicated in patients with active liver disease, cirrhosis, or marked transaminitis."
+      },
+      {
+        "text": "Oral disulfiram 250 mg daily to induce aversive acetaldehyde accumulation",
+        "correct": false,
+        "explanation": "Disulfiram is an irreversible aldehyde dehydrogenase inhibitor that carries severe idiosyncratic hepatotoxicity (fatal hepatic necrosis) and provides poor compliance; it is contraindicated in cirrhosis."
+      },
+      {
+        "text": "Daily oral chlordiazepoxide maintenance therapy to suppress central sympathetic tone",
+        "correct": false,
+        "explanation": "Benzodiazepines are used strictly for acute alcohol withdrawal (3–5 days); chronic maintenance benzodiazepines cause severe physical dependence, cross-tolerance, and lethal overdose if combined with alcohol."
+      },
+      {
+        "text": "Oral acamprosate calcium 666 mg three times daily",
+        "correct": true,
+        "explanation": "The patient has severe alcohol use disorder and desires pharmacotherapy to prevent relapse and maintain abstinence. Selecting an anticraving agent requires careful evaluation of organ function: (1) NALTREXONE (an opioid mu-receptor antagonist) is a highly effective first-line anticraving agent, BUT IT UNDERGOES EXTENSIVE HEPATIC METABOLISM AND CARRIES AN FDA WARNING FOR HEPATOTOXICITY; it is contraindicated in patients with acute hepatitis, decompensated liver disease/cirrhosis with elevated liver enzymes, or those taking opioids. (2) ACAMPROSATE (a glutamate/NMDA receptor modulator that restores GABA/glutamate balance) IS THE FIRST-LINE PHARMACOTHERAPY OF CHOICE IN PATIENTS WITH CHRONIC LIVER DISEASE OR CIRRHOSIS. Acamprosate is NOT metabolized by the liver and does not affect hepatic function; it is eliminated exclusively by the kidneys. Because this patient has underlying cirrhosis with transaminitis and hyperbilirubinemia, but normal renal function (eGFR > 90 mL/min), ACAMPROSATE IS COMPLETELY SAFE AND THE PREFERRED AGENT. (Note: Acamprosate requires dose reduction in moderate CKD [eGFR 30–50] and is contraindicated in severe CKD [eGFR < 30])."
+      },
+      {
+        "text": "Reassure the patient that pharmacotherapy is ineffective and mandate exclusive mutual-help group attendance",
+        "correct": false,
+        "explanation": "FDA-approved medications (acamprosate, naltrexone) combined with psychosocial counseling significantly increase abstinence rates and reduce relapse compared to counseling alone."
+      }
+    ],
+    "explanation": "The patient has severe alcohol use disorder and desires pharmacotherapy to prevent relapse and maintain abstinence. Selecting an anticraving agent requires careful evaluation of organ function: (1) NALTREXONE (an opioid mu-receptor antagonist) is a highly effective first-line anticraving agent, BUT IT UNDERGOES EXTENSIVE HEPATIC METABOLISM AND CARRIES AN FDA WARNING FOR HEPATOTOXICITY; it is contraindicated in patients with acute hepatitis, decompensated liver disease/cirrhosis with elevated liver enzymes, or those taking opioids. (2) ACAMPROSATE (a glutamate/NMDA receptor modulator that restores GABA/glutamate balance) IS THE FIRST-LINE PHARMACOTHERAPY OF CHOICE IN PATIENTS WITH CHRONIC LIVER DISEASE OR CIRRHOSIS. Acamprosate is NOT metabolized by the liver and does not affect hepatic function; it is eliminated exclusively by the kidneys. Because this patient has underlying cirrhosis with transaminitis and hyperbilirubinemia, but normal renal function (eGFR > 90 mL/min), ACAMPROSATE IS COMPLETELY SAFE AND THE PREFERRED AGENT. (Note: Acamprosate requires dose reduction in moderate CKD [eGFR 30–50] and is contraindicated in severe CKD [eGFR < 30]). Alcohol use disorder in patient with cirrhosis/liver disease + normal renal function -> choose ACAMPROSATE (renally cleared; naltrexone and disulfiram are hepatotoxic).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Alcohol Use Disorder Maintenance Pharmacotherapy.",
+    "keyPoints": [
+      "Alcohol Use Disorder Maintenance Pharmacotherapy",
+      "Alcohol use disorder in patient with cirrhosis/liver disease + normal renal function -> choose ACAMPROSATE (renally cleared; naltrexone and disulfiram are hepatotoxic)."
+    ],
+    "references": [
+      {
+        "label": "American Psychiatric Association. Practice Guideline for the Pharmacological Treatment of Patients With Alcohol Use Disorder. Am J Psychiatry. 2018;175(1):86-90. PMID: 29385935.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29385935/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0320",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Peripheral Artery Disease (PAD) Secondary Prevention",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old man presents to the clinic complaining of aching pain and tightness in his right calf that consistently begins after walking two blocks and forces him to stop; the pain resolves completely within 5 minutes of resting (intermittent claudication). He has a 35-pack-year smoking history and continues to smoke half a pack daily. He has a history of hypertension and hyperlipidemia. On physical examination, blood pressure is 134/80 mm Hg and heart rate is 70/min. Physical examination of the lower extremities reveals diminished right popliteal, dorsalis pedis, and posterior tibial pulses (1+) compared to the left (2+), with mild coolness and hair loss over the right lower shin, without resting ischemic pain or ulcerations. Ankle-brachial index (ABI) is 0.64 in the right lower extremity and 0.94 in the left lower extremity. Current medications are: amlodipine 5 mg daily and rosuvastatin 20 mg daily. The patient has a low baseline bleeding risk. Which of the following represents the most comprehensive evidence-based medical and functional management regimen for this patient?",
+    "options": [
+      {
+        "text": "Immediate referral for percutaneous transluminal angioplasty with bare-metal stenting of the right femoral artery",
+        "correct": false,
+        "explanation": "Revascularization (endovascular or surgical) is reserved for patients who fail a trial of guideline-directed medical therapy and supervised exercise, or who have chronic limb-threatening ischemia (rest pain/tissue loss)."
+      },
+      {
+        "text": "Warfarin anticoagulation targeting an INR of 2.5 to 3.5 combined with strict complete bed rest",
+        "correct": false,
+        "explanation": "High-intensity warfarin increases major bleeding without cardiovascular benefit over antiplatelet therapy in PAD, and bed rest causes rapid muscular deconditioning."
+      },
+      {
+        "text": "Oral cilostazol 100 mg twice daily as sole antithrombotic therapy without aspirin or statins",
+        "correct": false,
+        "explanation": "Cilostazol is a phosphodiesterase-3 inhibitor that relieves claudication symptoms, but provides zero secondary prevention against myocardial infarction, stroke, or cardiovascular mortality."
+      },
+      {
+        "text": "Prescribe oral pentoxifylline 400 mg three times daily and advise the patient to avoid all physical walking",
+        "correct": false,
+        "explanation": "Pentoxifylline has proven lack of clinical efficacy in multiple trials and is not recommended by guidelines; physical walking is the primary therapeutic mechanism to promote collaterals."
+      },
+      {
+        "text": "Dual-pathway antithrombotic therapy with aspirin 81 mg daily plus low-dose rivaroxaban 2.5 mg twice daily, high-intensity statin, smoking cessation, and a structured supervised exercise therapy program",
+        "correct": true,
+        "explanation": "The patient has symptomatic lower extremity peripheral artery disease (PAD) confirmed by intermittent claudication and an abnormal resting right ABI <= 0.90 (0.64). Patients with PAD have extensive systemic atherosclerosis and are at extraordinarily high risk for myocardial infarction, ischemic stroke, acute limb ischemia, and vascular amputation. According to updated ACC/AHA guidelines and the landmark COMPASS and VOYAGER-PAD randomized clinical trials: (1) DUAL-PATHWAY INHIBITION: The combination of low-dose aspirin (81–100 mg daily) PLUS very low-dose rivaroxaban (2.5 mg twice daily, a Factor Xa inhibitor) significantly reduces major adverse cardiovascular events (MACE: CV death, MI, stroke) by 24% and major adverse limb events (MALE: acute limb ischemia, major amputation) by 46% compared to aspirin alone in patients with PAD at low bleeding risk. (Alternatively, single antiplatelet therapy with clopidogrel is an established option). (2) High-intensity statin therapy (atorvastatin 80 mg or rosuvastatin 20–40 mg) reduces all-cause mortality and plaque progression. (3) Aggressive smoking cessation. (4) SUPERVISED EXERCISE THERAPY (SET): A formal 12-week program of supervised treadmill walking (minimum 30–45 min, 3 times weekly) is a Class 1 recommendation that dramatically increases pain-free and maximal walking distance via collateral vascular development."
+      }
+    ],
+    "explanation": "The patient has symptomatic lower extremity peripheral artery disease (PAD) confirmed by intermittent claudication and an abnormal resting right ABI <= 0.90 (0.64). Patients with PAD have extensive systemic atherosclerosis and are at extraordinarily high risk for myocardial infarction, ischemic stroke, acute limb ischemia, and vascular amputation. According to updated ACC/AHA guidelines and the landmark COMPASS and VOYAGER-PAD randomized clinical trials: (1) DUAL-PATHWAY INHIBITION: The combination of low-dose aspirin (81–100 mg daily) PLUS very low-dose rivaroxaban (2.5 mg twice daily, a Factor Xa inhibitor) significantly reduces major adverse cardiovascular events (MACE: CV death, MI, stroke) by 24% and major adverse limb events (MALE: acute limb ischemia, major amputation) by 46% compared to aspirin alone in patients with PAD at low bleeding risk. (Alternatively, single antiplatelet therapy with clopidogrel is an established option). (2) High-intensity statin therapy (atorvastatin 80 mg or rosuvastatin 20–40 mg) reduces all-cause mortality and plaque progression. (3) Aggressive smoking cessation. (4) SUPERVISED EXERCISE THERAPY (SET): A formal 12-week program of supervised treadmill walking (minimum 30–45 min, 3 times weekly) is a Class 1 recommendation that dramatically increases pain-free and maximal walking distance via collateral vascular development. Symptomatic PAD (claudication, ABI 0.64) -> Aspirin + low-dose rivaroxaban 2.5 mg BID (COMPASS trial dual-pathway) + high-intensity statin + supervised exercise therapy.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Peripheral Artery Disease (PAD) Secondary Prevention.",
+    "keyPoints": [
+      "Peripheral Artery Disease (PAD) Secondary Prevention",
+      "Symptomatic PAD (claudication, ABI 0.64) -> Aspirin + low-dose rivaroxaban 2.5 mg BID (COMPASS trial dual-pathway) + high-intensity statin + supervised exercise therapy."
+    ],
+    "references": [
+      {
+        "label": "Bonaca MP, et al. Rivaroxaban in Peripheral Artery Disease after Revascularization. N Engl J Med. 2020;382(21):1994-2004. PMID: 32222135.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32222135/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0321",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Metabolic Dysfunction-Associated Steatohepatitis (MASH / NASH)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 51-year-old man with type 2 diabetes mellitus, hypertension, and severe obesity (BMI 36.2 kg/m2) is referred to the hepatology clinic for evaluation of elevated liver enzymes discovered during routine checkup. He drinks no alcohol. Viral hepatitis serologies (HBsAg, anti-HCV) and autoimmune markers (ANA, ASMA) are negative. He has no stigmata of chronic liver disease. Laboratory evaluation reveals: - AST: 58 U/L - ALT: 74 U/L - Platelet count: 185,000/mm3 - Fasting blood glucose: 154 mg/dL - Hemoglobin A1c: 8.2%. The calculated Fibrosis-4 (FIB-4) index is 1.85 (indeterminate risk: 1.3–2.67). Follow-up vibration-controlled transient elastography (FibroScan) reveals liver stiffness of 9.2 kPa, consistent with significant fibrosis (stage F2–F3). Ultrasound confirms diffuse hepatic steatosis. Which of the following is the most appropriate evidence-based management strategy to halt or reverse hepatic fibrosis in this patient?",
+    "options": [
+      {
+        "text": "Structured lifestyle intervention targeting >= 7% to 10% total body weight loss, combined with a GLP-1 receptor agonist (such as semaglutide) or resmetirom for non-cirrhotic MASH with significant fibrosis",
+        "correct": true,
+        "explanation": "The patient has Metabolic Dysfunction-Associated Steatohepatitis (MASH, formerly NASH) with moderate-to-advanced hepatic fibrosis (stage F2–F3). Hepatic fibrosis stage is the single most important histological predictor of liver-related mortality and progression to cirrhosis in MASH. According to AASLD practice guidance: (1) LIFESTYLE WEIGHT LOSS: Achieving >= 7% to 10% total body weight loss is the cornerstone of therapy, resulting in resolution of steatohepatitis in > 80% of patients and regression of fibrosis in > 45%. (2) PHARMACOTHERAPY: In patients with type 2 diabetes and MASH, GLP-1 RECEPTOR AGONISTS (e.g., subcutaneous semaglutide) induce substantial weight loss, optimize glycemic control, reduce transaminases, and demonstrate resolution of steatohepatitis without worsening fibrosis. Furthermore, RESMETIROM (a liver-directed thyroid hormone receptor-beta [THR-beta] agonist approved for non-cirrhotic MASH with moderate-to-advanced fibrosis F2–F3) directly improves hepatic lipid clearance and promotes fibrosis regression."
+      },
+      {
+        "text": "Initiate high-dose oral vitamin E 800 IU daily as preferred monotherapy",
+        "correct": false,
+        "explanation": "While vitamin E improves histology in non-diabetic NASH, large clinical trials have shown lack of efficacy in patients with type 2 diabetes, and high-dose vitamin E carries increased risks of hemorrhagic stroke and prostate cancer."
+      },
+      {
+        "text": "Perform immediate exploratory laparoscopy with open wedge liver biopsy before lifestyle changes",
+        "correct": false,
+        "explanation": "Routine liver biopsy is unnecessary when non-invasive tests (FIB-4 followed by transient elastography) concordantly demonstrate significant F2–F3 fibrosis."
+      },
+      {
+        "text": "Prescribe daily oral ursodeoxycholic acid 15 mg/kg as sole hepatoprotective therapy",
+        "correct": false,
+        "explanation": "Multiple randomized placebo-controlled trials have demonstrated that ursodeoxycholic acid does not improve liver histology, steatohepatitis, or fibrosis in MASH/NASH."
+      },
+      {
+        "text": "Recommend strict avoidance of physical exercise to prevent muscle-derived hepatic transaminase release",
+        "correct": false,
+        "explanation": "Sedentary lifestyle accelerates insulin resistance and visceral adiposity; aerobic and resistance exercise is a core component of MASH management."
+      }
+    ],
+    "explanation": "The patient has Metabolic Dysfunction-Associated Steatohepatitis (MASH, formerly NASH) with moderate-to-advanced hepatic fibrosis (stage F2–F3). Hepatic fibrosis stage is the single most important histological predictor of liver-related mortality and progression to cirrhosis in MASH. According to AASLD practice guidance: (1) LIFESTYLE WEIGHT LOSS: Achieving >= 7% to 10% total body weight loss is the cornerstone of therapy, resulting in resolution of steatohepatitis in > 80% of patients and regression of fibrosis in > 45%. (2) PHARMACOTHERAPY: In patients with type 2 diabetes and MASH, GLP-1 RECEPTOR AGONISTS (e.g., subcutaneous semaglutide) induce substantial weight loss, optimize glycemic control, reduce transaminases, and demonstrate resolution of steatohepatitis without worsening fibrosis. Furthermore, RESMETIROM (a liver-directed thyroid hormone receptor-beta [THR-beta] agonist approved for non-cirrhotic MASH with moderate-to-advanced fibrosis F2–F3) directly improves hepatic lipid clearance and promotes fibrosis regression. Diabetic with MASH and F2-F3 fibrosis on transient elastography -> >= 7-10% weight loss + GLP-1 receptor agonist (semaglutide) or resmetirom to reverse fibrosis.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Metabolic Dysfunction-Associated Steatohepatitis (MASH / NASH).",
+    "keyPoints": [
+      "Metabolic Dysfunction-Associated Steatohepatitis (MASH / NASH)",
+      "Diabetic with MASH and F2-F3 fibrosis on transient elastography -> >= 7-10% weight loss + GLP-1 receptor agonist (semaglutide) or resmetirom to reverse fibrosis."
+    ],
+    "references": [
+      {
+        "label": "Rinella ME, et al. AASLD Practice Guidance on the Clinical Assessment and Management of Nonalcoholic Fatty Liver Disease. Hepatology. 2023;77(5):1797-1835. PMID: 36727674.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36727674/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0322",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Primary Aldosteronism Screening and Subtyping",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man is evaluated for refractory hypertension. Despite taking amlodipine 10 mg daily, valsartan 320 mg daily, and hydralazine 50 mg twice daily, his office blood pressure remains elevated at 158/98 mm Hg. He has had no chest pain, palpitations, or headaches. Routine serum electrolytes reveal: - Sodium: 142 mEq/L - Potassium: 3.1 mEq/L (spontaneous hypokalemia; baseline was 3.2 mEq/L 3 months ago) - Bicarbonate: 31 mEq/L - Serum creatinine: 0.9 mg/dL. He is screened for secondary hypertension. Spironolactone and eplerenone were never started. Screening reveals: - Plasma aldosterone concentration (PAC): 32 ng/dL (normal: 3–16 ng/dL) - Plasma renin activity (PRA): 0.4 ng/mL/hr (suppressed) - Aldosterone-to-renin ratio (ARR): 80 (positive screening cutoff: > 20–30 with PAC > 15 ng/dL). Confirmatory intravenous saline suppression testing confirms autonomous aldosterone secretion (post-infusion aldosterone remains elevated at 18 ng/dL). Contrast-enhanced thin-section CT of the adrenal glands demonstrates a 1.2-cm hypodense nodule in the left adrenal gland and a normal-appearing right adrenal gland. The surgical team prepares to schedule the patient for immediate left laparoscopic adrenalectomy. Which of the following is the most appropriate next step in the clinical management of this patient?",
+    "options": [
+      {
+        "text": "Proceed directly to left laparoscopic adrenalectomy based on the definitive CT visualization of a left adrenal nodule",
+        "correct": false,
+        "explanation": "Operating based on CT alone without AVS leads to inappropriate removal of a non-functioning nodule in patients with bilateral hyperplasia or contralateral microadenoma in up to 40% of cases."
+      },
+      {
+        "text": "Perform bilateral adrenal vein sampling (AVS) to differentiate unilateral adenoma from bilateral adrenal hyperplasia before considering surgical adrenalectomy",
+        "correct": true,
+        "explanation": "The patient has confirmed Primary Aldosteronism (Conn syndrome), characterized by resistant hypertension, spontaneous hypokalemia, metabolic alkalosis, suppressed plasma renin activity, and elevated plasma aldosterone concentration (ARR > 30), confirmed by failure to suppress aldosterone following saline loading. THE MANDATORY SUBTYPING RULE BEFORE ADRENAL SURGERY: Primary aldosteronism is caused either by a UNILATERAL ALDOSTERONE-PRODUCING ADENOMA (APA, ~35–40%, curable by laparoscopic adrenalectomy) or BILATERAL IDIOPATHIC ADRENAL HYPERPLASIA (IAH, ~60%, treated medically with spironolactone/eplerenone; surgery is contraindicated). CT IMAGING OF THE ADRENAL GLANDS IS NOTORIOUSLY UNRELIABLE FOR SUBTYPING: non-functioning incidental adrenal adenomas are extraordinarily common in patients > 35–40 years of age, and CT can misidentify a non-functioning nodule in a patient who actually has bilateral hyperplasia or a microadenoma in the contralateral gland in up to 40% of cases. Therefore, according to Endocrine Society guidelines, IN PATIENTS DESIRING SURGICAL CURE WHO ARE > 35 YEARS OF AGE, BILATERAL ADRENAL VEIN SAMPLING (AVS) IS THE GOLD STANDARD MANDATORY STEP to measure cortisol-corrected aldosterone secretion from each adrenal vein and confirm unilateral lateralization before performing adrenalectomy."
+      },
+      {
+        "text": "Initiate high-dose oral potassium chloride supplements and continue current antihypertensives without hormonal therapy",
+        "correct": false,
+        "explanation": "Potassium supplements treat hypokalemia symptomatically but fail to block mineralocorticoid receptor-mediated vascular and myocardial fibrosis driving cardiovascular morbidity."
+      },
+      {
+        "text": "Perform a 24-hour urinary free cortisol test to evaluate for subclinical Cushing syndrome",
+        "correct": false,
+        "explanation": "The patient has suppressed renin and high aldosterone with confirmed saline non-suppression; the diagnosis of primary aldosteronism is already firmly established."
+      },
+      {
+        "text": "Prescribe oral amiloride 10 mg daily and advise that surgical adrenalectomy has no proven benefit over medications",
+        "correct": false,
+        "explanation": "Unilateral aldosterone-producing adenomas achieve complete surgical cure of hypertension and hypokalemia in > 80% without lifelong medications; subtyping with AVS is essential."
+      }
+    ],
+    "explanation": "The patient has confirmed Primary Aldosteronism (Conn syndrome), characterized by resistant hypertension, spontaneous hypokalemia, metabolic alkalosis, suppressed plasma renin activity, and elevated plasma aldosterone concentration (ARR > 30), confirmed by failure to suppress aldosterone following saline loading. THE MANDATORY SUBTYPING RULE BEFORE ADRENAL SURGERY: Primary aldosteronism is caused either by a UNILATERAL ALDOSTERONE-PRODUCING ADENOMA (APA, ~35–40%, curable by laparoscopic adrenalectomy) or BILATERAL IDIOPATHIC ADRENAL HYPERPLASIA (IAH, ~60%, treated medically with spironolactone/eplerenone; surgery is contraindicated). CT IMAGING OF THE ADRENAL GLANDS IS NOTORIOUSLY UNRELIABLE FOR SUBTYPING: non-functioning incidental adrenal adenomas are extraordinarily common in patients > 35–40 years of age, and CT can misidentify a non-functioning nodule in a patient who actually has bilateral hyperplasia or a microadenoma in the contralateral gland in up to 40% of cases. Therefore, according to Endocrine Society guidelines, IN PATIENTS DESIRING SURGICAL CURE WHO ARE > 35 YEARS OF AGE, BILATERAL ADRENAL VEIN SAMPLING (AVS) IS THE GOLD STANDARD MANDATORY STEP to measure cortisol-corrected aldosterone secretion from each adrenal vein and confirm unilateral lateralization before performing adrenalectomy. Confirmed primary aldosteronism + age 44 + left adrenal nodule on CT -> perform bilateral adrenal vein sampling (AVS) to confirm lateralization before adrenalectomy.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Primary Aldosteronism Screening and Subtyping.",
+    "keyPoints": [
+      "Primary Aldosteronism Screening and Subtyping",
+      "Confirmed primary aldosteronism + age 44 + left adrenal nodule on CT -> perform bilateral adrenal vein sampling (AVS) to confirm lateralization before adrenalectomy."
+    ],
+    "references": [
+      {
+        "label": "Funder JW, et al. The Management of Primary Aldosteronism: Case Detection, Diagnosis, and Treatment: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2016;101(5):1889-1916. PMID: 26934393.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26934393/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0323",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Fibromyalgia Comprehensive Management",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 36-year-old woman presents to the clinic with widespread, diffuse musculoskeletal pain for the past 14 months. She describes the pain as a constant, deep aching and burning sensation involving her neck, upper back, lower back, hips, and anterior chest. She reports waking up feeling completely exhausted regardless of sleep duration, and describes significant 'brain fog' and cognitive fatigue that impairs her work as an accountant. She has tried over-the-counter ibuprofen and acetaminophen with no relief. On physical examination, there is no joint swelling, erythema, warmth, or deformity. Neurological examination reveals normal cranial nerves, normal 5/5 motor strength, normal sensation, and symmetric 2+ deep tendon reflexes. Palpation of soft tissues reveals widespread, exquisite tenderness at multiple bilateral anatomical locations (occiput, trapezius, supraspinatus, second rib, lateral epicondyle, gluteal, greater trochanter, and knee). Laboratory evaluation demonstrates: - ESR: 8 mm/hr (normal: < 20 mm/hr) - CRP: 0.2 mg/dL (normal: < 0.5 mg/dL) - TSH: 1.8 microU/mL - Complete blood count: normal - ANA and Rheumatoid Factor: negative. The patient is distressed, crying in the exam room, and states: 'A previous doctor told me it was all in my head and gave me tramadol, but I don't know what to do.' Which of the following represents the most appropriate initial management approach for this patient?",
+    "options": [
+      {
+        "text": "Initiate long-acting oral oxycodone 10 mg twice daily combined with short-acting hydromorphone for breakthrough pain",
+        "correct": false,
+        "explanation": "Chronic opioids are strictly contraindicated in fibromyalgia; they cause opioid-induced hyperalgesia, worsening central pain amplification, dependency, and cognitive blunting."
+      },
+      {
+        "text": "Administer a 6-week tapering course of oral prednisone 40 mg daily for systemic soft-tissue inflammation",
+        "correct": false,
+        "explanation": "Fibromyalgia is not an inflammatory or autoimmune disorder (ESR/CRP are normal); systemic corticosteroids have zero efficacy and cause severe metabolic and bone toxicities."
+      },
+      {
+        "text": "Patient education, validation of symptoms, initiation of a low-impact aerobic exercise program, and trial of an SNRI (duloxetine) or pregabalin, while strictly avoiding opioids",
+        "correct": true,
+        "explanation": "The patient meets American College of Rheumatology (ACR) diagnostic criteria for Fibromyalgia (widespread pain index >= 7 with symptom severity score >= 5, present for >= 3 months, without an alternative inflammatory or endocrine disorder). Fibromyalgia is a centralized pain disorder (nociplastic pain) characterized by central nervous system pain amplification, altered nociceptive processing, and deficient descending inhibitory pathways. According to ACR and EULAR guidelines, MANAGEMENT REQUIRES A MULTIMODAL STRATEGY: (1) EDUCATION AND SYMPTOM VALIDATION: Reassure the patient that fibromyalgia is a real neurobiological disorder (not 'in her head' or imaginary) with normal inflammatory markers. (2) NON-PHARMACOLOGIC THERAPY IS FIRST-LINE: Graded low-impact aerobic exercise (walking, swimming, aquatic therapy) and cognitive behavioral therapy (CBT) demonstrate the strongest and most durable evidence for reducing pain and fatigue. (3) PHARMACOTHERAPY: FDA-approved medications include SNRIs (DULOXETINE or milnacipran) and alpha-2-delta calcium channel ligands (PREGABALIN), which modulate central pain pathways. CRITICAL AVOIDANCE: OPIOIDS (including tramadol, oxycodone) AND BENZODIAZEPINES ARE STRONGLY CONTRAINDICATED because they do not treat central sensitization, cause opioid-induced hyperalgesia, and lead to dependency."
+      },
+      {
+        "text": "Order a full-body fluorodeoxyglucose PET-CT scan to localize occult soft-tissue inflammatory foci",
+        "correct": false,
+        "explanation": "PET-CT scan is not indicated for fibromyalgia and exposes the patient to unnecessary radiation without altering management."
+      },
+      {
+        "text": "Reassure the patient that all laboratory tests are normal and discharge without active treatment",
+        "correct": false,
+        "explanation": "Dismissing the patient's symptoms exacerbates distress and healthcare utilization; establishing the diagnosis, providing validation, and prescribing structured exercise/SNRIs are essential."
+      }
+    ],
+    "explanation": "The patient meets American College of Rheumatology (ACR) diagnostic criteria for Fibromyalgia (widespread pain index >= 7 with symptom severity score >= 5, present for >= 3 months, without an alternative inflammatory or endocrine disorder). Fibromyalgia is a centralized pain disorder (nociplastic pain) characterized by central nervous system pain amplification, altered nociceptive processing, and deficient descending inhibitory pathways. According to ACR and EULAR guidelines, MANAGEMENT REQUIRES A MULTIMODAL STRATEGY: (1) EDUCATION AND SYMPTOM VALIDATION: Reassure the patient that fibromyalgia is a real neurobiological disorder (not 'in her head' or imaginary) with normal inflammatory markers. (2) NON-PHARMACOLOGIC THERAPY IS FIRST-LINE: Graded low-impact aerobic exercise (walking, swimming, aquatic therapy) and cognitive behavioral therapy (CBT) demonstrate the strongest and most durable evidence for reducing pain and fatigue. (3) PHARMACOTHERAPY: FDA-approved medications include SNRIs (DULOXETINE or milnacipran) and alpha-2-delta calcium channel ligands (PREGABALIN), which modulate central pain pathways. CRITICAL AVOIDANCE: OPIOIDS (including tramadol, oxycodone) AND BENZODIAZEPINES ARE STRONGLY CONTRAINDICATED because they do not treat central sensitization, cause opioid-induced hyperalgesia, and lead to dependency. Widespread pain + fatigue + brain fog + normal ESR/CRP + multiple tender points -> Fibromyalgia -> validation + low-impact aerobic exercise + duloxetine/pregabalin (avoid opioids).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Fibromyalgia Comprehensive Management.",
+    "keyPoints": [
+      "Fibromyalgia Comprehensive Management",
+      "Widespread pain + fatigue + brain fog + normal ESR/CRP + multiple tender points -> Fibromyalgia -> validation + low-impact aerobic exercise + duloxetine/pregabalin (avoid opioids)."
+    ],
+    "references": [
+      {
+        "label": "Macfarlane GJ, et al. EULAR Revised Recommendations for the Management of Fibromyalgia. Ann Rheum Dis. 2017;76(2):318-328. PMID: 27377817.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27377817/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0324",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Restless Legs Syndrome (Willis-Ekbom Disease)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 48-year-old woman presents to the clinic complaining of an irresistible urge to move her legs that has disrupted her sleep for the past 6 months. She describes an uncomfortable 'creepy-crawly', pulling sensation deep within both calves that begins exclusively in the evening while resting on the couch watching television or lying in bed. The sensations and urge to move are temporarily relieved when she gets up and walks around the room or stretches her legs, but recur immediately when she lies back down. She has no chronic medical conditions and takes no medications. Physical examination, including complete neurological examination with motor strength, deep tendon reflexes, and sensory testing, is completely normal. Laboratory testing reveals: - Hemoglobin: 12.8 g/dL - Mean corpuscular volume (MCV): 86 fL - Serum creatinine: 0.8 mg/dL - Serum ferritin: 42 ng/mL (normal: 15–150 ng/mL; target in RLS: >= 75 ng/mL) - Serum iron: 68 mcg/dL - Total iron-binding capacity: 360 mcg/dL. The medical resident recommends immediately prescribing daily oral pramipexole (a dopamine agonist). According to current American Academy of Sleep Medicine (AASM) and International RLS Study Group guidelines, which of the following is the most appropriate management approach for this patient?",
+    "options": [
+      {
+        "text": "Initiate oral pramipexole 0.125 mg nightly as the uncontested first-line medication of choice",
+        "correct": false,
+        "explanation": "Dopamine agonists (pramipexole, ropinirole) are no longer first-line due to high rates of severe dopaminergic augmentation; alpha-2-delta ligands (gabapentin/pregabalin) are preferred."
+      },
+      {
+        "text": "Reassure the patient that her ferritin of 42 ng/mL is normal and iron replacement is contraindicated",
+        "correct": false,
+        "explanation": "In RLS, the threshold for iron deficiency is ferritin < 75 ng/mL (not the standard lab cutoff of 15–20 ng/mL); iron replacement is a primary disease-modifying treatment."
+      },
+      {
+        "text": "Initiate chronic oral carbidopa-levodopa 25/100 mg nightly before sleep",
+        "correct": false,
+        "explanation": "Levodopa carries the highest rate of dopaminergic augmentation (up to 70% within 1 year) and is reserved strictly for intermittent, on-demand use (e.g., long flights), never daily maintenance."
+      },
+      {
+        "text": "Initiate oral iron supplementation (ferrous sulfate with vitamin C) to achieve a serum ferritin >= 75 ng/mL, and prescribe an alpha-2-delta ligand (gabapentin or pregabalin) if pharmacotherapy is required",
+        "correct": true,
+        "explanation": "The patient meets the clinical diagnostic criteria for Restless Legs Syndrome (RLS, Willis-Ekbom disease): (1) an irresistible urge to move the legs, usually accompanied by uncomfortable sensations; (2) onset/worsening during rest or inactivity; (3) relief with movement; and (4) worsening in the evening/night. THE MANDATORY INITIAL INVESTIGATION IN ALL PATIENTS WITH RLS IS MEASURING SERUM FERRITIN. Central nervous system iron deficiency in the substantia nigra impairs dopaminergic neurotransmission and is a primary treatable driver of RLS. In patients with RLS, ORAL IRON SUPPLEMENTATION IS INDICATED IF SERUM FERRITIN IS < 75 NG/ML (even if ferritin is within the 'normal' general laboratory reference range > 15–20 ng/mL) with a target ferritin >= 75–100 ng/mL. FIRST-LINE PHARMACOTHERAPY SHIFT: While dopamine agonists (pramipexole, ropinirole) were historically first-line, modern guidelines now recommend ALPHA-2-DELTA CALCIUM CHANNEL LIGANDS (GABAPENTIN ENACARBIL, GABAPENTIN, OR PREGABALIN) AS FIRST-LINE PHARMACOTHERAPY. Dopamine agonists carry an extraordinarily high long-term risk (> 50–70% over 5–10 years) of DOPAMINERGIC AUGMENTATION—a severe drug-induced worsening where RLS symptoms begin earlier in the day, spread to arms, and become more intense."
+      },
+      {
+        "text": "Prescribe daily oral clonazepam 1 mg at bedtime as primary therapy",
+        "correct": false,
+        "explanation": "Clonazepam has weak efficacy, high risk of tolerance and dependency, and worsens sleep apnea and next-day grogginess; it is a secondary, low-preference option."
+      }
+    ],
+    "explanation": "The patient meets the clinical diagnostic criteria for Restless Legs Syndrome (RLS, Willis-Ekbom disease): (1) an irresistible urge to move the legs, usually accompanied by uncomfortable sensations; (2) onset/worsening during rest or inactivity; (3) relief with movement; and (4) worsening in the evening/night. THE MANDATORY INITIAL INVESTIGATION IN ALL PATIENTS WITH RLS IS MEASURING SERUM FERRITIN. Central nervous system iron deficiency in the substantia nigra impairs dopaminergic neurotransmission and is a primary treatable driver of RLS. In patients with RLS, ORAL IRON SUPPLEMENTATION IS INDICATED IF SERUM FERRITIN IS < 75 NG/ML (even if ferritin is within the 'normal' general laboratory reference range > 15–20 ng/mL) with a target ferritin >= 75–100 ng/mL. FIRST-LINE PHARMACOTHERAPY SHIFT: While dopamine agonists (pramipexole, ropinirole) were historically first-line, modern guidelines now recommend ALPHA-2-DELTA CALCIUM CHANNEL LIGANDS (GABAPENTIN ENACARBIL, GABAPENTIN, OR PREGABALIN) AS FIRST-LINE PHARMACOTHERAPY. Dopamine agonists carry an extraordinarily high long-term risk (> 50–70% over 5–10 years) of DOPAMINERGIC AUGMENTATION—a severe drug-induced worsening where RLS symptoms begin earlier in the day, spread to arms, and become more intense. Urge to move legs at night relieved by walking + ferritin 42 ng/mL (< 75) -> RLS -> oral iron to target ferritin >= 75 + alpha-2-delta ligand (gabapentin/pregabalin) first-line (avoid dopamine agonist augmentation).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Restless Legs Syndrome (Willis-Ekbom Disease).",
+    "keyPoints": [
+      "Restless Legs Syndrome (Willis-Ekbom Disease)",
+      "Urge to move legs at night relieved by walking + ferritin 42 ng/mL (< 75) -> RLS -> oral iron to target ferritin >= 75 + alpha-2-delta ligand (gabapentin/pregabalin) first-line (av"
+    ],
+    "references": [
+      {
+        "label": "Silber MH, et al. The Appropriate Use of Neurostimulation in Restless Legs Syndrome: An International Restless Legs Syndrome Study Group (IRLSSG) Consensus Guideline. Sleep Med. 2021;86:146-155. PMID: 34509748.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34509748/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0325",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Chronic Venous Insufficiency vs Lymphedema",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old woman presents to the clinic with bilateral lower leg swelling and heaviness that has progressed over the past 2 years. She states that her legs feel tired and ache by the end of the day, particularly after prolonged standing at her retail job, but the swelling improves significantly when she sleeps with her legs elevated on pillows. She has no shortness of breath, orthopnea, chest pain, or history of deep vein thrombosis. On physical examination, blood pressure is 126/78 mm Hg and heart rate is 70/min. Cardiopulmonary examination is normal without S3 gallop or crackles, and jugular venous pressure is normal. Examination of the lower extremities reveals bilateral 2+ pitting edema from the mid-calf down to the ankles. Sensation and peripheral arterial pulses (dorsalis pedis and posterior tibial) are normal (2+). There is prominent brown, rusty, hyperpigmented discoloration (hemosiderin deposition) around both malleoli and dilated, tortuous superficial varicosities over the medial calves. The skin of the dorsum of the feet can be easily pinched and lifted at the base of the second toe (negative Stemmer sign). Lower extremity venous duplex ultrasonography demonstrates retrograde flow > 0.5 seconds in the great saphenous veins bilaterally, with no acute or chronic deep venous thrombosis. The patient asks for a prescription for furosemide to 'get rid of the water in my legs'. Which of the following is the most appropriate management approach for this patient?",
+    "options": [
+      {
+        "text": "Initiate daily oral furosemide 40 mg to eliminate dependent lower extremity edema",
+        "correct": false,
+        "explanation": "Loop diuretics do not treat the underlying mechanical venous valvular incompetence; they deplete intravascular volume, causing pre-renal kidney injury and orthostasis."
+      },
+      {
+        "text": "Perform immediate urgent bilateral saphenous vein ligation and stripping under general anesthesia",
+        "correct": false,
+        "explanation": "Surgical stripping is invasive and largely obsolete; conservative compression therapy is first-line, and minimally invasive endovenous thermal ablation is reserved for refractory ulcers."
+      },
+      {
+        "text": "Administer oral cephalexin 500 mg four times daily for bilateral lower extremity cellulitis",
+        "correct": false,
+        "explanation": "Hemosiderin hyperpigmentation and venous stasis dermatitis are bilateral and non-infectious; misdiagnosing stasis as cellulitis leads to unnecessary, harmful antibiotic overuse."
+      },
+      {
+        "text": "Apply pneumatic compression boots continuously 24 hours a day with strict bed rest",
+        "correct": false,
+        "explanation": "Continuous bed rest causes muscle atrophy and promotes deep venous thrombosis; active ambulation while wearing compression stockings engages the calf muscle pump."
+      },
+      {
+        "text": "Prescribe graduated knee-high compression stockings (20 to 30 mm Hg), recommend leg elevation above the heart level, and avoid loop diuretics",
+        "correct": true,
+        "explanation": "The patient has Chronic Venous Insufficiency (CVI) manifested by dependent pitting edema, aching relieved by elevation, superficial varicosities, stasis dermatitis with hemosiderin hyperpigmentation (extravasation of red blood cells and iron deposition), and proven valvular reflux (> 0.5 seconds) on duplex ultrasound. (A negative Stemmer sign—ability to pinch skin on the dorsum of the toe—rules out lymphedema). THE CORNERSTONE OF CVI MANAGEMENT IS MECHANICAL COMPRESSION AND ELEVATION: (1) Graduated knee-high compression stockings (20–30 mm Hg) counteract elevated venous hydrostatic pressure, promote venous return, and relieve microvascular capillary hypertension; (2) Regular leg elevation above heart level for 30 minutes 3–4 times daily; and (3) Daily skin moisturizers (emollients) to prevent stasis ulceration. CRITICAL PHARMACOLOGIC MISCONCEPTION: LOOP DIURETICS (FUROSEMIDE) ARE INEFFECTIVE AND INAPPROPRIATE FOR PURE CHRONIC VENOUS INSUFFICIENCY in the absence of systemic volume overload (e.g., heart failure, cirrhosis). Diuretics deplete central intravascular volume without relieving localized venous valvular reflux, precipitating pre-renal azotemia, hypokalemia, and orthostatic hypotension."
+      }
+    ],
+    "explanation": "The patient has Chronic Venous Insufficiency (CVI) manifested by dependent pitting edema, aching relieved by elevation, superficial varicosities, stasis dermatitis with hemosiderin hyperpigmentation (extravasation of red blood cells and iron deposition), and proven valvular reflux (> 0.5 seconds) on duplex ultrasound. (A negative Stemmer sign—ability to pinch skin on the dorsum of the toe—rules out lymphedema). THE CORNERSTONE OF CVI MANAGEMENT IS MECHANICAL COMPRESSION AND ELEVATION: (1) Graduated knee-high compression stockings (20–30 mm Hg) counteract elevated venous hydrostatic pressure, promote venous return, and relieve microvascular capillary hypertension; (2) Regular leg elevation above heart level for 30 minutes 3–4 times daily; and (3) Daily skin moisturizers (emollients) to prevent stasis ulceration. CRITICAL PHARMACOLOGIC MISCONCEPTION: LOOP DIURETICS (FUROSEMIDE) ARE INEFFECTIVE AND INAPPROPRIATE FOR PURE CHRONIC VENOUS INSUFFICIENCY in the absence of systemic volume overload (e.g., heart failure, cirrhosis). Diuretics deplete central intravascular volume without relieving localized venous valvular reflux, precipitating pre-renal azotemia, hypokalemia, and orthostatic hypotension. Bilateral leg edema + hemosiderin staining + negative Stemmer sign + venous reflux > 0.5 s (CVI) -> graduated compression stockings (20-30 mm Hg) + leg elevation (avoid diuretics).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Chronic Venous Insufficiency vs Lymphedema.",
+    "keyPoints": [
+      "Chronic Venous Insufficiency vs Lymphedema",
+      "Bilateral leg edema + hemosiderin staining + negative Stemmer sign + venous reflux > 0.5 s (CVI) -> graduated compression stockings (20-30 mm Hg) + leg elevation (avoid diuretics)."
+    ],
+    "references": [
+      {
+        "label": "Gloviczki P, et al. The 2022 Society for Vascular Surgery, American Venous Forum, and American Vein and Lymphatic Society Clinical Practice Guidelines for the Management of Varicose Veins of the Lower Extremities. Part I. J Vasc Surg Venous Lymphat Disord. 2023;11(2):231-261. ...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36774136/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

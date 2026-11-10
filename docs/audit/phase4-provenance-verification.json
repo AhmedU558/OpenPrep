@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-30",
+  "npmRuntime": "C:/Program Files/nodejs/node_modules/npm/bin/npm-cli.js",
+  "results": [
+    {
+      "package": "@better-auth/utils@0.5.0",
+      "verified": true,
+      "sourceCommit": "f03c1c76aff7bfa3f4de4af47b112315c770a0d1",
+      "subjectSha512": "04bf16e047c8645c25bb4af9e26defd73b630e1bba7437bf6a62d39b4c726e66d968d81852a843dd28e902c9ead2af180fafe48b88b0220c4934b3ff3774f188",
+      "workflow": {
+        "ref": "refs/tags/v0.5.0",
+        "repository": "https://github.com/better-auth/utils",
+        "path": ".github/workflows/release.yml"
+      },
+      "url": "https://registry.npmjs.org/-/npm/v1/attestations/@better-auth%2futils@0.5.0",
+      "file": "docs/audit/phase4-provenance/d057f539e1c94384140ad225861e08014292fb5925c2a5db2720376e112e0865.json",
+      "sha256": "d057f539e1c94384140ad225861e08014292fb5925c2a5db2720376e112e0865",
+      "verifier": "npm bundled sigstore (trusted-root/transparency and certificate identity verification)"
+    }
+  ]
+}

@@ -1,0 +1,1079 @@
+import { CandidateSpec } from './types';
+
+export const step2Batch32: CandidateSpec[] = [
+  {
+    "code": "op-c-s2-0776",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Atrial Fibrillation Hemodynamic Stability Rate Control and CHA2DS2-VASc",
+    "provisionalDifficulty": 5,
+    "stem": "A 72-year-old woman with a history of hypertension, ischemic cardiomyopathy (LVEF 35%), and type 2 diabetes presents to the emergency department with a 4-hour history of acute palpitations, lightheadedness, and shortness of breath. On arrival, she is uncomfortable and diaphoretic. Vital signs: blood pressure 126/82 mm Hg, heart rate 148/min and irregularly irregular, respirations 20/min, and oxygen saturation 96% on room air. Cardiovascular examination reveals an irregularly irregular tachycardia with variable S1 intensity, flat neck veins, and clear lung fields bilaterally without peripheral edema. A 12-lead ECG demonstrates an irregularly irregular narrow-complex tachycardia with an absent P wave pattern and fibrillatory baseline at a ventricular rate of 146/min, confirming atrial fibrillation with rapid ventricular response (RVR). Serum electrolytes, thyroid-stimulating hormone (TSH), and high-sensitivity cardiac troponin I are completely normal. Which of the following represents the most appropriate management plan for acute ventricular rate control and long-term stroke prevention in this patient?",
+    "choices": [
+      [
+        "Intravenous beta-blocker therapy (such as metoprolol or esmolol) for acute ventricular rate control targeting resting heart rate < 110/min, combined with initiation of oral direct-acting oral anticoagulant (DOAC) therapy based on her CHA2DS2-VASc score of 5",
+        "ATRIAL FIBRILLATION (AF) management involves three fundamental pillars: (1) HEMODYNAMIC ASSESSMENT: If the patient is HEMODYNAMICALLY UNSTABLE (severe hypotension, shock, acute pulmonary edema, ongoing myocardial ischemia), IMMEDIATE SYNCHRONIZED ELECTRICAL CARDIOVERSION (100-200 Joules) is mandatory regardless of AF duration or anticoagulation status. In this patient, blood pressure is 126/82 mm Hg and she has no acute pulmonary edema, confirming HEMODYNAMIC STABILITY. (2) RATE VS RHYTHM CONTROL: For stable acute AF with RVR, the initial goal is VENTRICULAR RATE CONTROL. First-line agents include INTRAVENOUS BETA-BLOCKERS (METOPROLOL, ESMOLOL) OR NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS (DILTIAZEM). (However, in patients with HEART FAILURE WITH REDUCED EJECTION FRACTION [HFrEF, here LVEF 35%], beta-blockers or DIGOXIN/AMIODARONE are preferred, while non-dihydropyridine CCBs are avoided due to negative inotropic depression). The target resting heart rate is < 110 beats/min (lenient rate control, RACE II trial). (3) STROKE PREVENTION / ANTICOAGULATION: Thromboembolic risk is calculated using the CHA2DS2-VASC SCORE: C: Congestive heart failure (1 pt), H: Hypertension (1 pt), A2: Age >= 75 (2 pts), D: Diabetes mellitus (1 pt), S2: Prior Stroke/TIA/thromboembolism (2 pts), V: Vascular disease (1 pt), A: Age 65-74 (1 pt), Sc: Sex category female (1 pt). This patient's score is 5: CHF (1) + HTN (1) + Diabetes (1) + Age 72 (1) + Female (1). For a CHA2DS2-VASc score >= 2 in men or >= 3 in women, CHRONIC ORAL ANTICOAGULATION IS MANDATORY. DIRECT-ACTING ORAL ANTICOAGULANTS (DOACs: APIXABAN, RIVAROXABAN, EDOXABAN, DABIGATRAN) ARE STRONGLY PREFERRED OVER WARFARIN due to superior efficacy, lower intracranial hemorrhage rates, and no need for INR monitoring (warfarin is reserved for mechanical heart valves and moderate-to-severe mitral stenosis). Immediate cardioversion in a stable patient without 3 weeks of anticoagulation or transesophageal echocardiography (TEE) to rule out left atrial appendage thrombus is strictly contraindicated due to high embolic stroke risk."
+      ],
+      [
+        "Immediate emergency synchronized electrical cardioversion 200 Joules without prior anticoagulation",
+        "In a hemodynamically stable patient with AF of unknown or > 48 hours duration, immediate electrical cardioversion risks dislodging a left atrial appendage thrombus, causing massive ischemic stroke; rate control and anticoagulation must be instituted first."
+      ],
+      [
+        "Administration of oral aspirin 81 mg and clopidogrel 75 mg dual antiplatelet therapy for stroke prevention",
+        "Antiplatelet therapy (aspirin, clopidogrel) is significantly inferior to oral anticoagulation for stroke prevention in atrial fibrillation and does not reduce stroke in high-risk CHA2DS2-VASc >= 2 patients."
+      ],
+      [
+        "Immediate intravenous diltiazem bolus followed by infusion as the preferred first-line agent for acute rate control",
+        "Non-dihydropyridine calcium channel blockers (diltiazem, verapamil) exert potent negative inotropic effects and are relatively contraindicated in acute heart failure with reduced ejection fraction (LVEF 35%); beta-blockers are preferred."
+      ],
+      [
+        "Initiation of therapeutic subcutaneous enoxaparin bridging followed by life-long oral aspirin monotherapy",
+        "Aspirin monotherapy is ineffective for stroke prophylaxis in AF with CHA2DS2-VASc score of 5; oral anticoagulation with a DOAC is mandatory."
+      ]
+    ],
+    "shortestValidSolution": "Stable AF with RVR + LVEF 35% + CHA2DS2-VASc of 5 = IV Beta-blocker (metoprolol) for rate control + Oral DOAC (Apixaban/Rivaroxaban) for stroke prevention (NO immediate cardioversion without TEE).",
+    "necessaryInference": "Formulate atrial fibrillation strategy: hemodynamically stable AF requires ventricular rate control (IV beta-blockers) and oral anticoagulation (DOAC) based on CHA2DS2-VASc score >= 2; immediate cardioversion is reserved for instability.",
+    "strongestDistractor": "Immediate emergency synchronized electrical cardioversion 200 Joules without prior anticoagulation",
+    "distractorExclusion": "Cardioversion in a stable patient without 3 weeks of anticoagulation or TEE to exclude atrial thrombus carries high embolic stroke risk; rate control is preferred.",
+    "citation": "January CT, Wann LS, Calkins H, et al. 2019 AHA/ACC/HRS Focused Update of the 2014 AHA/ACC/HRS Guideline for the Management of Patients With Atrial Fibrillation. Circulation. 2019;140(2):e125-e151. PMID: 30686041.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Atrial Fibrillation Hemodynamic Stability Rate Control and CHA2DS2-VASc.",
+      "distractorExclusionNotes": "Competitor Immediate emergency synchronized electrical cardio excluded by Cardioversion in a stable patient without 3 weeks of anticoa.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0777",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Severe Acute Ulcerative Colitis Truelove and Witts Criteria Inpatient Management",
+    "provisionalDifficulty": 5,
+    "stem": "A 28-year-old woman with a 3-year history of ulcerative pancolitis presents to the emergency department with a 5-day history of severe bloody diarrhea, passing 10 to 12 liquid bowel movements daily containing gross red blood, mucus, and purulent exudate. She reports severe crampy lower abdominal pain, tenesmus, nausea, and chills. Her home maintenance therapy of oral mesalamine 4.8 g daily was discontinued 2 weeks ago due to an insurance lapse. On arrival, she appears toxic, pale, and exhausted. Vital signs: temperature 38.6\u00b0C (101.5\u00b0F), blood pressure 96/60 mm Hg, heart rate 118/min, and respirations 20/min. Physical examination reveals an uncomfortable woman with dry mucous membranes. Abdominal examination demonstrates diffuse lower abdominal tenderness to palpation with mild voluntary guarding, but NO RIGIDITY, REBOUND TENDERNESS, OR PERITONEAL SIGNS. Bowel sounds are present but hypoactive. Complete blood count demonstrates: hemoglobin 8.2 g/dL (normocytic), WBC 16,800/microL with 14% band forms, and platelets 480,000/microL. Inflammatory markers show: ESR 64 mm/hr (normal < 20 mm/hr) and C-reactive protein 78 mg/L. Stool multiplex PCR is negative for Clostridioides difficile, Salmonella, Shigella, Campylobacter, and Shiga toxins. An immediate plain abdominal radiograph shows a non-dilated transverse colon with a diameter of 3.8 cm (normal < 6.0 cm) and mucosal thumbprinting, ruling out toxic megacolon. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      [
+        "Immediate hospital admission, bowel rest, intravenous fluid resuscitation, intravenous high-dose corticosteroid therapy (methylprednisolone 60 mg daily), and flexible sigmoidoscopy to evaluate disease severity and cytomegalovirus (CMV) superinfection",
+        "ACUTE SEVERE ULCERATIVE COLITIS (ASUC) is a medical emergency occurring in up to 15-20% of patients with ulcerative colitis, defined by the TRUELOVE AND WITTS CRITERIA: (1) >= 6 BLOODY STOOLS PER DAY PLUS (2) AT LEAST ONE SIGN OF SYSTEMIC TOXICITY: Fever (temperature > 37.8\u00b0C / 100\u00b0F), Tachycardia (heart rate > 90 beats/min), Anemia (hemoglobin < 10.5 g/dL), or Elevated inflammatory markers (ESR > 30 mm/hr or CRP > 45 mg/L). This patient fulfills all criteria (> 10 bloody stools, fever 38.6\u00b0C, HR 118, Hb 8.2, ESR 64). Management protocol: (1) INPATIENT HOSPITAL ADMISSION: Mandatory admission with fluid/electrolyte resuscitation and chemical venous thromboembolism prophylaxis (cirrhotic and IBD flares have high DVT/PE risk); (2) EXCLUDE TOXIC MEGACOLON AND INFECTION: Plain abdominal radiography must be performed to rule out TOXIC MEGACOLON (defined as non-obstructive transverse colonic dilation >= 6.0 CM with systemic toxicity; risk of perforation). Stool testing must exclude C. DIFFICILE infection. (3) FIRST-LINE INTRAVENOUS PHARMACOTHERAPY: INTRAVENOUS SYSTEMIC CORTICOSTEROIDS (INTRAVENOUS METHYLPREDNISOLONE 60 MG DAILY or hydrocortisone 100 mg IV Q8H). High-dose IV steroids induce rapid mucosal remission in 65-70% of patients. (4) ENDOSCOPIC EVALUATION: LIMITED FLEXIBLE SIGMOIDOSCOPY (without bowel prep to avoid perforation) is performed to confirm severe mucosal ulceration and obtain mucosal biopsies for CYTOMEGALOVIRUS (CMV) SUPERINFECTION (intranuclear inclusions on IHC; CMV flare in steroid-refractory colitis requires IV ganciclovir). Crucially: FULL COLONOSCOPY IS STRICTLY CONTRAINDICATED IN ASUC due to high colonic perforation risk. (5) RESCUE THERAPY ON DAY 3 TO 5: Patients failing to respond by day 3-5 (Travis criteria: > 8 stools/day or CRP > 45) must receive RESCUE MEDICAL THERAPY with INFLIXIMAB (anti-TNF monoclonal antibody) or INTRAVENOUS CYCLOSPORINE, or proceed to EMERGENT SUBTOTAL COLECTOMY."
+      ],
+      [
+        "Perform an emergent full colonoscopy under deep sedation to visualize the terminal ileum and cecum",
+        "Full colonoscopy and aggressive bowel prep are strictly contraindicated in acute severe colitis due to high colonic perforation and toxic megacolon risks; limited flexible sigmoidoscopy without prep is the safe procedure."
+      ],
+      [
+        "Initiation of high-dose oral mesalamine 4.8 g daily and oral loperamide antidiarrheal therapy with outpatient discharge",
+        "Oral 5-ASA agents are ineffective in acute severe colitis; antimotility agents (loperamide, opioids) are strictly contraindicated because they precipitate lethal toxic megacolon."
+      ],
+      [
+        "Immediate emergency total proctocolectomy with end ileostomy on hospital day 1",
+        "Immediate surgery on day 1 is indicated only for perforation, massive refractory hemorrhage, or toxic megacolon; ~70% of ASUC patients respond to IV methylprednisolone, avoiding colectomy."
+      ],
+      [
+        "Administration of oral metronidazole and oral ciprofloxacin monotherapy without corticosteroids",
+        "Antibiotics have no proven benefit in uncomplicated ASUC flares and cannot replace intravenous corticosteroids as the primary disease-modifying therapy."
+      ]
+    ],
+    "shortestValidSolution": "Bloody stools > 10/day + fever + tachycardia + high ESR (Truelove & Witts criteria) = Acute severe ulcerative colitis -> Inpatient IV Methylprednisolone (60 mg/day) + Flexible sigmoidoscopy (NO full colonoscopy, NO loperamide).",
+    "necessaryInference": "Manage acute severe ulcerative colitis: Truelove and Witts criteria require inpatient admission, IV methylprednisolone, exclusion of toxic megacolon, and limited flexible sigmoidoscopy; avoid full colonoscopy and antimotility agents.",
+    "strongestDistractor": "Perform an emergent full colonoscopy under deep sedation to visualize the terminal ileum and cecum",
+    "distractorExclusion": "Full colonoscopy carries extreme perforation risk in acute severe colitis; limited flexible sigmoidoscopy without bowel preparation is the safe standard.",
+    "citation": "Rubin DT, Ananthakrishnan AN, Siegel CA, Sauer BG, Long MD. ACG Clinical Guideline: Ulcerative Colitis in Adults. Am J Gastroenterol. 2019;114(3):384-413. PMID: 30829983.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Severe Acute Ulcerative Colitis Truelove and Witts Criteria Inpatient Management.",
+      "distractorExclusionNotes": "Competitor Perform an emergent full colonoscopy under deep se excluded by Full colonoscopy carries extreme perforation risk in acute s.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0778",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Congenital Cytomegalovirus Periventricular Calcifications and Valganciclovir",
+    "provisionalDifficulty": 5,
+    "stem": "A male infant is born at 37 weeks of gestation to an 18-year-old primigravida who had inconsistent prenatal care. The birth weight is 2,150 g (small for gestational age, < 10th percentile), length is 44 cm, and head circumference is 30 cm (< 3rd percentile, microcephaly). Physical examination at 2 hours of life reveals a lethargic, jaundiced infant with hepatosplenomegaly. Dermatological examination demonstrates diffuse, dark bluish-purple, non-blanching macules and papules scattered across the face, trunk, and extremities ('blueberry muffin' rash). Complete blood count reveals: hemoglobin 11.2 g/dL, platelets 32,000/microL, and total bilirubin 8.4 mg/dL (direct bilirubin 5.6 mg/dL). Serum transaminases are elevated: AST 184 U/L and ALT 142 U/L. Newborn hearing screen reveals bilateral profound sensorineural hearing loss. Non-contrast head CT demonstrates microcephaly with prominent, dense, linear PERIVENTRICULAR CALCIFICATIONS outlining the lateral ventricles, with bilateral ventriculomegaly. Which of the following is the most appropriate diagnostic test to confirm the congenital etiology of this infant's infection, and what is the definitive pharmacotherapy?",
+    "choices": [
+      [
+        "Polymerase chain reaction (PCR) assay of urine or saliva for cytomegalovirus (CMV) DNA obtained within the first 2 to 3 weeks of life, followed by oral valganciclovir therapy",
+        "CONGENITAL CYTOMEGALOVIRUS (CMV) INFECTION is the most common congenital viral infection worldwide, affecting 0.5-1% of all live births. Transmission occurs transplacentally following maternal primary CMV infection (30-40% transmission rate) or maternal viral reactivation/re-infection. While > 85-90% of infected neonates are asymptomatic at birth (though 10-15% will develop late progressive sensorineural hearing loss), ~10% present with SEVERE SYMPTOMATIC CONGENITAL CMV INFECTION. Clinical presentation: (1) Intrauterine growth restriction (IUGR) and MICROCEPHALY; (2) NEUROLOGICAL: DENSE PERIVENTRICULAR CALCIFICATIONS (calcifications concentrated specifically along the subependymal lining of the lateral ventricles, the primary site of CMV neurotropism and germinal matrix replication; in contrast, CONGENITAL TOXOPLASMOSIS features DIFFUSE, SCATTERED INTRACEREBRAL CALCIFICATIONS throughout the brain cortex and basal ganglia), ventriculomegaly, polymicrogyria, and chorioretinitis; (3) SENSORINEURAL HEARING LOSS (SNHL): Congenital CMV is the LEADING NON-GENETIC CAUSE OF SENSORINEURAL DEAFNESS in children; (4) SYSTEMIC RETICULOENDOTHELIAL SIGNS: Hepatosplenomegaly, conjugated hyperbilirubinemia, elevated transaminases, thrombocytopenia with petechiae, and EXTRAMEDULLARY HEMATOPOIESIS IN THE DERMIS producing the classic purpuric 'BLUEBERRY MUFFIN' RASH. DIAGNOSTIC PRINCIPLE: TO CONFIRM CONGENITAL CMV, VIRAL DETECTION MUST OCCUR WITHIN THE FIRST 2 TO 3 WEEKS OF LIFE (<= 21 DAYS). The gold-standard diagnostic test is CMV DNA PCR IN URINE OR SALIVA. Testing performed after 3 weeks cannot distinguish true congenital infection from postnatally acquired CMV (e.g., via breast milk or birth canal), which does not carry long-term neurodevelopmental sequelae. MANAGEMENT: For symptomatic congenital CMV, FIRST-LINE PHARMACOTHERAPY IS ORAL VALGANCICLOVIR (16 mg/kg twice daily for 6 months). Oral valganciclovir (or IV ganciclovir) significantly improves hearing outcomes and prevents progressive neurodevelopmental decline."
+      ],
+      [
+        "Measurement of maternal serum CMV IgG antibody titer at 6 months of age and administration of oral acyclovir",
+        "Maternal IgG crosses the placenta and persists for months, making serology uninformative; acyclovir is ineffective against CMV (which requires valganciclovir/ganciclovir); testing must be done within 21 days."
+      ],
+      [
+        "Urine CMV culture at 6 months of age and observation without antiviral therapy",
+        "Testing after 3 weeks cannot prove congenital infection; untreated symptomatic CMV leads to severe progressive sensorineural hearing loss and mental retardation."
+      ],
+      [
+        "Perform an emergent lumbar puncture for Toxoplasma gondii IgM and initiate pyrimethamine and sulfadiazine",
+        "Toxoplasmosis features diffuse scattered cortical calcifications and obstructive hydrocephalus; periventricular calcifications and sensorineural deafness are the classic hallmarks of CMV."
+      ],
+      [
+        "Administration of intramuscular benzathine penicillin G for suspected congenital syphilis",
+        "Congenital syphilis presents with snuffles (rhinitis), hepatosplenomegaly, skeletal lesions (Wimberger sign), and interstitial keratitis/Hutchinson teeth, not periventricular brain calcifications."
+      ]
+    ],
+    "shortestValidSolution": "Microcephaly + PERIVENTRICULAR calcifications + sensorineural deafness + blueberry muffin rash = Congenital CMV -> Urine/Saliva CMV PCR within 2-3 weeks of life -> Oral Valganciclovir.",
+    "necessaryInference": "Differentiate TORCH infections: Congenital CMV causes periventricular calcifications, microcephaly, and sensorineural hearing loss; diagnose with urine/saliva PCR within 21 days; treat with oral valganciclovir.",
+    "strongestDistractor": "Perform an emergent lumbar puncture for Toxoplasma gondii IgM and initiate pyrimethamine and sulfadiazine",
+    "distractorExclusion": "Toxoplasmosis causes diffuse scattered calcifications, hydrocephalus, and chorioretinitis; periventricular calcifications and sensorineural hearing loss are pathognomonic for CMV.",
+    "citation": "Kimberlin DW, Jester PM, S\u00e1nchez PJ, et al. Valganciclovir for symptomatic congenital cytomegalovirus disease. N Engl J Med. 2015;372(10):933-943. PMID: 25738669.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Congenital Cytomegalovirus Periventricular Calcifications and Valganciclovir.",
+      "distractorExclusionNotes": "Competitor Perform an emergent lumbar puncture for Toxoplasma excluded by Toxoplasmosis causes diffuse scattered calcifications, hydro.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0779",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Small Bowel Obstruction Conservative vs Surgical Indications",
+    "provisionalDifficulty": 4,
+    "stem": "A 61-year-old woman presents to the emergency department with a 24-hour history of crampy, colicky periumbilical abdominal pain, severe nausea, and multiple episodes of bilious vomiting. Over the past 12 hours, she has been unable to tolerate any oral liquids and has had NO PASSAGE OF STOOL OR FLATUS (obstipation). Her surgical history is notable for an uncomplicated open appendectomy 20 years ago and a total abdominal hysterectomy 8 years ago. On arrival, she is uncomfortable and dehydrated. Vital signs: blood pressure 128/78 mm Hg, heart rate 88/min, respirations 18/min, and temperature 37.2\u00b0C (99.0\u00b0F). Abdominal examination reveals a moderately distended, tympanitic abdomen with well-healed midline and right lower quadrant surgical scars. Auscultation demonstrates high-pitched, hyperactive 'tinkling' bowel sounds with occasional rushes. Palpation reveals mild diffuse tenderness without voluntary guarding, rigidity, or rebound tenderness. Digital rectal examination reveals an empty rectal vault. Laboratory studies show: WBC 8,400/microL, serum lactate 1.2 mmol/L (normal < 2.0 mmol/L), serum potassium 3.6 mEq/L, BUN 24 mg/dL, and serum creatinine 1.0 mg/dL. Plain upright abdominal radiography demonstrates multiple dilated loops of small bowel (> 3.0 cm in diameter) arranged in a 'stepladder' pattern in the central abdomen with prominent air-fluid levels and a complete absence of gas in the colon and rectum. Which of the following is the most appropriate initial management strategy for this patient?",
+    "choices": [
+      [
+        "Hospital admission, nasogastric tube decompression, aggressive intravenous isotonic crystalloid fluid resuscitation, correction of electrolyte abnormalities, and serial abdominal physical examinations",
+        "ACUTE MECHANICAL SMALL BOWEL OBSTRUCTION (SBO) is a common surgical condition characterized by physical blockage of luminal transit through the small intestine. The leading cause (> 60-70% of cases in developed nations) is POSTOPERATIVE INTRA-ABDOMINAL ADHESIONS from previous surgeries (e.g., appendectomy, hysterectomy), followed by incarcerated hernias (15-20%) and malignancies. Clinical presentation features: colicky, crampy abdominal pain, profuse vomiting (bilious in proximal SBO, feculent in distal SBO), abdominal distension, and COMPLETE OBSTIPATION (failure to pass flatus or stool). Physical examination reveals hyperactive 'tinkling' bowel sounds early on, followed by hypoactive sounds. Plain abdominal radiography confirms SBO: DILATED SMALL BOWEL LOOPS (>= 3 CM), AIR-FLUID LEVELS in a stepladder pattern, and DECREASED OR ABSENT COLONIC GAS. MANAGEMENT PRINCIPLES: (1) INITIAL NON-OPERATIVE CONSERVATIVE MANAGEMENT: In patients with UNCOMPLICATED, ADHESIVE PARTIAL OR COMPLETE SBO who have NO SIGNS OF STRANGULATION OR ISCHEMIA, conservative management is successful in 70-80% of cases. The four pillars of conservative therapy are: (a) NASOGASTRIC (NG) TUBE DECOMPRESSION: evacuates trapped gastric secretions and swallowed air, decompressing the proximal bowel, relieving nausea/vomiting, and reducing aspiration risk; (b) INTRAVENOUS ISOTONIC CRYSTALLOID FLUID RESUSCITATION: replaces extensive third-space fluid losses; (c) ELECTROLYTE CORRECTION (potassium, chloride); (d) SERIAL CLINICAL ABDOMINAL EXAMINATIONS every 4-6 hours. Oral water-soluble contrast (Gastrografin) can be administered to evaluate contrast transit to the cecum and accelerate resolution. (2) INDICATIONS FOR IMMEDIATE EMERGENCY LAPAROTOMY/LAPAROSCOPY: Closed-loop obstruction, or signs of STRANGULATION, ISCHEMIA, OR PERFORATION: CONSTANT (NON-COLICKY) SEVERE PAIN, PERITONITIS (rigidity, rebound), FEVER, TACHYCARDIA, UNEXPLAINED LEUKOCYTOSIS, OR ELEVATED SERUM LACTATE."
+      ],
+      [
+        "Immediate emergency exploratory laparotomy under general anesthesia within 2 hours of arrival",
+        "Immediate surgery is indicated only for strangulated, ischemic, or perforated SBO (peritonitis, fever, high lactate, leukocytosis); this patient is stable and uncomplicated, where 75% resolve with conservative NG decompression."
+      ],
+      [
+        "Oral polyethylene glycol solution administration via nasogastric tube to flush the obstruction",
+        "Oral laxatives are strictly contraindicated in mechanical bowel obstruction because they hyperstimulate peristalsis against a closed obstruction, causing bowel perforation."
+      ],
+      [
+        "Diagnostic colonoscopy to visualize the ileocecal valve and decompress the small intestine",
+        "Colonoscopy is used for colonic pseudo-obstruction (Ogilvie syndrome) or volvulus; it cannot reach small bowel adhesive obstructions and carries high perforation risk."
+      ],
+      [
+        "Discharge home on oral antiemetics and clear liquid diet with surgical clinic follow-up in 1 week",
+        "Mechanical small bowel obstruction requires inpatient admission for IV fluid resuscitation, NG decompression, and monitoring for strangulation; outpatient management is unsafe."
+      ]
+    ],
+    "shortestValidSolution": "Postoperative adhesions + colicky pain + vomiting + obstipation + dilated small bowel with air-fluid levels (uncomplicated) = Small bowel obstruction -> Inpatient NG tube decompression + IV fluids + Serial exams.",
+    "necessaryInference": "Manage small bowel obstruction: uncomplicated adhesive SBO without peritonitis or ischemia is managed conservatively with NG tube decompression and IV fluids; emergency surgery is reserved for strangulation (peritonitis, fever, high lactate).",
+    "strongestDistractor": "Immediate emergency exploratory laparotomy under general anesthesia within 2 hours of arrival",
+    "distractorExclusion": "Routine immediate surgery exposes stable patients to unnecessary operative morbidity; conservative therapy succeeds in 75% of adhesive SBO cases.",
+    "citation": "Maung AA, Johnson DC, Piper GL, et al. Evaluation and management of small-bowel obstruction: an Eastern Association for the Surgery of Trauma practice management guideline. J Trauma Acute Care Surg. 2012;73(5 Suppl 4):S362-S369. PMID: 23114494.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Small Bowel Obstruction Conservative vs Surgical Indications.",
+      "distractorExclusionNotes": "Competitor Immediate emergency exploratory laparotomy under g excluded by Routine immediate surgery exposes stable patients to unneces.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0780",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PPROM at 32 Weeks Latency Antibiotics Betamethasone and Delivery",
+    "provisionalDifficulty": 5,
+    "stem": "A 28-year-old multigravida (gravida 2, para 1) at 32 weeks and 2 days of gestation presents to the labor and delivery triage unit reporting a sudden, involuntary gush of clear, watery fluid from her vagina that occurred while sitting on the couch 3 hours ago, followed by persistent fluid trickling. She reports no uterine contractions, vaginal bleeding, abdominal pain, fever, or chills. Fetal movement has been active and normal. On arrival, vital signs: temperature 37.1\u00b0C (98.8\u00b0F), blood pressure 112/68 mm Hg, heart rate 78/min, and respirations 16/min. Abdominal examination demonstrates a gravid uterus consistent with 32 weeks with a completely soft, non-tender, relaxed fundus. Continuous cardiotocography shows a reassuring baseline fetal heart rate of 142/min with moderate variability, positive accelerations, and no decelerations (Category 1 tracing), with no uterine contractions on the tocodynamometer. A STERILE SPECULUM EXAMINATION is performed (STRICTLY AVOIDING DIGITAL CERVICAL EXAMINATION). Speculum inspection reveals clear amniotic fluid pooling in the posterior vaginal fornix; nitrazine paper turns deep blue (alkaline pH > 6.5), and microscopic examination of the dried fluid demonstrates an arborizing ferning pattern. Maternal complete blood count is normal (WBC 8,600/microL). Transabdominal ultrasound reveals oligohydramnios (amniotic fluid index 3.8 cm) with a cephalic fetus and normal anatomy. Which of the following is the most appropriate management plan for this patient?",
+    "choices": [
+      [
+        "Inpatient hospital admission, administration of latency antibiotics (intravenous ampicillin and erythromycin/azithromycin), intramuscular betamethasone for fetal lung maturity, and expectant management with planned delivery at 34 weeks of gestation",
+        "PRETERM PREMATURE RUPTURE OF MEMBRANES (PPROM) is defined as spontaneous rupture of the fetal membranes PRIOR TO 37 WEEKS OF GESTATION and before the onset of labor, complicating approximately 3% of all pregnancies. DIAGNOSTIC PRINCIPLES: (1) STRICTLY AVOID DIGITAL CERVICAL EXAMINATION: Digital vaginal examination introduces vaginal flora through the open cervix into the amniotic cavity, dramatically increasing the risk of intra-amniotic infection (chorioamnionitis) and shortening the latency period; (2) STERILE SPECULUM EXAMINATION is the diagnostic standard, confirming PPROM by the classic triad: (a) Clear fluid pooling in the posterior fornix, (b) NITRAZINE TEST POSITIVE (amniotic fluid is alkaline [pH 7.0-7.5], turning yellow nitrazine paper deep BLUE; false positives from semen, blood, or bacterial vaginosis), (c) FERNING TEST POSITIVE (sodium chloride crystallization of dried amniotic fluid on glass slide produces an arborizing fern-like pattern under microscopy). MANAGEMENT PROTOCOL BASED ON GESTATIONAL AGE: (1) PPROM AT < 34 WEEKS OF GESTATION (here, 32 weeks) WITHOUT INFECTION OR FETAL COMPROMISE: EXPECTANT MANAGEMENT WITH INPATIENT ADMISSION IS MANDATORY to allow continued fetal maturation: (a) LATENCY ANTIBIOTICS: Intravenous ampicillin (2 g Q6H) and intravenous erythromycin (or oral azithromycin 1 g) for 48 hours, followed by oral amoxicillin and erythromycin to complete a 7-DAY COURSE. Latency antibiotics prolong the interval to delivery (reducing prematurity), reduce maternal chorioamnionitis, and decrease neonatal complications (RDS, necrotizing enterocolitis, sepsis). (b) ANTENATAL CORTICOSTEROIDS: INTRAMUSCULAR BETAMETHASONE (12 mg IM every 24 hours for 2 doses) administered between 24 and 34 weeks to accelerate fetal pulmonary surfactant synthesis and reduce intraventricular hemorrhage and neonatal mortality. (c) MAGNESIUM SULFATE FOR NEUROPROTECTION: Given if delivery is anticipated before 32 weeks. (2) DELIVERY TIMING: In the absence of infection or fetal distress, EXPECTANT MANAGEMENT CONTINUES UNTIL 34 0/7 WEEKS OF GESTATION, AT WHICH POINT DELIVERY IS INDUCED (risks of prematurity are outweighed by risks of intrauterine infection after 34 weeks). Immediate delivery at ANY gestational age is indicated only for overt chorioamnionitis, placental abruption, or non-reassuring fetal status."
+      ],
+      [
+        "Immediate emergency induction of labor with intravenous oxytocin or cesarean section at 32 weeks",
+        "Immediate delivery at 32 weeks in the absence of infection or fetal distress results in severe neonatal prematurity complications (RDS, IVH); expectant management until 34 weeks with latency antibiotics is standard."
+      ],
+      [
+        "Immediate administration of intravenous tocolytics (magnesium sulfate and indomethacin) for 14 days to stop all potential contractions",
+        "Prophylactic tocolysis in PPROM does not improve neonatal outcomes and can mask clinical chorioamnionitis; tocolysis is not recommended beyond 48 hours for steroid completion."
+      ],
+      [
+        "Perform a digital cervical examination to accurately measure cervical dilation and station",
+        "Digital cervical examination in PPROM is strictly contraindicated because it introduces vaginal pathogens directly into the uterus, triggering acute chorioamnionitis and premature labor."
+      ],
+      [
+        "Prescribe outpatient oral cephalexin and bed rest at home with scheduled induction of labor at 39 weeks",
+        "PPROM requires continuous inpatient monitoring for maternal fever and fetal compromise; outpatient management carries high stillbirth risk, and delivery is indicated at 34 weeks, not 39 weeks."
+      ]
+    ],
+    "shortestValidSolution": "PPROM at 32 weeks + speculum confirms fluid pooling/nitrazine/ferning (NO digital exam) = Inpatient expectant management: Latency Antibiotics (Ampicillin/Erythromycin) + IM Betamethasone + Delivery at 34 weeks.",
+    "necessaryInference": "Formulate PPROM management at < 34 weeks: confirm diagnosis by sterile speculum examination (avoid digital exam); administer latency antibiotics and antenatal corticosteroids, with planned delivery at 34 weeks.",
+    "strongestDistractor": "Immediate emergency induction of labor with intravenous oxytocin or cesarean section at 32 weeks",
+    "distractorExclusion": "Delivering at 32 weeks without infection increases neonatal mortality from severe prematurity; expectant management with latency antibiotics until 34 weeks improves outcomes.",
+    "citation": "American College of Obstetricians and Gynecologists' Committee on Practice Bulletins\u2014Obstetrics. Practice Bulletin No. 217: Prelabor Rupture of Membranes. Obstet Gynecol. 2020;135(3):e80-e97. PMID: 32080050.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating PPROM at 32 Weeks Latency Antibiotics Betamethasone and Delivery.",
+      "distractorExclusionNotes": "Competitor Immediate emergency induction of labor with intrav excluded by Delivering at 32 weeks without infection increases neonatal .",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0781",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Acute Gouty Arthritis Arthrocentesis Crystals and Acute Flare Management",
+    "provisionalDifficulty": 4,
+    "stem": "A 54-year-old man presents to the urgent care clinic with sudden, severe pain, swelling, and redness in his left great toe that awoke him from sleep 6 hours ago. He describes the pain as agonizing and states that even the weight of a bedsheet touching his toe is unbearable. He attended a seafood banquet with heavy beer consumption the previous evening. His past medical history is notable for hypertension, stage 3 chronic kidney disease (baseline serum creatinine 2.1 mg/dL, eGFR 34 mL/min/1.73 m2), and recurrent gouty arthritis, for which he has taken oral allopurinol 200 mg daily for the past 2 years. Physical examination reveals an exquisitely tender, warm, swollen, erythematous left first metatarsophalangeal (MTP) joint (podagra) with shiny overlying skin and loss of joint range of motion. Systemic vital signs: temperature 37.8\u00b0C (100.0\u00b0F), blood pressure 146/92 mm Hg, and heart rate 88/min. Arthrocentesis of the left first MTP joint yields cloudy synovial fluid: WBC count 48,000/microL with 88% neutrophils; polarized light microscopy reveals NEEDLE-SHAPED, STRONGLY NEGATIVELY BIREFRINGENT CRYSTALS located intracellularly within neutrophils. Gram stain is negative. Which of the following is the most appropriate management plan for this patient's acute flare?",
+    "choices": [
+      [
+        "Oral systemic corticosteroid therapy (or intra-articular corticosteroid injection) for acute flare management, with continuation of his baseline allopurinol at its current dose without interruption or dose modification",
+        "GOUT is a crystalline arthropathy caused by the precipitation of MONOSODIUM URATE (MSU) crystals in synovial fluid and soft tissues when serum uric acid exceeds its physiological solubility limit (> 6.8 mg/dL). An acute flare is triggered by abrupt fluctuations in serum uric acid (alcohol, purine-rich meats/seafood, trauma, or starting/stopping urate-lowering therapy). The classic clinical hallmark is PODAGRA (acute monoarthritis of the first metatarsophalangeal joint, affected in > 50% of initial attacks). Arthrocentesis and polarizing microscopy confirm the diagnosis: NEEDLE-SHAPED, INTENSELY NEGATIVELY BIREFRINGENT CRYSTALS (parallel crystals appear yellow, perpendicular crystals appear blue under a compensator). MANAGEMENT OF AN ACUTE FLARE: (1) FIRST-LINE ACUTE ANTI-INFLAMMATORY THERAPY: Three drug classes are effective for acute attacks: NSAIDs (naproxen, indomethacin), ORAL COLCHICINE, and CORTICOSTEROIDS (oral prednisone or intra-articular triamcinolone). CRITICAL CONTRAINDICATION MATCHING: This patient has STAGE 3 CHRONIC KIDNEY DISEASE (creatinine 2.1 mg/dL): (a) NSAIDs are STRICTLY CONTRAINDICATED in CKD because they inhibit renal vasodilatory prostaglandins, precipitating acute renal failure and hyperkalemia; (b) Colchicine is largely eliminated renally; in CKD, colchicine accumulates and causes fatal neuromyopathy and bone marrow suppression (must be avoided or severely dose-reduced). Therefore, SYSTEMIC CORTICOSTEROIDS (oral prednisone 30-40 mg daily for 5 days, or intra-articular injection) ARE THE FIRST-LINE AGENTS OF CHOICE IN PATIENTS WITH RENAL INSUFFICIENCY, HEART FAILURE, OR CIRRHOSIS. (2) ALLOPURINOL MANAGEMENT DURING AN ACUTE FLARE: If a patient is ALREADY TAKING A STABLE DOSE OF A URATE-LOWERING DRUG (ALLOPURINOL OR FEBUXOSTAT) AT THE TIME OF AN ACUTE FLARE: ALLOPURINOL MUST BE CONTINUED AT THE EXACT SAME DOSE WITHOUT INTERRUPTION. Abruptly stopping allopurinol causes a sharp rebound surge in serum uric acid, destabilizing joint crystals and prolonging/worsening the acute flare. Conversely, allopurinol should NOT be initiated de novo during an acute flare (initiated 2-4 weeks after complete flare resolution under anti-inflammatory prophylaxis)."
+      ],
+      [
+        "Immediate discontinuation of allopurinol, and initiation of high-dose oral indomethacin 50 mg three times daily",
+        "NSAIDs (indomethacin) are strictly contraindicated in stage 3 CKD due to acute tubular/hemodynamic nephrotoxicity; stopping allopurinol destabilizes serum urate and worsens the flare."
+      ],
+      [
+        "Escalate allopurinol from 200 mg to 600 mg daily immediately to dissolve the synovial crystals rapidly",
+        "Increasing allopurinol dose during an acute flare abruptly drops serum uric acid, accelerating crystal dissolution from tophi and triggering severe rebound polyarticular flares."
+      ],
+      [
+        "Initiation of high-dose oral colchicine 1.2 mg followed by 0.6 mg every hour until diarrhea develops",
+        "Colchicine hourly dosing to toxicity is an obsolete, dangerous practice; in stage 3 CKD, colchicine accumulates, causing life-threatening rhabdomyolysis and pancytopenia."
+      ],
+      [
+        "Immediate operative arthrotomy and debridement under general anesthesia",
+        "Gout is a non-infectious crystalline arthropathy that resolves with medical anti-inflammatory therapy; surgical joint debridement is reserved for septic arthritis."
+      ]
+    ],
+    "shortestValidSolution": "Acute gout in patient with CKD (Cr 2.1) on baseline allopurinol = Oral Corticosteroids (avoid NSAIDs and colchicine in CKD) + CONTINUE baseline allopurinol at same dose.",
+    "necessaryInference": "Manage acute gout flares: in patients with renal insufficiency, systemic corticosteroids are preferred over NSAIDs and colchicine; continue baseline urate-lowering therapy (allopurinol) at the exact same dose during an acute flare.",
+    "strongestDistractor": "Immediate discontinuation of allopurinol, and initiation of high-dose oral indomethacin 50 mg three times daily",
+    "distractorExclusion": "Stopping allopurinol during a flare exacerbates crystal shedding and prolongs the attack; indomethacin is contraindicated in stage 3 chronic kidney disease.",
+    "citation": "FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760. PMID: 32391934.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Acute Gouty Arthritis Arthrocentesis Crystals and Acute Flare Management.",
+      "distractorExclusionNotes": "Competitor Immediate discontinuation of allopurinol, and init excluded by Stopping allopurinol during a flare exacerbates crystal shed.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0782",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Tumor Lysis Syndrome Prophylaxis Rasburicase and Hydration",
+    "provisionalDifficulty": 5,
+    "stem": "A 19-year-old man with newly diagnosed, high-grade Burkitt lymphoma is admitted to the hematology-oncology service for initiation of induction chemotherapy. Baseline laboratory studies reveal: WBC 88,000/microL, LDH 3,450 U/L (normal 140-280 U/L), serum uric acid 11.2 mg/dL (normal 3.5-7.2 mg/dL), serum potassium 4.4 mEq/L, serum phosphorus 4.8 mg/dL, serum calcium 9.0 mg/dL, and serum creatinine 1.0 mg/dL. He has a massive retroperitoneal tumor burden measuring 14 cm on abdominal CT. The hematology team discusses the high risk of acute tumor lysis syndrome (TLS) following the administration of systemic chemotherapy. Which of the following prophylactic regimens is the most effective and appropriate intervention to prevent life-threatening hyperuricemia, acute uric acid nephropathy, and acute kidney injury in this high-risk patient?",
+    "choices": [
+      [
+        "Aggressive intravenous hydration with isotonic crystalloids (3 L/m2/day) targeting high urine output, combined with intravenous rasburicase (recombinant urate oxidase)",
+        "TUMOR LYSIS SYNDROME (TLS) is an oncological emergency caused by massive, rapid lysis of neoplastic cells and the spilling of intracellular contents into the bloodstream. It occurs most commonly in HEMATOLOGICAL MALIGNANCIES WITH HIGH TUMOR PROLIFERATION RATES AND LARGE BURDEN (BURKITT LYMPHOMA, ACUTE LYMPHOBLASTIC LEUKEMIA [ALL], and high-grade AML) within 12 to 72 hours of starting cytotoxic chemotherapy. Pathophysiology and Cairo-Bishop diagnostic laboratory criteria: (1) HYPERURICEMIA (uric acid >= 8.0 mg/dL): Massive nucleic acid purine catabolism generates uric acid, which precipitates in renal tubules at acidic pH, causing acute obstructive uric acid nephropathy; (2) HYPERKALEMIA (potassium >= 6.0 mEq/L): Lysis releases intracellular K+, triggering fatal cardiac arrhythmias; (3) HYPERPHOSPHATEMIA (phosphorus >= 4.5 mg/dL): Malignant cells contain 4 times more organic phosphate than normal cells; excess phosphate complexes with circulating calcium to form calcium phosphate crystals in renal parenchyma (nephrocalcinosis) and cardiac conduction systems; (4) HYPOCALCEMIA (corrected calcium <= 7.0 mg/dL): Secondary to phosphate precipitation, causing tetany, seizures, QT prolongation. CLINICAL RISK STRATIFICATION AND MANAGEMENT: (1) HIGH-RISK TLS (Burkitt lymphoma, WBC > 100,000, LDH > 2x ULN, preexisting baseline hyperuricemia/renal impairment): (a) VIGOROUS INTRAVENOUS ISOTONIC HYDRATION (2.5-3.0 L/m2/day or 4-5 L/day), targeting high urine output (> 100 mL/m2/hr); (b) INTRAVENOUS RASBURICASE: A recombinant URATE OXIDASE enzyme that catalyzes the enzymatic conversion of poorly soluble URIC ACID INTO ALLANTOIN. Allantoin is 5 to 10 times more water-soluble than uric acid and is easily excreted in urine without precipitating. Rasburicase CLEARS PREEXISTING URIC ACID within 4 hours and prevents new accumulation. (Rasburicase is contraindicated in G6PD deficiency due to methemoglobinemia and hemolysis risks). (2) INTERMEDIATE-RISK TLS: Oral ALLOPURINOL (xanthine oxidase inhibitor) plus IV fluids is appropriate. Crucially: ALLOPURINOL ONLY PREVENTS NEW URIC ACID SYNTHESIS; IT DOES NOT BREAK DOWN PREEXISTING CIRCULATING URIC ACID. (3) URINARY ALKALINIZATION WITH SODIUM BICARBONATE IS STRICTLY NO LONGER RECOMMENDED because alkaline urine promotes CALCIUM PHOSPHATE PRECIPITATION in renal tubules, accelerating acute renal failure."
+      ],
+      [
+        "Oral allopurinol 300 mg daily and oral sodium bicarbonate tablets targeting urine pH > 8.0",
+        "Allopurinol does not break down preexisting elevated uric acid (11.2 mg/dL); urinary alkalinization with sodium bicarbonate promotes calcium phosphate crystallization in renal tubules and is obsolete."
+      ],
+      [
+        "Fluid restriction to 1 liter daily and continuous low-dose loop diuretic infusion to prevent congestive heart failure",
+        "Fluid restriction is catastrophic in TLS, promoting tubular crystallization and acute anuric renal failure; aggressive fluid loading is mandatory."
+      ],
+      [
+        "Immediate placement of an indwelling double-lumen catheter for prophylactic continuous venovenous hemodialysis before chemotherapy",
+        "Prophylactic hemodialysis is unnecessary when medical management with aggressive hydration and rasburicase successfully prevents renal failure; dialysis is reserved for refractory electrolyte crises."
+      ],
+      [
+        "Administration of high-dose intravenous calcium gluconate boluses every 4 hours to prevent hypocalcemic tetany",
+        "Intravenous calcium should be avoided in asymptomatic hypocalcemia in TLS because exogenous calcium combines with elevated phosphate, driving metastatic calcium phosphate tissue precipitation; calcium is given only for symptomatic tetany or life-threatening hyperkalemic cardiotoxicity."
+      ]
+    ],
+    "shortestValidSolution": "Burkitt lymphoma + LDH 3450 + Uric acid 11.2 = High-Risk Tumor Lysis Syndrome -> Aggressive IV hydration (3 L/m2/day) + IV Rasburicase (cleaves uric acid to soluble allantoin; NO bicarbonate).",
+    "necessaryInference": "Prevent and manage tumor lysis syndrome: high-risk TLS (Burkitt, high LDH, preexisting hyperuricemia) requires vigorous IV hydration and rasburicase; avoid urinary alkalinization due to calcium phosphate precipitation.",
+    "strongestDistractor": "Oral allopurinol 300 mg daily and oral sodium bicarbonate tablets targeting urine pH > 8.0",
+    "distractorExclusion": "Allopurinol only blocks new synthesis and cannot degrade existing uric acid; sodium bicarbonate alkalinizes urine, which promotes nephrotoxic calcium phosphate precipitation.",
+    "citation": "Coiffier B, Altman A, Pui CH, Younes A, Cairo MS. Guidelines for the management of pediatric and adult tumor lysis syndrome: an evidence-based review. J Clin Oncol. 2008;26(16):2767-2778. PMID: 18509186.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Tumor Lysis Syndrome Prophylaxis Rasburicase and Hydration.",
+      "distractorExclusionNotes": "Competitor Oral allopurinol 300 mg daily and oral sodium bica excluded by Allopurinol only blocks new synthesis and cannot degrade exi.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0783",
+    "exam": "Step 2 CK",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "ALS Clinical Management Riluzole and Non-Invasive Ventilation",
+    "provisionalDifficulty": 5,
+    "stem": "A 58-year-old man presents with a 7-month history of progressive weakness in his left hand that has now spread to his left arm and right hand, making it difficult to button shirts and turn keys. He reports frequent painful muscle cramps and twitching in his arms, chest, and thighs. Over the past 2 months, he has developed mild dysarthria, difficulty swallowing liquids with coughing, and morning headaches with daytime fatigue. Physical examination reveals an alert, cognitively intact man. Cranial nerve examination demonstrates tongue atrophy with prominent fasciculations and spastic dysarthria. Motor examination reveals marked atrophy of the left first dorsal interosseous and thenar muscles, with widespread visible fasciculations in the deltoids, biceps, and quadriceps. Paradoxically, his left biceps reflex is hyperactive (3+), left patellar reflex is 4+ with sustained ankle clonus, and there is a positive Babinski sign on the left. Sensory examination is completely normal to light touch, pinprick, vibration, and proprioception. Extraocular movements and bowel/bladder sphincteric tone are fully preserved. Electromyography (EMG) confirms widespread active denervation (fibrillations and positive sharp waves) and chronic reinnervation (large-amplitude, long-duration motor unit potentials) across four anatomical regions (bulbar, cervical, thoracic, and lumbosacral). Forced vital capacity (FVC) in the seated position is 68% of predicted, dropping to 52% in the supine position (orthopnea due to diaphragmatic weakness). Which of the following represents the most appropriate disease-modifying pharmacotherapy and respiratory intervention for this patient?",
+    "choices": [
+      [
+        "Initiation of oral riluzole (glutamate release inhibitor) to prolong survival, combined with non-invasive positive pressure ventilation (NIV / BiPAP) for nocturnal hypoventilation",
+        "AMYOTROPHIC LATERAL SCLEROSIS (ALS / Lou Gehrig disease) is a fatal, progressive neurodegenerative disorder characterized by the simultaneous degeneration of both UPPER MOTOR NEURONS (corticospinal tracts: spasticity, hyperreflexia, Babinski) and LOWER MOTOR NEURONS (brainstem motor nuclei and spinal anterior horns: muscle atrophy, weakness, fasciculations). Sensation, extraocular movements (CN III, IV, VI), and bowel/bladder sphincters (Onuf nucleus) are characteristically spared. Diagnosis is confirmed by EMG demonstrating active denervation and chronic reinnervation across multiple body regions (revised El Escorial criteria). MANAGEMENT AND DISEASE-MODIFYING THERAPIES: (1) RILUZOLE: An oral GLUTAMATE RELEASE INHIBITOR that blocks voltage-gated sodium channels and inhibits presynaptic glutamate release, reducing NMDA receptor-mediated excitotoxic neuronal death. Riluzole is the FIRST-LINE DISEASE-MODIFYING PHARMACOTHERAPY PROVEN TO EXTEND SURVIVAL (by 2 to 3 months) and delay the time to tracheostomy. (Liver function tests must be monitored due to transaminitis). (EDARAVONE, a free radical scavenger, slows functional decline in early-stage disease). (2) RESPIRATORY MANAGEMENT IS THE SINGLE MOST IMPORTANT FACTOR FOR EXTENDING SURVIVAL AND IMPROVING QUALITY OF LIFE: Respiratory muscle weakness causes diaphragmatic fatigue, nocturnal hypoventilation (morning headaches, daytime somnolence), and orthopnea (postural drop in FVC > 15-20% from sitting to supine). The FIRST-LINE RESPIRATORY INTERVENTION IS NON-INVASIVE POSITIVE PRESSURE VENTILATION (NIV / BIPAP). Initiating nocturnal BiPAP when FVC < 50% of predicted, or when orthopnea/symptoms of hypoventilation develop, EXTENDS SURVIVAL BY AN AVERAGE OF 7 TO 11 MONTHS (superior to any pharmacological therapy) and dramatically improves quality of life. (3) BULBAR / NUTRITIONAL SUPPORT: Percutaneous endoscopic gastrostomy (PEG) tube placement before FVC drops < 50% to prevent fatal aspiration and malnutrition."
+      ],
+      [
+        "High-dose intravenous methylprednisolone pulse therapy followed by daily oral prednisone for 1 year",
+        "ALS is a primary neurodegenerative disorder, not an autoimmune inflammatory disease; corticosteroids and immunosuppressants provide zero benefit and accelerate muscle wasting."
+      ],
+      [
+        "Immediate placement of an indwelling tracheostomy and initiation of permanent invasive mechanical ventilation on day 1",
+        "Tracheostomy is an invasive, permanent intervention considered only when non-invasive ventilation fails or for advanced disease based on patient goals of care; non-invasive BiPAP is the preferred first-line therapy."
+      ],
+      [
+        "Administration of oral pyridostigmine 60 mg four times daily to restore neuromuscular transmission",
+        "Pyridostigmine is an acetylcholinesterase inhibitor used for Myasthenia Gravis (postsynaptic AChR antibodies); it has no role in ALS and can cause painful muscle fasciculations and cramping."
+      ],
+      [
+        "Therapeutic plasma exchange (plasmapheresis) weekly and intravenous immune globulin (IVIG)",
+        "Plasma exchange and IVIG treat Guillain-Barr\u00e9 syndrome and CIDP; they are completely ineffective in motor neuron diseases like ALS."
+      ]
+    ],
+    "shortestValidSolution": "Combined UMN and LMN signs + normal sensation + diaphragmatic weakness = ALS -> Disease-modifying therapy: Oral Riluzole (glutamate release inhibitor) + Nocturnal BiPAP (extends survival by months).",
+    "necessaryInference": "Formulate clinical management for ALS: oral riluzole prolongs survival by inhibiting glutamate release; nocturnal non-invasive positive pressure ventilation (BiPAP) is the most effective intervention to extend survival and quality of life.",
+    "strongestDistractor": "High-dose intravenous methylprednisolone pulse therapy followed by daily oral prednisone for 1 year",
+    "distractorExclusion": "ALS is a neurodegenerative disease of motor neurons, not an autoimmune inflammatory neuropathy; immunosuppressive steroids have no benefit.",
+    "citation": "Miller RG, Jackson CE, Kasarskis EJ, et al. Practice parameter update: The care of the patient with amyotrophic lateral sclerosis: drug, nutritional, and respiratory therapies (an evidence-based review): report of the Quality Standards Subcommittee of the American Academy of Neurology. Neurology. 2009;73(15):1218-1226. PMID: 19822872.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating ALS Clinical Management Riluzole and Non-Invasive Ventilation.",
+      "distractorExclusionNotes": "Competitor High-dose intravenous methylprednisolone pulse the excluded by ALS is a neurodegenerative disease of motor neurons, not an .",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0784",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Endocrine",
+    "topic": "Congenital Adrenal Hyperplasia 21-Hydroxylase Deficiency and Salt-Wasting",
+    "provisionalDifficulty": 5,
+    "stem": "A 12-day-old infant born at term to healthy parents is brought to the emergency department for severe lethargy, poor feeding, vomiting, and failure to regain birth weight. The infant was discharged home at 48 hours of life. Physical examination reveals an obtunded, severely dehydrated infant with sunken fontanelles, mottled cool extremities, and delayed capillary refill (4 seconds). Vital signs: blood pressure 62/36 mm Hg, heart rate 178/min, and respirations 32/min. Examination of the genitalia reveals marked virilization: an enlarged, phallic structure measuring 2.5 cm with a single urogenital orifice at its base (hypospadias), marked labial fusion with scrotalization and hyperpigmentation, and completely NON-PALPABLE GONADS in the labia/scrotal folds or inguinal canals. Karyotype analysis obtained on day 3 of life is confirmed as 46,XX. Emergency laboratory evaluation demonstrates: serum sodium 116 mEq/L, serum potassium 7.8 mEq/L, chloride 84 mEq/L, bicarbonate 12 mEq/L, blood glucose 42 mg/dL, and elevated BUN 38 mg/dL. An immediate ECG demonstrates tall, peaked T waves without QRS widening. Which of the following is the most likely diagnosis, and what is the definitive initial hormone replacement therapy?",
+    "choices": [
+      [
+        "Classic salt-wasting 21-hydroxylase deficiency (CYP21A2 mutation), requiring immediate intravenous fluid resuscitation, intravenous hydrocortisone, and maintenance mineralocorticoid (fludrocortisone) replacement",
+        "CONGENITAL ADRENAL HYPERPLASIA (CAH) is an autosomal recessive group of enzymatic defects in adrenal steroidogenesis. Over 90-95% of cases are caused by mutations in the CYP21A2 gene encoding 21-HYDROXYLASE. 21-hydroxylase catalyzes the conversion of progesterone to 11-deoxycorticosterone (mineralocorticoid pathway) and 17-hydroxyprogesterone to 11-deoxycortisol (glucocorticoid pathway). Pathophysiology of CLASSIC SALT-WASTING 21-HYDROXYLASE DEFICIENCY: (1) GLUCOCORTICOID DEFICIENCY: Absent cortisol synthesis removes negative feedback on the anterior pituitary, causing massive ACTH HYPERSECRETION and adrenal cortical hyperplasia. Cortisol deficiency produces severe fasting HYPOGLYCEMIA and circulatory collapse; (2) MINERALOCORTICOID DEFICIENCY: Absent aldosterone prevents renal sodium reabsorption in the collecting duct, causing severe urinary salt wasting, profound HYPONATREMIA, HYPERKALEMIA, hypovolemic SHOCK, and metabolic acidosis, typically manifesting as an acute adrenal crisis at 1 TO 2 WEEKS OF LIFE (once maternal aldosterone cleared); (3) ANDROGEN EXCESS: Because the 21-hydroxylase pathway is blocked, accumulated upstream steroid precursors (17-hydroxyprogesterone and progesterone) are SHUNTED INTO THE UNBLOCKED ADRENAL ANDROGEN PATHWAY (DHEA, androstenedione, testosterone). In genetic FEMALES (46,XX), extreme intrauterine androgen exposure causes VIRILIZATION OF EXTERNAL GENITALIA (clitoromegaly, labial fusion, common urogenital sinus, female pseudohermaphroditism) with internal female m\u00fcllerian organs (normal uterus and ovaries, absent testes). In genetic MALES (46,XY), genitalia appear normal (hyperpigmentation of scrotum), leading to missed diagnosis until sudden salt-wasting collapse at 1-2 weeks. (4) DIAGNOSTIC HALLMARK: Marked elevation of serum 17-HYDROXYPROGESTERONE (17-OHP). MANAGEMENT: (a) Immediate emergency fluid resuscitation with 0.9% normal saline with 5% dextrose (to treat shock, hyponatremia, and hypoglycemia) and IV calcium gluconate to stabilize myocardium against hyperkalemia; (b) INTRAVENOUS HYDROCORTISONE (replenishes glucocorticoids and suppresses pituitary ACTH hypersecretion, shutting off androgen shunting); (c) ORAL FLUDROCORTISONE (replaces mineralocorticoids to restore renal sodium conservation) plus oral sodium chloride supplements once stable."
+      ],
+      [
+        "Classic 17-alpha-hydroxylase deficiency, treated with immediate high-dose spironolactone and estrogen replacement",
+        "17-alpha-hydroxylase deficiency causes mineralocorticoid EXCESS (hypertension and hypokalemia) and blocks androgen synthesis (causing feminization of 46,XY males), the exact opposite of salt-wasting 21-hydroxylase deficiency."
+      ],
+      [
+        "Complete androgen insensitivity syndrome (CAIS), treated with immediate bilateral laparoscopic gonadectomy",
+        "Androgen insensitivity occurs in 46,XY individuals with a female phenotype, blind-ending vagina, absent uterus, and undescended testes, with completely normal electrolytes and no adrenal crisis."
+      ],
+      [
+        "Classic 11-beta-hydroxylase deficiency, treated with oral potassium chloride and furosemide",
+        "11-beta-hydroxylase deficiency accumulates 11-deoxycorticosterone, causing HYPERTENSION and HYPOKALEMIA with virilization, not salt-wasting shock with hyperkalemia."
+      ],
+      [
+        "Idiopathic hypopituitarism with isolated growth hormone deficiency, treated with recombinant human somatotropin",
+        "Growth hormone deficiency causes short stature and mild hypoglycemia, without ambiguous genitalia, virilization, or severe hyponatremic/hyperkalemic salt-wasting crisis."
+      ]
+    ],
+    "shortestValidSolution": "Ambiguous genitalia in 46,XX newborn + salt-wasting shock at 12 days (Na 116, K 7.8, glucose 42) = Classic 21-hydroxylase deficiency CAH -> High 17-OHP -> IV Hydrocortisone + Fludrocortisone.",
+    "necessaryInference": "Diagnose and manage congenital adrenal hyperplasia: 21-hydroxylase deficiency causes 46,XX virilization and salt-wasting crisis (low Na, high K, shock) at 1-2 weeks; treat with IV fluids, hydrocortisone, and fludrocortisone.",
+    "strongestDistractor": "Classic 11-beta-hydroxylase deficiency, treated with oral potassium chloride and furosemide",
+    "distractorExclusion": "11-beta-hydroxylase deficiency accumulates 11-deoxycorticosterone, which has mineralocorticoid activity causing hypertension and hypokalemia; 21-hydroxylase causes hypotension and hyperkalemia.",
+    "citation": "Speiser PW, Arlt W, Auchus RJ, et al. Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2018;103(11):4043-4088. PMID: 30272171.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Congenital Adrenal Hyperplasia 21-Hydroxylase Deficiency and Salt-Wasting.",
+      "distractorExclusionNotes": "Competitor Classic 11-beta-hydroxylase deficiency, treated wi excluded by 11-beta-hydroxylase deficiency accumulates 11-deoxycorticost.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0785",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "General Principles",
+    "topic": "Lithium Toxicity Clinical Manifestations Drug Interactions and Hemodialysis",
+    "provisionalDifficulty": 5,
+    "stem": "A 48-year-old woman with a 15-year history of bipolar I disorder maintained on oral lithium carbonate 600 mg twice daily presents to the emergency department with severe nausea, persistent vomiting, diarrhea, generalized tremulousness, and confusion. Her family reports that she developed severe bilateral knee pain 10 days ago from osteoarthritis and began taking over-the-counter ibuprofen 600 mg three times daily. She also takes hydrochlorothiazide 25 mg daily for essential hypertension. On physical examination, she is lethargic, disoriented to time and place, and exhibits slurred, dysarthric speech. Vital signs: blood pressure 104/64 mm Hg, heart rate 68/min, and core temperature 36.8\u00b0C. Neurological examination reveals a coarse, irregular tremor of her hands and face, bilateral horizontal nystagmus, dysmetria on finger-to-nose testing, generalized hyperreflexia (3+ reflexes), and severe truncal ataxia that prevents her from standing or walking. Laboratory evaluation demonstrates: serum lithium concentration markedly elevated at 3.8 mEq/L (therapeutic range 0.6-1.2 mEq/L; severe toxicity > 2.5-3.0 mEq/L), BUN 44 mg/dL, serum creatinine 2.6 mg/dL (baseline 0.8 mg/dL, acute kidney injury), serum sodium 132 mEq/L, and serum potassium 3.6 mEq/L. Which of the following is the most appropriate management plan?",
+    "choices": [
+      [
+        "Immediate discontinuation of lithium, aggressive intravenous fluid resuscitation with isotonic 0.9% normal saline, and emergent hemodialysis",
+        "LITHIUM is a first-line mood stabilizer for the treatment of acute mania and maintenance therapy in Bipolar I Disorder. It has a remarkably NARROW THERAPEUTIC INDEX (therapeutic range 0.6 to 1.2 mEq/L). Lithium is handled by the kidneys identically to sodium: it is freely filtered at the glomerulus, and approximately 80% is reabsorbed in the proximal convoluted tubule via sodium transport pathways. Consequently, ANY DRUG OR CONDITION THAT REDUCES RENAL BLOOD FLOW OR CAUSES SODIUM/VOLUME DEPLETION CAUSES COMPENSATORY ACCELERATED PROXIMAL REABSORPTION OF LITHIUM, DRIVING TOXIC SERUM ACCUMULATION. Common drug interactions: (1) NSAIDs (ibuprofen, naproxen): Inhibit renal synthesis of vasodilatory prostaglandins, decreasing GFR and increasing lithium reabsorption; (2) THIAZIDE DIURETICS (hydrochlorothiazide): Inhibit distal sodium reabsorption, causing mild volume contraction that triggers massive compensatory proximal tubular sodium and lithium reabsorption; (3) ACE INHIBITORS / ARBs: Decrease efferent arteriolar tone, reducing GFR; (4) Dehydration, gastroenteritis, or low-sodium diets. CLINICAL MANIFESTATIONS OF LITHIUM TOXICITY: (1) Mild toxicity (1.5-2.0 mEq/L): Nausea, vomiting, diarrhea, fine tremor, lethargy; (2) Moderate toxicity (2.0-2.5 mEq/L): Coarse tremor, hyperreflexia, slurred speech, ataxia, confusion; (3) SEVERE TOXICITY (> 2.5 MEQ/L): COARSE TREMOR, CLONUS, SEVERE ATAXIA, SEIZURES, COMA, CARDIAC ARRHYTHMIAS, IRREVERSIBLE NEUROLOGICAL INJURY (SILENT syndrome), and DEATH. MANAGEMENT: (a) Discontinue lithium immediately; (b) INTRAVENOUS ISOTONIC 0.9% NORMAL SALINE FLUIDS: Normal saline restores intravascular volume, promotes natriuresis, and competitively accelerates proximal lithium excretion (loop diuretics and forced diuresis are ineffective/harmful); (c) INDICATIONS FOR EMERGENT HEMODIALYSIS: Hemodialysis is the definitive, rapid method of clearance because lithium is a small, water-soluble, non-protein-bound ion (molecular weight 7 Da). Under EXTRIP workgroup guidelines, HEMODIALYSIS IS INDICATED IF: (1) SERUM LITHIUM > 4.0 MEQ/L (regardless of clinical symptoms); (2) SERUM LITHIUM > 2.5 MEQ/L ACCOMPANIED BY SEVERE NEUROLOGICAL SIGNS (confusion, ataxia, seizures) OR SEVERE RENAL IMPAIRMENT / AKI (impairing renal clearance); (3) Hemodynamic instability or life-threatening arrhythmias."
+      ],
+      [
+        "Continuous intravenous regular insulin with 50% dextrose and oral sodium polystyrene sulfonate",
+        "Insulin/dextrose and sodium polystyrene sulfonate treat hyperkalemia; they have zero effect on lithium excretion."
+      ],
+      [
+        "Forced diuresis with intravenous furosemide 80 mg bolus and oral acetazolamide",
+        "Loop diuretics induce volume contraction, which accelerates proximal tubular lithium reabsorption and worsens toxicity; aggressive isotonic saline is the proper fluid."
+      ],
+      [
+        "Administration of oral activated charcoal slurry and continuous gastric lavage",
+        "Activated charcoal does not bind small charged inorganic ions like lithium, iron, or lead, and is completely ineffective; gastric lavage is contraindicated due to aspiration risks."
+      ],
+      [
+        "Conservative observation on the psychiatric ward with repeat lithium level in 24 hours",
+        "With a lithium level of 3.8 mEq/L, severe neurological ataxia, and acute renal failure, observing without hemodialysis leads to permanent encephalopathy, seizures, and death."
+      ]
+    ],
+    "shortestValidSolution": "Bipolar patient on lithium + NSAID/thiazide trigger + coarse tremor + ataxia + confusion + Lithium 3.8 mEq/L + AKI = Severe Lithium Toxicity -> Stop lithium + IV Saline + Emergent Hemodialysis.",
+    "necessaryInference": "Manage lithium toxicity: precipitated by NSAIDs, thiazides, and ACE inhibitors; severe toxicity (> 2.5 mEq/L with neurological signs/AKI, or > 4.0 mEq/L) requires emergent hemodialysis.",
+    "strongestDistractor": "Conservative observation on the psychiatric ward with repeat lithium level in 24 hours",
+    "distractorExclusion": "A lithium level of 3.8 mEq/L with severe cerebellar ataxia and renal failure is an absolute indication for emergency hemodialysis to prevent permanent neurological injury.",
+    "citation": "Decker BS, Goldfarb DS, Dargan PI, et al. Extracorporeal Treatment for Lithium Poisoning: Systematic Review and Recommendations from the EXTRIP Workgroup. Clin J Am Soc Nephrol. 2015;10(5):875-887. PMID: 25583597.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Lithium Toxicity Clinical Manifestations Drug Interactions and Hemodialysis.",
+      "distractorExclusionNotes": "Competitor Conservative observation on the psychiatric ward w excluded by A lithium level of 3.8 mEq/L with severe cerebellar ataxia a.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0786",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Obstructing Ureteral Calculus with Urosepsis Emergent Decompression",
+    "provisionalDifficulty": 5,
+    "stem": "A 58-year-old man presents to the emergency department with a 12-hour history of severe, colicky right flank pain radiating to his right groin, accompanied by shaking chills, nausea, and vomiting. His past medical history is significant for gout and obesity. On arrival, he is ill-appearing, restless, and diaphoretic. Vital signs: temperature 39.2 C (102.6 F), blood pressure 88/54 mm Hg, heart rate 118/min, respirations 22/min, and oxygen saturation 96% on ambient air. Physical examination reveals exquisite right costovertebral angle tenderness and generalized abdominal guarding without peritoneal signs. Laboratory studies reveal a leukocytosis of 19,400/mm3 with 18% band forms, serum creatinine 2.1 mg/dL (baseline 1.0 mg/dL), and serum lactate 3.2 mmol/L. Urinalysis demonstrates turbid urine with 3+ leukocyte esterase, positive nitrites, > 100 white blood cells per high-power field, and moderate bacteria. Non-contrast helical CT of the abdomen and pelvis reveals an 8-mm obstructing calculus in the proximal right ureter with severe right-sided hydroureteronephrosis and extensive perinephric fat stranding. He receives immediate intravenous resuscitation with 30 mL/kg of balanced crystalloids and intravenous broad-spectrum piperacillin-tazobactam. Repeat blood pressure after fluid loading is 94/58 mm Hg. Which of the following is the most appropriate next step in the definitive management of this patient?",
+    "choices": [
+      [
+        "Urgent urinary tract decompression via retrograde ureteral stent placement or percutaneous nephrostomy tube placement",
+        "OBSTRUCTING URETERAL CALCULUS WITH SUPERIMPOSED INFECTION (UROSEPSIS) IS A LIFE-THREATENING UROLOGICAL EMERGENCY. Pathophysiology: A stone obstructing the ureter creates a closed-space, high-pressure collection of infected urine in the renal collecting system. High intrapelvic pressure impairs renal microvascular perfusion and prevents systemic intravenous antibiotics from penetrating into the obstructed kidney. Furthermore, pyelovenous and pyelolymphatic backflow rapidly disseminates bacteria and endotoxins directly into the bloodstream, precipitating septic shock, renal cortical abscess formation, and fatal multiorgan failure. CLINICAL MANIFESTATION: Triad of severe flank pain, high fever/rigors, and hemodynamic instability (hypotension, tachycardia, elevated lactate) with hydronephrosis and pyuria. MANAGEMENT PRIORITIES: (1) Aggressive fluid resuscitation with crystalloids and immediate broad-spectrum intravenous antibiotics (e.g., piperacillin-tazobactam, cefepime, or carbapenem); (2) URGENT SOURCE CONTROL / DECOMPRESSION: The obstructed system must be decompressed emergently. The two equally valid first-line modalities are: (a) CYSTOSCOPY WITH RETROGRADE URETERAL STENT PLACEMENT across the obstruction, or (b) PERCUTANEOUS NEPHROSTOMY TUBE PLACEMENT under fluoroscopic or ultrasound guidance. Multiple randomized trials and meta-analyses show equivalent clinical efficacy and safety between ureteral stenting and percutaneous nephrostomy for acute decompression of infected hydronephrosis; choice depends on local institutional availability and patient stability. (3) DEFINITIVE STONE EXTRACTION / LITHOTRIPSY IS STRICTLY CONTRAINDICATED IN THE ACUTE SETTING: Any attempt at primary ureteroscopic stone fragmentation or shock-wave lithotripsy in an acutely infected, obstructed system dramatically increases intrapelvic pressure, causing catastrophic bacterial shower into the systemic circulation and worsening septic shock. Definitive stone management is deferred until the infection has completely cleared, sepsis has resolved, and antibiotics have been completed."
+      ],
+      [
+        "Extracorporeal shock-wave lithotripsy (ESWL) to fragment the obstructing calculus",
+        "Extracorporeal shock-wave lithotripsy is strictly contraindicated in the setting of active urinary tract infection and sepsis because shock wave energy disrupts infected tissue, worsens bacterial dissemination, and cannot immediately relieve the life-threatening hydrostatic obstruction."
+      ],
+      [
+        "Urgent ureteroscopy with holmium laser lithotripsy and complete stone basket extraction",
+        "Definitive ureteroscopic stone fragmentation during acute urosepsis is contraindicated; manipulating an acutely infected, high-pressure collecting system precipitates catastrophic bacteremia and septic shock; urgent decompression alone is required."
+      ],
+      [
+        "Conservative medical expulsive therapy with oral tamsulosin 0.4 mg daily and outpatient urology follow-up",
+        "Medical expulsive therapy with alpha-blockers is reserved strictly for small (< 10 mm), uncomplicated distal ureteral stones in hemodynamically stable patients without infection; an infected obstructing calculus with septic shock requires emergent invasive decompression."
+      ],
+      [
+        "Administration of intravenous loop diuretics (furosemide) to promote high-volume urinary flush through the obstruction",
+        "Loop diuretics are ineffective at overcoming mechanical ureteral obstruction, worsen intravascular volume depletion in septic shock, and increase intrapelvic hydrostatic pressure, accelerating pyelovenous bacteremic spread."
+      ]
+    ],
+    "shortestValidSolution": "Obstructing ureteral calculus + high fever (39.2 C) + hypotension/sepsis + hydronephrosis = Infected hydronephrosis -> Emergent decompression (ureteral stent or percutaneous nephrostomy).",
+    "necessaryInference": "Recognize that an obstructing ureteral stone with superimposed infection/urosepsis requires emergent urinary decompression via stent or nephrostomy, deferring stone fragmentation until sepsis resolves.",
+    "strongestDistractor": "Urgent ureteroscopy with holmium laser lithotripsy and complete stone basket extraction",
+    "distractorExclusion": "Primary ureteroscopy during acute sepsis causes high-pressure bacteremic shower; only decompression (stent or nephrostomy) should be performed acutely.",
+    "citation": "Assimos D, Krambeck A, Miller NL, et al. Surgical Management of Stones: American Urological Association/Endourological Society Guideline, PART I. J Urol. 2016;196(4):1153-1160. PMID: 27238616.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Obstructing Ureteral Calculus with Urosepsis Emergent Decompression.",
+      "distractorExclusionNotes": "Competitor Urgent ureteroscopy with holmium laser lithotripsy excluded by Primary ureteroscopy during acute sepsis causes high-pressur.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0787",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Latent Tuberculosis Infection Screening and First-Line Treatment",
+    "provisionalDifficulty": 5,
+    "stem": "A 34-year-old registered nurse undergoes occupational health screening before starting employment at an urban hospital. She was born in the United States and has no known medical conditions. She does not take any medications and has never received the Bacillus Calmette-Gu\u00e9rin (BCG) vaccine. She is completely asymptomatic, denying cough, fever, chills, night sweats, fatigue, anorexia, or unexpected weight loss. Vital signs: blood pressure 118/74 mm Hg, heart rate 68/min, respirations 14/min, and oxygen saturation 99% on ambient air. Physical examination of the respiratory and lymphatic systems is entirely unremarkable. An interferon-gamma release assay (QuantiFERON-TB Gold Plus) is reported as positive (antigen minus nil 1.85 IU/mL; positive threshold >= 0.35 IU/mL). A posteroanterior and lateral chest radiograph demonstrates completely normal lung volumes, clear lung parenchyma bilaterally without infiltrates, cavitary lesions, or calcified granulomas, and normal hila without adenopathy. Baseline serum alanine aminotransferase (ALT), aspartate aminotransferase (AST), and total bilirubin are normal. Which of the following is the most appropriate management plan?",
+    "choices": [
+      [
+        "Diagnosis of latent tuberculosis infection (LTBI) and initiation of 4 months of daily oral rifampin monotherapy",
+        "LATENT TUBERCULOSIS INFECTION (LTBI) represents persistent immune response to Mycobacterium tuberculosis antigens without active clinical or radiographic disease. DIAGNOSTIC WORKUP: (1) Screening: Targeted testing using either an Interferon-Gamma Release Assay (IGRA: QuantiFERON, T-SPOT) or Tuberculin Skin Test (TST). IGRA is strongly preferred in individuals >= 2 years old, especially those with prior BCG vaccination (IGRA does not cross-react with BCG). (2) RULE OUT ACTIVE TB: In any patient with a positive IGRA or TST, ACTIVE TUBERCULOSIS MUST BE RIGOROUSLY EXCLUDED before initiating LTBI therapy. This requires confirming ABSENCE OF CLINICAL SYMPTOMS (no fever, cough, hemoptysis, night sweats, weight loss) and obtaining a NORMAL CHEST RADIOGRAPH (no infiltrates, apical fibronodular lesions, cavitations, or mediastinal/hilar adenopathy). If symptoms or CXR abnormalities exist, sputum acid-fast bacilli (AFB) smear and culture/NAAT are mandatory. In this asymptomatic patient with normal CXR, active TB is excluded, establishing LTBI. FIRST-LINE LTBI TREATMENT GUIDELINES (CDC / National Tuberculosis Controllers Association [NTCA] 2020): Rifamycin-based short-course regimens are now preferred over older prolonged isoniazid regimens due to substantially higher completion rates, equivalent efficacy, and significantly lower hepatotoxicity: (a) 4 MONTHS OF DAILY ORAL RIFAMPIN (4R) monotherapy (preferred first-line); (b) 3 MONTHS OF ONCE-WEEKLY ISONIAZID PLUS RIFAPENTINE (3HP) directly observed or self-administered; (c) 3 MONTHS OF DAILY ISONIAZID PLUS RIFAMPIN (3HR). Older regimens like 6 or 9 months of daily isoniazid monotherapy (9H) are now alternative regimens reserved only for patients who cannot tolerate rifamycins (e.g., severe drug interactions with protease inhibitors or anticoagulants). Baseline liver function tests are recommended only in high-risk patients (pre-existing liver disease, HIV, heavy alcohol use, or pregnancy), but routine monitoring is not required unless symptoms of hepatitis occur."
+      ],
+      [
+        "Collection of three serial early-morning sputum specimens for acid-fast bacilli smear and mycobacterial culture",
+        "Collecting serial sputum for AFB smear and culture is indicated when active pulmonary TB is suspected based on symptoms or radiographic abnormalities; in an asymptomatic patient with a completely normal chest radiograph, active TB is excluded and sputum testing is unnecessary."
+      ],
+      [
+        "Reassurance and no treatment, as a positive interferon-gamma release assay indicates remote resolved infection with complete protective immunity",
+        "A positive IGRA indicates viable persistent latent bacilli with a 5-10% lifetime risk of reactivation to lethal active pulmonary disease (highest in the first 2 years); LTBI must be treated to prevent future reactivation."
+      ],
+      [
+        "Initiation of standard four-drug therapy with rifampin, isoniazid, pyrazinamide, and ethambutol (RIPE) for 2 months",
+        "Four-drug RIPE therapy is indicated exclusively for active tuberculosis disease; treating latent tuberculosis with full RIPE therapy exposes the patient to unnecessary toxicities (retrobulbar neuritis, hyperuricemia, severe hepatitis) without clinical benefit."
+      ],
+      [
+        "Initiation of 9 months of daily oral isoniazid monotherapy with pyridoxine supplementation",
+        "While 9 months of daily isoniazid (9H) was historically standard, 2020 CDC/NTCA guidelines strongly prefer short-course rifamycin-based regimens (4 months of rifampin or 3 months of once-weekly isoniazid plus rifapentine) due to superior completion rates and lower hepatotoxicity."
+      ]
+    ],
+    "shortestValidSolution": "Positive IGRA + no symptoms + normal chest radiograph = Latent TB Infection (LTBI) -> 4 months daily rifampin (or 3 months once-weekly INH+rifapentine).",
+    "necessaryInference": "Distinguish latent TB infection from active disease using chest radiography, and select preferred first-line short-course rifamycin regimens (4 months daily rifampin) over 9 months of isoniazid.",
+    "strongestDistractor": "Initiation of 9 months of daily oral isoniazid monotherapy with pyridoxine supplementation",
+    "distractorExclusion": "CDC/NTCA guidelines now prioritize 4 months of daily rifampin or 3 months once-weekly INH+rifapentine over 9 months of INH due to higher adherence and lower hepatotoxicity.",
+    "citation": "Sterling TR, Njie G, Zenner D, et al. Guidelines for the Treatment of Latent Tuberculosis Infection: Recommendations from the National Tuberculosis Controllers Association and CDC, 2020. MMWR Recomm Rep. 2020;69(1):1-11. PMID: 32053584.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Latent Tuberculosis Infection Screening and First-Line Treatment.",
+      "distractorExclusionNotes": "Competitor Initiation of 9 months of daily oral isoniazid mon excluded by CDC/NTCA guidelines now prioritize 4 months of daily rifampi.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0788",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Hematology",
+    "topic": "RhD Alloimmunization Prevention and Postpartum Fetomaternal Hemorrhage Dosing",
+    "provisionalDifficulty": 5,
+    "stem": "A 28-year-old Rh(D)-negative primigravida woman at 39 weeks gestation undergoes an uncomplicated spontaneous vaginal delivery of a vigorous male neonate. Neonatal blood typing reveals that the infant is Rh(D)-positive with a negative direct antiglobulin (Coombs) test. The mother's prenatal course was uncomplicated: she had a negative indirect antiglobulin screen at her initial prenatal visit and received the standard prophylactic dose of 300 mcg anti-D immune globulin (RhoGAM) at 28 weeks gestation. Her repeat antibody screen prior to labor is negative, confirming that she remains unsensitized. The delivery was notable for manual removal of an adherent placenta, with an estimated delivery blood loss of 650 mL. Following delivery, a qualitative maternal peripheral blood erythrocyte rosette screen is performed and returns positive. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      [
+        "Perform a quantitative Kleihauer-Betke test or flow cytometry to calculate the volume of fetomaternal hemorrhage and determine the additional required dose of anti-D immune globulin",
+        "Rh(D) ALLOIMMUNIZATION PREVENTION: In an Rh(D)-negative pregnant woman carrying an Rh(D)-positive fetus, exposure to fetal red blood cells during pregnancy or delivery stimulates maternal IgM and subsequent IgG anti-D antibody production (sensitization/alloimmunization). In subsequent Rh-positive pregnancies, maternal IgG crosses the placenta, binding fetal erythrocytes and causing severe hemolytic disease of the fetus and newborn (erythroblastosis fetalis, severe anemia, hydrops fetalis, and intrauterine demise). PROPHYLACTIC PROTOCOL: (1) Standard antepartum prophylaxis: 300 mcg (1,500 IU) anti-D immune globulin administered at 28 WEEKS GESTATION (clears circulating fetal cells and protects for ~12 weeks); (2) POSTPARTUM PROPHYLAXIS: Administered WITHIN 72 HOURS OF DELIVERY of an Rh(D)-positive infant (can still be given up to 28 days postpartum if inadvertently omitted). DOSING PRINCIPLES AND FETOMATERNAL HEMORRHAGE (FMH): A standard 300 mcg dose of anti-D immune globulin covers up to 30 mL of fetal whole blood (or 15 mL of fetal packed red blood cells). While normal delivery involves < 30 mL of FMH, traumatic deliveries, placental abruption, manual placental extraction, or cesarean section significantly increase the risk of massive FMH (> 30 mL). (3) SCREENING ALGORITHM: Postpartum screening begins with a QUALITATIVE ROSETTE TEST on maternal blood. If the rosette test is NEGATIVE, the standard 300 mcg dose is administered. If the rosette test is POSITIVE (indicating substantial FMH), A QUANTITATIVE TEST (KLEIHAUER-BETKE ACID ELUTION TEST OR FLOW CYTOMETRY) MUST BE PERFORMED IMMEDIATELY. The Kleihauer-Betke (KB) test utilizes the acid resistance of fetal hemoglobin (HbF) relative to adult hemoglobin (HbA): fetal cells remain dark pink while maternal cells appear as ghost cells. Calculation: % fetal cells x 50 = mL of fetal whole blood. Number of 300 mcg vials = (mL of fetal blood / 30) + 1 (rounding up and adding 1 vial for safety). Administering only the standard 300 mcg dose without quantification in a patient with a positive rosette screen risks underdosing and permanent maternal Rh alloimmunization."
+      ],
+      [
+        "Administer the standard single postpartum dose of 300 mcg anti-D immune globulin within 72 hours without further testing",
+        "A positive rosette screen proves that fetomaternal hemorrhage exceeds the standard 30 mL fetal blood threshold; giving only the standard 300 mcg vial without quantitative Kleihauer-Betke testing results in underdosing and maternal alloimmunization."
+      ],
+      [
+        "Withhold postpartum anti-D immune globulin because she already received prophylaxis at 28 weeks gestation",
+        "The 28-week antepartum dose provides passive immunity that wanes by delivery; postpartum administration within 72 hours of delivering an Rh-positive neonate is mandatory to neutralize delivery-related fetomaternal microtransfusion."
+      ],
+      [
+        "Administer intravenous RhoGAM at double the standard dose (600 mcg) empirically without quantitative blood testing",
+        "Empiric doubling without quantification is inappropriate; massive fetomaternal hemorrhage may require 4 to 8 vials, which can only be determined by quantitative Kleihauer-Betke or flow cytometry calculation."
+      ],
+      [
+        "Perform an emergent exchange transfusion on the neonate to prevent hemolytic disease of the newborn",
+        "The neonate is vigorous with a negative direct Coombs test; the mother is unsensitized, so the neonate has no hemolytic disease; management focuses entirely on preventing maternal alloimmunization."
+      ]
+    ],
+    "shortestValidSolution": "Rh-negative mother + Rh-positive infant + positive postpartum rosette screen = Excessive fetomaternal hemorrhage -> Kleihauer-Betke test to calculate precise RhoGAM dosing.",
+    "necessaryInference": "Recognize that a positive qualitative rosette screen after delivery indicates excessive fetomaternal hemorrhage requiring quantitative Kleihauer-Betke testing to determine the required vials of anti-D immune globulin.",
+    "strongestDistractor": "Administer the standard single postpartum dose of 300 mcg anti-D immune globulin within 72 hours without further testing",
+    "distractorExclusion": "A positive rosette test indicates > 30 mL hemorrhage; failing to quantify with Kleihauer-Betke leads to underdosing and irreversible Rh alloimmunization.",
+    "citation": "American College of Obstetricians and Gynecologists. Practice Bulletin No. 181: Prevention of Rh D Alloimmunization. Obstet Gynecol. 2017;130(2):e57-e70. PMID: 28742673.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating RhD Alloimmunization Prevention and Postpartum Fetomaternal Hemorrhage Dosing.",
+      "distractorExclusionNotes": "Competitor Administer the standard single postpartum dose of  excluded by A positive rosette test indicates > 30 mL hemorrhage; failin.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0789",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Meckel Diverticulum Technetium-99m Pertechnetate Scintigraphy",
+    "provisionalDifficulty": 5,
+    "stem": "A 22-month-old previously healthy boy is brought to the pediatric emergency department by his parents after they observed two episodes of painless, maroon-colored stools in his diaper over the preceding 18 hours. The child has had no fever, vomiting, abdominal distension, diarrhea, or crying episodes suggesting intermittent crampy pain. He is eating well and active. Vital signs: temperature 37.0 C (98.6 F), blood pressure 94/58 mm Hg, heart rate 126/min, respirations 24/min, and oxygen saturation 99% on room air. Physical examination demonstrates an alert, interactive toddler in no acute distress. Abdominal examination reveals a soft, non-tender, non-distended abdomen with normal active bowel sounds and no palpable masses or hepatosplenomegaly. Anorectal inspection demonstrates no anal fissures, skin tags, or hemorrhoids; digital rectal examination reveals dark maroon stool that is guaiac-positive. Complete blood count shows hemoglobin 9.4 g/dL, hematocrit 28.5%, white blood cell count 8,200/mm3, and platelets 280,000/mm3. Coagulation profiles are completely normal. Which of the following is the most sensitive and specific initial diagnostic test to establish the underlying cause of this child's bleeding?",
+    "choices": [
+      [
+        "Technetium-99m pertechnetate scintigraphy (Meckel scan)",
+        "MECKEL DIVERTICULUM is the most common congenital anomaly of the gastrointestinal tract, occurring in approximately 2% of the general population. EMBRYOLOGY: It results from incomplete obliteration and persistence of the omphalomesenteric (vitelline) duct during the 5th to 7th week of embryonic development, forming a true diverticulum (containing all three layers of the bowel wall: mucosa, submucosa, and muscularis) on the antimesenteric border of the ileum. RULE OF 2s: (1) 2% of the population; (2) 2 inches long; (3) located within 2 feet of the ileocecal valve; (4) contains 2 types of common heterotopic mucosa: GASTRIC MUCOSA (most common, ~60-80%) and PANCREATIC TISSUE; (5) presents most commonly under 2 YEARS OF AGE. CLINICAL PRESENTATION: In toddlers, the classic presentation is PAINLESS LOWER GASTROINTESTINAL BLEEDING (hematochezia, currant-jelly, or maroon stools). Pathophysiology: Heterotopic gastric mucosa contains acid-secreting parietal cells; acid secreted into the lumen ulcerates adjacent, unprotected ileal mucosa, causing arterial ulcer hemorrhage without intrinsic abdominal pain. (In older children and adults, it may present with intussusception, volvulus, or diverticulitis mimicking acute appendicitis). DIAGNOSTIC EVALUATION: The diagnostic test of choice in pediatric patients with painless lower GI bleeding is a TECHNETIUM-99M PERTECHNETATE SCINTIGRAPHY (MECKEL SCAN). Technetium-99m pertechnetate is selectively taken up by the sodium-iodide symporters in GASTRIC PARIETAL CELLS. A positive scan reveals a focus of increased tracer uptake in the right lower quadrant that appears simultaneously with the normal stomach uptake. Sensitivity is increased by administering H2-receptor antagonists (cimetidine/famotidine, slows release from parietal cells), glucagon (decreases intestinal peristalsis), or pentagastrin. TREATMENT: Fluid resuscitation and definitive surgical resection (laparoscopic diverticulectomy or segmental ileal resection)."
+      ],
+      [
+        "Upper endoscopy (esophagogastroduodenoscopy) and colonoscopy",
+        "Endoscopy rarely visualizes the distal ileum where Meckel diverticulum is located; in a hemodynamically stable toddler with painless maroon bleeding, non-invasive technetium-99m scintigraphy is the initial test of choice before invasive endoscopy."
+      ],
+      [
+        "Abdominal ultrasound with graded compression to assess for target signs of ileocolic intussusception",
+        "Intussusception presents with sudden, severe intermittent colicky abdominal pain where the infant draws knees to chest, accompanied by vomiting and a palpable sausage-shaped mass; painless bleeding in an active, playful toddler is classic for Meckel diverticulum."
+      ],
+      [
+        "Mesenteric angiography of the superior mesenteric artery to locate active bleeding vessels",
+        "Catheter angiography requires high active bleeding rates (> 0.5-1.0 mL/min), involves substantial radiation and arterial puncture risks, and is reserved for hemodynamically unstable or scintigraphy-negative massive GI bleeding."
+      ],
+      [
+        "Barium contrast enema examination to evaluate for colonic polyps and juvenile polyposis",
+        "Barium enemas are obsolete for diagnosing Meckel diverticulum, carry risk of bowel perforation, and barium residual obscures subsequent nuclear scintigraphy or vascular imaging."
+      ]
+    ],
+    "shortestValidSolution": "Toddler (< 2 yo) + painless maroon rectal bleeding + normal exam = Meckel Diverticulum -> Technetium-99m pertechnetate scintigraphy (Meckel scan).",
+    "necessaryInference": "Diagnose Meckel diverticulum presenting as painless hematochezia in an infant/toddler, recognizing technetium-99m pertechnetate scan as the gold standard diagnostic modality due to tracer uptake by ectopic gastric parietal cells.",
+    "strongestDistractor": "Abdominal ultrasound with graded compression to assess for target signs of ileocolic intussusception",
+    "distractorExclusion": "Intussusception presents with episodic, agonizing colicky crying and vomiting, whereas Meckel diverticulum presents with completely painless maroon rectal bleeding in an otherwise comfortable child.",
+    "citation": "Lin S, Suhocki PV, Ludwig KA, Blau S. Meckel diverticulum: Diagnosis and management. Am Fam Physician. 2019;99(9):571-577. PMID: 31046322.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Meckel Diverticulum Technetium-99m Pertechnetate Scintigraphy.",
+      "distractorExclusionNotes": "Competitor Abdominal ultrasound with graded compression to as excluded by Intussusception presents with episodic, agonizing colicky cr.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0790",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Idiopathic Pulmonary Arterial Hypertension Hemodynamic Diagnostic Criteria",
+    "provisionalDifficulty": 5,
+    "stem": "A 32-year-old woman presents to the pulmonary outpatient clinic with a 6-month history of progressive shortness of breath with exertion, fatigue, and bilateral ankle swelling. She used to jog 3 miles daily but is now breathless when walking up a single flight of stairs. She denies chest pain, syncope, cough, hemoptysis, Raynaud phenomenon, skin thickening, joint pain, or history of deep vein thrombosis. Vital signs: blood pressure 114/72 mm Hg, heart rate 82/min, respirations 18/min, and oxygen saturation 96% on ambient air at rest, decreasing to 91% with a 6-minute walk test. Physical examination reveals an elevated jugular venous pulse to 10 cm H2O with prominent 'a' waves, a palpable right ventricular heave along the left sternal border, an accentuated second heart sound with a loud pulmonic component (loud P2), and a high-pitched holosystolic murmur at the lower left sternal edge that increases in intensity during inspiration. Breath sounds are clear bilaterally. Laboratory evaluation shows a normal CBC, normal liver and renal panels, negative ANA, and negative HIV and hepatitis serologies. Pulmonary function testing shows normal FEV1, normal FVC, and FEV1/FVC ratio 0.82, with an isolated reduction in diffusing capacity for carbon monoxide (DLCO 52% of predicted). Ventilation-perfusion (V/Q) scintigraphy demonstrates normal, matched perfusion without segmental mismatched defects. High-resolution chest CT shows no interstitial lung disease. Transthoracic echocardiogram demonstrates marked right ventricular dilation and hypertrophy with flattened interventricular septum, normal left ventricular cavity size with an ejection fraction of 64%, and estimated right ventricular systolic pressure (RVSP) of 68 mm Hg. Which of the following invasive hemodynamic profiles on right heart catheterization is required to definitively establish the diagnosis of pre-capillary pulmonary arterial hypertension (Group 1 PAH)?",
+    "choices": [
+      [
+        "Mean pulmonary arterial pressure (mPAP) exceeding 20 mm Hg at rest, pulmonary capillary wedge pressure (PCWP) at or below 15 mm Hg, and pulmonary vascular resistance (PVR) greater than 2 Wood units",
+        "PULMONARY HYPERTENSION (PH) is classified by the WHO into five distinct clinical groups: (1) Group 1: Pulmonary Arterial Hypertension (PAH: idiopathic, heritable BMPR2, connective tissue disease, HIV, portal hypertension, congenital heart disease); (2) Group 2: PH secondary to Left Heart Disease (heart failure with preserved or reduced EF, valvular disease); (3) Group 3: PH secondary to Lung Disease / Hypoxia (COPD, ILD, OSA); (4) Group 4: Chronic Thromboembolic Pulmonary Hypertension (CTEPH); (5) Group 5: PH with unclear multifactorial mechanisms. DIAGNOSTIC PATHWAY: (1) Initial non-invasive screening with Transthoracic Echocardiogram (TTE) estimates RV systolic pressure and evaluates right ventricular strain; (2) Rule out CTEPH using V/Q SCAN (normal V/Q scan rules out CTEPH with > 95% sensitivity; normal HRCT rules out Group 3 ILD); (3) GOLD STANDARD DEFINITIVE CONFIRMATION: RIGHT HEART CATHETERIZATION (RHC) is mandatory. HEMODYNAMIC DEFINITIONS (Updated 2022 ESC/ERS and 6th World Symposium on PH Guidelines): (a) PULMONARY HYPERTENSION: Mean pulmonary arterial pressure (mPAP) > 20 mm Hg at rest (revised downward from older threshold of >= 25 mm Hg); (b) PRE-CAPILLARY PH (PAH, Group 1, 3, 4): Requires BOTH PULMONARY CAPILLARY WEDGE PRESSURE (PCWP or LVEDP) <= 15 mm Hg AND PULMONARY VASCULAR RESISTANCE (PVR) > 2 WOOD UNITS (or > 160 dyn.s.cm^-5). A PCWP <= 15 mm Hg is the decisive hemodynamic differentiator proving that pulmonary vascular remodeling originates within the precapillary pulmonary arterial bed rather than resulting passively from elevated left heart filling pressures (post-capillary PH / Group 2, where PCWP > 15 mm Hg). In Group 1 PAH, vasoreactivity testing is performed with inhaled nitric oxide to determine candidacy for high-dose calcium channel blocker therapy, followed by targeted combination therapy with endothelin receptor antagonists (ambrisentan), PDE-5 inhibitors (tadalafil), and prostacyclin pathway agonists."
+      ],
+      [
+        "Mean pulmonary arterial pressure (mPAP) exceeding 20 mm Hg at rest, pulmonary capillary wedge pressure (PCWP) greater than 15 mm Hg, and pulmonary vascular resistance (PVR) less than 2 Wood units",
+        "A PCWP > 15 mm Hg defines post-capillary pulmonary hypertension (Group 2 PH due to left heart disease, heart failure with preserved ejection fraction), not pre-capillary pulmonary arterial hypertension."
+      ],
+      [
+        "Mean pulmonary arterial pressure (mPAP) at or above 25 mm Hg, PCWP greater than 18 mm Hg, and transpulmonary pressure gradient less than 12 mm Hg",
+        "This profile reflects isolated post-capillary pulmonary hypertension secondary to left ventricular diastolic dysfunction or mitral valve pathology, excluded by normal LV size/EF and non-elevated wedge pressure."
+      ],
+      [
+        "Right ventricular systolic pressure exceeding 40 mm Hg and systemic mean arterial pressure below 60 mm Hg on non-invasive monitoring",
+        "Invasive right heart catheterization measuring mPAP, PCWP, and PVR is mandatory for the definitive diagnosis and classification of pulmonary arterial hypertension; non-invasive measurements cannot differentiate pre- from post-capillary etiologies."
+      ],
+      [
+        "Pulmonary capillary wedge pressure (PCWP) at or below 12 mm Hg with normal resting mean pulmonary arterial pressure (mPAP at or below 15 mm Hg) and elevated cardiac output",
+        "A resting mPAP <= 15 mm Hg is completely normal and directly excludes pulmonary hypertension of any etiology."
+      ]
+    ],
+    "shortestValidSolution": "Young woman + progressive dyspnea + loud P2 + RV strain on echo + normal V/Q & PFTs = Group 1 PAH -> RHC: mPAP > 20 mm Hg, PCWP <= 15 mm Hg, PVR > 2 Wood units.",
+    "necessaryInference": "Identify the definitive hemodynamic diagnostic criteria for pre-capillary pulmonary arterial hypertension on right heart catheterization: resting mPAP > 20 mm Hg, PCWP <= 15 mm Hg, and PVR > 2 Wood units.",
+    "strongestDistractor": "Mean pulmonary arterial pressure (mPAP) > 20 mm Hg at rest, pulmonary capillary wedge pressure (PCWP) > 15 mm Hg, and pulmonary vascular resistance (PVR) < 2 Wood units",
+    "distractorExclusion": "PCWP > 15 mm Hg reflects post-capillary pulmonary hypertension secondary to left heart dysfunction, whereas Group 1 PAH requires a normal pre-capillary wedge pressure (PCWP <= 15 mm Hg).",
+    "citation": "Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Heart J. 2022;43(38):3618-3731. PMID: 36017548.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Idiopathic Pulmonary Arterial Hypertension Hemodynamic Diagnostic Criteria.",
+      "distractorExclusionNotes": "Competitor Mean pulmonary arterial pressure (mPAP) > 20 mm Hg excluded by PCWP > 15 mm Hg reflects post-capillary pulmonary hypertensi.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0791",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Subclinical Hypothyroidism Indications for Levothyroxine Therapy",
+    "provisionalDifficulty": 5,
+    "stem": "A 32-year-old woman presents to her primary care physician for an annual physical examination. She and her husband have been actively attempting to conceive for the past 6 months without success. She reports mild generalized fatigue and constipation over the past 3 months, which she attributed to occupational stress. She denies cold intolerance, weight changes, dry skin, voice changes, or irregular menstrual cycles (menses occur every 28 days with 4 days of moderate flow). She takes a daily prenatal multivitamin containing 150 mcg of potassium iodide. Physical examination reveals a pleasant, energetic woman. Vital signs: blood pressure 116/72 mm Hg, heart rate 68/min, respirations 14/min, and BMI 22.4 kg/m2. Examination of the neck demonstrates a normal-sized thyroid gland with no palpable tenderness, nodules, or thyromegaly. Deep tendon reflexes have a normal relaxation phase. Initial laboratory evaluation reveals a serum thyroid-stimulating hormone (TSH) of 7.8 mIU/L (reference range 0.4-4.2 mIU/L) and a free thyroxine (free T4) of 1.3 ng/dL (reference range 0.8-1.8 ng/dL). Repeat laboratory evaluation performed 8 weeks later confirms a serum TSH of 8.1 mIU/L and free T4 of 1.2 ng/dL. Serum anti-thyroid peroxidase (anti-TPO) antibodies are strongly elevated at 340 IU/mL (reference < 35 IU/mL). Serum prolactin and pelvic ultrasonography are completely normal. Which of the following is the most appropriate management plan for this patient?",
+    "choices": [
+      [
+        "Initiation of daily oral levothyroxine therapy targeting a TSH level in the lower half of the normal reference range (< 2.5 mIU/L)",
+        "SUBCLINICAL HYPOTHYROIDISM is defined biochemically by an ELEVATED SERUM TSH with a NORMAL SERUM FREE T4. Because transient TSH elevations are common (recovery from illness, thyroiditis, assay variations), confirmation with a repeat TSH and free T4 after 6 to 8 weeks is mandatory before making treatment decisions. INDICATIONS FOR LEVOTHYROXINE THERAPY IN SUBCLINICAL HYPOTHYROIDISM: Routine treatment is NOT recommended for all patients with mild TSH elevations (TSH 4.5-9.9 mIU/L). However, LEVOTHYROXINE TREATMENT IS DEFINITIVELY INDICATED in the following specific clinical scenarios: (1) SEVERE TSH ELEVATION: TSH >= 10 mIU/L (high risk of progression to overt hypothyroidism and cardiovascular morbidity); (2) PREGNANCY OR WOMEN CURRENTLY ATTEMPTING TO CONCEIVE: In women actively planning pregnancy or undergoing infertility evaluation, subclinical hypothyroidism is associated with increased risks of spontaneous miscarriage, gestational diabetes, preeclampsia, placental abruption, and impaired fetal neurocognitive development. Guidelines from the American Thyroid Association (ATA) and Endocrine Society recommend initiating levothyroxine when TSH is > 2.5 mIU/L or > pregnancy-specific upper reference limit, particularly when ANTI-TPO ANTIBODIES ARE POSITIVE. The therapeutic target is TSH < 2.5 mIU/L; (3) PRESENCE OF A GOITER or prominent hypothyroid symptoms in a patient with strongly positive anti-TPO antibodies (confirming autoimmune Hashimoto thyroiditis with high progression rate). In an asymptomatic, non-pregnant patient with TSH < 10 mIU/L and negative antibodies, observation with annual monitoring of TSH is standard. Because this patient is actively trying to conceive and has elevated anti-TPO antibodies, levothyroxine therapy is unequivocally indicated."
+      ],
+      [
+        "Observation and watchful waiting with repeat serum TSH and free T4 measurement in 12 months, withholding pharmacotherapy",
+        "Watchful waiting is appropriate only for non-pregnant, asymptomatic patients with mild TSH elevation (TSH < 10 mIU/L) and negative anti-TPO antibodies; women actively attempting to conceive require treatment to prevent miscarriage and fetal neurodevelopmental impairment."
+      ],
+      [
+        "Initiation of combination therapy with oral levothyroxine (T4) and liothyronine (T3)",
+        "Combination T3/T4 therapy has not shown superiority over levothyroxine monotherapy in randomized clinical trials and carries substantial risk of iatrogenic cardiac arrhythmias and thyrotoxicosis; levothyroxine monotherapy is the undisputed gold standard."
+      ],
+      [
+        "Prescription of high-dose oral potassium iodide drops to stimulate endogenous thyroid hormone synthesis",
+        "Administering excess exogenous iodide can induce profound, prolonged hypothyroidism via the Wolff-Chaikoff effect, especially in patients with underlying autoimmune Hashimoto thyroiditis (positive anti-TPO antibodies)."
+      ],
+      [
+        "Initiation of empiric ovulation induction therapy with oral clomiphene citrate without addressing thyroid status",
+        "Ovulation induction is premature; the patient has regular ovulatory menstrual cycles, and untreated subclinical hypothyroidism itself increases pregnancy complications; optimizing thyroid hormone levels with levothyroxine is the mandatory first step."
+      ]
+    ],
+    "shortestValidSolution": "Woman trying to conceive + subclinical hypothyroidism (TSH 8.1, normal fT4) + anti-TPO positive = Indication for therapy -> Oral levothyroxine (target TSH < 2.5 mIU/L).",
+    "necessaryInference": "Identify the clinical indications for initiating levothyroxine in subclinical hypothyroidism, specifically recognizing that women planning pregnancy with positive anti-TPO antibodies require treatment targeting TSH < 2.5 mIU/L.",
+    "strongestDistractor": "Observation and watchful waiting with repeat serum TSH and free T4 measurement in 12 months, withholding pharmacotherapy",
+    "distractorExclusion": "Observation is contraindicated in women actively attempting pregnancy because subclinical hypothyroidism with positive anti-TPO antibodies carries documented risks of early pregnancy loss and adverse neurodevelopmental outcomes.",
+    "citation": "Alexander EK, Pearce EN, Brent GA, et al. 2017 Guidelines of the American Thyroid Association for the Diagnosis and Management of Thyroid Disease During Pregnancy and the Postpartum. Thyroid. 2017;27(3):315-389. PMID: 28056694.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Subclinical Hypothyroidism Indications for Levothyroxine Therapy.",
+      "distractorExclusionNotes": "Competitor Observation and watchful waiting with repeat serum excluded by Observation is contraindicated in women actively attempting .",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0792",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Ischemic Colitis Watershed Distribution and Conservative Management",
+    "provisionalDifficulty": 5,
+    "stem": "A 76-year-old man undergoes an uncomplicated elective open surgical repair of a 6.2-cm infrarenal abdominal aortic aneurysm with synthetic Dacron graft interposition. During the surgical procedure, an episode of transient systemic hypotension (blood pressure 78/48 mm Hg for 15 minutes) occurred following cross-clamp application, which resolved with crystalloid resuscitation and temporary phenylephrine infusion. On postoperative day 2, he develops sudden-onset, crampy lower abdominal pain, followed within 3 hours by three loose, bowel movements containing dark maroon blood and mucus. Vital signs: blood pressure 118/74 mm Hg, heart rate 88/min, respirations 18/min, and temperature 37.8 C (100.0 F). Physical examination reveals a soft abdomen with moderate tenderness localized to the left lower quadrant, but there is no guarding, rebound tenderness, or rigidity. Bowel sounds are present. Rectal examination demonstrates dark bloody stool on the glove. Laboratory studies: white blood cell count 12,800/mm3, hemoglobin 10.8 g/dL, serum lactate 1.6 mmol/L, and normal serum electrolytes. Contrast-enhanced CT of the abdomen and pelvis demonstrates segmental wall thickening, submucosal edema ('thumbprinting'), and pericolic fat stranding localized to the descending and sigmoid colon, without pneumatosis intestinalis or portal venous gas. Bedside flexible sigmoidoscopy shows patchy, erythematous, edematous mucosa with friable petechial ulcerations sharply demarcated in the sigmoid colon; the rectum is completely normal. Which of the following is the most appropriate management plan?",
+    "choices": [
+      [
+        "Initiation of non-operative conservative management with intravenous isotonic fluids, complete bowel rest, broad-spectrum empiric intravenous antibiotics, and serial abdominal examinations",
+        "ISCHEMIC COLITIS is the most common form of intestinal ischemia, accounting for > 70% of all gastrointestinal ischemic events. PATHOPHYSIOLOGY: It is primarily a non-occlusive, low-flow state caused by transient systemic hypoperfusion (e.g., perioperative hypotension, shock, cardiac failure, extreme exercise, or aortic cross-clamping sacrificing the inferior mesenteric artery). ANATOMIC VULNERABILITY (WATERSHED AREAS): Ischemia predilects microvascular junction zones between major arterial territories: (1) GRIFFITH POINT (SPLENIC FLEXURE): The watershed junction between the superior mesenteric artery (SMA via middle colic artery) and inferior mesenteric artery (IMA via left colic artery); (2) SUDECK POINT (RECTOSIGMOID JUNCTION): The watershed junction between the IMA (superior rectal artery) and internal iliac system (middle and inferior rectal arteries). Importantly, THE RECTUM IS CHARACTERISTICALLY SPARED due to dual collateral arterial blood supply from the internal iliac system. CLINICAL PRESENTATION: Sudden-onset, mild-to-moderate crampy left lower quadrant abdominal pain followed rapidly (within 24 hours) by hematochezia or bloody diarrhea. CT demonstrates colonic wall thickening and 'thumbprinting' (submucosal hemorrhage and edema). Flexible sigmoidoscopy confirms mucosal edema, cyanosis, and petechiae while verifying rectal sparing. MANAGEMENT: Greater than 80-85% of cases of ischemic colitis are transient, mucosal/submucosal ischemia (non-gangrenous) that RESOLVE COMPLETELY WITH CONSERVATIVE MEDICAL THERAPY: (a) Intravenous fluid optimization to restore colonic microvascular perfusion; (b) Complete bowel rest (NPO) and nasogastric decompression if ileus is present; (c) Empiric broad-spectrum antibiotics to prevent bacterial translocation across compromised mucosa; (d) Serial physical examinations and monitoring of lactate and WBC. INDICATIONS FOR SURGICAL RESECTION (emergent laparotomy with Hartmann resection): Development of full-thickness transmural necrosis, peritonitis, colonic perforation, refractory hemodynamic shock, or persistent bleeding."
+      ],
+      [
+        "Emergent exploratory laparotomy with total abdominal colectomy and end ileostomy",
+        "Immediate colectomy is indicated only for transmural bowel infarction manifesting as peritoneal peritonitis, pneumatosis intestinalis, or septic shock; mild-to-moderate ischemic colitis resolves conservatively in > 80% of patients."
+      ],
+      [
+        "Immediate therapeutic colonoscopy with mucosal argon plasma coagulation of bleeding ulcerations",
+        "Colonoscopic instrumentation with vigorous air insufflation increases intracolonic pressure, worsening microvascular hypoperfusion and carrying high risk of iatrogenic bowel perforation through ischemic colonic tissue."
+      ],
+      [
+        "Catheter-directed selective intra-arterial mesenteric angiography with papaverine infusion",
+        "Mesenteric angiography and vasodilator infusions are indicated for acute mesenteric ischemia involving the SMA (small bowel), not for ischemic colitis, which is a low-flow microvascular event with spontaneous resolution."
+      ],
+      [
+        "Administration of high-dose intravenous methylprednisolone for suspected inflammatory bowel disease",
+        "Corticosteroids are contraindicated in ischemic colitis because they impair tissue healing, accelerate colonic wall thinning, and significantly increase the risk of bowel perforation."
+      ]
+    ],
+    "shortestValidSolution": "Post-AAA repair / hypotension + crampy LLQ pain + bloody stools + sigmoid thumbprinting with rectal sparing = Ischemic Colitis -> Conservative management (IV fluids, bowel rest, antibiotics).",
+    "necessaryInference": "Recognize ischemic colitis as a low-flow event predilecting watershed colonic segments (splenic flexure, rectosigmoid) with rectal sparing, managed conservatively with IV fluids, bowel rest, and antibiotics in the absence of peritonitis.",
+    "strongestDistractor": "Emergent exploratory laparotomy with total abdominal colectomy and end ileostomy",
+    "distractorExclusion": "Surgical resection is reserved strictly for transmural necrosis or peritonitis; stable non-gangrenous ischemic colitis resolves with conservative medical management in > 85% of cases.",
+    "citation": "Brandt LJ, Feuerstadt P, Longstreth GF, Boley SJ. ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia (CI). Am J Gastroenterol. 2015;110(1):18-44. PMID: 25559186.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Ischemic Colitis Watershed Distribution and Conservative Management.",
+      "distractorExclusionNotes": "Competitor Emergent exploratory laparotomy with total abdomin excluded by Surgical resection is reserved strictly for transmural necro.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0793",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Measles (Rubeola) Clinical Hallmarks and Vitamin A Administration",
+    "provisionalDifficulty": 5,
+    "stem": "A 3-year-old unimmunized boy is brought to the pediatric clinic by his mother because of a 4-day history of high spiking fevers, severe hacking cough, clear rhinorrhea, and red, watery eyes. The mother notes that he has become increasingly irritable and photophobic. His parents declined all routine childhood vaccinations. Vital signs: temperature 39.8 C (103.6 F), blood pressure 92/58 mm Hg, heart rate 136/min, respirations 26/min, and oxygen saturation 97% on ambient air. Physical examination reveals an ill-appearing, irritable child. Examination of the eyes demonstrates marked bilateral conjunctival injection with abundant clear lacrimation and no purulent discharge. Examination of the oral cavity reveals erythematous buccal mucosa with numerous tiny (1 mm), clustered, grayish-white papules on an erythematous base situated opposite the lower second molars. Dermatologic examination reveals a confluent, erythematous maculopapular rash that began behind the ears and along the hairline earlier today and has spread downward to involve his face, neck, and upper chest, with sparing of the lower extremities. Lung examination reveals coarse breath sounds without focal wheezes or crackles. Which of the following is the most appropriate management plan for this patient?",
+    "choices": [
+      [
+        "Immediate placement in airborne infection isolation, notification of public health authorities, supportive care, and administration of oral high-dose vitamin A",
+        "MEASLES (RUBEOLA) is an extremely contagious viral illness caused by an enveloped, single-stranded negative-sense RNA paramyxovirus transmitted via airborne respiratory droplets (particles remain suspended in room air for up to 2 hours; basic reproduction number R0 12-18). CLINICAL PROGRESSION: (1) INCUBATION: 10-14 days; (2) PRODROMAL STAGE: Characterized by HIGH SPIKING FEVER (often > 40 C) and the CLASSIC TRIAD OF THE 'THREE Cs': (a) COUGH, (b) CORYZA, and (c) CONJUNCTIVITIS (with striking photophobia); (3) ENANTHEM (KOPLIK SPOTS): Pathognomonic tiny, bluish-gray or white granular lesions surrounded by an erythematous halo located on the buccal mucosa opposite the lower molars, appearing 1-2 days before the rash and lasting 24-48 hours; (4) EXANTHEM: Erythematous, blanching maculopapular rash that emerges along the hairline and behind the ears, then classically SPREADS CEPHALOCAUDALLY down the face, neck, trunk, and extremities, becoming confluent on the face and trunk. As it fades over 7-10 days, it desquamates and undergoes brownish hyperpigmentation. MANAGEMENT AND INFECTION CONTROL: (a) AIRBORNE ISOLATION PRECAUTIONS: Strict negative-pressure isolation with N95 respirator use is mandatory; (b) IMMEDIATE NOTIFICATION of local and state public health departments; (c) VITAMIN A THERAPY: The World Health Organization (WHO) and American Academy of Pediatrics (AAP) recommend oral high-dose vitamin A for all pediatric patients with acute measles regardless of country of residence. Measles infection severely depletes systemic retinol reserves, compromising epithelial barrier integrity and depressing cell-mediated immunity. Randomized trials demonstrate that high-dose vitamin A significantly reduces overall mortality, corneal ulceration/blindness, croup, and pneumonia in measles."
+      ],
+      [
+        "Placement in droplet precautions and initiation of oral acyclovir 20 mg/kg four times daily",
+        "Measles is an airborne pathogen requiring strict airborne negative-pressure isolation (not droplet precautions), and acyclovir is an anti-herpetic DNA polymerase inhibitor completely inactive against the RNA paramyxovirus measles."
+      ],
+      [
+        "Prescription of oral amoxicillin-clavulanate for 10 days for presumed streptococcal scarlet fever",
+        "Scarlet fever features strawberry tongue and a sandpapery rash accentuating in skin folds (Pastia lines) with sparing of the perioral area; it lacks Koplik spots, conjunctivitis, and severe coryza, and antibiotics do not treat viral measles."
+      ],
+      [
+        "Immediate intramuscular administration of the live-attenuated measles-mumps-rubella (MMR) vaccine",
+        "Post-exposure MMR vaccination is effective only within 72 hours of initial exposure in unvaccinated asymptomatic contacts; it is useless and contraindicated once active clinical measles disease has developed."
+      ],
+      [
+        "Administration of intramuscular ceftriaxone and hospital admission for empiric bacterial meningitis coverage",
+        "The clinical presentation (Koplik spots, 3 Cs, cephalocaudal rash) is classic for measles without meningeal signs; routine empiric antibiotics for bacterial meningitis are not indicated."
+      ]
+    ],
+    "shortestValidSolution": "Unvaccinated child + 3 Cs (cough, coryza, conjunctivitis) + Koplik spots + cephalocaudal rash = Measles (Rubeola) -> Airborne isolation + Vitamin A.",
+    "necessaryInference": "Recognize measles (rubeola) from the classic prodromal triad of cough, coryza, and conjunctivitis with pathognomonic Koplik spots, requiring airborne isolation and oral vitamin A therapy.",
+    "strongestDistractor": "Placement in droplet precautions and initiation of oral acyclovir 20 mg/kg four times daily",
+    "distractorExclusion": "Measles requires airborne isolation (not droplet), and acyclovir has no activity against paramyxoviruses; vitamin A is the proven mortality-reducing therapy.",
+    "citation": "Sudfeld CR, Navar AM, Halsey NA. Effectiveness of measles vaccination and vitamin A treatment. Int J Epidemiol. 2010;39(Suppl 1):i48-i55. PMID: 20348126.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Measles (Rubeola) Clinical Hallmarks and Vitamin A Administration.",
+      "distractorExclusionNotes": "Competitor Placement in droplet precautions and initiation of excluded by Measles requires airborne isolation (not droplet), and acycl.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0794",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Hereditary Hemochromatosis Diagnostic Algorithm and Therapeutic Phlebotomy",
+    "provisionalDifficulty": 5,
+    "stem": "A 52-year-old man presents to his primary care physician with a 9-month history of worsening fatigue, loss of energy, and generalized joint stiffness. The joint pain primarily involves his bilateral second and third metacarpophalangeal (MCP) joints, wrists, and knees, with morning stiffness lasting approximately 20 minutes. He also reports a gradual decrease in libido and new erectile dysfunction over the past year. He drinks one glass of wine on weekends and takes no medications. Family history is notable for a brother who developed cirrhosis of unknown etiology in his 50s. Physical examination reveals subtle grayish-slate hyperpigmentation over the face, neck, and dorsum of the hands. Musculoskeletal exam demonstrates bony swelling and mild tenderness to palpation of the second and third MCP joints bilaterally, without warm synovial effusion. Abdominal examination reveals a firm, non-tender liver edge palpable 3 cm below the right costal margin. Neurological and genital examinations demonstrate decreased testicular volume bilaterally. Laboratory evaluation: fasting serum glucose 162 mg/dL, serum AST 68 U/L, ALT 74 U/L, alkaline phosphatase 82 U/L, and total bilirubin 1.0 mg/dL. Fasting serum iron is 210 mcg/dL, total iron-binding capacity (TIBC) is 260 mcg/dL (transferrin saturation 81%; normal 20-50%), and serum ferritin is 1,650 ng/mL (normal 30-300 ng/mL). Which of the following represents the most appropriate next step to establish the definitive diagnosis and direct disease-modifying treatment?",
+    "choices": [
+      [
+        "Genetic testing for HFE gene mutations (C282Y and H63D) and initiation of weekly therapeutic phlebotomy targeting serum ferritin between 50 and 100 ng/mL",
+        "HEREDITARY HEMOCHROMATOSIS (HH) is an autosomal recessive disorder of iron metabolism most commonly caused by mutations in the HFE gene on chromosome 6 (primarily C282Y homozygosity or C282Y/H63D compound heterozygosity). PATHOPHYSIOLOGY: Mutated HFE impairs hepatic sensing of iron stores, causing inappropriate suppression of the iron-regulatory hormone HEPCIDIN. Low hepcidin leads to uncontrolled, excessive basolateral ferroportin export of iron into the plasma, causing progressive systemic hemosiderin accumulation and organ toxicity. CLINICAL MANIFESTATIONS: (1) Liver: Hepatomegaly, fibrosis, micronodular cirrhosis, and markedly increased risk of hepatocellular carcinoma (HCC, 20- to 200-fold increase); (2) Pancreas: Destruction of beta-islet cells resulting in secondary diabetes mellitus ('bronze diabetes'); (3) Skin: Hyperpigmentation (slate-gray or bronze) from melanin and hemosiderin deposition; (4) Joints: Degenerative arthropathy classically affecting the SECOND AND THIRD MCP JOINTS, wrists, and knees, frequently showing calcium pyrophosphate dihydrate (CPPD/pseudogout) deposition with hooked chondrocalcinosis; (5) Heart: Dilated or restrictive cardiomyopathy and conduction arrhythmias; (6) Pituitary / Gonads: Iron deposition in gonadotropic cells of the anterior pituitary causing secondary hypogonadotropic hypogonadism (loss of libido, erectile dysfunction, testicular atrophy). DIAGNOSTIC STRATEGY: (1) Initial screen: FASTING TRANSFERRIN SATURATION (serum iron / TIBC x 100). A transferrin saturation >= 45% (here 81%) is the most sensitive screening marker, followed by elevated serum ferritin (> 1,000 ng/mL indicates increased risk of cirrhosis); (2) CONFIRMATORY TESTING: HFE GENETIC TESTING for C282Y and H63D mutations. Liver biopsy is reserved only for patients with ferritin > 1,000 ng/mL or elevated transaminases to stage cirrhosis; (3) DEFINITIVE TREATMENT: THERAPEUTIC PHLEBOTOMY is the gold-standard disease-modifying treatment. Weekly removal of 1 unit of blood (500 mL ~ 200-250 mg elemental iron) until serum ferritin reaches 50 to 100 ng/mL, followed by maintenance phlebotomy every 2-4 months. Phlebotomy reverses hepatic fibrosis, skin pigmentation, and cardiac dysfunction, though established arthropathy and hypogonadism often fail to improve."
+      ],
+      [
+        "Diagnostic liver biopsy to evaluate for Mallory-Denk bodies and initiate oral penicillamine chelation therapy",
+        "Mallory-Denk bodies and penicillamine copper chelation are features of Wilson disease (hepatolenticular degeneration), not hereditary hemochromatosis; Wilson disease features low ceruloplasmin and Kayser-Fleischer rings."
+      ],
+      [
+        "Initiation of daily oral deferasirox iron chelation therapy and avoidance of phlebotomy due to risk of hemodynamic collapse",
+        "Therapeutic phlebotomy is the undisputed first-line treatment for hereditary hemochromatosis; oral iron chelators (deferasirox, deferoxamine) are reserved only for secondary iron overload (e.g., thalassemia major, sickle cell disease) with severe chronic anemia where phlebotomy is impossible."
+      ],
+      [
+        "Prescription of high-dose oral methotrexate and hydroxychloroquine for suspected rheumatoid arthritis",
+        "Rheumatoid arthritis typically involves symmetric PIP and MCP synovitis with prolonged morning stiffness (> 1 hour) and inflammatory autoantibodies (RF, anti-CCP); it does not cause transferrin saturation of 81%, bronze skin, or hypogonadism."
+      ],
+      [
+        "Administration of intramuscular testosterone replacement therapy as primary monotherapy to correct hypogonadism",
+        "Testosterone alone does not address systemic iron overload; unaddressed iron accumulation leads to cirrhosis, hepatocellular carcinoma, and fatal cardiomyopathy; phlebotomy is the vital disease-modifying priority."
+      ]
+    ],
+    "shortestValidSolution": "Slate hyperpigmentation + 2nd/3rd MCP arthropathy + diabetes + hypogonadism + transferrin sat 81% = Hemochromatosis -> HFE genetic testing + Therapeutic phlebotomy.",
+    "necessaryInference": "Recognize the clinical presentation of hereditary hemochromatosis and understand that HFE genetic testing confirms diagnosis, followed by weekly therapeutic phlebotomy targeting ferritin 50-100 ng/mL.",
+    "strongestDistractor": "Initiation of daily oral deferasirox iron chelation therapy and avoidance of phlebotomy due to risk of hemodynamic collapse",
+    "distractorExclusion": "Therapeutic phlebotomy is safe, inexpensive, and superior to iron chelators in primary hemochromatosis; iron chelators are reserved for patients with severe chronic anemia who cannot tolerate blood removal.",
+    "citation": "Bacon BR, Adams PC, Kowdley KV, et al. Diagnosis and management of hemochromatosis: 2011 practice guideline by the American Association for the Study of Liver Diseases. Hepatology. 2011;54(1):328-343. PMID: 21452290.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Hereditary Hemochromatosis Diagnostic Algorithm and Therapeutic Phlebotomy.",
+      "distractorExclusionNotes": "Competitor Initiation of daily oral deferasirox iron chelatio excluded by Therapeutic phlebotomy is safe, inexpensive, and superior to.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0795",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Major Depressive Disorder with Psychotic Features Treatment Modalities",
+    "provisionalDifficulty": 5,
+    "stem": "A 46-year-old woman is brought to the emergency department by her husband because of severe depressed mood, withdrawal, and bizarre beliefs that have escalated over the past 2 months. She has lost 16 pounds, sleeps less than 2 hours nightly, and spends her days rocking silently in a darkened bedroom. During the clinical interview, she speaks in a monotone whisper with prolonged latencies. She tearfully states that her intestines and stomach have completely dried up and rotted away, and that her decaying organs have contaminated the municipal water supply, causing a widespread cholera epidemic that will kill thousands of innocent children. She insists that she deserves execution to pay for her sins. Her husband confirms that she has no prior history of psychiatric illness, substance abuse, or manic episodes. Physical examination reveals an emaciated, dehydrated woman with normal vital signs, flat affect, and severe psychomotor retardation; neurological examination is completely intact. Routine laboratory evaluation, including complete blood count, comprehensive metabolic panel, thyroid-stimulating hormone, and urine toxicology screen, is entirely normal. Head CT without contrast reveals no acute intracranial abnormality. Which of the following represents the most appropriate initial treatment regimen for this patient?",
+    "choices": [
+      [
+        "Combination pharmacotherapy with an antidepressant and a second-generation atypical antipsychotic (e.g., sertraline plus olanzapine), or electroconvulsive therapy (ECT)",
+        "MAJOR DEPRESSIVE DISORDER WITH PSYCHOTIC FEATURES (PSYCHOTIC DEPRESSION) is a severe, distinct psychiatric subtype characterized by a full major depressive episode accompanied by delusions and/or hallucinations. The psychotic symptoms are typically MOOD-CONGRUENT (delusions of personal worthlessness, guilt, poverty, incurable somatic rotting/Cotard delusion, or punishment), though mood-incongruent delusions may occur. NEUROBIOLOGY AND PROGNOSIS: Psychotic depression is associated with pronounced hypothalamic-pituitary-adrenal (HPA) axis hyperactivation (dexamethasone non-suppression), higher risk of completed suicide, and severe functional impairment compared to non-psychotic depression. TREATMENT GUIDELINES (APA Guidelines / Systematic Reviews): (1) FIRST-LINE PHARMACOTHERAPY: COMBINATION OF AN ANTIDEPRESSANT (SSRI or SNRI, such as sertraline, venlafaxine, or fluoxetine) PLUS A SECOND-GENERATION (ATYPICAL) ANTIPSYCHOTIC (such as olanzapine, quetiapine, or risperidone). Multiple randomized, double-blind trials demonstrate that combination therapy achieves significantly higher remission rates (> 60-70%) than either antidepressant monotherapy or antipsychotic monotherapy alone (antidepressants alone do not resolve delusions, and antipsychotics alone do not treat the underlying mood episode); (2) ELECTROCONVULSIVE THERAPY (ECT): ECT is an undisputed first-line treatment of choice, particularly in patients with: (a) Severe food and fluid refusal causing dehydration or cachexia; (b) Active, lethal suicidal ideation or intent; (c) Severe catatonic features; (d) Pregnancy; (e) Failure of combination pharmacotherapy. ECT achieves the fastest and highest rate of clinical response (> 80-90%) in psychotic depression."
+      ],
+      [
+        "Antidepressant monotherapy with high-dose oral escitalopram 20 mg daily",
+        "Antidepressant monotherapy is ineffective for psychotic depression; extensive clinical trials show that SSRI monotherapy resolves delusions in less than 25-30% of cases; combination with an antipsychotic is mandatory."
+      ],
+      [
+        "Atypical antipsychotic monotherapy with oral aripiprazole 15 mg daily",
+        "Antipsychotic monotherapy treats psychotic agitation but fails to treat the underlying severe vegetative depressive symptoms, dysphoria, and suicidal ideation."
+      ],
+      [
+        "Initiation of intensive outpatient cognitive behavioral psychotherapy (CBT) and family psychoeducation",
+        "Psychotherapy alone is ineffective and contraindicated as initial monotherapy for severe major depression with somatic and nihilistic delusions; biological pharmacotherapy or ECT is urgently required."
+      ],
+      [
+        "Prescription of oral buspirone 15 mg twice daily and zolpidem 10 mg at bedtime",
+        "Buspirone is an azapirone 5-HT1A partial agonist indicated for generalized anxiety disorder; it has zero efficacy for major depression with psychotic features."
+      ]
+    ],
+    "shortestValidSolution": "Severe depression + somatic/nihilistic guilt delusions (rotting organs) = Psychotic Depression -> Antidepressant + Atypical Antipsychotic, or ECT.",
+    "necessaryInference": "Select the appropriate first-line treatment for major depressive disorder with psychotic features: combination antidepressant plus atypical antipsychotic, or ECT.",
+    "strongestDistractor": "Antidepressant monotherapy with high-dose oral escitalopram 20 mg daily",
+    "distractorExclusion": "Antidepressant monotherapy fails to resolve psychotic symptoms and is substantially inferior to combination antidepressant-antipsychotic pharmacotherapy.",
+    "citation": "Wijkstra J, Lijmer J, Burger H, et al. Pharmacological treatment for unipolar psychotic depression: Systematic review and meta-analysis. Br J Psychiatry. 2010;196(5):366-373. PMID: 20435961.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Major Depressive Disorder with Psychotic Features Treatment Modalities.",
+      "distractorExclusionNotes": "Competitor Antidepressant monotherapy with high-dose oral esc excluded by Antidepressant monotherapy fails to resolve psychotic sympto.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0796",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Endocrine",
+    "topic": "Polycystic Ovary Syndrome Ovulation Induction with Letrozole",
+    "provisionalDifficulty": 5,
+    "stem": "A 27-year-old nulligravid woman presents to the reproductive endocrinology clinic with an 18-month history of inability to conceive despite frequent, unprotected sexual intercourse. Her menstrual cycles have been irregular since menarche at age 13, currently occurring every 60 to 90 days. She also complains of persistent, severe facial acne refractory to topical retinoids and worsening dark, coarse hair growth on her chin, upper lip, chest, and lower abdomen, requiring weekly tweezing and waxing. She takes no medications. Physical examination reveals an obese woman (BMI 33.8 kg/m2). Vital signs: blood pressure 128/82 mm Hg, heart rate 72/min. Dermatologic examination reveals coarse terminal hair on the chin, upper lip, periareolar regions, and linea alba, consistent with a modified Ferriman-Gallwey score of 14 (abnormal >= 8). Velvety, hyperpigmented plaques are noted in the axillae and posterior neck, consistent with acanthosis nigricans. Pelvic examination is normal without clitoromegaly or adnexal masses. Transvaginal ultrasonography demonstrates bilateral enlarged ovaries (volumes 14 mL and 16 mL; normal < 10 mL) with more than 20 small, peripheral subcapsular follicles measuring 2 to 8 mm surrounding an echogenic central stroma in a classic 'string of pearls' distribution. Laboratory evaluation shows normal serum TSH, normal prolactin, and a normal morning 17-hydroxyprogesterone (110 ng/dL, ruling out non-classic congenital adrenal hyperplasia). Partner's semen analysis shows normal volume, concentration, and motility. Hysterosalpingography confirms bilateral tubal patency. Which of the following is the most appropriate first-line pharmacotherapy to achieve ovulation and pregnancy in this patient?",
+    "choices": [
+      [
+        "Oral letrozole (an aromatase inhibitor)",
+        "POLYCYSTIC OVARY SYNDROME (PCOS) is the most common cause of anovulatory infertility and hyperandrogenism in reproductive-aged women. DIAGNOSTIC CRITERIA (ROTTERDAM 2003 / 2023 INTERNATIONAL CONSENSUS): Requires at least TWO of the following three features, after excluding mimicking disorders (congenital adrenal hyperplasia, hyperprolactinemia, thyroid disease, Cushing syndrome, and androgen-secreting tumors): (1) OLIGO- OR ANOVULATION (irregular cycles, oligomenorrhea, amenorrhea); (2) CLINICAL AND/OR BIOCHEMICAL HYPERANDROGENISM (hirsutism, acne, male-pattern alopecia; elevated total or free testosterone); (3) POLYCYSTIC OVARIAN MORPHOLOGY ON ULTRASOUND (>= 20 follicles per ovary measuring 2-9 mm and/or ovarian volume >= 10 mL). PATHOPHYSIOLOGY: Abnormal GnRH pulsatility causes excess LH relative to FSH (LH:FSH ratio > 2:1), stimulating thecal cell androgen production. Coexisting peripheral INSULIN RESISTANCE hyperstimulates ovarian thecal androgens and reduces hepatic SHBG synthesis, increasing bioavailable free testosterone. Hyperandrogenism prevents dominant follicle selection, causing follicular arrest and anovulation. MANAGEMENT OF INFERTILITY IN PCOS: (1) Lifestyle modifications (diet, exercise, 5-10% weight loss restores spontaneous ovulation in many); (2) FIRST-LINE PHARMACOLOGIC OVULATION INDUCTION: ORAL LETROZOLE (AROMATASE INHIBITOR). Landmark clinical trials, specifically the NICHD PPCOS II trial (Legro et al., NEJM 2014), demonstrated that LETROZOLE RESULTS IN SIGNIFICANTLY HIGHER CUMULATIVE LIVE BIRTH RATES (27.5% vs 19.1%) AND HIGHER OVULATION RATES compared to clomiphene citrate in women with PCOS, with shorter time to pregnancy and a lower risk of multiple gestation. Mechanism: Letrozole reversibly inhibits aromatase, blocking androgen conversion to estrogens. Reduced circulating estrogen eliminates negative hypothalamic-pituitary feedback, triggering endogenous pituitary FSH secretion that drives follicular maturation. (Clomiphene citrate, a selective estrogen receptor modulator, was historically first-line but is now second-line due to anti-estrogenic effects on the endometrium and cervical mucus). Note: For patients NOT seeking pregnancy, first-line medical therapy is combined oral contraceptives."
+      ],
+      [
+        "Oral clomiphene citrate (a selective estrogen receptor modulator)",
+        "While clomiphene citrate was historically first-line, the randomized PPCOS II trial demonstrated that letrozole achieves significantly higher live birth and ovulation rates with lower multiple-gestation rates in PCOS, making letrozole the undisputed first-line agent."
+      ],
+      [
+        "Metformin monotherapy at 1,500 mg daily",
+        "Metformin improves insulin sensitivity and metabolic parameters in PCOS, but it is substantially inferior to letrozole for inducing ovulation and achieving live birth and is not recommended as first-line monotherapy for fertility."
+      ],
+      [
+        "Exogenous gonadotropin therapy (intramuscular human menopausal gonadotropins / recombinant FSH)",
+        "Injectable gonadotropins are second-line therapy for patients who fail oral ovulation induction with letrozole; they carry high risks of ovarian hyperstimulation syndrome (OHSS) and high-order multiple gestations."
+      ],
+      [
+        "Combined oral contraceptive pills containing ethinyl estradiol and drospirenone",
+        "Combined oral contraceptives are first-line for regulating menses and suppressing hyperandrogenism in women NOT desiring pregnancy; they suppress ovulation and prevent conception, which directly conflicts with this patient's fertility goals."
+      ]
+    ],
+    "shortestValidSolution": "PCOS (oligomenorrhea, hirsutism, polycystic ovaries) + desiring pregnancy = Anovulatory Infertility -> First-line ovulation induction is Letrozole.",
+    "necessaryInference": "Recognize that oral letrozole (aromatase inhibitor) has replaced clomiphene citrate as the first-line pharmacotherapy for ovulation induction and live birth in women with polycystic ovary syndrome.",
+    "strongestDistractor": "Oral clomiphene citrate (a selective estrogen receptor modulator)",
+    "distractorExclusion": "The landmark PPCOS II trial proved letrozole is superior to clomiphene citrate in live birth rate and ovulation rate in women with PCOS.",
+    "citation": "Legro RS, Brzyski RG, Diamond MP, et al. Letrozole versus clomiphene for infertility in the polycystic ovary syndrome. N Engl J Med. 2014;371(2):119-129. PMID: 25006718.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Polycystic Ovary Syndrome Ovulation Induction with Letrozole.",
+      "distractorExclusionNotes": "Competitor Oral clomiphene citrate (a selective estrogen rece excluded by The landmark PPCOS II trial proved letrozole is superior to .",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0797",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Delirium vs Dementia Differentiation and Non-Pharmacological Management",
+    "provisionalDifficulty": 5,
+    "stem": "An 81-year-old man who was hospitalized 48 hours ago for right lower lobe community-acquired pneumonia treated with intravenous ceftriaxone and azithromycin becomes acutely agitated, combative, and confused at 2:30 AM. He attempts to climb out of his hospital bed, pulls at his peripheral intravenous cannula, and screams that large black spiders are crawling across the ceiling tiles and that the night nurse is an imposter trying to poison him. His daughter, who is staying at the bedside, is extremely distressed; she reports that prior to this acute illness, he lived independently in his own home, drove daily, managed his financial investments, and had completely normal cognitive memory and functional independence. Vital signs: temperature 38.0 C (100.4 F), blood pressure 138/82 mm Hg, heart rate 94/min, respirations 20/min, and oxygen saturation 94% on 2 L/min nasal cannula. Physical examination reveals an ill-appearing, restless man. Neurological examination reveals that his level of consciousness fluctuates from hyperalert agitation to drowsy lethargy. He cannot maintain focus, is unable to spell 'WORLD' backward or recite the days of the week in reverse order, and speaks in disjointed, fragmented sentences. Cranial nerves are intact, and there are no focal motor deficits, neck stiffness, or asterixis. Serum sodium is 135 mEq/L, potassium 4.0 mEq/L, BUN 24 mg/dL, and creatinine 1.1 mg/dL. Which of the following is the most appropriate initial management strategy for this patient?",
+    "choices": [
+      [
+        "Diagnosis of acute hyperactive delirium precipitated by systemic infection, managed with multicomponent non-pharmacological interventions (verbal reorientation, family presence, circadian lighting) and avoidance of physical restraints",
+        "DELIRIUM VS DEMENTIA DIFFERENTIATION: (1) DELIRIUM is an ACUTE (hours to days), FLUCTUATING disturbance in ATTENTION (reduced ability to direct, focus, sustain, and shift attention) and AWARENESS (reduced orientation to the environment), accompanied by cognitive change (memory deficit, perceptual disturbances such as visual hallucinations/delusions) triggered by an underlying medical condition, substance intoxication/withdrawal, or medication side effect. (2) DEMENTIA (MAJOR NEUROCOGNITIVE DISORDER) is an INSIDIOUS (months to years), PROGRESSIVE decline in cognitive domains with PRESERVED ALERTNESS AND ATTENTION until advanced stages. This patient's abrupt onset, acute fluctuation in alertness, visual hallucinations, and baseline normal functional independence definitively establish DELIRIUM precipitated by pneumonia. NON-PHARMACOLOGICAL MANAGEMENT (FIRST-LINE): Hospital Elder Life Program (HELP) and clinical practice guidelines emphasize MULTICOMPONENT NON-PHARMACOLOGICAL INTERVENTIONS as the foundation of delirium management: (a) Frequent verbal reorientation and presence of familiar family members; (b) Maintaining sleep-wake hygiene (daytime natural light and mobilization, quiet and dark environment at night); (c) Providing sensory aids (glasses, hearing aids); (d) Minimizing invasive tethers (early removal of urinary catheters and unnecessary IV lines); (e) AVOIDANCE OF PHYSICAL RESTRAINTS: Physical restraints directly worsen agitation, increase delirium duration, and cause severe asphyxiation or injury. PHARMACOTHERAPY (ANTIPSYCHOTICS): Antipsychotics (e.g., low-dose haloperidol or quetiapine) DO NOT PREVENT OR SHORTEN DELIRIUM DURATION and carry risks of QTc prolongation, extrapyramidal symptoms, and increased mortality. They are strictly reserved as a last resort for severe agitation that poses an immediate, serious physical danger to the patient or staff."
+      ],
+      [
+        "Immediate application of four-point soft wrist and ankle restraints to prevent falls and catheter dislodgement",
+        "Physical restraints are strictly contraindicated as first-line management; they dramatically intensify panic and combative agitation, prolong delirium duration, and cause severe trauma and strangulation."
+      ],
+      [
+        "Administration of high-dose intravenous lorazepam 2 mg bolus for acute sedation",
+        "Benzodiazepines (lorazepam) directly worsen and prolong delirium, increase the risk of paradoxical disinhibition, respiratory depression, and falls, and are strictly contraindicated except in alcohol or sedative withdrawal."
+      ],
+      [
+        "Initiation of daily oral donepezil 5 mg for newly diagnosed Alzheimer disease",
+        "Donepezil is a cholinesterase inhibitor for chronic progressive Alzheimer dementia; initiating it for acute infection-induced delirium has zero efficacy, causes cholinergic gastrointestinal toxicity, and delays necessary delirium interventions."
+      ],
+      [
+        "Immediate continuous intravenous haloperidol infusion to achieve rapid neuroleptic calming",
+        "Continuous IV haloperidol is associated with severe QTc prolongation, torsades de pointes, and neuroleptic malignant syndrome; antipsychotics should never be given as continuous infusions or routine delirium therapy."
+      ]
+    ],
+    "shortestValidSolution": "Acute fluctuating inattention + visual hallucinations + normal baseline cognition + triggered by pneumonia = Delirium -> Non-pharmacological reorientation + Avoid physical restraints.",
+    "necessaryInference": "Differentiate acute delirium from dementia and apply first-line multicomponent non-pharmacological management while avoiding physical restraints and benzodiazepines.",
+    "strongestDistractor": "Administration of high-dose intravenous lorazepam 2 mg bolus for acute sedation",
+    "distractorExclusion": "Benzodiazepines worsen delirium and cause paradoxical agitation; they are contraindicated in non-substance withdrawal delirium.",
+    "citation": "Inouye SK, Westendorp RG, Saczynski JS. Delirium in elderly people. Lancet. 2014;383(9920):911-922. PMID: 23992774.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Delirium vs Dementia Differentiation and Non-Pharmacological Management.",
+      "distractorExclusionNotes": "Competitor Administration of high-dose intravenous lorazepam  excluded by Benzodiazepines worsen delirium and cause paradoxical agitat.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0798",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Unstable Open-Book Pelvic Fracture Resuscitation and Pelvic Binder Application",
+    "provisionalDifficulty": 5,
+    "stem": "A 36-year-old construction worker is brought by emergency medical services to the level 1 trauma center after falling 25 feet from a scaffold onto concrete. On arrival, he is pale, cool, diaphoretic, and groaning with severe lower abdominal and pelvic pain. Primary survey reveals an intact airway with bilateral clear breath sounds and no chest wall instability. Vital signs: blood pressure 76/44 mm Hg, heart rate 138/min, respirations 26/min, and oxygen saturation 95% on non-rebreather mask. Physical examination reveals exquisite tenderness to palpation over the anterior pelvis; gentle manual compression of both anterior superior iliac spines demonstrates abnormal lateral displacement and gross pelvic instability with palpable crepitus. Extensive perineal and scrotal ecchymosis is present, and a small drop of blood is visualized at the urethral meatus. Abdominal FAST (Focused Assessment with Sonography for Trauma) examination reveals free fluid in the rectovesical pouch without fluid in the hepatorenal or splenorenal recesses. A portable anteroposterior pelvic radiograph obtained in the trauma bay demonstrates a 4.5-cm diastasis of the pubic symphysis with disruption of the right sacroiliac joint, consistent with an anteroposterior compression (APC) type III 'open-book' pelvic fracture. Which of the following is the most appropriate next step in the emergency management of this patient?",
+    "choices": [
+      [
+        "Emergent application of a circumferential pelvic compression device (pelvic binder) centered precisely over the greater trochanters, combined with activation of the massive transfusion protocol (1:1:1 pRBCs, FFP, and platelets)",
+        "UNSTABLE 'OPEN-BOOK' PELVIC FRACTURE RESUSCITATION: MECHANISM AND PATHOPHYSIOLOGY: Severe anteroposterior compression (APC II/III) disruptions tear the anterior pubic symphysis and posterior sacroiliac ligaments, allowing the hemipelvis to rotate externally ('open-book'). This dramatically INCREASES THE INTRAPELVIC VOLUME, creating an open space that abolishes the normal tamponade effect. Hemorrhage in pelvic fractures originates primarily from: (1) LOW-PRESSURE RETROPERITONEAL AND PRESACRAL VENOUS PLEXUSES (85-90% of bleeding); (2) Bleeding from cancellous fractured bone surfaces; (3) Arterial injury (internal iliac branches: superior gluteal, internal pudendal, lateral sacral, 10-15% of bleeding). Life-threatening exsanguination occurs within minutes. IMMEDIATE EMERGENCY STABILIZATION: (1) PELVIC CIRCUMFERENTIAL COMPRESSION (PELVIC BINDER): Applying a commercial non-invasive pelvic binder (or folded bedsheet) IMMEDIATELY reduces pelvic volume, closes the diastasis, and restores retroperitoneal tissue pressure to tamponade venous bleeding and stop fractured bone bleeding. CRITICAL ANATOMIC PLACEMENT: The pelvic binder MUST BE CENTERED OVER THE GREATER TROCHANTERS (at the level of the pubic symphysis). Placing it higher over the iliac crests is ineffective and can actually worsen fracture displacement; (2) DAMAGE CONTROL RESUSCITATION: Immediate activation of the MASSIVE TRANSFUSION PROTOCOL using balanced 1:1:1 ratios of packed red blood cells, fresh frozen plasma, and platelets; avoid large crystalloid infusions that disrupt clot formation. (3) NEXT STEPS BASED ON HEMODYNAMIC RESPONSE: If hemodynamic instability persists despite pelvic binding and blood resuscitation: (a) If FAST is positive for intraperitoneal hemorrhage -> Emergent laparotomy and preperitoneal pelvic packing; (b) If instability persists from retroperitoneal arterial hemorrhage -> Emergent pelvic angiography and transcatheter arterial embolization."
+      ],
+      [
+        "Immediate transfer to the operating room for emergent exploratory laparotomy and iliac vessel surgical clamping",
+        "Pelvic venous hemorrhage cannot be controlled by laparotomy; opening the retroperitoneum releases the precarious tamponade and accelerates fatal exsanguination; pelvic binding followed by preperitoneal packing or angiography is standard."
+      ],
+      [
+        "Application of a pelvic binder centered high over the iliac crests combined with rapid infusion of 3 liters of warm 0.9% normal saline",
+        "Centering a binder over the iliac crests is anatomically incorrect and displaces fractures; furthermore, aggressive crystalloid hemodilution disrupts coagulation and worsens mortality compared to balanced 1:1:1 blood transfusion."
+      ],
+      [
+        "Immediate insertion of a 16-French Foley urethral catheter to monitor urine output during resuscitation",
+        "Blood at the urethral meatus and scrotal ecchymosis indicate suspected urethral disruption; blind Foley catheterization is contraindicated until a retrograde urethrogram rules out urethral transection."
+      ],
+      [
+        "Immediate non-contrast pelvic CT scan with 3D reconstruction to characterize the fracture anatomy",
+        "A hemodynamically unstable trauma patient (BP 76/44 mm Hg) must NEVER be transported to the CT scanner; stabilization with pelvic binding and transfusion in the trauma bay takes absolute priority."
+      ]
+    ],
+    "shortestValidSolution": "Trauma + open-book pelvic fracture (pubic diastasis 4.5 cm) + hemorrhagic shock = Unstable pelvic fracture -> Pelvic binder over greater trochanters + 1:1:1 Massive transfusion.",
+    "necessaryInference": "Manage unstable open-book pelvic fractures by recognizing that placing a pelvic binder over the greater trochanters restores retroperitoneal tamponade to control venous bleeding, accompanied by balanced blood resuscitation.",
+    "strongestDistractor": "Application of a pelvic binder centered high over the iliac crests combined with rapid infusion of 3 liters of warm 0.9% normal saline",
+    "distractorExclusion": "A binder placed over the iliac crests fails to compress the greater trochanters, and large crystalloid infusions cause lethal dilutional coagulopathy and hypothermia.",
+    "citation": "Cullinane DC, Schiller HJ, Zielinski MD, et al. Eastern Association for the Surgery of Trauma practice management guideline: Evaluation and management of hemorrhage with pelvic fractures. J Trauma Acute Care Surg. 2011;71(6):1850-1868. PMID: 22182895.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Unstable Open-Book Pelvic Fracture Resuscitation and Pelvic Binder Application.",
+      "distractorExclusionNotes": "Competitor Application of a pelvic binder centered high over  excluded by A binder placed over the iliac crests fails to compress the .",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0799",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Infective Endocarditis Indications for Urgent Valve Replacement Surgery",
+    "provisionalDifficulty": 5,
+    "stem": "A 54-year-old man with a known history of a congenitally bicuspid aortic valve is hospitalized for native valve infective endocarditis caused by penicillin-susceptible Streptococcus mitis (viridans group streptococci). He has completed 6 days of targeted intravenous ceftriaxone therapy. On hospital day 7, he develops sudden-onset severe shortness of breath, orthopnea, and anxiety. Vital signs: blood pressure 104/42 mm Hg (wide pulse pressure), heart rate 116/min and regular, respirations 28/min, and oxygen saturation 88% on 4 L/min nasal cannula. Cardiovascular examination reveals an early diastolic, decrescendo high-pitched murmur heard best along the left sternal border with the patient leaning forward, along with an S3 gallop and soft S1. Bilateral pulmonary examination reveals diffuse fine end-inspiratory crackles extending through the mid-lung fields bilaterally. Peripheral pulses are bounding (water-hammer pulses). Urgent transthoracic and transesophageal echocardiography reveals acute severe aortic regurgitation with holodiastolic flow reversal in the descending aorta, premature closure of the mitral valve in late diastole, and a 14-mm mobile, pedunculated vegetation on the right coronary cusp of the aortic valve. Left ventricular ejection fraction is 58% with normal cavity dimensions. Which of the following is the most appropriate next step in the management of this patient?",
+    "choices": [
+      [
+        "Urgent surgical aortic valve replacement combined with continuation of targeted intravenous bactericidal antibiotic therapy",
+        "INFECTIVE ENDOCARDITIS (IE) SURGICAL INDICATIONS: While medical antimicrobial therapy cures many uncomplicated native valve IE cases, approximately 50% of patients develop complications requiring early surgical valve replacement. INDICATIONS FOR EARLY / URGENT SURGICAL INTERVENTION (AHA/ACC and ESC Guidelines): (1) HEART FAILURE / HEMODYNAMIC COMPROMISE (MOST COMMON AND DECISIVE INDICATION): Acute severe aortic or mitral regurgitation resulting in pulmonary edema, refractory cardiogenic shock, or echocardiographic signs of elevated LV end-diastolic pressure (such as PREMATURE CLOSURE OF THE MITRAL VALVE). Acute severe aortic regurgitation poorly accommodates large regurgitant volumes because the non-compliant, normal-sized left ventricle experiences precipitous rises in LVEDP, rapidly exceeding left atrial pressure and closing the mitral valve prematurely before ventricular systole. Medical management alone carries > 75% in-hospital mortality; urgent surgical valve replacement is Class I indicated regardless of antibiotic duration; (2) UNCONTROLLED LOCAL INFECTION: Persistent bacteremia or unrelenting fever despite > 7-10 days of targeted bactericidal antibiotic therapy, perivalvular extension (aortic root abscess, fistula, pseudoaneurysm, or new heart block); (3) PREVENTION OF RECURRENT EMBOLISM: Large, persistent mobile vegetations (> 10 mm in length), especially on the aortic or mitral valve and particularly following an embolic event or accompanied by mobile components. This patient has acute severe aortic regurgitation causing acute left heart failure, pulmonary edema, premature mitral valve closure, and a 14-mm vegetation\u2014an absolute, life-saving indication for urgent surgical valve replacement."
+      ],
+      [
+        "Completion of a 4-week course of intravenous ceftriaxone before considering elective outpatient valve replacement",
+        "Waiting to complete a 4-week antibiotic course in the setting of acute severe aortic regurgitation and pulmonary edema leads to irreversible cardiogenic shock and death; urgent surgery is mandatory."
+      ],
+      [
+        "Administration of intravenous loop diuretics and initiation of oral afterload reduction with an ACE inhibitor, avoiding surgical intervention",
+        "Medical management with vasodilators and diuretics cannot reverse structural valve destruction; while temporizing, it is entirely insufficient, and delaying surgery carries high operative and in-hospital mortality."
+      ],
+      [
+        "Urgent transcatheter aortic valve replacement (TAVR) to avoid the morbidity of open sternotomy",
+        "TAVR is contraindicated in active infective endocarditis because the prosthetic valve cannot anchor securely into destroyed, infected annular tissue, risks fatal paravalvular leak, and spreads persistent infection."
+      ],
+      [
+        "Switching intravenous ceftriaxone to intravenous vancomycin, gentamicin, and rifampin triple therapy",
+        "The clinical deterioration is due to mechanical acute valve destruction and hemodynamic failure, not antibiotic resistance (viridans streptococci is penicillin-susceptible); changing antimicrobials does not fix structural valve rupture."
+      ]
+    ],
+    "shortestValidSolution": "IE on bicuspid aortic valve + acute severe AR + pulmonary edema + premature mitral closure + 14-mm veg = IE with acute heart failure -> Urgent surgical valve replacement.",
+    "necessaryInference": "Recognize the absolute indications for urgent cardiac surgical intervention in infective endocarditis: acute severe valvular regurgitation causing heart failure / pulmonary edema, perivalvular abscess, and large mobile vegetations (> 10 mm).",
+    "strongestDistractor": "Administration of intravenous loop diuretics and initiation of oral afterload reduction with an ACE inhibitor, avoiding surgical intervention",
+    "distractorExclusion": "Mechanical destruction of the aortic valve causing hemodynamic instability cannot be treated medically; urgent surgical valve replacement is required to prevent fatal pulmonary edema and shock.",
+    "citation": "Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease. Circulation. 2021;143(5):e72-e227. PMID: 33332150.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Infective Endocarditis Indications for Urgent Valve Replacement Surgery.",
+      "distractorExclusionNotes": "Competitor Administration of intravenous loop diuretics and i excluded by Mechanical destruction of the aortic valve causing hemodynam.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s2-0800",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Secondary Syphilis Clinical Manifestations and Benzathine Penicillin G Treatment",
+    "provisionalDifficulty": 5,
+    "stem": "A 29-year-old man presents to the clinic with a 2-week history of a widespread rash, fatigue, low-grade fevers, and generalized muscle aches. He recalls having a solitary, painless ulcer on the shaft of his penis approximately 6 weeks ago that resolved spontaneously over 3 weeks without medical evaluation or treatment. He is sexually active with two female partners and occasionally uses condoms. Vital signs: temperature 37.8 C (100.0 F), blood pressure 122/76 mm Hg, heart rate 74/min, and respirations 14/min. Physical examination reveals diffuse, symmetrical, non-pruritic, reddish-brown macules and papules (1 to 5 mm) distributed over his trunk and extremities, with prominent involvement of the bilateral palmar surfaces of his hands and plantar surfaces of his feet. Examination of the perianal area demonstrates several moist, broad-based, flat, grayish-white plaque-like vegetations in the gluteal cleft. Examination of the oral cavity reveals shallow, painless mucosal erosions with an erythematous border on the inner lower lip. Non-tender, rubbery lymphadenopathy is palpable in the posterior cervical, axillary, epitrochlear, and inguinal chains. Neurological examination is completely normal. Rapid plasma reagin (RPR) titer is markedly positive at 1:128, and a confirmatory Treponema pallidum particle agglutination (TP-PA) assay is reactive. Which of the following is the most appropriate treatment for this patient?",
+    "choices": [
+      [
+        "Intramuscular administration of a single dose of benzathine penicillin G 2.4 million units",
+        "SECONDARY SYPHILIS: Treponema pallidum is a microaerophilic spirochete that causes syphilis. STAGES AND NATURAL HISTORY: (1) PRIMARY SYPHILIS: Characterized by a painless, indurated ulcer (chancre) at the site of inoculation accompanied by non-tender regional lymphadenopathy, healing spontaneously in 3-6 weeks; (2) SECONDARY SYPHILIS: Occurs 4 to 10 weeks after primary infection as spirochetes disseminate hematogenously. CLINICAL HALLMARKS: (a) RASH: Diffuse, symmetrical maculopapular or papulosquamous rash classically involving the PALMS AND SOLES (copper-penny lesions); (b) CONDYLOMATA LATA: Highly infectious, moist, flat, broad-based, cauliflower-like plaques in intertriginous and genital areas; (c) MUCOUS PATCHES: Painless shallow oral mucosal erosions; (d) GENERALIZED LYMPHADENOPATHY: Characteristically involving the EPITROCHLEAR NODES (highly suggestive of syphilis); (e) Constitutional symptoms: Low-grade fever, malaise, pharyngitis, patchy 'moth-eaten' alopecia; (3) LATENT SYPHILIS: Asymptomatic period (early latent < 1 year; late latent > 1 year); (4) TERTIARY SYPHILIS: Gummas, cardiovascular syphilis (aortitis, aortic aneurysm), and neurosyphilis. TREATMENT GUIDELINES (CDC 2021 STI Guidelines): (a) EARLY SYPHILIS (PRIMARY, SECONDARY, AND EARLY LATENT < 1 YEAR): A SINGLE INTRAMUSCULAR DOSE OF BENZATHINE PENICILLIN G 2.4 MILLION UNITS. (Note: Penicillin G benzathine is long-acting depot; aqueous or procaine formulations cannot be substituted). In non-pregnant penicillin-allergic patients, oral doxycycline 100 mg twice daily for 14 days is an alternative; (b) LATE LATENT (> 1 YEAR OR UNKNOWN DURATION): Benzathine penicillin G 2.4 million units IM ONCE WEEKLY FOR 3 CONSECUTIVE WEEKS (total 7.2 million units); (c) NEUROSYPHILIS: Aqueous crystalline penicillin G 18-24 million units/day IV for 10-14 days. Following treatment, patients should be warned about the JARISCH-HERXHEIMER REACTION (acute fever, chills, tachycardia, and exacerbation of rash occurring within 24 hours due to massive spirochetal lysis releasing endotoxin-like pyrogens), which is managed supportively with antipyretics."
+      ],
+      [
+        "Oral doxycycline 100 mg twice daily for 28 consecutive days",
+        "Doxycycline for 14 days is an alternative for penicillin-allergic non-pregnant patients; however, parenteral benzathine penicillin G 2.4 million units IM single dose is the preferred first-line therapy with superior cure rates."
+      ],
+      [
+        "Intramuscular administration of benzathine penicillin G 2.4 million units once weekly for 3 consecutive weeks",
+        "Three weekly doses of benzathine penicillin G are indicated for late latent syphilis (> 1 year duration), tertiary syphilis, or syphilis of unknown duration; early secondary syphilis requires only a single dose."
+      ],
+      [
+        "Continuous intravenous infusion of aqueous crystalline penicillin G 24 million units daily for 14 days",
+        "Intravenous crystalline penicillin G is the treatment of choice for neurosyphilis, ocular syphilis, or otosyphilis; in the absence of neurological signs, early secondary syphilis is treated with a single IM injection."
+      ],
+      [
+        "Oral amoxicillin-clavulanate 875/125 mg twice daily for 10 days",
+        "Oral aminopenicillins have inadequate pharmacokinetic profiles and do not achieve prolonged treponemicidal levels; benzathine penicillin G depot injection is mandatory to clear T. pallidum."
+      ]
+    ],
+    "shortestValidSolution": "Painless chancre healed + palm/sole rash + condylomata lata + epitrochlear adenopathy + RPR 1:128 = Secondary Syphilis -> Single IM dose Benzathine Penicillin G 2.4 million units.",
+    "necessaryInference": "Diagnose secondary syphilis from the characteristic diffuse palm/sole rash, condylomata lata, and generalized lymphadenopathy, and treat with a single intramuscular dose of benzathine penicillin G 2.4 million units.",
+    "strongestDistractor": "Intramuscular administration of benzathine penicillin G 2.4 million units once weekly for 3 consecutive weeks",
+    "distractorExclusion": "A 3-week course is indicated for late latent or unknown-duration syphilis; secondary syphilis is an early stage requiring only a single intramuscular dose of 2.4 million units.",
+    "citation": "Workowski KA, Bachmann LH, Chan PA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187. PMID: 34292926.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 2 CK clinical management item evaluating Secondary Syphilis Clinical Manifestations and Benzathine Penicillin G Treatment.",
+      "distractorExclusionNotes": "Competitor Intramuscular administration of benzathine penicil excluded by A 3-week course is indicated for late latent or unknown-dura.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  }
+];

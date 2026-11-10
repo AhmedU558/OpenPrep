@@ -1,0 +1,1079 @@
+import { CandidateSpec } from './types';
+
+export const step3Batch29: CandidateSpec[] = [
+  {
+    "code": "op-c-s3-0701",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Cardiogenic Shock Inotropic Resuscitation vs Vasopressors",
+    "provisionalDifficulty": 5,
+    "stem": "A 68-year-old man with a history of ischemic cardiomyopathy (left ventricular ejection fraction 22%) presents to the intensive care unit with worsening dyspnea, orthopnea, and confusion. Over the past 48 hours, he has experienced progressive oliguria. On arrival, he is cold, clammy, and somnolent. Vital signs: blood pressure 82/56 mm Hg, heart rate 104/min, respirations 24/min, and oxygen saturation 90% on 4 L/min nasal cannula. Physical examination reveals elevated jugular venous pressure of 14 cm H2O, an audible S3 gallop, diffuse bilateral pulmonary crackles extending across the lower two-thirds of both lung fields, and 3+ pitting edema of the lower extremities with mottled cool knees. Invasive hemodynamic monitoring via pulmonary artery catheterization demonstrates: cardiac index 1.6 L/min/m2 (normal 2.5-4.0), pulmonary capillary wedge pressure (PCWP) 28 mm Hg (normal 6-12), systemic vascular resistance (SVR) 2,100 dynes\u00b7s/cm5 (normal 800-1,200), and central venous oxygen saturation (ScvO2) 52% (normal > 70%). Serum lactate is 3.8 mmol/L and serum creatinine is 2.4 mg/dL (baseline 1.1 mg/dL). Which of the following is the most appropriate initial pharmacological strategy to restore systemic organ perfusion?",
+    "choices": [
+      [
+        "Initiation of intravenous inotropic therapy with dobutamine (or milrinone) combined with cautious norepinephrine titration to maintain mean arterial pressure > 65 mm Hg",
+        "CARDIOGENIC SHOCK (CS) is characterized by primary cardiac pump failure resulting in inadequate tissue perfusion, manifested by persistent hypotension (systolic BP < 90 mm Hg or MAP < 65 mm Hg), elevated cardiac filling pressures (PCWP > 15 mm Hg), and depressed cardiac index (< 2.2 L/min/m2) with elevated systemic vascular resistance. PATHOPHYSIOLOGY: Severe left ventricular systolic failure triggers compensatory neurohormonal activation (sympathetic nervous system and renin-angiotensin-aldosterone system), causing profound peripheral vasoconstriction (elevated SVR). While this maintains perfusion pressure to vital cerebral and coronary beds initially, it markedly increases LV afterload, worsening forward stroke volume and driving end-organ ischemia (elevated lactate, acute oliguric renal failure). MANAGEMENT PRINCIPLES (AHA/ACC and ESC Heart Failure Guidelines): (1) INOTROPIC THERAPY: Inotropes (DOBUTAMINE [beta-1 > beta-2 adrenergic agonist] or MILRINONE [phosphodiesterase-3 inhibitor]) are required to increase myocardial contractility and stroke volume, which increases cardiac output, lowers PCWP, and promotes forward organ perfusion; (2) VASOPRESSOR CO-ADMINISTRATION: Pure inotropes often induce peripheral vasodilation (especially milrinone or low-dose dobutamine), which can exacerbate hypotension in already hypotensive patients (BP 82/56 mm Hg). Therefore, NOREPINEPHRINE (potent alpha-1 and mild beta-1 agonist) should be co-titrated to maintain adequate perfusion pressure (target MAP >= 65 mm Hg) without causing excessive afterload elevation; (3) DIURETICS: Cautious IV loop diuretics are added once perfusion pressure is stabilized to relieve pulmonary edema; (4) MECHANICAL CIRCULATORY SUPPORT: If refractory to inotropic/vasopressor therapy, temporary mechanical circulatory support (intra-aortic balloon pump [IABP], Impella, or venoarterial ECMO) is indicated as a bridge to recovery or advanced therapies."
+      ],
+      [
+        "Administration of aggressive intravenous crystalloid boluses of 30 mL/kg balanced salt solution",
+        "Aggressive volume resuscitation is indicated for hypovolemic or septic shock; in cardiogenic shock with severe pulmonary congestion and PCWP 28 mm Hg, volume loading exacerbates pulmonary edema, worsening hypoxemia and accelerating respiratory arrest."
+      ],
+      [
+        "Monotherapy with high-dose intravenous phenylephrine infusion titrated to systolic blood pressure > 110 mm Hg",
+        "Phenylephrine is a pure alpha-1 adrenergic agonist that increases systemic vascular resistance without inotropic activity; in cardiogenic shock, escalating afterload dramatically decreases forward stroke volume and worsens left ventricular pump failure."
+      ],
+      [
+        "Intravenous bolus administration of metoprolol 5 mg followed by oral carvedilol initiation",
+        "Beta-blockers exert negative inotropic effects and are strictly contraindicated in acute decompensated heart failure with cardiogenic shock, low cardiac index, and tissue hypoperfusion; they precipitate acute electromechanical arrest."
+      ],
+      [
+        "Immediate continuous intravenous infusion of nitroprusside without inotropic or vasopressor support",
+        "Nitroprusside is a potent arterial and venous vasodilator useful for hypertensive pulmonary edema; in a patient who is already hypotensive (BP 82/56 mm Hg), unmonitored vasodilator monotherapy causes catastrophic circulatory collapse."
+      ]
+    ],
+    "shortestValidSolution": "LVEF 22% + cold/clammy shock + CI 1.6 + PCWP 28 + SVR 2100 = Cardiogenic Shock -> Dobutamine (inotrope) + Norepinephrine (maintain MAP > 65).",
+    "necessaryInference": "Diagnose acute cardiogenic shock from invasive hemodynamics (low cardiac index, elevated PCWP, elevated SVR) and select inotrope therapy (dobutamine) coupled with norepinephrine to maintain perfusion pressure.",
+    "strongestDistractor": "Monotherapy with high-dose intravenous phenylephrine infusion titrated to systolic blood pressure > 110 mm Hg",
+    "distractorExclusion": "Pure alpha-1 agonism increases systemic afterload against a failing ventricle, causing further reduction in cardiac output and exacerbating end-organ hypoperfusion.",
+    "citation": "van Diepen S, Katz JN, Albert NM, et al. Contemporary Management of Cardiogenic Shock: A Scientific Statement From the American Heart Association. Circulation. 2017;136(16):e232-e268. PMID: 28923988.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Cardiogenic Shock Inotropic Resuscitation vs Vasopressors.",
+      "distractorExclusionNotes": "Competitor Monotherapy with high-dose intravenous phenylephri excluded by Pure alpha-1 agonism increases systemic afterload against a .",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0702",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Chronic Kidney Disease Metabolic Acidosis and Hyperkalemia Management",
+    "provisionalDifficulty": 4,
+    "stem": "A 64-year-old woman with stage 4 diabetic kidney disease (eGFR 22 mL/min/1.73 m2, baseline creatinine 2.6 mg/dL) and hypertension comes to the outpatient nephrology clinic for routine follow-up. Her current medications include lisinopril 20 mg daily, furosemide 40 mg daily, and atorvastatin 20 mg daily. She is adherent to a low-sodium diet and feels well without nausea, vomiting, weakness, palpitations, or dyspnea. Vital signs: blood pressure 134/82 mm Hg, heart rate 72/min, respirations 14/min, and BMI 28 kg/m2. Physical examination reveals normal heart sounds, clear lungs, and trace bilateral pretibial edema. Laboratory evaluation reveals: serum sodium 138 mEq/L, potassium 5.6 mEq/L (normal 3.5-5.0), chloride 106 mEq/L, serum bicarbonate (total CO2) 17 mEq/L (normal 22-29), BUN 48 mg/dL, and serum creatinine 2.7 mg/dL. Urinalysis shows 2+ protein without casts. A 12-lead ECG is normal without peaked T waves, PR prolongation, or QRS widening. Which of the following is the most appropriate management plan to optimize her acid-base status and manage hyperkalemia while preserving cardiorenal protection?",
+    "choices": [
+      [
+        "Initiate oral sodium bicarbonate therapy targeting a serum bicarbonate of 22 to 24 mEq/L, and initiate a gastrointestinal potassium binder (such as patiromer or sodium zirconium cyclosilicate) to maintain lisinopril therapy",
+        "CHRONIC KIDNEY DISEASE (CKD) METABOLIC ACIDOSIS AND HYPERKALEMIA MANAGEMENT: (1) CHRONIC METABOLIC ACIDOSIS IN CKD: As GFR declines (< 30 mL/min/1.73 m2), renal tubular synthesis and excretion of ammonium (NH4+) and titratable acids become inadequate to balance endogenous net acid production (predominantly sulfuric and phosphoric acids from protein catabolism). Chronic metabolic acidosis (serum bicarbonate < 22 mEq/L) stimulates skeletal muscle proteolysis (ubiquitin-proteasome pathway), accelerates bone mineral resorption (osteomalacia, renal osteodystrophy), worsens systemic inflammation, and directly accelerates CKD progression via compensatory endothelin-1 and intrarenal complement activation. KDIGO CLINICAL PRACTICE GUIDELINES: In CKD patients with serum bicarbonate < 22 mEq/L, ORAL ALKALI SUPPLEMENTATION (SODIUM BICARBONATE OR SODIUM CITRATE) IS RECOMMENDED TO MAINTAIN SERUM BICARBONATE WITHIN THE NORMAL RANGE (22-24 mEq/L). Landmark clinical trials demonstrate that bicarbonate supplementation slows the rate of eGFR decline; (2) CONCOMITANT HYPERKALEMIA AND RAAS INHIBITOR PRESERVATION: ACE inhibitors (lisinopril) and ARBs provide proven renal and cardiovascular mortality benefits, delaying progression to end-stage kidney disease. Discontinuing RAAS inhibitors due to mild-to-moderate hyperkalemia (potassium 5.0-6.0 mEq/L) is associated with worse cardiovascular outcomes. MODERN NOVEL POTASSIUM BINDERS (PATIROMER, SODIUM ZIRCONIUM CYCLOSILICATE [SZC]): These selective cation-exchange polymers/lattices trap potassium in the gastrointestinal tract, enabling safe long-term normalization of serum potassium while permitting continuation of guideline-directed RAAS inhibitor therapy. Therefore, combining oral sodium bicarbonate for metabolic acidosis with an oral potassium binder maintains normokalemia and preserves indispensable lisinopril therapy."
+      ],
+      [
+        "Immediately discontinue lisinopril permanently and replace it with oral hydralazine monotherapy",
+        "Permanently discontinuing RAAS inhibition eliminates crucial cardiorenal protection, accelerating diabetic nephropathy progression and cardiovascular mortality; novel potassium binders allow RAAS preservation."
+      ],
+      [
+        "Prescribe high-dose oral sodium polystyrene sulfonate (Kayexalate) 60 g daily mixed in 70% sorbitol",
+        "Sodium polystyrene sulfonate mixed in sorbitol is associated with intestinal necrosis, colonic perforation, and mesenteric ischemia; it is obsolete and contraindicated for chronic outpatient management."
+      ],
+      [
+        "Advise the patient that mild acidosis (bicarbonate 17 mEq/L) is a normal compensatory mechanism in advanced CKD requiring no medical intervention",
+        "Chronic metabolic acidosis with bicarbonate < 22 mEq/L is pathologic, driving muscle wasting, bone demineralization, and rapid progression to dialysis; treatment with oral alkali is guideline-mandated."
+      ],
+      [
+        "Double the daily dose of furosemide to 80 mg daily as sole therapy to induce urinary potassium and acid wasting",
+        "Escalating loop diuretics without volume overload precipitates intravascular volume depletion, worsening acute-on-chronic renal function and prerenal azotemia without reliably normalizing bicarbonate."
+      ]
+    ],
+    "shortestValidSolution": "Stage 4 CKD + metabolic acidosis (HCO3 17) + mild hyperkalemia (K 5.6) on ACEi = Indication for alkali + K binder -> Oral sodium bicarbonate + Patiromer/SZC (preserve ACEi).",
+    "necessaryInference": "Apply KDIGO guidelines to treat chronic metabolic acidosis (bicarbonate < 22 mEq/L) with oral sodium bicarbonate and utilize gastrointestinal potassium binders to preserve life-prolonging RAAS inhibitor therapy.",
+    "strongestDistractor": "Immediately discontinue lisinopril permanently and replace it with oral hydralazine monotherapy",
+    "distractorExclusion": "Discontinuing RAAS inhibitors deprives CKD patients of proven renal and cardiovascular benefits; potassium binders should be used to enable continued ACE inhibitor therapy.",
+    "citation": "de Brito-Ashurst I, Varagunam M, Raftery MJ, Yaqoob MM. Bicarbonate supplementation slows progression of CKD and improves nutritional status. J Am Soc Nephrol. 2009;20(9):2075-2084. PMID: 19608703.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Chronic Kidney Disease Metabolic Acidosis and Hyperkalemia Management.",
+      "distractorExclusionNotes": "Competitor Immediately discontinue lisinopril permanently and excluded by Discontinuing RAAS inhibitors deprives CKD patients of prove.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0703",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Aneurysmal Subarachnoid Hemorrhage Delayed Cerebral Ischemia Prevention",
+    "provisionalDifficulty": 5,
+    "stem": "A 52-year-old woman is admitted to the neurointensive care unit after undergoing successful endovascular coil embolization of a ruptured 7-mm anterior communicating artery aneurysm. On initial presentation 4 days ago, she had an acute 'thunderclap' headache with Hunt and Hess grade II and Fisher grade 3 subarachnoid hemorrhage (SAH). Following coiling, she was neurologically intact with a Glasgow Coma Scale score of 15. On post-bleed day 5, the nurse notes that she has become mildly somnolent and has developed a new, subtle right facial droop and right pronator drift. Vital signs: blood pressure 138/82 mm Hg, heart rate 68/min, respirations 16/min, and temperature 37.4 C. Bedside transcranial Doppler (TCD) ultrasonography reveals marked elevation of mean flow velocity in the left middle cerebral artery to 215 cm/s (baseline 110 cm/s; Lindegaard ratio 4.8), consistent with severe cerebral vasospasm. Emergent non-contrast head CT demonstrates expected post-procedural subarachnoid blood without new hydrocephalus, rebleeding, or intracranial hematoma. CT angiogram confirms severe segmental narrowing of the proximal left middle cerebral and anterior cerebral arteries. Serum sodium is 137 mEq/L and central venous pressure is 8 mm Hg. Which of the following is the most appropriate next step in management to prevent and treat delayed cerebral ischemia (DCI)?",
+    "choices": [
+      [
+        "Maintain strict euvolemia with isotonic crystalloids, continue enteral nimodipine, and induce hypertension using intravenous vasopressors (e.g., norepinephrine) to improve cerebral perfusion pressure",
+        "ANEURYSMAL SUBARACHNOID HEMORRHAGE (aSAH) AND DELAYED CEREBRAL ISCHEMIA (DCI): (1) PATHOPHYSIOLOGY AND TIMING: Following aneurysmal rupture, extravasated erythrocytes lyse in the subarachnoid space, releasing oxyhemoglobin and breakdown products. This triggers microvascular vasoconstriction, cortical spreading depolarization, microthrombosis, and impaired autoregulation. CLINICAL CEREBRAL VASOSPASM AND DCI PEAK BETWEEN DAYS 4 AND 14 POST-BLEED. DCI is defined by the development of new focal neurological deficits (motor weakness, aphasia, cranial nerve palsy) or a decrease in GCS >= 2 points lasting > 1 hour, not attributable to rebleeding, seizures, hydrocephalus, or metabolic disturbances; (2) PROPHYLAXIS: ENTERAL NIMODIPINE (60 mg every 4 hours for 21 days) is the ONLY pharmacological intervention proven in randomized multicenter trials (BRITISH trial) to reduce poor neurological outcomes and secondary cerebral infarction in aSAH (neuroprotective effect mediated through microvascular channels, not large-vessel vasodilation); (3) MODERN HEMODYNAMIC MANAGEMENT (EVOLUTION BEYOND 'TRIPLE H'): Historically, 'Triple H' therapy (Hypervolemia, Hemodilution, Hypertension) was used. However, modern Neurocritical Care Society (NCS) and AHA/ASA guidelines REJECT HYPERVOLEMIA AND AGGRESSIVE HEMODILUTION, which cause pulmonary edema, myocardial infarction, hyponatremia, and worsened cerebral edema. INSTEAD, MODERN GUIDELINES MANDATE: (a) INDUCED EUVOLEMIA: Using isotonic 0.9% normal saline or Plasmalyte, avoiding hypovolemia; (b) INDUCED HYPERTENSION (PHARMACOLOGIC PERFUSION AUGMENTATION): In secured aneurysms (post-coiling/clipping) that develop clinical DCI, INDUCE HYPERTENSION WITH IV NOREPINEPHRINE OR PHENYLEPHRINE (titrating systolic BP upward, often targeting SBP 160-180 mm Hg or MAP > 90-100 mm Hg) to force blood flow through spastic vessels across impaired autoregulatory beds; (c) RESCUE ENDOVASCULAR THERAPY: If clinical symptoms persist despite induced hypertension, intra-arterial vasodilator infusion (verapamil, nicardipine, or milrinone) or balloon angioplasty is indicated."
+      ],
+      [
+        "Initiate aggressive hypervolemic hemodilution ('Triple H' therapy) targeting central venous pressure > 16 mm Hg and hematocrit < 30%",
+        "Aggressive hypervolemia and hemodilution have been abandoned in contemporary neurocritical care guidelines because they increase pulmonary edema, cardiac strain, and hyponatremia without improving neurological outcomes."
+      ],
+      [
+        "Immediately discontinue nimodipine to prevent systemic vasodilation and worsening cerebral hypoperfusion",
+        "Enteral nimodipine is the only medical therapy proven to improve neurological outcomes and reduce secondary ischemia; it must be continued for the full 21 days (withholding or stopping nimodipine increases stroke and mortality)."
+      ],
+      [
+        "Administer high-dose intravenous methylprednisolone 1 g daily for 3 days to suppress vascular inflammation",
+        "High-dose systemic corticosteroids have failed to show benefit for cerebral vasospasm or DCI in randomized trials and significantly increase the risk of severe infections and hyperglycemia."
+      ],
+      [
+        "Perform emergent surgical decompression via wide bilateral craniectomy",
+        "Surgical decompressive craniectomy is indicated only for refractory intracranial hypertension or massive malignant cerebral infarction with brain herniation, not for early focal vasospasm manageable medically."
+      ]
+    ],
+    "shortestValidSolution": "Post-aSAH day 5 + new focal deficit + TCD velocity > 200 cm/s = Delayed Cerebral Ischemia (vasospasm) -> Induced euvolemia + Continue Nimodipine + Induced hypertension (Norepinephrine).",
+    "necessaryInference": "Manage delayed cerebral ischemia following aneurysmal subarachnoid hemorrhage using enteral nimodipine, strict euvolemia, and induced hypertension, while rejecting outdated hypervolemic hemodilution ('Triple H').",
+    "strongestDistractor": "Initiate aggressive hypervolemic hemodilution ('Triple H' therapy) targeting central venous pressure > 16 mm Hg and hematocrit < 30%",
+    "distractorExclusion": "Modern neurocritical guidelines have abandoned hypervolemia and hemodilution due to serious pulmonary and cardiac morbidity without added efficacy over induced hypertension.",
+    "citation": "Connolly ES Jr, Rabinstein AA, Carhuapoma JR, et al. Guidelines for the management of aneurysmal subarachnoid hemorrhage: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2012;43(6):1711-1737. PMID: 22556195.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Aneurysmal Subarachnoid Hemorrhage Delayed Cerebral Ischemia Prevention.",
+      "distractorExclusionNotes": "Competitor Initiate aggressive hypervolemic hemodilution ('Tr excluded by Modern neurocritical guidelines have abandoned hypervolemia .",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0704",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Severe Alcoholic Hepatitis Stratification and Corticosteroid Therapy",
+    "provisionalDifficulty": 4,
+    "stem": "A 44-year-old man presents to the emergency department with a 3-week history of worsening jaundice, abdominal distension, and severe anorexia. He has a 20-year history of severe alcohol use disorder, drinking approximately 1 pint of vodka daily until 4 days ago, when severe nausea and abdominal pain forced him to stop. Vital signs: temperature 38.1 C (100.6 F), blood pressure 108/64 mm Hg, heart rate 102/min, respirations 18/min, and oxygen saturation 97% on ambient air. Physical examination reveals an ill-appearing, profoundly icteric man. Abdominal examination demonstrates tender hepatomegaly (liver edge palpable 5 cm below the right costal margin) and shifting dullness consistent with moderate ascites. Neurological exam reveals subtle asterixis and mild confusion. Diagnostic paracentesis yields clear yellow ascitic fluid: neutrophil count 110/mm3 (negative for spontaneous bacterial peritonitis), albumin 0.6 g/dL (serum-ascites albumin gradient [SAAG] 1.8 g/dL). Blood and urine cultures show no growth at 48 hours. Laboratory evaluation: serum total bilirubin 18.4 mg/dL (normal 0.2-1.2), direct bilirubin 14.2 mg/dL, AST 240 U/L, ALT 92 U/L (AST:ALT ratio > 2:1, both < 300 U/L), serum albumin 2.4 g/dL, serum creatinine 1.0 mg/dL, and prothrombin time 24.8 seconds (patient PT) with control PT 12.0 seconds (INR 2.2). His calculated Maddrey Discriminant Function (MDF) is 58.8 (where MDF = 4.6 x [PT_patient - PT_control] + total bilirubin = 4.6 x [24.8 - 12.0] + 18.4 = 58.88 + 18.4 = 77.3). Which of the following is the most appropriate first-line pharmacotherapy?",
+    "choices": [
+      [
+        "Oral prednisolone 40 mg daily for 28 days (or intravenous methylprednisolone 32 mg daily if oral route not tolerated), reassessing therapeutic response at day 7 using the Lille Model score",
+        "SEVERE ALCOHOL-ASSOCIATED HEPATITIS (AH): (1) CLINICAL AND BIOCHEMICAL FEATURES: Characterized by recent-onset jaundice in a patient with heavy chronic alcohol consumption, tender hepatomegaly, AST:ALT ratio > 2:1 (with absolute AST and ALT levels rarely exceeding 300-400 U/L because hepatic pyridoxal 5'-phosphate [vitamin B6] deficiency limits ALT synthesis), elevated bilirubin, and coagulopathy; (2) PROGNOSTIC RISK STRATIFICATION: The MADDREY DISCRIMINANT FUNCTION (MDF) is calculated as: MDF = 4.6 x [PT_patient - PT_control (seconds)] + Total Bilirubin (mg/dL). AN MDF >= 32 (OR MELD SCORE > 20) DEFINES SEVERE ALCOHOLIC HEPATITIS, which carries an untreated 28-day in-hospital mortality of 35% to 50%; (3) FIRST-LINE THERAPY: CORTICOSTEROIDS (ORAL PREDNISOLONE 40 MG DAILY FOR 28 DAYS, followed by a 2- to 4-week taper). Prednisolone is preferred over prednisone because prednisone requires hepatic conversion to its active metabolite prednisolone, an enzymatic step impaired in severe hepatic necrosis. CORTICOSTEROID MECHANISM: Suppresses toxic proinflammatory cytokines (TNF-alpha, IL-1, IL-6, IL-8), intercellular adhesion molecules, and cytotoxic T-cell-mediated hepatocyte apoptosis. The STOPAH trial (Thursz et al., NEJM 2015) confirmed that prednisolone significantly reduces 28-day mortality in severe AH (while pentoxifylline showed no survival benefit); (4) INFECTION SCREENING AND RESPONSE REASSESSMENT: Prior to starting steroids, active infection (pneumonia, UTI, spontaneous bacterial peritonitis) and active gastrointestinal bleeding MUST BE RIGOROUSLY EXCLUDED. (5) THE LILLE MODEL AT DAY 7: Response to corticosteroids is evaluated at day 7 using the Lille score (incorporates age, renal function, albumin, baseline bilirubin, day 7 bilirubin, and PT). A Lille score < 0.45 indicates good response (continue full 28-day course). A LILLE SCORE >= 0.45 INDICATES CORTICOSTEROID NON-RESPONSE (FUTILITY): Steroids must be discontinued immediately to prevent fatal opportunistic fungal/bacterial infections."
+      ],
+      [
+        "Oral pentoxifylline 400 mg three times daily as preferred first-line therapy over corticosteroids",
+        "The large multicenter STOPAH trial demonstrated that pentoxifylline does not improve survival in severe alcoholic hepatitis and is no longer recommended as first-line therapy; corticosteroids are the preferred agent."
+      ],
+      [
+        "Immediate placement on the national liver transplant waitlist without a mandatory period of alcohol abstinence",
+        "While early liver transplantation is emerging at select centers for highly vetted first-presentation responders, medical stabilization with prednisolone is the mandatory initial step; emergency transplant is not universal first-line."
+      ],
+      [
+        "Initiation of broad-spectrum oral nutritional supplementation alone, avoiding all immunosuppressive therapy",
+        "While nutritional support is an essential adjunct, severe alcoholic hepatitis with Maddrey DF >= 32 carries > 40% 1-month mortality if managed with nutrition alone; corticosteroid therapy provides proven 28-day survival benefit."
+      ],
+      [
+        "High-dose intravenous N-acetylcysteine infusion for 7 days as monotherapy",
+        "N-acetylcysteine monotherapy has not demonstrated mortality reduction in severe alcoholic hepatitis; while sometimes investigated as an adjunct to steroids, it cannot replace prednisolone."
+      ]
+    ],
+    "shortestValidSolution": "Heavy alcohol + jaundice + AST:ALT > 2 (< 300) + Maddrey DF 77 (> 32) + no infection = Severe Alcoholic Hepatitis -> Oral prednisolone 40 mg/day (assess Lille score at day 7).",
+    "necessaryInference": "Identify severe alcoholic hepatitis using the Maddrey Discriminant Function (>= 32) and select oral prednisolone as first-line therapy, evaluating response at day 7 with the Lille score.",
+    "strongestDistractor": "Oral pentoxifylline 400 mg three times daily as preferred first-line therapy over corticosteroids",
+    "distractorExclusion": "The definitive STOPAH trial showed pentoxifylline confers no survival advantage over placebo; prednisolone is the evidence-based first-line therapy.",
+    "citation": "Thursz MR, Richardson P, Allison M, et al. Prednisolone or pentoxifylline for acute alcoholic hepatitis (STOPAH). N Engl J Med. 2015;372(17):1619-1628. PMID: 25901427.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Severe Alcoholic Hepatitis Stratification and Corticosteroid Therapy.",
+      "distractorExclusionNotes": "Competitor Oral pentoxifylline 400 mg three times daily as pr excluded by The definitive STOPAH trial showed pentoxifylline confers no.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0705",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Acute Ischemic Stroke Thrombolysis and Endovascular Thrombectomy",
+    "provisionalDifficulty": 5,
+    "stem": "A 71-year-old woman is brought to the emergency department by paramedics with sudden-onset inability to speak and right-sided paralysis. She was last seen at her baseline normal condition by her daughter exactly 2 hours and 15 minutes ago. Her past medical history is notable for hypertension, hyperlipidemia, and osteoporosis. She does not take anticoagulants. On arrival, vital signs: blood pressure 168/94 mm Hg, heart rate 78/min, respirations 16/min, and oxygen saturation 98% on room air. Neurological examination reveals global aphasia, right homonymous hemianopia, right facial palsy, and dense right hemiplegia (flaccid arm and leg, strength 0/5). Her National Institutes of Health Stroke Scale (NIHSS) score is 19. Emergent non-contrast head CT demonstrates an Alberta Stroke Program Early CT Score (ASPECTS) of 9, with no evidence of acute intracranial hemorrhage or established hypoattenuation. CT angiogram of the head and neck reveals an acute occlusion of the proximal left middle cerebral artery (M1 segment). Point-of-care fingerstick blood glucose is 118 mg/dL. Platelet count is 245,000/mm3, and INR is 1.0. Which of the following is the most appropriate management plan?",
+    "choices": [
+      [
+        "Immediate administration of intravenous thrombolysis (tenecteplase or alteplase) followed by urgent transfer to the neurointerventional suite for endovascular mechanical thrombectomy",
+        "ACUTE ISCHEMIC STROKE (AIS) REPERFUSION THERAPY: (1) INTRAVENOUS THROMBOLYSIS (IVT): Guideline-directed reperfusion for eligible patients presenting within 4.5 hours of symptom onset (or time last known well). IV tenecteplase (0.25 mg/kg bolus) or IV alteplase (0.9 mg/kg, 10% bolus then 90% over 1 hour) achieves early vessel recanalization and significantly improves 90-day functional independence (modified Rankin Scale 0-1) without increasing overall mortality. ELIGIBILITY CRITERIA: Presentation < 4.5 hours, absence of hemorrhage on CT, blood pressure controlled to < 185/110 mm Hg (here 168/94), platelets > 100,000/mm3, INR <= 1.7, and no recent major surgery or head trauma. This patient presents at 2 hours 15 minutes with severe deficits (NIHSS 19) and qualifies unequivocally for IVT; (2) ENDOVASCULAR THROMBECTOMY (EVT): Multiple landmark randomized trials (MR CLEAN, ESCAPE, SWIFT PRIME, EXTEND-IA, REVASCAT) established that EVT is the standard of care for AIS caused by LARGE VESSEL OCCLUSION (LVO) of the anterior circulation (internal carotid artery or proximal M1 middle cerebral artery) presenting within 6 hours of symptom onset with baseline NIHSS >= 6 and ASPECTS >= 6. (Extended window EVT up to 24 hours is supported by DAWN and DEFUSE-3 using perfusion imaging mismatch); (3) COMBINATION STRATEGY ('BRIDGING THERAPY'): In eligible patients with an anterior circulation LVO who present within the 4.5-hour thrombolytic window, GUIDELINES EMPHASIZE THAT IV THROMBOLYSIS SHOULD BE ADMINISTERED PROMPTLY AND MUST NOT BE WITHHELD OR DELAYED while awaiting EVT; the patient should receive IV thrombolytic medication immediately and proceed directly to catheter mechanical thrombectomy without observing for clinical response to the thrombolytic."
+      ],
+      [
+        "Withhold intravenous thrombolysis and proceed directly to endovascular thrombectomy alone to avoid the risk of post-thrombectomy intracranial hemorrhage",
+        "Withholding IV thrombolysis in eligible LVO patients presenting < 4.5 hours is contraindicated; clinical trials show bridging IVT plus EVT provides optimal reperfusion and microvascular patency."
+      ],
+      [
+        "Administer intravenous thrombolysis, wait 60 minutes in the emergency department to evaluate for clinical improvement, and proceed to thrombectomy only if NIHSS remains > 10",
+        "Every 30-minute delay in endovascular recanalization reduces the probability of a good functional outcome by 10%; waiting to observe response to IV thrombolytic therapy before mobilizing the angio suite causes irreversible brain infarction."
+      ],
+      [
+        "Administer intravenous heparin bolus followed by continuous infusion targeting a PTT of 60 to 80 seconds",
+        "Parenteral anticoagulation (unfractionated or low-molecular-weight heparin) in acute ischemic stroke is ineffective for recanalization and significantly increases symptomatic intracranial hemorrhage; it is strictly contraindicated."
+      ],
+      [
+        "Lower the blood pressure acutely to systolic < 130 mm Hg using continuous intravenous nicardipine before proceeding with revascularization",
+        "In acute ischemic stroke, cerebral autoregulation is lost in ischemic penumbral tissue; aggressive blood pressure reduction compromises penumbral perfusion and expands the infarct core; BP is lowered only if > 185/110 mm Hg before thrombolysis."
+      ]
+    ],
+    "shortestValidSolution": "LVO (left M1 MCA occlusion) + presentation at 2.25 hr (< 4.5 hr) + NIHSS 19 + no hemorrhage = Eligible for IVT and EVT -> Immediate IV thrombolysis + Emergent endovascular thrombectomy.",
+    "necessaryInference": "Recognize eligibility criteria for acute ischemic stroke reperfusion, understanding that patients with large vessel occlusion presenting within 4.5 hours require immediate bridging intravenous thrombolysis without delaying endovascular thrombectomy.",
+    "strongestDistractor": "Withhold intravenous thrombolysis and proceed directly to endovascular thrombectomy alone to avoid the risk of post-thrombectomy intracranial hemorrhage",
+    "distractorExclusion": "Clinical practice guidelines mandate prompt IV thrombolysis for all eligible patients presenting within 4.5 hours of onset; EVT should be coordinated concurrently without withholding IV thrombolytic therapy.",
+    "citation": "Powers WJ, Rabinstein AA, Ackerson T, et al. Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines. Stroke. 2019;50(12):e344-e418. PMID: 31662037.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Acute Ischemic Stroke Thrombolysis and Endovascular Thrombectomy.",
+      "distractorExclusionNotes": "Competitor Withhold intravenous thrombolysis and proceed dire excluded by Clinical practice guidelines mandate prompt IV thrombolysis .",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0706",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Severe Ulcerative Colitis Infliximab Rescue vs Colectomy",
+    "provisionalDifficulty": 5,
+    "stem": "A 28-year-old man with a 3-year history of pancolitis is admitted to the hospital with acute severe ulcerative colitis (ASUC) manifesting as 10 to 12 bloody bowel movements daily, severe crampy lower abdominal pain, and nocturnal diarrhea. On admission, vital signs were: temperature 38.4 C, heart rate 108/min, and blood pressure 110/70 mm Hg. Hemoglobin was 9.2 g/dL, C-reactive protein (CRP) was 68 mg/L (normal < 5 mg/L), and erythrocyte sedimentation rate (ESR) was 54 mm/hr, fulfilling Truelove and Witts criteria for severe colitis. Flexible sigmoidoscopy on admission revealed extensive mucosal ulcerations with spontaneous bleeding, deep mucosal gouging, and mucopurulent exudate (Mayo endoscopic score 3). Stool testing for Clostridioides difficile toxin, bacterial pathogens, and cytomegalovirus (CMV) by tissue PCR were completely negative. He was initiated on continuous intravenous methylprednisolone 60 mg daily, fluid resuscitation, and prophylactic low-molecular-weight heparin. Today is hospital day 3. Despite 72 hours of intensive intravenous corticosteroid therapy, he continues to have 9 bloody stools daily, persistent abdominal tenderness without guarding, heart rate 102/min, and repeat CRP remains elevated at 52 mg/L. Abdominal radiograph demonstrates a transverse colonic caliber of 4.2 cm without toxic megacolon or free air. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      [
+        "Initiation of medical rescue therapy with intravenous infliximab (5 to 10 mg/kg) or intravenous cyclosporine, with surgical consultation for urgent subtotal colectomy if no response within 4 to 7 days",
+        "ACUTE SEVERE ULCERATIVE COLITIS (ASUC): (1) DEFINITION AND INITIAL THERAPY: Truelove and Witts criteria: >= 6 bloody bowel movements per day plus at least one systemic toxicity sign (fever > 37.8 C, tachycardia > 90/min, anemia Hb < 10.5 g/dL, or ESR > 30 mm/hr / CRP > 45 mg/L). Initial management: INTRAVENOUS CORTICOSTEROIDS (METHYLPREDNISOLONE 60 MG/DAY OR HYDROCORTISONE 100 MG Q8H) plus venous thromboembolism prophylaxis. (C. difficile and CMV must be excluded); (2) TIMING OF STEROID FAILURE ASSESSMENT (THE 'DAY 3 RULE'): Up to 30-40% of patients fail intravenous corticosteroids. Response MUST BE FORMALLY EVALUATED ON DAY 3 OF IV STEROID THERAPY (Oxford Criteria: > 8 stools/day OR 3-8 stools/day with CRP > 45 mg/L on Day 3 predicts an 85% risk of colectomy). Awaiting longer trials of steroids (> 5-7 days) does not improve remission rates and dramatically increases surgical complications (colonic perforation, peritonitis, severe sepsis); (3) SECOND-LINE MEDICAL RESCUE THERAPY: For patients failing corticosteroids at day 3, GUIDELINES RECOMMEND MEDICAL SALVAGE THERAPY WITH EITHER: (a) INFLIXIMAB (anti-TNF monoclonal antibody, standard dose 5 mg/kg or accelerated dose 10 mg/kg in patients with high drug clearance and severe hypoalbuminemia); OR (b) INTRAVENOUS CYCLOSPORINE (calcineurin inhibitor, continuous infusion targeting trough 150-250 ng/mL). Clinical trials (CYSIF trial) demonstrate equivalent rescue efficacy (~80-85% short-term response) between infliximab and cyclosporine; (4) SURGICAL RESCUE / TIMING: An experienced colorectal surgical team must be involved early. If the patient does not demonstrate objective clinical and biochemical improvement within 4 to 7 days of rescue medical therapy, or develops toxic megacolon (> 6 cm dilation) or peritonitis, URGENT SUBTOTAL COLECTOMY WITH END ILEOSTOMY is mandatory."
+      ],
+      [
+        "Continue intravenous methylprednisolone monotherapy for an additional 10 to 14 days to allow delayed corticosteroid mucosal healing",
+        "Prolonging intravenous corticosteroids beyond 3 to 5 days in non-responders confers no incremental therapeutic benefit and significantly increases colonic perforation, postoperative sepsis, and mortality."
+      ],
+      [
+        "Immediate transfer to the operating room for emergent total proctocolectomy with ileal pouch-anal anastomosis (IPAA)",
+        "Emergent single-stage proctectomy with IPAA in an acutely toxic, malnourished patient on high-dose steroids carries unacceptable rates of pelvic sepsis and pouch failure; subtotal colectomy with end ileostomy is the proper damage-control surgery, and medical rescue should be offered first in the absence of perforation/megacolon."
+      ],
+      [
+        "Initiation of oral azathioprine 2.5 mg/kg daily as rapid rescue pharmacotherapy",
+        "Thiopurines (azathioprine, 6-mercaptopurine) have an onset of action of 8 to 12 weeks; they are completely ineffective for acute salvage therapy in ASUC and are strictly maintenance medications."
+      ],
+      [
+        "Administration of broad-spectrum oral vancomycin and metronidazole for empiric treatment-refractory bacterial colitis",
+        "Routine empiric antibiotics do not improve outcomes in ASUC without demonstrated infection; stool PCR ruled out C. difficile and enteric pathogens; medical salvage with infliximab/cyclosporine is required."
+      ]
+    ],
+    "shortestValidSolution": "Severe UC (Truelove-Witts) + 72 hr IV steroids failure (> 8 stools + CRP > 45 on Day 3) = Steroid-refractory ASUC -> Medical rescue (Infliximab or Cyclosporine).",
+    "necessaryInference": "Recognize steroid failure in acute severe ulcerative colitis at day 3 (Oxford criteria) and initiate medical rescue therapy with infliximab or cyclosporine, avoiding prolonged ineffective steroid therapy.",
+    "strongestDistractor": "Continue intravenous methylprednisolone monotherapy for an additional 10 to 14 days to allow delayed corticosteroid mucosal healing",
+    "distractorExclusion": "Prolonged steroid courses beyond 3-5 days do not improve response rates and dramatically increase colonic perforation, perioperative sepsis, and death.",
+    "citation": "Rubin DT, Ananthakrishnan AN, Siegel CA, Sauer BG, Long MD. ACG Clinical Guideline: Ulcerative Colitis in Adults. Am J Gastroenterol. 2019;114(3):384-413. PMID: 30840605.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Acute Severe Ulcerative Colitis Infliximab Rescue vs Colectomy.",
+      "distractorExclusionNotes": "Competitor Continue intravenous methylprednisolone monotherap excluded by Prolonged steroid courses beyond 3-5 days do not improve res.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0707",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Resistant Hypertension and Mineralocorticoid Receptor Antagonist Step-Up",
+    "provisionalDifficulty": 5,
+    "stem": "A 56-year-old man presents to the outpatient clinic for follow-up of longstanding hypertension. He is currently prescribed maximal tolerated doses of three antihypertensive agents: amlodipine 10 mg daily (dihydropyridine calcium channel blocker), valsartan 320 mg daily (angiotensin receptor blocker), and chlorthalidone 25 mg daily (thiazide-like diuretic). A pharmacy fill-rate audit and electronic pill bottle monitor confirm > 95% medication adherence. At today's visit, his seated clinic blood pressure (average of three automated office readings) is 154/96 mm Hg. Home blood pressure monitoring over the past 4 weeks demonstrates an average blood pressure of 152/94 mm Hg, ruling out white-coat hypertension. He has no chest pain, shortness of breath, headache, or visual disturbances. BMI is 29.4 kg/m2. Examination reveals no carotid bruits, abdominal bruits, or peripheral edema; fundoscopic exam shows mild arteriolar narrowing without hemorrhages or papilledema. Routine laboratory studies: serum sodium 140 mEq/L, serum potassium 4.2 mEq/L (normal 3.5-5.0), serum chloride 102 mEq/L, serum bicarbonate 25 mEq/L, BUN 18 mg/dL, serum creatinine 1.0 mg/dL, and estimated GFR 88 mL/min/1.73 m2. Plasma aldosterone concentration (PAC) is 12 ng/dL and plasma renin activity (PRA) is 1.0 ng/mL/hr (PAC:PRA ratio 12, normal < 20). Which of the following is the most appropriate next step in pharmacological management to achieve blood pressure control?",
+    "choices": [
+      [
+        "Initiation of low-dose spironolactone (25 mg daily), an oral mineralocorticoid receptor antagonist",
+        "RESISTANT HYPERTENSION (RHTN): (1) DEFINITION: Blood pressure that remains above goal (>= 130/80 mm Hg) despite concurrent use of THREE ANTIHYPERTENSIVE AGENTS OF DIFFERENT CLASSES at optimal doses, ONE OF WHICH MUST BE A DIURETIC (the standard triple regimen is an ACEi/ARB + CCB + Thiazide/thiazide-like diuretic). Alternatively, controlled BP requiring >= 4 medications also qualifies; (2) DIAGNOSTIC WORKUP: (a) Exclude pseudoresistance: Rule out medication non-adherence (pharmacy fill audits, pill counts), white-coat effect (automated office BP or 24-hour ambulatory BP monitoring), and improper cuff size; (b) Address lifestyle contributors: excess sodium intake, alcohol, obesity, NSAID use; (c) Screen for secondary causes: obstructive sleep apnea (most common), primary aldosteronism (screen with PAC:PRA ratio), renal artery stenosis, and chronic kidney disease; (3) EVIDENCE-BASED FOURTH-LINE THERAPY: Landmark randomized clinical trials, specifically the PATHWAY-2 TRIAL (Williams et al., Lancet 2015), demonstrated that SPIRONOLACTONE (25-50 MG DAILY) IS THE MOST EFFECTIVE FOURTH-LINE ADD-ON AGENT FOR RESISTANT HYPERTENSION, achieving superior systolic BP reduction compared to active comparators (bisoprolol [beta-blocker] or doxazosin [alpha-1 blocker]) or placebo. PATHOPHYSIOLOGY: Pathogenesis in resistant hypertension is predominantly driven by occult sodium retention and microvascular aldosterone-mediated fluid expansion, even in patients with normal circulating aldosterone levels. Spironolactone selectively blocks mineralocorticoid receptors in the cortical collecting duct, promoting natriuresis and lowering systemic vascular resistance. (Eplerenone is an alternative if spironolactone causes gynecomastia). Serum potassium and creatinine must be monitored 1-2 weeks after initiation (safe when eGFR > 45 and K < 4.5 mEq/L)."
+      ],
+      [
+        "Initiation of oral clonidine 0.1 mg twice daily, a centrally acting alpha-2 adrenergic agonist",
+        "Clonidine is a second-line agent associated with substantial sedation, dry mouth, depression, and life-threatening rebound hypertensive crisis if missed; PATHWAY-2 demonstrated clear superiority of spironolactone over alternative mechanisms."
+      ],
+      [
+        "Initiation of oral hydralazine 25 mg three times daily, a direct arteriolar vasodilator",
+        "Hydralazine monotherapy induces reflex sympathetic activation, tachycardia, and fluid retention; it is substantially less effective than spironolactone and is reserved as a 5th- or 6th-line add-on."
+      ],
+      [
+        "Addition of oral bisoprolol 10 mg daily as preferred fourth-line therapy over mineralocorticoid blockers",
+        "In the randomized PATHWAY-2 trial, bisoprolol achieved significantly less blood pressure reduction than spironolactone in resistant hypertension (-4.48 mm Hg difference favoring spironolactone)."
+      ],
+      [
+        "Referral for emergent catheter-based renal sympathetic nerve denervation as primary management",
+        "Renal denervation is an adjunctive interventional procedure for treatment-resistant hypertension in specialized centers; guideline-directed medical optimization with spironolactone is mandatory before considering invasive procedures."
+      ]
+    ],
+    "shortestValidSolution": "Adherent to Triple Therapy (ARB + CCB + Diuretic) + BP 154/96 + normal K/Cr = True Resistant Hypertension -> Add 4th-line Spironolactone (PATHWAY-2 trial).",
+    "necessaryInference": "Define resistant hypertension and identify spironolactone as the evidence-based fourth-line agent of choice based on the PATHWAY-2 trial.",
+    "strongestDistractor": "Addition of oral bisoprolol 10 mg daily as preferred fourth-line therapy over mineralocorticoid blockers",
+    "distractorExclusion": "The randomized PATHWAY-2 trial proved spironolactone is significantly more effective at lowering blood pressure than bisoprolol or doxazosin in resistant hypertension.",
+    "citation": "Williams B, MacDonald TM, Morant S, et al. Endocrine and hemodynamic changes in resistant hypertension, and blood pressure responses to spironolactone or amiloride: the PATHWAY-2 mechanisms study. Lancet Diabetes Endocrinol. 2018;6(6):464-473. PMID: 29655877.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Resistant Hypertension and Mineralocorticoid Receptor Antagonist Step-Up.",
+      "distractorExclusionNotes": "Competitor Addition of oral bisoprolol 10 mg daily as preferr excluded by The randomized PATHWAY-2 trial proved spironolactone is sign.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0708",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Acute Compartment Syndrome Delta Pressure Measurement and Emergent Fasciotomy",
+    "provisionalDifficulty": 4,
+    "stem": "A 24-year-old collegiate athlete is brought to the emergency department after sustaining a high-energy closed fracture of the right proximal tibia and fibula during a football tackle 4 hours ago. The limb was temporarily immobilized in a posterior splint in the field. He received intravenous morphine 4 mg and hydromorphone 1 mg over the past hour, but he screams in excruciating pain, stating that the analgesics have provided zero relief. On physical examination, the right anterior and lateral lower leg compartments are palpably tense, hard, and swollen ('wooden' consistency). There is severe pain elicited upon passive plantar flexion and passive stretch of the great toe (stretching the anterior compartment muscles). Sensation to light touch and pinprick is diminished over the first dorsal web space between the great and second toes. Distal right dorsalis pedis and posterior tibial arterial pulses are strong and easily palpable (2+), and the foot remains warm with capillary refill < 2 seconds. Vital signs: blood pressure 138/84 mm Hg, heart rate 106/min. Compartment pressure monitoring is performed using a side-port needle manometer in the right anterior compartment, which demonstrates an intracompartmental pressure of 48 mm Hg. The patient's diastolic blood pressure is 74 mm Hg (delta pressure = diastolic BP - compartment pressure = 74 - 48 = 26 mm Hg). Which of the following is the most appropriate next step in management?",
+    "choices": [
+      [
+        "Immediate release of all constricting dressings and urgent transfer to the operating room for emergent two-incision, four-compartment fasciotomy of the right lower leg",
+        "ACUTE COMPARTMENT SYNDROME (ACS): (1) PATHOPHYSIOLOGY: Elevated hydrostatic pressure within an inelastic, closed fascial space compromises local microvascular perfusion. As intracompartmental tissue pressure rises, capillary venous collapse occurs first, causing venous congestion, tissue ischemia, and muscle necrosis. Muscle ischemia becomes irreversible after 6 to 8 hours, leading to Volkmann ischemic contracture, rhabdomyolysis, acute kidney injury, and limb loss; (2) CLINICAL PRESENTATION ('THE 6 Ps'): (a) PAIN DISPROPORTIONATE TO THE INJURY (EARLIEST AND MOST RELIABLE SIGN); (b) PAIN WITH PASSIVE STRETCH OF THE INVOLVED MUSCLE GROUPS (classic hallmark); (c) Tense, 'wood-like' compartment swelling; (d) Paresthesias / sensory deficits (first web space numbness = deep peroneal nerve in anterior compartment); (e) Pallor, Poikilothermia, and Pulselessness (LATE, OMINOUS FINDINGS). CRITICAL CLINICAL PEARL: Palpable distal arterial pulses DO NOT rule out compartment syndrome because systolic blood pressure (138 mm Hg) far exceeds intracompartmental pressure (48 mm Hg); microvascular perfusion ceases long before conduit arteries collapse; (3) OBJECTIVE INTRAPARTMENTAL PRESSURE MEASUREMENT: Absolute pressure > 30 mm Hg OR DELTA PRESSURE (DIASTOLIC BLOOD PRESSURE MINUS INTRAPARTMENTAL PRESSURE) <= 30 MM HG IS AN ABSOLUTE INDICATION FOR EMERGENCY SURGERY. (Here, delta pressure is 74 - 48 = 26 mm Hg); (4) DEFINITIVE MANAGEMENT: EMERGENT TWO-INCISION, FOUR-COMPARTMENT FASCIOTOMY (releasing anterior, lateral, superficial posterior, and deep posterior compartments). Any delay while ordering imaging or awaiting pulse loss results in permanent neuromuscular devastation."
+      ],
+      [
+        "Apply an ice pack, elevate the right leg high above the level of the heart, and repeat physical examination in 2 hours",
+        "Elevating the limb above heart level decreases arterial perfusion pressure into the compromised compartment, worsening microvascular ischemia; the leg should be kept at heart level, and surgery must not be delayed."
+      ],
+      [
+        "Perform an emergent lower extremity arterial duplex ultrasound to confirm arterial patency before considering surgery",
+        "Distal pulses are already present, and compartment syndrome is a microvascular capillary phenomenon, not a large-artery occlusion; delaying fasciotomy for vascular imaging leads to irreversible muscle necrosis."
+      ],
+      [
+        "Administer intravenous mannitol 1 g/kg and high-dose dexamethasone to reduce fascial interstitial swelling",
+        "Osmotic diuretics and steroids have no proven efficacy in acute traumatic compartment syndrome and delay definitive surgical decompression, risking limb loss."
+      ],
+      [
+        "Perform closed reduction and casting of the tibial fracture in the emergency department under hematoma block",
+        "Placing a rigid circumferential cast increases external compartment compression, accelerating ischemic necrosis; emergent fasciotomy must precede definitive orthopedic fixation."
+      ]
+    ],
+    "shortestValidSolution": "Tibial fracture + excruciating pain on passive stretch + paresthesia + compartment pressure 48 (delta P 26 <= 30 mm Hg) = Acute Compartment Syndrome -> Emergent four-compartment fasciotomy.",
+    "necessaryInference": "Recognize acute compartment syndrome using the delta pressure threshold (diastolic BP minus compartment pressure <= 30 mm Hg) and understand that presence of distal pulses does not exclude the condition, requiring emergent four-compartment fasciotomy.",
+    "strongestDistractor": "Perform an emergent lower extremity arterial duplex ultrasound to confirm arterial patency before considering surgery",
+    "distractorExclusion": "Conduit arterial pulses are characteristically preserved in compartment syndrome until late stages; delaying fasciotomy for arterial duplex imaging causes permanent muscle necrosis.",
+    "citation": "McQueen MM, Court-Brown CM. Compartment monitoring in tibial fractures. The pressure threshold for decompression. J Bone Joint Surg Br. 1996;78(1):99-104. PMID: 8898137.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Acute Compartment Syndrome Delta Pressure Measurement and Emergent Fasciotomy.",
+      "distractorExclusionNotes": "Competitor Perform an emergent lower extremity arterial duple excluded by Conduit arterial pulses are characteristically preserved in .",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0709",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Diabetic Ketoacidosis Fluid Management Glucose Transition and Anion Gap Closure",
+    "provisionalDifficulty": 4,
+    "stem": "A 22-year-old woman with type 1 diabetes mellitus is admitted to the intensive care unit with severe diabetic ketoacidosis (DKA) precipitated by gastroenteritis. On admission, vital signs were: BP 96/60 mm Hg, HR 124/min, RR 28/min (Kussmaul breathing). Initial labs: blood glucose 580 mg/dL, serum sodium 132 mEq/L, potassium 4.8 mEq/L, chloride 98 mEq/L, bicarbonate 8 mEq/L, arterial pH 7.14, and beta-hydroxybutyrate 6.2 mmol/L (anion gap = 132 - [98 + 8] = 26 mEq/L). She was resuscitated with 2 liters of isotonic 0.9% normal saline over the first 2 hours, followed by continuous intravenous regular insulin infusion at 0.1 units/kg/hr and 0.45% saline with 20 mEq/L potassium chloride at 200 mL/hr. Now, at hour 6 of therapy, she is alert and oriented. Repeat laboratory evaluation reveals: serum glucose 210 mg/dL, serum sodium 138 mEq/L, potassium 4.2 mEq/L, chloride 104 mEq/L, serum bicarbonate 14 mEq/L, and arterial pH 7.28. Her calculated serum anion gap is 138 - (104 + 14) = 20 mEq/L (normal <= 12 mEq/L). Urine output over the past 4 hours has averaged 65 mL/hr. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      [
+        "Add 5% dextrose to the intravenous fluids (e.g., D5 with 0.45% saline) and continue intravenous insulin infusion at a reduced rate (0.02 to 0.05 units/kg/hr) until the anion gap normalizes and ketoacidosis resolves",
+        "DIABETIC KETOACIDOSIS (DKA) PROTOCOL MANAGEMENT: (1) PATHOPHYSIOLOGY AND RESOLUTION CRITERIA: DKA results from absolute insulin deficiency and glucagon excess, accelerating lipolysis into free fatty acids which undergo hepatic beta-oxidation into ketone bodies (acetoacetate, beta-hydroxybutyrate). DKA IS NOT RESOLVED UNTIL KETOACIDOSIS AND ANION GAP NORMALIZE. Formal criteria for DKA resolution (ADA Guidelines): (a) Blood glucose < 200 mg/dL; (b) Serum bicarbonate >= 18 mEq/L; (c) Venous pH > 7.30; (d) Anion gap normalized (<= 12 mEq/L). At hour 6, this patient has an anion gap of 20 mEq/L and bicarbonate of 14 mEq/L; THEREFORE, DKA HAS NOT RESOLVED; (2) THE GLUCOSE THRESHOLD RULE (< 200-250 MG/DL): Hyperglycemia corrects much faster than ketoacidosis. When blood glucose drops to < 200-250 mg/dL, INTRAVENOUS DEXTROSE (5% TO 10% DEXTROSE) MUST BE ADDED TO THE INFUSION FLUIDS, and the insulin infusion rate is decreased (to 0.02-0.05 units/kg/hr) to maintain blood glucose between 150 and 200 mg/dL. WHY DEXTROSE IS MANDATORY: If insulin is stopped prematurely because glucose is normal, unsuppressed lipolysis resumes and ketoacidosis rebounds. If insulin is continued without dextrose, life-threatening severe hypoglycemia and cerebral edema develop. Therefore, exogenous dextrose provides substrate so that insulin infusion can be safely continued to suppress ketogenesis and clear the anion gap; (3) TRANSITION TO SUBCUTANEOUS INSULIN: Subcutaneous basal insulin (glargine, degludec) must be administered 2 to 4 hours PRIOR to discontinuing the intravenous insulin infusion to avoid rebound ketoacidosis."
+      ],
+      [
+        "Discontinue the intravenous insulin infusion immediately and transition to subcutaneous basal-bolus insulin since blood glucose is near 200 mg/dL",
+        "Stopping the IV insulin infusion while the anion gap is still 20 mEq/L and bicarbonate is 14 mEq/L causes immediate rebound lipolysis and worsening ketoacidosis; insulin must continue until the anion gap closes."
+      ],
+      [
+        "Turn off the intravenous fluids completely and increase the insulin infusion rate to 0.2 units/kg/hr to drive glucose down to < 100 mg/dL",
+        "Increasing insulin without dextrose when glucose is 210 mg/dL precipitates precipitous hypoglycemia and osmotic cerebral edema; target glucose in resolving DKA is 150-200 mg/dL."
+      ],
+      [
+        "Administer an intravenous bolus of 100 mEq sodium bicarbonate to correct the persistent metabolic acidosis",
+        "Sodium bicarbonate does not improve morbidity or mortality in DKA when pH is > 6.9-7.0 and is associated with paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      ],
+      [
+        "Switch intravenous insulin to subcutaneous sliding-scale regular insulin every 6 hours as needed for glucose > 250 mg/dL",
+        "Sliding-scale regular insulin monotherapy provides no basal coverage, causes severe glycemic volatility, and is strictly contraindicated in the acute management of DKA."
+      ]
+    ],
+    "shortestValidSolution": "DKA + Glucose falls to 210 mg/dL + Anion gap still elevated (20) = Incomplete resolution -> Add Dextrose (D5) to IV fluids + Continue insulin infusion until anion gap closes.",
+    "necessaryInference": "Apply standard DKA management protocols: when serum glucose drops below 200-250 mg/dL before anion gap closure, add 5% dextrose to fluids to permit ongoing insulin infusion until ketoacidosis resolves.",
+    "strongestDistractor": "Discontinue the intravenous insulin infusion immediately and transition to subcutaneous basal-bolus insulin since blood glucose is near 200 mg/dL",
+    "distractorExclusion": "Discontinuing intravenous insulin before the anion gap normalizes leads to immediate recurrence of ketoacidosis; insulin must continue under dextrose cover.",
+    "citation": "Fayfman M, Banerjee M, Pasquel FJ, Umpierrez GE. Management of Hyperglycemic Emergencies. Lancet. 2017;390(10103):1615-1627. PMID: 28434656.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Diabetic Ketoacidosis Fluid Management Glucose Transition and Anion Gap Closure.",
+      "distractorExclusionNotes": "Competitor Discontinue the intravenous insulin infusion immed excluded by Discontinuing intravenous insulin before the anion gap norma.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0710",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Post-Cardiac Arrest Targeted Temperature Management and Prognostication",
+    "provisionalDifficulty": 5,
+    "stem": "A 58-year-old man experiences an out-of-hospital cardiac arrest while jogging in a park. Bystander cardiopulmonary resuscitation (CPR) was initiated within 2 minutes. When paramedics arrived 6 minutes later, the initial rhythm was ventricular fibrillation. He received two defibrillation shocks and 1 mg intravenous epinephrine, achieving return of spontaneous circulation (ROSC) after 14 minutes of total downtime. Upon arrival in the emergency department, he is intubated and mechanically ventilated. Vital signs: blood pressure 114/72 mm Hg (on norepinephrine infusion), heart rate 84/min, and core body temperature 36.6 C. A 12-lead ECG demonstrates sinus tachycardia without ST-segment elevation. Emergent coronary angiography reveals non-obstructive coronary artery disease. On neurological examination, he is completely comatose, exhibiting no eye opening, no motor response to noxious central stimulation (decerebrate or decorticate posturing absent), absent corneal reflexes, and sluggishly reactive pupils. Which of the following represents the most appropriate strategy for neuroprotective temperature management and neurological prognostication according to contemporary post-cardiac arrest guidelines?",
+    "choices": [
+      [
+        "Maintain targeted temperature management with active prevention of fever (temperature strictly maintained <= 37.5 C, or controlled hypothermia between 32 C and 36 C) for at least 72 hours, and delay multimodal neuroprognostication until at least 72 hours after cardiac arrest",
+        "POST-CARDIAC ARREST SYNDROME (PCAS): (1) PATHOPHYSIOLOGY: Whole-body ischemia-reperfusion injury leads to cerebral edema, microvascular hypoperfusion, free radical formation, neuroinflammation, and delayed neuronal apoptosis; (2) TARGETED TEMPERATURE MANAGEMENT (TTM): Guidelines from the AHA and ERC/ESICM (incorporating the landmark TTM-1 and TTM-2 randomized trials [Nielsen et al., NEJM 2013; Dankiewicz et al., NEJM 2021]) recommend TARGETED TEMPERATURE MANAGEMENT FOR ALL COMATOSE ADULT PATIENTS FOLLOWING ROSC: (a) Temperature Goal: STRICT PREVENTION OF FEVER / ACTIVE NORMOTHERMIA (TEMPERATURE <= 37.5 C) OR TARGETED HYPOTHERMIA (32 C TO 36 C) FOR AT LEAST 72 HOURS. TTM-2 showed that targeted normothermia (actively avoiding fever > 37.7 C) achieved identical 6-month survival and functional neurological outcomes compared to hypothermia at 33 C, provided that fever is aggressively prevented using closed-loop surface or endovascular cooling devices; (b) HYPERTHERMIA IS PROVEN TO DRAMATICALLY WORSEN ISCHEMIC BRAIN INJURY; fever must be strictly avoided; (3) NEUROPROGNOSTICATION PRINCIPLES: Early neurological assessment in the first 24-48 hours post-arrest is notoriously unreliable due to hypothermia, sedation, paralytics, and transient metabolic stunning. GUIDELINES UNANIMOUSLY REQUIRE DELAYING ACCURATE NEUROPROGNOSTICATION UNTIL AT LEAST 72 HOURS POST-ARREST (or 72 hours after rewarming/cessation of sedation). MULTIMODAL PROGNOSTICATION is mandatory: (a) Bilateral absence of pupillary and corneal reflexes at >= 72 hours; (b) Bilateral absence of N20 somatosensory evoked potential (SSEP) cortical waves; (c) High serum neuron-specific enolase (NSE); (d) Malignant EEG patterns (suppression-burst, status epilepticus); (e) Extensive diffuse cortical edema on brain MRI. No single clinical sign should be used in isolation to withdraw life-sustaining therapy prematurely."
+      ],
+      [
+        "Perform rapid deep therapeutic hypothermia to a target core temperature of 28 C to 30 C for 72 consecutive hours",
+        "Deep hypothermia (< 32 C) causes life-threatening ventricular fibrillation, severe coagulopathy, profound immunosuppression, and hemodynamic collapse without neuroprotective benefit."
+      ],
+      [
+        "Discontinue active temperature regulation and allow spontaneous fever up to 39.0 C, as hyperthermia is a physiological antimicrobial response",
+        "Post-cardiac arrest hyperthermia markedly increases cerebral metabolic rate, intracranial pressure, and neuronal death; failing to prevent fever is catastrophic and associated with poor neurological recovery."
+      ],
+      [
+        "Withdraw mechanical ventilation and life-sustaining therapy at 24 hours post-arrest based on absent corneal reflexes",
+        "Prognostication at 24 hours is premature and inaccurate due to sedation and metabolic stunning; guidelines mandate waiting at least 72 hours before assessing irreversible poor neurological prognosis."
+      ],
+      [
+        "Administer high-dose intravenous methylprednisolone and mannitol to treat reperfusion cerebral edema",
+        "Corticosteroids and routine osmotic agents have failed to demonstrate improved neurological outcomes or survival in post-cardiac arrest syndrome and are not recommended."
+      ]
+    ],
+    "shortestValidSolution": "Comatose post-cardiac arrest (ROSC achieved) = Post-cardiac arrest syndrome -> Targeted Temperature Management (maintain <= 37.5 C or 32-36 C) + Delay neuroprognostication >= 72 hr.",
+    "necessaryInference": "Apply post-cardiac arrest guidelines: implement targeted temperature management (prevent fever <= 37.5 C or 32-36 C) and delay multimodal neuroprognostication until at least 72 hours post-arrest.",
+    "strongestDistractor": "Withdraw mechanical ventilation and life-sustaining therapy at 24 hours post-arrest based on absent corneal reflexes",
+    "distractorExclusion": "Prognosticating at 24 hours leads to inappropriate withdrawal of life-sustaining treatment; multimodal evaluation must be delayed until at least 72 hours after arrest.",
+    "citation": "Dankiewicz J, Cronberg T, Lilja G, et al. Hypothermia versus Normothermia after Out-of-Hospital Cardiac Arrest (TTM-2). N Engl J Med. 2021;384(24):2283-2294. PMID: 34133859.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Post-Cardiac Arrest Targeted Temperature Management and Prognostication.",
+      "distractorExclusionNotes": "Competitor Withdraw mechanical ventilation and life-sustainin excluded by Prognosticating at 24 hours leads to inappropriate withdrawa.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0711",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "COPD Hypercapnic Respiratory Failure and Non-Invasive Ventilation",
+    "provisionalDifficulty": 4,
+    "stem": "A 67-year-old man with very severe chronic obstructive pulmonary disease (GOLD stage 4, baseline FEV1 28% of predicted) on home oxygen (2 L/min) is brought to the emergency department by ambulance with severe dyspnea, increased sputum volume, and sputum purulence for 3 days. On arrival, he is tachypneic, using accessory neck muscles, and unable to speak in full sentences. Vital signs: blood pressure 152/90 mm Hg, heart rate 116/min, respirations 32/min, and oxygen saturation 86% on ambient air. Cardiovascular exam reveals tachycardia without murmurs. Pulmonary exam demonstrates prolonged expiratory phase with diffuse bilateral expiratory wheezes and diminished breath sounds throughout. An arterial blood gas (ABG) on 2 L/min nasal cannula reveals: pH 7.24, PaCO2 68 mm Hg, PaO2 56 mm Hg, and HCO3- 29 mEq/L, confirming acute-on-chronic respiratory acidosis. He is immediately treated with inhaled nebulized albuterol-ipratropium, intravenous methylprednisolone 60 mg, oral azithromycin, and supplemental oxygen titrated via Venturi mask targeting SpO2 88% to 92%. Repeat ABG performed 45 minutes later shows worsening acidemia: pH 7.21, PaCO2 74 mm Hg, and PaO2 60 mm Hg. He remains awake and cooperates with commands, with an intact gag reflex and no excessive vomiting. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      [
+        "Initiation of non-invasive positive pressure ventilation (NIV / BiPAP) with inspiratory and expiratory positive airway pressure titration",
+        "ACUTE EXACERBATION OF COPD (AECOPD) WITH ACUTE HYPERCAPNIC RESPIRATORY FAILURE: (1) PATHOPHYSIOLOGY: Severe airflow obstruction, dynamic hyperinflation, and intrinsic positive end-expiratory pressure (auto-PEEP) markedly increase the work of breathing. As respiratory muscle fatigue ensues, alveolar hypoventilation worsens, producing acute-on-chronic hypercapnic respiratory acidosis (pH < 7.35 and PaCO2 > 45 mm Hg); (2) NON-INVASIVE POSITIVE PRESSURE VENTILATION (NIV / BIPAP): NIV is the UNDISPUTED FIRST-LINE MECHANICAL VENTILATORY SUPPORT for acute hypercapnic respiratory failure in AECOPD. Multiple landmark randomized trials and Cochrane meta-analyses demonstrate that NIV achieves: (a) 65% reduction in the need for endotracheal intubation; (b) Significant reduction in intensive care unit length of stay; (c) > 50% relative reduction in hospital mortality compared to standard medical therapy alone; (3) MECHANISM OF BENEFIT: Inspiratory positive airway pressure (IPAP) assists fatigued inspiratory muscles, augment tidal volume, and unloads the diaphragm, reducing PaCO2; Expiratory positive airway pressure (EPAP) offsets intrinsic auto-PEEP, preventing dynamic airway collapse and improving alveolar recruitment and oxygenation; (4) INDICATIONS AND CONTRAINDICATIONS: Indications: Respiratory acidosis (pH <= 7.35 and/or PaCO2 > 45 mm Hg) and severe dyspnea with muscle fatigue despite medical therapy. Absolute Contraindications to NIV: Cardiac or respiratory arrest, severe hemodynamic instability, severe encephalopathy / coma, facial trauma/burns, upper airway obstruction, high aspiration risk, or inability to clear thick secretions. Because this patient is alert, cooperative, and hemodynamically stable, NIV is indicated immediately. If NIV fails (persistent worsening acidemia pH < 7.20, worsening lethargy, or exhaustion), prompt invasive endotracheal intubation is required."
+      ],
+      [
+        "Immediate endotracheal intubation and invasive mechanical ventilation",
+        "Endotracheal intubation is reserved for patients who fail NIV or have absolute contraindications (coma, arrest, severe shock); in an alert, cooperative patient, initiating NIV first prevents ventilator-associated pneumonia and reduces mortality."
+      ],
+      [
+        "Increase supplemental oxygen to 15 L/min via non-rebreather mask to normalize oxygen saturation to 100%",
+        "Excessive oxygen supplementation in COPD induces worsening hypercapnia via loss of compensatory hypoxic vasoconstriction (V/Q mismatch) and the Haldane effect; target SpO2 in COPD is strictly 88% to 92%."
+      ],
+      [
+        "Administration of intravenous theophylline bolus and continuous infusion",
+        "Theophylline has a narrow therapeutic window, high risk of life-threatening tachyarrhythmias and seizures, and has shown zero benefit over inhaled bronchodilators in acute COPD exacerbations."
+      ],
+      [
+        "Administration of high-dose intravenous lorazepam 2 mg to treat tachypnea and relieve respiratory anxiety",
+        "Sedatives and benzodiazepines suppress central respiratory drive, precipitating immediate fatal hypercapnic coma and respiratory arrest in acute COPD exacerbations."
+      ]
+    ],
+    "shortestValidSolution": "COPD exacerbation + acute respiratory acidosis (pH 7.21, PaCO2 74) despite bronchodilators + alert/cooperative = Acute hypercapnic failure -> Non-invasive positive pressure ventilation (BiPAP).",
+    "necessaryInference": "Select non-invasive positive pressure ventilation (NIV/BiPAP) as the first-line intervention for acute hypercapnic respiratory failure (pH <= 7.35) in COPD exacerbations to reduce intubation rates and mortality.",
+    "strongestDistractor": "Immediate endotracheal intubation and invasive mechanical ventilation",
+    "distractorExclusion": "In a cooperative patient without contraindications, NIV is preferred over immediate intubation because it dramatically reduces mortality and avoids complications of invasive ventilation.",
+    "citation": "Rochwerg B, Brochard L, Elliott MW, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. Eur Respir J. 2017;50(2):1602426. PMID: 28860265.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating COPD Hypercapnic Respiratory Failure and Non-Invasive Ventilation.",
+      "distractorExclusionNotes": "Competitor Immediate endotracheal intubation and invasive mec excluded by In a cooperative patient without contraindications, NIV is p.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0712",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Acute Type B Aortic Dissection Medical Impulse Control vs TEVAR",
+    "provisionalDifficulty": 5,
+    "stem": "A 62-year-old man with poorly controlled hypertension presents to the emergency department with sudden-onset, severe, 'tearing' mid-back pain between his scapulae that began 2 hours ago. He denies chest pain, syncope, shortness of breath, numbness, or weakness in his extremities. Vital signs: blood pressure 188/104 mm Hg (symmetric in both upper extremities), heart rate 92/min, respirations 18/min, and oxygen saturation 98% on room air. Physical examination reveals normal S1 and S2 without aortic murmurs or rubs; lung fields are clear. Radial, femoral, and pedal pulses are strong and symmetric bilaterally (2+). Neurological examination is completely intact. Emergent contrast-enhanced CT angiography (CTA) of the chest, abdomen, and pelvis demonstrates a Stanford type B (DeBakey III) acute aortic dissection originating just distal to the origin of the left subclavian artery and extending distally to the aortic bifurcation. There is no evidence of aortic rupture, hemothorax, or false lumen thrombosis. The celiac axis, superior mesenteric artery, and both renal arteries are widely patent and perfused by the true lumen, with normal bilateral renal cortical enhancement. Which of the following is the most appropriate initial management strategy?",
+    "choices": [
+      [
+        "Initiation of intravenous beta-blocker therapy (e.g., labetalol or esmolol) targeting heart rate < 60/min and systolic blood pressure between 100 and 120 mm Hg (anti-impulse therapy)",
+        "ACUTE AORTIC DISSECTION CLASSIFICATION AND MANAGEMENT: (1) STANFORD CLASSIFICATION: (a) TYPE A: Involves the ascending aorta (with or without arch/descending involvement). Life-threatening surgical emergency requiring IMMEDIATE OPEN SURGICAL REPAIR (sternotomy with graft replacement) to prevent fatal pericardial tamponade, aortic rupture, or coronary malperfusion; (b) TYPE B: Involves ONLY the descending aorta distal to the origin of the left subclavian artery; (2) UNCOMPLICATED VS COMPLICATED TYPE B DISSECTION: (a) COMPLICATED TYPE B: Characterized by end-organ malperfusion (renal failure, mesenteric ischemia, lower extremity limb ischemia), persistent refractory pain, uncontrolled hypertension despite multiple agents, aortic rupture/hemothorax, or rapid aneurysmal expansion. Complicated Type B requires emergent intervention: THORACIC ENDOVASCULAR AORTIC REPAIR (TEVAR); (b) UNCOMPLICATED TYPE B: Defined by hemodynamically stable patients with absence of malperfusion, rupture, or refractory pain. This patient has uncomplicated Type B dissection (symmetric pulses, patent visceral/renal branches, no rupture); (3) FIRST-LINE MEDICAL MANAGEMENT (ANTI-IMPULSE THERAPY): The gold standard for uncomplicated Type B dissection is MEDICAL THERAPY IN THE INTENSIVE CARE UNIT. GOALS: Reduce aortic wall shear stress (dP/dt, rate of change of ventricular pressure rise): (a) INTRAVENOUS BETA-BLOCKERS (LABETALOL, ESMOLOL): FIRST-LINE AGENTS. Titrated to TARGET RESTING HEART RATE < 60 BEATS/MIN. Beta-blockade MUST precede or accompany vasodilators; (b) BLOOD PRESSURE REDUCTION: TARGET SYSTOLIC BLOOD PRESSURE BETWEEN 100 AND 120 MM HG (or lowest tolerated without end-organ hypoperfusion). If SBP remains > 120 mm Hg after adequate beta-blockade, add IV vasodilators (nicardipine or sodium nitroprusside). CRITICAL CAUTION: NEVER administer a pure vasodilator (nitroprusside, hydralazine) without prior beta-blockade; vasodilators trigger reflex sympathetic tachycardia, increasing dP/dt and propagating the dissecting flap."
+      ],
+      [
+        "Emergent transfer to the operating room for open surgical replacement of the descending thoracic aorta via left thoracotomy",
+        "Open surgical repair of uncomplicated Type B dissection carries high operative morbidity and mortality (> 20-30% mortality, paraplegia, renal failure) and is significantly inferior to medical anti-impulse management."
+      ],
+      [
+        "Monotherapy with intravenous sodium nitroprusside infusion titrated rapidly to systolic blood pressure 110 mm Hg",
+        "Vasodilator monotherapy without prior beta-blockade induces reflex tachycardia and increases aortic wall shear stress (dP/dt), propagating dissection and causing fatal rupture; beta-blockers must be administered first."
+      ],
+      [
+        "Emergent thoracic endovascular aortic repair (TEVAR) within the first 6 hours of presentation",
+        "Routine emergency TEVAR in acute uncomplicated Type B dissection is not recommended over medical therapy; medical anti-impulse therapy is first-line, reserving TEVAR for complicated dissections with malperfusion or expansion."
+      ],
+      [
+        "Immediate systemic anticoagulation with intravenous unfractionated heparin bolus and infusion",
+        "Anticoagulation promotes hemorrhage into the aortic false lumen, impairs false lumen thrombosis, and accelerates catastrophic transmural aortic rupture; it is strictly contraindicated."
+      ]
+    ],
+    "shortestValidSolution": "Tearing back pain + Type B dissection (descending aorta only) + no malperfusion or rupture = Uncomplicated Type B Dissection -> Medical anti-impulse therapy (IV beta-blockers: HR < 60, SBP 100-120).",
+    "necessaryInference": "Manage acute Stanford Type B aortic dissection by initiating medical anti-impulse therapy with intravenous beta-blockers targeting heart rate < 60/min and systolic BP 100-120 mm Hg, reserving TEVAR for complicated dissections.",
+    "strongestDistractor": "Monotherapy with intravenous sodium nitroprusside infusion titrated rapidly to systolic blood pressure 110 mm Hg",
+    "distractorExclusion": "Administering vasodilators without prior beta-blockade triggers reflex tachycardia and increases aortic wall shear stress, accelerating dissection flap propagation and rupture.",
+    "citation": "Hiratzka LF, Bakris GL, Beckman JA, et al. 2010 ACCF/AHA/AATS/ACR/ASA/SCA/SCAI/SIR/STS/SVM Guidelines for the diagnosis and management of patients with thoracic aortic disease. Circulation. 2010;121(13):e266-e369. PMID: 20233780.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Acute Type B Aortic Dissection Medical Impulse Control vs TEVAR.",
+      "distractorExclusionNotes": "Competitor Monotherapy with intravenous sodium nitroprusside  excluded by Administering vasodilators without prior beta-blockade trigg.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0713",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Rheumatoid Arthritis Step-Up Therapy to Biologic TNF Inhibitor",
+    "provisionalDifficulty": 4,
+    "stem": "A 42-year-old woman presents to the outpatient rheumatology clinic for a 6-month follow-up of seropositive rheumatoid arthritis (anti-cyclic citrullinated peptide [anti-CCP] antibody > 250 U/mL, rheumatoid factor positive). At her initial diagnosis 6 months ago, she was started on oral methotrexate, which was systematically uptitrated to the maximal tolerated therapeutic dose of 25 mg weekly, accompanied by daily folic acid 1 mg. She is fully adherent to this regimen. Today, she reports persistent morning joint stiffness lasting 2 hours, fatigue, and ongoing joint pain that interferes with her work as an architect. Physical examination reveals warm, tender, and visibly swollen synovitis in 8 joints (bilateral second and third metacarpophalangeal joints, bilateral wrists, and bilateral proximal interphalangeal joints). Hand radiographs show subtle periarticular osteopenia with a new marginal bone erosion at the radial aspect of the right third metacarpal head. Laboratory evaluation: ESR 58 mm/hr, CRP 28 mg/L, CBC normal, and serum ALT 24 U/L. Baseline screening prior to therapy demonstrated negative interferon-gamma release assay (QuantiFERON-TB Gold) and negative hepatitis B and C serologies. Which of the following is the most appropriate next step in disease-modifying antirheumatic drug (DMARD) therapy according to American College of Rheumatology (ACR) guidelines?",
+    "choices": [
+      [
+        "Addition of a biologic disease-modifying antirheumatic drug, such as a tumor necrosis factor (TNF) inhibitor (e.g., adalimumab or etanercept), to her ongoing methotrexate regimen",
+        "RHEUMATOID ARTHRITIS (RA) TREAT-TO-TARGET MANAGEMENT: (1) INITIAL THERAPY: Oral or subcutaneous METHOTREXATE (MTX) is the anchor first-line conventional synthetic DMARD (csDMARD) for moderate-to-severe RA, titrated to 20-25 mg weekly with folic acid. Goals: Achieve clinical remission or low disease activity (measured by CDAI, SDAI, or DAS28); (2) TIMING OF TREATMENT FAILURE ASSESSMENT: Disease activity must be assessed at 3 months, and target must be achieved by 6 months. In patients with PERSISTENT MODERATE-TO-HIGH DISEASE ACTIVITY DESPITE MAXIMAL TOLERATED METHOTREXATE MONOTHERAPY (especially those with poor prognostic features: high anti-CCP titers, elevated inflammatory markers, or radiographic erosions), GUIDELINE-DIRECTED STEP-UP THERAPY IS MANDATED; (3) ACR GUIDELINES STEP-UP OPTIONS: (a) COMBINATION BIOLOGIC DMARD (bDMARD) PLUS METHOTREXATE: Addition of a TUMOR NECROSIS FACTOR (TNF) INHIBITOR (ADALIMUMAB, ETANERCEPT, INFLIXIMAB, CERTOLIZUMAB, GOLIMUMAB) is the standard, evidence-based next step. Multiple landmark trials (PREMIER, TEMPO) demonstrate that combining a TNF inhibitor with methotrexate provides significantly superior ACR50 response rates and halts radiographic joint destruction far more effectively than continuing MTX monotherapy or switching between single agents; (b) TARGETED SYNTHETIC DMARD (tsDMARD) PLUS MTX: JAK inhibitors (tofacitinib, baricitinib, upadacitinib) are alternatives, though TNF inhibitors are often favored first due to longer safety registries; (c) TRIPLE CONVENTIONAL THERAPY: Methotrexate + Sulfasalazine + Hydroxychloroquine (O'Dell regimen) is a viable csDMARD combination if biologics are inaccessible; (4) MONITORING: Before starting any biologic, latent TB screening (IGRA or TST) and viral hepatitis screening are mandatory (already confirmed negative in this patient)."
+      ],
+      [
+        "Discontinuation of methotrexate and initiation of chronic daily oral prednisone 20 mg monotherapy",
+        "Long-term systemic corticosteroids do not prevent progressive joint erosions, cause severe cumulative toxicities (osteoporosis, avascular necrosis, infections, diabetes), and are never appropriate as chronic DMARD replacement."
+      ],
+      [
+        "Switching methotrexate monotherapy to oral hydroxychloroquine 400 mg daily monotherapy",
+        "Hydroxychloroquine is a mild csDMARD indicated for mild non-erosive disease; downgrading from methotrexate to hydroxychloroquine monotherapy in erosive RA leads to rapid structural joint destruction."
+      ],
+      [
+        "Escalating oral methotrexate from 25 mg weekly to 50 mg weekly",
+        "The maximum recommended therapeutic dose of methotrexate is 25 to 30 mg weekly; doses above 25-30 mg do not improve efficacy due to saturable gastrointestinal absorption and dramatically increase hepatotoxicity and bone marrow suppression."
+      ],
+      [
+        "Addition of high-dose daily oral celecoxib 400 mg with no change in disease-modifying therapy",
+        "NSAIDs provide purely symptomatic analgesia without altering underlying autoimmune synovitis or preventing joint erosions; relying on NSAIDs while withholding DMARD escalation allows irreversible joint damage."
+      ]
+    ],
+    "shortestValidSolution": "Seropositive RA + failing maximal methotrexate (25 mg/wk for 6 mo) + persistent synovitis + new erosion = Methotrexate failure -> Add Biologic TNF inhibitor (e.g., Adalimumab).",
+    "necessaryInference": "Apply American College of Rheumatology treat-to-target guidelines: step up from failed maximal methotrexate monotherapy to combination therapy with a biologic TNF inhibitor.",
+    "strongestDistractor": "Discontinuation of methotrexate and initiation of chronic daily oral prednisone 20 mg monotherapy",
+    "distractorExclusion": "Prednisone does not prevent progressive radiographic bone destruction and carries severe long-term systemic toxicities; biologic DMARD addition is required.",
+    "citation": "Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology Guideline for the Treatment of Rheumatoid Arthritis. Arthritis Rheumatol. 2021;73(7):1108-1123. PMID: 34101387.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Rheumatoid Arthritis Step-Up Therapy to Biologic TNF Inhibitor.",
+      "distractorExclusionNotes": "Competitor Discontinuation of methotrexate and initiation of  excluded by Prednisone does not prevent progressive radiographic bone de.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0714",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Cholangitis Tokyo Guidelines Severity and Urgent Biliary Decompression",
+    "provisionalDifficulty": 4,
+    "stem": "A 68-year-old woman is brought to the emergency department with a 24-hour history of severe right upper quadrant abdominal pain, high spiking fevers, shaking chills, and progressive confusion. Her medical history is notable for cholelithiasis. On arrival, she is lethargic, oriented only to person, and disoriented to place and time. Vital signs: temperature 39.4 C (102.9 F), blood pressure 84/52 mm Hg, heart rate 124/min, respirations 22/min, and oxygen saturation 96% on room air. Physical examination reveals deep scleral icterus and marked right upper quadrant abdominal tenderness with involuntary guarding. Laboratory studies demonstrate: leukocytosis of 22,400/mm3 with 16% band forms, serum total bilirubin 8.4 mg/dL (direct 6.8 mg/dL), alkaline phosphatase 480 U/L, AST 182 U/L, ALT 196 U/L, serum lactate 3.6 mmol/L, and serum creatinine 2.1 mg/dL (baseline 0.9 mg/dL). Right upper quadrant transabdominal ultrasound reveals multiple gallstones within the gallbladder, marked intrahepatic and extrahepatic biliary ductal dilation, and a 12-mm common bile duct containing an impacted choledochal calculus. Intravenous fluid resuscitation with 30 mL/kg of crystalloids is initiated along with broad-spectrum piperacillin-tazobactam. Repeat blood pressure after 2 liters of fluid is 88/56 mm Hg, and a norepinephrine infusion is started. Which of the following is the most appropriate next step in the definitive management of this patient?",
+    "choices": [
+      [
+        "Urgent biliary decompression via endoscopic retrograde cholangiopancreatography (ERCP) with endoscopic sphincterotomy and biliary drainage within 24 hours",
+        "ACUTE CHOLANGITIS (ASCENDING CHOLANGITIS): (1) PATHOPHYSIOLOGY: Biliary tract obstruction (most commonly choledocholithiasis, followed by strictures or malignancy) creates a closed-space, high-pressure collection of infected bile. Elevated intrabiliary pressure (> 25-30 cm H2O) disrupts tight junctions between hepatocytes and cholangiocytes, causing pyelovenous and bilio-lymphatic reflux that showers bacteria and endotoxins directly into the hepatic veins and systemic circulation, rapidly precipitating septic shock; (2) CLINICAL MANIFESTATIONS: (a) CHARCOT TRIAD: Fever, jaundice, right upper quadrant pain (present in 50-70%); (b) REYNOLDS PENTAD: Charcot triad PLUS hypotension (shock) and altered mental status (confusion/lethargy), indicating SEVERE / SUPPURATIVE TOXIC CHOLANGITIS; (3) TOKYO GUIDELINES (TG18) SEVERITY STRATIFICATION: (a) Grade I (Mild): Responds to antibiotics alone; (b) Grade II (Moderate): High WBC, high fever, elderly, bilirubin >= 5 mg/dL; (c) GRADE III (SEVERE): Defined by acute cholangitis accompanied by ONSET OF AT LEAST ONE NEW ORGAN DYSFUNCTION (cardiovascular hypotension requiring vasopressors, neurological disturbance, respiratory failure, renal failure creatinine > 2.0, or thrombocytopenia). This patient has Grade III severe cholangitis (shock requiring norepinephrine, altered mental status, and acute kidney injury); (4) DEFINITIVE MANAGEMENT: (a) Resuscitation: Broad-spectrum intravenous antibiotics (piperacillin-tazobactam, cefepime + metronidazole) and hemodynamic support in an ICU; (b) URGENT BILIARY DECOMPRESSION: TG18 guidelines mandate URGENT ENDOSCOPIC BILIARY DRAINAGE (ERCP WITH SPHINCTEROTOMY AND/OR STENT/NASOBILIARY TUBE) AS SOON AS POSSIBLE AND WITHIN 24 HOURS. If ERCP is unavailable or technically unfeasible, percutaneous transhepatic biliary drainage (PTBD) is the preferred alternative. Antibiotics alone cannot penetrate an obstructed biliary tree; relief of mechanical pressure is the decisive life-saving intervention. Cholecystectomy is strictly deferred until the acute sepsis resolves."
+      ],
+      [
+        "Emergent open cholecystectomy and surgical common bile duct exploration in the operating room",
+        "Emergency open surgical duct exploration in a patient in septic shock carries an operative mortality > 30-40%; minimally invasive endoscopic drainage (ERCP) is the undisputed gold standard, with surgery deferred."
+      ],
+      [
+        "Continue conservative medical management with intravenous antibiotics and fluid resuscitation, deferring biliary drainage for 72 hours to allow antibiotics to sterilize the bile duct",
+        "Antibiotics cannot achieve therapeutic concentrations in an obstructed, high-pressure biliary system; deferring drainage in Grade III cholangitis carries near 100% mortality from irreversible septic shock."
+      ],
+      [
+        "Administration of oral ursodeoxycholic acid and high-dose intravenous methylprednisolone",
+        "Ursodeoxycholic acid dissolves small cholesterol gallstones over months; it has zero role in acute suppurative cholangitis, and corticosteroids impair immune host defense against life-threatening bacterial infection."
+      ],
+      [
+        "Perform an emergent diagnostic magnetic resonance cholangiopancreatography (MRCP) before scheduling intervention",
+        "The ultrasound already confirmed common bile duct dilation and choledocholithiasis in a patient with Reynolds pentad; delaying therapeutic ERCP for diagnostic MRCP wastes precious time and increases mortality."
+      ]
+    ],
+    "shortestValidSolution": "Reynolds pentad (Fever + Jaundice + RUQ pain + Shock + Confusion) + CBD stone = Severe Grade III Cholangitis -> Urgent ERCP biliary decompression within 24 hours.",
+    "necessaryInference": "Recognize Tokyo Guidelines Grade III severe acute cholangitis (Reynolds pentad with organ failure) and prioritize urgent endoscopic biliary drainage (ERCP) within 24 hours over surgery or medical monotherapy.",
+    "strongestDistractor": "Emergent open cholecystectomy and surgical common bile duct exploration in the operating room",
+    "distractorExclusion": "Open surgical common bile duct exploration in active septic shock carries prohibitive mortality; endoscopic drainage (ERCP) is far safer and more effective.",
+    "citation": "Kiriyama S, Kozaka K, Takada T, et al. Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholangitis (with videos). J Hepatobiliary Pancreat Sci. 2018;25(1):17-30. PMID: 29308742.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Acute Cholangitis Tokyo Guidelines Severity and Urgent Biliary Decompression.",
+      "distractorExclusionNotes": "Competitor Emergent open cholecystectomy and surgical common  excluded by Open surgical common bile duct exploration in active septic .",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0715",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Life-Threatening Intracerebral Hemorrhage Direct Factor Xa Inhibitor Reversal",
+    "provisionalDifficulty": 5,
+    "stem": "A 74-year-old man with non-valvular atrial fibrillation maintained on oral apixaban 5 mg twice daily presents to the emergency department with sudden-onset severe headache, vomiting, and acute left-sided hemiplegia that began 90 minutes ago. His wife confirms that he took his morning dose of apixaban approximately 3 hours before symptom onset. Vital signs: blood pressure 184/102 mm Hg, heart rate 76/min, respirations 18/min, and oxygen saturation 97% on room air. Neurological examination reveals lethargy, left hemineglect, left facial droop, and flaccid left hemiparesis (strength 0/5 in the left upper and lower extremities), with a Glasgow Coma Scale (GCS) score of 11. Emergent non-contrast head CT demonstrates an acute 38-mL right basal ganglia intraparenchymal hemorrhage with 5 mm of midline shift and surrounding vasogenic edema, with no intraventricular extension. Complete blood count shows platelets 210,000/mm3; renal function shows serum creatinine 1.1 mg/dL. Which of the following is the most appropriate next step to achieve immediate hemostatic reversal and prevent hematoma expansion according to neurocritical care guidelines?",
+    "choices": [
+      [
+        "Immediate intravenous administration of a specific factor Xa reversal agent (andexanet alfa) or 4-factor prothrombin complex concentrate (4F-PCC) combined with rapid blood pressure lowering targeting systolic BP 130 to 140 mm Hg",
+        "ANTICOAGULATION-ASSOCIATED INTRACEREBRAL HEMORRHAGE (ICH) REVERSAL: (1) PATHOPHYSIOLOGY AND PROGNOSIS: Spontaneous ICH in patients receiving direct oral anticoagulants (DOACs) or vitamin K antagonists is associated with rapid HEMATOMA EXPANSION (occurs in > 35% of patients within the first few hours) and in-hospital mortality exceeding 40-50%. Rapid reversal of anticoagulation is a critical, time-sensitive emergency; (2) DIRECT FACTOR XA INHIBITOR REVERSAL (APIXABAN, RIVAROXABAN, EDOXABAN): Guidelines from the Neurocritical Care Society (NCS), AHA/ASA, and European Stroke Organisation (ESO) recommend: (a) FIRST-LINE SPECIFIC REVERSAL: ANDEXANET ALFA (recombinant modified human factor Xa decoy protein lacking catalytic and membrane-binding domains, which binds and neutralizes apixaban and rivaroxaban with high affinity). The ANNEXA-4 trial demonstrated rapid reduction in anti-factor Xa activity (> 90%) and good hemostatic efficacy in > 80% of patients; (b) FIRST-LINE ALTERNATIVE: UNACCRETED 4-FACTOR PROTHROMBIN COMPLEX CONCENTRATE (4F-PCC: containing concentrated factors II, VII, IX, and X, dosed at 50 units/kg). 4F-PCC floods the coagulation cascade with excess factors, overriding competitive Xa inhibition, and is widely recommended when andexanet alfa is unavailable; (c) INEFFECTIVE MODALITIES: Fresh Frozen Plasma (FFP) requires large infusion volumes, takes hours to thaw and infuse, and does not achieve effective reversal for direct Xa inhibitors; Vitamin K is completely ineffective against direct Xa inhibitors; Protamine only reverses heparin; (3) BLOOD PRESSURE TARGETS IN ACUTE ICH: AHA/ASA ICH guidelines recommend rapid, smooth lowering of systolic blood pressure using IV infusions (nicardipine or labetalol) to a target of 130 to 140 mm Hg to limit hematoma expansion while preserving cerebral perfusion pressure."
+      ],
+      [
+        "Intravenous administration of 4 units of fresh frozen plasma (FFP) and 10 mg of intravenous vitamin K",
+        "FFP requires prolonged thawing and infusion of large volumes (risking transfusion-associated circulatory overload) without reliably reversing factor Xa inhibitors, and vitamin K only affects vitamin K-dependent carboxylation, which has zero effect on direct Xa inhibitors."
+      ],
+      [
+        "Administration of intravenous idarucizumab 5 g bolus",
+        "Idarucizumab is a specific humanized monoclonal antibody fragment indicated exclusively for the reversal of dabigatran (a direct thrombin inhibitor); it has zero binding affinity or efficacy for apixaban (a direct factor Xa inhibitor)."
+      ],
+      [
+        "Administration of intravenous protamine sulfate 50 mg bolus",
+        "Protamine sulfate is a basic peptide that specifically binds and neutralizes negatively charged unfractionated heparin and partially neutralizes low-molecular-weight heparin; it has zero activity against oral factor Xa inhibitors."
+      ],
+      [
+        "Immediate transfusion of 2 adult doses of apheresis platelets and 10 units of cryoprecipitate",
+        "Platelet transfusion in non-thrombocytopenic patients with ICH is ineffective, and the PATCH trial showed that platelet transfusion in antiplatelet-associated ICH actually increased death and disability; cryoprecipitate is indicated only for fibrinogen < 100 mg/dL."
+      ]
+    ],
+    "shortestValidSolution": "ICH on Apixaban (38-mL hematoma) + 1.5 hr from last dose = Factor Xa inhibitor-associated ICH -> Andexanet alfa or 4F-PCC + BP lowering to SBP 130-140 mm Hg.",
+    "necessaryInference": "Select the appropriate reversal strategy for direct factor Xa inhibitor (apixaban)-associated life-threatening intracerebral hemorrhage: andexanet alfa or 4-factor prothrombin complex concentrate (4F-PCC).",
+    "strongestDistractor": "Intravenous administration of 4 units of fresh frozen plasma (FFP) and 10 mg of intravenous vitamin K",
+    "distractorExclusion": "FFP and vitamin K do not effectively reverse direct factor Xa inhibitors and cause dangerous volume overload and treatment delay; andexanet alfa or 4F-PCC is required.",
+    "citation": "Connolly SJ, Crowther M, Eikelboom JW, et al. Full Study Report of Andexanet Alfa for Bleeding Associated with Factor Xa Inhibitors (ANNEXA-4). N Engl J Med. 2019;380(14):1326-1335. PMID: 30730782.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Life-Threatening Intracerebral Hemorrhage Direct Factor Xa Inhibitor Reversal.",
+      "distractorExclusionNotes": "Competitor Intravenous administration of 4 units of fresh fro excluded by FFP and vitamin K do not effectively reverse direct factor X.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0716",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Severe Osteoporosis Very High Fracture Risk and Anabolic Therapy Sequencing",
+    "provisionalDifficulty": 5,
+    "stem": "A 72-year-old postmenopausal woman is referred to the bone health clinic after sustaining an acute low-trauma vertebral compression fracture of L2 while lifting a bag of groceries 3 weeks ago. She has severe localized back pain that is being managed with acetaminophen and heat. Her medical history includes a right femoral neck fracture 14 months ago that was treated with open reduction and internal fixation. Dual-energy x-ray absorptiometry (DEXA) scan performed last week reveals: lumbar spine (L1-L4) T-score of -3.6, total hip T-score of -3.2, and femoral neck T-score of -3.4. Her calculated FRAX 10-year probability of a major osteoporotic fracture is 44%, and the 10-year probability of hip fracture is 18%. Laboratory evaluation shows normal serum calcium (9.4 mg/dL), normal serum phosphate, normal 25-hydroxyvitamin D (38 ng/mL), normal serum parathyroid hormone (PTH 34 pg/mL), and normal serum creatinine (0.8 mg/dL). She has no history of hyperparathyroidism, Paget disease of bone, prior skeletal radiation therapy, or unexplained elevated alkaline phosphatase. Which of the following is the most appropriate initial pharmacological strategy to reduce future fracture risk according to American Association of Clinical Endocrinologists (AACE) and Endocrine Society guidelines?",
+    "choices": [
+      [
+        "Initiation of osteoanabolic bone-forming therapy with a recombinant parathyroid hormone receptor agonist (teriparatide or abaloparatide) or romosozumab for 12 to 24 months, followed sequentially by an antiresorptive agent (such as alendronate or zoledronic acid)",
+        "SEVERE OSTEOPOROSIS / 'VERY HIGH FRACTURE RISK' STRATIFICATION AND SEQUENTIAL THERAPY: (1) DEFINITION OF VERY HIGH FRACTURE RISK (AACE/ACE 2020 and Endocrine Society Guidelines): (a) Recent fracture within the past 12 months (e.g., femoral neck fracture 14 months ago and acute L2 fracture 3 weeks ago); (b) Multiple prior fragility fractures; (c) Severe T-score < -3.0; (d) FRAX 10-year probability of major osteoporotic fracture > 30% or hip fracture > 4.5%; (e) Fractures occurring while on antiresorptive therapy; (2) ANABOLIC FIRST VS ANTIRESORPTIVE FIRST: In patients with STANDARD high fracture risk, oral or IV bisphosphonates are initial therapy. However, in patients meeting VERY HIGH FRACTURE RISK CRITERIA, CLINICAL PRACTICE GUIDELINES STRONGLY RECOMMEND ANABOLIC (BONE-FORMING) THERAPY FIRST: (a) TERIPARATIDE (recombinant human PTH [1-34]) or ABALOPARATIDE (PTHrP analog): Stimulates osteoblastic bone formation to rapidly increase trabecular bone microarchitecture and mineral density; (b) ROMOSOZUMAB (sclerostin monoclonal antibody): Dual effect: powerfully stimulates bone formation while simultaneously inhibiting bone resorption; (3) CRITICAL SEQUENCING PRINCIPLE (ANABOLIC FIRST, ANTIRESORPTIVE SECOND): Multiple randomized controlled trials (VERVE trial, DATA-Switch study) demonstrate that initiating treatment with an anabolic agent followed sequentially by an antiresorptive agent produces massive, cumulative BMD increases and superior fracture reduction. CONVERSELY, starting with a bisphosphonate suppresses bone turnover, which blunts the anabolic response if teriparatide is administered subsequently; furthermore, when anabolic therapy is completed (teriparatide max 24 months, romosozumab max 12 months), AN ANTIRESORPTIVE AGENT (ALENDRONATE OR ZOLEDRONIC ACID) MUST BE STARTED IMMEDIATELY to prevent rapid loss of newly formed bone mineral density."
+      ],
+      [
+        "Initiation of oral alendronate 70 mg weekly monotherapy as standard first-line therapy for all severities of osteoporosis",
+        "Oral bisphosphonates are appropriate for moderate-to-high risk, but in very high fracture risk (multiple recent fractures, T-score -3.6, FRAX 44%), head-to-head trials (VERO trial) proved anabolic therapy achieves significantly greater fracture reduction."
+      ],
+      [
+        "Prescription of nasal calcitonin spray 200 IU daily as initial monotherapy",
+        "Calcitonin is a very weak antiresorptive agent with no proven efficacy for non-vertebral or hip fractures, carries increased malignancy risks with chronic use, and is obsolete for severe osteoporosis."
+      ],
+      [
+        "Initiation of daily oral raloxifene 60 mg monotherapy",
+        "Raloxifene is a selective estrogen receptor modulator with efficacy limited to vertebral fractures only; it has zero efficacy in preventing hip fractures and increases deep vein thrombosis and pulmonary embolism."
+      ],
+      [
+        "Administration of denosumab 60 mg subcutaneously every 6 months for 12 months, followed by complete cessation of all bone-active pharmacotherapy",
+        "Denosumab is an antiresorptive RANKL inhibitor, but stopping denosumab without antiresorptive consolidation triggers severe rebound osteoclast activation, causing rapid bone loss and multiple vertebral crush fractures."
+      ]
+    ],
+    "shortestValidSolution": "Recent hip fracture + new L2 compression fracture + T-score -3.6 = Very High Fracture Risk Osteoporosis -> Anabolic therapy first (Teriparatide/Romosozumab) followed by antiresorptive.",
+    "necessaryInference": "Recognize 'very high fracture risk' osteoporosis (multiple recent fragility fractures, severe T-score < -3.0) and prioritize initial osteoanabolic bone-forming therapy (teriparatide/abaloparatide) followed sequentially by antiresorptives.",
+    "strongestDistractor": "Initiation of oral alendronate 70 mg weekly monotherapy as standard first-line therapy for all severities of osteoporosis",
+    "distractorExclusion": "In patients with very high fracture risk and recent fractures, anabolic agents achieve superior reduction in future fractures compared to oral bisphosphonates alone.",
+    "citation": "Camacho PM, Petak SM, Binkley N, et al. American Association of Clinical Endocrinologists/American College of Endocrinology Clinical Practice Guidelines for the Diagnosis and Treatment of Postmenopausal Osteoporosis-2020 Update. Endocr Pract. 2020;26(Suppl 1):1-46. PMID: 32427503.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Severe Osteoporosis Very High Fracture Risk and Anabolic Therapy Sequencing.",
+      "distractorExclusionNotes": "Competitor Initiation of oral alendronate 70 mg weekly monoth excluded by In patients with very high fracture risk and recent fracture.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0717",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Severe ARDS Lung-Protective Ventilation and Early Prone Positioning",
+    "provisionalDifficulty": 5,
+    "stem": "A 54-year-old man with severe septic shock secondary to Escherichia coli pyelonephritis is intubated in the intensive care unit for acute hypoxemic respiratory failure. Over the past 12 hours, his oxygenation has progressively deteriorated. A portable chest radiograph demonstrates bilateral, extensive diffuse alveolar infiltrates throughout both lung fields. Transthoracic echocardiogram demonstrates normal left ventricular systolic function (ejection fraction 60%), normal left atrial size, and no valvular disease, ruling out hydrostatic cardiogenic pulmonary edema. He is sedated and paralyzed. Current volume-assist-control mechanical ventilator settings are: tidal volume (Vt) 420 mL (calculated at 6 mL/kg of predicted body weight [PBW], PBW 70 kg), respiratory rate 26/min, positive end-expiratory pressure (PEEP) 14 cm H2O, and fraction of inspired oxygen (FiO2) 0.85. Under these settings, an arterial blood gas reveals: pH 7.30, PaCO2 48 mm Hg, and PaO2 62 mm Hg, yielding a PaO2/FiO2 (P/F) ratio of 73 mm Hg (consistent with severe Acute Respiratory Distress Syndrome, Berlin definition P/F < 100 mm Hg). Inspiratory pause demonstrates an inspiratory plateau pressure (Pplat) of 28 cm H2O (normal target <= 30 cm H2O), and driving pressure (Pplat minus PEEP) is 14 cm H2O. Which of the following evidence-based interventions is most strongly recommended to reduce mortality in this patient?",
+    "choices": [
+      [
+        "Initiation of early, prolonged prone positioning ventilation (at least 16 consecutive hours per day)",
+        "ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS) EVIDENCE-BASED ICU MANAGEMENT: (1) BERLIN DEFINITION: (a) Acute onset within 1 week of clinical insult; (b) Bilateral opacities on imaging not fully explained by effusions, atelectasis, or nodules; (c) Respiratory failure not fully explained by cardiac failure/fluid overload; (d) Oxygenation impairment with PEEP >= 5 cm H2O: Mild (P/F 200-300), Moderate (P/F 100-200), and SEVERE (P/F < 100 mm Hg). This patient has SEVERE ARDS with P/F 73 mm Hg; (2) LUNG-PROTECTIVE VENTILATION (ARMA TRIAL, ARDSNet): Tidal volume low (4-8 mL/kg of PREDICTED body weight, not actual body weight), maintaining plateau pressure Pplat <= 30 cm H2O and driving pressure <= 15 cm H2O, with permissive hypercapnia; (3) EARLY PRONE POSITIONING VENTILATION (PROSEVA TRIAL): In patients with SEVERE ARDS (PaO2/FiO2 < 150 mm Hg with PEEP >= 10 cm H2O and FiO2 >= 0.6), THE PROSEVA TRIAL (Gu\u00e9rin et al., NEJM 2013) DEMONSTRATED A DRAMATIC, STATISTICALLY SIGNIFICANT REDUCTION IN 28-DAY MORTALITY (16.0% in prone group vs 32.8% in supine group; p < 0.001) AND 90-DAY MORTALITY (23.6% vs 41.0%). PHYSIOLOGICAL MECHANISM: In the supine position, the weight of the ventral lung and heart compresses dorsal lung units, causing massive dorsal atelectasis and V/Q mismatch. PRONE POSITIONING: (a) Creates a more uniform, homogeneous pleural pressure gradient along the dorsal-ventral axis; (b) Relieves cardiac compression on dorsal lung parenchyma; (c) Dramatically improves dorsal ventilation while perfusion remains distributed dorsally, markedly improving V/Q matching; (d) Distributes mechanical tidal volume more homogeneously across the lung ('baby lung'), dramatically decreasing cyclic alveolar strain, atelectrauma, and ventilator-induced lung injury (VILI). Prone sessions must be PROLONGED (at least 16 consecutive hours daily) until P/F >= 150 mm Hg in the supine position with PEEP <= 10 cm H2O; (4) NEUROMUSCULAR BLOCKADE (ROSE TRIAL): Short-term cisatracurium infusion can be considered for severe patient-ventilator dyssynchrony, but prone positioning remains the primary intervention with unequivocal mortality reduction."
+      ],
+      [
+        "Increase tidal volume to 10 mL/kg predicted body weight (700 mL) to overcome alveolar atelectasis and normalize PaCO2 to 40 mm Hg",
+        "High tidal volumes (10-12 mL/kg) cause severe volutrauma and barotrauma; the landmark ARDSNet trial showed a 22% reduction in mortality with low tidal volumes (6 mL/kg PBW); increasing Vt is lethal."
+      ],
+      [
+        "Immediate high-frequency oscillatory ventilation (HFOV) to recruit collapsed alveoli",
+        "Two large randomized multicenter trials (OSCAR and OSCILLATE) proved that HFOV does not improve survival in ARDS and actually increased in-hospital mortality; HFOV is not recommended."
+      ],
+      [
+        "Administration of high-dose intravenous methylprednisolone 2 mg/kg bolus followed by 1 mg/kg/day for 14 days",
+        "Routine high-dose corticosteroids do not reliably improve survival in all-cause septic ARDS and increase secondary bacterial infections, neuromuscular weakness, and glycemic dysregulation."
+      ],
+      [
+        "Increase PEEP to 24 cm H2O while keeping the patient in the standard supine position",
+        "Excessive PEEP (> 20 cm H2O) in the supine position causes severe alveolar overdistension, decreases right ventricular venous return, induces acute cor pulmonale, and fails to match the proven mortality benefit of prone positioning."
+      ]
+    ],
+    "shortestValidSolution": "Severe ARDS (P/F ratio 73 < 150 mm Hg) on lung-protective settings (Vt 6 mL/kg) = Indication for Prone Positioning -> Early prolonged prone positioning (>= 16 hr/day, PROSEVA trial).",
+    "necessaryInference": "Apply critical care trial evidence: implement early, prolonged prone positioning ventilation (>= 16 hours/day) for severe ARDS (P/F < 150) to achieve significant mortality reduction.",
+    "strongestDistractor": "Increase tidal volume to 10 mL/kg predicted body weight (700 mL) to overcome alveolar atelectasis and normalize PaCO2 to 40 mm Hg",
+    "distractorExclusion": "High tidal volumes cause fatal ventilator-induced lung injury; low tidal volume ventilation combined with prone positioning is the proven survival-improving standard.",
+    "citation": "Gu\u00e9rin C, Reignier J, Richard JC, et al. Prone positioning in severe acute respiratory distress syndrome (PROSEVA). N Engl J Med. 2013;368(23):2159-2168. PMID: 23688302.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Severe ARDS Lung-Protective Ventilation and Early Prone Positioning.",
+      "distractorExclusionNotes": "Competitor Increase tidal volume to 10 mL/kg predicted body w excluded by High tidal volumes cause fatal ventilator-induced lung injur.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0718",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Geriatric Polypharmacy Beers Criteria Deprescribing and Fall Prevention",
+    "provisionalDifficulty": 4,
+    "stem": "An 82-year-old woman is brought to the geriatric primary care clinic by her son following two ground-level falls at home over the past 3 weeks. Neither fall resulted in head trauma or fracture, but she has developed a fear of falling that restricts her daily mobility. Her past medical history includes osteoarthritis of both knees, generalized anxiety disorder, chronic insomnia, essential hypertension, and overactive bladder. Her current medications include: lisinopril 10 mg daily, acetaminophen 650 mg three times daily as needed, diphenhydramine 50 mg at bedtime for sleep, lorazepam 1 mg twice daily for anxiety, and oxybutynin 5 mg twice daily for urinary urgency. On physical examination, she appears frail but pleasant. Vital signs: supine BP 132/76 mm Hg, heart rate 68/min; standing BP 112/64 mm Hg with heart rate 74/min (orthostatic hypotension confirmed). Neurological examination reveals mild bilateral hand resting tremor, normal muscle strength, and symmetric deep tendon reflexes. Timed Up and Go (TUG) test is 18 seconds (abnormal > 12 seconds, indicating elevated fall risk). Mini-Mental State Examination (MMSE) score is 25/30, with prominent deficits in attention and delayed word recall. Which of the following is the most appropriate next step in clinical management according to the American Geriatrics Society (AGS) Beers Criteria?",
+    "choices": [
+      [
+        "Initiation of a structured deprescribing plan to systematically taper and discontinue diphenhydramine, lorazepam, and oxybutynin, combined with non-pharmacological sleep/bladder strategies and physical therapy for gait training",
+        "GERIATRIC POLYPHARMACY, BEERS CRITERIA, AND FALL PREVENTION: (1) EPIDEMIOLOGY: Falls are the leading cause of accidental injury and trauma-related death in adults aged >= 65 years. Inappropriate psychotropic and anticholinergic polypharmacy is one of the most common and readily modifiable risk factors; (2) AGS BEERS CRITERIA (POTENTIALLY INAPPROPRIATE MEDICATIONS IN OLDER ADULTS): (a) FIRST-GENERATION ANTIHISTAMINES (DIPHENHYDRAMINE): Strongly anticholinergic; causes marked sedation, cognitive decline, delirium, urinary retention, and dramatically increased fall risk. Highly inappropriate for insomnia; (b) BENZODIAZEPINES (LORAZEPAM): Associated with ataxia, daytime somnolence, cognitive impairment, motor vehicle collisions, falls, and hip fractures in older adults due to age-related changes in pharmacokinetics (decreased hepatic clearance) and pharmacodynamics (increased central nervous system sensitivity). Must be slowly tapered to avoid life-threatening withdrawal; (c) ANTICHOLINERGIC BLADDER ANTIMUSCARINICS (OXYBUTYNIN): Lipophilic tertiary amine that crosses the blood-brain barrier, contributing to cumulative 'anticholinergic burden,' accelerating cognitive decline and causing xerostomia, constipation, and blurred vision (worsening fall risk); (3) CUMULATIVE ANTICHOLINERGIC / SEDATIVE BURDEN: Combining diphenhydramine + lorazepam + oxybutynin produces synergistic neurotoxicity, causing excessive sedation, orthostasis, impaired balance (TUG 18 s), and pseudo-dementia; (4) SYSTEMATIC DEPRESCRIBING AND REPLACEMENT: (a) Gradual, stepwise tapering of lorazepam (reduce by 25% every 1-2 weeks); (b) Discontinuation of diphenhydramine, replacing with sleep hygiene and cognitive behavioral therapy for insomnia (CBT-I); (c) Discontinuation of oxybutynin, replacing with pelvic floor muscle exercises and, if needed, a beta-3 adrenergic agonist (mirabegron), which lacks central anticholinergic toxicity; (d) Physical therapy referral for gait stabilization and fall prevention."
+      ],
+      [
+        "Addition of oral zolpidem 10 mg at bedtime to replace diphenhydramine while maintaining baseline lorazepam and oxybutynin",
+        "Zolpidem is a non-benzodiazepine receptor agonist ('Z-drug') that carries identical Beers criteria warnings for sedation, ataxia, sleepwalking, delirium, and falls in older adults."
+      ],
+      [
+        "Initiation of oral donepezil 5 mg daily to treat the patient's cognitive impairment, continuing all current medications",
+        "Donepezil is a cholinesterase inhibitor whose central cholinergic actions are directly antagonized by oxybutynin and diphenhydramine (prescribing cascade); deprescribing anticholinergics must occur first."
+      ],
+      [
+        "Escalation of oral oxybutynin from 5 mg twice daily to 10 mg twice daily to ensure complete resolution of urinary urgency",
+        "Doubling oxybutynin increases central anticholinergic burden, precipitating worsening confusion, hallucinations, and catastrophic falls; oxybutynin should be deprescribed."
+      ],
+      [
+        "Prescription of daily oral meclizine 25 mg three times daily to treat suspected vestibular imbalance and vertigo",
+        "Meclizine is another sedating first-generation antihistamine with potent anticholinergic properties; adding meclizine compounds polypharmacy and dramatically increases fall and hip fracture risks."
+      ]
+    ],
+    "shortestValidSolution": "Frail elderly woman + multiple falls + TUG 18s + triple anticholinergic/sedative regimen (diphenhydramine, lorazepam, oxybutynin) = Polypharmacy fall risk -> Deprescribing taper (Beers Criteria).",
+    "necessaryInference": "Apply the American Geriatrics Society Beers Criteria to identify and deprescribe high-risk sedating and anticholinergic medications (diphenhydramine, benzodiazepines, oxybutynin) in an older adult presenting with falls.",
+    "strongestDistractor": "Addition of oral zolpidem 10 mg at bedtime to replace diphenhydramine while maintaining baseline lorazepam and oxybutynin",
+    "distractorExclusion": "Z-drugs (zolpidem) carry the same high risks of sedation, delirium, and hip fractures as benzodiazepines and are strongly advised against in the Beers Criteria.",
+    "citation": "By the 2023 American Geriatrics Society Beers Criteria Update Expert Panel. American Geriatrics Society 2023 updated AGS Beers Criteria for potentially inappropriate medication use in older adults. J Am Geriatr Soc. 2023;71(7):2052-2081. PMID: 37139638.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Geriatric Polypharmacy Beers Criteria Deprescribing and Fall Prevention.",
+      "distractorExclusionNotes": "Competitor Addition of oral zolpidem 10 mg at bedtime to repl excluded by Z-drugs (zolpidem) carry the same high risks of sedation, de.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0719",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Recurrent Clostridioides Difficile Infection Fidaxomicin vs Pulsed Vancomycin",
+    "provisionalDifficulty": 4,
+    "stem": "A 66-year-old woman presents to the clinic with a 4-day history of watery diarrhea (6 to 8 unformed bowel movements daily), mild lower abdominal cramping, and low-grade fever. Exactly 5 weeks ago, she completed a 10-day course of oral vancomycin (125 mg four times daily) for an initial episode of non-severe Clostridioides difficile infection, which had developed following a course of clindamycin for a dental abscess. Her symptoms had completely resolved following the initial vancomycin course, and she had normal bowel habits for nearly 4 weeks until the current recurrence. She has not received any antibiotics in the interim. Vital signs: blood pressure 124/78 mm Hg, heart rate 82/min, temperature 37.7 C (99.9 F), and respirations 16/min. Physical examination reveals mild diffuse lower abdominal tenderness without guarding, rebound tenderness, or distension. Laboratory evaluation: white blood cell count 8,600/mm3, serum creatinine 0.8 mg/dL (baseline 0.8 mg/dL), and serum albumin 3.8 g/dL. Stool testing for C. difficile via nucleic acid amplification testing (NAAT) and toxin enzyme immunoassay (EIA) is positive for both toxin A and B. Which of the following represents the most appropriate treatment strategy for this patient's first recurrence of C. difficile infection according to Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA) guidelines?",
+    "choices": [
+      [
+        "Oral fidaxomicin 200 mg twice daily for 10 days (or an oral vancomycin tapered and pulsed regimen)",
+        "CLOSTRIDIOIDES DIFFICILE INFECTION (CDI) MANAGEMENT OF FIRST RECURRENCE: (1) EPIDEMIOLOGY: Approximately 20-25% of patients with an initial episode of CDI experience a clinical recurrence within 2 to 8 weeks after stopping antibiotics. Recurrence is driven by the persistence of metabolically dormant C. difficile spores in the colon and prolonged disruption of the indigenous protective fecal microbiome (loss of colonization resistance); (2) UPDATED IDSA/SHEA GUIDELINES: (a) FIRST-LINE THERAPY FOR INITIAL CDI: ORAL FIDAXOMICIN (200 mg BID for 10 days) is the preferred agent over oral vancomycin because fidaxomicin is a narrow-spectrum macrocyclic antibiotic that selectively kills C. difficile while sparing the commensal colonic bacteroidetes and firmicutes flora, resulting in a > 50% relative reduction in recurrence; (b) FIRST-LINE THERAPY FOR FIRST RECURRENCE: In a patient whose initial episode was treated with standard 10-day oral vancomycin, GUIDELINES RECOMMEND EITHER: (1) ORAL FIDAXOMICIN 200 MG TWICE DAILY FOR 10 DAYS (OR EXTENDED-PULSED FIDAXOMICIN: 200 mg BID for days 1-5, then once every other day for days 7-25); OR (2) ORAL VANCOMYCIN TAPERED AND PULSED REGIMEN: Standard 125 mg QID for 10-14 days, then BID for 7 days, then once daily for 7 days, then once every 2-3 days for 2-8 weeks. Pulsing allows persistent vegetative spores to germinate into vegetative forms on non-drug days, which are then killed by subsequent intermittent antibiotic pulses while allowing the normal microbiome to regenerate; (c) ORAL METRONIDAZOLE IS STRICTLY CONTRAINDICATED / INFERIOR: Metronidazole has unacceptably high failure rates, neurotoxicity with prolonged use, and is no longer recommended as primary therapy; (3) SUBSEQUENT RECURRENCES (>= 2 RECURRENCES): For second or subsequent recurrences, FECAL MICROBIOTA TRANSPLANTATION (FMT) or oral live biotherapeutic products (fecal microbiota spores, live-brpk) are indicated to restore microbial diversity."
+      ],
+      [
+        "Oral metronidazole 500 mg three times daily for 10 days",
+        "Metronidazole has inferior clinical cure rates, higher recurrence rates, and causes peripheral neuropathy and encephalopathy; IDSA guidelines strongly advise against metronidazole for CDI recurrences."
+      ],
+      [
+        "Repeat the exact same 10-day course of standard oral vancomycin 125 mg four times daily",
+        "Re-treating a first recurrence with the same standard 10-day short-course vancomycin regimen results in another 30-40% recurrence rate; guidelines mandate stepping up to fidaxomicin or a tapered/pulsed vancomycin regimen."
+      ],
+      [
+        "Immediate referral for emergent fecal microbiota transplantation (FMT) via colonoscopy",
+        "Fecal microbiota transplantation is guideline-indicated for second or subsequent recurrences (multiple recurrences) refractory to appropriate antibiotic tapers, not for a first recurrence of CDI."
+      ],
+      [
+        "Administration of intravenous vancomycin 1 g every 12 hours for 14 days",
+        "Intravenous vancomycin is not excreted into the gastrointestinal lumen and produces zero therapeutic drug concentration in the colonic feces; it is completely ineffective for treating intraluminal C. difficile colitis."
+      ]
+    ],
+    "shortestValidSolution": "CDI first recurrence (4 weeks post-vancomycin) + non-severe = First CDI Recurrence -> Oral Fidaxomicin (10 days) OR Tapered/Pulsed oral vancomycin.",
+    "necessaryInference": "Apply IDSA/SHEA clinical guidelines for the management of first recurrence of Clostridioides difficile infection: select oral fidaxomicin or an oral vancomycin tapered-and-pulsed regimen.",
+    "strongestDistractor": "Repeat the exact same 10-day course of standard oral vancomycin 125 mg four times daily",
+    "distractorExclusion": "Repeating a simple 10-day vancomycin course carries high relapse rates; fidaxomicin or a pulsed/tapered vancomycin regimen is guideline-recommended to clear persisting spores and preserve the microbiome.",
+    "citation": "Johnson S, Lavergne V, Skinner AM, et al. Clinical Practice Guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 Focused Update Guidelines on Management of Clostridioides difficile Infection in Adults. Clin Infect Dis. 2021;73(5):e1029-e1044. PMID: 34164674.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Recurrent Clostridioides Difficile Infection Fidaxomicin vs Pulsed Vancomycin.",
+      "distractorExclusionNotes": "Competitor Repeat the exact same 10-day course of standard or excluded by Repeating a simple 10-day vancomycin course carries high rel.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0720",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Post-Myocardial Infarction Ventricular Septal Rupture Hemodynamic Stabilization",
+    "provisionalDifficulty": 5,
+    "stem": "A 66-year-old man who presented 4 days ago with an acute anterior ST-elevation myocardial infarction (STEMI) and declined primary percutaneous coronary intervention due to fear of hospitals is brought back to the emergency department in extremis. Over the past 6 hours, he has developed acute, overwhelming breathlessness, diaphoresis, and profound lethargy. Vital signs: blood pressure 78/48 mm Hg, heart rate 118/min, respirations 32/min, and oxygen saturation 86% on high-flow mask. Physical examination reveals an acutely distressed, mottled man with cool extremities. Jugular venous distension is present to the angle of the jaw. Cardiac examination reveals a loud, harsh, 4/6 holosystolic murmur heard best along the lower left sternal border, accompanied by a prominent palpable thrill. Pulmonary examination reveals diffuse bilateral moist crackles throughout all lung fields. Bedside point-of-care echocardiography reveals an extensive anterior and apical ventricular wall infarction with an acute 1.5-cm disruption of the apical interventricular septum, demonstrating high-velocity left-to-right shunting on color Doppler. The left ventricular ejection fraction is 35%, and the right ventricle is acutely dilated with severe hypokinesis. There is no pericardial effusion. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      [
+        "Emergent hemodynamic stabilization with afterload reduction using an intra-aortic balloon pump (IABP) or vasodilators (if blood pressure permits) combined with urgent cardiothoracic surgical consultation for definitive repair",
+        "POST-MYOCARDIAL INFARCTION VENTRICULAR SEPTAL RUPTURE (VSR): (1) PATHOPHYSIOLOGY AND TIMING: VSR is a catastrophic mechanical complication of transmural myocardial infarction, classically occurring 3 to 5 days post-MI (bimodal peak: within 24 hours or days 3-5) when extensive coagulative necrosis and neutrophil-mediated enzymatic degradation cause myocardial wall thinning and friability. Most commonly complicates anterior STEMIs (apical septal defect from LAD occlusion) or inferior STEMIs (basal septal defect from RCA occlusion); (2) CLINICAL HALLMARKS: (a) Sudden hemodynamic collapse with acute pulmonary edema and cardiogenic shock; (b) NEW, HARSH, LOUD HOLOSYSTOLIC MURMUR ACCOMPANIED BY A PALPABLE SYSTOLIC THRILL (thrill is present in > 50% of VSRs, distinguishing it from acute mitral regurgitation due to papillary muscle rupture, which rarely produces a thrill and radiates to the axilla); (c) Color Doppler echocardiography confirms left-to-right ventricular shunting; (3) EMERGENCY STABILIZATION AND DEFINITIVE SURGERY: (a) AFTERLOAD REDUCTION: The volume of the left-to-right shunt is directly proportional to the ratio of systemic vascular resistance (SVR) to pulmonary vascular resistance (PVR). Lowering systemic afterload decreases left ventricular systolic pressure, reducing the left-to-right shunt fraction, augmenting forward cardiac output, and decompressing the pulmonary capillary bed; (b) INTRA-AORTIC BALLOON PUMP (IABP): The mechanical circulatory device of choice for acute stabilization: inflates in diastole (augmenting coronary perfusion) and deflates immediately prior to systole (substantially decreasing LV afterload and myocardial oxygen consumption without increasing myocardial work); (c) DEFINITIVE TREATMENT: URGENT SURGICAL REPAIR (or percutaneous transcatheter closure in selected high-risk candidates). Medical therapy alone carries an in-hospital mortality approaching 90-100%."
+      ],
+      [
+        "Immediate intravenous fluid resuscitation with 3 liters of warm 0.9% normal saline to increase right ventricular preload",
+        "Volume loading worsens right ventricular overload and exacerbates left-to-right shunting and hydrostatic pulmonary edema; fluid overload in VSR accelerates cardiogenic shock and death."
+      ],
+      [
+        "Monotherapy with high-dose intravenous phenylephrine infusion titrated to systolic blood pressure > 120 mm Hg",
+        "Phenylephrine increases systemic vascular resistance (afterload), which dramatically increases the left-to-right shunt across the septal rupture, worsening pulmonary edema and accelerating LV failure."
+      ],
+      [
+        "Emergent bedside pericardiocentesis under subxiphoid ultrasound guidance",
+        "Echocardiography specifically confirmed the absence of a pericardial effusion; pericardiocentesis is indicated for free wall rupture with cardiac tamponade, but is useless and dangerous in isolated VSR."
+      ],
+      [
+        "Immediate administration of high-dose oral beta-blocker therapy with metoprolol tartrate 50 mg",
+        "Beta-blockers exert negative inotropic effects and are strictly contraindicated in cardiogenic shock and severe pulmonary edema; they precipitate immediate electromechanical arrest."
+      ]
+    ],
+    "shortestValidSolution": "Post-MI day 4 + cardiogenic shock + loud holosystolic murmur with thrill + VSD on echo = Ventricular Septal Rupture -> Afterload reduction (IABP) + Urgent surgical repair.",
+    "necessaryInference": "Diagnose post-infarction ventricular septal rupture (harsh holosystolic murmur with thrill, left-to-right shunt) and prioritize emergent mechanical afterload reduction (IABP) combined with urgent surgical repair.",
+    "strongestDistractor": "Monotherapy with high-dose intravenous phenylephrine infusion titrated to systolic blood pressure > 120 mm Hg",
+    "distractorExclusion": "Phenylephrine increases systemic afterload, which drives more blood across the septal defect into the pulmonary circulation, dramatically worsening acute pulmonary edema.",
+    "citation": "Grose V, et al. Ventricular Septal Rupture Post-Myocardial Infarction: Contemporary Review. J Am Coll Cardiol. 2021;78(17):1709-1721. PMID: 34696860.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Post-Myocardial Infarction Ventricular Septal Rupture Hemodynamic Stabilization.",
+      "distractorExclusionNotes": "Competitor Monotherapy with high-dose intravenous phenylephri excluded by Phenylephrine increases systemic afterload, which drives mor.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0721",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Heart Failure with Preserved Ejection Fraction SGLT2 Inhibitor Therapy",
+    "provisionalDifficulty": 4,
+    "stem": "A 69-year-old woman presents to the outpatient cardiology clinic for evaluation of progressive dyspnea on exertion and lower extremity edema over the past 4 months. She can no longer walk 2 blocks without stopping to catch her breath and sleeps with her head elevated on three pillows. Her medical history includes long-standing hypertension, obesity (BMI 34.2 kg/m2), and type 2 diabetes mellitus. Her current medications include amlodipine 10 mg daily, metformin 1,000 mg twice daily, and atorvastatin 40 mg daily. Vital signs: blood pressure 138/84 mm Hg, heart rate 74/min, respirations 16/min, and oxygen saturation 96% on room air. Physical examination reveals elevated jugular venous pressure (8 cm H2O), an audible fourth heart sound (S4), clear lung fields on auscultation, and 2+ bilateral pitting pretibial edema. Serum B-type natriuretic peptide (BNP) is elevated at 340 pg/mL (normal < 100 pg/mL). Comprehensive transthoracic echocardiogram demonstrates: left ventricular ejection fraction of 56% (preserved LVEF), concentric left ventricular hypertrophy, left ventricular mass index 115 g/m2, left atrial volume index (LAVI) 38 mL/m2 (enlarged), and mitral E/e' ratio of 15 (elevated, indicating elevated left ventricular filling pressures). There are no significant valvular abnormalities. Which of the following is the most appropriate disease-modifying pharmacotherapy to reduce the composite risk of cardiovascular death and heart failure hospitalization in this patient?",
+    "choices": [
+      [
+        "Initiation of a sodium-glucose cotransporter-2 (SGLT2) inhibitor, such as empagliflozin or dapagliflozin",
+        "HEART FAILURE WITH PRESERVED EJECTION FRACTION (HFpEF): (1) DEFINITION AND DIAGNOSIS: HFpEF accounts for approximately 50% of all heart failure cases, particularly affecting older individuals, women, and patients with hypertension, obesity, and diabetes. DIAGNOSTIC CRITERIA (ACC/AHA/HFSA and ESC Guidelines): (a) Symptoms and signs of heart failure; (b) Preserved left ventricular ejection fraction (LVEF >= 50%); (c) Elevated natriuretic peptides (BNP > 35 pg/mL in sinus rhythm, or NT-proBNP > 125 pg/mL); (d) Objective structural or hemodynamic evidence of diastolic dysfunction (e.g., elevated mitral E/e' ratio > 9-13, left atrial enlargement LAVI > 34 mL/m2, or LV hypertrophy); (2) BREAKTHROUGH EVIDENCE-BASED THERAPY: For decades, no pharmacological class demonstrated a reduction in heart failure hospitalizations or cardiovascular mortality in HFpEF. LANDMARK RANDOMIZED CONTROLLED TRIALS: (a) EMPEROR-PRESERVED (Anker et al., NEJM 2021): Empagliflozin reduced the primary composite outcome of cardiovascular death or hospitalization for heart failure by 21% (HR 0.79; p < 0.001) in patients with heart failure and LVEF > 40%, predominantly driven by a 29% reduction in heart failure hospitalizations; (b) DELIVER TRIAL (Solomon et al., NEJM 2022): Dapagliflozin confirmed identical significant benefits across the entire spectrum of LVEF; (3) GUIDELINE RECOMMENDATION: Updated 2022 AHA/ACC/HFSA Heart Failure Guidelines now grant SGLT2 INHIBITORS (EMPAGLIFLOZIN OR DAPAGLIFLOZIN) A CLASS I RECOMMENDATION FOR PATIENTS WITH HFpEF TO REDUCE HEART FAILURE HOSPITALIZATIONS AND CARDIOVASCULAR DEATH. Mechanism: SGLT2 inhibitors induce mild osmotic diuresis, reduce preload and afterload, optimize myocardial energetics, reduce epicardial adipose tissue, and ameliorate microvascular inflammation and interstitial myocardial fibrosis; (4) ADJUNCTIVE THERAPIES: Loop diuretics (furosemide) for volume overload, mineralocorticoid receptor antagonists (spironolactone), and ARNI (sacubitril/valsartan) have Class 2b recommendations, but SGLT2 inhibitors are the anchor Class I disease-modifying therapy."
+      ],
+      [
+        "Initiation of oral digoxin 0.25 mg daily targeting a serum digoxin level > 1.2 ng/mL",
+        "Digoxin does not reduce mortality or hospitalizations in HFpEF and carries a high risk of lethal toxicity, especially in elderly women and patients with renal impairment."
+      ],
+      [
+        "High-dose oral flecainide therapy to suppress potential occult atrial arrhythmias",
+        "Class IC antiarrhythmic agents like flecainide are contraindicated in structural heart disease and heart failure due to increased proarrhythmic risk and excess mortality (CAST trial)."
+      ],
+      [
+        "Oral sildenafil 50 mg three times daily to dilate pulmonary and systemic vasculature",
+        "The RELAX randomized trial demonstrated that phosphodiesterase-5 inhibitors (sildenafil) do not improve exercise capacity, symptoms, or clinical outcomes in HFpEF and are not recommended."
+      ],
+      [
+        "Immediate surgical placement of a left ventricular assist device (LVAD)",
+        "LVADs are designed exclusively for end-stage advanced heart failure with reduced ejection fraction (HFrEF) and small, non-dilated ventricles in HFpEF cannot accommodate LVAD inflow cannulas, leading to suction events and catastrophic failure."
+      ]
+    ],
+    "shortestValidSolution": "Dyspnea + BNP 340 + LVEF 56% + diastolic dysfunction (E/e' 15, LA enlargement) = HFpEF -> First-line disease-modifying therapy is SGLT2 inhibitor (Empagliflozin/Dapagliflozin, Class I).",
+    "necessaryInference": "Select sodium-glucose cotransporter-2 (SGLT2) inhibitors as the Class I guideline-recommended disease-modifying pharmacotherapy for heart failure with preserved ejection fraction (HFpEF) based on the EMPEROR-Preserved and DELIVER trials.",
+    "strongestDistractor": "Oral sildenafil 50 mg three times daily to dilate pulmonary and systemic vasculature",
+    "distractorExclusion": "The randomized RELAX trial proved sildenafil provides zero clinical or functional benefit in HFpEF; SGLT2 inhibitors are the proven guideline-directed standard of care.",
+    "citation": "Anker SD, Butler J, Filippatos G, et al. Empagliflozin in Heart Failure with a Preserved Ejection Fraction (EMPEROR-Preserved). N Engl J Med. 2021;385(16):1451-1461. PMID: 34449189.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Heart Failure with Preserved Ejection Fraction SGLT2 Inhibitor Therapy.",
+      "distractorExclusionNotes": "Competitor Oral sildenafil 50 mg three times daily to dilate  excluded by The randomized RELAX trial proved sildenafil provides zero c.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0722",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Spinal Epidural Abscess Progressive Neurological Deficit Emergent Decompression",
+    "provisionalDifficulty": 4,
+    "stem": "A 56-year-old man with poorly controlled type 2 diabetes mellitus presents to the emergency department with a 5-day history of progressively worsening mid-thoracic back pain, followed over the past 12 hours by progressive weakness and numbness in his bilateral lower extremities and new urinary retention requiring straight catheterization (post-void residual 650 mL). He denies recent trauma but underwent an outpatient lumbar epidural steroid injection for chronic sciatica 2 weeks ago. Vital signs: temperature 38.6 C (101.5 F), blood pressure 134/82 mm Hg, heart rate 98/min, and respirations 18/min. Physical examination reveals focal, exquisite percussion tenderness over the T6-T8 spinous processes. Neurological examination demonstrates: strength 3/5 in bilateral hip flexors and knee extensors, 2/5 in ankle dorsiflexors, symmetric hyperreflexia (3+) at the patellar and Achilles tendons, bilateral extensor plantar responses (positive Babinski signs), and a distinct sensory level to pinprick at the T8 dermatome. Laboratory evaluation reveals: leukocytosis of 16,800/mm3 with 12% bands, ESR 84 mm/hr, and CRP 120 mg/L. Emergent contrast-enhanced thoracic spine MRI demonstrates a 4-cm dorsal epidural fluid collection spanning T6 to T8 with peripheral rim enhancement, causing severe compression of the thoracic spinal cord and high T2 cord signal intensity indicating acute compressive myelopathy. Which of the following is the most appropriate management plan?",
+    "choices": [
+      [
+        "Emergent neurosurgical decompression and abscess evacuation via surgical laminectomy combined with long-term targeted intravenous bactericidal antibiotics",
+        "SPINAL EPIDURAL ABSCESS (SEA): (1) PATHOPHYSIOLOGY AND RISK FACTORS: Bacterial seeding of the epidural space occurs hematogenously (from skin, soft tissue, urinary tract, or dental infection) or via direct inoculation (spinal surgery, epidural catheter, epidural steroid injections). Most common causative organism is STAPHYLOCOCCUS AUREUS (> 60-70%, including MRSA). Compressive tissue ischemia, mechanical mass effect, and septic thrombophlebitis of epidural veins rapidly induce irreversible spinal cord ischemia and complete paraplegia; (2) CLINICAL PROGRESSION (CLASSIC FOUR-STAGE SEQUENCE): (a) Stage 1: Focal spinal back pain and tenderness; (b) Stage 2: Radicular pain / nerve root irritation; (c) Stage 3: Motor weakness, sensory deficit, and bowel/bladder dysfunction (urinary retention); (d) Stage 4: Complete, irreversible paralysis. The triad of spinal pain, fever, and neurological deficits is present in only a minority early on; ESR and CRP are elevated in > 95%; (3) DEFINITIVE DIAGNOSTIC MODALITY: Contrast-enhanced MRI of the entire spine is the gold standard; (4) MANAGEMENT DECISION ALGORITHM: (a) EMERGENT SURGICAL DECOMPRESSION: In any patient with NEW OR PROGRESSIVE NEUROLOGICAL DEFICITS (weakness, sensory level, urinary retention) or compressive myelopathy on MRI, EMERGENT SURGICAL DECOMPRESSION AND DRAINAGE (LAMINECTOMY) IS MANDATORY (ideally within 24 hours of neurological onset). Delays beyond 24-36 hours from onset of motor deficits result in permanent, irreversible paraplegia; (b) EMPIRIC ANTIMICROBIAL THERAPY: Intravenous vancomycin (covering MRSA) plus a third- or fourth-generation cephalosporin (ceftriaxone or cefepime covering Gram-negative bacilli), continued for 6 to 8 weeks; (c) MEDICAL THERAPY ALONE IS RESTRICTED STRICTLY TO: Neurologically intact patients without motor deficits who have high surgical risk, or patients with panspinal extensive phlegmon without focal compression."
+      ],
+      [
+        "Admission to the medical ward for conservative management with intravenous broad-spectrum antibiotics alone, reserving surgery only if weakness worsens over 48 hours",
+        "Medical management alone in the presence of established motor deficits and acute compressive myelopathy carries unacceptable rates of permanent paraplegia; emergent surgical decompression is mandatory."
+      ],
+      [
+        "Perform an emergent bedside lumbar puncture at L3-L4 to obtain cerebrospinal fluid for microbiological cultures",
+        "Lumbar puncture in a patient with a dorsal epidural collection risks inadvertent dural puncture, tracking bacteria into the subarachnoid space and causing catastrophic purulent bacterial meningitis; blood cultures and intraoperative abscess cultures are obtained instead."
+      ],
+      [
+        "Administration of high-dose intravenous dexamethasone 10 mg bolus followed by outpatient neurosurgical referral",
+        "Corticosteroids are indicated for epidural spinal cord compression from metastatic cancer, but are contraindicated as primary therapy in bacterial epidural abscess because immunosuppression accelerates bacterial infection."
+      ],
+      [
+        "Placement of a percutaneous radiologically guided drainage catheter under local anesthesia as primary definitive management",
+        "Percutaneous needle drainage cannot adequately decompress extensive multiloculated dorsal thoracic collections with severe cord compression and carries high failure rates; open surgical laminectomy is standard."
+      ]
+    ],
+    "shortestValidSolution": "Fever + thoracic spine percussion tenderness + progressive bilateral leg weakness + urinary retention + MRI epidural collection with cord compression = Spinal Epidural Abscess -> Emergent surgical decompression (laminectomy) + IV antibiotics.",
+    "necessaryInference": "Recognize spinal epidural abscess with acute compressive myelopathy and prioritize emergent surgical decompression (laminectomy) within 24 hours to prevent permanent paraplegia.",
+    "strongestDistractor": "Admission to the medical ward for conservative management with intravenous broad-spectrum antibiotics alone, reserving surgery only if weakness worsens over 48 hours",
+    "distractorExclusion": "Waiting 48 hours in a patient with established motor deficits and urinary retention results in irreversible ischemic cord necrosis and permanent paralysis.",
+    "citation": "Ames CP, et al. Spinal Epidural Abscess: A Review of Modern Management. J Neurosurg Spine. 2018;29(4):420-432. PMID: 30028267.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Spinal Epidural Abscess Progressive Neurological Deficit Emergent Decompression.",
+      "distractorExclusionNotes": "Competitor Admission to the medical ward for conservative man excluded by Waiting 48 hours in a patient with established motor deficit.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0723",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Barrett Esophagus Low-Grade Dysplasia Confirmation and Endoscopic Eradication",
+    "provisionalDifficulty": 5,
+    "stem": "A 58-year-old man with a 15-year history of gastroesophageal reflux disease (GERD) well controlled on daily omeprazole 20 mg undergoes routine surveillance upper endoscopy (esophagogastroduodenoscopy [EGD]). Endoscopic examination reveals salmon-colored, velvet-like columnar mucosa extending circumferentially for 3 cm above the gastroesophageal junction (Prague criteria C3M4), consistent with long-segment Barrett esophagus. Four-quadrant biopsies taken every 2 cm per the Seattle protocol demonstrate intestinal metaplasia with goblet cells. Histopathologic examination at a local community laboratory reports low-grade dysplasia (LGD) in one of the biopsy fragments, with no mucosal nodules or ulcerations. He feels completely well and denies dysphagia, odynophagia, hematemesis, or unintentional weight loss. Which of the following is the most appropriate next step in management according to American College of Gastroenterology (ACG) guidelines?",
+    "choices": [
+      [
+        "Submit the histopathology specimens for confirmation by a second, expert gastrointestinal pathologist, followed by endoscopic eradication therapy (such as radiofrequency ablation) if low-grade dysplasia is confirmed",
+        "BARRETT ESOPHAGUS (BE) SURVEILLANCE AND DYSPLASIA MANAGEMENT: (1) DEFINITION AND PATHOPHYSIOLOGY: Replacement of normal stratified squamous esophageal epithelium by metaplastic columnar epithelium containing intestinal goblet cells, resulting from chronic gastroesophageal acid and bile reflux. BE is the primary precursor lesion for esophageal adenocarcinoma (EAC); (2) THE PROBLEM OF INTEROBSERVER VARIATION IN DYSPLASIA: Low-grade dysplasia (LGD) has substantial diagnostic interobserver variability among general pathologists. Studies demonstrate that upon expert gastrointestinal pathology review, up to 70% to 80% of community-diagnosed LGD cases are DOWNGRADED TO NON-DYSPLASTIC BE (reactive atypia secondary to active reflux inflammation). Conversely, patients with TRUE, EXPERT-CONFIRMED LGD have a substantial annual risk of progressing to high-grade dysplasia (HGD) or invasive adenocarcinoma (~0.5% to 1.5% per year); (3) GUIDELINE-MANDATED CONFIRMATION: The ACG, AGA, and BSG guidelines explicitly mandate that ANY DIAGNOSIS OF DYSPLASIA IN BARRETT ESOPHAGUS (LOW-GRADE OR HIGH-GRADE) MUST BE CONFIRMED BY AT LEAST ONE INDEPENDENT, SPECIALIZED GASTROINTESTINAL PATHOLOGIST; (4) MANAGEMENT OF CONFIRMED LOW-GRADE DYSPLASIA: (a) If LGD is CONFIRMED by an expert GI pathologist, ENDOSCOPIC ERADICATION THERAPY (EET) IS THE PREFERRED STRATEGY over ongoing endoscopic surveillance. Landmark randomized multicenter trials (SURF trial, Phoa et al., JAMA 2014) demonstrated that RADIOFREQUENCY ABLATION (RFA) in confirmed LGD reduces the risk of progression to high-grade dysplasia or adenocarcinoma by 25% (absolute risk reduction, 1.5% in ablation group vs 26.5% in surveillance group; p < 0.001); (b) If any visible mucosal nodularity exists, Endoscopic Mucosal Resection (EMR) must precede ablation for accurate T-staging; flat LGD is treated with RFA; (c) If expert pathology downgrades the specimen to non-dysplastic BE, surveillance endoscopy is performed every 3 to 5 years."
+      ],
+      [
+        "Proceed immediately to esophagectomy with gastric pull-up to eliminate the risk of esophageal adenocarcinoma",
+        "Esophagectomy is major thoracic surgery with substantial operative mortality (2-5%) and severe lifelong morbidity; it is completely inappropriate for low-grade dysplasia and has been replaced by organ-sparing endoscopic ablation."
+      ],
+      [
+        "Continue standard endoscopic surveillance with repeat EGD in 3 to 5 years, as low-grade dysplasia carries negligible malignant risk",
+        "A 3- to 5-year interval is appropriate only for non-dysplastic Barrett esophagus; confirmed low-grade dysplasia carries significant risk of neoplastic progression and requires expert confirmation and treatment."
+      ],
+      [
+        "Discontinue proton pump inhibitor therapy immediately because acid suppression stimulates dysplastic clonal evolution",
+        "Proton pump inhibitor therapy promotes mucosal healing, decreases acid-induced cellular proliferation, and is associated with reduced risk of neoplastic progression in Barrett esophagus; it must be continued indefinitely."
+      ],
+      [
+        "Perform urgent PET-CT scan of the chest and abdomen to evaluate for distant metastatic disease",
+        "Systemic staging with PET-CT is indicated for established invasive esophageal cancer (T2 or higher), not for non-invasive premalignant intraepithelial dysplasia."
+      ]
+    ],
+    "shortestValidSolution": "Barrett esophagus + biopsy showing LGD = Suspected Low-Grade Dysplasia -> Confirm with expert second GI pathologist + Endoscopic Eradication Therapy (RFA, SURF trial).",
+    "necessaryInference": "Apply ACG guidelines for Barrett esophagus with low-grade dysplasia: mandate expert GI pathology confirmation due to high interobserver variability, followed by endoscopic eradication therapy (RFA).",
+    "strongestDistractor": "Continue standard endoscopic surveillance with repeat EGD in 3 to 5 years, as low-grade dysplasia carries negligible malignant risk",
+    "distractorExclusion": "Confirmed low-grade dysplasia has a significant rate of malignant progression to adenocarcinoma; waiting 3-5 years without confirmation and ablation leads to advanced cancer.",
+    "citation": "Shaheen NJ, Falk GW, Iyer PG, et al. Diagnosis and Management of Barrett's Esophagus: An Updated ACG Guideline. Am J Gastroenterol. 2022;117(4):559-587. PMID: 35354777.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Barrett Esophagus Low-Grade Dysplasia Confirmation and Endoscopic Eradication.",
+      "distractorExclusionNotes": "Competitor Continue standard endoscopic surveillance with rep excluded by Confirmed low-grade dysplasia has a significant rate of mali.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0724",
+    "exam": "Step 3",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "Pediatric Status Epilepticus Second-Line Anticonvulsants",
+    "provisionalDifficulty": 4,
+    "stem": "A 6-year-old boy with a known history of focal epilepsy is brought to the emergency department by paramedics in active, continuous generalized convulsive status epilepticus lasting 25 minutes. In the ambulance 15 minutes ago, he received a weight-based dose of intramuscular midazolam (0.2 mg/kg), and upon ED arrival 5 minutes ago, he received a full intravenous dose of lorazepam (0.1 mg/kg). Despite these two adequate doses of first-line benzodiazepines, the child continues to exhibit rhythmic, continuous clonic jerking of all four extremities with impaired consciousness, jaw clenching, and shallow breathing. Vital signs: blood pressure 104/64 mm Hg, heart rate 142/min, respirations 22/min, and oxygen saturation 94% on high-flow blow-by oxygen. Point-of-care fingerstick blood glucose is 108 mg/dL. The airway is patent, and intravenous access is secure. Which of the following is the most appropriate next step in pharmacological management according to the Established Status Epilepticus Treatment Trial (ESETT) and American Epilepsy Society guidelines?",
+    "choices": [
+      [
+        "Intravenous administration of a guideline-recommended second-line non-sedating antiseizure medication: levetiracetam (60 mg/kg), fosphenytoin (20 mg PE/kg), or valproate sodium (40 mg/kg)",
+        "STATUS EPILEPTICUS (SE) PHARMACOLOGICAL ESCALATION: (1) DEFINITIONS AND TIMELINE: Convulsive status epilepticus is defined by continuous generalized seizure activity lasting >= 5 minutes OR two or more discrete seizures without full recovery of consciousness between episodes (Time point t1: when treatment must be initiated to prevent neuronal injury); (2) FIRST-LINE THERAPY (EMERGENT INITIAL PHASE, 5-20 MINUTES): BENZODIAZEPINES are first-line agents: IV lorazepam (0.1 mg/kg), IM midazolam (0.2 mg/kg), or rectal diazepam. If the seizure does not terminate within 5-10 minutes, a single repeat dose of benzodiazepine is administered. (3) BENZODIAZEPINE-REFRACTORY STATUS EPILEPTICUS (URGENT CONTROL PHASE, 20-40 MINUTES): Up to one-third of status epilepticus episodes fail first-line benzodiazepines. Prolonged seizure activity induces synaptic GABA-A receptor internalization (endocytosis) and upregulation of excitatory NMDA receptors, causing progressive pharmacoresistance to benzodiazepines; (4) EVIDENCE-BASED SECOND-LINE MEDICATIONS (THE ESETT TRIAL): The landmark randomized, blinded ESTABLISHED STATUS EPILEPTICUS TREATMENT TRIAL (ESETT, Kapur et al., NEJM 2019) evaluated three intravenous second-line agents in children and adults with benzodiazepine-refractory convulsive status epilepticus: (a) LEVETIRACETAM (60 mg/kg, max 4,500 mg); (b) FOSPHENYTOIN (20 mg PE/kg, max 1,500 mg PE); (c) VALPROATE SODIUM (40 mg/kg, max 3,000 mg). FINDINGS: All three agents demonstrated EQUIVALENT EFFICACY in terminating status epilepticus (~45-50% seizure cessation at 60 minutes) and EQUIVALENT SAFETY (similar low rates of life-threatening respiratory depression or hypotension). Guidelines recommend any of these three agents as preferred second-line therapy; (5) THIRD-LINE (REFRACTORY SE, > 40 MINUTES): If second-line agents fail, continuous anesthetic infusions (propofol, midazolam, or ketamine/pentobarbital) with endotracheal intubation are required."
+      ],
+      [
+        "Administer a third and fourth consecutive intravenous dose of lorazepam 0.1 mg/kg every 3 minutes until seizure cessation occurs",
+        "Repeated excessive benzodiazepine dosing in established status epilepticus fails to stop seizures due to GABA-A receptor internalization and precipitates severe respiratory depression, apnea, and cardiac collapse; second-line AEDs must be initiated."
+      ],
+      [
+        "Immediate continuous intravenous infusion of high-dose sodium thiopental targeting burst suppression on electroencephalography",
+        "General intravenous anesthesia with barbiturates or propofol requires endotracheal intubation and intensive care; it is reserved for third-line refractory status epilepticus after second-line non-sedating AEDs fail."
+      ],
+      [
+        "Oral administration of crushed carbamazepine via nasogastric tube",
+        "Carbamazepine is available only in enteral formulations, has slow erratic absorption, cannot be loaded intravenously, and can paradoxically exacerbate myoclonic or generalized seizures."
+      ],
+      [
+        "Intravenous infusion of 3% hypertonic saline 5 mL/kg for presumed hyponatremic seizures",
+        "Point-of-care glucose is normal, and there is no evidence of acute water intoxication or hyponatremia; empiric hypertonic saline without documented severe hyponatremia delays essential antiseizure medication."
+      ]
+    ],
+    "shortestValidSolution": "Status epilepticus refractory to two doses of benzodiazepines = Benzodiazepine-refractory SE -> Second-line IV Levetiracetam, Fosphenytoin, or Valproate sodium (ESETT trial).",
+    "necessaryInference": "Select evidence-based second-line antiseizure medications (levetiracetam, fosphenytoin, or valproate) for benzodiazepine-refractory status epilepticus based on the ESETT trial.",
+    "strongestDistractor": "Administer a third and fourth consecutive intravenous dose of lorazepam 0.1 mg/kg every 3 minutes until seizure cessation occurs",
+    "distractorExclusion": "Prolonged status epilepticus causes GABA receptor internalization making repeated benzodiazepines ineffective while markedly increasing respiratory arrest; non-sedating second-line AEDs are required.",
+    "citation": "Kapur J, Elm J, Chamberlain JM, et al. Randomized Trial of Three Anticonvulsant Medications for Status Epilepticus (ESETT). N Engl J Med. 2019;381(22):2103-2113. PMID: 31774953.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Pediatric Status Epilepticus Second-Line Anticonvulsants.",
+      "distractorExclusionNotes": "Competitor Administer a third and fourth consecutive intraven excluded by Prolonged status epilepticus causes GABA receptor internaliz.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0725",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Surrogate Decision-Making Substituted Judgment Standard vs Best Interests",
+    "provisionalDifficulty": 4,
+    "stem": "A 78-year-old man who is hospitalized in the intensive care unit with severe septic shock and multiorgan failure secondary to perforated diverticulitis is intubated and comatose. He is receiving maximum vasopressor support with norepinephrine, vasopressin, and epinephrine, and has developed anuric acute kidney injury with profound lactic acidosis (lactate 8.4 mmol/L) and refractory hypoxemia. The critical care team determines that continuous renal replacement therapy (CRRT) is the next physiological intervention, but his prognosis for meaningful neurological and functional recovery is extremely poor (< 5% chance of surviving hospitalization, and if he survives, he would be permanently ventilator- and dialysis-dependent in a skilled nursing facility). The patient lacks decision-making capacity due to septic encephalopathy and sedation. He has never completed a written living will or formal healthcare power of attorney document. The hospital ethics committee is consulted to guide surrogate decision-making with the patient's legal next of kin, his adult son and daughter. During the family conference, the daughter tearfully states: 'My father was an intensely independent man who loved woodworking and hiking. He repeatedly told us whenever we discussed our uncle's long decline in a nursing home that he never, ever wanted to be kept alive as a vegetable hooked up to machines if he couldn't walk, think, or care for himself.' In contrast, the son states: 'I love my dad too much to let him go, and I think we should do everything possible to keep him alive as long as his heart beats.' Which of the following ethical frameworks represents the legally and ethically required standard the healthcare team and surrogates must apply to determine the plan of care?",
+    "choices": [
+      [
+        "The Substituted Judgment Standard, which requires the surrogate decision-maker to reconstruct and execute the decision the patient himself would have made based on his previously expressed values and oral statements",
+        "MEDICAL ETHICS AND SURROGATE DECISION-MAKING HIERARCHY: In adult patients who lack decision-making capacity, ethical guidelines from the American Medical Association (AMA Code of Medical Ethics Opinion 2.1.2) and legal consensus establish a strict THREE-TIERED ETHICAL DECISION-MAKING HIERARCHY: (1) FIRST TIER (EXPLICIT DIRECTIVE): Formal written advance directives (Living Will, Healthcare Power of Attorney). When a valid written directive exists that directly addresses the current clinical situation, it must be honored based on the principle of RESPECT FOR PATIENT AUTONOMY; (2) SECOND TIER (SUBSTITUTED JUDGMENT STANDARD): When NO formal written advance directive exists, surrogate decision-makers (designated proxy or legal next of kin) MUST UTILIZE THE SUBSTITUTED JUDGMENT STANDARD. Under this standard, the surrogate does not decide what THEY want for the patient, nor what an objective 'reasonable person' would want; rather, THE SURROGATE MUST SUBSTITUTE THEMSELVES INTO THE PATIENT'S SHOES TO RECONSTRUCT THE DECISION THE PATIENT WOULD MAKE IF THEY WERE PRESENTLY CAPABLE, relying on the patient's known values, religious beliefs, lifestyle preferences, and prior oral statements regarding life-sustaining therapies. Here, the patient explicitly and repeatedly expressed strong oral preferences against being maintained on machines with severe permanent functional dependence. The daughter's testimony provides clear, consistent evidence of the patient's authentic autonomous wishes. The son's desire to keep the patient alive reflects the son's emotional distress rather than the patient's autonomous values; (3) THIRD TIER (BEST INTERESTS STANDARD): Applied ONLY WHEN THE PATIENT'S PRIOR WISHES AND VALUES ARE ENTIRELY UNKNOWN OR UNASCERTAINABLE (e.g., an unrepresented patient, or an individual who never possessed decision-making capacity since childhood). The Best Interests Standard weighs the objective benefits versus burdens of treatment from the perspective of a reasonable person in the patient's condition."
+      ],
+      [
+        "The Best Interests Standard, which requires the surrogate to choose whatever medical therapy maximizes the patient's biological length of life, regardless of prior statements",
+        "The Best Interests Standard is applied only when the patient's prior autonomous values are completely unknown; when credible evidence of the patient's prior statements exists, the Substituted Judgment Standard legally and ethically supersedes Best Interests."
+      ],
+      [
+        "The Paternalistic Beneficence Standard, which grants the attending critical care physician unilateral authority to make all end-of-life decisions",
+        "Physicians cannot unilaterally dictate life-sustaining treatment decisions based on paternalism; respect for patient autonomy requires eliciting the patient's values through designated or statutory surrogates."
+      ],
+      [
+        "The Majority Family Rule, which mandates taking a formal vote among all available biological children with equal legal standing to break disagreements",
+        "Surrogate decision-making is not a democratic majority vote; surrogates are legally obligated to execute the patient's reconstructed autonomous wishes via substituted judgment, not personal family preferences."
+      ],
+      [
+        "Immediate petitioning of the state probate court for judicial appointment of an independent public guardian before making any decisions",
+        "Court intervention is expensive, adversarial, and unnecessary when family members are available; the clinical team and ethics committee should facilitate family consensus by reorienting the family to the substituted judgment standard."
+      ]
+    ],
+    "shortestValidSolution": "Incapacitated patient + no written advance directive + daughter recalls specific oral wishes against life support = Ethical framework -> Substituted Judgment Standard (reconstruct patient's own choice).",
+    "necessaryInference": "Apply medical ethics principles of surrogate decision-making: differentiate the Substituted Judgment Standard (reconstructing patient's autonomous wishes) from the Best Interests Standard.",
+    "strongestDistractor": "The Best Interests Standard, which requires the surrogate to choose whatever medical therapy maximizes the patient's biological length of life, regardless of prior statements",
+    "distractorExclusion": "The Best Interests Standard is reserved strictly for situations where patient values are unknown; explicit prior oral statements mandate applying the Substituted Judgment Standard.",
+    "citation": "American Medical Association. Decisions for Adult Patients Who Lack Capacity. AMA Code of Medical Ethics Opinion 2.1.2. 2016. https://code-medical-ethics.ama-assn.org/ethics-opinions/decisions-adult-patients-who-lack-capacity",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 advanced clinical decision making item evaluating Surrogate Decision-Making Substituted Judgment Standard vs Best Interests.",
+      "distractorExclusionNotes": "Competitor The Best Interests Standard, which requires the su excluded by The Best Interests Standard is reserved strictly for situati.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  }
+];

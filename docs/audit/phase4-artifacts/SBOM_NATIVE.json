@@ -1,0 +1,1583 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6",
+  "version": 1,
+  "metadata": {
+    "component": {
+      "type": "application",
+      "name": "OpenPrep native inventory",
+      "version": "0.1.0",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "openprep:coverage",
+        "value": "INCOMPLETE; see docs/audit/phase3-artifacts.json and RELEASE_ARTIFACT_COMPLIANCE.md"
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-darwin-arm64",
+      "name": "@img/sharp-darwin-arm64",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "411525150d16c6f756caaa86fd6b48de2ba97c3e6b0739821d749d3ec63dd6c02d56d4e8ed0e1c6facce71c67782a12a92bd1fd40b357a12ea984a43b117fe96"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-darwin-arm64/-/sharp-darwin-arm64-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-darwin-x64",
+      "name": "@img/sharp-darwin-x64",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "f81476e794610e5a72814a4e73f25db759d3e834375c6fc4468e706dc74e7f9437db474ab4f08a3cb4752c9b3d5465d168c6bc975b946b4b6408d397880c5953"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-darwin-x64/-/sharp-darwin-x64-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-freebsd-wasm32",
+      "name": "@img/sharp-freebsd-wasm32",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "63fcfdd67119e2e2015f95f79df4e8be353d94734a1586cbda5a4708b54d99740ad3754866f5c106dd0ac5b3c6a7649d19217eda6414e1efa141a58eb7cea203"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-freebsd-wasm32/-/sharp-freebsd-wasm32-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-libvips-darwin-arm64",
+      "name": "@img/sharp-libvips-darwin-arm64",
+      "version": "1.3.4",
+      "licenses": [
+        {
+          "license": {
+            "name": "LGPL-3.0-or-later"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e51f3d9c162245d5254962713e13be195b5a5f35d2c4a9d1bbfc6a327dca4c0dcbf4407d3b2fcff8d9f67f6be584fb94772fd9bac6f60daadbc93a4609f103bb"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-libvips-darwin-arm64/-/sharp-libvips-darwin-arm64-1.3.4.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-libvips-darwin-x64",
+      "name": "@img/sharp-libvips-darwin-x64",
+      "version": "1.3.4",
+      "licenses": [
+        {
+          "license": {
+            "name": "LGPL-3.0-or-later"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "891d8e287f34ca2d14f9d529972877ff176916fa6ce98902c2c5de9c8271ab1475bfda3ec6d29319b4bd1fb729b3ed95c6373c0758fdea9ef93664c68c886da5"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-libvips-darwin-x64/-/sharp-libvips-darwin-x64-1.3.4.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-libvips-linux-arm",
+      "name": "@img/sharp-libvips-linux-arm",
+      "version": "1.3.4",
+      "licenses": [
+        {
+          "license": {
+            "name": "LGPL-3.0-or-later"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2e646d4ec387baf336fb094ed836f7eddc7932266107416f4ae9dc8b0e3c62374e919cfd2808916e6f2e8de30e03520daa67a2e4d6a91716042b50f565289d9b"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-libvips-linux-arm/-/sharp-libvips-linux-arm-1.3.4.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-libvips-linux-arm64",
+      "name": "@img/sharp-libvips-linux-arm64",
+      "version": "1.3.4",
+      "licenses": [
+        {
+          "license": {
+            "name": "LGPL-3.0-or-later"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "6377605ffea513642141bf86c72d166717e0f4c126fc90636a66694b622494fef1210a0a378873026eca70c546b5a543b779de13d38a042eef01fa2703f2ebd4"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-libvips-linux-arm64/-/sharp-libvips-linux-arm64-1.3.4.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-libvips-linux-ppc64",
+      "name": "@img/sharp-libvips-linux-ppc64",
+      "version": "1.3.4",
+      "licenses": [
+        {
+          "license": {
+            "name": "LGPL-3.0-or-later"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2dee9ba01f136a2d0d8acfa02312292b1ebc50355522a751f138a7e587f5cf62c92502c326f08346a46efa30b6a82a03f9e2289a89e63b0078b26051c5f56961"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-libvips-linux-ppc64/-/sharp-libvips-linux-ppc64-1.3.4.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-libvips-linux-riscv64",
+      "name": "@img/sharp-libvips-linux-riscv64",
+      "version": "1.3.4",
+      "licenses": [
+        {
+          "license": {
+            "name": "LGPL-3.0-or-later"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "6879242041cf45d4047a024ddb430b986b71603f51db042bdc2c2975d9eee7e60a32de94cdac7b4bd879829653a3cc32ac6b994a57d0eb739ebcbe664f2382ed"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-libvips-linux-riscv64/-/sharp-libvips-linux-riscv64-1.3.4.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-libvips-linux-s390x",
+      "name": "@img/sharp-libvips-linux-s390x",
+      "version": "1.3.4",
+      "licenses": [
+        {
+          "license": {
+            "name": "LGPL-3.0-or-later"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "adafe607a32290448350eed883e322f796c505bf46b0e6d446e8673afdceaa49e319ef6c66b1bcb427bdab4c52206aed2e0be0c3480a9c559c2b86e54a040eb9"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-libvips-linux-s390x/-/sharp-libvips-linux-s390x-1.3.4.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-libvips-linux-x64",
+      "name": "@img/sharp-libvips-linux-x64",
+      "version": "1.3.4",
+      "licenses": [
+        {
+          "license": {
+            "name": "LGPL-3.0-or-later"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "189fff4925db9f04837acd36ba60779c324b15c433c3c6b5f15f1fca1aabead579d79b4e10c7489a38f18f502869f311cf9e85dcf1e07ed9e3d5010a494d7393"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-libvips-linux-x64/-/sharp-libvips-linux-x64-1.3.4.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-libvips-linuxmusl-arm64",
+      "name": "@img/sharp-libvips-linuxmusl-arm64",
+      "version": "1.3.4",
+      "licenses": [
+        {
+          "license": {
+            "name": "LGPL-3.0-or-later"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "86fba5170b6351c6a0b22b3a041c47c061705a83598e062650b195ad97327cd6e303c84a20b6d1c46835e7fef0e470f25c75d4a2cfe3e9b6805aa9c2c90d8358"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-libvips-linuxmusl-arm64/-/sharp-libvips-linuxmusl-arm64-1.3.4.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-libvips-linuxmusl-x64",
+      "name": "@img/sharp-libvips-linuxmusl-x64",
+      "version": "1.3.4",
+      "licenses": [
+        {
+          "license": {
+            "name": "LGPL-3.0-or-later"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "eb35ca784fe9dfd2350260377091b7e5ec8118da8d75d2e75178e1c019ec1a314f5aa7f954a903044a9a1243c3a1312d931c22dafbfc4dcaf6983c8fe12a3b16"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-libvips-linuxmusl-x64/-/sharp-libvips-linuxmusl-x64-1.3.4.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-linux-arm",
+      "name": "@img/sharp-linux-arm",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2c46972b659d5d52b9ca4730d1bb96c8f32c98b2cbdafa472c3eb2acd496f891842f70593c0e2da4a37a89a31ce00c534c0a1a5ffb14d6b38be7595c233e3c65"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-linux-arm/-/sharp-linux-arm-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-linux-arm64",
+      "name": "@img/sharp-linux-arm64",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2d8571e494ec38cd820739b1ade87e9e5eb8ff71fa5dbd3d8922e49ea1f8ef3d93d83145c437852cfe72e1d2707ba1fbb864251cfc8412d22aca8dc362c47075"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-linux-arm64/-/sharp-linux-arm64-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-linux-ppc64",
+      "name": "@img/sharp-linux-ppc64",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "415c4002af1ebd5448f626b6bea830ae65ae727e437eff89756ce3ef9a43f289872cf48fedff29db43bc8f1ce309cb8211010eb583995265f5864899d2475ebc"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-linux-ppc64/-/sharp-linux-ppc64-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-linux-riscv64",
+      "name": "@img/sharp-linux-riscv64",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2ed76b79782e69abca3833c87f327891f7f1ed436dd689b0b4ad2b721e0405b6d24d73e7c5699849ac9774b270d1f27343dee41edd602ffca1e2dbd4fa70b245"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-linux-riscv64/-/sharp-linux-riscv64-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-linux-s390x",
+      "name": "@img/sharp-linux-s390x",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "5196ac4ce162633a2d4ec18e0aee3605f5333fa4eee83a3ff78ee2466d51b0b2af965971c06727e11376ecb89b19671e8b1e18f8f9b0de3b274dc0902205a3a8"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-linux-s390x/-/sharp-linux-s390x-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-linux-x64",
+      "name": "@img/sharp-linux-x64",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "4b116d2d378922784003d43cdfa92ec76bd935e381404c7ae7caaf6dba1949caf4c08011ca6dc8706996ecaa550f9b1b560d0e8f2fae74541d6b2608672a0da2"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-linux-x64/-/sharp-linux-x64-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-linuxmusl-arm64",
+      "name": "@img/sharp-linuxmusl-arm64",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "f476cc725988d7394d90546cdf3f7f781b438df0f4b0696b5f5cfa6f5ab09a2158e449432e1e010b42cf05d569ef3d435c588a9487339dff9996cb99ccbc50aa"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-linuxmusl-arm64/-/sharp-linuxmusl-arm64-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-linuxmusl-x64",
+      "name": "@img/sharp-linuxmusl-x64",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e0a3a986a074df91eb55da8b65f0a0333cc446b4249333b04619783809113b560295d6da163c925cc68ae77e0ca3457e2e776794993eb1b5322de53450bc83d4"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-linuxmusl-x64/-/sharp-linuxmusl-x64-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-wasm32",
+      "name": "@img/sharp-wasm32",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0 AND LGPL-3.0-or-later AND MIT"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "3edb206b5b2ee2d431f8b2c5d44092f54ea7cf9926ad72a8e9755bb51e3c29edd9471c6069606eec80ed11ed6aba8f218aea709ba585ab15655da49fec820d19"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-wasm32/-/sharp-wasm32-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-webcontainers-wasm32",
+      "name": "@img/sharp-webcontainers-wasm32",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "85f845fc59a84324d4900d1b20a14eb70e77e8141278131ee8117a4325a5acfc53ef9e3e4c52da67bb0a2937efbccd322602a06984f09c508867f1ae0f0e5250"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-webcontainers-wasm32/-/sharp-webcontainers-wasm32-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-win32-arm64",
+      "name": "@img/sharp-win32-arm64",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0 AND LGPL-3.0-or-later"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "5f8b7b83eed90390ca6e50811171a352aa9e9a3e2f73320d1bfe6f885c002fc878377a987b28f0742bd12c78b811d39423ed99ed4165a7554cfa9fc0b84b66e9"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-win32-arm64/-/sharp-win32-arm64-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-win32-ia32",
+      "name": "@img/sharp-win32-ia32",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0 AND LGPL-3.0-or-later"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e599bcd8ba01738de78703726d9946ed8d4a3bffd986c9f7d3a7d0976f593ae4ad1cb193a370562fcdeaddcce75f4a68c5200cb982f53a7fc11c1c6405e2abe8"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-win32-ia32/-/sharp-win32-ia32-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "node_modules/@img/sharp-win32-x64",
+      "name": "@img/sharp-win32-x64",
+      "version": "0.35.5",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0 AND LGPL-3.0-or-later"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "name": "openprep:scope",
+          "value": "published native platform input; final bundle not supplied"
+        },
+        {
+          "name": "openprep:hash-target",
+          "value": "published npm archive, not compiled output"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "c7be9e1f4bc488795c310bbc63c21e9e7b5a002b5d7694fa5b4c265ed5ab9ca727288ecc1390dd82a8400fa48458e125d6fdb30ef9190e1140f4a9d4470a5faa"
+        }
+      ],
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "https://registry.npmjs.org/@img/sharp-win32-x64/-/sharp-win32-x64-0.35.5.tgz"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/07a403a05e9cd73e6fe37b96b12e9e4281d2f4934213a5aa0c6f7a04542c5974.tgz",
+      "name": ".release/dependency-evidence/07a403a05e9cd73e6fe37b96b12e9e4281d2f4934213a5aa0c6f7a04542c5974.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0498b72b4e555b80e2eab33693a3fa6e6fd08136ba02e75f6f5449540e7cdcc1"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/15f41a8b465f12364330472f62c9fd71742110b92f3d2f0d359d6f9f723c46c6.tgz",
+      "name": ".release/dependency-evidence/15f41a8b465f12364330472f62c9fd71742110b92f3d2f0d359d6f9f723c46c6.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e5a15f7f675b0719c98678d5ba78ea19e2b7b088fd756da8ead6e2a71f0a9646"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/1ee152309e5e6d0122ae8349421df7cd433e08a499eeec3efdb2f81fe44ae23a.tgz",
+      "name": ".release/dependency-evidence/1ee152309e5e6d0122ae8349421df7cd433e08a499eeec3efdb2f81fe44ae23a.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d98395f7aa0f73e5f7306bdff30af7c310d15d9e003addbc36efb3c6613bfa59"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/25c9f085efe41e8290831ac902ec50fa67b8c5672b562bc80c3ed33ea77d91a9.tgz",
+      "name": ".release/dependency-evidence/25c9f085efe41e8290831ac902ec50fa67b8c5672b562bc80c3ed33ea77d91a9.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c68abdf53e1ad2d7b27b53385a3862e16d4bde02ce6d121892ee36f0bfe5bb38"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/277895fe2d78ede6d4b8438c876d6a3fafdaabdbe58f32325d7cb9cacfdaa332.tgz",
+      "name": ".release/dependency-evidence/277895fe2d78ede6d4b8438c876d6a3fafdaabdbe58f32325d7cb9cacfdaa332.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "02a59a80669f04591bb050398e3fe2aa1a736624339e6aeafb9a7f33d3599b4f"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/35d758b0abf67682c28d983456695af55a967b243f1e785b69aa21e116621590.tgz",
+      "name": ".release/dependency-evidence/35d758b0abf67682c28d983456695af55a967b243f1e785b69aa21e116621590.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c6312802c16511458a1cf3d990c3e2b9dba555932caf297025ba0bec34ee5cbe"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/4dbb1cd85e9c5457f4ad2135fb718757487b72d44f78720b81234bd497c71ee0.tgz",
+      "name": ".release/dependency-evidence/4dbb1cd85e9c5457f4ad2135fb718757487b72d44f78720b81234bd497c71ee0.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2ba164e9d4d2f56bfc2a1b8badff07f49d1c98c061dde23efbf97617d23be07d"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/4f2c878b971a093fb9c4625cd7dad225254b158acc9cc86d4605e42e0a24ce0f.tgz",
+      "name": ".release/dependency-evidence/4f2c878b971a093fb9c4625cd7dad225254b158acc9cc86d4605e42e0a24ce0f.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "16a804181ddd258ca6fe7079b2faa0c0356654c9db3d93ab0a80ec5e5161c3d4"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/500b93b5e12628ff05688e62b40397bf3327f729a1778348b8add163b0ef026d.tgz",
+      "name": ".release/dependency-evidence/500b93b5e12628ff05688e62b40397bf3327f729a1778348b8add163b0ef026d.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f710304d7172d5dc676de2fac4648f48cad90f53cc861d17e6cfd257ad26fec0"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/57cc4447769585ad37e65122fde2ca53a2517e892bc1307f0301bc23ea929ceb.tgz",
+      "name": ".release/dependency-evidence/57cc4447769585ad37e65122fde2ca53a2517e892bc1307f0301bc23ea929ceb.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0aa2fabb9edb8a8689ca9b352b26db9539ab9eca288635086a274427459ab829"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/6a27053b1ce807f5f52a9f27bcfeb993269037a0fb203a0fbb0ffef6228f4c4c.tgz",
+      "name": ".release/dependency-evidence/6a27053b1ce807f5f52a9f27bcfeb993269037a0fb203a0fbb0ffef6228f4c4c.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f4efe2825b01d38fd5f01bab9b132788fab14a2b26a011861617b4ba42b035f7"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/7b9c568d776a54153d08add96010daaf821d54d1fb12532dd8b22bc32ae8ac44.tgz",
+      "name": ".release/dependency-evidence/7b9c568d776a54153d08add96010daaf821d54d1fb12532dd8b22bc32ae8ac44.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "577bca1fabb66b2d8d89fc203851280d2bf604130803382d229544f75bab2ea0"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/826cbe941a563b8260afc46642d7e46e76abd7cf31db8798253568cd8e53f3d4.tgz",
+      "name": ".release/dependency-evidence/826cbe941a563b8260afc46642d7e46e76abd7cf31db8798253568cd8e53f3d4.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "683c2fe0f45fa1cc0e8d3cf7877e726f1a2c4fed372f02154a348a762808686e"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/840276c9d42a6df3329b9e5912493a3543836870107633854c38d064659583de.tgz",
+      "name": ".release/dependency-evidence/840276c9d42a6df3329b9e5912493a3543836870107633854c38d064659583de.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "79353a1a045bd02afca80063fcf199ac68decb7cf2bfbc503722fb524d6bded9"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/868bf0121f5373d818c83b0bec1a1011e869e2728c72a1c1521028c391c2cd85.tgz",
+      "name": ".release/dependency-evidence/868bf0121f5373d818c83b0bec1a1011e869e2728c72a1c1521028c391c2cd85.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7c33873308850538dae2c9ae86a515f6fe70b127cd12cfc6408abb09e64bd5fe"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/8f04df0db6ec661f612a1e75fa0a33665e9586b7d1ac2d73cdb8147e6290c739.tgz",
+      "name": ".release/dependency-evidence/8f04df0db6ec661f612a1e75fa0a33665e9586b7d1ac2d73cdb8147e6290c739.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f223f355725a7046548e3bb4be4d0f82c30a2b1c170289fd714679ad1441152c"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/96e18ac0e8bb6567c02ecfe2cb7bfa1fdd39a97924154f0d2b9db26b786a4091.tgz",
+      "name": ".release/dependency-evidence/96e18ac0e8bb6567c02ecfe2cb7bfa1fdd39a97924154f0d2b9db26b786a4091.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "495e6c63c797c6b080a9dbd827a8cc0790b77f8f7d5d82f1764dadfc5068a845"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/a2749c29224b7fbab9179c9d7b3ccd4ce9d87fdaf28b58a88f1ebc525a1c0f9b.tgz",
+      "name": ".release/dependency-evidence/a2749c29224b7fbab9179c9d7b3ccd4ce9d87fdaf28b58a88f1ebc525a1c0f9b.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7a8e306ca14032a49efa5e0d3d5bb6af4da0c4bb18c7e070ee0a5253d40e5603"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/ae6cf531a8964901d4b00936547e2f515c249b8c1088970a6b7cf81fdfda1371.tgz",
+      "name": ".release/dependency-evidence/ae6cf531a8964901d4b00936547e2f515c249b8c1088970a6b7cf81fdfda1371.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "876ec01b5233eeed051a621acda8bf9d67d65447d198617bddf52ac3779a04b1"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/b1745f9b983652d63565ae14d3d5d1dbeab5fa8114cf545bbc0e27bbc14ea728.tgz",
+      "name": ".release/dependency-evidence/b1745f9b983652d63565ae14d3d5d1dbeab5fa8114cf545bbc0e27bbc14ea728.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "556787285d3244c07686a355de5b5a4c4d0019a12785bf24764e756a96ea3334"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/c0b93d44453d8b2a1e326b847d79ee9fe0ce490036e501bb2bb85d2778aa45d3.tgz",
+      "name": ".release/dependency-evidence/c0b93d44453d8b2a1e326b847d79ee9fe0ce490036e501bb2bb85d2778aa45d3.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "782aa1175daff0e9f7846f404daaa07eaea8c91903bc6b68b31e2a6227e6bba8"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/c0eaa9c3f91346f7a7a466e9f6f98e3d866d6f6909dfac5ef2b13e2c5dba4466.tgz",
+      "name": ".release/dependency-evidence/c0eaa9c3f91346f7a7a466e9f6f98e3d866d6f6909dfac5ef2b13e2c5dba4466.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "52168af984c322e5548bebfb437a9976244824338ea5b8a5b1e0cdaaf06480cb"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/c610a47eb5b2ffb18427596b9f1fbbef151885d1cb83a580a4ab9ae372a98d13.tgz",
+      "name": ".release/dependency-evidence/c610a47eb5b2ffb18427596b9f1fbbef151885d1cb83a580a4ab9ae372a98d13.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e8350e62344d027995ef46cdd97a5ea1c88bc54ab82ab8c3fcb0c076d839675f"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/c9487bd3649bff793f597fe91196e167c401284b328857ab630580fa13da9f9f.tgz",
+      "name": ".release/dependency-evidence/c9487bd3649bff793f597fe91196e167c401284b328857ab630580fa13da9f9f.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "56c3308ae36d93bb9332217d78a330505c2c710d874d24354116629a035fdcd7"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/e3e52544a7802f1c4afbe3bfcb9031509794ec76159ec698c844a0c707667f86.tgz",
+      "name": ".release/dependency-evidence/e3e52544a7802f1c4afbe3bfcb9031509794ec76159ec698c844a0c707667f86.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8148f9c15c46d2687a348a989971049e29b6d3981791d22d9357a263de19353f"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "file:.release/dependency-evidence/f800dba086bfa701a86f5193dd3c127ec611c88939e81fcdb22f9d15bbe69f4a.tgz",
+      "name": ".release/dependency-evidence/f800dba086bfa701a86f5193dd3c127ec611c88939e81fcdb22f9d15bbe69f4a.tgz",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e371cb713fc8822c96a0d3fb60a3d092799d0aefab6d7f1fb3b72d8d75f1d109"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:aom@3.15.1",
+      "name": "aom",
+      "version": "3.15.1",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:archive@3.8.9",
+      "name": "archive",
+      "version": "3.8.9",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:cairo@1.18.6",
+      "name": "cairo",
+      "version": "1.18.6",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:cgif@0.5.4",
+      "name": "cgif",
+      "version": "0.5.4",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:exif@0.6.26",
+      "name": "exif",
+      "version": "0.6.26",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:expat@2.8.5",
+      "name": "expat",
+      "version": "2.8.5",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:ffi@3.8.0",
+      "name": "ffi",
+      "version": "3.8.0",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:fontconfig@2.18.3",
+      "name": "fontconfig",
+      "version": "2.18.3",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:freetype@2.14.3",
+      "name": "freetype",
+      "version": "2.14.3",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:fribidi@1.0.17",
+      "name": "fribidi",
+      "version": "1.0.17",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:glib@2.90.0",
+      "name": "glib",
+      "version": "2.90.0",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:harfbuzz@14.5.0",
+      "name": "harfbuzz",
+      "version": "14.5.0",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:heif@1.23.5",
+      "name": "heif",
+      "version": "1.23.5",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:highway@1.4.0",
+      "name": "highway",
+      "version": "1.4.0",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:imagequant@2.4.1",
+      "name": "imagequant",
+      "version": "2.4.1",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:lcms@2.19.1",
+      "name": "lcms",
+      "version": "2.19.1",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:mozjpeg@0826579",
+      "name": "mozjpeg",
+      "version": "0826579",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:pango@1.58.2",
+      "name": "pango",
+      "version": "1.58.2",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:pixman@0.46.4",
+      "name": "pixman",
+      "version": "0.46.4",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:png@1.6.58",
+      "name": "png",
+      "version": "1.6.58",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:proxy-libintl@0.5",
+      "name": "proxy-libintl",
+      "version": "0.5",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:rsvg@2.63.2",
+      "name": "rsvg",
+      "version": "2.63.2",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:tiff@4.7.2",
+      "name": "tiff",
+      "version": "4.7.2",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:uhdr@2.0.2",
+      "name": "uhdr",
+      "version": "2.0.2",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:vips@8.18.7",
+      "name": "vips",
+      "version": "8.18.7",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:webp@1.6.0",
+      "name": "webp",
+      "version": "1.6.0",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:xml2@2.15.4",
+      "name": "xml2",
+      "version": "2.15.4",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:zlib-ng@2.3.3",
+      "name": "zlib-ng",
+      "version": "2.3.3",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:emscripten@6.0.10",
+      "name": "emscripten",
+      "version": "6.0.10",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "native:resvg@0.48.1",
+      "name": "resvg",
+      "version": "0.48.1",
+      "properties": [
+        {
+          "name": "openprep:evidence",
+          "value": "publisher-reported platform union; exact local inclusion NOT VERIFIED"
+        }
+      ]
+    }
+  ]
+}

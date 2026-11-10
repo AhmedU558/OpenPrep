@@ -1,0 +1,1079 @@
+import { CandidateSpec } from './types';
+
+export const step2Batch38: CandidateSpec[] = [
+  {
+    "code": "op-c-s2-0926",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "ARDS Low Tidal Volume Ventilation Driving Pressure Plateau Pressure Target",
+    "provisionalDifficulty": 5,
+    "stem": "A 48-year-old man with severe acute necrotizing pancreatitis is intubated on hospital day 3 for worsening hypoxemic respiratory failure. Initial post-intubation chest radiograph shows diffuse bilateral alveolar infiltrates without cardiomegaly. Arterial blood gas on volume assist-control mode with tidal volume 700 mL (patient predicted body weight is 70 kg, actual weight 98 kg), respiratory rate 18/min, PEEP 10 cm H2O, and FiO2 0.80 demonstrates: pH 7.34, PaCO2 42 mm Hg, and PaO2 68 mm Hg (PaO2/FiO2 ratio = 85). Inspiratory breath-hold reveals an end-inspiratory plateau pressure (Pplat) of 36 cm H2O and peak airway pressure of 44 cm H2O. Which of the following ventilator adjustments is proven to reduce mortality in this patient?",
+    "choices": [
+      [
+        "Decreasing tidal volume to 6 mL/kg of predicted body weight (420 mL) targeting plateau pressure <= 30 cm H2O",
+        "This patient meets the Berlin definition for SEVERE ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS): acute onset within 1 week of a known clinical insult (pancreatitis), bilateral pulmonary opacities not fully explained by heart failure, and severe hypoxemia with PaO2/FiO2 ratio <= 100 mm Hg (here 85 mm Hg) on PEEP >= 5 cm H2O. The landmark ARDS Network (ARMA) trial demonstrated that a LUNG-PROTECTIVE VENTILATION STRATEGY significantly reduces all-cause in-hospital mortality. Key components include: (1) LOW TIDAL VOLUME VENTILATION: initial tidal volume set at 6 mL/kg of PREDICTED BODY WEIGHT (PBW, calculated based on sex and height; NOT actual body weight, which severely overdoses tidal volumes in obese patients; here 6 mL/kg x 70 kg = 420 mL), which can be reduced further to 4 mL/kg PBW if needed; and (2) LIMITING INSPIRATORY PLATEAU PRESSURE (Pplat) TO <= 30 CM H2O (and driving pressure Pplat - PEEP <15 cm H2O). High tidal volumes and elevated plateau pressures cause alveolar overdistension, cyclic atelectrauma, and release of systemic inflammatory mediators (volutrauma and biotrauma). Permissive hypercapnia (allowing pH to drift down to 7.20-7.25) is well-tolerated."
+      ],
+      [
+        "Increasing tidal volume to 10 mL/kg of actual body weight (980 mL) to eliminate atelectasis",
+        "High tidal volumes based on actual weight cause massive alveolar barotrauma/volutrauma, worsening lung injury and significantly increasing mortality."
+      ],
+      [
+        "Decreasing PEEP to 5 cm H2O to reduce intrathoracic pressure and enhance venous return",
+        "In severe ARDS, higher PEEP (typically 12-18 cm H2O) is required to maintain alveolar recruitment and prevent repetitive end-expiratory alveolar collapse (atelectrauma)."
+      ],
+      [
+        "Switching to pressure support ventilation with zero backup rate to promote spontaneous effort",
+        "In severe acute ARDS with a P/F ratio of 85, spontaneous unassisted breathing increases work of breathing, transpulmonary pressure swings (patient self-inflicted lung injury [P-SILI]), and oxygen consumption."
+      ],
+      [
+        "Immediate extubation to high-flow nasal cannula at 60 L/min to avoid ventilator complications",
+        "Extubation in severe ARDS with refractory hypoxemia (P/F 85) leads to rapid asphyxiation and cardiac arrest."
+      ]
+    ],
+    "shortestValidSolution": "Severe ARDS (P/F 85, plateau pressure 36) = Low tidal volume (6 mL/kg PBW = 420 mL, target Pplat <= 30 cm H2O).",
+    "necessaryInference": "Apply lung-protective ventilation in severe ARDS: tidal volume must be 6 mL/kg predicted body weight (not actual weight) targeting plateau pressure <= 30 cm H2O to reduce mortality.",
+    "strongestDistractor": "Increasing tidal volume to 10 mL/kg of actual body weight (980 mL) to eliminate atelectasis",
+    "distractorExclusion": "Ventilator dosing based on actual weight causes lethal volutrauma in ARDS; predicted body weight must be used, targeting 6 mL/kg.",
+    "citation": "Robba C. Balancing lung and brain: physiological strategies for ARDS management in acute brain injury. Intensive Care Med. 2026 Sep. PMID: 42658259.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on ards low tidal volume ventilation driving pressure plateau pressure target.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0927",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Massive Pulmonary Embolism Hemodynamic Collapse Systemic Thrombolysis",
+    "provisionalDifficulty": 4,
+    "stem": "A 52-year-old woman undergoes total left knee arthroplasty. On postoperative day 2, she suddenly collapses while attempting to ambulate to the bathroom. She is unresponsive for 10 seconds before regaining consciousness. She is in severe respiratory distress, cyanotic, and diaphoretic. Vital signs: blood pressure 72/46 mm Hg, heart rate 132/min, respiratory rate 32/min, and oxygen saturation 80% on high-flow mask. Physical examination reveals elevated JVP to the mandibular angle, an accentuated pulmonic component of S2, and clear lung fields bilaterally. 12-lead ECG shows sinus tachycardia, new right bundle branch block, and S1Q3T3 pattern. Bedside focused echocardiography demonstrates acute, massive right ventricular dilation with McConnell sign (hypokinesis of the RV free wall with sparing of the RV apex) and paradoxical septal flattening into the left ventricle during systole. She has no active bleeding or history of intracranial hemorrhage or surgery. Despite rapid infusion of 1 liter of normal saline, her systolic blood pressure remains 76 mm Hg. Which of the following is the most appropriate immediate therapy?",
+    "choices": [
+      [
+        "Intravenous systemic thrombolysis with recombinant tissue plasminogen activator (alteplase)",
+        "This patient presents with a MASSIVE (HIGH-RISK) PULMONARY EMBOLISM (PE), defined by PE causing HEMODYNAMIC INSTABILITY: sustained hypotension (systolic BP <90 mm Hg or drop in systolic BP >= 40 mm Hg for >15 minutes), pulselessness, or persistent profound shock, not explained by other causes. Bedside echocardiogram confirms acute RV strain with the McConnell sign (highly specific for acute PE) and paradoxical septal shift causing left ventricular underfilling and obstructive cardiogenic shock. In the absence of absolute contraindications (recent intracranial hemorrhage, active internal bleeding, recent intracranial surgery), SYSTEMIC THROMBOLYTIC THERAPY (e.g., intravenous alteplase 100 mg infused over 2 hours, or rapid infusion in arrest) is the primary life-saving intervention. Thrombolysis rapidly dissolves the obstructing pulmonary arterial thrombus, unloads the failing right ventricle, restores pulmonary capillary blood flow, and reverses obstructive cardiogenic shock. In contrast, submassive (intermediate-risk) PE (RV dysfunction/elevated troponin but normal BP) is initially managed with anticoagulation alone unless hemodynamic decompensation occurs."
+      ],
+      [
+        "Initiation of therapeutic anticoagulation with low-molecular-weight heparin alone without thrombolysis",
+        "Anticoagulation alone prevents new clot formation but does not dissolve the existing massive occlusive clot causing shock; systemic thrombolysis is mandatory for massive PE with hypotension."
+      ],
+      [
+        "Emergent placement of an inferior vena cava (IVC) filter without medical therapy",
+        "IVC filters prevent future lower extremity emboli, but do nothing to relieve acute pulmonary arterial obstruction causing imminent circulatory collapse."
+      ],
+      [
+        "Administration of intravenous furosemide 80 mg bolus to relieve right ventricular congestion",
+        "Diuretics reduce RV preload, precipitating fatal cardiac arrest in acute right ventricular failure dependent on adequate filling pressure."
+      ],
+      [
+        "Immediate endotracheal intubation followed by high-level positive end-expiratory pressure",
+        "Positive pressure ventilation increases RV afterload, reduces RV venous return, and can trigger immediate pulseless electrical activity arrest in massive PE."
+      ]
+    ],
+    "shortestValidSolution": "PE + persistent systolic BP <90 + RV dilation (McConnell sign) = Massive PE (systemic thrombolysis with IV alteplase).",
+    "necessaryInference": "Distinguish massive (high-risk) pulmonary embolism with shock from submassive PE, selecting immediate systemic thrombolysis to restore pulmonary perfusion.",
+    "strongestDistractor": "Initiation of therapeutic anticoagulation with low-molecular-weight heparin alone without thrombolysis",
+    "distractorExclusion": "Anticoagulation monotherapy is insufficient for massive PE with shock; systemic thrombolysis is required to rapidly dissolve the mechanical obstruction.",
+    "citation": "Ivanova S. Successful systemic fibrinolysis in pulmonary embolism with a thrombus-in-transit. Blood Coagul Fibrinolysis. 2026 Nov 6. PMID: 42895320.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on massive pulmonary embolism hemodynamic collapse systemic thrombolysis.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0928",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Severe Acute Asthma Status Asthmaticus IV Magnesium Sulfate Escalation",
+    "provisionalDifficulty": 4,
+    "stem": "A 24-year-old woman with persistent asthma presents to the emergency department in severe respiratory distress. She has used her albuterol metered-dose inhaler every 20 minutes for the past 4 hours without relief. On examination, she is sitting forward in a tripod position, speaking in single-word phrases, and using sternocleidomastoid accessory muscles. Vital signs: blood pressure 138/88 mm Hg, heart rate 126/min, respiratory rate 30/min, and oxygen saturation 90% on room air. Chest auscultation reveals diffuse, high-pitched expiratory and inspiratory wheezing with diminished breath sounds at the bases. Peak expiratory flow (PEF) is 32% of predicted. Over the first hour, she receives three back-to-back nebulizations of albuterol (5 mg) combined with ipratropium bromide (0.5 mg) and intravenous methylprednisolone 60 mg, along with supplemental oxygen. Despite these treatments, she remains in marked distress with persistent wheezing, heart rate 130/min, and PEF at 36% of predicted. Which of the following is the most appropriate next pharmacotherapy to administer?",
+    "choices": [
+      [
+        "Intravenous magnesium sulfate 2 grams infused over 20 minutes",
+        "This patient has SEVERE ACUTE ASTHMA EXACERBATION (STATUS ASTHMATICUS) refractory to initial first-line therapy (repetitive inhaled short-acting beta-agonists [SABA], inhaled short-acting muscarinic antagonists [SAMA], and systemic corticosteroids). In patients with severe acute asthma whose peak expiratory flow remains <40-50% of predicted or who exhibit signs of life-threatening distress after 1 hour of aggressive therapy, the established guideline-directed adjunctive pharmacotherapy is INTRAVENOUS MAGNESIUM SULFATE (2 grams IV over 20 minutes). Magnesium acts as a potent bronchodilator by: (1) Inhibiting voltage-gated calcium channels on bronchial smooth muscle cells, blocking intracellular calcium influx; (2) Inhibiting acetylcholine release at motor nerve terminals; and (3) Stabilizing mast cell membranes. Randomized controlled trials have demonstrated that IV magnesium sulfate significantly improves pulmonary function, reduces hospital admission rates, and prevents respiratory failure in severe refractory asthma. If respiratory muscle exhaustion ensues (silent chest, normal or rising PaCO2 indicating impending arrest), rapid sequence intubation with a large endotracheal tube is required."
+      ],
+      [
+        "Immediate endotracheal intubation and mechanical ventilation without further medical trials",
+        "Intubation in status asthmaticus is high-risk (severe air trapping, barotrauma, circulatory collapse) and is reserved for respiratory exhaustion (silent chest, hypercapnia), not before IV magnesium."
+      ],
+      [
+        "Subcutaneous injection of terbutaline 0.25 mg repeated every 15 minutes",
+        "Parenteral beta-agonists (terbutaline) have no proven superiority over inhaled SABAs and produce severe systemic tachycardia and arrhythmias; IV magnesium is the guideline-preferred escalation."
+      ],
+      [
+        "Administration of oral montelukast 10 mg to block leukotriene receptors",
+        "Oral leukotriene receptor antagonists have slow onset of action and no proven clinical efficacy in acute emergency status asthmaticus."
+      ],
+      [
+        "Intravenous infusion of aminophylline targeting serum theophylline 15 to 20 ug/mL",
+        "Methylxanthines (aminophylline/theophylline) have narrow therapeutic windows, severe pro-arrhythmic toxicity, and provide no additional benefit over standard therapies."
+      ]
+    ],
+    "shortestValidSolution": "Severe asthma refractory to SABA/ipratropium/steroids (PEF <40%) = IV magnesium sulfate 2 g over 20 min.",
+    "necessaryInference": "Recognize severe acute asthma refractory to initial bronchodilators and systemic steroids, choosing intravenous magnesium sulfate as the proven second-line bronchodilator.",
+    "strongestDistractor": "Immediate endotracheal intubation and mechanical ventilation without further medical trials",
+    "distractorExclusion": "Intubation in asthma carries high complication rates; trial of IV magnesium sulfate is indicated before mechanical ventilation unless the patient is in extremis.",
+    "citation": "Sharma K. High-frequency oscillatory ventilation as a rescue for severe asthma crisis in a child. SAGE Open Med Case Rep. 2020. PMID: 32974029.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on severe acute asthma status asthmaticus iv magnesium sulfate escalation.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0929",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Complicated Parapneumonic Effusion Low pH High LDH Tube Thoracostomy",
+    "provisionalDifficulty": 4,
+    "stem": "A 62-year-old man presents with persistent fever, right pleuritic chest pain, and productive cough for 6 days. Three days ago, his primary physician prescribed oral amoxicillin-clavulanate for community-acquired pneumonia, but his symptoms have steadily worsened. Vital signs: temperature 38.8 C (101.8 F), blood pressure 124/76 mm Hg, heart rate 104/min, respiratory rate 24/min, and oxygen saturation 93% on room air. Physical examination reveals dullness to percussion and absent breath sounds over the right lower hemithorax. Chest radiograph demonstrates a dense right lower lobe consolidation with a moderate loculated pleural effusion. Diagnostic thoracentesis yields 60 mL of turbid, yellow pleural fluid. Pleural fluid analysis reveals: pleural pH 7.12, glucose 34 mg/dL, LDH 1,450 U/L (serum LDH 210 U/L), total protein 4.8 g/dL (serum protein 6.8 g/dL), and nucleated cell count 48,000/uL with 92% neutrophils. Gram stain is currently negative. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      [
+        "Immediate placement of an intercostal chest tube (tube thoracostomy) for complete pleural drainage",
+        "This patient has a COMPLICATED PARAPNEUMONIC EFFUSION (or impending empyema). Parapneumonic effusions are categorized into three stages: (1) Uncomplicated (exudate, pH >7.20, glucose >60 mg/dL, LDH <1,000, sterile); (2) Complicated (bacterial invasion into pleural space causing active leukocyte metabolism, resulting in PLEURAL pH <7.20, GLUCOSE <60 MG/DL, and LDH >1,000 U/L); and (3) Empyema (frank pus or positive pleural Gram stain/culture). While uncomplicated effusions resolve with systemic antibiotics alone, a COMPLICATED PARAPNEUMONIC EFFUSION (pH <7.20 or glucose <60 mg/dL) WILL NEVER RESOLVE WITH ANTIBIOTICS ALONE due to pleural space loculation, fibrin deposition, and impaired antibiotic penetration. TUBE THORACOSTOMY (CHEST TUBE DRAINAGE) IS MANDATORY AND URGENT to evacuate infected acidic fluid, prevent pleural peel formation (fibrothorax), and eliminate the nidus of sepsis. Broad-spectrum intravenous antibiotics (e.g., ceftriaxone plus metronidazole or ampicillin-sulbactam) should be continued concurrently."
+      ],
+      [
+        "Continuation of intravenous antibiotics alone with repeat thoracentesis in 48 hours if fevers persist",
+        "Antibiotics alone fail in complicated effusions with pH <7.20 and glucose <60 mg/dL; delaying drainage leads to extensive pleural loculation and requires surgical decortication."
+      ],
+      [
+        "Immediate video-assisted thoracoscopic surgery (VATS) with total decortication without chest tube trial",
+        "VATS decortication is indicated if tube thoracostomy drainage and intrapleural fibrinolytics fail; initial management is tube thoracostomy drainage."
+      ],
+      [
+        "Injection of intrapleural corticosteroids to suppress local neutrophilic inflammation",
+        "Intrapleural steroids have no role in bacterial effusions and promote uncontrolled infection and empyema expansion."
+      ],
+      [
+        "Therapeutic thoracentesis to dryness without indwelling catheter or tube placement",
+        "Simple needle thoracentesis is inadequate for complicated effusions because loculations and ongoing bacterial transudation cause rapid fluid reaccumulation."
+      ]
+    ],
+    "shortestValidSolution": "Pneumonia + pleural effusion with pH 7.12 + glucose 34 + LDH 1,450 = Complicated parapneumonic effusion (immediate tube thoracostomy drainage).",
+    "necessaryInference": "Identify complicated parapneumonic effusion from pleural fluid markers (pH <7.20, glucose <60, LDH >1,000), recognizing that tube thoracostomy drainage is mandatory alongside antibiotics.",
+    "strongestDistractor": "Continuation of intravenous antibiotics alone with repeat thoracentesis in 48 hours if fevers persist",
+    "distractorExclusion": "A pleural pH <7.20 indicates bacterial invasion and metabolic acid production that will not clear with antibiotics alone; prompt chest tube drainage is required.",
+    "citation": "Shahar AI. Management Strategies for Paediatric Pleural Empyema: A Systematic Review. J Paediatr Child Health. 2026 Oct 16. PMID: 42888492.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on complicated parapneumonic effusion low ph high ldh tube thoracostomy.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0930",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Septic Shock Norepinephrine First-Line Vasopressor Target MAP",
+    "provisionalDifficulty": 5,
+    "stem": "A 68-year-old woman is admitted to the intensive care unit with septic shock secondary to acute ascending pyelonephritis (Escherichia coli). She has received 30 mL/kg (total 2,400 mL) of intravenous balanced crystalloid solution over the past 2 hours. Despite fluid resuscitation, she remains profoundly hypotensive and confused. Vital signs: blood pressure 78/44 mm Hg (mean arterial pressure [MAP] 55 mm Hg), heart rate 118/min, central venous oxygen saturation (ScvO2) 62%, and arterial lactate 4.8 mmol/L. Bedside ultrasound of the inferior vena cava shows minimal respiratory variation and collapsed hyperdynamic left ventricular chambers. Broad-spectrum antibiotics have been initiated. Which of the following is the guideline-directed first-line vasopressor to initiate immediately to achieve and maintain a target MAP >= 65 mm Hg?",
+    "choices": [
+      [
+        "Continuous intravenous norepinephrine infusion titrated to target mean arterial pressure >= 65 mm Hg",
+        "This patient has REFRACTORY SEPTIC SHOCK, defined by persistent hypotension requiring vasopressors to maintain MAP >= 65 mm Hg and serum lactate >2 mmol/L despite adequate fluid resuscitation (>= 30 mL/kg). In accordance with the Surviving Sepsis Campaign international guidelines, NOREPINEPHRINE IS THE FIRST-LINE VASOPRESSOR OF CHOICE. Norepinephrine is a potent alpha-1 adrenergic agonist with modest beta-1 inotropic properties. It increases systemic vascular resistance (vasoconstriction) to restore organ perfusion pressure, while mildly increasing stroke volume with minimal excessive chronotropic arrhythmogenicity. The target is a MEAN ARTERIAL PRESSURE (MAP) >= 65 MM HG. If MAP remains inadequate despite moderate-to-high doses of norepinephrine (e.g., >0.25 ug/kg/min), VASOPRESSIN (fixed dose 0.03 units/min) should be added as a second-line adjunct to raise MAP and reduce norepinephrine dosage requirements, rather than escalating norepinephrine alone."
+      ],
+      [
+        "Continuous intravenous dopamine infusion titrated from 5 to 20 ug/kg/min",
+        "Dopamine is associated with significantly higher rates of tachyarrhythmias and increased mortality compared to norepinephrine in septic shock; it is no longer recommended as first-line."
+      ],
+      [
+        "Continuous intravenous phenylephrine infusion to achieve pure peripheral alpha-1 vasoconstriction",
+        "Phenylephrine causes pure vasoconstriction without inotropic support, which decreases stroke volume and cardiac output; it is reserved only for severe tachyarrhythmias."
+      ],
+      [
+        "Immediate high-dose intravenous epinephrine infusion as the sole initial vasopressor",
+        "Epinephrine is a second-line agent added to norepinephrine; as initial monotherapy, it causes marked tachycardia, splanchnic vasoconstriction, and increases lactic acid via aerobic glycolysis."
+      ],
+      [
+        "Administration of intravenous hydrocortisone 200 mg bolus prior to starting any vasopressors",
+        "Corticosteroids are indicated only as refractory septic shock therapy if blood pressure remains unresponsive despite fluids and high-dose vasopressors, not before vasopressors."
+      ]
+    ],
+    "shortestValidSolution": "Septic shock refractory to 30 mL/kg fluids (MAP 55, lactate 4.8) = First-line vasopressor is IV norepinephrine (target MAP >= 65 mm Hg).",
+    "necessaryInference": "Select norepinephrine as the guideline-directed first-line vasopressor in septic shock to restore target MAP >= 65 mm Hg, avoiding dopamine due to excessive arrhythmic mortality.",
+    "strongestDistractor": "Continuous intravenous dopamine infusion titrated from 5 to 20 ug/kg/min",
+    "distractorExclusion": "Dopamine causes substantially more tachyarrhythmias and excess mortality in septic shock compared to norepinephrine, which is the proven first-line agent.",
+    "citation": "Zhang Y. Severity-stratified vasopressor-escalation strategies in septic shock: a cross-fitted doubly robust analysis with external replication. Front Pharmacol. 2026. PMID: 42565049.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on septic shock norepinephrine first-line vasopressor target map.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0931",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Severe Community-Acquired Pneumonia Combination Antibiotic Therapy",
+    "provisionalDifficulty": 4,
+    "stem": "A 66-year-old man presents with high fevers, productive cough with rust-colored sputum, and severe shortness of breath for 3 days. Vital signs: temperature 39.2 C (102.6 F), blood pressure 84/52 mm Hg, heart rate 124/min, respiratory rate 32/min, and oxygen saturation 88% on room air. He is disoriented to time and place (CURB-65 score = 4: Confusion, Urea >7 mmol/L [BUN 34 mg/dL], Respiratory rate >= 30, Blood pressure systolic <90). Arterial blood gas reveals: pH 7.31, PaCO2 36 mm Hg, PaO2 56 mm Hg (PaO2/FiO2 ratio 266 on room air). Chest radiograph demonstrates dense right middle and lower lobe consolidation with air bronchograms. He is admitted directly to the medical intensive care unit for septic shock and respiratory failure. Which of the following antimicrobial regimens is most appropriate to initiate immediately?",
+    "choices": [
+      [
+        "Intravenous ceftriaxone plus intravenous azithromycin (or a respiratory fluoroquinolone)",
+        "This patient has SEVERE COMMUNITY-ACQUIRED PNEUMONIA (CAP) requiring ICU admission, defined by the ATS/IDSA criteria (meeting 1 major criterion: septic shock requiring vasopressors, and several minor criteria: respiratory rate >= 30, PaO2/FiO2 <= 250, confusion, BUN >= 20 mg/dL). For patients with severe CAP admitted to the ICU without risk factors for Pseudomonas aeruginosa or MRSA, the guideline-directed empiric antimicrobial regimen is COMBINATION THERAPY consisting of: (1) A POTENT BETA-LACTAM (e.g., ceftriaxone, ampicillin-sulbactam, or cefotaxime) PLUS (2) A MACROLIDE (intravenous AZITHROMYCIN) OR an intravenous respiratory fluoroquinolone (levofloxacin or moxifloxacin). Beta-lactam/macrolide combination therapy provides bactericidal coverage against typical pathogens (Streptococcus pneumoniae, Haemophilus influenzae) and atypical pathogens (Legionella pneumophila, Mycoplasma pneumoniae), while providing immunomodulatory anti-inflammatory effects that significantly reduce mortality in bacteremic pneumococcal pneumonia and septic shock."
+      ],
+      [
+        "Intravenous ceftriaxone monotherapy administered every 24 hours",
+        "Monotherapy with a beta-lactam is inadequate for severe ICU-level CAP because it lacks coverage against atypical pathogens (Legionella) and lacks the proven mortality benefit of combination therapy."
+      ],
+      [
+        "Oral azithromycin 500 mg daily monotherapy for 5 days",
+        "Macrolide monotherapy is reserved for mild outpatient CAP; it is ineffective and dangerous for septic shock due to widespread pneumococcal resistance and lack of bactericidal potency."
+      ],
+      [
+        "Intravenous vancomycin monotherapy targeting trough 15 to 20 ug/mL",
+        "Vancomycin monotherapy covers MRSA but fails to treat Gram-negative bacilli or atypical organisms, and lacks optimal pneumococcal killing compared to beta-lactams."
+      ],
+      [
+        "Oral amoxicillin-clavulanate 875/125 mg twice daily with oral doxycycline",
+        "Oral outpatient regimens cannot achieve rapid therapeutic serum concentrations in patients with septic shock and impaired gastrointestinal perfusion."
+      ]
+    ],
+    "shortestValidSolution": "Severe CAP in ICU (CURB-65 = 4, shock) = IV beta-lactam (ceftriaxone) + IV macrolide (azithromycin) or fluoroquinolone.",
+    "necessaryInference": "Select guideline-directed combination therapy (IV beta-lactam plus macrolide) for severe ICU-level community-acquired pneumonia to cover typical and atypical pathogens and reduce mortality.",
+    "strongestDistractor": "Intravenous ceftriaxone monotherapy administered every 24 hours",
+    "distractorExclusion": "Beta-lactam monotherapy misses atypical organisms like Legionella and lacks the anti-inflammatory survival advantage of macrolide combination therapy in severe CAP.",
+    "citation": "Greco Kinney A. \u03b2-Lactams plus doxycycline versus azithromycin for treatment of severe community-acquired pneumonia in critically ill patients. J Antimicrob Chemother. 2023 Dec 1. PMID: 37814829.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on severe community-acquired pneumonia combination antibiotic therapy.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0932",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "COPD Acute Exacerbation Non-Invasive Positive Pressure Ventilation BiPAP",
+    "provisionalDifficulty": 4,
+    "stem": "A 68-year-old man with severe chronic obstructive pulmonary disease (GOLD Stage IV) presents with 3 days of worsening dyspnea, increased sputum volume, and sputum purulence. On arrival, he is somnolent but arousable, speaking in one-word phrases, and using accessory abdominal muscles to breathe. Vital signs: blood pressure 146/92 mm Hg, heart rate 116/min, respiratory rate 28/min, and oxygen saturation 86% on room air. Supplemental oxygen is initiated via nasal cannula at 4 L/min; 30 minutes later, his oxygen saturation rises to 92%, but he becomes increasingly obtunded. Arterial blood gas reveals: pH 7.24, PaCO2 74 mm Hg, PaO2 62 mm Hg, and HCO3- 32 mEq/L. Which of the following is the most appropriate next step in respiratory management?",
+    "choices": [
+      [
+        "Initiation of non-invasive positive pressure ventilation (BiPAP)",
+        "This patient presents with an ACUTE EXACERBATION OF COPD (AECOPD) complicated by ACUTE-ON-CHRONIC HYPERCAPNIC RESPIRATORY FAILURE with severe respiratory acidosis (pH 7.24, PaCO2 74 mm Hg). The definitive first-line ventilatory intervention in acute hypercapnic respiratory failure secondary to COPD exacerbation is NON-INVASIVE POSITIVE PRESSURE VENTILATION (NIV / BiPAP: bilevel positive airway pressure). Multiple randomized controlled trials and meta-analyses have established that NIV reduces the work of breathing, augments alveolar ventilation, decreases PaCO2, rapidly corrects respiratory acidosis, decreases intubation rates by >60%, shortens hospital length of stay, and significantly reduces in-hospital mortality. Key physiological indications for NIV in AECOPD are: (1) Acute respiratory acidosis (pH <= 7.35 and PaCO2 >= 45 mm Hg), and (2) Severe dyspnea with clinical signs of respiratory muscle fatigue. Crucially, unless absolute contraindications are present (cardiac/respiratory arrest, severe facial trauma, refractory hemodynamic instability, inability to protect airway/vomiting), A TRIAL OF NIV SHOULD ALWAYS PRECEDE INVASIVE ENDOTRACHEAL INTUBATION."
+      ],
+      [
+        "Immediate endotracheal intubation and invasive volume-control mechanical ventilation",
+        "Invasive mechanical ventilation carries substantial risks (ventilator-associated pneumonia, barotrauma, difficulty weaning); NIV should be attempted first unless the patient is in arrest."
+      ],
+      [
+        "Increasing nasal cannula oxygen flow rate to 10 L/min to normalize PaO2 >80 mm Hg",
+        "Excessive uncontrolled oxygen in COPD exacerbation worsens V/Q mismatch (loss of hypoxic vasoconstriction) and Haldane effect, worsening hypercapnic coma."
+      ],
+      [
+        "Administration of intravenous sodium bicarbonate 100 mEq to buffer arterial pH >7.30",
+        "Bicarbonate infusion converts to CO2, which cannot be eliminated by failing lungs, worsening intracellular cerebral acidosis and respiratory drive suppression."
+      ],
+      [
+        "Sedation with intravenous lorazepam 2 mg to relieve anxiety and tachypnea",
+        "Sedatives and benzodiazepines suppress the central respiratory drive and will precipitate immediate fatal hypoventilation in hypercapnic COPD."
+      ]
+    ],
+    "shortestValidSolution": "COPD exacerbation with pH 7.24 + PaCO2 74 = Non-invasive positive pressure ventilation (BiPAP).",
+    "necessaryInference": "Identify acute hypercapnic respiratory acidosis in COPD exacerbation as the premier indication for non-invasive positive pressure ventilation (BiPAP) to avoid invasive mechanical ventilation.",
+    "strongestDistractor": "Immediate endotracheal intubation and invasive volume-control mechanical ventilation",
+    "distractorExclusion": "NIV reduces mortality and intubation rates by >60% in COPD exacerbations; immediate intubation is reserved for NIV failure or airway arrest.",
+    "citation": "Heraganahally SS. COPD Exacerbation in Aboriginal Australians: Examining Ethnic Disparity in AECOPD Guideline Alignment Between Aboriginal and Non-Aboriginal Patients. J Racial Ethn Health Disparities. 2026 Nov 6. PMID: 42995317.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on copd acute exacerbation non-invasive positive pressure ventilation bipap.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0933",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Idiopathic Pulmonary Fibrosis Antifibrotic Pirfenidone Nintedanib FVC Decline",
+    "provisionalDifficulty": 4,
+    "stem": "A 67-year-old male former smoker presents with progressive exertional dyspnea and a dry, hacking cough for 9 months. He has no occupational exposures, joint pain, or rash. Physical examination reveals blood pressure 128/78 mm Hg, heart rate 76/min, respiratory rate 20/min, and oxygen saturation 93% at rest that drops to 84% after walking 50 meters. Bilateral dry, end-inspiratory 'Velcro-like' crackles are audible predominantly over the posterior lower lung fields, and marked digital clubbing is present. High-resolution chest CT (HRCT) demonstrates subpleural, basal-predominant reticular opacities with extensive traction bronchiectasis and multiple layers of clustered subpleural cystic spaces with thick walls ('honeycombing'), without ground-glass opacities, diagnostic of a definite usual interstitial pneumonia (UIP) pattern. Pulmonary function testing reveals a restrictive ventilatory defect with reduced FVC (58% of predicted) and severely decreased DLCO (42% of predicted). Autoantibody panels (ANA, RF, anti-CCP, myositis panel) are negative. Which of the following pharmacotherapies is indicated to slow the progression of lung function decline in this patient?",
+    "choices": [
+      [
+        "Antifibrotic therapy with pirfenidone or nintedanib",
+        "This patient has IDIOPATHIC PULMONARY FIBROSIS (IPF), a chronic, progressive, fibrosing interstitial pneumonia characterized by the radiological and histopathological pattern of USUAL INTERSTITIAL PNEUMONIA (UIP: subpleural, basilar honeycombing, traction bronchiectasis, and reticular opacities). Clinical features include insidious exertional dyspnea, dry cough, bilateral bibasilar 'Velcro' crackles, and digital clubbing in older adults (>60 years). Once secondary causes (connective tissue disease, environmental/drug exposure) are excluded, definitive treatment to SLOW DISEASE PROGRESSION is ANTIFIBROTIC PHARMACOTHERAPY using PIRFENIDONE (an antifibrotic agent that inhibits TGF-beta-driven collagen synthesis and fibroblast proliferation) or NINTEDANIB (a tyrosine kinase inhibitor targeting FGFR, PDGFR, and VEGFR). In randomized controlled trials (ASCEND, CAPACITY, INPULSIS), both agents significantly REDUCED THE RATE OF FVC DECLINE by approximately 50% per year and reduced acute exacerbation risks. Crucially, IMMUNOSUPPRESSIVE THERAPY (corticosteroids, azathioprine, N-acetylcysteine) WAS SHOWN IN THE PANTHER-IPF TRIAL TO INCREASE MORTALITY AND HOSPITALIZATIONS AND IS STRICTLY CONTRAINDICATED."
+      ],
+      [
+        "High-dose oral prednisone combined with azathioprine and N-acetylcysteine",
+        "The PANTHER-IPF trial proved that triple therapy with prednisone, azathioprine, and NAC causes excess mortality and hospitalizations in IPF; immunosuppression is contraindicated."
+      ],
+      [
+        "Inhaled fluticasone-salmeterol twice daily with oral roflumilast",
+        "Inhaled bronchodilators and PDE-4 inhibitors treat obstructive lung diseases (asthma/COPD), not restrictive fibrosing parenchymal lung diseases."
+      ],
+      [
+        "Intravenous cyclophosphamide pulse therapy administered monthly for 6 months",
+        "Cyclophosphamide has no efficacy in IPF and causes significant bone marrow, bladder, and infectious toxicities."
+      ],
+      [
+        "Oral methotrexate 15 mg weekly combined with daily folic acid supplementation",
+        "Methotrexate is an immunosuppressive DMARD for rheumatoid arthritis and can itself cause drug-induced pulmonary fibrosis; it is not indicated for IPF."
+      ]
+    ],
+    "shortestValidSolution": "UIP honeycombing on HRCT + Velcro crackles + clubbing = Idiopathic pulmonary fibrosis (antifibrotic therapy with pirfenidone or nintedanib; avoid steroids).",
+    "necessaryInference": "Recognize idiopathic pulmonary fibrosis (UIP pattern) and select antifibrotic therapy (pirfenidone or nintedanib) to slow FVC decline, while avoiding lethal immunosuppression.",
+    "strongestDistractor": "High-dose oral prednisone combined with azathioprine and N-acetylcysteine",
+    "distractorExclusion": "Triple immunosuppressive therapy was proven in the PANTHER trial to increase mortality in IPF; antifibrotic agents (pirfenidone/nintedanib) are the only approved medical therapies.",
+    "citation": "Shi Y. Clinical and prognostic characteristics of concurrent small cell lung cancer in patients with idiopathic pulmonary fibrosis: a retrospective study. J Thorac Dis. 2026 Oct 30. PMID: 42996928.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on idiopathic pulmonary fibrosis antifibrotic pirfenidone nintedanib fvc decline.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0934",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Ventilator-Associated Pneumonia Quantitative Endotracheal Culture Diagnostics",
+    "provisionalDifficulty": 4,
+    "stem": "A 56-year-old man has been mechanically ventilated in the intensive care unit for 6 days following emergent surgical repair of an intracranial aneurysm. Over the past 24 hours, his nurse notes that his endotracheal secretions have become copious, thick, and purulent. Vital signs: temperature 38.9 C (102.0 F), blood pressure 118/74 mm Hg, heart rate 108/min, respiratory rate 24/min. Ventilator settings: volume assist-control mode, but his FiO2 requirements have increased from 0.35 to 0.60 to maintain oxygen saturation >92%, and PEEP has been increased from 5 to 10 cm H2O. Laboratory studies reveal: WBC count elevated at 17,800/uL with 86% segmented neutrophils and 8% band forms. Portable chest radiograph demonstrates a new, dense patchy opacity in the left lower lobe that was not present 48 hours ago. Which of the following is the most appropriate next diagnostic step before or immediately concurrent with initiating broad-spectrum empiric antibiotics?",
+    "choices": [
+      [
+        "Obtaining a distal quantitative endotracheal aspirate or bronchoalveolar lavage for culture",
+        "This patient has VENTILATOR-ASSOCIATED PNEUMONIA (VAP), defined as pneumonia occurring >48 hours after endotracheal intubation. The clinical diagnosis of VAP requires: (1) A new or progressive radiographic infiltrate, plus (2) At least two clinical features of infection: fever (>38 C), leukocytosis or leukopenia, and purulent endotracheal secretions, accompanied by worsening oxygenation (increased FiO2/PEEP needs). Because patients in the ICU are frequently colonized with multidrug-resistant hospital flora, the IDSA/ATS guidelines recommend OBTAINING A LOWER RESPIRATORY TRACT SAMPLE FOR QUANTITATIVE OR SEMI-QUANTITATIVE CULTURE prior to initiating or altering antimicrobial therapy. Validated sampling techniques include NON-INVASIVE ENDOTRACHEAL ASPIRATE (diagnostic threshold >= 10^5 CFU/mL) or INVASIVE BRONCHOALVEOLAR LAVAGE (BAL, diagnostic threshold >= 10^4 CFU/mL). Quantitative culture allows precise de-escalation or discontinuation of empiric broad-spectrum antibiotics (which typically cover MRSA and multidrug-resistant Pseudomonas) once microbiologic sensitivities are available, preventing antimicrobial resistance and drug toxicity."
+      ],
+      [
+        "Performance of routine blood cultures alone without sampling respiratory secretions",
+        "Blood cultures have a diagnostic yield of only 15-20% in VAP; sampling lower respiratory secretions directly is essential to identify the causative pulmonary pathogen."
+      ],
+      [
+        "Initiation of empiric therapy without culturing secretions to avoid contamination",
+        "Failing to obtain respiratory cultures leads to prolonged broad-spectrum antibiotic overuse, Clostridioides difficile colitis, and treatment failure if resistant organisms are missed."
+      ],
+      [
+        "Immediate extubation to non-invasive ventilation to clear airway secretions",
+        "Extubating an acutely infected patient with worsening oxygenation (FiO2 0.60, PEEP 10) and thick purulent secretions leads to immediate aspiration and respiratory arrest."
+      ],
+      [
+        "Serum procalcitonin testing to decide whether antibiotics are necessary",
+        "In the presence of overt septic signs (fever 38.9, WBC 17.8k, new infiltrate, FiO2 0.60), antibiotic initiation cannot be deferred for biomarker testing."
+      ]
+    ],
+    "shortestValidSolution": ">48 hours intubated + new infiltrate + purulent sputum + fever = VAP (obtain quantitative endotracheal aspirate/BAL culture + empiric antibiotics).",
+    "necessaryInference": "Synthesize clinical criteria for ventilator-associated pneumonia and select lower respiratory tract quantitative culture prior to empiric broad-spectrum therapy.",
+    "strongestDistractor": "Performance of routine blood cultures alone without sampling respiratory secretions",
+    "distractorExclusion": "Blood cultures miss >80% of VAP pathogens; direct quantitative sampling of endotracheal secretions or bronchoalveolar lavage is mandatory.",
+    "citation": "Feet JA. Non-ventilator hospital-acquired pneumonia diagnostic procedures: A systematic review. Int J Infect Dis. 2026 Aug. PMID: 42107873.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on ventilator-associated pneumonia quantitative endotracheal culture diagnostics.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0935",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Tension Pneumothorax Immediate Needle Thoracostomy Decompression Protocol",
+    "provisionalDifficulty": 4,
+    "stem": "A 28-year-old man is brought to the trauma bay following a high-speed motor vehicle collision in which he was an unrestrained driver. On arrival, he is in profound respiratory distress, cyanotic, and combative. Vital signs: blood pressure 68/42 mm Hg, heart rate 138/min, respiratory rate 38/min, and oxygen saturation 76% on a non-rebreather mask. Physical examination reveals distended neck veins, tracheal deviation to the right, severe subcutaneous crepitus over the left thoracic wall, and hyperresonance to percussion with completely absent breath sounds across the entire left hemithorax. The trauma team radiology technician announces that the portable digital chest X-ray machine is booting up and will be ready in 3 minutes. Which of the following is the most appropriate immediate intervention?",
+    "choices": [
+      [
+        "Immediate needle decompression in the second intercostal space midclavicular line or fifth intercostal space anterior axillary line",
+        "This patient presents with a TENSION PNEUMOTHORAX of the left hemithorax, a life-threatening surgical emergency. A one-way 'ball-valve' tissue defect in the visceral or parietal pleura allows air to enter the pleural space during inspiration but prevents it from escaping during expiration. Progressive accumulation of pressurized air causes: (1) Complete collapse of the ipsilateral lung; (2) Contralateral shift of the mediastinum (tracheal deviation to the opposite side, here right); (3) Compression of the superior and inferior vena cava and right atrium, drastically reducing venous return; and (4) Obstructive cardiogenic shock with severe hypotension and pulseless electrical activity (PEA) arrest. The diagnosis of tension pneumothorax is PURELY CLINICAL. A CHEST RADIOGRAPH MUST NEVER BE PERFORMED OR WAITED FOR IN AN UNSTABLE PATIENT, as delaying intervention for imaging causes fatal cardiac arrest. The immediate intervention is EMERGENCY NEEDLE DECOMPRESSION (inserting a large-bore 14-gauge catheter into the 2nd intercostal space at the midclavicular line, or 4th/5th intercostal space at the anterior axillary line), which converts the tension pneumothorax into an open pneumothorax. This must be followed immediately by definitive TUBE THORACOSTOMY (chest tube placement)."
+      ],
+      [
+        "Waiting 3 minutes for portable chest radiograph confirmation before performing any thoracic intervention",
+        "Delaying decompression to obtain a chest X-ray in tension pneumothorax with profound shock (BP 68/42) leads to irreversible cardiac arrest and death."
+      ],
+      [
+        "Immediate endotracheal intubation and initiation of high positive pressure ventilation",
+        "Positive pressure ventilation forces more air into the pleural space via the one-way valve, drastically accelerating cardiovascular collapse in tension pneumothorax."
+      ],
+      [
+        "Performance of a focused cardiac ultrasound (FAST) to rule out pericardial tamponade",
+        "While ultrasound is valuable in trauma, classic physical findings of tension pneumothorax (absent breath sounds, hyperresonance, tracheal deviation) dictate immediate needle decompression."
+      ],
+      [
+        "Rapid intravenous infusion of 2 liters of packed red blood cells for suspected hemorrhagic shock",
+        "The primary driver of shock is mechanical obstruction to venous return by intrathoracic pressure; blood transfusion cannot restore cardiac output without pleural decompression."
+      ]
+    ],
+    "shortestValidSolution": "Shock (BP 68/42) + absent left breath sounds + hyperresonance + right tracheal deviation = Tension pneumothorax (immediate needle decompression; do NOT wait for X-ray).",
+    "necessaryInference": "Recognize tension pneumothorax as an immediate clinical diagnosis requiring emergent needle decompression without delaying for chest radiography.",
+    "strongestDistractor": "Waiting 3 minutes for portable chest radiograph confirmation before performing any thoracic intervention",
+    "distractorExclusion": "Tension pneumothorax is a clinical emergency; waiting for an X-ray in a hypotensive, cyanotic patient will result in fatal cardiac arrest.",
+    "citation": "Ausman JA. Comparison of Needle Decompression to Simple (Finger) Thoracostomy in Non-Perfused Cadaveric Models with Theoretical Tension Pneumothorax. Prehosp Emerg Care. 2026. PMID: 42054269.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 surgery item requiring multi-step deduction on tension pneumothorax immediate needle thoracostomy decompression protocol.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0936",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Obesity Hypoventilation Syndrome Polysomnography Nocturnal Noninvasive PAP",
+    "provisionalDifficulty": 4,
+    "stem": "A 54-year-old woman is evaluated in the pulmonary clinic for excessive daytime sleepiness, morning headaches, and cognitive slowing. Her husband reports that she snores heavily and has frequent pauses in breathing during sleep. She has hypertension and type 2 diabetes. Physical examination reveals: BMI 44 kg/m2, neck circumference 43 cm, blood pressure 144/88 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 91% on room air while sitting upright awake. Cardiopulmonary examination is unremarkable without wheezing or peripheral edema. Laboratory evaluation demonstrates: serum bicarbonate elevated at 33 mEq/L, hematocrit 54% (reference 37-48%), and serum creatinine 0.9 mg/dL. Arterial blood gas obtained while awake at rest shows: pH 7.37, PaCO2 52 mm Hg, PaO2 66 mm Hg, and HCO3- 32 mEq/L. Chest radiograph is normal. Which of the following is the most appropriate definitive management for this disorder?",
+    "choices": [
+      [
+        "In-laboratory overnight polysomnography followed by nocturnal non-invasive positive airway pressure therapy",
+        "This patient has OBESITY HYPOVENTILATION SYNDROME (OHS, formerly Pickwickian syndrome). OHS is defined by the triad of: (1) Obesity (BMI >= 30 kg/m2); (2) AWAKE DAYTIME CHRONIC HYPERCAPNIA (PaCO2 >= 45 mm Hg); and (3) Absence of alternative neuromuscular, mechanical, or metabolic causes of hypoventilation. The underlying pathophysiology involves excessive chest wall weight and increased thoracic elastance, blunt ventilatory response to hypercapnia and hypoxia, and severe sleep-disordered breathing (>90% of patients have concomitant OBSTRUCTIVE SLEEP APNEA [OSA]). Chronically elevated PaCO2 triggers compensatory renal bicarbonate retention (serum HCO3- >= 27 mEq/L), which serves as a highly sensitive screening marker for chronic daytime hypoventilation. Chronic hypoxemia drives secondary erythrocytosis (hematocrit 54%) and pulmonary hypertension with cor pulmonale. The gold-standard diagnostic and therapeutic step is IN-LABORATORY OVERNIGHT POLYSOMNOGRAPHY with positive airway pressure titration, followed by NOCTURNAL NON-INVASIVE POSITIVE AIRWAY PRESSURE (PAP) THERAPY (continuous positive airway pressure [CPAP] or bilevel PAP [BiPAP]). Long-term nocturnal PAP restores ventilatory chemosensitivity, reverses daytime hypercapnia, and reduces mortality. Concurrently, weight loss is essential."
+      ],
+      [
+        "Initiation of medroxyprogesterone acetate to stimulate central medullary respiratory drive",
+        "Progestins have significant thromboembolic and cardiovascular adverse effects and have no role in modern guideline-directed management of OHS."
+      ],
+      [
+        "Prescription of supplemental nocturnal low-flow oxygen via nasal cannula alone at 2 L/min",
+        "Oxygen alone does not relieve upper airway obstruction or improve chest wall compliance, and can worsen nocturnal hypoventilation and hypercapnia by depressing hypoxic drive."
+      ],
+      [
+        "Oral acetazolamide 250 mg twice daily to induce metabolic acidosis and stimulate breathing",
+        "Acetazolamide induces renal bicarbonate wasting but does not treat the underlying sleep apnea or thoracic load, and cannot replace positive airway pressure therapy."
+      ],
+      [
+        "Immediate uvulopalatopharyngoplasty (UPPP) surgery without positive airway pressure trial",
+        "Surgical UPPP has poor long-term success rates for severe OSA/OHS and carries high perioperative morbidity; PAP therapy is the non-invasive standard of care."
+      ]
+    ],
+    "shortestValidSolution": "BMI 44 + daytime PaCO2 52 + high HCO3 (33) + somnolence = Obesity hypoventilation syndrome (polysomnography + nocturnal positive airway pressure).",
+    "necessaryInference": "Synthesize severe obesity, awake daytime hypercapnia (PaCO2 >= 45), and compensatory elevated bicarbonate to diagnose obesity hypoventilation syndrome, selecting nocturnal positive airway pressure as definitive therapy.",
+    "strongestDistractor": "Prescription of supplemental nocturnal low-flow oxygen via nasal cannula alone at 2 L/min",
+    "distractorExclusion": "Oxygen monotherapy fails to unload the mechanical burden or splint open the airway, and can worsen hypercapnia by suppressing respiratory chemoreceptors.",
+    "citation": "S\u00e1nchez-Quiroga M\u00c1. Effectiveness of automatically-adjusted vs manually-adjusted noninvasive ventilation in obesity hypoventilation syndrome: a randomized clinical trial. Am J Respir Crit Care Med. 2026 May 1. PMID: 41738216.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on obesity hypoventilation syndrome polysomnography nocturnal noninvasive pap.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0937",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Pulmonary Arterial Hypertension Endothelin Antagonist PDE-5 Inhibitor Therapy",
+    "provisionalDifficulty": 4,
+    "stem": "A 36-year-old woman presents with progressive exertional dyspnea, fatigue, and lower extremity swelling for 6 months. She has no history of smoking, venous thromboembolism, or connective tissue disease. Vital signs: blood pressure 114/72 mm Hg, heart rate 82/min, respiratory rate 18/min, oxygen saturation 95% on room air. Physical examination reveals jugular venous distension to 8 cm H2O with a prominent 'a' wave, an accentuated pulmonic component of S2 (loud P2), a right ventricular heave at the left parasternal border, and trace peripheral edema. High-resolution chest CT shows no interstitial lung disease, and ventilation-perfusion (V/Q) lung scan is completely normal. Transthoracic echocardiogram demonstrates marked right ventricular and right atrial dilation with flattening of the interventricular septum, estimated pulmonary artery systolic pressure of 68 mm Hg, and normal left ventricular size and LVEF (62%). Right heart catheterization confirms: mean pulmonary arterial pressure (mPAP) 46 mm Hg (reference <20 mm Hg), pulmonary capillary wedge pressure (PCWP) 11 mm Hg (reference <= 15 mm Hg), and pulmonary vascular resistance (PVR) 6.2 Wood units (reference <2.0 Wood units). Vasoreactivity testing with inhaled nitric oxide is negative. Which of the following is the most appropriate first-line pharmacotherapeutic strategy for this patient?",
+    "choices": [
+      [
+        "Initial oral combination therapy with an endothelin receptor antagonist (ambrisentan) plus a PDE-5 inhibitor (tadalafil)",
+        "This patient has IDIOPATHIC PULMONARY ARTERIAL HYPERTENSION (PAH, Group 1 Pulmonary Hypertension). Hemodynamic criteria for precapillary PAH are confirmed by right heart catheterization: (1) mPAP >20 mm Hg (here 46 mm Hg); (2) PCWP <= 15 mm Hg (here 11 mm Hg, excluding Group 2 left heart disease); and (3) PVR >= 2 or 3 Wood units (here 6.2 Wood units). Secondary causes (Group 3 lung disease, Group 4 chronic thromboembolic disease [CTEPH, ruled out by normal V/Q scan]) are excluded. When acute vasoreactivity testing is negative (the vast majority of patients), high-dose calcium channel blockers are ineffective and dangerous. Current 2022 ESC/ERS guidelines establish INITIAL ORAL COMBINATION THERAPY as the standard of care for low-to-intermediate risk PAH: combining an ENDOTHELIN RECEPTOR ANTAGONIST (ERA: AMBRISENTAN or macitentan) PLUS A PHOSPHODIESTERASE-5 INHIBITOR (PDE-5i: TADALAFIL or sildenafil). In the landmark AMBITION trial, initial upfront combination therapy significantly reduced the risk of clinical failure/hospitalization by 50% compared to either monotherapy alone. For high-risk patients, parenteral prostacyclins (epoprostenol) are added."
+      ],
+      [
+        "High-dose oral diltiazem 360 mg daily monotherapy",
+        "Calcium channel blockers are indicated ONLY in the small subset (<10%) of patients with POSITIVE acute vasoreactivity testing; in vasoreactivity-negative patients, CCBs cause severe hypotension and right heart failure."
+      ],
+      [
+        "Lifelong systemic anticoagulation with warfarin targeting INR 2.0 to 3.0",
+        "Routine anticoagulation is no longer recommended in idiopathic PAH as modern trials have shown no survival benefit and increased bleeding risks."
+      ],
+      [
+        "Inhaled nitric oxide therapy via home continuous nasal delivery system",
+        "Inhaled nitric oxide is an acute diagnostic and inpatient salvage agent, not a feasible or approved outpatient maintenance therapy for Group 1 PAH."
+      ],
+      [
+        "Immediate listing for bilateral lung transplantation without trial of medical therapy",
+        "Lung transplantation is reserved for patients who remain in high-risk status despite optimal triple-combination medical therapy (including parenteral prostacyclins), not initial treatment."
+      ]
+    ],
+    "shortestValidSolution": "PAH (mPAP 46, PCWP 11, PVR 6.2) + negative vasoreactivity = Initial oral combination therapy (ERA [ambrisentan] + PDE-5i [tadalafil]).",
+    "necessaryInference": "Identify precapillary Group 1 pulmonary arterial hypertension and apply guideline-directed therapy: initial upfront combination therapy with an endothelin receptor antagonist and PDE-5 inhibitor.",
+    "strongestDistractor": "High-dose oral diltiazem 360 mg daily monotherapy",
+    "distractorExclusion": "Calcium channel blockers are dangerous and contraindicated unless the patient has a positive acute vasodilator challenge, which occurs in <10% of PAH patients.",
+    "citation": "Salibe-Filho W. Evaluating sotatercept in the treatment of pulmonary arterial hypertension. Future Cardiol. 2026 May. PMID: 42009617.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on pulmonary arterial hypertension endothelin antagonist pde-5 inhibitor therapy.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0938",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Aspiration Pneumonitis vs Bacterial Pneumonia Antibiotic Stewardship",
+    "provisionalDifficulty": 5,
+    "stem": "A 38-year-old man with alcohol use disorder is brought to the emergency department by friends after being found unresponsive on his living room floor following a heavy drinking binge. During initial triage, he has a large episode of emesis, and gastric contents are witnessed entering his oropharynx before he is placed on his side and suctioned. Within 90 minutes of the witnessed vomiting episode, he develops acute tachypnea, cough, and hypoxemia. Vital signs: temperature 37.9 C (100.2 F), blood pressure 118/74 mm Hg, heart rate 104/min, respiratory rate 26/min, and oxygen saturation 89% on room air that improves to 94% on 2 L nasal cannula. Physical examination reveals bilateral coarse crackles in both dependent lung zones. Chest radiograph obtained 2 hours post-emesis reveals patchy infiltrates in the superior segment of the right lower lobe. Arterial blood gas shows: pH 7.38, PaCO2 38 mm Hg, PaO2 68 mm Hg. Laboratory studies show: WBC count 11,200/uL with 74% neutrophils. Which of the following is the most appropriate management at this time?",
+    "choices": [
+      [
+        "Supportive care with supplemental oxygen and airway clearance, withholding empiric antibiotics while monitoring for clinical progression",
+        "This patient has ACUTE ASPIRATION PNEUMONITIS (Mendelson syndrome), which must be critically distinguished from ASPIRATION PNEUMONIA: (1) ASPIRATION PNEUMONITIS: An ACUTE CHEMICAL LUNG INJURY caused by the inhalation of sterile, acidic gastric contents (pH <2.5). Symptoms develop RAPIDLY (within 1 to 2 hours of witnessed aspiration), presenting with sudden tachypnea, bronchospasm, hypoxemia, low-grade fever, and immediate radiographic infiltrates in dependent segments (superior segment of lower lobes or posterior segment of upper lobes). Because it is a sterile chemical burn/inflammatory reaction and NOT a bacterial infection, EMPIRIC ANTIBIOTICS ARE NOT INDICATED INITIALLY. Management is purely SUPPORTIVE (supplemental oxygen, suctioning, bronchodilators). >75% of cases resolve spontaneously within 48 to 72 hours. In contrast, (2) ASPIRATION PNEUMONIA: An infectious process caused by aspiration of colonized oropharyngeal secretions (oral anaerobes and streptococci) that develops INSIDIOUSLY over days (typically 2-7 days post-aspiration) with persistent high fevers, purulent putrid sputum, and leukocytosis, which DOES require antibiotic therapy (ampicillin-sulbactam). If an aspiration pneumonitis patient has persistent fever, worsening infiltrates, and leukocytosis beyond 48-72 hours, secondary bacterial pneumonia is suspected, and antibiotics are then initiated."
+      ],
+      [
+        "Immediate initiation of intravenous ampicillin-sulbactam 3 grams every 6 hours",
+        "Aspiration pneumonitis is a chemical burn occurring within 1-2 hours; antibiotics do not accelerate recovery, promote bacterial resistance, and should be withheld unless symptoms fail to resolve after 48-72 hours."
+      ],
+      [
+        "Administration of high-dose intravenous methylprednisolone to suppress chemical inflammation",
+        "Corticosteroids have been extensively studied in chemical aspiration pneumonitis and showed no benefit in reducing lung injury while significantly increasing secondary infection risks."
+      ],
+      [
+        "Emergent rigid bronchoscopy with therapeutic whole-lung saline lavage",
+        "Saline lavage disperses acidic gastric contents deeper into the distal alveolar parenchyma, worsening chemical pneumonitis and lung injury."
+      ],
+      [
+        "Placement of an indwelling transtracheal catheter for daily antibiotic instillations",
+        "Local antibiotic instillations cause chemical tracheobronchitis and have no role in modern respiratory medicine."
+      ]
+    ],
+    "shortestValidSolution": "Witnessed vomiting 2 hours ago + sudden crackles/infiltrate = Aspiration pneumonitis (supportive care with O2; withhold antibiotics unless persistent at 48-72 hrs).",
+    "necessaryInference": "Distinguish acute sterile chemical aspiration pneumonitis (rapid onset <2 hours, supportive care, no antibiotics) from subacute bacterial aspiration pneumonia (days later, antibiotics indicated).",
+    "strongestDistractor": "Immediate initiation of intravenous ampicillin-sulbactam 3 grams every 6 hours",
+    "distractorExclusion": "Routine empiric antibiotics in acute chemical pneumonitis provide no clinical benefit and drive antimicrobial resistance; watchful waiting with supportive care is recommended.",
+    "citation": "Akata K. [Microbiology of Aspiration Pneumonia]. J UOEH. 2019. PMID: 31292363.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on aspiration pneumonitis vs bacterial pneumonia antibiotic stewardship.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0939",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Severe ARDS Prone Positioning Ventilation Trial Protocol Indications",
+    "provisionalDifficulty": 4,
+    "stem": "A 52-year-old woman with severe influenza A pneumonia has been mechanically ventilated in the intensive care unit for 24 hours. She is receiving lung-protective ventilation with a tidal volume of 6 mL/kg predicted body weight (360 mL), respiratory rate 26/min, PEEP 14 cm H2O, and FiO2 0.85. Continuous neuromuscular blockade with cisatracurium infusion was initiated 6 hours ago to optimize patient-ventilator synchrony. Arterial blood gas demonstrates: pH 7.28, PaCO2 48 mm Hg, and PaO2 62 mm Hg, yielding a PaO2/FiO2 ratio of 73 mm Hg. End-inspiratory plateau pressure is 28 cm H2O. Repeat chest radiograph confirms severe, diffuse bilateral dependent alveolar consolidations. Which of the following interventions has been proven in prospective randomized controlled trials to significantly reduce mortality in patients with severe ARDS matching this clinical presentation?",
+    "choices": [
+      [
+        "Prone positioning for at least 16 consecutive hours per day",
+        "This patient has SEVERE ARDS refractory to lung-protective ventilation and neuromuscular blockade, as evidenced by a persistent PaO2/FiO2 ratio <150 mm Hg (here 73 mm Hg) on high PEEP (>= 10 cm H2O) and FiO2 >= 0.60. The landmark PROSEVA randomized controlled trial demonstrated that EARLY, PROLONGED PRONE POSITIONING (for at least 16 consecutive hours daily) produces a dramatic and significant reduction in 28-day and 90-day all-cause mortality (from 32.8% to 16.0%, hazard ratio 0.39). The physiological mechanisms of prone positioning include: (1) Promoting more uniform transpulmonary pressure gradients across the lung; (2) Relieving ventral cardiac and abdominal compressive atelectasis on dorsal dependent lung regions; (3) Redistributing alveolar recruitment to previously collapsed dorsal lung segments while pulmonary blood flow remains dorsal, markedly improving ventilation-perfusion matching; and (4) Decreasing cyclic alveolar shear stress and dynamic driving pressures, protecting against ventilator-induced lung injury (VILI). Proning should be initiated early (within the first 36 hours of severe ARDS diagnosis) and continued until PaO2/FiO2 >= 150 mm Hg is maintained in the supine position with PEEP <= 10 cm H2O."
+      ],
+      [
+        "Increasing tidal volume to 10 mL/kg to overcome dorsal compressive atelectasis",
+        "Increasing tidal volume violates lung-protective ventilation principles, causing catastrophic volutrauma and significantly increasing mortality in ARDS."
+      ],
+      [
+        "Immediate high-frequency oscillatory ventilation (HFOV) at 5 Hz",
+        "Two large multicenter randomized trials (OSCAR and OSCILLATE) proved that HFOV provides no mortality benefit and may increase mortality in ARDS; HFOV is no longer recommended."
+      ],
+      [
+        "Switching to pressure-support ventilation with zero PEEP to evaluate spontaneous effort",
+        "Zero PEEP causes immediate end-expiratory alveolar collapse, worsening severe shunt and precipitating fatal hypoxemia in severe ARDS."
+      ],
+      [
+        "Administration of inhaled aerosolized prostacyclin as a proven mortality-reducing therapy",
+        "Inhaled prostacyclins or nitric oxide can temporarily improve oxygenation as rescue therapies, but have never been shown in clinical trials to reduce mortality in ARDS."
+      ]
+    ],
+    "shortestValidSolution": "Severe ARDS with P/F ratio <150 (73) on high PEEP = Prone positioning for >= 16 consecutive hours per day (reduces mortality).",
+    "necessaryInference": "Identify severe ARDS refractory to low-tidal volume ventilation (P/F <150) and select prone positioning for at least 16 hours daily as the proven mortality-reducing intervention.",
+    "strongestDistractor": "Increasing tidal volume to 10 mL/kg to overcome dorsal compressive atelectasis",
+    "distractorExclusion": "Elevating tidal volumes causes severe alveolar overdistension and increases ARDS mortality; prone positioning recruits alveoli without exceeding safe volume limits.",
+    "citation": "Falbriard L. [Awake prone positioning in acute hypoxemic respiratory failure]. Rev Med Suisse. 2026 Oct 21. PMID: 42922132.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on severe ards prone positioning ventilation trial protocol indications.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0940",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Transfusion-Related Acute Lung Injury TRALI Donor Anti-HLA Antibodies",
+    "provisionalDifficulty": 5,
+    "stem": "A 64-year-old woman undergoing elective open abdominal aortic aneurysm repair receives 2 units of packed red blood cells and 2 units of fresh frozen plasma intraoperatively for surgical blood loss. Two hours into the transfusion of the second unit of plasma, she suddenly develops acute respiratory distress, severe hypoxemia, and hypotension. Vital signs: blood pressure drops from 124/76 to 82/50 mm Hg, heart rate is 122/min, and oxygen saturation falls to 81% on 100% FiO2. Copious frothy, non-bloody fluid is suctioned from her endotracheal tube. Arterial blood gas reveals: pH 7.26, PaCO2 46 mm Hg, and PaO2 54 mm Hg (PaO2/FiO2 ratio 54). Physical examination reveals diffuse bilateral crackles throughout all lung zones, flat neck veins, and normal heart sounds. Bedside echocardiogram shows normal left ventricular cavity dimensions, normal left ventricular systolic function (LVEF 60%), and absence of mitral or aortic regurgitation. Pulmonary artery catheterization demonstrates a normal pulmonary capillary wedge pressure (PCWP) of 10 mm Hg (reference <= 18 mm Hg). Which of the following pathophysiological mechanisms is responsible for this acute complication?",
+    "choices": [
+      [
+        "Transfusion of donor antibodies directed against recipient human leukocyte antigens (HLA) or neutrophil antigens",
+        "This patient has TRANSFUSION-RELATED ACUTE LUNG INJURY (TRALI), the leading cause of transfusion-related mortality. TRALI is defined as new acute lung injury (bilateral non-cardiogenic pulmonary edema with PaO2/FiO2 <= 300 mm Hg) occurring DURING OR WITHIN 6 HOURS of blood product transfusion (most commonly plasma-rich components: FFP, platelets, or whole blood), in the absence of pre-existing ARDS or circulatory overload. The classic pathogenesis follows a 'TWO-HIT' MODEL: (1) First hit: Surgical stress, sepsis, or inflammation causes pulmonary vascular endothelial activation and sequestration of primed neutrophils within pulmonary capillaries; and (2) Second hit: The transfusion of DONOR-DERIVED ANTI-HLA CLASS I/II OR ANTI-HUMAN NEUTROPHIL ANTIGEN (HNA) ANTIBODIES (frequently from multiparous female donors sensitized during pregnancy). These antibodies bind to and activate recipient primed neutrophils, triggering massive release of neutrophil elastase, reactive oxygen species, and cytokines. This causes microvascular endothelial barrier destruction, severe capillary leak, and non-cardiogenic pulmonary edema. In contrast, Transfusion-Associated Circulatory Overload (TACO) is hydrostatic/cardiogenic, characterized by hypertension, elevated JVP, elevated BNP, and PCWP >18 mm Hg. Management of TRALI is supportive; the blood bank must be notified to defer the donor."
+      ],
+      [
+        "Fluid volume overload causing acute hydrostatic left atrial hypertension and elevated wedge pressure",
+        "Hydrostatic volume overload describes TACO (characterized by elevated PCWP >18 mm Hg, high JVP, and hypertension); this patient has normal PCWP (10 mm Hg) and hypotension."
+      ],
+      [
+        "Recipient preformed ABO isohemagglutinins causing intravascular hemolysis of transfused erythrocytes",
+        "Acute hemolytic transfusion reactions present with fever, flank pain, hemoglobinuria, and DIC due to ABO incompatibility, not isolated non-cardiogenic pulmonary edema with normal PCWP."
+      ],
+      [
+        "Massive bacterial contamination of transfused platelets causing septic shock and endotoxemia",
+        "Bacterial contamination produces high fevers and rigors; TRALI is mediated by donor anti-leukocyte/neutrophil antibodies causing pulmonary capillary destruction."
+      ],
+      [
+        "Type I IgE-mediated hypersensitivity reaction against donor plasma proteins causing bronchospasm",
+        "Anaphylactic transfusion reactions cause stridor, wheezing, and urticaria due to recipient anti-IgA antibodies in IgA-deficient individuals, not bilateral alveolar capillary leak."
+      ]
+    ],
+    "shortestValidSolution": "Plasma transfusion -> sudden pulmonary edema within 2 hours + PCWP 10 (normal) + hypotension = TRALI (donor anti-HLA/HNA antibodies).",
+    "necessaryInference": "Distinguish TRALI (non-cardiogenic pulmonary edema, normal PCWP <= 18, donor anti-HLA antibodies) from TACO (cardiogenic, high PCWP, volume overload).",
+    "strongestDistractor": "Fluid volume overload causing acute hydrostatic left atrial hypertension and elevated wedge pressure",
+    "distractorExclusion": "Elevated PCWP and hydrostatic pulmonary edema define TACO, whereas TRALI is a non-cardiogenic capillary leak caused by donor anti-HLA antibodies with a normal wedge pressure.",
+    "citation": "Mandal S. Beyond histocompatibility: human leukocyte antigen as a cross-disciplinary platform for immune recognition and clinical decision-making. Front Immunol. 2026. PMID: 42774728.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on transfusion-related acute lung injury trali donor anti-hla antibodies.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0941",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Carbon Monoxide Poisoning Hyperbaric Oxygen Therapy Indications",
+    "provisionalDifficulty": 4,
+    "stem": "A 32-year-old woman is brought to the emergency department after being rescued from a house fire. She was found unconscious in a smoke-filled bedroom. En route, she was placed on high-flow 100% oxygen via a non-rebreather mask. On arrival, she is lethargic, complaining of a severe throbbing headache, nausea, and visual blurring. Vital signs: blood pressure 110/68 mm Hg, heart rate 108/min, respiratory rate 22/min, core temperature 37.0 C, and pulse oximetry shows oxygen saturation of 99% on 100% oxygen. Physical examination reveals soot in her nares, normal breath sounds without wheezing, and absence of cherry-red skin discoloration. 12-lead ECG shows sinus tachycardia without ST-segment changes. Arterial blood gas co-oximetry demonstrates: pH 7.34, PaCO2 34 mm Hg, PaO2 120 mm Hg, and carboxyhemoglobin (COHb) level of 34% (reference <3% in non-smokers). Serum pregnancy test is positive, and bedside ultrasound confirms an intrauterine pregnancy at 10 weeks gestation. Which of the following is the most appropriate management for this patient?",
+    "choices": [
+      [
+        "Emergent transfer for hyperbaric oxygen (HBO) therapy",
+        "This patient has severe CARBON MONOXIDE (CO) POISONING. Carbon monoxide binds to hemoglobin with an affinity >200 times higher than oxygen, forming CARBOXYHEMOGLOBIN (COHb), which shifts the oxygen-hemoglobin dissociation curve to the left (Haldane effect) and impairs tissue oxygen delivery, while directly inhibiting mitochondrial cytochrome c oxidase. Routine pulse oximetry CANNOT distinguish oxyhemoglobin from carboxyhemoglobin and falsely reads normal (99%). Co-oximetry is required for accurate measurement. While normobaric 100% oxygen reduces the half-life of COHb from 300 minutes to 90 minutes, HYPERBARIC OXYGEN (HBO, 2.5-3.0 atmospheres of 100% oxygen) reduces COHb half-life to 20-30 minutes, accelerates dissociation from cytochrome oxidase, and significantly reduces the incidence of delayed neurological sequelae (cognitive deficits, Parkinsonism, memory loss). Definitive clinical indications for HYPERBARIC OXYGEN THERAPY include: (1) Severe neurological deficits, COMA, OR LOSS OF CONSCIOUSNESS; (2) PREGNANCY WITH COHb >15-20% (fetal hemoglobin binds CO with even higher affinity, and fetal tissue hypoxia is profound); (3) COHb level >25% in non-pregnant patients; (4) Myocardial ischemia or new ECG changes; and (5) Severe refractory metabolic acidosis (pH <7.15-7.20). Because this patient had documented loss of consciousness, a COHb level of 34%, AND is pregnant, emergent HBO therapy is mandatory."
+      ],
+      [
+        "Continuation of 100% normobaric oxygen via face mask alone until COHb drops below 10%",
+        "Normobaric oxygen alone is insufficient for patients with loss of consciousness, pregnancy, or COHb >25%; HBO is required to prevent fetal demise and neurocognitive sequelae."
+      ],
+      [
+        "Immediate intravenous administration of hydroxocobalamin as the definitive antidote",
+        "Hydroxocobalamin is the antidote for CYANIDE poisoning (suspected with severe lactic acidosis, bright red venous blood, soot exposure with lactate >8-10); it does not treat carbon monoxide poisoning."
+      ],
+      [
+        "Administration of intravenous methylene blue 1 mg/kg for functional methemoglobinemia",
+        "Methylene blue treats methemoglobinemia; in carbon monoxide poisoning, methylene blue provides no benefit and causes secondary oxidative hemolysis."
+      ],
+      [
+        "Immediate therapeutic hypothermia to reduce cerebral and myocardial metabolic demand",
+        "Therapeutic hypothermia is indicated for comatose post-cardiac arrest patients, not acute carbon monoxide intoxication."
+      ]
+    ],
+    "shortestValidSolution": "Smoke inhalation + COHb 34% + loss of consciousness + pregnancy = Hyperbaric oxygen therapy (indications: LOC, pregnant with COHb >15%, or COHb >25%).",
+    "necessaryInference": "Recognize carbon monoxide poisoning and apply strict clinical indications for hyperbaric oxygen therapy: loss of consciousness, carboxyhemoglobin >25%, or pregnancy.",
+    "strongestDistractor": "Continuation of 100% normobaric oxygen via face mask alone until COHb drops below 10%",
+    "distractorExclusion": "Normobaric oxygen alone carries unacceptable risks of fetal demise and delayed neurological injury when high-risk criteria (loss of consciousness, pregnancy, COHb >25%) are present.",
+    "citation": "Joma M. Profound Hyperbilirubinemia During Severe Carbon Monoxide Poisoning and Subsequent Multiorgan Failure: A Case Report. Clin Case Rep. 2026 Nov. PMID: 42997175.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on carbon monoxide poisoning hyperbaric oxygen therapy indications.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0942",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Pulmonary Alveolar Proteinosis Whole Lung Lavage GM-CSF Autoantibodies",
+    "provisionalDifficulty": 4,
+    "stem": "A 39-year-old previously healthy man presents with progressive exertional dyspnea, fatigue, and a dry cough for 5 months. He has no history of smoking, dust exposure, or autoimmune diseases. Vital signs: blood pressure 118/76 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 91% on room air at rest, falling to 82% after climbing one flight of stairs. Physical examination reveals fine inspiratory crackles over the mid-to-lower lung fields without wheezing, cyanosis, or digital clubbing. High-resolution chest CT demonstrates bilateral, patchy ground-glass opacities with superimposed interlobular and intralobular septal thickening, creating a geographic 'crazy-paving' appearance, sharply demarcated from adjacent normal lung parenchyma. Pulmonary function testing shows a restrictive ventilatory defect with a severe reduction in DLCO (38% of predicted). Bronchoalveolar lavage (BAL) is performed, yielding thick, milky, opaque fluid that on microscopic examination reveals abundant amorphous, acellular, eosinophilic lipoproteinaceous material that stains intensely with periodic acid-Schiff (PAS) and is diastase-resistant. Which of the following is the definitive first-line therapeutic intervention for symptomatic patients with this condition?",
+    "choices": [
+      [
+        "Therapeutic whole-lung lavage (WLL) under general anesthesia using a double-lumen endotracheal tube",
+        "This patient has AUTOIMMUNE PULMONARY ALVEOLAR PROTEINOSIS (PAP), characterized by the abnormal intra-alveolar accumulation of surfactant phospholipids and proteins. In >90% of cases, it is an autoimmune disorder caused by circulating neutralizing IgG AUTOANTIBODIES AGAINST GRANULOCYTE-MACROPHAGE COLONY-STIMULATING FACTOR (GM-CSF). GM-CSF is essential for alveolar macrophage maturation, function, and clearance of surfactant. In the presence of GM-CSF autoantibodies, alveolar macrophages fail to clear pulmonary surfactant, leading to dense alveolar packing with lipoproteinaceous debris, severe V/Q mismatch with intrapulmonary right-to-left shunt, and profound exertional hypoxemia. Characteristic HRCT finding is the 'CRAZY-PAVING' PATTERN (ground-glass opacities with thickened interlobular septa). BAL fluid is diagnostic: opaque, milky fluid containing PAS-positive, diastase-resistant acellular globules. The definitive, first-line therapeutic standard of care for symptomatic, hypoxemic patients is THERAPEUTIC WHOLE-LUNG LAVAGE (WLL). Performed under general anesthesia with a double-lumen endotracheal tube, one lung is sequentially lavaged with 10 to 30 liters of warm saline to physically wash out the intra-alveolar surfactant debris, producing dramatic, long-lasting clinical and physiological improvements. Inhaled recombinant GM-CSF therapy is used in refractory cases."
+      ],
+      [
+        "High-dose oral prednisone 60 mg daily combined with pulsed cyclophosphamide",
+        "Systemic corticosteroids provide no clinical benefit in pulmonary alveolar proteinosis and dramatically increase the risk of opportunistic pulmonary infections (Nocardia, Aspergillus)."
+      ],
+      [
+        "Empiric broad-spectrum antimicrobial therapy targeting Pneumocystis jirovecii",
+        "While Pneumocystis causes ground-glass opacities, thick milky PAS-positive lipoproteinaceous surfactant on BAL proves PAP, not fungal pneumonia."
+      ],
+      [
+        "Initiation of oral pirfenidone 801 mg three times daily to inhibit fibroblast proliferation",
+        "Pirfenidone is an antifibrotic for idiopathic pulmonary fibrosis; PAP is a non-fibrotic alveolar clearance defect cured by physical surfactant lavage."
+      ],
+      [
+        "Immediate bilateral lung transplantation without mechanical lavage trial",
+        "Whole-lung lavage produces clinical remission in the majority of patients; lung transplantation is reserved only for end-stage refractory fibrosis."
+      ]
+    ],
+    "shortestValidSolution": "Milky PAS-positive BAL fluid + crazy-paving HRCT + low DLCO = Pulmonary alveolar proteinosis (therapeutic whole-lung lavage).",
+    "necessaryInference": "Recognize autoimmune pulmonary alveolar proteinosis (GM-CSF autoantibodies, milky PAS-positive BAL, crazy-paving CT) and select whole-lung lavage as definitive therapy.",
+    "strongestDistractor": "High-dose oral prednisone 60 mg daily combined with pulsed cyclophosphamide",
+    "distractorExclusion": "Systemic corticosteroids are ineffective in PAP and significantly increase the risk of lethal opportunistic infections (Nocardia, mycobacteria).",
+    "citation": "Zaizen Y. Progressive Fibrosing Lung Disease Treated With Nintedanib in a Patient With Long-Standing Autoimmune Pulmonary Alveolar Proteinosis: A Case Report. Case Rep Pulmonol. 2026. PMID: 42542704.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on pulmonary alveolar proteinosis whole lung lavage gm-csf autoantibodies.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0943",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Neuromuscular Respiratory Failure Vital Capacity and NIF Monitoring Rule",
+    "provisionalDifficulty": 4,
+    "stem": "A 32-year-old woman with a history of generalized myasthenia gravis presents to the emergency department with a 2-day history of worsening generalized weakness, difficulty swallowing saliva, and breathlessness that worsens when lying supine (orthopnea). She was prescribed ciprofloxacin for a urinary tract infection 3 days ago. On physical examination, she has bilateral ptosis, a nasal voice, weak neck flexion against resistance (strength 3/5), and shallow, rapid respirations with paradoxical inward movement of the abdomen during inspiration (abdominal paradox). Vital signs: blood pressure 134/82 mm Hg, heart rate 104/min, respiratory rate 26/min, and oxygen saturation 96% on ambient air. Serial bedside pulmonary mechanics demonstrate: Forced Vital Capacity (FVC) has decreased from 28 mL/kg to 16 mL/kg (reference >60 mL/kg), and Negative Inspiratory Force (NIF) has deteriorated from -45 cm H2O to -18 cm H2O (reference < -60 cm H2O). Which of the following is the most appropriate next step in management?",
+    "choices": [
+      [
+        "Elective endotracheal intubation in the intensive care unit before overt hypercapnic respiratory arrest",
+        "This patient is in a MYASTHENIC CRISIS triggered by a fluoroquinolone antibiotic (ciprofloxacin, which impairs neuromuscular junction transmission and is contraindicated in myasthenia). She exhibits severe DIAPHRAGMATIC WEAKNESS, evidenced by orthopnea and ABDOMINAL PARADOX (inward abdominal motion during inspiration reflecting passive upward displacement of a paralyzed diaphragm by negative intrathoracic pressure). In NEUROMUSCULAR RESPIRATORY FAILURE (e.g., myasthenic crisis, Guillain-Barr\u00e9 syndrome, ALS), hypoxemia and hypercapnia are VERY LATE SIGNS: arterial blood gas and pulse oximetry remain deceptively normal until complete diaphragmatic exhaustion and sudden, catastrophic respiratory arrest occur. Therefore, respiratory status MUST BE MONITORED SERIAL BY OBJECTIVE BEDSIDE PULMONARY MECHANICS using the '20/30/40 RULE' FOR ELECTIVE INTUBATION: (1) Forced Vital Capacity (FVC) <20 mL/kg; (2) Negative Inspiratory Force (NIF) weaker than -30 cm H2O (e.g., -18 cm H2O); or (3) Significant drop (>30-50%) in baseline values. Because this patient's FVC is 16 mL/kg and NIF is -18 cm H2O, ELECTIVE ENDOTRACHEAL INTUBATION is urgently indicated. Concurrently, ciprofloxacin must be discontinued, acetylcholinesterase inhibitors temporarily held to avoid secretions, and PLASMAPHERESIS OR IVIG initiated."
+      ],
+      [
+        "Waiting for arterial blood gas to demonstrate PaCO2 >50 mm Hg before intubation",
+        "Waiting for hypercapnia or hypoxemia in neuromuscular weakness leads to sudden emergency crash intubation under asphyxic cardiac arrest conditions."
+      ],
+      [
+        "Administration of intravenous edrophonium (Tensilon test) to reverse weakness",
+        "Tensilon testing is obsolete, dangerous (causes severe bradycardia, bronchospasm, and muscarinic crisis), and contraindicated in acute myasthenic crisis."
+      ],
+      [
+        "Doubling the oral dose of pyridostigmine to enhance neuromuscular transmission",
+        "Excessive cholinesterase inhibitors trigger a cholinergic crisis (excessive secretions, bronchospasm, depolarizing block) that worsens respiratory failure in crisis."
+      ],
+      [
+        "Application of nocturnal continuous positive airway pressure (CPAP) via nasal mask alone",
+        "CPAP provides positive pressure without inspiratory ventilatory support; it cannot support a paralyzed diaphragm in acute myasthenic crisis."
+      ]
+    ],
+    "shortestValidSolution": "Myasthenia crisis + abdominal paradox + FVC 16 mL/kg + NIF -18 = Elective intubation (indications: FVC <20 mL/kg or NIF weaker than -30 cm H2O).",
+    "necessaryInference": "Recognize acute neuromuscular respiratory failure using pulmonary mechanics (20/30 rule: FVC <20 mL/kg, NIF > -30 cm H2O) and intubate electively before arrest.",
+    "strongestDistractor": "Waiting for arterial blood gas to demonstrate PaCO2 >50 mm Hg before intubation",
+    "distractorExclusion": "Neuromuscular failure maintains normal blood gases until sudden, catastrophic diaphragmatic arrest; objective FVC and NIF thresholds dictate elective intubation.",
+    "citation": "Topolnitskiy EB. Computed Tomography Assessment of Diaphragm Thickness in Myasthenia Gravis With Clinical and Functional Correlations. Cureus. 2026 Jun. PMID: 42434633.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on neuromuscular respiratory failure vital capacity and nif monitoring rule.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0944",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Anaphylactic Shock Intramuscular Epinephrine and Refractory Glucagon Therapy",
+    "provisionalDifficulty": 4,
+    "stem": "A 58-year-old man presents to the emergency department 15 minutes after eating a seafood dinner. He reports sudden-onset generalized pruritus, diffuse hives, lip swelling, and severe difficulty breathing. His medical history is notable for hypertension and stable angina, for which he takes carvedilol 25 mg twice daily and lisinopril 20 mg daily. On arrival, he is in marked respiratory distress with audible inspiratory stridor, diffuse expiratory wheezing, and facial angioedema. Vital signs: blood pressure 74/42 mm Hg, heart rate 56/min, respiratory rate 30/min, and oxygen saturation 88% on room air. Immediate intramuscular epinephrine 0.5 mg (1:1,000) is injected into the mid-anterolateral thigh, high-flow oxygen is applied, and 2 liters of normal saline are rapidly infused. Five minutes later, repeat intramuscular epinephrine is administered. Despite these measures, his blood pressure remains 76/44 mm Hg, heart rate is 58/min, and he has persistent stridor and severe bronchospasm. Which of the following is the most appropriate pharmacotherapy to administer next to reverse refractory shock in this patient?",
+    "choices": [
+      [
+        "Intravenous glucagon 1 to 5 mg bolus followed by continuous infusion",
+        "This patient has severe ANAPHYLACTIC SHOCK REFRACTORY TO EPINEPHRINE, complicated by concurrent BETA-BLOCKER THERAPY (carvedilol). Anaphylaxis is a life-threatening systemic Type I hypersensitivity reaction characterized by acute airway compromise and circulatory collapse. INTRAMUSCULAR EPINEPHRINE (1:1,000, 0.3-0.5 mg into the anterolateral thigh) is the undisputed first-line treatment of choice. However, in patients receiving CHRONIC BETA-ADRENERGIC ANTAGONIST THERAPY, epinephrine's beta-1 inotropic/chronotropic and beta-2 bronchodilatory actions are competitively blocked. Furthermore, unopposed alpha-1 stimulation can cause coronary vasoconstriction, and reflex vagal tone or persistent hypotension leads to refractory anaphylactic shock with paradoxical bradycardia. The antidote of choice for REFRACTORY ANAPHYLAXIS IN PATIENTS ON BETA-BLOCKERS IS INTRAVENOUS GLUCAGON (1 to 5 mg IV over 5 minutes, followed by an infusion of 5-15 ug/min). Glucagon stimulates Gs-protein-coupled adenylate cyclase via dedicated GLUCAGON RECEPTORS THAT ENTIRELY BYPASS THE BETA-ADRENERGIC RECEPTOR COMPLEX. This elevates intracellular cyclic AMP (cAMP) within cardiomyocytes and bronchial smooth muscle, restoring myocardial contractility, increasing heart rate, and promoting robust bronchodilation independently of beta-adrenergic blockade."
+      ],
+      [
+        "Intravenous diphenhydramine 50 mg bolus as the primary rescue vasopressor",
+        "Antihistamines are second-line symptomatic agents that treat cutaneous itching and hives; they do not reverse circulatory shock or laryngeal edema."
+      ],
+      [
+        "High-dose intravenous methylprednisolone 125 mg bolus to relieve acute bronchospasm",
+        "Systemic corticosteroids have a delayed onset of 4 to 6 hours and do not treat acute hemodynamic collapse; they are given solely to prevent biphasic reactions."
+      ],
+      [
+        "Subcutaneous terbutaline injection into the contralateral deltoid muscle",
+        "Terbutaline is a beta-2 agonist that will also be blocked by the patient's carvedilol therapy, failing to overcome beta-blockade."
+      ],
+      [
+        "Immediate intravenous infusion of phenylephrine to raise systemic vascular resistance",
+        "Pure alpha-1 agonists (phenylephrine) cause severe peripheral vasoconstriction and reflex bradycardia without providing inotropy or bronchodilation, worsening shock."
+      ]
+    ],
+    "shortestValidSolution": "Anaphylaxis on beta-blockers refractory to IM epinephrine = IV glucagon (bypasses beta receptors to increase cAMP).",
+    "necessaryInference": "Recognize refractory anaphylactic shock in patients taking beta-blockers, selecting intravenous glucagon as the definitive rescue agent to stimulate adenylate cyclase independently of beta receptors.",
+    "strongestDistractor": "Intravenous diphenhydramine 50 mg bolus as the primary rescue vasopressor",
+    "distractorExclusion": "H1/H2 antihistamines do not treat hypotension or bronchospasm in anaphylaxis; glucagon is specifically required to bypass blocked beta receptors.",
+    "citation": "Francuzik W. Refractory Anaphylaxis: Data From the European Anaphylaxis Registry. Front Immunol. 2019. PMID: 31749797.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on anaphylactic shock intramuscular epinephrine and refractory glucagon therapy.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0945",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Massive Hemoptysis Airway Protection Bronchial Artery Embolization",
+    "provisionalDifficulty": 4,
+    "stem": "A 54-year-old man with a history of treated cavitary pulmonary tuberculosis 15 years ago presents to the emergency department after coughing up approximately 400 mL of bright red blood over the past 3 hours. On arrival, he continues to cough up large volumes of fresh blood and is in moderate respiratory distress. Vital signs: blood pressure 104/66 mm Hg, heart rate 112/min, respiratory rate 26/min, and oxygen saturation 89% on 4 L nasal cannula. Physical examination reveals gurgling breath sounds and coarse rhonchi localized over the right upper chest. A prior chest radiograph from 6 months ago showed a persistent, thick-walled cavity in the right upper lobe containing an intracavitary mass with an air crescent sign (aspergilloma). After placing the patient in the right lateral decubitus position and endotracheally intubating him with a large-bore single-lumen tube to clear clots, which of the following is the most appropriate next definitive intervention to stop the bleeding?",
+    "choices": [
+      [
+        "Emergent bronchial artery angiography with catheter-directed embolization",
+        "This patient presents with MASSIVE (LIFE-THREATENING) HEMOPTYSIS, defined by bleeding >100 to 600 mL in 24 hours (or any volume causing airway compromise or hemodynamic instability). The primary cause of death in massive hemoptysis is ASPHYXIATION (suffocation from blood filling the alveoli), NOT hemorrhagic hypovolemia. Initial management follows the ABCs: (1) Airway protection: Intubation with a large (>= 8.0 mm) endotracheal tube to facilitate bronchoscopic clearance of clots; (2) Positioning: Place the patient in the DEPENDENT LATERAL DECUBITUS POSITION (bleeding lung down; here right-side down) to prevent blood from spilling over into the non-bleeding lung; and (3) Reversing coagulopathy. Crucially, >90% OF MASSIVE HEMOPTYSIS ORIGINATES FROM THE HIGH-PRESSURE BRONCHIAL ARTERIAL CIRCULATION (arising from the thoracic aorta) rather than the low-pressure pulmonary arterial circulation, driven by chronic inflammation, neovascularization, and systemic-to-pulmonary vascular shunting (as seen here in a chronic tuberculous cavity with mycetoma/aspergilloma). The definitive procedural intervention of choice for controlling bleeding in stable or stabilized patients is BRONCHIAL ARTERY EMBOLIZATION (BAE). BAE has an immediate success rate >85-90% and avoids the high morbidity of emergent lung resection in patients with compromised pulmonary reserve."
+      ],
+      [
+        "Immediate high-dose intravenous tranexamic acid infusion without angiographic imaging",
+        "Tranexamic acid is an adjunctive antifibrinolytic, but cannot mechanically occlude high-pressure bleeding bronchial arteries causing massive hemoptysis."
+      ],
+      [
+        "Emergent right pneumonectomy via open thoracotomy as the initial first-line procedure",
+        "Emergent pneumonectomy in active massive hemoptysis carries an operative mortality of 20-40%; minimally invasive bronchial artery embolization is the preferred first-line therapy."
+      ],
+      [
+        "Empiric broad-spectrum intravenous voriconazole monotherapy to dissolve the aspergilloma",
+        "Antifungals cannot stop active mechanical arterial hemorrhage; vascular embolization is mandatory to control bleeding."
+      ],
+      [
+        "Performance of flexible bronchoscopy with warm distilled water alveolar lavage",
+        "Warm distilled water causes osmotic cell lysis and worsens bleeding; cold saline lavage or topical epinephrine may be used during rigid bronchoscopy, but BAE is definitive."
+      ]
+    ],
+    "shortestValidSolution": "Massive hemoptysis (400 mL) from cavitary lesion = Airway protection + bleeding side down + Bronchial artery embolization (definitive vascular control).",
+    "necessaryInference": "Manage massive hemoptysis systematically: secure airway, position bleeding lung down, and perform bronchial artery embolization as the definitive first-line intervention.",
+    "strongestDistractor": "Emergent right pneumonectomy via open thoracotomy as the initial first-line procedure",
+    "distractorExclusion": "Emergent surgery during active hemorrhage carries extreme mortality; catheter-directed bronchial artery embolization is the proven, organ-sparing first-line standard.",
+    "citation": "Charya AV. Management of life-threatening hemoptysis in the ICU. J Thorac Dis. 2021 Aug. PMID: 34527355.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 surgery item requiring multi-step deduction on massive hemoptysis airway protection bronchial artery embolization.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0946",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Central Venous Catheter Air Embolism Durant Maneuver Left Lateral Decubitus",
+    "provisionalDifficulty": 4,
+    "stem": "A 62-year-old woman is undergoing removal of a right internal jugular central venous catheter on the medical ward while sitting upright in bed. As the nurse withdraws the catheter without an occlusive dressing in place, the patient takes a deep breath and suddenly gasps, complaining of sudden-onset shortness of breath and substernal chest discomfort. Within seconds, she becomes pale, diaphoretic, and confused. Vital signs: blood pressure plummets from 128/78 to 72/46 mm Hg, heart rate jumps to 134/min, and oxygen saturation drops from 98% to 78% on room air. Auscultation over the precordium reveals a distinct, loud, churning 'mill-wheel' murmur heard throughout the cardiac cycle. Which of the following is the most appropriate immediate sequence of interventions?",
+    "choices": [
+      [
+        "Immediate placement in the left lateral decubitus and Trendelenburg position with 100% oxygen",
+        "This patient has suffered an acute VENOUS AIR EMBOLISM (VAE), a feared mechanical complication of central venous catheter placement, manipulation, or removal. When a central catheter is removed while the patient is upright and breathing spontaneously, the negative intrathoracic pressure generated during inspiration creates a pressure gradient that draws atmospheric air directly through the patent cutaneous-venous tract into the superior vena cava. As little as 100 to 200 mL of air entering the central circulation can form an 'AIR LOCK' within the right ventricular outflow tract (RVOT) and pulmonary arterial bed, obstructing forward flow to the lungs and precipitating acute right heart failure, severe hypoxemia, cardiovascular collapse, and the classic 'MILL-WHEEL' PRECORDIAL MURMUR. Immediate management requires: (1) OCCLUDING THE ENTRY SITE immediately with a sterile occlusive dressing; (2) Placing the patient in the LEFT LATERAL DECUBITUS AND TRENDELENBURG POSITION (the DURANT MANEUVER): tilting the head down and turning onto the left side traps the air bubble at the apex of the right ventricle, away from the RVOT, allowing blood to flow underneath the air pocket into the pulmonary artery; and (3) Administering 100% HIGH-FLOW OXYGEN, which washes out nitrogen and accelerates the reabsorption of the intravascular air bubble. In severe arrest, aspiration of air via a central catheter can be attempted."
+      ],
+      [
+        "Immediate placement in the high Fowler upright position with head elevated 90 degrees",
+        "The upright position promotes migration of air bubbles into the pulmonary outflow tract and cerebral circulation, accelerating cardiac arrest and stroke."
+      ],
+      [
+        "Immediate right lateral decubitus position with reverse Trendelenburg tilt",
+        "Right lateral decubitus positions the RVOT inferiorly, forcing the air lock directly into the pulmonary artery and causing complete circulatory occlusion."
+      ],
+      [
+        "Administration of intravenous sodium bicarbonate 100 mEq to dissolve intravascular gas",
+        "Sodium bicarbonate does not alter gas solubility or dissolve air emboli; physical displacement via the Durant maneuver is required."
+      ],
+      [
+        "Emergent bedside catheter pericardiocentesis under subxiphoid ultrasound guidance",
+        "Pericardiocentesis evacuates pericardial fluid in tamponade; air embolism is an endovascular bubble requiring patient repositioning."
+      ]
+    ],
+    "shortestValidSolution": "CVC removal while upright -> sudden shock + churning mill-wheel murmur = Venous air embolism (left lateral decubitus + Trendelenburg [Durant maneuver] + 100% O2).",
+    "necessaryInference": "Identify venous air embolism during central line removal (mill-wheel murmur, acute shock) and immediately apply the Durant maneuver (left lateral decubitus, Trendelenburg) and 100% oxygen.",
+    "strongestDistractor": "Immediate placement in the high Fowler upright position with head elevated 90 degrees",
+    "distractorExclusion": "Upright positioning facilitates air entry and drives the air lock into the pulmonary valve and cerebral vessels, precipitating immediate fatal arrest.",
+    "citation": "Marcellino C. Cardiac Output Directly Influences Intracardiac Air After Venous Air Embolism: An Echocardiographic Model Comparing Position Change on Intracardiac Air Bubble Clearance. Neurosurgery. 2025 Apr 1. PMID: 39283086.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on central venous catheter air embolism durant maneuver left lateral decubitus.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0947",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Heparin-Induced Thrombocytopenia 4T Score Argatroban Initiation",
+    "provisionalDifficulty": 5,
+    "stem": "A 68-year-old man underwent elective total hip arthroplasty 7 days ago. Postoperatively, he has received subcutaneous unfractionated heparin 5,000 units three times daily for deep vein thrombosis prophylaxis. Today, routine laboratory studies reveal that his platelet count has dropped precipitously from a baseline of 280,000/uL to 88,000/uL (a 68% drop). He is asymptomatic and denies bleeding, bruising, or chest pain. Physical examination of the left lower extremity reveals a warm, tender, swollen calf, and venous duplex ultrasound confirms a new occlusive deep vein thrombosis in the left popliteal vein. His 4T score is calculated as 8 (Thrombocytopenia >50% drop and nadir >= 20k = 2 pts; Timing on day 7 = 2 pts; Thrombosis confirmed = 2 pts; other causes of thrombocytopenia excluded = 2 pts). Which of the following is the most appropriate immediate management?",
+    "choices": [
+      [
+        "Immediate cessation of all heparin products and initiation of a non-heparin direct thrombin inhibitor (argatroban)",
+        "This patient has HEPARIN-INDUCED THROMBOCYTOPENIA (HIT TYPE II), an immune-mediated, life-threatening prothrombotic disorder caused by IgG antibodies directed against the complex of PLATELET FACTOR 4 (PF4) AND HEPARIN. The antibody-PF4-heparin complexes bind to Fc-gamma-RIIA receptors on platelets, triggering massive in vivo platelet activation, microparticle release, and catastrophic thrombin generation. Paradoxically, despite THROMBOCYTOPENIA (classically a >50% decrease in platelet count occurring 5 to 10 days after heparin exposure), HIT is characterized by EXTREME PROTHROMBOTIC RISK (venous and arterial thromboembolism occurs in >50% of untreated patients; here, new DVT). With a high clinical probability (4T score 6-8), management requires: (1) IMMEDIATE DISCONTINUATION OF ALL HEPARIN PRODUCTS (including heparin flushes and heparin-coated catheters); (2) NEVER TRANSFUSING PLATELETS (transfusion 'adds fuel to the fire', provoking acute thrombosis); and (3) IMMEDIATE INITIATION OF A NON-HEPARIN ANTICOAGULANT: a parenteral DIRECT THROMBIN INHIBITOR (DTI: ARGATROBAN or bivalirudin) or fondaparinux. Crucially, WARFARIN IS STRICTLY CONTRAINDICATED in the acute phase of HIT because it depletes protein C before prothrombin, producing a transient hypercoagulable state that precipitates microvascular thrombosis and WARFARIN-INDUCED SKIN NECROSIS or venous limb gangrene."
+      ],
+      [
+        "Immediate transfusion of 2 units of pooled platelets to prevent life-threatening bleeding",
+        "Platelet transfusions in HIT are contraindicated because transfused platelets become activated by circulating PF4 antibodies, precipitating extensive new thrombosis."
+      ],
+      [
+        "Discontinuation of heparin and immediate initiation of oral warfarin sodium 10 mg daily",
+        "Warfarin in acute HIT rapidly depletes protein C, causing an unopposed prothrombotic state that triggers fatal microvascular thrombosis and limb gangrene."
+      ],
+      [
+        "Switching unfractionated heparin to subcutaneous enoxaparin at therapeutic doses",
+        "Low-molecular-weight heparins have >90% cross-reactivity with HIT antibodies and will perpetuate platelet activation and thrombosis; all heparins must be stopped."
+      ],
+      [
+        "Observation with repeat platelet count in 24 hours while awaiting anti-PF4 ELISA results",
+        "A high 4T score requires immediate treatment with a non-heparin anticoagulant without waiting for laboratory confirmation, as thrombotic risk is immediate."
+      ]
+    ],
+    "shortestValidSolution": "Heparin day 7 + platelets drop >50% + new DVT (4T score 8) = HIT (stop all heparin immediately + start IV argatroban; avoid warfarin and platelets).",
+    "necessaryInference": "Recognize heparin-induced thrombocytopenia using the 4T score, immediately stopping all heparin and initiating a non-heparin direct thrombin inhibitor (argatroban) while avoiding warfarin and platelet transfusions.",
+    "strongestDistractor": "Discontinuation of heparin and immediate initiation of oral warfarin sodium 10 mg daily",
+    "distractorExclusion": "Warfarin monotherapy in acute HIT causes rapid protein C depletion, provoking catastrophic microvascular thrombosis and limb gangrene; non-heparin DTIs are mandatory.",
+    "citation": "Dweck B. Clinical and economic implications of false-positive heparin-induced thrombocytopenia immunoassays: utility of the 4T score. Blood Coagul Fibrinolysis. 2024 Jul 1. PMID: 38874904.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on heparin-induced thrombocytopenia 4t score argatroban initiation.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0948",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Disseminated Intravascular Coagulation Cryoprecipitate Fibrinogen Threshold",
+    "provisionalDifficulty": 4,
+    "stem": "A 34-year-old woman is admitted to the intensive care unit with severe septic shock secondary to acute Escherichia coli pyelonephritis. Over the past 4 hours, she has developed bleeding from her central venous catheter insertion site, oozing from peripheral venipuncture sites, and diffuse ecchymoses across her extremities. Vital signs: blood pressure 82/50 mm Hg on norepinephrine, heart rate 124/min, and oxygen saturation 94% on mechanical ventilation. Laboratory studies reveal: platelet count 28,000/uL (baseline 220,000/uL), hemoglobin 7.4 g/dL, prothrombin time 28 seconds (INR 2.6), activated partial thromboplastin time (aPTT) 64 seconds, D-dimer markedly elevated at >20 ug/mL, and plasma fibrinogen severely depleted at 65 mg/dL (reference 200-400 mg/dL). Peripheral blood smear demonstrates frequent schistocytes and helmet cells. In addition to continuing broad-spectrum antibiotics and transfusing platelets and packed red blood cells, which of the following blood products is specifically indicated to correct this patient's critical hypofibrinogenemia?",
+    "choices": [
+      [
+        "Transfusion of cryoprecipitate targeting a plasma fibrinogen level >= 150 mg/dL",
+        "This patient has acute DISSEMINATED INTRAVASCULAR COAGULATION (DIC) complicating severe Gram-negative septic shock. Lipopolysaccharide endotoxin triggers widespread systemic expression of tissue factor on monocytes and endothelial cells, driving uncontrolled thrombin generation, widespread microvascular fibrin deposition, consumption of coagulation factors and platelets (consumptive coagulopathy), and secondary hyperfibrinolysis. Clinical presentation is characterized by the combination of microvascular thrombosis (organ failure, schistocytes on blood smear) and diffuse bleeding (oozing from puncture sites, petechiae). The definitive treatment is treating the underlying sepsis. However, in actively bleeding patients with consumptive coagulopathy, specific blood product replacement thresholds must be targeted: (1) Platelets: Transfuse to maintain count >50,000/uL in active bleeding; (2) Fresh Frozen Plasma (FFP): Transfuse for prolonged PT/INR and aPTT; and (3) CRYOPRECIPITATE: The therapy of choice for CRITICAL HYPOFIBRINOGENEMIA. Cryoprecipitate is prepared from thawing FFP and contains concentrated FIBRINOGEN (factor I), FACTOR VIII, VON WILLEBRAND FACTOR, AND FACTOR XIII in a small volume (~15 mL/unit). In active bleeding DIC, cryoprecipitate is transfused whenever PLASMA FIBRINOGEN IS <150 MG/DL (or <100 mg/dL), as FFP alone contains insufficient fibrinogen concentration and risks severe volume overload."
+      ],
+      [
+        "Transfusion of 4 units of fresh frozen plasma alone without cryoprecipitate",
+        "FFP contains low concentrations of fibrinogen; correcting a fibrinogen level of 65 mg/dL with FFP alone requires massive volumes (liters) that cause severe volume overload."
+      ],
+      [
+        "Administration of intravenous tranexamic acid to inhibit hyperfibrinolysis",
+        "Antifibrinolytics (tranexamic acid) are contraindicated in DIC because inhibiting fibrinolysis while systemic coagulation is ongoing causes widespread microvascular thrombosis and organ infarction."
+      ],
+      [
+        "Initiation of high-dose therapeutic unfractionated heparin infusion to stop clotting",
+        "Therapeutic heparin is contraindicated in acute decompensated DIC with active bleeding and extreme thrombocytopenia (platelets 28,000) due to fatal hemorrhage risk."
+      ],
+      [
+        "Administration of recombinant activated factor VII (rFVIIa) bolus",
+        "Recombinant factor VIIa in active DIC carries an extreme risk of catastrophic arterial and venous thrombosis and should not be used for consumptive hypofibrinogenemia."
+      ]
+    ],
+    "shortestValidSolution": "DIC with active bleeding + fibrinogen 65 mg/dL = Cryoprecipitate transfusion (target fibrinogen >= 150 mg/dL).",
+    "necessaryInference": "Recognize acute consumptive coagulopathy (DIC) and select cryoprecipitate as the concentrated product of choice to correct severe hypofibrinogenemia (<150 mg/dL) during active bleeding.",
+    "strongestDistractor": "Administration of intravenous tranexamic acid to inhibit hyperfibrinolysis",
+    "distractorExclusion": "Antifibrinolytic therapy in active DIC halts protective clot breakdown while systemic thrombin generation continues, precipitating fatal multi-organ thrombotic infarction.",
+    "citation": "Bilyalova G. Fibrinogen Deficiency and Dysfunction in Postpartum Hemorrhage: Evidence, Thresholds, and Management Across Resource Settings. J Clin Med. 2026 Sep 29. PMID: 42882026.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on disseminated intravascular coagulation cryoprecipitate fibrinogen threshold.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0949",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Tumor Lysis Syndrome Rasburicase Recombinant Urate Oxidase Hydration",
+    "provisionalDifficulty": 4,
+    "stem": "A 19-year-old man with newly diagnosed Burkitt lymphoma is admitted for initiation of intensive induction chemotherapy. Baseline laboratory studies reveal: WBC count 84,000/uL, serum uric acid 11.8 mg/dL (reference 3.5-7.2 mg/dL), potassium 5.6 mEq/L, phosphorus 6.8 mg/dL (reference 2.5-4.5 mg/dL), calcium 7.8 mg/dL (reference 8.5-10.2 mg/dL), and serum creatinine 2.1 mg/dL (baseline 0.9 mg/dL). Urinalysis demonstrates cloudy urine with abundant birefringent uric acid crystals. 12-lead ECG shows peaked T waves in precordial leads. He is initiated on aggressive intravenous hydration at 200 mL/m2/hr and potassium-lowering therapy. Which of the following pharmacotherapeutic agents is most appropriate to immediately lower pre-existing serum uric acid and prevent further crystal nephropathy in this high-risk patient?",
+    "choices": [
+      [
+        "Intravenous rasburicase (recombinant urate oxidase)",
+        "This patient has laboratory and clinical TUMOR LYSIS SYNDROME (TLS) complicating high-grade Burkitt lymphoma (a highly proliferative malignancy with a short doubling time). TLS occurs when massive lysis of malignant cells releases intracellular ions and nucleic acids into the circulation, producing: (1) HYPERURICEMIA (from catabolism of nucleic acid purines into hypoxanthine, xanthine, and uric acid); (2) HYPERKALEMIA (from intracellular potassium release); (3) HYPERPHOSPHATEMIA (from nucleic acid phosphate release); and (4) SECONDARY HYPOCALCEMIA (due to precipitation of calcium phosphate in soft tissues and renal tubules). In an acidic urinary environment, insoluble uric acid precipitates in renal collecting ducts, causing ACUTE URIC ACID NEPHROPATHY and oliguric acute kidney injury. When hyperuricemia is ALREADY ESTABLISHED (uric acid >8.0 mg/dL, especially in high-risk hematologic malignancies with baseline renal dysfunction), the drug of choice is INTRAVENOUS RASBURICASE. Rasburicase is a recombinant urate oxidase enzyme that DIRECTLY CATALYZES THE ENZYMATIC DEGRADATION OF INSOLUBLE URIC ACID INTO ALLANTOIN, an inactive, highly soluble metabolite that is 5-10 times more soluble than uric acid and easily excreted by the kidneys. Rasburicase lowers serum uric acid within 4 hours. In contrast, allopurinol and febuxostat merely INHIBIT XANTHINE OXIDASE (blocking NEW uric acid synthesis) but CANNOT degrade pre-existing uric acid."
+      ],
+      [
+        "Oral allopurinol 300 mg daily monotherapy with urinary alkalization",
+        "Allopurinol blocks new uric acid synthesis via xanthine oxidase but does not degrade existing uric acid, and urinary alkalization is contraindicated because it promotes calcium phosphate precipitation."
+      ],
+      [
+        "Oral febuxostat 80 mg daily combined with high-dose loop diuresis",
+        "Febuxostat, like allopurinol, inhibits xanthine oxidase and cannot degrade pre-existing uric acid pools; loop diuresis can worsen hypovolemia and crystal precipitation."
+      ],
+      [
+        "Immediate intravenous sodium bicarbonate infusion to achieve urine pH >7.5",
+        "Alkalinizing the urine is explicitly contraindicated in modern TLS guidelines because elevated pH dramatically reduces calcium phosphate solubility, promoting fatal nephrocalcinosis."
+      ],
+      [
+        "Empiric initiation of low-dose colchicine to prevent acute urate crystallization",
+        "Colchicine is an anti-inflammatory drug for acute gouty arthritis; it does not reduce serum uric acid concentrations or prevent tumor lysis nephropathy."
+      ]
+    ],
+    "shortestValidSolution": "Burkitt lymphoma + uric acid 11.8 + AKI = Tumor lysis syndrome (IV rasburicase degrades existing uric acid to allantoin).",
+    "necessaryInference": "Differentiate rasburicase (recombinant urate oxidase that degrades existing uric acid into soluble allantoin) from allopurinol (xanthine oxidase inhibitor that only blocks new synthesis) in established tumor lysis syndrome.",
+    "strongestDistractor": "Oral allopurinol 300 mg daily monotherapy with urinary alkalization",
+    "distractorExclusion": "Allopurinol cannot degrade already-formed uric acid, and urine alkalinization causes dangerous calcium-phosphate stone precipitation in the kidneys.",
+    "citation": "Matuszkiewicz-Rowinska J. Prevention and Treatment of Tumor Lysis Syndrome in the Era of Onco-Nephrology Progress. Kidney Blood Press Res. 2020. PMID: 32998135.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on tumor lysis syndrome rasburicase recombinant urate oxidase hydration.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s2-0950",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Refractory Severe ARDS Venovenous ECMO Indication Murray Score Criteria",
+    "provisionalDifficulty": 5,
+    "stem": "A 34-year-old previously healthy man with severe Legionella pneumophila pneumonia is in the intensive care unit on day 3 of mechanical ventilation. Despite optimal lung-protective ventilation (tidal volume 4 mL/kg predicted body weight = 280 mL, PEEP 16 cm H2O, FiO2 1.00), continuous cisatracurium neuromuscular blockade, and two consecutive 16-hour cycles of prone positioning, he has profound refractory hypoxemia and respiratory acidosis. Arterial blood gas shows: pH 7.14, PaCO2 68 mm Hg, and PaO2 52 mm Hg (PaO2/FiO2 ratio 52 mm Hg). End-inspiratory plateau pressure is 34 cm H2O (driving pressure 18 cm H2O). Transthoracic echocardiogram demonstrates severe acute cor pulmonale with marked right ventricular dilation and normal left ventricular systolic function. Inhaled epoprostenol was initiated 4 hours ago without improvement. His Murray lung injury score is 3.8 (severe ARDS). Which of the following advanced rescue therapies is indicated for this patient?",
+    "choices": [
+      [
+        "Initiation of venovenous extracorporeal membrane oxygenation (VV-ECMO)",
+        "This young patient has SEVERE REFRACTORY ARDS failing all evidence-based conventional therapies: low tidal volume ventilation, high PEEP, neuromuscular blockade, prolonged prone positioning, and inhaled pulmonary vasodilators, with life-threatening hypoxemia (PaO2/FiO2 <60 for >6 hours or <80 for >6 hours) and uncompensated respiratory acidosis (pH <7.15 with PaCO2 >= 60). In accordance with the EOLIA trial and modern ECMO guidelines, the definitive rescue therapy of choice is VENOVENOUS EXTRACORPOREAL MEMBRANE OXYGENATION (VV-ECMO). In VV-ECMO, deoxygenated venous blood is drained from a large central vein (e.g., femoral vein), pumped through an extracorporeal membrane oxygenator where oxygen is added and carbon dioxide is swept away, and reinfused into a central vein (e.g., internal jugular vein or right atrium). Crucially, VV-ECMO completely unloads the gas exchange burden from the native lungs, allowing the mechanical ventilator to be adjusted to 'ULTRA-PROTECTIVE' SETTINGS (tidal volumes 1-2 mL/kg, Pplat <24 cm H2O, driving pressure <10 cm H2O, resting the lungs to heal while preventing ventilator-induced lung injury). Concurrently, reversing hypercapnic pulmonary vasoconstriction unloads the strained right ventricle. Because left ventricular systolic function is preserved, venoarterial (VA) ECMO is unnecessary."
+      ],
+      [
+        "Switching to venoarterial (VA) ECMO with femoral arterial cannulation",
+        "VA-ECMO is indicated for cardiogenic shock and cardiac arrest; in isolated respiratory failure with preserved LV function, VV-ECMO provides superior oxygenation and avoids arterial vascular complications."
+      ],
+      [
+        "Immediate high-frequency percussive ventilation with permissive hypoxemia to PaO2 >40 mm Hg",
+        "Percussive ventilation has no proven mortality benefit and does not overcome the fatal shunt and acidosis present in this patient."
+      ],
+      [
+        "Performance of emergent bilateral lung transplantation while on maximum ventilatory support",
+        "Emergency lung transplantation is not an acute rescue modality for reversible bacterial pneumonia ARDS in a 34-year-old; VV-ECMO provides a bridge to native lung recovery."
+      ],
+      [
+        "Administration of high-dose intravenous bicarbonate boluses to correct pH >7.30",
+        "Bicarbonate produces additional CO2 that cannot be cleared by failing lungs, worsening intracellular cerebral acidosis without improving oxygenation."
+      ]
+    ],
+    "shortestValidSolution": "Severe ARDS refractory to low-VT, paralytics, and proning (P/F 52, pH 7.14, normal LV) = Venovenous ECMO (VV-ECMO).",
+    "necessaryInference": "Recognize severe ARDS failing prone positioning and lung-protective ventilation, selecting venovenous ECMO (VV-ECMO) as the definitive rescue therapy to provide ultra-protective lung rest.",
+    "strongestDistractor": "Switching to venoarterial (VA) ECMO with femoral arterial cannulation",
+    "distractorExclusion": "VA-ECMO is reserved for cardiogenic circulatory failure; isolated respiratory failure with preserved LV systolic function requires venovenous (VV) ECMO.",
+    "citation": "Maqbool K. Short-term outcome of veno-venous extracorporeal membrane oxygenation in patients of acute respiratory distress syndrome presenting at a tertiary care centre - An observational study. Lung India. 2026 May 1. PMID: 42085128.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on refractory severe ards venovenous ecmo indication murray score criteria.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  }
+];

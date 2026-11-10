@@ -1,0 +1,532 @@
+[
+  {
+    "code": "op-pilot-s3-0001",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Resistant Hypertension in Advanced CKD & Diuretic Selection",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 66-year-old man presents to the ambulatory internal medicine clinic for follow-up of hypertension and diabetic kidney disease. His outpatient medications are lisinopril 40 mg daily, amlodipine 10 mg daily, and chlorthalidone 25 mg daily. He adheres to a 2-gram sodium diet, and his home blood pressure log averages 154/92 mmHg. In the clinic today, seated blood pressure is 156/94 mmHg (repeated at 152/92 mmHg), pulse is 72/min, and BMI is 29 kg/m². Physical examination reveals trace bilateral pretibial edema. Serum laboratories show: sodium 140 mEq/L, potassium 5.0 mEq/L, chloride 104 mEq/L, bicarbonate 22 mEq/L, BUN 44 mg/dL, and serum creatinine 2.5 mg/dL (estimated GFR 24 mL/min/1.73m²; stable over 12 months). Spot urine albumin-to-creatinine ratio is 520 mg/g. Which of the following therapeutic adjustments is the most appropriate next step to optimize blood pressure control in this patient?",
+    "options": [
+      {
+        "text": "Add oral spironolactone 25 mg once daily to achieve aldosterone blockade",
+        "correct": false,
+        "explanation": "Spironolactone is the guideline-preferred 4th-line agent for resistant hypertension in patients with preserved renal function (PATHWAY-2 trial). However, in advanced CKD (stage 4, eGFR 24 mL/min/1.73m²) with a baseline serum potassium of 5.0 mEq/L, initiating mineralocorticoid receptor antagonists carries an unacceptably high risk of severe, life-threatening hyperkalemia."
+      },
+      {
+        "text": "Discontinue chlorthalidone and initiate oral torsemide (or furosemide) titrated to blood pressure and volume status",
+        "correct": true,
+        "explanation": "This patient has resistant hypertension (blood pressure above goal despite adherence to three full-dose antihypertensive classes of complementary mechanisms: an ACE inhibitor, a calcium channel blocker, and a thiazide-like diuretic) in the setting of stage 4 chronic kidney disease (eGFR 24 mL/min/1.73m²). The landmark CLICK trial (NEJM 2021) demonstrated that chlorthalidone effectively lowers blood pressure in advanced CKD, overturning the historical dogma that thiazide-like diuretics have zero efficacy below eGFR 30. However, in this patient, physical examination demonstrates persistent extracellular volume expansion and peripheral edema despite chronic chlorthalidone therapy (25 mg daily), indicating that impaired natriuresis and plasma volume retention remain the active drivers of treatment resistance. In patients with advanced CKD and clinical evidence of volume overload, loop diuretics (such as torsemide or furosemide) provide potent high-capacity natriuresis by inhibiting NKCC2 in the thick ascending limb of Henle (where 25% of filtered sodium is reabsorbed, compared to only ~5% in the distal convoluted tubule). Substituting or transitioning to a high-potency loop diuretic delivers the necessary fractional sodium excretion to overcome fluid retention, relieve edema, and restore blood pressure control. Torsemide is often preferred in CKD due to high, predictable oral bioavailability (80–90% vs erratic 10–90% for furosemide) and a longer elimination half-life."
+      },
+      {
+        "text": "Add oral clonidine 0.1 mg twice daily to suppress central sympathetic outflow",
+        "correct": false,
+        "explanation": "Central alpha-2 agonists like clonidine cause severe sedation, dry mouth, and dangerous rebound hypertensive crises upon missed doses; they are reserved for refractory patients after optimizing volume status with loop diuretics."
+      },
+      {
+        "text": "Increase lisinopril to 80 mg once daily to maximize renal hemodynamic protection",
+        "correct": false,
+        "explanation": "Lisinopril 40 mg is already at the maximum recommended daily dose; increasing beyond 40 mg does not provide incremental blood pressure lowering and increases the risk of acute hyperkalemia and acute kidney injury."
+      },
+      {
+        "text": "Discontinue lisinopril and initiate oral aliskiren 150 mg daily",
+        "correct": false,
+        "explanation": "Direct renin inhibitors (aliskiren) provide no superior blood pressure efficacy and are contraindicated in diabetic kidney disease with eGFR < 60 mL/min due to adverse cardiovascular and renal outcomes."
+      }
+    ],
+    "explanation": "In resistant hypertension with stage 4 CKD and persistent edema despite chlorthalidone, initiating a loop diuretic (torsemide/furosemide) provides the high-capacity natriuresis required to relieve volume retention. Spironolactone is avoided when baseline potassium is >= 5.0 mEq/L.",
+    "objective": "Select a loop diuretic to overcome persistent extracellular volume retention in resistant hypertension with stage 4 CKD (eGFR < 30 mL/min/1.73m²).",
+    "keyPoints": [
+      "The CLICK trial (NEJM 2021) confirmed chlorthalidone lowers BP in stage 4 CKD, disproving obsolete dogma.",
+      "In patients with persistent fluid overload and resistant hypertension on maximal chlorthalidone, loop diuretics provide the necessary fractional sodium excretion.",
+      "Avoid spironolactone in stage 4 CKD when baseline potassium is >= 5.0 mEq/L due to hyperkalemia risk."
+    ],
+    "references": [
+      {
+        "label": "Agarwal R, Sinha AD, Cramer AE, et al. Chlorthalidone for Hypertension in Advanced Chronic Kidney Disease (CLICK Trial). N Engl J Med 2021;385:2507–2519. KDIGO 2021 Blood Pressure in CKD Guideline",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2110730"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s3-0002",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Diabetic HFpEF & ASCVD Regimen Prioritization",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old woman with a 12-year history of type 2 diabetes mellitus and coronary artery disease (status post percutaneous coronary intervention with drug-eluting stent 3 years ago) presents for a routine chronic disease evaluation. Over the past 4 months, she has noticed gradual exertional dyspnea when climbing one flight of stairs and mild bilateral ankle swelling by the evening. She has no chest pain, orthopnea, or paroxysmal nocturnal dyspnea. Current medications are metformin 1000 mg twice daily, glimepiride 4 mg daily, atorvastatin 80 mg daily, and lisinopril 20 mg daily. Physical examination reveals blood pressure 132/78 mmHg, pulse 68/min, BMI 31 kg/m², trace bilateral ankle edema, and clear breath sounds. Echocardiography reveals a normal left ventricular ejection fraction of 55%, concentric left ventricular hypertrophy, left atrial enlargement, and an elevated E/e' ratio of 16 (consistent with elevated left ventricular filling pressures and grade II diastolic dysfunction). Serum NT-proBNP is 680 pg/mL (elevated). Serum creatinine is 1.0 mg/dL, and HbA1c is 7.9%. Which of the following therapeutic regimen adjustments is the most appropriate next step for this patient?",
+    "options": [
+      {
+        "text": "Discontinue glimepiride and initiate oral empagliflozin (or dapagliflozin)",
+        "correct": true,
+        "explanation": "This patient has type 2 diabetes mellitus and established Heart Failure with Preserved Ejection Fraction (HFpEF; symptomatic dyspnea, elevated NT-proBNP, normal LVEF 55%, and echocardiographic diastolic dysfunction with elevated filling pressures). According to the American Diabetes Association (ADA) 2023 Standards of Care and the 2022 AHA/ACC/HFSA Heart Failure Guidelines, Sodium-Glucose Cotransporter-2 (SGLT2) inhibitors (empagliflozin or dapagliflozin) have a Class 1A recommendation for patients with diabetes and heart failure, regardless of ejection fraction. Pivotal trials (EMPEROR-Preserved and DELIVER) demonstrated that SGLT2 inhibitors significantly reduce cardiovascular death and heart failure hospitalizations in patients with HFpEF. Furthermore, glimepiride (a sulfonylurea) carries substantial hypoglycemia risk, offers no cardioprotective or renal benefit, and is associated with modest weight gain. Substituting an SGLT2 inhibitor for glimepiride simultaneously treats the patient's HFpEF, provides cardiovascular risk reduction, improves glycemic control, and eliminates hypoglycemia risk."
+      },
+      {
+        "text": "Increase glimepiride to 8 mg daily and initiate oral furosemide 20 mg daily",
+        "correct": false,
+        "explanation": "Increasing the sulfonylurea dose increases hypoglycemia without providing cardioprotection; adding a loop diuretic alone provides symptomatic decongestion but fails to initiate guideline-directed disease-modifying therapy for HFpEF."
+      },
+      {
+        "text": "Initiate oral pioglitazone 30 mg daily to improve peripheral insulin sensitivity",
+        "correct": false,
+        "explanation": "Thiazolidinediones (pioglitazone) cause renal sodium and fluid retention via PPAR-gamma stimulation in the collecting tubule and are strictly contraindicated in symptomatic heart failure."
+      },
+      {
+        "text": "Add oral saxagliptin 5 mg daily to enhance incretin effect",
+        "correct": false,
+        "explanation": "DPP-4 inhibitors do not reduce cardiovascular mortality or heart failure hospitalizations; saxagliptin in particular is associated with an increased risk of heart failure hospitalization (SAVOR-TIMI 53 trial)."
+      },
+      {
+        "text": "Add subcutaneous insulin glargine 10 units at bedtime and continue current oral agents",
+        "correct": false,
+        "explanation": "Insulin promotes weight gain and hypoglycemia without providing cardiovascular or heart failure mortality benefit; SGLT2 inhibitors are the guideline-directed agent of choice."
+      }
+    ],
+    "explanation": "In diabetic patients with HFpEF, SGLT2 inhibitors (empagliflozin/dapagliflozin) reduce HF hospitalizations and cardiovascular mortality. Glimepiride should be discontinued to avoid hypoglycemia and facilitate SGLT2 inhibitor initiation.",
+    "objective": "Prioritize SGLT2 inhibitor initiation and deprescribe sulfonylureas in patients with type 2 diabetes and heart failure with preserved ejection fraction (HFpEF).",
+    "keyPoints": [
+      "SGLT2 inhibitors reduce cardiovascular death and hospitalizations in HFpEF (EMPEROR-Preserved, DELIVER).",
+      "ADA 2023 guidelines recommend SGLT2 inhibitors for diabetes with established heart failure regardless of LVEF.",
+      "Thiazolidinediones (pioglitazone) and certain DPP-4 inhibitors (saxagliptin) worsen heart failure and must be avoided."
+    ],
+    "references": [
+      {
+        "label": "2023 ADA Standards of Care in Diabetes: Cardiovascular Disease and Risk Management. Diabetes Care 2023;46(Suppl 1):S158–S190. Recommendation 10.40 & 10.41",
+        "url": "https://diabetesjournals.org/care/article/46/Supplement_1/S158/148057/10-Cardiovascular-Disease-and-Risk-Management"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s3-0003",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Catheter-Associated Bacteriuria Antimicrobial Stewardship",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 84-year-old woman residing in a skilled nursing facility is evaluated during a routine monthly assessment. She has moderate vascular dementia, mobility impairment due to severe knee osteoarthritis, and a chronic indwelling urethral (Foley) catheter placed 5 months ago for refractory urinary retention following pelvic reconstructive surgery. The catheter collection bag contains cloudy, dark urine with sediment and a strong odor. The patient reports feeling well and has no complaints of fever, chills, suprapubic discomfort, or flank pain. Nursing staff report that her appetite, fluid intake, and baseline mental status are completely unchanged over the past month. Vital signs show: temperature 36.7 C (98.1 F), blood pressure 126/74 mmHg, and pulse 74/min. Abdominal examination reveals a soft, non-tender abdomen with no suprapubic tenderness or costovertebral angle tenderness. A catheterized urine specimen was sent by the nursing staff: urinalysis reveals 3+ leukocyte esterase, positive nitrites, and >50 WBCs/hpf. Quantitative urine culture subsequently grows >100,000 CFU/mL of carbapenemase-producing Klebsiella pneumoniae, resistant to all standard beta-lactams and fluoroquinolones, and susceptible only to colistin and ceftazidime-avibactam. What is the most appropriate management at this time?",
+    "options": [
+      {
+        "text": "Administer intravenous ceftazidime-avibactam for 7 days based on the sensitivity profile",
+        "correct": false,
+        "explanation": "Administering broad-spectrum reserve antimicrobials (ceftazidime-avibactam) to an asymptomatic patient with bacteriuria is an egregious stewardship violation that drives pan-drug resistance, exposes the patient to adverse drug events, and increases the risk of Clostridioides difficile colitis without clinical benefit."
+      },
+      {
+        "text": "Administer intravenous colistin for 7 days with serial serum creatinine monitoring",
+        "correct": false,
+        "explanation": "Colistin carries extreme risks of nephrotoxicity and neurotoxicity and is completely unwarranted for benign bacterial colonization in an asymptomatic patient."
+      },
+      {
+        "text": "Withhold antimicrobial therapy and maintain routine catheter care without exchange",
+        "correct": true,
+        "explanation": "This patient has Asymptomatic Bacteriuria (ASB) in the setting of a chronic indwelling urinary catheter. According to the Infectious Diseases Society of America (IDSA) 2019 guidelines and Choosing Wisely recommendations, screening for or treating asymptomatic bacteriuria in catheterized older adults is strongly contraindicated. In catheterized individuals, bacterial colonization and biofilm formation are universal within weeks. The presence of pyuria, cloudy urine, malodorous urine, or high-colony-count growth of multidrug-resistant organisms does NOT differentiate colonization from true invasive infection. Treating ASB with antibiotics does NOT prevent future symptomatic urinary tract infections, does not reduce catheter encrustation, and does not improve survival. Instead, antibiotic therapy drives severe antimicrobial resistance and causes Clostridioides difficile infection. Furthermore, routine catheter replacement solely for cloudy urine, foul odor, or asymptomatic bacteriuria is NOT recommended by CDC or IDSA guidelines; catheters should only be replaced for acute mechanical obstruction, encrustation, or symptomatic catheter-associated UTI. The appropriate management is strictly withholding all antimicrobial therapy and continuing routine hygiene."
+      },
+      {
+        "text": "Perform continuous closed bladder irrigation with neomycin-polymyxin solution",
+        "correct": false,
+        "explanation": "Continuous antimicrobial bladder irrigations fail to eradicate catheter biofilms, induce chemical cystitis, and are explicitly discouraged by IDSA guidelines."
+      },
+      {
+        "text": "Prescribe oral nitrofurantoin daily for 30 days as long-term suppressive therapy",
+        "correct": false,
+        "explanation": "Suppressive antibiotic therapy in catheterized patients is ineffective and accelerates the emergence of resistant organisms; furthermore, Klebsiella species possess intrinsic resistance to nitrofurantoin."
+      }
+    ],
+    "explanation": "Asymptomatic bacteriuria in chronic catheterized patients represents biofilm colonization, not infection. Even with pyuria, foul odor, or multidrug-resistant organisms, antibiotics are contraindicated in the absence of systemic infection. Routine catheter exchange for asymptomatic bacteriuria is not recommended.",
+    "objective": "Apply IDSA antimicrobial stewardship guidelines to withhold antibiotics and avoid unnecessary catheter exchange for asymptomatic bacteriuria in chronic catheterized patients.",
+    "keyPoints": [
+      "Pyuria, cloudy urine, and positive cultures in catheterized patients represent colonization, not infection.",
+      "Treatment of ASB is indicated only in pregnancy and prior to urologic procedures with mucosal bleeding.",
+      "Withhold antibiotics in the absence of fever, flank pain, or acute systemic signs; do not exchange catheter solely for asymptomatic bacteriuria."
+    ],
+    "references": [
+      {
+        "label": "Nicolle LE, Gupta K, Bradley SF, et al. IDSA Clinical Practice Guideline for the Management of Asymptomatic Bacteriuria: 2019 Update. Clin Infect Dis 2019;68:e83–e110. Recommendations 15 & 16",
+        "url": "https://academic.oup.com/cid/article/68/10/e83/5392095"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s3-0004",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Geriatrics",
+    "topic": "Deprescribing in Frail Older Adults with Falls",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 86-year-old woman is brought to the geriatric outpatient clinic by her daughter due to three mechanical falls over the past 2 months, one of which resulted in a non-displaced left wrist fracture. Her medical history includes moderate Alzheimer's dementia, hypertension, osteopenia, and type 2 diabetes mellitus diagnosed 18 years ago. Her current medications are donepezil 10 mg daily, glyburide 10 mg daily, hydrochlorothiazide 25 mg daily, lisinopril 20 mg daily, and calcium/vitamin D. On physical examination, seated blood pressure is 134/76 mmHg with pulse 70/min; after 2 minutes of standing, blood pressure is 108/62 mmHg with pulse 74/min (orthostatic hypotension confirmed). She has a slow, cautious, wide-based gait. Her daughter reports that the patient occasionally becomes confused and diaphoretic in the late afternoon before dinner. Recent laboratory evaluation reveals: serum sodium 136 mEq/L, potassium 4.2 mEq/L, BUN 26 mg/dL, serum creatinine 1.3 mg/dL (estimated GFR 38 mL/min/1.73m²), and HbA1c 6.4%. Which of the following therapeutic adjustments is the most appropriate management plan for this patient?",
+    "options": [
+      {
+        "text": "Add oral sitagliptin 50 mg daily to improve glycemic variability while reducing glyburide to 5 mg daily",
+        "correct": false,
+        "explanation": "Adding a second hypoglycemic agent in a patient with tight glycemic control (HbA1c 6.4%) and recurrent falls is inappropriate; glyburide should be stopped completely rather than reduced while adding another drug."
+      },
+      {
+        "text": "Initiate subcutaneous teriparatide daily for fracture risk reduction while continuing all metabolic medications",
+        "correct": false,
+        "explanation": "While bone health is important, continuing medications that cause hypoglycemia and orthostatic hypotension ignores the proximate, remediable cause of recurrent falls and fractures."
+      },
+      {
+        "text": "Prescribe oral fludrocortisone 0.1 mg daily to treat orthostatic hypotension and maintain current glycemic therapy",
+        "correct": false,
+        "explanation": "Initiating mineralocorticoids to treat drug-induced orthostatic hypotension adds unnecessary pharmacotherapy (prescribing cascade) instead of deprescribing the offending diuretic and antihypertensive agents."
+      },
+      {
+        "text": "Discontinue glyburide, liberalize the HbA1c glycemic target to 8.0–8.5%, and taper hydrochlorothiazide to resolve orthostatic hypotension",
+        "correct": true,
+        "explanation": "This frail 86-year-old woman with dementia, CKD (eGFR 38 mL/min), and recurrent falls is suffering from severe polypharmacy complications: recurrent iatrogenic hypoglycemia and orthostatic hypotension. According to the 2023 American Geriatrics Society (AGS) Beers Criteria and ADA older-adult diabetes guidelines, long-acting sulfonylureas (specifically glyburide) are strongly discouraged in older adults due to extremely high risks of severe, prolonged hypoglycemia, which is exacerbated by reduced renal clearance. An HbA1c of 6.4% in a frail elder with dementia represents overtreatment; guidelines recommend liberalizing the HbA1c target to 8.0%–8.5% (or 7.5%–8.0% in intermediate health) because hypoglycemia dramatically increases fall-related mortality, fractures, and accelerated cognitive decline. Furthermore, her orthostatic hypotension (a drop of 26 mmHg systolic upon standing) directly triggers falls; tapering or stopping hydrochlorothiazide relieves volume depletion and reduces orthostatic fall risk."
+      },
+      {
+        "text": "Discontinue donepezil due to potential bradycardia and maintain current diabetes and blood pressure regimens",
+        "correct": false,
+        "explanation": "While cholinesterase inhibitors can cause bradycardia, her pulse is 70–74 bpm and her falls are clearly linked to documented orthostatic hypotension and late-afternoon hypoglycemia caused by glyburide."
+      }
+    ],
+    "explanation": "In frail older adults with dementia and falls, tight glycemic control (HbA1c 6.4%) is harmful. Glyburide must be stopped (Beers criteria: severe hypoglycemia risk), the HbA1c goal liberalized to 8.0–8.5%, and antihypertensives tapered to resolve orthostatic hypotension.",
+    "objective": "Apply AGS Beers criteria to deprescribe glyburide, liberalize glycemic targets, and treat orthostatic hypotension in a frail older adult with recurrent falls.",
+    "keyPoints": [
+      "AGS Beers criteria strongly advise against glyburide in older adults due to prolonged hypoglycemia risk.",
+      "In frail elders with dementia and limited life expectancy, liberalize HbA1c targets to 8.0%–8.5%.",
+      "Deprescribe offending diuretics/antihypertensives to correct orthostatic hypotension and prevent fall-related fractures."
+    ],
+    "references": [
+      {
+        "label": "2023 American Geriatrics Society Beers Criteria for Potentially Inappropriate Medication Use in Older Adults. J Am Geriatr Soc 2023;71:2052–2081. Table 2: Sulfonylureas in Older Adults",
+        "url": "https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.18372"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s3-0005",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Rheumatology",
+    "topic": "Indeterminate Interferon-Gamma Release Assay & Biologic Prophylaxis Timing",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 48-year-old woman with severe, seropositive rheumatoid arthritis (anti-CCP and rheumatoid factor positive) presents to the rheumatology clinic for treatment escalation. Over the past 8 months, she has had persistent active synovitis in 8 peripheral joints despite adherence to oral methotrexate 25 mg weekly and prednisone 10 mg daily. The rheumatologist plans to initiate adalimumab (an anti-TNF monoclonal antibody). The patient was born in Mexico and immigrated to the United States 20 years ago; she received the BCG vaccine in childhood. She has no cough, fever, night sweats, or weight loss. Prior to initiating therapy, pre-treatment screening is performed: tuberculin skin test (TST) demonstrates 4 mm of induration at 48 hours; QuantiFERON-TB Gold Plus returns Indeterminate (antigen tube response: 0.08 IU/mL; mitogen positive-control tube: 0.12 IU/mL, below the 0.50 IU/mL validity threshold); a repeat QuantiFERON-TB Gold Plus drawn 1 week later is again reported as Indeterminate due to low mitogen response. Chest radiography reveals apical pleural thickening and a calcified, well-circumscribed 6-mm nodule in the right lung apex without cavitation or infiltrates. Serial induced sputum acid-fast bacilli smears are negative. Hepatitis B serologies confirm immunity via remote vaccination. Which of the following is the most appropriate management plan regarding tuberculosis prophylaxis and biologic therapy in this patient?",
+    "options": [
+      {
+        "text": "Initiate adalimumab immediately without tuberculosis prophylaxis because the TST is negative and sputum smears demonstrate no active mycobacteria",
+        "correct": false,
+        "explanation": "Treating an indeterminate IGRA as negative in an immunosuppressed patient (on methotrexate and prednisone) from a high-incidence country with an apical calcified granuloma ignores cellular anergy and risks fatal disseminated tuberculosis reactivation upon TNF blockade."
+      },
+      {
+        "text": "Initiate empiric four-drug therapy (rifampin, isoniazid, pyrazinamide, ethambutol) for active pulmonary tuberculosis and delay adalimumab for 6 months",
+        "correct": false,
+        "explanation": "Four-drug therapy is indicated for active pulmonary tuberculosis; in an asymptomatic patient with negative serial sputum smears and an inactive calcified granuloma, active disease is excluded."
+      },
+      {
+        "text": "Perform flexible bronchoscopy with bronchoalveolar lavage for mycobacterial culture before initiating any prophylactic or biologic therapy",
+        "correct": false,
+        "explanation": "Invasive bronchoscopy is unwarranted in an asymptomatic patient with negative sputum smears and an old, stable calcified granuloma; it unnecessarily delays essential immunosuppressive care."
+      },
+      {
+        "text": "Initiate prophylactic treatment for latent tuberculosis infection and safely start adalimumab after completing 1 month of compliant therapy",
+        "correct": true,
+        "explanation": "In patients receiving immunosuppressive therapy (methotrexate and systemic corticosteroids), cellular anergy frequently impairs lymphocyte proliferation and interferon-gamma secretion in vitro, resulting in an Indeterminate IGRA (mitogen positive control fails to achieve the 0.50 IU/mL threshold). According to American College of Rheumatology (ACR) and CDC/National Tuberculosis Controllers Association guidelines, an indeterminate IGRA in a high-risk patient (immigrant from an endemic country with radiographic evidence of prior healed TB, such as an apical calcified granuloma) cannot be interpreted as negative. It must be treated as presumptive Latent Tuberculosis Infection (LTBI). Prophylactic therapy (e.g., daily rifampin for 4 months, or once-weekly isoniazid plus rifapentine for 3 months, or daily isoniazid for 9 months) must be initiated immediately. Crucially, regarding the timing of biologic therapy, guidelines state that anti-TNF therapy DOES NOT need to be delayed until the completion of the full 3- to 9-month prophylactic regimen; rather, biologic DMARD therapy can be safely started after completing at least 1 month of compliant prophylactic antimycobacterial therapy, provided clinical adherence and liver biochemistries are monitored."
+      },
+      {
+        "text": "Delay adalimumab therapy until the patient completes a full 9-month course of daily isoniazid monotherapy",
+        "correct": false,
+        "explanation": "Awaiting completion of the full 9-month LTBI course is obsolete and inappropriate; forcing a patient with severe, erosive, unmanaged rheumatoid arthritis to endure 9 months of disabling joint destruction is unnecessary, as starting biologics after 1 month of prophylaxis is validated and safe."
+      }
+    ],
+    "explanation": "In an immunosuppressed patient with a calcified apical nodule and indeterminate IGRA (due to cellular anergy), presumptive latent TB must be treated. Biologic anti-TNF therapy can be safely initiated after completing 1 month of compliant LTBI prophylaxis.",
+    "objective": "Manage an indeterminate IGRA in an immunosuppressed patient with prior healed TB by initiating latent TB prophylaxis and timing biologic initiation at 1 month of compliant therapy.",
+    "keyPoints": [
+      "Methotrexate and systemic corticosteroids blunt mitogen responses, causing indeterminate IGRA results (anergy).",
+      "An indeterminate IGRA in a patient with risk factors and an apical calcified granuloma represents presumptive latent TB.",
+      "Biologic DMARDs can be initiated safely after 1 month of compliant latent TB prophylaxis."
+    ],
+    "references": [
+      {
+        "label": "2021 American College of Rheumatology Guideline for the Treatment of Rheumatoid Arthritis. Arthritis Care Res 2021;73:924–939. Section: Screening for Tuberculosis and Viral Hepatitis Before Biologic DMARDS",
+        "url": "https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/acr.24596"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s3-0006",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Pulmonary",
+    "topic": "Refractory Severe ARDS & Evidence-Based Prone Positioning",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old woman with severe acute pancreatitis is intubated in the intensive care unit on hospital day 4 for progressive acute respiratory distress syndrome (ARDS). Her height is 165 cm (5 feet 5 inches), and calculated predicted body weight (PBW) is 56 kg. She is managed on volume-assist/control ventilation with an established lung-protective protocol: tidal volume 340 mL (6.0 mL/kg PBW), respiratory rate 26/min, PEEP 14 cmH2O, and FiO2 0.85. Sedation and continuous neuromuscular blockade with cisatracurium have been initiated to achieve complete ventilator synchrony. Despite these measures, her oxygenation has deteriorated over the past 6 hours. Arterial blood gas reveals: pH 7.26, PaCO2 50 mmHg, PaO2 68 mmHg (PaO2/FiO2 ratio: 80 mmHg, consistent with severe ARDS). End-inspiratory plateau pressure (Pplat) is 28 cmH2O (driving pressure: 14 cmH2O). Chest radiography confirms dense, bilateral, confluent dependent alveolar consolidations. Bedside echocardiography demonstrates a normal left ventricular ejection fraction of 60% with mild right ventricular enlargement and no severe valvular dysfunction. Which of the following therapeutic interventions has been shown in randomized controlled clinical trials to provide a statistically significant reduction in 28-day mortality for this patient?",
+    "options": [
+      {
+        "text": "Prone positioning therapy maintained for at least 16 consecutive hours per day",
+        "correct": true,
+        "explanation": "This patient has severe Acute Respiratory Distress Syndrome (ARDS; PaO2/FiO2 ratio < 100 mmHg) with refractory hypoxemia despite low-tidal-volume ventilation (6 mL/kg PBW), high PEEP (14 cmH2O), and continuous neuromuscular blockade. According to the landmark PROSEVA randomized controlled trial (Guérin et al., NEJM 2013) and international ATS/ESICM ARDS guidelines, early application of prone positioning maintained for at least 16 consecutive hours per day produces a profound, statistically significant reduction in 28-day mortality (16.0% in prone group vs 32.8% in supine group; p < 0.001) and 90-day mortality in patients with severe ARDS (PaO2/FiO2 < 150 mmHg). In the prone position, the gravitational pleural pressure gradient becomes much more uniform from dorsal to ventral lung regions, the compressive weight of the heart and abdominal contents on dorsal lung segments is relieved, dorsal atelectatic alveoli are recruited, and ventilation-perfusion matching is dramatically improved without increasing regional alveolar overdistension or lung stress."
+      },
+      {
+        "text": "Inhaled nitric oxide therapy titrated to 20 parts per million to improve ventilation-perfusion matching",
+        "correct": false,
+        "explanation": "Inhaled nitric oxide (iNO) selectively dilates pulmonary vessels in ventilated lung units, producing transient improvements in oxygenation; however, multiple large randomized trials and Cochrane meta-analyses have conclusively demonstrated that iNO provides ZERO reduction in mortality and increases the risk of acute renal injury."
+      },
+      {
+        "text": "Recruitment maneuvers utilizing sustained continuous positive airway pressure of 40 cmH2O for 40 seconds",
+        "correct": false,
+        "explanation": "High-pressure sustained recruitment maneuvers (such as CPAP 40 cmH2O for 40 seconds) were directly tested in the landmark ART randomized clinical trial (JAMA 2017), which demonstrated that recruitment maneuvers significantly INCREASED 28-day mortality due to barotrauma, pneumothorax, and cardiovascular collapse."
+      },
+      {
+        "text": "High-frequency oscillatory ventilation (HFOV) to maximize mean airway pressure while minimizing tidal volume",
+        "correct": false,
+        "explanation": "The large-scale OSCAR and OSCILLATE randomized controlled trials disproved the utility of HFOV in adult ARDS; the OSCILLATE trial was terminated early due to increased in-hospital mortality in the HFOV arm."
+      },
+      {
+        "text": "Immediate surgical cannulation for venovenous extracorporeal membrane oxygenation (VV-ECMO) without trial of positional therapy",
+        "correct": false,
+        "explanation": "While VV-ECMO is a recognized rescue modality for refractory ARDS (EOLIA trial), international critical care guidelines mandate that prone positioning must be implemented first, as prone positioning is non-invasive, widely available, and achieves mortality reductions without the severe hemorrhagic and vascular complications of extracorporeal life support."
+      }
+    ],
+    "explanation": "In severe ARDS (P/F ratio < 150 mmHg) refractory to lung-protective ventilation and neuromuscular blockade, prone positioning for at least 16 consecutive hours daily (PROSEVA trial) is proven to significantly reduce 28-day and 90-day mortality.",
+    "objective": "Identify prone positioning for at least 16 consecutive hours daily as the evidence-based intervention proven in randomized clinical trials to reduce mortality in severe ARDS.",
+    "keyPoints": [
+      "PROSEVA trial: prone positioning for >= 16 hours/day reduces 28-day mortality by 50% in severe ARDS (P/F < 150).",
+      "Prone positioning homogenizes pleural pressure gradients, recruits dorsal alveoli, and reduces V/Q mismatch.",
+      "Inhaled nitric oxide improves PaO2 transiently but does not reduce mortality; recruitment maneuvers (ART trial) and HFOV (OSCILLATE trial) increase mortality."
+    ],
+    "references": [
+      {
+        "label": "Guérin C, Reignier J, Richard JC, et al. Prone Positioning in Severe Acute Respiratory Distress Syndrome (PROSEVA Trial). N Engl J Med 2013;368:2159–2168. ESICM 2023 Guidelines on ARDS",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1214103"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s3-0007",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Cancer-Associated Thrombosis Anticoagulant Selection",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old man with locally advanced, unresectable gastric adenocarcinoma presents to the oncology clinic after lower-extremity duplex ultrasonography confirms an acute, occlusive deep venous thrombosis (DVT) of the left common femoral and popliteal veins. He completed his third cycle of systemic palliative chemotherapy 10 days ago. The patient is currently asymptomatic from a pulmonary standpoint. His oncologic history is notable for mild, intermittent mucosal tumor oozing resulting in baseline iron deficiency anemia, for which he has required periodic oral iron supplementation. He has had no overt melena or hematemesis. Vital signs are normal. Complete blood count shows: hemoglobin 9.4 g/dL, platelet count 164,000/uL, serum creatinine 0.9 mg/dL (eGFR > 90 mL/min), and total bilirubin 0.8 mg/dL. Upper endoscopy performed 6 weeks ago demonstrated an extensive, ulcerated, fungating mass occupying the gastric antrum and lesser curvature. Which of the following is the most appropriate anticoagulant regimen for the management of this patient's acute cancer-associated thrombosis?",
+    "options": [
+      {
+        "text": "Oral rivaroxaban 15 mg twice daily for 21 days followed by 20 mg once daily",
+        "correct": false,
+        "explanation": "Direct oral factor Xa inhibitors (rivaroxaban and edoxaban) are associated with a significantly increased risk of major gastrointestinal bleeding compared to LMWH in patients with intact, unresected luminal gastrointestinal malignancies (Select-D and Hokusai VTE-Cancer trials)."
+      },
+      {
+        "text": "Oral dabigatran etexilate 150 mg twice daily following a 5-day lead-in with unfractionated heparin",
+        "correct": false,
+        "explanation": "Dabigatran requires a 5-day parenteral lead-in, has limited safety data in cancer-associated thrombosis, and carries higher GI bleeding rates than LMWH."
+      },
+      {
+        "text": "Oral warfarin adjusted to a target international normalized ratio (INR) of 2.0 to 3.0 with heparin bridging",
+        "correct": false,
+        "explanation": "Warfarin is inferior to LMWH in cancer-associated thrombosis (CLOT trial) due to higher recurrent thrombosis rates, unpredictable drug interactions with chemotherapy, and nutritional volatility."
+      },
+      {
+        "text": "Inferior vena cava filter placement without pharmacological anticoagulation",
+        "correct": false,
+        "explanation": "IVC filters are reserved for patients with absolute contraindications to anticoagulation (active massive bleeding); they do not treat the underlying hypercoagulability and increase long-term DVT recurrence."
+      },
+      {
+        "text": "Therapeutic subcutaneous low-molecular-weight heparin (e.g., enoxaparin or dalteparin)",
+        "correct": true,
+        "explanation": "This patient has acute cancer-associated venous thromboembolism (CAT) in the setting of an intact, unresected luminal gastrointestinal adenocarcinoma. According to the 2023 American Society of Clinical Oncology (ASCO) guidelines and the CHEST 2021 guidelines on cancer-associated thrombosis, while Direct Oral Anticoagulants (DOACs like apixaban, rivaroxaban, or edoxaban) are standard first-line options for many cancers, randomized controlled trials (Select-D, Hokusai VTE-Cancer, and Caravaggio) identified a significantly increased risk of major gastrointestinal mucosal bleeding with oral factor Xa inhibitors in patients with intact, unresected gastrointestinal or genitourinary tract luminal malignancies. In patients with active, unresected gastric or esophageal tumors with mucosal ulceration, Low-Molecular-Weight Heparin (LMWH; enoxaparin 1 mg/kg every 12 hours or dalteparin 200 IU/kg daily) is the preferred anticoagulant because it carries a substantially lower risk of catastrophic luminal tumor hemorrhage while providing robust protection against recurrent VTE."
+      }
+    ],
+    "explanation": "In cancer-associated thrombosis with intact luminal gastrointestinal malignancies (gastric cancer), LMWH is preferred over DOACs due to a significantly lower risk of major gastrointestinal mucosal bleeding.",
+    "objective": "Select low-molecular-weight heparin over direct oral anticoagulants in cancer-associated thrombosis involving intact luminal gastrointestinal tumors.",
+    "keyPoints": [
+      "DOACs (rivaroxaban, edoxaban) increase major GI bleeding in intact luminal GI malignancies.",
+      "LMWH remains the preferred anticoagulant for patients with unresected gastric or esophageal cancers.",
+      "Warfarin is inferior to LMWH in cancer-associated thrombosis (CLOT trial)."
+    ],
+    "references": [
+      {
+        "label": "American Society of Clinical Oncology: Management of Venous Thromboembolism in Patients with Cancer. J Clin Oncol 2023;41:3063–3071. Recommendation 2.1: Anticoagulation in Gastrointestinal Malignancies",
+        "url": "https://ascopubs.org/doi/10.1200/JCO.23.00294"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s3-0008",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Postpartum Thyroiditis in Lactation & Radioisotope Contraindications",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old primipara presents to the ambulatory clinic 4 months postpartum complaining of anxiety, heat intolerance, hand tremors, and palpitations over the past 3 weeks. She is currently exclusively breastfeeding her infant son. She has no fever, neck pain, or anterior neck tenderness. Physical examination reveals: blood pressure 138/82 mmHg, resting pulse 108/min, and fine tremor of the outstretched hands; eyes show no exophthalmos, lid lag, or periorbital edema. Thyroid examination reveals a mildly enlarged, non-tender, symmetric thyroid gland without nodules or bruits. Laboratory evaluation reveals: serum thyroid-stimulating hormone (TSH) < 0.01 uIU/mL (suppressed), free thyroxine (free T4) 2.8 ng/dL (elevated; normal: 0.8–1.8), and total triiodothyronine (total T3) 198 ng/dL (normal: 80–200). Thyroid-stimulating immunoglobulin (TSI) and TSH receptor antibodies (TRAb) are negative; anti-thyroperoxidase (anti-TPO) antibodies are strongly positive at 420 IU/mL. Which of the following is the most appropriate management plan for this patient?",
+    "options": [
+      {
+        "text": "Administer therapeutic oral radioactive iodine (I-131) ablation following expression of breast milk for 48 hours",
+        "correct": false,
+        "explanation": "Radioiodine (I-131) is strictly contraindicated in breastfeeding women due to extensive active concentration in mammary glands, which delivers massive radiation to maternal breast tissue and induces permanent thyroid ablation in the infant."
+      },
+      {
+        "text": "Initiate oral propranolol for symptomatic heart rate control, defer antithyroid medications, and monitor thyroid function every 4 to 8 weeks",
+        "correct": true,
+        "explanation": "This patient has Postpartum Thyroiditis (hyperthyroid phase), an autoimmune lymphocytic inflammation of the thyroid occurring within the first 12 months after delivery, mediated by postpartum immune rebound in women with anti-TPO antibodies. The pathophysiology involves autoimmune destruction of thyroid follicles with passive release of pre-formed thyroid hormones (T4 and T3) into the circulation. It is critical to recognize that this is a destructive thyroiditis, NOT hyperthyroidism driven by de novo hormone synthesis. Therefore, thionamides (methimazole, propylthiouracil) are completely ineffective because the thyroid gland is not actively synthesizing new hormone. Management is symptomatic using beta-adrenergic antagonists (e.g., oral propranolol) to control palpitations, tremor, and tachycardia. Furthermore, postpartum thyroiditis is self-limited; the thyrotoxic phase typically resolves in 2 to 8 weeks, often followed by a transient hypothyroid phase, requiring close longitudinal monitoring of TSH and free T4 every 4 to 8 weeks. Radioisotope uptake scanning (RAIU) is contraindicated in active lactation."
+      },
+      {
+        "text": "Initiate oral methimazole 20 mg once daily to inhibit thyroid hormone synthesis",
+        "correct": false,
+        "explanation": "Methimazole inhibits thyroid peroxidase-mediated organification; because postpartum thyroiditis is caused by release of pre-formed hormone rather than accelerated de novo synthesis, antithyroid drugs have zero clinical efficacy."
+      },
+      {
+        "text": "Perform a diagnostic 24-hour radioactive iodine uptake (RAIU) and scan to differentiate Graves disease from destructive thyroiditis",
+        "correct": false,
+        "explanation": "Diagnostic radioiodine uptake scans are contraindicated in actively breastfeeding mothers due to radioisotope secretion in breast milk; differentiation is achieved clinically via negative TSI/TRAb antibodies and non-tender goiter."
+      },
+      {
+        "text": "Perform urgent bilateral subtotal thyroidectomy to prevent progression to thyroid storm",
+        "correct": false,
+        "explanation": "Surgery is completely unwarranted for a benign, self-limited autoimmune thyroiditis."
+      }
+    ],
+    "explanation": "Postpartum thyroiditis causes transient thyrotoxicosis via release of pre-formed hormone. Thionamides (methimazole) are ineffective. Symptomatic beta-blockade (propranolol) is indicated; radioiodine testing is contraindicated in breastfeeding.",
+    "objective": "Manage postpartum thyroiditis in a breastfeeding mother by prescribing beta-blockers for symptoms, avoiding ineffective thionamides, and recognizing radioisotope contraindications in lactation.",
+    "keyPoints": [
+      "Postpartum thyroiditis is a destructive autoimmune thyroiditis releasing pre-formed hormone.",
+      "Thionamides (methimazole/PTU) are ineffective because new hormone synthesis is not increased.",
+      "Radioactive iodine (diagnostic or therapeutic) is strictly contraindicated during breastfeeding."
+    ],
+    "references": [
+      {
+        "label": "2017 Guidelines of the American Thyroid Association for the Diagnosis and Management of Thyroid Disease During Pregnancy and the Postpartum. Thyroid 2017;27:315–389. Section 9: Postpartum Thyroiditis",
+        "url": "https://www.liebertpub.com/doi/10.1089/thy.2016.0457"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s3-0009",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Medical Ethics",
+    "topic": "Decision-Making Capacity & Surrogate Authority in Acute Psychosis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 36-year-old man with a documented history of bipolar I disorder is brought to the emergency department by his sister due to 36 hours of worsening, severe right lower quadrant abdominal pain, vomiting, and high fevers. On physical examination, the patient is agitated, pacing, speaking in rapid pressured rhymes, and actively responding to auditory hallucinations. Temperature is 39.2 C (102.6 F), blood pressure is 104/62 mmHg, pulse is 126/min, and respirations are 22/min. Abdominal examination demonstrates exquisite tenderness in the right lower quadrant with involuntary board-like muscular rigidity, percussion tenderness, and marked rebound tenderness. Abdominal CT confirms acute gangrenous appendicitis with perforation and a loculated pericecal abscess. The acute care surgery team explains the emergent need for laparotomy and appendectomy. The patient vehemently refuses surgery, shouting that the surgical team are 'extraterrestrial shapeshifters sent by the government to implant listening devices inside my appendix.' He demands immediate discharge. The patient's sister presents valid legal documentation designating her as his durable power of attorney (DPOA) for healthcare decisions, executed 2 years ago during a period of documented euthymic stability. What is the most ethically and legally appropriate course of action?",
+    "options": [
+      {
+        "text": "Honor the patient's refusal of surgery because adult patients retain autonomous right to refuse medical intervention regardless of psychiatric diagnosis",
+        "correct": false,
+        "explanation": "Autonomy protects decisions made with capacity; an adult patient whose refusal is driven by acute persecutory delusions lacks capacity for that intervention, and honoring refusal would allow preventable death from septic peritonitis."
+      },
+      {
+        "text": "Obtain an emergency court order from a probate judge to appoint a temporary public guardian before proceeding with surgery",
+        "correct": false,
+        "explanation": "Judicial intervention is unnecessary and causes dangerous surgical delays when a valid, legally executed durable power of attorney for healthcare is readily available at the bedside."
+      },
+      {
+        "text": "Administer high-dose intramuscular haloperidol and delay surgery until his psychotic delusions resolve and he can provide personal informed consent",
+        "correct": false,
+        "explanation": "Perforated gangrenous appendicitis with peritonitis will progress to septic shock and death within hours; delaying emergency surgery for days while waiting for antimanic/antipsychotic response is malpractice."
+      },
+      {
+        "text": "Proceed with surgery under the emergency exception doctrine without consulting or involving the patient's designated surrogate",
+        "correct": false,
+        "explanation": "The emergency exception doctrine applies only when an incapacitated patient lacks a designated surrogate or available surrogate; bypassing an established, present DPOA violates surrogate decision-making laws."
+      },
+      {
+        "text": "Determine that the patient lacks decision-making capacity for this surgical decision, obtain informed consent from his medical power of attorney (sister), and proceed with emergent appendectomy",
+        "correct": true,
+        "explanation": "Decision-making capacity is decision-specific, time-specific, and clinical (determined by the treating physician). To possess decision-making capacity, a patient must be able to: (1) understand the medical condition and proposed treatment, (2) appreciate how the information applies directly to their own personal situation, (3) reason through the risks, benefits, and alternatives logically, and (4) express a consistent choice. This patient's refusal is directly dictated by active persecutory delusions (believing surgeons are alien shapeshifters implanting devices); he cannot appreciate reality or understand that untreated perforated appendicitis carries a high probability of death from septic shock. Because he lacks decision-making capacity for this life-saving intervention and has a designated, legally executed Durable Power of Attorney for Healthcare present at the bedside, the physician must turn to the designated surrogate (his sister) to provide informed consent and proceed promptly with emergency surgery."
+      }
+    ],
+    "explanation": "Psychotic delusions preventing a patient from understanding their life-threatening illness negate decision-making capacity. Informed consent should be obtained from the designated durable power of attorney for healthcare.",
+    "objective": "Determine decision-making incapacity in an acutely psychotic patient with life-threatening surgical disease and obtain consent from the designated healthcare proxy.",
+    "keyPoints": [
+      "Decision-making capacity requires understanding, appreciation, reasoning, and expressing a choice.",
+      "Delusions directly governing treatment refusal demonstrate lack of capacity.",
+      "When capacity is absent, consent is obtained from the legal surrogate (durable power of attorney)."
+    ],
+    "references": [
+      {
+        "label": "Appelbaum PS. Assessment of Patients' Competence to Consent to Treatment. N Engl J Med 2007;357:1834–1840. AMA Code of Medical Ethics Opinion 2.1.2: Decisions for Adult Patients Who Lack Capacity",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMcp074045"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s3-0010",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Clinical Trial Attrition Bias & Informative Censoring",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A randomized, double-blind, placebo-controlled clinical trial evaluates a novel PCSK9 monoclonal antibody in 10,000 patients with established atherosclerotic cardiovascular disease over a 3-year follow-up period. The primary composite outcome (cardiovascular death, myocardial infarction, or stroke) occurs in 6.0% of patients in the treatment group and 9.0% of patients in the placebo group (absolute risk reduction [ARR]: 3.0%; p = 0.001; intention-to-treat analysis). However, analysis of trial completion records reveals that 1,250 patients (12.5% of the total enrolled cohort) were lost to follow-up prior to the 3-year study completion (650 in the treatment group and 600 in the placebo group), with their vital status and cardiovascular endpoints unknown. Which of the following forms of systematic bias represents the greatest threat to the internal validity of this trial's reported benefit?",
+    "options": [
+      {
+        "text": "Confounding bias because baseline cardiovascular risk factors were unbalanced between groups",
+        "correct": false,
+        "explanation": "Proper randomization in a large sample (10,000 participants) reliably balances both measured and unmeasured baseline confounding variables across study arms."
+      },
+      {
+        "text": "Detection (surveillance) bias resulting from differential diagnostic screening between treatment arms",
+        "correct": false,
+        "explanation": "Double-blinding of both patients and clinical investigators prevents detection bias; hard clinical endpoints (death, MI, stroke) were adjudicated by a blinded clinical events committee."
+      },
+      {
+        "text": "Attrition bias because the loss-to-follow-up rate exceeds the observed absolute risk reduction, creating the potential for informative censoring to overturn the benefit",
+        "correct": true,
+        "explanation": "This scenario demonstrates Attrition Bias (loss-to-follow-up bias), a critical form of selection bias occurring after randomization. Here, the trial demonstrates a 3.0% absolute risk reduction (ARR). However, 12.5% of the study cohort (1,250 patients) was lost to follow-up—a dropout rate more than four times greater than the observed treatment effect size. When the loss-to-follow-up rate exceeds the absolute treatment effect, the trial is highly vulnerable to informative censoring (non-random dropouts). If dropouts in the treatment arm experienced adverse cardiovascular events or death at a modestly higher rate than dropouts in the placebo group, this unmeasured differential outcome would completely negate or reverse the apparent 3.0% benefit. Best-case/worst-case sensitivity analyses are required; high attrition directly threatens the internal validity of the trial."
+      },
+      {
+        "text": "Recall bias arising from differential patient memory of previous transient ischemic attacks",
+        "correct": false,
+        "explanation": "Recall bias affects retrospective case-control studies; in a prospective randomized controlled trial, outcome events are documented contemporaneously through clinical records."
+      },
+      {
+        "text": "Hawthorne effect due to altered patient behavior from active clinical trial participation",
+        "correct": false,
+        "explanation": "The Hawthorne effect occurs when study subjects change their behavior because they know they are being observed; in a placebo-controlled trial, this effect influences both arms equally and does not explain differential attrition risks."
+      }
+    ],
+    "explanation": "When loss-to-follow-up (12.5%) exceeds the absolute treatment effect size (3.0%), attrition bias is a fatal threat to internal validity because informative censoring could completely overturn the observed benefit.",
+    "objective": "Identify attrition bias as a threat to internal validity when the loss-to-follow-up rate exceeds the observed absolute risk reduction in a randomized controlled trial.",
+    "keyPoints": [
+      "Attrition bias occurs when participants drop out non-randomly during follow-up.",
+      "When loss to follow-up exceeds the absolute risk reduction, informative censoring can reverse the result.",
+      "Intention-to-treat analysis and worst-case sensitivity analyses are necessary to assess attrition bias impact."
+    ],
+    "references": [
+      {
+        "label": "CONSORT 2010 Statement: Updated Guidelines for Reporting Parallel Group Randomised Trials. BMJ 2010;340:c332. Items 13b & 16: Participant Flow and Losses to Follow-up",
+        "url": "https://www.bmj.com/content/340/bmj.c332"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  }
+]
