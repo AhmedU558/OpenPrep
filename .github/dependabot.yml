@@ -5,6 +5,10 @@ updates:
     schedule:
       interval: weekly
     open-pull-requests-limit: 5
+    ignore:
+      # Remove when typescript-eslint supports TypeScript 7.
+      - dependency-name: typescript
+        versions: ['>=7.0.0 <8.0.0']
     groups:
       prisma:
         patterns: ['prisma', '@prisma/*']
