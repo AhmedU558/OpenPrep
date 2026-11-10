@@ -1,0 +1,2566 @@
+{
+  "batch": "batch-04",
+  "at": "2026-10-30T14:56:41.072Z",
+  "contentHash": "6386cbe55aa43e3df92dbd40b98e0195315e06853174d2ad038a60c878e92c11",
+  "authored": 60,
+  "structurallyValid": 60,
+  "duplicateOrRejected": 0,
+  "createdThisRun": 0,
+  "skippedThisRun": 0,
+  "imported": 0,
+  "humanApproved": 0,
+  "practiceReady": 0,
+  "firstImport": null,
+  "findings": [
+    {
+      "code": "op-s3-0301",
+      "candidates": [
+        {
+          "code": "op26x-0325",
+          "score": 0.2073,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0442",
+          "score": 0.1206,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "s2-0008",
+          "score": 0.1103,
+          "sameObjective": false,
+          "lexical": 0.027586206896551724
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "The cited US rehabilitation guideline is from 2016; reviewer must confirm current acute-stroke screening workflow."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0302",
+      "candidates": [
+        {
+          "code": "op26x-0413",
+          "score": 0.1854,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0325",
+          "score": 0.1206,
+          "sameObjective": false,
+          "lexical": 0.02247191011235955
+        },
+        {
+          "code": "op26x-0653",
+          "score": 0.1173,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Confirm contemporary US guidance on gastrostomy timing and local nasogastric-placement contraindications."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0303",
+      "candidates": [
+        {
+          "code": "op-s3-0061",
+          "score": 0.151,
+          "sameObjective": false,
+          "lexical": 0.008064516129032258
+        },
+        {
+          "code": "op26-0171",
+          "score": 0.1434,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0063",
+          "score": 0.1294,
+          "sameObjective": false,
+          "lexical": 0.007751937984496124
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Direct AHA statement access returned403; bibliographic identity and every diagnostic claim require independent confirmation."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0304",
+      "candidates": [
+        {
+          "code": "op-s3-0068",
+          "score": 0.125,
+          "sameObjective": false,
+          "lexical": 0.041666666666666664
+        },
+        {
+          "code": "op26x-0429",
+          "score": 0.1209,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0025",
+          "score": 0.12,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Verify current second-line status protocol and equivalent alternatives; source overview does not establish dosing."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0305",
+      "candidates": [
+        {
+          "code": "op-s3-0304",
+          "score": 0.1387,
+          "sameObjective": false,
+          "lexical": 0.007874015748031496
+        },
+        {
+          "code": "op26x-0314",
+          "score": 0.111,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0630",
+          "score": 0.1094,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Reviewer should confirm the monitoring indication without implying one universal postictal time cutoff."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0306",
+      "candidates": [
+        {
+          "code": "op26-0168",
+          "score": 0.2221,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0421",
+          "score": 0.1439,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0630",
+          "score": 0.1339,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Search portal is not a fixed product label; reviewer must attach exact current labeling and verify carnitine indications."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0307",
+      "candidates": [
+        {
+          "code": "op-s3-0061",
+          "score": 0.11,
+          "sameObjective": false,
+          "lexical": 0.016666666666666666
+        },
+        {
+          "code": "op26x-0369",
+          "score": 0.1019,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0027",
+          "score": 0.0921,
+          "sameObjective": false,
+          "lexical": 0.034782608695652174
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Parenteral regimen and magnesium replacement need current local specialist guidance; no dose is specified."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0308",
+      "candidates": [
+        {
+          "code": "op26x-0366",
+          "score": 0.1929,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0475",
+          "score": 0.166,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0058",
+          "score": 0.1377,
+          "sameObjective": false,
+          "lexical": 0.021505376344086023
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Verify zinc exposure interpretation, copper biomarkers and replacement approach; biomarker limitations remain important."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0309",
+      "candidates": [
+        {
+          "code": "op26x-0366",
+          "score": 0.1268,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0006",
+          "score": 0.1213,
+          "sameObjective": false,
+          "lexical": 0.023622047244094488
+        },
+        {
+          "code": "op26x-0322",
+          "score": 0.1056,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Australian regulatory source does not define US intake policy; exact dose-response and recovery claims need review."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0310",
+      "candidates": [
+        {
+          "code": "op26x-0366",
+          "score": 0.2148,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0476",
+          "score": 0.1718,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0475",
+          "score": 0.1635,
+          "sameObjective": false,
+          "lexical": 0.011111111111111112
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Overlaps B12 domain with existing bank but tests metformin-associated evaluation rather than nitrous oxide or immediate replacement; semantic review required."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0311",
+      "candidates": [
+        {
+          "code": "op26-0040",
+          "score": 0.3561,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0006",
+          "score": 0.1828,
+          "sameObjective": false,
+          "lexical": 0.04032258064516129
+        },
+        {
+          "code": "op26-0038",
+          "score": 0.126,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Reviewer should verify biochemical specificity and avoid treating thiamine response as a standalone diagnostic test."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0312",
+      "candidates": [
+        {
+          "code": "op26x-0366",
+          "score": 0.255,
+          "sameObjective": false,
+          "lexical": 0.012345679012345678
+        },
+        {
+          "code": "op26x-0415",
+          "score": 0.1824,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0058",
+          "score": 0.1756,
+          "sameObjective": false,
+          "lexical": 0.022988505747126436
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Vitamin E assay interpretation and replacement formulation in malabsorption require specialist verification."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0313",
+      "candidates": [
+        {
+          "code": "op26x-0310",
+          "score": 0.1637,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0008",
+          "score": 0.1401,
+          "sameObjective": false,
+          "lexical": 0.01652892561983471
+        },
+        {
+          "code": "op26x-0756",
+          "score": 0.1016,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Direct NINDS page access returned403; attach authoritative medication-specific evidence for the levodopa-protein interaction before approval."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0314",
+      "candidates": [
+        {
+          "code": "op26-0056",
+          "score": 0.2796,
+          "sameObjective": false,
+          "lexical": 0.010752688172043012
+        },
+        {
+          "code": "op-s3-0005",
+          "score": 0.2646,
+          "sameObjective": false,
+          "lexical": 0.06722689075630252
+        },
+        {
+          "code": "op-s3-0053",
+          "score": 0.2356,
+          "sameObjective": false,
+          "lexical": 0.04032258064516129
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Confirm current AASM route-of-replacement recommendations and monitoring before clinical use."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0315",
+      "candidates": [
+        {
+          "code": "op26x-0483",
+          "score": 0.1541,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0320",
+          "score": 0.106,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0137",
+          "score": 0.0752,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Confirm current US antitoxin access pathway; infant botulism requires a different product and pathway."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0316",
+      "candidates": [
+        {
+          "code": "op26x-0290",
+          "score": 0.1677,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0315",
+          "score": 0.1063,
+          "sameObjective": false,
+          "lexical": 0.008620689655172414
+        },
+        {
+          "code": "op26x-0309",
+          "score": 0.1006,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "CDC2006 report accessed; species and geographic differences and individual recovery intervals still require review."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0317",
+      "candidates": [
+        {
+          "code": "op26x-0303",
+          "score": 0.2723,
+          "sameObjective": false,
+          "lexical": 0.011904761904761904
+        },
+        {
+          "code": "op26x-0302",
+          "score": 0.1817,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0320",
+          "score": 0.0938,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Direct source access returned403; verify current treatment timing, IVIG contraindications and alternatives with a professional guideline."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0318",
+      "candidates": [
+        {
+          "code": "op-s3-0312",
+          "score": 0.1243,
+          "sameObjective": false,
+          "lexical": 0.01694915254237288
+        },
+        {
+          "code": "op26-0005",
+          "score": 0.116,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0302",
+          "score": 0.0914,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Attach a current US professional guideline for malignancy-screening modality and follow-up interval."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0319",
+      "candidates": [
+        {
+          "code": "op26-0172",
+          "score": 0.2202,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0301",
+          "score": 0.2116,
+          "sameObjective": false,
+          "lexical": 0.023809523809523808
+        },
+        {
+          "code": "op26-0033",
+          "score": 0.1649,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Medication-specific risk and replacement strategy need authoritative current labeling or specialty guidance; broad overview is insufficient."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0320",
+      "candidates": [
+        {
+          "code": "op-s3-0029",
+          "score": 0.1685,
+          "sameObjective": false,
+          "lexical": 0.015748031496062992
+        },
+        {
+          "code": "op26x-0413",
+          "score": 0.1319,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0028",
+          "score": 0.1308,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Historical AAN document requires current evidence review, especially procedural timing, respiratory support and survival claims."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0321",
+      "candidates": [
+        {
+          "code": "s2-0004",
+          "score": 0.2499,
+          "sameObjective": false,
+          "lexical": 0.008130081300813009
+        },
+        {
+          "code": "op-s3-0304",
+          "score": 0.1292,
+          "sameObjective": false,
+          "lexical": 0.00819672131147541
+        },
+        {
+          "code": "op26-0171",
+          "score": 0.1147,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Broad guideline directory is insufficient final evidence; attach current acute-stroke guideline and anticoagulant-specific selection protocol."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0322",
+      "candidates": [
+        {
+          "code": "op26x-0455",
+          "score": 0.1243,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0682",
+          "score": 0.1177,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0317",
+          "score": 0.1172,
+          "sameObjective": false,
+          "lexical": 0.011235955056179775
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "absolute-claim",
+          "detail": "Inspect absolute wording, exceptions and jurisdiction."
+        },
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Confirm imaging protocol and avoid implying that every isolated Horner syndrome has this cause."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0323",
+      "candidates": [
+        {
+          "code": "op26x-0308",
+          "score": 0.1987,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0037",
+          "score": 0.14,
+          "sameObjective": false,
+          "lexical": 0.017094017094017096
+        },
+        {
+          "code": "op26x-0309",
+          "score": 0.1239,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "IDSA2015 guideline page accessed; confirm currency and scope because vertebral infection guidance does not cover every epidural abscess scenario."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0324",
+      "candidates": [
+        {
+          "code": "op26-0008",
+          "score": 0.2491,
+          "sameObjective": false,
+          "lexical": 0.009900990099009901
+        },
+        {
+          "code": "op-s3-0037",
+          "score": 0.166,
+          "sameObjective": false,
+          "lexical": 0.008333333333333333
+        },
+        {
+          "code": "op26-0171",
+          "score": 0.1476,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Direct NINDS page access returned403; verify spinal vascular pattern and current postoperative rescue protocols separately."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0325",
+      "candidates": [
+        {
+          "code": "op26x-0361",
+          "score": 0.1096,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0303",
+          "score": 0.1004,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0670",
+          "score": 0.0951,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Direct AHA guideline access returned403; surgical selection and ventricular-drain strategy require specialist claim review."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0326",
+      "candidates": [
+        {
+          "code": "op-s3-0303",
+          "score": 0.1816,
+          "sameObjective": false,
+          "lexical": 0.008
+        },
+        {
+          "code": "op26-0171",
+          "score": 0.1634,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0317",
+          "score": 0.1552,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Direct AHA guideline access returned403; verify bibliographic identity and current terminology; no specific hemodynamic intervention is prescribed."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0327",
+      "candidates": [
+        {
+          "code": "op-s3-0322",
+          "score": 0.2481,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0006",
+          "score": 0.1718,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0316",
+          "score": 0.1316,
+          "sameObjective": false,
+          "lexical": 0.039473684210526314
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Direct NINDS page access returned403; verify imaging selection and contemporary evaluation of all acquired third nerve palsies."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0328",
+      "candidates": [
+        {
+          "code": "op26x-0681",
+          "score": 0.1617,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0006",
+          "score": 0.1447,
+          "sameObjective": false,
+          "lexical": 0.011111111111111112
+        },
+        {
+          "code": "op-s3-0327",
+          "score": 0.1362,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "AAO-HNS guideline page accessed and identifies2013 publication; verify currency and exact eye-protection instructions."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0329",
+      "candidates": [
+        {
+          "code": "op-s3-0328",
+          "score": 0.1749,
+          "sameObjective": false,
+          "lexical": 0.02654867256637168
+        },
+        {
+          "code": "op26-0171",
+          "score": 0.1349,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0303",
+          "score": 0.0884,
+          "sameObjective": false,
+          "lexical": 0.01652892561983471
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "absolute-claim",
+          "detail": "Inspect absolute wording, exceptions and jurisdiction."
+        },
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Direct NINDS page access returned403; reviewer must validate the reference, treatment evidence and diagnostic distinctions."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0330",
+      "candidates": [
+        {
+          "code": "op26x-0318",
+          "score": 0.1244,
+          "sameObjective": false,
+          "lexical": 0.02197802197802198
+        },
+        {
+          "code": "op-s3-0028",
+          "score": 0.1059,
+          "sameObjective": false,
+          "lexical": 0.01652892561983471
+        },
+        {
+          "code": "op26x-0502",
+          "score": 0.0995,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Verify current cluster-specific flow, delivery and safety protocol; broad booklet does not establish all implementation details."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0331",
+      "candidates": [
+        {
+          "code": "op-s3-0061",
+          "score": 0.1275,
+          "sameObjective": false,
+          "lexical": 0.05263157894736842
+        },
+        {
+          "code": "op-s3-0303",
+          "score": 0.1274,
+          "sameObjective": false,
+          "lexical": 0.016260162601626018
+        },
+        {
+          "code": "op26x-0324",
+          "score": 0.1044,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Confirm contemporary imaging and lumbar-puncture sequence and the exact medication association using specialty guidance."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0332",
+      "candidates": [
+        {
+          "code": "op-s3-0327",
+          "score": 0.1297,
+          "sameObjective": false,
+          "lexical": 0.046296296296296294
+        },
+        {
+          "code": "op-s3-0062",
+          "score": 0.1136,
+          "sameObjective": false,
+          "lexical": 0.016666666666666666
+        },
+        {
+          "code": "op26x-0316",
+          "score": 0.111,
+          "sameObjective": false,
+          "lexical": 0.03896103896103896
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Route and regimen for threatened vision, biopsy timing, and guideline currency require direct specialist verification."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0333",
+      "candidates": [
+        {
+          "code": "op26x-0314",
+          "score": 0.1724,
+          "sameObjective": false,
+          "lexical": 0.011627906976744186
+        },
+        {
+          "code": "op26x-0316",
+          "score": 0.1537,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0318",
+          "score": 0.1096,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Prevention guideline is not a diagnostic-classification source; attach current headache diagnostic criteria before approval."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0334",
+      "candidates": [
+        {
+          "code": "op26x-0799",
+          "score": 0.343,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0035",
+          "score": 0.2779,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0163",
+          "score": 0.1869,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "numeric-units",
+          "detail": "Independently recalculate numerical claims and check units/assumptions."
+        },
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Replace search portal with a fixed current official label and verify urinary-chemistry claims."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0335",
+      "candidates": [
+        {
+          "code": "op26x-0319",
+          "score": 0.1889,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0320",
+          "score": 0.1525,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0329",
+          "score": 0.1405,
+          "sameObjective": false,
+          "lexical": 0.035398230088495575
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Source page accessed, but exact diagnostic duration criteria and exclusion strategy still require review; no dietary sodium target is asserted."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0336",
+      "candidates": [
+        {
+          "code": "op-s3-0335",
+          "score": 0.2381,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0329",
+          "score": 0.123,
+          "sameObjective": false,
+          "lexical": 0.017543859649122806
+        },
+        {
+          "code": "op26-0090",
+          "score": 0.1211,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Confirm current specialty guidance on timing, steroid options, contraindications and retrocochlear assessment."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0337",
+      "candidates": [
+        {
+          "code": "op26x-0302",
+          "score": 0.1815,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0323",
+          "score": 0.1802,
+          "sameObjective": false,
+          "lexical": 0.02702702702702703
+        },
+        {
+          "code": "op26x-0308",
+          "score": 0.1447,
+          "sameObjective": false,
+          "lexical": 0.012658227848101266
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Exact MRI/CSF criteria and antibody-testing indications require current neuroimmunology review."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0338",
+      "candidates": [
+        {
+          "code": "op-s3-0327",
+          "score": 0.1867,
+          "sameObjective": false,
+          "lexical": 0.008849557522123894
+        },
+        {
+          "code": "op26-0006",
+          "score": 0.165,
+          "sameObjective": false,
+          "lexical": 0.011111111111111112
+        },
+        {
+          "code": "op-s3-0328",
+          "score": 0.1266,
+          "sameObjective": false,
+          "lexical": 0.008695652173913044
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Original proposed NEI URL returned404 and was replaced with indexed AAO professional education; full physiological claim review remains pending."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0339",
+      "candidates": [
+        {
+          "code": "op-s3-0324",
+          "score": 0.2619,
+          "sameObjective": false,
+          "lexical": 0.008771929824561403
+        },
+        {
+          "code": "op26-0008",
+          "score": 0.2084,
+          "sameObjective": false,
+          "lexical": 0.020202020202020204
+        },
+        {
+          "code": "op26x-0309",
+          "score": 0.1631,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Source overview does not independently verify every tract-level assertion; anatomical claim review required."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0340",
+      "candidates": [
+        {
+          "code": "op26-0124",
+          "score": 0.2519,
+          "sameObjective": false,
+          "lexical": 0.024096385542168676
+        },
+        {
+          "code": "op-s3-0013",
+          "score": 0.14,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0311",
+          "score": 0.0894,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Canonical URL resolved and page accessed; individualized repeat-risk and onset interpretation require genetics review."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0341",
+      "candidates": [
+        {
+          "code": "op26x-0232",
+          "score": 0.1893,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0337",
+          "score": 0.1078,
+          "sameObjective": false,
+          "lexical": 0.01694915254237288
+        },
+        {
+          "code": "op-s3-0332",
+          "score": 0.1077,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Overview source does not establish regimen or repeat-PCR rules; current infectious-disease guidance must verify those claims."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0342",
+      "candidates": [
+        {
+          "code": "op-s3-0331",
+          "score": 0.1295,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0061",
+          "score": 0.1137,
+          "sameObjective": false,
+          "lexical": 0.008547008547008548
+        },
+        {
+          "code": "op26x-0638",
+          "score": 0.0892,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "reference-specificity",
+          "detail": "A broad source needs section/claim-level checking."
+        },
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Verify current US HIV recommendations, drainage targets and contraindications; no fixed drainage volume is asserted."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0343",
+      "candidates": [
+        {
+          "code": "op26x-0446",
+          "score": 0.1162,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0322",
+          "score": 0.114,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0342",
+          "score": 0.1119,
+          "sameObjective": false,
+          "lexical": 0.017391304347826087
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Confirm current diagnostic sensitivity and atypical enhancement patterns, particularly with immune reconstitution."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0344",
+      "candidates": [
+        {
+          "code": "op-s3-0343",
+          "score": 0.2335,
+          "sameObjective": false,
+          "lexical": 0.008264462809917356
+        },
+        {
+          "code": "op-s3-0303",
+          "score": 0.1213,
+          "sameObjective": false,
+          "lexical": 0.015873015873015872
+        },
+        {
+          "code": "op26x-0291",
+          "score": 0.1092,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Imaging and IgG cannot definitively exclude lymphoma; verify the intended presumptive-diagnosis framing and response-based reassessment strategy."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0345",
+      "candidates": [
+        {
+          "code": "op-s3-0344",
+          "score": 0.1741,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0342",
+          "score": 0.1662,
+          "sameObjective": false,
+          "lexical": 0.01694915254237288
+        },
+        {
+          "code": "op-s3-0303",
+          "score": 0.1283,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Broad NIH overview is insufficient for abscess procedural guidance; attach current neurosurgical/infectious-disease guideline before approval."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0346",
+      "candidates": [
+        {
+          "code": "op-s3-0043",
+          "score": 0.1698,
+          "sameObjective": false,
+          "lexical": 0.008403361344537815
+        },
+        {
+          "code": "op-s3-0333",
+          "score": 0.1227,
+          "sameObjective": false,
+          "lexical": 0.008333333333333333
+        },
+        {
+          "code": "op26x-0312",
+          "score": 0.1183,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Reviewer must verify mechanistic wording and distinguish this objective from existing infection-triggered pseudo-relapse content."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0347",
+      "candidates": [
+        {
+          "code": "op26x-0365",
+          "score": 0.186,
+          "sameObjective": false,
+          "lexical": 0.012048192771084338
+        },
+        {
+          "code": "op-s3-0312",
+          "score": 0.1492,
+          "sameObjective": false,
+          "lexical": 0.025210084033613446
+        },
+        {
+          "code": "op26x-0350",
+          "score": 0.1383,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Appropriate home versus laboratory testing selection and cognitive-outcome claims need current sleep-medicine review."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0348",
+      "candidates": [
+        {
+          "code": "op-s3-0347",
+          "score": 0.151,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0438",
+          "score": 0.0867,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0314",
+          "score": 0.0816,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Formal sleep-test preparation and diagnostic criteria require current specialty verification; syndrome remains presumptive."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0349",
+      "candidates": [
+        {
+          "code": "op-s3-0345",
+          "score": 0.239,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0342",
+          "score": 0.1715,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0318",
+          "score": 0.1316,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "ASA statement page accessed and identifies2021 obstetric committee origin; verify applicability to diagnostic LP, current terminology and blood-patch indications."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0350",
+      "candidates": [
+        {
+          "code": "op26x-0391",
+          "score": 0.1583,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0385",
+          "score": 0.1204,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0434",
+          "score": 0.1168,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Verify current label and product equivalence, renal dosing and EEG indications; no dose or dialysis threshold is specified."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0391",
+      "candidates": [
+        {
+          "code": "op-s3-0029",
+          "score": 0.1813,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0695",
+          "score": 0.1436,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0320",
+          "score": 0.1203,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Formal diagnostic exclusions, pediatric growth assessment and treatment planning require qualified review."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0392",
+      "candidates": [
+        {
+          "code": "op26x-0695",
+          "score": 0.1326,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0438",
+          "score": 0.1223,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0335",
+          "score": 0.1194,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Formal criteria and differential diagnosis require current diagnostic reference review; avoid equating all overeating with binge-eating disorder."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0393",
+      "candidates": [
+        {
+          "code": "op26x-0693",
+          "score": 0.1071,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0094",
+          "score": 0.0959,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0017",
+          "score": 0.088,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Verify current treatment choices and adverse-effect differential; no particular adjunctive drug is prescribed."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0394",
+      "candidates": [
+        {
+          "code": "op-s3-0337",
+          "score": 0.0856,
+          "sameObjective": false,
+          "lexical": 0.008403361344537815
+        },
+        {
+          "code": "op26x-0317",
+          "score": 0.078,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0337",
+          "score": 0.078,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Formal criteria, neurological mimics and challenge-test interpretation require specialist review."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0395",
+      "candidates": [
+        {
+          "code": "op26-0095",
+          "score": 0.2788,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26-0087",
+          "score": 0.2121,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0776",
+          "score": 0.1394,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "absolute-claim",
+          "detail": "Inspect absolute wording, exceptions and jurisdiction."
+        },
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Verify current fentanyl-era initiation guidance and avoid implying that standard withdrawal-based induction is the only acceptable strategy."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0396",
+      "candidates": [
+        {
+          "code": "op26-0182",
+          "score": 0.1785,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0406",
+          "score": 0.1313,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op26x-0485",
+          "score": 0.1131,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Verify acute medication-holding decisions, laxative contraindications and local emergency assessment protocol."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0397",
+      "candidates": [
+        {
+          "code": "op-s3-0021",
+          "score": 0.1394,
+          "sameObjective": false,
+          "lexical": 0.016666666666666666
+        },
+        {
+          "code": "op26x-0337",
+          "score": 0.1358,
+          "sameObjective": false,
+          "lexical": 0.011764705882352941
+        },
+        {
+          "code": "op26x-0341",
+          "score": 0.134,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "absolute-claim",
+          "detail": "Inspect absolute wording, exceptions and jurisdiction."
+        },
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Guideline notes limited comparative evidence for schedules; no fixed taper percentage or interval is asserted."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0398",
+      "candidates": [
+        {
+          "code": "op-s3-0061",
+          "score": 0.144,
+          "sameObjective": false,
+          "lexical": 0.017391304347826087
+        },
+        {
+          "code": "op-s3-0012",
+          "score": 0.1342,
+          "sameObjective": false,
+          "lexical": 0.00847457627118644
+        },
+        {
+          "code": "op26x-0330",
+          "score": 0.1322,
+          "sameObjective": false,
+          "lexical": 0
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Confirm contemporary protocol, hepatic-disease drug selection and appropriate severity monitoring; no dose or scale is prescribed."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0399",
+      "candidates": [
+        {
+          "code": "op-s3-0021",
+          "score": 0.1534,
+          "sameObjective": false,
+          "lexical": 0.017094017094017096
+        },
+        {
+          "code": "op-s3-0320",
+          "score": 0.131,
+          "sameObjective": false,
+          "lexical": 0.05217391304347826
+        },
+        {
+          "code": "op-s3-0397",
+          "score": 0.1171,
+          "sameObjective": false,
+          "lexical": 0.017699115044247787
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Broad overview does not establish agent-specific metabolic risks or switching strategy; add current specialty guidance and exact drug context during review."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    },
+    {
+      "code": "op-s3-0400",
+      "candidates": [
+        {
+          "code": "op-s3-0332",
+          "score": 0.139,
+          "sameObjective": false,
+          "lexical": 0.04672897196261682
+        },
+        {
+          "code": "op26x-0337",
+          "score": 0.1232,
+          "sameObjective": false,
+          "lexical": 0
+        },
+        {
+          "code": "op-s3-0336",
+          "score": 0.1181,
+          "sameObjective": false,
+          "lexical": 0.046296296296296294
+        }
+      ],
+      "findings": [
+        {
+          "severity": "review",
+          "kind": "author-concern",
+          "detail": "Verify current boxed warning, product label and emergency skin-reaction guidance; no rechallenge recommendation is made."
+        },
+        {
+          "severity": "review",
+          "kind": "clinical-review",
+          "detail": "Qualified clinical review of answer uniqueness, all claims, distractors and current recommendations is pending."
+        },
+        {
+          "severity": "review",
+          "kind": "rights-review",
+          "detail": "Claimed authorship/license is not evidence approval; rights remain UNVERIFIED and delivery/export are denied."
+        }
+      ],
+      "structurallyValid": true,
+      "blocked": false
+    }
+  ]
+}

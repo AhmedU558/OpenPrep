@@ -1,0 +1,1327 @@
+[
+  {
+    "code": "op-c-s3-0001",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Apparent Treatment-Resistant Hypertension & Aldosterone Antagonism",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old man presents to the primary care clinic for routine follow-up of hypertension. He feels well and reports adherence to his current three-drug regimen: amlodipine 10 mg daily, losartan 100 mg daily, and chlorthalidone 25 mg daily. He does not take nonsteroidal anti-inflammatory drugs, decongestants, or herbal supplements. A 24-hour ambulatory blood pressure monitoring study confirms true persistent daytime and nighttime hypertension, with an average blood pressure of 148/92 mmHg. Physical examination reveals: BMI 28 kg/m2, blood pressure 150/94 mmHg in both arms, heart rate 72/min, normal fundoscopic examination without arteriolar narrowing, and no abdominal bruits or peripheral edema. Serum chemistries demonstrate: sodium 140 mEq/L, potassium 4.2 mEq/L, chloride 102 mEq/L, bicarbonate 26 mEq/L, blood urea nitrogen 14 mg/dL, and estimated GFR 84 mL/min/1.73m2. Urine albumin-to-creatinine ratio is 18 mg/g (normal: < 30 mg/g). Workup for secondary causes of hypertension (including plasma aldosterone-to-renin ratio, renal artery duplex ultrasound, and overnight polysomnography) is completely negative. According to current AHA/ACC hypertension guidelines, which of the following is the most effective fourth-line pharmacological agent to add to this patient's regimen to achieve target blood pressure control?",
+    "options": [
+      {
+        "text": "Oral spironolactone 25 mg once daily",
+        "correct": true,
+        "explanation": "Resistant hypertension is defined as blood pressure that remains above goal (>= 130/80 mmHg) despite concurrent adherence to maximum tolerated doses of three antihypertensive classes with complementary mechanisms, one of which must be a diuretic (typically an ACE inhibitor/ARB, a dihydropyridine calcium channel blocker, and a long-acting thiazide-like diuretic such as chlorthalidone). The landmark PATHWAY-2 trial (Lancet 2015) established that the mineralocorticoid receptor antagonist (MRA) spironolactone (25–50 mg daily) is the clear, most effective fourth-line add-on agent for resistant hypertension, significantly outperforming beta-blockers (bisoprolol) and alpha-1 blockers (doxazosin). Resistant hypertension is frequently driven by occult aldosterone excess and persistent sodium retention. Because this patient has normal renal function (eGFR 84) and baseline potassium 4.2 mEq/L (well below the 5.0 mEq/L safety threshold), spironolactone is safe and indicated, with serum potassium and creatinine rechecked 1–2 weeks after initiation."
+      },
+      {
+        "text": "Oral clonidine 0.1 mg twice daily",
+        "correct": false,
+        "explanation": "Centrally acting alpha-2 agonists (clonidine, guanfacine) are fifth-line or salvage agents; they cause significant sedation, dry mouth, cognitive slowing, and life-threatening rebound hypertensive crises if doses are abruptly missed, making them inferior to spironolactone."
+      },
+      {
+        "text": "Oral hydralazine 25 mg three times daily",
+        "correct": false,
+        "explanation": "Hydralazine is a direct arteriolar vasodilator; monotherapy triggers reflex sympathetic tachycardia and fluid retention, requiring frequent daily dosing (TID) with poor adherence, and was proven inferior to spironolactone in clinical trials."
+      },
+      {
+        "text": "Increase chlorthalidone dose from 25 mg to 50 mg daily",
+        "correct": false,
+        "explanation": "Increasing chlorthalidone from 25 mg to 50 mg daily provides minimal additional blood pressure reduction while sharply escalating the risk of hypokalemia, hyponatremia, hyperuricemia, and dyslipidemia."
+      },
+      {
+        "text": "Discontinue losartan and substitute oral aliskiren 150 mg daily",
+        "correct": false,
+        "explanation": "Dual renin-angiotensin-aldosterone system (RAAS) blockade (combining ARB with direct renin inhibitor aliskiren) is strictly contraindicated because clinical trials (ALTITUDE trial) proved it increases renal failure, hyperkalemia, and stroke without cardiovascular benefit."
+      }
+    ],
+    "explanation": "Resistant hypertension is defined as BP uncontrolled on 3 classes (including a diuretic). The PATHWAY-2 trial demonstrated that the mineralocorticoid receptor antagonist spironolactone (25-50 mg daily) is the most effective fourth-line drug, superior to alpha-blockers or beta-blockers. Safety criteria for MRA initiation include eGFR > 30 mL/min and baseline potassium < 5.0 mEq/L. Serum potassium and creatinine must be monitored within 1-2 weeks.",
+    "objective": "Select spironolactone as the most effective fourth-line add-on agent for resistant hypertension in patients with adequate renal function and normal potassium based on PATHWAY-2 evidence.",
+    "keyPoints": [
+      "Resistant HTN: uncontrolled on 3 drugs including a diuretic.",
+      "Fourth-line choice of proven superiority: spironolactone 25 mg daily (PATHWAY-2 trial).",
+      "Requires baseline K+ < 5.0 mEq/L and eGFR > 30 mL/min; recheck labs in 1–2 weeks."
+    ],
+    "references": [
+      {
+        "label": "2025 AHA/ACC Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure",
+        "url": "https://www.ahajournals.org/doi/10.1161/HYP.0000000000000249"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0002",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Type 2 Diabetes Mellitus with Established ASCVD & GLP-1 RA / SGLT2i Selection",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man presents to the primary care clinic for routine diabetes follow-up. He has a 12-year history of type 2 diabetes mellitus and sustained an acute inferior myocardial infarction treated with drug-eluting stent placement in the right coronary artery 2 years ago. Current medications are: metformin 1,000 mg twice daily, atorvastatin 80 mg daily, metoprolol succinate 50 mg daily, and aspirin 81 mg daily. Physical examination reveals: BMI 34 kg/m2, blood pressure 126/78 mmHg, and heart rate 68/min without peripheral edema or heart failure signs. Laboratory testing reveals: hemoglobin A1c 8.2%, fasting plasma glucose 168 mg/dL, serum creatinine 1.0 mg/dL, estimated GFR 78 mL/min/1.73m2, and urine albumin-to-creatinine ratio 14 mg/g (normal: < 30 mg/g). He is interested in losing weight and reducing his cardiovascular risk. Which of the following is the most appropriate next step in the pharmacological management of this patient's glycemic and cardiovascular status?",
+    "options": [
+      {
+        "text": "Add oral glipizide 5 mg daily before breakfast",
+        "correct": false,
+        "explanation": "Sulfonylureas (glipizide) stimulate beta-cell insulin secretion, carrying high risks of hypoglycemia and weight GAIN, while providing ZERO cardiovascular or renal protection in established ASCVD."
+      },
+      {
+        "text": "Initiate weekly subcutaneous semaglutide (a GLP-1 receptor agonist with proven cardiovascular benefit)",
+        "correct": true,
+        "explanation": "In patients with type 2 diabetes mellitus and established atherosclerotic cardiovascular disease (ASCVD, such as prior myocardial infarction, ischemic stroke, or peripheral artery disease), American Diabetes Association (ADA) and EASD guidelines strongly recommend adding a glucagon-like peptide-1 receptor agonist (GLP-1 RA) with proven cardiovascular benefit (such as semaglutide, dulaglutide, or liraglutide) or a sodium-glucose cotransporter-2 (SGLT2) inhibitor with proven CVD benefit, INDEPENDENT of baseline hemoglobin A1c or metformin background. In this patient who has obesity (BMI 34 kg/m2) and established coronary artery disease without heart failure or chronic kidney disease, a GLP-1 receptor agonist is particularly advantageous because it provides potent glycemic efficacy, significant sustained weight reduction (10–15%), and proven reductions in major adverse cardiovascular events (MACE: nonfatal MI, nonfatal stroke, and cardiovascular death, as proven in the SUSTAIN-6 and LEADER trials)."
+      },
+      {
+        "text": "Add oral pioglitazone 15 mg daily",
+        "correct": false,
+        "explanation": "Thiazolidinediones (pioglitazone) cause fluid retention and weight gain, and are strictly contraindicated in patients with symptomatic heart failure or at high risk for fluid overload; they do not reduce overall MACE compared to GLP-1 RAs."
+      },
+      {
+        "text": "Initiate daily subcutaneous insulin glargine 10 units at bedtime",
+        "correct": false,
+        "explanation": "Basal insulin promotes weight gain and hypoglycemia without reducing atherosclerotic cardiovascular events; GLP-1 RAs or SGLT2 inhibitors must be prioritized in patients with ASCVD before initiating insulin unless marked catabolism/hyperglycemia is present."
+      },
+      {
+        "text": "Add oral sitagliptin 100 mg daily",
+        "correct": false,
+        "explanation": "DPP-4 inhibitors (sitagliptin) are weight-neutral and have proven cardiovascular SAFETY (TECOS trial), but they do NOT reduce cardiovascular events (no MACE benefit) and are significantly inferior to GLP-1 receptor agonists in ASCVD."
+      }
+    ],
+    "explanation": "In type 2 diabetes with established ASCVD (prior MI), guidelines mandate adding an agent with proven cardiovascular benefit: a GLP-1 receptor agonist (semaglutide, dulaglutide) or an SGLT2 inhibitor (empagliflozin, dapagliflozin), independent of baseline A1c. In a patient with obesity (BMI 34) and coronary disease without heart failure, GLP-1 RAs are preferred for superior MACE reduction and substantial weight loss. Sulfonylureas, DPP-4 inhibitors, and insulin lack MACE benefit.",
+    "objective": "Select a GLP-1 receptor agonist with proven cardiovascular benefit (semaglutide) for a patient with type 2 diabetes, established ASCVD, and obesity to reduce MACE and promote weight loss.",
+    "keyPoints": [
+      "In T2D with established ASCVD, add a GLP-1 RA or SGLT2i with proven CVD benefit regardless of A1c.",
+      "GLP-1 RAs (semaglutide, dulaglutide) reduce MACE (MI, stroke, CV death) and provide substantial weight loss.",
+      "Sulfonylureas and insulin cause weight gain and hypoglycemia without CVD benefit."
+    ],
+    "references": [
+      {
+        "label": "Diabetes Care 2024 Standards of Care in Diabetes: Cardiovascular Disease and Risk Management",
+        "url": "https://diabetesjournals.org/care/article/47/Supplement_1/S179/153950"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0003",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Septic Shock Resuscitation & Vasopressor Titration / Norepinephrine First-Line",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 71-year-old woman is admitted to the intensive care unit from the emergency department with severe urosepsis secondary to an obstructive ureteral calculus. Over the past 2 hours, she has received 30 mL/kg of balanced intravenous crystalloids (lactated Ringer solution, total: 2,100 mL) and appropriate intravenous broad-spectrum antimicrobial therapy with cefepime. Despite completed fluid resuscitation, her blood pressure remains 76/44 mmHg (mean arterial pressure [MAP]: 55 mmHg), heart rate is 122/min, respiratory rate is 24/min, and oxygen saturation is 94% on 2 L/min nasal cannula. Central venous access is established. Bedside echocardiogram demonstrates hyperdynamic left ventricular systolic function with small ventricular chambers and complete collapse of the inferior vena cava during inspiration. Arterial blood gas demonstrates lactic acidosis with serum lactate 4.6 mmol/L. Urine output over the past hour is 12 mL. According to the Surviving Sepsis Campaign guidelines, which of the following is the most appropriate next step in hemodynamic management?",
+    "options": [
+      {
+        "text": "Initiate continuous intravenous dopamine infusion titrated to renal-dose parameters (2–5 mcg/kg/min)",
+        "correct": false,
+        "explanation": "Dopamine causes significant tachyarrhythmias and was proven inferior to norepinephrine in the SOAP II trial; \"renal-dose\" dopamine is a disproved myth that provides zero renal protection."
+      },
+      {
+        "text": "Administer an additional 3 liters of 0.9% normal saline boluses before initiating any vasopressor therapy",
+        "correct": false,
+        "explanation": "Unrestricted fluid boluses beyond 30 mL/kg lead to volume overload, pulmonary edema, worsening tissue hypoxia, and abdominal compartment syndrome; vasopressors should be started promptly when hypotension persists during or after initial volume loading."
+      },
+      {
+        "text": "Initiate continuous intravenous norepinephrine infusion targeting a mean arterial pressure (MAP) >= 65 mmHg",
+        "correct": true,
+        "explanation": "Septic shock is defined as sepsis with persistent hypotension requiring vasopressors to maintain MAP >= 65 mmHg and serum lactate > 2.0 mmol/L despite adequate fluid resuscitation (>= 30 mL/kg within the first 3 hours). The Surviving Sepsis Campaign guidelines establish intravenous norepinephrine as the undisputed FIRST-LINE vasopressor of choice. Norepinephrine is a potent alpha-1 adrenergic agonist that increases systemic vascular resistance (SVR) and vascular tone, with modest beta-1 inotropic activity that supports cardiac output while avoiding excessive tachycardia. Dopamine is strictly avoided because trials (SOAP II trial) proved it causes significantly higher rates of tachyarrhythmias and increased mortality in cardiogenic and septic shock. Phenylephrine lacks beta activity and can reflexively drop stroke volume. Epinephrine is reserved as a second-line add-on agent when norepinephrine and vasopressin are insufficient."
+      },
+      {
+        "text": "Initiate continuous intravenous epinephrine monotherapy as the primary first-line vasopressor",
+        "correct": false,
+        "explanation": "Epinephrine is a second- or third-line add-on agent; it causes significant tachycardia, excessive myocardial oxygen demand, and transient hyperlactatemia from aerobic glycolysis, making norepinephrine the preferred first-line agent."
+      },
+      {
+        "text": "Administer high-dose intravenous hydrocortisone (500 mg bolus) as initial therapy without vasopressors",
+        "correct": false,
+        "explanation": "Hydrocortisone (200 mg/day continuous or divided Q6H) is indicated ONLY as an adjunctive therapy for refractory septic shock ongoing despite moderate-to-high dose vasopressors (norepinephrine and vasopressin); it is not a substitute for vasopressors."
+      }
+    ],
+    "explanation": "Septic shock (hypotension requiring vasopressors to maintain MAP >= 65 mmHg with lactate > 2 mmol/L despite 30 mL/kg fluids) requires immediate vasopressor initiation. Norepinephrine is the first-line vasopressor of choice (Surviving Sepsis Campaign guidelines). Dopamine is contraindicated due to increased tachyarrhythmias and higher mortality (SOAP II trial). Vasopressin is added as a second agent if norepinephrine requirements rise.",
+    "objective": "Initiate norepinephrine as the first-line vasopressor targeting MAP >= 65 mmHg in septic shock refractory to 30 mL/kg crystalloid resuscitation.",
+    "keyPoints": [
+      "Norepinephrine is the first-line vasopressor of choice in septic shock (target MAP >= 65 mmHg).",
+      "Dopamine is avoided due to tachyarrhythmias and increased mortality.",
+      "Vasopressin (0.03 units/min) is added as second-line if norepinephrine requirements are escalating."
+    ],
+    "references": [
+      {
+        "label": "Critical Care Medicine 2021 Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock",
+        "url": "https://journals.lww.com/ccmjournal/fulltext/2021/11000/surviving_sepsis_campaign__international.21.aspx"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0004",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Heparin-Induced Thrombocytopenia & Direct Thrombin Inhibitors",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old woman is hospitalized following elective total knee arthroplasty. On post-operative day 6 of subcutaneous enoxaparin thromboprophylaxis (40 mg daily), routine complete blood count reveals a drop in platelet count from 240,000/mcL to 88,000/mcL (a 63% decline). She reports no bleeding, hematuria, or bruising, but physical examination reveals a tender, swollen, erythematous right calf; venous duplex ultrasonography confirms an extensive acute popliteal and femoral deep venous thrombosis (DVT). Review of systems is otherwise unremarkable. Calculating the 4T score reveals: Thrombocytopenia (2 points for > 50% drop and nadir >= 20k), Timing of onset (2 points for onset day 6), Thrombosis (2 points for proven new DVT), and oTher causes of thrombocytopenia (2 points for no other apparent causes), yielding a total 4T score of 8 points (high probability for heparin-induced thrombocytopenia). Serum anti-PF4/heparin immunoassay is ordered. Which of the following is the most appropriate immediate management plan?",
+    "options": [
+      {
+        "text": "Switch enoxaparin to low-dose unfractionated heparin continuous infusion and transfuse 2 units of platelets",
+        "correct": false,
+        "explanation": "Switching between LMWH and unfractionated heparin is ineffective because antibodies cross-react 100%; platelet transfusions are contraindicated because they fuel thrombosis."
+      },
+      {
+        "text": "Discontinue enoxaparin and initiate immediate oral warfarin 10 mg daily monotherapy",
+        "correct": false,
+        "explanation": "Initiating warfarin during acute HIT causes rapid protein C depletion, precipitating catastrophic venous limb gangrene and skin necrosis."
+      },
+      {
+        "text": "Continue enoxaparin at therapeutic doses (1 mg/kg twice daily) until the PF4 ELISA antibody result returns",
+        "correct": false,
+        "explanation": "Continuing heparin in suspected HIT with a high 4T score leads to catastrophic arterial and venous thrombosis (amputations, stroke, death)."
+      },
+      {
+        "text": "Discontinue enoxaparin immediately, initiate a therapeutic non-heparin direct thrombin inhibitor (argatroban or bivalirudin), and defer warfarin until platelet count recovers to >= 150,000/mcL",
+        "correct": true,
+        "explanation": "Heparin-induced thrombocytopenia (HIT) type II is an immune-mediated prothrombotic disorder caused by IgG antibodies directed against platelet factor 4 (PF4)-heparin complexes. With a high 4T score (6–8 points), pre-test probability is > 60%, and immediate action must be taken WITHOUT waiting for confirmatory laboratory testing (PF4 ELISA or serotonin release assay). Management mandates: (1) Immediate cessation of all heparin formulations (including LMWH enoxaparin, unfractionated heparin flushes, and heparin-coated catheters). LMWH has high cross-reactivity with HIT antibodies and CANNOT be used. (2) Immediate initiation of an alternative non-heparin anticoagulant: intravenous direct thrombin inhibitors (argatroban, metabolized hepatically; or bivalirudin, cleared enzymatically/renally) or fondaparinux. (3) Warfarin is strictly CONTRAINDICATED during acute HIT because warfarin rapidly depletes protein C before prothrombin is suppressed, triggering widespread microvascular thrombosis and venous limb gangrene. Warfarin can only be introduced AFTER the platelet count has fully normalized (>= 150,000/mcL), with at least 5 days of overlapping non-heparin anticoagulation."
+      },
+      {
+        "text": "Administer intravenous immune globulin (IVIG) monotherapy and withhold all anticoagulation until platelets recover",
+        "correct": false,
+        "explanation": "Withholding anticoagulation leaves the patient in an intensely prothrombotic state (> 50% risk of new thrombosis within 30 days); a non-heparin anticoagulant must be initiated immediately."
+      }
+    ],
+    "explanation": "A high 4T score (6-8) indicates presumptive HIT type II. Management requires: (1) immediate cessation of all heparins (including LMWH), (2) immediate initiation of a non-heparin direct thrombin inhibitor (argatroban or bivalirudin), and (3) strictly avoiding warfarin until platelets recover to >= 150k (to prevent protein C depletion and venous limb gangrene). Platelet transfusions are avoided.",
+    "objective": "Manage suspected heparin-induced thrombocytopenia: immediately discontinue all heparins, initiate a non-heparin anticoagulant (argatroban/bivalirudin), and defer warfarin until platelet normalization.",
+    "keyPoints": [
+      "High 4T score: stop all heparins immediately without waiting for lab confirmation.",
+      "Start a non-heparin anticoagulant (argatroban, bivalirudin, or fondaparinux).",
+      "Never give warfarin during acute HIT due to risk of venous limb gangrene from protein C depletion."
+    ],
+    "references": [
+      {
+        "label": "Blood 2020 American Society of Hematology Guidelines for Management of Venous Thromboembolism: Heparin-Induced Thrombocytopenia",
+        "url": "https://ashpublications.org/blood/article/135/19/1624/452758"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0005",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Chronic Tophaceous Gout & Urate-Lowering Therapy Flare Prophylaxis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man presents to the rheumatology clinic for long-term management of chronic gout. He has experienced 4 severe, incapacitating acute podagra flares over the past 12 months, and physical examination reveals firm, chalky, non-tender nodules over his right olecranon bursa and first metatarsophalangeal joint consistent with tophi. He is currently completely asymptomatic, with his last acute flare resolving 3 weeks ago. He has a history of stage 3a chronic kidney disease (estimated GFR 52 mL/min/1.73m2) and hypertension managed with amlodipine. Baseline serum uric acid is 9.4 mg/dL. The physician discusses initiating urate-lowering therapy with oral allopurinol. Prior to starting allopurinol, HLA-B*5801 allele testing is negative. Which of the following is the most appropriate strategy regarding flare prophylaxis during the initiation and titration of urate-lowering therapy?",
+    "options": [
+      {
+        "text": "Withhold all anti-inflammatory prophylaxis and administer allopurinol 300 mg daily immediately to achieve rapid urate target",
+        "correct": false,
+        "explanation": "Starting high-dose allopurinol without prophylaxis triggers severe acute mobilization flares, causing excruciating pain and patient abandonment of therapy."
+      },
+      {
+        "text": "Administer daily colchicine for 6 months and delay the initiation of allopurinol until the 6-month prophylaxis course is completed",
+        "correct": false,
+        "explanation": "Delaying urate-lowering therapy for 6 months permits ongoing joint destruction and tophi expansion; allopurinol and colchicine should be initiated concurrently."
+      },
+      {
+        "text": "Prescribe oral febuxostat 80 mg daily without anti-inflammatory coverage because febuxostat does not trigger mobilization flares",
+        "correct": false,
+        "explanation": "Febuxostat also rapidly lowers uric acid and triggers mobilization flares identically to allopurinol; it requires the same 3-6 month prophylaxis."
+      },
+      {
+        "text": "Initiate allopurinol monotherapy and advise the patient to stop allopurinol permanently if an acute joint flare occurs",
+        "correct": false,
+        "explanation": "Stopping allopurinol during an acute flare causes swings in serum uric acid that prolong and worsen the flare; ULT should be continued uninterrupted during flares."
+      },
+      {
+        "text": "Initiate oral allopurinol at a low starting dose (100 mg daily) concurrently with anti-inflammatory flare prophylaxis (oral colchicine 0.5–0.6 mg daily or low-dose NSAID/prednisone) continued for at least 3–6 months",
+        "correct": true,
+        "explanation": "According to the 2020 American College of Rheumatology (ACR) Gout Guidelines, indications for urate-lowering therapy (ULT) include: >= 1 subcutaneous tophi, radiographic damage attributable to gout, or frequent gout flares (>= 2 per year). Allopurinol (a xanthine oxidase inhibitor) is the preferred first-line agent. When ULT is initiated, sudden dissolution of microtophi mobilizes uric acid crystals, which triggers acute neutrophil activation and paradoxically precipitates severe gout flares (\"rebound flares\"), leading to patient non-compliance. Therefore, concomitant anti-inflammatory flare prophylaxis is MANDATORY when starting ULT: (1) First-line prophylaxis is low-dose oral colchicine (0.5–0.6 mg once or twice daily, adjusted for renal function) or low-dose NSAIDs. (2) Prophylaxis should be continued for at least 3–6 months (or longer if active tophi persist and target uric acid is not yet achieved). Allopurinol is started low (100 mg daily, or 50 mg in CKD) and titrated upward every 2–4 weeks until serum uric acid is < 6.0 mg/dL (or < 5.0 mg/dL in severe tophaceous disease)."
+      }
+    ],
+    "explanation": "When initiating urate-lowering therapy (allopurinol) for chronic tophaceous gout, sudden reduction in serum uric acid mobilizes crystals from tophi, precipitating acute \"mobilization flares.\" Concomitant flare prophylaxis with low-dose colchicine (0.5-0.6 mg daily) or low-dose NSAIDs is mandatory for at least 3-6 months. Allopurinol is started at 100 mg daily and titrated to a target serum uric acid < 6.0 mg/dL (or < 5.0 in tophaceous gout).",
+    "objective": "Co-prescribe anti-inflammatory flare prophylaxis (colchicine 0.5–0.6 mg daily) for at least 3–6 months when initiating and titrating allopurinol for chronic tophaceous gout.",
+    "keyPoints": [
+      "Urate-lowering therapy (allopurinol) mobilizes crystals and triggers flares during initiation.",
+      "Mandatory prophylaxis: low-dose colchicine or NSAIDs for at least 3–6 months.",
+      "Treat-to-target: titrate allopurinol until serum uric acid is < 6.0 mg/dL (< 5.0 mg/dL for tophi)."
+    ],
+    "references": [
+      {
+        "label": "2020 American College of Rheumatology Guideline for the Management of Gout",
+        "url": "https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines/Gout"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0006",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Acute Ischemic Stroke & Mechanical Thrombectomy Extended Window (DAWN/DEFUSE-3)",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old right-handed woman is brought to the emergency department by her daughter due to sudden-onset left-sided weakness and severe slurred speech. The daughter states that the patient went to sleep in her usual state of health at 10:00 PM last night and awoke this morning at 6:00 AM with dense left hemiplegia and facial droop (\"wake-up stroke\"). On arrival at 7:30 AM, vital signs are: blood pressure 162/92 mmHg, heart rate 82/min, and oxygen saturation 98% on ambient air. Neurological examination reveals: severe dysarthria, left hemineglect, left facial droop, and flaccid left hemiparalysis (muscle strength 0/5 in left arm and leg), with an NIH Stroke Scale (NIHSS) score of 17. Fingerstick blood glucose is 124 mg/dL. Non-contrast brain CT demonstrates an Alberta Stroke Program Early CT Score (ASPECTS) of 8 without intracranial hemorrhage. Immediate CT angiography (CTA) of the head and neck reveals a complete occlusion of the right proximal middle cerebral artery (MCA, M1 segment). CT perfusion imaging demonstrates an ischemic core volume of 18 mL and a large hypoperfused penumbra volume of 92 mL (mismatch volume: 74 mL; mismatch ratio: 5.1). Which of the following is the most appropriate management plan for this patient?",
+    "options": [
+      {
+        "text": "Proceed directly with emergency catheter-based endovascular mechanical thrombectomy",
+        "correct": true,
+        "explanation": "In acute ischemic stroke, mechanical thrombectomy (MT) with a stent retriever is the standard of care for large vessel occlusion (LVO) of the internal carotid artery or proximal MCA (M1 segment). While intravenous thrombolysis (alteplase or tenecteplase) is restricted to within 4.5 hours of last known well (LKW), the landmark DAWN (NEJM 2018) and DEFUSE-3 (NEJM 2018) trials revolutionized stroke care by proving that mechanical thrombectomy provides dramatic functional independence benefit when performed up to 16–24 hours from LKW in patients with clinical-core mismatch (NIHSS >= 6, small core < 70 mL, and substantial salvageable ischemic penumbra on perfusion imaging). This patient was last seen normal 9.5 hours ago (wake-up stroke), placing her outside the 4.5-hour thrombolytic window, but well within the 24-hour thrombectomy window. With a proximal M1 occlusion, ASPECTS 8, core 18 mL, and penumbra 92 mL, she is an ideal candidate for immediate mechanical thrombectomy."
+      },
+      {
+        "text": "Administer intravenous tenecteplase (0.25 mg/kg) bolus followed by immediate endovascular thrombectomy",
+        "correct": false,
+        "explanation": "Intravenous thrombolysis (alteplase or tenecteplase) is strictly limited to <= 4.5 hours from last known normal; because LKW was 10:00 PM (9.5 hours ago), intravenous thrombolysis is contraindicated due to high intracerebral hemorrhage risk."
+      },
+      {
+        "text": "Administer oral aspirin 325 mg and clopidogrel 300 mg loading dose, and transfer to the stroke unit for conservative monitoring",
+        "correct": false,
+        "explanation": "Dual antiplatelet therapy alone in a proximal M1 occlusion with NIHSS 17 results in severe permanent disability; withholding mechanical thrombectomy when perfusion mismatch is proven violates standard of care."
+      },
+      {
+        "text": "Initiate aggressive blood pressure reduction targeting systolic blood pressure < 120 mmHg with intravenous nicardipine",
+        "correct": false,
+        "explanation": "In acute ischemic stroke, aggressive blood pressure reduction impairs collateral cerebral perfusion and extends the ischemic core into the penumbra; blood pressure should be permitted up to 185/110 mmHg if reperfusion therapy is planned."
+      },
+      {
+        "text": "Administer continuous intravenous unfractionated heparin targeting a PTT of 60–80 seconds",
+        "correct": false,
+        "explanation": "Full-dose anticoagulation in acute ischemic stroke does not improve neurological outcomes and significantly increases the risk of fatal hemorrhagic transformation."
+      }
+    ],
+    "explanation": "In acute ischemic stroke with large vessel occlusion (LVO), the therapeutic windows are: (1) IV thrombolysis (alteplase/tenecteplase) <= 4.5 hours from last known well (LKW); and (2) Mechanical thrombectomy (MT) up to 24 hours from LKW based on the DAWN and DEFUSE-3 trials for patients with proximal LVO (M1 or ICA) and favorable perfusion mismatch (small ischemic core < 70 mL, large salvageable penumbra). In this wake-up stroke (9.5 hours from LKW), IV thrombolysis is contraindicated, but immediate mechanical thrombectomy is indicated.",
+    "objective": "Identify eligibility for endovascular mechanical thrombectomy in the extended 24-hour window (DAWN/DEFUSE-3 criteria) for acute ischemic stroke with proximal large vessel occlusion and perfusion mismatch.",
+    "keyPoints": [
+      "IV thrombolysis is limited to <= 4.5 hours from last known normal.",
+      "Mechanical thrombectomy is indicated up to 24 hours for proximal LVO (ICA, M1) with perfusion mismatch (DAWN/DEFUSE-3).",
+      "Wake-up strokes beyond 4.5 hours can undergo thrombectomy if perfusion CT confirms small core and large penumbra."
+    ],
+    "references": [
+      {
+        "label": "AHA/ASA 2019 Guidelines for the Early Management of Patients With Acute Ischemic Stroke: Update on Endovascular Thrombectomy",
+        "url": "https://www.ahajournals.org/doi/10.1161/STR.0000000000000211"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0007",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Colorectal Cancer Screening in Average-Risk vs High-Risk Family History",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 42-year-old healthy man presents to the primary care clinic to establish care. He has no gastrointestinal symptoms, abdominal pain, change in bowel habits, weight loss, or rectal bleeding. Physical examination is completely unremarkable. His family history is significant: his father was diagnosed with colon adenocarcinoma at age 48; his mother is healthy at age 70; and he has two healthy older siblings. The patient asks when and how he should be screened for colorectal cancer. According to current USPSTF and multisociety guidelines, which of the following is the most appropriate recommendation for this patient?",
+    "options": [
+      {
+        "text": "Begin colorectal cancer screening at age 45 using annual fecal immunochemical testing (FIT) or colonoscopy every 10 years",
+        "correct": false,
+        "explanation": "Beginning screening at age 45 is the recommendation for AVERAGE-risk individuals; having a first-degree relative diagnosed before age 60 qualifies him as high-risk, requiring earlier screening."
+      },
+      {
+        "text": "Initiate screening colonoscopy immediately (at age 42), and repeat every 5 years if normal",
+        "correct": true,
+        "explanation": "In individuals with a family history of colorectal cancer (CRC) in a first-degree relative (parent, sibling, child) diagnosed before age 60 (or in two first-degree relatives at any age), the risk of CRC is substantially increased. Guidelines from the American College of Gastroenterology (ACG) and Multi-Society Task Force (MSTF) recommend: (1) Screening should begin at age 40, OR 10 years younger than the age at diagnosis of the youngest affected first-degree relative, whichever comes FIRST. In this patient, his father was diagnosed at age 48 (48 - 10 = 38 years old). Because he is currently 42 years of age, he is already past age 38, so screening colonoscopy must be initiated IMMEDIATELY. (2) Colonoscopy is the mandatory screening modality of choice (non-invasive stool tests such as FIT or FIT-DNA are NOT recommended for individuals with high-risk family history). (3) The recommended screening interval is every 5 years, rather than the 10-year interval used for average-risk individuals."
+      },
+      {
+        "text": "Delay screening colonoscopy until age 48 (the exact age his father was diagnosed), repeating every 10 years",
+        "correct": false,
+        "explanation": "Screening must begin 10 years PRIOR to the relative's diagnosis (age 38), not at the same age; intervals for early family history are 5 years, not 10 years."
+      },
+      {
+        "text": "Order a multi-target stool DNA-FIT test (Cologuard) today, and perform colonoscopy only if stool DNA is positive",
+        "correct": false,
+        "explanation": "Non-invasive stool DNA-FIT tests are validated and approved ONLY for average-risk individuals; they are inappropriate and under-sensitive for patients with high-risk familial cancer syndromes."
+      },
+      {
+        "text": "Perform baseline genetic testing for germline MLH1, MSH2, and APC mutations before recommending any endoscopic screening",
+        "correct": false,
+        "explanation": "A single first-degree relative diagnosed at age 48 does not meet Amsterdam criteria for Lynch syndrome (requires 3 relatives across 2 generations with one < 50) or FAP (> 100 polyps); early colonoscopy without genetic testing is indicated."
+      }
+    ],
+    "explanation": "For individuals with a first-degree relative diagnosed with colorectal cancer before age 60: screening begins at age 40 OR 10 years before the relative's age at diagnosis, whichever is earlier. His father was diagnosed at 48 (10 years earlier = 38). Because the patient is 42, screening colonoscopy is overdue and must be performed immediately, repeating every 5 years. Stool-based tests (FIT, Cologuard) are only for average-risk individuals.",
+    "objective": "Apply colorectal cancer screening guidelines for individuals with a first-degree relative diagnosed before age 60: start at age 40 or 10 years before the relative's diagnosis (whichever is earlier) with colonoscopy every 5 years.",
+    "keyPoints": [
+      "First-degree relative with CRC < 60 yo: screen starting at age 40 or 10 years before relative's diagnosis.",
+      "Modality: colonoscopy every 5 years (stool tests are inappropriate for high-risk family history).",
+      "Average-risk screening starts at age 45."
+    ],
+    "references": [
+      {
+        "label": "JAMA 2021 USPSTF Recommendation Statement: Screening for Colorectal Cancer",
+        "url": "https://jamanetwork.com/journals/jama/fullarticle/2779985"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0008",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Primary Cardiovascular Prevention & Coronary Artery Calcium (CAC) Scoring",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old non-smoking man presents for an annual wellness examination. He has no personal history of cardiovascular disease, angina, claudication, or diabetes mellitus. Current medications include lisinopril 10 mg daily for hypertension. Physical examination reveals: blood pressure 128/78 mmHg, heart rate 68/min, and BMI 26 kg/m2. Fasting lipid profile demonstrates: total cholesterol 210 mg/dL, HDL cholesterol 46 mg/dL, triglycerides 150 mg/dL, and LDL cholesterol 134 mg/dL. Calculated 10-year atherosclerotic cardiovascular disease (ASCVD) risk using the pooled cohort equation is 8.6% (intermediate risk: 7.5% to 19.9%). The physician discusses the potential benefits of initiating moderate-intensity statin therapy (e.g., atorvastatin 20 mg daily). The patient expresses hesitation regarding taking a daily long-term medication and asks if any non-invasive test can help clarify whether he will truly derive a meaningful clinical benefit from statin therapy. According to current AHA/ACC primary prevention guidelines, which of the following is the most appropriate next step in decision-making?",
+    "options": [
+      {
+        "text": "Order a high-sensitivity C-reactive protein (hs-CRP) and initiate high-intensity rosuvastatin if hs-CRP > 2.0 mg/L",
+        "correct": false,
+        "explanation": "While hs-CRP is a risk-enhancing factor, CAC scoring is significantly more discriminatory for reclassifying risk and ruling out subclinical coronary atherosclerosis (CAC = 0 has a powerful negative predictive value)."
+      },
+      {
+        "text": "Perform an exercise treadmill stress ECG test to assess for inducible myocardial ischemia",
+        "correct": false,
+        "explanation": "Stress testing is indicated only for symptomatic patients (angina, dyspnea on exertion); performing stress testing in an asymptomatic intermediate-risk patient has low positive predictive value and leads to unnecessary invasive catheterizations."
+      },
+      {
+        "text": "Obtain a non-contrast cardiac CT for coronary artery calcium (CAC) scoring to guide shared decision-making regarding statin initiation",
+        "correct": true,
+        "explanation": "In adults aged 40–75 years without diabetes mellitus and with LDL-C 70–189 mg/dL who are at intermediate 10-year ASCVD risk (7.5% to 19.9%), initiating a moderate-intensity statin is recommended if risk-enhancing factors are present. However, if the risk-based decision remains uncertain or the patient is hesitant to initiate lifetime pharmacotherapy, the 2018/2026 AHA/ACC Cholesterol Guidelines recommend measuring coronary artery calcium (CAC) using non-contrast cardiac CT: (1) If CAC score is 0, statin therapy can be safely withheld or delayed, and risk reassessed in 5 years (unless cigarette smoking, family history of premature ASCVD, or diabetes is present). (2) If CAC score is 1–99 (or 1st–74th percentile for age/sex), it favors initiating statin therapy, especially if age >= 55. (3) If CAC score is >= 100 Agatston units or >= 75th percentile, statin therapy is strongly indicated, reclassifying the patient into high risk."
+      },
+      {
+        "text": "Reassure the patient and repeat the fasting lipid panel in 5 years without obtaining any additional testing",
+        "correct": false,
+        "explanation": "Ignoring an intermediate ASCVD risk of 8.6% without shared decision-making or risk stratification leaves preventable cardiovascular events unaddressed."
+      },
+      {
+        "text": "Prescribe oral gemfibrozil 600 mg twice daily to lower triglycerides and raise HDL cholesterol",
+        "correct": false,
+        "explanation": "Fibrates do not reduce major ASCVD events in primary prevention and carry significant myopathy risks when combined with statins; statins are the proven first-line class."
+      }
+    ],
+    "explanation": "In adults at intermediate 10-year ASCVD risk (7.5-19.9%) where statin benefit is uncertain or the patient is hesitant, measuring Coronary Artery Calcium (CAC) via non-contrast cardiac CT is the recommended decision aid. A CAC score of 0 allows safe deferral of statins (reassess in 5 years), while a CAC score >= 100 (or >= 75th percentile) reclassifies the patient as high-risk and strongly indicates statin therapy.",
+    "objective": "Utilize coronary artery calcium (CAC) scoring in intermediate-risk patients hesitant to start statin therapy to guide shared clinical decision-making.",
+    "keyPoints": [
+      "Intermediate ASCVD risk (7.5–19.9%): CAC scoring guides statin decisions.",
+      "CAC = 0: statins can be safely withheld or delayed (reassess in 5 years).",
+      "CAC >= 100 or >= 75th percentile: statin therapy is strongly recommended."
+    ],
+    "references": [
+      {
+        "label": "Circulation 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000678"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0009",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Randomized Controlled Trials & Absolute Risk Reduction / Number Needed to Treat",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A multicenter, double-blind, randomized controlled trial evaluates the efficacy of a novel oral small-molecule Factor XIa inhibitor compared to standard-of-care direct oral anticoagulant (DOAC) therapy for the secondary prevention of recurrent ischemic stroke in patients with non-valvular atrial fibrillation. A total of 4,000 patients are enrolled and followed for 3 years: 2,000 patients are randomized to receive the Factor XIa inhibitor, and 2,000 patients receive standard DOAC therapy. At the end of the 3-year trial, recurrent ischemic stroke occurs in 60 patients in the Factor XIa inhibitor group (3.0%) and in 120 patients in the standard DOAC group (6.0%). Major bleeding events occur in 20 patients in the Factor XIa inhibitor group (1.0%) and in 40 patients in the standard DOAC group (2.0%). Both differences are statistically significant (p < 0.01). Which of the following correctly calculates the Absolute Risk Reduction (ARR) and the Number Needed to Treat (NNT) to prevent one recurrent ischemic stroke over 3 years with the Factor XIa inhibitor compared to standard DOAC therapy?",
+    "options": [
+      {
+        "text": "Absolute Risk Reduction (ARR) is 50.0%, and Number Needed to Treat (NNT) is 2 patients",
+        "correct": false,
+        "explanation": "50.0% represents the RELATIVE Risk Reduction (RRR = [CER - EER] / CER = [0.06 - 0.03] / 0.06 = 0.50, or 50%). Using RRR instead of ARR to calculate NNT is a major conceptual error."
+      },
+      {
+        "text": "Absolute Risk Reduction (ARR) is 3.0%, and Number Needed to Treat (NNT) is 33 patients",
+        "correct": false,
+        "explanation": "While 1 / 0.03 = 33.33, rounding down to 33 overstates efficacy; rounding up to 34 is the standard mathematical convention in biostatistics."
+      },
+      {
+        "text": "Absolute Risk Reduction (ARR) is 1.0%, and Number Needed to Treat (NNT) is 100 patients",
+        "correct": false,
+        "explanation": "1.0% represents the ARR for major bleeding (2.0% - 1.0% = 1.0%), not for recurrent ischemic stroke prevention."
+      },
+      {
+        "text": "Absolute Risk Reduction (ARR) is 3.0%, and Number Needed to Treat (NNT) is 34 patients",
+        "correct": true,
+        "explanation": "Absolute Risk Reduction (ARR) is the arithmetic difference in event rates between the control group (CER) and the experimental group (EER): ARR = CER - EER. Here, CER = 120 / 2,000 = 0.060 (6.0%), and EER = 60 / 2,000 = 0.030 (3.0%). Therefore, ARR = 0.060 - 0.030 = 0.030, or 3.0% (0.03). The Number Needed to Treat (NNT) is the reciprocal of the Absolute Risk Reduction: NNT = 1 / ARR = 1 / 0.030 = 33.33. In evidence-based medicine and clinical pharmacology, NNT must always be rounded UP to the next whole integer to avoid overestimating clinical benefit (1 / 0.03 = 33.33 -> 34 patients). Thus, 34 patients must be treated with the Factor XIa inhibitor instead of a DOAC for 3 years to prevent one additional recurrent ischemic stroke."
+      },
+      {
+        "text": "Absolute Risk Reduction (ARR) is 0.03%, and Number Needed to Treat (NNT) is 3,333 patients",
+        "correct": false,
+        "explanation": "Confusing percentages with decimals (writing 3% as 0.03% instead of 0.03) produces an erroneous NNT of 3,333."
+      }
+    ],
+    "explanation": "Event rates: Control Event Rate (CER) = 6.0% (0.06); Experimental Event Rate (EER) = 3.0% (0.03). Absolute Risk Reduction (ARR) = CER - EER = 6.0% - 3.0% = 3.0% (0.03). Number Needed to Treat (NNT) = 1 / ARR = 1 / 0.03 = 33.33, rounded up to 34 patients. Relative risk reduction is 50%, but NNT is always derived from the absolute risk reduction.",
+    "objective": "Calculate Absolute Risk Reduction (ARR = CER - EER) and Number Needed to Treat (NNT = 1 / ARR), rounding NNT up to the nearest whole integer.",
+    "keyPoints": [
+      "ARR = Control Event Rate - Experimental Event Rate.",
+      "NNT = 1 / ARR (always rounded up to the next whole integer).",
+      "Relative risk reduction (RRR) exaggerates benefit; clinical decisions must rely on ARR and NNT."
+    ],
+    "references": [
+      {
+        "label": "Users' Guides to the Medical Literature: A Manual for Evidence-Based Clinical Practice 3rd ed. JAMA Evidence",
+        "url": "https://jamaevidence.mhmedical.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0010",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Surrogate Decision-Making & The Substituted Judgment Standard vs Best Interests",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 78-year-old man with severe multi-infarct vascular dementia and end-stage congestive heart failure is admitted to the intensive care unit with septic shock and respiratory failure secondary to aspiration pneumonia. He is intubated and mechanically ventilated, requiring dual vasopressor support. He does not have a formal written living will or designated durable power of attorney for healthcare. The medical team determines that the patient's prognosis is dismal, with less than a 5% chance of surviving to discharge, and that chest compressions in the event of cardiac arrest would cause rib fractures without restoring meaningful survival. The physician convenes a family meeting to discuss goals of care and code status. The patient's legal surrogate is his eldest son, who is accompanied by the patient's daughter. The son states: \"My father and I watched our uncle die in an ICU on life support 2 years ago, and my father told me repeatedly, 'If I ever lose my mind and my body fails, never keep me plugged into machines or pump on my chest; let me go peacefully.' Based on what he told me, I know he would want us to change his status to Do Not Resuscitate (DNR) and Do Not Intubate (DNI).\" However, the daughter tearfully interjects: \"I don't care what he said back then. I love my father and I believe in miracles. I want everything done, including chest compressions and shock!\" Which of the following is the most appropriate ethical and legal framework for the physician to resolve this conflict?",
+    "options": [
+      {
+        "text": "Follow the daughter's request for full resuscitation under the doctrine of parens patriae because life preservation always overrides oral statements",
+        "correct": false,
+        "explanation": "Parens patriae applies to state protection of vulnerable individuals or minors without advocates; it does not mandate unwanted CPR in dying adults with known anti-resuscitation wishes."
+      },
+      {
+        "text": "Refer the case immediately to the county probate court for judicial appointment of an independent neutral guardian",
+        "correct": false,
+        "explanation": "Court intervention is unnecessary and traumatic when a legal surrogate is present and applying the patient's known substituted judgment; ethics consultation can assist if conflict persists."
+      },
+      {
+        "text": "Apply the best interests standard to override both children and continue full code status until cardiac arrest occurs",
+        "correct": false,
+        "explanation": "The best interests standard is subordinate to the substituted judgment standard; when authentic prior wishes are known, substituted judgment takes precedence."
+      },
+      {
+        "text": "Divide authority equally between both children and maintain full code status unless both siblings sign a unanimous joint agreement",
+        "correct": false,
+        "explanation": "Surrogate decision-making does not require unanimous consent; surrogates must follow the patient's values (substituted judgment), not achieve emotional consensus."
+      },
+      {
+        "text": "Honor the son's decision under the substituted judgment standard, as it reflects the patient's known authentic values and explicit oral statements",
+        "correct": true,
+        "explanation": "When a patient loses decision-making capacity and has no written advance directive or designated healthcare proxy, clinical ethics and law dictate a clear hierarchy of decision-making standards: (1) Substituted Judgment Standard: The surrogate must decide based on what the PATIENT would have chosen for himself if he were currently capable of deciding, taking into account the patient's previously expressed oral wishes, religious convictions, and personal values. (2) Best Interests Standard: Used ONLY when the patient's prior wishes and values are completely unknown or unknowable; the surrogate and clinical team then choose what a reasonable person would judge to be in the patient's overall best interest. Here, the son provides clear, consistent evidence of the patient's explicit oral statements regarding mechanical ventilation and CPR in similar circumstances. The daughter's objection is based on her personal grief and emotional needs rather than her father's autonomous preferences. The physician must guide the family to apply the substituted judgment standard, honor the son's surrogate decision to transition to DNR/DNI, and provide emotional support to the daughter."
+      }
+    ],
+    "explanation": "Surrogate decision-making follows a strict ethical hierarchy: (1) Substituted Judgment Standard (choosing what the patient would have chosen based on prior statements and values), and (2) Best Interests Standard (used only when prior wishes are unknown). Because the son provides explicit evidence of the patient's prior oral statements rejecting artificial life prolongation, the substituted judgment standard governs. Surrogates must represent the patient's wishes, not their own personal desires.",
+    "objective": "Apply the substituted judgment standard in surrogate decision-making when a patient's prior oral preferences are known, distinguishing it from the best interests standard.",
+    "keyPoints": [
+      "Substituted judgment standard: decide what the patient would have chosen based on known prior statements and values.",
+      "Best interests standard is used only when the patient's wishes are unknown.",
+      "Surrogates must represent the patient's autonomous wishes rather than their own emotional desires."
+    ],
+    "references": [
+      {
+        "label": "AMA Code of Medical Ethics Opinion 2.1.2: Decisions for Patients Who Lack Capacity",
+        "url": "https://code-medical-ethics.ama-assn.org/ethics-opinions/decisions-patients-who-lack-capacity"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0011",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Lung Cancer Screening with Low-Dose Computed Tomography (USPSTF)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old man presents to the primary care clinic for a routine health maintenance visit. He has no cough, hemoptysis, dyspnea, fever, night sweats, or unintentional weight loss. His past medical history is notable for mild hypertension managed with hydrochlorothiazide. He smoked 1 pack of cigarettes daily for 24 years (24 pack-year smoking history) and successfully quit smoking 4 years ago at age 52. Physical examination reveals normal vital signs, clear breath sounds bilaterally, and no lymphadenopathy or digital clubbing. The patient asks whether he qualifies for lung cancer screening. According to the current United States Preventive Services Task Force (USPSTF) guidelines, which of the following is the most appropriate recommendation for this patient?",
+    "options": [
+      {
+        "text": "Recommend annual screening for lung cancer with low-dose computed tomography (LDCT) of the chest",
+        "correct": true,
+        "explanation": "The 2021 USPSTF lung cancer screening guidelines recommend annual screening for lung cancer with low-dose computed tomography (LDCT) in adults who meet ALL three of the following criteria: (1) Age 50 to 80 years, (2) A smoking history of at least 20 pack-years, and (3) Currently smoke OR have quit smoking within the past 15 years. This patient is 56 years old (within the 50–80 age range), has a 24 pack-year smoking history (exceeding the 20 pack-year threshold), and quit smoking 4 years ago (well within the 15-year window). Therefore, he meets all criteria for annual LDCT screening. Screening is discontinued once a person reaches age 81, or has not smoked for 15 consecutive years, or develops a health problem that substantially limits life expectancy or the ability to undergo curative lung surgery."
+      },
+      {
+        "text": "Reassure the patient that he does not qualify for screening because he has already quit smoking for more than 3 years",
+        "correct": false,
+        "explanation": "Screening is indicated for former smokers who quit within the past 15 years; having quit 4 years ago does not disqualify him."
+      },
+      {
+        "text": "Order a baseline posterior-anterior and lateral chest radiograph today, repeating every 2 years",
+        "correct": false,
+        "explanation": "Chest radiography (with or without sputum cytology) has zero proven mortality benefit for lung cancer screening and is explicitly NOT recommended by the USPSTF."
+      },
+      {
+        "text": "Delay lung cancer screening until age 65, as the majority of lung malignancies occur in the seventh decade",
+        "correct": false,
+        "explanation": "The 2021 USPSTF update lowered the starting age from 55 to 50 years to expand early detection; delaying until age 65 misses curable early-stage resectable cancers."
+      },
+      {
+        "text": "Order a serum carcinoembryonic antigen (CEA) and circulating tumor DNA assay before considering imaging",
+        "correct": false,
+        "explanation": "Serum biomarkers and circulating tumor DNA are unapproved and under-sensitive for population lung cancer screening; LDCT is the sole proven modality."
+      }
+    ],
+    "explanation": "The USPSTF recommends annual low-dose CT (LDCT) screening for lung cancer in adults aged 50-80 years who have a >= 20 pack-year smoking history and currently smoke or quit within the past 15 years. This 56-year-old with a 24 pack-year history who quit 4 years ago meets all criteria. Chest X-rays have no mortality benefit and are not recommended.",
+    "objective": "Apply the 2021 USPSTF lung cancer screening criteria: annual low-dose CT for individuals aged 50–80 with >= 20 pack-years who currently smoke or quit within 15 years.",
+    "keyPoints": [
+      "USPSTF criteria: age 50–80, >= 20 pack-years, current smoker or quit within 15 years.",
+      "Modality: annual low-dose chest CT (LDCT).",
+      "Chest X-rays do not reduce mortality and are not recommended."
+    ],
+    "references": [
+      {
+        "label": "JAMA 2021 USPSTF Recommendation Statement: Screening for Lung Cancer",
+        "url": "https://jamanetwork.com/journals/jama/fullarticle/2777241"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0012",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Massive (High-Risk) Pulmonary Embolism & Systemic Thrombolysis Indications",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man hospitalized on the orthopedic unit on post-operative day 3 following total hip arthroplasty suddenly collapses in the hallway while ambulating with physical therapy. On arrival of the rapid response team, the patient is conscious but pale, diaphoresis, and in profound respiratory distress. Vital signs are: blood pressure 74/46 mmHg (refractory to an immediate 1-liter intravenous crystalloid bolus), heart rate 136/min, respiratory rate 34/min, and oxygen saturation 82% on high-flow nasal cannula. Physical examination reveals distended jugular veins, a loud pulmonic component of the second heart sound (P2), and cold, mottled extremities with delayed capillary refill. Bilateral breath sounds are clear. An emergent bedside echocardiogram demonstrates severe right ventricular dilatation with hypokinesis of the RV free wall and sparing of the apex (McConnell sign), severe tricuspid regurgitation, and leftward deviation of the interventricular septum with left ventricular underfilling. Complete blood count and coagulation profile are normal. The patient has no history of stroke, head trauma, or active bleeding. Which of the following is the most appropriate immediate therapy?",
+    "options": [
+      {
+        "text": "Initiate therapeutic subcutaneous enoxaparin (1 mg/kg twice daily) and transfer to the intermediate care unit",
+        "correct": false,
+        "explanation": "Anticoagulation alone with LMWH or heparin prevents new clot formation but does NOT actively dissolve existing thrombus; in massive PE with shock, anticoagulation monotherapy carries high mortality."
+      },
+      {
+        "text": "Administer systemic intravenous thrombolysis with recombinant tissue plasminogen activator (alteplase 100 mg infused over 2 hours)",
+        "correct": true,
+        "explanation": "Acute pulmonary embolism is risk-stratified based on hemodynamic stability and right ventricular strain: (1) Massive (high-risk) PE is defined by sustained hypotension (systolic BP < 90 mmHg for >= 15 minutes, or requiring vasopressors) due to acute right ventricular failure. (2) Submassive (intermediate-risk) PE features normal blood pressure but evidence of RV strain (elevated troponin/BNP or RV dysfunction on echo/CT). (3) Low-risk PE features normal blood pressure and normal RV function. In massive PE with obstructive cardiogenic shock (here BP 74/46 mmHg refractory to fluids, RV failure with McConnell sign, and severe hypoxemia), immediate systemic thrombolysis with recombinant tissue plasminogen activator (alteplase 100 mg IV over 2 hours) is the treatment of choice in the absence of absolute contraindications (active bleeding, recent intracranial hemorrhage, or recent major surgery within days). Systemic thrombolysis rapidly dissolves the obstructive clot, restores pulmonary arterial perfusion, unloads the failing right ventricle, and prevents imminent cardiac arrest. If thrombolysis is contraindicated or fails, catheter-directed embolectomy or surgical pulmonary embolectomy is indicated."
+      },
+      {
+        "text": "Place an emergency inferior vena cava (IVC) filter and withhold all anticoagulation",
+        "correct": false,
+        "explanation": "IVC filters prevent future lower extremity emboli but do nothing to relieve acute pulmonary arterial occlusion; placing a filter while in shock leads to cardiac arrest."
+      },
+      {
+        "text": "Administer an additional 3 liters of rapid intravenous crystalloids to increase right ventricular preload",
+        "correct": false,
+        "explanation": "Excessive fluid loading in acute right ventricular failure overdistends the RV, shifts the interventricular septum into the LV (septal flattening), worsens LV underfilling, and precipitates cardiovascular collapse."
+      },
+      {
+        "text": "Administer intravenous amiodarone bolus and infusion to treat sinus tachycardia",
+        "correct": false,
+        "explanation": "Sinus tachycardia is a vital compensatory mechanism to maintain cardiac output in obstructive shock; slowing the heart rate with antiarrhythmics causes immediate hemodynamic collapse."
+      }
+    ],
+    "explanation": "Massive (high-risk) pulmonary embolism is defined by sustained hypotension (SBP < 90 mmHg) or obstructive shock. Treatment of choice is immediate systemic thrombolysis (alteplase 100 mg over 2 hours) to rapidly recanalize pulmonary flow and relieve acute RV failure. Anticoagulation alone is insufficient for massive PE with shock. Excessive IV fluids worsen RV overdistension.",
+    "objective": "Recognize massive pulmonary embolism with obstructive shock and prioritize immediate systemic thrombolytic therapy with alteplase.",
+    "keyPoints": [
+      "Massive PE = PE + persistent hypotension (SBP < 90 mmHg) or shock.",
+      "First-line emergency therapy: systemic intravenous thrombolysis (alteplase 100 mg over 2 hours).",
+      "Anticoagulation alone is inadequate for massive PE; excessive fluids worsen RV failure."
+    ],
+    "references": [
+      {
+        "label": "European Heart Journal 2020 ESC Guidelines for the Diagnosis and Management of Acute Pulmonary Embolism",
+        "url": "https://academic.oup.com/eurheartj/article/41/4/543/5556136"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0013",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Diabetic Kidney Disease & SGLT2 Inhibitor Renoprotection Mechanisms",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old woman with a 10-year history of type 2 diabetes mellitus and hypertension presents to the clinic for follow-up of diabetic nephropathy. She takes metformin 1,000 mg twice daily, lisinopril 40 mg daily, and atorvastatin 40 mg daily. Blood pressure is 128/76 mmHg and BMI is 29 kg/m2. Physical examination reveals mild trace pretibial edema. Laboratory testing demonstrates: serum creatinine 1.4 mg/dL (baseline 1.3 mg/dL), estimated GFR 48 mL/min/1.73m2 (Stage 3a CKD), serum potassium 4.6 mEq/L, and hemoglobin A1c 7.6%. Spot urine albumin-to-creatinine ratio (uACR) is 380 mg/g (severely increased albuminuria; normal: < 30 mg/g), confirmed on two previous occasions over the past 4 months. The physician adds oral dapagliflozin (10 mg daily) to her regimen. Which of the following renal hemodynamic and physiological effects best explains the long-term renoprotective benefit of SGLT2 inhibitors in diabetic kidney disease?",
+    "options": [
+      {
+        "text": "Selective dilation of the efferent arteriole mediated by inhibition of local angiotensin II synthesis",
+        "correct": false,
+        "explanation": "Selective efferent arteriolar vasodilation is the mechanism of ACE inhibitors and ARBs (lisinopril/losartan); SGLT2 inhibitors act upstream on tubuloglomerular feedback and the afferent arteriole."
+      },
+      {
+        "text": "Direct inhibition of mineralocorticoid receptors in principal cells blocking aldosterone binding",
+        "correct": false,
+        "explanation": "This is the mechanism of mineralocorticoid receptor antagonists (spironolactone and finerenone), not SGLT2 inhibitors."
+      },
+      {
+        "text": "Increased sodium delivery to the macula densa restoring tubuloglomerular feedback and promoting afferent arteriolar vasoconstriction",
+        "correct": true,
+        "explanation": "In diabetic kidney disease, hyperfiltration is driven by proximal tubular upregulation of SGLT2 cotransporters, which reabsorb excessive glucose along with sodium. This decreases sodium and chloride delivery downstream to the macula densa in the juxtaglomerular apparatus. The macula densa misinterprets low sodium as hypoperfusion and triggers tubuloglomerular feedback (TGF) that dilates the afferent arteriole, while angiotensin II constricts the efferent arteriole, generating marked intraglomerular hypertension and progressive glomerulosclerosis. SGLT2 inhibitors (dapagliflozin, empagliflozin) block proximal glucose and sodium reabsorption, restoring sodium delivery to the macula densa. This reactivates tubuloglomerular feedback, inducing afferent arteriolar vasoconstriction. This reduces intraglomerular pressure, decreases hyperfiltration and albuminuria, and halts long-term nephron loss (as demonstrated in the landmark DAPA-CKD and EMPA-KIDNEY trials), independently of glycemic control."
+      },
+      {
+        "text": "Competitive blockade of apical sodium-potassium-2-chloride (NKCC2) cotransporters in the loop of Henle",
+        "correct": false,
+        "explanation": "NKCC2 inhibition is the mechanism of loop diuretics (furosemide/bumetanide); SGLT2 cotransporters are located in the proximal convoluted tubule."
+      },
+      {
+        "text": "Systemic venodilation reducing renal venous pressure and eliminating afterload",
+        "correct": false,
+        "explanation": "SGLT2 inhibitors do not act as direct systemic venodilators; their renoprotective benefit is mediated by intrarenal hemodynamic tubuloglomerular modulation."
+      }
+    ],
+    "explanation": "SGLT2 inhibitors (dapagliflozin, empagliflozin) reduce diabetic kidney disease progression via tubuloglomerular feedback: blocking proximal Na+/glucose reabsorption increases sodium delivery to the macula densa, which triggers afferent arteriolar vasoconstriction. This reduces intraglomerular hypertension and albuminuria, preserving long-term GFR (DAPA-CKD and EMPA-KIDNEY trials). ACE inhibitors/ARBs act complementarily by dilating the efferent arteriole.",
+    "objective": "Explain the renal hemodynamic mechanism of SGLT2 inhibitors: restoring tubuloglomerular feedback via increased macula densa sodium delivery, causing afferent arteriolar vasoconstriction and lowering intraglomerular pressure.",
+    "keyPoints": [
+      "SGLT2 inhibitors increase sodium delivery to the macula densa, restoring tubuloglomerular feedback.",
+      "Reactivated feedback constricts the afferent arteriole, reducing intraglomerular pressure and albuminuria.",
+      "Guidelines recommend SGLT2 inhibitors for CKD with albuminuria in T2D down to eGFR 20 mL/min."
+    ],
+    "references": [
+      {
+        "label": "KDIGO 2023 Clinical Practice Guideline for the Management of Diabetes in Chronic Kidney Disease",
+        "url": "https://kdigo.org/guidelines/diabetes-ckd/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0014",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Fulminant Clostridioides difficile Colitis & Oral/Rectal Vancomycin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 72-year-old man hospitalized in the intensive care unit for broad-spectrum antimicrobial treatment of healthcare-associated pneumonia develops acute abdominal distension, severe abdominal pain, and obstipation over the past 12 hours, with cessation of his previous watery diarrhea. Vital signs are: temperature 39.1 C (102.4 F), blood pressure 82/48 mmHg (refractory to 2 liters of crystalloid and requiring norepinephrine infusion), heart rate 128/min, and respiratory rate 26/min. Physical examination reveals an acutely ill, obtunded patient with a tensely distended, tympanitic abdomen, diffuse severe involuntary muscular guarding, and absent bowel sounds. Laboratory testing demonstrates: leukocytes 38,400/mcL with 20% band forms, serum creatinine 2.8 mg/dL (baseline: 1.0 mg/dL), and serum lactate 4.2 mmol/L. An urgent non-contrast abdominal CT demonstrates marked, diffuse colonic wall thickening (\"accordion sign\") with cecal and transverse colonic dilatation measuring 8.5 cm in diameter, without evidence of free pneumoperitoneum. Stool toxin testing was positive for Clostridioides difficile 2 days ago. Which of the following is the most appropriate initial medical therapy while an urgent surgical consultation is obtained for possible subtotal colectomy?",
+    "options": [
+      {
+        "text": "Oral fidaxomicin 200 mg twice daily monotherapy without intravenous or rectal therapy",
+        "correct": false,
+        "explanation": "Fidaxomicin is approved for non-severe and severe C. diff, but has NOT been studied or recommended as monotherapy in fulminant disease with ileus or toxic megacolon."
+      },
+      {
+        "text": "Intravenous vancomycin 1 g every 12 hours combined with oral loperamide",
+        "correct": false,
+        "explanation": "Intravenous vancomycin is not secreted into the colonic lumen; loperamide is lethal in toxic megacolon because it worsens dilation and precipitates perforation."
+      },
+      {
+        "text": "Fecal microbiota transplantation (FMT) administered via colonoscopy immediately",
+        "correct": false,
+        "explanation": "Colonoscopy in toxic megacolon carries an unacceptably high risk of bowel perforation and is strictly contraindicated during acute fulminant shock."
+      },
+      {
+        "text": "Oral (or via nasogastric tube) high-dose vancomycin (500 mg four times daily) plus rectal vancomycin retention enemas and intravenous metronidazole (500 mg every 8 hours)",
+        "correct": true,
+        "explanation": "Fulminant Clostridioides difficile infection is defined by the presence of severe C. difficile colitis accompanied by hypotension/shock, ileus, or toxic megacolon (colonic dilatation >= 6 cm). In fulminant colitis, cessation of diarrhea is an ominous sign of paralytic ileus. Medical management must be aggressive: (1) High-dose oral vancomycin (500 mg four times daily administered orally or via nasogastric tube). (2) If ileus is present, oral vancomycin may not reach the distal colon; therefore, rectal vancomycin retention enemas (500 mg in 100 mL normal saline every 6 hours via Foley catheter with balloon inflation) must be added. (3) Intravenous metronidazole (500 mg every 8 hours) is administered concurrently because it crosses the inflamed colonic wall into the bowel lumen. Urgent surgical consultation is mandatory: patients with worsening peritonitis, organ failure, toxic megacolon, or failure to improve within 24–48 hours require emergent subtotal colectomy with end ileostomy, or diverting loop ileostomy with colonic lavage."
+      },
+      {
+        "text": "Intravenous metronidazole monotherapy without oral or rectal vancomycin",
+        "correct": false,
+        "explanation": "Metronidazole monotherapy is inferior and inadequate for fulminant colitis; triple-route/agent therapy (oral + rectal vancomycin + IV metronidazole) is standard."
+      }
+    ],
+    "explanation": "Fulminant C. difficile colitis presents with hypotension, shock, ileus, or toxic megacolon (> 6 cm diameter). In the presence of ileus, oral antibiotics cannot travel downstream, so treatment requires: (1) high-dose oral vancomycin (500 mg QID), (2) rectal vancomycin retention enemas, and (3) IV metronidazole (500 mg TID). Emergent surgical consultation for subtotal colectomy or diverting ileostomy is mandatory.",
+    "objective": "Manage fulminant Clostridioides difficile colitis with toxic megacolon: initiate oral high-dose vancomycin, rectal vancomycin enemas, and IV metronidazole, and obtain urgent surgical consultation.",
+    "keyPoints": [
+      "Fulminant C. diff: hypotension, ileus, or toxic megacolon (diameter > 6 cm).",
+      "Medical regimen for ileus: high-dose oral vancomycin + rectal vancomycin enemas + IV metronidazole.",
+      "Urgent surgical consultation for subtotal colectomy or diverting ileostomy is mandatory."
+    ],
+    "references": [
+      {
+        "label": "Clinical Infectious Diseases 2021 IDSA/SHEA Guidelines on Clostridioides difficile Infection: Fulminant Colitis",
+        "url": "https://academic.oup.com/cid"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0015",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Life-Threatening DOAC Bleeding & Specific Reversal Agents",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man taking apixaban (5 mg twice daily) for non-valvular atrial fibrillation is brought to the emergency department after falling down a flight of stairs. On arrival, he is stuporous with a Glasgow Coma Scale score of 9. Vital signs are: blood pressure 178/96 mmHg, heart rate 64/min, and respiratory rate 14/min. Physical examination reveals a large left parietal scalp hematoma and a dilated, sluggishly reactive left pupil. Immediate non-contrast head CT demonstrates an acute, expanding left subdural hematoma with 8 mm of midline shift and uncal herniation. The patient's family confirms that he took his regular dose of apixaban 3 hours ago. Complete blood count reveals: hemoglobin 13.2 g/dL and platelets 210,000/mcL. Renal and hepatic function tests are normal. Emergency neurosurgical evacuation of the hematoma is planned immediately. Which of the following is the most appropriate specific reversal agent to administer prior to emergency surgery?",
+    "options": [
+      {
+        "text": "Intravenous idarucizumab (humanized monoclonal antibody Fab fragment)",
+        "correct": false,
+        "explanation": "Idarucizumab specifically binds and neutralizes dabigatran (a direct thrombin inhibitor); it does NOT bind or reverse direct factor Xa inhibitors such as apixaban or rivaroxaban."
+      },
+      {
+        "text": "Intravenous protamine sulfate infusion",
+        "correct": false,
+        "explanation": "Protamine sulfate reverses unfractionated heparin and partially reverses low-molecular-weight heparin; it has zero efficacy against oral direct factor Xa inhibitors."
+      },
+      {
+        "text": "Intravenous phytomenadione (vitamin K1) and fresh frozen plasma",
+        "correct": false,
+        "explanation": "Vitamin K requires 12–24 hours to stimulate hepatic synthesis of clotting factors and reverses only vitamin K antagonists (warfarin); it does not reverse direct factor Xa inhibitors."
+      },
+      {
+        "text": "Intravenous desmopressin (DDAVP) and aminocaproic acid",
+        "correct": false,
+        "explanation": "DDAVP stimulates endothelial release of vWF/factor VIII and is used for uremic bleeding, von Willebrand disease, or antiplatelet reversal; it does not reverse factor Xa inhibition."
+      },
+      {
+        "text": "Intravenous andexanet alfa (coagulation factor Xa [recombinant], inactivated-zhzo)",
+        "correct": true,
+        "explanation": "Apixaban and rivaroxaban are direct oral factor Xa inhibitors. In patients experiencing life-threatening, uncontrolled bleeding (such as intracranial hemorrhage) or requiring emergent surgery, rapid and specific reversal of factor Xa inhibition is required. Andexanet alfa is a recombinant, modified, catalytically inactive human factor Xa decoy protein that binds and sequesters direct factor Xa inhibitors (apixaban and rivaroxaban) with high affinity, rapidly neutralizing their anticoagulant effect and restoring endogenous thrombin generation. If andexanet alfa is unavailable, four-factor prothrombin complex concentrate (4F-PCC, unactivated) is the recommended alternative. Idarucizumab is the specific reversal agent for dabigatran (a direct thrombin inhibitor) and has NO activity against factor Xa inhibitors."
+      }
+    ],
+    "explanation": "Apixaban is a direct factor Xa inhibitor. Life-threatening intracranial bleeding requires immediate reversal. Andexanet alfa is a recombinant decoy factor Xa protein that specifically binds and reverses apixaban and rivaroxaban. If unavailable, 4-factor PCC is used. Idarucizumab specifically reverses dabigatran (a direct thrombin inhibitor), not factor Xa inhibitors. Protamine reverses heparin; vitamin K reverses warfarin.",
+    "objective": "Select andexanet alfa as the specific reversal agent for direct factor Xa inhibitors (apixaban, rivaroxaban) in life-threatening bleeding.",
+    "keyPoints": [
+      "Factor Xa inhibitor (apixaban, rivaroxaban) reversal: andexanet alfa (or 4-factor PCC).",
+      "Direct thrombin inhibitor (dabigatran) reversal: idarucizumab.",
+      "Warfarin reversal: 4-factor PCC + intravenous vitamin K."
+    ],
+    "references": [
+      {
+        "label": "Circulation 2020 ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants",
+        "url": "https://www.jacc.org/doi/10.1016/j.jacc.2020.04.053"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0016",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Postmenopausal Osteoporosis & Bisphosphonate Initiation Safety Screen",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old postmenopausal woman presents for a routine preventive health evaluation. She has no history of fractures, bone pain, back pain, or height loss. She does not smoke or drink alcohol and walks 30 minutes daily. Physical examination is completely normal; height is 162 cm and weight is 58 kg (BMI 22 kg/m2). Dual-energy x-ray absorptiometry (DEXA) scan demonstrates: lumbar spine (L1–L4) T-score of -2.8, femoral neck T-score of -2.6, and total hip T-score of -2.4. Laboratory evaluation demonstrates: serum calcium 9.4 mg/dL, phosphorus 3.2 mg/dL, 25-hydroxyvitamin D 34 ng/mL, serum creatinine 0.8 mg/dL (estimated GFR 74 mL/min/1.73m2), and normal serum alkaline phosphatase and TSH. The physician discusses starting first-line antiresorptive therapy with oral alendronate (70 mg once weekly). Which of the following is the most important clinical contraindication or pre-treatment evaluation to verify prior to prescribing oral alendronate for this patient?",
+    "options": [
+      {
+        "text": "Inquire about symptoms of esophageal dysmotility, gastroesophageal reflux disease, and verify the patient's ability to sit upright for at least 30 minutes after taking the medication",
+        "correct": true,
+        "explanation": "Oral bisphosphonates (alendronate, risedronate) are the first-line antiresorptive therapy for postmenopausal osteoporosis (defined as a DEXA T-score <= -2.5 at the lumbar spine, femoral neck, or total hip, or presence of a fragility fracture). Because oral bisphosphonates are poorly absorbed and directly toxic to the squamous epithelium of the esophagus, they can cause severe chemical esophagitis, esophageal ulceration, and esophageal strictures. Strict administration guidelines and clinical contraindications must be verified prior to prescription: (1) Contraindicated in patients with esophageal stricture, achalasia, severe esophageal dysmotility, or inability to sit or stand upright for at least 30 minutes. (2) Contraindicated in severe renal impairment (eGFR < 30–35 mL/min). (3) Patients must take the tablet with a full 8-ounce glass of plain water upon waking, at least 30 minutes before any food, drink, or other medications, and remain upright for 30 minutes. In patients with severe GERD or esophageal disorders, intravenous zoledronic acid or subcutaneous denosumab is the preferred alternative."
+      },
+      {
+        "text": "Verify that the patient has completed a routine screening mammogram within the past 12 months",
+        "correct": false,
+        "explanation": "Mammography is breast cancer screening; bisphosphonates do not cause or worsen breast cancer."
+      },
+      {
+        "text": "Perform an immediate isotope bone scintigraphy to rule out occult metastatic osteolytic lesions",
+        "correct": false,
+        "explanation": "Bone scintigraphy is unnecessary in an asymptomatic woman with typical postmenopausal osteoporosis and normal labs."
+      },
+      {
+        "text": "Discontinue vitamin D supplementation because bisphosphonates cause severe symptomatic hypercalcemia",
+        "correct": false,
+        "explanation": "Bisphosphonates inhibit bone resorption and can precipitate HYPOcalcemia; adequate calcium and vitamin D repletion is mandatory prior to initiation."
+      },
+      {
+        "text": "Obtain a baseline skeletal survey and genetic sequencing for the COL1A1 osteogenesis imperfecta mutation",
+        "correct": false,
+        "explanation": "Genetic testing is indicated for congenital bone fragility in children/young adults, not postmenopausal osteoporosis."
+      }
+    ],
+    "explanation": "Oral bisphosphonates (alendronate) are first-line for osteoporosis (T-score <= -2.5). They cause chemical esophagitis and esophageal ulceration. Absolute contraindications include: inability to sit/stand upright for 30 minutes, esophageal stricture/achalasia, and eGFR < 35 mL/min. Patients must take the pill with a full glass of water upon waking and remain upright for 30 minutes. IV zoledronic acid or denosumab are used if esophageal disease is present.",
+    "objective": "Screen for esophageal disorders and ability to sit upright for 30 minutes prior to initiating oral bisphosphonate therapy for osteoporosis.",
+    "keyPoints": [
+      "Oral bisphosphonates cause chemical esophagitis and are contraindicated in esophageal dysmotility.",
+      "Patients must remain upright for >= 30 minutes after taking with plain water.",
+      "Also contraindicated if eGFR < 35 mL/min; ensure adequate vitamin D and calcium."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Practice 2020 Clinical Practice Guidelines for the Diagnosis and Treatment of Postmenopausal Osteoporosis",
+        "url": "https://www.endocrinepractice.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0017",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Pancreatitis & Goal-Directed Fluids (WATERFALL Trial)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man presents to the emergency department with a 10-hour history of severe, constant, epigastric abdominal pain that radiates straight through to his back, accompanied by nausea and recurrent vomiting. He has a history of alcohol use disorder. Vital signs are: temperature 37.8 C, blood pressure 114/72 mmHg, heart rate 108/min, respiratory rate 20/min, and oxygen saturation 98% on ambient air. Physical examination reveals epigastric tenderness with voluntary guarding and hypoactive bowel sounds. Serum lipase is 1,840 U/L (markedly elevated; normal: 10–140 U/L). Complete blood count demonstrates: hematocrit 46% (hemoconcentration), leukocytes 14,200/mcL, and blood urea nitrogen (BUN) 24 mg/dL. Abdominal ultrasonography reveals no gallstones or biliary ductal dilatation. According to current American College of Gastroenterology (ACG) guidelines and recent randomized trial evidence (WATERFALL trial), which of the following is the most appropriate initial fluid resuscitation strategy for this patient?",
+    "options": [
+      {
+        "text": "Immediate massive fluid resuscitation with 0.9% normal saline at 500 mL/hr for the first 24 hours without boluses",
+        "correct": false,
+        "explanation": "Rapid 500 mL/hr normal saline causes hyperchloremic acidosis, severe volume overload, pulmonary edema, and was proven harmful in the WATERFALL trial."
+      },
+      {
+        "text": "Moderately aggressive fluid resuscitation with intravenous lactated Ringer solution (e.g., 10 mL/kg bolus if hypovolemic, followed by 1.5–2.0 mL/kg/hr), with clinical and biochemical reassessment every 4–6 hours",
+        "correct": true,
+        "explanation": "In acute pancreatitis, early fluid resuscitation is critical to maintain microvascular pancreatic perfusion and prevent necrotizing pancreatitis. Current American College of Gastroenterology (ACG) guidelines and the landmark WATERFALL trial (NEJM 2022) established two major practice changes: (1) Fluid choice: Lactated Ringer (LR) solution is superior to 0.9% normal saline. Normal saline induces hyperchloremic non-anion gap metabolic acidosis, which accelerates pancreatic acinar zymogen activation, whereas LR is balanced and anti-inflammatory. (2) Resuscitation rate: The WATERFALL trial demonstrated that \"aggressive\" fluid resuscitation (> 200–250 mL/hr or routine large boluses) does NOT improve clinical outcomes and causes significant volume overload (20.5% vs 6.3%), heart failure, and hypoxia. A \"moderately aggressive\" goal-directed approach (10 mL/kg bolus only if hypovolemic, followed by 1.5–2.0 mL/kg/hr [~100–150 mL/hr]) with frequent reassessment of hemodynamic parameters, BUN, and hematocrit every 4–6 hours is the evidence-based standard."
+      },
+      {
+        "text": "Complete fluid restriction to < 50 mL/hr to prevent third-spacing and retroperitoneal fluid sequestration",
+        "correct": false,
+        "explanation": "Fluid restriction starves the pancreatic microcirculation, causing ischemic acinar necrosis and severe organ failure."
+      },
+      {
+        "text": "Administration of 5% albumin infusion at 100 mL/hr as the initial resuscitation fluid of choice",
+        "correct": false,
+        "explanation": "Colloids (albumin) have no proven benefit over crystalloids in acute pancreatitis and are significantly more expensive."
+      },
+      {
+        "text": "Intravenous 5% dextrose in water (D5W) with prophylactic broad-spectrum carbapenem antibiotics",
+        "correct": false,
+        "explanation": "Hypotonic D5W is inappropriate for intravascular resuscitation; routine prophylactic antibiotics in mild-to-moderate pancreatitis are not recommended."
+      }
+    ],
+    "explanation": "In acute pancreatitis, the WATERFALL trial (NEJM 2022) established that goal-directed, moderately aggressive fluid resuscitation (1.5-2.0 mL/kg/hr, ~100-150 mL/hr) with lactated Ringer solution is superior to aggressive overhydration (> 200 mL/hr), which causes volume overload and hypoxia without improving outcomes. Lactated Ringer is preferred over normal saline because it avoids hyperchloremic acidosis (which worsens acinar zymogen activation).",
+    "objective": "Apply the WATERFALL trial evidence: prescribe goal-directed moderately aggressive lactated Ringer resuscitation (1.5–2.0 mL/kg/hr) for acute pancreatitis and avoid aggressive overhydration.",
+    "keyPoints": [
+      "Lactated Ringer is preferred over normal saline in acute pancreatitis (prevents hyperchloremic acidosis).",
+      "WATERFALL trial: moderately aggressive fluids (1.5–2.0 mL/kg/hr) prevent fluid overload without sacrificing perfusion.",
+      "Reassess volume status, hematocrit, and BUN every 4–6 hours."
+    ],
+    "references": [
+      {
+        "label": "New England Journal of Medicine 2022 Early Resuscitation with Lactated Ringer's in Acute Pancreatitis (WATERFALL Trial)",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2202884"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0018",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Latent Tuberculosis Infection & Short-Course Rifamycin Regimens",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old healthcare worker undergoes mandatory annual tuberculosis screening. She is asymptomatic without cough, fever, night sweats, or weight loss. Her tuberculin skin test (TST) demonstrates 14 mm of induration (positive; threshold >= 10 mm for healthcare personnel). Interferon-gamma release assay (QuantiFERON-TB Gold Plus) is positive. Posterior-anterior and lateral chest radiography is completely normal, with no apical infiltrates, cavitary lesions, or adenopathy. She has normal baseline liver enzymes and renal function. She takes no medications aside from an ethinyl estradiol/levonorgestrel oral contraceptive pill. According to current CDC and National Tuberculosis Controllers Association (NTCA) guidelines, which of the following is the preferred first-line, short-course treatment regimen for latent tuberculosis infection (LTBI) in this patient, and what critical counseling must be provided regarding her concurrent medications?",
+    "options": [
+      {
+        "text": "Isoniazid daily for 9 months with pyridoxine (vitamin B6), with reassurance that oral contraceptives are unaffected",
+        "correct": false,
+        "explanation": "While 9 months of isoniazid was the historical gold standard, CDC guidelines now demote it to an alternative regimen due to inferior completion rates and higher hepatotoxicity."
+      },
+      {
+        "text": "Directly observed therapy with isoniazid, rifampin, pyrazinamide, and ethambutol for 6 months",
+        "correct": false,
+        "explanation": "Four-drug RIPE therapy is indicated exclusively for ACTIVE pulmonary tuberculosis; treating latent tuberculosis with RIPE causes unnecessary severe drug toxicity."
+      },
+      {
+        "text": "Rifampin daily for 4 months (4R), with counseling that rifamycins induce cytochrome P450 and decrease oral contraceptive efficacy, requiring alternative non-hormonal contraception",
+        "correct": true,
+        "explanation": "Current CDC and NTCA guidelines strongly recommend short-course, rifamycin-based regimens as the preferred first-line treatment for latent tuberculosis infection (LTBI) over older, long-course monotherapy regimens due to higher completion rates (85% vs 50%) and lower hepatotoxicity. The approved preferred short-course regimens include: (1) Rifampin daily for 4 months (4R), or (2) Once-weekly isoniazid plus rifapentine for 3 months (3HP), or (3) Daily isoniazid plus rifampin for 3 months (3HR). Daily isoniazid monotherapy for 6 or 9 months (6H or 9H) is now classified as an alternative regimen. Crucially, rifamycins (rifampin and rifapentine) are potent inducers of the hepatic cytochrome P450 enzyme system (specifically CYP3A4). Co-administration accelerates the hepatic clearance of estrogen and progestin, drastically reducing oral contraceptive efficacy and leading to contraceptive failure. Patients must be counseled to use a barrier method (condoms) or non-hormonal intrauterine device (copper IUD) during and for 4 weeks following rifamycin therapy."
+      },
+      {
+        "text": "No antimicrobial therapy is indicated because the chest radiograph is normal and she is asymptomatic",
+        "correct": false,
+        "explanation": "A normal chest radiograph and lack of symptoms define LATENT tuberculosis; leaving LTBI untreated carries a 5–10% lifetime risk of active tuberculosis reactivation."
+      },
+      {
+        "text": "Rifampin daily for 4 months with reassurance that oral contraceptive hormone levels remain therapeutic",
+        "correct": false,
+        "explanation": "Rifampin is a potent CYP3A4 inducer that significantly reduces oral contraceptive blood levels; failing to warn about contraceptive failure is a major patient safety error."
+      }
+    ],
+    "explanation": "Current CDC guidelines establish short-course rifamycin regimens as preferred first-line for LTBI: 4 months of daily rifampin (4R) or 3 months of weekly isoniazid + rifapentine (3HP), due to superior completion rates and lower hepatotoxicity compared to 9 months of isoniazid. Rifampin is a potent CYP3A4 inducer that metabolizes estrogen/progestin, causing oral contraceptive failure; barrier/non-hormonal contraception is mandatory.",
+    "objective": "Select preferred short-course rifamycin regimens (4 months rifampin) for latent TB infection and counsel on CYP3A4 induction causing oral contraceptive failure.",
+    "keyPoints": [
+      "Preferred LTBI regimens: 4 months daily rifampin (4R) or 3 months weekly isoniazid + rifapentine (3HP).",
+      "Short-course regimens have higher adherence and lower hepatotoxicity than 9 months of isoniazid.",
+      "Rifamycins induce CYP3A4, requiring non-hormonal barrier contraception during treatment."
+    ],
+    "references": [
+      {
+        "label": "MMWR 2020 Guidelines for the Treatment of Latent Tuberculosis Infection: Recommendations from the NTCA and CDC",
+        "url": "https://www.cdc.gov/mmwr/volumes/69/rr/rr6901a1.htm"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0019",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Heart Failure with Preserved Ejection Fraction (HFpEF) & SGLT2 Inhibitor Therapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old woman presents to the outpatient cardiology clinic for evaluation of progressive exertional shortness of breath and bilateral ankle swelling over the past 4 months. She has a history of hypertension, obesity (BMI 33 kg/m2), and osteoarthrosis. Current medications are amlodipine 10 mg daily and chlorthalidone 25 mg daily. Vital signs are: blood pressure 138/84 mmHg, heart rate 74/min, and oxygen saturation 96% on ambient air. Physical examination reveals: jugular venous pulsation elevated at 8 cm H2O, bilateral lower lung bibasilar crackles, an audible fourth heart sound (S4 gallop), and 2+ bilateral pitting ankle edema. Transthoracic echocardiogram demonstrates: left ventricular ejection fraction (LVEF) 58% (normal: >= 50%), concentric left ventricular hypertrophy, left atrial enlargement (volume index: 42 mL/m2; normal: < 34 mL/m2), and an elevated E/e' ratio of 16 (indicating elevated left ventricular filling pressures). Serum N-terminal pro-B-type natriuretic peptide (NT-proBNP) is 840 pg/mL (elevated; normal: < 125 pg/mL). Estimated GFR is 62 mL/min/1.73m2. According to current AHA/ACC/HFSA heart failure guidelines and recent trial evidence (EMPEROR-Preserved and DELIVER), which of the following is the most appropriate disease-modifying pharmacotherapy to improve clinical outcomes and reduce cardiovascular mortality and heart failure hospitalizations in this patient?",
+    "options": [
+      {
+        "text": "Initiate carvedilol titrated to 25 mg twice daily as the primary disease-modifying agent",
+        "correct": false,
+        "explanation": "Beta-blockers have not demonstrated a reduction in cardiovascular mortality or hospitalization in pure HFpEF (LVEF > 50%) unless an independent indication exists (such as prior MI, angina, or rate control in atrial fibrillation)."
+      },
+      {
+        "text": "Initiate sacubitril-valsartan 97/103 mg twice daily monotherapy without diuretics",
+        "correct": false,
+        "explanation": "Sacubitril-valsartan in the PARAGON-HF trial narrowly missed its primary endpoint in HFpEF, showing modest benefit only in patients with mildly reduced LVEF (< 57%) or females; SGLT2 inhibitors have unequivocal trial proof."
+      },
+      {
+        "text": "Initiate oral digoxin 0.125 mg daily to enhance diastolic myocardial relaxation",
+        "correct": false,
+        "explanation": "Digoxin has zero benefit on diastolic relaxation or mortality in HFpEF (DIG trial) and carries significant toxicity risks."
+      },
+      {
+        "text": "Initiate an SGLT2 inhibitor (dapagliflozin 10 mg daily or empagliflozin 10 mg daily) and add a loop diuretic as needed for congestion",
+        "correct": true,
+        "explanation": "This patient has heart failure with preserved ejection fraction (HFpEF), defined by symptoms/signs of heart failure, LVEF >= 50%, and objective evidence of elevated LV filling pressures (elevated NT-proBNP, high E/e' ratio, and left atrial enlargement). For decades, no medical therapy had demonstrated outcome benefits in HFpEF. However, the landmark EMPEROR-Preserved (NEJM 2021) and DELIVER (NEJM 2022) trials demonstrated that sodium-glucose cotransporter-2 (SGLT2) inhibitors (empagliflozin and dapagliflozin) significantly reduce the composite primary endpoint of cardiovascular death and hospitalization for heart failure across the entire spectrum of ejection fraction, including HFpEF (LVEF > 50%), regardless of diabetes status. The 2022 AHA/ACC/HFSA guidelines establish SGLT2 inhibitors as a Class 2a recommendation for HFpEF, making them the first-line disease-modifying class. Loop diuretics (e.g., furosemide or torsemide) are used complementarily to relieve congestion."
+      },
+      {
+        "text": "Discontinue all antihypertensive medications and initiate high-dose verapamil monotherapy",
+        "correct": false,
+        "explanation": "Nondihydropyridine calcium channel blockers do not reduce cardiovascular events or heart failure hospitalizations in HFpEF."
+      }
+    ],
+    "explanation": "Heart failure with preserved ejection fraction (HFpEF, LVEF >= 50%) is diagnosed by symptoms, elevated natriuretic peptides, and echocardiographic diastolic dysfunction. The landmark EMPEROR-Preserved and DELIVER trials proved that SGLT2 inhibitors (empagliflozin and dapagliflozin) significantly reduce cardiovascular death and heart failure hospitalizations in HFpEF, independent of diabetes status. SGLT2 inhibitors are the first-line disease-modifying agents in HFpEF.",
+    "objective": "Prescribe SGLT2 inhibitors (dapagliflozin or empagliflozin) as the first-line disease-modifying therapy proven to reduce cardiovascular death and hospitalizations in heart failure with preserved ejection fraction (HFpEF).",
+    "keyPoints": [
+      "SGLT2 inhibitors (dapagliflozin, empagliflozin) reduce CV death and HF hospitalizations in HFpEF (EMPEROR-Preserved and DELIVER).",
+      "SGLT2 inhibitors are effective across the full spectrum of LVEF regardless of diabetes.",
+      "Beta-blockers and digoxin do not reduce mortality in HFpEF."
+    ],
+    "references": [
+      {
+        "label": "2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: HFpEF Recommendations",
+        "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0020",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Spontaneous Intracerebral Hemorrhage & Acute Blood Pressure Lowering Targets",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old man presents to the emergency department 90 minutes after the sudden onset of a severe headache, nausea, right hemiplegia, and expressive aphasia while eating dinner. He has a history of poorly controlled hypertension and takes no anticoagulant or antiplatelet medications. On arrival, he is obtunded but localizes to painful stimuli. Vital signs are: blood pressure 214/118 mmHg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98% on ambient air. Glasgow Coma Scale score is 10. Emergent non-contrast head CT demonstrates an acute 24-mL intraparenchymal hemorrhage centered in the left putamen with mild surrounding edema and 3 mm of midline shift, without intraventricular hemorrhage or hydrocephalus. Complete blood count, platelet count, and coagulation profile (PT/INR and aPTT) are completely normal. According to current AHA/ASA guidelines for spontaneous intracerebral hemorrhage, which of the following is the most appropriate blood pressure management strategy for this patient?",
+    "options": [
+      {
+        "text": "Permit systolic blood pressure to remain elevated up to 220 mmHg to maintain cerebral perfusion pressure around the hematoma",
+        "correct": false,
+        "explanation": "Permitting SBP up to 220 mmHg promotes continuous arterial extravasation and massive hematoma expansion, leading to herniation and death; permissive hypertension is used in acute ischemic stroke without thrombolysis, NOT intracerebral hemorrhage."
+      },
+      {
+        "text": "Aggressively lower systolic blood pressure to < 110 mmHg within the first 30 minutes using intravenous sodium nitroprusside",
+        "correct": false,
+        "explanation": "Lowering SBP to < 120-130 mmHg compromises cerebral perfusion pressure and causes acute kidney injury, as proven in the ATACH-2 trial."
+      },
+      {
+        "text": "Administer high-dose intravenous dexamethasone bolus to reduce peri-hematomal vasogenic cerebral edema",
+        "correct": false,
+        "explanation": "Corticosteroids have zero benefit in spontaneous intracerebral hemorrhage or ischemic stroke, and significantly increase infections and hyperglycemia without improving mortality."
+      },
+      {
+        "text": "Administer prophylactic intravenous four-factor prothrombin complex concentrate (4F-PCC) and vitamin K",
+        "correct": false,
+        "explanation": "Coagulation reversal with 4F-PCC is indicated for warfarin-associated ICH with elevated INR; this patient is not on anticoagulation and has a normal coagulation profile."
+      },
+      {
+        "text": "Rapid, smooth lowering of systolic blood pressure to a target range of 130–140 mmHg using intravenous nicardipine or labetalol infusion",
+        "correct": true,
+        "explanation": "In acute spontaneous intracerebral hemorrhage (ICH), early hematoma expansion occurs in up to 30–40% of patients within the first few hours and is strongly associated with neurological deterioration and death. Severe acute hypertension is the primary driver of ongoing hematoma expansion. According to the 2022 AHA/ASA Guidelines for the Management of Spontaneous Intracerebral Hemorrhage (incorporating the INTERACT-2 and ATACH-2 trials): in patients presenting with acute ICH and systolic blood pressure between 150 and 220 mmHg, acute lowering of SBP to a target of 130–140 mmHg is safe, reasonable, and may improve functional outcomes. Intravenous titratable antihypertensive agents such as nicardipine (dihydropyridine calcium channel blocker) or labetalol (combined alpha-1/beta blocker) are preferred to provide smooth, rapid control while avoiding large fluctuations in blood pressure. However, acute reduction of SBP to < 130 mmHg must be avoided because the ATACH-2 trial proved that aggressive lowering below 130 mmHg increases renal adverse events without clinical benefit."
+      }
+    ],
+    "explanation": "In acute spontaneous intracerebral hemorrhage, early hematoma expansion is the leading cause of death. Guidelines recommend rapid, smooth lowering of SBP to a target of 130-140 mmHg using titratable IV agents (nicardipine, labetalol) to prevent hematoma growth (INTERACT-2). Lowering SBP below 130 mmHg is avoided because the ATACH-2 trial showed increased renal complications without benefit. Permissive hypertension is contraindicated in ICH.",
+    "objective": "Apply AHA/ASA guidelines for spontaneous intracerebral hemorrhage: rapidly and smoothly lower systolic blood pressure to 130–140 mmHg using IV nicardipine/labetalol while avoiding SBP < 130 mmHg.",
+    "keyPoints": [
+      "Acute ICH: lower SBP to a target of 130–140 mmHg to prevent hematoma expansion (INTERACT-2).",
+      "Use titratable IV infusions (nicardipine or labetalol).",
+      "Avoid SBP < 130 mmHg (ATACH-2 proved excess renal injury without neurological benefit)."
+    ],
+    "references": [
+      {
+        "label": "Stroke 2022 Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage: AHA/ASA Guideline",
+        "url": "https://www.ahajournals.org/doi/10.1161/STR.0000000000000407"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0021",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Opioid Use Disorder Maintenance Pharmacotherapy & Buprenorphine vs Methadone",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man presents to the primary care clinic seeking help for chronic opioid addiction. He has been using non-prescribed intravenous fentanyl daily for the past 2 years, experiencing frequent cravings, tolerance, and painful withdrawal symptoms whenever he attempts to stop. He has had two near-fatal overdoses in the past year requiring emergency naloxone. He is employed as a software developer and lives with his supportive spouse. He expresses a strong desire to enter long-term recovery and asks about medication options. He states that due to his demanding work schedule, he cannot attend an opioid treatment program clinic every morning for supervised dosing. Physical examination is unremarkable, with healed needle marks on both forearms. Baseline liver function tests, complete blood count, and renal function are completely normal. Which of the following is the most appropriate first-line medication to offer this patient for maintenance treatment of his opioid use disorder?",
+    "options": [
+      {
+        "text": "Office-based prescription of sublingual buprenorphine-naloxone for maintenance therapy",
+        "correct": true,
+        "explanation": "Medication for opioid use disorder (MOUD) is the undisputed standard of care, significantly reducing illicit opioid use, overdose mortality by > 50%, infectious disease transmission (HIV, hepatitis C), and criminal justice involvement. The two primary opioid agonist options are: (1) Buprenorphine-naloxone: Buprenorphine is a high-affinity, partial mu-opioid receptor agonist with a \"ceiling effect\" on respiratory depression, conferring exceptional safety against fatal overdose. Naloxone is added in a 4:1 ratio to prevent intravenous diversion (naloxone has poor sublingual absorption, but triggers severe precipitated withdrawal if crushed and injected). Buprenorphine can be prescribed in office-based primary care settings with take-home monthly prescriptions, making it ideal for employed patients who cannot attend daily clinics. (2) Methadone is a full mu-opioid agonist that must be dispensed through federally regulated Opioid Treatment Programs (OTPs) requiring daily in-person attendance, has no respiratory ceiling, and prolongs the QTc interval. Because this patient cannot attend daily clinic visits, office-based buprenorphine-naloxone is the preferred treatment."
+      },
+      {
+        "text": "Referral to a federally regulated opioid treatment program for daily observed oral methadone liquid dispensing",
+        "correct": false,
+        "explanation": "Methadone requires daily in-person clinic attendance for supervised dosing during early treatment, which this employed patient explicitly states he cannot accommodate."
+      },
+      {
+        "text": "Initiation of oral naltrexone tablets today while the patient continues daily fentanyl use",
+        "correct": false,
+        "explanation": "Initiating an opioid antagonist (naltrexone) in a patient actively using fentanyl precipitates severe, agonizing withdrawal; patients must be completely opioid-free for 7–10 days before naltrexone."
+      },
+      {
+        "text": "Abrupt detoxification without medication followed by referral to a 12-step peer support group as sole therapy",
+        "correct": false,
+        "explanation": "Detoxification without maintenance pharmacotherapy carries an 80–90% relapse rate and increases overdose mortality due to loss of opioid tolerance."
+      },
+      {
+        "text": "Prescription of oral clonidine and loperamide for 12 months of maintenance therapy",
+        "correct": false,
+        "explanation": "Clonidine and loperamide treat transient acute withdrawal symptoms; they have no role as long-term maintenance therapy for opioid use disorder."
+      }
+    ],
+    "explanation": "Medication for opioid use disorder (MOUD) with buprenorphine or methadone reduces mortality by > 50%. Buprenorphine is a partial mu-opioid agonist with a respiratory ceiling effect, combined with naloxone to prevent IV diversion. It is prescribed in outpatient primary care clinics with take-home prescriptions, making it ideal for patients who cannot attend daily methadone clinics. Naltrexone requires 7-10 days of complete abstinence.",
+    "objective": "Select office-based buprenorphine-naloxone maintenance therapy for opioid use disorder to reduce overdose mortality, accounting for patient employment and clinic accessibility.",
+    "keyPoints": [
+      "MOUD (buprenorphine or methadone) cuts opioid overdose mortality by > 50%.",
+      "Buprenorphine-naloxone is prescribed in office-based outpatient settings with take-home supplies.",
+      "Methadone requires daily in-person visits at licensed treatment centers."
+    ],
+    "references": [
+      {
+        "label": "ASAM National Practice Guideline for the Treatment of Opioid Use Disorder: 2020 Focused Update",
+        "url": "https://www.asam.org/quality-care/clinical-guidelines/national-practice-guideline"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0022",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Refractory Septic Shock & Low-Dose Hydrocortisone Indications",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 66-year-old woman is admitted to the intensive care unit with severe septic shock secondary to acute perforated diverticulitis. She underwent an emergent exploratory laparotomy and Hartmann procedure 6 hours ago. Despite receiving 4 liters of balanced crystalloids, appropriate broad-spectrum antimicrobial coverage, and escalating vasopressor support with norepinephrine (0.35 mcg/kg/min) and fixed-dose vasopressin (0.03 units/min), her blood pressure remains persistently low at 80/46 mmHg (mean arterial pressure: 57 mmHg). Heart rate is 118/min, and repeat arterial blood gas reveals persistent lactic acidosis with lactate 5.2 mmol/L. Bedside echocardiography demonstrates a hyperdynamic left ventricle with an ejection fraction of 70% and a cardiac index of 3.8 L/min/m2. She has received moderate-to-high dose vasopressor therapy for over 4 hours. Which of the following is the most appropriate next pharmacological intervention to support blood pressure in this patient?",
+    "options": [
+      {
+        "text": "Perform an ACTH stimulation (cosyntropin) test and withhold hydrocortisone until adrenal insufficiency is confirmed",
+        "correct": false,
+        "explanation": "ACTH stimulation testing does not predict clinical response to corticosteroids in septic shock and unnecessarily delays therapy; guidelines explicitly advise against ACTH testing in septic shock."
+      },
+      {
+        "text": "Initiate intravenous hydrocortisone (200 mg daily administered as 50 mg every 6 hours or continuous infusion)",
+        "correct": true,
+        "explanation": "In septic shock, the Surviving Sepsis Campaign guidelines recommend initiating low-dose intravenous corticosteroid therapy (hydrocortisone 200 mg daily, given as 50 mg IV every 6 hours or as a continuous infusion) ONLY if adequate fluid resuscitation and vasopressor therapy (specifically norepinephrine and vasopressin) fail to restore hemodynamic stability (defined as requiring ongoing vasopressor support for >= 4 hours with norepinephrine >= 0.25 mcg/kg/min). The landmark APROCCHSS trial (NEJM 2018) and ADRENAL trial (NEJM 2018) demonstrated that low-dose hydrocortisone significantly accelerates shock reversal, shortens the duration of mechanical ventilation, reduces ICU length of stay, and (in APROCCHSS) reduces 90-day mortality. Corticosteroids restore vascular sensitivity to catecholamines by upregulating adrenergic receptors. Adrenocorticotropic hormone (ACTH) stimulation testing is NOT recommended to guide therapy."
+      },
+      {
+        "text": "Administer high-dose intravenous methylprednisolone (1 g daily) for 3 days",
+        "correct": false,
+        "explanation": "High-dose corticosteroids in sepsis provide no survival benefit and significantly increase secondary fungal and bacterial superinfections, neuromuscular weakness, and mortality."
+      },
+      {
+        "text": "Initiate continuous intravenous phenylephrine infusion as an additional fourth-line vasopressor",
+        "correct": false,
+        "explanation": "Phenylephrine is a pure alpha-1 agonist that causes reflex bradycardia and decreases stroke volume; it adds no benefit over norepinephrine/vasopressin."
+      },
+      {
+        "text": "Administer an immediate bolus of intravenous methylene blue (2 mg/kg) as first-line adjunctive therapy",
+        "correct": false,
+        "explanation": "Methylene blue inhibits inducible nitric oxide synthase and guanylate cyclase, and is reserved as an experimental rescue agent in refractory vasoplegic shock failing corticosteroids; hydrocortisone is standard first-line adjunctive therapy."
+      }
+    ],
+    "explanation": "In refractory septic shock where fluid resuscitation and vasopressors (norepinephrine >= 0.25 mcg/kg/min + vasopressin) fail to maintain MAP >= 65 mmHg after >= 4 hours, low-dose intravenous hydrocortisone (200 mg/day, 50 mg Q6H) is recommended. Trials (APROCCHSS, ADRENAL) prove hydrocortisone accelerates shock reversal and decreases vasopressor duration. ACTH stimulation testing is not recommended.",
+    "objective": "Initiate low-dose intravenous hydrocortisone (200 mg/day) in refractory septic shock ongoing despite adequate fluids and dual vasopressors (norepinephrine + vasopressin).",
+    "keyPoints": [
+      "Indication for hydrocortisone: septic shock requiring ongoing vasopressors (norepinephrine >= 0.25 mcg/kg/min) for >= 4 hours.",
+      "Dosing: 200 mg/day (50 mg IV Q6H or continuous infusion).",
+      "Do not perform an ACTH stimulation test; high-dose steroids increase mortality."
+    ],
+    "references": [
+      {
+        "label": "Surviving Sepsis Campaign 2021: International Guidelines for Management of Sepsis and Septic Shock",
+        "url": "https://www.sccm.org/SurvivingSepsisCampaign/Home"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0023",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Atrial Fibrillation & CHA2DS2-VASc Anticoagulation (DOAC vs Warfarin)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 72-year-old woman presents to the clinic for a routine checkup. She has a history of well-controlled hypertension and type 2 diabetes mellitus managed with amlodipine and metformin. She has had no palpitations, lightheadedness, chest discomfort, or syncope. Physical examination reveals an irregularly irregular pulse with a heart rate of 84/min and blood pressure of 132/78 mmHg. A 12-lead electrocardiogram demonstrates atrial fibrillation with a ventricular rate of 82/min and absence of discrete P waves. Transthoracic echocardiography reveals normal left ventricular systolic function (LVEF 60%), mild left atrial enlargement, and no valvular stenosis or regurgitation. Complete blood count, hepatic enzymes, and renal function (estimated GFR 68 mL/min/1.73m2) are normal. Calculating her stroke risk reveals a CHA2DS2-VASc score of 4 (Congestive heart failure: 0, Hypertension: 1, Age >= 75: 0, Diabetes: 1, Stroke/TIA: 0, Vascular disease: 0, Age 65–74: 1, Sex category female: 1; total: 4 points). According to current multisociety guidelines, which of the following is the most appropriate long-term management strategy for stroke prevention in this patient?",
+    "options": [
+      {
+        "text": "Initiate dual antiplatelet therapy with oral aspirin 81 mg daily and clopidogrel 75 mg daily",
+        "correct": false,
+        "explanation": "Antiplatelet therapy (aspirin alone or dual antiplatelet therapy) is significantly inferior to oral anticoagulation in preventing thromboembolic stroke in AF, while conferring a similar risk of major bleeding; guidelines explicitly advise against antiplatelet therapy for stroke prevention."
+      },
+      {
+        "text": "Initiate oral warfarin targeting an international normalized ratio (INR) of 2.0–3.0 as preferred first-line therapy",
+        "correct": false,
+        "explanation": "DOACs are preferred over warfarin in non-valvular AF due to superior safety (50% less intracranial hemorrhage) and equivalent/superior efficacy; warfarin is second-line unless a mechanical valve or mitral stenosis is present."
+      },
+      {
+        "text": "Initiate oral direct oral anticoagulant (DOAC) therapy (e.g., apixaban, rivaroxaban, or dabigatran)",
+        "correct": true,
+        "explanation": "In non-valvular atrial fibrillation, systemic oral anticoagulation is recommended for stroke prevention based on the validated CHA2DS2-VASc risk score. In women with a CHA2DS2-VASc score >= 3 (or men with a score >= 2), oral anticoagulation is strongly recommended (Class 1 indication). The 2023 ACC/AHA/ACCP/HRS Guidelines establish Direct Oral Anticoagulants (DOACs: apixaban, rivaroxaban, edoxaban, or dabigatran) as the preferred first-line therapy over warfarin (vitamin K antagonist). Landmark randomized trials (ARISTOTLE, ROCKET-AF, RE-LY) demonstrated that DOACs are at least non-inferior to warfarin in preventing ischemic stroke and systemic embolism, with a dramatic ~50% reduction in life-threatening intracranial hemorrhage, no requirement for routine INR monitoring, and fewer dietary/drug interactions. Warfarin is reserved for mechanical prosthetic heart valves and moderate-to-severe mitral stenosis."
+      },
+      {
+        "text": "Withhold anticoagulation because the patient is asymptomatic and her ventricular rate is well controlled",
+        "correct": false,
+        "explanation": "Symptoms and rate control have zero bearing on thromboembolic stroke risk; stroke risk is governed strictly by the CHA2DS2-VASc score, and asymptomatic AF carries an identical stroke risk to symptomatic AF."
+      },
+      {
+        "text": "Perform an immediate percutaneous left atrial appendage closure (Watchman device) as initial therapy",
+        "correct": false,
+        "explanation": "Percutaneous left atrial appendage closure is reserved as an alternative for patients with high stroke risk who have severe, permanent contraindications to long-term anticoagulation; it is not first-line therapy."
+      }
+    ],
+    "explanation": "In non-valvular atrial fibrillation, stroke risk is calculated using CHA2DS2-VASc. Anticoagulation is indicated for score >= 2 in men or >= 3 in women. Direct Oral Anticoagulants (DOACs: apixaban, rivaroxaban, dabigatran) are preferred over warfarin due to equivalent/superior stroke prevention and a 50% reduction in intracranial hemorrhage. Antiplatelet therapy is ineffective and not recommended.",
+    "objective": "Prescribe direct oral anticoagulants (DOACs) as preferred first-line therapy over warfarin for stroke prevention in non-valvular atrial fibrillation based on CHA2DS2-VASc score.",
+    "keyPoints": [
+      "CHA2DS2-VASc >= 2 in men or >= 3 in women mandates oral anticoagulation.",
+      "DOACs (apixaban, rivaroxaban) are preferred over warfarin due to lower intracranial hemorrhage.",
+      "Aspirin or clopidogrel are ineffective for AF stroke prevention and not recommended."
+    ],
+    "references": [
+      {
+        "label": "2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation",
+        "url": "https://www.jacc.org/doi/10.1016/j.jacc.2023.08.017"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0024",
+    "exam": "Step 3",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "Adolescent Depression & Fluoxetine with Suicide Monitoring",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 15-year-old girl is brought to the outpatient clinic by her mother due to a 2-month history of persistent sadness, social withdrawal, and declining school performance. She spends most of her time alone in her bedroom, has stopped attending soccer practice, and cries frequently. She reports chronic fatigue, feelings of worthlessness, poor concentration, and insomnia with early morning awakening. Her appetite has decreased, with an unintentional 4-kg (8.8-lb) weight loss over the past 6 weeks. On mental status examination, she makes poor eye contact, speaks in a monotone, and exhibits psychomotor retardation. She admits to passive suicidal thoughts (\"I wish I could just fall asleep and never wake up\"), but has no intent, no plan, and contracts for safety. Medical workup (including complete blood count, serum TSH, and urine toxicology) is completely normal. The patient and her mother agree to initiate comprehensive treatment, including cognitive behavioral therapy. Which of the following is the most appropriate first-line pharmacotherapy for this adolescent, and what mandatory counseling must be provided?",
+    "options": [
+      {
+        "text": "Initiate oral paroxetine 20 mg daily, as it carries the lowest risk of treatment-emergent suicidal ideation",
+        "correct": false,
+        "explanation": "Paroxetine is explicitly NOT recommended in pediatric depression due to lack of efficacy and significantly higher rates of suicidal ideation and agitation compared to fluoxetine."
+      },
+      {
+        "text": "Initiate oral venlafaxine extended-release 37.5 mg daily as first-line therapy",
+        "correct": false,
+        "explanation": "Venlafaxine (an SNRI) is associated with higher rates of suicidal ideation and hostile behavior in children and adolescents, and is not first-line therapy."
+      },
+      {
+        "text": "Initiate oral bupropion sustained-release 150 mg daily to promote appetite and energy",
+        "correct": false,
+        "explanation": "Bupropion is not FDA-approved or guideline-recommended for pediatric major depression, and can cause insomnia and seizures."
+      },
+      {
+        "text": "Initiate oral fluoxetine 10 mg daily, with close clinical monitoring for emerging suicidal ideation during the initial weeks of therapy",
+        "correct": true,
+        "explanation": "In children and adolescents with moderate-to-severe major depressive disorder (MDD), combination therapy with evidence-based psychotherapy (cognitive behavioral therapy [CBT] or interpersonal therapy [IPT]) and pharmacotherapy is the most effective treatment. Fluoxetine (a selective serotonin reuptake inhibitor [SSRI]) is the undisputed first-line antidepressant of choice in pediatric depression, backed by the largest body of randomized clinical trial evidence (e.g., TADS trial) and is FDA-approved for ages >= 8 years (escitalopram is approved for ages >= 12). In 2004, the FDA issued a \"black box\" warning on all antidepressants regarding an increased risk of suicidal thoughts and behaviors (approximately 4% vs 2% with placebo, with zero completed suicides in trial cohorts) in children, adolescents, and young adults (up to age 24) during the initial weeks of treatment. Treatment requires close clinical monitoring (weekly visits during the first month) and clear safety counseling for patients and parents, but the black box warning does NOT preclude treatment; untreated depression carries a far higher risk of completed suicide."
+      },
+      {
+        "text": "Withhold all antidepressant medications due to the FDA black box warning and rely solely on watchful waiting",
+        "correct": false,
+        "explanation": "Withholding pharmacotherapy in severe adolescent depression with weight loss and suicidal ideation is dangerous; untreated depression is the primary driver of adolescent suicide."
+      }
+    ],
+    "explanation": "Fluoxetine is the first-line FDA-approved SSRI for pediatric major depressive disorder (ages >= 8), supported by the TADS trial. The FDA black box warning highlights an increased risk of suicidal ideation (4% vs 2%) during early titration, requiring close weekly monitoring during the first month, but does not contraindicate treatment because untreated depression carries the true risk of suicide.",
+    "objective": "Select fluoxetine as the first-line pharmacotherapy for adolescent major depressive disorder and provide mandatory counseling and monitoring regarding the FDA black box warning for suicidal ideation.",
+    "keyPoints": [
+      "Fluoxetine is the first-line FDA-approved antidepressant for pediatric and adolescent depression (TADS trial).",
+      "FDA black box warning: increased risk of suicidal ideation in patients <= 24 years during early treatment.",
+      "Mandates close monitoring (weekly for the first month) without withholding necessary treatment."
+    ],
+    "references": [
+      {
+        "label": "Journal of the American Academy of Child and Adolescent Psychiatry 2023 Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents with Depressive Disorders",
+        "url": "https://www.jaacap.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0025",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Patient Safety & Root Cause Analysis (RCA) Systems-Based Approach",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old hospitalized patient with end-stage renal disease accidentally receives a 10-fold overdose of subcutaneous regular insulin (50 units instead of 5 units), resulting in profound hypoglycemia (blood glucose 24 mg/dL), a generalized seizure, and transfer to the intensive care unit. The patient recovers completely after intravenous dextrose administration. A review of the incident reveals that the resident physician handwrote the order as \"5 U Regular Insulin,\" but the unit clerk and bedside nurse misread the abbreviation \"U\" as a zero, interpreting the order as \"50.\" The hospital patient safety committee convenes an interdisciplinary team to investigate this sentinel event. Which of the following principles reflects the fundamental objective and methodology of a formal Root Cause Analysis (RCA)?",
+    "options": [
+      {
+        "text": "An administrative disciplinary inquiry intended to identify the responsible clinician and report them to the state medical licensing board",
+        "correct": false,
+        "explanation": "RCA is strictly non-punitive; focusing on individual blame fosters a culture of concealment and fear, preventing organizations from repairing systemic flaws."
+      },
+      {
+        "text": "A legal discovery proceeding conducted exclusively by the hospital risk management attorneys to establish legal immunity against malpractice claims",
+        "correct": false,
+        "explanation": "RCAs are quality improvement and patient safety tools, not litigation defense strategies, and involve frontline clinical staff rather than attorneys alone."
+      },
+      {
+        "text": "A mandatory reporting mechanism that automatically terminates the employment of any nurse or physician involved in a medication error",
+        "correct": false,
+        "explanation": "Punitive termination violates the \"Just Culture\" model and severely damages reporting of near-misses and errors."
+      },
+      {
+        "text": "A prospective risk assessment tool performed prior to the introduction of new clinical technology",
+        "correct": false,
+        "explanation": "A prospective analysis performed BEFORE an event occurs is a Failure Mode and Effects Analysis (FMEA); a Root Cause Analysis is RETROSPECTIVE after an event has occurred."
+      },
+      {
+        "text": "A multidisciplinary, systems-focused retrospective analysis designed to identify underlying latent systemic vulnerabilities rather than assigning individual human blame",
+        "correct": true,
+        "explanation": "A Root Cause Analysis (RCA) is a structured, retrospective method used by healthcare organizations to investigate sentinel events (adverse events resulting in death, permanent harm, or severe temporary harm requiring intervention). The core philosophy of patient safety (Reason's \"Swiss Cheese Model\") recognizes that adverse events are rarely caused by a single isolated clinician error, but rather occur when multiple latent system flaws (e.g., poor design, communication breakdowns, staffing shortages, ambiguous abbreviations) align with active human slips. An effective RCA: (1) Is conducted by an interdisciplinary team (physicians, nurses, pharmacists, risk managers), (2) Focuses primarily on systems and processes rather than individual human blame, (3) Repeatedly asks \"Why?\" to drill down to fundamental root causes, and (4) Generates sustainable, high-leverage action plans (such as forcing functions, computerized physician order entry with standardized menus, and banning dangerous abbreviations like \"U\" on the Joint Commission \"Do Not Use\" list) to prevent recurrence."
+      }
+    ],
+    "explanation": "A Root Cause Analysis (RCA) is a structured, retrospective, multidisciplinary quality improvement process that analyzes sentinel events to identify latent systemic flaws (processes, policies, communication) rather than assigning individual human blame. The goal is to implement system-level interventions (forcing functions, banning ambiguous abbreviations, CPOE) to prevent future errors. FMEA is prospective.",
+    "objective": "Explain the principles of Root Cause Analysis (RCA): a multidisciplinary, systems-based retrospective review that focuses on latent systemic vulnerabilities rather than individual blame.",
+    "keyPoints": [
+      "RCA is retrospective, interdisciplinary, and non-punitive.",
+      "Focuses on latent system failures (Swiss Cheese Model) rather than individual human blame.",
+      "FMEA (Failure Mode and Effects Analysis) is prospective; RCA is retrospective."
+    ],
+    "references": [
+      {
+        "label": "The Joint Commission: Sentinel Event Policy and Root Cause Analysis (RCA2)",
+        "url": "https://www.jointcommission.org/resources/sentinel-event/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

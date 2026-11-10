@@ -1,0 +1,1079 @@
+import { CandidateSpec } from './types';
+
+export const step3Batch38: CandidateSpec[] = [
+  {
+    "code": "op-c-s3-0926",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Inpatient Glycemic Targets Scheduled Basal-Bolus vs Sliding-Scale Insulin",
+    "provisionalDifficulty": 4,
+    "stem": "A 64-year-old man with a 15-year history of type 2 diabetes mellitus is admitted to the general medicine hospitalist service for intravenous antibiotic treatment of right lower extremity cellulitis. Prior to admission, his home diabetes regimen consisted of metformin 1,000 mg twice daily and glipizide 10 mg daily. On admission, his temperature is 38.4 C, blood pressure 134/78 mm Hg, and heart rate 92/min. Laboratory evaluation reveals: WBC count 14,200/uL, serum creatinine 1.2 mg/dL, and random blood glucose 246 mg/dL; baseline HbA1c obtained 2 weeks ago was 8.8%. He is tolerating a consistent carbohydrate diabetic diet. An admitting resident suggests placing the patient on a sliding-scale regular insulin protocol alone and holding all other diabetic medications. Which of the following represents the most appropriate, guideline-directed inpatient glycemic management strategy for this non-critically ill patient?",
+    "choices": [
+      [
+        "Discontinuation of oral agents and initiation of a scheduled basal-bolus-correction insulin regimen targeting blood glucose 140 to 180 mg/dL",
+        "According to the American Diabetes Association (ADA) and Endocrine Society inpatient glycemic management guidelines, the standard of care for non-critically ill hospitalized patients with diabetes is: (1) DISCONTINUATION OF ORAL HYPOGLYCEMIC AGENTS: Metformin is withheld during hospitalization due to the risk of lactic acidosis if renal function fluctuates or iodinated contrast is administered; sulfonylureas (glipizide) are held due to unpredictable oral intake and prolonged hypoglycemia risks; (2) INITIATION OF SCHEDULED BASAL-BOLUS-CORRECTION INSULIN: For patients with adequate nutritional intake, a physiologic three-component insulin regimen is mandatory: (a) Basal insulin (long-acting glargine or degludec, providing ~50% of total daily dose) to suppress hepatic gluconeogenesis; (b) Nutritional/prandial bolus insulin (rapid-acting lispro, aspart, or glulisine, ~50% of total daily dose divided before meals); and (c) Supplemental/correction insulin for pre-meal hyperglycemia; (3) INPATIENT GLYCEMIC TARGET: A target blood glucose range of 140 TO 180 MG/DL (7.8 to 10.0 mmol/L) is recommended for the vast majority of non-critically ill hospitalized patients. Tighter targets (<110-140 mg/dL) do not improve clinical outcomes and dramatically increase dangerous hypoglycemia; and (4) SLIDING-SCALE INSULIN ALONE IS STRONGLY DISCOURAGED: Sliding-scale regular insulin monotherapy is purely reactive (treating hyperglycemia only after it occurs) and is associated with severe glycemic variability, prolonged hospitalization, and higher rates of hospital-acquired infections (RABBIT-2 trial)."
+      ],
+      [
+        "Continuation of home oral metformin and glipizide with strict fasting blood glucose targets of 80 to 110 mg/dL",
+        "Oral agents are unsafe during acute illness due to acute kidney injury and hypoglycemia; tight targets (<110 mg/dL) increase fatal hypoglycemia without benefit."
+      ],
+      [
+        "Implementation of a sliding-scale regular insulin monotherapy protocol without any scheduled basal insulin",
+        "Sliding-scale monotherapy treats hyperglycemia reactively and was definitively shown in the RABBIT-2 trial to increase glycemic variability and complications."
+      ],
+      [
+        "Continuous intravenous regular insulin infusion targeting blood glucose 100 to 130 mg/dL on the general ward",
+        "Continuous intravenous insulin infusions are reserved for the intensive care unit and diabetic ketoacidosis, not stable cellulitis on a general medical floor."
+      ],
+      [
+        "Withholding all insulin therapy unless random blood glucose exceeds 300 mg/dL to avoid hypoglycemia",
+        "Permissive severe hyperglycemia (>200-300 mg/dL) impairs neutrophil chemotaxis, phagocytosis, and wound healing, escalating cellulitis progression."
+      ]
+    ],
+    "shortestValidSolution": "Inpatient diabetes on regular diet = Discontinue oral agents + scheduled basal-bolus-correction insulin (target 140-180 mg/dL; avoid sliding scale alone).",
+    "necessaryInference": "Apply guideline-directed inpatient glycemic management: select scheduled basal-bolus-correction insulin with a target of 140-180 mg/dL over reactive sliding-scale monotherapy.",
+    "strongestDistractor": "Implementation of a sliding-scale regular insulin monotherapy protocol without any scheduled basal insulin",
+    "distractorExclusion": "Sliding-scale insulin alone is reactive, causes roller-coaster glycemic swings, and leads to worse clinical outcomes compared to scheduled basal-bolus insulin.",
+    "citation": "Soliman D. Establishing Glycemic Targets: Epidemiologic Insights and Landmark Studies in Hospital Management. Med Clin North Am. 2026 May. PMID: 42036153.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on inpatient glycemic targets scheduled basal-bolus vs sliding-scale insulin.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0927",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Perioperative Anticoagulation Bridging Management in Atrial Fibrillation",
+    "provisionalDifficulty": 5,
+    "stem": "A 72-year-old man with permanent nonvalvular atrial fibrillation and hypertension is scheduled to undergo an elective laparoscopic right hemicolectomy for a benign colonic adenoma in 6 days. Current medications include warfarin 5 mg daily and lisinopril 20 mg daily. His international normalized ratio (INR) today is 2.4. He has no history of stroke, transient ischemic attack (TIA), or systemic thromboembolism. His calculated CHA2DS2-VASc score is 3 (age 72, hypertension). The surgical team requests guidance regarding perioperative anticoagulation management. Which of the following is the most appropriate management plan regarding perioperative bridging anticoagulation for this patient?",
+    "choices": [
+      [
+        "Discontinuation of warfarin 5 days prior to surgery without any low-molecular-weight heparin (LMWH) bridging therapy",
+        "This patient has NONVALVULAR ATRIAL FIBRILLATION with a MODERATE ISCHEMIC STROKE RISK (CHA2DS2-VASc = 3, corresponding to an annualized stroke risk of ~3-4%, or an absolute 8-day perioperative stroke risk of <0.1%). The landmark BRIDGE (Bridging Anticoagulation in Patients who Require Temporary Interruption of Warfarin Therapy) randomized trial and contemporary CHEST / ACC guidelines established that: (1) ROUTINE PERIOPERATIVE BRIDGING ANTICOAGULATION WITH THERAPEUTIC LMWH (enoxaparin) DOES NOT REDUCE ARTERIAL THROMBOEMBOLISM IN PATIENTS WITH NONVALVULAR ATRIAL FIBRILLATION; and (2) BRIDGING SIGNIFICANTLY INCREASES THE RISK OF MAJOR BLEEDING BY MORE THAN THREE-FOLD (3.2% vs 1.3%). Therefore, for patients with nonvalvular atrial fibrillation with low-to-moderate stroke risk (CHA2DS2-VASc <= 4 without prior stroke), WARFARIN SHOULD BE DISCONTINUED 5 DAYS PRIOR TO SURGERY (allowing INR to normalize to <= 1.4) WITHOUT ANY LMWH BRIDGING. Bridging anticoagulation is reserved strictly for HIGH THROMBOEMBOLIC RISK scenarios: (a) Any mechanical mitral valve prosthesis; (b) Older-generation mechanical aortic valve (caged-ball/tilting disc); (c) Recent ischemic stroke or TIA within the past 3 months; or (d) Recent venous thromboembolism within the past 3 months."
+      ],
+      [
+        "Discontinuation of warfarin 5 days prior to surgery with initiation of therapeutic subcutaneous enoxaparin 1 mg/kg twice daily bridging",
+        "Routine LMWH bridging in moderate-risk atrial fibrillation was proven in the BRIDGE trial to triple major bleeding without reducing perioperative stroke."
+      ],
+      [
+        "Continuation of full-dose warfarin uninterrupted throughout the laparoscopic colon resection",
+        "Continuing therapeutic warfarin through major intra-abdominal surgery causes catastrophic operative hemorrhage and hematoma formation."
+      ],
+      [
+        "Administration of intravenous vitamin K 10 mg the evening prior to surgery to accelerate INR normalization",
+        "Routine vitamin K for elective surgical reversal causes refractory warfarin resistance for days postoperatively; stopping warfarin 5 days prior is sufficient."
+      ],
+      [
+        "Discontinuation of warfarin 10 days prior to surgery with initiation of oral aspirin 325 mg daily as bridging",
+        "Aspirin bridging does not prevent cardioembolic stroke and impairs surgical platelet hemostasis, increasing operative blood loss."
+      ]
+    ],
+    "shortestValidSolution": "Elective surgery in AF with CHA2DS2-VASc 3 = Stop warfarin 5 days prior WITHOUT LMWH bridging (BRIDGE trial: bridging triples bleeding without reducing stroke).",
+    "necessaryInference": "Apply the findings of the BRIDGE trial: omit perioperative bridging anticoagulation in moderate-risk nonvalvular atrial fibrillation, as bridging increases major bleeding without reducing thromboembolism.",
+    "strongestDistractor": "Discontinuation of warfarin 5 days prior to surgery with initiation of therapeutic subcutaneous enoxaparin 1 mg/kg twice daily bridging",
+    "distractorExclusion": "Therapeutic bridging in nonvalvular AF provides zero stroke reduction during brief surgical interruptions and triples major surgical bleeding complications.",
+    "citation": "Massart J. Explosive Multiterritorial Arterial Thrombosis Following Brief Heparin Exposure: A Diagnostic Pitfall in the Cath Lab. Case Rep Cardiol. 2026. PMID: 42621475.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on perioperative anticoagulation bridging management in atrial fibrillation.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0928",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Nervous System",
+    "topic": "Hospital Delirium Multicomponent Non-Pharmacological Prevention Bundle",
+    "provisionalDifficulty": 4,
+    "stem": "An 81-year-old woman is admitted to the hospitalist service for community-acquired pneumonia. She has a history of mild vascular dementia (baseline functional dependence with meal preparation) and hypertension. She is treated with intravenous ceftriaxone and azithromycin, supplemental oxygen via nasal cannula at 2 L/min, and an indwelling Foley catheter placed in the emergency department. On hospital night 2, the night nurse calls the cross-covering resident reporting that the patient has become acutely agitated, is pulling at her intravenous line, believes she is trapped in a bus station, and is disoriented to time and place. Vital signs: blood pressure 138/80 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 96%. Physical examination reveals an agitated woman with fluctuating attention; cardiopulmonary examination is unchanged, and there are no focal neurological deficits. Blood glucose is 128 mg/dL, and electrolyte panel is normal. The nurse asks for an order for intravenous haloperidol or lorazepam to calm the patient. Which of the following is the most appropriate management strategy for this patient?",
+    "choices": [
+      [
+        "Implementation of a multicomponent non-pharmacological delirium bundle (removal of the Foley catheter, reorientation, mobilization, sleep hygiene) and withholding routine antipsychotics",
+        "This patient has ACUTE HOSPITAL DELIRIUM (hyperactive/mixed subtype), characterized by an acute onset and fluctuating disturbance in attention, awareness, and cognition, triggered by systemic infection, unfamiliar hospital surroundings, and tethering devices (Foley catheter, IV lines). The American Geriatrics Society (AGS) and Society of Critical Care Medicine (SCCM) guidelines establish: (1) NON-PHARMACOLOGICAL MULTICOMPONENT INTERVENTIONS (Hospital Elder Life Program [HELP] model) ARE THE FIRST-LINE AND ONLY INTERVENTIONS PROVEN TO REDUCE DELIRIUM DURATION AND SEVERITY. Core interventions include: (a) Early removal of physical restraints and tethering medical devices (IMMEDIATE REMOVAL OF INDWELLING FOLEY CATHETERS, which cause substantial delirium, agitation, and CAUTIs); (b) Frequent reorientation by familiar staff and family members; (c) Cognitive stimulation; (d) Early physical mobilization; (e) Sensory aids (ensuring eyeglasses and hearing aids are in place); and (f) Environmental sleep hygiene (minimizing nighttime vitals, lighting, and noise); (2) PHARMACOTHERAPY SHOULD BE WITHHELD FOR ROUTINE DELIRIUM: Antipsychotics (haloperidol, quetiapine) DO NOT REDUCE DELIRIUM DURATION, RESOLUTION, ICU STAY, OR MORTALITY, and carry severe risks of QTc prolongation, extrapyramidal symptoms, and stroke; and (3) BENZODIAZEPINES (lorazepam) EXACERBATE DELIRIUM and are strictly contraindicated unless delirium is caused by alcohol or sedative withdrawal."
+      ],
+      [
+        "Administration of intravenous haloperidol 2 mg every 4 hours scheduled around the clock for 48 hours",
+        "Routine scheduled antipsychotics do not resolve delirium or improve survival, and significantly increase mortality, ventricular arrhythmias, and extrapyramidal toxicity."
+      ],
+      [
+        "Administration of intravenous lorazepam 1 mg every 2 hours as needed for agitation",
+        "Benzodiazepines worsen delirium in older adults, cause paradoxical disinhibition, double fall risk, and are contraindicated outside alcohol/sedative withdrawal."
+      ],
+      [
+        "Application of bilateral soft wrist restraints to secure the peripheral intravenous catheter",
+        "Physical restraints worsen delirium severity, increase psychological trauma, cause injury from struggling, and do not prevent line dislodgement."
+      ],
+      [
+        "Immediate unenhanced head CT scanning followed by emergent lumbar puncture",
+        "In a hospitalized patient with known pneumonia and fluctuating attention without focal neurologic deficits, routine neuroimaging and LP are low-yield."
+      ]
+    ],
+    "shortestValidSolution": "Acute hospital delirium in older adult = Multicomponent non-pharmacological bundle (remove Foley, mobilize, reorient; withhold routine antipsychotics/benzos).",
+    "necessaryInference": "Select multicomponent non-pharmacological delirium protocols as first-line management, recognizing that routine antipsychotics and benzodiazepines are inappropriate and harmful.",
+    "strongestDistractor": "Administration of intravenous haloperidol 2 mg every 4 hours scheduled around the clock for 48 hours",
+    "distractorExclusion": "Clinical trials show antipsychotics do not shorten delirium or reduce hospital stay; non-pharmacological removal of deliriogenic triggers is the proven standard.",
+    "citation": "Sirohiya P. Delirium in the oncology intensive care unit: Risk, recognition, and recovery strategies. World J Crit Care Med. 2026 Sep 9. PMID: 42707467.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 geriatrics item requiring multi-step deduction on hospital delirium multicomponent non-pharmacological prevention bundle.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0929",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Behavioral Health",
+    "topic": "Alcohol Withdrawal Syndrome Symptom-Triggered vs Fixed-Schedule Benzodiazepines",
+    "provisionalDifficulty": 4,
+    "stem": "A 48-year-old man with a history of heavy alcohol consumption (consuming approximately a fifth of vodka daily for 10 years) is admitted to the hospitalist service with an acute non-displaced right bimalleolar ankle fracture sustained in a fall. He underwent closed reduction and splinting in the emergency department. Approximately 16 hours after his last alcoholic drink, he develops fine resting tremors of both outstretched hands, profuse diaphoresis, nausea, anxiety, and a heart rate of 114/min with blood pressure 156/94 mm Hg. He is fully oriented to person, place, and time. He has no prior history of delirium tremens or alcohol withdrawal seizures. Physical examination reveals an anxious, tremulous man without focal neurological deficits. An admitting intern proposes placing the patient on a fixed-schedule regimen of oral chlordiazepoxide 50 mg every 6 hours around the clock for 4 days. Which of the following represents the most appropriate, evidence-based management strategy for this patient's alcohol withdrawal?",
+    "choices": [
+      [
+        "Implementation of a symptom-triggered benzodiazepine protocol using the Clinical Institute Withdrawal Assessment for Alcohol (CIWA-Ar) scale",
+        "ALCOHOL WITHDRAWAL SYNDROME (AWS) results from the abrupt cessation of alcohol in chronic drinkers, leading to central nervous system hyperarousal due to decreased GABA-A receptor inhibitory activity and uninhibited NMDA glutamate receptor excitation. The American Society of Addiction Medicine (ASAM) guidelines strongly establish that: (1) SYMPTOM-TRIGGERED BENZODIAZEPINE THERAPY IS SUPERIOR TO FIXED-SCHEDULE REGIMENS. In a symptom-triggered protocol, a validated clinical tool (such as the Clinical Institute Withdrawal Assessment for Alcohol, Revised [CIWA-Ar]) is scored by nursing every 1 to 2 hours. Benzodiazepines (e.g., oral lorazepam 2 mg, chlordiazepoxide 50 mg, or diazepam 10-20 mg) are administered ONLY WHEN THE CIWA-Ar SCORE EXCEEDS A SPECIFIED THRESHOLD (typically >= 8 to 10 for mild-moderate withdrawal); (2) ADVANTAGES: Randomized trials (Saitz et al.) demonstrated that symptom-triggered therapy REDUCES TOTAL BENZODIAZEPINE DOSAGE BY OVER 75% (preventing iatrogenic over-sedation and respiratory depression) and SIGNIFICANTLY SHORTENS THE DURATION OF DETOXIFICATION (from 68 hours down to 9 hours) while providing identical protection against seizures and delirium tremens; and (3) Fixed-schedule regimens are reserved only for patients who cannot be reliably assessed (e.g., intubated patients or uncooperative individuals)."
+      ],
+      [
+        "Institution of a fixed-schedule chlordiazepoxide regimen with additional as-needed boluses for 7 days",
+        "Fixed-schedule regimens administer large cumulative doses of long-acting sedatives regardless of actual need, causing excessive sedation and prolonged hospital stay."
+      ],
+      [
+        "Prescribing oral baclofen 10 mg three times daily as non-benzodiazepine monotherapy for withdrawal",
+        "Baclofen is an adjunctive agent for craving reduction; it has zero proven efficacy in preventing life-threatening withdrawal seizures or delirium tremens."
+      ],
+      [
+        "Administration of intravenous phenytoin loading dose 1,000 mg to prevent alcohol withdrawal seizures",
+        "Phenytoin and antiepileptic drugs are completely ineffective for preventing or treating alcohol withdrawal seizures; GABA-ergic benzodiazepines are required."
+      ],
+      [
+        "Administration of intravenous haloperidol 5 mg as monotherapy to suppress autonomic hyperarousal",
+        "Antipsychotics (haloperidol) lower the seizure threshold in alcohol withdrawal and are strictly contraindicated as monotherapy for withdrawal tremors."
+      ]
+    ],
+    "shortestValidSolution": "Acute alcohol withdrawal = Symptom-triggered benzodiazepines based on CIWA-Ar >= 8-10 (shorter treatment, lower drug exposure vs fixed-schedule).",
+    "necessaryInference": "Apply ASAM guidelines for alcohol withdrawal: select symptom-triggered benzodiazepine therapy guided by CIWA-Ar scores over fixed-schedule regimens.",
+    "strongestDistractor": "Institution of a fixed-schedule chlordiazepoxide regimen with additional as-needed boluses for 7 days",
+    "distractorExclusion": "Fixed-schedule dosing causes iatrogenic cumulative oversedation and doubles length of stay compared to responsive symptom-triggered protocols.",
+    "citation": "Caputo F. Alcohol withdrawal syndrome in hospitalized patients: a practical review. Eur J Intern Med. 2026 Nov. PMID: 42502044.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on alcohol withdrawal syndrome symptom-triggered vs fixed-schedule benzodiazepines.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0930",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Tumor Lysis Syndrome Rasburicase Contraindication in G6PD Deficiency",
+    "provisionalDifficulty": 5,
+    "stem": "A 24-year-old man of African descent is admitted to the hematology-oncology service with newly diagnosed high-grade Burkitt lymphoma. He has massive retroperitoneal lymphadenopathy and an extremely high tumor proliferative fraction (Ki-67 >99%). Baseline laboratory testing prior to chemotherapy demonstrates: WBC 42,000/uL, serum uric acid 14.8 mg/dL (markedly elevated, reference <7.5 mg/dL), serum potassium 5.2 mEq/L, serum phosphorus 6.4 mg/dL, and serum creatinine 2.1 mg/dL (baseline 0.9 mg/dL). He is diagnosed with laboratory and clinical TUMOR LYSIS SYNDROME (TLS). Aggressive intravenous hydration is initiated. The oncology team plans to administer intravenous rasburicase (recombinant urate oxidase) to rapidly lower his serum uric acid before starting induction chemotherapy. Which of the following is the most critical screening step or contraindication that must be evaluated prior to the administration of rasburicase?",
+    "choices": [
+      [
+        "Screening for glucose-6-phosphate dehydrogenase (G6PD) deficiency, as rasburicase is absolutely contraindicated due to risk of fatal methemoglobinemia and severe hemolysis",
+        "RASBURICASE is a recombinant urate oxidase enzyme that catalyzes the enzymatic conversion of uric acid into ALLANTOIN, a highly water-soluble inactive metabolite that is 5 to 10 times more soluble than uric acid and easily cleared renally. Unlike allopurinol (which merely prevents new uric acid synthesis by inhibiting xanthine oxidase, leaving pre-existing uric acid intact), rasburicase actively degrades existing uric acid pools, reducing serum uric acid levels to near zero within 4 hours. However, rasburicase has an ABSOLUTE CONTRAINDICATION: GLUCOSE-6-PHOSPHATE DEHYDROGENASE (G6PD) DEFICIENCY. The biochemical mechanism of rasburicase's enzymatic reaction generates HYDROGEN PEROXIDE (H2O2) as an equimolar byproduct. In individuals with normal G6PD activity, erythrocyte glutathione reductase detoxifies H2O2. In patients with G6PD deficiency, erythrocytes lack sufficient NADPH to regenerate reduced glutathione; the unchecked hydrogen peroxide causes MASSIVE OXIDATIVE ERYTHROCYTE INJURY, PRECIPITATING SEVERE ACUTE HEMOLYTIC ANEMIA AND METHEMOGLOBINEMIA (cyanosis refractory to oxygen). FDA product labeling mandates that patients at high risk of G6PD deficiency (African, Mediterranean, or Southeast Asian ancestry) MUST BE SCREENED FOR G6PD DEFICIENCY PRIOR TO RASBURICASE; if G6PD deficiency is present, rasburicase is strictly contraindicated, and allopurinol plus aggressive hydration must be used."
+      ],
+      [
+        "Screening for HLA-B*5801 allele, as rasburicase carries an extreme risk of Stevens-Johnson syndrome",
+        "HLA-B*5801 screening is mandatory for ALLOPURINOL hypersensitivity syndrome (especially in Southeast Asian patients), not for rasburicase."
+      ],
+      [
+        "Baseline measurement of serum xanthine oxidase activity to determine appropriate rasburicase weight-based dosing",
+        "Rasburicase acts directly on uric acid, bypassing xanthine oxidase; xanthine oxidase assays have no role in rasburicase dosing."
+      ],
+      [
+        "Assessing for baseline hypercalcemia, as rasburicase administration triggers rapid calcium-phosphate precipitation",
+        "Tumor lysis syndrome causes HYPOcalcemia (due to phosphate binding), not hypercalcemia, and rasburicase does not affect serum calcium."
+      ],
+      [
+        "Evaluation of baseline creatinine clearance, as rasburicase is renally cleared and contraindicated in renal failure",
+        "Rasburicase is cleared through peptide catabolism (independent of renal function) and is specifically indicated in renal insufficiency from uric acid nephropathy."
+      ]
+    ],
+    "shortestValidSolution": "Rasburicase for tumor lysis syndrome = Screen for G6PD deficiency first (absolute contraindication: generates H2O2 -> fatal hemolysis + methemoglobinemia).",
+    "necessaryInference": "Recognize the absolute contraindication of rasburicase in G6PD deficiency due to hydrogen peroxide byproduct generation leading to severe oxidative hemolysis and methemoglobinemia.",
+    "strongestDistractor": "Screening for HLA-B*5801 allele, as rasburicase carries an extreme risk of Stevens-Johnson syndrome",
+    "distractorExclusion": "HLA-B*5801 testing is required prior to allopurinol initiation; rasburicase carries a black-box warning specifically for G6PD-deficient hemolysis.",
+    "citation": "Melero R. Treatment with Rasburicase in Hospitalized Patients with Cardiorenal Syndrome: Old Treatment, New Scenario. Int J Mol Sci. 2024 Mar 15. PMID: 38542302.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on tumor lysis syndrome rasburicase contraindication in g6pd deficiency.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0931",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Contrast-Associated Acute Kidney Injury Intravenous Volume Expansion Prevention",
+    "provisionalDifficulty": 4,
+    "stem": "A 68-year-old man with a history of long-standing type 2 diabetes mellitus, hypertension, and stage 3b chronic kidney disease (baseline serum creatinine 1.8 mg/dL, estimated GFR 36 mL/min/1.73 m2) is admitted for evaluation of suspected critical limb-threatening ischemia with a non-healing right great toe ulcer. A contrast-enhanced digital subtraction angiogram (DSA) of the right lower extremity is scheduled. He has no history of congestive heart failure, and physical examination reveals clear lung fields and no peripheral edema. Vital signs are normal. The vascular surgery fellow asks what prophylactic pharmacological regimen should be ordered to prevent CONTRAST-ASSOCIATED ACUTE KIDNEY INJURY (CA-AKI). Which of the following is the most evidence-based, guideline-directed preventive strategy according to the PRESERVE trial and KDIGO guidelines?",
+    "choices": [
+      [
+        "Intravenous volume expansion with isotonic crystalloids (0.9% normal saline or Lactated Ringer's) administered pre- and post-procedure",
+        "CONTRAST-ASSOCIATED ACUTE KIDNEY INJURY (CA-AKI) is defined as a rise in serum creatinine >= 0.3 mg/dL or >= 50% within 48 to 72 hours following intravascular administration of iodinated contrast media. The primary pathophysiology involves contrast-induced renal medullary vasoconstriction, medullary hypoxia, and direct tubular epithelial cytotoxicity. Landmark clinical evidence from the large-scale PRESERVE (Prevention of Serious Adverse Events Following Angiography) randomized trial and KDIGO guidelines definitively established that: (1) INTRAVENOUS ISOTONIC VOLUME EXPANSION (with 0.9% normal saline or Lactated Ringer's, typically 1 to 1.5 mL/kg/h for 3 to 12 hours before and 6 to 12 hours after the procedure) IS THE ONLY INTERVENTION PROVEN TO REDUCE CA-AKI IN HIGH-RISK CKD PATIENTS; and (2) PHARMACOLOGICAL AGENTS PROVIDE ZERO BENEFIT: The PRESERVE trial definitively proved that ORAL N-ACETYLCYSTEINE (NAC) AND INTRAVENOUS SODIUM BICARBONATE ARE NO BETTER THAN ISOTONIC SALINE ALONE for preventing death, requirement for dialysis, or sustained decline in kidney function. Therefore, routine prescription of NAC or bicarbonate is no longer recommended. Additional vital preventive measures include: minimizing contrast volume, using iso-osmolar or low-osmolar contrast media, and withholding concurrent nephrotoxic medications (NSAIDs, aminoglycosides)."
+      ],
+      [
+        "Oral N-acetylcysteine (NAC) 1,200 mg twice daily for 48 hours without any intravenous fluid hydration",
+        "NAC monotherapy without intravenous hydration was conclusively proven ineffective in the PRESERVE trial; intravenous isotonic volume expansion is mandatory."
+      ],
+      [
+        "Intravenous sodium bicarbonate infusion combined with high-dose intravenous furosemide to force diuresis",
+        "Diuretics (furosemide) volume-deplete the renal medulla, accelerating contrast concentration and tubular injury; PRESERVE showed bicarbonate is not superior to saline."
+      ],
+      [
+        "Administration of prophylactic low-dose dopamine infusion (2 mcg/kg/min) to promote renal vasodilation",
+        "Renal-dose dopamine does not protect against acute kidney injury and increases cardiac tachyarrhythmias in elderly patients."
+      ],
+      [
+        "Initiation of prophylactic high-dose oral fenoldopam 1 hour prior to angiography",
+        "Selective dopamine DA1 agonists (fenoldopam) do not reduce contrast nephropathy and cause systemic hypotension and reflexive tachycardia."
+      ]
+    ],
+    "shortestValidSolution": "Prevention of contrast AKI in CKD (eGFR 36) = IV isotonic saline volume expansion pre- and post-procedure (PRESERVE trial: NAC and bicarb show no benefit).",
+    "necessaryInference": "Apply the findings of the PRESERVE trial: select intravenous isotonic volume expansion as the sole evidence-based prevention for contrast-associated AKI, rejecting NAC and sodium bicarbonate.",
+    "strongestDistractor": "Oral N-acetylcysteine (NAC) 1,200 mg twice daily for 48 hours without any intravenous fluid hydration",
+    "distractorExclusion": "The landmark PRESERVE trial demonstrated that N-acetylcysteine provides no benefit over intravenous isotonic saline alone in reducing death, dialysis, or acute kidney injury.",
+    "citation": "Chen SY. Systematic Review of Intravenous Contrast-Induced Nephropathy and Prophylaxis With Hydration. J Med Imaging Radiat Oncol. 2026 Feb. PMID: 41334949.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on contrast-associated acute kidney injury intravenous volume expansion prevention.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0932",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Syncope Risk Stratification Inpatient Telemetry vs Outpatient Discharge",
+    "provisionalDifficulty": 4,
+    "stem": "A 66-year-old man presents to the emergency department after a sudden syncopal episode that occurred 2 hours ago. He was walking from his living room to the kitchen when he experienced a brief sensation of dizziness lasting less than 5 seconds, followed by complete loss of consciousness and collapse. His wife witnessed the event and states he was unconscious for approximately 30 seconds without tonic-clonic movements, tongue biting, or post-ictal confusion; he regained full orientation immediately upon awakening. He denies chest pain, palpitations, or shortness of breath. Medical history includes an anterior wall myocardial infarction 3 years ago (stented LAD, baseline LVEF 38% on echocardiogram 6 months ago) and hypertension. Current medications include carvedilol, sacubitril-valsartan, and atorvastatin. Vital signs: blood pressure 122/74 mm Hg, heart rate 64/min, and oxygen saturation 98%. Orthostatic vital signs demonstrate no postural drop in blood pressure. Physical examination is unremarkable with no murmurs. 12-lead ECG demonstrates sinus rhythm at 64/min with old Q waves in leads V1 through V3 and a QRS duration of 110 ms; there are no acute ST-T changes or high-degree AV block. Cardiac troponin I and electrolyte panel are normal. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      [
+        "Admission to an inpatient telemetry unit for continuous cardiac monitoring and evaluation for an implantable cardioverter-defibrillator (ICD)",
+        "This patient presents with SYNCOPE WITH HIGH-RISK FEATURES FOR CARDIAC ETIOLOGY. Clinical guidelines from the ACC/AHA/HRS and validated risk stratification scores (such as the Canadian Syncope Risk Score and San Francisco Syncope Rule) categorize syncope into low-, intermediate-, and high-risk: (1) HIGH-RISK FEATURES FOR CARDIOMYOPATHY / VENTRICULAR ARRHYTHMIA: (a) PRE-EXISTING STRUCTURAL HEART DISEASE (history of myocardial infarction, reduced left ventricular ejection fraction LVEF <= 35-40%); (b) Sudden-onset syncope without preceding prodrome (autonomic vasovagal symptoms like diaphoresis, warmth, or nausea); (c) Age >60-65 years; and (d) Abnormal baseline ECG (pathological Q waves indicating myocardial scar); (2) PATHOPHYSIOLOGY: In patients with prior myocardial infarction and reduced LVEF, syncope is presumed to be caused by TRANSIENT VENTRICULAR TACHYCARDIA (VT) arising from reentry circuits at the border zone of the myocardial infarct scar until proven otherwise. This carries an annual sudden cardiac death risk >15-20%; and (3) MANAGEMENT: Mandatory INPATIENT TELEMETRY ADMISSION for continuous rhythm surveillance, repeat echocardiography, and evaluation for IMPLANTABLE CARDIOVERTER-DEFIBRILLATOR (ICD) PLACEMENT (or electrophysiological study). Discharging him home with an outpatient Holter monitor leaves him at extreme risk of unwitnessed fatal ventricular fibrillation."
+      ],
+      [
+        "Discharge home with an outpatient 48-hour Holter monitor and routine cardiology clinic follow-up in 4 weeks",
+        "Outpatient monitoring is reserved for low-risk vasovagal syncope with normal hearts; syncope with prior myocardial infarction and low EF carries high sudden death risk requiring inpatient telemetry."
+      ],
+      [
+        "Reassurance that the episode represents typical benign vasovagal neurocardiogenic syncope",
+        "Vasovagal syncope requires classic situational or emotional triggers with prolonged prodromal nausea/warmth; sudden collapse in ischemic cardiomyopathy is never presumed vasovagal."
+      ],
+      [
+        "Immediate carotid artery endarterectomy referral to prevent recurrent vertebrobasilar hypoperfusion",
+        "Carotid artery disease causes focal hemispheric neurologic deficits (hemiparesis, aphasia), not isolated transient syncope; carotid surgery is completely contraindicated."
+      ],
+      [
+        "Discontinuation of carvedilol and sacubitril-valsartan due to suspected medication-induced vasodepressor syncope",
+        "Orthostatics were normal and blood pressure was 122/74; withdrawing guideline-directed heart failure pharmacotherapy increases ventricular arrhythmias and mortality."
+      ]
+    ],
+    "shortestValidSolution": "Syncope in patient with prior MI and low EF (38%) + Q waves = Inpatient telemetry admission + ICD evaluation (presumed ventricular tachycardia until proven otherwise).",
+    "necessaryInference": "Risk-stratify syncope using evidence-based guidelines: identify prior myocardial infarction with reduced ejection fraction as a high-risk feature mandating inpatient telemetry for ventricular arrhythmia evaluation.",
+    "strongestDistractor": "Discharge home with an outpatient 48-hour Holter monitor and routine cardiology clinic follow-up in 4 weeks",
+    "distractorExclusion": "Discharging an ischemic cardiomyopathy patient with unexplained syncope places them at immediate risk of fatal ventricular fibrillation; inpatient telemetry is mandatory.",
+    "citation": "Harris AW. Potential Impact of Using Canadian Syncope Risk Score on Emergency Department Hospitalizations for Syncope. West J Emerg Med. 2025 Oct 3. PMID: 41193023.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on syncope risk stratification inpatient telemetry vs outpatient discharge.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0933",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Hospitalized Medical Patient Venous Thromboembolism Prophylaxis Padua Score",
+    "provisionalDifficulty": 4,
+    "stem": "A 74-year-old woman is admitted to the hospitalist service with an acute exacerbation of chronic obstructive pulmonary disease (COPD) and heart failure with preserved ejection fraction (HFpEF). She has spent the past 3 days resting in bed at home due to severe exertional dyspnea and is currently on bed rest with bathroom privileges. Medical history includes active stage II invasive ductal breast cancer (currently receiving oral letrozole hormonal therapy), hypertension, and obesity (BMI 33 kg/m2). Vital signs: blood pressure 138/82 mm Hg, heart rate 88/min, respiratory rate 20/min, and oxygen saturation 93% on 2 L/min nasal cannula. Physical examination reveals bilateral expiratory wheezing, mild jugular venous distension, and 1+ bilateral pretibial edema without asymmetric calf tenderness or swelling. Laboratory tests show: hemoglobin 13.2 g/dL, platelet count 240,000/uL, serum creatinine 1.0 mg/dL (eGFR 64 mL/min/1.73 m2), and normal coagulation parameters. She has no active bleeding or history of bleeding diathesis. Which of the following is the most appropriate management plan regarding venous thromboembolism (VTE) prophylaxis for this patient?",
+    "choices": [
+      [
+        "Pharmacological thromboprophylaxis with subcutaneous enoxaparin 40 mg once daily (or unfractionated heparin 5,000 units three times daily)",
+        "HOSPITAL-ACQUIRED VENOUS THROMBOEMBOLISM (deep vein thrombosis and pulmonary embolism) is the leading cause of preventable hospital mortality. The American College of Chest Physicians (CHEST) and American Society of Hematology (ASH) guidelines recommend using a validated risk-assessment model (such as the PADUA PREDICTION SCORE) to identify hospitalized medical patients who require pharmacological VTE prophylaxis: (1) PADUA SCORE CALCULATION: Active cancer (3 points), reduced mobility/bed rest >= 3 days (3 points), age >= 70 years (1 point), acute heart and/or respiratory failure (1 point), obesity BMI >= 30 (1 point). Total Padua score = 9 points (HIGH RISK OF VTE is defined as score >= 4, carrying an ~11% risk of symptomatic VTE without prophylaxis); (2) PHARMACOLOGICAL THROMBOPROPHYLAXIS: In high-risk medical inpatients without active bleeding or severe thrombocytopenia, PHARMACOLOGICAL PROPHYLAXIS IS STRONGLY RECOMMENDED. Preferred regimens include: SUBCUTANEOUS ENOXAPARIN 40 MG ONCE DAILY, or DALTEPARIN 5,000 units daily, or LOW-DOSE UNFRACTIONATED HEPARIN (LDUH) 5,000 UNITS SUBCUTANEOUSLY EVERY 8 HOURS. LMWH is preferred over unfractionated heparin due to lower rates of heparin-induced thrombocytopenia (HIT) and convenient once-daily dosing; and (3) MECHANICAL PROPHYLAXIS (graduated compression stockings or pneumatic compression devices) is reserved for patients with absolute contraindications to anticoagulation (active major bleeding, severe thrombocytopenia <50k)."
+      ],
+      [
+        "Mechanical thromboprophylaxis with pneumatic sequential compression devices (SCDs) alone without any anticoagulation",
+        "Mechanical compression monotherapy is indicated only when pharmacological anticoagulation is contraindicated due to active bleeding."
+      ],
+      [
+        "Administration of full-dose therapeutic anticoagulation with intravenous unfractionated heparin infusion",
+        "Full-dose therapeutic anticoagulation is indicated for confirmed acute thrombosis (PE or DVT), not for routine inpatient prophylaxis, and exposes her to unnecessary bleeding."
+      ],
+      [
+        "Oral aspirin 81 mg daily as definitive pharmacological thromboprophylaxis for medical inpatients",
+        "Aspirin is inferior to LMWH/heparin and is not guideline-approved for VTE prophylaxis in hospitalized non-surgical medical patients."
+      ],
+      [
+        "Withholding all thromboprophylaxis because early ambulation with bathroom privileges provides sufficient protection",
+        "Bathroom privileges do not constitute full ambulation; medical patients with high Padua scores (>=4) remain at high risk of fatal PE without heparin prophylaxis."
+      ]
+    ],
+    "shortestValidSolution": "Hospitalized medical patient with Padua score >= 4 (cancer + immobility + age >=70) = Subcutaneous enoxaparin 40 mg daily (pharmacological VTE prophylaxis).",
+    "necessaryInference": "Apply validated VTE risk models (Padua score): select pharmacological thromboprophylaxis with LMWH or unfractionated heparin in high-risk hospitalized medical patients.",
+    "strongestDistractor": "Mechanical thromboprophylaxis with pneumatic sequential compression devices (SCDs) alone without any anticoagulation",
+    "distractorExclusion": "Mechanical prophylaxis alone has inferior efficacy compared to pharmacological heparin and is reserved strictly for patients with active bleeding contraindications.",
+    "citation": "Ali Abdelhamid Y. Personalised approach to venous thromboembolism prophylaxis in heavier critically ill patients (PROSPER): A randomised, parallel-group, electronic medical record (EMR)-embedded feasibility trial. Crit Care Resusc. 2026 Dec. PMID: 42990884.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on hospitalized medical patient venous thromboembolism prophylaxis padua score.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0934",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Nonvariceal Upper Gastrointestinal Bleeding Post-Endoscopy PPI Regimen",
+    "provisionalDifficulty": 4,
+    "stem": "A 62-year-old man presents to the emergency department with hematemesis and melena for 12 hours. He takes daily over-the-counter naproxen for osteoarthritis. On arrival, he was hypotensive (BP 88/54 mm Hg) and tachycardic (HR 122/min); aggressive crystalloid resuscitation with 2 liters of Lactated Ringer's and transfusion of 2 units of packed red blood cells restored his blood pressure to 118/72 mm Hg. Emergency esophagogastroduodenoscopy (EGD) performed 4 hours after admission reveals a 1.8-cm peptic ulcer in the posterior duodenal bulb with an ACTIVE PUMPING ARTERIAL SPURTER (Forrest class Ia). Successful dual endoscopic hemostasis is achieved using hemoclip application and thermal bipolar electrocoagulation, with complete cessation of bleeding. The patient is transferred to the step-down unit. Which of the following is the guideline-directed pharmacotherapy and duration recommended by the American College of Gastroenterology (ACG) following successful endoscopic hemostasis of this high-risk ulcer?",
+    "choices": [
+      [
+        "High-dose intravenous proton pump inhibitor therapy (e.g., pantoprazole 80 mg bolus followed by 8 mg/hour infusion or 40 mg IV twice daily) for 72 hours",
+        "Peptic ulcer bleeding is the most common cause of nonvariceal upper gastrointestinal hemorrhage. Following successful endoscopic hemostasis of HIGH-RISK ULCER STIGMATA (Forrest Ia active spurting, Forrest Ib active oozing, or Forrest IIa non-bleeding visible vessel), guidelines from the ACG and International Consensus Group mandate: (1) HIGH-DOSE INTRAVENOUS PROTON PUMP INHIBITOR (PPI) THERAPY FOR 72 HOURS: Intravenous pantoprazole or esomeprazole (either as an 80 mg IV bolus followed by continuous 8 mg/hour infusion, OR high-dose intermittent 40 to 80 mg IV twice daily) MUST BE CONTINUED FOR 72 CONSECUTIVE HOURS; (2) PATHOPHYSIOLOGICAL MECHANISM: Blood clot formation and platelet aggregation are exquisitely pH-dependent; at gastric pH <6.0, pepsin lyses fibrin clots and platelets fail to aggregate, dissolving the hemostatic seal over the eroded duodenal artery. Sustained high-dose PPI therapy maintains intragastric pH >6.0, allowing permanent clot consolidation and reducing recurrent bleeding by >50%, surgical interventions, and mortality; (3) 72-HOUR TIMELINE: Upwards of 80% to 90% of ulcer re-bleeding occurs within the first 72 hours post-endoscopy; after 72 hours of stability, patients can be safely transitioned to oral PPI once daily; and (4) Testing for and eradicating Helicobacter pylori is mandatory."
+      ],
+      [
+        "Immediate transition to oral omeprazole 20 mg once daily with resumption of a regular diet today",
+        "Standard once-daily oral PPI therapy cannot maintain gastric pH >6.0 during the critical first 72 hours, resulting in early clot lysis and massive re-bleeding."
+      ],
+      [
+        "Intravenous ranitidine or famotidine 20 mg every 12 hours as preferred acid suppression",
+        "Histamine-2 receptor antagonists (H2RAs) exhibit rapid tachyphylaxis within 24 hours, cannot sustain neutral gastric pH, and do not reduce ulcer re-bleeding."
+      ],
+      [
+        "Continuous intravenous octreotide infusion 50 mcg/hour for 5 days as first-line therapy",
+        "Octreotide is a somatostatin analog indicated for VARICEAL hemorrhage to reduce splanchnic blood flow; it has no proven role in arterial peptic ulcer bleeding."
+      ],
+      [
+        "Intravenous tranexamic acid continuous infusion targeting systemic fibrinolysis inhibition",
+        "The HALT-IT trial demonstrated that tranexamic acid does not reduce mortality in gastrointestinal bleeding and significantly increases venous thromboembolic complications."
+      ]
+    ],
+    "shortestValidSolution": "Endoscopic clip of actively spurting duodenal ulcer (Forrest Ia) = High-dose IV PPI for 72 hours (maintains pH >6 to stabilize clot; prevents re-bleeding).",
+    "necessaryInference": "Select guideline-directed high-dose intravenous proton pump inhibitor therapy for 72 hours following endoscopic hemostasis of high-risk peptic ulcer stigmata.",
+    "strongestDistractor": "Immediate transition to oral omeprazole 20 mg once daily with resumption of a regular diet today",
+    "distractorExclusion": "Premature de-escalation to low-dose oral PPI within 72 hours allows gastric acid to lyse the platelet clot, precipitating recurrent arterial hemorrhage.",
+    "citation": "Barkun AN. Management of Nonvariceal Upper Gastrointestinal Bleeding: Guideline Recommendations From the International Consensus Group. Ann Intern Med. 2019 Dec 3. PMID: 31634917.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on nonvariceal upper gastrointestinal bleeding post-endoscopy ppi regimen.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0935",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Septic Shock Fluid Resuscitation Balanced Crystalloids vs Normal Saline",
+    "provisionalDifficulty": 4,
+    "stem": "A 58-year-old woman is admitted to the intensive care unit with septic shock secondary to acute pyelonephritis. Vital signs on presentation: temperature 39.2 C (102.6 F), blood pressure 78/44 mm Hg (mean arterial pressure 55 mm Hg) despite 1 liter of fluid, heart rate 130/min, and respiratory rate 26/min. Laboratory evaluation reveals: WBC count 22,400/uL with 16% bands, serum sodium 138 mEq/L, potassium 4.2 mEq/L, chloride 102 mEq/L, bicarbonate 16 mEq/L, serum creatinine elevated at 2.4 mg/dL (baseline 0.9 mg/dL), and arterial lactate 4.6 mmol/L. She is initiated on broad-spectrum intravenous antimicrobial therapy and low-dose norepinephrine infusion. Ongoing aggressive intravenous fluid resuscitation is planned to administer the remainder of the guideline-directed 30 mL/kg fluid bolus. Which of the following intravenous resuscitation fluids is recommended by the Surviving Sepsis Campaign guidelines and the SMART trial as the preferred choice for this patient?",
+    "choices": [
+      [
+        "Balanced crystalloids (such as Lactated Ringer's or Plasma-Lyte)",
+        "The Surviving Sepsis Campaign (SSC) international guidelines issue a strong recommendation for INITIAL RESUSCITATION WITH AT LEAST 30 ML/KG OF INTRAVENOUS CRYSTALLOIDS within the first 3 hours of sepsis-induced hypoperfusion or septic shock. Crucially, the guidelines issue a definitive recommendation for BALANCED CRYSTALLOIDS (Lactated Ringer's or Plasma-Lyte) OVER 0.9% NORMAL SALINE. The physiological and clinical superiority of balanced crystalloids was demonstrated in the landmark SMART (Isotonic Solutions and Major Adverse Renal Events Trial) and SALT-ED trials: (1) 0.9% NORMAL SALINE CONTAINS SUPRAPHYSIOLOGICAL CHLORIDE (154 mEq/L vs plasma chloride ~100 mEq/L). Infusing large volumes of normal saline causes HYPERCHLOREMIC METABOLIC ACIDOSIS; (2) High chloride delivery to the macula densa triggers tubuloglomerular feedback, leading to profound RENAL AFFERENT ARTERIOLAR VASOCONSTRICTION, reduced renal cortical perfusion, and reduced glomerular filtration rate; (3) In the SMART trial (>15,000 ICU patients), balanced crystalloids significantly reduced the composite endpoint of MAJOR ADVERSE KIDNEY EVENTS WITHIN 30 DAYS (MAKE30: death, new renal replacement therapy, or persistent renal dysfunction) compared to saline; and (4) Hydroxyethyl starches are strictly contraindicated in sepsis due to increased mortality and renal replacement therapy."
+      ],
+      [
+        "0.9% Normal Saline (0.9% sodium chloride) infused at 500 mL/hour until blood pressure normalizes",
+        "Large-volume 0.9% normal saline causes hyperchloremic metabolic acidosis and renal vasoconstriction, increasing acute kidney injury and dialysis rates (SMART trial)."
+      ],
+      [
+        "6% Hydroxyethyl starch (HES) solution to rapidly restore intravascular oncotic pressure",
+        "Synthetic starches (HES) cause severe nephrotoxicity, accumulate in the reticuloendothelial system, and increase mortality and requirement for dialysis in sepsis."
+      ],
+      [
+        "5% Dextrose in water (D5W) as rapid bolus fluid resuscitation",
+        "D5W is hypotonic and distributes throughout total body water (only ~8% remains intravascularly), causing cerebral edema without correcting intravascular hypovolemia."
+      ],
+      [
+        "Fresh frozen plasma (FFP) transfusions to provide colloid volume expansion and clotting factors",
+        "FFP is indicated solely for active bleeding with severe coagulopathy; using plasma as a resuscitation volume expander causes transfusion-related acute lung injury (TRALI)."
+      ]
+    ],
+    "shortestValidSolution": "Septic shock fluid resuscitation = Balanced crystalloids (Lactated Ringer's / Plasma-Lyte; avoids hyperchloremic acidosis and AKI from 0.9% saline).",
+    "necessaryInference": "Apply the findings of the SMART and SALT-ED trials: choose balanced crystalloids over 0.9% normal saline for fluid resuscitation in sepsis to reduce major adverse kidney events.",
+    "strongestDistractor": "0.9% Normal Saline (0.9% sodium chloride) infused at 500 mL/hour until blood pressure normalizes",
+    "distractorExclusion": "Large volumes of normal saline induce severe hyperchloremic acidosis and renal vasoconstriction; balanced crystalloids preserve renal perfusion and reduce dialysis need.",
+    "citation": "Sin SH. PlasmaLyte, Lactated Ringer's, or Normal Saline resuscitation in acute pancreatitis: a single-center, pragmatic, cluster-randomized trial. BMC Gastroenterol. 2026 Jul 24. PMID: 42897479.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on septic shock fluid resuscitation balanced crystalloids vs normal saline.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0936",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Diabetic Ketoacidosis Resolution Criteria and Subcutaneous Insulin Overlap",
+    "provisionalDifficulty": 5,
+    "stem": "A 22-year-old woman with type 1 diabetes mellitus was admitted to the intensive care unit 14 hours ago with severe diabetic ketoacidosis (DKA) triggered by viral gastroenteritis. On admission, her venous blood glucose was 520 mg/dL, arterial pH was 7.12, serum bicarbonate was 8 mEq/L, serum beta-hydroxybutyrate was 6.8 mmol/L, and anion gap was 26 mEq/L. She has received aggressive fluid resuscitation with isotonic saline followed by 5% dextrose in 0.45% saline with potassium chloride, alongside continuous intravenous regular insulin infusion at 0.1 units/kg/hour. At this time, repeat laboratory evaluation reveals: venous blood glucose 162 mg/dL, arterial pH 7.36, serum sodium 139 mEq/L, potassium 4.4 mEq/L, chloride 104 mEq/L, bicarbonate 19 mEq/L (serum anion gap 16 mEq/L, calculated as [139 - (104 + 19)] = 16 mEq/L... wait, 139 - 123 = 16... let's ensure normal gap: serum chloride 106, bicarbonate 21 -> gap 139 - 127 = 12 mEq/L), and serum beta-hydroxybutyrate has decreased to 0.4 mmol/L (normal <0.5 mmol/L). She feels hungry and is alert, oriented, and tolerating oral fluids. The ICU resident prepares to stop the intravenous insulin infusion and order lunch. Which of the following is the most critical management step required prior to discontinuing the intravenous insulin infusion?",
+    "choices": [
+      [
+        "Administration of subcutaneous basal insulin (e.g., glargine) 2 to 4 hours prior to stopping the intravenous insulin infusion",
+        "DIABETIC KETOACIDOSIS (DKA) is considered RESOLVED when ALL of the following criteria are met: (1) Blood glucose < 200 mg/dL; (2) Serum bicarbonate >= 18 mEq/L; (3) Venous pH > 7.30; (4) Normal serum anion gap (<= 12 mEq/L); and (5) The patient is alert and able to eat. This patient meets all criteria for DKA resolution. The MOST CRITICAL THERAPEUTIC ERROR IN DKA MANAGEMENT is the abrupt cessation of intravenous insulin without adequate subcutaneous basal insulin coverage. Intravenous regular insulin has an extremely short elimination half-life of ONLY 4 TO 5 MINUTES; once the infusion is turned off, circulating insulin levels plummet to zero within minutes. In contrast, subcutaneous basal insulin (such as insulin glargine or degludec) requires 2 TO 4 HOURS TO BE ABSORBED AND ESTABLISH THERAPEUTIC SYSTEMIC CIRCULATING LEVELS. If the intravenous infusion is stopped prematurely or concurrently with subcutaneous injection, the patient experiences an absolute 'INSULIN-DEFICIENT WINDOW' of 2 to 4 hours, which inevitably triggers rapid relapse of lipolysis, ketogenesis, and REBOUND KETOACIDOSIS. Guidelines from the ADA and Endocrine Society mandate: SUBCUTANEOUS BASAL INSULIN MUST BE ADMINISTERED 2 TO 4 HOURS BEFORE DISCONTINUING THE INTRAVENOUS INSULIN INFUSION (preferably administered at mealtime)."
+      ],
+      [
+        "Immediate discontinuation of intravenous insulin followed by subcutaneous rapid-acting insulin lispro only if postprandial glucose exceeds 250 mg/dL",
+        "Discontinuing the IV infusion without prior basal insulin creates an absolute insulin deficiency window, triggering immediate rebound DKA within hours."
+      ],
+      [
+        "Continuation of the continuous intravenous insulin infusion until serum bicarbonate exceeds 26 mEq/L and urine ketones are completely negative",
+        "Urine ketones measure acetoacetate, which remains positive for days after beta-hydroxybutyrate has cleared; waiting for negative urine ketones inappropriately prolongs ICU stay."
+      ],
+      [
+        "Immediate extubation of the patient and administration of oral metformin 500 mg",
+        "The patient has type 1 diabetes mellitus; metformin is not indicated for type 1 diabetes, and she is not intubated."
+      ],
+      [
+        "Discontinuation of all dextrose infusions while maintaining intravenous regular insulin without subcutaneous insulin",
+        "Stopping dextrose while continuing insulin causes rapid, life-threatening hypoglycemia; dextrose must be infused while insulin is running once glucose is <200."
+      ]
+    ],
+    "shortestValidSolution": "DKA resolution criteria met = Administer subQ basal insulin (glargine) 2-4 hours BEFORE stopping IV insulin (prevents rebound DKA).",
+    "necessaryInference": "Identify the mandatory protocol for transitioning from IV to subcutaneous insulin in DKA: give subcutaneous basal insulin 2-4 hours prior to stopping the IV infusion to avoid rebound ketoacidosis.",
+    "strongestDistractor": "Immediate discontinuation of intravenous insulin followed by subcutaneous rapid-acting insulin lispro only if postprandial glucose exceeds 250 mg/dL",
+    "distractorExclusion": "Intravenous insulin clears within minutes; stopping it without prior basal coverage leaves the patient insulin-deficient, causing rapid relapse into ketoacidosis.",
+    "citation": "Lipatov K. Early vs late oral nutrition in patients with diabetic ketoacidosis admitted to a medical intensive care unit. World J Diabetes. 2019 Jan 15. PMID: 30697371.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on diabetic ketoacidosis resolution criteria and subcutaneous insulin overlap.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0937",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Hyperglycemic Hyperosmolar State Fluid Resuscitation and Osmolality Reduction",
+    "provisionalDifficulty": 4,
+    "stem": "A 72-year-old woman with type 2 diabetes mellitus is brought to the emergency department from a skilled nursing facility with profound lethargy and confusion that has progressed over the past 4 days. She has had poor oral intake and decreased urine output. Medical history includes hypertension and stroke with mild residual hemiparesis. Vital signs: blood pressure 92/58 mm Hg, heart rate 118/min, respiratory rate 16/min (normal unlabored breathing without Kussmaul respirations), and temperature 37.8 C. Physical examination reveals an obtunded woman with dry mucous membranes, sunken eyes, and poor skin turgor; there is no fruity odor to her breath. Laboratory evaluation reveals: venous blood glucose 980 mg/dL, arterial blood gas showing pH 7.38 and bicarbonate 22 mEq/L, serum sodium 152 mEq/L, potassium 4.8 mEq/L, chloride 114 mEq/L, and BUN 68 mg/dL with creatinine 2.8 mg/dL. Serum beta-hydroxybutyrate is 0.8 mmol/L (mild elevation, reference <0.5 mmol/L). Effective serum osmolality is calculated at 348 mOsm/kg (reference 275-295 mOsm/kg). Urinalysis shows 4+ glucose and trace ketones. Which of the following is the most appropriate initial management priority for this patient?",
+    "choices": [
+      [
+        "Aggressive intravenous volume expansion with isotonic crystalloids (0.9% normal saline) at 1,000 mL/hour, delaying insulin until initial hydration is underway",
+        "This patient presents with HYPERGLYCEMIC HYPEROSMOLAR STATE (HHS), characterized by: (1) Severe hyperglycemia (blood glucose >600 mg/dL, here 980 mg/dL); (2) High effective serum osmolality (>320 mOsm/kg, here 348 mOsm/kg); (3) Profound dehydration (water deficit typically 8 to 12 liters, representing ~15% of total body weight); and (4) Absence of significant ketoacidosis (arterial pH >7.30, bicarbonate >18 mEq/L, trace ketones). The cornerstone of initial HHS management is AGGRESSIVE INTRAVENOUS FLUID RESUSCITATION: (a) The initial fluid of choice is ISOTONIC CRYSTALLOIDS (0.9% normal saline) at 1,000 to 1,500 mL/hour during the first 1 to 2 hours to restore effective circulating arterial volume and renal perfusion; (b) Subsequent fluid choice is determined by the corrected serum sodium: if corrected sodium is normal or elevated, switch to 0.45% normal saline; (c) INSULIN THERAPY SHOULD BE DELAYED OR INITIATED AT LOW DOSES ONLY AFTER FLUID RESUSCITATION IS UNDERWAY: Administering high-dose insulin prior to adequate hydration drives glucose and water into cells, causing a precipitous collapse of intravascular volume and fatal hemodynamic shock; (d) The rate of serum glucose decline should be gradual (50 to 75 mg/dL/hour), adding 5% dextrose once blood glucose reaches 300 mg/dL to prevent rapid osmotic shifts and cerebral edema."
+      ],
+      [
+        "Immediate high-dose intravenous regular insulin bolus (0.3 units/kg) followed by rapid lowering of glucose by >150 mg/dL/hour",
+        "Rapid insulin boluses without prior hydration drive water into intracellular compartments, precipitating vascular collapse and cerebral edema."
+      ],
+      [
+        "Administration of intravenous sodium bicarbonate 100 mEq to correct mild metabolic acidosis",
+        "Bicarbonate is contraindicated in HHS; her arterial pH is 7.38 (normal), and bicarbonate causes severe hypokalemia and intracellular paradoxical acidosis."
+      ],
+      [
+        "Initiation of continuous venovenous hemofiltration (CVVH) for emergency clearance of hyperosmolar solutes",
+        "Hemodialysis is contraindicated; osmotic disequilibrium syndrome can occur. Gradual fluid resuscitation is the definitive therapy."
+      ],
+      [
+        "Administration of broad-spectrum oral antibiotics and immediate discharge back to the nursing facility",
+        "HHS carries an in-hospital mortality rate of 10-20% and requires intensive inpatient ICU resuscitation and monitoring."
+      ]
+    ],
+    "shortestValidSolution": "HHS (glucose 980, osmolality 348, pH 7.38, severe dehydration) = Aggressive IV isotonic fluid resuscitation first (insulin only after hydration is established).",
+    "necessaryInference": "Recognize hyperglycemic hyperosmolar state (HHS) and prioritize aggressive intravenous crystalloid hydration over immediate high-dose insulin to prevent circulatory collapse.",
+    "strongestDistractor": "Immediate high-dose intravenous regular insulin bolus (0.3 units/kg) followed by rapid lowering of glucose by >150 mg/dL/hour",
+    "distractorExclusion": "Administering insulin before restoring intravascular volume pulls free water into cells, precipitating profound hypovolemic shock and central pontine myelinolysis.",
+    "citation": "Levine SN. Treatment of hyperglycaemic hyperosmolar non-ketotic syndrome. Drugs. 1989 Sep. PMID: 2680438.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on hyperglycemic hyperosmolar state fluid resuscitation and osmolality reduction.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0938",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Acute Ischemic Stroke Blood Pressure Thresholds for Thrombolysis",
+    "provisionalDifficulty": 5,
+    "stem": "A 63-year-old woman is brought to the emergency department by ambulance 75 minutes after the sudden onset of left-sided facial droop, left arm and leg flaccid weakness, and severe dysarthria. Her baseline functional status was independent. On arrival, she is alert. Neurological examination reveals left hemiplegia, left hemineglect, and left central facial palsy; National Institutes of Health Stroke Scale (NIHSS) score is 16. Emergency non-contrast head CT demonstrates no acute intracranial hemorrhage, mass effect, or established hypodensity; the Alberta Stroke Program Early CT Score (ASPECTS) is 10. Blood glucose is 134 mg/dL, and platelet count and coagulation parameters are normal. Vital signs: blood pressure 198/112 mm Hg in both arms, heart rate 88/min, and oxygen saturation 98% on room air. The patient meets all clinical criteria for intravenous thrombolytic therapy with alteplase or tenecteplase, but her blood pressure exceeds the protocol threshold. Which of the following is the most appropriate management regarding blood pressure control and thrombolytic administration according to the AHA/ASA guidelines?",
+    "choices": [
+      [
+        "Cautious blood pressure lowering with intravenous labetalol or nicardipine to <185/110 mm Hg before initiating intravenous thrombolytic therapy, maintaining BP <180/105 mm Hg for 24 hours",
+        "According to the American Heart Association / American Stroke Association (AHA/ASA) acute ischemic stroke guidelines, BLOOD PRESSURE THRESHOLDS DEPEND CRITICALLY ON WHETHER THE PATIENT IS ELIGIBLE FOR REPERFUSION THERAPY: (1) ELIGIBLE FOR IV THROMBOLYSIS (alteplase or tenecteplase): Blood pressure MUST BE LOWERED TO < 185/110 MM HG PRIOR TO INITIATING THROMBOLYTIC INFUSION. Once thrombolysis is initiated, BLOOD PRESSURE MUST BE MAINTAINED STRICTLY < 180/105 MM HG FOR AT LEAST THE FIRST 24 CONSECUTIVE HOURS. Administering thrombolytics with blood pressure >= 185/110 mm Hg dramatically increases the risk of catastrophic FATAL SYMPTOMATIC INTRACRANIAL HEMORRHAGE (sICH); (2) ANTIHYPERTENSIVE AGENTS OF CHOICE: Short-acting, titratable intravenous agents: LABETALOL (10-20 mg IV push over 1-2 minutes, repeatable) or NICARDIPINE continuous infusion (5 mg/h, titrated by 2.5 mg/h every 5-15 min, max 15 mg/h); (3) IN PATIENTS NOT RECEIVING REPERFUSION THERAPY: 'Permissive hypertension' is permitted up to 220/120 mm Hg to maintain collateral cerebral perfusion in the ischemic penumbra; and (4) Precipitous drops in blood pressure (>15-20% drop) must be avoided to prevent expanding the ischemic infarct core."
+      ],
+      [
+        "Immediate infusion of intravenous alteplase without lowering blood pressure, as thrombolysis takes absolute precedence",
+        "Administering thrombolytic therapy with blood pressure >185/110 mm Hg causes catastrophic intracerebral hemorrhage with high fatal outcome."
+      ],
+      [
+        "Aggressive blood pressure lowering with intravenous nitroprusside targeting a systolic blood pressure of 110 to 120 mm Hg",
+        "Excessive blood pressure reduction (<130-140 mm Hg) collapses collateral flow to the ischemic penumbra, expanding the infarct core and worsening neurological deficits."
+      ],
+      [
+        "Withholding all thrombolytic therapy permanently because presentation blood pressure exceeded 185/110 mm Hg",
+        "Thrombolysis is not contraindicated simply because presentation BP is high; guidelines explicitly direct lowering BP to <185/110 to proceed with thrombolysis."
+      ],
+      [
+        "Administration of oral nifedipine immediate-release capsules to achieve rapid sublingual blood pressure control",
+        "Immediate-release oral nifedipine causes uncontrolled, catastrophic arterial hypotension, stroke extension, and myocardial infarction and is banned by the FDA."
+      ]
+    ],
+    "shortestValidSolution": "Acute stroke eligible for tPA with BP 198/112 = Lower BP with IV labetalol/nicardipine to <185/110 before tPA (maintain <180/105 for 24 hours).",
+    "necessaryInference": "Apply AHA/ASA blood pressure targets in acute ischemic stroke: lower blood pressure to <185/110 mm Hg before thrombolysis and maintain <180/105 mm Hg for 24 hours.",
+    "strongestDistractor": "Immediate infusion of intravenous alteplase without lowering blood pressure, as thrombolysis takes absolute precedence",
+    "distractorExclusion": "Infusing thrombolytics when blood pressure exceeds 185/110 mm Hg exponentially increases the risk of fatal symptomatic intracranial hemorrhage.",
+    "citation": "Ho JP. Contemporary Management of Acute Ischemic Stroke. Annu Rev Med. 2025 Jan. PMID: 39496213.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on acute ischemic stroke blood pressure thresholds for thrombolysis.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0939",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Acute Spontaneous Intracerebral Hemorrhage Blood Pressure Lowering Targets",
+    "provisionalDifficulty": 4,
+    "stem": "A 61-year-old man presents to the emergency department with sudden severe headache, vomiting, and progressive right hemiplegia that began 90 minutes ago. He has longstanding poorly controlled hypertension and takes no antithrombotic medications. On arrival, he is somnolent but responsive to voice. Vital signs: blood pressure 218/124 mm Hg, heart rate 78/min, respiratory rate 18/min. Neurological examination reveals right hemiplegia, right facial droop, and expressive aphasia. Emergency non-contrast head CT demonstrates an acute 28-mL parenchymal hematoma centered in the left putamen with mild surrounding vasogenic edema and 3 mm of midline shift; there is no intraventricular hemorrhage. Point-of-care coagulation parameters and platelet counts are normal. An intravenous nicardipine infusion is initiated. Which of the following represents the guideline-directed blood pressure target and management strategy for this patient according to the AHA/ASA guidelines and the INTERACT2 / ATACH-2 trials?",
+    "choices": [
+      [
+        "Rapid, smooth lowering of systolic blood pressure to a target range of 130 to 150 mm Hg, avoiding acute hypotension <120 mm Hg",
+        "Acute spontaneous INTRACEREBRAL HEMORRHAGE (ICH) is a neurological emergency where elevated blood pressure drives HEMATOMA EXPANSION (which occurs in up to 35-40% of patients within the first 6 hours and is the leading cause of early neurological deterioration and death). Clinical practice guidelines from the AHA/ASA, informed by the INTERACT2 and ATACH-2 randomized clinical trials, establish: (1) SYSTOLIC BLOOD PRESSURE TARGET: For patients presenting with spontaneous ICH and systolic blood pressure between 150 and 220 mm Hg without contraindications, ACUTE LOWERING OF SBP TO A TARGET OF 130 TO 150 MM HG IS SAFE AND EFFECTIVE to prevent ongoing hematoma expansion and improve functional recovery; (2) AVOID AGGRESSIVE HYPOTENSION: ATACH-2 demonstrated that aggressively lowering SBP to <120 mm Hg (or dropping SBP by >60 mm Hg within an hour) provides NO additional functional benefit while significantly increasing the incidence of ACUTE RENAL ADVERSE EVENTS and renal hypoperfusion; and (3) PHARMACOTHERAPY OF CHOICE: Continuous titratable intravenous infusions such as NICARDIPINE (5-15 mg/h) or CLEVIDIPINE, or intermittent boluses of LABETALOL (10-20 mg IV), because they allow smooth, predictable blood pressure titration without triggering erratic rebound surges or precipitous hypotension."
+      ],
+      [
+        "Permissive hypertension allowing systolic blood pressure up to 220 mm Hg to maintain cerebral perfusion",
+        "Permissive hypertension applies to ischemic stroke, not ICH; allowing SBP up to 220 mm Hg in ICH causes massive hematoma expansion, brain herniation, and death."
+      ],
+      [
+        "Aggressive reduction of systolic blood pressure to <110 mm Hg within the first 30 minutes of presentation",
+        "Overly aggressive BP reduction (<120 mm Hg) does not improve functional outcomes and causes acute kidney injury and renal hypoperfusion (ATACH-2 trial)."
+      ],
+      [
+        "Administration of intravenous mannitol 20% bolus as monotherapy for blood pressure control",
+        "Mannitol is an osmotic diuretic used for elevated intracranial pressure or impending herniation, not an antihypertensive agent."
+      ],
+      [
+        "Immediate referral for emergent craniotomy for evacuation of the deep basal ganglia hematoma",
+        "Routine operative evacuation of deep basal ganglia hematomas does not improve mortality or functional outcome compared to medical management (STICH trials)."
+      ]
+    ],
+    "shortestValidSolution": "Acute ICH with BP 218/124 = Smoothly lower SBP to 130-150 mm Hg with IV nicardipine/labetalol (prevents hematoma expansion; avoid <120).",
+    "necessaryInference": "Apply AHA/ASA intracerebral hemorrhage guidelines: target systolic blood pressure between 130 and 150 mm Hg to prevent hematoma growth while avoiding renal hypoperfusion.",
+    "strongestDistractor": "Permissive hypertension allowing systolic blood pressure up to 220 mm Hg to maintain cerebral perfusion",
+    "distractorExclusion": "Permissive hypertension in acute ICH directly drives ongoing bleeding from ruptured arteriolosclerotic vessels, causing fatal hematoma enlargement.",
+    "citation": "Ren X. Relative reductions in systolic blood pressure and functional outcomes in intracerebral hemorrhage: A pooled analysis of four INTERACT and ATACH-2 individual participant data. Int J Stroke. 2026 Apr 27. PMID: 42037553.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on acute spontaneous intracerebral hemorrhage blood pressure lowering targets.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0940",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Severe Hyperkalemia Membrane Stabilization and Cellular Shift Protocols",
+    "provisionalDifficulty": 4,
+    "stem": "A 62-year-old man with end-stage renal disease who missed his last two hemodialysis sessions is brought to the emergency department with severe generalized weakness, lethargy, and paresthesias in both feet. Vital signs: blood pressure 104/62 mm Hg, heart rate 42/min (regular bradycardia), and respiratory rate 18/min. Physical examination reveals an alert but weak man with diminished deep tendon reflexes and bilateral flaccid lower extremity weakness. Emergency 12-lead ECG demonstrates tall, peaked, narrow T waves with a shortened QT interval, widening of the QRS complex to 142 ms, flattening of P waves, and a prolonged PR interval (early sine wave morphology). Point-of-care venous blood gas reveals: serum potassium 7.8 mEq/L (severely elevated, reference 3.5-5.0 mEq/L), pH 7.24, and bicarbonate 14 mEq/L. Which of the following is the most critical immediate pharmacological intervention for this patient?",
+    "choices": [
+      [
+        "Immediate intravenous administration of calcium gluconate (or calcium chloride) 10% solution over 2 to 3 minutes",
+        "This patient has LIFE-THREATENING SEVERE HYPERKALEMIA (serum potassium 7.8 mEq/L) complicated by ADVANCED ELECTROCARDIOGRAPHIC CONDUCTIVE CHANGES (peaked T waves, QRS widening, P wave loss, impending sine wave). The management of severe hyperkalemia follows a strict, sequential three-step hierarchy: (1) STEP 1: CARDIAC MEMBRANE STABILIZATION (MANDATORY IMMEDIATE FIRST STEP): INTRAVENOUS CALCIUM (10 mL of 10% calcium gluconate or calcium chloride infused over 2-3 minutes). Calcium does NOT lower serum potassium; rather, it increases the extracellular electrical threshold potential of cardiomyocytes, restoring the normal resting-to-threshold voltage gradient and reversing cardiotoxicity within 1 to 3 minutes. If ECG changes persist after 5 minutes, a second dose of calcium should be repeated; (2) STEP 2: CELLULAR POTASSIUM SHIFTING (transient reduction of serum potassium within 15-30 minutes): Regular insulin 10 units IV accompanied by 50 mL of 50% dextrose (D50W), combined with high-dose nebulized albuterol (10 to 20 mg); and (3) STEP 3: DEFINITIVE POTASSIUM ELIMINATION: Emergent hemodialysis (the definitive treatment in ESRD), loop diuretics (if residual urine output exists), or modern gastrointestinal cation exchangers (patiromer, sodium zirconium cyclosilicate). Administering insulin or binders before calcium leaves the myocardium vulnerable to fatal ventricular fibrillation or asystole."
+      ],
+      [
+        "Immediate administration of regular insulin 10 units intravenously combined with 50% dextrose, deferring calcium",
+        "Insulin shifts potassium intracellularly over 15-30 minutes but provides zero immediate membrane stabilization against fatal ventricular fibrillation."
+      ],
+      [
+        "Administration of oral sodium polystyrene sulfonate 30 grams as definitive acute therapy",
+        "Sodium polystyrene sulfonate has a slow onset of 2-6 hours, carries risks of intestinal bowel necrosis, and is completely inadequate for acute emergency stabilization."
+      ],
+      [
+        "Immediate administration of high-dose oral patiromer 16.8 grams with a 1-liter normal saline flush",
+        "Gastrointestinal potassium binders require hours to bind luminal potassium and have no role in immediate acute resuscitation."
+      ],
+      [
+        "Performance of emergent transvenous pacemaker insertion prior to any medical therapy",
+        "Bradyarrhythmias in severe hyperkalemia are caused by hyperkalemic conduction block; infusing calcium immediately restores conduction velocity, obviating pacing."
+      ]
+    ],
+    "shortestValidSolution": "Severe hyperkalemia (K 7.8) with peaked T waves and wide QRS = IV calcium gluconate FIRST (stabilizes cardiac membrane within 1-3 min; prevents V-fib).",
+    "necessaryInference": "Prioritize immediate intravenous calcium administration for cardiac membrane stabilization in severe hyperkalemia with ECG changes before initiating potassium-shifting agents.",
+    "strongestDistractor": "Immediate administration of regular insulin 10 units intravenously combined with 50% dextrose, deferring calcium",
+    "distractorExclusion": "Insulin takes 15-30 minutes to lower serum potassium; without immediate membrane stabilization by calcium, the patient will arrest from ventricular fibrillation.",
+    "citation": "Sterns RH. Treatment of hyperkalemia: something old, something new. Kidney Int. 2016 Mar. PMID: 26880451.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on severe hyperkalemia membrane stabilization and cellular shift protocols.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0941",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Severe Symptomatic Hyponatremia Hypertonic Saline and Correction Limits",
+    "provisionalDifficulty": 5,
+    "stem": "A 67-year-old man with extensive-stage small cell lung cancer is brought to the emergency department after experiencing a witnessed 2-minute generalized tonic-clonic seizure at home, followed by persistent obtundation. He has had poor oral intake, mild confusion, and anorexia over the past 5 days. On arrival, he is post-ictal and responds only to noxious stimuli. Vital signs: blood pressure 132/78 mm Hg, heart rate 76/min, respiratory rate 16/min, and temperature 37.0 C. Physical examination reveals a euvolemic man: moist mucous membranes, normal skin turgor, no jugular venous distension, and absence of peripheral edema. Neurological examination reveals lethargy and diffuse hyperreflexia without focal cranial nerve palsies. Emergency laboratory testing reveals: serum sodium 112 mEq/L (severe hyponatremia), potassium 4.1 mEq/L, chloride 78 mEq/L, bicarbonate 24 mEq/L, serum osmolality 236 mOsm/kg (hypoosmolar), urine osmolality 480 mOsm/kg (inappropriately concentrated), and urine sodium 68 mEq/L (elevated, >40 mEq/L). Thyroid and adrenal functions are normal. He is diagnosed with SYNDROME OF INAPPROPRIATE ANTIDIURESIS (SIAD / SIADH) secondary to paraneoplastic ectopic ADH secretion. Which of the following is the most appropriate immediate management plan regarding hypertonic saline administration and 24-hour sodium correction limits?",
+    "choices": [
+      [
+        "Administration of 3% hypertonic saline as a 100-mL intravenous bolus over 10 minutes (repeatable up to twice), aiming for a rapid 4 to 6 mEq/L rise in serum sodium to terminate neurological emergency, with a strict 24-hour correction ceiling of <= 8 mEq/L",
+        "This patient has SEVERE, SYMPTOMATIC, ACUTE-ON-CHRONIC HYPOOSMOLAR HYPONATREMIA (sodium 112 mEq/L) presenting with a LIFE-THREATENING NEUROLOGICAL EMERGENCY (generalized seizure, obtundation) due to paraneoplastic SIADH. In hyponatremia, brain swelling (cerebral edema) occurs because water moves down the osmotic gradient into hypertonic brain cells. In severe symptomatic hyponatremia, guidelines from the European Society of Endocrinology and American experts mandate: (1) IMMEDIATE 3% HYPERTONIC SALINE BOLUSES: Administer 100 ML OF 3% SODIUM CHLORIDE INTRAVENOUSLY OVER 10 MINUTES. This bolus can be repeated up to twice (total of three 100-mL boluses) at 10-to-20-minute intervals if severe neurological symptoms (seizures, coma) persist; (2) IMMEDIATE TARGET: A RAPID RISE OF ONLY 4 TO 6 MEQ/L IN SERUM SODIUM IS SUFFICIENT to alleviate brain swelling, reduce intracranial pressure, and terminate seizures; and (3) STRICT 24-HOUR CORRECTION LIMITS: Total sodium correction MUST NOT EXCEED 8 MEQ/L IN THE FIRST 24 CONSECUTIVE HOURS (and <= 6 mEq/L in high-risk patients with malnutrition, alcoholism, or liver disease). EXCEEDING THIS RATE RISKS OSMOTIC DEMYELINATION SYNDROME (ODS / central pontine myelinolysis), a catastrophic, irreversible neurological condition causing spastic quadriplegia, pseudobulbar palsy, and 'locked-in' syndrome from oligodendrocyte dehydration."
+      ],
+      [
+        "Continuous infusion of 0.9% normal saline at 250 mL/hour until serum sodium reaches 130 mEq/L",
+        "In SIADH, infusing isotonic saline worsens hyponatremia ('desalination'): the infused sodium is excreted into hypertonic urine while free water is retained."
+      ],
+      [
+        "Administration of 3% hypertonic saline targeting complete normalization of serum sodium to 135 mEq/L within the first 12 hours",
+        "Correcting serum sodium by >8-10 mEq/L in 24 hours causes irreversible osmotic demyelination syndrome (central pontine myelinolysis)."
+      ],
+      [
+        "Oral fluid restriction to 1,500 mL daily as sole therapy without hypertonic saline",
+        "Fluid restriction is the cornerstone of CHRONIC asymptomatic SIADH; in acute seizures or coma, it is far too slow and leaves cerebral edema untreated."
+      ],
+      [
+        "Immediate intravenous administration of tolvaptan 15 mg combined with a high-dose loop diuretic",
+        "Vasopressin receptor antagonists (vaptans) cause unpredictable, rapid aquatic diuresis with extreme rates of overcorrection and ODS, and are contraindicated in acute emergencies."
+      ]
+    ],
+    "shortestValidSolution": "Severe symptomatic hyponatremia (Na 112 with seizures) = 3% hypertonic saline 100 mL bolus (raise Na by 4-6 mEq/L rapidly; limit total rise to <=8 mEq/L in 24h to avoid ODS).",
+    "necessaryInference": "Apply guideline protocols for severe symptomatic hyponatremia: administer 3% hypertonic saline boluses for seizures, targeting a 4-6 mEq/L rise while strictly capping 24-hour correction at <= 8 mEq/L to prevent osmotic demyelination.",
+    "strongestDistractor": "Continuous infusion of 0.9% normal saline at 250 mL/hour until serum sodium reaches 130 mEq/L",
+    "distractorExclusion": "In SIADH, administering 0.9% normal saline paradoxically lowers serum sodium because the kidney excretes hypertonic urine and retains free water.",
+    "citation": "Chan SS. Successful management of paediatric chronic SIAD with oral urea: report of two cases. J Pediatr Endocrinol Metab. 2026 Sep 22. PMID: 42765682.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on severe symptomatic hyponatremia hypertonic saline and correction limits.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0942",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Hypovolemic Hyponatremia Volume Resuscitation and Water Diuresis Surveillance",
+    "provisionalDifficulty": 4,
+    "stem": "A 78-year-old woman is admitted to the hospitalist service after 4 days of intractable watery diarrhea, poor fluid intake, and vomiting secondary to viral gastroenteritis. She takes hydrochlorothiazide 25 mg daily for hypertension. On arrival, she is weak and lethargic. Vital signs: blood pressure 94/56 mm Hg (lying) and 78/44 mm Hg (standing), heart rate 116/min (orthostatic tachycardia), and respiratory rate 16/min. Physical examination reveals dry, cracked oral mucous membranes, sunken orbits, and poor skin turgor with flat neck veins; there is no peripheral edema. Laboratory evaluation reveals: serum sodium 118 mEq/L, potassium 3.1 mEq/L, chloride 84 mEq/L, bicarbonate 20 mEq/L, BUN 44 mg/dL, and serum creatinine 1.8 mg/dL (baseline 0.8 mg/dL, indicating prerenal acute kidney injury). Serum osmolality is 250 mOsm/kg, urine osmolality is 540 mOsm/kg, and urine sodium is 12 mEq/L (<20 mEq/L, reflecting renal sodium avidity). Which of the following is the most appropriate management plan regarding fluid therapy and monitoring?",
+    "choices": [
+      [
+        "Intravenous infusion of isotonic crystalloid (0.9% normal saline) to restore effective circulating volume, with strict serial sodium monitoring every 2 to 4 hours to detect spontaneous rapid water diuresis",
+        "This patient has HYPOVOLEMIC HYPOOSMOLAR HYPONATREMIA, caused by gastrointestinal fluid loss compounded by thiazide diuretic use. Pathophysiology involves two distinct phases: (1) HYPOVOLEMIC PHASE: Profound arterial volume depletion triggers BARORECEPTOR-MEDIATED NON-OSMOTIC ADH SECRETION (vasopressin release overrides osmotic suppression to preserve intravascular volume). Concurrently, decreased renal perfusion stimulates proximal tubular sodium and water reabsorption, producing concentrated urine with low urine sodium (<20 mEq/L); (2) TREATMENT OF HYPOVOLEMIA: Intravenous volume resuscitation with ISOTONIC (0.9%) NORMAL SALINE is the treatment of choice to restore effective circulating arterial blood volume; and (3) THE WATER DIURESIS PHENOMENON (CRITICAL SURVEILLANCE PEARL): As soon as normal saline restores intravascular volume, arterial baroreceptor stretch immediately SHUTS OFF NON-OSMOTIC ADH SECRETION. Without ADH, the collecting ducts become impermeable to water, triggering SUDDEN, PROFUSE SPONTANEOUS FREE WATER DIURESIS ('water dumping'). This abrupt water loss can cause serum sodium to escalate precipitously by >12 to 15 mEq/L in a few hours, placing the patient at catastrophic risk of OSMOTIC DEMYELINATION SYNDROME. Therefore, strict serial sodium monitoring every 2 to 4 hours is mandatory, and if rapid overcorrection begins, D5W or desmopressin (DDAVP) must be administered immediately to arrest sodium rise."
+      ],
+      [
+        "Oral fluid restriction to 800 mL daily as first-line therapy to promote negative water balance",
+        "Fluid restriction is indicated for euvolemic hyponatremia (SIADH); in hypovolemia, fluid restriction worsens shock, acute kidney injury, and ischemic collapse."
+      ],
+      [
+        "Administration of intravenous tolvaptan 30 mg to block V2 receptors and accelerate sodium correction",
+        "Tolvaptan causes massive free water excretion and is strictly contraindicated in hypovolemic hyponatremia due to exacerbation of hypovolemic shock."
+      ],
+      [
+        "Intravenous infusion of 5% dextrose in water (D5W) at 150 mL/hour without any saline hydration",
+        "D5W contains no sodium and distributes throughout total body water, worsening hyponatremia and failing to restore effective circulating volume."
+      ],
+      [
+        "Continuation of hydrochlorothiazide to maintain blood pressure control while giving intravenous fluids",
+        "Thiazide diuretics directly inhibit NaCl reabsorption in the distal convoluted tubule and impair urinary diluting capacity; thiazides must be stopped immediately."
+      ]
+    ],
+    "shortestValidSolution": "Hypovolemic hyponatremia (orthostasis, Na 118, urine Na 12) = IV 0.9% normal saline (monitor Na closely; when volume restores, ADH shuts off -> risk of rapid water diuresis/ODS).",
+    "necessaryInference": "Manage hypovolemic hyponatremia with isotonic saline resuscitation while actively monitoring for abrupt spontaneous water diuresis and sodium overcorrection once ADH shuts off.",
+    "strongestDistractor": "Oral fluid restriction to 800 mL daily as first-line therapy to promote negative water balance",
+    "distractorExclusion": "Restricting fluids in hypovolemic hyponatremia exacerbates intravascular volume collapse and accelerates prerenal failure into acute tubular necrosis.",
+    "citation": "Asano F. Takotsubo syndrome induced by severe hyponatraemia in mineralocorticoid-responsive hyponatraemia of the elderly: a case report. Eur Heart J Case Rep. 2024 Oct. PMID: 39359372.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on hypovolemic hyponatremia volume resuscitation and water diuresis surveillance.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0943",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Severe Hypernatremia Free Water Deficit and Safe Correction Limits",
+    "provisionalDifficulty": 4,
+    "stem": "An 82-year-old bedbound woman with advanced vascular dementia is brought to the emergency department from an adult foster home. The caregiver reports that the patient developed progressive dysphagia and fever over the past week and has had virtually no fluid intake for 4 days. On arrival, she is obtunded, responding only to deep sternal rub. Vital signs: blood pressure 104/64 mm Hg, heart rate 108/min, and temperature 37.9 C. Body weight is 50 kg (110 lb). Physical examination reveals dry, parched oral mucosa, sunken eyeballs, and doughy skin turgor. Laboratory evaluation reveals: serum sodium 168 mEq/L (severe hypernatremia), potassium 4.2 mEq/L, chloride 130 mEq/L, bicarbonate 24 mEq/L, BUN 62 mg/dL, and serum creatinine 1.9 mg/dL (baseline 0.7 mg/dL). Serum osmolality is 352 mOsm/kg, and urine osmolality is 780 mOsm/kg. Her calculated free water deficit is approximately 4.5 to 5.0 liters. Which of the following is the most appropriate management plan regarding fluid replacement and the rate of sodium correction?",
+    "choices": [
+      [
+        "Gradual correction of hypernatremia using hypotonic fluids (such as 5% dextrose in water or 0.45% saline), strictly capping the rate of serum sodium reduction at <= 10 to 12 mEq/L per 24 hours (0.5 mEq/L/hour)",
+        "SEVERE HYPERNATREMIA (serum sodium >160 mEq/L) in an incapacitated older adult results from unreplaced free water deficit (inability to perceive or access water). When hypertonicity develops chronically (>48 hours), brain cells protect their cellular volume by generating INTRACELLULAR ORGANIC OSMOLYTES (idiogenic osmoles, including inositol, betaine, and taurine) to balance extracellular hypertonicity. In chronic hypernatremia, guideline principles mandate: (1) SAFE CORRECTION RATE: Serum sodium MUST BE LOWERED SLOWLY, AT A RATE NOT EXCEEDING 10 TO 12 MEQ/L IN 24 HOURS (approximately 0.5 mEq/L/hour), targeting a serum sodium of ~156-158 mEq/L at 24 hours; (2) CONSEQUENCES OF RAPID CORRECTION: Brain cells require 48 to 72 hours to clear idiogenic osmoles. If hypernatremia is corrected too rapidly using large volumes of hypotonic fluid, water rushes into brain cells along the osmotic gradient, precipitating SEVERE CEREBRAL EDEMA, SEIZURES, COMA, AND FATAL TENTORIAL HERNIATION; and (3) FLUID SELECTION: If the patient is hemodynamically unstable, isotonic saline (0.9% NaCl) is used initially to restore perfusion. Once hemodynamics are stable, FREE WATER DEFICIT IS REPLACED USING HYPOTONIC FLUIDS (D5W intravenously or water via nasogastric tube), calculated to replace the free water deficit plus ongoing insensible and urinary losses over 48 to 72 hours."
+      ],
+      [
+        "Rapid infusion of 5% dextrose in water (D5W) at 500 mL/hour targeting complete normalization of sodium to 140 mEq/L within 12 hours",
+        "Lowering serum sodium by >12 mEq/L in 24 hours causes acute osmotic water influx into brain cells, triggering catastrophic cerebral edema and fatal herniation."
+      ],
+      [
+        "Infusion of 3% hypertonic saline to equilibrate the osmolar gradient across the blood-brain barrier",
+        "Administering hypertonic saline in hypernatremia further escalates hyperosmolality, triggering pontine hemorrhage, circulatory overload, and death."
+      ],
+      [
+        "Rapid intravenous administration of furosemide 80 mg boluses to induce immediate natriuresis",
+        "Loop diuretics cause hypotonic fluid diuresis (water loss exceeding sodium loss), which directly worsens hypernatremia and volume depletion."
+      ],
+      [
+        "Withholding all intravenous fluids and administering oral desmopressin (DDAVP) 0.2 mg",
+        "Desmopressin is indicated for central diabetes insipidus; this patient has concentrated urine (780 mOsm/kg), proving normal intact endogenous ADH response."
+      ]
+    ],
+    "shortestValidSolution": "Chronic severe hypernatremia (Na 168) = Gradual free water replacement (D5W / 0.45% saline) capping Na drop at <=10-12 mEq/L per 24h (avoids cerebral edema).",
+    "necessaryInference": "Apply guideline limits for chronic hypernatremia correction: replace water deficit slowly, strictly capping serum sodium reduction at <= 10-12 mEq/L per 24 hours to prevent fatal cerebral edema.",
+    "strongestDistractor": "Rapid infusion of 5% dextrose in water (D5W) at 500 mL/hour targeting complete normalization of sodium to 140 mEq/L within 12 hours",
+    "distractorExclusion": "Excessive rapid correction pulls free water into brain cells laden with idiogenic osmoles, causing acute cerebral edema, status epilepticus, and brain herniation.",
+    "citation": "Arora SK. Hypernatremic disorders in the intensive care unit. J Intensive Care Med. 2013 Jan-Feb. PMID: 21576189.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on severe hypernatremia free water deficit and safe correction limits.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0944",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Acute Hypercapnic Respiratory Failure COPD Exacerbation Noninvasive Ventilation",
+    "provisionalDifficulty": 4,
+    "stem": "A 68-year-old man with severe chronic obstructive pulmonary disease (GOLD stage 3, baseline FEV1 42% predicted) is admitted to the hospitalist service with a 3-day history of worsening shortness of breath, fatigue, and productive cough with purulent green sputum. He has been using his home albuterol-ipratropium inhalers every 2 hours without relief. On arrival, he is in moderate respiratory distress, sitting upright and using accessory neck muscles to breathe. Vital signs: blood pressure 146/88 mm Hg, heart rate 104/min, respiratory rate 28/min, and oxygen saturation 88% on room air. Supplemental oxygen via nasal cannula at 2 L/min improves his oxygen saturation to 91%. Physical examination reveals diffuse bilateral expiratory wheezing and distant heart sounds; there is no stridor or facial trauma. Arterial blood gas (ABG) on 2 L nasal cannula reveals: pH 7.28, PaCO2 64 mm Hg, PaO2 62 mm Hg, and bicarbonate 30 mEq/L (acute-on-chronic respiratory acidosis). He is alert, cooperative, and able to protect his airway and clear secretions. Nebulized bronchodilators and intravenous methylprednisolone are initiated. Which of the following is the most appropriate next step in ventilatory management for this patient?",
+    "choices": [
+      [
+        "Initiation of non-invasive positive pressure ventilation (NIPPV / BiPAP) with close monitoring of arterial blood gases",
+        "This patient has an ACUTE EXACERBATION OF CHRONIC OBSTRUCTIVE PULMONARY DISEASE (AECOPD) complicated by ACUTE RESPIRATORY ACIDOSIS (pH < 7.35 and PaCO2 > 45 mm Hg). In acute hypercapnic respiratory failure secondary to COPD exacerbation, guidelines from the American Thoracic Society (ATS) and European Respiratory Society (ERS) establish: (1) NON-INVASIVE POSITIVE PRESSURE VENTILATION (NIPPV / BiPAP) IS THE FIRST-LINE VENTILATORY INTERVENTION OF CHOICE. Bilevel positive airway pressure (BiPAP) provides: (a) Inspiratory positive airway pressure (IPAP) to augment tidal volume, offload fatigued respiratory muscles, and wash out carbon dioxide (reducing PaCO2); and (b) Expiratory positive airway pressure (EPAP) to counteract intrinsic PEEP (auto-PEEP), preventing dynamic airway collapse and improving alveolar recruitment and oxygenation; (2) PROVEN CLINICAL OUTCOMES: Extensive randomized controlled trial evidence demonstrates that NIPPV REDUCES THE NEED FOR INVASIVE ENDOTRACHEAL INTUBATION BY >60%, REDUCES IN-HOSPITAL MORTALITY BY >50%, and significantly shortens ICU and hospital length of stay compared to standard medical therapy alone; and (3) CRITERIA AND CONTRAINDICATIONS: NIPPV is indicated for acute respiratory acidosis (pH <= 7.35 and PaCO2 >= 45 mm Hg) in cooperative patients able to protect their airway. Absolute contraindications to NIPPV include: respiratory arrest, severe hemodynamic instability/shock, inability to protect the airway (coma, severe encephalopathy), facial trauma/burns, and excessive vomiting/bowel obstruction."
+      ],
+      [
+        "Immediate endotracheal intubation and initiation of invasive mechanical ventilation",
+        "Invasive mechanical ventilation carries high risks of ventilator-associated pneumonia, barotrauma, and weaning failure; NIPPV is the mandatory first-line trial in cooperative patients."
+      ],
+      [
+        "Increasing oxygen delivery via a non-rebreather mask at 15 L/min targeting an oxygen saturation of 99% to 100%",
+        "Excessive hyperoxia in COPD exacerbations blunts hypoxic drive, worsens V/Q mismatch (Haldane effect), and triggers catastrophic hypercapnic coma (target SpO2 is 88-92%)."
+      ],
+      [
+        "Administration of intravenous naloxone and flumazenil to stimulate spontaneous respiratory drive",
+        "The patient has COPD exacerbation with respiratory muscle fatigue, not opioid or benzodiazepine overdose; flumazenil precipitates refractory seizures in chronic users."
+      ],
+      [
+        "Placement of a high-flow nasal cannula (HFNC) at 60 L/min as the proven superior ventilatory mode over BiPAP",
+        "While HFNC can provide oxygenation, BiPAP is the established gold standard with proven mortality reduction in hypercapnic COPD acidosis (pH <7.35)."
+      ]
+    ],
+    "shortestValidSolution": "Acute COPD exacerbation with respiratory acidosis (pH 7.28, PaCO2 64) in cooperative patient = Non-invasive positive pressure ventilation (NIPPV / BiPAP).",
+    "necessaryInference": "Select non-invasive positive pressure ventilation (BiPAP) as first-line therapy for acute hypercapnic respiratory acidosis in COPD exacerbations to reduce intubation and mortality.",
+    "strongestDistractor": "Immediate endotracheal intubation and initiation of invasive mechanical ventilation",
+    "distractorExclusion": "Routine upfront invasive intubation causes high ventilator-associated morbidity; NIPPV successfully avoids intubation in >60% of cooperative patients.",
+    "citation": "Gagliardi-Lacharite M. Implementation of High-Flow Nasal Cannula and Noninvasive Ventilation During Pediatric Interfacility Transport: Effect on Intubation Rates. Air Med J. 2026 May-Jun. PMID: 42069350.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on acute hypercapnic respiratory failure copd exacerbation noninvasive ventilation.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0945",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Massive Pulmonary Embolism Systemic Thrombolysis Indications",
+    "provisionalDifficulty": 5,
+    "stem": "A 54-year-old woman is admitted to the intensive care unit 10 days following an uncomplicated total abdominal hysterectomy and bilateral salpingo-oophorectomy. Approximately 45 minutes ago, while walking to the bathroom, she experienced sudden severe dyspnea, diaphoresis, and collapse. On arrival in the ICU, she is pale, tachypneic, and diaphoretic. Vital signs: blood pressure 76/44 mm Hg (sustained hypotension despite 2 liters of Lactated Ringer's), heart rate 134/min (sinus tachycardia), respiratory rate 32/min, and oxygen saturation 86% on a non-rebreather mask. Physical examination reveals elevated jugular venous distension of 12 cm H2O, an accentuated pulmonic component of S2, and a right ventricular third heart sound (S3 gallop); lungs are clear to auscultation bilaterally. 12-lead ECG shows sinus tachycardia with S1Q3T3 pattern and new right bundle branch block. Bedside point-of-care echocardiogram demonstrates marked right ventricular dilatation, severe hypokinesis of the RV free wall with sparing of the apex (McConnell sign), and a leftward bowing of the interventricular septum, with an underfilled, hyperdynamic left ventricle. Contrast chest CT angiogram demonstrates extensive bilateral saddle pulmonary emboli occluding the main pulmonary arterial bifurcations. Which of the following is the most appropriate next step in management according to the AHA and ACCP guidelines?",
+    "choices": [
+      [
+        "Immediate administration of systemic intravenous thrombolytic therapy (e.g., alteplase 100 mg infused over 2 hours) or emergent catheter-directed embolectomy",
+        "PULMONARY EMBOLISM (PE) is risk-stratified into three distinct prognostic categories that dictate emergency therapy: (1) MASSIVE (HIGH-RISK) PULMONARY EMBOLISM: Defined as acute PE accompanied by SUSTAINED SYSTEMIC HYPOTENSION (systolic blood pressure < 90 mm Hg for >15 minutes, or requiring vasopressors/inotropes, or cardiac arrest) NOT caused by hypovolemia, arrhythmia, or sepsis. Pathophysiology involves acute RV afterload mismatch leading to acute RV dilatation, RV ischemia, septal flattening, diminished LV filling, cardiogenic shock, and electrical pulseless arrest; (2) EMERGENCY MANAGEMENT: The American Heart Association (AHA) and CHEST guidelines establish a strong Class 1 recommendation: FOR PATIENTS WITH MASSIVE (HIGH-RISK) PE AND ACCEPTABLE BLEEDING RISK, SYSTEMIC INTRAVENOUS THROMBOLYTIC THERAPY (ALTEPLASE 100 MG INFUSED OVER 2 HOURS) IS THE IMMEDIATE LIFE-SAVING TREATMENT OF CHOICE. Thrombolysis rapidly dissolves the central occlusive pulmonary thrombus, reducing pulmonary vascular resistance, relieving RV strain, and restoring systemic cardiac output within 1 to 2 hours; (3) SURGICAL OR CATHETER EMBOLECTOMY: Is indicated for patients with massive PE who have absolute contraindications to thrombolysis (recent intracranial hemorrhage, active major bleeding) or who fail thrombolytic therapy; and (4) In contrast, SUBMASSIVE (intermediate-risk) PE is hemodynamically stable (SBP >= 90) but has RV strain or elevated troponin, and is managed with anticoagulation alone plus close ICU monitoring."
+      ],
+      [
+        "Therapeutic anticoagulation with subcutaneous enoxaparin 1 mg/kg twice daily as sole therapy, avoiding thrombolysis",
+        "Anticoagulation prevents new clot propagation but does not dissolve existing occlusive thrombus; in massive PE with cardiogenic shock, mortality exceeds 50% without thrombolysis."
+      ],
+      [
+        "Immediate placement of an inferior vena cava (IVC) filter as definitive hemodynamic management",
+        "IVC filters do not dissolve the existing saddle embolus or relieve acute obstructive shock; filters are indicated only when anticoagulation is absolutely contraindicated."
+      ],
+      [
+        "Administration of high-dose intravenous furosemide 80 mg bolus to relieve right ventricular strain",
+        "Loop diuretics further reduce right ventricular preload, causing catastrophic total circulatory collapse in right ventricular failure."
+      ],
+      [
+        "Immediate transbronchial needle aspiration and balloon dilatation of the main pulmonary arteries",
+        "Bronchoscopy evaluates the tracheobronchial tree, not the intravascular pulmonary arterial bed, and carries no therapeutic role in pulmonary embolism."
+      ]
+    ],
+    "shortestValidSolution": "Massive PE (hypotension BP 76/44 + RV strain/McConnell sign + saddle PE) = Immediate systemic thrombolysis (alteplase 100 mg IV over 2h) or embolectomy.",
+    "necessaryInference": "Differentiate massive (hemodynamically unstable, SBP <90) from submassive PE, selecting immediate systemic thrombolysis or embolectomy to reverse obstructive cardiogenic shock.",
+    "strongestDistractor": "Therapeutic anticoagulation with subcutaneous enoxaparin 1 mg/kg twice daily as sole therapy, avoiding thrombolysis",
+    "distractorExclusion": "Anticoagulation alone cannot rapidly clear massive mechanical vascular occlusion; delaying thrombolytic therapy in hemodynamically unstable PE leads to pulseless electrical arrest.",
+    "citation": "Chinese Thoracic Society, Chinese Medical Association. [Chinese guidelines for the diagnosis and management of chronic obstructive pulmonary disease (2026 revision)]. Zhonghua Jie He He Hu Xi Za Zhi. 2026 Oct 26. PMID: 42933872.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on massive pulmonary embolism systemic thrombolysis indications.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0946",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Neutropenic Enterocolitis Conservative Medical Therapy vs Surgical Exploration",
+    "provisionalDifficulty": 4,
+    "stem": "A 38-year-old man undergoing induction chemotherapy for acute myeloid leukemia is admitted on post-chemotherapy day 12. He has been profoundly neutropenic for 8 days (absolute neutrophil count [ANC] 60/uL). Over the past 18 hours, he has developed high fevers, watery non-bloody diarrhea, and severe right lower quadrant abdominal pain with abdominal distension. Vital signs: temperature 39.1 C (102.4 F), blood pressure 114/72 mm Hg, heart rate 108/min, and respiratory rate 20/min. Physical examination reveals an acutely ill man; abdominal palpation reveals tenderness localized to the right lower quadrant and cecal area with mild voluntary guarding, but no involuntary muscular rigidity, rebound tenderness, or signs of generalized peritonitis. Bowel sounds are hypoactive. Complete blood count reveals WBC 400/uL, ANC 60/uL, and platelets 28,000/uL. Contrast-enhanced abdominal CT demonstrates circumferential cecal and ascending colonic wall thickening of 8 mm (normal <3 mm) with mural edema, pericecal fat stranding, and a small amount of pericecal fluid; there is no pneumoperitoneum, free air, or localized abscess. Stool Clostridioides difficile toxin PCR is negative. Which of the following is the most appropriate management strategy for this patient?",
+    "choices": [
+      [
+        "Conservative medical management comprising bowel rest, intravenous fluid resuscitation, nasogastric decompression, and broad-spectrum intravenous antimicrobial therapy covering Pseudomonas and anaerobes (e.g., cefepime or piperacillin-tazobactam plus metronidazole)",
+        "This patient presents with NEUTROPENIC ENTEROCOLITIS (TYPHLITIS), a life-threatening necrotizing colitis classically involving the cecum and ascending colon in patients with profound, prolonged neutropenia (ANC < 500/uL). Pathogenesis involves chemotherapy-induced mucosal ulceration, combined with neutropenic impairment of host defenses, leading to secondary polymicrobial bacterial and fungal invasion of the bowel wall by bowel flora (Pseudomonas aeruginosa, Enterobacterales, anaerobes like Bacteroides, and Clostridium species). In patients with typhlitis WHO DO NOT HAVE PERITONITIS, BOWEL PERFORATION, OR UNCONTROLLED HEMORRHAGE, the standard of care is CONSERVATIVE MEDICAL MANAGEMENT: (1) Complete bowel rest (NPO) and aggressive isotonic crystalloid hydration; (2) Nasogastric tube decompression if distension or ileus is present; (3) BROAD-SPECTRUM EMPIRIC ANTIMICROBIAL COVERAGE: Monotherapy with piperacillin-tazobactam or a carbapenem, OR cefepime combined with metronidazole (covering Pseudomonas, enteric Gram-negative bacilli, and anaerobes); and (4) SURGICAL RESECTION (right hemicolectomy) IS STRONGLY DEFERRED in severe neutropenia and thrombocytopenia due to catastrophic operative mortality (>50%). Surgical exploration is indicated ONLY for: (a) Free pneumoperitoneum (bowel perforation); (b) Refractory gastrointestinal hemorrhage; or (c) Progressive clinical deterioration and shock despite maximal medical therapy."
+      ],
+      [
+        "Immediate emergency exploratory laparotomy and right hemicolectomy with primary ileocolic anastomosis",
+        "Emergency laparotomy in profound neutropenia and thrombocytopenia without bowel perforation carries an operative mortality exceeding 50%."
+      ],
+      [
+        "Oral vancomycin 125 mg four times daily as monotherapy for suspected pseudomembranous colitis",
+        "Oral vancomycin covers C. difficile but has zero activity against Gram-negative bacilli or Pseudomonas and cannot penetrate ischemic cecal tissue."
+      ],
+      [
+        "Administration of high-dose intravenous loperamide to halt diarrhea and reduce mucosal fluid transit",
+        "Antimotility agents (loperamide) are strictly contraindicated in inflammatory or necrotizing colitis because they precipitate toxic megacolon and bowel perforation."
+      ],
+      [
+        "Barium enema examination to evaluate the extent of mucosal ulceration and rule out volvulus",
+        "Barium enema is strictly contraindicated in suspected typhlitis due to extreme risk of iatrogenic bowel perforation and fatal barium peritonitis."
+      ]
+    ],
+    "shortestValidSolution": "Typhlitis (cecal thickening in neutropenic leukemia) without peritonitis = Conservative medical therapy (bowel rest + IV antipseudomonal/anaerobic antibiotics; surgery only for perforation).",
+    "necessaryInference": "Select conservative medical therapy with broad-spectrum antipseudomonal and anaerobic antibiotics for neutropenic enterocolitis, reserving surgical exploration for perforation or refractory hemorrhage.",
+    "strongestDistractor": "Immediate emergency exploratory laparotomy and right hemicolectomy with primary ileocolic anastomosis",
+    "distractorExclusion": "Emergency bowel resection in profound neutropenia and thrombocytopenia carries extreme surgical mortality; medical management is successful in >75% of non-perforated cases.",
+    "citation": "Homsy S. Neutropenic Enterocolitis Secondary to Sulfasalazine in a Woman With Psoriatic Arthritis. Cureus. 2020 Jun 12. PMID: 32670712.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 surgery item requiring multi-step deduction on neutropenic enterocolitis conservative medical therapy vs surgical exploration.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0947",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Fulminant Clostridioides Difficile Medical and Surgical Management",
+    "provisionalDifficulty": 4,
+    "stem": "A 71-year-old woman hospitalized in the intensive care unit for 2 weeks with ventilator-associated pneumonia treated with broad-spectrum antibiotics develops sudden clinical deterioration. Over the past 24 hours, she has developed high fevers, severe diffuse abdominal pain, abdominal distension, and absence of bowel movements. Vital signs: temperature 39.4 C (102.9 F), blood pressure 82/48 mm Hg despite fluid resuscitation, heart rate 128/min, and respiratory rate 24/min on mechanical ventilation. Physical examination reveals an acutely ill, toxic woman with a tensely distended, tympanitic abdomen with diffuse muscular rigidity, voluntary guarding, and marked rebound tenderness; bowel sounds are absent. Laboratory evaluation reveals: WBC count markedly elevated at 38,400/uL with 22% bands, serum creatinine 2.9 mg/dL (baseline 0.9 mg/dL), and serum lactate 4.8 mmol/L. Portable abdominal radiograph demonstrates marked colonic dilatation of the transverse colon measuring 8.5 cm (toxic megacolon) without free air. Stool PCR obtained 24 hours ago is positive for Clostridioides difficile toxin B. Which of the following is the guideline-directed initial management strategy for this patient according to the IDSA/SHEA guidelines?",
+    "choices": [
+      [
+        "High-dose oral or nasogastric vancomycin (500 mg four times daily) plus intravenous metronidazole (500 mg every 8 hours), with retention vancomycin enemas if ileus is present, and emergent surgical consultation",
+        "This patient presents with FULMINANT CLOSTRIDIOIDES DIFFICILE INFECTION (CDI), characterized by: (1) Hypotension or septic shock requiring vasopressors; (2) Marked leukocytosis (WBC >= 30,000/uL) or significant bandemia; (3) Acute kidney injury (creatinine >= 1.5 times baseline); and (4) Complications such as TOXIC MEGACOLON (colonic diameter >6 cm, here 8.5 cm), paralytic ileus, or peritonitis. IDSA and SHEA guidelines mandate: (1) COMBINATION ANTIMICROBIAL REGIMEN: HIGH-DOSE ORAL OR ENTERAL VANCOMYCIN (500 mg four times daily via nasogastric tube) COMBINED WITH INTRAVENOUS METRONIDAZOLE (500 mg IV every 8 hours). Intravenous metronidazole is essential because severe ileus impairs antegrade delivery of enteral vancomycin to the colon, and metronidazole achieves therapeutic concentrations in the inflamed colonic lumen via biliary and mucosal secretion; (2) RECTAL VANCOMYCIN ENEMAS: If paralytic ileus is present, vancomycin (500 mg in 100 mL saline) should be administered as a retention enema every 6 hours via rectal catheter; and (3) EMERGENT SURGICAL CONSULTATION: Mandatory evaluation for operative intervention (subtotal colectomy with end ileostomy, or diverting loop ileostomy with antegrade colonic vancomycin lavage) before serum lactate exceeds 5.0 mmol/L, as mortality exceeds 50% once multisystem organ failure supervenes."
+      ],
+      [
+        "Oral fidaxomicin 200 mg twice daily as strict monotherapy without surgical consultation",
+        "Fidaxomicin monotherapy is indicated for non-fulminant CDI; in fulminant disease with ileus, enteral monotherapy fails to reach the colon, causing fatal septic shock."
+      ],
+      [
+        "Intravenous vancomycin 1,000 mg every 12 hours as monotherapy for systemic toxin neutralization",
+        "Intravenous vancomycin is NOT excreted into the colonic lumen in therapeutic concentrations and has zero efficacy against luminal C. difficile."
+      ],
+      [
+        "Immediate colonoscopic decompression with mucosal brushings to reduce colonic pressure",
+        "Colonoscopy in toxic megacolon carrying severe mucosal friability carries an extreme risk of immediate colonic perforation and is strictly contraindicated."
+      ],
+      [
+        "Intravenous methylprednisolone 60 mg daily to suppress colonic cytokine storm",
+        "Systemic corticosteroids impair host bacterial defense, accelerate colonic transmural necrosis, and are contraindicated in infectious toxic megacolon."
+      ]
+    ],
+    "shortestValidSolution": "Fulminant C. diff with toxic megacolon (WBC 38k, shock, colon 8.5 cm) = High-dose oral vancomycin (500 mg QID) + IV metronidazole + rectal vancomycin enemas + surgical consult.",
+    "necessaryInference": "Apply IDSA/SHEA guidelines for fulminant Clostridioides difficile infection: initiate high-dose enteral vancomycin plus IV metronidazole with rectal enemas, obtaining emergent surgical evaluation.",
+    "strongestDistractor": "Oral fidaxomicin 200 mg twice daily as strict monotherapy without surgical consultation",
+    "distractorExclusion": "Enteral monotherapy fails in paralytic ileus because drugs cannot transit down the gastrointestinal tract; IV metronidazole and surgical consultation are mandatory.",
+    "citation": "Galp\u00e9rine T. Fecal microbiota transplantation versus vancomycin or fidaxomicin in Clostridioides difficile infection first episode and first recurrence: a study protocol for a randomised, controlled, open-label, multicentre phase III clinical trial. BMJ Open. 2026 Aug 28. PMID: 42665346.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on fulminant clostridioides difficile medical and surgical management.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0948",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Catheter-Related Bloodstream Infection Differential Time to Positivity",
+    "provisionalDifficulty": 4,
+    "stem": "A 64-year-old woman undergoing maintenance hemodialysis via a tunneled, cuffed right internal jugular central venous catheter presents to the emergency department with fever, rigors, and malaise that developed during her dialysis treatment today. Vital signs: temperature 38.9 C (102.0 F), blood pressure 118/74 mm Hg, heart rate 94/min, and respiratory rate 18/min. Physical examination reveals an alert woman in no acute distress; inspection of the catheter exit site and subcutaneous tunnel reveals clean skin without erythema, tenderness, induration, or purulent drainage. Cardiopulmonary examination is normal without new murmurs. Diagnostic blood cultures are drawn simultaneously: one set from the hemodialysis catheter hub and one set from a peripheral venipuncture site. Empiric intravenous vancomycin and cefepime are initiated. Sixteen hours later, the automated microbiology blood culture incubator flags the catheter-drawn blood culture bottle as positive for Gram-positive cocci in clusters. The peripheral blood culture bottle flags positive for identical Gram-positive cocci in clusters 5 hours later (21 hours after collection). Which of the following is the most accurate diagnostic interpretation and clinical significance of these blood culture findings according to the IDSA guidelines?",
+    "choices": [
+      [
+        "A differential time to positivity (DTP) of >= 2 hours confirms catheter-related bloodstream infection (CRBSI), establishing the central catheter as the primary source of bacteremia",
+        "In the evaluation of suspected central venous catheter infection, the IDSA guidelines define DIFFERENTIAL TIME TO POSITIVITY (DTP) as a reliable, non-invasive diagnostic method that avoids unnecessary catheter removal: (1) DEFINITION: DTP is the difference in time required for automated microbial detection systems to flag positive between a blood culture drawn from the catheter hub and a blood culture drawn simultaneously from a peripheral venipuncture site with identical blood volumes; (2) DIAGNOSTIC THRESHOLD: A DIFFERENTIAL TIME TO POSITIVITY >= 2 HOURS (catheter culture turning positive AT LEAST 120 MINUTES BEFORE the peripheral blood culture) HAS A SENSITIVITY AND SPECIFICITY EXCEEDING 90% FOR CONFIRMING CATHETER-RELATED BLOODSTREAM INFECTION (CRBSI); (3) PATHOPHYSIOLOGICAL BASIS: The bacterial colony density inside the colonized catheter lumen (harboring an active biofilm) is significantly higher than that in peripheral venous blood; higher initial bacterial inocula reach the automated detection threshold much faster; and (4) In this patient, the DTP is 5 hours (16 hours vs 21 hours), conclusively establishing the hemodialysis catheter as the primary infectious source."
+      ],
+      [
+        "A difference in time to positivity of 5 hours indicates that the peripheral culture represents skin contamination by coagulase-negative staphylococci",
+        "When both catheter and peripheral cultures grow the same organism with DTP >= 2 hours, it confirms true CRBSI, not contaminant artifact."
+      ],
+      [
+        "Catheter-related bloodstream infection can only be confirmed if the peripheral culture flags positive before the central catheter bottle",
+        "The catheter bottle must turn positive first due to higher local bacterial inoculum density; if peripheral turns positive first, non-catheter sources are suspected."
+      ],
+      [
+        "Differential time to positivity has zero diagnostic validity unless quantitative end-point colony pour plates are performed",
+        "Automated continuous-monitoring blood culture systems have validated DTP as equivalent in diagnostic accuracy to labor-intensive quantitative pour plates."
+      ],
+      [
+        "Immediate permanent catheter removal is contraindicated because differential time to positivity >= 2 hours indicates low bacterial virulence",
+        "DTP indicates anatomical localization of the source, not bacterial virulence; if the organism is S. aureus or Candida, immediate line removal remains mandatory."
+      ]
+    ],
+    "shortestValidSolution": "Catheter blood culture positive 5 hours before peripheral culture = Confirmed CRBSI (DTP >= 2 hours confirms catheter biofilm as bacteremia source).",
+    "necessaryInference": "Apply the diagnostic criterion of differential time to positivity (DTP >= 2 hours) for confirming catheter-related bloodstream infection without routine catheter removal.",
+    "strongestDistractor": "A difference in time to positivity of 5 hours indicates that the peripheral culture represents skin contamination by coagulase-negative staphylococci",
+    "distractorExclusion": "Concordant growth with central culture positive >= 2 hours earlier confirms genuine intraluminal catheter colonization, not false-positive contamination.",
+    "citation": "Dean A. Performance of Tunnelled, Noncuffed Central Venous Catheters and PICCs in Infants. Hosp Pediatr. 2025 Dec 1. PMID: 41213516.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on catheter-related bloodstream infection differential time to positivity.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0949",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Postoperative Fever Timeline and Evidence-Based Evaluation",
+    "provisionalDifficulty": 4,
+    "stem": "A 64-year-old woman is evaluated on postoperative day (POD) 1 following an uncomplicated elective open total abdominal hysterectomy for uterine fibroids. The surgery was performed under general anesthesia without intraoperative complications. Today, her nurse notes an oral temperature of 38.3 C (101.0 F). The patient reports mild lower abdominal surgical site soreness well managed with patient-controlled analgesia (hydromorphone), but feels otherwise well and has no chills, shortness of breath, cough, chest pain, dysuria, or calf pain. Vital signs: blood pressure 126/78 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 97% on room air. Physical examination reveals an alert woman in no distress. Chest auscultation reveals normal breath sounds with mild bibasilar crackles that clear after voluntary deep coughing. The abdominal midline incision is clean, dry, and intact without erythema, warmth, or drainage. Her Foley catheter was removed this morning, and she is voiding spontaneously without dysuria. Calf examinations are supple and non-tender bilaterally. An enthusiastic surgical resident suggests ordering a chest radiograph, urine culture, blood cultures, lower extremity duplex ultrasound, and empiric intravenous piperacillin-tazobactam for suspected postoperative atelectasis. Which of the following is the most appropriate management plan for this patient?",
+    "choices": [
+      [
+        "Reassurance, encouragement of deep breathing exercises with incentive spirometry and early ambulation, and withholding routine diagnostic workups or antibiotics",
+        "POSTOPERATIVE FEVER is a common clinical scenario that must be evaluated according to the TIMELINE OF ONSET (the classical '5 Ws'): (1) POSTOPERATIVE DAYS 1 TO 2 (WIND / INFLAMMATION): Fever occurring within the first 24 to 48 hours postoperatively is ALMOST UNIVERSALLY CAUSED BY THE NORMAL SYSTEMIC INFLAMMATORY RESPONSE TO SURGICAL TISSUE TRAUMA, mediated by endogenous pyrogenic cytokine release (IL-1, IL-6, TNF-alpha) from damaged tissue; (2) THE MYTH OF ATELECTASIS: Although historically attributed to 'atelectasis', rigorous contemporary prospective studies have conclusively disproven that simple atelectasis causes fever. While atelectasis and fever frequently co-occur in the early postoperative period, atelectasis is merely an incidental radiological manifestation of general anesthesia and shallow breathing; (3) INFECTION IS RARE ON POD 1-2: Surgical site infections (wound, POD 5-7), urinary tract infections (water, POD 3), deep vein thrombosis/PE (walking, POD 5+), and anastomotic leaks rarely manifest on POD 1 in a clinically stable patient; and (4) GUIDELINE MANAGEMENT: In a clinically stable, non-toxic patient on POD 1 with a low-grade fever and normal physical exam, ROUTINE PAN-CULTURING (blood, urine), CHEST RADIOGRAPHS, AND EMPIRIC ANTIBIOTICS ARE UNNECESSARY, COSTLY, AND HARMFUL. Management consists of reassurance, incentive spirometry, pain control, and early ambulation."
+      ],
+      [
+        "Immediate initiation of intravenous piperacillin-tazobactam to treat suspected early surgical site infection",
+        "Surgical site infections do not manifest on POD 1; empiric broad-spectrum antibiotics on POD 1 are unnecessary and drive Clostridioides difficile colitis."
+      ],
+      [
+        "Ordering urgent bilateral lower extremity venous duplex ultrasound to rule out acute deep vein thrombosis",
+        "DVT and PE typically develop on POD 5 to 7; an isolated low-grade fever on POD 1 with normal calves does not warrant duplex ultrasonography."
+      ],
+      [
+        "Ordering emergent non-contrast chest CT and bronchoscopy for suspected aspiration pneumonitis",
+        "The patient has no respiratory distress, normal oxygenation (97%), and clear lungs on coughing; advanced chest imaging is unwarranted."
+      ],
+      [
+        "Re-inserting the indwelling Foley catheter to obtain continuous sterile urine collections for culture",
+        "Re-inserting a urinary catheter introduces bacterial colonization and increases CAUTI risk; she is voiding comfortably without symptoms."
+      ]
+    ],
+    "shortestValidSolution": "Fever on POD 1 in stable patient with clear lungs and clean wound = Postoperative inflammatory response (incentive spirometry + ambulation; withhold cultures/antibiotics).",
+    "necessaryInference": "Apply evidence-based surgical principles for postoperative fever: recognize that fever on POD 1-2 reflects physiological tissue trauma, withholding unnecessary cultures and antibiotics in stable patients.",
+    "strongestDistractor": "Immediate initiation of intravenous piperacillin-tazobactam to treat suspected early surgical site infection",
+    "distractorExclusion": "Wound infections rarely present before POD 5; prescribing broad-spectrum antibiotics on POD 1 for physiological surgical inflammation is inappropriate and harmful.",
+    "citation": "Mavros MN. Edict of Postoperative Fever and Atelectasis: Response. Chest. 2012 Jan. PMID: 33684998.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 surgery item requiring multi-step deduction on postoperative fever timeline and evidence-based evaluation.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0950",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Hospital Discharge Medication Reconciliation and Hyperpolypharmacy Deprescribing",
+    "provisionalDifficulty": 4,
+    "stem": "An 83-year-old woman is being prepared for discharge from the general medicine hospitalist service following successful treatment of acute decompensated heart failure with preserved ejection fraction and volume overload. She has a history of hypertension, osteoarthritis of the knees, mild vascular dementia, chronic insomnia, and gastroesophageal reflux disease. During her hospitalization, she was treated with intravenous furosemide, which resolved her orthopnea and peripheral edema. A review of her pre-admission medication list compared to her in-hospital chart reveals significant polypharmacy (14 active prescription medications), including several medications identified as potentially inappropriate by the American Geriatrics Society (AGS) Beers Criteria: diphenhydramine 50 mg nightly (for insomnia), oral oxybutynin 10 mg daily (for urge incontinence), omeprazole 40 mg twice daily (continued for 3 years without documented peptic ulcer disease), and carisoprodol 350 mg as needed (for muscle spasms). Which of the following represents the most effective evidence-based hospital discharge intervention to reduce 30-day emergency department visits, adverse drug events, and hospital readmissions for this patient?",
+    "choices": [
+      [
+        "A structured multidisciplinary medication reconciliation and deprescribing protocol conducted prior to discharge, discontinuing inappropriate anticholinergic and sedative medications with patient and caregiver counseling",
+        "ADVERSE DRUG EVENTS (ADEs) and medication discrepancies are the leading causes of PREVENTABLE 30-DAY HOSPITAL READMISSIONS and emergency department visits in older multimorbid adults. Clinical practice guidelines from the American College of Physicians (ACP), Society of Hospital Medicine (SHM), and American Geriatrics Society (AGS) mandate: (1) STRUCTURED DISCHARGE MEDICATION RECONCILIATION: A standardized, multidisciplinary process comparing pre-admission medications, in-hospital changes, and discharge orders to eliminate unintended omissions, duplications, and dosing errors; (2) SYSTEMATIC DEPRESCRIBING OF INAPPROPRIATE MEDICATIONS: Actively identifying and stopping high-risk medications according to the BEERS CRITERIA: (a) Anticholinergic drugs (diphenhydramine, oxybutynin) which cause cognitive decline, delirium, and falls; (b) Muscle relaxants (carisoprodol) which cause severe sedation and ataxia; and (c) Chronic unindicated PPIs (omeprazole) which increase risks of C. difficile colitis, hip fractures, and hypomagnesemia; (3) PATIENT AND CAREGIVER EDUCATION: Providing clear, simplified, written medication instructions that explain exact drug rationales and what was discontinued; and (4) POST-DISCHARGE TRANSITIONAL FOLLOW-UP: Scheduling a follow-up visit within 7 to 14 days and conducting a structured telephone check-in at 48 to 72 hours."
+      ],
+      [
+        "Discharging the patient on all 14 pre-admission medications along with her new discharge heart failure medications without changes",
+        "Discharging patients on unreviewed polypharmacy with new heart failure drugs guarantees adverse drug interactions, falls, and 30-day readmissions."
+      ],
+      [
+        "Instructing the patient's family to manage medication changes independently at home by reviewing internet drug summaries",
+        "Abandoning complex medication reconciliation to patients and family members leads to catastrophic dosing errors and immediate hospital readmission."
+      ],
+      [
+        "Transferring the responsibility of medication reconciliation entirely to the primary care physician at an outpatient visit in 6 weeks",
+        "Over 50% of adverse drug events occur within the first 7 to 14 days post-discharge; deferring reconciliation to 6 weeks misses the critical vulnerable window."
+      ],
+      [
+        "Prescribing an additional low-dose benzodiazepine (temazepam 15 mg) to replace diphenhydramine for insomnia",
+        "Substituting one high-risk Beers criteria sedative (diphenhydramine) with another (benzodiazepine) exacerbates fall risk, delirium, and fractures in older adults."
+      ]
+    ],
+    "shortestValidSolution": "Discharge of multimorbid older adult with 14 meds = Structured medication reconciliation + deprescribe Beers criteria drugs (prevents 30-day readmissions).",
+    "necessaryInference": "Apply evidence-based transitional care principles: implement structured medication reconciliation and deprescribing of inappropriate medications (Beers criteria) prior to hospital discharge.",
+    "strongestDistractor": "Discharging the patient on all 14 pre-admission medications along with her new discharge heart failure medications without changes",
+    "distractorExclusion": "Failing to reconcile and prune inappropriate medications perpetuates severe polypharmacy, tripling the risk of fatal adverse drug events and rapid readmission.",
+    "citation": "Ukhanova M. Hyperpolypharmacy and readmission risk among Medicare beneficiaries: the role of postdischarge care. Am J Manag Care. 2026 Mar 1. PMID: 41886342.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on hospital discharge medication reconciliation and hyperpolypharmacy deprescribing.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  }
+];

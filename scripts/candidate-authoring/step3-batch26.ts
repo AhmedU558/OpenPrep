@@ -1,0 +1,1079 @@
+import { CandidateSpec } from './types';
+
+export const step3Batch26: CandidateSpec[] = [
+  {
+    "code": "op-c-s3-0626",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Acetaminophen Overdose Rumack-Matthew Nomogram and NAC",
+    "provisionalDifficulty": 5,
+    "stem": "A 22-year-old college student is brought to the emergency department by her roommates approximately 5 hours after ingesting an entire bottle of extra-strength acetaminophen (estimated dose 25 grams) in a suicide attempt following a relationship breakup. She currently reports mild nausea and epigastric discomfort, but denies vomiting, abdominal pain, or confusion. Physical examination reveals an alert, oriented woman with normal vital signs. Abdominal examination is soft and completely non-tender, with no hepatomegaly, jaundice, or peritoneal signs. Baseline laboratory evaluation demonstrates: AST 28 U/L, ALT 24 U/L, total bilirubin 0.7 mg/dL, and prothrombin time (INR) 1.0 (all completely normal). Serum acetaminophen concentration drawn exactly 5 hours post-ingestion is 185 microg/mL. Based on the Rumack-Matthew nomogram, the treatment line threshold at 5 hours post-ingestion is 120 microg/mL. Which of the following represents the most appropriate immediate management?",
+    "choices": [
+      [
+        "Initiate intravenous N-acetylcysteine (NAC) immediately according to the weight-based protocol to replenish hepatic glutathione stores and detoxify NAPQI",
+        "ACETAMINOPHEN (APAP, paracetamol) OVERDOSE is the leading cause of acute liver failure in the United States. Pathophysiology: at therapeutic doses, 90% of acetaminophen undergoes hepatic glucuronidation and sulfation, while ~5-10% is metabolized by CYP2E1 into the toxic, highly reactive electrophilic metabolite N-ACETYL-P-BENZOQUINONE IMINE (NAPQI). Endogenous HEPATIC GLUTATHIONE conjugates and detoxifies NAPQI into non-toxic mercapturic acid conjugates. In massive overdose, glucuronidation and sulfation pathways become saturated, shunting excess drug through CYP2E1. Once glutathione stores are depleted by >70%, UNCONJUGATED NAPQI BINDS COVALENTLY TO HEPATOCELLULAR MACROMOLECULES AND MITOCHONDRIAL PROTEINS, triggering oxidative stress, mitochondrial permeability transition, and centrilobular (Zone 3) hepatic necrosis. Clinical stages: Stage 1 (0-24 hrs): asymptomatic or mild nausea/vomiting; Stage 2 (24-72 hrs): right upper quadrant tenderness, transaminitis begins; Stage 3 (72-96 hrs): fulminant hepatic failure (AST/ALT > 10,000 U/L, jaundice, encephalopathy, coagulopathy); Stage 4 (4-14 days): recovery or death. Management: (1) RUMACK-MATTHEW NOMOGRAM: plots serum acetaminophen level against time from 4 to 24 hours post-single acute ingestion. Here, 185 microg/mL at 5 hours is WELL ABOVE THE TREATMENT LINE (120 microg/mL); and (2) N-ACETYCYSTEINE (NAC): the specific, life-saving antidote that serves as a glutathione precursor and directly conjugates NAPQI. When initiated WITHIN 8 HOURS OF INGESTION, NAC provides virtually 100% hepatoprotection. Standard IV 21-hour protocol: 150 mg/kg loading dose over 1 hour, followed by 50 mg/kg over 4 hours, then 100 mg/kg over 16 hours."
+      ],
+      [
+        "Reassure the patient and discharge home with outpatient psychiatry follow-up because liver enzymes and bilirubin are completely normal",
+        "Normal liver enzymes at 5 hours are expected (Stage 1); discharging an untreated toxic ingestion of 25 g results in fatal hepatic necrosis and liver failure within 72-96 hours."
+      ],
+      [
+        "Administer high-dose oral activated charcoal 50 g repeated every 2 hours without administering N-acetylcysteine",
+        "Activated charcoal is effective within 1-2 hours of ingestion to reduce absorption; at 5 hours post-ingestion, charcoal alone does not prevent hepatic failure and fails to substitute for NAC."
+      ],
+      [
+        "Perform emergent therapeutic plasma exchange to mechanically clear protein-bound acetaminophen from the circulation",
+        "Acetaminophen is minimally protein-bound (10-20%) and has a large volume of distribution; plasmapheresis is ineffective and unnecessary when NAC is curative."
+      ],
+      [
+        "Administer intravenous flumazenil 0.5 mg bolus to prevent delayed hepatic encephalopathy",
+        "Flumazenil is a benzodiazepine antagonist that lowers the seizure threshold; it has zero efficacy for acetaminophen toxicity or toxic NAPQI generation."
+      ]
+    ],
+    "shortestValidSolution": "Acetaminophen 25 g + 5-hr level 185 microg/mL (nomogram threshold 120) = Toxic APAP ingestion -> Immediate IV N-Acetylcysteine (NAC).",
+    "necessaryInference": "Apply the Rumack-Matthew nomogram to identify toxic acetaminophen levels and initiate immediate N-acetylcysteine to restore glutathione and neutralize NAPQI.",
+    "strongestDistractor": "Reassure the patient and discharge home with outpatient psychiatry follow-up because liver enzymes and bilirubin are completely normal",
+    "distractorExclusion": "Transaminases are entirely normal during the first 24 hours (Stage 1) despite lethal hepatotoxicity developing; withholding NAC leads to fulminant hepatic necrosis.",
+    "citation": "Dart RC, Erdman AR, Olson KR, et al. Acetaminophen poisoning: an evidence-based consensus guideline for out-of-hospital management. Clin Toxicol (Phila). 2006;44(1):1-18. PMID: 16496488.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/toxicology item testing Rumack-Matthew nomogram interpretation, APAP pathophysiology (NAPQI), and prompt N-acetylcysteine therapy.",
+      "distractorExclusionNotes": "Distractors feature lethal discharge based on normal Stage 1 LFTs, charcoal alone at 5 hours, ineffective plasmapheresis, and pro-convulsant flumazenil.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0627",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Salicylate Toxicity Acid-Base Dynamics and Hemodialysis",
+    "provisionalDifficulty": 5,
+    "stem": "A 42-year-old man is brought to the emergency department by his family with confusion, rapid deep breathing, continuous ringing in his ears (tinnitus), nausea, and heavy sweating. His family found several empty bottles of adult aspirin in his bedroom. Vital signs on presentation: temperature 38.6 C (101.5 F), blood pressure 118/72 mm Hg, pulse 116/min, and respirations 32/min. Physical examination shows a restless, flushed, diaphoric man who is disoriented to date. Initial arterial blood gas (ABG) on room air reveals: pH 7.46, PaCO2 20 mm Hg, PaO2 98 mm Hg, and calculated bicarbonate 14 mEq/L. Basic metabolic panel demonstrates: serum sodium 140 mEq/L, serum potassium 3.6 mEq/L, serum chloride 102 mEq/L, and serum bicarbonate 13 mEq/L (calculated anion gap = 140 - [102 + 13] = 25 mEq/L). Serum salicylate level drawn on arrival is 92 mg/dL (severe toxicity > 70-80 mg/dL). Intravenous isotonic sodium bicarbonate infusion has been initiated. Which of the following describes the characteristic acid-base disturbance and the definitive indications for emergent hemodialysis in this patient?",
+    "choices": [
+      [
+        "Mixed primary respiratory alkalosis and primary high anion gap metabolic acidosis; emergent hemodialysis is indicated for serum salicylate level > 90-100 mg/dL, altered mental status, pulmonary edema, or renal failure",
+        "ACUTE SALICYLATE (ASPIRIN) TOXICITY produces a pathognomonic DUAL ACID-BASE DISORDER: (1) PRIMARY RESPIRATORY ALKALOSIS: salicylates directly stimulate the MEDULLARY RESPIRATORY CENTER, driving severe hyperventilation, marked tachypnea, and low PaCO2 (<30 mm Hg); and (2) PRIMARY HIGH ANION GAP METABOLIC ACIDOSIS: salicylates UNCOUPLE MITOCHONDRIAL OXIDATIVE PHOSPHORYLATION, arresting ATP synthesis and stimulating anaerobic glycolysis (lactic acidosis) and lipid catabolism (ketoacidosis), along with the accumulation of organic acids. The net pH reflects competing processes (often near-normal or slightly alkalemic initially, evolving into severe life-threatening academia as toxicity deepens). Management: (1) SODIUM BICARBONATE INFUSION: alkalinizes serum and urine (goal urine pH 7.5-8.0). In an alkaline environment, salicylic acid is converted into its charged, lipid-insoluble ionized salicylate form (C7H5O3-), preventing it from crossing the blood-brain barrier ('ion trapping' in serum) and preventing renal tubular reabsorption, accelerating urinary excretion; (2) POTASSIUM REPLETION: hypokalemia impairs urinary alkalinization because collecting tubules exchange H+ instead of K+; and (3) DEFINITIVE EMERGENT HEMODIALYSIS: indicated for: SERUM SALICYLATE > 90-100 mg/dL (or >80 mg/dL with renal insufficiency), SEVERE ALTERED MENTAL STATUS / COMA / SEIZURES, NON-CARDIOGENIC PULMONARY EDEMA, or REFRACTORY ACIDEMIA."
+      ],
+      [
+        "Isolated pure respiratory alkalosis with compensatory renal bicarbonate wasting; hemodialysis is contraindicated due to sudden bicarbonate loss",
+        "Salicylate toxicity is never an isolated respiratory alkalosis; uncoupling of oxidative phosphorylation generates a severe high anion gap metabolic acidosis."
+      ],
+      [
+        "Isolated primary metabolic alkalosis caused by vomiting; managed with intravenous hydrochloric acid infusion without hemodialysis",
+        "Salicylates cause profound metabolic acidosis, not metabolic alkalosis; infusing hydrochloric acid is lethal, driving unionized salicylate into the brain."
+      ],
+      [
+        "Perform emergent endotracheal intubation and set the mechanical ventilator to a low respiratory rate of 10 breaths/minute to normalize PaCO2",
+        "Normalizing PaCO2 with a low ventilatory rate causes immediate, catastrophic systemic acidemia, forcing unionized salicylate across the blood-brain barrier and causing brain death."
+      ],
+      [
+        "Administer intravenous deferoxamine chelation therapy until urine turns orange-red",
+        "Deferoxamine is the specific chelator for iron toxicity; it has zero binding affinity for salicylic acid and does not enhance salicylate elimination."
+      ]
+    ],
+    "shortestValidSolution": "Aspirin overdose + tinnitus + high anion gap acidosis (25) + PaCO2 20 + level 92 mg/dL = Severe Salicylate toxicity -> Bicarbonate + Emergent Hemodialysis.",
+    "necessaryInference": "Recognize the classic mixed acid-base disorder of salicylate poisoning and select hemodialysis based on level > 90 mg/dL and altered mental status.",
+    "strongestDistractor": "Perform emergent endotracheal intubation and set the mechanical ventilator to a low respiratory rate of 10 breaths/minute to normalize PaCO2",
+    "distractorExclusion": "Decreasing minute ventilation drops pH, converting salicylate to lipid-soluble unionized acid that penetrates brain tissue, causing fatal cerebral edema.",
+    "citation": "Chyka PA, Erdman AR, Christianson G, et al. Salicylate poisoning: an evidence-based consensus guideline for out-of-hospital management. Clin Toxicol (Phila). 2007;45(2):95-131. PMID: 17364628.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/toxicology/nephrology item testing recognition of salicylate mixed acid-base dynamics, ion trapping, and hemodialysis criteria.",
+      "distractorExclusionNotes": "Distractors feature isolated respiratory alkalosis misconception, hydrochloric acid infusion, lethal hypoventilation on mechanical ventilation, and deferoxamine for iron.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0628",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Toxic Alcohols Ethylene Glycol vs Methanol Fomepizole",
+    "provisionalDifficulty": 4,
+    "stem": "A 48-year-old man with severe alcohol use disorder is brought to the emergency department after being found unresponsive in an abandoned garage next to an open bottle of automotive windshield de-icer and antifreeze. On arrival, he is stuporous, moaning incomprehensibly, and vomiting. Vital signs show: temperature 35.8 C (96.4 F), blood pressure 104/64 mm Hg, pulse 108/min, and respirations 28/min. Neurologic examination shows a comatose man who withdraws all four extremities to noxious stimuli, with depressed corneal and gag reflexes. Dilated funduscopic examination reveals completely normal optic discs and retinas without edema or hyperemia. Flank percussion reveals bilateral costovertebral angle tenderness. Laboratory evaluation demonstrates: arterial blood gas shows pH 7.14, PaCO2 22 mm Hg, and PaO2 96 mm Hg. Basic metabolic panel reveals: serum sodium 140 mEq/L, potassium 5.2 mEq/L, chloride 100 mEq/L, bicarbonate 8 mEq/L, blood urea nitrogen 44 mg/dL, and serum creatinine 3.8 mg/dL (baseline was 0.9 mg/dL 6 months ago). Calculated serum anion gap is 32 mEq/L. Measured serum osmolality is 342 mOsm/kg, and calculated serum osmolarity is 298 mOsm/L (osmolal gap = 44 mOsm/kg; normal < 10 mOsm/kg). Urinalysis demonstrates envelope-shaped and needle-shaped calcium oxalate crystals with prominent fluorescence under Wood lamp illumination. Which of the following is the most likely ingested toxicant and the immediate first-line antidote?",
+    "choices": [
+      [
+        "Ethylene glycol toxicity, causing acute tubular necrosis secondary to calcium oxalate crystal deposition; treated immediately with intravenous fomepizole to competitively inhibit alcohol dehydrogenase",
+        "This patient presents with severe ETHYLENE GLYCOL POISONING, an automotive antifreeze ingredient. Ethylene glycol itself is relatively non-toxic; toxicity is mediated by its metabolites generated by ALCOHOL DEHYDROGENASE (ADH): Ethylene glycol -> Glycolaldehyde -> GLYCOLIC ACID (the primary driver of the severe HIGH ANION GAP METABOLIC ACIDOSIS) -> Glyoxylic acid -> OXALIC ACID. Oxalic acid binds calcium to form CALCIUM OXALATE MONOHYDRATE AND DIHYDRATE (ENVELOPE-SHAPED) CRYSTALS, which precipitate within renal tubular lumens, producing acute mechanical obstruction, cytotoxicity, and ACUTE TUBULAR NECROSIS with severe acute kidney injury (Cr 3.8 mg/dL). Flank tenderness and Wood lamp urinary fluorescence (from sodium fluorescein dye added to antifreeze) are characteristic. Osmolal gap is markedly elevated (>10 mOsm/kg) early due to the parent alcohol, while anion gap rises as acidic metabolites accumulate. In contrast, METHANOL POISONING (windshield washer fluid) is metabolized to FORMIC ACID, which selectively attacks the retina and optic nerve (OPTIC DISC HYPEREMIA, 'snowstorm vision', blindness) and the basal ganglia (putaminal necrosis), typically sparing the kidneys from crystal deposition. FIRST-LINE ANTIDOTE FOR BOTH TOXIC ALCOHOLS IS INTRAVENOUS FOMEPIZOLE (4-methylpyrazole), a potent, competitive inhibitor of alcohol dehydrogenase with an affinity >8,000 times higher than ethanol. Early fomepizole halts toxic metabolite generation. EMERGENT HEMODIALYSIS is indicated for severe acidemia (pH < 7.25), renal failure, or high toxic alcohol levels (>50 mg/dL)."
+      ],
+      [
+        "Methanol toxicity, causing retinal ganglion cell necrosis and blindness; treated immediately with oral leucovorin calcium monotherapy",
+        "Methanol causes optic disc hyperemia and blindness from formic acid; this patient has normal funduscopy and prominent calcium oxalate crystals with acute renal failure."
+      ],
+      [
+        "Isopropanol toxicity, causing profound ketosis without acidosis; treated immediately with high-dose intravenous sodium bicarbonate",
+        "Isopropanol is metabolized by ADH to acetone, producing an elevated osmolal gap and positive serum ketones WITHOUT a high anion gap metabolic acidosis."
+      ],
+      [
+        "Diethylene glycol toxicity, causing pure central respiratory depression; treated with naloxone boluses and oral activated charcoal",
+        "Naloxone is an opioid receptor antagonist that has zero effect on toxic alcohols or glycolic acid-induced metabolic acidosis."
+      ],
+      [
+        "Paraldehyde toxicity, causing severe corrosive gastritis and pulmonary hemorrhage; treated with intravenous dimercaprol chelation",
+        "Paraldehyde poisoning produces a pungent breath odor and non-ketotic acidosis, but does not form calcium oxalate crystals or respond to heavy metal chelators."
+      ]
+    ],
+    "shortestValidSolution": "High anion gap (32) + high osmolal gap (44) + calcium oxalate crystals + renal failure = Ethylene glycol -> IV Fomepizole (ADH inhibitor) + Hemodialysis.",
+    "necessaryInference": "Differentiate ethylene glycol (calcium oxalate nephropathy) from methanol (optic disc hyperemia) and select fomepizole as the competitive ADH inhibitor.",
+    "strongestDistractor": "Methanol toxicity, causing retinal ganglion cell necrosis and blindness; treated immediately with oral leucovorin calcium monotherapy",
+    "distractorExclusion": "Methanol targets the optic nerve causing hyperemia and snowstorm blindness; ethylene glycol causes acute renal failure with envelope-shaped calcium oxalate crystals.",
+    "citation": "Kraut JA, Kurtz I. Toxic alcohol ingestions: clinical features, diagnosis, and management. Clin J Am Soc Nephrol. 2008;3(1):208-225. PMID: 18045860.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/toxicology item testing discrimination between ethylene glycol (oxalate crystals, renal failure) and methanol, and selection of fomepizole.",
+      "distractorExclusionNotes": "Distractors feature methanol retinal damage with isolated leucovorin, isopropanol non-acidotic ketosis, ineffective naloxone, and paraldehyde.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0629",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Carbon Monoxide Poisoning Hyperbaric Oxygen Indications",
+    "provisionalDifficulty": 5,
+    "stem": "A 34-year-old pregnant woman at 26 weeks of gestation is brought to the emergency department after being rescued from a burning apartment building where a faulty furnace malfunctioned. Her husband reports that she was found unconscious on the floor for an undetermined duration. On presentation, she has regained consciousness but complains of a throbbing generalized headache, severe nausea, dizziness, and visual blurring. Vital signs show: temperature 37.2 C (99.0 F), blood pressure 110/68 mm Hg, pulse 108/min, and respirations 22/min. Standard non-invasive fingertip pulse oximetry displays an oxygen saturation of 99% on room air. Cardiopulmonary examination is normal. Fetal heart rate monitoring demonstrates a baseline of 144/min with moderate variability and no decelerations. Neurologic examination shows disorientation to time and mild gait ataxia without focal motor deficits. An arterial blood gas with CO-oximetry demonstrates: pH 7.34, PaCO2 34 mm Hg, PaO2 102 mm Hg, arterial oxyhemoglobin 68%, and CARBOXYHEMOGLOBIN (COHb) 28% (normal non-smoker < 3%). Normobaric 100% high-flow oxygen via a non-rebreather face mask is initiated immediately. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      [
+        "Arrange emergency transfer for hyperbaric oxygen (HBO) therapy to accelerate carboxyhemoglobin clearance and prevent delayed neurological sequelae and fetal death",
+        "CARBON MONOXIDE (CO) POISONING is a leading cause of accidental and intentional toxic death. Pathophysiology: CO binds hemoglobin with an affinity 200 TO 250 TIMES GREATER THAN OXYGEN, forming CARBOXYHEMOGLOBIN (COHb), which severely reduces arterial oxygen content. Furthermore, CO causes an extreme LEFTWARD SHIFT OF THE OXYGEN-HEMOGLOBIN DISSOCIATION CURVE (Haldane effect), impairing oxygen unloading to tissues. CO also binds intracellular MYOGLOBIN (causing myocardial depression) and MITOCHONDRIAL CYTOCHROME C OXIDASE, arresting oxidative phosphorylation. Crucially, STANDARD PULSE OXIMETRY CANNOT DISTINGUISH OXYHEMOGLOBIN FROM CARBOXYHEMOGLOBIN, displaying a falsely normal saturation (e.g., 99%). Diagnosis requires CO-OXIMETRY. While normobaric 100% O2 reduces the half-life of COHb from ~300 minutes to ~90 minutes, HYPERBARIC OXYGEN (HBO, 2.5-3.0 atm) REDUCES THE HALF-LIFE TO ~20 TO 30 MINUTES, rapidly forces dissolved oxygen into plasma, reverses mitochondrial enzyme inhibition, and significantly prevents DELAYED NEUROLOGICAL SEQUELAE (cognitive deficits, parkinsonism). Indications for EMERGENT HYPERBARIC OXYGEN: (1) CARBOXYHEMOGLOBIN > 25% (or >15% IN PREGNANCY, because fetal hemoglobin [HbF] binds CO with even higher affinity and fetal elimination is prolonged, causing severe fetal hypoxia and stillbirth); (2) LOSS OF CONSCIOUSNESS / SYNCOPE; (3) SEVERE METABOLIC ACIDOSIS (pH < 7.25); (4) EVIDENCE OF MYOCARDIAL ISCHEMIA (angina, ischemic ECG changes, elevated troponin); or (5) PERSISTENT NEUROLOGICAL OR COGNITIVE DEFICITS despite normobaric oxygen. Because this patient is pregnant, has COHb of 28%, experienced loss of consciousness, and has ataxia, HBO therapy is definitively indicated."
+      ],
+      [
+        "Wean supplemental oxygen to ambient room air because the fingertip pulse oximeter confirms adequate oxygenation (99%)",
+        "Standard pulse oximetry cannot differentiate carboxyhemoglobin from oxyhemoglobin, falsely reading 99% despite severe life-threatening tissue hypoxia."
+      ],
+      [
+        "Perform emergency bedside cesarean delivery under spinal anesthesia to rescue the fetus prior to medical management",
+        "The fetal heart tracing is currently reassuring; emergency surgery under maternal hypoxemic shock carries extreme maternal and fetal mortality."
+      ],
+      [
+        "Administer intravenous methylene blue 1 mg/kg bolus to accelerate carboxyhemoglobin reduction",
+        "Methylene blue is the specific antidote for methemoglobinemia; it has zero efficacy for carbon monoxide and would further reduce oxygen-carrying capacity."
+      ],
+      [
+        "Discontinue oxygen therapy and initiate oral prophylactic topiramate to prevent delayed post-hypoxic tremors",
+        "Withholding oxygen in active carbon monoxide poisoning guarantees progressive tissue infarction and fetal demise."
+      ]
+    ],
+    "shortestValidSolution": "Pregnant woman + loss of consciousness + COHb 28% (pregnancy threshold >15%) + ataxia = Severe CO poisoning -> Emergent Hyperbaric Oxygen (HBO).",
+    "necessaryInference": "Recognize pulse oximetry artifact in CO poisoning, identify pregnancy threshold for HBO (COHb > 15%), and select hyperbaric oxygen to prevent fetal demise and neurological sequelae.",
+    "strongestDistractor": "Wean supplemental oxygen to ambient room air because the fingertip pulse oximeter confirms adequate oxygenation (99%)",
+    "distractorExclusion": "Standard pulse oximetry cannot distinguish carboxyhemoglobin from oxyhemoglobin, creating a lethal false sense of security; CO-oximetry is required.",
+    "citation": "Weaver LK. Clinical practice. Carbon monoxide poisoning. N Engl J Med. 2009;360(12):1217-1225. PMID: 19297574.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/toxicology/obstetrics item testing recognition of CO pulse oximetry fallacy, pregnancy-specific COHb thresholds, and HBO indications.",
+      "distractorExclusionNotes": "Distractors feature lethal reliance on false pulse oximetry, premature emergent delivery in maternal hypoxia, methemoglobinemia-specific methylene blue, and topiramate.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0630",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Cyanide Poisoning Smoke Inhalation Hydroxocobalamin Antidote",
+    "provisionalDifficulty": 4,
+    "stem": "A 42-year-old firefighter is brought to the emergency department after being pulled unconscious from an industrial warehouse fire involving burning plastics, synthetic carpets, and polyurethane foam insulation. On arrival, he is stuporous, tachypneic, and vomiting. Vital signs show: temperature 37.0 C (98.6 F), blood pressure 82/48 mm Hg, pulse 124/min, and respirations 28/min. Pulse oximetry displays 98% while breathing 100% oxygen via a tight-fitting non-rebreather face mask. Physical examination reveals soot in his nares and posterior oropharynx, but no stridor, wheezing, or cutaneous thermal burns. The patient's skin appears flushed and pink, and phlebotomy reveals that both peripheral venous blood and arterial blood appear strikingly bright red. An urgent arterial blood gas demonstrates: pH 7.08, PaCO2 26 mm Hg, PaO2 120 mm Hg, and calculated bicarbonate 8 mEq/L. Blood chemistry demonstrates: serum lactate 16.4 mmol/L (markedly elevated; reference < 2.0 mmol/L), and central venous oxygen saturation (ScvO2) is abnormally elevated at 92% (normal 70-75%). Which of the following is the most appropriate immediate targeted pharmacotherapy?",
+    "choices": [
+      [
+        "Administer intravenous hydroxocobalamin immediately to chelate cyanide ions and form non-toxic cyanocobalamin",
+        "This patient exhibits fulminant CYANIDE POISONING complicating industrial SMOKE INHALATION from combustion of nitrogen-containing synthetic polymers (polyurethane, plastics, wool, silk). Pathophysiology: cyanide (CN-) rapidly binds the trivalent FERRIC IRON (Fe3+) in MITOCHONDRIAL CYTOCHROME C OXIDASE (Complex IV of the electron transport chain), completely blocking cellular aerobic respiration. Cells are unable to utilize oxygen despite normal or high arterial oxygen content (HISTOTOXIC HYPOXIA). Cardinal diagnostic hallmarks: (1) EXTREME LACTIC ACIDOSIS (serum lactate > 8-10 mmol/L in smoke inhalation has >90% sensitivity for significant cyanide toxicity); (2) BRIGHT RED VENOUS BLOOD and ABNORMALLY ELEVATED CENTRAL VENOUS OXYGEN SATURATION (ScvO2 > 85-90%) because tissues cannot extract or consume oxygen from hemoglobin; and (3) Profound hemodynamic collapse (vasodilatory shock, myocardial depression). The FIRST-LINE ANTIDOTE OF CHOICE IS INTRAVENOUS HYDROXOCOBALAMIN (5 g IV infused over 15 minutes). Hydroxocobalamin contains a cobalt center that binds cyanide with higher affinity than cytochrome oxidase, forming non-toxic CYANOCBALAMIN (VITAMIN B12), which is safely excreted in urine. Hydroxocobalamin is PREFERRED OVER TRADITIONAL NITRITE ANTIDOTES (sodium nitrite / amyl nitrite) because NITRITES INDUCE METHEMOGLOBINEMIA; in a fire victim who likely has concurrent carbon monoxide poisoning, inducing methemoglobinemia further destroys remaining oxygen delivery, precipitating fatal anoxia."
+      ],
+      [
+        "Administer intravenous sodium nitrite followed by sodium thiosulfate to induce high-grade methemoglobinemia",
+        "Nitrites convert hemoglobin to methemoglobin to bind cyanide, but in smoke inhalation victims with suspected carbon monoxide, this fatally destroys oxygen delivery."
+      ],
+      [
+        "Administer high-dose intravenous methylene blue 2 mg/kg to reduce ferric iron in cytochrome oxidase",
+        "Methylene blue treats methemoglobinemia; it does not displace cyanide from cytochrome oxidase and has zero efficacy in cyanide toxicity."
+      ],
+      [
+        "Infuse 3 ampuls of intravenous sodium bicarbonate as the sole primary pharmacotherapy for lactic acidosis",
+        "Bicarbonate transiently buffers acidemia, but fails to displace cyanide from cytochrome c oxidase; cells continue dying from histotoxic anoxia without antidote."
+      ],
+      [
+        "Administer intravenous pralidoxime (2-PAM) and atropine to reactivate inhibited acetylcholinesterase enzymes",
+        "Atropine and pralidoxime treat organophosphate cholinergic toxicity; they have zero binding affinity for cyanide or mitochondrial cytochromes."
+      ]
+    ],
+    "shortestValidSolution": "Smoke inhalation (burning plastics) + lactate 16.4 + bright red venous blood (high ScvO2 92%) = Cyanide poisoning -> IV Hydroxocobalamin (avoids nitrites).",
+    "necessaryInference": "Recognize cyanide toxicity from extreme lactic acidosis and elevated venous oxygen in smoke inhalation, selecting hydroxocobalamin to avoid nitrite-induced methemoglobinemia.",
+    "strongestDistractor": "Administer intravenous sodium nitrite followed by sodium thiosulfate to induce high-grade methemoglobinemia",
+    "distractorExclusion": "Sodium nitrite is contraindicated in smoke inhalation victims because inducing methemoglobinemia in the presence of carbon monoxide causes fatal tissue hypoxia.",
+    "citation": "Hall AH, Saiers J, Baud F. Which antidote for cyanide? Toxicol Rev. 2009;28(1):21-33. PMID: 19772390.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/toxicology item testing recognition of cyanide toxicity (high lactate, high ScvO2) and preference for hydroxocobalamin over nitrites in smoke inhalation.",
+      "distractorExclusionNotes": "Distractors feature dangerous nitrite-induced methemoglobinemia in smoke inhalation, methylene blue, isolated bicarbonate buffering, and organophosphate antidotes.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0631",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Organophosphate Toxicity Atropine and Pralidoxime Sequence",
+    "provisionalDifficulty": 5,
+    "stem": "A 52-year-old agricultural worker is brought to the emergency department by coworkers after being found collapsed in a pesticide storage shed. Coworkers state he was spraying an organophosphate insecticide (chlorpyrifos) for several hours without wearing protective respirators or gloves. On presentation, the patient is unresponsive, profusely sweating, vomiting, and incontinent of liquid stool. Vital signs show: temperature 36.2 C (97.2 F), blood pressure 92/54 mm Hg, pulse 44/min (severe bradycardia), and respirations 28/min. Physical examination reveals pinpoint pupils (miosis, 1 mm bilaterally, non-reactive to light), copious foaming saliva and oral secretions, profuse diaphoresis, and continuous generalized muscle fasciculations involving his face, calves, and chest wall. Chest auscultation reveals diffuse, bilateral, loud inspiratory and expiratory gurgling rhonchi and wet crackles ('copious pulmonary bronchorrhea') with severe expiratory wheezing. Pulse oximetry displays an oxygen saturation of 82% on ambient room air. The emergency team establishes decontamination protocols and secures the airway. Which of the following represents the most appropriate initial pharmacologic management sequence?",
+    "choices": [
+      [
+        "Administer intravenous atropine boluses immediately (titrating and doubling doses every 3 to 5 minutes until pulmonary bronchorrhea and bronchospasm clear), followed by intravenous pralidoxime (2-PAM)",
+        "ORGANOPHOSPHATE INSECTICIDES (chlorpyrifos, malathion, parathion) and nerve agents (sarin, VX) produce toxic cholinergic crisis by IRREVERSIBLY INHIBITING ACETYLCHOLINESTERASE (AChE) via phosphorylation of its active serine site. This leads to massive accumulation of acetylcholine at: (1) MUSCARINIC RECEPTORS: 'DUMBELS' / 'SLUDGEM' (Defecation, Urination, MIOSIS, BRONCHORRHEA / BRONCHOSPASM / BRADYCARDIA, Emesis, Lacrimation, Salivation); (2) NICOTINIC RECEPTORS: muscle FASCICULATIONS, weakness, and diaphragmatic paralysis; and (3) CENTRAL RECEPTORS: seizures, coma. THE PRIMARY CAUSE OF DEATH IS ASPHYXIATION FROM COPIOUS PULMONARY BRONCHORRHEA AND BRONCHOSPASM ('drowning in secretions') combined with respiratory muscle fatigue. Management requires a STRICT CLINICAL SEQUENCE: (1) IMMEDIATE HIGH-DOSE INTRAVENOUS ATROPINE: competitively blocks muscarinic acetylcholine receptors. Start with 2-4 mg IV bolus and DOUBLE THE DOSE EVERY 3-5 MINUTES. Crucially, THE CLINICAL ENDPOINT OF ATROPINIZATION IS CLEARING OF LUNG SECRETIONS (DRYING OF BRONCHORRHEA) AND RESOLUTION OF BRONCHOSPASM (not pupil dilation or heart rate); and (2) PRALIDOXIME (2-PAM): a nucleophilic oxime that cleaves the organophosphate from acetylcholinesterase, reactivating the enzyme. Pralidoxime treats NICOTINIC RECEPTORS (reverses muscle fasciculations and weakness) and MUST BE GIVEN PROMPTLY BEFORE 'AGING' (chemical conformational dealkylation that renders AChE permanently irreversible). However, ATROPINE MUST ALWAYS BE GIVEN FIRST OR CONCURRENTLY, because 2-PAM does not treat acute muscarinic bronchorrhea."
+      ],
+      [
+        "Administer intravenous pralidoxime (2-PAM) monotherapy and withhold atropine until pupil diameter exceeds 5 mm",
+        "Pralidoxime has no direct muscarinic antagonist activity; withholding atropine allows the patient to drown in lethal pulmonary secretions (bronchorrhea)."
+      ],
+      [
+        "Administer intravenous physostigmine 2 mg bolus to competitively restore peripheral acetylcholinesterase",
+        "Physostigmine is an acetylcholinesterase inhibitor used for anticholinergic overdose; administering it during organophosphate toxicity is lethal, compounding acetylcholine excess."
+      ],
+      [
+        "Administer intravenous succinylcholine 100 mg bolus to eliminate severe skeletal muscle fasciculations",
+        "Succinylcholine is metabolized by pseudocholinesterase, which is inhibited by organophosphates; succinylcholine causes prolonged paralysis lasting many hours."
+      ],
+      [
+        "Initiate high-dose intravenous propranolol to block excessive sympathetic ganglionic outflow",
+        "The patient has severe bradycardia (44/min) and bronchospasm; administering a beta-blocker precipitates immediate asystole and fatal bronchoconstriction."
+      ]
+    ],
+    "shortestValidSolution": "Pesticide spray + SLUDGEM (miosis, sweating, diarrhea) + severe bronchorrhea = Organophosphate toxicity -> IV Atropine FIRST (clears secretions) + Pralidoxime (2-PAM).",
+    "necessaryInference": "Select immediate high-dose atropine titrated to the endpoint of clearing pulmonary bronchorrhea, followed by pralidoxime before enzyme aging occurs.",
+    "strongestDistractor": "Administer intravenous pralidoxime (2-PAM) monotherapy and withhold atropine until pupil diameter exceeds 5 mm",
+    "distractorExclusion": "Pralidoxime does not reverse muscarinic bronchorrhea; atropine is the essential immediate life-saving antidote to prevent asphyxiation from lung secretions.",
+    "citation": "Eddleston M, Buckley NA, Eyer P, et al. Management of acute organophosphorus pesticide poisoning. Lancet. 2008;371(9612):597-607. PMID: 18280330.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/toxicology item testing organophosphate management sequence (titration of atropine to pulmonary endpoint before/with pralidoxime).",
+      "distractorExclusionNotes": "Distractors feature fatal pralidoxime monotherapy without atropine, lethal physostigmine exacerbation, prolonged succinylcholine paralysis, and asystolic beta-blockade.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0632",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Beta-Blocker Toxicity Glucagon and High-Dose Insulin Euglycemia",
+    "provisionalDifficulty": 4,
+    "stem": "A 58-year-old man with a history of coronary artery disease is brought to the emergency department by paramedics 2 hours after ingesting approximately forty 100-mg tablets of metoprolol tartrate in a suicide attempt. On presentation, the patient is somnolent, pale, and clammy. Vital signs show: blood pressure 72/44 mm Hg, pulse 36/min (marked sinus bradycardia), respirations 14/min, and temperature 36.4 C (97.5 F). Bedside capillary blood glucose is 54 mg/dL (hypoglycemia). Cardiopulmonary examination reveals cold, mottled extremities with weak peripheral pulses and clear lung fields without crackles. Twelve-lead ECG confirms profound sinus bradycardia with a prolonged PR interval (240 ms) and narrow QRS. The patient has received 2 liters of intravenous normal saline and intravenous atropine 1 mg without any increase in heart rate or blood pressure. Which of the following represents the most appropriate next pharmacologic intervention to overcome this receptor blockade and restore cardiac output?",
+    "choices": [
+      [
+        "Administer intravenous glucagon bolus followed by a continuous infusion, and prepare for high-dose insulin euglycemia (HIE) therapy if shock persists",
+        "BETA-ADRENERGIC RECEPTOR ANTAGONIST (BETA-BLOCKER) OVERDOSE produces life-threatening cardiogenic shock characterized by severe BRADYCARDIA, HYPOTENSION, CONDUCTION DELAYS (PR prolongation, AV block), and characteristically HYPOGLYCEMIA (due to blockade of beta-2 mediated glycogenolysis and gluconeogenesis, contrasting with CCB overdose which causes hyperglycemia). Atropine and fluid boluses are notoriously ineffective because competitive beta-blockade prevents endogenous catecholamines from stimulating adenylate cyclase. Pharmacologic rescue strategy: (1) INTRAVENOUS GLUCAGON (5-10 mg IV bolus over 1-2 minutes, followed by 2-10 mg/hr infusion): Glucagon binds specific G-protein-coupled GLUCAGON RECEPTORS on myocardial cells that ACTIVATE ADENYLATE CYCLASE INDEPENDENT OF BETA-ADRENERGIC RECEPTORS. This increases intracellular cyclic AMP (cAMP), triggering protein kinase A and opening L-type calcium channels, producing potent POSITIVE INOTROPIC AND CHRONOTROPIC EFFECTS; (2) HIGH-DOSE INSULIN EUGLYCEMIA (HIE): if hypotension persists, initiate regular insulin bolus (1 unit/kg IV) followed by continuous infusion (0.5-1.0 units/kg/hr) titrated up, along with concentrated dextrose infusion to maintain euglycemia. In stressed, shocked myocardium, myocytes switch from free fatty acid oxidation to carbohydrate metabolism; high-dose insulin facilitates glucose uptake and improves myocardial contractility; and (3) INTRAVENOUS LIPID EMULSION (ILE) for lipophilic beta-blockers (propranolol)."
+      ],
+      [
+        "Administer high-dose intravenous propranolol boluses to displace the metoprolol from myocardial receptors",
+        "Administering a non-selective beta-blocker during beta-blocker cardiogenic shock further depresses cardiac output, triggering fatal asystole."
+      ],
+      [
+        "Initiate intravenous diltiazem infusion to control reflex sympathetic myocardial workload",
+        "Non-dihydropyridine calcium channel blockers are negative inotropes and dromotropes; combining them with beta-blockers produces immediate complete heart block and death."
+      ],
+      [
+        "Administer oral activated charcoal and perform emergency whole-bowel irrigation with polyethylene glycol",
+        "In a somnolent, bradycardic patient with cardiogenic shock, whole-bowel irrigation carries an extreme risk of massive pulmonary aspiration and death."
+      ],
+      [
+        "Administer intravenous flumazenil bolus repeated every 10 minutes to reverse central cardiodepression",
+        "Flumazenil is a benzodiazepine antagonist that lowers seizure threshold and has zero receptor activity on beta-adrenergic pathways or myocardial contractility."
+      ]
+    ],
+    "shortestValidSolution": "Metoprolol overdose + bradycardia 36 + BP 72/44 + hypoglycemia = Beta-blocker toxicity -> IV Glucagon (bypasses beta receptors via cAMP) + High-dose insulin.",
+    "necessaryInference": "Select IV glucagon as first-line therapy for beta-blocker overdose due to its ability to stimulate myocardial adenylate cyclase and cAMP independently of beta-receptors.",
+    "strongestDistractor": "Initiate intravenous diltiazem infusion to control reflex sympathetic myocardial workload",
+    "distractorExclusion": "Diltiazem further inhibits cardiac calcium influx and AV conduction, causing irreversible cardiovascular collapse and asystolic cardiac arrest.",
+    "citation": "Graudins A, Lee HM, Druda D. Calcium channel antagonist and beta-blocker overdose: local adverse event reporting and management. Emerg Med Australas. 2016;28(6):723-731. PMID: 27581533.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/toxicology item testing management of beta-blocker overdose (IV glucagon receptor-bypass mechanism and high-dose insulin euglycemia).",
+      "distractorExclusionNotes": "Distractors feature compounding beta-blocker administration, lethal calcium channel blockade with diltiazem, aspiration-inducing whole bowel irrigation, and flumazenil.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0633",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Calcium Channel Blocker Toxicity Hyperglycemia and High-Dose Insulin",
+    "provisionalDifficulty": 5,
+    "stem": "A 64-year-old woman is brought to the emergency department by ambulance 3 hours after intentionally ingesting thirty tablets of sustained-release diltiazem (estimated dose 7,200 mg) and twenty tablets of amlodipine (estimated dose 200 mg). On arrival, she is lethargic, pale, and dizzy. Vital signs: blood pressure 68/38 mm Hg, heart rate 42/min (sinus bradycardia with first-degree AV block), respirations 16/min, and temperature 36.6 C (97.8 F). Physical examination reveals cool extremities with delayed capillary refill, normal jugular venous pressure, and clear lung fields. Bedside capillary blood glucose demonstrates a MARKED HYPERGLYCEMIA of 384 mg/dL, despite the patient having no personal or family history of diabetes mellitus. Twelve-lead ECG reveals sinus bradycardia, a PR interval of 260 ms, and a normal QRS duration. Intravenous normal saline boluses and intravenous calcium chloride have provided only transient, minimal improvements in blood pressure. Which of the following explains the prominent hyperglycemia, and what is the primary advanced medical therapy of choice for refractory shock?",
+    "choices": [
+      [
+        "Blockade of L-type calcium channels on pancreatic islet beta cells inhibits voltage-gated calcium influx required for insulin exocytosis; treated with high-dose insulin euglycemia (HIE) therapy combined with intravenous dextrose and calcium",
+        "CALCIUM CHANNEL BLOCKER (CCB) TOXICITY (verapamil, diltiazem, amlodipine, nifedipine) is the most lethal cardiovascular drug overdose. CCBs block L-type (Cav1.2) voltage-gated calcium channels in vascular smooth muscle (causing severe vasodilatory shock) and myocardium/SA/AV nodes (causing negative inotropy, bradycardia, and conduction block). A CRITICAL DIAGNOSTIC HALLMARK THAT DISTINGUISHES CCB TOXICITY FROM BETA-BLOCKER TOXICITY IS MARKED HYPERGLYCEMIA. Pathophysiology: glucose-stimulated insulin release from PANCREATIC ISLET BETA CELLS requires extracellular calcium influx through L-type calcium channels to trigger exocytic vesicle fusion. Blockade of these channels produces ACUTE HYPOINSULINEMIA AND PERIPHERAL INSULIN RESISTANCE, resulting in prominent hyperglycemia (>250-400 mg/dL). In addition, stunned and shocked myocardium switches from using free fatty acids to carbohydrates for energy, but is starved of glucose due to insulin deficiency. Standard tiered management: (1) INTRAVENOUS CALCIUM (calcium chloride 10% 1-2 g IV, or calcium gluconate) to overcome competitive channel blockade; (2) HIGH-DOSE INSULIN EUGLYCEMIA (HIE): regular insulin bolus (1 unit/kg IV) followed by continuous infusion (0.5 to 2.0 units/kg/hr) combined with concentrated dextrose (D10W or D50W) and potassium maintenance. HIE acts as a powerful inotrope, restores intracellular myocardial carbohydrate metabolism, and improves microvascular perfusion; and (3) VASOPRESSORS (norepinephrine) and INTRAVENOUS LIPID EMULSION (ILE) for refractory arrest."
+      ],
+      [
+        "Glucagon-secreting alpha cells undergo autonomous hyperstimulation; treated with oral octreotide monotherapy without insulin",
+        "Octreotide inhibits insulin release and is used for sulfonylurea overdose; administering octreotide in CCB toxicity worsens hypoinsulinemia and shock."
+      ],
+      [
+        "Massive systemic release of endogenous cortisol and epinephrine; treated with high-dose oral metyrapone",
+        "Metyrapone inhibits cortisol synthesis in Cushing disease; it has zero efficacy for acute cardiovascular collapse from L-type calcium channel antagonism."
+      ],
+      [
+        "Acute autoimmune destruction of pancreatic beta cells by chemical metabolites; treated with high-dose intravenous methylprednisolone",
+        "Hyperglycemia is functional due to calcium channel blockade, not autoimmune insulitis; corticosteroids worsen hyperglycemia and do not treat cardiac shock."
+      ],
+      [
+        "Renal tubular glucosuria threshold elevation; treated with continuous intravenous loop diuretic diuresis",
+        "Loop diuretics exacerbate hypovolemia and worsen cardiogenic/vasodilatory shock, precipitating acute tubular necrosis."
+      ]
+    ],
+    "shortestValidSolution": "Diltiazem/Amlodipine overdose + shock + HYPERGLYCEMIA 384 = CCB toxicity (blocked beta-cell insulin exocytosis) -> High-Dose Insulin Euglycemia (HIE) + IV Calcium.",
+    "necessaryInference": "Recognize that CCB toxicity uniquely produces marked hyperglycemia by blocking beta-cell calcium-mediated insulin release, selecting high-dose insulin euglycemia (HIE).",
+    "strongestDistractor": "Glucagon-secreting alpha cells undergo autonomous hyperstimulation; treated with oral octreotide monotherapy without insulin",
+    "distractorExclusion": "Octreotide suppresses insulin release (used for sulfonylurea hypoglycemia); giving octreotide in CCB poisoning worsens severe hypoinsulinemic metabolic starvation.",
+    "citation": "St-Onge M, Anseeuw K, Cantrell FL, et al. Experts Consensus Recommendations for the Management of Calcium Channel Blocker Poisoning. Clin Toxicol (Phila). 2017;55(3):134-149. PMID: 28164687.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/toxicology item testing discrimination between CCB (hyperglycemia) and beta-blocker (hypoglycemia) toxicity and selection of HIE therapy.",
+      "distractorExclusionNotes": "Distractors feature harmful octreotide worsening hypoinsulinemia, irrelevant metyrapone, unproven steroids for 'autoimmune' necrosis, and hypovolemic loop diuretics.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0634",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Behavioral Health",
+    "topic": "Tricyclic Antidepressant Overdose Sodium Bicarbonate Therapy",
+    "provisionalDifficulty": 5,
+    "stem": "A 32-year-old woman with major depressive disorder is brought to the emergency department by ambulance after her partner found her unresponsive next to an empty bottle of amitriptyline (prescribed 150 mg daily). Paramedics report she had a generalized tonic-clonic seizure en route that terminated after intravenous lorazepam 2 mg. On arrival, the patient is comatose and intubated for airway protection. Vital signs: blood pressure 82/46 mm Hg, pulse 138/min, respirations 14/min (mechanically ventilated), and temperature 38.4 C (101.1 F). Physical examination reveals warm, dry, flushed skin, bilaterally dilated and sluggish pupils (7 mm), absent bowel sounds, and a palpable distended bladder. Twelve-lead electrocardiogram demonstrates sinus tachycardia, a prolonged PR interval, a WIDENED QRS DURATION OF 148 MS (normal < 100 ms), a prolonged QTc of 520 ms, and a prominent, tall terminal R wave in lead aVR measuring 4.5 mm (with an R/S ratio > 0.7). Which of the following is the most appropriate immediate pharmacotherapy to prevent fatal ventricular arrhythmias and cardiovascular collapse?",
+    "choices": [
+      [
+        "Administer intravenous sodium bicarbonate boluses (1 to 2 mEq/kg) repeated to achieve a target serum arterial pH of 7.50 to 7.55 and narrow the QRS complex",
+        "TRICYCLIC ANTIDEPRESSANT (TCA: amitriptyline, nortriptyline, imipramine) OVERDOSE is a life-threatening psychiatric and toxicologic emergency. TCAs possess four distinct toxic pharmacologic mechanisms: (1) FAST SODIUM CHANNEL BLOCKADE (Quinidine-like / Class IA antiarrhythmic effect): blocks myocardial fast sodium channels, slowing Phase 0 depolarization, manifested on ECG as QRS PROLONGATION (> 100 ms predicts seizures; > 160 ms predicts ventricular arrhythmias/fibrillation), right axis deviation, and a TALL TERMINAL R WAVE IN aVR (>= 3 mm or R/S ratio > 0.7); (2) ANTICHOLINERGIC / ANTIMUSCARINIC BLOCKADE: hyperthermia, mydriasis, flushing, dry skin/mucosa, urinary retention, delirium, and sinus tachycardia; (3) ALPHA-1 ADRENERGIC BLOCKADE: refractory peripheral vasodilatation and hypotension; and (4) GABA-A INHIBITION / ANTIHISTAMINE: sedation, coma, and seizures. The DEFINITIVE FIRST-LINE THERAPY FOR TCA CARDIOTOXICITY IS INTRAVENOUS SODIUM BICARBONATE (NaHCO3). Indications: QRS duration > 100 ms, tall terminal R in aVR, ventricular arrhythmias, or hypotension refractory to fluids. Mechanisms of sodium bicarbonate: (1) LARGE SODIUM LOAD (hypertonic Na+) overcomes competitive blockade of myocardial sodium channels by mass action; and (2) SYSTEMIC ALKALINIZATION (target arterial pH 7.50-7.55): converts the ionized, active drug into its uncharged, neutral form, which has substantially lower affinity for the sodium channel receptor. PHYSOSTIGMINE IS STRICTLY CONTRAINDICATED in TCA overdose because it precipitates immediate, refractory asystolic cardiac arrest."
+      ],
+      [
+        "Administer intravenous physostigmine 2 mg bolus to reverse central and peripheral anticholinergic toxicity",
+        "Physostigmine is strictly contraindicated in TCA overdose; it causes complete heart block, intractable ventricular arrhythmias, and fatal asystolic arrest."
+      ],
+      [
+        "Administer intravenous procainamide 15 mg/kg infusion to terminate ventricular conduction delays",
+        "Procainamide is a Class IA sodium channel blocker; combining it with TCA toxicity fatally compounds sodium channel blockade and triggers cardiac arrest."
+      ],
+      [
+        "Administer intravenous amiodarone 150 mg bolus to treat wide-complex tachycardia and QTc prolongation",
+        "Amiodarone prolongs the QT interval and blocks sodium channels; it precipitates torsades de pointes and worsening cardiogenic shock in TCA toxicity."
+      ],
+      [
+        "Infuse intravenous calcium gluconate 2 g bolus as the primary myocardial membrane stabilizer",
+        "Calcium gluconate stabilizes cardiac membranes in hyperkalemia, but has zero efficacy in overcoming fast sodium channel blockade from tricyclic antidepressants."
+      ]
+    ],
+    "shortestValidSolution": "Amitriptyline overdose + QRS 148 ms + tall R in aVR + hypotension = TCA cardiotoxicity -> Immediate IV Sodium Bicarbonate (target pH 7.50-7.55).",
+    "necessaryInference": "Identify TCA-induced fast sodium channel blockade (wide QRS > 100 ms, tall R in aVR) and select IV sodium bicarbonate to narrow QRS and avoid contraindicated physostigmine.",
+    "strongestDistractor": "Administer intravenous physostigmine 2 mg bolus to reverse central and peripheral anticholinergic toxicity",
+    "distractorExclusion": "Physostigmine is absolutely contraindicated in TCA poisoning because it precipitates catastrophic asystole and refractory ventricular fibrillation.",
+    "citation": "Body R, Bartram T, Azam F, et al. Guidelines in Emergency Medicine Network (GEMNet): guideline for the management of tricyclic antidepressant overdose. Emerg Med J. 2011;28(4):347-368. PMID: 21415277.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/cardiovascular toxicology item testing recognition of TCA cardiotoxicity (QRS widening, tall R in aVR) and IV sodium bicarbonate therapy.",
+      "distractorExclusionNotes": "Distractors feature lethal physostigmine (asystole risk), compounding Class IA antiarrhythmics (procainamide), QT-prolonging amiodarone, and ineffective calcium.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0635",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Digoxin Toxicity Hyperkalemia and DigiFab Indications",
+    "provisionalDifficulty": 4,
+    "stem": "An 82-year-old woman with a history of heart failure with reduced ejection fraction (LVEF 30%) and atrial fibrillation maintained on digoxin 0.25 mg daily, furosemide 40 mg daily, and lisinopril 10 mg daily is brought to the emergency department because of increasing weakness, anorexia, nausea, and vomiting for 4 days. Her family notes that she has become confused and complained that lights in the room appear to have yellowish-green glowing halos around them (xanthopsia). Vital signs: blood pressure 92/54 mm Hg, pulse 46/min and irregular, respirations 16/min, and temperature 36.8 C (98.2 F). Physical examination reveals a frail, dehydrated woman. Twelve-lead ECG demonstrates atrial fibrillation with a regularized slow ventricular response (complete AV block with junctional escape at 44/min), scooped, down-sloping ST-segment depressions in leads V4-V6 ('reverse tick' sign), and frequent multifocal ventricular premature complexes with brief runs of bidirectional ventricular tachycardia. Laboratory studies demonstrate: blood urea nitrogen 52 mg/dL, serum creatinine 2.4 mg/dL (baseline 0.9 mg/dL), serum potassium 6.2 mEq/L (markedly elevated), and serum digoxin concentration 4.8 ng/mL (therapeutic range 0.5-0.9 ng/mL). Which of the following is the most appropriate definitive therapeutic management?",
+    "choices": [
+      [
+        "Administer digoxin-specific antibody antigen-binding fragments (DigiFab) immediately, and strictly avoid intravenous calcium salts",
+        "DIGOXIN TOXICITY is a life-threatening emergency classically precipitated by acute kidney injury or electrolyte disturbances (hypokalemia and hypomagnesemia increase myocardial sensitivity to digoxin, while dehydration impairs renal digoxin clearance). Pathophysiology: digoxin binds and INHIBITS MYOCARDIAL SODIUM-POTASSIUM ADENOSINE TRIPHOSPHATASE (Na+/K+-ATPase). This increases intracellular Na+, which slows the Na+/Ca2+ exchanger, leading to increased intracellular calcium (positive inotropy). In toxic concentrations, excessive intracellular calcium causes DELAYED AFTERDEPOLARIZATIONS (DADs), producing ectopic automaticity, frequent PVCs, and pathognomonic BIDIRECTIONAL VENTRICULAR TACHYCARDIA. Concurrently, digoxin increases vagal tone, producing severe SA/AV block. Extracellularly, inhibition of Na+/K+-ATPase prevents potassium entry into skeletal muscle and cardiac cells, resulting in SEVERE HYPERKALEMIA (potassium > 5.0-5.5 mEq/L strongly correlates with acute mortality). Clinical signs: anorexia, nausea, xanthopsia (yellow-green halos), and scooped ST depressions. Definitive treatment: DIGOXIN-SPECIFIC ANTIBODY FRAGMENTS (DIGIFAB / Digibind). Indications: life-threatening arrhythmias, SERUM POTASSIUM > 5.0 mEq/L in acute overdose, serum digoxin > 10-15 ng/mL, or severe ingestion (>10 mg in adults). CRITICAL RULE: INTRAVENOUS CALCIUM SALTS ARE STRICTLY CONTRAINDICATED in digoxin toxicity because raising extracellular calcium further overloads intracellular calcium stores, triggering fatal, irreversible tetanic myocardial contracture ('STONE HEART')."
+      ],
+      [
+        "Administer intravenous calcium chloride 1 g bolus immediately to stabilize cardiac myocyte membranes against hyperkalemia",
+        "Intravenous calcium in digoxin toxicity is historically contraindicated because excessive intracellular calcium causes irreversible tetanic myocardial arrest ('stone heart')."
+      ],
+      [
+        "Perform emergent therapeutic hemodialysis as the primary modality to eliminate circulating digoxin",
+        "Digoxin has a massive volume of distribution (5-8 L/kg) and binds extensively to skeletal muscle; hemodialysis clears <3% of total body digoxin and is useless."
+      ],
+      [
+        "Administer intravenous lidocaine infusion and schedule elective transvenous pacemaker placement without antibody fragments",
+        "While lidocaine can treat ventricular ectopy, it does not reverse SA/AV nodal block or hyperkalemia; DigiFab is the definitive curative antidote."
+      ],
+      [
+        "Initiate oral high-dose spironolactone to block aldosterone receptors and promote renal potassium excretion",
+        "Spironolactone is a potassium-sparing diuretic that worsens life-threatening hyperkalemia, and takes days to achieve effect."
+      ]
+    ],
+    "shortestValidSolution": "Digoxin 4.8 + yellow halos (xanthopsia) + bidirectional VT + K 6.2 = Severe digoxin toxicity -> DigiFab antibody fragments; AVOID IV calcium.",
+    "necessaryInference": "Identify severe digoxin toxicity indications for DigiFab (hyperkalemia > 5.0, ventricular arrhythmias) and recognize the contraindication to IV calcium ('stone heart').",
+    "strongestDistractor": "Administer intravenous calcium chloride 1 g bolus immediately to stabilize cardiac myocyte membranes against hyperkalemia",
+    "distractorExclusion": "IV calcium is traditionally contraindicated in digoxin toxicity because raising extracellular calcium risks massive intracellular calcium overload and fatal 'stone heart' arrest.",
+    "citation": "Chan BS, Buckley NA. Digoxin-specific antibody fragments in the treatment of digoxin toxicity. Clin Toxicol (Phila). 2014;52(8):824-836. PMID: 25164428.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 internal medicine/cardiovascular toxicology item testing recognition of digoxin toxicity, hyperkalemia prognostic significance, DigiFab, and avoiding calcium.",
+      "distractorExclusionNotes": "Distractors feature lethal IV calcium triggering 'stone heart', useless hemodialysis for high Vd digoxin, isolated lidocaine without antidote, and potassium-retaining spironolactone.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0636",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Sulfonylurea-Induced Hypoglycemia and Octreotide Therapy",
+    "provisionalDifficulty": 5,
+    "stem": "An 76-year-old woman with type 2 diabetes mellitus and stage 3b chronic kidney disease (baseline eGFR 38 mL/min/1.73 m^2) is brought to the emergency department after her daughter found her unconscious, diaphoric, and confused at home. Her medications include glimepiride 4 mg daily and atorvastatin 20 mg daily. On arrival, bedside point-of-care capillary blood glucose is 28 mg/dL. The emergency physician administers an intravenous bolus of 50 mL of 50% dextrose (D50W), followed by a continuous infusion of 10% dextrose (D10W) at 100 mL/hr. The patient rapidly awakens and becomes fully oriented with blood glucose rising to 142 mg/dL. However, 2 hours later, while the D10W infusion is running, the patient becomes acutely lethargic and confused again; repeat blood glucose drops to 34 mg/dL. Another bolus of D50W is administered, but 90 minutes later she becomes hypoglycemic again (glucose 38 mg/dL). Which of the following is the primary mechanism driving this recurrent hypoglycemia, and what is the definitive pharmacologic antidote?",
+    "choices": [
+      [
+        "Exogenous dextrose boluses trigger glucose-mediated stimulation of sulfonylurea-sensitized beta-cell insulin secretion; treated with subcutaneous or intravenous octreotide to inhibit insulin exocytosis",
+        "SULFONYLUREA OVERDOSE OR ACCUMULATION (glimepiride, glyburide, glipizide) is a frequent cause of severe, prolonged, refractory hypoglycemia, especially in elderly patients with CHRONIC KIDNEY DISEASE (active metabolites of glimepiride and glyburide are renally cleared and accumulate). Mechanism of sulfonylureas: bind SUR1 subunits of ATP-sensitive K+ channels on pancreatic beta cells, closing channels, inducing depolarization, opening calcium channels, and stimulating continuous insulin secretion. A major clinical trap is the RECURRENT HYPOGLYCEMIA PHENOMENON: administering repeated boluses of concentrated INTRAVENOUS DEXTROSE (D50W) sharply spikes blood glucose, which DIRECTLY ENERGIZES AND STIMULATES THE SULFONYLUREA-BOUND BETA CELLS TO RELEASE MASSIVE REBOUND SURGES OF ENDOGENOUS INSULIN. This produces a vicious cycle of recurrent, refractory hypoglycemia. The DEFINITIVE SPECIFIC ANTIDOTE IS OCTREOTIDE (50 to 100 microg subcutaneously or IV every 8 to 12 hours). Octreotide is a synthetic somatostatin analog that binds G-protein-coupled SOMATOSTATIN RECEPTOR SUBTYPE 2 (SSTR2) on pancreatic beta cells, blocking voltage-gated calcium influx and COMPLETELY SUPPRESSING GLUCOSE-STIMULATED INSULIN SECRETION. Octreotide halts the cycle of hyperinsulinemia, stabilizes blood glucose, and prevents rebound hypoglycemia."
+      ],
+      [
+        "Complete hepatic glycogen depletion; treated with continuous intravenous glucagon infusion as sole therapy",
+        "Glucagon stimulates hepatic glycogenolysis, but in sulfonylurea toxicity, hepatic glycogen is rapidly exhausted, and glucagon directly stimulates further beta-cell insulin secretion."
+      ],
+      [
+        "Development of an acute insulinoma; treated with emergent surgical exploratory laparotomy and distal pancreatectomy",
+        "The patient is taking glimepiride and has renal failure causing drug accumulation; suspecting an acute insulinoma and performing surgery is a disastrous misdiagnosis."
+      ],
+      [
+        "Excessive renal tubular glucose reabsorption; treated with high-dose oral empagliflozin to promote glucosuria",
+        "SGLT2 inhibitors promote urinary glucose loss, which would critically exacerbate life-threatening hypoglycemia in a patient with a blood glucose of 34 mg/dL."
+      ],
+      [
+        "Acute secondary adrenal insufficiency; treated with daily oral fludrocortisone replacement therapy",
+        "Hypoglycemia is driven by sulfonylurea-mediated hyperinsulinemia; mineralocorticoid fludrocortisone does not suppress pancreatic insulin release."
+      ]
+    ],
+    "shortestValidSolution": "Glimepiride in CKD + rebound hypoglycemia despite D50W = Sulfonylurea toxicity -> Subcutaneous Octreotide (blocks beta-cell insulin exocytosis).",
+    "necessaryInference": "Recognize that IV dextrose triggers rebound insulin surges in sulfonylurea toxicity, requiring octreotide (somatostatin analog) to shut off beta-cell insulin secretion.",
+    "strongestDistractor": "Complete hepatic glycogen depletion; treated with continuous intravenous glucagon infusion as sole therapy",
+    "distractorExclusion": "Glucagon exhausts limited glycogen stores and paradoxically stimulates pancreatic beta cells to release more insulin, worsening recurrent hypoglycemia.",
+    "citation": "Glatstein M, Scolnik D, Bentur Y. Octreotide for the treatment of sulfonylurea poisoning. Clin Toxicol (Phila). 2012;50(9):795-804. PMID: 23075253.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 internal medicine/endocrinology/emergency item testing recognition of sulfonylurea-induced recurrent hypoglycemia and octreotide antidote mechanism.",
+      "distractorExclusionNotes": "Distractors feature glucagon paradoxically stimulating insulin, insulinoma misdiagnosis leading to surgery, SGLT2i worsening hypoglycemia, and fludrocortisone.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0637",
+    "exam": "Step 3",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Acute Iron Poisoning Clinical Stages and Deferoxamine",
+    "provisionalDifficulty": 4,
+    "stem": "A 2-year-old girl is brought to the emergency department by her mother approximately 2 hours after swallowing an unknown quantity of her mother's prenatal dietary supplement tablets (each containing 65 mg of elemental iron as ferrous sulfate). The mother discovered an open, empty bottle that originally contained 60 tablets. One hour after ingestion, the child developed severe vomiting, retching, and two episodes of hematemesis (bright red blood and coffee-ground material) accompanied by explosive bloody diarrhea (melena/hematochezia). On arrival, the child is pale, lethargic, and irritable. Vital signs: blood pressure 76/44 mm Hg, pulse 154/min, and respirations 28/min. Physical examination demonstrates cold extremities, capillary refill of 4 seconds, and diffuse abdominal tenderness with involuntary guarding. An abdominal radiograph reveals multiple dense, radiopaque pills clustered within the stomach and duodenum. An arterial blood gas demonstrates a severe high anion gap metabolic acidosis with pH 7.16 and serum lactate 8.2 mmol/L. Serum iron level drawn 2 hours post-ingestion is 680 microg/dL (severe toxicity > 500 microg/dL). Which of the following is the most appropriate specific antidote and clinical monitoring endpoint?",
+    "choices": [
+      [
+        "Initiate intravenous deferoxamine chelation therapy, monitoring for resolution of metabolic acidosis and clearance of 'vin ros\u00e9' (reddish-orange) ferrioxamine in the urine",
+        "ACUTE IRON POISONING is a leading cause of pediatric toxic death. Ingestion of >40-60 mg/kg of elemental iron produces severe life-threatening toxicity. Pathophysiology: free circulating iron generates reactive hydroxyl radicals via the Fenton reaction, causing direct mucosal corrosion, lipid peroxidation, mitochondrial membrane destruction, uncoupling of oxidative phosphorylation, and capillary leak. Classical clinical progression occurs in 5 STAGES: (1) Stage 1 (0-6 hrs): GASTROINTESTINAL TOXICITY (severe vomiting, hematemesis, bloody diarrhea, abdominal pain); (2) Stage 2 (6-24 hrs): LATENT / STABILITY PHASE (GI symptoms subside, falsely suggesting recovery, while cellular mitochondrial toxicity continues); (3) Stage 3 (12-48 hrs): CARDIOPULMONARY AND METABOLIC COLLAPSE (severe lactic acidosis, vasodilatory/hypovolemic shock, ARDS); (4) Stage 4 (2-5 days): FULMINANT HEPATIC NECROSIS (jaundice, coagulopathy); and (5) Stage 5 (2-6 weeks): GASTRIC OUTLET OBSTRUCTION (cicatricial fibrotic strictures of the pylorus or antrum). Radiopaque pills on KUB and serum iron > 500 microg/dL confirm severe toxicity. Management: (1) Aggressive IV crystalloid resuscitation; and (2) SPECIFIC CHELATOR: INTRAVENOUS DEFEROXAMINE (15 mg/kg/hr IV continuous infusion). Deferoxamine binds free ferric iron to form stable, water-soluble FERRIOXAMINE, which is excreted by the kidneys, classically turning urine a distinct 'VIN ROS\u00c9' (reddish-orange) color. Deferoxamine is continued until the patient is clinically stable, acidosis has resolved, and the urine vin ros\u00e9 color clears."
+      ],
+      [
+        "Administer oral activated charcoal 1 g/kg repeated every 4 hours for 3 doses",
+        "Iron is a small heavy metal that does NOT adsorb to activated charcoal; charcoal is completely ineffective for iron toxicity and obscures endoscopy."
+      ],
+      [
+        "Initiate oral penicillamine chelation therapy targeting enteric iron crystallization",
+        "Penicillamine chelates copper and cystine, having zero role in acute heavy metal iron toxicity and failing to stop mitochondrial shock."
+      ],
+      [
+        "Administer intravenous sodium bicarbonate to achieve urinary alkalinization and promote iron precipitation",
+        "Alkaline diuresis does not enhance iron elimination and promotes ferric hydroxide precipitation in tissues, worsening toxicity."
+      ],
+      [
+        "Perform emergent total gastrectomy with Roux-en-Y reconstruction to remove corrosive mucosal injury",
+        "Total gastrectomy is an extreme, disfiguring surgery completely unwarranted for acute iron poisoning; deferoxamine chelation cures toxicity."
+      ]
+    ],
+    "shortestValidSolution": "Toddler + prenatal iron pills + hematemesis/shock + radiopaque pills on KUB + Iron 680 = Iron toxicity -> IV Deferoxamine (vin ros\u00e9 urine).",
+    "necessaryInference": "Recognize the stages and severity of pediatric iron poisoning (radiopaque pills, severe metabolic acidosis) and select IV deferoxamine chelation.",
+    "strongestDistractor": "Administer oral activated charcoal 1 g/kg repeated every 4 hours for 3 doses",
+    "distractorExclusion": "Elemental iron does not bind to activated charcoal; charcoal administration is completely useless and obstructs visualization during endoscopy.",
+    "citation": "Tenenbein M. Toxicokinetics and toxicodynamics of iron poisoning. Toxicol Lett. 1998;102-103:653-656. PMID: 10022329.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 pediatrics/emergency toxicology item testing recognition of acute iron poisoning stages, radiopacity on KUB, and deferoxamine chelation endpoints.",
+      "distractorExclusionNotes": "Distractors feature useless activated charcoal (iron does not bind), copper-specific penicillamine, alkaline diuresis, and radical gastrectomy.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0638",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Adult Lead Toxicity Occupational Plumbism and Succimer",
+    "provisionalDifficulty": 5,
+    "stem": "A 44-year-old man presents to the occupational medicine clinic complaining of chronic, severe colicky abdominal pain, persistent constipation, fatigue, cognitive 'brain fog,' and progressive weakness in his hands over the past 4 months. He has worked for the past 6 years at a commercial lead-acid battery manufacturing and recycling facility, where he admits to inconsistent use of personal protective equipment and occasionally eating lunch in the workshop area. Physical examination reveals an alert man with pale conjunctivae. Inspection of the oral cavity reveals a prominent, hyperpigmented bluish-black line along the gingival margins abutting the teeth (Burton line). Neurologic examination demonstrates bilateral upper extremity motor weakness that is strikingly more pronounced in wrist and finger extensors (bilateral wrist drop) with preserved sensory perception. Complete blood count demonstrates: hemoglobin 9.8 g/dL, MCV 74 fL (microcytic anemia), and normal platelet and white blood cell counts. Peripheral blood smear reveals prominent BASOPHILIC STIPPLING of erythrocytes. Serum creatinine and liver transaminases are normal. Confirmatory whole blood lead level (BLL) is markedly elevated at 78 microg/dL (normal < 5 microg/dL; OSHA medical removal threshold >= 50-60 microg/dL). Which of the following is the most appropriate management plan?",
+    "choices": [
+      [
+        "Immediately remove the patient from the occupational lead exposure environment, report the case to public health/OSHA authorities, and initiate oral chelation therapy with succimer (DMSA) or parenteral calcium disodium EDTA",
+        "This patient exhibits severe CHRONIC ADULT LEAD TOXICITY (PLUMBISM), acquired occupationally (battery manufacturing, smelting, radiator repair, demolition/painting). Pathophysiology: lead binds sulfhydryl groups on multiple enzymes: (1) Inactivates DELTA-AMINOLEVULINIC ACID DEHYDRATASE (ALAD) and FERROCHELATASE, blocking heme synthesis, causing microcytic anemia with elevated zinc protoporphyrin; (2) Inhibits PYRIMIDINE 5'-NUCLEOTIDASE, preventing ribosomal RNA degradation, producing coarse BASOPHILIC STIPPLING on peripheral blood smear; (3) Inactivates sulfhydryl enzymes in vascular smooth muscle and enteric nerves, causing severe, episodic ABDOMINAL COLIC ('lead colic') and constipation; (4) Causes segmental demyelination and axonal degeneration of peripheral motor nerves, classically manifesting as BILATERAL MOTOR PERIPHERAL NEUROPATHY WITH WRIST DROP AND FOOT DROP (sparing sensory nerves); and (5) Subepithelial deposition of lead sulfide precipitating with bacterial hydrogen sulfide in the gingival sulcus produces the bluish-purple BURTON LINE. Management: (1) IMMEDIATE OCCUPATIONAL REMOVAL (mandatory OSHA medical removal protection for BLL >= 50-60 microg/dL) and workplace inspection; and (2) CHELATION THERAPY: for symptomatic adult plumbism or BLL >= 70-80 microg/dL, initiate ORAL SUCCIMER (dimercaptosuccinic acid, DMSA) or INTRAVENOUS CALCIUM DISODIUM EDTA (CaNa2-EDTA). Note that BAL (dimercaprol) is co-administered with EDTA for severe lead encephalopathy, but calcium EDTA alone without BAL must never be given alone in encephalopathy."
+      ],
+      [
+        "Prescribe oral iron sulfate 325 mg three times daily and allow the patient to continue working in the battery plant without restrictions",
+        "Microcytic anemia here is caused by lead-induced enzyme inhibition, not simple iron deficiency; iron does not treat lead toxicity and continued exposure leads to nephropathy and encephalopathy."
+      ],
+      [
+        "Administer intramuscular pralidoxime (2-PAM) and high-dose intravenous atropine",
+        "Pralidoxime and atropine treat organophosphate poisoning; they do not chelate heavy metals or clear lead from bone and soft tissues."
+      ],
+      [
+        "Perform bilateral surgical carpal tunnel release to decompress the median nerves at the wrist",
+        "The patient has motor extensor weakness (radial nerve distribution: wrist drop) sparing sensory fibers, caused by lead axonopathy, not median nerve carpal tunnel entrapment."
+      ],
+      [
+        "Initiate oral d-penicillamine monotherapy while continuing full-time battery recycling work",
+        "Penicillamine is an inferior second-line chelator with significant nephrotoxic/allergic risks; chelating a patient without removing them from ongoing occupational exposure dramatically increases lead absorption."
+      ]
+    ],
+    "shortestValidSolution": "Battery worker + lead colic + wrist drop + basophilic stippling + Burton line + BLL 78 = Adult lead poisoning -> OSHA removal + Chelation with Succimer/EDTA.",
+    "necessaryInference": "Recognize adult lead toxicity features (colic, wrist drop, basophilic stippling) and implement dual management: immediate occupational removal and chelation with succimer/EDTA.",
+    "strongestDistractor": "Prescribe oral iron sulfate 325 mg three times daily and allow the patient to continue working in the battery plant without restrictions",
+    "distractorExclusion": "Microcytic anemia in plumbism is caused by ferrochelatase inhibition, not iron deficiency; continuing exposure leads to chronic lead nephropathy and encephalopathy.",
+    "citation": "Kosnett MJ, Wedeen RP, Rothenberg SJ, et al. Recommendations for medical management of adult lead exposure. Environ Health Perspect. 2007;115(3):463-471. PMID: 17431500.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 occupational medicine/toxicology/hematology item testing recognition of adult lead poisoning (basophilic stippling, wrist drop, colic) and OSHA removal/succimer chelation.",
+      "distractorExclusionNotes": "Distractors feature ineffective iron therapy with continued exposure, organophosphate antidotes, inappropriate carpal tunnel surgery for radial drop, and chelation without removal.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0639",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Methemoglobinemia Methylene Blue and G6PD Deficiency",
+    "provisionalDifficulty": 5,
+    "stem": "A 28-year-old man with leprosy receiving daily oral dapsone therapy presents to the emergency department with progressive fatigue, shortness of breath, and blue-gray discoloration of his lips and fingers for 24 hours. Physical examination reveals an alert man with striking slate-blue cyanosis of his lips, tongue, and nail beds that does not improve after 15 minutes of breathing 100% oxygen via a non-rebreather face mask. Vital signs: blood pressure 118/74 mm Hg, pulse 106/min, and respirations 22/min. Standard fingertip pulse oximetry displays an oxygen saturation of 85% and remains fixed at 85% despite supplemental oxygen. Arterial puncture yields blood that is visibly dark, chocolate-brown in color and fails to turn bright red upon exposure to air. An arterial blood gas with co-oximetry demonstrates: pH 7.38, PaCO2 36 mm Hg, PaO2 184 mm Hg, and calculated METHEMOGLOBIN (MetHb) of 34% (normal < 1.5%). His medical chart reveals a documented history of severe erythrocyte glucose-6-phosphate dehydrogenase (G6PD) deficiency. Which of the following is the most appropriate management regarding antidote selection for this patient?",
+    "choices": [
+      [
+        "Administer high-dose intravenous ascorbic acid (vitamin C) and avoid methylene blue, because methylene blue is ineffective and can trigger massive, life-threatening hemolysis in patients with G6PD deficiency",
+        "METHEMOGLOBINEMIA occurs when the ferrous iron (Fe2+) in hemoglobin heme moieties is oxidized to the FERRIC (Fe3+) STATE. Ferric iron cannot bind oxygen; furthermore, it allosterically shifts the remaining normal heme groups to the left, impairing oxygen delivery to tissues. Triggers: oxidizing drugs such as DAPSONE, TOPICAL ANESTHETICS (BENZOCAINE spray used for transesophageal echocardiography or endoscopy, prilocaine), NITRITES/NITRATES, and sulfonamides. Diagnostic triad: (1) REFRACTORY CYANOSIS unresponsive to 100% oxygen; (2) FINGERTIP PULSE OXIMETRY FIXED AT APPROXIMATELY 85% (methemoglobin absorbs both 660 nm and 940 nm wavelengths equally, confounding standard dual-wavelength oximeters into calculating an R-ratio of 1.0, which corresponds mathematically to 85%); (3) CHOCOLATE-BROWN BLOOD that does not turn red with oxygenation; and (4) High PaO2 on ABG (dissolved oxygen is normal) with elevated MetHb on CO-OXIMETRY. Standard first-line therapy for symptomatic MetHb > 20-30% is INTRAVENOUS METHYLENE BLUE (1-2 mg/kg), which acts as a cofactor for NADPH-methemoglobin reductase to reduce MetHb back to Fe2+ hemoglobin. HOWEVER, A CRITICAL CONTRAINDICATION IS G6PD DEFICIENCY: NADPH-methemoglobin reductase requires NADPH generated exclusively by the G6PD/pentose phosphate pathway. In G6PD deficiency: (1) Methylene blue CANNOT BE REDUCED TO LEUCOMETHYLENE BLUE, rendering it completely INEFFECTIVE; and (2) Unreduced methylene blue acts as an oxidant, directly triggering CATASTROPHIC MASSIVE INTRAVASCULAR HEMOLYSIS AND ACUTE RENAL FAILURE. Therefore, IN G6PD-DEFICIENT PATIENTS, METHYLENE BLUE IS STRICTLY CONTRAINDICATED; FIRST-LINE MANAGEMENT IS HIGH-DOSE INTRAVENOUS ASCORBIC ACID (VITAMIN C) or emergent exchange transfusion."
+      ],
+      [
+        "Administer intravenous methylene blue 2 mg/kg bolus immediately as the mandatory first-line antidote for all patients regardless of enzymatic status",
+        "Methylene blue requires NADPH generated by G6PD; administering it to a G6PD-deficient patient fails to treat methemoglobinemia and precipitates fatal massive hemolysis."
+      ],
+      [
+        "Administer intravenous deferoxamine chelation therapy to chelate the ferric iron from the hemoglobin molecule",
+        "Deferoxamine chelates free iron in acute iron poisoning; it cannot access iron bound inside the porphyrin ring of hemoglobin."
+      ],
+      [
+        "Infuse intravenous sodium nitrite followed by sodium thiosulfate to induce further methemoglobin binding",
+        "Sodium nitrite is an oxidizing agent that creates methemoglobin (used in cyanide poisoning); giving it to an already methemoglobinemic patient is lethal."
+      ],
+      [
+        "Discontinue dapsone and observe without pharmacotherapy because methemoglobinemia resolves spontaneously within 2 hours",
+        "Dapsone has a prolonged elimination half-life (30 hours) with active hydroxylamine metabolites; withholding therapy at MetHb 34% leads to fatal tissue anoxia."
+      ]
+    ],
+    "shortestValidSolution": "Dapsone + chocolate blood + SpO2 85% + MetHb 34% in G6PD DEFICIENCY = Methemoglobinemia in G6PD -> High-dose Ascorbic acid (NO Methylene blue).",
+    "necessaryInference": "Recognize that methylene blue is contraindicated and ineffective in G6PD deficiency due to lack of NADPH, mandating high-dose ascorbic acid or exchange transfusion.",
+    "strongestDistractor": "Administer intravenous methylene blue 2 mg/kg bolus immediately as the mandatory first-line antidote for all patients regardless of enzymatic status",
+    "distractorExclusion": "Methylene blue requires NADPH produced by G6PD; in G6PD deficiency, methylene blue cannot reduce methemoglobin and triggers fulminant massive hemolysis.",
+    "citation": "Skold A, Cosco DL, Klein R. Methemoglobinemia: pathogenesis, diagnosis, and management. South Med J. 2011;104(11):757-761. PMID: 22064843.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/hematology toxicology item testing recognition of methemoglobinemia (dapsone, chocolate blood) and the absolute contraindication of methylene blue in G6PD deficiency.",
+      "distractorExclusionNotes": "Distractors feature lethal methylene blue triggering massive hemolysis in G6PD, iron chelators (deferoxamine), oxidizing nitrites worsening methemoglobin, and passive observation.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0640",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Local Anesthetic Systemic Toxicity Intravenous Lipid Emulsion",
+    "provisionalDifficulty": 4,
+    "stem": "A 56-year-old woman undergoing an elective open reduction and internal fixation of an ankle fracture receives an ultrasound-guided popliteal sciatic nerve block using 20 mL of 0.5% bupivacaine. Approximately 90 seconds after injection, the patient suddenly reports an intense metallic taste in her mouth, numbness and tingling around her lips and tongue, and a loud ringing sound in both ears (tinnitus). Within 30 seconds, she becomes acutely agitated, develops slurred speech, and suffers a witnessed generalized tonic-clonic seizure lasting 45 seconds. The surgical team administers intravenous midazolam 2 mg, which terminates the motor seizure. However, 1 minute later, the patient becomes unresponsive and cyanotic. Bedside telemetry demonstrates rapid, wide-complex polymorphic ventricular tachycardia that rapidly deteriorates into pulseless ventricular fibrillation and cardiovascular collapse. Pulse is absent, and chest compressions are initiated immediately according to ACLS guidelines. Which of the following is the most appropriate specific pharmacologic antidote to administer immediately alongside resuscitation?",
+    "choices": [
+      [
+        "Administer an immediate intravenous bolus of 20% lipid emulsion (1.5 mL/kg) followed by a continuous infusion (0.25 mL/kg/min)",
+        "This patient exhibits fulminant LOCAL ANESTHETIC SYSTEMIC TOXICITY (LAST), a life-threatening complication resulting from accidental intravascular injection or rapid systemic absorption of local anesthetics, most notoriously LIPOPHILIC AMIDE ANESTHETICS (BUPIVACAINE, levobupivacaine, ropivacaine). Pathophysiology: bupivacaine has a very high lipid solubility and strong affinity for cardiac voltage-gated sodium channels (Nav1.5), producing fast sodium channel blockade and slowly dissociating from cardiac receptors during diastole ('fast in, slow out' kinetics). This causes severe conduction delays, refractory ventricular arrhythmias, and profound myocardial contractile depression. Clinical progression: (1) EARLY CNS SYMPTOMS: perioral numbness, metallic taste, tinnitus, visual disturbances, dizziness, dysarthria; (2) EXCITATORY CNS PHASE: muscle twitching, agitation, generalized tonic-clonic seizures; (3) CNS DEPRESSION: coma, respiratory arrest; and (4) CARDIOVASCULAR COLLAPSE: refractory bradycardia, AV block, ventricular tachycardia/fibrillation, and asystole. The DEFINITIVE SPECIFIC ANTIDOTE IS INTRAVENOUS LIPID EMULSION (ILE, 20% Intralipid). Mechanisms: (1) 'LIPID SINK / METABOLIC SPONGE': creates a new intravascular lipid phase that rapidly extracts lipophilic bupivacaine away from target tissues (myocardium and brain); and (2) METABOLIC EFFECT: directly provides fatty acid substrate to stunned myocardium, overcoming bupivacaine-mediated mitochondrial inhibition. Protocol (ASRA guidelines): 20% lipid emulsion 1.5 mL/kg IV bolus over 1 minute, followed by continuous infusion of 0.25 mL/kg/min. Standard ACLS epinephrine dosing should be reduced (use small doses <= 1 microg/kg) and vasopressin and calcium channel blockers avoided."
+      ],
+      [
+        "Administer high-dose intravenous lidocaine 1.5 mg/kg bolus to suppress ventricular fibrillation",
+        "Lidocaine is a Class IB local anesthetic with identical sodium channel blocking action; administering lidocaine in LAST compounds toxic anesthetic burden, cementing fatal asystole."
+      ],
+      [
+        "Administer high-dose intravenous flumazenil 1 mg bolus repeated every 2 minutes",
+        "Flumazenil is a benzodiazepine antagonist that lowers the seizure threshold; it has zero binding affinity for local anesthetics or cardiac sodium channels."
+      ],
+      [
+        "Infuse 3 ampuls of intravenous sodium polystyrene sulfonate resin into the central venous catheter",
+        "Sodium polystyrene sulfonate is an enteric ion-exchange resin used for hyperkalemia; infusing it intravenously causes catastrophic fatal microvascular pulmonary embolization."
+      ],
+      [
+        "Administer intravenous procainamide 15 mg/kg infusion over 30 minutes to stabilize the ventricular myocardium",
+        "Procainamide is a Class IA sodium channel blocker; combining it with bupivacaine toxicity fatally exacerbates sodium channel blockade and cardiovascular collapse."
+      ]
+    ],
+    "shortestValidSolution": "Bupivacaine nerve block + metallic taste/seizures + sudden VF cardiac arrest = LAST -> Immediate 20% IV Lipid Emulsion (Lipid sink).",
+    "necessaryInference": "Recognize local anesthetic systemic toxicity (LAST) and select the specific antidote: immediate 20% intravenous lipid emulsion while avoiding lidocaine.",
+    "strongestDistractor": "Administer high-dose intravenous lidocaine 1.5 mg/kg bolus to suppress ventricular fibrillation",
+    "distractorExclusion": "Lidocaine is a local anesthetic; giving it during LAST compounds toxic anesthetic burden and guarantees fatal irreversible asystole.",
+    "citation": "Neal JM, Barrington MJ, Fettiplace MR, et al. The Third American Society of Regional Anesthesia and Pain Medicine Practice Advisory on Local Anesthetic Systemic Toxicity: Executive Summary 2017. Reg Anesth Pain Med. 2018;43(2):113-123. PMID: 29356773.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 anesthesiology/critical care emergency item testing recognition of LAST (bupivacaine toxicity) and immediate 20% lipid emulsion therapy.",
+      "distractorExclusionNotes": "Distractors feature compounding local anesthetics (lidocaine), pro-convulsant flumazenil, fatal IV sodium polystyrene sulfonate, and compounding Class IA procainamide.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0641",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Severe Heat Stroke Whole-Body Ice Water Immersion",
+    "provisionalDifficulty": 5,
+    "stem": "A 19-year-old military recruit collapses during a strenuous 10-mile road march while carrying a 40-pound pack on a hot, humid summer morning (ambient temperature 36 C [96.8 F], relative humidity 82%). When emergency medical personnel reach him, he is obtunded, combative, and disoriented. On arrival at the base medical tent, the patient is unresponsive to verbal stimuli, withdraws non-purposefully to deep pain, and exhibits continuous generalized muscle twitching. Vital signs show: core rectal temperature 41.2 C (106.2 F), blood pressure 86/48 mm Hg, pulse 148/min, and respirations 32/min. Physical examination reveals warm, flushed, moist skin with profuse diaphoresis, dilated pupils, and clear lung fields. Neurologic examination shows severe encephalopathy, bilateral decerebrate posturing to noxious stimuli, and hyperreflexia. Point-of-care laboratory evaluation demonstrates: blood glucose 94 mg/dL, serum sodium 144 mEq/L, potassium 5.6 mEq/L, blood urea nitrogen 34 mg/dL, serum creatinine 2.2 mg/dL, and venous blood gas pH 7.18 with serum lactate 9.8 mmol/L. Which of the following is the most appropriate immediate life-saving intervention?",
+    "choices": [
+      [
+        "Immediate whole-body cold water or ice water immersion (or aggressive evaporative and convective cooling) targeting a rapid core temperature reduction below 39.0 C, while strictly avoiding antipyretics like acetaminophen or aspirin",
+        "This patient exhibits fulminant EXERTIONAL HEAT STROKE (EHS), a hyperthermic environmental emergency characterized by failure of the body's thermoregulatory mechanisms during strenuous physical exertion in hot/humid conditions. Classic definition of heat stroke: (1) CORE BODY TEMPERATURE > 40.0 C (104.0 F), measured via RECTAL or esophageal probe (tympanic, axillary, and oral thermometers are notoriously inaccurate and falsely low); and (2) CENTRAL NERVOUS SYSTEM (CNS) DYSFUNCTION (delirium, coma, seizures, decerebrate posturing, ataxia). Note that diaphoresis MAY BE PRESENT in exertional heat stroke (present in ~50% of recruits/athletes), whereas classic non-exertional heat stroke in the elderly typically features hot, dry, anhidrotic skin. Pathophysiology: extreme core hyperthermia drives systemic inflammatory response syndrome (SIRS), direct thermal tissue cytotoxicity, endothelial injury, rhabdomyolysis, acute kidney injury, and DIC. TIME TO COOLING IS THE CRITICAL SURVIVAL DETERMINANT: 'COOL FIRST, TRANSPORT SECOND.' The GOLD STANDARD AND MOST EFFECTIVE TREATMENT IS WHOLE-BODY ICE WATER OR COLD WATER IMMERSION (cooling rate 0.2-0.35 C/min), rapidly lowering core temperature to a target of 38.5-39.0 C within 30 minutes (cooling is ceased at 38.5-39.0 C to prevent rebound hypothermia). CRITICAL RULE: ANTIPYRETICS (ACETAMINOPHEN, ASPIRIN, NSAIDs) ARE STRICTLY CONTRAINDICATED; the elevated temperature in heat stroke is driven by environmental/metabolic heat overload, NOT an altered hypothalamic set-point. Antipyretics have ZERO efficacy and severely exacerbate hepatic necrosis (acetaminophen) and coagulopathy/GI bleeding (aspirin)."
+      ],
+      [
+        "Administer oral or rectal acetaminophen 1,000 mg combined with intravenous ketorolac to reset the hypothalamic set-point",
+        "Antipyretics are completely ineffective in heat stroke because the hypothalamic set-point is normal; acetaminophen worsens acute liver injury and NSAIDs exacerbate acute kidney injury."
+      ],
+      [
+        "Infuse 3 liters of warm 0.9% normal saline over 30 minutes to prevent peripheral cutaneous vasoconstriction",
+        "Infusing warm fluids into a patient with a core temperature of 41.2 C severely accelerates thermal brain damage, multi-organ failure, and death."
+      ],
+      [
+        "Administer high-dose intravenous dantrolene 2.5 mg/kg bolus as specific pharmacotherapy for ryanodine receptor activation",
+        "Clinical trials have proven that dantrolene has zero efficacy in environmental exertional heat stroke; physical ice water immersion is mandatory."
+      ],
+      [
+        "Apply isopropyl alcohol-soaked towels across the chest and extremities to promote rapid cutaneous surface evaporation",
+        "Isopropyl alcohol soaks carry a high risk of systemic cutaneous alcohol absorption, neurotoxicity, coma, and severe hypoglycemia, especially in children and young adults."
+      ]
+    ],
+    "shortestValidSolution": "Military recruit + temp 41.2 C + coma/decerebrate posturing + lactate 9.8 = Exertional heat stroke -> Immediate Whole-Body Ice Water Immersion (NO antipyretics).",
+    "necessaryInference": "Recognize exertional heat stroke (temp > 40 C + CNS dysfunction) and select immediate ice water immersion to <39 C while avoiding contraindicated antipyretics.",
+    "strongestDistractor": "Administer oral or rectal acetaminophen 1,000 mg combined with intravenous ketorolac to reset the hypothalamic set-point",
+    "distractorExclusion": "Heat stroke is an environmental failure of heat dissipation, not a hypothalamic fever; antipyretics have zero efficacy and worsen acute hepatic and renal necrosis.",
+    "citation": "Lipman GS, Eifling KP, Ellis MA, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2019 Update. Wilderness Environ Med. 2019;30(4S):S33-S46. PMID: 31662241.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/environmental medicine item testing recognition of exertional heat stroke, cold water immersion cooling, and contraindication to antipyretics.",
+      "distractorExclusionNotes": "Distractors feature ineffective/toxic antipyretics (acetaminophen/NSAIDs), fatal warm fluids, disproven dantrolene for environmental heat, and toxic alcohol sponging.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0642",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Severe Accidental Hypothermia Active Internal Rewarming and ECMO",
+    "provisionalDifficulty": 4,
+    "stem": "A 54-year-old unhoused man with a history of alcohol use disorder is found unresponsive in a snowdrift during a subzero winter blizzard (ambient temperature -15 C [5 F]). Emergency medical services transport him to the emergency department while performing gentle bag-valve-mask ventilation. On arrival, the patient is comatose, rigid, and completely unresponsive. Central pulses are barely palpable, very slow, and thready. Vital signs measured with an indwelling esophageal low-reading temperature probe demonstrate a CORE BODY TEMPERATURE OF 24.2 C (75.5 F, severe accidental hypothermia). Blood pressure is 64/38 mm Hg, heart rate is 24/min, and respirations are 6/min. The skin is cold, pale, and cyanotic with generalized muscular rigidity. Pupils are fixed and dilated bilaterally. Twelve-lead ECG reveals marked sinus bradycardia, a markedly prolonged PR and QT interval, and prominent, positive, dome-shaped deflection waves at the J-point (junction of the QRS complex and ST segment) measuring 4 mm in leads II, III, aVF, and V3-V6 (Osborne J waves). Which of the following represents the most appropriate management regarding resuscitation and rewarming?",
+    "choices": [
+      [
+        "Handle the patient with extreme gentleness to avoid triggering ventricular fibrillation, initiate active internal and core rewarming (warmed humidified oxygen, warmed intravenous isotonic crystalloid at 40-42 C, and consider venoarterial ECMO or cardiopulmonary bypass), and enforce the clinical principle: 'the patient is not dead until warm and dead'",
+        "SEVERE ACCIDENTAL HYPOTHERMIA is defined by a CORE BODY TEMPERATURE < 28.0 C (< 82.4 F). Classification: Mild (32-35 C, shivering, intact consciousness); Moderate (28-32 C, loss of shivering, altered mental status, bradycardia); Severe (<28 C, coma, severe bradycardia, hypotension, loss of reflexes, pulmonary edema); and Profound (<24 C, apparent death). Hallmark ECG finding: OSBORNE J WAVES (hypothermic waves), which are positive deflections at the J-point proportional in amplitude to the degree of hypothermia. Critical management rules: (1) EXTREME GENTLENESS: the hypothermic myocardium is exquisitely irritable; rough movement, sudden position changes, or aggressive endotracheal suctioning can easily trigger REFRACTORY VENTRICULAR FIBRILLATION OR ASYSTOLE; (2) ADVANCED CORE REWARMING: passive and active external rewarming (warm blankets) alone are inadequate and can trigger 'CORE TEMPERATURE AFTERDROP' and 'REWINDING SHOCK' (peripheral vasodilation shunting cold, acidotic blood back to the heart). Treatment of choice for severe hypothermia with circulatory instability or cardiac arrest is EXTRACORPOREAL LIFE SUPPORT (ECLS: VENOARTERIAL ECMO or CARDIOPULMONARY BYPASS), which rewarms blood rapidly (1-2 C every 5 minutes) while providing full circulatory support. Alternative active core methods: heated humidified oxygen (40-45 C), warmed IV fluids (40-42 C), and thoracic/peritoneal cavity lavage; and (3) RESUSCITATION MANDATE: hypothermia is neuroprotective against prolonged cerebral anoxia. Fixed, dilated pupils and unrecordable pulses do NOT indicate brain death. The universal resuscitation dictum is: 'A PATIENT IS NOT DEAD UNTIL THEY ARE WARM AND DEAD' (core temperature must be restored to >= 32-35 C before pronouncing death or abandoning CPR)."
+      ],
+      [
+        "Pronounce the patient dead immediately in the emergency department based on fixed, dilated pupils and a core temperature of 24.2 C",
+        "Fixed dilated pupils and profound bradycardia are reversible manifestations of severe hypothermia; declaring death before active rewarming to >=32 C violates medical resuscitation standards."
+      ],
+      [
+        "Administer rapid intravenous boluses of epinephrine 1 mg and amiodarone 300 mg every 3 minutes",
+        "ACLS drugs (epinephrine, antiarrhythmics) are ineffective in severe hypothermia (<30 C), accumulate to toxic levels in the cold liver, and trigger fatal ventricular fibrillation upon rewarming."
+      ],
+      [
+        "Apply rapid active external warming blankets exclusively to the arms and legs while leaving the core unheated",
+        "Warming the extremities first triggers peripheral vasodilation, causing cold acidotic pooled blood to rush into the central circulation ('core afterdrop'), inducing fatal cardiac arrest."
+      ],
+      [
+        "Perform immediate bedside transvenous cardiac pacing to elevate the heart rate to 80/min",
+        "Inserting pacing wires into an exquisitely irritable hypothermic right ventricle triggers immediate, refractory ventricular fibrillation."
+      ]
+    ],
+    "shortestValidSolution": "Core temp 24.2 C + Osborne J waves + comatose = Severe hypothermia -> Gentle handling + Active core rewarming (ECMO/bypass) + Not dead until warm and dead.",
+    "necessaryInference": "Apply severe hypothermia protocols: gentle handling to prevent VF, active core rewarming (ECMO), avoidance of standard ACLS meds, and rewarming before death declaration.",
+    "strongestDistractor": "Administer rapid intravenous boluses of epinephrine 1 mg and amiodarone 300 mg every 3 minutes",
+    "distractorExclusion": "Standard ACLS drugs are withheld or spaced at long intervals when core temp < 30 C because hypothermic metabolic arrest causes drug accumulation and toxic VF upon rewarming.",
+    "citation": "Brown DJ, Brugger H, Boyd J, et al. Accidental hypothermia. N Engl J Med. 2012;367(20):1930-1938. PMID: 23150960.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/critical care toxicology item testing severe hypothermia resuscitation (Osborne J waves, active core rewarming, 'not dead until warm and dead').",
+      "distractorExclusionNotes": "Distractors feature premature declaration of death, toxic ACLS drug accumulation <30 C, fatal external extremity rewarming causing core afterdrop, and pacing-induced VF.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0643",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Lightning Strike Reverse Triage and Lichtenberg Figures",
+    "provisionalDifficulty": 5,
+    "stem": "During a sudden severe thunderstorm at an outdoor golf tournament, a bolt of lightning strikes a tall oak tree near a shelter where four spectators are standing. Emergency medical personnel arrive on the scene 3 minutes later. A mass-casualty triage protocol is initiated. The four victims are assessed simultaneously: Victim A is screaming and clutching his right wrist with a superficial forearm laceration; Victim B is awake, weeping, and complaining of severe bilateral hearing loss and ringing in his ears, with otoscopy showing bilateral ruptured tympanic membranes; Victim C is conscious, sitting against a bench with extensive, branching, fern-like, erythematous dendritic cutaneous marks across his shoulders and chest (Lichtenberg figures); Victim D is lying supine on the ground, completely pulseless, apneic, and unresponsive with cyanotic lips. Under standard disaster triage rules (e.g., START triage), pulseless and apneic patients are tagged 'Black' (Expectant / Deceased) to direct resources to salvageable victims. Which of the following is the most appropriate management rule for this lightning mass-casualty scenario?",
+    "choices": [
+      [
+        "Enforce 'reverse triage': prioritize immediate cardiopulmonary resuscitation and airway rescue for Victim D (the pulseless, apneic victim) ahead of the conscious victims",
+        "LIGHTNING STRIKE INJURIES are unique among mass-casualty incidents, mandating a fundamental reversal of standard triage protocols known as 'REVERSE TRIAGE.' Pathophysiology: a lightning strike delivers a massive direct current (DC) countershock (up to 300 million volts and 30,000 amps over milliseconds). This massive electrical discharge causes SIMULTANEOUS TOTAL DEPOLARIZATION OF THE ENTIRE MYOCARDIUM, producing IMMEDIATE PRIMARY CARDIAC ARREST (ASYSTOLE or fine ventricular fibrillation). However, cardiac myocytes have intrinsic automaticity; the heart often resumes spontaneous sinus rhythm shortly after depolarization. In contrast, the MEDULLARY RESPIRATORY CENTER REMAINS SEVERELY PARALYZED for a prolonged duration. If the patient does not receive immediate artificial ventilation, the spontaneous cardiac rhythm is rapidly overcome by hypoxic cardiac arrest, leading to permanent secondary asystole and death. Furthermore, because young, healthy victims often recover completely if ventilated during the period of medullary respiratory paralysis, PULSELESS AND APNEIC VICTIMS HAVE AN EXCELLENT RESUSCITATION PROGNOSIS IF CPR IS BEGUN IMMEDIATELY. Conscious victims (even with burns, fractures, or ruptured eardrums) have already survived the initial strike and are stable. Unique physical signs: (1) LICHTENBERG FIGURES (arborescent, fern-like, feathering erythematous cutaneous arborizations caused by subcutaneous tracking of electrical current and capillary extravasation, pathognomonic for lightning, non-thermal, resolves in 24-48 hours); (2) TYMPANIC MEMBRANE PERFORATION (in >50-80% due to explosive barotrauma from heated air expansion); and (3) Cataracts (delayed complication)."
+      ],
+      [
+        "Follow standard START triage protocol: tag Victim D 'Black' (Deceased) and direct all medical personnel to dress Victim A's forearm laceration",
+        "Applying standard triage in lightning strikes is a classic lethal error; pulseless victims of lightning strikes have high survival rates with prompt CPR and should be prioritized first."
+      ],
+      [
+        "Perform emergent surgical tangential skin debridement on Victim C to excise the branching Lichtenberg cutaneous marks",
+        "Lichtenberg figures are not thermal burns and contain no necrotic tissue; they represent cutaneous electron tracking that resolves spontaneously without treatment."
+      ],
+      [
+        "Administer high-dose intravenous succinylcholine to Victim B to relax laryngeal muscles and prevent post-blast laryngospasm",
+        "Succinylcholine induces muscle fasciculations and hyperkalemia; Victim B has isolated acoustic barotrauma (ruptured eardrums) and requires no neuromuscular paralysis."
+      ],
+      [
+        "Perform immediate bilateral needle thoracostomies on all four patients prior to physical examination",
+        "Needle thoracostomy is indicated strictly for tension pneumothorax with hemodynamic collapse; blind needle placement in all victims risks lung laceration and hemothorax."
+      ]
+    ],
+    "shortestValidSolution": "Lightning strike mass casualty = Reverse Triage -> Prioritize pulseless/apneic victim D (high recovery rate with immediate CPR) over conscious victims.",
+    "necessaryInference": "Apply the principle of 'reverse triage' in lightning strikes: prioritize cardiopulmonary resuscitation for pulseless/apneic victims because medullary respiratory paralysis is reversible.",
+    "strongestDistractor": "Follow standard START triage protocol: tag Victim D 'Black' (Deceased) and direct all medical personnel to dress Victim A's forearm laceration",
+    "distractorExclusion": "Standard triage assigns dead/expectant status to non-breathing victims; lightning strike mandates reverse triage because prompt ventilation rescues spontaneous cardiac recovery.",
+    "citation": "Davis C, Engeln A, Johnson EL, et al. Wilderness Medical Society practice guidelines for prevention and treatment of lightning injuries: 2014 update. Wilderness Environ Med. 2014;25(4 Suppl):S86-S95. PMID: 25498265.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 disaster medicine/emergency environmental toxicology item testing the concept of 'reverse triage' in lightning strikes and Lichtenberg figures.",
+      "distractorExclusionNotes": "Distractors feature standard START triage resulting in preventable death, surgical excision of harmless Lichtenberg ferning, paralytics for eardrums, and blind chest needles.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0644",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Crotaline Snake Envenomation Antivenom CroFab Indications",
+    "provisionalDifficulty": 5,
+    "stem": "A 38-year-old male construction worker is brought to the emergency department in Arizona 90 minutes after being bitten on his right hand by a western diamondback rattlesnake (Crotalus atrox) while clearing brush. On arrival, he reports severe, excruciating, burning pain radiating up his right forearm. Physical examination reveals two distinct puncture wounds 1.5 cm apart over the dorsal first web space of his right hand. There is marked erythema, edema, and ecchymosis extending from the hand to the mid-forearm, with an early hemorrhagic bleb forming at the puncture site. Radial pulse is palpable and capillary refill is 2 seconds. The leading edge of the erythema and edema is advancing visibly proximally by 2 cm every 30 minutes. The patient's friends placed a tight rubber tourniquet around his upper arm and made razor cuts across the puncture wounds in an attempt to suck out the venom. Vital signs: blood pressure 104/64 mm Hg, pulse 112/min, and respirations 20/min. Laboratory studies demonstrate: platelet count 44,000/microL (normal 150,000-450,000), fibrinogen 68 mg/dL (markedly decreased; normal 200-400), prothrombin time (PT) 24.2 seconds (INR 2.2), and aPTT 54 seconds. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      [
+        "Remove the tourniquet, elevate the extremity, measure and mark the leading edge of edema every 15 to 30 minutes, and administer intravenous Crotalidae polyvalent immune Fab (CroFab) antivenom immediately",
+        "This patient exhibits severe CROTALINE SNAKE ENVENOMATION (North American pit vipers: rattlesnakes, copperheads, cottonmouths/water moccasins). Crotaline venom is a complex mixture of proteolytic enzymes, metalloproteinases, and phospholipases that cause: (1) LOCAL TISSUE DESTRUCTION: rapid progressive edema, severe pain, ecchymosis, and hemorrhagic bullae; (2) SYSTEMIC COAGULOPATHY: venom enzymes (e.g., crotalase) consume fibrinogen (defibrinogenation syndrome) and destroy platelets, producing marked thrombocytopenia, hypofibrinogenemia, and prolonged PT/aPTT; and (3) SYSTEMIC VASCULAR LEAK: vasodilatory shock and neurotoxicity. Management mandates: (1) REMOVE HARMFUL FIRST-AID MEASURES: TOURNIQUETS, ICE, EXCISION / RAZOR CUTS, AND SUCTION ARE HARMFUL AND CONTRAINDICATED (tourniquets concentrate venom locally causing ischemic gangrene; cutting and suction worsen bleeding and tissue necrosis without removing venom); (2) SERIAL MONITORING: ELEVATE THE LIMB to heart level, mark and measure the leading edge of swelling every 15-30 minutes, and track limb circumference; and (3) DEFINITIVE ANTIVENOM: INTRAVENOUS CROTALIDAE POLYVALENT IMMUNE FAB (CroFab, initial dose 4 to 6 vials IV, titrated until initial control is achieved: cessation of progressing swelling, stabilization of vitals, and reversal of coagulopathy). An alternative is Crotalidae immune F(ab')2 (Anavip)."
+      ],
+      [
+        "Tighten the upper arm rubber tourniquet to completely occlude the brachial artery until surgical exploration",
+        "Arterial tourniquets cause complete limb ischemia, massive local tissue necrosis, compartment syndrome, and gangrene; tourniquets must be removed."
+      ],
+      [
+        "Perform emergency bedside decompressive fasciotomy of all volar and dorsal forearm compartments immediately",
+        "Severe swelling and ecchymosis in crotaline envenomation mimic compartment syndrome, but intracompartmental pressures are usually normal; fasciotomy in a coagulopathic patient causes lethal hemorrhage."
+      ],
+      [
+        "Transfuse four units of fresh frozen plasma and two units of platelets prior to considering antivenom",
+        "Infusing clotting factors and platelets without antivenom simply fuels ongoing venom-mediated enzymatic consumption; antivenom must be given first to neutralize the circulating venom."
+      ],
+      [
+        "Apply ice packs directly over the puncture wounds and apply mechanical suction cups for 2 hours",
+        "Cryotherapy (ice) worsens ischemic cryolesions and causes permanent tissue loss; suction devices fail to extract venom and cause additional mechanical trauma."
+      ]
+    ],
+    "shortestValidSolution": "Rattlesnake bite + advancing swelling + platelets 44k + fibrinogen 68 = Crotaline envenomation -> Remove tourniquet + Limb elevation + IV CroFab antivenom.",
+    "necessaryInference": "Select CroFab antivenom for progressing swelling and coagulopathy in rattlesnake envenomation, while removing harmful tourniquets and avoiding premature fasciotomy.",
+    "strongestDistractor": "Perform emergency bedside decompressive fasciotomy of all volar and dorsal forearm compartments immediately",
+    "distractorExclusion": "True compartment syndrome is rare; venom-induced subcutaneous edema mimics high pressure, and cutting into a patient with severe coagulopathy (platelets 44k) causes fatal hemorrhage.",
+    "citation": "Lavonas EJ, Ruha AM, Banner W, et al. Unified treatment algorithm for the management of crotaline snakebite in the United States: results of an out-of-hospital and in-hospital development conference. BMC Emerg Med. 2011;11:2. PMID: 21291549.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/toxicology item testing crotaline snakebite management (CroFab indications, reversal of harmful first-aid tourniquets, avoiding fasciotomy).",
+      "distractorExclusionNotes": "Distractors feature gangrene-inducing arterial tourniquets, premature hemorrhagic fasciotomy, futile pre-antivenom blood transfusions, and harmful ice/suction.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0645",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Marine Envenomation Hot Water Immersion First Aid",
+    "provisionalDifficulty": 4,
+    "stem": "A 26-year-old man presents to a coastal emergency clinic with excruciating, agonizing pain in his right foot 45 minutes after stepping on an unseen creature while wading in shallow coastal ocean waters in Florida. He describes a sudden, sharp, stabbing sensation on the dorsum of his right foot followed immediately by intense, throbbing pain that is rapidly spreading up his lower leg. Physical examination of the right foot demonstrates a deep, jagged, 2-cm puncture laceration over the first metatarsal head surrounded by an expanding zone of violaceous erythema, intense edema, and cyanotic skin discoloration. A 1-cm serrated, radiopaque spine fragment is visible embedded deep within the soft tissue wound. Vital signs show: blood pressure 146/90 mm Hg (secondary to severe pain), pulse 118/min, and respirations 20/min. Which of the following is the most appropriate immediate first-line intervention to rapidly alleviate this patient's excruciating pain and neutralize the venom?",
+    "choices": [
+      [
+        "Immerse the affected foot immediately in non-scalding hot water (40 to 45 C / 104 to 113 F) for 30 to 90 minutes to thermally denature the heat-labile venom proteins",
+        "This patient exhibits classic MARINE ENVENOMATION, most commonly secondary to a STINGRAY (Dasyatidae family) or venomous marine fish (lionfish, scorpionfish, stonefish, catfish). Pathophysiology: when stepped on, the stingray thrusts its tail upward, driving a caudal, serrated cartilaginous retroverted barb encased in an integumentary venom sheath deep into the victim's foot. The venom consists of multiple THERMOLABILE PROTEIN TOXINS (phosphodiesterases, 5'-nucleotidases, serotonin, hyaluronidase) that cause intense, agonizing, disproportionate local pain, local tissue ischemia, and severe vasospasm. THE IMMEDIATE FIRST-LINE THERAPY AND CORNERSTONE OF TREATMENT IS HOT WATER IMMERSION. The affected extremity should be submerged immediately in NON-SCALDING HOT WATER (temperature tested by an uninjured limb, typically 40-45 C / 104-113 F) for 30 to 90 minutes (or until pain resolves). The heat THERMALLY DENATURES AND INACTIVATES THE HEAT-LABILE PROTEIN VENOM, providing dramatic, near-instantaneous relief of pain. Subsequent management: (1) Local anesthesia / digital nerve block if pain persists; (2) RADIOGRAPHIC EVALUATION (plain radiographs or ultrasound to identify radiopaque retained foreign spine fragments); (3) CAREFUL EXPLORATION, REMOVAL of retained foreign barbs, and meticulous wound irrigation; (4) Tetanus prophylaxis update; and (5) ANTIMICROBIAL PROPHYLAXIS: marine wounds carry high risk of infection with HALOPHILIC MARINE ORGANISMS, specifically VIBRIO VULNIFICUS, Aeromonas hydrophila, and Mycobacterium marinum. Standard empiric coverage includes oral DOXYCYCLINE OR CIPROFLOXACIN."
+      ],
+      [
+        "Apply crushed ice packs and spray ethyl chloride directly onto the laceration to induce localized hypothermic vasoconstriction",
+        "Ice and cold applications in marine envenomations dramatically worsen pain, preserve the active venom proteins, and accelerate tissue necrosis."
+      ],
+      [
+        "Pour household vinegar (5% acetic acid) copiously over the wound to neutralize nematocyst firing",
+        "Vinegar is the specific treatment for jellyfish (Cnidaria) stings to inhibit undischarged nematocysts; it has zero efficacy for stingray or fish spine protein venoms."
+      ],
+      [
+        "Apply a tight venous tourniquet around the ankle and immediately suture the laceration closed with non-absorbable nylon sutures",
+        "Suturing contaminated marine puncture wounds traps halophilic bacteria (Vibrio), producing rapid, fulminant necrotizing fasciitis; wounds should heal by secondary intention."
+      ],
+      [
+        "Administer intravenous antivenom directed against North American crotaline pit viper venoms",
+        "Snake antivenom (CroFab) has zero cross-reactivity with marine protein toxins and exposes the patient to unnecessary allergic and serum sickness risks."
+      ]
+    ],
+    "shortestValidSolution": "Stingray puncture + excruciating foot pain + embedded barb = Marine envenomation -> Hot water immersion (40-45 C) to denature heat-labile protein venom.",
+    "necessaryInference": "Select hot water immersion (40-45 C) as the specific thermal antidote to denature heat-labile marine protein toxins (stingray/lionfish), distinguishing from jellyfish vinegar.",
+    "strongestDistractor": "Pour household vinegar (5% acetic acid) copiously over the wound to neutralize nematocyst firing",
+    "distractorExclusion": "Vinegar treats jellyfish (Cnidaria) stings by deactivating nematocysts; it has no effect on penetrative spine/barb protein envenomations (stingray, scorpionfish).",
+    "citation": "Clark RF, Girard RH, Rao D, et al. Stingray envenomation: a retrospective review of clinical presentation and treatment in 119 cases. J Emerg Med. 2007;33(1):33-37. PMID: 17630073.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/environmental toxicology item testing management of marine spine envenomation (hot water immersion venom denaturing vs jellyfish vinegar).",
+      "distractorExclusionNotes": "Distractors feature pain-worsening ice, jellyfish-specific vinegar, infectious wound closure with tourniquet, and irrelevant snake antivenom.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0646",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "High-Altitude Illness HACE vs HAPE Management",
+    "provisionalDifficulty": 5,
+    "stem": "A 32-year-old experienced mountaineer is evaluated at a base camp medical tent located at an altitude of 4,300 meters (14,100 feet) in the Colorado Rockies. Over the past 36 hours, he ascended rapidly from sea level without rest days. This morning, his climbing partner noted that he became severely confused, could not remember his teammates' names, and had difficulty walking. Physical examination reveals an exhausted, disoriented young man. Vital signs: blood pressure 138/88 mm Hg, heart rate 114/min, respirations 24/min, and oxygen saturation 72% on ambient air. Neurologic examination demonstrates gross truncal and appendicular ataxia, with an inability to perform tandem gait or stand upright with eyes open without falling. Dilated funduscopic examination reveals bilateral papilledema and multiple flame-shaped retinal hemorrhages. Chest auscultation reveals clear lung fields bilaterally without crackles or wheezes. Which of the following represents the most appropriate immediate life-saving intervention and pharmacotherapy?",
+    "choices": [
+      [
+        "Immediate descent to lower altitude (by at least 500 to 1,000 meters) or placement in a portable hyperbaric chamber (Gamow bag), administration of high-flow supplemental oxygen, and initiation of high-dose oral or intravenous dexamethasone",
+        "HIGH-ALTITUDE ILLNESS occurs following rapid ascent to altitudes > 2,500 meters (8,200 feet) where atmospheric hypobaric hypoxia impairs tissue oxygenation. It encompasses three clinical entities: (1) ACUTE MOUNTAIN SICKNESS (AMS): self-limited headache, nausea, fatigue, and dizziness, managed with rest, hydration, and ACETAZOLAMIDE (a carbonic anhydrase inhibitor that induces renal bicarbonate diuresis, producing metabolic acidosis to stimulate hyperventilation); (2) HIGH-ALTITUDE CEREBRAL EDEMA (HACE): the end-stage, life-threatening progression of AMS, characterized by hypoxemia-induced cerebral vasodilation, elevated cerebral capillary pressure, and breakdown of the blood-brain barrier resulting in VASOGENIC CEREBRAL EDEMA. Cardinal hallmarks: ENCEPHALOPATHY (confusion, stupor), TRUNCAL ATAXIA (abnormal tandem gait is the earliest and most sensitive sign of HACE), and PAPILLEDEMA / RETINAL HEMORRHAGES. HACE is fatal within 24 hours if untreated; and (3) HIGH-ALTITUDE PULMONARY EDEMA (HAPE): non-cardiogenic pulmonary edema driven by uneven hypoxic pulmonary vasoconstriction (manifested by dyspnea, cyanosis, and lung crackles, treated with descent, oxygen, and NIFEDIPINE). The DEFINITIVE, MANDATORY TREATMENT FOR HACE IS IMMEDIATE DESCENT (by at least 500-1,000 meters). If descent is delayed by terrain/weather, place the patient immediately in a PORTABLE HYPERBARIC CHAMBER (GAMOW BAG). The SPECIFIC FIRST-LINE DRUG FOR HACE IS DEXAMETHASONE (8 mg IV/oral loading dose, then 4 mg q6h), which rapidly restores blood-brain barrier integrity."
+      ],
+      [
+        "Keep the patient at 4,300 meters to acclimatize naturally, and administer oral acetazolamide 125 mg twice daily as sole therapy",
+        "Acetazolamide is prophylaxis for mild AMS; keeping a patient with HACE at high altitude causes rapid progression to uncal herniation, coma, and death."
+      ],
+      [
+        "Administer oral nifedipine 30 mg extended-release and inhaled salmeterol while continuing upward mountain ascent",
+        "Nifedipine and beta-2 agonists treat high-altitude pulmonary edema (HAPE), not cerebral edema (HACE); continuing ascent guarantees fatal cerebral herniation."
+      ],
+      [
+        "Perform emergent bedside lumbar puncture to relieve intracranial pressure prior to attempting descent",
+        "Lumbar puncture in a patient with severe cerebral edema and papilledema triggers catastrophic uncal or tonsillar brain herniation and death."
+      ],
+      [
+        "Administer high-dose intravenous furosemide 80 mg bolus to promote rapid intracranial volume reduction",
+        "Loop diuretics exacerbate systemic dehydration and hypovolemia common at high altitude, precipitating severe hypotension and cerebral hypoperfusion."
+      ]
+    ],
+    "shortestValidSolution": "High altitude (14,100 ft) + confusion + truncal ataxia + papilledema = HACE -> Immediate Descent + High-flow O2 + Dexamethasone (or Gamow bag).",
+    "necessaryInference": "Differentiate HACE (ataxia, confusion, papilledema; treated with descent and dexamethasone) from HAPE (lung crackles; treated with nifedipine) and mild AMS.",
+    "strongestDistractor": "Administer oral nifedipine 30 mg extended-release and inhaled salmeterol while continuing upward mountain ascent",
+    "distractorExclusion": "Nifedipine treats HAPE (pulmonary vasoconstriction), having no effect on vasogenic cerebral edema in HACE; continuing ascent with HACE is universally fatal.",
+    "citation": "Luks AM, Auerbach PS, Freer L, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Acute Altitude Illness: 2019 Update. Wilderness Environ Med. 2019;30(4S):S3-S18. PMID: 31248818.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/wilderness medicine item testing discrimination between HACE and HAPE, and the mandatory protocol of immediate descent plus dexamethasone.",
+      "distractorExclusionNotes": "Distractors feature mild AMS acetazolamide while remaining at altitude, HAPE-specific nifedipine, herniation-inducing lumbar puncture, and hypovolemic furosemide.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0647",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Smoke Inhalation Dual Toxicity Carbon Monoxide vs Cyanide",
+    "provisionalDifficulty": 5,
+    "stem": "A 52-year-old woman is brought to the emergency department after being trapped in a house fire with dense black smoke for 20 minutes before firefighter rescue. On presentation, she is lethargic and coughing up carbonaceous soot. Vital signs: blood pressure 84/50 mm Hg, pulse 122/min, respirations 26/min, and pulse oximetry displays 98% on 100% non-rebreather oxygen. Physical examination reveals soot in her oral cavity, hoarseness, and clear lung sounds. Arterial blood gas with co-oximetry demonstrates: pH 7.10, PaCO2 28 mm Hg, PaO2 115 mm Hg, carboxyhemoglobin (COHb) 22% (normal < 3%), and serum lactate 14.8 mmol/L (markedly elevated; reference < 2.0 mmol/L). An emergency medicine resident proposes administering an intravenous infusion of sodium nitrite followed by sodium thiosulfate to treat potential cyanide toxicity. Which of the following explains why sodium nitrite is strictly contraindicated in this patient, and what is the preferred antidote?",
+    "choices": [
+      [
+        "Sodium nitrite induces methemoglobinemia, which further impairs oxygen-carrying capacity in a patient whose hemoglobin is already compromised by carbon monoxide; intravenous hydroxocobalamin is the antidote of choice because it neutralizes cyanide without altering hemoglobin oxygen transport",
+        "In residential and industrial STRUCTURE FIRES, victims frequently suffer from DUAL TOXICITY FROM BOTH CARBON MONOXIDE (CO) AND CYANIDE (HCN). Carbon monoxide binds hemoglobin (forming COHb 22%) and shifts the oxygen dissociation curve leftward, reducing oxygen delivery. Concurrently, cyanide from burning plastics and wool inhibits cytochrome c oxidase, blocking aerobic respiration and generating SEVERE LACTIC ACIDOSIS (lactate > 10 mmol/L in smoke inhalation has >90% sensitivity for significant cyanide toxicity). Traditional cyanide antidote kits include SODIUM NITRITE (or amyl nitrite), which oxidizes ferrous hemoglobin (Fe2+) into METHEMOGLOBIN (Fe3+). Methemoglobin has a high affinity for cyanide, pulling it off cytochrome oxidase. HOWEVER, SODIUM NITRITE IS STRICTLY CONTRAINDICATED IN SMOKE INHALATION VICTIMS WITH CONCURRENT CO TOXICITY. Because carboxyhemoglobin already incapacitates 22% of her hemoglobin, inducing an additional 20-30% methemoglobinemia leaves the patient with virtually zero functional oxygen-carrying capacity, precipitating fatal anoxic cardiovascular collapse. The PREFERRED FIRST-LINE ANTIDOTE IS INTRAVENOUS HYDROXOCOBALAMIN (5 g IV). Hydroxocobalamin contains a cobalt moiety that directly binds cyanide to form non-toxic cyanocobalamin (vitamin B12), completely neutralizing cyanide WITHOUT FORMING METHEMOGLOBIN AND WITHOUT IMPAIRING OXYGEN DELIVERY."
+      ],
+      [
+        "Sodium nitrite precipitates lethal hyperkalemia through rapid renal potassium retention; oral activated charcoal should be administered instead",
+        "Sodium nitrite does not cause renal potassium retention; activated charcoal is useless for gaseous cyanide or carbon monoxide toxicity."
+      ],
+      [
+        "Sodium nitrite triggers widespread microvascular arterial thrombosis; intravenous methylene blue is the primary antidote for smoke inhalation",
+        "Nitrites cause vasodilation, not thrombosis; methylene blue treats methemoglobinemia, not cyanide toxicity or carbon monoxide."
+      ],
+      [
+        "Sodium nitrite accelerates the hepatic metabolism of carboxyhemoglobin into toxic carbonate; hyperbaric oxygen alone is the sole required treatment",
+        "CO is eliminated via pulmonary expiration, not hepatic metabolism into carbonate; withholding cyanide antidotes when lactate is 14.8 mmol/L results in fatal anoxia."
+      ],
+      [
+        "Sodium nitrite induces severe acute hypoglycemia; continuous intravenous 50% dextrose should be administered as sole therapy",
+        "Sodium nitrite has no hypoglycemic activity; dextrose does not treat mitochondrial cytochrome c oxidase inhibition by cyanide."
+      ]
+    ],
+    "shortestValidSolution": "Smoke fire + COHb 22% + Lactate 14.8 = Dual CO and Cyanide poisoning -> IV Hydroxocobalamin (NO nitrites, which induce fatal methemoglobinemia).",
+    "necessaryInference": "Recognize the contraindication to sodium nitrite in smoke inhalation with concurrent carbon monoxide (avoids compounding methemoglobinemia), selecting hydroxocobalamin.",
+    "strongestDistractor": "Sodium nitrite triggers widespread microvascular arterial thrombosis; intravenous methylene blue is the primary antidote for smoke inhalation",
+    "distractorExclusion": "Nitrites induce vasodilation, not thrombosis; methylene blue treats methemoglobinemia and does not reverse cyanide-mediated cytochrome c inhibition.",
+    "citation": "Borron SW, Baud FJ, Barriot P, et al. Prospective study of hydroxocobalamin for acute cyanide poisoning in smoke inhalation. Ann Emerg Med. 2007;49(6):794-801. PMID: 17482329.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/toxicology item testing discrimination between cyanide antidotes (hydroxocobalamin vs nitrites) in dual CO/cyanide smoke inhalation.",
+      "distractorExclusionNotes": "Distractors feature hyperkalemic charcoal claims, fabricated nitrite thrombosis with methylene blue, false hepatic CO metabolism, and hypoglycemia.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0648",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Behavioral Health",
+    "topic": "Anticholinergic Toxicity Physostigmine Indications and Pitfalls",
+    "provisionalDifficulty": 4,
+    "stem": "A 21-year-old college student is brought to the emergency department by his friends after ingesting a tea brewed from seeds gathered in a rural field ('Jimson weed', Datura stramonium) during an outdoor party. On arrival, he is agitated, disoriented, and hallucinating, swatting at invisible insects in the air ('muttering and picking at imaginary objects'). Physical examination reveals an alert, delirious young man. Vital signs: temperature 38.8 C (101.8 F), blood pressure 144/92 mm Hg, pulse 136/min (sinus tachycardia), and respirations 22/min. Dermatologic examination reveals warm, bright red, flushed, and completely dry skin with absent axillary and groin perspiration (anhidrosis). Pupils are widely dilated (8 mm bilaterally) and minimally responsive to light. Oral mucous membranes are dry and parched. Abdominal auscultation reveals absent bowel sounds in all four quadrants, and palpation demonstrates a tensely distended urinary bladder. Twelve-lead ECG confirms sinus tachycardia at 136/min with a narrow QRS duration of 84 ms and normal QTc of 420 ms. Agitation is refractory to initial doses of intravenous lorazepam. Which of the following is the most appropriate specific antidote to reverse this patient's severe central and peripheral anticholinergic delirium?",
+    "choices": [
+      [
+        "Intravenous physostigmine salicylate (1 to 2 mg infused slowly over 5 minutes) with continuous cardiac monitoring, provided TCA toxicity and wide QRS have been excluded",
+        "This patient exhibits classic severe ANTICHOLINERGIC TOXICITY (antimuscarinic syndrome), triggered here by tropane alkaloids (atropine, scopolamine, hyoscyamine) found in DATURA STRAMONIUM (Jimson weed / thorn apple). Mnemonic: 'Red as a beet' (cutaneous vasodilation), 'Dry as a bone' (anhidrosis, dry mucous membranes), 'Blind as a bat' (mydriasis, cycloplegia), 'Mad as a hatter' (delirium, visual hallucinations, picking at imaginary objects), 'Hot as a hare' (hyperthermia from impaired sweating), and 'Full as a flask' (urinary retention and ileus). When severe agitation, delirium, or hyperthermia persists despite supportive care and benzodiazepines (lorazepam), the SPECIFIC ANTIDOTE IS INTRAVENOUS PHYSOSTIGMINE SALICYLATE (1-2 mg IV slowly). Physostigmine is a tertiary amine acetylcholinesterase inhibitor that CROSSES THE BLOOD-BRAIN BARRIER (unlike quaternary amines like neostigmine or pyridostigmine, which act only peripherally), rapidly restoring central and peripheral acetylcholine levels and clearing delirium within 15-30 minutes. CRITICAL SAFETY DIRECTIVE: PHYSOSTIGMINE IS CONTRAINDICATED IF TRICYCLIC ANTIDEPRESSANT (TCA) OVERDOSE OR CONCURRENT SODIUM CHANNEL BLOCKADE (WIDE QRS > 100 ms) IS SUSPECTED, because physostigmine can precipitate fatal asystolic cardiac arrest in TCA poisoning."
+      ],
+      [
+        "Intravenous neostigmine 2 mg bolus as a tertiary amine that crosses the blood-brain barrier",
+        "Neostigmine is a charged quaternary amine that does NOT cross the blood-brain barrier, making it completely ineffective for central anticholinergic delirium."
+      ],
+      [
+        "Intravenous pralidoxime (2-PAM) to cleave alkaloids from muscarinic receptors",
+        "Pralidoxime reactivates organophosphate-inhibited acetylcholinesterase; it has zero efficacy against competitive alkaloid antagonists like atropine or scopolamine."
+      ],
+      [
+        "Administer high-dose haloperidol 10 mg intramuscularly to control psychotic agitation",
+        "Haloperidol possesses strong intrinsic anticholinergic properties and inhibits sweating, worsening hyperthermia, urinary retention, and delirium."
+      ],
+      [
+        "Initiate forced alkaline diuresis with intravenous sodium bicarbonate infusions",
+        "Tropane alkaloids are weakly basic; urinary alkalinization decreases ionization, promoting renal tubular reabsorption and worsening toxicity."
+      ]
+    ],
+    "shortestValidSolution": "Jimson weed + dry/flushed skin + dilated pupils + delirium + urinary retention (narrow QRS) = Anticholinergic toxicity -> IV Physostigmine (tertiary amine).",
+    "necessaryInference": "Select physostigmine (tertiary amine crossing blood-brain barrier) for severe anticholinergic delirium while confirming normal QRS to rule out TCA risk.",
+    "strongestDistractor": "Intravenous neostigmine 2 mg bolus as a tertiary amine that crosses the blood-brain barrier",
+    "distractorExclusion": "Neostigmine is a quaternary amine that cannot cross the blood-brain barrier; it fails to treat central anticholinergic delirium and hallucinations.",
+    "citation": "Dawson AH, Buckley NA. Pharmacological management of anticholinergic delirium - theory, evidence and practice. Br J Clin Pharmacol. 2016;81(3):516-524. PMID: 26569106.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency toxicology item testing recognition of anticholinergic toxicity (Jimson weed), pharmacology of physostigmine (tertiary amine), and safety contraindications.",
+      "distractorExclusionNotes": "Distractors feature blood-brain-impermeable neostigmine, organophosphate pralidoxime, anticholinergic-worsening haloperidol, and alkaline diuresis.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0649",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Behavioral Health",
+    "topic": "Bupropion Overdose Delayed Seizures and Benzodiazepines",
+    "provisionalDifficulty": 5,
+    "stem": "A 24-year-old woman is brought to the emergency department by her roommate 3 hours after intentionally swallowing approximately thirty 300-mg extended-release tablets of bupropion (estimated dose 9,000 mg) in a suicide gesture. On arrival, she is alert, oriented, and anxious, but complains of mild tremors in both hands and palpitations. Vital signs: blood pressure 138/86 mm Hg, heart rate 118/min (sinus tachycardia), respirations 18/min, and temperature 37.2 C (99.0 F). Physical examination reveals hyperreflexia and a fine postural tremor of the fingers, with normal pupils and normal bowel sounds. Twelve-lead ECG confirms sinus tachycardia at 118/min with normal QRS duration (88 ms) and QTc interval of 440 ms. Which of the following represents the most critical clinical concern during her emergency department observation, and what is the preferred first-line pharmacotherapy if complications arise?",
+    "choices": [
+      [
+        "High risk of delayed generalized tonic-clonic seizures, status epilepticus, and late cardiogenic shock; managed with early intravenous benzodiazepines such as lorazepam or diazepam",
+        "BUPROPION is an aminoketone antidepressant that acts as a NOREPINEPHRINE-DOPAMINE REUPTAKE INHIBITOR (NDRI). Overdose carries unique, severe toxic risks: (1) HIGH INCIDENCE OF SEIZURES: bupropion significantly lowers the seizure threshold. In overdose (>4.5-9 g), the incidence of GENERALIZED TONIC-CLONIC SEIZURES exceeds 30% to 50%, with high rates of STATUS EPILEPTICUS; (2) DELAYED ONSET: because most ingestions involve SUSTAINED-RELEASE (SR) OR EXTENDED-RELEASE (XL) FORMULATIONS, seizure onset is notoriously DELAYED, typically occurring between 4 and 14 hours (and up to 24 hours) post-ingestion. An initially well-appearing patient can abruptly seize hours later; (3) CARDIOTOXICITY: massive overdose causes late conduction delays (QRS/QTc prolongation) and refractory CARDIOGENIC SHOCK; and (4) PHARMACOTHERAPY: INTRAVENOUS BENZODIAZEPINES (LORAZEPAM 2-4 mg IV or DIAZEPAM) are the FIRST-LINE THERAPY for both agitation and seizures. Phenytoin is INEFFECTIVE for toxic drug-induced seizures and should be avoided. Antipsychotics (haloperidol, olanzapine) lower the seizure threshold and are CONTRAINDICATED. Patients ingesting extended-release bupropion require a MINIMUM OF 24 HOURS OF CONTINUOUS TELEMETRY AND OBSERVATION."
+      ],
+      [
+        "High risk of acute extrapyramidal dystonic crisis; managed with prophylactic intramuscular benztropine",
+        "Bupropion is a dopamine reuptake inhibitor, increasing synaptic dopamine; it does not block D2 receptors and does not cause acute dystonia."
+      ],
+      [
+        "Immediate development of severe paralytic ileus; managed with continuous intravenous neostigmine infusions",
+        "Bupropion overdose features sinus tachycardia and seizures, not primary paralytic ileus; neostigmine causes profound bradycardia and bronchospasm."
+      ],
+      [
+        "Prophylactic loading with intravenous fosphenytoin 20 mg PE/kg to prevent epileptogenesis",
+        "Phenytoin and fosphenytoin are notoriously ineffective for toxin-induced seizures (including bupropion and theophylline) and do not prevent seizures."
+      ],
+      [
+        "Immediate discharge home if the patient remains seizure-free at 4 hours post-ingestion",
+        "Extended-release bupropion tablets cause delayed seizures up to 14 to 24 hours post-ingestion; discharging at 4 hours results in unmonitored fatal seizures at home."
+      ]
+    ],
+    "shortestValidSolution": "Bupropion XL overdose (9,000 mg) = High risk DELAYED seizures (up to 24 hrs) -> Continuous 24-hr monitoring + IV Benzodiazepines (Lorazepam).",
+    "necessaryInference": "Recognize that extended-release bupropion overdose causes notoriously delayed seizures (up to 24 hours) treated primarily with benzodiazepines, not phenytoin.",
+    "strongestDistractor": "Immediate discharge home if the patient remains seizure-free at 4 hours post-ingestion",
+    "distractorExclusion": "Extended-release formulations delay peak absorption; seizures characteristically occur between 6 and 24 hours, making 4-hour discharge dangerous.",
+    "citation": "Stassinos GL, Klein-Schwartz W. Bupropion 'overdose': a 3-year additive study of the National Poison Data System. Clin Toxicol (Phila). 2016;54(7):567-575. PMID: 27177218.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/psychiatric toxicology item testing recognition of delayed bupropion seizure risks, 24-hour observation, and benzodiazepine rescue.",
+      "distractorExclusionNotes": "Distractors feature dystonia misattribution, irrelevant neostigmine, ineffective prophylactic fosphenytoin, and dangerous premature 4-hour discharge.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0650",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Caustic Ingestion Alkali vs Acid and Endoscopic Grading",
+    "provisionalDifficulty": 5,
+    "stem": "A 48-year-old man is brought to the emergency department 1 hour after intentionally swallowing approximately 200 mL of an industrial liquid drain cleaner containing concentrated sodium hydroxide (lye, strong alkali, pH > 12) during a severe depressive episode. On arrival, he is in excruciating pain, drooling copious amounts of blood-tinged saliva, and unable to swallow his own secretions. He has a raspy, hoarse voice. Vital signs: blood pressure 138/84 mm Hg, pulse 110/min, respirations 24/min, and temperature 37.4 C (99.3 F). Physical examination reveals severe edema and chalky white-to-gray ulcerations of the lips, tongue, and posterior pharynx, with audible mild inspiratory stridor over the larynx. The abdomen is soft and non-tender without guarding or rebound tenderness. The emergency resident prepares to administer oral activated charcoal and perform gastric lavage with diluted vinegar to neutralize the alkali. Which of the following represents the most appropriate management sequence for this caustic ingestion?",
+    "choices": [
+      [
+        "Secure the airway immediately with endotracheal intubation in a controlled setting, maintain strict NPO status, strictly avoid emesis, charcoal, or neutralizing agents, and perform early flexible upper endoscopy within 12 to 24 hours to grade mucosal injury",
+        "CAUSTIC INGESTION is a surgical and toxicologic emergency. Pathophysiology differs by agent: (1) ALKALIS (sodium hydroxide, potassium hydroxide in drain cleaners and oven cleaners, pH > 11-12): cause LIQUEFACTIVE NECROSIS, saponifying fats and denaturing proteins. Liquefaction allows the chemical to penetrate deeply and rapidly through the esophageal wall, leading to transmural necrosis, esophageal perforation, and mediastinitis within minutes to hours; and (2) ACIDS (toilet bowl cleaners, battery acid, pH < 2): cause COAGULATIVE NECROSIS, producing an eschar that limits deep penetration, though severe gastric injury occurs. Management protocol: (1) AIRWAY FIRST: presence of stridor, hoarseness, drooling, or epiglottic edema indicates impending upper airway compromise; IMMEDIATE SECURING OF AIRWAY (controlled endotracheal intubation, or surgical cricothyroidotomy if airway is distorted) takes absolute priority; (2) STRICT CONTRAINDICATIONS: STRICTLY AVOID GASTRIC LAVAGE, INDUCED EMESIS (re-exposes the esophagus to corrosive chemical), ACTIVATED CHARCOAL (does not bind caustics and obscures endoscopic visualization), and CHEMICAL NEUTRALIZATION (e.g., vinegar/acids react exothermically with alkalis, generating extreme heat that produces severe thermal burns); and (3) EARLY UPPER ENDOSCOPY (Zargar classification): perform flexible endoscopy WITHIN 12 TO 24 HOURS to assess the extent and depth of esophageal and gastric necrosis. Endoscopy is contraindicated if there are signs of perforation/peritonitis, and should be avoided between day 5 and 14 due to tissue softening and high perforation risk."
+      ],
+      [
+        "Administer oral diluted acetic acid (vinegar) immediately to chemically neutralize the alkaline sodium hydroxide",
+        "Chemical neutralization creates an exothermic reaction that generates massive thermal heat, causing severe thermal esophageal and gastric necrosis."
+      ],
+      [
+        "Administer oral activated charcoal 50 g followed by immediate syrup of ipecac to induce vomiting",
+        "Activated charcoal does not bind caustics, and inducing emesis re-exposes the burned esophagus to caustic lye, causing catastrophic transmural rupture."
+      ],
+      [
+        "Pass a large-bore Ewald gastric tube and perform vigorous ice water gastric lavage to wash out residual alkali",
+        "Blind nasogastric tube insertion or gastric lavage easily punctures the friable, necrotic esophageal wall, causing fatal mediastinal perforation."
+      ],
+      [
+        "Withhold endoscopy and discharge home on a liquid diet if the patient can tolerate sips of water without choking",
+        "The extent of pharyngeal burns correlates poorly with esophageal necrosis; discharging an untreated concentrated lye ingestion leads to delayed stricture, perforation, and death."
+      ]
+    ],
+    "shortestValidSolution": "Concentrated lye ingestion + drooling + hoarseness/stridor = Caustic alkali ingestion -> Airway intubation FIRST + NPO (NO charcoal/neutralization) + Endoscopy in 12-24 hrs.",
+    "necessaryInference": "Enforce strict caustic ingestion rules: secure airway for stridor, avoid neutralization/charcoal/emesis, and perform early upper endoscopy within 12-24 hours.",
+    "strongestDistractor": "Administer oral diluted acetic acid (vinegar) immediately to chemically neutralize the alkaline sodium hydroxide",
+    "distractorExclusion": "Neutralizing alkali with acid produces an exothermic reaction releasing extreme heat, worsening transmural esophageal necrosis and perforation.",
+    "citation": "Chibishev A, Pereska Z, Chibisheva V, et al. Corrosive poisonings in adults. Mater Sociomed. 2012;24(2):125-130. PMID: 23678318.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/gastroenterology toxicology item testing caustic ingestion protocol (liquefactive necrosis, airway prioritization, avoiding neutralization, early endoscopy).",
+      "distractorExclusionNotes": "Distractors feature dangerous exothermic neutralization with vinegar, fatal emesis induction, blind tube perforation, and negligent discharge without endoscopy.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  }
+];

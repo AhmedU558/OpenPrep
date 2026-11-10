@@ -1,5 +1,5 @@
 import { expect, test } from '@playwright/test';
-import { choices, login, newCreds, register } from './helpers';
+import { choices, login, newCreds, register, testDb } from './helpers';
 
 test.describe('accounts (T1)', () => {
   test('register, sign out, wrong password, sign in', async ({ page }) => {
@@ -95,6 +95,7 @@ test.describe('accounts (T1)', () => {
     await page.getByRole('button', { name: 'Try it as a guest' }).click();
     await expect(page).toHaveURL(/\/dashboard/);
     await expect(page.getByText(/guest mode/)).toBeVisible();
+    const guest = await (await page.request.get('/api/auth/get-session')).json() as { user: { id: string } };
 
     await page.goto('/create');
     await page.getByLabel('Questions per block').fill('1');
@@ -103,7 +104,15 @@ test.describe('accounts (T1)', () => {
     await page.getByRole('button', { name: 'Submit answer' }).click();
     await expect(page.locator('#expl-h')).toBeVisible();
 
-    await register(page); // links the guest account
+    const account = await register(page); // links the guest account
+    const db = testDb();
+    try {
+      const user = await db.user.findUniqueOrThrow({ where: { email: account.email } });
+      expect(await db.user.count({ where: { id: guest.user.id } })).toBe(0);
+      expect(await db.practiceAttempt.count({ where: { userId: user.id } })).toBe(1);
+      expect(await db.practiceEvent.count({ where: { userId: user.id } })).toBeGreaterThan(0);
+      expect(await db.userPracticeState.count({ where: { userId: user.id } })).toBe(1);
+    } finally { await db.$disconnect(); }
     await page.goto('/tests');
     await expect(page.getByRole('cell', { name: 'Tutor' })).toBeVisible();
   });

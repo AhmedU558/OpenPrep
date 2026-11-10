@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s2-0176",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Acute Compartment Syndrome Recognition and Fasciotomy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man is admitted to the orthopedic surgical service following a closed midshaft tibial and fibular fracture sustained during a soccer match. The fracture was reduced and stabilized in a long-leg plaster splint 6 hours ago. The patient now calls the nurse complaining of escalating, excruciating pain in his lower right leg that has become unbearable and is completely unresponsive to multiple doses of intravenous hydromorphone. On physical examination, the patient appears visibly anguished and diaphoretic. His blood pressure is 142/86 mm Hg, heart rate is 108/min, and respirations are 20/min. The plaster splint and bandages are immediately removed. The anterior and lateral compartments of his right leg are tense, firm, and woody to palpation. Active dorsiflexion of the right foot is weak, and passive plantarflexion of the great toe elicits agonizing, screaming pain in the anterior leg. Sensation to light touch is diminished in the first dorsal web space between the first and second toes. Distal dorsalis pedis and posterior tibial arterial pulses are easily palpable with strong triphasic Doppler signals. Handheld needle manometry demonstrates an anterior compartment pressure of 58 mm Hg. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Immediate emergency surgical fasciotomy of all four lower extremity compartments",
+        "correct": true,
+        "explanation": "This patient presents with acute compartment syndrome of the lower extremity following a tibial shaft fracture. Compartment syndrome occurs when increased tissue pressure within a closed, non-yielding osteofascial compartment exceeds capillary perfusion pressure, leading to muscle and microvascular ischemia. Key diagnostic clinical features include: (1) Severe, progressive pain out of proportion to the injury; (2) Excruciating pain with passive stretch of the muscles in the involved compartment (passive toe flexion stretches the anterior compartment muscles); (3) Tense, woody, non-yielding swelling; and (4) Paresthesias in the distribution of traversing nerves (deep peroneal nerve sensory deficit in the first dorsal web space). Importantly, PALPABLE DISTAL PULSES DO NOT RULE OUT COMPARTMENT SYNDROME; arterial pulses only disappear as a late, terminal finding after irreversible necrosis has occurred. Diagnostic confirmation is established when compartment pressure exceeds 30 mm Hg, or when the delta pressure (diastolic BP minus compartment pressure: 86 - 58 = 28 mm Hg) is <= 30 mm Hg. The definitive, emergency management is IMMEDIATE SURGICAL FASCIOTOMY of all four compartments (anterior, lateral, superficial posterior, and deep posterior) to decompress the tissues and prevent permanent Volkmann ischemic contracture, rhabdomyolysis, and limb loss."
+      },
+      {
+        "text": "Elevate the right lower extremity high above the level of the heart on multiple pillows",
+        "correct": false,
+        "explanation": "Elevating the extremity drops arterial perfusion pressure across the high-pressure compartment, dangerously worsening tissue ischemia and accelerating muscle necrosis."
+      },
+      {
+        "text": "Reapply a tight fiberglass circumferential walking cast to stabilize the fracture fragments",
+        "correct": false,
+        "explanation": "Circumferential casting provides an external rigid barrier that further increases compartment pressures, guaranteeing irreversible limb ischemia."
+      },
+      {
+        "text": "Administer an intravenous regional bier block with lidocaine and observe for 6 hours",
+        "correct": false,
+        "explanation": "Anesthetic nerve blocks only mask progressing ischemic pain and cause dangerous delays in life-saving surgical decompression."
+      },
+      {
+        "text": "Order an urgent lower extremity arterial and venous duplex ultrasound before consulting surgery",
+        "correct": false,
+        "explanation": "Vascular imaging is unnecessary when compartment syndrome is clinically and manometrically confirmed, and causes fatal delays in tissue decompression."
+      }
+    ],
+    "explanation": "This patient presents with acute compartment syndrome of the lower extremity following a tibial shaft fracture. Compartment syndrome occurs when increased tissue pressure within a closed, non-yielding osteofascial compartment exceeds capillary perfusion pressure, leading to muscle and microvascular ischemia. Key diagnostic clinical features include: (1) Severe, progressive pain out of proportion to the injury; (2) Excruciating pain with passive stretch of the muscles in the involved compartment (passive toe flexion stretches the anterior compartment muscles); (3) Tense, woody, non-yielding swelling; and (4) Paresthesias in the distribution of traversing nerves (deep peroneal nerve sensory deficit in the first dorsal web space). Importantly, PALPABLE DISTAL PULSES DO NOT RULE OUT COMPARTMENT SYNDROME; arterial pulses only disappear as a late, terminal finding after irreversible necrosis has occurred. Diagnostic confirmation is established when compartment pressure exceeds 30 mm Hg, or when the delta pressure (diastolic BP minus compartment pressure: 86 - 58 = 28 mm Hg) is <= 30 mm Hg. The definitive, emergency management is IMMEDIATE SURGICAL FASCIOTOMY of all four compartments (anterior, lateral, superficial posterior, and deep posterior) to decompress the tissues and prevent permanent Volkmann ischemic contracture, rhabdomyolysis, and limb loss. Manage Acute Compartment Syndrome: High pressure within an osteofascial compartment compromising capillary perfusion and leading to muscle/nerve ischemia. CLASSIC EARLY FINDING: SEVERE PAIN DISPROPORTIONATE TO INJURY and PAIN WITH PASSIVE STRETCH OF COMPARTMENT MUSCLES. Late findings: Paresthesias, pallor, paralysis, pulselessness (sign of irreversible necrosis). DIAGNOSIS: Delta pressure (Diastolic blood pressure minus compartment pressure) <= 30 mm Hg. IMMEDIATE MANAGEMENT: Bivalve/remove any tight casts or dressings, keep limb at heart level (DO NOT ELEVATE, which worsens perfusion), and perform IMMEDIATE EMERGENCY SURGICAL FASCIOTOMY.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Compartment Syndrome Recognition and Fasciotomy.",
+    "keyPoints": [
+      "Acute Compartment Syndrome Recognition and Fasciotomy",
+      "Manage Acute Compartment Syndrome: High pressure within an osteofascial compartment compromising capillary perfusion and leading to muscle/nerve ischemia. CLASSIC EARLY FINDING: SE"
+    ],
+    "references": [
+      {
+        "label": "Mauffrey C, et al. Compartment Syndrome of the Lower Extremity. J Am Acad Orthop Surg. 2019;27(14):527-538. PMID: 30973541.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30973541/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0177",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Scaphoid Fracture Management with Negative Initial Radiographs",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old college rugby player presents to the urgent care clinic 3 hours after falling heavily onto his dorsiflexed right hand during a match. He reports severe pain localized to the radial aspect of his right wrist. On physical examination, there is mild swelling over the radial wrist, with no visible gross deformity. Active wrist extension and radial deviation are limited by pain. Exquisite point tenderness is elicited on direct palpation within the anatomical snuffbox between the extensor pollicis longus tendon and the abductor pollicis longus tendon. Axial compression of the thumb along the first metacarpal also produces sharp wrist pain. Distal radial and ulnar pulses are intact, and capillary refill is less than 2 seconds. A standard three-view plain radiograph series of the right wrist, including a dedicated scaphoid view, is completely normal, with no visible fracture line, cortical disruption, or joint incongruity. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Reassure the patient of a wrist sprain and discharge with an elastic compression bandage and as-needed ibuprofen",
+        "correct": false,
+        "explanation": "Treating a suspected scaphoid fracture as a simple wrist sprain without thumb immobilization leads to scaphoid nonunion, avascular necrosis of the proximal pole, and chronic debilitating wrist arthritis."
+      },
+      {
+        "text": "Immobilize the wrist in a thumb spica splint and repeat clinical examination and radiographs in 10 to 14 days",
+        "correct": true,
+        "explanation": "This young athlete presents with classic findings of an acute scaphoid fracture following a fall on an outstretched hand (FOOSH): radial wrist pain, tenderness to axial compression of the thumb, and focal tenderness in the ANATOMICAL SNUFFBOX. The scaphoid bone receives its blood supply via a RETROGRADE intraosseous vascular network derived from the scaphoid branches of the radial artery, entering at the distal tubercle and waist. Therefore, fractures through the scaphoid waist disrupt perfusion to the proximal pole, carrying a severe risk of AVASCULAR NECROSIS (AVN), delayed union, and scaphoid nonunion advanced collapse (SNAC wrist). In up to 20% to 30% of non-displaced scaphoid fractures, initial plain radiographs are completely negative because the fracture line is microscopic or obscured. STANDARD GUIDELINE MANAGEMENT: Any patient with a compatible mechanism and anatomical snuffbox tenderness must be treated as a scaphoid fracture until proven otherwise. The wrist should be immediately IMMOBILIZED IN A THUMB SPICA SPLINT, and the patient should return in 10 to 14 days for repeat clinical examination and repeat scaphoid radiographs (when bone resorption at the fracture site makes the line visible). Alternatively, early MRI of the wrist can be obtained if immediate definitive diagnosis is required."
+      },
+      {
+        "text": "Refer for immediate emergency open reduction and internal percutaneous screw fixation",
+        "correct": false,
+        "explanation": "Surgical fixation is reserved for displaced fractures (> 1 mm), unstable fracture patterns, or confirmed nonunion; occult fractures are managed with conservative splinting initially."
+      },
+      {
+        "text": "Apply a short-arm cast leaving the thumb entirely free to allow aggressive grip strengthening",
+        "correct": false,
+        "explanation": "Immobilizing the wrist without incorporating the thumb fails to stabilize the first ray, causing continuous micro-motion across the scaphoid and guaranteeing nonunion."
+      },
+      {
+        "text": "Administer an intra-articular methylprednisolone injection into the radiocarpal joint",
+        "correct": false,
+        "explanation": "Intra-articular corticosteroids inhibit fracture healing, increase infection risks, and have no role in acute traumatic wrist injuries."
+      }
+    ],
+    "explanation": "This young athlete presents with classic findings of an acute scaphoid fracture following a fall on an outstretched hand (FOOSH): radial wrist pain, tenderness to axial compression of the thumb, and focal tenderness in the ANATOMICAL SNUFFBOX. The scaphoid bone receives its blood supply via a RETROGRADE intraosseous vascular network derived from the scaphoid branches of the radial artery, entering at the distal tubercle and waist. Therefore, fractures through the scaphoid waist disrupt perfusion to the proximal pole, carrying a severe risk of AVASCULAR NECROSIS (AVN), delayed union, and scaphoid nonunion advanced collapse (SNAC wrist). In up to 20% to 30% of non-displaced scaphoid fractures, initial plain radiographs are completely negative because the fracture line is microscopic or obscured. STANDARD GUIDELINE MANAGEMENT: Any patient with a compatible mechanism and anatomical snuffbox tenderness must be treated as a scaphoid fracture until proven otherwise. The wrist should be immediately IMMOBILIZED IN A THUMB SPICA SPLINT, and the patient should return in 10 to 14 days for repeat clinical examination and repeat scaphoid radiographs (when bone resorption at the fracture site makes the line visible). Alternatively, early MRI of the wrist can be obtained if immediate definitive diagnosis is required. Manage Suspected Scaphoid Fracture: Fall onto outstretched hand (FOOSH). Physical exam: POINT TENDERNESS IN THE ANATOMICAL SNUFFBOX (between extensor pollicis longus and extensor pollicis brevis/abductor pollicis longus) and pain with axial thumb compression. HIGH COMPLICATION RISK: AVASCULAR NECROSIS (AVN) of proximal pole and NONUNION (due to retrograde blood supply from radial artery entering distal pole). MANAGEMENT RULE: Initial radiographs are NEGATIVE in up to 20-30% of acute scaphoid fractures. If snuffbox tenderness is present, IMMOBILIZE IN A THUMB SPICA SPLINT AND REPEAT RADIOGRAPHS IN 10-14 DAYS (or obtain immediate non-contrast MRI / CT of the wrist).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Scaphoid Fracture Management with Negative Initial Radiographs.",
+    "keyPoints": [
+      "Scaphoid Fracture Management with Negative Initial Radiographs",
+      "Manage Suspected Scaphoid Fracture: Fall onto outstretched hand (FOOSH). Physical exam: POINT TENDERNESS IN THE ANATOMICAL SNUFFBOX (between extensor pollicis longus and extensor p"
+    ],
+    "references": [
+      {
+        "label": "Duckworth AD, et al. Scaphoid fractures: Assessment and management. J Hand Surg Eur Vol. 2018;43(5):469-478. PMID: 29514582.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29514582/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0178",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Open Fracture Initial Emergency Management Sequence",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old construction worker is brought to the emergency department after a heavy steel beam fell across his left lower leg at a job site. He has excruciating pain and an obvious deformity of his mid-leg. He has no chronic medical conditions, and his last tetanus booster was 12 years ago. On physical examination, his blood pressure is 134/82 mm Hg, heart rate is 102/min, and respirations are 18/min. Examination of the left lower extremity reveals a 4-cm transverse laceration over the anteromedial mid-tibia through which bone ends and fracture hematoma are visible. There is moderate soft-tissue contusion surrounding the wound without extensive degloving. Dorsalis pedis and posterior tibial pulses are 2+ and symmetric, and sensation to light touch is intact across the sole and dorsum of the foot. Compartments of the leg are soft. Plain radiographs confirm a comminuted, displaced midshaft fracture of the tibia and fibula. In addition to wound covering with a sterile saline-soaked dressing and splint immobilization, which of the following represents the most appropriate immediate medical intervention to prevent osteomyelitis in this patient?",
+    "options": [
+      {
+        "text": "Aggressive high-pressure pulsatile wound irrigation at the bedside in the emergency department using tap water",
+        "correct": false,
+        "explanation": "Extensive wound irrigation and probing in the non-sterile emergency department forces superficial environmental bacteria deeper into the medullary canal and is contraindicated; irrigation belongs in the sterile OR."
+      },
+      {
+        "text": "Oral ciprofloxacin monotherapy and outpatient follow-up with the orthopedic clinic next week",
+        "correct": false,
+        "explanation": "Oral fluoroquinolones provide inadequate coverage for staphylococcal osteomyelitis; open fractures mandate immediate parenteral antibiotics and operative intervention."
+      },
+      {
+        "text": "Immediate administration of intravenous cefazolin, intramuscular tetanus toxoid booster, and urgent operative debridement",
+        "correct": true,
+        "explanation": "This patient has an open (compound) tibial fracture classified as Gustilo-Anderson Type II (wound 1 to 10 cm with moderate soft tissue damage). Open fractures are orthopedic emergencies because communication between the external environment and the fracture hematoma creates a fertile medium for bacterial contamination, leading to severe deep osteomyelitis, sepsis, and nonunion. The definitive standard-of-care protocol in the emergency department includes: (1) IMMEDIATE ADMINISTRATION OF INTRAVENOUS ANTIBIOTICS within 1 hour of arrival (intravenous cefazolin is first-line for Gustilo Type I and II fractures; for Type III fractures with extensive soft tissue stripping, an aminoglycoside like gentamicin is added; for agricultural or soil-contaminated wounds, penicillin is added for Clostridium coverage); (2) TETANUS PROPHYLAXIS: Because his last booster was > 10 years ago (and > 5 years for a contaminated wound), an intramuscular tetanus toxoid booster is required; (3) Covering the wound with a sterile, moist saline dressing without excessive probing or bedside irrigation; and (4) URGENT FORMAL OPERATIVE IRRIGATION AND DEBRIDEMENT in the operating room, typically within 12 to 24 hours."
+      },
+      {
+        "text": "Application of a circumferential plaster cast and delay of antibiotics until intraoperative tissue cultures are obtained",
+        "correct": false,
+        "explanation": "Withholding antibiotics until operative cultures are taken significantly increases deep osteomyelitis rates; antibiotics must be given immediately within 1 hour of ED arrival."
+      },
+      {
+        "text": "Immediate administration of intravenous vancomycin, piperacillin-tazobactam, and amphotericin B",
+        "correct": false,
+        "explanation": "Overly broad antifungal and carbapenem-level coverage is unnecessary for an urban non-agricultural open fracture without MRSA risk factors; cefazolin is guideline-directed."
+      }
+    ],
+    "explanation": "This patient has an open (compound) tibial fracture classified as Gustilo-Anderson Type II (wound 1 to 10 cm with moderate soft tissue damage). Open fractures are orthopedic emergencies because communication between the external environment and the fracture hematoma creates a fertile medium for bacterial contamination, leading to severe deep osteomyelitis, sepsis, and nonunion. The definitive standard-of-care protocol in the emergency department includes: (1) IMMEDIATE ADMINISTRATION OF INTRAVENOUS ANTIBIOTICS within 1 hour of arrival (intravenous cefazolin is first-line for Gustilo Type I and II fractures; for Type III fractures with extensive soft tissue stripping, an aminoglycoside like gentamicin is added; for agricultural or soil-contaminated wounds, penicillin is added for Clostridium coverage); (2) TETANUS PROPHYLAXIS: Because his last booster was > 10 years ago (and > 5 years for a contaminated wound), an intramuscular tetanus toxoid booster is required; (3) Covering the wound with a sterile, moist saline dressing without excessive probing or bedside irrigation; and (4) URGENT FORMAL OPERATIVE IRRIGATION AND DEBRIDEMENT in the operating room, typically within 12 to 24 hours. Manage Open Fractures (Gustilo-Anderson classification): Bone cortex penetrates skin, exposing hematoma to environmental bacteria. CRITICAL EMERGENCY SEQUENCE: 1. IMMEDIATE INTRAVENOUS ANTIBIOTICS (administer within 1 hour: 1st-generation cephalosporin e.g. CEFAZOLIN for Type I/II; add AMINOGLYCOSIDE e.g. Gentamicin for Type III; add PENICILLIN if farm/soil contamination for Clostridium); 2. TETANUS PROPHYLAXIS (toxoid +/- TIG if unimmunized); 3. Remove gross debris, cover with sterile saline-soaked dressing, and splint; 4. URGENT OPERATIVE IRRIGATION AND DEBRIDEMENT in the OR within 12-24 hours. DO NOT irrigate extensively or probe in the ED.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Open Fracture Initial Emergency Management Sequence.",
+    "keyPoints": [
+      "Open Fracture Initial Emergency Management Sequence",
+      "Manage Open Fractures (Gustilo-Anderson classification): Bone cortex penetrates skin, exposing hematoma to environmental bacteria. CRITICAL EMERGENCY SEQUENCE: 1. IMMEDIATE INTRAVE"
+    ],
+    "references": [
+      {
+        "label": "Cross WW 3rd, et al. Open Fractures. Orthop Clin North Am. 2014;45(1):13-22. PMID: 24267204.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24267204/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0179",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Posterior Hip Dislocation Presentation and Emergency Reduction",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old unrestrained driver is brought to the emergency department following a high-speed frontal motor vehicle collision in which his knees forcefully impacted the dashboard. The patient is in excruciating pain, clutching his left groin and hip, and unable to bear weight or move his left leg. On physical examination, the patient is alert and hemodynamically stable with normal vital signs. Examination of the left lower extremity reveals that the left leg is visibly shortened and held rigidly in a position of flexion, adduction, and internal rotation at the hip. Any attempt at passive rotation or abduction produces intense pain. Sensation to light touch is diminished over the dorsum of the left foot and lateral calf, and the patient has weakness (2/5 strength) on active dorsiflexion of the left ankle and great toe (foot drop). Femoral, popliteal, and pedal pulses are 2+ and symmetric. An anteroposterior pelvic radiograph demonstrates the left femoral head displaced superiorly and laterally out of the acetabulum, appearing smaller than the contralateral femoral head. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Placement of 15 lbs of skeletal traction with delayed elective reduction in 48 hours",
+        "correct": false,
+        "explanation": "Delaying hip reduction beyond 6 hours drastically escalates the incidence of permanent femoral head avascular necrosis and permanent sciatic nerve palsy."
+      },
+      {
+        "text": "Immediate total hip arthroplasty via an anterior approach",
+        "correct": false,
+        "explanation": "Arthroplasty is reserved for elderly patients with severe comminuted acetabular fractures or non-reconstructible femoral head fractures, not young trauma patients with acute dislocations."
+      },
+      {
+        "text": "Apply an external rotation bolster and discharge with non-weight-bearing crutches",
+        "correct": false,
+        "explanation": "Leaving a dislocated hip unreduced leads to rapid femoral head osteonecrosis, permanent chondrolysis, and irreversible sciatic nerve axonal transection."
+      },
+      {
+        "text": "Immediate closed reduction of the hip under procedural sedation or general anesthesia",
+        "correct": true,
+        "explanation": "This patient presents with a classic POSTERIOR HIP DISLOCATION secondary to a high-energy \"dashboard injury\" (force applied to a flexed knee driving the femoral head posteriorly out of the acetabulum). Clinical hallmarks include: (1) The affected lower extremity is held SHORTENED, ADDUCTED, AND INTERNALLY ROTATED (in direct contrast to femoral neck fractures, which present with a shortened and EXTERNALLY rotated limb); (2) Associated SCIATIC NERVE INJURY in up to 10% to 20% of cases, particularly the peroneal division, causing weak ankle/toe dorsiflexion (foot drop) and numbness over the dorsal foot and lateral calf; and (3) Radiographic confirmation of superior and lateral displacement of the femoral head. Traumatic hip dislocation is an orthopedic emergency because dislocation severely stretches and compresses the ascending cervical branches of the medial and lateral femoral circumflex arteries, starving the femoral head of blood flow. The risk of irreversible FEMORAL HEAD AVASCULAR NECROSIS (AVN) increases exponentially if reduction is delayed beyond 6 hours. Therefore, IMMEDIATE CLOSED REDUCTION under procedural sedation or general anesthesia (e.g., using the Allis or Captain Morgan maneuver) is the treatment of choice, followed by post-reduction CT scanning to confirm concentric seating."
+      },
+      {
+        "text": "Order an emergency pelvic MRI before attempting any joint manipulation",
+        "correct": false,
+        "explanation": "Pre-reduction MRI wastes precious time during the critical 6-hour perfusion window; joint reduction must precede advanced cross-sectional MRI imaging."
+      }
+    ],
+    "explanation": "This patient presents with a classic POSTERIOR HIP DISLOCATION secondary to a high-energy \"dashboard injury\" (force applied to a flexed knee driving the femoral head posteriorly out of the acetabulum). Clinical hallmarks include: (1) The affected lower extremity is held SHORTENED, ADDUCTED, AND INTERNALLY ROTATED (in direct contrast to femoral neck fractures, which present with a shortened and EXTERNALLY rotated limb); (2) Associated SCIATIC NERVE INJURY in up to 10% to 20% of cases, particularly the peroneal division, causing weak ankle/toe dorsiflexion (foot drop) and numbness over the dorsal foot and lateral calf; and (3) Radiographic confirmation of superior and lateral displacement of the femoral head. Traumatic hip dislocation is an orthopedic emergency because dislocation severely stretches and compresses the ascending cervical branches of the medial and lateral femoral circumflex arteries, starving the femoral head of blood flow. The risk of irreversible FEMORAL HEAD AVASCULAR NECROSIS (AVN) increases exponentially if reduction is delayed beyond 6 hours. Therefore, IMMEDIATE CLOSED REDUCTION under procedural sedation or general anesthesia (e.g., using the Allis or Captain Morgan maneuver) is the treatment of choice, followed by post-reduction CT scanning to confirm concentric seating. Manage Traumatic Hip Dislocation: - POSTERIOR HIP DISLOCATION (90% of cases): Classic mechanism: High-energy MVA with knees hitting the dashboard with hip flexed. PHYSICAL EXAM: Affected limb is SHORTENED, ADDUCTED, AND INTERNALLY ROTATED (contrast with femoral neck fracture, which is shortened and EXTERNALLY rotated). COMPLICATIONS: SCIATIC NERVE INJURY (peroneal division: foot drop and numbness on dorsum of foot) and FEMORAL HEAD AVASCULAR NECROSIS (AVN). EMERGENCY TREATMENT: IMMEDIATE CLOSED REDUCTION UNDER CONSCIOUS SEDATION (< 6 hours reduces AVN rate dramatically). If closed reduction fails: open reduction in OR.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Posterior Hip Dislocation Presentation and Emergency Reduction.",
+    "keyPoints": [
+      "Posterior Hip Dislocation Presentation and Emergency Reduction",
+      "Manage Traumatic Hip Dislocation: - POSTERIOR HIP DISLOCATION (90% of cases): Classic mechanism: High-energy MVA with knees hitting the dashboard with hip flexed. PHYSICAL EXAM: Af"
+    ],
+    "references": [
+      {
+        "label": "Sanders S, et al. Traumatic Hip Dislocation. J Am Acad Orthop Surg. 2010;18(11):699-709. PMID: 21041804.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21041804/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0180",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Necrotizing Fasciitis Diagnostic Urgency and Surgical Debridement",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 58-year-old man with poorly controlled type 2 diabetes mellitus presents to the emergency department with rapidly worsening pain, redness, and swelling in his left perineum and upper thigh that began 18 hours ago after scraping himself on a rusted lawnmower. The patient is in agony and states that the pain is the worst he has ever experienced. On physical examination, the patient appears toxic, pale, and drenched in sweat. His temperature is 39.3°C (102.7°F), blood pressure is 84/52 mm Hg, heart rate is 134/min, and respirations are 26/min. Examination of the left thigh and groin reveals an ill-defined patch of dusky, erythematous skin with central violaceous bullae. The underlying tissues are extremely tense, woody, and exquisitely tender to light touch, with tenderness extending several inches beyond the visible border of erythema. Gentle palpation elicits fine, crackling subcutaneous crepitus under the skin. Laboratory evaluation reveals: white blood cell count 28,400/mm³ with 22% band forms, serum sodium 126 mEq/L, serum glucose 340 mg/dL, and serum lactate 4.8 mmol/L. While rapid aggressive intravenous crystalloid resuscitation is started, which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Transport to the radiology suite for an urgent contrast-enhanced pelvic and thigh MRI",
+        "correct": false,
+        "explanation": "Transferring an unstable patient in septic shock to MRI delays operative debridement by hours, leading to fulminant multi-organ failure and death."
+      },
+      {
+        "text": "Intravenous vancomycin and ceftriaxone monotherapy and admission to the general floor",
+        "correct": false,
+        "explanation": "Antibiotics without surgical debridement fail to penetrate necrotic fascia and do not halt tissue destruction; mortality approaches 100% without surgery."
+      },
+      {
+        "text": "Performance of bedside needle aspiration of bullae fluid and wait 24 hours for culture results",
+        "correct": false,
+        "explanation": "Awaiting culture results while bacteria spread along fascial planes results in fatal septic shock within hours."
+      },
+      {
+        "text": "Initiate hyperbaric oxygen therapy as primary treatment prior to surgical consultation",
+        "correct": false,
+        "explanation": "Hyperbaric oxygen is an adjunctive therapy used only after comprehensive surgical debridement has been completed in the operating room."
+      },
+      {
+        "text": "Immediate emergency surgical exploration and debridement, with broad-spectrum intravenous vancomycin, piperacillin-tazobactam, and clindamycin",
+        "correct": true,
+        "explanation": "This patient presents with life-threatening NECROTIZING FASCIITIS (specifically Fournier gangrene when involving the perineum). Hallmark clinical findings include: (1) Severe, excruciating pain out of proportion to physical exam findings; (2) Rapid progression with skin discoloration (dusky violaceous bullae); (3) Palpable subcutaneous crepitus (produced by gas-forming anaerobes); (4) Systemic toxicity and septic shock (hypotension, tachycardia, high lactic acidosis); and (5) Characteristic laboratory abnormalities (high leukocytosis with left shift, marked hyponatremia due to third-spacing, hyperglycemia). The LRINEC (Laboratory Risk Indicator for Necrotizing Fasciitis) score is markedly elevated. The single most decisive factor determining patient survival is IMMEDIATE EMERGENCY SURGICAL EXPLORATION AND EXTENSIVE DEBRIDEMENT. Medical therapy alone is uniformly fatal because microvascular thromboses in the fascial planes prevent intravenous antibiotics from reaching the infected necrotic tissue. Surgery must NEVER be delayed for cross-sectional imaging (CT or MRI). Concurrently, empiric broad-spectrum antimicrobial coverage must be started: VANCOMYCIN (for MRSA), PIPERACILLIN-TAZOBACTAM or meropenem (for Gram-negatives and anaerobes), and CLINDAMYCIN (crucial because it suppresses bacterial protein synthesis, shutting down streptococcal pyrogenic exotoxins and staphylococcal toxic shock toxins)."
+      }
+    ],
+    "explanation": "This patient presents with life-threatening NECROTIZING FASCIITIS (specifically Fournier gangrene when involving the perineum). Hallmark clinical findings include: (1) Severe, excruciating pain out of proportion to physical exam findings; (2) Rapid progression with skin discoloration (dusky violaceous bullae); (3) Palpable subcutaneous crepitus (produced by gas-forming anaerobes); (4) Systemic toxicity and septic shock (hypotension, tachycardia, high lactic acidosis); and (5) Characteristic laboratory abnormalities (high leukocytosis with left shift, marked hyponatremia due to third-spacing, hyperglycemia). The LRINEC (Laboratory Risk Indicator for Necrotizing Fasciitis) score is markedly elevated. The single most decisive factor determining patient survival is IMMEDIATE EMERGENCY SURGICAL EXPLORATION AND EXTENSIVE DEBRIDEMENT. Medical therapy alone is uniformly fatal because microvascular thromboses in the fascial planes prevent intravenous antibiotics from reaching the infected necrotic tissue. Surgery must NEVER be delayed for cross-sectional imaging (CT or MRI). Concurrently, empiric broad-spectrum antimicrobial coverage must be started: VANCOMYCIN (for MRSA), PIPERACILLIN-TAZOBACTAM or meropenem (for Gram-negatives and anaerobes), and CLINDAMYCIN (crucial because it suppresses bacterial protein synthesis, shutting down streptococcal pyrogenic exotoxins and staphylococcal toxic shock toxins). Manage Necrotizing Fasciitis: Rapidly spreading, life-threatening infection of subcutaneous tissue and deep fascia. - CLINICAL HALLMARK: SEVERE PAIN DISPROPORTIONATE TO PHYSICAL FINDINGS, followed by woody induration, skin bullae (violaceous), crepitus (subcutaneous gas), and rapid systemic shock. - MICROBIOLOGY: Type I (polymicrobial: anaerobes + enterics, common in diabetics/post-op); Type II (monomicrobial: Group A Streptococcus [S. pyogenes] +/- S. aureus). - GOLD STANDARD MANAGEMENT: 1. IMMEDIATE EMERGENCY EXTENSIVE SURGICAL EXPLORATION AND DEBRIDEMENT (the single intervention that dictates survival); 2. EMPIRIC BROAD-SPECTRUM IV ANTIBIOTICS (Vancomycin + Piperacillin-Tazobactam + CLINDAMYCIN to block bacterial ribosomal protein synthesis and halt streptococcal toxin production). NEVER DELAY SURGERY FOR IMAGING.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Necrotizing Fasciitis Diagnostic Urgency and Surgical Debridement.",
+    "keyPoints": [
+      "Necrotizing Fasciitis Diagnostic Urgency and Surgical Debridement",
+      "Manage Necrotizing Fasciitis: Rapidly spreading, life-threatening infection of subcutaneous tissue and deep fascia. - CLINICAL HALLMARK: SEVERE PAIN DISPROPORTIONATE TO PHYSICAL FI"
+    ],
+    "references": [
+      {
+        "label": "Stevens DL, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):e10-e52. PMID: 24973422.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24973422/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0181",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Septic Arthritis vs Transient Synovitis Kocher Criteria",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-year-old boy is brought to the emergency department by his parents because of acute right hip pain, fever, and complete refusal to walk that began this morning. Three weeks ago, he had a mild upper respiratory tract infection that resolved uneventfully. On physical examination, the child is irritable, crying, and lying with his right hip held in flexion, abduction, and external rotation (the position of maximal joint volume). His temperature is 39.1°C (102.4°F), blood pressure is 98/62 mm Hg, heart rate is 138/min, and respirations are 24/min. The child adamantly refuses to bear any weight on his right leg. Gentle passive internal rotation of the right hip elicits intense guarding and screaming. Physical examination reveals no overlying erythema or swelling of the hip, and examination of the right knee and ankle is normal. Laboratory evaluation demonstrates: white blood cell count 16,800/mm³ with 82% neutrophils, erythrocyte sedimentation rate (ESR) 68 mm/hr, and C-reactive protein (CRP) 42 mg/L. Bedside ultrasound of the right hip reveals a large anechoic joint effusion with capsular distention of 8 mm (contralateral normal hip capsule 3 mm). Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Immediate ultrasound-guided hip arthrocentesis and preparation for emergent surgical drainage",
+        "correct": true,
+        "explanation": "This 4-year-old child presents with a high clinical likelihood of acute SEPTIC ARTHRITIS of the right hip. Septic arthritis in children is most frequently caused by Staphylococcus aureus or Streptococcus pyogenes (or Kingella kingae in young toddlers). The clinical dilemma is distinguishing septic arthritis from benign transient synovitis. The validated KOCHER PREDICTION CRITERIA utilize four variables: (1) Inability to bear weight; (2) Fever > 38.5°C; (3) WBC count > 12,000/mm³; and (4) ESR > 40 mm/hr (or elevated CRP). Patients meeting 4 of 4 criteria have a > 99% probability of septic arthritis. The child holds the hip in flexion, abduction, and external rotation to maximize intracapsular space and reduce pain. High intracapsular pressure from pus compromises femoral head epiphyseal blood vessels, risking permanent osteonecrosis and cartilage destruction within 24 hours. The immediate, mandatory next step is ULTRASOUND-GUIDED ARTHROCENTESIS to confirm the diagnosis (synovial WBC count typically > 50,000/mm³ with neutrophil predominance) followed by EMERGENT SURGICAL DRAINAGE (arthrotomy or arthroscopic washout) and intravenous antibiotics."
+      },
+      {
+        "text": "Prescription of oral ibuprofen, non-weight-bearing rest, and outpatient follow-up in 48 hours",
+        "correct": false,
+        "explanation": "Conservative NSAID therapy is appropriate for transient synovitis (0 to 1 Kocher criteria); treating a septic joint with NSAIDs leads to irreversible femoral head necrosis and permanent disability."
+      },
+      {
+        "text": "Intravenous ceftriaxone monotherapy while observing joint effusion resolution on serial ultrasounds",
+        "correct": false,
+        "explanation": "Antibiotics cannot sterilize a pressurized closed-space purulent joint infection without mechanical surgical evacuation and decompression."
+      },
+      {
+        "text": "Schedule an elective outpatient pelvic MRI under general anesthesia for next week",
+        "correct": false,
+        "explanation": "Delaying intervention for elective MRI allows purulent enzymatic destruction of articular cartilage and permanent vascular necrosis of the femoral epiphysis."
+      },
+      {
+        "text": "Apply a pediatric Pavlik harness to stabilize the hip joint in the emergency department",
+        "correct": false,
+        "explanation": "A Pavlik harness treats developmental dysplasia of the hip in infants < 6 months old; it has zero role in infectious joint disease."
+      }
+    ],
+    "explanation": "This 4-year-old child presents with a high clinical likelihood of acute SEPTIC ARTHRITIS of the right hip. Septic arthritis in children is most frequently caused by Staphylococcus aureus or Streptococcus pyogenes (or Kingella kingae in young toddlers). The clinical dilemma is distinguishing septic arthritis from benign transient synovitis. The validated KOCHER PREDICTION CRITERIA utilize four variables: (1) Inability to bear weight; (2) Fever > 38.5°C; (3) WBC count > 12,000/mm³; and (4) ESR > 40 mm/hr (or elevated CRP). Patients meeting 4 of 4 criteria have a > 99% probability of septic arthritis. The child holds the hip in flexion, abduction, and external rotation to maximize intracapsular space and reduce pain. High intracapsular pressure from pus compromises femoral head epiphyseal blood vessels, risking permanent osteonecrosis and cartilage destruction within 24 hours. The immediate, mandatory next step is ULTRASOUND-GUIDED ARTHROCENTESIS to confirm the diagnosis (synovial WBC count typically > 50,000/mm³ with neutrophil predominance) followed by EMERGENT SURGICAL DRAINAGE (arthrotomy or arthroscopic washout) and intravenous antibiotics. Differentiate Septic Hip from Transient Synovitis: KOCHER CRITERIA (each = 1 point): 1. Inability to bear weight on affected limb; 2. Fever > 38.5°C (101.3°F); 3. White blood cell count > 12,000/mm³; 4. ESR > 40 mm/hr (or CRP > 20 mg/L). INTERPRETATION: 0-1 criteria = low probability (transient synovitis; treat with NSAIDs and rest); >= 3-4 criteria = 93-99% probability of SEPTIC ARTHRITIS. MANAGEMENT FOR HIGH PROBABILITY: IMMEDIATE ULTRASOUND-GUIDED ARTHROCENTESIS (CSF/synovial fluid > 50,000 WBC with > 75-90% PMNs confirms) and EMERGENT SURGICAL ARTHROTOMY/WASH OUT to prevent femoral head osteonecrosis.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Septic Arthritis vs Transient Synovitis Kocher Criteria.",
+    "keyPoints": [
+      "Septic Arthritis vs Transient Synovitis Kocher Criteria",
+      "Differentiate Septic Hip from Transient Synovitis: KOCHER CRITERIA (each = 1 point): 1. Inability to bear weight on affected limb; 2. Fever > 38.5°C (101.3°F); 3. White blood cell "
+    ],
+    "references": [
+      {
+        "label": "Kocher MS, et al. Validation of a clinical prediction rule for the differentiation between septic arthritis and transient synovitis of the hip in children. J Bone Joint Surg Am. 2004;86(8):1629-1635. PMID: 15292409.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15292409/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0182",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Prosthetic Joint Infection Classification and Two-Stage Revision",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 71-year-old woman presents to the orthopedic clinic with a 4-month history of dull, progressive, aching right knee pain that occurs during weight bearing and has begun disturbing her sleep. She underwent an uncomplicated right total knee arthroplasty 7 months ago and initially had excellent functional recovery. Over the last 2 months, she has had no fevers, chills, or acute erythema, but notes increasing stiffness and mild warmth around the joint. On physical examination, the right knee exhibits a healed surgical scar without drainage or sinus tract formation; there is a moderate joint effusion, mild localized warmth, and tenderness along the joint lines. Active range of motion is 10 to 90 degrees and limited by pain. Plain radiographs of the right knee demonstrate radiolucent lines measuring 3 mm at the bone-cement interface beneath the tibial component, consistent with prosthetic loosening. Laboratory evaluation reveals: ESR 62 mm/hr and CRP 28 mg/L (normal < 5 mg/L). Arthrocentesis of the right knee yields cloudy synovial fluid with a white blood cell count of 18,500/mm³ with 78% polymorphonuclear cells; synovial fluid cultures grow coagulase-negative staphylococci (Staphylococcus epidermidis) resistant to methicillin. Which of the following is the most appropriate definitive surgical management strategy for this patient?",
+    "options": [
+      {
+        "text": "Arthroscopic joint washout with indefinite oral suppressive minocycline while retaining the loosened implant",
+        "correct": false,
+        "explanation": "Implant retention (DAIR) is contraindicated in delayed infections (> 3 months) and when prosthesis loosening is present, as biofilm-coated loose implants cannot be cleared by arthroscopy."
+      },
+      {
+        "text": "Complete hardware removal, extensive debridement, placement of an antibiotic-impregnated cement spacer, followed by delayed reimplantation of a new prosthesis (two-stage revision)",
+        "correct": true,
+        "explanation": "This patient presents with a delayed prosthetic joint infection (PJI) occurring 7 months after total knee arthroplasty, caused by Staphylococcus epidermidis. PJIs are categorized by timing: (1) Early (< 3 months): virulent pathogens (S. aureus, Gram-negatives) causing acute wound breakdown, manageable with debridement and implant retention (DAIR) if hardware is stable; (2) Delayed (3 to 12 months): indolent, low-virulence organisms (most notably coagulase-negative staphylococci or Cutibacterium) that produce dense extracellular polysaccharide glycocalyx BIOFILMS on prosthetic surfaces, causing chronic joint pain and progressive mechanical loosening (radiolucent lines at bone-cement interface); and (3) Late (> 12 months): typically acute hematogenous seeding. Because biofilm-embedded bacteria are impervious to host immune cells and systemic antibiotics, and the tibial component has already loosened, retention of the prosthesis is impossible. The gold-standard definitive strategy in North America is a TWO-STAGE REVISION ARTHROPLASTY: (1) Stage 1: Complete surgical explantation of all prosthetic components and cement, aggressive radical debridement, and placement of an articulating or static antibiotic-impregnated cement spacer (loaded with vancomycin/tobramycin), followed by 6 weeks of targeted IV antibiotics; (2) Stage 2: Reimplantation of a revision prosthesis once clinical signs resolve and ESR/CRP normalize."
+      },
+      {
+        "text": "Intravenous vancomycin monotherapy for 6 weeks without surgical intervention",
+        "correct": false,
+        "explanation": "Systemic antibiotics cannot penetrate the dense biofilm matrix on prosthetic hardware and cannot stabilize a mechanically loose implant."
+      },
+      {
+        "text": "Immediate one-stage revision with immediate cementless reimplantation without antibiotic spacers",
+        "correct": false,
+        "explanation": "In the presence of methicillin-resistant S. epidermidis and significant bone-cement interface loosening, two-stage revision provides vastly superior infection eradication compared to one-stage exchange."
+      },
+      {
+        "text": "Above-the-knee amputation of the right lower extremity",
+        "correct": false,
+        "explanation": "Amputation is a drastic last resort reserved for life-threatening sepsis or catastrophic soft-tissue and bone loss refractory to multiple revision attempts."
+      }
+    ],
+    "explanation": "This patient presents with a delayed prosthetic joint infection (PJI) occurring 7 months after total knee arthroplasty, caused by Staphylococcus epidermidis. PJIs are categorized by timing: (1) Early (< 3 months): virulent pathogens (S. aureus, Gram-negatives) causing acute wound breakdown, manageable with debridement and implant retention (DAIR) if hardware is stable; (2) Delayed (3 to 12 months): indolent, low-virulence organisms (most notably coagulase-negative staphylococci or Cutibacterium) that produce dense extracellular polysaccharide glycocalyx BIOFILMS on prosthetic surfaces, causing chronic joint pain and progressive mechanical loosening (radiolucent lines at bone-cement interface); and (3) Late (> 12 months): typically acute hematogenous seeding. Because biofilm-embedded bacteria are impervious to host immune cells and systemic antibiotics, and the tibial component has already loosened, retention of the prosthesis is impossible. The gold-standard definitive strategy in North America is a TWO-STAGE REVISION ARTHROPLASTY: (1) Stage 1: Complete surgical explantation of all prosthetic components and cement, aggressive radical debridement, and placement of an articulating or static antibiotic-impregnated cement spacer (loaded with vancomycin/tobramycin), followed by 6 weeks of targeted IV antibiotics; (2) Stage 2: Reimplantation of a revision prosthesis once clinical signs resolve and ESR/CRP normalize. Manage Prosthetic Joint Infection (PJI): Classified by onset: - EARLY (< 3 months post-op): High virulence (Staphylococcus aureus, Gram-negative bacilli). Acute joint pain, wound drainage, high fever. Managed with debridement, antibiotics, and implant retention (DAIR) if prosthesis is well-fixed. - DELAYED (3-12 months post-op): Low-virulence organisms forming BIOFILMS (COAGULASE-NEGATIVE STAPHYLOCOCCI, e.g., Staphylococcus epidermidis; Cutibacterium acnes). Indolent course: chronic joint pain, persistent loosening, low-grade inflammation. MANAGEMENT: TWO-STAGE REVISION ARTHROPLASTY (Stage 1: Explantation of hardware + thorough debridement + insertion of high-dose antibiotic-impregnated cement spacer; Stage 2: Re-implantation of new prosthesis after 6-12 weeks of IV antibiotics and normalization of ESR/CRP).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Prosthetic Joint Infection Classification and Two-Stage Revision.",
+    "keyPoints": [
+      "Prosthetic Joint Infection Classification and Two-Stage Revision",
+      "Manage Prosthetic Joint Infection (PJI): Classified by onset: - EARLY (< 3 months post-op): High virulence (Staphylococcus aureus, Gram-negative bacilli). Acute joint pain, wound d"
+    ],
+    "references": [
+      {
+        "label": "Osmon DR, et al. Diagnosis and management of prosthetic joint infection: clinical practice guidelines by the Infectious Diseases Society of America. Clin Infect Dis. 2013;56(1):e1-e25. PMID: 23223583.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23223583/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0183",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Fat Embolism Syndrome Pathophysiology and Clinical Triad",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 22-year-old man is hospitalized following a high-speed motorcycle crash in which he sustained a closed, displaced midshaft fracture of the right femur and a stable pelvic fracture. He was placed in skeletal traction awaiting definitive intramedullary nailing scheduled for tomorrow morning. Forty-eight hours after admission, the patient becomes acutely confused, anxious, and dyspneic. On physical examination, the patient is disoriented to time and location and agitated. His temperature is 38.4°C (101.1°F), blood pressure is 112/68 mm Hg, heart rate is 128/min, and respirations are 32/min. Pulse oximetry displays an oxygen saturation of 84% on ambient air that improves to 90% on a 100% non-rebreather mask. Auscultation of the lungs reveals diffuse bilateral inspiratory crackles. Physical examination of the skin reveals multiple scattered, pinpoint, non-blanching petechiae concentrated across the anterior chest, neck, axillae, and palpebral conjunctivae. Laboratory evaluation reveals: hemoglobin 9.8 g/dL (down from 13.5 g/dL at admission), platelet count 72,000/mm³ (down from 220,000/mm³), and arterial blood gas showing pH 7.48, PaCO2 30 mm Hg, and PaO2 56 mm Hg. A portable chest radiograph demonstrates bilateral, patchy, alveolar-interstitial infiltrates with a \"snowstorm\" appearance. CT pulmonary angiography shows no filling defects in the main, lobar, or segmental pulmonary arteries. Which of the following is the most appropriate management for this patient's condition?",
+    "options": [
+      {
+        "text": "Initiation of full-dose systemic anticoagulation with intravenous unfractionated heparin",
+        "correct": false,
+        "explanation": "Anticoagulation does not dissolve mechanical fat emboli and carries catastrophic hemorrhage risks in a patient with acute pelvic and femur fractures and severe thrombocytopenia."
+      },
+      {
+        "text": "Intravenous systemic thrombolysis with recombinant tissue plasminogen activator (alteplase)",
+        "correct": false,
+        "explanation": "Alteplase lyses fibrin clots in massive pulmonary thromboembolism; it has zero activity against fat globules and is lethal in fresh traumatic orthopedic injury."
+      },
+      {
+        "text": "Supportive pulmonary care with supplemental oxygen and mechanical ventilation as needed",
+        "correct": true,
+        "explanation": "This patient presents with FAT EMBOLISM SYNDROME (FES) following severe traumatic long-bone fractures (femur and pelvis). Fat embolism syndrome characteristically develops after a latent period of 24 to 72 hours following orthopedic trauma. Bone marrow fat and tissue factor enter disrupted medullary venous sinusoids, embolizing to the pulmonary microvasculature. Lipase breaks down neutral triglycerides into toxic free fatty acids, which trigger endothelial injury, chemical pneumonitis, and acute respiratory distress syndrome (ARDS). Microemboli also enter systemic circulation, causing multi-organ dysfunction. FES presents with a classic clinical triad: (1) Respiratory failure (severe hypoxemia, dyspnea, bilateral \"snowstorm\" pulmonary infiltrates); (2) Neurological abnormalities (acute delirium, confusion, seizures); and (3) A pathognomonic PETECHIAL RASH (typically distributed across the neck, axillae, chest, and conjunctivae, caused by microvascular fat occlusion and thrombocytopenia). Thrombocytopenia and sudden drop in hemoglobin are classic laboratory accompaniments. CT pulmonary angiography is characteristically negative because fat globules occlude microscopic capillary beds, not macroscopic vessels. MANAGEMENT: Treatment is STRICTLY SUPPORTIVE. Maintenance of adequate arterial oxygenation with supplemental oxygen or positive pressure mechanical ventilation is the cornerstone of therapy. Early surgical stabilization of long bone fractures reduces the incidence of FES. Systemic steroids or heparin have no proven efficacy."
+      },
+      {
+        "text": "High-dose intravenous methylprednisolone pulse therapy for 5 days",
+        "correct": false,
+        "explanation": "Routine use of high-dose corticosteroids in established fat embolism syndrome has not demonstrated clinical efficacy in controlled trials and increases infection risks."
+      },
+      {
+        "text": "Immediate placement of an inferior vena cava (IVC) filter",
+        "correct": false,
+        "explanation": "IVC filters trap large venous thromboemboli from deep leg veins; microscopic marrow fat globules easily pass through IVC filters."
+      }
+    ],
+    "explanation": "This patient presents with FAT EMBOLISM SYNDROME (FES) following severe traumatic long-bone fractures (femur and pelvis). Fat embolism syndrome characteristically develops after a latent period of 24 to 72 hours following orthopedic trauma. Bone marrow fat and tissue factor enter disrupted medullary venous sinusoids, embolizing to the pulmonary microvasculature. Lipase breaks down neutral triglycerides into toxic free fatty acids, which trigger endothelial injury, chemical pneumonitis, and acute respiratory distress syndrome (ARDS). Microemboli also enter systemic circulation, causing multi-organ dysfunction. FES presents with a classic clinical triad: (1) Respiratory failure (severe hypoxemia, dyspnea, bilateral \"snowstorm\" pulmonary infiltrates); (2) Neurological abnormalities (acute delirium, confusion, seizures); and (3) A pathognomonic PETECHIAL RASH (typically distributed across the neck, axillae, chest, and conjunctivae, caused by microvascular fat occlusion and thrombocytopenia). Thrombocytopenia and sudden drop in hemoglobin are classic laboratory accompaniments. CT pulmonary angiography is characteristically negative because fat globules occlude microscopic capillary beds, not macroscopic vessels. MANAGEMENT: Treatment is STRICTLY SUPPORTIVE. Maintenance of adequate arterial oxygenation with supplemental oxygen or positive pressure mechanical ventilation is the cornerstone of therapy. Early surgical stabilization of long bone fractures reduces the incidence of FES. Systemic steroids or heparin have no proven efficacy. Recognize Fat Embolism Syndrome (FES): Occurs 24-72 hours following traumatic long-bone fractures (FEMUR, TIBIA, PELVIS). Pathophysiology: Bone marrow fat globules enter torn venous sinusoids, embolize to pulmonary capillaries (lipase breaks down fat to toxic free fatty acids causing ARDS), and pass through patent foramen ovale or pulmonary circulation into systemic organs. CLASSIC CLINICAL TRIAD: 1. RESPIRATORY INSUFFICIENCY (dyspnea, hypoxemia, bilateral infiltrate on CXR); 2. NEUROLOGICAL COMPAIRMENT (confusion, delirium, stupor); 3. PETECHIAL RASH (pathognomonic: non-palpable petechiae in AXILLAE, CHEST, NECK, CONJUNCTIVAE). TREATMENT: SUPPORTIVE CARE (supplemental O2, mechanical ventilation for ARDS; early fracture immobilization prevents syndrome).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Fat Embolism Syndrome Pathophysiology and Clinical Triad.",
+    "keyPoints": [
+      "Fat Embolism Syndrome Pathophysiology and Clinical Triad",
+      "Recognize Fat Embolism Syndrome (FES): Occurs 24-72 hours following traumatic long-bone fractures (FEMUR, TIBIA, PELVIS). Pathophysiology: Bone marrow fat globules enter torn venou"
+    ],
+    "references": [
+      {
+        "label": "Rothberg DL, et al. Fat Embolism Syndrome. J Am Acad Orthop Surg. 2019;27(8):e346-e355. PMID: 30475253.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30475253/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0184",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Colorectal Cancer Screening in High-Risk Family History",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 36-year-old man presents to his primary care physician for a routine health maintenance evaluation. He has no gastrointestinal complaints, changes in bowel habits, hematochezia, melena, or unintended weight loss. His medical history is unremarkable, and he takes no medications. His family history is notable for his father, who was diagnosed with colon adenocarcinoma at the age of 48 years and successfully treated with hemicolectomy and adjuvant chemotherapy. His paternal grandfather died of a myocardial infarction at age 75 with no known malignancy. Physical examination, including abdominal palpation and digital rectal examination, is completely normal. Complete blood count demonstrates a normal hemoglobin of 15.2 g/dL. Which of the following is the most appropriate colorectal cancer screening recommendation for this patient?",
+    "options": [
+      {
+        "text": "Initiate annual fecal immunochemical testing (FIT) beginning at age 45",
+        "correct": false,
+        "explanation": "FIT testing is acceptable for average-risk individuals starting at age 45, but is inadequate for patients with a first-degree relative diagnosed with CRC before age 60, who require colonoscopy at age 38."
+      },
+      {
+        "text": "Initiate screening colonoscopy at age 45, and repeat colonoscopy every 10 years",
+        "correct": false,
+        "explanation": "Waiting until age 45 and screening at 10-year intervals ignores the significant familial risk and leaves the patient vulnerable to advanced adenomas."
+      },
+      {
+        "text": "Perform immediate screening colonoscopy today at age 36, and repeat annually",
+        "correct": false,
+        "explanation": "Screening 10 years prior to his father's diagnosis (age 38) is the recommended threshold; immediate colonoscopy at 36 and annual repeats are excessive in the absence of a hereditary syndrome like Lynch."
+      },
+      {
+        "text": "Initiate screening colonoscopy at age 38, and repeat colonoscopy every 5 years",
+        "correct": true,
+        "explanation": "Colorectal cancer (CRC) screening guidelines strictly stratify individuals based on family history. For average-risk individuals with no family history of CRC, guidelines recommend starting screening at age 45. However, individuals with a FIRST-DEGREE RELATIVE (parent, sibling, or child) diagnosed with colorectal cancer or an advanced adenomatous polyp before age 60 (or two or more first-degree relatives diagnosed at any age) are at substantially elevated risk. The guideline-directed recommendation for this high-risk group is: (1) Initiate screening via COLONOSCOPY at AGE 40 OR 10 YEARS BEFORE THE AGE OF THE YOUNGEST AFFECTED RELATIVE AT DIAGNOSIS, whichever comes first; and (2) Repeat colonoscopy EVERY 5 YEARS. In this patient's case, his father was diagnosed at age 48; ten years prior to that age is 38 years old (which is earlier than age 40). Therefore, this patient must undergo his initial screening colonoscopy at age 38, with repeat colonoscopies performed every 5 years thereafter. Non-invasive stool-based tests (such as FIT or stool DNA) are inappropriate for this high-risk population."
+      },
+      {
+        "text": "Order germline genetic testing for APC mutations and start sigmoidoscopy at age 50",
+        "correct": false,
+        "explanation": "APC mutations cause familial adenomatous polyposis (hundreds of polyps starting in teenage years); a single relative with CRC at age 48 does not meet criteria for FAP testing."
+      }
+    ],
+    "explanation": "Colorectal cancer (CRC) screening guidelines strictly stratify individuals based on family history. For average-risk individuals with no family history of CRC, guidelines recommend starting screening at age 45. However, individuals with a FIRST-DEGREE RELATIVE (parent, sibling, or child) diagnosed with colorectal cancer or an advanced adenomatous polyp before age 60 (or two or more first-degree relatives diagnosed at any age) are at substantially elevated risk. The guideline-directed recommendation for this high-risk group is: (1) Initiate screening via COLONOSCOPY at AGE 40 OR 10 YEARS BEFORE THE AGE OF THE YOUNGEST AFFECTED RELATIVE AT DIAGNOSIS, whichever comes first; and (2) Repeat colonoscopy EVERY 5 YEARS. In this patient's case, his father was diagnosed at age 48; ten years prior to that age is 38 years old (which is earlier than age 40). Therefore, this patient must undergo his initial screening colonoscopy at age 38, with repeat colonoscopies performed every 5 years thereafter. Non-invasive stool-based tests (such as FIT or stool DNA) are inappropriate for this high-risk population. Manage Colorectal Cancer (CRC) Screening Guidelines: - AVERAGE RISK: Screen starting at AGE 45 until age 75 (colonoscopy every 10 years, FIT annually, or sDNA-FIT every 3 years). - HIGH-RISK FAMILY HISTORY: First-degree relative (parent, sibling, child) diagnosed with CRC or advanced adenoma BEFORE AGE 60 (or >= 2 first-degree relatives at any age): START COLONOSCOPY AT AGE 40 OR 10 YEARS EARLIER THAN THE YOUNGEST AFFECTED RELATIVE'S DIAGNOSIS (whichever is earlier), and REPEAT COLONOSCOPY EVERY 5 YEARS (never stool-based tests).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Colorectal Cancer Screening in High-Risk Family History.",
+    "keyPoints": [
+      "Colorectal Cancer Screening in High-Risk Family History",
+      "Manage Colorectal Cancer (CRC) Screening Guidelines: - AVERAGE RISK: Screen starting at AGE 45 until age 75 (colonoscopy every 10 years, FIT annually, or sDNA-FIT every 3 years). -"
+    ],
+    "references": [
+      {
+        "label": "Rex DK, et al. Colorectal Cancer Screening: Recommendations for Physicians and Patients from the U.S. Multi-Society Task Force on Colorectal Cancer. Am J Gastroenterol. 2017;112(7):1016-1030. PMID: 28608826.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28608826/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0185",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Lung Cancer Screening Criteria (USPSTF)",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old woman presents to her primary care clinic for an annual preventive wellness examination. She feels well and has no chronic cough, hemoptysis, shortness of breath, chest pain, or unintended weight loss. Her past medical history is notable for well-controlled hypertension on lisinopril. She reports that she smoked one pack of cigarettes daily for 24 years (24 pack-years) before successfully quitting 6 years ago when her first grandchild was born; she has remained abstinent from all tobacco products since that time. Physical examination, including auscultation of the lungs and cardiovascular system, is completely normal. The patient asks if there are any screening tests she should undergo to check for lung cancer. Which of the following is the most appropriate recommendation for lung cancer screening in this patient?",
+    "options": [
+      {
+        "text": "Annual screening with posteroanterior and lateral chest radiography",
+        "correct": false,
+        "explanation": "Plain chest radiography is not recommended for lung cancer screening because large randomized trials demonstrated no reduction in lung cancer mortality and high rates of false negatives."
+      },
+      {
+        "text": "No screening is indicated because she successfully quit smoking 6 years ago",
+        "correct": false,
+        "explanation": "Smoking cessation within the past 15 years still qualifies the patient for screening; high risk persists for well over a decade after quitting."
+      },
+      {
+        "text": "Routine annual sputum cytology examinations combined with spirometry",
+        "correct": false,
+        "explanation": "Sputum cytology has low sensitivity and provides zero survival benefit in lung cancer screening."
+      },
+      {
+        "text": "One-time baseline contrast-enhanced chest CT followed by screening only if symptoms develop",
+        "correct": false,
+        "explanation": "Screening requires annual low-dose non-contrast CT, not a one-time IV-contrast study, to detect early, asymptomatic, resectable Stage I nodules."
+      },
+      {
+        "text": "Annual screening with low-dose computed tomography (LDCT) of the chest",
+        "correct": true,
+        "explanation": "This patient meets all criteria for lung cancer screening under the updated United States Preventive Services Task Force (USPSTF) guidelines. Lung cancer is the leading cause of cancer-related death in both men and women. The USPSTF guidelines recommend ANNUAL SCREENING FOR LUNG CANCER WITH LOW-DOSE COMPUTED TOMOGRAPHY (LDCT) in individuals who meet all three of the following criteria: (1) Age 50 to 80 years old (patient is 56); (2) At least a 20 pack-year smoking history (patient has a 24 pack-year history: 1 pack/day x 24 years); and (3) Currently smoking OR have quit smoking within the past 15 years (patient quit 6 years ago). Screening should be discontinued once a person has not smoked for 15 years, reaches age 81, or develops a health problem that substantially limits life expectancy or the ability to undergo curative lung surgery. Plain chest radiography and sputum cytology have been rigorously studied and proven ineffective for lung cancer screening, failing to reduce mortality."
+      }
+    ],
+    "explanation": "This patient meets all criteria for lung cancer screening under the updated United States Preventive Services Task Force (USPSTF) guidelines. Lung cancer is the leading cause of cancer-related death in both men and women. The USPSTF guidelines recommend ANNUAL SCREENING FOR LUNG CANCER WITH LOW-DOSE COMPUTED TOMOGRAPHY (LDCT) in individuals who meet all three of the following criteria: (1) Age 50 to 80 years old (patient is 56); (2) At least a 20 pack-year smoking history (patient has a 24 pack-year history: 1 pack/day x 24 years); and (3) Currently smoking OR have quit smoking within the past 15 years (patient quit 6 years ago). Screening should be discontinued once a person has not smoked for 15 years, reaches age 81, or develops a health problem that substantially limits life expectancy or the ability to undergo curative lung surgery. Plain chest radiography and sputum cytology have been rigorously studied and proven ineffective for lung cancer screening, failing to reduce mortality. Manage Lung Cancer Screening Guidelines (USPSTF 2021 Update): - SCREENING MODALITY: ANNUAL LOW-DOSE COMPUTED TOMOGRAPHY (LDCT) of the chest. - ELIGIBILITY CRITERIA: 1. Age 50 to 80 years; 2. >= 20 PACK-YEAR smoking history (calculated as packs per day x years smoked); 3. Currently smoke OR have quit within the past 15 years. - DISCONTINUATION CRITERIA: Stop screening once the person reaches age 81, has not smoked for > 15 years, or develops a severe health condition that substantially limits life expectancy or ability to undergo curative lung surgery. Chest X-ray has ZERO role in screening.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Lung Cancer Screening Criteria (USPSTF).",
+    "keyPoints": [
+      "Lung Cancer Screening Criteria (USPSTF)",
+      "Manage Lung Cancer Screening Guidelines (USPSTF 2021 Update): - SCREENING MODALITY: ANNUAL LOW-DOSE COMPUTED TOMOGRAPHY (LDCT) of the chest. - ELIGIBILITY CRITERIA: 1. Age 50 to 80"
+    ],
+    "references": [
+      {
+        "label": "US Preventive Services Task Force. Screening for Lung Cancer: US Preventive Services Task Force Recommendation Statement. JAMA. 2021;325(10):962-970. PMID: 33687442.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33687442/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0186",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Abdominal Aortic Aneurysm Screening Guidelines (USPSTF)",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 67-year-old man visits his primary care physician for a Medicare annual wellness visit. He has no current symptoms, chest pain, abdominal pain, or back pain. His medical history includes osteoarthritis of the knees and mild hyperlipidemia. He smoked half a pack of cigarettes daily from age 20 to 35 (approximately 7.5 pack-years) but quit 32 years ago. Physical examination reveals a blood pressure of 124/78 mm Hg, heart rate of 70/min, and body mass index of 26 kg/m². Abdominal examination demonstrates a soft, non-tender abdomen; no pulsatile abdominal mass is palpated. Peripheral pulses are normal. The patient asks which cardiovascular screening tests are indicated for him at this age. Which of the following is the most appropriate screening intervention for this patient?",
+    "options": [
+      {
+        "text": "A one-time screening abdominal duplex ultrasonography",
+        "correct": true,
+        "explanation": "This 67-year-old man qualifies for abdominal aortic aneurysm (AAA) screening. The United States Preventive Services Task Force (USPSTF) guidelines recommend a ONE-TIME SCREENING ABDOMINAL ULTRASONOGRAPHY in MEN AGED 65 TO 75 YEARS WHO HAVE EVER SMOKED. In epidemiologic and screening definitions, \"ever smoker\" is defined as having smoked at least 100 cigarettes during one's lifetime. Even though this patient quit smoking 32 years ago, his 7.5 pack-year history (> 50,000 cigarettes) firmly classifies him as an ever-smoker. Abdominal ultrasound is a highly sensitive (95%) and specific (99%) non-invasive imaging test that significantly reduces AAA-related rupture and mortality. In contrast, routine screening is not recommended for women who have never smoked, and selective screening is considered only in women aged 65-75 with a smoking history and other risk factors. Physical examination alone is insufficiently sensitive to detect non-ruptured aneurysms."
+      },
+      {
+        "text": "No abdominal imaging is indicated because he quit smoking more than 15 years ago",
+        "correct": false,
+        "explanation": "While lung cancer screening stops 15 years after smoking cessation, AAA screening applies to any man aged 65 to 75 who has EVER smoked >= 100 cigarettes, regardless of when they quit."
+      },
+      {
+        "text": "Contrast-enhanced computed tomography of the abdomen and pelvis",
+        "correct": false,
+        "explanation": "Contrast-enhanced CT involves unnecessary ionizing radiation and nephrotoxic iodinated contrast; non-invasive duplex ultrasound is the screening gold standard."
+      },
+      {
+        "text": "Routine annual abdominal palpation examinations without imaging",
+        "correct": false,
+        "explanation": "Physical palpation of the aorta has very poor sensitivity (< 40%), especially in overweight patients, and cannot reliably rule out an expanding aneurysm."
+      },
+      {
+        "text": "Magnetic resonance angiography of the abdominal aorta and iliac arteries",
+        "correct": false,
+        "explanation": "MRA is costly, time-consuming, and unnecessary for population-level screening compared to simple point-of-care duplex ultrasound."
+      }
+    ],
+    "explanation": "This 67-year-old man qualifies for abdominal aortic aneurysm (AAA) screening. The United States Preventive Services Task Force (USPSTF) guidelines recommend a ONE-TIME SCREENING ABDOMINAL ULTRASONOGRAPHY in MEN AGED 65 TO 75 YEARS WHO HAVE EVER SMOKED. In epidemiologic and screening definitions, \"ever smoker\" is defined as having smoked at least 100 cigarettes during one's lifetime. Even though this patient quit smoking 32 years ago, his 7.5 pack-year history (> 50,000 cigarettes) firmly classifies him as an ever-smoker. Abdominal ultrasound is a highly sensitive (95%) and specific (99%) non-invasive imaging test that significantly reduces AAA-related rupture and mortality. In contrast, routine screening is not recommended for women who have never smoked, and selective screening is considered only in women aged 65-75 with a smoking history and other risk factors. Physical examination alone is insufficiently sensitive to detect non-ruptured aneurysms. Manage Abdominal Aortic Aneurysm (AAA) Screening Guidelines (USPSTF): - ELIGIBILITY CRITERIA: MEN AGED 65 TO 75 YEARS WHO HAVE EVER SMOKED (defined as >= 100 cigarettes in lifetime). - SCREENING TEST: ONE-TIME ABDOMINAL ULTRASONOGRAPHY. - THRESHOLDS FOR MANAGEMENT: - Normal (< 3 cm): No further screening; - Small AAA (3.0-3.9 cm): Ultrasound surveillance every 2-3 years; - Medium AAA (4.0-5.4 cm): Ultrasound surveillance every 6-12 months; - SURGICAL REPAIR INDICATIONS: Diameter >= 5.5 cm in men (or >= 5.0 cm in women), rapid expansion (> 0.5 cm in 6 months or > 1 cm in 1 year), or any symptomatic AAA.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Abdominal Aortic Aneurysm Screening Guidelines (USPSTF).",
+    "keyPoints": [
+      "Abdominal Aortic Aneurysm Screening Guidelines (USPSTF)",
+      "Manage Abdominal Aortic Aneurysm (AAA) Screening Guidelines (USPSTF): - ELIGIBILITY CRITERIA: MEN AGED 65 TO 75 YEARS WHO HAVE EVER SMOKED (defined as >= 100 cigarettes in lifetime"
+    ],
+    "references": [
+      {
+        "label": "US Preventive Services Task Force. Screening for Abdominal Aortic Aneurysm: US Preventive Services Task Force Recommendation Statement. JAMA. 2019;322(22):2211-2218. PMID: 31821437.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31821437/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0187",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Cervical Cancer Screening and Discontinuation Age Rules",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old woman presents to the clinic for a routine gynecological checkup. She has been in a monogamous relationship with her husband for 40 years. She has no abnormal vaginal bleeding, postcoital bleeding, discharge, or pelvic pain. Her gynecologic history reveals that she underwent routine cervical cancer screening throughout her adult life. Her records confirm completely normal cervical cytology and negative high-risk HPV co-testing 4 years ago (at age 61) and 9 years ago (at age 56). She has never had an abnormal Pap smear, cervical dysplasia, cervical intraepithelial neoplasia (CIN), or human papillomavirus infection. Speculum examination reveals a normal, smooth, atrophic cervix without visible lesions, friability, or discharge; bimanual examination is unremarkable. The patient asks whether she needs to have another Pap smear today. Which of the following is the most appropriate management recommendation for this patient?",
+    "options": [
+      {
+        "text": "Perform cervical cytology alone today and schedule repeat testing in 3 years",
+        "correct": false,
+        "explanation": "Continuing routine screening beyond age 65 in a woman with adequate prior negative screening results in unnecessary procedures, false positives, and patient anxiety."
+      },
+      {
+        "text": "Discontinue cervical cancer screening permanently, as she meets criteria for adequate prior negative screening",
+        "correct": true,
+        "explanation": "This 65-year-old woman meets all criteria for DISCONTINUATION OF CERVICAL CANCER SCREENING under the USPSTF and American College of Obstetricians and Gynecologists (ACOG) guidelines. Guidelines state that routine screening for cervical cancer can be safely stopped at AGE 65 in women who have had \"adequate prior negative screening\" and are not otherwise at high risk for cervical cancer. Adequate prior negative screening is rigorously defined as: (1) Three consecutive negative cytology (Pap) results alone, OR (2) Two consecutive negative high-risk HPV (hrHPV) or co-testing results within the past 10 years, with the most recent test performed within the past 5 years. In addition, the patient must have no history of CIN 2 or higher within the past 20 years. Because this patient has documented negative co-testing at age 56 and 61 (within the past 10 years) and no history of cervical dysplasia, she should be counseled that she no longer requires routine cervical screening at age 65 or beyond."
+      },
+      {
+        "text": "Perform high-risk HPV testing today and discontinue screening only if negative",
+        "correct": false,
+        "explanation": "She already has documented adequate negative screening with co-testing within the past 5 years; an additional test today is not required."
+      },
+      {
+        "text": "Perform diagnostic colposcopy and endocervical curettage to establish baseline cessation histology",
+        "correct": false,
+        "explanation": "Colposcopy is a diagnostic evaluation for abnormal screening results (e.g., HSIL, ASC-US HPV+, or persistent HPV); it has zero role as a screening tool."
+      },
+      {
+        "text": "Continue annual cervical cytology until age 75 regardless of prior history",
+        "correct": false,
+        "explanation": "Annual Pap smears are outdated, and screening to age 75 is only recommended for patients with a history of CIN 2/3 who require continued surveillance for 20 years."
+      }
+    ],
+    "explanation": "This 65-year-old woman meets all criteria for DISCONTINUATION OF CERVICAL CANCER SCREENING under the USPSTF and American College of Obstetricians and Gynecologists (ACOG) guidelines. Guidelines state that routine screening for cervical cancer can be safely stopped at AGE 65 in women who have had \"adequate prior negative screening\" and are not otherwise at high risk for cervical cancer. Adequate prior negative screening is rigorously defined as: (1) Three consecutive negative cytology (Pap) results alone, OR (2) Two consecutive negative high-risk HPV (hrHPV) or co-testing results within the past 10 years, with the most recent test performed within the past 5 years. In addition, the patient must have no history of CIN 2 or higher within the past 20 years. Because this patient has documented negative co-testing at age 56 and 61 (within the past 10 years) and no history of cervical dysplasia, she should be counseled that she no longer requires routine cervical screening at age 65 or beyond. Manage Cervical Cancer Screening (USPSTF Guidelines): - AGE 21-29: Cervical cytology (Pap smear) alone EVERY 3 YEARS (HPV co-testing is NOT recommended under age 30 due to high transient HPV clearance). - AGE 30-65: Three acceptable options: 1. High-risk HPV (hrHPV) testing alone EVERY 5 YEARS; 2. hrHPV + Cytology co-testing EVERY 5 YEARS; 3. Cytology alone EVERY 3 YEARS. - DISCONTINUATION AT AGE 65: Discontinue screening if ADEQUATE PRIOR NEGATIVE SCREENING (3 consecutive negative cytology tests OR 2 consecutive negative co-tests within past 10 years, with most recent within 5 years) and NO history of high-grade precancer (CIN 2+) in past 20 years.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cervical Cancer Screening and Discontinuation Age Rules.",
+    "keyPoints": [
+      "Cervical Cancer Screening and Discontinuation Age Rules",
+      "Manage Cervical Cancer Screening (USPSTF Guidelines): - AGE 21-29: Cervical cytology (Pap smear) alone EVERY 3 YEARS (HPV co-testing is NOT recommended under age 30 due to high tra"
+    ],
+    "references": [
+      {
+        "label": "US Preventive Services Task Force. Screening for Cervical Cancer: US Preventive Services Task Force Recommendation Statement. JAMA. 2018;320(7):674-686. PMID: 30140884.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30140884/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0188",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Breast Cancer Screening Guidelines (USPSTF 2024 Update)",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 40-year-old woman presents to her primary care clinic for an annual health maintenance evaluation. She has no breast lumps, nipple discharge, skin changes, or breast pain. Her medical history is unremarkable, and she takes no medications. Her family history is negative for breast, ovarian, or colorectal cancers in any first- or second-degree relatives. Physical examination of the breasts and axillae reveals symmetric breasts with no palpable masses, skin dimpling, or axillary lymphadenopathy. The patient expresses concern because she has heard conflicting information regarding when women should start having routine mammograms to screen for breast cancer. Which of the following is the most appropriate recommendation regarding breast cancer screening for this average-risk patient?",
+    "options": [
+      {
+        "text": "Delay screening mammography until age 50, as mammograms before 50 have excessive false positives",
+        "correct": false,
+        "explanation": "The 2024 USPSTF guidelines updated the age of initiation to age 40 because modern digital mammography provides significant mortality reduction that outweighs false positives."
+      },
+      {
+        "text": "Order bilateral breast magnetic resonance imaging (MRI) in place of mammography",
+        "correct": false,
+        "explanation": "Screening breast MRI is reserved exclusively for high-risk women (lifetime risk > 20%, BRCA mutation); it is not recommended for average-risk women."
+      },
+      {
+        "text": "Initiate screening mammography now at age 40, and repeat every 2 years through age 74",
+        "correct": true,
+        "explanation": "Under the updated 2024 United States Preventive Services Task Force (USPSTF) guidelines, average-risk women should START BIENNIAL (EVERY 2 YEARS) SCREENING MAMMOGRAPHY AT AGE 40 YEARS (lowered from the previous recommendation of age 50) and continue screening through age 74. Extensive epidemiological modeling and randomized trial evidence demonstrated that starting biennial mammography at age 40 saves approximately 20% more lives from breast cancer compared to waiting until age 50, with a favorable benefit-to-harm ratio. High-risk women (e.g., those with known BRCA1/BRCA2 pathogenic variants, first-degree relatives with premenopausal breast cancer, or those who received chest mantle radiation therapy for Hodgkin lymphoma before age 30) require earlier, enhanced surveillance that includes annual contrast-enhanced breast MRI starting as early as age 25 to 30. Clinical breast examination alone or breast self-examination has not been shown to reduce mortality and is not recommended as a substitute for mammography."
+      },
+      {
+        "text": "Recommend monthly breast self-examinations and perform screening mammography only if a nodule is felt",
+        "correct": false,
+        "explanation": "Breast self-examination does not decrease breast cancer mortality and increases unnecessary benign biopsies; routine mammographic screening detects non-palpable early tumors."
+      },
+      {
+        "text": "Perform annual screening mammography combined with whole-breast ultrasound",
+        "correct": false,
+        "explanation": "Screening whole-breast ultrasound is an adjunct considered only for women with extremely dense breasts on mammography, not an initial screening tool in average-risk women."
+      }
+    ],
+    "explanation": "Under the updated 2024 United States Preventive Services Task Force (USPSTF) guidelines, average-risk women should START BIENNIAL (EVERY 2 YEARS) SCREENING MAMMOGRAPHY AT AGE 40 YEARS (lowered from the previous recommendation of age 50) and continue screening through age 74. Extensive epidemiological modeling and randomized trial evidence demonstrated that starting biennial mammography at age 40 saves approximately 20% more lives from breast cancer compared to waiting until age 50, with a favorable benefit-to-harm ratio. High-risk women (e.g., those with known BRCA1/BRCA2 pathogenic variants, first-degree relatives with premenopausal breast cancer, or those who received chest mantle radiation therapy for Hodgkin lymphoma before age 30) require earlier, enhanced surveillance that includes annual contrast-enhanced breast MRI starting as early as age 25 to 30. Clinical breast examination alone or breast self-examination has not been shown to reduce mortality and is not recommended as a substitute for mammography. Manage Breast Cancer Screening (USPSTF 2024 Update): - MODALITY: BIENNIAL (EVERY 2 YEARS) SCREENING MAMMOGRAPHY. - AGE OF INITIATION: START AT AGE 40 YEARS for all average-risk women (updated down from age 50). - DURATION: Continue through AGE 74 YEARS. - HIGH RISK (BRCA1/2 mutations, lifetime risk > 20% by models, or prior mantle radiation for Hodgkin lymphoma): Start annual screening MRI + mammogram at age 25-30. Clinical breast examination alone does NOT reduce mortality.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Breast Cancer Screening Guidelines (USPSTF 2024 Update).",
+    "keyPoints": [
+      "Breast Cancer Screening Guidelines (USPSTF 2024 Update)",
+      "Manage Breast Cancer Screening (USPSTF 2024 Update): - MODALITY: BIENNIAL (EVERY 2 YEARS) SCREENING MAMMOGRAPHY. - AGE OF INITIATION: START AT AGE 40 YEARS for all average-risk wom"
+    ],
+    "references": [
+      {
+        "label": "US Preventive Services Task Force. Screening for Breast Cancer: US Preventive Services Task Force Recommendation Statement. JAMA. 2024;331(22):1918-1930. PMID: 38687790.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38687790/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0189",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Statin Therapy Indications for Primary Prevention of ASCVD",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old man visits his primary care physician for a routine health maintenance visit. He has a 3-year history of type 2 diabetes mellitus that is well-controlled on oral metformin. He has no chest pain, shortness of breath, claudication, or focal neurological deficits. He has never smoked cigarettes. On physical examination, his blood pressure is 126/78 mm Hg, heart rate is 72/min, and body mass index is 28 kg/m². Physical examination of the cardiovascular, respiratory, and neurological systems is completely normal. Laboratory evaluation demonstrates: fasting plasma glucose 124 mg/dL, hemoglobin A1c 6.8%, serum creatinine 0.8 mg/dL, total cholesterol 182 mg/dL, HDL cholesterol 44 mg/dL, triglycerides 160 mg/dL, and calculated LDL cholesterol 106 mg/dL. Urinalysis reveals no microalbuminuria. The patient has never taken a lipid-lowering medication. In addition to continuing metformin and lifestyle modifications, which of the following is the most appropriate management for this patient's cardiovascular risk?",
+    "options": [
+      {
+        "text": "Withhold statin therapy because his LDL cholesterol is below 130 mg/dL",
+        "correct": false,
+        "explanation": "In diabetic patients aged 40 to 75, statin therapy is indicated regardless of whether LDL is below 130 mg/dL; diabetes itself is an independent high-risk driver."
+      },
+      {
+        "text": "Initiate daily oral gemfibrozil therapy to lower triglyceride levels",
+        "correct": false,
+        "explanation": "Fibrates are indicated for severe hypertriglyceridemia (> 500-1000 mg/dL) to prevent acute pancreatitis; they do not reduce ASCVD mortality compared to statins."
+      },
+      {
+        "text": "Prescribe daily 81 mg enteric-coated aspirin for primary cardiovascular prophylaxis",
+        "correct": false,
+        "explanation": "Routine aspirin for primary prevention in diabetics without established ASCVD is no longer recommended due to significant bleeding risks exceeding ischemic benefits."
+      },
+      {
+        "text": "Initiate moderate-intensity statin therapy (such as atorvastatin 20 mg daily)",
+        "correct": true,
+        "explanation": "This 52-year-old man has type 2 diabetes mellitus without established atherosclerotic cardiovascular disease (ASCVD). Under the ACC/AHA cholesterol guidelines, any adult AGED 40 TO 75 YEARS WITH DIABETES MELLITUS AUTOMATICALLY QUALIFIES FOR STATIN THERAPY FOR PRIMARY PREVENTION, REGARDLESS OF THEIR BASELINE LDL CHOLESTEROL LEVEL (even if LDL is near-normal at 106 mg/dL). Diabetes confers a high lifetime cardiovascular event rate equivalent to that of established coronary disease. The guideline recommendation for diabetic patients aged 40 to 75 without clinical ASCVD is to immediately initiate a MODERATE-INTENSITY STATIN (e.g., atorvastatin 10 to 20 mg daily, rosuvastatin 5 to 10 mg daily, or simvastatin 20 to 40 mg daily), which lowers LDL cholesterol by 30% to 49%. If diabetes-specific risk enhancers are present (such as duration of diabetes >= 10 years, retinopathy, neuropathy, CKD with eGFR < 60, albuminuria, or 10-year ASCVD risk >= 20%), escalating to a HIGH-INTENSITY STATIN (atorvastatin 40-80 mg or rosuvastatin 20-40 mg) is indicated."
+      },
+      {
+        "text": "Initiate oral ezetimibe monotherapy as first-line lipid management",
+        "correct": false,
+        "explanation": "Ezetimibe is a second-line adjunct added to statins if LDL goals are not met; statins are always the primary first-line mortality-reducing pharmacotherapy."
+      }
+    ],
+    "explanation": "This 52-year-old man has type 2 diabetes mellitus without established atherosclerotic cardiovascular disease (ASCVD). Under the ACC/AHA cholesterol guidelines, any adult AGED 40 TO 75 YEARS WITH DIABETES MELLITUS AUTOMATICALLY QUALIFIES FOR STATIN THERAPY FOR PRIMARY PREVENTION, REGARDLESS OF THEIR BASELINE LDL CHOLESTEROL LEVEL (even if LDL is near-normal at 106 mg/dL). Diabetes confers a high lifetime cardiovascular event rate equivalent to that of established coronary disease. The guideline recommendation for diabetic patients aged 40 to 75 without clinical ASCVD is to immediately initiate a MODERATE-INTENSITY STATIN (e.g., atorvastatin 10 to 20 mg daily, rosuvastatin 5 to 10 mg daily, or simvastatin 20 to 40 mg daily), which lowers LDL cholesterol by 30% to 49%. If diabetes-specific risk enhancers are present (such as duration of diabetes >= 10 years, retinopathy, neuropathy, CKD with eGFR < 60, albuminuria, or 10-year ASCVD risk >= 20%), escalating to a HIGH-INTENSITY STATIN (atorvastatin 40-80 mg or rosuvastatin 20-40 mg) is indicated. Manage Statin Therapy for Primary ASCVD Prevention (ACC/AHA Guidelines): - 4 MAJOR STATIN BENEFIT GROUPS: 1. Clinical ASCVD (CAD, stroke, PAD) -> HIGH-INTENSITY STATIN (Atorvastatin 40-80 mg or Rosuvastatin 20-40 mg); 2. Severe Hypercholesterolemia (LDL >= 190 mg/dL) -> HIGH-INTENSITY STATIN; 3. DIABETES MELLITUS in adults AGED 40 TO 75 YEARS -> MODERATE-INTENSITY STATIN (e.g., Atorvastatin 10-20 mg or Rosuvastatin 5-10 mg); escalate to high-intensity if multiple risk factors or 10-yr risk >= 20%; 4. Adults aged 40-75 with 10-year ASCVD risk >= 7.5% -> MODERATE-INTENSITY STATIN.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Statin Therapy Indications for Primary Prevention of ASCVD.",
+    "keyPoints": [
+      "Statin Therapy Indications for Primary Prevention of ASCVD",
+      "Manage Statin Therapy for Primary ASCVD Prevention (ACC/AHA Guidelines): - 4 MAJOR STATIN BENEFIT GROUPS: 1. Clinical ASCVD (CAD, stroke, PAD) -> HIGH-INTENSITY STATIN (Atorvastati"
+    ],
+    "references": [
+      {
+        "label": "Grundy SM, et al. 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol. Circulation. 2019;139(25):e1082-e1143. PMID: 30422248.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30422248/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0190",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Osteoporosis Screening and First-Line Bisphosphonate Therapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 67-year-old postmenopausal woman visits her physician for a routine health maintenance examination. She has no bone pain, back pain, weakness, or history of falls. Her medical history includes well-controlled hypertension on amlodipine. She went through natural menopause at age 51. She does not smoke or drink alcohol. Physical examination reveals a height of 162 cm (loss of 1 cm since age 50), weight of 58 kg, and body mass index of 22 kg/m². Spinal examination reveals normal thoracic curvature without focal vertebral tenderness. As recommended for women aged 65 and older, a screening dual-energy X-ray absorptiometry (DEXA) scan is performed. The scan reveals a bone mineral density T-score of -2.8 at the left femoral neck and -3.0 at the lumbar spine (L1-L4). Laboratory testing shows: serum calcium 9.4 mg/dL, phosphorus 3.4 mg/dL, 25-hydroxyvitamin D 32 ng/mL, creatinine 0.8 mg/dL, and alkaline phosphatase 68 U/L. Which of the following is the most appropriate first-line pharmacologic therapy for this patient?",
+    "options": [
+      {
+        "text": "Subcutaneous teriparatide daily injections monotherapy",
+        "correct": false,
+        "explanation": "Teriparatide (recombinant PTH 1-34) is an anabolic bone-forming agent reserved for severe refractory osteoporosis with recurrent fractures or T-scores < -3.5, not initial uncomplicated management."
+      },
+      {
+        "text": "Oral raloxifene tablet daily as first-line monotherapy",
+        "correct": false,
+        "explanation": "Raloxifene is a selective estrogen receptor modulator (SERM) that reduces vertebral fractures but has no proven efficacy in reducing non-vertebral or hip fractures, and increases DVT/PE risk."
+      },
+      {
+        "text": "Dietary calcium and vitamin D supplementation alone without prescription medication",
+        "correct": false,
+        "explanation": "While calcium (1,200 mg/day) and vitamin D (800-1,000 IU/day) are essential adjuncts, nutritional supplementation alone fails to arrest bone loss in established osteoporosis with T-score -2.8."
+      },
+      {
+        "text": "Oral conjugated equine estrogens combined with medroxyprogesterone acetate",
+        "correct": false,
+        "explanation": "Hormone replacement therapy is not recommended for osteoporosis treatment due to risks of venous thromboembolism, stroke, and breast cancer outlined in the Women's Health Initiative trials."
+      },
+      {
+        "text": "Oral alendronate once weekly with instructions to remain upright for 30 minutes after dosing",
+        "correct": true,
+        "explanation": "This 67-year-old woman has documented OSTEOPOROSIS on screening dual-energy X-ray absorptiometry (DEXA). Osteoporosis is diagnosed by: (1) A DEXA bone mineral density T-score <= -2.5 at the lumbar spine, total hip, or femoral neck; or (2) The occurrence of a low-trauma fragility fracture (e.g., hip or vertebral compression fracture). All women aged >= 65 years should undergo routine screening DEXA. The first-line pharmacologic therapy of choice is an ORAL BISPHOSPHONATE (such as ALENDRONATE 70 mg orally once weekly or risedronate 35 mg once weekly). Bisphosphonates are synthetic pyrophosphate analogs that bind strongly to hydroxyapatite crystals in bone and inhibit osteoclast-mediated bone resorption, significantly increasing bone mineral density and reducing vertebral and hip fracture rates by ~50%. Proper patient education is paramount to prevent severe chemical pill-induced esophagitis and esophageal ulceration: the medication must be swallowed whole first thing in the morning with a full glass (8 oz) of plain water, at least 30 minutes before any food or other medications, and the patient must REMAIN COMPLETELY UPRIGHT (sitting or standing) for at least 30 minutes afterward."
+      }
+    ],
+    "explanation": "This 67-year-old woman has documented OSTEOPOROSIS on screening dual-energy X-ray absorptiometry (DEXA). Osteoporosis is diagnosed by: (1) A DEXA bone mineral density T-score <= -2.5 at the lumbar spine, total hip, or femoral neck; or (2) The occurrence of a low-trauma fragility fracture (e.g., hip or vertebral compression fracture). All women aged >= 65 years should undergo routine screening DEXA. The first-line pharmacologic therapy of choice is an ORAL BISPHOSPHONATE (such as ALENDRONATE 70 mg orally once weekly or risedronate 35 mg once weekly). Bisphosphonates are synthetic pyrophosphate analogs that bind strongly to hydroxyapatite crystals in bone and inhibit osteoclast-mediated bone resorption, significantly increasing bone mineral density and reducing vertebral and hip fracture rates by ~50%. Proper patient education is paramount to prevent severe chemical pill-induced esophagitis and esophageal ulceration: the medication must be swallowed whole first thing in the morning with a full glass (8 oz) of plain water, at least 30 minutes before any food or other medications, and the patient must REMAIN COMPLETELY UPRIGHT (sitting or standing) for at least 30 minutes afterward. Manage Osteoporosis: - SCREENING GUIDELINES: DUAL-ENERGY X-RAY ABSORPTIOMETRY (DEXA) OF HIP AND LUMBAR SPINE in ALL WOMEN AGED >= 65 YEARS (or younger postmenopausal women with FRAX 10-year major fracture risk >= 9.3%). - DIAGNOSTIC CRITERIA: T-SCORE <= -2.5 (osteopenia: T-score between -1.0 and -2.4). - FIRST-LINE PHARMACOTHERAPY: ORAL BISPHOSPHONATES (ALENDRONATE, RISEDRONATE). Administration instructions to prevent chemical pill-induced esophagitis: Take first thing in the morning with a full glass of plain water on an empty stomach, and REMAIN COMPLETELY UPRIGHT (SITTING OR STANDING) FOR AT LEAST 30 MINUTES.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Osteoporosis Screening and First-Line Bisphosphonate Therapy.",
+    "keyPoints": [
+      "Osteoporosis Screening and First-Line Bisphosphonate Therapy",
+      "Manage Osteoporosis: - SCREENING GUIDELINES: DUAL-ENERGY X-RAY ABSORPTIOMETRY (DEXA) OF HIP AND LUMBAR SPINE in ALL WOMEN AGED >= 65 YEARS (or younger postmenopausal women with FRA"
+    ],
+    "references": [
+      {
+        "label": "Cosman F, et al. Clinician's Guide to Prevention and Treatment of Osteoporosis. Osteoporos Int. 2014;25(10):2359-2381. PMID: 25182228.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25182228/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0191",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "Tetralogy of Fallot Hypercyanotic \"Tet Spell\" Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 10-month-old boy with a known history of unrepaired congenital heart disease is brought to the pediatric emergency department by his mother. While having a severe crying spell because his toy was taken away, the child suddenly turned blue around his lips and fingernails and began breathing rapidly and deeply. On arrival, the child is irritable, tachypneic, and markedly cyanotic. His temperature is 37.1°C (98.8°F), heart rate is 168/min, blood pressure is 86/52 mm Hg, respirations are 54/min, and oxygen saturation is 68% on room air. Physical examination reveals deep perioral and acral cyanosis with intercostal retractions. Auscultation of the heart reveals a single, loud second heart sound (S2) and an absent systolic murmur, whereas a harsh 3/6 systolic ejection murmur at the left upper sternal border was documented in his chart during previous calm visits. The emergency physician immediately places the infant in the knee-chest position. Which of the following best describes the physiological mechanism by which this immediate maneuver relieves this child's cyanotic spell?",
+    "options": [
+      {
+        "text": "Increases systemic vascular resistance, thereby decreasing right-to-left shunting across the ventricular septal defect",
+        "correct": true,
+        "explanation": "This infant is experiencing a classic hypercyanotic \"TET SPELL\" complicating unrepaired Tetralogy of Fallot (TOF). TOF consists of four cardinal anatomical features: (1) Ventricular septal defect (VSD); (2) Right ventricular outflow tract (RVOT) obstruction / subvalvular pulmonary infundibular stenosis; (3) Overriding aorta; and (4) Right ventricular hypertrophy. The degree of cyanosis is dictated entirely by the severity of RVOT obstruction versus systemic vascular resistance (SVR). During periods of stress, agitation, or crying, sympathetic surge causes dynamic infundibular spasm and peripheral vasodilation, dropping SVR. Blood takes the path of least resistance: deoxygenated blood is shunted right-to-left across the VSD into the aorta, causing sudden, profound systemic hypoxemia and cyanosis. The harsh systolic ejection murmur disappears during a spell because flow across the pulmonary valve is severely reduced. The immediate, life-saving physical maneuver is KNEE-CHEST POSITIONING (or squatting in ambulatory toddlers). Flexing the hips and knees compresses the femoral arteries, causing a sharp, immediate INCREASE IN SYSTEMIC VASCULAR RESISTANCE (SVR). By elevating left ventricular afterload above right ventricular pressure, the pressure gradient across the VSD is reversed, forcing blood across the stenotic RVOT into the pulmonary circulation to undergo oxygenation."
+      },
+      {
+        "text": "Decreases venous return to the right atrium, thereby reducing right ventricular end-diastolic volume",
+        "correct": false,
+        "explanation": "Decreasing right ventricular filling reduces pulmonary blood flow further, worsening hypoxemia; volume expansion is often beneficial in tet spells."
+      },
+      {
+        "text": "Decreases pulmonary vascular resistance by inducing local pulmonary vasodilation",
+        "correct": false,
+        "explanation": "Knee-chest positioning acts mechanically on systemic peripheral arteries (femoral compression), not on the pulmonary vascular bed."
+      },
+      {
+        "text": "Relaxes infundibular smooth muscle spasm through vagal parasympathetic stimulation",
+        "correct": false,
+        "explanation": "Infundibular relaxation is achieved pharmacologically with IV morphine or beta-blockers (propranolol); knee-chest positioning works mechanically by raising systemic vascular resistance."
+      },
+      {
+        "text": "Closes the patent foramen ovale by increasing left atrial pressure",
+        "correct": false,
+        "explanation": "In TOF, the primary right-to-left shunt is across the large malalignment ventricular septal defect, not an atrial-level shunt."
+      }
+    ],
+    "explanation": "This infant is experiencing a classic hypercyanotic \"TET SPELL\" complicating unrepaired Tetralogy of Fallot (TOF). TOF consists of four cardinal anatomical features: (1) Ventricular septal defect (VSD); (2) Right ventricular outflow tract (RVOT) obstruction / subvalvular pulmonary infundibular stenosis; (3) Overriding aorta; and (4) Right ventricular hypertrophy. The degree of cyanosis is dictated entirely by the severity of RVOT obstruction versus systemic vascular resistance (SVR). During periods of stress, agitation, or crying, sympathetic surge causes dynamic infundibular spasm and peripheral vasodilation, dropping SVR. Blood takes the path of least resistance: deoxygenated blood is shunted right-to-left across the VSD into the aorta, causing sudden, profound systemic hypoxemia and cyanosis. The harsh systolic ejection murmur disappears during a spell because flow across the pulmonary valve is severely reduced. The immediate, life-saving physical maneuver is KNEE-CHEST POSITIONING (or squatting in ambulatory toddlers). Flexing the hips and knees compresses the femoral arteries, causing a sharp, immediate INCREASE IN SYSTEMIC VASCULAR RESISTANCE (SVR). By elevating left ventricular afterload above right ventricular pressure, the pressure gradient across the VSD is reversed, forcing blood across the stenotic RVOT into the pulmonary circulation to undergo oxygenation. Manage Tetralogy of Fallot (TOF: VSD, Overriding Aorta, Pulmonary Infundibular Stenosis, RV Hypertrophy): - HYPERCYANOTIC \"TET SPELL\": Triggered by crying, feeding, or exertion, which causes infundibular spasm or drops systemic vascular resistance (SVR). Right-to-left shunt across the VSD increases, sending deoxygenated blood to systemic organs -> profound cyanosis, tachypnea, syncope. - FIRST-LINE LIFESAVING INTERVENTION: KNEE-CHEST POSITION (or squatting in older children). MECHANISM: Flexing knees acutely kinks the femoral arteries, dramatically INCREASING SYSTEMIC VASCULAR RESISTANCE (SVR). Increased SVR reverses the shunt gradient across the VSD, forcing deoxygenated blood through the stenotic pulmonary outflow tract to the lungs for oxygenation. Secondary adjuncts: 100% O2, IV morphine, IV phenylephrine.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Tetralogy of Fallot Hypercyanotic \"Tet Spell\" Management.",
+    "keyPoints": [
+      "Tetralogy of Fallot Hypercyanotic \"Tet Spell\" Management",
+      "Manage Tetralogy of Fallot (TOF: VSD, Overriding Aorta, Pulmonary Infundibular Stenosis, RV Hypertrophy): - HYPERCYANOTIC \"TET SPELL\": Triggered by crying, feeding, or exertion, wh"
+    ],
+    "references": [
+      {
+        "label": "Bailliard F, et al. Tetralogy of Fallot. Orphanet J Rare Dis. 2009;4:2. PMID: 19144126.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19144126/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0192",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "Coarctation of the Aorta Clinical Signs and Turner Syndrome Association",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 14-year-old girl is referred to the pediatric cardiology clinic after a routine sports pre-participation physical revealed an elevated blood pressure of 162/92 mm Hg in her right arm. She reports that she frequently experiences fatigue and aching in both calves when running track, which resolves promptly with rest. She has no chest pain, palpitations, or shortness of breath. On physical examination, the patient is short in stature with a webbed neck, a low posterior hairline, and a broad chest with widely spaced nipples. Her right upper extremity blood pressure is 164/94 mm Hg, and her left upper extremity blood pressure is 160/92 mm Hg. Bilateral radial pulses are bounding (3+). Palpation of the femoral arteries reveals markedly diminished (1+) pulses that occur with a distinct, noticeable delay when palpated simultaneously with the right radial pulse (radial-femoral pulse lag). Bilateral lower extremity blood pressure measured in the calves is 96/60 mm Hg. Auscultation of the heart reveals a normal S1, an accentuated S2, an early systolic ejection click at the apex, and a harsh 2/6 systolic murmur heard loudest over the left interscapular region of the back. A posteroanterior chest radiograph demonstrates subtle scalloping and notched erosions along the inferior margins of the 4th through 8th ribs bilaterally. Which of the following is the most likely diagnosis?",
+    "options": [
+      {
+        "text": "Takayasu arteritis involving the brachiocephalic trunk and subclavian arteries",
+        "correct": false,
+        "explanation": "Takayasu arteritis is a large-vessel granulomatous vasculitis that typically causes \"pulseless disease\" in the upper extremities with low arm pressures, unlike the upper extremity hypertension seen here."
+      },
+      {
+        "text": "Coarctation of the aorta associated with Turner syndrome",
+        "correct": true,
+        "explanation": "This 14-year-old girl presents with pathognomonic physical and radiographic findings of COARCTATION OF THE AORTA in the setting of phenotypic TURNER SYNDROME (short stature, webbed neck, low hairline, shield chest with widely spaced nipples). Coarctation is a congenital narrowing of the aortic arch, most commonly localized just distal to the origin of the left subclavian artery near the ligamentum arteriosum (juxtaductal). Hallmark hemodynamic findings include: (1) Marked blood pressure gradient between upper and lower extremities (upper extremity hypertension >= 20 mm Hg higher than lower extremity blood pressure); (2) Diminished, weak lower extremity pulses; and (3) Classic RADIAL-FEMORAL PULSE DELAY. Auscultation frequently reveals a posterior systolic murmur heard best over the interscapular thoracic spine, and an ejection click from an associated BICUSPID AORTIC VALVE (present in > 50% to 80% of coarctation cases). On chest radiography, long-standing high-pressure collateral blood flow through dilated, tortuous intercostal arteries causes characteristic INFERIOR RIB NOTCHING (Roesler sign) of ribs 3 through 8, and the \"figure-3 sign\" on the contour of the descending aorta."
+      },
+      {
+        "text": "Supravalvular aortic stenosis associated with Williams syndrome",
+        "correct": false,
+        "explanation": "Williams syndrome (elfin facies, hypercalcemia, extreme friendliness) causes supravalvular aortic stenosis, which does not produce rib notching or lower extremity hypotension."
+      },
+      {
+        "text": "Patent ductus arteriosus with Eisenmenger syndrome",
+        "correct": false,
+        "explanation": "Eisenmenger PDA causes differential cyanosis (blue toes, pink fingers) and pulmonary hypertension, not upper extremity hypertension with rib notching."
+      },
+      {
+        "text": "Renal artery stenosis secondary to fibromuscular dysplasia",
+        "correct": false,
+        "explanation": "While fibromuscular dysplasia causes hypertension in young females, it causes generalized hypertension without a radial-femoral pulse lag or rib notching."
+      }
+    ],
+    "explanation": "This 14-year-old girl presents with pathognomonic physical and radiographic findings of COARCTATION OF THE AORTA in the setting of phenotypic TURNER SYNDROME (short stature, webbed neck, low hairline, shield chest with widely spaced nipples). Coarctation is a congenital narrowing of the aortic arch, most commonly localized just distal to the origin of the left subclavian artery near the ligamentum arteriosum (juxtaductal). Hallmark hemodynamic findings include: (1) Marked blood pressure gradient between upper and lower extremities (upper extremity hypertension >= 20 mm Hg higher than lower extremity blood pressure); (2) Diminished, weak lower extremity pulses; and (3) Classic RADIAL-FEMORAL PULSE DELAY. Auscultation frequently reveals a posterior systolic murmur heard best over the interscapular thoracic spine, and an ejection click from an associated BICUSPID AORTIC VALVE (present in > 50% to 80% of coarctation cases). On chest radiography, long-standing high-pressure collateral blood flow through dilated, tortuous intercostal arteries causes characteristic INFERIOR RIB NOTCHING (Roesler sign) of ribs 3 through 8, and the \"figure-3 sign\" on the contour of the descending aorta. Recognize Coarctation of the Aorta: Congenital narrowing of the aortic lumen, classically adjacent to the ductus arteriosus (juxtaductal). - ASSOCIATIONS: BICUSPID AORTIC VALVE (> 50-85% of cases) and TURNER SYNDROME (45,XO). - CLINICAL HALLMARK: UPPER EXTREMITY HYPERTENSION WITH LOWER EXTREMITY HYPOTENSION, accompanied by DIMINISHED OR DELAYED FEMORAL PULSES (RADIAL-FEMORAL PULSE LAG). - CHEST X-RAY: INFERIOR RIB NOTCHING (erosions on 3rd-8th ribs due to dilated collateral intercostal arteries) and \"FIGURE-3 SIGN\" on aorta. - CONFIRMATION: ECHOCARDIOGRAPHY or CT/MR angiography. Treatment: Balloon angioplasty / surgical resection.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Coarctation of the Aorta Clinical Signs and Turner Syndrome Association.",
+    "keyPoints": [
+      "Coarctation of the Aorta Clinical Signs and Turner Syndrome Association",
+      "Recognize Coarctation of the Aorta: Congenital narrowing of the aortic lumen, classically adjacent to the ductus arteriosus (juxtaductal). - ASSOCIATIONS: BICUSPID AORTIC VALVE (> "
+    ],
+    "references": [
+      {
+        "label": "Dijkema EJ, et al. Coarctation of the aorta: contemporary aspects of diagnosis and treatment. Int J Cardiol. 2017;241:177-184. PMID: 28434676.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28434676/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0193",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "Transposition of the Great Arteries Immediate Prostaglandin E1",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 6-hour-old male neonate born at 39 weeks of gestation via uncomplicated spontaneous vaginal delivery to a mother with gestational diabetes develops progressive cyanosis in the newborn nursery. On arrival to the neonatal intensive care unit, the infant is tachypneic and deeply cyanotic despite vigorous crying. His vital signs are: temperature 36.8°C (98.2°F), blood pressure 68/42 mm Hg, heart rate 162/min, and respirations 64/min. Pulse oximetry displays an oxygen saturation of 62% on ambient air. The infant is placed on 100% inspired oxygen via an oxyhood for a hyperoxia challenge test; after 15 minutes of 100% oxygen, an arterial blood gas reveals pH 7.34, PaCO2 36 mm Hg, and PaO2 42 mm Hg (no significant increase). Cardiovascular examination reveals a hyperdynamic precordium, a single loud S2, and no audible heart murmurs. Femoral pulses are strong and symmetric. A portable chest radiograph reveals a narrow superior mediastinum with an enlarged, oval cardiac silhouette resembling an \"egg on a string,\" along with increased pulmonary vascular markings. Which of the following is the most appropriate immediate medical intervention to ensure survival in this infant?",
+    "options": [
+      {
+        "text": "Intravenous indomethacin administration to promote early ductal closure",
+        "correct": false,
+        "explanation": "Indomethacin closes a patent ductus arteriosus; administering it in TGA eliminates the only inter-circulatory mixing channel, causing immediate fatal hypoxemic arrest."
+      },
+      {
+        "text": "Inhaled nitric oxide therapy targeting selective pulmonary vasodilation",
+        "correct": false,
+        "explanation": "Inhaled nitric oxide treats persistent pulmonary hypertension of the newborn (PPHN); in TGA it does not overcome anatomical vascular transpositions."
+      },
+      {
+        "text": "Continuous intravenous infusion of prostaglandin E1 (alprostadil)",
+        "correct": true,
+        "explanation": "This neonate presents with classic TRANSPOSITION OF THE GREAT ARTERIES (d-TGA), the most common cyanotic congenital heart defect presenting within the first 24 hours of life (strongly associated with maternal diabetes). In TGA, failure of the aorticopulmonary septum to spiral results in the aorta arising directly from the morphologic right ventricle and the pulmonary artery arising from the left ventricle. This creates two closed, parallel, independent circulatory circuits: systemic venous deoxygenated blood returns to the right side of the heart and is pumped directly back out to the body via the aorta, while oxygenated pulmonary blood loops indefinitely through the lungs. This anatomy is 100% FATAL unless an intracardiac or extracardiac communication exists to allow mixing of oxygenated and deoxygenated blood (such as a patent ductus arteriosus [PDA], patent foramen ovale [PFO], or ventricular septal defect [VSD]). The HYPEROXIA TEST FAILS (PaO2 remains < 100-150 mm Hg on 100% oxygen) because oxygenating pulmonary blood cannot overcome anatomical circuit separation. The characteristic chest radiograph demonstrates a narrow mediastinum and an \"EGG-ON-A-STRING\" cardiac silhouette. The single most urgent life-saving intervention is CONTINUOUS INTRAVENOUS PROSTAGLANDIN E1 (ALPROSTADIL) INFUSION. Prostaglandin E1 prevents closure of the ductus arteriosus (or reopens a constricted ductus), maintaining vital right-to-left and left-to-right mixing while preparing the neonate for emergent balloon atrial septostomy (Rashkind procedure) and definitive surgical arterial switch (Jatene procedure)."
+      },
+      {
+        "text": "Intravenous furosemide and digoxin therapy for congestive heart failure",
+        "correct": false,
+        "explanation": "Medical heart failure therapies do not address the lethal anatomical separation of systemic and pulmonary circulations in TGA."
+      },
+      {
+        "text": "Endotracheal intubation with 100% oxygen and 10 cm H2O positive end-expiratory pressure alone",
+        "correct": false,
+        "explanation": "Mechanical ventilation with 100% oxygen cannot deliver oxygenated blood to the body because the aorta originates from the right ventricle; ductal opening with PGE1 is mandatory."
+      }
+    ],
+    "explanation": "This neonate presents with classic TRANSPOSITION OF THE GREAT ARTERIES (d-TGA), the most common cyanotic congenital heart defect presenting within the first 24 hours of life (strongly associated with maternal diabetes). In TGA, failure of the aorticopulmonary septum to spiral results in the aorta arising directly from the morphologic right ventricle and the pulmonary artery arising from the left ventricle. This creates two closed, parallel, independent circulatory circuits: systemic venous deoxygenated blood returns to the right side of the heart and is pumped directly back out to the body via the aorta, while oxygenated pulmonary blood loops indefinitely through the lungs. This anatomy is 100% FATAL unless an intracardiac or extracardiac communication exists to allow mixing of oxygenated and deoxygenated blood (such as a patent ductus arteriosus [PDA], patent foramen ovale [PFO], or ventricular septal defect [VSD]). The HYPEROXIA TEST FAILS (PaO2 remains < 100-150 mm Hg on 100% oxygen) because oxygenating pulmonary blood cannot overcome anatomical circuit separation. The characteristic chest radiograph demonstrates a narrow mediastinum and an \"EGG-ON-A-STRING\" cardiac silhouette. The single most urgent life-saving intervention is CONTINUOUS INTRAVENOUS PROSTAGLANDIN E1 (ALPROSTADIL) INFUSION. Prostaglandin E1 prevents closure of the ductus arteriosus (or reopens a constricted ductus), maintaining vital right-to-left and left-to-right mixing while preparing the neonate for emergent balloon atrial septostomy (Rashkind procedure) and definitive surgical arterial switch (Jatene procedure). Manage Transposition of the Great Arteries (TGA): Most common cyanotic congenital heart defect presenting in the NEONATAL PERIOD (first 24 hours of life). - ANATOMY: Faulty aorticopulmonary septum spiraling: Aorta arises from Right Ventricle, Pulmonary Artery arises from Left Ventricle -> TWO PARALLEL, INDEPENDENT CIRCULATIONS (incompatible with life unless mixing occurs via PDA, VSD, or PFO). - CLINICAL FEATURES: SEVERE CYANOSIS within hours of birth; HYPEROXIA TEST FAILS (PaO2 does NOT rise above 100-150 mm Hg on 100% O2). CXR: \"EGG-ON-A-STRING\" cardiac silhouette (narrow mediastinum due to AP vessel orientation). - IMMEDIATE LIFESAVING MEDICAL THERAPY: INTRAVENOUS PROSTAGLANDIN E1 (ALPROSTADIL) INFUSION to keep the DUCTUS ARTERIOSUS OPEN until emergent balloon atrial septostomy (Rashkind procedure) or arterial switch surgery (Jatene procedure).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Transposition of the Great Arteries Immediate Prostaglandin E1.",
+    "keyPoints": [
+      "Transposition of the Great Arteries Immediate Prostaglandin E1",
+      "Manage Transposition of the Great Arteries (TGA): Most common cyanotic congenital heart defect presenting in the NEONATAL PERIOD (first 24 hours of life). - ANATOMY: Faulty aortico"
+    ],
+    "references": [
+      {
+        "label": "Villafañe J, et al. D-transposition of the great arteries: the current era of the arterial switch operation. J Am Coll Cardiol. 2014;64(5):498-511. PMID: 25082585.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25082585/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0194",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "Ventricular Septal Defect Natural History and Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 6-week-old female infant is brought to the outpatient clinic for a routine well-child examination. She was born at 40 weeks of gestation following an uncomplicated pregnancy and delivery. Her mother reports that the baby is breastfeeding vigorously every 2.5 to 3 hours, does not get short of breath or diaphoretic during feedings, and has 6 to 8 wet diapers daily. Her weight has increased from 3.3 kg at birth to 4.6 kg today (along the 50th percentile). On physical examination, the infant is active, alert, and pink with normal capillary refill. Her vital signs are: heart rate 130/min, blood pressure 82/50 mm Hg, and respirations 32/min. Auscultation of the lungs reveals clear breath sounds bilaterally without crackles or retractions. Abdominal examination reveals a soft, non-tender abdomen with the liver palpable 1 cm below the right costal margin. Auscultation of the heart reveals a normal S1, physiologically split S2, and a harsh, loud, grade 4/6 holosystolic murmur heard best at the left lower sternal border that is accompanied by a localized palpable systolic thrill. Transthoracic echocardiography demonstrates a 2-mm muscular ventricular septal defect with a high-velocity left-to-right jet and normal left- and right-sided chamber dimensions. Which of the following is the most appropriate management plan for this infant?",
+    "options": [
+      {
+        "text": "Referral for immediate elective surgical patch closure of the defect before 3 months of age",
+        "correct": false,
+        "explanation": "Surgical closure is indicated for large defects causing failure to thrive, persistent pulmonary hypertension, or refractory heart failure; small asymptomatic defects close spontaneously."
+      },
+      {
+        "text": "Initiation of oral furosemide, enalapril, and digoxin therapy",
+        "correct": false,
+        "explanation": "Medical heart failure therapies are indicated only for symptomatic heart failure with pulmonary congestion and cardiomegaly; this infant is thriving and asymptomatic."
+      },
+      {
+        "text": "Administration of antibiotic prophylaxis prior to all future routine pediatric vaccinations",
+        "correct": false,
+        "explanation": "Infective endocarditis prophylaxis is never indicated for routine immunizations, and uncomplicated VSDs do not qualify for endocarditis prophylaxis under current AHA guidelines."
+      },
+      {
+        "text": "Reassurance and routine outpatient clinical surveillance, as the majority of these defects close spontaneously",
+        "correct": true,
+        "explanation": "This 6-week-old infant has a classic small, restrictive muscular VENTRICULAR SEPTAL DEFECT (VSD), which is the most common congenital heart defect at birth. Crucially, in VSD pathophysiology, THE INTENSITY OF THE MURMUR IS INVERSELY PROPORTIONAL TO THE SIZE OF THE DEFECT: A small restrictive defect creates a massive pressure gradient between the high-pressure left ventricle and low-pressure right ventricle, forcing a high-velocity jet across the tiny opening that produces a very loud, harsh, holosystolic murmur with a palpable thrill. Despite the impressive murmur, the volume of left-to-right shunting is minimal, meaning there is no hemodynamic compromise, chamber enlargement, pulmonary overcirculation, or failure to thrive (normal growth along the 50th percentile). The natural history of small muscular VSDs is exceptionally benign: OVER 75% TO 80% CLOSE SPONTANEOUSLY within the first 1 to 2 years of life as the muscular septum thickens. Therefore, the standard of care is parental REASSURANCE AND PERIODIC OUTPATIENT SURVEILLANCE. In contrast, large non-restrictive VSDs present with softer murmurs, congestive heart failure, and failure to thrive at 4 to 8 weeks (when pulmonary vascular resistance drops), requiring diuretic therapy and surgical patch closure."
+      },
+      {
+        "text": "Cardiac catheterization with transcatheter device closure within the next 2 weeks",
+        "correct": false,
+        "explanation": "Transcatheter device closure in an asymptomatic 6-week-old infant is unnecessary, dangerous, and inappropriate given the very high rate of spontaneous resolution."
+      }
+    ],
+    "explanation": "This 6-week-old infant has a classic small, restrictive muscular VENTRICULAR SEPTAL DEFECT (VSD), which is the most common congenital heart defect at birth. Crucially, in VSD pathophysiology, THE INTENSITY OF THE MURMUR IS INVERSELY PROPORTIONAL TO THE SIZE OF THE DEFECT: A small restrictive defect creates a massive pressure gradient between the high-pressure left ventricle and low-pressure right ventricle, forcing a high-velocity jet across the tiny opening that produces a very loud, harsh, holosystolic murmur with a palpable thrill. Despite the impressive murmur, the volume of left-to-right shunting is minimal, meaning there is no hemodynamic compromise, chamber enlargement, pulmonary overcirculation, or failure to thrive (normal growth along the 50th percentile). The natural history of small muscular VSDs is exceptionally benign: OVER 75% TO 80% CLOSE SPONTANEOUSLY within the first 1 to 2 years of life as the muscular septum thickens. Therefore, the standard of care is parental REASSURANCE AND PERIODIC OUTPATIENT SURVEILLANCE. In contrast, large non-restrictive VSDs present with softer murmurs, congestive heart failure, and failure to thrive at 4 to 8 weeks (when pulmonary vascular resistance drops), requiring diuretic therapy and surgical patch closure. Manage Ventricular Septal Defect (VSD, most common congenital heart defect): - SMALL RESTRICTIVE VSD (e.g., small muscular VSD): Loud, harsh, high-pitched HOLOSYSTOLIC MURMUR at LEFT LOWER STERNAL BORDER with palpable thrill; ASYMPTOMATIC, normal growth and development. NATURAL HISTORY: > 75-80% of small muscular VSDs CLOSE SPONTANEOUSLY by age 2 years. MANAGEMENT: REASSURANCE, regular pediatric outpatient surveillance, NO surgery or activity restriction required. - LARGE NON-RESTRICTIVE VSD: Softer murmur, signs of HEART FAILURE (failure to thrive, tachypnea, diaphoresis with feeds at 4-6 weeks as pulmonary vascular resistance drops). Requires surgical closure to prevent EISENMENGER SYNDROME.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Ventricular Septal Defect Natural History and Management.",
+    "keyPoints": [
+      "Ventricular Septal Defect Natural History and Management",
+      "Manage Ventricular Septal Defect (VSD, most common congenital heart defect): - SMALL RESTRICTIVE VSD (e.g., small muscular VSD): Loud, harsh, high-pitched HOLOSYSTOLIC MURMUR at LE"
+    ],
+    "references": [
+      {
+        "label": "Penny DJ, et al. Ventricular septal defect. Lancet. 2011;377(9771):1103-1112. PMID: 21377722.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21377722/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0195",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "Kawasaki Disease Diagnostic Criteria and Treatment",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 3-year-old boy is brought to the pediatric clinic by his mother because of a high fever that has persisted continuously for 6 days, reaching 39.8°C (103.6°F) and failing to respond to alternating doses of oral acetaminophen and ibuprofen. His mother notes that he has become increasingly irritable, refuses to walk, and developed red eyes and a widespread body rash 3 days ago. On physical examination, the child is miserable and inconsolable. His temperature is 39.4°C (102.9°F), blood pressure is 96/60 mm Hg, and heart rate is 144/min. Examination of the eyes reveals bilateral bulbar conjunctival injection with prominent sparing of the limbic ring around the corneas, without purulent discharge or crusting. Examination of the oral cavity reveals bright red, cracked, bleeding lips and a prominent \"strawberry tongue\" with hypertrophied papillae. The cervical region has a single, firm, tender, non-fluctuant lymph node measuring 2.0 cm in the left anterior cervical chain. The skin reveals a diffuse, erythematous maculopapular rash across the trunk and groin. Examination of the extremities reveals marked, tense, indurative non-pitting edema and erythema of the dorsum of both hands and feet. Laboratory testing demonstrates: white blood cell count 18,200/mm³ with 80% neutrophils, platelet count 480,000/mm³, ESR 84 mm/hr, and CRP 68 mg/L. Sterile pyuria is present on urinalysis. Which of the following is the most appropriate next step in management to prevent long-term cardiac complications in this child?",
+    "options": [
+      {
+        "text": "Outpatient oral amoxicillin-clavulanate for 10 days to treat suspected bacterial adenitis",
+        "correct": false,
+        "explanation": "Kawasaki disease is an autoimmune vasculitis, not a bacterial infection; antibiotic therapy is completely ineffective and delays life-saving IVIG."
+      },
+      {
+        "text": "High-dose oral prednisone monotherapy without intravenous immunoglobulin",
+        "correct": false,
+        "explanation": "Corticosteroid monotherapy is not the primary standard of care in acute Kawasaki disease; IVIG combined with aspirin is the proven cornerstone to reduce coronary aneurysms."
+      },
+      {
+        "text": "Withhold aspirin due to the potential risk of Reye syndrome, and administer ibuprofen alone",
+        "correct": false,
+        "explanation": "While aspirin is generally avoided in febrile children due to Reye syndrome, Kawasaki disease is the major exception where the benefits of preventing coronary aneurysms far outweigh Reye risk."
+      },
+      {
+        "text": "Reassurance and watchful waiting until periungual skin peeling confirms the diagnosis",
+        "correct": false,
+        "explanation": "Waiting for subacute skin desquamation delays therapy past the critical 10-day therapeutic window, during which irreversible coronary aneurysms form."
+      },
+      {
+        "text": "Hospital admission and immediate administration of high-dose intravenous immunoglobulin (IVIG) and high-dose oral aspirin",
+        "correct": true,
+        "explanation": "This 3-year-old child presents with textbook KAWASAKI DISEASE (mucocutaneous lymph node syndrome), an acute systemic necrotizing vasculitis of medium-sized muscular arteries that predominantly affects infants and children under 5 years of age. The formal American Heart Association diagnostic criteria require FEVER PERSISTING FOR >= 5 DAYS PLUS AT LEAST 4 OF THE FOLLOWING 5 CLINICAL FEATURES (CRASH mnemonic): (1) Conjunctivitis: bilateral non-exudative bulbar conjunctival injection with limbic sparing; (2) Rash: polymorphous erythematous rash, often prominent in the perineum; (3) Adenopathy: cervical lymphadenopathy, classically unilateral and >= 1.5 cm; (4) Strawberry tongue: mucosal erythema, cracked lips, and prominent papillae; and (5) Hand and foot changes: indurative edema and erythema of palms/soles, followed by periungual desquamation during the subacute phase. Thrombocytosis and marked inflammatory markers (high ESR/CRP) are classic. The most devastating complication is CORONARY ARTERY ANEURYSM FORMATION, which occurs in up to 25% of untreated children and can lead to myocardial infarction and sudden death. The gold-standard treatment, which must be initiated within the first 10 days of fever, is a SINGLE HIGH DOSE OF INTRAVENOUS IMMUNOGLOBULIN (IVIG, 2 g/kg) COMBINED WITH HIGH-DOSE ORAL ASPIRIN (80-100 mg/kg/day, transitioning to low-dose antiplatelet aspirin once afebrile). This regimen reduces coronary aneurysm risk to < 4-5%."
+      }
+    ],
+    "explanation": "This 3-year-old child presents with textbook KAWASAKI DISEASE (mucocutaneous lymph node syndrome), an acute systemic necrotizing vasculitis of medium-sized muscular arteries that predominantly affects infants and children under 5 years of age. The formal American Heart Association diagnostic criteria require FEVER PERSISTING FOR >= 5 DAYS PLUS AT LEAST 4 OF THE FOLLOWING 5 CLINICAL FEATURES (CRASH mnemonic): (1) Conjunctivitis: bilateral non-exudative bulbar conjunctival injection with limbic sparing; (2) Rash: polymorphous erythematous rash, often prominent in the perineum; (3) Adenopathy: cervical lymphadenopathy, classically unilateral and >= 1.5 cm; (4) Strawberry tongue: mucosal erythema, cracked lips, and prominent papillae; and (5) Hand and foot changes: indurative edema and erythema of palms/soles, followed by periungual desquamation during the subacute phase. Thrombocytosis and marked inflammatory markers (high ESR/CRP) are classic. The most devastating complication is CORONARY ARTERY ANEURYSM FORMATION, which occurs in up to 25% of untreated children and can lead to myocardial infarction and sudden death. The gold-standard treatment, which must be initiated within the first 10 days of fever, is a SINGLE HIGH DOSE OF INTRAVENOUS IMMUNOGLOBULIN (IVIG, 2 g/kg) COMBINED WITH HIGH-DOSE ORAL ASPIRIN (80-100 mg/kg/day, transitioning to low-dose antiplatelet aspirin once afebrile). This regimen reduces coronary aneurysm risk to < 4-5%. Manage Kawasaki Disease (mucocutaneous lymph node syndrome, medium-vessel vasculitis in young children < 5 years): - DIAGNOSTIC CRITERIA: FEVER >= 5 DAYS PLUS AT LEAST 4 OF 5 \"CRASH\" FEATURES: 1. Conjunctivitis (bilateral, non-exudative, limbic sparing); 2. Rash (polymorphous, maculopapular); 3. Adenopathy (cervical, usually unilateral > 1.5 cm); 4. Strawberry tongue (erythema of lips/oral cavity with fissuring); 5. Hand/foot changes (erythema, indurative edema, periungual desquamation). - MOST FEARED COMPLICATION: CORONARY ARTERY ANEURYSMS (occurs in ~25% of untreated patients). - GOLD STANDARD TREATMENT: INTRAVENOUS IMMUNOGLOBULIN (IVIG, single high dose 2 g/kg) PLUS HIGH-DOSE ASPIRIN started within the first 10 days of fever onset to prevent coronary aneurysm formation.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Kawasaki Disease Diagnostic Criteria and Treatment.",
+    "keyPoints": [
+      "Kawasaki Disease Diagnostic Criteria and Treatment",
+      "Manage Kawasaki Disease (mucocutaneous lymph node syndrome, medium-vessel vasculitis in young children < 5 years): - DIAGNOSTIC CRITERIA: FEVER >= 5 DAYS PLUS AT LEAST 4 OF 5 \"CRAS"
+    ],
+    "references": [
+      {
+        "label": "McCrindle BW, et al. Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease: A Scientific Statement for Health Professionals From the American Heart Association. Circulation. 2017;135(17):e927-e999. PMID: 28356445.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28356445/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0196",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Subclinical Hypothyroidism Indications for Levothyroxine Therapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 42-year-old woman presents to her primary care clinic for evaluation of mild fatigue and difficulty losing weight over the past 4 months. She has no cold intolerance, constipation, dry skin, voice changes, or irregular menses. Her medical history is unremarkable, and she takes no medications. On physical examination, her blood pressure is 122/76 mm Hg, heart rate is 68/min, and body mass index is 27 kg/m². Thyroid examination reveals a normal-sized, non-tender thyroid gland without palpable nodules. Neurological examination reveals normal reflexes with normal relaxation phase. Initial laboratory testing demonstrates: serum thyroid-stimulating hormone (TSH) 11.8 mIU/L (normal 0.4-4.5 mIU/L) and free thyroxine (free T4) 1.2 ng/dL (normal 0.8-1.8 ng/dL). Serum anti-thyroid peroxidase (anti-TPO) antibody titer is strongly positive at 340 IU/mL (normal < 35 IU/mL). Serum electrolytes, complete blood count, and renal function are completely normal. Which of the following is the most appropriate management plan for this patient?",
+    "options": [
+      {
+        "text": "Initiate oral levothyroxine therapy with a target normal serum TSH level",
+        "correct": true,
+        "explanation": "This patient has documented SUBCLINICAL HYPOTHYROIDISM, defined biochemically as an elevated serum thyroid-stimulating hormone (TSH) level in the presence of a normal free thyroxine (free T4) concentration. In subclinical hypothyroidism, standard endocrine guidelines (including ATA and AACE) outline clear evidence-based indications for initiating LEVOTHYROXINE replacement therapy: (1) Serum TSH >= 10 mIU/L (patients with TSH >= 10 mIU/L have a high annual rate of progression to overt hypothyroidism [> 5% per year] and an increased risk of accelerated atherosclerosis, diastolic dysfunction, and cardiovascular mortality); (2) High titers of anti-thyroid peroxidase (anti-TPO) antibodies (confirming autoimmune Hashimoto thyroiditis, which strongly predicts permanent thyroid failure); (3) Pregnancy or women actively pursuing pregnancy (to prevent adverse obstetric outcomes and impaired fetal neurodevelopment); and (4) Presence of a symptomatic goiter or severe hypothyroid symptoms. Because this patient has a TSH of 11.8 mIU/L and strongly positive anti-TPO antibodies, treatment with levothyroxine is unequivocally indicated. If TSH were mildly elevated (< 10 mIU/L) with negative antibodies in an asymptomatic non-pregnant patient, repeating thyroid function in 2 to 3 months would be preferred."
+      },
+      {
+        "text": "Withhold treatment and repeat serum TSH and free T4 levels in 12 months",
+        "correct": false,
+        "explanation": "Withholding therapy when TSH is >= 10 mIU/L and anti-TPO antibodies are strongly positive exposes the patient to progressing hypothyroid symptoms and adverse lipid and cardiac effects."
+      },
+      {
+        "text": "Order a radioiodine thyroid uptake and scan to evaluate thyroid functional status",
+        "correct": false,
+        "explanation": "Radioiodine uptake scans evaluate hyperthyroidism (toxic nodule, Graves, thyroiditis); they have zero diagnostic role in subclinical hypothyroidism."
+      },
+      {
+        "text": "Initiate oral liothyronine (synthetic T3) monotherapy",
+        "correct": false,
+        "explanation": "T3 monotherapy causes wide peaks and troughs in serum thyroid hormone levels with tachycardia and arrhythmias; levothyroxine (T4) is the exclusive standard of care."
+      },
+      {
+        "text": "Prescribe high-dose oral potassium iodide drops to suppress TSH secretion",
+        "correct": false,
+        "explanation": "Excess iodine administration in patients with autoimmune thyroiditis induces the Wolff-Chaikoff effect, further shutting down thyroid hormone synthesis and precipitating severe overt hypothyroidism."
+      }
+    ],
+    "explanation": "This patient has documented SUBCLINICAL HYPOTHYROIDISM, defined biochemically as an elevated serum thyroid-stimulating hormone (TSH) level in the presence of a normal free thyroxine (free T4) concentration. In subclinical hypothyroidism, standard endocrine guidelines (including ATA and AACE) outline clear evidence-based indications for initiating LEVOTHYROXINE replacement therapy: (1) Serum TSH >= 10 mIU/L (patients with TSH >= 10 mIU/L have a high annual rate of progression to overt hypothyroidism [> 5% per year] and an increased risk of accelerated atherosclerosis, diastolic dysfunction, and cardiovascular mortality); (2) High titers of anti-thyroid peroxidase (anti-TPO) antibodies (confirming autoimmune Hashimoto thyroiditis, which strongly predicts permanent thyroid failure); (3) Pregnancy or women actively pursuing pregnancy (to prevent adverse obstetric outcomes and impaired fetal neurodevelopment); and (4) Presence of a symptomatic goiter or severe hypothyroid symptoms. Because this patient has a TSH of 11.8 mIU/L and strongly positive anti-TPO antibodies, treatment with levothyroxine is unequivocally indicated. If TSH were mildly elevated (< 10 mIU/L) with negative antibodies in an asymptomatic non-pregnant patient, repeating thyroid function in 2 to 3 months would be preferred. Manage Subclinical Hypothyroidism: - LAB CRITERIA: ELEVATED TSH (usually 5-10 mIU/L) with NORMAL FREE T4. - INDICATIONS FOR LEVOTHYROXINE THERAPY: 1. TSH >= 10 mIU/L (high rate of progression to overt hypothyroidism and cardiovascular risk); 2. POSITIVE ANTI-THYROID PEROXIDASE (ANTI-TPO) ANTIBODIES; 3. PREGNANCY OR PLANNING PREGNANCY / INFERTILITY; 4. Presence of symptomatic goiter. - If TSH is 5-9.9 mIU/L, patient is asymptomatic, non-pregnant, and anti-TPO is negative: REPEAT TSH AND FREE T4 IN 2-3 MONTHS (do not treat immediately, as ~50% normalize spontaneously).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Subclinical Hypothyroidism Indications for Levothyroxine Therapy.",
+    "keyPoints": [
+      "Subclinical Hypothyroidism Indications for Levothyroxine Therapy",
+      "Manage Subclinical Hypothyroidism: - LAB CRITERIA: ELEVATED TSH (usually 5-10 mIU/L) with NORMAL FREE T4. - INDICATIONS FOR LEVOTHYROXINE THERAPY: 1. TSH >= 10 mIU/L (high rate of "
+    ],
+    "references": [
+      {
+        "label": "Biondi B, et al. The 2015 European Thyroid Association Guidelines on Diagnosis and Treatment of Endogenous Subclinical Hypothyroidism. Eur Thyroid J. 2015;4(4):249-267. PMID: 26835426.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26835426/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0197",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Asymptomatic Bacteriuria Strict Indications for Treatment",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 72-year-old woman with a 15-year history of type 2 diabetes mellitus presents to the clinic for a routine follow-up visit. She has no dysuria, urinary frequency, urgency, suprapubic discomfort, flank pain, fever, or chills. Her diabetes is well-managed with metformin and glipizide, and her most recent hemoglobin A1c is 7.2%. On physical examination, she is afebrile with normal vital signs. Abdominal examination is soft, non-tender, and without costovertebral angle tenderness. Routine urinalysis obtained as part of an outpatient order demonstrates: 2+ leukocyte esterase, negative nitrites, and 15 to 20 WBCs per high-power field. A clean-catch midstream urine culture subsequently grows > 100,000 colony-forming units/mL of pan-susceptible Escherichia coli. The patient remains completely asymptomatic and feels well. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Prescribe a 7-day course of oral ciprofloxacin to eradicate bacteriuria and prevent pyelonephritis",
+        "correct": false,
+        "explanation": "Fluoroquinolones in asymptomatic bacteriuria promote resistance, tendonitis, and C. difficile without preventing pyelonephritis in diabetic elderly patients."
+      },
+      {
+        "text": "No antimicrobial therapy and reassurance, as treatment of asymptomatic bacteriuria is not indicated",
+        "correct": true,
+        "explanation": "This patient has ASYMPTOMATIC BACTERIURIA (ASB), defined as isolation of >= 10^5 colony-forming units (CFU)/mL of a single bacterial strain in a voided clean-catch urine sample from an individual without any signs or symptoms of a urinary tract infection (no dysuria, frequency, urgency, fever, or flank pain). The Infectious Diseases Society of America (IDSA) guidelines firmly dictate that ASB SHOULD NOT BE SCREENED FOR OR TREATED in the vast majority of clinical populations—including elderly individuals, diabetic patients, postmenopausal women, institutionalized nursing home residents, patients with indwelling bladder catheters, or spinal cord injury patients. Clinical trials have conclusively shown that treating ASB in these cohorts confers zero clinical benefit (it does not reduce future UTI episodes, sepsis, or mortality) and directly causes harm, including adverse drug reactions, Clostridioides difficile colitis, and the emergence of multidrug-resistant pathogens. There are only TWO ABSOLUTE INDICATIONS to screen and treat ASB: (1) PREGNANT WOMEN (to prevent acute pyelonephritis, preterm labor, and low birth weight); and (2) PATIENTS UNDERGOING UROLOGIC PROCEDURES involving mucosal bleeding (such as transurethral resection of the prostate)."
+      },
+      {
+        "text": "Prescribe a 5-day course of oral nitrofurantoin to sterilize the urinary tract",
+        "correct": false,
+        "explanation": "Even narrow-spectrum antibiotics like nitrofurantoin provide no survival or symptomatic benefit in ASB and lead to recurrent colonization with resistant flora."
+      },
+      {
+        "text": "Order a non-contrast CT scan of the abdomen and pelvis to evaluate for emphysematous cystitis",
+        "correct": false,
+        "explanation": "Emphysematous cystitis presents with severe sepsis, abdominal pain, and pneumaturia in uncontrolled diabetics; asymptomatic bacteriuria requires no imaging."
+      },
+      {
+        "text": "Repeat the urine culture in 2 weeks and treat if the same bacterial organism persists",
+        "correct": false,
+        "explanation": "Serial surveillance cultures and treating persistent asymptomatic colonization are explicitly discouraged by IDSA antimicrobial stewardship guidelines."
+      }
+    ],
+    "explanation": "This patient has ASYMPTOMATIC BACTERIURIA (ASB), defined as isolation of >= 10^5 colony-forming units (CFU)/mL of a single bacterial strain in a voided clean-catch urine sample from an individual without any signs or symptoms of a urinary tract infection (no dysuria, frequency, urgency, fever, or flank pain). The Infectious Diseases Society of America (IDSA) guidelines firmly dictate that ASB SHOULD NOT BE SCREENED FOR OR TREATED in the vast majority of clinical populations—including elderly individuals, diabetic patients, postmenopausal women, institutionalized nursing home residents, patients with indwelling bladder catheters, or spinal cord injury patients. Clinical trials have conclusively shown that treating ASB in these cohorts confers zero clinical benefit (it does not reduce future UTI episodes, sepsis, or mortality) and directly causes harm, including adverse drug reactions, Clostridioides difficile colitis, and the emergence of multidrug-resistant pathogens. There are only TWO ABSOLUTE INDICATIONS to screen and treat ASB: (1) PREGNANT WOMEN (to prevent acute pyelonephritis, preterm labor, and low birth weight); and (2) PATIENTS UNDERGOING UROLOGIC PROCEDURES involving mucosal bleeding (such as transurethral resection of the prostate). Manage Asymptomatic Bacteriuria (ASB, isolation of >= 10^5 CFU/mL of a single bacterial species in a patient WITHOUT urinary symptoms): - STRICT INDICATIONS TO SCREEN AND TREAT ASB: 1. PREGNANT WOMEN (screening at 12-16 weeks; treating ASB prevents pyelonephritis, preterm labor, and low birth weight); 2. PATIENTS UNDERGOING UROLOGIC PROCEDURES WITH MUCOSAL BLEEDING (e.g., TURP; prevents post-procedure bacteremia and sepsis). - STRICTLY CONTRAINDICATED TO TREAT: Non-pregnant premenopausal women, elderly diabetic patients, nursing home residents, patients with spinal cord injury, or patients with indwelling Foley catheters (antibiotics do not prevent infection, cause C. difficile, and breed antimicrobial resistance).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Asymptomatic Bacteriuria Strict Indications for Treatment.",
+    "keyPoints": [
+      "Asymptomatic Bacteriuria Strict Indications for Treatment",
+      "Manage Asymptomatic Bacteriuria (ASB, isolation of >= 10^5 CFU/mL of a single bacterial species in a patient WITHOUT urinary symptoms): - STRICT INDICATIONS TO SCREEN AND TREAT ASB"
+    ],
+    "references": [
+      {
+        "label": "Nicolle LE, et al. Clinical Practice Guideline for the Management of Asymptomatic Bacteriuria: 2019 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2019;68(10):e83-e110. PMID: 30895288.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30895288/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0198",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Primary Aldosteronism Diagnostic Algorithm",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man presents to the clinic for follow-up of persistent hypertension. Despite adherence to a three-drug antihypertensive regimen consisting of lisinopril 40 mg daily, amlodipine 10 mg daily, and chlorthalidone 25 mg daily, his blood pressure today is 168/102 mm Hg. He complains of intermittent muscle weakness and fatigue. On physical examination, his BMI is 27 kg/m², heart rate is 74/min, and cardiopulmonary examination is normal. Laboratory evaluation demonstrates: serum sodium 144 mEq/L, serum potassium 3.1 mEq/L (normal 3.5-5.0 mEq/L), serum bicarbonate 31 mEq/L, and serum creatinine 0.9 mg/dL. He is screened for secondary hypertension: plasma aldosterone concentration (PAC) is 32 ng/dL (normal < 15 ng/dL), and plasma renin activity (PRA) is suppressed at 0.4 ng/mL/hr (PAC/PRA ratio = 80). Confirmatory intravenous saline suppression testing confirms autonomous hyperaldosteronism. An unenhanced thin-slice CT scan of the adrenal glands demonstrates a well-circumscribed, 1.2-cm hypodense nodule in the left adrenal gland; the right adrenal gland appears normal. The patient wishes to pursue curative surgical resection. Which of the following is the most appropriate next step before proceeding to surgery?",
+    "options": [
+      {
+        "text": "Immediate left laparoscopic adrenalectomy based on the visible CT nodule",
+        "correct": false,
+        "explanation": "Proceeding directly to surgery without adrenal venous sampling leads to wrong-gland removal or inappropriate adrenalectomy in patients with bilateral hyperplasia who have an incidental non-functioning nodule."
+      },
+      {
+        "text": "Initiation of high-dose oral spironolactone monotherapy and cancellation of surgical workup",
+        "correct": false,
+        "explanation": "In a 44-year-old patient who desires surgical cure, completing the lateralization workup with AVS is indicated because unilateral adenomas can be completely cured surgically."
+      },
+      {
+        "text": "Adrenal venous sampling (AVS) to differentiate unilateral from bilateral aldosterone hypersecretion",
+        "correct": true,
+        "explanation": "This patient presents with classic PRIMARY ALDOSTERONISM (Conn syndrome) characterized by treatment-resistant hypertension, hypokalemia, metabolic alkalosis, and a markedly elevated plasma aldosterone-to-renin ratio (PAC/PRA = 80). Autonomous production was confirmed via failure to suppress aldosterone after saline infusion. The two primary etiologies of primary aldosteronism are: (1) Unilateral aldosterone-producing adrenal adenoma (~50-60% of cases), which is curable with laparoscopic unilateral adrenalectomy; and (2) Bilateral adrenal hyperplasia (~40-50% of cases), which must be managed medically with mineralocorticoid receptor antagonists (spironolactone or eplerenone). CRITICAL MANAGEMENT STEP: Adrenal CT scanning has notoriously poor diagnostic accuracy for lateralization because non-functioning incidental adrenal adenomas (\"incidentalomas\") are highly prevalent in patients > 40 years old, and microadenomas or bilateral hyperplasia may appear normal on CT. Therefore, guidelines from the Endocrine Society mandate ADRENAL VENOUS SAMPLING (AVS) in all surgical candidates to measure aldosterone levels directly from both adrenal veins and the IVC. If AVS confirms unilateral hypersecretion matching the CT nodule, unilateral laparoscopic adrenalectomy provides cure; if bilateral hypersecretion is demonstrated, surgery is avoided in favor of spironolactone."
+      },
+      {
+        "text": "Twenty-four-hour urinary metanephrines and normetanephrines quantification",
+        "correct": false,
+        "explanation": "Urinary metanephrines screen for pheochromocytoma (headache, sweating, tachycardia, episodic hypertension); autonomous aldosterone with suppressed renin confirms primary aldosteronism."
+      },
+      {
+        "text": "Renal artery duplex ultrasonography to evaluate for renal artery stenosis",
+        "correct": false,
+        "explanation": "Renal artery stenosis causes secondary hyperaldosteronism with HIGH plasma renin activity, whereas this patient has autonomous aldosterone with a SUPPRESSED plasma renin activity (0.4 ng/mL/hr)."
+      }
+    ],
+    "explanation": "This patient presents with classic PRIMARY ALDOSTERONISM (Conn syndrome) characterized by treatment-resistant hypertension, hypokalemia, metabolic alkalosis, and a markedly elevated plasma aldosterone-to-renin ratio (PAC/PRA = 80). Autonomous production was confirmed via failure to suppress aldosterone after saline infusion. The two primary etiologies of primary aldosteronism are: (1) Unilateral aldosterone-producing adrenal adenoma (~50-60% of cases), which is curable with laparoscopic unilateral adrenalectomy; and (2) Bilateral adrenal hyperplasia (~40-50% of cases), which must be managed medically with mineralocorticoid receptor antagonists (spironolactone or eplerenone). CRITICAL MANAGEMENT STEP: Adrenal CT scanning has notoriously poor diagnostic accuracy for lateralization because non-functioning incidental adrenal adenomas (\"incidentalomas\") are highly prevalent in patients > 40 years old, and microadenomas or bilateral hyperplasia may appear normal on CT. Therefore, guidelines from the Endocrine Society mandate ADRENAL VENOUS SAMPLING (AVS) in all surgical candidates to measure aldosterone levels directly from both adrenal veins and the IVC. If AVS confirms unilateral hypersecretion matching the CT nodule, unilateral laparoscopic adrenalectomy provides cure; if bilateral hypersecretion is demonstrated, surgery is avoided in favor of spironolactone. Manage Primary Aldosteronism (Conn Syndrome): Autonomous excess aldosterone secretion from adrenal adenoma (60%) or bilateral adrenal hyperplasia (40%). - SUSPECT IN: RESISTANT HYPERTENSION (uncontrolled on >= 3 antihypertensives including a diuretic), HYPERTENSION WITH HYPOKALEMIA (often unprovoked or provoked by low-dose thiazide), or hypertension at young age (< 30). - DIAGNOSTIC SEQUENCE: 1. SCREENING: Morning PLASMA ALDOSTERONE CONCENTRATION TO PLASMA RENIN ACTIVITY RATIO (PAC/PRA ratio > 20 with PAC > 15 ng/dL); 2. CONFIRMATORY TEST: Saline infusion test or oral sodium loading (fails to suppress aldosterone); 3. ADRENAL CT SCAN to evaluate anatomy; 4. ADRENAL VENOUS SAMPLING (AVS) is MANDATORY to differentiate UNILATERAL ADENOMA (treated with LAPAROSCOPIC ADRENALECTOMY) from BILATERAL HYPERPLASIA (treated medically with SPIRONOLACTONE/EPLERENONE).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Primary Aldosteronism Diagnostic Algorithm.",
+    "keyPoints": [
+      "Primary Aldosteronism Diagnostic Algorithm",
+      "Manage Primary Aldosteronism (Conn Syndrome): Autonomous excess aldosterone secretion from adrenal adenoma (60%) or bilateral adrenal hyperplasia (40%). - SUSPECT IN: RESISTANT HYP"
+    ],
+    "references": [
+      {
+        "label": "Funder JW, et al. The Management of Primary Aldosteronism: Case Detection, Diagnosis, and Treatment: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2016;101(5):1889-1916. PMID: 26934393.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26934393/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0199",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Carpal Tunnel Syndrome Diagnostic Testing and Splinting",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old administrative assistant presents to the clinic reporting a 4-month history of intermittent tingling, burning, and numbness affecting her right hand. The symptoms characteristically awaken her from sleep at night, forcing her to shake her hand vigorously to obtain relief (\"flick sign\"). She notes that the numbness is localized to her thumb, index finger, middle finger, and the thumb-side of her ring finger. Over the past month, she has dropped coffee mugs on two occasions due to clumsiness. On physical examination, there is normal sensation over the right thenar eminence, but sensation to two-point discrimination is impaired over the palmar aspect of the index and middle fingertips. Tapping lightly over the volar aspect of the right wrist elicits sharp paresthesias radiating into the thumb and index finger (positive Tinel sign). Holding both wrists in complete unforced flexion for 60 seconds reproduces intense numbness in the median nerve distribution (positive Phalen test). Manual muscle testing reveals normal 5/5 abductor pollicis brevis strength, and there is no visible thenar muscle atrophy. Which of the following is the most appropriate initial conservative management for this patient?",
+    "options": [
+      {
+        "text": "Immediate open surgical decompression with transverse carpal ligament division",
+        "correct": false,
+        "explanation": "Surgical carpal tunnel release is indicated for severe refractory CTS that fails conservative therapy or when electrodiagnostic studies show severe axonal loss or visible thenar muscle atrophy."
+      },
+      {
+        "text": "Oral high-dose prednisone for 4 weeks followed by physical therapy exercises",
+        "correct": false,
+        "explanation": "Systemic oral corticosteroids carry significant systemic adverse effects and are far less effective and durable than local conservative neutral wrist splinting."
+      },
+      {
+        "text": "Continuous long-term wearing of an elastic wrist bandage while typing at work",
+        "correct": false,
+        "explanation": "Elastic compression bandages compress the carpal tunnel further and do not maintain the rigid neutral wrist posture necessary to alleviate median nerve compression."
+      },
+      {
+        "text": "Prescription of a rigid wrist splint maintained in a neutral position to be worn every night during sleep",
+        "correct": true,
+        "explanation": "This patient presents with classic, moderate CARPAL TUNNEL SYNDROME (CTS), the most common entrapment neuropathy of the upper extremity. CTS results from compression and ischemia of the median nerve as it courses beneath the rigid transverse carpal ligament (flexor retinaculum) within the carpal tunnel. Hallmark clinical features include: (1) Paresthesias, burning, and pain localized to the median nerve sensory territory (thumb, index, middle, and radial half of ring finger); (2) Nocturnal symptom exacerbation that awakens the patient, relieved by vigorous hand shaking (\"flick sign\"); (3) Sparing of sensation over the thenar eminence itself, because the palmar cutaneous branch of the median nerve branches proximal to the carpal tunnel and passes superficial to the flexor retinaculum; and (4) Positive provocative tests (Phalen maneuver and Tinel sign). The gold-standard first-line conservative intervention is NOCTURNAL NEUTRAL WRIST SPLINTING. During sleep, individuals naturally assume positions of wrist flexion or extreme extension, which dramatically elevates intracarpal canal pressure and compresses the median nerve. Immobilizing the wrist in a neutral (0-degree) position maximizes the cross-sectional area of the carpal tunnel, lowering tissue pressure and providing significant symptom relief."
+      },
+      {
+        "text": "Performance of magnetic resonance neurography of the cervical spine and brachial plexus",
+        "correct": false,
+        "explanation": "Cervical spine imaging is unnecessary when the physical examination, nocturnal awakenings, positive Phalen, and Tinel signs clearly localize the pathology to the carpal tunnel."
+      }
+    ],
+    "explanation": "This patient presents with classic, moderate CARPAL TUNNEL SYNDROME (CTS), the most common entrapment neuropathy of the upper extremity. CTS results from compression and ischemia of the median nerve as it courses beneath the rigid transverse carpal ligament (flexor retinaculum) within the carpal tunnel. Hallmark clinical features include: (1) Paresthesias, burning, and pain localized to the median nerve sensory territory (thumb, index, middle, and radial half of ring finger); (2) Nocturnal symptom exacerbation that awakens the patient, relieved by vigorous hand shaking (\"flick sign\"); (3) Sparing of sensation over the thenar eminence itself, because the palmar cutaneous branch of the median nerve branches proximal to the carpal tunnel and passes superficial to the flexor retinaculum; and (4) Positive provocative tests (Phalen maneuver and Tinel sign). The gold-standard first-line conservative intervention is NOCTURNAL NEUTRAL WRIST SPLINTING. During sleep, individuals naturally assume positions of wrist flexion or extreme extension, which dramatically elevates intracarpal canal pressure and compresses the median nerve. Immobilizing the wrist in a neutral (0-degree) position maximizes the cross-sectional area of the carpal tunnel, lowering tissue pressure and providing significant symptom relief. Manage Carpal Tunnel Syndrome: Compression of the MEDIAN NERVE beneath the transverse carpal ligament (flexor retinaculum). - RISK FACTORS: Repetitive wrist flexion/extension, obesity, pregnancy, diabetes, rheumatoid arthritis, hypothyroidism. - CLINICAL SIGNS: Paresthesias/pain in THUMB, INDEX, MIDDLE FINGER, and radial half of ring finger (sparing the thenar eminence because palmar cutaneous branch branches proximal to carpal tunnel). Symptoms worse at night. Positive Phalen test (flexion of wrists reproduces numbness) and Tinel sign. Thenar atrophy is a late finding. - FIRST-LINE INITIAL THERAPY: NOCTURNAL WRIST SPLINTING IN A NEUTRAL POSITION (relieves elevated intracarpal canal pressures during sleep). Second-line: Local corticosteroid injection; Refractory/severe: Surgical transverse carpal ligament release.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Carpal Tunnel Syndrome Diagnostic Testing and Splinting.",
+    "keyPoints": [
+      "Carpal Tunnel Syndrome Diagnostic Testing and Splinting",
+      "Manage Carpal Tunnel Syndrome: Compression of the MEDIAN NERVE beneath the transverse carpal ligament (flexor retinaculum). - RISK FACTORS: Repetitive wrist flexion/extension, obes"
+    ],
+    "references": [
+      {
+        "label": "Wipperman J, et al. Carpal Tunnel Syndrome: Diagnosis and Management. Am Fam Physician. 2016;94(12):993-999. PMID: 28075090.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28075090/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0200",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "GERD with Alarm Symptoms Diagnostic Approach",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man presents to the clinic with a 5-month history of worsening heartburn and retrosternal burning pain after meals. Over the past 6 weeks, he has developed progressive difficulty swallowing solid foods, such as bread and steak, describing a sensation of food \"getting stuck\" in the lower chest that requires him to drink large amounts of water to wash it down. He has no difficulty swallowing liquids. Over the last 2 months, he has had an unintended weight loss of 14 lbs and poor appetite. His medical history includes hypertension treated with hydrochlorothiazide and a 30-pack-year smoking history. On physical examination, the patient appears thin. His blood pressure is 132/84 mm Hg, heart rate is 76/min, and BMI is 21 kg/m². Abdominal examination is soft and non-tender without palpable masses or organomegaly; there is no cervical or supraclavicular lymphadenopathy. Complete blood count demonstrates: hemoglobin 10.8 g/dL with a mean corpuscular volume of 74 fL (microcytic anemia), and stool guaiac test is positive for occult blood. Which of the following is the most appropriate next step in the clinical management of this patient?",
+    "options": [
+      {
+        "text": "Prescribe twice-daily high-dose oral omeprazole and re-evaluate symptoms in 8 weeks",
+        "correct": false,
+        "explanation": "Escalating empiric acid suppression in the presence of dysphagia, weight loss, and anemia causes fatal diagnostic delays in resectable esophageal adenocarcinoma."
+      },
+      {
+        "text": "Perform a 24-hour ambulatory esophageal pH-impedance monitoring study",
+        "correct": false,
+        "explanation": "Esophageal pH monitoring evaluates refractory atypical reflux or confirms GERD prior to anti-reflux surgery in patients with normal endoscopy; it does not evaluate mechanical dysphagia or cancer."
+      },
+      {
+        "text": "Order high-resolution esophageal manometry to assess for achalasia",
+        "correct": false,
+        "explanation": "Manometry is indicated for motor dysmotility (dysphagia to both solids and liquids simultaneously); progressive dysphagia to solids alone in an older smoker requires endoscopy to exclude cancer."
+      },
+      {
+        "text": "Initiate oral sucralfate suspension and schedule a repeat clinic visit in 3 months",
+        "correct": false,
+        "explanation": "Sucralfate is a mucosal coating agent that has zero efficacy in evaluating or treating malignant mechanical esophageal obstruction."
+      },
+      {
+        "text": "Upper gastrointestinal endoscopy (esophagogastroduodenoscopy) with mucosal biopsies",
+        "correct": true,
+        "explanation": "This 59-year-old man presents with typical gastroesophageal reflux symptoms complicated by multiple major ALARM FEATURES: (1) Progressive mechanical dysphagia (difficulty swallowing solids); (2) Significant unintended weight loss (14 lbs); (3) Age > 50 years; and (4) New microcytic iron-deficiency anemia with occult gastrointestinal blood loss. While uncomplicated GERD is managed empirically with an 8-week course of once-daily proton pump inhibitors (PPIs), the presence of ANY alarm feature is an absolute indication for IMMEDIATE UPPER ENDOSCOPY (ESOPHAGOGASTRODUODENOSCOPY - EGD) WITH MUCOSAL BIOPSIES. The primary concern is ESOPHAGEAL ADENOCARCINOMA (which typically arises from pre-existing Barrett esophagus in the distal third of the esophagus, especially in older male smokers with chronic GERD) or an advanced peptic esophageal stricture. Endoscopy allows direct visualization of the mucosal architecture, identification of luminal obstruction, and acquisition of targeted histological tissue biopsies for definitive pathological diagnosis. Empiric medical therapy or barium swallow must not delay diagnostic endoscopy."
+      }
+    ],
+    "explanation": "This 59-year-old man presents with typical gastroesophageal reflux symptoms complicated by multiple major ALARM FEATURES: (1) Progressive mechanical dysphagia (difficulty swallowing solids); (2) Significant unintended weight loss (14 lbs); (3) Age > 50 years; and (4) New microcytic iron-deficiency anemia with occult gastrointestinal blood loss. While uncomplicated GERD is managed empirically with an 8-week course of once-daily proton pump inhibitors (PPIs), the presence of ANY alarm feature is an absolute indication for IMMEDIATE UPPER ENDOSCOPY (ESOPHAGOGASTRODUODENOSCOPY - EGD) WITH MUCOSAL BIOPSIES. The primary concern is ESOPHAGEAL ADENOCARCINOMA (which typically arises from pre-existing Barrett esophagus in the distal third of the esophagus, especially in older male smokers with chronic GERD) or an advanced peptic esophageal stricture. Endoscopy allows direct visualization of the mucosal architecture, identification of luminal obstruction, and acquisition of targeted histological tissue biopsies for definitive pathological diagnosis. Empiric medical therapy or barium swallow must not delay diagnostic endoscopy. Manage Gastroesophageal Reflux Disease (GERD) with Alarm Features: - TYPICAL GERD (heartburn, acid regurgitation): Empiric trial of once-daily PROTON PUMP INHIBITOR (PPI) for 8 weeks. - ALARM SYMPTOMS: 1. DYSPHAGIA (difficulty swallowing); 2. ODYNOPHAGIA (painful swallowing); 3. UNINTENDED WEIGHT LOSS; 4. Persistent vomiting; 5. Gastrointestinal bleeding / Iron deficiency anemia; 6. Age > 50-60 with new onset of symptoms. MANDATORY ACTION: IMMEDIATE UPPER ENDOSCOPY (ESOPHAGOGASTRODUODENOSCOPY - EGD) WITH BIOPSIES to rule out ESOPHAGEAL ADENOCARCINOMA, peptic stricture, or Barrett esophagus. NEVER escalate empiric medical therapy when alarm symptoms are present.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of GERD with Alarm Symptoms Diagnostic Approach.",
+    "keyPoints": [
+      "GERD with Alarm Symptoms Diagnostic Approach",
+      "Manage Gastroesophageal Reflux Disease (GERD) with Alarm Features: - TYPICAL GERD (heartburn, acid regurgitation): Empiric trial of once-daily PROTON PUMP INHIBITOR (PPI) for 8 wee"
+    ],
+    "references": [
+      {
+        "label": "Katz PO, et al. ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. Am J Gastroenterol. 2022;117(1):27-56. PMID: 34807007.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34807007/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

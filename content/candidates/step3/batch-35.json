@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s3-0851",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Intention-to-Treat Analysis Preservation of Baseline Randomization",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A randomized, double-blind, placebo-controlled trial evaluates a novel oral anticoagulant versus standard therapy for stroke prevention in 4,000 patients with nonvalvular atrial fibrillation. Participants are randomized 1:1 to drug (2,000 patients) or control (2,000 patients). Over the 2-year study, 300 patients in the novel drug arm discontinue therapy early due to dyspepsia, and 100 cross over to open-label standard therapy. In the primary efficacy analysis, the investigators analyze every participant according to their original assigned group, regardless of adherence, crossovers, protocol violations, or premature medication discontinuation. Which of the following is the primary methodological rationale for utilizing an intention-to-treat (ITT) analysis rather than a per-protocol analysis?",
+    "options": [
+      {
+        "text": "Preserves baseline prognostic balance achieved by randomization and prevents attrition bias",
+        "correct": true,
+        "explanation": "The intention-to-treat (ITT) principle dictates that all randomized participants are analyzed in the group to which they were originally assigned, regardless of whether they received or completed the intervention, adhered to protocol, or crossed over to another treatment. Randomization ensures that both known and unknown prognostic baseline confounders are evenly distributed between treatment arms. A per-protocol analysis (which excludes non-adherent patients or crossovers) breaks this balance: patients who tolerate a drug and adhere strictly to protocol are often healthier and more compliant with healthcare generally (adherence bias), introducing severe confounding and attrition bias that artificially inflates treatment efficacy. ITT preserves the benefits of randomization, minimizes bias, and provides a conservative, pragmatic estimate of effectiveness in real-world clinical practice where non-adherence occurs."
+      },
+      {
+        "text": "Maximizes the statistical power to demonstrate efficacy under idealized compliance conditions",
+        "correct": false,
+        "explanation": "A per-protocol analysis measures efficacy under idealized compliance; ITT is conservative and often dilutes effect size toward the null."
+      },
+      {
+        "text": "Guarantees that no participant experiences any adverse drug events during follow-up",
+        "correct": false,
+        "explanation": "ITT is an analytical framework that organizes data; it has no physical effect on patient clinical safety or drug toxicities."
+      },
+      {
+        "text": "Eliminates the necessity for blinding and concealment of allocation during enrollment",
+        "correct": false,
+        "explanation": "ITT analysis cannot compensate for broken blinding or flawed allocation concealment; it governs analysis of randomized groups."
+      },
+      {
+        "text": "Allows investigators to selectively exclude patients who die from non-cardiovascular causes",
+        "correct": false,
+        "explanation": "ITT strictly forbids selective exclusion of participants; all randomized individuals must be accounted for in the primary analysis."
+      }
+    ],
+    "explanation": "The intention-to-treat (ITT) principle dictates that all randomized participants are analyzed in the group to which they were originally assigned, regardless of whether they received or completed the intervention, adhered to protocol, or crossed over to another treatment. Randomization ensures that both known and unknown prognostic baseline confounders are evenly distributed between treatment arms. A per-protocol analysis (which excludes non-adherent patients or crossovers) breaks this balance: patients who tolerate a drug and adhere strictly to protocol are often healthier and more compliant with healthcare generally (adherence bias), introducing severe confounding and attrition bias that artificially inflates treatment efficacy. ITT preserves the benefits of randomization, minimizes bias, and provides a conservative, pragmatic estimate of effectiveness in real-world clinical practice where non-adherence occurs. ITT analysis = analyze as randomized -> preserves baseline balance and prevents attrition/adherence bias.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Intention-to-Treat Analysis Preservation of Baseline Randomization.",
+    "keyPoints": [
+      "Intention-to-Treat Analysis Preservation of Baseline Randomization",
+      "ITT analysis = analyze as randomized -> preserves baseline balance and prevents attrition/adherence bias."
+    ],
+    "references": [
+      {
+        "label": "Gupta SK et al. Intention-to-treat concept: A review. Perspect Clin Res. PMID: 21897887.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21897887/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0852",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Number Needed to Treat Calculation From Absolute Risk Reduction",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A multicenter randomized controlled trial investigates the efficacy of adding an SGLT2 inhibitor versus placebo to standard medical therapy in patients with chronic kidney disease. Over a median follow-up of 3 years, the primary composite outcome of a sustained decline in estimated GFR of at least 50%, end-stage kidney disease, or renal/cardiovascular death occurs in 120 of 1,500 patients (8.0%) in the placebo group and in 60 of 1,500 patients (4.0%) in the SGLT2 inhibitor group (p < 0.001). Which of the following is the Number Needed to Treat (NNT) to prevent one primary composite outcome event over 3 years?",
+    "options": [
+      {
+        "text": "50 patients",
+        "correct": false,
+        "explanation": "Fifty represents 1 / 0.02 (an ARR of 2.0%), not the 4.0% absolute risk reduction documented in this trial."
+      },
+      {
+        "text": "25 patients",
+        "correct": true,
+        "explanation": "The Number Needed to Treat (NNT) represents the average number of patients who must receive a specific treatment for a defined duration to prevent one additional adverse outcome. NNT is calculated as the inverse of the Absolute Risk Reduction (ARR): NNT = 1 / ARR. First, calculate the control event rate (CER): CER = 120 / 1,500 = 0.080 (8.0%). Next, calculate the experimental event rate (EER): EER = 60 / 1,500 = 0.040 (4.0%). The absolute risk reduction is: ARR = CER - EER = 0.080 - 0.040 = 0.040 (4.0%). Finally, calculate NNT: NNT = 1 / 0.040 = 25. Thus, treating 25 patients with an SGLT2 inhibitor for 3 years prevents one primary renal/cardiovascular composite event. NNT is always rounded up to the nearest whole integer."
+      },
+      {
+        "text": "10 patients",
+        "correct": false,
+        "explanation": "Ten represents 1 / 0.10 (an ARR of 10.0%), which overstates the true absolute risk reduction by 2.5-fold."
+      },
+      {
+        "text": "2 patients",
+        "correct": false,
+        "explanation": "Two represents 1 / 0.50, which confuses the 50% relative risk reduction (RRR = [8% - 4%] / 8% = 50%) with absolute risk reduction."
+      },
+      {
+        "text": "100 patients",
+        "correct": false,
+        "explanation": "One hundred represents 1 / 0.01 (an ARR of 1.0%), which underestimates the true clinical effect size."
+      }
+    ],
+    "explanation": "The Number Needed to Treat (NNT) represents the average number of patients who must receive a specific treatment for a defined duration to prevent one additional adverse outcome. NNT is calculated as the inverse of the Absolute Risk Reduction (ARR): NNT = 1 / ARR. First, calculate the control event rate (CER): CER = 120 / 1,500 = 0.080 (8.0%). Next, calculate the experimental event rate (EER): EER = 60 / 1,500 = 0.040 (4.0%). The absolute risk reduction is: ARR = CER - EER = 0.080 - 0.040 = 0.040 (4.0%). Finally, calculate NNT: NNT = 1 / 0.040 = 25. Thus, treating 25 patients with an SGLT2 inhibitor for 3 years prevents one primary renal/cardiovascular composite event. NNT is always rounded up to the nearest whole integer. Control 8.0% - Treatment 4.0% = ARR 4.0% (0.04) -> NNT = 1 / 0.04 = 25.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Number Needed to Treat Calculation From Absolute Risk Reduction.",
+    "keyPoints": [
+      "Number Needed to Treat Calculation From Absolute Risk Reduction",
+      "Control 8.0% - Treatment 4.0% = ARR 4.0% (0.04) -> NNT = 1 / 0.04 = 25."
+    ],
+    "references": [
+      {
+        "label": "Laupacis A et al. An assessment of clinically useful measures of the consequences of treatment. N Engl J Med. PMID: 3374545.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3374545/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0853",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Number Needed to Harm Calculation and Risk-Benefit Clinical Decision",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "In a randomized clinical trial of 5,000 older adults receiving high-dose intensive antiplatelet therapy versus standard therapy for secondary stroke prevention, major extracranial bleeding events over 1 year occur in 75 of 2,500 patients (3.0%) in the intensive group and in 25 of 2,500 patients (1.0%) in the standard group (p < 0.001). Concurrently, recurrent ischemic stroke occurs in 50 of 2,500 patients (2.0%) in the intensive group versus 100 of 2,500 patients (4.0%) in the standard group. Which of the following correctly pairs the Number Needed to Harm (NNH) for major bleeding with the Number Needed to Treat (NNT) to prevent one ischemic stroke?",
+    "options": [
+      {
+        "text": "NNH is 25 patients; NNT is 100 patients",
+        "correct": false,
+        "explanation": "Twenty-five represents an ARI of 4.0%, and 100 represents an ARR of 1.0%, reversing the documented trial incidence rates."
+      },
+      {
+        "text": "NNH is 100 patients; NNT is 25 patients",
+        "correct": false,
+        "explanation": "One hundred underestimates the bleeding harm by half, and 25 overstates the ischemic stroke benefit twofold."
+      },
+      {
+        "text": "NNH is 50 patients; NNT is 50 patients",
+        "correct": true,
+        "explanation": "The Number Needed to Harm (NNH) indicates the number of patients treated before one additional adverse harmful event occurs. It is calculated as the inverse of the Absolute Risk Increase (ARI): NNH = 1 / ARI. For major bleeding: Experimental event rate = 75 / 2,500 = 0.030 (3.0%); Control event rate = 25 / 2,500 = 0.010 (1.0%). Absolute risk increase: ARI = 0.030 - 0.010 = 0.020 (2.0%). NNH = 1 / 0.020 = 50. Concurrently, for ischemic stroke prevention: Control event rate = 100 / 2,500 = 0.040 (4.0%); Experimental event rate = 50 / 2,500 = 0.020 (2.0%). Absolute risk reduction: ARR = 0.040 - 0.020 = 0.020 (2.0%). NNT = 1 / 0.020 = 50. Thus, for every 50 patients treated for 1 year, 1 ischemic stroke is prevented, but exactly 1 major bleeding event is caused (NNT = 50 and NNH = 50), demonstrating an equivalence in absolute event impact."
+      },
+      {
+        "text": "NNH is 33 patients; NNT is 20 patients",
+        "correct": false,
+        "explanation": "Thirty-three represents 1 / 0.030, which divides by the raw experimental rate without subtracting the control baseline rate."
+      },
+      {
+        "text": "NNH is 10 patients; NNT is 10 patients",
+        "correct": false,
+        "explanation": "Ten represents an ARI and ARR of 10.0%, which is five times higher than the true trial data."
+      }
+    ],
+    "explanation": "The Number Needed to Harm (NNH) indicates the number of patients treated before one additional adverse harmful event occurs. It is calculated as the inverse of the Absolute Risk Increase (ARI): NNH = 1 / ARI. For major bleeding: Experimental event rate = 75 / 2,500 = 0.030 (3.0%); Control event rate = 25 / 2,500 = 0.010 (1.0%). Absolute risk increase: ARI = 0.030 - 0.010 = 0.020 (2.0%). NNH = 1 / 0.020 = 50. Concurrently, for ischemic stroke prevention: Control event rate = 100 / 2,500 = 0.040 (4.0%); Experimental event rate = 50 / 2,500 = 0.020 (2.0%). Absolute risk reduction: ARR = 0.040 - 0.020 = 0.020 (2.0%). NNT = 1 / 0.020 = 50. Thus, for every 50 patients treated for 1 year, 1 ischemic stroke is prevented, but exactly 1 major bleeding event is caused (NNT = 50 and NNH = 50), demonstrating an equivalence in absolute event impact. Bleeding ARI = 3% - 1% = 2% -> NNH = 1 / 0.02 = 50. Stroke ARR = 4% - 2% = 2% -> NNT = 1 / 0.02 = 50.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Number Needed to Harm Calculation and Risk-Benefit Clinical Decision.",
+    "keyPoints": [
+      "Number Needed to Harm Calculation and Risk-Benefit Clinical Decision",
+      "Bleeding ARI = 3% - 1% = 2% -> NNH = 1 / 0.02 = 50. Stroke ARR = 4% - 2% = 2% -> NNT = 1 / 0.02 = 50."
+    ],
+    "references": [
+      {
+        "label": "Altman DG. Confidence Intervals for the Number Needed to Treat. BMJ. 1998;317(7168):1309-1312. PMID: 9804726.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9804726/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0854",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Positive and Negative Likelihood Ratios and Post-Test Probability",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A novel serum biomarker assay for the early detection of pancreatic adenocarcinoma is evaluated in a validation cohort. The assay has a sensitivity of 90% (0.90) and a specificity of 80% (0.80). In an outpatient gastroenterology referral clinic, the pre-test probability (prevalence) of pancreatic adenocarcinoma among patients presenting with unexplained weight loss and new-onset epigastric pain is estimated to be 10% (0.10). A patient in this clinic tests positive on the novel assay. Which of the following is the positive likelihood ratio (LR+) of this assay, and what is the best estimate of the patient's post-test probability of having pancreatic adenocarcinoma?",
+    "options": [
+      {
+        "text": "Positive likelihood ratio is 1.125; post-test probability is approximately 11%",
+        "correct": false,
+        "explanation": "Dividing sensitivity by specificity (0.90 / 0.80 = 1.125) confuses specificity with the false-positive rate (1 - specificity)."
+      },
+      {
+        "text": "Positive likelihood ratio is 9.0; post-test probability is approximately 50%",
+        "correct": false,
+        "explanation": "Nine represents 0.90 / 0.10, which incorrectly uses 1 - sensitivity instead of 1 - specificity in the denominator."
+      },
+      {
+        "text": "Positive likelihood ratio is 4.5; post-test probability is strictly equal to 90%",
+        "correct": false,
+        "explanation": "Confuses post-test probability with test sensitivity; post-test probability depends heavily on pre-test prevalence."
+      },
+      {
+        "text": "Positive likelihood ratio is 4.5; post-test probability is approximately 33%",
+        "correct": true,
+        "explanation": "Likelihood ratios (LR) combine sensitivity and specificity into a single clinically useful metric independent of disease prevalence. The positive likelihood ratio (LR+) represents how much more likely a positive test result is found in persons with the disease compared to persons without: LR+ = Sensitivity / (1 - Specificity). In this case: LR+ = 0.90 / (1 - 0.80) = 0.90 / 0.20 = 4.5. To determine post-test probability: (1) Convert pre-test probability (P = 0.10) to pre-test odds: Pre-test odds = P / (1 - P) = 0.10 / 0.90 = 1/9 (~0.111). (2) Multiply pre-test odds by LR+: Post-test odds = Pre-test odds * LR+ = (1/9) * 4.5 = 4.5 / 9 = 0.50. (3) Convert post-test odds back to post-test probability: Post-test probability = Odds / (Odds + 1) = 0.50 / (0.50 + 1) = 0.50 / 1.50 = 1/3 = 33.3% (approximately 33%)."
+      },
+      {
+        "text": "Positive likelihood ratio is 0.22; post-test probability is approximately 2%",
+        "correct": false,
+        "explanation": "0.22 represents the negative likelihood ratio (LR- = [1 - Sens] / Spec = 0.10 / 0.80 = 0.125), not LR+."
+      }
+    ],
+    "explanation": "Likelihood ratios (LR) combine sensitivity and specificity into a single clinically useful metric independent of disease prevalence. The positive likelihood ratio (LR+) represents how much more likely a positive test result is found in persons with the disease compared to persons without: LR+ = Sensitivity / (1 - Specificity). In this case: LR+ = 0.90 / (1 - 0.80) = 0.90 / 0.20 = 4.5. To determine post-test probability: (1) Convert pre-test probability (P = 0.10) to pre-test odds: Pre-test odds = P / (1 - P) = 0.10 / 0.90 = 1/9 (~0.111). (2) Multiply pre-test odds by LR+: Post-test odds = Pre-test odds * LR+ = (1/9) * 4.5 = 4.5 / 9 = 0.50. (3) Convert post-test odds back to post-test probability: Post-test probability = Odds / (Odds + 1) = 0.50 / (0.50 + 1) = 0.50 / 1.50 = 1/3 = 33.3% (approximately 33%). LR+ = Sens / (1 - Spec) = 0.90 / 0.20 = 4.5. Pre-odds 1/9 * 4.5 = 0.5 post-odds -> post-probability = 0.5 / 1.5 = 33%.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Positive and Negative Likelihood Ratios and Post-Test Probability.",
+    "keyPoints": [
+      "Positive and Negative Likelihood Ratios and Post-Test Probability",
+      "LR+ = Sens / (1 - Spec) = 0.90 / 0.20 = 4.5. Pre-odds 1/9 * 4.5 = 0.5 post-odds -> post-probability = 0.5 / 1.5 = 33%."
+    ],
+    "references": [
+      {
+        "label": "Akobeng AK et al. Understanding diagnostic tests 2: likelihood ratios, pre- and post-test probabilities and their use in clinical practice. Acta Paediatr. PMID: 17306009.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17306009/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0855",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Non-Inferiority Clinical Trial Margin Interpretation and Analysis Sets",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A prospective randomized clinical trial evaluates whether a novel oral antibiotic is non-inferior to intravenous standard therapy for the treatment of complicated skin and soft tissue infections. The primary efficacy endpoint is clinical cure at test-of-cure visit. The investigators establish a pre-specified non-inferiority margin (delta) of 10% (-0.10). In the primary analysis of 1,200 participants, the clinical cure rate is 86.0% in the oral group and 88.0% in the intravenous group, yielding an observed difference in cure rate of -2.0% (95% confidence interval: -6.5% to +2.5%). Which of the following conclusions correctly interprets this non-inferiority trial result, and which patient population datasets must be analyzed to establish non-inferiority robustly?",
+    "options": [
+      {
+        "text": "Non-inferiority is rejected because the point estimate (-2.0%) demonstrates that the oral therapy is numerically inferior",
+        "correct": false,
+        "explanation": "Non-inferiority does not require numerical equivalence; the point estimate can be slightly worse as long as the confidence interval excludes the delta margin."
+      },
+      {
+        "text": "Superiority of the oral drug is proven because the upper bound of the confidence interval (+2.5%) exceeds zero",
+        "correct": false,
+        "explanation": "Superiority requires the entire 95% confidence interval (including the lower bound) to be strictly greater than zero; here the CI spans -6.5% to +2.5%."
+      },
+      {
+        "text": "Non-inferiority can only be established using a per-protocol analysis while discarding intention-to-treat data entirely",
+        "correct": false,
+        "explanation": "Relying solely on per-protocol analysis introduces attrition bias; both ITT and per-protocol analyses must concordantly demonstrate non-inferiority."
+      },
+      {
+        "text": "The trial is inconclusive because the 95% confidence interval crosses zero, indicating insufficient sample size",
+        "correct": false,
+        "explanation": "Crossing zero means there is no statistically significant difference between treatments (which is expected in non-inferiority); it does not invalidate the trial."
+      },
+      {
+        "text": "Non-inferiority is demonstrated because the lower bound of the 95% CI (-6.5%) does not cross the -10% margin; both ITT and per-protocol analyses must agree",
+        "correct": true,
+        "explanation": "In a non-inferiority trial, the objective is to demonstrate that a novel therapy (which typically offers advantages such as oral administration, lower cost, or fewer side effects) is not clinically worse than the active standard by more than a pre-specified non-inferiority margin (delta). For an outcome where higher values are desirable (e.g., cure rates), non-inferiority is successfully established if the LOWER BOUND of the two-sided 95% confidence interval for the treatment difference (New - Standard) falls entirely ABOVE (to the right of) the non-inferiority margin (-delta). Here, the lower bound is -6.5%, which is greater than -10.0% (-6.5% > -10.0%), meaning non-inferiority is formally met. Furthermore, unlike superiority trials where ITT is conservative, in non-inferiority trials ITT can bias toward the null (artificially favoring non-inferiority); therefore, regulatory guidelines (FDA and EMA) mandate that non-inferiority MUST be demonstrated in BOTH the Intention-to-Treat (ITT) AND the Per-Protocol (PP) populations to ensure robustness."
+      }
+    ],
+    "explanation": "In a non-inferiority trial, the objective is to demonstrate that a novel therapy (which typically offers advantages such as oral administration, lower cost, or fewer side effects) is not clinically worse than the active standard by more than a pre-specified non-inferiority margin (delta). For an outcome where higher values are desirable (e.g., cure rates), non-inferiority is successfully established if the LOWER BOUND of the two-sided 95% confidence interval for the treatment difference (New - Standard) falls entirely ABOVE (to the right of) the non-inferiority margin (-delta). Here, the lower bound is -6.5%, which is greater than -10.0% (-6.5% > -10.0%), meaning non-inferiority is formally met. Furthermore, unlike superiority trials where ITT is conservative, in non-inferiority trials ITT can bias toward the null (artificially favoring non-inferiority); therefore, regulatory guidelines (FDA and EMA) mandate that non-inferiority MUST be demonstrated in BOTH the Intention-to-Treat (ITT) AND the Per-Protocol (PP) populations to ensure robustness. Lower CI bound (-6.5%) is above margin (-10.0%) = non-inferiority met; must demonstrate in BOTH ITT and Per-Protocol sets.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Non-Inferiority Clinical Trial Margin Interpretation and Analysis Sets.",
+    "keyPoints": [
+      "Non-Inferiority Clinical Trial Margin Interpretation and Analysis Sets",
+      "Lower CI bound (-6.5%) is above margin (-10.0%) = non-inferiority met; must demonstrate in BOTH ITT and Per-Protocol sets."
+    ],
+    "references": [
+      {
+        "label": "Schumi J et al. Through the looking glass: understanding non-inferiority. Trials. PMID: 21539749.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21539749/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0856",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Relative Risk Reduction Versus Absolute Risk Reduction Clinical Framing",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A pharmaceutical advertisement for a new primary prevention statin claims: 'Reduces the risk of fatal myocardial infarction by 50%!' A physician reviews the published randomized clinical trial data to counsel a 50-year-old patient with low baseline cardiovascular risk. In the trial of 10,000 low-risk participants followed for 5 years, fatal myocardial infarction occurred in 20 of 5,000 participants (0.4%) in the placebo group and in 10 of 5,000 participants (0.2%) in the statin group (p = 0.04). Which of the following correctly pairs the Relative Risk Reduction (RRR) and Absolute Risk Reduction (ARR), and explains why presenting RRR alone can mislead patients?",
+    "options": [
+      {
+        "text": "RRR is 50%; ARR is 0.2%; presenting RRR alone exaggerates perceived clinical benefit by obscuring low baseline risk",
+        "correct": true,
+        "explanation": "Relative Risk Reduction (RRR) and Absolute Risk Reduction (ARR) convey different clinical messages. Control event rate (CER) = 20 / 5,000 = 0.004 (0.4%). Experimental event rate (EER) = 10 / 5,000 = 0.002 (0.2%). The Absolute Risk Reduction is: ARR = CER - EER = 0.004 - 0.002 = 0.002 (0.2%). The Relative Risk Reduction is: RRR = (CER - EER) / CER = (0.4% - 0.2%) / 0.4% = 0.50 (50%). While the drug does reduce fatal MI risk by 50% relatively, the absolute benefit is only 0.2% over 5 years (NNT = 1 / 0.002 = 500 patients treated for 5 years to prevent one fatal MI). Reporting RRR alone without ARR or baseline risk dramatically exaggerates the perceived clinical benefit to clinicians and patients, particularly when baseline disease incidence is low."
+      },
+      {
+        "text": "RRR is 0.2%; ARR is 50%; presenting RRR alone underestimates the massive clinical impact on population health",
+        "correct": false,
+        "explanation": "Reverses RRR and ARR; relative risk reduction is a percentage ratio (50%), whereas absolute risk reduction is the subtraction difference (0.2%)."
+      },
+      {
+        "text": "RRR is 25%; ARR is 2.0%; both metrics demonstrate that one in fifty patients directly benefits from therapy",
+        "correct": false,
+        "explanation": "Calculates ARR as 2.0% (instead of 0.2%), overstating the true absolute risk reduction by a factor of 10."
+      },
+      {
+        "text": "RRR is 50%; ARR is 5.0%; NNT is 20 patients treated over five years",
+        "correct": false,
+        "explanation": "ARR of 5.0% would require event rates of 10% vs 5%, which is 25 times higher than the actual trial rates (0.4% vs 0.2%)."
+      },
+      {
+        "text": "RRR and ARR are mathematically identical and always equal in randomized controlled trials",
+        "correct": false,
+        "explanation": "RRR and ARR are identical only when baseline control risk is exactly 100%; in all real-world settings, ARR is significantly smaller than RRR."
+      }
+    ],
+    "explanation": "Relative Risk Reduction (RRR) and Absolute Risk Reduction (ARR) convey different clinical messages. Control event rate (CER) = 20 / 5,000 = 0.004 (0.4%). Experimental event rate (EER) = 10 / 5,000 = 0.002 (0.2%). The Absolute Risk Reduction is: ARR = CER - EER = 0.004 - 0.002 = 0.002 (0.2%). The Relative Risk Reduction is: RRR = (CER - EER) / CER = (0.4% - 0.2%) / 0.4% = 0.50 (50%). While the drug does reduce fatal MI risk by 50% relatively, the absolute benefit is only 0.2% over 5 years (NNT = 1 / 0.002 = 500 patients treated for 5 years to prevent one fatal MI). Reporting RRR alone without ARR or baseline risk dramatically exaggerates the perceived clinical benefit to clinicians and patients, particularly when baseline disease incidence is low. Placebo 0.4%, Statin 0.2% -> ARR = 0.2%, RRR = (0.4 - 0.2)/0.4 = 50%. RRR alone obscures low baseline risk.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Relative Risk Reduction Versus Absolute Risk Reduction Clinical Framing.",
+    "keyPoints": [
+      "Relative Risk Reduction Versus Absolute Risk Reduction Clinical Framing",
+      "Placebo 0.4%, Statin 0.2% -> ARR = 0.2%, RRR = (0.4 - 0.2)/0.4 = 50%. RRR alone obscures low baseline risk."
+    ],
+    "references": [
+      {
+        "label": "Gigerenzer G et al. Helping Doctors and Patients Make Sense of Health Statistics. Psychol Sci Public Interest. PMID: 26161749.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26161749/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0857",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Hazard Ratio Interpretation and Proportional Hazards Assumption",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An oncology clinical trial evaluates a novel tyrosine kinase inhibitor versus standard chemotherapy in 800 patients with metastatic non-small cell lung cancer. In a time-to-event survival analysis using a Cox proportional hazards model, the primary endpoint of all-cause mortality yields a Hazard Ratio (HR) of 0.65 (95% confidence interval: 0.52 to 0.81, p < 0.001) in favor of the novel agent over a 3-year follow-up. Which of the following statements provides the most accurate and precise clinical interpretation of this Hazard Ratio?",
+    "options": [
+      {
+        "text": "Patients taking the novel agent lived exactly 35% longer than patients receiving standard chemotherapy",
+        "correct": false,
+        "explanation": "Hazard ratio reflects instantaneous event rates at any given time, not a percentage increase in total median survival duration."
+      },
+      {
+        "text": "At any given point in time during the study period, patients in the novel agent group had a 35% lower instantaneous risk of death compared to standard chemotherapy",
+        "correct": true,
+        "explanation": "A Hazard Ratio (HR) is a measure of the relative rate at which an event occurs over time in an experimental group compared to a control group, derived from survival analysis (Cox proportional hazards regression). Unlike a relative risk (which compares cumulative proportions at a single arbitrary fixed time point), the hazard ratio accounts for time-to-event and censoring. An HR of 0.65 indicates that at any specific instant during the follow-up period, an individual receiving the novel agent had 65% of the hazard (risk of dying) of an individual receiving standard chemotherapy, representing a 35% reduction in the instantaneous hazard rate (1 - 0.65 = 0.35 or 35%). A fundamental prerequisite of this model is the 'proportional hazards assumption,' which assumes that the ratio of hazards remains constant over time (Kaplan-Meier survival curves do not cross)."
+      },
+      {
+        "text": "Exactly 65% of patients in the novel agent group were cured of metastatic cancer at three years",
+        "correct": false,
+        "explanation": "Hazard ratios do not represent cure rates; an HR < 1.0 indicates slower progression to mortality, not complete disease eradication."
+      },
+      {
+        "text": "The cumulative absolute mortality rate was reduced by 35 percentage points at the end of three years",
+        "correct": false,
+        "explanation": "Confuses relative hazard reduction (35%) with absolute percentage points of mortality reduction."
+      },
+      {
+        "text": "The novel agent is clinically ineffective because the hazard ratio is less than 1.0",
+        "correct": false,
+        "explanation": "For an adverse outcome like mortality, an HR < 1.0 indicates protective efficacy, whereas an HR > 1.0 indicates increased harm."
+      }
+    ],
+    "explanation": "A Hazard Ratio (HR) is a measure of the relative rate at which an event occurs over time in an experimental group compared to a control group, derived from survival analysis (Cox proportional hazards regression). Unlike a relative risk (which compares cumulative proportions at a single arbitrary fixed time point), the hazard ratio accounts for time-to-event and censoring. An HR of 0.65 indicates that at any specific instant during the follow-up period, an individual receiving the novel agent had 65% of the hazard (risk of dying) of an individual receiving standard chemotherapy, representing a 35% reduction in the instantaneous hazard rate (1 - 0.65 = 0.35 or 35%). A fundamental prerequisite of this model is the 'proportional hazards assumption,' which assumes that the ratio of hazards remains constant over time (Kaplan-Meier survival curves do not cross). Hazard ratio 0.65 = 35% reduction in instantaneous risk of death at any given time during follow-up (Cox model).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hazard Ratio Interpretation and Proportional Hazards Assumption.",
+    "keyPoints": [
+      "Hazard Ratio Interpretation and Proportional Hazards Assumption",
+      "Hazard ratio 0.65 = 35% reduction in instantaneous risk of death at any given time during follow-up (Cox model)."
+    ],
+    "references": [
+      {
+        "label": "Spruance SL, Reid JE, Grace M, et al. Hazard Ratio in Clinical Trials. Antimicrob Agents Chemother. 2004;48(8):2787-2792. PMID: 15273082.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15273082/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0858",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Sensitivity and Specificity Diagnostic Utility SnNout Versus SpPin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A physician is selecting a diagnostic test to evaluate a 32-year-old woman with suspected systemic lupus erythematosus. Test A has a sensitivity of 98% and a specificity of 60%. Test B has a sensitivity of 65% and a specificity of 98%. The physician wishes to use one test as an initial screening tool to confidently 'rule out' systemic lupus erythematosus if the result is negative, and another test as a confirmatory test to confidently 'rule in' the disease if positive. Which of the following statements correctly applies diagnostic testing principles (SnNout and SpPin) to this clinical scenario?",
+    "options": [
+      {
+        "text": "Test A should be used to rule in disease because high sensitivity produces zero false positive results",
+        "correct": false,
+        "explanation": "High sensitivity ensures few false negatives, but does not prevent false positives; high specificity prevents false positives."
+      },
+      {
+        "text": "Test B should be used to rule out disease because high specificity ensures all diseased patients test positive",
+        "correct": false,
+        "explanation": "High specificity rules in disease when positive; it has a low sensitivity (65%), meaning 35% of diseased patients falsely test negative."
+      },
+      {
+        "text": "Test A should be used to rule out disease because high Sensitivity with a Negative result rules out disease (SnNout); Test B should be used to rule in disease because high Specificity with a Positive result rules in disease (SpPin)",
+        "correct": true,
+        "explanation": "Diagnostic test selection relies on understanding Sensitivity and Specificity: (1) Sensitivity is the proportion of diseased individuals who test positive. A test with very high sensitivity produces very few false negatives. Therefore, when a highly sensitive test yields a NEGATIVE result, one can confidently rule out the disease (mnemonic: SnNout = high Sensitivity, Negative result, rules out). Test A (sensitivity 98%) is ideal for initial screening (e.g., ANA in lupus). (2) Specificity is the proportion of non-diseased individuals who test negative. A test with very high specificity produces very few false positives. Therefore, when a highly specific test yields a POSITIVE result, one can confidently rule in the disease (mnemonic: SpPin = high Specificity, Positive result, rules in). Test B (specificity 98%) is ideal for confirmation (e.g., anti-dsDNA or anti-Smith in lupus)."
+      },
+      {
+        "text": "Test A and Test B can be used interchangeably because diagnostic accuracy is mathematically identical",
+        "correct": false,
+        "explanation": "Sensitivity and specificity reflect fundamentally different operating characteristics; they cannot be used interchangeably."
+      },
+      {
+        "text": "Test B should be used for initial screening because false negative results are clinically harmless in lupus",
+        "correct": false,
+        "explanation": "Screening requires high sensitivity to avoid missing diseased individuals; a 35% false-negative rate is unacceptable for screening."
+      }
+    ],
+    "explanation": "Diagnostic test selection relies on understanding Sensitivity and Specificity: (1) Sensitivity is the proportion of diseased individuals who test positive. A test with very high sensitivity produces very few false negatives. Therefore, when a highly sensitive test yields a NEGATIVE result, one can confidently rule out the disease (mnemonic: SnNout = high Sensitivity, Negative result, rules out). Test A (sensitivity 98%) is ideal for initial screening (e.g., ANA in lupus). (2) Specificity is the proportion of non-diseased individuals who test negative. A test with very high specificity produces very few false positives. Therefore, when a highly specific test yields a POSITIVE result, one can confidently rule in the disease (mnemonic: SpPin = high Specificity, Positive result, rules in). Test B (specificity 98%) is ideal for confirmation (e.g., anti-dsDNA or anti-Smith in lupus). High sensitivity test negative = rules out (SnNout, Test A). High specificity test positive = rules in (SpPin, Test B).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Sensitivity and Specificity Diagnostic Utility SnNout Versus SpPin.",
+    "keyPoints": [
+      "Sensitivity and Specificity Diagnostic Utility SnNout Versus SpPin",
+      "High sensitivity test negative = rules out (SnNout, Test A). High specificity test positive = rules in (SpPin, Test B)."
+    ],
+    "references": [
+      {
+        "label": "Pewsner D, Battaglia M, Minder C, et al. Ruling a diagnosis in or out with 'SpPIn' and 'SnNOut': a note of caution. BMJ. 2004;329(7459):209-213. PMID: 15271832.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15271832/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0859",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Screening Trial Methodological Biases Lead-Time Versus Length-Time Bias",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A state public health agency implements a new annual low-dose spiral computed tomography screening program for early detection of lung cancer in heavy smokers. An observational study compares patients whose lung cancers were detected via the screening program against patients who presented clinically with symptomatic lung cancer. The screened group demonstrated a 5-year survival rate of 65% measured from time of diagnosis, compared to only 25% in the symptom-detected group. However, a subsequent rigorous randomized controlled trial assessing identical cohorts demonstrates that all-cause mortality rates and the absolute age at death were virtually identical between screened and unscreened groups. Which of the following methodological biases best explains the apparent increase in 5-year survival observed in the initial screening study?",
+    "options": [
+      {
+        "text": "Length-time bias, wherein rapidly growing fatal cancers are preferentially captured by screening rounds",
+        "correct": false,
+        "explanation": "Length-time bias over-represents slow-growing, indolent lesions; rapidly progressing tumors are typically missed between screening rounds."
+      },
+      {
+        "text": "Observer-expectancy bias, wherein radiologic technicians manipulate CT scan voxel resolution",
+        "correct": false,
+        "explanation": "Observer expectancy involves subconscious observer behavior altering measurements, not the artificial inflation of survival from early diagnosis."
+      },
+      {
+        "text": "Berkson bias, wherein hospitalized patients with multiple co-morbidities are selected as controls",
+        "correct": false,
+        "explanation": "Berkson bias is a hospital admission selection bias that distorts odds ratios in case-control studies, not screening survival duration."
+      },
+      {
+        "text": "Lead-time bias, wherein earlier diagnosis artificially lengthens survival duration without prolonging actual lifespan",
+        "correct": true,
+        "explanation": "Lead-time bias occurs when screening detects a disease earlier in its natural history (during an asymptomatic preclinical phase) than it would have been detected by clinical symptoms, without actually delaying the ultimate time of death or altering the course of the disease. Because survival time is typically measured from the date of diagnosis to the date of death, detecting the cancer earlier creates an illusion of prolonged survival (e.g., living 5 years post-diagnosis instead of 2 years post-symptomatic diagnosis), even though the patient dies at the exact same chronological age. Length-time bias, by contrast, occurs because screening disproportionately detects slow-growing, indolent tumors with inherently better prognoses, while missing aggressive, rapidly fatal tumors that become symptomatic between screening rounds (interval cancers). To definitively prove that a screening test saves lives, trials must demonstrate a reduction in disease-specific or all-cause mortality, not merely an increase in 5-year survival rates."
+      },
+      {
+        "text": "Hawthorne effect, wherein patient health improves solely because they are being actively observed",
+        "correct": false,
+        "explanation": "The Hawthorne effect alters short-term human behavioral performance under observation, but does not alter biological cancer mortality."
+      }
+    ],
+    "explanation": "Lead-time bias occurs when screening detects a disease earlier in its natural history (during an asymptomatic preclinical phase) than it would have been detected by clinical symptoms, without actually delaying the ultimate time of death or altering the course of the disease. Because survival time is typically measured from the date of diagnosis to the date of death, detecting the cancer earlier creates an illusion of prolonged survival (e.g., living 5 years post-diagnosis instead of 2 years post-symptomatic diagnosis), even though the patient dies at the exact same chronological age. Length-time bias, by contrast, occurs because screening disproportionately detects slow-growing, indolent tumors with inherently better prognoses, while missing aggressive, rapidly fatal tumors that become symptomatic between screening rounds (interval cancers). To definitively prove that a screening test saves lives, trials must demonstrate a reduction in disease-specific or all-cause mortality, not merely an increase in 5-year survival rates. Earlier diagnosis + identical age at death = Lead-time bias (artificially prolonged survival from time of diagnosis without changing mortality).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Screening Trial Methodological Biases Lead-Time Versus Length-Time Bias.",
+    "keyPoints": [
+      "Screening Trial Methodological Biases Lead-Time Versus Length-Time Bias",
+      "Earlier diagnosis + identical age at death = Lead-time bias (artificially prolonged survival from time of diagnosis without changing mortality)."
+    ],
+    "references": [
+      {
+        "label": "Patz EF Jr, Pinsky P, Gatsonis C, et al. Overdiagnosis in Low-Dose Computed Tomography Screening for Lung Cancer. JAMA Intern Med. 2014;174(2):269-274. PMID: 24322569.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24322569/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0860",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Confounding Versus Effect Modification Stratified Analysis Interpretation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "An epidemiological cohort study investigates the association between heavy coffee consumption (>4 cups/day) and the risk of developing pancreatic cancer. In the crude, unadjusted analysis, coffee consumption is associated with a significantly elevated risk of pancreatic cancer (Relative Risk [RR] = 2.2; 95% CI: 1.6 to 3.0). Recognizing that cigarette smoking is common among heavy coffee drinkers and is an established cause of pancreatic cancer, the investigators perform a stratified analysis by smoking status: among active smokers, the RR for coffee consumption is 1.0 (95% CI: 0.8 to 1.3); among non-smokers, the RR for coffee consumption is 1.0 (95% CI: 0.7 to 1.4). Which of the following methodological phenomena correctly explains these findings?",
+    "options": [
+      {
+        "text": "Smoking is an effect modifier, because the association between coffee and cancer is enhanced by smoking",
+        "correct": false,
+        "explanation": "Effect modification requires stratum-specific estimates to be significantly different from each other; here, both stratum RRs are identical (1.0)."
+      },
+      {
+        "text": "Smoking is an intermediate variable on the causal biological pathway between coffee and cancer",
+        "correct": false,
+        "explanation": "Coffee drinking does not biologically cause cigarette smoking; smoking is an independent lifestyle confounder."
+      },
+      {
+        "text": "The study suffers from severe non-differential misclassification bias that invalidates the crude RR",
+        "correct": false,
+        "explanation": "Non-differential misclassification biases relative risk toward the null (1.0), which does not account for an inflated crude RR of 2.2."
+      },
+      {
+        "text": "Coffee is a protective antioxidant that prevents smoking-induced oncogenesis",
+        "correct": false,
+        "explanation": "The stratum-specific RR in smokers is 1.0 (no effect), demonstrating that coffee neither causes nor prevents cancer."
+      },
+      {
+        "text": "Smoking is a confounder, because the crude association disappears and the stratum-specific relative risks are equal to 1.0",
+        "correct": true,
+        "explanation": "Confounding and Effect Modification are critical concepts in epidemiological research that are distinguished by stratified analysis. A confounder is an extraneous variable that is independently associated with both the exposure and the outcome, but is NOT an intermediate step in the causal pathway. When confounding is present, the crude (unadjusted) association is distorted. Upon stratification by the confounder (here, smoking status), the stratum-specific relative risks become SIMILAR to each other (smokers RR = 1.0; non-smokers RR = 1.0) and differ from the crude RR (crude RR was 2.2). The apparent crude association between coffee and pancreatic cancer was an artifact caused entirely by confounding by smoking. In contrast, Effect Modification (interaction) occurs when the true effect of exposure DIFFERS across strata of a third variable (e.g., RR is 3.5 in men but 1.1 in women; stratum-specific estimates are significantly different from each other). Confounding is a bias that must be controlled; effect modification is a biological reality that must be described."
+      }
+    ],
+    "explanation": "Confounding and Effect Modification are critical concepts in epidemiological research that are distinguished by stratified analysis. A confounder is an extraneous variable that is independently associated with both the exposure and the outcome, but is NOT an intermediate step in the causal pathway. When confounding is present, the crude (unadjusted) association is distorted. Upon stratification by the confounder (here, smoking status), the stratum-specific relative risks become SIMILAR to each other (smokers RR = 1.0; non-smokers RR = 1.0) and differ from the crude RR (crude RR was 2.2). The apparent crude association between coffee and pancreatic cancer was an artifact caused entirely by confounding by smoking. In contrast, Effect Modification (interaction) occurs when the true effect of exposure DIFFERS across strata of a third variable (e.g., RR is 3.5 in men but 1.1 in women; stratum-specific estimates are significantly different from each other). Confounding is a bias that must be controlled; effect modification is a biological reality that must be described. Crude RR 2.2 disappears upon smoking stratification (smokers RR 1.0, non-smokers RR 1.0) = Confounding (not effect modification).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Confounding Versus Effect Modification Stratified Analysis Interpretation.",
+    "keyPoints": [
+      "Confounding Versus Effect Modification Stratified Analysis Interpretation",
+      "Crude RR 2.2 disappears upon smoking stratification (smokers RR 1.0, non-smokers RR 1.0) = Confounding (not effect modification)."
+    ],
+    "references": [
+      {
+        "label": "VanderWeele TJ et al. On the distinction between interaction and effect modification. Epidemiology. PMID: 19806059.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19806059/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0861",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Type I and Type II Errors Statistical Power and Sample Size Determinants",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A clinical research team designs a Phase III randomized controlled trial to determine whether a new monoclonal antibody reduces 1-year cardiovascular mortality compared to placebo in high-risk patients. The investigators set the two-sided significance level (alpha, Type I error rate) at 0.05 and establish statistical power (1 - beta) at 80% (beta, Type II error rate = 0.20) to detect a clinically meaningful difference between an expected control mortality of 10% and an experimental mortality of 7%. During protocol design, the statistician calculates that 3,200 total patients are required. If the investigators decide to increase the study's statistical power from 80% to 90% (reducing Type II error from 0.20 to 0.10) while maintaining alpha at 0.05 and keeping the expected effect size unchanged, which of the following adjustments is mathematically required?",
+    "options": [
+      {
+        "text": "Increase the total sample size of enrolled participants in the trial",
+        "correct": true,
+        "explanation": "Statistical power (1 - beta) is the probability of correctly rejecting the null hypothesis when a true difference actually exists (detecting a real effect). Type II error (beta) is failing to reject the null hypothesis when it is false (a false negative). Power is determined by four interrelated factors: (1) Sample size (N), (2) Effect size (the magnitude of difference between groups), (3) Significance level (alpha, Type I error rate), and (4) Variance of the outcome. To increase statistical power (e.g., from 80% to 90%, reducing beta from 0.20 to 0.10) while holding alpha (0.05) and effect size constant, the investigators MUST increase the sample size (enroll more patients). A larger sample size narrows confidence intervals and reduces standard error, making the study capable of detecting smaller differences with greater statistical certainty."
+      },
+      {
+        "text": "Decrease the total sample size because fewer patients are needed to reach statistical certainty",
+        "correct": false,
+        "explanation": "Decreasing sample size increases random sampling variability and standard error, which directly REDUCES statistical power."
+      },
+      {
+        "text": "Decrease alpha from 0.05 to 0.01 without changing the sample size",
+        "correct": false,
+        "explanation": "Lowering alpha makes the threshold for significance more stringent, which DECREASES power and increases Type II error unless sample size is enlarged."
+      },
+      {
+        "text": "Reduce the expected treatment effect size from 3% to 1%",
+        "correct": false,
+        "explanation": "Attempting to detect a smaller effect size requires a substantially LARGER sample size, not the same or smaller."
+      },
+      {
+        "text": "Convert the primary endpoint from a continuous outcome to a dichotomous outcome",
+        "correct": false,
+        "explanation": "Dichotomizing outcomes loses information and statistical efficiency, reducing power and requiring larger sample sizes."
+      }
+    ],
+    "explanation": "Statistical power (1 - beta) is the probability of correctly rejecting the null hypothesis when a true difference actually exists (detecting a real effect). Type II error (beta) is failing to reject the null hypothesis when it is false (a false negative). Power is determined by four interrelated factors: (1) Sample size (N), (2) Effect size (the magnitude of difference between groups), (3) Significance level (alpha, Type I error rate), and (4) Variance of the outcome. To increase statistical power (e.g., from 80% to 90%, reducing beta from 0.20 to 0.10) while holding alpha (0.05) and effect size constant, the investigators MUST increase the sample size (enroll more patients). A larger sample size narrows confidence intervals and reduces standard error, making the study capable of detecting smaller differences with greater statistical certainty. Increase statistical power (80% -> 90%) with constant alpha and effect size = must increase sample size.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Type I and Type II Errors Statistical Power and Sample Size Determinants.",
+    "keyPoints": [
+      "Type I and Type II Errors Statistical Power and Sample Size Determinants",
+      "Increase statistical power (80% -> 90%) with constant alpha and effect size = must increase sample size."
+    ],
+    "references": [
+      {
+        "label": "Wang M et al. Statistical methods for studying disease subtype heterogeneity. Stat Med. PMID: 26619806.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26619806/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0862",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Funnel Plot Asymmetry and Publication Bias in Systematic Meta-Analyses",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A systematic review and meta-analysis examines the efficacy of a novel herbal extract for osteoarthritis pain. The investigators construct a funnel plot, plotting the effect size (standardized mean difference in pain scores) on the horizontal axis against study precision (the inverse of standard error, reflecting sample size) on the vertical axis. The funnel plot reveals that large trials with high precision cluster symmetrically around the summary effect estimate near zero. However, among smaller trials with lower precision, there is marked asymmetry: multiple small studies showing large positive pain reduction cluster on the positive treatment side, whereas small studies showing null or negative results are completely absent from the lower-left quadrant of the plot (Egger test p = 0.008). Which of the following is the most likely cause of this funnel plot asymmetry?",
+    "options": [
+      {
+        "text": "High adherence to the intention-to-treat analytical principle across all included studies",
+        "correct": false,
+        "explanation": "ITT adherence reduces bias in individual trials; it does not cause systematic asymmetry in meta-analytic funnel plots."
+      },
+      {
+        "text": "Publication bias, wherein small studies with negative or null results were less likely to be published",
+        "correct": true,
+        "explanation": "A funnel plot is a scatterplot of intervention effect estimates against a measure of study precision (sample size or standard error), widely used in meta-analyses to evaluate for publication bias and small-study effects. In the absence of bias, the plot resembles a symmetrical inverted funnel, because large studies with high precision cluster tightly around the true effect, while smaller studies scatter broadly due to sampling error. Asymmetry in a funnel plot—specifically a hollow or missing quadrant where small studies with negative, null, or unfavorable results are absent—is the classic hallmark of Publication Bias (or reporting bias). Small studies showing non-significant or unfavorable results are less likely to be submitted, accepted, or published in peer-reviewed journals ('file drawer effect'), artificially skewing the pooled meta-analytic effect toward an exaggerated positive treatment benefit."
+      },
+      {
+        "text": "Universal use of centralized double-blind placebo controls across all enrolled trials",
+        "correct": false,
+        "explanation": "Adequate blinding prevents performance and detection bias within trials, but does not cause selective omission of small negative trials."
+      },
+      {
+        "text": "Severe attrition bias resulting from high loss to follow-up in large randomized trials",
+        "correct": false,
+        "explanation": "Loss to follow-up in large trials would distort the apex of the funnel plot, not create a selective void of small negative studies."
+      },
+      {
+        "text": "Presence of severe confounding by indication across large prospective trials",
+        "correct": false,
+        "explanation": "Confounding by indication affects observational cohort studies, not the publication distribution of randomized trials in a funnel plot."
+      }
+    ],
+    "explanation": "A funnel plot is a scatterplot of intervention effect estimates against a measure of study precision (sample size or standard error), widely used in meta-analyses to evaluate for publication bias and small-study effects. In the absence of bias, the plot resembles a symmetrical inverted funnel, because large studies with high precision cluster tightly around the true effect, while smaller studies scatter broadly due to sampling error. Asymmetry in a funnel plot—specifically a hollow or missing quadrant where small studies with negative, null, or unfavorable results are absent—is the classic hallmark of Publication Bias (or reporting bias). Small studies showing non-significant or unfavorable results are less likely to be submitted, accepted, or published in peer-reviewed journals ('file drawer effect'), artificially skewing the pooled meta-analytic effect toward an exaggerated positive treatment benefit. Funnel plot missing small negative studies + significant Egger test = Publication bias (file drawer effect).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Funnel Plot Asymmetry and Publication Bias in Systematic Meta-Analyses.",
+    "keyPoints": [
+      "Funnel Plot Asymmetry and Publication Bias in Systematic Meta-Analyses",
+      "Funnel plot missing small negative studies + significant Egger test = Publication bias (file drawer effect)."
+    ],
+    "references": [
+      {
+        "label": "Sterne JA, Sutton AJ, Ioannidis JP, et al. Recommendations for Examining and Interpreting Funnel Plot Asymmetry in Meta-Analyses of Randomised Controlled Trials. BMJ. 2011;343:d4002. PMID: 21784880.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21784880/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0863",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Receiver Operating Characteristic Curve and Area Under the Curve Interpretation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Investigators develop two multivariable clinical risk prediction models (Model A and Model B) to predict in-hospital mortality among patients admitted with acute heart failure decompensation. To evaluate and compare their discriminative capabilities, Receiver Operating Characteristic (ROC) curves are generated. For Model A, the Area Under the Curve (AUC / c-statistic) is 0.88 (95% CI: 0.84 to 0.92). For Model B, the AUC is 0.62 (95% CI: 0.58 to 0.66). A reference diagonal line across the plot represents an AUC of 0.50. Which of the following statements provides the most accurate interpretation of the Area Under the Curve (c-statistic) and correctly compares the performance of Model A and Model B?",
+    "options": [
+      {
+        "text": "Model A correctly cures 88% of hospitalized heart failure patients who receive its interventions",
+        "correct": false,
+        "explanation": "The c-statistic evaluates risk prediction discrimination; it has nothing to do with therapeutic drug cure rates."
+      },
+      {
+        "text": "Model B is mathematically invalid because an AUC below 0.70 violates the proportional hazards assumption",
+        "correct": false,
+        "explanation": "An AUC of 0.62 is poor discrimination, but is mathematically valid; proportional hazards applies to Cox regression, not ROC analysis."
+      },
+      {
+        "text": "Model A has excellent discrimination, with an 88% probability of assigning a higher predicted mortality risk to a randomly chosen patient who dies than to one who survives",
+        "correct": true,
+        "explanation": "A Receiver Operating Characteristic (ROC) curve plots True Positive Rate (Sensitivity) on the y-axis against False Positive Rate (1 - Specificity) on the x-axis across all possible cutoff thresholds. The Area Under the ROC Curve (AUC, equivalent to the concordance statistic or c-statistic) is a global measure of a diagnostic test or predictive model's DISCRIMINATION—its ability to correctly distinguish between individuals with versus without the outcome. Epidemiologically and mathematically, the c-statistic represents the exact probability that for a randomly selected pair of patients (one who experienced the event and one who did not), the model will assign a higher predicted risk score to the patient who experienced the event. An AUC of 0.50 indicates discrimination no better than random chance (flipping a coin); 0.70-0.80 indicates acceptable discrimination; and >= 0.80-0.90 indicates excellent discrimination. Here, Model A (AUC 0.88) demonstrates vastly superior discrimination compared to Model B (AUC 0.62)."
+      },
+      {
+        "text": "Model A and Model B exhibit identical calibration because both curves lie above the diagonal line",
+        "correct": false,
+        "explanation": "AUC measures discrimination (sorting high vs low risk), NOT calibration (agreement between predicted probabilities and observed frequencies)."
+      },
+      {
+        "text": "The diagonal line with AUC of 0.50 represents a perfect diagnostic test with 100% sensitivity and specificity",
+        "correct": false,
+        "explanation": "The diagonal line (AUC = 0.50) represents a completely useless test with zero discrimination, equivalent to random chance."
+      }
+    ],
+    "explanation": "A Receiver Operating Characteristic (ROC) curve plots True Positive Rate (Sensitivity) on the y-axis against False Positive Rate (1 - Specificity) on the x-axis across all possible cutoff thresholds. The Area Under the ROC Curve (AUC, equivalent to the concordance statistic or c-statistic) is a global measure of a diagnostic test or predictive model's DISCRIMINATION—its ability to correctly distinguish between individuals with versus without the outcome. Epidemiologically and mathematically, the c-statistic represents the exact probability that for a randomly selected pair of patients (one who experienced the event and one who did not), the model will assign a higher predicted risk score to the patient who experienced the event. An AUC of 0.50 indicates discrimination no better than random chance (flipping a coin); 0.70-0.80 indicates acceptable discrimination; and >= 0.80-0.90 indicates excellent discrimination. Here, Model A (AUC 0.88) demonstrates vastly superior discrimination compared to Model B (AUC 0.62). AUC / c-statistic = 0.88 means 88% chance model assigns higher risk to a patient who dies than one who survives (excellent discrimination).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Receiver Operating Characteristic Curve and Area Under the Curve Interpretation.",
+    "keyPoints": [
+      "Receiver Operating Characteristic Curve and Area Under the Curve Interpretation",
+      "AUC / c-statistic = 0.88 means 88% chance model assigns higher risk to a patient who dies than one who survives (excellent discrimination)."
+    ],
+    "references": [
+      {
+        "label": "Hanley JA, McNeil BJ. The Meaning and Use of the Area Under a Receiver Operating Characteristic (ROC) Curve. Radiology. 1982;143(1):29-36. PMID: 7063747.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7063747/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0864",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Hospital-Based Case-Control Studies and Berkson Selection Bias",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Epidemiologists conduct a hospital-based case-control study to evaluate the association between severe chronic obstructive pulmonary disease (COPD, cases) and peptic ulcer disease (exposure). Cases are recruited from the inpatient pulmonary ward, and controls are recruited from the orthopedic surgery ward of the same hospital. The unadjusted odds ratio demonstrates a strong, statistically significant positive association between COPD and peptic ulcer disease (OR = 3.8; 95% CI: 2.4 to 5.8). However, when a subsequent large prospective community-based cohort study evaluates the general population, no significant association between COPD and peptic ulcer disease is detected (RR = 1.05; 95% CI: 0.92 to 1.18). Which of the following methodological biases best explains the spuriously inflated association found in the initial hospital-based study?",
+    "options": [
+      {
+        "text": "Neyman bias (prevalence-incidence bias), wherein rapidly fatal acute cases are systematically excluded",
+        "correct": false,
+        "explanation": "Neyman bias occurs when studying prevalent rather than incident cases, disproportionately selecting survivors of chronic disease; it does not explain hospital admission rate artifacts."
+      },
+      {
+        "text": "Hawthorne effect, wherein orthopedic patients altered their medication adherence under direct observation",
+        "correct": false,
+        "explanation": "The Hawthorne effect refers to behavioral modifications when subjects know they are being studied, not hospital admission sampling distortion."
+      },
+      {
+        "text": "Recall bias, wherein COPD patients systematically misremember past dietary exposures",
+        "correct": false,
+        "explanation": "Recall bias involves differential memory recall between cases and controls; it does not explain why hospitalized control selection distorts baseline prevalence."
+      },
+      {
+        "text": "Berkson bias (admission rate bias), wherein hospitalized controls have different admission probabilities and co-morbidity rates than the general population",
+        "correct": true,
+        "explanation": "Berkson bias (admission rate bias or hospital selection bias) is a classic form of selection bias occurring in hospital-based case-control studies. Because hospitalized patients inherently suffer from multiple coexisting medical conditions and have higher rates of hospital admission than the non-hospitalized general population, the probability of admission depends on both the exposure and the disease under study. Patients who have BOTH conditions (e.g., severe COPD and symptomatic peptic ulcer disease) are significantly more likely to be hospitalized than patients with either disease alone. Selecting controls from an inpatient hospital ward (e.g., orthopedic patients taking ulcerogenic NSAIDs or corticosteroids) distorts the exposure distribution, creating a spurious or artificially exaggerated statistical association (odds ratio) between two completely unrelated diseases that does not exist in the general community. This bias can be mitigated by recruiting healthy population-based community controls."
+      },
+      {
+        "text": "Observer bias, wherein gastroenterologists were unblinded to pulmonary function test results",
+        "correct": false,
+        "explanation": "Observer bias involves measurement distortion by examiners, not structural hospital sampling selection error."
+      }
+    ],
+    "explanation": "Berkson bias (admission rate bias or hospital selection bias) is a classic form of selection bias occurring in hospital-based case-control studies. Because hospitalized patients inherently suffer from multiple coexisting medical conditions and have higher rates of hospital admission than the non-hospitalized general population, the probability of admission depends on both the exposure and the disease under study. Patients who have BOTH conditions (e.g., severe COPD and symptomatic peptic ulcer disease) are significantly more likely to be hospitalized than patients with either disease alone. Selecting controls from an inpatient hospital ward (e.g., orthopedic patients taking ulcerogenic NSAIDs or corticosteroids) distorts the exposure distribution, creating a spurious or artificially exaggerated statistical association (odds ratio) between two completely unrelated diseases that does not exist in the general community. This bias can be mitigated by recruiting healthy population-based community controls. Hospitalized cases and controls show spurious association not found in community = Berkson bias (admission rate bias).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hospital-Based Case-Control Studies and Berkson Selection Bias.",
+    "keyPoints": [
+      "Hospital-Based Case-Control Studies and Berkson Selection Bias",
+      "Hospitalized cases and controls show spurious association not found in community = Berkson bias (admission rate bias)."
+    ],
+    "references": [
+      {
+        "label": "Snoep JD, Morabia A, Hernandez-Diaz S, et al. Commentary: A structural approach to Berkson's fallacy and a guide to a history of opinions about it. Int J Epidemiol. 2014;43(2):515-521. PMID: 24585735.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24585735/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0865",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Observational Study Architectures Cohort Versus Case-Control Analytics",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A research team plans an epidemiological study to investigate a potential association between maternal occupational exposure to a newly introduced industrial pesticide during early pregnancy and a rare congenital limb reduction defect (incidence 1 in 50,000 live births). The team has limited funding and requires results within 18 months. Which of the following study designs is the most methodologically appropriate, efficient, and cost-effective choice to investigate this rare outcome, and which primary association metric will it generate?",
+    "options": [
+      {
+        "text": "Prospective cohort study, which follows exposed and unexposed mothers over time, yielding a Relative Risk (RR)",
+        "correct": false,
+        "explanation": "A prospective cohort study for a condition with an incidence of 1 in 50,000 would require enrolling over 500,000 women to capture a few cases, making it prohibitively expensive and inefficient."
+      },
+      {
+        "text": "Cross-sectional study, which measures prevalence of exposure and limb defects simultaneously, yielding Incidence Rate Ratios",
+        "correct": false,
+        "explanation": "Cross-sectional studies assess point prevalence, cannot determine temporal sequence, and cannot effectively capture rare congenital malformations."
+      },
+      {
+        "text": "Randomized controlled trial, which randomizes pregnant workers to pesticide exposure versus placebo",
+        "correct": false,
+        "explanation": "Deliberately exposing pregnant women to potentially teratogenic industrial chemicals is a gross violation of medical ethics and research law."
+      },
+      {
+        "text": "Ecological study, which aggregates national pesticide sales and birth records, yielding an attributable risk fraction",
+        "correct": false,
+        "explanation": "Ecological studies suffer from the ecological fallacy (inability to link individual maternal exposure to individual infant malformation) and cannot prove individual causality."
+      },
+      {
+        "text": "Case-control study, which compares exposure histories between affected and unaffected infants, yielding an Odds Ratio (OR)",
+        "correct": true,
+        "explanation": "Choosing an observational study design depends on the incidence of the outcome and the prevalence of the exposure: (1) A Case-Control Study is the optimal, most efficient, and cost-effective design for studying RARE DISEASES or outcomes with long latency periods (such as a congenital malformation occurring in 1 in 50,000 births). In a case-control design, subjects are selected based on DISEASE STATUS: infants with limb defects (cases) and matched unaffected infants (controls) are identified, and past maternal pesticide exposure is assessed retrospectively. Because the total number of exposed and unexposed individuals in the source population is unknown, incidence rates cannot be calculated directly, meaning Relative Risk CANNOT be measured; the primary measure of association is the Odds Ratio (OR). (2) In contrast, a Prospective Cohort Study selects participants based on EXPOSURE STATUS and follows them over time to calculate true incidence and Relative Risk (RR); however, studying a rare outcome (1 in 50,000) via a cohort would require enrolling hundreds of thousands of pregnant women and decades of follow-up, which is practically impossible and prohibitively expensive."
+      }
+    ],
+    "explanation": "Choosing an observational study design depends on the incidence of the outcome and the prevalence of the exposure: (1) A Case-Control Study is the optimal, most efficient, and cost-effective design for studying RARE DISEASES or outcomes with long latency periods (such as a congenital malformation occurring in 1 in 50,000 births). In a case-control design, subjects are selected based on DISEASE STATUS: infants with limb defects (cases) and matched unaffected infants (controls) are identified, and past maternal pesticide exposure is assessed retrospectively. Because the total number of exposed and unexposed individuals in the source population is unknown, incidence rates cannot be calculated directly, meaning Relative Risk CANNOT be measured; the primary measure of association is the Odds Ratio (OR). (2) In contrast, a Prospective Cohort Study selects participants based on EXPOSURE STATUS and follows them over time to calculate true incidence and Relative Risk (RR); however, studying a rare outcome (1 in 50,000) via a cohort would require enrolling hundreds of thousands of pregnant women and decades of follow-up, which is practically impossible and prohibitively expensive. Rare outcome (1 in 50,000) = Case-Control study (most efficient for rare diseases) -> calculates Odds Ratio (OR).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Observational Study Architectures Cohort Versus Case-Control Analytics.",
+    "keyPoints": [
+      "Observational Study Architectures Cohort Versus Case-Control Analytics",
+      "Rare outcome (1 in 50,000) = Case-Control study (most efficient for rare diseases) -> calculates Odds Ratio (OR)."
+    ],
+    "references": [
+      {
+        "label": "Schulz KF, Grimes DA. Case-Control Studies: Research Done Backwards. Lancet. 2002;359(9304):431-434. PMID: 11844534.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11844534/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0866",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Disease Prevalence Impact on Positive and Negative Predictive Values",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A diagnostic immunoassay for acute Lyme disease has a fixed sensitivity of 95% and a fixed specificity of 90%. A physician utilizes this assay in two contrasting clinical settings: Clinic A is an endemic rural primary care practice in Connecticut during summer, where the pre-test probability (prevalence) of active Lyme disease among patients presenting with acute erythema and arthralgias is 30% (0.30). Clinic B is an urban clinic in an area non-endemic for Lyme disease (e.g., Arizona) in patients with non-specific fatigue, where the true pre-test probability (prevalence) of Lyme disease is only 1% (0.01). Which of the following statements correctly describes how the shift in disease prevalence between Clinic A and Clinic B alters the test's operating characteristics?",
+    "options": [
+      {
+        "text": "Sensitivity and specificity remain unchanged; Positive Predictive Value (PPV) is substantially higher in Clinic A, while Negative Predictive Value (NPV) is higher in Clinic B",
+        "correct": true,
+        "explanation": "Understanding the fundamental distinction between intrinsic test characteristics and predictive values is essential: (1) Sensitivity (95%) and Specificity (90%) are INTRINSIC operating properties of the diagnostic test itself; they are fixed biological characteristics that DO NOT change when disease prevalence changes. (2) In contrast, Positive Predictive Value (PPV = true positives / all positives) and Negative Predictive Value (NPV = true negatives / all negatives) are HEAVILY DEPENDENT ON DISEASE PREVALENCE: As disease prevalence INCREASES (Clinic A, prevalence 30%), the Positive Predictive Value increases dramatically (in Clinic A, PPV is ~80%), while NPV slightly drops. As disease prevalence DECREASES (Clinic B, prevalence 1%), true positives become exceedingly rare while false positives accumulate; consequently, the PPV collapses (in Clinic B, PPV drops to only ~8.7%), while NPV rises to near 100% (>99.9%). Testing for rare conditions in low-prevalence settings results in the vast majority of positive tests being FALSE POSITIVES."
+      },
+      {
+        "text": "Sensitivity increases in Clinic A because there are more diseased individuals present to detect",
+        "correct": false,
+        "explanation": "Sensitivity is a fixed intrinsic property of the test (TP / [TP + FN]) and does not fluctuate with population prevalence."
+      },
+      {
+        "text": "Specificity decreases in Clinic B because non-endemic patients have atypical immune responses",
+        "correct": false,
+        "explanation": "Specificity is an intrinsic test characteristic (TN / [TN + FP]) that remains mathematically constant regardless of disease prevalence."
+      },
+      {
+        "text": "Positive Predictive Value is identical in both clinics because test sensitivity is fixed at 95%",
+        "correct": false,
+        "explanation": "PPV is heavily governed by baseline disease prevalence (Bayes theorem); it is drastically higher in high-prevalence settings."
+      },
+      {
+        "text": "Negative Predictive Value is higher in Clinic A because high prevalence enhances test accuracy",
+        "correct": false,
+        "explanation": "NPV is higher in LOW-prevalence settings (Clinic B) because almost all non-diseased individuals test true negative."
+      }
+    ],
+    "explanation": "Understanding the fundamental distinction between intrinsic test characteristics and predictive values is essential: (1) Sensitivity (95%) and Specificity (90%) are INTRINSIC operating properties of the diagnostic test itself; they are fixed biological characteristics that DO NOT change when disease prevalence changes. (2) In contrast, Positive Predictive Value (PPV = true positives / all positives) and Negative Predictive Value (NPV = true negatives / all negatives) are HEAVILY DEPENDENT ON DISEASE PREVALENCE: As disease prevalence INCREASES (Clinic A, prevalence 30%), the Positive Predictive Value increases dramatically (in Clinic A, PPV is ~80%), while NPV slightly drops. As disease prevalence DECREASES (Clinic B, prevalence 1%), true positives become exceedingly rare while false positives accumulate; consequently, the PPV collapses (in Clinic B, PPV drops to only ~8.7%), while NPV rises to near 100% (>99.9%). Testing for rare conditions in low-prevalence settings results in the vast majority of positive tests being FALSE POSITIVES. Sensitivity/specificity are fixed. High prevalence (Clinic A) = higher PPV. Low prevalence (Clinic B) = higher NPV, collapsed PPV.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Disease Prevalence Impact on Positive and Negative Predictive Values.",
+    "keyPoints": [
+      "Disease Prevalence Impact on Positive and Negative Predictive Values",
+      "Sensitivity/specificity are fixed. High prevalence (Clinic A) = higher PPV. Low prevalence (Clinic B) = higher NPV, collapsed PPV."
+    ],
+    "references": [
+      {
+        "label": "Altman DG, Bland JM. Diagnostic Tests 2: Predictive Values. BMJ. 1994;309(6947):102. PMID: 8038641.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8038641/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0867",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Multiplicity and Subgroup Analysis False Discovery Rate Pitfalls",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A large Phase III randomized controlled trial tests a novel monoclonal antibody versus placebo in 10,000 patients with acute septic shock. In the pre-specified primary analysis, the novel drug shows no statistically significant reduction in 28-day all-cause mortality across the overall study cohort (mortality 28.2% vs 28.0%; Hazard Ratio 0.99; 95% CI: 0.91 to 1.08; p = 0.84). Following completion of the trial, the investigators perform post-hoc exploratory subgroup analyses across 40 different baseline demographic and laboratory subsets (e.g., age strata, sex, geographic regions, baseline lactate quartiles, specific causative pathogens). Among patients aged 40 to 49 years with Gram-negative bacteremia (a subset of 240 patients), the novel drug demonstrates a statistically significant reduction in mortality (p = 0.03). The authors issue a press release claiming the drug is a breakthrough therapy for this specific patient subgroup. Which of the following methodological flaws best characterizes this post-hoc subgroup claim?",
+    "options": [
+      {
+        "text": "Ecological fallacy, wherein aggregate population-level data were improperly applied to individual patients",
+        "correct": false,
+        "explanation": "Ecological fallacy occurs when population-level averages are erroneously extrapolated to individuals, which does not describe trial subgroup testing."
+      },
+      {
+        "text": "Multiplicity of testing (Type I error inflation), where conducting multiple unadjusted comparisons yields false-positive findings by chance alone",
+        "correct": true,
+        "explanation": "The problem of Multiplicity (multiple testing problem) occurs when investigators perform numerous statistical hypothesis tests without adjusting the significance threshold (alpha). If tests are conducted at the conventional alpha = 0.05 level, each test carries a 5% chance of a Type I error (false-positive finding). When 40 independent subgroup hypotheses are tested, the cumulative probability of finding at least one statistically significant result by pure chance alone is calculated as: 1 - (1 - 0.05)^40 = 1 - (0.95)^40 = 1 - 0.1285 = 87.1%. Post-hoc subgroup findings in a trial where the primary overall endpoint is neutral are almost always spurious statistical noise. To be credible, subgroup analyses must be: (1) pre-specified with strong biological plausibility, (2) limited in number, (3) adjusted for multiple comparisons (e.g., Bonferroni correction), and (4) verified by a formal test of statistical interaction (treatment-by-subgroup interaction p-value), not merely isolated within-subgroup p-values."
+      },
+      {
+        "text": "Verification bias, wherein only patients with positive outcomes received reference diagnostic confirmation",
+        "correct": false,
+        "explanation": "Verification bias affects diagnostic accuracy studies where disease status verification is tied to test results."
+      },
+      {
+        "text": "Hawthorne effect, wherein participants aged 40 to 49 years exhibited superior behavioral motivation",
+        "correct": false,
+        "explanation": "The Hawthorne effect alters human performance under observation; it does not explain 40 statistical tests producing chance p < 0.05."
+      },
+      {
+        "text": "Reverse causality, wherein survival duration directly influenced the patient's baseline age at enrollment",
+        "correct": false,
+        "explanation": "Age was determined prior to randomization; survival duration cannot chronologically cause earlier baseline age."
+      }
+    ],
+    "explanation": "The problem of Multiplicity (multiple testing problem) occurs when investigators perform numerous statistical hypothesis tests without adjusting the significance threshold (alpha). If tests are conducted at the conventional alpha = 0.05 level, each test carries a 5% chance of a Type I error (false-positive finding). When 40 independent subgroup hypotheses are tested, the cumulative probability of finding at least one statistically significant result by pure chance alone is calculated as: 1 - (1 - 0.05)^40 = 1 - (0.95)^40 = 1 - 0.1285 = 87.1%. Post-hoc subgroup findings in a trial where the primary overall endpoint is neutral are almost always spurious statistical noise. To be credible, subgroup analyses must be: (1) pre-specified with strong biological plausibility, (2) limited in number, (3) adjusted for multiple comparisons (e.g., Bonferroni correction), and (4) verified by a formal test of statistical interaction (treatment-by-subgroup interaction p-value), not merely isolated within-subgroup p-values. Primary trial neutral + 40 post-hoc subgroups with one p=0.03 = Multiplicity / Type I error inflation (87% chance of false positive).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Multiplicity and Subgroup Analysis False Discovery Rate Pitfalls.",
+    "keyPoints": [
+      "Multiplicity and Subgroup Analysis False Discovery Rate Pitfalls",
+      "Primary trial neutral + 40 post-hoc subgroups with one p=0.03 = Multiplicity / Type I error inflation (87% chance of false positive)."
+    ],
+    "references": [
+      {
+        "label": "Wang R, Lagakos SW, Ware JH, et al. Statistics in Medicine--Reporting of Subgroup Analyses in Clinical Trials. N Engl J Med. 2007;357(21):2189-2194. PMID: 18032770.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18032770/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0868",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Composite Endpoints Component Dissociation and Hard Clinical Outcomes",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A randomized controlled trial investigates a new therapeutic agent in 6,000 patients with chronic coronary artery disease. The primary efficacy outcome is a composite of cardiovascular death, non-fatal myocardial infarction, or urgent revascularization over 3 years. The primary composite outcome occurs in 300 of 3,000 patients (10.0%) in the control group and in 210 of 3,000 patients (7.0%) in the experimental group (Hazard Ratio 0.68; 95% CI: 0.57 to 0.81; p < 0.001). Individual component analysis reveals the following breakdown: cardiovascular death occurred in 60 patients in the control group vs 62 patients in the experimental group (HR 1.03; 95% CI: 0.72 to 1.48; p = 0.86); non-fatal myocardial infarction occurred in 90 control patients vs 88 experimental patients (HR 0.98; 95% CI: 0.73 to 1.32; p = 0.89); and urgent revascularization occurred in 150 control patients vs 60 experimental patients (HR 0.39; 95% CI: 0.29 to 0.53; p < 0.001). Which of the following is the most critical and accurate clinical appraisal of this trial's findings?",
+    "options": [
+      {
+        "text": "The drug reduces all-cause cardiovascular mortality by 32% because all components contribute equally to composite power",
+        "correct": false,
+        "explanation": "Cardiovascular mortality was completely unaffected (HR 1.03, p = 0.86); claiming a 32% mortality reduction is completely false."
+      },
+      {
+        "text": "The trial is invalid because composite endpoints are legally prohibited in regulatory Phase III cardiovascular trials",
+        "correct": false,
+        "explanation": "Composite endpoints are standard and widely accepted by the FDA and EMA, but require rigorous disaggregated reporting."
+      },
+      {
+        "text": "The composite endpoint's statistical significance was driven entirely by the softer, subjective outcome of revascularization, with zero benefit on hard mortality or myocardial infarction",
+        "correct": true,
+        "explanation": "Composite endpoints combine multiple distinct clinical events into a single primary outcome. While composite endpoints increase statistical power (by increasing the total number of observed events) and allow smaller sample sizes, they have major methodological pitfalls: (1) Components often differ vastly in clinical importance (e.g., death versus elective hospitalization or repeat revascularization); (2) The treatment effect may be heterogeneous across components. In this trial, the experimental drug produced a marked, highly significant reduction in urgent revascularization (HR 0.39), which drove the entire composite outcome to statistical significance (HR 0.68). However, it had ZERO EFFECT on hard, irreversible, objective endpoints (cardiovascular death HR 1.03; myocardial infarction HR 0.98). Clinicians must always inspect the individual components of composite endpoints; advertising this drug as reducing 'major adverse cardiovascular events' misleads patients into believing it saves lives or prevents heart attacks, when it only defers repeat revascularization procedures."
+      },
+      {
+        "text": "The lack of mortality reduction proves that the experimental drug is directly cardiotoxic and accelerates plaque rupture",
+        "correct": false,
+        "explanation": "Mortality was equivalent (60 vs 62 deaths, HR 1.03); there is no evidence of cardiotoxicity or increased mortality."
+      },
+      {
+        "text": "Urgent revascularization is a surrogate biomarker that cannot be analyzed in clinical trials",
+        "correct": false,
+        "explanation": "Revascularization is a clinical procedure, not a biochemical surrogate biomarker (like cholesterol or blood pressure), but it is a softer, discretionary endpoint."
+      }
+    ],
+    "explanation": "Composite endpoints combine multiple distinct clinical events into a single primary outcome. While composite endpoints increase statistical power (by increasing the total number of observed events) and allow smaller sample sizes, they have major methodological pitfalls: (1) Components often differ vastly in clinical importance (e.g., death versus elective hospitalization or repeat revascularization); (2) The treatment effect may be heterogeneous across components. In this trial, the experimental drug produced a marked, highly significant reduction in urgent revascularization (HR 0.39), which drove the entire composite outcome to statistical significance (HR 0.68). However, it had ZERO EFFECT on hard, irreversible, objective endpoints (cardiovascular death HR 1.03; myocardial infarction HR 0.98). Clinicians must always inspect the individual components of composite endpoints; advertising this drug as reducing 'major adverse cardiovascular events' misleads patients into believing it saves lives or prevents heart attacks, when it only defers repeat revascularization procedures. Composite significant (HR 0.68), but death (HR 1.03) and MI (HR 0.98) neutral -> driven entirely by softer revascularization component.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Composite Endpoints Component Dissociation and Hard Clinical Outcomes.",
+    "keyPoints": [
+      "Composite Endpoints Component Dissociation and Hard Clinical Outcomes",
+      "Composite significant (HR 0.68), but death (HR 1.03) and MI (HR 0.98) neutral -> driven entirely by softer revascularization component."
+    ],
+    "references": [
+      {
+        "label": "Ferreira-Gonzalez I, Busse JW, Heels-Ansdell D, et al. Problems With Use of Composite End Points in Cardiovascular Trials: Systematic Review of Randomised Controlled Trials. BMJ. 2007;334(7597):786. PMID: 17403713.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17403713/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0869",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Differential Loss to Follow-Up and Attrition Bias in Cohorts",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 5-year prospective cohort study investigates the relationship between exposure to heavy occupational diesel exhaust and the incidence of chronic debilitating obstructive lung disease among 2,000 industrial transport workers. Baseline demographics and spirometry are comparable between the 1,000 highly exposed workers and the 1,000 unexposed control office workers. At year 5, follow-up data are complete for 920 of 1,000 control workers (8% lost to follow-up), but for only 650 of 1,000 exposed transport workers (35% lost to follow-up). An exit interview audit reveals that a large proportion of exposed workers who left the study had developed early severe respiratory symptoms, took medical disability leave, or changed professions, and could not be reached. The published study reports an identical 5-year incidence of chronic obstructive lung disease in both groups (Relative Risk = 0.98; 95% CI: 0.82 to 1.18). Which of the following methodological biases most severely compromises the internal validity of this study?",
+    "options": [
+      {
+        "text": "Recall bias, wherein exposed transport workers failed to remember early childhood respiratory infections",
+        "correct": false,
+        "explanation": "Recall bias affects retrospective case-control exposure reporting, not prospective differential participant drop-out over time."
+      },
+      {
+        "text": "Lead-time bias, wherein diesel exhaust accelerated the radiographic appearance of emphysema",
+        "correct": false,
+        "explanation": "Lead-time bias involves screening survival intervals, not unequal participant drop-out from a prospective cohort."
+      },
+      {
+        "text": "Observer-expectancy bias, wherein spirometric technicians deliberately coached control workers to exhale harder",
+        "correct": false,
+        "explanation": "Observer expectancy involves technician measurement coaching, not structural loss of 35% of the exposed cohort."
+      },
+      {
+        "text": "Attrition bias (differential loss to follow-up), which selectively removed symptomatic, diseased exposed workers from the final analysis",
+        "correct": true,
+        "explanation": "Attrition bias is a form of selection bias occurring when differential loss of participants from a study cohort during follow-up is related to both the exposure and the outcome. In this study, 35% of the exposed workers were lost to follow-up compared to only 8% of the unexposed workers. Crucially, the exposed workers dropped out PRECISELY BECAUSE they developed early work-related respiratory symptoms, became disabled, or quit their jobs. By selectively removing sick, exposed workers from the cohort before the final 5-year spirometric assessment, the remaining analyzed exposed group comprised only exceptionally healthy, disease-resistant workers (an example of the 'healthy worker survivor effect'). This differential attrition bias masked the true toxic pulmonary effect of diesel exhaust, spuriously biasing the Relative Risk toward the null (RR = 0.98)."
+      },
+      {
+        "text": "Neyman bias, wherein acute fatal heart attacks were misclassified as pulmonary deaths",
+        "correct": false,
+        "explanation": "Neyman bias is prevalence-incidence bias in cross-sectional/case-control studies, not progressive cohort drop-out."
+      }
+    ],
+    "explanation": "Attrition bias is a form of selection bias occurring when differential loss of participants from a study cohort during follow-up is related to both the exposure and the outcome. In this study, 35% of the exposed workers were lost to follow-up compared to only 8% of the unexposed workers. Crucially, the exposed workers dropped out PRECISELY BECAUSE they developed early work-related respiratory symptoms, became disabled, or quit their jobs. By selectively removing sick, exposed workers from the cohort before the final 5-year spirometric assessment, the remaining analyzed exposed group comprised only exceptionally healthy, disease-resistant workers (an example of the 'healthy worker survivor effect'). This differential attrition bias masked the true toxic pulmonary effect of diesel exhaust, spuriously biasing the Relative Risk toward the null (RR = 0.98). 35% exposed drop out due to symptoms vs 8% unexposed = Attrition bias (differential loss to follow-up biases RR to null).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Differential Loss to Follow-Up and Attrition Bias in Cohorts.",
+    "keyPoints": [
+      "Differential Loss to Follow-Up and Attrition Bias in Cohorts",
+      "35% exposed drop out due to symptoms vs 8% unexposed = Attrition bias (differential loss to follow-up biases RR to null)."
+    ],
+    "references": [
+      {
+        "label": "Dumville JC, Torgerson DJ, Hewitt CE. Reporting Attrition in Randomised Controlled Trials: The Promise of Gate. BMJ. 2006;332(7547):969-971. PMID: 16627519.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16627519/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0870",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Surrogate Biomarkers Versus Patient-Centered Hard Clinical Endpoints",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A pharmaceutical company presents Phase II clinical trial data for a novel small-molecule drug that raises high-density lipoprotein cholesterol (HDL-C). In a trial of 1,200 patients with coronary artery disease, the drug increased serum HDL-C by 72% and reduced serum LDL-C by 25% over 12 months with no serious laboratory toxicities. Based on these favorable lipid changes, the sponsor claims that the drug will substantially reduce cardiovascular death and myocardial infarction in clinical practice. A critical care clinical pharmacologist cautions that improving a surrogate laboratory biomarker does not reliably guarantee improved patient-centered clinical outcomes. Which of the following historical clinical trial examples best illustrates the danger of relying on surrogate endpoints to infer true clinical efficacy?",
+    "options": [
+      {
+        "text": "Use of insulin in diabetic ketoacidosis, which lowered blood glucose but failed to prevent metabolic acidosis",
+        "correct": false,
+        "explanation": "Insulin is life-saving in DKA; it successfully reverses ketoacidosis and reduces mortality."
+      },
+      {
+        "text": "Administration of penicillin for pneumococcal pneumonia, which killed bacteria but worsened septic shock",
+        "correct": false,
+        "explanation": "Penicillin cures bacterial pneumonia and drastically lowers mortality; it is not a failed surrogate."
+      },
+      {
+        "text": "Use of epinephrine during cardiopulmonary resuscitation, which failed to restore spontaneous circulation in ventricular fibrillation",
+        "correct": false,
+        "explanation": "Epinephrine is standard in ACLS; it increases coronary perfusion pressure and ROSC."
+      },
+      {
+        "text": "Application of positive end-expiratory pressure in acute respiratory distress syndrome, which improved oxygenation without reducing survival",
+        "correct": false,
+        "explanation": "PEEP improves oxygenation and lung recruitment in ARDS; high vs low PEEP is an optimization strategy, not a failed surrogate drug."
+      },
+      {
+        "text": "Suppression of asymptomatic ventricular arrhythmias by class IC antiarrhythmics in the CAST trial, which paradoxically doubled patient mortality",
+        "correct": true,
+        "explanation": "A surrogate endpoint is a laboratory measurement or physical sign (e.g., blood pressure, LDL/HDL cholesterol, tumor shrinkage, ventricular ectopy suppression) used as a substitute for a clinically meaningful, patient-centered hard endpoint (e.g., survival, stroke, myocardial infarction, quality of life). While surrogate endpoints allow shorter and cheaper clinical trials, history contains numerous cautionary examples where drugs successfully normalized a surrogate biomarker but caused severe clinical harm or death when tested in definitive outcomes trials: In the landmark Cardiac Arrhythmia Suppression Trial (CAST), class IC antiarrhythmics (flecainide and encainide) successfully abolished asymptomatic ventricular ectopy on Holter monitoring (the surrogate endpoint); however, in the randomized clinical outcomes trial, these drugs paradoxically DOUBLED all-cause and arrhythmic mortality. Similarly, CETP inhibitors (e.g., torcetrapib) dramatically raised HDL-C by >70% but increased all-cause mortality and cardiovascular events. True clinical efficacy requires demonstration of benefit on hard patient-centered outcomes."
+      }
+    ],
+    "explanation": "A surrogate endpoint is a laboratory measurement or physical sign (e.g., blood pressure, LDL/HDL cholesterol, tumor shrinkage, ventricular ectopy suppression) used as a substitute for a clinically meaningful, patient-centered hard endpoint (e.g., survival, stroke, myocardial infarction, quality of life). While surrogate endpoints allow shorter and cheaper clinical trials, history contains numerous cautionary examples where drugs successfully normalized a surrogate biomarker but caused severe clinical harm or death when tested in definitive outcomes trials: In the landmark Cardiac Arrhythmia Suppression Trial (CAST), class IC antiarrhythmics (flecainide and encainide) successfully abolished asymptomatic ventricular ectopy on Holter monitoring (the surrogate endpoint); however, in the randomized clinical outcomes trial, these drugs paradoxically DOUBLED all-cause and arrhythmic mortality. Similarly, CETP inhibitors (e.g., torcetrapib) dramatically raised HDL-C by >70% but increased all-cause mortality and cardiovascular events. True clinical efficacy requires demonstration of benefit on hard patient-centered outcomes. Surrogate biomarker normalization does not equal patient survival = CAST trial (flecainide suppressed ectopy but doubled mortality).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Surrogate Biomarkers Versus Patient-Centered Hard Clinical Endpoints.",
+    "keyPoints": [
+      "Surrogate Biomarkers Versus Patient-Centered Hard Clinical Endpoints",
+      "Surrogate biomarker normalization does not equal patient survival = CAST trial (flecainide suppressed ectopy but doubled mortality)."
+    ],
+    "references": [
+      {
+        "label": "Fleming TR, DeMets DL. Surrogate End Points in Clinical Trials: Are We Being Misled? Ann Intern Med. 1996;125(7):605-613. PMID: 8815760.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8815760/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0871",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Complex Osteomyelitis Oral Versus Intravenous Non-Inferiority Evidence",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 58-year-old man with chronic osteomyelitis of the proximal tibia following surgical fixation of a compound fracture undergoes operative hardware removal and aggressive surgical debridement. Intraoperative cultures grow methicillin-sensitive Staphylococcus aureus. The inpatient infectious disease consultant reviews trial evidence evaluating whether transitioning to high-bioavailability oral antibiotics (e.g., oral levofloxacin plus rifampin, or oral trimethoprim-sulfamethoxazole) after 7 days of intravenous therapy is non-inferior to completing a full 6-week course of continuous outpatient intravenous antibiotic therapy via a peripherally inserted central catheter (PICC). In a major multicenter randomized non-inferiority clinical trial of complex orthopedic bone and joint infections (utilizing an amended non-inferiority margin of 5.0%), definitive treatment failure at 1 year occurred in 74 of 523 patients (14.1%) in the intravenous group and in 67 of 509 patients (13.2%) in the oral group (risk difference: -0.9 percentage points; 90% confidence interval: -4.3 to 2.4 percentage points; 95% confidence interval: -4.9 to 3.2 percentage points). Catheter-related complications (infection, thrombosis, malfunction) occurred in 9.4% of the intravenous group versus 1.0% of the oral group. Which of the following conclusions correctly interprets these trial findings for this patient's clinical management?",
+    "options": [
+      {
+        "text": "Oral antibiotic therapy is non-inferior to intravenous therapy because the upper bound of the confidence interval excludes the 5% margin, with significantly fewer catheter-related complications",
+        "correct": true,
+        "explanation": "The landmark OVIVA (Oral Versus Intravenous Antibiotics) trial investigated whether oral antibiotic therapy is non-inferior to intravenous antibiotic therapy for complex bone and joint infections (osteomyelitis, native joint sepsis, orthopedic hardware infections). The trial established a pre-specified amended non-inferiority margin of 5.0 percentage points. The 1-year treatment failure rate was 13.2% in the oral group versus 14.1% in the intravenous group (difference -0.9 percentage points). Because the upper bound of the primary 90% confidence interval (2.4%) and the secondary 95% confidence interval (3.2%) fell entirely below the 5.0% non-inferiority margin, non-inferiority of oral antibiotic therapy was definitively established. Furthermore, oral therapy completely avoided the indwelling central venous catheter complications (thrombosis, exit-site sepsis, bacteremia, mechanical malfunction) that affected nearly 10% of patients receiving prolonged IV regimens. Selecting high-bioavailability oral therapy following adequate surgical debridement is safe, non-inferior, and avoids PICC morbidity."
+      },
+      {
+        "text": "Intravenous therapy is strictly superior to oral therapy because osteomyelitis can never be eradicated without parenteral beta-lactam concentrations",
+        "correct": false,
+        "explanation": "The trial proved non-inferiority of oral therapy, with identical clinical cure rates and significantly fewer line complications."
+      },
+      {
+        "text": "Oral therapy failed non-inferiority because the point estimate difference crossed into negative numbers",
+        "correct": false,
+        "explanation": "A negative risk difference indicates fewer failures in the oral arm; non-inferiority requires the upper bound of the CI to fall below +5.0%."
+      },
+      {
+        "text": "Non-inferiority was refuted because the trial required an absolute non-inferiority margin of zero percentage points",
+        "correct": false,
+        "explanation": "A non-inferiority margin of zero would represent an impossible superiority design; clinical margins reflect acceptable trade-offs for oral convenience."
+      },
+      {
+        "text": "The trial is uninterpretable because PICC line complications must be counted as primary microbiological treatment failures",
+        "correct": false,
+        "explanation": "PICC complications represent adverse procedural events that favor the oral strategy; they are reported separately from primary microbiological failures."
+      }
+    ],
+    "explanation": "The landmark OVIVA (Oral Versus Intravenous Antibiotics) trial investigated whether oral antibiotic therapy is non-inferior to intravenous antibiotic therapy for complex bone and joint infections (osteomyelitis, native joint sepsis, orthopedic hardware infections). The trial established a pre-specified amended non-inferiority margin of 5.0 percentage points. The 1-year treatment failure rate was 13.2% in the oral group versus 14.1% in the intravenous group (difference -0.9 percentage points). Because the upper bound of the primary 90% confidence interval (2.4%) and the secondary 95% confidence interval (3.2%) fell entirely below the 5.0% non-inferiority margin, non-inferiority of oral antibiotic therapy was definitively established. Furthermore, oral therapy completely avoided the indwelling central venous catheter complications (thrombosis, exit-site sepsis, bacteremia, mechanical malfunction) that affected nearly 10% of patients receiving prolonged IV regimens. Selecting high-bioavailability oral therapy following adequate surgical debridement is safe, non-inferior, and avoids PICC morbidity. Bone infection oral vs IV = upper CI bound (+2.4% / +3.2%) is below +5.0% margin -> oral is non-inferior with 9x fewer catheter complications.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Complex Osteomyelitis Oral Versus Intravenous Non-Inferiority Evidence.",
+    "keyPoints": [
+      "Complex Osteomyelitis Oral Versus Intravenous Non-Inferiority Evidence",
+      "Bone infection oral vs IV = upper CI bound (+2.4% / +3.2%) is below +5.0% margin -> oral is non-inferior with 9x fewer catheter complications."
+    ],
+    "references": [
+      {
+        "label": "Li HK, Rombach I, Zambellas R, et al. Oral Versus Intravenous Antibiotics for Bone and Joint Infection (OVIVA Trial). N Engl J Med. 2019;380(5):425-436. PMID: 30699315.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30699315/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0872",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Early Rhythm Control in Atrial Fibrillation Cardiovascular Outcomes",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old woman is diagnosed with new-onset nonvalvular atrial fibrillation 3 months ago. She has hypertension, type 2 diabetes mellitus, and a prior transient ischemic attack (CHA2DS2-VASc score of 5). She is fully anticoagulated with apixaban and rate-controlled on metoprolol succinate with a resting ventricular rate of 74/min. She has minimal symptoms (EHRA Class I). The cardiology team evaluates whether to maintain rate control alone or initiate an early rhythm control strategy (antiarrhythmic drug therapy or catheter ablation). A landmark multicenter randomized clinical trial evaluated early rhythm control versus usual care (predominantly rate control) in 2,789 patients with newly diagnosed atrial fibrillation (diagnosed within 1 year) and cardiovascular risk factors. The primary composite outcome of death from cardiovascular causes, stroke, or hospitalization with worsening of heart failure or acute coronary syndrome occurred in 249 of 1,395 patients (3.9 per 100 person-years) in the early-rhythm-control group compared to 316 of 1,394 patients (5.0 per 100 person-years) in the usual-care group (Hazard Ratio 0.79; 96% CI: 0.66 to 0.94; p = 0.005). Which of the following statements correctly translates this evidence into her clinical management?",
+    "options": [
+      {
+        "text": "Early rhythm control is contraindicated unless ventricular rate cannot be kept below 110 beats per minute",
+        "correct": false,
+        "explanation": "Rate control alone is no longer the sole primary strategy; early rhythm control within 12 months provides superior cardiovascular protection regardless of resting rate."
+      },
+      {
+        "text": "Initiating early rhythm control within one year of atrial fibrillation diagnosis significantly reduces cardiovascular death, stroke, and heart failure hospitalizations",
+        "correct": true,
+        "explanation": "Historically, the AFFIRM trial (2002) found no mortality difference between rate and rhythm control in older patients with chronic, long-standing atrial fibrillation. However, the landmark EAST-AFNET 4 trial established a paradigm shift: among patients with NEWLY DIAGNOSED atrial fibrillation (duration <= 1 year) and concomitant cardiovascular risk factors (age > 75, or CHA2DS2-VASc >= 2), an Early Rhythm Control strategy (using antiarrhythmic drugs like flecainide, propafenone, dronedarone, or amiodarone, or catheter ablation, combined with continuous oral anticoagulation) significantly reduced the primary composite outcome of cardiovascular death, stroke, and heart failure/ACS hospitalizations by 21% (HR 0.79, p = 0.005) compared to rate control alone. Early rhythm control prevents electrical, structural, and autonomic atrial remodeling before permanent substrate damage occurs, yielding clear prognostic cardiovascular benefits."
+      },
+      {
+        "text": "Anticoagulation can be safely discontinued once sinus rhythm is restored and maintained for thirty consecutive days",
+        "correct": false,
+        "explanation": "Anticoagulation must be continued indefinitely based on the patient's CHA2DS2-VASc score (score of 5), regardless of apparent restoration of sinus rhythm."
+      },
+      {
+        "text": "Early rhythm control eliminates the need for ongoing antihypertensive or statin pharmacotherapy",
+        "correct": false,
+        "explanation": "Comprehensive cardiovascular risk factor modification (blood pressure, lipids, glycemic control) remains essential alongside rhythm control."
+      },
+      {
+        "text": "Catheter ablation is ineffective in newly diagnosed atrial fibrillation and must be delayed until rate control fails for five years",
+        "correct": false,
+        "explanation": "Early catheter ablation is highly effective in early AF and was an integral treatment modality utilized in early rhythm control trials."
+      }
+    ],
+    "explanation": "Historically, the AFFIRM trial (2002) found no mortality difference between rate and rhythm control in older patients with chronic, long-standing atrial fibrillation. However, the landmark EAST-AFNET 4 trial established a paradigm shift: among patients with NEWLY DIAGNOSED atrial fibrillation (duration <= 1 year) and concomitant cardiovascular risk factors (age > 75, or CHA2DS2-VASc >= 2), an Early Rhythm Control strategy (using antiarrhythmic drugs like flecainide, propafenone, dronedarone, or amiodarone, or catheter ablation, combined with continuous oral anticoagulation) significantly reduced the primary composite outcome of cardiovascular death, stroke, and heart failure/ACS hospitalizations by 21% (HR 0.79, p = 0.005) compared to rate control alone. Early rhythm control prevents electrical, structural, and autonomic atrial remodeling before permanent substrate damage occurs, yielding clear prognostic cardiovascular benefits. New AF (<1 yr) + CV risk factors = early rhythm control reduces CV death, stroke, and HF hospitalizations by 21% (HR 0.79).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Early Rhythm Control in Atrial Fibrillation Cardiovascular Outcomes.",
+    "keyPoints": [
+      "Early Rhythm Control in Atrial Fibrillation Cardiovascular Outcomes",
+      "New AF (<1 yr) + CV risk factors = early rhythm control reduces CV death, stroke, and HF hospitalizations by 21% (HR 0.79)."
+    ],
+    "references": [
+      {
+        "label": "Kirchhof P, Camm AJ, Goette A, et al. Early Rhythm-Control Therapy in Patients With Atrial Fibrillation (EAST-AFNET 4 Trial). N Engl J Med. 2020;383(14):1305-1316. PMID: 32865375.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32865375/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0873",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "SGLT2 Inhibition in Chronic Kidney Disease Independent of Diabetes",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old man with biopsy-proven focal segmental glomerulosclerosis (FSGS) and stage 3b chronic kidney disease presents for management. Estimated GFR is 34 mL/min/1.73 m2, and urine albumin-to-creatinine ratio (UACR) is 750 mg/g despite adherence to maximally tolerated enalapril 20 mg daily. Blood pressure is 126/78 mm Hg. Fasting plasma glucose is 92 mg/dL, and HbA1c is 5.4%, with no history of diabetes mellitus. A medical resident questions whether adding an SGLT2 inhibitor (e.g., dapagliflozin or empagliflozin) is indicated, noting that SGLT2 inhibitors were originally developed as anti-diabetic medications. Major landmark randomized clinical trials (such as DAPA-CKD and EMPA-KIDNEY) evaluated SGLT2 inhibitors versus placebo in thousands of patients with chronic kidney disease (eGFR 20 to 90 mL/min/1.73 m2 and albuminuria) with AND without type 2 diabetes mellitus. Which of the following statements correctly summarizes the conclusive evidence regarding SGLT2 inhibitors in patients with non-diabetic chronic kidney disease?",
+    "options": [
+      {
+        "text": "SGLT2 inhibitors have zero renal benefit in patients without diabetes because they require severe hyperglycemia to activate the transporter",
+        "correct": false,
+        "explanation": "SGLT2 transporters reabsorb glucose under normoglycemic conditions; tubuloglomerular feedback and hemodynamic benefits occur independently of blood glucose."
+      },
+      {
+        "text": "SGLT2 inhibitors cause profound, refractory hypoglycemia when administered to patients with normal baseline HbA1c",
+        "correct": false,
+        "explanation": "SGLT2 inhibitors do not stimulate insulin secretion; the risk of hypoglycemia in non-diabetic patients is negligible."
+      },
+      {
+        "text": "SGLT2 inhibitors significantly reduce the composite risk of sustained eGFR decline, end-stage kidney disease, and all-cause mortality regardless of diabetes status",
+        "correct": true,
+        "explanation": "Landmark Phase III randomized clinical trials (DAPA-CKD with dapagliflozin and EMPA-KIDNEY with empagliflozin) definitively proved that the nephroprotective and cardioprotective benefits of SGLT2 inhibitors are INDEPENDENT of glycemic control and extend equally to patients WITHOUT diabetes mellitus. In patients with non-diabetic CKD (e.g., FSGS, IgA nephropathy, hypertensive nephrosclerosis) and albuminuria, SGLT2 inhibitors significantly reduced the primary composite outcome of a >= 50% sustained decline in eGFR, progression to end-stage kidney disease (ESKD requiring dialysis/transplantation), and all-cause/cardiovascular mortality by 30% to 40% (HR ~0.61-0.72). The physiological mechanism is non-glycemic: by inhibiting proximal tubular sodium and glucose reabsorption, SGLT2 inhibitors increase solute delivery to the macula densa, restoring tubuloglomerular feedback (TGF) and inducing afferent arteriolar vasoconstriction, thereby reducing intraglomerular capillary hypertension and mechanical shear stress."
+      },
+      {
+        "text": "SGLT2 inhibitors are strictly contraindicated when estimated GFR falls below 60 mL/min/1.73 m2",
+        "correct": false,
+        "explanation": "Trials demonstrated safety and efficacy down to eGFR 20-25 mL/min/1.73 m2, where renal benefits are preserved."
+      },
+      {
+        "text": "SGLT2 inhibitors must be combined with high-dose loop diuretics to achieve any reduction in albuminuria",
+        "correct": false,
+        "explanation": "Loop diuretics are not required and can cause volume depletion; SGLT2 inhibitors reduce intraglomerular pressure directly."
+      }
+    ],
+    "explanation": "Landmark Phase III randomized clinical trials (DAPA-CKD with dapagliflozin and EMPA-KIDNEY with empagliflozin) definitively proved that the nephroprotective and cardioprotective benefits of SGLT2 inhibitors are INDEPENDENT of glycemic control and extend equally to patients WITHOUT diabetes mellitus. In patients with non-diabetic CKD (e.g., FSGS, IgA nephropathy, hypertensive nephrosclerosis) and albuminuria, SGLT2 inhibitors significantly reduced the primary composite outcome of a >= 50% sustained decline in eGFR, progression to end-stage kidney disease (ESKD requiring dialysis/transplantation), and all-cause/cardiovascular mortality by 30% to 40% (HR ~0.61-0.72). The physiological mechanism is non-glycemic: by inhibiting proximal tubular sodium and glucose reabsorption, SGLT2 inhibitors increase solute delivery to the macula densa, restoring tubuloglomerular feedback (TGF) and inducing afferent arteriolar vasoconstriction, thereby reducing intraglomerular capillary hypertension and mechanical shear stress. Non-diabetic CKD with albuminuria = SGLT2 inhibitors reduce ESKD progression and mortality independent of diabetes (DAPA-CKD/EMPA-KIDNEY).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of SGLT2 Inhibition in Chronic Kidney Disease Independent of Diabetes.",
+    "keyPoints": [
+      "SGLT2 Inhibition in Chronic Kidney Disease Independent of Diabetes",
+      "Non-diabetic CKD with albuminuria = SGLT2 inhibitors reduce ESKD progression and mortality independent of diabetes (DAPA-CKD/EMPA-KIDNEY)."
+    ],
+    "references": [
+      {
+        "label": "Heerspink HJL, Stefansson BV, Correa-Rotter R, et al. Dapagliflozin in Patients With Chronic Kidney Disease (DAPA-CKD Trial). N Engl J Med. 2020;383(15):1436-1446. PMID: 32970396.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32970396/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0874",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Invasive Versus Conservative Strategy for NSTE-ACS in Older Adults",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "An 82-year-old woman with multimorbidity, mild cognitive impairment, and moderate physical frailty (Clinical Frailty Scale score 5) is admitted to the hospital with non-ST-elevation myocardial infarction (NSTEMI). High-sensitivity cardiac troponin I is elevated at 480 ng/L (normal < 14 ng/L), and baseline ECG shows 1-mm ST depressions in leads V4-V6. She is pain-free following initiation of oral aspirin, clopidogrel, therapeutic low-molecular-weight heparin, and atorvastatin. Blood pressure is 128/72 mm Hg, and heart rate is 68/min regular. The clinical team deliberates between an immediate routine invasive strategy (coronary angiography with intent to revascularize within 24-48 hours) versus an initial conservative medical management strategy (angiography only if recurrent ischemia or refractory failure develops). In a recent landmark multicenter randomized clinical trial evaluating an invasive strategy versus conservative medical care in 1,518 older adults (aged >= 75 years) with non-ST-elevation acute coronary syndromes (the SENIOR-RITA trial design), the primary composite outcome of cardiovascular death or non-fatal myocardial infarction over a median follow-up of 4.1 years occurred in 25.6% of the invasive group versus 26.3% of the conservative group (Hazard Ratio 0.94; 95% CI: 0.77 to 1.14; p = 0.53). Non-fatal MI was non-significantly reduced, but cardiovascular death was completely identical (15.8% vs 14.2%, HR 1.11; p = 0.38). Which of the following is the most accurate clinical conclusion to guide shared decision-making with this patient and her family?",
+    "options": [
+      {
+        "text": "Routine coronary angiography is legally mandated for all patients with elevated cardiac troponins regardless of age or frailty",
+        "correct": false,
+        "explanation": "Clinical guidelines strongly support individualized shared decision-making; no procedure is legally mandated or universally appropriate."
+      },
+      {
+        "text": "Conservative medical therapy is unethical because medical management carries a 100% mortality rate within six months in older adults",
+        "correct": false,
+        "explanation": "Conservative medical therapy with modern antiplatelets, statins, and anticoagulation achieved excellent 4-year survival comparable to invasive revascularization."
+      },
+      {
+        "text": "Invasive revascularization should only be performed if the patient has a normal baseline serum creatinine and zero cognitive deficits",
+        "correct": false,
+        "explanation": "Angiography is not strictly barred by creatinine or mild dementia, but trials show routine revascularization does not reduce mortality in this age group."
+      },
+      {
+        "text": "A routine invasive strategy does not significantly reduce cardiovascular death or overall myocardial infarction compared to conservative medical management in older adults with NSTE-ACS",
+        "correct": true,
+        "explanation": "The management of acute coronary syndromes in older, frail patients requires nuanced evidence appraisal. Historical trials in younger cohorts demonstrated clear benefits for early invasive revascularization. However, older patients (>= 75 to 80 years of age) with frailty and multimorbidity face higher procedural risks (contrast-induced nephropathy, stroke, access-site bleeding, delirium, vascular injury). The landmark SENIOR-RITA randomized controlled trial evaluated an invasive revascularization strategy versus an optimal conservative medical management strategy specifically in older adults (aged >= 75 years, median age 82) with non-ST-elevation acute coronary syndrome. Over a 4-year follow-up, the routine invasive strategy DID NOT reduce the co-primary endpoint of cardiovascular death or non-fatal myocardial infarction (HR 0.94, p = 0.53), and had zero effect on cardiovascular mortality (HR 1.11). While routine invasive management modestly reduced subsequent repeat revascularization and hospitalizations, it did not prolong life. In frail older adults with multimorbidity, initial conservative medical therapy is a sound, evidence-based, guideline-supported strategy that avoids upfront invasive procedural harms."
+      },
+      {
+        "text": "All antiplatelet and anticoagulant medications must be discontinued immediately if conservative therapy is chosen",
+        "correct": false,
+        "explanation": "Optimal medical therapy requires continuation of guideline-directed antiplatelets, statins, beta-blockers, and ACE inhibitors to prevent recurrent ischemia."
+      }
+    ],
+    "explanation": "The management of acute coronary syndromes in older, frail patients requires nuanced evidence appraisal. Historical trials in younger cohorts demonstrated clear benefits for early invasive revascularization. However, older patients (>= 75 to 80 years of age) with frailty and multimorbidity face higher procedural risks (contrast-induced nephropathy, stroke, access-site bleeding, delirium, vascular injury). The landmark SENIOR-RITA randomized controlled trial evaluated an invasive revascularization strategy versus an optimal conservative medical management strategy specifically in older adults (aged >= 75 years, median age 82) with non-ST-elevation acute coronary syndrome. Over a 4-year follow-up, the routine invasive strategy DID NOT reduce the co-primary endpoint of cardiovascular death or non-fatal myocardial infarction (HR 0.94, p = 0.53), and had zero effect on cardiovascular mortality (HR 1.11). While routine invasive management modestly reduced subsequent repeat revascularization and hospitalizations, it did not prolong life. In frail older adults with multimorbidity, initial conservative medical therapy is a sound, evidence-based, guideline-supported strategy that avoids upfront invasive procedural harms. Frail 82yo with NSTEMI = routine invasive strategy does NOT reduce CV death or MI compared to conservative medical care (SENIOR-RITA design).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Invasive Versus Conservative Strategy for NSTE-ACS in Older Adults.",
+    "keyPoints": [
+      "Invasive Versus Conservative Strategy for NSTE-ACS in Older Adults",
+      "Frail 82yo with NSTEMI = routine invasive strategy does NOT reduce CV death or MI compared to conservative medical care (SENIOR-RITA design)."
+    ],
+    "references": [
+      {
+        "label": "Sanchis J et al. Effects of routine invasive management on reinfarction risk in older adults with frailty and non-ST-segment elevation myocardial infarction: a subanalysis of a randomised clinical trial. Heart. PMID: 39922692.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39922692/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0875",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Restrictive Versus Liberal Red Blood Cell Transfusion in Sepsis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man is hospitalized in the intensive care unit for septic shock secondary to Escherichia coli bacteremic urinary tract infection. Over the past 48 hours, he has been successfully resuscitated with fluids and norepinephrine, and his vasopressors were discontinued 6 hours ago. He is breathing spontaneously on 2 L/min nasal cannula with an oxygen saturation of 97%. Mean arterial pressure is 74 mm Hg, and heart rate is 78/min regular. He has no chest pain, shortness of breath, active bleeding, or history of ischemic heart disease. Morning laboratory testing reveals: hemoglobin 7.4 g/dL (hematocrit 22%), WBC 12,400/mm3, platelet count 140,000/mm3, and serum lactate 1.2 mmol/L. The junior resident suggests ordering two units of packed red blood cells to raise his hemoglobin above 9.0 g/dL. Which of the following transfusion strategies is most strongly supported by landmark critical care clinical trials (e.g., TRICC and TRISS trials) and current Surviving Sepsis Campaign guidelines?",
+    "options": [
+      {
+        "text": "Liberal transfusion strategy targeting hemoglobin strictly above 10.0 g/dL to maximize oxygen delivery",
+        "correct": false,
+        "explanation": "Liberal transfusion increases volume overload (TACO), TRALI, secondary infections, and mortality without improving tissue perfusion."
+      },
+      {
+        "text": "Mandatory transfusion of two units of packed red blood cells plus two units of fresh frozen plasma",
+        "correct": false,
+        "explanation": "Plasma transfusion is contraindicated in the absence of active bleeding or scheduled invasive procedural coagulopathy."
+      },
+      {
+        "text": "Subcutaneous recombinant human erythropoietin injections daily for five days",
+        "correct": false,
+        "explanation": "Erythropoietin does not rapidly raise hemoglobin in acute sepsis, fails to reduce transfusion requirements, and increases thrombotic complications."
+      },
+      {
+        "text": "Whole blood transfusion targeting hematocrit strictly greater than 36%",
+        "correct": false,
+        "explanation": "Whole blood carries excessive volume load and is reserved for massive traumatic hemorrhage resuscitation, not non-bleeding septic recovery."
+      },
+      {
+        "text": "Restrictive transfusion strategy withholding red blood cell transfusion unless hemoglobin drops below 7.0 g/dL",
+        "correct": true,
+        "explanation": "Red blood cell (RBC) transfusion thresholds in critically ill patients have been evaluated in major landmark multicenter randomized clinical trials (TRICC trial in general critical care, TRISS trial in septic shock). These trials conclusively demonstrated that a Restrictive Transfusion Strategy (transfusing only when hemoglobin drops below 7.0 g/dL, targeting a post-transfusion hemoglobin of 7.0 to 9.0 g/dL) is at least as safe as, and in many patient subgroups superior to, a Liberal Transfusion Strategy (transfusing when hemoglobin drops below 9.0 or 10.0 g/dL). Liberal transfusion exposes patients to significant risks of transfusion-associated circulatory overload (TACO), transfusion-related acute lung injury (TRALI), hemolytic reactions, immunomodulation, and nosocomial infections, without improving survival or organ failure. Current Surviving Sepsis Campaign guidelines give a strong recommendation for a restrictive RBC transfusion strategy (hemoglobin trigger < 7.0 g/dL) in adult septic patients in the absence of acute myocardial ischemia, severe hypoxemia, or active hemorrhage."
+      }
+    ],
+    "explanation": "Red blood cell (RBC) transfusion thresholds in critically ill patients have been evaluated in major landmark multicenter randomized clinical trials (TRICC trial in general critical care, TRISS trial in septic shock). These trials conclusively demonstrated that a Restrictive Transfusion Strategy (transfusing only when hemoglobin drops below 7.0 g/dL, targeting a post-transfusion hemoglobin of 7.0 to 9.0 g/dL) is at least as safe as, and in many patient subgroups superior to, a Liberal Transfusion Strategy (transfusing when hemoglobin drops below 9.0 or 10.0 g/dL). Liberal transfusion exposes patients to significant risks of transfusion-associated circulatory overload (TACO), transfusion-related acute lung injury (TRALI), hemolytic reactions, immunomodulation, and nosocomial infections, without improving survival or organ failure. Current Surviving Sepsis Campaign guidelines give a strong recommendation for a restrictive RBC transfusion strategy (hemoglobin trigger < 7.0 g/dL) in adult septic patients in the absence of acute myocardial ischemia, severe hypoxemia, or active hemorrhage. Septic patient with Hb 7.4 g/dL and no active bleeding/ischemia = Restrictive strategy (transfuse only if Hb < 7.0 g/dL).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Restrictive Versus Liberal Red Blood Cell Transfusion in Sepsis.",
+    "keyPoints": [
+      "Restrictive Versus Liberal Red Blood Cell Transfusion in Sepsis",
+      "Septic patient with Hb 7.4 g/dL and no active bleeding/ischemia = Restrictive strategy (transfuse only if Hb < 7.0 g/dL)."
+    ],
+    "references": [
+      {
+        "label": "Holst LB, Haase N, Wetterslev J, et al. Lower Versus Higher Hemoglobin Threshold for Transfusion in Septic Shock (TRISS Trial). N Engl J Med. 2014;371(15):1381-1391. PMID: 25270275.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25270275/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

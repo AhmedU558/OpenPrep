@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s1-0776",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Wernicke Encephalopathy Thiamine-Dependent Enzymes and Transketolase",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old man with severe chronic alcohol use disorder is brought to the emergency department in a state of profound confusion and lethargy. Physical examination reveals bilateral horizontal nystagmus, bilateral lateral rectus palsy (abducens nerve palsy), and a wide-based, clumsy, ataxic gait. He is disoriented to time and place. Before any intravenous glucose infusions are administered, blood is drawn for erythrocyte enzymatic profiling. Administration of thiamine diphosphate to the patient's erythrocyte hemolysate produces a 140% increase in enzymatic activity (normal < 15% increase). Which of the following thiamine-dependent enzymes in the pentose phosphate pathway is being evaluated by this diagnostic assay?",
+    "options": [
+      {
+        "text": "Transketolase which transfers a two-carbon ketol group from xylulose 5-phosphate to ribose 5-phosphate",
+        "correct": true,
+        "explanation": "WERNICKE ENCEPHALOPATHY is an acute, life-threatening neuropsychiatric syndrome caused by severe deficiency of THIAMINE (VITAMIN B1). Thiamine is converted to its active cofactor form, THIAMINE PYROPHOSPHATE (TPP). TPP is an obligatory coenzyme for four major enzyme complexes: (1) PYRUVATE DEHYDROGENASE (linking glycolysis to the TCA cycle), (2) ALPHA-KETOGLUTARATE DEHYDROGENASE (TCA cycle), (3) BRANCHED-CHAIN ALPHA-KETOACID DEHYDROGENASE (catabolism of Leu, Ile, Val; deficient in MSUD), and (4) TRANSKETOLASE in the non-oxidative branch of the PENTOSE PHOSPHATE PATHWAY (hexose monophosphate shunt). Transketolase catalyzes the reversible transfer of a two-carbon ketol group from xylulose-5-P to ribose-5-P (forming sedoheptulose-7-P and glyceraldehyde-3-P), enabling cells to synthesize ribose-5-P for nucleotide synthesis from glycolytic intermediates or return pentoses into glycolysis. The clinical gold-standard functional assay for thiamine deficiency is the ERYTHROCYTE TRANSKETOLASE ACTIVITY ASSAY: baseline transketolase activity is low in thiamine-deficient patients, and adding exogenous TPP produces a dramatic surge in enzymatic activity (> 25% increase). Administering intravenous glucose to a thiamine-deficient patient without prior thiamine administration acutely exhausts remaining TPP stores via pyruvate dehydrogenase, precipitating acute Wernicke encephalopathy, lactic acidosis, and irreversible mamillary body / periaqueductal gray necrosis."
+      },
+      {
+        "text": "Transaldolase which transfers a three-carbon dihydroxyacetone moiety between glycolytic intermediates",
+        "correct": false,
+        "explanation": "Transaldolase transfers a three-carbon moiety in the pentose phosphate pathway, but it does NOT require thiamine pyrophosphate as a cofactor."
+      },
+      {
+        "text": "Glucose-6-phosphate dehydrogenase (G6PD) generating NADPH in the oxidative branch",
+        "correct": false,
+        "explanation": "G6PD catalyzes the rate-limiting oxidative step of the HMP shunt; it requires NADP+ as an electron acceptor, not thiamine."
+      },
+      {
+        "text": "Pyruvate carboxylase which carboxylates pyruvate into oxaloacetate",
+        "correct": false,
+        "explanation": "Pyruvate carboxylase is a biotin (vitamin B7)-dependent mitochondrial enzyme, not a thiamine-dependent enzyme."
+      },
+      {
+        "text": "Succinate dehydrogenase which oxidizes succinate to fumarate in the inner mitochondrial membrane",
+        "correct": false,
+        "explanation": "Succinate dehydrogenase (Complex II of the ETC) requires flavin adenine dinucleotide (FAD / vitamin B2), not thiamine."
+      }
+    ],
+    "explanation": "WERNICKE ENCEPHALOPATHY is an acute, life-threatening neuropsychiatric syndrome caused by severe deficiency of THIAMINE (VITAMIN B1). Thiamine is converted to its active cofactor form, THIAMINE PYROPHOSPHATE (TPP). TPP is an obligatory coenzyme for four major enzyme complexes: (1) PYRUVATE DEHYDROGENASE (linking glycolysis to the TCA cycle), (2) ALPHA-KETOGLUTARATE DEHYDROGENASE (TCA cycle), (3) BRANCHED-CHAIN ALPHA-KETOACID DEHYDROGENASE (catabolism of Leu, Ile, Val; deficient in MSUD), and (4) TRANSKETOLASE in the non-oxidative branch of the PENTOSE PHOSPHATE PATHWAY (hexose monophosphate shunt). Transketolase catalyzes the reversible transfer of a two-carbon ketol group from xylulose-5-P to ribose-5-P (forming sedoheptulose-7-P and glyceraldehyde-3-P), enabling cells to synthesize ribose-5-P for nucleotide synthesis from glycolytic intermediates or return pentoses into glycolysis. The clinical gold-standard functional assay for thiamine deficiency is the ERYTHROCYTE TRANSKETOLASE ACTIVITY ASSAY: baseline transketolase activity is low in thiamine-deficient patients, and adding exogenous TPP produces a dramatic surge in enzymatic activity (> 25% increase). Administering intravenous glucose to a thiamine-deficient patient without prior thiamine administration acutely exhausts remaining TPP stores via pyruvate dehydrogenase, precipitating acute Wernicke encephalopathy, lactic acidosis, and irreversible mamillary body / periaqueductal gray necrosis. Confusion + ataxia + ophthalmoplegia + chronic alcoholism = Wernicke encephalopathy -> Low erythrocyte Transketolase (thiamine-dependent HMP shunt enzyme).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Wernicke Encephalopathy Thiamine-Dependent Enzymes and Transketolase.",
+    "keyPoints": [
+      "Wernicke Encephalopathy Thiamine-Dependent Enzymes and Transketolase",
+      "Confusion + ataxia + ophthalmoplegia + chronic alcoholism = Wernicke encephalopathy -> Low erythrocyte Transketolase (thiamine-dependent HMP shunt enzyme)."
+    ],
+    "references": [
+      {
+        "label": "Sechi G, Serra A. Wernicke's encephalopathy: new clinical settings and recent advances in diagnosis and management. Lancet Neurol. 2007;6(5):442-455. PMID: 17434099.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17434099/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0777",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Cardiovascular",
+    "topic": "Polyarteritis Nodosa Transmural Necrotizing Vasculitis and Sparing of Lungs",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man presents with a 6-week history of low-grade fever, malaise, a 7-kg weight loss, and severe bilateral calf and abdominal pain that worsens after meals ('intestinal angina'). He recently tested positive for chronic hepatitis B surface antigen (HBsAg). Physical examination reveals a blood pressure of 168/104 mm Hg, tender nodular skin lesions on his lower legs, and livedo reticularis. Neurological examination reveals right foot drop (peroneal nerve neuropathy) and left wrist drop (radial neuropathy), consistent with mononeuritis multiplex. Laboratory studies show: serum creatinine 2.6 mg/dL (baseline 0.9 mg/dL) and ESR 94 mm/hr. ANCA serologies (p-ANCA and c-ANCA) are negative. Renal angiography demonstrates multiple small saccular and fusiform microaneurysms at arterial branch points in the renal and mesenteric vasculature ('string-of-beads' sign). Sural nerve biopsy confirms transmural necrotizing inflammation with fibrinoid necrosis of medium-sized muscular arteries. Which of the following vascular beds is characteristically spared by this patient's systemic vasculitis?",
+    "options": [
+      {
+        "text": "Renal interlobar and arcuate muscular arteries",
+        "correct": false,
+        "explanation": "Renal arterial involvement is present in up to 80% of PAN cases, producing microaneurysms, renal ischemia, and severe renovascular hypertension, but without glomerulonephritis."
+      },
+      {
+        "text": "Pulmonary arterial circulation",
+        "correct": true,
+        "explanation": "POLYARTERITIS NODOSA (PAN) is a systemic necrotizing vasculitis that selectively affects MEDIUM-SIZED AND SMALL MUSCULAR ARTERIES. Approximately 30% of cases are associated with CHRONIC HEPATITIS B VIRUS (HBV) infection, driven by deposition of HBsAg-anti-HBs immune complexes in vessel walls. Pathology reveals TRANSMURAL NECROTIZING INFLAMMATION with prominent FIBRINOID NECROSIS of the arterial media and adventitia. Lesions are segmental and transmural, weakening the arterial wall to produce microaneurysms, thrombosis, and downstream tissue ischemia/infarction (renal infarction causing severe hypertension, mesenteric ischemia causing postprandial pain, cutaneous nodules/livedo reticularis, and ischemia of the vasa nervorum causing MONONEURITIS MULTIPLEX). Angiography shows characteristic microaneurysms alternating with luminal stenosis ('string-of-beads' appearance). Crucially, PAN CLASSICALLY SPARES THE PULMONARY ARTERIES (pulmonary circulation). Any patient presenting with necrotizing vasculitis and prominent pulmonary involvement (hemoptysis, pulmonary infiltrates, or asthma) has an ANCA-associated vasculitis (e.g., Granulomatosis with Polyangiitis, Microscopic Polyangiitis, or EGPA), not classic PAN. Classic PAN is characteristically ANCA-negative."
+      },
+      {
+        "text": "Mesenteric and celiac arterial branches",
+        "correct": false,
+        "explanation": "Gastrointestinal involvement occurs in over 50% of PAN cases, causing severe postprandial ischemia, bowel angina, infarction, or cholecystitis."
+      },
+      {
+        "text": "Coronary muscular arterial branches",
+        "correct": false,
+        "explanation": "Coronary artery involvement is common in PAN, predisposing to myocardial ischemia and infarction, second only to Kawasaki disease in pediatric arteritis."
+      },
+      {
+        "text": "Vasa nervorum of peripheral nerves",
+        "correct": false,
+        "explanation": "Ischemia of the vasa nervorum causes mononeuritis multiplex (asymmetric multifocal peripheral neuropathies), a classic hallmark of PAN."
+      }
+    ],
+    "explanation": "POLYARTERITIS NODOSA (PAN) is a systemic necrotizing vasculitis that selectively affects MEDIUM-SIZED AND SMALL MUSCULAR ARTERIES. Approximately 30% of cases are associated with CHRONIC HEPATITIS B VIRUS (HBV) infection, driven by deposition of HBsAg-anti-HBs immune complexes in vessel walls. Pathology reveals TRANSMURAL NECROTIZING INFLAMMATION with prominent FIBRINOID NECROSIS of the arterial media and adventitia. Lesions are segmental and transmural, weakening the arterial wall to produce microaneurysms, thrombosis, and downstream tissue ischemia/infarction (renal infarction causing severe hypertension, mesenteric ischemia causing postprandial pain, cutaneous nodules/livedo reticularis, and ischemia of the vasa nervorum causing MONONEURITIS MULTIPLEX). Angiography shows characteristic microaneurysms alternating with luminal stenosis ('string-of-beads' appearance). Crucially, PAN CLASSICALLY SPARES THE PULMONARY ARTERIES (pulmonary circulation). Any patient presenting with necrotizing vasculitis and prominent pulmonary involvement (hemoptysis, pulmonary infiltrates, or asthma) has an ANCA-associated vasculitis (e.g., Granulomatosis with Polyangiitis, Microscopic Polyangiitis, or EGPA), not classic PAN. Classic PAN is characteristically ANCA-negative. Hepatitis B + mononeuritis multiplex + microaneurysms + fibrinoid necrosis of medium arteries = Polyarteritis nodosa -> Characteristically spares pulmonary circulation.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Polyarteritis Nodosa Transmural Necrotizing Vasculitis and Sparing of Lungs.",
+    "keyPoints": [
+      "Polyarteritis Nodosa Transmural Necrotizing Vasculitis and Sparing of Lungs",
+      "Hepatitis B + mononeuritis multiplex + microaneurysms + fibrinoid necrosis of medium arteries = Polyarteritis nodosa -> Characteristically spares pulmonary circulation."
+    ],
+    "references": [
+      {
+        "label": "Jennette JC, Falk RJ, Bacon PA, et al. 2012 revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides. Arthritis Rheum. 2013;65(1):1-11. PMID: 23045170.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23045170/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0778",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "Theophylline PDE Inhibition and CYP1A2 Ciprofloxacin Interaction",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old woman with severe chronic obstructive pulmonary disease (COPD) maintained on oral theophylline 300 mg twice daily and inhaled fluticasone/salmeterol presents to an urgent care clinic with dysuria and frequency. She is prescribed a 7-day course of oral ciprofloxacin for an uncomplicated urinary tract infection. Three days after starting ciprofloxacin, she is brought to the emergency department for severe persistent nausea, intractable vomiting, headache, and generalized tremulousness. While in the waiting room, she experiences a 3-minute generalized tonic-clonic seizure. Continuous cardiac telemetry reveals multifocal atrial tachycardia and frequent polymorphic ventricular premature complexes. Serum theophylline level is markedly toxic at 38 mcg/mL (therapeutic range 10-20 mcg/mL). Which of the following pharmacokinetic mechanisms explains the life-threatening drug toxicity observed in this patient?",
+    "options": [
+      {
+        "text": "Direct displacement of theophylline from plasma albumin binding sites by ciprofloxacin",
+        "correct": false,
+        "explanation": "Theophylline is only moderately protein bound (~40%); protein displacement does not produce severe systemic toxicity compared to metabolic enzyme inhibition."
+      },
+      {
+        "text": "Competitive inhibition of the renal organic anion transporter (OAT1) by fluoroquinolones",
+        "correct": false,
+        "explanation": "Theophylline is metabolized by the liver, with < 10% excreted unchanged by the kidneys; renal transporter inhibition does not significantly alter its clearance."
+      },
+      {
+        "text": "Inhibition of hepatic cytochrome P450 1A2 (CYP1A2) by ciprofloxacin markedly impairing theophylline clearance",
+        "correct": true,
+        "explanation": "THEOPHYLLINE is a methylxanthine bronchodilator that acts through two primary cellular mechanisms: (1) NON-SELECTIVE INHIBITION OF PHOSPHODIESTERASE (PDE), particularly PDE3 and PDE4, which increases intracellular cyclic adenosine monophosphate (cAMP) in bronchial smooth muscle, promoting bronchodilation; and (2) COMPETITIVE ANTAGONISM OF CELLULAR ADENOSINE RECEPTORS (A1 and A2), which counteracts adenosine-mediated bronchoconstriction and histamine release. Theophylline has a remarkably NARROW THERAPEUTIC INDEX (therapeutic range 10-20 mcg/mL; toxicity occurs > 20 mcg/mL, severe toxicity > 30 mcg/mL). It is eliminated almost entirely by hepatic metabolism via CYTOCHROME P450 1A2 (CYP1A2). Co-administration of CIPROFLOXACIN (a potent inhibitor of CYP1A2) profoundly impairs theophylline hepatic clearance, dramatically prolonging its half-life and doubling or tripling serum concentrations. Severe theophylline toxicity manifests with intractable vomiting, severe cardiac tachyarrhythmias (multifocal atrial tachycardia, ventricular tachycardia/fibrillation driven by adenosine receptor antagonism and phosphodiesterase inhibition), and REFRACTORY SEIZURES, which carry high mortality."
+      },
+      {
+        "text": "Synergistic activation of brainstem GABA-A receptors producing paradoxical excitotoxicity",
+        "correct": false,
+        "explanation": "Theophylline is a competitive antagonist of adenosine receptors and an indirect GABA antagonist, which lowers the seizure threshold; it does not activate GABA-A receptors."
+      },
+      {
+        "text": "Induction of intestinal P-glycoprotein efflux pumps accelerating drug reabsorption",
+        "correct": false,
+        "explanation": "Induction of P-glycoprotein would DECREASE systemic drug absorption and bioavailability, not produce massive toxic overdose."
+      }
+    ],
+    "explanation": "THEOPHYLLINE is a methylxanthine bronchodilator that acts through two primary cellular mechanisms: (1) NON-SELECTIVE INHIBITION OF PHOSPHODIESTERASE (PDE), particularly PDE3 and PDE4, which increases intracellular cyclic adenosine monophosphate (cAMP) in bronchial smooth muscle, promoting bronchodilation; and (2) COMPETITIVE ANTAGONISM OF CELLULAR ADENOSINE RECEPTORS (A1 and A2), which counteracts adenosine-mediated bronchoconstriction and histamine release. Theophylline has a remarkably NARROW THERAPEUTIC INDEX (therapeutic range 10-20 mcg/mL; toxicity occurs > 20 mcg/mL, severe toxicity > 30 mcg/mL). It is eliminated almost entirely by hepatic metabolism via CYTOCHROME P450 1A2 (CYP1A2). Co-administration of CIPROFLOXACIN (a potent inhibitor of CYP1A2) profoundly impairs theophylline hepatic clearance, dramatically prolonging its half-life and doubling or tripling serum concentrations. Severe theophylline toxicity manifests with intractable vomiting, severe cardiac tachyarrhythmias (multifocal atrial tachycardia, ventricular tachycardia/fibrillation driven by adenosine receptor antagonism and phosphodiesterase inhibition), and REFRACTORY SEIZURES, which carry high mortality. Theophylline toxicity (seizures, arrhythmias) precipitated by ciprofloxacin = Ciprofloxacin inhibits CYP1A2, shutting down theophylline hepatic clearance.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Theophylline PDE Inhibition and CYP1A2 Ciprofloxacin Interaction.",
+    "keyPoints": [
+      "Theophylline PDE Inhibition and CYP1A2 Ciprofloxacin Interaction",
+      "Theophylline toxicity (seizures, arrhythmias) precipitated by ciprofloxacin = Ciprofloxacin inhibits CYP1A2, shutting down theophylline hepatic clearance."
+    ],
+    "references": [
+      {
+        "label": "Barnes PJ. Theophylline. Pharmaceuticals (Basel). 2010;3(3):725-747. PMID: 27713274.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27713274/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0779",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Cryptococcus Neoformans Polysaccharide Capsule and Virulence",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 38-year-old man with advanced HIV infection (CD4+ T-cell count 38/microL) presents with a 2-week history of low-grade fever, progressive frontal headache, and subtle cognitive slowing. Physical examination reveals neck stiffness with negative Kernig and Brudzinski signs. Funduscopy demonstrates mild bilateral papilledema without focal neurological deficits. Lumbar puncture reveals an elevated opening pressure of 280 mm H2O. Cerebrospinal fluid analysis demonstrates: WBC 85/microL with 92% lymphocytes, protein 110 mg/dL, and glucose 28 mg/dL. Microscopic examination of CSF with India ink preparation reveals narrow-based budding yeast cells surrounded by large, clear, unstained spherical halos. Mucicarmine staining of the CSF sediment confirms bright ruby-red capsular staining. Which of the following structural components is the primary virulence factor responsible for the unstained halo and immune evasion in this pathogen?",
+    "options": [
+      {
+        "text": "A filamentous surface M protein that degrades complement factor C3b",
+        "correct": false,
+        "explanation": "M protein is the major antiphagocytic virulence factor of Streptococcus pyogenes (Group A Strep), not a fungal pathogen."
+      },
+      {
+        "text": "A dimorphic thermal phase transition forming branching hyphae with pseudohyphae at 37°C",
+        "correct": false,
+        "explanation": "Cryptococcus is NOT dimorphic; it exists strictly as an encapsulated budding yeast at both environmental (25°C) and physiological (37°C) temperatures."
+      },
+      {
+        "text": "Surface lipoarabinomannan (LAM) that blocks phagolysosomal maturation",
+        "correct": false,
+        "explanation": "Lipoarabinomannan is a glycolipid component of Mycobacterium tuberculosis cell walls, not fungal capsular polysaccharide."
+      },
+      {
+        "text": "A thick, antiphagocytic glucuronoxylomannan (GXM) polysaccharide capsule",
+        "correct": true,
+        "explanation": "CRYPTOCOCCUS NEOFORMANS is an encapsulated, opportunistic, basidiomycetous yeast found ubiquitously in soil enriched with PIGEON DROPPINGS. Infection is acquired by inhalation of dried aerosolized basidiospores into the lungs. In immunocompromised patients (particularly HIV/AIDS with CD4 < 100/microL), it disseminates hematogenously to the central nervous system, causing subacute meningoencephalitis. Its PRIMARY AND INDISPENSABLE VIRULENCE FACTOR is a massive, thick POLYSACCHARIDE CAPSULE composed predominantly of GLUCURONOXYLOMANNAN (GXM). The GXM capsule has multiple immunomodulatory effects: (1) It mechanically masks cell wall antigens, preventing recognition by pattern-recognition receptors; (2) Its negative electrostatic charge repels phagocytes, providing strong ANTIPHAGOCYTIC activity; (3) It depletes complement components and inhibits leukocyte migration into the subarachnoid space (accounting for the often mild inflammatory pleocytosis in CSF). On microscopy: INDIA INK negative staining outlines the capsule as a wide, transparent unstained halo around narrow-based budding round yeasts because the large polysaccharide meshwork excludes colloidal carbon particles. MUCICARMINE selectively stains the acidic polysaccharide capsule bright RED, and FONTANA-MASSON stains fungal melanin brown/black (Cryptococcus produces melanin via laccase, another major virulence factor). It is urease positive."
+      },
+      {
+        "text": "Extracellular pyocyanin pigment generating reactive oxygen intermediates",
+        "correct": false,
+        "explanation": "Pyocyanin is a blue-green redox toxin produced by Pseudomonas aeruginosa, not Cryptococcus."
+      }
+    ],
+    "explanation": "CRYPTOCOCCUS NEOFORMANS is an encapsulated, opportunistic, basidiomycetous yeast found ubiquitously in soil enriched with PIGEON DROPPINGS. Infection is acquired by inhalation of dried aerosolized basidiospores into the lungs. In immunocompromised patients (particularly HIV/AIDS with CD4 < 100/microL), it disseminates hematogenously to the central nervous system, causing subacute meningoencephalitis. Its PRIMARY AND INDISPENSABLE VIRULENCE FACTOR is a massive, thick POLYSACCHARIDE CAPSULE composed predominantly of GLUCURONOXYLOMANNAN (GXM). The GXM capsule has multiple immunomodulatory effects: (1) It mechanically masks cell wall antigens, preventing recognition by pattern-recognition receptors; (2) Its negative electrostatic charge repels phagocytes, providing strong ANTIPHAGOCYTIC activity; (3) It depletes complement components and inhibits leukocyte migration into the subarachnoid space (accounting for the often mild inflammatory pleocytosis in CSF). On microscopy: INDIA INK negative staining outlines the capsule as a wide, transparent unstained halo around narrow-based budding round yeasts because the large polysaccharide meshwork excludes colloidal carbon particles. MUCICARMINE selectively stains the acidic polysaccharide capsule bright RED, and FONTANA-MASSON stains fungal melanin brown/black (Cryptococcus produces melanin via laccase, another major virulence factor). It is urease positive. HIV CD4 < 50 + headache + high opening pressure + India ink halo + red mucicarmine = Cryptococcus neoformans -> Glucuronoxylomannan polysaccharide capsule.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cryptococcus Neoformans Polysaccharide Capsule and Virulence.",
+    "keyPoints": [
+      "Cryptococcus Neoformans Polysaccharide Capsule and Virulence",
+      "HIV CD4 < 50 + headache + high opening pressure + India ink halo + red mucicarmine = Cryptococcus neoformans -> Glucuronoxylomannan polysaccharide capsule."
+    ],
+    "references": [
+      {
+        "label": "Casadevall A, Perfect JR. Cryptococcus neoformans. American Society of Microbiology Press. 1998;1:1-40. PMID: 9789833.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9789833/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0780",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Prerenal Azotemia vs Acute Tubular Necrosis FENa and Tubular Transport",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 72-year-old man hospitalized for severe bacterial sepsis secondary to an intra-abdominal abscess develops oliguria, with urine output decreasing to 15 mL/hr over the past 12 hours. His mean arterial pressure has hovered between 55 and 62 mm Hg despite intravenous fluids. Serum chemistries show: BUN 56 mg/dL and serum creatinine 3.2 mg/dL (baseline 1.0 mg/dL, BUN/Cr ratio 17.5). Urinalysis reveals numerous muddy brown granular casts and renal tubular epithelial cells. Spot urine chemistries show: urine sodium (UNa) 68 mEq/L, urine creatinine 42 mg/dL, and calculated fractional excretion of sodium (FENa) is 3.6% (normal prerenal < 1%). Which of the following pathophysiological mechanisms accounts for the elevated fractional excretion of sodium and inability to concentrate urine in this patient?",
+    "options": [
+      {
+        "text": "Selective upregulation of the apical sodium-chloride cotransporter (NCCT) in the distal convoluted tubule",
+        "correct": false,
+        "explanation": "In ATN, tubular transport is damaged and impaired, not upregulated; NCCT upregulation would decrease urinary sodium excretion."
+      },
+      {
+        "text": "Massive sympathetic stimulation of the juxtaglomerular apparatus suppressing all proximal bicarbonate reabsorption",
+        "correct": false,
+        "explanation": "Sympathetic stimulation activates alpha-1 and beta-1 receptors to INCREASE proximal sodium/bicarbonate reabsorption and increase renin release, which occurs in prerenal states."
+      },
+      {
+        "text": "Selective podocyte foot process detachment creating large paracellular gaps that overwhelm tubular resorptive capacity",
+        "correct": false,
+        "explanation": "Podocyte detachment is a mechanism of glomerular nephrotic diseases (FSGS), not ischemic tubular necrosis."
+      },
+      {
+        "text": "Hyperactivation of the collecting duct epithelial sodium channel (ENaC) driven by secondary hyperaldosteronism",
+        "correct": false,
+        "explanation": "ENaC hyperactivation reabsorbs sodium and lowers FENa (as seen in prerenal azotemia); in ATN, tubular injury prevents sodium conservation despite high aldosterone."
+      },
+      {
+        "text": "Ischemic and toxic necrosis of proximal tubular and thick ascending limb epithelial cells causing loss of sodium reabsorptive capacity and cell sloughing",
+        "correct": true,
+        "explanation": "ACUTE KIDNEY INJURY (AKI) must be differentiated into PRERENAL AZOTEMIA and INTRINSIC RENAL FAILURE (most commonly ACUTE TUBULAR NECROSIS, ATN). (1) In PRERENAL AZOTEMIA, renal perfusion is reduced, but tubular epithelial cells are metabolically intact. In response to hypoperfusion, the renin-angiotensin-aldosterone system and vasopressin are maximally activated: aldosterone stimulates vigorous sodium reabsorption in the collecting ducts, and proximal tubules reabsorb urea and sodium avidly. Consequently, urine is concentrated (Urine Osm > 500 mOsm/kg), urine sodium is very low (UNa < 20 mEq/L), FRACTIONAL EXCRETION OF SODIUM (FENa) is < 1%, and BUN/Cr ratio is elevated (> 20:1) due to passive urea reabsorption. (2) In ISCHEMIC ACUTE TUBULAR NECROSIS (ATN), prolonged hypoperfusion causes cellular ischemia, depletion of intracellular ATP, cytoskeletal breakdown, and detachment of tubular epithelial cells from the basement membrane. The PROXIMAL CONVOLUTED TUBULE and the MEDULLARY THICK ASCENDING LIMB are the most vulnerable due to their high baseline metabolic demand. Dead tubular cells slough into the lumen, forming obstructing MUDDY BROWN GRANULAR CASTS. Injured tubular cells lose their Na+/K+-ATPase polarity and CANNOT REABSORB SODIUM. As a result, sodium is wasted into the urine (UNa > 40 mEq/L, FENa > 2%), and the medullary concentration gradient is washed out, producing ISOMOTIC URINE (Urine Osm 300-350 mOsm/kg) and BUN/Cr < 15:1."
+      }
+    ],
+    "explanation": "ACUTE KIDNEY INJURY (AKI) must be differentiated into PRERENAL AZOTEMIA and INTRINSIC RENAL FAILURE (most commonly ACUTE TUBULAR NECROSIS, ATN). (1) In PRERENAL AZOTEMIA, renal perfusion is reduced, but tubular epithelial cells are metabolically intact. In response to hypoperfusion, the renin-angiotensin-aldosterone system and vasopressin are maximally activated: aldosterone stimulates vigorous sodium reabsorption in the collecting ducts, and proximal tubules reabsorb urea and sodium avidly. Consequently, urine is concentrated (Urine Osm > 500 mOsm/kg), urine sodium is very low (UNa < 20 mEq/L), FRACTIONAL EXCRETION OF SODIUM (FENa) is < 1%, and BUN/Cr ratio is elevated (> 20:1) due to passive urea reabsorption. (2) In ISCHEMIC ACUTE TUBULAR NECROSIS (ATN), prolonged hypoperfusion causes cellular ischemia, depletion of intracellular ATP, cytoskeletal breakdown, and detachment of tubular epithelial cells from the basement membrane. The PROXIMAL CONVOLUTED TUBULE and the MEDULLARY THICK ASCENDING LIMB are the most vulnerable due to their high baseline metabolic demand. Dead tubular cells slough into the lumen, forming obstructing MUDDY BROWN GRANULAR CASTS. Injured tubular cells lose their Na+/K+-ATPase polarity and CANNOT REABSORB SODIUM. As a result, sodium is wasted into the urine (UNa > 40 mEq/L, FENa > 2%), and the medullary concentration gradient is washed out, producing ISOMOTIC URINE (Urine Osm 300-350 mOsm/kg) and BUN/Cr < 15:1. Oliguria + muddy brown granular casts + high urine Na (68) + FENa 3.6% = Acute tubular necrosis -> Sloughed necrotic tubular cells lose Na+ reabsorptive capacity.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Prerenal Azotemia vs Acute Tubular Necrosis FENa and Tubular Transport.",
+    "keyPoints": [
+      "Prerenal Azotemia vs Acute Tubular Necrosis FENa and Tubular Transport",
+      "Oliguria + muddy brown granular casts + high urine Na (68) + FENa 3.6% = Acute tubular necrosis -> Sloughed necrotic tubular cells lose Na+ reabsorptive capacity."
+    ],
+    "references": [
+      {
+        "label": "Schrier RW, Wang W, Poole B, Mitra A. Acute renal failure: definitions, diagnosis, pathogenesis, and therapy. J Clin Invest. 2004;114(1):5-14. PMID: 15232604.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15232604/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0781",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Paroxysmal Nocturnal Hemoglobinuria PIGA Mutation and CD55/CD59 Loss",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old woman presents with severe fatigue and dark, cola-colored urine that is most noticeable on her first morning void. Two months ago, she was diagnosed with an unprovoked deep vein thrombosis of the right hepatic vein (Budd-Chiari syndrome) and placed on anticoagulation. Laboratory evaluation reveals: hemoglobin 7.8 g/dL, reticulocytes 9.2%, total bilirubin 3.8 mg/dL, direct bilirubin 0.5 mg/dL, serum LDH 2,450 U/L (normal 140-280 U/L), and serum haptoglobin < 10 mg/dL. Direct and indirect antiglobulin (Coombs) tests are negative. Urinalysis reveals positive blood on dipstick with only 0-2 RBCs per high-power field (hemoglobinuria), and Prussian blue staining of the urinary sediment demonstrates abundant blue-stained hemosiderin granules in sloughed tubular epithelial cells. Flow cytometry of peripheral blood granulocytes and erythrocytes confirms a marked deficiency of CD55 (decay-accelerating factor) and CD59 (membrane attack complex-inhibitory protein). Which of the following genetic alterations is the underlying cause of this patient's hemolytic anemia and thrombosis?",
+    "options": [
+      {
+        "text": "An acquired somatic mutation in the X-linked PIGA gene in a hematopoietic stem cell preventing biosynthesis of the glycosylphosphatidylinositol (GPI) anchor",
+        "correct": true,
+        "explanation": "PAROXYSMAL NOCTURNAL HEMOGLOBINURIA (PNH) is an acquired clonal hematopoietic stem cell disorder caused by a somatic mutation in the X-linked PIGA (phosphatidylinositol glycan class A) gene. PIGA encodes an enzyme essential for the first step in the biosynthesis of GLYCOSYLPHOSPHATIDYLINOSITOL (GPI) ANCHORS. GPI anchors are glycolipid structures that tether numerous regulatory proteins to eukaryotic cell surfaces. Among the lost GPI-anchored proteins, two critical complement regulatory proteins are absent: (1) CD55 (DECAY-ACCELERATING FACTOR, DAF), which accelerates the decay and dissociation of C3 and C5 convertases; and (2) CD59 (MEMBRANE ATTACK COMPLEX-INHIBITORY PROTEIN / MAC-IP), which binds complement components C8 and C9, physically preventing polymerisation of the C5b-9 MEMBRANE ATTACK COMPLEX (MAC). During sleep, mild physiological hypoventilation produces slight respiratory acidosis and complement activation. Without CD55 and CD59, erythrocytes are exquisitely sensitive to complement-mediated INTRAVASCULAR LYSIS. Intravascular hemolysis releases free hemoglobin that depletes nitric oxide (causing smooth muscle spasm, dysphagia, and erectile dysfunction) and spills into urine (morning hemoglobinuria and hemosiderinuria). Platelet lysis and free hemoglobin release also trigger catastrophic VENOUS THROMBOSIS at unusual sites (hepatic vein/Budd-Chiari syndrome, mesenteric, portal, cerebral veins), the leading cause of death. Diagnosis is confirmed by FLOW CYTOMETRY demonstrating absence of CD55/CD59 or FLAER (fluorescent aerolysin) binding. Treatment includes ECULIZUMAB (monoclonal antibody targeting complement C5)."
+      },
+      {
+        "text": "A germline autosomal dominant mutation in the ANK1 gene disrupting erythrocyte cytoskeletal attachment",
+        "correct": false,
+        "explanation": "ANK1 mutations cause Hereditary Spherocytosis, characterized by extravascular hemolysis in the spleen and positive EMA binding, not intravascular complement-mediated lysis or PIGA-dependent thrombosis."
+      },
+      {
+        "text": "A reciprocal chromosomal translocation t(11;14)(q13;q32) overexpressing cyclin D1",
+        "correct": false,
+        "explanation": "t(11;14) translocation causes Mantle Cell Lymphoma by driving cyclin D1 expression, not complement hemolysis."
+      },
+      {
+        "text": "An acquired activating point mutation in the JAK2 tyrosine kinase gene (V617F)",
+        "correct": false,
+        "explanation": "JAK2 V617F causes myeloproliferative neoplasms (polycythemia vera, essential thrombocythemia), characterized by erythrocytosis or thrombocytosis, not CD55/CD59 absence."
+      },
+      {
+        "text": "A homozygous point mutation in the UGT1A1 gene promoter region reducing bilirubin conjugation",
+        "correct": false,
+        "explanation": "UGT1A1 promoter mutations cause Gilbert syndrome, a benign cause of unconjugated hyperbilirubinemia without hemolysis, anemia, or hemoglobinuria."
+      }
+    ],
+    "explanation": "PAROXYSMAL NOCTURNAL HEMOGLOBINURIA (PNH) is an acquired clonal hematopoietic stem cell disorder caused by a somatic mutation in the X-linked PIGA (phosphatidylinositol glycan class A) gene. PIGA encodes an enzyme essential for the first step in the biosynthesis of GLYCOSYLPHOSPHATIDYLINOSITOL (GPI) ANCHORS. GPI anchors are glycolipid structures that tether numerous regulatory proteins to eukaryotic cell surfaces. Among the lost GPI-anchored proteins, two critical complement regulatory proteins are absent: (1) CD55 (DECAY-ACCELERATING FACTOR, DAF), which accelerates the decay and dissociation of C3 and C5 convertases; and (2) CD59 (MEMBRANE ATTACK COMPLEX-INHIBITORY PROTEIN / MAC-IP), which binds complement components C8 and C9, physically preventing polymerisation of the C5b-9 MEMBRANE ATTACK COMPLEX (MAC). During sleep, mild physiological hypoventilation produces slight respiratory acidosis and complement activation. Without CD55 and CD59, erythrocytes are exquisitely sensitive to complement-mediated INTRAVASCULAR LYSIS. Intravascular hemolysis releases free hemoglobin that depletes nitric oxide (causing smooth muscle spasm, dysphagia, and erectile dysfunction) and spills into urine (morning hemoglobinuria and hemosiderinuria). Platelet lysis and free hemoglobin release also trigger catastrophic VENOUS THROMBOSIS at unusual sites (hepatic vein/Budd-Chiari syndrome, mesenteric, portal, cerebral veins), the leading cause of death. Diagnosis is confirmed by FLOW CYTOMETRY demonstrating absence of CD55/CD59 or FLAER (fluorescent aerolysin) binding. Treatment includes ECULIZUMAB (monoclonal antibody targeting complement C5). Dark morning urine + Budd-Chiari thrombosis + intravascular hemolysis + absent CD55/CD59 = PNH -> Somatic PIGA mutation (loss of GPI anchor).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Paroxysmal Nocturnal Hemoglobinuria PIGA Mutation and CD55/CD59 Loss.",
+    "keyPoints": [
+      "Paroxysmal Nocturnal Hemoglobinuria PIGA Mutation and CD55/CD59 Loss",
+      "Dark morning urine + Budd-Chiari thrombosis + intravascular hemolysis + absent CD55/CD59 = PNH -> Somatic PIGA mutation (loss of GPI anchor)."
+    ],
+    "references": [
+      {
+        "label": "Brodsky RA. Paroxysmal nocturnal hemoglobinuria. Blood. 2014;124(18):2804-2811. PMID: 25237200.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25237200/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0782",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Nervous System",
+    "topic": "Jugular Foramen Syndrome Vernet Syndrome CN IX X XI Anatomy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old woman presents with progressive difficulty swallowing liquids and solid foods, accompanied by hoarseness and dull pain behind her right ear. On physical examination, she has a nasal quality to her voice and coughs upon swallowing water. Neurological examination reveals: loss of taste on the posterior one-third of the right side of her tongue, absence of the right gag reflex when the right posterior pharyngeal wall is touched (with intact gag reflex upon touching the left side), uvula deviation to the left when she phonates 'ah', and weakness and atrophy of the right trapezius and sternocleidomastoid muscles (inability to shrug her right shoulder against resistance and weakness turning her head to the left). Sensation to the face and corneal reflexes are completely intact, and tongue protrusion is midline without atrophy. High-resolution MRI of the skull base reveals an expansile, contrast-enhancing mass centered within a specific skull base aperture. Which of the following cranial foramina is occluded by this tumor?",
+    "options": [
+      {
+        "text": "Hypoglossal canal (anterior condyloid foramen)",
+        "correct": false,
+        "explanation": "The hypoglossal canal transmits ONLY Cranial Nerve XII; lesions here cause isolated tongue atrophy, fasciculations, and deviation toward the side of the lesion."
+      },
+      {
+        "text": "Jugular foramen (foramen lacerum posterius)",
+        "correct": true,
+        "explanation": "VERNET SYNDROME (JUGULAR FORAMEN SYNDROME) is caused by a mass lesion (most commonly a GLOMUS JUGULARE TUMOR / paraganglioma, schwannoma, or skull base meningioma) compressing the cranial nerves that exit the skull base through the JUGULAR FORAMEN: (1) CRANIAL NERVE IX (GLOSSOPHARYNGEAL NERVE): mediates sensory innervation and taste to the posterior one-third of the tongue, visceral sensation from the carotid sinus/body, and the AFFERENT limb of the gag reflex. Compression causes loss of taste on the posterior 1/3 of the tongue and loss of the ipsilateral gag reflex. (2) CRANIAL NERVE X (VAGUS NERVE): provides motor innervation to the pharyngeal constrictors, levator veli palatini, and all intrinsic laryngeal muscles (via recurrent and superior laryngeal nerves), as well as the EFFERENT limb of the gag reflex. Compression causes hoarseness (vocal cord paralysis), dysphagia, and deviation of the uvula TOWARD THE OPPOSITE (NORMAL) SIDE because the unopposed contralateral levator veli palatini pulls the uvula away from the paralyzed side. (3) CRANIAL NERVE XI (ACCESSORY NERVE): provides somatic motor innervation to the STERNOCLEIDOMASTOID (SCM) and TRAPEZIUS muscles. Compression causes weakness shrugging the ipsilateral shoulder (trapezius) and difficulty turning the head to the CONTRALATERAL side (SCM). Cranial nerve XII exits through the hypoglossal canal; because the tongue protrudes midline, CN XII is spared."
+      },
+      {
+        "text": "Internal acoustic meatus",
+        "correct": false,
+        "explanation": "The internal acoustic meatus transmits Cranial Nerves VII (facial) and VIII (vestibulocochlear); lesions here (acoustic neuroma) cause facial palsy, sensorineural hearing loss, and tinnitus."
+      },
+      {
+        "text": "Foramen ovale in the greater wing of the sphenoid",
+        "correct": false,
+        "explanation": "Foramen ovale transmits the mandibular division of the trigeminal nerve (V3); lesions cause sensory loss over the lower jaw and weakness of the muscles of mastication."
+      },
+      {
+        "text": "Superior orbital fissure",
+        "correct": false,
+        "explanation": "The superior orbital fissure transmits Cranial Nerves III, IV, V1, and VI; compression causes ophthalmoplegia, ptosis, and forehead numbness (superior orbital fissure syndrome)."
+      }
+    ],
+    "explanation": "VERNET SYNDROME (JUGULAR FORAMEN SYNDROME) is caused by a mass lesion (most commonly a GLOMUS JUGULARE TUMOR / paraganglioma, schwannoma, or skull base meningioma) compressing the cranial nerves that exit the skull base through the JUGULAR FORAMEN: (1) CRANIAL NERVE IX (GLOSSOPHARYNGEAL NERVE): mediates sensory innervation and taste to the posterior one-third of the tongue, visceral sensation from the carotid sinus/body, and the AFFERENT limb of the gag reflex. Compression causes loss of taste on the posterior 1/3 of the tongue and loss of the ipsilateral gag reflex. (2) CRANIAL NERVE X (VAGUS NERVE): provides motor innervation to the pharyngeal constrictors, levator veli palatini, and all intrinsic laryngeal muscles (via recurrent and superior laryngeal nerves), as well as the EFFERENT limb of the gag reflex. Compression causes hoarseness (vocal cord paralysis), dysphagia, and deviation of the uvula TOWARD THE OPPOSITE (NORMAL) SIDE because the unopposed contralateral levator veli palatini pulls the uvula away from the paralyzed side. (3) CRANIAL NERVE XI (ACCESSORY NERVE): provides somatic motor innervation to the STERNOCLEIDOMASTOID (SCM) and TRAPEZIUS muscles. Compression causes weakness shrugging the ipsilateral shoulder (trapezius) and difficulty turning the head to the CONTRALATERAL side (SCM). Cranial nerve XII exits through the hypoglossal canal; because the tongue protrudes midline, CN XII is spared. Loss of gag reflex (IX) + uvula deviates left (right X) + right trapezius/SCM weak (XI) + midline tongue = Jugular foramen syndrome (Vernet syndrome).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Jugular Foramen Syndrome Vernet Syndrome CN IX X XI Anatomy.",
+    "keyPoints": [
+      "Jugular Foramen Syndrome Vernet Syndrome CN IX X XI Anatomy",
+      "Loss of gag reflex (IX) + uvula deviates left (right X) + right trapezius/SCM weak (XI) + midline tongue = Jugular foramen syndrome (Vernet syndrome)."
+    ],
+    "references": [
+      {
+        "label": "Erickson D, Kudva YC, Ebersold MJ, et al. Benign paragangliomas: clinical presentation and treatment outcomes in 236 patients. J Clin Endocrinol Metab. 2001;86(11):5210-5216. PMID: 11701680.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11701680/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0783",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Parkinson Disease Pharmacotherapy COMT and DOPA Decarboxylase Inhibition",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old man with advanced Parkinson disease maintained on combination carbidopa-levodopa experiences debilitating motor fluctuations. He describes predictable 'end-of-dose wearing off', where tremors, severe muscular rigidity, and bradykinesia re-emerge 2.5 hours after each medication dose. To smooth out his motor responses and prolong levodopa efficacy, his neurologist adds oral entacapone to each dose of carbidopa-levodopa. Which of the following biochemical mechanisms explains how entacapone extends the duration of action and central availability of levodopa?",
+    "options": [
+      {
+        "text": "Direct allosteric activation of post-synaptic dopamine D2 receptors in the striatum",
+        "correct": false,
+        "explanation": "Direct stimulation of post-synaptic dopamine receptors is the mechanism of dopamine agonists (pramipexole, ropinirole), not COMT inhibitors."
+      },
+      {
+        "text": "Irreversible inhibition of central monoamine oxidase type B (MAO-B) preventing intraneuronal dopamine breakdown",
+        "correct": false,
+        "explanation": "Central MAO-B inhibition is the mechanism of selegiline and rasagiline, not entacapone."
+      },
+      {
+        "text": "Reversible inhibition of peripheral catechol-O-methyltransferase (COMT) preventing the peripheral conversion of levodopa to 3-O-methyldopa (3-OMD)",
+        "correct": true,
+        "explanation": "In the treatment of Parkinson disease, LEVODOPA is the metabolic precursor to dopamine. Dopamine itself cannot cross the blood-brain barrier (BBB), whereas levodopa crosses via the large neutral amino acid transporter (LAT1). When levodopa is administered alone, > 95% is rapidly decarboxylated in the peripheral tissues to dopamine by DOPA DECARBOXYLASE (aromatic L-amino acid decarboxylase), causing severe peripheral side effects (nausea, vomiting, orthostatic hypotension, cardiac arrhythmias) with < 1% reaching the brain. CARBIDOPA is a PERIPHERAL DOPA DECARBOXYLASE INHIBITOR that does not cross the BBB; co-administering carbidopa blocks peripheral dopamine synthesis, dramatically increasing the fraction of levodopa available to enter the central nervous system. However, when peripheral DOPA decarboxylase is blocked, levodopa is shunted into an alternative peripheral metabolic pathway mediated by CATECHOL-O-METHYLTRANSFERASE (COMT), which methylates levodopa into 3-O-METHYLDOPA (3-OMD). 3-OMD not only wastes levodopa, but directly competes with levodopa for LAT1 transport across the BBB. ENTACAPONE is a selective, reversible PERIPHERAL COMT INHIBITOR. Co-administering entacapone prevents 3-OMD formation, prolonging levodopa plasma half-life, smoothing out plasma levodopa fluctuations, and increasing central brain delivery. In contrast, TOLCAPONE inhibits BOTH peripheral and central COMT, but is rarely used due to a black-box warning for fatal fulminant hepatotoxicity."
+      },
+      {
+        "text": "Blockade of central presynaptic dopamine reuptake transporters (DAT) in the substantia nigra",
+        "correct": false,
+        "explanation": "DAT reuptake blockade is mediated by bupropion, methylphenidate, or amantadine, not entacapone."
+      },
+      {
+        "text": "Antagonism of central muscarinic acetylcholine receptors to restore dopamine-acetylcholine balance",
+        "correct": false,
+        "explanation": "Central muscarinic antagonism is the mechanism of trihexyphenidyl and benztropine, used primarily for tremor-predominant disease."
+      }
+    ],
+    "explanation": "In the treatment of Parkinson disease, LEVODOPA is the metabolic precursor to dopamine. Dopamine itself cannot cross the blood-brain barrier (BBB), whereas levodopa crosses via the large neutral amino acid transporter (LAT1). When levodopa is administered alone, > 95% is rapidly decarboxylated in the peripheral tissues to dopamine by DOPA DECARBOXYLASE (aromatic L-amino acid decarboxylase), causing severe peripheral side effects (nausea, vomiting, orthostatic hypotension, cardiac arrhythmias) with < 1% reaching the brain. CARBIDOPA is a PERIPHERAL DOPA DECARBOXYLASE INHIBITOR that does not cross the BBB; co-administering carbidopa blocks peripheral dopamine synthesis, dramatically increasing the fraction of levodopa available to enter the central nervous system. However, when peripheral DOPA decarboxylase is blocked, levodopa is shunted into an alternative peripheral metabolic pathway mediated by CATECHOL-O-METHYLTRANSFERASE (COMT), which methylates levodopa into 3-O-METHYLDOPA (3-OMD). 3-OMD not only wastes levodopa, but directly competes with levodopa for LAT1 transport across the BBB. ENTACAPONE is a selective, reversible PERIPHERAL COMT INHIBITOR. Co-administering entacapone prevents 3-OMD formation, prolonging levodopa plasma half-life, smoothing out plasma levodopa fluctuations, and increasing central brain delivery. In contrast, TOLCAPONE inhibits BOTH peripheral and central COMT, but is rarely used due to a black-box warning for fatal fulminant hepatotoxicity. Carbidopa-levodopa wearing off + Entacapone added = Peripheral COMT inhibition -> Prevents levodopa conversion to 3-OMD, prolonging levodopa half-life.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Parkinson Disease Pharmacotherapy COMT and DOPA Decarboxylase Inhibition.",
+    "keyPoints": [
+      "Parkinson Disease Pharmacotherapy COMT and DOPA Decarboxylase Inhibition",
+      "Carbidopa-levodopa wearing off + Entacapone added = Peripheral COMT inhibition -> Prevents levodopa conversion to 3-OMD, prolonging levodopa half-life."
+    ],
+    "references": [
+      {
+        "label": "Kaakkola S. Clinical pharmacology, therapeutic use and potential of COMT inhibitors in Parkinson's disease. Drugs. 2000;59(6):1233-1250. PMID: 10882160.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10882160/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0784",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Homocystinuria vs Marfan Syndrome CBS Deficiency and Thrombosis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 12-year-old boy is brought to the clinic for progressive visual loss, developmental delay, and severe behavioral difficulties. On physical examination, he is unusually tall and thin with long, slender fingers and toes (arachnodactyly), pectus carinatum, and kyphoscoliosis. Slit-lamp biomicroscopy reveals bilateral downward and inward (inferonasal) subluxation of the ocular lenses (ectopia lentis). While undergoing diagnostic evaluation, he suddenly develops right-sided hemiplegia and expressive aphasia. Brain MRI confirms an acute ischemic stroke in the left middle cerebral artery territory. Serum total homocysteine is markedly elevated at 180 micromol/L (normal < 15 micromol/L), and plasma methionine concentration is 6 times the upper limit of normal. Urinalysis reveals positive sodium nitroprusside testing. Which of the following enzymes is deficient in this patient?",
+    "options": [
+      {
+        "text": "Methionine synthase (MS) which requires methylcobalamin (vitamin B12)",
+        "correct": false,
+        "explanation": "Methionine synthase converts homocysteine to methionine; deficiency causes elevated homocysteine with LOW or normal methionine (not 6-fold elevated methionine)."
+      },
+      {
+        "text": "Methylene-tetrahydrofolate reductase (MTHFR) generating 5-methyl-THF",
+        "correct": false,
+        "explanation": "MTHFR deficiency impairs homocysteine remethylation, causing hyperhomocysteinemia with LOW methionine and microcephaly, without CBS-type lens dislocation."
+      },
+      {
+        "text": "Fibrillin-1 extracellular matrix structural glycoprotein",
+        "correct": false,
+        "explanation": "FBN1 mutations cause Marfan syndrome, which features upward/outward lens dislocation, aortic root dissection, normal intelligence, and normal plasma homocysteine."
+      },
+      {
+        "text": "Cystathionine beta-synthase (CBS) which requires pyridoxal phosphate (vitamin B6) as an obligatory cofactor",
+        "correct": true,
+        "explanation": "CLASSIC HOMOCYSTINURIA is an autosomal recessive inborn error of sulfur amino acid metabolism caused by deficiency of CYSTATHIONINE BETA-SYNTHASE (CBS). CBS catalyzes the condensation of homocysteine and serine to form cystathionine in the transsulfuration pathway, requiring PYRIDOXAL PHOSPHATE (VITAMIN B6) as an obligatory coenzyme. In CBS deficiency, HOMOCYSTEINE and METHIONINE accumulate massively in plasma and urine, while CYSTEINE becomes an essential amino acid. Homocystinuria shares several physical features with Marfan syndrome (tall slender marfanoid habitus, arachnodactyly, pectus deformities, scoliosis), but is CRUCIALLY DISTINGUISHED BY: (1) INTELLECTUAL DISABILITY / DEVELOPMENTAL DELAY (intellect is completely normal in Marfan syndrome); (2) ECTOPIA LENTIS DIRECTION: lenses sublux DOWNWARD AND INWARD (inferonasally) in homocystinuria, whereas in Marfan syndrome they sublux UPWARD AND OUTWARD (superotemporally); (3) PREMATURE THROMBOEMBOLISM: elevated homocysteine induces severe endothelial injury, platelet activation, and smooth muscle proliferation, predisposing to early, life-threatening arterial and venous thromboses (ischemic strokes, myocardial infarction, pulmonary embolism), the leading cause of early death. Approximately 50% of patients respond to high-dose PYRIDOXINE (VITAMIN B6) therapy combined with dietary methionine restriction and cysteine supplementation."
+      },
+      {
+        "text": "Homogentisate 1,2-dioxygenase in tyrosine degradation",
+        "correct": false,
+        "explanation": "Homogentisate dioxygenase deficiency causes alkaptonuria (dark urine, ochronotic bluish-black pigment in cartilage, arthropathy), not marfanoid habitus or stroke."
+      }
+    ],
+    "explanation": "CLASSIC HOMOCYSTINURIA is an autosomal recessive inborn error of sulfur amino acid metabolism caused by deficiency of CYSTATHIONINE BETA-SYNTHASE (CBS). CBS catalyzes the condensation of homocysteine and serine to form cystathionine in the transsulfuration pathway, requiring PYRIDOXAL PHOSPHATE (VITAMIN B6) as an obligatory coenzyme. In CBS deficiency, HOMOCYSTEINE and METHIONINE accumulate massively in plasma and urine, while CYSTEINE becomes an essential amino acid. Homocystinuria shares several physical features with Marfan syndrome (tall slender marfanoid habitus, arachnodactyly, pectus deformities, scoliosis), but is CRUCIALLY DISTINGUISHED BY: (1) INTELLECTUAL DISABILITY / DEVELOPMENTAL DELAY (intellect is completely normal in Marfan syndrome); (2) ECTOPIA LENTIS DIRECTION: lenses sublux DOWNWARD AND INWARD (inferonasally) in homocystinuria, whereas in Marfan syndrome they sublux UPWARD AND OUTWARD (superotemporally); (3) PREMATURE THROMBOEMBOLISM: elevated homocysteine induces severe endothelial injury, platelet activation, and smooth muscle proliferation, predisposing to early, life-threatening arterial and venous thromboses (ischemic strokes, myocardial infarction, pulmonary embolism), the leading cause of early death. Approximately 50% of patients respond to high-dose PYRIDOXINE (VITAMIN B6) therapy combined with dietary methionine restriction and cysteine supplementation. Marfanoid habitus + inferonasal lens subluxation + intellectual disability + thromboembolic stroke + high Met/Hcy = Homocystinuria -> Cystathionine beta-synthase (B6-dependent) deficiency.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Homocystinuria vs Marfan Syndrome CBS Deficiency and Thrombosis.",
+    "keyPoints": [
+      "Homocystinuria vs Marfan Syndrome CBS Deficiency and Thrombosis",
+      "Marfanoid habitus + inferonasal lens subluxation + intellectual disability + thromboembolic stroke + high Met/Hcy = Homocystinuria -> Cystathionine beta-synthase (B6-dependent) def"
+    ],
+    "references": [
+      {
+        "label": "Mudd SH, Skovby F, Levy HL, et al. The natural history of homocystinuria due to cystathionine beta-synthase deficiency. Am J Hum Genet. 1985;37(1):1-31. PMID: 3914878.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3914878/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0785",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Acute Cellular Allograft Rejection CD8+ T-Cell Tubulitis and Endovasculitis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 42-year-old man who received a deceased-donor renal allograft 5 weeks ago presents for a routine follow-up. He is asymptomatic, but his serum creatinine has risen from a baseline of 1.2 mg/dL to 2.8 mg/dL over the past week. His immunosuppressive maintenance regimen consists of tacrolimus, mycophenolate mofetil, and prednisone; his serum tacrolimus trough concentration is within the target therapeutic range. Physical examination is unremarkable, with a non-tender allograft site. Renal allograft ultrasound shows normal vascular flow without hydronephrosis or renal artery stenosis. A percutaneous allograft core biopsy is performed. Histopathological examination reveals dense interstitial mononuclear inflammatory infiltration composed predominantly of CD8+ T lymphocytes, with lymphocytes actively invading and disrupting the basolateral membranes of renal tubules (tubulitis) and infiltrating beneath the vascular endothelium of interlobular arteries (endothelialitis/endovasculitis). C4d complement staining along peritubular capillaries is negative. Which of the following immunological mechanisms is the primary driver of this allograft dysfunction?",
+    "options": [
+      {
+        "text": "Preformed circulating recipient anti-donor IgG antibodies binding donor capillary endothelial HLA antigens activating the classical complement cascade",
+        "correct": false,
+        "explanation": "Preformed antibodies mediate hyperacute rejection (within minutes) with intravascular thrombosis and graft infarction, not cellular tubulitis at 5 weeks."
+      },
+      {
+        "text": "De novo donor-specific anti-HLA antibodies depositing along peritubular capillaries driving extensive C4d deposition",
+        "correct": false,
+        "explanation": "Acute antibody-mediated (humoral) rejection features de novo donor-specific antibodies, neutrophilic capillaritis, and prominent linear C4d staining on peritubular capillaries, which was negative here."
+      },
+      {
+        "text": "Calcineurin inhibitor toxicity causing arteriolar hyalinosis and irreversible isometric tubular vacuolization",
+        "correct": false,
+        "explanation": "Tacrolimus nephrotoxicity causes afferent arteriolar hyalinosis, isometric vacuolization, and striped fibrosis, without dense lymphocytic tubulitis or endovasculitis."
+      },
+      {
+        "text": "Polyomavirus (BK virus) reactivation causing viral nuclear inclusion bodies within collecting duct epithelium",
+        "correct": false,
+        "explanation": "BK virus nephropathy causes tubulitis with enlarged tubular epithelial nuclei and basophilic 'ground-glass' viral inclusion bodies positive for SV40 staining, not pure cellular rejection."
+      },
+      {
+        "text": "Recipient CD8+ cytotoxic T lymphocytes and CD4+ helper T cells directly recognizing donor foreign human leukocyte antigens (HLA) on graft parenchymal and endothelial cells (acute cellular rejection)",
+        "correct": true,
+        "explanation": "RENAL ALLOGRAFT REJECTION is classified by immunological mechanism and timing: (1) HYPERACUTE REJECTION occurs within minutes to hours, mediated by preformed recipient anti-donor ABO or HLA class I antibodies causing complement activation, thrombotic occlusion, and ischemic graft necrosis. (2) ACUTE CELLULAR REJECTION (ACR) typically occurs within weeks to months (most common in the first 6 months). It is driven by T-CELL-MEDIATED IMMUNITY. Recipient T cells recognize donor foreign HLA antigens via direct allorecognition (donor dendritic cells presenting intact donor HLA) or indirect allorecognition (recipient APCs presenting processed donor peptides). Activated CD8+ CYTOTOXIC T CELLS infiltrate the graft, directly attacking foreign tubular epithelial cells, producing TUBULITIS (mononuclear cells crossing the tubular basement membrane). Activated T cells also invade the subendothelial space of graft muscular arteries, causing ENDOTHELIALITIS (ENDOVASCULITIS). CD4+ TH1 cells release cytokines (IFN-gamma) that activate macrophages, compounding tissue destruction. Biopsy demonstrates mononuclear tubulitis and endothelitis with NEGATIVE C4d (C4d positivity indicates acute antibody-mediated rejection). Acute cellular rejection is typically reversible with high-dose intravenous CORTICOSTEROIDS (or anti-thymocyte globulin). (3) CHRONIC REJECTION occurs months to years later, characterized by vascular intimal fibroelastosis, tubular atrophy, and interstitial fibrosis."
+      }
+    ],
+    "explanation": "RENAL ALLOGRAFT REJECTION is classified by immunological mechanism and timing: (1) HYPERACUTE REJECTION occurs within minutes to hours, mediated by preformed recipient anti-donor ABO or HLA class I antibodies causing complement activation, thrombotic occlusion, and ischemic graft necrosis. (2) ACUTE CELLULAR REJECTION (ACR) typically occurs within weeks to months (most common in the first 6 months). It is driven by T-CELL-MEDIATED IMMUNITY. Recipient T cells recognize donor foreign HLA antigens via direct allorecognition (donor dendritic cells presenting intact donor HLA) or indirect allorecognition (recipient APCs presenting processed donor peptides). Activated CD8+ CYTOTOXIC T CELLS infiltrate the graft, directly attacking foreign tubular epithelial cells, producing TUBULITIS (mononuclear cells crossing the tubular basement membrane). Activated T cells also invade the subendothelial space of graft muscular arteries, causing ENDOTHELIALITIS (ENDOVASCULITIS). CD4+ TH1 cells release cytokines (IFN-gamma) that activate macrophages, compounding tissue destruction. Biopsy demonstrates mononuclear tubulitis and endothelitis with NEGATIVE C4d (C4d positivity indicates acute antibody-mediated rejection). Acute cellular rejection is typically reversible with high-dose intravenous CORTICOSTEROIDS (or anti-thymocyte globulin). (3) CHRONIC REJECTION occurs months to years later, characterized by vascular intimal fibroelastosis, tubular atrophy, and interstitial fibrosis. Renal transplant 5 weeks + creatinine rise + biopsy showing lymphocytic tubulitis and endovasculitis + C4d negative = Acute cellular rejection -> Host T cells target donor HLA.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Cellular Allograft Rejection CD8+ T-Cell Tubulitis and Endovasculitis.",
+    "keyPoints": [
+      "Acute Cellular Allograft Rejection CD8+ T-Cell Tubulitis and Endovasculitis",
+      "Renal transplant 5 weeks + creatinine rise + biopsy showing lymphocytic tubulitis and endovasculitis + C4d negative = Acute cellular rejection -> Host T cells target donor HLA."
+    ],
+    "references": [
+      {
+        "label": "Colvin RB, Smith RN. Antibody-mediated organ-allograft rejection. Nat Rev Immunol. 2005;5(10):807-817. PMID: 16175181.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16175181/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0786",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Gastrointestinal",
+    "topic": "Bilirubin Transport MRP2 Canalicular Excretion Defect in Dubin-Johnson",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old previously healthy woman presents for an insurance physical examination. She is completely asymptomatic, but routine laboratory testing reveals mild jaundice. Total serum bilirubin is 4.8 mg/dL with a direct (conjugated) bilirubin of 3.6 mg/dL (normal < 0.3 mg/dL). Serum AST, ALT, alkaline phosphatase, and albumin are completely normal. Complete blood count and peripheral smear show no evidence of hemolysis. Urine dipstick is positive for bilirubin. A diagnostic laparoscopy performed for an unrelated ovarian cyst reveals that her liver is grossly pitch-black in color. Microscopic examination of a wedge liver biopsy confirms normal hepatic lobular architecture, with abundant coarse, dark-brown pigment granules within hepatocyte cytoplasm that stain positive with Fontana-Masson and do not stain with Prussian blue. Electron microscopy demonstrates that the pigment is densely packed inside lysosomes. Which of the following transport processes is defective in this patient?",
+    "options": [
+      {
+        "text": "ATP-dependent excretion of conjugated bilirubin glucuronides across the hepatocyte canalicular membrane into bile via the MRP2 transporter",
+        "correct": true,
+        "explanation": "DUBIN-JOHNSON SYNDROME is a benign, autosomal recessive hereditary hyperbilirubinemia caused by mutations in the ABCC2 gene encoding MULTIDRUG RESISTANCE-ASSOCIATED PROTEIN 2 (MRP2). MRP2 is an ATP-dependent canalicular membrane transport protein responsible for the rate-limiting secretion of CONJUGATED BILIRUBIN GLUCURONIDES and other organic anions from the hepatocyte cytosol into the biliary canaliculus. When MRP2 is defective, bilirubin is normally taken up by hepatocytes and normally conjugated by UDP-glucuronosyltransferase (UGT1A1), but CONJUGATED BILIRUBIN CANNOT BE SECRETED INTO BILE. The conjugated bilirubin refluxes back into sinusoidal blood via basolateral MRP3/MRP4 transporters, resulting in isolated CONJUGATED HYPERBILIRUBINEMIA with bilirubinuria (conjugated bilirubin is water-soluble), but normal AST, ALT, and alkaline phosphatase. Hepatocytes also fail to excrete epinephrine metabolites into bile; these polymerize and accumulate within hepatocyte lysosomes, turning the liver GROSSLY JET-BLACK. In contrast, ROTOR SYNDROME is an autosomal recessive conjugated hyperbilirubinemia caused by defects in basolateral OATP1B1 and OATP1B3 reuptake transporters; it does NOT produce a black liver (normal gross liver appearance) and lacks lysosomal pigment."
+      },
+      {
+        "text": "Microsomal glucuronidation of unconjugated bilirubin by UDP-glucuronosyltransferase (UGT1A1)",
+        "correct": false,
+        "explanation": "Deficiency of UGT1A1 causes unconjugated hyperbilirubinemia (Gilbert syndrome with mild deficiency; Crigler-Najjar with severe/total absence), without conjugated hyperbilirubinemia or a black liver."
+      },
+      {
+        "text": "Sinusoidal uptake of unconjugated bilirubin by organic anion-transporting polypeptides (OATP1B1/OATP1B3)",
+        "correct": false,
+        "explanation": "OATP1B1/OATP1B3 deficiency causes Rotor syndrome, which causes conjugated hyperbilirubinemia without hepatic pigmentation (liver is normal pink/brown)."
+      },
+      {
+        "text": "Endosomal recycling of copper-transporting P-type ATPase (ATP7B) to the canalicular membrane",
+        "correct": false,
+        "explanation": "ATP7B mutations cause Wilson disease, characterized by copper accumulation, cirrhosis, neuropsychiatric symptoms, Kayser-Fleischer rings, and elevated transaminases."
+      },
+      {
+        "text": "Bile acid export pump (BSEP) transport of taurocholic acid into the canalicular lumen",
+        "correct": false,
+        "explanation": "BSEP deficiency causes progressive familial intrahepatic cholestasis type 2 (PFIC2), presenting in infancy with severe pruritus, progressive cirrhosis, and elevated bile acids, not isolated benign direct hyperbilirubinemia."
+      }
+    ],
+    "explanation": "DUBIN-JOHNSON SYNDROME is a benign, autosomal recessive hereditary hyperbilirubinemia caused by mutations in the ABCC2 gene encoding MULTIDRUG RESISTANCE-ASSOCIATED PROTEIN 2 (MRP2). MRP2 is an ATP-dependent canalicular membrane transport protein responsible for the rate-limiting secretion of CONJUGATED BILIRUBIN GLUCURONIDES and other organic anions from the hepatocyte cytosol into the biliary canaliculus. When MRP2 is defective, bilirubin is normally taken up by hepatocytes and normally conjugated by UDP-glucuronosyltransferase (UGT1A1), but CONJUGATED BILIRUBIN CANNOT BE SECRETED INTO BILE. The conjugated bilirubin refluxes back into sinusoidal blood via basolateral MRP3/MRP4 transporters, resulting in isolated CONJUGATED HYPERBILIRUBINEMIA with bilirubinuria (conjugated bilirubin is water-soluble), but normal AST, ALT, and alkaline phosphatase. Hepatocytes also fail to excrete epinephrine metabolites into bile; these polymerize and accumulate within hepatocyte lysosomes, turning the liver GROSSLY JET-BLACK. In contrast, ROTOR SYNDROME is an autosomal recessive conjugated hyperbilirubinemia caused by defects in basolateral OATP1B1 and OATP1B3 reuptake transporters; it does NOT produce a black liver (normal gross liver appearance) and lacks lysosomal pigment. Asymptomatic conjugated hyperbilirubinemia + normal LFTs + grossly pitch-black liver with lysosomal pigment = Dubin-Johnson syndrome -> Defective canalicular MRP2 transporter.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Bilirubin Transport MRP2 Canalicular Excretion Defect in Dubin-Johnson.",
+    "keyPoints": [
+      "Bilirubin Transport MRP2 Canalicular Excretion Defect in Dubin-Johnson",
+      "Asymptomatic conjugated hyperbilirubinemia + normal LFTs + grossly pitch-black liver with lysosomal pigment = Dubin-Johnson syndrome -> Defective canalicular MRP2 transporter."
+    ],
+    "references": [
+      {
+        "label": "Erlinger S, Arias IM, Dhumeaux D. Inherited disorders of bilirubin transport and conjugation: new insights into molecular mechanisms and treatment. Gastroenterology. 2014;146(7):1625-1638. PMID: 24704527.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24704527/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0787",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Plasmodium Falciparum Cytoadherence PfEMP1 vs P. Vivax Hypnozoites",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old humanitarian aid worker returns from a 4-week mission in sub-Saharan Africa. Five days after returning, he develops sudden high fever with shaking chills, severe diaphoresis, and headache. In the emergency department, he is febrile to 40.2°C (104.4°F), confused, and disoriented. Laboratory studies show: hemoglobin 8.4 g/dL, platelets 42,000/microL, and total bilirubin 4.2 mg/dL. Giemsa-stained thin blood smear demonstrates high-level parasitemia (6% of erythrocytes infected) with delicate ring-form trophozoites containing double chromatin dots and banana- or crescent-shaped gametocytes. None of the infected erythrocytes are enlarged. Which of the following pathophysiological mechanisms accounts for the life-threatening severity and high risk of cerebral malaria associated with this specific Plasmodium species compared to other human malaria species?",
+    "options": [
+      {
+        "text": "Formation of dormant intrahepatic hypnozoites that periodically reactivate to cause clinical relapses",
+        "correct": false,
+        "explanation": "Dormant intrahepatic hypnozoites are formed by Plasmodium vivax and Plasmodium ovale (treated with primaquine); P. falciparum has NO hypnozoite liver stage."
+      },
+      {
+        "text": "Expression of Plasmodium falciparum erythrocyte membrane protein-1 (PfEMP1) on electron-dense surface knobs, causing microvascular cytoadherence and capillary sequestration",
+        "correct": true,
+        "explanation": "PLASMODIUM FALCIPARUM is the most lethal human malaria species. Its high virulence and propensity to cause severe complications (CEREBRAL MALARIA, pulmonary edema, acute renal failure, severe lactic acidosis) are driven by CYTOADHERENCE AND MICROVASCULAR SEQUESTRATION. P. falciparum expresses a polymorphic adhesin called P. FALCIPARUM ERYTHROCYTE MEMBRANE PROTEIN-1 (PfEMP1), encoded by the var multigene family. PfEMP1 is exported to the surface of the infected erythrocyte, where it localizes on electron-dense protrusions termed 'KNOBS'. PfEMP1 binds host endothelial receptors—most notably CD36, ICAM-1, and endothelial protein C receptor (EPCR). This causes mature schizont- and trophozoite-infected RBCs to adhere tightly to the microvascular endothelium of vital organs (brain, kidneys, placenta). Microvascular sequestration provides two lethal advantages: (1) It prevents infected RBCs from circulating through the spleen, EVADING SPLEEN-MEDIATED CLEARANCE; and (2) It obstructs cerebral and microvascular capillary blood flow, causing local tissue ischemia, blood-brain barrier breakdown, cerebral edema, and uncal herniation (cerebral malaria). In addition, P. falciparum can invade RBCs of ALL AGES, producing massive parasitemia (> 5%). In contrast, PLASMODIUM VIVAX and PLASMODIUM OVALE invade ONLY RETICULOCYTES (low parasitemia < 2%) and form dormant liver HYPNOZOITES requiring PRIMAQUINE to prevent clinical relapse."
+      },
+      {
+        "text": "Obligate invasion restricted exclusively to Duffy antigen-positive reticulocytes",
+        "correct": false,
+        "explanation": "Invasion restricted to Duffy antigen-positive reticulocytes is characteristic of Plasmodium vivax, which limits parasitemia; P. falciparum invades erythrocytes of all ages via glycophorins."
+      },
+      {
+        "text": "Enzymatic degradation of host erythrocyte membrane band 3 via secreted metalloproteinases",
+        "correct": false,
+        "explanation": "P. falciparum exports PfEMP1 to membrane knobs to bind endothelial receptors; it does not destroy band 3 to cause microvascular occlusion."
+      },
+      {
+        "text": "Release of a heat-labile enterotoxin that activates host mucosal adenylate cyclase",
+        "correct": false,
+        "explanation": "Malaria does not produce an enterotoxin; fever is driven by cyclical schizont rupture releasing hemozoin and GPI anchors that trigger host TNF-alpha and IL-1."
+      }
+    ],
+    "explanation": "PLASMODIUM FALCIPARUM is the most lethal human malaria species. Its high virulence and propensity to cause severe complications (CEREBRAL MALARIA, pulmonary edema, acute renal failure, severe lactic acidosis) are driven by CYTOADHERENCE AND MICROVASCULAR SEQUESTRATION. P. falciparum expresses a polymorphic adhesin called P. FALCIPARUM ERYTHROCYTE MEMBRANE PROTEIN-1 (PfEMP1), encoded by the var multigene family. PfEMP1 is exported to the surface of the infected erythrocyte, where it localizes on electron-dense protrusions termed 'KNOBS'. PfEMP1 binds host endothelial receptors—most notably CD36, ICAM-1, and endothelial protein C receptor (EPCR). This causes mature schizont- and trophozoite-infected RBCs to adhere tightly to the microvascular endothelium of vital organs (brain, kidneys, placenta). Microvascular sequestration provides two lethal advantages: (1) It prevents infected RBCs from circulating through the spleen, EVADING SPLEEN-MEDIATED CLEARANCE; and (2) It obstructs cerebral and microvascular capillary blood flow, causing local tissue ischemia, blood-brain barrier breakdown, cerebral edema, and uncal herniation (cerebral malaria). In addition, P. falciparum can invade RBCs of ALL AGES, producing massive parasitemia (> 5%). In contrast, PLASMODIUM VIVAX and PLASMODIUM OVALE invade ONLY RETICULOCYTES (low parasitemia < 2%) and form dormant liver HYPNOZOITES requiring PRIMAQUINE to prevent clinical relapse. High parasitemia + ring forms with double dots + crescent gametocytes + confusion = Falciparum malaria -> PfEMP1 knobs cause endothelial cytoadherence and microvascular sequestration.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Plasmodium Falciparum Cytoadherence PfEMP1 vs P. Vivax Hypnozoites.",
+    "keyPoints": [
+      "Plasmodium Falciparum Cytoadherence PfEMP1 vs P. Vivax Hypnozoites",
+      "High parasitemia + ring forms with double dots + crescent gametocytes + confusion = Falciparum malaria -> PfEMP1 knobs cause endothelial cytoadherence and microvascular sequestrati"
+    ],
+    "references": [
+      {
+        "label": "Miller LH, Baruch DI, Marsh K, Doumbo OK. The pathogenic basis of malaria. Nature. 2002;415(6872):673-679. PMID: 11832955.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11832955/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0788",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Alpha-1 vs Beta-2 Adrenergic Receptor Intracellular Signaling Cascades",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 30-year-old woman with severe exercise-induced asthma participates in a pharmacology research protocol. She inhales nebulized albuterol (a selective beta-2 adrenergic agonist) prior to exercise, which prevents bronchoconstriction by inducing bronchial smooth muscle relaxation. Concurrently, she uses topical phenylephrine nasal spray (a selective alpha-1 adrenergic agonist) for allergic rhinitis, which induces rapid nasal decongestion through profound arteriolar smooth muscle contraction. Which of the following describes the respective intracellular second-messenger signaling cascades activated by these two adrenergic agonists in their target smooth muscle tissues?",
+    "options": [
+      {
+        "text": "Phenylephrine stimulates Gs -> cAMP -> PKA; Albuterol stimulates Gi -> decreased cAMP -> MLCK activation",
+        "correct": false,
+        "explanation": "Alpha-1 receptors couple to Gq (PLC/IP3/Ca2+), not Gs; and Beta-2 receptors couple to Gs (increasing cAMP), not Gi."
+      },
+      {
+        "text": "Phenylephrine stimulates Gi -> Phospholipase A2 -> Arachidonic acid; Albuterol stimulates Gq -> IP3 -> Calcium influx",
+        "correct": false,
+        "explanation": "Alpha-1 couples to Gq (not Gi); Beta-2 couples to Gs (not Gq)."
+      },
+      {
+        "text": "Phenylephrine stimulates Gq -> Phospholipase C -> IP3 and DAG -> elevated intracellular Ca2+ and MLCK activation; Albuterol stimulates Gs -> Adenylate cyclase -> cAMP -> PKA -> MLCK phosphorylation and inhibition",
+        "correct": true,
+        "explanation": "Adrenergic receptors belong to the G-protein coupled receptor (GPCR) superfamily and mediate opposing vascular and bronchial smooth muscle actions through distinct intracellular second-messenger cascades: (1) PHENYLEPHRINE acts on ALPHA-1 ADRENERGIC RECEPTORS coupled to Gq PROTEINS. Gq activates PHOSPHOLIPASE C (PLC), which hydrolyzes membrane phosphatidylinositol 4,5-bisphosphate (PIP2) into INOSITOL 1,4,5-TRISPHOSPHATE (IP3) and DIACYLGLYCEROL (DAG). IP3 binds IP3 receptors on the sarcoplasmic reticulum, triggering massive EFFLUX OF CALCIUM into the cytoplasm. Cytoplasmic Ca2+ binds calmodulin, activating MYOSIN LIGHT-CHAIN KINASE (MLCK). Phosphorylated myosin interacts with actin cross-bridges, producing SMOOTH MUSCLE CONTRACTION (vasoconstriction of nasal capacitance vessels, producing decongestion). (2) ALBUTEROL acts on BETA-2 ADRENERGIC RECEPTORS coupled to Gs PROTEINS. Gs stimulates ADENYLATE CYCLASE, converting cellular ATP into CYCLIC ADENOSINE MONOPHOSPHATE (cAMP). Elevated cAMP activates PROTEIN KINASE A (PKA). PKA PHOSPHORYLATES MLCK, which INACTIVATES MLCK (reducing its affinity for Ca2+-calmodulin) and stimulates sarcoplasmic Ca2+-ATPase (SERCA) to pump Ca2+ back into stores. Dephosphorylation of myosin light chains by myosin phosphatase leads to SMOOTH MUSCLE RELAXATION and BRONCHODILATION."
+      },
+      {
+        "text": "Phenylephrine stimulates cGMP-dependent protein kinase G; Albuterol stimulates tyrosine kinase dimerization",
+        "correct": false,
+        "explanation": "cGMP is the second messenger for nitric oxide and ANP/BNP; adrenergic receptors are heptahelical GPCRs, not receptor tyrosine kinases."
+      },
+      {
+        "text": "Phenylephrine opens voltage-gated potassium channels; Albuterol blocks Ryanodine RyR2 receptor channels",
+        "correct": false,
+        "explanation": "Phenylephrine increases cytosolic Ca2+ via IP3 receptor activation; albuterol stimulates cAMP/PKA to promote smooth muscle relaxation."
+      }
+    ],
+    "explanation": "Adrenergic receptors belong to the G-protein coupled receptor (GPCR) superfamily and mediate opposing vascular and bronchial smooth muscle actions through distinct intracellular second-messenger cascades: (1) PHENYLEPHRINE acts on ALPHA-1 ADRENERGIC RECEPTORS coupled to Gq PROTEINS. Gq activates PHOSPHOLIPASE C (PLC), which hydrolyzes membrane phosphatidylinositol 4,5-bisphosphate (PIP2) into INOSITOL 1,4,5-TRISPHOSPHATE (IP3) and DIACYLGLYCEROL (DAG). IP3 binds IP3 receptors on the sarcoplasmic reticulum, triggering massive EFFLUX OF CALCIUM into the cytoplasm. Cytoplasmic Ca2+ binds calmodulin, activating MYOSIN LIGHT-CHAIN KINASE (MLCK). Phosphorylated myosin interacts with actin cross-bridges, producing SMOOTH MUSCLE CONTRACTION (vasoconstriction of nasal capacitance vessels, producing decongestion). (2) ALBUTEROL acts on BETA-2 ADRENERGIC RECEPTORS coupled to Gs PROTEINS. Gs stimulates ADENYLATE CYCLASE, converting cellular ATP into CYCLIC ADENOSINE MONOPHOSPHATE (cAMP). Elevated cAMP activates PROTEIN KINASE A (PKA). PKA PHOSPHORYLATES MLCK, which INACTIVATES MLCK (reducing its affinity for Ca2+-calmodulin) and stimulates sarcoplasmic Ca2+-ATPase (SERCA) to pump Ca2+ back into stores. Dephosphorylation of myosin light chains by myosin phosphatase leads to SMOOTH MUSCLE RELAXATION and BRONCHODILATION. Alpha-1 (phenylephrine) = Gq -> PLC -> IP3/DAG -> high Ca2+ / MLCK -> Contraction. Beta-2 (albuterol) = Gs -> AC -> cAMP -> PKA -> MLCK inhibition -> Relaxation.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Alpha-1 vs Beta-2 Adrenergic Receptor Intracellular Signaling Cascades.",
+    "keyPoints": [
+      "Alpha-1 vs Beta-2 Adrenergic Receptor Intracellular Signaling Cascades",
+      "Alpha-1 (phenylephrine) = Gq -> PLC -> IP3/DAG -> high Ca2+ / MLCK -> Contraction. Beta-2 (albuterol) = Gs -> AC -> cAMP -> PKA -> MLCK inhibition -> Relaxation."
+    ],
+    "references": [
+      {
+        "label": "Exton JH. Regulation of phosphoinositide phospholipases by G-proteins. Annu Rev Pharmacol Toxicol. 1996;36:481-509. PMID: 8725399.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8725399/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0789",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Osteopetrosis Carbonic Anhydrase II Defect and Failure of Bone Resorption",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 6-month-old male infant presents with severe failure to thrive, progressive bilateral visual impairment, and sensorineural hearing loss. Physical examination reveals frontoparietal bossing, hepatosplenomegaly, and horizontal nystagmus. Funduscopy demonstrates bilateral optic nerve pallor. Complete blood count reveals: hemoglobin 6.4 g/dL, WBC 18,200/microL with tear-drop cells (dacrocytes) and nucleated RBCs on peripheral smear (leukoerythroblastic picture), and platelets 38,000/microL. Skeletal radiography demonstrates diffusely increased, chalk-like bone radiodensity ('marble bone' disease) with loss of the normal distinction between the cortical bone and medullary cavity, and characteristic 'Erlenmeyer flask' deformities of the distal femora. Genetic testing reveals an autosomal recessive mutation in the CA2 gene. Which of the following biochemical defects accounts for this infant's impaired osteoclast bone resorption?",
+    "options": [
+      {
+        "text": "Mutations in the COL1A1 gene causing abnormal folding of type I procollagen triple helices",
+        "correct": false,
+        "explanation": "COL1A1 mutations cause Osteogenesis Imperfecta, characterized by osteopenia, multiple fractures, blue sclerae, and hearing loss, not dense marble bones or obliteration of marrow."
+      },
+      {
+        "text": "Defective vitamin D receptor (VDR) signaling preventing intestinal calcium absorption",
+        "correct": false,
+        "explanation": "VDR defects cause Rickets/Osteomalacia, characterized by defective bone mineralization, widened growth plates, and low bone density, not dense marble bones."
+      },
+      {
+        "text": "Deficiency of tissue-nonspecific alkaline phosphatase (ALPL) preventing hydroxyapatite crystallization",
+        "correct": false,
+        "explanation": "ALPL deficiency causes Hypophosphatasia (rickets-like failure of bone mineralization with high urine phosphoethanolamine), not osteoclast resorption failure."
+      },
+      {
+        "text": "Deficiency of carbonic anhydrase type II preventing generation of hydrogen ions (H+) required to acidify the resorption lacuna",
+        "correct": true,
+        "explanation": "OSTEOPETROSIS (Albers-Schönberg / marble bone disease) is an inherited metabolic bone disease characterized by FAILURE OF OSTEOCLAST BONE RESORPTION. Osteoclasts are multinucleated giant cells derived from monocyte-macrophage precursors. To resorb bone mineral, osteoclasts seal off a microenvironment beneath their ruffled border known as the RESORPTION (HOWSHIP) LACUNA. Osteoclast cytoplasmic CARBONIC ANHYDRASE TYPE II (encoded by CA2) catalyzes the hydration of CO2 into carbonic acid (CO2 + H2O <-> H2CO3 <-> H+ + HCO3-). The generated HYDROGEN IONS (H+) are actively pumped across the ruffled border into the resorption lacuna by an electrogenic VACUOLAR H+-ATPASE (TCIRG1). The resulting acidic microenvironment (pH ~4.5) dissolves hydroxyapatite calcium crystals, while lysosomal CATHEPSIN K degrades the underlying organic type I collagen matrix. In patients with CARBONIC ANHYDRASE II DEFICIENCY (or TCIRG1 mutations), osteoclasts are structurally present (or even increased in number), but CANNOT ACIDIFY THE LACUNA, halting bone resorption. Dense, unremodeled woven bone fills the medullary cavity, causing: (1) OBLITERATION OF MARROW SPACES, producing severe pancytopenia and extramedullary hematopoiesis (leukoerythroblastic smear, hepatosplenomegaly); (2) BONY OVERGROWTH OF CRANIAL NERVE FORAMINA, causing optic atrophy (blindness), hearing loss (CN VIII), and facial palsy (CN VII); (3) RENAL TUBULAR ACIDOSIS TYPE 2 (proximal RTA due to loss of renal CA-II) with cerebral calcifications."
+      },
+      {
+        "text": "Activating mutations in the fibroblast growth factor receptor 3 (FGFR3) gene",
+        "correct": false,
+        "explanation": "FGFR3 activating mutations cause Achondroplasia (failure of endochondral ossification leading to dwarfism), not osteopetrosis or pancytopenia."
+      }
+    ],
+    "explanation": "OSTEOPETROSIS (Albers-Schönberg / marble bone disease) is an inherited metabolic bone disease characterized by FAILURE OF OSTEOCLAST BONE RESORPTION. Osteoclasts are multinucleated giant cells derived from monocyte-macrophage precursors. To resorb bone mineral, osteoclasts seal off a microenvironment beneath their ruffled border known as the RESORPTION (HOWSHIP) LACUNA. Osteoclast cytoplasmic CARBONIC ANHYDRASE TYPE II (encoded by CA2) catalyzes the hydration of CO2 into carbonic acid (CO2 + H2O <-> H2CO3 <-> H+ + HCO3-). The generated HYDROGEN IONS (H+) are actively pumped across the ruffled border into the resorption lacuna by an electrogenic VACUOLAR H+-ATPASE (TCIRG1). The resulting acidic microenvironment (pH ~4.5) dissolves hydroxyapatite calcium crystals, while lysosomal CATHEPSIN K degrades the underlying organic type I collagen matrix. In patients with CARBONIC ANHYDRASE II DEFICIENCY (or TCIRG1 mutations), osteoclasts are structurally present (or even increased in number), but CANNOT ACIDIFY THE LACUNA, halting bone resorption. Dense, unremodeled woven bone fills the medullary cavity, causing: (1) OBLITERATION OF MARROW SPACES, producing severe pancytopenia and extramedullary hematopoiesis (leukoerythroblastic smear, hepatosplenomegaly); (2) BONY OVERGROWTH OF CRANIAL NERVE FORAMINA, causing optic atrophy (blindness), hearing loss (CN VIII), and facial palsy (CN VII); (3) RENAL TUBULAR ACIDOSIS TYPE 2 (proximal RTA due to loss of renal CA-II) with cerebral calcifications. Dense chalky bones + leukoerythroblastic pancytopenia + cranial nerve compression (blindness) + CA2 mutation = Osteopetrosis -> Carbonic anhydrase II defect (cannot acidify Howship lacuna).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Osteopetrosis Carbonic Anhydrase II Defect and Failure of Bone Resorption.",
+    "keyPoints": [
+      "Osteopetrosis Carbonic Anhydrase II Defect and Failure of Bone Resorption",
+      "Dense chalky bones + leukoerythroblastic pancytopenia + cranial nerve compression (blindness) + CA2 mutation = Osteopetrosis -> Carbonic anhydrase II defect (cannot acidify Howship"
+    ],
+    "references": [
+      {
+        "label": "Sly WS, Whyte MP, Sundaram V, et al. Carbonic anhydrase II deficiency in 12 families with the autosomal recessive syndrome of osteopetrosis with renal tubular acidosis and cerebral calcification. N Engl J Med. 1985;313(3):139-145. PMID: 3925334.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3925334/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0790",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "MCAD Deficiency Hypoketotic Hypoglycemia and Dicarboxylic Aciduria",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "An 18-month-old previously healthy boy is brought to the emergency department in a state of profound lethargy and unresponsiveness. He developed an acute viral gastroenteritis with vomiting and anorexia 24 hours ago and has refused all oral intake. Physical examination reveals an obtunded toddler with mild hepatomegaly and no focal neurological signs. Point-of-care blood glucose is critically low at 22 mg/dL. Arterial blood gas reveals mild metabolic acidosis without respiratory compensation. Serum chemistries show: blood urea nitrogen 24 mg/dL, serum creatinine 0.4 mg/dL, and elevated serum ammonia at 148 micromol/L (normal 15-45 micromol/L). Serum AST is 185 U/L and ALT is 210 U/L. Urinalysis demonstrates NO KETONES on dipstick (negative acetoacetate). Urine organic acid analysis reveals marked elevation of C6 to C10 dicarboxylic acids (adipic, suberic, and sebacic acids). Which of the following enzymatic deficiencies explains this child's hypoketotic hypoglycemia during fasting?",
+    "options": [
+      {
+        "text": "Glucose-6-phosphatase deficiency (von Gierke disease type I)",
+        "correct": false,
+        "explanation": "Von Gierke disease presents with severe fasting hypoglycemia, but is characterized by PROMINENT KETONEMIA, lactic acidosis, severe hyperuricemia, and hyperlipidemia, not hypoketotic hypoglycemia."
+      },
+      {
+        "text": "Carnitine palmitoyltransferase-1 (CPT-1) deficiency in the outer mitochondrial membrane",
+        "correct": false,
+        "explanation": "CPT-1 deficiency prevents long-chain fatty acid entry into mitochondria, producing hypoketotic hypoglycemia with normal or low dicarboxylic acids and high free carnitine, without medium-chain acylcarnitine elevation."
+      },
+      {
+        "text": "Pyruvate carboxylase deficiency in hepatic mitochondria",
+        "correct": false,
+        "explanation": "Pyruvate carboxylase deficiency causes severe lactic acidosis, hyperammonemia, and citrullinemia with ketoacidosis, not hypoketotic hypoglycemia with dicarboxylic aciduria."
+      },
+      {
+        "text": "Primary systemic carnitine deficiency due to defective OCTN2 renal transport",
+        "correct": false,
+        "explanation": "OCTN2 carnitine transporter mutations cause profoundly low plasma free carnitine (< 5 micromol/L) with cardiomyopathy and skeletal muscle weakness."
+      },
+      {
+        "text": "Medium-chain acyl-CoA dehydrogenase (MCAD) deficiency impairing mitochondrial beta-oxidation of medium-chain fatty acids",
+        "correct": true,
+        "explanation": "MEDIUM-CHAIN ACYL-COA DEHYDROGENASE (MCAD) DEFICIENCY is the most common inborn error of fatty acid oxidation, inherited as an autosomal recessive trait (most commonly caused by an A985G missense mutation). During periods of prolonged fasting, glycogen stores are depleted within 12 to 24 hours. The body must transition to ADIPOSE TISSUE LIPOLYSIS to release free fatty acids for MITOCHONDRIAL BETA-OXIDATION. Fatty acid beta-oxidation performs two essential metabolic functions: (1) It generates ACETYL-COA to feed KETOGENESIS in hepatic mitochondria, producing acetoacetate and beta-hydroxybutyrate, the primary fuel for the brain during fasting; and (2) It generates NADH, FADH2, and ATP, and allosterically activates PYRUVATE CARBOXYLASE (via acetyl-CoA), which is mandatory to sustain GLUCONEOGENESIS. In MCAD deficiency, beta-oxidation of fatty acids with carbon chain lengths of 6 to 12 carbons is blocked. Consequently: (1) Acetyl-CoA is not formed, leading to an ABSENCE OF KETONE BODIES (HYPOKETOTIC HYPOGLYCEMIA); (2) Gluconeogenesis cannot be sustained, precipitating severe hypoglycemia, seizures, coma, or sudden death; (3) Excess medium-chain acyl-CoAs accumulate in liver and muscle, spilling into blood as medium-chain acylcarnitines (octanoylcarnitine C8) and shunting into microsomal omega-oxidation, yielding C6-C10 DICARBOXYLIC ACIDS in urine (adipic, suberic acids); (4) Toxic free fatty acids inhibit the urea cycle, causing secondary HYPERAMMONEMIA and liver dysfunction. Treatment requires avoidance of prolonged fasting, frequent high-carbohydrate meals, and carnitine supplementation."
+      }
+    ],
+    "explanation": "MEDIUM-CHAIN ACYL-COA DEHYDROGENASE (MCAD) DEFICIENCY is the most common inborn error of fatty acid oxidation, inherited as an autosomal recessive trait (most commonly caused by an A985G missense mutation). During periods of prolonged fasting, glycogen stores are depleted within 12 to 24 hours. The body must transition to ADIPOSE TISSUE LIPOLYSIS to release free fatty acids for MITOCHONDRIAL BETA-OXIDATION. Fatty acid beta-oxidation performs two essential metabolic functions: (1) It generates ACETYL-COA to feed KETOGENESIS in hepatic mitochondria, producing acetoacetate and beta-hydroxybutyrate, the primary fuel for the brain during fasting; and (2) It generates NADH, FADH2, and ATP, and allosterically activates PYRUVATE CARBOXYLASE (via acetyl-CoA), which is mandatory to sustain GLUCONEOGENESIS. In MCAD deficiency, beta-oxidation of fatty acids with carbon chain lengths of 6 to 12 carbons is blocked. Consequently: (1) Acetyl-CoA is not formed, leading to an ABSENCE OF KETONE BODIES (HYPOKETOTIC HYPOGLYCEMIA); (2) Gluconeogenesis cannot be sustained, precipitating severe hypoglycemia, seizures, coma, or sudden death; (3) Excess medium-chain acyl-CoAs accumulate in liver and muscle, spilling into blood as medium-chain acylcarnitines (octanoylcarnitine C8) and shunting into microsomal omega-oxidation, yielding C6-C10 DICARBOXYLIC ACIDS in urine (adipic, suberic acids); (4) Toxic free fatty acids inhibit the urea cycle, causing secondary HYPERAMMONEMIA and liver dysfunction. Treatment requires avoidance of prolonged fasting, frequent high-carbohydrate meals, and carnitine supplementation. Fasting lethargy + severe hypoglycemia (22) + NO urine ketones + elevated C6-C10 dicarboxylic acids = MCAD deficiency -> Impaired beta-oxidation of medium-chain fatty acids.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of MCAD Deficiency Hypoketotic Hypoglycemia and Dicarboxylic Aciduria.",
+    "keyPoints": [
+      "MCAD Deficiency Hypoketotic Hypoglycemia and Dicarboxylic Aciduria",
+      "Fasting lethargy + severe hypoglycemia (22) + NO urine ketones + elevated C6-C10 dicarboxylic acids = MCAD deficiency -> Impaired beta-oxidation of medium-chain fatty acids."
+    ],
+    "references": [
+      {
+        "label": "Rinaldo P, Matern D, Bennett MJ. Fatty acid oxidation disorders. Annu Rev Physiol. 2002;64:477-502. PMID: 11826276.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11826276/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0791",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Fluoroquinolone Mechanism DNA Gyrase and Topoisomerase IV",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 48-year-old man hospitalized with complicated pyelonephritis is treated with intravenous levofloxacin. Over the next 48 hours, his fever resolves, flank pain subsides, and repeat urine cultures show no bacterial growth. Which of the following describes the precise molecular target and enzymatic mechanism by which fluoroquinolones exert their rapid bactericidal activity against susceptible bacterial pathogens?",
+    "options": [
+      {
+        "text": "Inhibition of bacterial DNA gyrase (topoisomerase II) and topoisomerase IV, stabilizing cleaved DNA-enzyme complexes and causing lethal double-stranded DNA breaks",
+        "correct": true,
+        "explanation": "FLUOROQUINOLONES (ciprofloxacin, levofloxacin, moxifloxacin) are broad-spectrum, concentration-dependent bactericidal antibiotics that target two essential bacterial type II topoisomerases: (1) DNA GYRASE (bacterial TOPOISOMERASE II), a tetramer consisting of two GyrA and two GyrB subunits. During replication and transcription, helicases unwind the DNA double helix, generating positive supercoiling ahead of the replication fork. DNA gyrase introduces negative supercoils by creating a transient double-stranded DNA break, passing an intact DNA duplex through the break, and resealing the cut, relieving topological strain. (2) TOPOISOMERASE IV (encoded by parC and parE), which is essential for decatenating (unlinking) newly replicated daughter chromosomes following DNA replication. Fluoroquinolones bind to the cleaved DNA-enzyme intermediate complex, preventing religation. This TRAPS THE CLEAVED TOPOISOMERASE ON DNA, causing irreversible, catastrophic DOUBLE-STRANDED DNA BREAKS, stalling replication forks, and triggering bacterial apoptotic cell death. Gram-negative bacilli are killed primarily through DNA gyrase inhibition; Gram-positive cocci are killed primarily through topoisomerase IV inhibition. Bacterial resistance emerges through point mutations in the quinolone resistance-determining regions (QRDR) of the GYRA or PARC genes, or via plasmid-mediated Qnr proteins and efflux pumps."
+      },
+      {
+        "text": "Competitive inhibition of bacterial dihydropteroate synthase preventing folate biosynthesis",
+        "correct": false,
+        "explanation": "Dihydropteroate synthase inhibition is the mechanism of SULFONAMIDES (sulfamethoxazole), which prevents folate synthesis."
+      },
+      {
+        "text": "Selective binding to the 50S ribosomal subunit preventing peptide bond formation by peptidyl transferase",
+        "correct": false,
+        "explanation": "Inhibition of the 50S subunit peptidyl transferase is the mechanism of CHLORAMPHENICOL and macrolides/clindamycin, not fluoroquinolones."
+      },
+      {
+        "text": "Inhibition of bacterial RNA-dependent DNA polymerase preventing reverse transcription of mRNA",
+        "correct": false,
+        "explanation": "Bacteria do not possess reverse transcriptase; reverse transcriptase inhibitors (NRTIs/NNRTIs) are antiretroviral agents used for HIV."
+      },
+      {
+        "text": "Disruption of bacterial cell membrane phospholipids through detergent-like cationic surfactant action",
+        "correct": false,
+        "explanation": "Cationic detergent-like membrane disruption is the mechanism of POLYMYXINS (colistin, polymyxin B) and daptomycin, not fluoroquinolones."
+      }
+    ],
+    "explanation": "FLUOROQUINOLONES (ciprofloxacin, levofloxacin, moxifloxacin) are broad-spectrum, concentration-dependent bactericidal antibiotics that target two essential bacterial type II topoisomerases: (1) DNA GYRASE (bacterial TOPOISOMERASE II), a tetramer consisting of two GyrA and two GyrB subunits. During replication and transcription, helicases unwind the DNA double helix, generating positive supercoiling ahead of the replication fork. DNA gyrase introduces negative supercoils by creating a transient double-stranded DNA break, passing an intact DNA duplex through the break, and resealing the cut, relieving topological strain. (2) TOPOISOMERASE IV (encoded by parC and parE), which is essential for decatenating (unlinking) newly replicated daughter chromosomes following DNA replication. Fluoroquinolones bind to the cleaved DNA-enzyme intermediate complex, preventing religation. This TRAPS THE CLEAVED TOPOISOMERASE ON DNA, causing irreversible, catastrophic DOUBLE-STRANDED DNA BREAKS, stalling replication forks, and triggering bacterial apoptotic cell death. Gram-negative bacilli are killed primarily through DNA gyrase inhibition; Gram-positive cocci are killed primarily through topoisomerase IV inhibition. Bacterial resistance emerges through point mutations in the quinolone resistance-determining regions (QRDR) of the GYRA or PARC genes, or via plasmid-mediated Qnr proteins and efflux pumps. Levofloxacin pyelonephritis mechanism = Fluoroquinolone -> Inhibits DNA gyrase (topoisomerase II) and topoisomerase IV, causing lethal double-strand DNA breaks.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Fluoroquinolone Mechanism DNA Gyrase and Topoisomerase IV.",
+    "keyPoints": [
+      "Fluoroquinolone Mechanism DNA Gyrase and Topoisomerase IV",
+      "Levofloxacin pyelonephritis mechanism = Fluoroquinolone -> Inhibits DNA gyrase (topoisomerase II) and topoisomerase IV, causing lethal double-strand DNA breaks."
+    ],
+    "references": [
+      {
+        "label": "Drlica K, Malik M, Kerns RJ, Zhao X. Quinolone-mediated bacterial death. Antimicrob Agents Chemother. 2008;52(2):385-392. PMID: 18070966.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18070966/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0792",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Cardiovascular",
+    "topic": "Frank-Starling Law vs Inotropy Ventricular Function Curves",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old man with acute decompensated heart failure with reduced ejection fraction (LVEF 22%) is admitted to the cardiac intensive care unit in cardiogenic shock. Invasive hemodynamic monitoring via a pulmonary artery catheter demonstrates: central venous pressure 18 mm Hg, pulmonary capillary wedge pressure (PCWP) 28 mm Hg, cardiac index 1.6 L/min/m2, and systemic vascular resistance 2,100 dynes·sec·cm-5. He is initiated on an intravenous infusion of dobutamine (a selective beta-1 adrenergic inotrope). Within 30 minutes, repeat hemodynamic assessment demonstrates an increase in cardiac index to 2.4 L/min/m2, while PCWP decreases to 19 mm Hg. Which of the following alterations on a Frank-Starling ventricular performance curve (stroke volume vs left ventricular end-diastolic volume) correctly characterizes the hemodynamic effect of dobutamine compared to a simple volume infusion?",
+    "options": [
+      {
+        "text": "Dobutamine moves the operating point downward along the existing curve by selectively increasing afterload",
+        "correct": false,
+        "explanation": "Dobutamine is an inotrope with mild beta-2 vasodilator properties; it increases contractility and shifts the curve upward, not downward."
+      },
+      {
+        "text": "Dobutamine shifts the entire ventricular function curve upward and to the left, achieving greater stroke volume at a lower end-diastolic volume, whereas volume infusion moves along the existing depressed curve to a higher end-diastolic volume",
+        "correct": true,
+        "explanation": "The FRANK-STARLING MECHANISM describes the intrinsic property of myocardium where an increase in end-diastolic volume (preload/myocyte sarcomere stretch) increases force of contraction and stroke volume. Changes in PRELOAD (e.g., volume infusion, saline bolus) produce a MOVEMENT ALONG A SINGLE VENTRICULAR FUNCTION CURVE. In a failing heart on a depressed Starling curve, administering fluids increases left ventricular end-diastolic volume and PCWP, but produces minimal increase in stroke volume (the flat portion of the failing curve), worsening pulmonary edema. In contrast, POSITIVE INOTROPIC AGENTS (e.g., DOBUTAMINE, epinephrine, milrinone, digoxin) alter MYOCARDIAL CONTRACTILITY (inotropy) independent of preload. Dobutamine stimulates cardiac BETA-1 ADRENERGIC RECEPTORS (Gs -> adenylate cyclase -> cAMP -> PKA), phosphorylating L-type Ca2+ channels (increasing Ca2+ influx during the action potential) and phospholamban (accelerating SERCA2a Ca2+ uptake into sarcoplasmic reticulum). This increases peak systolic tension and velocity of shortening, SHIFTING THE ENTIRE CARDIAC FUNCTION CURVE UPWARD AND TO THE LEFT. Consequently, the heart delivers a GREATER STROKE VOLUME at any given (or lower) end-diastolic pressure/volume, increasing cardiac output while simultaneously decompressing elevated filling pressures (lowering PCWP)."
+      },
+      {
+        "text": "Dobutamine shifts the ventricular function curve downward and to the right by prolonging isovolumetric relaxation",
+        "correct": false,
+        "explanation": "Downward/rightward shift reflects negative inotropy or myocardial depression (e.g., beta-blockers, ischemia), the exact opposite of dobutamine."
+      },
+      {
+        "text": "Dobutamine has zero effect on the ventricular function curve and acts purely by shifting the venous return curve downward",
+        "correct": false,
+        "explanation": "Dobutamine acts directly on myocardial beta-1 receptors to augment inotropy; shifting the venous return curve is a vascular effect."
+      },
+      {
+        "text": "Dobutamine causes a parallel rightward displacement of the end-diastolic pressure-volume relationship without changing stroke volume",
+        "correct": false,
+        "explanation": "Dobutamine markedly increases stroke volume and contractility; parallel rightward displacement describes worsening ventricular compliance."
+      }
+    ],
+    "explanation": "The FRANK-STARLING MECHANISM describes the intrinsic property of myocardium where an increase in end-diastolic volume (preload/myocyte sarcomere stretch) increases force of contraction and stroke volume. Changes in PRELOAD (e.g., volume infusion, saline bolus) produce a MOVEMENT ALONG A SINGLE VENTRICULAR FUNCTION CURVE. In a failing heart on a depressed Starling curve, administering fluids increases left ventricular end-diastolic volume and PCWP, but produces minimal increase in stroke volume (the flat portion of the failing curve), worsening pulmonary edema. In contrast, POSITIVE INOTROPIC AGENTS (e.g., DOBUTAMINE, epinephrine, milrinone, digoxin) alter MYOCARDIAL CONTRACTILITY (inotropy) independent of preload. Dobutamine stimulates cardiac BETA-1 ADRENERGIC RECEPTORS (Gs -> adenylate cyclase -> cAMP -> PKA), phosphorylating L-type Ca2+ channels (increasing Ca2+ influx during the action potential) and phospholamban (accelerating SERCA2a Ca2+ uptake into sarcoplasmic reticulum). This increases peak systolic tension and velocity of shortening, SHIFTING THE ENTIRE CARDIAC FUNCTION CURVE UPWARD AND TO THE LEFT. Consequently, the heart delivers a GREATER STROKE VOLUME at any given (or lower) end-diastolic pressure/volume, increasing cardiac output while simultaneously decompressing elevated filling pressures (lowering PCWP). Dobutamine in heart failure = Positive inotropy -> Shifts Frank-Starling curve upward and leftward (greater stroke volume at lower PCWP/preload).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Frank-Starling Law vs Inotropy Ventricular Function Curves.",
+    "keyPoints": [
+      "Frank-Starling Law vs Inotropy Ventricular Function Curves",
+      "Dobutamine in heart failure = Positive inotropy -> Shifts Frank-Starling curve upward and leftward (greater stroke volume at lower PCWP/preload)."
+    ],
+    "references": [
+      {
+        "label": "Katz AM. Ernest Henry Starling, his predecessors, and the 'Law of the Heart'. Circulation. 2002;106(23):2986-2992. PMID: 12468502.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12468502/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0793",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Endocrine",
+    "topic": "MEN2B RET Proto-Oncogene Mutation and Neuroma Phenotype",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old tall, slender man with a marfanoid habitus presents for evaluation of a painless thyroid nodule discovered during a routine physical. On examination, he has long, thin extremities with arachnodactyly, pectus excavatum, and marked joint laxity. Oral examination reveals multiple soft, fleshy, non-tender mucosal papules and nodules along the mucosal surface of his lips, tongue, and buccal mucosa. Slit-lamp biomicroscopy reveals thickened, prominent corneal nerve fibers. Ultrasound of the neck reveals a 2.8-cm solid, hypoechoic thyroid nodule with microcalcifications and bilateral cervical lymphadenopathy. Fine-needle aspiration confirms medullary thyroid carcinoma, with calcitonin-positive spindle cells embedded in an amyloid stroma. 24-hour urinary fractionated metanephrines are 8 times the upper limit of normal. Genetic analysis reveals a de novo germline point mutation in the kinase domain of the RET proto-oncogene (codon M918T). Which of the following features is uniquely characteristic of Multiple Endocrine Neoplasia Type 2B (MEN2B) and absent in Type 2A (MEN2A)?",
+    "options": [
+      {
+        "text": "Primary parathyroid hyperplasia causing hypercalcemia and recurrent calcium oxalate nephrolithiasis",
+        "correct": false,
+        "explanation": "Parathyroid hyperplasia occurs in 20-30% of patients with MEN2A; it is characteristically ABSENT in MEN2B."
+      },
+      {
+        "text": "Pancreatic neuroendocrine islet cell tumors producing recurrent Zollinger-Ellison syndrome",
+        "correct": false,
+        "explanation": "Pancreatic neuroendocrine tumors (gastrinomas, insulinomas) are the hallmark of MEN1 (Wermer syndrome; '3 Ps': Pituitary, Parathyroid, Pancreas), not MEN2."
+      },
+      {
+        "text": "Mucosal neuromas of the lips and tongue, gastrointestinal ganglioneuromatosis, and marfanoid habitus",
+        "correct": true,
+        "explanation": "MULTIPLE ENDOCRINE NEOPLASIA TYPE 2 (MEN2) is an autosomal dominant cancer syndrome caused by activating germline gain-of-function mutations in the RET PROTO-ONCOGENE on chromosome 10q11. RET encodes a receptor tyrosine kinase involved in neural crest growth and differentiation. MEN2 is subdivided into two distinct clinical syndromes: (1) MEN2A (95% of cases): characterized by MEDULLARY THYROID CARCINOMA (100%), PHEOCHROMOCYTOMA (50%), and PRIMARY PARATHYROID HYPERPLASIA / HYPERPARATHYROIDISM (20-30%, causing hypercalcemia/nephrolithiasis). (2) MEN2B (5% of cases): characterized by MEDULLARY THYROID CARCINOMA (100%, presenting at an earlier age and far more aggressive than in 2A), PHEOCHROMOCYTOMA (50%), and UNIQUE PHENOTYPIC FEATURES: MUCOSAL NEUROMAS of the lips, tongue, and eyelids (fleshy subepithelial nerve proliferations), GASTROINTESTINAL GANGLIONEUROMATOSIS (causing severe chronic constipation or megacolon), PROMINENT CORNEAL NERVES, and a MARFANOID HABITUS (tall, thin, arachnodactyly, pectus deformity, but NO lens dislocation or aortic dissection). Crucially, PRIMARY PARATHYROID HYPERPLASIA IS ABSENT IN MEN2B (restricted to MEN2A). MEN2B is typically caused by a specific point mutation in the intracellular catalytic tyrosine kinase domain, most commonly M918T (exon 16), which causes ligand-independent constitutive kinase activation."
+      },
+      {
+        "text": "Bilateral acoustic vestibular schwannomas causing progressive sensorineural deafness",
+        "correct": false,
+        "explanation": "Bilateral acoustic schwannomas are pathognomonic for Neurofibromatosis Type 2 (NF2 / merlin gene defect on chromosome 22), not MEN2."
+      },
+      {
+        "text": "Superotemporal ectopia lentis and cystic medial necrosis of the ascending aortic root",
+        "correct": false,
+        "explanation": "Ectopia lentis and aortic root dilation occur in Marfan syndrome (FBN1 defect); patients with MEN2B have a marfanoid habitus, but do NOT have lens dislocation or aortic dissection."
+      }
+    ],
+    "explanation": "MULTIPLE ENDOCRINE NEOPLASIA TYPE 2 (MEN2) is an autosomal dominant cancer syndrome caused by activating germline gain-of-function mutations in the RET PROTO-ONCOGENE on chromosome 10q11. RET encodes a receptor tyrosine kinase involved in neural crest growth and differentiation. MEN2 is subdivided into two distinct clinical syndromes: (1) MEN2A (95% of cases): characterized by MEDULLARY THYROID CARCINOMA (100%), PHEOCHROMOCYTOMA (50%), and PRIMARY PARATHYROID HYPERPLASIA / HYPERPARATHYROIDISM (20-30%, causing hypercalcemia/nephrolithiasis). (2) MEN2B (5% of cases): characterized by MEDULLARY THYROID CARCINOMA (100%, presenting at an earlier age and far more aggressive than in 2A), PHEOCHROMOCYTOMA (50%), and UNIQUE PHENOTYPIC FEATURES: MUCOSAL NEUROMAS of the lips, tongue, and eyelids (fleshy subepithelial nerve proliferations), GASTROINTESTINAL GANGLIONEUROMATOSIS (causing severe chronic constipation or megacolon), PROMINENT CORNEAL NERVES, and a MARFANOID HABITUS (tall, thin, arachnodactyly, pectus deformity, but NO lens dislocation or aortic dissection). Crucially, PRIMARY PARATHYROID HYPERPLASIA IS ABSENT IN MEN2B (restricted to MEN2A). MEN2B is typically caused by a specific point mutation in the intracellular catalytic tyrosine kinase domain, most commonly M918T (exon 16), which causes ligand-independent constitutive kinase activation. Medullary thyroid cancer + pheochromocytoma + mucosal neuromas + marfanoid habitus (NO parathyroid) = MEN2B -> RET M918T mutation.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of MEN2B RET Proto-Oncogene Mutation and Neuroma Phenotype.",
+    "keyPoints": [
+      "MEN2B RET Proto-Oncogene Mutation and Neuroma Phenotype",
+      "Medullary thyroid cancer + pheochromocytoma + mucosal neuromas + marfanoid habitus (NO parathyroid) = MEN2B -> RET M918T mutation."
+    ],
+    "references": [
+      {
+        "label": "Eng C, Clayton D, Schuffenecker I, et al. The relationship between specific RET proto-oncogene mutations and disease phenotype in multiple endocrine neoplasia type 2. International RET Mutation Consortium analysis. JAMA. 1996;276(19):1575-1579. PMID: 8922452.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8922452/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0794",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Radial Nerve Spiral Groove vs Axillary Compression Triceps Reflex",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old man wakes up after a night of heavy alcohol consumption during which he fell asleep with his right arm draped awkwardly over the hard wooden backrest of a chair ('Saturday night palsy'). On physical examination, he has profound weakness of right wrist extension ('wrist drop') and inability to extend his right fingers at the metacarpophalangeal joints. Sensation to light touch and pinprick is diminished over the dorsal aspect of the right hand and the dorsal surfaces of the first three and a half digits. Neurological examination reveals: right biceps reflex is normal (2+), right brachioradialis reflex is diminished (1+), and right triceps reflex is completely normal and symmetrical (2+). Which of the following anatomical considerations explains why the triceps reflex is preserved despite dense wrist and finger extensor paralysis in this patient?",
+    "options": [
+      {
+        "text": "The triceps brachii muscle is innervated exclusively by the musculocutaneous nerve",
+        "correct": false,
+        "explanation": "The musculocutaneous nerve innervates anterior arm flexors (biceps brachii, coracobrachialis, brachialis); the triceps is innervated by the radial nerve."
+      },
+      {
+        "text": "The radial nerve divides into its superficial and deep branches within the bicipital groove of the proximal humerus",
+        "correct": false,
+        "explanation": "The radial nerve divides into superficial (sensory) and deep/posterior interosseous (motor) branches at the cubital fossa / supinator muscle, far distal to the spiral groove."
+      },
+      {
+        "text": "The triceps tendon stretch reflex is mediated purely by non-myelinated autonomic C fibers",
+        "correct": false,
+        "explanation": "The triceps stretch reflex is a monosynaptic somatic reflex mediated by group Ia myelinated sensory afferents and alpha-motor neuron efferents from C7-C8 roots."
+      },
+      {
+        "text": "The motor branches supplying the triceps brachii arise from the radial nerve proximal to the spiral (radial) groove within the axilla",
+        "correct": true,
+        "explanation": "The RADIAL NERVE originates from the posterior cord of the brachial plexus (roots C5-T1). It provides motor innervation to all extensor muscles of the upper limb (triceps, anconeus, brachioradialis, extensor carpi radialis longus/brevis, supinator, extensor digitorum, extensor pollicis longus/brevis) and sensory innervation to the posterior arm, posterior forearm, and dorsal radial aspect of the hand. The anatomical level of radial nerve injury is determined by which muscles and reflexes are spared: (1) INJURY AT THE AXILLA (e.g., crutch compression / 'crutch palsy'): the entire radial nerve is compressed before giving off any branches. This results in weakness of the TRICEPS (inability to extend the forearm), ABSENT TRICEPS REFLEX, wrist drop, finger drop, and sensory loss over the posterior arm, forearm, and dorsal hand. (2) INJURY AT THE SPIRAL (RADIAL) GROOVE OF THE HUMERUS (e.g., midshaft humeral fracture or 'Saturday night palsy' from prolonged arm compression over a hard edge): the radial nerve courses directly against the midshaft humerus. Importantly, THE MOTOR BRANCHES TO THE TRICEPS BRACHII BRANCH OFF PROXIMALLY IN THE AXILLA BEFORE THE RADIAL NERVE ENTERS THE SPIRAL GROOVE. Therefore, compression at the spiral groove spares triceps motor fibers, leaving FOREARM EXTENSION AND THE TRICEPS REFLEX COMPLETELY INTACT. Only the distal motor branches are injured, causing wrist drop, finger drop, diminished brachioradialis reflex, and dorsal hand numbness."
+      },
+      {
+        "text": "Axillary compression preserves the deep radial nerve due to collateral cross-innervation from the median nerve",
+        "correct": false,
+        "explanation": "There is no collateral motor cross-innervation from the median nerve to forearm extensors."
+      }
+    ],
+    "explanation": "The RADIAL NERVE originates from the posterior cord of the brachial plexus (roots C5-T1). It provides motor innervation to all extensor muscles of the upper limb (triceps, anconeus, brachioradialis, extensor carpi radialis longus/brevis, supinator, extensor digitorum, extensor pollicis longus/brevis) and sensory innervation to the posterior arm, posterior forearm, and dorsal radial aspect of the hand. The anatomical level of radial nerve injury is determined by which muscles and reflexes are spared: (1) INJURY AT THE AXILLA (e.g., crutch compression / 'crutch palsy'): the entire radial nerve is compressed before giving off any branches. This results in weakness of the TRICEPS (inability to extend the forearm), ABSENT TRICEPS REFLEX, wrist drop, finger drop, and sensory loss over the posterior arm, forearm, and dorsal hand. (2) INJURY AT THE SPIRAL (RADIAL) GROOVE OF THE HUMERUS (e.g., midshaft humeral fracture or 'Saturday night palsy' from prolonged arm compression over a hard edge): the radial nerve courses directly against the midshaft humerus. Importantly, THE MOTOR BRANCHES TO THE TRICEPS BRACHII BRANCH OFF PROXIMALLY IN THE AXILLA BEFORE THE RADIAL NERVE ENTERS THE SPIRAL GROOVE. Therefore, compression at the spiral groove spares triceps motor fibers, leaving FOREARM EXTENSION AND THE TRICEPS REFLEX COMPLETELY INTACT. Only the distal motor branches are injured, causing wrist drop, finger drop, diminished brachioradialis reflex, and dorsal hand numbness. Saturday night palsy = Radial nerve compression at spiral groove -> Wrist drop + preserved triceps reflex (triceps branches exit proximally in axilla).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Radial Nerve Spiral Groove vs Axillary Compression Triceps Reflex.",
+    "keyPoints": [
+      "Radial Nerve Spiral Groove vs Axillary Compression Triceps Reflex",
+      "Saturday night palsy = Radial nerve compression at spiral groove -> Wrist drop + preserved triceps reflex (triceps branches exit proximally in axilla)."
+    ],
+    "references": [
+      {
+        "label": "Spinner RJ, Poliakoff MB, Tiel RL. The origin of 'Saturday night palsy'? Neurosurgery. 2002;51(3):737-741. PMID: 12188953.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12188953/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0795",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Staphylococcal TSST-1 Superantigen Direct MHC Class II-TCR Cross-Linking",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old previously healthy woman presents to the emergency department with sudden-onset high fever, chills, vomiting, profuse watery diarrhea, and confusion. She is on day 3 of her menstrual cycle and has been using high-absorbency vaginal tampons. Vital signs: temperature 40.1°C (104.2°F), blood pressure 72/44 mm Hg, heart rate 136/min, and respirations 28/min. Physical examination reveals an obtunded, critically ill woman with diffuse, blanching erythema across her entire trunk and extremities resembling a severe sunburn, with bilateral conjunctival and pharyngeal injection. Laboratory studies show: WBC 19,400/microL with 28% band forms, platelets 48,000/microL, BUN 48 mg/dL, serum creatinine 3.4 mg/dL, total bilirubin 3.2 mg/dL, AST 340 U/L, and ALT 290 U/L. Blood cultures remain sterile, but vaginal swab culture yields abundant Staphylococcus aureus. Which of the following molecular mechanisms directly triggers the massive systemic cytokine release in this patient's illness?",
+    "options": [
+      {
+        "text": "Catalytic ADP-ribosylation of the alpha-subunit of elongation factor-2 halting ribosomal protein synthesis",
+        "correct": false,
+        "explanation": "ADP-ribosylation of EF-2 is the mechanism of Diphtheria toxin and Pseudomonas exotoxin A, not superantigen TSST-1."
+      },
+      {
+        "text": "Enzymatic degradation of host extracellular hyaluronic acid by staphylococcal hyaluronidase",
+        "correct": false,
+        "explanation": "Hyaluronidase degrades ground substance to facilitate local bacterial tissue spread; it does not produce systemic shock or cytokine storm."
+      },
+      {
+        "text": "Binding of the bacterial Fc-receptor protein A to host IgG preventing opsonization and phagocytosis",
+        "correct": false,
+        "explanation": "Protein A binds the Fc portion of IgG to prevent phagocytosis, but it is not a superantigen that activates T cells."
+      },
+      {
+        "text": "Endotoxin-mediated activation of Toll-like receptor 4 (TLR4) by outer membrane lipopolysaccharide",
+        "correct": false,
+        "explanation": "Lipopolysaccharide (LPS / endotoxin) is found only in GRAM-NEGATIVE bacteria and signals through TLR4; S. aureus is Gram-positive and lacks LPS/endotoxin."
+      },
+      {
+        "text": "Direct, non-specific cross-linking of the beta-chain of the T-cell receptor to MHC class II molecules on antigen-presenting cells outside the normal peptide-binding groove",
+        "correct": true,
+        "explanation": "STAPHYLOCOCCAL TOXIC SHOCK SYNDROME (TSS) is caused by TOXIC SHOCK SYNDROME TOXIN-1 (TSST-1), a prototype bacterial SUPERANTIGEN produced by Staphylococcus aureus. In normal physiological antigen presentation: an antigen-presenting cell (APC) processes protein into a specific 8-15 amino acid peptide, embeds it inside the peptide-binding cleft of an MHC CLASS II molecule, and presents it to a complementary T-cell receptor (TCR). This activates < 0.01% (1 in 10,000) of circulating naive T cells. In contrast, SUPERANTIGENS completely bypass conventional intracellular processing and peptide specificity. The TSST-1 molecule binds SIMULTANEOUSLY and EXTRACELLULARLY to two structures: (1) The conserved outer lateral surface of MHC CLASS II molecules on APCs; and (2) The variable domain of the T-cell receptor beta-chain (V-beta domain). This direct physical cross-linking forces APC-T cell engagement OUTSIDE THE PEPTIDE GROOVE, leading to the uncontrolled, POLYCLONAL ACTIVATION OF UP TO 20% OF ALL SYSTEMIC T LYMPHOCYTES. Activated T cells and macrophages unleash a catastrophic 'CYTOKINE STORM' dominated by INTERLEUKIN-1 (IL-1, fever), INTERLEUKIN-2 (IL-2, T-cell proliferation), TUMOR NECROSIS FACTOR-ALPHA (TNF-alpha, capillary leak, endothelial damage, refractory shock), and INTERFERON-GAMMA (macrophage activation), driving distributive septic shock, diffuse erythroderma (with late desquamation 1-2 weeks later, especially palms/soles), and multi-organ failure."
+      }
+    ],
+    "explanation": "STAPHYLOCOCCAL TOXIC SHOCK SYNDROME (TSS) is caused by TOXIC SHOCK SYNDROME TOXIN-1 (TSST-1), a prototype bacterial SUPERANTIGEN produced by Staphylococcus aureus. In normal physiological antigen presentation: an antigen-presenting cell (APC) processes protein into a specific 8-15 amino acid peptide, embeds it inside the peptide-binding cleft of an MHC CLASS II molecule, and presents it to a complementary T-cell receptor (TCR). This activates < 0.01% (1 in 10,000) of circulating naive T cells. In contrast, SUPERANTIGENS completely bypass conventional intracellular processing and peptide specificity. The TSST-1 molecule binds SIMULTANEOUSLY and EXTRACELLULARLY to two structures: (1) The conserved outer lateral surface of MHC CLASS II molecules on APCs; and (2) The variable domain of the T-cell receptor beta-chain (V-beta domain). This direct physical cross-linking forces APC-T cell engagement OUTSIDE THE PEPTIDE GROOVE, leading to the uncontrolled, POLYCLONAL ACTIVATION OF UP TO 20% OF ALL SYSTEMIC T LYMPHOCYTES. Activated T cells and macrophages unleash a catastrophic 'CYTOKINE STORM' dominated by INTERLEUKIN-1 (IL-1, fever), INTERLEUKIN-2 (IL-2, T-cell proliferation), TUMOR NECROSIS FACTOR-ALPHA (TNF-alpha, capillary leak, endothelial damage, refractory shock), and INTERFERON-GAMMA (macrophage activation), driving distributive septic shock, diffuse erythroderma (with late desquamation 1-2 weeks later, especially palms/soles), and multi-organ failure. Menstruating woman + tampon + refractory shock + diffuse sunburn rash + multi-organ failure = Toxic shock syndrome (TSST-1) -> Direct cross-linking of MHC-II to TCR V-beta.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Staphylococcal TSST-1 Superantigen Direct MHC Class II-TCR Cross-Linking.",
+    "keyPoints": [
+      "Staphylococcal TSST-1 Superantigen Direct MHC Class II-TCR Cross-Linking",
+      "Menstruating woman + tampon + refractory shock + diffuse sunburn rash + multi-organ failure = Toxic shock syndrome (TSST-1) -> Direct cross-linking of MHC-II to TCR V-beta."
+    ],
+    "references": [
+      {
+        "label": "McCormick JK, Yarwood JM, Schlievert PM. Toxic shock syndrome and bacterial superantigens: an update. Annu Rev Microbiol. 2001;55:77-104. PMID: 11544350.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11544350/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0796",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Lesch-Nyhan Syndrome HGPRT Deficiency and Purine Salvage Failure",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 3-year-old boy is brought for severe neurological disability, involuntary spastic movements, and behavioral disturbances. His mother reports that he began biting his lips and finger pads so severely that he has sustained partial amputation of his lower lip and multiple infected digital ulcers ('self-mutilation'). He was noted to have orange, sand-like crystals in his diapers during infancy. On physical examination, he has marked choreoathetosis, generalized dystonia, spastic quadriparesis, and hyperreflexia with positive Babinski signs bilaterally. Laboratory evaluation reveals: serum uric acid 14.8 mg/dL (normal 2.0-5.5 mg/dL) and 24-hour urinary uric acid excretion 4 times the upper limit of normal. Serum phosphoribosyl pyrophosphate (PRPP) concentration is markedly elevated, and hepatic biopsy demonstrates undetectable activity of hypoxanthine-guanine phosphoribosyltransferase (HGPRT). Which of the following alterations in purine nucleotide metabolism occurs as a direct compensatory consequence of this enzymatic deficiency?",
+    "options": [
+      {
+        "text": "Accelerated de novo purine nucleotide biosynthesis driven by PRPP accumulation and loss of feedback inhibition on PRPP amidotransferase",
+        "correct": true,
+        "explanation": "LESCH-NYHAN SYNDROME is an X-linked recessive inborn error of PURINE SALVAGE caused by deficiency of HYPOXANTHINE-GUANINE PHOSPHORIBOSYLTRANSFERASE (HGPRT). HGPRT normally salvages free purine bases by transferring a phosphoribosyl group from 5-PHOSPHORIBOSYL-1-PYROPHOSPHATE (PRPP) onto hypoxanthine (forming IMP) and guanine (forming GMP). When HGPRT is absent: (1) Free hypoxanthine and guanine CANNOT BE SALVAGED. Instead, they are degraded by XANTHINE OXIDASE into massive quantities of URIC ACID, causing severe hyperuricemia, acute gouty arthritis, uric acid nephrolithiasis, and orange 'sand-like' sodium urate crystals in diapers. (2) Because PRPP is not consumed by the salvage pathway, INTRACELLULAR PRPP ACCUMULATES TO SUPRAPHYSIOLOGICAL LEVELS. PRPP is the primary substrate and allosteric activator of GLUTAMINE-PRPP AMIDOTRANSFERASE, the rate-limiting committed enzyme of DE NOVO PURINE BIOSYNTHESIS. Furthermore, lack of salvaged IMP and GMP removes normal end-product negative feedback inhibition on PRPP amidotransferase. Consequently, DE NOVO PURINE BIOSYNTHESIS IS ACCELERATED 10- TO 20-FOLD, generating a massive flux of purines that further fuels uric acid overproduction. Dopamine deficiency in the basal ganglia underlies the dystonia, choreoathetosis, and compulsive self-mutilation (lip/finger biting). Treatment with allopurinol or febuxostat inhibits xanthine oxidase, preventing hyperuricemic nephropathy and gout, but does not alter neurological or behavioral outcomes."
+      },
+      {
+        "text": "Massive accumulation of toxic deoxyadenosine (dATP) causing apoptosis of immature T and B lymphocytes",
+        "correct": false,
+        "explanation": "Accumulation of dATP occurs in ADENOSINE DEAMINASE (ADA) deficiency, causing severe combined immunodeficiency (SCID), not Lesch-Nyhan syndrome or self-mutilation."
+      },
+      {
+        "text": "Total depletion of PRPP halting all cellular pyrimidine nucleotide synthesis via CPS-II shutoff",
+        "correct": false,
+        "explanation": "PRPP is dramatically ELEVATED (not depleted) in Lesch-Nyhan because it is not consumed by HGPRT salvage."
+      },
+      {
+        "text": "Complete shutoff of hepatic xanthine oxidase preventing all conversion of hypoxanthine to xanthine",
+        "correct": false,
+        "explanation": "Xanthine oxidase is fully active and hyperstimulated by the massive excess of purine substrate; allopurinol is administered pharmacologically to inhibit it."
+      },
+      {
+        "text": "Defective degradation of purine rings leading to toxic hepatic urea accumulation and hyperammonemia",
+        "correct": false,
+        "explanation": "Purines are degraded to uric acid, not urea; urea cycle disorders cause hyperammonemia, which is absent in Lesch-Nyhan."
+      }
+    ],
+    "explanation": "LESCH-NYHAN SYNDROME is an X-linked recessive inborn error of PURINE SALVAGE caused by deficiency of HYPOXANTHINE-GUANINE PHOSPHORIBOSYLTRANSFERASE (HGPRT). HGPRT normally salvages free purine bases by transferring a phosphoribosyl group from 5-PHOSPHORIBOSYL-1-PYROPHOSPHATE (PRPP) onto hypoxanthine (forming IMP) and guanine (forming GMP). When HGPRT is absent: (1) Free hypoxanthine and guanine CANNOT BE SALVAGED. Instead, they are degraded by XANTHINE OXIDASE into massive quantities of URIC ACID, causing severe hyperuricemia, acute gouty arthritis, uric acid nephrolithiasis, and orange 'sand-like' sodium urate crystals in diapers. (2) Because PRPP is not consumed by the salvage pathway, INTRACELLULAR PRPP ACCUMULATES TO SUPRAPHYSIOLOGICAL LEVELS. PRPP is the primary substrate and allosteric activator of GLUTAMINE-PRPP AMIDOTRANSFERASE, the rate-limiting committed enzyme of DE NOVO PURINE BIOSYNTHESIS. Furthermore, lack of salvaged IMP and GMP removes normal end-product negative feedback inhibition on PRPP amidotransferase. Consequently, DE NOVO PURINE BIOSYNTHESIS IS ACCELERATED 10- TO 20-FOLD, generating a massive flux of purines that further fuels uric acid overproduction. Dopamine deficiency in the basal ganglia underlies the dystonia, choreoathetosis, and compulsive self-mutilation (lip/finger biting). Treatment with allopurinol or febuxostat inhibits xanthine oxidase, preventing hyperuricemic nephropathy and gout, but does not alter neurological or behavioral outcomes. Orange diaper crystals + choreoathetosis + lip/finger biting self-mutilation + high uric acid = Lesch-Nyhan syndrome -> HGPRT defect -> PRPP accumulates -> Accelerates de novo purine synthesis.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Lesch-Nyhan Syndrome HGPRT Deficiency and Purine Salvage Failure.",
+    "keyPoints": [
+      "Lesch-Nyhan Syndrome HGPRT Deficiency and Purine Salvage Failure",
+      "Orange diaper crystals + choreoathetosis + lip/finger biting self-mutilation + high uric acid = Lesch-Nyhan syndrome -> HGPRT defect -> PRPP accumulates -> Accelerates de novo puri"
+    ],
+    "references": [
+      {
+        "label": "Jinnah HA, Friedmann T. Lesch-Nyhan disease and its variants. In: Scriver CR, et al., eds. The Metabolic and Molecular Bases of Inherited Disease. McGraw-Hill; 2001:2537-2570. PMID: 11175306.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11175306/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0797",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "Idiopathic Pulmonary Fibrosis Alveolar Injury and Fibroblastic Foci",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old man presents with a 9-month history of progressive shortness of breath on exertion and a dry, persistent nonproductive cough. He has a 45-pack-year smoking history but no occupational exposure to dusts or chemicals. On physical examination, he is afebrile with an oxygen saturation of 91% on room air that drops to 82% during a 6-minute walk test. Pulmonary examination reveals fine, end-inspiratory 'Velcro-like' crackles at both lung bases. Digital examination demonstrates prominent clubbing of all fingers. Pulmonary function tests show: FEV1/FVC ratio 84%, forced vital capacity (FVC) 52% of predicted, and diffusing capacity of the lungs for carbon monoxide (DLCO) 44% of predicted. High-resolution chest CT (HRCT) demonstrates subpleural and basilar-predominant reticular opacities, traction bronchiectasis, and prominent subpleural honeycomb cystic changes with architectural distortion. Surgical lung biopsy confirms a histological pattern of usual interstitial pneumonia (UIP). Which of the following cellular mechanisms is the primary initiator of fibrosis in this disorder?",
+    "options": [
+      {
+        "text": "Type III immune complex deposition along alveolar septal capillaries activating the classical complement cascade",
+        "correct": false,
+        "explanation": "Immune complex deposition occurs in systemic lupus erythematosus or hypersensitivity pneumonitis, not in idiopathic pulmonary fibrosis."
+      },
+      {
+        "text": "Repetitive microinjury to genetically susceptible alveolar epithelial type II cells triggering aberrant senescence, failure of re-epithelialization, and excessive secretion of TGF-beta",
+        "correct": true,
+        "explanation": "IDIOPATHIC PULMONARY FIBROSIS (IPF) is a chronic, progressive, fibrosing interstitial lung disease with a histological and radiological pattern of USUAL INTERSTITIAL PNEUMONIA (UIP). Unlike historic paradigms that viewed IPF as an inflammatory disorder, modern pathogenesis establishes that IPF is driven by ABERRANT ALVEOLAR EPITHELIAL REPAIR IN RESPONSE TO REPETITIVE MICROINJURY. Environmental triggers (cigarette smoking, viral infections, gastroesophageal reflux) cause microinjury to genetically susceptible ALVEOLAR TYPE II EPITHELIAL CELLS (frequently carrying mutations in telomerase genes [TERT, TERC] or surfactant protein genes [SFTPC]). Injured type II pneumocytes undergo accelerated senescence, apoptosis, and epithelial-mesenchymal transition (EMT), failing to re-epithelialize denuded basement membranes. In an aberrant attempt at repair, senescent epithelial cells secrete massive amounts of profibrotic cytokines, most prominently TRANSFORMING GROWTH FACTOR-BETA (TGF-beta), platelet-derived growth factor (PDGF), and fibroblast growth factor (FGF). These cytokines recruit and activate residential fibroblasts and circulating fibrocytes, inducing their differentiation into contractile MYOFIBROBLASTS. Myofibroblasts proliferate in characteristic FIBROBLASTIC FOCI and deposit excessive, disorganized extracellular matrix (type I and III collagen). Histopathology shows SPATIAL AND TEMPORAL HETEROGENEITY (patches of dense fibrosis and honeycombing alternating with normal lung tissue). Antifibrotic therapies (pirfenidone [inhibits TGF-beta] and nintedanib [tyrosine kinase inhibitor targeting PDGF/FGF/VEGF]) slow FVC decline."
+      },
+      {
+        "text": "Massive clonal proliferation of cytotoxic CD8+ T lymphocytes forming non-caseating granulomas along lymphatic pathways",
+        "correct": false,
+        "explanation": "Non-caseating granulomas along bronchovascular bundles characterize SARCOIDOSIS, which responds to corticosteroids and shows upper-lobe predominance."
+      },
+      {
+        "text": "Clonal proliferation of CD1a-positive Langerhans histiocytes containing Birbeck granules on electron microscopy",
+        "correct": false,
+        "explanation": "Birbeck granule-containing histiocytes characterize Pulmonary Langerhans Cell Histiocytosis (PLCH), which affects young smokers and presents with upper-lobe cysts and nodules."
+      },
+      {
+        "text": "Deficiency of alpha-1 antitrypsin allowing uncontrolled neutrophil elastase destruction of lower-lobe alveolar elastic tissue",
+        "correct": false,
+        "explanation": "Alpha-1 antitrypsin deficiency causes panacinar EMPHYSEMA (tissue destruction with hyperinflation and increased lung compliance), not restrictive pulmonary fibrosis with honeycombing."
+      }
+    ],
+    "explanation": "IDIOPATHIC PULMONARY FIBROSIS (IPF) is a chronic, progressive, fibrosing interstitial lung disease with a histological and radiological pattern of USUAL INTERSTITIAL PNEUMONIA (UIP). Unlike historic paradigms that viewed IPF as an inflammatory disorder, modern pathogenesis establishes that IPF is driven by ABERRANT ALVEOLAR EPITHELIAL REPAIR IN RESPONSE TO REPETITIVE MICROINJURY. Environmental triggers (cigarette smoking, viral infections, gastroesophageal reflux) cause microinjury to genetically susceptible ALVEOLAR TYPE II EPITHELIAL CELLS (frequently carrying mutations in telomerase genes [TERT, TERC] or surfactant protein genes [SFTPC]). Injured type II pneumocytes undergo accelerated senescence, apoptosis, and epithelial-mesenchymal transition (EMT), failing to re-epithelialize denuded basement membranes. In an aberrant attempt at repair, senescent epithelial cells secrete massive amounts of profibrotic cytokines, most prominently TRANSFORMING GROWTH FACTOR-BETA (TGF-beta), platelet-derived growth factor (PDGF), and fibroblast growth factor (FGF). These cytokines recruit and activate residential fibroblasts and circulating fibrocytes, inducing their differentiation into contractile MYOFIBROBLASTS. Myofibroblasts proliferate in characteristic FIBROBLASTIC FOCI and deposit excessive, disorganized extracellular matrix (type I and III collagen). Histopathology shows SPATIAL AND TEMPORAL HETEROGENEITY (patches of dense fibrosis and honeycombing alternating with normal lung tissue). Antifibrotic therapies (pirfenidone [inhibits TGF-beta] and nintedanib [tyrosine kinase inhibitor targeting PDGF/FGF/VEGF]) slow FVC decline. Velcro crackles + clubbing + UIP pattern (subpleural honeycombing, basal reticular) + restrictive PFTs = IPF -> Repetitive type II pneumocyte injury with excess TGF-beta release.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Idiopathic Pulmonary Fibrosis Alveolar Injury and Fibroblastic Foci.",
+    "keyPoints": [
+      "Idiopathic Pulmonary Fibrosis Alveolar Injury and Fibroblastic Foci",
+      "Velcro crackles + clubbing + UIP pattern (subpleural honeycombing, basal reticular) + restrictive PFTs = IPF -> Repetitive type II pneumocyte injury with excess TGF-beta release."
+    ],
+    "references": [
+      {
+        "label": "King TE Jr, Pardo A, Selman M. Idiopathic pulmonary fibrosis. Lancet. 2011;378(9807):1949-1961. PMID: 21719092.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21719092/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0798",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "Heparin-Induced Thrombocytopenia Type II PF4 Complex Antibodies",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 66-year-old woman undergoes an elective total knee arthroplasty and is initiated on prophylactic subcutaneous unfractionated heparin 5,000 units twice daily. On postoperative day 6, her routine complete blood count reveals that her platelet count has dropped from a baseline of 240,000/microL to 86,000/microL (a 64% reduction). Simultaneously, she develops sudden left leg swelling, pain, and calf tenderness. Duplex ultrasound confirms an acute occlusive deep vein thrombosis of the left popliteal and femoral veins. Review of her medical record reveals no other new medications. Which of the following immunological mechanisms is responsible for this patient's thrombocytopenia and paradoxical thrombotic state?",
+    "options": [
+      {
+        "text": "Direct non-immunological agglutination of circulating platelets occurring within the first 48 hours without thrombosis (HIT Type I)",
+        "correct": false,
+        "explanation": "HIT Type I is a benign, non-immune, transient drop in platelets occurring within the first 1-2 days of heparin due to direct platelet aggregation; it resolves spontaneously without thrombosis and does not require stopping heparin."
+      },
+      {
+        "text": "Complement-mediated intravascular hemolysis driven by cold IgM agglutinins binding erythrocyte I antigens",
+        "correct": false,
+        "explanation": "Cold agglutinin disease causes IgM-mediated complement hemolysis in cold extremities, not heparin-induced platelet activation or popliteal DVT."
+      },
+      {
+        "text": "IgG autoantibodies directed against platelet factor 4 (PF4)-heparin complexes that bind platelet Fc-gamma-RIIa receptors, causing intense platelet activation and microparticle release",
+        "correct": true,
+        "explanation": "HEPARIN-INDUCED THROMBOCYTOPENIA TYPE II (HIT) is a life-threatening, immune-mediated prothrombotic disorder triggered by heparin exposure (most commonly unfractionated heparin, but can occur with low-molecular-weight heparin). It characteristically presents 5 TO 10 DAYS AFTER HEPARIN INITIATION with a >= 50% DROP IN PLATELET COUNT (typically nadir 30,000-80,000/microL; severe nadirs < 20,000/microL are uncommon). Pathogenesis: Heparin molecules bind to positively charged PLATELET FACTOR 4 (PF4), a chemokine stored in platelet alpha-granules and released upon platelet activation. This creates conformational changes that expose neo-epitopes. The patient mounts an IGG ANTIBODY RESPONSE AGAINST THE PF4-HEPARIN COMPLEX. The Fc portions of these IgG antibodies bind to the low-affinity FC-GAMMA-RIIA (CD32) RECEPTORS on the surface of adjacent platelets. Cross-linking of Fc-gamma-RIIa receptors triggers INTENSE, WIDESPREAD PLATELET ACTIVATION, aggregation, and shedding of procoagulant platelet microparticles. Activated platelets release thrombin, driving widespread systemic fibrin generation. Consequently: (1) Consumed platelets cause THROMBOCYTOPENIA; (2) Massive platelet activation and thrombin generation produce a PARADOXICALLY EXTREME PROTHROMBOTIC STATE (arterial and deep venous thromboses, pulmonary embolism, stroke, skin necrosis). Platelet transfusions are strictly contraindicated. Management requires IMMEDIATE CESSATION OF ALL HEPARIN PRODUCTS and initiation of an alternative non-heparin parenteral anticoagulant, specifically a DIRECT THROMBIN INHIBITOR (ARGATROBAN, BIVALIRUDIN) or factor Xa inhibitor (fondaparinux). Warfarin must not be started until platelet count recovers (>= 150,000/microL) to prevent warfarin-induced skin necrosis."
+      },
+      {
+        "text": "Autoantibodies targeting glycoprotein IIb/IIIa receptors causing splenic macrophage phagocytosis without thrombosis",
+        "correct": false,
+        "explanation": "Immune thrombocytopenia (ITP) involves anti-GPIIb/IIIa antibodies causing isolated thrombocytopenia and bleeding/petechiae, not paradoxical massive venous thrombosis."
+      },
+      {
+        "text": "Severe deficiency of the metalloproteinase ADAMTS13 leading to ultralarge von Willebrand factor multimers",
+        "correct": false,
+        "explanation": "ADAMTS13 deficiency causes Thrombotic Thrombocytopenic Purpura (TTP: pentad of fever, microangiopathic hemolytic anemia, thrombocytopenia, neurological deficits, renal failure), not heparin-PF4 complex-mediated DVT."
+      }
+    ],
+    "explanation": "HEPARIN-INDUCED THROMBOCYTOPENIA TYPE II (HIT) is a life-threatening, immune-mediated prothrombotic disorder triggered by heparin exposure (most commonly unfractionated heparin, but can occur with low-molecular-weight heparin). It characteristically presents 5 TO 10 DAYS AFTER HEPARIN INITIATION with a >= 50% DROP IN PLATELET COUNT (typically nadir 30,000-80,000/microL; severe nadirs < 20,000/microL are uncommon). Pathogenesis: Heparin molecules bind to positively charged PLATELET FACTOR 4 (PF4), a chemokine stored in platelet alpha-granules and released upon platelet activation. This creates conformational changes that expose neo-epitopes. The patient mounts an IGG ANTIBODY RESPONSE AGAINST THE PF4-HEPARIN COMPLEX. The Fc portions of these IgG antibodies bind to the low-affinity FC-GAMMA-RIIA (CD32) RECEPTORS on the surface of adjacent platelets. Cross-linking of Fc-gamma-RIIa receptors triggers INTENSE, WIDESPREAD PLATELET ACTIVATION, aggregation, and shedding of procoagulant platelet microparticles. Activated platelets release thrombin, driving widespread systemic fibrin generation. Consequently: (1) Consumed platelets cause THROMBOCYTOPENIA; (2) Massive platelet activation and thrombin generation produce a PARADOXICALLY EXTREME PROTHROMBOTIC STATE (arterial and deep venous thromboses, pulmonary embolism, stroke, skin necrosis). Platelet transfusions are strictly contraindicated. Management requires IMMEDIATE CESSATION OF ALL HEPARIN PRODUCTS and initiation of an alternative non-heparin parenteral anticoagulant, specifically a DIRECT THROMBIN INHIBITOR (ARGATROBAN, BIVALIRUDIN) or factor Xa inhibitor (fondaparinux). Warfarin must not be started until platelet count recovers (>= 150,000/microL) to prevent warfarin-induced skin necrosis. Heparin day 6 + >50% platelet drop + acute DVT = HIT Type II -> IgG anti-PF4-heparin complexes bind Fc-gamma-RIIa receptors, activating platelets.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Heparin-Induced Thrombocytopenia Type II PF4 Complex Antibodies.",
+    "keyPoints": [
+      "Heparin-Induced Thrombocytopenia Type II PF4 Complex Antibodies",
+      "Heparin day 6 + >50% platelet drop + acute DVT = HIT Type II -> IgG anti-PF4-heparin complexes bind Fc-gamma-RIIa receptors, activating platelets."
+    ],
+    "references": [
+      {
+        "label": "Warkentin TE. Heparin-induced thrombocytopenia: pathogenesis and management. Br J Haematol. 2003;121(4):535-555. PMID: 12752095.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12752095/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0799",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Countercurrent Multiplier and Urea Recycling Medullary Osmolality",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old medical student participates in a renal physiology experiment evaluating urinary concentrating ability during a 24-hour water-deprivation test. By hour 20 of total fluid restriction, his urine osmolality reaches 1,250 mOsm/kg H2O with a urine flow rate of 0.4 mL/min. Plasma osmolality is 298 mOsm/kg H2O, and plasma arginine vasopressin (ADH) concentration is markedly elevated. Which of the following transport mechanisms within the renal medulla is specifically stimulated by vasopressin to contribute approximately 50% of the hypertonic medullary interstitial osmotic gradient necessary to achieve this maximal urine concentration?",
+    "options": [
+      {
+        "text": "Direct activation of NKCC2 cotransporters in the thin descending limb of Henle",
+        "correct": false,
+        "explanation": "The thin descending limb of Henle is permeable to water via aquaporin-1 but contains NO active transporters (no NKCC2) and is impermeable to NaCl."
+      },
+      {
+        "text": "Allosteric stimulation of the apical sodium-chloride cotransporter (NCCT) in the cortical collecting duct",
+        "correct": false,
+        "explanation": "NCCT is located in the distal convoluted tubule (inhibited by thiazides), not the collecting duct, and is regulated by aldosterone and with-no-lysine kinases (WNK), not vasopressin."
+      },
+      {
+        "text": "Inhibition of medullary vasa recta blood flow mediated by endothelin-1 receptor activation",
+        "correct": false,
+        "explanation": "Vasa recta maintain the medullary gradient via passive countercurrent exchange; vasopressin does not shut off flow via endothelin-1."
+      },
+      {
+        "text": "Upregulation of apical UT-A1 and basolateral UT-A3 urea transporters in the inner medullary collecting duct, facilitating rapid urea recycling into the deep medullary interstitium",
+        "correct": true,
+        "explanation": "The kidney's ability to concentrate urine up to 1,200-1,400 mOsm/kg requires the creation and maintenance of a CORTICOMEDULLARY OSMOTIC GRADIENT in the renal interstitium (from 300 mOsm/kg at the corticomedullary junction to 1,200 mOsm/kg at the papillary tip). This gradient is generated by two fundamental physiological systems: (1) THE COUNTERCURRENT MULTIPLIER in the loops of Henle: The thick ascending limb (TAL) actively reabsorbs NaCl via apical NKCC2 cotransporters WITHOUT WATER (the TAL is water-impermeable), depositing solute into the outer medullary interstitium and diluting luminal fluid ('diluting segment'). (2) UREA RECYCLING IN THE INNER MEDULLARY COLLECTING DUCT (IMCD): NaCl accounts for ~50% of the medullary interstitial osmolality; the REMAINING ~50% IS CONTRIBUTED BY UREA. In states of dehydration, elevated ARGININE VASOPRESSIN (ADH) binds basolateral V2 receptors on principal cells, stimulating adenylate cyclase to produce cAMP and PKA activation. This triggers two distinct actions: (a) Insertion of AQUAPORIN-2 (AQP2) water channels into the apical membranes of the cortical and outer medullary collecting ducts, allowing massive water reabsorption. As water is reabsorbed while the cortical and outer medullary collecting ducts remain IMPERMEABLE TO UREA, luminal urea concentration rises dramatically. (b) When the urea-concentrated fluid reaches the INNER medullary collecting duct, VASOPRESSIN DIRECTLY PHOSPHORYLATES AND ACTIVATES FACILITATED UREA TRANSPORTERS: apical UT-A1 and basolateral UT-A3. Urea diffuses down its steep concentration gradient out of the IMCD lumen into the deep papillary interstitium, concentrating interstitial solute to 1,200+ mOsm/kg. Interstitial urea then diffuses into the thin descending limb of Henle (via UT-A2), recycling back through the nephron."
+      },
+      {
+        "text": "Upregulation of the basolateral Na+/Ca2+ exchanger (NCX1) in the proximal convoluted tubule",
+        "correct": false,
+        "explanation": "NCX1 is located in the distal convoluted tubule and heart; it does not contribute to the inner medullary hypertonic osmotic gradient."
+      }
+    ],
+    "explanation": "The kidney's ability to concentrate urine up to 1,200-1,400 mOsm/kg requires the creation and maintenance of a CORTICOMEDULLARY OSMOTIC GRADIENT in the renal interstitium (from 300 mOsm/kg at the corticomedullary junction to 1,200 mOsm/kg at the papillary tip). This gradient is generated by two fundamental physiological systems: (1) THE COUNTERCURRENT MULTIPLIER in the loops of Henle: The thick ascending limb (TAL) actively reabsorbs NaCl via apical NKCC2 cotransporters WITHOUT WATER (the TAL is water-impermeable), depositing solute into the outer medullary interstitium and diluting luminal fluid ('diluting segment'). (2) UREA RECYCLING IN THE INNER MEDULLARY COLLECTING DUCT (IMCD): NaCl accounts for ~50% of the medullary interstitial osmolality; the REMAINING ~50% IS CONTRIBUTED BY UREA. In states of dehydration, elevated ARGININE VASOPRESSIN (ADH) binds basolateral V2 receptors on principal cells, stimulating adenylate cyclase to produce cAMP and PKA activation. This triggers two distinct actions: (a) Insertion of AQUAPORIN-2 (AQP2) water channels into the apical membranes of the cortical and outer medullary collecting ducts, allowing massive water reabsorption. As water is reabsorbed while the cortical and outer medullary collecting ducts remain IMPERMEABLE TO UREA, luminal urea concentration rises dramatically. (b) When the urea-concentrated fluid reaches the INNER medullary collecting duct, VASOPRESSIN DIRECTLY PHOSPHORYLATES AND ACTIVATES FACILITATED UREA TRANSPORTERS: apical UT-A1 and basolateral UT-A3. Urea diffuses down its steep concentration gradient out of the IMCD lumen into the deep papillary interstitium, concentrating interstitial solute to 1,200+ mOsm/kg. Interstitial urea then diffuses into the thin descending limb of Henle (via UT-A2), recycling back through the nephron. Maximal urine concentration (1250 mOsm/kg) + ADH = High inner medullary osmolality -> ADH activates UT-A1/UT-A3 in IMCD for urea recycling into deep interstitium.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Countercurrent Multiplier and Urea Recycling Medullary Osmolality.",
+    "keyPoints": [
+      "Countercurrent Multiplier and Urea Recycling Medullary Osmolality",
+      "Maximal urine concentration (1250 mOsm/kg) + ADH = High inner medullary osmolality -> ADH activates UT-A1/UT-A3 in IMCD for urea recycling into deep interstitium."
+    ],
+    "references": [
+      {
+        "label": "Sands JM. Mammalian urea transporters. Annu Rev Physiol. 2003;65:543-566. PMID: 12517997.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12517997/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0800",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Nervous System",
+    "topic": "Guillain-Barré Syndrome Mimicry and Albuminocytologic Dissociation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old previously healthy man presents to the emergency department with a 3-day history of progressive ascending weakness and numbness that began in his feet and has now ascended to involve both thighs and hands ('glove-and-stocking' distribution). Two weeks ago, he experienced a 4-day episode of crampy abdominal pain and self-limited watery diarrhea following a barbecue. Physical examination reveals bilateral symmetrical lower extremity weakness (3/5 strength in hip flexors, 2/5 in ankle dorsiflexors) and upper extremity weakness (4/5 strength in intrinsic hand muscles). Sensation to light touch and pinprick is mildly reduced in the distal extremities. Deep tendon reflexes are completely absent (0+) in the patellar and Achilles tendons bilaterally, and diminished (1+) in the biceps and brachioradialis. Cranial nerve examination is normal, but his forced vital capacity (FVC) has decreased to 18 mL/kg. Lumbar puncture demonstrates: opening pressure 140 mm H2O, WBC 2/microL (normal 0-5), glucose 62 mg/dL, and markedly elevated protein at 148 mg/dL (normal 15-45 mg/dL). Which of the following immunological mechanisms is the trigger for this patient's acute polyradiculoneuropathy?",
+    "options": [
+      {
+        "text": "Direct neurotropic viral invasion and cytolytic destruction of spinal anterior horn alpha-motor neurons",
+        "correct": false,
+        "explanation": "Direct destruction of anterior horn cells causes POLIOMYELITIS or West Nile virus, presenting with asymmetric flaccid paralysis and CSF pleocytosis (elevated WBCs)."
+      },
+      {
+        "text": "Autoantibodies targeting voltage-gated potassium channels (VGKC) in the central limbic system",
+        "correct": false,
+        "explanation": "Anti-VGKC (LGI1/CASPR2) antibodies cause autoimmune limbic encephalitis and neuromyotonia, characterized by seizures, confusion, and myokymia."
+      },
+      {
+        "text": "Clonal expansion of cytotoxic T cells against myelin basic protein causing central demyelinating plaques",
+        "correct": false,
+        "explanation": "Autoimmune attack against central myelin basic protein characterizes MULTIPLE SCLEROSIS, producing upper motor neuron signs (spasticity, hyperreflexia, positive Babinski) and oligoclonal bands in CSF."
+      },
+      {
+        "text": "Microvascular occlusion of the vasa nervorum by small-vessel leukocytoclastic vasculitis",
+        "correct": false,
+        "explanation": "Vasculitic neuropathy causes mononeuritis multiplex (asymmetric multifocal nerve drop, such as PAN), not ascending symmetrical areflexic paralysis with albuminocytologic dissociation."
+      },
+      {
+        "text": "Molecular mimicry between Campylobacter jejuni lipooligosaccharide (LOS) and peripheral nerve GM1/GD1a gangliosides triggering autoimmune demyelination and complement activation",
+        "correct": true,
+        "explanation": "GUILLAIN-BARRÉ SYNDROME (GBS), most commonly manifesting as ACUTE INFLAMMATORY DEMYELINATING POLYRADICULONEUROPATHY (AIDP), is an acute-onset, post-infectious, immune-mediated polyneuropathy. Approximately 30% of cases are triggered by CAMPYLOBACTER JEJUNI gastroenteritis (a curved, microaerophilic, oxidase-positive Gram-negative rod that grows at 42°C), followed by CMV, EBV, Mycoplasma, and Zika virus. Pathogenesis is driven by MOLECULAR MIMICRY: The core structure of C. jejuni outer membrane LIPOOLIGOSACCHARIDE (LOS) bears structural homology to carbohydrate epitopes on human peripheral nerve GANGLIOSIDES (such as GM1, GD1a, GQ1b). In genetically predisposed individuals, anti-LOS antibodies cross-react with gangliosides and nodal antigens on Schwann cell membranes and axons. Autoreactive antibodies bind the outer surface of Schwann cells, activating the classical complement cascade (C5b-9 MAC formation) and recruiting endoneurial macrophages that strip and phagocytose the myelin sheath. Clinical features include ASCENDING SYMMETRIC FLACCID WEAKNESS with AREFLEXIA (absent deep tendon reflexes). Autonomic instability (arrhythmias, labile blood pressure) and diaphragmatic failure (monitoring FVC is mandatory) can be life-threatening. The pathognomonic diagnostic hallmark on CSF analysis is ALBUMINOCYTOLOGIC DISSOCIATION: markedly ELEVATED PROTEIN with a COMPLETELY NORMAL WHITE BLOOD CELL COUNT (< 5 WBC/microL). First-line treatments are INTRAVENOUS IMMUNOGLOBULIN (IVIG) or PLASMAPHERESIS (corticosteroids are ineffective)."
+      }
+    ],
+    "explanation": "GUILLAIN-BARRÉ SYNDROME (GBS), most commonly manifesting as ACUTE INFLAMMATORY DEMYELINATING POLYRADICULONEUROPATHY (AIDP), is an acute-onset, post-infectious, immune-mediated polyneuropathy. Approximately 30% of cases are triggered by CAMPYLOBACTER JEJUNI gastroenteritis (a curved, microaerophilic, oxidase-positive Gram-negative rod that grows at 42°C), followed by CMV, EBV, Mycoplasma, and Zika virus. Pathogenesis is driven by MOLECULAR MIMICRY: The core structure of C. jejuni outer membrane LIPOOLIGOSACCHARIDE (LOS) bears structural homology to carbohydrate epitopes on human peripheral nerve GANGLIOSIDES (such as GM1, GD1a, GQ1b). In genetically predisposed individuals, anti-LOS antibodies cross-react with gangliosides and nodal antigens on Schwann cell membranes and axons. Autoreactive antibodies bind the outer surface of Schwann cells, activating the classical complement cascade (C5b-9 MAC formation) and recruiting endoneurial macrophages that strip and phagocytose the myelin sheath. Clinical features include ASCENDING SYMMETRIC FLACCID WEAKNESS with AREFLEXIA (absent deep tendon reflexes). Autonomic instability (arrhythmias, labile blood pressure) and diaphragmatic failure (monitoring FVC is mandatory) can be life-threatening. The pathognomonic diagnostic hallmark on CSF analysis is ALBUMINOCYTOLOGIC DISSOCIATION: markedly ELEVATED PROTEIN with a COMPLETELY NORMAL WHITE BLOOD CELL COUNT (< 5 WBC/microL). First-line treatments are INTRAVENOUS IMMUNOGLOBULIN (IVIG) or PLASMAPHERESIS (corticosteroids are ineffective). Diarrhea 2 weeks prior + ascending symmetrical weakness + areflexia + CSF high protein with normal WBC = Guillain-Barré syndrome -> Molecular mimicry between C. jejuni LOS and gangliosides.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Guillain-Barré Syndrome Mimicry and Albuminocytologic Dissociation.",
+    "keyPoints": [
+      "Guillain-Barré Syndrome Mimicry and Albuminocytologic Dissociation",
+      "Diarrhea 2 weeks prior + ascending symmetrical weakness + areflexia + CSF high protein with normal WBC = Guillain-Barré syndrome -> Molecular mimicry between C. jejuni LOS and gang"
+    ],
+    "references": [
+      {
+        "label": "Hughes RA, Cornblath DR. Guillain-Barré syndrome. Lancet. 2005;366(9497):1653-1666. PMID: 16271648.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16271648/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

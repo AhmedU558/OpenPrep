@@ -1,0 +1,438 @@
+import { createHash } from 'node:crypto';
+import { z } from 'zod';
+import { Prisma, type QuestionReview, type QuestionRevision } from '@/generated/prisma/client';
+import type { ReviewDecision, ReviewKind } from '@/generated/prisma/enums';
+import type { Tx } from './db';
+import { AppError } from './errors';
+
+export type QuestionOptionSnapshot = {
+  position: number;
+  text: string;
+  isCorrect: boolean;
+  explanationMd: string | null;
+};
+
+export type QuestionContentSnapshot = {
+  code: string;
+  type: string;
+  difficulty: number;
+  examId: string;
+  examSlug?: string;
+  subjectId: string;
+  subjectName?: string;
+  systemId: string;
+  systemName?: string;
+  topicId: string | null;
+  topicName?: string | null;
+  stemMd: string;
+  explanationMd: string;
+  objective: string | null;
+  keyPoints: string[];
+  references: unknown;
+  imageUrl: string | null;
+  imageAlt: string | null;
+  source: string;
+  license: string;
+  attribution: string | null;
+  rightsStatus: string;
+  rightsHolder: string | null;
+  rightsDecision: string | null;
+  isDemo: boolean;
+  options: QuestionOptionSnapshot[];
+};
+
+/**
+ * Deterministic JSON canonicalization (recursively sorted keys).
+ * Ensures identical cryptographic hashes regardless of object key insertion order.
+ */
+export function canonicalizeJson(value: unknown): string {
+  if (value === null || typeof value !== 'object') {
+    return JSON.stringify(value);
+  }
+  if (Array.isArray(value)) {
+    return '[' + value.map(canonicalizeJson).join(',') + ']';
+  }
+  const keys = Object.keys(value as Record<string, unknown>).sort();
+  const entries = keys.map((k) => `${JSON.stringify(k)}:${canonicalizeJson((value as Record<string, unknown>)[k])}`);
+  return '{' + entries.join(',') + '}';
+}
+
+/**
+ * Generate a deterministic SHA-256 hash from canonicalized snapshot content.
+ */
+export function hashContentSnapshot(snapshot: QuestionContentSnapshot): string {
+  const canonical = canonicalizeJson(snapshot);
+  return createHash('sha256').update(canonical).digest('hex');
+}
+
+type QuestionWithTaxonomy = Prisma.QuestionGetPayload<{
+  include: {
+    exam: { select: { slug: true } };
+    subject: { select: { name: true } };
+    system: { select: { name: true } };
+    topic: { select: { name: true } };
+    options: {
+      select: {
+        position: true;
+        text: true;
+        isCorrect: true;
+        explanationMd: true;
+      };
+    };
+  };
+}>;
+
+/**
+ * Build an approved snapshot contract from question entity data.
+ * Explicitly EXCLUDES rightsEvidence and Option.id to protect internal governance evidence
+ * and insulate historical content from database-specific primary keys.
+ */
+export function buildQuestionSnapshot(q: QuestionWithTaxonomy): QuestionContentSnapshot {
+  const sortedOptions: QuestionOptionSnapshot[] = [...q.options]
+    .sort((a, b) => a.position - b.position)
+    .map((opt) => ({
+      position: opt.position,
+      text: opt.text,
+      isCorrect: opt.isCorrect,
+      explanationMd: opt.explanationMd ?? null,
+    }));
+
+  return {
+    code: q.code,
+    type: q.type,
+    difficulty: q.difficulty,
+    examId: q.examId,
+    examSlug: q.exam?.slug,
+    subjectId: q.subjectId,
+    subjectName: q.subject?.name,
+    systemId: q.systemId,
+    systemName: q.system?.name,
+    topicId: q.topicId ?? null,
+    topicName: q.topic?.name ?? null,
+    stemMd: q.stemMd,
+    explanationMd: q.explanationMd,
+    objective: q.objective ?? null,
+    keyPoints: q.keyPoints ?? [],
+    references: q.references ?? [],
+    imageUrl: q.imageUrl ?? null,
+    imageAlt: q.imageAlt ?? null,
+    source: q.source,
+    license: q.license,
+    attribution: q.attribution ?? null,
+    rightsStatus: q.rightsStatus,
+    rightsHolder: q.rightsHolder ?? null,
+    rightsDecision: q.rightsDecision ?? null,
+    isDemo: q.isDemo,
+    options: sortedOptions,
+  };
+}
+
+export type CreateRevisionParams = {
+  questionId: string;
+  authorId?: string | null;
+  changeSummary?: string | null;
+};
+
+/**
+ * Transactional, concurrency-safe question revision recorder.
+ * Serializes revision creation per question via a PostgreSQL row-level lock (SELECT ... FOR UPDATE).
+ * Re-reads the latest revision under lock. Checks for duplicate content using the deterministic SHA-256 hash.
+ * If content is identical to the latest revision, returns the existing revision without creating a duplicate.
+ */
+export async function createQuestionRevision(
+  tx: Tx,
+  params: CreateRevisionParams,
+): Promise<{ created: boolean; revision: QuestionRevision }> {
+  // Acquire an exclusive row-level lock on the parent question to serialize concurrent revision creation
+  const lockedQuestions = await tx.$queryRaw<{ id: string }[]>`
+    SELECT id FROM "question" WHERE id = ${params.questionId} FOR UPDATE
+  `;
+
+  if (!lockedQuestions || lockedQuestions.length === 0) {
+    throw new AppError('NOT_FOUND', 'Question not found.');
+  }
+
+  const question = await tx.question.findUnique({
+    where: { id: params.questionId },
+    include: {
+      exam: { select: { slug: true } },
+      subject: { select: { name: true } },
+      system: { select: { name: true } },
+      topic: { select: { name: true } },
+      options: {
+        select: {
+          position: true,
+          text: true,
+          isCorrect: true,
+          explanationMd: true,
+        },
+      },
+    },
+  });
+
+  if (!question) {
+    throw new AppError('NOT_FOUND', 'Question not found.');
+  }
+
+  const snapshot = buildQuestionSnapshot(question);
+  const contentHash = hashContentSnapshot(snapshot);
+
+  // Re-read latest revision under the acquired row lock
+  const latestRevision = await tx.questionRevision.findFirst({
+    where: { questionId: params.questionId },
+    orderBy: { revisionNumber: 'desc' },
+  });
+
+  if (latestRevision && latestRevision.contentHash === contentHash) {
+    return { created: false, revision: latestRevision };
+  }
+
+  const nextRevisionNumber = (latestRevision?.revisionNumber ?? 0) + 1;
+
+  const createdRev = await tx.questionRevision.create({
+    data: {
+      questionId: params.questionId,
+      revisionNumber: nextRevisionNumber,
+      contentHash,
+      schemaVersion: 1,
+      contentSnapshot: snapshot as unknown as Prisma.InputJsonValue,
+      changeSummary: params.changeSummary ?? (nextRevisionNumber === 1 ? 'Initial revision' : 'Content update'),
+      authorId: params.authorId ?? null,
+    },
+  });
+
+  return { created: true, revision: createdRev };
+}
+
+export const recordReviewSchema = z.object({
+  revisionId: z.string().min(1).max(64),
+  reviewKind: z.enum(['EDITORIAL', 'CLINICAL', 'RIGHTS']),
+  decision: z.enum(['APPROVED', 'REJECTED', 'REVOKED']),
+  reviewerCredentials: z.string().trim().max(200).optional().nullable(),
+  comments: z.string().trim().max(4000).optional().nullable(),
+});
+export type RecordReviewInput = z.infer<typeof recordReviewSchema>;
+
+export type RecordReviewParams = {
+  revisionId: string;
+  reviewerId: string;
+  reviewKind: ReviewKind;
+  decision: ReviewDecision;
+  reviewerCredentials?: string | null;
+  comments?: string | null;
+};
+
+/**
+ * Record a peer or expert review decision against a specific immutable revision.
+ * Serializes reviews per question via row-level locking on the parent question
+ * to prevent race conditions with publication or simultaneous conflicting reviews.
+ * Enforces terminal revocation: once revoked, approvals on that revision are permanently blocked.
+ */
+export async function recordQuestionReview(
+  tx: Tx,
+  params: RecordReviewParams,
+): Promise<QuestionReview> {
+  const revision = await tx.questionRevision.findUnique({
+    where: { id: params.revisionId },
+    select: { id: true, questionId: true },
+  });
+
+  if (!revision) {
+    throw new AppError('NOT_FOUND', 'Question revision not found.');
+  }
+
+  // Acquire exclusive lock on the parent question to serialize review decisions and publication checks
+  await tx.$queryRaw`SELECT id FROM "question" WHERE id = ${revision.questionId} FOR UPDATE`;
+
+  // Terminal revocation: any revoked review permanently blocks approval of this revision
+  if (params.decision === 'APPROVED') {
+    const existingRevocations = await tx.questionReview.findFirst({
+      where: {
+        revisionId: params.revisionId,
+        reviewKind: params.reviewKind,
+        decision: 'REVOKED',
+      },
+    });
+    if (existingRevocations) {
+      throw new AppError('CONFLICT', 'Cannot approve this revision: a revocation is terminal for this revision. A new revision is required.');
+    }
+  }
+
+  const review = await tx.questionReview.create({
+    data: {
+      revisionId: params.revisionId,
+      reviewerId: params.reviewerId,
+      reviewKind: params.reviewKind,
+      decision: params.decision,
+      reviewerCredentials: params.reviewerCredentials?.trim() || null,
+      comments: params.comments?.trim() || null,
+    },
+  });
+
+  // If revoked, demote the parent question so it drops out of practice pools and delivery
+  if (params.decision === 'REVOKED') {
+    await tx.question.update({
+      where: { id: revision.questionId },
+      data: {
+        status: 'REVIEW',
+        ...(params.reviewKind === 'RIGHTS' ? { rightsAllowDelivery: false } : {}),
+      },
+    });
+  }
+
+  return review;
+}
+
+const REQUIRED_REVIEW_KINDS: ReviewKind[] = ['EDITORIAL', 'CLINICAL', 'RIGHTS'];
+
+/**
+ * Pure evaluation function for the 3-pillar review gate.
+ * Terminal-revocation behavior: Any REVOKED decision permanently blocks approval of this revision;
+ * a new revision is strictly required.
+ */
+export function isRevisionFullyApproved(
+  reviews: Array<{ reviewKind: ReviewKind; decision: ReviewDecision }>,
+): { approved: boolean; missingKinds: ReviewKind[] } {
+  const missingKinds: ReviewKind[] = [];
+
+  for (const kind of REQUIRED_REVIEW_KINDS) {
+    const kindReviews = reviews.filter((r) => r.reviewKind === kind);
+    const hasApproval = kindReviews.some((r) => r.decision === 'APPROVED');
+    const hasRevocation = kindReviews.some((r) => r.decision === 'REVOKED');
+
+    if (!hasApproval || hasRevocation) {
+      missingKinds.push(kind);
+    }
+  }
+
+  return {
+    approved: missingKinds.length === 0,
+    missingKinds,
+  };
+}
+
+const ownerTestReleaseSchema = z.object({
+  contentHash: z.string().regex(/^[a-f0-9]{64}$/),
+  authorizedBy: z.string().trim().min(2).max(200),
+  authorizedAt: z.iso.datetime(),
+  authorization: z.string().trim().min(20).max(2000),
+  clinicalReviewClaimed: z.literal(false),
+});
+
+/** Owner test permission never counts as editorial, clinical or rights review. */
+export function isRevisionAvailableForPractice(revision: {
+  contentHash?: string;
+  ownerTestRelease?: unknown;
+  reviews: Array<{ reviewKind: ReviewKind; decision: ReviewDecision }>;
+}): boolean {
+  if (isRevisionFullyApproved(revision.reviews).approved) return true;
+  if (revision.reviews.some(r => r.decision === 'REVOKED' || r.decision === 'REJECTED')) return false;
+  const release = ownerTestReleaseSchema.safeParse(revision.ownerTestRelease);
+  return release.success && release.data.contentHash === revision.contentHash;
+}
+
+export async function authorizeOwnerTestRelease(tx: Tx, actor: { id: string; role: string }, revisionId: string, evidence: { authorizedBy: string; authorizedAt: string; authorization: string }) {
+  return authorizeOwnerTestReleases(tx, actor, [revisionId], evidence);
+}
+
+export async function authorizeOwnerTestReleases(tx: Tx, actor: { id: string; role: string }, revisionIds: string[], evidence: { authorizedBy: string; authorizedAt: string; authorization: string }) {
+  if (actor.role !== 'ADMIN') throw new AppError('FORBIDDEN', 'Only admins record owner test-release authorization.');
+  const ids = z.array(z.string().min(1)).min(1).max(100).parse(revisionIds);
+  const parents = await tx.questionRevision.findMany({ where: { id: { in: ids } }, select: { questionId: true } });
+  if (parents.length !== new Set(ids).size) throw new AppError('NOT_FOUND', 'Question revision not found.');
+  await tx.$queryRaw(Prisma.sql`SELECT id FROM question WHERE id IN (${Prisma.join(parents.map(r => r.questionId))}) ORDER BY id FOR UPDATE`);
+  const revisions = await tx.questionRevision.findMany({ where: { id: { in: ids } }, include: { reviews: true } });
+  const latest = await tx.questionRevision.groupBy({ by: ['questionId'], where: { questionId: { in: parents.map(r => r.questionId) } }, _max: { revisionNumber: true } });
+  const rows = revisions.map(revision => {
+    if (latest.find(r => r.questionId === revision.questionId)?._max.revisionNumber !== revision.revisionNumber) throw new AppError('CONFLICT', 'Only the current revision can receive owner test-release permission.');
+    if (revision.reviews.some(r => r.decision === 'REVOKED' || r.decision === 'REJECTED')) throw new AppError('CONFLICT', 'Rejected or revoked content requires correction and a new revision.');
+    return { id: revision.id, release: ownerTestReleaseSchema.parse({ ...evidence, contentHash: revision.contentHash, clinicalReviewClaimed: false }) };
+  });
+  await tx.$executeRaw`UPDATE question_revision r SET "ownerTestRelease" = p.release FROM jsonb_to_recordset(${JSON.stringify(rows)}::jsonb) AS p(id text, release jsonb) WHERE r.id = p.id`;
+  await tx.auditLog.createMany({ data: rows.map(row => ({ actorId: actor.id, action: 'question.owner_test_release', entityType: 'question_revision', entityId: row.id, diff: row.release })) });
+}
+
+export type DeliverableQuestionResult = {
+  deliverable: boolean;
+  reason?: string;
+  isVersioned: boolean;
+  revisionId: string | null;
+  revisionNumber: number | null;
+  snapshot: QuestionContentSnapshot | null;
+};
+
+/**
+ * Resolves delivery eligibility and exact content snapshot for a question:
+ * 1. Enforces content-rights and publication check (status = PUBLISHED, rightsStatus = VERIFIED, rightsAllowDelivery = true).
+ * 2. For unversioned legacy questions (0 revisions): deliverable under legacy mode.
+ * 3. For versioned questions: requires three-pillar approval or an explicit owner test release for that exact hash.
+ *    Owner permission cannot bypass a rejected/revoked review and never claims qualified clinical review.
+ *    Does NOT fall back to older approved revisions.
+ */
+export async function getDeliverableQuestion(
+  txOrDb: Tx,
+  questionId: string,
+): Promise<DeliverableQuestionResult> {
+  const q = await txOrDb.question.findUnique({
+    where: { id: questionId },
+    select: {
+      id: true,
+      status: true,
+      rightsStatus: true,
+      rightsAllowDelivery: true,
+    },
+  });
+
+  if (!q) {
+    return { deliverable: false, reason: 'Question not found.', isVersioned: false, revisionId: null, revisionNumber: null, snapshot: null };
+  }
+
+  if (q.status !== 'PUBLISHED' || q.rightsStatus !== 'VERIFIED' || !q.rightsAllowDelivery) {
+    return {
+      deliverable: false,
+      reason: 'Question content is withheld pending rights review. Your saved attempt is preserved.',
+      isVersioned: false,
+      revisionId: null,
+      revisionNumber: null,
+      snapshot: null,
+    };
+  }
+
+  const revisions = await txOrDb.questionRevision.findMany({
+    where: { questionId },
+    orderBy: { revisionNumber: 'desc' },
+    include: { reviews: true },
+  });
+
+  if (revisions.length === 0) {
+    return {
+      deliverable: true,
+      isVersioned: false,
+      revisionId: null,
+      revisionNumber: null,
+      snapshot: null,
+    };
+  }
+
+  const latestRevision = revisions[0]!;
+  const { approved, missingKinds } = isRevisionFullyApproved(latestRevision.reviews);
+
+  if (!approved && !isRevisionAvailableForPractice(latestRevision)) {
+    return {
+      deliverable: false,
+      reason: `Question content is withheld pending editorial review of revision #${latestRevision.revisionNumber} (missing or revoked: ${missingKinds.join(', ')}). Your saved attempt is preserved.`,
+      isVersioned: true,
+      revisionId: null,
+      revisionNumber: latestRevision.revisionNumber,
+      snapshot: null,
+    };
+  }
+
+  return {
+    deliverable: true,
+    isVersioned: true,
+    revisionId: latestRevision.id,
+    revisionNumber: latestRevision.revisionNumber,
+    snapshot: latestRevision.contentSnapshot as QuestionContentSnapshot,
+  };
+}

@@ -1,0 +1,467 @@
+{
+  "date": "2026-10-30",
+  "scope": "Nine exact-version Phase 3 gaps; grant candidates are not legal approvals.",
+  "packages": [
+    {
+      "name": "@better-auth/utils",
+      "version": "0.5.0",
+      "package": "@better-auth/utils@0.5.0",
+      "source": "https://registry.npmjs.org/@better-auth/utils/-/utils-0.5.0.tgz",
+      "licenseTexts": [],
+      "exceptions": [],
+      "limitations": [
+        "Code/header checks do not prove full native/transpiler build correspondence or compatibility."
+      ],
+      "registryIdentityVerified": true,
+      "registryMetadata": "https://registry.npmjs.org/%40better-auth%2Futils/0.5.0",
+      "registryLicenseDeclaration": "MIT",
+      "publisherCommit": null,
+      "registryAttestation": {
+        "url": "https://registry.npmjs.org/-/npm/v1/attestations/@better-auth%2futils@0.5.0",
+        "provenance": {
+          "predicateType": "https://slsa.dev/provenance/v1"
+        }
+      },
+      "archiveIntegrityVerified": true,
+      "installedComparison": {
+        "same": 58,
+        "different": [],
+        "notInstalled": 0
+      },
+      "archiveSourceFilesInspected": 28,
+      "repository": "better-auth/utils",
+      "sourceBinding": "version tag; publisher commit unavailable",
+      "sourceCommit": "f03c1c76aff7bfa3f4de4af47b112315c770a0d1",
+      "treeTruncated": false,
+      "otherLicensePaths": [],
+      "exactPublishedSourceMatches": [],
+      "status": "MISSING_SUFFICIENT_LICENSE_TEXT",
+      "archiveSha256": "63193eef51c0d9bd9458d9123f4011ac71b2fd9df7d85c0eb0eceb98d88d1eb7",
+      "archiveSource": "https://registry.npmjs.org/@better-auth/utils/-/utils-0.5.0.tgz",
+      "lockedIntegrity": "sha512-BL8W4EfIZFwlu0r54m3v1ztjDhu6dDe/amLTm0xybmbZaNgYUqhD3SjpAsnq0q8YD6/ki4iwIgxJNLP/N3TxiA==",
+      "embeddedGrantCandidates": [],
+      "archiveIdentityVerified": true,
+      "declaredProjectLinks": {
+        "repository": {
+          "type": "git",
+          "url": "git+https://github.com/better-auth/utils.git"
+        },
+        "homepage": null,
+        "bugs": null,
+        "license": "MIT"
+      },
+      "allLicenseLikePaths": [],
+      "treeCompleteness": "COMPLETE",
+      "humanApproval": "NOT_PROVIDED",
+      "provenanceVerification": {
+        "package": "@better-auth/utils@0.5.0",
+        "verified": true,
+        "sourceCommit": "f03c1c76aff7bfa3f4de4af47b112315c770a0d1",
+        "subjectSha512": "04bf16e047c8645c25bb4af9e26defd73b630e1bba7437bf6a62d39b4c726e66d968d81852a843dd28e902c9ead2af180fafe48b88b0220c4934b3ff3774f188",
+        "workflow": {
+          "ref": "refs/tags/v0.5.0",
+          "repository": "https://github.com/better-auth/utils",
+          "path": ".github/workflows/release.yml"
+        },
+        "url": "https://registry.npmjs.org/-/npm/v1/attestations/@better-auth%2futils@0.5.0",
+        "file": "docs/audit/phase4-provenance/d057f539e1c94384140ad225861e08014292fb5925c2a5db2720376e112e0865.json",
+        "sha256": "d057f539e1c94384140ad225861e08014292fb5925c2a5db2720376e112e0865",
+        "verifier": "npm bundled sigstore (trusted-root/transparency and certificate identity verification)"
+      }
+    },
+    {
+      "name": "@humanfs/types",
+      "version": "0.15.0",
+      "package": "@humanfs/types@0.15.0",
+      "source": "https://registry.npmjs.org/@humanfs/types/-/types-0.15.0.tgz",
+      "licenseTexts": [],
+      "exceptions": [],
+      "limitations": [
+        "Code/header checks do not prove full native/transpiler build correspondence or compatibility."
+      ],
+      "registryIdentityVerified": true,
+      "registryMetadata": "https://registry.npmjs.org/%40humanfs%2Ftypes/0.15.0",
+      "registryLicenseDeclaration": "Apache-2.0",
+      "publisherCommit": "85069f193cbacc371c3beb649ce746f8c5a493be",
+      "registryAttestation": null,
+      "archiveIntegrityVerified": true,
+      "installedComparison": {
+        "same": 5,
+        "different": [],
+        "notInstalled": 0
+      },
+      "archiveSourceFilesInspected": 1,
+      "repository": "humanwhocodes/humanfs",
+      "sourceBinding": "publisher gitHead",
+      "sourceCommit": "85069f193cbacc371c3beb649ce746f8c5a493be",
+      "treeTruncated": false,
+      "otherLicensePaths": [
+        "packages/box/LICENSE",
+        "packages/core/LICENSE",
+        "packages/deno/LICENSE",
+        "packages/memory/LICENSE",
+        "packages/node/LICENSE",
+        "packages/test/LICENSE",
+        "packages/web/LICENSE"
+      ],
+      "exactPublishedSourceMatches": [],
+      "status": "MISSING_SUFFICIENT_LICENSE_TEXT",
+      "archiveSha256": "3c2942da7ba321f6ba27255a5faceee76eae502403129d8aa50d2dc8400a94d5",
+      "archiveSource": "https://registry.npmjs.org/@humanfs/types/-/types-0.15.0.tgz",
+      "lockedIntegrity": "sha512-ZZ1w0aoQkwuUuC7Yf+7sdeaNfqQiiLcSRbfI08oAxqLtpXQr9AIVX7Ay7HLDuiLYAaFPu8oBYNq/QIi9URHJ3Q==",
+      "embeddedGrantCandidates": [],
+      "archiveIdentityVerified": true,
+      "declaredProjectLinks": {
+        "repository": {
+          "type": "git",
+          "url": "git+https://github.com/humanwhocodes/humanfs.git"
+        },
+        "homepage": "https://github.com/humanwhocodes/humanfs#readme",
+        "bugs": {
+          "url": "https://github.com/humanwhocodes/humanfs/issues"
+        },
+        "license": "Apache-2.0"
+      },
+      "allLicenseLikePaths": [
+        "packages/box/LICENSE",
+        "packages/core/LICENSE",
+        "packages/deno/LICENSE",
+        "packages/memory/LICENSE",
+        "packages/node/LICENSE",
+        "packages/test/LICENSE",
+        "packages/web/LICENSE"
+      ],
+      "treeCompleteness": "COMPLETE",
+      "humanApproval": "NOT_PROVIDED"
+    },
+    {
+      "name": "@prisma/dev",
+      "version": "0.24.17",
+      "package": "@prisma/dev@0.24.17",
+      "source": "https://registry.npmjs.org/@prisma/dev/-/dev-0.24.17.tgz",
+      "licenseTexts": [],
+      "exceptions": [],
+      "limitations": [
+        "Publisher supplies no usable repository mapping; no repository or grant invented."
+      ],
+      "registryIdentityVerified": true,
+      "registryMetadata": "https://registry.npmjs.org/%40prisma%2Fdev/0.24.17",
+      "registryLicenseDeclaration": "ISC",
+      "publisherCommit": null,
+      "registryAttestation": null,
+      "archiveIntegrityVerified": true,
+      "installedComparison": {
+        "same": 75,
+        "different": [],
+        "notInstalled": 0
+      },
+      "archiveSourceFilesInspected": 33,
+      "repository": null,
+      "status": "MISSING_SUFFICIENT_LICENSE_TEXT",
+      "archiveSha256": "ec4662e1f431e98f8c08293ff704ee232ef623aa5eccdaf690a1ae21c96d42dd",
+      "archiveSource": "https://registry.npmjs.org/@prisma/dev/-/dev-0.24.17.tgz",
+      "lockedIntegrity": "sha512-UvdZzmpFwknnfreh6Jije84ekkYGPYEJhXG1tFzCsCfQyzJifrOo38eZc0qajzvaC6OLUOrN9ML5XfCnEZL9DA==",
+      "embeddedGrantCandidates": [
+        {
+          "archiveMember": "package/dist/runtime-assets/pglite.data",
+          "byteOffset": 731124,
+          "scope": "Candidate embedded text only; no whole-package grant inferred.",
+          "fileSha256": "4507d476e23421aab8201ee9d58059c53736db40e1bfe5d14bb86124e59a116d"
+        }
+      ],
+      "archiveIdentityVerified": true,
+      "declaredProjectLinks": {
+        "repository": null,
+        "homepage": null,
+        "bugs": null,
+        "license": "ISC"
+      },
+      "humanApproval": "NOT_PROVIDED"
+    },
+    {
+      "name": "@types/json5",
+      "version": "0.0.29",
+      "package": "@types/json5@0.0.29",
+      "source": "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz",
+      "licenseTexts": [],
+      "exceptions": [],
+      "limitations": [
+        "Upstream investigation incomplete; see error."
+      ],
+      "registryIdentityVerified": true,
+      "registryMetadata": "https://registry.npmjs.org/%40types%2Fjson5/0.0.29",
+      "registryLicenseDeclaration": "MIT",
+      "publisherCommit": null,
+      "registryAttestation": null,
+      "archiveIntegrityVerified": true,
+      "installedComparison": {
+        "same": 4,
+        "different": [],
+        "notInstalled": 0
+      },
+      "archiveSourceFilesInspected": 1,
+      "repository": "DefinitelyTyped/DefinitelyTyped",
+      "sourceBinding": "version tag; publisher commit unavailable",
+      "error": "GitHub API unavailable: repos/DefinitelyTyped/DefinitelyTyped/git/ref/tags/0.0.29 (1)",
+      "status": "MISSING_SUFFICIENT_LICENSE_TEXT",
+      "archiveSha256": "439d14e46f574bc1a62a72ad4598e7f22ebd8021410ab7d869723801c436e95d",
+      "archiveSource": "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz",
+      "lockedIntegrity": "sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==",
+      "embeddedGrantCandidates": [],
+      "archiveIdentityVerified": true,
+      "declaredProjectLinks": {
+        "repository": {
+          "type": "git",
+          "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+        },
+        "homepage": null,
+        "bugs": null,
+        "license": "MIT"
+      },
+      "humanApproval": "NOT_PROVIDED"
+    },
+    {
+      "name": "client-only",
+      "version": "0.0.1",
+      "package": "client-only@0.0.1",
+      "source": "https://registry.npmjs.org/client-only/-/client-only-0.0.1.tgz",
+      "licenseTexts": [],
+      "exceptions": [],
+      "limitations": [
+        "Publisher supplies no usable repository mapping; no repository or grant invented."
+      ],
+      "registryIdentityVerified": true,
+      "registryMetadata": "https://registry.npmjs.org/client-only/0.0.1",
+      "registryLicenseDeclaration": "MIT",
+      "publisherCommit": null,
+      "registryAttestation": null,
+      "archiveIntegrityVerified": true,
+      "installedComparison": {
+        "same": 3,
+        "different": [],
+        "notInstalled": 0
+      },
+      "archiveSourceFilesInspected": 2,
+      "repository": null,
+      "status": "MISSING_SUFFICIENT_LICENSE_TEXT",
+      "archiveSha256": "dcd7bc3868e2d3518d08944559952e4a68f581d89a84b6892de9fd8f40860b19",
+      "archiveSource": "https://registry.npmjs.org/client-only/-/client-only-0.0.1.tgz",
+      "lockedIntegrity": "sha512-IV3Ou0jSMzZrd3pZ48nLkT9DA7Ag1pnPzaiQhpW7c3RbcqqzvzzVu+L8gfqMp/8IM2MQtSiqaCxrrcfu8I8rMA==",
+      "embeddedGrantCandidates": [],
+      "archiveIdentityVerified": true,
+      "declaredProjectLinks": {
+        "repository": null,
+        "homepage": "https://reactjs.org/",
+        "bugs": "https://github.com/facebook/react/issues",
+        "license": "MIT"
+      },
+      "humanApproval": "NOT_PROVIDED"
+    },
+    {
+      "name": "language-subtag-registry",
+      "version": "0.3.23",
+      "package": "language-subtag-registry@0.3.23",
+      "source": "https://registry.npmjs.org/language-subtag-registry/-/language-subtag-registry-0.3.23.tgz",
+      "licenseTexts": [],
+      "exceptions": [],
+      "limitations": [
+        "Code/header checks do not prove full native/transpiler build correspondence or compatibility."
+      ],
+      "registryIdentityVerified": true,
+      "registryMetadata": "https://registry.npmjs.org/language-subtag-registry/0.3.23",
+      "registryLicenseDeclaration": "CC0-1.0",
+      "publisherCommit": "1e7d67e7f9646f47f0766a04b08522f7df59e932",
+      "registryAttestation": null,
+      "archiveIntegrityVerified": true,
+      "installedComparison": {
+        "same": 16,
+        "different": [],
+        "notInstalled": 0
+      },
+      "archiveSourceFilesInspected": 0,
+      "repository": "mattcg/language-subtag-registry",
+      "sourceBinding": "publisher gitHead",
+      "sourceCommit": "1e7d67e7f9646f47f0766a04b08522f7df59e932",
+      "treeTruncated": false,
+      "otherLicensePaths": [],
+      "exactPublishedSourceMatches": [],
+      "status": "MISSING_SUFFICIENT_LICENSE_TEXT",
+      "archiveSha256": "a9d037f6bec7c1e98979edf8dc4a3dc455826bdc759ffb4ee542148d46cafee6",
+      "archiveSource": "https://registry.npmjs.org/language-subtag-registry/-/language-subtag-registry-0.3.23.tgz",
+      "lockedIntegrity": "sha512-0K65Lea881pHotoGEa5gDlMxt3pctLi2RplBb7Ezh4rRdLEOtgi7n4EwK9lamnUCkKBqaeKRVebTq6BAxSkpXQ==",
+      "embeddedGrantCandidates": [],
+      "archiveIdentityVerified": true,
+      "declaredProjectLinks": {
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/mattcg/language-subtag-registry"
+        },
+        "homepage": "https://github.com/mattcg/language-subtag-registry",
+        "bugs": null,
+        "license": "CC0-1.0"
+      },
+      "allLicenseLikePaths": [],
+      "treeCompleteness": "COMPLETE",
+      "humanApproval": "NOT_PROVIDED"
+    },
+    {
+      "name": "language-tags",
+      "version": "1.0.9",
+      "package": "language-tags@1.0.9",
+      "source": "https://registry.npmjs.org/language-tags/-/language-tags-1.0.9.tgz",
+      "licenseTexts": [],
+      "exceptions": [
+        {
+          "file": "package/lib/index.js",
+          "declaration": "@license MIT: http://mattcg.mit-license.org/"
+        },
+        {
+          "file": "package/lib/Subtag.js",
+          "declaration": "@license MIT: http://mattcg.mit-license.org/"
+        },
+        {
+          "file": "package/lib/Tag.js",
+          "declaration": "@license MIT: http://mattcg.mit-license.org/"
+        }
+      ],
+      "limitations": [
+        "Code/header checks do not prove full native/transpiler build correspondence or compatibility."
+      ],
+      "registryIdentityVerified": true,
+      "registryMetadata": "https://registry.npmjs.org/language-tags/1.0.9",
+      "registryLicenseDeclaration": "MIT",
+      "publisherCommit": "ea5aa61e53ced2a18e35783ff00bb2a533f6c77d",
+      "registryAttestation": null,
+      "archiveIntegrityVerified": true,
+      "installedComparison": {
+        "same": 5,
+        "different": [],
+        "notInstalled": 0
+      },
+      "archiveSourceFilesInspected": 3,
+      "repository": "mattcg/language-tags",
+      "sourceBinding": "publisher gitHead",
+      "sourceCommit": "ea5aa61e53ced2a18e35783ff00bb2a533f6c77d",
+      "treeTruncated": false,
+      "otherLicensePaths": [],
+      "exactPublishedSourceMatches": [],
+      "status": "MISSING_SUFFICIENT_LICENSE_TEXT",
+      "archiveSha256": "3352fb1423dbbd178d8e4af5d94396115d78fa5994aa4c234f5689f54b0ecdd8",
+      "archiveSource": "https://registry.npmjs.org/language-tags/-/language-tags-1.0.9.tgz",
+      "lockedIntegrity": "sha512-MbjN408fEndfiQXbFQ1vnd+1NoLDsnQW41410oQBXiyXDMYH5z505juWa4KUE1LqxRC7DgOgZDbKLxHIwm27hA==",
+      "embeddedGrantCandidates": [],
+      "archiveIdentityVerified": true,
+      "declaredProjectLinks": {
+        "repository": {
+          "type": "git",
+          "url": "git://github.com/mattcg/language-tags.git"
+        },
+        "homepage": "https://github.com/mattcg/language-tags",
+        "bugs": {
+          "url": "https://github.com/mattcg/language-tags/issues"
+        },
+        "license": "MIT"
+      },
+      "allLicenseLikePaths": [],
+      "treeCompleteness": "COMPLETE",
+      "humanApproval": "NOT_PROVIDED"
+    },
+    {
+      "name": "natural-compare",
+      "version": "1.4.0",
+      "package": "natural-compare@1.4.0",
+      "source": "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz",
+      "licenseTexts": [],
+      "exceptions": [
+        {
+          "file": "package/index.js",
+          "declaration": "@license    MIT License"
+        }
+      ],
+      "limitations": [
+        "Code/header checks do not prove full native/transpiler build correspondence or compatibility."
+      ],
+      "registryIdentityVerified": true,
+      "registryMetadata": "https://registry.npmjs.org/natural-compare/1.4.0",
+      "registryLicenseDeclaration": "MIT",
+      "publisherCommit": "eec83eee67cfac84d6db30cdd65363f155673770",
+      "registryAttestation": null,
+      "archiveIntegrityVerified": true,
+      "installedComparison": {
+        "same": 3,
+        "different": [],
+        "notInstalled": 0
+      },
+      "archiveSourceFilesInspected": 1,
+      "repository": "litejs/natural-compare-lite",
+      "sourceBinding": "publisher gitHead",
+      "sourceCommit": "eec83eee67cfac84d6db30cdd65363f155673770",
+      "treeTruncated": false,
+      "otherLicensePaths": [],
+      "exactPublishedSourceMatches": [
+        "index.js"
+      ],
+      "status": "MISSING_SUFFICIENT_LICENSE_TEXT",
+      "archiveSha256": "5e5569ecd12064f73632a8c18a45b1d1de4a27b699a671864801f1c35ee779ee",
+      "archiveSource": "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz",
+      "lockedIntegrity": "sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==",
+      "embeddedGrantCandidates": [],
+      "archiveIdentityVerified": true,
+      "declaredProjectLinks": {
+        "repository": "git://github.com/litejs/natural-compare-lite.git",
+        "homepage": null,
+        "bugs": {
+          "url": "https://github.com/litejs/natural-compare-lite/issues"
+        },
+        "license": "MIT"
+      },
+      "allLicenseLikePaths": [],
+      "treeCompleteness": "COMPLETE",
+      "humanApproval": "NOT_PROVIDED"
+    },
+    {
+      "name": "stable-hash",
+      "version": "0.0.5",
+      "package": "stable-hash@0.0.5",
+      "source": "https://registry.npmjs.org/stable-hash/-/stable-hash-0.0.5.tgz",
+      "licenseTexts": [],
+      "exceptions": [],
+      "limitations": [
+        "Code/header checks do not prove full native/transpiler build correspondence or compatibility."
+      ],
+      "registryIdentityVerified": true,
+      "registryMetadata": "https://registry.npmjs.org/stable-hash/0.0.5",
+      "registryLicenseDeclaration": "MIT",
+      "publisherCommit": "1b314f2cc3e9449bc8d49e417670175cf9afd42a",
+      "registryAttestation": null,
+      "archiveIntegrityVerified": true,
+      "installedComparison": {
+        "same": 5,
+        "different": [],
+        "notInstalled": 0
+      },
+      "archiveSourceFilesInspected": 3,
+      "repository": "shuding/stable-hash",
+      "sourceBinding": "publisher gitHead",
+      "sourceCommit": "1b314f2cc3e9449bc8d49e417670175cf9afd42a",
+      "treeTruncated": false,
+      "otherLicensePaths": [],
+      "exactPublishedSourceMatches": [],
+      "status": "MISSING_SUFFICIENT_LICENSE_TEXT",
+      "archiveSha256": "4aa15e229c6c7d70805789e5480ab4762e028e7ee5cf2368aa723eb666fd04e9",
+      "archiveSource": "https://registry.npmjs.org/stable-hash/-/stable-hash-0.0.5.tgz",
+      "lockedIntegrity": "sha512-+L3ccpzibovGXFK+Ap/f8LOS0ahMrHTf3xu7mMLSpEGU0EO9ucaysSylKo9eRDFNhWve/y275iPmIZ4z39a9iA==",
+      "embeddedGrantCandidates": [],
+      "archiveIdentityVerified": true,
+      "declaredProjectLinks": {
+        "repository": "https://github.com/shuding/stable-hash",
+        "homepage": null,
+        "bugs": null,
+        "license": "MIT"
+      },
+      "allLicenseLikePaths": [],
+      "treeCompleteness": "COMPLETE",
+      "humanApproval": "NOT_PROVIDED"
+    }
+  ]
+}

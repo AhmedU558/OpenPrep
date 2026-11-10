@@ -1,5 +1,6 @@
 import { expect, test } from '@playwright/test';
 import { createTest, register, testDb } from './helpers';
+import { recordQuestionReview } from '../src/lib/question-revision';
 
 test.describe('security boundaries (T2, T15)', () => {
   test("another user's test is invisible (404), not just hidden", async ({ browser }) => {
@@ -73,6 +74,18 @@ test.describe('content administration (T11)', () => {
     await page.getByLabel('Evidence permits content redistribution and exports').check();
     await page.getByRole('button', { name: 'Verify rights', exact: true }).click();
     await expect(page.getByText('VERIFIED', { exact: true })).toBeVisible();
+    await page.getByRole('button', { name: 'Publish' }).click();
+    await expect(page.getByText(/latest revision #1 is not fully approved/)).toBeVisible();
+    const reviewDb = testDb();
+    try {
+      const actor = await reviewDb.user.findUniqueOrThrow({ where: { email: c.email } });
+      const question = await reviewDb.question.findUniqueOrThrow({ where: { code } });
+      const revision = await reviewDb.questionRevision.findFirstOrThrow({ where: { questionId: question.id }, orderBy: { revisionNumber: 'desc' } });
+      for (const reviewKind of ['EDITORIAL', 'CLINICAL', 'RIGHTS'] as const) {
+        // Synthetic decisions for this disposable browser fixture only.
+        await reviewDb.$transaction(tx => recordQuestionReview(tx, { revisionId: revision.id, reviewerId: actor.id, reviewKind, decision: 'APPROVED', comments: 'Synthetic isolated E2E fixture; not real clinical or rights review.' }));
+      }
+    } finally { await reviewDb.$disconnect(); }
     await page.getByRole('button', { name: 'Publish' }).click();
     await expect(page.getByText('Moved to published.')).toBeVisible();
     const editUrl = page.url();

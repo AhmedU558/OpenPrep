@@ -56,6 +56,10 @@ export const auth = betterAuth({
       onLinkAccount: async ({ anonymousUser, newUser }) => {
         const from = anonymousUser.user.id, to = newUser.user.id;
         await db.$transaction([
+          db.userPracticeState.updateMany({ where: { userId: from }, data: { userId: to } }),
+          db.practiceEvent.updateMany({ where: { userId: from }, data: { userId: to } }),
+          db.practiceReset.updateMany({ where: { userId: from }, data: { userId: to } }),
+          db.practiceAttempt.updateMany({ where: { userId: from }, data: { userId: to } }),
           db.testSession.updateMany({ where: { userId: from }, data: { userId: to } }),
           db.practiceExam.updateMany({ where: { userId: from }, data: { userId: to } }),
           db.response.updateMany({ where: { userId: from }, data: { userId: to } }),

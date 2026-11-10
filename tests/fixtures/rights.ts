@@ -2,6 +2,7 @@ import { db } from '../../src/lib/db';
 import type { Actor } from '../../src/lib/admin';
 import { reviewContentRights, submitRightsEvidence } from '../../src/lib/content-rights';
 import { testDatabaseUrl } from '../../scripts/test-database';
+import { recordQuestionReview } from '../../src/lib/question-revision';
 
 // Test-only attestation for synthetic fixture operations, never a rights grant for the real bank.
 export async function approveFixtureRights(actor: Actor, id: string, allowDelivery = true, allowExport = true) {
@@ -10,4 +11,12 @@ export async function approveFixtureRights(actor: Actor, id: string, allowDelive
   await submitRightsEvidence(actor, id, { version: q.updatedAt.toISOString(), holder: 'Synthetic test fixture', evidence: 'Isolated regression fixture only; this is not evidence for any real content release.' });
   q = await db.question.findUniqueOrThrow({ where: { id } });
   await reviewContentRights(actor, id, { version: q.updatedAt.toISOString(), status: 'VERIFIED', reason: 'Synthetic fixture approval scoped to disposable automated testing only.', allowDelivery, allowExport });
+  const revision = await db.questionRevision.findFirst({ where: { questionId: id }, orderBy: { revisionNumber: 'desc' } });
+  if (revision) {
+    await db.$transaction(async tx => {
+      for (const reviewKind of ['EDITORIAL', 'CLINICAL', 'RIGHTS'] as const) {
+        await recordQuestionReview(tx, { revisionId: revision.id, reviewerId: actor.id, reviewKind, decision: 'APPROVED', comments: 'Synthetic disposable-test fixture only; no real clinical or rights approval.' });
+      }
+    });
+  }
 }
