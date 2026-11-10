@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s1-0351",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Type 1 Distal Renal Tubular Acidosis H+-ATPase Failure",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old woman with a history of primary Sjögren syndrome presents to the clinic with progressive generalized muscle weakness, fatigue, and dull bilateral flank discomfort. Physical examination reveals dry oral mucosa and mild bilateral costovertebral angle tenderness without peripheral edema.\n\nSerum laboratory evaluation reveals:\n- Sodium: 140 mEq/L\n- Potassium: 2.8 mEq/L\n- Chloride: 114 mEq/L\n- Bicarbonate: 14 mEq/L\n- Blood urea nitrogen: 18 mg/dL\n- Creatinine: 1.1 mg/dL\n- Calcium: 9.4 mg/dL\n\nArterial blood gas demonstrates:\n- pH: 7.28\n- PaCO2: 30 mm Hg\n- PaO2: 96 mm Hg\n- HCO3-: 14 mEq/L\n\nSimultaneous clean-catch urinalysis demonstrates:\n- Urine pH: 6.8\n- Specific gravity: 1.015\n- Protein: trace\n- Glucose: negative\n- White blood cells: 2-3/hpf\n- Red blood cells: 0-1/hpf\n\nSpot urine electrolytes reveal:\n- Sodium: 42 mEq/L\n- Potassium: 38 mEq/L\n- Chloride: 56 mEq/L\n\nRenal ultrasound demonstrates bilateral diffuse medullary hyperechogenicity with acoustic shadowing consistent with nephrocalcinosis and multiple small non-obstructing calculi. Which of the following transport mechanisms is primarily defective in this patient's renal tubules?",
+    "options": [
+      {
+        "text": "Apical proton extrusion via H+-ATPase and H+/K+-ATPase in alpha-intercalated cells of the collecting duct",
+        "correct": true,
+        "explanation": "The clinical presentation requires calculating two critical physiological parameters: (1) Serum anion gap: AG = Na - (Cl + HCO3) = 140 - (114 + 14) = 12 mEq/L (normal anion gap metabolic acidosis). (2) Urine anion gap: UAG = (Na + K) - Cl = (42 + 38) - 56 = +24 mEq/L. A positive UAG in the setting of normal AG metabolic acidosis indicates impaired renal ammonium (NH4+) excretion. Furthermore, the urine pH is inappropriately alkaline at 6.8 despite severe systemic acidemia (arterial pH 7.28). This triad—normal AG metabolic acidosis, hypokalemia (2.8 mEq/L), urine pH > 5.5, positive UAG, and medullary nephrocalcinosis in an autoimmune patient (Sjögren syndrome)—is diagnostic of Type 1 (distal) Renal Tubular Acidosis. Type 1 RTA is caused by failure of alpha-intercalated cells in the collecting duct to secrete protons into the lumen via apical H+-ATPase and H+/K+-ATPase. Alkaline tubular urine and chronic acidosis-induced proximal citrate reabsorption (hypocitraturia) promote calcium phosphate precipitation, producing diffuse medullary nephrocalcinosis."
+      },
+      {
+        "text": "Apical sodium-hydrogen antiporter (NHE3) mediated bicarbonate reabsorption in proximal convoluted tubule cells",
+        "correct": false,
+        "explanation": "Impairment of proximal NHE3 or carbonic anhydrase causes Type 2 (proximal) RTA. While Type 2 RTA also causes normal AG metabolic acidosis and hypokalemia, the proximal tubule defect allows intact distal collecting ducts to acidify urine below pH 5.5 once serum bicarbonate drops below the reduced transport threshold, and it does not cause nephrocalcinosis."
+      },
+      {
+        "text": "Cortical collecting duct principal cell responsiveness to aldosterone mediated by the mineralocorticoid receptor",
+        "correct": false,
+        "explanation": "Defects in aldosterone production or mineralocorticoid receptor responsiveness cause Type 4 (hyperkalemic) RTA, which characteristically features hyperkalemia (potassium > 5.0 mEq/L), not the severe hypokalemia (2.8 mEq/L) seen here."
+      },
+      {
+        "text": "Sodium-potassium-2-chloride (NKCC2) cotransport in the thick ascending limb of the loop of Henle",
+        "correct": false,
+        "explanation": "Defects in NKCC2 cause Bartter syndrome, which presents with hypokalemic metabolic ALKALOSIS and elevated renin/aldosterone, not metabolic acidosis with a positive urine anion gap."
+      },
+      {
+        "text": "Distal convoluted tubule apical thiazide-sensitive sodium-chloride cotransport (NCCT)",
+        "correct": false,
+        "explanation": "Defects in NCCT cause Gitelman syndrome, which presents with hypokalemic metabolic ALKALOSIS and hypocalciuria, not metabolic acidosis and nephrocalcinosis."
+      }
+    ],
+    "explanation": "The clinical presentation requires calculating two critical physiological parameters: (1) Serum anion gap: AG = Na - (Cl + HCO3) = 140 - (114 + 14) = 12 mEq/L (normal anion gap metabolic acidosis). (2) Urine anion gap: UAG = (Na + K) - Cl = (42 + 38) - 56 = +24 mEq/L. A positive UAG in the setting of normal AG metabolic acidosis indicates impaired renal ammonium (NH4+) excretion. Furthermore, the urine pH is inappropriately alkaline at 6.8 despite severe systemic acidemia (arterial pH 7.28). This triad—normal AG metabolic acidosis, hypokalemia (2.8 mEq/L), urine pH > 5.5, positive UAG, and medullary nephrocalcinosis in an autoimmune patient (Sjögren syndrome)—is diagnostic of Type 1 (distal) Renal Tubular Acidosis. Type 1 RTA is caused by failure of alpha-intercalated cells in the collecting duct to secrete protons into the lumen via apical H+-ATPase and H+/K+-ATPase. Alkaline tubular urine and chronic acidosis-induced proximal citrate reabsorption (hypocitraturia) promote calcium phosphate precipitation, producing diffuse medullary nephrocalcinosis. Serum AG = 12 (normal AG) + Urine AG = +24 (impaired NH4+ excretion) + Urine pH 6.8 with systemic acidemia + nephrocalcinosis = Type 1 distal RTA (alpha-intercalated H+-ATPase failure).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Type 1 Distal Renal Tubular Acidosis H+-ATPase Failure.",
+    "keyPoints": [
+      "Type 1 Distal Renal Tubular Acidosis H+-ATPase Failure",
+      "Serum AG = 12 (normal AG) + Urine AG = +24 (impaired NH4+ excretion) + Urine pH 6.8 with systemic acidemia + nephrocalcinosis = Type 1 distal RTA (alpha-intercalated H+-ATPase fail"
+    ],
+    "references": [
+      {
+        "label": "Batlle D, Haque SK. Genetic causes and mechanisms of distal renal tubular acidosis. Nat Rev Nephrol. 2012;8(8):483-497. PMID: 22710408.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22710408/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0352",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Type 2 Proximal Renal Tubular Acidosis and Fanconi Syndrome",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old man with multiple myeloma treated with bortezomib and dexamethasone presents with progressive generalized bone pain, proximal muscle weakness, and polyuria. Laboratory evaluation reveals: - Serum Sodium: 138 mEq/L - Serum Potassium: 3.1 mEq/L - Serum Chloride: 112 mEq/L - Serum Bicarbonate: 15 mEq/L (normal anion gap metabolic acidosis: AG = 11) - Serum Phosphorus: 1.8 mg/dL (marked hypophosphatemia) - Blood Glucose: 92 mg/dL (fasting, normal) Urinalysis reveals glycosuria (3+ glucose despite normal blood glucose), generalized aminoaciduria, phosphaturia, and beta-2 microglobulinuria. While in the baseline acidemic state (bicarbonate 15 mEq/L), his urine pH is 5.2. However, when an intravenous infusion of sodium bicarbonate is administered to restore serum bicarbonate to normal (24 mEq/L), his urine pH surges to 7.8 and fractional excretion of bicarbonate rises dramatically to 22% (normal < 5%). Which of the following renal segments and cellular mechanisms is primarily defective in this patient?",
+    "options": [
+      {
+        "text": "Thick ascending limb of Henle; defective medullary hypertonicity generation secondary to light-chain Tamm-Horsfall cast precipitation",
+        "correct": false,
+        "explanation": "Myeloma cast nephropathy affects the distal nephron with intratubular obstruction by light chains and Tamm-Horsfall protein, causing acute kidney injury, not Fanconi syndrome or isolated proximal bicarbonate wasting."
+      },
+      {
+        "text": "Proximal convoluted tubule; generalized reabsorptive failure of bicarbonate, phosphate, glucose, and amino acids (Fanconi syndrome)",
+        "correct": true,
+        "explanation": "Correct. Type 2 (proximal) Renal Tubular Acidosis (pRTA) is caused by impaired reabsorption of filtered bicarbonate in the PROXIMAL CONVOLUTED TUBULE (which normally reabsorbs ~80-85% of filtered HCO3- via apical NHE3, luminal carbonic anhydrase IV, and basolateral Na+/HCO3- cotransporter NBCe1). In adults, it is most commonly acquired secondary to MULTIPLE MYELOMA (toxic light-chain deposition causing proximal tubular injury, FANCONI SYNDROME). Fanconi syndrome features generalized proximal tubular transport failure: defective reabsorption of HCO3- (pRTA), phosphate (hypophosphatemic rickets/osteomalacia), glucose (normoglycemic glycosuria), amino acids (generalized aminoaciduria), and low-molecular-weight proteins (beta-2 microglobulin). CRUCIAL ACID-BASE DIFFERENTIATING CONCEPT: In proximal RTA, when plasma HCO3- drops below the lowered proximal threshold, the distal collecting duct remains fully functional and ACIDIFIES THE URINE TO PH < 5.5. However, when systemic bicarbonate is replenished to normal with an IV bicarbonate infusion, the defective proximal tubule is overwhelmed, causing MASSIVE BICARBONATE WASTING (fractional excretion of HCO3- > 15-20%) and a surge in urine pH to > 7.5."
+      },
+      {
+        "text": "Cortical collecting duct; impaired principal cell sodium reabsorption mediated by epithelial sodium channels (ENaC)",
+        "correct": false,
+        "explanation": "ENaC impairment causes Type 4 RTA or pseudohypoaldosteronism with hyperkalemia, not generalized glycosuria, phosphaturia, or hypokalemic Fanconi syndrome."
+      },
+      {
+        "text": "Distal convoluted tubule; defective magnesium reabsorption mediated by transient receptor potential melastatin 6 (TRPM6)",
+        "correct": false,
+        "explanation": "TRPM6 defects cause isolated familial hypomagnesemia with secondary hypocalcemia, not generalized proximal transport failure or bicarbonate wasting."
+      },
+      {
+        "text": "Medullary collecting duct; deficient aquaporin-2 water channel apical membrane insertion",
+        "correct": false,
+        "explanation": "Aquaporin-2 defects cause nephrogenic diabetes insipidus with hypernatremia, without glycosuria, aminoaciduria, or bicarbonate wasting."
+      }
+    ],
+    "explanation": "Correct. Type 2 (proximal) Renal Tubular Acidosis (pRTA) is caused by impaired reabsorption of filtered bicarbonate in the PROXIMAL CONVOLUTED TUBULE (which normally reabsorbs ~80-85% of filtered HCO3- via apical NHE3, luminal carbonic anhydrase IV, and basolateral Na+/HCO3- cotransporter NBCe1). In adults, it is most commonly acquired secondary to MULTIPLE MYELOMA (toxic light-chain deposition causing proximal tubular injury, FANCONI SYNDROME). Fanconi syndrome features generalized proximal tubular transport failure: defective reabsorption of HCO3- (pRTA), phosphate (hypophosphatemic rickets/osteomalacia), glucose (normoglycemic glycosuria), amino acids (generalized aminoaciduria), and low-molecular-weight proteins (beta-2 microglobulin). CRUCIAL ACID-BASE DIFFERENTIATING CONCEPT: In proximal RTA, when plasma HCO3- drops below the lowered proximal threshold, the distal collecting duct remains fully functional and ACIDIFIES THE URINE TO PH < 5.5. However, when systemic bicarbonate is replenished to normal with an IV bicarbonate infusion, the defective proximal tubule is overwhelmed, causing MASSIVE BICARBONATE WASTING (fractional excretion of HCO3- > 15-20%) and a surge in urine pH to > 7.5. Normal AG acidosis + glycosuria with normal blood sugar + hypophosphatemia + FE-HCO3 > 20% on IV bicarb -> Proximal RTA / Fanconi syndrome.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Type 2 Proximal Renal Tubular Acidosis and Fanconi Syndrome.",
+    "keyPoints": [
+      "Type 2 Proximal Renal Tubular Acidosis and Fanconi Syndrome",
+      "Normal AG acidosis + glycosuria with normal blood sugar + hypophosphatemia + FE-HCO3 > 20% on IV bicarb -> Proximal RTA / Fanconi syndrome."
+    ],
+    "references": [
+      {
+        "label": "Foreman JW. Fanconi syndrome. Pediatr Clin North Am. 2019;66(1):159-167. PMID: 30454740.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30454740/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0353",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Type 4 Renal Tubular Acidosis Hypoaldosteronism",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old man with a 20-year history of poorly controlled type 2 diabetes mellitus and baseline diabetic nephropathy (stage 3b chronic kidney disease; eGFR 38 mL/min/1.73 m2) is evaluated during a routine clinic visit. He has mild peripheral edema. Vital signs reveal blood pressure 152/94 mm Hg and heart rate 68/min. Laboratory evaluation reveals: - Serum Sodium: 136 mEq/L - Serum Potassium: 5.9 mEq/L (marked hyperkalemia) - Serum Chloride: 110 mEq/L - Serum Bicarbonate: 17 mEq/L (normal anion gap metabolic acidosis: AG = 9) - Blood Urea Nitrogen: 38 mg/dL - Serum Creatinine: 2.1 mg/dL Urinalysis demonstrates a urine pH of 5.1 (consistently < 5.5). Spot urine electrolytes reveal: Sodium 38 mEq/L, Potassium 16 mEq/L, and Chloride 32 mEq/L (positive urine anion gap: +22 mEq/L). Plasma renin activity is low, and serum aldosterone concentration is markedly reduced (hyporeninemic hypoaldosteronism). Which of the following pathophysiological mechanisms directly mediates the systemic metabolic acidosis in this condition?",
+    "options": [
+      {
+        "text": "Apical loss of the hydrogen-potassium antiporter (H+/K+-ATPase) in cortical collecting duct principal cells",
+        "correct": false,
+        "explanation": "H+/K+-ATPase resides in alpha-intercalated cells, not principal cells, and its primary defect causes hypokalemic Type 1 RTA, not hyperkalemic Type 4 RTA."
+      },
+      {
+        "text": "Defective basolateral sodium-bicarbonate cotransport (NBCe1) in proximal convoluted tubular cells",
+        "correct": false,
+        "explanation": "NBCe1 defects cause Type 2 proximal RTA with hypokalemia and severe bicarbonate wasting, not hyperkalemic hypoaldosteronism."
+      },
+      {
+        "text": "Hyperkalemia-induced intracellular alkalosis in proximal tubular cells directly suppressing glutamine deamination and ammonium (NH4+) synthesis",
+        "correct": true,
+        "explanation": "Correct. Type 4 Renal Tubular Acidosis (hyperkalemic RTA) is the most common form of RTA in clinical practice, typically occurring in older patients with diabetic nephropathy who develop HYPORENINEMIC HYPOALDOSTERONISM (diabetic microvascular damage to the juxtaglomerular apparatus reduces renin, secondarily reducing aldosterone). Normally, aldosterone stimulates ENaC sodium reabsorption in principal cells (creating a lumen-negative potential that drives K+ and H+ excretion) and directly activates H+-ATPase in intercalated cells. Aldosterone deficiency or resistance causes HYPERKALEMIA. CRITICAL USMLE STEP 1 MECHANISTIC TRAP: The primary driver of metabolic acidosis in Type 4 RTA is not distal proton pump failure, but rather HYPERKALEMIA ITSELF. High extracellular K+ drives potassium into proximal tubular cells in exchange for protons, creating intracellular alkalosis. INTRACELLULAR ALKALOSIS DIRECTLY INHIBITS PHOSPHATE-DEPENDENT GLUTAMINASE, suppressing the deamination of glutamine and crippling RENAL AMMONIAGENESIS. Because NH3/NH4+ is the primary urinary buffer for acid excretion, loss of ammonium buffer limits daily acid excretion, generating a normal anion gap metabolic acidosis. Distal intercalated cells retain the ability to pump protons against a concentration gradient, so URINE PH REMAINS ACIDIC (pH < 5.5)."
+      },
+      {
+        "text": "Massive accumulation of circulating unmeasured endogenous ketoacid anions (beta-hydroxybutyrate)",
+        "correct": false,
+        "explanation": "Ketoacid accumulation causes high anion gap metabolic acidosis with high anion gap (> 12), whereas Type 4 RTA is a normal anion gap (hyperchloremic) acidosis."
+      },
+      {
+        "text": "Competitive inhibition of the thick ascending limb NKCC2 cotransporter by organic uremic retention solutes",
+        "correct": false,
+        "explanation": "NKCC2 inhibition causes Bartter-like hypokalemic alkalosis, not hyperkalemic metabolic acidosis."
+      }
+    ],
+    "explanation": "Correct. Type 4 Renal Tubular Acidosis (hyperkalemic RTA) is the most common form of RTA in clinical practice, typically occurring in older patients with diabetic nephropathy who develop HYPORENINEMIC HYPOALDOSTERONISM (diabetic microvascular damage to the juxtaglomerular apparatus reduces renin, secondarily reducing aldosterone). Normally, aldosterone stimulates ENaC sodium reabsorption in principal cells (creating a lumen-negative potential that drives K+ and H+ excretion) and directly activates H+-ATPase in intercalated cells. Aldosterone deficiency or resistance causes HYPERKALEMIA. CRITICAL USMLE STEP 1 MECHANISTIC TRAP: The primary driver of metabolic acidosis in Type 4 RTA is not distal proton pump failure, but rather HYPERKALEMIA ITSELF. High extracellular K+ drives potassium into proximal tubular cells in exchange for protons, creating intracellular alkalosis. INTRACELLULAR ALKALOSIS DIRECTLY INHIBITS PHOSPHATE-DEPENDENT GLUTAMINASE, suppressing the deamination of glutamine and crippling RENAL AMMONIAGENESIS. Because NH3/NH4+ is the primary urinary buffer for acid excretion, loss of ammonium buffer limits daily acid excretion, generating a normal anion gap metabolic acidosis. Distal intercalated cells retain the ability to pump protons against a concentration gradient, so URINE PH REMAINS ACIDIC (pH < 5.5). Diabetic nephropathy + hyperkalemia + normal AG acidosis + urine pH < 5.5 + low renin/aldosterone -> Type 4 RTA (hyperkalemia suppresses proximal ammoniagenesis).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Type 4 Renal Tubular Acidosis Hypoaldosteronism.",
+    "keyPoints": [
+      "Type 4 Renal Tubular Acidosis Hypoaldosteronism",
+      "Diabetic nephropathy + hyperkalemia + normal AG acidosis + urine pH < 5.5 + low renin/aldosterone -> Type 4 RTA (hyperkalemia suppresses proximal ammoniagenesis)."
+    ],
+    "references": [
+      {
+        "label": "Batlle DC, Arruda JA, Kurtzman NA. Hyperkalemic distal renal tubular acidosis associated with obstructive uropathy. N Engl J Med. 1981;304(7):373-380. PMID: 7453744.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7453744/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0354",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Bartter Syndrome vs Gitelman Syndrome Molecular Transport Defects",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 18-year-old man is evaluated for recurrent episodes of severe muscle cramps, carpopedal spasms, and generalized fatigue. He is normotensive with blood pressure 114/72 mm Hg. Serum chemistry demonstrates: - Sodium: 137 mEq/L - Potassium: 2.6 mEq/L (marked hypokalemia) - Chloride: 92 mEq/L - Bicarbonate: 32 mEq/L (metabolic alkalosis) - Magnesium: 1.2 mg/dL (normal: 1.7-2.2 mg/dL; marked hypomagnesemia) Plasma renin activity and serum aldosterone concentrations are both markedly elevated. Screen for surreptitious diuretic use is completely negative. 24-hour urine collection reveals marked HYPOCALCIURIA (urinary calcium excretion < 1.0 mg/kg/day; markedly reduced). Genetic testing identifies an autosomal recessive loss-of-function mutation in the SLC12A3 gene on chromosome 16. Which of the following nephron segments and specific apical transport proteins is defective in this patient?",
+    "options": [
+      {
+        "text": "Thick ascending limb of Henle; bumetanide-sensitive sodium-potassium-2-chloride cotransporter (NKCC2) (Bartter syndrome)",
+        "correct": false,
+        "explanation": "Bartter syndrome affects the thick ascending limb NKCC2 cotransporter, mimicking loop diuretics and causing HYPERCALCIURIA and nephrocalcinosis, directly contradicting the hypocalciuria in this patient."
+      },
+      {
+        "text": "Cortical collecting duct; amiloride-sensitive epithelial sodium channel (ENaC)",
+        "correct": false,
+        "explanation": "ENaC mutations causing loss-of-function lead to pseudohypoaldosteronism Type 1 (salt wasting, hyperkalemia, acidosis), while activating mutations cause Liddle syndrome (hypertension)."
+      },
+      {
+        "text": "Proximal convoluted tubule; apical sodium-hydrogen exchanger 3 (NHE3)",
+        "correct": false,
+        "explanation": "NHE3 defects impair proximal bicarbonate and sodium reabsorption, causing metabolic acidosis (proximal RTA), not hypokalemic metabolic alkalosis."
+      },
+      {
+        "text": "Distal convoluted tubule; thiazide-sensitive sodium-chloride cotransporter (NCCT) (Gitelman syndrome)",
+        "correct": true,
+        "explanation": "Correct. Master the classic USMLE Step 1 distinction between Bartter syndrome and Gitelman syndrome: Both are autosomal recessive disorders presenting with HYPOKALEMIC, HYPOCHLOREMIC METABOLIC ALKALOSIS, normal/low blood pressure, and secondary hyperreninemic hyperaldosteronism mimicking chronic diuretic abuse. (1) GITELMAN SYNDROME (present in this patient) is caused by loss-of-function mutations in SLC12A3 encoding the apical THIAZIDE-SENSITIVE SODIUM-CHLORIDE COTRANSPORTER (NCCT) in the DISTAL CONVOLUTED TUBULE (DCT). It mimics chronic THIAZIDE DIURETIC therapy. Classic differentiating hallmarks: Onset in late childhood or adulthood, SEVERE HYPOMAGNESEMIA (DCT is a major site of active magnesium reabsorption via TRPM6), and CRUCIALLY, MARKED HYPOCALCIURIA. In the DCT, NCCT inhibition lowers intracellular sodium, driving basolateral 3Na+/Ca2+ exchange and stimulating apical TRPV5 calcium channels, markedly enhancing calcium reabsorption. (2) In contrast, BARTTER SYNDROME affects the THICK ASCENDING LIMB of the loop of Henle (mutations in NKCC2, ROMK, or ClC-Kb), mimicking a LOOP DIURETIC (furosemide). Hallmarks: Onset in infancy with polyhydramnios, nephrocalcinosis, and HYPERCALCIURIA (loss of lumen-positive potential prevents paracellular calcium reabsorption)."
+      },
+      {
+        "text": "Medullary collecting duct; basolateral chloride-bicarbonate anion exchanger (AE1)",
+        "correct": false,
+        "explanation": "AE1 mutations cause Type 1 distal RTA (hyperchloremic metabolic acidosis with nephrocalcinosis), not metabolic alkalosis with hypocalciuria."
+      }
+    ],
+    "explanation": "Correct. Master the classic USMLE Step 1 distinction between Bartter syndrome and Gitelman syndrome: Both are autosomal recessive disorders presenting with HYPOKALEMIC, HYPOCHLOREMIC METABOLIC ALKALOSIS, normal/low blood pressure, and secondary hyperreninemic hyperaldosteronism mimicking chronic diuretic abuse. (1) GITELMAN SYNDROME (present in this patient) is caused by loss-of-function mutations in SLC12A3 encoding the apical THIAZIDE-SENSITIVE SODIUM-CHLORIDE COTRANSPORTER (NCCT) in the DISTAL CONVOLUTED TUBULE (DCT). It mimics chronic THIAZIDE DIURETIC therapy. Classic differentiating hallmarks: Onset in late childhood or adulthood, SEVERE HYPOMAGNESEMIA (DCT is a major site of active magnesium reabsorption via TRPM6), and CRUCIALLY, MARKED HYPOCALCIURIA. In the DCT, NCCT inhibition lowers intracellular sodium, driving basolateral 3Na+/Ca2+ exchange and stimulating apical TRPV5 calcium channels, markedly enhancing calcium reabsorption. (2) In contrast, BARTTER SYNDROME affects the THICK ASCENDING LIMB of the loop of Henle (mutations in NKCC2, ROMK, or ClC-Kb), mimicking a LOOP DIURETIC (furosemide). Hallmarks: Onset in infancy with polyhydramnios, nephrocalcinosis, and HYPERCALCIURIA (loss of lumen-positive potential prevents paracellular calcium reabsorption). Hypokalemic metabolic alkalosis + normal BP + hypomagnesemia + HYPOCALCIURIA -> Gitelman syndrome (NCCT in distal convoluted tubule).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Bartter Syndrome vs Gitelman Syndrome Molecular Transport Defects.",
+    "keyPoints": [
+      "Bartter Syndrome vs Gitelman Syndrome Molecular Transport Defects",
+      "Hypokalemic metabolic alkalosis + normal BP + hypomagnesemia + HYPOCALCIURIA -> Gitelman syndrome (NCCT in distal convoluted tubule)."
+    ],
+    "references": [
+      {
+        "label": "Knoers NV, Levtchenko EN. Gitelman syndrome. Orphanet J Rare Dis. 2008;3:22. PMID: 18667063.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18667063/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0355",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Renal",
+    "topic": "Liddle Syndrome Constitutive ENaC Activation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 17-year-old girl is evaluated for severe, treatment-resistant hypertension. Her blood pressure is 178/104 mm Hg. Physical examination is otherwise unremarkable. Laboratory evaluation demonstrates: - Serum Sodium: 144 mEq/L - Serum Potassium: 2.7 mEq/L (severe hypokalemia) - Serum Bicarbonate: 33 mEq/L (metabolic alkalosis) - Serum Aldosterone: < 2 ng/dL (suppressed; normal: 4-30 ng/dL) - Plasma Renin Activity: < 0.2 ng/mL/hr (suppressed; normal: 1.0-4.0 ng/mL/hr) 24-hour urine collection confirms renal potassium wasting. A trial of spironolactone produces no reduction in blood pressure and fails to correct her hypokalemia. However, administration of oral amiloride results in rapid normalization of blood pressure, correction of hypokalemia, and resolution of metabolic alkalosis. Genetic testing demonstrates a heterozygous deletion of the cytoplasmic C-terminal PY-motif in the beta subunit of the epithelial sodium channel (ENaC). This mutation causes pseudohyperaldosteronism by which of the following molecular mechanisms?",
+    "options": [
+      {
+        "text": "Constitutive transactivation of the mineralocorticoid receptor by normal circulating cortisol concentrations",
+        "correct": false,
+        "explanation": "Cortisol activation of mineralocorticoid receptors occurs in Apparent Mineralocorticoid Excess (AME; 11-beta-HSD2 deficiency) or licorice ingestion, which responds to spironolactone/dexamethasone, not direct ENaC blockers."
+      },
+      {
+        "text": "Autosomal dominant overexpression of 11-beta-hydroxylase causing massive excess of 11-deoxycorticosterone",
+        "correct": false,
+        "explanation": "11-beta-hydroxylase DEFICIENCY causes congenital adrenal hyperplasia with virilization, not a clean C-terminal PY-motif deletion in ENaC."
+      },
+      {
+        "text": "Ectopic chimeric duplication fusing the ACTH-responsive CYP11B1 promoter to the aldosterone synthase coding sequence",
+        "correct": false,
+        "explanation": "This describes Glucocorticoid-Remediable Aldosteronism (GRA), which features HIGH aldosterone that is suppressed by dexamethasone, not suppressed aldosterone."
+      },
+      {
+        "text": "Constitutive activating mutation in renal vascular V2 vasopressin receptors driving aquaporin-2 translocation",
+        "correct": false,
+        "explanation": "Activating V2 mutations cause nephrogenic syndrome of inappropriate antidiuresis (euvolemic hyponatremia), not hypokalemic hypertension."
+      },
+      {
+        "text": "Impairing binding of the ubiquitin ligase Nedd4-2, preventing normal ENaC internalization and causing constitutive channel retention at the apical membrane",
+        "correct": true,
+        "explanation": "Correct. Liddle syndrome is an autosomal dominant form of monogenic hypertension characterized by PSEUDOHYPERALDOSTERONISM: early-onset severe hypertension, hypokalemia, and metabolic alkalosis, with MARKEDLY SUPPRESSED PLASMA RENIN AND ALDOSTERONE. It is caused by gain-of-function mutations in the SCNN1B or SCNN1G genes encoding the beta or gamma subunits of the EPITHELIAL SODIUM CHANNEL (ENaC) in principal cells of the cortical collecting duct. In normal physiology, active ENaC channels on the apical membrane are recognized by the E3 ubiquitin ligase NEDD4-2, which binds to a specific proline-rich 'PY-motif' (PPxY) on the channel's cytoplasmic C-terminus. Nedd4-2 polyubiquitinates ENaC, triggering clathrin-mediated endocytosis and lysosomal degradation. In Liddle syndrome, deletions or missense mutations in the PY-motif PREVENT NEDD4-2 BINDING. Lacking ubiquitination, ENaC channels escape internalization and REMAIN CONSTITUTIVELY HYPERACTIVE AT THE APICAL MEMBRANE, driving massive uninhibited sodium and water reabsorption (volume expansion, hypertension, suppression of renin/aldosterone) and generating a persistent lumen-negative electrical potential that drives excessive K+ and H+ excretion into urine. Spironolactone is completely ineffective because the mineralocorticoid receptor is already turned off; AMILORIDE OR TRIAMTERENE IS DEFINITIVE THERAPY because they directly plug the open ENaC pore."
+      }
+    ],
+    "explanation": "Correct. Liddle syndrome is an autosomal dominant form of monogenic hypertension characterized by PSEUDOHYPERALDOSTERONISM: early-onset severe hypertension, hypokalemia, and metabolic alkalosis, with MARKEDLY SUPPRESSED PLASMA RENIN AND ALDOSTERONE. It is caused by gain-of-function mutations in the SCNN1B or SCNN1G genes encoding the beta or gamma subunits of the EPITHELIAL SODIUM CHANNEL (ENaC) in principal cells of the cortical collecting duct. In normal physiology, active ENaC channels on the apical membrane are recognized by the E3 ubiquitin ligase NEDD4-2, which binds to a specific proline-rich 'PY-motif' (PPxY) on the channel's cytoplasmic C-terminus. Nedd4-2 polyubiquitinates ENaC, triggering clathrin-mediated endocytosis and lysosomal degradation. In Liddle syndrome, deletions or missense mutations in the PY-motif PREVENT NEDD4-2 BINDING. Lacking ubiquitination, ENaC channels escape internalization and REMAIN CONSTITUTIVELY HYPERACTIVE AT THE APICAL MEMBRANE, driving massive uninhibited sodium and water reabsorption (volume expansion, hypertension, suppression of renin/aldosterone) and generating a persistent lumen-negative electrical potential that drives excessive K+ and H+ excretion into urine. Spironolactone is completely ineffective because the mineralocorticoid receptor is already turned off; AMILORIDE OR TRIAMTERENE IS DEFINITIVE THERAPY because they directly plug the open ENaC pore. Hypertension + hypokalemic alkalosis + low renin + low aldosterone + responsive to amiloride (not spironolactone) -> Liddle syndrome (impaired Nedd4-2 ubiquitination leaves ENaC open).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Liddle Syndrome Constitutive ENaC Activation.",
+    "keyPoints": [
+      "Liddle Syndrome Constitutive ENaC Activation",
+      "Hypertension + hypokalemic alkalosis + low renin + low aldosterone + responsive to amiloride (not spironolactone) -> Liddle syndrome (impaired Nedd4-2 ubiquitination leaves ENaC op"
+    ],
+    "references": [
+      {
+        "label": "Shimkets RA, Warnock DG, Bositis CM, et al. Liddle's syndrome: heritable human hypertension caused by mutations in the beta subunit of the epithelial sodium channel. Cell. 1994;79(3):407-414. PMID: 7954808.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7954808/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0356",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "SIADH vs Cerebral Salt Wasting Volume Status Differentiation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old man with small cell lung cancer presents with mild confusion and lethargy. Physical examination demonstrates moist mucous membranes, normal skin turgor, flat neck veins, and no peripheral edema or orthostatic blood pressure changes (clinically euvolemic). Serum sodium is 121 mEq/L (marked hyponatremia), serum osmolality is 248 mOsm/kg (hypoosmolar), and serum uric acid is 2.2 mg/dL (hypouricemia). Simultaneous spot urinalysis demonstrates urine osmolality 480 mOsm/kg (inappropriately elevated > 100 mOsm/kg) and urine sodium concentration 64 mEq/L (inappropriately elevated > 40 mEq/L). Thyroid and adrenal functions are normal. In this patient, which of the following physiological mechanisms explains why the patient maintains clinical euvolemia despite continuous, uninhibited antidiuretic hormone (ADH) secretion?",
+    "options": [
+      {
+        "text": "Secondary volume expansion triggers release of atrial natriuretic peptide (ANP), promoting compensatory natriuresis and pressure diuresis ('aldosterone escape')",
+        "correct": true,
+        "explanation": "Correct. Syndrome of Inappropriate Antidiuretic Hormone (SIADH) is characterized by autonomous, uninhibited ADH secretion (most commonly from ectopic small cell lung cancer, CNS disorders, or pulmonary infections). ADH stimulates V2 receptors in medullary collecting ducts, driving aquaporin-2 insertion and free water reabsorption. Initially, this causes water retention and subclinical volume expansion. CRUCIAL STEP 1 PATHOPHYSIOLOGY: Why doesn't the patient develop edema or hypervolemia? Because the subclinical volume expansion stretches atrial myocytes and renal juxtaglomerular cells, triggering: (1) Release of ATRIAL NATRIURETIC PEPTIDE (ANP) and brain natriuretic peptide (BNP); (2) Suppression of the renin-angiotensin-aldosterone system (RAAS); (3) Pressure natriuresis. The high ANP and low aldosterone stimulate marked urinary sodium and water excretion (COMPENSATORY NATRIURESIS; urine Na+ > 40 mEq/L). This natriuretic reset successfully expels excess intravascular volume, returning the patient to a state of CLINICAL EUVOLEMIA, but at the cost of worsening serum hyponatremia."
+      },
+      {
+        "text": "Intrarenal vasoconstriction mediated by endothelin-1 leading to reduced glomerular filtration rate and sodium retention",
+        "correct": false,
+        "explanation": "Endothelin vasoconstriction occurs in hepatorenal syndrome and acute kidney injury, causing oliguria and fluid retention with edema, not euvolemic hyponatremia."
+      },
+      {
+        "text": "Primary hypothalamic thirst center ablation preventing free water intake and volume expansion",
+        "correct": false,
+        "explanation": "Adipsia (loss of thirst) occurs with hypothalamic lesions and causes severe DEHYDRATION and HYPERNATREMIA, not euvolemic hyponatremia."
+      },
+      {
+        "text": "Proximal tubular hyper-reabsorption of sodium and water driven by sympathetic adrenergic stimulation",
+        "correct": false,
+        "explanation": "Proximal sodium reabsorption is enhanced in hypovolemia (causing urine Na+ < 20 mEq/L and high uric acid); in SIADH, volume expansion suppresses proximal reabsorption, leading to high urine Na+ and hypouricemia."
+      },
+      {
+        "text": "Downregulation of apical urea transporters (UT-A1) in medullary collecting ducts causing osmotic diuresis",
+        "correct": false,
+        "explanation": "Urea transporter alterations do not account for the systemic natriuretic reset driven by ANP in SIADH."
+      }
+    ],
+    "explanation": "Correct. Syndrome of Inappropriate Antidiuretic Hormone (SIADH) is characterized by autonomous, uninhibited ADH secretion (most commonly from ectopic small cell lung cancer, CNS disorders, or pulmonary infections). ADH stimulates V2 receptors in medullary collecting ducts, driving aquaporin-2 insertion and free water reabsorption. Initially, this causes water retention and subclinical volume expansion. CRUCIAL STEP 1 PATHOPHYSIOLOGY: Why doesn't the patient develop edema or hypervolemia? Because the subclinical volume expansion stretches atrial myocytes and renal juxtaglomerular cells, triggering: (1) Release of ATRIAL NATRIURETIC PEPTIDE (ANP) and brain natriuretic peptide (BNP); (2) Suppression of the renin-angiotensin-aldosterone system (RAAS); (3) Pressure natriuresis. The high ANP and low aldosterone stimulate marked urinary sodium and water excretion (COMPENSATORY NATRIURESIS; urine Na+ > 40 mEq/L). This natriuretic reset successfully expels excess intravascular volume, returning the patient to a state of CLINICAL EUVOLEMIA, but at the cost of worsening serum hyponatremia. Ectopic ADH (small cell lung cancer) + euvolemic hyponatremia + high urine Na+ -> SIADH (volume expansion stimulates ANP, causing natriuresis that preserves euvolemia).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of SIADH vs Cerebral Salt Wasting Volume Status Differentiation.",
+    "keyPoints": [
+      "SIADH vs Cerebral Salt Wasting Volume Status Differentiation",
+      "Ectopic ADH (small cell lung cancer) + euvolemic hyponatremia + high urine Na+ -> SIADH (volume expansion stimulates ANP, causing natriuresis that preserves euvolemia)."
+    ],
+    "references": [
+      {
+        "label": "Ellison DH, Berl T. The syndrome of inappropriate antidiuresis. N Engl J Med. 2007;356(20):2064-2072. PMID: 17507705.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17507705/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0357",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Endocrine",
+    "topic": "Central vs Nephrogenic Diabetes Insipidus Water Deprivation Test",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old man who sustained a severe closed head injury with a skull base fracture in a motorcycle collision 3 weeks ago presents with extreme polyuria (voiding 8 to 10 liters daily) and intense polydipsia. Laboratory evaluation demonstrates serum sodium 149 mEq/L and serum osmolality 308 mOsm/kg. Baseline urine osmolality is dilute at 110 mOsm/kg. A standardized water deprivation test is performed: despite 6 hours of strict water restriction and a 3% loss of body weight, his urine osmolality remains low at 125 mOsm/kg. Subcutaneous desmopressin (DDAVP, a synthetic V2 vasopressin agonist) is then administered. Two hours following desmopressin administration, his urine osmolality surges to 580 mOsm/kg (a > 300% increase), and urine volume drops sharply. Which of the following is the primary anatomical origin and pathophysiological mechanism of this patient's polyuria?",
+    "options": [
+      {
+        "text": "Acquired loss-of-function mutation in the collecting duct V2 vasopressin receptor preventing aquaporin-2 apical translocation (Nephrogenic Diabetes Insipidus)",
+        "correct": false,
+        "explanation": "Nephrogenic DI exhibits minimal or no response (< 10-50% increase) to exogenous desmopressin because the end-organ receptor is defective or blocked (e.g., by lithium), directly contradicting the >300% surge seen here."
+      },
+      {
+        "text": "Loss of neurohypophyseal antidiuretic hormone (vasopressin) storage and secretion following hypothalamic-pituitary tract transection (Central Diabetes Insipidus)",
+        "correct": true,
+        "explanation": "Correct. Diabetes insipidus (DI) is characterized by polyuria, polydipsia, and inability to concentrate urine, leading to dilute urine (< 300 mOsm/kg) despite hyperosmolar serum. Master the WATER DEPRIVATION TEST AND DESMOPRESSIN CHALLENGE on USMLE Step 1: (1) After water restriction, urine osmolality fails to concentrate in both central and nephrogenic DI. (2) Administration of DESMOPRESSIN (DDAVP) definitively separates the two: (a) CENTRAL DI (present in this patient): Driven by deficiency of ADH synthesized in the supraoptic/paraventricular nuclei of the hypothalamus and stored/released from the POSTERIOR PITUITARY (neurohypophysis; commonly disrupted by head trauma, skull fractures, pituitary surgery, or histiocytosis). Because the renal collecting ducts possess normal, intact V2 receptors and aquaporin-2 channels, administration of exogenous desmopressin produces a DRAMATIC SURGE IN URINE OSMOLALITY (> 50% to 300% increase) and reduction in urine volume. (b) NEPHROGENIC DI: Driven by renal collecting duct resistance to ADH (lithium toxicity, hypercalcemia, AVPR2 receptor mutations). Administration of desmopressin produces NO OR MINIMAL RESPONSE (< 10% increase in urine osmolality)."
+      },
+      {
+        "text": "Compulsive water consumption suppressing medullary hypertonicity with intact endogenous ADH reserve (Primary Polydipsia)",
+        "correct": false,
+        "explanation": "In primary polydipsia, water deprivation alone concentrates urine to > 500-600 mOsm/kg BEFORE desmopressin is given, and serum sodium is low or normal (< 137 mEq/L), not hypernatremic (149 mEq/L)."
+      },
+      {
+        "text": "Osmotic diuresis secondary to impaired proximal tubular glucose reabsorption via sodium-glucose cotransporters",
+        "correct": false,
+        "explanation": "Osmotic diuresis (diabetic ketoacidosis or SGLT2 inhibition) produces concentrated or iso-osmolar urine with high specific gravity, not dilute hypoosmolar urine."
+      },
+      {
+        "text": "Accelerated enzymatic degradation of circulating vasopressin by placental vasopressinase",
+        "correct": false,
+        "explanation": "Placental vasopressinase causes gestational diabetes insipidus in pregnancy, which does not apply to this male trauma patient."
+      }
+    ],
+    "explanation": "Correct. Diabetes insipidus (DI) is characterized by polyuria, polydipsia, and inability to concentrate urine, leading to dilute urine (< 300 mOsm/kg) despite hyperosmolar serum. Master the WATER DEPRIVATION TEST AND DESMOPRESSIN CHALLENGE on USMLE Step 1: (1) After water restriction, urine osmolality fails to concentrate in both central and nephrogenic DI. (2) Administration of DESMOPRESSIN (DDAVP) definitively separates the two: (a) CENTRAL DI (present in this patient): Driven by deficiency of ADH synthesized in the supraoptic/paraventricular nuclei of the hypothalamus and stored/released from the POSTERIOR PITUITARY (neurohypophysis; commonly disrupted by head trauma, skull fractures, pituitary surgery, or histiocytosis). Because the renal collecting ducts possess normal, intact V2 receptors and aquaporin-2 channels, administration of exogenous desmopressin produces a DRAMATIC SURGE IN URINE OSMOLALITY (> 50% to 300% increase) and reduction in urine volume. (b) NEPHROGENIC DI: Driven by renal collecting duct resistance to ADH (lithium toxicity, hypercalcemia, AVPR2 receptor mutations). Administration of desmopressin produces NO OR MINIMAL RESPONSE (< 10% increase in urine osmolality). Polyuria after head trauma + dilute urine that surges >300% after desmopressin -> Central diabetes insipidus (posterior pituitary ADH deficiency).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Central vs Nephrogenic Diabetes Insipidus Water Deprivation Test.",
+    "keyPoints": [
+      "Central vs Nephrogenic Diabetes Insipidus Water Deprivation Test",
+      "Polyuria after head trauma + dilute urine that surges >300% after desmopressin -> Central diabetes insipidus (posterior pituitary ADH deficiency)."
+    ],
+    "references": [
+      {
+        "label": "Robertson GL. Diabetes insipidus. Endocrinol Metab Clin North Am. 1995;24(3):549-572. PMID: 8468091.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8468091/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0358",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Renal",
+    "topic": "Post-Streptococcal Glomerulonephritis Subepithelial Humps",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 8-year-old boy is brought to the clinic because of dark, smoky 'cola-colored' urine and puffiness around his eyes (periorbital edema) that began 2 days ago. Three weeks ago, he was treated for impetigo with honey-colored crusted facial lesions. Blood pressure is 142/92 mm Hg. Urinalysis demonstrates moderate proteinuria (1.2 g/24 hr), dysmorphic erythrocytes, and red blood cell casts. Serum laboratory evaluation reveals elevated anti-streptolysin O (ASO) and anti-DNase B titers, with marked depression of serum complement C3 (32 mg/dL; normal: 80-160 mg/dL) and normal C4. Renal biopsy is performed. Which of the following combinations of light microscopy, immunofluorescence, and electron microscopy findings is diagnostic of this patient's nephritic condition?",
+    "options": [
+      {
+        "text": "Light microscopy: normal glomeruli; Immunofluorescence: completely negative; Electron microscopy: diffuse effacement of visceral epithelial foot processes",
+        "correct": false,
+        "explanation": "This describes Minimal Change Disease, which presents with nephrotic syndrome (massive selective proteinuria, severe edema) and normal complement levels, without gross hematuria or red cell casts."
+      },
+      {
+        "text": "Light microscopy: mesangial expansion with IgA deposition; Immunofluorescence: predominant mesangial IgA and C3; Electron microscopy: mesangial electron-dense deposits",
+        "correct": false,
+        "explanation": "This describes IgA nephropathy (Berger disease), which presents within 1 to 2 days of a respiratory infection ('synpharyngitic'), has normal serum C3, and exhibits purely mesangial deposits."
+      },
+      {
+        "text": "Light microscopy: diffuse endocapillary hypercellularity; Immunofluorescence: coarse granular 'starry sky' IgG and C3 deposition; Electron microscopy: large subepithelial electron-dense 'humps'",
+        "correct": true,
+        "explanation": "Correct. Post-Streptococcal Glomerulonephritis (PSGN) is a classic Type III immune complex-mediated hypersensitivity reaction that develops 1 to 3 weeks after streptococcal pharyngitis or 3 to 6 weeks after impetigo (caused by group A beta-hemolytic streptococci; Streptococcus pyogenes expressing nephritogenic M-protein serotypes). Nephritogenic streptococcal antigens (speB, NAPIr) deposit in glomerular basement membranes, triggering in situ immune complex formation and classical/alternative complement activation, driving MARKED CONSUMPTION AND DEPRESSION OF SERUM C3 (C4 remains normal). Diagnostic triad on renal biopsy: (1) LIGHT MICROSCOPY: Diffusely enlarged, hypercellular glomeruli with endocapillary proliferation of endothelial and mesangial cells and neutrophilic infiltration; (2) IMMUNOFLUORESCENCE: Coarse granular deposition of IgG, IgM, and C3 along the GBM and mesangium, creating a characteristic 'starry sky' or 'lumpy-bumpy' appearance; (3) ELECTRON MICROSCOPY: Large, discrete SUBEPITHELIAL ELECTRON-DENSE 'HUMPS' (immune complexes between the GBM and overlying podocyte foot processes)."
+      },
+      {
+        "text": "Light microscopy: crescentic cellular proliferation in Bowman space; Immunofluorescence: smooth linear IgG staining along the GBM; Electron microscopy: no electron-dense deposits",
+        "correct": false,
+        "explanation": "This describes Anti-GBM / Goodpasture disease, characterized by linear immunofluorescence against alpha-3 Type IV collagen, without granular humps or low C3."
+      },
+      {
+        "text": "Light microscopy: diffuse glomerular basement membrane thickening with 'spike and dome' pattern; Immunofluorescence: fine granular subepithelial IgG; Electron microscopy: subepithelial deposits with basement membrane spikes",
+        "correct": false,
+        "explanation": "This describes Membranous Nephropathy, a nephrotic syndrome characterized by subepithelial spikes (anti-PLA2R antibodies), without low C3 or post-streptococcal cola-colored urine."
+      }
+    ],
+    "explanation": "Correct. Post-Streptococcal Glomerulonephritis (PSGN) is a classic Type III immune complex-mediated hypersensitivity reaction that develops 1 to 3 weeks after streptococcal pharyngitis or 3 to 6 weeks after impetigo (caused by group A beta-hemolytic streptococci; Streptococcus pyogenes expressing nephritogenic M-protein serotypes). Nephritogenic streptococcal antigens (speB, NAPIr) deposit in glomerular basement membranes, triggering in situ immune complex formation and classical/alternative complement activation, driving MARKED CONSUMPTION AND DEPRESSION OF SERUM C3 (C4 remains normal). Diagnostic triad on renal biopsy: (1) LIGHT MICROSCOPY: Diffusely enlarged, hypercellular glomeruli with endocapillary proliferation of endothelial and mesangial cells and neutrophilic infiltration; (2) IMMUNOFLUORESCENCE: Coarse granular deposition of IgG, IgM, and C3 along the GBM and mesangium, creating a characteristic 'starry sky' or 'lumpy-bumpy' appearance; (3) ELECTRON MICROSCOPY: Large, discrete SUBEPITHELIAL ELECTRON-DENSE 'HUMPS' (immune complexes between the GBM and overlying podocyte foot processes). Cola-colored urine 3 weeks post-impetigo + low C3 -> PSGN (light microscopy: hypercellularity; IF: granular 'starry sky' IgG/C3; EM: subepithelial humps).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Post-Streptococcal Glomerulonephritis Subepithelial Humps.",
+    "keyPoints": [
+      "Post-Streptococcal Glomerulonephritis Subepithelial Humps",
+      "Cola-colored urine 3 weeks post-impetigo + low C3 -> PSGN (light microscopy: hypercellularity; IF: granular 'starry sky' IgG/C3; EM: subepithelial humps)."
+    ],
+    "references": [
+      {
+        "label": "Rodriguez-Iturbe B, Musser JM. The current state of poststreptococcal glomerulonephritis. J Am Soc Nephrol. 2008;19(10):1855-1864. PMID: 18667731.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18667731/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0359",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Minimal Change Disease Podocyte Effacement and Selective Albuminuria",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 4-year-old boy is brought to the pediatrician by his mother because of progressive abdominal distension and swollen eyelids that are most severe in the morning. Physical examination reveals marked periorbital edema, scrotal edema, and shifting dullness on abdominal percussion (ascites). Blood pressure is normal at 96/60 mm Hg. Urinalysis demonstrates 4+ proteinuria, with zero red blood cells, zero white blood cells, and no cellular casts. 24-hour urine collection confirms massive proteinuria of 4.8 g/24 hr. Serum albumin is 1.8 g/dL (severe hypoalbuminemia), and total cholesterol is 340 mg/dL. Urine protein electrophoresis demonstrates that > 90% of the excreted protein is albumin, with negligible amounts of high-molecular-weight globulins (highly selective proteinuria). The child is prescribed a trial of oral prednisone and experiences complete resolution of proteinuria within 3 weeks. In this patient, the loss of selective glomerular filtration permselectivity is primarily caused by which of the following molecular alterations?",
+    "options": [
+      {
+        "text": "Subendothelial deposition of circulating immune complexes activating the classical complement cascade",
+        "correct": false,
+        "explanation": "Subendothelial immune complex deposition is seen in MPGN and lupus nephritis Class IV, producing nephritic syndrome with low C3 and cellular proliferation, not steroid-responsive pure selective proteinuria."
+      },
+      {
+        "text": "Autosomal dominant mutation in the podocin (NPHS2) gene causing focal segmental sclerosis",
+        "correct": false,
+        "explanation": "Podocin/nephrin mutations cause congenital or genetic focal segmental glomerulosclerosis (FSGS), which is steroid-resistant and features non-selective proteinuria."
+      },
+      {
+        "text": "Anti-phospholipase A2 receptor (PLA2R) autoantibodies binding in situ to podocyte surface antigens",
+        "correct": false,
+        "explanation": "Anti-PLA2R antibodies cause Membranous Nephropathy (subepithelial spikes on silver stain, non-selective proteinuria, adult onset), not pediatric minimal change disease."
+      },
+      {
+        "text": "T-cell derived cytokine-mediated loss of negatively charged heparan sulfate proteoglycans on the glomerular basement membrane and diffuse effacement of podocyte foot processes",
+        "correct": true,
+        "explanation": "Correct. Minimal Change Disease (MCD; nil disease) is the most common cause of NEPHROTIC SYNDROME in children (accounting for > 80% of pediatric cases). The pathogenesis is driven by immune dysregulation (systemic T-cell dysfunction releasing circulating permeability cytokines, such as IL-13 or hemopexin). These cytokines cause: (1) Neutralization and loss of negatively charged POLYANIONS (heparan sulfate proteoglycans and podocalyxin) on the glomerular capillary filtration barrier. Because albumin is negatively charged at physiological pH, loss of the electrostatic charge barrier permits massive filtration of albumin, producing characteristically HIGHLY SELECTIVE ALBUMINURIA (without larger globulins); (2) Cytoskeletal disruption of visceral epithelial cells, resulting in DIFFUSE EFFACEMENT (flattening and retraction) OF PODOCYTE FOOT PROCESSES. Renal biopsy findings: LIGHT MICROSCOPY: Completely normal glomeruli (hence 'minimal change'); IMMUNOFLUORESCENCE: Completely negative (no immunoglobulin or complement deposition); ELECTRON MICROSCOPY: Diffuse effacement of podocyte foot processes. MCD has a rapid and complete response to CORTICOSTEROID therapy in > 90% of pediatric patients."
+      },
+      {
+        "text": "Non-enzymatic glycation of collagen leading to selective efferent arteriolar hyalinosis",
+        "correct": false,
+        "explanation": "Non-enzymatic glycation causes diabetic nephropathy (Kimmelstiel-Wilson nodules), not pediatric selective albuminuria."
+      }
+    ],
+    "explanation": "Correct. Minimal Change Disease (MCD; nil disease) is the most common cause of NEPHROTIC SYNDROME in children (accounting for > 80% of pediatric cases). The pathogenesis is driven by immune dysregulation (systemic T-cell dysfunction releasing circulating permeability cytokines, such as IL-13 or hemopexin). These cytokines cause: (1) Neutralization and loss of negatively charged POLYANIONS (heparan sulfate proteoglycans and podocalyxin) on the glomerular capillary filtration barrier. Because albumin is negatively charged at physiological pH, loss of the electrostatic charge barrier permits massive filtration of albumin, producing characteristically HIGHLY SELECTIVE ALBUMINURIA (without larger globulins); (2) Cytoskeletal disruption of visceral epithelial cells, resulting in DIFFUSE EFFACEMENT (flattening and retraction) OF PODOCYTE FOOT PROCESSES. Renal biopsy findings: LIGHT MICROSCOPY: Completely normal glomeruli (hence 'minimal change'); IMMUNOFLUORESCENCE: Completely negative (no immunoglobulin or complement deposition); ELECTRON MICROSCOPY: Diffuse effacement of podocyte foot processes. MCD has a rapid and complete response to CORTICOSTEROID therapy in > 90% of pediatric patients. Child with nephrotic syndrome + highly selective albuminuria + rapid steroid response -> Minimal Change Disease (loss of negative charge barrier + podocyte foot process effacement).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Minimal Change Disease Podocyte Effacement and Selective Albuminuria.",
+    "keyPoints": [
+      "Minimal Change Disease Podocyte Effacement and Selective Albuminuria",
+      "Child with nephrotic syndrome + highly selective albuminuria + rapid steroid response -> Minimal Change Disease (loss of negative charge barrier + podocyte foot process effacement)"
+    ],
+    "references": [
+      {
+        "label": "Vivarelli M, Massella L, Ruggiero B, Emma F. Minimal Change Disease. Clin J Am Soc Nephrol. 2017;12(2):332-345. PMID: 27940460.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27940460/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0360",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Focal Segmental Glomerulosclerosis APOL1 Risk and Non-Selective Proteinuria",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 32-year-old African American man with a history of HIV infection on antiretroviral therapy (CD4 count 320/mcL, viral load undetectable) presents with worsening lower extremity edema, frothy urine, and fatigue. Blood pressure is 148/92 mm Hg. Urinalysis demonstrates 4+ protein, trace blood, and lipid droplets under polarized microscopy ('Maltese cross' appearance). 24-hour urine collection reveals 7.6 g of protein. Serum albumin is 2.1 g/dL, and serum creatinine has risen from a baseline of 0.9 mg/dL to 1.8 mg/dL. Urine protein electrophoresis reveals a mixed pattern containing high concentrations of both albumin and high-molecular-weight gamma-globulins (non-selective proteinuria). Genetic testing identifies homozygous G1/G1 risk alleles in the APOL1 (apolipoprotein L1) gene. Renal biopsy demonstrates sclerosis affecting some but not all glomeruli, and within affected glomeruli, only a portion of the capillary tuft shows collapse, extracellular matrix deposition, and hyalinosis. Immunofluorescence shows non-specific focal entrapment of IgM and C3 in sclerotic areas. Which of the following electron microscopic findings is most characteristic of this condition?",
+    "options": [
+      {
+        "text": "Marked subendothelial electron-dense immune deposits with duplication and 'tram-track' splitting of the glomerular basement membrane",
+        "correct": false,
+        "explanation": "This describes Membranoproliferative Glomerulonephritis (MPGN Type I), which features subendothelial deposits and mesangial interposition, not focal segmental sclerosis."
+      },
+      {
+        "text": "Subepithelial electron-dense deposits embedded between projection spikes of glomerular basement membrane material",
+        "correct": false,
+        "explanation": "This describes Membranous Nephropathy (spike and dome pattern on silver stain), which affects all capillary loops diffusely."
+      },
+      {
+        "text": "Extensive linear deposition of immune complexes along the lamina densa of the glomerular basement membrane",
+        "correct": false,
+        "explanation": "Linear GBM deposition is the pathognomonic hallmark of Anti-GBM / Goodpasture disease on immunofluorescence; FSGS has negative or non-specific entrapment."
+      },
+      {
+        "text": "Randomly oriented, non-branching extracellular fibrils measuring 8 to 10 nm in diameter within the mesangium",
+        "correct": false,
+        "explanation": "This describes Renal Amyloidosis, which features Congo red positivity and apple-green birefringence under polarized light, not segmental sclerosis."
+      },
+      {
+        "text": "Diffuse effacement of podocyte foot processes with podocyte detachment and denudation of the underlying glomerular basement membrane",
+        "correct": true,
+        "explanation": "Correct. Focal Segmental Glomerulosclerosis (FSGS) is the most common cause of nephrotic syndrome in African American adults and in patients with HIV infection (HIV-associated nephropathy; collapsing glomerulopathy variant), sickle cell disease, massive obesity, or heroin use. APOL1 G1/G2 risk variants confer natural immunity to African trypanosomes (sleeping sickness), but induce podocyte autophagy and membrane pore formation, driving genetic predisposition to FSGS. Hallmarks on renal biopsy: (1) LIGHT MICROSCOPY: FOCAL (affecting some, but not all, glomeruli) and SEGMENTAL (affecting only a portion of the capillary tuft in involved glomeruli) sclerosis, capillary collapse, and hyalinosis (entrapped plasma proteins); (2) IMMUNOFLUORESCENCE: Usually negative, but may show non-specific mechanical trapping of IgM and C3 in sclerotic scars; (3) ELECTRON MICROSCOPY: DIFFUSE EFFACEMENT OF PODOCYTE FOOT PROCESSES, along with podocyte hypertrophy, detachment, and focal DENUDATION of the bare glomerular basement membrane. Unlike minimal change disease, FSGS features NON-SELECTIVE PROTEINURIA, microhematuria, hypertension, frequent renal insufficiency, and POOR RESPONSE TO CORTICOSTEROIDS (frequent progression to end-stage renal disease)."
+      }
+    ],
+    "explanation": "Correct. Focal Segmental Glomerulosclerosis (FSGS) is the most common cause of nephrotic syndrome in African American adults and in patients with HIV infection (HIV-associated nephropathy; collapsing glomerulopathy variant), sickle cell disease, massive obesity, or heroin use. APOL1 G1/G2 risk variants confer natural immunity to African trypanosomes (sleeping sickness), but induce podocyte autophagy and membrane pore formation, driving genetic predisposition to FSGS. Hallmarks on renal biopsy: (1) LIGHT MICROSCOPY: FOCAL (affecting some, but not all, glomeruli) and SEGMENTAL (affecting only a portion of the capillary tuft in involved glomeruli) sclerosis, capillary collapse, and hyalinosis (entrapped plasma proteins); (2) IMMUNOFLUORESCENCE: Usually negative, but may show non-specific mechanical trapping of IgM and C3 in sclerotic scars; (3) ELECTRON MICROSCOPY: DIFFUSE EFFACEMENT OF PODOCYTE FOOT PROCESSES, along with podocyte hypertrophy, detachment, and focal DENUDATION of the bare glomerular basement membrane. Unlike minimal change disease, FSGS features NON-SELECTIVE PROTEINURIA, microhematuria, hypertension, frequent renal insufficiency, and POOR RESPONSE TO CORTICOSTEROIDS (frequent progression to end-stage renal disease). African American HIV patient + nephrotic syndrome + APOL1 risk + segmental sclerosis/hyalinosis -> FSGS (podocyte foot process effacement and detachment).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Focal Segmental Glomerulosclerosis APOL1 Risk and Non-Selective Proteinuria.",
+    "keyPoints": [
+      "Focal Segmental Glomerulosclerosis APOL1 Risk and Non-Selective Proteinuria",
+      "African American HIV patient + nephrotic syndrome + APOL1 risk + segmental sclerosis/hyalinosis -> FSGS (podocyte foot process effacement and detachment)."
+    ],
+    "references": [
+      {
+        "label": "D'Agati VD, Kaskel FJ, Falk RJ. Focal segmental glomerulosclerosis. N Engl J Med. 2011;365(25):2398-2411. PMID: 22187987.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22187987/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0361",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Membranous Nephropathy Anti-PLA2R Antibodies and Spike and Dome",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old Caucasian man presents with progressive bilateral lower extremity edema, facial puffiness, and frothy urine. Blood pressure is 142/88 mm Hg. Urinalysis demonstrates 4+ proteinuria, with zero red blood cells and zero cellular casts. 24-hour urine collection reveals 8.2 g of protein. Serum albumin is 2.2 g/dL, total cholesterol is 380 mg/dL, and serum creatinine is 1.1 mg/dL. Serological testing is strongly positive for circulating autoantibodies against the M-type phospholipase A2 receptor (PLA2R). Periodic acid-methenamine silver (PAM) stain of a renal biopsy specimen demonstrates diffuse thickening of the capillary loops with prominent silver-positive projections protruding outward from the basement membrane into the subepithelial space ('spike and dome' pattern). Immunofluorescence demonstrates fine granular IgG4 and C3 deposition along all glomerular capillary loops. Which of the following electron microscopic findings is diagnostic of this condition?",
+    "options": [
+      {
+        "text": "Electron-dense deposits located strictly in the subepithelial space between the outer surface of the glomerular basement membrane and overlying effaced podocytes",
+        "correct": true,
+        "explanation": "Correct. Primary Membranous Nephropathy (MN) is the most common cause of nephrotic syndrome in Caucasian adults. In > 70-80% of primary cases, it is an autoimmune disease driven by circulating IgG4 autoantibodies targeting the M-TYPE PHOSPHOLIPASE A2 RECEPTOR (PLA2R), a transmembrane glycoprotein constitutively expressed on visceral epithelial cells (podocytes). Autoantibodies cross the fenestrated endothelium and GBM to bind PLA2R in situ on the subepithelial surface of podocytes, activating complement (C5b-9 membrane attack complex) and damaging the slit diaphragm. Characteristic renal biopsy findings: (1) LIGHT MICROSCOPY: Diffuse, uniform thickening of all glomerular capillary walls without hypercellularity; silver stain demonstrates 'SPIKES' of newly synthesized GBM material protruding between the immune complexes ('spike and dome' pattern); (2) IMMUNOFLUORESCENCE: Fine, granular deposition of IgG and C3 outlining every capillary loop; (3) ELECTRON MICROSCOPY: Discontinuous, electron-dense deposits located strictly in the SUBEPITHELIAL SPACE (under the podocytes). Secondary causes include hepatitis B, NSAIDs, penicillamine, SLE (Class V), and solid organ malignancies (colon, lung, prostate). Complications include high risk of RENAL VEIN THROMBOSIS."
+      },
+      {
+        "text": "Electron-dense deposits localized exclusively within the subendothelial space between endothelial cells and the lamina densa",
+        "correct": false,
+        "explanation": "Subendothelial deposits are characteristic of Membranoproliferative Glomerulonephritis Type I and Lupus Nephritis Class IV (wire-loop lesions), causing nephritic syndrome with low C3, not primary membranous nephropathy."
+      },
+      {
+        "text": "Extensive electron-dense transformation and ribbon-like thickening within the lamina densa of the basement membrane",
+        "correct": false,
+        "explanation": "Ribbon-like dense deposits within the lamina densa define Dense Deposit Disease (MPGN Type II; C3 nephropathy / C3 nephritic factor), not membranous nephropathy."
+      },
+      {
+        "text": "Discrete electron-dense humps protruding from the subepithelial surface associated with endocapillary neutrophils",
+        "correct": false,
+        "explanation": "Large subepithelial humps with neutrophilic hypercellularity are the hallmark of Post-Streptococcal Glomerulonephritis, which has low C3 and post-infectious nephritic presentation."
+      },
+      {
+        "text": "Purely mesangial electron-dense deposits with prominent expansion of the paramesangial matrix",
+        "correct": false,
+        "explanation": "Pure mesangial deposits define IgA nephropathy (Berger disease) and Lupus Nephritis Class II, presenting with recurrent gross hematuria, not nephrotic PLA2R-positive membranous nephropathy."
+      }
+    ],
+    "explanation": "Correct. Primary Membranous Nephropathy (MN) is the most common cause of nephrotic syndrome in Caucasian adults. In > 70-80% of primary cases, it is an autoimmune disease driven by circulating IgG4 autoantibodies targeting the M-TYPE PHOSPHOLIPASE A2 RECEPTOR (PLA2R), a transmembrane glycoprotein constitutively expressed on visceral epithelial cells (podocytes). Autoantibodies cross the fenestrated endothelium and GBM to bind PLA2R in situ on the subepithelial surface of podocytes, activating complement (C5b-9 membrane attack complex) and damaging the slit diaphragm. Characteristic renal biopsy findings: (1) LIGHT MICROSCOPY: Diffuse, uniform thickening of all glomerular capillary walls without hypercellularity; silver stain demonstrates 'SPIKES' of newly synthesized GBM material protruding between the immune complexes ('spike and dome' pattern); (2) IMMUNOFLUORESCENCE: Fine, granular deposition of IgG and C3 outlining every capillary loop; (3) ELECTRON MICROSCOPY: Discontinuous, electron-dense deposits located strictly in the SUBEPITHELIAL SPACE (under the podocytes). Secondary causes include hepatitis B, NSAIDs, penicillamine, SLE (Class V), and solid organ malignancies (colon, lung, prostate). Complications include high risk of RENAL VEIN THROMBOSIS. Adult nephrotic syndrome + anti-PLA2R antibodies + 'spike and dome' on silver stain -> Membranous nephropathy (subepithelial electron-dense deposits).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Membranous Nephropathy Anti-PLA2R Antibodies and Spike and Dome.",
+    "keyPoints": [
+      "Membranous Nephropathy Anti-PLA2R Antibodies and Spike and Dome",
+      "Adult nephrotic syndrome + anti-PLA2R antibodies + 'spike and dome' on silver stain -> Membranous nephropathy (subepithelial electron-dense deposits)."
+    ],
+    "references": [
+      {
+        "label": "Beck LH Jr, Bonegio RG, Lambeau G, et al. M-type phospholipase A2 receptor as target antigen in idiopathic membranous nephropathy. N Engl J Med. 2009;361(1):11-21. PMID: 19571279.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19571279/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0362",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Membranoproliferative Glomerulonephritis Tram-Track Basement Membrane",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old woman with a 10-year history of chronic hepatitis C virus infection presents with hematuria, lower extremity edema, and purpuric papules on both lower legs. Laboratory evaluation demonstrates: - Serum Creatinine: 1.9 mg/dL - Serum Albumin: 2.7 g/dL - 24-hour urine protein: 3.8 g - Serum Complement C3: 38 mg/dL (markedly depressed; normal 80-160 mg/dL) - Serum Complement C4: 6 mg/dL (markedly depressed; normal 16-48 mg/dL) - Cryoglobulins: Strongly positive (mixed cryoglobulinemia) Light microscopy of a renal biopsy stained with periodic acid-Schiff (PAS) and silver stain demonstrates enlarged, hypercellular, lobular glomeruli with marked mesangial proliferation. The glomerular capillary walls show striking duplication and double-contour basement membrane splitting, creating a classic 'tram-track' appearance. Which of the following cellular processes directly produces this 'tram-track' double-contour appearance on light microscopy?",
+    "options": [
+      {
+        "text": "Podocyte detachment from the lamina rara externa triggering parietal epithelial cell crescent formation",
+        "correct": false,
+        "explanation": "Podocyte detachment with parietal cell proliferation in Bowman space forms crescents (Rapidly Progressive Glomerulonephritis), not the double-contour tram-track duplication of MPGN."
+      },
+      {
+        "text": "Mesangial cell cytoplasmic interposition into the subendothelial space accompanied by new basement membrane matrix synthesis",
+        "correct": true,
+        "explanation": "Correct. Membranoproliferative Glomerulonephritis Type I (MPGN Type I) is an immune complex-mediated glomerulonephritis most commonly associated with CHRONIC HEPATITIS C VIRUS INFECTION (with mixed cryoglobulinemia), subacute bacterial endocarditis, or autoimmune diseases. Circulating cryoglobulins or HCV immune complexes deposit in the SUBENDOTHELIAL SPACE of glomerular capillaries, activating the classical complement cascade (causing MARKED CONSUMPTION OF BOTH C3 AND C4). Pathophysiology of the 'tram-track' lesion: In response to subendothelial immune deposits and chemotactic factors, MESANGIAL CELL PROCESSES EXTEND (INTERPOSE) AROUND THE CAPILLARY LOOPS INTO THE SUBENDOTHELIAL SPACE between the endothelium and the original basement membrane. As the interposed mesangial cells migrate, they synthesize a new, second layer of basement membrane material. On silver or PAS stains, this creates a distinctive 'DOUBLE CONTOUR' OR 'TRAM-TRACK' appearance of the split glomerular basement membrane."
+      },
+      {
+        "text": "Transmural neutrophilic infiltration of the arteriolar wall with concentric 'onion-skin' intimal hyperplasia",
+        "correct": false,
+        "explanation": "Onion-skin intimal hyperplasia occurs in hyperplastic arteriolosclerosis secondary to malignant hypertension, not glomerular capillary basement membrane splitting."
+      },
+      {
+        "text": "Linear deposition of unbranched immunoglobulin light chains along the lamina densa causing mechanical splitting",
+        "correct": false,
+        "explanation": "Light chain deposition disease causes continuous linear non-amyloid light-chain staining without mesangial interposition or tram-track doubling."
+      },
+      {
+        "text": "Endothelial cell swelling and loss of fenestrae driven by Shiga toxin-mediated ribosome inactivation",
+        "correct": false,
+        "explanation": "Endothelial swelling and microvascular thrombosis are the hallmarks of Thrombotic Microangiopathy (HUS/TTP), not classic lobular MPGN."
+      }
+    ],
+    "explanation": "Correct. Membranoproliferative Glomerulonephritis Type I (MPGN Type I) is an immune complex-mediated glomerulonephritis most commonly associated with CHRONIC HEPATITIS C VIRUS INFECTION (with mixed cryoglobulinemia), subacute bacterial endocarditis, or autoimmune diseases. Circulating cryoglobulins or HCV immune complexes deposit in the SUBENDOTHELIAL SPACE of glomerular capillaries, activating the classical complement cascade (causing MARKED CONSUMPTION OF BOTH C3 AND C4). Pathophysiology of the 'tram-track' lesion: In response to subendothelial immune deposits and chemotactic factors, MESANGIAL CELL PROCESSES EXTEND (INTERPOSE) AROUND THE CAPILLARY LOOPS INTO THE SUBENDOTHELIAL SPACE between the endothelium and the original basement membrane. As the interposed mesangial cells migrate, they synthesize a new, second layer of basement membrane material. On silver or PAS stains, this creates a distinctive 'DOUBLE CONTOUR' OR 'TRAM-TRACK' appearance of the split glomerular basement membrane. Hepatitis C + mixed cryoglobulinemia + low C3/C4 + 'tram-track' double-contour GBM -> MPGN Type I (mesangial cell interposition into subendothelial space).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Membranoproliferative Glomerulonephritis Tram-Track Basement Membrane.",
+    "keyPoints": [
+      "Membranoproliferative Glomerulonephritis Tram-Track Basement Membrane",
+      "Hepatitis C + mixed cryoglobulinemia + low C3/C4 + 'tram-track' double-contour GBM -> MPGN Type I (mesangial cell interposition into subendothelial space)."
+    ],
+    "references": [
+      {
+        "label": "Sethi S, Fervenza FC. Membranoproliferative glomerulonephritis: pathogenetic classification and mechanism-based approach to therapy. Nephrol Dial Transplant. 2017;32(suppl_1):i40-i48. PMID: 28391349.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28391349/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0363",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Granulomatosis with Polyangiitis Immunofluorescence",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 48-year-old man presents with a 4-month history of progressive nasal congestion, purulent rhinorrhea, recurrent epistaxis, and mild hemoptysis. He has completed three separate outpatient courses of oral amoxicillin-clavulanate for presumed refractory bacterial sinusitis without clinical improvement. Over the past 2 weeks, he notes bilateral lower extremity swelling, gross tea-colored urine, and generalized malaise.\n\nOn physical examination, temperature is 37.8°C (100.0°F), blood pressure is 152/94 mm Hg, and pulse is 84/min. Anterior rhinoscopy reveals extensive friable mucosal ulcerations, crusting, and a focal cartilaginous perforation of the anterior nasal septum. Chest auscultation reveals crackles at both lung bases. Bilateral 2+ pretibial pitting edema is present.\n\nLaboratory findings:\n- Serum creatinine: 3.1 mg/dL (baseline was 0.9 mg/dL 6 months ago)\n- Blood urea nitrogen: 38 mg/dL\n- Urinalysis: 3+ blood, 2+ protein; microscopic examination reveals numerous dysmorphic red blood cells and RBC casts\n- Chest computed tomography: Multiple bilateral thick-walled cavitary nodules and patchy ground-glass infiltrates\n\nAn urgent percutaneous renal biopsy is performed, demonstrating extensive glomerular crescent formation with segmental fibrinoid necrosis. Which of the following immunofluorescence microscopic patterns on this patient's renal biopsy is most characteristic of his underlying disorder?",
+    "options": [
+      {
+        "text": "Smooth, ribbon-like linear IgG and complement C3 deposition along the entire glomerular basement membrane",
+        "correct": false,
+        "explanation": "Linear IgG deposition along the GBM is diagnostic of Anti-Glomerular Basement Membrane (anti-GBM) disease (Goodpasture syndrome). While Goodpasture also causes pulmonary hemorrhage and RPGN (pulmonary-renal syndrome), it does NOT cause destructive upper respiratory mucosal disease or nasal septal perforation."
+      },
+      {
+        "text": "Coarse, granular 'lumpy-bumpy' deposition of IgG and complement C3 in the capillary loops and mesangium",
+        "correct": false,
+        "explanation": "Coarse granular subepithelial immune complex deposition is characteristic of post-streptococcal glomerulonephritis (PSGN), which presents with hematuria and edema after pharyngitis or impetigo, not chronic destructive necrotizing cavitary pulmonary lesions."
+      },
+      {
+        "text": "Pauci-immune pattern with virtually absent or trace, non-specific staining for IgG, IgM, IgA, and complement C3",
+        "correct": true,
+        "explanation": "The clinical triad of necrotizing destructive upper respiratory lesions (persistent purulent rhinosinusitis, mucosal ulceration, septal perforation), lower respiratory cavitary lesions with hemoptysis, and rapidly progressive glomerulonephritis (RPGN with dysmorphic RBCs, RBC casts, and rapid rise in creatinine) is classic for Granulomatosis with Polyangiitis (GPA, formerly Wegener granulomatosis). GPA is an ANCA-associated small-vessel necrotizing vasculitis driven by autoantibodies against proteinase 3 (PR3-ANCA / cytoplasmic c-ANCA). The hallmark histopathology of ANCA-associated glomerulonephritis is necrotizing crescentic glomerulonephritis with a 'pauci-immune' immunofluorescence pattern—meaning there is virtually NO significant deposition of immunoglobulins (IgG, IgM, IgA) or complement components along the glomerular basement membrane or in the mesangium, differentiating it from immune-complex or anti-GBM mediated glomerulonephritis."
+      },
+      {
+        "text": "Subendothelial electron-dense immune deposits with mesangial cellular interposition creating a 'tram-track' appearance",
+        "correct": false,
+        "explanation": "Subendothelial immune complex deposits with mesangial interposition and GBM splitting (tram-tracks) define Membranoproliferative Glomerulonephritis (MPGN Type 1), typically associated with hepatitis C and cryoglobulinemia, not destructive cavitary airway disease."
+      },
+      {
+        "text": "Predominant IgA and C3 deposition confined to the glomerular mesangial matrix",
+        "correct": false,
+        "explanation": "Mesangial IgA deposition is diagnostic of IgA nephropathy (Berger disease) or Henoch-Schönlein purpura (IgA vasculitis), which present with recurrent gross hematuria following upper respiratory infections or palpable purpura, not destructive necrotizing pulmonary cavitations."
+      }
+    ],
+    "explanation": "The clinical triad of necrotizing destructive upper respiratory lesions (persistent purulent rhinosinusitis, mucosal ulceration, septal perforation), lower respiratory cavitary lesions with hemoptysis, and rapidly progressive glomerulonephritis (RPGN with dysmorphic RBCs, RBC casts, and rapid rise in creatinine) is classic for Granulomatosis with Polyangiitis (GPA, formerly Wegener granulomatosis). GPA is an ANCA-associated small-vessel necrotizing vasculitis driven by autoantibodies against proteinase 3 (PR3-ANCA / cytoplasmic c-ANCA). The hallmark histopathology of ANCA-associated glomerulonephritis is necrotizing crescentic glomerulonephritis with a 'pauci-immune' immunofluorescence pattern—meaning there is virtually NO significant deposition of immunoglobulins (IgG, IgM, IgA) or complement components along the glomerular basement membrane or in the mesangium, differentiating it from immune-complex or anti-GBM mediated glomerulonephritis. Destructive upper airway ulceration/septal perforation + pulmonary cavitary nodules + rapidly progressive glomerulonephritis = GPA (ANCA vasculitis) -> renal biopsy is pauci-immune (absent/scant Ig and C3 on IF).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Granulomatosis with Polyangiitis Immunofluorescence.",
+    "keyPoints": [
+      "Granulomatosis with Polyangiitis Immunofluorescence",
+      "Destructive upper airway ulceration/septal perforation + pulmonary cavitary nodules + rapidly progressive glomerulonephritis = GPA (ANCA vasculitis) -> renal biopsy is pauci-immune"
+    ],
+    "references": [
+      {
+        "label": "Jennette JC. Rapidly progressive crescentic glomerulonephritis. Kidney Int. 2003;63(3):1164-1177. PMID: 12631375.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12631375/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0364",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Renal",
+    "topic": "Microscopic Polyangiitis p-ANCA / MPO-ANCA",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old man presents with fatigue, low-grade fevers, non-productive cough, and dark tea-colored urine over the past 3 weeks. He has no history of chronic sinusitis, rhinitis, or nasal discharge, and examination of his ears, nose, and throat is completely normal. Chest CT demonstrates patchy, non-cavitary ground-glass infiltrates in both lower lobes consistent with alveolar hemorrhage; there are no pulmonary nodules or granulomas. Laboratory evaluation reveals: - Serum Creatinine: 3.4 mg/dL (baseline 1.0 mg/dL) - Urinalysis: 3+ blood, 2+ protein, and numerous dysmorphic RBCs and red blood cell casts Indirect immunofluorescence of serum neutrophils reveals a perinuclear staining pattern (p-ANCA), and ELISA confirms high-titer antibodies directed against myeloperoxidase (MPO-ANCA). Renal biopsy confirms a pauci-immune necrotizing and crescentic glomerulonephritis without immune complex deposition. Which of the following features best distinguishes this patient's disease (microscopic polyangiitis) from granulomatosis with polyangiitis (GPA)?",
+    "options": [
+      {
+        "text": "Presence of prominent tissue and peripheral blood eosinophilia associated with severe adult-onset asthma",
+        "correct": false,
+        "explanation": "Marked eosinophilia and adult-onset asthma define Eosinophilic Granulomatosis with Polyangiitis (EGPA; Churg-Strauss syndrome), which is also p-ANCA positive, but features asthma and allergic rhinitis."
+      },
+      {
+        "text": "Presence of abundant subendothelial immune complex deposits with classical complement consumption",
+        "correct": false,
+        "explanation": "Both MPA and GPA are pauci-immune vasculitides that lack immune complex deposition and feature normal serum complement levels."
+      },
+      {
+        "text": "Transmural necrotizing inflammation of medium-sized muscular arteries sparing arterioles and venules",
+        "correct": false,
+        "explanation": "Sparing of arterioles and venules defines Polyarteritis Nodosa (PAN), which affects medium-sized muscular arteries (often hepatitis B associated) and is ANCA-negative."
+      },
+      {
+        "text": "Absence of granulomatous inflammation, absence of cavitary pulmonary nodules, and absence of upper respiratory tract (nasopharyngeal) destructive lesions",
+        "correct": true,
+        "explanation": "Correct. Master the differentiation between the two major ANCA-associated vasculitides on USMLE Step 1: (1) MICROSCOPIC POLYANGIITIS (MPA; present in this patient): A systemic necrotizing small-vessel vasculitis affecting arterioles, capillaries, and venules. Key hallmarks: Highly associated with PERINUCLEAR ANCA (P-ANCA) directed against MYELOPEROXIDASE (MPO-ANCA; in ~70-80%); Rapidly progressive crescentic glomerulonephritis (pauci-immune); Pulmonary alveolar hemorrhage (hemoptysis, ground-glass infiltrates). CRUCIAL NEGATIVE FINDINGS THAT DEFINE MPA: (a) ABSOLUTELY NO GRANULOMAS (non-granulomatous necrotizing vasculitis); (b) NO CAVITARY LUNG NODULES; (c) NO UPPER RESPIRATORY TRACT / NASOPHARYNGEAL INVOLVEMENT (no chronic sinusitis, no saddle-nose deformity). (2) GRANULOMATOSIS WITH POLYANGIITIS (GPA): Highly associated with C-ANCA / PR3-ANCA (>90%); PROMINENT NECROTIZING GRANULOMAS; PROMINENT UPPER RESPIRATORY TRACT DESTRUCTION (sinusitis, saddle-nose); CAVITARY PULMONARY NODULES."
+      },
+      {
+        "text": "Linear deposition of anti-type IV collagen antibodies along the glomerular basement membrane",
+        "correct": false,
+        "explanation": "Linear anti-type IV collagen antibodies define Anti-GBM / Goodpasture disease, which is not an ANCA-mediated vasculitis."
+      }
+    ],
+    "explanation": "Correct. Master the differentiation between the two major ANCA-associated vasculitides on USMLE Step 1: (1) MICROSCOPIC POLYANGIITIS (MPA; present in this patient): A systemic necrotizing small-vessel vasculitis affecting arterioles, capillaries, and venules. Key hallmarks: Highly associated with PERINUCLEAR ANCA (P-ANCA) directed against MYELOPEROXIDASE (MPO-ANCA; in ~70-80%); Rapidly progressive crescentic glomerulonephritis (pauci-immune); Pulmonary alveolar hemorrhage (hemoptysis, ground-glass infiltrates). CRUCIAL NEGATIVE FINDINGS THAT DEFINE MPA: (a) ABSOLUTELY NO GRANULOMAS (non-granulomatous necrotizing vasculitis); (b) NO CAVITARY LUNG NODULES; (c) NO UPPER RESPIRATORY TRACT / NASOPHARYNGEAL INVOLVEMENT (no chronic sinusitis, no saddle-nose deformity). (2) GRANULOMATOSIS WITH POLYANGIITIS (GPA): Highly associated with C-ANCA / PR3-ANCA (>90%); PROMINENT NECROTIZING GRANULOMAS; PROMINENT UPPER RESPIRATORY TRACT DESTRUCTION (sinusitis, saddle-nose); CAVITARY PULMONARY NODULES. p-ANCA / MPO + crescentic GN + alveolar hemorrhage WITHOUT sinusitis/granulomas -> Microscopic polyangiitis (lacks granulomas and upper airway lesions).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Microscopic Polyangiitis p-ANCA / MPO-ANCA.",
+    "keyPoints": [
+      "Microscopic Polyangiitis p-ANCA / MPO-ANCA",
+      "p-ANCA / MPO + crescentic GN + alveolar hemorrhage WITHOUT sinusitis/granulomas -> Microscopic polyangiitis (lacks granulomas and upper airway lesions)."
+    ],
+    "references": [
+      {
+        "label": "Chung SA, Seo P. Microscopic polyangiitis. Rheum Dis Clin North Am. 2010;36(3):545-558. PMID: 20688249.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20688249/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0365",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Renal",
+    "topic": "Anti-Glomerular Basement Membrane Disease Goodpasture Antigen",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old previously healthy man presents to the emergency department with hemoptysis, shortness of breath, and dark red urine over the past 48 hours. Physical examination reveals tachypnea, pale conjunctivae, and bilateral diffuse pulmonary crackles. Urinalysis demonstrates 3+ blood, 2+ protein, and numerous dysmorphic erythrocytes and red blood cell casts. Serum creatinine is 4.6 mg/dL (rapidly progressive renal failure). Serum complement C3 and C4 levels are normal, and serological testing for c-ANCA and p-ANCA is negative. Renal biopsy demonstrates cellular crescents in 80% of glomeruli. Direct immunofluorescence microscopy reveals a smooth, unbroken, continuous LINEAR RIBBON of IgG and C3 deposition outlining all glomerular capillary basement membranes. In this disease, the pathogenic autoantibodies are directed against which of the following specific extracellular matrix molecular targets?",
+    "options": [
+      {
+        "text": "Heparan sulfate proteoglycans residing within the lamina rara externa of the filtration barrier",
+        "correct": false,
+        "explanation": "Heparan sulfate provides the negative electrostatic charge barrier; loss occurs in Minimal Change Disease, not anti-GBM disease."
+      },
+      {
+        "text": "N-terminal 7S domain of the alpha-1 chain of Type IV collagen",
+        "correct": false,
+        "explanation": "The Goodpasture autoantibody targets the C-terminal non-collagenous NC1 domain of the alpha-3 chain, not the N-terminal 7S domain of the alpha-1 chain."
+      },
+      {
+        "text": "Extracellular domain IV of the M-type phospholipase A2 receptor (PLA2R) on podocyte surfaces",
+        "correct": false,
+        "explanation": "Anti-PLA2R antibodies cause Membranous Nephropathy (granular subepithelial deposits), not linear crescentic anti-GBM disease."
+      },
+      {
+        "text": "Filamin-interacting domain of nephrin within the podocyte slit diaphragm complex",
+        "correct": false,
+        "explanation": "Nephrin mutations cause congenital nephrotic syndrome of the Finnish type, not autoimmune linear anti-GBM disease."
+      },
+      {
+        "text": "Non-collagenous-1 (NC1) domain of the alpha-3 chain of Type IV collagen",
+        "correct": true,
+        "explanation": "Correct. Anti-Glomerular Basement Membrane (Anti-GBM) disease (Goodpasture syndrome when pulmonary alveolar hemorrhage is co-present with glomerulonephritis) is a severe Type II hypersensitivity autoimmune disorder. The pathogenic autoantibodies (predominantly IgG1 and IgG3) are directed against a cryptic epitope within the NON-COLLAGENOUS-1 (NC1) DOMAIN OF THE ALPHA-3 CHAIN OF TYPE IV COLLAGEN [alpha-3(IV)NC1; the 'Goodpasture antigen']. Type IV collagen is a network-forming collagen found in basement membranes throughout the body; however, the alpha-3(IV) chain is selectively expressed in high concentrations in the GLOMERULAR BASEMENT MEMBRANE (GBM) and the ALVEOLAR CAPILLARY BASEMENT MEMBRANE of the lung. Binding of autoantibodies activates the classical complement cascade and recruits neutrophils via Fc-gamma receptors, triggering rapid capillary wall necrosis, alveolar hemorrhage (hemoptysis), and crescentic glomerulonephritis. PATHOGNOMONIC BIOPSY LESION: On direct immunofluorescence, anti-GBM antibodies produce a smooth, continuous, completely uniform LINEAR PATTERN of IgG staining along the GBM (in sharp contrast to the granular pattern of immune complex GN or negative staining of pauci-immune GN)."
+      }
+    ],
+    "explanation": "Correct. Anti-Glomerular Basement Membrane (Anti-GBM) disease (Goodpasture syndrome when pulmonary alveolar hemorrhage is co-present with glomerulonephritis) is a severe Type II hypersensitivity autoimmune disorder. The pathogenic autoantibodies (predominantly IgG1 and IgG3) are directed against a cryptic epitope within the NON-COLLAGENOUS-1 (NC1) DOMAIN OF THE ALPHA-3 CHAIN OF TYPE IV COLLAGEN [alpha-3(IV)NC1; the 'Goodpasture antigen']. Type IV collagen is a network-forming collagen found in basement membranes throughout the body; however, the alpha-3(IV) chain is selectively expressed in high concentrations in the GLOMERULAR BASEMENT MEMBRANE (GBM) and the ALVEOLAR CAPILLARY BASEMENT MEMBRANE of the lung. Binding of autoantibodies activates the classical complement cascade and recruits neutrophils via Fc-gamma receptors, triggering rapid capillary wall necrosis, alveolar hemorrhage (hemoptysis), and crescentic glomerulonephritis. PATHOGNOMONIC BIOPSY LESION: On direct immunofluorescence, anti-GBM antibodies produce a smooth, continuous, completely uniform LINEAR PATTERN of IgG staining along the GBM (in sharp contrast to the granular pattern of immune complex GN or negative staining of pauci-immune GN). Hemoptysis + crescentic GN + linear IgG on immunofluorescence -> Goodpasture / Anti-GBM (targets NC1 domain of alpha-3 chain of Type IV collagen).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Anti-Glomerular Basement Membrane Disease Goodpasture Antigen.",
+    "keyPoints": [
+      "Anti-Glomerular Basement Membrane Disease Goodpasture Antigen",
+      "Hemoptysis + crescentic GN + linear IgG on immunofluorescence -> Goodpasture / Anti-GBM (targets NC1 domain of alpha-3 chain of Type IV collagen)."
+    ],
+    "references": [
+      {
+        "label": "Pusey CD. Anti-glomerular basement membrane disease. Kidney Int. 2003;64(4):1535-1550. PMID: 12969185.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12969185/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0366",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Renal",
+    "topic": "Alport Syndrome COL4A5 Mutation and Basket-Weave GBM",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 16-year-old boy is evaluated for persistent microscopic hematuria discovered during a routine high school sports physical examination. He has a maternal uncle who developed end-stage renal disease requiring hemodialysis at age 24. Audiological evaluation reveals bilateral high-frequency sensorineural hearing loss. Slit-lamp biomicroscopy demonstrates bilateral anterior lenticonus (conical protrusion of the anterior pole of the lens). Blood pressure is 132/84 mm Hg. Urinalysis demonstrates dysmorphic red blood cells, red blood cell casts, and 1+ proteinuria. Electron microscopy of a renal biopsy specimen demonstrates alternating areas of thinning and irregular thickening of the glomerular basement membrane, with longitudinal multi-lamination and pronounced splitting of the lamina densa, producing a characteristic 'basket-weave' appearance. This patient's syndrome is inherited in an X-linked pattern and is caused by a genetic defect in which of the following structural proteins?",
+    "options": [
+      {
+        "text": "Alpha-5 chain of Type IV collagen (encoded by the COL4A5 gene)",
+        "correct": true,
+        "explanation": "Correct. Alport syndrome is a hereditary basement membrane nephropathy inherited in an X-LINKED DOMINANT pattern in ~85% of cases, caused by mutations in the COL4A5 GENE encoding the alpha-5 chain of TYPE IV COLLAGEN. Normal adult GBM, cochlear basilar membrane, and lens capsule are composed of alpha-3, alpha-4, and alpha-5 Type IV collagen heterotrimers [alpha-3.alpha-4.alpha-5(IV)]. Defective alpha-5 chain assembly destabilizes the entire collagen network, leaving the basement membrane structurally fragile and susceptible to endopeptidase degradation. Classic clinical triad: (1) Renal: Persistent microscopic or gross hematuria progressing to proteinuria, hypertension, and end-stage renal disease by young adulthood; (2) Auditory: Bilateral, symmetric, progressive HIGH-FREQUENCY SENSORINEURAL DEAFNESS; (3) Ocular: ANTERIOR LENTICONUS (pathognomonic conical bulging of the lens capsule into the anterior chamber) and perimacular flecks. PATHOGNOMONIC BIOPSY LESION: Electron microscopy demonstrates irregular, alternating areas of extreme GBM thinning and marked thickening with longitudinal multi-lamination and lamellated splitting of the lamina densa, creating a classic 'BASKET-WEAVE' appearance."
+      },
+      {
+        "text": "Fibrillin-1 structural microfibrillar glycoprotein (encoded by the FBN1 gene)",
+        "correct": false,
+        "explanation": "Fibrillin-1 mutations cause Marfan syndrome (upward lens dislocation, tall habitus, aortic root aneurysms), not hematuria, sensorineural deafness, or basket-weave GBM."
+      },
+      {
+        "text": "Alpha-1 chain of Type I collagen (encoded by the COL1A1 gene)",
+        "correct": false,
+        "explanation": "Type I collagen mutations cause Osteogenesis Imperfecta (recurrent fractures, blue sclerae, dentinogenesis imperfecta), not glomerular basement membrane splitting."
+      },
+      {
+        "text": "Alpha-1 chain of Type III collagen (encoded by the COL3A1 gene)",
+        "correct": false,
+        "explanation": "Type III collagen mutations cause vascular Ehlers-Danlos syndrome (fragile blood vessels, aortic rupture, hollow organ perforations), not Alport syndrome."
+      },
+      {
+        "text": "Dystrophin cytoskeletal anchor protein (encoded by the DMD gene)",
+        "correct": false,
+        "explanation": "Dystrophin mutations cause Duchenne and Becker muscular dystrophies (X-linked proximal muscle wasting), not glomerular basement membrane disease."
+      }
+    ],
+    "explanation": "Correct. Alport syndrome is a hereditary basement membrane nephropathy inherited in an X-LINKED DOMINANT pattern in ~85% of cases, caused by mutations in the COL4A5 GENE encoding the alpha-5 chain of TYPE IV COLLAGEN. Normal adult GBM, cochlear basilar membrane, and lens capsule are composed of alpha-3, alpha-4, and alpha-5 Type IV collagen heterotrimers [alpha-3.alpha-4.alpha-5(IV)]. Defective alpha-5 chain assembly destabilizes the entire collagen network, leaving the basement membrane structurally fragile and susceptible to endopeptidase degradation. Classic clinical triad: (1) Renal: Persistent microscopic or gross hematuria progressing to proteinuria, hypertension, and end-stage renal disease by young adulthood; (2) Auditory: Bilateral, symmetric, progressive HIGH-FREQUENCY SENSORINEURAL DEAFNESS; (3) Ocular: ANTERIOR LENTICONUS (pathognomonic conical bulging of the lens capsule into the anterior chamber) and perimacular flecks. PATHOGNOMONIC BIOPSY LESION: Electron microscopy demonstrates irregular, alternating areas of extreme GBM thinning and marked thickening with longitudinal multi-lamination and lamellated splitting of the lamina densa, creating a classic 'BASKET-WEAVE' appearance. Hematuria + sensorineural deafness + anterior lenticonus + 'basket-weave' GBM on EM -> Alport syndrome (alpha-5 chain of Type IV collagen / COL4A5).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Alport Syndrome COL4A5 Mutation and Basket-Weave GBM.",
+    "keyPoints": [
+      "Alport Syndrome COL4A5 Mutation and Basket-Weave GBM",
+      "Hematuria + sensorineural deafness + anterior lenticonus + 'basket-weave' GBM on EM -> Alport syndrome (alpha-5 chain of Type IV collagen / COL4A5)."
+    ],
+    "references": [
+      {
+        "label": "Kashtan CE. Alport syndrome: an inherited disorder of renal, ocular, and acoustic basement membranes. Semin Nephrol. 1999;19(4):350-357. PMID: 10452586.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10452586/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0367",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Diabetic Nephropathy Kimmelstiel-Wilson Nodules",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old man with a 15-year history of poorly controlled type 2 diabetes mellitus (HbA1c 9.8%) and hypertension presents for evaluation of worsening lower extremity edema. Blood pressure is 158/96 mm Hg. Urinalysis demonstrates 3+ protein and zero red blood cells. 24-hour urine collection reveals 4.2 g of protein (nephrotic-range proteinuria). Serum creatinine is 2.2 mg/dL (baseline 1.1 mg/dL 2 years ago). Light microscopy of a renal biopsy specimen stained with periodic acid-Schiff (PAS) reveals diffuse mesangial matrix expansion, diffuse thickening of the glomerular basement membrane, and prominent, acellular, round or ovoid, laminated, eosinophilic nodular accumulations of PAS-positive mesangial matrix (Kimmelstiel-Wilson nodules). At the earliest stages of this disease, which of the following hemodynamic and structural alterations drives the progression of glomerular injury?",
+    "options": [
+      {
+        "text": "Selective dilation of the efferent arteriole mediated by local prostacyclin hypersecretion, causing intraglomerular hypoperfusion",
+        "correct": false,
+        "explanation": "Efferent arteriolar DILATION lowers intraglomerular pressure (the therapeutic mechanism of ACE inhibitors), whereas diabetic pathology features preferential efferent HYALINOSIS/CONSTRICTION."
+      },
+      {
+        "text": "Non-enzymatic glycation of vascular proteins producing preferential efferent arteriolar hyalinosis, leading to increased intraglomerular capillary hydrostatic pressure and hyperfiltration",
+        "correct": true,
+        "explanation": "Correct. Diabetic Nephropathy is the leading cause of end-stage renal disease in the developed world. PATHOPHYSIOLOGY AND PROGRESSION: (1) EARLY HYPERFILTRATION STAGE: Chronic hyperglycemia promotes NON-ENZYMATIC GLYCATION of vascular basement membrane proteins, generating advanced glycation end-products (AGEs). AGE cross-linking causes preferential hyaline arteriolosclerosis of the EFFERENT ARTERIOLE (more than the afferent arteriole). Constriction/hyalinosis of the efferent arteriole increases downstream resistance, driving a marked increase in INTRAGLOMERULAR CAPILLARY HYDROSTATIC PRESSURE (glomerular hypertension) and GLOMERULAR HYPERFILTRATION (increased GFR). (ACE inhibitors and ARBs preferentially dilate the efferent arteriole, reducing intraglomerular pressure and slowing diabetic nephropathy progression). (2) MICROALBUMINURIA STAGE: Hyperfiltration causes progressive mechanical shear stress, mesangial stretch, TGF-beta upregulation, and diffuse GBM thickening with podocyte foot process loss, manifesting as microalbuminuria (30-300 mg/day). (3) OVERT NEPHROPATHY STAGE: Persistent mesangial matrix synthesis forms PATHOGNOMONIC KIMMELSTIEL-WILSON NODULES (nodular glomerulosclerosis: round, acellular, laminated, PAS-positive mesangial nodules)."
+      },
+      {
+        "text": "Direct cytotoxic lysis of podocytes mediated by Shiga toxin-induced ribosomal cleavage",
+        "correct": false,
+        "explanation": "Shiga toxin causes Hemolytic Uremic Syndrome (HUS), not diabetic Kimmelstiel-Wilson nodular glomerulosclerosis."
+      },
+      {
+        "text": "Subendothelial deposition of circulating advanced glycation end-product immune complexes activating C5b-9",
+        "correct": false,
+        "explanation": "Diabetic nephropathy is a non-immune metabolic and hemodynamic microvascular disease; it does not involve immune complex complement activation."
+      },
+      {
+        "text": "Autosomal dominant mutation in the polycystin-1 gene causing tubular epithelial hyperproliferation",
+        "correct": false,
+        "explanation": "Polycystin mutations cause Autosomal Dominant Polycystic Kidney Disease (ADPKD), which presents with massive bilateral renal cysts, not nodular glomerulosclerosis."
+      }
+    ],
+    "explanation": "Correct. Diabetic Nephropathy is the leading cause of end-stage renal disease in the developed world. PATHOPHYSIOLOGY AND PROGRESSION: (1) EARLY HYPERFILTRATION STAGE: Chronic hyperglycemia promotes NON-ENZYMATIC GLYCATION of vascular basement membrane proteins, generating advanced glycation end-products (AGEs). AGE cross-linking causes preferential hyaline arteriolosclerosis of the EFFERENT ARTERIOLE (more than the afferent arteriole). Constriction/hyalinosis of the efferent arteriole increases downstream resistance, driving a marked increase in INTRAGLOMERULAR CAPILLARY HYDROSTATIC PRESSURE (glomerular hypertension) and GLOMERULAR HYPERFILTRATION (increased GFR). (ACE inhibitors and ARBs preferentially dilate the efferent arteriole, reducing intraglomerular pressure and slowing diabetic nephropathy progression). (2) MICROALBUMINURIA STAGE: Hyperfiltration causes progressive mechanical shear stress, mesangial stretch, TGF-beta upregulation, and diffuse GBM thickening with podocyte foot process loss, manifesting as microalbuminuria (30-300 mg/day). (3) OVERT NEPHROPATHY STAGE: Persistent mesangial matrix synthesis forms PATHOGNOMONIC KIMMELSTIEL-WILSON NODULES (nodular glomerulosclerosis: round, acellular, laminated, PAS-positive mesangial nodules). Diabetes + nephrotic proteinuria + Kimmelstiel-Wilson nodules -> Non-enzymatic glycation causes efferent arteriolar hyalinosis -> Glomerular hyperfiltration.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Diabetic Nephropathy Kimmelstiel-Wilson Nodules.",
+    "keyPoints": [
+      "Diabetic Nephropathy Kimmelstiel-Wilson Nodules",
+      "Diabetes + nephrotic proteinuria + Kimmelstiel-Wilson nodules -> Non-enzymatic glycation causes efferent arteriolar hyalinosis -> Glomerular hyperfiltration."
+    ],
+    "references": [
+      {
+        "label": "Tervaert TW, Mooyaart AL, Amann K, et al. Pathologic classification of diabetic nephropathy. J Am Soc Nephrol. 2010;21(4):556-563. PMID: 20167701.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20167701/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0368",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Renal Amyloidosis Congo Red Apple-Green Birefringence",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man with a 25-year history of severe, deformative rheumatoid arthritis presents with progressive lower extremity edema, abdominal fullness, and weight loss. Blood pressure is 108/68 mm Hg. Physical examination reveals bilateral 3+ pitting edema of the lower legs and mild hepatosplenomegaly. Urinalysis demonstrates 4+ protein and zero red blood cells. 24-hour urine collection reveals 9.4 g of protein (massive nephrotic syndrome). Serum albumin is 1.9 g/dL, and serum creatinine is 2.4 mg/dL. Light microscopy of a renal biopsy specimen stained with hematoxylin and eosin demonstrates extensive obliteration of capillary lumens and mesangial expansion by an amorphous, acellular, eosinophilic hyaline material. Staining with Congo red under standard light microscopy reveals uniform salmon-pink staining. When examined under cross-polarized light microscopy, which of the following optical properties is pathognomonic of this deposited material?",
+    "options": [
+      {
+        "text": "Brilliant silver-positive 'spike and dome' projections along the subepithelial aspect of the basement membrane",
+        "correct": false,
+        "explanation": "Silver spikes define Membranous Nephropathy, not amyloidosis; amyloid appears as amorphous mesangial deposits."
+      },
+      {
+        "text": "Fluorescent red-orange emission under ultraviolet light without requiring cross-polarization filters",
+        "correct": false,
+        "explanation": "Ultraviolet autofluorescence is not the basis of amyloid identification; amyloid requires Congo red under cross-polarized light to show apple-green birefringence."
+      },
+      {
+        "text": "Bright apple-green birefringence produced by the cross-beta pleated sheet secondary structure of unbranched amyloid fibrils",
+        "correct": true,
+        "explanation": "Correct. Amyloidosis is a disorder of protein misfolding where normally soluble precursor proteins assemble into insoluble, non-branching extracellular fibrils (measuring 7.5 to 10 nm in diameter) organized in a CROSS-BETA PLEATED SHEET secondary structure. In patients with longstanding, poorly controlled chronic inflammatory conditions (rheumatoid arthritis, ankylosing spondylitis, bronchiectasis, inflammatory bowel disease), persistent IL-1 and IL-6 stimulation drives massive hepatic synthesis of serum amyloid A (SAA) acute-phase protein. Cleavage of SAA yields AMYLOID A (AA) FIBRILS, which deposit in organ parenchyma (secondary / reactive systemic amyloidosis; AA amyloidosis). The kidney is the most commonly affected organ, presenting with MASSIVE NEPHROTIC SYNDROME and renal failure. PATHOGNOMONIC HISTOPATHOLOGY: (1) Congo red stain produces salmon-pink staining under standard light; (2) Under CROSS-POLARIZED LIGHT MICROSCOPY, the alignment of the Congo red dye molecules along the regular repeating cross-beta pleated sheet structure exhibits striking APPLE-GREEN BIREFRINGENCE. In AL amyloidosis (multiple myeloma, plasma cell dyscrasias), the deposited protein consists of monoclonal immunoglobulin light chains (lambda > kappa)."
+      },
+      {
+        "text": "Prussian blue positive granular intracellular hemosiderin deposits within proximal tubular epithelial cells",
+        "correct": false,
+        "explanation": "Prussian blue stains iron (hemosiderin) blue, which is positive in hemochromatosis or chronic intravascular hemolysis, not amyloid."
+      },
+      {
+        "text": "Extensive metachromatic purple-magenta staining with crystal violet in the presence of basic dyes",
+        "correct": false,
+        "explanation": "Crystal violet metachromasia is an older, non-specific screening technique, but the gold-standard pathognomonic diagnostic criterion tested on USMLE is Congo red apple-green birefringence under cross-polarized light."
+      }
+    ],
+    "explanation": "Correct. Amyloidosis is a disorder of protein misfolding where normally soluble precursor proteins assemble into insoluble, non-branching extracellular fibrils (measuring 7.5 to 10 nm in diameter) organized in a CROSS-BETA PLEATED SHEET secondary structure. In patients with longstanding, poorly controlled chronic inflammatory conditions (rheumatoid arthritis, ankylosing spondylitis, bronchiectasis, inflammatory bowel disease), persistent IL-1 and IL-6 stimulation drives massive hepatic synthesis of serum amyloid A (SAA) acute-phase protein. Cleavage of SAA yields AMYLOID A (AA) FIBRILS, which deposit in organ parenchyma (secondary / reactive systemic amyloidosis; AA amyloidosis). The kidney is the most commonly affected organ, presenting with MASSIVE NEPHROTIC SYNDROME and renal failure. PATHOGNOMONIC HISTOPATHOLOGY: (1) Congo red stain produces salmon-pink staining under standard light; (2) Under CROSS-POLARIZED LIGHT MICROSCOPY, the alignment of the Congo red dye molecules along the regular repeating cross-beta pleated sheet structure exhibits striking APPLE-GREEN BIREFRINGENCE. In AL amyloidosis (multiple myeloma, plasma cell dyscrasias), the deposited protein consists of monoclonal immunoglobulin light chains (lambda > kappa). Chronic rheumatoid arthritis + nephrotic syndrome + amorphous eosinophilic deposits -> Renal AA amyloidosis (Congo red shows apple-green birefringence under polarized light).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Renal Amyloidosis Congo Red Apple-Green Birefringence.",
+    "keyPoints": [
+      "Renal Amyloidosis Congo Red Apple-Green Birefringence",
+      "Chronic rheumatoid arthritis + nephrotic syndrome + amorphous eosinophilic deposits -> Renal AA amyloidosis (Congo red shows apple-green birefringence under polarized light)."
+    ],
+    "references": [
+      {
+        "label": "Merlini G, Bellotti V. Molecular mechanisms of amyloidosis. N Engl J Med. 2003;349(6):583-596. PMID: 12904524.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12904524/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0369",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Calcium Oxalate Nephrolithiasis Pathophysiology",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 36-year-old woman with a 10-year history of Crohn disease with extensive ileal resection (terminal ileostomy) presents to the emergency department with excruciating, colicky right flank pain radiating to her right labium majus, accompanied by gross hematuria, nausea, and vomiting. Non-contrast helical CT of the abdomen and pelvis reveals a 6-mm radiopaque calculus lodged at the right ureterovesical junction with moderate proximal hydroureteronephrosis. Urinalysis demonstrates a urine pH of 6.0 and numerous colorless, birefringent crystals shaped like bipyramidal envelopes (octahedrons) under light microscopy. 24-hour urine collection reveals marked HYPEROXALURIA and HYPOCITRATURIA, with normal urinary calcium excretion. Which of the following pathophysiological mechanisms directly accounts for the hyperoxaluria and recurrent nephrolithiasis in this patient?",
+    "options": [
+      {
+        "text": "Primary hyperparathyroidism driving excessive renal 1-alpha-hydroxylase production and hypercalciuria",
+        "correct": false,
+        "explanation": "Primary hyperparathyroidism causes hypercalcemia and hypercalciuria, whereas this patient with Crohn disease has normal urinary calcium and enteric hyperoxaluria."
+      },
+      {
+        "text": "Chronic infection of the collecting system by urease-producing Proteus mirabilis elevating urine pH above 7.5",
+        "correct": false,
+        "explanation": "Urease-producing bacteria cause magnesium ammonium phosphate (struvite) stones with alkaline urine pH > 7.5 and coffin-lid crystals, not calcium oxalate envelope crystals."
+      },
+      {
+        "text": "Metabolic block in hepatic phenylalanine hydroxylase causing massive urinary excretion of phenylketones",
+        "correct": false,
+        "explanation": "Phenylketonuria causes intellectual disability and musty odor, not enteric hyperoxaluria or nephrolithiasis."
+      },
+      {
+        "text": "Unabsorbed luminal fatty acids in the gut bind ionized calcium, leaving free unchelated oxalate to be hyper-absorbed in the colon (enteric hyperoxaluria)",
+        "correct": true,
+        "explanation": "Correct. Calcium oxalate is the most common chemical composition of renal calculi (> 75-80% of all stones). On microscopic urinalysis, calcium oxalate dihydrate crystals appear as classic COLORLESS, BIPYRAMIDAL ENVELOPES (or dumbbells for monohydrate). They are RADIOPAQUE on plain radiographs and CT. PATHOPHYSIOLOGY OF ENTERIC HYPEROXALURIA: In healthy individuals, dietary calcium binds to dietary oxalate in the intestinal lumen, forming insoluble calcium oxalate that is harmlessly excreted in stool. However, in patients with severe malabsorption, short bowel syndrome, or CROHN DISEASE (especially after ileal resection), unabsorbed luminal fatty acids enter the colon and BIND LUMINAL CALCIUM (saponification). With calcium consumed by fatty acids, dietary OXALATE REMAINS UNBOUND (FREE) AND SOLUBLE. This free oxalate is excessively absorbed across the colonic mucosa into the bloodstream and excreted by the kidneys, driving severe ENTERIC HYPEROXALURIA. Concurrently, chronic diarrhea produces metabolic acidosis, which stimulates proximal tubular citrate reabsorption, causing HYPOCITRATURIA (loss of citrate, the natural inhibitor of calcium crystallization). The combination of hyperoxaluria and hypocitraturia dramatically precipitates calcium oxalate stones."
+      },
+      {
+        "text": "Defective proximal tubular dibasic amino acid transporter (COLA) causing excessive urinary cystine excretion",
+        "correct": false,
+        "explanation": "Defective COLA transport causes cystinuria (hexagonal crystals), not envelope-shaped calcium oxalate stones."
+      }
+    ],
+    "explanation": "Correct. Calcium oxalate is the most common chemical composition of renal calculi (> 75-80% of all stones). On microscopic urinalysis, calcium oxalate dihydrate crystals appear as classic COLORLESS, BIPYRAMIDAL ENVELOPES (or dumbbells for monohydrate). They are RADIOPAQUE on plain radiographs and CT. PATHOPHYSIOLOGY OF ENTERIC HYPEROXALURIA: In healthy individuals, dietary calcium binds to dietary oxalate in the intestinal lumen, forming insoluble calcium oxalate that is harmlessly excreted in stool. However, in patients with severe malabsorption, short bowel syndrome, or CROHN DISEASE (especially after ileal resection), unabsorbed luminal fatty acids enter the colon and BIND LUMINAL CALCIUM (saponification). With calcium consumed by fatty acids, dietary OXALATE REMAINS UNBOUND (FREE) AND SOLUBLE. This free oxalate is excessively absorbed across the colonic mucosa into the bloodstream and excreted by the kidneys, driving severe ENTERIC HYPEROXALURIA. Concurrently, chronic diarrhea produces metabolic acidosis, which stimulates proximal tubular citrate reabsorption, causing HYPOCITRATURIA (loss of citrate, the natural inhibitor of calcium crystallization). The combination of hyperoxaluria and hypocitraturia dramatically precipitates calcium oxalate stones. Crohn disease / ileal resection + flank pain + envelope crystals -> Calcium oxalate stone via enteric hyperoxaluria (fatty acids bind calcium, freeing oxalate for absorption).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Calcium Oxalate Nephrolithiasis Pathophysiology.",
+    "keyPoints": [
+      "Calcium Oxalate Nephrolithiasis Pathophysiology",
+      "Crohn disease / ileal resection + flank pain + envelope crystals -> Calcium oxalate stone via enteric hyperoxaluria (fatty acids bind calcium, freeing oxalate for absorption)."
+    ],
+    "references": [
+      {
+        "label": "Worcester EM, Coe FL. Nephrolithiasis. Prim Care. 2008;35(2):369-391. PMID: 18486745.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18486745/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0370",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "Renal",
+    "topic": "Struvite Stones Proteus Mirabilis Urease Pathophysiology",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old woman with a history of recurrent urinary tract infections and an indwelling Foley catheter presents with low-grade fever, mild right flank ache, and foul-smelling cloudy urine. Abdominal plain radiography (KUB) demonstrates a large, radiopaque, branching calculus occupying the entire right renal pelvis and extending into the major and minor calyces (a 'staghorn' calculus). Clean-catch urinalysis demonstrates a marked alkaline urine pH of 8.5, 3+ leukocyte esterase, 2+ nitrites, and numerous rectangular crystals with beveled edges resembling 'coffin lids' under light microscopy. Urine culture grows swarming, motile, Gram-negative rods that are urease-positive (Proteus mirabilis). Which of the following chemical reactions catalyzed by this bacterial enzyme directly drives the supersaturation and crystallization of this staghorn calculus?",
+    "options": [
+      {
+        "text": "Reduction of nitrate to nitrite, which complexes with divalent calcium to form insoluble calcium nitrite crystals",
+        "correct": false,
+        "explanation": "Nitrate reduction by enterobacteria generates nitrites, but nitrites do not precipitate stones; struvite is driven by urease-mediated ammonia generation."
+      },
+      {
+        "text": "Deamination of branched-chain amino acids, producing insoluble leucine crystals that serve as a nidus for calcification",
+        "correct": false,
+        "explanation": "Leucine crystals form in severe end-stage liver failure (yellow-brown spheres), not struvite staghorn calculi."
+      },
+      {
+        "text": "Cleavage of Tamm-Horsfall mucoprotein, stripping the protective glycosaminoglycan anti-adherence layer from urothelium",
+        "correct": false,
+        "explanation": "Tamm-Horsfall protein is the matrix of urinary casts; its cleavage does not create ammonium or alkalinize urine."
+      },
+      {
+        "text": "Enzymatic oxidation of uric acid into allantoin, which precipitates in the presence of acidic tubular fluid",
+        "correct": false,
+        "explanation": "Urate oxidase converts uric acid to soluble allantoin (the mechanism of rasburicase), which decreases stone formation and requires acidic pH, the exact opposite of struvite."
+      },
+      {
+        "text": "Hydrolysis of urinary urea into carbon dioxide and ammonia, generating ammonium ions and markedly alkalinizing urine pH above 7.2",
+        "correct": true,
+        "explanation": "Correct. Struvite stones (also known as triple phosphate or infectious stones; composed of MAGNESIUM AMMONIUM PHOSPHATE and carbonate apatite) account for ~10-15% of all renal calculi and are the primary cause of giant STAGHORN CALCULI (which form a solid cast of the renal pelvis and calyces). PATHOPHYSIOLOGY: Struvite stones are caused exclusively by upper urinary tract infections with UREASE-PRODUCING BACTERIA (most commonly PROTEUS MIRABILIS, but also Klebsiella, Pseudomonas, and Staphylococcus saprophyticus; notably NOT E. coli, which is urease-negative!). Bacterial UREASE hydrolyzes urinary urea into carbon dioxide and AMMONIA (NH3). Ammonia acts as a base, accepting protons to form AMMONIUM (NH4+), while simultaneously driving URINE PH TO PROMINENTLY ALKALINE LEVELS (pH > 7.5 to 8.5). In this alkaline, ammonium-rich environment, phosphate ions deprotonate to trivalent PO4(3-), which complexes with abundant magnesium and ammonium to precipitate magnesium ammonium phosphate (MgNH4PO4.6H2O). On microscopic urinalysis, crystals appear as pathognomonic 'COFFIN-LID' rectangular prisms. If left untreated, staghorn calculi cause chronic renal destruction, perinephric abscesses, and urosepsis."
+      }
+    ],
+    "explanation": "Correct. Struvite stones (also known as triple phosphate or infectious stones; composed of MAGNESIUM AMMONIUM PHOSPHATE and carbonate apatite) account for ~10-15% of all renal calculi and are the primary cause of giant STAGHORN CALCULI (which form a solid cast of the renal pelvis and calyces). PATHOPHYSIOLOGY: Struvite stones are caused exclusively by upper urinary tract infections with UREASE-PRODUCING BACTERIA (most commonly PROTEUS MIRABILIS, but also Klebsiella, Pseudomonas, and Staphylococcus saprophyticus; notably NOT E. coli, which is urease-negative!). Bacterial UREASE hydrolyzes urinary urea into carbon dioxide and AMMONIA (NH3). Ammonia acts as a base, accepting protons to form AMMONIUM (NH4+), while simultaneously driving URINE PH TO PROMINENTLY ALKALINE LEVELS (pH > 7.5 to 8.5). In this alkaline, ammonium-rich environment, phosphate ions deprotonate to trivalent PO4(3-), which complexes with abundant magnesium and ammonium to precipitate magnesium ammonium phosphate (MgNH4PO4.6H2O). On microscopic urinalysis, crystals appear as pathognomonic 'COFFIN-LID' rectangular prisms. If left untreated, staghorn calculi cause chronic renal destruction, perinephric abscesses, and urosepsis. Staghorn calculus + alkaline urine pH > 8 + 'coffin-lid' crystals + Proteus -> Struvite stone (urease hydrolyzes urea to ammonia, alkalinizing urine).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Struvite Stones Proteus Mirabilis Urease Pathophysiology.",
+    "keyPoints": [
+      "Struvite Stones Proteus Mirabilis Urease Pathophysiology",
+      "Staghorn calculus + alkaline urine pH > 8 + 'coffin-lid' crystals + Proteus -> Struvite stone (urease hydrolyzes urea to ammonia, alkalinizing urine)."
+    ],
+    "references": [
+      {
+        "label": "Flannigan R, Choy WH, Chew B, Lange D. Renal struvite stones--pathogenesis, microbiology, and management strategies. Nat Rev Urol. 2014;11(6):333-341. PMID: 24818849.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24818849/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0371",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Uric Acid Nephrolithiasis Radiolucency and Urinary Acidification",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man with chronic gouty arthritis and metabolic syndrome presents with acute left-sided flank pain radiating to the groin and gross hematuria. An abdominal plain radiograph (KUB) fails to demonstrate any radiopaque density. However, non-contrast helical CT of the abdomen demonstrates a 5-mm hyperdense calculus lodged in the mid-left ureter with proximal hydroureter. Urinalysis demonstrates a persistent, marked acidic urine pH of 4.8, 3+ blood, and zero nitrites. Microscopic examination of the urinary sediment reveals numerous pleomorphic, rhomboid and rosette-shaped, diamond-like crystals that are strongly birefringent under polarized light. The patient is treated conservatively with high oral fluid intake and oral potassium citrate. Which of the following physicochemical properties is the primary determinant driving the precipitation of this patient's calculus, and how does potassium citrate promote stone dissolution?",
+    "options": [
+      {
+        "text": "Persistent urinary acidemia (pH < 5.5) favoring the insoluble, protonated un-ionized uric acid species; potassium citrate alkalinizes urine to convert uric acid to soluble urate",
+        "correct": true,
+        "explanation": "Correct. Uric acid stones account for ~5-10% of nephrolithiasis and are the classic RADIOLUCENT STONES on plain X-rays (KUB) (they are invisible on plain radiograph because uric acid has low atomic number similar to soft tissue, but are readily visible as hyperdense densities on non-contrast CT). On microscopic urinalysis, crystals appear as pleomorphic RHOMBOIDS, ROSETTES, OR DIAMONDS. PHYSICOCHEMICAL PATHOPHYSIOLOGY: The pKa of uric acid is 5.5. At urine pH > 5.5, the molecule is deprotonated into the highly soluble urate ion. However, in chronically ACIDIC URINE (urine pH < 5.5; typical of gout, diabetes/metabolic syndrome with impaired ammoniagenesis, chronic diarrhea, or high-protein diets), the equilibrium shifts strongly to the PROTONATED, UN-IONIZED URIC ACID SPECIES, which is insoluble and precipitates at concentrations as low as 100 mg/L. CRITICAL THERAPEUTIC MECHANISM: The cornerstone of medical dissolution therapy is URINARY ALKALINIZATION using ORAL POTASSIUM CITRATE (or potassium bicarbonate). Citrate is metabolized in the liver to bicarbonate, which is excreted in the urine, raising urine pH to 6.5-7.0. At pH 6.5, the solubility of uric acid increases by more than 10-fold, shifting un-ionized uric acid to soluble urate and actively DISSOLVING pre-existing stones."
+      },
+      {
+        "text": "Urinary hypercalciuria exceeding the solubility product of calcium phosphate; potassium citrate binds calcium to prevent precipitation",
+        "correct": false,
+        "explanation": "Calcium phosphate stones form in ALKALINE urine (pH > 6.5) and are radiopaque on plain films, whereas uric acid stones form in acidic urine (pH < 5.5) and are radiolucent."
+      },
+      {
+        "text": "Bacterial urease-mediated generation of excess ammonia; potassium citrate neutralizes alkaline urine by acidifying the collecting duct",
+        "correct": false,
+        "explanation": "Potassium citrate ALKALINIZES urine, not acidifies; struvite stones require acidification, whereas uric acid stones require alkalinization."
+      },
+      {
+        "text": "Defective renal tubular reabsorption of dibasic amino acids; potassium citrate competes for apical cystine transporters",
+        "correct": false,
+        "explanation": "Dibasic amino acid transporter defect causes cystinuria (hexagonal crystals), not rhomboid uric acid stones."
+      },
+      {
+        "text": "Intracellular accumulation of xanthine secondary to allopurinol suicide inhibition of xanthine oxidase",
+        "correct": false,
+        "explanation": "Xanthine stones are extremely rare complications of high-dose allopurinol in Lesch-Nyhan syndrome, not common gouty nephrolithiasis."
+      }
+    ],
+    "explanation": "Correct. Uric acid stones account for ~5-10% of nephrolithiasis and are the classic RADIOLUCENT STONES on plain X-rays (KUB) (they are invisible on plain radiograph because uric acid has low atomic number similar to soft tissue, but are readily visible as hyperdense densities on non-contrast CT). On microscopic urinalysis, crystals appear as pleomorphic RHOMBOIDS, ROSETTES, OR DIAMONDS. PHYSICOCHEMICAL PATHOPHYSIOLOGY: The pKa of uric acid is 5.5. At urine pH > 5.5, the molecule is deprotonated into the highly soluble urate ion. However, in chronically ACIDIC URINE (urine pH < 5.5; typical of gout, diabetes/metabolic syndrome with impaired ammoniagenesis, chronic diarrhea, or high-protein diets), the equilibrium shifts strongly to the PROTONATED, UN-IONIZED URIC ACID SPECIES, which is insoluble and precipitates at concentrations as low as 100 mg/L. CRITICAL THERAPEUTIC MECHANISM: The cornerstone of medical dissolution therapy is URINARY ALKALINIZATION using ORAL POTASSIUM CITRATE (or potassium bicarbonate). Citrate is metabolized in the liver to bicarbonate, which is excreted in the urine, raising urine pH to 6.5-7.0. At pH 6.5, the solubility of uric acid increases by more than 10-fold, shifting un-ionized uric acid to soluble urate and actively DISSOLVING pre-existing stones. Flank pain + invisible on KUB + visible on CT + acidic urine pH 4.8 + rhomboid crystals -> Uric acid stone (insoluble at pH < 5.5; dissolved by potassium citrate alkalinization).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Uric Acid Nephrolithiasis Radiolucency and Urinary Acidification.",
+    "keyPoints": [
+      "Uric Acid Nephrolithiasis Radiolucency and Urinary Acidification",
+      "Flank pain + invisible on KUB + visible on CT + acidic urine pH 4.8 + rhomboid crystals -> Uric acid stone (insoluble at pH < 5.5; dissolved by potassium citrate alkalinization)."
+    ],
+    "references": [
+      {
+        "label": "Ngo TC, Assimos DG. Uric acid nephrolithiasis: recent progress and future directions. Rev Urol. 2007;9(1):17-27. PMID: 17387371.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17387371/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0372",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Renal",
+    "topic": "Cystinuria Dibasic Amino Acid Transporter Defect",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man presents with acute right flank pain radiating to his scrotum and gross hematuria. He has a history of two prior episodes of kidney stones during his teenage years. Non-contrast abdominal CT demonstrates a 7-mm faintly radiopaque stone in the proximal right ureter. Urinalysis demonstrates a urine pH of 6.0 and numerous flat, colorless, regular HEXAGONAL (six-sided) crystals in the sediment. A spot urine sample is mixed with sodium cyanide and sodium nitroprusside, producing an immediate, deep purple-red color reaction (positive brand test). Genetic sequencing reveals an autosomal recessive loss-of-function mutation in the SLC3A1 gene encoding the rBAT subunit of a renal tubular transport protein. In addition to cystine, impaired proximal tubular reabsorption of which of the following groups of amino acids occurs in this disease?",
+    "options": [
+      {
+        "text": "Leucine, Isoleucine, and Valine (the branched-chain amino acid group)",
+        "correct": false,
+        "explanation": "Branched-chain amino acids accumulate in Maple Syrup Urine Disease (BCKDH defect), not cystinuria; they are neutral amino acids transported by separate systems."
+      },
+      {
+        "text": "Ornithine, Lysine, and Arginine (the COLA dibasic amino acid group)",
+        "correct": true,
+        "explanation": "Correct. Cystinuria is an autosomal recessive inborn error of renal and intestinal transport caused by mutations in SLC3A1 (rBAT) or SLC7A9 (b0,+AT), which encode the heterodimeric high-affinity proximal tubular apical transporter for DIBASIC AMINO ACIDS. The transporter is responsible for the coupled reabsorption of four dibasic amino acids, remembered by the mnemonic 'COLA': CYSTINE, ORNITHINE, LYSINE, AND ARGININE. Because ornithine, lysine, and arginine are highly water-soluble, their excessive urinary excretion is completely benign and asymptomatic. However, CYSTINE (composed of two cysteine molecules connected by a disulfide bond) is EXTREMELY INSOLUBLE AT NORMAL OR ACIDIC URINE PH (solubility limit ~250 mg/L). Excessive urinary cystine rapidly precipitates, forming recurrent, bilateral renal calculi in children, adolescents, and young adults. PATHOGNOMONIC FINDINGS: (1) Urinalysis reveals classic flat, colorless, regular HEXAGONAL CRYSTALS (six-sided plates); (2) Faintly radiopaque on X-ray/CT due to sulfur atoms; (3) SODIUM CYANIDE-NITROPRUSSIDE TEST is positive: cyanide reduces cystine's disulfide bond to free cysteine, which reacts with nitroprusside to produce an intense purple-red color. Treatment involves hydration, urinary alkalinization (potassium citrate), and thiol chelating agents (tiopronin, penicillamine)."
+      },
+      {
+        "text": "Phenylalanine, Tyrosine, and Tryptophan (the aromatic amino acid group)",
+        "correct": false,
+        "explanation": "Aromatic amino acids are transported by neutral amino acid systems; neutral amino acid transporter defect (SLC6A19) causes Hartnup disease, presenting with pellagra-like symptoms."
+      },
+      {
+        "text": "Glycine, Proline, and Hydroxyproline (the imino acid group)",
+        "correct": false,
+        "explanation": "Imino acids are reabsorbed via the proton-coupled imino acid transporter; defects cause benign iminoglycinuria, not nephrolithiasis."
+      },
+      {
+        "text": "Glutamate and Aspartate (the dicarboxylic acidic amino acid group)",
+        "correct": false,
+        "explanation": "Dicarboxylic amino acids are acidic and transported by the EAAT/system X-AG system; defects cause dicarboxylic aminoaciduria, not hexagonal cystine stones."
+      }
+    ],
+    "explanation": "Correct. Cystinuria is an autosomal recessive inborn error of renal and intestinal transport caused by mutations in SLC3A1 (rBAT) or SLC7A9 (b0,+AT), which encode the heterodimeric high-affinity proximal tubular apical transporter for DIBASIC AMINO ACIDS. The transporter is responsible for the coupled reabsorption of four dibasic amino acids, remembered by the mnemonic 'COLA': CYSTINE, ORNITHINE, LYSINE, AND ARGININE. Because ornithine, lysine, and arginine are highly water-soluble, their excessive urinary excretion is completely benign and asymptomatic. However, CYSTINE (composed of two cysteine molecules connected by a disulfide bond) is EXTREMELY INSOLUBLE AT NORMAL OR ACIDIC URINE PH (solubility limit ~250 mg/L). Excessive urinary cystine rapidly precipitates, forming recurrent, bilateral renal calculi in children, adolescents, and young adults. PATHOGNOMONIC FINDINGS: (1) Urinalysis reveals classic flat, colorless, regular HEXAGONAL CRYSTALS (six-sided plates); (2) Faintly radiopaque on X-ray/CT due to sulfur atoms; (3) SODIUM CYANIDE-NITROPRUSSIDE TEST is positive: cyanide reduces cystine's disulfide bond to free cysteine, which reacts with nitroprusside to produce an intense purple-red color. Treatment involves hydration, urinary alkalinization (potassium citrate), and thiol chelating agents (tiopronin, penicillamine). Recurrent young stones + hexagonal crystals + positive cyanide-nitroprusside test -> Cystinuria (impaired reabsorption of Cystine, Ornithine, Lysine, Arginine [COLA]).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cystinuria Dibasic Amino Acid Transporter Defect.",
+    "keyPoints": [
+      "Cystinuria Dibasic Amino Acid Transporter Defect",
+      "Recurrent young stones + hexagonal crystals + positive cyanide-nitroprusside test -> Cystinuria (impaired reabsorption of Cystine, Ornithine, Lysine, Arginine [COLA])."
+    ],
+    "references": [
+      {
+        "label": "Eggermann T, Venghaus A, Zerres K. Cystinuria: an inborn cause of urolithiasis. Orphanet J Rare Dis. 2012;7:19. PMID: 22479904.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22479904/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0373",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Acute Tubular Necrosis Urinalysis and Fractional Excretion of Sodium",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old man who underwent emergency repair of a ruptured abdominal aortic aneurysm complicated by 45 minutes of profound intraoperative hemorrhagic shock (mean arterial pressure 45 mm Hg) develops acute oliguric kidney injury in the surgical intensive care unit on postoperative day 1. Over the past 24 hours, his urine output has been 180 mL despite aggressive crystalloid resuscitation and central venous pressure of 14 mm Hg. Blood urea nitrogen is 64 mg/dL, and serum creatinine has surged to 3.8 mg/dL (baseline 1.0 mg/dL; BUN/creatinine ratio 16.8). Microscopic examination of the centrifuged urinary sediment reveals numerous coarse, MUDDY BROWN GRANULAR CASTS and sloughed tubular epithelial cells. Which of the following sets of urinary diagnostic parameters is characteristic of this patient's intrinsic renal failure?",
+    "options": [
+      {
+        "text": "Urine osmolality > 500 mOsm/kg, Urine sodium < 20 mEq/L, and Fractional excretion of sodium (FENa) < 1%",
+        "correct": false,
+        "explanation": "This profile defines Prerenal Azotemia with intact tubular function (high sodium avidity and concentrated urine), not established acute tubular necrosis."
+      },
+      {
+        "text": "Urine osmolality < 150 mOsm/kg, Urine sodium < 10 mEq/L, and Fractional excretion of sodium (FENa) < 0.1%",
+        "correct": false,
+        "explanation": "Markedly dilute urine with low sodium occurs in diabetes insipidus or severe water overload, not oliguric renal failure."
+      },
+      {
+        "text": "Urine osmolality < 350 mOsm/kg, Urine sodium > 40 mEq/L, and Fractional excretion of sodium (FENa) > 2%",
+        "correct": true,
+        "explanation": "Correct. Acute Tubular Necrosis (ATN) is the most common cause of intrinsic acute kidney injury in hospitalized patients. It is caused by severe, prolonged renal hypoperfusion (ischemic ATN, as in hemorrhagic shock) or nephrotoxins (aminoglycosides, iodinated radiocontrast, cisplatin, myoglobinuria). The segments most vulnerable to ischemic injury are the PROXIMAL CONVOLUTED TUBULE (S3 segment) and the THICK ASCENDING LIMB of Henle, due to their exceptionally high ATP-dependent transport metabolic rates and relatively low medullary oxygen tension. Ischemia causes ATP depletion, loss of cell polarity, detachment of necrotic tubular epithelial cells into the lumen, and formation of pathognomonic MUDDY BROWN GRANULAR CASTS. Loss of tubular epithelial integrity destroys the kidney's ability to reabsorb sodium and concentrate urine: (1) URINE OSMOLALITY IS LOW (< 350 mOsm/kg; isosthenuric, matching plasma); (2) URINE SODIUM IS HIGH (> 40 mEq/L; inability to reabsorb sodium); (3) FRACTIONAL EXCRETION OF SODIUM IS HIGH (FENa > 2%; failure of tubular sodium avidity); and (4) BUN/CREATININE RATIO IS < 20 (typically 10-15:1; impaired urea reabsorption). Contrast with PRERENAL AZOTEMIA (intact tubules): FENa < 1%, Urine Na+ < 20 mEq/L, Urine osmolality > 500 mOsm/kg, and BUN/Cr > 20:1."
+      },
+      {
+        "text": "Urine osmolality > 800 mOsm/kg, Urine sodium > 80 mEq/L, and Fractional excretion of urea < 15%",
+        "correct": false,
+        "explanation": "Extremely concentrated urine requires hyperfunctioning medullary countercurrent multiplication, which is impossible in necrotic tubules."
+      },
+      {
+        "text": "Urine osmolality 300 mOsm/kg, Urine sodium < 10 mEq/L, and Fractional excretion of sodium (FENa) < 1%",
+        "correct": false,
+        "explanation": "FENa < 1% with low urine sodium is prerenal, whereas muddy brown casts confirm ATN with FENa > 2%."
+      }
+    ],
+    "explanation": "Correct. Acute Tubular Necrosis (ATN) is the most common cause of intrinsic acute kidney injury in hospitalized patients. It is caused by severe, prolonged renal hypoperfusion (ischemic ATN, as in hemorrhagic shock) or nephrotoxins (aminoglycosides, iodinated radiocontrast, cisplatin, myoglobinuria). The segments most vulnerable to ischemic injury are the PROXIMAL CONVOLUTED TUBULE (S3 segment) and the THICK ASCENDING LIMB of Henle, due to their exceptionally high ATP-dependent transport metabolic rates and relatively low medullary oxygen tension. Ischemia causes ATP depletion, loss of cell polarity, detachment of necrotic tubular epithelial cells into the lumen, and formation of pathognomonic MUDDY BROWN GRANULAR CASTS. Loss of tubular epithelial integrity destroys the kidney's ability to reabsorb sodium and concentrate urine: (1) URINE OSMOLALITY IS LOW (< 350 mOsm/kg; isosthenuric, matching plasma); (2) URINE SODIUM IS HIGH (> 40 mEq/L; inability to reabsorb sodium); (3) FRACTIONAL EXCRETION OF SODIUM IS HIGH (FENa > 2%; failure of tubular sodium avidity); and (4) BUN/CREATININE RATIO IS < 20 (typically 10-15:1; impaired urea reabsorption). Contrast with PRERENAL AZOTEMIA (intact tubules): FENa < 1%, Urine Na+ < 20 mEq/L, Urine osmolality > 500 mOsm/kg, and BUN/Cr > 20:1. Hemorrhagic shock + muddy brown casts -> Ischemic ATN (impaired tubular transport: Urine Osm < 350, Urine Na > 40, FENa > 2%).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Tubular Necrosis Urinalysis and Fractional Excretion of Sodium.",
+    "keyPoints": [
+      "Acute Tubular Necrosis Urinalysis and Fractional Excretion of Sodium",
+      "Hemorrhagic shock + muddy brown casts -> Ischemic ATN (impaired tubular transport: Urine Osm < 350, Urine Na > 40, FENa > 2%)."
+    ],
+    "references": [
+      {
+        "label": "Schrier RW, Wang W, Poole B, Mitra A. Acute renal failure: definitions, diagnosis, pathogenesis, and therapy. J Clin Invest. 2004;114(1):5-14. PMID: 15232604.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15232604/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0374",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Renal",
+    "topic": "Acute Interstitial Nephritis Drug Hypersensitivity and Eosinophiluria",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old man who was started on oral omeprazole for gastroesophageal reflux disease and amoxicillin-clavulanate for acute sinusitis 12 days ago presents with a low-grade fever, a generalized maculopapular erythematous skin rash on his trunk, and dull bilateral flank ache. Physical examination reveals an oral temperature of 38.3 C and mild bilateral costovertebral angle tenderness. Laboratory evaluation demonstrates: - Serum Creatinine: 2.8 mg/dL (baseline 0.9 mg/dL 1 month ago) - Complete Blood Count: WBC 11,800/mcL with 14% eosinophils (marked peripheral eosinophilia; absolute eosinophil count 1,650/mcL) Urinalysis reveals 1+ protein, 2+ blood, and marked sterile pyuria (20-30 WBCs/hpf; urine culture is completely negative). Hansel staining of the urinary sediment reveals that > 10% of excreted leukocytes are EOSINOPHILS. Centrifuged urine examination confirms the presence of WHITE BLOOD CELL CASTS. Renal biopsy demonstrates intense interstitial edema and a dense inflammatory infiltrate composed of T lymphocytes, macrophages, and abundant eosinophils, with sparing of glomeruli. Which of the following pathophysiological mechanisms is responsible for this patient's acute renal dysfunction?",
+    "options": [
+      {
+        "text": "Direct chemical necrosis of the proximal tubular brush border mediated by accumulated nephrotoxic drug crystals",
+        "correct": false,
+        "explanation": "Crystal-induced nephropathy is caused by acyclovir, indinavir, sulfadiazine, or methotrexate, which precipitate in tubules causing mechanical obstruction without eosinophilia or rash."
+      },
+      {
+        "text": "Circulating immune complex deposition in the mesangium triggering alternative complement pathway activation",
+        "correct": false,
+        "explanation": "Immune complex deposition in mesangium causes glomerulonephritis (IgA nephropathy, lupus), characterized by red blood cell casts, not white blood cell casts or eosinophiluria."
+      },
+      {
+        "text": "Autoantibody-mediated binding to the non-collagenous domain of Type IV collagen in glomerular capillaries",
+        "correct": false,
+        "explanation": "This is Anti-GBM disease, which produces crescentic GN and linear IgG on immunofluorescence, not interstitial eosinophilic nephritis."
+      },
+      {
+        "text": "Drug-induced type IV (cell-mediated) and type I hypersensitivity reaction directed against renal tubular basement membrane hapten antigens",
+        "correct": true,
+        "explanation": "Correct. Acute Interstitial Nephritis (AIN; tubulointerstitial nephritis) is an immunologically mediated adverse drug reaction accounting for ~15% of unexplained acute kidney injury in hospitalized adults. The most common causative pharmacologic culprits are: (1) PROTON PUMP INHIBITORS (omeprazole, pantoprazole); (2) ANTIBIOTICS (penicillins, cephalosporins, sulfonamides, rifampin); and (3) NSAIDS. PATHOPHYSIOLOGY: The offending drug (or its metabolite) acts as a HAPTEN, covalently binding to components of the tubular basement membrane or cytoplasmic proteins. This hapten-protein conjugate is processed by dendritic cells and presented to T cells, triggering a combined TYPE IV (DELAYED-TYPE, T-CELL MEDIATED) AND TYPE I (IGA/IGE-MEDIATED) HYPERSENSITIVITY REACTION. Activated T lymphocytes and mast cells release cytokines (IL-5), recruiting EOSINOPHILS into the renal interstitium. Classic clinical triad (seen in ~10-15%): FEVER, MACULOPAPULAR RASH, and PERIPHERAL EOSINOPHILIA, occurring 1 to 3 weeks post-exposure. URINALYSIS HALLMARKS: Sterile pyuria, EOSINOPHILURIA (demonstrated by Hansel or Wright stain), and WHITE BLOOD CELL CASTS (which confirm tubular/interstitial inflammation, distinguishing it from lower urinary tract cystitis). Treatment requires immediate cessation of the offending drug +/- corticosteroids."
+      },
+      {
+        "text": "Non-enzymatic glycation of efferent arterioles leading to glomerular hyperfiltration and sclerosis",
+        "correct": false,
+        "explanation": "Non-enzymatic glycation causes diabetic nephropathy, not acute drug hypersensitivity with fever, rash, and eosinophils."
+      }
+    ],
+    "explanation": "Correct. Acute Interstitial Nephritis (AIN; tubulointerstitial nephritis) is an immunologically mediated adverse drug reaction accounting for ~15% of unexplained acute kidney injury in hospitalized adults. The most common causative pharmacologic culprits are: (1) PROTON PUMP INHIBITORS (omeprazole, pantoprazole); (2) ANTIBIOTICS (penicillins, cephalosporins, sulfonamides, rifampin); and (3) NSAIDS. PATHOPHYSIOLOGY: The offending drug (or its metabolite) acts as a HAPTEN, covalently binding to components of the tubular basement membrane or cytoplasmic proteins. This hapten-protein conjugate is processed by dendritic cells and presented to T cells, triggering a combined TYPE IV (DELAYED-TYPE, T-CELL MEDIATED) AND TYPE I (IGA/IGE-MEDIATED) HYPERSENSITIVITY REACTION. Activated T lymphocytes and mast cells release cytokines (IL-5), recruiting EOSINOPHILS into the renal interstitium. Classic clinical triad (seen in ~10-15%): FEVER, MACULOPAPULAR RASH, and PERIPHERAL EOSINOPHILIA, occurring 1 to 3 weeks post-exposure. URINALYSIS HALLMARKS: Sterile pyuria, EOSINOPHILURIA (demonstrated by Hansel or Wright stain), and WHITE BLOOD CELL CASTS (which confirm tubular/interstitial inflammation, distinguishing it from lower urinary tract cystitis). Treatment requires immediate cessation of the offending drug +/- corticosteroids. Fever + rash + eosinophilia + WBC casts after omeprazole/amoxicillin -> Acute Interstitial Nephritis (Type IV/I drug hypersensitivity).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Interstitial Nephritis Drug Hypersensitivity and Eosinophiluria.",
+    "keyPoints": [
+      "Acute Interstitial Nephritis Drug Hypersensitivity and Eosinophiluria",
+      "Fever + rash + eosinophilia + WBC casts after omeprazole/amoxicillin -> Acute Interstitial Nephritis (Type IV/I drug hypersensitivity)."
+    ],
+    "references": [
+      {
+        "label": "Praga M, González E. Acute interstitial nephritis. Kidney Int. 2010;77(11):956-961. PMID: 20336051.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20336051/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0375",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Renal Cell Carcinoma VHL Gene Deletion and HIF-1-Alpha",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man presents with painless gross hematuria, a dull ache in his left flank, and a 12-lb unintended weight loss over the past 3 months. Physical examination reveals a palpable, firm, non-tender mass in the left upper quadrant of his abdomen and a non-reducing left-sided scrotal varicocele that fails to decompress when lying recumbent. Laboratory evaluation reveals: - Hemoglobin: 19.4 g/dL (marked secondary polycythemia; hematocrit 58%) - Serum Calcium: 11.8 mg/dL (hypercalcemia) - Erythropoietin (EPO): Markedly elevated Abdominal contrast-enhanced CT reveals a 7.5-cm, highly vascular, solid, heterogeneous mass arising from the upper pole of the left kidney, with a tumor thrombus extending into the left renal vein. Radical nephrectomy is performed. Histopathological examination demonstrates sheets and nests of rounded polygonal epithelial cells with abundant clear cytoplasm, separated by a delicate, arborizing network of thin-walled sinusoidal blood vessels. Cytogenetic analysis reveals a loss-of-function mutation and loss of heterozygosity on chromosome 3p. The constitutive upregulation of which of the following transcription factors directly drives the marked vascularity and paraneoplastic polycythemia in this neoplasm?",
+    "options": [
+      {
+        "text": "c-Myc oncogene driving uncontrolled transcription of ribosome biogenesis proteins and metabolic reprogramming",
+        "correct": false,
+        "explanation": "c-Myc is amplified in Burkitt lymphoma t(8;14) and small cell carcinomas, not the primary chromosome 3p VHL pathway of clear cell RCC."
+      },
+      {
+        "text": "Retinoblastoma protein (Rb) driving uninhibited progression from G2 phase to M phase of the cell cycle",
+        "correct": false,
+        "explanation": "Rb regulates the G1/S transition (not G2/M), and is mutated in retinoblastoma and osteosarcoma, not clear cell RCC."
+      },
+      {
+        "text": "Nuclear factor kappa B (NF-kappa-B) promoting anti-apoptotic Bcl-2 expression in lymphoid germinal centers",
+        "correct": false,
+        "explanation": "NF-kB drives inflammatory and lymphoid signaling (e.g., Reed-Sternberg cells in Hodgkin lymphoma), not VHL/HIF clear cell angiogenesis."
+      },
+      {
+        "text": "Forkhead box protein P3 (FOXP3) directing the differentiation of immunosuppressive regulatory T cells",
+        "correct": false,
+        "explanation": "FOXP3 is the master transcription factor for Treg lymphocytes (mutated in IPEX syndrome), completely unrelated to renal cell carcinoma."
+      },
+      {
+        "text": "Hypoxia-inducible factor-1-alpha (HIF-1-alpha), driving excessive transcription of vascular endothelial growth factor (VEGF) and erythropoietin (EPO)",
+        "correct": true,
+        "explanation": "Correct. Clear Cell Renal Cell Carcinoma (ccRCC) is the most common primary renal malignancy (> 75-80% of RCC). Origin: PROXIMAL CONVOLUTED TUBULE epithelial cells. Histology: Polygonal cells with abundant CLEAR CYTOPLASM (filled with accumulated glycogen and lipids that dissolve during routine histological processing), surrounded by dense arborizing capillary networks. MOLECULAR PATHOGENESIS: In > 90% of sporadic clear cell RCC and in hereditary von Hippel-Lindau (VHL) disease, there is a loss-of-function mutation or deletion on CHROMOSOME 3P25 (VHL GENE). Normally, the VHL protein functions as an E3 ubiquitin ligase component: in the presence of oxygen, prolyl hydroxylases hydroxylate HYPOXIA-INDUCIBLE FACTOR-1-ALPHA (HIF-1-alpha), allowing VHL to bind HIF-1-alpha and target it for ubiquitin-proteasome degradation. Loss of VHL prevents HIF-1-alpha degradation. HIF-1-ALPHA ACCUMULATES CONSTITUTIVELY, translocating to the nucleus where it drives uninhibited transcription of hypoxia-responsive genes: (1) VASCULAR ENDOTHELIAL GROWTH FACTOR (VEGF) and PDGF -> massive neo-angiogenesis and hypervascularity; (2) ERYTHROPOIETIN (EPO) -> paraneoplastic secondary POLYCYTHEMIA; (3) Parathyroid hormone-related peptide (PTHrP) -> paraneoplastic HYPERCALCEMIA. (Left-sided varicocele occurs because the left gonadal vein drains into the left renal vein, which is obstructed by tumor thrombus)."
+      }
+    ],
+    "explanation": "Correct. Clear Cell Renal Cell Carcinoma (ccRCC) is the most common primary renal malignancy (> 75-80% of RCC). Origin: PROXIMAL CONVOLUTED TUBULE epithelial cells. Histology: Polygonal cells with abundant CLEAR CYTOPLASM (filled with accumulated glycogen and lipids that dissolve during routine histological processing), surrounded by dense arborizing capillary networks. MOLECULAR PATHOGENESIS: In > 90% of sporadic clear cell RCC and in hereditary von Hippel-Lindau (VHL) disease, there is a loss-of-function mutation or deletion on CHROMOSOME 3P25 (VHL GENE). Normally, the VHL protein functions as an E3 ubiquitin ligase component: in the presence of oxygen, prolyl hydroxylases hydroxylate HYPOXIA-INDUCIBLE FACTOR-1-ALPHA (HIF-1-alpha), allowing VHL to bind HIF-1-alpha and target it for ubiquitin-proteasome degradation. Loss of VHL prevents HIF-1-alpha degradation. HIF-1-ALPHA ACCUMULATES CONSTITUTIVELY, translocating to the nucleus where it drives uninhibited transcription of hypoxia-responsive genes: (1) VASCULAR ENDOTHELIAL GROWTH FACTOR (VEGF) and PDGF -> massive neo-angiogenesis and hypervascularity; (2) ERYTHROPOIETIN (EPO) -> paraneoplastic secondary POLYCYTHEMIA; (3) Parathyroid hormone-related peptide (PTHrP) -> paraneoplastic HYPERCALCEMIA. (Left-sided varicocele occurs because the left gonadal vein drains into the left renal vein, which is obstructed by tumor thrombus). Clear cell RCC + chromosome 3p deletion + polycythemia -> Loss of VHL prevents degradation of HIF-1-alpha, driving VEGF and EPO transcription.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Renal Cell Carcinoma VHL Gene Deletion and HIF-1-Alpha.",
+    "keyPoints": [
+      "Renal Cell Carcinoma VHL Gene Deletion and HIF-1-Alpha",
+      "Clear cell RCC + chromosome 3p deletion + polycythemia -> Loss of VHL prevents degradation of HIF-1-alpha, driving VEGF and EPO transcription."
+    ],
+    "references": [
+      {
+        "label": "Kaelin WG Jr. The von Hippel-Lindau tumour suppressor protein and clear cell renal carcinoma. Nat Rev Cancer. 2008;8(11):865-873. PMID: 18941490.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18941490/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

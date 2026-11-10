@@ -1,0 +1,933 @@
+import { CandidateSpec } from './types';
+
+export const step3Batch8: CandidateSpec[] = [
+  {
+    code: 'op-c-s3-0176',
+    exam: 'Step 3',
+    subject: 'Psychiatry',
+    system: 'Behavioral Health',
+    topic: 'Opioid Use Disorder Buprenorphine Induction Pharmacology',
+    subtopic: 'Partial Mu-Agonism High Receptor Affinity and Precipitated Withdrawal',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 89,
+    shortestValidSolution:
+      'Manage Buprenorphine Induction in Opioid Use Disorder: Buprenorphine is a partial mu-opioid receptor agonist with very high receptor binding affinity and lower intrinsic activity. Administering buprenorphine while full mu-agonists (such as fentanyl or heroin) are still occupying opioid receptors causes immediate competitive displacement of the full agonist. Because the partial agonist has lower intrinsic efficacy, this displacement triggers a precipitous drop in downstream opioid signaling, causing severe PRECIPITATED WITHDRAWAL. Therefore, buprenorphine induction must be delayed until objective autonomic and physical signs of moderate withdrawal are verified on physical examination. Sublingual naloxone is combined to deter intravenous diversion and has negligible oral bioavailability.',
+    necessaryInference:
+      'Evaluate clinical examination findings (recent fentanyl use, absence of objective physical withdrawal signs) and deduce that immediate buprenorphine administration will precipitate acute withdrawal due to competitive displacement of full agonists by a high-affinity partial agonist.',
+    strongestDistractor: 'Initiate buprenorphine monotherapy without naloxone immediately, because precipitated withdrawal is triggered exclusively by the naloxone component',
+    distractorExclusion: 'Precipitated withdrawal is caused by buprenorphine itself displacing full agonists from mu receptors due to its higher binding affinity and lower intrinsic efficacy, not by naloxone, which is poorly absorbed sublingually.',
+    citation: "The ASAM National Practice Guideline for the Treatment of Opioid Use Disorder: 2020 Focused Update. J Addict Med. 2020;14(2S Suppl 1):1-91. PMID: 32511106.",
+    stem:
+      'A 31-year-old man presents to an outpatient addiction medicine clinic seeking treatment for severe opioid use disorder. He has been injecting non-prescribed intravenous heroin and illicit fentanyl multiple times daily for 3 years, experiencing multiple overdoses resuscitated with bystander naloxone. He expresses a strong desire to initiate office-based medication-assisted treatment with sublingual buprenorphine-naloxone. During the initial clinical intake at 9:00 AM, the patient states: "I used a bag of fentanyl about 3 hours ago because I felt anxious, but I brought my buprenorphine prescription with me and I want to take the first tablet right now so I can stay on track." On physical examination, the patient is alert, comfortable, and in no apparent physical distress. His pupils are 3 mm and briskly reactive to light. There is no yawning, rhinorrhea, lacrimation, piloerection, tremors, or diaphoresis. His heart rate is 72/min, blood pressure is 122/76 mm Hg, and temperature is 36.8°C (98.2°F). Abdominal examination reveals normal, quiet bowel sounds. The patient requests to take his first dose of buprenorphine-naloxone immediately in the clinic. Which of the following is the most appropriate next step in management, and what is the underlying pharmacological justification?',
+    options: [
+      {
+        text: 'Delay buprenorphine administration until objective autonomic and physical signs of moderate withdrawal emerge, because buprenorphine will competitively displace full agonists and trigger precipitated withdrawal',
+        explanation: 'Buprenorphine is a cornerstone of medication-assisted treatment for opioid use disorder (OUD). However, initiating buprenorphine requires rigorous clinical timing to avoid PRECIPITATED WITHDRAWAL. Buprenorphine is a PARTIAL MU-OPIOID RECEPTOR AGONIST that possesses an exceptionally high binding affinity for the mu-opioid receptor—far higher than full agonists such as heroin, oxycodone, morphine, or fentanyl—combined with lower intrinsic activity (efficacy). If buprenorphine is administered while full-agonist opioids are still actively occupying mu receptors (this patient injected fentanyl 3 hours ago and demonstrates zero physical or autonomic signs of withdrawal on exam), the high-affinity buprenorphine will rapidly displace the full agonists. Because buprenorphine produces only partial receptor activation, this sudden displacement results in an abrupt, severe decline in net intracellular opioid signaling, throwing the patient into acute, agonizing PRECIPITATED WITHDRAWAL (severe emesis, diarrhea, diaphoresis, muscle cramps, and extreme tachycardia). Under ASAM guidelines, buprenorphine induction must be deferred until the patient exhibits clear objective signs of moderate withdrawal (e.g., mydriasis, piloerection, diaphoresis, restlessness, tachycardia). The co-formulated naloxone has negligible sublingual bioavailability (~5–10%) and is included solely to deter intravenous crushing and injection; naloxone does not cause precipitated withdrawal when taken sublingually as prescribed.'
+      },
+      {
+        text: 'Initiate buprenorphine monotherapy without naloxone immediately, because precipitated withdrawal is triggered exclusively by the naloxone component',
+        explanation: 'A common misconception is that naloxone causes precipitated withdrawal; in reality, sublingually administered naloxone is minimally bioavailable, and buprenorphine itself triggers precipitated withdrawal through receptor displacement.'
+      },
+      {
+        text: 'Administer an oral test dose of naltrexone before buprenorphine to verify that all mu-opioid receptors are cleared of active fentanyl',
+        explanation: 'Administering naltrexone (a full opioid antagonist) to a patient with active fentanyl on board triggers catastrophic, hyperacute opioid withdrawal.'
+      },
+      {
+        text: 'Administer the first sublingual buprenorphine-naloxone dose immediately, because active fentanyl will blunt any mild partial agonist withdrawal',
+        explanation: 'Active fentanyl does not blunt withdrawal; buprenorphine displaces fentanyl and precipitates immediate, severe withdrawal.'
+      },
+      {
+        text: 'Transition the patient to immediate high-dose oral methadone maintenance for 24 hours to prevent withdrawal before introducing buprenorphine',
+        explanation: 'Introducing buprenorphine 24 hours after high-dose long-acting methadone triggers severe, prolonged precipitated withdrawal.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0177',
+    exam: 'Step 3',
+    subject: 'Psychiatry',
+    system: 'Behavioral Health',
+    topic: 'Alcohol Use Disorder Pharmacotherapy Selection: Naltrexone vs Acamprosate',
+    subtopic: 'Hepatic Dysfunction Contraindications to Naltrexone vs Renal Impairment and Acamprosate',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Select Pharmacotherapy for Alcohol Use Disorder (AUD - APA Guidelines): - FIRST-LINE AGENTS: NALTREXONE and ACAMPROSATE. - PATIENT-SPECIFIC CONTRAINDICATION RULES: 1. NALTREXONE (mu-opioid receptor antagonist: blocks dopamine reward pathway, reduces heavy drinking days): METABOLIZED BY LIVER. STRICTLY CONTRAINDICATED IN ACUTE HEPATITIS, SEVERE HEPATIC CIRRHOSIS / LIVER FAILURE, OR CONCURRENT OPIOID USE. 2. ACAMPROSATE (modulates NMDA/GABA glutamate transmission, maintains abstinence): EXCRETED EXCLUSIVELY BY THE KIDNEYS. SAFE IN LIVER DISEASE / CIRRHOSIS. STRICTLY CONTRAINDICATED IN SEVERE RENAL IMPAIRMENT (eGFR or CrCl < 30 mL/min; dose-reduced if CrCl 30-50).',
+    citation: "Reus VI, et al. The American Psychiatric Association Practice Guideline for the Pharmacological Treatment of Patients With Alcohol Use Disorder. Am J Psychiatry. 2018;175(1):86-90. PMID: 29385921.",
+    stem:
+      'A 54-year-old man with a 25-year history of severe alcohol use disorder presents to the addiction clinic following an uncomplicated 5-day inpatient medical detoxification. He is highly motivated to maintain complete sobriety and asks for medication to reduce alcohol cravings and prevent relapse. His medical history is notable for decompensated alcoholic cirrhosis complicated by ascites treated with spironolactone and furosemide. He takes no opioid pain medications and has no history of opioid misuse. Physical examination reveals spider angiomas, palmar erythema, and mild non-tender abdominal distension without shifting dullness. Laboratory evaluation reveals: total bilirubin 2.8 mg/dL, serum albumin 2.9 g/dL, INR 1.5, AST 78 U/L, ALT 46 U/L, and platelet count 94,000/mm³. His renal function is completely normal with a BUN of 14 mg/dL, serum creatinine of 0.8 mg/dL, and estimated creatinine clearance of 95 mL/min. Which of the following is the most appropriate first-line pharmacologic agent to support abstinence from alcohol in this patient?',
+    options: [
+      {
+        text: 'Oral acamprosate calcium',
+        explanation: 'Under American Psychiatric Association (APA) and VA/DoD guidelines, pharmacotherapy is strongly recommended to assist patients with moderate-to-severe alcohol use disorder (AUD) in maintaining abstinence and reducing relapse risk. The two primary first-line medications are NALTREXONE and ACAMPROSATE. The selection between these two agents is dictated strictly by PATIENT-SPECIFIC ORGAN DYSFUNCTION AND CONTRAINDICATIONS: (1) NALTREXONE is a mu-opioid receptor antagonist that reduces the rewarding and reinforcing effects of alcohol. However, naltrexone undergoes extensive hepatic metabolism and carries a risk of dose-dependent hepatotoxicity; it is STRICTLY CONTRAINDICATED in patients with acute hepatitis, decompensated cirrhosis, or acute liver failure (as well as those requiring opioid analgesics). (2) ACAMPROSATE works by modulating hyperactive NMDA glutamatergic neurotransmission associated with chronic alcohol withdrawal, helping maintain abstinence. Acamprosate is EXCLUSIVELY RENALLY ELIMINATED and undergoes zero hepatic metabolism. It is completely safe in patients with severe hepatic dysfunction and cirrhosis. (Acamprosate is contraindicated in severe chronic kidney disease with CrCl < 30 mL/min). Because this patient has decompensated alcoholic cirrhosis with abnormal liver function (bilirubin 2.8, albumin 2.9, INR 1.5) and completely normal renal function (CrCl 95 mL/min), ACAMPROSATE is the ideal and safe first-line choice.'
+      },
+      {
+        text: 'Oral naltrexone 50 mg daily',
+        explanation: 'Naltrexone is hepatically metabolized and can exacerbate liver injury; it is contraindicated in decompensated cirrhosis and acute hepatic impairment.'
+      },
+      {
+        text: 'Oral disulfiram 250 mg daily',
+        explanation: 'Disulfiram is a second-line deterrent that inhibits aldehyde dehydrogenase; it carries a black-box warning for severe idiosyncratic hepatitis and fatal liver failure, making it strictly contraindicated in cirrhosis.'
+      },
+      {
+        text: 'Oral chlordiazepoxide maintenance therapy for 6 months',
+        explanation: 'Benzodiazepines are used short-term (3-7 days) for acute withdrawal; long-term maintenance carries high risks of dependence, cognitive decline, and respiratory depression in cirrhosis.'
+      },
+      {
+        text: 'Prescription of oral bupropion hydrochloride',
+        explanation: 'Bupropion is approved for smoking cessation and major depression, not alcohol use disorder, and lowers the seizure threshold in withdrawing alcoholics.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0178',
+    exam: 'Step 3',
+    subject: 'Psychiatry',
+    system: 'Behavioral Health',
+    topic: 'Treatment-Resistant Depression (TRD) Definition and Augmentation Strategy',
+    subtopic: 'Atypical Antipsychotic Augmentation (Aripiprazole) Following Multiple Antidepressant Failures',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Treatment-Resistant Depression (TRD - APA Guidelines): - DEFINITION: Major depressive disorder that fails to achieve clinical response/remission despite at least TWO ADEQUATE TRIALS OF FIRST-LINE ANTIDEPRESSANTS of different pharmacological classes, administered at therapeutic doses for an adequate duration (>= 6 to 8 weeks each) with verified adherence. - EVIDENCE-BASED NEXT-STEP STRATEGIES: 1. SECOND-GENERATION ANTIPSYCHOTIC AUGMENTATION: ARIPIPRAZOLE, QUETIAPINE, or BREXPIPRAZOLE (highest level of randomized trial evidence for rapid remission); 2. LITHIUM AUGMENTATION (especially if suicidal ideation present); 3. ESKETAMINE nasal spray or ELECTROCONVULSIVE THERAPY (ECT) for severe/refractory cases.',
+    citation: "Gaynes BN, et al. What did STAR*D teach us? Results from a large-scale, practical, clinical trial for patients with depression. Psychiatr Serv. 2009;60(11):1439-1445. PMID: 19880458.",
+    stem:
+      'A 38-year-old woman presents to the outpatient psychiatric clinic for management of major depressive disorder. She has experienced severe persistent sadness, anhedonia, insomnia, poor concentration, and feelings of worthlessness for the past 9 months. Her psychiatric history reveals that she completed an 8-week trial of escitalopram titrated to 20 mg daily with zero improvement in symptoms. She was subsequently switched to venlafaxine XR, which was titrated to 225 mg daily and taken consistently for 10 weeks with verified adherence; however, she continues to meet full DSM-5 criteria for a major depressive episode, scoring 24 on the Patient Health Questionnaire-9 (PHQ-9). She has no history of hypomania, mania, psychosis, or substance use disorder. Medical workup reveals normal complete blood count, CMP, and TSH. The psychiatrist discusses evidence-based strategies for treatment-resistant depression. Which of the following is the most appropriate next step in the pharmacologic management of this patient?',
+    options: [
+      {
+        text: 'Augment the current venlafaxine therapy with low-dose oral aripiprazole',
+        explanation: 'This patient meets clear diagnostic criteria for TREATMENT-RESISTANT DEPRESSION (TRD), defined as a major depressive episode that fails to achieve significant clinical response or remission despite AT LEAST TWO ADEQUATE TRIALS of different first-line antidepressant classes administered at therapeutic dosages for an adequate duration (typically 6 to 8 weeks minimum with verified adherence). She has completed full therapeutic trials of both an SSRI (escitalopram 20 mg for 8 weeks) and an SNRI (venlafaxine XR 225 mg for 10 weeks). The landmark STAR*D (Sequenced Treatment Alternatives to Relieve Depression) trial and American Psychiatric Association (APA) guidelines demonstrate that when multiple first-line monoaminergic antidepressants fail, the strategy with the most robust, high-quality randomized trial evidence for inducing clinical remission is SECOND-GENERATION ANTIPSYCHOTIC AUGMENTATION—specifically with low-dose ARIPIPRAZOLE (2 to 5 mg daily, a partial D2/5-HT1A agonist), quetiapine XR, or brexpiprazole. Aripiprazole augmentation achieves rapid, synergistic antidepressant effects within 1 to 2 weeks without requiring the discontinuation of the underlying SNRI. Other evidence-based augmentation strategies include lithium, thyroid hormone (T3), or switching to esketamine or electroconvulsive therapy (ECT).'
+      },
+      {
+        text: 'Switch venlafaxine to oral fluoxetine monotherapy at a low starting dose',
+        explanation: 'Switching to another SSRI after having already failed an adequate trial of escitalopram and an SNRI yields low remission rates (< 15-20%) according to STAR*D data; augmentation is superior.'
+      },
+      {
+        text: 'Discontinue venlafaxine and initiate oral diazepam 10 mg three times daily as sole therapy',
+        explanation: 'Benzodiazepines are not antidepressants, have zero efficacy in treating the core symptoms of major depressive disorder, and carry severe risks of physical dependence.'
+      },
+      {
+        text: 'Prescribe oral St. John\'s wort concurrently with venlafaxine to enhance serotonergic tone',
+        explanation: 'Combining St. John\'s wort with an SNRI like venlafaxine is dangerous and strictly contraindicated due to a high risk of life-threatening serotonin syndrome.'
+      },
+      {
+        text: 'Immediately schedule involuntary inpatient electroconvulsive therapy without outpatient augmentation trials',
+        explanation: 'While ECT is effective for refractory depression, it requires informed consent or legal surrogate adjudication; involuntary ECT is reserved for life-threatening inanition or catatonia.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0179',
+    exam: 'Step 3',
+    subject: 'Psychiatry',
+    system: 'Behavioral Health',
+    topic: 'Somatic Symptom Disorder Long-Term Ambulatory Management',
+    subtopic: 'Scheduled Regular Primary Care Visits and Avoiding Unnecessary Testing',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Somatic Symptom Disorder (DSM-5 Criteria & Primary Care Strategy): - DIAGNOSTIC FEATURES: One or more distressing somatic symptoms (fatigue, pain, GI upset, dizziness) accompanied by EXCESSIVE THOUGHTS, FEELINGS, OR BEHAVIORS related to the symptoms (persistent high anxiety, disproportionate time/energy devoted to health concerns). - GOLD STANDARD AMBULATORY MANAGEMENT: 1. SCHEDULE REGULAR, FREQUENT OUTPATIENT VISITS (e.g., every 4 to 6 weeks) with the SAME PRIMARY CARE PHYSICIAN; 2. Focus appointments on COPING WITH CHRONIC SYMPTOMS AND FUNCTIONAL GOALS rather than attempting symptom cure; 3. Perform targeted physical exams to reassure, but AVOID UNNECESSARY DIAGNOSTIC TESTING, invasive procedures, or multiple subspecialist referrals (which reinforce anxiety).',
+    citation: "Henningsen P, et al. Management of functional somatic syndromes. Lancet. 2007;369(9565):946-955. PMID: 17368156.",
+    stem:
+      'A 36-year-old woman presents to a new primary care physician reporting a 2-year history of diffuse, debilitating somatic symptoms including chronic daily fatigue, intermittent sharp chest pains, generalized abdominal cramps, dizziness, and shooting joint aches. Over the past 18 months, she has visited five different emergency departments and consulted four subspecialists (cardiologist, rheumatologist, gastroenterologist, and neurologist). Extensive diagnostic testing—including multiple normal ECGs, normal echocardiogram, normal 48-hour Holter monitor, normal upper endoscopy and colonoscopy, negative autoimmune panels (ANA, RF, anti-CCP), and normal brain MRI—has revealed no structural or biochemical pathology. Despite these reassuring evaluations, the patient remains consumed by intense, persistent anxiety that she has a rare, undiagnosed terminal autoimmune malignancy, spending 4 to 5 hours daily researching symptoms online and missing 12 days of work last month. On physical examination today, the patient is alert and anxious, but physical and neurological examinations are completely normal. Which of the following is the most appropriate foundational management strategy for this patient?',
+    options: [
+      {
+        text: 'Establish regularly scheduled, structured outpatient clinic visits every 4 to 6 weeks with the same primary care physician, focusing on functional goals while avoiding unnecessary diagnostic testing',
+        explanation: 'This patient meets full DSM-5 criteria for SOMATIC SYMPTOM DISORDER: the presence of one or more distressing physical symptoms accompanied by excessive, disproportionate thoughts, persistent high anxiety, and extraordinary time/energy dedicated to health concerns, resulting in significant occupational and social impairment. Patients with somatic symptom disorder frequently undergo expensive, repetitive, invasive medical investigations and doctor-shopping, which paradoxically amplifies health anxiety and exposes them to iatrogenic complications. Decades of clinical trials establish that the gold-standard foundational management in primary care is: (1) SCHEDULE REGULAR, STRUCTURED OUTPATIENT VISITS AT SET INTERVALS (e.g., every 4 to 6 weeks) WITH A SINGLE, DEDICATED PRIMARY CARE PHYSICIAN. Visits should be time-contingent rather than symptom-contingent (meaning the patient does not need to manufacture new or worsening symptoms to see the doctor); (2) Perform brief, targeted physical examinations to validate the patient\'s suffering; (3) Shift the therapeutic focus from "curing" elusive physical complaints to OPTIMIZING FUNCTIONAL COPING and quality of life; and (4) STRICTLY AVOID UNNECESSARY DIAGNOSTIC WORKUPS, subspecialist referrals, or invasive procedures unless new objective clinical "red flags" emerge.'
+      },
+      {
+        text: 'Order a total-body contrast-enhanced CT scan and repeat the autoimmune panel to conclusively reassure the patient',
+        explanation: 'Repeating non-indicated tests and total-body CT scans reinforces the patient\'s belief that an elusive lethal disease exists, yields false-positive incidentalomas, and escalates anxiety.'
+      },
+      {
+        text: 'Inform the patient that her symptoms are entirely imaginary and in her head, and advise her to stop seeing doctors',
+        explanation: 'Dismissing the patient\'s genuine physical suffering damages the therapeutic relationship, causes feelings of abandonment, and drives the patient to seek alternative unvetted care.'
+      },
+      {
+        text: 'Prescribe standing daily alprazolam 1 mg three times daily to control somatic anxiety',
+        explanation: 'Benzodiazepines do not treat somatic symptom disorder and carry severe risks of addiction, cognitive impairment, and physical dependence.'
+      },
+      {
+        text: 'Refer the patient immediately to an inpatient psychiatric facility for involuntary civil commitment',
+        explanation: 'Somatic symptom disorder is an outpatient chronic functional condition that does not meet statutory criteria for involuntary psychiatric commitment.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0180',
+    exam: 'Step 3',
+    subject: 'Psychiatry',
+    system: 'Behavioral Health',
+    topic: 'Generalized Anxiety Disorder First-Line Pharmacotherapy and Psychotherapy',
+    subtopic: 'Selective Serotonin Reuptake Inhibitors and Cognitive Behavioral Therapy vs Benzodiazepines',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Generalized Anxiety Disorder (GAD - APA Guidelines): - DIAGNOSTIC CRITERIA (DSM-5): Excessive, uncontrollable worry about multiple everyday life events for >= 6 MONTHS, accompanied by >= 3 somatic symptoms: restlessness, fatigue, impaired concentration, irritability, muscle tension, sleep disturbance. - FIRST-LINE TREATMENT OF CHOICE: 1. SSRI (ESCITALOPRAM, SERTRALINE) OR SNRI (DULOXETINE, VENLAFAXINE XR); COMBINED WITH 2. COGNITIVE BEHAVIORAL THERAPY (CBT). - AVOID LONG-TERM BENZODIAZEPINES (Lorazepam, Alprazolam) due to tolerance, dependence, cognitive blunting, and fall risk in older adults. Buspirone is an alternative non-benzodiazepine anxiolytic.',
+    citation: "Bandelow B, et al. Efficacy of treatments for anxiety disorders: a meta-analysis. Int Clin Psychopharmacol. 2015;30(4):183-192. PMID: 25932581.",
+    stem:
+      'A 32-year-old high school teacher presents to the primary care clinic for evaluation of chronic, relentless anxiety. She reports that for the past 9 months, she has experienced excessive, uncontrollable worry regarding her finances, her job performance, her children\'s health, and world events. She feels constantly on edge, irritable, and reports chronic neck and shoulder muscle tension. She has severe difficulty falling asleep at night due to racing thoughts and feels chronically exhausted during the day. She has had no sudden unprovoked attacks of terror, palpitations, fear of enclosed spaces, or obsessions/compulsions. She drinks one glass of wine on weekends and drinks one cup of coffee daily. Physical examination reveals normal vital signs and mild cervical paraspinal muscle tightness without focal neurological deficits. Complete blood count, comprehensive metabolic panel, and thyroid-stimulating hormone levels are normal. Which of the following represents the most appropriate initial evidence-based treatment regimen for this patient?',
+    options: [
+      {
+        text: 'Initiation of an oral selective serotonin reuptake inhibitor (such as escitalopram) combined with cognitive behavioral therapy (CBT)',
+        explanation: 'This patient meets full DSM-5 diagnostic criteria for GENERALIZED ANXIETY DISORDER (GAD): excessive, uncontrollable anxiety and worry occurring on more days than not for at least 6 months about multiple life domains, accompanied by at least three characteristic physical/cognitive symptoms (muscle tension, sleep disturbance, irritability, fatigue, restlessness, or impaired concentration), producing significant functional distress. Under American Psychiatric Association (APA) and National Institute for Health and Care Excellence (NICE) guidelines, the gold-standard, first-line evidence-based management consists of: (1) FIRST-LINE PHARMACOTHERAPY: A SELECTIVE SEROTONIN REUPTAKE INHIBITOR (SSRI, such as escitalopram or sertraline) OR a SEROTONIN-NOREPINEPHRINE REUPTAKE INHIBITOR (SNRI, such as duloxetine or venlafaxine XR). These agents modulate central serotonergic and noradrenergic circuits to reduce generalized psychic and somatic anxiety; and (2) EVIDENCE-BASED PSYCHOTHERAPY: COGNITIVE BEHAVIORAL THERAPY (CBT), which teaches cognitive restructuring to challenge distorted catastrophic worries, exposure exercises, and relaxation training. Combining an SSRI with CBT yields the highest sustained remission rates. Long-term benzodiazepine therapy should be strictly avoided due to risks of tolerance, physiological dependence, cognitive impairment, and severe rebound anxiety upon discontinuation.'
+      },
+      {
+        text: 'Long-term standing monotherapy with oral alprazolam 1 mg three times daily',
+        explanation: 'Benzodiazepines carry severe risks of physical dependence, tolerance, withdrawal seizures, and cognitive blunting, and are not recommended for long-term GAD management.'
+      },
+      {
+        text: 'Prescription of oral propranolol 40 mg daily as sole therapy for chronic worry',
+        explanation: 'Propranolol blunts peripheral adrenergic symptoms (tremors, palpitations) in situational performance anxiety (stage fright); it does not treat the core psychic worry of GAD.'
+      },
+      {
+        text: 'Daily oral zolpidem 10 mg nightly for sleep latency disturbance alone without daytime therapy',
+        explanation: 'Treating the sleep symptom with a hypnotic ignores the underlying generalized anxiety disorder driving the insomnia.'
+      },
+      {
+        text: 'High-dose oral haloperidol therapy targeting acute neurochemical tranquilization',
+        explanation: 'First-generation antipsychotics are not approved for GAD and carry severe risks of extrapyramidal symptoms and tardive dyskinesia.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0181',
+    exam: 'Step 3',
+    subject: 'Geriatrics',
+    system: 'Dermatology',
+    topic: 'Hospital-Acquired Pressure Injury (Ulcer) Staging and Management',
+    subtopic: 'Stage 3 vs Stage 4 Differentiation and Pressure-Relief Offloading Protocol',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Stage and Manage Pressure Injuries (National Pressure Injury Advisory Panel - NPIAP): - STAGING CRITERIA: - STAGE 1: Intact skin with localized non-blanchable erythema; - STAGE 2: Partial-thickness loss of skin with exposed pink dermis; - STAGE 3: FULL-THICKNESS SKIN LOSS: Subcutaneous adipose tissue IS VISIBLE, but bone, tendon, or muscle ARE NOT EXPOSED; - STAGE 4: FULL-THICKNESS SKIN AND TISSUE LOSS with EXPOSED OR DIRECTLY PALPABLE FASCIA, MUSCLE, TENDON, LIGAMENT, CARTILAGE, OR BONE. - UNSTAGEABLE: Full-thickness loss obscured by slough or eschar. - ESSENTIAL MANAGEMENT: EVERY 2-HOUR REPOSITIONING, pressure-relieving air-loss mattress, optimize nutrition (protein), moist wound healing, surgical debridement for necrosis.',
+    citation: "Edsberg LE, et al. Revised National Pressure Ulcer Advisory Panel Pressure Injury Staging System: Revised Pressure Injury Staging System. J Wound Ostomy Continence Nurs. 2016;43(6):585-597. PMID: 27805978.",
+    stem:
+      'An 82-year-old man who is bedbound following a massive ischemic stroke is evaluated in a skilled nursing facility. During routine skin inspection, the wound care nurse notes a deep, open ulceration over the patient\'s left greater trochanter. Physical examination reveals an oval, 5-cm x 4-cm full-thickness skin defect. The ulcer bed reveals thick yellowish subcutaneous adipose tissue throughout, with mild granulation tissue along the margins. There is no undermining, and direct gentle probing with a sterile cotton swab reveals no exposed muscle, tendon, ligament, cartilage, or bone. There is no surrounding erythema, warmth, or purulent foul-smelling drainage. According to the National Pressure Injury Advisory Panel (NPIAP) staging system, what is the correct stage of this pressure injury, and what is the primary foundational intervention to promote healing?',
+    options: [
+      {
+        text: 'Stage 3 pressure injury; manage with pressure-relieving alternating-pressure mattress, scheduled two-hour body repositioning, and moist wound dressings',
+        explanation: 'Under the National Pressure Injury Advisory Panel (NPIAP) staging system, pressure injuries (ulcers) are classified into specific categories based on anatomical tissue depth: (1) STAGE 1: Intact skin with a localized area of non-blanchable erythema; (2) STAGE 2: Partial-thickness skin loss with exposed pink, viable dermis (often presenting as an intact or ruptured serum-filled blister); (3) STAGE 3: FULL-THICKNESS SKIN LOSS in which SUBCUTANEOUS ADIPOSE TISSUE IS VISIBLE in the ulcer bed, along with granulation tissue and epibole (rolled wound edges); however, bone, tendon, ligament, fascia, and muscle ARE NOT EXPOSED or palpable (which defines this patient\'s lesion); (4) STAGE 4: Full-thickness skin and tissue loss with EXPOSED OR DIRECTLY PALPABLE FASCIA, MUSCLE, TENDON, LIGAMENT, CARTILAGE, OR BONE (osteomyelitis is common); (5) UNSTAGEABLE: Full-thickness tissue loss in which the actual base of the ulcer is completely obscured by slough (yellow/tan) or eschar (black/brown). FOUNDATIONAL MANAGEMENT: The most essential, non-negotiable intervention for pressure injuries is COMPLETE PRESSURE RELIEF AND TISSUE OFFLOADING. This requires utilizing dynamic, alternating-pressure air mattresses or high-specification foam surfaces, scheduled strict every-2-hour lateral turning protocols, pressure-relieving pillows under calves/heels, nutritional optimization (high-protein supplementation), and moist wound healing with hydrocolloid or foam dressings.'
+      },
+      {
+        text: 'Stage 2 pressure injury; manage by keeping the wound exposed to open ambient air to dry out',
+        explanation: 'Stage 2 involves only the dermis; once subcutaneous adipose tissue is visible, it is a Stage 3 ulcer. Drying wounds in open air inhibits cell migration and prevents healing.'
+      },
+      {
+        text: 'Stage 4 pressure injury; proceed with immediate emergency radical surgical ostectomy of the trochanter',
+        explanation: 'Stage 4 requires exposed bone, muscle, or tendon; this patient has visible adipose tissue only without exposed deep fascia or bone, defining Stage 3.'
+      },
+      {
+        text: 'Unstageable pressure injury; apply chemical enzymatic debriding ointment to remove healthy adipose tissue',
+        explanation: 'The ulcer base is clearly visible and not obscured by slough or eschar, so it is fully stageable as Stage 3; enzymatic debridement is not indicated on clean granulation tissue.'
+      },
+      {
+        text: 'Deep tissue injury; initiate high-dose intravenous vancomycin and cefepime for 6 weeks',
+        explanation: 'Deep tissue injury presents as intact or non-intact skin with persistent non-blanchable deep red, maroon, or purple discoloration; antibiotics are not indicated without systemic infection.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0182',
+    exam: 'Step 3',
+    subject: 'Geriatrics',
+    system: 'Renal',
+    topic: 'Urinary Incontinence Subtypes Differentiation and Treatment',
+    subtopic: 'Urgency Incontinence Detrusor Overactivity and Beta-3 Agonist (Mirabegron)',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Differentiate Urinary Incontinence Types (AUA Guidelines): - STRESS INCONTINENCE: Urethral hypermobility or intrinsic sphincter deficiency; leakage with increased intra-abdominal pressure (coughing, laughing, sneezing, lifting). First-line: PELVIC FLOOR MUSCLE EXERCISES (Kegel); Mid-urethral sling surgery. - URGENCY INCONTINENCE: DETRUSOR OVERACTIVITY (involuntary detrusor contractions during filling). Sudden, overwhelming urge to void followed by involuntary large-volume leakage. First-line: BLADDER TRAINING. Second-line pharmacotherapy: BETA-3 ADRENERGIC AGONIST (MIRABERON, VIBEGRON - relaxes detrusor, avoids anticholinergic side effects) or Antimuscarinics (Oxybutynin/Tolterodine - caution in elderly). - OVERFLOW INCONTINENCE: High post-void residual (> 200-300 mL); continuous dribbling.',
+    citation: "Lukacz ES, et al. ACOG Practice Bulletin No. 155: Urinary Incontinence in Women. Obstet Gynecol. 2015;126(5):e66-e81. PMID: 26488730.",
+    stem:
+      'A 74-year-old woman presents to the clinic complaining of severe, embarrassing urinary leakage that has worsened over the past 6 months. She describes a sudden, intense, irresistible sensation of having to urinate that occurs without warning; before she can reach the bathroom, she experiences a large-volume involuntary gush of urine that completely saturates her clothing. She denies leakage when coughing, sneezing, laughing, or lifting groceries. Her medical history includes mild cognitive impairment and well-controlled hypertension. Her medications include amlodipine 5 mg daily. On physical examination, her abdomen is soft with no palpable bladder fullness. Pelvic examination reveals normal pelvic organ support without significant cystocele or rectocele, and a cough stress test is completely negative. Urinalysis reveals no leukocytes, nitrites, protein, or blood. A post-void residual urine volume measured via ultrasound immediately after voiding is 35 mL (normal < 50 mL). After counseling on behavioral bladder training and pelvic floor exercises, the patient requests pharmacologic therapy to control her sudden urges. Which of the following is the most appropriate second-line pharmacologic agent for this patient?',
+    options: [
+      {
+        text: 'Oral mirabegron (a beta-3 adrenergic receptor agonist)',
+        explanation: 'This 74-year-old woman presents with classic URGENCY URINARY INCONTINENCE (overactive bladder with wet symptoms). Pathophysiologically, urgency incontinence is driven by DETRUSOR OVERACTIVITY—uninhibited, involuntary contractions of the bladder detrusor smooth muscle during the filling phase. It is clinically characterized by a sudden, compelling urge to void that is difficult to defer, followed by large-volume involuntary urine leakage, with a normal post-void residual volume (< 50 mL). In contrast, STRESS INCONTINENCE is caused by urethral hypermobility or sphincter deficiency and presents with small-volume leakage during activities that elevate intra-abdominal pressure (coughing, sneezing). Following first-line behavioral bladder training, second-line pharmacotherapy is indicated. In an older adult with underlying mild cognitive impairment, MIRABERON (OR VIBEGRON) IS THE PREFERRED PHARMACOLOGIC CHOICE. Mirabegron is a selective BETA-3 ADRENERGIC RECEPTOR AGONIST that stimulates beta-3 receptors on the detrusor muscle, promoting detrusor smooth muscle relaxation and increasing bladder storage capacity. Crucially, mirabegron possesses ZERO ANTICHOLINERGIC ACTIVITY, thereby avoiding the severe central nervous system side effects (delirium, cognitive worsening, memory impairment) and peripheral side effects (constipation, dry mouth, urinary retention) associated with antimuscarinic drugs (such as oxybutynin or tolterodine), which are listed on the Beers Criteria.'
+      },
+      {
+        text: 'Oral oxybutynin chloride 5 mg three times daily',
+        explanation: 'Oxybutynin has high anticholinergic potency that crosses the blood-brain barrier, triggering acute delirium and cognitive worsening in an older patient with mild cognitive impairment.'
+      },
+      {
+        text: 'Surgical placement of a tension-free mid-urethral synthetic sling',
+        explanation: 'Mid-urethral slings treat stress urinary incontinence with urethral hypermobility; surgery does not treat detrusor overactivity and can worsen urgency incontinence.'
+      },
+      {
+        text: 'Initiation of standing intermittent self-catheterization four times daily',
+        explanation: 'Clean intermittent catheterization is indicated for overflow incontinence with high post-void residuals (> 300 mL); her post-void residual is normal at 35 mL.'
+      },
+      {
+        text: 'Oral bethanechol chloride tablets before meals',
+        explanation: 'Bethanechol is a muscarinic agonist that stimulates detrusor contraction to treat bladder hypotonia/urinary retention; it severely worsens urgency incontinence.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0183',
+    exam: 'Step 3',
+    subject: 'Geriatrics',
+    system: 'General Principles',
+    topic: 'Physical Frailty Phenotype and Multi-Component Exercise Interventions',
+    subtopic: 'Fried Frailty Criteria and Progressive Resistance Strength Training',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Frailty Syndrome in Older Adults (Fried Frailty Phenotype): - 5 VALIDATED CLINICAL CRITERIA (>= 3 defines FRAILTY; 1-2 defines PRE-FRAIL): 1. Unintentional weight loss (> 10 lbs or > 5% of body weight in past year); 2. Exhaustion (self-reported poor endurance); 3. Muscle weakness (reduced grip strength on dynamometry); 4. Slowness (slow walking speed, e.g. > 6-7 seconds to walk 15 feet); 5. Low physical activity level. - EVIDENCE-BASED INTERVENTION: MULTI-COMPONENT PHYSICAL EXERCISE (PROGRESSIVE RESISTANCE STRENGTH TRAINING + balance + aerobic exercise) COMBINED WITH NUTRITIONAL PROTEIN OPTIMIZATION (1.2-1.5 g/kg/day). Significantly reverses frailty and reduces disability.',
+    citation: "Fried LP, et al. Frailty in older adults: evidence for a phenotype. J Gerontol A Biol Sci Med Sci. 2001;56(3):M146-M156. PMID: 11253156.",
+    stem:
+      'An 81-year-old woman is brought to the geriatric clinic by her son for an evaluation of declining health. Over the past 12 months, the patient has experienced an unintentional 14-lb weight loss despite having access to adequate food. She reports feeling chronically exhausted, stating that "even folding laundry feels like a massive chore." Her son notes that she walks very slowly, takes over 8 seconds to walk down the short hallway to the bathroom, and has abandoned her daily gardening and social club activities. On physical examination, the patient appears sarcopenic with temporal wasting and decreased muscle bulk in the quadriceps. Her grip strength measured by handheld dynamometry is in the lowest 20th percentile for her age and sex, and her gait speed over a 4-meter distance is 0.65 m/s (normal > 0.8 m/s). Mini-Mental State Examination score is 28/30. Extensive laboratory evaluation, including CBC, CMP, TSH, and age-appropriate cancer screening, reveals no occult malignancy or chronic organ failure. The physician identifies that the patient meets four of the five Fried criteria for the clinical frailty syndrome. Which of the following therapeutic interventions has the strongest clinical trial evidence for improving functional physical performance and reversing frailty in this patient?',
+    options: [
+      {
+        text: 'A structured multi-component exercise program incorporating progressive resistance strength training combined with dietary protein supplementation',
+        explanation: 'This 81-year-old woman presents with the classic PHYSICAL FRAILTY PHENOTYPE, a distinct biological syndrome characterized by decreased physiological reserve and heightened vulnerability to acute external stressors. Linda Fried and colleagues validated the five cardinal criteria for the clinical frailty phenotype: (1) Unintentional weight loss (> 10 lbs or > 5% in the preceding year); (2) Self-reported exhaustion; (3) Muscle weakness (low grip strength); (4) Slowness (slow walking speed < 0.8 m/s); and (5) Low physical activity level. Meeting >= 3 criteria establishes the diagnosis of FRAILTY (1-2 criteria define pre-frailty). Frailty is driven by SARCOPENIA (age-related loss of skeletal muscle mass and quality), chronic low-grade inflammation, and neuroendocrine dysregulation. Extensive clinical trials and geriatric consensus guidelines demonstrate that the single most effective intervention to reverse frailty, enhance muscle protein synthesis, increase gait speed, and prevent functional disability is a MULTI-COMPONENT EXERCISE PROGRAM with an emphasis on PROGRESSIVE RESISTANCE STRENGTH TRAINING, combined with balance and aerobic exercises. This must be paired with DIETARY PROTEIN OPTIMIZATION (targeting 1.2 to 1.5 g/kg/day of high-quality protein) and vitamin D repletion.'
+      },
+      {
+        text: 'High-dose intramuscular testosterone cypionate injections every 2 weeks',
+        explanation: 'Anabolic androgens in frail women cause virilization, severe fluid retention, and hepatic and cardiovascular toxicity without sustained functional benefit.'
+      },
+      {
+        text: 'Prescription of oral megestrol acetate to stimulate appetite and promote fat accumulation',
+        explanation: 'Megestrol acetate promotes adipose fat gain rather than functional skeletal muscle mass, and dramatically increases risks of deep vein thrombosis and adrenal suppression.'
+      },
+      {
+        text: 'Strict bed rest and wheelchair mobility to conserve remaining metabolic energy stores',
+        explanation: 'Immobility and bed rest cause rapid, catastrophic skeletal muscle atrophy and accelerate functional decline and mortality.'
+      },
+      {
+        text: 'Oral growth hormone (somatotropin) daily injections monotherapy',
+        explanation: 'Recombinant growth hormone does not improve muscle strength in frail elderly patients and causes severe peripheral edema, carpal tunnel syndrome, and diabetes.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0184',
+    exam: 'Step 3',
+    subject: 'Geriatrics',
+    system: 'General Principles',
+    topic: 'The Prescribing Cascade in Geriatric Polypharmacy',
+    subtopic: 'Amlodipine Peripheral Edema Leading to Inappropriate Loop Diuretic Prescribing',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Recognize and Prevent the Prescribing Cascade: - DEFINITION: When an adverse drug reaction (ADR) from an existing medication is MISINTERPRETED AS A NEW MEDICAL CONDITION, leading to the INAPPROPRIATE PRESCRIPTION OF A SECOND MEDICATION to treat the side effect. - CLASSIC PRESCRIBING CASCADE EXAMPLES: 1. DIHYDROPYRIDINE CCB (Amlodipine) causes dependent PERIPHERAL EDEMA (due to precapillary arteriolar dilation, NOT volume overload) -> Clinician misinterprets edema as heart failure and prescribes FUROSEMIDE -> Furosemide causes urinary frequency, hypokalemia, and falls; 2. NSAID causes Hypertension -> Antihypertensive added; 3. Antipsychotic causes Parkinsonism -> Anticholinergic added. - MANAGEMENT: DEPRESCRIBE OR SWITCH THE OFFENDING INCITING AGENT.',
+    citation: "Rochon PA, et al. Optimizing drug treatment for elderly people: the prescribing cascade. BMJ. 1997;315(7115):1096-1099. PMID: 9366745.",
+    stem:
+      'A 76-year-old woman presents to the primary care clinic reporting dizziness upon standing and urinary frequency that awaken her three times every night. Two months ago, she was evaluated for essential hypertension, and her physician initiated oral amlodipine 10 mg daily. Four weeks ago, she returned to the clinic noting new swelling in both ankles. Her physician suspected new-onset congestive heart failure and added oral furosemide 40 mg daily. The patient now reports that the ankle swelling has not improved, but she has developed severe postural lightheadedness, cramps in her calves, and urinary urgency that caused her to slip and nearly fall on the carpet yesterday. On physical examination, her blood pressure is 118/72 mm Hg supine and drops to 94/56 mm Hg standing with a heart rate increase from 68/min to 86/min (orthostatic hypotension). Physical examination reveals 2+ bilateral pitting edema extending around both ankles without warmth or erythema. Her jugular venous pressure is 4 cm H2O (normal < 8 cm H2O), lungs are completely clear to auscultation, and heart sounds are normal without gallops or murmurs. Laboratory testing reveals: serum potassium 3.2 mEq/L (normal 3.5-5.0 mEq/L), BUN 28 mg/dL, and serum creatinine 1.1 mg/dL (baseline 0.8 mg/dL). Which of the following is the most appropriate next step in the clinical management of this patient?',
+    options: [
+      {
+        text: 'Discontinue furosemide, taper and discontinue amlodipine, and switch to an alternative antihypertensive class such as an ACE inhibitor',
+        explanation: 'This case represents the textbook manifestation of a PRESCRIBING CASCADE—a major driver of iatrogenic harm and polypharmacy in geriatric medicine. A prescribing cascade occurs when an adverse drug reaction (ADR) produced by an initial medication is misdiagnosed as a new, independent medical condition, prompting the clinician to inappropriately prescribe a second medication to treat the side effect. The sequence here is classic: (1) Amlodipine (a dihydropyridine calcium channel blocker) causes peripheral lower extremity edema in up to 10% to 20% of patients. Importantly, CCB-induced edema is PRE-CAPILLARY ARTERIOLAR VASODILATION with fluid extravasation, NOT intravascular volume overload. (2) The physician misdiagnosed the edema as heart failure and prescribed FUROSEMIDE (a loop diuretic). Because the patient had no volume overload (JVP was normal, lungs clear), furosemide failed to relieve the edema and instead produced severe intravascular volume depletion, orthostatic hypotension, hypokalemia (K 3.2), prerenal azotemia, and nocturia with high fall risk. The definitive management is to BREAK THE CASCADE: IMMEDIATELY DISCONTINUE FUROSEMIDE, discontinue or dose-reduce amlodipine, and switch to an ACE inhibitor or ARB (which preferentially dilates post-capillary venules, normalizing intracapillary pressure and eliminating CCB-induced edema).'
+      },
+      {
+        text: 'Double the dose of furosemide to 80 mg daily to aggressively diurese the refractory ankle edema',
+        explanation: 'Escalating furosemide in a volume-depleted, orthostatic patient with hypokalemia will trigger severe syncope, fatal arrhythmias, and acute kidney failure.'
+      },
+      {
+        text: 'Add oral oxybutynin 5 mg twice daily to treat the new urinary urgency and nocturia',
+        explanation: 'Adding oxybutynin initiates a third branch of the prescribing cascade, compounding polypharmacy with anticholinergic cognitive impairment and urinary retention.'
+      },
+      {
+        text: 'Initiate oral fludrocortisone acetate to treat the orthostatic hypotension while continuing all medications',
+        explanation: 'Treating diuretic-induced orthostasis with a mineralocorticoid while continuing the offending diuretic and CCB exemplifies destructive polypharmacy.'
+      },
+      {
+        text: 'Refer for immediate bilateral lower extremity venous duplex ultrasound to rule out deep vein thrombosis',
+        explanation: 'Bilateral symmetric dependent ankle edema that appeared shortly after starting high-dose amlodipine is classic drug-induced vasodilation, not bilateral DVT.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0185',
+    exam: 'Step 3',
+    subject: 'Ethics',
+    system: 'Nervous System',
+    topic: 'Driving Safety Assessment and Mandatory Reporting in Dementia',
+    subtopic: 'Impaired Behind-the-Wheel Performance and Department of Motor Vehicles Referral',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Driving Safety in Dementia (AMA & AAN Guidelines): - CLINICAL ASSESSMENT: Mild cognitive impairment / mild dementia does NOT automatically disqualify driving, but requires REGULAR CLINICAL AND FUNCTIONAL MONITORING. Severe dementia (dependence in basic ADLs, MMSE < 18, MoCA < 14): DRIVING MUST CEASE IMMEDIATELY. - HIGH-RISK WARNING SIGNS: Getting lost in familiar routes, near-miss accidents, scrapes on car, slow braking reaction time, caregiver expressing fear of riding with patient. - PHYSICIAN ACTIONS: 1. Advise patient to CEASE DRIVING; 2. Refer for FORMAL DRIVING ASSESSMENT (Occupational Therapy on-road evaluation); 3. STATUTORY REPORTING: Report to DEPARTMENT OF MOTOR VEHICLES (DMV) where state laws mandate reporting of medically impaired drivers.',
+    citation: "Iverson DJ, et al. Practice parameter: update on evaluating the safety of drivers with dementia: Report of the Quality Standards Subcommittee of the American Academy of Neurology. Neurology. 2010;74(16):1316-1324. PMID: 20385878.",
+    stem:
+      'A 77-year-old man with moderate Alzheimer dementia is brought to the clinic by his daughter for a routine follow-up. The patient has taken donepezil 10 mg daily for 2 years. During the interview, his daughter privately expresses intense terror regarding her father\'s continued driving. She reports that over the past 2 months, he has had two minor car collisions while pulling out of parking spaces, has scraped both sides of his vehicle against the garage door frame, and 2 weeks ago became completely lost while driving to his neighborhood grocery store 1 mile away, wandering for 3 hours before police found him. When the physician brings up the topic of driving, the patient becomes defensive and agitated, stating: "I have been driving for 60 years without a single speeding ticket. My daughter is exaggerating, and you cannot take away my car keys or my independence." Physical and neurological examinations reveal no focal motor deficits, but the patient scores 17/30 on the Montreal Cognitive Assessment (MoCA), demonstrating severe visuospatial and executive deficits on clock drawing and trail-making tasks. Which of the following is the most appropriate next step in the clinical and legal management of this patient\'s driving?',
+    options: [
+      {
+        text: 'Counsel the patient and family that he must immediately cease driving, facilitate alternative transportation planning, and report the medical impairment to the Department of Motor Vehicles according to state law',
+        explanation: 'Evaluating fitness to drive in older adults with progressive neurocognitive disorders (dementia) is a major ethical and public safety responsibility. Under American Academy of Neurology (AAN) and American Medical Association (AMA) guidelines: (1) While mild cognitive impairment does not automatically preclude driving, the presence of specific HIGH-RISK RED FLAGS—including getting lost in familiar neighborhoods, motor vehicle collisions, visible vehicle damage (scrapes/dents), family members expressing fear of riding as passengers, and severe visuospatial/executive dysfunction on cognitive testing (failed clock drawing, MoCA 17/30)—indicates severe, unacceptable behind-the-wheel crash risk. (2) The physician must clearly and directly advise the patient and family that THE PATIENT MUST IMMEDIATELY RETIRE FROM DRIVING to protect himself and the public. (3) The clinical team should assist the family with concrete alternative transportation planning (community rides, family driving schedules). (4) STATUTORY REPORTING: In many states, physicians have a mandatory legal duty to report patients with severe medical or cognitive driving impairments to the state Department of Motor Vehicles (DMV); in states with discretionary reporting, physicians are legally protected when reporting impaired drivers in good faith.'
+      },
+      {
+        text: 'Respect the patient\'s personal autonomy and permit him to continue driving as long as he limits his trips to daytime hours within a 2-mile radius',
+        explanation: 'Allowing a patient with moderate dementia who has already suffered two collisions and become lost in his neighborhood to continue driving exposes the public to catastrophic vehicular homicide.'
+      },
+      {
+        text: 'Prescribe oral memantine and schedule a repeat driving discussion in 12 months',
+        explanation: 'Memantine does not reverse visuospatial crash risk, and delaying driving cessation for 12 months in an actively crashing driver violates public safety duties.'
+      },
+      {
+        text: 'Advise the daughter to secretly disable her father\'s car engine without discussing the matter with the patient',
+        explanation: 'While families may occasionally disable cars as a last resort, the physician must first openly and professionally counsel the patient regarding medical disqualification and notify the DMV.'
+      },
+      {
+        text: 'Order a non-contrast brain CT scan to determine if driving can be legally permitted',
+        explanation: 'Brain CT scans evaluate structural anatomy; fitness to drive is a functional, behavioral, and cognitive determination based on clinical history and performance.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0186',
+    exam: 'Step 3',
+    subject: 'Medicine',
+    system: 'Cardiovascular',
+    topic: 'Preoperative Cardiac Risk Stratification and Functional Capacity (METs)',
+    subtopic: 'Revised Cardiac Risk Index (RCRI) and Pharmacologic Stress Testing Indications',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Preoperative Cardiac Evaluation for Non-Cardiac Surgery (ACC/AHA Guidelines): - STEP 1: Determine surgical urgency (if emergent: go to OR with monitoring). - STEP 2: Evaluate for acute active coronary syndromes (STEMI, unstable angina, decompensated HF, severe aortic stenosis: delay surgery). - STEP 3: REVISED CARDIAC RISK INDEX (RCRI - 6 predictors: high-risk surgery, ischemic heart disease, heart failure, cerebrovascular disease, insulin-treated diabetes, creatinine > 2.0 mg/dL). - STEP 4: FUNCTIONAL CAPACITY: Assess Metabolic Equivalents (METs). >= 4 METs (climbing a flight of stairs, walking briskly up a hill) = GOOD FUNCTIONAL CAPACITY -> PROCEED TO SURGERY WITHOUT TESTING. If < 4 METs or unknown AND elevated risk (RCRI >= 2): PHARMACOLOGIC STRESS TESTING (stress echo or nuclear MPI) is indicated.',
+    citation: "Fleisher LA, et al. 2014 ACC/AHA guideline on perioperative cardiovascular evaluation and management of patients undergoing noncardiac surgery: executive summary. Circulation. 2014;130(24):2215-2245. PMID: 25085962.",
+    stem:
+      'A 68-year-old man with a history of hypertension, type 2 diabetes mellitus treated with insulin, and a previous non-ST elevation myocardial infarction 4 years ago treated with a bare-metal stent presents for preoperative evaluation prior to an elective open infrarenal abdominal aortic aneurysm repair. He has had no chest pain, palpitations, orthopnea, or dyspnea at rest. He is completely sedentary, spends his entire day sitting in an armchair watching television, and cannot walk more than 20 feet without severe fatigue, rating his functional capacity as less than 2 Metabolic Equivalents (METs). His blood pressure is 132/80 mm Hg, and his resting heart rate is 68/min on metoprolol succinate. Physical examination of the heart and lungs is normal. Serum creatinine is 1.4 mg/dL. Resting 12-lead ECG shows normal sinus rhythm with pathological Q waves in the inferior leads. The patient\'s Revised Cardiac Risk Index (RCRI) score is calculated as 3 (high-risk vascular surgery, history of ischemic heart disease, and insulin-dependent diabetes), placing him at elevated perioperative cardiac risk. Which of the following is the most appropriate next step in the preoperative cardiac management of this patient?',
+    options: [
+      {
+        text: 'Perform non-invasive pharmacologic stress echocardiography or myocardial perfusion imaging prior to surgery',
+        explanation: 'The 2014 ACC/AHA Preoperative Cardiovascular Evaluation Guidelines outline a clear stepwise algorithm for patients undergoing non-cardiac surgery: (1) Surgical Urgency: Open abdominal aortic aneurysm repair is an elevated-risk elective vascular procedure (cardiac death or MI risk > 1%). (2) Clinical Risk: The patient has a Revised Cardiac Risk Index (RCRI) score of 3 (high-risk vascular surgery, ischemic heart disease, and insulin-treated diabetes), which stratifies him into the elevated cardiac risk category (predicted major cardiac event rate > 5% to 9%). (3) FUNCTIONAL CAPACITY: A patient\'s functional capacity is measured in METABOLIC EQUIVALENTS (METs). Ability to climb a flight of stairs, carry heavy groceries, or walk up a hill without stopping equals >= 4 METs. If a patient has good functional capacity (>= 4 METs), they can proceed directly to surgery without cardiac testing, even with high RCRI scores. HOWEVER, if an elevated-risk patient has POOR OR UNKNOWN FUNCTIONAL CAPACITY (< 4 METs, as in this completely sedentary patient who cannot walk 20 feet), and the test results would change management (e.g., prompting coronary revascularization or altering surgical approach), GUIDELINES RECOMMEND PREOPERATIVE PHARMACOLOGIC STRESS TESTING (dobutamine stress echocardiography or vasodilator myocardial perfusion imaging) before proceeding to surgery.'
+      },
+      {
+        text: 'Proceed directly to the operating room for aneurysm repair without any cardiac stress testing',
+        explanation: 'Proceeding directly to major open vascular surgery in a patient with poor functional capacity (< 4 METs) and an RCRI score of 3 carries an unacceptably high risk of silent perioperative myocardial infarction and death.'
+      },
+      {
+        text: 'Perform routine invasive coronary angiography with prophylactic stenting of all coronary lesions',
+        explanation: 'The CARP trial conclusively proved that routine prophylactic coronary artery revascularization prior to elective vascular surgery does not reduce perioperative death or long-term mortality.'
+      },
+      {
+        text: 'Cancel the aneurysm repair permanently and refer the patient to hospice care',
+        explanation: 'The patient has an operative AAA with no terminal illness; pre-op evaluation aims to stratify and mitigate risk, not abandon curative surgical repair.'
+      },
+      {
+        text: 'Perform an exercise treadmill stress ECG test targeting 85% of maximal predicted heart rate',
+        explanation: 'Exercise treadmill testing requires physical exertion; this patient is severely sedentary with a functional capacity < 2 METs, making exercise testing impossible (pharmacologic stress is required).'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0187',
+    exam: 'Step 3',
+    subject: 'Medicine',
+    system: 'General Principles',
+    topic: 'Perioperative Safety Protocols in Obstructive Sleep Apnea (OSA)',
+    subtopic: 'Postoperative Continuous Positive Airway Pressure (CPAP) and Opioid Sparing',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Obstructive Sleep Apnea (OSA) in the Perioperative Period (ASA Practice Guidelines): - RISKS: Postoperative sedation, neuromuscular blockade, and opioids cause pharyngeal muscle collapse, resulting in SEVERE POSTOPERATIVE HYPOXEMIA, RESPIRATORY ARREST, AND ARRHYTHMIAS (highest risk on post-op nights 1-3 when REM rebound occurs). - MANDATORY PERIOPERATIVE SAFETY BUNDLE: 1. Instruct patient to BRING THEIR OWN HOME CPAP MACHINE to the hospital; 2. RESUME CPAP IMMEDIATELY IN PACU AND ON HOSPITAL FLOOR DURING ALL SLEEP; 3. MULTIMODAL OPIOID-SPARING ANALGESIA (acetaminophen, NSAIDs, regional nerve blocks) to minimize systemic opioid respiratory depression; 4. Continuous pulse oximetry monitoring.',
+    citation: "Gross JB, et al. Practice Guidelines for the Perioperative Management of Patients with Obstructive Sleep Apnea. Anesthesiology. 2014;120(2):268-286. PMID: 24398748.",
+    stem:
+      'A 56-year-old man with severe obstructive sleep apnea (apnea-hypopnea index of 42 events/hr) successfully treated with nightly continuous positive airway pressure (CPAP) at 12 cm H2O presents for preoperative consultation prior to an elective laparoscopic total hip arthroplasty. The patient has a BMI of 38 kg/m² and well-managed hypertension on lisinopril. He reports that without his CPAP machine, he experiences severe snoring, choking arousals, and suffocating headaches. He asks what steps will be taken to ensure he does not suffer airway complications following surgery. According to the American Society of Anesthesiologists (ASA) practice guidelines, which of the following is the most appropriate perioperative management protocol for this patient?',
+    options: [
+      {
+        text: 'Instruct the patient to bring his home CPAP machine to the hospital, resume CPAP immediately postoperatively during all sleep, and utilize multimodal opioid-sparing analgesia',
+        explanation: 'Patients with obstructive sleep apnea (OSA) have an exceptionally high incidence of perioperative complications—including acute airway obstruction, desaturation, difficult reintubation, cardiac arrhythmias, and postoperative respiratory arrest. General anesthesia, neuromuscular relaxants, and systemic opioids decrease pharyngeal dilator muscle tone and blunt central ventilatory responses to carbon dioxide and hypoxemia. Furthermore, suppression of REM sleep during surgery leads to a profound "REM rebound" on postoperative nights 2 and 3, precipitating severe sleep-disordered breathing. The American Society of Anesthesiologists (ASA) guidelines establish a comprehensive perioperative management bundle: (1) Instruct the patient to BRING HIS OWN CPAP MACHINE AND MASK to the hospital on the morning of surgery; (2) RESUME CPAP IMMEDIATELY in the post-anesthesia care unit (PACU) and whenever the patient is asleep on the inpatient ward; (3) Employ MULTIMODAL OPIOID-SPARING ANALGESIA (such as peripheral neuraxial/regional nerve blocks, scheduled acetaminophen, and NSAIDs) to minimize systemic intravenous opioids; and (4) Continuous postoperative pulse oximetry and capnography monitoring.'
+      },
+      {
+        text: 'Withhold CPAP for the first 48 hours postoperatively to avoid introducing positive intrathoracic pressure on fresh surgical wounds',
+        explanation: 'Withholding CPAP in severe OSA exposes the patient to severe upper airway collapse, hypercapnic respiratory arrest, and postoperative mortality.'
+      },
+      {
+        text: 'Prescribe high-dose intravenous patient-controlled analgesia (PCA) hydromorphone without basal limits',
+        explanation: 'Unmonitored high-dose opioid PCA in severe OSA is a leading root cause of fatal postoperative opioid-induced respiratory depression.'
+      },
+      {
+        text: 'Maintain the patient in a completely flat supine position for 24 hours postoperatively',
+        explanation: 'The supine position causes gravity-dependent retrodisplacement of the tongue and palate, worsening upper airway collapse; elevating the head of the bed to 30-45 degrees improves airway patency.'
+      },
+      {
+        text: 'Perform an emergency tracheostomy prior to induction of general anesthesia',
+        explanation: 'Tracheostomy is an invasive surgical airway reserved for non-intubatable anatomical obstructions, not routine elective surgery in patients with manageable OSA.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0188',
+    exam: 'Step 3',
+    subject: 'Medicine',
+    system: 'Musculoskeletal',
+    topic: 'Malignant Hyperthermia Intraoperative Recognition and Dantrolene Reversal',
+    subtopic: 'Ryanodine Receptor (RYR1) Defect, Sudden End-Tidal CO2 Surge, and Dantrolene',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Malignant Hyperthermia (MH - MHAUS Guidelines): - TRIGGERING AGENTS: VOLATILE INHALATIONAL ANESTHETICS (Halothane, Sevoflurane, Desflurane, Isoflurane) OR DEPOLARIZING NEUROMUSCULAR BLOCKERS (SUCCINYLCHOLINE) in patients with mutations in the RYANODINE RECEPTOR (RYR1) gene. - PATHOPHYSIOLOGY: Massive, uncontrolled release of calcium from the sarcoplasmic reticulum into skeletal myoplasm -> hypermetabolic storm. - EARLIEST & MOST SENSITIVE CLINICAL SIGN: ABRUPT, SUSTAINED RISE IN END-TIDAL CO2 (EtCO2) refractory to hyperventilation, accompanied by masseter muscle spasm/trismus and sinus tachycardia. Hyperthermia (> 40-42°C) is a LATE finding. - IMMEDIATE EMERGENCY ACTIONS: 1. STOP TRIGGERING AGENTS IMMEDIATELY; 2. Hyperventilate with 100% O2; 3. ADMINISTER INTRAVENOUS DANTROLENE (blocks RYR1 calcium release); 4. Cool patient and treat hyperkalemia.',
+    citation: "Larach MG, et al. A conscious approach to malignant hyperthermia. Anesthesiology. 2019;131(6):1346-1358. PMID: 31693543.",
+    stem:
+      'A 19-year-old previously healthy man undergoes general anesthesia for an emergency open reduction and internal fixation of a fractured femur. Anesthesia is induced with intravenous propofol and succinylcholine, and maintained with inhaled sevoflurane and nitrous oxide. Twenty minutes into the surgical procedure, the anesthesiologist notes that the patient\'s end-tidal carbon dioxide (EtCO2) has risen acutely from 38 mm Hg to 78 mm Hg, despite increasing the mechanical ventilator minute ventilation by 50%. The patient\'s heart rate surges to 142/min with frequent ventricular premature contractions, and his blood pressure rises to 174/102 mm Hg. Physical examination reveals generalized muscle rigidity across all four extremities, and the patient\'s jaw is rigidly clenched. Over the next 5 minutes, his core body temperature rises rapidly from 37.0°C (98.6°F) to 39.8°C (103.6°F). Arterial blood gas demonstrates a severe mixed respiratory and metabolic acidosis: pH 7.12, PaCO2 72 mm Hg, PaO2 110 mm Hg, and serum bicarbonate 14 mEq/L. Serum potassium is 6.8 mEq/L. Which of the following is the most appropriate immediate therapeutic action?',
+    options: [
+      {
+        text: 'Immediately discontinue sevoflurane, hyperventilate with 100% oxygen, and administer intravenous dantrolene sodium',
+        explanation: 'This patient is experiencing acute, fulminant intraoperative MALIGNANT HYPERTHERMIA (MH), a pharmacogenetic hypermetabolic crisis of skeletal muscle. In individuals with autosomal dominant mutations in the skeletal muscle ryanodine receptor gene (RYR1, located on chromosome 19) or CACNA1S, exposure to VOLATILE INHALATIONAL ANESTHETICS (such as sevoflurane, desflurane, isoflurane) or the depolarizing muscle relaxant SUCCINYLCHOLINE triggers massive, uncontrolled calcium release from the sarcoplasmic reticulum into the myoplasm. This drives continuous, uncontrolled actin-myosin cross-bridging, causing: (1) EARLIEST AND MOST SENSITIVE SIGN: An abrupt, massive surge in end-tidal CO2 (EtCO2) resulting from runaway cellular metabolism, accompanied by sinus tachycardia; (2) Skeletal muscle rigidity (masseter spasm / trismus); (3) Mixed respiratory and lactic acidosis; (4) Severe hyperkalemia and rhabdomyolysis; and (5) Marked hyperthermia (which is a late finding, with temperatures rising up to 1°C every 5 minutes). The Malignant Hyperthermia Association of the United States (MHAUS) protocol mandates immediate action: (1) IMMEDIATELY STOP ALL VOLATILE ANESTHETICS AND SUCCINYLCHOLINE; (2) Hyperventilate with 100% oxygen at high gas flows; and (3) ADMINISTER INTRAVENOUS DANTROLENE SODIUM (2.5 mg/kg IV push, repeated until rigidity and EtCO2 normalize). Dantrolene directly binds to the RYR1 channel, shutting off calcium efflux from the sarcoplasmic reticulum.'
+      },
+      {
+        text: 'Administer an additional dose of intravenous succinylcholine to break the masseter muscle rigidity',
+        explanation: 'Succinylcholine is one of the primary triggering agents of malignant hyperthermia; administering more will accelerate fatal cardiac arrest and rhabdomyolysis.'
+      },
+      {
+        text: 'Switch from sevoflurane to inhaled desflurane and continue the surgical procedure',
+        explanation: 'All potent halogenated inhalational anesthetics (including desflurane and isoflurane) trigger malignant hyperthermia; they must be completely eliminated.'
+      },
+      {
+        text: 'Administer high-dose intravenous physostigmine to overcome central anticholinergic toxicity',
+        explanation: 'Physostigmine treats anticholinergic toxicity; it has zero efficacy in malignant hyperthermia and precipitates fatal asystole.'
+      },
+      {
+        text: 'Apply surface cooling ice packs and observe for 30 minutes before considering medication',
+        explanation: 'Malignant hyperthermia is rapidly fatal (mortality > 70-80% without dantrolene); delaying IV dantrolene for surface cooling leads to cardiac arrest.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0189',
+    exam: 'Step 3',
+    subject: 'Medicine',
+    system: 'General Principles',
+    topic: 'Equianalgesic Opioid Conversion and Cross-Tolerance Reduction',
+    subtopic: 'Calculating Morphine Milligram Equivalents (MME) and 25-50% Incomplete Cross-Tolerance Dose Reduction',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Calculate Equianalgesic Opioid Conversion (Palliative Medicine Standard): - STANDARD ORAL CONVERSION FACTORS TO ORAL MORPHINE: Oral Morphine = 1.0; Oral Oxycodone = 1.5 (e.g., 20 mg oxycodone = 30 mg oral morphine); Oral Hydromorphone = 4.0; Oral Codeine = 0.15. - STEPWISE CONVERSION METHOD: 1. Calculate total 24-hour baseline opioid dose; 2. Convert to total daily oral Morphine Milligram Equivalents (MME); 3. Calculate equianalgesic dose of the new opioid; 4. MANDATORY SAFETY REDUCTION FOR INCOMPLETE CROSS-TOLERANCE: REDUCE THE CALCULATED EQUIONALGESIC DOSE BY 25% TO 50% to prevent fatal respiratory depression; 5. Divide into scheduled doses and provide 10-15% for breakthrough pain.',
+    citation: "Treillet E, et al. Practical clinical tool for equianalgesic calculations of opioids. BMJ Support Palliat Care. 2018;8(4):450-456. PMID: 28947547.",
+    stem:
+      'A 61-year-old woman with metastatic breast cancer to the spine is admitted to the palliative oncology ward for management of intractable bone pain and severe nausea. She has been taking oral oxycodone 20 mg every 4 hours consistently for the past 3 weeks (total daily dose: 120 mg of oral oxycodone). However, she has developed persistent oxycodone-induced nausea and vomiting and can no longer tolerate oral pills. The palliative care physician decides to rotate her to a continuous intravenous infusion of hydromorphone (Dilaudid) for pain control. Standard equianalgesic tables establish the following ratios: 1 mg of oral oxycodone = 1.5 mg of oral morphine; 30 mg of oral morphine = 1.5 mg of intravenous hydromorphone (a 20:1 conversion ratio from oral morphine to IV hydromorphone). After calculating the exact equianalgesic dose of intravenous hydromorphone, which of the following dosage adjustments must be applied to prevent accidental fatal opioid overdose resulting from incomplete cross-tolerance?',
+    options: [
+      {
+        text: 'Reduce the calculated equianalgesic dose by 25% to 50% to account for incomplete cross-tolerance between different opioid agonists',
+        explanation: 'Opioid rotation (switching from one opioid agonist to another) is a routine palliative oncology technique used to improve analgesia or overcome refractory adverse effects (such as severe nausea or neurotoxicity). Calculating equianalgesic conversions follows a strict safety protocol: (1) Calculate Total Baseline Dose: 20 mg oral oxycodone x 6 doses/day = 120 mg/day oral oxycodone. (2) Convert to Oral Morphine Milligram Equivalents (MME): 120 mg oxycodone x 1.5 = 180 mg oral morphine equivalents/day. (3) Convert to Target Opioid (IV Hydromorphone): Oral morphine to IV hydromorphone ratio is 20:1; 180 mg / 20 = 9 mg IV hydromorphone per 24 hours. (4) MANDATORY SAFETY ADJUSTMENT: THE CALCULATED EQUIANALGESIC DOSE MUST BE REDUCED BY 25% TO 50% TO ACCOUNT FOR INCOMPLETE CROSS-TOLERANCE. Pathophysiologically, different opioid molecules interact with distinct subpopulations and conformations of mu-opioid receptor splice variants. A patient who has developed tolerance to oxycodone will not be fully tolerant to hydromorphone. Administering 100% of the calculated equianalgesic dose exposes the patient to an unexpected opioid-naive response, triggering fatal respiratory depression. Therefore, the starting dose should be reduced by 25% to 50% (starting at ~4.5 to 6.7 mg IV hydromorphone per 24 hours) with rescue doses available for breakthrough pain.'
+      },
+      {
+        text: 'Administer 100% of the calculated equianalgesic dose without any reduction to avoid an acute pain crisis',
+        explanation: 'Failing to reduce the dose for incomplete cross-tolerance causes massive opioid over-sedation and fatal respiratory arrest.'
+      },
+      {
+        text: 'Increase the calculated equianalgesic dose by 25% to 50% because intravenous administration has higher first-pass clearance',
+        explanation: 'Intravenous administration completely bypasses first-pass clearance, making bioavailability 100%; increasing the dose is lethal.'
+      },
+      {
+        text: 'Double the calculated dose and administer a continuous naloxone infusion simultaneously',
+        explanation: 'Simultaneous opioid escalation and naloxone infusion causes erratic analgesia and violent withdrawal.'
+      },
+      {
+        text: 'Reduce the dose by exactly 95% and titrate upward by 1 mg daily over 3 weeks',
+        explanation: 'A 95% dose reduction induces severe opioid withdrawal and unmanageable oncologic bone pain crisis; 25% to 50% is the universal guideline-directed safety standard.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0190',
+    exam: 'Step 3',
+    subject: 'Ethics',
+    system: 'General Principles',
+    topic: 'Palliative Sedation for Intractable Terminal Suffering',
+    subtopic: 'Refractory Symptoms at End of Life and Proportional Titration Protocols',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Apply Palliative Sedation Protocols for Refractory End-of-Life Suffering (AAHPM Guidelines): - DEFINITION: The continuous infusion of a sedative medication (typically MIDAZOLAM or PROPOFOL) titrated to reduce consciousness to the minimum level necessary to relieve REFRACTORY, INTRACTABLE PHYSICAL SUFFERING. - RIGOROUS ETHICAL & CLINICAL PREREQUISITES: 1. Terminal illness with life expectancy measured in hours to days; 2. All standard medical, palliative, and interdisciplinary therapies have BEEN EXHAUSTED AND FAILED; 3. Suffering is REFRACTORY (e.g., severe asphyxiating dyspnea, massive airway hemorrhage, agitated terminal delirium); 4. PROPORTIONALITY: Sedation is titrated to relieve suffering, NEVER with the intent to cause or hasten death (guided by Principle of Double Effect).',
+    citation: "Cherny NI, et al. European Association for Palliative Care (EAPC) recommended framework for the use of palliative sedation in palliative care. Palliat Med. 2009;23(7):581-593. PMID: 19417145.",
+    stem:
+      'A 64-year-old man with terminal, unresectable squamous cell carcinoma of the larynx is admitted to an inpatient hospice palliative care unit in his final days of life. Over the past 12 hours, the tumor has eroded into the adjacent hypopharynx and soft tissues of the neck, causing catastrophic airway obstruction, severe stridor, and agonizing terminal air hunger. Despite maximal escalating doses of intravenous morphine, intravenous lorazepam, high-flow humidified oxygen, and positioning, the patient remains in extreme, unbearable physical agony, gasping for air, sweating profusely, and clutching his throat in terror. The palliative care team convenes an urgent interdisciplinary conference to consider continuous deep palliative sedation. Which of the following conditions is an absolute clinical and ethical prerequisite for initiating continuous palliative sedation in this patient?',
+    options: [
+      {
+        text: 'The presence of severe, intractable physical suffering that is completely refractory to all standard expert palliative therapies in an actively dying patient',
+        explanation: 'PALLIATIVE SEDATION (also termed proportional palliative sedation or terminal sedation) is an established, specialized medical intervention of last resort in palliative medicine. Under guidelines from the American Academy of Hospice and Palliative Medicine (AAHPM) and the European Association for Palliative Care (EAPC), the ethical and clinical prerequisites for initiating continuous deep palliative sedation are rigorous: (1) REFRACTORY PHYSICAL SUFFERING: The patient must be experiencing severe, intolerable symptoms (such as suffocating terminal dyspnea, massive catastrophic hemorrhage, or refractory agitated delirium) for which all conventional, aggressive palliative interventions have been thoroughly trialed and have FAILED, or where no alternative therapies exist that can relieve suffering without intolerable adverse effects; (2) TERMINAL PROGNOSIS: The patient is actively dying with a prognosis measured in hours to a few days; (3) PROPORTIONALITY: The sedative medication (most commonly a continuous intravenous or subcutaneous infusion of MIDAZOLAM) is carefully titrated to the MINIMUM LEVEL OF CONSCIOUSNESS REDUCTION NECESSARY TO RELIEVE SUFFERING; and (4) INTENT: Under the ethical Principle of Double Effect, the sole clinical intent is symptom relief, NEVER to hasten death. Palliative sedation is legally and ethically distinct from physician-assisted suicide or euthanasia.'
+      },
+      {
+        text: 'A formal judicial court order signed by a probate judge authorizing the withdrawal of consciousness',
+        explanation: 'Palliative sedation is a clinical medical intervention governed by medical consent and surrogate standards; court orders are not required.'
+      },
+      {
+        text: 'The patient must have a projected life expectancy exceeding at least 6 months',
+        explanation: 'Continuous deep palliative sedation is reserved exclusively for actively dying patients with life expectancy of hours to days, not months.'
+      },
+      {
+        text: 'The primary clinical intention of the sedative infusion must be to terminate the patient\'s life within 2 hours',
+        explanation: 'Intentionally administering medication to terminate life defines active euthanasia, which is illegal in the United States and directly opposed to palliative sedation.'
+      },
+      {
+        text: 'All intravenous hydration and artificial nutrition must be continued at maximum rates during sedation',
+        explanation: 'Artificial hydration in actively dying patients increases pulmonary secretions, worsens air hunger, and causes peripheral edema, and is typically withheld.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0191',
+    exam: 'Step 3',
+    subject: 'Medicine',
+    system: 'General Principles',
+    topic: 'Terminal Secretions ("Death Rattle") Palliative Management',
+    subtopic: 'Anticholinergic Therapy with Glycopyrrolate vs Oropharyngeal Suctioning Trauma',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Terminal Respiratory Secretions ("Death Rattle" in Actively Dying Patients): - PATHOPHYSIOLOGY: Loss of swallowing reflex and pooling of secretions in hypopharynx in comatose/moribund patients during the final 24-48 hours of life. - CRITICAL CLINICAL EDUCATION: Reassure family that the patient is comatose, has no perception of choking, and is NOT IN DISTRESS. - NON-PHARMACOLOGIC: REPOSITION PATIENT to lateral decubitus or semi-prone position to promote postural drainage. - STRICTLY AVOID DEEP SUCTIONING: Suction catheters cause gagging, coughing, mucosal trauma, and severe agitation. - PHARMACOTHERAPY: ANTICHOLINERGIC AGENTS: SUBCUTANEOUS OR IV GLYCOPYRROLATE (preferred because quaternary amine DOES NOT cross blood-brain barrier, avoiding central anticholinergic delirium) or Scopolamine.',
+    citation: "Wildiers H, et al. Atropine, scopolamine, and glycopyrrolate for the treatment of death rattle: a systematic review. J Pain Symptom Manage. 2002;23(4):310-317. PMID: 11997200.",
+    stem:
+      'An 84-year-old woman with end-stage Alzheimer dementia is admitted to an inpatient hospice comfort care unit in the final stages of dying. She is unresponsive, bedbound, and comatose. Over the past 4 hours, she has developed coarse, loud, oscillating, gurgling respiratory sounds with each breath ("death rattle"). Her breathing is shallow at 14/min, and her pulse oximetry is 86% on ambient air. The patient appears completely relaxed and comfortable, showing no facial grimacing, tachycardia, or retractions. However, her adult children at the bedside are in extreme emotional distress, weeping and pleading with the physician: "Please do something! She is choking and drowning in her own spit! Can you put a tube down her throat to suck all that fluid out?" Which of the following is the most appropriate next step in the clinical and compassionate management of this situation?',
+    options: [
+      {
+        text: 'Reassure the family that the patient is not experiencing distress or choking, reposition the patient into a lateral decubitus position, and administer subcutaneous glycopyrrolate',
+        explanation: 'TERMINAL RESPIRATORY SECRETIONS (frequently termed the "death rattle") occur in up to 50% to 90% of dying patients during the final 24 to 48 hours of life. It results from the loss of the pharyngeal swallowing reflex, allowing normal salivary and tracheobronchial secretions to pool in the posterior oropharynx and hypopharynx, oscillating with inspiratory and expiratory airflow. Although the loud gurgling sound is profoundly distressing to bedside family members (who interpret it as terrifying choking or drowning), comatose dying patients lack awareness and DO NOT EXPERIENCE CHOKING OR RESPIRATORY DISTRESS. The standard palliative management incorporates three essential steps: (1) COMPASSIONATE FAMILY EDUCATION AND REASSURANCE: Directly explain the physiology, assuring the family that their loved one is comfortable, peaceful, and unaware of the sound; (2) NON-PHARMACOLOGIC REPOSITIONING: Turn the patient onto their side (lateral decubitus) or elevate the head of the bed to allow gravitational drainage of secretions; and (3) ANTICHOLINERGIC PHARMACOTHERAPY: Administer subcutaneous or intravenous GLYCOPYRROLATE (or hyoscyamine/scopolamine). Glycopyrrolate is specifically preferred because it is a quaternary ammonium compound that DOES NOT CROSS THE BLOOD-BRAIN BARRIER, thereby avoiding the risk of central anticholinergic agitation or worsening delirium. CRITICAL NEGATIVE RULE: DEEP OROPHARYNGEAL SUCTIONING IS STRICTLY CONTRAINDICATED because it triggers violent gagging, vomiting, mucosal bleeding, laryngospasm, and agitation without clearing deep secretions.'
+      },
+      {
+        text: 'Perform aggressive deep endotracheal suctioning using a rigid Yankauer catheter every 15 minutes',
+        explanation: 'Deep suctioning is traumatic, induces gagging, coughing, and mucosal bleeding, and severely traumatizes both the patient and family without clearing hypopharyngeal pooling.'
+      },
+      {
+        text: 'Perform emergency endotracheal intubation to protect the airway from pulmonary aspiration',
+        explanation: 'Invasive endotracheal intubation in an actively dying comfort-care hospice patient violates advance directives and inflicts painful, futile harm.'
+      },
+      {
+        text: 'Administer an intravenous bolus of furosemide 80 mg to dry up the bronchial secretions',
+        explanation: 'Terminal secretions are salivary pools, not hydrostatic pulmonary edema; loop diuretics cause volume depletion and do not suppress salivary production.'
+      },
+      {
+        text: 'Initiate continuous positive airway pressure (CPAP) via a tight-fitting full-face mask',
+        explanation: 'Applying positive pressure masks in an actively dying patient causes discomfort, skin breakdown, gastric distention, and prevents family from holding her.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0192',
+    exam: 'Step 3',
+    subject: 'Medicine',
+    system: 'Gastrointestinal',
+    topic: 'Immunization Recommendations in Chronic Liver Disease and Cirrhosis',
+    subtopic: 'Hepatitis A, Hepatitis B, Pneumococcal, and Shingrix Vaccines',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Vaccinations in Chronic Liver Disease / Cirrhosis (CDC ACIP Guidelines): - CRITICAL VULNERABILITY: Patients with cirrhosis who acquire acute viral hepatitis have a catastrophic > 30-50% risk of FULMINANT HEPATIC FAILURE AND DEATH (acute-on-chronic liver failure). - MANDATORY IMMUNIZATIONS: 1. HEPATITIS A VACCINE (2-dose series if non-immune); 2. HEPATITIS B VACCINE (2- or 3-dose series if non-immune); 3. PNEUMOCOCCAL VACCINE (PCV20 alone OR PCV15 followed by PPSV23 >= 1 year later); 4. INFLUENZA (annual inactivated); 5. COVID-19; 6. Tdap (every 10 years); 7. RECOMBINANT ZOSTER VACCINE (Shingrix - 2 doses at age >= 50).',
+    citation: "Weng MK, et al. Advisory Committee on Immunization Practices Recommended Immunization Schedule for Adults Aged 19 Years or Older - United States, 2023. MMWR Morb Mortal Wkly Rep. 2023;72(6):141-144. PMID: 36757870.",
+    stem:
+      'A 52-year-old man with newly diagnosed compensated cirrhosis secondary to non-alcoholic steatohepatitis (MASH / NASH) visits his primary care physician for comprehensive health maintenance. He feels well and has no history of jaundice, ascites, or gastrointestinal bleeding. Physical examination reveals spider angiomas and a firm liver edge. Laboratory evaluation demonstrates total bilirubin 1.0 mg/dL, albumin 4.0 g/dL, INR 1.1, and platelet count 130,000/mm³. Serologic testing demonstrates: Hepatitis A virus total antibody (anti-HAV) negative; Hepatitis B surface antigen (HBsAg) negative, Hepatitis B surface antibody (anti-HBs) negative, and Hepatitis B core antibody (anti-HBc) negative. He received all standard childhood vaccinations but has not received any adult immunizations. Which of the following vaccine combinations is most urgently indicated for this patient to prevent acute-on-chronic hepatic decompensation?',
+    options: [
+      {
+        text: 'Hepatitis A vaccine series, Hepatitis B vaccine series, and 20-valent pneumococcal conjugate vaccine (PCV20)',
+        explanation: 'Patients with chronic liver disease (CLD) and cirrhosis are at grave risk for life-threatening complications from preventable infectious diseases. Under the CDC Advisory Committee on Immunization Practices (ACIP) guidelines, patients with CLD require a dedicated immunization bundle: (1) HEPATITIS A AND HEPATITIS B VACCINES: Superinfection with acute Hepatitis A or Hepatitis B virus in a patient with pre-existing cirrhosis carries a catastrophic > 30% to 50% mortality rate due to acute-on-chronic liver failure (fulminant hepatic necrosis). Because his serologies confirm non-immunity (negative anti-HAV and negative anti-HBs/anti-HBc), immediate vaccination against both HAV (2-dose series) and HBV (2- or 3-dose series) is mandatory; (2) PNEUMOCOCCAL VACCINE: Cirrhosis induces relative immunodeficiency and impaired splenic bacterial clearance, predisposing to invasive pneumococcal bacteremia and spontaneous bacterial peritonitis. Adults with CLD aged 19 to 64 should receive the 20-valent pneumococcal conjugate vaccine (PCV20) alone, or PCV15 followed by PPSV23; and (3) Additional vaccines include annual influenza, COVID-19, and the 2-dose recombinant zoster vaccine (Shingrix, recommended for all adults aged >= 50 years).'
+      },
+      {
+        text: 'Oral live-attenuated polio vaccine and oral cholera vaccine',
+        explanation: 'Oral polio vaccine is no longer used in the United States, and cholera vaccine is indicated only for travel to active epidemic regions.'
+      },
+      {
+        text: 'Vaccinations are contraindicated in cirrhosis because immune dysfunction prevents antibody generation',
+        explanation: 'While cirrhosis dampens vaccine response slightly, immunizations provide vital protective immunity and are safe and strongly indicated.'
+      },
+      {
+        text: 'Hepatitis C prophylactic vaccination and annual rabies vaccination',
+        explanation: 'There is no vaccine currently available against hepatitis C virus, and rabies vaccine is given only for high-risk animal exposures.'
+      },
+      {
+        text: 'Yellow fever live virus vaccine and bacillus Calmette-Guérin (BCG) vaccine',
+        explanation: 'Yellow fever vaccine is indicated only for travel to endemic equatorial zones, and BCG is not routinely given to adults in the US.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0193',
+    exam: 'Step 3',
+    subject: 'Medicine',
+    system: 'Hematology',
+    topic: 'Anatomic Asplenia Infection Prevention and Emergency Antibiotics',
+    subtopic: 'Encapsulated Organisms, Stand-By Amoxicillin-Clavulanate, and Post-Splenectomy Vaccines',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Anatomic / Functional Asplenia (Post-Splenectomy / Sickle Cell Disease): - OVERWHELMING POST-SPLENECTOMY INFECTION (OPSI): Spleen is essential for clearing opsonized encapsulated bacteria (STREPTOCOCCUS PNEUMONIAE [most common, > 50-70%], NEISSERIA MENINGITIDIS, HAEMOPHILUS INFLUENZAE TYPE B). Rapid progression from mild fever to septic shock and death within hours. - PREVENTIVE BUNDLE: 1. VACCINATIONS: Pneumococcal (PCV20), Meningococcal (MenACWY + MenB), and Hib; 2. EMERGENCY STAND-BY ANTIBIOTICS: Provide patient with an emergency prescription of oral AMOXICILLIN-CLAVULANATE (or levofloxacin) with explicit instructions to TAKE THE FIRST DOSE IMMEDIATELY AT ONSET OF ANY FEVER (>= 38.0°C / 100.4°F) while en route to ED; 3. Medical alert bracelet.',
+    citation: "Rubin LG, et al. 2013 IDSA clinical practice guideline for vaccination of the immunocompromised host. Clin Infect Dis. 2014;58(3):e44-e100. PMID: 24311479.",
+    stem:
+      'A 29-year-old man visits the clinic for a health maintenance examination 6 months following an emergency total splenectomy performed after a grade V splenic laceration sustained in a motor vehicle crash. He has recovered fully and has returned to his job as an electrical technician. He received his post-splenectomy booster immunizations against Streptococcus pneumoniae, Neisseria meningitidis, and Haemophilus influenzae type b at his 2-week postoperative visit. On physical examination, the patient is healthy and afebrile with a well-healed midline laparotomy scar. Peripheral blood smear reveals prominent Howell-Jolly bodies within erythrocytes. The patient asks what he should do if he develops a sudden high fever or chills in the future. In addition to recommending a medical alert bracelet, which of the following is the most appropriate management instruction for this asplenic patient?',
+    options: [
+      {
+        text: 'Provide a stand-by emergency prescription for oral amoxicillin-clavulanate (or levofloxacin) with instructions to take the first dose immediately upon developing a fever and seek urgent medical care',
+        explanation: 'Patients with anatomic asplenia (post-splenectomy) or functional asplenia (sickle cell disease) are at lifelong risk for OVERWHELMING POST-SPLENECTOMY INFECTION (OPSI). The spleen is the body\'s premier reticuloendothelial lymphoid filter, responsible for phagocytosing poorly opsonized, encapsulated bacterial pathogens and producing IgM antibodies. The predominant pathogens responsible for OPSI are encapsulated organisms: STREPTOCOCCUS PNEUMONIAE (accounting for > 50% to 70% of cases), NEISSERIA MENINGITIDIS, and HAEMOPHILUS INFLUENZAE TYPE B. OPSI is a catastrophic medical emergency that can progress from mild flu-like symptoms and fever to fulminant septic shock, purpura fulminans, disseminated intravascular coagulation, and death in as little as 12 to 24 hours (mortality rate approaches 50%). Guidelines from the Infectious Diseases Society of America (IDSA) and CDC mandate: (1) Comprehensive vaccination against pneumococcus, meningococcus (both ACWY and MenB), and Hib; (2) Wearing a medical alert bracelet; and (3) Providing the patient with a STAND-BY EMERGENCY ANTIMICROBIAL PRESCRIPTION—specifically high-dose oral AMOXICILLIN-CLAVULANATE, cefuroxime, or a respiratory fluoroquinolone (such as levofloxacin or moxifloxacin for penicillin-allergic patients). The patient must be instructed to INITIATE THE FIRST DOSE IMMEDIATELY UPON THE ONSET OF ANY UNEXPLAINED FEVER (>= 38.0°C / 100.4°F) OR RIGORS, AND PROCEED IMMEDIATELY TO THE NEAREST EMERGENCY DEPARTMENT.'
+      },
+      {
+        text: 'Instruct the patient that since he has completed his vaccinations, fevers can be managed at home with acetaminophen and observed for 48 hours',
+        explanation: 'Vaccines significantly reduce, but DO NOT eliminate, OPSI risk; waiting 48 hours with a fever in an asplenic patient results in fatal septic shock within hours.'
+      },
+      {
+        text: 'Prescribe lifelong daily oral ciprofloxacin prophylaxis for all asplenic adults',
+        explanation: 'Lifelong daily antibiotic prophylaxis is utilized primarily in young children with sickle cell disease (penicillin until age 5); routine daily antibiotics in adults breed drug resistance.'
+      },
+      {
+        text: 'Advise the patient to avoid all air travel and outdoor camping permanently',
+        explanation: 'Asplenic patients can travel safely with proper counseling, malaria precautions, tick avoidance (Babesia), and stand-by emergency antibiotics.'
+      },
+      {
+        text: 'Perform annual bone marrow biopsies to monitor residual splenic macrophage function',
+        explanation: 'Bone marrow biopsy is an invasive test with no clinical role in monitoring post-splenectomy infectious risk.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0194',
+    exam: 'Step 3',
+    subject: 'Medicine',
+    system: 'Respiratory',
+    topic: 'Latent Tuberculosis Infection (LTBI) Preferred Short-Course Regimens',
+    subtopic: 'Rifamycin-Based Regimens (3HP / 4R) vs 9 Months of Isoniazid',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Latent Tuberculosis Infection (LTBI - CDC 2020 Guidelines): - PREFERRED SHORT-COURSE RIFAMYCIN-BASED REGIMENS (superior completion rates, equal efficacy, and LOWER HEPATOTOXICITY compared to 9 months of isoniazid): 1. 3 MONTHS OF ONCE-WEEKLY ISONIAZID PLUS RIFAPENTINE (3HP) taken with directly observed or self-administered therapy; 2. 4 MONTHS OF DAILY RIFAMPIN (4R); 3. 3 MONTHS OF DAILY ISONIAZID PLUS RIFAMPIN (3HR). - ALTERNATIVE (when rifamycins cannot be used, e.g. severe drug-drug interactions with HIV protease inhibitors): 6 or 9 MONTHS OF DAILY ISONIAZID (6H or 9H) with pyridoxine (vitamin B6).',
+    citation: "Sterling TR, et al. Guidelines for the Treatment of Latent Tuberculosis Infection: Recommendations from the National Tuberculosis Controllers Association and CDC, 2020. MMWR Recomm Rep. 2020;69(1):1-11. PMID: 32053584.",
+    stem:
+      'A 34-year-old nurse undergoes routine annual occupational health screening. An interferon-gamma release assay (QuantiFERON-TB Gold Plus) is positive. She is completely asymptomatic, reporting no fever, night sweats, cough, hemoptysis, or weight loss. Her past medical history is unremarkable, and she takes no medications. A posteroanterior and lateral chest radiograph is completely normal, with no infiltrates, cavitation, or hilar lymphadenopathy, establishing the diagnosis of latent tuberculosis infection (LTBI). Baseline liver biochemistries reveal normal transaminases and bilirubin. The occupational health physician discusses treatment options to prevent future reactivation tuberculosis. According to the updated 2020 CDC and National Tuberculosis Controllers Association guidelines, which of the following represents the preferred first-line antimicrobial regimen for this patient?',
+    options: [
+      {
+        text: 'A 3-month course of once-weekly oral isoniazid plus rifapentine (or 4 months of daily oral rifampin)',
+        explanation: 'In 2020, the Centers for Disease Control and Prevention (CDC) and the National Tuberculosis Controllers Association updated the clinical guidelines for the treatment of Latent Tuberculosis Infection (LTBI). Previously, 9 months of daily isoniazid monotherapy (9H) was the traditional standard. However, 9 months of isoniazid suffered from notoriously poor patient adherence (< 50% completion rate) and a significant risk of severe, potentially fatal drug-induced hepatotoxicity. The updated guidelines officially recommend SHORT-COURSE RIFAMYCIN-BASED REGIMENS AS THE PREFERRED FIRST-LINE TREATMENT FOR LTBI: (1) THREE MONTHS OF ONCE-WEEKLY ORAL ISONIAZID PLUS RIFAPENTINE (3HP), which can be taken via directly observed therapy or self-administered; (2) FOUR MONTHS OF DAILY ORAL RIFAMPIN (4R); or (3) THREE MONTHS OF DAILY ORAL ISONIAZID PLUS RIFAMPIN (3HR). Extensive randomized clinical trials demonstrated that these short-course rifamycin regimens have equivalent efficacy to 9 months of isoniazid, significantly higher treatment completion rates (> 85%), and substantially LOWER RATES OF HEPATOTOXICITY. The traditional 6- or 9-month daily isoniazid monotherapy regimens are now classified as alternative regimens, reserved for patients who cannot tolerate rifamycins (such as complex drug interactions with certain HIV antiretrovirals).'
+      },
+      {
+        text: 'A 9-month course of daily oral isoniazid monotherapy as the exclusive preferred first-line therapy',
+        explanation: 'Nine months of isoniazid is now an alternative regimen due to higher hepatotoxicity and lower treatment completion rates compared to short-course rifamycins.'
+      },
+      {
+        text: 'A 6-month course of oral ethambutol and pyrazinamide combination therapy',
+        explanation: 'Pyrazinamide combined with ethambutol for LTBI causes severe fatal hepatic necrosis and is explicitly contraindicated by the CDC.'
+      },
+      {
+        text: 'Withhold all antimicrobial therapy and perform annual chest radiographs for surveillance',
+        explanation: 'Surveillance without treatment leaves the nurse at lifelong 5% to 10% risk of active tuberculous cavitation and transmission to patients.'
+      },
+      {
+        text: 'A 14-day course of high-dose oral azithromycin monotherapy',
+        explanation: 'Macrolides have zero antimycobacterial activity against Mycobacterium tuberculosis and do not treat latent infection.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0195',
+    exam: 'Step 3',
+    subject: 'Medicine',
+    system: 'General Principles',
+    topic: 'HIV Pre-Exposure Prophylaxis (PrEP) Pre-Initiation Testing Mandates',
+    subtopic: 'Confirmation of Negative HIV Status and Renal Function Thresholds',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage HIV Pre-Exposure Prophylaxis (PrEP - CDC Guidelines): - INDICATIONS: High-risk sexual behavior (MSM with inconsistent condom use, heterosexual discordant couple) or injection drug users. - MANDATORY PRE-REQUISITES BEFORE PRESCRIBING PrEP: 1. CONFIRMED HIV-NEGATIVE STATUS (via laboratory 4th-generation HIV antigen/antibody test within past 7 days; if acute HIV symptoms, obtain HIV viral load); 2. ESTIMATED RENAL FUNCTION (CrCl >= 60 mL/min for oral FTC/TDF [Truvada]; CrCl >= 30 mL/min for oral FTC/TAF [Descovy]); 3. SCREEN FOR HEPATITIS B VIRUS (stopping TDF/FTC can trigger severe HBV flare). NEVER START PrEP WITHOUT CONFIRMING HIV-NEGATIVE STATUS (initiating 2-drug PrEP in occult HIV breeds drug resistance).',
+    citation: "US Public Health Service. Preexposure Prophylaxis for the Prevention of HIV Infection in the United States - 2021 Update: A Clinical Practice Guideline. CDC.gov. 2021.",
+    stem:
+      'A 26-year-old man presents to the outpatient clinic requesting a prescription for pre-exposure prophylaxis (PrEP) to reduce his risk of acquiring HIV. He is a cisgender man who has sex with men, reporting four male sexual partners over the past 6 months with inconsistent condom use. He has no chronic medical conditions, feels completely well, and reports no fever, sore throat, rash, lymphadenopathy, or dysuria. Physical examination reveals normal vital signs and an unremarkable general exam. The primary care physician prepares to prescribe daily oral emtricitabine-tenofovir disoproxil fumarate (FTC/TDF). Which of the following diagnostic evaluations is STRICTLY MANDATORY prior to writing the initial prescription for PrEP?',
+    options: [
+      {
+        text: 'Documentation of a negative laboratory HIV antigen/antibody test performed within the past 7 days, and an estimated creatinine clearance of at least 60 mL/min',
+        explanation: 'HIV Pre-Exposure Prophylaxis (PrEP) with daily oral emtricitabine-tenofovir disoproxil fumarate (FTC/TDF, Truvada) or emtricitabine-tenofovir alafenamide (FTC/TAF, Descovy) reduces the risk of sexually acquired HIV by > 99% when taken consistently. However, strict CDC guidelines establish NON-NEGOTIABLE PRE-PRESCRIPTION SCREENING CRITERIA: (1) CONFIRMED HIV-NEGATIVE STATUS: The clinician must verify a negative HIV test (specifically an FDA-approved laboratory 4th-generation antigen/antibody immunoassay) performed WITHIN 7 DAYS PRIOR TO STARTING PrEP. If the patient has had recent high-risk exposure within the past 2 to 4 weeks or reports viral symptoms (fever, rash, pharyngitis), an HIV-1 RNA viral load must be ordered to exclude acute window-period infection. CRITICAL SAFETY REASON: If PrEP is mistakenly started in an individual with undetected active HIV infection, dual-NRTI therapy is completely inadequate to suppress viral replication, rapidly selecting for the M184V/I and K65R mutations and breeding lifelong antiretroviral drug resistance; (2) RENAL FUNCTION: Tenofovir disoproxil fumarate (TDF) can cause proximal tubular nephrotoxicity (Fanconi syndrome) and eGFR decline; an estimated CrCl >= 60 mL/min is mandatory for TDF (CrCl >= 30 mL/min is required for TAF); and (3) Hepatitis B screening, because tenofovir treats HBV and abrupt discontinuation can trigger fatal hepatic flares.'
+      },
+      {
+        text: 'A negative HIV rapid oral fluid swab performed within the past 30 days',
+        explanation: 'Oral fluid rapid tests have a wide window period and lower sensitivity; CDC guidelines mandate an FDA-approved laboratory blood test within 7 days.'
+      },
+      {
+        text: 'Initiate PrEP today and check an HIV test in 3 months at the first scheduled follow-up',
+        explanation: 'Starting PrEP without verifying HIV negativity risks prescribing dual therapy to an actively infected patient, selecting for multidrug-resistant HIV.'
+      },
+      {
+        text: 'A 24-hour urine collection for heavy metal toxicology screening',
+        explanation: 'Heavy metal screening is completely irrelevant to HIV pre-exposure prophylaxis.'
+      },
+      {
+        text: 'Confirmation of undetectable plasma viral load for Epstein-Barr virus',
+        explanation: 'Epstein-Barr virus testing is not part of the standard pre-PrEP screening protocol.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0196',
+    exam: 'Step 3',
+    subject: 'Medicine',
+    system: 'Musculoskeletal',
+    topic: 'Diabetic Foot Ulcer with Positive Probe-to-Bone Test',
+    subtopic: 'High Positive Predictive Value for Osteomyelitis and Plain Radiography vs MRI',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Diabetic Foot Osteomyelitis (IWGDF & IDSA Guidelines): - PROBE-TO-BONE (PTB) TEST: Palpating hard, gritty bone with a sterile metallic blunt probe through an open ulcer has a HIGH POSITIVE PREDICTIVE VALUE (> 85-90%) for OSTEOMYELITIS in high-prevalence settings. - DIAGNOSTIC IMAGING ALGORITHM: 1. INITIAL IMAGING: PLAIN RADIOGRAPHY of the foot (inexpensive, widely available; but lags behind infection by 10-14 days before cortical erosion/periosteal reaction appears); 2. ADVANCED IMAGING: If plain X-ray is negative or inconclusive but clinical suspicion/PTB is positive: MAGNETIC RESONANCE IMAGING (MRI) OF THE FOOT (highest sensitivity > 90% and specificity). Bone biopsy remains microbiological gold standard.',
+    citation: "Lipsky BA, et al. 2012 Infectious Diseases Society of America clinical practice guideline for the diagnosis and treatment of diabetic foot infections. Clin Infect Dis. 2012;54(12):e132-e173. PMID: 22619242.",
+    stem:
+      'A 62-year-old man with a 16-year history of poorly controlled type 2 diabetes mellitus complicated by dense peripheral sensory neuropathy presents with a chronic non-healing ulcer on the plantar surface of his right first metatarsal head that has been present for 8 weeks. He has had no fever, chills, or systemic symptoms. On physical examination, the right foot is warm with absent sensation to a 10-g Semmes-Weinstein monofilament. The plantar ulcer measures 2.0 cm x 1.5 cm with thick surrounding hyperkeratotic callus and a base of dull granulation tissue. The examining physician uses a sterile, blunt-ended metallic surgical probe to gently explore the depth of the ulcer base; the probe easily advances through the soft tissues and makes direct, firm contact with a hard, gritty, rigid surface, eliciting a palpable metallic click against the metatarsal bone (positive probe-to-bone test). There is no ascending cellulitis, fluctuance, or crepitus. Which of the following is the most appropriate initial diagnostic imaging study to evaluate this patient for osteomyelitis?',
+    options: [
+      {
+        text: 'Plain radiography of the right foot (followed by magnetic resonance imaging if plain films are negative or equivocal)',
+        explanation: 'In diabetic foot ulcers, direct palpation of bone using a sterile metallic probe—the PROBE-TO-BONE (PTB) TEST—is an exceptionally powerful bedside clinical test. In high-risk patients with deep or chronic non-healing ulcers, a positive probe-to-bone test has a positive predictive value of nearly 90% for underlying DIABETIC FOOT OSTEOMYELITIS. Under Infectious Diseases Society of America (IDSA) and International Working Group on the Diabetic Foot (IWGDF) guidelines, the diagnostic imaging approach follows a clear sequence: (1) INITIAL IMAGING: PLAIN RADIOGRAPHY OF THE INVOLVED FOOT is always the first-line imaging study. While plain X-rays have low sensitivity in early osteomyelitis (requiring 30% to 50% bone mineral loss and 10 to 14 days of infection before periosteal reaction, cortical erosion, or osteopenia become visible), plain radiographs are inexpensive, readily available, rule out foreign bodies or subcutaneous gas, and provide a critical baseline for tracking chronic osseous architecture; (2) ADVANCED IMAGING: If initial plain radiographs are negative or equivocal, MAGNETIC RESONANCE IMAGING (MRI) OF THE FOOT is the advanced imaging modality of choice, possessing superior sensitivity (> 90%) and specificity for detecting early bone marrow edema and defining deep soft-tissue abscesses.'
+      },
+      {
+        text: 'Radionuclide three-phase technetium-99m bone scan as the sole definitive imaging modality',
+        explanation: 'Technetium bone scans have high sensitivity but notoriously low specificity in diabetic neuropathy due to Charcot neuroarthropathy and soft-tissue inflammation causing false positives.'
+      },
+      {
+        text: 'Diagnostic imaging is unnecessary because a positive probe-to-bone test dictates immediate below-the-knee amputation',
+        explanation: 'Most cases of diabetic foot osteomyelitis can be successfully managed with conservative targeted antimicrobial therapy and minor local debridement; major amputation is not indicated.'
+      },
+      {
+        text: 'Surface swab culture of the superficial ulcer slough to guide 6 weeks of oral antibiotics without imaging',
+        explanation: 'Superficial swab cultures capture colonizing environmental flora rather than the deep bone pathogen; bone biopsy or deep tissue culture is required.'
+      },
+      {
+        text: 'Contrast-enhanced fluoroscopic fistulogram with barium injection',
+        explanation: 'Fistulograms with barium irritate tissues, risk foreign-body granulomas, and provide inferior diagnostic resolution compared to plain radiography and MRI.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0197',
+    exam: 'Step 3',
+    subject: 'Psychiatry',
+    system: 'Behavioral Health',
+    topic: 'Chronic Insomnia Disorder First-Line Management (CBT-I)',
+    subtopic: 'Cognitive Behavioral Therapy for Insomnia vs Pharmacotherapy Risks',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Chronic Insomnia Disorder (AASM & ACP Guidelines): - DEFINITION: Difficulty initiating or maintaining sleep occurring >= 3 nights per week for >= 3 MONTHS, causing daytime impairment. - FIRST-LINE THERAPY FOR ALL ADULTS: COGNITIVE BEHAVIORAL THERAPY FOR INSOMNIA (CBT-I). - CORE COMPONENTS OF CBT-I: 1. SLEEP RESTRICTION (limits time in bed to match actual sleep time, building homeostatic sleep drive); 2. STIMULUS CONTROL (use bed ONLY for sleep and intimacy; get out of bed if unable to sleep within 20 minutes); 3. SLEEP HYGIENE; 4. COGNITIVE RESTRUCTURING. Pharmacotherapy (sedative-hypnotics) is SECOND-LINE, short-term only.',
+    citation: "Qaseem A, et al. Management of Chronic Insomnia Disorder in Adults: A Clinical Practice Guideline From the American College of Physicians. Ann Intern Med. 2016;165(2):125-133. PMID: 27136449.",
+    stem:
+      'A 45-year-old corporate attorney presents to the clinic complaining of severe, chronic sleep difficulty that has persisted for 8 months. She reports lying awake in bed for 1 to 2 hours every night unable to fall asleep, frequently waking up at 3:00 AM and tossing and turning until morning. She estimates that she sleeps only 4 to 5 hours nightly, despite spending 9 hours in bed. She experiences profound daytime fatigue, impaired concentration at work, and irritability. She does not snore, has no leg restlessness, and drinks one cup of green tea in the morning. She has tried taking over-the-counter melatonin and chamomile tea without relief. On physical examination, her vital signs, general exam, and neurological examination are completely normal. Complete blood count, comprehensive metabolic panel, and TSH are normal. The patient states: "I just need a strong sleeping pill like Ambien so I can finally get a good night\'s rest." According to the American College of Physicians (ACP) and American Academy of Sleep Medicine (AASM) guidelines, which of the following is the most appropriate first-line therapy for this patient?',
+    options: [
+      {
+        text: 'Cognitive Behavioral Therapy for Insomnia (CBT-I)',
+        explanation: 'Under clinical practice guidelines from both the American College of Physicians (ACP) and the American Academy of Sleep Medicine (AASM), COGNITIVE BEHAVIORAL THERAPY FOR INSOMNIA (CBT-I) IS THE INITIAL FIRST-LINE THERAPY FOR ALL ADULT PATIENTS WITH CHRONIC INSOMNIA DISORDER. Chronic insomnia is defined as difficulty initiating or maintaining sleep, or waking early, occurring at least 3 nights per week for at least 3 months, accompanied by daytime impairment. Extensive meta-analyses of randomized trials have demonstrated that CBT-I produces sustained long-term sleep improvements that equal or exceed prescription hypnotics, without the significant risks of adverse effects, tolerance, or rebound insomnia. CBT-I is a structured, multimodal behavioral intervention typically delivered over 4 to 8 sessions comprising: (1) STIMULUS CONTROL: Re-associating the bed and bedroom with sleep (go to bed only when sleepy; leave the bed if unable to sleep within 20 minutes; avoid reading, television, or work in bed); (2) SLEEP RESTRICTION: Temporarily restricting time spent in bed to match actual total sleep time, which consolidates fragmented sleep and increases homeostatic sleep drive; (3) RELAXATION TECHNIQUES; and (4) COGNITIVE RESTRUCTURING: Dispelling catastrophic beliefs about sleep loss. Pharmacotherapy (e.g., zolpidem, eszopiclone, or suvorexant) is strictly second-line, utilized only as an adjunct when CBT-I is unavailable or unsuccessful, and should be limited to the shortest possible duration.'
+      },
+      {
+        text: 'Oral zolpidem tartrate 10 mg nightly at bedtime indefinitely',
+        explanation: 'Prescription sedative-hypnotics like zolpidem are second-line options associated with tolerance, dependence, parasomnias (sleep-driving), falls, and cognitive impairment.'
+      },
+      {
+        text: 'Oral diphenhydramine 50 mg nightly combined with valerian root',
+        explanation: 'Over-the-counter antihistamines cause daytime grogginess, anticholinergic side effects (urinary retention, dry mouth), and rapid tachyphylaxis after several days.'
+      },
+      {
+        text: 'Oral quetiapine 100 mg nightly for off-label hypnotic sedation',
+        explanation: 'Atypical antipsychotics carry severe metabolic risks (weight gain, dyslipidemia, diabetes) and should never be used as first-line therapy for primary insomnia.'
+      },
+      {
+        text: 'Advise the patient to spend at least 11 hours in bed nightly to maximize opportunities for sleep',
+        explanation: 'Spending excessive time awake in bed directly reinforces conditioned insomnia and fragments sleep, which is the exact opposite of therapeutic sleep restriction.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0198',
+    exam: 'Step 3',
+    subject: 'Medicine',
+    system: 'Cardiovascular',
+    topic: 'Preoperative Assessment of Cardiac Implantable Devices (Pacemakers/ICDs)',
+    subtopic: 'Electrocautery Interference and Reprogramming vs Magnet Placement',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Cardiac Implantable Electronic Devices (CIED: Pacemakers and ICDs) Perioperatively (HRS/ASA Guidelines): - INTRAOPERATIVE HAZARD: MONOPOLAR ELECTROCAUTERY generates electromagnetic interference (EMI). EMI can be MISINTERPRETED BY AN ICD AS VENTRICULAR FIBRILLATION, triggering an INAPPROPRIATE HIGH-VOLTAGE SHOCK, or can INHIBIT A PACEMAKER, causing ASYSTOLE in a pacemaker-dependent patient. - PREOPERATIVE ACTION BUNDLE: 1. Identify device type, manufacturer, and INDICATION (assess PACEMAKER DEPENDENCE); 2. In an IMPLANTABLE CARDIOVERTER-DEFIBRILLATOR (ICD): SUSPEND SHOCK FUNCTION (via programmer or applying a RING MAGNET over the device during surgery); 3. In PACEMAKER DEPENDENCE: Reprogram to AN ASYNCHRONOUS PACING MODE (e.g., VOO or DOO) so EMI cannot inhibit pacing; 4. Interrogate and re-enable immediately in PACU.',
+    citation: "Crossley GH, et al. The Heart Rhythm Society (HRS)/American Society of Anesthesiologists (ASA) Expert Consensus Statement on the perioperative management of patients with implantable defibrillators, pacemakers and arrhythmia monitors. Heart Rhythm. 2011;8(7):1114-1154. PMID: 21722856.",
+    stem:
+      'A 71-year-old man with a history of ischemic cardiomyopathy (left ventricular ejection fraction 25%) and prior sustained ventricular tachycardia treated with a dual-chamber implantable cardioverter-defibrillator (ICD) is scheduled to undergo an elective open hemicolectomy for colon cancer tomorrow morning. The surgical procedure will require extensive use of monopolar electrocautery above the umbilicus. A recent device interrogation 2 weeks ago showed normal battery voltage and lead parameters; the patient is not pacemaker-dependent. The surgical team consults the preoperative anesthesia team to establish a safety plan for the patient\'s ICD during surgery. Which of the following is the most appropriate perioperative management protocol for this patient\'s cardiac device?',
+    options: [
+      {
+        text: 'Temporarily suspend the ICD\'s tachyarrhythmia shock detection (via programmer or by placing a clinical magnet over the device) and ensure continuous cardiac monitoring with external defibrillator pads placed on the patient',
+        explanation: 'Patients with Cardiac Implantable Electronic Devices (CIEDs)—specifically Implantable Cardioverter-Defibrillators (ICDs) and permanent pacemakers—require careful perioperative management. During major surgery, the extensive use of MONOPOLAR ELECTROCAUTERY produces intense radiofrequency electromagnetic interference (EMI). (1) In a patient with an ICD, the device\'s sensing leads can misinterpret the high-frequency electrical signals of electrocautery as ventricular fibrillation or ventricular tachycardia, resulting in an INAPPROPRIATE, DANGEROUS HIGH-VOLTAGE DEFIBRILLATION SHOCK to the awake or anesthetized patient. (2) Under Heart Rhythm Society (HRS) and ASA consensus guidelines, the ICD\'s tachyarrhythmia shock detection and therapies MUST BE TEMPORARILY SUSPENDED during surgery. This can be achieved by: (a) Electrically reprogramming the device prior to surgery; or (b) Placing a dedicated clinical donut magnet directly over the ICD generator, which temporarily disables defibrillation therapy (most modern ICDs revert to normal sensing when the magnet is removed). (3) Whenever an ICD is deactivated, CONTINUOUS ECG MONITORING AND EXTERNAL DEFIBRILLATOR PADS (connected to an external defibrillator) MUST BE IN PLACE. (4) Immediately postoperatively in the PACU, the device must be interrogated and normal tachyarrhythmia therapies re-enabled.'
+      },
+      {
+        text: 'Leave all ICD therapies active to protect against sudden intraoperative ventricular arrhythmias',
+        explanation: 'Leaving ICD therapies active during monopolar electrocautery guarantees inappropriate high-voltage shocks that can trigger fatal arrhythmias or myocardial injury.'
+      },
+      {
+        text: 'Surgically explant the ICD generator today and re-implant a new device following hospital discharge',
+        explanation: 'Surgical explantation of a functioning ICD for elective colon surgery is unnecessary, invasive, and inflicts severe surgical morbidity.'
+      },
+      {
+        text: 'Administer an intravenous amiodarone bolus and infusion throughout surgery in place of device management',
+        explanation: 'Amiodarone does not prevent electromagnetic interference and does not stop an active ICD from delivering inappropriate shocks from electrocautery.'
+      },
+      {
+        text: 'Reprogram the ICD to deliver an automatic pacing shock every 60 seconds regardless of rhythm',
+        explanation: 'Continuous asynchronous shock delivery will induce ventricular fibrillation (R-on-T phenomenon) and cardiac arrest.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0199',
+    exam: 'Step 3',
+    subject: 'Medicine',
+    system: 'General Principles',
+    topic: 'Hospital Discharge Summary Essential Elements and Joint Commission Mandate',
+    subtopic: 'Pending Laboratory Tests at Discharge and Primary Care Provider Communication',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Manage Hospital Discharge Documentation (Joint Commission Standards & Project RED): - HIGH-RISK DISCHARGE DEFICIT: Up to 40% of patients have LABORATORY OR RADIOLOGY TESTS PENDING AT THE TIME OF HOSPITAL DISCHARGE, and over 75% of physicians are unaware of pending tests. - MANDATORY COMPONENTS OF A TIMELY DISCHARGE SUMMARY: 1. Reason for hospitalization; 2. Significant physical and metabolic findings; 3. Summary of hospital course and procedures; 4. Discharge condition and functional status; 5. RECONCILED DISCHARGE MEDICATION REGIMEN with explicit changes from baseline; 6. EXPLICIT LIST OF PENDING TESTS (blood cultures, biopsies, fungal assays) AND WHO IS RESPONSIBLE FOR FOLLOWING UP ON THEM; 7. Specific follow-up appointments and red-flag symptoms.',
+    citation: "Were MC, et al. Adequacy of hospital discharge summaries in documenting tests with pending results and outpatient follow-up providers. J Gen Intern Med. 2009;24(9):1002-1006. PMID: 19572189.",
+    stem:
+      'A hospitalist prepares a discharge summary for a 58-year-old man who is being discharged home following a 6-day hospitalization for acute pyelonephritis and bacteremia treated with intravenous ceftriaxone. During the admission, the patient also underwent a non-contrast CT scan of the abdomen, which incidentally revealed a well-circumscribed, 1.8-cm solid soft-tissue mass in the upper pole of the left kidney; a dedicated renal mass protocol CT with intravenous contrast was performed 4 hours prior to discharge, and the formal radiologist interpretation remains pending. In addition, blood fungal cultures drawn 3 days ago remain in the microbiology laboratory incubator with preliminary "no growth at 72 hours." According to Joint Commission accreditation standards and patient safety guidelines, which of the following is the most critical element that must be explicitly documented in the discharge summary to prevent dangerous diagnostic omissions during care transition?',
+    options: [
+      {
+        text: 'An explicit listing of all diagnostic tests with results pending at discharge, along with the designated clinician responsible for tracking and reviewing them',
+        explanation: 'Studies evaluating care transitions demonstrate that up to 40% of hospitalized patients are discharged with diagnostic laboratory, microbiological, or radiological tests STILL PENDING at the time of discharge, and over 75% of outpatient primary care physicians are completely unaware of these pending results. This represents a notorious, high-risk failure mode in patient safety that frequently leads to missed cancer diagnoses, untreated bacteremia/fungemia, delayed interventions, and severe malpractice liability. Joint Commission standards, Project RED (Re-Engineered Discharge), and the Society of Hospital Medicine mandate that hospital discharge summaries contain an EXPLICIT, DEDICATED SECTION LISTING ALL PENDING DIAGNOSTIC TESTS (such as the pending renal mass CT and final blood fungal cultures), specify the timeline of expected availability, and CLEARLY DESIGNATE WHO IS RESPONSIBLE FOR FOLLOWING UP ON THE RESULTS (e.g., whether the hospitalist or the primary care physician will review the final renal CT report and arrange urology follow-up). Timely transmission of the discharge summary to the outpatient primary care physician within 24 to 48 hours is vital to ensuring continuity of care.'
+      },
+      {
+        text: 'A statement documenting that all laboratory and radiological investigations were completed and normal prior to discharge',
+        explanation: 'Falsely stating that all tests were completed when a renal mass CT is actively pending is medical record falsification and causes dangerous diagnostic delays in renal cell carcinoma.'
+      },
+      {
+        text: 'An instruction that the patient is personally responsible for calling the hospital radiology department to interpret his own scan',
+        explanation: 'Placing the diagnostic tracking burden on the patient without clinical coordination leads to catastrophic missed diagnoses and violates physician duty of care.'
+      },
+      {
+        text: 'Documentation that pending microbiological cultures are clinically irrelevant once the patient is afebrile',
+        explanation: 'Fungal or resistant bacterial blood cultures can take 5 to 7 days to turn positive; dismissing pending cultures can result in untreated fungemia and death.'
+      },
+      {
+        text: 'A recommendation that the patient repeat all abdominal imaging in 5 years if symptoms recur',
+        explanation: 'A 1.8-cm solid renal mass requires prompt definitive evaluation and staging, not a 5-year delay.'
+      }
+    ]
+  },
+  {
+    code: 'op-c-s3-0200',
+    exam: 'Step 3',
+    subject: 'Ethics',
+    system: 'General Principles',
+    topic: 'Withdrawing Life-Sustaining Treatment vs Active Euthanasia',
+    subtopic: 'Ethical and Legal Equivalence of Withholding vs Withdrawing Mechanical Life Support',
+    provisionalDifficulty: 'Hard',
+    estimatedDifficultyPercent: 88,
+    shortestValidSolution:
+      'Analyze Withdrawing vs Withholding Life-Sustaining Treatment (President\'s Commission & AMA Ethics): - FOUNDATIONAL ETHICAL & LEGAL PRINCIPLE: THERE IS ABSOLUTELY NO MORAL, ETHICAL, OR LEGAL DIFFERENCE BETWEEN WITHHOLDING (not starting) AND WITHDRAWING (stopping) LIFE-SUSTAINING MEDICAL TREATMENT. - AUTONOMY RULES: A competent patient (or their legally authorized surrogate using substituted judgment) has the absolute right to refuse or request the withdrawal of ANY medical therapy, including mechanical ventilation, dialysis, artificial nutrition, or vasopressors. - DISTINCTION FROM ACTIVE EUTHANASIA: Withdrawing life support ALLOWS THE UNDERLYING NATURAL PATHOLOGY TO RUN ITS COURSE; active euthanasia involves introducing a lethal substance to cause death. Withdrawing treatment is legal and ethical in all 50 states.',
+    citation: "President's Commission for the Study of Ethical Problems in Medicine and Biomedical and Behavioral Research. Deciding to Forego Life-Sustaining Treatment. Washington, DC: US Government Printing Office; 1983.",
+    stem:
+      'A 76-year-old woman with a documented history of severe, progressive amyotrophic lateral sclerosis (ALS) is admitted to the intensive care unit with acute hypercapnic respiratory failure secondary to aspiration pneumonia. Two weeks ago, while in respiratory distress, she was intubated and placed on mechanical ventilation in the emergency department. She is now awake, alert, and oriented x 4. She communicates fluently by writing on an electronic tablet and nodding her head. Review of her validated Advance Health Care Directive executed 1 year ago confirms that she explicitly stated: "I do not wish to be maintained on permanent mechanical ventilation or feeding tubes when my ALS reaches end-stage." The patient writes clearly on her tablet: "I am trapped in my paralyzed body. The ventilator is blowing air into my lungs, but it is agonizing and this is not a life. Please remove the breathing tube. I want to be allowed to die peacefully." Her bedside ICU nurse approaches the ethics consultant, expressing moral anguish: "If we remove the endotracheal tube, she will stop breathing and die within an hour. Isn\'t withdrawing life support legally and morally the same as active euthanasia or murder?" Which of the following best reflects the established legal and ethical consensus regarding this situation?',
+    options: [
+      {
+        text: 'Withdrawing life-sustaining treatment is ethically and legally equivalent to withholding it, and honors the autonomous right of a competent patient to refuse unwanted medical intervention',
+        explanation: 'In medical ethics and statutory constitutional law (reinforced by the landmark Cruzan and Quinlan Supreme Court cases, the President\'s Commission, and the AMA Code of Medical Ethics), THERE IS ABSOLUTELY NO MORAL, ETHICAL, OR LEGAL DIFFERENCE BETWEEN WITHHOLDING (never initiating) AND WITHDRAWING (discontinuing) LIFE-SUSTAINING MEDICAL TREATMENT. A competent adult patient possessing decision-making capacity has an inviolable constitutional and ethical right to bodily autonomy and self-determination, which grants them the absolute right to refuse any medical treatment—including life-sustaining mechanical ventilation, hemodialysis, artificial nutrition, or vasopressors—even if that refusal predictably results in death. When mechanical ventilation is withdrawn at the patient\'s autonomous request, the cause of death is THE UNDERLYING PROGRESSIVE DISEASE (here, diaphragmatic paralysis from advanced ALS), NOT an act of murder or homicide by the physician. This is fundamentally distinct from ACTIVE EUTHANASIA (which involves the deliberate administration of an external lethal poison to end life and remains illegal throughout the United States). The medical team must honor her autonomous choice, provide palliative comfort care (titrating intravenous opioids and sedatives to prevent any perception of suffocation or air hunger), and remove the endotracheal tube peacefully.'
+      },
+      {
+        text: 'Withdrawing the endotracheal tube is legally classified as active voluntary euthanasia and is prohibited by law',
+        explanation: 'Withdrawing a mechanical ventilator at a competent patient\'s request is standard legal comfort care, completely distinct from illegal active euthanasia.'
+      },
+      {
+        text: 'The medical team can ethically refuse to withdraw the ventilator because withholding therapy is permissible, but withdrawing it once started is illegal',
+        explanation: 'The ethical and legal consensus unequivocally affirms that withholding and withdrawing life-sustaining therapy are completely equivalent.'
+      },
+      {
+        text: 'The ventilator can only be withdrawn if all living relatives and children provide unanimous notarized consent',
+        explanation: 'When a competent adult patient makes a decision regarding her own care, family consent is irrelevant; the patient\'s autonomous decision takes absolute legal precedence.'
+      },
+      {
+        text: 'The patient must undergo an involuntary psychiatric commitment evaluation because requesting ventilator withdrawal proves severe clinical depression',
+        explanation: 'A rational request by a competent patient with end-stage ALS to discontinue mechanical ventilation according to a longstanding advance directive does not constitute psychiatric incapacity or suicidality.'
+      }
+    ]
+  }
+];

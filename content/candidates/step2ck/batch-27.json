@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s2-0651",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Toxic Epidermal Necrolysis SCORTEN and Burn Unit Transfer",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 48-year-old woman presents to the emergency department with high fevers, painful burning skin, and severe lip ulcerations for 2 days. Three weeks ago, she was started on lamotrigine for bipolar depression. On examination, the patient appears in severe distress. Temperature is 39.4 C (102.9 F), blood pressure is 98/60 mm Hg, pulse is 118/min, and respirations are 22/min. Physical examination reveals extensive dusky erythematous macules coalescing into flaccid bullae across her face, trunk, and extremities, with widespread epidermal detachment involving approximately 42% of her total body surface area. Gentle tangential mechanical friction over normal-appearing erythematous skin causes sloughing of the epidermis (positive Nikolsky sign). Severe mucositis with painful hemorrhagic crusting is present on the lips, buccal mucosa, conjunctivae, and vulva. Laboratory studies show: serum bicarbonate 16 mEq/L, blood urea nitrogen 34 mg/dL, and serum glucose 198 mg/dL. In addition to immediate discontinuation of lamotrigine, which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Transfer immediately to a specialized burn intensive care unit, calculate the SCORTEN mortality score, and initiate aggressive fluid and electrolyte resuscitation",
+        "correct": true,
+        "explanation": "This patient presents with TOXIC EPIDERMAL NECROLYSIS (TEN), a life-threatening, severe cutaneous adverse reaction (SCAR) characterized by extensive epidermal necrosis and sloughing involving >30% OF TOTAL BODY SURFACE AREA (TBSA). It is categorized along a spectrum with Stevens-Johnson syndrome (SJS, <10% TBSA) and SJS/TEN overlap (10-30% TBSA). Common triggers include sulfonamides, antiepileptics (lamotrigine, carbamazepine, phenytoin), allopurinol, and NSAIDs. Pathophysiology: CD8+ cytotoxic T-cell and NK-cell mediated apoptosis of keratinocytes driven by GRANULYSIN and Fas-Fas ligand interactions, causing full-thickness epidermal necrosis and detachment at the dermal-epidermal junction. Hallmark: positive Nikolsky sign and severe multi-mucosal erosion (oral, ocular, urogenital). Loss of the epidermal barrier produces hypovolemic shock, heat loss, protein loss, and high risk of fatal sepsis (Pseudomonas, MRSA). Immediate management requires: (1) IMMEDIATE WITHDRAWAL OF ALL POTENTIAL CULPRIT DRUGS; (2) PROMPT TRANSFER TO A SPECIALIZED BURN ICU, which significantly reduces mortality; (3) AGGRESSIVE FLUID AND ELECTROLYTE RESUSCITATION; (4) Strict aseptic wound care; and (5) SCORTEN calculation (assesses 7 clinical variables to predict mortality). High-dose prophylactic antibiotics are not recommended."
+      },
+      {
+        "text": "Administer high-dose intravenous methylprednisolone pulse therapy for 14 days in a general medical ward",
+        "correct": false,
+        "explanation": "Prolonged high-dose corticosteroids in extensive TEN (>30% BSA) are controversial and increase the risk of fatal bacterial sepsis and infection without clear mortality benefit."
+      },
+      {
+        "text": "Perform extensive surgical tangential escharotomy and sharp surgical debridement of all involved skin",
+        "correct": false,
+        "explanation": "Unlike thermal burn eschar, the detached epidermis in TEN acts as a biologic biological dressing; aggressive sharp surgical debridement worsens dermal trauma and fluid loss."
+      },
+      {
+        "text": "Initiate oral cephalexin monotherapy and discharge with silver sulfadiazine cream for home dressing changes",
+        "correct": false,
+        "explanation": "Outpatient management of TEN carries a mortality rate > 30-50%; silver sulfadiazine contains sulfonamide and may worsen drug-induced toxic epidermal necrolysis."
+      },
+      {
+        "text": "Apply topical high-potency clobetasol propionate ointment under whole-body occlusive plastic wraps",
+        "correct": false,
+        "explanation": "Whole-body high-potency topical steroids under occlusion lead to massive systemic corticosteroid absorption, skin atrophy, and overwhelming systemic septic shock."
+      }
+    ],
+    "explanation": "This patient presents with TOXIC EPIDERMAL NECROLYSIS (TEN), a life-threatening, severe cutaneous adverse reaction (SCAR) characterized by extensive epidermal necrosis and sloughing involving >30% OF TOTAL BODY SURFACE AREA (TBSA). It is categorized along a spectrum with Stevens-Johnson syndrome (SJS, <10% TBSA) and SJS/TEN overlap (10-30% TBSA). Common triggers include sulfonamides, antiepileptics (lamotrigine, carbamazepine, phenytoin), allopurinol, and NSAIDs. Pathophysiology: CD8+ cytotoxic T-cell and NK-cell mediated apoptosis of keratinocytes driven by GRANULYSIN and Fas-Fas ligand interactions, causing full-thickness epidermal necrosis and detachment at the dermal-epidermal junction. Hallmark: positive Nikolsky sign and severe multi-mucosal erosion (oral, ocular, urogenital). Loss of the epidermal barrier produces hypovolemic shock, heat loss, protein loss, and high risk of fatal sepsis (Pseudomonas, MRSA). Immediate management requires: (1) IMMEDIATE WITHDRAWAL OF ALL POTENTIAL CULPRIT DRUGS; (2) PROMPT TRANSFER TO A SPECIALIZED BURN ICU, which significantly reduces mortality; (3) AGGRESSIVE FLUID AND ELECTROLYTE RESUSCITATION; (4) Strict aseptic wound care; and (5) SCORTEN calculation (assesses 7 clinical variables to predict mortality). High-dose prophylactic antibiotics are not recommended. Lamotrigine + 42% BSA epidermal detachment + positive Nikolsky + mucosal sloughing = TEN -> Stop drug + Transfer to Burn ICU + Fluid resuscitation.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Toxic Epidermal Necrolysis SCORTEN and Burn Unit Transfer.",
+    "keyPoints": [
+      "Toxic Epidermal Necrolysis SCORTEN and Burn Unit Transfer",
+      "Lamotrigine + 42% BSA epidermal detachment + positive Nikolsky + mucosal sloughing = TEN -> Stop drug + Transfer to Burn ICU + Fluid resuscitation."
+    ],
+    "references": [
+      {
+        "label": "Schneider JA, Cohen PR. Stevens-Johnson syndrome and toxic epidermal necrolysis: a review. Dermatol Ther (Heidelb). 2017;7(1):143-157. PMID: 28224387.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28224387/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0652",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Dermatology",
+    "topic": "Staphylococcal Scalded Skin Syndrome Sparing of Mucosa",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 14-month-old boy is brought to the emergency department because of irritability, fever, and a rapidly spreading tender skin rash. Over the past 24 hours, his skin has become diffusely red and exquisitely tender to light touch. Physical examination reveals an irritable child. Temperature is 38.6 C (101.5 F), pulse is 140/min, and blood pressure is 88/54 mm Hg. Physical examination shows diffuse generalized erythema with perioral radial fissuring and crusting ('sunburst' appearance). Large, thin-walled, flaccid bullae are present in the flexural creases (axillae, groin, neck folds). Gentle lateral pressure on the skin causes easy wrinkling and separation of the superficial epidermal layer (positive Nikolsky sign). Examination of the eyes, oral cavity, and genital mucosa reveals completely normal, pink, moist mucosal surfaces without erosion, ulceration, or injection. Which of the following pathophysiologic mechanisms best distinguishes this condition from Stevens-Johnson syndrome / toxic epidermal necrolysis?",
+    "options": [
+      {
+        "text": "Cell-mediated cytotoxic T-cell apoptosis of basilar keratinocytes leading to full-thickness epidermal detachment",
+        "correct": false,
+        "explanation": "Cytotoxic CD8+ T-cell apoptosis driven by granulysin characterizes SJS/TEN, producing full-thickness basilar epidermal necrosis and severe mucosal destruction."
+      },
+      {
+        "text": "Exotoxin-mediated cleavage of desmoglein-1 in the superficial stratum granulosum with complete sparing of mucous membranes",
+        "correct": true,
+        "explanation": "This child presents with STAPHYLOCOCCAL SCALDED SKIN SYNDROME (SSSS, Ritter disease), a toxin-mediated dermatosis occurring primarily in neonates and young children (<5 years) due to immature renal clearance of exotoxins. Pathophysiology: localized infection (e.g., nasopharynx, umbilicus, purulent conjunctivitis) by phage group II Staphylococcus aureus produces EXFOLIATIVE TOXINS A AND B. These toxins act as serine proteases that specifically bind and CLEAVE DESMOGLEIN-1, an intercellular desmosomal adhesion glycoprotein located strictly within the SUPERFICIAL EPIDERMIS (STRATUM GRANULOSUM). In contrast, DESMOGLEIN-3 (which is expressed predominantly in the basal epidermis and throughout all mucous membranes) is NOT cleaved by exfoliative toxins; therefore, MUCOUS MEMBRANES ARE COMPLETELY SPARED in SSSS. This complete mucosal sparing, combined with superficial subcorneal intraepidermal blistering, critically distinguishes SSSS from SJS/TEN (which involves cytotoxic T-cell full-thickness necrosis at the dermal-epidermal junction with severe multi-mucosal destruction)."
+      },
+      {
+        "text": "Autoantibody-mediated destruction of transmembrane hemidesmosomal collagen XVII in the basement membrane",
+        "correct": false,
+        "explanation": "Anti-hemidesmosome (BP180/BP230) antibodies cause bullous pemphigoid, a subepidermal blistering autoimmune disease producing tense bullae in elderly adults."
+      },
+      {
+        "text": "Circulating IgA immune complex deposition within dermal papillae triggering neutrophilic microabscesses",
+        "correct": false,
+        "explanation": "Granular IgA deposition in dermal papillae defines dermatitis herpetiformis, associated with celiac disease, producing intensely pruritic extensor vesicles."
+      },
+      {
+        "text": "Direct bacterial invasion of the dermal capillary endothelium with occlusive septic microthrombi",
+        "correct": false,
+        "explanation": "Direct vascular invasion with thrombosis characterizes meningococcemia or ecthyma gangrenosum, causing retiform purpura and eschars rather than desmoglein-1 cleavage."
+      }
+    ],
+    "explanation": "This child presents with STAPHYLOCOCCAL SCALDED SKIN SYNDROME (SSSS, Ritter disease), a toxin-mediated dermatosis occurring primarily in neonates and young children (<5 years) due to immature renal clearance of exotoxins. Pathophysiology: localized infection (e.g., nasopharynx, umbilicus, purulent conjunctivitis) by phage group II Staphylococcus aureus produces EXFOLIATIVE TOXINS A AND B. These toxins act as serine proteases that specifically bind and CLEAVE DESMOGLEIN-1, an intercellular desmosomal adhesion glycoprotein located strictly within the SUPERFICIAL EPIDERMIS (STRATUM GRANULOSUM). In contrast, DESMOGLEIN-3 (which is expressed predominantly in the basal epidermis and throughout all mucous membranes) is NOT cleaved by exfoliative toxins; therefore, MUCOUS MEMBRANES ARE COMPLETELY SPARED in SSSS. This complete mucosal sparing, combined with superficial subcorneal intraepidermal blistering, critically distinguishes SSSS from SJS/TEN (which involves cytotoxic T-cell full-thickness necrosis at the dermal-epidermal junction with severe multi-mucosal destruction). Toddler + tender red skin + positive Nikolsky + perioral crusting + SPARED mucous membranes = SSSS -> Exfoliative toxin cleavage of desmoglein-1.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Staphylococcal Scalded Skin Syndrome Sparing of Mucosa.",
+    "keyPoints": [
+      "Staphylococcal Scalded Skin Syndrome Sparing of Mucosa",
+      "Toddler + tender red skin + positive Nikolsky + perioral crusting + SPARED mucous membranes = SSSS -> Exfoliative toxin cleavage of desmoglein-1."
+    ],
+    "references": [
+      {
+        "label": "Handler MZ, Schwartz RA. Staphylococcal scalded skin syndrome: diagnosis and management in children and adults. J Eur Acad Dermatol Venereol. 2014;28(11):1418-1423. PMID: 24842100.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24842100/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0653",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Necrotizing Fasciitis Emergent Surgical Debridement",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man with poorly controlled type 2 diabetes mellitus presents to the emergency department with severe right lower extremity pain and swelling for 24 hours. The pain began following a minor scratch while working in his garden. Physical examination reveals an ill-appearing, diaphoric man. Temperature is 39.1 C (102.4 F), blood pressure is 84/50 mm Hg, pulse is 126/min, and respirations are 26/min. The right calf is tense, swollen, and warm, with poorly demarcated erythema and patchy violaceous skin discoloration. Palpation of the calf elicits excruciating agony that appears vastly disproportionate to the visible skin changes. Palpable fine subcutaneous crepitus is appreciated along the anterior tibial compartment. Several hemorrhagic bullae are noted over the medial malleolus, and pinprick examination reveals a focal patch of cutaneous anesthesia in the central calf. Laboratory evaluation reveals: white blood cell count 26,400/microL with 24% bands, serum sodium 128 mEq/L, serum glucose 340 mg/dL, serum creatinine 2.4 mg/dL, and serum lactate 4.8 mmol/L. Plain radiography of the right lower extremity demonstrates extensive gas dissecting along the deep fascial planes. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Order emergency contrast-enhanced magnetic resonance imaging (MRI) of the lower extremity to evaluate fascial boundaries",
+        "correct": false,
+        "explanation": "Awaiting MRI in an unstable patient with crepitus and septic shock causes unacceptable procedural delays that result in fatal septic shock and limb loss."
+      },
+      {
+        "text": "Administer intravenous vancomycin monotherapy and apply topical silver sulfadiazine dressings to the bullae",
+        "correct": false,
+        "explanation": "Vancomycin monotherapy does not cover gram-negative bacilli or anaerobes, does not suppress toxin production, and is completely futile without surgical fascial debridement."
+      },
+      {
+        "text": "Perform emergent surgical exploration and aggressive operative fascial debridement, and administer broad-spectrum intravenous antimicrobials including clindamycin",
+        "correct": true,
+        "explanation": "This patient exhibits fulminant NECROTIZING FASCIITIS, a rapidly progressive, life-threatening necrotizing soft-tissue infection (NSTI). It is classified as Type I (polymicrobial: mixed aerobes and anaerobes, seen frequently in diabetics and immunocompromised) or Type II (monomicrobial: Group A Streptococcus [Streptococcus pyogenes], with or without Staphylococcus aureus). Cardinal early clinical sign: SEVERE PAIN DISPROPORTIONATE TO PHYSICAL FINDINGS. Late signs of tissue ischemia and gas-producing bacterial necrosis include: VIOLACEOUS BULLAE, CUTANEOUS ANESTHESIA (due to necrosis of cutaneous nerve fibers traversing the fascia), CREPITUS, and SEPTIC SHOCK. Laboratory Risk Indicator for Necrotizing Fasciitis (LRINEC) score is high (hyponatremia, extreme leukocytosis, hyperglycemia, elevated creatinine). Radiographs confirming SUBCUTANEOUS/FASCIAL GAS are definitive. The SINGLE MOST CRITICAL SURVIVAL DETERMINANT IS IMMEDIATE SURGICAL EXPLORATION AND EXTENSIVE OPERATIVE DEBRIDEMENT. Every hour of delay increases mortality significantly. Concomitantly, BROAD-SPECTRUM ANTIMICROBIALS must be started, specifically including CLINDAMYCIN (a ribosomal protein synthesis inhibitor that suppresses bacterial exotoxin and superantigen production by GAS)."
+      },
+      {
+        "text": "Perform needle aspiration of the hemorrhagic bullae for Gram stain and culture and admit to the general medical floor",
+        "correct": false,
+        "explanation": "Superficial fluid aspiration misses deep fascial infection; admission to a medical ward without surgical intervention carries a near 100% mortality rate."
+      },
+      {
+        "text": "Initiate aggressive hyperbaric oxygen therapy as the sole initial primary therapy to halt anaerobic bacterial growth",
+        "correct": false,
+        "explanation": "Hyperbaric oxygen is an adjunctive therapy used only AFTER definitive surgical debridement; relying on it primarily leads to progressive tissue necrosis and death."
+      }
+    ],
+    "explanation": "This patient exhibits fulminant NECROTIZING FASCIITIS, a rapidly progressive, life-threatening necrotizing soft-tissue infection (NSTI). It is classified as Type I (polymicrobial: mixed aerobes and anaerobes, seen frequently in diabetics and immunocompromised) or Type II (monomicrobial: Group A Streptococcus [Streptococcus pyogenes], with or without Staphylococcus aureus). Cardinal early clinical sign: SEVERE PAIN DISPROPORTIONATE TO PHYSICAL FINDINGS. Late signs of tissue ischemia and gas-producing bacterial necrosis include: VIOLACEOUS BULLAE, CUTANEOUS ANESTHESIA (due to necrosis of cutaneous nerve fibers traversing the fascia), CREPITUS, and SEPTIC SHOCK. Laboratory Risk Indicator for Necrotizing Fasciitis (LRINEC) score is high (hyponatremia, extreme leukocytosis, hyperglycemia, elevated creatinine). Radiographs confirming SUBCUTANEOUS/FASCIAL GAS are definitive. The SINGLE MOST CRITICAL SURVIVAL DETERMINANT IS IMMEDIATE SURGICAL EXPLORATION AND EXTENSIVE OPERATIVE DEBRIDEMENT. Every hour of delay increases mortality significantly. Concomitantly, BROAD-SPECTRUM ANTIMICROBIALS must be started, specifically including CLINDAMYCIN (a ribosomal protein synthesis inhibitor that suppresses bacterial exotoxin and superantigen production by GAS). Pain out of proportion + crepitus + fascial gas on x-ray + shock = Necrotizing fasciitis -> Emergent Surgical Debridement + Clindamycin.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Necrotizing Fasciitis Emergent Surgical Debridement.",
+    "keyPoints": [
+      "Necrotizing Fasciitis Emergent Surgical Debridement",
+      "Pain out of proportion + crepitus + fascial gas on x-ray + shock = Necrotizing fasciitis -> Emergent Surgical Debridement + Clindamycin."
+    ],
+    "references": [
+      {
+        "label": "Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):e10-e52. PMID: 24973422.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24973422/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0654",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "DRESS Syndrome Clinical Criteria and Corticosteroids",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old man presents to the clinic with a 5-day history of high fevers, facial swelling, and a widespread itchy skin rash. Five weeks ago, he was initiated on allopurinol 300 mg daily for recurrent gouty arthritis. Physical examination demonstrates an uncomfortable, febrile man. Temperature is 39.0 C (102.2 F), blood pressure 122/76 mm Hg, and pulse 104/min. Physical examination shows striking, diffuse bilateral facial edema with periorbital puffiness, and an extensive, confluent, polymorphic morbilliform maculopapular rash involving >60% of his body surface area, including the trunk and extremities, with scattered follicular pustules. Tender, palpable bilateral anterior and posterior cervical and axillary lymph nodes measuring 1.5 to 2.0 cm are present. Mucous membranes are completely normal without erosions. Laboratory evaluation demonstrates: white blood cell count 15,400/microL with 18% eosinophils (absolute eosinophil count 2,770/microL; reference < 500/microL), atypical reactive lymphocytes on peripheral smear, AST 380 U/L, ALT 460 U/L, alkaline phosphatase 210 U/L, and serum creatinine 1.9 mg/dL (baseline 0.9 mg/dL). Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Continue allopurinol with concurrent high-dose oral antihistamines to desensitize the cutaneous reaction",
+        "correct": false,
+        "explanation": "Continuing the offending drug in DRESS syndrome is life-threatening; progressive hepatic necrosis and acute eosinophilic myocarditis carry a mortality rate of 10%."
+      },
+      {
+        "text": "Administer intramuscular epinephrine and intravenous diphenhydramine for suspected acute IgE-mediated anaphylaxis",
+        "correct": false,
+        "explanation": "Anaphylaxis develops within minutes of antigen exposure with bronchospasm and hypotension, not after 5 weeks with severe eosinophilia and hepatitis."
+      },
+      {
+        "text": "Initiate oral acyclovir monotherapy to eradicate acute primary herpes simplex virus infection",
+        "correct": false,
+        "explanation": "Acyclovir does not treat DRESS immune hypersensitivity or suppress HHV-6 reactivation, and delays mandatory life-saving corticosteroid therapy."
+      },
+      {
+        "text": "Discontinue allopurinol immediately, perform viral serologies including HHV-6, and initiate systemic glucocorticoid therapy",
+        "correct": true,
+        "explanation": "This patient presents with DRUG REACTION WITH EOSINOPHILIA AND SYSTEMIC SYMPTOMS (DRESS syndrome), also known as drug-induced hypersensitivity syndrome (DIHS). DRESS is a severe, idiosyncratic, multi-organ hypersensitivity reaction. Classic culprit drugs: allopurinol (most common), antiepileptics (carbamazepine, phenytoin, lamotrigine), sulfonamides, and vancomycin. Hallmark clinical features: (1) DELAYED ONSET: characteristically begins 2 TO 8 WEEKS after drug exposure (longer latency than SJS/TEN); (2) Fever, malaise, and facial edema (present in >70%); (3) Extensive morbilliform rash; (4) Hematologic abnormalities: ABSOLUTE EOSINOPHILIA (>1,500/microL) and ATYPICAL LYMPHOCYTOSIS; (5) Multi-organ involvement: LIVER INJURY (transaminitis, >80%), RENAL FAILURE (interstitial nephritis), and pulmonary/cardiac inflammation; and (6) Strong association with HUMAN HERPESVIRUS 6 (HHV-6) REACTIVATION. RegiSCAR criteria establish diagnosis. Management: IMMEDIATE DISCONTINUATION OF CULPRIT DRUG and initiation of SYSTEMIC GLUCOCORTICOIDS (oral prednisone 0.5-1.0 mg/kg/day or IV methylprednisolone) with a slow taper over 2-3 months to prevent severe relapse."
+      },
+      {
+        "text": "Perform emergency whole-body skin grafting and apply silver sulfadiazine cream to all affected surfaces",
+        "correct": false,
+        "explanation": "DRESS syndrome does not cause epidermal necrosis or skin detachment (no Nikolsky sign); surgical skin grafting is completely unwarranted and harmful."
+      }
+    ],
+    "explanation": "This patient presents with DRUG REACTION WITH EOSINOPHILIA AND SYSTEMIC SYMPTOMS (DRESS syndrome), also known as drug-induced hypersensitivity syndrome (DIHS). DRESS is a severe, idiosyncratic, multi-organ hypersensitivity reaction. Classic culprit drugs: allopurinol (most common), antiepileptics (carbamazepine, phenytoin, lamotrigine), sulfonamides, and vancomycin. Hallmark clinical features: (1) DELAYED ONSET: characteristically begins 2 TO 8 WEEKS after drug exposure (longer latency than SJS/TEN); (2) Fever, malaise, and facial edema (present in >70%); (3) Extensive morbilliform rash; (4) Hematologic abnormalities: ABSOLUTE EOSINOPHILIA (>1,500/microL) and ATYPICAL LYMPHOCYTOSIS; (5) Multi-organ involvement: LIVER INJURY (transaminitis, >80%), RENAL FAILURE (interstitial nephritis), and pulmonary/cardiac inflammation; and (6) Strong association with HUMAN HERPESVIRUS 6 (HHV-6) REACTIVATION. RegiSCAR criteria establish diagnosis. Management: IMMEDIATE DISCONTINUATION OF CULPRIT DRUG and initiation of SYSTEMIC GLUCOCORTICOIDS (oral prednisone 0.5-1.0 mg/kg/day or IV methylprednisolone) with a slow taper over 2-3 months to prevent severe relapse. Allopurinol 5 wks + facial edema + rash + eosinophils 2770 + AST/ALT >400 + Cr 1.9 = DRESS syndrome -> Stop drug + Systemic steroids.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of DRESS Syndrome Clinical Criteria and Corticosteroids.",
+    "keyPoints": [
+      "DRESS Syndrome Clinical Criteria and Corticosteroids",
+      "Allopurinol 5 wks + facial edema + rash + eosinophils 2770 + AST/ALT >400 + Cr 1.9 = DRESS syndrome -> Stop drug + Systemic steroids."
+    ],
+    "references": [
+      {
+        "label": "Kardaun SH, Sekula P, Valeyrie-Allanore L, et al. Drug reaction with eosinophilia and systemic symptoms (DRESS): an original multisystem adverse drug reaction. Results from the prospective RegiSCAR study. Br J Dermatol. 2013;169(5):1071-1080. PMID: 23855313.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23855313/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0655",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Purpura Fulminans in Sepsis Protein C Deficiency",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 18-year-old college student is brought to the emergency department with a 12-hour history of high fever, severe headache, confusion, and a rapidly spreading purpuric skin rash. Physical examination reveals an obtunded, critically ill young man. Temperature is 39.6 C (103.3 F), blood pressure is 74/42 mm Hg, pulse is 138/min, and respirations are 28/min. Marked nuchal rigidity is present. Cutaneous examination reveals extensive, confluent, non-blanching dark violaceous to black retiform (stellate/branching) purpuric plaques with central cutaneous bullae and necrosis distributed across his lower extremities, hands, and ears. Distal pulses are diminished, and the distal digits of both hands appear cool and cyanotic. Laboratory evaluation demonstrates: white blood cell count 28,600/microL with 36% bands, platelet count 22,000/microL, prothrombin time (PT) 32.0 seconds (INR 3.1), activated partial thromboplastin time (aPTT) 68 seconds, plasma fibrinogen 54 mg/dL (markedly decreased), and D-dimer > 10,000 ng/mL FEU. Peripheral blood smear confirms abundant schistocytes. Cerebrospinal fluid Gram stain demonstrates gram-negative diplococci. Which of the following is the primary underlying pathophysiologic driver of this patient's extensive cutaneous microvascular thrombosis and necrosis?",
+    "options": [
+      {
+        "text": "Direct antibody-mediated cleavage of basement membrane type VII collagen fibers",
+        "correct": false,
+        "explanation": "Type VII collagen autoantibodies cause epidermolysis bullosa acquisita, an autoimmune subepidermal blistering condition without sepsis, DIC, or retiform purpura."
+      },
+      {
+        "text": "Selective autoantibody destruction of platelet membrane glycoprotein Ib-IX-V complexes",
+        "correct": false,
+        "explanation": "Anti-GPIb-IX antibodies cause immune thrombocytopenia (ITP) with petechiae, not fulminant septic shock with retiform purpura and consumption of clotting factors."
+      },
+      {
+        "text": "Excessive accumulation of ultra-large von Willebrand factor multimers due to congenital ADAMTS13 deficiency",
+        "correct": false,
+        "explanation": "ADAMTS13 deficiency causes TTP, which does not prolong PT or aPTT and does not deplete plasma fibrinogen, whereas this patient has consumptive DIC."
+      },
+      {
+        "text": "Immune-mediated deposition of IgA immune complexes in post-capillary dermal venules",
+        "correct": false,
+        "explanation": "IgA immune complexes cause IgA vasculitis (HSP), which features normal platelets, normal coagulation times, and lack of systemic shock."
+      },
+      {
+        "text": "Severe acute acquired depletion of protein C and protein S resulting in loss of thrombomodulin-mediated microvascular anticoagulation",
+        "correct": true,
+        "explanation": "This patient presents with PURPURA FULMINANS complicating fulminant MENINGOCOCCAL SEPTIC SHOCK (Neisseria meningitidis). Purpura fulminans is an acute, rapidly progressive, life-threatening thrombotic disorder characterized by extensive cutaneous microvascular thrombosis, hemorrhagic infarction, and DIC. Pathophysiology: endotoxin-mediated endothelial injury causes massive downregulation of endothelial THROMBOMODULIN and the endothelial protein C receptor (EPCR). This leads to SEVERE ACUTE ACQUIRED DEPLETION OF ENDOGENOUS PROTEIN C AND PROTEIN S (often <10-20% of normal activity). Without activated protein C (APC) to inactivate factors Va and VIIIa, unrestrained microvascular thrombin generation occurs throughout post-capillary venules and dermal capillaries, resulting in characteristic RETIFORM (STELLATE) PURPURA, full-thickness skin infarction, gangrene of distal extremities, and multi-organ failure. Management entails immediate broad-spectrum antibiotics (ceftriaxone + vancomycin), aggressive fluid/vasopressor resuscitation, and consideration of PROTEIN C CONCENTRATE replacement."
+      }
+    ],
+    "explanation": "This patient presents with PURPURA FULMINANS complicating fulminant MENINGOCOCCAL SEPTIC SHOCK (Neisseria meningitidis). Purpura fulminans is an acute, rapidly progressive, life-threatening thrombotic disorder characterized by extensive cutaneous microvascular thrombosis, hemorrhagic infarction, and DIC. Pathophysiology: endotoxin-mediated endothelial injury causes massive downregulation of endothelial THROMBOMODULIN and the endothelial protein C receptor (EPCR). This leads to SEVERE ACUTE ACQUIRED DEPLETION OF ENDOGENOUS PROTEIN C AND PROTEIN S (often <10-20% of normal activity). Without activated protein C (APC) to inactivate factors Va and VIIIa, unrestrained microvascular thrombin generation occurs throughout post-capillary venules and dermal capillaries, resulting in characteristic RETIFORM (STELLATE) PURPURA, full-thickness skin infarction, gangrene of distal extremities, and multi-organ failure. Management entails immediate broad-spectrum antibiotics (ceftriaxone + vancomycin), aggressive fluid/vasopressor resuscitation, and consideration of PROTEIN C CONCENTRATE replacement. Meningococcemia + shock + retiform purpura + DIC = Purpura fulminans -> Severe acute depletion of Protein C and Protein S.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Purpura Fulminans in Sepsis Protein C Deficiency.",
+    "keyPoints": [
+      "Purpura Fulminans in Sepsis Protein C Deficiency",
+      "Meningococcemia + shock + retiform purpura + DIC = Purpura fulminans -> Severe acute depletion of Protein C and Protein S."
+    ],
+    "references": [
+      {
+        "label": "Colling ME, Bendapudi PK. Purpura fulminans: mechanism and management of microvascular thrombi. Transfus Med Rev. 2018;32(2):69-76. PMID: 29289387.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29289387/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0656",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Cutaneous Melanoma Complete Excisional Biopsy Technique",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old fair-skinned man presents for evaluation of a pigmented lesion on his upper back that his wife noticed has been enlarging, darkening, and changing shape over the past 4 months. He has a history of recreational sun exposure with multiple blistering sunburns in childhood. Physical examination reveals a 9 x 7 mm asymmetric, deeply pigmented macular lesion with irregular, notched borders and variegated coloring, including shades of dark brown, black, and bluish-grey. Dermoscopic examination reveals an atypical pigment network, irregular dots/globules, and an asymmetric blue-white veil. There is no regional lymphadenopathy. Which of the following is the most appropriate initial diagnostic biopsy technique for this suspicious cutaneous lesion?",
+    "options": [
+      {
+        "text": "Complete excisional biopsy extending through the entire dermis into the subcutaneous fat with narrow 1 to 3 mm clinical margins",
+        "correct": true,
+        "explanation": "This patient presents with a highly suspicious pigmented lesion exhibiting all cardinal ABCDE criteria for CUTANEOUS MELANOMA (Asymmetry, Border irregularity, Color variegation, Diameter > 6 mm, Evolving). The primary diagnostic goal is to establish the definitive histologic diagnosis and, crucially, to determine the BRESLOW DEPTH (microscopic tumor thickness in millimeters from the granular layer of the epidermis to the deepest point of tumor invasion), which is the single most important prognostic factor and guides subsequent definitive surgical margins and sentinel lymph node biopsy. The STANDARD OF CARE INITIAL BIOPSY TECHNIQUE IS COMPLETE EXCISIONAL BIOPSY (elliptical, punch, or deep saucerization/shave) that removes the ENTIRE LESION with NARROW 1 TO 3 MM MARGINS extending into the SUBCUTANEOUS FAT. Partial sampling (superficial shave or punch biopsy through the center) is strongly discouraged because it can transect the deep margin, leading to underestimation of Breslow depth, histologic misdiagnosis, and inadequate definitive management."
+      },
+      {
+        "text": "Superficial tangential razor shave biopsy removing only the raised epidermal portion of the lesion",
+        "correct": false,
+        "explanation": "Superficial shave biopsy transects the deep margin of the tumor, preventing accurate measurement of Breslow thickness and falsely under-staging the melanoma."
+      },
+      {
+        "text": "Central 2-mm punch biopsy through the darkest area of the lesion to minimize cosmetic scarring",
+        "correct": false,
+        "explanation": "Central punch biopsy samples only a fraction of the lesion, risking sampling error that misses invasive melanoma and underestimates true tumor depth."
+      },
+      {
+        "text": "Immediate wide local surgical excision with 20-mm margins and elective regional lymph node dissection",
+        "correct": false,
+        "explanation": "Wide margins (1-2 cm) and sentinel node biopsy are performed only AFTER histologic confirmation and Breslow depth determination on an initial excisional biopsy."
+      },
+      {
+        "text": "Cryosurgical ablation with liquid nitrogen followed by serial dermatologic examinations every 6 months",
+        "correct": false,
+        "explanation": "Destructive modalities (cryotherapy, laser, cautery) destroy tissue architecture without providing a specimen for histologic examination, allowing metastatic progression."
+      }
+    ],
+    "explanation": "This patient presents with a highly suspicious pigmented lesion exhibiting all cardinal ABCDE criteria for CUTANEOUS MELANOMA (Asymmetry, Border irregularity, Color variegation, Diameter > 6 mm, Evolving). The primary diagnostic goal is to establish the definitive histologic diagnosis and, crucially, to determine the BRESLOW DEPTH (microscopic tumor thickness in millimeters from the granular layer of the epidermis to the deepest point of tumor invasion), which is the single most important prognostic factor and guides subsequent definitive surgical margins and sentinel lymph node biopsy. The STANDARD OF CARE INITIAL BIOPSY TECHNIQUE IS COMPLETE EXCISIONAL BIOPSY (elliptical, punch, or deep saucerization/shave) that removes the ENTIRE LESION with NARROW 1 TO 3 MM MARGINS extending into the SUBCUTANEOUS FAT. Partial sampling (superficial shave or punch biopsy through the center) is strongly discouraged because it can transect the deep margin, leading to underestimation of Breslow depth, histologic misdiagnosis, and inadequate definitive management. Suspicious ABCDE lesion on back = Suspected melanoma -> Complete excisional biopsy with 1-3 mm margins into subcutaneous fat.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cutaneous Melanoma Complete Excisional Biopsy Technique.",
+    "keyPoints": [
+      "Cutaneous Melanoma Complete Excisional Biopsy Technique",
+      "Suspicious ABCDE lesion on back = Suspected melanoma -> Complete excisional biopsy with 1-3 mm margins into subcutaneous fat."
+    ],
+    "references": [
+      {
+        "label": "Swetter SM, Tsao H, Bichakjian CK, et al. Guidelines of care for the management of primary cutaneous melanoma. J Am Acad Dermatol. 2019;80(1):208-250. PMID: 30392755.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30392755/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0657",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Keratoacanthoma Rapid Growth and Surgical Excision",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 72-year-old retired construction worker presents to the clinic with an isolated, rapidly growing skin lesion on the dorsum of his left hand. The lesion first appeared 5 weeks ago as a small red bump and has quickly enlarged to its current size. Physical examination reveals a solitary, firm, non-tender, dome-shaped, flesh-colored nodule measuring 18 mm in diameter with a prominent central crateriform crater filled with a thick, hyperkeratotic plug ('volcano-like appearance'). There is no surrounding induration or regional axillary lymphadenopathy. Which of the following is the most appropriate management for this patient's lesion?",
+    "options": [
+      {
+        "text": "Reassurance and watchful observation because spontaneous involution occurs reliably within 3 to 6 months",
+        "correct": false,
+        "explanation": "Watchful waiting is dangerous because a subset of presumed KAs are in fact aggressive invasive squamous cell carcinomas that can metastasize if left untreated."
+      },
+      {
+        "text": "Complete surgical excision with clear margins because histopathology cannot reliably distinguish this lesion from invasive squamous cell carcinoma",
+        "correct": true,
+        "explanation": "This patient presents with a classic KERATOACANTHOMA (KA), a cutaneous neoplasm characterized by remarkably RAPID GROWTH over 4 to 8 weeks into a symmetric, DOME-SHAPED NODULE WITH A CENTRAL KERATIN-FILLED PLUG ('volcano-like'). Keratoacanthomas arise on sun-exposed skin of older individuals. Although some KAs may undergo spontaneous involution over several months leaving an unsightly, atrophic scar, current dermatologic guidelines classify keratoacanthoma as a WELL-DIFFERENTIATED VARIANT OF SQUAMOUS CELL CARCINOMA (SCC). Because clinical features and superficial biopsies CANNOT RELIABLY DISTINGUISH a benign-behaving KA from a rapidly aggressive, deeply invasive, or metastatic squamous cell carcinoma, COMPLETE SURGICAL EXCISION WITH MARGIN EVALUATION is the definitive standard of care. Observation or partial biopsies are inadequate."
+      },
+      {
+        "text": "Topical 5-fluorouracil cream twice daily for 2 weeks followed by liquid nitrogen cryotherapy",
+        "correct": false,
+        "explanation": "Topical chemotherapy without histopathologic confirmation cannot evaluate deep margins and fails to treat invasive SCC components."
+      },
+      {
+        "text": "Intralesional injection of triamcinolone acetonide every 4 weeks to induce immunologic regression",
+        "correct": false,
+        "explanation": "Corticosteroids are indicated for inflammatory dermatoses (alopecia areata, hypertrophic scars), not for suspected keratinocyte malignancies."
+      },
+      {
+        "text": "Prescribe oral doxycycline 100 mg twice daily for suspected atypical infectious granuloma",
+        "correct": false,
+        "explanation": "The dome-shaped crateriform architecture with central keratin is neoplastic keratinocytic proliferation, not a bacterial or mycobacterial granuloma."
+      }
+    ],
+    "explanation": "This patient presents with a classic KERATOACANTHOMA (KA), a cutaneous neoplasm characterized by remarkably RAPID GROWTH over 4 to 8 weeks into a symmetric, DOME-SHAPED NODULE WITH A CENTRAL KERATIN-FILLED PLUG ('volcano-like'). Keratoacanthomas arise on sun-exposed skin of older individuals. Although some KAs may undergo spontaneous involution over several months leaving an unsightly, atrophic scar, current dermatologic guidelines classify keratoacanthoma as a WELL-DIFFERENTIATED VARIANT OF SQUAMOUS CELL CARCINOMA (SCC). Because clinical features and superficial biopsies CANNOT RELIABLY DISTINGUISH a benign-behaving KA from a rapidly aggressive, deeply invasive, or metastatic squamous cell carcinoma, COMPLETE SURGICAL EXCISION WITH MARGIN EVALUATION is the definitive standard of care. Observation or partial biopsies are inadequate. Rapidly growing dome-shaped nodule with central keratin plug (5 weeks) = Keratoacanthoma -> Complete surgical excision (mimics SCC).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Keratoacanthoma Rapid Growth and Surgical Excision.",
+    "keyPoints": [
+      "Keratoacanthoma Rapid Growth and Surgical Excision",
+      "Rapidly growing dome-shaped nodule with central keratin plug (5 weeks) = Keratoacanthoma -> Complete surgical excision (mimics SCC)."
+    ],
+    "references": [
+      {
+        "label": "Kwiek B, Schwartz RA. Keratoacanthoma (KA): an update and review. J Am Acad Dermatol. 2016;74(6):1220-1233. PMID: 26979593.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26979593/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0658",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Pyoderma Gangrenosum Pathergy and Systemic Steroids",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 36-year-old woman with a 6-year history of ulcerative colitis presents with an intensely painful, expanding skin ulcer on her right pretibial area for 10 days. The lesion began as a small, tender red pustule following a minor insect bite, which rapidly broke down into an ulcer. Two days ago, an urgent care provider performed surgical sharp debridement under local anesthesia; following the procedure, the ulcer dramatically expanded in size and became excruciatingly painful. Physical examination reveals an irregularly shaped, 6 x 4 cm deep ulceration with a purulent, necrotic base and prominent, violaceous, undermined (overhanging) borders surrounded by an erythematous, indurated halo. Wound bacterial, fungal, and mycobacterial cultures yield no growth. Complete blood count shows a white blood cell count of 12,400/microL with 78% neutrophils, and ESR is 64 mm/hr. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Perform extensive repeat operative sharp surgical debridement down to viable bleeding subcutaneous tissue",
+        "correct": false,
+        "explanation": "Surgical debridement triggers pathergy, causing massive, accelerated enlargement of the ulcer and severe tissue necrosis; it is strictly contraindicated in active PG."
+      },
+      {
+        "text": "Initiate high-dose intravenous vancomycin and piperacillin-tazobactam for acute bacterial ecthyma gangrenosum",
+        "correct": false,
+        "explanation": "Pyoderma gangrenosum is a sterile neutrophilic dermatosis; wound cultures are negative and antibacterial therapy has zero clinical efficacy."
+      },
+      {
+        "text": "Initiate systemic glucocorticoid therapy (e.g., oral prednisone) and strictly avoid any further surgical debridement",
+        "correct": true,
+        "explanation": "This patient presents with classic PYODERMA GANGRENOSUM (PG), a non-infectious, ulcerative neutrophilic dermatosis strongly associated with systemic inflammatory diseases (inflammatory bowel disease [IBD, in ~30%], rheumatoid arthritis, and hematologic malignancies like AML/MDS). Hallmark features: (1) Rapidly expanding painful ulcer with a purulent/necrotic base and characteristic VIOLACEOUS, EDEMATOUS, UNDERMINED BORDERS; and (2) PATHERGY (the development or worsening of lesions following minor skin trauma, venipuncture, or surgical intervention). The dramatic worsening after sharp surgical debridement in this patient is the classic manifestation of pathergy. The MOST CRITICAL RULE IS: STRICT AVOIDANCE OF SURGICAL DEBRIDEMENT, which rapidly accelerates ulcer enlargement. Management requires: (1) HIGH-DOSE SYSTEMIC GLUCOCORTICOIDS (prednisone 0.5-1.0 mg/kg/day or IV methylprednisolone) or CYCLOSPORINE as first-line immunosuppression; and (2) Treatment of underlying inflammatory bowel disease (e.g., infliximab or adalimumab, which are highly effective for IBD-associated PG)."
+      },
+      {
+        "text": "Apply topical 5% imiquimod cream daily to stimulate local toll-like receptor 7 immune clearance",
+        "correct": false,
+        "explanation": "Imiquimod induces local inflammatory cytokine release, which dramatically exacerbates neutrophilic ulceration via pathergy."
+      },
+      {
+        "text": "Apply split-thickness autologous skin grafting immediately over the ulcer bed to promote re-epithelialization",
+        "correct": false,
+        "explanation": "Skin grafting without systemic immunosuppression fails completely because the graft bed undergoes necrotic lysis and donor sites develop new pyoderma ulcers via pathergy."
+      }
+    ],
+    "explanation": "This patient presents with classic PYODERMA GANGRENOSUM (PG), a non-infectious, ulcerative neutrophilic dermatosis strongly associated with systemic inflammatory diseases (inflammatory bowel disease [IBD, in ~30%], rheumatoid arthritis, and hematologic malignancies like AML/MDS). Hallmark features: (1) Rapidly expanding painful ulcer with a purulent/necrotic base and characteristic VIOLACEOUS, EDEMATOUS, UNDERMINED BORDERS; and (2) PATHERGY (the development or worsening of lesions following minor skin trauma, venipuncture, or surgical intervention). The dramatic worsening after sharp surgical debridement in this patient is the classic manifestation of pathergy. The MOST CRITICAL RULE IS: STRICT AVOIDANCE OF SURGICAL DEBRIDEMENT, which rapidly accelerates ulcer enlargement. Management requires: (1) HIGH-DOSE SYSTEMIC GLUCOCORTICOIDS (prednisone 0.5-1.0 mg/kg/day or IV methylprednisolone) or CYCLOSPORINE as first-line immunosuppression; and (2) Treatment of underlying inflammatory bowel disease (e.g., infliximab or adalimumab, which are highly effective for IBD-associated PG). Ulcerative colitis + painful ulcer with violaceous undermined borders + worsens after debridement (pathergy) = Pyoderma gangrenosum -> Systemic steroids (NO debridement).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Pyoderma Gangrenosum Pathergy and Systemic Steroids.",
+    "keyPoints": [
+      "Pyoderma Gangrenosum Pathergy and Systemic Steroids",
+      "Ulcerative colitis + painful ulcer with violaceous undermined borders + worsens after debridement (pathergy) = Pyoderma gangrenosum -> Systemic steroids (NO debridement)."
+    ],
+    "references": [
+      {
+        "label": "Maverakis E, Ma C, Shinkai K, et al. Diagnostic criteria of pyoderma gangrenosum: an international Delphi consensus. JAMA Dermatol. 2018;154(4):461-466. PMID: 29450452.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29450452/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0659",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Kaposi Sarcoma Antiretroviral Therapy Initiation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man presents to the clinic with multiple painless, dark reddish-purple spots on his lower extremities that have multiplied over the past 3 months. Over the past 6 months, he has experienced an unintentional 7-kg (15-lb) weight loss, intermittent night sweats, and chronic non-bloody diarrhea. Physical examination reveals several non-tender, non-pruritic, oval, violaceous-to-brown plaques and papules arranged along skin tension lines on his lower legs and dorsal feet. Inspection of the oral cavity reveals a discrete, violaceous, slightly raised plaque on the hard palate. Laboratory evaluation reveals: HIV-1 antibody testing is positive, absolute CD4+ T-lymphocyte count is 142/microL, and HIV viral load is 280,000 copies/mL. A punch biopsy of a cutaneous leg plaque confirms spindle cells forming slit-like vascular channels containing extravasated erythrocytes and hemosiderin, with strong nuclear positivity for human herpesvirus 8 (HHV-8) latency-associated nuclear antigen (LANA). Which of the following is the most appropriate initial management for this patient?",
+    "options": [
+      {
+        "text": "Administer systemic intravenous liposomal doxorubicin chemotherapy while withholding antiretroviral therapy",
+        "correct": false,
+        "explanation": "Withholding ART guarantees progressive immunologic collapse and death from opportunistic infections; ART is the foundational first-line therapy."
+      },
+      {
+        "text": "Perform wide local surgical excision of all cutaneous and oral lesions with 10-mm margins",
+        "correct": false,
+        "explanation": "Kaposi sarcoma is a multifocal systemic vascular neoplasm; surgical excision of multiple lesions causes extensive morbidity without preventing new lesions."
+      },
+      {
+        "text": "Initiate oral ganciclovir monotherapy for 6 months to eliminate latent HHV-8 infection",
+        "correct": false,
+        "explanation": "Antiviral agents (ganciclovir/foscarnet) target active lytic viral DNA replication, having zero efficacy against latent episomal HHV-8 driving established tumor spindle cells."
+      },
+      {
+        "text": "Initiate combination antiretroviral therapy (ART) immediately as the primary first-line intervention",
+        "correct": true,
+        "explanation": "This patient presents with EPIDEMIC (AIDS-ASSOCIATED) KAPOSI SARCOMA (KS), an endothelial cell malignancy driven by HUMAN HERPESVIRUS 8 (HHV-8 / KSHV). In the setting of severe HIV-induced immunosuppression (CD4 < 200/microL), HHV-8 infects vascular endothelial cells, expressing viral oncogenes (vGPCR, LANA, vCyclin) that induce vascular endothelial growth factor (VEGF) secretion, aberrant angiogenesis, and spindle cell proliferation. Lesions typically manifest as non-tender, non-blanching violaceous macules, plaques, or nodules on the skin, mucous membranes (especially the hard palate and gingiva), and visceral organs (GI tract, lungs). The PRIMARY FIRST-LINE THERAPY FOR AIDS-RELATED KAPOSI SARCOMA IS IMMEDIATE INITIATION OF COMBINATION ANTIRETROVIRAL THERAPY (ART). ART restores host CD4+ T-cell immune surveillance against HHV-8, resulting in spontaneous regression or stabilization of KS lesions in >60-80% of patients without requiring chemotherapy. Systemic cytotoxic chemotherapy (e.g., intravenous liposomal doxorubicin) is reserved for patients with extensive, rapidly progressive, symptomatic visceral disease (pulmonary KS) or severe tumor-associated lymphedema."
+      },
+      {
+        "text": "Administer high-dose systemic glucocorticoids combined with radiation therapy to all extremities",
+        "correct": false,
+        "explanation": "Corticosteroids are strictly contraindicated in Kaposi sarcoma; glucocorticoids stimulate HHV-8 replication and precipitate fulminant Kaposi sarcoma flare."
+      }
+    ],
+    "explanation": "This patient presents with EPIDEMIC (AIDS-ASSOCIATED) KAPOSI SARCOMA (KS), an endothelial cell malignancy driven by HUMAN HERPESVIRUS 8 (HHV-8 / KSHV). In the setting of severe HIV-induced immunosuppression (CD4 < 200/microL), HHV-8 infects vascular endothelial cells, expressing viral oncogenes (vGPCR, LANA, vCyclin) that induce vascular endothelial growth factor (VEGF) secretion, aberrant angiogenesis, and spindle cell proliferation. Lesions typically manifest as non-tender, non-blanching violaceous macules, plaques, or nodules on the skin, mucous membranes (especially the hard palate and gingiva), and visceral organs (GI tract, lungs). The PRIMARY FIRST-LINE THERAPY FOR AIDS-RELATED KAPOSI SARCOMA IS IMMEDIATE INITIATION OF COMBINATION ANTIRETROVIRAL THERAPY (ART). ART restores host CD4+ T-cell immune surveillance against HHV-8, resulting in spontaneous regression or stabilization of KS lesions in >60-80% of patients without requiring chemotherapy. Systemic cytotoxic chemotherapy (e.g., intravenous liposomal doxorubicin) is reserved for patients with extensive, rapidly progressive, symptomatic visceral disease (pulmonary KS) or severe tumor-associated lymphedema. HIV (CD4 142) + violaceous plaques on legs and palate + HHV-8 spindle cells = Kaposi sarcoma -> Initiate combination ART.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Kaposi Sarcoma Antiretroviral Therapy Initiation.",
+    "keyPoints": [
+      "Kaposi Sarcoma Antiretroviral Therapy Initiation",
+      "HIV (CD4 142) + violaceous plaques on legs and palate + HHV-8 spindle cells = Kaposi sarcoma -> Initiate combination ART."
+    ],
+    "references": [
+      {
+        "label": "Reid E, Semeere A, Ambinder RF. Systemic therapy for Kaposi sarcoma in the modern era. Curr Opin Oncol. 2020;32(5):443-451. PMID: 32675685.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32675685/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0660",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Cutaneous Squamous Cell Carcinoma High-Risk Features and Mohs",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old man who underwent orthotopic cardiac transplantation 8 years ago and is on chronic immunosuppressive therapy with tacrolimus, mycophenolate mofetil, and prednisone presents with an enlarging, non-healing sore on his right lower lip for 4 months. He has a 40-pack-year smoking history and extensive outdoor sun exposure. Physical examination reveals an indurated, ulcerated, hyperkeratotic plaque measuring 2.4 cm in greatest diameter on the right vermilion border of the lower lip. The lesion has poorly defined borders and is mildly tender. There is numbness over the right chin. Palpation of the head and neck reveals a firm, non-tender, 1.5-cm submandibular lymph node on the right side. A deep wedge biopsy of the lip lesion reveals atypical squamous keratinocytes infiltrating the dermis with intercellular bridges, keratin pearls, and prominent perineural invasion around mental nerve branches. Which of the following is the most appropriate surgical management for this patient's primary lip tumor?",
+    "options": [
+      {
+        "text": "Standard wide local surgical excision with 2-mm margins without intraoperative frozen section evaluation",
+        "correct": false,
+        "explanation": "Standard 2-mm margins carry an unacceptably high recurrence and metastasis rate (>30%) for high-risk lip SCC with perineural invasion."
+      },
+      {
+        "text": "Liquid nitrogen cryosurgical ablation followed by topical imiquimod cream application",
+        "correct": false,
+        "explanation": "Destructive non-excisional modalities are strictly contraindicated for invasive, high-risk, perineural carcinomas because margins cannot be assessed."
+      },
+      {
+        "text": "Electrodessication and curettage (ED&C) performed in three consecutive cycles in the clinic",
+        "correct": false,
+        "explanation": "ED&C is reserved strictly for low-risk, superficial basal cell or squamous cell carcinomas on the trunk/extremities, not high-risk invasive lip lesions."
+      },
+      {
+        "text": "Primary definitive whole-brain radiotherapy without obtaining regional tissue staging",
+        "correct": false,
+        "explanation": "Primary radiation without surgical margin control or neck nodal staging is inadequate and exposes the patient to severe osteoradionecrosis of the mandible."
+      },
+      {
+        "text": "Mohs micrographic surgery (or surgical excision with complete microscopic peripheral and deep margin assessment) combined with staging head and neck imaging",
+        "correct": true,
+        "explanation": "This patient presents with a HIGH-RISK CUTANEOUS SQUAMOUS CELL CARCINOMA (cSCC) of the lower lip. High-risk features (NCCN criteria) include: (1) Anatomic location: LIP, ear, temple, or central face ('mask areas' of face); (2) Size >= 2 cm; (3) IMMUNOSUPPRESSION (organ transplant recipients have a 65- to 100-fold increased incidence and higher metastatic rates); (4) PERINEURAL INVASION (indicated clinically by mental nerve numbness and confirmed histologically); (5) Poorly defined borders; and (6) Regional lymphadenopathy (suggesting nodal metastasis). For high-risk cSCC, especially in cosmetically and functionally critical anatomic sites with perineural invasion, the standard of care is MOHS MICROGRAPHIC SURGERY (or complete circumferential peripheral and deep margin assessment [CCPDMA]), which allows 100% intraoperative histologic evaluation of all tissue margins while maximally preserving functional vermilion tissue. Staging with contrast-enhanced CT or MRI of the head and neck is required to evaluate regional nodal and perineural tumor extension, followed by formal lymph node dissection."
+      }
+    ],
+    "explanation": "This patient presents with a HIGH-RISK CUTANEOUS SQUAMOUS CELL CARCINOMA (cSCC) of the lower lip. High-risk features (NCCN criteria) include: (1) Anatomic location: LIP, ear, temple, or central face ('mask areas' of face); (2) Size >= 2 cm; (3) IMMUNOSUPPRESSION (organ transplant recipients have a 65- to 100-fold increased incidence and higher metastatic rates); (4) PERINEURAL INVASION (indicated clinically by mental nerve numbness and confirmed histologically); (5) Poorly defined borders; and (6) Regional lymphadenopathy (suggesting nodal metastasis). For high-risk cSCC, especially in cosmetically and functionally critical anatomic sites with perineural invasion, the standard of care is MOHS MICROGRAPHIC SURGERY (or complete circumferential peripheral and deep margin assessment [CCPDMA]), which allows 100% intraoperative histologic evaluation of all tissue margins while maximally preserving functional vermilion tissue. Staging with contrast-enhanced CT or MRI of the head and neck is required to evaluate regional nodal and perineural tumor extension, followed by formal lymph node dissection. Lip ulcer >2 cm + transplant patient + mental nerve numbness + perineural invasion = High-risk SCC -> Mohs micrographic surgery + Staging imaging.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cutaneous Squamous Cell Carcinoma High-Risk Features and Mohs.",
+    "keyPoints": [
+      "Cutaneous Squamous Cell Carcinoma High-Risk Features and Mohs",
+      "Lip ulcer >2 cm + transplant patient + mental nerve numbness + perineural invasion = High-risk SCC -> Mohs micrographic surgery + Staging imaging."
+    ],
+    "references": [
+      {
+        "label": "Schmults CD, Blitzblau R, Aasi SZ, et al. NCCN Guidelines Insights: Squamous Cell Skin Cancer, Version 1.2022. J Natl Compr Canc Netw. 2021;19(12):1382-1394. PMID: 34902824.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34902824/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0661",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Porphyria Cutanea Tarda Uroporphyrinogen Decarboxylase and Phlebotomy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 46-year-old man presents with chronic, recurrent blisters and sores on the backs of his hands that develop after mild trauma or sun exposure. Over the past 6 months, he has noted that minor scrapes cause the skin on his knuckles to shear off easily. He also notes dark facial discoloration and excessive hair growth along his temples and cheeks. He has a history of heavy alcohol consumption (4 to 6 beers daily) and chronic hepatitis C infection diagnosed 3 years ago that has not been treated. Physical examination reveals tense, fluid-filled vesicles, bullae, erosions, and pinpoint white cysts (milia) over the sun-exposed dorsal hands and forearms, with prominent hyperpigmentation and facial hypertrichosis (malar and temporal hair growth). Wood lamp examination of his urine reveals bright coral-pink/red fluorescence. Laboratory evaluation shows: total serum porphyrins markedly elevated, 24-hour urine porphyrin fraction demonstrates a predominance of uroporphyrin and 7-carboxylate porphyrin, serum ferritin is 840 ng/mL, AST is 88 U/L, and ALT is 94 U/L. Which of the following is the most appropriate first-line therapeutic intervention?",
+    "options": [
+      {
+        "text": "Serial therapeutic phlebotomy to achieve a target serum ferritin level below 20 ng/mL",
+        "correct": true,
+        "explanation": "This patient presents with PORPHYRIA CUTANEA TARDA (PCT), the most common porphyria, caused by an acquired or familial deficiency of UROPORPHYRINOGEN DECARBOXYLASE (UROD), the fifth enzyme in the heme synthesis pathway. Iron overload (hemochromatosis mutations), alcohol, estrogens, and particularly HEPATITIS C VIRUS (HCV) infection generate reactive oxygen species in hepatocytes, which oxidize uroporphyrinogen into uroporphomethene, an irreversible inhibitor of UROD. Excess uroporphyrins accumulate in the blood and deposit in the skin; exposure to sunlight (Soret band, ~400 nm) excites porphyrins to generate singlet oxygen, causing lipid peroxidation, subepidermal blistering, skin fragility, milia, and facial hypertrichosis. Wood lamp evaluation of urine reveals CORAL-PINK FLUORESCENCE. FIRST-LINE TREATMENT is REPEATED THERAPEUTIC PHLEBOTOMY (removal of 450 mL blood every 1-2 weeks) to deplete hepatic iron stores (goal serum ferritin < 20 ng/mL), which reactivates hepatic UROD. Alternatively, LOW-DOSE HYDROXYCHLOROQUINE (100 mg twice weekly, NOT standard malaria dosing) mobilizes and promotes renal porphyrin excretion. Direct-acting antiviral (DAA) therapy for HCV is initiated concurrently or after."
+      },
+      {
+        "text": "High-dose oral hydroxychloroquine 400 mg daily for 6 months as an anti-inflammatory",
+        "correct": false,
+        "explanation": "Standard high-dose hydroxychloroquine (400 mg daily) triggers massive, acute hepatic porphyrin release, causing severe fulminant hepatotoxicity and acute liver failure."
+      },
+      {
+        "text": "Intravenous hemin infusion daily for 4 days to downregulate aminolevulinic acid synthase",
+        "correct": false,
+        "explanation": "Intravenous hemin is used to treat ACUTE attacks of hepatic porphyrias (Acute Intermittent Porphyria), having no role in non-acute cutaneous porphyria cutanea tarda."
+      },
+      {
+        "text": "High-dose oral beta-carotene supplementation combined with psoralen plus ultraviolet A (PUVA) phototherapy",
+        "correct": false,
+        "explanation": "PUVA phototherapy exposes the patient to UVA radiation, which directly activates cutaneous porphyrins and causes catastrophic widespread blistering and necrosis."
+      },
+      {
+        "text": "Initiate oral penicillamine chelation therapy targeting total body copper elimination",
+        "correct": false,
+        "explanation": "Penicillamine chelates copper in Wilson disease; PCT is driven by hepatic IRON overload, not copper toxicity."
+      }
+    ],
+    "explanation": "This patient presents with PORPHYRIA CUTANEA TARDA (PCT), the most common porphyria, caused by an acquired or familial deficiency of UROPORPHYRINOGEN DECARBOXYLASE (UROD), the fifth enzyme in the heme synthesis pathway. Iron overload (hemochromatosis mutations), alcohol, estrogens, and particularly HEPATITIS C VIRUS (HCV) infection generate reactive oxygen species in hepatocytes, which oxidize uroporphyrinogen into uroporphomethene, an irreversible inhibitor of UROD. Excess uroporphyrins accumulate in the blood and deposit in the skin; exposure to sunlight (Soret band, ~400 nm) excites porphyrins to generate singlet oxygen, causing lipid peroxidation, subepidermal blistering, skin fragility, milia, and facial hypertrichosis. Wood lamp evaluation of urine reveals CORAL-PINK FLUORESCENCE. FIRST-LINE TREATMENT is REPEATED THERAPEUTIC PHLEBOTOMY (removal of 450 mL blood every 1-2 weeks) to deplete hepatic iron stores (goal serum ferritin < 20 ng/mL), which reactivates hepatic UROD. Alternatively, LOW-DOSE HYDROXYCHLOROQUINE (100 mg twice weekly, NOT standard malaria dosing) mobilizes and promotes renal porphyrin excretion. Direct-acting antiviral (DAA) therapy for HCV is initiated concurrently or after. Blisters on dorsal hands + HCV + alcohol + facial hypertrichosis + pink urine under Wood lamp = PCT -> Repeated therapeutic phlebotomy (target ferritin <20).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Porphyria Cutanea Tarda Uroporphyrinogen Decarboxylase and Phlebotomy.",
+    "keyPoints": [
+      "Porphyria Cutanea Tarda Uroporphyrinogen Decarboxylase and Phlebotomy",
+      "Blisters on dorsal hands + HCV + alcohol + facial hypertrichosis + pink urine under Wood lamp = PCT -> Repeated therapeutic phlebotomy (target ferritin <20)."
+    ],
+    "references": [
+      {
+        "label": "Singal AK. Porphyria cutanea tarda: recent advances. Clin Liver Dis. 2019;23(1):93-107. PMID: 30454836.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30454836/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0662",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Dermatology",
+    "topic": "Pemphigoid Gestationis Periumbilical Bullae and Direct Immunofluorescence",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old primigravida at 32 weeks of gestation presents to the obstetric triage unit with severe, unremitting itching and a rapidly spreading rash over her abdomen. The eruption began 4 days ago around her umbilicus and has since extended across her trunk and extremities. Physical examination shows an uncomfortable pregnant woman vigorously scratching her abdomen. Abdominal examination reveals intensely pruritic, erythematous, edematous urticarial plaques and papules centered squarely on the periumbilical region, with prominent tense, clear-fluid-filled bullae arising both within the plaques and on normal-appearing skin. The palms and soles are spared. Fetal cardiotocography demonstrates a reactive fetal heart rate tracing with normal baseline. Routine laboratory studies, including serum bile acids and liver transaminases, are completely normal. A perilesional skin biopsy is obtained. Which of the following findings on direct immunofluorescence microscopy of perilesional skin establishes the definitive diagnosis?",
+    "options": [
+      {
+        "text": "Completely negative direct and indirect immunofluorescence with intraepidermal spongiosis and eosinophilic infiltration",
+        "correct": false,
+        "explanation": "Negative immunofluorescence with spongiosis characterizes PUPPP (polymorphic eruption of pregnancy), which classically SPARES the periumbilical region."
+      },
+      {
+        "text": "Linear band of complement C3 (with or without IgG) along the basement membrane zone",
+        "correct": true,
+        "explanation": "This patient presents with PEMPHIGOID GESTATIONIS (formerly herpes gestationis, though completely unrelated to herpesvirus), a rare, autoimmune subepidermal blistering dermatosis of pregnancy (incidence 1 in 50,000). Pathophysiology: production of IgG1 autoantibodies (historically called 'herpes gestationis factor') directed against the NC16A non-collagenous domain of BULLOUS PEMPHIGOID ANTIGEN 2 (BP180 / collagen XVII) within hemidesmosomes. These antibodies cross-react with placental amniotic basement membrane antigens, triggering complement fixation, eosinophilic chemotaxis, and subepidermal blister formation. Hallmark presentation: begins in the SECOND OR THIRD TRIMESTER (or immediate postpartum) as INTENSELY PRURITIC URTICARIAL PLAQUES AND TENSE BULLAE THAT CHARACTERISTICALLY INVOLVE THE UMBILICUS (in >90% of cases). In contrast, PRURITIC URTICARIAL PAPULES AND PLAQUES OF PREGNANCY (PUPPP) STRIKINGLY SPARES THE UMBILICUS, does not form frank bullae, and has negative immunofluorescence. The gold standard diagnostic confirmation is DIRECT IMMUNOFLUORESCENCE (DIF) showing a CONTINUOUS LINEAR BAND OF COMPLEMENT C3 (and IgG in 30-50%) ALONG THE DERMAL-EPIDERMAL BASEMENT MEMBRANE ZONE. First-line therapy is high-potency topical or systemic glucocorticoids."
+      },
+      {
+        "text": "Granular deposition of immunoglobulin A (IgA) concentrated within the tips of dermal papillae",
+        "correct": false,
+        "explanation": "Granular IgA in dermal papillae is diagnostic for dermatitis herpetiformis (associated with celiac disease), not pemphigoid gestationis."
+      },
+      {
+        "text": "Intercellular 'chicken-wire' or 'fishnet-like' deposition of IgG and C3 throughout the epidermal stratum spinosum",
+        "correct": false,
+        "explanation": "Intercellular fishnet IgG deposition characterizes pemphigus vulgaris (anti-desmoglein-3 autoantibodies), which causes flaccid bullae and extensive mucosal ulcerations."
+      },
+      {
+        "text": "Markedly elevated serum total bile acids exceeding 40 micromol/L in the absence of any cutaneous rash",
+        "correct": false,
+        "explanation": "Bile acid elevation defines intrahepatic cholestasis of pregnancy, which presents with severe pruritus without primary rash or bullae."
+      }
+    ],
+    "explanation": "This patient presents with PEMPHIGOID GESTATIONIS (formerly herpes gestationis, though completely unrelated to herpesvirus), a rare, autoimmune subepidermal blistering dermatosis of pregnancy (incidence 1 in 50,000). Pathophysiology: production of IgG1 autoantibodies (historically called 'herpes gestationis factor') directed against the NC16A non-collagenous domain of BULLOUS PEMPHIGOID ANTIGEN 2 (BP180 / collagen XVII) within hemidesmosomes. These antibodies cross-react with placental amniotic basement membrane antigens, triggering complement fixation, eosinophilic chemotaxis, and subepidermal blister formation. Hallmark presentation: begins in the SECOND OR THIRD TRIMESTER (or immediate postpartum) as INTENSELY PRURITIC URTICARIAL PLAQUES AND TENSE BULLAE THAT CHARACTERISTICALLY INVOLVE THE UMBILICUS (in >90% of cases). In contrast, PRURITIC URTICARIAL PAPULES AND PLAQUES OF PREGNANCY (PUPPP) STRIKINGLY SPARES THE UMBILICUS, does not form frank bullae, and has negative immunofluorescence. The gold standard diagnostic confirmation is DIRECT IMMUNOFLUORESCENCE (DIF) showing a CONTINUOUS LINEAR BAND OF COMPLEMENT C3 (and IgG in 30-50%) ALONG THE DERMAL-EPIDERMAL BASEMENT MEMBRANE ZONE. First-line therapy is high-potency topical or systemic glucocorticoids. Pregnancy 32 wks + severe pruritus + tense bullae INVOLVING UMBILICUS = Pemphigoid gestationis -> Linear C3 along basement membrane zone on DIF.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Pemphigoid Gestationis Periumbilical Bullae and Direct Immunofluorescence.",
+    "keyPoints": [
+      "Pemphigoid Gestationis Periumbilical Bullae and Direct Immunofluorescence",
+      "Pregnancy 32 wks + severe pruritus + tense bullae INVOLVING UMBILICUS = Pemphigoid gestationis -> Linear C3 along basement membrane zone on DIF."
+    ],
+    "references": [
+      {
+        "label": "Ambros-Rudolph CM, Mullegger RR, Vaughan-Jones SA, et al. The specific dermatoses of pregnancy revisited and reclassified: results of a retrospective two-center study on 505 pregnant patients. J Am Acad Dermatol. 2006;54(3):395-404. PMID: 16488288.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16488288/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0663",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Sweet Syndrome Acute Febrile Neutrophilic Dermatosis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old woman undergoing evaluation for fatigue and mild weight loss presents to the clinic with sudden-onset high fevers, arthralgias, and a rapidly erupting, painful skin rash over her face, neck, and upper extremities for 3 days. Vital signs show: temperature 39.2 C (102.6 F), blood pressure 126/78 mm Hg, and pulse 108/min. Physical examination reveals multiple exquisitely tender, sharply demarcated, bright erythematous-to-violaceous succulent plaques and mammillated nodules on her forehead, posterior neck, and dorsal forearms. Some plaques exhibit a central pseudovesicular appearance due to profound papillary dermal edema, but no frank fluid-filled vesicles or pustules are present. Complete blood count demonstrates: hemoglobin 9.6 g/dL, platelet count 410,000/microL, and white blood cell count 18,200/microL with 86% segmented neutrophils and 6% band forms (absolute neutrophil count 16,740/microL). ESR is 88 mm/hr, and C-reactive protein is 142 mg/L. Blood cultures show no bacterial growth. A punch biopsy of an active forearm plaque demonstrates dense, diffuse neutrophilic infiltration throughout the upper and mid dermis accompanied by leukocytoclasia (nuclear debris) and severe papillary dermal edema, with a notable ABSENCE of necrotizing vasculitis. Which of the following is the most appropriate first-line pharmacotherapy?",
+    "options": [
+      {
+        "text": "Intravenous acyclovir monotherapy for suspected disseminated herpes simplex or zoster infection",
+        "correct": false,
+        "explanation": "The lesion lacks viral cytopathic changes (multinucleated giant cells, ballooning degeneration); Sweet syndrome is a sterile neutrophilic inflammatory reaction."
+      },
+      {
+        "text": "Broad-spectrum intravenous vancomycin plus piperacillin-tazobactam for extensive cellulitis",
+        "correct": false,
+        "explanation": "Cellulitis is unilateral and bacterial; Sweet syndrome presents with bilateral succulent plaques, negative blood/tissue cultures, and does not respond to antibiotics."
+      },
+      {
+        "text": "Systemic glucocorticoid therapy with oral prednisone resulting in rapid, dramatic clinical improvement within 48 to 72 hours",
+        "correct": true,
+        "explanation": "This patient exhibits the classic clinical, laboratory, and histopathologic criteria for SWEET SYNDROME (acute febrile neutrophilic dermatosis). Sweet syndrome is characterized by: (1) Sudden onset of high fever and leukocytosis with prominent neutrophilia; (2) Tender, succulent, bright erythematous plaques and nodules (often pseudovesicular due to massive papillary dermal edema); (3) Marked elevation of inflammatory markers (ESR, CRP); and (4) Histopathology demonstrating a DENSE DERMAL NEUTROPHILIC INFILTRATE WITHOUT LEUKOCYTOCLASTIC VASCULITIS (absence of fibrinoid vessel wall necrosis). Sweet syndrome is associated with hematologic malignancies (especially ACUTE MYELOID LEUKEMIA [AML] or myelodysplastic syndrome in ~20% of cases), solid tumors, infections, IBD, and medications (e.g., G-CSF / filgrastim). FIRST-LINE THERAPY IS SYSTEMIC GLUCOCORTICOIDS (oral prednisone 0.5-1.0 mg/kg/day). The response is famously prompt and dramatic: fever and cutaneous pain typically resolve within 24-48 hours, and skin lesions clear over several days. Colchicine or dapsone are second-line alternatives."
+      },
+      {
+        "text": "Topical 5% permethrin cream applied from neck to toes with a repeat application in 7 days",
+        "correct": false,
+        "explanation": "Permethrin treats scabies infestation (pruritic burrows in web spaces), which does not cause fever, marked neutrophilia, or succulent dermal neutrophilic plaques."
+      },
+      {
+        "text": "Intralesional methotrexate injections into all active facial and upper extremity plaques",
+        "correct": false,
+        "explanation": "Methotrexate intralesionally is ineffective and impractical for widespread inflammatory plaques; systemic corticosteroids provide rapid total disease control."
+      }
+    ],
+    "explanation": "This patient exhibits the classic clinical, laboratory, and histopathologic criteria for SWEET SYNDROME (acute febrile neutrophilic dermatosis). Sweet syndrome is characterized by: (1) Sudden onset of high fever and leukocytosis with prominent neutrophilia; (2) Tender, succulent, bright erythematous plaques and nodules (often pseudovesicular due to massive papillary dermal edema); (3) Marked elevation of inflammatory markers (ESR, CRP); and (4) Histopathology demonstrating a DENSE DERMAL NEUTROPHILIC INFILTRATE WITHOUT LEUKOCYTOCLASTIC VASCULITIS (absence of fibrinoid vessel wall necrosis). Sweet syndrome is associated with hematologic malignancies (especially ACUTE MYELOID LEUKEMIA [AML] or myelodysplastic syndrome in ~20% of cases), solid tumors, infections, IBD, and medications (e.g., G-CSF / filgrastim). FIRST-LINE THERAPY IS SYSTEMIC GLUCOCORTICOIDS (oral prednisone 0.5-1.0 mg/kg/day). The response is famously prompt and dramatic: fever and cutaneous pain typically resolve within 24-48 hours, and skin lesions clear over several days. Colchicine or dapsone are second-line alternatives. Fever + succulent tender plaques + ANC 16,700 + dense dermal neutrophils WITHOUT vasculitis = Sweet syndrome -> Systemic steroids (Prednisone).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Sweet Syndrome Acute Febrile Neutrophilic Dermatosis.",
+    "keyPoints": [
+      "Sweet Syndrome Acute Febrile Neutrophilic Dermatosis",
+      "Fever + succulent tender plaques + ANC 16,700 + dense dermal neutrophils WITHOUT vasculitis = Sweet syndrome -> Systemic steroids (Prednisone)."
+    ],
+    "references": [
+      {
+        "label": "Cohen PR. Sweet's syndrome--a comprehensive review of an acute febrile neutrophilic dermatosis. Orphanet J Rare Dis. 2007;2:34. PMID: 17655751.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17655751/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0664",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Hidradenitis Suppurativa Hurley Staging and Biologic Therapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old woman presents to the dermatology clinic with chronic, painful, recurrent boils and draining sores in her axillae and groin for the past 4 years. She has a history of cigarette smoking and obesity (BMI 34 kg/m^2). Over the past year, she has completed multiple courses of oral amoxicillin-clavulanate, cephalexin, and trimethoprim-sulfamethoxazole with only transient improvement. Physical examination reveals extensive bilateral axillary and inguinal disease: multiple tender, fluctuating inflammatory nodules, interconnecting subcutaneous draining sinus tracts with purulent malodorous discharge, open double-ended comedones ('tombstone comedones'), and thick, dense bridging hypertrophic rope-like scars across the entire axillary vault (Hurley Stage III). Wound cultures obtained during prior drainage procedures have yielded only normal skin flora. Which of the following represents the most appropriate evidence-based therapy to achieve disease remission in this patient?",
+    "options": [
+      {
+        "text": "Prescribe indefinite daily oral cephalexin 500 mg four times daily as long-term antimicrobial suppression",
+        "correct": false,
+        "explanation": "HS is primarily an autoinflammatory follicular occlusive disease rather than an infectious cellulitis; chronic cephalosporin therapy fails and induces bacterial resistance."
+      },
+      {
+        "text": "Perform repeated simple bedside stab incision and drainage of all fluctuating nodules as the sole ongoing strategy",
+        "correct": false,
+        "explanation": "Simple incision and drainage provides temporary pain relief for acute tense abscesses, but carries a recurrence rate approaching 100% and does not eliminate sinus tracts."
+      },
+      {
+        "text": "Apply topical 1% hydrocortisone cream twice daily and recommend frequent vigorous scrubbing with antibacterial soap",
+        "correct": false,
+        "explanation": "Vigorous mechanical friction and washing worsen follicular occlusion; low-potency topical steroids are completely futile for deep subcutaneous fistulas."
+      },
+      {
+        "text": "Initiate biologic therapy with the monoclonal anti-tumor necrosis factor-alpha antibody adalimumab, combined with surgical unroofing or excision of fibrotic tracts",
+        "correct": true,
+        "explanation": "This patient presents with severe HIDRADENITIS SUPPURATIVA (HS, acne inversa), Hurley Stage III. HS is a chronic, debilitating, immune-mediated inflammatory disorder of the terminal hair follicle (follicular occlusion and rupture in intertriginous apocrine gland-bearing areas: axillae, groin, perineum, inframammary folds). Risk factors include smoking, obesity, and positive family history. Disease progression: follicular hyperkeratosis -> follicular rupture -> foreign-body inflammatory reaction -> painful nodules and abscesses -> interconnecting epithelialized SINUS TRACTS and extensive rope-like scarring. Hurley staging: Stage I (isolated abscesses, no tracts/scars); Stage II (recurrent abscesses with single or separated sinus tracts and mild scarring); Stage III (diffuse involvement with MULTIPLE INTERCONNECTING TRACTS and extensive bridging fibrosis across entire anatomic zones). While Stage I/II responds to oral tetracyclines (doxycycline) or rifampin + clindamycin, HURLEY STAGE II/III HS REQUIRES BIOLOGIC THERAPY WITH ADALIMUMAB (anti-TNF-alpha monoclonal antibody), which is FDA-approved and demonstrated in the PIONEER I/II trials to significantly reduce inflammatory nodule count and pain. Established epithelialized sinus tracts do not resolve with medical therapy alone and require SURGICAL DERATOFIBRECTOMY (unroofing or wide surgical excision)."
+      },
+      {
+        "text": "Administer high-dose oral isotretinoin 1 mg/kg/day for 6 months as definitive curative monotherapy",
+        "correct": false,
+        "explanation": "Unlike acne vulgaris (which affects sebaceous glands), hidradenitis suppurativa involves terminal hair follicles; isotretinoin has poor efficacy in severe Hurley Stage III HS."
+      }
+    ],
+    "explanation": "This patient presents with severe HIDRADENITIS SUPPURATIVA (HS, acne inversa), Hurley Stage III. HS is a chronic, debilitating, immune-mediated inflammatory disorder of the terminal hair follicle (follicular occlusion and rupture in intertriginous apocrine gland-bearing areas: axillae, groin, perineum, inframammary folds). Risk factors include smoking, obesity, and positive family history. Disease progression: follicular hyperkeratosis -> follicular rupture -> foreign-body inflammatory reaction -> painful nodules and abscesses -> interconnecting epithelialized SINUS TRACTS and extensive rope-like scarring. Hurley staging: Stage I (isolated abscesses, no tracts/scars); Stage II (recurrent abscesses with single or separated sinus tracts and mild scarring); Stage III (diffuse involvement with MULTIPLE INTERCONNECTING TRACTS and extensive bridging fibrosis across entire anatomic zones). While Stage I/II responds to oral tetracyclines (doxycycline) or rifampin + clindamycin, HURLEY STAGE II/III HS REQUIRES BIOLOGIC THERAPY WITH ADALIMUMAB (anti-TNF-alpha monoclonal antibody), which is FDA-approved and demonstrated in the PIONEER I/II trials to significantly reduce inflammatory nodule count and pain. Established epithelialized sinus tracts do not resolve with medical therapy alone and require SURGICAL DERATOFIBRECTOMY (unroofing or wide surgical excision). Axillary draining sinus tracts + rope scars + double comedones (Hurley III) = Severe HS -> Adalimumab (anti-TNF) + Surgical excision.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hidradenitis Suppurativa Hurley Staging and Biologic Therapy.",
+    "keyPoints": [
+      "Hidradenitis Suppurativa Hurley Staging and Biologic Therapy",
+      "Axillary draining sinus tracts + rope scars + double comedones (Hurley III) = Severe HS -> Adalimumab (anti-TNF) + Surgical excision."
+    ],
+    "references": [
+      {
+        "label": "Alikhan A, Sayed C, Alavi A, et al. North American clinical management guidelines for hidradenitis suppurativa: A publication from the United States and Canadian Hidradenitis Suppurativa Foundations: Part II: Topical, intralesional, and systemic medical management. J Am Acad D...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30872149/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0665",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Alopecia Areata Exclamation Point Hairs and Triamcinolone",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man presents to the clinic with an area of rapid hair loss on the crown of his scalp that developed over the past 3 weeks. He has a history of Hashimoto thyroiditis for which he takes levothyroxine. Physical examination reveals an isolated, sharply demarcated, completely smooth, circular patch of hair loss measuring 4 cm in diameter on the vertex of the scalp. The underlying scalp skin is entirely normal in appearance, with no erythema, scaling, induration, or scarring. Gentle hair pull testing at the perimeter of the patch easily dislodges multiple short, broken hairs. Handheld dermoscopy reveals yellow dots (distended follicular infundibula filled with sebum) and multiple characteristic short, fractured hair shafts that are thicker and darker at the distal tip and tapered/hypopigmented toward the proximal scalp insertion ('exclamation point hairs'). There is no nail pitting or loss of body hair elsewhere. Which of the following is the most appropriate first-line therapy for this patient's condition?",
+    "options": [
+      {
+        "text": "Oral griseofulvin therapy for 8 weeks combined with selenium sulfide shampoo",
+        "correct": false,
+        "explanation": "Griseofulvin is the treatment for tinea capitis, which features scaly, erythematous, pruritic scalp patches with cervical lymphadenopathy and broken 'black dots'."
+      },
+      {
+        "text": "Daily oral finasteride 1 mg to block type II 5-alpha reductase conversion of testosterone",
+        "correct": false,
+        "explanation": "Finasteride is indicated for androgenetic alopecia (male-pattern baldness with gradual bitemporal recession and vertex thinning), not sudden smooth circular patches."
+      },
+      {
+        "text": "Application of topical 5% minoxidil foam as the sole primary disease-modifying therapy",
+        "correct": false,
+        "explanation": "Minoxidil is an adjunctive vasodilator that can stimulate non-specific growth, but does not address the underlying autoimmune T-cell peribulbar attack."
+      },
+      {
+        "text": "Systemic high-dose oral methotrexate combined with full-body PUVA phototherapy",
+        "correct": false,
+        "explanation": "Systemic immunosuppression and PUVA are reserved for extensive alopecia totalis or universalis; localized patchy disease is managed with local intralesional steroids."
+      },
+      {
+        "text": "Intralesional corticosteroid injections with triamcinolone acetonide administered directly into the alopecic patch",
+        "correct": true,
+        "explanation": "This patient presents with classic ALOPECIA AREATA (patchy type), an autoimmune condition characterized by T-cell-mediated destruction of hair follicles. Pathophysiology: loss of immune privilege of the hair follicle bulb, leading to CD8+ cytotoxic T-cell and CD4+ T-cell infiltration (histologically producing a 'swarm of bees' appearance around anagen hair bulbs), driving follicles prematurely into the telogen (resting) phase. It is strongly associated with other autoimmune disorders (Hashimoto thyroiditis, vitiligo, type 1 diabetes). Hallmark features: (1) Rapid onset of smooth, circular or oval patches of non-scarring alopecia with completely normal underlying skin (no erythema or scale, distinguishing it from tinea capitis); and (2) 'EXCLAMATION POINT HAIRS' (short, fractured hairs with a tapered proximal root and bulbous distal tip due to focal anagen arrest). For localized patchy alopecia areata involving <50% of the scalp, FIRST-LINE THERAPY IS INTRALESIONAL CORTICOSTEROID INJECTION (TRIAMCINOLONE ACETONIDE, 2.5-10 mg/mL injected intradermally every 4-6 weeks), which suppresses peribulbar T-cell inflammation and promotes hair regrowth in >60-75% of patients. High-potency topical corticosteroids are an alternative."
+      }
+    ],
+    "explanation": "This patient presents with classic ALOPECIA AREATA (patchy type), an autoimmune condition characterized by T-cell-mediated destruction of hair follicles. Pathophysiology: loss of immune privilege of the hair follicle bulb, leading to CD8+ cytotoxic T-cell and CD4+ T-cell infiltration (histologically producing a 'swarm of bees' appearance around anagen hair bulbs), driving follicles prematurely into the telogen (resting) phase. It is strongly associated with other autoimmune disorders (Hashimoto thyroiditis, vitiligo, type 1 diabetes). Hallmark features: (1) Rapid onset of smooth, circular or oval patches of non-scarring alopecia with completely normal underlying skin (no erythema or scale, distinguishing it from tinea capitis); and (2) 'EXCLAMATION POINT HAIRS' (short, fractured hairs with a tapered proximal root and bulbous distal tip due to focal anagen arrest). For localized patchy alopecia areata involving <50% of the scalp, FIRST-LINE THERAPY IS INTRALESIONAL CORTICOSTEROID INJECTION (TRIAMCINOLONE ACETONIDE, 2.5-10 mg/mL injected intradermally every 4-6 weeks), which suppresses peribulbar T-cell inflammation and promotes hair regrowth in >60-75% of patients. High-potency topical corticosteroids are an alternative. Smooth circular scalp hair loss + exclamation point hairs + Hashimoto thyroiditis = Alopecia areata -> Intralesional Triamcinolone acetonide.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Alopecia Areata Exclamation Point Hairs and Triamcinolone.",
+    "keyPoints": [
+      "Alopecia Areata Exclamation Point Hairs and Triamcinolone",
+      "Smooth circular scalp hair loss + exclamation point hairs + Hashimoto thyroiditis = Alopecia areata -> Intralesional Triamcinolone acetonide."
+    ],
+    "references": [
+      {
+        "label": "Messenger AG, McKillop J, Farrant P, et al. British Association of Dermatologists' guidelines for the management of alopecia areata 2012. Br J Dermatol. 2012;166(5):915-926. PMID: 22524397.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22524397/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0666",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Plaque Psoriasis Pre-Biologic Tuberculosis and Hepatitis Screening",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 42-year-old man presents with chronic, severe plaque psoriasis involving approximately 18% of his total body surface area, including thick, silvery-scaled plaques across his extensor elbows, knees, lower back, and scalp, with prominent nail pitting and oil-drop discoloration. Over the past 2 years, his disease has proven refractory to high-potency topical corticosteroids, calcipotriene, and oral methotrexate (which was discontinued due to elevated liver transaminases). His dermatologist recommends initiating biologic therapy with an anti-tumor necrosis factor-alpha (anti-TNF) inhibitor (adalimumab) or an anti-interleukin-17A monoclonal antibody (secukinumab). The patient has no cough, fevers, night sweats, or known tuberculosis exposure, but immigrated from the Philippines 12 years ago. Physical examination of the lungs is clear, and vital signs are normal. Which of the following pre-treatment screening evaluations is mandatory before initiating biologic therapy?",
+    "options": [
+      {
+        "text": "Interferon-gamma release assay (or tuberculin skin test) and viral hepatitis B and C serologies, accompanied by a baseline chest radiograph",
+        "correct": true,
+        "explanation": "Patients with moderate-to-severe plaque psoriasis undergoing initiation of biologic therapies (such as TNF-alpha inhibitors [adalimumab, infliximab, etanercept], IL-17 inhibitors [secukinumab, ixekizumab], or IL-23 inhibitors [guselkumab, risankizumab]) require MANDATORY PRE-TREATMENT SCREENING FOR LATENT INFECTIONS. TNF-alpha is essential for the formation and maintenance of granulomas that sequester Mycobacterium tuberculosis. Blockade of TNF-alpha or downstream cytokines leads to rapid breakdown of granulomas and catastrophic DISSEMINATED OR EXTRAPULMONARY TUBERCULOSIS REACTIVATION. Guidelines (AAD/NPF, CDC) mandate: (1) SCREENING FOR LATENT TUBERCULOSIS INFECTION (LTBI) with an INTERFERON-GAMMA RELEASE ASSAY (IGRA, QuantiFERON-TB Gold) or TUBERCULIN SKIN TEST (TST); (2) BASELINE CHEST RADIOGRAPH (CXR) to rule out active pulmonary lesions; and (3) VIRAL HEPATITIS SEROLOGIES (Hepatitis B surface antigen [HBsAg], core antibody [anti-HBc], surface antibody [anti-HBs], and Hepatitis C antibody) because immunosuppressive biologics can trigger fulminant hepatitis B reactivation and acute hepatic necrosis. If LTBI is identified, prophylactic therapy (e.g., 3-4 months of rifampin or isoniazid + rifapentine) must be initiated at least 1 month prior to starting biologic agents."
+      },
+      {
+        "text": "Serial serum immunoglobulin E (IgE) quantification and full-panel radioallergosorbent allergy testing",
+        "correct": false,
+        "explanation": "Allergy testing and IgE quantification do not identify infectious risks and are not recommended prior to initiating monoclonal antibody therapy."
+      },
+      {
+        "text": "Annual bone mineral density scanning (DEXA) and 24-hour urinary calcium excretion measurement",
+        "correct": false,
+        "explanation": "DEXA scanning is used for monitoring chronic glucocorticoid therapy; targeted biologics for psoriasis do not cause bone demineralization."
+      },
+      {
+        "text": "Complete diagnostic colonoscopy with multiple random mucosal biopsies to rule out occult celiac disease",
+        "correct": false,
+        "explanation": "Colonoscopy is indicated for suspected IBD; routine asymptomatic screening before psoriasis biologic initiation is completely unnecessary."
+      },
+      {
+        "text": "Pre-treatment 14-day empiric course of oral trimethoprim-sulfamethoxazole to eradicate potential Pneumocystis colonization",
+        "correct": false,
+        "explanation": "Empiric antimicrobial prophylaxis against Pneumocystis is not indicated for single-agent biologic therapy in psoriasis without profound lymphopenia."
+      }
+    ],
+    "explanation": "Patients with moderate-to-severe plaque psoriasis undergoing initiation of biologic therapies (such as TNF-alpha inhibitors [adalimumab, infliximab, etanercept], IL-17 inhibitors [secukinumab, ixekizumab], or IL-23 inhibitors [guselkumab, risankizumab]) require MANDATORY PRE-TREATMENT SCREENING FOR LATENT INFECTIONS. TNF-alpha is essential for the formation and maintenance of granulomas that sequester Mycobacterium tuberculosis. Blockade of TNF-alpha or downstream cytokines leads to rapid breakdown of granulomas and catastrophic DISSEMINATED OR EXTRAPULMONARY TUBERCULOSIS REACTIVATION. Guidelines (AAD/NPF, CDC) mandate: (1) SCREENING FOR LATENT TUBERCULOSIS INFECTION (LTBI) with an INTERFERON-GAMMA RELEASE ASSAY (IGRA, QuantiFERON-TB Gold) or TUBERCULIN SKIN TEST (TST); (2) BASELINE CHEST RADIOGRAPH (CXR) to rule out active pulmonary lesions; and (3) VIRAL HEPATITIS SEROLOGIES (Hepatitis B surface antigen [HBsAg], core antibody [anti-HBc], surface antibody [anti-HBs], and Hepatitis C antibody) because immunosuppressive biologics can trigger fulminant hepatitis B reactivation and acute hepatic necrosis. If LTBI is identified, prophylactic therapy (e.g., 3-4 months of rifampin or isoniazid + rifapentine) must be initiated at least 1 month prior to starting biologic agents. Refractory severe psoriasis starting biologic -> Mandatory screening: IGRA/TST for latent TB + Hepatitis B/C serologies + Chest X-ray.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Plaque Psoriasis Pre-Biologic Tuberculosis and Hepatitis Screening.",
+    "keyPoints": [
+      "Plaque Psoriasis Pre-Biologic Tuberculosis and Hepatitis Screening",
+      "Refractory severe psoriasis starting biologic -> Mandatory screening: IGRA/TST for latent TB + Hepatitis B/C serologies + Chest X-ray."
+    ],
+    "references": [
+      {
+        "label": "Elmets CA, Leonardi CL, Davis DMR, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with awareness and attention to comorbidities. J Am Acad Dermatol. 2019;80(4):1073-1113. PMID: 30772097.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30772097/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0667",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Fixed Drug Eruption Recurrence in Exact Anatomical Site",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 32-year-old man presents to the urgent care clinic with an intensely itchy, burning skin lesion on the glans of his penis that appeared 12 hours ago. He reports that 6 months ago, he had an identical painful, round sore in the exact same location after taking an over-the-counter pain medication for a sprained ankle, which healed over several weeks leaving a persistent dark brown spot. Yesterday evening, he took two tablets of naproxen for a tension headache. Physical examination reveals a solitary, sharply demarcated, 2-cm round, dusky erythematous to violaceous edematous plaque with a dusky, slate-grey center and an early central vesicle on the dorsal corona of the glans penis. There are no oral mucosal ulcers, urethral discharge, or inguinal lymphadenopathy. Examination of the remainder of his body reveals no other cutaneous lesions. Which of the following is the most likely diagnosis?",
+    "options": [
+      {
+        "text": "Primary syphilis presenting with an indurated, painless solitary chancre",
+        "correct": false,
+        "explanation": "Primary syphilitic chancre is a painless, clean-based, indurated ulcer with painless regional adenopathy, which does not recur rapidly within 12 hours of NSAID intake."
+      },
+      {
+        "text": "Fixed drug eruption caused by site-specific memory CD8+ cytotoxic T-cell reactivation following NSAID re-exposure",
+        "correct": true,
+        "explanation": "This patient exhibits the classic clinical presentation of a FIXED DRUG ERUPTION (FDE). Pathophysiology: a delayed-type hypersensitivity reaction mediated by intraepidermal CD8+ RESIDENT MEMORY T-CELLS that remain permanently localized within the basal layer of the epidermis at a specific anatomical site after initial exposure. Upon re-exposure to the culprit drug, these memory T-cells rapidly reactivate within hours, releasing interferon-gamma, cytotoxic granules (granzyme B, perforin), and tumor necrosis factor, causing localized keratinocyte apoptosis and vacuolar interface dermatitis. Cardinal features: (1) Re-exposure produces an eruption in the EXACT SAME ANATOMICAL LOCATION within 30 minutes to 8 hours; (2) Solitary or few sharply circumscribed, round-to-oval, dusky erythematous/violaceous edematous plaques, often with a central blister or erosion; (3) Predilection for the GENITALIA (glans penis), lips, face, and hands; and (4) Healing with persistent POST-INFLAMMATORY HYPERPIGMENTATION (slate-grey pigmentation due to dermal melanophage accumulation). Common culprits: NSAIDs (naproxen, ibuprofen), SULFONAMIDES (trimethoprim-sulfamethoxazole), TETRACYCLINES, and carbamazepine. Management: DISCONTINUATION AND FUTURE AVOIDANCE of the offending agent."
+      },
+      {
+        "text": "Recurrent genital herpes simplex virus infection with grouped microvesicles on an erythematous base",
+        "correct": false,
+        "explanation": "Genital herpes presents with multiple tiny grouped vesicles that rupture into painful shallow ulcers, not a solitary 2-cm dusky round plaque leaving slate-grey pigmentation."
+      },
+      {
+        "text": "Behçet disease with recurrent painful aphthous genital ulcerations",
+        "correct": false,
+        "explanation": "Behçet disease presents with recurrent painful oral and genital aphthae, uveitis, and pathergy, having zero direct temporal trigger from sporadic NSAID ingestion."
+      },
+      {
+        "text": "Squamous cell carcinoma in situ (erythroplasia of Queyrat) of the penile glans",
+        "correct": false,
+        "explanation": "Erythroplasia of Queyrat presents as a chronic, persistent, slowly expanding, velvety red plaque on the uncircumcised glans, not an acute episodic recurrent dusky plaque."
+      }
+    ],
+    "explanation": "This patient exhibits the classic clinical presentation of a FIXED DRUG ERUPTION (FDE). Pathophysiology: a delayed-type hypersensitivity reaction mediated by intraepidermal CD8+ RESIDENT MEMORY T-CELLS that remain permanently localized within the basal layer of the epidermis at a specific anatomical site after initial exposure. Upon re-exposure to the culprit drug, these memory T-cells rapidly reactivate within hours, releasing interferon-gamma, cytotoxic granules (granzyme B, perforin), and tumor necrosis factor, causing localized keratinocyte apoptosis and vacuolar interface dermatitis. Cardinal features: (1) Re-exposure produces an eruption in the EXACT SAME ANATOMICAL LOCATION within 30 minutes to 8 hours; (2) Solitary or few sharply circumscribed, round-to-oval, dusky erythematous/violaceous edematous plaques, often with a central blister or erosion; (3) Predilection for the GENITALIA (glans penis), lips, face, and hands; and (4) Healing with persistent POST-INFLAMMATORY HYPERPIGMENTATION (slate-grey pigmentation due to dermal melanophage accumulation). Common culprits: NSAIDs (naproxen, ibuprofen), SULFONAMIDES (trimethoprim-sulfamethoxazole), TETRACYCLINES, and carbamazepine. Management: DISCONTINUATION AND FUTURE AVOIDANCE of the offending agent. Recurrent dusky round plaque in EXACT SAME penile site after taking naproxen = Fixed drug eruption -> Offending NSAID re-exposure.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Fixed Drug Eruption Recurrence in Exact Anatomical Site.",
+    "keyPoints": [
+      "Fixed Drug Eruption Recurrence in Exact Anatomical Site",
+      "Recurrent dusky round plaque in EXACT SAME penile site after taking naproxen = Fixed drug eruption -> Offending NSAID re-exposure."
+    ],
+    "references": [
+      {
+        "label": "Patel S, John AM, Handler MZ, et al. Fixed drug eruptions: an update, emphasizing the potentially lethal generalized bullous type. Am J Clin Dermatol. 2020;21(3):393-399. PMID: 32002826.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32002826/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0668",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Erythema Nodosum Diagnostic Workup and Chest Radiograph",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 26-year-old woman presents to the clinic with painful red bumps on her lower legs, low-grade fevers, and bilateral ankle stiffness for 1 week. She has no chronic medical conditions and takes no medications other than an oral contraceptive pill. Physical examination reveals an uncomfortable woman. Temperature is 37.8 C (100.0 F), blood pressure 118/74 mm Hg, and pulse 78/min. Cutaneous examination reveals multiple exquisitely tender, warm, non-ulcerative, poorly circumscribed, erythematous, raised subcutaneous nodules measuring 2 to 5 cm in diameter distributed symmetrically over the bilateral anterior pretibial surfaces. The overlying skin is tense and shiny. Palpation of the nodules elicits severe pain. There is bilateral periarticular swelling and tenderness of the ankles without true joint effusion. The remainder of the physical examination, including cardiopulmonary and abdominal examinations, is normal. Complete blood count shows a normal white blood cell count; ESR is elevated at 54 mm/hr. In addition to reviewing her medications, which of the following is the most appropriate initial diagnostic investigation?",
+    "options": [
+      {
+        "text": "Emergency deep incisional surgical wedge biopsy down into the periosteum under general anesthesia",
+        "correct": false,
+        "explanation": "Deep incisional biopsy is indicated only if the diagnosis is atypical or doubtful; classic pretibial nodules do not require routine invasive surgical biopsy."
+      },
+      {
+        "text": "Urgent bilateral lower extremity venous duplex ultrasonography to rule out superficial thrombophlebitis",
+        "correct": false,
+        "explanation": "Duplex ultrasound is unnecessary; erythema nodosum consists of tender subcutaneous nodules, not cord-like induration along the course of the saphenous veins."
+      },
+      {
+        "text": "Posteroanterior and lateral chest radiography to evaluate for bilateral hilar lymphadenopathy",
+        "correct": true,
+        "explanation": "This patient presents with classic ERYTHEMA NODOSUM (EN), the most common form of panniculitis (inflammation of subcutaneous adipose tissue, specifically septal panniculitis without vasculitis). Clinical presentation: sudden onset of painful, tender, erythematous, non-ulcerating nodules typically localized symmetrically over the ANTERIOR SHINS (pretibial area), often accompanied by fever and arthralgias (especially ankles). As the nodules resolve over 2-8 weeks, they evolve into bruise-like yellowish-green discoloration ('erythema contusiformis') without scarring. Erythema nodosum is a DELAYED-TYPE HYPERSENSITIVITY REACTION triggered by diverse antigenic stimuli: (1) SARCOIDOSIS (Löfgren syndrome: triad of erythema nodosum, bilateral hilar lymphadenopathy, and migratory polyarthritis); (2) INFECTIONS (Streptococcal pharyngitis [most common infectious cause], primary tuberculosis, endemic mycoses like Coccidioides/Histoplasma); (3) DRUGS (oral contraceptives, sulfonamides, penicillins); and (4) INFLAMMATORY BOWEL DISEASE (Crohn disease, ulcerative colitis). The INITIAL DIAGNOSTIC INVESTIGATION OF CHOICE IS CHEST RADIOGRAPHY (CXR) to screen for BILATERAL HILAR LYMPHADENOPATHY (sarcoidosis) and pulmonary infiltrates (tuberculosis/fungal infections)."
+      },
+      {
+        "text": "Serum antinuclear antibody (ANA) and anti-double-stranded DNA titer testing to confirm systemic lupus",
+        "correct": false,
+        "explanation": "Lupus panniculitis causes deep, painful subcutaneous nodules on the face, arms, and buttocks that heal with lipoatrophy and scarring, unlike pretibial EN."
+      },
+      {
+        "text": "Initiate oral high-dose acyclovir therapy for suspected disseminated cutaneous herpes zoster",
+        "correct": false,
+        "explanation": "Herpes zoster presents as grouped dermatomal vesicles, not bilateral pretibial non-ulcerated subcutaneous inflammatory fat nodules."
+      }
+    ],
+    "explanation": "This patient presents with classic ERYTHEMA NODOSUM (EN), the most common form of panniculitis (inflammation of subcutaneous adipose tissue, specifically septal panniculitis without vasculitis). Clinical presentation: sudden onset of painful, tender, erythematous, non-ulcerating nodules typically localized symmetrically over the ANTERIOR SHINS (pretibial area), often accompanied by fever and arthralgias (especially ankles). As the nodules resolve over 2-8 weeks, they evolve into bruise-like yellowish-green discoloration ('erythema contusiformis') without scarring. Erythema nodosum is a DELAYED-TYPE HYPERSENSITIVITY REACTION triggered by diverse antigenic stimuli: (1) SARCOIDOSIS (Löfgren syndrome: triad of erythema nodosum, bilateral hilar lymphadenopathy, and migratory polyarthritis); (2) INFECTIONS (Streptococcal pharyngitis [most common infectious cause], primary tuberculosis, endemic mycoses like Coccidioides/Histoplasma); (3) DRUGS (oral contraceptives, sulfonamides, penicillins); and (4) INFLAMMATORY BOWEL DISEASE (Crohn disease, ulcerative colitis). The INITIAL DIAGNOSTIC INVESTIGATION OF CHOICE IS CHEST RADIOGRAPHY (CXR) to screen for BILATERAL HILAR LYMPHADENOPATHY (sarcoidosis) and pulmonary infiltrates (tuberculosis/fungal infections). Painful pretibial tender red nodules + ankle arthralgia = Erythema nodosum -> Chest Radiograph (screen for sarcoidosis/Löfgren syndrome).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Erythema Nodosum Diagnostic Workup and Chest Radiograph.",
+    "keyPoints": [
+      "Erythema Nodosum Diagnostic Workup and Chest Radiograph",
+      "Painful pretibial tender red nodules + ankle arthralgia = Erythema nodosum -> Chest Radiograph (screen for sarcoidosis/Löfgren syndrome)."
+    ],
+    "references": [
+      {
+        "label": "Schwartz RA, Nervi SJ. Erythema nodosum: a sign of systemic disease. Am Fam Physician. 2007;75(5):695-700. PMID: 17375516.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17375516/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0669",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Dermatology",
+    "topic": "Bullous Impetigo Exfoliative Toxin A and Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 3-year-old boy is brought to the pediatric clinic by his mother because of blistering sores around his nose, chin, and trunk for 4 days. His mother notes that the sores started as small clear bubbles that rapidly expanded, burst easily, and left raw red areas with thin, brownish crusts. Physical examination reveals multiple flaccid, clear-to-turbid fluid-filled bullae measuring 1 to 3 cm in diameter on his lower face, perioral area, and anterior chest wall. Several bullae have ruptured, leaving circular, shallow, erythematous erosions with a thin, collarette-like rim of peeling epidermis and delicate light-brown crusting without thick golden 'honey-colored' crusts. There is mild, non-tender submandibular lymphadenopathy. The child is playful, afebrile, and non-toxic, with vital signs within normal limits. Gentle lateral pressure on normal-appearing skin does not elicit epidermal detachment (negative Nikolsky sign). Direct Gram stain of fluid aspirated from an unruptured bulla demonstrates gram-positive cocci in clusters and numerous neutrophils. Which of the following is the most appropriate treatment for this localized condition?",
+    "options": [
+      {
+        "text": "Oral acyclovir high-dose therapy for 10 days to inhibit viral DNA polymerase",
+        "correct": false,
+        "explanation": "Acyclovir treats herpes simplex infections; the Gram stain demonstrates gram-positive cocci in clusters (Staphylococcus aureus), ruling out viral etiology."
+      },
+      {
+        "text": "Intravenous vancomycin and emergency transfer to a regional burn intensive care unit",
+        "correct": false,
+        "explanation": "Burn unit admission is required for toxic epidermal necrolysis, not localized, afebrile bullous impetigo with intact healthy skin and negative Nikolsky sign."
+      },
+      {
+        "text": "High-dose systemic oral prednisone combined with topical clobetasol ointment",
+        "correct": false,
+        "explanation": "Corticosteroids are contraindicated in bacterial skin infections because immunosuppression promotes rapid staphylococcal replication and systemic bacteremia."
+      },
+      {
+        "text": "Topical mupirocin 2% ointment applied three times daily (or oral cephalexin if lesions become extensive)",
+        "correct": true,
+        "explanation": "This patient presents with BULLOUS IMPETIGO, a localized cutaneous infection caused exclusively by STAPHYLOCOCCUS AUREUS producing EXFOLIATIVE TOXIN A. Unlike non-bullous impetigo (which presents with honey-colored crusted erosions and can be caused by S. aureus or Streptococcus pyogenes), bullous impetigo is characterized by FLACCID, THIN-WALLED BULLAE containing clear or cloudy fluid that rupture easily to leave shallow erosions with a peripheral collarette of scale. Pathophysiology: localized secretion of exfoliative toxin A cleaves DESMOGLEIN-1 in the subcorneal layer of the epidermis, creating an intraepidermal cleavage plane. Because the toxin is produced locally at the site of infection (rather than circulating systemically as in SSSS), bacteria and neutrophils ARE PRESENT WITHIN THE BULLA FLUID on Gram stain, and systemic signs (fever, widespread denudation, Nikolsky sign) are absent. For localized bullous impetigo, FIRST-LINE THERAPY IS TOPICAL MUPIROCIN 2% OINTMENT or retapamulin applied three times daily for 5-7 days. For widespread, extensive lesions, systemic oral antistaphylococcal antibiotics (such as ORAL CEPHALEXIN) are indicated."
+      },
+      {
+        "text": "Application of topical 5% permethrin cream from the neck down with repeated application in 1 week",
+        "correct": false,
+        "explanation": "Permethrin treats scabietic mite infestation; it has zero antibacterial activity against toxin-producing Staphylococcus aureus."
+      }
+    ],
+    "explanation": "This patient presents with BULLOUS IMPETIGO, a localized cutaneous infection caused exclusively by STAPHYLOCOCCUS AUREUS producing EXFOLIATIVE TOXIN A. Unlike non-bullous impetigo (which presents with honey-colored crusted erosions and can be caused by S. aureus or Streptococcus pyogenes), bullous impetigo is characterized by FLACCID, THIN-WALLED BULLAE containing clear or cloudy fluid that rupture easily to leave shallow erosions with a peripheral collarette of scale. Pathophysiology: localized secretion of exfoliative toxin A cleaves DESMOGLEIN-1 in the subcorneal layer of the epidermis, creating an intraepidermal cleavage plane. Because the toxin is produced locally at the site of infection (rather than circulating systemically as in SSSS), bacteria and neutrophils ARE PRESENT WITHIN THE BULLA FLUID on Gram stain, and systemic signs (fever, widespread denudation, Nikolsky sign) are absent. For localized bullous impetigo, FIRST-LINE THERAPY IS TOPICAL MUPIROCIN 2% OINTMENT or retapamulin applied three times daily for 5-7 days. For widespread, extensive lesions, systemic oral antistaphylococcal antibiotics (such as ORAL CEPHALEXIN) are indicated. Toddler + flaccid bullae + collarette crust + Gram-positive cocci in clusters = Bullous impetigo -> Topical Mupirocin (or oral cephalexin).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Bullous Impetigo Exfoliative Toxin A and Management.",
+    "keyPoints": [
+      "Bullous Impetigo Exfoliative Toxin A and Management",
+      "Toddler + flaccid bullae + collarette crust + Gram-positive cocci in clusters = Bullous impetigo -> Topical Mupirocin (or oral cephalexin)."
+    ],
+    "references": [
+      {
+        "label": "Hartman-Adams H, Banvard C, Juckett G. Impetigo: diagnosis and treatment. Am Fam Physician. 2014;90(4):229-235. PMID: 25250996.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25250996/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0670",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Sporotrichosis Lymphocutaneous Spread and Itraconazole",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 48-year-old avid home gardener presents to the clinic with persistent skin lesions on his right hand and forearm for 4 weeks. He recalls puncturing his right index finger on a dry rose bush thorn while pruning without gloves approximately 5 weeks ago. A few days later, a small, painless red bump appeared at the puncture site, which gradually enlarged and broke down into an open ulcer. Over the past 2 weeks, he has developed several new painless subcutaneous lumps that have appeared sequentially moving up his forearm along the inside of his arm. He has no fevers, chills, or weight loss. Physical examination reveals an indurated, non-tender, 1.5-cm ulcerated nodule with a granulomatous base over the dorsal right index finger. Proximally along the medial right forearm, a linear chain of four discrete, firm, non-tender, erythematous subcutaneous nodules is palpated following the course of superficial lymphatic channels ('sporotrichoid spread'). Axillary lymph nodes are non-tender and mobile. Fungal culture of a biopsy from the primary finger ulcer grows a dimorphic fungus exhibiting thin, septate hyphae with clusters of conidia arranged like a rosette or daisy head at 25 C, and cigar-shaped budding yeast at 37 C. Which of the following is the most appropriate first-line pharmacotherapy?",
+    "options": [
+      {
+        "text": "Intravenous liposomal amphotericin B for 12 weeks as mandatory initial inpatient therapy",
+        "correct": false,
+        "explanation": "Amphotericin B is reserved for severe visceral, pulmonary, or disseminated systemic sporotrichosis; localized lymphocutaneous disease is effectively cured with oral itraconazole."
+      },
+      {
+        "text": "Oral amoxicillin-clavulanate for 10 days targeting secondary cutaneous streptococcal cellulitis",
+        "correct": false,
+        "explanation": "Sporothrix schenckii is an invasive fungal pathogen; antibacterial therapy has zero clinical effect and permits further proximal lymphocutaneous fungal extension."
+      },
+      {
+        "text": "Surgical wide local excision and lymphatic vein ligation of the entire ascending forearm chain",
+        "correct": false,
+        "explanation": "Surgical manipulation of active sporotrichosis can induce non-healing chronic draining sinus tracts and bacterial superinfection; medical antifungals are curative."
+      },
+      {
+        "text": "Topical terbinafine cream 1% applied twice daily to the finger ulcer for 2 weeks",
+        "correct": false,
+        "explanation": "Topical antifungals cannot penetrate deep subcutaneous lymphatic tissue or eradicate deep ascending granulomatous fungal nodules."
+      },
+      {
+        "text": "Oral itraconazole administered daily for 3 to 6 months",
+        "correct": true,
+        "explanation": "This patient presents with classic LYMPHOCUTANEOUS SPOROTRICHOSIS ('rose gardener's disease'), caused by the thermally dimorphic environmental fungus SPOROTHRIX SCHENCKII (found on decaying plant vegetation, rose thorns, sphagnum moss, and soil). Pathophysiology: traumatic subcutaneous inoculation of fungal spores leads to a primary localized granulomatous ulcer/papule at the site of inoculation, followed by proximal, LINEAR ASCENDING SPREAD ALONG LYMPHATIC CHANNELS with the formation of secondary subcutaneous nodules ('SPOROTRICHOID / NODULAR LYMPHANGITIC SPREAD'). Fungal morphology: thermally dimorphic (mold with 'rosette' conidiophores at 25 C, cigar-shaped budding yeast at 37 C). Standard FIRST-LINE THERAPY FOR CUTANEOUS AND LYMPHOCUTANEOUS SPOROTRICHOSIS IS ORAL ITRACONAZOLE (200 mg daily for 3 to 6 months, continuing for 2-4 weeks after all lesions have completely resolved). Terbinafine is an acceptable second-line agent. Intravenous amphotericin B is reserved strictly for severe, disseminated, pulmonary, or life-threatening systemic sporotrichosis in immunocompromised hosts."
+      }
+    ],
+    "explanation": "This patient presents with classic LYMPHOCUTANEOUS SPOROTRICHOSIS ('rose gardener's disease'), caused by the thermally dimorphic environmental fungus SPOROTHRIX SCHENCKII (found on decaying plant vegetation, rose thorns, sphagnum moss, and soil). Pathophysiology: traumatic subcutaneous inoculation of fungal spores leads to a primary localized granulomatous ulcer/papule at the site of inoculation, followed by proximal, LINEAR ASCENDING SPREAD ALONG LYMPHATIC CHANNELS with the formation of secondary subcutaneous nodules ('SPOROTRICHOID / NODULAR LYMPHANGITIC SPREAD'). Fungal morphology: thermally dimorphic (mold with 'rosette' conidiophores at 25 C, cigar-shaped budding yeast at 37 C). Standard FIRST-LINE THERAPY FOR CUTANEOUS AND LYMPHOCUTANEOUS SPOROTRICHOSIS IS ORAL ITRACONAZOLE (200 mg daily for 3 to 6 months, continuing for 2-4 weeks after all lesions have completely resolved). Terbinafine is an acceptable second-line agent. Intravenous amphotericin B is reserved strictly for severe, disseminated, pulmonary, or life-threatening systemic sporotrichosis in immunocompromised hosts. Rose thorn puncture + primary finger ulcer + linear nodules ascending arm + cigar-shaped yeast = Sporotrichosis -> Oral Itraconazole (3-6 months).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Sporotrichosis Lymphocutaneous Spread and Itraconazole.",
+    "keyPoints": [
+      "Sporotrichosis Lymphocutaneous Spread and Itraconazole",
+      "Rose thorn puncture + primary finger ulcer + linear nodules ascending arm + cigar-shaped yeast = Sporotrichosis -> Oral Itraconazole (3-6 months)."
+    ],
+    "references": [
+      {
+        "label": "Kauffman CA, Bustamante B, Chapman SW, et al. Clinical practice guideline for the management of sporotrichosis: 2007 update by the Infectious Diseases Society of America. Clin Infect Dis. 2007;45(10):1255-1265. PMID: 17955470.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17955470/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0671",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Cutaneous Larva Migrans Creeping Eruption and Ivermectin",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old woman presents to the clinic with an intensely pruritic rash on the sole and medial aspect of her right foot for 6 days. The itching is excruciating, particularly at night, and has prevented her from sleeping. Ten days ago, she returned from a vacation in the Caribbean, where she frequently walked barefoot along sandy beaches where stray dogs and cats were present. Physical examination reveals an erythematous, slightly raised, 2-mm-wide, intensely vesicular and serpiginous (snake-like, winding) creeping cutaneous track on the plantar arch of her right foot. The patient notes that the red track has been advancing forward by approximately 1 to 2 cm each day. The remainder of the physical examination is normal, with no lymphadenopathy, fever, or pulmonary symptoms. Complete blood count reveals a normal white blood cell count with 6% eosinophils. Which of the following is the most appropriate first-line pharmacotherapy?",
+    "options": [
+      {
+        "text": "Oral ivermectin (single dose of 200 microg/kg) or oral albendazole for 3 to 7 days",
+        "correct": true,
+        "explanation": "This patient presents with CUTANEOUS LARVA MIGRANS (CLM, 'creeping eruption'), the most common travel-associated dermatosis acquired from tropical beaches. Pathophysiology: transmission occurs when skin contacts soil or sand contaminated with animal feces containing infective third-stage filariform larvae of animal hookworms, most commonly ANCYLOSTOMA BRAZILIENSE or Ancylostoma caninum (canine and feline hookworms). The larvae penetrate intact human skin, usually on the feet, buttocks, or thighs. Because humans are accidental, dead-end hosts, the larvae lack the collagenases required to penetrate the human basement membrane and enter circulation; instead, they remain confined to the EPIDERMIS, creeping randomly within the stratum germinativum at a rate of 1 to 2 cm per day. This produces an INTENSELY PRURITIC, ERYTHEMATOUS, SERPIGINOUS, ELEVATED TRACK. The treatment of choice is an antihelminthic agent: a SINGLE ORAL DOSE OF IVERMECTIN (200 microg/kg) or ORAL ALBENDAZOLE (400 mg daily for 3-7 days). Both achieve cure rates >95-100% and prompt relief of pruritus within 48 hours."
+      },
+      {
+        "text": "Cryosurgery with liquid nitrogen applied directly to the advancing leading edge of the track",
+        "correct": false,
+        "explanation": "Cryotherapy is ineffective and not recommended because the microscopic larva is typically located several centimeters ahead of the visible inflammatory track, causing painful thermal burns without killing the parasite."
+      },
+      {
+        "text": "Topical 5% permethrin cream applied under occlusive dressings for 14 days",
+        "correct": false,
+        "explanation": "Permethrin is an antiparasitic neurotoxin active against ectoparasitic mites (Sarcoptes scabiei) and lice, but is completely inactive against migrating nematode helminth larvae."
+      },
+      {
+        "text": "Oral cephalexin 500 mg four times daily combined with topical clotrimazole cream",
+        "correct": false,
+        "explanation": "Antibacterial and antifungal therapies do not kill nematode parasites and fail to arrest the advancing larva or relieve severe pruritus."
+      },
+      {
+        "text": "Surgical wide excision and curettage of the serpiginous cutaneous burrow",
+        "correct": false,
+        "explanation": "Surgical excision causes painful plantar scarring and permanent morbidity, and is completely unnecessary for a superficial helminth infection cured by a single dose of oral ivermectin."
+      }
+    ],
+    "explanation": "This patient presents with CUTANEOUS LARVA MIGRANS (CLM, 'creeping eruption'), the most common travel-associated dermatosis acquired from tropical beaches. Pathophysiology: transmission occurs when skin contacts soil or sand contaminated with animal feces containing infective third-stage filariform larvae of animal hookworms, most commonly ANCYLOSTOMA BRAZILIENSE or Ancylostoma caninum (canine and feline hookworms). The larvae penetrate intact human skin, usually on the feet, buttocks, or thighs. Because humans are accidental, dead-end hosts, the larvae lack the collagenases required to penetrate the human basement membrane and enter circulation; instead, they remain confined to the EPIDERMIS, creeping randomly within the stratum germinativum at a rate of 1 to 2 cm per day. This produces an INTENSELY PRURITIC, ERYTHEMATOUS, SERPIGINOUS, ELEVATED TRACK. The treatment of choice is an antihelminthic agent: a SINGLE ORAL DOSE OF IVERMECTIN (200 microg/kg) or ORAL ALBENDAZOLE (400 mg daily for 3-7 days). Both achieve cure rates >95-100% and prompt relief of pruritus within 48 hours. Barefoot on tropical beach + intensely itchy serpiginous advancing track = Cutaneous larva migrans (Ancylostoma) -> Oral Ivermectin (or albendazole).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cutaneous Larva Migrans Creeping Eruption and Ivermectin.",
+    "keyPoints": [
+      "Cutaneous Larva Migrans Creeping Eruption and Ivermectin",
+      "Barefoot on tropical beach + intensely itchy serpiginous advancing track = Cutaneous larva migrans (Ancylostoma) -> Oral Ivermectin (or albendazole)."
+    ],
+    "references": [
+      {
+        "label": "Heukelbach J, Feldmeier H. Epidemiological and clinical characteristics of hookworm-related cutaneous larva migrans. Lancet Infect Dis. 2008;8(5):302-309. PMID: 18471729.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18471729/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0672",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Ecthyma Gangrenosum in Neutropenic Pseudomonas Sepsis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old woman with acute myeloid leukemia undergoing induction chemotherapy with cytarabine and daunorubicin develops sudden-onset high fevers, chills, and confusion on hospital day 11. Complete blood count reveals: white blood cell count 320/microL with 0% neutrophils (absolute neutrophil count 0/microL, profound neutropenia), hemoglobin 7.8 g/dL, and platelet count 18,000/microL. Vital signs: temperature 39.5 C (103.1 F), blood pressure 82/48 mm Hg, pulse 128/min, and respirations 24/min. Physical examination reveals an ill-appearing, obtunded patient. Examination of the skin demonstrates two discrete, round, 3-cm necrotic cutaneous ulcers with prominent central black-to-grey eschars surrounded by an erythematous, indurated halo in the left axilla and medial groin. The lesions began 12 hours ago as painless pink macules that rapidly evolved into hemorrhagic, violaceous bullae before rupturing into black necrotic sloughs. Blood cultures are drawn. In addition to aggressive fluid resuscitation with isotonic saline and vasopressor support, which of the following is the most appropriate immediate empiric antimicrobial therapy?",
+    "options": [
+      {
+        "text": "Intravenous vancomycin monotherapy targeting hospital-acquired methicillin-resistant Staphylococcus aureus",
+        "correct": false,
+        "explanation": "Vancomycin has zero activity against gram-negative bacilli such as Pseudomonas aeruginosa, which is the primary cause of ecthyma gangrenosum; monotherapy is fatal."
+      },
+      {
+        "text": "Intravenous antipseudomonal beta-lactam monotherapy (e.g., cefepime, piperacillin-tazobactam, or meropenem) with consideration of an aminoglycoside for synergy",
+        "correct": true,
+        "explanation": "This patient exhibits classic ECTHYMA GANGRENOSUM (EG), a cutaneous manifestation of severe, life-threatening bacteremia seen predominantly in profoundly neutropenic patients (ANC < 500/microL), most classically caused by PSEUDOMONAS AERUGINOSA bacteremia (or occasionally other opportunistic pathogens such as Aeromonas or Fusarium). Pathophysiology: hematogenous seeding of bacteria into cutaneous dermal and subcutaneous blood vessels. Pseudomonas produces virulence factors (elastase, exotoxin A, proteases) that directly INVADE AND DESTROY DERMAL VESSEL WALLS, producing necrotizing vasculitis, ischemic thrombosis, and hemorrhagic infarction of the overlying skin. Progression is rapid (hours): painless erythematous macules -> hemorrhagic pustules/bullae -> rupture leaving an ulcer with a characteristic CENTRAL BLACK/GREY NECROTIC ESCHAR and erythematous halo. Mortality in bacteremic ecthyma gangrenosum exceeds 40-70% if untreated. Immediate management requires URGENT INTRAVENOUS ANTIPSEUDOMONAL ANTIMICROBIALS: an antipseudomonal beta-lactam (CEFEPIME, PIPERACILLIN-TAZOBACTAM, MEROPENEM, or CEFTAZIDIME), frequently combined with an AMINOGLYCOSIDE (e.g., tobramycin or amikacin) or fluoroquinolone for synergistic bactericidal activity in septic shock."
+      },
+      {
+        "text": "Oral fluconazole monotherapy for suspected disseminated Candida albicans fungemia",
+        "correct": false,
+        "explanation": "Fluconazole does not treat bacterial Pseudomonas bacteremia and has high resistance rates among non-albicans species, failing to arrest septic shock."
+      },
+      {
+        "text": "Intravenous acyclovir monotherapy targeting severe necrotizing cutaneous herpes simplex",
+        "correct": false,
+        "explanation": "Acyclovir is an antiviral agent with zero activity against bacterial gram-negative septic vasculitis; delaying antipseudomonal therapy carries near-total mortality."
+      },
+      {
+        "text": "Perform immediate bedside surgical wide local excision of all necrotic skin lesions before starting antibiotics",
+        "correct": false,
+        "explanation": "Surgery in an unstable, severely thrombocytopenic (platelets 18,000/microL), profoundly neutropenic patient in septic shock triggers fatal hemorrhage and does not clear bacteremia."
+      }
+    ],
+    "explanation": "This patient exhibits classic ECTHYMA GANGRENOSUM (EG), a cutaneous manifestation of severe, life-threatening bacteremia seen predominantly in profoundly neutropenic patients (ANC < 500/microL), most classically caused by PSEUDOMONAS AERUGINOSA bacteremia (or occasionally other opportunistic pathogens such as Aeromonas or Fusarium). Pathophysiology: hematogenous seeding of bacteria into cutaneous dermal and subcutaneous blood vessels. Pseudomonas produces virulence factors (elastase, exotoxin A, proteases) that directly INVADE AND DESTROY DERMAL VESSEL WALLS, producing necrotizing vasculitis, ischemic thrombosis, and hemorrhagic infarction of the overlying skin. Progression is rapid (hours): painless erythematous macules -> hemorrhagic pustules/bullae -> rupture leaving an ulcer with a characteristic CENTRAL BLACK/GREY NECROTIC ESCHAR and erythematous halo. Mortality in bacteremic ecthyma gangrenosum exceeds 40-70% if untreated. Immediate management requires URGENT INTRAVENOUS ANTIPSEUDOMONAL ANTIMICROBIALS: an antipseudomonal beta-lactam (CEFEPIME, PIPERACILLIN-TAZOBACTAM, MEROPENEM, or CEFTAZIDIME), frequently combined with an AMINOGLYCOSIDE (e.g., tobramycin or amikacin) or fluoroquinolone for synergistic bactericidal activity in septic shock. Neutropenia (ANC 0) + shock + rapid hemorrhagic bullae turning into black eschars = Ecthyma gangrenosum (Pseudomonas) -> IV Cefepime/Pip-Tazo.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Ecthyma Gangrenosum in Neutropenic Pseudomonas Sepsis.",
+    "keyPoints": [
+      "Ecthyma Gangrenosum in Neutropenic Pseudomonas Sepsis",
+      "Neutropenia (ANC 0) + shock + rapid hemorrhagic bullae turning into black eschars = Ecthyma gangrenosum (Pseudomonas) -> IV Cefepime/Pip-Tazo."
+    ],
+    "references": [
+      {
+        "label": "Vaiman M, Lazarovitch T, Heller L, et al. Ecthyma gangrenosum and ecthyma-like lesions: review article. Eur J Clin Microbiol Infect Dis. 2015;34(4):633-639. PMID: 25413009.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25413009/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0673",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Leukocytoclastic Vasculitis Histopathology and Drug Association",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old woman presents to the clinic with an itchy, burning rash on both lower legs that appeared 2 days ago. Ten days ago, she was prescribed oral trimethoprim-sulfamethoxazole for an acute uncomplicated urinary tract infection, which she completed yesterday. Physical examination reveals an alert woman with normal vital signs. Dermatologic examination reveals numerous non-blanching, discrete and coalescing, 2-to-5-mm violaceous papules and plaques (palpable purpura) distributed symmetrically over her bilateral distal lower extremities and ankles, with sparing of the trunk and face. A few scattered petechiae and non-necrotic vesicles are present on the dorsum of her feet. Laboratory evaluation reveals: hemoglobin 13.2 g/dL, white blood cell count 8,200/microL with normal differential, platelet count 260,000/microL (normal), prothrombin time (PT) 11.6 seconds, and serum creatinine 0.8 mg/dL. Urinalysis demonstrates no protein, blood, or red cell casts. A 4-mm punch biopsy of a fresh, non-ulcerated purpuric papule is performed. Which of the following histopathologic features is most characteristic of this patient's underlying condition?",
+    "options": [
+      {
+        "text": "Extensive granulomatous inflammation with multinucleated giant cells destroying muscular arterial walls",
+        "correct": false,
+        "explanation": "Granulomatous arteritis characterizes medium- or large-vessel vasculitides such as giant cell arteritis or polyarteritis nodosa, not small-vessel leukocytoclastic venulitis."
+      },
+      {
+        "text": "Linear band-like lymphocytic infiltrate hugging the dermal-epidermal junction with saw-toothed rete ridges",
+        "correct": false,
+        "explanation": "Saw-toothed band-like lymphocytic infiltrates define lichen planus, which produces pruritic, polygonal, planar, purple papules with Wickham striae."
+      },
+      {
+        "text": "Neutrophilic infiltration of post-capillary venule walls with nuclear dust (leukocytoclasia), extravasated erythrocytes, and fibrinoid necrosis",
+        "correct": true,
+        "explanation": "This patient presents with CUTANEOUS LEUKOCYTOCLASTIC VASCULITIS (LCV, hypersensitivity vasculitis), a small-vessel vasculitis predominantly affecting the post-capillary venules of the skin. Triggers: MEDICATIONS (antibiotics such as sulfonamides, penicillins, cephalosporins; NSAIDs; allopurinol) in ~30-50%, infections (streptococcus, hepatitis C), systemic autoimmune disease (SLE, RA), or malignancy. Clinical hallmark: PALPABLE PURPURA (non-blanching, elevated violaceous lesions) distributed symmetrically in dependent areas (lower legs and ankles) due to hydrostatic pressure. Coagulation profile and PLATELET COUNT ARE COMPLETELY NORMAL, distinguishing it from thrombocytopenic purpura (ITP/TTP). The pathognomonic histopathologic finding on skin biopsy of early lesions (<24-48 hours) is: (1) Dense NEUTROPHILIC INFILTRATION in and around post-capillary venule walls; (2) LEUKOCYTOCLASIA (karyorrhexis: fragmented apoptotic neutrophil nuclei creating 'nuclear dust'); (3) FIBRINOID NECROSIS of the vessel walls; and (4) EXTRAVASATION OF ERYTHROCYTES into the dermis. Management: DISCONTINUATION OF CULPRIT DRUG and supportive care (leg elevation, compression stockings, antihistamines)."
+      },
+      {
+        "text": "Subcorneal clefting with acantholysis of superficial keratinocytes mediated by anti-desmoglein-1 autoantibodies",
+        "correct": false,
+        "explanation": "Subcorneal acantholytic clefting characterizes pemphigus foliaceus or staphylococcal scalded skin syndrome, not palpable vascular purpura."
+      },
+      {
+        "text": "Massive lobular fat necrosis with foam cells, lipid-laden macrophages, and foreign body giant cells",
+        "correct": false,
+        "explanation": "Lobular fat necrosis defines lobular panniculitis (e.g., erythema induratum or pancreatic panniculitis), not small-vessel post-capillary venulitis."
+      }
+    ],
+    "explanation": "This patient presents with CUTANEOUS LEUKOCYTOCLASTIC VASCULITIS (LCV, hypersensitivity vasculitis), a small-vessel vasculitis predominantly affecting the post-capillary venules of the skin. Triggers: MEDICATIONS (antibiotics such as sulfonamides, penicillins, cephalosporins; NSAIDs; allopurinol) in ~30-50%, infections (streptococcus, hepatitis C), systemic autoimmune disease (SLE, RA), or malignancy. Clinical hallmark: PALPABLE PURPURA (non-blanching, elevated violaceous lesions) distributed symmetrically in dependent areas (lower legs and ankles) due to hydrostatic pressure. Coagulation profile and PLATELET COUNT ARE COMPLETELY NORMAL, distinguishing it from thrombocytopenic purpura (ITP/TTP). The pathognomonic histopathologic finding on skin biopsy of early lesions (<24-48 hours) is: (1) Dense NEUTROPHILIC INFILTRATION in and around post-capillary venule walls; (2) LEUKOCYTOCLASIA (karyorrhexis: fragmented apoptotic neutrophil nuclei creating 'nuclear dust'); (3) FIBRINOID NECROSIS of the vessel walls; and (4) EXTRAVASATION OF ERYTHROCYTES into the dermis. Management: DISCONTINUATION OF CULPRIT DRUG and supportive care (leg elevation, compression stockings, antihistamines). TMP-SMX 10 days + palpable purpura + normal platelets = Leukocytoclastic vasculitis -> Neutrophils + nuclear dust + fibrinoid necrosis of venules.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Leukocytoclastic Vasculitis Histopathology and Drug Association.",
+    "keyPoints": [
+      "Leukocytoclastic Vasculitis Histopathology and Drug Association",
+      "TMP-SMX 10 days + palpable purpura + normal platelets = Leukocytoclastic vasculitis -> Neutrophils + nuclear dust + fibrinoid necrosis of venules."
+    ],
+    "references": [
+      {
+        "label": "Gota CE, Calabrese LH. Diagnosis and treatment of cutaneous leukocytoclastic vasculitis. Int J Clin Rheumtol. 2013;8(1):49-60. PMID: 23620743.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23620743/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0674",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Basal Cell Carcinoma Clinical Signs and Surgical Excision",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old fair-skinned man presents for evaluation of a persistent, slowly enlarging 'pimple' on the left side of his nose that has been present for 8 months. He reports that the lesion frequently bleeds when he washes his face or dries himself with a towel, scabs over, and then bleeds again, never completely healing. He has a history of extensive recreational sun exposure while boating. Physical examination reveals an 8 x 6 mm pearly, translucent, flesh-colored papule with delicate, arborizing (branching) telangiectasias coursing across its surface, a slightly elevated 'rolled' border, and a shallow central ulceration with a thin hemorrhagic crust on the left nasal alar rim. There is no surrounding induration or cervical lymphadenopathy. A shave biopsy confirms islands of atypical basaloid keratinocytes with peripheral palisading of nuclei and stromal retraction artifact extending into the papillary dermis. Which of the following is the most appropriate definitive management for this patient's lesion?",
+    "options": [
+      {
+        "text": "Standard wide surgical excision with 15-mm clinical margins down to the nasal septal cartilage",
+        "correct": false,
+        "explanation": "Standard 15-mm wide margins on the central face cause massive, unnecessary cosmetic deformity; Mohs micrographic surgery spares healthy tissue while ensuring negative margins."
+      },
+      {
+        "text": "Destructive electrodessication and curettage (ED&C) performed in the clinic",
+        "correct": false,
+        "explanation": "ED&C is strictly contraindicated in the 'H-zone' (nose, eyelids, ears) because high recurrence rates and deep unseen invasion can cause cartilage invasion."
+      },
+      {
+        "text": "Topical 5-fluorouracil cream applied twice daily for 4 weeks as definitive monotherapy",
+        "correct": false,
+        "explanation": "Topical 5-FU and imiquimod are approved only for superficial BCC on the trunk/extremities; they fail to penetrate invasive nodular BCC on the face."
+      },
+      {
+        "text": "Mohs micrographic surgery to achieve complete peripheral and deep histologic margin clearance with maximal tissue preservation",
+        "correct": true,
+        "explanation": "This patient presents with NODULAR BASAL CELL CARCINOMA (BCC), the most common malignant skin neoplasm worldwide (>80% of all skin cancers). BCC arises from pluripotent cells within the basal layer of the epidermis, driven primarily by ultraviolet (UV) radiation-induced mutations in the Sonic Hedgehog signaling pathway (PTCH1 and SMO mutations). Classic presentation of nodular BCC: pearly, translucent papule or nodule, delicate ARBORIZING TELANGIECTASIAS, 'ROLLED' (RAISED) BORDER, and central ulceration with spontaneous bleeding and non-healing scabbing ('rodent ulcer'). Histopathology confirms islands of basaloid cells with PERIPHERAL PALISADING of nuclei and cleft-like RETRACTION ARTIFACT. For lesions in HIGH-RISK ANATOMIC SITES ('H-zone' of the face: nose, ears, eyelids, lips, temples, nasolabial folds), where tumor recurrence is high and tissue conservation is critical for cosmetic and functional reconstruction, MOHS MICROGRAPHIC SURGERY is the treatment of choice, providing the highest cure rates (>99%) and complete 100% intraoperative margin examination."
+      },
+      {
+        "text": "Reassurance that basal cell carcinoma does not metastasize and expectant observation every 12 months",
+        "correct": false,
+        "explanation": "While BCC rarely metastasizes (<0.1%), untreated facial lesions cause destructive local invasion, eroding into underlying nasal cartilage, bone, and orbit."
+      }
+    ],
+    "explanation": "This patient presents with NODULAR BASAL CELL CARCINOMA (BCC), the most common malignant skin neoplasm worldwide (>80% of all skin cancers). BCC arises from pluripotent cells within the basal layer of the epidermis, driven primarily by ultraviolet (UV) radiation-induced mutations in the Sonic Hedgehog signaling pathway (PTCH1 and SMO mutations). Classic presentation of nodular BCC: pearly, translucent papule or nodule, delicate ARBORIZING TELANGIECTASIAS, 'ROLLED' (RAISED) BORDER, and central ulceration with spontaneous bleeding and non-healing scabbing ('rodent ulcer'). Histopathology confirms islands of basaloid cells with PERIPHERAL PALISADING of nuclei and cleft-like RETRACTION ARTIFACT. For lesions in HIGH-RISK ANATOMIC SITES ('H-zone' of the face: nose, ears, eyelids, lips, temples, nasolabial folds), where tumor recurrence is high and tissue conservation is critical for cosmetic and functional reconstruction, MOHS MICROGRAPHIC SURGERY is the treatment of choice, providing the highest cure rates (>99%) and complete 100% intraoperative margin examination. Pearly translucent papule + telangiectasias + rolled border on nose (H-zone) = Nodular BCC -> Mohs micrographic surgery.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Basal Cell Carcinoma Clinical Signs and Surgical Excision.",
+    "keyPoints": [
+      "Basal Cell Carcinoma Clinical Signs and Surgical Excision",
+      "Pearly translucent papule + telangiectasias + rolled border on nose (H-zone) = Nodular BCC -> Mohs micrographic surgery."
+    ],
+    "references": [
+      {
+        "label": "Bichakjian CK, Olencki T, Aasi SZ, et al. Basal cell skin cancer, Version 1.2016, NCCN Clinical Practice Guidelines in Oncology. J Natl Compr Canc Netw. 2016;14(5):574-597. PMID: 27160235.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27160235/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0675",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Dermatitis Herpetiformis Dapsone and Gluten-Free Diet",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old woman presents to the clinic with an intensely itchy, burning skin rash over her elbows, knees, and buttocks for 4 months. She states that the itching is severe and unrelenting, keeping her awake at night, and that scratching produces tiny blisters that burst immediately. Over the past year, she has also experienced intermittent bloating, loose stools, and unintentional 4-kg weight loss. Physical examination reveals multiple grouped, excoriated erythematous papules and tiny, intact, tense microvesicles symmetrically distributed over the extensor surfaces of both elbows, knees, posterior scalp, and upper buttocks. Laboratory studies demonstrate mild microcytic anemia (hemoglobin 11.2 g/dL, MCV 76 fL) with low serum ferritin (12 ng/mL). Serum anti-tissue transglutaminase IgA (tTG-IgA) antibody titer is strongly positive (>100 U/mL). A punch biopsy of perilesional normal-appearing skin demonstrates granular deposition of IgA concentrated within the tips of dermal papillae on direct immunofluorescence (DIF). Which of the following therapeutic regimens represents the most appropriate strategy for rapid symptomatic relief and definitive long-term disease remission?",
+    "options": [
+      {
+        "text": "Oral prednisone 60 mg daily for 6 months as the sole required therapy without dietary modification",
+        "correct": false,
+        "explanation": "Corticosteroids provide incomplete symptom relief in dermatitis herpetiformis and do not treat underlying celiac enteropathy; a gluten-free diet is mandatory for cure."
+      },
+      {
+        "text": "Oral acyclovir 800 mg five times daily for 14 days targeting herpes simplex viral replication",
+        "correct": false,
+        "explanation": "Despite the name 'herpetiformis' (referring to grouped clustering mimicking herpes), DH is entirely non-viral; acyclovir has zero efficacy."
+      },
+      {
+        "text": "High-dose oral cephalexin combined with topical mupirocin ointment for staphylococcal pyoderma",
+        "correct": false,
+        "explanation": "Dermatitis herpetiformis is an autoimmune gluten-mediated enteropathy, not a staphylococcal pyoderma; antibiotics do not clear IgA papillary deposits."
+      },
+      {
+        "text": "Phototherapy with narrowband ultraviolet B (NB-UVB) three times weekly without nutritional changes",
+        "correct": false,
+        "explanation": "Phototherapy does not address gluten-induced IgA-eTG immune complex generation; ongoing gluten ingestion guarantees cutaneous relapse and intestinal lymphoma risk."
+      },
+      {
+        "text": "Oral dapsone for rapid pruritus and blister suppression combined with a strict, life-long gluten-free diet for definitive remission",
+        "correct": true,
+        "explanation": "This patient presents with DERMATITIS HERPETIFORMIS (DH, Duhring disease), the cutaneous manifestation of CELIAC DISEASE (gluten-sensitive enteropathy). Pathophysiology: ingestion of dietary gluten triggers production of IgA autoantibodies against EPIDERMAL TRANSGLUTAMINASE (eTG / transglutaminase-3), which cross-reacts with intestinal tissue transglutaminase (tTG / transglutaminase-2). Circulating IgA-eTG immune complexes deposit in a GRANULAR PATTERN WITHIN THE PAPILLARY DERMIS, activating complement and attracting neutrophils (forming microabscesses at the tips of dermal papillae), leading to subepidermal microvesiculation. Clinical hallmarks: INTENSELY PRURITIC, BURNING, GROUPED HERPETIFORM PAPULOVESICLES symmetrically distributed over EXTENSOR SURFACES (elbows, knees, buttocks, scalp). Associated findings include malabsorption (iron deficiency microcytic anemia) and celiac serology (tTG-IgA). Management strategy: (1) RAPID SYMPTOM RELIEF: ORAL DAPSONE (50-100 mg daily), a sulfone antibiotic that inhibits neutrophil myeloperoxidase and lysosomal enzyme release, providing dramatic cessation of itching and blistering within 24 to 72 hours; and (2) DEFINITIVE LONG-TERM CURE: a STRICT, LIFE-LONG GLUTEN-FREE DIET, which resolves both cutaneous immune deposits and intestinal enteropathy over 6-24 months, eventually allowing successful discontinuation of dapsone."
+      }
+    ],
+    "explanation": "This patient presents with DERMATITIS HERPETIFORMIS (DH, Duhring disease), the cutaneous manifestation of CELIAC DISEASE (gluten-sensitive enteropathy). Pathophysiology: ingestion of dietary gluten triggers production of IgA autoantibodies against EPIDERMAL TRANSGLUTAMINASE (eTG / transglutaminase-3), which cross-reacts with intestinal tissue transglutaminase (tTG / transglutaminase-2). Circulating IgA-eTG immune complexes deposit in a GRANULAR PATTERN WITHIN THE PAPILLARY DERMIS, activating complement and attracting neutrophils (forming microabscesses at the tips of dermal papillae), leading to subepidermal microvesiculation. Clinical hallmarks: INTENSELY PRURITIC, BURNING, GROUPED HERPETIFORM PAPULOVESICLES symmetrically distributed over EXTENSOR SURFACES (elbows, knees, buttocks, scalp). Associated findings include malabsorption (iron deficiency microcytic anemia) and celiac serology (tTG-IgA). Management strategy: (1) RAPID SYMPTOM RELIEF: ORAL DAPSONE (50-100 mg daily), a sulfone antibiotic that inhibits neutrophil myeloperoxidase and lysosomal enzyme release, providing dramatic cessation of itching and blistering within 24 to 72 hours; and (2) DEFINITIVE LONG-TERM CURE: a STRICT, LIFE-LONG GLUTEN-FREE DIET, which resolves both cutaneous immune deposits and intestinal enteropathy over 6-24 months, eventually allowing successful discontinuation of dapsone. Pruritic extensor vesicles + celiac tTG pos + granular IgA in dermal papillae = Dermatitis herpetiformis -> Dapsone (rapid relief) + Gluten-free diet (cure).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Dermatitis Herpetiformis Dapsone and Gluten-Free Diet.",
+    "keyPoints": [
+      "Dermatitis Herpetiformis Dapsone and Gluten-Free Diet",
+      "Pruritic extensor vesicles + celiac tTG pos + granular IgA in dermal papillae = Dermatitis herpetiformis -> Dapsone (rapid relief) + Gluten-free diet (cure)."
+    ],
+    "references": [
+      {
+        "label": "Salmi TT. Dermatitis herpetiformis. Clin Exp Dermatol. 2019;44(7):728-735. PMID: 31102465.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31102465/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "code": "op-pilot-s2-0001",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Right Ventricular Infarction Acute Resuscitation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man presents to the emergency department with 2 hours of crushing substernal chest pressure, diaphoresis, and profound lightheadedness. His past medical history is notable for hyperlipidemia treated with atorvastatin. On arrival, vital signs show: temperature 36.8 C (98.2 F), blood pressure 82/52 mmHg, pulse 62/min, and oxygen saturation 96% on ambient room air. Physical examination reveals clear breath sounds bilaterally throughout all lung fields, jugular venous distension to the angle of the mandible while sitting at 45 degrees, and no peripheral edema. Cardiac auscultation reveals regular rhythm, normal S1 and S2, and no murmurs, rubs, or gallops. The 12-lead electrocardiogram demonstrates ST-segment elevation in leads II, III, and aVF with reciprocal ST depressions in leads I and aVL; right-sided precordial lead V4R demonstrates 1.5 mm of ST-segment elevation. Which of the following is the most appropriate initial management step to restore systemic arterial pressure in this patient?",
+    "options": [
+      {
+        "text": "Rapid volume resuscitation with an intravenous isotonic saline bolus",
+        "correct": true,
+        "explanation": "This patient has an acute inferior ST-elevation myocardial infarction (STEMI) complicated by right ventricular (RV) infarction, demonstrated by ST elevation in lead V4R. The clinical triad of RV infarction consists of severe hypotension, clear lung fields, and elevated jugular venous pressure (JVP). The ischemic right ventricle is acutely dilated and hypokinetic, resulting in sharply reduced transpulmonary delivery of blood to the left ventricle (depressed LV preload). Because the infarcted RV functions as a passive conduit, LV filling depends critically on maintaining high right-sided filling pressures (preload dependence). The immediate, most vital intervention is rapid volume expansion with an intravenous isotonic saline bolus (typically 500–1000 mL normal saline), which augments RV preload and increases cardiac output."
+      },
+      {
+        "text": "Sublingual nitroglycerin 0.4 mg followed by intravenous nitroglycerin infusion",
+        "correct": false,
+        "explanation": "Nitrates are strictly contraindicated in RV infarction; venodilatation abruptly lowers right atrial and RV preload, precipitating catastrophic cardiovascular collapse and worsening cardiogenic shock."
+      },
+      {
+        "text": "Intravenous furosemide 40 mg bolus to reduce cardiac preload and pulmonary venous congestion",
+        "correct": false,
+        "explanation": "Loop diuretics further deplete intravascular volume in a severely preload-dependent ventricle, worsening hypotension; the patient has clear lung fields, indicating absent left-sided pulmonary venous congestion."
+      },
+      {
+        "text": "Intravenous metoprolol 5 mg bolus to reduce myocardial oxygen demand",
+        "correct": false,
+        "explanation": "Beta-blockers are contraindicated in acute myocardial infarction presenting with hypotension, bradycardia, or signs of cardiogenic shock."
+      },
+      {
+        "text": "Emergent bedside pericardiocentesis under subxiphoid ultrasound guidance",
+        "correct": false,
+        "explanation": "While elevated JVP and hypotension are seen in cardiac tamponade (Beck's triad), the clear ECG evidence of inferior-RV STEMI establishes myocardial infarction as the etiology; pericardiocentesis without pericardial effusion is unnecessary and dangerous."
+      }
+    ],
+    "explanation": "Right ventricular infarction presents with inferior STEMI, hypotension, clear lungs, and elevated JVP. The dilated RV is preload-dependent; initial management requires IV isotonic saline boluses to restore LV filling. Nitrates and diuretics are contraindicated.",
+    "objective": "Prioritize intravenous fluid resuscitation and avoid preload-reducing agents in acute right ventricular myocardial infarction.",
+    "keyPoints": [
+      "Inferior STEMI with ST elevation in V4R confirms right ventricular infarction.",
+      "Triad: hypotension, clear lungs, and elevated jugular venous pressure.",
+      "Immediate management: IV isotonic crystalloid boluses; avoid nitrates, diuretics, and beta-blockers."
+    ],
+    "references": [
+      {
+        "label": "2023 ESC Guidelines for the Management of Acute Coronary Syndromes. Eur Heart J 2023;44:3720–3826. Section 6.2: Right Ventricular Infarction",
+        "url": "https://academic.oup.com/eurheartj/article/44/38/3720/7243212"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s2-0002",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Massive Pulmonary Embolism & Thrombolytic Contraindications",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old woman is admitted to the medical intensive care unit with acute, sudden-onset dyspnea, pleuritic chest pain, and presyncope. Three weeks ago, she was hospitalized for an acute spontaneous intraparenchymal basal ganglia hemorrhage, which was managed conservatively and has left her with residual mild left-sided hemiparesis. On examination today, the patient is pale, diaphoretic, and in marked respiratory distress. Vital signs show: temperature 37.1 C (98.8 F), blood pressure 76/48 mmHg, pulse 124/min, respirations 32/min, and oxygen saturation 84% on ambient air, improving to 89% on high-flow nasal cannula. Physical examination demonstrates cold, clammy extremities, jugular venous distension, and an accentuated pulmonic component of the second heart sound (loud P2). Bedside echocardiography demonstrates acute right ventricular dilatation and severe hypokinesis with sparing of the RV apex (McConnell's sign), a flattened interventricular septum bulging into the left ventricle, and an estimated pulmonary artery systolic pressure of 58 mmHg. Contrast CT pulmonary angiography confirms extensive bilateral saddle emboli occluding the main and lobar pulmonary arteries. Which of the following is the most appropriate next step in the definitive management of this patient?",
+    "options": [
+      {
+        "text": "Systemic intravenous tenecteplase (or alteplase) full-dose thrombolysis",
+        "correct": false,
+        "explanation": "Systemic thrombolysis is the standard first-line treatment for massive PE with cardiogenic shock; however, a documented hemorrhagic stroke or intracranial hemorrhage within the prior 3 months is an absolute contraindication due to the catastrophic risk of fatal recurrent intracranial bleeding."
+      },
+      {
+        "text": "Therapeutic unfractionated heparin infusion alone without advanced reperfusion therapy",
+        "correct": false,
+        "explanation": "Therapeutic anticoagulation alone is inadequate for massive PE with sustained cardiogenic shock (mortality exceeds 30–50% within hours); active mechanical reperfusion is mandatory to restore pulmonary blood flow."
+      },
+      {
+        "text": "Catheter-directed mechanical thrombectomy or surgical pulmonary embolectomy",
+        "correct": true,
+        "explanation": "This patient has a massive (high-risk) pulmonary embolism, defined by sustained systemic hypotension (systolic BP < 90 mmHg or cardiogenic shock) and acute right ventricular failure. While systemic thrombolysis is standard for massive PE, this patient has an absolute contraindication: a spontaneous intracerebral hemorrhage 3 weeks ago (any prior intracranial hemorrhage is an absolute contraindication to systemic thrombolytic therapy). In patients with high-risk PE and absolute contraindications to systemic thrombolysis (or failed thrombolysis), the guideline-directed treatment is emergent catheter-directed mechanical thrombectomy (or surgical pulmonary embolectomy, depending on institutional expertise). These approaches extract or fragment the obstructive thrombus to immediately restore RV hemodynamics without exposing the brain to systemic fibrinolysis."
+      },
+      {
+        "text": "Placement of an inferior vena cava (IVC) filter without reperfusion therapy",
+        "correct": false,
+        "explanation": "An IVC filter prevents future lower-extremity emboli but does not relieve existing fatal main pulmonary artery mechanical obstruction or reverse RV shock."
+      },
+      {
+        "text": "Inhaled nitric oxide combined with intravenous milrinone in lieu of mechanical intervention",
+        "correct": false,
+        "explanation": "Pulmonary vasodilators and inodilators provide supportive hemodynamic optimization, but cannot substitute for definitive mechanical relief of massive anatomical obstruction in cardiogenic shock."
+      }
+    ],
+    "explanation": "Massive PE with cardiogenic shock requires urgent reperfusion. When recent intracranial hemorrhage presents an absolute contraindication to systemic thrombolysis, catheter-directed mechanical thrombectomy or surgical embolectomy is indicated.",
+    "objective": "Select catheter-directed mechanical thrombectomy or surgical embolectomy for massive pulmonary embolism when systemic thrombolysis is contraindicated by recent intracranial hemorrhage.",
+    "keyPoints": [
+      "Massive PE: sustained systolic BP < 90 mmHg or shock requiring inotropic support.",
+      "Prior intracranial hemorrhage (< 3 months) is an absolute contraindication to systemic thrombolysis.",
+      "Guideline-directed therapy: catheter-directed mechanical thrombectomy or surgical embolectomy."
+    ],
+    "references": [
+      {
+        "label": "2019 ESC Guidelines for the Diagnosis and Management of Acute Pulmonary Embolism. Eur Heart J 2020;41:543–603. Section 5.3: Treatment of High-Risk PE",
+        "url": "https://academic.oup.com/eurheartj/article/41/4/543/5556136"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s2-0003",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Complicated Diverticular Abscess Management",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old man presents to the emergency department with a 4-day history of progressively severe left lower quadrant abdominal pain, nausea, and fevers. He has a history of recurrent diverticulosis. On physical examination, temperature is 38.8 C (101.8 F), blood pressure is 128/78 mmHg, pulse is 98/min, and respirations are 18/min. Abdominal examination demonstrates exquisite tenderness to palpation in the left lower quadrant with voluntary guarding and a palpable, tender fullness; there is no diffuse involuntary rigidity, and bowel sounds are present. Laboratory evaluation reveals a white blood cell count of 17,800/uL with 84% neutrophils. Contrast-enhanced CT of the abdomen and pelvis demonstrates sigmoid diverticulitis with marked localized colonic wall thickening, extensive surrounding pericolic fat stranding, and a well-circumscribed, rim-enhancing loculated fluid collection measuring 5.5 cm in maximal diameter containing internal gas bubbles, situated immediately adjacent to the sigmoid colon. There is no free extraluminal intraperitoneal air beneath the diaphragm. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Intravenous broad-spectrum antimicrobial therapy alone with observation",
+        "correct": false,
+        "explanation": "Antibiotic monotherapy is appropriate for small (< 3–4 cm) diverticular phlegmons or microabscesses (Hinchey Ia); however, abscesses >= 4 cm have a high failure rate with medical therapy alone and require drainage."
+      },
+      {
+        "text": "Immediate emergent Hartmann's procedure (sigmoid resection with end colostomy)",
+        "correct": false,
+        "explanation": "Emergent surgical resection (Hartmann's procedure or primary resection with anastomosis) is indicated for diffuse peritonitis (Hinchey III/IV, free air, hemodynamic sepsis) or when percutaneous drainage is unsuccessful or technically impossible."
+      },
+      {
+        "text": "Colonoscopy with endoscopic transluminal stent placement and lavage",
+        "correct": false,
+        "explanation": "Colonoscopy is strictly contraindicated during acute diverticulitis due to the high risk of converting a contained perforation into a free intraperitoneal perforation; diagnostic colonoscopy is deferred for 6–8 weeks."
+      },
+      {
+        "text": "Percutaneous image-guided catheter drainage combined with intravenous broad-spectrum antimicrobials",
+        "correct": true,
+        "explanation": "This patient has complicated acute diverticulitis with a 5.5 cm pelvic/pericolic abscess (Hinchey stage Ib/II). According to American Society of Colon and Rectal Surgeons (ASCRS) and American College of Gastroenterology guidelines, diverticular abscesses >= 4 cm (or >= 3 cm in symptomatic patients) should be treated with percutaneous image-guided (CT or ultrasound) catheter drainage in combination with intravenous broad-spectrum antimicrobial therapy. Percutaneous drainage controls the acute septic focus, resolves the inflammatory mass, and avoids emergent laparotomy and stoma creation (Hartmann's procedure), allowing for subsequent elective, single-stage minimally invasive sigmoid resection once inflammation has subsided."
+      },
+      {
+        "text": "Laparoscopic peritoneal lavage without bowel resection or drainage",
+        "correct": false,
+        "explanation": "Laparoscopic lavage is controversial and reserved as an investigational alternative in purulent peritonitis without large contained abscesses; it does not reliably drain a contained 5.5 cm retroperitoneal/pericolic abscess."
+      }
+    ],
+    "explanation": "In complicated diverticulitis with a well-circumscribed abscess >= 4 cm without generalized peritonitis, percutaneous image-guided catheter drainage plus IV antibiotics is the treatment of choice, avoiding emergent stoma creation.",
+    "objective": "Identify percutaneous image-guided catheter drainage as the preferred treatment for complicated diverticular abscesses >= 4 cm in the absence of diffuse peritonitis.",
+    "keyPoints": [
+      "Complicated diverticulitis with abscess >= 4 cm requires percutaneous catheter drainage.",
+      "Abscesses < 3–4 cm can often be managed with intravenous antibiotics alone.",
+      "Emergent surgical resection (Hartmann procedure) is reserved for generalized peritonitis or failed drainage."
+    ],
+    "references": [
+      {
+        "label": "Hall J, Hardiman K, Lee S, et al. ASCRS Clinical Practice Guidelines for Left-Sided Colonic Diverticulitis. Dis Colon Rectum 2020;63:728–747. Recommendation 6: Management of Diverticular Abscess",
+        "url": "https://journals.lww.com/dcrjournal/fulltext/2020/06000/the_american_society_of_colon_and_rectal_surgeons.11.aspx"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s2-0004",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous",
+    "topic": "Wake-Up Ischemic Stroke Reperfusion Eligibility",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 71-year-old woman is brought to the emergency department by her daughter at 08:30 with sudden-onset right facial droop, right arm weakness, and expressive language difficulty. The daughter reports that the patient was completely at her neurological baseline when she went to sleep at 22:30 the previous night; the symptoms were first noticed when the patient woke up at 07:15 this morning. The patient's medical history includes hypertension and osteoporosis. On neurological examination, blood pressure is 158/88 mmHg, pulse is 76/min, and blood glucose is 118 mg/dL. NIH Stroke Scale (NIHSS) score is 11. Non-contrast head CT demonstrates no acute intracranial hemorrhage or early ischemic changes (ASPECTS score 10). Urgent brain MRI is obtained at 09:00: diffusion-weighted imaging (DWI) demonstrates an acute hyperintense lesion in the left middle cerebral artery cortical territory, but fluid-attenuated inversion recovery (FLAIR) imaging shows no corresponding signal hyperintensity in this region (DWI-FLAIR mismatch). MR angiography demonstrates patent intracranial internal carotid, middle cerebral (M1 and M2 branches), and anterior cerebral arteries without large vessel occlusion. Which of the following is the most appropriate acute management step for this patient?",
+    "options": [
+      {
+        "text": "Withhold acute reperfusion therapy because the patient is beyond the 4.5-hour time window from last known well",
+        "correct": false,
+        "explanation": "Relying strictly on the elapsed time from last known well (10.5 hours) inappropriately denies reperfusion; modern guidelines incorporate tissue-based imaging (DWI-FLAIR mismatch) to identify patients with salvable tissue whose stroke occurred within 4.5 hours of awakening."
+      },
+      {
+        "text": "Immediate mechanical endovascular thrombectomy",
+        "correct": false,
+        "explanation": "Mechanical thrombectomy is indicated for acute ischemic stroke with documented large vessel occlusion (internal carotid artery or M1 segment); this patient's MR angiography specifically confirmed patent main vessels and absence of large vessel occlusion."
+      },
+      {
+        "text": "Intravenous tenecteplase combined with immediate endovascular catheter aspiration",
+        "correct": false,
+        "explanation": "Endovascular aspiration requires an angiographically visible large vessel occlusion; performing invasive catheterization without a target vessel occlusion is unwarranted."
+      },
+      {
+        "text": "Administer intravenous alteplase (or tenecteplase) based on MRI DWI-FLAIR mismatch criteria",
+        "correct": true,
+        "explanation": "This patient presents with a 'wake-up stroke' (stroke symptoms recognized upon awakening with last known well > 4.5 hours ago). According to the landmark WAKE-UP trial and the 2019 AHA/ASA Acute Ischemic Stroke Guidelines, patients who awake with stroke symptoms and exhibit a DWI-FLAIR mismatch on MRI (an acute hyperintense lesion on DWI that has not yet become hyperintense on FLAIR) have had their stroke within approximately 4.5 hours physiologically. FLAIR signal hyperintensity requires several hours to develop; its absence indicates that ischemic tissue has not yet progressed to complete, irreversible necrosis. In patients without large vessel occlusion (ruling out mechanical thrombectomy), intravenous thrombolysis (alteplase or tenecteplase) guided by DWI-FLAIR mismatch significantly improves functional recovery and 90-day neurological outcomes without excessive risk of symptomatic intracerebral hemorrhage."
+      },
+      {
+        "text": "Administer oral aspirin 325 mg and clopidogrel 300 mg loading dose in lieu of thrombolysis",
+        "correct": false,
+        "explanation": "Dual antiplatelet therapy is appropriate for high-risk TIA or minor stroke (NIHSS <= 3) without reperfusion indications, but does not provide active reperfusion for an acute moderate-to-severe disabling stroke (NIHSS 11) with proven DWI-FLAIR mismatch."
+      }
+    ],
+    "explanation": "In wake-up ischemic stroke without large vessel occlusion, MRI DWI-FLAIR mismatch proves the infarct is under 4.5 hours old physiologically. Intravenous alteplase is guideline-indicated.",
+    "objective": "Apply MRI DWI-FLAIR mismatch criteria to administer intravenous thrombolysis in wake-up ischemic stroke without large vessel occlusion.",
+    "keyPoints": [
+      "Wake-up stroke with last known well > 4.5 hours can be evaluated with MRI.",
+      "DWI-positive / FLAIR-negative mismatch confirms the lesion is physiologically < 4.5 hours old.",
+      "In the absence of large vessel occlusion, IV thrombolysis is guideline-recommended."
+    ],
+    "references": [
+      {
+        "label": "2019 AHA/ASA Guidelines for the Early Management of Patients With Acute Ischemic Stroke. Stroke 2019;50:e344–e418. Section 3.2: Intravenous Alteplase in Wake-Up Stroke",
+        "url": "https://www.ahajournals.org/doi/10.1161/STR.0000000000000211"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s2-0005",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Infectious Disease",
+    "topic": "Early Infancy Fever Protocol & Viral Concurrency",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 14-day-old male infant is brought to the pediatric emergency department by his parents because of a rectal temperature of 38.6 C (101.5 F) recorded at home. The infant was born at 39 weeks gestation via uncomplicated spontaneous vaginal delivery following an uneventful pregnancy; maternal group B Streptococcus (GBS) screening was negative. The infant has been breastfeeding well, with 6 wet diapers over the past 24 hours and no vomiting, cough, rhinorrhea, or rash. On physical examination, rectal temperature is 38.4 C (101.1 F), heart rate is 156/min, respiratory rate is 42/min, and oxygen saturation is 99% on room air. The infant is sleeping comfortably in his mother's arms, arouses normally to examination, has a soft flat anterior fontanelle, clear breath sounds, a benign abdomen, and normal capillary refill under 2 seconds. A rapid multiplex respiratory viral panel sent from a nasopharyngeal swab returns POSITIVE for Human Rhinovirus/Enterovirus RNA. Complete blood count shows a white blood cell count of 11,200/uL with normal differential, and serum procalcitonin is 0.18 ng/mL (normal < 0.5). Which of the following is the most appropriate management plan for this infant?",
+    "options": [
+      {
+        "text": "Reassure parents, discharge home without lumbar puncture or antibiotics",
+        "correct": false,
+        "explanation": "Discharge without full evaluation is dangerous; neonates under 21 days have immature immune defenses, and concurrent invasive bacterial infection occurs in up to 5–10% of febrile infants who test positive for respiratory viruses."
+      },
+      {
+        "text": "Perform a lumbar puncture, obtain blood and urine cultures, and admit for intravenous ampicillin and ceftazidime (or gentamicin)",
+        "correct": true,
+        "explanation": "This patient is a febrile infant aged 14 days (8 to 21 days old). According to the American Academy of Pediatrics (AAP) 2021 Clinical Practice Guideline for the Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old, all well-appearing febrile infants aged 8 to 21 days represent a high-risk cohort requiring a complete sepsis evaluation. This evaluation MUST include blood culture, catheterized urinalysis and urine culture, and lumbar puncture for cerebrospinal fluid (CSF) analysis and culture. Furthermore, the presence of a confirmed viral infection (such as rhinovirus or enterovirus) does NOT diminish the risk of concurrent invasive bacterial infection (SBI/IBI, including GBS, E. coli, and Listeria) in infants under 21 days. The patient must be admitted to the hospital for parenteral antimicrobial therapy with ampicillin (covering Listeria and Enterococcus) plus an aminoglycoside (gentamicin) or a third-generation cephalosporin (ceftazidime; note that ceftriaxone is avoided in neonates due to risk of biliary sludging and bilirubin displacement)."
+      },
+      {
+        "text": "Obtain blood and urine cultures, defer lumbar puncture, and discharge on oral cefixime",
+        "correct": false,
+        "explanation": "Deferring lumbar puncture and treating with oral antibiotics is inappropriate for infants <= 21 days; CSF penetration of oral cephalosporins is inadequate, and neonatal meningitis must be formally ruled out."
+      },
+      {
+        "text": "Perform bladder catheterization for urinalysis and culture; withhold blood culture, lumbar puncture, and antibiotics",
+        "correct": false,
+        "explanation": "Evaluating only for urinary tract infection ignores the high rate of bacteremia and neonatal meningitis in this age group."
+      },
+      {
+        "text": "Administer intramuscular ceftriaxone in the ED and discharge with 24-hour outpatient follow-up",
+        "correct": false,
+        "explanation": "Ceftriaxone is contraindicated in neonates < 28 days because it displaces bilirubin from albumin (increasing kernicterus risk) and precipitates with calcium; furthermore, outpatient management is contraindicated in infants <= 21 days."
+      }
+    ],
+    "explanation": "In febrile infants aged 8–21 days, full sepsis workup including lumbar puncture and parenteral admission (ampicillin + gentamicin/ceftazidime) is mandatory. Viral positivity does not rule out concurrent invasive bacterial infection.",
+    "objective": "Apply the AAP 2021 febrile infant guideline to mandate lumbar puncture and hospital admission in infants aged 8 to 21 days regardless of viral test results.",
+    "keyPoints": [
+      "Infants aged 8–21 days require complete sepsis workup: blood culture, urine culture, and lumbar puncture.",
+      "Confirmed respiratory viral infection does not eliminate the risk of concurrent invasive bacterial infection in this age group.",
+      "Ceftriaxone is contraindicated in neonates < 28 days (kernicterus risk); use ampicillin + gentamicin or ceftazidime."
+    ],
+    "references": [
+      {
+        "label": "AAP Clinical Practice Guideline: Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old. Pediatrics 2021;148:e2021052228. Section: Management of Infants 8 to 21 Days of Age",
+        "url": "https://publications.aap.org/pediatrics/article/148/2/e2021052228/179783/Evaluation-and-Management-of-Well-Appearing"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s2-0006",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Reproductive",
+    "topic": "HELLP Syndrome Delivery Timing & Maternal Stabilization",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old primigravida at 33 weeks and 2 days gestation presents to the labor and delivery triage unit complaining of persistent right upper quadrant abdominal pain, nausea, and headache for the past 12 hours. She has had an uncomplicated pregnancy until today. On physical examination, blood pressure is 168/104 mmHg, pulse is 88/min, and respirations are 18/min. She has moderate right upper quadrant tenderness without peritoneal signs; 3+ patellar deep tendon reflexes with 2 beats of ankle clonus are present. Continuous electronic fetal monitoring demonstrates a baseline fetal heart rate of 140/min with moderate variability, spontaneous accelerations, and no decelerations (Category 1 tracing). Initial laboratory evaluation reveals: hemoglobin 9.8 g/dL (baseline: 12.2 g/dL), peripheral blood smear demonstrating schistocytes and helmet cells (3+), platelet count 68,000/uL, serum AST 184 U/L, serum ALT 192 U/L, total bilirubin 2.1 mg/dL, and serum lactate dehydrogenase (LDH) 780 U/L (normal < 250 U/L). Serum creatinine is 1.0 mg/dL, and urine dipstick reveals 3+ protein. Which of the following is the most appropriate next step in the management of this patient?",
+    "options": [
+      {
+        "text": "Administer intravenous magnesium sulfate and labetalol, and plan for prompt delivery after maternal stabilization",
+        "correct": true,
+        "explanation": "This patient has HELLP syndrome (Hemolysis with schistocytes, Elevated Liver enzymes [AST/ALT > 2x normal], and Low Platelets [< 100,000/uL]), a severe manifestation of preeclampsia with severe features. According to American College of Obstetricians and Gynecologists (ACOG) Practice Bulletin No. 222, HELLP syndrome is an acute, progressive, life-threatening obstetric emergency. Even though the patient is at 33 weeks gestation (preterm), HELLP syndrome is an absolute indication for prompt delivery following maternal stabilization, regardless of gestational age. Immediate maternal management requires intravenous magnesium sulfate for eclampsia seizure prophylaxis and acute intravenous antihypertensive therapy (intravenous labetalol or hydralazine) to lower blood pressure below 160/110 mmHg. Once the mother is stabilized, prompt delivery should be pursued. Expectant management in HELLP syndrome is contraindicated due to high maternal risks of disseminated intravascular coagulation (DIC), subcapsular hepatic hematoma, hepatic rupture, placental abruption, and maternal mortality."
+      },
+      {
+        "text": "Administer high-dose intravenous dexamethasone to reverse thrombocytopenia and continue expectant monitoring until 37 weeks",
+        "correct": false,
+        "explanation": "ACOG guidelines explicitly advise against high-dose corticosteroids to improve maternal HELLP outcomes; steroids do not reduce maternal morbidity or mortality and expectant management past 34 weeks in HELLP is contraindicated."
+      },
+      {
+        "text": "Transfuse 2 units of uncrossed platelets immediately before starting any antihypertensive therapy",
+        "correct": false,
+        "explanation": "Platelet transfusion is indicated for severe thrombocytopenia (< 20,000/uL for vaginal delivery, < 50,000/uL for cesarean delivery, or active bleeding); at 68,000/uL without active hemorrhage, platelet transfusion is not indicated prior to blood pressure stabilization."
+      },
+      {
+        "text": "Administer oral nifedipine and continue inpatient expectant management until 34 weeks gestation to maximize fetal lung maturity",
+        "correct": false,
+        "explanation": "While expectant management can be considered in selected preeclampsia without severe features before 34 weeks, active HELLP syndrome is an indication for delivery regardless of gestational age."
+      },
+      {
+        "text": "Perform immediate emergent crash cesarean delivery under general anesthesia without prior maternal hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Crash cesarean delivery without prior stabilization (controlling severe hypertension and administering magnesium sulfate) exposes the mother to massive risk of intracranial hemorrhage and anesthesia complications; vaginal delivery can be pursued if induction is feasible and fetal status is reassuring."
+      }
+    ],
+    "explanation": "HELLP syndrome is an obstetric emergency requiring prompt delivery regardless of gestational age once maternal blood pressure is controlled with antihypertensives and magnesium sulfate seizure prophylaxis is initiated.",
+    "objective": "Prioritize maternal stabilization (magnesium sulfate and antihypertensive) followed by prompt delivery in preterm HELLP syndrome.",
+    "keyPoints": [
+      "HELLP syndrome: Hemolysis, Elevated Liver enzymes, Low Platelets.",
+      "Absolute indication for delivery regardless of gestational age once mother is stabilized.",
+      "Initiate magnesium sulfate for seizure prophylaxis and IV labetalol/hydralazine for BP >= 160/110 mmHg."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin No. 222: Gestational Hypertension and Preeclampsia. Obstet Gynecol 2020;135:e237–e260. Section: Management of HELLP Syndrome",
+        "url": "https://journals.lww.com/greenjournal/fulltext/2020/06000/gestational_hypertension_and_preeclampsia__acog.46.aspx"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s2-0007",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Euglycemic DKA & SGLT2 Inhibitor Management",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old woman with a 7-year history of type 2 diabetes mellitus presents to the emergency department with nausea, persistent non-bilious vomiting, diffuse abdominal discomfort, and marked fatigue for the past 24 hours. Two days ago, she underwent an uncomplicated elective outpatient laparoscopic cholecystectomy. Her chronic medications include metformin 1000 mg twice daily and empagliflozin 25 mg daily. She had minimal oral intake since surgery. On physical examination, she appears lethargic and tachypneic with deep, rapid respirations (Kussmaul breathing) and a faint fruity odor on her breath. Blood pressure is 104/64 mmHg, pulse is 112/min, and respirations are 28/min. Mucous membranes are dry and skin turgor is decreased; abdominal examination reveals mild diffuse tenderness without rebound or guarding. Point-of-care fingerstick blood glucose is 178 mg/dL. Serum laboratories reveal: sodium 134 mEq/L, potassium 4.8 mEq/L, chloride 98 mEq/L, bicarbonate 11 mEq/L (anion gap: 25 mEq/L), BUN 28 mg/dL, and serum creatinine 1.1 mg/dL. Venous blood gas shows pH 7.21 and pCO2 24 mmHg. Serum beta-hydroxybutyrate is markedly elevated at 5.8 mmol/L (normal < 0.5 mmol/L). Urinalysis shows 4+ glucose and 3+ ketones. Which of the following is the most appropriate next step in the management of this patient?",
+    "options": [
+      {
+        "text": "Discontinue empagliflozin and administer subcutaneous sliding-scale regular insulin only if blood glucose exceeds 250 mg/dL",
+        "correct": false,
+        "explanation": "Waiting for glucose to exceed 250 mg/dL fails to recognize euglycemic DKA; SGLT2 inhibitor-mediated glucosuria keeps blood glucose misleadingly low, while lack of insulin allows unchecked ketogenesis to continue."
+      },
+      {
+        "text": "Administer intravenous 0.9% normal saline bolus and withhold insulin until blood glucose exceeds 200 mg/dL",
+        "correct": false,
+        "explanation": "Fluids alone cannot arrest adipose tissue lipolysis or hepatic ketogenesis; continuous insulin is mandatory to suppress the underlying ketoacidosis."
+      },
+      {
+        "text": "Administer intravenous sodium bicarbonate infusion to normalize serum pH above 7.30 without insulin",
+        "correct": false,
+        "explanation": "Bicarbonate does not treat the underlying mechanism and is indicated only for life-threatening acidemia (pH < 6.9); insulin is the essential therapy to shut off ketogenesis."
+      },
+      {
+        "text": "Initiate subcutaneous basal glargine insulin and encourage oral fluid intake in the observation unit",
+        "correct": false,
+        "explanation": "Subcutaneous basal insulin is inadequate for acute ketoacidosis with severe acidemia (pH 7.21, bicarbonate 11); continuous intravenous insulin is required."
+      },
+      {
+        "text": "Discontinue empagliflozin, initiate continuous intravenous regular insulin infusion, and co-administer 5% dextrose in normal saline",
+        "correct": true,
+        "explanation": "This patient has Euglycemic Diabetic Ketoacidosis (euDKA) triggered by postoperative fasting and surgical stress in the setting of Sodium-Glucose Cotransporter-2 (SGLT2) inhibitor therapy (empagliflozin). SGLT2 inhibitors promote persistent renal glucosuria, which maintains blood glucose at near-normal or only mildly elevated levels (< 200–250 mg/dL), despite severe insulin deficiency and metabolic starvation. Glucosuria and low circulating insulin trigger hyperglucagonemia, driving profound adipose lipolysis and hepatic ketogenesis. The management of euDKA requires immediate discontinuation of the SGLT2 inhibitor, intravenous crystalloid volume resuscitation, and initiation of a continuous intravenous regular insulin infusion to halt ketogenesis and close the anion gap. Because the patient's blood glucose is already < 200 mg/dL (178 mg/dL), intravenous dextrose (5% or 10% dextrose in normal saline) MUST be started simultaneously with the insulin infusion to avoid severe hypoglycemia while allowing adequate insulin administration to suppress ketoacid production."
+      }
+    ],
+    "explanation": "SGLT2 inhibitors cause euglycemic DKA due to persistent glucosuria masking severe ketosis. Treatment requires stopping the SGLT2 inhibitor, continuous IV insulin to halt ketogenesis, and simultaneous IV dextrose to prevent hypoglycemia.",
+    "objective": "Manage euglycemic DKA induced by SGLT2 inhibitors by initiating continuous intravenous insulin with simultaneous intravenous dextrose administration.",
+    "keyPoints": [
+      "SGLT2 inhibitors can precipitate DKA with near-normal blood glucose (< 250 mg/dL).",
+      "Continuous IV regular insulin is essential to suppress hepatic ketogenesis.",
+      "Simultaneous IV dextrose (D5W or D5 1/2NS) is mandatory to prevent hypoglycemia while insulin clears ketoacidosis."
+    ],
+    "references": [
+      {
+        "label": "ADA Standards of Care in Diabetes—2023. Diabetes Care 2023;46(Suppl 1):S267–S278. Section: Euglycemic DKA and SGLT2 Inhibitor Management",
+        "url": "https://diabetesjournals.org/care/article/46/Supplement_1/S267/148041/16-Diabetes-Care-in-the-Hospital-Standards-of-Care"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s2-0008",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Rapidly Progressive Glomerulonephritis Emergency Immunosuppression",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old previously healthy man presents to the emergency department with a 5-day history of fatigue, dark brown urine, exertional dyspnea, and coughing up blood-streaked sputum. He has no prior history of renal, pulmonary, or rheumatologic disease. On physical examination, blood pressure is 156/96 mmHg, pulse is 88/min, and oxygen saturation is 93% on room air. Lung auscultation reveals crackles at both lung bases. There is no peripheral edema, purpura, or arthritis. Complete blood count shows a hemoglobin of 8.9 g/dL. Serum laboratories show: BUN 52 mg/dL and serum creatinine 4.8 mg/dL (baseline creatinine unknown; estimated GFR 16 mL/min/1.73m²). Urinalysis shows 3+ protein, 3+ blood, and microscopic examination reveals >50 dysmorphic RBCs/hpf and numerous red blood cell casts. Chest radiography reveals bilateral patchy alveolar infiltrates. Emergent percutaneous renal biopsy demonstrates extensive crescentic glomerulonephritis involving 80% of glomeruli; direct immunofluorescence microscopy reveals continuous, smooth, linear ribbon-like deposition of IgG along the entire glomerular basement membrane. Serological testing confirms high-titer circulating anti-glomerular basement membrane (anti-GBM) antibodies. Which of the following therapeutic interventions is the most critical immediate step to prevent irreversible end-stage kidney disease and respiratory failure in this patient?",
+    "options": [
+      {
+        "text": "Oral cyclophosphamide monotherapy combined with conservative fluid management",
+        "correct": false,
+        "explanation": "Cyclophosphamide alone takes days to weeks to suppress antibody production and does not remove the high titer of pre-existing pathogenic circulating anti-GBM antibodies that are actively destroying the glomerular and alveolar basement membranes."
+      },
+      {
+        "text": "Daily therapeutic plasmapheresis combined with intravenous pulse methylprednisolone and oral cyclophosphamide",
+        "correct": true,
+        "explanation": "This patient has Anti-Glomerular Basement Membrane (anti-GBM) Disease with concurrent glomerulonephritis and pulmonary hemorrhage (Goodpasture syndrome), a rapidly progressive medical emergency. The linear IgG deposition along the GBM confirms direct antibody-mediated cytotoxic damage. According to KDIGO Glomerulonephritis guidelines, immediate daily therapeutic plasma exchange (plasmapheresis) is mandatory to rapidly remove circulating pathogenic anti-GBM IgG antibodies. Plasmapheresis must be paired immediately with high-dose pulse methylprednisolone (1 g IV daily for 3 days followed by oral prednisone) and oral (or IV) cyclophosphamide to shut down ongoing B-cell autoantibody synthesis. Without immediate plasmapheresis, renal necrosis progresses to irreversible fibrosis, dialysis dependence, and asphyxiation from alveolar hemorrhage within days."
+      },
+      {
+        "text": "Intravenous rituximab monotherapy once weekly for 4 weeks without plasma exchange",
+        "correct": false,
+        "explanation": "Rituximab (anti-CD20) is effective for ANCA-associated vasculitis, but is second-line in anti-GBM disease and cannot rapidly eliminate circulating autoantibodies already bound to the glomerular and alveolar basement membranes."
+      },
+      {
+        "text": "Intravenous immunoglobulin (IVIG) high-dose infusion combined with oral mycophenolate mofetil",
+        "correct": false,
+        "explanation": "High-dose IVIG has no proven role in anti-GBM disease and risks worsening pulmonary capillary leak; plasmapheresis is the validated modality for mechanical antibody removal."
+      },
+      {
+        "text": "Intravenous pulse methylprednisolone and oral cyclophosphamide alone, deferring plasmapheresis until repeat autoantibody titers are obtained",
+        "correct": false,
+        "explanation": "Withholding or deferring plasmapheresis in anti-GBM disease presenting with acute renal impairment and alveolar hemorrhage carries a grave prognosis; corticosteroids and cyclophosphamide take days to weeks to curb ongoing autoantibody synthesis, during which circulating pathogenic anti-GBM antibodies continue to cause irreversible glomerular necrosis and fatal pulmonary hemorrhage."
+      }
+    ],
+    "explanation": "Anti-GBM disease with pulmonary-renal syndrome requires emergent daily plasmapheresis to remove circulating antibodies, combined with pulse steroids and cyclophosphamide to arrest autoantibody production.",
+    "objective": "Prioritize emergent therapeutic plasmapheresis combined with pulse corticosteroids and cyclophosphamide for anti-GBM disease with pulmonary hemorrhage.",
+    "keyPoints": [
+      "Anti-GBM disease: linear IgG on direct immunofluorescence and rapidly progressive crescentic GN.",
+      "Pulmonary hemorrhage + acute renal failure constitutes Goodpasture syndrome.",
+      "Immediate management: daily plasmapheresis (to remove circulating IgG) plus corticosteroids and cyclophosphamide."
+    ],
+    "references": [
+      {
+        "label": "KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases. Kidney Int 2021;100(4S):S1–S276. Chapter 9: Anti-GBM Antibody Glomerulonephritis",
+        "url": "https://kdigo.org/guidelines/gn/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s2-0009",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Pelvic Fracture Trauma & Urethral Injury Protocol",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 26-year-old man is brought by emergency medical services to the trauma resuscitation bay following a high-speed motorcycle collision. He was thrown 20 feet from the vehicle and struck a concrete guardrail. On arrival, he is immobilized on a backboard with a cervical collar in place. Airway is intact, breath sounds are clear bilaterally, and chest wall is stable. Vital signs show: blood pressure 96/60 mmHg, pulse 116/min, and oxygen saturation 98% on supplemental oxygen. Physical examination reveals marked tenderness, gross instability, and crepitus upon gentle compression of the pelvic ring. Secondary survey reveals dried blood at the external urethral meatus, marked ecchymosis of the perineum and scrotum ('butterfly' hematoma), and a palpable, full urinary bladder. Digital rectal examination reveals a high-riding, non-palpable prostate gland. A pelvic binder is immediately applied to stabilize the pelvis. The medical student prepares to place a 16-French Foley catheter to monitor urine output during volume resuscitation. Which of the following is the most appropriate next step regarding urinary tract management?",
+    "options": [
+      {
+        "text": "Place a 16-French Foley catheter using generous water-soluble lubricant to decompress the bladder",
+        "correct": false,
+        "explanation": "Blind urethral catheterization in suspected urethral injury is strictly contraindicated because catheter passage can convert a partial urethral tear into a complete transection and introduce infection into pelvic hematomas."
+      },
+      {
+        "text": "Place a Coude-tip urethral catheter with mild forward pressure to bypass urethral resistance",
+        "correct": false,
+        "explanation": "A Coude-tip catheter does not prevent urethral transection when the membranous urethra is sheared from the pelvic floor."
+      },
+      {
+        "text": "Insert a percutaneous suprapubic cystostomy tube without prior imaging",
+        "correct": false,
+        "explanation": "While suprapubic cystostomy is the definitive diversion if urethral transection is confirmed, diagnostic imaging (retrograde urethrogram) should be attempted first to assess the extent of injury."
+      },
+      {
+        "text": "Immediate surgical exploration and primary open urethral realignment in the operating room",
+        "correct": false,
+        "explanation": "Immediate open urethral exploration in an unstable pelvic trauma patient increases bleeding from disrupted presacral venous plexuses and is associated with high rates of erectile dysfunction and stricture; primary endoscopic or delayed realignment is preferred."
+      },
+      {
+        "text": "Perform a retrograde urethrogram under fluoroscopy before any transurethral catheterization attempt",
+        "correct": true,
+        "explanation": "This patient exhibits the classic clinical triad of posterior urethral injury (injury to the membranous or prostatic urethra) associated with pelvic ring disruption: (1) blood at the external urethral meatus, (2) high-riding or non-palpable prostate on digital rectal examination, and (3) perineal/scrotal hematoma. When pelvic trauma is accompanied by any signs of urethral injury, blind placement of a transurethral (Foley) catheter is STRICTLY CONTRAINDICATED. Attempting blind catheterization can convert a partial urethral tear into a complete mucosal transection, false-passage into the pelvic hematoma, and introduce severe perivesical infection. The mandatory next step is a dynamic Retrograde Urethrogram (RUG), performed by gently inserting a catheter into the fossa navicularis, instilling 20–30 mL of water-soluble contrast, and obtaining fluoroscopic or radiographic films to evaluate urethral mucosal continuity. If the urethra is intact, a catheter may be safely passed; if disrupted, suprapubic cystostomy is indicated."
+      }
+    ],
+    "explanation": "Blood at the meatus, high-riding prostate, and pelvic fracture signal posterior urethral disruption. Blind Foley catheterization is strictly contraindicated; retrograde urethrography is mandatory prior to instrumentation.",
+    "objective": "Identify retrograde urethrography as the mandatory initial diagnostic step before attempting catheterization in suspected urethral trauma.",
+    "keyPoints": [
+      "Triad of posterior urethral injury: blood at meatus, high-riding prostate, scrotal/perineal hematoma.",
+      "Blind Foley catheterization is contraindicated (risks converting partial tear to complete transection).",
+      "Perform retrograde urethrography (RUG) to assess urethral continuity."
+    ],
+    "references": [
+      {
+        "label": "Morey AF, Brandes S, Dugi DD 3rd, et al. Urotrauma: AUA guideline. J Urol 2014;192:327–335. ATLS 10th ed. Chapter 5: Urethral and Bladder Trauma",
+        "url": "https://www.auanet.org/guidelines-and-quality/guidelines/urotrauma-guideline"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s2-0010",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Neuroleptic Malignant Syndrome Specific Pharmacotherapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man with treatment-resistant schizophrenia is brought to the emergency department by emergency medical services after his family found him unresponsive and burning hot to the touch in his apartment. Two days ago, his outpatient psychiatrist increased his haloperidol dose from 5 mg twice daily to 10 mg twice daily. On physical examination, the patient is obtunded, responding only to noxious stimuli with non-purposeful withdrawal. Vital signs show: temperature 40.1 C (104.2 F), blood pressure 182/106 mmHg, pulse 128/min, respirations 24/min, and oxygen saturation 96% on room air. The patient is profusely diaphoretic. Neurological examination reveals severe generalized muscular rigidity with prominent resistance throughout passive flexion and extension of both upper and lower extremities ('lead-pipe' rigidity); deep tendon reflexes are 2+ and symmetrical, and there is no clonus. Laboratory evaluation reveals: white blood cell count 18,600/uL, serum creatinine 2.4 mg/dL (baseline 0.9 mg/dL), and serum creatine kinase (CK) 42,000 U/L (normal: 30–200 U/L). Antipsychotic therapy is discontinued immediately, aggressive intravenous hydration with isotonic saline is initiated, and external active cooling measures are applied. Over the next 2 hours, despite generous volume expansion, the patient's temperature remains 39.8 C (103.6 F) with persistent severe muscular rigidity. Which of the following pharmacotherapeutic agents is most appropriate to administer at this time?",
+    "options": [
+      {
+        "text": "Intravenous benztropine mesylate 2 mg bolus",
+        "correct": false,
+        "explanation": "Anticholinergics like benztropine treat acute dystonic reactions and parkinsonism, but are ineffective for NMS and can worsen hyperthermia by impairing diaphoresis."
+      },
+      {
+        "text": "Intravenous diphenhydramine 50 mg bolus",
+        "correct": false,
+        "explanation": "Diphenhydramine possesses potent anticholinergic properties; like benztropine, it is ineffective for NMS and exacerbates hyperthermia."
+      },
+      {
+        "text": "Oral bromocriptine mesylate 2.5 mg administered via nasogastric tube",
+        "correct": true,
+        "explanation": "This patient has Neuroleptic Malignant Syndrome (NMS), an idiosyncratic, life-threatening reaction to dopamine D2-receptor blockade (haloperidol). The clinical tetrad of NMS comprises: (1) severe muscle rigidity ('lead-pipe'), (2) hyperthermia (temperature often > 40 C), (3) autonomic instability (labile hypertension, tachycardia, diaphoresis), and (4) altered mental status, accompanied by extreme rhabdomyolysis (CK > 40,000 U/L) and acute kidney injury. Initial management requires prompt cessation of the causative antipsychotic, aggressive intravenous hydration, and active cooling. In moderate-to-severe NMS refractory to supportive measures, specific pharmacotherapy is indicated: Bromocriptine mesylate (administered enterally via nasogastric tube in obtunded patients), a centrally acting dopamine D2-receptor agonist that directly reverses dopamine receptor blockade in the striatum and hypothalamus, and/or intravenous Dantrolene sodium, a direct-acting skeletal muscle relaxant that blocks ryanodine receptors on the sarcoplasmic reticulum, preventing intracellular calcium release and stopping hypermetabolic muscle contractions."
+      },
+      {
+        "text": "Oral propranolol 40 mg administered via nasogastric tube",
+        "correct": false,
+        "explanation": "Propranolol is used for neuroleptic-induced akathisia; it does not reverse central dopamine blockade or peripheral hyperthermia in NMS."
+      },
+      {
+        "text": "Oral cyproheptadine 12 mg administered via nasogastric tube",
+        "correct": false,
+        "explanation": "Cyproheptadine is a serotonin receptor (5-HT2A) antagonist indicated for moderate-to-severe serotonin syndrome (characterized by neuromuscular hyperreactivity with clonus and hyperreflexia), but has no therapeutic efficacy in NMS."
+      }
+    ],
+    "explanation": "NMS is caused by dopamine D2-receptor blockade, presenting with lead-pipe rigidity, hyperthermia, and extreme CK elevation. Specific pharmacotherapy includes bromocriptine (dopamine agonist) or dantrolene (ryanodine antagonist).",
+    "objective": "Select bromocriptine or dantrolene as specific pharmacotherapy for severe neuroleptic malignant syndrome refractory to supportive measures.",
+    "keyPoints": [
+      "NMS tetrad: hyperthermia, lead-pipe rigidity, autonomic instability, and altered mental status.",
+      "Extreme CK elevation (> 1,000 to > 50,000 U/L) reflects severe rhabdomyolysis.",
+      "Specific medical therapy: bromocriptine (dopamine agonist) or dantrolene (skeletal muscle relaxant)."
+    ],
+    "references": [
+      {
+        "label": "American Psychiatric Association Practice Guideline for Schizophrenia, 3rd ed. Am J Psychiatry 2020;177:868–872. Section: Management of Neuroleptic Malignant Syndrome",
+        "url": "https://psychiatryonline.org/doi/full/10.1176/appi.ajp.2020.177901"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  }
+]

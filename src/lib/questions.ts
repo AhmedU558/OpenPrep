@@ -3,7 +3,7 @@ import { db } from './db';
 import type { Filters } from './validation/exam';
 import { deliverableQuestion } from './content-rights';
 import { resolveUserActiveQuestionPools, type UserActiveQuestionPools } from './practice-event-sequence';
-import { isRevisionFullyApproved, type QuestionContentSnapshot } from './question-revision';
+import { isRevisionAvailableForPractice, type QuestionContentSnapshot } from './question-revision';
 
 // ponytail: full-text search computes to_tsvector per query (no index); add a generated tsvector column + GIN index past ~50k questions
 export async function searchIds(q: string): Promise<string[]> {
@@ -113,7 +113,7 @@ export async function listQuestions(userId: string | null, f: Filters, page: num
         revisions: {
           orderBy: { revisionNumber: 'desc' },
           take: 1,
-          select: { contentSnapshot: true, reviews: true },
+          select: { contentSnapshot: true, reviews: true, contentHash: true, ownerTestRelease: true },
         },
       },
     }),
@@ -123,7 +123,7 @@ export async function listQuestions(userId: string | null, f: Filters, page: num
     let stemMd = r.stemMd;
     if (r.revisions && r.revisions.length > 0) {
       const latestRev = r.revisions[0]!;
-      const { approved } = isRevisionFullyApproved(latestRev.reviews);
+      const approved = isRevisionAvailableForPractice(latestRev);
       if (approved && latestRev.contentSnapshot) {
         const snap = latestRev.contentSnapshot as unknown as QuestionContentSnapshot;
         if (snap.stemMd) stemMd = snap.stemMd;

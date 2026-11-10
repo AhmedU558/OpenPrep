@@ -1,0 +1,16 @@
+{
+  "environment": "production",
+  "origin": "https://openprep-amber.vercel.app",
+  "readOnly": true,
+  "checkedAt": "2026-11-01T13:09:10.122Z",
+  "checks": [
+    "public landing page 200 and scripts load",
+    "deployed CSS contains approved sidebar, hero and decorative styles",
+    "unauthenticated dashboard redirects to functioning login page",
+    "test builder and question bank remain protected by login",
+    "public landing page fits 390px viewport"
+  ],
+  "pageErrors": [],
+  "failedResponses": [],
+  "passed": true
+}

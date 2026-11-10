@@ -1,0 +1,2708 @@
+{
+  "totalChecked": 300,
+  "matched": 300,
+  "mismatches": [],
+  "missing": [],
+  "records": [
+    {
+      "code": "op-c-s1-0801",
+      "pmid": "42297748",
+      "label": "McGill JB et al. Impact of Simultaneous Initiation of Finerenone and Empagliflozin on Albuminuria Irrespective of Baseline HbA1c Levels: A Participant-Level Exploratory Analysis of the Randomised CONFIDENCE Trial. Diabetes Obes Metab. PMID: 42297748.",
+      "retrievedTitle": "Impact of Simultaneous Initiation of Finerenone and Empagliflozin on Albuminuria Irrespective of Baseline HbA1c Levels: A Participant-Level Exploratory Analysis of the Randomised CONFIDENCE Trial.",
+      "retrievedFirstAuthor": "McGill JB",
+      "retrievedSource": "Diabetes Obes Metab",
+      "retrievedPubDate": "2026 Sep"
+    },
+    {
+      "code": "op-c-s1-0802",
+      "pmid": "25176015",
+      "label": "McMurray JJ, Packer M, Desai AS, et al. Angiotensin-neprilysin inhibition versus enalapril in heart failure. N Engl J Med. 2014;371(11):993-1004. PMID: 25176015.",
+      "retrievedTitle": "Angiotensin-neprilysin inhibition versus enalapril in heart failure.",
+      "retrievedFirstAuthor": "McMurray JJ",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2014 Sep 11"
+    },
+    {
+      "code": "op-c-s1-0803",
+      "pmid": "20801500",
+      "label": "Swedberg K, Komajda M, Bhm M, et al. Ivabradine and outcomes in chronic heart failure (SHIFT): a randomised placebo-controlled study. Lancet. 2010;376(9744):875-885. PMID: 20801500.",
+      "retrievedTitle": "Ivabradine and outcomes in chronic heart failure (SHIFT): a randomised placebo-controlled study.",
+      "retrievedFirstAuthor": "Swedberg K",
+      "retrievedSource": "Lancet",
+      "retrievedPubDate": "2010 Sep 11"
+    },
+    {
+      "code": "op-c-s1-0804",
+      "pmid": "28304224",
+      "label": "Sabatine MS, Giugliano RP, Keech AC, et al. Evolocumab and Clinical Outcomes in Patients with Cardiovascular Disease. N Engl J Med. 2017;376(18):1713-1722. PMID: 28304224.",
+      "retrievedTitle": "Evolocumab and Clinical Outcomes in Patients with Cardiovascular Disease.",
+      "retrievedFirstAuthor": "Sabatine MS",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2017 May 4"
+    },
+    {
+      "code": "op-c-s1-0805",
+      "pmid": "33200892",
+      "label": "Bhatt DL, Szarek M, Steg PG, et al. Sotagliflozin in Patients with Diabetes and Recent Worsening Heart Failure. N Engl J Med. 2021;384(2):117-128. PMID: 33200892.",
+      "retrievedTitle": "Sotagliflozin in Patients with Diabetes and Recent Worsening Heart Failure.",
+      "retrievedFirstAuthor": "Bhatt DL",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2021 Jan 14"
+    },
+    {
+      "code": "op-c-s1-0806",
+      "pmid": "39823276",
+      "label": "Mentz RJ et al. Efficacy and safety of finerenone in patients with chronic kidney disease and type 2 diabetes by diuretic use: A FIDELITY analysis. Eur J Heart Fail. PMID: 39823276.",
+      "retrievedTitle": "Efficacy and safety of finerenone in patients with chronic kidney disease and type 2 diabetes by diuretic use: A FIDELITY analysis.",
+      "retrievedFirstAuthor": "Mentz RJ",
+      "retrievedSource": "Eur J Heart Fail",
+      "retrievedPubDate": "2025 May"
+    },
+    {
+      "code": "op-c-s1-0807",
+      "pmid": "23121377",
+      "label": "Torres VE, Chapman AB, Devuyst O, et al. Tolvaptan in patients with autosomal dominant polycystic kidney disease. N Engl J Med. 2012;367(25):2407-2418. PMID: 23121377.",
+      "retrievedTitle": "Tolvaptan in patients with autosomal dominant polycystic kidney disease.",
+      "retrievedFirstAuthor": "Torres VE",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2012 Dec 20"
+    },
+    {
+      "code": "op-c-s1-0808",
+      "pmid": "11091117",
+      "label": "Birnbaumer M. Vasopressin receptors. Trends Endocrinol Metab. 2000;11(10):406-410. PMID: 11091117.",
+      "retrievedTitle": "Vasopressin receptors.",
+      "retrievedFirstAuthor": "Birnbaumer M",
+      "retrievedSource": "Trends Endocrinol Metab",
+      "retrievedPubDate": "2000 Dec"
+    },
+    {
+      "code": "op-c-s1-0809",
+      "pmid": "24756514",
+      "label": "Wall M, McDermott MP, Kieburtz KD, et al. Effect of acetazolamide on visual function in patients with idiopathic intracranial hypertension and mild visual loss: the Idiopathic Intracranial Hypertension Treatment Trial (IIHTT). JAMA. 2014;311(16):1641-1651. PMID: 24756514.",
+      "retrievedTitle": "Effect of acetazolamide on visual function in patients with idiopathic intracranial hypertension and mild visual loss: the idiopathic intracranial hypertension treatment trial.",
+      "retrievedFirstAuthor": "NORDIC Idiopathic Intracranial Hypertension Study Group Writing Committee",
+      "retrievedSource": "JAMA",
+      "retrievedPubDate": "2014 Apr 23-30"
+    },
+    {
+      "code": "op-c-s1-0810",
+      "pmid": "17215439",
+      "label": "Oppermann M et al. Renal function in mice with targeted disruption of the A isoform of the Na-K-2Cl co-transporter. J Am Soc Nephrol. PMID: 17215439.",
+      "retrievedTitle": "Renal function in mice with targeted disruption of the A isoform of the Na-K-2Cl co-transporter.",
+      "retrievedFirstAuthor": "Oppermann M",
+      "retrievedSource": "J Am Soc Nephrol",
+      "retrievedPubDate": "2007 Feb"
+    },
+    {
+      "code": "op-c-s1-0811",
+      "pmid": "41779342",
+      "label": "Muiesan ML et al. Challenges and Perspectives in Optimising the Treatment of Arterial Hypertension: Role of the Ramipril-Amlodipine-Hydrochlorothiazide Single-Pill Combination. High Blood Press Cardiovasc Prev. PMID: 41779342.",
+      "retrievedTitle": "Challenges and Perspectives in Optimising the Treatment of Arterial Hypertension: Role of the Ramipril-Amlodipine-Hydrochlorothiazide Single-Pill Combination.",
+      "retrievedFirstAuthor": "Muiesan ML",
+      "retrievedSource": "High Blood Press Cardiovasc Prev",
+      "retrievedPubDate": "2026 Jul"
+    },
+    {
+      "code": "op-c-s1-0812",
+      "pmid": "42992303",
+      "label": "Toole J et al. Heart Failure With Reduced and Preserved Ejection Fraction: A Review of Guideline Directed Medical Therapy. Int J Angiol. PMID: 42992303.",
+      "retrievedTitle": "Heart Failure With Reduced and Preserved Ejection Fraction: A Review of Guideline Directed Medical Therapy.",
+      "retrievedFirstAuthor": "Toole J",
+      "retrievedSource": "Int J Angiol",
+      "retrievedPubDate": "2026 Dec"
+    },
+    {
+      "code": "op-c-s1-0813",
+      "pmid": "27984052",
+      "label": "Frishman WH et al. Beta-Adrenergic Receptor Blockers in Hypertension: Alive and Well. Prog Cardiovasc Dis. PMID: 27984052.",
+      "retrievedTitle": "Beta-Adrenergic Receptor Blockers in Hypertension: Alive and Well.",
+      "retrievedFirstAuthor": "Frishman WH",
+      "retrievedSource": "Prog Cardiovasc Dis",
+      "retrievedPubDate": "2016 Nov-Dec"
+    },
+    {
+      "code": "op-c-s1-0814",
+      "pmid": "6116286",
+      "label": "Houston MC et al. Abrupt discontinuation of antihypertensive therapy. South Med J. PMID: 6116286.",
+      "retrievedTitle": "Abrupt discontinuation of antihypertensive therapy.",
+      "retrievedFirstAuthor": "Houston MC",
+      "retrievedSource": "South Med J",
+      "retrievedPubDate": "1981 Sep"
+    },
+    {
+      "code": "op-c-s1-0815",
+      "pmid": "11794223",
+      "label": "Murphy MB, Murray C, Shorten GD. Fenoldopam: a selective peripheral dopamine-receptor agonist for the treatment of severe hypertension. N Engl J Med. 2001;345(21):1548-1557. PMID: 11794223.",
+      "retrievedTitle": "Fenoldopam: a selective peripheral dopamine-receptor agonist for the treatment of severe hypertension.",
+      "retrievedFirstAuthor": "Murphy MB",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2001 Nov 22"
+    },
+    {
+      "code": "op-c-s1-0816",
+      "pmid": "21732835",
+      "label": "O'Connor CM, Starling RC, Hernandez AF, et al. Effect of nesiritide in patients with acute decompensated heart failure. N Engl J Med. 2011;365(1):32-43. PMID: 21732835.",
+      "retrievedTitle": "Effect of nesiritide in patients with acute decompensated heart failure.",
+      "retrievedFirstAuthor": "O'Connor CM",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2011 Jul 7"
+    },
+    {
+      "code": "op-c-s1-0817",
+      "pmid": "11907289",
+      "label": "Rubin LJ, Badesch DB, Barst RJ, et al. Bosentan therapy for pulmonary arterial hypertension. N Engl J Med. 2002;346(12):896-903. PMID: 11907289.",
+      "retrievedTitle": "Bosentan therapy for pulmonary arterial hypertension.",
+      "retrievedFirstAuthor": "Rubin LJ",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2002 Mar 21"
+    },
+    {
+      "code": "op-c-s1-0818",
+      "pmid": "23883377",
+      "label": "Ghofrani HA, D'Armini AM, Grimminger F, et al. Riociguat for the treatment of chronic thromboembolic pulmonary hypertension. N Engl J Med. 2013;369(4):319-329. PMID: 23883377.",
+      "retrievedTitle": "Riociguat for the treatment of chronic thromboembolic pulmonary hypertension.",
+      "retrievedFirstAuthor": "Ghofrani HA",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2013 Jul 25"
+    },
+    {
+      "code": "op-c-s1-0819",
+      "pmid": "40144855",
+      "label": "Channick R et al. Effects of macitentan and selexipag across prognostic age groups in patients with pulmonary arterial hypertension. JHLT Open. PMID: 40144855.",
+      "retrievedTitle": "Effects of macitentan and selexipag across prognostic age groups in patients with pulmonary arterial hypertension.",
+      "retrievedFirstAuthor": "Channick R",
+      "retrievedSource": "JHLT Open",
+      "retrievedPubDate": "2025 Feb"
+    },
+    {
+      "code": "op-c-s1-0820",
+      "pmid": "1944425",
+      "label": "Packer M, Carver JR, Rodeheffer RJ, et al. Effect of oral milrinone on mortality in severe chronic heart failure. The PROMISE Study Research Group. N Engl J Med. 1991;325(21):1468-1475. PMID: 1944425.",
+      "retrievedTitle": "Effect of oral milrinone on mortality in severe chronic heart failure. The PROMISE Study Research Group.",
+      "retrievedFirstAuthor": "Packer M",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "1991 Nov 21"
+    },
+    {
+      "code": "op-c-s1-0821",
+      "pmid": "15210613",
+      "label": "Gheorghiade M, Adams KF Jr, Colucci WS. Digoxin in the management of cardiovascular disorders. Circulation. 2004;109(24):2959-2964. PMID: 15210613.",
+      "retrievedTitle": "Digoxin in the management of cardiovascular disorders.",
+      "retrievedFirstAuthor": "Gheorghiade M",
+      "retrievedSource": "Circulation",
+      "retrievedPubDate": "2004 Jun 22"
+    },
+    {
+      "code": "op-c-s1-0822",
+      "pmid": "1900101",
+      "label": "Echt DS, Liebson PR, Mitchell LB, et al. Mortality and morbidity in patients receiving encainide, flecainide, or placebo. The Cardiac Arrhythmia Suppression Trial. N Engl J Med. 1991;324(12):781-788. PMID: 1900101.",
+      "retrievedTitle": "Mortality and morbidity in patients receiving encainide, flecainide, or placebo. The Cardiac Arrhythmia Suppression Trial.",
+      "retrievedFirstAuthor": "Echt DS",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "1991 Mar 21"
+    },
+    {
+      "code": "op-c-s1-0823",
+      "pmid": "15989900",
+      "label": "Basaria S, Cooper DS. Amiodarone and the thyroid. Am J Med. 2005;118(7):706-714. PMID: 15989900.",
+      "retrievedTitle": "Amiodarone and the thyroid.",
+      "retrievedFirstAuthor": "Basaria S",
+      "retrievedSource": "Am J Med",
+      "retrievedPubDate": "2005 Jul"
+    },
+    {
+      "code": "op-c-s1-0824",
+      "pmid": "10486417",
+      "label": "Torp-Pedersen C, Moller M, Bloch-Thomsen PE, et al. Dofetilide in patients with congestive heart failure and left ventricular-dysfunction. Danish Investigations of Arrhythmia and Mortality on Dofetilide Study Group. N Engl J Med. 1999;341(12):857-865. PMID: 10486417.",
+      "retrievedTitle": "Dofetilide in patients with congestive heart failure and left ventricular dysfunction. Danish Investigations of Arrhythmia and Mortality on Dofetilide Study Group.",
+      "retrievedFirstAuthor": "Torp-Pedersen C",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "1999 Sep 16"
+    },
+    {
+      "code": "op-c-s1-0825",
+      "pmid": "26059896",
+      "label": "Gutierrez JA et al. Effects of Ranolazine in Patients With Chronic Angina in Patients With and Without Percutaneous Coronary Intervention for Acute Coronary Syndrome: Observations From the MERLIN-TIMI 36 Trial. Clin Cardiol. PMID: 26059896.",
+      "retrievedTitle": "Effects of Ranolazine in Patients With Chronic Angina in Patients With and Without Percutaneous Coronary Intervention for Acute Coronary Syndrome: Observations From the MERLIN-TIMI 36 Trial.",
+      "retrievedFirstAuthor": "Gutierrez JA",
+      "retrievedSource": "Clin Cardiol",
+      "retrievedPubDate": "2015 Aug"
+    },
+    {
+      "code": "op-c-s1-0826",
+      "pmid": "17538087",
+      "label": "Enns GM et al. Survival after treatment with phenylacetate and benzoate for urea-cycle disorders. N Engl J Med. PMID: 17538087.",
+      "retrievedTitle": "Survival after treatment with phenylacetate and benzoate for urea-cycle disorders.",
+      "retrievedFirstAuthor": "Enns GM",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2007 May 31"
+    },
+    {
+      "code": "op-c-s1-0827",
+      "pmid": "16365091",
+      "label": "Chuang DT, Chuang JL, Wynn RM. Lessons from genetic disorders of branched-chain amino acid metabolism. J Nutr. 2006;136(1 Suppl):243S-249S. PMID: 16365091.",
+      "retrievedTitle": "Lessons from genetic disorders of branched-chain amino acid metabolism.",
+      "retrievedFirstAuthor": "Chuang DT",
+      "retrievedSource": "J Nutr",
+      "retrievedPubDate": "2006 Jan"
+    },
+    {
+      "code": "op-c-s1-0828",
+      "pmid": "42839282",
+      "label": "Yap S et al. Real world experience of carglumic acid for methylmalonic and propionic acidurias: the second interim analysis of the multicentre observational PROTECT study. Orphanet J Rare Dis. PMID: 42839282.",
+      "retrievedTitle": "Real world experience of carglumic acid for methylmalonic and propionic acidurias: the second interim analysis of the multicentre observational PROTECT study.",
+      "retrievedFirstAuthor": "Yap S",
+      "retrievedSource": "Orphanet J Rare Dis",
+      "retrievedPubDate": "2026 Aug 3"
+    },
+    {
+      "code": "op-c-s1-0829",
+      "pmid": "42644808",
+      "label": "Stepien KM et al. Cobalamin-Related Remethylation Disorders: Pregnancy Outcomes and Prenatal Treatment-New Cases and a Literature Study. J Inherit Metab Dis. PMID: 42644808.",
+      "retrievedTitle": "Cobalamin-Related Remethylation Disorders: Pregnancy Outcomes and Prenatal Treatment-New Cases and a Literature Study.",
+      "retrievedFirstAuthor": "Stepien KM",
+      "retrievedSource": "J Inherit Metab Dis",
+      "retrievedPubDate": "2026 Sep"
+    },
+    {
+      "code": "op-c-s1-0830",
+      "pmid": "19819175",
+      "label": "Skovby F et al. A revisit to the natural history of homocystinuria due to cystathionine beta-synthase deficiency. Mol Genet Metab. PMID: 19819175.",
+      "retrievedTitle": "A revisit to the natural history of homocystinuria due to cystathionine beta-synthase deficiency.",
+      "retrievedFirstAuthor": "Skovby F",
+      "retrievedSource": "Mol Genet Metab",
+      "retrievedPubDate": "2010 Jan"
+    },
+    {
+      "code": "op-c-s1-0831",
+      "pmid": "12501223",
+      "label": "Phornphutkul C, Introne WJ, Perry MB, et al. Natural history of alkaptonuria. N Engl J Med. 2002;347(26):2111-2121. PMID: 12501223.",
+      "retrievedTitle": "Natural history of alkaptonuria.",
+      "retrievedFirstAuthor": "Phornphutkul C",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2002 Dec 26"
+    },
+    {
+      "code": "op-c-s1-0832",
+      "pmid": "20971365",
+      "label": "Blau N, van Spronsen FJ, Levy HL. Phenylketonuria. Lancet. 2010;376(9750):1417-1427. PMID: 20971365.",
+      "retrievedTitle": "Phenylketonuria.",
+      "retrievedFirstAuthor": "Blau N",
+      "retrievedSource": "Lancet",
+      "retrievedPubDate": "2010 Oct 23"
+    },
+    {
+      "code": "op-c-s1-0833",
+      "pmid": "40965374",
+      "label": "Kuypers AM et al. Overview of European Practices for Management of Tyrosinemia Type 1: Towards European Guidelines. J Inherit Metab Dis. PMID: 40965374.",
+      "retrievedTitle": "Overview of European Practices for Management of Tyrosinemia Type 1: Towards European Guidelines.",
+      "retrievedFirstAuthor": "Kuypers AM",
+      "retrievedSource": "J Inherit Metab Dis",
+      "retrievedPubDate": "2025 Sep"
+    },
+    {
+      "code": "op-c-s1-0834",
+      "pmid": "25356975",
+      "label": "Kishnani PS, Austin SL, Abdenur JE, et al. Diagnosis and management of glycogen storage disease type I. Genet Med. 2014;16(11):e1. PMID: 25356975.",
+      "retrievedTitle": "Diagnosis and management of glycogen storage disease type I: a practice guideline of the American College of Medical Genetics and Genomics.",
+      "retrievedFirstAuthor": "Kishnani PS",
+      "retrievedSource": "Genet Med",
+      "retrievedPubDate": "2014 Nov"
+    },
+    {
+      "code": "op-c-s1-0835",
+      "pmid": "16702877",
+      "label": "Kishnani PS, Steiner RD, Bali D, et al. Pompe disease diagnosis and management guideline. Genet Med. 2006;8(5):267-288. PMID: 16702877.",
+      "retrievedTitle": "Pompe disease diagnosis and management guideline.",
+      "retrievedFirstAuthor": "Kishnani PS",
+      "retrievedSource": "Genet Med",
+      "retrievedPubDate": "2006 May"
+    },
+    {
+      "code": "op-c-s1-0836",
+      "pmid": "16705713",
+      "label": "Lucchiari S et al. Hepatic and neuromuscular forms of glycogenosis type III: nine mutations in AGL. Hum Mutat. PMID: 16705713.",
+      "retrievedTitle": "Hepatic and neuromuscular forms of glycogenosis type III: nine mutations in AGL.",
+      "retrievedFirstAuthor": "Lucchiari S",
+      "retrievedSource": "Hum Mutat",
+      "retrievedPubDate": "2006 Jun"
+    },
+    {
+      "code": "op-c-s1-0837",
+      "pmid": "18833216",
+      "label": "Lucia A, Nogales-Gadea G, Perez M, et al. McArdle disease: what do neurologists need to know? Nat Clin Pract Neurol. 2008;4(10):568-577. PMID: 18833216.",
+      "retrievedTitle": "McArdle disease: what do neurologists need to know?",
+      "retrievedFirstAuthor": "Lucia A",
+      "retrievedSource": "Nat Clin Pract Neurol",
+      "retrievedPubDate": "2008 Oct"
+    },
+    {
+      "code": "op-c-s1-0838",
+      "pmid": "15363638",
+      "label": "Bonnefont JP et al. Carnitine palmitoyltransferases 1 and 2: biochemical, molecular and medical aspects. Mol Aspects Med. PMID: 15363638.",
+      "retrievedTitle": "Carnitine palmitoyltransferases 1 and 2: biochemical, molecular and medical aspects.",
+      "retrievedFirstAuthor": "Bonnefont JP",
+      "retrievedSource": "Mol Aspects Med",
+      "retrievedPubDate": "2004 Oct-Dec"
+    },
+    {
+      "code": "op-c-s1-0839",
+      "pmid": "16617240",
+      "label": "Grosse SD, Khoury MJ, Greene CL, et al. The epidemiology of medium chain acyl-CoA dehydrogenase deficiency: an update. Genet Med. 2006;8(4):205-212. PMID: 16617240.",
+      "retrievedTitle": "The epidemiology of medium chain acyl-CoA dehydrogenase deficiency: an update.",
+      "retrievedFirstAuthor": "Grosse SD",
+      "retrievedSource": "Genet Med",
+      "retrievedPubDate": "2006 Apr"
+    },
+    {
+      "code": "op-c-s1-0840",
+      "pmid": "22079328",
+      "label": "Patel KP, O'Brien TW, Subramony SH, et al. The spectrum of pyruvate dehydrogenase complex deficiency: clinical, biochemical and genetic features in 371 patients. Mol Genet Metab. 2012;105(1):34-43. PMID: 22079328.",
+      "retrievedTitle": "The spectrum of pyruvate dehydrogenase complex deficiency: clinical, biochemical and genetic features in 371 patients.",
+      "retrievedFirstAuthor": "Patel KP",
+      "retrievedSource": "Mol Genet Metab",
+      "retrievedPubDate": "2012 Jan"
+    },
+    {
+      "code": "op-c-s1-0841",
+      "pmid": "16278852",
+      "label": "Garc\u00eda-Cazorla A et al. Pyruvate carboxylase deficiency: metabolic characteristics and new neurological aspects. Ann Neurol. PMID: 16278852.",
+      "retrievedTitle": "Pyruvate carboxylase deficiency: metabolic characteristics and new neurological aspects.",
+      "retrievedFirstAuthor": "Garc\u00eda-Cazorla A",
+      "retrievedSource": "Ann Neurol",
+      "retrievedPubDate": "2006 Jan"
+    },
+    {
+      "code": "op-c-s1-0842",
+      "pmid": "9610797",
+      "label": "Ali M, Rellos P, Cox TM. Hereditary fructose intolerance. J Med Genet. 1998;35(5):353-365. PMID: 9610797.",
+      "retrievedTitle": "Hereditary fructose intolerance.",
+      "retrievedFirstAuthor": "Ali M",
+      "retrievedSource": "J Med Genet",
+      "retrievedPubDate": "1998 May"
+    },
+    {
+      "code": "op-c-s1-0843",
+      "pmid": "27101822",
+      "label": "Santer R et al. A summary of molecular genetic findings in fructose-1,6-bisphosphatase deficiency with a focus on a common long-range deletion and the role of MLPA analysis. Orphanet J Rare Dis. PMID: 27101822.",
+      "retrievedTitle": "A summary of molecular genetic findings in fructose-1,6-bisphosphatase deficiency with a focus on a common long-range deletion and the role of MLPA analysis.",
+      "retrievedFirstAuthor": "Santer R",
+      "retrievedSource": "Orphanet J Rare Dis",
+      "retrievedPubDate": "2016 Apr 21"
+    },
+    {
+      "code": "op-c-s1-0844",
+      "pmid": "20301691",
+      "label": "Berry GT. Classic Galactosemia and Clinical Variant Galactosemia. GeneReviews. 2000 (Updated 2021). PMID: 20301691.",
+      "retrievedTitle": "Classic Galactosemia and Clinical Variant Galactosemia.",
+      "retrievedFirstAuthor": "Adam MP",
+      "retrievedSource": "",
+      "retrievedPubDate": "1993"
+    },
+    {
+      "code": "op-c-s1-0845",
+      "pmid": "20625932",
+      "label": "Bosch AM et al. Classic galactosemia: dietary dilemmas. J Inherit Metab Dis. PMID: 20625932.",
+      "retrievedTitle": "Classic galactosemia: dietary dilemmas.",
+      "retrievedFirstAuthor": "Bosch AM",
+      "retrievedSource": "J Inherit Metab Dis",
+      "retrievedPubDate": "2011 Apr"
+    },
+    {
+      "code": "op-c-s1-0846",
+      "pmid": "27040960",
+      "label": "Luzzatto L, Nannelli C, Notaro R. Glucose-6-Phosphate Dehydrogenase Deficiency. Hematol Oncol Clin North Am. 2016;30(2):373-393. PMID: 27040960.",
+      "retrievedTitle": "Glucose-6-Phosphate Dehydrogenase Deficiency.",
+      "retrievedFirstAuthor": "Luzzatto L",
+      "retrievedSource": "Hematol Oncol Clin North Am",
+      "retrievedPubDate": "2016 Apr"
+    },
+    {
+      "code": "op-c-s1-0847",
+      "pmid": "20542038",
+      "label": "Pietrangelo A. Hereditary hemochromatosis: pathogenesis, diagnosis, and treatment. Gastroenterology. 2010;139(2):393-404. PMID: 20542038.",
+      "retrievedTitle": "Hereditary hemochromatosis: pathogenesis, diagnosis, and treatment.",
+      "retrievedFirstAuthor": "Pietrangelo A",
+      "retrievedSource": "Gastroenterology",
+      "retrievedPubDate": "2010 Aug"
+    },
+    {
+      "code": "op-c-s1-0848",
+      "pmid": "34341141",
+      "label": "Shribman S et al. Wilson's disease: update on pathogenesis, biomarkers and treatments. J Neurol Neurosurg Psychiatry. PMID: 34341141.",
+      "retrievedTitle": "Wilson's disease: update on pathogenesis, biomarkers and treatments.",
+      "retrievedFirstAuthor": "Shribman S",
+      "retrievedSource": "J Neurol Neurosurg Psychiatry",
+      "retrievedPubDate": "2021 Oct"
+    },
+    {
+      "code": "op-c-s1-0849",
+      "pmid": "20301586",
+      "label": "Kaler SG. ATP7A-related copper transport disorders. GeneReviews. 2003 (Updated 2016). PMID: 20301586.",
+      "retrievedTitle": "ATP7A-Related Copper Transport Disorders.",
+      "retrievedFirstAuthor": "Adam MP",
+      "retrievedSource": "",
+      "retrievedPubDate": "1993"
+    },
+    {
+      "code": "op-c-s1-0850",
+      "pmid": "21960536",
+      "label": "Stoller JK, Aboussouan LS. A review of alpha1-antitrypsin deficiency. Am J Respir Crit Care Med. 2012;185(3):246-259. PMID: 21960536.",
+      "retrievedTitle": "A review of \u03b11-antitrypsin deficiency.",
+      "retrievedFirstAuthor": "Stoller JK",
+      "retrievedSource": "Am J Respir Crit Care Med",
+      "retrievedPubDate": "2012 Feb 1"
+    },
+    {
+      "code": "op-c-s1-0851",
+      "pmid": "15032591",
+      "label": "Buckley RH. Molecular defects in human severe combined immunodeficiency and approaches to immune reconstitution. Annu Rev Immunol. 2004;22:625-655. PMID: 15032591.",
+      "retrievedTitle": "Molecular defects in human severe combined immunodeficiency and approaches to immune reconstitution.",
+      "retrievedFirstAuthor": "Buckley RH",
+      "retrievedSource": "Annu Rev Immunol",
+      "retrievedPubDate": "2004"
+    },
+    {
+      "code": "op-c-s1-0852",
+      "pmid": "19302039",
+      "label": "Conley ME, Dobbs AK, Farmer DM, et al. Primary B cell immunodeficiencies: comparisons and contrasts. Annu Rev Immunol. 2009;27:199-227. PMID: 19302039.",
+      "retrievedTitle": "Primary B cell immunodeficiencies: comparisons and contrasts.",
+      "retrievedFirstAuthor": "Conley ME",
+      "retrievedSource": "Annu Rev Immunol",
+      "retrievedPubDate": "2009"
+    },
+    {
+      "code": "op-c-s1-0853",
+      "pmid": "15358621",
+      "label": "Lee WI, Torgerson TR, Schumacher MJ, et al. Molecular analysis of a large cohort of patients with the hyper immunoglobulin M (IgM) syndrome. Blood. 2005;105(2):731-736. PMID: 15358621.",
+      "retrievedTitle": "Molecular analysis of a large cohort of patients with the hyper immunoglobulin M (IgM) syndrome.",
+      "retrievedFirstAuthor": "Lee WI",
+      "retrievedSource": "Blood",
+      "retrievedPubDate": "2005 Mar 1"
+    },
+    {
+      "code": "op-c-s1-0854",
+      "pmid": "20332369",
+      "label": "Cunningham-Rundles C. How I treat common variable immune deficiency. Blood. 2010;116(1):7-15. PMID: 20332369.",
+      "retrievedTitle": "How I treat common variable immune deficiency.",
+      "retrievedFirstAuthor": "Cunningham-Rundles C",
+      "retrievedSource": "Blood",
+      "retrievedPubDate": "2010 Jul 8"
+    },
+    {
+      "code": "op-c-s1-0855",
+      "pmid": "17362578",
+      "label": "Latiff AH et al. The clinical significance of immunoglobulin A deficiency. Ann Clin Biochem. PMID: 17362578.",
+      "retrievedTitle": "The clinical significance of immunoglobulin A deficiency.",
+      "retrievedFirstAuthor": "Latiff AH",
+      "retrievedSource": "Ann Clin Biochem",
+      "retrievedPubDate": "2007 Mar"
+    },
+    {
+      "code": "op-c-s1-0856",
+      "pmid": "16630926",
+      "label": "Ochs HD, Thrasher AJ. The Wiskott-Aldrich syndrome. J Allergy Clin Immunol. 2006;117(4):725-738. PMID: 16630926.",
+      "retrievedTitle": "The Wiskott-Aldrich syndrome.",
+      "retrievedFirstAuthor": "Ochs HD",
+      "retrievedSource": "J Allergy Clin Immunol",
+      "retrievedPubDate": "2006 Apr"
+    },
+    {
+      "code": "op-c-s1-0857",
+      "pmid": "7792600",
+      "label": "Savitsky K, Bar-Shira A, Gilad S, et al. A single ataxia telangiectasia gene with a product similar to PI-3 kinase. Science. 1995;268(5218):1749-1753. PMID: 7792600.",
+      "retrievedTitle": "A single ataxia telangiectasia gene with a product similar to PI-3 kinase.",
+      "retrievedFirstAuthor": "Savitsky K",
+      "retrievedSource": "Science",
+      "retrievedPubDate": "1995 Jun 23"
+    },
+    {
+      "code": "op-c-s1-0858",
+      "pmid": "22328803",
+      "label": "Phipatanakul W et al. Cyclosporine Treatment of Intractable Colitis in Chronic Granulomatous Disease. Pediatr Asthma Allergy Immunol. PMID: 22328803.",
+      "retrievedTitle": "Cyclosporine Treatment of Intractable Colitis in Chronic Granulomatous Disease.",
+      "retrievedFirstAuthor": "Phipatanakul W",
+      "retrievedSource": "Pediatr Asthma Allergy Immunol",
+      "retrievedPubDate": "2009 Summer"
+    },
+    {
+      "code": "op-c-s1-0859",
+      "pmid": "26404752",
+      "label": "De Ponti A et al. A pro-tumorigenic function of S100A8/A9 in carcinogen-induced hepatocellular carcinoma. Cancer Lett. PMID: 26404752.",
+      "retrievedTitle": "A pro-tumorigenic function of S100A8/A9 in carcinogen-induced hepatocellular carcinoma.",
+      "retrievedFirstAuthor": "De Ponti A",
+      "retrievedSource": "Cancer Lett",
+      "retrievedPubDate": "2015 Dec 28"
+    },
+    {
+      "code": "op-c-s1-0860",
+      "pmid": "10527680",
+      "label": "Introne W et al. Clinical, molecular, and cell biological aspects of Chediak-Higashi syndrome. Mol Genet Metab. PMID: 10527680.",
+      "retrievedTitle": "Clinical, molecular, and cell biological aspects of Chediak-Higashi syndrome.",
+      "retrievedFirstAuthor": "Introne W",
+      "retrievedSource": "Mol Genet Metab",
+      "retrievedPubDate": "1999 Oct"
+    },
+    {
+      "code": "op-c-s1-0861",
+      "pmid": "17881745",
+      "label": "Holland SM, DeLeo FR, Elloumi HZ, et al. STAT3 mutations in the hyper-IgE syndrome. N Engl J Med. 2007;357(16):1608-1619. PMID: 17881745.",
+      "retrievedTitle": "STAT3 mutations in the hyper-IgE syndrome.",
+      "retrievedFirstAuthor": "Holland SM",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2007 Oct 18"
+    },
+    {
+      "code": "op-c-s1-0862",
+      "pmid": "20930072",
+      "label": "Ram S, Lewis LA, Rice PA. Infections of people with complement deficiencies and patients who have received eculizumab. Clin Microbiol Rev. 2010;23(4):740-780. PMID: 20930072.",
+      "retrievedTitle": "Infections of people with complement deficiencies and patients who have undergone splenectomy.",
+      "retrievedFirstAuthor": "Ram S",
+      "retrievedSource": "Clin Microbiol Rev",
+      "retrievedPubDate": "2010 Oct"
+    },
+    {
+      "code": "op-c-s1-0863",
+      "pmid": "18768946",
+      "label": "Zuraw BL. Clinical practice. Hereditary angioedema. N Engl J Med. 2008;359(10):1027-1036. PMID: 18768946.",
+      "retrievedTitle": "Clinical practice. Hereditary angioedema.",
+      "retrievedFirstAuthor": "Zuraw BL",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2008 Sep 4"
+    },
+    {
+      "code": "op-c-s1-0864",
+      "pmid": "41795103",
+      "label": "R\u00f6th A et al. Real-World Effectiveness and Safety of Ravulizumab in Patients With Paroxysmal Nocturnal Hemoglobinuria: Evidence From the International PNH Registry. Am J Hematol. PMID: 41795103.",
+      "retrievedTitle": "Real-World Effectiveness and Safety of Ravulizumab in Patients With Paroxysmal Nocturnal Hemoglobinuria: Evidence From the International PNH Registry.",
+      "retrievedFirstAuthor": "R\u00f6th A",
+      "retrievedSource": "Am J Hematol",
+      "retrievedPubDate": "2026 May"
+    },
+    {
+      "code": "op-c-s1-0865",
+      "pmid": "778616",
+      "label": "Miller LH, Mason SJ, Clyde DF, et al. The resistance factor to Plasmodium vivax in blacks. The Duffy-blood-group genotype, FyFy. N Engl J Med. 1976;295(6):302-304. PMID: 778616.",
+      "retrievedTitle": "The resistance factor to Plasmodium vivax in blacks. The Duffy-blood-group genotype, FyFy.",
+      "retrievedFirstAuthor": "Miller LH",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "1976 Aug 5"
+    },
+    {
+      "code": "op-c-s1-0866",
+      "pmid": "8756719",
+      "label": "Liu R, Paxton WA, Choe S, et al. Homozygous defect in HIV-1 coreceptor accounts for resistance of some multiply-exposed persons to infection. Cell. 1996;86(3):367-377. PMID: 8756719.",
+      "retrievedTitle": "Homozygous defect in HIV-1 coreceptor accounts for resistance of some multiply-exposed individuals to HIV-1 infection.",
+      "retrievedFirstAuthor": "Liu R",
+      "retrievedSource": "Cell",
+      "retrievedPubDate": "1996 Aug 9"
+    },
+    {
+      "code": "op-c-s1-0867",
+      "pmid": "15510157",
+      "label": "Young LS, Rickinson AB. Epstein-Barr virus: 40 years on. Nat Rev Cancer. 2004;4(10):757-768. PMID: 15510157.",
+      "retrievedTitle": "Epstein-Barr virus: 40 years on.",
+      "retrievedFirstAuthor": "Young LS",
+      "retrievedSource": "Nat Rev Cancer",
+      "retrievedPubDate": "2004 Oct"
+    },
+    {
+      "code": "op-c-s1-0868",
+      "pmid": "20930070",
+      "label": "Lurain NS, Chou S. Cytomegalovirus drug resistance. Clin Microbiol Rev. 2010;23(4):689-712. PMID: 20930070.",
+      "retrievedTitle": "Antiviral drug resistance of human cytomegalovirus.",
+      "retrievedFirstAuthor": "Lurain NS",
+      "retrievedSource": "Clin Microbiol Rev",
+      "retrievedPubDate": "2010 Oct"
+    },
+    {
+      "code": "op-c-s1-0869",
+      "pmid": "25759099",
+      "label": "Seeger C, Mason WS. Molecular biology of hepatitis B virus infection. Virology. 2015;479-480:672-686. PMID: 25759099.",
+      "retrievedTitle": "Molecular biology of hepatitis B virus infection.",
+      "retrievedFirstAuthor": "Seeger C",
+      "retrievedSource": "Virology",
+      "retrievedPubDate": "2015 May"
+    },
+    {
+      "code": "op-c-s1-0870",
+      "pmid": "21511329",
+      "label": "Hughes SA, Wedemeyer H, Harrison PM. Hepatitis delta virus. Lancet. 2011;378(9785):73-85. PMID: 21511329.",
+      "retrievedTitle": "Hepatitis delta virus.",
+      "retrievedFirstAuthor": "Hughes SA",
+      "retrievedSource": "Lancet",
+      "retrievedPubDate": "2011 Jul 2"
+    },
+    {
+      "code": "op-c-s1-0871",
+      "pmid": "23199966",
+      "label": "Doorbar J, Quint W, Banks L, et al. The biology and life-cycle of human papillomaviruses. Vaccine. 2012;30 Suppl 5:F55-F70. PMID: 23199966.",
+      "retrievedTitle": "The biology and life-cycle of human papillomaviruses.",
+      "retrievedFirstAuthor": "Doorbar J",
+      "retrievedSource": "Vaccine",
+      "retrievedPubDate": "2012 Nov 20"
+    },
+    {
+      "code": "op-c-s1-0872",
+      "pmid": "8211117",
+      "label": "Brown KE, Anderson SM, Young NS. Erythrocyte P antigen: cellular receptor for B19 parvovirus. Science. 1993;262(5130):114-117. PMID: 8211117.",
+      "retrievedTitle": "Erythrocyte P antigen: cellular receptor for B19 parvovirus.",
+      "retrievedFirstAuthor": "Brown KE",
+      "retrievedSource": "Science",
+      "retrievedPubDate": "1993 Oct 1"
+    },
+    {
+      "code": "op-c-s1-0873",
+      "pmid": "15831824",
+      "label": "Voth DE, Ballard JD. Clostridium difficile toxins: mechanism of action and role in disease. Clin Microbiol Rev. 2005;18(2):247-263. PMID: 15831824.",
+      "retrievedTitle": "Clostridium difficile toxins: mechanism of action and role in disease.",
+      "retrievedFirstAuthor": "Voth DE",
+      "retrievedSource": "Clin Microbiol Rev",
+      "retrievedPubDate": "2005 Apr"
+    },
+    {
+      "code": "op-c-s1-0874",
+      "pmid": "188760",
+      "label": "Iglewski BH et al. Mechanism of action of Pseudomonas aeruginosa exotoxin Aiadenosine diphosphate-ribosylation of mammalian elongation factor 2 in vitro and in vivo. Infect Immun. PMID: 188760.",
+      "retrievedTitle": "Mechanism of action of Pseudomonas aeruginosa exotoxin Aiadenosine diphosphate-ribosylation of mammalian elongation factor 2 in vitro and in vivo.",
+      "retrievedFirstAuthor": "Iglewski BH",
+      "retrievedSource": "Infect Immun",
+      "retrievedPubDate": "1977 Jan"
+    },
+    {
+      "code": "op-c-s1-0875",
+      "pmid": "10657208",
+      "label": "Holmes RK. Biology and molecular epidemiology of diphtheria toxin and the tox gene. J Infect Dis. 2000;181 Suppl 1:S156-S167. PMID: 10657208.",
+      "retrievedTitle": "Biology and molecular epidemiology of diphtheria toxin and the tox gene.",
+      "retrievedFirstAuthor": "Holmes RK",
+      "retrievedSource": "J Infect Dis",
+      "retrievedPubDate": "2000 Feb"
+    },
+    {
+      "code": "op-c-s1-0876",
+      "pmid": "11054444",
+      "label": "Hecht JL et al. Molecular biology of Burkitt's lymphoma. J Clin Oncol. PMID: 11054444.",
+      "retrievedTitle": "Molecular biology of Burkitt's lymphoma.",
+      "retrievedFirstAuthor": "Hecht JL",
+      "retrievedSource": "J Clin Oncol",
+      "retrievedPubDate": "2000 Nov 1"
+    },
+    {
+      "code": "op-c-s1-0877",
+      "pmid": "23023713",
+      "label": "Kridel R, Sehn LH, Gascoyne RD. Pathogenesis of follicular lymphoma. J Clin Invest. 2012;122(10):3424-3431. PMID: 23023713.",
+      "retrievedTitle": "Pathogenesis of follicular lymphoma.",
+      "retrievedFirstAuthor": "Kridel R",
+      "retrievedSource": "J Clin Invest",
+      "retrievedPubDate": "2012 Oct"
+    },
+    {
+      "code": "op-c-s1-0878",
+      "pmid": "38620074",
+      "label": "Sureda-G\u00f3mez M et al. SOX11 expression is restricted to EBV-negative Burkitt lymphoma and is associated with molecular genetic features. Blood. PMID: 38620074.",
+      "retrievedTitle": "SOX11 expression is restricted to EBV-negative Burkitt lymphoma and is associated with molecular genetic features.",
+      "retrievedFirstAuthor": "Sureda-G\u00f3mez M",
+      "retrievedSource": "Blood",
+      "retrievedPubDate": "2024 Jul 11"
+    },
+    {
+      "code": "op-c-s1-0879",
+      "pmid": "11287973",
+      "label": "Druker BJ, Sawyers CL, Kantarjian H, et al. Activity of a specific inhibitor of the BCR-ABL tyrosine kinase in the blast crisis of chronic myeloid leukemia and acute lymphoblastic leukemia with the Philadelphia chromosome. N Engl J Med. 2001;344(14):1038-1042. PMID: 11287973.",
+      "retrievedTitle": "Activity of a specific inhibitor of the BCR-ABL tyrosine kinase in the blast crisis of chronic myeloid leukemia and acute lymphoblastic leukemia with the Philadelphia chromosome.",
+      "retrievedFirstAuthor": "Druker BJ",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2001 Apr 5"
+    },
+    {
+      "code": "op-c-s1-0880",
+      "pmid": "21444912",
+      "label": "Ablain J et al. Revisiting the differentiation paradigm in acute promyelocytic leukemia. Blood. PMID: 21444912.",
+      "retrievedTitle": "Revisiting the differentiation paradigm in acute promyelocytic leukemia.",
+      "retrievedFirstAuthor": "Ablain J",
+      "retrievedSource": "Blood",
+      "retrievedPubDate": "2011 Jun 2"
+    },
+    {
+      "code": "op-c-s1-0881",
+      "pmid": "41085408",
+      "label": "Figuerola-Bou E et al. KDM6 Demethylases Contribute to EWSR1::FLI1-Driven Oncogenic Reprogramming in Ewing Sarcoma. Cancer Res. PMID: 41085408.",
+      "retrievedTitle": "KDM6 Demethylases Contribute to EWSR1::FLI1-Driven Oncogenic Reprogramming in Ewing Sarcoma.",
+      "retrievedFirstAuthor": "Figuerola-Bou E",
+      "retrievedSource": "Cancer Res",
+      "retrievedPubDate": "2025 Nov 14"
+    },
+    {
+      "code": "op-c-s1-0882",
+      "pmid": "23540691",
+      "label": "Kadoch C, Crabtree GR. Reversible disruption of mSWI/SNF (BAF) complexes by the SS18-SSX oncogenic fusion in synovial sarcoma. Cell. 2013;153(1):71-85. PMID: 23540691.",
+      "retrievedTitle": "Reversible disruption of mSWI/SNF (BAF) complexes by the SS18-SSX oncogenic fusion in synovial sarcoma.",
+      "retrievedFirstAuthor": "Kadoch C",
+      "retrievedSource": "Cell",
+      "retrievedPubDate": "2013 Mar 28"
+    },
+    {
+      "code": "op-c-s1-0883",
+      "pmid": "38546643",
+      "label": "Martin-Giacalone BA et al. Germline Genetic Testing and Survival Outcomes Among Children With Rhabdomyosarcoma: A Report From the Children's Oncology Group. JAMA Netw Open. PMID: 38546643.",
+      "retrievedTitle": "Germline Genetic Testing and Survival Outcomes Among Children With Rhabdomyosarcoma: A Report From the Children's Oncology Group.",
+      "retrievedFirstAuthor": "Martin-Giacalone BA",
+      "retrievedSource": "JAMA Netw Open",
+      "retrievedPubDate": "2024 Mar 4"
+    },
+    {
+      "code": "op-c-s1-0884",
+      "pmid": "42736483",
+      "label": "Shaw LP et al. The shared evolutionary capacities of plasmids and extrachromosomal DNA. Nat Rev Genet. PMID: 42736483.",
+      "retrievedTitle": "The shared evolutionary capacities of plasmids and extrachromosomal DNA.",
+      "retrievedFirstAuthor": "Shaw LP",
+      "retrievedSource": "Nat Rev Genet",
+      "retrievedPubDate": "2026 Sep 14"
+    },
+    {
+      "code": "op-c-s1-0885",
+      "pmid": "5279523",
+      "label": "Knudson AG Jr. Mutation and cancer: statistical study of retinoblastoma. Proc Natl Acad Sci U S A. 1971;68(4):820-823. PMID: 5279523.",
+      "retrievedTitle": "Mutation and cancer: statistical study of retinoblastoma.",
+      "retrievedFirstAuthor": "Knudson AG Jr",
+      "retrievedSource": "Proc Natl Acad Sci U S A",
+      "retrievedPubDate": "1971 Apr"
+    },
+    {
+      "code": "op-c-s1-0886",
+      "pmid": "21779515",
+      "label": "Malkin D. Li-fraumeni syndrome. Genes Cancer. 2011;2(4):475-484. PMID: 21779515.",
+      "retrievedTitle": "Li-fraumeni syndrome.",
+      "retrievedFirstAuthor": "Malkin D",
+      "retrievedSource": "Genes Cancer",
+      "retrievedPubDate": "2011 Apr"
+    },
+    {
+      "code": "op-c-s1-0887",
+      "pmid": "23408351",
+      "label": "Vasen HF, Blanco I, Aktan-Collan K, et al. Revised guidelines for the clinical management of Lynch syndrome (HNPCC): recommendations by a group of European experts. Gut. 2013;62(6):812-823. PMID: 23408351.",
+      "retrievedTitle": "Revised guidelines for the clinical management of Lynch syndrome (HNPCC): recommendations by a group of European experts.",
+      "retrievedFirstAuthor": "Vasen HF",
+      "retrievedSource": "Gut",
+      "retrievedPubDate": "2013 Jun"
+    },
+    {
+      "code": "op-c-s1-0888",
+      "pmid": "8861899",
+      "label": "Kinzler KW et al. Lessons from hereditary colorectal cancer. Cell. PMID: 8861899.",
+      "retrievedTitle": "Lessons from hereditary colorectal cancer.",
+      "retrievedFirstAuthor": "Kinzler KW",
+      "retrievedSource": "Cell",
+      "retrievedPubDate": "1996 Oct 18"
+    },
+    {
+      "code": "op-c-s1-0889",
+      "pmid": "12209156",
+      "label": "Kaelin WG Jr. Molecular basis of the VHL hereditary cancer syndrome. Nat Rev Cancer. 2002;2(9):673-682. PMID: 12209156.",
+      "retrievedTitle": "Molecular basis of the VHL hereditary cancer syndrome.",
+      "retrievedFirstAuthor": "Kaelin WG Jr",
+      "retrievedSource": "Nat Rev Cancer",
+      "retrievedPubDate": "2002 Sep"
+    },
+    {
+      "code": "op-c-s1-0890",
+      "pmid": "22723327",
+      "label": "Thakker RV, Newey PJ, Walls GV, et al. Clinical practice guidelines for multiple endocrine neoplasia type 1 (MEN1). J Clin Endocrinol Metab. 2012;97(9):2990-3011. PMID: 22723327.",
+      "retrievedTitle": "Clinical practice guidelines for multiple endocrine neoplasia type 1 (MEN1).",
+      "retrievedFirstAuthor": "Thakker RV",
+      "retrievedSource": "J Clin Endocrinol Metab",
+      "retrievedPubDate": "2012 Sep"
+    },
+    {
+      "code": "op-c-s1-0891",
+      "pmid": "25810047",
+      "label": "Wells SA Jr, Asa SL, Dralle H, et al. Revised American Thyroid Association guidelines for the management of medullary thyroid carcinoma. Thyroid. 2015;25(6):567-610. PMID: 25810047.",
+      "retrievedTitle": "Revised American Thyroid Association guidelines for the management of medullary thyroid carcinoma.",
+      "retrievedFirstAuthor": "Wells SA Jr",
+      "retrievedSource": "Thyroid",
+      "retrievedPubDate": "2015 Jun"
+    },
+    {
+      "code": "op-c-s1-0892",
+      "pmid": "28230061",
+      "label": "Gutmann DH, Ferner RE, Listernick RH, et al. Neurofibromatosis type 1. Nat Rev Dis Primers. 2017;3:17004. PMID: 28230061.",
+      "retrievedTitle": "Neurofibromatosis type 1.",
+      "retrievedFirstAuthor": "Gutmann DH",
+      "retrievedSource": "Nat Rev Dis Primers",
+      "retrievedPubDate": "2017 Feb 23"
+    },
+    {
+      "code": "op-c-s1-0893",
+      "pmid": "19476995",
+      "label": "Asthagiri AR, Parry DM, Butman JA, et al. Neurofibromatosis type 2. Lancet. 2009;373(9679):1974-1986. PMID: 19476995.",
+      "retrievedTitle": "Neurofibromatosis type 2.",
+      "retrievedFirstAuthor": "Asthagiri AR",
+      "retrievedSource": "Lancet",
+      "retrievedPubDate": "2009 Jun 6"
+    },
+    {
+      "code": "op-c-s1-0894",
+      "pmid": "17005952",
+      "label": "Crino PB, Nathanson KL, Henske EP. The tuberous sclerosis complex. N Engl J Med. 2006;355(13):1345-1356. PMID: 17005952.",
+      "retrievedTitle": "The tuberous sclerosis complex.",
+      "retrievedFirstAuthor": "Crino PB",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2006 Sep 28"
+    },
+    {
+      "code": "op-c-s1-0895",
+      "pmid": "23656586",
+      "label": "Shirley MD et al. Sturge-Weber syndrome and port-wine stains caused by somatic mutation in GNAQ. N Engl J Med. PMID: 23656586.",
+      "retrievedTitle": "Sturge-Weber syndrome and port-wine stains caused by somatic mutation in GNAQ.",
+      "retrievedFirstAuthor": "Shirley MD",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2013 May 23"
+    },
+    {
+      "code": "op-c-s1-0896",
+      "pmid": "29091570",
+      "label": "Finkel RS, Mercuri E, Darras BT, et al. Nusinersen versus Sham Control in Infantile-Onset Spinal Muscular Atrophy. N Engl J Med. 2017;377(18):1723-1732. PMID: 29091570.",
+      "retrievedTitle": "Nusinersen versus Sham Control in Infantile-Onset Spinal Muscular Atrophy.",
+      "retrievedFirstAuthor": "Finkel RS",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2017 Nov 2"
+    },
+    {
+      "code": "op-c-s1-0897",
+      "pmid": "21944778",
+      "label": "DeJesus-Hernandez M, Mackenzie IR, Boeve BF, et al. Expanded GGGGCC hexanucleotide repeat in noncoding region of C9ORF72 causes chromosome 9p-linked FTD and ALS. Neuron. 2011;72(2):245-256. PMID: 21944778.",
+      "retrievedTitle": "Expanded GGGGCC hexanucleotide repeat in noncoding region of C9ORF72 causes chromosome 9p-linked FTD and ALS.",
+      "retrievedFirstAuthor": "DeJesus-Hernandez M",
+      "retrievedSource": "Neuron",
+      "retrievedPubDate": "2011 Oct 20"
+    },
+    {
+      "code": "op-c-s1-0898",
+      "pmid": "26544804",
+      "label": "Yuan B et al. Nonrecurrent 17p11.2p12 Rearrangement Events that Result in Two Concomitant Genomic Disorders: The PMP22-RAI1 Contiguous Gene Duplication Syndrome. Am J Hum Genet. PMID: 26544804.",
+      "retrievedTitle": "Nonrecurrent 17p11.2p12 Rearrangement Events that Result in Two Concomitant Genomic Disorders: The PMP22-RAI1 Contiguous Gene Duplication Syndrome.",
+      "retrievedFirstAuthor": "Yuan B",
+      "retrievedSource": "Am J Hum Genet",
+      "retrievedPubDate": "2015 Nov 5"
+    },
+    {
+      "code": "op-c-s1-0899",
+      "pmid": "28029925",
+      "label": "Gilhus NE. Myasthenia Gravis. N Engl J Med. 2016;375(26):2570-2581. PMID: 28029925.",
+      "retrievedTitle": "Myasthenia Gravis.",
+      "retrievedFirstAuthor": "Gilhus NE",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2016 Dec 29"
+    },
+    {
+      "code": "op-c-s1-0900",
+      "pmid": "22094130",
+      "label": "Titulaer MJ, Lang B, Verschuuren JJ. Lambert-Eaton myasthenic syndrome: from clinical characteristics to therapeutic strategies. Lancet Neurol. 2011;10(12):1098-1107. PMID: 22094130.",
+      "retrievedTitle": "Lambert-Eaton myasthenic syndrome: from clinical characteristics to therapeutic strategies.",
+      "retrievedFirstAuthor": "Titulaer MJ",
+      "retrievedSource": "Lancet Neurol",
+      "retrievedPubDate": "2011 Dec"
+    },
+    {
+      "code": "op-c-s2-0801",
+      "pmid": "10460813",
+      "label": "Hochman JS, Sleeper LA, Webb JG, et al. Early revascularization in acute myocardial infarction complicated by cardiogenic shock. SHOCK Investigators. N Engl J Med. 1999;341(9):625-634. PMID: 10460813.",
+      "retrievedTitle": "Early revascularization in acute myocardial infarction complicated by cardiogenic shock. SHOCK Investigators. Should We Emergently Revascularize Occluded Coronaries for Cardiogenic Shock.",
+      "retrievedFirstAuthor": "Hochman JS",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "1999 Aug 26"
+    },
+    {
+      "code": "op-c-s2-0802",
+      "pmid": "26320109",
+      "label": "Habib G, Lancellotti P, Antunes MJ, et al. 2015 ESC Guidelines for the management of infective endocarditis. Eur Heart J. 2015;36(44):3075-3128. PMID: 26320109.",
+      "retrievedTitle": "2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC). Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM).",
+      "retrievedFirstAuthor": "Habib G",
+      "retrievedSource": "Eur Heart J",
+      "retrievedPubDate": "2015 Nov 21"
+    },
+    {
+      "code": "op-c-s2-0803",
+      "pmid": "26320112",
+      "label": "Adler Y, Charron P, Imazio M, et al. 2015 ESC Guidelines for the diagnosis and management of pericardial diseases. Eur Heart J. 2015;36(42):2921-2964. PMID: 26320112.",
+      "retrievedTitle": "2015 ESC Guidelines for the diagnosis and management of pericardial diseases: The Task Force for the Diagnosis and Management of Pericardial Diseases of the European Society of Cardiology (ESC)Endorsed by: The European Association for Cardio-Thoracic Surgery (EACTS).",
+      "retrievedFirstAuthor": "Adler Y",
+      "retrievedSource": "Eur Heart J",
+      "retrievedPubDate": "2015 Nov 7"
+    },
+    {
+      "code": "op-c-s2-0804",
+      "pmid": "31504429",
+      "label": "Konstantinides SV, Meyer G, Becattini C, et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism. Eur Heart J. 2020;41(4):543-603. PMID: 31504429.",
+      "retrievedTitle": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS).",
+      "retrievedFirstAuthor": "Konstantinides SV",
+      "retrievedSource": "Eur Heart J",
+      "retrievedPubDate": "2020 Jan 21"
+    },
+    {
+      "code": "op-c-s2-0805",
+      "pmid": "10793162",
+      "label": "Acute Respiratory Distress Syndrome Network. Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome. N Engl J Med. 2000;342(18):1301-1308. PMID: 10793162.",
+      "retrievedTitle": "Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome.",
+      "retrievedFirstAuthor": "Acute Respiratory Distress Syndrome Network",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2000 May 4"
+    },
+    {
+      "code": "op-c-s2-0806",
+      "pmid": "36103415",
+      "label": "de-Madaria E, Buxbaum JL, Maisonneuve P, et al. Aggressive or Moderate Fluid Resuscitation in Acute Pancreatitis. N Engl J Med. 2022;387(11):989-1000. PMID: 36103415.",
+      "retrievedTitle": "Aggressive or Moderate Fluid Resuscitation in Acute Pancreatitis.",
+      "retrievedFirstAuthor": "de-Madaria E",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2022 Sep 15"
+    },
+    {
+      "code": "op-c-s2-0807",
+      "pmid": "27786365",
+      "label": "Garcia-Tsao G, Abraldes JG, Berzigotti A, et al. Portal hypertensive bleeding in cirrhosis: Risk stratification, diagnosis, and management: 2016 practice guidance by the AASLD. Hepatology. 2017;65(1):310-335. PMID: 27786365.",
+      "retrievedTitle": "Portal hypertensive bleeding in cirrhosis: Risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the study of liver diseases.",
+      "retrievedFirstAuthor": "Garcia-Tsao G",
+      "retrievedSource": "Hepatology",
+      "retrievedPubDate": "2017 Jan"
+    },
+    {
+      "code": "op-c-s2-0808",
+      "pmid": "10432325",
+      "label": "Sort P, Navasa M, Arroyo V, et al. Effect of intravenous albumin on renal impairment and mortality in patients with cirrhosis and spontaneous bacterial peritonitis. N Engl J Med. 1999;341(6):403-409. PMID: 10432325.",
+      "retrievedTitle": "Effect of intravenous albumin on renal impairment and mortality in patients with cirrhosis and spontaneous bacterial peritonitis.",
+      "retrievedFirstAuthor": "Sort P",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "1999 Aug 5"
+    },
+    {
+      "code": "op-c-s2-0809",
+      "pmid": "33657294",
+      "label": "Wong F, Pappas SC, Curry MP, et al. Terlipressin plus Albumin for the Treatment of Type 1 Hepatorenal Syndrome. N Engl J Med. 2021;384(9):818-827. PMID: 33657294.",
+      "retrievedTitle": "Terlipressin plus Albumin for the Treatment of Type 1 Hepatorenal Syndrome.",
+      "retrievedFirstAuthor": "Wong F",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2021 Mar 4"
+    },
+    {
+      "code": "op-c-s2-0810",
+      "pmid": "19564476",
+      "label": "Kitabchi AE, Umpierrez GE, Miles JM, et al. Hyperglycemic crises in adult patients with diabetes. Diabetes Care. 2009;32(7):1335-1343. PMID: 19564476.",
+      "retrievedTitle": "Hyperglycemic crises in adult patients with diabetes.",
+      "retrievedFirstAuthor": "Kitabchi AE",
+      "retrievedSource": "Diabetes Care",
+      "retrievedPubDate": "2009 Jul"
+    },
+    {
+      "code": "op-c-s2-0811",
+      "pmid": "25342831",
+      "label": "Pasquel FJ, Umpierrez GE. Hyperosmolar hyperglycemic state: a historic review of the clinical presentation, diagnosis, and treatment. Diabetes Care. 2014;37(11):3124-3131. PMID: 25342831.",
+      "retrievedTitle": "Hyperosmolar hyperglycemic state: a historic review of the clinical presentation, diagnosis, and treatment.",
+      "retrievedFirstAuthor": "Pasquel FJ",
+      "retrievedSource": "Diabetes Care",
+      "retrievedPubDate": "2014 Nov"
+    },
+    {
+      "code": "op-c-s2-0812",
+      "pmid": "26760044",
+      "label": "Bornstein SR, Allolio B, Arlt W, et al. Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2016;101(2):364-389. PMID: 26760044.",
+      "retrievedTitle": "Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline.",
+      "retrievedFirstAuthor": "Bornstein SR",
+      "retrievedSource": "J Clin Endocrinol Metab",
+      "retrievedPubDate": "2016 Feb"
+    },
+    {
+      "code": "op-c-s2-0813",
+      "pmid": "27521067",
+      "label": "Ross DS, Burch HB, Cooper DS, et al. 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid. 2016;26(10):1343-1421. PMID: 27521067.",
+      "retrievedTitle": "2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis.",
+      "retrievedFirstAuthor": "Ross DS",
+      "retrievedSource": "Thyroid",
+      "retrievedPubDate": "2016 Oct"
+    },
+    {
+      "code": "op-c-s2-0814",
+      "pmid": "25905404",
+      "label": "Wiersinga WM. Myxedema and Coma (Severe Hypothyroidism). In: Feingold KR, et al., eds. Endotext. Updated 2018. PMID: 25905404.",
+      "retrievedTitle": "Thyroid Hormones in Brain Development and Function.",
+      "retrievedFirstAuthor": "Feingold KR",
+      "retrievedSource": "",
+      "retrievedPubDate": "2000"
+    },
+    {
+      "code": "op-c-s2-0815",
+      "pmid": "25551526",
+      "label": "Sterns RH. Disorders of plasma sodium--causes, consequences, and correction. N Engl J Med. 2015;372(1):55-65. PMID: 25551526.",
+      "retrievedTitle": "Disorders of plasma sodium--causes, consequences, and correction.",
+      "retrievedFirstAuthor": "Sterns RH",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2015 Jan 1"
+    },
+    {
+      "code": "op-c-s2-0816",
+      "pmid": "25551526",
+      "label": "Sterns RH. Disorders of plasma sodium--causes, consequences, and correction. N Engl J Med. 2015;372(1):55-65. PMID: 25551526.",
+      "retrievedTitle": "Disorders of plasma sodium--causes, consequences, and correction.",
+      "retrievedFirstAuthor": "Sterns RH",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2015 Jan 1"
+    },
+    {
+      "code": "op-c-s2-0817",
+      "pmid": "29244647",
+      "label": "Palmer BF, Clegg DJ. Diagnosis and treatment of hyperkalemia. Cleve Clin J Med. 2017;84(12):934-942. PMID: 29244647.",
+      "retrievedTitle": "Diagnosis and treatment of hyperkalemia.",
+      "retrievedFirstAuthor": "Palmer BF",
+      "retrievedSource": "Cleve Clin J Med",
+      "retrievedPubDate": "2017 Dec"
+    },
+    {
+      "code": "op-c-s2-0818",
+      "pmid": "36282253",
+      "label": "Walker MD et al. Hypercalcemia: A Review. JAMA. PMID: 36282253.",
+      "retrievedTitle": "Hypercalcemia: A Review.",
+      "retrievedFirstAuthor": "Walker MD",
+      "retrievedSource": "JAMA",
+      "retrievedPubDate": "2022 Oct 25"
+    },
+    {
+      "code": "op-c-s2-0819",
+      "pmid": "20331465",
+      "label": "Cairo MS, Coiffier B, Reiter A, et al. Recommendations for the evaluation of risk and prophylaxis of tumour lysis syndrome (TLS) in adults and children with malignant diseases: an expert TLS consensus group. Br J Haematol. 2010;149(4):578-586. PMID: 20331465.",
+      "retrievedTitle": "Recommendations for the evaluation of risk and prophylaxis of tumour lysis syndrome (TLS) in adults and children with malignant diseases: an expert TLS panel consensus.",
+      "retrievedFirstAuthor": "Cairo MS",
+      "retrievedSource": "Br J Haematol",
+      "retrievedPubDate": "2010 May"
+    },
+    {
+      "code": "op-c-s2-0820",
+      "pmid": "22624596",
+      "label": "Scully M, Hunt BJ, Benjamin S, et al. Guidelines on the diagnosis and management of thrombotic thrombocytopenic purpura and other thrombotic microangiopathies. Br J Haematol. 2012;158(3):323-335. PMID: 22624596.",
+      "retrievedTitle": "Guidelines on the diagnosis and management of thrombotic thrombocytopenic purpura and other thrombotic microangiopathies.",
+      "retrievedFirstAuthor": "Scully M",
+      "retrievedSource": "Br J Haematol",
+      "retrievedPubDate": "2012 Aug"
+    },
+    {
+      "code": "op-c-s2-0821",
+      "pmid": "30482768",
+      "label": "Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia. Blood Adv. 2018;2(22):3360-3392. PMID: 30482768.",
+      "retrievedTitle": "American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia.",
+      "retrievedFirstAuthor": "Cuker A",
+      "retrievedSource": "Blood Adv",
+      "retrievedPubDate": "2018 Nov 27"
+    },
+    {
+      "code": "op-c-s2-0822",
+      "pmid": "25520831",
+      "label": "Wada H, Matsumoto T, Yamashita Y. Diagnosis and treatment of disseminated intravascular coagulation (DIC) according to four DIC guidelines. J Intensive Care. 2014;2(1):15. PMID: 25520831.",
+      "retrievedTitle": "Diagnosis and treatment of disseminated intravascular coagulation (DIC) according to four DIC guidelines.",
+      "retrievedFirstAuthor": "Wada H",
+      "retrievedSource": "J Intensive Care",
+      "retrievedPubDate": "2014"
+    },
+    {
+      "code": "op-c-s2-0823",
+      "pmid": "34599691",
+      "label": "Evans L, Rhodes A, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Intensive Care Med. 2021;47(11):1181-1247. PMID: 34599691.",
+      "retrievedTitle": "Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021.",
+      "retrievedFirstAuthor": "Evans L",
+      "retrievedSource": "Intensive Care Med",
+      "retrievedPubDate": "2021 Nov"
+    },
+    {
+      "code": "op-c-s2-0824",
+      "pmid": "12432041",
+      "label": "de Gans J, van de Beek D. Dexamethasone in adults with bacterial meningitis. N Engl J Med. 2002;347(20):1549-1556. PMID: 12432041.",
+      "retrievedTitle": "Dexamethasone in adults with bacterial meningitis.",
+      "retrievedFirstAuthor": "de Gans J",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2002 Nov 14"
+    },
+    {
+      "code": "op-c-s2-0825",
+      "pmid": "21258094",
+      "label": "Freifeld AG, Bow EJ, Sepkowitz KA, et al. Clinical practice guideline for the use of antimicrobial agents in neutropenic patients with cancer: 2010 update by the Infectious Diseases Society of America. Clin Infect Dis. 2011;52(4):e56-e93. PMID: 21258094.",
+      "retrievedTitle": "Clinical practice guideline for the use of antimicrobial agents in neutropenic patients with cancer: 2010 update by the infectious diseases society of america.",
+      "retrievedFirstAuthor": "Freifeld AG",
+      "retrievedSource": "Clin Infect Dis",
+      "retrievedPubDate": "2011 Feb 15"
+    },
+    {
+      "code": "op-c-s2-0826",
+      "pmid": "25563887",
+      "label": "Roberts DJ, Leigh-Smith S, Faris PD, et al. Clinical Presentation of Patients With Tension Pneumothorax: A Systematic Review. Ann Surg. 2015;261(6):1068-1078. PMID: 25563887.",
+      "retrievedTitle": "Clinical Presentation of Patients With Tension Pneumothorax: A Systematic Review.",
+      "retrievedFirstAuthor": "Roberts DJ",
+      "retrievedSource": "Ann Surg",
+      "retrievedPubDate": "2015 Jun"
+    },
+    {
+      "code": "op-c-s2-0827",
+      "pmid": "40576609",
+      "label": "Poillucci G et al. The role of emergency resuscitative thoracotomy in blunt trauma: a systematic review. Minerva Surg. PMID: 40576609.",
+      "retrievedTitle": "The role of emergency resuscitative thoracotomy in blunt trauma: a systematic review.",
+      "retrievedFirstAuthor": "Poillucci G",
+      "retrievedSource": "Minerva Surg",
+      "retrievedPubDate": "2025 Oct"
+    },
+    {
+      "code": "op-c-s2-0828",
+      "pmid": "23114493",
+      "label": "Simon B et al. Management of pulmonary contusion and flail chest: an Eastern Association for the Surgery of Trauma practice management guideline. J Trauma Acute Care Surg. PMID: 23114493.",
+      "retrievedTitle": "Management of pulmonary contusion and flail chest: an Eastern Association for the Surgery of Trauma practice management guideline.",
+      "retrievedFirstAuthor": "Simon B",
+      "retrievedSource": "J Trauma Acute Care Surg",
+      "retrievedPubDate": "2012 Nov"
+    },
+    {
+      "code": "op-c-s2-0829",
+      "pmid": "28828034",
+      "label": "Coccolini F et al. Splenic trauma: WSES classification and guidelines for adult and pediatric patients. World J Emerg Surg. PMID: 28828034.",
+      "retrievedTitle": "Splenic trauma: WSES classification and guidelines for adult and pediatric patients.",
+      "retrievedFirstAuthor": "Coccolini F",
+      "retrievedSource": "World J Emerg Surg",
+      "retrievedPubDate": "2017"
+    },
+    {
+      "code": "op-c-s2-0830",
+      "pmid": "24256663",
+      "label": "Sperry JL, Moore EE, Coimbra R, et al. Western Trauma Association Critical Decisions in Trauma: Penetrating Neck Trauma. J Trauma Acute Care Surg. 2013;75(6):936-940. PMID: 24256663.",
+      "retrievedTitle": "Western Trauma Association critical decisions in trauma: penetrating neck trauma.",
+      "retrievedFirstAuthor": "Sperry JL",
+      "retrievedSource": "J Trauma Acute Care Surg",
+      "retrievedPubDate": "2013 Dec"
+    },
+    {
+      "code": "op-c-s2-0831",
+      "pmid": "16540746",
+      "label": "Bullock MR, Chesnut R, Ghajar J, et al. Surgical Management of Acute Epidural Hematomas. Neurosurgery. 2006;58(3 Suppl):S7-S15. PMID: 16540746.",
+      "retrievedTitle": "Surgical management of traumatic parenchymal lesions.",
+      "retrievedFirstAuthor": "Bullock MR",
+      "retrievedSource": "Neurosurgery",
+      "retrievedPubDate": "2006 Mar"
+    },
+    {
+      "code": "op-c-s2-0832",
+      "pmid": "23140154",
+      "label": "Yokobori S et al. Neuroprotective effect of preoperatively induced mild hypothermia as determined by biomarkers and histopathological estimation in a rat subdural hematoma decompression model. J Neurosurg. PMID: 23140154.",
+      "retrievedTitle": "Neuroprotective effect of preoperatively induced mild hypothermia as determined by biomarkers and histopathological estimation in a rat subdural hematoma decompression model.",
+      "retrievedFirstAuthor": "Yokobori S",
+      "retrievedSource": "J Neurosurg",
+      "retrievedPubDate": "2013 Feb"
+    },
+    {
+      "code": "op-c-s2-0833",
+      "pmid": "36261857",
+      "label": "Bala M et al. Acute mesenteric ischemia: updated guidelines of the World Society of Emergency Surgery. World J Emerg Surg. PMID: 36261857.",
+      "retrievedTitle": "Acute mesenteric ischemia: updated guidelines of the World Society of Emergency Surgery.",
+      "retrievedFirstAuthor": "Bala M",
+      "retrievedSource": "World J Emerg Surg",
+      "retrievedPubDate": "2022 Oct 19"
+    },
+    {
+      "code": "op-c-s2-0834",
+      "pmid": "29946347",
+      "label": "Ten Broek RPG, Krielen P, Di Saverio S, et al. Bologna Guidelines for Diagnosis and Management of Adhesive Small Bowel Obstruction (ASBO): 2017 Update of the Evidence-Based Guidelines. World J Emerg Surg. 2018;13:24. PMID: 29946347.",
+      "retrievedTitle": "Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update of the evidence-based guidelines from the world society of emergency surgery ASBO working group.",
+      "retrievedFirstAuthor": "Ten Broek RPG",
+      "retrievedSource": "World J Emerg Surg",
+      "retrievedPubDate": "2018"
+    },
+    {
+      "code": "op-c-s2-0835",
+      "pmid": "42933418",
+      "label": "Pardue K et al. Pearls, Pitfalls, and Complications of Surgical Management for Peptic Ulcer Disease. Surg Clin North Am. PMID: 42933418.",
+      "retrievedTitle": "Pearls, Pitfalls, and Complications of Surgical Management for Peptic Ulcer Disease.",
+      "retrievedFirstAuthor": "Pardue K",
+      "retrievedSource": "Surg Clin North Am",
+      "retrievedPubDate": "2026 Dec"
+    },
+    {
+      "code": "op-c-s2-0836",
+      "pmid": "41604201",
+      "label": "Podda M et al. Diagnosis and Treatment of Acute Appendicitis: 2025 Edition of the World Society of Emergency Surgery Jerusalem Guidelines. JAMA Surg. PMID: 41604201.",
+      "retrievedTitle": "Diagnosis and Treatment of Acute Appendicitis: 2025 Edition of the World Society of Emergency Surgery Jerusalem Guidelines.",
+      "retrievedFirstAuthor": "Podda M",
+      "retrievedSource": "JAMA Surg",
+      "retrievedPubDate": "2026 Mar 1"
+    },
+    {
+      "code": "op-c-s2-0837",
+      "pmid": "20478490",
+      "label": "Barie PS, Eachempati SR. Acute Acalculous Cholecystitis. Gastroenterol Clin North Am. 2010;39(2):343-357. PMID: 20478490.",
+      "retrievedTitle": "Acute acalculous cholecystitis.",
+      "retrievedFirstAuthor": "Barie PS",
+      "retrievedSource": "Gastroenterol Clin North Am",
+      "retrievedPubDate": "2010 Jun"
+    },
+    {
+      "code": "op-c-s2-0838",
+      "pmid": "29032636",
+      "label": "Yokoe M et al. Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholecystitis (with videos). J Hepatobiliary Pancreat Sci. PMID: 29032636.",
+      "retrievedTitle": "Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholecystitis (with videos).",
+      "retrievedFirstAuthor": "Yokoe M",
+      "retrievedSource": "J Hepatobiliary Pancreat Sci",
+      "retrievedPubDate": "2018 Jan"
+    },
+    {
+      "code": "op-c-s2-0839",
+      "pmid": "20410514",
+      "label": "van Santvoort HC, Besselink MG, Bakker OJ, et al. A Step-Up Approach or Open Necrosectomy for Necrotizing Pancreatitis. N Engl J Med. 2010;362(16):1491-1502. PMID: 20410514.",
+      "retrievedTitle": "A step-up approach or open necrosectomy for necrotizing pancreatitis.",
+      "retrievedFirstAuthor": "van Santvoort HC",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2010 Apr 22"
+    },
+    {
+      "code": "op-c-s2-0840",
+      "pmid": "39087664",
+      "label": "Atamanalp SS et al. Sigmoid volvulus with 25 episodes. Rev Esp Enferm Dig. PMID: 39087664.",
+      "retrievedTitle": "Sigmoid volvulus with 25 episodes.",
+      "retrievedFirstAuthor": "Atamanalp SS",
+      "retrievedSource": "Rev Esp Enferm Dig",
+      "retrievedPubDate": "2025 Oct"
+    },
+    {
+      "code": "op-c-s2-0841",
+      "pmid": "22009735",
+      "label": "Autenrieth DM et al. Toxic megacolon. Inflamm Bowel Dis. PMID: 22009735.",
+      "retrievedTitle": "Toxic megacolon.",
+      "retrievedFirstAuthor": "Autenrieth DM",
+      "retrievedSource": "Inflamm Bowel Dis",
+      "retrievedPubDate": "2012 Mar"
+    },
+    {
+      "code": "op-c-s2-0842",
+      "pmid": "29268916",
+      "label": "Chaikof EL, Dalman RL, Eskandari MK, et al. The Society for Vascular Surgery Practice Guidelines on the Care of Patients With an Abdominal Aortic Aneurysm. J Vasc Surg. 2018;67(1):2-77.e2. PMID: 29268916.",
+      "retrievedTitle": "The Society for Vascular Surgery practice guidelines on the care of patients with an abdominal aortic aneurysm.",
+      "retrievedFirstAuthor": "Chaikof EL",
+      "retrievedSource": "J Vasc Surg",
+      "retrievedPubDate": "2018 Jan"
+    },
+    {
+      "code": "op-c-s2-0843",
+      "pmid": "27840333",
+      "label": "Gerhard-Herman MD, Gornik HL, Barrett C, et al. 2016 AHA/ACC Guideline on the Management of Patients With Lower Extremity Peripheral Artery Disease. Circulation. 2017;135(12):e726-e779. PMID: 27840333.",
+      "retrievedTitle": "2016 AHA/ACC Guideline on the Management of Patients With Lower Extremity Peripheral Artery Disease: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.",
+      "retrievedFirstAuthor": "Gerhard-Herman MD",
+      "retrievedSource": "Circulation",
+      "retrievedPubDate": "2017 Mar 21"
+    },
+    {
+      "code": "op-c-s2-0844",
+      "pmid": "23673399",
+      "label": "Kirkpatrick AW, Roberts DJ, De Waele J, et al. Intra-Abdominal Hypertension and the Abdominal Compartment Syndrome: Updated Consensus Definitions and Clinical Practice Guidelines. Intensive Care Med. 2013;39(7):1190-1206. PMID: 23673399.",
+      "retrievedTitle": "Intra-abdominal hypertension and the abdominal compartment syndrome: updated consensus definitions and clinical practice guidelines from the World Society of the Abdominal Compartment Syndrome.",
+      "retrievedFirstAuthor": "Kirkpatrick AW",
+      "retrievedSource": "Intensive Care Med",
+      "retrievedPubDate": "2013 Jul"
+    },
+    {
+      "code": "op-c-s2-0845",
+      "pmid": "19692906",
+      "label": "Orgill DP, Piccolo N. Escharotomy and Decompressive Therapies in Burns. J Burn Care Res. 2009;30(5):759-768. PMID: 19692906.",
+      "retrievedTitle": "Escharotomy and decompressive therapies in burns.",
+      "retrievedFirstAuthor": "Orgill DP",
+      "retrievedSource": "J Burn Care Res",
+      "retrievedPubDate": "2009 Sep-Oct"
+    },
+    {
+      "code": "op-c-s2-0846",
+      "pmid": "24947530",
+      "label": "Stevens DL, Bisno AL, Chambers HF, et al. Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections: 2014 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159. PMID: 24947530.",
+      "retrievedTitle": "Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the infectious diseases society of America.",
+      "retrievedFirstAuthor": "Stevens DL",
+      "retrievedSource": "Clin Infect Dis",
+      "retrievedPubDate": "2014 Jul 15"
+    },
+    {
+      "code": "op-c-s2-0847",
+      "pmid": "29949811",
+      "label": "Chernyadyev SA, Ufimtseva MA, Vishnevskaya IF, et al. Fournier's Gangrene: Literature Review and Clinical Cases. Urol Int. 2018;101(1):91-97. PMID: 29949811.",
+      "retrievedTitle": "Fournier's Gangrene: Literature Review and Clinical Cases.",
+      "retrievedFirstAuthor": "Chernyadyev SA",
+      "retrievedSource": "Urol Int",
+      "retrievedPubDate": "2018"
+    },
+    {
+      "code": "op-c-s2-0848",
+      "pmid": "42959238",
+      "label": "Ishizawa T et al. First clinical implementation of histotripsy for liver tumors in Japan. Glob Health Med. PMID: 42959238.",
+      "retrievedTitle": "First clinical implementation of histotripsy for liver tumors in Japan.",
+      "retrievedFirstAuthor": "Ishizawa T",
+      "retrievedSource": "Glob Health Med",
+      "retrievedPubDate": "2026 Oct 31"
+    },
+    {
+      "code": "op-c-s2-0849",
+      "pmid": "31504429",
+      "label": "Konstantinides SV, Meyer G, Becattini C, et al. 2019 ESC Guidelines for the Diagnosis and Management of Acute Pulmonary Embolism Developed in Collaboration With the European Respiratory Society (ERS). Eur Heart J. 2020;41(4):543-603. PMID: 31504429.",
+      "retrievedTitle": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS).",
+      "retrievedFirstAuthor": "Konstantinides SV",
+      "retrievedSource": "Eur Heart J",
+      "retrievedPubDate": "2020 Jan 21"
+    },
+    {
+      "code": "op-c-s2-0850",
+      "pmid": "19898894",
+      "label": "van Ramshorst GH, Nieuwenhuizen J, Hop WC, et al. Abdominal Wound Dehiscence in Adults: Development and Validation of a Risk Model. World J Surg. 2010;34(1):20-27. PMID: 19898894.",
+      "retrievedTitle": "Abdominal wound dehiscence in adults: development and validation of a risk model.",
+      "retrievedFirstAuthor": "van Ramshorst GH",
+      "retrievedSource": "World J Surg",
+      "retrievedPubDate": "2010 Jan"
+    },
+    {
+      "code": "op-c-s2-0851",
+      "pmid": "30974433",
+      "label": "Sweet DG, Carnielli VP, Greisen G, et al. European Consensus Guidelines on the Management of Respiratory Distress Syndrome: 2019 Update. Neonatology. 2019;115(4):432-450. PMID: 30974433.",
+      "retrievedTitle": "European Consensus Guidelines on the Management of Respiratory Distress Syndrome - 2019 Update.",
+      "retrievedFirstAuthor": "Sweet DG",
+      "retrievedSource": "Neonatology",
+      "retrievedPubDate": "2019"
+    },
+    {
+      "code": "op-c-s2-0852",
+      "pmid": "26534956",
+      "label": "Abman SH, Hansmann G, Archer SL, et al. Pediatric Pulmonary Hypertension: Guidelines From the American Heart Association and American Thoracic Society. Circulation. 2015;132(21):2037-2099. PMID: 26534956.",
+      "retrievedTitle": "Pediatric Pulmonary Hypertension: Guidelines From the American Heart Association and American Thoracic Society.",
+      "retrievedFirstAuthor": "Abman SH",
+      "retrievedSource": "Circulation",
+      "retrievedPubDate": "2015 Nov 24"
+    },
+    {
+      "code": "op-c-s2-0853",
+      "pmid": "21247316",
+      "label": "Neu J, Walker WA. Necrotizing Enterocolitis. N Engl J Med. 2011;364(3):255-264. PMID: 21247316.",
+      "retrievedTitle": "Necrotizing enterocolitis.",
+      "retrievedFirstAuthor": "Neu J",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2011 Jan 20"
+    },
+    {
+      "code": "op-c-s2-0854",
+      "pmid": "34038653",
+      "label": "Zaghal A et al. Brief Overview and Updates on Infantile Hypertrophic Pyloric Stenosis: Focus on Perioperative Management. Pediatr Ann. PMID: 34038653.",
+      "retrievedTitle": "Brief Overview and Updates on Infantile Hypertrophic Pyloric Stenosis: Focus on Perioperative Management.",
+      "retrievedFirstAuthor": "Zaghal A",
+      "retrievedSource": "Pediatr Ann",
+      "retrievedPubDate": "2021 Mar"
+    },
+    {
+      "code": "op-c-s2-0855",
+      "pmid": "28144210",
+      "label": "Marsicovetere P, Ivatury SJ, White B, et al. Intestinal Intussusception: Etiology, Diagnosis, and Management. Clin Colon Rectal Surg. 2017;30(1):30-39. PMID: 28144210.",
+      "retrievedTitle": "Intestinal Intussusception: Etiology, Diagnosis, and Treatment.",
+      "retrievedFirstAuthor": "Marsicovetere P",
+      "retrievedSource": "Clin Colon Rectal Surg",
+      "retrievedPubDate": "2017 Feb"
+    },
+    {
+      "code": "op-c-s2-0856",
+      "pmid": "19308378",
+      "label": "Applegate KE et al. Evidence-based diagnosis of malrotation and volvulus. Pediatr Radiol. PMID: 19308378.",
+      "retrievedTitle": "Evidence-based diagnosis of malrotation and volvulus.",
+      "retrievedFirstAuthor": "Applegate KE",
+      "retrievedSource": "Pediatr Radiol",
+      "retrievedPubDate": "2009 Apr"
+    },
+    {
+      "code": "op-c-s2-0857",
+      "pmid": "42785669",
+      "label": "Langer JC et al. Standing on the shoulders of giants: A brief history of Hirschsprung disease. J Pediatr Surg. PMID: 42785669.",
+      "retrievedTitle": "Standing on the shoulders of giants: A brief history of Hirschsprung disease.",
+      "retrievedFirstAuthor": "Langer JC",
+      "retrievedSource": "J Pediatr Surg",
+      "retrievedPubDate": "2026 Sep 24"
+    },
+    {
+      "code": "op-c-s2-0858",
+      "pmid": "19914515",
+      "label": "Hartley JL, Davenport M, Kelly DA. Biliary Atresia. Lancet. 2009;374(9702):1704-1713. PMID: 19914515.",
+      "retrievedTitle": "Biliary atresia.",
+      "retrievedFirstAuthor": "Hartley JL",
+      "retrievedSource": "Lancet",
+      "retrievedPubDate": "2009 Nov 14"
+    },
+    {
+      "code": "op-c-s2-0859",
+      "pmid": "41762672",
+      "label": "Land S et al. Early Childhood Outcomes in Severe Congenital Diaphragmatic Hernia Treated with Fetoscopic Endoluminal Tracheal Occlusion (FETO) versus Non-FETO at a Single Center. Fetal Diagn Ther. PMID: 41762672.",
+      "retrievedTitle": "Early Childhood Outcomes in Severe Congenital Diaphragmatic Hernia Treated with Fetoscopic Endoluminal Tracheal Occlusion (FETO) versus Non-FETO at a Single Center.",
+      "retrievedFirstAuthor": "Land S",
+      "retrievedSource": "Fetal Diagn Ther",
+      "retrievedPubDate": "2026"
+    },
+    {
+      "code": "op-c-s2-0860",
+      "pmid": "22851858",
+      "label": "Pinheiro PF et al. Current knowledge on esophageal atresia. World J Gastroenterol. PMID: 22851858.",
+      "retrievedTitle": "Current knowledge on esophageal atresia.",
+      "retrievedFirstAuthor": "Pinheiro PF",
+      "retrievedSource": "World J Gastroenterol",
+      "retrievedPubDate": "2012 Jul 28"
+    },
+    {
+      "code": "op-c-s2-0861",
+      "pmid": "19144126",
+      "label": "Bailliard F, Anderson RH. Tetralogy of Fallot. Orphanet J Rare Dis. 2009;4:2. PMID: 19144126.",
+      "retrievedTitle": "Tetralogy of Fallot.",
+      "retrievedFirstAuthor": "Bailliard F",
+      "retrievedSource": "Orphanet J Rare Dis",
+      "retrievedPubDate": "2009 Jan 13"
+    },
+    {
+      "code": "op-c-s2-0862",
+      "pmid": "25082585",
+      "label": "Villafane J, Lantin-Hermoso MR, Bhatt AB, et al. D-Transposition of the Great Arteries: The Current Era of the Arterial Switch Operation. J Am Coll Cardiol. 2014;64(5):498-511. PMID: 25082585.",
+      "retrievedTitle": "D-transposition of the great arteries: the current era of the arterial switch operation.",
+      "retrievedFirstAuthor": "Villafa\u00f1e J",
+      "retrievedSource": "J Am Coll Cardiol",
+      "retrievedPubDate": "2014 Aug 5"
+    },
+    {
+      "code": "op-c-s2-0863",
+      "pmid": "28377475",
+      "label": "Dijkema EJ et al. Diagnosis, imaging and clinical management of aortic coarctation. Heart. PMID: 28377475.",
+      "retrievedTitle": "Diagnosis, imaging and clinical management of aortic coarctation.",
+      "retrievedFirstAuthor": "Dijkema EJ",
+      "retrievedSource": "Heart",
+      "retrievedPubDate": "2017 Aug"
+    },
+    {
+      "code": "op-c-s2-0864",
+      "pmid": "28356445",
+      "label": "McCrindle BW, Rowley AH, Newburger JW, et al. Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease: A Scientific Statement for Health Professionals From the American Heart Association. Circulation. 2017;135(17):e927-e999. PMID: 28356445.",
+      "retrievedTitle": "Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease: A Scientific Statement for Health Professionals From the American Heart Association.",
+      "retrievedFirstAuthor": "McCrindle BW",
+      "retrievedSource": "Circulation",
+      "retrievedPubDate": "2017 Apr 25"
+    },
+    {
+      "code": "op-c-s2-0865",
+      "pmid": "42973014",
+      "label": "Xia Y et al. [Clinical experience in the diagnosis and treatment of anterior-inferior peritonsillar abscess]. Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. PMID: 42973014.",
+      "retrievedTitle": "[Clinical experience in the diagnosis and treatment of anterior-inferior peritonsillar abscess].",
+      "retrievedFirstAuthor": "Xia Y",
+      "retrievedSource": "Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke Za Zhi",
+      "retrievedPubDate": "2026 Oct"
+    },
+    {
+      "code": "op-c-s2-0866",
+      "pmid": "24114291",
+      "label": "Bjornson C et al. Nebulized epinephrine for croup in children. Cochrane Database Syst Rev. PMID: 24114291.",
+      "retrievedTitle": "Nebulized epinephrine for croup in children.",
+      "retrievedFirstAuthor": "Bjornson C",
+      "retrievedSource": "Cochrane Database Syst Rev",
+      "retrievedPubDate": "2013 Oct 10"
+    },
+    {
+      "code": "op-c-s2-0867",
+      "pmid": "27006731",
+      "label": "Salih AM et al. Airway foreign bodies: A critical review for a common pediatric emergency. World J Emerg Med. PMID: 27006731.",
+      "retrievedTitle": "Airway foreign bodies: A critical review for a common pediatric emergency.",
+      "retrievedFirstAuthor": "Salih AM",
+      "retrievedSource": "World J Emerg Med",
+      "retrievedPubDate": "2016"
+    },
+    {
+      "code": "op-c-s2-0868",
+      "pmid": "22335215",
+      "label": "Graves RC, Oehler K, Tingle LE. Febrile Seizures: Risks, Evaluation, and Prognosis. Am Fam Physician. 2012;85(2):149-153. PMID: 22335215.",
+      "retrievedTitle": "Febrile seizures: risks, evaluation, and prognosis.",
+      "retrievedFirstAuthor": "Graves RC",
+      "retrievedSource": "Am Fam Physician",
+      "retrievedPubDate": "2012 Jan 15"
+    },
+    {
+      "code": "op-c-s2-0869",
+      "pmid": "20129147",
+      "label": "Kim KS. Acute Bacterial Meningitis in Infants and Children. Lancet Infect Dis. 2010;10(1):32-42. PMID: 20129147.",
+      "retrievedTitle": "Acute bacterial meningitis in infants and children.",
+      "retrievedFirstAuthor": "Kim KS",
+      "retrievedSource": "Lancet Infect Dis",
+      "retrievedPubDate": "2010 Jan"
+    },
+    {
+      "code": "op-c-s2-0870",
+      "pmid": "32176780",
+      "label": "Shinar Y et al. ISSAID/EMQN Best Practice Guidelines for the Genetic Diagnosis of Monogenic Autoinflammatory Diseases in the Next-Generation Sequencing Era. Clin Chem. PMID: 32176780.",
+      "retrievedTitle": "ISSAID/EMQN Best Practice Guidelines for the Genetic Diagnosis of Monogenic Autoinflammatory Diseases in the Next-Generation Sequencing Era.",
+      "retrievedFirstAuthor": "Shinar Y",
+      "retrievedSource": "Clin Chem",
+      "retrievedPubDate": "2020 Apr 1"
+    },
+    {
+      "code": "op-c-s2-0871",
+      "pmid": "15781103",
+      "label": "Tarr PI, Gordon CA, Chandler WL. Shiga-Toxin-Producing Escherichia Coli and the Hemolytic-Uremic Syndrome. Lancet. 2005;365(9464):1073-1086. PMID: 15781103.",
+      "retrievedTitle": "Shiga-toxin-producing Escherichia coli and haemolytic uraemic syndrome.",
+      "retrievedFirstAuthor": "Tarr PI",
+      "retrievedSource": "Lancet",
+      "retrievedPubDate": "2005 Mar 19-25"
+    },
+    {
+      "code": "op-c-s2-0872",
+      "pmid": "10608376",
+      "label": "Kocher MS, Zurakowski D, Kasser JR. Differentiating Between Septic Arthritis and Transient Synovitis of the Hip in Children: An Evidence-Based Clinical Prediction Algorithm. J Bone Joint Surg Am. 1999;81(12):1662-1670. PMID: 10608376.",
+      "retrievedTitle": "Differentiating between septic arthritis and transient synovitis of the hip in children: an evidence-based clinical prediction algorithm.",
+      "retrievedFirstAuthor": "Kocher MS",
+      "retrievedSource": "J Bone Joint Surg Am",
+      "retrievedPubDate": "1999 Dec"
+    },
+    {
+      "code": "op-c-s2-0873",
+      "pmid": "28671425",
+      "label": "Peck DM et al. Slipped Capital Femoral Epiphysis: Diagnosis and Management. Am Fam Physician. PMID: 28671425.",
+      "retrievedTitle": "Slipped Capital Femoral Epiphysis: Diagnosis and Management.",
+      "retrievedFirstAuthor": "Peck DM",
+      "retrievedSource": "Am Fam Physician",
+      "retrievedPubDate": "2017 Jun 15"
+    },
+    {
+      "code": "op-c-s2-0874",
+      "pmid": "42973632",
+      "label": "Schmidt M et al. Hypomorphic biallelic LIFR variants define a multisystem disorder with survival beyond infancy and hyperinflammatory vulnerability. Front Immunol. PMID: 42973632.",
+      "retrievedTitle": "Hypomorphic biallelic LIFR variants define a multisystem disorder with survival beyond infancy and hyperinflammatory vulnerability.",
+      "retrievedFirstAuthor": "Schmidt M",
+      "retrievedSource": "Front Immunol",
+      "retrievedPubDate": "2026"
+    },
+    {
+      "code": "op-c-s2-0875",
+      "pmid": "25917988",
+      "label": "Christian CW. The Evaluation of Suspected Child Physical Abuse. Pediatrics. 2015;135(5):e1337-e1354. PMID: 25917988.",
+      "retrievedTitle": "The evaluation of suspected child physical abuse.",
+      "retrievedFirstAuthor": "Christian CW",
+      "retrievedSource": "Pediatrics",
+      "retrievedPubDate": "2015 May"
+    },
+    {
+      "code": "op-c-s2-0876",
+      "pmid": "29470343",
+      "label": "ACOG Practice Bulletin No. 193: Tubal Ectopic Pregnancy. Obstet Gynecol. 2018;131(3):e91-e103. PMID: 29470343.",
+      "retrievedTitle": "ACOG Practice Bulletin No. 193: Tubal Ectopic Pregnancy.",
+      "retrievedFirstAuthor": "American College of Obstetricians and Gynecologists' Committee on Practice Bulletins\u2014Gynecology",
+      "retrievedSource": "Obstet Gynecol",
+      "retrievedPubDate": "2018 Mar"
+    },
+    {
+      "code": "op-c-s2-0877",
+      "pmid": "32443079",
+      "label": "ACOG Practice Bulletin No. 222: Gestational Hypertension and Preeclampsia. Obstet Gynecol. 2020;135(6):e237-e260. PMID: 32443079.",
+      "retrievedTitle": "Gestational Hypertension and Preeclampsia: ACOG Practice Bulletin, Number 222.",
+      "retrievedFirstAuthor": "",
+      "retrievedSource": "Obstet Gynecol",
+      "retrievedPubDate": "2020 Jun"
+    },
+    {
+      "code": "op-c-s2-0878",
+      "pmid": "7769899",
+      "label": "Eclampsia Trial Collaborative Group. Which Anticonvulsant for Women With Eclampsia? Evidence From the Collaborative Eclampsia Trial. Lancet. 1995;345(8963):1455-1463. PMID: 7769899.",
+      "retrievedTitle": "Which anticonvulsant for women with eclampsia? Evidence from the Collaborative Eclampsia Trial.",
+      "retrievedFirstAuthor": "",
+      "retrievedSource": "Lancet",
+      "retrievedPubDate": "1995 Jun 10"
+    },
+    {
+      "code": "op-c-s2-0879",
+      "pmid": "42996034",
+      "label": "Varney B et al. Opioid Analgesic Initiation During Pregnancy and the Risk of Adverse Maternal and Neonatal Outcomes: A Target Trial Emulation. medRxiv. PMID: 42996034.",
+      "retrievedTitle": "Opioid Analgesic Initiation During Pregnancy and the Risk of Adverse Maternal and Neonatal Outcomes: A Target Trial Emulation.",
+      "retrievedFirstAuthor": "Varney B",
+      "retrievedSource": "medRxiv",
+      "retrievedPubDate": "2026 Oct 21"
+    },
+    {
+      "code": "op-c-s2-0880",
+      "pmid": "26244528",
+      "label": "Silver RM et al. Abnormal Placentation: Placenta Previa, Vasa Previa, and Placenta Accreta. Obstet Gynecol. PMID: 26244528.",
+      "retrievedTitle": "Abnormal Placentation: Placenta Previa, Vasa Previa, and Placenta Accreta.",
+      "retrievedFirstAuthor": "Silver RM",
+      "retrievedSource": "Obstet Gynecol",
+      "retrievedPubDate": "2015 Sep"
+    },
+    {
+      "code": "op-c-s2-0881",
+      "pmid": "28937571",
+      "label": "ACOG Practice Bulletin No. 183: Postpartum Hemorrhage. Obstet Gynecol. 2017;130(4):e168-e186. PMID: 28937571.",
+      "retrievedTitle": "Practice Bulletin No. 183: Postpartum Hemorrhage.",
+      "retrievedFirstAuthor": "Committee on Practice Bulletins-Obstetrics",
+      "retrievedSource": "Obstet Gynecol",
+      "retrievedPubDate": "2017 Oct"
+    },
+    {
+      "code": "op-c-s2-0882",
+      "pmid": "41538800",
+      "label": "Heilman EA et al. The Hook & Roll Maneuver for Resolution of Shoulder Dystocia. Obstet Gynecol. PMID: 41538800.",
+      "retrievedTitle": "The Hook & Roll Maneuver for Resolution of Shoulder Dystocia.",
+      "retrievedFirstAuthor": "Heilman EA",
+      "retrievedSource": "Obstet Gynecol",
+      "retrievedPubDate": "2026 Mar 1"
+    },
+    {
+      "code": "op-c-s2-0883",
+      "pmid": "23466132",
+      "label": "Holbrook BD, Phelan ST. Umbilical Cord Prolapse. Obstet Gynecol Clin North Am. 2013;40(1):1-14. PMID: 23466132.",
+      "retrievedTitle": "Umbilical cord prolapse.",
+      "retrievedFirstAuthor": "Holbrook BD",
+      "retrievedSource": "Obstet Gynecol Clin North Am",
+      "retrievedPubDate": "2013 Mar"
+    },
+    {
+      "code": "op-c-s2-0884",
+      "pmid": "28742677",
+      "label": "ACOG Committee Opinion No. 712: Intrapartum Management of Intraamniotic Infection. Obstet Gynecol. 2017;130(2):e95-e101. PMID: 28742677.",
+      "retrievedTitle": "Committee Opinion No. 712: Intrapartum Management of Intraamniotic Infection.",
+      "retrievedFirstAuthor": "",
+      "retrievedSource": "Obstet Gynecol",
+      "retrievedPubDate": "2017 Aug"
+    },
+    {
+      "code": "op-c-s2-0885",
+      "pmid": "32080050",
+      "label": "ACOG Practice Bulletin No. 217: Prelabor Rupture of Membranes. Obstet Gynecol. 2020;135(3):e80-e97. PMID: 32080050.",
+      "retrievedTitle": "Prelabor Rupture of Membranes: ACOG Practice Bulletin, Number 217.",
+      "retrievedFirstAuthor": "",
+      "retrievedSource": "Obstet Gynecol",
+      "retrievedPubDate": "2020 Mar"
+    },
+    {
+      "code": "op-c-s2-0886",
+      "pmid": "28742673",
+      "label": "ACOG Practice Bulletin No. 181: Prevention of Rh D Alloimmunization. Obstet Gynecol. 2017;130(2):e57-e70. PMID: 28742673.",
+      "retrievedTitle": "Practice Bulletin No. 181: Prevention of Rh D Alloimmunization.",
+      "retrievedFirstAuthor": "",
+      "retrievedSource": "Obstet Gynecol",
+      "retrievedPubDate": "2017 Aug"
+    },
+    {
+      "code": "op-c-s2-0887",
+      "pmid": "33481519",
+      "label": "Soper JT. Gestational Trophoblastic Disease: Current Evaluation and Management. Obstet Gynecol. 2021;137(2):355-370. PMID: 33481519.",
+      "retrievedTitle": "Corticosteroids in the Management of Pregnant Patients With Coronavirus Disease (COVID-19).",
+      "retrievedFirstAuthor": "Mitra AR",
+      "retrievedSource": "Obstet Gynecol",
+      "retrievedPubDate": "2021 Feb 1"
+    },
+    {
+      "code": "op-c-s2-0888",
+      "pmid": "37710408",
+      "label": "Shang JH et al. Imaging features, clinical characteristics and neonatal outcomes of pregnancy luteoma: A case series and literature review. Acta Obstet Gynecol Scand. PMID: 37710408.",
+      "retrievedTitle": "Imaging features, clinical characteristics and neonatal outcomes of pregnancy luteoma: A case series and literature review.",
+      "retrievedFirstAuthor": "Shang JH",
+      "retrievedSource": "Acta Obstet Gynecol Scand",
+      "retrievedPubDate": "2024 Apr"
+    },
+    {
+      "code": "op-c-s2-0889",
+      "pmid": "34292926",
+      "label": "Workowski KA, Bachmann LH, Chan PA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187. PMID: 34292926.",
+      "retrievedTitle": "Sexually Transmitted Infections Treatment Guidelines, 2021.",
+      "retrievedFirstAuthor": "Workowski KA",
+      "retrievedSource": "MMWR Recomm Rep",
+      "retrievedPubDate": "2021 Jul 23"
+    },
+    {
+      "code": "op-c-s2-0890",
+      "pmid": "26225902",
+      "label": "Wijkstra J et al. Pharmacological treatment for psychotic depression. Cochrane Database Syst Rev. PMID: 26225902.",
+      "retrievedTitle": "Pharmacological treatment for psychotic depression.",
+      "retrievedFirstAuthor": "Wijkstra J",
+      "retrievedSource": "Cochrane Database Syst Rev",
+      "retrievedPubDate": "2015 Jul 30"
+    },
+    {
+      "code": "op-c-s2-0891",
+      "pmid": "39936923",
+      "label": "Vigod SN et al. Canadian Network for Mood and Anxiety Treatments 2024 Clinical Practice Guideline for the Management of Perinatal Mood, Anxiety, and Related Disorders: Guide de pratique 2024 du Canadian Network for Mood and Anxiety Treatments pour le traitement... PMID: 39936923.",
+      "retrievedTitle": "Canadian Network for Mood and Anxiety Treatments 2024 Clinical Practice Guideline for the Management of Perinatal Mood, Anxiety, and Related Disorders: Guide de pratique 2024 du Canadian Network for Mood and Anxiety Treatments pour le traitement des troubles de l'humeur, des troubles anxieux et des troubles connexes p\u00e9rinatals.",
+      "retrievedFirstAuthor": "Vigod SN",
+      "retrievedSource": "Can J Psychiatry",
+      "retrievedPubDate": "2025 Jun"
+    },
+    {
+      "code": "op-c-s2-0892",
+      "pmid": "14747245",
+      "label": "American Diabetes Association; American Psychiatric Association; American Association of Clinical Endocrinologists; North American Association for the Study of Obesity. Consensus Development Conference on Antipsychotic Drugs and Obesity and Diabetes. Diabetes C... PMID: 14747245.",
+      "retrievedTitle": "Consensus development conference on antipsychotic drugs and obesity and diabetes.",
+      "retrievedFirstAuthor": "American Diabetes Association",
+      "retrievedSource": "Diabetes Care",
+      "retrievedPubDate": "2004 Feb"
+    },
+    {
+      "code": "op-c-s2-0893",
+      "pmid": "29325237",
+      "label": "Ware MR et al. Neuroleptic Malignant Syndrome: Diagnosis and Management. Prim Care Companion CNS Disord. PMID: 29325237.",
+      "retrievedTitle": "Neuroleptic Malignant Syndrome: Diagnosis and Management.",
+      "retrievedFirstAuthor": "Ware MR",
+      "retrievedSource": "Prim Care Companion CNS Disord",
+      "retrievedPubDate": "2018 Jan 4"
+    },
+    {
+      "code": "op-c-s2-0894",
+      "pmid": "15784664",
+      "label": "Boyer EW, Shannon M. The Serotonin Syndrome. N Engl J Med. 2005;352(11):1112-1120. PMID: 15784664.",
+      "retrievedTitle": "The serotonin syndrome.",
+      "retrievedFirstAuthor": "Boyer EW",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2005 Mar 17"
+    },
+    {
+      "code": "op-c-s2-0895",
+      "pmid": "25955736",
+      "label": "Locke AB, Kirst N, Shultz CG. Diagnosis and Management of Generalized Anxiety Disorder and Panic Disorder in Adults. Am Fam Physician. 2015;91(9):617-624. PMID: 25955736.",
+      "retrievedTitle": "Diagnosis and management of generalized anxiety disorder and panic disorder in adults.",
+      "retrievedFirstAuthor": "Locke AB",
+      "retrievedSource": "Am Fam Physician",
+      "retrievedPubDate": "2015 May 1"
+    },
+    {
+      "code": "op-c-s2-0896",
+      "pmid": "28384832",
+      "label": "Hirschtritt ME, Bloch MH, Mathews CA. Obsessive-Compulsive Disorder: Advances in Diagnosis and Treatment. JAMA. 2017;317(13):1358-1367. PMID: 28384832.",
+      "retrievedTitle": "Obsessive-Compulsive Disorder: Advances in Diagnosis and Treatment.",
+      "retrievedFirstAuthor": "Hirschtritt ME",
+      "retrievedSource": "JAMA",
+      "retrievedPubDate": "2017 Apr 4"
+    },
+    {
+      "code": "op-c-s2-0897",
+      "pmid": "42957827",
+      "label": "Barr PB et al. Multivariate genome-wide association study of post-traumatic stress disorder, alcohol use, and alcohol use disorders. Mol Psychiatry. PMID: 42957827.",
+      "retrievedTitle": "Multivariate genome-wide association study of post-traumatic stress disorder, alcohol use, and alcohol use disorders.",
+      "retrievedFirstAuthor": "Barr PB",
+      "retrievedSource": "Mol Psychiatry",
+      "retrievedPubDate": "2026 Oct 28"
+    },
+    {
+      "code": "op-c-s2-0898",
+      "pmid": "18583681",
+      "label": "Mehanna HM, Moledina J, Travis J. Refeeding Syndrome: What It Is, and How to Prevent and Treat It. BMJ. 2008;336(7659):1495-1498. PMID: 18583681.",
+      "retrievedTitle": "Refeeding syndrome: what it is, and how to prevent and treat it.",
+      "retrievedFirstAuthor": "Mehanna HM",
+      "retrievedSource": "BMJ",
+      "retrievedPubDate": "2008 Jun 28"
+    },
+    {
+      "code": "op-c-s2-0899",
+      "pmid": "25427113",
+      "label": "Schuckit MA. Recognition and Management of Withdrawal Delirium (Delirium Tremens). N Engl J Med. 2014;371(22):2109-2113. PMID: 25427113.",
+      "retrievedTitle": "Recognition and management of withdrawal delirium (delirium tremens).",
+      "retrievedFirstAuthor": "Schuckit MA",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2014 Nov 27"
+    },
+    {
+      "code": "op-c-s2-0900",
+      "pmid": "29527178",
+      "label": "Brodsky BS et al. The Zero Suicide Model: Applying Evidence-Based Suicide Prevention Practices to Clinical Care. Front Psychiatry. PMID: 29527178.",
+      "retrievedTitle": "The Zero Suicide Model: Applying Evidence-Based Suicide Prevention Practices to Clinical Care.",
+      "retrievedFirstAuthor": "Brodsky BS",
+      "retrievedSource": "Front Psychiatry",
+      "retrievedPubDate": "2018"
+    },
+    {
+      "code": "op-c-s3-0801",
+      "pmid": "36335914",
+      "label": "Pokorney SD, Chertow GM, Al-Khalidi HR, et al. Apixaban for Patients With Atrial Fibrillation on Hemodialysis: A Multicenter Randomized Controlled Trial. Circulation. 2022;146(23):1735-1745. PMID: 36335914.",
+      "retrievedTitle": "Apixaban for Patients With Atrial Fibrillation on Hemodialysis: A Multicenter Randomized Controlled Trial.",
+      "retrievedFirstAuthor": "Pokorney SD",
+      "retrievedSource": "Circulation",
+      "retrievedPubDate": "2022 Dec 6"
+    },
+    {
+      "code": "op-c-s3-0802",
+      "pmid": "29747837",
+      "label": "Qamar AA, Vaduganathan M, Greenberger NJ, et al. Oral Anticoagulation in Patients With Liver Cirrhosis. J Am Coll Cardiol. 2018;71(19):2162-2175. PMID: 29747837.",
+      "retrievedTitle": "Oral Anticoagulation in Patients With\u00a0Liver Disease.",
+      "retrievedFirstAuthor": "Qamar A",
+      "retrievedSource": "J Am Coll Cardiol",
+      "retrievedPubDate": "2018 May 15"
+    },
+    {
+      "code": "op-c-s3-0803",
+      "pmid": "34449189",
+      "label": "Anker SD, Butler J, Filippatos G, et al. Empagliflozin in Heart Failure With a Preserved Ejection Fraction. N Engl J Med. 2021;385(16):1451-1461. PMID: 34449189.",
+      "retrievedTitle": "Empagliflozin in Heart Failure with a Preserved Ejection Fraction.",
+      "retrievedFirstAuthor": "Anker SD",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2021 Oct 14"
+    },
+    {
+      "code": "op-c-s3-0804",
+      "pmid": "37622681",
+      "label": "Kosiborod MN, Abildstrom SZ, Borlaug BA, et al. Semaglutide in Patients With Heart Failure With Preserved Ejection Fraction and Obesity. N Engl J Med. 2023;389(12):1069-1084. PMID: 37622681.",
+      "retrievedTitle": "Semaglutide in Patients with Heart Failure with Preserved Ejection Fraction and Obesity.",
+      "retrievedFirstAuthor": "Kosiborod MN",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2023 Sep 21"
+    },
+    {
+      "code": "op-c-s3-0805",
+      "pmid": "32669405",
+      "label": "Goldberg RB et al. The 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guidelines on the Management of Blood Cholesterol in Diabetes. Diabetes Care. PMID: 32669405.",
+      "retrievedTitle": "The 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guidelines on the Management of Blood Cholesterol in Diabetes.",
+      "retrievedFirstAuthor": "Goldberg RB",
+      "retrievedSource": "Diabetes Care",
+      "retrievedPubDate": "2020 Aug"
+    },
+    {
+      "code": "op-c-s3-0806",
+      "pmid": "36507633",
+      "label": "American Diabetes Association. 13. Older Adults: Standards of Care in Diabetes-2023. Diabetes Care. 2023;46(Suppl 1):S216-S229. PMID: 36507633.",
+      "retrievedTitle": "3. Prevention or Delay of Type 2 Diabetes and Associated Comorbidities: Standards of Care in Diabetes-2023.",
+      "retrievedFirstAuthor": "ElSayed NA",
+      "retrievedSource": "Diabetes Care",
+      "retrievedPubDate": "2023 Jan 1"
+    },
+    {
+      "code": "op-c-s3-0807",
+      "pmid": "30693946",
+      "label": "By the 2019 American Geriatrics Society Beers Criteria(R) Update Expert Panel. American Geriatrics Society 2019 Updated Beers Criteria(R) for Potentially Inappropriate Medication Use in Older Adults. J Am Geriatr Soc. 2019;67(4):674-694. PMID: 30693946.",
+      "retrievedTitle": "American Geriatrics Society 2019 Updated AGS Beers Criteria\u00ae for Potentially Inappropriate Medication Use in Older Adults.",
+      "retrievedFirstAuthor": "By the 2019 American Geriatrics Society Beers Criteria\u00ae Update Expert Panel",
+      "retrievedSource": "J Am Geriatr Soc",
+      "retrievedPubDate": "2019 Apr"
+    },
+    {
+      "code": "op-c-s3-0808",
+      "pmid": "26414968",
+      "label": "Williams B, MacDonald TM, Morant S, et al. Spironolactone Versus Placebo, Bisoprolol, and Doxazosin to Determine the Optimal Treatment for Drug-Resistant Hypertension (PATHWAY-2): A Randomised, Double-Blind, Crossover Trial. Lancet. 2015;386(10008):2059-2068. PMID: 26414968.",
+      "retrievedTitle": "Spironolactone versus placebo, bisoprolol, and doxazosin to determine the optimal treatment for drug-resistant hypertension (PATHWAY-2): a randomised, double-blind, crossover trial.",
+      "retrievedFirstAuthor": "Williams B",
+      "retrievedSource": "Lancet",
+      "retrievedPubDate": "2015 Nov 21"
+    },
+    {
+      "code": "op-c-s3-0809",
+      "pmid": "38241060",
+      "label": "Bird ST, Gelperin K, Yermilov I, et al. Severe Hypocalcemia With Denosumab Among Older Female Dialysis-Dependent Patients. JAMA. 2024;331(9):749-757. PMID: 38241060.",
+      "retrievedTitle": "Severe Hypocalcemia With Denosumab Among Older Female Dialysis-Dependent Patients.",
+      "retrievedFirstAuthor": "Bird ST",
+      "retrievedSource": "JAMA",
+      "retrievedPubDate": "2024 Feb 13"
+    },
+    {
+      "code": "op-c-s3-0810",
+      "pmid": "33222416",
+      "label": "Singh JA et al. Patient Perspectives on Gout and Gout Treatments: A Patient Panel Discussion That Informed the 2020 American College of Rheumatology Treatment Guideline. ACR Open Rheumatol. PMID: 33222416.",
+      "retrievedTitle": "Patient Perspectives on Gout and Gout Treatments: A Patient Panel Discussion That Informed the 2020 American College of Rheumatology Treatment Guideline.",
+      "retrievedFirstAuthor": "Singh JA",
+      "retrievedSource": "ACR Open Rheumatol",
+      "retrievedPubDate": "2020 Dec"
+    },
+    {
+      "code": "op-c-s3-0811",
+      "pmid": "28851594",
+      "label": "Naylor AR, Ricco JB, de Borst GJ, et al. Editor's Choice - Management of Atherosclerotic Carotid and Vertebral Artery Disease: 2017 Clinical Practice Guidelines of the European Society for Vascular Surgery (ESVS). Eur J Vasc Endovasc Surg. 2018;55(1):3-81. PMID: 28851594.",
+      "retrievedTitle": "Editor's Choice - Management of Atherosclerotic Carotid and Vertebral Artery Disease: 2017 Clinical Practice Guidelines of the European Society for Vascular Surgery (ESVS).",
+      "retrievedFirstAuthor": "Naylor AR",
+      "retrievedSource": "Eur J Vasc Endovasc Surg",
+      "retrievedPubDate": "2018 Jan"
+    },
+    {
+      "code": "op-c-s3-0812",
+      "pmid": "39823276",
+      "label": "Mentz RJ et al. Efficacy and safety of finerenone in patients with chronic kidney disease and type 2 diabetes by diuretic use: A FIDELITY analysis. Eur J Heart Fail. PMID: 39823276.",
+      "retrievedTitle": "Efficacy and safety of finerenone in patients with chronic kidney disease and type 2 diabetes by diuretic use: A FIDELITY analysis.",
+      "retrievedFirstAuthor": "Mentz RJ",
+      "retrievedSource": "Eur J Heart Fail",
+      "retrievedPubDate": "2025 May"
+    },
+    {
+      "code": "op-c-s3-0813",
+      "pmid": "27838121",
+      "label": "Banerjee K et al. Role of Ranolazine in cardiovascular disease and diabetes: Exploring beyond angina. Int J Cardiol. PMID: 27838121.",
+      "retrievedTitle": "Role of Ranolazine in cardiovascular disease and diabetes: Exploring beyond angina.",
+      "retrievedFirstAuthor": "Banerjee K",
+      "retrievedSource": "Int J Cardiol",
+      "retrievedPubDate": "2017 Jan 15"
+    },
+    {
+      "code": "op-c-s3-0814",
+      "pmid": "26934393",
+      "label": "Funder JW, Carey RM, Mantero F, et al. The Management of Primary Aldosteronism: Case Detection, Diagnosis, and Treatment: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2016;101(5):1889-1916. PMID: 26934393.",
+      "retrievedTitle": "The Management of Primary Aldosteronism: Case Detection, Diagnosis, and Treatment: An Endocrine Society Clinical Practice Guideline.",
+      "retrievedFirstAuthor": "Funder JW",
+      "retrievedSource": "J Clin Endocrinol Metab",
+      "retrievedPubDate": "2016 May"
+    },
+    {
+      "code": "op-c-s3-0815",
+      "pmid": "37862463",
+      "label": "van der Spoel E et al. Incidence and Determinants of Spontaneous Normalization of Subclinical Hypothyroidism in Older Adults. J Clin Endocrinol Metab. PMID: 37862463.",
+      "retrievedTitle": "Incidence and Determinants of Spontaneous Normalization of Subclinical Hypothyroidism in Older Adults.",
+      "retrievedFirstAuthor": "van der Spoel E",
+      "retrievedSource": "J Clin Endocrinol Metab",
+      "retrievedPubDate": "2024 Feb 20"
+    },
+    {
+      "code": "op-c-s3-0816",
+      "pmid": "21431947",
+      "label": "Freeman R, Wieling W, Axelrod FB, et al. Consensus Statement on the Definition of Orthostatic Hypotension, Neurally Mediated Syncope and the Postural Tachycardia Syndrome. Clin Auton Res. 2011;21(2):69-72. PMID: 21431947.",
+      "retrievedTitle": "Consensus statement on the definition of orthostatic hypotension, neurally mediated syncope and the postural tachycardia syndrome.",
+      "retrievedFirstAuthor": "Freeman R",
+      "retrievedSource": "Clin Auton Res",
+      "retrievedPubDate": "2011 Apr"
+    },
+    {
+      "code": "op-c-s3-0817",
+      "pmid": "23301732",
+      "label": "Stabler SP. Clinical Practice. Vitamin B12 Deficiency. N Engl J Med. 2013;368(2):149-160. PMID: 23301732.",
+      "retrievedTitle": "Clinical practice. Vitamin B12 deficiency.",
+      "retrievedFirstAuthor": "Stabler SP",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2013 Jan 10"
+    },
+    {
+      "code": "op-c-s3-0818",
+      "pmid": "28646995",
+      "label": "Ketteler M, Block GA, Evenepoel P, et al. Executive Summary of the 2017 KDIGO Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD) Guideline Update: What's Changed and Why It Matters. Kidney Int. 2017;92(1):26-36. PMID: 28646995.",
+      "retrievedTitle": "Executive summary of the 2017 KDIGO Chronic Kidney\u00a0Disease-Mineral and Bone Disorder (CKD-MBD) Guideline Update: what's changed and why it matters.",
+      "retrievedFirstAuthor": "Ketteler M",
+      "retrievedSource": "Kidney Int",
+      "retrievedPubDate": "2017 Jul"
+    },
+    {
+      "code": "op-c-s3-0819",
+      "pmid": "27136449",
+      "label": "Qaseem A, Kansagara D, Forciea MA, et al. Management of Chronic Insomnia Disorder in Adults: A Clinical Practice Guideline From the American College of Physicians. Ann Intern Med. 2016;165(2):125-133. PMID: 27136449.",
+      "retrievedTitle": "Management of Chronic Insomnia Disorder in Adults: A Clinical Practice Guideline From the American College of Physicians.",
+      "retrievedFirstAuthor": "Qaseem A",
+      "retrievedSource": "Ann Intern Med",
+      "retrievedPubDate": "2016 Jul 19"
+    },
+    {
+      "code": "op-c-s3-0820",
+      "pmid": "31380891",
+      "label": "Douketis JD, Spyropoulos AC, Duncan J, et al. Perioperative Management of Patients With Atrial Fibrillation Receiving a Direct Oral Anticoagulant. JAMA Intern Med. 2019;179(11):1469-1478. PMID: 31380891.",
+      "retrievedTitle": "Perioperative Management of Patients With Atrial Fibrillation Receiving a Direct Oral Anticoagulant.",
+      "retrievedFirstAuthor": "Douketis JD",
+      "retrievedSource": "JAMA Intern Med",
+      "retrievedPubDate": "2019 Nov 1"
+    },
+    {
+      "code": "op-c-s3-0821",
+      "pmid": "21651394",
+      "label": "Petersen RC. Clinical Practice. Mild Cognitive Impairment. N Engl J Med. 2011;364(23):2227-2234. PMID: 21651394.",
+      "retrievedTitle": "Clinical practice. Mild cognitive impairment.",
+      "retrievedFirstAuthor": "Petersen RC",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2011 Jun 9"
+    },
+    {
+      "code": "op-c-s3-0822",
+      "pmid": "29080708",
+      "label": "Irwin RS, French CL, Chang AB, et al. Classification of Cough as a Symptom in Adults and Management Algorithms: CHEST Guideline and Expert Panel Report. Chest. 2018;153(1):196-209. PMID: 29080708.",
+      "retrievedTitle": "Classification of Cough as a Symptom in Adults and Management Algorithms: CHEST Guideline and Expert Panel Report.",
+      "retrievedFirstAuthor": "Irwin RS",
+      "retrievedSource": "Chest",
+      "retrievedPubDate": "2018 Jan"
+    },
+    {
+      "code": "op-c-s3-0823",
+      "pmid": "32698717",
+      "label": "Barocas DA, Boorjian SA, Alvarez RD, et al. Microhematuria: AUA/SUO Guideline. J Urol. 2020;204(4):778-786. PMID: 32698717.",
+      "retrievedTitle": "Microhematuria: AUA/SUFU Guideline.",
+      "retrievedFirstAuthor": "Barocas DA",
+      "retrievedSource": "J Urol",
+      "retrievedPubDate": "2020 Oct"
+    },
+    {
+      "code": "op-c-s3-0824",
+      "pmid": "42923616",
+      "label": "Gupta A et al. Sarcopenia in Chronic Obstructive Pulmonary Disease: Prevalence and Association With Disease Severity in an Indian Tertiary Care Cohort. Cureus. PMID: 42923616.",
+      "retrievedTitle": "Sarcopenia in Chronic Obstructive Pulmonary Disease: Prevalence and Association With Disease Severity in an Indian Tertiary Care Cohort.",
+      "retrievedFirstAuthor": "Gupta A",
+      "retrievedSource": "Cureus",
+      "retrievedPubDate": "2026 Sep"
+    },
+    {
+      "code": "op-c-s3-0825",
+      "pmid": "40984755",
+      "label": "Troum OM et al. Safety, Tolerability, and Efficacy of Shorter Infusion Durations of Pegloticase Administered to Patients With Uncontrolled Gout Receiving Methotrexate: AGILE Trial. J Clin Rheumatol. PMID: 40984755.",
+      "retrievedTitle": "Safety, Tolerability, and Efficacy of Shorter Infusion Durations of Pegloticase Administered to Patients With Uncontrolled Gout Receiving Methotrexate: AGILE Trial.",
+      "retrievedFirstAuthor": "Troum OM",
+      "retrievedSource": "J Clin Rheumatol",
+      "retrievedPubDate": "2026 Jan 1"
+    },
+    {
+      "code": "op-c-s3-0826",
+      "pmid": "35589091",
+      "label": "Klompas M, Branson R, Cawcutt K, et al. Strategies to Prevent Ventilator-Associated Pneumonia, Ventilator-Associated Events, and Nonventilator Hospital-Acquired Pneumonia in Acute-Care Hospitals: 2022 Update. Infect Control Hosp Epidemiol. 2022;43(6):687-713. PMID: 35589091.",
+      "retrievedTitle": "Strategies to prevent ventilator-associated pneumonia, ventilator-associated events, and nonventilator hospital-acquired pneumonia in acute-care hospitals: 2022 Update.",
+      "retrievedFirstAuthor": "Klompas M",
+      "retrievedSource": "Infect Control Hosp Epidemiol",
+      "retrievedPubDate": "2022 Jun"
+    },
+    {
+      "code": "op-c-s3-0827",
+      "pmid": "2023603",
+      "label": "Yang KL, Tobin MJ. A Prospective Study of Indexes Predicting the Outcome of Trials of Weaning From Mechanical Ventilation. N Engl J Med. 1991;324(21):1445-1450. PMID: 2023603.",
+      "retrievedTitle": "A prospective study of indexes predicting the outcome of trials of weaning from mechanical ventilation.",
+      "retrievedFirstAuthor": "Yang KL",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "1991 May 23"
+    },
+    {
+      "code": "op-c-s3-0828",
+      "pmid": "28232056",
+      "label": "Kuriyama A et al. Prophylactic Corticosteroids for Prevention of Postextubation Stridor and Reintubation in Adults: A Systematic Review and Meta-analysis. Chest. PMID: 28232056.",
+      "retrievedTitle": "Prophylactic Corticosteroids for Prevention of Postextubation Stridor and Reintubation in Adults: A Systematic Review and Meta-analysis.",
+      "retrievedFirstAuthor": "Kuriyama A",
+      "retrievedSource": "Chest",
+      "retrievedPubDate": "2017 May"
+    },
+    {
+      "code": "op-c-s3-0829",
+      "pmid": "26556848",
+      "label": "Frerk C, Mitchell VS, McNarry AF, et al. Difficult Airway Society 2015 Guidelines for Management of Unanticipated Difficult Intubation in Adults. Br J Anaesth. 2015;115(6):827-848. PMID: 26556848.",
+      "retrievedTitle": "Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults.",
+      "retrievedFirstAuthor": "Frerk C",
+      "retrievedSource": "Br J Anaesth",
+      "retrievedPubDate": "2015 Dec"
+    },
+    {
+      "code": "op-c-s3-0830",
+      "pmid": "23992774",
+      "label": "Inouye SK, Westendorp RG, Saczynski JS. Delirium in Elderly People. Lancet. 2014;383(9920):911-922. PMID: 23992774.",
+      "retrievedTitle": "Delirium in elderly people.",
+      "retrievedFirstAuthor": "Inouye SK",
+      "retrievedSource": "Lancet",
+      "retrievedPubDate": "2014 Mar 8"
+    },
+    {
+      "code": "op-c-s3-0831",
+      "pmid": "19446324",
+      "label": "Schweickert WD, Pohlman MC, Pohlman AS, et al. Early Physical and Occupational Therapy in Mechanically Ventilated, Critically Ill Patients: A Randomised Controlled Trial. Lancet. 2009;373(9678):1874-1882. PMID: 19446324.",
+      "retrievedTitle": "Early physical and occupational therapy in mechanically ventilated, critically ill patients: a randomised controlled trial.",
+      "retrievedFirstAuthor": "Schweickert WD",
+      "retrievedSource": "Lancet",
+      "retrievedPubDate": "2009 May 30"
+    },
+    {
+      "code": "op-c-s3-0832",
+      "pmid": "21946660",
+      "label": "Needham DM, Davidson J, Wang H, et al. Improving Long-Term Outcomes After Discharge From Intensive Care Unit: Report From a Stakeholders' Conference. Crit Care Med. 2012;40(2):502-509. PMID: 21946660.",
+      "retrievedTitle": "Improving long-term outcomes after discharge from intensive care unit: report from a stakeholders' conference.",
+      "retrievedFirstAuthor": "Needham DM",
+      "retrievedSource": "Crit Care Med",
+      "retrievedPubDate": "2012 Feb"
+    },
+    {
+      "code": "op-c-s3-0833",
+      "pmid": "41236566",
+      "label": "Monnet X et al. ESICM guidelines on circulatory shock and hemodynamic monitoring 2025. Intensive Care Med. PMID: 41236566.",
+      "retrievedTitle": "ESICM guidelines on circulatory shock and hemodynamic monitoring 2025.",
+      "retrievedFirstAuthor": "Monnet X",
+      "retrievedSource": "Intensive Care Med",
+      "retrievedPubDate": "2025 Nov"
+    },
+    {
+      "code": "op-c-s3-0834",
+      "pmid": "36103415",
+      "label": "de-Madaria E, Buxbaum JL, Maisonneuve P, et al. Aggressive or Moderate Fluid Resuscitation in Acute Pancreatitis. N Engl J Med. 2022;387(11):989-1000. PMID: 36103415.",
+      "retrievedTitle": "Aggressive or Moderate Fluid Resuscitation in Acute Pancreatitis.",
+      "retrievedFirstAuthor": "de-Madaria E",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2022 Sep 15"
+    },
+    {
+      "code": "op-c-s3-0835",
+      "pmid": "19489710",
+      "label": "Mermel LA, Allon M, Bouza E, et al. Clinical Practice Guidelines for the Diagnosis and Management of Intravascular Catheter-Related Infection: 2009 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2009;49(1):1-45. PMID: 19489710.",
+      "retrievedTitle": "Clinical practice guidelines for the diagnosis and management of intravascular catheter-related infection: 2009 Update by the Infectious Diseases Society of America.",
+      "retrievedFirstAuthor": "Mermel LA",
+      "retrievedSource": "Clin Infect Dis",
+      "retrievedPubDate": "2009 Jul 1"
+    },
+    {
+      "code": "op-c-s3-0836",
+      "pmid": "42223766",
+      "label": "Singh SP et al. A nationwide multi-centre survey of 12,500 cases of upper gastrointestinal bleeding: A report of Indian Society of Gastroenterology Task Force on acute upper gastrointestinal bleed. Indian J Gastroenterol. PMID: 42223766.",
+      "retrievedTitle": "A nationwide multi-centre survey of 12,500 cases of upper gastrointestinal bleeding: A report of Indian Society of Gastroenterology Task Force on acute upper gastrointestinal bleed.",
+      "retrievedFirstAuthor": "Singh SP",
+      "retrievedSource": "Indian J Gastroenterol",
+      "retrievedPubDate": "2026 Dec"
+    },
+    {
+      "code": "op-c-s3-0837",
+      "pmid": "17513708",
+      "label": "Umpierrez GE, Smiley D, Zisman A, et al. Randomized Study of Basal-Bolus Insulin Therapy in the Inpatient Management of Patients With Type 2 Diabetes (RABBIT 2 Trial). Diabetes Care. 2007;30(9):2181-2186. PMID: 17513708.",
+      "retrievedTitle": "Randomized study of basal-bolus insulin therapy in the inpatient management of patients with type 2 diabetes (RABBIT 2 trial).",
+      "retrievedFirstAuthor": "Umpierrez GE",
+      "retrievedSource": "Diabetes Care",
+      "retrievedPubDate": "2007 Sep"
+    },
+    {
+      "code": "op-c-s3-0838",
+      "pmid": "20380974",
+      "label": "Yee AH, Burns JD, Wijdicks EF. Cerebral Salt Wasting: Pathophysiology, Diagnosis, and Treatment. Neurosurg Clin N Am. 2010;21(2):339-352. PMID: 20380974.",
+      "retrievedTitle": "Cerebral salt wasting: pathophysiology, diagnosis, and treatment.",
+      "retrievedFirstAuthor": "Yee AH",
+      "retrievedSource": "Neurosurg Clin N Am",
+      "retrievedPubDate": "2010 Apr"
+    },
+    {
+      "code": "op-c-s3-0839",
+      "pmid": "33657294",
+      "label": "Wong F, Pappas SC, Curry MP, et al. Terlipressin Plus Albumin for the Treatment of Type 1 Hepatorenal Syndrome (CONFIRM Trial). N Engl J Med. 2021;384(9):818-827. PMID: 33657294.",
+      "retrievedTitle": "Terlipressin plus Albumin for the Treatment of Type 1 Hepatorenal Syndrome.",
+      "retrievedFirstAuthor": "Wong F",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2021 Mar 4"
+    },
+    {
+      "code": "op-c-s3-0840",
+      "pmid": "39338290",
+      "label": "Fiore M et al. Dexmedetomidine as Adjunctive Therapy for the Treatment of Alcohol Withdrawal Syndrome: A Systematic Review and Meta-Analysis. Pharmaceuticals (Basel). PMID: 39338290.",
+      "retrievedTitle": "Dexmedetomidine as Adjunctive Therapy for the Treatment of Alcohol Withdrawal Syndrome: A Systematic Review and Meta-Analysis.",
+      "retrievedFirstAuthor": "Fiore M",
+      "retrievedSource": "Pharmaceuticals (Basel)",
+      "retrievedPubDate": "2024 Aug 26"
+    },
+    {
+      "code": "op-c-s3-0841",
+      "pmid": "30126891",
+      "label": "Kripalani S, Roumie CL, Dalal AK, et al. Effects of a multifaceted medication reconciliation quality improvement intervention on patient safety: final results of the MARQUIS study. BMJ Qual Saf. 2018;27(12):954-964. PMID: 30126891.",
+      "retrievedTitle": "Effects of a multifaceted medication reconciliation quality improvement intervention on patient safety: final results of the MARQUIS study.",
+      "retrievedFirstAuthor": "Schnipper JL",
+      "retrievedSource": "BMJ Qual Saf",
+      "retrievedPubDate": "2018 Dec"
+    },
+    {
+      "code": "op-c-s3-0842",
+      "pmid": "29318006",
+      "label": "Lynn RR, Galinkin J. Naloxone Dosage for Opioid Reversal: Current Evidence and Clinical Implications. Ther Adv Drug Saf. 2018;9(1):63-88. PMID: 29318006.",
+      "retrievedTitle": "Naloxone dosage for opioid reversal: current evidence and clinical implications.",
+      "retrievedFirstAuthor": "Rzasa Lynn R",
+      "retrievedSource": "Ther Adv Drug Saf",
+      "retrievedPubDate": "2018 Jan"
+    },
+    {
+      "code": "op-c-s3-0843",
+      "pmid": "33399225",
+      "label": "Hopkins PM et al. Malignant hyperthermia 2020: Guideline from the Association of Anaesthetists. Anaesthesia. PMID: 33399225.",
+      "retrievedTitle": "Malignant hyperthermia 2020: Guideline from the Association of Anaesthetists.",
+      "retrievedFirstAuthor": "Hopkins PM",
+      "retrievedSource": "Anaesthesia",
+      "retrievedPubDate": "2021 May"
+    },
+    {
+      "code": "op-c-s3-0844",
+      "pmid": "34599691",
+      "label": "Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2021. Intensive Care Med. 2021;47(11):1181-1247. PMID: 34599691.",
+      "retrievedTitle": "Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021.",
+      "retrievedFirstAuthor": "Evans L",
+      "retrievedSource": "Intensive Care Med",
+      "retrievedPubDate": "2021 Nov"
+    },
+    {
+      "code": "op-c-s3-0845",
+      "pmid": "34133859",
+      "label": "Dankiewicz J, Cronberg T, Lilja G, et al. Hypothermia Versus Normothermia After Out-of-Hospital Cardiac Arrest (TTM2 Trial). N Engl J Med. 2021;384(24):2283-2294. PMID: 34133859.",
+      "retrievedTitle": "Hypothermia versus Normothermia after Out-of-Hospital Cardiac Arrest.",
+      "retrievedFirstAuthor": "Dankiewicz J",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2021 Jun 17"
+    },
+    {
+      "code": "op-c-s3-0846",
+      "pmid": "42161897",
+      "label": "Harrison DS et al. A Modified Delphi Consensus-Based Comprehensive Checklist and Angoff Standard for Assessment of Competency in Brain Death/Death by Neurologic Criteria Determination. Crit Care Med. PMID: 42161897.",
+      "retrievedTitle": "A Modified Delphi Consensus-Based Comprehensive Checklist and Angoff Standard for Assessment of Competency in Brain Death/Death by Neurologic Criteria Determination.",
+      "retrievedFirstAuthor": "Harrison DS",
+      "retrievedSource": "Crit Care Med",
+      "retrievedPubDate": "2026 Jun 1"
+    },
+    {
+      "code": "op-c-s3-0847",
+      "pmid": "34481561",
+      "label": "Roy PM, Penaloza A, Hugli O, et al. Outpatient Management of Pulmonary Embolism: A Comprehensive Review and Meta-Analysis. Lancet. 2021;398(10309):1428-1438. PMID: 34481561.",
+      "retrievedTitle": "Correction to Lancet Respir Med 2021; 9: 1130-40.",
+      "retrievedFirstAuthor": "",
+      "retrievedSource": "Lancet Respir Med",
+      "retrievedPubDate": "2021 Oct"
+    },
+    {
+      "code": "op-c-s3-0848",
+      "pmid": "31547939",
+      "label": "Parikh CR et al. Kidney Biomarkers of Injury and Repair as Predictors of Contrast-Associated AKI: A Substudy of the PRESERVE Trial. Am J Kidney Dis. PMID: 31547939.",
+      "retrievedTitle": "Kidney Biomarkers of Injury and Repair as Predictors of Contrast-Associated AKI: A Substudy of the PRESERVE Trial.",
+      "retrievedFirstAuthor": "Parikh CR",
+      "retrievedSource": "Am J Kidney Dis",
+      "retrievedPubDate": "2020 Feb"
+    },
+    {
+      "code": "op-c-s3-0849",
+      "pmid": "31662037",
+      "label": "Powers WJ, Rabinstein AA, Ackerson T, et al. Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update. Stroke. 2019;50(12):e344-e418. PMID: 31662037.",
+      "retrievedTitle": "Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association.",
+      "retrievedFirstAuthor": "Powers WJ",
+      "retrievedSource": "Stroke",
+      "retrievedPubDate": "2019 Dec"
+    },
+    {
+      "code": "op-c-s3-0850",
+      "pmid": "34164674",
+      "label": "Johnson S, Lavergne V, Skinner AM, et al. Clinical Practice Guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 Focused Update Guidelines on Management of Clostridioides Difficile Infect... PMID: 34164674.",
+      "retrievedTitle": "Clinical Practice Guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 Focused Update Guidelines on Management of Clostridioides difficile Infection in Adults.",
+      "retrievedFirstAuthor": "Johnson S",
+      "retrievedSource": "Clin Infect Dis",
+      "retrievedPubDate": "2021 Sep 7"
+    },
+    {
+      "code": "op-c-s3-0851",
+      "pmid": "21897887",
+      "label": "Gupta SK et al. Intention-to-treat concept: A review. Perspect Clin Res. PMID: 21897887.",
+      "retrievedTitle": "Intention-to-treat concept: A review.",
+      "retrievedFirstAuthor": "Gupta SK",
+      "retrievedSource": "Perspect Clin Res",
+      "retrievedPubDate": "2011 Jul"
+    },
+    {
+      "code": "op-c-s3-0852",
+      "pmid": "3374545",
+      "label": "Laupacis A et al. An assessment of clinically useful measures of the consequences of treatment. N Engl J Med. PMID: 3374545.",
+      "retrievedTitle": "An assessment of clinically useful measures of the consequences of treatment.",
+      "retrievedFirstAuthor": "Laupacis A",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "1988 Jun 30"
+    },
+    {
+      "code": "op-c-s3-0853",
+      "pmid": "9804726",
+      "label": "Altman DG. Confidence Intervals for the Number Needed to Treat. BMJ. 1998;317(7168):1309-1312. PMID: 9804726.",
+      "retrievedTitle": "Confidence intervals for the number needed to treat.",
+      "retrievedFirstAuthor": "Altman DG",
+      "retrievedSource": "BMJ",
+      "retrievedPubDate": "1998 Nov 7"
+    },
+    {
+      "code": "op-c-s3-0854",
+      "pmid": "17306009",
+      "label": "Akobeng AK et al. Understanding diagnostic tests 2: likelihood ratios, pre- and post-test probabilities and their use in clinical practice. Acta Paediatr. PMID: 17306009.",
+      "retrievedTitle": "Understanding diagnostic tests 2: likelihood ratios, pre- and post-test probabilities and their use in clinical practice.",
+      "retrievedFirstAuthor": "Akobeng AK",
+      "retrievedSource": "Acta Paediatr",
+      "retrievedPubDate": "2007 Apr"
+    },
+    {
+      "code": "op-c-s3-0855",
+      "pmid": "21539749",
+      "label": "Schumi J et al. Through the looking glass: understanding non-inferiority. Trials. PMID: 21539749.",
+      "retrievedTitle": "Through the looking glass: understanding non-inferiority.",
+      "retrievedFirstAuthor": "Schumi J",
+      "retrievedSource": "Trials",
+      "retrievedPubDate": "2011 May 3"
+    },
+    {
+      "code": "op-c-s3-0856",
+      "pmid": "26161749",
+      "label": "Gigerenzer G et al. Helping Doctors and Patients Make Sense of Health Statistics. Psychol Sci Public Interest. PMID: 26161749.",
+      "retrievedTitle": "Helping Doctors and Patients Make Sense of Health Statistics.",
+      "retrievedFirstAuthor": "Gigerenzer G",
+      "retrievedSource": "Psychol Sci Public Interest",
+      "retrievedPubDate": "2007 Nov"
+    },
+    {
+      "code": "op-c-s3-0857",
+      "pmid": "15273082",
+      "label": "Spruance SL, Reid JE, Grace M, et al. Hazard Ratio in Clinical Trials. Antimicrob Agents Chemother. 2004;48(8):2787-2792. PMID: 15273082.",
+      "retrievedTitle": "Hazard ratio in clinical trials.",
+      "retrievedFirstAuthor": "Spruance SL",
+      "retrievedSource": "Antimicrob Agents Chemother",
+      "retrievedPubDate": "2004 Aug"
+    },
+    {
+      "code": "op-c-s3-0858",
+      "pmid": "15271832",
+      "label": "Pewsner D, Battaglia M, Minder C, et al. Ruling a diagnosis in or out with 'SpPIn' and 'SnNOut': a note of caution. BMJ. 2004;329(7459):209-213. PMID: 15271832.",
+      "retrievedTitle": "Ruling a diagnosis in or out with \"SpPIn\" and \"SnNOut\": a note of caution.",
+      "retrievedFirstAuthor": "Pewsner D",
+      "retrievedSource": "BMJ",
+      "retrievedPubDate": "2004 Jul 24"
+    },
+    {
+      "code": "op-c-s3-0859",
+      "pmid": "24322569",
+      "label": "Patz EF Jr, Pinsky P, Gatsonis C, et al. Overdiagnosis in Low-Dose Computed Tomography Screening for Lung Cancer. JAMA Intern Med. 2014;174(2):269-274. PMID: 24322569.",
+      "retrievedTitle": "Overdiagnosis in low-dose computed tomography screening for lung cancer.",
+      "retrievedFirstAuthor": "Patz EF Jr",
+      "retrievedSource": "JAMA Intern Med",
+      "retrievedPubDate": "2014 Feb 1"
+    },
+    {
+      "code": "op-c-s3-0860",
+      "pmid": "19806059",
+      "label": "VanderWeele TJ et al. On the distinction between interaction and effect modification. Epidemiology. PMID: 19806059.",
+      "retrievedTitle": "On the distinction between interaction and effect modification.",
+      "retrievedFirstAuthor": "VanderWeele TJ",
+      "retrievedSource": "Epidemiology",
+      "retrievedPubDate": "2009 Nov"
+    },
+    {
+      "code": "op-c-s3-0861",
+      "pmid": "26619806",
+      "label": "Wang M et al. Statistical methods for studying disease subtype heterogeneity. Stat Med. PMID: 26619806.",
+      "retrievedTitle": "Statistical methods for studying disease subtype heterogeneity.",
+      "retrievedFirstAuthor": "Wang M",
+      "retrievedSource": "Stat Med",
+      "retrievedPubDate": "2016 Feb 28"
+    },
+    {
+      "code": "op-c-s3-0862",
+      "pmid": "21784880",
+      "label": "Sterne JA, Sutton AJ, Ioannidis JP, et al. Recommendations for Examining and Interpreting Funnel Plot Asymmetry in Meta-Analyses of Randomised Controlled Trials. BMJ. 2011;343:d4002. PMID: 21784880.",
+      "retrievedTitle": "Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials.",
+      "retrievedFirstAuthor": "Sterne JA",
+      "retrievedSource": "BMJ",
+      "retrievedPubDate": "2011 Jul 22"
+    },
+    {
+      "code": "op-c-s3-0863",
+      "pmid": "7063747",
+      "label": "Hanley JA, McNeil BJ. The Meaning and Use of the Area Under a Receiver Operating Characteristic (ROC) Curve. Radiology. 1982;143(1):29-36. PMID: 7063747.",
+      "retrievedTitle": "The meaning and use of the area under a receiver operating characteristic (ROC) curve.",
+      "retrievedFirstAuthor": "Hanley JA",
+      "retrievedSource": "Radiology",
+      "retrievedPubDate": "1982 Apr"
+    },
+    {
+      "code": "op-c-s3-0864",
+      "pmid": "24585735",
+      "label": "Snoep JD, Morabia A, Hernandez-Diaz S, et al. Commentary: A structural approach to Berkson's fallacy and a guide to a history of opinions about it. Int J Epidemiol. 2014;43(2):515-521. PMID: 24585735.",
+      "retrievedTitle": "Commentary: A structural approach to Berkson's fallacy and a guide to a history of opinions about it.",
+      "retrievedFirstAuthor": "Snoep JD",
+      "retrievedSource": "Int J Epidemiol",
+      "retrievedPubDate": "2014 Apr"
+    },
+    {
+      "code": "op-c-s3-0865",
+      "pmid": "11844534",
+      "label": "Schulz KF, Grimes DA. Case-Control Studies: Research Done Backwards. Lancet. 2002;359(9304):431-434. PMID: 11844534.",
+      "retrievedTitle": "Case-control studies: research in reverse.",
+      "retrievedFirstAuthor": "Schulz KF",
+      "retrievedSource": "Lancet",
+      "retrievedPubDate": "2002 Feb 2"
+    },
+    {
+      "code": "op-c-s3-0866",
+      "pmid": "8038641",
+      "label": "Altman DG, Bland JM. Diagnostic Tests 2: Predictive Values. BMJ. 1994;309(6947):102. PMID: 8038641.",
+      "retrievedTitle": "Diagnostic tests 2: Predictive values.",
+      "retrievedFirstAuthor": "Altman DG",
+      "retrievedSource": "BMJ",
+      "retrievedPubDate": "1994 Jul 9"
+    },
+    {
+      "code": "op-c-s3-0867",
+      "pmid": "18032770",
+      "label": "Wang R, Lagakos SW, Ware JH, et al. Statistics in Medicine--Reporting of Subgroup Analyses in Clinical Trials. N Engl J Med. 2007;357(21):2189-2194. PMID: 18032770.",
+      "retrievedTitle": "Statistics in medicine--reporting of subgroup analyses in clinical trials.",
+      "retrievedFirstAuthor": "Wang R",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2007 Nov 22"
+    },
+    {
+      "code": "op-c-s3-0868",
+      "pmid": "17403713",
+      "label": "Ferreira-Gonzalez I, Busse JW, Heels-Ansdell D, et al. Problems With Use of Composite End Points in Cardiovascular Trials: Systematic Review of Randomised Controlled Trials. BMJ. 2007;334(7597):786. PMID: 17403713.",
+      "retrievedTitle": "Problems with use of composite end points in cardiovascular trials: systematic review of randomised controlled trials.",
+      "retrievedFirstAuthor": "Ferreira-Gonz\u00e1lez I",
+      "retrievedSource": "BMJ",
+      "retrievedPubDate": "2007 Apr 14"
+    },
+    {
+      "code": "op-c-s3-0869",
+      "pmid": "16627519",
+      "label": "Dumville JC, Torgerson DJ, Hewitt CE. Reporting Attrition in Randomised Controlled Trials: The Promise of Gate. BMJ. 2006;332(7547):969-971. PMID: 16627519.",
+      "retrievedTitle": "Reporting attrition in randomised controlled trials.",
+      "retrievedFirstAuthor": "Dumville JC",
+      "retrievedSource": "BMJ",
+      "retrievedPubDate": "2006 Apr 22"
+    },
+    {
+      "code": "op-c-s3-0870",
+      "pmid": "8815760",
+      "label": "Fleming TR, DeMets DL. Surrogate End Points in Clinical Trials: Are We Being Misled? Ann Intern Med. 1996;125(7):605-613. PMID: 8815760.",
+      "retrievedTitle": "Surrogate end points in clinical trials: are we being misled?",
+      "retrievedFirstAuthor": "Fleming TR",
+      "retrievedSource": "Ann Intern Med",
+      "retrievedPubDate": "1996 Oct 1"
+    },
+    {
+      "code": "op-c-s3-0871",
+      "pmid": "30699315",
+      "label": "Li HK, Rombach I, Zambellas R, et al. Oral Versus Intravenous Antibiotics for Bone and Joint Infection (OVIVA Trial). N Engl J Med. 2019;380(5):425-436. PMID: 30699315.",
+      "retrievedTitle": "Oral versus Intravenous Antibiotics for Bone and Joint Infection.",
+      "retrievedFirstAuthor": "Li HK",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2019 Jan 31"
+    },
+    {
+      "code": "op-c-s3-0872",
+      "pmid": "32865375",
+      "label": "Kirchhof P, Camm AJ, Goette A, et al. Early Rhythm-Control Therapy in Patients With Atrial Fibrillation (EAST-AFNET 4 Trial). N Engl J Med. 2020;383(14):1305-1316. PMID: 32865375.",
+      "retrievedTitle": "Early Rhythm-Control Therapy in Patients with Atrial Fibrillation.",
+      "retrievedFirstAuthor": "Kirchhof P",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2020 Oct 1"
+    },
+    {
+      "code": "op-c-s3-0873",
+      "pmid": "32970396",
+      "label": "Heerspink HJL, Stefansson BV, Correa-Rotter R, et al. Dapagliflozin in Patients With Chronic Kidney Disease (DAPA-CKD Trial). N Engl J Med. 2020;383(15):1436-1446. PMID: 32970396.",
+      "retrievedTitle": "Dapagliflozin in Patients with Chronic Kidney Disease.",
+      "retrievedFirstAuthor": "Heerspink HJL",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2020 Oct 8"
+    },
+    {
+      "code": "op-c-s3-0874",
+      "pmid": "39922692",
+      "label": "Sanchis J et al. Effects of routine invasive management on reinfarction risk in older adults with frailty and non-ST-segment elevation myocardial infarction: a subanalysis of a randomised clinical trial. Heart. PMID: 39922692.",
+      "retrievedTitle": "Effects of routine invasive management on reinfarction risk in older adults with frailty and non-ST-segment elevation myocardial infarction: a subanalysis of a randomised clinical trial.",
+      "retrievedFirstAuthor": "Sanchis J",
+      "retrievedSource": "Heart",
+      "retrievedPubDate": "2025 Jul 28"
+    },
+    {
+      "code": "op-c-s3-0875",
+      "pmid": "25270275",
+      "label": "Holst LB, Haase N, Wetterslev J, et al. Lower Versus Higher Hemoglobin Threshold for Transfusion in Septic Shock (TRISS Trial). N Engl J Med. 2014;371(15):1381-1391. PMID: 25270275.",
+      "retrievedTitle": "Lower versus higher hemoglobin threshold for transfusion in septic shock.",
+      "retrievedFirstAuthor": "Holst LB",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2014 Oct 9"
+    },
+    {
+      "code": "op-c-s3-0876",
+      "pmid": "17978292",
+      "label": "Appelbaum PS. Clinical Practice. Assessment of Patients' Competence to Consent to Treatment. N Engl J Med. 2007;357(18):1834-1840. PMID: 17978292.",
+      "retrievedTitle": "Clinical practice. Assessment of patients' competence to consent to treatment.",
+      "retrievedFirstAuthor": "Appelbaum PS",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2007 Nov 1"
+    },
+    {
+      "code": "op-c-s3-0877",
+      "pmid": "9537935",
+      "label": "Sulmasy DP, Terry PB, Weisman CS, et al. The accuracy of substituted judgments in patients with terminal diagnoses. Ann Intern Med. 1998;128(8):621-629. PMID: 9537935.",
+      "retrievedTitle": "The accuracy of substituted judgments in patients with terminal diagnoses.",
+      "retrievedFirstAuthor": "Sulmasy DP",
+      "retrievedSource": "Ann Intern Med",
+      "retrievedPubDate": "1998 Apr 15"
+    },
+    {
+      "code": "op-c-s3-0878",
+      "pmid": "17596606",
+      "label": "Gallagher TH, Studdert D, Levinson W. Disclosing Harmful Medical Errors to Patients. N Engl J Med. 2007;356(26):2713-2719. PMID: 17596606.",
+      "retrievedTitle": "Disclosing harmful medical errors to patients.",
+      "retrievedFirstAuthor": "Gallagher TH",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2007 Jun 28"
+    },
+    {
+      "code": "op-c-s3-0879",
+      "pmid": "10720363",
+      "label": "Reason J. Human Error: Models and Management. BMJ. 2000;320(7237):768-770. PMID: 10720363.",
+      "retrievedTitle": "Human error: models and management.",
+      "retrievedFirstAuthor": "Reason J",
+      "retrievedSource": "BMJ",
+      "retrievedPubDate": "2000 Mar 18"
+    },
+    {
+      "code": "op-c-s3-0880",
+      "pmid": "15515914",
+      "label": "Kachigian C, Felthous AR. Court Responses to Tarasoff Statutes. J Am Acad Psychiatry Law. 2004;32(3):263-273. PMID: 15515914.",
+      "retrievedTitle": "Court responses to Tarasoff statutes.",
+      "retrievedFirstAuthor": "Kachigian C",
+      "retrievedSource": "J Am Acad Psychiatry Law",
+      "retrievedPubDate": "2004"
+    },
+    {
+      "code": "op-c-s3-0881",
+      "pmid": "42726335",
+      "label": "Ercan Emreol H et al. Unraveling the Clinical Spectrum of DNASE1L3 Deficiency: Insights from Case Series and Systematic Literature Review. Curr Rheumatol Rep. PMID: 42726335.",
+      "retrievedTitle": "Unraveling the Clinical Spectrum of DNASE1L3 Deficiency: Insights from Case Series and Systematic Literature Review.",
+      "retrievedFirstAuthor": "Ercan Emreol H",
+      "retrievedSource": "Curr Rheumatol Rep",
+      "retrievedPubDate": "2026 Sep 11"
+    },
+    {
+      "code": "op-c-s3-0882",
+      "pmid": "1372944",
+      "label": " et al. Decisions near the end of life. Council on Ethical and Judicial Affairs, American Medical Association. JAMA. PMID: 1372944.",
+      "retrievedTitle": "Decisions near the end of life. Council on Ethical and Judicial Affairs, American Medical Association.",
+      "retrievedFirstAuthor": "",
+      "retrievedSource": "JAMA",
+      "retrievedPubDate": "1992 Apr 22-29"
+    },
+    {
+      "code": "op-c-s3-0883",
+      "pmid": "12394879",
+      "label": "Siminoff LA et al. Knowing patients' preferences about organ donation: does it make a difference?. J Trauma. PMID: 12394879.",
+      "retrievedTitle": "Knowing patients' preferences about organ donation: does it make a difference?",
+      "retrievedFirstAuthor": "Siminoff LA",
+      "retrievedSource": "J Trauma",
+      "retrievedPubDate": "2002 Oct"
+    },
+    {
+      "code": "op-c-s3-0884",
+      "pmid": "41832459",
+      "label": "Bahraini H et al. The impact of optimizing the triage process for cardiac patients presenting to the cardiac emergency department on quality of care indicators: a quasi-experimental study in Southern Iran. BMC Emerg Med. PMID: 41832459.",
+      "retrievedTitle": "The impact of optimizing the triage process for cardiac patients presenting to the cardiac emergency department on quality of care indicators: a quasi-experimental study in Southern Iran.",
+      "retrievedFirstAuthor": "Bahraini H",
+      "retrievedSource": "BMC Emerg Med",
+      "retrievedPubDate": "2026 Mar 14"
+    },
+    {
+      "code": "op-c-s3-0885",
+      "pmid": "34793287",
+      "label": "Tarzian A et al. Ethics Consultation in U.S. Hospitals: Adherence to National Practice Standards. AJOB Empir Bioeth. PMID: 34793287.",
+      "retrievedTitle": "Ethics Consultation in U.S. Hospitals: Adherence to National Practice Standards.",
+      "retrievedFirstAuthor": "Tarzian A",
+      "retrievedSource": "AJOB Empir Bioeth",
+      "retrievedPubDate": "2022 Jan-Mar"
+    },
+    {
+      "code": "op-c-s3-0886",
+      "pmid": "42866528",
+      "label": "Glickstein J et al. Digital health literacy in safety-net primary care: a needs assessment and call to action for health equity. Front Digit Health. PMID: 42866528.",
+      "retrievedTitle": "Digital health literacy in safety-net primary care: a needs assessment and call to action for health equity.",
+      "retrievedFirstAuthor": "Glickstein J",
+      "retrievedSource": "Front Digit Health",
+      "retrievedPubDate": "2026"
+    },
+    {
+      "code": "op-c-s3-0887",
+      "pmid": "39279422",
+      "label": "Galderisi S et al. Ethical challenges in contemporary psychiatry: an overview and an appraisal of possible strategies and research needs. World Psychiatry. PMID: 39279422.",
+      "retrievedTitle": "Ethical challenges in contemporary psychiatry: an overview and an appraisal of possible strategies and research needs.",
+      "retrievedFirstAuthor": "Galderisi S",
+      "retrievedSource": "World Psychiatry",
+      "retrievedPubDate": "2024 Oct"
+    },
+    {
+      "code": "op-c-s3-0888",
+      "pmid": "32001253",
+      "label": "Shaker MS, Wallace DV, Golden DBK, et al. Anaphylaxis-A 2020 Practice Parameter Update, Systematic Review, and Grading of Recommendations, Assessment, Development and Evaluation (GRADE) Analysis. J Allergy Clin Immunol. 2020;145(4):1082-1123. PMID: 32001253.",
+      "retrievedTitle": "Anaphylaxis-a 2020 practice parameter update, systematic review, and Grading of Recommendations, Assessment, Development and Evaluation (GRADE) analysis.",
+      "retrievedFirstAuthor": "Shaker MS",
+      "retrievedSource": "J Allergy Clin Immunol",
+      "retrievedPubDate": "2020 Apr"
+    },
+    {
+      "code": "op-c-s3-0889",
+      "pmid": "36322642",
+      "label": "Isselbacher EM, Preventza O, Black JH 3rd, et al. 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease. Circulation. 2022;146(24):e334-e482. PMID: 36322642.",
+      "retrievedTitle": "2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines.",
+      "retrievedFirstAuthor": "Isselbacher EM",
+      "retrievedSource": "Circulation",
+      "retrievedPubDate": "2022 Dec 13"
+    },
+    {
+      "code": "op-c-s3-0890",
+      "pmid": "31941354",
+      "label": "Daya MR et al. Survival After Intravenous Versus Intraosseous Amiodarone, Lidocaine, or Placebo in Out-of-Hospital Shock-Refractory Cardiac Arrest. Circulation. PMID: 31941354.",
+      "retrievedTitle": "Survival After Intravenous Versus Intraosseous Amiodarone, Lidocaine, or Placebo in Out-of-Hospital Shock-Refractory Cardiac Arrest.",
+      "retrievedFirstAuthor": "Daya MR",
+      "retrievedSource": "Circulation",
+      "retrievedPubDate": "2020 Jan 21"
+    },
+    {
+      "code": "op-c-s3-0891",
+      "pmid": "32203691",
+      "label": "Chamberlain JM et al. Efficacy of levetiracetam, fosphenytoin, and valproate for established status epilepticus by age group (ESETT): a double-blind, responsive-adaptive, randomised controlled trial. Lancet. PMID: 32203691.",
+      "retrievedTitle": "Efficacy of levetiracetam, fosphenytoin, and valproate for established status epilepticus by age group (ESETT): a double-blind, responsive-adaptive, randomised controlled trial.",
+      "retrievedFirstAuthor": "Chamberlain JM",
+      "retrievedSource": "Lancet",
+      "retrievedPubDate": "2020 Apr 11"
+    },
+    {
+      "code": "op-c-s3-0892",
+      "pmid": "29129157",
+      "label": "Nogueira RG, Jadhav AP, Haussen DC, et al. Thrombectomy 6 to 24 Hours After Stroke With a Mismatch Between Deficit and Infarct (DAWN Trial). N Engl J Med. 2018;378(1):11-21. PMID: 29129157.",
+      "retrievedTitle": "Thrombectomy 6 to 24 Hours after Stroke with a Mismatch between Deficit and Infarct.",
+      "retrievedFirstAuthor": "Nogueira RG",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2018 Jan 4"
+    },
+    {
+      "code": "op-c-s3-0893",
+      "pmid": "38071341",
+      "label": "Rauch S et al. Suspension syndrome: a scoping review and recommendations from the International Commission for Mountain Emergency Medicine (ICAR MEDCOM). Scand J Trauma Resusc Emerg Med. PMID: 38071341.",
+      "retrievedTitle": "Suspension syndrome: a scoping review and recommendations from the International Commission for Mountain Emergency Medicine (ICAR MEDCOM).",
+      "retrievedFirstAuthor": "Rauch S",
+      "retrievedSource": "Scand J Trauma Resusc Emerg Med",
+      "retrievedPubDate": "2023 Dec 9"
+    },
+    {
+      "code": "op-c-s3-0894",
+      "pmid": "16496488",
+      "label": "Dart RC, Erdman AR, Olson KR, et al. Acetaminophen Poisoning: An Evidence-Based Consensus Guideline for Out-of-Hospital Management. Clin Toxicol (Phila). 2006;44(1):1-18. PMID: 16496488.",
+      "retrievedTitle": "Acetaminophen poisoning: an evidence-based consensus guideline for out-of-hospital management.",
+      "retrievedFirstAuthor": "Dart RC",
+      "retrievedSource": "Clin Toxicol (Phila)",
+      "retrievedPubDate": "2006"
+    },
+    {
+      "code": "op-c-s3-0895",
+      "pmid": "25986310",
+      "label": "Juurlink DN et al. Extracorporeal Treatment for Salicylate Poisoning: Systematic Review and Recommendations From the EXTRIP Workgroup. Ann Emerg Med. PMID: 25986310.",
+      "retrievedTitle": "Extracorporeal Treatment for Salicylate Poisoning: Systematic Review and Recommendations From the EXTRIP Workgroup.",
+      "retrievedFirstAuthor": "Juurlink DN",
+      "retrievedSource": "Ann Emerg Med",
+      "retrievedPubDate": "2015 Aug"
+    },
+    {
+      "code": "op-c-s3-0896",
+      "pmid": "26344579",
+      "label": "Graudins A, Lee HM, Druda D. Calcium Channel Antagonist and Beta-Blocker Overdose: Antidotes and Adjunct Therapies. Br J Clin Pharmacol. 2016;81(3):453-461. PMID: 26344579.",
+      "retrievedTitle": "Calcium channel antagonist and beta-blocker overdose: antidotes and adjunct therapies.",
+      "retrievedFirstAuthor": "Graudins A",
+      "retrievedSource": "Br J Clin Pharmacol",
+      "retrievedPubDate": "2016 Mar"
+    },
+    {
+      "code": "op-c-s3-0897",
+      "pmid": "31374211",
+      "label": "Davidson K et al. Managing Massive Hemoptysis. Chest. PMID: 31374211.",
+      "retrievedTitle": "Managing Massive Hemoptysis.",
+      "retrievedFirstAuthor": "Davidson K",
+      "retrievedSource": "Chest",
+      "retrievedPubDate": "2020 Jan"
+    },
+    {
+      "code": "op-c-s3-0898",
+      "pmid": "29767636",
+      "label": "Levy MM et al. The Surviving Sepsis Campaign Bundle: 2018 Update. Crit Care Med. PMID: 29767636.",
+      "retrievedTitle": "The Surviving Sepsis Campaign Bundle: 2018 Update.",
+      "retrievedFirstAuthor": "Levy MM",
+      "retrievedSource": "Crit Care Med",
+      "retrievedPubDate": "2018 Jun"
+    },
+    {
+      "code": "op-c-s3-0899",
+      "pmid": "19297574",
+      "label": "Weaver LK. Clinical Practice. Carbon Monoxide Poisoning. N Engl J Med. 2009;360(12):1217-1225. PMID: 19297574.",
+      "retrievedTitle": "Clinical practice. Carbon monoxide poisoning.",
+      "retrievedFirstAuthor": "Weaver LK",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "2009 Mar 19"
+    },
+    {
+      "code": "op-c-s3-0900",
+      "pmid": "9392707",
+      "label": "Quill TE et al. The rule of double effect--a critique of its role in end-of-life decision making. N Engl J Med. PMID: 9392707.",
+      "retrievedTitle": "The rule of double effect--a critique of its role in end-of-life decision making.",
+      "retrievedFirstAuthor": "Quill TE",
+      "retrievedSource": "N Engl J Med",
+      "retrievedPubDate": "1997 Dec 11"
+    }
+  ]
+}

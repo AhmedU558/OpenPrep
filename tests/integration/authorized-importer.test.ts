@@ -3,8 +3,29 @@ import { db } from '@/lib/db';
 import { persistAuthorizedBatch } from '@/lib/authorized-importer';
 import { questions } from '../../content/bank/batch-01';
 import { makeUser, resetDb } from './helpers';
+import { authorizeOwnerTestReleases, hashContentSnapshot, isRevisionAvailableForPractice, type QuestionContentSnapshot } from '@/lib/question-revision';
 
 beforeEach(resetDb);
+
+it('bulk-creates complete ordered options and initial snapshots while preserving duplicate stable codes', async () => {
+  const actor = await makeUser('ADMIN');
+  const items = questions.slice(0, 3).map((q, i) => ({ ...q, code: `fixture-bulk-${i}`, subject: 'Bulk synthetic subject', system: 'Bulk synthetic system', topic: 'Shared synthetic topic' }));
+  const report = await db.$transaction(tx => persistAuthorizedBatch(tx, actor, [...items, items[0]!]));
+  expect(report).toMatchObject({ created: 3, updated: 0, skipped: 1 });
+  for (const item of items) {
+    const q = await db.question.findUniqueOrThrow({ where: { code: item.code }, include: { options: { orderBy: { position: 'asc' } }, revisions: true } });
+    expect(q.options.map(o => ({ text: o.text, correct: o.isCorrect, explanation: o.explanationMd }))).toEqual(item.options);
+    expect(q.revisions).toHaveLength(1);
+    expect(hashContentSnapshot(q.revisions[0]!.contentSnapshot as unknown as QuestionContentSnapshot)).toBe(q.revisions[0]!.contentHash);
+    expect(q).toMatchObject({ status: 'DRAFT', rightsStatus: 'UNVERIFIED', rightsAllowDelivery: false });
+  }
+  const revisions = await db.questionRevision.findMany({ where: { question: { code: { in: items.map(q => q.code) } } } });
+  await db.$transaction(tx => authorizeOwnerTestReleases(tx, actor, revisions.map(r => r.id), { authorizedBy: 'Synthetic owner', authorizedAt: new Date().toISOString(), authorization: 'Synthetic bulk permission for unreviewed practice in disposable tests.' }));
+  for (const revision of await db.questionRevision.findMany({ where: { id: { in: revisions.map(r => r.id) } }, include: { reviews: true } })) {
+    expect(isRevisionAvailableForPractice(revision)).toBe(true);
+    expect(revision.reviews).toHaveLength(0);
+  }
+});
 
 it('creates withheld candidates and leaves existing content and option IDs untouched on retries', async () => {
   const actor = await makeUser('ADMIN');

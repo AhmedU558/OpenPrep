@@ -1,0 +1,171 @@
+{
+  "phase": 4,
+  "date": "2026-10-30",
+  "decision": "NOT READY \u2014 SPECIFIC BLOCKERS REMAIN",
+  "technicalScopeComplete": true,
+  "publicReleaseReady": false,
+  "agplAuthorized": false,
+  "activeLicense": "MIT",
+  "baselineCommit": "87a7d339dc4eb269aebbaa3388a38eb348c9d913",
+  "preExistingDirtyPath": "docs/audit/phase3-compliance-report.json",
+  "preExistingDirtyPathPreserved": true,
+  "tools": {
+    "node": "v24.22.1",
+    "npm": "11.19.1",
+    "python": "3.12.10",
+    "jsonschema": "4.25.1",
+    "actionlint": "1.7.12"
+  },
+  "checks": {
+    "dependencyInvestigation": {
+      "exitCode": 0,
+      "investigated": 9,
+      "resolved": 0,
+      "unresolved": 9,
+      "evidence": "docs/audit/phase4-dependency-grants.json"
+    },
+    "publisherProvenance": {
+      "exitCode": 0,
+      "checked": 1,
+      "verified": 1,
+      "evidence": "docs/audit/phase4-provenance-verification.json"
+    },
+    "nativeEvidence": {
+      "exitCode": 0,
+      "platformArchives": 26,
+      "nativeFiles": 30,
+      "sourceArchiveCandidates": 30,
+      "complianceCleared": 0,
+      "evidence": "docs/audit/phase4-native-matrix.json"
+    },
+    "windowsPublisherArchives": {
+      "exitCode": 0,
+      "archives": 3,
+      "publisherDigestMatches": 3,
+      "npmDllMatches": 3,
+      "digitalSignaturesVerified": 0,
+      "evidence": "docs/audit/phase4-windows-chain.json"
+    },
+    "coveredFiles": {
+      "exitCode": 0,
+      "paths": 28,
+      "installedMatches": 8,
+      "uninstalledPlatformPaths": 20,
+      "modifiedInstalledFiles": 0,
+      "evidence": "docs/audit/phase4-covered-files.json"
+    },
+    "contentWorksheet": {
+      "exitCode": 0,
+      "paths": 58,
+      "approved": 0,
+      "pending": 58,
+      "rejected": 0,
+      "disputed": 0,
+      "evidence": "docs/audit/phase4-content-review.csv"
+    },
+    "evidenceAndPreservation": {
+      "evidenceFiles": 87,
+      "packages": 9,
+      "sourceArchives": 30,
+      "windowsArchives": 3,
+      "legacyProtectedPaths": 65,
+      "historicalDocumentsPreserved": 203,
+      "protectedFilesPreserved": 165,
+      "errors": [],
+      "exitCode": 0,
+      "evidence": "docs/audit/phase4-evidence-validation.json"
+    },
+    "complianceTests": {
+      "exitCode": 0,
+      "passed": 34,
+      "log": ".release/phase4/compliance-tests.log"
+    },
+    "unitTests": {
+      "exitCode": 0,
+      "passed": 91,
+      "files": 8,
+      "log": ".release/phase4/unit.log"
+    },
+    "lint": {
+      "exitCode": 0,
+      "log": ".release/phase4/lint.log"
+    },
+    "typecheck": {
+      "exitCode": 0,
+      "log": ".release/phase4/typecheck.log"
+    },
+    "legacy": {
+      "exitCode": 0,
+      "log": ".release/phase4/legacy.log"
+    },
+    "localWebpackBuild": {
+      "exitCode": 0,
+      "log": ".release/phase4/build.log",
+      "compilerEvidence": ".release/phase4/webpack"
+    },
+    "actionlint": {
+      "exitCode": 0,
+      "log": ".release/phase4/actionlint.log"
+    },
+    "pythonCompile": {
+      "exitCode": 0
+    },
+    "sbomGeneration": {
+      "exitCode": 0,
+      "directory": "docs/audit/phase4-artifacts"
+    },
+    "sbomSchemaValidation": {
+      "exitCode": 0,
+      "inventories": 5,
+      "log": ".release/phase4/sbom-validation.log"
+    },
+    "releasePreflight": {
+      "exitCode": 1,
+      "expectedExitCode": 1,
+      "status": "RELEASE BLOCKED",
+      "scopes": {
+        "source": "BLOCKED",
+        "browser": "BLOCKED",
+        "hosted": "BLOCKED",
+        "native": "BLOCKED",
+        "container": "BLOCKED"
+      },
+      "evidence": "docs/audit/phase4-artifacts/compliance-report.json"
+    },
+    "phase4HostedCI": {
+      "status": "NOT_RUN",
+      "reason": "No push or workflow dispatch authorized"
+    },
+    "phase4IntegrationAndBrowser": {
+      "status": "NOT_RUN",
+      "reason": "Application/source/seed/migration behavior unchanged; audit tooling needs no DB. Previous actual hosted suites are historical evidence, not new Phase 4 results."
+    }
+  },
+  "safety": {
+    "existingDatabaseConnections": 0,
+    "newTestDatabases": 0,
+    "migrationsExecuted": [],
+    "productionOrStagingAccess": false,
+    "deployments": 0,
+    "gitCommits": 0,
+    "pushes": 0,
+    "releases": 0,
+    "gitHubSettingsChanges": 0,
+    "licenseTransitions": 0,
+    "realRightsDecisions": 0
+  },
+  "unresolved": [
+    "Nine exact-package grant gaps",
+    "All native corresponding-source/build/relinking requirements not established",
+    "Next vendor/source/recipient-notice and actual target/container boundaries",
+    "Ownership/contributor/Aqvion authority and AGPL permission unverified",
+    "58 content paths pending human evidence",
+    "Private security reporting disabled; real monitoring/conduct channel unconfigured",
+    "No effective main protection established by read-only APIs; environment/required-context enforcement not verified",
+    "Phase 4 hosted/fork/negative-dispatch behavior untested"
+  ],
+  "infrastructureNotes": [
+    "One elevated static-audit attempt was not executed because automatic approval review hit a usage limit. It was retried successfully after the user requested retry. No rejected action was bypassed."
+  ],
+  "historicalHostedEvidence": "docs/audit/phase4-hosted-baseline.json"
+}

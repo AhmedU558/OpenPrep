@@ -1,6 +1,6 @@
 import { createHash } from 'node:crypto';
 import { z } from 'zod';
-import type { Prisma, QuestionReview, QuestionRevision } from '@/generated/prisma/client';
+import { Prisma, type QuestionReview, type QuestionRevision } from '@/generated/prisma/client';
 import type { ReviewDecision, ReviewKind } from '@/generated/prisma/enums';
 import type { Tx } from './db';
 import { AppError } from './errors';
@@ -311,6 +311,47 @@ export function isRevisionFullyApproved(
   };
 }
 
+const ownerTestReleaseSchema = z.object({
+  contentHash: z.string().regex(/^[a-f0-9]{64}$/),
+  authorizedBy: z.string().trim().min(2).max(200),
+  authorizedAt: z.iso.datetime(),
+  authorization: z.string().trim().min(20).max(2000),
+  clinicalReviewClaimed: z.literal(false),
+});
+
+/** Owner test permission never counts as editorial, clinical or rights review. */
+export function isRevisionAvailableForPractice(revision: {
+  contentHash?: string;
+  ownerTestRelease?: unknown;
+  reviews: Array<{ reviewKind: ReviewKind; decision: ReviewDecision }>;
+}): boolean {
+  if (isRevisionFullyApproved(revision.reviews).approved) return true;
+  if (revision.reviews.some(r => r.decision === 'REVOKED' || r.decision === 'REJECTED')) return false;
+  const release = ownerTestReleaseSchema.safeParse(revision.ownerTestRelease);
+  return release.success && release.data.contentHash === revision.contentHash;
+}
+
+export async function authorizeOwnerTestRelease(tx: Tx, actor: { id: string; role: string }, revisionId: string, evidence: { authorizedBy: string; authorizedAt: string; authorization: string }) {
+  return authorizeOwnerTestReleases(tx, actor, [revisionId], evidence);
+}
+
+export async function authorizeOwnerTestReleases(tx: Tx, actor: { id: string; role: string }, revisionIds: string[], evidence: { authorizedBy: string; authorizedAt: string; authorization: string }) {
+  if (actor.role !== 'ADMIN') throw new AppError('FORBIDDEN', 'Only admins record owner test-release authorization.');
+  const ids = z.array(z.string().min(1)).min(1).max(100).parse(revisionIds);
+  const parents = await tx.questionRevision.findMany({ where: { id: { in: ids } }, select: { questionId: true } });
+  if (parents.length !== new Set(ids).size) throw new AppError('NOT_FOUND', 'Question revision not found.');
+  await tx.$queryRaw(Prisma.sql`SELECT id FROM question WHERE id IN (${Prisma.join(parents.map(r => r.questionId))}) ORDER BY id FOR UPDATE`);
+  const revisions = await tx.questionRevision.findMany({ where: { id: { in: ids } }, include: { reviews: true } });
+  const latest = await tx.questionRevision.groupBy({ by: ['questionId'], where: { questionId: { in: parents.map(r => r.questionId) } }, _max: { revisionNumber: true } });
+  const rows = revisions.map(revision => {
+    if (latest.find(r => r.questionId === revision.questionId)?._max.revisionNumber !== revision.revisionNumber) throw new AppError('CONFLICT', 'Only the current revision can receive owner test-release permission.');
+    if (revision.reviews.some(r => r.decision === 'REVOKED' || r.decision === 'REJECTED')) throw new AppError('CONFLICT', 'Rejected or revoked content requires correction and a new revision.');
+    return { id: revision.id, release: ownerTestReleaseSchema.parse({ ...evidence, contentHash: revision.contentHash, clinicalReviewClaimed: false }) };
+  });
+  await tx.$executeRaw`UPDATE question_revision r SET "ownerTestRelease" = p.release FROM jsonb_to_recordset(${JSON.stringify(rows)}::jsonb) AS p(id text, release jsonb) WHERE r.id = p.id`;
+  await tx.auditLog.createMany({ data: rows.map(row => ({ actorId: actor.id, action: 'question.owner_test_release', entityType: 'question_revision', entityId: row.id, diff: row.release })) });
+}
+
 export type DeliverableQuestionResult = {
   deliverable: boolean;
   reason?: string;
@@ -324,8 +365,8 @@ export type DeliverableQuestionResult = {
  * Resolves delivery eligibility and exact content snapshot for a question:
  * 1. Enforces content-rights and publication check (status = PUBLISHED, rightsStatus = VERIFIED, rightsAllowDelivery = true).
  * 2. For unversioned legacy questions (0 revisions): deliverable under legacy mode.
- * 3. For versioned questions: requires the latest revision to be fully approved across all 3 pillars with NO revocation.
- *    If the latest revision is pending, rejected, or revoked, delivery is strictly withheld.
+ * 3. For versioned questions: requires three-pillar approval or an explicit owner test release for that exact hash.
+ *    Owner permission cannot bypass a rejected/revoked review and never claims qualified clinical review.
  *    Does NOT fall back to older approved revisions.
  */
 export async function getDeliverableQuestion(
@@ -376,7 +417,7 @@ export async function getDeliverableQuestion(
   const latestRevision = revisions[0]!;
   const { approved, missingKinds } = isRevisionFullyApproved(latestRevision.reviews);
 
-  if (!approved) {
+  if (!approved && !isRevisionAvailableForPractice(latestRevision)) {
     return {
       deliverable: false,
       reason: `Question content is withheld pending editorial review of revision #${latestRevision.revisionNumber} (missing or revoked: ${missingKinds.join(', ')}). Your saved attempt is preserved.`,

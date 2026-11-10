@@ -1,0 +1,418 @@
+[
+  {
+    "code": "op-c-s3-1001",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "General Principles",
+    "topic": "Deprescribing in Frail Older Adults STOPPFrail Criteria Glycemic Targets",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 84-year-old woman residing in a skilled nursing facility is evaluated during a routine comprehensive geriatric assessment. She has advanced vascular dementia (FAST stage 7a, non-verbal, dependent for all activities of daily living), stage 4 chronic kidney disease (estimated GFR 22 mL/min/1.73 m2), coronary artery disease, and type 2 diabetes mellitus. Over the past 3 months, she experienced two unwitnessed falls and one episode of severe symptomatic hypoglycemia (capillary blood glucose 38 mg/dL) requiring emergency glucagon administration. Her current medications include: glimepiride 4 mg daily, metformin 500 mg daily, atorvastatin 40 mg daily, aspirin 81 mg daily, donepezil 10 mg daily, and acetaminophen 650 mg as needed for knee osteoarthritis. Vital signs: blood pressure 114/68 mm Hg, heart rate 64/min. Laboratory evaluation reveals: hemoglobin A1c 6.1%, serum creatinine 2.1 mg/dL, and serum albumin 3.2 g/dL. Her daughter, who is her healthcare proxy, expresses distress about her mother's pill burden and hypoglycemia episodes. Which of the following is the most appropriate medication adjustment according to evidence-based deprescribing guidelines (such as STOPPFrail criteria)?",
+    "options": [
+      {
+        "text": "Discontinuation of glimepiride, relaxation of glycemic targets (HbA1c 8.0-8.5%), and cessation of atorvastatin",
+        "correct": true,
+        "explanation": "In frail older adults with advanced dementia (life expectancy <1-2 years) and severe functional dependency, the primary goals of medical care shift from strict disease prevention to symptom relief, avoidance of acute drug-related harm, and preservation of quality of life. The STOPPFrail (Screening Tool of Older Persons' Prescriptions in Frail adults with limited life expectancy) criteria explicitly recommend: (1) DEPRESCRIBING SULFONYLUREAS (e.g., glimepiride, glyburide), which carry severe, prolonged hypoglycemia risks, particularly in stage 4 CKD due to active metabolite accumulation. Relaxing glycemic targets to a hemoglobin A1c of 8.0-8.5% (or fasting blood glucose 100-180 mg/dL) avoids hypoglycemia while preventing symptomatic hyperosmolar complications; (2) DISCONTINUATION OF STATINS: Primary or secondary cardiovascular prevention with statins requires at least 2-5 years to demonstrate mortality or morbidity benefits; in end-stage dementia with limited lifespan, statin continuation confers no meaningful benefit and increases polypharmacy burden; and (3) Metformin should also be discontinued given GFR <30 mL/min (lactic acidosis risk)."
+      },
+      {
+        "text": "Intensification of glycemic control by adding insulin glargine to achieve a target HbA1c <6.5%",
+        "correct": false,
+        "explanation": "Tight glycemic control (HbA1c <6.5-7.0%) in frail elderly adults provides zero microvascular or macrovascular benefit and dramatically increases fatal hypoglycemia and cardiovascular death."
+      },
+      {
+        "text": "Switching glimepiride to high-dose repaglinide with continuation of high-intensity atorvastatin",
+        "correct": false,
+        "explanation": "Repaglinide is a short-acting secretagogue that still stimulates endogenous insulin secretion and carries hypoglycemia risks; continuing high-intensity statins ignores limited life expectancy."
+      },
+      {
+        "text": "Discontinuation of all medications including acetaminophen without any pain assessment",
+        "correct": false,
+        "explanation": "Abruptly withholding analgesics in patients with advanced dementia causes unrecognized chronic pain, behavioral agitation, and functional decline."
+      },
+      {
+        "text": "Adding memantine to donepezil while maintaining the existing diabetes and lipid medications",
+        "correct": false,
+        "explanation": "Adding second-line dementia drugs in FAST stage 7 dementia provides negligible cognitive benefit while worsening anticholinergic and gastrointestinal adverse effects."
+      }
+    ],
+    "explanation": "In frail older adults with advanced dementia (life expectancy <1-2 years) and severe functional dependency, the primary goals of medical care shift from strict disease prevention to symptom relief, avoidance of acute drug-related harm, and preservation of quality of life. The STOPPFrail (Screening Tool of Older Persons' Prescriptions in Frail adults with limited life expectancy) criteria explicitly recommend: (1) DEPRESCRIBING SULFONYLUREAS (e.g., glimepiride, glyburide), which carry severe, prolonged hypoglycemia risks, particularly in stage 4 CKD due to active metabolite accumulation. Relaxing glycemic targets to a hemoglobin A1c of 8.0-8.5% (or fasting blood glucose 100-180 mg/dL) avoids hypoglycemia while preventing symptomatic hyperosmolar complications; (2) DISCONTINUATION OF STATINS: Primary or secondary cardiovascular prevention with statins requires at least 2-5 years to demonstrate mortality or morbidity benefits; in end-stage dementia with limited lifespan, statin continuation confers no meaningful benefit and increases polypharmacy burden; and (3) Metformin should also be discontinued given GFR <30 mL/min (lactic acidosis risk). Frail 84yo with advanced dementia and hypoglycemia = Discontinue glimepiride, relax HbA1c to 8.0-8.5%, stop atorvastatin.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Deprescribing in Frail Older Adults STOPPFrail Criteria Glycemic Targets.",
+    "keyPoints": [
+      "Deprescribing in Frail Older Adults STOPPFrail Criteria Glycemic Targets",
+      "Frail 84yo with advanced dementia and hypoglycemia = Discontinue glimepiride, relax HbA1c to 8.0-8.5%, stop atorvastatin."
+    ],
+    "references": [
+      {
+        "label": "Ku YC. Comparative Evaluation of STOPPFrail and STOPP Criteria for Detecting Potentially Inappropriate Medications in Severely Frail Older Inpatients. Healthcare (Basel). 2026 Oct 14. PMID: 42940478.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42940478/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-1002",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Cardiorenal Syndrome Type 1 Loop Diuretic Escalation Venous Congestion",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old man with ischemic cardiomyopathy (left ventricular ejection fraction 25%) is hospitalized for acute decompensated heart failure with severe fluid overload. On admission, physical examination revealed bilateral 3+ pitting lower-extremity edema extending to the mid-thighs, prominent bibasilar lung crackles, and an elevated jugular venous pressure (JVP) of 14 cm H2O. Laboratory studies on admission showed: serum creatinine 1.3 mg/dL and blood urea nitrogen 28 mg/dL. He was initiated on continuous intravenous furosemide infusion at 10 mg/hour. On hospital day 3, his net urine output over the preceding 24 hours is 1,200 mL, and he has lost 1.5 kg. However, repeat physical examination demonstrates persistent bibasilar crackles, an elevated JVP of 12 cm H2O, and 2+ pretibial edema. Repeat laboratory studies show: serum creatinine has risen to 2.2 mg/dL, BUN is 54 mg/dL, and serum potassium is 4.1 mEq/L. The patient is asymptomatic without orthostatic dizziness, and mean arterial pressure is 74 mm Hg. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Immediately discontinue all loop diuretics and administer 1,000 mL of 0.9% normal saline",
+        "correct": false,
+        "explanation": "Administering IV fluid boluses to an already fluid-overloaded patient with elevated JVP and pulmonary crackles precipitates acute flash pulmonary edema and respiratory failure."
+      },
+      {
+        "text": "Continue and escalate diuretic therapy (e.g., increase loop diuretic dose or add metolazone)",
+        "correct": true,
+        "explanation": "This patient presents with TYPE 1 CARDIORENAL SYNDROME (acute kidney injury precipitated by acute decompensated heart failure). In decompensated heart failure, the predominant hemodynamic driver of worsening renal function is NOT arterial hypoperfusion, but rather HIGH CENTRAL VENOUS PRESSURE AND SEVERE RENAL VENOUS CONGESTION. Elevated renal venous pressure increases renal interstitial hydrostatic pressure, compressing peritubular capillaries and collapsing the transglomerular filtration gradient (net filtration pressure = glomerular capillary pressure - renal venous pressure - tubular pressure). Clinical trials (including the landmark DOSE-AHF and CARRESS-HF trials) demonstrate that transient elevations in serum creatinine during aggressive decongestive therapy do NOT indicate intrinsic tubular injury if persistent congestion is present; rather, INCOMPLETE DECONGESTION AND PERSISTENT ELEVATED JVP are the strongest predictors of long-term mortality and post-discharge rehospitalization. Therefore, because this patient remains clinically volume overloaded (elevated JVP 12 cm, crackles, edema), the correct management is to PERSIST WITH AND ESCALATE DECONGESTION (increasing loop diuretic dosing or adding a thiazide like metolazone for sequential nephron blockade)."
+      },
+      {
+        "text": "Withhold furosemide and initiate urgent continuous renal replacement therapy (hemodialysis)",
+        "correct": false,
+        "explanation": "Hemodialysis is not indicated for isolated moderate creatinine rise without refractory hyperkalemia, severe metabolic acidosis, or anuric diuretic resistance."
+      },
+      {
+        "text": "Initiate high-dose intravenous dopamine infusion at 10 mcg/kg/min for inotropic renal support",
+        "correct": false,
+        "explanation": "High-dose dopamine stimulates alpha-1 vasoconstriction, increasing afterload and worsening myocardial oxygen demand without reversing cardiorenal venous congestion."
+      },
+      {
+        "text": "Discontinue all guideline-directed medical therapy and discharge the patient to outpatient hospice",
+        "correct": false,
+        "explanation": "Transient creatinine elevation during successful decongestion is reversible once venous pressures normalize; it does not indicate refractory end-stage terminal failure."
+      }
+    ],
+    "explanation": "This patient presents with TYPE 1 CARDIORENAL SYNDROME (acute kidney injury precipitated by acute decompensated heart failure). In decompensated heart failure, the predominant hemodynamic driver of worsening renal function is NOT arterial hypoperfusion, but rather HIGH CENTRAL VENOUS PRESSURE AND SEVERE RENAL VENOUS CONGESTION. Elevated renal venous pressure increases renal interstitial hydrostatic pressure, compressing peritubular capillaries and collapsing the transglomerular filtration gradient (net filtration pressure = glomerular capillary pressure - renal venous pressure - tubular pressure). Clinical trials (including the landmark DOSE-AHF and CARRESS-HF trials) demonstrate that transient elevations in serum creatinine during aggressive decongestive therapy do NOT indicate intrinsic tubular injury if persistent congestion is present; rather, INCOMPLETE DECONGESTION AND PERSISTENT ELEVATED JVP are the strongest predictors of long-term mortality and post-discharge rehospitalization. Therefore, because this patient remains clinically volume overloaded (elevated JVP 12 cm, crackles, edema), the correct management is to PERSIST WITH AND ESCALATE DECONGESTION (increasing loop diuretic dosing or adding a thiazide like metolazone for sequential nephron blockade). Decompensated HF with rising creatinine but persistent elevated JVP/edema = Continue/escalate loop diuretics (renal venous congestion).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cardiorenal Syndrome Type 1 Loop Diuretic Escalation Venous Congestion.",
+    "keyPoints": [
+      "Cardiorenal Syndrome Type 1 Loop Diuretic Escalation Venous Congestion",
+      "Decompensated HF with rising creatinine but persistent elevated JVP/edema = Continue/escalate loop diuretics (renal venous congestion)."
+    ],
+    "references": [
+      {
+        "label": "Tsalouchos A. Diuretic therapy at the heart-kidney interface: from acute decongestion to long-term de-escalation in heart failure with reduced ejection fraction. Heart Fail Rev. 2026 Oct 24. PMID: 42925351.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42925351/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-1003",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Intention-to-Treat Principle Missing Outcome Data and Attrition Bias",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A double-blind, randomized controlled trial evaluates the efficacy of a novel oral non-peptide vasopressin receptor antagonist compared with placebo in reducing 90-day hospital readmission rates in patients hospitalized for acute decompensated heart failure. A total of 1,200 patients are randomized (600 in the active drug group and 600 in the placebo group). During the trial, 120 patients (20%) in the active drug group discontinue the study medication due to severe dry mouth and thirst, and 45 of these patients withdraw from all subsequent study assessments and are lost to follow-up. In the placebo group, 25 patients (4%) discontinue therapy, and 12 are lost to follow-up. The investigators publish a 'per-protocol' (complete-case) analysis including only the 480 patients in the active group and 575 patients in the placebo group who fully adhered to the assigned protocol without missing data, reporting a statistically significant 32% relative risk reduction in 90-day readmissions (p = 0.015). Which of the following is the most critical methodological limitation of this reported analysis?",
+    "options": [
+      {
+        "text": "Failure to utilize a crossover design to ensure all participants receive both the novel drug and placebo",
+        "correct": false,
+        "explanation": "Crossover designs are appropriate for stable chronic conditions, but are unsuitable for acute episodic events (heart failure hospitalization) due to carryover effects."
+      },
+      {
+        "text": "Use of a placebo comparator rather than an active non-inferiority comparator arm",
+        "correct": false,
+        "explanation": "Placebo-controlled trials are standard and methodologically rigorous when evaluating add-on therapies on top of background guideline-directed medical therapy."
+      },
+      {
+        "text": "Exclusion of non-adherent and lost patients disrupts baseline prognostic balance and introduces attrition bias",
+        "correct": true,
+        "explanation": "The primary analysis in randomized controlled trials must adhere to the INTENTION-TO-TREAT (ITT) PRINCIPLE, in which all randomized participants are analyzed in the treatment group to which they were originally assigned, regardless of adherence, protocol deviations, or premature treatment withdrawal. Randomization distributes both known and unknown confounders equally between arms at baseline. A 'per-protocol' or complete-case analysis that excludes non-adherent patients or those lost to follow-up DESTROYS THE PROGNOSTIC EQUIVALENCE GUARANTEED BY RANDOMIZATION and introduces SEVERE ATTRITION BIAS. In this trial, 20% of patients dropped out of the active arm due to adverse effects; patients who tolerate therapy and adhere are systematically healthier or possess different biological characteristics than those who discontinue. Modern clinical trial methodology requires analyzing all randomized participants under ITT, using rigorous statistical methods for missing outcome data (such as MULTIPLE IMPUTATION, pattern-mixture models, or tipping-point sensitivity analyses) to test the robustness of trial conclusions."
+      },
+      {
+        "text": "Selection of a 90-day follow-up duration which is too brief to assess clinical event rates in heart failure",
+        "correct": false,
+        "explanation": "A 90-day post-discharge window is a clinically validated, highly vulnerable time frame with substantial event rates for heart failure readmission."
+      },
+      {
+        "text": "Inability of double-blinding to prevent performance bias in pharmacological intervention trials",
+        "correct": false,
+        "explanation": "Double-blinding successfully prevents performance bias; the reported error is post-randomization attrition bias during statistical analysis."
+      }
+    ],
+    "explanation": "The primary analysis in randomized controlled trials must adhere to the INTENTION-TO-TREAT (ITT) PRINCIPLE, in which all randomized participants are analyzed in the treatment group to which they were originally assigned, regardless of adherence, protocol deviations, or premature treatment withdrawal. Randomization distributes both known and unknown confounders equally between arms at baseline. A 'per-protocol' or complete-case analysis that excludes non-adherent patients or those lost to follow-up DESTROYS THE PROGNOSTIC EQUIVALENCE GUARANTEED BY RANDOMIZATION and introduces SEVERE ATTRITION BIAS. In this trial, 20% of patients dropped out of the active arm due to adverse effects; patients who tolerate therapy and adhere are systematically healthier or possess different biological characteristics than those who discontinue. Modern clinical trial methodology requires analyzing all randomized participants under ITT, using rigorous statistical methods for missing outcome data (such as MULTIPLE IMPUTATION, pattern-mixture models, or tipping-point sensitivity analyses) to test the robustness of trial conclusions. Per-protocol analysis excluding 20% dropouts = Breaks randomization baseline balance and introduces attrition bias (violates ITT).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Intention-to-Treat Principle Missing Outcome Data and Attrition Bias.",
+    "keyPoints": [
+      "Intention-to-Treat Principle Missing Outcome Data and Attrition Bias",
+      "Per-protocol analysis excluding 20% dropouts = Breaks randomization baseline balance and introduces attrition bias (violates ITT)."
+    ],
+    "references": [
+      {
+        "label": "Oderkerk TJ et al. Endometrial ablation plus levonorgestrel-releasing intrauterine system versus ablation alone for heavy menstrual bleeding (MIRA2). Lancet. 2026;408(10566):1828-1838. PMID: 42906565.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42906565/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-1004",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Root Cause Analysis Systems Engineering and Swiss Cheese Safety Model",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old man is scheduled for an elective right total knee arthroplasty. In the preoperative holding area, the surgical resident completes the consent form and marks the patient's right knee with a surgical pen. In the operating room, the patient is placed under general anesthesia, and the circulating nurse and scrub technician position and prep the patient's LEFT leg due to an erroneous notation on the operating room whiteboard schedule. During the mandatory pre-incision 'Time Out', the circulating nurse reads the operative permit aloud, compares it directly against the surgical consent form and patient identification band, and notices that the prepped left leg does not bear the surgeon's marked initials. The incision is immediately halted, the drapes are removed, and the correct right knee is verified, prepped, and operated upon without patient harm. The hospital safety officer convenes a multidisciplinary Root Cause Analysis (RCA) committee to investigate this near-miss event. Which of the following principles best reflects the systems-based approach advocated by the Institute for Healthcare Improvement (IHI) and James Reason's Swiss Cheese Model?",
+    "options": [
+      {
+        "text": "Assigning primary culpability to the circulating nurse and issuing a formal disciplinary reprimand",
+        "correct": false,
+        "explanation": "Blaming individuals fosters a culture of concealment and fear, driving near-miss reporting underground without addressing underlying systemic design flaws."
+      },
+      {
+        "text": "Banning the use of pre-incision Time Outs because they fail to prevent pre-incision positioning errors",
+        "correct": false,
+        "explanation": "The Time Out functioned exactly as intended as a resilient defensive barrier that successfully intercepted a wrong-site surgery near-miss."
+      },
+      {
+        "text": "Requiring surgeons to work exclusively without assisting residents or nurses during limb positioning",
+        "correct": false,
+        "explanation": "Eliminating multidisciplinary teams removes essential safety redundancies and increases individual workload and error vulnerability."
+      },
+      {
+        "text": "Focusing investigation on latent organizational vulnerabilities and system defenses rather than individual blame",
+        "correct": true,
+        "explanation": "Modern healthcare safety science, based on James Reason's SWISS CHEESE MODEL OF SYSTEM ACCIDENTS, distinguishes between: (1) ACTIVE FAILURES (unsafe acts committed by front-line personnel, such as erroneously prepping the wrong limb); and (2) LATENT CONDITIONS (system-level, design, or organizational defects, such as mismatched schedule whiteboards, ambiguous booking forms, production pressures, and communication gaps). Traditional 'person-centered' approaches erroneously focus on blaming, reprimanding, or retraining individuals, which fails to prevent recurrence because human cognitive errors are inevitable under complex, high-stress conditions. A true systems-based ROOT CAUSE ANALYSIS (RCA) operates under a 'JUST CULTURE' framework, investigating LATENT SYSTEM DEFENSES (the slices of cheese) and the alignment of holes that allowed the hazard to penetrate. In this case, the mandatory multi-person 'Time Out' served as a successful DEFENSIVE BARRIER that caught the error before patient harm occurred. System redesign focuses on standardized electronic scheduling interfaces and redundant verification forcing functions."
+      },
+      {
+        "text": "Closing the investigation immediately without action because the patient did not experience physical injury",
+        "correct": false,
+        "explanation": "Near-miss events provide invaluable, non-punitive opportunities to identify and repair lethal latent system hazards before catastrophic harm occurs."
+      }
+    ],
+    "explanation": "Modern healthcare safety science, based on James Reason's SWISS CHEESE MODEL OF SYSTEM ACCIDENTS, distinguishes between: (1) ACTIVE FAILURES (unsafe acts committed by front-line personnel, such as erroneously prepping the wrong limb); and (2) LATENT CONDITIONS (system-level, design, or organizational defects, such as mismatched schedule whiteboards, ambiguous booking forms, production pressures, and communication gaps). Traditional 'person-centered' approaches erroneously focus on blaming, reprimanding, or retraining individuals, which fails to prevent recurrence because human cognitive errors are inevitable under complex, high-stress conditions. A true systems-based ROOT CAUSE ANALYSIS (RCA) operates under a 'JUST CULTURE' framework, investigating LATENT SYSTEM DEFENSES (the slices of cheese) and the alignment of holes that allowed the hazard to penetrate. In this case, the mandatory multi-person 'Time Out' served as a successful DEFENSIVE BARRIER that caught the error before patient harm occurred. System redesign focuses on standardized electronic scheduling interfaces and redundant verification forcing functions. Near-miss wrong-site surgery investigation = Root cause analysis focuses on latent system defenses, not individual human blame.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Root Cause Analysis Systems Engineering and Swiss Cheese Safety Model.",
+    "keyPoints": [
+      "Root Cause Analysis Systems Engineering and Swiss Cheese Safety Model",
+      "Near-miss wrong-site surgery investigation = Root cause analysis focuses on latent system defenses, not individual human blame."
+    ],
+    "references": [
+      {
+        "label": "Reason J. Human error: models and management. BMJ. 2000 Mar 18. PMID: 10720363.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10720363/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-1005",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Surrogate Decision-Making Substituted Judgment Advanced Directive",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 76-year-old man is admitted to the intensive care unit following a witnessed out-of-hospital ventricular fibrillation cardiac arrest. He achieved return of spontaneous circulation after 28 minutes of advanced cardiac life support. Following targeted temperature management, he remains deeply comatose, unresponsive to noxious stimuli, with absent brainstem reflexes and bilateral burst suppression on electroencephalogram (EEG), consistent with catastrophic, irreversible anoxic brain injury. He has a legally designated healthcare proxy (his adult daughter). The patient's outpatient medical record contains documented conversations with his primary care physician from 18 months ago stating that if he ever developed severe irreversible brain damage with no prospect of meaningful recovery, he would strictly refuse prolonged artificial mechanical ventilation or permanent artificial nutrition. The daughter states that her father's clear and unwavering wish was to be allowed a natural death under such circumstances, and she requests withdrawal of mechanical life support and transition to comfort-focused palliative care. However, the patient's estranged son arrives at the hospital, vehemently objects, and threatens a lawsuit unless tracheostomy, percutaneous gastrostomy, and full cardiopulmonary resuscitation are performed. Which of the following is the most appropriate ethical and legal course of action?",
+    "options": [
+      {
+        "text": "Accede to the son's demands for tracheostomy and feeding tube because family consensus is mandatory",
+        "correct": false,
+        "explanation": "Family unanimity is not legally or ethically required; the legally designated proxy has sole decision-making authority guided by the patient's known wishes."
+      },
+      {
+        "text": "Transfer the patient immediately to the operating room for emergency tracheostomy and feeding tube",
+        "correct": false,
+        "explanation": "Performing invasive surgical procedures that directly violate the patient's documented prior autonomous refusal constitutes battery and ethical misconduct."
+      },
+      {
+        "text": "Petition a probate court to appoint an independent guardian to make all decisions de novo",
+        "correct": false,
+        "explanation": "Court petition is reserved for situations where no proxy exists, family members have equal legal standing with irreconcilable conflict, or bad faith is demonstrated."
+      },
+      {
+        "text": "Withdraw all pain and palliative medications immediately to avoid hasten death allegations",
+        "correct": false,
+        "explanation": "Palliative medications (opioids, sedatives) are ethically and legally mandatory to ensure patient comfort and prevent suffering during withdrawal of life support."
+      },
+      {
+        "text": "Honor the designated daughter's decision under the substituted judgment standard to withdraw life support",
+        "correct": true,
+        "explanation": "In medical ethics and health law, when an adult patient lacks decision-making capacity, surrogate decision-makers must adhere to the HIERARCHY OF DECISION-MAKING STANDARDS: (1) ADVANCE DIRECTIVES: Express oral or written instructions previously formulated by the competent patient take legal and ethical precedence; (2) SUBSTITUTED JUDGMENT: When an advance directive is present or the patient's values and prior statements are well known, the surrogate must decide based on WHAT THE PATIENT WOULD HAVE DECIDED for himself if he were currently capable, rather than what the surrogate or family personally prefers; and (3) BEST INTERESTS STANDARD: Used only when the patient's prior wishes are entirely unknown. Here, the daughter is the LEGALLY DESIGNATED HEALTHCARE PROXY, and the patient had clearly and consistently documented his wishes to refuse artificial life support in the event of devastating irreversible brain injury. The estranged son's conflicting demands cannot override the patient's autonomous right to refuse medical interventions expressed through his designated surrogate and documented prior statements. The medical team should provide compassionate emotional support to the son while proceeding with comfort-directed palliative withdrawal."
+      }
+    ],
+    "explanation": "In medical ethics and health law, when an adult patient lacks decision-making capacity, surrogate decision-makers must adhere to the HIERARCHY OF DECISION-MAKING STANDARDS: (1) ADVANCE DIRECTIVES: Express oral or written instructions previously formulated by the competent patient take legal and ethical precedence; (2) SUBSTITUTED JUDGMENT: When an advance directive is present or the patient's values and prior statements are well known, the surrogate must decide based on WHAT THE PATIENT WOULD HAVE DECIDED for himself if he were currently capable, rather than what the surrogate or family personally prefers; and (3) BEST INTERESTS STANDARD: Used only when the patient's prior wishes are entirely unknown. Here, the daughter is the LEGALLY DESIGNATED HEALTHCARE PROXY, and the patient had clearly and consistently documented his wishes to refuse artificial life support in the event of devastating irreversible brain injury. The estranged son's conflicting demands cannot override the patient's autonomous right to refuse medical interventions expressed through his designated surrogate and documented prior statements. The medical team should provide compassionate emotional support to the son while proceeding with comfort-directed palliative withdrawal. Designated proxy + clear prior patient refusal of life support vs estranged son = Honor proxy under substituted judgment.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Surrogate Decision-Making Substituted Judgment Advanced Directive.",
+    "keyPoints": [
+      "Surrogate Decision-Making Substituted Judgment Advanced Directive",
+      "Designated proxy + clear prior patient refusal of life support vs estranged son = Honor proxy under substituted judgment."
+    ],
+    "references": [
+      {
+        "label": "Wu L. The dilemma of surrogate decision-making in the intensive care unit: A focused ethnographic study. Nurs Ethics. 2026 Mar. PMID: 40940043.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40940043/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-1006",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "USPSTF Colorectal Cancer Screening Modalities and Surveillance Intervals",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old man presents to the clinic for a routine health maintenance examination. He has no chronic medical conditions and takes no medications. He reports no rectal bleeding, change in bowel habits, unexplained weight loss, or abdominal pain. Family history is negative for colorectal cancer, polyps, or inflammatory bowel disease in any first-degree or second-degree relatives. Physical examination is entirely normal. The patient asks whether he needs screening for colorectal cancer. According to the United States Preventive Services Task Force (USPSTF) guidelines, which of the following recommendations regarding colorectal cancer screening is most appropriate for this patient?",
+    "options": [
+      {
+        "text": "Initiate screening now using either annual fecal immunochemical testing (FIT) or colonoscopy every 10 years",
+        "correct": true,
+        "explanation": "The United States Preventive Services Task Force (USPSTF) and American Cancer Society guidelines recommend SCREENING FOR COLORECTAL CANCER IN ALL AVERAGE-RISK ADULTS STARTING AT AGE 45 YEARS (Grade B recommendation for ages 45-49, Grade A for ages 50-75). The decision to start at age 45 reflects the rising incidence of early-onset colorectal adenocarcinoma in younger adults. In average-risk asymptomatic individuals, multiple evidence-based screening strategies are endorsed, offering comparable overall life-years gained: (1) DIRECT VISUALIZATION TESTS: Colonoscopy every 10 years; flexible sigmoidoscopy every 5 years; or CT colonography every 5 years; (2) STOOL-BASED TESTS: Annual HIGH-SENSITIVITY FECAL IMMUNOCHEMICAL TEST (FIT); annual high-sensitivity guaiac-based fecal occult blood test (hsFOBT); or Stool DNA-FIT test (sDNA-FIT) every 3 years. Any positive stool-based or indirect visualization screening test mandates a follow-up diagnostic colonoscopy. Screening is individualized between ages 76 and 85 based on prior screening history and overall health."
+      },
+      {
+        "text": "Delay all screening until age 50 years because early-onset colorectal cancer cannot be prevented",
+        "correct": false,
+        "explanation": "USPSTF lowered the recommended initiation age from 50 to 45 years in 2021 based on robust microsimulation modeling demonstrating significant reduction in colorectal cancer mortality."
+      },
+      {
+        "text": "Perform a single baseline colonoscopy now and discontinue all further screening if findings are negative",
+        "correct": false,
+        "explanation": "A single negative colonoscopy provides 10 years of protection; screening must continue at 10-year intervals until at least age 75."
+      },
+      {
+        "text": "Order serum carcinoembryonic antigen (CEA) and CA 19-9 levels as the preferred non-invasive screening test",
+        "correct": false,
+        "explanation": "Serum tumor markers (CEA, CA 19-9) have unacceptably low sensitivity and specificity for early neoplasia and are used solely for monitoring recurrence, never for screening."
+      },
+      {
+        "text": "Recommend annual digital rectal examination with in-office guaiac testing of stool on the examining glove",
+        "correct": false,
+        "explanation": "Single-specimen in-office digital rectal exam stool guaiac has a sensitivity <10-20% and is explicitly condemned by all major screening guidelines."
+      }
+    ],
+    "explanation": "The United States Preventive Services Task Force (USPSTF) and American Cancer Society guidelines recommend SCREENING FOR COLORECTAL CANCER IN ALL AVERAGE-RISK ADULTS STARTING AT AGE 45 YEARS (Grade B recommendation for ages 45-49, Grade A for ages 50-75). The decision to start at age 45 reflects the rising incidence of early-onset colorectal adenocarcinoma in younger adults. In average-risk asymptomatic individuals, multiple evidence-based screening strategies are endorsed, offering comparable overall life-years gained: (1) DIRECT VISUALIZATION TESTS: Colonoscopy every 10 years; flexible sigmoidoscopy every 5 years; or CT colonography every 5 years; (2) STOOL-BASED TESTS: Annual HIGH-SENSITIVITY FECAL IMMUNOCHEMICAL TEST (FIT); annual high-sensitivity guaiac-based fecal occult blood test (hsFOBT); or Stool DNA-FIT test (sDNA-FIT) every 3 years. Any positive stool-based or indirect visualization screening test mandates a follow-up diagnostic colonoscopy. Screening is individualized between ages 76 and 85 based on prior screening history and overall health. Average-risk 46yo = Start colorectal cancer screening now (annual FIT or colonoscopy every 10 years).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of USPSTF Colorectal Cancer Screening Modalities and Surveillance Intervals.",
+    "keyPoints": [
+      "USPSTF Colorectal Cancer Screening Modalities and Surveillance Intervals",
+      "Average-risk 46yo = Start colorectal cancer screening now (annual FIT or colonoscopy every 10 years)."
+    ],
+    "references": [
+      {
+        "label": "Grivas C. Colorectal Cancer Screening Beyond Primary Care: A Community-Based FIT Distribution Model Serving a Safety-Net Hospital Population. Cancer Med. 2026 Jun. PMID: 42324625.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42324625/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-1007",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Malignant Pleural Mesothelioma Asbestos Exposure Thoracoscopic Biopsy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old man presents with a 3-month history of progressive shortness of breath, non-productive cough, and a dull, aching, non-pleuritic pain in his right lower chest wall. He has lost 6 kg (13 lb) over this period. He worked as an industrial pipefitter and shipyard insulator for 32 years before retiring at age 62. Physical examination reveals decreased chest expansion on the right, dullness to percussion over the right hemithorax, and markedly diminished breath sounds over the right lung base. Contrast-enhanced CT of the chest demonstrates extensive, nodular, circumferential thickening (>1 cm) of the right parietal and visceral pleura encasing the lung parenchyma, with contraction of the right hemithorax, invasion into the major interlobar fissure, and a moderate right pleural effusion. Diagnostic thoracentesis yields serosanguinous exudative pleural fluid; cytological analysis reveals atypical mesothelial cells but is non-diagnostic. Which of the following is the most appropriate next step to establish a definitive diagnosis?",
+    "options": [
+      {
+        "text": "Repeat thoracentesis with repeat cytological analysis of 50 mL of pleural fluid",
+        "correct": false,
+        "explanation": "Repeat pleural fluid cytology has poor diagnostic yield (<30%) in mesothelioma; architectural tissue invasion on histology is required for definitive diagnosis."
+      },
+      {
+        "text": "Video-assisted thoracoscopic surgery (VATS) with direct visual pleural biopsy",
+        "correct": true,
+        "explanation": "This patient presents with classic clinical and radiographic features of MALIGNANT PLEURAL MESOTHELIOMA (MPM), an aggressive primary neoplasm of the pleura strongly associated with prior OCCUPATIONAL ASBESTOS EXPOSURE (typically with a long latency period of 30-50 years). Presentation includes dull chest wall pain (due to chest wall/intercostal nerve invasion), dyspnea, and weight loss. Hallmark CT findings include: (1) CIRCUMFERENTIAL, NODULAR PLEURAL THICKENING (>1 cm) encasing the hemithorax ('pleural rind'); (2) Ipsilateral volume contraction; and (3) Involvement of the mediastinal pleura and interlobar fissures. Pleural fluid cytology has poor diagnostic sensitivity (typically <25-30%) because distinguishing reactive atypical mesothelial cells from malignant mesothelial cells requires architectural assessment of subpleural and fat invasion. Therefore, the gold-standard diagnostic procedure is VIDEO-ASSISTED THORACOSCOPIC SURGERY (VATS) PLEURAL BIOPSY, which provides direct visualization and generous full-thickness tissue samples to demonstrate tissue invasion and characteristic immunohistochemical markers (calretinin, WT1, and cytokeratin 5/6 positive; CEA and claudin-4 negative)."
+      },
+      {
+        "text": "Initiation of empiric antituberculous therapy for presumed tuberculous pleurisy",
+        "correct": false,
+        "explanation": "Circumferential nodular pleural rind encasing the hemithorax in a former shipyard worker is pathognomonic for mesothelioma, not isolated tuberculous effusion."
+      },
+      {
+        "text": "Bronchoscopy with endobronchial ultrasound-guided transbronchial lung biopsy",
+        "correct": false,
+        "explanation": "Mesothelioma arises in the parietal and visceral pleura, not the bronchial lumen or lung parenchyma; transbronchial biopsy rarely captures pleural tissue."
+      },
+      {
+        "text": "Serum measurement of soluble mesothelin-related peptide as definitive diagnostic confirmation",
+        "correct": false,
+        "explanation": "Mesothelin is a biomarker that supports suspicion or monitors treatment response, but lacks sufficient specificity and sensitivity to establish definitive histological diagnosis."
+      }
+    ],
+    "explanation": "This patient presents with classic clinical and radiographic features of MALIGNANT PLEURAL MESOTHELIOMA (MPM), an aggressive primary neoplasm of the pleura strongly associated with prior OCCUPATIONAL ASBESTOS EXPOSURE (typically with a long latency period of 30-50 years). Presentation includes dull chest wall pain (due to chest wall/intercostal nerve invasion), dyspnea, and weight loss. Hallmark CT findings include: (1) CIRCUMFERENTIAL, NODULAR PLEURAL THICKENING (>1 cm) encasing the hemithorax ('pleural rind'); (2) Ipsilateral volume contraction; and (3) Involvement of the mediastinal pleura and interlobar fissures. Pleural fluid cytology has poor diagnostic sensitivity (typically <25-30%) because distinguishing reactive atypical mesothelial cells from malignant mesothelial cells requires architectural assessment of subpleural and fat invasion. Therefore, the gold-standard diagnostic procedure is VIDEO-ASSISTED THORACOSCOPIC SURGERY (VATS) PLEURAL BIOPSY, which provides direct visualization and generous full-thickness tissue samples to demonstrate tissue invasion and characteristic immunohistochemical markers (calretinin, WT1, and cytokeratin 5/6 positive; CEA and claudin-4 negative). Shipyard worker + circumferential pleural rind + exudative bloody effusion = VATS pleural biopsy (gold standard for mesothelioma).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Malignant Pleural Mesothelioma Asbestos Exposure Thoracoscopic Biopsy.",
+    "keyPoints": [
+      "Malignant Pleural Mesothelioma Asbestos Exposure Thoracoscopic Biopsy",
+      "Shipyard worker + circumferential pleural rind + exudative bloody effusion = VATS pleural biopsy (gold standard for mesothelioma)."
+    ],
+    "references": [
+      {
+        "label": "Yamasaki T. Treatment-specific Association of H&E-based Stromal Tumor-infiltrating Lymphocytes With Survival in Pleural Mesothelioma Treated With Ipilimumab/Nivolumab or Chemotherapy. Anticancer Res. 2026 Nov. PMID: 42946431.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42946431/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-1008",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Transition of Care High-Risk Medication Reconciliation 48-Hour Contact",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 78-year-old woman with a history of heart failure with reduced ejection fraction (LVEF 30%), stage 3b chronic kidney disease (baseline eGFR 38 mL/min/1.73 m2), and type 2 diabetes mellitus is being discharged following a 5-day hospitalization for acute decompensated heart failure with volume overload. At the time of admission, her home medications were: lisinopril 20 mg daily, spironolactone 25 mg daily, carvedilol 12.5 mg twice daily, and glimepiride 4 mg daily. During hospitalization, she was treated with intravenous furosemide. Due to a rise in serum potassium to 5.6 mEq/L and acute-on-chronic kidney injury (serum creatinine 2.4 mg/dL), spironolactone was discontinued, and oral furosemide 40 mg twice daily was added. Glimepiride was discontinued due to an in-hospital hypoglycemic episode, and she was started on low-dose basal insulin glargine. At discharge, she is euvolemic with a serum creatinine of 1.8 mg/dL and potassium of 4.6 mEq/L. She lives alone. Which of the following transitional-care interventions has the strongest clinical trial evidence for preventing adverse drug events and 30-day hospital readmissions in this patient?",
+    "options": [
+      {
+        "text": "Providing the patient with a standard pre-printed hospital discharge folder and scheduling an outpatient appointment in 4 weeks",
+        "correct": false,
+        "explanation": "Passive distribution of discharge paperwork without direct verification is ineffective; a 4-week follow-up interval is far too late to prevent early 30-day readmissions."
+      },
+      {
+        "text": "Instructing the patient to restart all her pre-hospital home medications exactly as prescribed before admission",
+        "correct": false,
+        "explanation": "Resuming discontinued medications (e.g., spironolactone and glimepiride) would precipitate fatal hyperkalemia and severe hypoglycemia."
+      },
+      {
+        "text": "Multidisciplinary pharmacist-led discharge medication reconciliation with structured telephone follow-up within 48-72 hours",
+        "correct": true,
+        "explanation": "TRANSITIONS OF CARE from hospital to home represent a period of extreme vulnerability, particularly for multimorbid older adults with polypharmacy. Over 50% of hospitalized patients experience at least one MEDICATION ERROR OR DISCREPANCY AT DISCHARGE, and adverse drug events are the leading cause of preventable 30-day readmissions. High-risk medications (anticoagulants, insulins, diuretics, renin-angiotensin inhibitors) carry substantial risk of rebound toxicity or therapeutic failure when dosing regimens change during hospitalization. Randomized health-services trials and meta-analyses demonstrate that the most effective intervention to reduce 30-day readmissions and post-discharge emergency visits is A MULTI-FACETED, PHARMACIST-LED DISCHARGE MEDICATION RECONCILIATION PROGRAM COMBINED WITH A STRUCTURED TELEPHONE CALL OR CLINICAL CONTACT WITHIN 48-72 HOURS OF DISCHARGE. This intervention resolves unintentional discrepancies, verifies patient comprehension of new versus discontinued drugs, ensures prescription fill, and monitors early biochemical stability (e.g., electrolytes and renal function)."
+      },
+      {
+        "text": "Automatic enrollment in a commercial mail-order pharmacy program without clinician medication review",
+        "correct": false,
+        "explanation": "Automated mail-order dispensing does not reconcile hospital changes and frequently dispenses outdated pre-hospital prescriptions, worsening adverse drug events."
+      },
+      {
+        "text": "Routine non-targeted home nursing visits initiated 30 days after hospital discharge",
+        "correct": false,
+        "explanation": "Interventions delayed until day 30 miss the peak readmission risk window (days 2-14) where acute post-discharge decompensations occur."
+      }
+    ],
+    "explanation": "TRANSITIONS OF CARE from hospital to home represent a period of extreme vulnerability, particularly for multimorbid older adults with polypharmacy. Over 50% of hospitalized patients experience at least one MEDICATION ERROR OR DISCREPANCY AT DISCHARGE, and adverse drug events are the leading cause of preventable 30-day readmissions. High-risk medications (anticoagulants, insulins, diuretics, renin-angiotensin inhibitors) carry substantial risk of rebound toxicity or therapeutic failure when dosing regimens change during hospitalization. Randomized health-services trials and meta-analyses demonstrate that the most effective intervention to reduce 30-day readmissions and post-discharge emergency visits is A MULTI-FACETED, PHARMACIST-LED DISCHARGE MEDICATION RECONCILIATION PROGRAM COMBINED WITH A STRUCTURED TELEPHONE CALL OR CLINICAL CONTACT WITHIN 48-72 HOURS OF DISCHARGE. This intervention resolves unintentional discrepancies, verifies patient comprehension of new versus discontinued drugs, ensures prescription fill, and monitors early biochemical stability (e.g., electrolytes and renal function). High-risk discharge with complex medication changes = Pharmacist-led medication reconciliation + structured 48-72h follow-up.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Transition of Care High-Risk Medication Reconciliation 48-Hour Contact.",
+    "keyPoints": [
+      "Transition of Care High-Risk Medication Reconciliation 48-Hour Contact",
+      "High-risk discharge with complex medication changes = Pharmacist-led medication reconciliation + structured 48-72h follow-up."
+    ],
+    "references": [
+      {
+        "label": "Shane R. Pharmacy-led transition of care services with positive readmissions impact in an acute care hospital. Am J Health Syst Pharm. 2026 Sep 22. PMID: 42768981.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42768981/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]
