@@ -11,7 +11,7 @@ test.describe('accounts (T1)', () => {
     await expect(page).toHaveURL('/');
 
     await login(page, c.email, 'definitely-wrong-password');
-    await expect(page.getByRole('alert')).toBeVisible();
+    await expect(page.locator('form').getByRole('alert')).toBeVisible();
     await expect(page).toHaveURL(/\/login/);
 
     await login(page, c.email, c.password);
@@ -46,7 +46,7 @@ test.describe('accounts (T1)', () => {
     await page.getByLabel('Email').fill(c.email);
     await page.getByLabel('Password').fill(c.password);
     await page.getByRole('button', { name: 'Create account' }).click();
-    await expect(page.getByRole('alert')).toBeVisible();
+    await expect(page.locator('form').getByRole('alert')).toBeVisible();
   });
 
   test('password reset by email (Mailpit)', async ({ page, request }) => {
@@ -75,7 +75,7 @@ test.describe('accounts (T1)', () => {
     await expect(page).toHaveURL(/\/login\?reset=1/);
 
     await login(page, c.email, c.password); // old password no longer works
-    await expect(page.getByRole('alert')).toBeVisible();
+    await expect(page.locator('form').getByRole('alert')).toBeVisible();
     await login(page, c.email, fresh);
     await expect(page).toHaveURL(/\/dashboard/);
   });
