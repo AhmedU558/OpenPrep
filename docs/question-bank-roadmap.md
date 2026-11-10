@@ -1,5 +1,10 @@
 # Growing the question bank
 
+## Current production state — 10 November 2026
+
+**4,028 questions are stored and practice available**, including 3,000 newly imported owner-authorized test questions (1,000 per USMLE track). Imports, read-back and preservation checks are complete; qualified medical review, claim/source mapping, semantic duplicate decisions and measured difficulty calibration remain outstanding. Prioritize the [quality/review queue](question-bank-production-quality.md) before further expansion. Owner test permission is not a clinical approval; keep AI-authored/medically-unreviewed disclosures. The existing 5,000/10,000 targets below are future work, and the earlier 1,028/1,017 numbers describe the historical local milestone.
+
+
 The local bank now has **1,028 stored questions and 1,017 practice-available questions** (2026-10-29). The expansion authored800 specifications, imported796 and made785 new items available while quarantining15; the original 232 were preserved. The numerical1,000-question milestone is complete. Medical/psychometric quality remains a separate backlog; see [actual results](question-bank-progress.md) and the [content-quality report](question-bank-content-quality.md).
 
 | Total bank target | Controlled batch size | Priority and exit criteria |
