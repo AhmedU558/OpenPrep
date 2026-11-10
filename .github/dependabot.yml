@@ -4,7 +4,7 @@ updates:
     directory: /
     schedule:
       interval: weekly
-    open-pull-requests-limit: 5
+    open-pull-requests-limit: 0
     ignore:
       # Remove when typescript-eslint supports TypeScript 7.
       - dependency-name: typescript
@@ -16,6 +16,7 @@ updates:
     directory: /
     schedule:
       interval: weekly
+    open-pull-requests-limit: 0
     groups:
       codeql:
         patterns: ['github/codeql-action*']
