@@ -5,7 +5,7 @@ import { db, type Tx } from './db';
 import { AppError } from './errors';
 import { questionContentSchema, type QuestionContent } from './validation/content';
 import { deliveryRights, exportRights, invalidateRights, lockQuestion } from './content-rights';
-import { createQuestionRevision, isRevisionFullyApproved } from './question-revision';
+import { createQuestionRevision, isRevisionFullyApproved, isRevisionAvailableForPractice } from './question-revision';
 
 export type Actor = { id: string; role: Role };
 const RANK: Record<Role, number> = { LEARNER: 0, EDITOR: 1, ADMIN: 2 };
@@ -189,7 +189,7 @@ export async function setStatus(actor: Actor, rawId: unknown, rawTo: unknown) {
         throw new AppError('FORBIDDEN', 'Verified rights and explicit delivery permission are required before publication.');
       }
 
-      // 2. 3-pillar review approval gate for versioned questions
+      // 2. Require full review or explicit version-bound owner test permission.
       const latestRevision = await tx.questionRevision.findFirst({
         where: { questionId: qid },
         orderBy: { revisionNumber: 'desc' },
@@ -198,7 +198,7 @@ export async function setStatus(actor: Actor, rawId: unknown, rawTo: unknown) {
 
       if (latestRevision) {
         const { approved, missingKinds } = isRevisionFullyApproved(latestRevision.reviews);
-        if (!approved) {
+        if (!approved && !isRevisionAvailableForPractice(latestRevision)) {
           throw new AppError('FORBIDDEN', `Cannot publish: latest revision #${latestRevision.revisionNumber} is not fully approved. Missing or revoked: ${missingKinds.join(', ')}.`);
         }
       }
@@ -229,7 +229,7 @@ export async function getQuestionContent(actor: Actor, rawId: unknown) {
 }
 
 type FullQ = NonNullable<Awaited<ReturnType<typeof fetchForExport>>>[number];
-function toContent(q: FullQ): QuestionContent {
+export function toContent(q: FullQ): QuestionContent {
   return {
     code: q.code, exam: q.exam.name, subject: q.subject.name, system: q.system.name, topic: q.topic?.name, type: q.type, difficulty: q.difficulty,
     stem: q.stemMd, options: q.options.map((o) => ({ text: o.text, correct: o.isCorrect, ...(o.explanationMd ? { explanation: o.explanationMd } : {}) })),

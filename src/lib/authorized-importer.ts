@@ -2,8 +2,9 @@ import type { Tx } from './db';
 import type { Actor } from './admin';
 import { AppError } from './errors';
 import { questionContentSchema, type QuestionContent } from './validation/content';
-import { invalidateRights, lockQuestion } from './content-rights';
-import { createQuestionRevision } from './question-revision';
+import { invalidateRights } from './content-rights';
+import { buildQuestionSnapshot, hashContentSnapshot } from './question-revision';
+import type { Prisma } from '@/generated/prisma/client';
 
 export const authorizedLicensePattern = /^(CC-BY|CC-BY-SA|CC-BY-NC|CC-BY-NC-SA|CC0|Public Domain|Open Access|Institutional Permission|Documented License Grant)(?:-[\d.]+)?/i;
 
@@ -130,128 +131,60 @@ export function validateAuthorizedBatch(rawItems: unknown[]): BatchValidationRes
   };
 }
 
-async function resolveTaxonomy(tx: Tx, actor: Actor, c: QuestionContent) {
-  const exam = await tx.exam.findFirst({ where: { name: c.exam } });
-  if (!exam) throw new AppError('INVALID', `Unknown exam "${c.exam}". Please define it under Taxonomy first.`);
-
-  const getOrCreate = async (kind: 'subject' | 'system', val: string) => {
-    if (kind === 'subject') {
-      const existing = await tx.subject.findUnique({ where: { name: val } });
-      if (existing) return existing.id;
-      const created = await tx.subject.create({ data: { name: val } });
-      return created.id;
-    } else {
-      const existing = await tx.system.findUnique({ where: { name: val } });
-      if (existing) return existing.id;
-      const created = await tx.system.create({ data: { name: val } });
-      return created.id;
-    }
-  };
-
-  const subjectId = await getOrCreate('subject', c.subject);
-  const systemId = await getOrCreate('system', c.system);
-  const topicId = c.topic
-    ? (await tx.topic.upsert({
-        where: { subjectId_name: { subjectId, name: c.topic } },
-        create: { subjectId, name: c.topic },
-        update: {},
-      })).id
-    : null;
-
-  return { examId: exam.id, subjectId, systemId, topicId };
-}
-
-/**
- * Persists validated questions into the database with strict Stage 4B review gating:
- * All newly imported content is marked DRAFT, rightsStatus: UNVERIFIED, rightsAllowDelivery: false.
- */
+/** Create-only batch persistence; existing questions/options/revisions are never rewritten. */
 export async function persistAuthorizedBatch(
-  tx: Tx,
-  actor: Actor,
-  questions: QuestionContent[],
-  options: { dryRun?: boolean; batchId?: string } = {}
+  tx: Tx, actor: Actor, questions: QuestionContent[], options: { dryRun?: boolean; batchId?: string } = {},
 ): Promise<ImportResultSummary> {
   if (actor.role !== 'ADMIN') throw new AppError('FORBIDDEN', 'Only admins can import candidate content.');
-  const summary: ImportResultSummary = {
-    dryRun: !!options.dryRun,
-    created: 0,
-    updated: 0,
-    skipped: 0,
-    errors: [],
-    batchProvenance: [],
-  };
-
-  const provMap = new Map<string, ProvenanceReport>();
-
-  for (const c of questions) {
-    const existing = await tx.question.findUnique({ where: { code: c.code } });
-    if (existing) {
-      await lockQuestion(tx, existing.id);
-      summary.skipped++;
-      continue;
-    }
-
-    const key = `${c.source}||${c.license}||${c.attribution ?? ''}`;
-    const p = provMap.get(key) ?? { source: c.source, license: c.license, attribution: c.attribution, count: 0 };
-    p.count++;
-    provMap.set(key, p);
-    if (options.dryRun) {
-      if (!await tx.exam.findFirst({ where: { name: c.exam } })) throw new AppError('INVALID', `Unknown exam "${c.exam}".`);
-      summary.created++;
-      continue;
-    }
-    const tax = await resolveTaxonomy(tx, actor, c);
-    const data = {
-      code: c.code,
-      type: c.type,
-      difficulty: c.difficulty,
-      stemMd: c.stem,
-      explanationMd: c.explanation,
-      objective: c.objective ?? null,
-      keyPoints: c.keyPoints.length ? c.keyPoints : c.objective ? [c.objective] : [],
-      references: c.references,
-      imageUrl: c.image ?? null,
-      imageAlt: c.imageAlt ?? null,
-      source: c.source,
-      license: c.license,
-      attribution: c.attribution ?? null,
-      ...tax,
-      ...invalidateRights, // Withholds delivery until EDITORIAL/CLINICAL/RIGHTS review
-    };
-
-      const q = await tx.question.create({
-            data: {
-              ...data,
-              status: 'DRAFT',
-              isDemo: false,
-              authorId: actor.id,
-            },
-          });
-
-      // Synchronize options
-      for (let i = 0; i < c.options.length; i++) {
-        const opt = c.options[i]!;
-        await tx.option.create({
-          data: {
-            questionId: q.id,
-            position: i,
-            text: opt.text,
-            isCorrect: opt.correct,
-            explanationMd: opt.explanation ?? null,
-          },
-        });
-      }
-
-      // Record question revision
-      await createQuestionRevision(tx, {
-        questionId: q.id,
-        authorId: actor.id,
-        changeSummary: `Initial candidate import (${options.batchId ?? 'batch'}); human review pending`,
-      });
-
-      summary.created++;
+  const summary: ImportResultSummary = { dryRun: !!options.dryRun, created: 0, updated: 0, skipped: 0, errors: [], batchProvenance: [] };
+  if (!questions.length) return summary;
+  if (questions.length > 100) throw new AppError('INVALID', 'Candidate import batches require at most 100 questions.');
+  const existing = await tx.question.findMany({ where: { code: { in: questions.map(q => q.code) } }, select: { code: true } });
+  const seen = new Set(existing.map(q => q.code));
+  const pending = questions.filter(q => { if (seen.has(q.code)) { summary.skipped++; return false; } seen.add(q.code); return true; });
+  if (!pending.length) return summary;
+  const provenance = new Map<string, ProvenanceReport>();
+  for (const q of pending) {
+    const key = `${q.source}||${q.license}||${q.attribution ?? ''}`;
+    const value = provenance.get(key) ?? { source: q.source, license: q.license, attribution: q.attribution, count: 0 };
+    value.count++; provenance.set(key, value);
   }
-
-  summary.batchProvenance = Array.from(provMap.values());
+  summary.batchProvenance = [...provenance.values()];
+  const names = (key: 'exam' | 'subject' | 'system') => [...new Set(pending.map(q => q[key]))];
+  const exams = await tx.exam.findMany({ where: { name: { in: names('exam') } } });
+  for (const name of names('exam')) if (!exams.some(e => e.name === name)) throw new AppError('INVALID', `Unknown exam "${name}".`);
+  if (options.dryRun) { summary.created = pending.length; return summary; }
+  await tx.subject.createMany({ data: names('subject').map(name => ({ name })), skipDuplicates: true });
+  await tx.system.createMany({ data: names('system').map(name => ({ name })), skipDuplicates: true });
+  const subjects = await tx.subject.findMany({ where: { name: { in: names('subject') } } });
+  const systems = await tx.system.findMany({ where: { name: { in: names('system') } } });
+  const subjectId = (q: QuestionContent) => subjects.find(s => s.name === q.subject)!.id;
+  const topicData = [...new Map(pending.filter(q => q.topic).map(q => [`${subjectId(q)}|${q.topic}`, { subjectId: subjectId(q), name: q.topic! }])).values()];
+  if (topicData.length) await tx.topic.createMany({ data: topicData, skipDuplicates: true });
+  const topics = topicData.length ? await tx.topic.findMany({ where: { OR: topicData } }) : [];
+  const created = await tx.question.createManyAndReturn({ data: pending.map(q => ({
+    code: q.code, type: q.type, difficulty: q.difficulty, stemMd: q.stem, explanationMd: q.explanation,
+    objective: q.objective ?? null, keyPoints: q.keyPoints.length ? q.keyPoints : q.objective ? [q.objective] : [],
+    references: q.references, imageUrl: q.image ?? null, imageAlt: q.imageAlt ?? null, source: q.source,
+    license: q.license, attribution: q.attribution ?? null, examId: exams.find(e => e.name === q.exam)!.id,
+    subjectId: subjectId(q), systemId: systems.find(s => s.name === q.system)!.id,
+    topicId: q.topic ? topics.find(t => t.subjectId === subjectId(q) && t.name === q.topic)!.id : null,
+    ...invalidateRights, status: 'DRAFT', isDemo: false, authorId: actor.id,
+  })) });
+  await tx.option.createMany({ data: created.flatMap(q => pending.find(c => c.code === q.code)!.options.map((o, position) => ({
+    questionId: q.id, position, text: o.text, isCorrect: o.correct, explanationMd: o.explanation ?? null,
+  }))) });
+  await tx.questionRevision.createMany({ data: created.map(q => {
+    const c = pending.find(c => c.code === q.code)!;
+    const snapshot = buildQuestionSnapshot({ ...q,
+      exam: { slug: exams.find(e => e.id === q.examId)!.slug }, subject: { name: c.subject }, system: { name: c.system },
+      topic: c.topic ? { name: c.topic } : null,
+      options: c.options.map((o, position) => ({ position, text: o.text, isCorrect: o.correct, explanationMd: o.explanation ?? null })),
+    });
+    return { questionId: q.id, revisionNumber: 1, schemaVersion: 1, contentHash: hashContentSnapshot(snapshot),
+      contentSnapshot: snapshot as unknown as Prisma.InputJsonValue, authorId: actor.id,
+      changeSummary: `Initial candidate import (${options.batchId ?? 'batch'}); human review pending` };
+  }) });
+  summary.created = created.length;
   return summary;
 }

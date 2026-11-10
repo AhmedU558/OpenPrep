@@ -1,0 +1,536 @@
+[
+  {
+    "code": "op-pilot-s1-0001",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Cardiovascular",
+    "topic": "Valvular Hemodynamics & Pulmonary Vascular Remodeling",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old immigrant woman presents with progressive exertional dyspnea, orthopnea, and occasional blood-tinged sputum over the past 8 months. She had multiple episodes of febrile pharyngitis during childhood. Auscultation reveals a loud first heart sound, an opening snap shortly after the second heart sound, and a low-pitched mid-diastolic rumbling murmur heard best at the cardiac apex in the left lateral decubitus position. Right heart catheterization is performed, revealing: right atrial pressure 14 mmHg (normal: 2–6), right ventricular pressure 68/14 mmHg, pulmonary artery pressure 68/38 mmHg (mean PAP: 48 mmHg; normal: 10–20), pulmonary capillary wedge pressure (PCWP) 22 mmHg (normal: 4–12), and thermodilution cardiac output 3.2 L/min (cardiac index: 1.8 L/min/m²). Transmitral mean gradient is 14 mmHg. Which of the following vascular histopathological alterations is primarily responsible for the pre-capillary pulmonary vascular remodeling demonstrated by these catheterization findings?",
+    "options": [
+      {
+        "text": "Concentric lamellar plexiform vascular malformations resulting from endothelial hyperproliferation",
+        "correct": false,
+        "explanation": "Plexiform lesions are complex glomeruloid-like vascular structures characteristic of advanced, severe idiopathic pulmonary arterial hypertension (IPAH, associated with BMPR2 mutations), but are not the primary reactive remodeling lesion seen in secondary post-capillary pulmonary hypertension."
+      },
+      {
+        "text": "Extensive post-capillary fibrous intimal obliteration and venular muscularization",
+        "correct": false,
+        "explanation": "Post-capillary venular fibrous occlusion is pathognomonic of pulmonary veno-occlusive disease (PVOD), an uncommon cause of pre-capillary pulmonary hypertension that characteristically demonstrates normal or low PCWP rather than the elevated PCWP seen in mitral stenosis."
+      },
+      {
+        "text": "Smooth muscle medial hypertrophy and luminal intimal fibroelastosis of muscular pulmonary arterioles",
+        "correct": true,
+        "explanation": "This patient has severe rheumatic mitral stenosis complicated by combined post-capillary and pre-capillary pulmonary hypertension (CpcPH). Right heart catheterization provides unambiguous, quantitative hemodynamic proof of secondary pre-capillary remodeling: (1) Transpulmonary Pressure Gradient (TPG = mean PAP - PCWP = 48 - 22 = 26 mmHg; normal <= 12 mmHg), (2) Diastolic Pressure Gradient (DPG = diastolic PAP - PCWP = 38 - 22 = 16 mmHg; normal < 7 mmHg), and (3) Pulmonary Vascular Resistance (PVR = [mean PAP - PCWP] / CO = 26 / 3.2 = 8.1 Wood units; normal < 2 Wood units). While elevated PCWP (22 mmHg) reflects passive retrograde transmission of elevated left atrial pressure, the severely elevated TPG (26 mmHg), DPG (16 mmHg), and PVR (8.1 Wood units) demonstrate that secondary structural vascular remodeling has occurred in the pre-capillary pulmonary arteriolar bed. Chronic venous hypertension induces reactive vasoconstriction followed by smooth muscle medial hypertrophy and concentric intimal fibroelastosis of muscular pulmonary arterioles, which increases right ventricular afterload and precipitates cor pulmonale."
+      },
+      {
+        "text": "Widespread destruction of interalveolar septal capillary beds with panacinar airspace enlargement",
+        "correct": false,
+        "explanation": "Interalveolar capillary loss with airspace enlargement describes emphysematous lung destruction, which occurs in chronic obstructive pulmonary disease rather than reactive mitral stenosis remodeling."
+      },
+      {
+        "text": "Marked precapillary and capillary arteriovenous microvascular dilatation without intimal proliferation",
+        "correct": false,
+        "explanation": "Capillary and precapillary arteriovenous dilatations are characteristic of hepatopulmonary syndrome, producing intrapulmonary shunting rather than pulmonary arterial hypertension."
+      }
+    ],
+    "explanation": "Catheterization in severe mitral stenosis demonstrating elevated TPG (26 mmHg), DPG (16 mmHg), and PVR (8.1 Wood units) confirms combined post-capillary and pre-capillary pulmonary hypertension. The pre-capillary component is driven by medial hypertrophy and intimal fibroelastosis of muscular pulmonary arterioles.",
+    "objective": "Diagnose combined post-capillary and pre-capillary pulmonary hypertension using elevated TPG (> 12 mmHg), DPG (>= 7 mmHg), and PVR (> 3 Wood units), identifying arteriolar medial hypertrophy and intimal fibroelastosis as the underlying vascular pathology.",
+    "keyPoints": [
+      "Mitral stenosis causes elevated PCWP (passive post-capillary pulmonary hypertension).",
+      "TPG = mean PAP - PCWP = 26 mmHg (> 12) and DPG = diastolic PAP - PCWP = 16 mmHg (>= 7) confirm superimposed pre-capillary remodeling.",
+      "PVR = (mean PAP - PCWP) / CO = 8.1 Wood units (> 3) proves severe precapillary arteriolar remodeling.",
+      "Vascular histopathology features smooth muscle medial hypertrophy and intimal fibroelastosis of muscular pulmonary arterioles."
+    ],
+    "references": [
+      {
+        "label": "2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease, Section 6: Mitral Stenosis, Subsection 6.1.1 Pathophysiology",
+        "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000923"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s1-0002",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Renal Tubular Acidosis Cellular Electrogenics",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old man with a 16-year history of poorly controlled type 2 diabetes mellitus presents for routine evaluation. His medications are metformin 1000 mg twice daily, glimepiride 4 mg daily, and atorvastatin 40 mg daily. Blood pressure is 138/84 mmHg. Serum laboratories show: sodium 139 mEq/L, potassium 5.8 mEq/L, chloride 111 mEq/L, bicarbonate 17 mEq/L, BUN 34 mg/dL, and serum creatinine 1.8 mg/dL (eGFR 42 mL/min/1.73m²). Arterial blood gas shows pH 7.32 and PaCO2 33 mmHg. Urine pH is 5.2. Urine electrolytes reveal: sodium 48 mEq/L, potassium 22 mEq/L, and chloride 60 mEq/L (urine net charge: [Na+ + K+] - Cl- = +10 mEq/L). Which of the following transport mechanisms is directly impaired, causing both the hyperkalemia and the impaired ammonium excretion in this patient?",
+    "options": [
+      {
+        "text": "Epithelial sodium channel (ENaC) electrogenic sodium reabsorption leading to diminished lumen-negative transepithelial potential",
+        "correct": true,
+        "explanation": "This patient has Type 4 Renal Tubular Acidosis (hyporeninemic hypoaldosteronism secondary to diabetic nephropathy). Aldosterone deficiency or tubular resistance leads to decreased expression and activity of apical epithelial sodium channels (ENaC) in principal cells of the cortical collecting duct. Normally, electrogenic sodium entry via ENaC generates a negative transepithelial luminal voltage (-10 to -50 mV), which creates the electrical driving force for potassium secretion via ROMK/BK channels and proton secretion via intercalated cell H+-ATPase. Impaired ENaC function eliminates this lumen-negative potential, directly causing hyperkalemia and decreased proton excretion. Furthermore, the resulting hyperkalemia enters proximal tubular cells and shifts hydrogen ions out, raising intracellular pH and suppressing renal ammoniagenesis, resulting in impaired total ammonium excretion (demonstrated by the positive urine net charge)."
+      },
+      {
+        "text": "Apical vacuolar H+-ATPase proton pumping in alpha-intercalated cells of the medullary collecting duct",
+        "correct": false,
+        "explanation": "Primary failure of apical H+-ATPase pumps occurs in classical distal (Type 1) RTA, which typically presents with hypokalemia (due to secondary hyperaldosteronism) and an inability to acidify urine (urine pH > 5.5)."
+      },
+      {
+        "text": "Basolateral sodium-bicarbonate cotransporter (NBCe1) in proximal convoluted tubular epithelial cells",
+        "correct": false,
+        "explanation": "Defects in basolateral NBCe1 cause proximal (Type 2) RTA, characterized by impaired bicarbonate reabsorption, hypokalemia, and normal distal urinary acidification once plasma bicarbonate drops below the renal threshold."
+      },
+      {
+        "text": "Luminal sodium-hydrogen antiporter 3 (NHE3) across the apical brush border of the proximal tubule",
+        "correct": false,
+        "explanation": "Apical NHE3 drives proximal tubular sodium reabsorption and proton secretion; its defect causes bicarbonate wasting (proximal RTA) rather than hyperkalemic Type 4 RTA."
+      },
+      {
+        "text": "Apical sodium-potassium-2-chloride (NKCC2) electroneutral cotransport in the thick ascending limb of Henle",
+        "correct": false,
+        "explanation": "Inhibition or defect of NKCC2 (Bartter syndrome or loop diuretics) causes hypokalemic hypochloremic metabolic alkalosis, the opposite of this patient's hyperkalemic metabolic acidosis."
+      }
+    ],
+    "explanation": "Type 4 RTA results from aldosterone deficiency or resistance in diabetic nephropathy. Decreased ENaC sodium reabsorption blunts the lumen-negative luminal potential, impairing potassium secretion and causing hyperkalemia, which secondarily suppresses ammoniagenesis.",
+    "objective": "Explain the electrogenic mechanism by which reduced ENaC activity in principal cells produces hyperkalemia and impairs proton/ammonium excretion in Type 4 RTA.",
+    "keyPoints": [
+      "Diabetic nephropathy is the most common cause of Type 4 RTA (hyporeninemic hypoaldosteronism).",
+      "ENaC-mediated electrogenic Na+ reabsorption creates the lumen-negative potential required for K+ and H+ secretion.",
+      "Hyperkalemia directly inhibits proximal tubular glutamine deamination and ammoniagenesis, resulting in reduced NH4+ excretion."
+    ],
+    "references": [
+      {
+        "label": "Palmer BF, Kelepouris E, Clegg DJ. Renal Tubular Acidosis: A Contemporary Approach. Am J Nephrol 2021;52:783–794. Section: Hyperkalemic Distal RTA (Type 4 RTA)",
+        "url": "https://karger.com/ajn/article/52/10-11/783/822606/Renal-Tubular-Acidosis-A-Contemporary-Approach"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s1-0003",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Gas Exchange Mechanisms & Microvascular Dilatation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man with decompensated alcoholic cirrhosis presents with worsening breathlessness that develops within 2 minutes of transitioning from a recumbent to an upright posture. Physical examination reveals spider angiomas, palmar erythema, and moderate ascites. Pulse oximetry on room air shows an oxygen saturation of 94% while lying supine, which drops abruptly to 83% upon standing upright. Arterial blood gas while upright on room air reveals: pH 7.45, PaCO2 31 mmHg, and PaO2 54 mmHg (calculated alveolar-arterial oxygen gradient: 58 mmHg; normal < 15 mmHg). When the patient inhales 100% oxygen while remaining upright, his PaO2 increases from 54 mmHg to 285 mmHg. Which of the following pathophysiological mechanisms accounts for this clinical phenomenon?",
+    "options": [
+      {
+        "text": "Anatomical right-to-left intracardiac shunting through a patent foramen ovale secondary to elevated right atrial pressure",
+        "correct": false,
+        "explanation": "In true anatomical right-to-left shunting (e.g. patent foramen ovale with right-to-left flow), desaturated blood completely bypasses ventilated alveoli; breathing 100% oxygen fails to achieve a substantial rise in arterial PaO2 (typically remaining < 100 mmHg), unlike this patient's rise to 285 mmHg."
+      },
+      {
+        "text": "Increased alveolar-capillary membrane diffusion barrier thickness due to diffuse interstitial pulmonary fibrosis",
+        "correct": false,
+        "explanation": "Diffuse alveolar-capillary thickening (idiopathic pulmonary fibrosis) impairs diffusion but does not demonstrate prominent postural desaturation upon standing nor is it causally linked to end-stage cirrhosis."
+      },
+      {
+        "text": "Intrapulmonary shunt physiology caused by alveolar flooding and extensive microatelectasis in dependent lung bases",
+        "correct": false,
+        "explanation": "Alveolar collapse or flooding (shunt) similarly fails to correct significantly with supplemental oxygen because blood perfuses non-ventilated alveoli."
+      },
+      {
+        "text": "Precapillary and capillary pulmonary arteriovenous dilatation with diffusion-perfusion impairment in dependent lung zones",
+        "correct": true,
+        "explanation": "This patient has Hepatopulmonary Syndrome (HPS), characterized by cirrhosis, arterial hypoxemia with widened A-a gradient, and intrapulmonary vascular dilatations (IPVDs). Hepatic clearance failure leads to excess circulating vasodilators (particularly endothelin-1 stimulating endothelial nitric oxide synthase). Precapillary and capillary vessels dilate to 15–100 um (normal < 8 um). In the upright position, gravity shifts blood flow to the dilated dependent lung bases, dramatically accelerating erythrocyte transit and increasing the physical diffusion distance from the alveolar wall to the center of the dilated vessel (diffusion-perfusion impairment). Supplying 100% oxygen dramatically raises alveolar PO2, driving oxygen diffusion into the center of dilated vessels and partially correcting PaO2 (to 285 mmHg), ruling out a fixed anatomical shunt."
+      },
+      {
+        "text": "Reduced mixed venous oxygen saturation resulting from severe hyperdynamic circulatory cardiac output failure",
+        "correct": false,
+        "explanation": "Cirrhosis characteristically produces a high-output, low systemic vascular resistance state with normal or elevated mixed venous oxygen saturation, not low-output failure."
+      }
+    ],
+    "explanation": "Hepatopulmonary syndrome causes gross dilatation of pulmonary precapillary and capillary vessels. Upright posture shifts perfusion to dependent lung bases, worsening diffusion-perfusion limitation; supplemental 100% oxygen overcomes the diffusion barrier, increasing PaO2.",
+    "objective": "Analyze the gas exchange abnormality in hepatopulmonary syndrome, distinguishing diffusion-perfusion impairment from anatomical right-to-left shunt using supplemental 100% oxygen.",
+    "keyPoints": [
+      "HPS triad: liver disease, widened A-a gradient, and intrapulmonary vascular dilatations.",
+      "Gravity shifts perfusion to dilated dependent vessels upon standing, worsening hypoxemia.",
+      "100% oxygen overcomes diffusion distance in dilated vessels (raising PaO2 > 200 mmHg), whereas true anatomical shunt does not correct."
+    ],
+    "references": [
+      {
+        "label": "Rodriguez-Roisin R, Krowka MJ. Hepatopulmonary Syndrome — A Liver-Induced Lung Vascular Disorder. N Engl J Med 2008;358:2378–2387. Section: Pathophysiology and Arterial Hypoxemia",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMra0707185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s1-0004",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Endocrine",
+    "topic": "Steroidogenesis Intermediates & Hypertensive CAH",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 3-week-old infant with a 46,XX karyotype is evaluated for ambiguous genitalia. Physical examination reveals clitoromegaly and fused labioscrotal folds. Blood pressure is 118/74 mmHg (above the 99th percentile for age). Serum electrolytes reveal: sodium 144 mEq/L, potassium 3.1 mEq/L, chloride 101 mEq/L, and bicarbonate 28 mEq/L. Serum glucose is 82 mg/dL. Karyotype is confirmed 46,XX. Abdominal ultrasound demonstrates bilateral adrenal cortical enlargement and normal female internal pelvic structures (uterus and ovaries present). Which of the following steroid hormone intermediates is most likely elevated in this patient's serum and directly accounts for the patient's hypertensive and hypokalemic presentation?",
+    "options": [
+      {
+        "text": "17-Hydroxyprogesterone",
+        "correct": false,
+        "explanation": "17-Hydroxyprogesterone is elevated in 11beta-hydroxylase deficiency (as well as 21-hydroxylase deficiency) due to upstream accumulation; however, 17-OHP has zero mineralocorticoid activity and cannot cause hypertension or hypokalemia."
+      },
+      {
+        "text": "11-Deoxycorticosterone",
+        "correct": true,
+        "explanation": "This infant has 11beta-hydroxylase (CYP11B1) deficiency, the second most common form of Congenital Adrenal Hyperplasia (CAH). Deficiency of 11beta-hydroxylase prevents the conversion of 11-deoxycorticosterone (DOC) to corticosterone, and 11-deoxycortisol to cortisol. Decreased cortisol synthesis removes negative feedback inhibition on the pituitary gland, driving massive ACTH hypersecretion. Excess ACTH shunts steroid precursors into the androgen synthesis pathway (causing excess DHEA, androstenedione, and testosterone, producing virilization and ambiguous genitalia in 46,XX infants). Crucially, 11-deoxycorticosterone (DOC) accumulates to high concentrations. DOC is a potent mineralocorticoid; its excess activates renal collecting duct mineralocorticoid receptors, causing sodium retention, plasma volume expansion, hypertension, and hypokalemic metabolic alkalosis, with secondary suppression of renin and aldosterone."
+      },
+      {
+        "text": "Corticosterone",
+        "correct": false,
+        "explanation": "Corticosterone is the downstream product of 11beta-hydroxylase acting on 11-deoxycorticosterone; its synthesis is impaired in 11beta-hydroxylase deficiency."
+      },
+      {
+        "text": "Aldosterone",
+        "correct": false,
+        "explanation": "Aldosterone synthesis is suppressed because volume expansion and hypertension induced by DOC suppress the renin-angiotensin-aldosterone axis."
+      },
+      {
+        "text": "Dehydroepiandrosterone sulfate (DHEA-S)",
+        "correct": false,
+        "explanation": "DHEA-S and downstream androgens are elevated and cause virilization, but they do not possess mineralocorticoid activity and do not cause hypertension or hypokalemia."
+      }
+    ],
+    "explanation": "11beta-hydroxylase deficiency impairs conversion of 11-deoxycorticosterone (DOC) to corticosterone and 11-deoxycortisol to cortisol. High ACTH drives androgen excess (virilization) and massive DOC accumulation, which acts as a mineralocorticoid causing hypertension and hypokalemia.",
+    "objective": "Identify 11-deoxycorticosterone as the mineralocorticoid intermediate responsible for hypertension and hypokalemia in 11beta-hydroxylase deficiency.",
+    "keyPoints": [
+      "11beta-hydroxylase deficiency causes virilization (ambiguous genitalia in 46,XX) and hypertension.",
+      "11-Deoxycorticosterone (DOC) accumulates upstream and possesses mineralocorticoid activity.",
+      "In contrast, 21-hydroxylase deficiency presents with hypotension, hyperkalemia, and salt wasting."
+    ],
+    "references": [
+      {
+        "label": "Speiser PW, Arlt W, Auchus RJ, et al. Congenital Adrenal Hyperplasia: Endocrine Society Guideline. J Clin Endocrinol Metab 2018;103:4043–4088. Section 1: Steroid Pathways and 11β-Hydroxylase Deficiency",
+        "url": "https://academic.oup.com/jcem/article/103/11/4043/5107937"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s1-0005",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Canalicular Organic Anion Transport Mutations",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 23-year-old woman presents to her primary care physician for evaluation of mild, recurrent yellowing of the sclerae that becomes more noticeable during periods of physical exhaustion, viral infections, and fasting. She is asymptomatic and has no abdominal pain, pruritus, dark urine, or pale stools. Physical examination shows mild scleral icterus and no hepatosplenomegaly or abdominal tenderness. Laboratory studies reveal: total bilirubin 3.8 mg/dL, direct (conjugated) bilirubin 2.9 mg/dL (normal: 0.0–0.3), AST 22 U/L, ALT 24 U/L, alkaline phosphatase 68 U/L, and normal complete blood count with normal reticulocyte count. Abdominal ultrasonography reveals normal liver parenchyma, normal gallbladder without calculi, and non-dilated extrahepatic and intrahepatic biliary ducts. Urinary coproporphyrin analysis demonstrates a normal total 24-hour coproporphyrin excretion, but 88% of the excreted coproporphyrin consists of the isomer I fraction (normal isomer I fraction < 25%). Which of the following transport proteins is functionally defective in this patient?",
+    "options": [
+      {
+        "text": "Basolateral sodium-taurocholate cotransporting polypeptide (NTCP encoded by SLC10A1)",
+        "correct": false,
+        "explanation": "NTCP mediates basolateral bile acid uptake into hepatocytes; its disruption does not cause isolated direct hyperbilirubinemia or inverted coproporphyrin excretion."
+      },
+      {
+        "text": "Canalicular bile salt export pump (BSEP encoded by ABCB11)",
+        "correct": false,
+        "explanation": "BSEP mediates canalicular export of bile acids; genetic defects cause progressive familial intrahepatic cholestasis type 2 (PFIC2), presenting with intractable pruritus and elevated bile salts, not benign direct hyperbilirubinemia."
+      },
+      {
+        "text": "Endoplasmic reticulum UDP-glucuronosyltransferase 1A1 (UGT1A1)",
+        "correct": false,
+        "explanation": "UGT1A1 defects (Gilbert and Crigler-Najjar syndromes) cause unconjugated (indirect) hyperbilirubinemia, whereas this patient has predominantly direct (conjugated) hyperbilirubinemia."
+      },
+      {
+        "text": "Basolateral organic anion transporting polypeptide 1B1/1B3 (OATP1B1/OATP1B3)",
+        "correct": false,
+        "explanation": "Co-inactivation of both OATP1B1 and OATP1B3 causes Rotor syndrome. While Rotor syndrome also presents with benign conjugated hyperbilirubinemia, it is distinguished biochemically by a marked 3- to 5-fold elevation in total 24-hour urinary coproporphyrin excretion with an isomer I fraction around 65%, whereas Dubin-Johnson syndrome has normal total coproporphyrin excretion with >80% isomer I."
+      },
+      {
+        "text": "Canalicular multidrug resistance-associated protein 2 (MRP2 encoded by ABCC2)",
+        "correct": true,
+        "explanation": "This patient has Dubin-Johnson syndrome, an autosomal recessive disorder caused by mutations in the ABCC2 gene, which encodes the ATP-dependent canalicular multidrug resistance-associated protein 2 (MRP2). MRP2 exports conjugated bilirubin, glutathione conjugates, and organic anions across the hepatocyte canalicular membrane into bile. Impaired MRP2 function leads to regurgitation of conjugated bilirubin into the systemic circulation, causing isolated conjugated hyperbilirubinemia with normal hepatic transaminases, normal alkaline phosphatase, and absence of biliary obstruction. A pathognomonic diagnostic feature is abnormal urinary coproporphyrin partitioning: while total 24-hour excretion is normal, >80% is excreted as isomer I (coproporphyrin I) rather than the normal isomer III, due to impaired canalicular excretion of isomer I with preferential urinary excretion."
+      }
+    ],
+    "explanation": "Dubin-Johnson syndrome is caused by inherited deficiency of canalicular MRP2 (encoded by ABCC2), which transports conjugated bilirubin and organic anions into bile. It presents with isolated conjugated hyperbilirubinemia and a urinary coproporphyrin I fraction > 80% with normal total excretion.",
+    "objective": "Distinguish Dubin-Johnson syndrome from Rotor syndrome and unconjugated hyperbilirubinemias using the canalicular MRP2 transporter defect and urinary coproporphyrin isomer partitioning.",
+    "keyPoints": [
+      "Dubin-Johnson syndrome: defective MRP2 (ABCC2), impaired canalicular export of conjugated bilirubin.",
+      "Urinary coproporphyrin: normal total excretion, but >80% isomer I (pathognomonic distinction from Rotor).",
+      "Liver histology shows coarse melanin-like pigment in lysosomes; Rotor syndrome lacks hepatic pigmentation."
+    ],
+    "references": [
+      {
+        "label": "Keppler D. The canalicular conjugate export pump encoded by the ABCC2 (MRP2) gene: from discovery to clinical importance. Hepatology 2014;59:1160–1172. Section: Canalicular Transporters and Dubin-Johnson Syndrome",
+        "url": "https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep.26629"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s1-0006",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "Coagulation Assay Discrepancy & Direct Thrombin Inhibition",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old man who developed heparin-induced thrombocytopenia with a right femoral deep venous thrombosis following coronary artery bypass grafting is switched to a continuous intravenous infusion of argatroban. After 24 hours of therapy, the patient is hemodynamically stable without evidence of bleeding or recurrent thrombosis. Coagulation laboratory evaluation reveals: prothrombin time (PT) 22.4 seconds (INR: 2.1), activated partial thromboplastin time (aPTT) 62 seconds (therapeutic range: 50–70 seconds), and thrombin time (TT) > 150 seconds (markedly prolonged; normal: 14–19 seconds). However, when a reptilase (batroxobin) clotting time is performed on the identical plasma specimen, the clotting time is 16 seconds (completely normal; normal: 15–20 seconds). Which of the following molecular mechanisms explains why this patient's thrombin time is markedly prolonged while the reptilase clotting time remains completely normal?",
+    "options": [
+      {
+        "text": "Competitive displacement of tissue factor pathway inhibitor from the endothelial surface",
+        "correct": false,
+        "explanation": "Tissue factor pathway inhibitor (TFPI) inhibits the extrinsic tenase complex (tissue factor-VIIa); its modulation affects extrinsic initiation of coagulation but does not produce isolated thrombin time prolongation with normal reptilase time."
+      },
+      {
+        "text": "Specific antibody-mediated clearance of circulating plasma factor VIII complexes",
+        "correct": false,
+        "explanation": "Factor VIII inhibitors prolong the aPTT by impairing intrinsic tenase assembly, but have zero effect on the conversion of fibrinogen to fibrin measured by the thrombin time or reptilase time."
+      },
+      {
+        "text": "Direct inhibition of factor Xa-mediated prothrombinase assembly on platelet membranes",
+        "correct": false,
+        "explanation": "Direct factor Xa inhibitors (such as apixaban and rivaroxaban) block factor Xa within the prothrombinase complex, prolonging PT and aPTT, but do not inhibit exogenously added thrombin and therefore do not prolong the thrombin time."
+      },
+      {
+        "text": "Structural mutation in fibrinogen causing impaired fibrinopeptide A enzymatic cleavage",
+        "correct": false,
+        "explanation": "Inherited or acquired dysfibrinogenemias impair the cleavage of fibrinopeptides by both thrombin and batroxobin, resulting in prolongation of BOTH the thrombin time and the reptilase clotting time."
+      },
+      {
+        "text": "Direct reversible binding to the catalytic active site of thrombin without inhibiting batroxobin snake venom protease",
+        "correct": true,
+        "explanation": "Argatroban is a small-molecule, univalent direct thrombin inhibitor (DTI) that binds reversibly to the catalytic active site of both free and fibrin-bound thrombin. The thrombin time (TT) is an assay in which exogenous human or bovine thrombin is added to citrated plasma to directly measure the rate of fibrin clot formation; active direct thrombin inhibitors (argatroban, bivalirudin, dabigatran) potently inhibit this exogenously added thrombin, rendering the thrombin time profoundly prolonged (> 150 seconds). In contrast, the reptilase clotting time utilizes batroxobin, a thrombin-like snake venom serine protease isolated from Bothrops atrox that cleaves fibrinopeptide A from fibrinogen to generate fibrin monomers. Batroxobin is structurally distinct from human thrombin and is completely unaffected by direct thrombin inhibitors or heparin-antithrombin complexes. Therefore, the presence of argatroban markedly prolongs the thrombin time while leaving the reptilase time completely normal. If the patient had hypofibrinogenemia, dysfibrinogenemia, or interfering fibrin degradation products, BOTH the thrombin time and the reptilase time would be prolonged."
+      }
+    ],
+    "explanation": "Argatroban directly inhibits thrombin's active site, profoundly prolonging the thrombin time. Batroxobin (reptilase) cleaves fibrinogen via a distinct protease mechanism resistant to thrombin inhibitors, yielding a completely normal reptilase time.",
+    "objective": "Differentiate direct thrombin inhibition from fibrinogen disorders using the discordance between a markedly prolonged thrombin time and a normal reptilase clotting time.",
+    "keyPoints": [
+      "Argatroban directly inhibits the catalytic active site of free and clot-bound thrombin.",
+      "Thrombin time (TT) measures conversion of fibrinogen to fibrin by exogenous thrombin and is profoundly prolonged by DTIs.",
+      "Reptilase time uses batroxobin (cleaves fibrinopeptide A) and is unaffected by thrombin inhibitors or heparin.",
+      "A prolonged TT with normal reptilase time confirms drug-mediated thrombin inhibition and rules out dysfibrinogenemia."
+    ],
+    "references": [
+      {
+        "label": "Bates SM, Weitz JI. Coagulation Assays. Circulation 2005;112:e53–e60. Section: Thrombin Time and Reptilase Time",
+        "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.104.478222"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s1-0007",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "General Principles",
+    "topic": "Microbial Clearance in Respiratory Burst Deficiency",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 2-year-old boy is hospitalized with a large hepatic abscess requiring percutaneous drainage, which cultures positive for Serratia marcescens. His past medical history is notable for recurrent cervical lymphadenitis at 9 months and persistent osteomyelitis of the talus caused by Staphylococcus aureus at 16 months. A nitroblue tetrazolium (NBT) slide test demonstrates that 0% of the patient's activated neutrophils convert yellow soluble nitroblue tetrazolium into insoluble blue-black formazan deposits. Quantitative flow cytometry using dihydrorhodamine-123 (DHR) demonstrates complete absence of green fluorescence enhancement following stimulation with phorbol myristate acetate. Which of the following microorganisms is this patient's neutrophils still capable of effectively killing within the phagolysosome despite the defective enzyme complex?",
+    "options": [
+      {
+        "text": "Burkholderia cepacia",
+        "correct": false,
+        "explanation": "Burkholderia cepacia is a classic catalase-positive Gram-negative bacillus and a major cause of recurrent life-threatening pneumonia and septicemia in patients with CGD."
+      },
+      {
+        "text": "Aspergillus fumigatus",
+        "correct": false,
+        "explanation": "Aspergillus fumigatus is a catalase-positive fungal pathogen and the leading cause of infectious mortality in patients with CGD due to invasive pulmonary disease."
+      },
+      {
+        "text": "Streptococcus pneumoniae",
+        "correct": true,
+        "explanation": "This patient has Chronic Granulomatous Disease (CGD), an inherited primary immunodeficiency caused by mutations in components of the phagocyte NADPH oxidase complex (e.g., gp91-phox encoded by CYBB). As demonstrated by the negative NBT and DHR tests, the patient's phagocytes are completely unable to generate superoxide (O2-) and therefore have no endogenous respiratory burst. Patients are highly susceptible to catalase-positive pathogens (S. aureus, Serratia marcescens, Burkholderia cepacia, Nocardia, Aspergillus) because these organisms produce microbial catalase, which degrades the small amounts of hydrogen peroxide (H2O2) produced by the organism's own metabolism. In contrast, catalase-negative organisms (such as Streptococcus pneumoniae and Streptococcus pyogenes) produce metabolic H2O2 as a natural byproduct of their own metabolism but lack catalase to degrade it. Inside the phagolysosome, the bacterium's own H2O2 accumulates; host myeloperoxidase (which is entirely intact in CGD) uses this bacterial H2O2 to generate hypochlorous acid (HOCl), successfully killing the organism without requiring any host respiratory burst."
+      },
+      {
+        "text": "Nocardia asteroides",
+        "correct": false,
+        "explanation": "Nocardia is a catalase-positive, partially acid-fast filamentous bacterium that causes pulmonary and brain abscesses in CGD patients."
+      },
+      {
+        "text": "Staphylococcus epidermidis",
+        "correct": false,
+        "explanation": "Staphylococcus epidermidis is catalase-positive (like all Staphylococci) and destroys its own hydrogen peroxide, evading killing in CGD phagosomes."
+      }
+    ],
+    "explanation": "In Chronic Granulomatous Disease, phagocytes cannot generate superoxide. Catalase-negative organisms like Streptococcus pneumoniae produce endogenous hydrogen peroxide and lack catalase; host myeloperoxidase uses this bacterial H2O2 to generate hypochlorous acid, successfully killing the organism.",
+    "objective": "Explain why patients with Chronic Granulomatous Disease are susceptible to catalase-positive organisms but clear catalase-negative pathogens via microbial H2O2 and host myeloperoxidase.",
+    "keyPoints": [
+      "CGD is caused by NADPH oxidase deficiency, resulting in failure of the respiratory burst (negative NBT and DHR tests).",
+      "Catalase-positive organisms degrade their own H2O2, resisting clearance in CGD phagocytes.",
+      "Catalase-negative organisms (Streptococcus pneumoniae) generate H2O2 without catalase, enabling host myeloperoxidase to kill them."
+    ],
+    "references": [
+      {
+        "label": "Holland SM. Chronic Granulomatous Disease. Hematol Oncol Clin North Am 2013;27:89–99. Section: Mechanisms of Microbial Killing and Vulnerability to Catalase-Positive Pathogens",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0889856112001140"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s1-0008",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Inducible Chromosomal AmpC Beta-Lactamase Derepression",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old woman hospitalized for complicated pyelonephritis and urosepsis is initially treated with intravenous ceftriaxone. Initial blood and urine cultures grow Enterobacter cloacae that tests fully susceptible to ceftriaxone (MIC 0.5 mcg/mL), ceftazidime (MIC 1 mcg/mL), piperacillin-tazobactam (MIC 4 mcg/mL), cefepime (MIC 0.5 mcg/mL), and meropenem (MIC 0.25 mcg/mL). The patient shows initial symptomatic improvement over the first 48 hours. However, on hospital day 5 of continued ceftriaxone monotherapy, she develops recurrent fevers (39.1 C), rigors, and worsening flank pain. Repeat blood cultures grow Enterobacter cloacae with an identical pulse-field gel electrophoresis profile, but repeat antimicrobial susceptibility testing now demonstrates high-level resistance to ceftriaxone (MIC > 64 mcg/mL), ceftazidime (MIC > 32 mcg/mL), and piperacillin-tazobactam (MIC > 64 mcg/mL), while remaining fully susceptible to cefepime (MIC 0.5 mcg/mL) and meropenem (MIC 0.25 mcg/mL). Which of the following molecular mechanisms is responsible for the emergence of broad beta-lactam resistance during therapy in this patient's isolate?",
+    "options": [
+      {
+        "text": "Selection of a spontaneous loss-of-function mutation in the ampD gene leading to constitutive chromosomal cephalosporinase hyperproduction",
+        "correct": true,
+        "explanation": "Organisms of the SPICE/SPACE group (Serratia, Pseudomonas, Acinetobacter, Citrobacter, and Enterobacter cloacae) harbor an inducible, chromosomal ampC cephalosporinase gene. Under basal conditions, the cytosolic amidase AmpD continuously hydrolyzes cell wall peptidoglycan recycling fragments (1,6-anhydromuropeptides), keeping AmpC transcription repressed by AmpR. When exposed to beta-lactam antibiotics (such as ceftriaxone), spontaneous inactivating mutations in the ampD gene in a subpopulation of bacteria abolish peptidoglycan recycling. Anhydromuropeptides accumulate intracellularly and bind the transcriptional regulator AmpR, permanently converting it into an active transcription factor. This causes high-level, constitutive hyperproduction (derepression) of AmpC beta-lactamase. AmpC efficiently hydrolyzes all third-generation cephalosporins (ceftriaxone, ceftazidime) and monobactams, and crucially, AmpC is NOT inhibited by commercially available beta-lactamase inhibitors (such as tazobactam, clavulanate, or sulbactam), conferring high-level resistance to piperacillin-tazobactam. In contrast, fourth-generation cephalosporins (cefepime) are stable against AmpC due to poor enzyme affinity and rapid zwitterionic periplasmic penetration, and carbapenems (meropenem) remain fully active."
+      },
+      {
+        "text": "Horizontal conjugative transfer of a plasmid encoding a TEM-type extended-spectrum beta-lactamase (ESBL)",
+        "correct": false,
+        "explanation": "ESBLs are plasmid-encoded enzymes that hydrolyze third-generation cephalosporins, but they are characteristically inhibited by beta-lactamase inhibitors (clavulanate, tazobactam); furthermore, ESBL acquisition would not selectively spare cefepime while conferring high-level resistance to piperacillin-tazobactam."
+      },
+      {
+        "text": "Transcriptional downregulation of OprD outer membrane porin channels preventing periplasmic drug entry",
+        "correct": false,
+        "explanation": "OprD porin loss specifically mediates resistance to carbapenems (particularly imipenem) in Pseudomonas aeruginosa, but does not cause isolated cephalosporin resistance in Enterobacter."
+      },
+      {
+        "text": "Acquisition of a transposon-mediated vanA operon directing synthesis of altered cell wall dipeptides",
+        "correct": false,
+        "explanation": "The vanA operon directs D-Ala-D-Lac peptidoglycan synthesis conferring glycopeptide (vancomycin) resistance in Gram-positive enterococci; it has no role in Gram-negative beta-lactam resistance."
+      },
+      {
+        "text": "Active extrusion of penicillins and cephalosporins via an upregulated MexAB-OprM multidrug efflux pump",
+        "correct": false,
+        "explanation": "MexAB-OprM is a major resistance-nodulation-division (RND) efflux system in Pseudomonas aeruginosa that extrudes fluoroquinolones, beta-lactams, and chloramphenicol; it is not the classic mechanism of third-generation cephalosporin therapeutic failure in Enterobacter cloacae."
+      }
+    ],
+    "explanation": "Enterobacter cloacae possesses an inducible chromosomal ampC gene. Ceftriaxone exposure selects for ampD mutations that derepress AmpC hyperproduction, conferring high-level resistance to 3rd-generation cephalosporins and beta-lactamase inhibitor combinations, while cefepime and carbapenems remain susceptible.",
+    "objective": "Identify chromosomal AmpC beta-lactamase derepression (via ampD mutation) as the mechanism of clinical failure and emerging broad beta-lactam resistance during cephalosporin therapy in Enterobacter infections.",
+    "keyPoints": [
+      "Enterobacter, Citrobacter, and Serratia harbor inducible chromosomal AmpC beta-lactamases.",
+      "Third-generation cephalosporins select for derepressed mutants (loss of AmpD amidase), causing constitutive AmpC expression.",
+      "AmpC hydrolyzes 3rd-generation cephalosporins and resists tazobactam/clavulanate.",
+      "Cefepime (4th-generation) and carbapenems remain active against AmpC-derepressed strains."
+    ],
+    "references": [
+      {
+        "label": "Jacoby GA. AmpC beta-lactamases. Clin Microbiol Rev 2009;22:161–182. Section: Regulation of AmpC Expression and Derepression",
+        "url": "https://journals.asm.org/doi/10.1128/CMR.00036-08"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s1-0009",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Nervous",
+    "topic": "Lateral Pontine vs Medullary Brainstem Infarction",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 63-year-old woman presents to the emergency department with acute-onset vertigo, intractable nausea, unsteadiness, and left-sided facial numbness. On neurological examination, vital signs are stable. Examination reveals: complete paralysis of all muscles of the left side of the face with inability to wrinkle the left forehead, close the left eye, or smile on the left side; absent left corneal blink reflex when either the left or right cornea is touched, with normal right blink reflex upon touching either cornea; loss of pain and temperature sensation over the left side of the face and right side of the body (trunk and extremities); left-sided Horner syndrome (ptosis, miosis, and facial anhidrosis); marked left-sided limb ataxia and dysmetria on finger-to-nose and heel-to-shin testing; and tuning fork testing demonstrating left-sided sensorineural hearing loss. Flexible laryngoscopy reveals normal, symmetric palate elevation upon phonation, an intact gag reflex, and completely normal bilateral vocal cord mobility. Which of the following vascular structures was most likely occluded to produce this clinical syndrome, and at what brainstem level is the primary ischemic lesion located?",
+    "options": [
+      {
+        "text": "Posterior inferior cerebellar artery (PICA) supplying the dorsolateral rostral medulla",
+        "correct": false,
+        "explanation": "Occlusion of PICA causes lateral medullary (Wallenberg) syndrome. While it produces vertigo, ipsilateral Horner syndrome, ataxia, and crossed facial/body hemisensory loss, it characteristically damages the nucleus ambiguus (producing dysphagia, hoarseness, and palate droop) and SPARES the facial motor nucleus and cochlear nuclei (facial muscle power and hearing are completely normal)."
+      },
+      {
+        "text": "Anterior inferior cerebellar artery (AICA) supplying the lateral caudal pons",
+        "correct": true,
+        "explanation": "This patient has Lateral Pontine Syndrome (Marie-Foix / AICA syndrome), caused by occlusion of the Anterior Inferior Cerebellar Artery (AICA), which supplies the lateral caudal pons and gives rise to the internal auditory (labyrinthine) artery. AICA infarction shares several features with PICA lateral medullary infarction (Wallenberg syndrome) due to involvement of shared sensory tracts running longitudinally through the brainstem: loss of pain and temperature over the ipsilateral face (spinal trigeminal nucleus/tract) and contralateral body (spinothalamic tract), ipsilateral Horner syndrome (descending sympathetic tract), and ipsilateral limb ataxia (inferior and middle cerebellar peduncles). The critical, pathognomonic findings that localize this lesion specifically to the CAUDAL LATERAL PONS and differentiate it from lateral medullary infarction are: (1) Complete ipsilateral peripheral (lower motor neuron) facial paralysis involving both the upper and lower face (inability to wrinkle forehead or close eye) due to destruction of the facial motor nucleus and intra-axial CN VII fibers, which also disrupts the efferent limb of the left corneal reflex; (2) Ipsilateral sensorineural hearing loss and tinnitus due to involvement of the cochlear nuclei or labyrinthine artery; and (3) Complete sparing of the nucleus ambiguus (intact palate elevation, normal gag reflex, and normal vocal cord mobility without dysphagia or hoarseness)."
+      },
+      {
+        "text": "Paramedian branches of the basilar artery supplying the medial caudal pons",
+        "correct": false,
+        "explanation": "Medial pontine syndrome damages the corticospinal tract (contralateral spastic hemiparesis), medial lemniscus (contralateral loss of vibration/proprioception), and abducens nucleus (ipsilateral lateral gaze palsy), none of which are present in this patient."
+      },
+      {
+        "text": "Superior cerebellar artery (SCA) supplying the dorsolateral rostral midbrain",
+        "correct": false,
+        "explanation": "SCA infarction causes severe ipsilateral cerebellar ataxia (superior cerebellar peduncle) with contralateral loss of pain and temperature, but spares cranial nerves VII and VIII and does not cause peripheral facial palsy or hearing loss."
+      },
+      {
+        "text": "Anterior spinal artery supplying the paramedian ventromedial medulla",
+        "correct": false,
+        "explanation": "Medial medullary infarction damages the anterior spinal artery territory, causing contralateral hemiparesis (pyramid), contralateral loss of vibration/proprioception (medial lemniscus), and ipsilateral tongue deviation (hypoglossal nerve), which is clinically distinct from lateral brainstem syndromes."
+      }
+    ],
+    "explanation": "AICA occlusion causes lateral caudal pontine infarction. It is differentiated from PICA lateral medullary infarction by ipsilateral complete peripheral facial nerve paralysis (CN VII motor nucleus) and sensorineural hearing loss (cochlear nuclei/labyrinthine artery), with complete sparing of the nucleus ambiguus (no hoarseness or dysphagia).",
+    "objective": "Distinguish lateral caudal pontine infarction (AICA) from lateral medullary infarction (PICA) using peripheral facial motor paralysis and sensorineural hearing loss.",
+    "keyPoints": [
+      "AICA supplies the lateral caudal pons; PICA supplies the lateral medulla.",
+      "Shared features: crossed hemisensory loss (ipsilateral face, contralateral body), Horner syndrome, ataxia.",
+      "AICA-specific features: ipsilateral peripheral facial nerve palsy (forehead involved) and sensorineural deafness.",
+      "PICA-specific features: nucleus ambiguus damage causing dysphagia, hoarseness, and palate deviation."
+    ],
+    "references": [
+      {
+        "label": "Amarenco P. The spectrum of anterior inferior cerebellar artery territory infarcts. Ann Neurol 1993;33:646–655. Section: Clinical Features of Pontine AICA Infarction",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ana.410330614"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  },
+  {
+    "code": "op-pilot-s1-0010",
+    "exam": "Step 1",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Stratified Analysis & Effect Modification",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An epidemiologist investigates the association between a novel antiplatelet drug and the 1-year risk of recurrent ischemic stroke. The crude risk ratio (RR) for recurrent stroke comparing the novel drug to aspirin is 0.72 (95% CI 0.58–0.89). However, when the investigator stratifies the study population by smoking status, the results demonstrate: among current smokers, the RR is 0.50 (95% CI 0.40–0.62), whereas among non-smokers, the RR is 1.02 (95% CI 0.88–1.18). If the investigator reports only the crude risk ratio of 0.72 without presenting the stratum-specific findings, which of the following methodological errors has occurred?",
+    "options": [
+      {
+        "text": "Failing to adjust for confounding, because smoking status is an unmeasured third variable that creates a spurious association",
+        "correct": false,
+        "explanation": "Confounding occurs when a third variable is associated with both the exposure and the outcome and is not on the causal pathway; when confounding is present, the stratum-specific risk ratios are similar to each other but different from the crude estimate. Here, the stratum-specific estimates are radically different (0.50 vs 1.02), indicating effect modification rather than confounding."
+      },
+      {
+        "text": "Introducing Berkson selection bias by enrolling hospitalized patients whose admission rates differ by smoking status",
+        "correct": false,
+        "explanation": "Berkson bias is a hospital-based selection bias arising when hospitalization rates differ across exposure-disease combinations; it does not explain true biological interaction across strata."
+      },
+      {
+        "text": "Conditioning on a common effect (collider stratification bias) in the design phase",
+        "correct": false,
+        "explanation": "Collider stratification bias occurs when conditioning on a variable caused by both exposure and outcome, inducing a spurious association; smoking status here is an antecedent biological modifier."
+      },
+      {
+        "text": "Pooling stratum-specific estimates across an effect modifier, thereby masking a clinically vital biological interaction",
+        "correct": true,
+        "explanation": "This scenario demonstrates Effect Modification (interaction). Smoking modifies the effect of the novel antiplatelet drug on recurrent stroke risk: the drug provides robust protection in smokers (RR 0.50) but is completely ineffective in non-smokers (RR 1.02). Effect modification is a biological reality rather than a systematic bias. In the presence of effect modification, calculating and reporting a single pooled or crude estimate (such as RR 0.72) is fundamentally misleading because it averages across two disparate populations, obscuring the fact that non-smokers receive no benefit while smokers experience a 50% relative risk reduction. Stratum-specific estimates must always be presented separately."
+      },
+      {
+        "text": "Introducing information bias due to differential misclassification of the primary stroke outcome",
+        "correct": false,
+        "explanation": "Differential misclassification occurs when outcome measurement errors vary systematically across exposure groups; here the outcome measurement is objective and does not account for disparate stratum-specific effects."
+      }
+    ],
+    "explanation": "Effect modification occurs when the exposure-outcome association differs across strata of a third variable. Pooling stratum-specific estimates (crude RR 0.72) obscures a vital biological interaction (drug works only in smokers).",
+    "objective": "Distinguish effect modification from confounding in stratified analyses and explain why stratum-specific reporting is mandatory when interaction exists.",
+    "keyPoints": [
+      "Effect modification: stratum-specific risk ratios differ significantly from each other.",
+      "Confounding: stratum-specific risk ratios are similar to each other but differ from the crude estimate.",
+      "Reporting a pooled estimate across an effect modifier masks vital biological interactions."
+    ],
+    "references": [
+      {
+        "label": "Rothman KJ, Greenland S, Lash TL. Modern Epidemiology, 3rd ed. Chapter 5: Concepts of Interaction and Effect Modification. Knol MJ, VanderWeele TJ. Recommendations for presenting analyses of effect modification. Int J Epidemiol 2012;41:514–520",
+        "url": "https://academic.oup.com/ije/article/41/2/514/684784"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational pilot (2026). Withheld pending editorial, clinical, and rights review."
+  }
+]

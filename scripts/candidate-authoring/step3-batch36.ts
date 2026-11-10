@@ -1,0 +1,1079 @@
+import { CandidateSpec } from './types';
+
+export const step3Batch36: CandidateSpec[] = [
+  {
+    "code": "op-c-s3-0876",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Clinical Decision-Making Capacity Four Core Components Assessment",
+    "provisionalDifficulty": 4,
+    "stem": "A 58-year-old man with a 15-year history of poorly controlled type 2 diabetes mellitus is admitted to the surgical service with a severe, limb-threatening necrotizing soft-tissue infection of his right foot and ascending gas gangrene extending past the ankle. Vital signs show temperature 38.6 C, heart rate 108/min, and blood pressure 114/72 mm Hg. Sensation, blood sugars, and metabolic parameters are stable. An experienced orthopedic surgeon explains that an urgent below-knee amputation is necessary to prevent fatal septic shock. The patient calmly and firmly refuses surgery, stating, 'I understand that my foot has gas gangrene and that without an amputation, the infection will spread into my bloodstream and I will die from sepsis. I have lived my entire life as an active carpenter, and I have thought about this carefully. I would rather die peacefully under hospice comfort care than live without my leg and be confined to a nursing facility.' Mental status testing shows he is alert and oriented to person, place, time, and situation. Montreal Cognitive Assessment score is 28/30. He has no delusions, hallucinations, or depression. Which of the following is the most appropriate next step in management regarding the proposed amputation?",
+    "choices": [
+      [
+        "Respect the patient's refusal of surgery because he possesses intact decision-making capacity",
+        "Decision-making capacity is a clinical assessment made by any practicing physician regarding a patient's ability to make a specific medical decision at a specific time (unlike 'competence,' which is a formal legal status determined by a judge). A patient possesses decision-making capacity if they demonstrate the four core legal-ethical components: (1) Understanding the factual medical information regarding their condition, diagnosis, and proposed treatment; (2) Expressing a clear and consistent choice; (3) Appreciating the significance of the decision and its foreseeable consequences on their own life and health (including death); and (4) Reasoning through the risks, benefits, and alternatives logically in a manner consistent with their personal values and life goals. An adult with intact capacity has an absolute ethical and legal right (under the principle of patient autonomy) to refuse any medical intervention, even a life-saving one. Because this patient clearly understands the diagnosis, foresees that sepsis and death will result, and articulates a reasoned choice based on his personal values, his refusal must be respected."
+      ],
+      [
+        "Proceed immediately with emergent amputation under implied emergency consent",
+        "Implied consent applies ONLY when a patient is unconscious, incapacitated, or cannot communicate in an emergency, never to a conscious patient with intact capacity who explicitly refuses."
+      ],
+      [
+        "Obtain emergency court appointment of a temporary guardian to override the refusal",
+        "A court will not appoint a guardian or override refusal when a patient is clinically oriented and possesses intact decision-making capacity."
+      ],
+      [
+        "Deem the patient automatically incapacitated because refusing life-saving therapy is inherently irrational",
+        "A patient's decision does not need to align with physician recommendations to be valid; choosing palliative death over amputation is an autonomous personal value."
+      ],
+      [
+        "Contact the patient's spouse and perform the amputation based on the spouse's surrogate consent",
+        "Surrogate decision-makers have authority ONLY when the patient lacks decision-making capacity; a competent patient's choice supersedes all surrogates."
+      ]
+    ],
+    "shortestValidSolution": "Patient understands gangrene/death + explains value-based choice = intact decision-making capacity -> respect refusal of amputation.",
+    "necessaryInference": "Apply the 4 legal-ethical criteria of decision-making capacity and uphold patient autonomy to refuse life-saving treatment.",
+    "strongestDistractor": "Deem the patient automatically incapacitated because refusing life-saving therapy is inherently irrational",
+    "distractorExclusion": "Refusing life-saving care does not equal incapacity; patients with intact capacity have the right to refuse any procedure.",
+    "citation": "Appelbaum PS. Clinical Practice. Assessment of Patients' Competence to Consent to Treatment. N Engl J Med. 2007;357(18):1834-1840. PMID: 17978292.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 medical ethics item on evaluating the 4 components of decision-making capacity and respecting autonomous refusal.",
+      "distractorExclusionNotes": "Excluded emergency consent, surrogate override, and court guardians because the patient possesses fully intact decision-making capacity.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0877",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Surrogate Decision-Making Hierarchy and Substituted Judgment Standard",
+    "provisionalDifficulty": 4,
+    "stem": "An 81-year-old woman is admitted to the intensive care unit in an unresponsive, comatose state following a catastrophic massive left hemispheric hemorrhagic stroke with midline shift. She is intubated on mechanical ventilation. Neurosurgeons confirm that her neurological condition is irreversible and nonsurvivable, and that continuing aggressive life support will not restore consciousness. The patient lacks decision-making capacity. She has no designated durable power of attorney for healthcare and no written living will. The clinical team holds a family conference with her two adult children. Her son states, 'We should keep all machines on forever because doctors can make mistakes.' Her daughter responds, 'Mom and I had multiple long conversations after Dad died on a ventilator. She repeatedly and explicitly told me that if she ever had a severe stroke with no chance of regaining her mental faculties, she never wanted to be kept alive on mechanical ventilators or feeding tubes.' The son concedes that their mother indeed said this to both of them on multiple occasions. Which of the following ethical and legal standards must guide the physician's decision regarding the withdrawal of mechanical ventilation?",
+    "choices": [
+      [
+        "Substituted judgment standard, implementing what the patient would have chosen based on her prior explicit verbal statements",
+        "When an incapacitated patient cannot participate in medical decisions, surrogate decision-making follows a strict ethical and legal hierarchy: (1) First Priority: Advance Directives (a written living will or designated Healthcare Proxy / Durable Power of Attorney for Healthcare). (2) Second Priority: Substituted Judgment Standard. When no formal written proxy or advance directive exists, the surrogate and clinical team must decide based on 'substituted judgment'\u2014meaning they must determine what the PATIENT WOULD HAVE WANTED based on her previously expressed explicit values, beliefs, and prior reliable verbal statements made while competent. Here, the patient explicitly told both children that she never wanted prolonged mechanical ventilation in an irreversible vegetative state. Her prior authentic statements must guide the decision, superseding the son's initial personal preferences. (3) Third Priority: Best Interests Standard. Used ONLY when the patient's prior wishes, values, and beliefs are completely unknown; the team decides what a reasonable person would choose to maximize benefits and minimize suffering."
+      ],
+      [
+        "Best interests standard, deciding what the clinical team and son believe is best regardless of the patient's past statements",
+        "The best interests standard is applied only when the patient's prior values and wishes are completely unknown; substituted judgment takes precedence."
+      ],
+      [
+        "Majority vote standard, requiring unanimous agreement between all surviving biological children before altering care",
+        "Medical ethics does not operate by majority vote; decisions must reflect the patient's own authentic wishes (substituted judgment)."
+      ],
+      [
+        "Paternalistic beneficence standard, wherein the intensivist makes all end-of-life decisions independently of the family",
+        "Physicians cannot act paternalistically to override evidence of a patient's known prior wishes; surrogate engagement is legally required."
+      ],
+      [
+        "Legal presumption of maximum physiological intervention, mandating indefinite life support unless a notarized will is produced",
+        "Oral statements made to family members provide legally and ethically valid evidence of substituted judgment; written notarization is not required."
+      ]
+    ],
+    "shortestValidSolution": "Incapacitated patient + known prior verbal wishes = Substituted Judgment Standard (implement what patient would have chosen).",
+    "necessaryInference": "Apply the substituted judgment standard in surrogate decision-making when the patient's explicit prior wishes are known.",
+    "strongestDistractor": "Best interests standard, deciding what the clinical team and son believe is best regardless of the patient's past statements",
+    "distractorExclusion": "The best interests standard applies only when prior wishes are unknown; substituted judgment based on known prior statements takes precedence.",
+    "citation": "Sulmasy DP, Terry PB, Weisman CS, et al. The accuracy of substituted judgments in patients with terminal diagnoses. Ann Intern Med. 1998;128(8):621-629. PMID: 9537935.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 medical ethics item distinguishing the substituted judgment standard from the best interests standard in surrogate decision-making.",
+      "distractorExclusionNotes": "Excluded best interests and majority vote because documented prior verbal statements mandate substituted judgment.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0878",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Medical Error Disclosure Principles and Institutional Transparency",
+    "provisionalDifficulty": 4,
+    "stem": "A 64-year-old woman is hospitalized on the general medical floor for treatment of acute pyelonephritis. Her home medications include oral metoprolol succinate 50 mg daily for hypertension. A clerical order-entry transcription error results in an order for metoprolol succinate 500 mg daily (a tenfold overdose), which is erroneously verified by pharmacy and administered by nursing. Two hours later, the patient develops profound symptomatic bradycardia (heart rate 32/min) and hypotension (blood pressure 76/40 mm Hg). She is transferred to the intermediate care unit, successfully treated with intravenous glucagon and fluid boluses, and stabilizes completely with normal vital signs within 6 hours, suffering no permanent physiological organ injury. The attending physician prepares to discuss the event with the patient and her family. Which of the following represents the most ethical and professional approach to disclosing this medical error?",
+    "choices": [
+      [
+        "Provide prompt, transparent disclosure of the error, offer an empathetic apology, explain what occurred and how it was treated, and detail steps taken to prevent recurrence",
+        "Professional ethics, hospital accreditation standards (The Joint Commission), and physician codes of conduct mandate prompt, honest, and transparent disclosure of medical errors to patients and their families. When a medical error results in harm (even transient harm): (1) The attending physician should disclose the error promptly once the patient is medically stabilized; (2) Provide clear, factual, jargon-free information about what happened, its clinical consequences, and the treatments administered; (3) Express sincere regret and an empathetic apology (e.g., 'I am deeply sorry that this medication error occurred'); (4) Outline the institutional investigation and systemic corrective actions being implemented to prevent recurrence; and (5) Answer questions openly while avoiding defensive finger-pointing or blaming individual staff members. Studies demonstrate that full transparent disclosure with apology increases patient trust, reduces psychological trauma, and decreases litigation compared to concealment or evasiveness."
+      ],
+      [
+        "Conceal the medication error from the patient because she recovered fully and disclosure would needlessly induce medical anxiety",
+        "Concealing errors violates fundamental patient autonomy, breaches physician fiduciary duty, and severely damages trust if discovered later."
+      ],
+      [
+        "Attribute the episode entirely to an unpredictable idiosyncratic drug reaction without mentioning the tenfold dosing error",
+        "Falsely misrepresenting an administrative overdose as an idiosyncratic reaction is fraudulent, deceitful, and a serious professional ethics violation."
+      ],
+      [
+        "Blame the junior pharmacy technician and bedside nurse explicitly during the interview to protect the attending physician's reputation",
+        "Blaming individual junior team members is unprofessional and counterproductive; medical errors are systemic vulnerabilities requiring systems-based analysis."
+      ],
+      [
+        "Instruct the patient to immediately hire a medical malpractice attorney and refuse to discuss any medical details without legal counsel",
+        "Directing the patient to litigate while stonewalling medical explanations destroys the therapeutic relationship and violates disclosure obligations."
+      ]
+    ],
+    "shortestValidSolution": "Medication error with transient harm = prompt transparent disclosure + empathetic apology + explain event and systemic prevention steps.",
+    "necessaryInference": "Apply professional standards for medical error disclosure: prompt transparency, factual explanation, sincere apology, and prevention plans.",
+    "strongestDistractor": "Conceal the medication error from the patient because she recovered fully and disclosure would needlessly induce medical anxiety",
+    "distractorExclusion": "Concealing an error that caused clinical harm breaches ethical duty and transparency standards; full disclosure is mandatory.",
+    "citation": "Gallagher TH, Studdert D, Levinson W. Disclosing Harmful Medical Errors to Patients. N Engl J Med. 2007;356(26):2713-2719. PMID: 17596606.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 professional ethics and systems-based practice item on the standards of medical error disclosure.",
+      "distractorExclusionNotes": "Excluded concealment, deflection, and blaming subordinates because open, empathetic, and factual disclosure is the ethical standard.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0879",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Root Cause Analysis Systems-Based Investigation of Sentinel Events",
+    "provisionalDifficulty": 4,
+    "stem": "A 72-year-old hospitalized patient receives an accidental intravenous injection of concentrated potassium chloride intended for another patient, resulting in cardiac arrest and resuscitation. Hospital quality leadership convenes a multidisciplinary committee to conduct a formal Root Cause Analysis (RCA) of this sentinel event. A junior hospital administrator suggests focusing the investigation on identifying the nurse who administered the vial and terminating her employment. Which of the following statements most accurately reflects the core philosophy and methodology of a modern systems-based Root Cause Analysis according to patient safety standards?",
+    "choices": [
+      [
+        "RCA focuses on identifying latent systemic, environmental, and process vulnerabilities rather than assigning individual human blame",
+        "Root Cause Analysis (RCA) is a structured, prospective-to-retrospective quality improvement methodology mandated by The Joint Commission to analyze sentinel events (unexpected occurrences involving death or serious physical/psychological injury). The foundational principle of modern patient safety (pioneered by James Reason's 'Swiss Cheese Model') is that healthcare errors are almost never the result of isolated individual recklessness; rather, they occur when multiple latent systemic failures (e.g., poor packaging, look-alike vials stored adjacent to each other on open ward shelves, lack of barcode scanning, understaffing, cognitive fatigue) align to allow human error to reach the patient. The goal of an RCA is NOT to assign individual blame, punish individuals, or establish legal liability; rather, it seeks to identify fundamental latent systems vulnerabilities and redesign processes (e.g., removing concentrated KCl from general floor stock, implementing hard computerized forcing functions) to prevent recurrence."
+      ],
+      [
+        "The primary objective of an RCA is to establish legal culpability for criminal negligence and disciplinary termination",
+        "RCA is a non-punitive, protected quality improvement process; using it for disciplinary prosecution destroys error reporting culture."
+      ],
+      [
+        "RCA should be conducted exclusively by the hospital's malpractice defense attorneys to protect institutional finances",
+        "RCA must be multidisciplinary (nurses, physicians, pharmacists, systems engineers), not an insulated legal defense maneuver."
+      ],
+      [
+        "An effective RCA assumes that highly trained healthcare professionals should never make human mistakes in medicine",
+        "Modern human factors engineering recognizes that human beings are fallible; systems must be designed to absorb and catch human slips."
+      ],
+      [
+        "RCA is applicable only to outpatient administrative billing discrepancies, not clinical inpatient emergencies",
+        "RCA is specifically designed for serious inpatient clinical sentinel events and adverse patient safety outcomes."
+      ]
+    ],
+    "shortestValidSolution": "Root Cause Analysis = identifies latent systems and process vulnerabilities rather than assigning individual human blame.",
+    "necessaryInference": "Understand the non-punitive, systems-focused methodology of Root Cause Analysis based on the Swiss Cheese model of patient safety.",
+    "strongestDistractor": "The primary objective of an RCA is to establish legal culpability for criminal negligence and disciplinary termination",
+    "distractorExclusion": "RCA is explicitly non-punitive and focuses on systemic safeguards and human factors engineering rather than individual punishment.",
+    "citation": "Reason J. Human Error: Models and Management. BMJ. 2000;320(7237):768-770. PMID: 10720363.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 quality improvement and patient safety item on the core principles of systems-based Root Cause Analysis.",
+      "distractorExclusionNotes": "Excluded punitive termination and legal fault because RCA focuses on latent process failures and systems redesign.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0880",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Patient Privacy Exceptions Tarasoff Duty to Protect and Mandatory Reporting",
+    "provisionalDifficulty": 4,
+    "stem": "A 34-year-old man presents to an outpatient psychiatry appointment for management of generalized anxiety and intermittent explosive rage. During the session, he is visibly agitated and clenches his fists. He tells the psychiatrist, 'My supervisor, John Davis at Apex Logistics, fired me yesterday. I bought an assault rifle this morning and know his exact home address. I am going to his house tonight at 8:00 PM to shoot and kill him and his wife.' When the psychiatrist attempts to de-escalate the situation and recommends immediate voluntary inpatient hospitalization, the patient refuses, stands up, and leaves the clinic office. The psychiatrist believes this constitutes a credible, imminent, lethal threat to a specific, identifiable individual. Which of the following is the most appropriate and legally mandated action by the physician?",
+    "choices": [
+      [
+        "Immediately notify local law enforcement and take reasonable steps to warn the intended victim (Tarasoff duty to protect)",
+        "While physician-patient confidentiality is a foundational ethical and legal duty, it is NOT absolute. Confidentiality may and MUST be breached when there is an overriding duty to protect third parties or the public from imminent harm. Under the landmark Tarasoff doctrine (and state statutes governing the 'duty to warn and protect'), a mental health professional or physician has a legal and ethical obligation to breach confidentiality when a patient expresses a credible, serious, and imminent threat of severe physical harm or death directed against an identifiable third party. The physician must: (1) Notify law enforcement immediately, and (2) Take reasonable steps to warn the intended victim directly. Other mandatory statutory exceptions to confidentiality that require reporting without patient consent include child abuse, elder abuse, impaired drivers, and reportable communicable infectious diseases."
+      ],
+      [
+        "Maintain strict confidentiality and refrain from contacting anyone to preserve the therapeutic relationship",
+        "Maintaining confidentiality in the face of an imminent, credible, specific lethal threat violates the Tarasoff duty to protect and leads to homicide."
+      ],
+      [
+        "Call the patient's mother and ask her to confiscate the firearm without contacting the police",
+        "Relying on family members to disarm a violent, determined individual is dangerous, inadequate, and fails the legal duty to protect the victim."
+      ],
+      [
+        "Wait until tomorrow morning to see if the patient calms down before taking any protective action",
+        "The patient specified an imminent attack tonight at 8:00 PM; delaying intervention results in preventable fatalities."
+      ],
+      [
+        "Post a public warning message on social media platforms without naming the patient or supervisor",
+        "Social media postings are unprofessional, violate privacy broadly, fail to protect the specific target, and violate medical standards."
+      ]
+    ],
+    "shortestValidSolution": "Credible imminent threat to kill specific identifiable person = breach confidentiality to warn intended victim and notify police (Tarasoff).",
+    "necessaryInference": "Apply the Tarasoff duty to protect/warn as a mandatory exception to medical confidentiality for imminent, specific, lethal threats.",
+    "strongestDistractor": "Maintain strict confidentiality and refrain from contacting anyone to preserve the therapeutic relationship",
+    "distractorExclusion": "Confidentiality is not absolute; imminent threat of lethal violence to an identifiable target legally mandates breaching confidentiality.",
+    "citation": "Kachigian C, Felthous AR. Court Responses to Tarasoff Statutes. J Am Acad Psychiatry Law. 2004;32(3):263-273. PMID: 15515914.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 medical ethics/forensic psychiatry item on Tarasoff duty to protect and exceptions to confidentiality.",
+      "distractorExclusionNotes": "Excluded maintaining confidentiality and waiting because credible imminent homicide against an identifiable victim mandates warning authorities and victim.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0881",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Emergency Exception to Informed Consent Implied Consent in Unconscious Patients",
+    "provisionalDifficulty": 4,
+    "stem": "A 28-year-old unidentified man is brought to the trauma bay by emergency medical services after being struck as a pedestrian by a speeding truck. He is unconscious and unresponsive, with a Glasgow Coma Scale score of 4 (E1, V1, M2). Blood pressure is 74/42 mm Hg, heart rate is 138/min, and oxygen saturation is 88%. Focused assessment with sonography for trauma (FAST) demonstrates massive free fluid in the peritoneal cavity (hemoperitoneum). Despite rapid transfusion of two units of uncrossed O-negative packed red blood cells, systolic blood pressure drops to 68 mm Hg. The trauma surgeon determines that emergent exploratory laparotomy is required within minutes to control life-threatening hemorrhage and prevent circulatory arrest. The patient has no identification, personal belongings, or known family members available. Which of the following is the most appropriate ethical and legal basis for proceeding immediately to the operating room?",
+    "choices": [
+      [
+        "Emergency exception to informed consent (implied consent), presuming that a reasonable person would consent to life-saving treatment in this circumstance",
+        "Informed consent is a core ethical and legal requirement before performing any medical or surgical intervention. However, in acute emergencies where obtaining informed consent is impossible, the 'Emergency Exception' (doctrine of Implied Consent) applies. For the emergency exception to be valid, four criteria must be satisfied: (1) The patient is incapacitated (unconscious, altered) and unable to give informed consent; (2) There is an immediate threat to life, limb, or vital organ function; (3) No designated healthcare proxy, family surrogate, or pre-existing advance directive expressing a refusal of treatment is immediately available; and (4) The delay required to obtain consent or locate family would result in serious harm or death. Under implied consent, the law and medical ethics presume that any reasonable, prudent person in the patient's position would consent to life-saving emergency medical and surgical care."
+      ],
+      [
+        "Delay operative intervention until hospital legal counsel and an ethics committee obtain an emergency court order",
+        "Delaying surgery to seek court orders in an acutely exsanguinating, unstable trauma patient causes preventable death from hemorrhagic shock."
+      ],
+      [
+        "Withhold all surgical interventions because non-consensual surgery constitutes civil battery and criminal assault",
+        "The emergency exception specifically protects clinicians from battery allegations when providing urgent life-saving care in the absence of known refusal."
+      ],
+      [
+        "Wait 24 hours in the trauma intensive care unit while police attempt to locate a legal next-of-kin",
+        "A 24-hour delay in the face of ongoing massive intra-abdominal hemorrhage guarantees fatal circulatory arrest within minutes to hours."
+      ],
+      [
+        "Designate the trauma nurse as an ad-hoc legal surrogate to sign the operative consent form",
+        "Hospital staff caring for the patient cannot serve as legal surrogates due to inherent conflicts of interest; implied consent governs directly."
+      ]
+    ],
+    "shortestValidSolution": "Unconscious trauma + hemorrhagic shock + no surrogate available = Emergency Exception / Implied Consent allows immediate life-saving surgery.",
+    "necessaryInference": "Apply the emergency exception to informed consent (implied consent) to provide immediate life-saving care without delaying for court or surrogate.",
+    "strongestDistractor": "Delay operative intervention until hospital legal counsel and an ethics committee obtain an emergency court order",
+    "distractorExclusion": "Waiting for court orders in life-threatening shock is medical malpractice; implied consent legally empowers immediate life-saving surgery.",
+    "citation": "Ercan Emreol H et al. Unraveling the Clinical Spectrum of DNASE1L3 Deficiency: Insights from Case Series and Systematic Literature Review. Curr Rheumatol Rep. PMID: 42726335.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 trauma surgery/medical ethics item on the emergency exception to informed consent and implied consent.",
+      "distractorExclusionNotes": "Excluded court delays, withholding care, and staff surrogates because implied consent legally and ethically authorizes immediate intervention.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0882",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Withholding Versus Withdrawing Life-Sustaining Treatment Ethical Equivalence",
+    "provisionalDifficulty": 4,
+    "stem": "An 84-year-old woman with severe multi-infarct dementia, non-verbal status, and advanced contractures is admitted to the medical intensive care unit for septic shock and respiratory failure secondary to aspiration pneumonia. She is intubated on mechanical ventilation and receiving escalating doses of norepinephrine and vasopressin. Her legally designated healthcare proxy (her daughter) presents a valid living will executed 5 years ago stating: 'If I develop advanced dementia and severe medical illness from which recovery to a conscious, communicative life is impossible, I direct that no mechanical life support, artificial breathing machines, or cardiac resuscitation be used, and that only comfort care be provided.' The daughter requests that the endotracheal tube and mechanical ventilator be withdrawn and that the patient be transitioned to comfort measures. The junior resident expresses hesitation, stating, 'Withholding an intubation before it starts is ethically acceptable, but actively withdrawing a ventilator that is already keeping a patient alive is equivalent to active euthanasia.' Which of the following correctly describes the ethical and legal consensus regarding withholding versus withdrawing life-sustaining therapy?",
+    "choices": [
+      [
+        "Withholding and withdrawing life-sustaining treatment are ethically and legally equivalent, allowing withdrawal when an intervention no longer aligns with patient goals",
+        "In medical ethics, professional guidelines (AMA Code of Medical Ethics, American College of Physicians), and established constitutional law, there is ABSOLUTE ETHICAL AND LEGAL EQUIVALENCE between withholding and withdrawing life-sustaining medical treatment. An ongoing medical intervention (e.g., mechanical ventilation, vasopressors, hemodialysis, artificial nutrition/hydration) should be continued only as long as it aligns with the patient's authentic goals, values, and prognosis. If a trial of therapy fails to achieve meaningful recovery or violates the patient's explicit advance directives, withdrawing the treatment is completely ethical and legal. Withdrawing life support is NOT euthanasia or assisted suicide; the underlying fatal disease process (here, septic shock and respiratory failure) is the cause of death. Viewing withdrawal as ethically worse than withholding causes harm by creating a perverse incentive: physicians might hesitate to offer beneficial short-term trials of therapy out of fear that they can never be stopped once started."
+      ],
+      [
+        "Withdrawing mechanical ventilation constitutes active euthanasia and is legally classified as homicide in all jurisdictions",
+        "Withdrawing life-sustaining treatment is legally and ethically recognized as allowing natural death, not active euthanasia or homicide."
+      ],
+      [
+        "Withholding therapy is ethically permissible, but withdrawing therapy requires unanimous approval from a state judicial board",
+        "Withdrawal of life-sustaining treatment does not require judicial intervention when consensus exists between the clinical team and the legal surrogate."
+      ],
+      [
+        "Mechanical ventilation must be continued until the heart stops beating spontaneously, regardless of patient directives",
+        "Continuing invasive life support against a patient's documented refusal violates constitutional bodily autonomy and is considered medical battery."
+      ],
+      [
+        "The physician may withdraw mechanical ventilation only if the patient's daughter signs a waiver releasing the hospital from financial liability",
+        "End-of-life decisions cannot be conditioned on financial liability releases; decisions must honor patient autonomy and ethical guidelines."
+      ]
+    ],
+    "shortestValidSolution": "Withholding vs withdrawing life support = ethically and legally equivalent (withdrawal allows natural death from underlying disease).",
+    "necessaryInference": "Apply the consensus in medical ethics and law that withholding and withdrawing life-sustaining medical treatment are ethically equivalent.",
+    "strongestDistractor": "Withdrawing mechanical ventilation constitutes active euthanasia and is legally classified as homicide in all jurisdictions",
+    "distractorExclusion": "Withdrawing life-sustaining treatment allows the underlying fatal disease to take its course; it is ethically and legally distinct from active euthanasia.",
+    "citation": " et al. Decisions near the end of life. Council on Ethical and Judicial Affairs, American Medical Association. JAMA. PMID: 1372944.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 palliative medicine/ethics item on the ethical and legal equivalence of withholding and withdrawing life-sustaining therapy.",
+      "distractorExclusionNotes": "Excluded active euthanasia misconceptions and judicial requirements because withdrawal honoring patient directives is ethically identical to withholding.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0883",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Brain Death Determination and Organ Procurement Organization Decoupling",
+    "provisionalDifficulty": 4,
+    "stem": "A 22-year-old man with a catastrophic gunshot wound to the head is maintained on mechanical ventilation in the surgical trauma ICU. Neurocritical care specialists complete formal clinical testing and confirmatory apnea testing, declaring death by neurologic criteria (brain death). The patient's state driver's license indicates registered organ donor status, and his parents have just arrived in the hospital conference room, visibly devastated. The surgical resident suggests that the attending trauma surgeon should immediately enter the conference room, announce that the patient is brain dead, and immediately ask the parents to sign organ donation authorization forms before organ perfusion deteriorates. Which of the following represents the most ethical, legally mandated, and evidence-based approach to organ donation discussions in this scenario?",
+    "choices": [
+      [
+        "Decouple the notification of brain death from the organ donation request, and have the designated Organ Procurement Organization (OPO) coordinator approach the family",
+        "Federal regulations (Centers for Medicare & Medicaid Services Conditions of Participation) and hospital accreditation policies strictly mandate the 'Decoupling' of end-of-life notification from organ donation requests. The treating physicians (trauma surgeons, intensivists) are responsible for determining brain death, declaring death, and compassionately explaining the neurological reality of death to the family. To avoid perceived conflicts of interest (the fear that the healthcare team prioritized organ harvesting over saving the patient's life), the clinical team should NOT directly solicit organ donation. Once the family has been given adequate time to process and comprehend the reality of death ('decoupling'), a specially trained designated requestor from the local regional Organ Procurement Organization (OPO) approaches the family to discuss donor registration and authorization. Decoupling and using trained OPO coordinators significantly reduces family distress and doubles organ consent rates."
+      ],
+      [
+        "Have the attending surgeon immediately request organ donation during the initial announcement of brain death to save time",
+        "Combining death notification with organ solicitation creates severe perceived conflicts of interest and dramatically reduces family donation consent rates."
+      ],
+      [
+        "Withhold declaration of brain death until the family independently inquires about organ donation",
+        "Declaring death is a clinical determination that must be documented when criteria are met; it cannot be delayed for logistical reasons."
+      ],
+      [
+        "Proceed with immediate surgical organ procurement without discussing the registration status with the family",
+        "Even with first-person registry laws, notification of family is required for medical-social history screening and compassionate bereavement care."
+      ],
+      [
+        "Offer monetary compensation from the hospital transplant budget to the parents to incentivize rapid organ authorization",
+        "Federal law (National Organ Transplant Act of 1984) strictly prohibits the purchase or sale of human organs, making monetary incentives a federal felony."
+      ]
+    ],
+    "shortestValidSolution": "Brain death declared = Decouple death notification from organ request -> designated OPO coordinator approaches family.",
+    "necessaryInference": "Apply federal regulations and ethical standards requiring decoupling of death notification from organ donation requests led by OPO coordinators.",
+    "strongestDistractor": "Have the attending surgeon immediately request organ donation during the initial announcement of brain death to save time",
+    "distractorExclusion": "Immediate solicitation by treating surgeons triggers severe conflict of interest; decoupling and OPO specialist involvement is required.",
+    "citation": "Siminoff LA et al. Knowing patients' preferences about organ donation: does it make a difference?. J Trauma. PMID: 12394879.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 medical ethics/transplant medicine item on federal decoupling mandates and the role of OPO coordinators.",
+      "distractorExclusionNotes": "Excluded immediate surgeon solicitation, financial incentives, and delaying death declaration because decoupling and OPO referral are mandatory.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0884",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Physician Impairment Professional Duty to Report and Patient Safety",
+    "provisionalDifficulty": 4,
+    "stem": "A surgical attending physician notices that an experienced colleague arrives 30 minutes late for a scheduled major abdominal surgery. The colleague's speech is noticeably slurred, his gait is unsteady, and he has a strong odor of alcohol on his breath. When the attending pulls him aside into a private consultation room, the colleague admits that he consumed several glasses of bourbon early this morning following a difficult divorce dispute, but insists, 'I have performed this operation hundreds of times. I am completely fine to operate and my patients always do great.' Which of the following is the most appropriate and urgent immediate action by the attending physician?",
+    "choices": [
+      [
+        "Immediately prevent the colleague from operating, ensure patient safety, and report the impairment to the department chair and hospital Physician Health Program",
+        "The American Medical Association (AMA) Code of Medical Ethics and hospital credentialing regulations establish that a physician's primary fiduciary duty is to protect patient safety. Practicing medicine while impaired by alcohol, illicit substances, or physical/cognitive illness poses an imminent, severe threat to patient welfare. When a physician observes clear signs of acute impairment: (1) The immediate mandatory step is to ENSURE PATIENT SAFETY by directly intervening to prevent the impaired colleague from having patient contact or performing surgery; (2) The surgery must be rescheduled or assigned to an alternative qualified surgeon; and (3) The incident must be reported promptly to hospital leadership (department chair, chief medical officer) and the state Physician Health Program (PHP) or hospital health committee. PHPs provide confidential, compassionate, structured rehabilitation, monitoring, and advocacy to support recovery while safeguarding the public."
+      ],
+      [
+        "Allow the colleague to perform the surgery as long as the attending stands scrubbed across the table as an assistant",
+        "Permitting an acutely intoxicated surgeon to operate with an assistant is dangerous complicity and places the patient at imminent risk of surgical injury."
+      ],
+      [
+        "Instruct the colleague to drink black coffee and take a cold shower before entering the operating room",
+        "Coffee and showers do not accelerate hepatic alcohol metabolism or reverse neurocognitive intoxication; operating remains hazardous."
+      ],
+      [
+        "Ignore the situation because confronting a respected senior colleague creates severe professional retaliation risks",
+        "Ignoring impairment places personal self-interest above patient safety and violates mandatory ethical reporting obligations."
+      ],
+      [
+        "Call the police immediately to have the colleague arrested on the hospital premises for public intoxication",
+        "Hospital leadership and Physician Health Programs handle institutional impairment; police arrest is inappropriate unless violent resistance occurs."
+      ]
+    ],
+    "shortestValidSolution": "Intoxicated colleague arriving to operate = stop them from operating immediately + report to department chair and Physician Health Program.",
+    "necessaryInference": "Apply AMA ethical guidelines on physician impairment: prioritize patient safety by intervening immediately and reporting to the Physician Health Program.",
+    "strongestDistractor": "Allow the colleague to perform the surgery as long as the attending stands scrubbed across the table as an assistant",
+    "distractorExclusion": "Permitting an impaired surgeon to operate constitutes complicity in gross negligence; immediate removal from patient care is mandatory.",
+    "citation": "Bahraini H et al. The impact of optimizing the triage process for cardiac patients presenting to the cardiac emergency department on quality of care indicators: a quasi-experimental study in Southern Iran. BMC Emerg Med. PMID: 41832459.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 professional ethics/patient safety item on responding to acute physician impairment and reporting to Physician Health Programs.",
+      "distractorExclusionNotes": "Excluded assisting the impaired surgeon, ignoring the behavior, or coffee remedies because patient safety requires immediate removal and reporting.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0885",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Disagreement Among Surrogate Decision-Makers Ethics Committee Consultation",
+    "provisionalDifficulty": 4,
+    "stem": "An 82-year-old man with end-stage ischemic cardiomyopathy and multi-organ failure is admitted to the intensive care unit in a deep coma following an out-of-hospital cardiac arrest. He has been in unarousable coma for 7 days with severe post-anoxic encephalopathy. Transthoracic echocardiogram shows an ejection fraction < 15%, and his kidneys have shut down on continuous renal replacement therapy. The intensivist determines that recovery is impossible and recommends transitioning to comfort-focused care and withdrawal of mechanical ventilation. The patient has no written advance directive and no designated durable healthcare proxy. He has three adult children with equal statutory surrogate authority: two children advocate transitioning to comfort care based on their father's frequently expressed wishes to 'never live as a vegetable,' while the third child vehemently refuses, demanding full mechanical support and escalation of care. Communication between the siblings has collapsed into screaming arguments. Which of the following is the most appropriate next step in resolving this conflict?",
+    "choices": [
+      [
+        "Convene a multidisciplinary institutional ethics committee consultation to facilitate consensus and mediation",
+        "When an incapacitated patient lacks an advance directive or appointed proxy, statutory surrogacy laws typically grant equal authority to all adult children. When adult children with equal legal standing have profound, irreconcilable disagreements regarding end-of-life care and withdrawal of life-sustaining treatment, the physician should NOT: (1) arbitrarily side with the majority, (2) unilaterally withdraw support over active objection, or (3) immediately file for court guardianship. The standard next step is to request a formal multidisciplinary Hospital Ethics Committee Consultation. Ethics committees provide independent mediation, review medical facts, facilitate empathetic communication, clarify the patient's authentic past values and substituted judgment, and help families achieve consensus. If all institutional mediation fails and intractable gridlock persists, seeking judicial appointment of a neutral legal guardian is the final option."
+      ],
+      [
+        "Immediately petition a civil judge to strip the dissenting child of all legal rights and award guardianship to the majority",
+        "Court intervention is costly, adversarial, and traumatic; it is strictly a last resort after hospital ethics consultation and mediation have failed."
+      ],
+      [
+        "Unilaterally withdraw mechanical ventilation because two out of three children constitute a democratic majority",
+        "Medical ethics and surrogate decision-making are not governed by simple majority vote; unilateral withdrawal over active family dispute risks intense conflict and litigation."
+      ],
+      [
+        "Follow the dissenting child's wishes indefinitely because preserving life always supersedes all other considerations",
+        "Indefinitely prolonging non-beneficial suffering against the patient's known prior wishes violates non-maleficence and patient autonomy."
+      ],
+      [
+        "Discharge the patient to a long-term acute care hospital without resolving the goals-of-care dispute",
+        "Dumping an unstable, dying patient with unresolved family conflict onto another facility is unprofessional and medically inappropriate."
+      ]
+    ],
+    "shortestValidSolution": "Surrogate siblings in irreconcilable conflict over withdrawal = convene multidisciplinary Hospital Ethics Committee consultation.",
+    "necessaryInference": "Select institutional ethics committee consultation as the next step to mediate intrafamily conflict among equal surrogate decision-makers.",
+    "strongestDistractor": "Immediately petition a civil judge to strip the dissenting child of all legal rights and award guardianship to the majority",
+    "distractorExclusion": "Judicial guardianship is an expensive last resort; institutional ethics committee mediation is the standard initial recourse.",
+    "citation": "Tarzian A et al. Ethics Consultation in U.S. Hospitals: Adherence to National Practice Standards. AJOB Empir Bioeth. PMID: 34793287.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 hospital ethics item on resolving intrafamily surrogate conflict through institutional ethics committee mediation.",
+      "distractorExclusionNotes": "Excluded court petitions, majority votes, and unilateral action because ethics committee consultation is the standard next step.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0886",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Adult Jehovah Witness Autonomous Blood Product Refusal and Bloodless Medicine",
+    "provisionalDifficulty": 4,
+    "stem": "A 32-year-old previously healthy woman who is a devout Jehovah's Witness presents to the emergency department following a motor vehicle collision with a fractured pelvis and intra-abdominal hemorrhage. She is fully alert, oriented, and carries a signed, advance directive card stating her absolute refusal of all allogeneic blood products (whole blood, packed red blood cells, fresh frozen plasma, platelets) based on her religious beliefs. On examination, blood pressure is 102/64 mm Hg, and heart rate is 112/min. Laboratory studies show hemoglobin 6.8 g/dL (normal 12-16 g/dL). The surgical team explains that her bleeding will likely require surgical hemostasis and that without a blood transfusion, severe anemia could become life-threatening. The patient calmly, articulately confirms that she understands the risk of death, but reasserts her absolute refusal of all blood transfusions under any circumstances, including cardiopulmonary arrest. Which of the following is the most appropriate management approach?",
+    "choices": [
+      [
+        "Honor her autonomous refusal of allogeneic blood products while utilizing non-blood volume expansion and blood-conservation strategies",
+        "Competent adult patients have an absolute constitutional and ethical right (principle of autonomy) to refuse any medical treatment, including life-saving blood products, based on their religious or personal convictions. In adult Jehovah's Witness patients: (1) The physician must verify that the patient has intact decision-making capacity, understands the diagnosis, and appreciates the risk of death without transfusion; (2) Her autonomous refusal of allogeneic blood products must be respected and upheld, even if death ensues; (3) The clinical team should actively pursue all acceptable blood-conservation and 'bloodless medicine' strategies, such as meticulous surgical hemostasis, intravenous crystalloid/colloid volume expanders, erythropoiesis-stimulating agents, IV iron, tranexamic acid, and intraoperative autologous cell salvage (if acceptable to the patient's individual conscience). Administering blood against a competent adult's refusal constitutes medical battery and a severe violation of bodily integrity. (Note: Courts will override parental refusal of blood transfusions for MINORS in life-threatening emergencies, but never for competent adults)."
+      ],
+      [
+        "Administer blood products emergently against her wishes under the principle of beneficence",
+        "Beneficence does not override a competent adult's informed refusal; transfusing against explicit autonomous refusal constitutes medical battery."
+      ],
+      [
+        "Obtain an emergency court injunction to force blood transfusions as soon as hemoglobin drops below 5 g/dL",
+        "Courts consistently uphold the right of competent adult Jehovah's Witnesses to refuse blood transfusions; injunctions are denied."
+      ],
+      [
+        "Deem her decision-making capacity compromised because religious beliefs that accept death are intrinsically irrational",
+        "Holding deeply felt religious or cultural beliefs does not constitute mental incapacity; patients may choose to prioritize faith over biological survival."
+      ],
+      [
+        "Discharge the patient immediately from the emergency department because refusal of blood terminates the physician-patient relationship",
+        "Abandoning an emergency patient who refuses a specific intervention is medical abandonment and medical malpractice."
+      ]
+    ],
+    "shortestValidSolution": "Competent adult Jehovah's Witness refuses blood = honor autonomous refusal + maximize bloodless medical/surgical strategies.",
+    "necessaryInference": "Respect a competent adult's right to refuse blood products based on religious beliefs while optimizing bloodless conservation therapies.",
+    "strongestDistractor": "Administer blood products emergently against her wishes under the principle of beneficence",
+    "distractorExclusion": "Beneficence cannot override competent adult autonomy; forced transfusion constitutes civil battery and ethical violation.",
+    "citation": "Glickstein J et al. Digital health literacy in safety-net primary care: a needs assessment and call to action for health equity. Front Digit Health. PMID: 42866528.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 medical ethics/cultural competence item on managing competent adult Jehovah's Witness blood product refusals.",
+      "distractorExclusionNotes": "Excluded forced transfusion and court orders because competent adults have full constitutional rights to refuse life-saving blood.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0887",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Physician-Industry Financial Relationships and Acceptance of Commercial Gifts",
+    "provisionalDifficulty": 4,
+    "stem": "A pharmaceutical sales representative visits an outpatient internal medicine clinic to promote a newly approved, expensive branded oral anticoagulant for stroke prevention. The representative offers the clinic physician a \\$150 luxury dinner at a fine dining restaurant, all-expenses-paid resort accommodations to attend an upcoming weekend 'expert advisory roundtable' where no primary research will be presented, and 100 free branded pens and coffee mugs. The representative also offers personal financial honoraria if the physician writes at least 20 new prescriptions for the branded anticoagulant this month. According to the American Medical Association (AMA) Code of Medical Ethics and federal anti-kickback regulations, which of the following statements represents the professional and ethical standard regarding these offers?",
+    "choices": [
+      [
+        "All of these gifts, hospitality, and prescribing-linked financial honoraria must be declined because they create conflicts of interest and violate anti-kickback statutes",
+        "Physician-industry interactions are strictly regulated by the AMA Code of Medical Ethics, the Physician Payments Sunshine Act, and federal healthcare laws (the federal Anti-Kickback Statute and False Claims Act). Gifts from pharmaceutical or medical device companies: (1) Financial compensation tied directly or indirectly to prescribing volume (e.g., honoraria for writing 20 prescriptions) is a direct illegal kickback that violates federal criminal law and medical ethics; (2) Pure personal gifts (e.g., luxury dinners, recreational trips, resort accommodations) create conscious and unconscious conflicts of interest, bias clinical prescribing toward more expensive drugs, and must be completely declined; (3) Even small promotional items (pens, notepads, mugs) have been shown in behavioral studies to subtly influence prescribing patterns and are prohibited by professional guidelines; (4) Legitimate industry support is strictly limited to accredited, independent continuing medical education (CME) where the sponsor has zero control over content, speakers, or attendees."
+      ],
+      [
+        "The physician may accept the resort accommodations as long as the physician attends at least one 30-minute lecture",
+        "Attending a brief marketing lecture does not convert commercial hospitality into legitimate educational sponsorship; it remains an unethical gift."
+      ],
+      [
+        "The prescribing-linked honoraria are ethically permissible as long as the physician genuinely believes the drug is superior",
+        "Financial incentives linked to prescribing habits are illegal kickbacks under federal law, regardless of the physician's subjective clinical beliefs."
+      ],
+      [
+        "Accepting the luxury dinner is ethical provided the physician discloses the meal on a public clinic bulletin board",
+        "Public disclosure does not eliminate the psychological bias or ethical conflict of interest inherent in accepting commercial luxury meals."
+      ],
+      [
+        "All gifts are legally permissible under federal law provided the fair market value of each individual item is under $500",
+        "There is no $500 safe-harbor exception for personal gifts; professional guidelines prohibit gifts with no educational or patient benefit."
+      ]
+    ],
+    "shortestValidSolution": "Pharma representative offers luxury dinner, resort trip, and prescribing honoraria = decline all (creates conflict of interest and violates kickback laws).",
+    "necessaryInference": "Apply AMA ethical guidelines and federal anti-kickback standards prohibiting gifts, travel hospitality, and prescription-linked financial incentives from industry.",
+    "strongestDistractor": "The physician may accept the resort accommodations as long as the physician attends at least one 30-minute lecture",
+    "distractorExclusion": "Brief token lectures do not legitimize industry-funded resort travel; accepting promotional gifts and kickbacks violates medical ethics.",
+    "citation": "Galderisi S et al. Ethical challenges in contemporary psychiatry: an overview and an appraisal of possible strategies and research needs. World Psychiatry. PMID: 39279422.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 professional ethics/jurisprudence item on physician-industry interactions, commercial gifts, and anti-kickback laws.",
+      "distractorExclusionNotes": "Excluded partial acceptance and disclosure justifications because industry-funded gifts and prescribing incentives are strictly unethical.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0888",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Anaphylactic Shock Intramuscular Epinephrine in Anterolateral Thigh",
+    "provisionalDifficulty": 4,
+    "stem": "A 28-year-old woman is brought to the emergency department by triage wheelchair 15 minutes after eating a meal containing cashews at a restaurant. She is in severe respiratory distress, hoarse, and clutching her throat. On physical examination, she is anxious, diaphoretic, and speaking in one-word gasps. There is prominent angioedema of the lips, tongue, and uvula, accompanied by diffuse, pruritic, raised erythematous urticarial wheals over her face, neck, and trunk. High-pitched inspiratory stridor and bilateral expiratory wheezes are audible. Vital signs show blood pressure 78/42 mm Hg, heart rate 136/min, respiratory rate 34/min, and room air oxygen saturation 86%. Which of the following is the single most critical, life-saving initial intervention?",
+    "choices": [
+      [
+        "Immediate intramuscular injection of epinephrine 0.3 to 0.5 mg (1:1,000) into the anterolateral thigh",
+        "Anaphylaxis is an acute, life-threatening systemic hypersensitivity reaction involving two or more organ systems (cutaneous urticaria/angioedema, respiratory compromise, and cardiovascular collapse/hypotension). EPINEPHRINE IS THE FIRST-LINE, LIFE-SAVING DRUG OF CHOICE and must be administered IMMEDIATELY without delay. Epinephrine's multimodal adrenergic effects treat every pathophysiological feature of anaphylaxis: (1) Alpha-1 agonism causes potent peripheral vasoconstriction, reversing vasodilation, increasing blood pressure, and decreasing mucosal airway edema; (2) Beta-1 agonism increases cardiac contractility and heart rate, augmenting cardiac output; and (3) Beta-2 agonism promotes rapid bronchial smooth muscle relaxation (bronchodilation) and stabilizes mast cell and basophil membranes, halting further inflammatory mediator release. The standard dose is 0.3 to 0.5 mg of 1:1,000 (1 mg/mL) solution administered INTRAMUSCULARLY into the mid-anterolateral thigh (vastus lateralis), which achieves significantly faster and higher peak plasma concentrations than subcutaneous injection or deltoid injection. Antihistamines and corticosteroids are second-line adjuncts that have slow onset and DO NOT prevent airway collapse or death."
+      ],
+      [
+        "Intravenous diphenhydramine 50 mg combined with oral famotidine 20 mg",
+        "H1 and H2 antihistamines relieve pruritus and urticaria, but do NOT relieve laryngeal edema, reverse bronchospasm, or restore blood pressure, and must never delay epinephrine."
+      ],
+      [
+        "Intravenous methylprednisolone 125 mg bolus as primary emergency monotherapy",
+        "Corticosteroids have an onset of action of 4 to 6 hours and have zero immediate effect on acute airway obstruction or circulatory collapse."
+      ],
+      [
+        "Subcutaneous epinephrine injection into the deltoid muscle",
+        "Subcutaneous and deltoid injections produce significantly slower absorption and lower peak plasma drug levels than intramuscular vastus lateralis injection."
+      ],
+      [
+        "Continuous inhaled nebulized albuterol without systemic medication",
+        "Albuterol relaxes lower bronchioles, but does not treat laryngeal edema or distributive vasodilatory shock."
+      ]
+    ],
+    "shortestValidSolution": "Stridor + hypotension (78/42) + urticaria = Anaphylaxis -> immediate IM epinephrine (1:1000) into anterolateral thigh.",
+    "necessaryInference": "Select immediate intramuscular epinephrine in the anterolateral thigh as the primary life-saving intervention for anaphylaxis.",
+    "strongestDistractor": "Intravenous diphenhydramine 50 mg combined with oral famotidine 20 mg",
+    "distractorExclusion": "Antihistamines are slow adjuncts that do not reverse shock or airway edema; IM epinephrine is the mandatory first-line therapy.",
+    "citation": "Shaker MS, Wallace DV, Golden DBK, et al. Anaphylaxis-A 2020 Practice Parameter Update, Systematic Review, and Grading of Recommendations, Assessment, Development and Evaluation (GRADE) Analysis. J Allergy Clin Immunol. 2020;145(4):1082-1123. PMID: 32001253.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine item on anaphylactic shock and immediate intramuscular epinephrine in the vastus lateralis.",
+      "distractorExclusionNotes": "Excluded antihistamines and steroids because both lack immediate life-saving efficacy compared to prompt IM epinephrine.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0889",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Acute Aortic Dissection Immediate Beta-Blocker Heart Rate and Shear Control",
+    "provisionalDifficulty": 4,
+    "stem": "A 58-year-old man presents to the emergency department with sudden-onset, excruciating, 'tearing' substernal chest pain radiating straight between his scapulae that began 45 minutes ago. On physical examination, he is pale and diaphoretic. Blood pressure measured in the right arm is 204/118 mm Hg, and in the left arm is 172/96 mm Hg. Heart rate is 108/min regular. Neurological examination is intact. Contrast-enhanced computed tomographic angiography (CTA) of the chest confirms an acute Stanford Type A aortic dissection involving the ascending aorta, extending into the aortic arch with a patent true and false lumen. The cardiothoracic surgery team is mobilized for emergent operative repair. While preparing the patient for the operating room, which of the following is the most critical immediate pharmacological sequence to control aortic wall shear stress?",
+    "choices": [
+      [
+        "Immediate intravenous beta-blocker (e.g., esmolol or labetalol) targeting heart rate < 60/min, followed by vasodilator therapy if systolic BP remains > 120 mm Hg",
+        "Acute aortic dissection is a cardiovascular emergency requiring immediate medical stabilization to limit propagation of the dissection flap and prevent catastrophic aortic rupture, hemopericardium, and tamponade. The primary physiological objective is reducing aortic wall shear stress (dP/dt, the rate of change of left ventricular pressure over time). Guidelines dictate a strict pharmacological sequence: (1) Intravenous beta-blockade (e.g., esmolol infusion or labetalol boluses) must be initiated FIRST, targeting a resting heart rate < 60 beats/min; (2) Once beta-blockade is established, if systolic blood pressure remains elevated, a pure vasodilator (e.g., intravenous nicardipine or nitroprusside) is added to rapidly achieve a target systolic BP between 100 and 120 mm Hg. CRITICAL PITFALL: Administering a vasodilator (nitroprusside, hydralazine) WITHOUT prior beta-blockade triggers profound reflex sympathetic activation and reflex tachycardia, dramatically increasing dP/dt and accelerating aortic flap tearing and fatal rupture."
+      ],
+      [
+        "Immediate intravenous sodium nitroprusside infusion as initial monotherapy targeting systolic BP < 100 mm Hg",
+        "Administering a vasodilator alone induces severe reflex tachycardia and increases dP/dt, tearing the aortic dissection flap and causing rupture."
+      ],
+      [
+        "Immediate intravenous hydralazine bolus combined with oral amlodipine",
+        "Hydralazine triggers severe reflex sympathetic stimulation and tachycardia, accelerating aortic shear stress and propagation."
+      ],
+      [
+        "Intravenous unfractionated heparin bolus and infusion to prevent true lumen thrombosis",
+        "Anticoagulation is strictly contraindicated in acute aortic dissection because it accelerates false lumen propagation, bleeding, and fatal hemopericardium."
+      ],
+      [
+        "High-dose intravenous nitroglycerin infusion with permissive tachycardia up to 130 beats/min",
+        "Nitroglycerin causes venodilation and reflex tachycardia; controlling heart rate below 60/min with beta-blockers is the essential primary step."
+      ]
+    ],
+    "shortestValidSolution": "Type A aortic dissection = IV beta-blocker FIRST (target HR < 60) -> then add vasodilator (target SBP < 120) to control dP/dt shear.",
+    "necessaryInference": "Enforce the critical sequence in acute aortic dissection: beta-blockade before vasodilation to control dP/dt and prevent reflex tachycardia.",
+    "strongestDistractor": "Immediate intravenous sodium nitroprusside infusion as initial monotherapy targeting systolic BP < 100 mm Hg",
+    "distractorExclusion": "Vasodilators without prior beta-blockers induce reflex tachycardia and increase aortic shear stress (dP/dt), precipitating fatal rupture.",
+    "citation": "Isselbacher EM, Preventza O, Black JH 3rd, et al. 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease. Circulation. 2022;146(24):e334-e482. PMID: 36322642.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency cardiology item testing physiological shear control (dP/dt) and sequencing in acute aortic dissection.",
+      "distractorExclusionNotes": "Excluded nitroprusside monotherapy and hydralazine because beta-blockade must always precede vasodilation to prevent reflex shear stress.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0890",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Refractory Ventricular Fibrillation Defibrillation and Antiarrhythmic Therapy",
+    "provisionalDifficulty": 4,
+    "stem": "A 62-year-old man collapses in the emergency department waiting room. The resuscitation team initiates cardiopulmonary resuscitation (CPR). The cardiac monitor reveals fine-to-coarse ventricular fibrillation (VF). Chest compressions are delivered with minimal interruptions (rate 110/min, depth > 5 cm, full chest recoil), an advanced airway is placed, and a first 200-joule biphasic defibrillation shock is delivered. CPR is resumed immediately for 2 minutes, and intravenous epinephrine 1 mg is administered. Rhythm check reveals persistent coarse ventricular fibrillation; a second 200-joule shock is delivered, and CPR is resumed. Rhythm check after the second cycle demonstrates ongoing, refractory ventricular fibrillation. A third 200-joule shock is delivered. While high-quality chest compressions continue, which of the following is the most appropriate first-line antiarrhythmic agent to administer according to Advanced Cardiovascular Life Support (ACLS) guidelines?",
+    "choices": [
+      [
+        "Intravenous amiodarone 300 mg bolus (or intravenous lidocaine 1.0 to 1.5 mg/kg)",
+        "In cardiac arrest with shock-refractory ventricular fibrillation or pulseless ventricular tachycardia (VF/pVT that persists after at least two shocks and epinephrine): (1) High-quality CPR and timely defibrillation remain the primary determinant of survival; (2) The recommended first-line antiarrhythmic therapy according to ACLS guidelines is intravenous amiodarone (300 mg IV/IO push initial bolus, with a second dose of 150 mg IV if VF/pVT persists) OR intravenous lidocaine (1.0 to 1.5 mg/kg IV initial bolus, followed by 0.5 to 0.75 mg/kg). Large randomized clinical trials (the ALPS trial) demonstrated that amiodarone and lidocaine significantly increased the rate of survival to hospital admission in shock-refractory out-of-hospital VF/pVT compared to placebo. Concurrently, the team must aggressively identify and treat reversible etiologies (the 5 H's and 5 T's: Hypoxia, Hypovolemia, Hydrogen ion acidosis, Hypo/hyperkalemia, Hypothermia; Tension pneumothorax, Tamponade, Toxins, Thrombosis pulmonary, Thrombosis coronary)."
+      ],
+      [
+        "Intravenous calcium gluconate 3 g rapid bolus as routine empirical therapy",
+        "Routine calcium administration does not terminate ventricular fibrillation and is indicated strictly for documented hyperkalemia, hypocalcemia, or CCB toxicity."
+      ],
+      [
+        "Intravenous sodium bicarbonate 100 mEq bolus to treat lactic acidosis",
+        "Routine bicarbonate causes intracellular paradoxical acidosis and hyperosmolarity, and is reserved for severe tricyclic antidepressant overdose or preexisting metabolic acidosis."
+      ],
+      [
+        "Immediate cessation of chest compressions to perform emergent transvenous cardiac pacing",
+        "Cardiac pacing has zero efficacy in terminating ventricular fibrillation and interrupting chest compressions severely decreases coronary perfusion."
+      ],
+      [
+        "Intravenous atropine 3 mg rapid push to block vagal efferent tone",
+        "Atropine is indicated for symptomatic bradycardia; it has no role in pulseless ventricular fibrillation and was removed from the ACLS pulseless algorithm."
+      ]
+    ],
+    "shortestValidSolution": "Refractory VF after shock 2/3 = IV amiodarone 300 mg bolus (or lidocaine 1-1.5 mg/kg) + continuous CPR.",
+    "necessaryInference": "Apply ACLS shock-refractory VF algorithm: administer amiodarone 300 mg (or lidocaine) after the second/third shock alongside CPR.",
+    "strongestDistractor": "Intravenous calcium gluconate 3 g rapid bolus as routine empirical therapy",
+    "distractorExclusion": "Calcium has no antiarrhythmic efficacy in refractory VF; amiodarone 300 mg or lidocaine is the guideline-directed antiarrhythmic.",
+    "citation": "Daya MR et al. Survival After Intravenous Versus Intraosseous Amiodarone, Lidocaine, or Placebo in Out-of-Hospital Shock-Refractory Cardiac Arrest. Circulation. PMID: 31941354.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/cardiology item on ACLS protocols for shock-refractory ventricular fibrillation and antiarrhythmic dosing.",
+      "distractorExclusionNotes": "Excluded calcium, bicarbonate, and pacing because amiodarone 300 mg (or lidocaine) is the evidence-based first-line antiarrhythmic.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0891",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Status Epilepticus Refractory to Benzodiazepines Second-Line Anticonvulsants",
+    "provisionalDifficulty": 4,
+    "stem": "A 32-year-old woman is brought to the emergency department in active status epilepticus. Her family witnessed continuous, generalized tonic-clonic convulsions that began 25 minutes ago. Upon arrival, the emergency team establishes airway protection, supplemental oxygen, and intravenous access. She receives intravenous lorazepam 4 mg over 2 minutes; generalized clonic activity persists. At minute 5, a second dose of intravenous lorazepam 4 mg is administered. At minute 10, the patient continues to experience continuous, bilateral convulsive seizure activity. Blood glucose is 110 mg/dL, and electrolytes are normal. Vital signs show blood pressure 138/82 mm Hg, heart rate 130/min, and oxygen saturation 95% on nonrebreather mask. Which of the following is the most appropriate next step in pharmacological management according to established status epilepticus guidelines (e.g., the ESETT trial)?",
+    "choices": [
+      [
+        "Immediate intravenous infusion of levetiracetam (or fosphenytoin, or valproate sodium)",
+        "Status epilepticus is defined operationally as >= 5 minutes of continuous seizure activity or >= 2 discrete seizures between which there is incomplete recovery of consciousness. It is a time-critical neurological emergency where prompt cessation of electrical activity prevents excitotoxic neuronal death. Treatment follows a strict phase-based algorithm: (1) First-line therapy (Phase 1, 0-5 to 10 min): Intravenous benzodiazepine (lorazepam 0.1 mg/kg IV, up to 4 mg repeated once, or IM midazolam 10 mg). (2) Second-line therapy (Phase 2, established status epilepticus, failing benzodiazepines): The landmark ESETT (Established Status Epilepticus Treatment Trial) randomized clinical trial demonstrated that intravenous levetiracetam (60 mg/kg, max 4,500 mg), intravenous fosphenytoin (20 mg PE/kg, max 1,500 mg), and intravenous valproate sodium (40 mg/kg, max 3,000 mg) have EQUIVALENT high efficacy (~45-50% seizure cessation) and safety. Any of these three agents represents guideline-directed second-line therapy. (3) Third-line therapy (refractory status epilepticus failing second-line): General anesthesia intubation with propofol, midazolam, or ketamine infusion."
+      ],
+      [
+        "Immediate administration of third and fourth boluses of intravenous lorazepam",
+        "Repeated benzodiazepine boluses beyond 2 doses fail to stop seizures due to GABA-A receptor internalization and precipitate profound respiratory depression."
+      ],
+      [
+        "Oral carbamazepine crushed and administered via nasogastric tube",
+        "Enteral administration is too slow, unpredictable, and ineffective for acute active convulsive status epilepticus."
+      ],
+      [
+        "Immediate high-dose intravenous dexamethasone to reduce cerebral edema",
+        "Corticosteroids have no anticonvulsant properties and do not terminate acute status epilepticus."
+      ],
+      [
+        "Administration of subcutaneous sumatriptan for presumed prolonged hemiplegic migraine",
+        "Sumatriptan treats acute migraines; it has zero efficacy for convulsive status epilepticus and risks coronary vasospasm."
+      ]
+    ],
+    "shortestValidSolution": "Status epilepticus failing 2 doses of lorazepam = Phase 2 second-line IV anticonvulsant (levetiracetam, fosphenytoin, or valproate; ESETT trial).",
+    "necessaryInference": "Apply the ESETT trial and AES guidelines selecting levetiracetam, fosphenytoin, or valproate as second-line therapy after benzodiazepine failure.",
+    "strongestDistractor": "Immediate administration of third and fourth boluses of intravenous lorazepam",
+    "distractorExclusion": "Repeated benzodiazepines fail due to GABA receptor downregulation; progressing to non-sedating IV second-line anticonvulsants is required.",
+    "citation": "Chamberlain JM et al. Efficacy of levetiracetam, fosphenytoin, and valproate for established status epilepticus by age group (ESETT): a double-blind, responsive-adaptive, randomised controlled trial. Lancet. PMID: 32203691.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency neurology item on managing established status epilepticus with second-line anticonvulsants based on the ESETT trial.",
+      "distractorExclusionNotes": "Excluded repeated benzodiazepines and oral medications because IV levetiracetam, fosphenytoin, or valproate is the proven standard.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0892",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Large Vessel Occlusion Ischemic Stroke Extended Window Mechanical Thrombectomy",
+    "provisionalDifficulty": 5,
+    "stem": "A 68-year-old woman is brought to the comprehensive stroke center by her husband. She was in her normal state of health when she went to sleep at 10:00 PM last night. Upon awakening at 7:00 AM this morning (9 hours since she was last seen normal), her husband discovered her with severe right-sided hemiplegia and complete inability to speak (global aphasia). NIHSS score is 18. Vital signs show blood pressure 164/92 mm Hg, and pulse 76/min irregular. Non-contrast head CT demonstrates an Alberta Stroke Program Early CT Score (ASPECTS) of 9, with no evidence of intracranial hemorrhage or extensive hypoattenuation. CT angiography (CTA) confirms an acute occlusion of the M1 segment of the left middle cerebral artery (MCA). CT perfusion (CTP) reveals an ischemic core volume (cerebral blood flow < 30%) of 15 mL and a critically hypoperfused penumbra volume (Tmax > 6 seconds) of 110 mL, representing a large ischemic penumbral tissue mismatch (mismatch ratio > 7). Which of the following is the most appropriate management approach according to landmark extended-window stroke trials (e.g., DAWN and DEFUSE 3) and AHA/ASA guidelines?",
+    "choices": [
+      [
+        "Immediate transfer to the angiography suite for emergent catheter-based mechanical thrombectomy",
+        "While intravenous thrombolysis (alteplase/tenecteplase) is limited to within 4.5 hours of last known normal, Mechanical Thrombectomy (endovascular clot retrieval) has an extended treatment window up to 24 hours. Landmark randomized clinical trials (DAWN trial up to 24 hours and DEFUSE 3 trial up to 16 hours) established that patients presenting with Large Vessel Occlusion (LVO, internal carotid artery or proximal MCA M1) between 6 and 24 hours who have a substantial 'clinical-core mismatch' or 'perfusion-core mismatch' derive massive functional benefits from mechanical thrombectomy: (1) Small irreversible infarct core (e.g., core volume < 50-70 mL, or ASPECTS >= 6), AND (2) Substantial salvageable ischemic penumbra (large mismatch ratio >= 1.8). In this patient presenting 9 hours after last seen well, with a tiny core (15 mL), huge salvageable penumbra (110 mL), and high NIHSS (18), immediate mechanical thrombectomy dramatically improves functional independence (NNT ~2-3 to reduce disability) and is the definitive standard of care."
+      ],
+      [
+        "Intravenous alteplase infusion because the wake-up time is within nine hours",
+        "Intravenous thrombolysis is strictly contraindicated beyond 4.5 hours of last seen normal (unless MRI DWI/FLAIR mismatch is demonstrated in specific non-LVO cases)."
+      ],
+      [
+        "Conservative medical management with oral aspirin 325 mg and admission to the ward",
+        "Conservative aspirin alone in acute LVO with massive salvageable penumbra results in irreversible completed hemispheric infarction and death."
+      ],
+      [
+        "Emergent decompressive hemicraniectomy prior to attempting any vascular recanalization",
+        "Hemicraniectomy is a salvage rescue surgical procedure for malignant cerebral edema developing days after completed infarction, not an upfront recanalization therapy."
+      ],
+      [
+        "Therapeutic anticoagulation with full-dose intravenous unfractionated heparin bolus",
+        "Full-dose anticoagulation in acute large-territory ischemic stroke does not recanalize the occluded M1 vessel and significantly increases fatal hemorrhagic transformation."
+      ]
+    ],
+    "shortestValidSolution": "Stroke 9 hrs (wake-up) + M1 occlusion + small core (15 mL) + large penumbra (110 mL) = Mechanical Thrombectomy (DAWN/DEFUSE 3).",
+    "necessaryInference": "Apply extended-window guidelines (DAWN/DEFUSE 3 trials) selecting mechanical thrombectomy up to 24 hours based on perfusion mismatch.",
+    "strongestDistractor": "Intravenous alteplase infusion because the wake-up time is within nine hours",
+    "distractorExclusion": "Standard IV alteplase window is 4.5 hours; endovascular mechanical thrombectomy is indicated up to 24 hours for LVO with perfusion mismatch.",
+    "citation": "Nogueira RG, Jadhav AP, Haussen DC, et al. Thrombectomy 6 to 24 Hours After Stroke With a Mismatch Between Deficit and Infarct (DAWN Trial). N Engl J Med. 2018;378(1):11-21. PMID: 29129157.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 neurology emergency item on extended-window mechanical thrombectomy for large vessel occlusion based on DAWN/DEFUSE 3.",
+      "distractorExclusionNotes": "Excluded IV alteplase (outside 4.5 hr window) and heparin because endovascular thrombectomy is the proven standard up to 24 hours with tissue mismatch.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0893",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Severe Accidental Hypothermia With Cardiac Arrest Extracorporeal Rewarming",
+    "provisionalDifficulty": 5,
+    "stem": "A 36-year-old man is found submerged in an ice-covered alpine mountain stream. Emergency responders extricate him and perform continuous CPR during transport. On arrival at the trauma resuscitation bay, he is pulseless, apneic, and completely unresponsive. His extremities and core torso are cold and stiff. The cardiac monitor demonstrates asystole. Pupils are fixed and dilated. Core body temperature measured with an esophageal thermistor is 24.2 C (75.6 F). Serum potassium is 3.8 mEq/L. Blood gas analysis reveals severe mixed acidosis. A junior resident recommends terminating resuscitation and declaring the patient deceased due to prolonged asystole, fixed pupils, and rigor-like rigidity. Which of the following is the most appropriate resuscitation and rewarming strategy according to Wilderness Medical Society and international hypothermia resuscitation guidelines?",
+    "choices": [
+      [
+        "Continue active CPR and initiate emergent extracorporeal life support / ECMO rewarming; the patient cannot be declared dead until rewarmed to >= 32.0 C",
+        "Severe accidental hypothermia (core temperature < 28 C, Stage IV) profoundly depresses cerebral metabolic demand (reducing cerebral oxygen consumption by ~50% for every 6 C drop in core temperature). This profound neuroprotection allows complete neurologically intact recovery after prolonged periods of cardiac arrest that would be universally fatal at normothermia, embodying the critical clinical aphorism: 'No one is dead until warm and dead.' Rigid chest wall musculature can mimic rigor mortis, and fixed pupils reflect hypothermic brainstem suppression rather than brain death. In hypothermic cardiac arrest without obvious lethal traumatic injuries: (1) CPR must be continued; (2) The treatment of choice for severe hypothermic cardiac arrest is Extracorporeal Life Support (ECLS) via venoarterial Extracorporeal Membrane Oxygenation (VA-ECMO) or cardiopulmonary bypass, which provides rapid internal core rewarming (up to 6-9 C/hr) and circulatory support; (3) Defibrillation and ACLS drugs (epinephrine) are largely ineffective at core temperatures < 30 C; (4) Resuscitation cannot be terminated until core body temperature is rewarmed to at least 32.0 C (or hyperkalemia > 12 mmol/L indicates irreversible cell lysis)."
+      ],
+      [
+        "Cease resuscitation immediately and declare death based on the irreversible asystolic cardiac rhythm",
+        "Asystole is an expected physiological effect of severe hypothermia (<28 C); cessation before rewarming violates international hypothermia resuscitation protocols."
+      ],
+      [
+        "Declare brain death immediately based on fixed, dilated pupils and lack of spontaneous movement",
+        "Hypothermia suppresses all brainstem reflexes and pupil reactivity; brain death cannot be diagnosed while core temperature is < 36 C."
+      ],
+      [
+        "Administer intravenous epinephrine 1 mg every two minutes until return of spontaneous circulation",
+        "Epinephrine does not metabolize at temperatures < 30 C, leading to massive toxic accumulation and fatal refractory arrhythmias upon rewarming."
+      ],
+      [
+        "Rely exclusively on passive external rewarming with warm blankets and heated ambient air",
+        "Passive rewarming requires endogenous heat production, which is absent in cardiac arrest; active extracorporeal rewarming is mandatory."
+      ]
+    ],
+    "shortestValidSolution": "Cardiac arrest with core temp 24.2 C = 'Not dead until warm and dead' -> continuous CPR + emergent ECMO/ECLS rewarming to >= 32 C.",
+    "necessaryInference": "Apply hypothermia resuscitation guidelines: continue CPR and utilize ECMO/ECLS core rewarming before death can be declared.",
+    "strongestDistractor": "Cease resuscitation immediately and declare death based on the irreversible asystolic cardiac rhythm",
+    "distractorExclusion": "Termination of resuscitation is strictly prohibited until the patient is rewarmed to >= 32 C because hypothermia provides profound neuroprotection.",
+    "citation": "Rauch S et al. Suspension syndrome: a scoping review and recommendations from the International Commission for Mountain Emergency Medicine (ICAR MEDCOM). Scand J Trauma Resusc Emerg Med. PMID: 38071341.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/critical care item on managing severe hypothermic cardiac arrest with extracorporeal life support.",
+      "distractorExclusionNotes": "Excluded declaring death and passive rewarming because patients must be actively rewarmed with ECMO to >=32 C before declaring death.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0894",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Acetaminophen Overdose Rumack-Matthew Nomogram and N-Acetylcysteine",
+    "provisionalDifficulty": 4,
+    "stem": "A 22-year-old woman is brought to the emergency department 4.5 hours after a single, acute intentional ingestion of thirty 500-mg tablets of acetaminophen (total 15 g) in a suicide attempt. She has mild nausea and epigastric discomfort but no vomiting. Vital signs show blood pressure 118/74 mm Hg, heart rate 84/min, and respiratory rate 16/min. Physical examination is unremarkable with no jaundice, hepatomegaly, or right upper quadrant tenderness. Laboratory evaluation reveals: AST 28 U/L, ALT 24 U/L, total bilirubin 0.8 mg/dL, and serum creatinine 0.8 mg/dL. A serum acetaminophen concentration drawn exactly 4.5 hours post-ingestion is 185 mcg/mL. When plotted on the Rumack-Matthew nomogram, this level falls well above the standard 'treatment line' (which begins at 150 mcg/mL at 4 hours). Which of the following is the most appropriate next step in pharmacological management?",
+    "choices": [
+      [
+        "Immediate initiation of intravenous (or oral) N-acetylcysteine therapy",
+        "Acetaminophen (APAP) hepatotoxicity is mediated by its reactive metabolite N-acetyl-p-benzoquinone imine (NAPQI), produced by cytochrome P450 2E1. At therapeutic doses, NAPQI is rapidly detoxified by conjugation with endogenous hepatic glutathione. In acute overdose, glutathione stores become exhausted (>70% depleted), allowing toxic NAPQI to bind covalently to hepatocyte mitochondrial proteins, causing centrilobular hepatic necrosis. The Rumack-Matthew nomogram guides therapy for single, acute ingestions between 4 and 24 hours. A 4.5-hour level of 185 mcg/mL falls clearly above the treatment line (150 mcg/mL at 4 hours), indicating high risk of severe hepatotoxicity. The antidote of choice is N-acetylcysteine (NAC), which acts as a glutathione precursor, directly conjugates NAPQI, and provides antioxidant protection. Initiating NAC within 8 hours of acute ingestion provides virtually 100% hepatoprotection and prevents acute liver failure and death."
+      ],
+      [
+        "Oral activated charcoal 50 g as sole primary therapy with no antidote",
+        "Activated charcoal is effective within 1 to 2 hours of ingestion to bind remaining pill fragments; at 4.5 hours, NAC is the essential systemic antidote."
+      ],
+      [
+        "Immediate transfer to the operating room for emergent orthotopic liver transplantation",
+        "Transplantation is indicated for King's College criteria in established acute liver failure (severe coagulopathy, encephalopathy, acidosis), not early stage I overdose."
+      ],
+      [
+        "Discharge home with psychiatric follow-up because liver enzymes are completely normal",
+        "In Stage I APAP toxicity (first 24 hours), transaminases are typically completely normal; clinical hepatic necrosis and AST/ALT elevation manifest at 24-72 hours."
+      ],
+      [
+        "High-dose intravenous flumazenil infusion to reverse acetaminophen receptor binding",
+        "Flumazenil is a benzodiazepine antagonist that has zero biochemical interaction with acetaminophen metabolism."
+      ]
+    ],
+    "shortestValidSolution": "Acute APAP overdose + 4.5 hr level 185 mcg/mL (above Rumack-Matthew line) = immediate N-acetylcysteine (NAC).",
+    "necessaryInference": "Apply the Rumack-Matthew nomogram to identify toxic acetaminophen levels and initiate N-acetylcysteine within the 8-hour protective window.",
+    "strongestDistractor": "Oral activated charcoal 50 g as sole primary therapy with no antidote",
+    "distractorExclusion": "Charcoal is an early adjunct; N-acetylcysteine is the definitive systemic antidote required when levels exceed the nomogram line.",
+    "citation": "Dart RC, Erdman AR, Olson KR, et al. Acetaminophen Poisoning: An Evidence-Based Consensus Guideline for Out-of-Hospital Management. Clin Toxicol (Phila). 2006;44(1):1-18. PMID: 16496488.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/toxicology item on applying the Rumack-Matthew nomogram and initiating N-acetylcysteine.",
+      "distractorExclusionNotes": "Excluded normal ALT dismissal (necrosis takes 24-72 hrs) and charcoal alone because levels above the nomogram mandate NAC therapy.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0895",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Acute Salicylate Poisoning Acid-Base Derangements and Hemodialysis Thresholds",
+    "provisionalDifficulty": 5,
+    "stem": "A 42-year-old man presents to the emergency department 6 hours after an intentional ingestion of an unknown quantity of aspirin. On examination, he is agitated, tachypneic, and profusely diaphoretic. He complains of loud ringing in his ears (tinnitus), nausea, and dizziness. Vital signs: blood pressure 138/82 mm Hg, heart rate 124/min, respiratory rate 36/min, and temperature 38.6 C (101.5 F). Arterial blood gas reveals: pH 7.46, PaCO2 20 mm Hg, and HCO3- 14 mEq/L. Serum sodium is 142 mEq/L, chloride is 100 mEq/L, and potassium is 3.6 mEq/L (anion gap = 142 - [100 + 14] = 28 mEq/L). Serum salicylate concentration is 96 mg/dL (severe toxicity > 70-80 mg/dL). Over the subsequent 2 hours despite intravenous sodium bicarbonate infusion and urine alkalinization, he develops confusion, stupor, and bibasilar pulmonary rales on exam. Which of the following is the definitive management of choice for this patient?",
+    "choices": [
+      [
+        "Emergent hemodialysis",
+        "Acute salicylate poisoning presents with a classic mixed acid-base disorder: (1) Primary Respiratory Alkalosis (direct stimulation of the medullary respiratory center causing hyperventilation and hypocapnia), accompanied by (2) Primary High Anion Gap Metabolic Acidosis (uncoupling of mitochondrial oxidative phosphorylation, accumulation of lactic acid, ketoacids, and salicylate anions). While mild-to-moderate toxicity is managed with volume resuscitation and urine alkalinization (IV sodium bicarbonate targeting urine pH 7.5-8.0 to ion-trap salicylate in renal tubules and prevent central nervous system penetration), definitive indications for EMERGENT HEMODIALYSIS include: (1) Serum salicylate level >= 90-100 mg/dL (or >= 80 mg/dL with renal impairment), (2) Central nervous system toxicity (altered mental status, confusion, seizures, coma), (3) Pulmonary edema (non-cardiogenic ARDS), (4) Renal failure impairing urinary clearance, or (5) Severe refractory acid-base/electrolyte deterioration despite bicarbonate therapy. In this patient with a level of 96 mg/dL, worsening encephalopathy, and pulmonary edema, emergent hemodialysis is the definitive life-saving therapy."
+      ],
+      [
+        "Endotracheal intubation with mild hyperventilation on low tidal volume",
+        "Intubating salicylate toxicity is exceptionally perilous: any transient hypoventilation drops blood pH, shifting un-ionized salicylate across the blood-brain barrier and causing rapid fatal brain death."
+      ],
+      [
+        "Oral N-acetylcysteine loading dose via nasogastric tube",
+        "N-acetylcysteine is the specific antidote for acetaminophen toxicity; it has zero efficacy for salicylate poisoning."
+      ],
+      [
+        "Continuous intravenous infusion of deferoxamine mesylate",
+        "Deferoxamine is an iron-chelating agent used for acute iron poisoning, not salicylate poisoning."
+      ],
+      [
+        "High-dose intravenous loop diuretic therapy with furosemide to induce diuresis",
+        "Loop diuretics acidify urine, promoting tubular reabsorption of salicylate, and worsen dehydration, accelerating central nervous system toxicity."
+      ]
+    ],
+    "shortestValidSolution": "Salicylate level 96 mg/dL + confusion + pulmonary rales = severe toxicity refractory to bicarb -> emergent hemodialysis.",
+    "necessaryInference": "Recognize indications for emergent hemodialysis in acute salicylate poisoning (level >90 mg/dL, CNS depression, pulmonary edema).",
+    "strongestDistractor": "Endotracheal intubation with mild hyperventilation on low tidal volume",
+    "distractorExclusion": "Intubation in salicylate toxicity carries immense mortality because mechanical ventilation cannot match extreme spontaneous hyperventilation.",
+    "citation": "Juurlink DN et al. Extracorporeal Treatment for Salicylate Poisoning: Systematic Review and Recommendations From the EXTRIP Workgroup. Ann Emerg Med. PMID: 25986310.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency toxicology/nephrology item on identifying hemodialysis indications in severe salicylate overdose.",
+      "distractorExclusionNotes": "Excluded intubation (extreme risk of fatal brain herniation from acidosis) and NAC because level >90 with neuro findings mandates hemodialysis.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0896",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Calcium Channel and Beta-Blocker Overdose High-Dose Insulin Euglycemia Therapy",
+    "provisionalDifficulty": 5,
+    "stem": "A 54-year-old man presents to the emergency department 2 hours after an intentional massive ingestion of sixty tablets of extended-release diltiazem (total 14.4 g) and thirty tablets of atenolol. On arrival, he is somnolent, cool, and mottled. Blood pressure is 66/38 mm Hg, and heart rate is 34/min with junctional bradycardia. Bedside echocardiogram reveals severe global left ventricular hypokinesis with an ejection fraction of 20%. Despite 3 liters of intravenous crystalloids, intravenous calcium chloride (3 g), and high-dose norepinephrine and epinephrine infusions, he remains in refractory cardiogenic shock with blood pressure 72/40 mm Hg. Point-of-care blood glucose is 280 mg/dL. Which of the following advanced pharmacological therapies is the treatment of choice to restore myocardial contractility and reverse shock?",
+    "choices": [
+      [
+        "High-dose insulin euglycemia therapy (regular insulin 1 unit/kg bolus followed by 1 to 10 units/kg/hr infusion with dextrose)",
+        "Calcium channel blocker (CCB) and beta-blocker overdoses are leading causes of fatal cardiovascular medication toxicity, producing refractory cardiogenic shock, profound bradycardia, and vasodilation. Calcium chloride and glucagon are traditional first-line adjuncts, but are frequently ineffective in massive poisonings. High-Dose Insulin Euglycemia (HIE / HDI) therapy is the definitive advanced inotropic therapy of choice. The physiological mechanism is metabolic: under normal aerobic conditions, myocardial cells preferentially utilize free fatty acids as their primary energy substrate. However, in severe shock and CCB-induced hypoperfusion, the stressed myocardium switches abruptly to carbohydrate (glucose) metabolism. Severe CCB poisoning simultaneously inhibits pancreatic L-type calcium channels, suppressing endogenous insulin release and causing hypoinsulinemia and severe peripheral insulin resistance. Administering supraphysiological doses of insulin (1 unit/kg IV bolus followed by 1 to 10 units/kg/hr continuous infusion) dramatically enhances myocardial glucose uptake, restores sarcoplasmic reticular calcium cycling, exerts a direct positive inotropic effect independent of adrenergic receptors, and restores cardiac output. A 10% or 20% dextrose infusion is co-administered to maintain euglycemia, with frequent bedside glucose and potassium monitoring."
+      ],
+      [
+        "Intravenous flumazenil 1 mg rapid bolus to reverse myocardial sedation",
+        "Flumazenil reverses benzodiazepines; it has zero efficacy on calcium channels or beta-adrenergic receptors and induces seizures."
+      ],
+      [
+        "High-dose intravenous sodium bicarbonate 150 mEq bolus to block cardiac sodium channels",
+        "Sodium bicarbonate is the antidote for sodium channel blockers (TCAs, flecainide); it does not restore calcium flux in CCB overdose."
+      ],
+      [
+        "Intravenous digoxin 0.5 mg bolus to increase myocyte contractility",
+        "Digoxin inhibits the Na+/K+ ATPase, exacerbating bradycardia and AV nodal blockade, accelerating fatal cardiac arrest in CCB/beta-blocker toxicity."
+      ],
+      [
+        "Oral activated charcoal 100 g administered via nasogastric tube without airway protection",
+        "Administering charcoal to a somnolent, hypotensive patient without endotracheal intubation results in massive fatal pulmonary charcoal aspiration."
+      ]
+    ],
+    "shortestValidSolution": "Refractory CCB/beta-blocker shock (diltiazem) = High-Dose Insulin Euglycemia therapy (1-10 units/kg/hr + dextrose).",
+    "necessaryInference": "Select high-dose insulin euglycemia (HIE) therapy as the definitive advanced metabolic inotrope for refractory CCB/beta-blocker toxicity.",
+    "strongestDistractor": "High-dose intravenous sodium bicarbonate 150 mEq bolus to block cardiac sodium channels",
+    "distractorExclusion": "Sodium bicarbonate treats TCA/sodium channel toxicity; High-Dose Insulin restores myocardial glucose metabolism in CCB overdose.",
+    "citation": "Graudins A, Lee HM, Druda D. Calcium Channel Antagonist and Beta-Blocker Overdose: Antidotes and Adjunct Therapies. Br J Clin Pharmacol. 2016;81(3):453-461. PMID: 26344579.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/toxicology item on advanced management of refractory CCB/beta-blocker shock with high-dose insulin.",
+      "distractorExclusionNotes": "Excluded bicarbonate (TCA specific) and digoxin (worsens AV block) because high-dose insulin is the proven metabolic inotrope.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0897",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Massive Life-Threatening Hemoptysis Dependent Positioning and Embolization",
+    "provisionalDifficulty": 4,
+    "stem": "A 56-year-old man with a history of cavitary pulmonary tuberculosis treated 10 years ago and chronic aspergilloma (fungus ball) presents to the emergency department with acute, massive hemoptysis. Over the past 45 minutes, he has coughed up approximately 350 mL of gross, bright red blood into an emesis basin. He is dyspneic, tachypneic at 32/min, and anxious. Vital signs: blood pressure 98/58 mm Hg, heart rate 118/min, and oxygen saturation 88% on high-flow mask. Portable chest radiography demonstrates a 6-cm thick-walled cavitary lesion with an intracavitary mass and surrounding dense consolidation occupying the right upper lobe, with clear left lung parenchyma. Fresh blood continues to pour from his mouth with each cough. Which of the following is the most appropriate immediate sequence of emergency airway and vascular interventions?",
+    "choices": [
+      [
+        "Position the patient in the right lateral decubitus position (bleeding lung dependent), secure the airway, and arrange emergent bronchial artery embolization",
+        "Massive (life-threatening) hemoptysis is defined as expectoration of >= 100 to 150 mL of blood in a single hour, or >= 600 mL in 24 hours, or any volume causing acute airway obstruction, hypoxia, or hemodynamic instability. Patients die from ASPHYXIATION and drowning in their own blood, not exsanguination. Immediate management priorities are: (1) Position the patient with the BLEEDING LUNG DOWN (right lateral decubitus in this patient) so gravity prevents blood from spilling across the carina into the healthy dependent left lung; (2) Airway protection: large-bore endotracheal intubation (ideally size >= 8.5 mm to allow flexible/rigid bronchoscopy) or selective endobronchial intubation of the non-bleeding mainstem bronchus; and (3) Definitive hemostasis: >90% of massive hemoptysis arises from the high-pressure BRONCHIAL ARTERIAL CIRCULATION (hypertrophied bronchial arteries supplying chronic cavitary/inflammatory lesions like aspergilloma). Emergent catheter-directed Bronchial Artery Embolization (BAE) in interventional radiology is the definitive treatment of choice, achieving immediate hemostasis in >85% of cases."
+      ],
+      [
+        "Position the patient in the left lateral decubitus position to encourage drainage of blood into the unaffected lung",
+        "Placing the bleeding lung up allows blood to flood the contralateral healthy lung, causing bilateral alveolar inundation and fatal asphyxia."
+      ],
+      [
+        "Administer high-dose intravenous heparin to prevent intra-alveolar clot formation",
+        "Anticoagulation in active massive pulmonary hemorrhage abolishes hemostasis and precipitates fatal drowning in blood."
+      ],
+      [
+        "Immediate transfer to the operating room for emergent right pneumonectomy without prior embolization",
+        "Emergent open thoracic resection during active massive bleeding carries prohibitive mortality (>35-50%); bronchial artery embolization is the standard bridge."
+      ],
+      [
+        "Prescribe oral voriconazole and schedule outpatient pulmonary angiography in one week",
+        "Massive hemoptysis carries high immediate mortality from asphyxiation; delayed outpatient therapy is completely negligent."
+      ]
+    ],
+    "shortestValidSolution": "Massive hemoptysis right lung = bleeding lung DEPENDENT (right side down) + secure airway + emergent bronchial artery embolization.",
+    "necessaryInference": "Apply life-saving positioning principles (bleeding side dependent to protect healthy lung) and select bronchial artery embolization for massive hemoptysis.",
+    "strongestDistractor": "Position the patient in the left lateral decubitus position to encourage drainage of blood into the unaffected lung",
+    "distractorExclusion": "Placing the healthy lung down floods it with blood, causing immediate asphyxiation; the bleeding lung must always be dependent.",
+    "citation": "Davidson K et al. Managing Massive Hemoptysis. Chest. PMID: 31374211.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 pulmonary emergency/interventional radiology item on managing massive hemoptysis with dependent positioning and bronchial artery embolization.",
+      "distractorExclusionNotes": "Excluded contralateral positioning (causes drowning) and open surgery because dependent positioning and catheter embolization are standard.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0898",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Septic Shock Resuscitation Hour-1 Bundle Compliance and Vasopressor Timing",
+    "provisionalDifficulty": 4,
+    "stem": "A 68-year-old man is brought to the emergency department from a long-term care facility with severe lethargy, productive cough, and chills. On arrival, he is obtunded. Vital signs show blood pressure 76/44 mm Hg (mean arterial pressure 55 mm Hg), heart rate 128/min, respiratory rate 28/min, and temperature 39.2 C (102.6 F). Oxygen saturation is 90% on room air. Point-of-care capillary lactate is 4.6 mmol/L. Right lower lobe bronchial breath sounds and crackles are present. The physician recognizes septic shock. Peripheral intravenous access is established. Which of the following sequences represents the correct execution of the Surviving Sepsis Campaign 'Hour-1 Bundle'?",
+    "choices": [
+      [
+        "Measure serum lactate, obtain blood cultures prior to antibiotics, administer broad-spectrum IV antibiotics, infuse 30 mL/kg crystalloid, and initiate norepinephrine if MAP remains < 65 mm Hg",
+        "The Surviving Sepsis Campaign 'Hour-1 Bundle' is a critical quality improvement protocol designed to reduce sepsis mortality by standardizing early resuscitation. The five core bundle components must be initiated within the FIRST HOUR of recognition: (1) Measure blood lactate concentration (and remeasure within 2-4 hours if initial lactate > 2.0 mmol/L to guide resuscitation); (2) Obtain blood cultures prior to starting antimicrobial therapy (without causing significant delay in antibiotic administration); (3) Administer broad-spectrum intravenous antimicrobials immediately (targeting within 1 hour of shock recognition); (4) Rapidly begin intravenous crystalloid fluid resuscitation at 30 mL/kg for hypotension (MAP < 65 mm Hg) or serum lactate >= 4.0 mmol/L; and (5) Apply vasopressors (norepinephrine is the first-choice vasopressor) during or immediately after fluid resuscitation to restore and maintain a mean arterial pressure >= 65 mm Hg if fluid resuscitation alone fails."
+      ],
+      [
+        "Withhold all intravenous antibiotics until sputum and urine culture sensitivities finalize at 48 hours",
+        "Delaying antibiotics in septic shock significantly increases mortality with each passing hour of delay; broad-spectrum empiric therapy within 1 hour is mandatory."
+      ],
+      [
+        "Infuse six liters of 0.9% normal saline before initiating any vasopressor agents",
+        "Forced high-volume fluid resuscitation without early vasopressors causes severe fluid overload, acute pulmonary edema, and delayed arterial perfusion."
+      ],
+      [
+        "Initiate dopamine as the preferred first-line vasopressor over norepinephrine",
+        "Dopamine was shown in the SOAP II trial to cause significantly more tachyarrhythmias and higher mortality in septic shock compared to norepinephrine."
+      ],
+      [
+        "Administer high-dose intravenous dexamethasone bolus prior to obtaining blood cultures",
+        "Corticosteroids are indicated only as refractory septic shock rescue therapy (hydrocortisone 200 mg/day) when fluids and vasopressors fail, not in the initial Hour-1 bundle."
+      ]
+    ],
+    "shortestValidSolution": "Septic shock Hour-1 Bundle = Lactate + blood cultures -> IV antibiotics + 30 mL/kg crystalloids + norepinephrine for MAP >= 65.",
+    "necessaryInference": "Apply the Surviving Sepsis Campaign Hour-1 bundle sequence: lactate, cultures, broad-spectrum antibiotics within 1 hr, 30 mL/kg fluids, and norepinephrine.",
+    "strongestDistractor": "Initiate dopamine as the preferred first-line vasopressor over norepinephrine",
+    "distractorExclusion": "Norepinephrine is the definitive first-line vasopressor in septic shock; dopamine carries higher arrhythmia and mortality rates.",
+    "citation": "Levy MM et al. The Surviving Sepsis Campaign Bundle: 2018 Update. Crit Care Med. PMID: 29767636.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 critical care/emergency medicine item on the Surviving Sepsis Campaign Hour-1 bundle components and execution.",
+      "distractorExclusionNotes": "Excluded antibiotic delays and dopamine because early broad-spectrum antibiotics and norepinephrine are established bundle requirements.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0899",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Acute Carbon Monoxide Toxicity Co-Oximetry and Hyperbaric Oxygen Therapy",
+    "provisionalDifficulty": 4,
+    "stem": "A 44-year-old man is rescued from a burning apartment building by firefighters. He was found unconscious in a smoke-filled bedroom. In the emergency department, he is awake but disoriented, complaining of a throbbing headache, dizziness, and nausea. Vital signs: blood pressure 132/84 mm Hg, heart rate 116/min, respiratory rate 22/min, and temperature 37.0 C. Standard standard finger pulse oximetry displays an oxygen saturation (SpO2) of 99% on room air. However, an arterial blood gas with co-oximetry reveals: pH 7.28, PaCO2 32 mm Hg, PaO2 94 mm Hg, and a Carboxyhemoglobin (COHb) level of 34% (normal for non-smokers < 3%). Serum lactate is 4.8 mmol/L. High-flow 100% normobaric oxygen via a nonrebreather mask is initiated immediately. Which of the following explains the misleadingly normal standard pulse oximetry, and what is the definitive therapeutic indication for Hyperbaric Oxygen (HBO) therapy?",
+    "choices": [
+      [
+        "Standard pulse oximetry cannot distinguish carboxyhemoglobin from oxyhemoglobin; hyperbaric oxygen is indicated for loss of consciousness, severe acidosis, or COHb > 25%",
+        "Carbon monoxide (CO) is a colorless, odorless gas that binds hemoglobin with an affinity > 200 times higher than oxygen, forming carboxyhemoglobin (COHb). This shifts the oxygen-hemoglobin dissociation curve to the left (Haldane effect), preventing oxygen release to tissues and causing profound cellular hypoxia and mitochondrial cytochrome c oxidase inhibition. Crucial diagnostic pitfall: Standard two-wavelength pulse oximeters measure light absorption at 660 nm and 940 nm, where carboxyhemoglobin has identical absorption to oxyhemoglobin. The oximeter falsely reads COHb as oxyhemoglobin, displaying a falsely reassuring 'normal' saturation (99%). True diagnosis requires Blood Co-Oximetry, which uses multiple wavelengths to differentiate hemoglobin species. Treatment begins with 100% normobaric oxygen, which shortens the half-life of COHb from 300 minutes to 60-90 minutes. Indications for Hyperbaric Oxygen (HBO, 2.5-3.0 atm, half-life 20-30 min) include: (1) Transient or sustained loss of consciousness / coma, (2) Neurological deficits or cognitive impairment, (3) Severe metabolic acidosis (lactate elevation), (4) Evidence of myocardial ischemia (ECG changes, troponin elevation), or (5) COHb level > 25% (or > 15-20% in pregnant women, as fetal hemoglobin avidly binds CO)."
+      ],
+      [
+        "The pulse oximeter was calibrated improperly; normobaric room air is sufficient because CO clears spontaneously in thirty minutes",
+        "CO has a half-life of 4 to 5 hours on room air; 100% oxygen or hyperbaric oxygen is essential to displace CO from hemoglobin."
+      ],
+      [
+        "Standard pulse oximetry measures methemoglobin, which cancels out carboxyhemoglobin; hyperbaric oxygen is strictly contraindicated",
+        "Pulse oximeters cannot measure COHb; hyperbaric oxygen is life-saving and reduces persistent delayed neurocognitive sequelae."
+      ],
+      [
+        "Intravenous methylene blue infusion is the definitive antidote to reduce carboxyhemoglobin to ferrous hemoglobin",
+        "Methylene blue is the antidote for methemoglobinemia; it has zero efficacy for carbon monoxide toxicity and worsens tissue hypoxia."
+      ],
+      [
+        "Immediate whole blood exchange transfusion is required because oxygen therapy cannot displace carbon monoxide",
+        "High-flow oxygen and hyperbaric oxygen rapidly displace CO via mass action; exchange transfusion is dangerous and unnecessary."
+      ]
+    ],
+    "shortestValidSolution": "Pulse oximeter can't tell COHb from OxyHb (reads 99%) -> co-oximetry COHb 34% + syncope/acidosis = Hyperbaric Oxygen (HBO).",
+    "necessaryInference": "Recognize pulse oximetry limitations in carbon monoxide toxicity and identify clinical indications for hyperbaric oxygen therapy.",
+    "strongestDistractor": "Intravenous methylene blue infusion is the definitive antidote to reduce carboxyhemoglobin to ferrous hemoglobin",
+    "distractorExclusion": "Methylene blue treats methemoglobinemia; carbon monoxide toxicity requires 100% normobaric or hyperbaric oxygen therapy.",
+    "citation": "Weaver LK. Clinical Practice. Carbon Monoxide Poisoning. N Engl J Med. 2009;360(12):1217-1225. PMID: 19297574.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 emergency medicine/toxicology item on pulse oximetry limitations and hyperbaric oxygen indications in carbon monoxide poisoning.",
+      "distractorExclusionNotes": "Excluded methylene blue (methemoglobinemia specific) and room air dismissal because co-oximetry and hyperbaric oxygen are required.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  },
+  {
+    "code": "op-c-s3-0900",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Terminal Dyspnea Palliative Opioids and the Doctrine of Double Effect",
+    "provisionalDifficulty": 4,
+    "stem": "A 76-year-old man with metastatic non-small cell lung cancer and extensive bilateral malignant pleural effusions is admitted to the inpatient hospice palliative care unit. He is bedbound, cachectic, and actively dying, with an estimated prognosis of hours to a few days. He experiences excruciating, refractory air hunger (terminal dyspnea) and severe anxiety, with tachypnea (respiratory rate 38/min), prominent accessory muscle use, and gasping. The palliative care physician orders an intravenous morphine infusion titrated specifically to relieve his dyspnea. The bedside nurse hesitates to administer the titrated opioid, expressing moral distress: 'If I give this morphine to relieve his breathing distress, it might depress his respirations further and accelerate his death, which would make me responsible for euthanasia.' Which of the following ethical principles provides the foundational justification for administering titrated opioids to relieve severe suffering in actively dying patients?",
+    "choices": [
+      [
+        "Doctrine of Double Effect, which permits an action intended to achieve a good result (relieving dyspnea) even if it carries a foreseeable, unintended secondary risk (potential respiratory depression)",
+        "The management of refractory terminal dyspnea and severe pain near the end of life relies ethically upon the classical philosophical and bioethical principle known as the 'Doctrine of Double Effect' (Rule of Double Effect). The doctrine states that an action having two foreseeable effects\u2014one good (relieving agonizing dyspnea and pain) and one bad (potentially accelerating death or causing respiratory depression)\u2014is morally permissible if four conditions are met: (1) The act itself (administering analgesia) is good or morally neutral; (2) The physician's INTENTION is solely to achieve the good effect (relieving terminal distress), with the bad effect being an unintended, foreseen side effect, NOT the intended goal; (3) The bad effect is not the means to the good effect (death is not what relieves the pain); and (4) There is a proportionately serious reason (relieving unbearable dying distress) to accept the secondary risk. Furthermore, extensive palliative care clinical evidence demonstrates that properly titrated opioids relieve dyspnea WITHOUT shortening survival or hastening death. Withholding titrated opioids out of misplaced fear of respiratory depression violates non-maleficence and beneficence, condemning dying patients to agonizing, untreated air hunger."
+      ],
+      [
+        "Principle of Non-Maleficence, which strictly forbids administering any medication that has potential physiological side effects",
+        "Non-maleficence does not mean withholding all medications with side effects; allowing unbearable terminal dyspnea to go untreated constitutes severe medical harm."
+      ],
+      [
+        "Doctrine of Paternalistic Beneficence, which empowers nurses to override physician orders based on personal religious beliefs",
+        "Paternalism does not authorize staff to deny prescribed comfort care to dying patients based on personal moral misunderstandings."
+      ],
+      [
+        "Principle of Utilitarian Resource Allocation, which directs medications away from terminally ill patients to save hospital budget",
+        "Resource rationing has zero ethical standing in bedside symptom management of terminal palliative care patients."
+      ],
+      [
+        "Active voluntary euthanasia, which allows clinicians to deliberately terminate life when suffering exceeds quality of life thresholds",
+        "Palliative opioid administration is NOT euthanasia; euthanasia involves deliberate lethal intent to end life, whereas palliative titration intends solely to relieve suffering."
+      ]
+    ],
+    "shortestValidSolution": "Titrating morphine for terminal dyspnea = Doctrine of Double Effect (intends relief of air hunger, secondary risk of death is unintended).",
+    "necessaryInference": "Apply the Doctrine of Double Effect justifying opioid titration for terminal dyspnea when the primary intent is symptom relief.",
+    "strongestDistractor": "Principle of Non-Maleficence, which strictly forbids administering any medication that has potential physiological side effects",
+    "distractorExclusion": "Non-maleficence does not prohibit palliative opioids; allowing untreated dying dyspnea is harm. The Doctrine of Double Effect provides the ethical framework.",
+    "citation": "Quill TE et al. The rule of double effect--a critique of its role in end-of-life decision making. N Engl J Med. PMID: 9392707.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 3 palliative medicine/medical ethics item on applying the Doctrine of Double Effect to treat refractory terminal dyspnea.",
+      "distractorExclusionNotes": "Excluded euthanasia and non-maleficence misconceptions because the Doctrine of Double Effect explicitly justifies palliative symptom relief.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Bibliographic metadata format screened; substantive claim-mapped source retrieval unperformed."
+    }
+  }
+];

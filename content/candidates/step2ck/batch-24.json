@@ -1,0 +1,1198 @@
+[
+  {
+    "code": "op-c-s2-0576",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Preeclampsia with Severe Features Magnesium and Antihypertensives",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old primigravida at 35 weeks of gestation presents to labor and delivery with a persistent, pounding frontal headache and visual blurring. Blood pressure on arrival is 172/114 mm Hg, confirmed on repeat measurement 15 minutes later. Physical examination reveals 3+ patellar reflexes with 2 beats of ankle clonus and 2+ bilateral lower extremity edema. Cardiotocography shows a reactive fetal heart rate tracing with normal baseline and no decelerations. Laboratory studies demonstrate: platelet count 78,000/microL (normal 150,000-450,000/microL), serum creatinine 1.4 mg/dL (baseline 0.6 mg/dL), AST 142 U/L, and ALT 168 U/L. Urinalysis demonstrates 3+ protein. Which of the following represents the most appropriate immediate medical management?",
+    "options": [
+      {
+        "text": "Initiate intravenous magnesium sulfate for seizure prophylaxis, administer intravenous labetalol (or hydralazine) for acute blood pressure reduction, and prepare for delivery",
+        "correct": true,
+        "explanation": "This patient has PREECLAMPSIA WITH SEVERE FEATURES. Preeclampsia is new-onset hypertension (>=140/90 mm Hg) after 20 weeks of gestation with proteinuria or evidence of end-organ dysfunction. Severe features include: (1) SBP >= 160 or DBP >= 110 mm Hg confirmed >=15 minutes apart; (2) Thrombocytopenia (platelets < 100,000/microL); (3) Impaired liver function (transaminases >=2x upper limit of normal); (4) Progressive renal insufficiency (serum creatinine > 1.1 mg/dL or doubling); (5) Pulmonary edema; or (6) New-onset persistent cerebral/visual symptoms (severe headache, scotomata). Guideline management requires: (1) INTRAVENOUS MAGNESIUM SULFATE (4-6 g IV loading dose followed by 1-2 g/hr continuous infusion) for SEIZURE PROPHYLAXIS; (2) IMMEDIATE ACUTE ANTIHYPERTENSIVE THERAPY (IV labetalol, IV hydralazine, or oral immediate-release nifedipine) to lower BP below 160/110 mm Hg and prevent maternal intracranial hemorrhage; and (3) EXPEDITED DELIVERY: at >=34 weeks gestation with severe features, DELIVERY IS MANDATORY once maternal hemodynamics are stabilized."
+      },
+      {
+        "text": "Administer intravenous diazepam monotherapy and expectant outpatient management until 37 weeks of gestation",
+        "correct": false,
+        "explanation": "Diazepam is inferior to magnesium sulfate for eclampsia prophylaxis; expectant outpatient management at 35 weeks with severe features is contraindicated."
+      },
+      {
+        "text": "Initiate oral nitroprusside infusion and administer high-dose oral furosemide to reduce peripheral edema",
+        "correct": false,
+        "explanation": "Nitroprusside carries risk of fetal cyanide toxicity; loop diuretics reduce placental perfusion in preeclampsia and are contraindicated unless overt pulmonary edema exists."
+      },
+      {
+        "text": "Administer intramuscular betamethasone and discharge home on oral labetalol with weekly clinic follow-up",
+        "correct": false,
+        "explanation": "Expectant management is strictly contraindicated in preeclampsia with severe features beyond 34 weeks of gestation; prompt delivery is required."
+      },
+      {
+        "text": "Perform emergency bedside cesarean delivery immediately under general anesthesia without administering magnesium sulfate",
+        "correct": false,
+        "explanation": "Magnesium sulfate and blood pressure control must be initiated immediately prior to delivery; general anesthesia without BP control can trigger fatal hypertensive stroke."
+      }
+    ],
+    "explanation": "This patient has PREECLAMPSIA WITH SEVERE FEATURES. Preeclampsia is new-onset hypertension (>=140/90 mm Hg) after 20 weeks of gestation with proteinuria or evidence of end-organ dysfunction. Severe features include: (1) SBP >= 160 or DBP >= 110 mm Hg confirmed >=15 minutes apart; (2) Thrombocytopenia (platelets < 100,000/microL); (3) Impaired liver function (transaminases >=2x upper limit of normal); (4) Progressive renal insufficiency (serum creatinine > 1.1 mg/dL or doubling); (5) Pulmonary edema; or (6) New-onset persistent cerebral/visual symptoms (severe headache, scotomata). Guideline management requires: (1) INTRAVENOUS MAGNESIUM SULFATE (4-6 g IV loading dose followed by 1-2 g/hr continuous infusion) for SEIZURE PROPHYLAXIS; (2) IMMEDIATE ACUTE ANTIHYPERTENSIVE THERAPY (IV labetalol, IV hydralazine, or oral immediate-release nifedipine) to lower BP below 160/110 mm Hg and prevent maternal intracranial hemorrhage; and (3) EXPEDITED DELIVERY: at >=34 weeks gestation with severe features, DELIVERY IS MANDATORY once maternal hemodynamics are stabilized. BP 172/114 + headache + platelets 78k + AST 142 at 35 weeks = Preeclampsia with severe features -> IV Magnesium sulfate + IV Labetalol + delivery.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Preeclampsia with Severe Features Magnesium and Antihypertensives.",
+    "keyPoints": [
+      "Preeclampsia with Severe Features Magnesium and Antihypertensives",
+      "BP 172/114 + headache + platelets 78k + AST 142 at 35 weeks = Preeclampsia with severe features -> IV Magnesium sulfate + IV Labetalol + delivery."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 202: Gestational Hypertension and Preeclampsia. Obstet Gynecol. 2019;133(1):e1-e25. PMID: 30575675.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30575675/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0577",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Eclampsia Magnesium Sulfate First-Line vs Toxicity Antidote",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old primigravida at 37 weeks of gestation who has had no prenatal care is brought to the emergency department after experiencing a witnessed 2-minute generalized tonic-clonic seizure at home. Upon arrival, she is postictal and confused. Blood pressure is 184/118 mm Hg, heart rate is 110/min, and respirations are 18/min. Urinalysis reveals 4+ protein. While intravenous access is being established, she begins to experience a second generalized tonic-clonic convulsion. Which of the following is the first-line anticonvulsant medication of choice to terminate the seizure and prevent recurrent convulsions in this patient?",
+    "options": [
+      {
+        "text": "Intravenous lorazepam (4 mg slow push) followed by intravenous fosphenytoin loading dose",
+        "correct": false,
+        "explanation": "Benzodiazepines and phenytoin are demonstrably inferior to magnesium sulfate for eclampsia; magnesium reduces recurrent seizures by >50% compared to phenytoin."
+      },
+      {
+        "text": "Intravenous magnesium sulfate (4 to 6 g loading dose over 15 to 20 minutes, followed by 1 to 2 g/hour continuous infusion)",
+        "correct": true,
+        "explanation": "ECLAMPSIA is defined as the occurrence of new-onset generalized tonic-clonic seizures in a woman with preeclampsia that cannot be attributed to other neurologic causes. Landmark international randomized trials (e.g., the Eclampsia Trial Collaborative Group) demonstrated decisively that INTRAVENOUS MAGNESIUM SULFATE IS THE FIRST-LINE AGENT OF CHOICE for both the treatment and prevention of recurrent eclamptic seizures, showing clear superiority over phenytoin, diazepam, and lytic cocktails in reducing recurrent convulsions and maternal mortality. Management of an active eclamptic seizure: (1) Maintain airway patency, position patient in left lateral decubitus, and administer supplemental oxygen; (2) Administer a 4-6 g IV loading dose of magnesium sulfate over 15-20 minutes, followed by 1-2 g/hr continuous infusion; (3) Treat severe hypertension (e.g. IV labetalol or hydralazine); and (4) Once maternal stabilization is achieved, expedite delivery regardless of gestational age. Note: If magnesium toxicity occurs (loss of deep tendon reflexes, respiratory depression <12/min), the immediate antidote is INTRAVENOUS CALCIUM GLUCONATE."
+      },
+      {
+        "text": "Intravenous propofol infusion combined with immediate bedside emergency hysterotomy",
+        "correct": false,
+        "explanation": "Propofol is an induction agent, not first-line eclampsia therapy; maternal resuscitation with magnesium and BP control must precede operative delivery."
+      },
+      {
+        "text": "Intravenous levetiracetam loading dose (2,000 mg) combined with oral valproate",
+        "correct": false,
+        "explanation": "Levetiracetam is used for primary epilepsy, not eclampsia; magnesium sulfate is the established global standard of care."
+      },
+      {
+        "text": "Intravenous calcium gluconate bolus (1 g) administered as immediate primary anticonvulsant therapy",
+        "correct": false,
+        "explanation": "Calcium gluconate is the antidote for magnesium toxicity; it antagonizes magnesium and would worsen eclamptic seizure thresholds."
+      }
+    ],
+    "explanation": "ECLAMPSIA is defined as the occurrence of new-onset generalized tonic-clonic seizures in a woman with preeclampsia that cannot be attributed to other neurologic causes. Landmark international randomized trials (e.g., the Eclampsia Trial Collaborative Group) demonstrated decisively that INTRAVENOUS MAGNESIUM SULFATE IS THE FIRST-LINE AGENT OF CHOICE for both the treatment and prevention of recurrent eclamptic seizures, showing clear superiority over phenytoin, diazepam, and lytic cocktails in reducing recurrent convulsions and maternal mortality. Management of an active eclamptic seizure: (1) Maintain airway patency, position patient in left lateral decubitus, and administer supplemental oxygen; (2) Administer a 4-6 g IV loading dose of magnesium sulfate over 15-20 minutes, followed by 1-2 g/hr continuous infusion; (3) Treat severe hypertension (e.g. IV labetalol or hydralazine); and (4) Once maternal stabilization is achieved, expedite delivery regardless of gestational age. Note: If magnesium toxicity occurs (loss of deep tendon reflexes, respiratory depression <12/min), the immediate antidote is INTRAVENOUS CALCIUM GLUCONATE. Active generalized tonic-clonic seizures + BP 184/118 + proteinuria = Eclampsia -> First-line IV Magnesium Sulfate (4-6 g bolus).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Eclampsia Magnesium Sulfate First-Line vs Toxicity Antidote.",
+    "keyPoints": [
+      "Eclampsia Magnesium Sulfate First-Line vs Toxicity Antidote",
+      "Active generalized tonic-clonic seizures + BP 184/118 + proteinuria = Eclampsia -> First-line IV Magnesium Sulfate (4-6 g bolus)."
+    ],
+    "references": [
+      {
+        "label": "The Eclampsia Trial Collaborative Group. Which anticonvulsant for women with eclampsia? Evidence from the Collaborative Eclampsia Trial. Lancet. 1995;345(8963):1455-1463. PMID: 7769899.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7769899/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0578",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Postpartum Hemorrhage Uterine Atony Stepwise Algorithm and Contraindications",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 28-year-old woman with a history of moderate persistent asthma delivers a 4,200-g male infant via spontaneous vaginal delivery following a prolonged 22-hour labor augmented with oxytocin. Ten minutes following placental delivery, brisk vaginal bleeding is noted, with continuous pooling of blood on the bed. Physical examination reveals a soft, boggy, poorly contracted uterus palpable 4 cm above the umbilicus. Vital signs demonstrate: blood pressure 92/56 mm Hg, heart rate 124/min, and oxygen saturation 98% on room air. Quantitative blood loss is estimated at 1,100 mL. Bimanual uterine massage and a continuous intravenous oxytocin infusion are immediately initiated, but heavy vaginal bleeding persists and the uterus remains boggy. Which of the following is the most appropriate next pharmacologic agent to administer?",
+    "options": [
+      {
+        "text": "Carboprost tromethamine (prostaglandin F2-alpha) intramuscularly as the preferred next-line uterotonic agent",
+        "correct": false,
+        "explanation": "Carboprost induces potent bronchial smooth muscle constriction and is strictly contraindicated in patients with asthma."
+      },
+      {
+        "text": "Immediate emergent peripartum total abdominal hysterectomy without attempting further medical therapy",
+        "correct": false,
+        "explanation": "Surgical hysterectomy is the definitive last resort; second-line uterotonics, TXA, and intrauterine balloon tamponade must be attempted first."
+      },
+      {
+        "text": "Methylergonovine intramuscularly (or sublingual misoprostol), while avoiding carboprost tromethamine due to her history of asthma",
+        "correct": true,
+        "explanation": "POSTPARTUM HEMORRHAGE (PPH) is defined as cumulative blood loss >= 1,000 mL or bleeding accompanied by symptoms of hypovolemia within 24 hours of delivery. UTERINE ATONY is the single most common cause (>70-80% of PPH cases), with risk factors including fetal macrosomia (>4,000 g), prolonged labor, and oxytocin receptor desensitization. The stepwise management algorithm includes: (1) Immediate BIMANUAL UTERINE MASSAGE and HIGH-DOSE IV OXYTOCIN infusion (first-line uterotonic); (2) Second-line uterotonics with careful attention to CONTRAINDICATIONS: (a) METHYLERGONOVINE (Methergine): ergot alkaloid causing potent smooth muscle contraction; CONTRAINDICATED IN HYPERTENSION or PREECLAMPSIA (triggers severe vasoconstriction and stroke); (b) CARBOPROST TROMETHAMINE (Hemabate, PGF2-alpha): prostaglandin F2-alpha analogue causing uterine contraction; STRICTLY CONTRAINDICATED IN ASTHMA (induces bronchospasm and fatal bronchoconstriction); (c) MISOPROSTOL (PGE1): oral/sublingual/rectal, safe in asthma and hypertension; (3) Tranexamic acid (TXA); (4) Intrauterine balloon tamponade (Bakri balloon); (5) Surgical intervention (compression sutures, uterine artery embolization/ligation, hysterectomy). Because this patient has asthma and normal/low BP, CARBOPROST IS STRICTLY CONTRAINDICATED, and METHYLERGONOVINE or MISOPROSTOL is the appropriate next choice."
+      },
+      {
+        "text": "Intramuscular medroxyprogesterone acetate combined with intravenous conjugated estrogens",
+        "correct": false,
+        "explanation": "Estrogens and progestins have no acute uterotonic properties and have zero role in acute life-threatening postpartum hemorrhage."
+      },
+      {
+        "text": "Intravenous magnesium sulfate infusion to relax pelvic musculature and facilitate manual exploration",
+        "correct": false,
+        "explanation": "Magnesium sulfate is a potent uterine tocolytic that promotes uterine muscle relaxation, which would catastrophically worsen uterine atony."
+      }
+    ],
+    "explanation": "POSTPARTUM HEMORRHAGE (PPH) is defined as cumulative blood loss >= 1,000 mL or bleeding accompanied by symptoms of hypovolemia within 24 hours of delivery. UTERINE ATONY is the single most common cause (>70-80% of PPH cases), with risk factors including fetal macrosomia (>4,000 g), prolonged labor, and oxytocin receptor desensitization. The stepwise management algorithm includes: (1) Immediate BIMANUAL UTERINE MASSAGE and HIGH-DOSE IV OXYTOCIN infusion (first-line uterotonic); (2) Second-line uterotonics with careful attention to CONTRAINDICATIONS: (a) METHYLERGONOVINE (Methergine): ergot alkaloid causing potent smooth muscle contraction; CONTRAINDICATED IN HYPERTENSION or PREECLAMPSIA (triggers severe vasoconstriction and stroke); (b) CARBOPROST TROMETHAMINE (Hemabate, PGF2-alpha): prostaglandin F2-alpha analogue causing uterine contraction; STRICTLY CONTRAINDICATED IN ASTHMA (induces bronchospasm and fatal bronchoconstriction); (c) MISOPROSTOL (PGE1): oral/sublingual/rectal, safe in asthma and hypertension; (3) Tranexamic acid (TXA); (4) Intrauterine balloon tamponade (Bakri balloon); (5) Surgical intervention (compression sutures, uterine artery embolization/ligation, hysterectomy). Because this patient has asthma and normal/low BP, CARBOPROST IS STRICTLY CONTRAINDICATED, and METHYLERGONOVINE or MISOPROSTOL is the appropriate next choice. Uterine atony + refractory to massage/oxytocin + patient has asthma = Avoid Carboprost (bronchospasm) -> Administer Methylergonovine (or misoprostol).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Postpartum Hemorrhage Uterine Atony Stepwise Algorithm and Contraindications.",
+    "keyPoints": [
+      "Postpartum Hemorrhage Uterine Atony Stepwise Algorithm and Contraindications",
+      "Uterine atony + refractory to massage/oxytocin + patient has asthma = Avoid Carboprost (bronchospasm) -> Administer Methylergonovine (or misoprostol)."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 183: Postpartum Hemorrhage. Obstet Gynecol. 2017;130(4):e168-e186. PMID: 28937571.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28937571/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0579",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Ectopic Pregnancy Methotrexate Candidate Criteria vs Laparoscopy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old woman presents to the outpatient clinic with 4 days of intermittent light vaginal spotting and mild, dull right lower quadrant abdominal cramping. Her last menstrual period was 6 weeks ago. Vital signs show: blood pressure 118/74 mm Hg, heart rate 72/min, and respirations 14/min. Physical examination reveals mild tenderness in the right adnexa without rebound, guarding, or peritoneal signs. Pelvic transvaginal ultrasound demonstrates an empty uterine cavity with an endometrial stripe of 12 mm, no free fluid in the cul-de-sac, and a 2.4-cm well-circumscribed, non-cystic mass in the right fallopian tube with no embryonic cardiac activity. Serum quantitative beta-hCG is 2,450 mIU/mL. Complete blood count, serum creatinine, and liver function tests are completely normal. The patient is reliable, asymptomatic, and willing to return for outpatient surveillance. Which of the following is the most appropriate management approach?",
+    "options": [
+      {
+        "text": "Perform urgent laparoscopy with right salpingectomy to prevent imminent tubal rupture",
+        "correct": false,
+        "explanation": "Surgical laparoscopy is unnecessary in an asymptomatic, stable patient meeting all criteria for medical therapy with methotrexate."
+      },
+      {
+        "text": "Perform an immediate diagnostic dilation and curettage (D&C) followed by oral misoprostol",
+        "correct": false,
+        "explanation": "D&C will not treat an ectopic tubal pregnancy and carries risks of uterine perforation; transvaginal ultrasound confirmed empty uterus with adnexal mass."
+      },
+      {
+        "text": "Discharge home with expectant observation and repeat serum beta-hCG in 4 weeks",
+        "correct": false,
+        "explanation": "Expectant management is reserved only for asymptomatic patients with very low and spontaneously declining beta-hCG (<1,000 mIU/mL); 2,450 requires active treatment."
+      },
+      {
+        "text": "Administer a single dose of intramuscular methotrexate (50 mg/m2) and measure repeat serum beta-hCG levels on days 4 and 7",
+        "correct": true,
+        "explanation": "This patient has an unruptured tubal ECTOPIC PREGNANCY. Medical management with SYSTEMIC METHOTREXATE (a folate antagonist that inhibits dihydrofolate reductase in rapidly dividing trophoblastic cells) is safe, highly effective, and preserves tubal anatomy in appropriately selected candidates. Criteria for medical therapy with methotrexate include: (1) Hemodynamic stability; (2) Serum beta-hCG < 5,000 mIU/mL (higher levels have significantly higher failure rates); (3) Ectopic mass size < 3.5 to 4.0 cm; (4) Absence of fetal cardiac activity on ultrasound; (5) Normal baseline hepatic, renal, and hematologic function; and (6) Patient reliability and compliance with post-treatment follow-up. Protocol: Administer IM methotrexate (50 mg/m2), measure serum beta-hCG on DAY 4 and DAY 7. An expected decrease in beta-hCG of >=15% between day 4 and day 7 indicates successful treatment; if <15%, a second dose of methotrexate or surgical intervention is warranted."
+      },
+      {
+        "text": "Prescribe oral mifepristone (200 mg) combined with oral misoprostol (800 mcg)",
+        "correct": false,
+        "explanation": "Mifepristone and misoprostol are used for medical termination of INTRAUTERINE pregnancies; they are ineffective for tubal ectopic gestation."
+      }
+    ],
+    "explanation": "This patient has an unruptured tubal ECTOPIC PREGNANCY. Medical management with SYSTEMIC METHOTREXATE (a folate antagonist that inhibits dihydrofolate reductase in rapidly dividing trophoblastic cells) is safe, highly effective, and preserves tubal anatomy in appropriately selected candidates. Criteria for medical therapy with methotrexate include: (1) Hemodynamic stability; (2) Serum beta-hCG < 5,000 mIU/mL (higher levels have significantly higher failure rates); (3) Ectopic mass size < 3.5 to 4.0 cm; (4) Absence of fetal cardiac activity on ultrasound; (5) Normal baseline hepatic, renal, and hematologic function; and (6) Patient reliability and compliance with post-treatment follow-up. Protocol: Administer IM methotrexate (50 mg/m2), measure serum beta-hCG on DAY 4 and DAY 7. An expected decrease in beta-hCG of >=15% between day 4 and day 7 indicates successful treatment; if <15%, a second dose of methotrexate or surgical intervention is warranted. Stable ectopic + mass < 3.5 cm (2.4 cm) + hCG < 5,000 (2,450) + no cardiac activity = Methotrexate IM candidate -> Monitor hCG days 4 and 7.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Ectopic Pregnancy Methotrexate Candidate Criteria vs Laparoscopy.",
+    "keyPoints": [
+      "Ectopic Pregnancy Methotrexate Candidate Criteria vs Laparoscopy",
+      "Stable ectopic + mass < 3.5 cm (2.4 cm) + hCG < 5,000 (2,450) + no cardiac activity = Methotrexate IM candidate -> Monitor hCG days 4 and 7."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 193: Tubal Ectopic Pregnancy. Obstet Gynecol. 2018;131(3):e91-e103. PMID: 29470343.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29470343/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0580",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Ruptured Ectopic Pregnancy Hemodynamic Shock Emergent Laparotomy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old woman is brought to the emergency department by ambulance after collapsing at home. She reports acute, agonizing, sharp lower abdominal pain that began 1 hour ago, followed by dizziness and a syncopal episode upon standing. She has not had a menstrual period for 7 weeks. Upon arrival, she is pale, diaphoretic, and in acute distress. Vital signs are: blood pressure 78/44 mm Hg, pulse 134/min and thready, respirations 24/min, and oxygen saturation 96% on room air. Physical examination reveals exquisite diffuse lower abdominal tenderness with voluntary and involuntary guarding, rigidity, and prominent rebound tenderness. Bedside point-of-care urine pregnancy test is positive. Rapid focused assessment with sonography for trauma (FAST) demonstrates extensive free fluid with mixed echogenicity in the hepatorenal recess (Morison pouch) and pelvis. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Transport the patient to the radiology suite for formal transvaginal Doppler ultrasonography and pelvic MRI",
+        "correct": false,
+        "explanation": "Transporting an unstable, bleeding patient out of the resuscitation bay to radiology for non-emergent imaging causes fatal exsanguination."
+      },
+      {
+        "text": "Administer intramuscular methotrexate (50 mg/m2) and admit to the medical intensive care unit",
+        "correct": false,
+        "explanation": "Methotrexate is strictly contraindicated in ruptured, hemodynamically unstable ectopic pregnancy and requires days to work; surgery is life-saving."
+      },
+      {
+        "text": "Perform an immediate bedside culdocentesis to confirm hemoperitoneum prior to surgical consultation",
+        "correct": false,
+        "explanation": "Culdocentesis is an outdated historical procedure superseded by bedside FAST; needle aspiration unnecessarily delays surgical intervention."
+      },
+      {
+        "text": "Administer high-dose intravenous tranexamic acid and observe in the clinical decision unit for 6 hours",
+        "correct": false,
+        "explanation": "Medical observation in ruptured ectopic pregnancy with hemoperitoneum leads to fatal hemorrhagic shock; emergent surgical exploration is required."
+      },
+      {
+        "text": "Initiate aggressive crystalloid and blood resuscitation, and transport immediately to the operating room for emergent exploratory laparoscopy or laparotomy",
+        "correct": true,
+        "explanation": "This patient has a RUPTURED ECTOPIC PREGNANCY presenting with HEMORRHAGIC SHOCK and HEMOPERITONEUM (hypotension, tachycardia, syncopal collapse, peritoneal signs, and free fluid in Morison pouch). Ruptured ectopic pregnancy is a leading cause of first-trimester maternal mortality. When a pregnant patient presents with ACUTE PERITONEAL SIGNS AND HEMODYNAMIC INSTABILITY: (1) Immediate resuscitation with large-bore intravenous lines, rapid crystalloid infusions, type and cross-match, and emergency uncrossmatched O-negative packed red blood cells (massive transfusion protocol); and (2) IMMEDIATE SURGICAL EXPLORATION (laparoscopy or exploratory laparotomy with salpingectomy). The patient is unstable and actively bleeding; any delay to perform formal radiology department transvaginal ultrasound, await serial quantitative beta-hCG levels, or administer medical therapies like methotrexate is LIFE-THREATENING MALPRACTICE."
+      }
+    ],
+    "explanation": "This patient has a RUPTURED ECTOPIC PREGNANCY presenting with HEMORRHAGIC SHOCK and HEMOPERITONEUM (hypotension, tachycardia, syncopal collapse, peritoneal signs, and free fluid in Morison pouch). Ruptured ectopic pregnancy is a leading cause of first-trimester maternal mortality. When a pregnant patient presents with ACUTE PERITONEAL SIGNS AND HEMODYNAMIC INSTABILITY: (1) Immediate resuscitation with large-bore intravenous lines, rapid crystalloid infusions, type and cross-match, and emergency uncrossmatched O-negative packed red blood cells (massive transfusion protocol); and (2) IMMEDIATE SURGICAL EXPLORATION (laparoscopy or exploratory laparotomy with salpingectomy). The patient is unstable and actively bleeding; any delay to perform formal radiology department transvaginal ultrasound, await serial quantitative beta-hCG levels, or administer medical therapies like methotrexate is LIFE-THREATENING MALPRACTICE. Positive pregnancy test + shock (BP 78/44, HR 134) + acute abdomen + free fluid in Morison pouch = Ruptured ectopic pregnancy -> Emergent surgical exploration.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Ruptured Ectopic Pregnancy Hemodynamic Shock Emergent Laparotomy.",
+    "keyPoints": [
+      "Ruptured Ectopic Pregnancy Hemodynamic Shock Emergent Laparotomy",
+      "Positive pregnancy test + shock (BP 78/44, HR 134) + acute abdomen + free fluid in Morison pouch = Ruptured ectopic pregnancy -> Emergent surgical exploration."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 193: Tubal Ectopic Pregnancy. Obstet Gynecol. 2018;131(3):e91-e103. PMID: 29470343.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29470343/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0581",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Vasa Previa vs Placental Abruption vs Placenta Previa",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 27-year-old primigravida at 38 weeks of gestation with an uncomplicated pregnancy presents in active labor. Cervical examination reveals 5 cm dilation and 80% effacement, with the vertex at -1 station. Spontaneous rupture of the amniotic membranes occurs, immediately followed by the sudden onset of moderate, bright red vaginal bleeding. Concurrently, the continuous fetal heart rate tracing demonstrates an abrupt onset of profound fetal bradycardia (heart rate dropping from a baseline of 145/min to 65/min) followed by a sinusoidal fetal heart rate pattern. Maternal blood pressure is 118/76 mm Hg, heart rate is 78/min, and the uterus is soft, non-tender, and relaxing completely between contractions. Maternal vital signs remain entirely stable. Which of the following is the most likely diagnosis?",
+    "options": [
+      {
+        "text": "Vasa previa with fetal vessel laceration",
+        "correct": true,
+        "explanation": "VASA PREVIA occurs when fetal blood vessels run unsupported through the fetal membranes (velamentous cord insertion or succenturiate placental lobe) traversing the internal cervical os below the presenting fetal part. The classic, catastrophic clinical presentation is: (1) SPONTANEOUS OR ARTIFICIAL RUPTURE OF MEMBRANES; (2) Followed IMMEDIATELY by PAINLESS BRIGHT RED VAGINAL BLEEDING; (3) RAPID FETAL CARDIOVASCULAR DETERIORATION (profound bradycardia, decelerations, or a SINUSOIDAL TRACING indicating severe fetal anemia/exsanguination); and (4) ENTIRELY NORMAL, STABLE MATERNAL VITAL SIGNS and a soft, non-tender uterus. Because the total feto-placental blood volume of a term fetus is only ~250-300 mL, the loss of even 50-100 mL of fetal blood represents massive, life-threatening fetal exsanguination. Management requires IMMEDIATE EMERGENCY CESAREAN DELIVERY to save fetal life. Distinct clinical features: Placental abruption causes painful vaginal bleeding with a hypertonic, tender uterus; Placenta previa causes painless maternal bleeding WITHOUT sudden fetal exsanguination coinciding with membrane rupture."
+      },
+      {
+        "text": "Placental abruption (abruptio placentae)",
+        "correct": false,
+        "explanation": "Placental abruption presents with sudden painful vaginal bleeding, uterine hypertonicity, severe abdominal/back tenderness, and maternal compromise."
+      },
+      {
+        "text": "Placenta previa",
+        "correct": false,
+        "explanation": "Placenta previa causes painless maternal bleeding, but bleeding occurs prior to membrane rupture and is of maternal (not fetal) origin, sparing acute fetal exsanguination."
+      },
+      {
+        "text": "Uterine rupture",
+        "correct": false,
+        "explanation": "Uterine rupture causes sudden severe tearing abdominal pain, loss of fetal station, maternal shock, and cessation of contractions, typically in a scarred uterus."
+      },
+      {
+        "text": "Benign bloody show during normal cervical effacement and dilation",
+        "correct": false,
+        "explanation": "Bloody show is scant mucus mixed with blood and does NOT cause sudden profound fetal bradycardia or a sinusoidal tracing."
+      }
+    ],
+    "explanation": "VASA PREVIA occurs when fetal blood vessels run unsupported through the fetal membranes (velamentous cord insertion or succenturiate placental lobe) traversing the internal cervical os below the presenting fetal part. The classic, catastrophic clinical presentation is: (1) SPONTANEOUS OR ARTIFICIAL RUPTURE OF MEMBRANES; (2) Followed IMMEDIATELY by PAINLESS BRIGHT RED VAGINAL BLEEDING; (3) RAPID FETAL CARDIOVASCULAR DETERIORATION (profound bradycardia, decelerations, or a SINUSOIDAL TRACING indicating severe fetal anemia/exsanguination); and (4) ENTIRELY NORMAL, STABLE MATERNAL VITAL SIGNS and a soft, non-tender uterus. Because the total feto-placental blood volume of a term fetus is only ~250-300 mL, the loss of even 50-100 mL of fetal blood represents massive, life-threatening fetal exsanguination. Management requires IMMEDIATE EMERGENCY CESAREAN DELIVERY to save fetal life. Distinct clinical features: Placental abruption causes painful vaginal bleeding with a hypertonic, tender uterus; Placenta previa causes painless maternal bleeding WITHOUT sudden fetal exsanguination coinciding with membrane rupture. Rupture of membranes + immediate vaginal bleeding + acute profound fetal bradycardia/sinusoidal + stable mother/soft uterus = Vasa previa laceration.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Vasa Previa vs Placental Abruption vs Placenta Previa.",
+    "keyPoints": [
+      "Vasa Previa vs Placental Abruption vs Placenta Previa",
+      "Rupture of membranes + immediate vaginal bleeding + acute profound fetal bradycardia/sinusoidal + stable mother/soft uterus = Vasa previa laceration."
+    ],
+    "references": [
+      {
+        "label": "Silver RM. Abnormal Placentation: Placenta Previa, Vasa Previa, and Placenta Accreta. Obstet Gynecol. 2015;126(3):654-668. PMID: 26244823.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26244823/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0582",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Placenta Previa Complete Scheduled Cesarean Timing",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 33-year-old woman, gravida 3 para 2, with two prior uncomplicated spontaneous vaginal deliveries presents for a routine prenatal visit at 36 weeks of gestation. An ultrasound performed at 20 weeks demonstrated complete placenta previa covering the internal cervical os. A follow-up transvaginal ultrasound performed today confirms complete placenta previa, with placental tissue completely overlying the internal cervical os by 2.5 cm. She has had no episodes of vaginal bleeding, uterine contractions, or abdominal pain. Vital signs and fetal growth are normal. Which of the following represents the most appropriate management plan for this patient?",
+    "options": [
+      {
+        "text": "Allow spontaneous labor to initiate, and attempt a trial of vaginal delivery in the operating room with double setup",
+        "correct": false,
+        "explanation": "Vaginal delivery in complete placenta previa is strictly contraindicated; cervical dilation tears the overlying placental tissue, causing fatal maternal exsanguination."
+      },
+      {
+        "text": "Maintain pelvic rest and schedule an elective cesarean delivery at 36 0/7 to 37 6/7 weeks of gestation, prior to the onset of spontaneous labor",
+        "correct": true,
+        "explanation": "PLACENTA PREVIA refers to the presence of placental tissue overlying or abutting the internal cervical os. In complete placenta previa, vaginal delivery is anatomically impossible and attempts at vaginal labor or digital cervical examination trigger catastrophic, life-threatening maternal hemorrhage. Key management principles: (1) PELVIC REST: strict avoidance of digital cervical examinations, vaginal intercourse, and moderate-to-vigorous exercise; (2) ROUTE OF DELIVERY: MANDATORY CESAREAN DELIVERY; and (3) TIMING OF DELIVERY: In an asymptomatic patient with uncomplicated complete placenta previa, guideline consensus (ACOG and SMFM) recommends SCHEDULED CESAREAN DELIVERY AT 36 0/7 TO 37 6/7 WEEKS OF GESTATION. Delivering in this window optimizes fetal maturity while minimizing the substantial risk of spontaneous labor and catastrophic antepartum hemorrhage that occurs if allowed to progress to full term."
+      },
+      {
+        "text": "Perform weekly digital cervical examinations to detect early effacement and schedule cesarean delivery at 40 weeks",
+        "correct": false,
+        "explanation": "Digital cervical examinations are strictly contraindicated in placenta previa; inserting a finger through the cervix tears placenta, inducing massive hemorrhage."
+      },
+      {
+        "text": "Schedule an elective cesarean delivery at 32 weeks of gestation followed by routine neonatal ICU admission",
+        "correct": false,
+        "explanation": "Delivering at 32 weeks in an asymptomatic patient causes severe neonatal morbidity from prematurity; delivery is scheduled at 36 0/7 to 37 6/7 weeks."
+      },
+      {
+        "text": "Administer oral misoprostol at 37 weeks to facilitate gradual lower uterine segment thinning",
+        "correct": false,
+        "explanation": "Uterotonics like misoprostol induce uterine contractions and cervical change, which trigger massive catastrophic hemorrhage in placenta previa."
+      }
+    ],
+    "explanation": "PLACENTA PREVIA refers to the presence of placental tissue overlying or abutting the internal cervical os. In complete placenta previa, vaginal delivery is anatomically impossible and attempts at vaginal labor or digital cervical examination trigger catastrophic, life-threatening maternal hemorrhage. Key management principles: (1) PELVIC REST: strict avoidance of digital cervical examinations, vaginal intercourse, and moderate-to-vigorous exercise; (2) ROUTE OF DELIVERY: MANDATORY CESAREAN DELIVERY; and (3) TIMING OF DELIVERY: In an asymptomatic patient with uncomplicated complete placenta previa, guideline consensus (ACOG and SMFM) recommends SCHEDULED CESAREAN DELIVERY AT 36 0/7 TO 37 6/7 WEEKS OF GESTATION. Delivering in this window optimizes fetal maturity while minimizing the substantial risk of spontaneous labor and catastrophic antepartum hemorrhage that occurs if allowed to progress to full term. Complete placenta previa confirmed at 36 weeks + asymptomatic = Pelvic rest + scheduled Cesarean delivery at 36 0/7 to 37 6/7 weeks (before labor onset).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Placenta Previa Complete Scheduled Cesarean Timing.",
+    "keyPoints": [
+      "Placenta Previa Complete Scheduled Cesarean Timing",
+      "Complete placenta previa confirmed at 36 weeks + asymptomatic = Pelvic rest + scheduled Cesarean delivery at 36 0/7 to 37 6/7 weeks (before labor onset)."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Committee Opinion No. 831: Medically Indicated Late-Preterm and Early-Term Deliveries. Obstet Gynecol. 2021;138(1):e35-e39. PMID: 34259491.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34259491/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0583",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Uterine Rupture Prior Cesarean Loss of Fetal Station",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 31-year-old woman, gravida 2 para 1 at 39 weeks of gestation with a history of one prior low transverse cesarean delivery, is undergoing a trial of labor after cesarean (TOLAC). Labor was augmented with low-dose oxytocin 4 hours ago. Her cervix was 7 cm dilated and the fetal vertex was at +1 station 30 minutes ago. Suddenly, she complains of sharp, excruciating, tearing lower abdominal pain that persists between contractions. Intrauterine pressure catheter monitoring reveals an immediate loss of intrauterine pressure and complete cessation of uterine contractions. Physical examination demonstrates maternal tachycardia (pulse 128/min), blood pressure 88/54 mm Hg, and vaginal bleeding. Palpation of the abdomen reveals that the fetal presenting part is no longer palpable in the pelvis (loss of fetal station), and fetal parts are easily palpable in the maternal abdominal cavity. Fetal heart rate tracing shows profound, prolonged bradycardia of 60/min. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Increase oxytocin infusion rate and apply fundal pressure to expedite spontaneous vaginal delivery",
+        "correct": false,
+        "explanation": "Oxytocin and fundal pressure will force the fetus and placenta completely through the uterine defect into the abdominal cavity, causing fatal maternal-fetal exsanguination."
+      },
+      {
+        "text": "Place an intrauterine vacuum extractor cup and attempt urgent operative vaginal delivery",
+        "correct": false,
+        "explanation": "Attempting vacuum extraction when the fetal head has receded out of the pelvis is impossible and causes massive uterine laceration and death."
+      },
+      {
+        "text": "Immediate emergency exploratory laparotomy and delivery of the fetus, with surgical repair of the uterine rupture or hysterectomy",
+        "correct": true,
+        "explanation": "UTERINE RUPTURE is a catastrophic obstetrical emergency occurring primarily in patients undergoing a trial of labor after cesarean (TOLAC), with an incidence of ~0.5-0.9% in women with a single prior low transverse incision. Cardinal clinical signs include: (1) Sudden, severe, constant tearing abdominal pain; (2) SUDDEN LOSS OF FETAL STATION (pathognomonic: the fetal head recedes upward out of the pelvis and fetal parts become easily palpable extraluminally in the maternal abdomen); (3) ABRUPT LOSS OF UTERINE CONTRACTIONS / uterine pressure collapse on intrauterine catheter; (4) ABRUPT FETAL CARDIOVASCULAR COLLAPSE (severe prolonged bradycardia, the most common and sensitive clinical sign); and (5) Maternal hypovolemia/shock and vaginal bleeding. The ONLY appropriate management is IMMEDIATE EMERGENCY LAPAROTOMY, rapid extraction of the fetus to prevent fatal fetal asphyxia, and surgical repair of the uterine rupture site or emergency hysterectomy."
+      },
+      {
+        "text": "Administer high-dose intravenous tocolytic therapy with terbutaline and wait for contractions to restart",
+        "correct": false,
+        "explanation": "Contractions ceased because the muscular uterine wall has ruptured open; tocolytics cannot heal a mechanical uterine tear."
+      },
+      {
+        "text": "Transport to the radiology department for emergency contrast-enhanced pelvic CT scan",
+        "correct": false,
+        "explanation": "Uterine rupture with fetal bradycardia is a surgical catastrophe; delaying surgery for imaging causes irreversible fetal death within 10-15 minutes."
+      }
+    ],
+    "explanation": "UTERINE RUPTURE is a catastrophic obstetrical emergency occurring primarily in patients undergoing a trial of labor after cesarean (TOLAC), with an incidence of ~0.5-0.9% in women with a single prior low transverse incision. Cardinal clinical signs include: (1) Sudden, severe, constant tearing abdominal pain; (2) SUDDEN LOSS OF FETAL STATION (pathognomonic: the fetal head recedes upward out of the pelvis and fetal parts become easily palpable extraluminally in the maternal abdomen); (3) ABRUPT LOSS OF UTERINE CONTRACTIONS / uterine pressure collapse on intrauterine catheter; (4) ABRUPT FETAL CARDIOVASCULAR COLLAPSE (severe prolonged bradycardia, the most common and sensitive clinical sign); and (5) Maternal hypovolemia/shock and vaginal bleeding. The ONLY appropriate management is IMMEDIATE EMERGENCY LAPAROTOMY, rapid extraction of the fetus to prevent fatal fetal asphyxia, and surgical repair of the uterine rupture site or emergency hysterectomy. Prior cesarean + sudden tearing abdominal pain + loss of fetal station + cessation of contractions + fetal bradycardia = Uterine rupture -> Emergent laparotomy.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Uterine Rupture Prior Cesarean Loss of Fetal Station.",
+    "keyPoints": [
+      "Uterine Rupture Prior Cesarean Loss of Fetal Station",
+      "Prior cesarean + sudden tearing abdominal pain + loss of fetal station + cessation of contractions + fetal bradycardia = Uterine rupture -> Emergent laparotomy."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 205: Vaginal Birth After Cesarean Delivery. Obstet Gynecol. 2019;133(2):e110-e127. PMID: 30681543.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30681543/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0584",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Category III Fetal Heart Rate Tracing Resuscitation and Delivery",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 28-year-old primigravida at 39 weeks of gestation is in active labor with cervical dilation of 6 cm and 90% effacement; vertex is at 0 station. Fetal heart rate monitoring demonstrates a baseline of 135/min with absent baseline heart rate variability and recurrent late decelerations occurring after >50% of uterine contractions over a 30-minute monitoring strip. There are no accelerations. Maternal temperature is 37.1 C (98.8 F), blood pressure is 122/78 mm Hg, and pulse is 80/min. Intrauterine resuscitation maneuvers are immediately instituted: the patient is placed in the left lateral decubitus position, an intravenous bolus of lactated Ringer solution is administered, oxytocin infusion is discontinued, and high-flow oxygen by non-rebreather mask is applied. Despite these measures over the next 15 minutes, the tracing continues to show absent baseline variability and recurrent late decelerations. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Initiate intravenous ampicillin and gentamicin for presumed subclinical intra-amniotic infection",
+        "correct": false,
+        "explanation": "Absent variability with late decelerations is caused by uteroplacental insufficiency and fetal acidemia, not infection; antibiotics will not reverse fetal asphyxia."
+      },
+      {
+        "text": "Perform acoustic stimulation and scalp blood sampling to document fetal acid-base parameters before deciding on delivery",
+        "correct": false,
+        "explanation": "Scalp blood sampling is obsolete and delays emergency delivery in persistent Category III tracings with proven hypoxemia."
+      },
+      {
+        "text": "Administer a dose of sublingual nitroglycerin and continue conservative labor observation for 2 more hours",
+        "correct": false,
+        "explanation": "Continuing observation in persistent Category III tracings leads to intrapartum asphyxia, permanent hypoxic-ischemic encephalopathy, or stillbirth."
+      },
+      {
+        "text": "Perform immediate expedited operative delivery (emergency cesarean delivery)",
+        "correct": true,
+        "explanation": "According to the NICHD three-tier fetal heart rate interpretation system: CATEGORY III TRACINGS ARE ABNORMAL AND PREDICTIVE OF ABNORMAL FETAL ACID-BASE STATUS (hypoxemia, severe acidemia, and impending metabolic acidosis). Criteria for Category III include: (1) ABSENT BASELINE FETAL HEART RATE VARIABILITY COMBINED WITH ANY OF: recurrent late decelerations, recurrent variable decelerations, or bradycardia; OR (2) SINUSOIDAL PATTERN. Category III tracings demand: (1) IMMEDIATE INTRAUTERINE RESUSCITATION: maternal repositioning (left lateral to relieve aortocaval compression), IV fluid bolus, discontinuation of uterotonics (oxytocin), administration of tocolytics if tachysystole is present, and maternal oxygenation; and (2) IF THE CATEGORY III PATTERN PERSISTS DESPITE RESUSCITATION: PROMPT EXPEDITED DELIVERY IS MANDATORY. Since the cervix is only 6 cm (not fully dilated), operative vaginal delivery cannot be performed; IMMEDIATE EMERGENCY CESAREAN DELIVERY is required."
+      },
+      {
+        "text": "Place an intrauterine pressure catheter and start high-dose oxytocin augmentation to achieve rapid full dilation",
+        "correct": false,
+        "explanation": "Augmenting uterine contractions with oxytocin increases uterine pressure, further decreasing placental perfusion and precipitating fetal arrest."
+      }
+    ],
+    "explanation": "According to the NICHD three-tier fetal heart rate interpretation system: CATEGORY III TRACINGS ARE ABNORMAL AND PREDICTIVE OF ABNORMAL FETAL ACID-BASE STATUS (hypoxemia, severe acidemia, and impending metabolic acidosis). Criteria for Category III include: (1) ABSENT BASELINE FETAL HEART RATE VARIABILITY COMBINED WITH ANY OF: recurrent late decelerations, recurrent variable decelerations, or bradycardia; OR (2) SINUSOIDAL PATTERN. Category III tracings demand: (1) IMMEDIATE INTRAUTERINE RESUSCITATION: maternal repositioning (left lateral to relieve aortocaval compression), IV fluid bolus, discontinuation of uterotonics (oxytocin), administration of tocolytics if tachysystole is present, and maternal oxygenation; and (2) IF THE CATEGORY III PATTERN PERSISTS DESPITE RESUSCITATION: PROMPT EXPEDITED DELIVERY IS MANDATORY. Since the cervix is only 6 cm (not fully dilated), operative vaginal delivery cannot be performed; IMMEDIATE EMERGENCY CESAREAN DELIVERY is required. Absent variability + recurrent late decelerations refractory to intrauterine resuscitation = Category III FHR tracing -> Immediate emergency Cesarean delivery.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Category III Fetal Heart Rate Tracing Resuscitation and Delivery.",
+    "keyPoints": [
+      "Category III Fetal Heart Rate Tracing Resuscitation and Delivery",
+      "Absent variability + recurrent late decelerations refractory to intrauterine resuscitation = Category III FHR tracing -> Immediate emergency Cesarean delivery."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 106: Intrapartum Fetal Heart Rate Monitoring. Obstet Gynecol. 2009;114(1):192-202. PMID: 19546798.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19546798/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0585",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Variable Decelerations Cord Compression Amnioinfusion",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old primigravida at 40 weeks of gestation presents in early labor. Artificial rupture of membranes was performed 2 hours ago, revealing clear amniotic fluid. Cervical examination shows 4 cm dilation and 80% effacement; station is -1. Over the past 45 minutes, continuous fetal heart rate monitoring demonstrates recurrent, abrupt decreases in fetal heart rate from a baseline of 140/min down to 80/min, lasting 40 seconds before rapidly returning to baseline. The onset, nadir, and recovery of each deceleration occur rapidly, with the nadir occurring at varying times relative to uterine contractions (sharp, V-shaped decelerations). Maternal repositioning to the left and right lateral decubitus positions has produced no improvement. An intrauterine pressure catheter and transcervical catheter are successfully placed. Which of the following therapeutic interventions is most effective in reducing the frequency of these decelerations and decreasing the rate of cesarean delivery?",
+    "options": [
+      {
+        "text": "Immediate administration of intravenous magnesium sulfate bolus for fetal neuroprotection",
+        "correct": false,
+        "explanation": "Magnesium sulfate is indicated for neuroprotection in preterm deliveries <32 weeks, not for intrapartum cord compression at 40 weeks."
+      },
+      {
+        "text": "Intramuscular injection of terbutaline to completely arrest uterine labor contractions for 24 hours",
+        "correct": false,
+        "explanation": "Arresting labor at 40 weeks in active labor is inappropriate; amnioinfusion resolves cord compression while allowing labor to continue."
+      },
+      {
+        "text": "Initiation of high-flow oxygen therapy via venturi mask and preparation for immediate vacuum extraction",
+        "correct": false,
+        "explanation": "Vacuum extraction is strictly contraindicated at 4 cm dilation (requires full 10 cm dilation); amnioinfusion treats the underlying cord compression."
+      },
+      {
+        "text": "Immediate administration of broad-spectrum intravenous ampicillin and sulbactam",
+        "correct": false,
+        "explanation": "Variable decelerations are mechanical (cord compression), not infectious; antibiotics have no therapeutic role."
+      },
+      {
+        "text": "Therapeutic transcervical amnioinfusion of warm normal saline solution",
+        "correct": true,
+        "explanation": "This fetal heart rate strip demonstrates RECURRENT VARIABLE DECELERATIONS. Variable decelerations are defined as an abrupt decrease in fetal heart rate (onset to nadir <30 seconds), with a decrease >=15 bpm lasting >=15 seconds and <2 minutes. They are characteristically sharp and V-shaped, and are caused by TRANSIENT UMBILICAL CORD COMPRESSION (fetal vagal reflex response to transient baroreceptor and chemoreceptor stimulation). Membrane rupture allows amniotic fluid to drain, removing the protective fluid cushion around the umbilical cord and precipitating compression. When conservative measures (maternal repositioning, IV fluids) fail to resolve recurrent variable decelerations, TRANSCERVICAL AMNIOINFUSION (instillation of room-temperature or warmed normal saline or lactated Ringer through an intrauterine pressure catheter into the uterine cavity) is the evidence-based intervention of choice. Amnioinfusion restores amniotic fluid volume, relieves mechanical umbilical cord compression, significantly reduces deceleration frequency, and lowers the rate of emergency cesarean delivery."
+      }
+    ],
+    "explanation": "This fetal heart rate strip demonstrates RECURRENT VARIABLE DECELERATIONS. Variable decelerations are defined as an abrupt decrease in fetal heart rate (onset to nadir <30 seconds), with a decrease >=15 bpm lasting >=15 seconds and <2 minutes. They are characteristically sharp and V-shaped, and are caused by TRANSIENT UMBILICAL CORD COMPRESSION (fetal vagal reflex response to transient baroreceptor and chemoreceptor stimulation). Membrane rupture allows amniotic fluid to drain, removing the protective fluid cushion around the umbilical cord and precipitating compression. When conservative measures (maternal repositioning, IV fluids) fail to resolve recurrent variable decelerations, TRANSCERVICAL AMNIOINFUSION (instillation of room-temperature or warmed normal saline or lactated Ringer through an intrauterine pressure catheter into the uterine cavity) is the evidence-based intervention of choice. Amnioinfusion restores amniotic fluid volume, relieves mechanical umbilical cord compression, significantly reduces deceleration frequency, and lowers the rate of emergency cesarean delivery. Recurrent variable decelerations (sharp V-shaped, cord compression) post-membrane rupture refractory to repositioning = Transcervical amnioinfusion.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Variable Decelerations Cord Compression Amnioinfusion.",
+    "keyPoints": [
+      "Variable Decelerations Cord Compression Amnioinfusion",
+      "Recurrent variable decelerations (sharp V-shaped, cord compression) post-membrane rupture refractory to repositioning = Transcervical amnioinfusion."
+    ],
+    "references": [
+      {
+        "label": "Hofmeyr GJ, et al. Amnioinfusion for umbilical cord compression in labour. Cochrane Database Syst Rev. 2012;(1):CD000013. PMID: 22258938.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22258938/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0586",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Early Decelerations Fetal Head Compression Benign Physiologic",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old woman, gravida 2 para 1 at 39 weeks of gestation, is in active labor. Cervical examination shows 8 cm dilation and 100% effacement; vertex is at +1 station. Continuous fetal heart rate monitoring demonstrates a baseline rate of 145/min with moderate baseline variability and presence of accelerations. During uterine contractions, there is a gradual, smooth decrease in fetal heart rate (onset to nadir >= 30 seconds) that mirror-images the uterine contraction: the nadir of the deceleration matches exactly with the peak of the uterine contraction, and the heart rate returns smoothly to baseline as the contraction resolves. Maternal vital signs are normal, and there is no vaginal bleeding. Which of the following is the most appropriate management approach?",
+    "options": [
+      {
+        "text": "Reassurance and continued routine labor monitoring without intervention, as this represents a benign physiologic response to fetal head compression",
+        "correct": true,
+        "explanation": "This fetal heart rate strip demonstrates EARLY DECELERATIONS. Key distinguishing features of early decelerations: (1) GRADUAL DECREASE AND RETURN to baseline (onset to nadir >= 30 seconds); (2) PERFECT MIRROR-IMAGE SYMMETRY with uterine contractions (nadir of deceleration coincides exactly with the peak of the contraction); (3) Normal baseline variability is preserved; and (4) PATHOPHYSIOLOGY: Caused by TRANSIENT FETAL HEAD COMPRESSION during contractions, which stimulates the fetal vagal nerve, producing a transient, physiologic, parasympathetic slowing of the heart rate. Early decelerations ARE COMPLETELY BENIGN AND PHYSIOLOGIC. They are NOT associated with fetal hypoxemia, acidemia, or adverse perinatal outcomes. They require NO therapeutic intervention, NO maternal repositioning, NO oxygen administration, and NO operative delivery. Management is reassuring continued labor progression."
+      },
+      {
+        "text": "Perform immediate intrauterine resuscitation with rapid IV fluid bolus and high-flow maternal oxygen",
+        "correct": false,
+        "explanation": "Intrauterine resuscitation is indicated for pathologic Category II/III patterns (late or severe variable decelerations), not benign early decelerations."
+      },
+      {
+        "text": "Discontinue oxytocin infusion immediately and administer sublingual nitroglycerin to halt labor",
+        "correct": false,
+        "explanation": "Halting active labor at 8 cm dilation for benign head compression is completely inappropriate and prolongs labor unnecessarily."
+      },
+      {
+        "text": "Perform emergent operative vaginal delivery using vacuum extraction to prevent worsening fetal hypoxia",
+        "correct": false,
+        "explanation": "Operative delivery is contraindicated for benign physiologic early decelerations with moderate variability and at 8 cm dilation."
+      },
+      {
+        "text": "Place an intrauterine pressure catheter and initiate urgent transcervical amnioinfusion",
+        "correct": false,
+        "explanation": "Amnioinfusion is indicated for variable decelerations (cord compression), not early decelerations (head compression)."
+      }
+    ],
+    "explanation": "This fetal heart rate strip demonstrates EARLY DECELERATIONS. Key distinguishing features of early decelerations: (1) GRADUAL DECREASE AND RETURN to baseline (onset to nadir >= 30 seconds); (2) PERFECT MIRROR-IMAGE SYMMETRY with uterine contractions (nadir of deceleration coincides exactly with the peak of the contraction); (3) Normal baseline variability is preserved; and (4) PATHOPHYSIOLOGY: Caused by TRANSIENT FETAL HEAD COMPRESSION during contractions, which stimulates the fetal vagal nerve, producing a transient, physiologic, parasympathetic slowing of the heart rate. Early decelerations ARE COMPLETELY BENIGN AND PHYSIOLOGIC. They are NOT associated with fetal hypoxemia, acidemia, or adverse perinatal outcomes. They require NO therapeutic intervention, NO maternal repositioning, NO oxygen administration, and NO operative delivery. Management is reassuring continued labor progression. Gradual deceleration mirror-imaging contraction peak + moderate variability = Early deceleration (fetal head compression) -> Reassurance and continue labor.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Early Decelerations Fetal Head Compression Benign Physiologic.",
+    "keyPoints": [
+      "Early Decelerations Fetal Head Compression Benign Physiologic",
+      "Gradual deceleration mirror-imaging contraction peak + moderate variability = Early deceleration (fetal head compression) -> Reassurance and continue labor."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 106: Intrapartum Fetal Heart Rate Monitoring. Obstet Gynecol. 2009;114(1):192-202. PMID: 19546798.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19546798/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0587",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Preterm Labor Betamethasone Magnesium Neuroprotection Tocolysis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old primigravida at 29 weeks of gestation presents with regular, painful uterine contractions occurring every 4 minutes for the past 3 hours. Cervical examination reveals 3 cm dilation and 80% effacement with vertex presentation. Fetal fibronectin test is positive, and membranes are intact. Fetal heart rate monitoring demonstrates a normal baseline of 140/min with moderate variability and no decelerations. Urinalysis and maternal vital signs are normal. In addition to initiating short-term tocolytic therapy (such as oral nifedipine or indomethacin) to delay delivery by 48 hours, which of the following combined medical regimens should be administered immediately?",
+    "options": [
+      {
+        "text": "Intramuscular medroxyprogesterone acetate combined with oral terbutaline for maintenance tocolysis until 36 weeks",
+        "correct": false,
+        "explanation": "Maintenance tocolysis with oral terbutaline is ineffective and carries dangerous maternal cardiovascular risks (FDA black box warning)."
+      },
+      {
+        "text": "Intramuscular betamethasone (for fetal lung maturity), intravenous magnesium sulfate (for fetal neuroprotection), and intravenous penicillin G (for GBS prophylaxis)",
+        "correct": true,
+        "explanation": "This patient is in active PRETERM LABOR (<37 weeks gestation with regular contractions and cervical change). At 29 WEEKS OF GESTATION, management requires a comprehensive, bundled medical approach to optimize neonatal survival: (1) ANTENATAL CORTICOSTEROIDS (intramuscular betamethasone 12 mg two doses 24 hours apart, or dexamethasone): strongly indicated between 24 0/7 and 33 6/7 weeks to accelerate fetal lung maturation, dramatically reducing neonatal respiratory distress syndrome (RDS), intraventricular hemorrhage (IVH), and neonatal mortality; (2) INTRAVENOUS MAGNESIUM SULFATE: strongly recommended for deliveries <32 WEEKS OF GESTATION for FETAL NEUROPROTECTION, reducing the risk and severity of cerebral palsy; (3) TOCOLYTIC THERAPY (e.g. nifedipine or indomethacin) for up to 48 hours to delay delivery sufficiently to allow betamethasone and magnesium to exert their beneficial effects; and (4) INTRAPARTUM GBS PROPHYLAXIS (IV penicillin G or ampicillin) administered empirically until rapid GBS screening results return negative."
+      },
+      {
+        "text": "Intravenous oxytocin infusion combined with immediate artificial rupture of membranes to expedite delivery",
+        "correct": false,
+        "explanation": "Expediting preterm delivery at 29 weeks without corticosteroid lung maturation drastically increases neonatal RDS and death."
+      },
+      {
+        "text": "Intravenous calcium gluconate combined with oral ampicillin and bed rest until term",
+        "correct": false,
+        "explanation": "Calcium gluconate is an antidote for magnesium toxicity, not a neuroprotective agent; betamethasone and magnesium sulfate are critical."
+      },
+      {
+        "text": "Therapeutic plasma exchange combined with low-dose aspirin to enhance placental vascular flow",
+        "correct": false,
+        "explanation": "Plasmapheresis has no role in idiopathic preterm labor; standard therapy requires corticosteroids, neuroprotection, and short-term tocolysis."
+      }
+    ],
+    "explanation": "This patient is in active PRETERM LABOR (<37 weeks gestation with regular contractions and cervical change). At 29 WEEKS OF GESTATION, management requires a comprehensive, bundled medical approach to optimize neonatal survival: (1) ANTENATAL CORTICOSTEROIDS (intramuscular betamethasone 12 mg two doses 24 hours apart, or dexamethasone): strongly indicated between 24 0/7 and 33 6/7 weeks to accelerate fetal lung maturation, dramatically reducing neonatal respiratory distress syndrome (RDS), intraventricular hemorrhage (IVH), and neonatal mortality; (2) INTRAVENOUS MAGNESIUM SULFATE: strongly recommended for deliveries <32 WEEKS OF GESTATION for FETAL NEUROPROTECTION, reducing the risk and severity of cerebral palsy; (3) TOCOLYTIC THERAPY (e.g. nifedipine or indomethacin) for up to 48 hours to delay delivery sufficiently to allow betamethasone and magnesium to exert their beneficial effects; and (4) INTRAPARTUM GBS PROPHYLAXIS (IV penicillin G or ampicillin) administered empirically until rapid GBS screening results return negative. Preterm labor at 29 weeks (<32 weeks) = Betamethasone (lung maturity) + Magnesium sulfate (neuroprotection) + Tocolysis (48 hrs) + GBS prophylaxis.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Preterm Labor Betamethasone Magnesium Neuroprotection Tocolysis.",
+    "keyPoints": [
+      "Preterm Labor Betamethasone Magnesium Neuroprotection Tocolysis",
+      "Preterm labor at 29 weeks (<32 weeks) = Betamethasone (lung maturity) + Magnesium sulfate (neuroprotection) + Tocolysis (48 hrs) + GBS prophylaxis."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 171: Management of Preterm Labor. Obstet Gynecol. 2016;128(4):e155-e164. PMID: 27661877.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27661877/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0588",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PPROM Latency Antibiotics and Delivery Timing at 34 Weeks",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old woman, gravida 2 para 1 at 31 weeks of gestation, presents with a sudden 'gush' of clear fluid from her vagina that has continued to leak. She denies uterine contractions, fever, abdominal pain, or vaginal bleeding. Sterile speculum examination confirms clear fluid pooling in the posterior vaginal fornix; the fluid turns nitrazine paper blue (pH > 6.5) and demonstrates a ferning pattern on air-dried glass slide microscopy. There is no cervical dilation or prolapsed cord. Cardiotocography shows a normal fetal heart rate baseline of 145/min with moderate variability and no decelerations. Maternal temperature is 36.8 C (98.2 F), pulse is 76/min, and WBC count is 8,200/microL. Ultrasound confirms oligohydramnios. Which of the following represents the standard management strategy for this patient?",
+    "options": [
+      {
+        "text": "Perform immediate emergency cesarean delivery within 6 hours of membrane rupture to prevent neonatal sepsis",
+        "correct": false,
+        "explanation": "Immediate delivery at 31 weeks without latency antibiotics and steroids exposes the neonate to severe prematurity complications; expectant management to 34 weeks is preferred."
+      },
+      {
+        "text": "Perform transcervical amnioinfusion and place a surgical cerclage to seal the ruptured fetal membranes",
+        "correct": false,
+        "explanation": "Cerclage placement after membrane rupture is strictly contraindicated and dramatically increases fatal intra-amniotic infection."
+      },
+      {
+        "text": "Administer a 7-day course of latency antibiotics (intravenous ampicillin and erythromycin followed by oral amoxicillin and erythromycin), intramuscular betamethasone, and plan delivery at 34 weeks of gestation in the absence of infection",
+        "correct": true,
+        "explanation": "This patient has PRETERM PREMATURE RUPTURE OF MEMBRANES (PPROM) at 31 weeks of gestation. PPROM is rupture of membranes before 37 weeks and prior to the onset of labor. In the absence of intra-amniotic infection (chorioamnionitis), placental abruption, or fetal distress, EXPECTANT MANAGEMENT IS RECOMMENDED UNTIL 34 0/7 WEEKS OF GESTATION. Key evidence-based components: (1) LATENCY ANTIBIOTICS: A 7-day course (initially 48 hours of IV ampicillin and erythromycin, followed by 5 days of oral amoxicillin and erythromycin [or azithromycin]): prolongs latency period (time to delivery), reduces chorioamnionitis, and lowers neonatal respiratory distress and intraventricular hemorrhage; (2) ANTENATAL CORTICOSTEROIDS (betamethasone): accelerates fetal pulmonary and surfactant maturation; (3) Magnesium sulfate if delivery becomes imminent before 32 weeks; and (4) TIMING OF DELIVERY: Scheduled delivery is universally recommended at 34 0/7 WEEKS OF GESTATION, as neonatal morbidity from prematurity at >=34 weeks is surpassed by the risk of severe intra-amniotic infection."
+      },
+      {
+        "text": "Initiate continuous intravenous oxytocin infusion for immediate labor induction regardless of fetal maturity",
+        "correct": false,
+        "explanation": "Inducing labor immediately at 31 weeks without signs of infection or fetal distress increases neonatal respiratory distress syndrome and mortality."
+      },
+      {
+        "text": "Discharge home on oral bed rest and advise daily vaginal douching to maintain sterility until term (39 weeks)",
+        "correct": false,
+        "explanation": "PPROM patients require strict inpatient hospitalization due to risk of cord prolapse and infection; outpatient management and vaginal douching are contraindicated."
+      }
+    ],
+    "explanation": "This patient has PRETERM PREMATURE RUPTURE OF MEMBRANES (PPROM) at 31 weeks of gestation. PPROM is rupture of membranes before 37 weeks and prior to the onset of labor. In the absence of intra-amniotic infection (chorioamnionitis), placental abruption, or fetal distress, EXPECTANT MANAGEMENT IS RECOMMENDED UNTIL 34 0/7 WEEKS OF GESTATION. Key evidence-based components: (1) LATENCY ANTIBIOTICS: A 7-day course (initially 48 hours of IV ampicillin and erythromycin, followed by 5 days of oral amoxicillin and erythromycin [or azithromycin]): prolongs latency period (time to delivery), reduces chorioamnionitis, and lowers neonatal respiratory distress and intraventricular hemorrhage; (2) ANTENATAL CORTICOSTEROIDS (betamethasone): accelerates fetal pulmonary and surfactant maturation; (3) Magnesium sulfate if delivery becomes imminent before 32 weeks; and (4) TIMING OF DELIVERY: Scheduled delivery is universally recommended at 34 0/7 WEEKS OF GESTATION, as neonatal morbidity from prematurity at >=34 weeks is surpassed by the risk of severe intra-amniotic infection. PPROM at 31 weeks + no infection = Latency antibiotics (ampicillin + erythromycin) + betamethasone + inpatient observation until delivery at 34 weeks.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of PPROM Latency Antibiotics and Delivery Timing at 34 Weeks.",
+    "keyPoints": [
+      "PPROM Latency Antibiotics and Delivery Timing at 34 Weeks",
+      "PPROM at 31 weeks + no infection = Latency antibiotics (ampicillin + erythromycin) + betamethasone + inpatient observation until delivery at 34 weeks."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 217: Prelabor Rupture of Membranes. Obstet Gynecol. 2020;135(3):e80-e97. PMID: 32080050.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32080050/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0589",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Intra-amniotic Infection Chorioamnionitis Delivery and Antibiotics",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 22-year-old primigravida at 38 weeks of gestation is in active labor following membrane rupture 18 hours ago. Over the past 2 hours, labor progress has slowed despite cervical dilation of 6 cm. Maternal vital signs show: temperature 39.1 C (102.4 F), blood pressure 114/70 mm Hg, and pulse 122/min. Continuous fetal heart rate monitoring demonstrates a baseline rate of 175/min (persistent fetal tachycardia) with minimal variability and no decelerations. Physical examination reveals exquisite fundal tenderness to light palpation and purulent, foul-smelling amniotic fluid draining from the cervical os. Maternal WBC count is 22,500/microL with 88% neutrophils. Which of the following represents the most appropriate management approach for this patient?",
+    "options": [
+      {
+        "text": "Administer intramuscular betamethasone and initiate tocolytic therapy with nifedipine to prolong pregnancy",
+        "correct": false,
+        "explanation": "Tocolysis and pregnancy prolongation are strictly contraindicated in active intra-amniotic infection due to risk of maternal septic shock and fetal demise."
+      },
+      {
+        "text": "Perform an immediate emergency hysterotomy in the labor room without administering intravenous antibiotics",
+        "correct": false,
+        "explanation": "Antibiotics must be initiated immediately upon diagnosis; emergency hysterotomy in the room without sterile operative setup is inappropriate."
+      },
+      {
+        "text": "Administer oral acetaminophen and observe for 24 hours to see if maternal fever resolves spontaneously",
+        "correct": false,
+        "explanation": "Fever in chorioamnionitis indicates bacterial invasion of fetal membranes and amniotic fluid; delaying antibiotics and delivery leads to overwhelming neonatal sepsis."
+      },
+      {
+        "text": "Initiate immediate intravenous broad-spectrum antibiotics (ampicillin plus gentamicin) and proceed with active labor augmentation or prompt delivery, regardless of gestational age",
+        "correct": true,
+        "explanation": "This patient has INTRA-AMNIOTIC INFECTION (clinical chorioamnionitis / triple I). Diagnostic criteria: maternal fever (>=39.0 C, or >=38.0 C twice 30 minutes apart) plus >=1 of the following: (1) Persistent fetal tachycardia (>160/min for >=10 min); (2) Maternal leukocytosis (>15,000/microL); (3) Maternal tachycardia (>100/min); or (4) Purulent/foul-smelling cervical discharge. Intra-amniotic infection is an absolute contraindication to expectant management! Management mandates: (1) IMMEDIATE INTRAVENOUS BROAD-SPECTRUM ANTIBIOTICS: standard regimen is AMPICILLIN (2 g IV q6h) PLUS GENTAMICIN (5 mg/kg IV q24h) to cover gram-positive, gram-negative, and anaerobic vaginal flora; add CLINDAMYCIN or METRONIDAZOLE if cesarean delivery is performed; and (2) PROMPT EXPEDITED DELIVERY: active labor augmentation with oxytocin is standard; cesarean delivery is reserved for obstetric indications, not solely for the diagnosis of chorioamnionitis."
+      },
+      {
+        "text": "Perform diagnostic amniocentesis for bacterial culture before initiating antimicrobial therapy",
+        "correct": false,
+        "explanation": "Clinical criteria are fully met; delaying treatment for invasive amniocentesis increases maternal bacteremia and fetal central nervous system damage."
+      }
+    ],
+    "explanation": "This patient has INTRA-AMNIOTIC INFECTION (clinical chorioamnionitis / triple I). Diagnostic criteria: maternal fever (>=39.0 C, or >=38.0 C twice 30 minutes apart) plus >=1 of the following: (1) Persistent fetal tachycardia (>160/min for >=10 min); (2) Maternal leukocytosis (>15,000/microL); (3) Maternal tachycardia (>100/min); or (4) Purulent/foul-smelling cervical discharge. Intra-amniotic infection is an absolute contraindication to expectant management! Management mandates: (1) IMMEDIATE INTRAVENOUS BROAD-SPECTRUM ANTIBIOTICS: standard regimen is AMPICILLIN (2 g IV q6h) PLUS GENTAMICIN (5 mg/kg IV q24h) to cover gram-positive, gram-negative, and anaerobic vaginal flora; add CLINDAMYCIN or METRONIDAZOLE if cesarean delivery is performed; and (2) PROMPT EXPEDITED DELIVERY: active labor augmentation with oxytocin is standard; cesarean delivery is reserved for obstetric indications, not solely for the diagnosis of chorioamnionitis. Maternal fever (39.1 C) + fetal tachycardia (175) + uterine tenderness + foul lochia = Chorioamnionitis -> Immediate IV Ampicillin + Gentamicin + prompt delivery.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Intra-amniotic Infection Chorioamnionitis Delivery and Antibiotics.",
+    "keyPoints": [
+      "Intra-amniotic Infection Chorioamnionitis Delivery and Antibiotics",
+      "Maternal fever (39.1 C) + fetal tachycardia (175) + uterine tenderness + foul lochia = Chorioamnionitis -> Immediate IV Ampicillin + Gentamicin + prompt delivery."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Committee Opinion No. 712: Intrapartum Management of Intra-amniotic Infection. Obstet Gynecol. 2017;130(2):e95-e101. PMID: 28742677.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28742677/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0590",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Gestational Diabetes Targets and First-Line Insulin",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 30-year-old gravida 2 para 1 at 28 weeks of gestation is diagnosed with gestational diabetes mellitus (GDM) after a 50-g 1-hour glucose screen was 168 mg/dL and a follow-up 100-g 3-hour oral glucose tolerance test demonstrated three abnormal values (fasting 108 mg/dL, 1-hour 192 mg/dL, and 2-hour 174 mg/dL). She was initiated on a medical nutritional therapy meal plan and moderate physical exercise program 2 weeks ago. She presents today for review of her blood glucose log: fasting blood glucose levels average 112 mg/dL (goal < 95 mg/dL) and 1-hour postprandial levels average 158 mg/dL (goal < 140 mg/dL). Fetal ultrasound shows an abdominal circumference at the 94th percentile for gestational age. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Initiate oral glyburide monotherapy at maximum dose, as it is preferred over insulin for patient convenience",
+        "correct": false,
+        "explanation": "Glyburide crosses the placenta and is associated with higher rates of macrosomia and neonatal hypoglycemia compared to insulin."
+      },
+      {
+        "text": "Continue dietary and lifestyle modifications for an additional 6 weeks before considering pharmacotherapy",
+        "correct": false,
+        "explanation": "Prolonged hyperglycemia with fetal abdominal circumference >90th percentile causes progressive asymmetric macrosomia and metabolic complications."
+      },
+      {
+        "text": "Prescribe oral sodium-glucose cotransporter-2 (SGLT2) inhibitor therapy (e.g., empagliflozin)",
+        "correct": false,
+        "explanation": "SGLT2 inhibitors and GLP-1 receptor agonists are not approved and have unknown fetal safety profiles in pregnancy."
+      },
+      {
+        "text": "Advise the patient to restrict daily carbohydrate intake to < 50 g/day to avoid all pharmacologic therapy",
+        "correct": false,
+        "explanation": "Severe carbohydrate restriction leads to maternal ketonemia and ketoacidosis, which is associated with impaired fetal neurodevelopment."
+      },
+      {
+        "text": "Initiate subcutaneous insulin therapy (first-line pharmacotherapy for gestational diabetes)",
+        "correct": true,
+        "explanation": "Gestational diabetes mellitus (GDM) management follows a strict treat-to-target algorithm to prevent macrosomia, shoulder dystocia, neonatal hypoglycemia, and stillbirth. Glycemic targets in pregnancy: FASTING < 95 mg/dL, 1-HOUR POSTPRANDIAL < 140 mg/dL, and 2-HOUR POSTPRANDIAL < 120 mg/dL. When lifestyle modifications (nutritional therapy and exercise) fail to achieve glycemic targets within 1 to 2 weeks (or if fetal abdominal circumference is >75th percentile indicating early macrosomia), PHARMACOTHERAPY IS MANDATORY. According to ACOG and ADA guidelines, INSULIN IS THE FIRST-LINE PHARMACOTHERAPEUTIC AGENT OF CHOICE in pregnancy. Insulin does NOT cross the placenta, effectively lowers maternal and fetal glycemia, and reduces macrosomia risk without teratogenicity or long-term fetal toxicity. Oral hypoglycemic agents (glyburide, metformin) cross the placenta; metformin is associated with higher preterm birth and glyburide with increased neonatal hypoglycemia and macrosomia, so they are second-line only if insulin is declined or inaccessible."
+      }
+    ],
+    "explanation": "Gestational diabetes mellitus (GDM) management follows a strict treat-to-target algorithm to prevent macrosomia, shoulder dystocia, neonatal hypoglycemia, and stillbirth. Glycemic targets in pregnancy: FASTING < 95 mg/dL, 1-HOUR POSTPRANDIAL < 140 mg/dL, and 2-HOUR POSTPRANDIAL < 120 mg/dL. When lifestyle modifications (nutritional therapy and exercise) fail to achieve glycemic targets within 1 to 2 weeks (or if fetal abdominal circumference is >75th percentile indicating early macrosomia), PHARMACOTHERAPY IS MANDATORY. According to ACOG and ADA guidelines, INSULIN IS THE FIRST-LINE PHARMACOTHERAPEUTIC AGENT OF CHOICE in pregnancy. Insulin does NOT cross the placenta, effectively lowers maternal and fetal glycemia, and reduces macrosomia risk without teratogenicity or long-term fetal toxicity. Oral hypoglycemic agents (glyburide, metformin) cross the placenta; metformin is associated with higher preterm birth and glyburide with increased neonatal hypoglycemia and macrosomia, so they are second-line only if insulin is declined or inaccessible. GDM failing lifestyle (fasting 112 > 95, 1-hr postprandial 158 > 140) + fetal abdominal circumference 94th% = Initiate first-line Insulin therapy.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Gestational Diabetes Targets and First-Line Insulin.",
+    "keyPoints": [
+      "Gestational Diabetes Targets and First-Line Insulin",
+      "GDM failing lifestyle (fasting 112 > 95, 1-hr postprandial 158 > 140) + fetal abdominal circumference 94th% = Initiate first-line Insulin therapy."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 190: Gestational Diabetes Mellitus. Obstet Gynecol. 2018;131(2):e49-e64. PMID: 29370047.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29370047/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0591",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Rh(D) Alloimmunization RhoGAM Dosing and Kleihauer-Betke",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 28-year-old Rh-negative, primigravida at 28 weeks of gestation presents for a routine prenatal visit. Her baseline antibody screen at 10 weeks was negative for anti-D antibodies. Today, repeat antibody titer remains negative (unsensitized). She receives the routine prophylactic dose of 300 microg of anti-D immune globulin (RhoGAM). At 34 weeks of gestation, she is involved in a moderate motor vehicle collision with abdominal seatbelt trauma. She denies vaginal bleeding or fluid leakage; fetal heart rate monitoring is reassuring. Physical examination reveals mild lower abdominal ecchymosis. A qualitative rosette screening test for fetomaternal hemorrhage is positive. A quantitative Kleihauer-Betke test is performed and demonstrates that fetal red blood cells comprise 2.4% of total red blood cells in the maternal circulation. Assuming a maternal blood volume of 5,000 mL, which of the following is the most appropriate management step?",
+    "options": [
+      {
+        "text": "Administer 4 additional vials (total 1,200 microg) of anti-D immune globulin (RhoGAM) within 72 hours of the traumatic event",
+        "correct": true,
+        "explanation": "RH(D) ALLOIMMUNIZATION occurs when an Rh-negative mother is exposed to Rh-positive fetal red blood cells. Standard prophylaxis requires 300 microg of anti-D immune globulin at 28 WEEKS GESTATION and within 72 HOURS OF DELIVERY of an Rh-positive newborn. When blunt abdominal trauma or placental abruption occurs, FETOMATERNAL HEMORRHAGE can exceed the protection of a standard dose. The standard 300 microg vial protects against up to 30 mL of fetal whole blood (or 15 mL of fetal packed RBCs). To calculate the required dose after trauma: (1) Volume of fetal blood = % fetal cells * maternal blood volume (5,000 mL) = 0.024 * 5,000 mL = 120 mL of fetal whole blood; (2) Number of vials = 120 mL / 30 mL per vial = 4 vials. (3) Rounding rule: If the number to the right of the decimal point is >=5, round up to next whole number and add 1; if <5, round down and add 1 vial as a safety margin (or directly calculate 120 / 30 = 4 vials). Therefore, administering 4 to 5 vials of anti-D immune globulin within 72 hours is mandatory to prevent maternal Rh-D alloimmunization."
+      },
+      {
+        "text": "Reassure the patient that the prophylactic 300 microg dose given at 28 weeks provides complete protection for the remainder of pregnancy",
+        "correct": false,
+        "explanation": "The standard 300 microg dose protects against only 30 mL of fetal blood; a 120 mL hemorrhage overwhelms this dose and causes maternal alloimmunization."
+      },
+      {
+        "text": "Perform immediate emergency cesarean delivery to eliminate any ongoing risk of fetomaternal hemorrhage",
+        "correct": false,
+        "explanation": "Emergency delivery is indicated only for fetal distress or maternal instability, neither of which is present; anti-D immunoglobulin treats the hemorrhage."
+      },
+      {
+        "text": "Administer intravenous immunoglobulin (IVIG) and perform therapeutic maternal plasma exchange",
+        "correct": false,
+        "explanation": "IVIG and plasmapheresis are reserved for severe, established alloimmunization in sensitized pregnancies, not for acute post-trauma Rh-negative prophylaxis."
+      },
+      {
+        "text": "Withhold further anti-D immune globulin until after delivery, and determine dosage from cord blood serology",
+        "correct": false,
+        "explanation": "Delaying anti-D immune globulin beyond 72 hours allows maternal B cells to recognize foreign Rh(D) antigen, resulting in irreversible alloimmunization."
+      }
+    ],
+    "explanation": "RH(D) ALLOIMMUNIZATION occurs when an Rh-negative mother is exposed to Rh-positive fetal red blood cells. Standard prophylaxis requires 300 microg of anti-D immune globulin at 28 WEEKS GESTATION and within 72 HOURS OF DELIVERY of an Rh-positive newborn. When blunt abdominal trauma or placental abruption occurs, FETOMATERNAL HEMORRHAGE can exceed the protection of a standard dose. The standard 300 microg vial protects against up to 30 mL of fetal whole blood (or 15 mL of fetal packed RBCs). To calculate the required dose after trauma: (1) Volume of fetal blood = % fetal cells * maternal blood volume (5,000 mL) = 0.024 * 5,000 mL = 120 mL of fetal whole blood; (2) Number of vials = 120 mL / 30 mL per vial = 4 vials. (3) Rounding rule: If the number to the right of the decimal point is >=5, round up to next whole number and add 1; if <5, round down and add 1 vial as a safety margin (or directly calculate 120 / 30 = 4 vials). Therefore, administering 4 to 5 vials of anti-D immune globulin within 72 hours is mandatory to prevent maternal Rh-D alloimmunization. Rh-negative trauma + Kleihauer-Betke 2.4% fetal RBCs (120 mL hemorrhage) = Calculate dose (120 mL / 30 mL = 4 vials) -> Administer additional RhoGAM.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Rh(D) Alloimmunization RhoGAM Dosing and Kleihauer-Betke.",
+    "keyPoints": [
+      "Rh(D) Alloimmunization RhoGAM Dosing and Kleihauer-Betke",
+      "Rh-negative trauma + Kleihauer-Betke 2.4% fetal RBCs (120 mL hemorrhage) = Calculate dose (120 mL / 30 mL = 4 vials) -> Administer additional RhoGAM."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 181: Prevention of Rh D Alloimmunization. Obstet Gynecol. 2017;130(2):e57-e70. PMID: 28742673.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28742673/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0592",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Group B Streptococcus Screening and Intrapartum Antibiotic Timing",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 25-year-old primigravida at 36 weeks of gestation presents for routine prenatal care. She has no known drug allergies. A universal screening rectovaginal swab for Group B Streptococcus (GBS) is collected and culture returns positive for Streptococcus agalactiae. At 39 weeks of gestation, she presents in active labor with spontaneous rupture of membranes 1 hour ago. Cervical examination shows 5 cm dilation and 80% effacement; vertex is at 0 station. Maternal temperature is 36.9 C (98.4 F), blood pressure is 118/72 mm Hg, and fetal heart rate is 140/min with moderate variability. Which of the following represents the most appropriate intrapartum management?",
+    "options": [
+      {
+        "text": "Administer a 7-day course of oral amoxicillin and discharge home until cervical dilation reaches 8 cm",
+        "correct": false,
+        "explanation": "Oral antibiotics do not eradicate GBS colonization and do not prevent neonatal early-onset sepsis; intrapartum IV penicillin is mandatory."
+      },
+      {
+        "text": "Initiate intravenous penicillin G (5 million units IV initial dose, followed by 2.5 to 3.0 million units IV every 4 hours) until delivery, ensuring administration begins >= 4 hours prior to delivery",
+        "correct": true,
+        "explanation": "GROUP B STREPTOCOCCUS (Streptococcus agalactiae) is the leading infectious cause of neonatal sepsis, pneumonia, and meningitis. Current guidelines mandate: (1) UNIVERSAL SCREENING: rectovaginal culture swab at 36 0/7 to 37 6/7 WEEKS GESTATION; (2) INTRAPARTUM ANTIBIOTIC PROPHYLAXIS (IAP) INDICATIONS: (a) Positive GBS screening culture during current pregnancy; (b) History of a previous infant with invasive GBS disease; (c) GBS bacteriuria during any trimester of current pregnancy; or (d) Unknown GBS status with risk factors (delivery <37 weeks, rupture of membranes >=18 hours, maternal intrapartum temperature >=38.0 C); (3) FIRST-LINE REGIMEN: INTRAVENOUS PENICILLIN G (5 million units IV bolus, then 2.5-3.0 million units q4h until delivery) or IV ampicillin; (4) TIMING: Antibiotics must be initiated AT LEAST 4 HOURS PRIOR TO DELIVERY to achieve bactericidal concentrations in amniotic fluid and fetal circulation. Oral antibiotics prior to labor or during pregnancy do NOT eradicate rectovaginal colonization and have zero efficacy in preventing neonatal GBS sepsis."
+      },
+      {
+        "text": "Administer intravenous vancomycin infusion as first-line prophylaxis regardless of allergy status",
+        "correct": false,
+        "explanation": "Penicillin G is the undisputed first-line agent; vancomycin is strictly reserved for patients with severe anaphylactic penicillin allergy."
+      },
+      {
+        "text": "Withhold intrapartum antibiotics and treat the neonate with intramuscular penicillin immediately after birth",
+        "correct": false,
+        "explanation": "Neonatal post-exposure prophylaxis is significantly inferior to maternal intrapartum prophylaxis in preventing early-onset GBS sepsis."
+      },
+      {
+        "text": "Perform an elective cesarean delivery to prevent neonatal passage through the colonized birth canal",
+        "correct": false,
+        "explanation": "Cesarean delivery does not eliminate GBS transmission and is not indicated for GBS colonization; intrapartum IV penicillin is standard."
+      }
+    ],
+    "explanation": "GROUP B STREPTOCOCCUS (Streptococcus agalactiae) is the leading infectious cause of neonatal sepsis, pneumonia, and meningitis. Current guidelines mandate: (1) UNIVERSAL SCREENING: rectovaginal culture swab at 36 0/7 to 37 6/7 WEEKS GESTATION; (2) INTRAPARTUM ANTIBIOTIC PROPHYLAXIS (IAP) INDICATIONS: (a) Positive GBS screening culture during current pregnancy; (b) History of a previous infant with invasive GBS disease; (c) GBS bacteriuria during any trimester of current pregnancy; or (d) Unknown GBS status with risk factors (delivery <37 weeks, rupture of membranes >=18 hours, maternal intrapartum temperature >=38.0 C); (3) FIRST-LINE REGIMEN: INTRAVENOUS PENICILLIN G (5 million units IV bolus, then 2.5-3.0 million units q4h until delivery) or IV ampicillin; (4) TIMING: Antibiotics must be initiated AT LEAST 4 HOURS PRIOR TO DELIVERY to achieve bactericidal concentrations in amniotic fluid and fetal circulation. Oral antibiotics prior to labor or during pregnancy do NOT eradicate rectovaginal colonization and have zero efficacy in preventing neonatal GBS sepsis. GBS positive at 36 weeks + presenting in active labor at 39 weeks = IV Penicillin G intrapartum (>= 4 hours prior to delivery).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Group B Streptococcus Screening and Intrapartum Antibiotic Timing.",
+    "keyPoints": [
+      "Group B Streptococcus Screening and Intrapartum Antibiotic Timing",
+      "GBS positive at 36 weeks + presenting in active labor at 39 weeks = IV Penicillin G intrapartum (>= 4 hours prior to delivery)."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Committee Opinion No. 797: Prevention of Group B Streptococcal Early-Onset Disease in Newborns. Obstet Gynecol. 2020;135(2):e51-e72. PMID: 31977794.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31977794/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0593",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Intrahepatic Cholestasis of Pregnancy Bile Acids Ursodeoxycholic Acid",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old woman, gravida 2 para 1 at 32 weeks of gestation, presents with intense, unrelenting pruritus that is most severe on the palms of her hands and soles of her feet. She reports that the itching is worse at night and has disrupted her sleep for the past 2 weeks. She denies abdominal pain, nausea, vomiting, or dark urine. Physical examination reveals excoriations on both forearms and legs from scratching, but NO primary skin lesions, rash, or jaundice. Right upper quadrant is non-tender. Laboratory evaluation demonstrates: total serum bile acids 48 micromol/L (markedly elevated; normal < 10 micromol/L), AST 94 U/L, ALT 118 U/L, total bilirubin 1.4 mg/dL, and normal serum lipase. Serologies for viral hepatitis A, B, and C are negative. Which of the following is the most appropriate pharmacologic treatment and delivery management plan?",
+    "options": [
+      {
+        "text": "Prescribe topical hydrocortisone cream and oral diphenhydramine, and plan routine delivery at 41 weeks of gestation",
+        "correct": false,
+        "explanation": "Antihistamines treat symptoms only and do not lower bile acids; allowing pregnancy to progress beyond 37 weeks drastically increases stillbirth."
+      },
+      {
+        "text": "Perform immediate emergency cesarean delivery today at 32 weeks of gestation without medical therapy",
+        "correct": false,
+        "explanation": "Immediate delivery at 32 weeks causes unnecessary neonatal prematurity; medical therapy with UDCA and delivery at 36-37 weeks is guideline standard."
+      },
+      {
+        "text": "Initiate oral ursodeoxycholic acid (UDCA) to alleviate maternal pruritus, and plan delivery between 36 0/7 and 37 0/7 weeks of gestation (or earlier if bile acids >= 100 micromol/L)",
+        "correct": true,
+        "explanation": "INTRAHEPATIC CHOLESTASIS OF PREGNANCY (ICP) is the most common pregnancy-specific liver disorder, occurring in the late second and third trimesters. Cardinal features include: (1) INTENSE PRURITUS predominantly affecting the PALMS AND SOLES, worsening nocturnally; (2) ABSENCE OF PRIMARY DERMATOLOGIC RASH (only secondary excoriations); and (3) ELEVATED TOTAL SERUM BILE ACIDS (>=10 micromol/L; diagnostic hallmark) with mild transaminitis. Crucially, maternal bile acids cross the placenta and accumulate in fetal tissue, conferring substantial risk of FETAL ARREST, ARHYTHMIAS, MECONIUM ASPIRATION, AND UNEXPECTED SUDDEN STILLBIRTH (risk correlates directly with bile acid levels, especially >=100 micromol/L). Management: (1) PHARMACOTHERAPY: URSODEOXYCHOLIC ACID (UDCA) is first-line to improve biliary clearance, reduce maternal bile acids, and relieve pruritus; and (2) DELIVERY TIMING: Active delivery between 36 0/7 and 37 0/7 WEEKS GESTATION (or at 36 0/7 weeks or upon diagnosis if bile acids >= 100 micromol/L) to prevent fetal demise."
+      },
+      {
+        "text": "Initiate oral cholestyramine monotherapy and advise strict dietary fat avoidance until term",
+        "correct": false,
+        "explanation": "Cholestyramine is less effective than UDCA, worsens fat-soluble vitamin malabsorption (vitamin K deficiency/coagulopathy), and does not reduce stillbirth."
+      },
+      {
+        "text": "Perform an urgent laparoscopic cholecystectomy for presumed acute acalculous cholecystitis",
+        "correct": false,
+        "explanation": "The disorder is intrahepatic metabolic cholestasis, not cholecystitis; gallbladder surgery is contraindicated."
+      }
+    ],
+    "explanation": "INTRAHEPATIC CHOLESTASIS OF PREGNANCY (ICP) is the most common pregnancy-specific liver disorder, occurring in the late second and third trimesters. Cardinal features include: (1) INTENSE PRURITUS predominantly affecting the PALMS AND SOLES, worsening nocturnally; (2) ABSENCE OF PRIMARY DERMATOLOGIC RASH (only secondary excoriations); and (3) ELEVATED TOTAL SERUM BILE ACIDS (>=10 micromol/L; diagnostic hallmark) with mild transaminitis. Crucially, maternal bile acids cross the placenta and accumulate in fetal tissue, conferring substantial risk of FETAL ARREST, ARHYTHMIAS, MECONIUM ASPIRATION, AND UNEXPECTED SUDDEN STILLBIRTH (risk correlates directly with bile acid levels, especially >=100 micromol/L). Management: (1) PHARMACOTHERAPY: URSODEOXYCHOLIC ACID (UDCA) is first-line to improve biliary clearance, reduce maternal bile acids, and relieve pruritus; and (2) DELIVERY TIMING: Active delivery between 36 0/7 and 37 0/7 WEEKS GESTATION (or at 36 0/7 weeks or upon diagnosis if bile acids >= 100 micromol/L) to prevent fetal demise. Intense pruritus of palms/soles + elevated bile acids (48 micromol/L) = Intrahepatic Cholestasis of Pregnancy -> Ursodeoxycholic acid + delivery at 36-37 weeks.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Intrahepatic Cholestasis of Pregnancy Bile Acids Ursodeoxycholic Acid.",
+    "keyPoints": [
+      "Intrahepatic Cholestasis of Pregnancy Bile Acids Ursodeoxycholic Acid",
+      "Intense pruritus of palms/soles + elevated bile acids (48 micromol/L) = Intrahepatic Cholestasis of Pregnancy -> Ursodeoxycholic acid + delivery at 36-37 weeks."
+    ],
+    "references": [
+      {
+        "label": "Society for Maternal-Fetal Medicine (SMFM). SMFM Consult Series #53: Intrahepatic cholestasis of pregnancy. Am J Obstet Gynecol. 2021;224(2):B2-B9. PMID: 33197417.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33197417/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0594",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Shoulder Dystocia McRoberts and Suprapubic vs Fundal Pressure",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old woman, gravida 2 para 1 with gestational diabetes mellitus, is delivering a term infant at 39 weeks of gestation. Following a prolonged second stage of labor, the fetal head delivers, but immediately retracts tightly against the maternal perineum ('turtle sign'). Gentle downward axial traction on the fetal head fails to deliver the anterior shoulder, which remains impacted behind the maternal pubic symphysis. The delivering clinician instructs the nurse to prepare for emergency maneuvers. Which of the following represents the most appropriate initial sequence of maneuvers to resolve this shoulder dystocia?",
+    "options": [
+      {
+        "text": "Apply forceful, continuous fundal pressure while applying downward traction on the fetal neck",
+        "correct": false,
+        "explanation": "Fundal pressure is strictly contraindicated; it jams the shoulder tighter against the symphysis, causing brachial plexus rupture and uterine rupture."
+      },
+      {
+        "text": "Immediately perform the Zavanelli maneuver by pushing the fetal head back into the vagina",
+        "correct": false,
+        "explanation": "The Zavanelli maneuver (cephalic replacement for emergent cesarean) is the desperate last resort after all external and internal maneuvers fail."
+      },
+      {
+        "text": "Perform an immediate symphysiotomy by surgically dividing the maternal cartilaginous pubic symphysis",
+        "correct": false,
+        "explanation": "Symphysiotomy carries severe maternal morbidity (incontinence, gait instability) and is reserved for extreme resource-limited settings when all maneuvers fail."
+      },
+      {
+        "text": "Perform the McRoberts maneuver (hyperflexion of maternal thighs onto abdomen) combined with firm suprapubic pressure directed obliquely downward",
+        "correct": true,
+        "explanation": "SHOULDER DYSTOCIA is an obstetric emergency occurring when the anterior fetal shoulder becomes impacted behind the maternal pubic symphysis (or less commonly posterior shoulder on the sacral promontory). Clinical hallmark is the 'TURTLE SIGN' (retraction of fetal chin against perineum). Management requires a rapid, calm, disciplined stepwise protocol: (1) CALL FOR ASSISTANCE and note the time; (2) McROBERTS MANEUVER: hyperflexion of maternal hips onto the maternal abdomen. This flattens the lumbosacral angle, cephalad-rotates the pubic symphysis, and widens the pelvic outlet, resolving >40% of cases; (3) SUPRAPUBIC PRESSURE: firm, continuous or rocking pressure applied by an assistant directly over the pubic symphysis with the palm directed obliquely downward to disimpact and rotate the anterior shoulder into the oblique pelvic diameter; (4) STRICT CONTRAINDICATION: FUNDAL PRESSURE IS STRICTLY CONTRAINDICATED (it impacts the shoulder tighter into the pubic bone, drastically increases brachial plexus injury / Erb palsy, and causes uterine rupture); (5) Internal maneuvers (Rubin, Woods screw, delivery of posterior arm)."
+      },
+      {
+        "text": "Administer high-dose intravenous oxytocin bolus to stimulate a forceful uterine contraction",
+        "correct": false,
+        "explanation": "Oxytocin increases downward impaction forces against the pubic bone, exacerbating fetal hypoxemia and increasing brachial plexus injury."
+      }
+    ],
+    "explanation": "SHOULDER DYSTOCIA is an obstetric emergency occurring when the anterior fetal shoulder becomes impacted behind the maternal pubic symphysis (or less commonly posterior shoulder on the sacral promontory). Clinical hallmark is the 'TURTLE SIGN' (retraction of fetal chin against perineum). Management requires a rapid, calm, disciplined stepwise protocol: (1) CALL FOR ASSISTANCE and note the time; (2) McROBERTS MANEUVER: hyperflexion of maternal hips onto the maternal abdomen. This flattens the lumbosacral angle, cephalad-rotates the pubic symphysis, and widens the pelvic outlet, resolving >40% of cases; (3) SUPRAPUBIC PRESSURE: firm, continuous or rocking pressure applied by an assistant directly over the pubic symphysis with the palm directed obliquely downward to disimpact and rotate the anterior shoulder into the oblique pelvic diameter; (4) STRICT CONTRAINDICATION: FUNDAL PRESSURE IS STRICTLY CONTRAINDICATED (it impacts the shoulder tighter into the pubic bone, drastically increases brachial plexus injury / Erb palsy, and causes uterine rupture); (5) Internal maneuvers (Rubin, Woods screw, delivery of posterior arm). Turtle sign + anterior shoulder impaction = Shoulder dystocia -> McRoberts maneuver + Suprapubic pressure (NEVER fundal pressure).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Shoulder Dystocia McRoberts and Suprapubic vs Fundal Pressure.",
+    "keyPoints": [
+      "Shoulder Dystocia McRoberts and Suprapubic vs Fundal Pressure",
+      "Turtle sign + anterior shoulder impaction = Shoulder dystocia -> McRoberts maneuver + Suprapubic pressure (NEVER fundal pressure)."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 178: Shoulder Dystocia. Obstet Gynecol. 2017;129(5):e123-e134. PMID: 28437254.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28437254/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0595",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Cervical Insufficiency History-Indicated Cerclage Placement",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 28-year-old woman presents to the obstetric clinic at 10 weeks of gestation for her first prenatal visit. Her obstetrical history is notable for two prior second-trimester pregnancy losses at 18 and 20 weeks of gestation. In both previous pregnancies, she experienced sudden, painless cervical dilation and spontaneous delivery of an intact amniotic sac containing a normal fetus without prior contractions, vaginal bleeding, or fever. Physical examination today reveals a closed cervix with no vaginal bleeding. Transvaginal ultrasound demonstrates a single live intrauterine pregnancy with cardiac activity, consistent with 10 weeks of gestation. Which of the following is the most appropriate management plan to prevent recurrent mid-trimester loss in this pregnancy?",
+    "options": [
+      {
+        "text": "Prescribe daily oral terbutaline tocolysis starting at 12 weeks of gestation",
+        "correct": false,
+        "explanation": "Terbutaline does not reinforce structural cervical integrity and carries significant maternal cardiovascular toxicity."
+      },
+      {
+        "text": "Strict complete bed rest in the Trendelenburg position for the duration of the second and third trimesters",
+        "correct": false,
+        "explanation": "Strict bed rest does not prevent preterm birth or cervical dilation and drastically increases the risk of maternal venous thromboembolism."
+      },
+      {
+        "text": "Placement of an emergency physical-examination-indicated rescue cerclage today at 10 weeks of gestation",
+        "correct": false,
+        "explanation": "Elective cerclage is scheduled at 12-14 weeks after first-trimester aneuploidy screening confirms a viable, chromosomally normal fetus."
+      },
+      {
+        "text": "Weekly intramuscular 17-alpha hydroxyprogesterone caproate injections without mechanical cerclage",
+        "correct": false,
+        "explanation": "Progesterone injections alone do not correct mechanical cervical incompetence in patients with classic recurrent painless second-trimester loss."
+      },
+      {
+        "text": "Placement of a history-indicated cervical cerclage at 12 to 14 weeks of gestation",
+        "correct": true,
+        "explanation": "CERVICAL INSUFFICIENCY (incompetence) is the inability of the uterine cervix to retain a pregnancy in the second trimester in the absence of clinical contractions or labor. The classic presentation is RECURRENT, PAINLESS CERVICAL DILATION AND EFFACEMENT in the second trimester (typically between 16 and 24 weeks) resulting in prolapse and rupture of membranes and expulsion of an immature fetus. Risk factors include prior cervical trauma (cone biopsy, LEEP, mechanical cervical dilation) or collagen vascular disorders. According to ACOG guidelines, a HISTORY-INDICATED CERCLAGE (McDonald or Shirodkar procedure) is strongly recommended at 12 TO 14 WEEKS OF GESTATION in patients with a history of >=1 unexplained second-trimester delivery related to painless cervical dilation. The cerclage provides mechanical reinforcement to the internal cervical os and is routinely removed at 36-37 weeks (or earlier if spontaneous labor or infection occurs)."
+      }
+    ],
+    "explanation": "CERVICAL INSUFFICIENCY (incompetence) is the inability of the uterine cervix to retain a pregnancy in the second trimester in the absence of clinical contractions or labor. The classic presentation is RECURRENT, PAINLESS CERVICAL DILATION AND EFFACEMENT in the second trimester (typically between 16 and 24 weeks) resulting in prolapse and rupture of membranes and expulsion of an immature fetus. Risk factors include prior cervical trauma (cone biopsy, LEEP, mechanical cervical dilation) or collagen vascular disorders. According to ACOG guidelines, a HISTORY-INDICATED CERCLAGE (McDonald or Shirodkar procedure) is strongly recommended at 12 TO 14 WEEKS OF GESTATION in patients with a history of >=1 unexplained second-trimester delivery related to painless cervical dilation. The cerclage provides mechanical reinforcement to the internal cervical os and is routinely removed at 36-37 weeks (or earlier if spontaneous labor or infection occurs). History of 2 painless 2nd-trimester pregnancy losses = Cervical insufficiency -> History-indicated cervical cerclage at 12-14 weeks.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cervical Insufficiency History-Indicated Cerclage Placement.",
+    "keyPoints": [
+      "Cervical Insufficiency History-Indicated Cerclage Placement",
+      "History of 2 painless 2nd-trimester pregnancy losses = Cervical insufficiency -> History-indicated cervical cerclage at 12-14 weeks."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 142: Cerclage for the Management of Cervical Insufficiency. Obstet Gynecol. 2014;123(2 Pt 1):372-379. PMID: 24451674.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24451674/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0596",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Postpartum Endometritis Clindamycin and Gentamicin",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old primipara presents on postoperative day 3 following an emergency cesarean delivery for arrested active labor following 26 hours of membrane rupture. She reports worsening lower abdominal pain, chills, and malodorous vaginal discharge. Vital signs show: temperature 38.8 C (101.8 F), blood pressure 112/68 mm Hg, and pulse 106/min. Physical examination reveals exquisite tenderness to light palpation over the uterine fundus; the Pfannenstiel surgical incision is clean, intact, without erythema, drainage, or fluctuance. Speculum examination demonstrates foul-smelling, purulent lochia draining from the open cervical os. Laboratory evaluation shows a peripheral WBC count of 21,400/microL with 86% neutrophils. Which of the following is the most appropriate initial antimicrobial regimen?",
+    "options": [
+      {
+        "text": "Intravenous clindamycin combined with intravenous gentamicin",
+        "correct": true,
+        "explanation": "POSTPARTUM ENDOMETRITIS is the most common cause of postpartum fever, with CESAREAN DELIVERY being the single most important risk factor (especially after prolonged labor and prolonged membrane rupture). It is a POLYMICROBIAL INFECTION arising from ascending endogenous vaginal flora, involving a mixture of anaerobic bacteria (Bacteroides, Prevotella, Peptostreptococcus) and aerobic bacteria (Group B Streptococcus, Enterococcus, gram-negative bacilli such as E. coli). Cardinal clinical signs include: (1) Postpartum fever (>=38.0 C); (2) UTERINE TENDERNESS; (3) Tachycardia; and (4) PURULENT, FOUL-SMELLING LOCHIA. The GOLD-STANDARD FIRST-LINE ANTIMICROBIAL REGIMEN is INTRAVENOUS CLINDAMYCIN (900 mg q8h) PLUS INTRAVENOUS GENTAMICIN (5 mg/kg q24h or 1.5 mg/kg q8h). Clindamycin provides excellent anaerobic and gram-positive coverage, while gentamicin covers facultative gram-negative organisms. Treatment must be continued intravenously until the patient is afebrile and clinically asymptomatic for 24 to 48 hours."
+      },
+      {
+        "text": "Oral amoxicillin-clavulanate outpatient therapy for 10 days",
+        "correct": false,
+        "explanation": "Post-cesarean endometritis is a severe inpatient deep myometrial infection requiring intravenous bactericidal therapy; oral agents have unacceptably high failure rates."
+      },
+      {
+        "text": "Intravenous vancomycin monotherapy",
+        "correct": false,
+        "explanation": "Vancomycin covers gram-positive cocci but lacks activity against gram-negative bacilli and anaerobes, which drive polymicrobial endometritis."
+      },
+      {
+        "text": "Intramuscular ceftriaxone single dose and oral azithromycin",
+        "correct": false,
+        "explanation": "This regimen treats uncomplicated gonococcal/chlamydial cervicitis, which is completely inadequate for polymicrobial post-cesarean endometritis."
+      },
+      {
+        "text": "Surgical wound re-exploration and opening of the Pfannenstiel incision in the labor room",
+        "correct": false,
+        "explanation": "The surgical incision is clean and intact without fluctuance; the infection is deep intrauterine endometritis, not superficial surgical site infection."
+      }
+    ],
+    "explanation": "POSTPARTUM ENDOMETRITIS is the most common cause of postpartum fever, with CESAREAN DELIVERY being the single most important risk factor (especially after prolonged labor and prolonged membrane rupture). It is a POLYMICROBIAL INFECTION arising from ascending endogenous vaginal flora, involving a mixture of anaerobic bacteria (Bacteroides, Prevotella, Peptostreptococcus) and aerobic bacteria (Group B Streptococcus, Enterococcus, gram-negative bacilli such as E. coli). Cardinal clinical signs include: (1) Postpartum fever (>=38.0 C); (2) UTERINE TENDERNESS; (3) Tachycardia; and (4) PURULENT, FOUL-SMELLING LOCHIA. The GOLD-STANDARD FIRST-LINE ANTIMICROBIAL REGIMEN is INTRAVENOUS CLINDAMYCIN (900 mg q8h) PLUS INTRAVENOUS GENTAMICIN (5 mg/kg q24h or 1.5 mg/kg q8h). Clindamycin provides excellent anaerobic and gram-positive coverage, while gentamicin covers facultative gram-negative organisms. Treatment must be continued intravenously until the patient is afebrile and clinically asymptomatic for 24 to 48 hours. Post-cesarean fever + exquisite uterine fundal tenderness + foul-smelling lochia = Postpartum endometritis -> IV Clindamycin + IV Gentamicin.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Postpartum Endometritis Clindamycin and Gentamicin.",
+    "keyPoints": [
+      "Postpartum Endometritis Clindamycin and Gentamicin",
+      "Post-cesarean fever + exquisite uterine fundal tenderness + foul-smelling lochia = Postpartum endometritis -> IV Clindamycin + IV Gentamicin."
+    ],
+    "references": [
+      {
+        "label": "Mackeen AD, et al. Antibiotic regimens for postpartum endometritis. Cochrane Database Syst Rev. 2015;(2):CD001067. PMID: 25642898.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25642898/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0597",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Hyperemesis Gravidarum Thiamine Before Dextrose Wernicke",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old primigravida at 11 weeks of gestation presents to the emergency department with severe, intractable nausea and vomiting that has persisted for 4 weeks. She has been unable to keep any liquids or solid food down for the past 5 days and has lost 14 lb (equivalent to 10% of her pre-pregnancy body weight). Physical examination reveals dry, cracked mucous membranes, sunken orbits, and tenting skin turgor. Vital signs show: blood pressure 94/58 mm Hg, heart rate 116/min, and orthostatic dizziness. Laboratory studies demonstrate: serum sodium 131 mEq/L, potassium 2.9 mEq/L, chloride 86 mEq/L, bicarbonate 32 mEq/L, and BUN 24 mg/dL. Urinalysis demonstrates 4+ ketones and specific gravity 1.032. Which of the following critical medical principles must be observed during the immediate intravenous resuscitation of this patient?",
+    "options": [
+      {
+        "text": "Administer rapid 10% dextrose infusion without vitamin supplementation to rapidly correct starvation ketosis",
+        "correct": false,
+        "explanation": "Infusing dextrose without thiamine into a severely malnourished patient precipitates catastrophic, irreversible acute Wernicke encephalopathy."
+      },
+      {
+        "text": "Administer intravenous thiamine (vitamin B1) prior to initiating intravenous dextrose-containing fluids to prevent acute Wernicke encephalopathy",
+        "correct": true,
+        "explanation": "This patient has HYPEREMESIS GRAVIDARUM presenting with hypovolemia, hypokalemic hypochloremic metabolic alkalosis, and starvation ketosis. Hyperemesis gravidarum is characterized by persistent, severe nausea and vomiting with >5% pre-pregnancy weight loss, dehydration, and ketonuria. In patients with prolonged starvation and severe vomiting, endogenous stores of THIAMINE (VITAMIN B1) become depleted within 2 to 3 weeks (thiamine is a critical cofactor for pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase in carbohydrate metabolism). CRITICAL PRECAUTION: IF INTRAVENOUS DEXTROSE IS ADMINISTERED WITHOUT THIAMINE, THE RAPID INFLUX OF GLUCOSE ACCELERATES THIAMINE CONSUMPTION, TRIGGERING ACUTE, IRREVERSIBLE WERNICKE ENCEPHALOPATHY (classic triad of encephalopathy/confusion, ataxia, and ocular motor dysfunction e.g. nystagmus or lateral rectus palsy) OR KORSAKOFF PSYCHOSIS. Therefore, INTRAVENOUS THIAMINE (100 mg) MUST ALWAYS BE ADMINISTERED BEFORE OR CONCURRENTLY WITH DEXTROSE SOLUTIONS."
+      },
+      {
+        "text": "Administer high-dose oral potassium chloride tablets immediately without intravenous fluid resuscitation",
+        "correct": false,
+        "explanation": "Oral intake is impossible due to intractable vomiting, and severe dehydration requires immediate intravenous crystalloid resuscitation."
+      },
+      {
+        "text": "Perform an urgent therapeutic termination of pregnancy to reverse intractable maternal hepatic dysfunction",
+        "correct": false,
+        "explanation": "Hyperemesis gravidarum is completely reversible with aggressive intravenous rehydration, thiamine, electrolyte repletion, and antiemetics."
+      },
+      {
+        "text": "Initiate intravenous phenytoin infusion for seizure prophylaxis against ketotic encephalopathy",
+        "correct": false,
+        "explanation": "Starvation ketosis causes metabolic shifts but not primary epileptic seizures; prophylactic anticonvulsants are completely unwarranted."
+      }
+    ],
+    "explanation": "This patient has HYPEREMESIS GRAVIDARUM presenting with hypovolemia, hypokalemic hypochloremic metabolic alkalosis, and starvation ketosis. Hyperemesis gravidarum is characterized by persistent, severe nausea and vomiting with >5% pre-pregnancy weight loss, dehydration, and ketonuria. In patients with prolonged starvation and severe vomiting, endogenous stores of THIAMINE (VITAMIN B1) become depleted within 2 to 3 weeks (thiamine is a critical cofactor for pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase in carbohydrate metabolism). CRITICAL PRECAUTION: IF INTRAVENOUS DEXTROSE IS ADMINISTERED WITHOUT THIAMINE, THE RAPID INFLUX OF GLUCOSE ACCELERATES THIAMINE CONSUMPTION, TRIGGERING ACUTE, IRREVERSIBLE WERNICKE ENCEPHALOPATHY (classic triad of encephalopathy/confusion, ataxia, and ocular motor dysfunction e.g. nystagmus or lateral rectus palsy) OR KORSAKOFF PSYCHOSIS. Therefore, INTRAVENOUS THIAMINE (100 mg) MUST ALWAYS BE ADMINISTERED BEFORE OR CONCURRENTLY WITH DEXTROSE SOLUTIONS. Hyperemesis gravidarum + prolonged vomiting + 10% weight loss = Must give IV Thiamine BEFORE Dextrose (prevents Wernicke encephalopathy).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hyperemesis Gravidarum Thiamine Before Dextrose Wernicke.",
+    "keyPoints": [
+      "Hyperemesis Gravidarum Thiamine Before Dextrose Wernicke",
+      "Hyperemesis gravidarum + prolonged vomiting + 10% weight loss = Must give IV Thiamine BEFORE Dextrose (prevents Wernicke encephalopathy)."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 189: Nausea and Vomiting of Pregnancy. Obstet Gynecol. 2018;131(1):e15-e30. PMID: 29266076.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29266076/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0598",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Asymptomatic Bacteriuria in Pregnancy Pyelonephritis Prevention",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old primigravida at 14 weeks of gestation presents for routine prenatal care. She has no dysuria, urinary frequency, urgency, fever, chills, or flank pain. Vital signs are normal. A clean-catch midstream urine culture obtained as part of standard first-trimester screening yields >100,000 colony-forming units (CFU)/mL of Escherichia coli that is pan-sensitive to nitrofurantoin, cephalexin, and amoxicillin-clavulanate. Physical examination reveals no suprapubic or costovertebral angle tenderness. Which of the following is the most appropriate management approach for this patient?",
+    "options": [
+      {
+        "text": "Reassure the patient and withhold antimicrobial therapy since she is completely asymptomatic",
+        "correct": false,
+        "explanation": "In pregnancy, withholding treatment leads to acute pyelonephritis in up to 30-40% of cases, significantly increasing preterm delivery and sepsis."
+      },
+      {
+        "text": "Prescribe a single dose of oral ciprofloxacin and schedule routine follow-up at 28 weeks",
+        "correct": false,
+        "explanation": "Fluoroquinolones (ciprofloxacin) are generally avoided in pregnancy due to cartilage toxicity; nitrofurantoin or cephalexin is preferred."
+      },
+      {
+        "text": "Prescribe a 5- to 7-day course of oral nitrofurantoin (or oral cephalexin) and obtain a test-of-cure urine culture 1 to 2 weeks after completing therapy",
+        "correct": true,
+        "explanation": "ASYMPTOMATIC BACTERIURIA is defined as the presence of >=100,000 CFU/mL of a single uropathogen in a clean-catch urine specimen in a patient without symptoms of a urinary tract infection. In non-pregnant individuals, asymptomatic bacteriuria is generally benign and requires no treatment. In PREGNANT WOMEN, HOWEVER, PROMPT ANTIMICROBIAL TREATMENT IS MANDATORY! Pathophysiology: Gestational progesterone causes smooth muscle relaxation, leading to ureteral dilation and physiological hydronephrosis, while the enlarging gravid uterus mechanically compresses the ureters, causing urinary stasis. Consequently, IF UNTREATED, 20% TO 40% OF PREGNANT WOMEN WITH ASYMPTOMATIC BACTERIURIA DEVELOP ACUTE PYELONEPHRITIS, which is associated with preterm labor, low birth weight, sepsis, and adult respiratory distress syndrome (ARDS). Treatment: 5-7 days of oral NITROFURANTOIN, CEPHALEXIN, or AMOXICILLIN-CLAVULANATE. A TEST-OF-CURE URINE CULTURE is mandatory 1 to 2 weeks post-treatment to verify eradication."
+      },
+      {
+        "text": "Admit the patient to the hospital for a 14-day course of intravenous ceftriaxone",
+        "correct": false,
+        "explanation": "Asymptomatic bacteriuria is managed entirely in the outpatient setting with oral antimicrobials; hospitalization is reserved for acute pyelonephritis."
+      },
+      {
+        "text": "Advise increased oral cranberry juice consumption and repeat urine culture in the third trimester",
+        "correct": false,
+        "explanation": "Cranberry juice is completely inadequate to eradicate bacterial colonization and prevent progression to severe pyelonephritis."
+      }
+    ],
+    "explanation": "ASYMPTOMATIC BACTERIURIA is defined as the presence of >=100,000 CFU/mL of a single uropathogen in a clean-catch urine specimen in a patient without symptoms of a urinary tract infection. In non-pregnant individuals, asymptomatic bacteriuria is generally benign and requires no treatment. In PREGNANT WOMEN, HOWEVER, PROMPT ANTIMICROBIAL TREATMENT IS MANDATORY! Pathophysiology: Gestational progesterone causes smooth muscle relaxation, leading to ureteral dilation and physiological hydronephrosis, while the enlarging gravid uterus mechanically compresses the ureters, causing urinary stasis. Consequently, IF UNTREATED, 20% TO 40% OF PREGNANT WOMEN WITH ASYMPTOMATIC BACTERIURIA DEVELOP ACUTE PYELONEPHRITIS, which is associated with preterm labor, low birth weight, sepsis, and adult respiratory distress syndrome (ARDS). Treatment: 5-7 days of oral NITROFURANTOIN, CEPHALEXIN, or AMOXICILLIN-CLAVULANATE. A TEST-OF-CURE URINE CULTURE is mandatory 1 to 2 weeks post-treatment to verify eradication. >100,000 CFU/mL E. coli in pregnant woman without symptoms = Asymptomatic bacteriuria -> Treat with oral antibiotics (nitrofurantoin/cephalexin) to prevent pyelonephritis.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Asymptomatic Bacteriuria in Pregnancy Pyelonephritis Prevention.",
+    "keyPoints": [
+      "Asymptomatic Bacteriuria in Pregnancy Pyelonephritis Prevention",
+      ">100,000 CFU/mL E. coli in pregnant woman without symptoms = Asymptomatic bacteriuria -> Treat with oral antibiotics (nitrofurantoin/cephalexin) to prevent pyelonephritis."
+    ],
+    "references": [
+      {
+        "label": "American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 222: Antimicrobial Prophylaxis for Gynecologic and Obstetric Procedures. Obstet Gynecol. 2020;135(6):e215-e236. PMID: 32443077.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32443077/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

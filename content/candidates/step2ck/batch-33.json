@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s2-0801",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "NSTEMI Complicated by Cardiogenic Shock Emergency Mechanical Circulatory Support",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old man with a history of hypertension, type 2 diabetes mellitus, and anterior myocardial infarction 5 years ago presents to the emergency department with severe substernal chest pain, cold extremities, and marked confusion that began 3 hours ago. On physical examination, he is pale, diaphoretic, and in respiratory distress. Vital signs: blood pressure 78/52 mm Hg, heart rate 116/min, respiratory rate 28/min, and oxygen saturation 86% on ambient air. Cardiovascular examination reveals an S3 gallop and soft bibasilar crackles extending to the mid-lung fields. 12-lead ECG shows ST-segment depressions of 3 mm in leads V4-V6 and ST-elevation in lead aVR, without ST elevation in other leads. Serum troponin I is markedly elevated at 14.8 ng/mL. Bedside echocardiogram demonstrates left ventricular ejection fraction of 20% with severe anterior and lateral akinesis, without mechanical complications (no ventricular septal defect, free wall rupture, or acute mitral regurgitation). Despite initiation of intravenous norepinephrine infusion and non-invasive positive pressure ventilation, his mean arterial pressure remains 58 mm Hg and arterial lactate rises from 3.2 to 5.4 mmol/L. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Emergent coronary angiography with percutaneous mechanical circulatory support placement",
+        "correct": true,
+        "explanation": "This patient is in CARDIOGENIC SHOCK (hypotension, tissue hypoperfusion with lactic acidosis and altered mental status, pulmonary edema, LVEF 20%) complicating ACUTE CORONARY SYNDROME (NSTEMI with ST elevation in aVR indicating left main or severe multivessel disease). The definitive therapy that improves survival in cardiogenic shock complicating acute myocardial infarction (as proven in the SHOCK trial) is IMMEDIATE CORONARY REVASCULARIZATION (percutaneous coronary intervention or emergency CABG). In patients with refractory cardiogenic shock failing vasopressors/inotropes, PERCUTANEOUS MECHANICAL CIRCULATORY SUPPORT (e.g., microaxial transvalvular pump [Impella] or intra-aortic balloon pump [IABP]) should be deployed emergently in the cardiac catheterization laboratory to unload the left ventricle, reduce myocardial oxygen demand, and restore systemic end-organ perfusion while revascularization is accomplished."
+      },
+      {
+        "text": "Intravenous thrombolysis with tenecteplase followed by therapeutic unfractionated heparin",
+        "correct": false,
+        "explanation": "Thrombolytic therapy is strictly reserved for STEMI when primary PCI cannot be performed within 120 minutes; thrombolysis is contraindicated in NSTEMI and does not benefit cardiogenic shock without STEMI."
+      },
+      {
+        "text": "Administration of high-dose intravenous metoprolol to reduce myocardial oxygen consumption",
+        "correct": false,
+        "explanation": "Beta-blockers are absolutely contraindicated in acute decompensated heart failure and cardiogenic shock due to negative inotropic and chronotropic effects that precipitate cardiovascular collapse."
+      },
+      {
+        "text": "Urgent surgical placement of a permanent left ventricular assist device (LVAD)",
+        "correct": false,
+        "explanation": "Permanent (durable) LVADs are reserved for end-stage chronic heart failure as bridge to transplant or destination therapy, not as first-line acute stabilization during acute myocardial infarction."
+      },
+      {
+        "text": "Intravenous bolus of 3 liters of normal saline to restore intravascular preload",
+        "correct": false,
+        "explanation": "Large-volume crystalloid boluses are contraindicated in left ventricular failure with pulmonary edema and will worsen respiratory failure and pulmonary capillary wedge pressure."
+      }
+    ],
+    "explanation": "This patient is in CARDIOGENIC SHOCK (hypotension, tissue hypoperfusion with lactic acidosis and altered mental status, pulmonary edema, LVEF 20%) complicating ACUTE CORONARY SYNDROME (NSTEMI with ST elevation in aVR indicating left main or severe multivessel disease). The definitive therapy that improves survival in cardiogenic shock complicating acute myocardial infarction (as proven in the SHOCK trial) is IMMEDIATE CORONARY REVASCULARIZATION (percutaneous coronary intervention or emergency CABG). In patients with refractory cardiogenic shock failing vasopressors/inotropes, PERCUTANEOUS MECHANICAL CIRCULATORY SUPPORT (e.g., microaxial transvalvular pump [Impella] or intra-aortic balloon pump [IABP]) should be deployed emergently in the cardiac catheterization laboratory to unload the left ventricle, reduce myocardial oxygen demand, and restore systemic end-organ perfusion while revascularization is accomplished. NSTEMI + cardiogenic shock (refractory hypotension + high lactate + pulmonary edema) = Emergent coronary angiography + mechanical circulatory support.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of NSTEMI Complicated by Cardiogenic Shock Emergency Mechanical Circulatory Support.",
+    "keyPoints": [
+      "NSTEMI Complicated by Cardiogenic Shock Emergency Mechanical Circulatory Support",
+      "NSTEMI + cardiogenic shock (refractory hypotension + high lactate + pulmonary edema) = Emergent coronary angiography + mechanical circulatory support."
+    ],
+    "references": [
+      {
+        "label": "Hochman JS, Sleeper LA, Webb JG, et al. Early revascularization in acute myocardial infarction complicated by cardiogenic shock. SHOCK Investigators. N Engl J Med. 1999;341(9):625-634. PMID: 10460813.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10460813/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0802",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Acute Aortic Regurgitation in Infective Endocarditis Urgent Surgical Repair",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old man with a history of intravenous drug use presents to the emergency department with severe, sudden-onset shortness of breath, orthopnea, and fever that began 12 hours ago. On physical examination, he appears acutely distressed, pale, diaphoretic, and tachypneic. Vital signs: blood pressure 104/74 mm Hg, heart rate 124/min, respiratory rate 32/min, and oxygen saturation 88% on high-flow face mask. Jugular venous pressure is elevated at 12 cm H2O. Cardiac examination reveals a quiet, soft early diastolic decrescendo murmur heard best along the left sternal border with an S3 gallop; there is NO widened pulse pressure or peripheral signs of hyperdynamic circulation. Diffuse bilateral crackles and wheezes are present throughout all lung fields. Transthoracic echocardiogram demonstrates a 1.2-cm oscillating mobile mass on the aortic valve with complete leaflet destruction, severe acute aortic regurgitation, and premature closure of the mitral valve in early diastole. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Initiation of intravenous nitroprusside and delayed elective valve replacement in 6 weeks",
+        "correct": false,
+        "explanation": "While vasodilators may briefly reduce afterload, delaying surgery in acute AR with cardiogenic shock and premature mitral closure results in rapid fatal arrest."
+      },
+      {
+        "text": "Immediate urgent aortic valve replacement surgery",
+        "correct": true,
+        "explanation": "ACUTE AORTIC REGURGITATION (AR) due to infective endocarditis is a hyperacute surgical emergency. Unlike chronic AR (where the left ventricle has months to years to dilate and adapt, resulting in widened pulse pressure and bounding peripheral pulses), in ACUTE AR the non-compliant, normal-sized left ventricle cannot accommodate the massive regurgitant volume. Consequently, left ventricular end-diastolic pressure (LVEDP) skyrockets rapidly, exceeding left atrial pressure in mid-to-late diastole. This causes pathognomonic PREMATURE CLOSURE OF THE MITRAL VALVE (seen on echo) and catastrophic backwards transmission of pressure into pulmonary capillaries, causing fulminant pulmonary edema and cardiogenic shock. Because the regurgitant gradient equilibrates rapidly, the diastolic murmur is SOFT AND BRIEF, and peripheral signs of chronic AR are ABSENT. Medical therapy (vasodilators/inotropes) is strictly temporizing; IMMEDIATE URGENT SURGICAL VALVE REPLACEMENT is life-saving."
+      },
+      {
+        "text": "Insertion of an intra-aortic balloon pump (IABP) for hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Intra-aortic balloon counterpulsation is ABSOLUTELY CONTRAINDICATED in aortic regurgitation because balloon inflation during diastole massively exacerbates aortic regurgitant volume into the LV."
+      },
+      {
+        "text": "Completion of a 4-week course of parenteral penicillin and gentamycin before surgical consultation",
+        "correct": false,
+        "explanation": "Medical therapy alone has an extremely high mortality (>80%) in endocarditis complicated by acute severe AR and heart failure; surgery cannot wait for antimicrobial clearance."
+      },
+      {
+        "text": "Administration of high-dose intravenous verapamil to control sinus tachycardia",
+        "correct": false,
+        "explanation": "Non-dihydropyridine calcium channel blockers are contraindicated in acute heart failure and cardiogenic shock; sinus tachycardia is a compensatory response to maintain cardiac output."
+      }
+    ],
+    "explanation": "ACUTE AORTIC REGURGITATION (AR) due to infective endocarditis is a hyperacute surgical emergency. Unlike chronic AR (where the left ventricle has months to years to dilate and adapt, resulting in widened pulse pressure and bounding peripheral pulses), in ACUTE AR the non-compliant, normal-sized left ventricle cannot accommodate the massive regurgitant volume. Consequently, left ventricular end-diastolic pressure (LVEDP) skyrockets rapidly, exceeding left atrial pressure in mid-to-late diastole. This causes pathognomonic PREMATURE CLOSURE OF THE MITRAL VALVE (seen on echo) and catastrophic backwards transmission of pressure into pulmonary capillaries, causing fulminant pulmonary edema and cardiogenic shock. Because the regurgitant gradient equilibrates rapidly, the diastolic murmur is SOFT AND BRIEF, and peripheral signs of chronic AR are ABSENT. Medical therapy (vasodilators/inotropes) is strictly temporizing; IMMEDIATE URGENT SURGICAL VALVE REPLACEMENT is life-saving. Infective endocarditis + acute aortic regurgitation (soft murmur, premature mitral closure, pulmonary edema) = Immediate urgent aortic valve surgery.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Aortic Regurgitation in Infective Endocarditis Urgent Surgical Repair.",
+    "keyPoints": [
+      "Acute Aortic Regurgitation in Infective Endocarditis Urgent Surgical Repair",
+      "Infective endocarditis + acute aortic regurgitation (soft murmur, premature mitral closure, pulmonary edema) = Immediate urgent aortic valve surgery."
+    ],
+    "references": [
+      {
+        "label": "Habib G, Lancellotti P, Antunes MJ, et al. 2015 ESC Guidelines for the management of infective endocarditis. Eur Heart J. 2015;36(44):3075-3128. PMID: 26320109.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26320109/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0803",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Cardiac Tamponade Hemodynamic Collapse and Urgent Pericardiocentesis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old woman with metastatic adenocarcinoma of the lung presents to the emergency department with severe dyspnea, lightheadedness, and profound fatigue. On physical examination, she is sitting upright, leaning forward, and appearing anxious and pale. Vital signs: blood pressure 84/60 mm Hg, heart rate 128/min in regular sinus rhythm, respiratory rate 26/min, and oxygen saturation 93% on ambient air. Cardiovascular examination demonstrates distant, muffled heart sounds, marked jugular venous distension to the angle of the jaw with an absent y-descent, and cool, clammy extremities (Beck triad). Measurement of pulsus paradoxus reveals a 22 mm Hg decrease in systolic blood pressure during normal quiet inspiration. Clear lung fields are present bilaterally on auscultation. Point-of-care ultrasound demonstrates a large circumferential pericardial effusion with right ventricular diastolic collapse and right atrial late systolic collapse. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "High-dose intravenous furosemide to reduce venous congestion and pulmonary pressures",
+        "correct": false,
+        "explanation": "Diuretics are strictly contraindicated in cardiac tamponade because they reduce intravascular preload, precipitating catastrophic cardiovascular collapse."
+      },
+      {
+        "text": "Endotracheal intubation with high positive end-expiratory pressure (PEEP) mechanical ventilation",
+        "correct": false,
+        "explanation": "Positive pressure ventilation dramatically reduces venous return to the heart and can precipitate immediate cardiac arrest in patients with tamponade before fluid is evacuated."
+      },
+      {
+        "text": "Immediate ultrasound-guided pericardiocentesis or surgical pericardial window creation",
+        "correct": true,
+        "explanation": "This patient has CARDIAC TAMPONADE with life-threatening hemodynamic instability (Beck triad: hypotension, JVD, muffled heart sounds; plus pulsus paradoxus > 10 mm Hg and echocardiographic chamber collapse). In tamponade, intrapericardial pressure exceeds intracardiac chamber filling pressures, preventing diastolic filling of all four cardiac chambers, equalizing diastolic pressures across chambers, and severely dropping stroke volume and cardiac output. The pathognomonic physical finding is PULSUS PARADOXUS (exaggerated >10 mm Hg drop in systolic blood pressure during inspiration due to ventricular interdependence in a fixed pericardial space). Immediate, life-saving management for hemodynamically unstable cardiac tamponade is EMERGENCY PERICARDIOCENTESIS (or surgical pericardial window) to relieve intrapericardial pressure."
+      },
+      {
+        "text": "Immediate initiation of therapeutic low-molecular-weight heparin for suspected pulmonary embolism",
+        "correct": false,
+        "explanation": "Anticoagulation is strictly contraindicated in malignant pericardial effusions due to high risk of precipitating fatal intrapericardial hemorrhage."
+      },
+      {
+        "text": "Administration of high-dose intravenous diltiazem to control sinus tachycardia",
+        "correct": false,
+        "explanation": "Sinus tachycardia is a vital compensatory mechanism to preserve cardiac output (CO = HR x SV) in the face of severely reduced stroke volume; rate control is fatal."
+      }
+    ],
+    "explanation": "This patient has CARDIAC TAMPONADE with life-threatening hemodynamic instability (Beck triad: hypotension, JVD, muffled heart sounds; plus pulsus paradoxus > 10 mm Hg and echocardiographic chamber collapse). In tamponade, intrapericardial pressure exceeds intracardiac chamber filling pressures, preventing diastolic filling of all four cardiac chambers, equalizing diastolic pressures across chambers, and severely dropping stroke volume and cardiac output. The pathognomonic physical finding is PULSUS PARADOXUS (exaggerated >10 mm Hg drop in systolic blood pressure during inspiration due to ventricular interdependence in a fixed pericardial space). Immediate, life-saving management for hemodynamically unstable cardiac tamponade is EMERGENCY PERICARDIOCENTESIS (or surgical pericardial window) to relieve intrapericardial pressure. Beck triad (hypotension, JVD, muffled sounds) + pulsus paradoxus > 10 mm Hg + RV diastolic collapse = Tamponade -> Emergency pericardiocentesis.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cardiac Tamponade Hemodynamic Collapse and Urgent Pericardiocentesis.",
+    "keyPoints": [
+      "Cardiac Tamponade Hemodynamic Collapse and Urgent Pericardiocentesis",
+      "Beck triad (hypotension, JVD, muffled sounds) + pulsus paradoxus > 10 mm Hg + RV diastolic collapse = Tamponade -> Emergency pericardiocentesis."
+    ],
+    "references": [
+      {
+        "label": "Adler Y, Charron P, Imazio M, et al. 2015 ESC Guidelines for the diagnosis and management of pericardial diseases. Eur Heart J. 2015;36(42):2921-2964. PMID: 26320112.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26320112/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0804",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Massive Hemodynamically Unstable Pulmonary Embolism Systemic Thrombolysis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old woman undergoing rehabilitation 10 days after a total left knee replacement suddenly collapses while walking to the bathroom. On emergency evaluation, she is cyanotic, gasping for breath, and minimally responsive. Vital signs: blood pressure 72/44 mm Hg, heart rate 136/min, respiratory rate 36/min, and oxygen saturation 80% on high-flow mask. Jugular venous distension is present to the angle of the jaw. 12-lead ECG reveals sinus tachycardia with right axis deviation, new incomplete right bundle branch block, and S1Q3T3 pattern with T-wave inversions in leads V1-V4. Bedside echocardiogram shows a dilated, hypokinetic right ventricle with bowing of the interventricular septum into the left ventricle (McConnell sign) and a high estimated pulmonary arterial systolic pressure of 55 mm Hg. There are no signs of active bleeding or recent intracranial pathology. Intravenous fluid bolus of 500 mL normal saline fails to improve blood pressure. Which of the following is the most appropriate next step in management?",
+    "options": [
+      {
+        "text": "Therapeutic anticoagulation with subcutaneous low-molecular-weight heparin alone",
+        "correct": false,
+        "explanation": "LMWH alone does not dissolve existing occlusive thrombi rapidly and is inadequate for massive PE with sustained cardiogenic shock."
+      },
+      {
+        "text": "Transfer of the patient to the radiology suite for emergent CT pulmonary angiography",
+        "correct": false,
+        "explanation": "Transporting a hemodynamically unstable, dying patient to CT is dangerous; bedside echo demonstrating RV strain in this clinical setting justifies immediate thrombolysis."
+      },
+      {
+        "text": "Emergent insertion of an inferior vena cava (IVC) filter without medical anticoagulation",
+        "correct": false,
+        "explanation": "IVC filters prevent future emboli but do not relieve the acute occlusive clot causing current cardiogenic shock; IVC filters do not replace reperfusion."
+      },
+      {
+        "text": "Immediate intravenous systemic thrombolytic therapy with recombinant tissue plasminogen activator (alteplase)",
+        "correct": true,
+        "explanation": "This patient has a MASSIVE (HIGH-RISK) PULMONARY EMBOLISM (PE), defined as acute PE complicated by SUSTAINED HYPOTENSION (systolic blood pressure < 90 mm Hg or vasopressor requirement) or CARDIOGENIC SHOCK, accompanied by right ventricular strain. In massive PE, acute occlusion of a major pulmonary arterial trunk precipitates acute right ventricular failure: RV dilation causes septal flattening and compression of the left ventricle, reducing LV preload and triggering systemic hypotension and arrest. In patients with hemodynamically unstable massive PE and low bleeding risk, the primary reperfusion therapy of choice is IMMEDIATE SYSTEMIC THROMBOLYSIS with intravenous alteplase (100 mg over 2 hours). Thrombolysis rapidly dissolves the thrombus, reduces pulmonary vascular resistance, relieves RV strain, and restores systemic hemodynamics."
+      },
+      {
+        "text": "Endotracheal intubation with aggressive volume resuscitation using 3 liters of normal saline",
+        "correct": false,
+        "explanation": "Excessive fluid loading overstretches the failing right ventricle, worsening interventricular dependence and reducing cardiac output; intubation drugs often trigger arrest in shock."
+      }
+    ],
+    "explanation": "This patient has a MASSIVE (HIGH-RISK) PULMONARY EMBOLISM (PE), defined as acute PE complicated by SUSTAINED HYPOTENSION (systolic blood pressure < 90 mm Hg or vasopressor requirement) or CARDIOGENIC SHOCK, accompanied by right ventricular strain. In massive PE, acute occlusion of a major pulmonary arterial trunk precipitates acute right ventricular failure: RV dilation causes septal flattening and compression of the left ventricle, reducing LV preload and triggering systemic hypotension and arrest. In patients with hemodynamically unstable massive PE and low bleeding risk, the primary reperfusion therapy of choice is IMMEDIATE SYSTEMIC THROMBOLYSIS with intravenous alteplase (100 mg over 2 hours). Thrombolysis rapidly dissolves the thrombus, reduces pulmonary vascular resistance, relieves RV strain, and restores systemic hemodynamics. PE + sustained hypotension (SBP < 90) + acute RV strain = Massive PE -> Immediate Systemic Thrombolysis (Alteplase).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Massive Hemodynamically Unstable Pulmonary Embolism Systemic Thrombolysis.",
+    "keyPoints": [
+      "Massive Hemodynamically Unstable Pulmonary Embolism Systemic Thrombolysis",
+      "PE + sustained hypotension (SBP < 90) + acute RV strain = Massive PE -> Immediate Systemic Thrombolysis (Alteplase)."
+    ],
+    "references": [
+      {
+        "label": "Konstantinides SV, Meyer G, Becattini C, et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism. Eur Heart J. 2020;41(4):543-603. PMID: 31504429.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31504429/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0805",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Acute Respiratory Distress Syndrome Lung-Protective Low Tidal Volume Ventilation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old woman with severe Escherichia coli pyelonephritis and urosepsis is admitted to the intensive care unit. Over the past 12 hours, she has developed acute hypoxemic respiratory failure requiring endotracheal intubation. Chest radiograph demonstrates diffuse, bilateral fluffy alveolar infiltrates with air bronchograms sparing the costophrenic angles. Arterial blood gas on FiO2 0.80 and PEEP 10 cm H2O shows: pH 7.32, PaCO2 44 mm Hg, and PaO2 64 mm Hg (PaO2/FiO2 ratio = 80 mm Hg, confirming severe ARDS). Bedside echocardiogram reveals normal left ventricular systolic function with an estimated left atrial pressure of 12 mm Hg and no signs of cardiogenic pulmonary edema. She is 165 cm (5 ft 5 in) tall and her predicted body weight (PBW) is calculated at 55 kg. Which of the following mechanical ventilation strategies is proven to reduce mortality in patients with acute respiratory distress syndrome?",
+    "options": [
+      {
+        "text": "High tidal volume ventilation of 12 mL/kg actual body weight to prevent hypercapnic respiratory acidosis",
+        "correct": false,
+        "explanation": "High tidal volume ventilation (12 mL/kg) was the historical approach that caused severe volutrauma and significantly increased mortality in the ARDSNet trial."
+      },
+      {
+        "text": "Immediate aggressive reduction of PEEP to zero cm H2O to maximize systemic venous return",
+        "correct": false,
+        "explanation": "Zero PEEP (ZEEP) causes end-expiratory alveolar collapse, cyclic reopening injury (atelectotrauma), and severe refractory hypoxemia."
+      },
+      {
+        "text": "Maintenance of an inspiratory plateau pressure above 45 cm H2O to overcome decreased lung compliance",
+        "correct": false,
+        "explanation": "Plateau pressures > 30 cm H2O cause severe alveolar barotrauma, pneumothorax, and alveolar capillary rupture, increasing mortality."
+      },
+      {
+        "text": "Targeting tidal volumes based strictly on actual total body weight rather than predicted body weight",
+        "correct": false,
+        "explanation": "Using actual body weight severely over-ventilates obese patients because lung size is determined by skeletal height, not adipose tissue."
+      },
+      {
+        "text": "Low tidal volume ventilation target of 6 mL/kg predicted body weight with plateau pressure limit below 30 cm H2O",
+        "correct": true,
+        "explanation": "ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS) is characterized by acute hypoxemia (PaO2/FiO2 <= 300), bilateral non-cardiogenic pulmonary infiltrates, and non-hydrostatic alveolar edema. The landmark ARDSNet trial established that LUNG-PROTECTIVE VENTILATION dramatically reduces mortality by minimizing VENTILATOR-INDUCED LUNG INJURY (volutrauma, barotrauma, and biotrauma). Key parameters include: (1) LOW TIDAL VOLUME TARGET: 6 mL/kg of PREDICTED BODY WEIGHT (PBW, based on height and sex, NOT actual body weight, because lung volume correlates with height); (2) END-INSPIRATORY PLATEAU PRESSURE LIMIT: maintain plateau pressure <= 30 cm H2O; (3) POSITIVE END-EXPIRATORY PRESSURE (PEEP): titrated to maintain alveolar recruitment and prevent atelectotrauma; and (4) PERMISSIVE HYPERCAPNIA: allowing mild respiratory acidosis (pH >= 7.20) as an acceptable consequence of low tidal volumes."
+      }
+    ],
+    "explanation": "ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS) is characterized by acute hypoxemia (PaO2/FiO2 <= 300), bilateral non-cardiogenic pulmonary infiltrates, and non-hydrostatic alveolar edema. The landmark ARDSNet trial established that LUNG-PROTECTIVE VENTILATION dramatically reduces mortality by minimizing VENTILATOR-INDUCED LUNG INJURY (volutrauma, barotrauma, and biotrauma). Key parameters include: (1) LOW TIDAL VOLUME TARGET: 6 mL/kg of PREDICTED BODY WEIGHT (PBW, based on height and sex, NOT actual body weight, because lung volume correlates with height); (2) END-INSPIRATORY PLATEAU PRESSURE LIMIT: maintain plateau pressure <= 30 cm H2O; (3) POSITIVE END-EXPIRATORY PRESSURE (PEEP): titrated to maintain alveolar recruitment and prevent atelectotrauma; and (4) PERMISSIVE HYPERCAPNIA: allowing mild respiratory acidosis (pH >= 7.20) as an acceptable consequence of low tidal volumes. ARDS (bilateral infiltrates + PaO2/FiO2 < 300) = Low tidal volume (6 mL/kg PBW) + Plateau pressure <= 30 cm H2O.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Respiratory Distress Syndrome Lung-Protective Low Tidal Volume Ventilation.",
+    "keyPoints": [
+      "Acute Respiratory Distress Syndrome Lung-Protective Low Tidal Volume Ventilation",
+      "ARDS (bilateral infiltrates + PaO2/FiO2 < 300) = Low tidal volume (6 mL/kg PBW) + Plateau pressure <= 30 cm H2O."
+    ],
+    "references": [
+      {
+        "label": "Acute Respiratory Distress Syndrome Network. Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome. N Engl J Med. 2000;342(18):1301-1308. PMID: 10793162.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10793162/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0806",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Pancreatitis Fluid Resuscitation Protocol and Volume Overload Prevention",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 48-year-old man presents to the emergency department with a 12-hour history of severe, constant epigastric abdominal pain radiating straight through to his back, accompanied by nausea and persistent retching. Physical examination reveals an acutely distressed, tachypneic man. Vital signs: blood pressure 114/72 mm Hg, heart rate 108/min, and respiratory rate 22/min. The epigastrium is exquisitely tender to palpation with voluntary guarding, but no rebound tenderness or abdominal rigidity. Serum lipase is markedly elevated at 1,840 U/L (normal 10-140 U/L). Abdominal ultrasound demonstrates a normal gallbladder without gallstones or biliary ductal dilatation, and the pancreas appears mildly enlarged and edematous without necrosis or fluid collections. Laboratory studies demonstrate: BUN 24 mg/dL, serum creatinine 1.2 mg/dL, and hematocrit 44%. Which of the following represents the most appropriate initial fluid resuscitation strategy for this patient?",
+    "options": [
+      {
+        "text": "Targeted moderate fluid resuscitation using balanced crystalloid (lactated Ringer) at 1.5 to 2.0 mL/kg/h with frequent clinical reassessment",
+        "correct": true,
+        "explanation": "The management of ACUTE PANCREATITIS has evolved significantly following the randomized WATERFALL trial. Historical practice advocated aggressive, high-volume crystalloid resuscitation (often 20 mL/kg bolus followed by 3 mL/kg/h). However, the WATERFALL trial demonstrated that AGGRESSIVE FLUID RESUSCITATION DID NOT IMPROVE CLINICAL OUTCOMES but caused a nearly 3-fold increase in FLUID OVERLOAD (pulmonary edema, heart failure, abdominal compartment syndrome). Current clinical practice guidelines recommend MODERATE GOAL-DIRECTED FLUID RESUSCITATION: an initial bolus of 10 mL/kg only if hypovolemic, followed by maintenance at 1.5 to 2.0 mL/kg/h of BALANCED CRYSTALLOID (Lactated Ringer, which reduces systemic inflammation and hyperchloremic metabolic acidosis compared to normal saline). Fluid status must be reassessed frequently (every 4-6 hours) using hematocrit, BUN, urine output, and physical examination."
+      },
+      {
+        "text": "Aggressive fluid resuscitation with mandatory rapid boluses of 20 mL/kg normal saline every 2 hours until hematocrit drops below 30%",
+        "correct": false,
+        "explanation": "Aggressive fluid loading > 20 mL/kg increases mortality, triples the incidence of pulmonary edema, and worsens intra-abdominal pressure without improving pancreatitis resolution."
+      },
+      {
+        "text": "Strict fluid restriction to less than 500 mL/24 hours to prevent development of pancreatic ascites",
+        "correct": false,
+        "explanation": "Strict fluid restriction exacerbates microvascular ischemia, dramatically accelerating the transition from interstitial edematous pancreatitis to necrotizing pancreatitis."
+      },
+      {
+        "text": "Immediate infusion of 25% hyperoncotic human albumin as the exclusive resuscitative fluid",
+        "correct": false,
+        "explanation": "Colloids (albumin) have no proven benefit over balanced crystalloids as initial resuscitation in acute pancreatitis and are significantly more costly."
+      },
+      {
+        "text": "Routine prophylactic intravenous imipenem-cilastatin administration before initiating any intravenous hydration",
+        "correct": false,
+        "explanation": "Prophylactic antibiotics are strictly contraindicated in mild or interstitial acute pancreatitis as they do not prevent infected necrosis and promote fungal/resistant infections."
+      }
+    ],
+    "explanation": "The management of ACUTE PANCREATITIS has evolved significantly following the randomized WATERFALL trial. Historical practice advocated aggressive, high-volume crystalloid resuscitation (often 20 mL/kg bolus followed by 3 mL/kg/h). However, the WATERFALL trial demonstrated that AGGRESSIVE FLUID RESUSCITATION DID NOT IMPROVE CLINICAL OUTCOMES but caused a nearly 3-fold increase in FLUID OVERLOAD (pulmonary edema, heart failure, abdominal compartment syndrome). Current clinical practice guidelines recommend MODERATE GOAL-DIRECTED FLUID RESUSCITATION: an initial bolus of 10 mL/kg only if hypovolemic, followed by maintenance at 1.5 to 2.0 mL/kg/h of BALANCED CRYSTALLOID (Lactated Ringer, which reduces systemic inflammation and hyperchloremic metabolic acidosis compared to normal saline). Fluid status must be reassessed frequently (every 4-6 hours) using hematocrit, BUN, urine output, and physical examination. Acute pancreatitis = Moderate fluid resuscitation with Lactated Ringer (1.5-2.0 mL/kg/h) with frequent reassessment (avoid aggressive overload).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Pancreatitis Fluid Resuscitation Protocol and Volume Overload Prevention.",
+    "keyPoints": [
+      "Acute Pancreatitis Fluid Resuscitation Protocol and Volume Overload Prevention",
+      "Acute pancreatitis = Moderate fluid resuscitation with Lactated Ringer (1.5-2.0 mL/kg/h) with frequent reassessment (avoid aggressive overload)."
+    ],
+    "references": [
+      {
+        "label": "de-Madaria E, Buxbaum JL, Maisonneuve P, et al. Aggressive or Moderate Fluid Resuscitation in Acute Pancreatitis. N Engl J Med. 2022;387(11):989-1000. PMID: 36103415.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36103415/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0807",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Variceal Hemorrhage Octreotide Ceftriaxone and Endoscopic Ligation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man with decompensated alcohol-related cirrhosis (Child-Pugh class C, baseline MELD score 22) is brought to the emergency department after vomiting 800 mL of bright red blood. On arrival, he is pale, confused, and diaphoretic. Vital signs: blood pressure 82/50 mm Hg, heart rate 124/min, and oxygen saturation 96% on 2 L nasal cannula. Physical examination reveals spider angiomas, palmar erythema, and tense ascites with shifting dullness. Two large-bore peripheral intravenous lines are placed, and gentle volume resuscitation is initiated targeting a hemoglobin between 7 and 8 g/dL. Which of the following complete sets of medical pharmacotherapies should be initiated immediately in the emergency department prior to emergent upper endoscopy?",
+    "options": [
+      {
+        "text": "Oral propranolol bolus and continuous intravenous proton pump inhibitor infusion alone",
+        "correct": false,
+        "explanation": "Non-selective beta-blockers (propranolol, nadolol) are strictly contraindicated in acute active bleeding because they cause hypotension and blunt compensatory tachycardia; they are for secondary prophylaxis."
+      },
+      {
+        "text": "Intravenous octreotide bolus and continuous infusion PLUS intravenous ceftriaxone antibiotic prophylaxis",
+        "correct": true,
+        "explanation": "ACUTE VARICEAL HEMORRHAGE is a medical emergency in patients with cirrhosis, carrying a 6-week mortality of 15-20%. Immediate resuscitation principles include: (1) RESTRICTIVE TRANSFUSION STRATEGY: Transfuse packed red blood cells only to target hemoglobin 7-8 g/dL (liberal transfusion to >9 g/dL increases portal pressure and significantly increases rebleeding and mortality); (2) VASOACTIVE MEDICATION: Start INTRAVENOUS OCTREOTIDE (somatostatin analogue) immediately; it induces selective splanchnic vasoconstriction, rapidly reducing portal venous inflow and variceal pressure; (3) PROPHYLACTIC ANTIBIOTICS: Start INTRAVENOUS CEFTRIAXONE immediately for 7 days; prophylactic antibiotics reduce bacterial translocation, prevent spontaneous bacterial peritonitis, reduce early variceal rebleeding, and PROVE A DIRECT MORTALITY BENEFIT; and (4) URGENT ENDOSCOPY within 12 hours for ENDOSCOPIC VARICEAL LIGATION (EVL)."
+      },
+      {
+        "text": "Intravenous vasopressin monotherapy without concurrent nitroglycerin administration",
+        "correct": false,
+        "explanation": "Vasopressin monotherapy causes severe systemic and coronary vasoconstriction, myocardial infarction, and bowel ischemia; octreotide is preferred due to far safer side-effect profile."
+      },
+      {
+        "text": "Intravenous tranexamic acid bolus followed by high-dose recombinant activated factor VII",
+        "correct": false,
+        "explanation": "Tranexamic acid (HALT-IT trial) showed no benefit in gastrointestinal bleeding and increased thromboembolic events; factor VII has no survival benefit in variceal bleed."
+      },
+      {
+        "text": "Aggressive crystalloid fluid boluses targeting a blood pressure of 140/90 mm Hg and hemoglobin above 10 g/dL",
+        "correct": false,
+        "explanation": "Over-resuscitation increases portal pressure, dislodges fragile platelet-fibrin plugs over bleeding varices, and dramatically increases recurrent hemorrhage and death."
+      }
+    ],
+    "explanation": "ACUTE VARICEAL HEMORRHAGE is a medical emergency in patients with cirrhosis, carrying a 6-week mortality of 15-20%. Immediate resuscitation principles include: (1) RESTRICTIVE TRANSFUSION STRATEGY: Transfuse packed red blood cells only to target hemoglobin 7-8 g/dL (liberal transfusion to >9 g/dL increases portal pressure and significantly increases rebleeding and mortality); (2) VASOACTIVE MEDICATION: Start INTRAVENOUS OCTREOTIDE (somatostatin analogue) immediately; it induces selective splanchnic vasoconstriction, rapidly reducing portal venous inflow and variceal pressure; (3) PROPHYLACTIC ANTIBIOTICS: Start INTRAVENOUS CEFTRIAXONE immediately for 7 days; prophylactic antibiotics reduce bacterial translocation, prevent spontaneous bacterial peritonitis, reduce early variceal rebleeding, and PROVE A DIRECT MORTALITY BENEFIT; and (4) URGENT ENDOSCOPY within 12 hours for ENDOSCOPIC VARICEAL LIGATION (EVL). Acute variceal bleed = Octreotide (splanchnic vasoconstriction) + Ceftriaxone (mortality benefit) + restrictive transfusion (Hb 7-8) -> urgent EVL.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Variceal Hemorrhage Octreotide Ceftriaxone and Endoscopic Ligation.",
+    "keyPoints": [
+      "Acute Variceal Hemorrhage Octreotide Ceftriaxone and Endoscopic Ligation",
+      "Acute variceal bleed = Octreotide (splanchnic vasoconstriction) + Ceftriaxone (mortality benefit) + restrictive transfusion (Hb 7-8) -> urgent EVL."
+    ],
+    "references": [
+      {
+        "label": "Garcia-Tsao G, Abraldes JG, Berzigotti A, et al. Portal hypertensive bleeding in cirrhosis: Risk stratification, diagnosis, and management: 2016 practice guidance by the AASLD. Hepatology. 2017;65(1):310-335. PMID: 27786365.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27786365/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0808",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Spontaneous Bacterial Peritonitis Diagnostic Paracentesis and Albumin Infusion",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old man with alcohol-related cirrhosis and refractory ascites is admitted to the medical ward with low-grade fever (38.1 C), mild generalized abdominal discomfort, and progressive lethargy. Physical examination reveals asterixis, jaundice, and tense ascites with diffuse mild abdominal tenderness without peritoneal signs of guarding or rigidity. Laboratory evaluation reveals: serum sodium 128 mEq/L, BUN 34 mg/dL, serum creatinine 1.8 mg/dL (baseline 1.0 mg/dL), and total bilirubin 4.2 mg/dL. A diagnostic paracentesis is promptly performed before antibiotics. Ascitic fluid analysis reveals: straw-colored fluid, total nucleated cell count 820/uL with 68% polymorphonuclear neutrophils (absolute PMN count = 558/uL), total protein 0.8 g/dL, and albumin 0.4 g/dL. Gram stain is negative. In addition to prompt initiation of intravenous cefotaxime, which of the following interventions significantly reduces the incidence of hepatorenal syndrome and improves survival in this patient?",
+    "options": [
+      {
+        "text": "Emergent exploratory laparotomy to rule out secondary bacterial peritonitis due to visceral perforation",
+        "correct": false,
+        "explanation": "Exploratory laparotomy is highly morbid in cirrhosis and indicated only for secondary peritonitis (Runyon criteria: PMN > 250 plus >= 2 of total protein > 1 g/dL, glucose < 50 mg/dL, LDH > serum upper limit)."
+      },
+      {
+        "text": "Routine placement of an indwelling peritoneal dialysis catheter for continuous abdominal lavage",
+        "correct": false,
+        "explanation": "Indwelling peritoneal catheters cause superinfection and chronic peritonitis and are strictly contraindicated in cirrhotic ascites."
+      },
+      {
+        "text": "Intravenous human albumin infusion at 1.5 g/kg within 6 hours, followed by 1.0 g/kg on hospital day 3",
+        "correct": true,
+        "explanation": "SPONTANEOUS BACTERIAL PERITONITIS (SBP) is diagnosed by an ascitic fluid ABSOLUTE POLYMORPHONUCLEAR (PMN) COUNT >= 250/uL. Empiric therapy with a third-generation cephalosporin (intravenous cefotaxime or ceftriaxone) should be initiated immediately. In patients with SBP, bacterial endotoxemia and systemic vasodilation severely reduce effective arterial blood volume, leading to acute kidney injury and HEPATORENAL SYNDROME (HRS), which is the leading cause of death in SBP. The landmark trial by Sort et al. demonstrated that INTRAVENOUS ALBUMIN INFUSION (1.5 g/kg at diagnosis, followed by 1.0 g/kg on day 3) reduces the incidence of hepatorenal syndrome from 30% to 10% and REDUCES MORTALITY from 29% to 10%, particularly in patients with baseline renal dysfunction (Cr >= 1.0 mg/dL, BUN >= 30 mg/dL) or hyperbilirubinemia (>= 4.0 mg/dL)."
+      },
+      {
+        "text": "High-dose intravenous loop diuretic therapy to rapidly evacuate contaminated ascitic fluid",
+        "correct": false,
+        "explanation": "Diuretics worsen intravascular volume depletion and precipitate severe hepatorenal syndrome; diuretics should be held during active SBP."
+      },
+      {
+        "text": "Withholding all antibiotic therapy until formal aerobic and anaerobic blood and ascitic cultures turn positive",
+        "correct": false,
+        "explanation": "Ascitic cultures are negative in up to 40% of SBP cases (culture-negative neutrocytic ascites); withholding antibiotics pending cultures leads to rapid septic death."
+      }
+    ],
+    "explanation": "SPONTANEOUS BACTERIAL PERITONITIS (SBP) is diagnosed by an ascitic fluid ABSOLUTE POLYMORPHONUCLEAR (PMN) COUNT >= 250/uL. Empiric therapy with a third-generation cephalosporin (intravenous cefotaxime or ceftriaxone) should be initiated immediately. In patients with SBP, bacterial endotoxemia and systemic vasodilation severely reduce effective arterial blood volume, leading to acute kidney injury and HEPATORENAL SYNDROME (HRS), which is the leading cause of death in SBP. The landmark trial by Sort et al. demonstrated that INTRAVENOUS ALBUMIN INFUSION (1.5 g/kg at diagnosis, followed by 1.0 g/kg on day 3) reduces the incidence of hepatorenal syndrome from 30% to 10% and REDUCES MORTALITY from 29% to 10%, particularly in patients with baseline renal dysfunction (Cr >= 1.0 mg/dL, BUN >= 30 mg/dL) or hyperbilirubinemia (>= 4.0 mg/dL). Ascitic PMN >= 250/uL = SBP. Treat with 3rd-gen cephalosporin PLUS intravenous Albumin (1.5 g/kg day 1, 1.0 g/kg day 3) -> prevents hepatorenal syndrome.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Spontaneous Bacterial Peritonitis Diagnostic Paracentesis and Albumin Infusion.",
+    "keyPoints": [
+      "Spontaneous Bacterial Peritonitis Diagnostic Paracentesis and Albumin Infusion",
+      "Ascitic PMN >= 250/uL = SBP. Treat with 3rd-gen cephalosporin PLUS intravenous Albumin (1.5 g/kg day 1, 1.0 g/kg day 3) -> prevents hepatorenal syndrome."
+    ],
+    "references": [
+      {
+        "label": "Sort P, Navasa M, Arroyo V, et al. Effect of intravenous albumin on renal impairment and mortality in patients with cirrhosis and spontaneous bacterial peritonitis. N Engl J Med. 1999;341(6):403-409. PMID: 10432325.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10432325/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0809",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Hepatorenal Syndrome Type 1 Terlipressin and Albumin Therapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old man with end-stage cirrhosis and refractory ascites is hospitalized for progressive oliguria and worsening abdominal distension. Over the past 48 hours, his serum creatinine has increased from a baseline of 1.1 mg/dL to 3.2 mg/dL. Urinalysis demonstrates normal specific gravity, trace protein, zero cellular casts, and an active urine sediment is completely absent. Spot urine sodium is markedly low at 6 mEq/L (fractional excretion of sodium < 0.2%). Renal ultrasonography reveals normal-sized kidneys with normal cortical echogenicity and no hydronephrosis. All diuretic therapy was discontinued 48 hours ago, and he has received 2 days of intravenous volume expansion with 20% human albumin (1 g/kg/day, total 160 g) without any improvement in urine output or serum creatinine. Blood pressure is 92/58 mm Hg. Which of the following is the most appropriate first-line pharmacotherapy for this patient's acute kidney failure?",
+    "options": [
+      {
+        "text": "High-dose intravenous loop diuretic infusion with furosemide and bumetanide",
+        "correct": false,
+        "explanation": "Diuretics worsen the intravascular underfilling that drives renal vasoconstriction in HRS and are strictly contraindicated once HRS is diagnosed."
+      },
+      {
+        "text": "Low-dose renal dopamine infusion to promote cortical arteriolar vasodilation",
+        "correct": false,
+        "explanation": "Renal-dose dopamine has been thoroughly investigated and proven completely ineffective in preventing or treating acute kidney injury or hepatorenal syndrome."
+      },
+      {
+        "text": "Initiation of oral lisinopril to decrease intraglomerular capillary hypertension",
+        "correct": false,
+        "explanation": "ACE inhibitors cause catastrophic refractory hypotension and acute anuria in cirrhosis due to inhibition of the compensatory renin-angiotensin-aldosterone axis."
+      },
+      {
+        "text": "Intravenous terlipressin continuous infusion combined with intravenous albumin",
+        "correct": true,
+        "explanation": "This patient meets full diagnostic criteria for HEPATORENAL SYNDROME (HRS-AKI): (1) Cirrhosis with ascites; (2) Doubling of serum creatinine to >= 2.5 mg/dL; (3) NO improvement in renal function after at least 48 hours of diuretic cessation and volume expansion with albumin (1 g/kg/day); (4) Absence of shock; (5) Absence of nephrotoxic drugs; and (6) No structural kidney disease (bland urine sediment, low urine sodium < 10, normal renal ultrasound). Pathophysiologically, severe portal hypertension triggers massive splanchnic arterial vasodilation, resulting in severe arterial underfilling and profound compensatory renal vasoconstriction. The definitive first-line medical therapy (demonstrated in the CONFIRM trial) is SPLANCHNIC VASOCONSTRICTION with TERLIPRESSIN (vasopressin V1a receptor agonist) combined with INTRAVENOUS ALBUMIN. Terlipressin constricts the dilated splanchnic circulation, redistributing effective arterial blood volume to the kidneys."
+      },
+      {
+        "text": "Urgent insertion of a permanent transjugular intrahepatic portosystemic shunt (TIPS) as first-line medical therapy",
+        "correct": false,
+        "explanation": "While TIPS can be considered in select patients who stabilize, medical therapy with terlipressin and albumin must be initiated immediately; emergent TIPS in severe HRS carries high mortality."
+      }
+    ],
+    "explanation": "This patient meets full diagnostic criteria for HEPATORENAL SYNDROME (HRS-AKI): (1) Cirrhosis with ascites; (2) Doubling of serum creatinine to >= 2.5 mg/dL; (3) NO improvement in renal function after at least 48 hours of diuretic cessation and volume expansion with albumin (1 g/kg/day); (4) Absence of shock; (5) Absence of nephrotoxic drugs; and (6) No structural kidney disease (bland urine sediment, low urine sodium < 10, normal renal ultrasound). Pathophysiologically, severe portal hypertension triggers massive splanchnic arterial vasodilation, resulting in severe arterial underfilling and profound compensatory renal vasoconstriction. The definitive first-line medical therapy (demonstrated in the CONFIRM trial) is SPLANCHNIC VASOCONSTRICTION with TERLIPRESSIN (vasopressin V1a receptor agonist) combined with INTRAVENOUS ALBUMIN. Terlipressin constricts the dilated splanchnic circulation, redistributing effective arterial blood volume to the kidneys. Cirrhosis + rising Cr refractory to 48h albumin + low urine Na (<10) = Hepatorenal syndrome (HRS-AKI). Treat with Terlipressin + Albumin.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hepatorenal Syndrome Type 1 Terlipressin and Albumin Therapy.",
+    "keyPoints": [
+      "Hepatorenal Syndrome Type 1 Terlipressin and Albumin Therapy",
+      "Cirrhosis + rising Cr refractory to 48h albumin + low urine Na (<10) = Hepatorenal syndrome (HRS-AKI). Treat with Terlipressin + Albumin."
+    ],
+    "references": [
+      {
+        "label": "Wong F, Pappas SC, Curry MP, et al. Terlipressin plus Albumin for the Treatment of Type 1 Hepatorenal Syndrome. N Engl J Med. 2021;384(9):818-827. PMID: 33657294.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33657294/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0810",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Diabetic Ketoacidosis Potassium Protocol and Cerebral Edema Prevention",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old woman with type 1 diabetes mellitus is brought to the emergency department with nausea, intractable vomiting, and deep, rapid respirations (Kussmaul breathing). On examination, she is lethargic, has dry mucous membranes, and a fruity acetone odor to her breath. Vital signs: blood pressure 94/62 mm Hg, heart rate 122/min, respiratory rate 30/min, and oxygen saturation 98% on ambient air. Laboratory evaluation demonstrates: blood glucose 540 mg/dL, arterial blood gas shows pH 7.12, pCO2 20 mm Hg, HCO3- 7 mEq/L, and calculated anion gap of 26 mEq/L. Serum potassium is 3.1 mEq/L (normal 3.5-5.0 mEq/L), serum sodium 132 mEq/L, and urine is strongly positive for ketones. Which of the following is the most appropriate immediate sequence of interventions for this patient?",
+    "options": [
+      {
+        "text": "Administer an immediate intravenous bolus of regular insulin at 0.14 U/kg followed by continuous infusion, with potassium added only after 4 hours",
+        "correct": false,
+        "explanation": "Administering insulin when serum K+ is 3.1 mEq/L precipitates severe hypokalemic cardiac arrest; potassium must be given first."
+      },
+      {
+        "text": "Immediate intravenous infusion of sodium bicarbonate ampules to normalize arterial pH above 7.30",
+        "correct": false,
+        "explanation": "Sodium bicarbonate is not indicated in DKA unless pH is < 6.9; bicarbonate causes paradoxical intracellular CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Rapid reduction of serum glucose by 150 to 200 mg/dL per hour using high-dose intravenous insulin boluses",
+        "correct": false,
+        "explanation": "Overly rapid glucose correction (> 100 mg/dL per hour) causes sudden fluid shifts into brain tissue, triggering life-threatening CEREBRAL EDEMA."
+      },
+      {
+        "text": "Switch fluids immediately to 5% dextrose in water to prevent hypoglycemia before starting rehydration",
+        "correct": false,
+        "explanation": "Dextrose is added to fluids only when blood glucose drops below 200-250 mg/dL while ketoacidosis remains unclosed, not during initial severe hyperglycemia."
+      },
+      {
+        "text": "Initiate aggressive isotonic crystalloid fluid resuscitation and intravenous potassium repletion, and WITHHOLD insulin infusion until serum potassium is above 3.3 mEq/L",
+        "correct": true,
+        "explanation": "In the management of DIABETIC KETOACIDOSIS (DKA), potassium management takes precedence over insulin administration. Although acidosis and insulin deficiency cause a shift of potassium out of cells into the extracellular space (falsely maintaining normal or high serum K+ despite massive total body potassium depletion from osmotic diuresis), this patient presents with overt HYPOKALEMIA (serum K+ 3.1 mEq/L). Insulin and rehydration drive potassium back into cells via the Na+/K+-ATPase. If an insulin infusion is initiated in a patient with serum K+ < 3.3 mEq/L, it can cause catastrophic hypokalemia, provoking LETHAL CARDIAC ARRHYTHMIAS and respiratory muscle paralysis. Therefore, guidelines strictly mandate: WITHHOLD INSULIN, aggressively administer isotonic crystalloids, and REPLETE INTRAVENOUS POTASSIUM (20-30 mEq/h) until serum potassium exceeds 3.3 mEq/L before starting insulin."
+      }
+    ],
+    "explanation": "In the management of DIABETIC KETOACIDOSIS (DKA), potassium management takes precedence over insulin administration. Although acidosis and insulin deficiency cause a shift of potassium out of cells into the extracellular space (falsely maintaining normal or high serum K+ despite massive total body potassium depletion from osmotic diuresis), this patient presents with overt HYPOKALEMIA (serum K+ 3.1 mEq/L). Insulin and rehydration drive potassium back into cells via the Na+/K+-ATPase. If an insulin infusion is initiated in a patient with serum K+ < 3.3 mEq/L, it can cause catastrophic hypokalemia, provoking LETHAL CARDIAC ARRHYTHMIAS and respiratory muscle paralysis. Therefore, guidelines strictly mandate: WITHHOLD INSULIN, aggressively administer isotonic crystalloids, and REPLETE INTRAVENOUS POTASSIUM (20-30 mEq/h) until serum potassium exceeds 3.3 mEq/L before starting insulin. DKA + Serum Potassium < 3.3 mEq/L = Give IV Fluids + Potassium FIRST; WITHHOLD Insulin until K+ > 3.3 mEq/L (prevents fatal arrhythmias).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Diabetic Ketoacidosis Potassium Protocol and Cerebral Edema Prevention.",
+    "keyPoints": [
+      "Diabetic Ketoacidosis Potassium Protocol and Cerebral Edema Prevention",
+      "DKA + Serum Potassium < 3.3 mEq/L = Give IV Fluids + Potassium FIRST; WITHHOLD Insulin until K+ > 3.3 mEq/L (prevents fatal arrhythmias)."
+    ],
+    "references": [
+      {
+        "label": "Kitabchi AE, Umpierrez GE, Miles JM, et al. Hyperglycemic crises in adult patients with diabetes. Diabetes Care. 2009;32(7):1335-1343. PMID: 19564476.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19564476/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0811",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Hyperosmolar Hyperglycemic State Fluid Resuscitation and Osmolality Deficit",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 76-year-old nursing home resident with type 2 diabetes mellitus is brought to the emergency department after 4 days of progressive lethargy, confusion, and poor fluid intake. On examination, he is stuporous, severely dehydrated with sunken eyes, dry oral mucosa, and poor skin turgor. Vital signs: blood pressure 86/54 mm Hg, heart rate 118/min, and temperature 37.1 C. Laboratory evaluation reveals: serum glucose 1,180 mg/dL, serum sodium 134 mEq/L, potassium 4.8 mEq/L, BUN 64 mg/dL, and serum creatinine 2.8 mg/dL (baseline 1.0 mg/dL). Arterial blood gas shows pH 7.36, pCO2 38 mm Hg, and HCO3- 22 mEq/L. Urine is negative for ketones. Effective serum osmolality is calculated at 342 mOsm/kg (normal 275-295 mOsm/kg). The estimated free water deficit exceeds 8 liters. Which of the following principles guides the initial fluid resuscitation and insulin therapy in this patient?",
+    "options": [
+      {
+        "text": "Aggressive initial volume resuscitation with isotonic saline (0.9% NaCl) to restore intravascular perfusion before initiating insulin infusion",
+        "correct": true,
+        "explanation": "HYPEROSMOLAR HYPERGLYCEMIC STATE (HHS) is characterized by severe hyperglycemia (>600 mg/dL), hyperosmolality (>320 mOsm/kg), and profound dehydration (fluid deficits averaging 8-10 liters) with absent or minimal ketoacidosis. The single most critical initial step in HHS is AGGRESSIVE FLUID RESUSCITATION WITH ISOTONIC CRYSTALLOIDS (0.9% normal saline at 1,000 mL/h for the first 1-2 hours) to restore intravascular volume, improve tissue perfusion, and restore renal excretion of glucose. Crucially, INSULIN SHOULD NOT BE INITIATED until initial fluid resuscitation is well underway. Administering high-dose insulin prematurely drives glucose and water out of the vascular compartment into cells, precipitating sudden INTRAVASCULAR VOLUME COLLAPSE and hemodynamic shock. Once volume is restored and corrected sodium is assessed, half-normal saline (0.45% NaCl) is used to replace the intracellular water deficit gradually over 24-48 hours."
+      },
+      {
+        "text": "Immediate high-dose intravenous insulin bolus (0.4 U/kg) combined with rapid reduction of serum glucose by 250 mg/dL per hour",
+        "correct": false,
+        "explanation": "Rapid glucose reduction exceeds brain adaptation thresholds and can precipitate fatal cerebral edema, while insulin without prior rehydration triggers circulatory collapse."
+      },
+      {
+        "text": "Infusion of 5% dextrose in water (D5W) as the primary initial resuscitative fluid to rapidly replace free water",
+        "correct": false,
+        "explanation": "Hypotonic D5W causes rapid osmotic fluid shifts into the central nervous system, risking cerebral edema; isotonic saline must be given first to expand intravascular volume."
+      },
+      {
+        "text": "Administration of broad-spectrum loop diuretics to eliminate excessive circulating osmolytes through the kidneys",
+        "correct": false,
+        "explanation": "Diuretics exacerbate the life-threatening volume contraction and precipitate acute tubular necrosis and shock."
+      },
+      {
+        "text": "Urgent hemodialysis to clear the massive circulating glucose load and hyperosmolar solutes",
+        "correct": false,
+        "explanation": "Hemodialysis is not indicated for HHS; conservative medical rehydration and physiologic insulin therapy safely resolve hyperosmolality."
+      }
+    ],
+    "explanation": "HYPEROSMOLAR HYPERGLYCEMIC STATE (HHS) is characterized by severe hyperglycemia (>600 mg/dL), hyperosmolality (>320 mOsm/kg), and profound dehydration (fluid deficits averaging 8-10 liters) with absent or minimal ketoacidosis. The single most critical initial step in HHS is AGGRESSIVE FLUID RESUSCITATION WITH ISOTONIC CRYSTALLOIDS (0.9% normal saline at 1,000 mL/h for the first 1-2 hours) to restore intravascular volume, improve tissue perfusion, and restore renal excretion of glucose. Crucially, INSULIN SHOULD NOT BE INITIATED until initial fluid resuscitation is well underway. Administering high-dose insulin prematurely drives glucose and water out of the vascular compartment into cells, precipitating sudden INTRAVASCULAR VOLUME COLLAPSE and hemodynamic shock. Once volume is restored and corrected sodium is assessed, half-normal saline (0.45% NaCl) is used to replace the intracellular water deficit gradually over 24-48 hours. HHS (glucose > 1000 + hyperosmolality + severe dehydration) = IV normal saline (expand intravascular volume) FIRST, before starting insulin.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hyperosmolar Hyperglycemic State Fluid Resuscitation and Osmolality Deficit.",
+    "keyPoints": [
+      "Hyperosmolar Hyperglycemic State Fluid Resuscitation and Osmolality Deficit",
+      "HHS (glucose > 1000 + hyperosmolality + severe dehydration) = IV normal saline (expand intravascular volume) FIRST, before starting insulin."
+    ],
+    "references": [
+      {
+        "label": "Pasquel FJ, Umpierrez GE. Hyperosmolar hyperglycemic state: a historic review of the clinical presentation, diagnosis, and treatment. Diabetes Care. 2014;37(11):3124-3131. PMID: 25342831.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25342831/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0812",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Acute Adrenal Crisis Refractory Hypotension Immediate Hydrocortisone Therapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 38-year-old woman with a history of primary adrenal insufficiency (Addison disease) and hypothyroidism presents to the emergency department with a 2-day history of high fever, vomiting, diarrhea, and severe weakness. On examination, she is lethargic, pale, and exhibits hyperpigmentation over her palmar creases and buccal mucosa. Vital signs: blood pressure 72/44 mm Hg refractory to 2 liters of intravenous normal saline, heart rate 124/min, and temperature 38.6 C. Laboratory evaluation reveals: serum sodium 124 mEq/L (hyponatremia), potassium 6.2 mEq/L (hyperkalemia), blood glucose 54 mg/dL (hypoglycemia), and mild non-anion gap metabolic acidosis. A high-dose cosyntropin (ACTH) stimulation test is being considered by the medical resident. Which of the following is the most appropriate immediate action?",
+    "options": [
+      {
+        "text": "Withholding all corticosteroid therapy until a 60-minute cosyntropin stimulation test is fully completed",
+        "correct": false,
+        "explanation": "Delaying corticosteroid therapy in a patient with refractory hypotension from adrenal crisis to perform diagnostic testing carries an unacceptably high risk of fatal circulatory arrest."
+      },
+      {
+        "text": "Immediate administration of high-dose intravenous hydrocortisone (100 mg bolus) and continuous isotonic saline with 5% dextrose without delaying for diagnostic testing",
+        "correct": true,
+        "explanation": "ACUTE ADRENAL CRISIS is an immediately life-threatening medical emergency characterized by REFRACTORY HYPOTENSION, vascular collapse, severe hyponatremia, hyperkalemia, and hypoglycemia. It is typically triggered by an acute physiological stressor (infection, trauma, surgery, gastroenteritis) in a patient with underlying primary adrenal insufficiency or abrupt cessation of chronic glucocorticoids. Diagnostic testing (e.g., ACTH stimulation test) MUST NEVER DELAY THERAPY. Treatment must be initiated IMMEDIATELY with: (1) HIGH-DOSE INTRAVENOUS HYDROCORTISONE (100 mg IV bolus followed by 50-100 mg every 6-8 hours; at this dose, hydrocortisone provides both potent glucocorticoid activity and sufficient mineralocorticoid activity, making fludrocortisone unnecessary acutely); and (2) AGGRESSIVE INTRAVENOUS FLUID RESUSCITATION with 0.9% normal saline containing 5% DEXTROSE (to treat volume contraction and hypoglycemia)."
+      },
+      {
+        "text": "Oral fludrocortisone monotherapy administered via nasogastric tube without intravenous glucocorticoids",
+        "correct": false,
+        "explanation": "Fludrocortisone is a pure mineralocorticoid; it has zero glucocorticoid potency to restore vascular tone, and oral absorption is unreliable during acute crisis with vomiting."
+      },
+      {
+        "text": "Intravenous infusion of high-dose vasopressin alone to restore systemic vascular resistance",
+        "correct": false,
+        "explanation": "Vasopressors alone are ineffective in adrenal crisis because vascular smooth muscle requires permissive cortisol to express and couple alpha-1 adrenergic receptors."
+      },
+      {
+        "text": "Administration of intravenous insulin and sodium polystyrene sulfonate to normalize hyperkalemia before steroids",
+        "correct": false,
+        "explanation": "Insulin will worsen life-threatening hypoglycemia (glucose 54 mg/dL); hydrocortisone and volume resuscitation rapidly correct hyperkalemia safely."
+      }
+    ],
+    "explanation": "ACUTE ADRENAL CRISIS is an immediately life-threatening medical emergency characterized by REFRACTORY HYPOTENSION, vascular collapse, severe hyponatremia, hyperkalemia, and hypoglycemia. It is typically triggered by an acute physiological stressor (infection, trauma, surgery, gastroenteritis) in a patient with underlying primary adrenal insufficiency or abrupt cessation of chronic glucocorticoids. Diagnostic testing (e.g., ACTH stimulation test) MUST NEVER DELAY THERAPY. Treatment must be initiated IMMEDIATELY with: (1) HIGH-DOSE INTRAVENOUS HYDROCORTISONE (100 mg IV bolus followed by 50-100 mg every 6-8 hours; at this dose, hydrocortisone provides both potent glucocorticoid activity and sufficient mineralocorticoid activity, making fludrocortisone unnecessary acutely); and (2) AGGRESSIVE INTRAVENOUS FLUID RESUSCITATION with 0.9% normal saline containing 5% DEXTROSE (to treat volume contraction and hypoglycemia). Refractory hypotension + hyponatremia + hyperkalemia + hypoglycemia = Adrenal crisis -> Immediate IV Hydrocortisone (100 mg) + D5NS (do NOT delay for ACTH test).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Adrenal Crisis Refractory Hypotension Immediate Hydrocortisone Therapy.",
+    "keyPoints": [
+      "Acute Adrenal Crisis Refractory Hypotension Immediate Hydrocortisone Therapy",
+      "Refractory hypotension + hyponatremia + hyperkalemia + hypoglycemia = Adrenal crisis -> Immediate IV Hydrocortisone (100 mg) + D5NS (do NOT delay for ACTH test)."
+    ],
+    "references": [
+      {
+        "label": "Bornstein SR, Allolio B, Arlt W, et al. Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2016;101(2):364-389. PMID: 26760044.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26760044/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0813",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Thyroid Storm Multimodal Treatment Sequence and Iodine Timing",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old woman with poorly controlled Graves disease undergoes an emergency appendectomy for ruptured acute appendicitis. Six hours postoperatively in the recovery unit, she develops extreme agitation, delirium, profuse diaphoresis, and severe vomiting. On examination, she is tremulous and flushed. Vital signs: blood pressure 168/64 mm Hg, heart rate 162/min in atrial fibrillation with rapid ventricular response, and temperature 40.2 C (104.4 F). Thyroid examination reveals a diffuse, non-tender goiter with an audible vascular bruit. Laboratory evaluation confirms a Burch-Wartofsky Point Scale score of 65 (diagnostic of thyroid storm). Thyroid function tests show TSH < 0.01 mIU/L and free T4 5.8 ng/dL. Which of the following sequences represents the correct pharmacological order of drug administration in the treatment of thyroid storm?",
+    "options": [
+      {
+        "text": "Immediate high-dose intravenous potassium iodide bolus given 1 hour prior to initiating any thionamide or beta-blocker",
+        "correct": false,
+        "explanation": "Administering iodine before thionamides provides massive substrate for new hormone synthesis (Jod-Basedow phenomenon), worsening the storm."
+      },
+      {
+        "text": "Oral levothyroxine infusion combined with emergent radioactive iodine ablation within 4 hours",
+        "correct": false,
+        "explanation": "Levothyroxine is thyroid hormone and will worsen fatal toxicity; radioactive iodine takes weeks to work and causes acute release of stored hormone."
+      },
+      {
+        "text": "Beta-blocker (propranolol) and thionamide (propylthiouracil), followed at least 1 hour later by saturated solution of potassium iodide (SSKI), plus glucocorticoids (hydrocortisone)",
+        "correct": true,
+        "explanation": "THYROID STORM is a life-threatening endocrine emergency characterized by hyperpyrexia, cardiovascular decompensation (tachyarrhythmias, high-output failure), and central nervous system agitation/delirium. Treatment requires a strict MULTIMODAL THERAPEUTIC SEQUENCE: (1) BETA-BLOCKER: Intravenous propranolol or esmolol to block hyperadrenergic peripheral symptoms (propranolol also inhibits peripheral T4-to-T3 conversion at high doses); (2) THIONAMIDE: Propylthiouracil (PTU) or methimazole to block de novo thyroid hormone synthesis (PTU also inhibits peripheral 5'-deiodinase); (3) INORGANIC IODINE: Saturated solution of potassium iodide (SSKI) or Lugol solution to acutely block thyroid hormone release via the Wolff-Chaikoff effect. CRUCIALLY, IODINE MUST BE GIVEN AT LEAST 1 HOUR AFTER THE THIONAMIDE; if given before or simultaneously, the exogenous iodine provides substrate ('fuel') that the unblocked thyroid gland incorporates into new thyroid hormone, catastrophically worsening thyrotoxicosis; (4) GLUCONEOGENIC GLUCOCORTICOIDS: Hydrocortisone to treat relative adrenal exhaustion and further inhibit peripheral T4-to-T3 conversion."
+      },
+      {
+        "text": "Intravenous diltiazem monotherapy without thionamides or glucocorticoids to avoid immunosuppression",
+        "correct": false,
+        "explanation": "Rate control alone fails to arrest continuous synthesis and release of thyroid hormone; untreated thyroid storm carries mortality > 90% without thionamides."
+      },
+      {
+        "text": "Aspirin administration for antipyresis combined with rapid cooling blankets and immediate total thyroidectomy",
+        "correct": false,
+        "explanation": "Aspirin is strictly contraindicated in thyroid storm because it displaces T4 and T3 from thyroid-binding globulin (TBG), sharply increasing free active hormone levels."
+      }
+    ],
+    "explanation": "THYROID STORM is a life-threatening endocrine emergency characterized by hyperpyrexia, cardiovascular decompensation (tachyarrhythmias, high-output failure), and central nervous system agitation/delirium. Treatment requires a strict MULTIMODAL THERAPEUTIC SEQUENCE: (1) BETA-BLOCKER: Intravenous propranolol or esmolol to block hyperadrenergic peripheral symptoms (propranolol also inhibits peripheral T4-to-T3 conversion at high doses); (2) THIONAMIDE: Propylthiouracil (PTU) or methimazole to block de novo thyroid hormone synthesis (PTU also inhibits peripheral 5'-deiodinase); (3) INORGANIC IODINE: Saturated solution of potassium iodide (SSKI) or Lugol solution to acutely block thyroid hormone release via the Wolff-Chaikoff effect. CRUCIALLY, IODINE MUST BE GIVEN AT LEAST 1 HOUR AFTER THE THIONAMIDE; if given before or simultaneously, the exogenous iodine provides substrate ('fuel') that the unblocked thyroid gland incorporates into new thyroid hormone, catastrophically worsening thyrotoxicosis; (4) GLUCONEOGENIC GLUCOCORTICOIDS: Hydrocortisone to treat relative adrenal exhaustion and further inhibit peripheral T4-to-T3 conversion. Thyroid storm = Propranolol + PTU/Methimazole -> wait 1 hour -> Potassium Iodide (Wolff-Chaikoff) + Hydrocortisone (NO aspirin!).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Thyroid Storm Multimodal Treatment Sequence and Iodine Timing.",
+    "keyPoints": [
+      "Thyroid Storm Multimodal Treatment Sequence and Iodine Timing",
+      "Thyroid storm = Propranolol + PTU/Methimazole -> wait 1 hour -> Potassium Iodide (Wolff-Chaikoff) + Hydrocortisone (NO aspirin!)."
+    ],
+    "references": [
+      {
+        "label": "Ross DS, Burch HB, Cooper DS, et al. 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid. 2016;26(10):1343-1421. PMID: 27521067.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27521067/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0814",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Myxedema Coma Hypothermia and Intravenous Levothyroxine with Hydrocortisone",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 82-year-old woman is found unresponsive in her unheated apartment during a winter snowstorm. On arrival to the emergency department, she is comatose, has dry, scaly skin, non-pitting periorbital and pretibial puffiness, sparse hair with loss of the lateral third of her eyebrows, and macroglossia. Vital signs: blood pressure 82/50 mm Hg, heart rate 42/min (sinus bradycardia), respiratory rate 8/min with shallow excursions, and core rectal temperature 31.8 C (89.2 F). Arterial blood gas demonstrates severe hypoxemic and hypercapnic respiratory acidosis (pH 7.18, PaCO2 68 mm Hg, PaO2 52 mm Hg). Laboratory evaluation reveals serum sodium 118 mEq/L and blood glucose 58 mg/dL. Serum TSH is markedly elevated at 94 mIU/L, and free T4 is undetectable. Endotracheal intubation and mechanical ventilation are initiated, along with passive external rewarming. Which of the following is the most appropriate initial pharmacological management?",
+    "options": [
+      {
+        "text": "High-dose oral levothyroxine tablets crushed and administered via nasogastric tube without steroids",
+        "correct": false,
+        "explanation": "Oral levothyroxine absorption is erratic and severely impaired due to mucosal myxedematous edema, and omitting hydrocortisone risks fatal adrenal crisis."
+      },
+      {
+        "text": "Aggressive active internal rewarming using peritoneal lavage and high-dose intravenous epinephrine infusion alone",
+        "correct": false,
+        "explanation": "Active internal rewarming triggers rapid peripheral vasodilation and vascular collapse in myxedema coma; passive external rewarming is preferred."
+      },
+      {
+        "text": "Intravenous bolus of 3% hypertonic saline to rapidly normalize serum sodium to 135 mEq/L within 4 hours",
+        "correct": false,
+        "explanation": "Rapid overcorrection of chronic hyponatremia (> 8 mEq/L in 24 hours) causes catastrophic osmotic demyelination syndrome (central pontine myelinolysis)."
+      },
+      {
+        "text": "Intravenous hydrocortisone (100 mg) administered immediately, followed by intravenous loading dose of levothyroxine (T4) with or without liothyronine (T3)",
+        "correct": true,
+        "explanation": "MYXEDEMA COMA is a medical emergency representing decompensated end-stage hypothyroidism, typically precipitated by cold exposure, infection, myocardial infarction, or sedatives in an elderly hypothyroid patient. Hallmarks include: (1) Altered mental status/coma, (2) HYPOTHERMIA (often < 35 C / 95 F), (3) HYPOVENTILATION with hypercapnic respiratory failure, (4) Bradycardia and hypotension, and (5) Hyponatremia and hypoglycemia. Immediate management mandates: (1) HYDROCORTISONE FIRST: Intravenous hydrocortisone (100 mg every 8 hours) MUST BE GIVEN PRIOR TO OR CONCURRENTLY WITH THYROID HORMONE. Hypothyroidism slows hepatic cortisol clearance; administering thyroid hormone accelerates metabolism and hepatic cortisol clearance, which can precipitate FATAL ADRENAL CRISIS if coexisting primary or secondary adrenal insufficiency is present; and (2) INTRAVENOUS THYROID HORMONE: Intravenous levothyroxine (T4 loading dose 200-400 mcg IV) is administered; gastrointestinal absorption is severely impaired by intestinal edema."
+      },
+      {
+        "text": "Withholding all hormone replacement until core temperature is fully normalized above 37 C",
+        "correct": false,
+        "explanation": "Withholding thyroid hormone until normothermia is achieved is fatal; hypothermia cannot resolve until thyroid hormone restores cellular thermogenesis."
+      }
+    ],
+    "explanation": "MYXEDEMA COMA is a medical emergency representing decompensated end-stage hypothyroidism, typically precipitated by cold exposure, infection, myocardial infarction, or sedatives in an elderly hypothyroid patient. Hallmarks include: (1) Altered mental status/coma, (2) HYPOTHERMIA (often < 35 C / 95 F), (3) HYPOVENTILATION with hypercapnic respiratory failure, (4) Bradycardia and hypotension, and (5) Hyponatremia and hypoglycemia. Immediate management mandates: (1) HYDROCORTISONE FIRST: Intravenous hydrocortisone (100 mg every 8 hours) MUST BE GIVEN PRIOR TO OR CONCURRENTLY WITH THYROID HORMONE. Hypothyroidism slows hepatic cortisol clearance; administering thyroid hormone accelerates metabolism and hepatic cortisol clearance, which can precipitate FATAL ADRENAL CRISIS if coexisting primary or secondary adrenal insufficiency is present; and (2) INTRAVENOUS THYROID HORMONE: Intravenous levothyroxine (T4 loading dose 200-400 mcg IV) is administered; gastrointestinal absorption is severely impaired by intestinal edema. Hypothermia + hypoventilation + bradycardia + severe hypothyroidism = Myxedema coma. Give IV Hydrocortisone FIRST (prevents adrenal crisis), then IV Levothyroxine.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Myxedema Coma Hypothermia and Intravenous Levothyroxine with Hydrocortisone.",
+    "keyPoints": [
+      "Myxedema Coma Hypothermia and Intravenous Levothyroxine with Hydrocortisone",
+      "Hypothermia + hypoventilation + bradycardia + severe hypothyroidism = Myxedema coma. Give IV Hydrocortisone FIRST (prevents adrenal crisis), then IV Levothyroxine."
+    ],
+    "references": [
+      {
+        "label": "Wiersinga WM. Myxedema and Coma (Severe Hypothyroidism). In: Feingold KR, et al., eds. Endotext. Updated 2018. PMID: 25905404.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25905404/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0815",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "SIADH Severe Symptomatic Hyponatremia Hypertonic Saline Protocol",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 66-year-old man with small cell lung cancer is admitted to the medical oncology unit. Over the past 6 hours, he has become acutely confused, agitated, and somnolent. While being evaluated, he develops a 2-minute generalized tonic-clonic seizure followed by post-ictal unresponsiveness. Vital signs: blood pressure 132/84 mm Hg, heart rate 78/min, and oxygen saturation 97% on ambient air. Physical examination demonstrates a euvolemic patient without peripheral edema, jugular venous distension, or signs of orthostatic dehydration. Immediate laboratory evaluation reveals: serum sodium 112 mEq/L (severely depressed), serum potassium 4.1 mEq/L, serum osmolality 236 mOsm/kg, urine osmolality 580 mOsm/kg (inappropriately concentrated), and urine sodium 64 mEq/L (inappropriately elevated, > 40 mEq/L). Which of the following is the most appropriate immediate medical intervention to manage this acute life-threatening encephalopathy?",
+    "options": [
+      {
+        "text": "Strict fluid restriction to less than 800 mL/day as the sole initial therapy",
+        "correct": false,
+        "explanation": "Fluid restriction is the cornerstone of CHRONIC or mild asymptomatic SIADH, but is dangerously slow and inadequate for acute seizures and active cerebral edema."
+      },
+      {
+        "text": "Immediate initiation of oral tolvaptan at 60 mg twice daily",
+        "correct": false,
+        "explanation": "Vaptans (V2 receptor antagonists) take hours to produce aquaresis, carry unpredictable correction rates, and are contraindicated in acute emergent severe hyponatremia with seizures."
+      },
+      {
+        "text": "Rapid intravenous infusion of 3 liters of 0.9% normal saline over 2 hours",
+        "correct": false,
+        "explanation": "Administering normal saline in SIADH with high urine osmolality (580 mOsm/kg) paradoxically LOWERS serum sodium, because the infused solute is excreted in a concentrated urine, leaving free water behind."
+      },
+      {
+        "text": "Rapid correction targeting a serum sodium level of 135 mEq/L within the first 12 hours",
+        "correct": false,
+        "explanation": "Rapidly increasing serum sodium > 8 mEq/L in 24 hours causes catastrophic OSMOTIC DEMYELINATION SYNDROME (central pontine myelinolysis), producing spastic quadriparesis and locked-in syndrome."
+      },
+      {
+        "text": "Intravenous bolus of 100 to 150 mL of 3% hypertonic saline, targeting an acute increase in serum sodium of 4 to 6 mEq/L over the first several hours",
+        "correct": true,
+        "explanation": "This patient has severe, life-threatening symptomatic HYPONATREMIA (serum sodium 112 mEq/L with active seizures and coma) secondary to the SYNDROME OF INAPPROPRIATE ANTIDIURETIC HORMONE (SIADH, classic paraneoplastic manifestation of small cell lung cancer). The immediate danger in acute symptomatic hyponatremia is CEREBRAL EDEMA and transtentorial brain herniation. When seizures, coma, or respiratory arrest are present, fluid restriction or oral vaptans are inadequate. The definitive immediate treatment is a 100 to 150 mL INTRAVENOUS BOLUS OF 3% HYPERTONIC SALINE (infused over 10-20 minutes, repeatable up to 3 times). The goal is an ACUTE ELEVATION OF SERUM SODIUM BY 4 TO 6 mEq/L within the first several hours, which is sufficient to reverse cerebral edema, stop seizures, and prevent herniation. The TOTAL correction must strictly NOT EXCEED 8 mEq/L IN ANY 24-HOUR PERIOD to avoid osmotic demyelination."
+      }
+    ],
+    "explanation": "This patient has severe, life-threatening symptomatic HYPONATREMIA (serum sodium 112 mEq/L with active seizures and coma) secondary to the SYNDROME OF INAPPROPRIATE ANTIDIURETIC HORMONE (SIADH, classic paraneoplastic manifestation of small cell lung cancer). The immediate danger in acute symptomatic hyponatremia is CEREBRAL EDEMA and transtentorial brain herniation. When seizures, coma, or respiratory arrest are present, fluid restriction or oral vaptans are inadequate. The definitive immediate treatment is a 100 to 150 mL INTRAVENOUS BOLUS OF 3% HYPERTONIC SALINE (infused over 10-20 minutes, repeatable up to 3 times). The goal is an ACUTE ELEVATION OF SERUM SODIUM BY 4 TO 6 mEq/L within the first several hours, which is sufficient to reverse cerebral edema, stop seizures, and prevent herniation. The TOTAL correction must strictly NOT EXCEED 8 mEq/L IN ANY 24-HOUR PERIOD to avoid osmotic demyelination. SIADH + severe symptomatic hyponatremia (seizures/coma, Na 112) = 3% Hypertonic Saline bolus (raise Na by 4-6 mEq/L; max 8 mEq/L in 24h).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of SIADH Severe Symptomatic Hyponatremia Hypertonic Saline Protocol.",
+    "keyPoints": [
+      "SIADH Severe Symptomatic Hyponatremia Hypertonic Saline Protocol",
+      "SIADH + severe symptomatic hyponatremia (seizures/coma, Na 112) = 3% Hypertonic Saline bolus (raise Na by 4-6 mEq/L; max 8 mEq/L in 24h)."
+    ],
+    "references": [
+      {
+        "label": "Sterns RH. Disorders of plasma sodium--causes, consequences, and correction. N Engl J Med. 2015;372(1):55-65. PMID: 25551526.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25551526/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0816",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Osmotic Demyelination Central Pontine Myelinolysis Overcorrection Limits",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 48-year-old woman with severe alcohol use disorder and chronic malnutrition presents to the emergency department with confusion and ataxia. Initial laboratory evaluation reveals profound chronic hyponatremia with a serum sodium of 104 mEq/L. Over the next 24 hours in the intensive care unit, she receives vigorous 3% hypertonic saline and intravenous crystalloids. Serial laboratory testing at 24 hours demonstrates that her serum sodium has risen sharply to 126 mEq/L (an increase of 22 mEq/L within 24 hours). Over the subsequent 4 days, her initial confusion improves, but on hospital day 5 she develops progressive dysarthria, dysphagia, horizontal gaze paralysis, pseudobulbar affect, and rapidly progressive flaccid-to-spastic quadriparesis with preserved vertical eye movements and intact consciousness ('locked-in' syndrome). T2-weighted and diffusion-weighted brain MRI demonstrates hyperintensity in the central basis pontis sparing the ventrolateral corticospinal tracts. Which of the following limits represents the maximum safe rate of serum sodium correction over any 24-hour period to prevent this catastrophic neurological complication?",
+    "options": [
+      {
+        "text": "Maximum rate of 8 mEq/L in any 24-hour period (and 6 mEq/L in high-risk patients with malnutrition or alcoholism)",
+        "correct": true,
+        "explanation": "OSMOTIC DEMYELINATION SYNDROME (ODS / CENTRAL PONTINE MYELINOLYSIS) is a catastrophic, largely irreversible neurological disorder caused by OVERLY RAPID CORRECTION OF CHRONIC HYPONATREMIA. In chronic hyponatremia (>48 hours), brain astrocytes adapt to hypotonicity by extruding intracellular osmolytes (myoinositol, glutamate, taurine, potassium) to prevent brain swelling. If serum sodium is raised too rapidly, the hypertonic extracellular environment draws water rapidly out of brain cells. Astrocytes cannot resynthesize intracellular organic osmolytes fast enough, causing MASSIVE ASTROCYTE APOPTOSIS, disruption of the blood-brain barrier, and non-inflammatory demyelination of myelin-rich structures, classically the BASIS PONTIS. Clinical features emerge 2 to 6 days after overcorrection: pseudobulbar palsy, quadriparesis, and LOCKED-IN SYNDROME. To prevent ODS, the maximum rate of correction must STRICTLY NOT EXCEED 8 mEq/L IN ANY 24-HOUR PERIOD (and <= 6 mEq/L in high-risk patients: alcoholics, malnourished, cirrhotics, hypokalemic)."
+      },
+      {
+        "text": "Maximum rate of 18 mEq/L in any 24-hour period provided hypertonic saline is discontinued",
+        "correct": false,
+        "explanation": "A correction of 18 mEq/L in 24 hours is profoundly excessive and carries an extremely high risk of fatal osmotic demyelination."
+      },
+      {
+        "text": "Targeting a rapid rise of 2 mEq/L per hour until serum sodium normalizes to 140 mEq/L",
+        "correct": false,
+        "explanation": "Correcting at 2 mEq/L/h will exceed 24 mEq/L in 12 hours, which virtually guarantees severe pontine and extrapontine myelinolysis."
+      },
+      {
+        "text": "Strict limit of zero sodium increase for the first 48 hours to allow gradual passive equilibration",
+        "correct": false,
+        "explanation": "Failing to correct acute symptomatic hyponatremia risks fatal cerebral edema and uncal herniation; controlled slow correction is mandatory."
+      },
+      {
+        "text": "Targeting sodium correction based on urinary potassium excretion rates regardless of absolute serum sodium limits",
+        "correct": false,
+        "explanation": "Serum sodium concentration change itself is the absolute parameter governing osmotic water flux across the blood-brain barrier."
+      }
+    ],
+    "explanation": "OSMOTIC DEMYELINATION SYNDROME (ODS / CENTRAL PONTINE MYELINOLYSIS) is a catastrophic, largely irreversible neurological disorder caused by OVERLY RAPID CORRECTION OF CHRONIC HYPONATREMIA. In chronic hyponatremia (>48 hours), brain astrocytes adapt to hypotonicity by extruding intracellular osmolytes (myoinositol, glutamate, taurine, potassium) to prevent brain swelling. If serum sodium is raised too rapidly, the hypertonic extracellular environment draws water rapidly out of brain cells. Astrocytes cannot resynthesize intracellular organic osmolytes fast enough, causing MASSIVE ASTROCYTE APOPTOSIS, disruption of the blood-brain barrier, and non-inflammatory demyelination of myelin-rich structures, classically the BASIS PONTIS. Clinical features emerge 2 to 6 days after overcorrection: pseudobulbar palsy, quadriparesis, and LOCKED-IN SYNDROME. To prevent ODS, the maximum rate of correction must STRICTLY NOT EXCEED 8 mEq/L IN ANY 24-HOUR PERIOD (and <= 6 mEq/L in high-risk patients: alcoholics, malnourished, cirrhotics, hypokalemic). Overcorrection of chronic hyponatremia (> 8 mEq/L in 24h) -> Central pontine myelinolysis / locked-in syndrome. Safe limit: <= 8 mEq/L in 24h.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Osmotic Demyelination Central Pontine Myelinolysis Overcorrection Limits.",
+    "keyPoints": [
+      "Osmotic Demyelination Central Pontine Myelinolysis Overcorrection Limits",
+      "Overcorrection of chronic hyponatremia (> 8 mEq/L in 24h) -> Central pontine myelinolysis / locked-in syndrome. Safe limit: <= 8 mEq/L in 24h."
+    ],
+    "references": [
+      {
+        "label": "Sterns RH. Disorders of plasma sodium--causes, consequences, and correction. N Engl J Med. 2015;372(1):55-65. PMID: 25551526.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25551526/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0817",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Severe Hyperkalemia Membrane Stabilization with Intravenous Calcium Gluconate",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man with end-stage renal disease on maintenance hemodialysis misses two consecutive dialysis sessions. He presents to the emergency department with profound generalized muscle weakness, paresthesias, and palpitations. Physical examination reveals an alert man with flaccid tetraparesis and globally absent deep tendon reflexes. Vital signs: blood pressure 104/62 mm Hg and heart rate 44/min. 12-lead ECG demonstrates tall, peaked, narrow T waves with a shortened QT interval, loss of P waves, marked prolongation of the PR interval, and striking widening of the QRS complex (164 msec) merging into a sinusoidal waveform ('sine-wave' pattern). Point-of-care electrolyte analysis reveals a serum potassium of 8.4 mEq/L. Which of the following is the most appropriate immediate first step in management?",
+    "options": [
+      {
+        "text": "Immediate administration of 10 units of regular insulin with 50 mL of 50% dextrose as the sole first intervention",
+        "correct": false,
+        "explanation": "Insulin and dextrose shift potassium intracellularly, but take 20 to 30 minutes to work; membrane stabilization with calcium must be given first to prevent immediate cardiac arrest."
+      },
+      {
+        "text": "Immediate intravenous administration of 10% calcium gluconate (or calcium chloride) under continuous ECG monitoring",
+        "correct": true,
+        "explanation": "SEVERE HYPERKALEMIA (potassium >= 6.5 mEq/L or ANY hyperkalemic ECG changes) is an immediate cardiac emergency. As extracellular potassium rises, the resting membrane potential of cardiac myocytes becomes partially depolarized (less negative), inactivating voltage-gated fast sodium channels. This slows phase 0 depolarization velocity and conduction velocity, producing peaked T waves, PR prolongation, QRS widening, and the fatal SINE-WAVE PATTERN that precedes ventricular fibrillation or asystole. The IMMEDIATE FIRST-LINE INTERVENTION is INTRAVENOUS CALCIUM (10% calcium gluconate 10-30 mL IV or calcium chloride via central line). Calcium DIRECTLY STABILIZES THE CARDIOMYOCYTE MEMBRANE by increasing the threshold potential (shifting it to less negative values), thereby restoring the normal difference between resting membrane potential and threshold potential without altering serum potassium concentration. This rapidly narrows the QRS complex within 1 to 3 minutes, buying crucial time to deploy potassium-shifting and potassium-eliminating therapies."
+      },
+      {
+        "text": "Urgent oral administration of sodium polystyrene sulfonate resin with sorbitol",
+        "correct": false,
+        "explanation": "Oral cation-exchange resins take hours to days to work and carry a risk of bowel necrosis; they have zero role in the immediate emergent stabilization of sine-wave hyperkalemia."
+      },
+      {
+        "text": "Continuous nebulized albuterol at high doses before establishing intravenous access",
+        "correct": false,
+        "explanation": "Beta-2 agonists shift potassium intracellularly over 30 minutes, but cannot substitute for immediate membrane stabilization with intravenous calcium."
+      },
+      {
+        "text": "Immediate intravenous infusion of 3 ampules of sodium bicarbonate as the primary treatment",
+        "correct": false,
+        "explanation": "Sodium bicarbonate is largely ineffective in lowering potassium acutely in patients without severe metabolic acidosis and does not stabilize the cardiac membrane."
+      }
+    ],
+    "explanation": "SEVERE HYPERKALEMIA (potassium >= 6.5 mEq/L or ANY hyperkalemic ECG changes) is an immediate cardiac emergency. As extracellular potassium rises, the resting membrane potential of cardiac myocytes becomes partially depolarized (less negative), inactivating voltage-gated fast sodium channels. This slows phase 0 depolarization velocity and conduction velocity, producing peaked T waves, PR prolongation, QRS widening, and the fatal SINE-WAVE PATTERN that precedes ventricular fibrillation or asystole. The IMMEDIATE FIRST-LINE INTERVENTION is INTRAVENOUS CALCIUM (10% calcium gluconate 10-30 mL IV or calcium chloride via central line). Calcium DIRECTLY STABILIZES THE CARDIOMYOCYTE MEMBRANE by increasing the threshold potential (shifting it to less negative values), thereby restoring the normal difference between resting membrane potential and threshold potential without altering serum potassium concentration. This rapidly narrows the QRS complex within 1 to 3 minutes, buying crucial time to deploy potassium-shifting and potassium-eliminating therapies. Hyperkalemia (K 8.4) + ECG changes (peaked T, QRS widening, sine wave) = IV Calcium Gluconate FIRST (membrane stabilization).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Severe Hyperkalemia Membrane Stabilization with Intravenous Calcium Gluconate.",
+    "keyPoints": [
+      "Severe Hyperkalemia Membrane Stabilization with Intravenous Calcium Gluconate",
+      "Hyperkalemia (K 8.4) + ECG changes (peaked T, QRS widening, sine wave) = IV Calcium Gluconate FIRST (membrane stabilization)."
+    ],
+    "references": [
+      {
+        "label": "Palmer BF, Clegg DJ. Diagnosis and treatment of hyperkalemia. Cleve Clin J Med. 2017;84(12):934-942. PMID: 29244647.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29244647/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0818",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Severe Hypercalcemic Crisis Saline Hydration Calcitonin and Bisphosphonates",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old woman with metastatic breast cancer presents to the emergency department with severe lethargy, confusion, constipation, and vomiting. On examination, she is somnolent, has dry mucous membranes, and poor skin turgor. Vital signs: blood pressure 92/58 mm Hg and heart rate 108/min. 12-lead ECG demonstrates a markedly shortened QT interval (QTc 340 msec). Laboratory evaluation reveals: serum calcium markedly elevated at 15.2 mg/dL (normal 8.5-10.5 mg/dL), ionized calcium 2.1 mmol/L (normal 1.15-1.33 mmol/L), serum albumin 3.0 g/dL, BUN 48 mg/dL, and serum creatinine 2.4 mg/dL (baseline 0.9 mg/dL). Intact PTH is suppressed at 4 pg/mL, and PTHrP is markedly elevated. Which of the following is the most appropriate initial multimodal pharmacotherapy for this patient's hypercalcemic crisis?",
+    "options": [
+      {
+        "text": "Immediate high-dose intravenous furosemide bolus before administering any intravenous fluids",
+        "correct": false,
+        "explanation": "Loop diuretics given before complete volume repletion exacerbate intravascular dehydration, worsen prerenal azotemia, and increase mortality."
+      },
+      {
+        "text": "Oral cinacalcet monotherapy combined with high-dose vitamin D supplementation",
+        "correct": false,
+        "explanation": "Cinacalcet is a calcimimetic used for secondary hyperparathyroidism or parathyroid carcinoma; it is ineffective for PTHrP-mediated malignancy hypercalcemia."
+      },
+      {
+        "text": "Aggressive intravenous isotonic saline rehydration PLUS subcutaneous salmon calcitonin, followed by intravenous zoledronic acid",
+        "correct": true,
+        "explanation": "SEVERE HYPERCALCEMIA OF MALIGNANCY (calcium >= 14.0 mg/dL or symptomatic) is a medical emergency. High calcium impairs renal concentrating ability via calcium-sensing receptor activation in the thick ascending limb and collecting duct (nephrogenic diabetes insipidus), causing profound volume contraction (averaging 3-5 L deficit) that worsens hypercalcemia. Management requires a coordinated THREE-PHASE MEDICAL STRATEGY: (1) IMMEDIATE AGGRESSIVE VOLUME EXPANSION with isotonic saline (0.9% NaCl at 200-300 mL/h, titrating to urine output 100-150 mL/h) to restore GFR and enhance urinary calcium clearance; (2) SHORT-ACTING RAPID AGENT: SALMON CALCITONIN (subcutaneous or IM every 12 hours) promotes rapid renal excretion and inhibits osteoclasts within 4 to 6 hours, but tachyphylaxis occurs within 48 hours due to receptor down-regulation; and (3) LONG-ACTING POTENT AGENT: INTRAVENOUS BISPHOSPHONATE (zoledronic acid 4 mg IV over 15 min or pamidronate); bisphosphonates permanently inhibit osteoclast bone resorption, achieving maximum calcium suppression in 2 to 4 days."
+      },
+      {
+        "text": "Routine emergency hemodialysis using high-calcium dialysate bath",
+        "correct": false,
+        "explanation": "Hemodialysis is reserved for refractory hypercalcemia with oliguric renal failure or heart failure that cannot tolerate saline; medical therapy succeeds in >95%."
+      },
+      {
+        "text": "Strict immobilization and bed rest combined with high-dose oral calcium citrate to bind circulating phosphate",
+        "correct": false,
+        "explanation": "Immobilization accelerates osteoclast-mediated bone resorption and massively worsens hypercalcemia."
+      }
+    ],
+    "explanation": "SEVERE HYPERCALCEMIA OF MALIGNANCY (calcium >= 14.0 mg/dL or symptomatic) is a medical emergency. High calcium impairs renal concentrating ability via calcium-sensing receptor activation in the thick ascending limb and collecting duct (nephrogenic diabetes insipidus), causing profound volume contraction (averaging 3-5 L deficit) that worsens hypercalcemia. Management requires a coordinated THREE-PHASE MEDICAL STRATEGY: (1) IMMEDIATE AGGRESSIVE VOLUME EXPANSION with isotonic saline (0.9% NaCl at 200-300 mL/h, titrating to urine output 100-150 mL/h) to restore GFR and enhance urinary calcium clearance; (2) SHORT-ACTING RAPID AGENT: SALMON CALCITONIN (subcutaneous or IM every 12 hours) promotes rapid renal excretion and inhibits osteoclasts within 4 to 6 hours, but tachyphylaxis occurs within 48 hours due to receptor down-regulation; and (3) LONG-ACTING POTENT AGENT: INTRAVENOUS BISPHOSPHONATE (zoledronic acid 4 mg IV over 15 min or pamidronate); bisphosphonates permanently inhibit osteoclast bone resorption, achieving maximum calcium suppression in 2 to 4 days. Severe Hypercalcemia (Ca > 14) = IV normal saline (rehydrate) + Calcitonin (rapid, 4-6h) + IV Bisphosphonate (zoledronic acid, durable 2-4 days).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Severe Hypercalcemic Crisis Saline Hydration Calcitonin and Bisphosphonates.",
+    "keyPoints": [
+      "Severe Hypercalcemic Crisis Saline Hydration Calcitonin and Bisphosphonates",
+      "Severe Hypercalcemia (Ca > 14) = IV normal saline (rehydrate) + Calcitonin (rapid, 4-6h) + IV Bisphosphonate (zoledronic acid, durable 2-4 days)."
+    ],
+    "references": [
+      {
+        "label": "Walker MD et al. Hypercalcemia: A Review. JAMA. PMID: 36282253.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36282253/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0819",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Tumor Lysis Syndrome Rasburicase Prophylaxis and Electrolyte Management",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 15-year-old boy with a rapidly growing mediastinal mass and white blood cell count of 185,000/uL is diagnosed with T-cell acute lymphoblastic leukemia. Induction chemotherapy is planned to begin tomorrow. Baseline laboratory evaluation demonstrates: serum uric acid 11.8 mg/dL (normal 3.5-7.2 mg/dL), potassium 5.4 mEq/L (normal 3.5-5.0 mEq/L), phosphorus 6.8 mg/dL (normal 2.5-4.5 mg/dL), serum calcium 7.4 mg/dL (normal 8.5-10.5 mg/dL), and serum creatinine 1.8 mg/dL (baseline 0.7 mg/dL). 12-lead ECG shows normal sinus rhythm without peaked T waves or PR prolongation. He is classified as high-risk for severe clinical tumor lysis syndrome (TLS). In addition to aggressive intravenous hydration with isotonic crystalloids without potassium, which of the following hypouricemic agents is most appropriate to rapidly reduce circulating uric acid levels prior to chemotherapy initiation?",
+    "options": [
+      {
+        "text": "Oral allopurinol monotherapy combined with urinary alkalinization using sodium bicarbonate",
+        "correct": false,
+        "explanation": "Allopurinol only prevents new uric acid synthesis (cannot degrade existing uric acid); urinary alkalinization is no longer recommended because it promotes calcium phosphate precipitation in renal tubules."
+      },
+      {
+        "text": "Intravenous calcium gluconate boluses to normalize serum calcium to 9.5 mg/dL",
+        "correct": false,
+        "explanation": "Intravenous calcium should NOT be administered for asymptomatic hypocalcemia in TLS because exogenous calcium binds high circulating phosphate, accelerating metastatic tissue calcification and acute renal failure."
+      },
+      {
+        "text": "Oral febuxostat combined with high-dose potassium phosphate supplementation",
+        "correct": false,
+        "explanation": "Febuxostat is an alternative xanthine oxidase inhibitor; adding potassium phosphate is strictly contraindicated in hyperkalemic/hyperphosphatemic TLS."
+      },
+      {
+        "text": "Intravenous recombinant urate oxidase (rasburicase)",
+        "correct": true,
+        "explanation": "TUMOR LYSIS SYNDROME (TLS) is an oncologic emergency caused by massive, rapid destruction of malignant cells (classically in high-grade hematologic malignancies: Burkitt lymphoma, ALL, AML with high WBC). Lysis spills massive intracellular contents into the blood, producing the characteristic metabolic tetrad: HYPERURICEMIA, HYPERKALEMIA, HYPERPHOSPHATEMIA, and secondary HYPOCALCEMIA (due to calcium phosphate precipitation). Uric acid precipitates in renal tubules, causing acute kidney injury. In patients at HIGH RISK for TLS or those with established pre-existing hyperuricemia/renal impairment, the agent of choice is RASBURICASE (recombinant urate oxidase). Unlike allopurinol (which merely blocks xanthine oxidase to prevent new uric acid synthesis but does not degrade existing uric acid), rasburicase ENZYMATICALLY DEGRADES EXISTING URIC ACID INTO ALLANTOIN, a highly water-soluble compound that is 5- to 10-fold more soluble and rapidly excreted in urine, plummeting serum uric acid within 4 hours."
+      },
+      {
+        "text": "Prophylactic low-dose furosemide to induce forced alkaline diuresis before hydration",
+        "correct": false,
+        "explanation": "Diuretics should not be used prophylactically in TLS before full volume expansion; forced diuresis without volume exacerbates acute tubular necrosis."
+      }
+    ],
+    "explanation": "TUMOR LYSIS SYNDROME (TLS) is an oncologic emergency caused by massive, rapid destruction of malignant cells (classically in high-grade hematologic malignancies: Burkitt lymphoma, ALL, AML with high WBC). Lysis spills massive intracellular contents into the blood, producing the characteristic metabolic tetrad: HYPERURICEMIA, HYPERKALEMIA, HYPERPHOSPHATEMIA, and secondary HYPOCALCEMIA (due to calcium phosphate precipitation). Uric acid precipitates in renal tubules, causing acute kidney injury. In patients at HIGH RISK for TLS or those with established pre-existing hyperuricemia/renal impairment, the agent of choice is RASBURICASE (recombinant urate oxidase). Unlike allopurinol (which merely blocks xanthine oxidase to prevent new uric acid synthesis but does not degrade existing uric acid), rasburicase ENZYMATICALLY DEGRADES EXISTING URIC ACID INTO ALLANTOIN, a highly water-soluble compound that is 5- to 10-fold more soluble and rapidly excreted in urine, plummeting serum uric acid within 4 hours. High-risk Tumor Lysis Syndrome (high uric acid/K/phosphate, low Ca) = IV Hydration + Rasburicase (enzymatically converts existing uric acid to allantoin).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Tumor Lysis Syndrome Rasburicase Prophylaxis and Electrolyte Management.",
+    "keyPoints": [
+      "Tumor Lysis Syndrome Rasburicase Prophylaxis and Electrolyte Management",
+      "High-risk Tumor Lysis Syndrome (high uric acid/K/phosphate, low Ca) = IV Hydration + Rasburicase (enzymatically converts existing uric acid to allantoin)."
+    ],
+    "references": [
+      {
+        "label": "Cairo MS, Coiffier B, Reiter A, et al. Recommendations for the evaluation of risk and prophylaxis of tumour lysis syndrome (TLS) in adults and children with malignant diseases: an expert TLS consensus group. Br J Haematol. 2010;149(4):578-586. PMID: 20331465.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20331465/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0820",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Thrombotic Thrombocytopenic Purpura Urgent Plasma Exchange Without Platelets",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old previously healthy woman is brought to the emergency department with confusion, fluctuating expressive aphasia, and fever (38.4 C). Her husband reports that she has noticed easy bruising and petechiae on her legs over the past 3 days. Physical examination reveals an oriented but periodically confused woman with scleral icterus and scattered petechiae and purpura over both lower extremities. Vital signs: blood pressure 138/82 mm Hg, heart rate 98/min, and temperature 38.4 C. Laboratory evaluation reveals: hemoglobin 7.8 g/dL, platelet count 14,000/uL, reticulocyte count 7.8%, total bilirubin 4.2 mg/dL with indirect bilirubin 3.6 mg/dL, and lactate dehydrogenase markedly elevated at 1,940 U/L (normal < 250 U/L). Coagulation studies (PT, INR, aPTT, and fibrinogen) are entirely normal. Peripheral blood smear examination demonstrates abundant schistocytes (helmet cells, 4-5 per high-power field) with marked thrombocytopenia and polychromasia. Direct antiglobulin (Coombs) test is negative. Which of the following is the most appropriate immediate medical intervention?",
+    "options": [
+      {
+        "text": "Emergency transfusion of 2 pools of apheresis platelets followed by intravenous immunoglobulin",
+        "correct": false,
+        "explanation": "Platelet transfusions in TTP are strictly contraindicated because they fuel widespread microvascular platelet thrombosis and precipitate fatal strokes."
+      },
+      {
+        "text": "Immediate intravenous heparin infusion targeting an aPTT of 60 to 80 seconds",
+        "correct": false,
+        "explanation": "Therapeutic anticoagulation does not resolve ADAMTS13 deficiency and increases fatal bleeding in the setting of severe thrombocytopenia."
+      },
+      {
+        "text": "High-dose intravenous vitamin K administration and fresh frozen plasma infusion without plasma exchange",
+        "correct": false,
+        "explanation": "Simple FFP infusion without exchange provides some ADAMTS13 but fails to remove toxic autoantibodies and risks volume overload; plasma exchange is mandatory."
+      },
+      {
+        "text": "Withholding all interventions until formal quantitative ADAMTS13 activity results return from the reference laboratory",
+        "correct": false,
+        "explanation": "ADAMTS13 activity assays take 3 to 7 days to return from reference laboratories; delaying plasma exchange carries a mortality exceeding 90%."
+      },
+      {
+        "text": "Immediate urgent therapeutic plasma exchange (plasmapheresis) combined with high-dose corticosteroids, strictly withholding platelet transfusions",
+        "correct": true,
+        "explanation": "THROMBOTIC THROMBOCYTOPENIC PURPURA (TTP) is a life-threatening hematologic emergency caused by severe deficiency (< 10% activity) of the von Willebrand factor-cleaving metalloprotease ADAMTS13 (most commonly due to acquired autoantibodies). Without ADAMTS13, ultra-large vWF multimers accumulate, anchoring to endothelium and capturing platelets to form microvascular platelet thrombi. This causes microangiopathic hemolytic anemia (MAHA with abundant schistocytes and high LDH) and consumptive thrombocytopenia. The classic pentad includes: MAHA, severe thrombocytopenia, neurological symptoms (fluctuating confusion, aphasia), renal dysfunction, and fever (though all 5 are present in < 10%). Immediate, life-saving therapy is URGENT THERAPEUTIC PLASMA EXCHANGE (TPE) combined with systemic corticosteroids. TPE removes circulating anti-ADAMTS13 autoantibodies and ultra-large vWF multimers while supplying active donor ADAMTS13 enzyme. Crucially, PLATELET TRANSFUSIONS ARE STRICTLY CONTRAINDICATED because infusing platelets 'fuels the fire,' precipitating widespread microvascular thrombosis, stroke, myocardial infarction, and death."
+      }
+    ],
+    "explanation": "THROMBOTIC THROMBOCYTOPENIC PURPURA (TTP) is a life-threatening hematologic emergency caused by severe deficiency (< 10% activity) of the von Willebrand factor-cleaving metalloprotease ADAMTS13 (most commonly due to acquired autoantibodies). Without ADAMTS13, ultra-large vWF multimers accumulate, anchoring to endothelium and capturing platelets to form microvascular platelet thrombi. This causes microangiopathic hemolytic anemia (MAHA with abundant schistocytes and high LDH) and consumptive thrombocytopenia. The classic pentad includes: MAHA, severe thrombocytopenia, neurological symptoms (fluctuating confusion, aphasia), renal dysfunction, and fever (though all 5 are present in < 10%). Immediate, life-saving therapy is URGENT THERAPEUTIC PLASMA EXCHANGE (TPE) combined with systemic corticosteroids. TPE removes circulating anti-ADAMTS13 autoantibodies and ultra-large vWF multimers while supplying active donor ADAMTS13 enzyme. Crucially, PLATELET TRANSFUSIONS ARE STRICTLY CONTRAINDICATED because infusing platelets 'fuels the fire,' precipitating widespread microvascular thrombosis, stroke, myocardial infarction, and death. Schistocytes (MAHA) + severe thrombocytopenia + normal coags + neuro symptoms = TTP -> Immediate Plasma Exchange + Steroids (NEVER give platelets!).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Thrombotic Thrombocytopenic Purpura Urgent Plasma Exchange Without Platelets.",
+    "keyPoints": [
+      "Thrombotic Thrombocytopenic Purpura Urgent Plasma Exchange Without Platelets",
+      "Schistocytes (MAHA) + severe thrombocytopenia + normal coags + neuro symptoms = TTP -> Immediate Plasma Exchange + Steroids (NEVER give platelets!)."
+    ],
+    "references": [
+      {
+        "label": "Scully M, Hunt BJ, Benjamin S, et al. Guidelines on the diagnosis and management of thrombotic thrombocytopenic purpura and other thrombotic microangiopathies. Br J Haematol. 2012;158(3):323-335. PMID: 22624596.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22624596/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0821",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Heparin-Induced Thrombocytopenia 4T Score and Direct Thrombin Inhibitors",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old man who underwent elective coronary artery bypass grafting 7 days ago has been receiving subcutaneous unfractionated heparin (5,000 units every 8 hours) for deep vein thrombosis prophylaxis. His postoperative course had been unremarkable until today, when his platelet count drops precipitously from a baseline of 240,000/uL to 82,000/uL (a 66% drop). He is asymptomatic without bleeding. Physical examination reveals warm extremities, well-healing sternal incision, and mild erythema and induration at the heparin injection sites. Routine surveillance bilateral lower extremity venous duplex ultrasound demonstrates a new, non-occlusive deep vein thrombosis in the right common femoral vein. Calculation of the 4T score reveals a score of 7 (high probability for heparin-induced thrombocytopenia). Serum anti-platelet factor 4 (PF4)-heparin ELISA is sent. Which of the following is the most appropriate immediate medical management?",
+    "options": [
+      {
+        "text": "Discontinue all heparin products immediately, including flushes, and initiate a non-heparin direct thrombin inhibitor such as argatroban or bivalirudin",
+        "correct": true,
+        "explanation": "HEPARIN-INDUCED THROMBOCYTOPENIA TYPE II (HIT) is an immune-mediated prothrombotic disorder caused by IgG antibodies directed against complexes of PLATELET FACTOR 4 (PF4) AND HEPARIN. The IgG-PF4-heparin immune complexes bind to Fc-gamma-RIIA receptors on platelets, causing massive platelet activation, aggregation, consumptive thrombocytopenia (typically a >= 50% drop in platelet count occurring 5-10 days after heparin exposure), and intense thrombin generation leading to PARADOXICAL ARTERIAL AND VENOUS THROMBOSIS (HITT / 'white clot syndrome'). In patients with a high clinical probability (4T score 6-8), management requires: (1) IMMEDIATE DISCONTINUATION OF ALL HEPARIN PRODUCTS (including subcutaneous heparin, LMWH, and heparin flushes for arterial/venous lines); and (2) IMMEDIATE INITIATION OF AN ALTERNATIVE NON-HEPARIN ANTICOAGULANT, specifically a parenteral DIRECT THROMBIN INHIBITOR (ARGATROBAN or BIVALIRUDIN). Simply stopping heparin without alternative anticoagulation carries a 30-50% risk of catastrophic thrombosis within 30 days."
+      },
+      {
+        "text": "Discontinue unfractionated heparin and immediately switch to subcutaneous therapeutic low-molecular-weight heparin (enoxaparin)",
+        "correct": false,
+        "explanation": "Low-molecular-weight heparins exhibit >95% cross-reactivity with HIT antibodies and will trigger fulminant thrombosis; LMWH is strictly contraindicated in HIT."
+      },
+      {
+        "text": "Immediately initiate high-dose oral warfarin monotherapy while continuing heparin until INR reaches 2.5",
+        "correct": false,
+        "explanation": "Starting warfarin acutely in HIT is strictly contraindicated because rapid depletion of protein C (short half-life) produces a severe hypercoagulable state leading to venous limb gangrene and skin necrosis."
+      },
+      {
+        "text": "Transfuse 2 pools of platelets immediately to maintain platelet count above 100,000/uL before starting anticoagulation",
+        "correct": false,
+        "explanation": "Platelet transfusions are contraindicated in HIT because transfused platelets provide substrate for PF4 antibodies, accelerating thrombosis."
+      },
+      {
+        "text": "Continue subcutaneous heparin at the current dose until the anti-PF4 ELISA assay result is formally finalized",
+        "correct": false,
+        "explanation": "Waiting for laboratory confirmation before stopping heparin in a patient with a high 4T score and new thrombosis carries an unacceptably high risk of limb loss or fatal PE."
+      }
+    ],
+    "explanation": "HEPARIN-INDUCED THROMBOCYTOPENIA TYPE II (HIT) is an immune-mediated prothrombotic disorder caused by IgG antibodies directed against complexes of PLATELET FACTOR 4 (PF4) AND HEPARIN. The IgG-PF4-heparin immune complexes bind to Fc-gamma-RIIA receptors on platelets, causing massive platelet activation, aggregation, consumptive thrombocytopenia (typically a >= 50% drop in platelet count occurring 5-10 days after heparin exposure), and intense thrombin generation leading to PARADOXICAL ARTERIAL AND VENOUS THROMBOSIS (HITT / 'white clot syndrome'). In patients with a high clinical probability (4T score 6-8), management requires: (1) IMMEDIATE DISCONTINUATION OF ALL HEPARIN PRODUCTS (including subcutaneous heparin, LMWH, and heparin flushes for arterial/venous lines); and (2) IMMEDIATE INITIATION OF AN ALTERNATIVE NON-HEPARIN ANTICOAGULANT, specifically a parenteral DIRECT THROMBIN INHIBITOR (ARGATROBAN or BIVALIRUDIN). Simply stopping heparin without alternative anticoagulation carries a 30-50% risk of catastrophic thrombosis within 30 days. Platelets drop > 50% 5-10 days post-heparin + new DVT = HIT. Discontinue ALL heparin + start Direct Thrombin Inhibitor (Argatroban). NO warfarin or LMWH!",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Heparin-Induced Thrombocytopenia 4T Score and Direct Thrombin Inhibitors.",
+    "keyPoints": [
+      "Heparin-Induced Thrombocytopenia 4T Score and Direct Thrombin Inhibitors",
+      "Platelets drop > 50% 5-10 days post-heparin + new DVT = HIT. Discontinue ALL heparin + start Direct Thrombin Inhibitor (Argatroban). NO warfarin or LMWH!"
+    ],
+    "references": [
+      {
+        "label": "Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia. Blood Adv. 2018;2(22):3360-3392. PMID: 30482768.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30482768/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0822",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Disseminated Intravascular Coagulation Supportive Transfusion Targets",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old woman with acute promyelocytic leukemia undergoing induction therapy develops severe epistaxis, diffuse venipuncture site oozing, and hematuria. Vital signs: blood pressure 104/68 mm Hg, heart rate 112/min, and temperature 37.8 C. Complete blood count reveals: hemoglobin 6.8 g/dL, platelet count 18,000/uL, and white blood cell count 3,200/uL. Coagulation profile demonstrates fulminant disseminated intravascular coagulation (DIC): prothrombin time (PT) 26 seconds (INR 2.4), activated partial thromboplastin time (aPTT) 58 seconds, fibrinogen profoundly depleted at 65 mg/dL (normal 200-400 mg/dL), and D-dimer markedly elevated at 22 ug/mL. In addition to prompt initiation of all-trans retinoic acid (ATRA), which of the following blood product transfusion strategies is indicated to correct this consumptive coagulopathy?",
+    "options": [
+      {
+        "text": "Administer high-dose intravenous tranexamic acid monotherapy without blood component transfusions",
+        "correct": false,
+        "explanation": "Antifibrinolytics (tranexamic acid, aminocaproic acid) in DIC carry a high risk of fatal thrombotic occlusion and are generally contraindicated in APL coagulopathy."
+      },
+      {
+        "text": "Transfuse cryoprecipitate to maintain fibrinogen above 150 mg/dL, platelets to maintain count above 50,000/uL, and fresh frozen plasma for prolonged PT/aPTT",
+        "correct": true,
+        "explanation": "DISSEMINATED INTRAVASCULAR COAGULATION (DIC) in acute promyelocytic leukemia (APL) is driven by the release of tissue factor and annexin II from leukemic promyelocytes, causing massive, uncontrolled generation of thrombin and plasmin with rapid consumption of platelets and clotting factors. In actively bleeding patients with DIC, aggressive SUPPORTIVE BLOOD PRODUCT TRANSFUSION is essential: (1) CRYOPRECIPITATE: The primary source of concentrated fibrinogen, factor VIII, and vWF; transfuse to MAINTAIN FIBRINOGEN > 150 mg/dL (fibrinogen < 100 mg/dL carries an extreme risk of fatal intracranial hemorrhage); (2) PLATELET TRANSFUSION: Transfuse to MAINTAIN PLATELET COUNT > 50,000/uL in actively bleeding patients; (3) FRESH FROZEN PLASMA (FFP): Transfuse (15-20 mL/kg) to correct prolonged PT/INR and aPTT; and (4) PACKED RED BLOOD CELLS to maintain hemoglobin > 7-8 g/dL."
+      },
+      {
+        "text": "Transfuse uncrossed whole blood exclusively while withholding fresh frozen plasma and cryoprecipitate",
+        "correct": false,
+        "explanation": "Whole blood does not provide adequate concentrations of rapidly consumed fibrinogen and platelets compared to targeted component therapy with cryoprecipitate and platelets."
+      },
+      {
+        "text": "Initiate therapeutic intravenous unfractionated heparin infusion targeting a full anticoagulation aPTT",
+        "correct": false,
+        "explanation": "While low-dose heparin was historically considered in prothrombotic DIC, therapeutic anticoagulation in actively bleeding DIC with severe thrombocytopenia causes fatal hemorrhage."
+      },
+      {
+        "text": "Administer recombinant activated factor VII (rFVIIa) as first-line monotherapy without replacing fibrinogen",
+        "correct": false,
+        "explanation": "Recombinant factor VIIa cannot generate stable fibrin clots in the absence of adequate substrate (fibrinogen) and dramatically increases arterial thrombosis."
+      }
+    ],
+    "explanation": "DISSEMINATED INTRAVASCULAR COAGULATION (DIC) in acute promyelocytic leukemia (APL) is driven by the release of tissue factor and annexin II from leukemic promyelocytes, causing massive, uncontrolled generation of thrombin and plasmin with rapid consumption of platelets and clotting factors. In actively bleeding patients with DIC, aggressive SUPPORTIVE BLOOD PRODUCT TRANSFUSION is essential: (1) CRYOPRECIPITATE: The primary source of concentrated fibrinogen, factor VIII, and vWF; transfuse to MAINTAIN FIBRINOGEN > 150 mg/dL (fibrinogen < 100 mg/dL carries an extreme risk of fatal intracranial hemorrhage); (2) PLATELET TRANSFUSION: Transfuse to MAINTAIN PLATELET COUNT > 50,000/uL in actively bleeding patients; (3) FRESH FROZEN PLASMA (FFP): Transfuse (15-20 mL/kg) to correct prolonged PT/INR and aPTT; and (4) PACKED RED BLOOD CELLS to maintain hemoglobin > 7-8 g/dL. Active bleeding in DIC = Cryoprecipitate (target fibrinogen > 150) + Platelets (target > 50k) + FFP (for PT/aPTT) + treat underlying cause.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Disseminated Intravascular Coagulation Supportive Transfusion Targets.",
+    "keyPoints": [
+      "Disseminated Intravascular Coagulation Supportive Transfusion Targets",
+      "Active bleeding in DIC = Cryoprecipitate (target fibrinogen > 150) + Platelets (target > 50k) + FFP (for PT/aPTT) + treat underlying cause."
+    ],
+    "references": [
+      {
+        "label": "Wada H, Matsumoto T, Yamashita Y. Diagnosis and treatment of disseminated intravascular coagulation (DIC) according to four DIC guidelines. J Intensive Care. 2014;2(1):15. PMID: 25520831.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25520831/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0823",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Septic Shock Resuscitation Bundle and First-Line Vasopressor Norepinephrine",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 72-year-old woman is brought to the emergency department from an assisted living facility with altered mental status, fever (39.1 C), shaking chills, and productive cough. On examination, she is lethargic, skin is warm with flushed extremities, and right lower lobe bronchial breath sounds are present. Vital signs: blood pressure 76/42 mm Hg, heart rate 126/min, respiratory rate 32/min, and oxygen saturation 90% on ambient air. Laboratory evaluation reveals: white blood cell count 24,500/uL with 18% band forms, serum lactate 4.8 mmol/L, and arterial blood gas demonstrates metabolic acidosis. Two sets of blood cultures are drawn. Immediate intravenous administration of 30 mL/kg of balanced crystalloid (Lactated Ringer, total 2,100 mL) is completed over 45 minutes, but her repeat blood pressure remains 78/46 mm Hg (mean arterial pressure 57 mm Hg). Which of the following is the most appropriate next step in management to restore perfusion pressure?",
+    "options": [
+      {
+        "text": "Initiate a continuous intravenous infusion of dopamine as the preferred first-line vasopressor",
+        "correct": false,
+        "explanation": "Dopamine was proven in randomized trials to cause significantly more tachyarrhythmias and increased mortality in septic shock compared to norepinephrine."
+      },
+      {
+        "text": "Administer an immediate bolus of 500 mL of 6% hydroxyethyl starch colloid solution",
+        "correct": false,
+        "explanation": "Hydroxyethyl starch (HES) artificial colloids cause acute kidney injury, increased requirement for renal replacement therapy, and increased mortality in sepsis."
+      },
+      {
+        "text": "Initiate a continuous intravenous infusion of norepinephrine titrated to maintain mean arterial pressure >= 65 mm Hg",
+        "correct": true,
+        "explanation": "This patient has SEPTIC SHOCK, defined by the Surviving Sepsis Campaign as sepsis complicated by PERSISTENT HYPOTENSION requiring vasopressors to maintain a mean arterial pressure (MAP) >= 65 mm Hg AND a serum lactate > 2 mmol/L despite adequate fluid resuscitation. Management requires rapid adherence to the 1-hour bundle: (1) Measure lactate; (2) Obtain blood cultures BEFORE antibiotics; (3) Administer broad-spectrum intravenous antibiotics within 1 hour; (4) Administer 30 mL/kg of crystalloid fluid for hypotension or lactate >= 4; and (5) INITIATE NOREPINEPHRINE AS THE FIRST-LINE VASOPRESSOR if fluid resuscitation fails to achieve MAP >= 65 mm Hg. Norepinephrine provides potent alpha-1 vasoconstriction (restoring systemic vascular resistance) with modest beta-1 inotropic and chronotropic support, reversing vasodilation without excessive arrhythmogenicity. Vasopressin or epinephrine can be added as second-line agents if norepinephrine requirements escalate."
+      },
+      {
+        "text": "Initiate intravenous phenylephrine monotherapy to achieve pure arterial vasoconstriction",
+        "correct": false,
+        "explanation": "Phenylephrine lacks beta-1 inotropic activity and can reflexively drop stroke volume and cardiac output; it is strictly a salvage agent when arrhythmias occur."
+      },
+      {
+        "text": "Infuse 3 additional liters of normal saline before considering any vasopressor initiation",
+        "correct": false,
+        "explanation": "Delaying vasopressors in persistent septic shock increases mortality; vasopressors should be started early if 30 mL/kg crystalloid fails to restore MAP."
+      }
+    ],
+    "explanation": "This patient has SEPTIC SHOCK, defined by the Surviving Sepsis Campaign as sepsis complicated by PERSISTENT HYPOTENSION requiring vasopressors to maintain a mean arterial pressure (MAP) >= 65 mm Hg AND a serum lactate > 2 mmol/L despite adequate fluid resuscitation. Management requires rapid adherence to the 1-hour bundle: (1) Measure lactate; (2) Obtain blood cultures BEFORE antibiotics; (3) Administer broad-spectrum intravenous antibiotics within 1 hour; (4) Administer 30 mL/kg of crystalloid fluid for hypotension or lactate >= 4; and (5) INITIATE NOREPINEPHRINE AS THE FIRST-LINE VASOPRESSOR if fluid resuscitation fails to achieve MAP >= 65 mm Hg. Norepinephrine provides potent alpha-1 vasoconstriction (restoring systemic vascular resistance) with modest beta-1 inotropic and chronotropic support, reversing vasodilation without excessive arrhythmogenicity. Vasopressin or epinephrine can be added as second-line agents if norepinephrine requirements escalate. Septic shock refractory to 30 mL/kg fluid bolus (MAP < 65, lactate > 2) = Initiate Norepinephrine infusion (target MAP >= 65 mm Hg).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Septic Shock Resuscitation Bundle and First-Line Vasopressor Norepinephrine.",
+    "keyPoints": [
+      "Septic Shock Resuscitation Bundle and First-Line Vasopressor Norepinephrine",
+      "Septic shock refractory to 30 mL/kg fluid bolus (MAP < 65, lactate > 2) = Initiate Norepinephrine infusion (target MAP >= 65 mm Hg)."
+    ],
+    "references": [
+      {
+        "label": "Evans L, Rhodes A, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Intensive Care Med. 2021;47(11):1181-1247. PMID: 34599691.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34599691/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0824",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Acute Bacterial Meningitis Dexamethasone Timing and Neurological Protection",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old previously healthy man presents to the emergency department with a 12-hour history of severe headache, high fever, photophobia, and confusion. Physical examination reveals an acutely ill, lethargic man with marked nuchal rigidity; flexion of the neck causes involuntary flexion of the hips and knees (positive Brudzinski sign). Vital signs: blood pressure 138/84 mm Hg, heart rate 108/min, and temperature 39.4 C. Neurological examination reveals no focal deficits, and non-contrast head CT demonstrates normal ventricular size without mass lesion, midline shift, or signs of elevated intracranial pressure. Diagnostic lumbar puncture is performed promptly. Opening pressure is elevated at 320 mm H2O. CSF analysis reveals cloudy fluid with 3,400 white blood cells/uL (92% neutrophils), protein 380 mg/dL, and glucose 18 mg/dL (serum glucose 110 mg/dL, CSF-to-serum ratio 0.16). Gram stain reveals Gram-positive lancet-shaped diplococci consistent with Streptococcus pneumoniae. Which of the following principles governs the timing of adjunctive dexamethasone administration in this patient?",
+    "options": [
+      {
+        "text": "Administer dexamethasone only after 48 hours of parenteral antibiotic therapy to avoid suppressing early bacterial clearance",
+        "correct": false,
+        "explanation": "Giving steroids after 48 hours is completely ineffective; the therapeutic window to prevent cytokine-mediated inflammatory damage is before or at the time of antibiotic lysis."
+      },
+      {
+        "text": "Withhold all corticosteroids until formal antibiotic susceptibility testing confirms penicillin-susceptible pneumococcus",
+        "correct": false,
+        "explanation": "Delaying dexamethasone pending susceptibility results eliminates its neuroprotective efficacy and increases hearing loss and mortality."
+      },
+      {
+        "text": "Administer dexamethasone only if the patient develops acute papilledema or signs of cerebral herniation",
+        "correct": false,
+        "explanation": "Dexamethasone is given as preemptive anti-inflammatory prophylaxis in suspected pneumococcal meningitis, not as emergency rescue therapy for uncal herniation."
+      },
+      {
+        "text": "Administer intravenous dexamethasone prior to or concurrently with the first dose of antimicrobial therapy to prevent hearing loss and mortality",
+        "correct": true,
+        "explanation": "ACUTE BACTERIAL MENINGITIS caused by Streptococcus pneumoniae is associated with severe mortality and long-term neurological sequelae, especially SENSORINEURAL HEARING LOSS. When bactericidal antibiotics lyse bacteria in the subarachnoid space, the release of cell wall components (teichoic acid, peptidoglycan) provokes a MASSIVE SECONDARY INFLAMMATORY RESPONSE mediated by TNF-alpha, IL-1, and subarachnoid neutrophils. This inflammation exacerbates cerebral edema, intracranial hypertension, and cochlear damage. Landmark clinical trials established that ADJUNCTIVE INTRAVENOUS DEXAMETHASONE (10 mg IV every 6 hours for 4 days) significantly reduces hearing loss and mortality in pneumococcal meningitis. Crucially, DEXAMETHASONE MUST BE GIVEN PRIOR TO OR CONCURRENTLY WITH THE FIRST DOSE OF ANTIBIOTICS. If given after antibiotics, the inflammatory cascade has already been triggered, and dexamethasone provides NO BENEFIT."
+      },
+      {
+        "text": "Dexamethasone is strictly contraindicated in all forms of bacterial meningitis due to risk of worsening bacteremia",
+        "correct": false,
+        "explanation": "Dexamethasone is standard-of-care in high-income countries for pneumococcal meningitis, endorsed by IDSA guidelines for demonstrated reduction in mortality and hearing loss."
+      }
+    ],
+    "explanation": "ACUTE BACTERIAL MENINGITIS caused by Streptococcus pneumoniae is associated with severe mortality and long-term neurological sequelae, especially SENSORINEURAL HEARING LOSS. When bactericidal antibiotics lyse bacteria in the subarachnoid space, the release of cell wall components (teichoic acid, peptidoglycan) provokes a MASSIVE SECONDARY INFLAMMATORY RESPONSE mediated by TNF-alpha, IL-1, and subarachnoid neutrophils. This inflammation exacerbates cerebral edema, intracranial hypertension, and cochlear damage. Landmark clinical trials established that ADJUNCTIVE INTRAVENOUS DEXAMETHASONE (10 mg IV every 6 hours for 4 days) significantly reduces hearing loss and mortality in pneumococcal meningitis. Crucially, DEXAMETHASONE MUST BE GIVEN PRIOR TO OR CONCURRENTLY WITH THE FIRST DOSE OF ANTIBIOTICS. If given after antibiotics, the inflammatory cascade has already been triggered, and dexamethasone provides NO BENEFIT. Streptococcus pneumoniae meningitis = Dexamethasone PRIOR TO or WITH first antibiotic dose (prevents hearing loss & mortality).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acute Bacterial Meningitis Dexamethasone Timing and Neurological Protection.",
+    "keyPoints": [
+      "Acute Bacterial Meningitis Dexamethasone Timing and Neurological Protection",
+      "Streptococcus pneumoniae meningitis = Dexamethasone PRIOR TO or WITH first antibiotic dose (prevents hearing loss & mortality)."
+    ],
+    "references": [
+      {
+        "label": "de Gans J, van de Beek D. Dexamethasone in adults with bacterial meningitis. N Engl J Med. 2002;347(20):1549-1556. PMID: 12432041.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12432041/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s2-0825",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Neutropenic Fever High-Risk Monotherapy Cefepime or Piperacillin-Tazobactam",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old man undergoing intensive consolidation chemotherapy for acute myeloid leukemia presents to the emergency department on hospital day 10 with a sudden-onset fever of 38.9 C (102.0 F) and shaking chills. He feels fatigued but has no cough, shortness of breath, headache, abdominal pain, diarrhea, dysuria, or catheter-site erythema. Vital signs: blood pressure 114/72 mm Hg, heart rate 104/min, and respiratory rate 18/min. Physical examination is completely unrevealing; the indwelling central venous catheter exit site is clean without tenderness or discharge. Complete blood count reveals: white blood cell count 600/uL, with 20% neutrophils and 10% band forms (absolute neutrophil count [ANC] = 180/uL, severe neutropenia), hemoglobin 8.4 g/dL, and platelet count 32,000/uL. Two sets of blood cultures (one peripheral, one from central line) are drawn immediately. Which of the following is the most appropriate initial empiric antimicrobial management?",
+    "options": [
+      {
+        "text": "Oral ciprofloxacin and amoxicillin-clavulanate outpatient therapy with routine follow-up in 48 hours",
+        "correct": false,
+        "explanation": "Oral outpatient therapy (MASCC score >= 21) is strictly reserved for low-risk outpatients with brief expected neutropenia (<7 days); AML consolidation is high-risk and requires inpatient IV therapy."
+      },
+      {
+        "text": "Routine addition of intravenous vancomycin and amphotericin B to initial empiric therapy in all patients",
+        "correct": false,
+        "explanation": "Routine upfront vancomycin and empiric antifungal therapy are not indicated initially; antifungal therapy is added only if fever persists after 4-7 days of broad-spectrum antibiotics."
+      },
+      {
+        "text": "Withholding all antimicrobial therapy until blood cultures identify the specific causal organism",
+        "correct": false,
+        "explanation": "Withholding antibiotics in neutropenic fever until cultures turn positive carries a mortality approaching 70% in Pseudomonas bacteremia."
+      },
+      {
+        "text": "Subcutaneous granulocyte colony-stimulating factor (G-CSF) monotherapy without antibiotics",
+        "correct": false,
+        "explanation": "G-CSF stimulates myeloid recovery over days, but provides zero immediate antibacterial activity; antibiotics are mandatory to prevent septic death."
+      },
+      {
+        "text": "Immediate intravenous monotherapy with an antipseudomonal beta-lactam such as cefepime, piperacillin-tazobactam, or meropenem within 60 minutes",
+        "correct": true,
+        "explanation": "NEUTROPENIC FEVER (defined as a single oral temperature >= 38.3 C / 101.0 F or >= 38.0 C / 100.4 F sustained over 1 hour, in a patient with an ANC < 500/uL or expected to fall < 500/uL within 48 hours) is a life-threatening medical emergency. Neutropenic patients lack the capacity to mount a robust inflammatory response (no pus, erythema, or localizing signs). Infection can rapidly progress to fulminant Pseudomonas aeruginosa septic shock and death within hours. Guideline-directed management mandates IMMEDIATE INTRAVENOUS EMPIRIC MONOTHERAPY WITH AN ANTIPSEUDOMONAL BETA-LACTAM (CEFEPIME, PIPERACILLIN-TAZOBACTAM, or MEROPENEM) administered within 60 minutes of presentation. Vancomycin is NOT routinely indicated in initial empiric therapy unless specific criteria are met (catheter-site infection, hemodynamic instability, MRSA colonization, or severe mucosal damage)."
+      }
+    ],
+    "explanation": "NEUTROPENIC FEVER (defined as a single oral temperature >= 38.3 C / 101.0 F or >= 38.0 C / 100.4 F sustained over 1 hour, in a patient with an ANC < 500/uL or expected to fall < 500/uL within 48 hours) is a life-threatening medical emergency. Neutropenic patients lack the capacity to mount a robust inflammatory response (no pus, erythema, or localizing signs). Infection can rapidly progress to fulminant Pseudomonas aeruginosa septic shock and death within hours. Guideline-directed management mandates IMMEDIATE INTRAVENOUS EMPIRIC MONOTHERAPY WITH AN ANTIPSEUDOMONAL BETA-LACTAM (CEFEPIME, PIPERACILLIN-TAZOBACTAM, or MEROPENEM) administered within 60 minutes of presentation. Vancomycin is NOT routinely indicated in initial empiric therapy unless specific criteria are met (catheter-site infection, hemodynamic instability, MRSA colonization, or severe mucosal damage). Fever + ANC < 500 (neutropenic fever) = Immediate IV Antipseudomonal Beta-lactam (Cefepime or Pip-Tazo) within 60 minutes.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Neutropenic Fever High-Risk Monotherapy Cefepime or Piperacillin-Tazobactam.",
+    "keyPoints": [
+      "Neutropenic Fever High-Risk Monotherapy Cefepime or Piperacillin-Tazobactam",
+      "Fever + ANC < 500 (neutropenic fever) = Immediate IV Antipseudomonal Beta-lactam (Cefepime or Pip-Tazo) within 60 minutes."
+    ],
+    "references": [
+      {
+        "label": "Freifeld AG, Bow EJ, Sepkowitz KA, et al. Clinical practice guideline for the use of antimicrobial agents in neutropenic patients with cancer: 2010 update by the Infectious Diseases Society of America. Clin Infect Dis. 2011;52(4):e56-e93. PMID: 21258094.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21258094/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

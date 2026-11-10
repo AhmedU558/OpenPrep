@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s3-0401",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD)",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man with stage 4 chronic kidney disease secondary to diabetic nephropathy (estimated GFR 22 mL/min/1.73 m2, baseline serum creatinine 2.8 mg/dL) presents for a routine chronic disease management visit. He has a history of coronary artery disease with prior coronary artery bypass grafting 4 years ago and peripheral artery disease. He is completely asymptomatic and adheres to an angiotensin receptor blocker, an SGLT2 inhibitor, and atorvastatin. Vital signs demonstrate blood pressure of 128/78 mm Hg and heart rate of 72/min. Physical examination reveals clear lungs, normal cardiac auscultation, and trace bilateral pretibial edema. Laboratory evaluation reveals:\n- Serum phosphate: 6.2 mg/dL (elevated; normal 2.5 to 4.5 mg/dL)\n- Serum corrected calcium: 9.8 mg/dL (normal 8.5 to 10.2 mg/dL)\n- Intact parathyroid hormone (PTH): 280 pg/mL (elevated; KDIGO target for non-dialysis CKD stage 4 is maintaining trends, baseline was 140 pg/mL 6 months ago)\n- Serum 25-hydroxyvitamin D: 32 ng/mL (normal > 30 ng/mL)\n- 24-hour urine protein: 1.8 g\n\nNutritional counseling regarding dietary phosphate restriction (limiting processed foods, colas, and inorganic phosphates) is reinforced. Which of the following represents the most appropriate initial pharmacological therapy to treat this patient's hyperphosphatemia?",
+    "options": [
+      {
+        "text": "Oral sevelamer carbonate (800 mg three times daily with meals), a non-calcium-based phosphate binder, to prevent progressive arterial and cardiovascular calcification",
+        "correct": true,
+        "explanation": "Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD) is characterized by impaired phosphate excretion, hypocalcemia, decreased active 1,25-dihydroxyvitamin D synthesis (due to loss of renal 1-alpha-hydroxylase), and secondary hyperparathyroidism. (1) PATHOPHYSIOLOGY OF PHOSPHATE RETENTION: As GFR declines below 30-40 mL/min, urinary phosphate excretion reaches maximal capacity despite elevated Fibroblast Growth Factor-23 (FGF-23) and PTH, leading to frank hyperphosphatemia. Extracellular phosphate binds serum calcium, forming insoluble calcium-phosphate nanocrystals that deposit within arterial medial layers (Mönckeberg medial calcific sclerosis) and cardiac valves, dramatically accelerating cardiovascular mortality. (2) PHOSPHATE BINDER SELECTION (KDIGO GUIDELINES): KDIGO guidelines recommend maintaining serum phosphate toward normal and EXPLICITLY RECOMMEND RESTRICTING THE USE OF CALCIUM-BASED PHOSPHATE BINDERS (such as calcium carbonate or calcium acetate). In patients with pre-existing coronary artery disease, vascular calcification, or normal/high-normal serum calcium, calcium-based binders provide an excessive exogenous calcium load, promoting coronary and systemic vascular calcification and increasing cardiovascular events. (3) SEVELAMER CARBONATE: A non-absorbable, non-calcium-based polymer that binds phosphate anions in the gastrointestinal tract via ion exchange, safely eliminating phosphate in feces without increasing serum calcium or total body calcium balance. It is the preferred phosphate binder for hyperphosphatemic CKD patients with known cardiovascular disease or calcification."
+      },
+      {
+        "text": "Oral calcium acetate (667 mg two tablets three times daily with meals) to bind dietary phosphate and suppress parathyroid hormone",
+        "correct": false,
+        "explanation": "Calcium-based binders provide a substantial elemental calcium load that accelerates coronary artery and vascular calcification, which is especially hazardous in a patient with pre-existing bypass graft disease and stage 4 CKD."
+      },
+      {
+        "text": "Oral calcitriol (1,25-dihydroxyvitamin D, 0.5 mcg daily) monotherapy without phosphate binders",
+        "correct": false,
+        "explanation": "Calcitriol increases active intestinal absorption of BOTH calcium and phosphate; administering calcitriol in the setting of hyperphosphatemia (phosphate 6.2 mg/dL) will exacerbate phosphate retention and precipitate systemic metastatic calcification."
+      },
+      {
+        "text": "Oral cinacalcet 30 mg daily to directly suppress parathyroid calcium-sensing receptors",
+        "correct": false,
+        "explanation": "Cinacalcet (a calcimimetic) is approved and indicated for secondary hyperparathyroidism in patients on maintenance dialysis (CKD stage 5D); it is not approved for non-dialysis CKD stage 4 due to severe hypocalcemia risks."
+      },
+      {
+        "text": "Initiate oral aluminum hydroxide antacids with meals for long-term phosphate binding",
+        "correct": false,
+        "explanation": "Aluminum-based binders cause severe progressive aluminum accumulation in advanced CKD, resulting in fatal aluminum neurotoxicity (dialysis encephalopathy), microcytic anemia, and osteomalacia; they are strictly contraindicated for chronic use."
+      }
+    ],
+    "explanation": "Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD) is characterized by impaired phosphate excretion, hypocalcemia, decreased active 1,25-dihydroxyvitamin D synthesis (due to loss of renal 1-alpha-hydroxylase), and secondary hyperparathyroidism. (1) PATHOPHYSIOLOGY OF PHOSPHATE RETENTION: As GFR declines below 30-40 mL/min, urinary phosphate excretion reaches maximal capacity despite elevated Fibroblast Growth Factor-23 (FGF-23) and PTH, leading to frank hyperphosphatemia. Extracellular phosphate binds serum calcium, forming insoluble calcium-phosphate nanocrystals that deposit within arterial medial layers (Mönckeberg medial calcific sclerosis) and cardiac valves, dramatically accelerating cardiovascular mortality. (2) PHOSPHATE BINDER SELECTION (KDIGO GUIDELINES): KDIGO guidelines recommend maintaining serum phosphate toward normal and EXPLICITLY RECOMMEND RESTRICTING THE USE OF CALCIUM-BASED PHOSPHATE BINDERS (such as calcium carbonate or calcium acetate). In patients with pre-existing coronary artery disease, vascular calcification, or normal/high-normal serum calcium, calcium-based binders provide an excessive exogenous calcium load, promoting coronary and systemic vascular calcification and increasing cardiovascular events. (3) SEVELAMER CARBONATE: A non-absorbable, non-calcium-based polymer that binds phosphate anions in the gastrointestinal tract via ion exchange, safely eliminating phosphate in feces without increasing serum calcium or total body calcium balance. It is the preferred phosphate binder for hyperphosphatemic CKD patients with known cardiovascular disease or calcification. Stage 4 CKD patient with CAD and hyperphosphatemia requires non-calcium phosphate binder (sevelamer carbonate) with meals; avoid calcium acetate to prevent progressive arterial calcification.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD).",
+    "keyPoints": [
+      "Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD)",
+      "Stage 4 CKD patient with CAD and hyperphosphatemia requires non-calcium phosphate binder (sevelamer carbonate) with meals; avoid calcium acetate to prevent progressive arterial cal"
+    ],
+    "references": [
+      {
+        "label": "Ketteler M, Block GA, Evenepoel P, et al. Executive summary of the 2017 KDIGO Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD) Guideline Update: what's changed and why it matters. Kidney Int. 2017;92(1):26-36. PMID: 28646995.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28646995/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0402",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Resistant Hypertension and the PATHWAY-2 Trial",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old man presents to the clinic for follow-up of hypertension. Over the past 6 months, his clinic blood pressures have remained elevated despite documented strict adherence to maximum tolerated doses of three antihypertensive agents from different classes: amlodipine 10 mg daily (calcium channel blocker), lisinopril 40 mg daily (ACE inhibitor), and chlorthalidone 25 mg daily (thiazide-like diuretic). He tracks his blood pressure at home with a validated automated oscillometric cuff, recording average morning and evening readings of 154/94 mm Hg. He adheres to a low-sodium diet (< 2 g daily) verified by a 24-hour urinary sodium excretion of 82 mEq. He drinks no alcohol, takes no NSAIDs or decongestants, and has a normal overnight polysomnography ruling out obstructive sleep apnea. Vital signs in the clinic demonstrate blood pressure of 152/92 mm Hg in the right arm and 150/94 mm Hg in the left arm, with a heart rate of 70/min. Physical examination is normal with no abdominal bruits. Laboratory evaluation reveals:\n- Serum sodium: 140 mEq/L\n- Serum potassium: 4.1 mEq/L (normal 3.5 to 5.0 mEq/L)\n- Serum creatinine: 0.9 mg/dL (estimated GFR > 90 mL/min/1.73 m2)\n- Plasma aldosterone-to-renin ratio (ARR): 14 (normal < 20, ruling out primary hyperaldosteronism)\n\nBased on landmark randomized clinical trial evidence (the PATHWAY-2 trial), which of the following represents the most effective fourth-line antihypertensive agent to achieve blood pressure control in this patient?",
+    "options": [
+      {
+        "text": "Oral metoprolol tartrate 50 mg twice daily as a fourth-line sympatholytic agent",
+        "correct": false,
+        "explanation": "The PATHWAY-2 trial proved that beta-blockade (bisoprolol) is significantly inferior to spironolactone for lowering blood pressure in resistant hypertension because the primary driver is mineralocorticoid-mediated sodium retention, not sympathetic tone."
+      },
+      {
+        "text": "Oral spironolactone (25 mg once daily, titrating to 50 mg daily as tolerated while monitoring serum potassium and creatinine)",
+        "correct": true,
+        "explanation": "Resistant Hypertension is defined as blood pressure that remains above goal (>= 130/80 mm Hg) despite concurrent adherence to optimal or maximally tolerated doses of THREE antihypertensive drug classes, one of which must be a DIURETIC (the classic triple regimen: ACEi/ARB + CCB + thiazide/thiazide-like diuretic). (1) PATHOPHYSIOLOGY OF RESISTANT HYPERTENSION: The predominant pathophysiologic driver of resistant hypertension is INAPPARENT FLUID RETENTION AND EXTRACELLULAR SODIUM OVERLOAD, mediated by persistent subtle aldosterone excess or enhanced mineralocorticoid receptor sensitivity, despite thiazide diuretic therapy. (2) LANDMARK EVIDENCE (THE PATHWAY-2 TRIAL, LANCET 2015): The double-blind, randomized, crossover PATHWAY-2 trial directly compared four fourth-line strategies in patients with confirmed resistant hypertension: spironolactone (25-50 mg daily), bisoprolol (beta-blocker), doxazosin (alpha-1 blocker), and placebo. Spironolactone was overwhelmingly superior to all other agents, reducing home systolic blood pressure by an additional 8.7 mm Hg compared to placebo and by 4.5 mm Hg compared to bisoprolol and doxazosin, achieving blood pressure control in nearly 60% of patients. (3) CLINICAL APPLICATION: AHA/ACC guidelines mandate SPIRONOLACTONE (or eplerenone if gynecomastia occurs) as the preferred fourth-line agent for resistant hypertension in patients with estimated GFR > 30-45 mL/min and baseline serum potassium < 4.5-5.0 mEq/L, with serial monitoring of potassium and creatinine at 1 and 4 weeks post-initiation."
+      },
+      {
+        "text": "Oral doxazosin 4 mg daily as an alpha-1 adrenergic antagonist",
+        "correct": false,
+        "explanation": "Doxazosin was directly tested against spironolactone in PATHWAY-2 and was significantly inferior in blood pressure reduction and control rates; spironolactone is the definitive fourth-line choice."
+      },
+      {
+        "text": "Oral clonidine 0.1 mg three times daily as a centrally acting alpha-2 agonist",
+        "correct": false,
+        "explanation": "Clonidine carries high rates of central adverse effects (sedation, dry mouth, depression) and severe life-threatening rebound hypertension upon missed doses; spironolactone is superior and safer."
+      },
+      {
+        "text": "Oral hydralazine 50 mg three times daily as a direct arteriolar vasodilator",
+        "correct": false,
+        "explanation": "Direct vasodilators trigger reflex sympathetic tachycardia and profound secondary renal sodium retention, requiring high diuretic doses; hydralazine is fifth-line after aldosterone antagonists."
+      }
+    ],
+    "explanation": "Resistant Hypertension is defined as blood pressure that remains above goal (>= 130/80 mm Hg) despite concurrent adherence to optimal or maximally tolerated doses of THREE antihypertensive drug classes, one of which must be a DIURETIC (the classic triple regimen: ACEi/ARB + CCB + thiazide/thiazide-like diuretic). (1) PATHOPHYSIOLOGY OF RESISTANT HYPERTENSION: The predominant pathophysiologic driver of resistant hypertension is INAPPARENT FLUID RETENTION AND EXTRACELLULAR SODIUM OVERLOAD, mediated by persistent subtle aldosterone excess or enhanced mineralocorticoid receptor sensitivity, despite thiazide diuretic therapy. (2) LANDMARK EVIDENCE (THE PATHWAY-2 TRIAL, LANCET 2015): The double-blind, randomized, crossover PATHWAY-2 trial directly compared four fourth-line strategies in patients with confirmed resistant hypertension: spironolactone (25-50 mg daily), bisoprolol (beta-blocker), doxazosin (alpha-1 blocker), and placebo. Spironolactone was overwhelmingly superior to all other agents, reducing home systolic blood pressure by an additional 8.7 mm Hg compared to placebo and by 4.5 mm Hg compared to bisoprolol and doxazosin, achieving blood pressure control in nearly 60% of patients. (3) CLINICAL APPLICATION: AHA/ACC guidelines mandate SPIRONOLACTONE (or eplerenone if gynecomastia occurs) as the preferred fourth-line agent for resistant hypertension in patients with estimated GFR > 30-45 mL/min and baseline serum potassium < 4.5-5.0 mEq/L, with serial monitoring of potassium and creatinine at 1 and 4 weeks post-initiation. Patient with resistant hypertension on maximal lisinopril, amlodipine, and chlorthalidone requires fourth-line oral spironolactone (25 mg daily); PATHWAY-2 trial proved spironolactone is superior to beta-blockers and alpha-blockers.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Resistant Hypertension and the PATHWAY-2 Trial.",
+    "keyPoints": [
+      "Resistant Hypertension and the PATHWAY-2 Trial",
+      "Patient with resistant hypertension on maximal lisinopril, amlodipine, and chlorthalidone requires fourth-line oral spironolactone (25 mg daily); PATHWAY-2 trial proved spironolact"
+    ],
+    "references": [
+      {
+        "label": "Williams B, MacDonald TM, Morant S, et al. Endocrine and haemodynamic changes in resistant hypertension, and blood pressure responses to spironolactone or amiloride: the PATHWAY-2 mechanisms studies. Lancet Diabetes Endocrinol. 2018;6(6):464-475. PMID: 29655848.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29655848/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0403",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Chronic Hepatitis B Virus (HBV) Antiviral Treatment Indications",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 43-year-old Asian man presents to the ambulatory liver clinic for evaluation of chronic hepatitis B virus (HBV) infection diagnosed 5 years ago. He is completely asymptomatic, drinks no alcohol, and takes no medications. On physical examination, he appears well. Vital signs are normal. Abdomen is soft, flat, and non-tender with no hepatosplenomegaly or ascites. Stigmata of chronic liver disease (spider angiomas, palmar erythema) are absent. Laboratory evaluation over the past 6 months reveals:\n- Hepatitis B surface antigen (HBsAg): Positive\n- Hepatitis B e antigen (HBeAg): Negative\n- Antibody to hepatitis B e antigen (anti-HBe): Positive\n- Serum alanine aminotransferase (ALT): 78 U/L (consistently elevated on 3 separate checks; ULN for men is 35 U/L)\n- Serum aspartate aminotransferase (AST): 64 U/L\n- Serum total bilirubin: 0.8 mg/dL\n- Serum albumin: 4.2 g/dL\n- Platelet count: 210,000/mm3\n- Serum HBV DNA quantitative viral load: 24,500 IU/mL (elevated; threshold >= 2,000 IU/mL)\n- Hepatitis C antibody and HIV antibody: Negative\n- Transient elastography (FibroScan): Liver stiffness measurement of 8.8 kPa, consistent with significant fibrosis (stage F2-F3)\n- Abdominal ultrasound: Coarsened hepatic echotexture without focal mass lesions or splenomegaly\n\nAccording to American Association for the Study of Liver Diseases (AASLD) guidelines, which of the following represents the most appropriate management strategy for this patient?",
+    "options": [
+      {
+        "text": "Withhold antiviral therapy and monitor liver function tests every 12 months, as negative HBeAg indicates an inactive non-replicative carrier state",
+        "correct": false,
+        "explanation": "HBeAg-negative status with HBV DNA > 2,000 IU/mL, elevated ALT > 2x ULN, and significant fibrosis (8.8 kPa) represents active HBeAg-negative hepatitis B, not an inactive carrier state; withholding therapy leads to progressive cirrhosis and HCC."
+      },
+      {
+        "text": "Initiate oral lamivudine 100 mg daily monotherapy as preferred first-line cost-effective antiviral therapy",
+        "correct": false,
+        "explanation": "Lamivudine has a notoriously low genetic barrier to resistance, with the YMDD resistance mutation developing in > 70% of patients within 5 years; AASLD guidelines explicitly recommend against lamivudine as first-line therapy."
+      },
+      {
+        "text": "Initiate oral antiviral therapy with entecavir, tenofovir disoproxil fumarate (TDF), or tenofovir alafenamide (TAF), accompanied by semi-annual hepatocellular carcinoma surveillance ultrasound",
+        "correct": true,
+        "explanation": "Chronic Hepatitis B (CHB) infection management requires distinguishing inactive carrier state from active progressive disease: (1) PHASE OF INFECTION: This patient has HBeAg-NEGATIVE CHRONIC HEPATITIS B, characterized by precore (G1896A) or basal core promoter mutations that ablate HBeAg production while viral replication continues. (2) TREATMENT CRITERIA (AASLD GUIDELINES): Antiviral therapy is indicated for patients with: (a) Cirrhosis (compensated or decompensated) with any detectable HBV DNA regardless of ALT; OR (b) Non-cirrhotic patients who meet ALL THREE CRITERIA: (1) HBV DNA > 2,000 IU/mL (for HBeAg-negative) or > 20,000 IU/mL (for HBeAg-positive); (2) Persistently elevated ALT > 2x upper limit of normal (> 70 U/L in men, > 50 U/L in women); and (3) Evidence of significant histological inflammation or fibrosis (stage >= F2, or liver stiffness > 8 kPa on elastography). Because this patient has HBV DNA 24,500 IU/mL, ALT 78 U/L (> 2x ULN), and F2-F3 fibrosis (8.8 kPa), he meets all objective criteria for treatment. (3) FIRST-LINE NUCLEOS(T)IDE ANALOGUES: High-barrier-to-resistance agents are standard: ENTECAVIR, TENOFOVIR DISOPROXIL FUMARATE (TDF), or TENOFOVIR ALAFENAMIDE (TAF). Lamivudine and adefovir are obsolete due to high resistance rates (> 70% at 5 years). Therapy suppresses viral replication, halts fibrosis progression, reduces cirrhosis decompensation, and lowers HCC risk. (4) HCC SURVEILLANCE: Asian men > 40 years with CHB require lifelong semi-annual liver ultrasound (+/- alpha-fetoprotein) regardless of treatment."
+      },
+      {
+        "text": "Administer a 48-week course of pegylated interferon-alpha-2a monotherapy without checking G6PD or neuropsychiatric history",
+        "correct": false,
+        "explanation": "While pegylated interferon is an alternative, oral nucleos(t)ide analogues (entecavir/tenofovir) are preferred due to interferon's severe toxicities (severe depression, cytopenias, autoimmune activation) and requires comprehensive pre-treatment screening."
+      },
+      {
+        "text": "Perform emergent surgical wedge liver biopsy before considering any oral antiviral therapy",
+        "correct": false,
+        "explanation": "Non-invasive transient elastography (FibroScan 8.8 kPa) combined with elevated ALT and viral load definitively establishes significant fibrosis; invasive liver biopsy is unnecessary and carries procedural hemorrhage risks."
+      }
+    ],
+    "explanation": "Chronic Hepatitis B (CHB) infection management requires distinguishing inactive carrier state from active progressive disease: (1) PHASE OF INFECTION: This patient has HBeAg-NEGATIVE CHRONIC HEPATITIS B, characterized by precore (G1896A) or basal core promoter mutations that ablate HBeAg production while viral replication continues. (2) TREATMENT CRITERIA (AASLD GUIDELINES): Antiviral therapy is indicated for patients with: (a) Cirrhosis (compensated or decompensated) with any detectable HBV DNA regardless of ALT; OR (b) Non-cirrhotic patients who meet ALL THREE CRITERIA: (1) HBV DNA > 2,000 IU/mL (for HBeAg-negative) or > 20,000 IU/mL (for HBeAg-positive); (2) Persistently elevated ALT > 2x upper limit of normal (> 70 U/L in men, > 50 U/L in women); and (3) Evidence of significant histological inflammation or fibrosis (stage >= F2, or liver stiffness > 8 kPa on elastography). Because this patient has HBV DNA 24,500 IU/mL, ALT 78 U/L (> 2x ULN), and F2-F3 fibrosis (8.8 kPa), he meets all objective criteria for treatment. (3) FIRST-LINE NUCLEOS(T)IDE ANALOGUES: High-barrier-to-resistance agents are standard: ENTECAVIR, TENOFOVIR DISOPROXIL FUMARATE (TDF), or TENOFOVIR ALAFENAMIDE (TAF). Lamivudine and adefovir are obsolete due to high resistance rates (> 70% at 5 years). Therapy suppresses viral replication, halts fibrosis progression, reduces cirrhosis decompensation, and lowers HCC risk. (4) HCC SURVEILLANCE: Asian men > 40 years with CHB require lifelong semi-annual liver ultrasound (+/- alpha-fetoprotein) regardless of treatment. HBeAg-negative chronic HBV with DNA 24,500 IU/mL, ALT > 2x ULN (78 U/L), and elastography 8.8 kPa (F2-F3 fibrosis) meets AASLD criteria for oral antiviral therapy with entecavir or tenofovir (TDF/TAF).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Chronic Hepatitis B Virus (HBV) Antiviral Treatment Indications.",
+    "keyPoints": [
+      "Chronic Hepatitis B Virus (HBV) Antiviral Treatment Indications",
+      "HBeAg-negative chronic HBV with DNA 24,500 IU/mL, ALT > 2x ULN (78 U/L), and elastography 8.8 kPa (F2-F3 fibrosis) meets AASLD criteria for oral antiviral therapy with entecavir or"
+    ],
+    "references": [
+      {
+        "label": "Terrault NA, Lok ASF, McMahon BJ, et al. Update on prevention, diagnosis, and treatment of chronic hepatitis B: AASLD 2018 hepatitis B guidance. Hepatology. 2018;67(4):1560-1599. PMID: 29405329.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29405329/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0404",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Chronic Hepatitis C Virus (HCV) Direct-Acting Antivirals (DAAs)",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old woman presents to the ambulatory internal medicine clinic following a positive screening Hepatitis C virus (HCV) antibody test. She reports a remote history of recreational intravenous drug use for 2 years in her early twenties, but has been in full sustained recovery for 28 years. She takes no medications and feels completely well. Physical examination reveals a healthy-appearing woman with normal vital signs, no jaundice, clear lungs, normal cardiac exam, and no abdominal tenderness or stigmata of portal hypertension. Confirmatory testing demonstrates:\n- Quantitative HCV RNA viral load: 1,850,000 IU/mL\n- HCV Genotype: 1a\n- Serum ALT: 48 U/L (mildly elevated; ULN 35 U/L)\n- Serum AST: 42 U/L\n- Serum total bilirubin: 0.6 mg/dL\n- Serum albumin: 4.1 g/dL\n- Platelet count: 240,000/mm3\n- FIB-4 index: 0.92 (score < 1.45 has > 90% negative predictive value for advanced fibrosis/cirrhosis)\n- Transient elastography: Liver stiffness of 5.2 kPa (consistent with stage F0-F1, no advanced fibrosis or cirrhosis)\n\nBefore initiating a curative course of pan-genotypic direct-acting antiviral (DAA) therapy (such as sofosbuvir-velpatasvir for 12 weeks or glecaprevir-pibrentasvir for 8 weeks), which of the following pre-treatment screening evaluations is mandatory to prevent a life-threatening complication during therapy?",
+    "options": [
+      {
+        "text": "Routine diagnostic upper endoscopy to screen for esophageal varices in all non-cirrhotic patients",
+        "correct": false,
+        "explanation": "Variceal screening endoscopy is indicated only in patients with confirmed cirrhosis (liver stiffness >= 12.5-15 kPa or platelet count < 150k); in F0-F1 fibrosis with normal platelets and FIB-4 0.92, endoscopy is unnecessary and low-value care."
+      },
+      {
+        "text": "Pre-treatment bone marrow biopsy to evaluate for clonal cytopenias before DAA exposure",
+        "correct": false,
+        "explanation": "DAAs do not cause bone marrow suppression (unlike historical interferon-alpha); bone marrow biopsy is completely unwarranted."
+      },
+      {
+        "text": "Screening for latent tuberculosis infection with an interferon-gamma release assay",
+        "correct": false,
+        "explanation": "DAAs are not immunosuppressive therapies (they are direct viral protease/polymerase inhibitors) and do not reactivate latent tuberculosis; LTBI screening is not required prior to DAAs."
+      },
+      {
+        "text": "Serological screening for Hepatitis B virus co-infection (HBsAg, anti-HBc total, and anti-HBs) to assess the risk of fulminant Hepatitis B reactivation",
+        "correct": true,
+        "explanation": "Direct-Acting Antivirals (DAAs) have revolutionized Hepatitis C treatment, achieving sustained virologic response (SVR12, equivalent to virological cure) in > 95-98% of patients with short-course, well-tolerated oral pan-genotypic regimens (e.g., SOFOSBUVIR-VELPATASVIR for 12 weeks, or GLECAPREVIR-PIBRENTASVIR for 8 weeks in non-cirrhotic treatment-naive patients). (1) THE FDA BLACK BOX WARNING (HBV REACTIVATION): In patients with chronic HCV, co-infection with Hepatitis B virus is common due to shared parenteral transmission routes. In co-infected individuals, active HCV replication naturally suppresses HBV replication through viral interference and innate interferon induction. When potent DAAs are initiated, rapid clearance of HCV RNA removes this immunological suppression, allowing latent or occult Hepatitis B to undergo UNCONTROLLED, FULMINANT VIRAL REACTIVATION. This can cause acute severe hepatitis, hepatic decompensation, fulminant liver failure, emergency liver transplantation, or death during or immediately following DAA therapy. (2) MANDATORY PRE-TREATMENT SCREENING: Current AASLD/IDSA guidelines mandate testing ALL patients for Hepatitis B with THREE SEROLOGIES prior to initiating DAAs: (a) Hepatitis B surface antigen (HBsAg), (b) Total Hepatitis B core antibody (anti-HBc), and (c) Hepatitis B surface antibody (anti-HBs). If HBsAg is positive, concurrent nucleos(t)ide analogue antiviral therapy (e.g., entecavir or tenofovir) is initiated alongside the DAA. If anti-HBc is positive alone, close monitoring of HBV DNA during DAA therapy is required."
+      },
+      {
+        "text": "A 6-month period of documented alcohol and substance abstinence before approving DAA therapy",
+        "correct": false,
+        "explanation": "AASLD/IDSA guidelines explicitly state that active or past substance use is NOT a contraindication to DAA therapy, and requiring arbitrary sobriety periods is unethical and contrary to public health guidelines."
+      }
+    ],
+    "explanation": "Direct-Acting Antivirals (DAAs) have revolutionized Hepatitis C treatment, achieving sustained virologic response (SVR12, equivalent to virological cure) in > 95-98% of patients with short-course, well-tolerated oral pan-genotypic regimens (e.g., SOFOSBUVIR-VELPATASVIR for 12 weeks, or GLECAPREVIR-PIBRENTASVIR for 8 weeks in non-cirrhotic treatment-naive patients). (1) THE FDA BLACK BOX WARNING (HBV REACTIVATION): In patients with chronic HCV, co-infection with Hepatitis B virus is common due to shared parenteral transmission routes. In co-infected individuals, active HCV replication naturally suppresses HBV replication through viral interference and innate interferon induction. When potent DAAs are initiated, rapid clearance of HCV RNA removes this immunological suppression, allowing latent or occult Hepatitis B to undergo UNCONTROLLED, FULMINANT VIRAL REACTIVATION. This can cause acute severe hepatitis, hepatic decompensation, fulminant liver failure, emergency liver transplantation, or death during or immediately following DAA therapy. (2) MANDATORY PRE-TREATMENT SCREENING: Current AASLD/IDSA guidelines mandate testing ALL patients for Hepatitis B with THREE SEROLOGIES prior to initiating DAAs: (a) Hepatitis B surface antigen (HBsAg), (b) Total Hepatitis B core antibody (anti-HBc), and (c) Hepatitis B surface antibody (anti-HBs). If HBsAg is positive, concurrent nucleos(t)ide analogue antiviral therapy (e.g., entecavir or tenofovir) is initiated alongside the DAA. If anti-HBc is positive alone, close monitoring of HBV DNA during DAA therapy is required. Before starting DAA therapy for HCV, mandatory screening for Hepatitis B (HBsAg, anti-HBc, anti-HBs) is required to prevent fatal HBV reactivation (FDA black box warning).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Chronic Hepatitis C Virus (HCV) Direct-Acting Antivirals (DAAs).",
+    "keyPoints": [
+      "Chronic Hepatitis C Virus (HCV) Direct-Acting Antivirals (DAAs)",
+      "Before starting DAA therapy for HCV, mandatory screening for Hepatitis B (HBsAg, anti-HBc, anti-HBs) is required to prevent fatal HBV reactivation (FDA black box warning)."
+    ],
+    "references": [
+      {
+        "label": "AASLD-IDSA HCV Guidance Panel. Hepatitis C Guidance 2019 Update: American Association for the Study of Liver Diseases-Infectious Diseases Society of America Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection. Hepatology. 2020;71(2):686-721. PMID: 3...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31816111/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0405",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "COPD Maintenance Therapy Escalation (GOLD Group E)",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 66-year-old man with severe chronic obstructive pulmonary disease (COPD; post-bronchodilator FEV1 42% of predicted) presents for a follow-up visit after being discharged from the hospital 3 weeks ago for a severe COPD exacerbation requiring non-invasive ventilation and systemic corticosteroids. Over the past 12 months, he has had two other moderate exacerbations treated with outpatient oral prednisone and antibiotics (total of three exacerbations in the past year). He adheres strictly to maintenance dual long-acting bronchodilator therapy with inhaled tiotropium (LAMA, 18 mcg daily) and inhaled olodaterol (LABA, 5 mcg daily), with proper inhaler technique verified. Despite this, he has persistent daily dyspnea walking on level ground (mMRC score 3) and chronic productive cough. Complete blood count obtained during a stable outpatient visit demonstrates a white blood cell count of 6,800/mm3 with an absolute blood eosinophil count of 380 cells/mcL (5.6%; normal < 300 cells/mcL). Vital signs show blood pressure of 132/80 mm Hg, heart rate of 78/min, and oxygen saturation of 93% on ambient air.\n\nAccording to the Global Initiative for Chronic Obstructive Lung Disease (GOLD 2023/2024) guidelines, which of the following represents the most appropriate pharmacotherapeutic escalation for this patient?",
+    "options": [
+      {
+        "text": "Add daily oral roflumilast 500 mcg while discontinuing the long-acting muscarinic antagonist",
+        "correct": false,
+        "explanation": "Discontinuing the LAMA is contraindicated because dual bronchodilation is the foundation of COPD care; roflumilast is an oral PDE-4 inhibitor considered as an adjunct in chronic bronchitis with FEV1 < 50%, but triple therapy (LABA+LAMA+ICS) is preferred first-line when eosinophils >= 300 cells/mcL."
+      },
+      {
+        "text": "Initiate long-term chronic low-dose oral prednisone 10 mg daily as continuous maintenance therapy",
+        "correct": false,
+        "explanation": "Chronic maintenance systemic corticosteroids provide zero long-term benefit in stable COPD and cause severe systemic toxicity (osteoporosis, diabetes, cataracts, myopathy); GOLD guidelines strongly condemn chronic oral steroids."
+      },
+      {
+        "text": "Initiate daily chronic oral azithromycin 250 mg daily monotherapy and withhold inhaled corticosteroids",
+        "correct": false,
+        "explanation": "While chronic macrolides reduce exacerbations in select former smokers, triple inhaled therapy (LABA+LAMA+ICS) is the primary guideline-directed step when eosinophils are elevated (>= 300 cells/mcL); macrolides carry risks of QTc prolongation and ototoxicity."
+      },
+      {
+        "text": "Switch maintenance therapy to regular short-acting nebulized ipratropium and albuterol every 4 hours as needed",
+        "correct": false,
+        "explanation": "Short-acting bronchodilators are for acute rescue only; replacing long-acting bronchodilators with short-acting agents leads to severe loss of lung function and frequent exacerbations."
+      },
+      {
+        "text": "Escalate to single-inhaler triple therapy by adding an inhaled corticosteroid (LABA + LAMA + ICS; e.g., fluticasone furoate/umeclidinium/vilanterol or budesonide/glycopyrrolate/formoterol)",
+        "correct": true,
+        "explanation": "Under the updated GOLD classification, patients are categorized into Group A, Group B, or Group E: (1) GROUP E DEFINITION: Patients with a HIGH EXACERBATION RISK, defined as >= 2 moderate exacerbations (treated with oral steroids/antibiotics) OR >= 1 exacerbation resulting in hospitalization within the past year, regardless of symptom burden. This patient had three exacerbations, including one hospitalization, placing him firmly in GOLD Group E. (2) ESCALATION PARADIGM AND EOSINOPHIL BIOMARKER: While initial maintenance therapy for Group E is dual bronchodilation (LABA + LAMA), patients who experience persistent exacerbations on LABA + LAMA require escalation based on blood eosinophil count: (a) Blood eosinophils >= 300 cells/mcL: Strongest predictor of MAGNITUDE OF BENEFIT from an Inhaled Corticosteroid (ICS). The landmark IMPACT and ETHOS randomized controlled trials demonstrated that in frequent exacerbators with elevated eosinophils, TRIPLE THERAPY (LABA + LAMA + ICS) significantly reduces moderate-to-severe exacerbation rates by 25-35% and ALL-CAUSE MORTALITY compared to dual bronchodilators alone. (b) Blood eosinophils < 100 cells/mcL: Predicts negligible ICS response and increased risk of bacterial pneumonia; roflumilast or azithromycin is preferred. Because this patient has 380 eosinophils/mcL and persistent exacerbations, escalation to TRIPLE THERAPY is the evidence-based recommendation of choice."
+      }
+    ],
+    "explanation": "Under the updated GOLD classification, patients are categorized into Group A, Group B, or Group E: (1) GROUP E DEFINITION: Patients with a HIGH EXACERBATION RISK, defined as >= 2 moderate exacerbations (treated with oral steroids/antibiotics) OR >= 1 exacerbation resulting in hospitalization within the past year, regardless of symptom burden. This patient had three exacerbations, including one hospitalization, placing him firmly in GOLD Group E. (2) ESCALATION PARADIGM AND EOSINOPHIL BIOMARKER: While initial maintenance therapy for Group E is dual bronchodilation (LABA + LAMA), patients who experience persistent exacerbations on LABA + LAMA require escalation based on blood eosinophil count: (a) Blood eosinophils >= 300 cells/mcL: Strongest predictor of MAGNITUDE OF BENEFIT from an Inhaled Corticosteroid (ICS). The landmark IMPACT and ETHOS randomized controlled trials demonstrated that in frequent exacerbators with elevated eosinophils, TRIPLE THERAPY (LABA + LAMA + ICS) significantly reduces moderate-to-severe exacerbation rates by 25-35% and ALL-CAUSE MORTALITY compared to dual bronchodilators alone. (b) Blood eosinophils < 100 cells/mcL: Predicts negligible ICS response and increased risk of bacterial pneumonia; roflumilast or azithromycin is preferred. Because this patient has 380 eosinophils/mcL and persistent exacerbations, escalation to TRIPLE THERAPY is the evidence-based recommendation of choice. COPD patient in GOLD Group E (frequent exacerbations/hospitalization) failing LABA+LAMA with blood eosinophils 380 cells/mcL (>= 300) requires escalation to triple inhaled therapy (LABA + LAMA + ICS).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of COPD Maintenance Therapy Escalation (GOLD Group E).",
+    "keyPoints": [
+      "COPD Maintenance Therapy Escalation (GOLD Group E)",
+      "COPD patient in GOLD Group E (frequent exacerbations/hospitalization) failing LABA+LAMA with blood eosinophils 380 cells/mcL (>= 300) requires escalation to triple inhaled therapy "
+    ],
+    "references": [
+      {
+        "label": "Global Initiative for Chronic Obstructive Lung Disease (GOLD). Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease: 2023 Report. GOLD. 2023. NLM ID: 101740889.",
+        "url": "https://www.ncbi.nlm.nih.gov/nlmcatalog/101740889"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0406",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "General Principles",
+    "topic": "Geriatric Polypharmacy and Beers Criteria Deprescribing",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "An 84-year-old woman is brought to the geriatric ambulatory clinic by her daughter for a comprehensive medication review following two recent ground-level falls at home over the past month, one of which resulted in a forehead laceration. Her medical history includes mild Alzheimer dementia, hypertension, osteoarthritis of the knees, and chronic insomnia. Physical examination demonstrates an alert, frail woman. Blood pressure is 128/72 mm Hg seated, and 126/70 mm Hg standing. Mini-Mental State Examination score is 22/30. Gait is slow and cautious with a Timed Up and Go (TUG) time of 17 seconds (abnormal > 12 seconds). Current daily medications include:\n1. Donepezil 10 mg daily\n2. Lisinopril 10 mg daily\n3. Acetaminophen 650 mg three times daily as needed\n4. Diphenhydramine 50 mg orally every night at bedtime for insomnia (taken for 3 years)\n5. Amitriptyline 25 mg orally every night at bedtime for neuropathic pain (taken for 2 years)\n6. Lorazepam 1 mg orally as needed for anxiety (takes approximately 4 to 5 times weekly)\n\nWhich of the following represents the most appropriate initial pharmacological deprescribing intervention according to the American Geriatrics Society (AGS) Beers Criteria?",
+    "options": [
+      {
+        "text": "Taper and discontinue diphenhydramine, amitriptyline, and lorazepam, as concurrent anticholinergic and sedative-hypnotic medications dramatically worsen cognitive impairment, delirium, and recurrent fall risks in older adults with dementia",
+        "correct": true,
+        "explanation": "The American Geriatrics Society (AGS) Beers Criteria identify Potentially Inappropriate Medications (PIMs) in older adults. Polypharmacy (concurrent use of >= 5 medications) combined with high 'anticholinergic and sedative burden' is a leading cause of preventable iatrogenic morbidity, motor vehicle crashes, hip fractures, hospitalizations, and mortality in older adults. (1) SPECIFIC INAPPROPRIATE DRUGS IDENTIFIED: (a) DIPHENHYDRAMINE: A potent first-generation H1-antihistamine with severe anticholinergic properties; strongly condemned by Beers Criteria for insomnia due to high risk of confusion, urinary retention, dry mouth, constipation, and falls. Tolerance to sedative effects develops within days, providing zero therapeutic sleep benefit while toxicity persists. (b) AMITRIPTYLINE: A tertiary tricyclic antidepressant with profound anticholinergic, sedative, and alpha-1 adrenergic blocking properties (orthostasis); strongly contraindicated in older adults, particularly those with pre-existing dementia. (c) LORAZEPAM: Benzodiazepines increase motor incoordination, paradoxical excitation, memory impairment, delirium, and hip fractures; guidelines strongly recommend avoiding benzodiazepines in older adults. (2) ANTAGONISTIC PHARMACODYNAMIC CONFLICT: Prescribing acetylcholinesterase inhibitors (DONEPEZIL) to improve central cholinergic transmission while simultaneously administering potent anticholinergic agents (diphenhydramine and amitriptyline) represents an egregious 'prescribing cascade' and pharmacodynamic contradiction, completely neutralizing donepezil's cognitive benefit. Systematic, structured tapering of these three high-risk agents is mandatory."
+      },
+      {
+        "text": "Increase donepezil to 23 mg daily to overcome the competitive anticholinergic blockade caused by diphenhydramine and amitriptyline",
+        "correct": false,
+        "explanation": "Donepezil 23 mg causes severe cholinergic toxicity (nausea, vomiting, bradycardia, syncope); adding more pro-cholinergic drug to overcome inappropriate anticholinergics exacerbates adverse cascades."
+      },
+      {
+        "text": "Discontinue lisinopril immediately, as maintaining a seated blood pressure of 128/72 mm Hg causes cerebral hypoperfusion and falls",
+        "correct": false,
+        "explanation": "Blood pressure is normal with no orthostatic drop (128/72 seated to 126/70 standing); lisinopril is safe and appropriate, whereas sedatives and anticholinergics are the true causes of her falls."
+      },
+      {
+        "text": "Replace diphenhydramine and lorazepam with zolpidem 10 mg at bedtime to ensure non-benzodiazepine sleep induction",
+        "correct": false,
+        "explanation": "Zolpidem and 'Z-drugs' are specifically included in the Beers Criteria; they carry identical risks of delirium, cognitive decline, falls, and fractures as benzodiazepines in older adults."
+      },
+      {
+        "text": "Continue all current medications unchanged and prescribe a rigid four-point walker with strict bed rest at night",
+        "correct": false,
+        "explanation": "Bed rest causes rapid deconditioning, sarcopenia, and pressure ulcers; modifying the inappropriate medication regimen is the definitive evidence-based intervention to prevent falls."
+      }
+    ],
+    "explanation": "The American Geriatrics Society (AGS) Beers Criteria identify Potentially Inappropriate Medications (PIMs) in older adults. Polypharmacy (concurrent use of >= 5 medications) combined with high 'anticholinergic and sedative burden' is a leading cause of preventable iatrogenic morbidity, motor vehicle crashes, hip fractures, hospitalizations, and mortality in older adults. (1) SPECIFIC INAPPROPRIATE DRUGS IDENTIFIED: (a) DIPHENHYDRAMINE: A potent first-generation H1-antihistamine with severe anticholinergic properties; strongly condemned by Beers Criteria for insomnia due to high risk of confusion, urinary retention, dry mouth, constipation, and falls. Tolerance to sedative effects develops within days, providing zero therapeutic sleep benefit while toxicity persists. (b) AMITRIPTYLINE: A tertiary tricyclic antidepressant with profound anticholinergic, sedative, and alpha-1 adrenergic blocking properties (orthostasis); strongly contraindicated in older adults, particularly those with pre-existing dementia. (c) LORAZEPAM: Benzodiazepines increase motor incoordination, paradoxical excitation, memory impairment, delirium, and hip fractures; guidelines strongly recommend avoiding benzodiazepines in older adults. (2) ANTAGONISTIC PHARMACODYNAMIC CONFLICT: Prescribing acetylcholinesterase inhibitors (DONEPEZIL) to improve central cholinergic transmission while simultaneously administering potent anticholinergic agents (diphenhydramine and amitriptyline) represents an egregious 'prescribing cascade' and pharmacodynamic contradiction, completely neutralizing donepezil's cognitive benefit. Systematic, structured tapering of these three high-risk agents is mandatory. Frail elderly woman with dementia and falls taking diphenhydramine, amitriptyline, and lorazepam requires tapering and discontinuation of these Beers Criteria PIMs to reduce fall and delirium risks.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Geriatric Polypharmacy and Beers Criteria Deprescribing.",
+    "keyPoints": [
+      "Geriatric Polypharmacy and Beers Criteria Deprescribing",
+      "Frail elderly woman with dementia and falls taking diphenhydramine, amitriptyline, and lorazepam requires tapering and discontinuation of these Beers Criteria PIMs to reduce fall a"
+    ],
+    "references": [
+      {
+        "label": "By the 2023 American Geriatrics Society Beers Criteria(R) Update Expert Panel. American Geriatrics Society 2023 updated AGS Beers Criteria(R) for potentially inappropriate medication use in older adults. J Am Geriatr Soc. 2023;71(7):2052-2081. PMID: 37139824.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37139824/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0407",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Type 2 Diabetes Mellitus with Established ASCVD and Diabetic Kidney Disease",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 58-year-old man with a 10-year history of type 2 diabetes mellitus, hypertension, and coronary artery disease (status post percutaneous coronary intervention with a drug-eluting stent to the left anterior descending artery 2 years ago) presents for a routine chronic disease management visit. He is currently treated with metformin 1,000 mg twice daily, rosuvastatin 40 mg daily, lisinopril 20 mg daily, and aspirin 81 mg daily. He adheres strictly to a Mediterranean-style diet and exercises regularly. Vital signs show blood pressure of 126/76 mm Hg, heart rate of 70/min, and BMI of 31 kg/m2. Physical examination is unremarkable. Laboratory evaluation reveals:\n- Hemoglobin A1c: 7.2% (glycemic goal < 7.0-7.5%)\n- Estimated glomerular filtration rate (eGFR): 52 mL/min/1.73 m2 (stage 3a CKD; baseline 54 mL/min 1 year ago)\n- Serum creatinine: 1.4 mg/dL\n- Serum potassium: 4.4 mEq/L\n- Random urine albumin-to-creatinine ratio (UACR): 420 mg/g (severely increased albuminuria; normal < 30 mg/g)\n- Fasting blood glucose: 138 mg/dL\n\nAccording to current American Diabetes Association (ADA) and KDIGO consensus guidelines, which of the following represents the most appropriate pharmacotherapeutic escalation for this patient?",
+    "options": [
+      {
+        "text": "Add oral glipizide 10 mg daily to achieve an intensive HbA1c target < 6.5%",
+        "correct": false,
+        "explanation": "Sulfonylureas carry high risks of severe hypoglycemia and weight gain and provide zero cardiorenal or mortality benefit in patients with established ASCVD or CKD."
+      },
+      {
+        "text": "Initiate an SGLT2 inhibitor (e.g., empagliflozin or dapagliflozin) for cardiorenal protection, and consider adding a GLP-1 receptor agonist with proven cardiovascular benefit (e.g., semaglutide or dulaglutide), independent of baseline HbA1c",
+        "correct": true,
+        "explanation": "The management of Type 2 Diabetes Mellitus has evolved from a glucose-centric paradigm to a proactive, organ-protective, risk-reduction strategy. (1) CARDIORENAL COMORBIDITY STRATIFICATION (ADA / KDIGO CONSENSUS GUIDELINES): In patients with T2D who have: (a) Established Atherosclerotic Cardiovascular Disease (ASCVD: prior MI, stent, stroke); (b) Heart Failure; or (c) Chronic Kidney Disease with albuminuria (eGFR 20-60 mL/min or UACR > 30-300 mg/g), GUIDELINE-DIRECTED MEDICAL THERAPY MANDATES ADDING SGLT2 INHIBITORS AND/OR GLP-1 RECEPTOR AGONISTS WITH PROVEN CARDIORENAL BENEFIT, INDEPENDENT OF BASELINE HbA1c AND INDEPENDENT OF METFORMIN USE. (2) SGLT2 INHIBITORS (EMPEROR-Reduced, DAPA-CKD, CREDENCE, EMPA-KIDNEY): SGLT2 inhibitors (empagliflozin, dapagliflozin, canagliflozin) reduce intraglomerular hypertension via tubuloglomerular feedback, dramatically slowing CKD progression, reducing end-stage kidney disease by 30-40%, reducing heart failure hospitalizations, and decreasing cardiovascular death. Because this patient has CKD with severe albuminuria (UACR 420 mg/g), an SGLT2 inhibitor is the FIRST-LINE agent of choice. (3) GLP-1 RECEPTOR AGONISTS (LEADER, SUSTAIN-6, REWIND): Long-acting GLP-1 receptor agonists (semaglutide, dulaglutide, liraglutide) reduce major adverse cardiovascular events (MACE: non-fatal MI, non-fatal stroke, CV death) by 12-26% in established ASCVD. (4) COMBINATION THERAPY: ADA and KDIGO guidelines strongly support combining an SGLT2 inhibitor and a GLP-1 RA in patients with both ASCVD and CKD to provide complementary, synergistic vascular and renal protection."
+      },
+      {
+        "text": "Discontinue metformin and initiate basal insulin glargine at bedtime",
+        "correct": false,
+        "explanation": "Metformin is safe and recommended down to an eGFR of 30 mL/min; initiating insulin increases hypoglycemia and weight gain without providing the renal/cardiovascular risk reduction of SGLT2 inhibitors."
+      },
+      {
+        "text": "Add oral sitagliptin 100 mg daily as preferred second-line therapy for glycemic control",
+        "correct": false,
+        "explanation": "DPP-4 inhibitors (sitagliptin) are weight-neutral and lower glucose, but large outcome trials (TECOS, SAVOR-TIMI) proved they provide zero reduction in MACE, heart failure, or CKD progression compared to SGLT2 inhibitors or GLP-1 RAs."
+      },
+      {
+        "text": "Withhold additional pharmacotherapy because the patient's HbA1c of 7.2% is already within his individualized target range",
+        "correct": false,
+        "explanation": "Withholding SGLT2 inhibitors or GLP-1 RAs based on 'controlled' HbA1c is a major clinical error; guidelines mandate these agents for organ protection (reducing ESRD and MI) independent of glycemic control."
+      }
+    ],
+    "explanation": "The management of Type 2 Diabetes Mellitus has evolved from a glucose-centric paradigm to a proactive, organ-protective, risk-reduction strategy. (1) CARDIORENAL COMORBIDITY STRATIFICATION (ADA / KDIGO CONSENSUS GUIDELINES): In patients with T2D who have: (a) Established Atherosclerotic Cardiovascular Disease (ASCVD: prior MI, stent, stroke); (b) Heart Failure; or (c) Chronic Kidney Disease with albuminuria (eGFR 20-60 mL/min or UACR > 30-300 mg/g), GUIDELINE-DIRECTED MEDICAL THERAPY MANDATES ADDING SGLT2 INHIBITORS AND/OR GLP-1 RECEPTOR AGONISTS WITH PROVEN CARDIORENAL BENEFIT, INDEPENDENT OF BASELINE HbA1c AND INDEPENDENT OF METFORMIN USE. (2) SGLT2 INHIBITORS (EMPEROR-Reduced, DAPA-CKD, CREDENCE, EMPA-KIDNEY): SGLT2 inhibitors (empagliflozin, dapagliflozin, canagliflozin) reduce intraglomerular hypertension via tubuloglomerular feedback, dramatically slowing CKD progression, reducing end-stage kidney disease by 30-40%, reducing heart failure hospitalizations, and decreasing cardiovascular death. Because this patient has CKD with severe albuminuria (UACR 420 mg/g), an SGLT2 inhibitor is the FIRST-LINE agent of choice. (3) GLP-1 RECEPTOR AGONISTS (LEADER, SUSTAIN-6, REWIND): Long-acting GLP-1 receptor agonists (semaglutide, dulaglutide, liraglutide) reduce major adverse cardiovascular events (MACE: non-fatal MI, non-fatal stroke, CV death) by 12-26% in established ASCVD. (4) COMBINATION THERAPY: ADA and KDIGO guidelines strongly support combining an SGLT2 inhibitor and a GLP-1 RA in patients with both ASCVD and CKD to provide complementary, synergistic vascular and renal protection. T2D with established CAD and CKD/albuminuria requires an SGLT2 inhibitor (dapagliflozin/empagliflozin) for renal protection and GLP-1 RA for MACE reduction, independent of baseline HbA1c.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Type 2 Diabetes Mellitus with Established ASCVD and Diabetic Kidney Disease.",
+    "keyPoints": [
+      "Type 2 Diabetes Mellitus with Established ASCVD and Diabetic Kidney Disease",
+      "T2D with established CAD and CKD/albuminuria requires an SGLT2 inhibitor (dapagliflozin/empagliflozin) for renal protection and GLP-1 RA for MACE reduction, independent of baseline"
+    ],
+    "references": [
+      {
+        "label": "ElSayed NA, Aleppo G, Aroda VR, et al. 10. Cardiovascular Disease and Risk Management: Standards of Care in Diabetes-2023. Diabetes Care. 2023;46(Suppl 1):S158-S190. PMID: 36507632.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36507632/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0408",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Severe Postmenopausal Osteoporosis and Anabolic Sequential Therapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old postmenopausal woman presents to the clinic for management of osteoporosis. Three weeks ago, she experienced sudden, severe mid-back pain while bending to lift a laundry basket. Thoracolumbar spine radiographs revealed an acute 35% anterior wedge compression fracture of the T11 vertebral body. Dual-energy X-ray absorptiometry (DXA) demonstrates a lumbar spine (L1-L4) T-score of -3.4, a femoral neck T-score of -2.8, and a total hip T-score of -2.6. She has no history of nephrolithiasis, hypercalcemia, Paget disease, or skeletal radiation therapy. Serum 25-hydroxyvitamin D is 36 ng/mL, serum calcium is 9.4 mg/dL, and estimated GFR is 68 mL/min. She has never received pharmacological osteoporosis therapy. Physical examination demonstrates focal tenderness over the lower thoracic spinous processes and mild thoracic kyphosis.\n\nAccording to current American Association of Clinical Endocrinology (AACE) and Endocrine Society guidelines, which of the following represents the most appropriate initial pharmacological strategy for this patient with 'very high risk' osteoporosis?",
+    "options": [
+      {
+        "text": "Initiate oral alendronate 70 mg once weekly as lifelong standalone monotherapy",
+        "correct": false,
+        "explanation": "In patients at very high risk (acute vertebral fracture and T-score < -3.0), the VERO trial proved bisphosphonates are significantly inferior to anabolic agents (teriparatide) in preventing recurrent fractures; anabolic therapy should precede antiresorptive therapy."
+      },
+      {
+        "text": "Administer subcutaneous denosumab 60 mg every 6 months for 3 years, then completely discontinue all medications",
+        "correct": false,
+        "explanation": "Discontinuing denosumab without bridging to a bisphosphonate causes a catastrophic rebound increase in bone resorption and bone mineral density loss, resulting in multiple rebound vertebral fractures."
+      },
+      {
+        "text": "Initiate an osteoanabolic bone-forming agent (e.g., subcutaneous teriparatide, abaloparatide, or romosozumab) for 12 to 24 months, followed sequentially by an antiresorptive agent (such as oral alendronate or intravenous zoledronic acid)",
+        "correct": true,
+        "explanation": "Osteoporosis management is risk-stratified into 'High Risk' and 'Very High / Imminent Risk': (1) DEFINITION OF VERY HIGH RISK (AACE/ENDOCRINE SOCIETY GUIDELINES): Patients with: (a) Recent fracture within the past 12 months (imminent fracture risk); (b) Multiple prior fractures; (c) Fracture while on approved osteoporosis therapy; (d) Very low T-score (< -3.0); or (e) High fall risk or FRAX score > 30% for major osteoporotic fracture. Because this patient has an acute vertebral fracture and a T-score of -3.4, she is classified as VERY HIGH RISK. (2) ANABOLIC FIRST-LINE THERAPY (VERO TRIAL): Landmark clinical trials (the VERO trial, Lancet 2018) directly compared initial anabolic therapy (teriparatide) versus antiresorptive therapy (risedronate) in patients with severe osteoporosis. Teriparatide produced a 56% relative reduction in new clinical and radiographic vertebral fractures compared to the bisphosphonate, with superior increases in bone mineral density (BMD) and bone microarchitecture. Guidelines strongly recommend initiating ANABOLIC AGENTS FIRST (teriparatide or abaloparatide [PTHrP analogue] for 24 months, or romosozumab [sclerostin inhibitor] for 12 months) in very-high-risk patients. (3) MANDATORY SEQUENTIAL ANTIRESORPTIVE CONSOLIDATION: Anabolic agents stimulate new bone formation, but their effects rapidly wane upon discontinuation. Anabolic therapy MUST ALWAYS BE FOLLOWED SEQUENTIALLY BY AN ANTIRESORPTIVE AGENT (bisphosphonates like alendronate/zoledronic acid or denosumab) to maintain and consolidate bone density gains. (4) DENOSUMAB REBOUND WARNING: If denosumab is used, it can NEVER be stopped abruptly without bridging to a bisphosphonate, because denosumab cessation causes a massive rebound surge in osteoclastic bone resorption, precipitating multiple cascade vertebral fractures."
+      },
+      {
+        "text": "Prescribe calcium carbonate 1,200 mg daily and vitamin D3 2,000 IU daily as standalone therapy without prescription anti-osteoporotic drugs",
+        "correct": false,
+        "explanation": "Calcium and vitamin D are essential nutritional adjuncts, but as standalone therapy in established severe osteoporosis with fractures, they have negligible efficacy in preventing recurrent fractures."
+      },
+      {
+        "text": "Initiate oral raloxifene 60 mg daily monotherapy",
+        "correct": false,
+        "explanation": "Raloxifene is a selective estrogen receptor modulator with modest efficacy that reduces vertebral fractures only in milder osteoporosis; it is completely inadequate for severe very-high-risk osteoporosis."
+      }
+    ],
+    "explanation": "Osteoporosis management is risk-stratified into 'High Risk' and 'Very High / Imminent Risk': (1) DEFINITION OF VERY HIGH RISK (AACE/ENDOCRINE SOCIETY GUIDELINES): Patients with: (a) Recent fracture within the past 12 months (imminent fracture risk); (b) Multiple prior fractures; (c) Fracture while on approved osteoporosis therapy; (d) Very low T-score (< -3.0); or (e) High fall risk or FRAX score > 30% for major osteoporotic fracture. Because this patient has an acute vertebral fracture and a T-score of -3.4, she is classified as VERY HIGH RISK. (2) ANABOLIC FIRST-LINE THERAPY (VERO TRIAL): Landmark clinical trials (the VERO trial, Lancet 2018) directly compared initial anabolic therapy (teriparatide) versus antiresorptive therapy (risedronate) in patients with severe osteoporosis. Teriparatide produced a 56% relative reduction in new clinical and radiographic vertebral fractures compared to the bisphosphonate, with superior increases in bone mineral density (BMD) and bone microarchitecture. Guidelines strongly recommend initiating ANABOLIC AGENTS FIRST (teriparatide or abaloparatide [PTHrP analogue] for 24 months, or romosozumab [sclerostin inhibitor] for 12 months) in very-high-risk patients. (3) MANDATORY SEQUENTIAL ANTIRESORPTIVE CONSOLIDATION: Anabolic agents stimulate new bone formation, but their effects rapidly wane upon discontinuation. Anabolic therapy MUST ALWAYS BE FOLLOWED SEQUENTIALLY BY AN ANTIRESORPTIVE AGENT (bisphosphonates like alendronate/zoledronic acid or denosumab) to maintain and consolidate bone density gains. (4) DENOSUMAB REBOUND WARNING: If denosumab is used, it can NEVER be stopped abruptly without bridging to a bisphosphonate, because denosumab cessation causes a massive rebound surge in osteoclastic bone resorption, precipitating multiple cascade vertebral fractures. Patient with acute vertebral fracture and T-score -3.4 is at very high fracture risk; AACE guidelines mandate initial osteoanabolic therapy (teriparatide/abaloparatide) followed sequentially by an antiresorptive bisphosphonate.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Severe Postmenopausal Osteoporosis and Anabolic Sequential Therapy.",
+    "keyPoints": [
+      "Severe Postmenopausal Osteoporosis and Anabolic Sequential Therapy",
+      "Patient with acute vertebral fracture and T-score -3.4 is at very high fracture risk; AACE guidelines mandate initial osteoanabolic therapy (teriparatide/abaloparatide) followed se"
+    ],
+    "references": [
+      {
+        "label": "Kendler DL, Marin F, Zerbini CAF, et al. Effects of teriparatide and risedronate on new fractures in post-menopausal women with severe osteoporosis (VERO): a multicentre, double-blind, double-dummy, randomised controlled trial. Lancet. 2018;391(10117):230-240. PMID: 29129441.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29129441/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0409",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Chronic Tophaceous Gout Treat-to-Target Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man of Han Chinese descent presents to the rheumatology clinic for management of chronic gout. Over the past 2 years, he has experienced 6 painful flare episodes involving his first metatarsophalangeal (MTP) joints, ankles, and right knee, resulting in two urgent care visits. Physical examination reveals an alert man in no acute distress. Vital signs are normal. Examination of the hands and feet reveals firm, non-tender, nodular subcutaneous deposits with yellowish-white chalky material visible beneath the skin over the right olecranon bursa, bilateral achilles tendons, and the left first MTP joint, consistent with clinical tophi. Synovial fluid aspiration from the right olecranon bursa confirms negatively birefringent, needle-shaped monosodium urate crystals under polarized light microscopy. Laboratory evaluation reveals:\n- Serum urate: 9.4 mg/dL (elevated; target < 5.0 to 6.0 mg/dL)\n- Serum creatinine: 1.1 mg/dL (estimated GFR 82 mL/min)\n- Liver function tests: Normal\n\nAccording to American College of Rheumatology (ACR) guidelines, which of the following represents the most appropriate management sequence for initiating urate-lowering therapy in this patient?",
+    "options": [
+      {
+        "text": "Initiate allopurinol at 300 mg daily immediately without genetic screening or anti-inflammatory prophylaxis",
+        "correct": false,
+        "explanation": "Starting high-dose allopurinol without HLA-B*5801 screening in a Han Chinese patient risks fatal Allopurinol Hypersensitivity Syndrome (SJS/TEN), and omitting flare prophylaxis triggers severe acute flares."
+      },
+      {
+        "text": "Withhold all allopurinol and prescribe lifelong indomethacin 50 mg three times daily as chronic maintenance therapy",
+        "correct": false,
+        "explanation": "Chronic high-dose NSAIDs cause severe gastric ulceration, renal failure, and hypertension, and fail to lower serum urate or dissolve tophi; urate-lowering therapy is mandatory for tophaceous gout."
+      },
+      {
+        "text": "Initiate oral febuxostat 80 mg daily as standalone monotherapy without monitoring serum urate levels once started",
+        "correct": false,
+        "explanation": "Urate-lowering therapy must follow a treat-to-target protocol with serial urate checks to confirm levels drop < 5.0 mg/dL; treat-to-target titration is essential."
+      },
+      {
+        "text": "Screen for the HLA-B*5801 allele prior to initiating oral allopurinol (starting at 100 mg daily and titrating to achieve a serum urate < 5.0 mg/dL), co-prescribing anti-inflammatory flare prophylaxis (e.g., low-dose colchicine) for 3 to 6 months",
+        "correct": true,
+        "explanation": "Chronic Tophaceous Gout is a systemic crystal-deposition disease requiring long-term, goal-directed pharmacological management: (1) TREAT-TO-TARGET SERUM URATE GOAL (ACR GUIDELINES): In uncomplicated gout, the target serum urate is < 6.0 mg/dL. However, in SEVERE TOPHACEOUS GOUT, guideline-directed care mandates a LOWER TARGET SERUM URATE OF < 5.0 MG/DL (< 300 mcmol/L) to accelerate the dissolution and resorption of existing tophi and crystal deposits. (2) GENETIC SCREENING FOR HLA-B*5801: Allopurinol is the preferred first-line xanthine oxidase inhibitor. However, allopurinol can trigger Allopurinol Hypersensitivity Syndrome (AHS), a severe, life-threatening adverse reaction (Stevens-Johnson syndrome, toxic epidermal necrolysis, eosinophilia, DRESS, acute liver/renal failure) with a mortality of 20-25%. AHS is strongly linked to the HLA-B*5801 allele. ACR guidelines mandate screening for HLA-B*5801 PRIOR TO ALLOPURINOL INITIATION in high-risk ancestral populations: individuals of Southeast Asian descent (Han Chinese, Korean, Thai) and African American individuals. If HLA-B*5801 is positive, allopurinol is strictly contraindicated, and febuxostat is preferred. (3) DOSING STRATEGY: Allopurinol must be initiated at a LOW DOSE (100 mg daily, or 50 mg in CKD) and GRADUALLY TITRATED upward every 2 to 4 weeks until the serum urate target (< 5.0 mg/dL) is achieved (doses may safely exceed 300 mg daily with proper renal monitoring). (4) CONCOMITANT FLARE PROPHYLAXIS: Rapid dissolution of articular crystals destabilizes crystal surfaces, triggering paradoxical acute gout flares. Concomitant anti-inflammatory prophylaxis (low-dose oral colchicine 0.6 mg daily or low-dose NSAID) is MANDATORY when starting urate-lowering therapy and must be continued for at least 3 to 6 months (or ongoing if tophi remain active)."
+      },
+      {
+        "text": "Prescribe probenecid 500 mg twice daily as first-line monotherapy without measuring 24-hour urinary uric acid",
+        "correct": false,
+        "explanation": "Probenecid is a second-line uricosuric agent with lower efficacy than xanthine oxidase inhibitors, risks uric acid nephrolithiasis, and is ineffective in advanced tophaceous disease."
+      }
+    ],
+    "explanation": "Chronic Tophaceous Gout is a systemic crystal-deposition disease requiring long-term, goal-directed pharmacological management: (1) TREAT-TO-TARGET SERUM URATE GOAL (ACR GUIDELINES): In uncomplicated gout, the target serum urate is < 6.0 mg/dL. However, in SEVERE TOPHACEOUS GOUT, guideline-directed care mandates a LOWER TARGET SERUM URATE OF < 5.0 MG/DL (< 300 mcmol/L) to accelerate the dissolution and resorption of existing tophi and crystal deposits. (2) GENETIC SCREENING FOR HLA-B*5801: Allopurinol is the preferred first-line xanthine oxidase inhibitor. However, allopurinol can trigger Allopurinol Hypersensitivity Syndrome (AHS), a severe, life-threatening adverse reaction (Stevens-Johnson syndrome, toxic epidermal necrolysis, eosinophilia, DRESS, acute liver/renal failure) with a mortality of 20-25%. AHS is strongly linked to the HLA-B*5801 allele. ACR guidelines mandate screening for HLA-B*5801 PRIOR TO ALLOPURINOL INITIATION in high-risk ancestral populations: individuals of Southeast Asian descent (Han Chinese, Korean, Thai) and African American individuals. If HLA-B*5801 is positive, allopurinol is strictly contraindicated, and febuxostat is preferred. (3) DOSING STRATEGY: Allopurinol must be initiated at a LOW DOSE (100 mg daily, or 50 mg in CKD) and GRADUALLY TITRATED upward every 2 to 4 weeks until the serum urate target (< 5.0 mg/dL) is achieved (doses may safely exceed 300 mg daily with proper renal monitoring). (4) CONCOMITANT FLARE PROPHYLAXIS: Rapid dissolution of articular crystals destabilizes crystal surfaces, triggering paradoxical acute gout flares. Concomitant anti-inflammatory prophylaxis (low-dose oral colchicine 0.6 mg daily or low-dose NSAID) is MANDATORY when starting urate-lowering therapy and must be continued for at least 3 to 6 months (or ongoing if tophi remain active). Han Chinese man with tophaceous gout requires HLA-B*5801 screening before allopurinol, treat-to-target titration to serum urate < 5.0 mg/dL, and concurrent colchicine flare prophylaxis for 3-6 months.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Chronic Tophaceous Gout Treat-to-Target Management.",
+    "keyPoints": [
+      "Chronic Tophaceous Gout Treat-to-Target Management",
+      "Han Chinese man with tophaceous gout requires HLA-B*5801 screening before allopurinol, treat-to-target titration to serum urate < 5.0 mg/dL, and concurrent colchicine flare prophyl"
+    ],
+    "references": [
+      {
+        "label": "FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760. PMID: 32390406.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32390406/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0410",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Geriatric Major Depressive Disorder with Insomnia and Cachexia",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 81-year-old widower is brought to the outpatient geriatric medicine clinic by his daughter due to a 3-month history of profound sadness, daily crying spells, severe loss of interest in his usual hobbies (gardening and reading), and low energy following the death of his wife 6 months ago. He reports severe sleep-initiation and sleep-maintenance insomnia, sleeping only 2 to 3 hours per night. His appetite has completely disappeared; he eats only a few bites of toast daily and has experienced an unintentional 7-kg (15-lb) weight loss over the past 8 weeks. Physical examination demonstrates an alert, frail, cachectic man with psychomotor slowing. Vital signs show blood pressure of 124/76 mm Hg, heart rate of 68/min, and BMI of 18.2 kg/m2. Neurological examination is normal, and Mini-Mental State Examination score is 27/30. Laboratory evaluation, including complete blood count, comprehensive metabolic panel, thyroid-stimulating hormone (TSH), and serum vitamin B12, is completely normal. Diagnostic criteria for major depressive disorder are met.\n\nWhich of the following antidepressants represents the most appropriate initial pharmacological choice for this patient?",
+    "options": [
+      {
+        "text": "Oral fluoxetine 20 mg daily in the morning",
+        "correct": false,
+        "explanation": "Fluoxetine is an activating SSRI with potent 5-HT2 stimulation that commonly causes anorexia, nausea, weight loss, and insomnia, which will severely worsen this patient's cachexia (BMI 18.2) and sleep deprivation."
+      },
+      {
+        "text": "Oral bupropion hydrochloride extended-release 150 mg daily",
+        "correct": false,
+        "explanation": "Bupropion is an activating norepinephrine-dopamine reuptake inhibitor that suppresses appetite, promotes weight loss, and causes insomnia, making it contraindicated in cachectic, insomniac patients."
+      },
+      {
+        "text": "Oral amitriptyline 50 mg at bedtime",
+        "correct": false,
+        "explanation": "While tertiary TCAs cause weight gain and sedation, amitriptyline is strongly contraindicated in older adults by Beers Criteria due to severe anticholinergic effects (urinary retention, delirium, falls) and cardiotoxicity."
+      },
+      {
+        "text": "Oral paroxetine 20 mg daily at bedtime",
+        "correct": false,
+        "explanation": "Paroxetine has potent anticholinergic adverse effects (Beers Criteria PIM) and does not stimulate appetite as effectively as mirtazapine, while causing significant sexual dysfunction and discontinuation syndrome."
+      },
+      {
+        "text": "Oral mirtazapine (15 mg orally at bedtime, titrating to 30 to 45 mg daily as tolerated)",
+        "correct": true,
+        "explanation": "Major Depressive Disorder in older adults often presents with prominent somatic symptoms, insomnia, and severe anorexia/weight loss. Choosing an antidepressant requires matching pharmacological receptor profiles to the patient's individual symptom cluster: (1) PHARMACODYNAMICS OF MIRTAZAPINE: Mirtazapine is a Noradrenergic and Specific Serotonergic Antidepressant (NaSSA). Its mechanism of action encompasses: (a) Presynaptic alpha-2 adrenergic autoreceptor and heteroreceptor antagonism, which enhances central norepinephrine and serotonin (5-HT) release; (b) Potent postsynaptic 5-HT2 and 5-HT3 receptor blockade, which prevents the anxiety, agitation, insomnia, and nausea/GI adverse effects commonly seen with SSRIs; and (c) Potent central Histamine H1 receptor antagonism. (2) CLINICAL MATCH: (a) APPETITE STIMULATION AND WEIGHT GAIN: H1 and 5-HT2C antagonism stimulates the hypothalamic appetite center, producing significant orexigenic (appetite-stimulating) effects and reversing severe cachexia/weight loss. (b) SEDATION AND SLEEP ARCHITECTURE: H1 blockade improves sleep-onset latency and total sleep time without suppressing REM sleep, making bedtime administration ideal for severe insomnia. (3) WHY NOT SSRIs/SNRIs AS FIRST-LINE IN THIS PATIENT: SSRIs (e.g., fluoxetine, sertraline) commonly cause anorexia, nausea, weight loss, and sleep fragmentation in the first several weeks of therapy, which would dangerously exacerbate this patient's severe cachexia (BMI 18.2 kg/m2) and insomnia."
+      }
+    ],
+    "explanation": "Major Depressive Disorder in older adults often presents with prominent somatic symptoms, insomnia, and severe anorexia/weight loss. Choosing an antidepressant requires matching pharmacological receptor profiles to the patient's individual symptom cluster: (1) PHARMACODYNAMICS OF MIRTAZAPINE: Mirtazapine is a Noradrenergic and Specific Serotonergic Antidepressant (NaSSA). Its mechanism of action encompasses: (a) Presynaptic alpha-2 adrenergic autoreceptor and heteroreceptor antagonism, which enhances central norepinephrine and serotonin (5-HT) release; (b) Potent postsynaptic 5-HT2 and 5-HT3 receptor blockade, which prevents the anxiety, agitation, insomnia, and nausea/GI adverse effects commonly seen with SSRIs; and (c) Potent central Histamine H1 receptor antagonism. (2) CLINICAL MATCH: (a) APPETITE STIMULATION AND WEIGHT GAIN: H1 and 5-HT2C antagonism stimulates the hypothalamic appetite center, producing significant orexigenic (appetite-stimulating) effects and reversing severe cachexia/weight loss. (b) SEDATION AND SLEEP ARCHITECTURE: H1 blockade improves sleep-onset latency and total sleep time without suppressing REM sleep, making bedtime administration ideal for severe insomnia. (3) WHY NOT SSRIs/SNRIs AS FIRST-LINE IN THIS PATIENT: SSRIs (e.g., fluoxetine, sertraline) commonly cause anorexia, nausea, weight loss, and sleep fragmentation in the first several weeks of therapy, which would dangerously exacerbate this patient's severe cachexia (BMI 18.2 kg/m2) and insomnia. Elderly depressed patient with severe insomnia and anorexia/weight loss (BMI 18.2) requires oral mirtazapine for its dual appetite-stimulating (H1/5-HT2C) and sedative effects.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Geriatric Major Depressive Disorder with Insomnia and Cachexia.",
+    "keyPoints": [
+      "Geriatric Major Depressive Disorder with Insomnia and Cachexia",
+      "Elderly depressed patient with severe insomnia and anorexia/weight loss (BMI 18.2) requires oral mirtazapine for its dual appetite-stimulating (H1/5-HT2C) and sedative effects."
+    ],
+    "references": [
+      {
+        "label": "Watanabe N, Omori IM, Nakagawa A, et al. Mirtazapine versus other antidepressive agents for depression. Cochrane Database Syst Rev. 2011;(12):CD006528. PMID: 22161405.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22161405/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0411",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Generalized Anxiety Disorder (GAD) Long-Term Pharmacotherapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old certified public accountant presents to the primary care clinic complaining of feeling constantly 'on edge' for the past 9 months. She describes uncontrollable, excessive worry about multiple life domains, including work performance, family finances, her children's health, and minor daily errands. She reports chronic muscle tension in her neck and shoulders, irritability, difficulty concentrating, and restless, unrefreshing sleep. Physical examination is completely normal with normal thyroid examination. Laboratory evaluation, including complete blood count, comprehensive metabolic panel, and serum TSH, is unremarkable. She drinks one cup of coffee daily and does not use tobacco, alcohol, or illicit substances. She requests a prescription for alprazolam, stating that her friend takes it for stress and finds it immediately helpful.\n\nWhich of the following represents the most appropriate initial evidence-based management strategy for this patient's generalized anxiety disorder?",
+    "options": [
+      {
+        "text": "Initiate first-line pharmacotherapy with an SSRI (e.g., escitalopram or sertraline) or SNRI (e.g., duloxetine or venlafaxine) combined with Cognitive Behavioral Therapy (CBT), while declining long-term benzodiazepines",
+        "correct": true,
+        "explanation": "Generalized Anxiety Disorder (GAD) is characterized by excessive, uncontrollable anxiety and worry about a number of events or activities occurring more days than not for at least 6 months, accompanied by at least 3 of 6 somatic/cognitive symptoms: restlessness, fatigue, impaired concentration, irritability, muscle tension, and sleep disturbance. (1) FIRST-LINE EVIDENCE-BASED THERAPY (APA / NICE GUIDELINES): (a) PHARMACOTHERAPY: Selective Serotonin Reuptake Inhibitors (SSRIs: escitalopram, sertraline, paroxetine) or Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs: duloxetine, venlafaxine XR) are the FIRST-LINE MEDICATIONS OF CHOICE. They have demonstrated consistent efficacy in reducing psychic and somatic anxiety symptoms and preventing relapse. (b) PSYCHOTHERAPY: Cognitive Behavioral Therapy (CBT) has equivalent efficacy to pharmacotherapy and provides superior long-term durability following treatment cessation. The combination of an SSRI/SNRI and CBT achieves the highest rates of clinical remission. (2) RATIONALE FOR AVOIDING BENZODIAZEPINES: Benzodiazepines (alprazolam, clonazepam) provide rapid acute symptomatic relief, but they carry catastrophic drawbacks for chronic anxiety disorders: rapid development of pharmacodynamic tolerance, physical dependence, cognitive blunting, psychomotor impairment, and severe rebound anxiety upon discontinuation. Guidelines explicitly recommend AGAINST long-term benzodiazepine maintenance for GAD. Short-term bridging (1-2 weeks) can be considered only in select crises while awaiting SSRI onset, but maintenance therapy is contraindicated."
+      },
+      {
+        "text": "Prescribe oral alprazolam 0.5 mg three times daily as scheduled long-term maintenance monotherapy",
+        "correct": false,
+        "explanation": "Long-term benzodiazepines carry high risks of tolerance, physiological dependence, motor impairment, and severe withdrawal; guidelines explicitly recommend against benzodiazepine maintenance for GAD."
+      },
+      {
+        "text": "Initiate oral buspirone 5 mg twice daily as as-needed (PRN) rescue therapy for acute anxiety spikes",
+        "correct": false,
+        "explanation": "Buspirone is a 5-HT1A partial agonist that requires 2 to 4 weeks of consistent scheduled daily dosing to take effect; it has zero efficacy when taken PRN for acute anxiety."
+      },
+      {
+        "text": "Prescribe oral propranolol 20 mg twice daily as continuous maintenance therapy for generalized anxiety",
+        "correct": false,
+        "explanation": "Propranolol blunts peripheral autonomic symptoms (tremor, tachycardia) in situational performance anxiety (social anxiety disorder); it has no efficacy for the pervasive worry of GAD."
+      },
+      {
+        "text": "Administer oral quetiapine 150 mg daily as first-line monotherapy",
+        "correct": false,
+        "explanation": "Atypical antipsychotics are third-line adjunctive agents reserved for refractory severe GAD failing multiple SSRIs/SNRIs, due to substantial metabolic risks (weight gain, diabetes, dyslipidemia)."
+      }
+    ],
+    "explanation": "Generalized Anxiety Disorder (GAD) is characterized by excessive, uncontrollable anxiety and worry about a number of events or activities occurring more days than not for at least 6 months, accompanied by at least 3 of 6 somatic/cognitive symptoms: restlessness, fatigue, impaired concentration, irritability, muscle tension, and sleep disturbance. (1) FIRST-LINE EVIDENCE-BASED THERAPY (APA / NICE GUIDELINES): (a) PHARMACOTHERAPY: Selective Serotonin Reuptake Inhibitors (SSRIs: escitalopram, sertraline, paroxetine) or Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs: duloxetine, venlafaxine XR) are the FIRST-LINE MEDICATIONS OF CHOICE. They have demonstrated consistent efficacy in reducing psychic and somatic anxiety symptoms and preventing relapse. (b) PSYCHOTHERAPY: Cognitive Behavioral Therapy (CBT) has equivalent efficacy to pharmacotherapy and provides superior long-term durability following treatment cessation. The combination of an SSRI/SNRI and CBT achieves the highest rates of clinical remission. (2) RATIONALE FOR AVOIDING BENZODIAZEPINES: Benzodiazepines (alprazolam, clonazepam) provide rapid acute symptomatic relief, but they carry catastrophic drawbacks for chronic anxiety disorders: rapid development of pharmacodynamic tolerance, physical dependence, cognitive blunting, psychomotor impairment, and severe rebound anxiety upon discontinuation. Guidelines explicitly recommend AGAINST long-term benzodiazepine maintenance for GAD. Short-term bridging (1-2 weeks) can be considered only in select crises while awaiting SSRI onset, but maintenance therapy is contraindicated. GAD (uncontrollable worry > 6 months) requires first-line therapy with an SSRI/SNRI combined with CBT; avoid long-term benzodiazepine maintenance.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Generalized Anxiety Disorder (GAD) Long-Term Pharmacotherapy.",
+    "keyPoints": [
+      "Generalized Anxiety Disorder (GAD) Long-Term Pharmacotherapy",
+      "GAD (uncontrollable worry > 6 months) requires first-line therapy with an SSRI/SNRI combined with CBT; avoid long-term benzodiazepine maintenance."
+    ],
+    "references": [
+      {
+        "label": "Bandelow B, Michaelis S, Wedekind D. Treatment of anxiety disorders. Dialogues Clin Neurosci. 2017;19(2):93-107. PMID: 28867934.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28867934/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0412",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Alcohol Use Disorder (AUD) Pharmacotherapy Selection",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 48-year-old man presents to the primary care clinic seeking help to maintain alcohol abstinence. He has a 12-year history of severe alcohol use disorder, drinking 8 to 10 beers daily, but completed a medically supervised inpatient alcohol withdrawal protocol 10 days ago and has remained completely abstinent since discharge. He attends weekly mutual-help meetings (Alcoholics Anonymous) but experiences intense, intrusive alcohol cravings in the late afternoons that threaten his sobriety. He takes no prescription medications, uses no illicit substances, and is not prescribed opioids. Physical examination is completely normal with no ascites, jaundice, or peripheral stigmata of chronic liver disease. Laboratory evaluation reveals:\n- Serum alanine aminotransferase (ALT): 34 U/L (normal)\n- Serum aspartate aminotransferase (AST): 38 U/L (normal)\n- Serum total bilirubin: 0.7 mg/dL\n- Serum creatinine: 0.9 mg/dL (estimated GFR > 90 mL/min/1.73 m2)\n- Urine drug screen: Negative for all substances, including opioids\n\nAccording to American Psychiatric Association (APA) practice guidelines, which of the following represents the preferred first-line pharmacological agent to reduce alcohol cravings and maintain abstinence in this patient?",
+    "options": [
+      {
+        "text": "Oral disulfiram 250 mg once daily as first-line craving reduction therapy",
+        "correct": false,
+        "explanation": "Disulfiram inhibits aldehyde dehydrogenase and acts as an aversion deterrent; it has zero pharmacological effect on reducing neurochemical alcohol cravings and does not improve abstinence compared to placebo."
+      },
+      {
+        "text": "Oral naltrexone (50 mg once daily, or monthly extended-release intramuscular injection 380 mg)",
+        "correct": true,
+        "explanation": "Alcohol Use Disorder (AUD) pharmacotherapy is strongly recommended by APA guidelines for moderate-to-severe AUD to reduce cravings and prevent relapse: (1) FIRST-LINE AGENTS: (a) NALTREXONE: A competitive mu-opioid receptor antagonist that blocks endogenous beta-endorphins released during alcohol consumption. By blocking mu-opioid receptors on GABAergic interneurons in the ventral tegmental area (VTA), naltrexone prevents dopamine release in the nucleus accumbens, uncoupling alcohol consumption from its neurobiological euphoric 'reward' (blunting reinforcement) and significantly reducing heavy drinking days and cravings. It is the FIRST-LINE DRUG OF CHOICE in patients with normal liver function who are not taking opioids. CONTRAINDICATIONS: Concurrent opioid use (triggers precipitated acute opioid withdrawal) and acute hepatitis or decompensated liver failure. (b) ACAMPROSATE: Modulates NMDA and GABA-A neurotransmission to restore balance disrupted by chronic alcohol exposure. Acamprosate is primarily indicated for MAINTAINING ABSTINENCE after sobriety is established. It undergoes renal elimination and is the FIRST-LINE CHOICE IN PATIENTS WITH LIVER DISEASE, but is CONTRAINDICATED in severe renal impairment (eGFR < 30 mL/min). (2) SECOND-LINE AGENTS: DISULFIRAM is an irreversible aldehyde dehydrogenase inhibitor that causes toxic acetaldehyde accumulation (facial flushing, vomiting, tachycardia) if alcohol is consumed; it acts purely as a psychological deterrent without reducing neurochemical cravings and is second-line."
+      },
+      {
+        "text": "Oral acamprosate 666 mg three times daily as first-line therapy, because naltrexone is strictly contraindicated in all patients with a history of alcohol use disorder",
+        "correct": false,
+        "explanation": "Naltrexone is NOT contraindicated in alcohol use disorder (it is FDA-approved and first-line); while acamprosate is an alternative, naltrexone is once-daily and has superior evidence for reducing alcohol cravings."
+      },
+      {
+        "text": "Oral chlordiazepoxide 25 mg twice daily as chronic outpatient maintenance therapy",
+        "correct": false,
+        "explanation": "Benzodiazepines are used short-term (3-5 days) for acute alcohol withdrawal; using them as chronic maintenance therapy carries high risks of fatal respiratory depression when mixed with alcohol and addiction transfer."
+      },
+      {
+        "text": "Daily oral bupropion 150 mg daily for alcohol craving suppression",
+        "correct": false,
+        "explanation": "Bupropion lowers the seizure threshold and is specifically contraindicated in patients with alcohol use disorder due to a high risk of grand mal seizures during alcohol cessation."
+      }
+    ],
+    "explanation": "Alcohol Use Disorder (AUD) pharmacotherapy is strongly recommended by APA guidelines for moderate-to-severe AUD to reduce cravings and prevent relapse: (1) FIRST-LINE AGENTS: (a) NALTREXONE: A competitive mu-opioid receptor antagonist that blocks endogenous beta-endorphins released during alcohol consumption. By blocking mu-opioid receptors on GABAergic interneurons in the ventral tegmental area (VTA), naltrexone prevents dopamine release in the nucleus accumbens, uncoupling alcohol consumption from its neurobiological euphoric 'reward' (blunting reinforcement) and significantly reducing heavy drinking days and cravings. It is the FIRST-LINE DRUG OF CHOICE in patients with normal liver function who are not taking opioids. CONTRAINDICATIONS: Concurrent opioid use (triggers precipitated acute opioid withdrawal) and acute hepatitis or decompensated liver failure. (b) ACAMPROSATE: Modulates NMDA and GABA-A neurotransmission to restore balance disrupted by chronic alcohol exposure. Acamprosate is primarily indicated for MAINTAINING ABSTINENCE after sobriety is established. It undergoes renal elimination and is the FIRST-LINE CHOICE IN PATIENTS WITH LIVER DISEASE, but is CONTRAINDICATED in severe renal impairment (eGFR < 30 mL/min). (2) SECOND-LINE AGENTS: DISULFIRAM is an irreversible aldehyde dehydrogenase inhibitor that causes toxic acetaldehyde accumulation (facial flushing, vomiting, tachycardia) if alcohol is consumed; it acts purely as a psychological deterrent without reducing neurochemical cravings and is second-line. Abstinent patient with alcohol use disorder, intense cravings, normal liver enzymes, and no opioid use should receive oral naltrexone as first-line craving reduction therapy.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Alcohol Use Disorder (AUD) Pharmacotherapy Selection.",
+    "keyPoints": [
+      "Alcohol Use Disorder (AUD) Pharmacotherapy Selection",
+      "Abstinent patient with alcohol use disorder, intense cravings, normal liver enzymes, and no opioid use should receive oral naltrexone as first-line craving reduction therapy."
+    ],
+    "references": [
+      {
+        "label": "Reus VI, Fochtmann LJ, Bukstein O, et al. The American Psychiatric Association Practice Guideline for the Pharmacological Treatment of Patients With Alcohol Use Disorder. Am J Psychiatry. 2018;175(1):86-90. PMID: 29301420.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29301420/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0413",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Opioid Use Disorder Maintenance and Buprenorphine Induction",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 28-year-old man presents to the outpatient addiction medicine clinic seeking medications for opioid use disorder (MOUD). He has a 4-year history of non-medical oxycodone and illicit fentanyl use, currently snorting 1 to 2 bags of fentanyl daily. He has made multiple unsuccessful attempts to quit cold-turkey, each time relapsing due to unbearable withdrawal symptoms. He has no chronic medical conditions, takes no prescription medications, and has normal liver and kidney function tests. He last used fentanyl 8 hours ago. On physical examination, he appears anxious and restless. Vital signs reveal blood pressure of 138/86 mm Hg, heart rate of 98/min, and respiratory rate of 18/min. Physical examination reveals mild piloerection (gooseflesh), dilated pupils (mydriasis, 5 mm), rhinorrhea, yawning, and mild abdominal cramping without vomiting or diarrhea. His Clinical Opiate Withdrawal Scale (COWS) score is calculated at 11 (mild-to-moderate withdrawal; threshold for induction >= 8 to 12). He has chosen buprenorphine-naloxone sublingual films for maintenance therapy.\n\nWhich of the following explains why this patient must be in objective mild-to-moderate opioid withdrawal (COWS >= 8-12) prior to administering the initial dose of buprenorphine-naloxone?",
+    "options": [
+      {
+        "text": "Naloxone in the sublingual tablet is rapidly absorbed through the sublingual mucosa and will trigger acute receptor blockade unless withdrawal is present",
+        "correct": false,
+        "explanation": "Sublingual naloxone has negligible oral/sublingual bioavailability (< 5-10%) and is included solely to prevent parenteral injection; precipitated withdrawal from sublingual buprenorphine-naloxone is driven entirely by buprenorphine itself."
+      },
+      {
+        "text": "Administering buprenorphine in the absence of withdrawal triggers fatal respiratory depression due to synergistic full-agonist activation",
+        "correct": false,
+        "explanation": "Buprenorphine is a partial agonist with a well-established ceiling effect on respiratory depression; the danger of administering it too early is precipitated withdrawal, not respiratory arrest."
+      },
+      {
+        "text": "Buprenorphine has an exceptionally high binding affinity for mu-opioid receptors combined with low intrinsic efficacy (partial agonism), which rapidly displaces full opioid agonists and precipitates severe acute withdrawal if receptors remain heavily occupied",
+        "correct": true,
+        "explanation": "Buprenorphine is a high-affinity PARTIAL MU-OPIOID RECEPTOR AGONIST and kappa-opioid receptor antagonist, co-formulated with naloxone (4:1 ratio) to deter intravenous misuse (naloxone has poor sublingual bioavailability < 5% but blocks mu receptors if injected). (1) THE DANGER OF PRECIPITATED WITHDRAWAL: Buprenorphine's binding affinity (Ki ~ 0.2 nM) for the mu-opioid receptor is significantly HIGHER than full agonists (heroin, morphine, oxycodone, methadone, fentanyl). If buprenorphine is administered while a patient is still intoxicated or during early non-withdrawal when mu receptors are saturated with full agonists, buprenorphine IMMEDIATELY DISPLACES the full agonists from receptor binding pockets. However, because buprenorphine has LOW INTRINSIC EFFICACY (partial agonist), net intracellular mu-receptor signaling plummets precipitously within minutes. This sudden crash in opioid receptor tone triggers CATASTROPHIC PRECIPITATED WITHDRAWAL (explosive vomiting, diarrhea, diaphoresis, severe muscle spasms, extreme dysphoria), which often leads to immediate clinic abandonment and fatal illicit drug relapse. (2) INDUCTION RULE: To safely initiate standard buprenorphine, the patient must be in OBJECTIVE MILD-TO-MODERATE WITHDRAWAL (Clinical Opiate Withdrawal Scale [COWS] score >= 8-12). This verifies that full agonists have dissociated from mu receptors and cleared, ensuring buprenorphine will increase (rather than decrease) net mu-receptor signaling, providing rapid symptom relief."
+      },
+      {
+        "text": "Hepatic CYP3A4 enzymes are inhibited during early withdrawal, preventing buprenorphine hepatotoxicity",
+        "correct": false,
+        "explanation": "Buprenorphine metabolism is not dependent on withdrawal-induced enzyme fluctuations; the timing requirement is purely pharmacodynamic at the mu-opioid receptor."
+      },
+      {
+        "text": "Buprenorphine converts into a full mu-opioid antagonist when administered to an individual without physical opioid dependence",
+        "correct": false,
+        "explanation": "Buprenorphine is always a partial agonist; it does not change its chemical receptor pharmacology based on dependence status."
+      }
+    ],
+    "explanation": "Buprenorphine is a high-affinity PARTIAL MU-OPIOID RECEPTOR AGONIST and kappa-opioid receptor antagonist, co-formulated with naloxone (4:1 ratio) to deter intravenous misuse (naloxone has poor sublingual bioavailability < 5% but blocks mu receptors if injected). (1) THE DANGER OF PRECIPITATED WITHDRAWAL: Buprenorphine's binding affinity (Ki ~ 0.2 nM) for the mu-opioid receptor is significantly HIGHER than full agonists (heroin, morphine, oxycodone, methadone, fentanyl). If buprenorphine is administered while a patient is still intoxicated or during early non-withdrawal when mu receptors are saturated with full agonists, buprenorphine IMMEDIATELY DISPLACES the full agonists from receptor binding pockets. However, because buprenorphine has LOW INTRINSIC EFFICACY (partial agonist), net intracellular mu-receptor signaling plummets precipitously within minutes. This sudden crash in opioid receptor tone triggers CATASTROPHIC PRECIPITATED WITHDRAWAL (explosive vomiting, diarrhea, diaphoresis, severe muscle spasms, extreme dysphoria), which often leads to immediate clinic abandonment and fatal illicit drug relapse. (2) INDUCTION RULE: To safely initiate standard buprenorphine, the patient must be in OBJECTIVE MILD-TO-MODERATE WITHDRAWAL (Clinical Opiate Withdrawal Scale [COWS] score >= 8-12). This verifies that full agonists have dissociated from mu receptors and cleared, ensuring buprenorphine will increase (rather than decrease) net mu-receptor signaling, providing rapid symptom relief. Buprenorphine's high binding affinity and low intrinsic activity displaces full agonists, causing precipitated withdrawal if given before mild-to-moderate withdrawal (COWS >= 8-12) occurs.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Opioid Use Disorder Maintenance and Buprenorphine Induction.",
+    "keyPoints": [
+      "Opioid Use Disorder Maintenance and Buprenorphine Induction",
+      "Buprenorphine's high binding affinity and low intrinsic activity displaces full agonists, causing precipitated withdrawal if given before mild-to-moderate withdrawal (COWS >= 8-12)"
+    ],
+    "references": [
+      {
+        "label": "Kampman K, Jarvis M. American Society of Addiction Medicine (ASAM) National Practice Guideline for the Use of Medications in the Treatment of Addiction Involving Opioid Use. J Addict Med. 2015;9(5):358-367. PMID: 26406300.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26406300/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0414",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Tobacco Use Disorder Pharmacotherapy and the EAGLES Trial",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old man presents to his primary care physician expressing a strong desire to stop smoking cigarettes. He has smoked 1.5 packs of cigarettes daily for 30 years (45 pack-year history). He smokes his first cigarette within 5 minutes of waking each morning. He has attempted to quit smoking three times previously using over-the-counter nicotine patches alone, but relapsed within 2 weeks due to severe nicotine cravings and irritability. His past medical history includes well-controlled major depressive disorder treated with sertraline 100 mg daily for the past 4 years; he has had no suicidal ideation or depressive episodes in over 3 years. Vital signs and physical examination are normal.\n\nBased on landmark randomized clinical trial evidence (the EAGLES trial) and current American Thoracic Society (ATS) guidelines, which of the following represents the preferred first-line pharmacological strategy for smoking cessation in this patient?",
+    "options": [
+      {
+        "text": "Oral bupropion hydrochloride extended-release 150 mg twice daily monotherapy, because varenicline is strictly contraindicated in all patients with a history of depression",
+        "correct": false,
+        "explanation": "The EAGLES trial definitively proved that varenicline is completely safe in patients with stable psychiatric disorders and does not increase neuropsychiatric events; varenicline has superior quit rates compared to bupropion."
+      },
+      {
+        "text": "Single-agent transdermal nicotine patch 21 mg daily monotherapy without short-acting rescue therapy",
+        "correct": false,
+        "explanation": "Single-agent nicotine patch monotherapy is significantly inferior to varenicline or dual combination NRT (patch + gum/lozenge), and this patient has already failed nicotine patch monotherapy three times."
+      },
+      {
+        "text": "Switch from combustible cigarettes to electronic nicotine delivery systems (e-cigarettes) as primary cessation therapy",
+        "correct": false,
+        "explanation": "E-cigarettes maintain nicotine dependence, lack long-term safety data, and are not approved by the FDA or ATS as first-line smoking cessation pharmacotherapy."
+      },
+      {
+        "text": "Oral varenicline (titrated from 0.5 mg daily to 1 mg twice daily for 12 weeks), or dual combination nicotine replacement therapy (nicotine transdermal patch PLUS short-acting nicotine gum or lozenge)",
+        "correct": true,
+        "explanation": "Tobacco Use Disorder is the leading cause of preventable morbidity and premature mortality in the United States. Pharmacotherapy substantially increases long-term smoking abstinence: (1) MECHANISM OF VARENICLINE: Varenicline is an oral PARTIAL AGONIST at the alpha-4 beta-2 neuronal nicotinic acetylcholine receptor (nAChR). It produces two synergistic clinical actions: (a) Agonist action: It provides moderate, sustained receptor stimulation (approximately 30-40% of nicotine's intrinsic activity), releasing modest baseline dopamine in the mesolimbic system to relieve nicotine withdrawal symptoms and cravings; and (b) Antagonist action: Because of its extremely high binding affinity, it competitively blocks inhaled nicotine from binding the receptor, abolishing the dopamine surge and psychological reinforcement ('buzz') if the patient slips and smokes a cigarette. (2) LANDMARK EVIDENCE (THE EAGLES TRIAL, LANCET 2016): The EAGLES trial was a massive, multinational, double-blind RCT involving > 8,000 smokers (with and without psychiatric disorders). (a) Efficacy: Varenicline was SIGNIFICANTLY SUPERIOR to bupropion, nicotine patch monotherapy, and placebo in achieving continuous abstinence at weeks 9-24 (abstinence rates ~22% for varenicline vs 16% for bupropion and patch vs 8% for placebo). (b) Neuropsychiatric Safety: Crucially, EAGLES proved that varenicline DOES NOT INCREASE neuropsychiatric adverse events (suicide, depression, aggression) compared to placebo or nicotine patch, even in patients with stable psychiatric disorders, leading the FDA to remove the historical black box warning. (3) ATS GUIDELINES: Strongly recommend VARENICLINE OVER BUPROPION OR NICOTINE PATCH MONOTHERAPY as initial therapy, or DUAL COMBINATION NRT (long-acting transdermal patch + short-acting gum/lozenge) as an equivalent first-line alternative."
+      },
+      {
+        "text": "Oral nortriptyline 75 mg daily as first-line monotherapy",
+        "correct": false,
+        "explanation": "Nortriptyline is a second-line agent with significant anticholinergic and cardiotoxic adverse effects; varenicline is first-line with proven superiority."
+      }
+    ],
+    "explanation": "Tobacco Use Disorder is the leading cause of preventable morbidity and premature mortality in the United States. Pharmacotherapy substantially increases long-term smoking abstinence: (1) MECHANISM OF VARENICLINE: Varenicline is an oral PARTIAL AGONIST at the alpha-4 beta-2 neuronal nicotinic acetylcholine receptor (nAChR). It produces two synergistic clinical actions: (a) Agonist action: It provides moderate, sustained receptor stimulation (approximately 30-40% of nicotine's intrinsic activity), releasing modest baseline dopamine in the mesolimbic system to relieve nicotine withdrawal symptoms and cravings; and (b) Antagonist action: Because of its extremely high binding affinity, it competitively blocks inhaled nicotine from binding the receptor, abolishing the dopamine surge and psychological reinforcement ('buzz') if the patient slips and smokes a cigarette. (2) LANDMARK EVIDENCE (THE EAGLES TRIAL, LANCET 2016): The EAGLES trial was a massive, multinational, double-blind RCT involving > 8,000 smokers (with and without psychiatric disorders). (a) Efficacy: Varenicline was SIGNIFICANTLY SUPERIOR to bupropion, nicotine patch monotherapy, and placebo in achieving continuous abstinence at weeks 9-24 (abstinence rates ~22% for varenicline vs 16% for bupropion and patch vs 8% for placebo). (b) Neuropsychiatric Safety: Crucially, EAGLES proved that varenicline DOES NOT INCREASE neuropsychiatric adverse events (suicide, depression, aggression) compared to placebo or nicotine patch, even in patients with stable psychiatric disorders, leading the FDA to remove the historical black box warning. (3) ATS GUIDELINES: Strongly recommend VARENICLINE OVER BUPROPION OR NICOTINE PATCH MONOTHERAPY as initial therapy, or DUAL COMBINATION NRT (long-acting transdermal patch + short-acting gum/lozenge) as an equivalent first-line alternative. Smoking cessation candidate with prior patch failures and stable depression should receive oral varenicline (or dual NRT); EAGLES trial proved varenicline has superior efficacy and is safe in psychiatric history.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Tobacco Use Disorder Pharmacotherapy and the EAGLES Trial.",
+    "keyPoints": [
+      "Tobacco Use Disorder Pharmacotherapy and the EAGLES Trial",
+      "Smoking cessation candidate with prior patch failures and stable depression should receive oral varenicline (or dual NRT); EAGLES trial proved varenicline has superior efficacy and"
+    ],
+    "references": [
+      {
+        "label": "Anthenelli RM, Benowitz NL, West R, et al. Neuropsychiatric safety and efficacy of varenicline, bupropion, and nicotine patch in smokers with and without psychiatric disorders (EAGLES): a double-blind, randomised, placebo-controlled clinical trial. Lancet. 2016;387(10037):2507...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27116918/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0415",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Atrial Fibrillation Stroke Prevention and Anticoagulation Selection",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 71-year-old woman presents to the clinic for a routine follow-up. An electrocardiogram obtained during the visit incidentally reveals atrial fibrillation with a ventricular response of 84/min; an ECG 6 months ago showed normal sinus rhythm. She has a history of essential hypertension managed with amlodipine and type 2 diabetes mellitus managed with metformin. She has never experienced a stroke, transient ischemic attack, or systemic embolism, and has no history of heart failure or vascular disease. Vital signs demonstrate blood pressure of 132/78 mm Hg and heart rate of 82/min. Transthoracic echocardiography reveals a normal left ventricular ejection fraction of 60%, mild left atrial enlargement, and mild trace mitral regurgitation without mitral stenosis or prosthetic heart valves. Laboratory evaluation shows a serum creatinine of 0.9 mg/dL (estimated GFR 74 mL/min) and normal liver function tests.\n\nBased on her calculated stroke risk score and current AHA/ACC/ACCP guidelines, which of the following represents the most appropriate antithrombotic management strategy for this patient?",
+    "options": [
+      {
+        "text": "Initiate daily oral aspirin 81 mg monotherapy, as antiplatelet therapy provides sufficient stroke reduction with lower bleeding risk",
+        "correct": false,
+        "explanation": "Aspirin is significantly inferior to oral anticoagulation in preventing stroke in atrial fibrillation (reducing stroke by only ~20% vs ~65% for anticoagulation) while carrying comparable major bleeding rates; guidelines recommend against aspirin for stroke prevention in AF."
+      },
+      {
+        "text": "Initiate oral warfarin adjusted to target an INR of 2.0 to 3.0, as warfarin is preferred over DOACs in all patients over 70 years of age",
+        "correct": false,
+        "explanation": "DOACs are preferred over warfarin in older adults because DOACs reduce intracranial hemorrhage by 50% compared to warfarin; age > 70 is an indication for DOACs, not warfarin."
+      },
+      {
+        "text": "Prescribe combination therapy with oral aspirin 81 mg and clopidogrel 75 mg daily",
+        "correct": false,
+        "explanation": "Dual antiplatelet therapy (DAPT) is significantly inferior to oral anticoagulation for stroke prevention in AF and carries major bleeding rates approaching oral anticoagulation; DAPT is not recommended."
+      },
+      {
+        "text": "Withhold all antithrombotic therapy because the patient is completely asymptomatic and her ventricular rate is well controlled",
+        "correct": false,
+        "explanation": "Asymptomatic atrial fibrillation carries an identical stroke risk to symptomatic AF; withholding anticoagulation in a patient with a CHA2DS2-VASc score of 4 carries a 4% annual risk of disabling embolic stroke."
+      },
+      {
+        "text": "Initiate oral anticoagulation with a Direct Oral Anticoagulant (DOAC; e.g., apixaban 5 mg twice daily or rivaroxaban 20 mg once daily), which is preferred over warfarin for non-valvular atrial fibrillation",
+        "correct": true,
+        "explanation": "Stroke prevention in Atrial Fibrillation (AF) is guided by validated risk-stratification scoring: (1) CHA2DS2-VASc SCORE CALCULATION: (a) Congestive heart failure = 1 pt; (b) Hypertension = 1 pt; (c) Age >= 75 years = 2 pts; (d) Diabetes mellitus = 1 pt; (e) Stroke/TIA/thromboembolism = 2 pts; (f) Vascular disease (prior MI, PAD, aortic plaque) = 1 pt; (g) Age 65 to 74 years = 1 pt; (h) Sex category (Female) = 1 pt. In this patient: Hypertension (1 pt) + Age 71 (1 pt) + Diabetes (1 pt) + Female sex (1 pt) = TOTAL CHA2DS2-VASc SCORE OF 4 POINTS (annual ischemic stroke risk ~4.0%). (2) ANTICOAGULATION THRESHOLD (AHA/ACC/HRS GUIDELINES): Oral anticoagulation is strongly recommended for non-valvular AF in men with CHA2DS2-VASc >= 2 and in women with CHA2DS2-VASc >= 3. (3) DOAC SUPERIORITY OVER WARFARIN: For non-valvular AF, DIRECT ORAL ANTICOAGULANTS (DOACs: apixaban, rivaroxaban, edoxaban, dabigatran) ARE PREFERRED OVER WARFARIN based on massive landmark randomized trials (ARISTOTLE, ROCKET-AF, RE-LY, ENGAGE-AF). DOACs demonstrate non-inferior or superior reduction in ischemic stroke, a dramatic ~50% REDUCTION IN FATAL INTRACRANIAL HEMORRHAGE, significantly lower all-cause mortality, predictable fixed dosing without routine INR monitoring, and minimal dietary/drug interactions. (4) WARFARIN RESTRICTION: Warfarin remains strictly mandatory ONLY in 'valvular' AF, defined as AF in the presence of: (a) Mechanical prosthetic heart valves, OR (b) Moderate-to-severe rheumatic mitral stenosis."
+      }
+    ],
+    "explanation": "Stroke prevention in Atrial Fibrillation (AF) is guided by validated risk-stratification scoring: (1) CHA2DS2-VASc SCORE CALCULATION: (a) Congestive heart failure = 1 pt; (b) Hypertension = 1 pt; (c) Age >= 75 years = 2 pts; (d) Diabetes mellitus = 1 pt; (e) Stroke/TIA/thromboembolism = 2 pts; (f) Vascular disease (prior MI, PAD, aortic plaque) = 1 pt; (g) Age 65 to 74 years = 1 pt; (h) Sex category (Female) = 1 pt. In this patient: Hypertension (1 pt) + Age 71 (1 pt) + Diabetes (1 pt) + Female sex (1 pt) = TOTAL CHA2DS2-VASc SCORE OF 4 POINTS (annual ischemic stroke risk ~4.0%). (2) ANTICOAGULATION THRESHOLD (AHA/ACC/HRS GUIDELINES): Oral anticoagulation is strongly recommended for non-valvular AF in men with CHA2DS2-VASc >= 2 and in women with CHA2DS2-VASc >= 3. (3) DOAC SUPERIORITY OVER WARFARIN: For non-valvular AF, DIRECT ORAL ANTICOAGULANTS (DOACs: apixaban, rivaroxaban, edoxaban, dabigatran) ARE PREFERRED OVER WARFARIN based on massive landmark randomized trials (ARISTOTLE, ROCKET-AF, RE-LY, ENGAGE-AF). DOACs demonstrate non-inferior or superior reduction in ischemic stroke, a dramatic ~50% REDUCTION IN FATAL INTRACRANIAL HEMORRHAGE, significantly lower all-cause mortality, predictable fixed dosing without routine INR monitoring, and minimal dietary/drug interactions. (4) WARFARIN RESTRICTION: Warfarin remains strictly mandatory ONLY in 'valvular' AF, defined as AF in the presence of: (a) Mechanical prosthetic heart valves, OR (b) Moderate-to-severe rheumatic mitral stenosis. 71-year-old female with AF, HTN, and diabetes has a CHA2DS2-VASc score of 4; guidelines mandate oral anticoagulation with a DOAC (apixaban/rivaroxaban), which is preferred over warfarin.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Atrial Fibrillation Stroke Prevention and Anticoagulation Selection.",
+    "keyPoints": [
+      "Atrial Fibrillation Stroke Prevention and Anticoagulation Selection",
+      "71-year-old female with AF, HTN, and diabetes has a CHA2DS2-VASc score of 4; guidelines mandate oral anticoagulation with a DOAC (apixaban/rivaroxaban), which is preferred over war"
+    ],
+    "references": [
+      {
+        "label": "Joglar JA, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation. 2024;149(1):e1-e156. PMID: 38031654.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38031654/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0416",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Perioperative Anticoagulation Interruption and the BRIDGE Trial",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man with non-valvular atrial fibrillation (CHA2DS2-VASc score of 3: age 69, hypertension, diabetes) treated with oral apixaban (5 mg twice daily) is scheduled for elective major abdominal surgery (open hemicolectomy for colon adenocarcinoma). He has normal renal function with a serum creatinine of 1.0 mg/dL (estimated GFR 78 mL/min). His last dose of apixaban was taken this morning. The surgery is planned in 3 days. The surgical team asks for your perioperative medical consultation regarding how to manage his oral anticoagulation before and after the procedure.\n\nBased on landmark randomized clinical trial evidence (including the BRIDGE trial and PAUSE study) and current CHEST perioperative guidelines, which of the following represents the most appropriate perioperative anticoagulation protocol for this patient?",
+    "options": [
+      {
+        "text": "Discontinue apixaban 48 hours prior to surgery without administering parenteral low-molecular-weight heparin bridging, and resume apixaban 48 to 72 hours postoperatively once adequate surgical hemostasis is established",
+        "correct": true,
+        "explanation": "Perioperative management of Direct Oral Anticoagulants (DOACs: apixaban, rivaroxaban, dabigatran) differs fundamentally from warfarin: (1) PHARMACOKINETICS: DOACs have short terminal elimination half-lives (typically 8 to 14 hours in normal renal function) and rapid onset of action (peak anticoagulation within 1 to 3 hours of oral ingestion). (2) TIMING OF PREOPERATIVE INTERRUPTION (PAUSE STUDY): For surgeries with HIGH BLEEDING RISK (such as major open intra-abdominal, orthopedic, or intracranial surgery): Apixaban should be discontinued 48 HOURS PRIOR TO SURGERY (allowing 4 to 5 elimination half-lives to elapse, ensuring < 5-10% residual anticoagulant activity). (For low-bleeding-risk procedures, 24 hours is sufficient). (3) EVIDENCE AGAINST HEPARIN BRIDGING (THE BRIDGE TRIAL, NEJM 2015): The double-blind randomized BRIDGE trial proved that administering therapeutic low-molecular-weight heparin (LMWH) bridging during anticoagulation interruption DOES NOT REDUCE ARTERIAL THROMBOEMBOLISM (0.3% vs 0.4%) but TRIPLES THE RISK OF MAJOR BLEEDING (3.2% vs 1.3%). Because DOACs clear rapidly and resume action immediately upon ingestion, PARENTERAL HEPARIN BRIDGING IS STRICTLY UNNECESSARY AND HARMFUL IN DOAC PATIENTS. (4) POSTOPERATIVE RESUMPTION: For high-bleeding-risk procedures, therapeutic-dose apixaban is resumed 48 to 72 hours postoperatively once surgical hemostasis is complete (prophylactic low-dose LMWH can be used for VTE prophylaxis in the interim 24-48 hours if indicated)."
+      },
+      {
+        "text": "Discontinue apixaban 5 days prior to surgery and initiate therapeutic subcutaneous enoxaparin 1 mg/kg twice daily bridging until 12 hours before surgery",
+        "correct": false,
+        "explanation": "Discontinuing a DOAC 5 days prior is excessive due to its 12-hour half-life, and routine LMWH bridging triples major surgical bleeding without reducing arterial thromboembolism (BRIDGE trial)."
+      },
+      {
+        "text": "Continue apixaban 5 mg twice daily without interruption through the morning of surgery to prevent perioperative stroke",
+        "correct": false,
+        "explanation": "Continuing full-dose DOAC therapy through major open abdominal surgery leads to uncontrollable intraoperative hemorrhage, massive transfusions, and re-exploration."
+      },
+      {
+        "text": "Discontinue apixaban 24 hours prior to surgery and administer intravenous andexanet alfa in the preoperative holding area",
+        "correct": false,
+        "explanation": "Andexanet alfa is an expensive reversal agent reserved for life-threatening emergency bleeding or emergent unscheduled surgery, not routine elective surgery where simple timed drug cessation allows natural clearance."
+      },
+      {
+        "text": "Switch from apixaban to oral warfarin 2 weeks prior to surgery and manage with intravenous unfractionated heparin bridging",
+        "correct": false,
+        "explanation": "Switching an established DOAC patient to warfarin introduces erratic anticoagulation kinetics, requires invasive bridging, and increases bleeding risks without clinical benefit."
+      }
+    ],
+    "explanation": "Perioperative management of Direct Oral Anticoagulants (DOACs: apixaban, rivaroxaban, dabigatran) differs fundamentally from warfarin: (1) PHARMACOKINETICS: DOACs have short terminal elimination half-lives (typically 8 to 14 hours in normal renal function) and rapid onset of action (peak anticoagulation within 1 to 3 hours of oral ingestion). (2) TIMING OF PREOPERATIVE INTERRUPTION (PAUSE STUDY): For surgeries with HIGH BLEEDING RISK (such as major open intra-abdominal, orthopedic, or intracranial surgery): Apixaban should be discontinued 48 HOURS PRIOR TO SURGERY (allowing 4 to 5 elimination half-lives to elapse, ensuring < 5-10% residual anticoagulant activity). (For low-bleeding-risk procedures, 24 hours is sufficient). (3) EVIDENCE AGAINST HEPARIN BRIDGING (THE BRIDGE TRIAL, NEJM 2015): The double-blind randomized BRIDGE trial proved that administering therapeutic low-molecular-weight heparin (LMWH) bridging during anticoagulation interruption DOES NOT REDUCE ARTERIAL THROMBOEMBOLISM (0.3% vs 0.4%) but TRIPLES THE RISK OF MAJOR BLEEDING (3.2% vs 1.3%). Because DOACs clear rapidly and resume action immediately upon ingestion, PARENTERAL HEPARIN BRIDGING IS STRICTLY UNNECESSARY AND HARMFUL IN DOAC PATIENTS. (4) POSTOPERATIVE RESUMPTION: For high-bleeding-risk procedures, therapeutic-dose apixaban is resumed 48 to 72 hours postoperatively once surgical hemostasis is complete (prophylactic low-dose LMWH can be used for VTE prophylaxis in the interim 24-48 hours if indicated). Apixaban before major open surgery requires stopping 48 hours pre-op WITHOUT heparin bridging (BRIDGE trial proved bridging triples major bleeding without reducing stroke); resume 48-72h post-op.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Perioperative Anticoagulation Interruption and the BRIDGE Trial.",
+    "keyPoints": [
+      "Perioperative Anticoagulation Interruption and the BRIDGE Trial",
+      "Apixaban before major open surgery requires stopping 48 hours pre-op WITHOUT heparin bridging (BRIDGE trial proved bridging triples major bleeding without reducing stroke); resume "
+    ],
+    "references": [
+      {
+        "label": "Douketis JD, Spyropoulos AC, Kaatz S, et al. Perioperative Bridging Anticoagulation in Patients with Atrial Fibrillation. N Engl J Med. 2015;373(9):823-833. PMID: 26095207.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26095207/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0417",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Heart Failure with Reduced Ejection Fraction (HFrEF) Foundational GDMT",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old woman presents to the cardiology clinic for optimization of newly diagnosed heart failure with reduced ejection fraction (HFrEF). Two weeks ago, she presented with exertional dyspnea, orthopnea, and bilateral ankle edema. Transthoracic echocardiogram revealed global left ventricular hypokinesis with an LVEF of 28% and an enlarged left ventricular end-diastolic diameter of 62 mm. Coronary angiography demonstrated angiographically normal coronary arteries, confirming non-ischemic dilated cardiomyopathy. In the hospital, she was initiated on oral lisinopril 10 mg daily, oral carvedilol 6.25 mg twice daily, and oral furosemide 20 mg daily. Today, her symptoms are well-compensated (NYHA Class II). Vital signs demonstrate blood pressure of 122/76 mm Hg and heart rate of 68/min. Physical examination reveals clear lungs, normal jugular venous pressure (6 cm H2O), no S3 gallop, and no peripheral edema. Laboratory evaluation shows serum potassium of 4.2 mEq/L and serum creatinine of 1.0 mg/dL (estimated GFR 78 mL/min).\n\nAccording to current ACC/AHA/HFSA guidelines, which of the following represents the most appropriate next step in optimizing guideline-directed medical therapy (GDMT) to reduce cardiovascular mortality and heart failure hospitalizations?",
+    "options": [
+      {
+        "text": "Immediately switch lisinopril to sacubitril-valsartan without a washout period, while holding beta-blocker titration until LVEF normalizes",
+        "correct": false,
+        "explanation": "Omitting the 36-hour washout when switching from an ACE inhibitor to an ARNI leads to massive bradykinin accumulation and fatal angioedema; beta-blockers must be maintained."
+      },
+      {
+        "text": "Discontinue lisinopril with a mandatory 36-hour washout period before initiating sacubitril-valsartan (ARNI), add an SGLT2 inhibitor (dapagliflozin or empagliflozin), and add a mineralocorticoid receptor antagonist (spironolactone), establishing all four foundational pillars of GDMT",
+        "correct": true,
+        "explanation": "The contemporary management of Heart Failure with reduced Ejection Fraction (HFrEF; LVEF <= 40%) is anchored by the 'FOUR FOUNDATIONAL PILLARS OF GDMT', which should be instituted promptly and titrated aggressively because quadruple therapy reduces all-cause mortality by over 60-70% compared to historical therapy: (1) PILLAR 1: ANGIOTENSIN RECEPTOR-NEPRILYSIN INHIBITOR (ARNI: sacubitril-valsartan). ARNI is preferred over ACE inhibitors or ARBs based on the landmark PARADIGM-HF trial, which demonstrated a 20% relative reduction in cardiovascular death and HF hospitalization compared to enalapril. MANDATORY SAFETY RULE: When transitioning a patient from an ACE inhibitor to an ARNI, A MANDATORY 36-HOUR WASHOUT PERIOD IS REQUIRED. Both ACE and neprilysin degrade bradykinin; concurrent inhibition causes massive bradykinin accumulation and life-threatening angioedema. (A washout is not required when switching from an ARB). (2) PILLAR 2: EVIDENCE-BASED BETA-BLOCKER (carvedilol, metoprolol succinate, or bisoprolol). Initiated in clinically stable, non-decompensated patients and titrated to target doses. (3) PILLAR 3: MINERALOCORTICOID RECEPTOR ANTAGONIST (MRA: spironolactone or eplerenone). Proven in RALES and EMPHASIS-HF to reduce mortality in HFrEF with eGFR > 30 mL/min and K+ < 5.0 mEq/L. (4) PILLAR 4: SGLT2 INHIBITOR (dapagliflozin or empagliflozin). Landmark trials (DAPA-HF, EMPEROR-Reduced) proved SGLT2 inhibitors reduce cardiovascular death and HF hospitalizations by 25-30% in HFrEF, REGARDLESS OF THE PRESENCE OR ABSENCE OF DIABETES MELLITUS."
+      },
+      {
+        "text": "Add oral digoxin 0.25 mg daily as first-line therapy before adding aldosterone antagonists or SGLT2 inhibitors",
+        "correct": false,
+        "explanation": "Digoxin does not reduce overall mortality in heart failure (DIG trial); it is reserved as a third-line agent for persistent symptoms or rate control in AF, whereas MRAs and SGLT2 inhibitors have definitive mortality benefits."
+      },
+      {
+        "text": "Discontinue carvedilol immediately because beta-blockers are negative inotropes that reduce left ventricular ejection fraction",
+        "correct": false,
+        "explanation": "Beta-blockers are a foundational pillar of HFrEF therapy that reduce mortality by 35% through blunting chronic sympathetic neurohormonal cardiotoxicity; discontinuing them increases mortality."
+      },
+      {
+        "text": "Maintain current triple therapy unchanged and defer any medication changes until repeat echocardiography in 12 months",
+        "correct": false,
+        "explanation": "Deferring foundational GDMT (ARNI, MRA, SGLT2i) deprives the patient of proven, immediate 60-70% reductions in cardiovascular death and prevents reverse ventricular remodeling."
+      }
+    ],
+    "explanation": "The contemporary management of Heart Failure with reduced Ejection Fraction (HFrEF; LVEF <= 40%) is anchored by the 'FOUR FOUNDATIONAL PILLARS OF GDMT', which should be instituted promptly and titrated aggressively because quadruple therapy reduces all-cause mortality by over 60-70% compared to historical therapy: (1) PILLAR 1: ANGIOTENSIN RECEPTOR-NEPRILYSIN INHIBITOR (ARNI: sacubitril-valsartan). ARNI is preferred over ACE inhibitors or ARBs based on the landmark PARADIGM-HF trial, which demonstrated a 20% relative reduction in cardiovascular death and HF hospitalization compared to enalapril. MANDATORY SAFETY RULE: When transitioning a patient from an ACE inhibitor to an ARNI, A MANDATORY 36-HOUR WASHOUT PERIOD IS REQUIRED. Both ACE and neprilysin degrade bradykinin; concurrent inhibition causes massive bradykinin accumulation and life-threatening angioedema. (A washout is not required when switching from an ARB). (2) PILLAR 2: EVIDENCE-BASED BETA-BLOCKER (carvedilol, metoprolol succinate, or bisoprolol). Initiated in clinically stable, non-decompensated patients and titrated to target doses. (3) PILLAR 3: MINERALOCORTICOID RECEPTOR ANTAGONIST (MRA: spironolactone or eplerenone). Proven in RALES and EMPHASIS-HF to reduce mortality in HFrEF with eGFR > 30 mL/min and K+ < 5.0 mEq/L. (4) PILLAR 4: SGLT2 INHIBITOR (dapagliflozin or empagliflozin). Landmark trials (DAPA-HF, EMPEROR-Reduced) proved SGLT2 inhibitors reduce cardiovascular death and HF hospitalizations by 25-30% in HFrEF, REGARDLESS OF THE PRESENCE OR ABSENCE OF DIABETES MELLITUS. Newly diagnosed HFrEF requires 4 pillars of GDMT: switch lisinopril to ARNI (with 36h washout to prevent angioedema), add spironolactone, and add SGLT2 inhibitor alongside carvedilol.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Heart Failure with Reduced Ejection Fraction (HFrEF) Foundational GDMT.",
+    "keyPoints": [
+      "Heart Failure with Reduced Ejection Fraction (HFrEF) Foundational GDMT",
+      "Newly diagnosed HFrEF requires 4 pillars of GDMT: switch lisinopril to ARNI (with 36h washout to prevent angioedema), add spironolactone, and add SGLT2 inhibitor alongside carvedil"
+    ],
+    "references": [
+      {
+        "label": "Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2022;145(18):e895-e1032. PMID: ...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35363499/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0418",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Secondary Prevention of Atherosclerotic Ischemic Stroke",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 63-year-old man presents to the clinic 4 weeks following discharge from the hospital for an acute non-cardioembolic ischemic stroke. During hospitalization, he experienced sudden right-sided hemiparesis; brain MRI confirmed an acute territorial infarction within the distribution of the left middle cerebral artery. Diagnostic vascular imaging with CT angiography revealed a non-stenosing, ulcerated atherosclerotic plaque (40% diameter stenosis) at the bifurcation of the left internal carotid artery. Echocardiography, continuous inpatient telemetry, and 30-day outpatient event monitoring ruled out atrial fibrillation and cardiogenic embolism. He currently takes oral aspirin 81 mg daily and lisinopril 20 mg daily. Blood pressure is 126/74 mm Hg and heart rate is 68/min. Neurological examination reveals residual mild right pronator drift with 4+/5 strength in the right hand. Fasting lipid panel demonstrates:\n- Total cholesterol: 168 mg/dL\n- Triglycerides: 140 mg/dL\n- HDL cholesterol: 44 mg/dL\n- LDL cholesterol: 96 mg/dL\n\nBased on landmark randomized clinical trial evidence (the SPARCL trial) and current AHA/ASA secondary stroke prevention guidelines, which of the following represents the most appropriate lipid-lowering strategy for this patient?",
+    "options": [
+      {
+        "text": "Withhold statin therapy entirely because his baseline LDL cholesterol of 96 mg/dL is already within normal limits (< 100 mg/dL)",
+        "correct": false,
+        "explanation": "Withholding statin therapy because baseline LDL is < 100 mg/dL is a critical error; the SPARCL trial proved that high-intensity statins significantly reduce recurrent stroke in patients with baseline LDL < 100 mg/dL through plaque stabilization."
+      },
+      {
+        "text": "Initiate low-intensity pravastatin 20 mg daily to avoid potential statin-associated muscle symptoms",
+        "correct": false,
+        "explanation": "Low-intensity statins fail to achieve the required >= 50% LDL reduction or target < 70 mg/dL, and did not demonstrate stroke reduction in randomized trials; high-intensity statin therapy is guideline-mandated."
+      },
+      {
+        "text": "Initiate high-intensity statin therapy with oral atorvastatin 80 mg daily (targeting an LDL-C reduction >= 50% and an absolute LDL-C level < 70 mg/dL), independent of his baseline LDL-C concentration",
+        "correct": true,
+        "explanation": "Secondary stroke prevention in patients with ischemic stroke or TIA of atherosclerotic origin is guided by definitive trial evidence: (1) LANDMARK SPARCL TRIAL (NEJM 2006): The Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) trial randomized > 4,700 patients with recent stroke or TIA and NO prior coronary heart disease to high-intensity atorvastatin 80 mg daily versus placebo. High-intensity atorvastatin significantly reduced the primary endpoint of fatal or non-fatal stroke by 16% and reduced major coronary events by 35%. (2) PLEIOTROPIC AND TARGET-DRIVEN MECHANISMS: The benefit of high-intensity statins extends beyond simple lipid lowering: statins stabilize vulnerable atherosclerotic plaques, improve endothelial nitric oxide synthase activity, decrease vascular inflammation, and inhibit platelet aggregation. (3) CURRENT AHA/ASA GUIDELINE RECOMMENDATIONS: For patients <= 75 years of age with clinical atherosclerotic ischemic stroke or TIA, HIGH-INTENSITY STATIN THERAPY (atorvastatin 80 mg or rosuvastatin 20-40 mg daily) IS MANDATORY, regardless of baseline baseline LDL-C levels. The treatment goal is to achieve an LDL-C reduction of >= 50% from baseline and an absolute LDL-C < 70 mg/dL (or < 55 mg/dL in very high-risk individuals). If the LDL-C remains >= 70 mg/dL despite maximum tolerated high-intensity statin, ezetimibe should be added sequentially."
+      },
+      {
+        "text": "Initiate oral fenofibrate 145 mg daily as first-line monotherapy to optimize HDL and triglycerides",
+        "correct": false,
+        "explanation": "Fibrates do not reduce recurrent ischemic stroke or all-cause mortality in clinical trials and are not indicated as first-line therapy for secondary stroke prevention."
+      },
+      {
+        "text": "Initiate subcutaneous PCSK9 inhibitor monotherapy (evolocumab) without prescribing an oral statin",
+        "correct": false,
+        "explanation": "PCSK9 inhibitors are expensive second- or third-line agents added only when LDL remains >= 70 mg/dL despite maximum tolerated statin and ezetimibe therapy; high-intensity oral statins are the required first-line therapy."
+      }
+    ],
+    "explanation": "Secondary stroke prevention in patients with ischemic stroke or TIA of atherosclerotic origin is guided by definitive trial evidence: (1) LANDMARK SPARCL TRIAL (NEJM 2006): The Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) trial randomized > 4,700 patients with recent stroke or TIA and NO prior coronary heart disease to high-intensity atorvastatin 80 mg daily versus placebo. High-intensity atorvastatin significantly reduced the primary endpoint of fatal or non-fatal stroke by 16% and reduced major coronary events by 35%. (2) PLEIOTROPIC AND TARGET-DRIVEN MECHANISMS: The benefit of high-intensity statins extends beyond simple lipid lowering: statins stabilize vulnerable atherosclerotic plaques, improve endothelial nitric oxide synthase activity, decrease vascular inflammation, and inhibit platelet aggregation. (3) CURRENT AHA/ASA GUIDELINE RECOMMENDATIONS: For patients <= 75 years of age with clinical atherosclerotic ischemic stroke or TIA, HIGH-INTENSITY STATIN THERAPY (atorvastatin 80 mg or rosuvastatin 20-40 mg daily) IS MANDATORY, regardless of baseline baseline LDL-C levels. The treatment goal is to achieve an LDL-C reduction of >= 50% from baseline and an absolute LDL-C < 70 mg/dL (or < 55 mg/dL in very high-risk individuals). If the LDL-C remains >= 70 mg/dL despite maximum tolerated high-intensity statin, ezetimibe should be added sequentially. Secondary stroke prevention after atherosclerotic ischemic stroke requires high-intensity statin (atorvastatin 80 mg daily) to achieve LDL < 70 mg/dL, regardless of baseline LDL (SPARCL trial).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Secondary Prevention of Atherosclerotic Ischemic Stroke.",
+    "keyPoints": [
+      "Secondary Prevention of Atherosclerotic Ischemic Stroke",
+      "Secondary stroke prevention after atherosclerotic ischemic stroke requires high-intensity statin (atorvastatin 80 mg daily) to achieve LDL < 70 mg/dL, regardless of baseline LDL (S"
+    ],
+    "references": [
+      {
+        "label": "Amarenco P, Bogousslavsky J, Callahan A 3rd, et al. High-dose atorvastatin after stroke or transient ischemic attack. N Engl J Med. 2006;355(6):549-559. PMID: 16899775.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16899775/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0419",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Diabetic Peripheral Neuropathy Pharmacotherapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old woman with a 12-year history of type 2 diabetes mellitus presents to the outpatient clinic with painful burning, tingling, and electric-shock sensations in both feet that have progressively worsened over the past 8 months. The pain is severe (rated 8/10), is worst at night, and frequently prevents her from falling asleep. She describes that even the light touch of bedsheets touching her toes produces sharp, distressing pain (allodynia). Physical examination reveals normal peripheral arterial pulses. Neurological examination demonstrates symmetric loss of vibration sensation (using a 128-Hz tuning fork) and loss of protective pressure sensation (using a 10-g Semmes-Weinstein monofilament) in a stocking distribution extending to the mid-shins bilaterally. Ankle deep tendon reflexes are absent bilaterally. Laboratory evaluation reveals HbA1c of 8.2% and normal serum creatinine and liver enzymes. She has not previously taken medications for neuropathic pain and asks for a prescription for tramadol or oxycodone to obtain immediate relief.\n\nAccording to current American Academy of Neurology (AAN) and American Diabetes Association (ADA) guidelines, which of the following represents the most appropriate initial pharmacological approach for this patient's neuropathic pain?",
+    "options": [
+      {
+        "text": "Prescribe oral tramadol 50 mg three times daily as first-line therapy for immediate neuropathic pain relief",
+        "correct": false,
+        "explanation": "Opioids and tramadol lack long-term efficacy in neuropathic pain, cause physical dependence and addiction, and are explicitly discouraged as first-line therapy by AAN/ADA guidelines."
+      },
+      {
+        "text": "Prescribe oral ibuprofen 800 mg three times daily and acetaminophen 1,000 mg three times daily",
+        "correct": false,
+        "explanation": "NSAIDs and acetaminophen target inflammatory nociceptive pain; they have zero efficacy against the centralized neuropathic ectopic firing of diabetic neuropathy and risk acute kidney injury."
+      },
+      {
+        "text": "Administer intramuscular vitamin B12 injections weekly despite normal serum B12 levels",
+        "correct": false,
+        "explanation": "In patients with normal baseline vitamin B12 concentrations, parenteral vitamin B12 supplementation provides zero therapeutic benefit for diabetic axonal neuropathy."
+      },
+      {
+        "text": "Initiate oral duloxetine (an SNRI, 30 to 60 mg once daily) or oral pregabalin (an alpha-2-delta calcium channel ligand, 50 to 100 mg three times daily), while declining opioid analgesics",
+        "correct": true,
+        "explanation": "Diabetic Peripheral Neuropathic Pain (DPNP) affects up to 25-30% of patients with diabetes and severely degrades quality of life and sleep architecture. (1) FIRST-LINE EVIDENCE-BASED PHARMACOTHERAPY (AAN / ADA GUIDELINES): Multiple high-level randomized controlled trials establish three distinct drug classes as FIRST-LINE AGENTS for DPNP: (a) SEROTONIN-NOREPINEPHRINE REUPTAKE INHIBITORS (SNRIs): DULOXETINE (60 mg daily) or venlafaxine. Duloxetine enhances descending inhibitory pain pathways in the spinal dorsal horn by inhibiting presynaptic reuptake of both serotonin and norepinephrine; it is FDA-approved and highly effective for painful diabetic neuropathy. (b) VOLTAGE-GATED CALCIUM CHANNEL LIGANDS (GABAPENTINOIDS): PREGABALIN (150-300 mg daily) or GABAPENTIN. They bind the alpha-2-delta auxiliary subunit of presynaptic voltage-gated calcium channels, reducing calcium influx and suppressing excitatory neurotransmitter release (glutamate, substance P, CGRP) in dorsal horn neurons. (c) TRICYCLIC ANTIDEPRESSANTS (TCAs): Amitriptyline or nortriptyline (effective, but limited by anticholinergic and cardiac toxicity). (2) OPIOID STEWARDSHIP AND HARMS: AAN and ADA guidelines EXPLICITLY CONDEMN OPIOIDS (including tramadol, oxycodone, and hydrocodone) for chronic neuropathic pain. High-quality systematic reviews prove that opioids lack long-term efficacy in chronic neuropathic pain, carry high risks of tolerance, physiological dependence, addiction, and fatal overdose, and paradoxically trigger opioid-induced hyperalgesia."
+      },
+      {
+        "text": "Perform emergent bilateral lumbar sympathetic nerve blocks as initial therapy",
+        "correct": false,
+        "explanation": "Invasive sympathetic nerve blocks carry procedural risks and are reserved for complex regional pain syndrome; they have no role in typical symmetrical diabetic sensorimotor polyneuropathy."
+      }
+    ],
+    "explanation": "Diabetic Peripheral Neuropathic Pain (DPNP) affects up to 25-30% of patients with diabetes and severely degrades quality of life and sleep architecture. (1) FIRST-LINE EVIDENCE-BASED PHARMACOTHERAPY (AAN / ADA GUIDELINES): Multiple high-level randomized controlled trials establish three distinct drug classes as FIRST-LINE AGENTS for DPNP: (a) SEROTONIN-NOREPINEPHRINE REUPTAKE INHIBITORS (SNRIs): DULOXETINE (60 mg daily) or venlafaxine. Duloxetine enhances descending inhibitory pain pathways in the spinal dorsal horn by inhibiting presynaptic reuptake of both serotonin and norepinephrine; it is FDA-approved and highly effective for painful diabetic neuropathy. (b) VOLTAGE-GATED CALCIUM CHANNEL LIGANDS (GABAPENTINOIDS): PREGABALIN (150-300 mg daily) or GABAPENTIN. They bind the alpha-2-delta auxiliary subunit of presynaptic voltage-gated calcium channels, reducing calcium influx and suppressing excitatory neurotransmitter release (glutamate, substance P, CGRP) in dorsal horn neurons. (c) TRICYCLIC ANTIDEPRESSANTS (TCAs): Amitriptyline or nortriptyline (effective, but limited by anticholinergic and cardiac toxicity). (2) OPIOID STEWARDSHIP AND HARMS: AAN and ADA guidelines EXPLICITLY CONDEMN OPIOIDS (including tramadol, oxycodone, and hydrocodone) for chronic neuropathic pain. High-quality systematic reviews prove that opioids lack long-term efficacy in chronic neuropathic pain, carry high risks of tolerance, physiological dependence, addiction, and fatal overdose, and paradoxically trigger opioid-induced hyperalgesia. Painful diabetic neuropathy with allodynia requires first-line oral duloxetine or pregabalin; opioid analgesics (tramadol, oxycodone) should be declined due to lack of efficacy and addiction risks.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Diabetic Peripheral Neuropathy Pharmacotherapy.",
+    "keyPoints": [
+      "Diabetic Peripheral Neuropathy Pharmacotherapy",
+      "Painful diabetic neuropathy with allodynia requires first-line oral duloxetine or pregabalin; opioid analgesics (tramadol, oxycodone) should be declined due to lack of efficacy and"
+    ],
+    "references": [
+      {
+        "label": "Price R, Smith D, Franklin G, et al. Oral and Topical Treatment of Painful Diabetic Neuropathy: Practice Guideline Update Summary: Report of the AAN Guideline Subcommittee. Neurology. 2022;98(1):31-43. PMID: 34965987.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34965987/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0420",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Chronic Venous Insufficiency and Stasis Dermatitis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old woman with a history of obesity (BMI 34 kg/m2) and two prior uncomplicated pregnancies presents to the ambulatory clinic with a 6-month history of progressive aching, heaviness, and swelling in both lower legs that worsens toward the end of the day after standing at her retail job. Over the past 2 months, she has noticed pruritic, reddish-brown skin discoloration around both lower calves and ankles. Physical examination reveals bilateral pitting edema (2+) of the lower extremities extending from the feet to the mid-calves. Over the medial supramalleolar regions bilaterally, the skin is thickened, hyperpigmented with dense reddish-brown hemosiderin macules, and mildly erythematous with fine superficial scaling. There are prominent dilated, tortuous superficial varicose veins along the medial calves. Dorsalis pedis and posterior tibial arterial pulses are brisk (2+) bilaterally, and capillary refill is < 2 seconds. There are no open ulcerations. Duplex ultrasound reveals deep and superficial venous valvular reflux exceeding 1,000 milliseconds in the great saphenous veins bilaterally, with no evidence of deep venous thrombosis.\n\nWhich of the following represents the most appropriate initial management approach for this patient?",
+    "options": [
+      {
+        "text": "Apply topical neomycin and polymyxin B ointment twice daily to both legs to treat subclinical bacterial colonization",
+        "correct": false,
+        "explanation": "Topical neomycin and bacitracin are among the leading causes of severe allergic contact dermatitis in stasis dermatitis; topical antibiotics provide zero benefit and worsen cutaneous inflammation."
+      },
+      {
+        "text": "Initiate oral cephalexin 500 mg four times daily for 14 days for presumed bilateral lower-extremity cellulitis",
+        "correct": false,
+        "explanation": "Stasis dermatitis is routinely misdiagnosed as bilateral cellulitis ('pseudocellulitis'); true cellulitis is virtually always unilateral and acute, whereas stasis dermatitis is bilateral, chronic, and non-infectious."
+      },
+      {
+        "text": "Initiate oral furosemide 40 mg daily as primary monotherapy for venous edema",
+        "correct": false,
+        "explanation": "Diuretics do not correct localized venous valvular reflux or venous hypertension; they cause systemic intravascular volume depletion, prerenal azotemia, and electrolyte disturbances without resolving venous stasis."
+      },
+      {
+        "text": "Immediate referral for emergent surgical venous stripping and ligation under general anesthesia",
+        "correct": false,
+        "explanation": "Conservative therapy with graduated compression stockings, elevation, and skin care must be trialed for several months; surgical or endovenous ablation is reserved for refractory symptoms or non-healing ulcers."
+      },
+      {
+        "text": "Prescribe knee-high graduated compression stockings (20 to 30 mm Hg), recommend scheduled daily lower-extremity elevation above heart level, and apply bland emollient moisturizers, while avoiding over-the-counter topical antibiotic ointments",
+        "correct": true,
+        "explanation": "Chronic Venous Insufficiency (CVI) and Stasis Dermatitis result from venous hypertension caused by incompetent venous valves, deep venous obstruction, or calf muscle pump failure. (1) PATHOPHYSIOLOGY: Sustained ambulatory venous hypertension causes retrograde pooling, increased capillary hydrostatic pressure, microvascular dilation, and leakage of fluid and erythrocytes into the dermis. Extravasated erythrocytes undergo mechanical lysis, releasing hemoglobin that macrophages degrade into HEMOSIDERIN pigment, producing the characteristic reddish-brown, speckled cutaneous hyperpigmentation. Extravasated fibrin and inflammatory cytokines provoke dermal sclerosis (lipodermatosclerosis), pruritus, and stasis dermatitis. (2) FIRST-LINE CONSERVATIVE MANAGEMENT: (a) GRADUATED COMPRESSION THERAPY: Knee-high graduated compression stockings (20-30 mm Hg for mild-to-moderate disease, 30-40 mm Hg for severe edema/ulceration) are the undisputed cornerstone of treatment. Compression counteracts venous hydrostatic hypertension, improves calf muscle pump efficacy, accelerates deep venous return, and reduces edema. (b) LEG ELEVATION: Elevating legs above the level of the heart for 30 minutes 3 to 4 times daily utilizes gravity to decompress congested venous beds. (c) BLAND EMOLLIENTS AND BARRIER RESTORATION: Preserving the epidermal skin barrier with petroleum jelly or ceramide-based creams prevents fissuring and secondary bacterial infection. (3) AVOIDANCE OF TOPICAL SENSITIZERS: Stasis dermatitis skin exhibits severe barrier disruption and immunological hyper-reactivity. Over-the-counter topical antibiotics (especially NEOMYCIN and BACITRACIN) and fragrances have an extremely high rate (> 50-60%) of inducing severe Allergic Contact Dermatitis, which dramatically exacerbates skin erythema, weeping, and ulceration."
+      }
+    ],
+    "explanation": "Chronic Venous Insufficiency (CVI) and Stasis Dermatitis result from venous hypertension caused by incompetent venous valves, deep venous obstruction, or calf muscle pump failure. (1) PATHOPHYSIOLOGY: Sustained ambulatory venous hypertension causes retrograde pooling, increased capillary hydrostatic pressure, microvascular dilation, and leakage of fluid and erythrocytes into the dermis. Extravasated erythrocytes undergo mechanical lysis, releasing hemoglobin that macrophages degrade into HEMOSIDERIN pigment, producing the characteristic reddish-brown, speckled cutaneous hyperpigmentation. Extravasated fibrin and inflammatory cytokines provoke dermal sclerosis (lipodermatosclerosis), pruritus, and stasis dermatitis. (2) FIRST-LINE CONSERVATIVE MANAGEMENT: (a) GRADUATED COMPRESSION THERAPY: Knee-high graduated compression stockings (20-30 mm Hg for mild-to-moderate disease, 30-40 mm Hg for severe edema/ulceration) are the undisputed cornerstone of treatment. Compression counteracts venous hydrostatic hypertension, improves calf muscle pump efficacy, accelerates deep venous return, and reduces edema. (b) LEG ELEVATION: Elevating legs above the level of the heart for 30 minutes 3 to 4 times daily utilizes gravity to decompress congested venous beds. (c) BLAND EMOLLIENTS AND BARRIER RESTORATION: Preserving the epidermal skin barrier with petroleum jelly or ceramide-based creams prevents fissuring and secondary bacterial infection. (3) AVOIDANCE OF TOPICAL SENSITIZERS: Stasis dermatitis skin exhibits severe barrier disruption and immunological hyper-reactivity. Over-the-counter topical antibiotics (especially NEOMYCIN and BACITRACIN) and fragrances have an extremely high rate (> 50-60%) of inducing severe Allergic Contact Dermatitis, which dramatically exacerbates skin erythema, weeping, and ulceration. Bilateral hemosiderin staining, varicose veins, and venous reflux is stasis dermatitis; managed with graduated compression stockings (20-30 mm Hg), leg elevation, and emollients (avoid topical neomycin).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Chronic Venous Insufficiency and Stasis Dermatitis.",
+    "keyPoints": [
+      "Chronic Venous Insufficiency and Stasis Dermatitis",
+      "Bilateral hemosiderin staining, varicose veins, and venous reflux is stasis dermatitis; managed with graduated compression stockings (20-30 mm Hg), leg elevation, and emollients (a"
+    ],
+    "references": [
+      {
+        "label": "Sundaresan S, Migden MR, Silapunt S. Stasis Dermatitis: Pathophysiology, Evaluation, and Management. Am J Clin Dermatol. 2017;18(3):383-390. PMID: 28035329.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28035329/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0421",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Adult Pneumococcal Immunization Recommendations",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 66-year-old woman presents to the ambulatory internal medicine clinic for a routine annual preventive health examination. She has a history of mild osteoarthritis of the hands but has no chronic heart, lung, liver, or renal disease, and does not have diabetes mellitus. She does not use immunosuppressive medications and has never undergone splenectomy. She has never received any pneumococcal vaccine. Vital signs and physical examination are completely normal.\n\nAccording to current Centers for Disease Control and Prevention (CDC) Advisory Committee on Immunization Practices (ACIP) guidelines, which of the following represents the recommended pneumococcal vaccination strategy for this patient?",
+    "options": [
+      {
+        "text": "Administer a single dose of 20-valent pneumococcal conjugate vaccine (PCV20) alone, OR administer a single dose of 15-valent pneumococcal conjugate vaccine (PCV15) followed at least 1 year later by a dose of 23-valent pneumococcal polysaccharide vaccine (PPSV23)",
+        "correct": true,
+        "explanation": "The Advisory Committee on Immunization Practices (ACIP) updated adult pneumococcal immunization guidelines following the licensure of higher-valency pneumococcal conjugate vaccines: (1) TARGET POPULATION: All immunocompetent adults >= 65 years of age who have not previously received a pneumococcal conjugate vaccine or whose vaccination history is unknown. (2) SIMPLIFIED TWO-OPTION REGIMEN: (a) OPTION 1 (PREFERRED FOR SIMPLICITY): Administer a SINGLE DOSE of 20-valent Pneumococcal Conjugate Vaccine (PCV20) alone. No subsequent pneumococcal vaccines (such as PPSV23) are required following PCV20 because PCV20 provides broader conjugate coverage and induces robust T-cell-dependent immunological memory. (b) OPTION 2: Administer a single dose of 15-valent Pneumococcal Conjugate Vaccine (PCV15) FOLLOWED by a dose of 23-valent Pneumococcal Polysaccharide Vaccine (PPSV23) administered AT LEAST 1 YEAR LATER (an interval of >= 8 weeks can be used for immunocompromised patients, but >= 1 year is standard for immunocompetent adults >= 65). (3) OBSOLESCENCE OF HISTORICAL REGIMENS: Historical regimens utilizing PCV13 followed by PPSV23 in series are no longer recommended for vaccine-naive adults because PCV15 and PCV20 contain serotypes with higher contemporary disease burden. PPSV23 should NEVER be given alone as initial monotherapy in conjugate-naive adults."
+      },
+      {
+        "text": "Administer a single dose of 23-valent pneumococcal polysaccharide vaccine (PPSV23) alone, with no conjugate vaccine needed",
+        "correct": false,
+        "explanation": "PPSV23 alone induces T-cell-independent B-cell responses without immunological memory; ACIP guidelines mandate a conjugate vaccine (PCV20 or PCV15) as the foundation of adult vaccination."
+      },
+      {
+        "text": "Administer 13-valent pneumococcal conjugate vaccine (PCV13) followed 8 weeks later by PCV20",
+        "correct": false,
+        "explanation": "PCV13 has been replaced by PCV15 and PCV20; furthermore, giving two conjugate vaccines in series is redundant and contrary to ACIP recommendations."
+      },
+      {
+        "text": "Withhold pneumococcal vaccination until age 75 unless high-risk immunocompromising conditions develop",
+        "correct": false,
+        "explanation": "Pneumococcal immunization is universally recommended for all adults beginning at age 65 regardless of medical conditions, due to age-related immunosenescence and high invasive pneumococcal disease risk."
+      },
+      {
+        "text": "Administer PCV20 followed 8 weeks later by a mandatory booster dose of PPSV23",
+        "correct": false,
+        "explanation": "When PCV20 is administered, no subsequent dose of PPSV23 is indicated; PCV20 is complete as a standalone single-dose vaccination."
+      }
+    ],
+    "explanation": "The Advisory Committee on Immunization Practices (ACIP) updated adult pneumococcal immunization guidelines following the licensure of higher-valency pneumococcal conjugate vaccines: (1) TARGET POPULATION: All immunocompetent adults >= 65 years of age who have not previously received a pneumococcal conjugate vaccine or whose vaccination history is unknown. (2) SIMPLIFIED TWO-OPTION REGIMEN: (a) OPTION 1 (PREFERRED FOR SIMPLICITY): Administer a SINGLE DOSE of 20-valent Pneumococcal Conjugate Vaccine (PCV20) alone. No subsequent pneumococcal vaccines (such as PPSV23) are required following PCV20 because PCV20 provides broader conjugate coverage and induces robust T-cell-dependent immunological memory. (b) OPTION 2: Administer a single dose of 15-valent Pneumococcal Conjugate Vaccine (PCV15) FOLLOWED by a dose of 23-valent Pneumococcal Polysaccharide Vaccine (PPSV23) administered AT LEAST 1 YEAR LATER (an interval of >= 8 weeks can be used for immunocompromised patients, but >= 1 year is standard for immunocompetent adults >= 65). (3) OBSOLESCENCE OF HISTORICAL REGIMENS: Historical regimens utilizing PCV13 followed by PPSV23 in series are no longer recommended for vaccine-naive adults because PCV15 and PCV20 contain serotypes with higher contemporary disease burden. PPSV23 should NEVER be given alone as initial monotherapy in conjugate-naive adults. Vaccine-naive 66-year-old requires either a single dose of PCV20 alone OR PCV15 followed >= 1 year later by PPSV23 according to updated CDC ACIP guidelines.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Adult Pneumococcal Immunization Recommendations.",
+    "keyPoints": [
+      "Adult Pneumococcal Immunization Recommendations",
+      "Vaccine-naive 66-year-old requires either a single dose of PCV20 alone OR PCV15 followed >= 1 year later by PPSV23 according to updated CDC ACIP guidelines."
+    ],
+    "references": [
+      {
+        "label": "Kobayashi M, et al. Use of 15-Valent and 20-Valent Pneumococcal Conjugate Vaccine Among U.S. Adults: ACIP Recommendations, 2022. MMWR Morb Mortal Wkly Rep. 2022;71(4):109-117. PMID: 35085226.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35085226/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0422",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Colorectal Cancer Screening Modalities and Age Thresholds",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old man presents to the primary care clinic for an annual preventive checkup. He has no chronic medical conditions, takes no medications, and feels completely well. He has no gastrointestinal symptoms, changes in bowel habits, rectal bleeding, unexplained weight loss, or abdominal pain. Review of family history reveals that his parents and two siblings are healthy, with no family history of colorectal cancer, advanced adenomas, inflammatory bowel disease, or hereditary cancer syndromes (Lynch syndrome or familial adenomatous polyposis). Physical examination is normal. The patient asks whether he needs screening for colorectal cancer.\n\nAccording to current US Preventive Services Task Force (USPSTF) guidelines, which of the following represents the most appropriate colorectal cancer screening recommendation for this average-risk patient?",
+    "options": [
+      {
+        "text": "Defer all colorectal cancer screening until age 50, as routine screening prior to age 50 is not cost-effective or recommended for average-risk individuals",
+        "correct": false,
+        "explanation": "The USPSTF officially lowered the screening initiation age to 45 years in 2021; deferring screening until age 50 misses early resectable neoplasia in young adults."
+      },
+      {
+        "text": "Initiate routine colorectal cancer screening now (at age 45) using any of the guideline-approved screening strategies (e.g., optical colonoscopy every 10 years, annual fecal immunochemical test [FIT], or stool FIT-DNA every 3 years), with the understanding that any positive non-colonoscopic screening test mandates a timely diagnostic colonoscopy",
+        "correct": true,
+        "explanation": "Colorectal Cancer (CRC) is the third leading cause of cancer-related mortality in the United States. (1) USPSTF 2021 UPDATED SCREENING RECOMMENDATION: The USPSTF lowered the recommended age to INITIATE ROUTINE SCREENING FROM AGE 50 TO AGE 45 for all average-risk adults (Grade B recommendation for ages 45-49, Grade A for ages 50-75). This shift was driven by robust epidemiological modeling demonstrating a dramatic, progressive rise in young-onset colorectal cancer incidence over the past two decades. (2) APPROVED SCREENING STRATEGIES AND INTERVALS: Several screening modalities have demonstrated clinical efficacy: (a) DIRECT VISUALIZATION TESTS: Optical colonoscopy every 10 years (the gold standard; allows simultaneous visualization and polypectomy of precancerous adenomas), or Flexible sigmoidoscopy every 5 years (or every 10 years plus annual FIT), or CT colonography every 5 years. (b) STOOL-BASED TESTS: Annual Fecal Immunochemical Test (FIT, high sensitivity for human globin), or Stool FIT-DNA (Cologuard, multi-target sDNA plus FIT) every 3 years, or annual high-sensitivity guaiac-based fecal occult blood test (gFOBT). (3) MANDATORY CLINICAL RULE FOR POSITIVE STOOL TESTS: If any non-invasive stool test (FIT, FIT-DNA) or CT colonography yields a positive result, A TIMELY DIAGNOSTIC COLONOSCOPY IS MANDATORY. Non-invasive tests are screening tools, not definitive diagnoses; failing to follow up a positive stool test with colonoscopy leads to delayed detection of advanced colorectal neoplasia."
+      },
+      {
+        "text": "If an annual fecal immunochemical test (FIT) is positive, repeat the FIT in 1 month and perform colonoscopy only if the second test is positive",
+        "correct": false,
+        "explanation": "Repeating a stool test after a positive result is a dangerous clinical error; any single positive FIT mandates immediate diagnostic colonoscopy to evaluate for colorectal cancer or large adenomas."
+      },
+      {
+        "text": "Perform optical colonoscopy every 5 years for average-risk individuals",
+        "correct": false,
+        "explanation": "For average-risk individuals with a completely normal screening colonoscopy, the recommended screening interval is 10 years, not 5 years; performing colonoscopy every 5 years represents overutilization."
+      },
+      {
+        "text": "Order serum carcinoembryonic antigen (CEA) annually as a non-invasive screening modality",
+        "correct": false,
+        "explanation": "Serum CEA has poor sensitivity and specificity for early colorectal neoplasia and is strictly contraindicated as a screening test; CEA is used exclusively for monitoring recurrence in established disease."
+      }
+    ],
+    "explanation": "Colorectal Cancer (CRC) is the third leading cause of cancer-related mortality in the United States. (1) USPSTF 2021 UPDATED SCREENING RECOMMENDATION: The USPSTF lowered the recommended age to INITIATE ROUTINE SCREENING FROM AGE 50 TO AGE 45 for all average-risk adults (Grade B recommendation for ages 45-49, Grade A for ages 50-75). This shift was driven by robust epidemiological modeling demonstrating a dramatic, progressive rise in young-onset colorectal cancer incidence over the past two decades. (2) APPROVED SCREENING STRATEGIES AND INTERVALS: Several screening modalities have demonstrated clinical efficacy: (a) DIRECT VISUALIZATION TESTS: Optical colonoscopy every 10 years (the gold standard; allows simultaneous visualization and polypectomy of precancerous adenomas), or Flexible sigmoidoscopy every 5 years (or every 10 years plus annual FIT), or CT colonography every 5 years. (b) STOOL-BASED TESTS: Annual Fecal Immunochemical Test (FIT, high sensitivity for human globin), or Stool FIT-DNA (Cologuard, multi-target sDNA plus FIT) every 3 years, or annual high-sensitivity guaiac-based fecal occult blood test (gFOBT). (3) MANDATORY CLINICAL RULE FOR POSITIVE STOOL TESTS: If any non-invasive stool test (FIT, FIT-DNA) or CT colonography yields a positive result, A TIMELY DIAGNOSTIC COLONOSCOPY IS MANDATORY. Non-invasive tests are screening tools, not definitive diagnoses; failing to follow up a positive stool test with colonoscopy leads to delayed detection of advanced colorectal neoplasia. Average-risk 46-year-old should initiate CRC screening now (USPSTF lowered starting age to 45); acceptable options include colonoscopy q10y or annual FIT, with any positive stool test requiring colonoscopy.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Colorectal Cancer Screening Modalities and Age Thresholds.",
+    "keyPoints": [
+      "Colorectal Cancer Screening Modalities and Age Thresholds",
+      "Average-risk 46-year-old should initiate CRC screening now (USPSTF lowered starting age to 45); acceptable options include colonoscopy q10y or annual FIT, with any positive stool t"
+    ],
+    "references": [
+      {
+        "label": "US Preventive Services Task Force. Screening for Colorectal Cancer: US Preventive Services Task Force Recommendation Statement. JAMA. 2021;325(19):1965-1977. PMID: 34003218.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34003218/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0423",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Lung Cancer Screening with Low-Dose Computed Tomography (LDCT)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old man presents to the clinic for a routine wellness visit. He has a 24 pack-year smoking history (smoked 1 pack of cigarettes daily for 24 years) but successfully quit smoking 8 years ago. He is completely asymptomatic and denies chronic cough, hemoptysis, shortness of breath, chest pain, or unintentional weight loss. His past medical history includes mild hypertension well controlled with hydrochlorothiazide 25 mg daily. Vital signs demonstrate blood pressure of 124/76 mm Hg, heart rate of 70/min, and oxygen saturation of 98% on room air. Physical examination reveals clear lungs to auscultation bilaterally. He has no other chronic medical conditions and has an active, excellent functional performance status.\n\nAccording to current US Preventive Services Task Force (USPSTF) guidelines, which of the following represents the most appropriate lung cancer screening recommendation for this patient?",
+    "options": [
+      {
+        "text": "Perform annual screening with a standard two-view posterior-anterior and lateral chest radiograph",
+        "correct": false,
+        "explanation": "Standard chest radiography (with or without sputum cytology) has no demonstrated efficacy in reducing lung cancer mortality in randomized trials and is explicitly recommended against by the USPSTF."
+      },
+      {
+        "text": "Withhold lung cancer screening because the patient has not smoked for > 5 years and has accumulated < 30 pack-years",
+        "correct": false,
+        "explanation": "Under the updated 2021 USPSTF criteria, the pack-year threshold was lowered to >= 20 pack-years and screening continues until 15 years post-quitting; this patient qualifies with 24 pack-years and 8 years since quitting."
+      },
+      {
+        "text": "Perform annual screening for lung cancer with low-dose computed tomography (LDCT) of the chest",
+        "correct": true,
+        "explanation": "Lung cancer is the leading cause of cancer mortality in both men and women in the United States. (1) USPSTF 2021 UPDATED SCREENING RECOMMENDATIONS: In 2021, the USPSTF expanded lung cancer screening eligibility based on the National Lung Screening Trial (NLST) and the NELSON trial: (a) AGE RANGE: Adults aged 50 to 80 years (expanded from prior 55-80); (b) SMOKING HISTORY THRESHOLD: A cumulative tobacco smoking history of >= 20 PACK-YEARS (lowered from prior 30 pack-years); AND (c) CURRENT SMOKER OR QUIT WITHIN THE PAST 15 YEARS. (2) PATIENT APPLICATION: This patient is 56 years of age (within 50-80), has a 24 pack-year smoking history (exceeds >= 20 pack-years), and quit 8 years ago (within the 15-year quit window). Therefore, he meets all objective criteria for ANNUAL SCREENING WITH LOW-DOSE COMPUTED TOMOGRAPHY (LDCT). (3) DISCONTINUATION CRITERIA: Screening should be discontinued once a person: (a) Has not smoked for 15 consecutive years; (b) Reaches age 81; OR (c) Develops a health problem that substantially limits life expectancy or the ability/willingness to undergo curative lung surgery."
+      },
+      {
+        "text": "Order contrast-enhanced chest CT with intravenous iodinated radiocontrast every 2 years",
+        "correct": false,
+        "explanation": "Screening is performed with LOW-DOSE UNENHANCED computed tomography (LDCT) annually to minimize radiation exposure and avoid intravenous contrast nephrotoxicity/anaphylaxis."
+      },
+      {
+        "text": "Perform screening with low-dose CT once, with no subsequent imaging required if the baseline scan is normal",
+        "correct": false,
+        "explanation": "Lung cancer screening requires ANNUAL low-dose CT examinations until 15 years post-cessation or age 81; a single normal scan does not eliminate ongoing malignant transformation risk."
+      }
+    ],
+    "explanation": "Lung cancer is the leading cause of cancer mortality in both men and women in the United States. (1) USPSTF 2021 UPDATED SCREENING RECOMMENDATIONS: In 2021, the USPSTF expanded lung cancer screening eligibility based on the National Lung Screening Trial (NLST) and the NELSON trial: (a) AGE RANGE: Adults aged 50 to 80 years (expanded from prior 55-80); (b) SMOKING HISTORY THRESHOLD: A cumulative tobacco smoking history of >= 20 PACK-YEARS (lowered from prior 30 pack-years); AND (c) CURRENT SMOKER OR QUIT WITHIN THE PAST 15 YEARS. (2) PATIENT APPLICATION: This patient is 56 years of age (within 50-80), has a 24 pack-year smoking history (exceeds >= 20 pack-years), and quit 8 years ago (within the 15-year quit window). Therefore, he meets all objective criteria for ANNUAL SCREENING WITH LOW-DOSE COMPUTED TOMOGRAPHY (LDCT). (3) DISCONTINUATION CRITERIA: Screening should be discontinued once a person: (a) Has not smoked for 15 consecutive years; (b) Reaches age 81; OR (c) Develops a health problem that substantially limits life expectancy or the ability/willingness to undergo curative lung surgery. 56-year-old with 24 pack-years who quit 8 years ago qualifies for annual low-dose CT (LDCT) lung cancer screening under updated USPSTF criteria (age 50-80, >= 20 pack-years, quit within 15 years).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Lung Cancer Screening with Low-Dose Computed Tomography (LDCT).",
+    "keyPoints": [
+      "Lung Cancer Screening with Low-Dose Computed Tomography (LDCT)",
+      "56-year-old with 24 pack-years who quit 8 years ago qualifies for annual low-dose CT (LDCT) lung cancer screening under updated USPSTF criteria (age 50-80, >= 20 pack-years, quit w"
+    ],
+    "references": [
+      {
+        "label": "US Preventive Services Task Force. Screening for Lung Cancer: US Preventive Services Task Force Recommendation Statement. JAMA. 2021;325(10):962-970. PMID: 33687470.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33687470/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0424",
+    "exam": "Step 3",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Cervical Cancer Screening Guidelines and Strategies",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 38-year-old woman presents to the ambulatory women's health clinic for a routine gynecological examination. She is asymptomatic, has no abnormal vaginal bleeding or discharge, and has had no postcoital spotting. She has a history of two uncomplicated term vaginal deliveries. She has no personal history of high-grade cervical dysplasia (cervical intraepithelial neoplasia grade 2 or 3 [CIN 2/3]) or cervical cancer, is not immunocompromised, and has never had HIV infection. Review of her medical record reveals that her last cervical cancer screening was performed 5 years ago (at age 33), at which time she underwent cervical cytology (Papanicolaou smear) co-tested with high-risk human papillomavirus (hrHPV) testing; both tests were completely negative. Physical and speculum examinations reveal a normal, smooth cervix without lesions or contact bleeding.\n\nAccording to current US Preventive Services Task Force (USPSTF) and American College of Obstetricians and Gynecologists (ACOG) guidelines, which of the following represents an acceptable screening strategy for this patient today?",
+    "options": [
+      {
+        "text": "Annual cervical cytology (Pap smear) combined with high-risk HPV testing performed every year",
+        "correct": false,
+        "explanation": "Annual cervical cancer screening in an average-risk woman with prior negative tests represents overtreatment, leading to high false-positive rates, unnecessary colposcopies, and cervical procedural harms."
+      },
+      {
+        "text": "Perform an immediate diagnostic colposcopy with directed cervical biopsies rather than non-invasive screening",
+        "correct": false,
+        "explanation": "Colposcopy is a diagnostic procedure indicated only after an abnormal screening test (e.g., persistent HPV 16/18 or ASC-H/HSIL); it is never used as routine primary screening."
+      },
+      {
+        "text": "Discontinue all cervical cancer screening, as having two prior normal screenings provides lifelong immunity against cervical dysplasia",
+        "correct": false,
+        "explanation": "Cervical cancer screening must continue until age 65; discontinuing screening at age 38 leaves the patient unprotected against persistent high-risk HPV oncogenesis."
+      },
+      {
+        "text": "Primary high-risk HPV (hrHPV) testing alone every 5 years, OR high-risk HPV co-testing combined with cervical cytology every 5 years, OR cervical cytology (Pap smear) alone every 3 years",
+        "correct": true,
+        "explanation": "Cervical Cancer Screening guidelines (USPSTF and ACOG) are stratified by patient age for immunocompetent individuals with an intact cervix and no history of high-grade precancerous lesions: (1) WOMEN AGED 21 TO 29 YEARS: Cervical cytology (Pap smear) ALONE EVERY 3 YEARS. High-risk HPV testing (either alone or as co-testing) is STRONGLY DISCOURAGED in women < 30 years because transient, benign HPV infections are exceedingly common in this cohort and undergo spontaneous clearance; HPV testing in this group leads to unnecessary colposcopies and cervical excisional procedures without reducing cancer incidence. (2) WOMEN AGED 30 TO 65 YEARS: Guidelines offer THREE EQUALLY ACCEPTABLE EVIDENCE-BASED STRATEGIES: (a) Primary high-risk HPV (hrHPV) testing alone EVERY 5 YEARS; (b) High-risk HPV testing COMBINED WITH cervical cytology (co-testing) EVERY 5 YEARS; OR (c) Cervical cytology (Pap smear) ALONE EVERY 3 YEARS. High-risk HPV testing utilizes nucleic acid amplification targeting oncogenic viral genotypes (predominantly HPV 16 and 18, along with 12 other high-risk types). (3) DISCONTINUATION CRITERIA (AGE > 65): Screening is discontinued at age 65 if the patient has documented adequate prior negative screening (3 consecutive negative cytology tests or 2 consecutive negative co-tests/hrHPV tests within the past 10 years, with the most recent within 5 years) and no history of CIN 2+ within the past 25 years."
+      },
+      {
+        "text": "Order serum CA-125 and pelvic ultrasound every 3 years as preferred non-invasive cervical cancer screening",
+        "correct": false,
+        "explanation": "CA-125 and pelvic ultrasound are not approved for cervical cancer screening; they have zero sensitivity for pre-invasive cervical dysplasia and are ineffective."
+      }
+    ],
+    "explanation": "Cervical Cancer Screening guidelines (USPSTF and ACOG) are stratified by patient age for immunocompetent individuals with an intact cervix and no history of high-grade precancerous lesions: (1) WOMEN AGED 21 TO 29 YEARS: Cervical cytology (Pap smear) ALONE EVERY 3 YEARS. High-risk HPV testing (either alone or as co-testing) is STRONGLY DISCOURAGED in women < 30 years because transient, benign HPV infections are exceedingly common in this cohort and undergo spontaneous clearance; HPV testing in this group leads to unnecessary colposcopies and cervical excisional procedures without reducing cancer incidence. (2) WOMEN AGED 30 TO 65 YEARS: Guidelines offer THREE EQUALLY ACCEPTABLE EVIDENCE-BASED STRATEGIES: (a) Primary high-risk HPV (hrHPV) testing alone EVERY 5 YEARS; (b) High-risk HPV testing COMBINED WITH cervical cytology (co-testing) EVERY 5 YEARS; OR (c) Cervical cytology (Pap smear) ALONE EVERY 3 YEARS. High-risk HPV testing utilizes nucleic acid amplification targeting oncogenic viral genotypes (predominantly HPV 16 and 18, along with 12 other high-risk types). (3) DISCONTINUATION CRITERIA (AGE > 65): Screening is discontinued at age 65 if the patient has documented adequate prior negative screening (3 consecutive negative cytology tests or 2 consecutive negative co-tests/hrHPV tests within the past 10 years, with the most recent within 5 years) and no history of CIN 2+ within the past 25 years. 38-year-old average-risk woman due for cervical cancer screening can receive primary hrHPV alone q5y, hrHPV co-testing q5y, or Pap cytology alone q3y (USPSTF/ACOG).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cervical Cancer Screening Guidelines and Strategies.",
+    "keyPoints": [
+      "Cervical Cancer Screening Guidelines and Strategies",
+      "38-year-old average-risk woman due for cervical cancer screening can receive primary hrHPV alone q5y, hrHPV co-testing q5y, or Pap cytology alone q3y (USPSTF/ACOG)."
+    ],
+    "references": [
+      {
+        "label": "US Preventive Services Task Force. Screening for Cervical Cancer: US Preventive Services Task Force Recommendation Statement. JAMA. 2018;320(7):674-686. PMID: 30128523.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30128523/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s3-0425",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Abdominal Aortic Aneurysm (AAA) Screening and Surgical Repair Indications",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 67-year-old man presents to the clinic for a routine checkup. He feels completely healthy, is asymptomatic, and has no abdominal or back pain. His medical history includes essential hypertension treated with amlodipine 5 mg daily. He has a 35 pack-year smoking history (smoked 1 pack of cigarettes daily from age 20 to 55) but successfully quit 12 years ago. Physical examination demonstrates blood pressure of 128/78 mm Hg and heart rate of 72/min. Abdominal examination reveals a soft, non-tender abdomen with a wide, prominent, pulsatile midline mass palpated in the epigastric region measuring approximately 4.5 cm in width. Peripheral pulses are normal.\n\nAccording to current US Preventive Services Task Force (USPSTF) and Society for Vascular Surgery (SVS) guidelines, which of the following represents the most appropriate screening and management strategy for abdominal aortic aneurysm in this patient?",
+    "options": [
+      {
+        "text": "Perform an emergent open surgical laparotomy today for immediate aortic graft placement based on physical examination alone",
+        "correct": false,
+        "explanation": "Physical examination has poor diagnostic accuracy and overestimates aortic diameter; non-invasive ultrasound imaging is required first, and elective repair is indicated only for diameter >= 5.5 cm or symptoms."
+      },
+      {
+        "text": "Perform non-contrast abdominal computed tomography (CT) annually for all patients with a history of hypertension regardless of smoking history",
+        "correct": false,
+        "explanation": "Annual CT scans expose patients to unnecessary cumulative ionizing radiation, and screening is not recommended based on hypertension alone without a smoking history."
+      },
+      {
+        "text": "Withhold all vascular imaging because the patient successfully quit smoking 12 years ago",
+        "correct": false,
+        "explanation": "USPSTF guidelines define 'ever-smoker' as >= 100 lifetime cigarettes regardless of when smoking ceased; quitting 12 years ago does not remove the mandate for one-time ultrasound screening."
+      },
+      {
+        "text": "Order a one-time screening abdominal ultrasound and recommend immediate elective surgical repair if the aortic diameter reaches 3.5 cm",
+        "correct": false,
+        "explanation": "At 3.5 cm, the annual risk of rupture is virtually 0%, whereas surgical repair carries a 1-5% perioperative mortality; surgical repair at 3.5 cm represents dangerous overtreatment (threshold is >= 5.5 cm)."
+      },
+      {
+        "text": "Perform a one-time screening abdominal duplex ultrasound to evaluate for abdominal aortic aneurysm, and schedule elective surgical or endovascular repair if the maximal infrarenal aortic diameter is >= 5.5 cm or expands > 0.5 cm in 6 months",
+        "correct": true,
+        "explanation": "Abdominal Aortic Aneurysm (AAA) is defined as a focal permanent dilation of the abdominal aorta >= 3.0 cm in maximal transverse diameter (or > 50% dilation compared to normal adjacent aorta), typically occurring in the infrarenal segment. (1) USPSTF SCREENING CRITERIA: A ONE-TIME SCREENING ABDOMINAL DUPLEX ULTRASOUND is recommended for MEN AGED 65 TO 75 YEARS WHO HAVE EVER SMOKED (defined as having smoked >= 100 lifetime cigarettes; Grade B recommendation). Ultrasound is the screening modality of choice with > 98% sensitivity and specificity, zero radiation exposure, and non-invasiveness. (2) SVS SURVEILLANCE INTERVALS: (a) Aorta 3.0 to 3.9 cm: Surveillance ultrasound every 3 years; (b) Aorta 4.0 to 4.9 cm: Surveillance ultrasound every 12 months; (c) Aorta 5.0 to 5.4 cm: Surveillance ultrasound or CT angiography every 6 months. (3) DEFINITIVE SURGICAL REPAIR INDICATIONS: Elective repair (Endovascular Aneurysm Repair [EVAR] or open surgical repair) is indicated when the rupture risk exceeds the procedural mortality risk: (a) MAXIMAL DIAMETER >= 5.5 CM IN MEN (or >= 5.0 cm in women); (b) RAPID EXPANSION: Defined as aortic diameter growth > 0.5 cm in 6 months or > 1.0 cm in 1 year; OR (c) ANY SYMPTOMATIC ANEURYSM (abdominal, flank, or back pain, or tender pulsatile mass), which represents impending rupture and mandates emergent repair regardless of diameter."
+      }
+    ],
+    "explanation": "Abdominal Aortic Aneurysm (AAA) is defined as a focal permanent dilation of the abdominal aorta >= 3.0 cm in maximal transverse diameter (or > 50% dilation compared to normal adjacent aorta), typically occurring in the infrarenal segment. (1) USPSTF SCREENING CRITERIA: A ONE-TIME SCREENING ABDOMINAL DUPLEX ULTRASOUND is recommended for MEN AGED 65 TO 75 YEARS WHO HAVE EVER SMOKED (defined as having smoked >= 100 lifetime cigarettes; Grade B recommendation). Ultrasound is the screening modality of choice with > 98% sensitivity and specificity, zero radiation exposure, and non-invasiveness. (2) SVS SURVEILLANCE INTERVALS: (a) Aorta 3.0 to 3.9 cm: Surveillance ultrasound every 3 years; (b) Aorta 4.0 to 4.9 cm: Surveillance ultrasound every 12 months; (c) Aorta 5.0 to 5.4 cm: Surveillance ultrasound or CT angiography every 6 months. (3) DEFINITIVE SURGICAL REPAIR INDICATIONS: Elective repair (Endovascular Aneurysm Repair [EVAR] or open surgical repair) is indicated when the rupture risk exceeds the procedural mortality risk: (a) MAXIMAL DIAMETER >= 5.5 CM IN MEN (or >= 5.0 cm in women); (b) RAPID EXPANSION: Defined as aortic diameter growth > 0.5 cm in 6 months or > 1.0 cm in 1 year; OR (c) ANY SYMPTOMATIC ANEURYSM (abdominal, flank, or back pain, or tender pulsatile mass), which represents impending rupture and mandates emergent repair regardless of diameter. 67-year-old male former smoker requires one-time screening abdominal ultrasound for AAA; elective repair is indicated for diameter >= 5.5 cm (or rapid expansion > 0.5 cm in 6 mo).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Abdominal Aortic Aneurysm (AAA) Screening and Surgical Repair Indications.",
+    "keyPoints": [
+      "Abdominal Aortic Aneurysm (AAA) Screening and Surgical Repair Indications",
+      "67-year-old male former smoker requires one-time screening abdominal ultrasound for AAA; elective repair is indicated for diameter >= 5.5 cm (or rapid expansion > 0.5 cm in 6 mo)."
+    ],
+    "references": [
+      {
+        "label": "US Preventive Services Task Force. Screening for Abdominal Aortic Aneurysm: US Preventive Services Task Force Recommendation Statement. JAMA. 2019;322(22):2211-2218. PMID: 31821437.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31821437/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]
