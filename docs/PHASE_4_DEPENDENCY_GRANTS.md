@@ -1,0 +1,21 @@
+# Phase 4 dependency grants
+
+2026-10-30. **0 newly resolved; 9 unresolved.** The prior 16 captures remain historical evidence, not legal approvals. MIT, dependency versions and the lockfile are unchanged.
+
+Fresh exact registry identity, locked SRI and archive identity checks passed for all nine. [Machine evidence](audit/phase4-dependency-grants.json) records registry/tarball URLs, archive SHA-256, SRI, publisher/source commits, exact tree/license candidates, embedded markers and limitations. The available better-auth/utils SLSA provenance passed fresh Sigstore identity/issuer/transparency, subject digest and source-commit verification; [results](audit/phase4-provenance-verification.json) and original bundle bytes are retained. It does not supply a grant. Eight packages supplied no usable attestation in this investigation; this is not a bad-signature finding.
+
+| Package | Exact archive SHA-256 | Source commit | Remaining evidence |
+|---|---|---|---|
+| @better-auth/utils@0.5.0 | `63193eef51c0d9bd9458d9123f4011ac71b2fd9df7d85c0eb0eceb98d88d1eb7` | `f03c1c76aff7bfa3f4de4af47b112315c770a0d1` | Authenticated publisher commit, but no sufficient grant in the artifact/exact source. Obtain a scoped rightsholder grant. |
+| @humanfs/types@0.15.0 | `3c2942da7ba321f6ba27255a5faceee76eae502403129d8aa50d2dc8400a94d5` | `85069f193cbacc371c3beb649ce746f8c5a493be` | Seven sibling LICENSE paths do not establish rights for types. Obtain explicit scoped evidence. |
+| @prisma/dev@0.24.17 | `ec4662e1f431e98f8c08293ff704ee232ef623aa5eccdaf690a1ae21c96d42dd` | `UNESTABLISHED` | No usable source mapping; one embedded Apache marker does not license the whole generated bundle. Obtain source/build mapping and complete scoped grants. |
+| @types/json5@0.0.29 | `439d14e46f574bc1a62a72ad4598e7f22ebd8021410ab7d869723801c436e95d` | `UNESTABLISHED` | Bind the published DefinitelyTyped content to an exact source commit and applicable complete grant; attempted exact tag lookup was unavailable. |
+| client-only@0.0.1 | `dcd7bc3868e2d3518d08944559952e4a68f581d89a84b6892de9fd8f40860b19` | `UNESTABLISHED` | Establish publisher-authorized repository/file mapping and the applicable complete grant; do not infer a React license from the package name. |
+| language-subtag-registry@0.3.23 | `a9d037f6bec7c1e98979edf8dc4a3dc455826bdc759ffb4ee542148d46cafee6` | `1e7d67e7f9646f47f0766a04b08522f7df59e932` | Establish separate IANA-derived data and wrapper/transformation-code terms; a source URL/RFC reference is insufficient. |
+| language-tags@1.0.9 | `3352fb1423dbbd178d8e4af5d94396115d78fa5994aa4c234f5689f54b0ecdd8` | `ea5aa61e53ced2a18e35783ff00bb2a533f6c77d` | Establish exact-commit code and incorporated registry-data grants, beyond the MIT declaration. |
+| natural-compare@1.4.0 | `5e5569ecd12064f73632a8c18a45b1d1de4a27b699a671864801f1c35ee779ee` | `eec83eee67cfac84d6db30cdd65363f155673770` | index.js matches the source commit, but complete grant evidence is absent. Obtain an explicit scoped grant. |
+| stable-hash@0.0.5 | `4aa15e229c6c7d70805789e5480ab4762e028e7ee5cf2368aa723eb666fd04e9` | `1b314f2cc3e9449bc8d49e417670175cf9afd42a` | Exact publisher commit identified; complete grant and generated-output correspondence remain unestablished. |
+
+The investigation searches exact archives, source/ancestor license candidates and root documentation, including embedded grant markers beyond the first source header. SPDX metadata, README links, sibling licenses and mutable branches were not accepted. Prisma's marker could belong to an embedded dependency and was not promoted to a whole-package grant. Unavailable source/tag mapping remains unknown, not an invented commit. Complete text still needs scope/source binding and separate human distribution review.
+
+The Phase 4 grant gate rejects empty inventories, unresolved statuses, metadata-only status changes, absent/mismatched full grant bytes, unbound text and absent archive integrity. It conservatively withholds project release while these nine gaps remain, including declarations outside a particular artifact. A dependency reference alone is not conveyed library bytes. Obtain evidence from actual publishers/rightsholders or separately propose an independently justified dependency change. No message was sent, grant approved or dependency removed/replaced. Historical evidence was not overwritten.

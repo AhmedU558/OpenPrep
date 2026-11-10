@@ -5,6 +5,7 @@ import { db, type Tx } from './db';
 import { AppError } from './errors';
 import { questionContentSchema, type QuestionContent } from './validation/content';
 import { deliveryRights, exportRights, invalidateRights, lockQuestion } from './content-rights';
+import { createQuestionRevision, isRevisionFullyApproved, isRevisionAvailableForPractice } from './question-revision';
 
 export type Actor = { id: string; role: Role };
 const RANK: Record<Role, number> = { LEARNER: 0, EDITOR: 1, ADMIN: 2 };
@@ -61,14 +62,69 @@ function columns(c: QuestionContent) {
 }
 
 async function writeOptions(tx: Tx, questionId: string, c: QuestionContent) {
-  await tx.option.deleteMany({ where: { questionId } });
-  await tx.option.createMany({ data: c.options.map((o, position) => ({ questionId, position, text: o.text, isCorrect: o.correct, explanationMd: o.explanation || null })) });
+  const existing = await tx.option.findMany({ where: { questionId } });
+  const existingByPos = new Map(existing.map((o) => [o.position, o]));
+  const newPositions = new Set(c.options.map((_, i) => i));
+
+  // Only delete options whose positions no longer exist in the revised content
+  const toDelete = existing.filter((o) => !newPositions.has(o.position));
+  if (toDelete.length > 0) {
+    await tx.option.deleteMany({ where: { id: { in: toDelete.map((o) => o.id) } } });
+  }
+
+  // Update existing options by position (preserving IDs for historical references) and insert new positions
+  for (let position = 0; position < c.options.length; position++) {
+    const o = c.options[position]!;
+    const match = existingByPos.get(position);
+    if (match) {
+      await tx.option.update({
+        where: { id: match.id },
+        data: { text: o.text, isCorrect: o.correct, explanationMd: o.explanation || null },
+      });
+    } else {
+      await tx.option.create({
+        data: { questionId, position, text: o.text, isCorrect: o.correct, explanationMd: o.explanation || null },
+      });
+    }
+  }
 }
 
-async function requireMutableQuestion(tx: Tx, questionId: string, code: string) {
-  const referenced = await tx.question.count({ where: { id: questionId, OR: [{ sessionItems: { some: {} } }, { cards: { some: {} } }, { notes: { some: {} } }, { reports: { some: {} } }] } });
-  const clipped = await tx.notebookPage.count({ where: { OR: [{ sourceQuestionIds: { has: questionId } }, { sourceQuestionIds: { has: `code:${code}` } }, { body: { contains: `— Question ${code}` } }] } });
-  if (referenced || clipped) throw new AppError('CONFLICT', 'This question has saved attempts or study references. Create a new code for revised content; the original and its options must remain unchanged.');
+async function requireMutableQuestion(tx: Tx, questionId: string, beforeCode: string, newCode?: string) {
+  const clipped = await tx.notebookPage.count({ where: { OR: [
+    { sourceQuestionIds: { has: questionId } }, { sourceQuestionIds: { has: `code:${beforeCode}` } },
+    { body: { contains: `— Question ${beforeCode}` } },
+  ] } });
+  if (clipped) throw new AppError('CONFLICT', 'Question content referenced by notebook clips requires a new question code.');
+  const hasRevision = await tx.questionRevision.count({ where: { questionId } });
+  // If the human-readable code is being changed, verify the question is not referenced by study tools or past attempts
+  if ((newCode && newCode !== beforeCode) || !hasRevision) {
+    const referenced = await tx.question.count({
+      where: {
+        id: questionId,
+        OR: [{ sessionItems: { some: {} } }, { cards: { some: {} } }, { notes: { some: {} } }, { reports: { some: {} } }],
+      },
+    });
+    const clipped = await tx.notebookPage.count({
+      where: {
+        OR: [
+          { sourceQuestionIds: { has: questionId } },
+          { sourceQuestionIds: { has: `code:${beforeCode}` } },
+          { body: { contains: `— Question ${beforeCode}` } },
+        ],
+      },
+    });
+    if (referenced || clipped) {
+      throw new AppError('CONFLICT', 'Question code cannot be changed once referenced by attempts or study tools.');
+    }
+  }
+
+  // Prevent in-place content mutations if the question is part of an active (unlocked) unbound session item
+  const activeUnboundItems = await tx.sessionItem.count({
+    where: { questionId, state: { not: 'LOCKED' }, deliveredRevisionId: null },
+  });
+  if (activeUnboundItems > 0) {
+    throw new AppError('CONFLICT', 'This question is part of an active in-progress exam session. Wait for sessions to complete before revising content.');
+  }
 }
 
 // ---------------------------------------------------------------- questions
@@ -80,7 +136,12 @@ export async function createQuestion(actor: Actor, raw: unknown) {
     if (await tx.question.findUnique({ where: { code: c.code } })) throw new AppError('CONFLICT', `Code ${c.code} is already used.`);
     const q = await tx.question.create({ data: { ...columns(c), ...(await taxonomyIds(tx, actor, c)), status: 'DRAFT', isDemo: false, authorId: actor.id } });
     await writeOptions(tx, q.id, c);
-    await audit(tx, actor, 'question.create', 'question', q.id, { code: c.code });
+    const { revision } = await createQuestionRevision(tx, {
+      questionId: q.id,
+      authorId: actor.id,
+      changeSummary: 'Initial revision',
+    });
+    await audit(tx, actor, 'question.create', 'question', q.id, { code: c.code, revisionId: revision.id });
     return q.id;
   });
 }
@@ -98,12 +159,17 @@ export async function updateQuestion(actor: Actor, rawId: unknown, raw: unknown)
     if (clash) throw new AppError('CONFLICT', `Code ${c.code} is already used.`);
     const full = await tx.question.findUniqueOrThrow({ where: { id: qid }, include: { options: { orderBy: { position: 'asc' } }, exam: true, subject: true, system: true, topic: true } });
     if (JSON.stringify(questionContentSchema.parse(toContent(full))) === JSON.stringify(c)) return;
-    await requireMutableQuestion(tx, qid, before.code);
+    await requireMutableQuestion(tx, qid, before.code, c.code);
     const data = { ...columns(c), ...(await taxonomyIds(tx, actor, c)) };
     await tx.question.update({ where: { id: qid }, data: { ...data, ...invalidateRights } });
     await writeOptions(tx, qid, c);
+    const { created, revision } = await createQuestionRevision(tx, {
+      questionId: qid,
+      authorId: actor.id,
+      changeSummary: 'Content update',
+    });
     const changed = Object.keys(data).filter((k) => JSON.stringify((before as Record<string, unknown>)[k]) !== JSON.stringify((data as Record<string, unknown>)[k]));
-    await audit(tx, actor, 'question.update', 'question', qid, { changed });
+    await audit(tx, actor, 'question.update', 'question', qid, { changed, revisionId: revision.id, revisionNumber: revision.revisionNumber, revisionCreated: created });
   });
 }
 
@@ -116,8 +182,35 @@ export async function setStatus(actor: Actor, rawId: unknown, rawTo: unknown) {
     const q = await tx.question.findUnique({ where: { id: qid } });
     if (!q) throw new AppError('NOT_FOUND', 'Question not found.');
     if (!canTransition(actor.role, q.status, to)) throw new AppError('FORBIDDEN', `You can't move a question from ${q.status.toLowerCase()} to ${to.toLowerCase()}.`);
-    if (to === 'PUBLISHED' && (q.rightsStatus !== deliveryRights.rightsStatus || !q.rightsAllowDelivery)) throw new AppError('FORBIDDEN', 'Verified rights and explicit delivery permission are required before publication.');
-    await tx.question.update({ where: { id: qid }, data: { status: to, publishedAt: to === 'PUBLISHED' ? new Date() : q.publishedAt } });
+
+    if (to === 'PUBLISHED') {
+      // 1. Enforce underlying content-rights permission
+      if (q.rightsStatus !== deliveryRights.rightsStatus || !q.rightsAllowDelivery) {
+        throw new AppError('FORBIDDEN', 'Verified rights and explicit delivery permission are required before publication.');
+      }
+
+      // 2. Require full review or explicit version-bound owner test permission.
+      const latestRevision = await tx.questionRevision.findFirst({
+        where: { questionId: qid },
+        orderBy: { revisionNumber: 'desc' },
+        include: { reviews: true },
+      });
+
+      if (latestRevision) {
+        const { approved, missingKinds } = isRevisionFullyApproved(latestRevision.reviews);
+        if (!approved && !isRevisionAvailableForPractice(latestRevision)) {
+          throw new AppError('FORBIDDEN', `Cannot publish: latest revision #${latestRevision.revisionNumber} is not fully approved. Missing or revoked: ${missingKinds.join(', ')}.`);
+        }
+      }
+    }
+
+    await tx.question.update({
+      where: { id: qid },
+      data: {
+        status: to,
+        publishedAt: to === 'PUBLISHED' ? new Date() : q.publishedAt,
+      },
+    });
     await audit(tx, actor, 'question.status', 'question', qid, { from: q.status, to });
   });
 }
@@ -136,7 +229,7 @@ export async function getQuestionContent(actor: Actor, rawId: unknown) {
 }
 
 type FullQ = NonNullable<Awaited<ReturnType<typeof fetchForExport>>>[number];
-function toContent(q: FullQ): QuestionContent {
+export function toContent(q: FullQ): QuestionContent {
   return {
     code: q.code, exam: q.exam.name, subject: q.subject.name, system: q.system.name, topic: q.topic?.name, type: q.type, difficulty: q.difficulty,
     stem: q.stemMd, options: q.options.map((o) => ({ text: o.text, correct: o.isCorrect, ...(o.explanationMd ? { explanation: o.explanationMd } : {}) })),
@@ -195,13 +288,18 @@ export async function importQuestions(actor: Actor, raw: unknown, dryRun = true,
         if (existing) {
           const full = await tx.question.findUniqueOrThrow({ where: { id: existing.id }, include: { options: { orderBy: { position: 'asc' } }, exam: true, subject: true, system: true, topic: true } });
           if (JSON.stringify(questionContentSchema.parse(toContent(full))) === JSON.stringify(c)) { report.updated++; continue; }
-          await requireMutableQuestion(tx, existing.id, existing.code);
+          await requireMutableQuestion(tx, existing.id, existing.code, c.code);
         }
         const data = { ...columns(c), ...(await taxonomyIds(tx, actor, c)) };
         const q = existing
           ? await tx.question.update({ where: { id: existing.id }, data: { ...data, ...invalidateRights } })
           : await tx.question.create({ data: { ...data, status: 'DRAFT', isDemo: false, authorId: actor.id } });
         await writeOptions(tx, q.id, c);
+        await createQuestionRevision(tx, {
+          questionId: q.id,
+          authorId: actor.id,
+          changeSummary: existing ? 'Imported content update' : 'Initial revision (imported)',
+        });
         if (existing) report.updated++; else report.created++;
       }
       if (report.created || report.updated) await audit(tx, actor, 'question.import', 'question', '*', { created: report.created, updated: report.updated, skipped: report.skipped });

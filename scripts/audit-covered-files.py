@@ -1,4 +1,5 @@
 """Compare installed copyleft package bytes to exact locked archives, without executing package code."""
+import argparse
 import base64,hashlib,json,pathlib,re,tarfile
 root=pathlib.Path(__file__).resolve().parents[1]
 packages=json.loads((root/'docs/audit/dependency-inventory.json').read_text())['packages']
@@ -27,5 +28,6 @@ for p in packages:
  item['status']='INSTALLED_BYTES_MATCH' if (root/p['path']).is_dir() and not item['modifiedInstalledFiles'] else 'UNINSTALLED_PLATFORM' if not (root/p['path']).is_dir() else 'MODIFIED_INSTALLED_FILES_REVIEW_REQUIRED'
  results.append(item)
 out={'scope':'Every MPL/EPL lockfile path, including duplicate versions/platforms. No whole-dependency AGPL compatibility conclusion.','packages':results}
-(root/'docs/audit/phase3-covered-files.json').write_text(json.dumps(out,indent=2)+'\n')
+parser=argparse.ArgumentParser();parser.add_argument('--output',default='docs/audit/phase3-covered-files.json');args=parser.parse_args()
+(root/args.output).write_text(json.dumps(out,indent=2)+'\n')
 print(json.dumps({'paths':len(results),'statuses':{s:sum(p['status']==s for p in results) for s in {p['status'] for p in results}},'modified':[p['package'] for p in results if p['modifiedInstalledFiles']]}))

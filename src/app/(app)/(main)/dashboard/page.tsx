@@ -1,10 +1,12 @@
 import Link from 'next/link';
 import { ActivityHeatmap } from '@/components/charts';
 import { TaskRow } from '@/components/planner-ui';
+import { ReadinessCard } from '@/components/readiness-card';
 import { ButtonLink, Card, PageHeader, Stat, fmtDuration } from '@/components/ui';
 import { overview } from '@/lib/analytics';
 import { db } from '@/lib/db';
 import { getPlan } from '@/lib/plan';
+import { assessExamReadiness } from '@/lib/readiness';
 import { requireUserPage } from '@/lib/session';
 
 export const metadata = { title: 'Home' };
@@ -20,11 +22,22 @@ export default async function Dashboard() {
   const today = new Date().toISOString().slice(0, 10);
   const todays = plan?.tasks.filter((t) => t.day === today) ?? [];
   const first = user.isAnonymous ? 'there' : user.name.split(' ')[0];
+  const readiness = assessExamReadiness(o);
 
   return (
     <>
       <PageHeader title={`Welcome back, ${first}`} subtitle={o.used ? `${o.today} questions today · ${o.streak}-day streak` : 'Start with a short tutor-mode test to get a feel for things.'}
         actions={<ButtonLink href="/create">Create test</ButtonLink>} />
+
+      <section className="study-hero relative mb-7 overflow-hidden rounded-3xl px-6 py-8 sm:px-9 sm:py-10" aria-labelledby="practice-heading">
+        <div className="relative z-10 max-w-lg">
+          <p className="text-xs font-semibold uppercase tracking-[0.18em] text-white/75">One session closer</p>
+          <h2 id="practice-heading" className="mt-3 font-serif text-3xl leading-tight sm:text-4xl">Your next chapter<br />starts here.</h2>
+          <p className="mt-4 max-w-sm text-sm leading-relaxed text-white/80">Make space for a little progress. Practice with purpose, understand the why, and keep moving forward.</p>
+          <Link href="/create" className="mt-6 inline-flex min-h-11 items-center gap-5 rounded-xl bg-white px-5 py-3 text-sm font-semibold text-[#153f35] hover:bg-[#edf5f0]">Start a practice test <span aria-hidden="true">↗</span></Link>
+        </div>
+        <div className="study-orbits" aria-hidden="true"><span /><span /><span /></div>
+      </section>
 
       {suspended.length > 0 && (
         <Card className="mb-6 border-accent/40 bg-warn-soft">
@@ -42,10 +55,12 @@ export default async function Dashboard() {
 
       <div className="mb-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
         <Stat label="Correct" value={o.used ? `${o.pct}%` : '—'} hint={`${o.used} answered`} />
-        <Stat label="Unused questions" value={o.published - o.used} hint={`of ${o.published}`} />
+        <Stat label="Unused questions" value={Math.max(0, o.published - o.used)} hint={`of ${o.published}`} />
         <Stat label="Avg. time / question" value={o.used ? fmtDuration(o.avgTimeMs) : '—'} />
         <Stat label="Flashcards due" value={o.cardsDue} hint={o.cardsDue ? <Link href="/flashcards" className="text-brand underline">Review now</Link> : 'All caught up'} />
       </div>
+
+      <ReadinessCard assessment={readiness} className="mb-6" />
 
       <div className="grid gap-6 lg:grid-cols-2">
         <Card>

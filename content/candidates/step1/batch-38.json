@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s1-0926",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Metabolic Acidosis Winter Formula Expected Respiratory Compensation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old woman with type 1 diabetes mellitus is brought to the emergency department in an obtunded state. Her breathing is deep, rapid, and labored (Kussmaul respirations). Fingerstick glucose is 480 mg/dL. Arterial blood gas on ambient air reveals: pH 7.20, PaCO2 24 mm Hg, PaO2 98 mm Hg, and serum bicarbonate 10 mEq/L. Serum sodium is 132 mEq/L, potassium 5.2 mEq/L, and chloride 94 mEq/L. Urine ketones are strongly positive (4+). Which of the following best characterizes the acid-base disorder present in this patient?",
+    "options": [
+      {
+        "text": "Primary high anion gap metabolic acidosis with appropriate respiratory compensation",
+        "correct": true,
+        "explanation": "The patient has diabetic ketoacidosis (DKA) with an elevated anion gap: Na - (Cl + HCO3) = 132 - (94 + 10) = 28 mEq/L (normal: 8-12). To evaluate whether respiratory compensation is appropriate, WINTER'S FORMULA is applied: Expected PaCO2 = 1.5 * [HCO3-] + 8 +/- 2. Here, Expected PaCO2 = 1.5 * (10) + 8 +/- 2 = 15 + 8 +/- 2 = 23 +/- 2 mm Hg (range: 21 to 25 mm Hg). The measured PaCO2 is exactly 24 mm Hg, falling precisely within the expected compensatory range. Therefore, this represents a simple primary high anion gap metabolic acidosis with appropriate secondary respiratory compensation (hyperventilation / Kussmaul breathing blowing off CO2). There is no superimposed primary respiratory acidosis (PaCO2 > 25) or primary respiratory alkalosis (PaCO2 < 21)."
+      },
+      {
+        "text": "Primary high anion gap metabolic acidosis with concomitant primary respiratory acidosis",
+        "correct": false,
+        "explanation": "Concomitant respiratory acidosis would be diagnosed if the measured PaCO2 was significantly higher than the expected Winter formula range (> 25 mm Hg), indicating impending respiratory fatigue."
+      },
+      {
+        "text": "Mixed high anion gap metabolic acidosis and concurrent primary metabolic alkalosis",
+        "correct": false,
+        "explanation": "Superimposed metabolic alkalosis is evaluated via the delta-delta ratio (delta AG / delta HCO3); an acute compensatory PaCO2 matching Winter formula does not diagnose mixed metabolic alkalosis."
+      },
+      {
+        "text": "Normal anion gap (hyperchloremic) metabolic acidosis with respiratory alkalosis",
+        "correct": false,
+        "explanation": "The serum anion gap is markedly elevated at 28 mEq/L, completely excluding a normal anion gap metabolic acidosis."
+      },
+      {
+        "text": "Primary respiratory alkalosis with compensatory renal bicarbonate wasting",
+        "correct": false,
+        "explanation": "The primary disturbance is metabolic (bicarbonate 10 mEq/L, pH 7.20), not a primary respiratory alkalosis (which would feature alkalemia with pH > 7.45)."
+      }
+    ],
+    "explanation": "The patient has diabetic ketoacidosis (DKA) with an elevated anion gap: Na - (Cl + HCO3) = 132 - (94 + 10) = 28 mEq/L (normal: 8-12). To evaluate whether respiratory compensation is appropriate, WINTER'S FORMULA is applied: Expected PaCO2 = 1.5 * [HCO3-] + 8 +/- 2. Here, Expected PaCO2 = 1.5 * (10) + 8 +/- 2 = 15 + 8 +/- 2 = 23 +/- 2 mm Hg (range: 21 to 25 mm Hg). The measured PaCO2 is exactly 24 mm Hg, falling precisely within the expected compensatory range. Therefore, this represents a simple primary high anion gap metabolic acidosis with appropriate secondary respiratory compensation (hyperventilation / Kussmaul breathing blowing off CO2). There is no superimposed primary respiratory acidosis (PaCO2 > 25) or primary respiratory alkalosis (PaCO2 < 21). HCO3- = 10, PaCO2 = 24. Winter formula: 1.5(10) + 8 +/- 2 = 23 +/- 2 (21-25). Measured PaCO2 24 is within range = Pure metabolic acidosis with appropriate compensation.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Metabolic Acidosis Winter Formula Expected Respiratory Compensation.",
+    "keyPoints": [
+      "Metabolic Acidosis Winter Formula Expected Respiratory Compensation",
+      "HCO3- = 10, PaCO2 = 24. Winter formula: 1.5(10) + 8 +/- 2 = 23 +/- 2 (21-25). Measured PaCO2 24 is within range = Pure metabolic acidosis with appropriate compensation."
+    ],
+    "references": [
+      {
+        "label": "Kraut JA, Madias NE. Metabolic acidosis: pathophysiology, diagnosis and management. Nat Rev Nephrol. 2010;6(5):274-285. PMID: 20308999.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20308999/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0927",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Mixed Acid-Base Delta-Delta Ratio High Anion Gap and Metabolic Alkalosis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man with chronic alcoholic pancreatitis presents with 4 days of intractable vomiting accompanied by anorexia and lethargy. Arterial blood gas reveals: pH 7.40, PaCO2 40 mm Hg, and bicarbonate 24 mEq/L. Serum chemistry demonstrates: sodium 140 mEq/L, potassium 3.1 mEq/L, chloride 86 mEq/L, and BUN 38 mg/dL. Serum beta-hydroxybutyrate is markedly elevated at 8.2 mmol/L. Although the patient's arterial pH and bicarbonate appear deceptively normal, calculation of the serum anion gap and delta-delta ratio reveals which of the following mixed acid-base disorders?",
+    "options": [
+      {
+        "text": "Pure normal anion gap hyperchloremic metabolic acidosis with appropriate respiratory compensation",
+        "correct": false,
+        "explanation": "Serum chloride is low (86 mEq/L) and the anion gap is 30 mEq/L, completely excluding a hyperchloremic normal anion gap acidosis."
+      },
+      {
+        "text": "High anion gap metabolic acidosis masked by concurrent primary metabolic alkalosis",
+        "correct": true,
+        "explanation": "This patient has a severe 'hidden' mixed acid-base disorder. (1) First, calculate the Serum Anion Gap: AG = Na - (Cl + HCO3) = 140 - (86 + 24) = 30 mEq/L. This is markedly elevated (normal: 10-12, excess AG = 30 - 12 = +18). An elevated anion gap proves the presence of a primary HIGH ANION GAP METABOLIC ACIDOSIS (here, alcoholic ketoacidosis). (2) Next, evaluate the DELTA-DELTA RATIO (Delta AG / Delta HCO3): Delta AG = 30 - 12 = 18. Delta HCO3 = 24 - measured HCO3 = 24 - 24 = 0. A ratio > 2.0 (or calculating the corrected bicarbonate: measured HCO3 + Delta AG = 24 + 18 = 42 mEq/L) proves that if the ketoacidosis were cleared, the patient's baseline bicarbonate would be 42 mEq/L. The patient has a profound concurrent METABOLIC ALKALOSIS caused by persistent vomiting (loss of gastric HCl), which exactly offsets the acidotic drop in pH and bicarbonate, yielding pseudo-normal pH (7.40) and bicarbonate (24 mEq/L)."
+      },
+      {
+        "text": "Primary respiratory acidosis with chronic compensatory renal bicarbonate retention",
+        "correct": false,
+        "explanation": "Arterial PaCO2 is exactly 40 mm Hg and pH is 7.40, completely ruling out primary hypoventilation or respiratory acidosis."
+      },
+      {
+        "text": "Simple uncompensated metabolic alkalosis with secondary hypokalemia",
+        "correct": false,
+        "explanation": "A simple metabolic alkalosis would have a normal anion gap and alkalemia (pH > 7.45); an AG of 30 confirms concomitant ketoacidosis."
+      },
+      {
+        "text": "High anion gap metabolic acidosis combined with concurrent non-anion gap renal tubular acidosis",
+        "correct": false,
+        "explanation": "A non-anion gap acidosis combined with high AG acidosis would produce a delta-delta ratio < 1.0 (corrected HCO3 < 22), not metabolic alkalosis."
+      }
+    ],
+    "explanation": "This patient has a severe 'hidden' mixed acid-base disorder. (1) First, calculate the Serum Anion Gap: AG = Na - (Cl + HCO3) = 140 - (86 + 24) = 30 mEq/L. This is markedly elevated (normal: 10-12, excess AG = 30 - 12 = +18). An elevated anion gap proves the presence of a primary HIGH ANION GAP METABOLIC ACIDOSIS (here, alcoholic ketoacidosis). (2) Next, evaluate the DELTA-DELTA RATIO (Delta AG / Delta HCO3): Delta AG = 30 - 12 = 18. Delta HCO3 = 24 - measured HCO3 = 24 - 24 = 0. A ratio > 2.0 (or calculating the corrected bicarbonate: measured HCO3 + Delta AG = 24 + 18 = 42 mEq/L) proves that if the ketoacidosis were cleared, the patient's baseline bicarbonate would be 42 mEq/L. The patient has a profound concurrent METABOLIC ALKALOSIS caused by persistent vomiting (loss of gastric HCl), which exactly offsets the acidotic drop in pH and bicarbonate, yielding pseudo-normal pH (7.40) and bicarbonate (24 mEq/L). AG = 140 - (86 + 24) = 30. Delta AG = +18. Corrected HCO3 = 24 + 18 = 42. High AG acidosis (alcoholic ketoacidosis) + Metabolic alkalosis (vomiting).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Mixed Acid-Base Delta-Delta Ratio High Anion Gap and Metabolic Alkalosis.",
+    "keyPoints": [
+      "Mixed Acid-Base Delta-Delta Ratio High Anion Gap and Metabolic Alkalosis",
+      "AG = 140 - (86 + 24) = 30. Delta AG = +18. Corrected HCO3 = 24 + 18 = 42. High AG acidosis (alcoholic ketoacidosis) + Metabolic alkalosis (vomiting)."
+    ],
+    "references": [
+      {
+        "label": "Berend K. Physiological approach to assessment of acid-base disturbances. N Engl J Med. 2015 Jan 8. PMID: 25564913.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25564913/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0928",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Type 1 Distal Renal Tubular Acidosis Alpha-Intercalated Cell Proton Pump Defect",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 36-year-old woman with primary Sjögren syndrome presents with recurrent bilateral flank pain and passing small gravel-like stones in her urine. Renal ultrasonography reveals bilateral nephrocalcinosis and multiple radiopaque calculi in the renal medullary pyramids. Laboratory evaluation shows: serum sodium 140 mEq/L, potassium 2.8 mEq/L, chloride 114 mEq/L, and bicarbonate 14 mEq/L (serum anion gap 12 mEq/L). Urinalysis shows a urine pH of 6.8 despite systemic acidemia. An ammonium chloride acid-loading test fails to lower urine pH below 5.5. Urine anion gap (Na + K - Cl) is positive (+18). Impairment of which of the following transport mechanisms in the collecting tubule is the primary cause of this condition?",
+    "options": [
+      {
+        "text": "Bicarbonate reabsorption by apical sodium-hydrogen antiporters (NHE3) in the proximal tubule",
+        "correct": false,
+        "explanation": "Defective proximal bicarbonate reabsorption via NHE3 causes Type 2 (proximal) RTA, which allows urine acidification below 5.5 once serum bicarbonate drops below the renal threshold."
+      },
+      {
+        "text": "Aldosterone-dependent sodium reabsorption by epithelial sodium channels (ENaC) in principal cells",
+        "correct": false,
+        "explanation": "ENaC impairment causes Type 4 RTA (pseudohypoaldosteronism), which presents with HYPERKALEMIA and acidic urine (pH < 5.5), not hypokalemia and nephrocalcinosis."
+      },
+      {
+        "text": "Active proton excretion by apical H+-ATPase pumps in alpha-intercalated cells",
+        "correct": true,
+        "explanation": "Type 1 (distal) Renal Tubular Acidosis (RTA) is caused by an inability of the ALPHA-INTERCALATED CELLS in the cortical collecting tubule to secrete hydrogen ions into the tubular lumen against an acid gradient. Under physiological conditions, alpha-intercalated cells utilize apical H+-ATPase and H+/K+-ATPase pumps to secrete protons, acidifying the urine to a pH < 5.3 during systemic acidosis. In Type 1 RTA (frequently triggered by autoimmune diseases like Sjögren syndrome or SLE), defective proton secretion causes: (1) Inability to acidify urine: URINE pH REMAINS > 5.5 despite severe systemic acidemia; (2) Normal anion gap (hyperchloremic) metabolic acidosis with POSITIVE URINE ANION GAP (due to impaired NH4+ excretion); (3) HYPOKALEMIA (compensatory aldosterone secretion increases potassium wasting); and (4) Calcium phosphate NEPHROLITHIASIS and NEPHROCALCINOSIS, as systemic acidosis leaches calcium from bone and alkaline urine precipitates calcium phosphate."
+      },
+      {
+        "text": "Transcellular calcium reabsorption by apical TRPV5 channels in the distal convoluted tubule",
+        "correct": false,
+        "explanation": "TRPV5 channels mediate calcium uptake in the distal convoluted tubule; mutations do not produce systemic hyperchloremic metabolic acidosis."
+      },
+      {
+        "text": "Sodium-potassium-chloride cotransport by apical NKCC2 in the thick ascending limb",
+        "correct": false,
+        "explanation": "Inhibition or mutation of NKCC2 causes Bartter syndrome, characterized by hypokalemic metabolic ALKALOSIS, not normal anion gap metabolic acidosis."
+      }
+    ],
+    "explanation": "Type 1 (distal) Renal Tubular Acidosis (RTA) is caused by an inability of the ALPHA-INTERCALATED CELLS in the cortical collecting tubule to secrete hydrogen ions into the tubular lumen against an acid gradient. Under physiological conditions, alpha-intercalated cells utilize apical H+-ATPase and H+/K+-ATPase pumps to secrete protons, acidifying the urine to a pH < 5.3 during systemic acidosis. In Type 1 RTA (frequently triggered by autoimmune diseases like Sjögren syndrome or SLE), defective proton secretion causes: (1) Inability to acidify urine: URINE pH REMAINS > 5.5 despite severe systemic acidemia; (2) Normal anion gap (hyperchloremic) metabolic acidosis with POSITIVE URINE ANION GAP (due to impaired NH4+ excretion); (3) HYPOKALEMIA (compensatory aldosterone secretion increases potassium wasting); and (4) Calcium phosphate NEPHROLITHIASIS and NEPHROCALCINOSIS, as systemic acidosis leaches calcium from bone and alkaline urine precipitates calcium phosphate. Recurrent stones + hypokalemia + normal AG acidosis + urine pH > 5.5 during acidemia = Type 1 distal RTA (alpha-intercalated cell H+-ATPase failure).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Type 1 Distal Renal Tubular Acidosis Alpha-Intercalated Cell Proton Pump Defect.",
+    "keyPoints": [
+      "Type 1 Distal Renal Tubular Acidosis Alpha-Intercalated Cell Proton Pump Defect",
+      "Recurrent stones + hypokalemia + normal AG acidosis + urine pH > 5.5 during acidemia = Type 1 distal RTA (alpha-intercalated cell H+-ATPase failure)."
+    ],
+    "references": [
+      {
+        "label": "Batlle D, Haque SK. Genetic causes and mechanisms of distal renal tubular acidosis. Nephrol Dial Transplant. 2012 Oct;27(10):3691-3704. PMID: 23114896.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23114896/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0929",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Type 2 Proximal Renal Tubular Acidosis Fanconi Syndrome Bicarbonate Threshold",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 48-year-old man with multiple myeloma treated with ifosfamide chemotherapy develops progressive muscle weakness and bone pain. Skeletal radiographs demonstrate osteomalacia and pseudofractures (Looser zones). Laboratory studies show: serum sodium 138 mEq/L, potassium 3.0 mEq/L, chloride 112 mEq/L, and bicarbonate 15 mEq/L (serum anion gap 11 mEq/L). Arterial pH is 7.30. Urinalysis demonstrates glucosuria in the presence of normal blood glucose (90 mg/dL), generalized aminoaciduria, hypophosphatemia with severe phosphaturia, and low-molecular-weight proteinuria. When his serum bicarbonate is 15 mEq/L, his urine pH is 5.1. However, when an intravenous infusion of sodium bicarbonate raises his serum bicarbonate to 22 mEq/L, his urine pH immediately rises to 7.6. Which of the following transport defects in the nephron accounts for this clinical picture?",
+    "options": [
+      {
+        "text": "Autoimmune destruction of cortical collecting duct H+-ATPase proton pumps",
+        "correct": false,
+        "explanation": "Cortical collecting duct H+-ATPase failure causes Type 1 distal RTA, which cannot acidify urine below 5.5 even when serum bicarbonate is low."
+      },
+      {
+        "text": "Resistance of the principal cells to aldosterone resulting in hyperkalemic acidosis",
+        "correct": false,
+        "explanation": "Aldosterone resistance causes Type 4 RTA, which is characterized by HYPERKALEMIA, whereas Fanconi syndrome causes hypokalemia."
+      },
+      {
+        "text": "Inactivating mutation of the basolateral Na+/K+ ATPase in the medullary collecting duct",
+        "correct": false,
+        "explanation": "Na+/K+ ATPase failure throughout the nephron would cause massive salt wasting and death, not selective proximal Fanconi syndrome."
+      },
+      {
+        "text": "Impaired proximal tubular reclamation of filtered bicarbonate with generalized apical transport failure (Fanconi syndrome)",
+        "correct": true,
+        "explanation": "Type 2 (proximal) Renal Tubular Acidosis (RTA) results from a defect in the PROXIMAL CONVOLUTED TUBULE'S capacity to reabsorb filtered bicarbonate (which normally reabsorbs 80-85% of filtered HCO3-). When the proximal threshold for bicarbonate is lowered (e.g., from 24 to 15 mEq/L), filtered bicarbonate escapes into the urine, causing transient bicarbonaturia. Once serum bicarbonate drops below this lowered threshold (here, 15 mEq/L), all filtered bicarbonate can be reabsorbed proximally, and intact distal intercalated cells ACIDIFY THE URINE NORMALLY (urine pH < 5.5). However, if exogenous bicarbonate is infused, exceeding the lowered proximal threshold, bicarbonate floods the distal tubule and raises urine pH (> 7.0). Type 2 RTA frequently occurs as part of generalized proximal tubule dysfunction (FANCONI SYNDROME) due to multiple myeloma light chain toxicity or ifosfamide, leading to glucosuria with normal glycemia, phosphaturia, aminoaciduria, and osteomalacia."
+      },
+      {
+        "text": "Loss-of-function mutation in the parathyroid hormone receptor 1 (PTH1R) in osteocytes",
+        "correct": false,
+        "explanation": "PTH1R inactivating mutations cause pseudohypoparathyroidism (Albright hereditary osteodystrophy), presenting with hyperphosphatemia and hypocalcemia, not glucosuria."
+      }
+    ],
+    "explanation": "Type 2 (proximal) Renal Tubular Acidosis (RTA) results from a defect in the PROXIMAL CONVOLUTED TUBULE'S capacity to reabsorb filtered bicarbonate (which normally reabsorbs 80-85% of filtered HCO3-). When the proximal threshold for bicarbonate is lowered (e.g., from 24 to 15 mEq/L), filtered bicarbonate escapes into the urine, causing transient bicarbonaturia. Once serum bicarbonate drops below this lowered threshold (here, 15 mEq/L), all filtered bicarbonate can be reabsorbed proximally, and intact distal intercalated cells ACIDIFY THE URINE NORMALLY (urine pH < 5.5). However, if exogenous bicarbonate is infused, exceeding the lowered proximal threshold, bicarbonate floods the distal tubule and raises urine pH (> 7.0). Type 2 RTA frequently occurs as part of generalized proximal tubule dysfunction (FANCONI SYNDROME) due to multiple myeloma light chain toxicity or ifosfamide, leading to glucosuria with normal glycemia, phosphaturia, aminoaciduria, and osteomalacia. Normal AG acidosis + glucosuria with normal blood sugar + phosphaturia + urine pH < 5.5 at low serum HCO3- = Type 2 proximal RTA / Fanconi syndrome.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Type 2 Proximal Renal Tubular Acidosis Fanconi Syndrome Bicarbonate Threshold.",
+    "keyPoints": [
+      "Type 2 Proximal Renal Tubular Acidosis Fanconi Syndrome Bicarbonate Threshold",
+      "Normal AG acidosis + glucosuria with normal blood sugar + phosphaturia + urine pH < 5.5 at low serum HCO3- = Type 2 proximal RTA / Fanconi syndrome."
+    ],
+    "references": [
+      {
+        "label": "Klootwijk ED, Reichold M, Helip-Wooley A, et al. Mistargeting of peroxisomal EHHADH and inherited renal Fanconi's syndrome. N Engl J Med. 2014;370(2):129-138. PMID: 24401050.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24401050/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0930",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Type 4 Hyperkalemic Renal Tubular Acidosis Ammoniagenesis Inhibition",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 66-year-old man with a 20-year history of poorly controlled type 2 diabetes mellitus and stage 3b diabetic kidney disease (baseline serum creatinine 2.1 mg/dL, eGFR 34 mL/min/1.73 m2) presents for a routine visit. Laboratory evaluation reveals: serum sodium 138 mEq/L, potassium 5.8 mEq/L, chloride 108 mEq/L, and bicarbonate 18 mEq/L (serum anion gap 12 mEq/L). Arterial pH is 7.32. Urinalysis demonstrates a urine pH of 5.1. Plasma renin activity and serum aldosterone concentrations are both low. Which of the following pathophysiological mechanisms links hyperkalemia to the maintenance of metabolic acidosis in this disorder?",
+    "options": [
+      {
+        "text": "Hyperkalemia stimulates the basolateral sodium-bicarbonate cotransporter NBCe1",
+        "correct": false,
+        "explanation": "Stimulation of NBCe1 would increase bicarbonate reclaim and promote alkalosis, not maintain metabolic acidosis."
+      },
+      {
+        "text": "Aldosterone deficiency directly inhibits the glomerular filtration of titratable phosphate",
+        "correct": false,
+        "explanation": "Phosphate filtration is governed by GFR and plasma phosphate, not aldosterone; titratable acid excretion is intact in Type 4 RTA."
+      },
+      {
+        "text": "Hyperkalemia induces apical translocation of pendrin in beta-intercalated cells",
+        "correct": false,
+        "explanation": "Pendrin secretes bicarbonate in exchange for chloride; its regulation is driven by alkalosis and chloride status, not the primary defect in Type 4 RTA."
+      },
+      {
+        "text": "Elevated serum potassium accelerates carbonic anhydrase II degradation in the brush border",
+        "correct": false,
+        "explanation": "Carbonic anhydrase II is intracellular and unaffected by potassium levels; ammoniagenesis suppression is the key mechanistic link."
+      },
+      {
+        "text": "Hyperkalemia inhibits proximal tubular glutamine uptake and ammonia (NH3/NH4+) synthesis",
+        "correct": true,
+        "explanation": "Type 4 Renal Tubular Acidosis (hypoaldosteronism / hyperkalemic RTA) is the most common form of RTA, classically occurring in older diabetic patients with diabetic nephropathy and hyporeninemic hypoaldosteronism. Deficiency of aldosterone (or resistance to its actions in principal cells) impairs cortical collecting duct ENaC sodium reabsorption, attenuating the negative lumen potential required for potassium and hydrogen ion excretion. Crucially, the resulting HYPERKALEMIA directly inhibits PROXIMAL TUBULAR AMMONIAGENESIS: elevated extracellular potassium causes transcellular shift into proximal tubule cells, raising intracellular pH and downregulating the enzyme glutaminase. Impaired deamination of glutamine leads to a severe deficit in ammonium (NH3/NH4+) generation. Because ammonium is the primary urinary buffer accepting protons in the collecting duct, total net acid excretion is severely reduced, maintaining systemic metabolic acidosis despite urine pH remaining < 5.5."
+      }
+    ],
+    "explanation": "Type 4 Renal Tubular Acidosis (hypoaldosteronism / hyperkalemic RTA) is the most common form of RTA, classically occurring in older diabetic patients with diabetic nephropathy and hyporeninemic hypoaldosteronism. Deficiency of aldosterone (or resistance to its actions in principal cells) impairs cortical collecting duct ENaC sodium reabsorption, attenuating the negative lumen potential required for potassium and hydrogen ion excretion. Crucially, the resulting HYPERKALEMIA directly inhibits PROXIMAL TUBULAR AMMONIAGENESIS: elevated extracellular potassium causes transcellular shift into proximal tubule cells, raising intracellular pH and downregulating the enzyme glutaminase. Impaired deamination of glutamine leads to a severe deficit in ammonium (NH3/NH4+) generation. Because ammonium is the primary urinary buffer accepting protons in the collecting duct, total net acid excretion is severely reduced, maintaining systemic metabolic acidosis despite urine pH remaining < 5.5. Diabetic nephropathy + hyperkalemia + normal AG acidosis + urine pH < 5.5 = Type 4 RTA (hyperkalemia suppresses proximal tubular ammoniagenesis).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Type 4 Hyperkalemic Renal Tubular Acidosis Ammoniagenesis Inhibition.",
+    "keyPoints": [
+      "Type 4 Hyperkalemic Renal Tubular Acidosis Ammoniagenesis Inhibition",
+      "Diabetic nephropathy + hyperkalemia + normal AG acidosis + urine pH < 5.5 = Type 4 RTA (hyperkalemia suppresses proximal tubular ammoniagenesis)."
+    ],
+    "references": [
+      {
+        "label": "Palmer BF. A physiologic-based approach to the evaluation of a patient with hyperkalemia. Am J Kidney Dis. 2010 Aug. PMID: 20493606.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20493606/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0931",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Renal",
+    "topic": "Bartter Syndrome Thick Ascending Limb NKCC2 ROMK Mutation Loop Diuretic Mimic",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 6-year-old boy is evaluated for short stature, muscle weakness, and polyuria. Blood pressure is 98/60 mm Hg. Serum electrolytes show: sodium 134 mEq/L, potassium 2.7 mEq/L, chloride 88 mEq/L, and bicarbonate 32 mEq/L. Plasma renin activity and serum aldosterone concentrations are both markedly elevated. Twenty-four-hour urine collection reveals marked urinary wasting of sodium, chloride, potassium, and calcium (hypercalciuria with bilateral medullary nephrocalcinosis on renal ultrasound). A continuous 48-hour urine toxicology screen for diuretics is repeatedly negative. Inactivating mutations in which of the following tubular transport proteins are most commonly responsible for this autosomal recessive disorder?",
+    "options": [
+      {
+        "text": "Apical Na+-K+-2Cl- cotransporter (NKCC2) or ROMK potassium channel in the thick ascending limb",
+        "correct": true,
+        "explanation": "Bartter syndrome is an autosomal recessive tubulopathy characterized by defective salt reabsorption in the THICK ASCENDING LIMB of the loop of Henle, mimicking the chronic pharmacological effects of LOOP DIURETICS (e.g., furosemide). The molecular defects involve: (1) NKCC2 cotransporter (Type 1); (2) ROMK apical potassium recycling channel (Type 2); (3) Basolateral ClC-Kb chloride channel (Type 3); or (4) Barttin chaperone subunit (Type 4, associated with sensorineural deafness). Loss of NKCC2 function abolishes lumen-positive transepithelial potential, eliminating the electrical driving force for paracellular reabsorption of calcium and magnesium. Consequently, patients present with: hypokalemic hypochloremic METABOLIC ALKALOSIS, normal/low blood pressure, hyperreninemic hyperaldosteronism, and marked HYPERCALCIURIA leading to NEPHROCALCINOSIS."
+      },
+      {
+        "text": "Apical Na+-Cl- cotransporter (NCCT) in the distal convoluted tubule",
+        "correct": false,
+        "explanation": "NCCT mutations cause Gitelman syndrome, which presents in older children/adults with HYPOCALCIURIA (not hypercalciuria) and hypomagnesemia without nephrocalcinosis."
+      },
+      {
+        "text": "Amiloride-sensitive epithelial sodium channel (ENaC) in the cortical collecting duct",
+        "correct": false,
+        "explanation": "ENaC gain-of-function causes Liddle syndrome (hypertension and suppressed renin/aldosterone); ENaC loss causes PHA type 1 (hyperkalemia and salt wasting)."
+      },
+      {
+        "text": "Proximal tubule apical sodium-hydrogen exchanger isoform 3 (NHE3)",
+        "correct": false,
+        "explanation": "NHE3 defects impair proximal sodium and bicarbonate reabsorption, producing metabolic ACIDOSIS, not hypokalemic metabolic alkalosis."
+      },
+      {
+        "text": "Basolateral calcium-sensing receptor (CaSR) in the medullary collecting duct",
+        "correct": false,
+        "explanation": "Gain-of-function CaSR mutations cause autosomal dominant hypocalcemia with hypercalciuria; loss-of-function causes familial hypocalciuric hypercalcemia (FHH)."
+      }
+    ],
+    "explanation": "Bartter syndrome is an autosomal recessive tubulopathy characterized by defective salt reabsorption in the THICK ASCENDING LIMB of the loop of Henle, mimicking the chronic pharmacological effects of LOOP DIURETICS (e.g., furosemide). The molecular defects involve: (1) NKCC2 cotransporter (Type 1); (2) ROMK apical potassium recycling channel (Type 2); (3) Basolateral ClC-Kb chloride channel (Type 3); or (4) Barttin chaperone subunit (Type 4, associated with sensorineural deafness). Loss of NKCC2 function abolishes lumen-positive transepithelial potential, eliminating the electrical driving force for paracellular reabsorption of calcium and magnesium. Consequently, patients present with: hypokalemic hypochloremic METABOLIC ALKALOSIS, normal/low blood pressure, hyperreninemic hyperaldosteronism, and marked HYPERCALCIURIA leading to NEPHROCALCINOSIS. Hypokalemic metabolic alkalosis + normal BP + high renin/aldosterone + hypercalciuria/nephrocalcinosis = Bartter syndrome (thick ascending limb NKCC2/ROMK defect).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Bartter Syndrome Thick Ascending Limb NKCC2 ROMK Mutation Loop Diuretic Mimic.",
+    "keyPoints": [
+      "Bartter Syndrome Thick Ascending Limb NKCC2 ROMK Mutation Loop Diuretic Mimic",
+      "Hypokalemic metabolic alkalosis + normal BP + high renin/aldosterone + hypercalciuria/nephrocalcinosis = Bartter syndrome (thick ascending limb NKCC2/ROMK defect)."
+    ],
+    "references": [
+      {
+        "label": "Simon DB. The molecular basis of inherited hypokalemic alkalosis: Bartter's and Gitelman's syndromes. Am J Physiol. 1996 Nov. PMID: 8945989.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8945989/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0932",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Renal",
+    "topic": "Gitelman Syndrome Distal Convoluted Tubule NCCT Inactivation Hypocalciuria",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old woman presents with recurring episodes of muscle cramps, fatigue, and tingling in her fingers. Blood pressure is 108/68 mm Hg. Laboratory studies show: serum sodium 136 mEq/L, potassium 2.9 mEq/L, chloride 90 mEq/L, bicarbonate 30 mEq/L, and serum magnesium 1.2 mg/dL (normal: 1.7-2.2 mg/dL). Plasma renin activity and serum aldosterone are elevated. Renal ultrasound is completely normal with no evidence of nephrocalcinosis or calculi. Twenty-four-hour urine studies demonstrate marked urinary wasting of potassium and magnesium, but a strikingly low urinary calcium excretion of 42 mg/day (hypocalciuria; normal > 100 mg/day). Diuretic screen is negative. Inactivation of which of the following tubular transport proteins explains this clinical phenotype?",
+    "options": [
+      {
+        "text": "Na+-K+-2Cl- cotransporter (NKCC2) in the medullary thick ascending limb",
+        "correct": false,
+        "explanation": "NKCC2 mutations cause Bartter syndrome, which presents in infancy with severe volume depletion and HYPERCALCIURIA causing nephrocalcinosis."
+      },
+      {
+        "text": "Thiazide-sensitive sodium-chloride cotransporter (NCCT) in the distal convoluted tubule",
+        "correct": true,
+        "explanation": "Gitelman syndrome is an autosomal recessive tubulopathy caused by inactivating mutations in the SLC12A3 gene encoding the THIAZIDE-SENSITIVE Na+-Cl- COTRANSPORTER (NCCT) in the DISTAL CONVOLUTED TUBULE (DCT). It mimics the chronic administration of THIAZIDE DIURETICS. Loss of NCCT leads to mild volume depletion, activating the renin-angiotensin-aldosterone axis to cause HYPOKALEMIC METABOLIC ALKALOSIS. In the DCT, reduced intracellular Na+ enhances basolateral 3Na+/Ca2+ exchange, which hyperpolarizes the apical membrane and drives robust passive CALCIUM REABSORPTION through apical TRPV5 channels. Therefore, patients exhibit profound HYPOCALCIURIA (urinary calcium < 100 mg/day), which protects against nephrocalcinosis. Severe hypomagnesemia (due to downregulation of DCT TRPM6 magnesium channels) and late presentation in adolescence or adulthood further distinguish Gitelman from Bartter syndrome."
+      },
+      {
+        "text": "Epithelial sodium channel (ENaC) beta subunit in cortical principal cells",
+        "correct": false,
+        "explanation": "ENaC mutations cause Liddle syndrome (gain-of-function: hypertension, suppressed renin) or pseudohypoaldosteronism (loss-of-function: hyperkalemia)."
+      },
+      {
+        "text": "Urea transporter A1 (UTA1) in the inner medullary collecting duct",
+        "correct": false,
+        "explanation": "UTA1 mediates urea recycling driven by ADH; mutations impair concentrated urine formation without causing hypokalemic alkalosis."
+      },
+      {
+        "text": "Renal outer medullary potassium channel (ROMK) in the thick ascending limb",
+        "correct": false,
+        "explanation": "ROMK mutations cause antenatal Bartter syndrome type 2, characterized by neonatal polyhydramnios, hypercalciuria, and early nephrocalcinosis."
+      }
+    ],
+    "explanation": "Gitelman syndrome is an autosomal recessive tubulopathy caused by inactivating mutations in the SLC12A3 gene encoding the THIAZIDE-SENSITIVE Na+-Cl- COTRANSPORTER (NCCT) in the DISTAL CONVOLUTED TUBULE (DCT). It mimics the chronic administration of THIAZIDE DIURETICS. Loss of NCCT leads to mild volume depletion, activating the renin-angiotensin-aldosterone axis to cause HYPOKALEMIC METABOLIC ALKALOSIS. In the DCT, reduced intracellular Na+ enhances basolateral 3Na+/Ca2+ exchange, which hyperpolarizes the apical membrane and drives robust passive CALCIUM REABSORPTION through apical TRPV5 channels. Therefore, patients exhibit profound HYPOCALCIURIA (urinary calcium < 100 mg/day), which protects against nephrocalcinosis. Severe hypomagnesemia (due to downregulation of DCT TRPM6 magnesium channels) and late presentation in adolescence or adulthood further distinguish Gitelman from Bartter syndrome. Adult + hypokalemic metabolic alkalosis + normal BP + severe hypomagnesemia + HYPOCALCIURIA = Gitelman syndrome (NCCT in DCT).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Gitelman Syndrome Distal Convoluted Tubule NCCT Inactivation Hypocalciuria.",
+    "keyPoints": [
+      "Gitelman Syndrome Distal Convoluted Tubule NCCT Inactivation Hypocalciuria",
+      "Adult + hypokalemic metabolic alkalosis + normal BP + severe hypomagnesemia + HYPOCALCIURIA = Gitelman syndrome (NCCT in DCT)."
+    ],
+    "references": [
+      {
+        "label": "Simon DB. Gitelman's variant of Bartter's syndrome, inherited hypokalaemic alkalosis, is caused by mutations in the thiazide-sensitive Na-Cl cotransporter. Nat Genet. 1996 Jan. PMID: 8528245.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8528245/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0933",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Renal",
+    "topic": "Liddle Syndrome ENaC Gain-of-Function PY Motif Deletion Amiloride Efficacy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An 18-year-old man is found to have severe hypertension (blood pressure 178/104 mm Hg) during a pre-college sports physical. He has no family history of renal disease, but his mother and maternal uncle were diagnosed with severe hypertension in their early twenties. Laboratory evaluation reveals: serum sodium 144 mEq/L, potassium 2.6 mEq/L, chloride 96 mEq/L, and bicarbonate 33 mEq/L (hypokalemic metabolic alkalosis). Plasma renin activity is profoundly suppressed (< 0.2 ng/mL/h), and serum aldosterone is undetectable (< 1 ng/dL). Twenty-four-hour urinary free cortisol is normal. Administration of spironolactone produces no reduction in blood pressure, whereas administration of oral amiloride rapidly normalizes both blood pressure and serum potassium. Which of the following molecular mechanisms is responsible for this condition?",
+    "options": [
+      {
+        "text": "Activating missense mutation in the cytoplasmic mineralocorticoid receptor (MR)",
+        "correct": false,
+        "explanation": "Activating mutations in the mineralocorticoid receptor cause Geller syndrome (hypertension exacerbated by pregnancy/progesterone), not Liddle syndrome."
+      },
+      {
+        "text": "Chimeric gene duplication fusing the ACTH-responsive 11beta-hydroxylase promoter to aldosterone synthase",
+        "correct": false,
+        "explanation": "This genetic crossover causes glucocorticoid-remediable aldosteronism (GRA), which features HIGH aldosterone that suppresses with dexamethasone."
+      },
+      {
+        "text": "Deletion of the proline-rich (PY) motif in the cytoplasmic tail of ENaC subunits preventing Nedd4-2 ubiquitination",
+        "correct": true,
+        "explanation": "Liddle syndrome is an autosomal dominant form of monogenic pseudohyperaldosteronism. It is caused by GAIN-OF-FUNCTION MUTATIONS in the SCNN1B or SCNN1G genes encoding the beta or gamma subunits of the EPITHELIAL SODIUM CHANNEL (ENaC) in the cortical collecting tubule. The mutations truncate or delete the C-terminal cytoplasmic PROLINE-RICH (PY) MOTIF of ENaC. Under physiological conditions, the ubiquitin ligase Nedd4-2 binds to this PY motif and targets ENaC for internalization and proteasomal degradation. Deletion of the PY motif prevents Nedd4-2 binding, trapping constitutively active ENaC channels at the apical plasma membrane. Unregulated Na+ reabsorption drives severe volume expansion, producing HYPERTENSION with feedback SUPPRESSION OF BOTH RENIN AND ALDOSTERONE. Accelerated Na+ entry creates a lumen-negative potential, causing marked potassium and proton wasting (hypokalemic metabolic alkalosis). Because the defect is intrinsic to ENaC and independent of aldosterone, ALDOSTERONE ANTAGONISTS (spironolactone) ARE INEFFECTIVE, whereas DIRECT ENaC BLOCKERS (amiloride, triamterene) are curative."
+      },
+      {
+        "text": "Homozygous inactivating mutation in 11beta-hydroxysteroid dehydrogenase type 2 (11beta-HSD2)",
+        "correct": false,
+        "explanation": "Inactivation of 11beta-HSD2 causes apparent mineralocorticoid excess (AME), where cortisol activates MR; it responds to spironolactone, unlike Liddle syndrome."
+      },
+      {
+        "text": "Constitutive ligand-independent phosphorylation of the basolateral Na+/K+ ATPase alpha-1 subunit",
+        "correct": false,
+        "explanation": "Primary alterations in Na+/K+ ATPase activity do not account for monogenic amiloride-sensitive pseudohyperaldosteronism."
+      }
+    ],
+    "explanation": "Liddle syndrome is an autosomal dominant form of monogenic pseudohyperaldosteronism. It is caused by GAIN-OF-FUNCTION MUTATIONS in the SCNN1B or SCNN1G genes encoding the beta or gamma subunits of the EPITHELIAL SODIUM CHANNEL (ENaC) in the cortical collecting tubule. The mutations truncate or delete the C-terminal cytoplasmic PROLINE-RICH (PY) MOTIF of ENaC. Under physiological conditions, the ubiquitin ligase Nedd4-2 binds to this PY motif and targets ENaC for internalization and proteasomal degradation. Deletion of the PY motif prevents Nedd4-2 binding, trapping constitutively active ENaC channels at the apical plasma membrane. Unregulated Na+ reabsorption drives severe volume expansion, producing HYPERTENSION with feedback SUPPRESSION OF BOTH RENIN AND ALDOSTERONE. Accelerated Na+ entry creates a lumen-negative potential, causing marked potassium and proton wasting (hypokalemic metabolic alkalosis). Because the defect is intrinsic to ENaC and independent of aldosterone, ALDOSTERONE ANTAGONISTS (spironolactone) ARE INEFFECTIVE, whereas DIRECT ENaC BLOCKERS (amiloride, triamterene) are curative. Severe hypertension in young adult + low renin + low aldosterone + hypokalemic alkalosis + unresponsive to spironolactone / responsive to amiloride = Liddle syndrome (ENaC PY motif deletion).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Liddle Syndrome ENaC Gain-of-Function PY Motif Deletion Amiloride Efficacy.",
+    "keyPoints": [
+      "Liddle Syndrome ENaC Gain-of-Function PY Motif Deletion Amiloride Efficacy",
+      "Severe hypertension in young adult + low renin + low aldosterone + hypokalemic alkalosis + unresponsive to spironolactone / responsive to amiloride = Liddle syndrome (ENaC PY motif"
+    ],
+    "references": [
+      {
+        "label": "Shimkets RA. Liddle's syndrome: heritable human hypertension caused by mutations in the beta subunit of the epithelial sodium channel. Cell. 1994 Nov 4. PMID: 7954808.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7954808/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0934",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Endocrine",
+    "topic": "Apparent Mineralocorticoid Excess 11-Beta-HSD2 Deficiency Licorice Mechanism",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 32-year-old man presents with persistent headaches, muscle weakness, and new-onset severe hypertension (blood pressure 176/102 mm Hg). Laboratory testing reveals: serum potassium 2.4 mEq/L, bicarbonate 34 mEq/L (hypokalemic metabolic alkalosis), low plasma renin activity, and low serum aldosterone. Upon detailed questioning, he admits to consuming 3 bags of imported black licorice daily for the past 6 months. Cessation of licorice consumption leads to complete resolution of his hypertension and normalization of potassium and bicarbonate over 4 weeks. Active constituents in natural black licorice (glycyrrhetinic acid) produce this syndrome by inhibiting which of the following enzymes in aldosterone-sensitive target tissues?",
+    "options": [
+      {
+        "text": "11beta-hydroxylase (CYP11B1) in the adrenal zona fasciculata",
+        "correct": false,
+        "explanation": "Inhibition of 11beta-hydroxylase causes congenital adrenal hyperplasia with accumulation of 11-deoxycorticosterone, accompanied by virilization and androgen excess."
+      },
+      {
+        "text": "21alpha-hydroxylase (CYP21A2) in the adrenal cortex",
+        "correct": false,
+        "explanation": "21-hydroxylase deficiency causes virilization and salt-wasting hypotension with HYPERKALEMIA, the exact opposite of mineralocorticoid excess."
+      },
+      {
+        "text": "Aldosterone synthase (CYP11B2) in the adrenal zona glomerulosa",
+        "correct": false,
+        "explanation": "Aldosterone synthase inhibition blocks aldosterone production, resulting in salt wasting and hyperkalemia."
+      },
+      {
+        "text": "11beta-hydroxysteroid dehydrogenase type 2 (11beta-HSD2)",
+        "correct": true,
+        "explanation": "In the principal cells of the cortical collecting duct, the mineralocorticoid receptor (MR) has equal high-affinity binding for both aldosterone and CORTISOL. Because circulating free cortisol levels are 100 to 1,000 times higher than aldosterone, the cell requires an enzymatic 'gatekeeper' to prevent illicit receptor activation by glucocorticoids. Under normal conditions, the enzyme 11beta-HYDROXYSTEROID DEHYDROGENASE TYPE 2 (11beta-HSD2) rapidly converts active cortisol into inactive cortisone (which cannot bind MR). In SYNDROME OF APPARENT MINERALOCORTICOID EXCESS (AME) - caused by autosomal recessive 11beta-HSD2 deficiency or consumption of NATURAL BLACK LICORICE containing GLYCYRRHETINIC ACID - 11beta-HSD2 is completely inhibited. Unmetabolized cortisol floods and constitutively activates the mineralocorticoid receptor, leading to excessive ENaC sodium reabsorption, potassium/H+ wasting, severe HYPERTENSION, hypokalemic metabolic alkalosis, and feedback SUPPRESSION OF BOTH RENIN AND ALDOSTERONE."
+      },
+      {
+        "text": "Phenylethanolamine N-methyltransferase (PNMT) in the adrenal medulla",
+        "correct": false,
+        "explanation": "PNMT converts norepinephrine to epinephrine; its inhibition reduces catecholamine synthesis without inducing hypokalemic hypertension."
+      }
+    ],
+    "explanation": "In the principal cells of the cortical collecting duct, the mineralocorticoid receptor (MR) has equal high-affinity binding for both aldosterone and CORTISOL. Because circulating free cortisol levels are 100 to 1,000 times higher than aldosterone, the cell requires an enzymatic 'gatekeeper' to prevent illicit receptor activation by glucocorticoids. Under normal conditions, the enzyme 11beta-HYDROXYSTEROID DEHYDROGENASE TYPE 2 (11beta-HSD2) rapidly converts active cortisol into inactive cortisone (which cannot bind MR). In SYNDROME OF APPARENT MINERALOCORTICOID EXCESS (AME) - caused by autosomal recessive 11beta-HSD2 deficiency or consumption of NATURAL BLACK LICORICE containing GLYCYRRHETINIC ACID - 11beta-HSD2 is completely inhibited. Unmetabolized cortisol floods and constitutively activates the mineralocorticoid receptor, leading to excessive ENaC sodium reabsorption, potassium/H+ wasting, severe HYPERTENSION, hypokalemic metabolic alkalosis, and feedback SUPPRESSION OF BOTH RENIN AND ALDOSTERONE. Black licorice ingestion + hypertension + hypokalemic metabolic alkalosis + low renin/aldosterone = 11beta-HSD2 inhibition (cortisol activates mineralocorticoid receptor).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Apparent Mineralocorticoid Excess 11-Beta-HSD2 Deficiency Licorice Mechanism.",
+    "keyPoints": [
+      "Apparent Mineralocorticoid Excess 11-Beta-HSD2 Deficiency Licorice Mechanism",
+      "Black licorice ingestion + hypertension + hypokalemic metabolic alkalosis + low renin/aldosterone = 11beta-HSD2 inhibition (cortisol activates mineralocorticoid receptor)."
+    ],
+    "references": [
+      {
+        "label": "Hammer F. Cortisol metabolism in hypertension. Best Pract Res Clin Endocrinol Metab. 2006 Sep. PMID: 16980198.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16980198/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0935",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Prerenal Azotemia Fractional Excretion of Urea Versus Sodium Diuretics",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 72-year-old man with chronic systolic heart failure (LVEF 25%) managed with furosemide, lisinopril, and carvedilol is admitted with progressive lethargy and orthostatic lightheadedness following 3 days of poor oral intake. Blood pressure is 94/58 mm Hg supine and 78/46 mm Hg standing. Jugular veins are flat. Mucous membranes are dry. Laboratory studies reveal: BUN 56 mg/dL, serum creatinine 2.4 mg/dL (baseline 1.1 mg/dL; BUN/Cr ratio > 20:1), serum sodium 134 mEq/L, and potassium 4.8 mEq/L. Urinalysis reveals bland sediment with a few hyaline casts. Because the patient received his morning dose of furosemide, his fractional excretion of sodium (FeNa) is calculated to be 2.4% (deceptively suggesting acute tubular necrosis). Which of the following diagnostic parameters provides the most reliable confirmation of prerenal azotemia in patients actively receiving loop diuretics?",
+    "options": [
+      {
+        "text": "Urine sodium concentration exceeding 40 mEq/L",
+        "correct": false,
+        "explanation": "High urine sodium (> 40 mEq/L) is a direct consequence of loop diuretic-induced natriuresis and would misleadingly suggest ATN rather than prerenal azotemia."
+      },
+      {
+        "text": "Urine osmolality equal to plasma osmolality (~300 mOsm/kg H2O)",
+        "correct": false,
+        "explanation": "Isosthenuric urine (~300 mOsm/kg) indicates loss of medullary concentrating capacity characteristic of ATN, whereas prerenal azotemia maintains high urine osmolality (> 500 mOsm/kg)."
+      },
+      {
+        "text": "Appearance of muddy brown granular casts on urine microscopy",
+        "correct": false,
+        "explanation": "Muddy brown granular casts composed of sloughed necrotic tubular cells and Tamm-Horsfall protein are diagnostic of acute tubular necrosis (ATN)."
+      },
+      {
+        "text": "Urine-to-plasma creatinine ratio less than 20:1",
+        "correct": false,
+        "explanation": "A low urine-to-plasma creatinine ratio (< 20:1) reflects impaired water reabsorption in ATN; prerenal azotemia exhibits avid water reabsorption with U/P creatinine > 40:1."
+      },
+      {
+        "text": "Fractional excretion of urea (FeUrea) less than 35%",
+        "correct": true,
+        "explanation": "In oliguric or rising-creatinine states, the FRACTIONAL EXCRETION OF SODIUM (FeNa = [UNa * PCr] / [PNa * UCr] * 100) is classically < 1% in prerenal azotemia (due to avid proximal and collecting duct sodium reabsorption) and > 2% in intrinsic acute tubular necrosis (due to tubular epithelial injury). However, CONCURRENT LOOP OR THIAZIDE DIURETICS pharmacological block tubular sodium reabsorption, falsely elevating FeNa > 2% even in severe prerenal hypoperfusion. In this setting, the FRACTIONAL EXCRETION OF UREA (FeUrea = [UUrea * PCr] / [PUrea * UCr] * 100) is the preferred diagnostic test. Urea reabsorption occurs predominantly in the proximal tubule and inner medullary collecting duct, mediated by neurohumoral activation (angiotensin II and ADH) and passive concentration gradients INDEPENDENT OF SODIUM COTRANSPORTERS. A FeUrea < 35% reliably confirms PRERENAL AZOTEMIA even in the presence of active diuretic therapy."
+      }
+    ],
+    "explanation": "In oliguric or rising-creatinine states, the FRACTIONAL EXCRETION OF SODIUM (FeNa = [UNa * PCr] / [PNa * UCr] * 100) is classically < 1% in prerenal azotemia (due to avid proximal and collecting duct sodium reabsorption) and > 2% in intrinsic acute tubular necrosis (due to tubular epithelial injury). However, CONCURRENT LOOP OR THIAZIDE DIURETICS pharmacological block tubular sodium reabsorption, falsely elevating FeNa > 2% even in severe prerenal hypoperfusion. In this setting, the FRACTIONAL EXCRETION OF UREA (FeUrea = [UUrea * PCr] / [PUrea * UCr] * 100) is the preferred diagnostic test. Urea reabsorption occurs predominantly in the proximal tubule and inner medullary collecting duct, mediated by neurohumoral activation (angiotensin II and ADH) and passive concentration gradients INDEPENDENT OF SODIUM COTRANSPORTERS. A FeUrea < 35% reliably confirms PRERENAL AZOTEMIA even in the presence of active diuretic therapy. Heart failure + volume depletion + active loop diuretic = FeNa falsely elevated > 2%; Fractional excretion of urea (FeUrea) < 35% confirms prerenal azotemia.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Prerenal Azotemia Fractional Excretion of Urea Versus Sodium Diuretics.",
+    "keyPoints": [
+      "Prerenal Azotemia Fractional Excretion of Urea Versus Sodium Diuretics",
+      "Heart failure + volume depletion + active loop diuretic = FeNa falsely elevated > 2%; Fractional excretion of urea (FeUrea) < 35% confirms prerenal azotemia."
+    ],
+    "references": [
+      {
+        "label": "Carvounis CP, Nisar S, Guro-Razuman S. Significance of the fractional excretion of urea in the differential diagnosis of acute renal failure. Kidney Int. 2002;62(6):2223-2229. PMID: 12427149.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12427149/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0936",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Tubuloglomerular Feedback Macula Densa Adenosine Afferent Vasoconstriction",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A healthy 24-year-old medical student participates in a renal physiology experiment. Intravenous infusion of hypertonic sodium chloride increases the delivery of sodium and chloride to the early distal tubule. Specialized columnar epithelial cells located in the wall of the thick ascending limb of the loop of Henle at the junction with the afferent and efferent arterioles sense this increased chloride delivery via apical NKCC2 cotransporters. Intracellular ATP hydrolysis and extracellular conversion generate a paracrine signaling mediator that causes constriction of the adjacent afferent arteriole, thereby reducing the single-nephron glomerular filtration rate (tubuloglomerular feedback). Which of the following molecules acts as the primary paracrine mediator responsible for this afferent arteriolar constriction?",
+    "options": [
+      {
+        "text": "Adenosine acting on vascular smooth muscle A1 receptors",
+        "correct": true,
+        "explanation": "TUBULOGLOMERULAR FEEDBACK (TGF) is an intrinsic autoregulatory mechanism that stabilizes GFR and distal solute delivery. The MACULA DENSA is composed of specialized columnar epithelial cells in the thick ascending limb that abut the vascular pole of its originating glomerulus. When GFR or luminal flow increases, increased delivery of Na+ and Cl- to the macula densa accelerates uptake via apical NKCC2 cotransporters. Increased basolateral Na+/K+-ATPase activity consumes ATP, leading to the generation of intra- and extracellular ADENOSINE. Adenosine binds to G-protein-coupled ADENOSINE A1 RECEPTORS on adjacent vascular smooth muscle cells of the AFFERENT ARTERIOLE, increasing intracellular calcium and triggering potent AFFERENT ARTERIOLAR CONSTRICTION. This increases afferent arteriolar resistance, decreases glomerular capillary hydrostatic pressure (PGC), and returns single-nephron GFR to baseline."
+      },
+      {
+        "text": "Prostaglandin E2 (PGE2) acting on vascular EP4 receptors",
+        "correct": false,
+        "explanation": "PGE2 is a vasodilator of the afferent arteriole released during renal hypoperfusion to protect GFR; TGF uses adenosine to constrict the afferent arteriole."
+      },
+      {
+        "text": "Dopamine acting on vascular DA1 Gs-coupled receptors",
+        "correct": false,
+        "explanation": "Dopamine dilates renal afferent and efferent arterioles via DA1 receptors to increase renal blood flow, not mediate TGF vasoconstriction."
+      },
+      {
+        "text": "Nitric oxide (NO) synthesized by endothelial nitric oxide synthase (eNOS)",
+        "correct": false,
+        "explanation": "NO is a vasodilator produced to counter excessive TGF vasoconstriction; it does not mediate afferent constriction."
+      },
+      {
+        "text": "Bradykinin stimulating endothelial B2 receptor-mediated prostacyclin release",
+        "correct": false,
+        "explanation": "Bradykinin stimulates endothelial B2 receptors causing vasodilation via NO and prostacyclin, not vasoconstrictive tubuloglomerular feedback."
+      }
+    ],
+    "explanation": "TUBULOGLOMERULAR FEEDBACK (TGF) is an intrinsic autoregulatory mechanism that stabilizes GFR and distal solute delivery. The MACULA DENSA is composed of specialized columnar epithelial cells in the thick ascending limb that abut the vascular pole of its originating glomerulus. When GFR or luminal flow increases, increased delivery of Na+ and Cl- to the macula densa accelerates uptake via apical NKCC2 cotransporters. Increased basolateral Na+/K+-ATPase activity consumes ATP, leading to the generation of intra- and extracellular ADENOSINE. Adenosine binds to G-protein-coupled ADENOSINE A1 RECEPTORS on adjacent vascular smooth muscle cells of the AFFERENT ARTERIOLE, increasing intracellular calcium and triggering potent AFFERENT ARTERIOLAR CONSTRICTION. This increases afferent arteriolar resistance, decreases glomerular capillary hydrostatic pressure (PGC), and returns single-nephron GFR to baseline. Increased distal NaCl delivery sensed by macula densa NKCC2 -> Adenosine release -> Afferent arteriole constriction (A1 receptors) -> Decreased GFR (Tubuloglomerular feedback).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Tubuloglomerular Feedback Macula Densa Adenosine Afferent Vasoconstriction.",
+    "keyPoints": [
+      "Tubuloglomerular Feedback Macula Densa Adenosine Afferent Vasoconstriction",
+      "Increased distal NaCl delivery sensed by macula densa NKCC2 -> Adenosine release -> Afferent arteriole constriction (A1 receptors) -> Decreased GFR (Tubuloglomerular feedback)."
+    ],
+    "references": [
+      {
+        "label": "Schnermann J. Juxtaglomerular cell complex in the regulation of renal salt excretion. Am J Physiol. 1998 Feb. PMID: 9486281.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9486281/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0937",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Angiotensin II Efferent Arteriolar Constriction Filtration Fraction",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old man with severe bilateral renal artery stenosis experiences acute gastroenteritis with severe dehydration. His blood pressure drops to 90/60 mm Hg, resulting in a marked reduction in renal perfusion pressure. Systemic baroreceptors and the juxtaglomerular apparatus activate the renin-angiotensin-aldosterone system, leading to high circulating concentrations of angiotensin II. Angiotensin II acts selectively on the renal microvasculature to preserve glomerular filtration rate (GFR) despite the severe reduction in renal blood flow (RBF). Which of the following combinations of arteriolar resistance changes and resultant effect on the filtration fraction (FF) occurs under the influence of angiotensin II in this patient?",
+    "options": [
+      {
+        "text": "Preferential constriction of the afferent arteriole, leading to a decreased filtration fraction",
+        "correct": false,
+        "explanation": "Afferent constriction reduces glomerular capillary hydrostatic pressure, precipitating acute drops in both GFR and filtration fraction."
+      },
+      {
+        "text": "Preferential constriction of the efferent arteriole, leading to an increased filtration fraction",
+        "correct": true,
+        "explanation": "Under conditions of renal hypoperfusion (e.g., bilateral renal artery stenosis, hypovolemia, congestive heart failure), ANGIOTENSIN II plays a vital compensatory role in maintaining GFR. Angiotensin II binds to AT1 receptors, exerting PREFERENTIAL CONSTRICTION ON THE EFFERENT ARTERIOLE (due to higher basal efferent tone and greater AT1 receptor density). Efferent constriction increases post-glomerular resistance, thereby ELEVATING GLOMERULAR CAPILLARY HYDROSTATIC PRESSURE (PGC) and buffering against the drop in GFR. Because renal blood flow (RBF) is significantly reduced by vasoconstriction while GFR is relatively preserved, the FILTRATION FRACTION (FF = GFR / RBF) INCREASES MARKEDLY. Administration of an ACE inhibitor or ARB blocks this efferent constriction, precipitating an acute collapse in PGC and acute kidney injury."
+      },
+      {
+        "text": "Equal dilation of both afferent and efferent arterioles, leading to an unchanged filtration fraction",
+        "correct": false,
+        "explanation": "Equal vasodilation would increase RBF without selectively raising glomerular pressure; angiotensin II is a vasoconstrictor, not a vasodilator."
+      },
+      {
+        "text": "Selective relaxation of the efferent arteriole, leading to a marked decrease in filtration fraction",
+        "correct": false,
+        "explanation": "Efferent relaxation (as caused by ACE inhibitors) lowers PGC and drops the filtration fraction, the opposite of angiotensin II."
+      },
+      {
+        "text": "Preferential constriction of medullary vasa recta, leading to isolated cortical hyperfiltration",
+        "correct": false,
+        "explanation": "Angiotensin II acts predominantly on cortical glomeruli; isolated vasa recta constriction does not explain glomerular autoregulation."
+      }
+    ],
+    "explanation": "Under conditions of renal hypoperfusion (e.g., bilateral renal artery stenosis, hypovolemia, congestive heart failure), ANGIOTENSIN II plays a vital compensatory role in maintaining GFR. Angiotensin II binds to AT1 receptors, exerting PREFERENTIAL CONSTRICTION ON THE EFFERENT ARTERIOLE (due to higher basal efferent tone and greater AT1 receptor density). Efferent constriction increases post-glomerular resistance, thereby ELEVATING GLOMERULAR CAPILLARY HYDROSTATIC PRESSURE (PGC) and buffering against the drop in GFR. Because renal blood flow (RBF) is significantly reduced by vasoconstriction while GFR is relatively preserved, the FILTRATION FRACTION (FF = GFR / RBF) INCREASES MARKEDLY. Administration of an ACE inhibitor or ARB blocks this efferent constriction, precipitating an acute collapse in PGC and acute kidney injury. Renal hypoperfusion -> Angiotensin II selectively constricts EFFERENT arteriole -> Preserves PGC and GFR -> Decreases RBF -> Increases Filtration Fraction (FF = GFR / RBF).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Angiotensin II Efferent Arteriolar Constriction Filtration Fraction.",
+    "keyPoints": [
+      "Angiotensin II Efferent Arteriolar Constriction Filtration Fraction",
+      "Renal hypoperfusion -> Angiotensin II selectively constricts EFFERENT arteriole -> Preserves PGC and GFR -> Decreases RBF -> Increases Filtration Fraction (FF = GFR / RBF)."
+    ],
+    "references": [
+      {
+        "label": "Li XC. Genetic deletion of AT1a receptors attenuates intracellular accumulation of ANG II in the kidney of AT1a receptor-deficient mice. Am J Physiol Renal Physiol. 2007 Aug. PMID: 17537986.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17537986/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0938",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Prostaglandin-Mediated Afferent Arteriolar Vasodilation NSAID AKI",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old woman with chronic kidney disease (baseline creatinine 1.4 mg/dL) and mild congestive heart failure takes enalapril and furosemide daily. Over the past week, she developed severe bilateral knee pain from osteoarthritis and self-prescribed high-dose over-the-counter ibuprofen (800 mg three times daily). She presents with oliguria, progressive nausea, and peripheral edema. Laboratory evaluation shows serum creatinine acutely elevated to 3.8 mg/dL and BUN 62 mg/dL. Renal ultrasonography shows normal kidney size with no hydronephrosis. Which of the following hemodynamic actions on the renal microvasculature was acutely blocked by ibuprofen, precipitating this patient's acute renal failure?",
+    "options": [
+      {
+        "text": "Bradykinin-dependent relaxation of the efferent arteriole",
+        "correct": false,
+        "explanation": "Bradykinin dilates vessels via NO and prostaglandins, but the crucial protective glomerular mechanism blocked by NSAIDs is afferent arteriolar vasodilation."
+      },
+      {
+        "text": "Endothelin-1-mediated constriction of the peritubular capillary plexus",
+        "correct": false,
+        "explanation": "Endothelin is a vasoconstrictor; blocking its constriction would improve perfusion, not cause acute renal failure."
+      },
+      {
+        "text": "Prostaglandin-dependent dilation of the afferent arteriole",
+        "correct": true,
+        "explanation": "In states of decreased effective circulating arterial volume (such as congestive heart failure, cirrhosis, or volume depletion), high systemic levels of angiotensin II, norepinephrine, and vasopressin stimulate the intrarenal synthesis of VASODILATORY PROSTAGLANDINS (PGE2 and PGI2) via cyclooxygenase (COX-1 and COX-2). These prostaglandins act locally to DILATE THE AFFERENT ARTERIOLE, counterbalancing the intense vasoconstrictor signals and preserving renal blood flow and glomerular capillary hydrostatic pressure (PGC). NONSTEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDs, such as ibuprofen) non-selectively inhibit COX enzymes, blocking prostaglandin synthesis. Without prostaglandin-mediated afferent dilation, unchecked afferent arteriolar constriction occurs, causing an acute drop in PGC and GFR. When combined with an ACE inhibitor (which blocks angiotensin II efferent constriction) and a diuretic ('TRIPLE WHAMMY'), acute prerenal kidney injury is precipitated."
+      },
+      {
+        "text": "Dopamine DA1-mediated stimulation of renin release from juxtaglomerular cells",
+        "correct": false,
+        "explanation": "Dopamine stimulates renin release via DA1, but NSAID nephrotoxicity is mediated by inhibition of prostaglandin synthesis, not dopamine antagonism."
+      },
+      {
+        "text": "Atrial natriuretic peptide (ANP)-induced relaxation of mesangial cells",
+        "correct": false,
+        "explanation": "ANP increases GFR by dilating afferent and constricting efferent arterioles; NSAIDs do not inhibit ANP receptor signaling."
+      }
+    ],
+    "explanation": "In states of decreased effective circulating arterial volume (such as congestive heart failure, cirrhosis, or volume depletion), high systemic levels of angiotensin II, norepinephrine, and vasopressin stimulate the intrarenal synthesis of VASODILATORY PROSTAGLANDINS (PGE2 and PGI2) via cyclooxygenase (COX-1 and COX-2). These prostaglandins act locally to DILATE THE AFFERENT ARTERIOLE, counterbalancing the intense vasoconstrictor signals and preserving renal blood flow and glomerular capillary hydrostatic pressure (PGC). NONSTEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDs, such as ibuprofen) non-selectively inhibit COX enzymes, blocking prostaglandin synthesis. Without prostaglandin-mediated afferent dilation, unchecked afferent arteriolar constriction occurs, causing an acute drop in PGC and GFR. When combined with an ACE inhibitor (which blocks angiotensin II efferent constriction) and a diuretic ('TRIPLE WHAMMY'), acute prerenal kidney injury is precipitated. Heart failure + ACE inhibitor + NSAID (ibuprofen) = Blunted prostaglandin synthesis -> Loss of AFFERENT arteriole vasodilation -> Acute renal failure ('Triple Whammy').",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Prostaglandin-Mediated Afferent Arteriolar Vasodilation NSAID AKI.",
+    "keyPoints": [
+      "Prostaglandin-Mediated Afferent Arteriolar Vasodilation NSAID AKI",
+      "Heart failure + ACE inhibitor + NSAID (ibuprofen) = Blunted prostaglandin synthesis -> Loss of AFFERENT arteriole vasodilation -> Acute renal failure ('Triple Whammy')."
+    ],
+    "references": [
+      {
+        "label": "Clive DM. Renal syndromes associated with nonsteroidal antiinflammatory drugs. N Engl J Med. 1984 Mar 1. PMID: 6363936.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6363936/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0939",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Free Water Clearance Calculation Central Versus Nephrogenic Diabetes Insipidus",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man presents with persistent excessive thirst and passing large volumes of pale urine (6 L/day). He has had no head trauma. Blood pressure is 120/80 mm Hg. A water deprivation test is initiated. After 8 hours of fluid restriction, laboratory measurements reveal: serum sodium 148 mEq/L, plasma osmolality 305 mOsm/kg H2O, urine osmolality 150 mOsm/kg H2O, and urine flow rate 5 mL/min. Following subcutaneous administration of desmopressin (dDAVP), his urine osmolality rises dramatically to 540 mOsm/kg H2O and urine flow rate falls to 1.2 mL/min. What was the baseline status of the patient's free water clearance (CH2O) prior to desmopressin administration?",
+    "options": [
+      {
+        "text": "Negative free water clearance (-3.8 mL/min), indicating water conservation due to inappropriate vasopressin secretion",
+        "correct": false,
+        "explanation": "Negative free water clearance (CH2O < 0, or TcH2O > 0) occurs when Uosm > Posm, indicating concentrated urine and water retention (e.g., SIADH), not dilute polyuria."
+      },
+      {
+        "text": "Zero free water clearance (0.0 mL/min), indicating isosthenuric excretion secondary to end-stage tubular damage",
+        "correct": false,
+        "explanation": "Zero free water clearance occurs when Uosm equals Posm (isosthenuria); here Uosm (150) is half of Posm (305)."
+      },
+      {
+        "text": "Markedly negative free water clearance (-1.2 mL/min), indicating impaired medullary countercurrent multiplication",
+        "correct": false,
+        "explanation": "Negative free water clearance implies urine is more concentrated than plasma; here the urine is dilute with positive free water excretion."
+      },
+      {
+        "text": "Positive free water clearance (+2.54 mL/min), indicating generation of solute-free water due to central ADH deficiency",
+        "correct": true,
+        "explanation": "Free water clearance (CH2O) quantifies the rate at which solute-free water is excreted by the kidneys. It is calculated as: CH2O = V - Cosm, where V is urine flow rate, and Cosm is osmolar clearance (Cosm = [Uosm * V] / Posm). Prior to desmopressin: V = 5 mL/min, Uosm = 150 mOsm/kg, and Posm = 305 mOsm/kg. Cosm = (150 * 5) / 305 = 750 / 305 = 2.46 mL/min. Therefore, CH2O = 5 - 2.46 = +2.54 mL/min. A POSITIVE FREE WATER CLEARANCE indicates that the kidney is excreting dilute urine (Uosm < Posm) and losing free water from the body, driving hypernatremia. The dramatic >50% rise in urine osmolality (from 150 to 540 mOsm/kg) in response to desmopressin confirms CENTRAL DIABETES INSIPIDUS (neurohypophyseal vasopressin deficiency), whereas nephrogenic DI shows minimal or no response to dDAVP."
+      },
+      {
+        "text": "Positive free water clearance (+5.0 mL/min), indicating complete absence of solute filtration at the glomerulus",
+        "correct": false,
+        "explanation": "Total urine flow V is 5 mL/min; because Cosm is 2.46 mL/min, free water clearance is +2.54 mL/min, not the entire urine volume."
+      }
+    ],
+    "explanation": "Free water clearance (CH2O) quantifies the rate at which solute-free water is excreted by the kidneys. It is calculated as: CH2O = V - Cosm, where V is urine flow rate, and Cosm is osmolar clearance (Cosm = [Uosm * V] / Posm). Prior to desmopressin: V = 5 mL/min, Uosm = 150 mOsm/kg, and Posm = 305 mOsm/kg. Cosm = (150 * 5) / 305 = 750 / 305 = 2.46 mL/min. Therefore, CH2O = 5 - 2.46 = +2.54 mL/min. A POSITIVE FREE WATER CLEARANCE indicates that the kidney is excreting dilute urine (Uosm < Posm) and losing free water from the body, driving hypernatremia. The dramatic >50% rise in urine osmolality (from 150 to 540 mOsm/kg) in response to desmopressin confirms CENTRAL DIABETES INSIPIDUS (neurohypophyseal vasopressin deficiency), whereas nephrogenic DI shows minimal or no response to dDAVP. Uosm 150 < Posm 305 = Dilute urine; CH2O = V - (Uosm*V/Posm) = 5 - 2.46 = +2.54 mL/min. Desmopressin increases Uosm > 50% = Central Diabetes Insipidus.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Free Water Clearance Calculation Central Versus Nephrogenic Diabetes Insipidus.",
+    "keyPoints": [
+      "Free Water Clearance Calculation Central Versus Nephrogenic Diabetes Insipidus",
+      "Uosm 150 < Posm 305 = Dilute urine; CH2O = V - (Uosm*V/Posm) = 5 - 2.46 = +2.54 mL/min. Desmopressin increases Uosm > 50% = Central Diabetes Insipidus."
+    ],
+    "references": [
+      {
+        "label": "Robertson GL. Differential diagnosis of familial diabetes insipidus. Handb Clin Neurol. 2021. PMID: 34238460.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34238460/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0940",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Medullary Hyperosmolality Countercurrent Multiplication Urea Transporter UT-A1",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old man is stranded in the desert without water for 36 hours. Under the influence of maximal circulating arginine vasopressin (ADH), his kidneys produce highly concentrated urine with an osmolality of 1,200 mOsm/kg H2O. Generating this maximal medullary interstitial osmotic gradient (~1,200 mOsm/kg at the hairpin tip of the loop of Henle) depends critically on countercurrent multiplication and the recycling of a specific organic solute that accounts for approximately 50% of the total medullary interstitial hyperosmolality. Which of the following transport mechanisms in the inner medullary collecting duct is directly stimulated by ADH to facilitate this solute accumulation?",
+    "options": [
+      {
+        "text": "Activation of the basolateral sodium-potassium-2-chloride cotransporter (NKCC1) in pericytes",
+        "correct": false,
+        "explanation": "NKCC1 is a secretory cotransporter in exocrine glands and vascular smooth muscle, not the ADH-stimulated urea transporter in the collecting duct."
+      },
+      {
+        "text": "Direct endocytosis of the Na+/H+ exchanger NHE3 to prevent medullary proton accumulation",
+        "correct": false,
+        "explanation": "NHE3 is located in the proximal tubule and thick ascending limb; its endocytosis decreases sodium reabsorption, having no role in medullary urea recycling."
+      },
+      {
+        "text": "Downregulation of aquaporin-3 and aquaporin-4 water channels in the outer medullary collecting duct",
+        "correct": false,
+        "explanation": "ADH upregulates aquaporin-2 on the apical membrane, while aquaporin-3 and -4 are constitutively basolateral; ADH never downregulates water channels during dehydration."
+      },
+      {
+        "text": "Upregulation of the neutral amino acid transporter B0AT1 in the medullary loop of Henle",
+        "correct": false,
+        "explanation": "B0AT1 (SLC6A19) mediates neutral amino acid reabsorption in the proximal tubule (defective in Hartnup disease), not urea transport in the inner medulla."
+      },
+      {
+        "text": "Phosphorylation and apical membrane insertion of urea transporter UT-A1 via cyclic AMP/PKA signaling",
+        "correct": true,
+        "explanation": "The renal medullary osmotic gradient (increasing from 300 mOsm/kg at the corticomedullary junction to 1,200 mOsm/kg at the papilla) is essential for urinary concentration. Approximately 50% of this hyperosmolality is generated by NaCl reabsorption in the thick ascending limb, but the remaining ~50% IS DERIVED FROM UREA RECYCLING. In the inner medullary collecting duct (IMCD), vasopressin binds to V2 receptors, activating the Gs-adenylyl cyclase-cAMP-PKA pathway. PKA directly phosphorylates UREA TRANSPORTER A1 (UT-A1 on the apical membrane) and UT-A3 (on the basolateral membrane), dramatically increasing urea permeability. Concentrated urea in the collecting duct fluid diffuses rapidly down its concentration gradient into the inner medullary interstitium, boosting medullary hyperosmolality. This hyperosmotic interstitium then extracts water from the thin descending limb of Henle and facilitates NaCl reabsorption from the thin ascending limb."
+      }
+    ],
+    "explanation": "The renal medullary osmotic gradient (increasing from 300 mOsm/kg at the corticomedullary junction to 1,200 mOsm/kg at the papilla) is essential for urinary concentration. Approximately 50% of this hyperosmolality is generated by NaCl reabsorption in the thick ascending limb, but the remaining ~50% IS DERIVED FROM UREA RECYCLING. In the inner medullary collecting duct (IMCD), vasopressin binds to V2 receptors, activating the Gs-adenylyl cyclase-cAMP-PKA pathway. PKA directly phosphorylates UREA TRANSPORTER A1 (UT-A1 on the apical membrane) and UT-A3 (on the basolateral membrane), dramatically increasing urea permeability. Concentrated urea in the collecting duct fluid diffuses rapidly down its concentration gradient into the inner medullary interstitium, boosting medullary hyperosmolality. This hyperosmotic interstitium then extracts water from the thin descending limb of Henle and facilitates NaCl reabsorption from the thin ascending limb. Maximal urine concentration (1,200 mOsm/kg) requires medullary urea accumulation (~50% of gradient); ADH stimulates apical urea transporter UT-A1 in IMCD.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Medullary Hyperosmolality Countercurrent Multiplication Urea Transporter UT-A1.",
+    "keyPoints": [
+      "Medullary Hyperosmolality Countercurrent Multiplication Urea Transporter UT-A1",
+      "Maximal urine concentration (1,200 mOsm/kg) requires medullary urea accumulation (~50% of gradient); ADH stimulates apical urea transporter UT-A1 in IMCD."
+    ],
+    "references": [
+      {
+        "label": "Li N. Tissue Distribution, Expression and Regulation of Urea Transporters. Subcell Biochem. 2025. PMID: 40637976.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40637976/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0941",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Renal",
+    "topic": "Parathyroid Hormone Proximal Tubule NaPi-IIa Internalization Phosphaturia",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old woman presents with fatigue, constipation, recurrent kidney stones, and bone pain. Laboratory evaluation reveals: serum calcium 11.8 mg/dL (elevated), serum intact parathyroid hormone (PTH) 142 pg/mL (markedly elevated; normal 10-65), serum phosphate 2.1 mg/dL (low; normal 2.5-4.5), and alkaline phosphatase 160 U/L. Twenty-four-hour urine collection reveals marked phosphaturia (fractional excretion of phosphate > 20%). Which of the following molecular events in proximal convoluted tubule epithelial cells directly mediates the phosphaturic effect of parathyroid hormone?",
+    "options": [
+      {
+        "text": "Internalization and lysosomal degradation of apical sodium-phosphate cotransporters (NaPi-IIa and NaPi-IIc)",
+        "correct": true,
+        "explanation": "Parathyroid hormone (PTH) regulates mineral homeostasis by: (1) Increasing bone resorption; (2) Stimulating renal 1alpha-hydroxylase to synthesize active 1,25-(OH)2-vitamin D; (3) Increasing distal tubule calcium reabsorption via TRPV5; and (4) Promoting PROXIMAL TUBULAR PHOSPHATURIA ('phosphate-trashing hormone'). In the proximal convoluted tubule (where 80-85% of filtered phosphate is normally reabsorbed), PTH binds to G-protein-coupled PTH1 receptors (activating both PKA and PKC pathways). This triggers the rapid retrieval, ENDOCYTOSIS, AND LYSOSOMAL DEGRADATION of the apical sodium-phosphate cotransporters NaPi-IIa (SLC34A1) and NaPi-IIc (SLC34A3). Removal of these cotransporters prevents apical phosphate uptake, leading to robust urinary phosphate excretion, hypophosphatemia, and elevated urinary cyclic AMP."
+      },
+      {
+        "text": "Upregulation and apical membrane insertion of the electrogenic sodium-bicarbonate cotransporter NBCe1",
+        "correct": false,
+        "explanation": "NBCe1 is a basolateral transporter mediating bicarbonate exit into blood, not an apical phosphate transporter."
+      },
+      {
+        "text": "Selective phosphorylation and functional activation of the brush border enzyme alkaline phosphatase",
+        "correct": false,
+        "explanation": "Alkaline phosphatase hydrolyzes organic phosphates in bone and liver; it does not transport inorganic phosphate across renal tubular membranes."
+      },
+      {
+        "text": "Allosteric activation of proximal tubule organic anion transporters OAT1 and OAT3",
+        "correct": false,
+        "explanation": "OAT1 and OAT3 mediate secretion of endogenous anions and drugs (e.g., penicillins), having no role in inorganic phosphate reabsorption."
+      },
+      {
+        "text": "Inhibition of basolateral calcium-sensing receptor (CaSR) Gq-coupled phospholipase C activity",
+        "correct": false,
+        "explanation": "CaSR is activated by calcium in the thick ascending limb and parathyroid glands; PTH phosphaturia is mediated by proximal PTH1R-driven NaPi-IIa endocytosis."
+      }
+    ],
+    "explanation": "Parathyroid hormone (PTH) regulates mineral homeostasis by: (1) Increasing bone resorption; (2) Stimulating renal 1alpha-hydroxylase to synthesize active 1,25-(OH)2-vitamin D; (3) Increasing distal tubule calcium reabsorption via TRPV5; and (4) Promoting PROXIMAL TUBULAR PHOSPHATURIA ('phosphate-trashing hormone'). In the proximal convoluted tubule (where 80-85% of filtered phosphate is normally reabsorbed), PTH binds to G-protein-coupled PTH1 receptors (activating both PKA and PKC pathways). This triggers the rapid retrieval, ENDOCYTOSIS, AND LYSOSOMAL DEGRADATION of the apical sodium-phosphate cotransporters NaPi-IIa (SLC34A1) and NaPi-IIc (SLC34A3). Removal of these cotransporters prevents apical phosphate uptake, leading to robust urinary phosphate excretion, hypophosphatemia, and elevated urinary cyclic AMP. Primary hyperparathyroidism = Hypercalcemia + Hypophosphatemia; PTH induces endocytosis and degradation of proximal apical NaPi-IIa/NaPi-IIc cotransporters.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Parathyroid Hormone Proximal Tubule NaPi-IIa Internalization Phosphaturia.",
+    "keyPoints": [
+      "Parathyroid Hormone Proximal Tubule NaPi-IIa Internalization Phosphaturia",
+      "Primary hyperparathyroidism = Hypercalcemia + Hypophosphatemia; PTH induces endocytosis and degradation of proximal apical NaPi-IIa/NaPi-IIc cotransporters."
+    ],
+    "references": [
+      {
+        "label": "Biber J, Hernando N, Forster I. Phosphate transporters and their function. Annu Rev Physiol. 2013;75:535-550. PMID: 23398154.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23398154/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0942",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Acetazolamide Carbonic Anhydrase Inhibition Bicarbonate Diuresis High Altitude",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old mountaineer plans an expedition to summit Mount Kilimanjaro (elevation 5,895 meters). To prevent acute mountain sickness (headache, nausea, insomnia, dizziness), his travel medicine physician prescribes oral acetazolamide to be started 24 hours prior to ascent. At high altitude, hypobaric hypoxia triggers peripheral chemoreceptor stimulation, resulting in hyperventilation. Hyperventilation blows off carbon dioxide, causing a respiratory alkalosis that suppresses central chemoreceptors and limits further compensatory hyperventilation. Which of the following renal actions of acetazolamide counteracts this respiratory alkalosis, accelerating acclimatization and maintaining hyperventilation?",
+    "options": [
+      {
+        "text": "Selective blockade of the medullary collecting duct urea transporter UT-A1, increasing medullary blood flow",
+        "correct": false,
+        "explanation": "Acetazolamide acts on proximal tubule carbonic anhydrase, having no inhibitory effect on collecting duct urea transporters."
+      },
+      {
+        "text": "Inhibition of brush border and cytoplasmic carbonic anhydrase, causing urinary bicarbonate wasting and mild metabolic acidosis",
+        "correct": true,
+        "explanation": "At high altitude, hypoxemia stimulates hyperventilation, which drives down PaCO2 and induces a RESPIRATORY ALKALOSIS. Alkalemia exerts negative feedback on the medullary respiratory center, blunting ventilation and worsening hypoxemia (especially during sleep, causing periodic Cheyne-Stokes breathing). ACETAZOLAMIDE is a reversible inhibitor of both apical brush border carbonic anhydrase IV and intracellular cytoplasmic carbonic anhydrase II in proximal tubule cells. Inhibition prevents the dehydration of luminal H2CO3 into CO2 and H2O, blocking bicarbonate reabsorption and generating robust URINARY BICARBONATE WASTING (alkaline urine, pH > 7.0). The resulting MILD SYSTEMIC HYPERCHLOREMIC METABOLIC ACIDOSIS lowers blood and CSF pH, stimulating central and peripheral chemoreceptors to sustain hyperventilation, raise PaO2, and accelerate acclimatization."
+      },
+      {
+        "text": "Antagonism of the proximal tubule apical sodium-glucose cotransporter SGLT2, inducing osmotic diuresis",
+        "correct": false,
+        "explanation": "SGLT2 inhibitors (e.g., empagliflozin) block glucose reabsorption; acetazolamide is a carbonic anhydrase inhibitor."
+      },
+      {
+        "text": "Direct stimulation of the medullary alpha-intercalated cell H+/K+-ATPase, promoting systemic alkalinization",
+        "correct": false,
+        "explanation": "Acetazolamide causes metabolic acidosis by wasting bicarbonate, not alkalinization, and does not stimulate H+/K+-ATPase pumps."
+      },
+      {
+        "text": "Blockade of thick ascending limb NKCC2 cotransporters, causing profound free water retention",
+        "correct": false,
+        "explanation": "NKCC2 is blocked by loop diuretics (e.g., furosemide), not acetazolamide, and causes free water loss rather than retention."
+      }
+    ],
+    "explanation": "At high altitude, hypoxemia stimulates hyperventilation, which drives down PaCO2 and induces a RESPIRATORY ALKALOSIS. Alkalemia exerts negative feedback on the medullary respiratory center, blunting ventilation and worsening hypoxemia (especially during sleep, causing periodic Cheyne-Stokes breathing). ACETAZOLAMIDE is a reversible inhibitor of both apical brush border carbonic anhydrase IV and intracellular cytoplasmic carbonic anhydrase II in proximal tubule cells. Inhibition prevents the dehydration of luminal H2CO3 into CO2 and H2O, blocking bicarbonate reabsorption and generating robust URINARY BICARBONATE WASTING (alkaline urine, pH > 7.0). The resulting MILD SYSTEMIC HYPERCHLOREMIC METABOLIC ACIDOSIS lowers blood and CSF pH, stimulating central and peripheral chemoreceptors to sustain hyperventilation, raise PaO2, and accelerate acclimatization. High altitude hyperventilation causes respiratory alkalosis; Acetazolamide inhibits proximal carbonic anhydrase -> Bicarbonaturia -> Mild metabolic acidosis -> Restores ventilatory drive.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acetazolamide Carbonic Anhydrase Inhibition Bicarbonate Diuresis High Altitude.",
+    "keyPoints": [
+      "Acetazolamide Carbonic Anhydrase Inhibition Bicarbonate Diuresis High Altitude",
+      "High altitude hyperventilation causes respiratory alkalosis; Acetazolamide inhibits proximal carbonic anhydrase -> Bicarbonaturia -> Mild metabolic acidosis -> Restores ventilatory"
+    ],
+    "references": [
+      {
+        "label": "Leaf DE. Mechanisms of action of acetazolamide in the prophylaxis and treatment of acute mountain sickness. J Appl Physiol (1985). 2007 Apr. PMID: 17023566.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17023566/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0943",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Loop Diuretics Furosemide Paracellular Divalent Cation Calcium Wasting",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old woman with severe symptomatic hypercalcemia of malignancy secondary to widely metastatic breast cancer (serum calcium 14.6 mg/dL) is admitted to the intensive care unit. Following aggressive volume resuscitation with intravenous isotonic saline (4 liters over 24 hours), the inpatient team administers intravenous furosemide to accelerate renal calcium clearance. Which of the following biophysical mechanisms explains why loop diuretics promote urinary calcium excretion, whereas thiazide diuretics promote renal calcium retention?",
+    "options": [
+      {
+        "text": "Direct competitive antagonism of the apical calcium entry channel TRPV5 in the distal convoluted tubule",
+        "correct": false,
+        "explanation": "TRPV5 is located in the distal convoluted tubule; loop diuretics act on NKCC2 in the thick ascending limb."
+      },
+      {
+        "text": "Inhibition of the basolateral sodium-calcium exchanger (NCX1) in the proximal convoluted tubule",
+        "correct": false,
+        "explanation": "Proximal tubule calcium reabsorption is mostly passive and paracellular; loop diuretics do not inhibit basolateral NCX1."
+      },
+      {
+        "text": "Abolition of the lumen-positive transepithelial potential in the thick ascending limb, eliminating the electrical driving force for paracellular calcium reabsorption",
+        "correct": true,
+        "explanation": "In the THICK ASCENDING LIMB (TAL) of the loop of Henle, apical NKCC2 cotransports Na+, K+, and 2Cl- into the cell. Absorbed potassium is continuously recycled back into the tubular lumen via apical ROMK channels, while chloride exits basolaterally via ClC-Kb channels. This selective apical potassium back-leak generates a LUMEN-POSITIVE TRANSEPITHELIAL POTENTIAL (+8 to +10 mV). This positive charge provides the essential electrical driving force that repels positively charged divalent cations (Ca2+ and Mg2+), forcing them across paracellular claudin-16/19 tight junctions into peritubular capillaries (reabsorbing 25-30% of filtered calcium). FUROSEMIDE blocks NKCC2, preventing potassium entry and subsequent apical back-leak. Abolition of the lumen-positive potential eliminates paracellular calcium reabsorption, resulting in ROBUST CALCIURIA ('loops lose calcium'). In contrast, THIAZIDES act in the DCT, where reduced intracellular Na+ enhances basolateral 3Na+/Ca2+ exchange and stimulates active transcellular calcium uptake ('thiazides take calcium')."
+      },
+      {
+        "text": "Stimulation of parathyroid hormone receptor downregulation in the cortical collecting duct",
+        "correct": false,
+        "explanation": "Loop diuretics do not downregulate PTH receptors; hypocalcemia induced by loop diuretics actually stimulates compensatory PTH release."
+      },
+      {
+        "text": "Cleavage of the tight junction claudin-16 protein by filtered loop diuretic molecules",
+        "correct": false,
+        "explanation": "Furosemide does not enzymatically cleave claudins; it abolishes the electrical gradient across claudin tight junctions."
+      }
+    ],
+    "explanation": "In the THICK ASCENDING LIMB (TAL) of the loop of Henle, apical NKCC2 cotransports Na+, K+, and 2Cl- into the cell. Absorbed potassium is continuously recycled back into the tubular lumen via apical ROMK channels, while chloride exits basolaterally via ClC-Kb channels. This selective apical potassium back-leak generates a LUMEN-POSITIVE TRANSEPITHELIAL POTENTIAL (+8 to +10 mV). This positive charge provides the essential electrical driving force that repels positively charged divalent cations (Ca2+ and Mg2+), forcing them across paracellular claudin-16/19 tight junctions into peritubular capillaries (reabsorbing 25-30% of filtered calcium). FUROSEMIDE blocks NKCC2, preventing potassium entry and subsequent apical back-leak. Abolition of the lumen-positive potential eliminates paracellular calcium reabsorption, resulting in ROBUST CALCIURIA ('loops lose calcium'). In contrast, THIAZIDES act in the DCT, where reduced intracellular Na+ enhances basolateral 3Na+/Ca2+ exchange and stimulates active transcellular calcium uptake ('thiazides take calcium'). Loops lose calcium: Furosemide blocks NKCC2 -> Abolishes ROMK lumen-positive potential (+8 mV) -> Eliminates driving force for paracellular Ca2+/Mg2+ reabsorption.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Loop Diuretics Furosemide Paracellular Divalent Cation Calcium Wasting.",
+    "keyPoints": [
+      "Loop Diuretics Furosemide Paracellular Divalent Cation Calcium Wasting",
+      "Loops lose calcium: Furosemide blocks NKCC2 -> Abolishes ROMK lumen-positive potential (+8 mV) -> Eliminates driving force for paracellular Ca2+/Mg2+ reabsorption."
+    ],
+    "references": [
+      {
+        "label": "Ndumele CE. 2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guid... PMID: 42265997.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42265997/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0944",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Thiazide Diuretics Distal Tubule Calcium Reabsorption Enhancement",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old postmenopausal woman with primary hypertension and recurrent calcium oxalate kidney stones (nephrolithiasis) is evaluated in the clinic. A 24-hour urine collection reveals persistent idiopathic hypercalciuria (340 mg/day; normal < 200 mg/day). Her physician decides to replace her current amlodipine with hydrochlorothiazide to simultaneously treat her hypertension and prevent future stone formation. Within 6 weeks, her 24-hour urinary calcium drops to 120 mg/day, and repeat bone mineral density testing at 1 year shows stabilization of lumbar spine T-scores. By which of the following cellular mechanisms do thiazide diuretics enhance renal calcium reabsorption?",
+    "options": [
+      {
+        "text": "Direct agonism of the calcium-sensing receptor (CaSR) in the thick ascending limb of Henle",
+        "correct": false,
+        "explanation": "CaSR activation inhibits NKCC2 and increases calcium excretion, the opposite of the hypocalciuric effect of thiazides."
+      },
+      {
+        "text": "Inhibition of proximal tubule apical NaPi-IIa cotransporters, trapping calcium in peritubular capillaries",
+        "correct": false,
+        "explanation": "NaPi-IIa reabsorbs phosphate, not calcium; inhibiting it causes phosphaturia without directly altering DCT calcium transport."
+      },
+      {
+        "text": "Downregulation of the basolateral plasma membrane Ca2+-ATPase (PMCA1b) in principal cells",
+        "correct": false,
+        "explanation": "PMCA1b pumps calcium out of DCT cells into the interstitium; downregulating it would decrease calcium reabsorption."
+      },
+      {
+        "text": "Inhibition of apical NCCT lowers intracellular sodium, driving basolateral 3Na+/Ca2+ exchange and apical TRPV5 calcium influx",
+        "correct": true,
+        "explanation": "THIAZIDE DIURETICS (hydrochlorothiazide, chlorthalidone) block the Na+-Cl- cotransporter (NCCT) in the DISTAL CONVOLUTED TUBULE (DCT). Unlike loop diuretics (which cause calciuria), THIAZIDES ENHANCE CALCIUM REABSORPTION ('thiazides take calcium') through two distinct mechanisms: (1) DIRECT DCT CELLULAR MECHANISM: Blockade of NCCT reduces intracellular sodium concentration. This steepens the electrochemical gradient for sodium entry across the basolateral membrane via the 3Na+/Ca2+ EXCHANGER (NCX1), accelerating calcium export into the peritubular capillary. The resulting fall in intracellular calcium hyperpolarizes the apical membrane, dramatically stimulating calcium entry through apical TRPV5 CHANNELS. (2) INDIRECT PROXIMAL MECHANISM: Mild volume contraction induced by thiazides stimulates proximal tubule sodium and passive paracellular calcium reabsorption. Consequently, thiazides reduce urinary calcium excretion, making them the treatment of choice for IDIOPATHIC HYPERCALCIURIA and recurrent calcium stones."
+      },
+      {
+        "text": "Selective stimulation of collecting duct V2 receptors inducing transcellular calcium-water cotransport",
+        "correct": false,
+        "explanation": "V2 receptors mediate aquaporin-2 water reabsorption, having no transport capability for calcium."
+      }
+    ],
+    "explanation": "THIAZIDE DIURETICS (hydrochlorothiazide, chlorthalidone) block the Na+-Cl- cotransporter (NCCT) in the DISTAL CONVOLUTED TUBULE (DCT). Unlike loop diuretics (which cause calciuria), THIAZIDES ENHANCE CALCIUM REABSORPTION ('thiazides take calcium') through two distinct mechanisms: (1) DIRECT DCT CELLULAR MECHANISM: Blockade of NCCT reduces intracellular sodium concentration. This steepens the electrochemical gradient for sodium entry across the basolateral membrane via the 3Na+/Ca2+ EXCHANGER (NCX1), accelerating calcium export into the peritubular capillary. The resulting fall in intracellular calcium hyperpolarizes the apical membrane, dramatically stimulating calcium entry through apical TRPV5 CHANNELS. (2) INDIRECT PROXIMAL MECHANISM: Mild volume contraction induced by thiazides stimulates proximal tubule sodium and passive paracellular calcium reabsorption. Consequently, thiazides reduce urinary calcium excretion, making them the treatment of choice for IDIOPATHIC HYPERCALCIURIA and recurrent calcium stones. Thiazides take calcium: NCCT blockade in DCT -> Lowers intracellular Na+ -> Drives basolateral Na+/Ca2+ exchange -> Stimulates apical TRPV5 calcium uptake.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Thiazide Diuretics Distal Tubule Calcium Reabsorption Enhancement.",
+    "keyPoints": [
+      "Thiazide Diuretics Distal Tubule Calcium Reabsorption Enhancement",
+      "Thiazides take calcium: NCCT blockade in DCT -> Lowers intracellular Na+ -> Drives basolateral Na+/Ca2+ exchange -> Stimulates apical TRPV5 calcium uptake."
+    ],
+    "references": [
+      {
+        "label": "Reilly RF, Peixoto AJ, Desir GV. The evidence-based use of thiazide diuretics in hypertension and nephrolithiasis. Clin J Am Soc Nephrol. 2010 Oct;5(10):1893-1903. PMID: 20798254.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20798254/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0945",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Potassium-Sparing Diuretics Amiloride ENaC Blockade Lumen-Negative Potential",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 58-year-old man with cirrhosis and ascites develops painful gynecomastia while taking spironolactone. His hepatologist switches his diuretic regimen to oral amiloride combined with furosemide. Amiloride acts on the principal cells of the late distal tubule and cortical collecting duct to produce mild natriuresis while preventing potassium wasting (potassium-sparing effect). Which of the following electrical and transport changes across the collecting duct epithelium directly accounts for the potassium-sparing action of amiloride?",
+    "options": [
+      {
+        "text": "Competitive antagonism of cytoplasmic mineralocorticoid receptors preventing aldosterone translocation",
+        "correct": false,
+        "explanation": "Spironolactone and eplerenone are mineralocorticoid receptor antagonists; amiloride is a direct pore blocker of ENaC channels."
+      },
+      {
+        "text": "Direct inhibition of the basolateral Na+/K+ ATPase pump in medullary collecting duct intercalated cells",
+        "correct": false,
+        "explanation": "Inhibiting Na+/K+ ATPase throughout the collecting duct would abolish all cellular transport gradients; amiloride acts selectively on apical ENaC."
+      },
+      {
+        "text": "Allosteric activation of apical H+/K+-ATPase antiporters in cortical beta-intercalated cells",
+        "correct": false,
+        "explanation": "Beta-intercalated cells secrete bicarbonate and absorb acid/potassium via pendrin and H+/K+-ATPase, not the primary site of amiloride action."
+      },
+      {
+        "text": "Stimulation of basolateral K+/Cl- cotransporters (KCC4) in the outer medullary collecting tubule",
+        "correct": false,
+        "explanation": "KCC4 is basolateral in alpha-intercalated cells; amiloride acts on apical ENaC in principal cells."
+      },
+      {
+        "text": "Direct blockade of apical ENaC channels abolishes the lumen-negative transepithelial potential, eliminating the electrical gradient for potassium excretion",
+        "correct": true,
+        "explanation": "In the principal cells of the cortical collecting duct, sodium reabsorption occurs through the apical EPITHELIAL SODIUM CHANNEL (ENaC). Reabsorption of positively charged Na+ ions without an accompanying anion leaves a transient negative charge in the tubular lumen, creating a LUMEN-NEGATIVE TRANSEPITHELIAL POTENTIAL (-15 to -30 mV). This lumen-negative potential serves as the primary electrical driving force that pulls positively charged POTASSIUM IONS (K+) out of principal cells via apical ROMK and BK channels, and pulls PROTONS (H+) out of alpha-intercalated cells via H+-ATPase. AMILORIDE and TRIAMTERENE directly block apical ENaC channels. Blocking sodium influx ABOLISHES THE LUMEN-NEGATIVE TRANSEPITHELIAL POTENTIAL. Without this negative electrical gradient, potassium and proton secretion are markedly blunted, producing the classic POTASSIUM-SPARING and acid-retaining effect."
+      }
+    ],
+    "explanation": "In the principal cells of the cortical collecting duct, sodium reabsorption occurs through the apical EPITHELIAL SODIUM CHANNEL (ENaC). Reabsorption of positively charged Na+ ions without an accompanying anion leaves a transient negative charge in the tubular lumen, creating a LUMEN-NEGATIVE TRANSEPITHELIAL POTENTIAL (-15 to -30 mV). This lumen-negative potential serves as the primary electrical driving force that pulls positively charged POTASSIUM IONS (K+) out of principal cells via apical ROMK and BK channels, and pulls PROTONS (H+) out of alpha-intercalated cells via H+-ATPase. AMILORIDE and TRIAMTERENE directly block apical ENaC channels. Blocking sodium influx ABOLISHES THE LUMEN-NEGATIVE TRANSEPITHELIAL POTENTIAL. Without this negative electrical gradient, potassium and proton secretion are markedly blunted, producing the classic POTASSIUM-SPARING and acid-retaining effect. Amiloride blocks apical ENaC in principal cells -> Abolishes lumen-negative potential (-30 mV) -> Eliminates electrical force pulling K+ out via ROMK = Potassium-sparing.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Potassium-Sparing Diuretics Amiloride ENaC Blockade Lumen-Negative Potential.",
+    "keyPoints": [
+      "Potassium-Sparing Diuretics Amiloride ENaC Blockade Lumen-Negative Potential",
+      "Amiloride blocks apical ENaC in principal cells -> Abolishes lumen-negative potential (-30 mV) -> Eliminates electrical force pulling K+ out via ROMK = Potassium-sparing."
+    ],
+    "references": [
+      {
+        "label": "Palmer LG. Unsolved problems with ENaC: From molecules to mammals. J Gen Physiol. 2027 Jan 4. PMID: 42980615.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42980615/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0946",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Osmotic Diuretics Mannitol Proximal Tubule Water Extraction ICP",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 32-year-old unrestrained driver sustains severe traumatic brain injury in a high-speed motor vehicle collision. In the trauma resuscitation bay, his Glasgow Coma Scale score is 6, and his right pupil becomes fixed and dilated (8 mm). An emergent non-contrast head CT demonstrates an acute right epidural hematoma with 12 mm of midline shift and impending uncal herniation. The neurotrauma team administers an intravenous bolus of 20% mannitol while preparing the operating room for emergent craniotomy. Which of the following nephron segments is the primary site where filtered mannitol exerts its osmotic diuretic effect?",
+    "options": [
+      {
+        "text": "Proximal convoluted tubule and the thin descending limb of the loop of Henle",
+        "correct": true,
+        "explanation": "MANNITOL is a non-reabsorbable, pharmacologically inert hexose carbohydrate that is freely filtered at the glomerulus. (1) SYSTEMIC MECHANISM: Because it does not cross the intact blood-brain barrier, intravenous mannitol rapidly increases plasma osmolality, drawing free water from the cerebral parenchymal intracellular and interstitial spaces into the vascular compartment, thereby acutely REDUCING INTRACRANIAL PRESSURE (ICP) and brain edema. (2) RENAL MECHANISM: Once filtered into Bowman's space, mannitol cannot be reabsorbed by tubular transport proteins. It exerts a potent intraluminal osmotic force that opposes water reabsorption, acting predominantly in water-permeable nephron segments: the PROXIMAL CONVOLUTED TUBULE (which reabsorbs ~65% of filtered water) and the THIN DESCENDING LIMB OF THE LOOP OF HENLE. Luminal water retention dilutes luminal sodium, diminishing the gradient for sodium reabsorption and resulting in marked osmotic water diuresis. Major adverse effects include pulmonary edema (from acute intravascular volume expansion) and dehydration/hypernatremia."
+      },
+      {
+        "text": "Thick ascending limb of Henle and the macula densa",
+        "correct": false,
+        "explanation": "The thick ascending limb is water-impermeable and reabsorbs electrolytes via active NKCC2 transport, targeted by loop diuretics, not mannitol."
+      },
+      {
+        "text": "Early distal convoluted tubule and connecting tubule",
+        "correct": false,
+        "explanation": "The distal convoluted tubule is water-impermeable and reabsorbs sodium/chloride via NCCT, targeted by thiazide diuretics."
+      },
+      {
+        "text": "Cortical collecting duct principal cells and inner medullary collecting duct",
+        "correct": false,
+        "explanation": "Collecting duct water permeability is governed by ADH-regulated aquaporin-2 channels, not the bulk osmotic action of filtered mannitol."
+      },
+      {
+        "text": "Mesangial vascular spaces and glomerular basement membrane podocytes",
+        "correct": false,
+        "explanation": "Mannitol is freely filtered across the glomerular filtration barrier and exerts its diuretic action within the tubular lumen, not within podocytes."
+      }
+    ],
+    "explanation": "MANNITOL is a non-reabsorbable, pharmacologically inert hexose carbohydrate that is freely filtered at the glomerulus. (1) SYSTEMIC MECHANISM: Because it does not cross the intact blood-brain barrier, intravenous mannitol rapidly increases plasma osmolality, drawing free water from the cerebral parenchymal intracellular and interstitial spaces into the vascular compartment, thereby acutely REDUCING INTRACRANIAL PRESSURE (ICP) and brain edema. (2) RENAL MECHANISM: Once filtered into Bowman's space, mannitol cannot be reabsorbed by tubular transport proteins. It exerts a potent intraluminal osmotic force that opposes water reabsorption, acting predominantly in water-permeable nephron segments: the PROXIMAL CONVOLUTED TUBULE (which reabsorbs ~65% of filtered water) and the THIN DESCENDING LIMB OF THE LOOP OF HENLE. Luminal water retention dilutes luminal sodium, diminishing the gradient for sodium reabsorption and resulting in marked osmotic water diuresis. Major adverse effects include pulmonary edema (from acute intravascular volume expansion) and dehydration/hypernatremia. Mannitol increases plasma osmolality (reduces cerebral edema) + filtered in glomerulus and non-reabsorbed -> Retains water in PROXIMAL TUBULE and THIN DESCENDING LIMB.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Osmotic Diuretics Mannitol Proximal Tubule Water Extraction ICP.",
+    "keyPoints": [
+      "Osmotic Diuretics Mannitol Proximal Tubule Water Extraction ICP",
+      "Mannitol increases plasma osmolality (reduces cerebral edema) + filtered in glomerulus and non-reabsorbed -> Retains water in PROXIMAL TUBULE and THIN DESCENDING LIMB."
+    ],
+    "references": [
+      {
+        "label": "Dorman HR. Mannitol-induced acute renal failure. Medicine (Baltimore). 1990 May. PMID: 2111870.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2111870/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0947",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Minimal Change Disease Glomerular Polyfacial Charge Selective Barrier Loss",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 4-year-old boy presents with progressive swelling of his face, eyelids, and lower extremities following an upper respiratory viral illness. Physical examination shows 3+ pitting edema to the mid-thighs and abdominal ascites. Blood pressure is 96/60 mm Hg. Urinalysis demonstrates 4+ protein, negative blood, and no red blood cells or casts. Twenty-four-hour urine protein is 4.8 g/day, serum albumin is 1.8 g/dL, and total cholesterol is 360 mg/dL. Urine protein electrophoresis (UPEP) reveals that > 90% of the excreted protein is albumin, with virtually no high-molecular-weight immunoglobulins (highly selective proteinuria). Renal biopsy on light microscopy reveals completely normal glomeruli, and immunofluorescence is negative for immune complexes. Which of the following alterations in the glomerular filtration barrier directly accounts for this highly selective albuminuria?",
+    "options": [
+      {
+        "text": "Disruption of type IV collagen alpha-3/4/5 chains causing irregular thinning and basket-weave lamellation",
+        "correct": false,
+        "explanation": "Type IV collagen gene mutations (COL4A3/4/5) cause Alport syndrome, presenting with hematuria, sensorineural hearing loss, and non-selective proteinuria."
+      },
+      {
+        "text": "Loss of negative polyanionic charges (heparan sulfate proteoglycans) due to cytokine-mediated podocyte foot process effacement",
+        "correct": true,
+        "explanation": "The GLOMERULAR FILTRATION BARRIER consists of three layers: (1) Fenestrated capillary endothelium; (2) Glomerular basement membrane (GBM); and (3) Visceral epithelial cell (podocyte) foot processes with slit diaphragms. Permeability is governed by SIZE SELECTIVITY (molecules > 4 nm are restricted) and CHARGE SELECTIVITY. The GBM and podocyte glycocalyx are richly coated with negatively charged POLYANIONS, predominantly HEPARAN SULFATE PROTEOGLYCANS and sialoglycoproteins. Because serum ALBUMIN has a net negative charge at physiological pH, it is electrostatically REPELLED by the negative barrier despite its relatively small radius (3.6 nm). MINIMAL CHANGE DISEASE (the most common cause of nephrotic syndrome in children) is caused by systemic T-cell dysfunction producing cytokines that cause diffuse PODOCYTE FOOT PROCESS EFFACEMENT and LOSS OF THE NEGATIVE POLYANIONIC CHARGE BARRIER. Without electrostatic repulsion, negatively charged albumin readily leaks across the filter, producing SELECTIVE ALBUMINURIA."
+      },
+      {
+        "text": "Subepithelial immune complex deposition causing 'spike-and-dome' basement membrane expansion",
+        "correct": false,
+        "explanation": "Subepithelial immune deposits with spikes occur in membranous nephropathy, causing non-selective proteinuria in adults."
+      },
+      {
+        "text": "Subendothelial deposition of anti-GBM antibodies targeting the non-collagenous domain of collagen IV",
+        "correct": false,
+        "explanation": "Anti-GBM antibodies cause Goodpasture disease, presenting with rapidly progressive glomerulonephritis and crescent formation, not selective nephrotic proteinuria."
+      },
+      {
+        "text": "Mutations in nephrin (NPHS1) or podocin (NPHS2) abolishing mechanical slit diaphragm filtration",
+        "correct": false,
+        "explanation": "Nephrin and podocin mutations cause congenital nephrotic syndrome and steroid-resistant FSGS with non-selective proteinuria, not classic minimal change disease."
+      }
+    ],
+    "explanation": "The GLOMERULAR FILTRATION BARRIER consists of three layers: (1) Fenestrated capillary endothelium; (2) Glomerular basement membrane (GBM); and (3) Visceral epithelial cell (podocyte) foot processes with slit diaphragms. Permeability is governed by SIZE SELECTIVITY (molecules > 4 nm are restricted) and CHARGE SELECTIVITY. The GBM and podocyte glycocalyx are richly coated with negatively charged POLYANIONS, predominantly HEPARAN SULFATE PROTEOGLYCANS and sialoglycoproteins. Because serum ALBUMIN has a net negative charge at physiological pH, it is electrostatically REPELLED by the negative barrier despite its relatively small radius (3.6 nm). MINIMAL CHANGE DISEASE (the most common cause of nephrotic syndrome in children) is caused by systemic T-cell dysfunction producing cytokines that cause diffuse PODOCYTE FOOT PROCESS EFFACEMENT and LOSS OF THE NEGATIVE POLYANIONIC CHARGE BARRIER. Without electrostatic repulsion, negatively charged albumin readily leaks across the filter, producing SELECTIVE ALBUMINURIA. Child + nephrotic syndrome + normal light microscopy + selective albuminuria = Minimal change disease (loss of negative heparan sulfate charge barrier).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Minimal Change Disease Glomerular Polyfacial Charge Selective Barrier Loss.",
+    "keyPoints": [
+      "Minimal Change Disease Glomerular Polyfacial Charge Selective Barrier Loss",
+      "Child + nephrotic syndrome + normal light microscopy + selective albuminuria = Minimal change disease (loss of negative heparan sulfate charge barrier)."
+    ],
+    "references": [
+      {
+        "label": "Ueno T. Aberrant Notch1-dependent effects on glomerular parietal epithelial cells promotes collapsing focal segmental glomerulosclerosis with progressive podocyte loss. Kidney Int. 2013 Jun. PMID: 23447065.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23447065/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0948",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Metabolic Alkalosis Urinary Chloride Saline-Responsive Versus Resistant",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old woman with a history of bulimia nervosa presents with extreme lethargy, muscle weakness, and cardiac palpitations. Physical examination reveals poor skin turgor, dry oral mucosa, and flat neck veins. Blood pressure is 92/56 mm Hg, and heart rate is 104/min. Arterial blood gas on room air shows: pH 7.54, PaCO2 48 mm Hg, and bicarbonate 40 mEq/L. Serum electrolytes reveal: sodium 138 mEq/L, potassium 2.4 mEq/L, and chloride 82 mEq/L (hypokalemic hypochloremic metabolic alkalosis). A spot urinary chloride concentration is measured at 8 mEq/L (markedly low). Which of the following pathophysiological mechanisms maintains this metabolic alkalosis, and why will intravenous 0.9% normal saline infusion correct it?",
+    "options": [
+      {
+        "text": "Primary hyperaldosteronism with volume expansion that requires potassium chloride infusion exclusively",
+        "correct": false,
+        "explanation": "Primary aldosteronism is saline-RESISTANT with urine Cl- > 20 mEq/L and hypertension, whereas vomiting causes hypotension and urine Cl- < 20 mEq/L."
+      },
+      {
+        "text": "Inactivating mutation of the thick ascending limb NKCC2 cotransporter refractory to volume expansion",
+        "correct": false,
+        "explanation": "Bartter syndrome (NKCC2 mutation) features urine Cl- > 20 mEq/L (saline-resistant), whereas this patient's low urine chloride (< 20) confirms extrarenal loss."
+      },
+      {
+        "text": "Volume and chloride depletion stimulate renin/aldosterone and impair pendrin HCO3- secretion; saline restores ECF and chloride delivery",
+        "correct": true,
+        "explanation": "Metabolic alkalosis requires an INITIATING FACTOR (loss of H+ or gain of HCO3-) and a MAINTENANCE FACTOR (renal retention of HCO3-). Maintenance is categorized by URINARY CHLORIDE into saline-responsive vs saline-resistant: (1) SALINE-RESPONSIVE ALKALOSIS (Urine Cl- < 20 mEq/L): Caused by vomiting, nasogastric suction, or prior diuretic use. Loss of gastric HCl causes volume and chloride depletion. Hypovolemia activates the renin-angiotensin-aldosterone system, promoting distal Na+ reabsorption and secondary H+/K+ excretion. Furthermore, hypochloremia deprives the apical Cl-/HCO3- exchanger (PENDRIN in beta-intercalated cells) of luminal chloride, preventing compensatory bicarbonate secretion. Administering ISOTONIC NORMAL SALINE (0.9% NaCl) restores effective circulating volume (shutting off aldosterone) and delivers chloride to pendrin, allowing robust urinary bicarbonate excretion and rapid correction of the alkalosis."
+      },
+      {
+        "text": "Excessive cortisol activation of the mineralocorticoid receptor producing autonomous salt retention",
+        "correct": false,
+        "explanation": "Cortisol-induced alkalosis (Cushing or licorice) is saline-resistant with high urinary chloride and hypertension, not hypovolemic with low urine chloride."
+      },
+      {
+        "text": "Renal phosphate wasting preventing the generation of titratable acid in medullary collecting tubules",
+        "correct": false,
+        "explanation": "Metabolic alkalosis is maintained by chloride depletion and aldosterone, not renal phosphate wasting."
+      }
+    ],
+    "explanation": "Metabolic alkalosis requires an INITIATING FACTOR (loss of H+ or gain of HCO3-) and a MAINTENANCE FACTOR (renal retention of HCO3-). Maintenance is categorized by URINARY CHLORIDE into saline-responsive vs saline-resistant: (1) SALINE-RESPONSIVE ALKALOSIS (Urine Cl- < 20 mEq/L): Caused by vomiting, nasogastric suction, or prior diuretic use. Loss of gastric HCl causes volume and chloride depletion. Hypovolemia activates the renin-angiotensin-aldosterone system, promoting distal Na+ reabsorption and secondary H+/K+ excretion. Furthermore, hypochloremia deprives the apical Cl-/HCO3- exchanger (PENDRIN in beta-intercalated cells) of luminal chloride, preventing compensatory bicarbonate secretion. Administering ISOTONIC NORMAL SALINE (0.9% NaCl) restores effective circulating volume (shutting off aldosterone) and delivers chloride to pendrin, allowing robust urinary bicarbonate excretion and rapid correction of the alkalosis. Vomiting + hypokalemic metabolic alkalosis + Urine Cl- < 20 mEq/L = Saline-responsive alkalosis; volume/chloride depletion impairs pendrin HCO3- secretion.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Metabolic Alkalosis Urinary Chloride Saline-Responsive Versus Resistant.",
+    "keyPoints": [
+      "Metabolic Alkalosis Urinary Chloride Saline-Responsive Versus Resistant",
+      "Vomiting + hypokalemic metabolic alkalosis + Urine Cl- < 20 mEq/L = Saline-responsive alkalosis; volume/chloride depletion impairs pendrin HCO3- secretion."
+    ],
+    "references": [
+      {
+        "label": "Galla JH. Metabolic alkalosis. J Am Soc Nephrol. 2000;11(2):369-375. PMID: 10665945.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10665945/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0949",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Renal",
+    "topic": "Ethylene Glycol Intoxication Alcohol Dehydrogenase Glycolic Acid Calcium Oxalate",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 42-year-old man is found unresponsive in an abandoned parking lot next to an empty container of automotive antifreeze. In the emergency department, he is deeply comatose and tachypneic. Arterial blood gas demonstrates: pH 7.08, PaCO2 18 mm Hg, and bicarbonate 5 mEq/L. Serum chemistry reveals: sodium 140 mEq/L, potassium 5.6 mEq/L, chloride 95 mEq/L, and BUN 42 mg/dL. The calculated serum anion gap is 40 mEq/L, and measured serum osmolality is 380 mOsm/kg H2O (calculated osmolality 295 mOsm/kg; osmolar gap 85 mOsm/kg). Urinalysis examined under polarized light microscopy demonstrates abundant envelope-shaped and needle-shaped birefringent crystals. The toxic metabolite directly responsible for the severe metabolic acidosis and acute tubular necrosis in this patient is produced by which of the following enzymatic pathways?",
+    "options": [
+      {
+        "text": "Metabolism of methanol to formic acid via catalase and formaldehyde dehydrogenase",
+        "correct": false,
+        "explanation": "Methanol metabolism produces formaldehyde and formic acid, causing retinal toxicity (blindness) and 'snowstorm' visual changes, not calcium oxalate crystals."
+      },
+      {
+        "text": "Hydrolysis of diethylene glycol into diglycolic acid by cytochrome P450 CYP2E1",
+        "correct": false,
+        "explanation": "Diethylene glycol causes renal failure and neuropathy, but antifreeze poisoning with envelope oxalate crystals is classic for ethylene glycol."
+      },
+      {
+        "text": "Conversion of isopropyl alcohol to acetone via hepatic alcohol dehydrogenase",
+        "correct": false,
+        "explanation": "Isopropyl alcohol is metabolized to acetone, producing an elevated osmolar gap and ketonemia WITHOUT metabolic acidosis or oxalate crystals."
+      },
+      {
+        "text": "Sequential oxidation of ethylene glycol to glycolic acid and oxalic acid via alcohol dehydrogenase",
+        "correct": true,
+        "explanation": "ETHYLENE GLYCOL is a common component of automotive antifreeze. Ingestion produces a classic triad: (1) High anion gap metabolic acidosis; (2) High osmolar gap (> 10 mOsm/kg); and (3) Acute kidney injury with CALCIUM OXALATE CRYSTALLURIA. Ethylene glycol itself is non-toxic but is metabolized in the liver: (1) ALCOHOL DEHYDROGENASE (ADH) converts ethylene glycol to glycoaldehyde; (2) Aldehyde dehydrogenase converts glycoaldehyde to GLYCOLIC ACID. Glycolic acid is the primary toxic metabolite responsible for the PROFOUND METABOLIC ACIDOSIS and systemic cellular toxicity; (3) Glycolic acid is subsequently oxidized to glyoxylic acid and finally OXALIC ACID. Oxalic acid precipitates with serum calcium to form insoluble CALCIUM OXALATE MONOHYDRATE (needle-shaped) and DIHYDRATE (envelope-shaped) crystals in the renal tubular lumen, causing acute tubular necrosis and hypocalcemia. Treatment involves FOMEPIZOLE (a competitive inhibitor of alcohol dehydrogenase) or hemodialysis."
+      },
+      {
+        "text": "Degradation of propylene glycol into D-lactic acid and pyruvate via lactate dehydrogenase",
+        "correct": false,
+        "explanation": "Propylene glycol (IV drug diluent) causes D-lactic acidosis, not calcium oxalate crystal-induced acute kidney injury."
+      }
+    ],
+    "explanation": "ETHYLENE GLYCOL is a common component of automotive antifreeze. Ingestion produces a classic triad: (1) High anion gap metabolic acidosis; (2) High osmolar gap (> 10 mOsm/kg); and (3) Acute kidney injury with CALCIUM OXALATE CRYSTALLURIA. Ethylene glycol itself is non-toxic but is metabolized in the liver: (1) ALCOHOL DEHYDROGENASE (ADH) converts ethylene glycol to glycoaldehyde; (2) Aldehyde dehydrogenase converts glycoaldehyde to GLYCOLIC ACID. Glycolic acid is the primary toxic metabolite responsible for the PROFOUND METABOLIC ACIDOSIS and systemic cellular toxicity; (3) Glycolic acid is subsequently oxidized to glyoxylic acid and finally OXALIC ACID. Oxalic acid precipitates with serum calcium to form insoluble CALCIUM OXALATE MONOHYDRATE (needle-shaped) and DIHYDRATE (envelope-shaped) crystals in the renal tubular lumen, causing acute tubular necrosis and hypocalcemia. Treatment involves FOMEPIZOLE (a competitive inhibitor of alcohol dehydrogenase) or hemodialysis. Antifreeze ingestion + AG 40 + osmolar gap 85 + envelope-shaped crystals = Ethylene glycol metabolized by alcohol dehydrogenase to glycolic and oxalic acid.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Ethylene Glycol Intoxication Alcohol Dehydrogenase Glycolic Acid Calcium Oxalate.",
+    "keyPoints": [
+      "Ethylene Glycol Intoxication Alcohol Dehydrogenase Glycolic Acid Calcium Oxalate",
+      "Antifreeze ingestion + AG 40 + osmolar gap 85 + envelope-shaped crystals = Ethylene glycol metabolized by alcohol dehydrogenase to glycolic and oxalic acid."
+    ],
+    "references": [
+      {
+        "label": "McMartin K. Antidotes for poisoning by alcohols that form toxic metabolites. Br J Clin Pharmacol. 2025 Mar. PMID: 39234820.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39234820/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0950",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Renal",
+    "topic": "Uric Acid Nephrolithiasis Low Urinary pH Insoluble Undissociated Crystallization",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old man with chronic gouty arthritis and metabolic syndrome presents with sudden-onset, severe, colicky right flank pain radiating to his groin, accompanied by microscopic hematuria. A non-contrast helical CT scan of the abdomen and pelvis confirms a 5-mm calculus lodged at the right ureterovesical junction. However, a plain abdominal radiograph (KUB) taken earlier showed completely normal findings with no visible radiopaque stone. Urinalysis demonstrates a urine pH of 4.8, with rhomboid, diamond-shaped, radiolucent crystals. Which of the following physiochemical factors is the single most important determinant promoting the crystallization of this calculus in the renal tubules?",
+    "options": [
+      {
+        "text": "Hyperexcretion of urinary citrate resulting in loss of natural calcium-oxalate chelators",
+        "correct": false,
+        "explanation": "Hypocitraturia promotes calcium oxalate stones, not uric acid stones; uric acid stone prevention actually uses potassium citrate to alkalinize urine."
+      },
+      {
+        "text": "Alkaline urinary pH (pH > 7.0) promoting the precipitation of calcium phosphate",
+        "correct": false,
+        "explanation": "Alkaline urine promotes calcium phosphate and struvite stones; uric acid is highly soluble in alkaline urine and precipitates only in acidic urine."
+      },
+      {
+        "text": "Infection of the collecting system by urease-producing Proteus mirabilis bacteria",
+        "correct": false,
+        "explanation": "Urease-producing bacteria split urea into ammonia, raising urine pH > 8.0 and precipitating magnesium ammonium phosphate (struvite) stones."
+      },
+      {
+        "text": "Genetic deletion of the proximal tubular organic anion transporter URAT1 (SLC22A12)",
+        "correct": false,
+        "explanation": "Inactivation of URAT1 causes hereditary renal hypouricemia with massive uricosuria, not acidic uric acid nephrolithiasis."
+      },
+      {
+        "text": "Persistently acidic urinary pH (pH < 5.5) favoring the insoluble undissociated form of uric acid",
+        "correct": true,
+        "explanation": "URIC ACID NEPHROLITHIASIS accounts for ~10% of kidney stones and is strongly associated with gout, metabolic syndrome, chronic diarrhea, and myeloproliferative disorders. Unlike calcium stones, uric acid stones are RADIOLUCENT on plain abdominal radiography (KUB) but readily visualized on non-contrast CT. The pKa of uric acid is 5.35 to 5.5. At a normal neutral pH, uric acid exists as the soluble ionized urate salt. However, in an abnormally ACIDIC URINE (pH < 5.3): (1) Urate is protonated into UNDISSOCIATED URIC ACID; (2) Undissociated uric acid is approximately 100 times LESS SOLUBLE than ionized urate, precipitating into insoluble rhomboid or needle-shaped crystals even when total daily uric acid excretion is within normal limits. Therefore, PERSISTENTLY LOW URINE pH (due to impaired renal ammoniagenesis in insulin resistance) is the primary driver of stone formation. The cornerstone of medical dissolution is URINARY ALKALINIZATION to pH 6.5-7.0 with oral potassium citrate."
+      }
+    ],
+    "explanation": "URIC ACID NEPHROLITHIASIS accounts for ~10% of kidney stones and is strongly associated with gout, metabolic syndrome, chronic diarrhea, and myeloproliferative disorders. Unlike calcium stones, uric acid stones are RADIOLUCENT on plain abdominal radiography (KUB) but readily visualized on non-contrast CT. The pKa of uric acid is 5.35 to 5.5. At a normal neutral pH, uric acid exists as the soluble ionized urate salt. However, in an abnormally ACIDIC URINE (pH < 5.3): (1) Urate is protonated into UNDISSOCIATED URIC ACID; (2) Undissociated uric acid is approximately 100 times LESS SOLUBLE than ionized urate, precipitating into insoluble rhomboid or needle-shaped crystals even when total daily uric acid excretion is within normal limits. Therefore, PERSISTENTLY LOW URINE pH (due to impaired renal ammoniagenesis in insulin resistance) is the primary driver of stone formation. The cornerstone of medical dissolution is URINARY ALKALINIZATION to pH 6.5-7.0 with oral potassium citrate. Radiolucent stone on KUB + visible on CT + rhomboid crystals + urine pH 4.8 = Uric acid nephrolithiasis; persistently acidic pH (< 5.5) insolubilizes undissociated uric acid.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Uric Acid Nephrolithiasis Low Urinary pH Insoluble Undissociated Crystallization.",
+    "keyPoints": [
+      "Uric Acid Nephrolithiasis Low Urinary pH Insoluble Undissociated Crystallization",
+      "Radiolucent stone on KUB + visible on CT + rhomboid crystals + urine pH 4.8 = Uric acid nephrolithiasis; persistently acidic pH (< 5.5) insolubilizes undissociated uric acid."
+    ],
+    "references": [
+      {
+        "label": "Ngo TC. Uric Acid nephrolithiasis: recent progress and future directions. Rev Urol. 2007 Winter. PMID: 17396168.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17396168/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

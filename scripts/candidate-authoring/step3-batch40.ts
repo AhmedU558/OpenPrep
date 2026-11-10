@@ -1,0 +1,1079 @@
+import { CandidateSpec } from './types';
+
+export const step3Batch40: CandidateSpec[] = [
+  {
+    "code": "op-c-s3-0976",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Root Cause Analysis Latent System Failures vs Individual Blame",
+    "provisionalDifficulty": 4,
+    "stem": "A 68-year-old hospitalized patient with atrial fibrillation receives a tenfold overdose of intravenous unfractionated heparin (a 50,000-unit bolus instead of a 5,000-unit bolus) due to look-alike packaging stored in adjacent bins in the automated medication dispensing cabinet, compounded by an interrupted nurse programming an uncalibrated infusion pump during a chaotic shift change. The patient develops a massive retroperitoneal hematoma requiring intensive care unit admission and emergent reversal with protamine sulfate. The hospital safety committee initiates an investigation following this sentinel event. The nursing supervisor demands that the nurse who administered the overdose be immediately terminated for gross negligence. Which of the following is the most appropriate institutional patient safety response according to The Joint Commission and Agency for Healthcare Research and Quality (AHRQ) guidelines?",
+    "choices": [
+      [
+        "Convene an interdisciplinary Root Cause Analysis (RCA) team to identify latent system vulnerabilities and defense failures without focusing on individual blame",
+        "The Joint Commission mandates a formal ROOT CAUSE ANALYSIS (RCA) following any SENTINEL EVENT (an unexpected patient safety event resulting in death, permanent harm, or severe temporary harm). Fundamental principles of patient safety and high-reliability healthcare: (1) LATENT SYSTEM FAILURES VS INDIVIDUAL BLAME: Pioneered by James Reason's 'Swiss Cheese Model', adverse events in complex healthcare environments are rarely caused by a single isolated clinician error ('sharp end'). Rather, they occur when MULTIPLE LATENT SYSTEM-LEVEL WEAKNESSES ALIGN (look-alike packaging, adjacent medication bin storage, distractions during shift change, uncalibrated smart infusion pumps, absence of barcode scanning); (2) PURPOSE OF AN RCA: An RCA is a RETROSPECTIVE, MULTIDISCIPLINARY, STRUCTURED PROCESS designed to identify the fundamental systemic root causes and process vulnerabilities that allowed the active error to occur. The primary objective is to redesign systems and build fail-safe defenses (e.g., separating high-risk medications, requiring dual-nurse verification, hard pump dose-error reduction limits), NOT to punish or assign individual blame; and (3) JUST CULTURE: Punishing individual staff for honest human errors drives errors underground, destroys reporting transparency, and leaves latent system traps uncorrected."
+      ],
+      [
+        "Terminate the administering nurse immediately to establish a zero-tolerance policy for medication errors",
+        "Firing frontline staff for systemic errors represents the discredited 'bad apple' theory, which destroys institutional safety culture and leaves latent hazards intact."
+      ],
+      [
+        "Conduct an informal, closed-door review restricted exclusively to hospital risk management attorneys to avoid legal discoverability",
+        "RCAs must be multidisciplinary (involving frontline nurses, pharmacists, physicians, biomedical engineering) to identify true workflow vulnerabilities."
+      ],
+      [
+        "Issue a hospital-wide reprimand memorandum instructing all nurses to pay closer attention during medication administration",
+        "Passive reminders to 'be more careful' represent the weakest, least effective human-factor intervention in patient safety."
+      ],
+      [
+        "Classify the event as an unpreventable adverse drug reaction and close the inquiry without protocol modifications",
+        "A 10-fold dosing error caused by packaging and programming errors is a classic preventable sentinel event mandating thorough systemic redesign."
+      ]
+    ],
+    "shortestValidSolution": "Sentinel event from 10-fold heparin overdose = Interdisciplinary Root Cause Analysis (RCA) to find latent system failures (not individual blame).",
+    "necessaryInference": "Apply patient safety principles: mandate a multidisciplinary Root Cause Analysis focusing on latent system vulnerabilities rather than punitive individual blame following a sentinel event.",
+    "strongestDistractor": "Terminate the administering nurse immediately to establish a zero-tolerance policy for medication errors",
+    "distractorExclusion": "Blaming the frontline clinician ignores latent system traps (look-alike vials, uncalibrated pumps) that guarantee the identical disaster will recur with another provider.",
+    "citation": "Pham JC. ReCASTing the RCA: an improved model for performing root cause analyses. Am J Med Qual. 2010 May-Jun. PMID: 20460564.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 ethics item requiring multi-step deduction on root cause analysis latent system failures vs individual blame.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0977",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Failure Mode and Effects Analysis Proactive Risk Assessment Methodology",
+    "provisionalDifficulty": 4,
+    "stem": "A large academic medical center plans to implement an automated smart-pump wireless electronic intravenous infusion network across all inpatient intensive care units next month. To prevent catastrophic medication errors and infusion pump programming disasters before the new hardware is deployed, the hospital safety committee organizes an interdisciplinary quality improvement team comprising clinical pharmacists, critical care nurses, physicians, biomedical engineers, and IT specialists. The team maps out every step of the intended medication infusion process, brainstorms every conceivable point where the process could fail, calculates a Risk Priority Number (RPN) for each potential failure mode based on severity, occurrence likelihood, and detectability, and designs forcing functions to eliminate vulnerabilities prior to go-live. Which of the following quality improvement methodologies did this hospital team employ?",
+    "choices": [
+      [
+        "Failure Mode and Effects Analysis (FMEA), a prospective proactive risk assessment tool performed prior to process implementation",
+        "FAILURE MODE AND EFFECTS ANALYSIS (FMEA) is a systematic, PROSPECTIVE, PROACTIVE RISK ASSESSMENT METHODOLOGY widely utilized in high-reliability organizations and healthcare to identify potential failures in a process BEFORE THEY ACTUALLY OCCUR: (1) PROSPECTIVE VS RETROSPECTIVE: Unlike Root Cause Analysis (RCA), which is a RETROSPECTIVE analysis performed AFTER a patient harm event has occurred, FMEA is a PROACTIVE, PREVENTIVE tool conducted BEFORE implementing a new technology, drug, or workflow; (2) STEPS IN AN FMEA: (a) Form an interdisciplinary team; (b) Flowchart and map every step of the proposed process; (c) Brainstorm potential 'failure modes' (ways each step could fail) and their potential effects on patients; (d) Calculate a RISK PRIORITY NUMBER (RPN) for each failure mode: RPN = Severity x Probability of Occurrence x Likelihood of Detection; and (e) Redesign high-RPN steps using hard stops, forcing functions, and automation; and (3) BENEFIT: FMEA identifies latent hazards and builds resilience into the system prior to patient exposure."
+      ],
+      [
+        "Root Cause Analysis (RCA), a retrospective investigation performed following patient harm",
+        "RCA is inherently retrospective (conducted after a sentinel event has occurred), whereas this team is proactively analyzing a process prior to deployment."
+      ],
+      [
+        "Plan-Do-Study-Act (PDSA) cycle, an iterative small-scale rapid experimental testing framework",
+        "PDSA cycles involve small-scale iterative trials of changes in live workflows, not prospective full-system process failure mapping."
+      ],
+      [
+        "Six Sigma DMAIC project, a statistical manufacturing quality method focused solely on eliminating billing variance",
+        "Six Sigma focuses on reducing process variance; prospective failure mode mapping and RPN calculation defines FMEA."
+      ],
+      [
+        "Morbidity and Mortality (M&M) conference, a departmental peer-review discussion of adverse surgical outcomes",
+        "M&M conferences are retrospective case-based clinical reviews, not prospective engineering risk assessment models."
+      ]
+    ],
+    "shortestValidSolution": "Proactively mapping steps, brainstorming failure modes, and calculating Risk Priority Numbers BEFORE implementing new pumps = FMEA.",
+    "necessaryInference": "Differentiate proactive Failure Mode and Effects Analysis (FMEA) from retrospective Root Cause Analysis (RCA) in healthcare quality improvement.",
+    "strongestDistractor": "Root Cause Analysis (RCA), a retrospective investigation performed following patient harm",
+    "distractorExclusion": "RCA is a reactive investigation performed after an injury; analyzing failure modes before launching a new technology is prospective FMEA.",
+    "citation": "Etzioni T. Multidisciplinary Operational Leadership and Proactive Risk Management for Safe Hospital Relocation During Operation Roaring Lion. Isr Med Assoc J. 2026 Oct. PMID: 42867093.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 ethics item requiring multi-step deduction on failure mode and effects analysis proactive risk assessment methodology.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0978",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Disclosure of Medical Errors Open Communication Apology and Remediation",
+    "provisionalDifficulty": 4,
+    "stem": "A 54-year-old woman undergoes an uncomplicated laparoscopic cholecystectomy for symptomatic gallstones. Postoperatively, she develops persistent right upper quadrant pain and low-grade fever. An abdominal CT scan obtained on postoperative day 3 reveals a 5-cm fluid collection in the gallbladder fossa, which aspiration confirms is a bile leak. A detailed review of the operative video and pathology report reveals that the operating surgeon inadvertently placed a surgical clip across an aberrant accessory right hepatic duct (duct of Luschka) rather than the cystic duct, causing bile extravasation. The patient is stable, and an endoscopic retrograde cholangiopancreatography (ERCP) with biliary stent placement is planned tomorrow to resolve the leak. The surgical attending meets with the patient and her family. Which of the following represents the most ethical, professional, and guideline-directed approach for disclosing this medical error?",
+    "choices": [
+      [
+        "Immediate, transparent, and empathetic disclosure of the error to the patient and family, explaining exactly what occurred, expressing sincere apology, detailing the corrective treatment plan, and waiving associated hospital charges",
+        "The American Medical Association (AMA) Code of Medical Ethics and clinical safety guidelines establish clear, unambiguous standards for DISCLOSING MEDICAL ERRORS: (1) MANDATORY DISCLOSURE: Physicians have an absolute ethical, professional, and legal obligation to provide TIMELY, FULL, AND HONEST DISCLOSURE to patients whenever an unexpected complication or medical error results in patient harm or requires additional interventions; (2) CORE COMPONENTS OF EFFECTIVE DISCLOSURE: (a) Clear, factual explanation of exactly what occurred in plain, non-defensive language; (b) Direct explanation of the health consequences; (c) Outline of the immediate corrective treatment plan to remedy the harm (ERCP and biliary stenting); (d) A SINCERE, EMPATHETIC APOLOGY acknowledging the error; (e) Explanation of systemic investigations underway to prevent recurrence; and (f) Commitment to waive all hospital and physician charges associated with the complication; (3) IMPACT ON LITIGATION: Research and state 'apology laws' demonstrate that open, compassionate disclosure and proactive apologies DECREASE MALPRACTICE CLAIMS, reduce settlement costs, and preserve patient trust, whereas concealment or deception triggers punitive litigation; and (4) Concealing errors or blaming surgical anatomy violates fundamental patient autonomy."
+      ],
+      [
+        "Concealing the operative error from the patient and stating that bile leaks are an unpreventable natural complication of all gallbladder surgeries",
+        "Concealing a known surgical error or misrepresenting it as an unpreventable natural occurrence is fraudulent, unethical, and violates patient autonomy."
+      ],
+      [
+        "Refusing to discuss the surgical complication until the hospital legal counsel and malpractice insurers approve a scripted statement",
+        "Excessive delays driven by legal self-interest compound patient anxiety, destroy trust, and violate professional disclosure guidelines."
+      ],
+      [
+        "Apologizing to the patient but explicitly refusing to provide corrective ERCP therapy unless the family signs a liability release waiver",
+        "Conditioning necessary medical care on signing liability releases is coercive, exploitative, and legally and ethically prohibited."
+      ],
+      [
+        "Informing the family that the bile leak was caused exclusively by the anesthesiologist's intraoperative muscle relaxation",
+        "Falsely blaming colleagues for an operative surgical technical complication is unprofessional, dishonest, and violates medical ethics."
+      ]
+    ],
+    "shortestValidSolution": "Surgical error causing bile leak = Transparent disclosure + sincere apology + explain corrective ERCP plan + waive related charges.",
+    "necessaryInference": "Apply ethical principles for medical error disclosure: communicate transparently, offer a sincere apology, detail corrective management, and provide institutional support.",
+    "strongestDistractor": "Concealing the operative error from the patient and stating that bile leaks are an unpreventable natural complication of all gallbladder surgeries",
+    "distractorExclusion": "Concealing an error or falsely portraying it as unavoidable violates the fundamental fiduciary doctor-patient relationship and patient autonomy.",
+    "citation": "Rathnayake D. What can we learn from patient and family experiences of open disclosure and how they have been evaluated? A systematic review. BMC Health Serv Res. 2025 Feb 12. PMID: 39939873.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 ethics item requiring multi-step deduction on disclosure of medical errors open communication apology and remediation.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0979",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Palliative Care Integration and Performance Status in Advanced Cancer",
+    "provisionalDifficulty": 4,
+    "stem": "A 68-year-old woman with metastatic pancreatic adenocarcinoma with extensive hepatic and peritoneal metastases presents for oncology follow-up. She has progressed through two lines of systemic chemotherapy (FOLFIRINOX and gemcitabine-nab-paclitaxel). Over the past 6 weeks, her functional status has declined precipitously: she is now bedbound for >75% of waking hours, requires assistance with all activities of daily living (dressing, bathing, transferring), has lost 8 kg, and has severe anorexia and fatigue. Her ECOG performance status is 3 (Karnofsky Performance Scale [KPS] score 30-40%). Physical examination reveals temporal muscle wasting, mild scleral icterus, and moderate abdominal ascites with shifting dullness. Her son asks if she can be started on an aggressive third-line experimental cytotoxic chemotherapy protocol. Which of the following is the most appropriate management plan according to ASCO and palliative oncology guidelines?",
+    "choices": [
+      [
+        "Transitioning the primary goals of care to comprehensive palliative and hospice care, focusing on aggressive symptom management and quality of life, while declining further cytotoxic chemotherapy",
+        "In advanced, incurable malignancies, clinical oncologists utilize standardized performance status scales (such as the Eastern Cooperative Oncology Group [ECOG] score or Karnofsky Performance Scale [KPS]) to guide therapeutic decision-making: (1) PERFORMANCE STATUS AS A PROGNOSTIC BIOMARKER: Patients with POOR PERFORMANCE STATUS (ECOG 3-4, bedbound >50% of the day, KPS <= 40%) derive ZERO SURVIVAL BENEFIT from aggressive systemic cytotoxic chemotherapy. Chemotherapy in this setting produces catastrophic, life-shortening toxicities (neutropenic sepsis, dehydration, acute kidney injury, early death); (2) ASCO GUIDELINES ON HIGH-VALUE ONCOLOGY CARE: Strongly recommend AGAINST the administration of cytotoxic chemotherapy to patients with solid tumors who have: (a) Advanced incurable disease; (b) Failure of prior proven therapies; (c) Poor performance status (ECOG 3-4); and (d) No promising targeted therapy; (3) TRANSITION TO PALLIATIVE / HOSPICE CARE: The standard of care is a compassionate, structured goals-of-care discussion focusing on comprehensive PALLIATIVE AND HOSPICE CARE: aggressive pain and symptom control (management of ascites, nausea, dyspnea), psychosocial support, caregiver respite, and aligning interventions with patient comfort; and (4) Palliative care improves quality of life and does not shorten survival."
+      ],
+      [
+        "Initiation of full-dose third-line cytotoxic chemotherapy combined with total parenteral nutrition (TPN)",
+        "Cytotoxic chemotherapy in ECOG 3/4 pancreatic cancer causes severe treatment-related mortality without survival advantage; routine TPN does not improve cancer outcomes."
+      ],
+      [
+        "Immediate transfer to the intensive care unit for invasive monitoring prior to initiating chemotherapy",
+        "ICU admission for end-stage functional decline causes non-beneficial suffering and contradicts palliative principles."
+      ],
+      [
+        "Discharging the patient with reassurance and scheduling follow-up in 3 months without active symptom support",
+        "Abandoning an end-stage patient without structured hospice or symptom support is unethical and causes unmanaged suffering."
+      ],
+      [
+        "Enrolling the patient in a phase I high-dose escalation trial without discussing prognosis or life expectancy",
+        "Enrolling patients with severe performance impairment in phase I trials violates trial eligibility criteria and exploits vulnerable patients."
+      ]
+    ],
+    "shortestValidSolution": "Metastatic cancer with ECOG 3-4 (bedbound >75% of day, KPS 30-40%) = Transition to palliative/hospice care (decline further cytotoxic chemotherapy).",
+    "necessaryInference": "Apply ASCO guidelines: recognize that poor performance status (ECOG 3-4) in advanced refractory cancer precludes cytotoxic chemotherapy and mandates transition to palliative/hospice care.",
+    "strongestDistractor": "Initiation of full-dose third-line cytotoxic chemotherapy combined with total parenteral nutrition (TPN)",
+    "distractorExclusion": "Chemotherapy in bedbound patients with refractory solid tumors causes severe fatal toxicities without prolonging life; palliative symptom management is the ethical standard.",
+    "citation": "Fernandez Eng IL. A Narrative Review on Karnofsky Performance Status in Patients With Brain Tumors: Should It Be Adjusted? Cureus. 2026 Oct. PMID: 42996626.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on palliative care integration and performance status in advanced cancer.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0980",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Surrogate Decision-Making Substituted Judgment vs Best Interests Standard",
+    "provisionalDifficulty": 5,
+    "stem": "A 79-year-old man is admitted to the intensive care unit with acute respiratory distress syndrome (ARDS) and septic shock secondary to aspiration pneumonia. He is intubated, mechanically ventilated, and dependent on high-dose norepinephrine and vasopressin infusions. Over the past 48 hours, he has developed anuric acute renal failure with worsening metabolic acidosis and refractory multiorgan failure. The nephrology team recommends initiating continuous venovenous hemodialysis (CVVH), noting that without dialysis he will die within 24 to 48 hours. The patient has lost decision-making capacity due to critical illness and sedative medications. He has no written living will or designated healthcare proxy. His wife of 50 years is his legally recognized surrogate decision-maker. When the ICU team discusses initiating dialysis, his wife states: 'My husband watched his brother suffer for months on dialysis and ventilators. He told me repeatedly over the years that if he ever became dependent on machines to stay alive with no chance of returning to his garden, he never wanted to be kept alive like that. Please do not start dialysis; allow him to pass away peacefully with comfort medications.' The patient's estranged son, who arrived today, angrily demands that CVVH be initiated immediately, insisting that saving his father's life represents his absolute 'best interest.' Which of the following is the most ethically and legally appropriate decision regarding hemodialysis for this patient?",
+    "choices": [
+      [
+        "Honor the wife's decision to withhold dialysis based on the Substituted Judgment standard, respecting the patient's previously expressed values and wishes",
+        "In medical ethics and health law, when an adult patient lacks decision-making capacity, surrogate decision-makers must adhere to a strict ethical hierarchy of decision-making standards: (1) FIRST TIER: EXPRESSED DIRECTIVES (Subjective standard): If the patient executed a valid living will or appointed a designated healthcare power of attorney, their written directives take absolute precedence; (2) SECOND TIER: SUBSTITUTED JUDGMENT STANDARD: In the absence of an explicit document, the legally authorized surrogate (here, the spouse of 50 years) MUST DECIDE BASED ON WHAT THE PATIENT WOULD HAVE DECIDED IF HE COULD SPEAK FOR HIMSELF. The surrogate must extrapolate the patient's previously articulated values, beliefs, past conversations, and lifestyle priorities. Here, the patient explicitly and repeatedly stated to his wife that he did not want machines or dialysis to prolong suffering if recovery was impossible. The wife's statement represents a textbook application of SUBSTITUTED JUDGMENT; (3) THIRD TIER: BEST INTERESTS STANDARD: Applies ONLY when the patient's prior wishes, values, and preferences are COMPLETELY UNKNOWN AND CANNOT BE DETERMINED (e.g., an incapacitated patient with no family). In that scenario, decision-makers choose what a reasonable person would view as most beneficial; and (4) The son's demand based on general 'best interests' cannot override the established substituted judgment reflecting the patient's personal autonomous wishes."
+      ],
+      [
+        "Initiate continuous hemodialysis immediately based on the son's assertion of the Best Interests standard",
+        "The best interests standard is applied only when the patient's personal wishes are completely unknown; substituted judgment takes precedence."
+      ],
+      [
+        "Obtain an immediate court order to strip the wife of surrogate decision-making authority for refusing dialysis",
+        "Refusing invasive life support in accordance with a patient's documented prior wishes is ethical and lawful; court intervention is unjustified."
+      ],
+      [
+        "Require unanimous agreement between the wife and the estranged son before any medical decision can be implemented",
+        "Surrogate decision-making does not require unanimous family consensus; statutory priority laws recognize the spouse as the primary decision-maker."
+      ],
+      [
+        "Initiate dialysis automatically, because physicians are ethically prohibited from withholding life-prolonging renal replacement therapy",
+        "Patients and their legal surrogates have the absolute ethical and legal right to refuse life-sustaining therapy, including renal replacement."
+      ]
+    ],
+    "shortestValidSolution": "Surrogate decision-making: wife knows patient repeatedly refused life-support/dialysis = Substituted judgment (honor patient's known wishes over son's objection).",
+    "necessaryInference": "Apply the ethical hierarchy of surrogate decision-making: prioritize the Substituted Judgment standard (reconstructing the patient's known values) over the Best Interests standard.",
+    "strongestDistractor": "Initiate continuous hemodialysis immediately based on the son's assertion of the Best Interests standard",
+    "distractorExclusion": "Best interests is a fallback standard used only when patient preferences are unknown; known patient wishes expressed through substituted judgment are ethically binding.",
+    "citation": "Wu L. [Ethical dilemmas of the personalized patient preference predictor in family-based surrogate decision-making in China]. Zhejiang Da Xue Xue Bao Yi Xue Ban. 2026 Nov 5. PMID: 42984193.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 ethics item requiring multi-step deduction on surrogate decision-making substituted judgment vs best interests standard.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0981",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Advance Directives Designated Healthcare Proxy vs Estranged Relatives",
+    "provisionalDifficulty": 4,
+    "stem": "A 72-year-old retired army veteran with end-stage ischemic cardiomyopathy (LVEF 15%) is admitted to the intensive care unit with cardiogenic shock and ventricular tachycardia storm. He is intubated and sedated. His hospital electronic medical record contains a legally executed Advance Directive completed 6 months ago when he was fully competent, formally appointing his longtime domestic partner and companion of 18 years as his DURABLE POWER OF ATTORNEY FOR HEALTHCARE (healthcare proxy). The document explicitly states: 'In the event of irreversible critical illness or coma with no reasonable hope of recovery, I direct that cardiopulmonary resuscitation, defibrillation, and artificial life support be withheld or withdrawn.' After 48 hours of maximal vasopressors and mechanical ventilation, he develops anoxic brain injury following a 20-minute cardiac arrest. His designated partner requests that life support be withdrawn and palliative comfort care initiated in accordance with the patient's directive. However, the patient's biological daughter, who has been estranged from her father for 12 years and has not spoken to him, arrives at the hospital and threatens to sue the clinical team, demanding that full invasive life support be continued indefinitely. Which of the following is the most appropriate management regarding decision-making authority and goals of care?",
+    "choices": [
+      [
+        "Honor the decision of the formally designated healthcare proxy (the partner) to transition to comfort care, as a legally executed healthcare proxy supersedes biological relatives",
+        "Under United States healthcare law and medical ethics, the authority of surrogate decision-makers follows an inviolable legal priority: (1) THE DESIGNATED HEALTHCARE PROXY (DURABLE POWER OF ATTORNEY FOR HEALTHCARE): When a competent adult formally executes an advance directive appointing a specific individual as their healthcare agent, THAT DESIGNATED AGENT HAS ABSOLUTE LEGAL AND ETHICAL DECISION-MAKING AUTHORITY regarding medical care if the patient loses capacity; (2) BIOLOGICAL RELATIVES CANNOT OVERRIDE A DESIGNATED PROXY: An estranged child, sibling, or parent has ZERO LEGAL STANDING to override, veto, or modify the medical decisions of a legally appointed healthcare proxy, regardless of biological relationship or emotional distress; (3) FIDELITY TO PATIENT AUTONOMY: The designated partner is upholding both the explicit written advance directive and the patient's chosen surrogate relationship. Overriding the proxy to appease an estranged relative violates patient autonomy and breach of fiduciary legal duty; and (4) The hospital clinical team and risk management should support the partner, offer supportive pastoral/grief counseling to the daughter, and proceed with compassionate palliative withdrawal of life support."
+      ],
+      [
+        "Override the partner's decision and comply with the biological daughter, because legal next-of-kin statutes prioritize biological children over unmarried partners",
+        "Statutory next-of-kin default hierarchies apply ONLY when no healthcare proxy has been appointed; a legally designated proxy always supersedes default statutes."
+      ],
+      [
+        "Continue maximal life-support therapy indefinitely until the partner and daughter reach unanimous written consensus",
+        "Demanding family unanimity gives veto power to an estranged relative, unlawfully violating the patient's legally appointed proxy's authority."
+      ],
+      [
+        "Revoke the advance directive immediately and transfer decision-making authority to the hospital clinical ethics committee",
+        "Ethics committees provide advisory guidance and mediation; they do not have the authority to revoke a patient's valid legal proxy designation."
+      ],
+      [
+        "Discharge the patient from the intensive care unit to the daughter's home without comfort care medications",
+        "Discharging an unstable, dying patient without palliative care is medical abandonment and malpractice."
+      ]
+    ],
+    "shortestValidSolution": "Legally appointed healthcare proxy (partner) vs estranged biological daughter = Honor proxy's decision to withdraw life support (appointed proxy supersedes biological kin).",
+    "necessaryInference": "Recognize the absolute legal and ethical primacy of a designated healthcare proxy (durable power of attorney for healthcare) over biological relatives.",
+    "strongestDistractor": "Override the partner's decision and comply with the biological daughter, because legal next-of-kin statutes prioritize biological children over unmarried partners",
+    "distractorExclusion": "Next-of-kin default statutes are used only when a patient has not named a proxy; a formally appointed durable power of attorney trumps all biological relatives.",
+    "citation": "Tung HJ. Use of Advance Directives in US Veterans and Non-Veterans: Findings from the Decedents of the Health and Retirement Study 1992-2014. Healthcare (Basel). 2023 Jun 22. PMID: 37444658.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 ethics item requiring multi-step deduction on advance directives designated healthcare proxy vs estranged relatives.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0982",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Decision-Making Capacity Assessment and Refusal of Life-Sustaining Treatment",
+    "provisionalDifficulty": 5,
+    "stem": "A 62-year-old man with a history of hypertension and diabetic peripheral neuropathy presents to the emergency department with acute gangrene of his left foot extending into the ankle. Surgical consultation evaluates the patient and confirms ascending wet gangrene with extensive tissue necrosis and ascending lymphangitic streaking; the vascular surgical team advises that an urgent below-knee amputation is required to prevent fatal septic shock. The patient is alert and fully oriented to person, place, time, and situation. When informed of the recommendation for amputation, the patient calmly states: 'I understand that my foot is infected, that the tissue is dead, and that if I do not have this surgery, the bacteria will spread into my blood and I will go into septic shock and die within a few days. However, I have lived a full life, I value my bodily integrity above living with a disability, and I refuse to undergo an amputation. I want antibiotics and pain medication, but I do not consent to surgery.' Psychiatric evaluation confirms that he has no major depressive disorder, psychosis, or cognitive impairment. His vital signs are normal, and he speaks articulately. The surgical resident proposes obtaining emergency legal guardianship to perform the amputation against the patient's will, arguing that refusing a life-saving surgery proves lack of capacity. Which of the following is the most ethically and legally appropriate management plan for this patient?",
+    "choices": [
+      [
+        "Respect the patient's informed refusal of surgical amputation, as he demonstrates intact decision-making capacity and has the autonomous right to decline life-saving interventions",
+        "DECISION-MAKING CAPACITY is a clinical determination made by the treating physician for a SPECIFIC MEDICAL DECISION at a specific point in time: (1) FOUR CRITERIA FOR DECISIONAL CAPACITY: (a) UNDERSTANDING: The patient understands the nature of the condition, diagnosis, and proposed treatment; (b) APPRECIATION: The patient appreciates how the information applies directly to their personal situation and prognosis (including the risk of death); (c) REASONING: The patient processes information logically, weighing risks and benefits in accordance with their personal values; and (d) EXPRESSING A CHOICE: The patient clearly communicates a stable, voluntary choice; (2) CAPACITY IS NOT COMPETENCE: Competence is a legal status determined by a judge; capacity is determined at the bedside by clinicians; (3) AUTONOMOUS RIGHT TO REFUSE: A competent adult with intact decision-making capacity HAS THE ABSOLUTE ETHICAL AND LEGAL RIGHT TO REFUSE ANY MEDICAL INTERVENTION, INCLUDING LIFE-SAVING SURGERY, even if that refusal will result in death. Disagreeing with the medical team's recommendation or making a choice that leads to death DOES NOT DEMONSTRATE LACK OF CAPACITY; and (4) The team must respect his informed refusal, provide maximal medical therapy (antibiotics, wound care, analgesia), and discuss palliative and hospice care options."
+      ],
+      [
+        "Sedate the patient and proceed with emergency amputation under the emergency doctrine of implied consent",
+        "The emergency doctrine applies ONLY when an incapacitated patient cannot express their wishes; treating an alert, capacitated patient against their refusal is medical battery."
+      ],
+      [
+        "Petition the court for emergency guardianship on the grounds that refusing life-saving surgery proves severe psychiatric incompetence",
+        "Refusing a life-saving operation does not constitute psychiatric incompetence; a person with intact capacity has the legal right to decline treatment."
+      ],
+      [
+        "Decline to provide any further medical care, antibiotics, or pain medications because the patient refused the surgical recommendation",
+        "Withholding supportive care or analgesia because a patient declines surgery is punitive and represents unethical medical abandonment."
+      ],
+      [
+        "Inquire with the patient's adult children and follow their decision regarding whether to perform the amputation",
+        "When an adult patient possesses intact decision-making capacity, family members have zero legal authority to override the patient's autonomous decision."
+      ]
+    ],
+    "shortestValidSolution": "Alert patient understands gangrene will cause death without amputation, reasons clearly, and refuses surgery = Respect refusal (intact capacity gives absolute right to decline life support).",
+    "necessaryInference": "Evaluate decision-making capacity: understand that a patient with intact capacity has the ethical and legal right to refuse life-saving interventions.",
+    "strongestDistractor": "Sedate the patient and proceed with emergency amputation under the emergency doctrine of implied consent",
+    "distractorExclusion": "Implied consent applies only to incapacitated emergencies; amputating the limb of a capacitated patient who explicitly refused is civil and criminal battery.",
+    "citation": "LeMalefant R. What to Do When Incapacitated Patients Resist Treatment: Ethical Considerations in Weighing Beneficence Versus Patient Autonomy. J Clin Ethics. 2026 Fall. PMID: 42585075.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 ethics item requiring multi-step deduction on decision-making capacity assessment and refusal of life-sustaining treatment.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0983",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Discharge Against Medical Advice Capacity Evaluation and Harm Reduction",
+    "provisionalDifficulty": 4,
+    "stem": "A 44-year-old man hospitalized with acute bacterial endocarditis of the native aortic valve caused by methicillin-susceptible Staphylococcus aureus (MSSA) has completed 4 days of a planned 6-week course of intravenous nafcillin. He has a history of severe opioid use disorder. Today, he demands that his peripheral intravenous catheter be removed and states he is leaving the hospital immediately because he has urgent personal financial business to attend to. The hospitalist spends 30 minutes explaining the grave medical consequences of leaving prematurely, explaining that bacteremia will relapse, valve destruction will progress, and heart failure or fatal septic embolization to the brain will occur. The patient articulates these risks clearly, states he understands he could die at home, but insists: 'I understand the risks, but I have to leave today. I cannot stay in this hospital another hour.' Formal capacity evaluation confirms that he is fully oriented, alert, and possesses decision-making capacity. He has no acute withdrawal symptoms and declines inpatient substance use treatment. Which of the following is the most appropriate management plan regarding his discharge against medical advice (AMA)?",
+    "choices": [
+      [
+        "Facilitate an informed harm-reduction discharge, providing a prescription for oral step-down antibiotics, arranging rapid outpatient follow-up, offering naloxone, and documenting informed refusal",
+        "When a hospitalized patient with decision-making capacity insists on LEAVING AGAINST MEDICAL ADVICE (AMA), modern medical ethics and professional guidelines establish clear principles: (1) RESPECT FOR AUTONOMY: A patient with intact capacity cannot be held against their will; attempting to physically restrain or detain a capacitated patient constitutes unlawful FALSE IMPRISONMENT; (2) HARM REDUCTION ETHICS: The historical practice of punitive AMA discharges\u2014refusing to write discharge prescriptions, refusing follow-up, or withholding discharge summaries\u2014is UNETHICAL, DANGEROUS, AND REJECTED BY MEDICAL SOCIETIES. The hospitalist has an ongoing professional duty of beneficence and non-maleficence to MITIGATE HARM TO THE GREATEST DEGREE POSSIBLE; (3) HARM-REDUCTION INTERVENTIONS: (a) Prescribe the safest, most effective oral alternative antimicrobial regimen available (e.g., high-dose oral cephalexin or linezolid) with clear instructions; (b) Provide an outpatient follow-up appointment within 48 to 72 hours; (c) Provide a prescription for take-home naloxone; (d) Remove the peripheral IV line safely; and (e) Welcome the patient to return at any time if he changes his mind; and (4) DOCUMENTATION: Document a thorough capacity assessment and explicit discussion of risks (including death). Insurers do NOT refuse payment for AMA discharges (a common medical myth)."
+      ],
+      [
+        "Physically restrain the patient and administer intramuscular antipsychotics to prevent him from leaving the hospital",
+        "Holding or restraining a patient with decision-making capacity who wishes to leave constitutes unlawful false imprisonment and battery."
+      ],
+      [
+        "Refuse to provide any oral discharge prescriptions or follow-up appointments as a necessary institutional consequence of leaving AMA",
+        "Withholding medications and follow-up is punitive, dangerous, and violates medical ethics; harm reduction requires providing oral alternatives."
+      ],
+      [
+        "Inform the patient that leaving against medical advice will automatically cause his health insurance to deny coverage for the entire hospital stay",
+        "Informing patients that insurance will deny coverage is a false threat (disproven in multiple health policy studies) and constitutes improper coercion."
+      ],
+      [
+        "Call local law enforcement to have the patient placed in protective police custody until his 6-week antibiotic course is complete",
+        "Bacterial endocarditis in a capacitated adult is not a legal ground for civil or police detention; police have no authority in medical refusals."
+      ]
+    ],
+    "shortestValidSolution": "Capacitated patient insists on leaving AMA = Harm-reduction discharge (provide oral antibiotic prescription, outpatient follow-up, naloxone, document refusal; never punitive).",
+    "necessaryInference": "Apply harm-reduction principles to discharges against medical advice (AMA): respect autonomy, provide oral bridge medications, arrange follow-up, and avoid punitive barriers.",
+    "strongestDistractor": "Refuse to provide any oral discharge prescriptions or follow-up appointments as a necessary institutional consequence of leaving AMA",
+    "distractorExclusion": "Punitive AMA policies that deny prescriptions increase readmissions, bacteremic relapses, and death; clinicians must offer the best possible outpatient harm-reduction care.",
+    "citation": "Alhajeri SS. Leaving Against Medical Advice: Current Problems and Plausible Solutions. Cureus. 2024 Jul. PMID: 38988898.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 ethics item requiring multi-step deduction on discharge against medical advice capacity evaluation and harm reduction.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0984",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Impaired Physician Colleague Reporting Protocols and Patient Protection",
+    "provisionalDifficulty": 4,
+    "stem": "A senior surgical resident is preparing for an emergency appendectomy at 11:00 PM. While scrubbing in the anteroom, the surgical attending arrives. The resident notices that the attending has slurred speech, an unsteady gait, bloodshot eyes, and a distinct odor of alcohol on his breath. The attending fumbles with his scrub brushes and drops his sterile gloves on the floor, laughing inappropriately. He insists that he is 'completely fine and ready to operate.' When the resident asks if he is feeling alright, the attending becomes irritable and orders the resident to 'shut up and get the patient prepped.' There are no other surgeons currently in the operating room. Which of the following is the most appropriate and urgent next step in management for the resident?",
+    "choices": [
+      [
+        "Immediately prevent the attending from participating in the surgery, notify the operating room charge nurse, and contact the chief of surgery or on-call surgical coverage to assume patient care",
+        "The American Medical Association (AMA) Code of Medical Ethics and hospital safety bylaws establish an absolute, non-negotiable ethical duty: THE PHYSICIAN'S PRIMARY, UNCOMPROMISING OBLIGATION IS PATIENT SAFETY: (1) IMMEDIATE THREAT TO PATIENT SAFETY: An acutely impaired, intoxicated physician who is about to perform an invasive surgical procedure poses an IMMINENT, GRAVE THREAT TO PATIENT LIFE. In acute situations of immediate harm: (a) The resident or nurse MUST INTERVENE IMMEDIATELY TO PREVENT THE IMPAIRED PHYSICIAN FROM TOUCHING THE PATIENT OR COMMENCING SURGERY; (b) Inform the operating room charge nurse and anesthesiologist immediately; and (c) Contact the department chair, chief of surgery, or on-call backup attending to immediately relieve the impaired surgeon and assume patient care; (2) DUTY TO REPORT: Following immediate containment of the acute danger, the resident has a mandatory professional and legal obligation to REPORT THE INCIDENT TO THE HOSPITAL'S PHYSICIAN HEALTH PROGRAM (PHP), medical executive committee, or state licensing board; (3) PROTECTING COLLEAGUES VS PATIENTS: Covering for an impaired colleague out of personal loyalty, fear of career retaliation, or embarrassment is a severe ethical violation that makes the resident complicit in any subsequent patient harm or death; and (4) Physician Health Programs provide confidential evaluation, treatment, and rehabilitation for impaired physicians."
+      ],
+      [
+        "Allow the attending to proceed with the operation while remaining vigilant and ready to take over the scalpel if an error occurs",
+        "Permitting an acutely intoxicated surgeon to perform an invasive operation places the patient at imminent risk of lethal surgical trauma."
+      ],
+      [
+        "Confront the attending privately after the surgery is completed and advise him to consider seeing an addiction counselor",
+        "Postponing intervention until after surgery allows a dangerously impaired surgeon to operate, violating the primary duty of non-maleficence."
+      ],
+      [
+        "Anonymously report the incident to the state medical licensing board in two weeks without notifying hospital leadership tonight",
+        "Reporting to licensing boards weeks later does nothing to protect the patient undergoing emergency surgery tonight."
+      ],
+      [
+        "Instruct the scrub nurse to give the attending a cup of black coffee and allow him 15 minutes to sober up before incision",
+        "Black coffee does not accelerate alcohol metabolism; an intoxicated surgeon cannot be permitted to perform surgery."
+      ]
+    ],
+    "shortestValidSolution": "Attending shows signs of alcohol intoxication before surgery = Immediately stop him from operating + notify OR charge nurse / call backup chief of surgery (patient safety first).",
+    "necessaryInference": "Identify the mandatory protocol for an acutely impaired physician: intervene immediately to prevent patient harm, alert operational leadership, and report through established channels.",
+    "strongestDistractor": "Allow the attending to proceed with the operation while remaining vigilant and ready to take over the scalpel if an error occurs",
+    "distractorExclusion": "Waiting for an error to occur during surgery guarantees patient injury; the resident must actively block the impaired surgeon before the operation begins.",
+    "citation": "Kopitnik NL. Recognizing Alcohol and Drug Impairment in the Workplace in Florida. . 2024 Jan. PMID: 29939551.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 ethics item requiring multi-step deduction on impaired physician colleague reporting protocols and patient protection.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0985",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Healthcare Safety Culture Near-Miss Reporting and Just Culture Framework",
+    "provisionalDifficulty": 4,
+    "stem": "A clinical pharmacist reviewing outpatient orders notices that a prescription was electronically entered for methotrexate 15 mg DAILY instead of the intended 15 mg ONCE WEEKLY for a patient with rheumatoid arthritis. The pharmacist recognizes the severe toxicity of daily methotrexate (bone marrow failure, fatal pancytopenia), contacts the prescribing rheumatology fellow, and successfully corrects the order to weekly dosing before the medication is dispensed or consumed by the patient. No patient harm occurred. When the pharmacist informs the fellow that an electronic incident report will be filed in the hospital's voluntary patient safety reporting system, the fellow becomes distraught, pleading with the pharmacist not to file the report because she fears she will be reprimanded, receive a poor academic evaluation, or be punished by residency leadership. Which of the following statements most accurately reflects the principles of a 'Just Culture' and the rationale for reporting near-miss events?",
+    "choices": [
+      [
+        "Near-miss reporting is non-punitive and essential to identify latent design flaws in computer order entry systems before identical errors reach and injure future patients",
+        "A high-reliability healthcare organization operates within a 'JUST CULTURE' framework, established by the Agency for Healthcare Research and Quality (AHRQ) and Institute of Medicine: (1) DEFINITION OF A NEAR-MISS: A NEAR-MISS (close call) is an unplanned event that DID NOT RESULT IN PATIENT INJURY, ILLNESS, OR DAMAGE, BUT HAD THE POTENTIAL TO DO SO (the error was caught before reaching the patient); (2) VALUE OF NEAR-MISS REPORTING: Near-misses occur 10 to 100 times more frequently than actual adverse harm events. Because no harm occurred, near-misses provide an INVALUABLE, RISK-FREE WINDOW INTO SYSTEM VULNERABILITIES; (3) SYSTEM REDESIGN: Analyzing this near-miss allows the hospital to redesign the electronic health record (e.g., implementing a hard-stop forcing function that blocks daily dosing of methotrexate or defaults to weekly); (4) JUST CULTURE DISTINCTION: Distinguishes between: (a) Human error (inadvertent slip/lapse) -> managed by consoling the individual and fixing the system; (b) At-risk behavior (taking shortcuts) -> managed by coaching; and (c) Reckless behavior (conscious disregard of substantial, unjustifiable risk) -> subject to discipline; and (5) Because the fellow committed an honest human slip, a Just Culture treats this as an institutional learning opportunity without punitive discipline."
+      ],
+      [
+        "Filing an incident report for a near-miss where no patient was harmed is unnecessary and wastes administrative resources",
+        "Ignoring near-misses allows latent computer traps to persist until another patient receives the lethal daily dose."
+      ],
+      [
+        "Just Culture mandates that any resident who commits a prescribing error must be placed on formal academic probation",
+        "Punishing inadvertent human error destroys psychological safety, suppresses error reporting, and makes future medical disasters inevitable."
+      ],
+      [
+        "Incident reports are forwarded directly to state medical licensing boards to monitor resident competence",
+        "Internal hospital safety reports are confidential quality improvement documents and are not submitted to licensing boards."
+      ],
+      [
+        "The pharmacist should report the fellow to the hospital risk management attorneys for professional malpractice",
+        "Malpractice requires actual patient injury or damage; a near-miss where harm was intercepted cannot constitute legal malpractice."
+      ]
+    ],
+    "shortestValidSolution": "Methotrexate daily caught before dispensing = Report near-miss in non-punitive Just Culture system (identifies EHR traps to protect future patients).",
+    "necessaryInference": "Apply Just Culture and patient safety principles: recognize that non-punitive reporting of near-misses is essential to identify and correct latent system vulnerabilities.",
+    "strongestDistractor": "Filing an incident report for a near-miss where no patient was harmed is unnecessary and wastes administrative resources",
+    "distractorExclusion": "Near-misses are free warning signs; failing to report them ensures that the identical latent prescribing trap will eventually kill a future patient.",
+    "citation": "Bayer N. Transformational Leadership and the Reporting of Patient Safety Events Among Emergency Nurses: The Mediating Role of Psychological Safety. Healthcare (Basel). 2026 Oct 12. PMID: 42940441.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 ethics item requiring multi-step deduction on healthcare safety culture near-miss reporting and just culture framework.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0986",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Involuntary Psychiatric Commitment Imminent Harm and Grave Disability Criteria",
+    "provisionalDifficulty": 5,
+    "stem": "A 32-year-old man with a history of schizophrenia is brought to the emergency department by mobile crisis workers after his landlord found him sitting in a flooded apartment in sub-freezing winter temperatures. He has refused all food for 6 days because he believes his water pipes and food supply have been contaminated with industrial neurotoxins by government satellites. On arrival, he is disheveled, cachectic, and shivering with a core body temperature of 34.6 C (94.3 F). Physical examination reveals severe dehydration, resting tachycardia (HR 124/min), and frostbite of three toes on his left foot. Mental status examination reveals unkempt appearance, profound paranoid delusions, command auditory hallucinations instructing him to avoid all warmth and water, and absence of insight into his hypothermia or medical condition. He adamantly demands to leave the emergency department immediately to return to the streets, stating: 'I am in perfect health, and you have no legal right to touch me.' When the emergency physician explains that he requires immediate hospitalization for hypothermia, rewarming, intravenous fluids, and psychiatric stabilization, he becomes agitated and attempts to run toward the exit doors. Which of the following is the most appropriate legal and ethical management plan regarding his hospitalization?",
+    "choices": [
+      [
+        "Initiation of emergency involuntary psychiatric and medical holds, hospitalizing the patient against his will due to grave disability and imminent risk of severe self-harm secondary to severe mental illness",
+        "INVOLUNTARY PSYCHIATRIC COMMITMENT (civil commitment) represents an ethically justified exception to patient autonomy, grounded in the legal doctrines of PARENS PATRIAE (the state's duty to protect citizens who cannot care for themselves) and POLICE POWER (protecting public safety). Statutory criteria across all jurisdictions require: (1) CRITERIA FOR INVOLUNTARY HOLD: A patient may be detained and hospitalized involuntarily ONLY when they meet ALL of the following conditions: (a) Presence of a severe mental illness (here, schizophrenia with active psychosis); AND (b) As a direct result of that mental illness, the patient presents: (i) IMMINENT DANGER TO SELF (active suicidality or life-threatening behavior); (ii) IMMINENT DANGER TO OTHERS (active violent threats); OR (iii) GRAVE DISABILITY (inability to provide for basic life-sustaining necessities such as food, water, clothing, or shelter, placing life in imminent danger); (2) APPLICATION: This patient has active psychosis leading to severe hypothermia (core temp 34.6 C), severe dehydration, frostbite, and refusal of food. His refusal to accept treatment is driven by paranoid delusions and command hallucinations, rendering him GRAVELY DISABLED WITH IMMINENT RISK OF DEATH; and (3) Involuntary emergency medical and psychiatric hospitalization is ethically mandatory to preserve life. Voluntary commitment is impossible because he lacks insight and refuses."
+      ],
+      [
+        "Allowing the patient to leave the emergency department immediately to respect his absolute autonomous civil liberty",
+        "Allowing a psychotic, hypothermic patient with frostbite to wander into freezing weather violates the duty of non-maleficence and constitutes gross medical neglect."
+      ],
+      [
+        "Placing the patient on an involuntary hold only if he verbally confirms that he has an active plan for suicide",
+        "Involuntary commitment does not require explicit suicidal intent; grave disability and severe self-neglect are fully sufficient legal grounds."
+      ],
+      [
+        "Discharging the patient to a homeless shelter after administering a single dose of oral haloperidol",
+        "Administering a pill does not treat acute hypothermia or dehydration; discharging him to a shelter guarantees severe frostbite necrosis and hypothermic arrest."
+      ],
+      [
+        "Waiting for a formal court hearing with a probate judge before initiating emergency rewarming and intravenous hydration",
+        "Emergency medical stabilization and initial 72-hour psychiatric holds are initiated by physicians at the bedside; awaiting court hearings delays life-saving care."
+      ]
+    ],
+    "shortestValidSolution": "Psychotic patient with hypothermia (34.6 C) and frostbite refusing treatment = Emergency involuntary commitment (grave disability / imminent self-harm from mental illness).",
+    "necessaryInference": "Apply criteria for involuntary psychiatric commitment: initiate involuntary emergency detention for patients who represent an imminent danger to self or exhibit grave disability due to severe mental illness.",
+    "strongestDistractor": "Allowing the patient to leave the emergency department immediately to respect his absolute autonomous civil liberty",
+    "distractorExclusion": "Autonomous rights are contingent on decision-making capacity; psychotic command hallucinations causing life-threatening hypothermia justify emergency commitment under parens patriae.",
+    "citation": "Oh H. Impact of statutory revisions to family-petitioned civil commitment in South Korea. Int J Law Psychiatry. 2024 May-Jun. PMID: 38603975.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 psychiatry item requiring multi-step deduction on involuntary psychiatric commitment imminent harm and grave disability criteria.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0987",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Tarasoff Duty to Warn and Protect Identifiable Third Parties from Violence",
+    "provisionalDifficulty": 5,
+    "stem": "A 29-year-old man presents to an outpatient psychiatry clinic for an intake evaluation. He has a history of major depressive disorder and borderline personality traits following a bitter divorce 3 weeks ago. During the clinical interview, he becomes intensely agitated and expresses homicidal ideation toward his former wife. He leans forward and states with a cold, deliberate demeanor: 'She ruined my life and took my house. I bought an unregistered Glock 9mm handgun yesterday, and I have bullets in my truck. I know she gets home from work at 6:00 PM every Tuesday, and I am going to her driveway tonight to shoot her in the head.' When the psychiatrist attempts to explore these statements and de-escalate the patient, he stands up, says 'Nobody can stop me,' and abruptly storms out of the clinic, driving away in his pickup truck. The psychiatrist has the former wife's full name, address, and mobile phone number documented in the intake record. Which of the following represents the most appropriate and legally mandated immediate course of action for the psychiatrist according to the Tarasoff ruling and professional medical ethics?",
+    "choices": [
+      [
+        "Immediately breach patient confidentiality to warn the intended victim (the ex-wife) and notify local law enforcement authorities to prevent imminent lethal violence",
+        "Under medical ethics and legal precedents established by the landmark California Supreme Court TARASOFF V. REGENTS OF THE UNIVERSITY OF CALIFORNIA (1976) rulings, the standard of medical confidentiality has a strict, mandatory exception: (1) THE TARASOFF DOCTRINE: A clinician has an affirmative legal and ethical 'DUTY TO PROTECT' (and 'DUTY TO WARN') when: (a) A patient communicates an EXPLICIT, CREDIBLE THREAT OF IMMINENT, SERIOUS PHYSICAL VIOLENCE OR HOMICIDE; AND (b) The threat is directed toward a SPECIFIC, FORESEEABLE, IDENTIFIABLE VICTIM OR GROUP OF VICTIMS; (2) MANDATORY DUAL ACTIONS: In the original Tarasoff ruling, the therapist notified the police, but the police failed to detain the patient and NO ONE WARNED THE VICTIM, who was subsequently murdered. Therefore, modern Tarasoff statutes require the clinician to: (a) IMMEDIATELY NOTIFY LOCAL LAW ENFORCEMENT; AND (b) DIRECTLY WARN THE INTENDED VICTIM (or make reasonable efforts to contact them); (3) BREACH OF CONFIDENTIALITY: This is an exception to HIPAA and medical confidentiality; preserving confidentiality when an identifiable human being faces imminent homicide is an egregious ethical and legal failure; and (4) If the threat is vague or non-specific (e.g., 'I want to punch someone'), Tarasoff does not apply, but specific, lethal threats mandate immediate protective action."
+      ],
+      [
+        "Maintain strict patient confidentiality under HIPAA regulations, as mental health records are permanently confidential",
+        "HIPAA explicitly contains an emergency exception permitting disclosure of protected health information to avert a serious and imminent threat to safety."
+      ],
+      [
+        "Attempt to call the patient's mobile phone repeatedly to schedule an emergency psychotherapy appointment tomorrow morning",
+        "Calling the patient's phone does not protect the victim who is about to be ambushed in her driveway tonight."
+      ],
+      [
+        "File an unaddressed report with the state medical board within 30 days regarding the violent statements",
+        "Medical boards regulate professional licensure, not imminent homicide prevention; immediate police and victim notification is mandatory."
+      ],
+      [
+        "Notify only the patient's parents and instruct them to search his truck for firearms without contacting the police",
+        "Relying on family members is completely inadequate and places relatives in grave danger; law enforcement and the victim must be alerted."
+      ]
+    ],
+    "shortestValidSolution": "Patient buys gun and specifically plans to shoot named ex-wife tonight = Tarasoff duty to warn and protect (call police AND warn ex-wife immediately; breach confidentiality).",
+    "necessaryInference": "Apply the Tarasoff ruling: breach patient confidentiality immediately to notify law enforcement and warn the specific, identifiable victim facing a credible, imminent threat of serious physical violence.",
+    "strongestDistractor": "Maintain strict patient confidentiality under HIPAA regulations, as mental health records are permanently confidential",
+    "distractorExclusion": "Patient confidentiality ends where an imminent, identifiable threat to human life begins; failing to warn the victim and alert police is actionable negligence.",
+    "citation": "Fox PK. Commentary: so the pendulum swings--making sense of the duty to protect. J Am Acad Psychiatry Law. 2010. PMID: 21156905.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 psychiatry item requiring multi-step deduction on tarasoff duty to warn and protect identifiable third parties from violence.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0988",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "General Principles",
+    "topic": "Elder Abuse and Neglect Mandatory Reporting to Adult Protective Services",
+    "provisionalDifficulty": 4,
+    "stem": "An 82-year-old woman with moderate Alzheimer dementia is brought to the primary care clinic by her adult son, who serves as her primary live-in caregiver and receives her monthly Social Security checks. During the physical examination, the son insists on remaining in the room, but the physician gently requests that he wait in the reception area to perform a private total-body skin examination. Physical examination reveals an emaciated, unkempt woman with strong urine odor and dry oral mucous membranes (weight loss of 7 kg over 4 months). Cutaneous examination reveals multiple bilateral ecchymoses of varying ages on her upper arms in patterns consistent with finger-grip squeeze marks, as well as two Stage 3 sacral and ischial pressure ulcers with foul-smelling purulent drainage that have clearly been neglected. When asked quietly about her injuries, the patient looks fearful, lowers her eyes, and whispers: 'My son gets very angry when I soil myself; please don't tell him I said anything or he will lock me in the bedroom again.' The son is waiting in the lobby. Which of the following represents the most appropriate, legally mandated next step in management for the physician?",
+    "choices": [
+      [
+        "Immediate filing of a mandatory report of suspected elder abuse and neglect to Adult Protective Services (APS) or local law enforcement, and admitting the patient to the hospital for acute medical stabilization and safety",
+        "ELDER MALTREATMENT encompasses physical abuse, psychological abuse, financial exploitation, caregiver neglect, and sexual abuse of older adults. Clinical and legal principles: (1) MANDATORY REPORTING LAWS: In virtually all 50 states, HEALTHCARE PROFESSIONALS ARE STATUTORILY MANDATED REPORTERS of suspected elder abuse, neglect, or exploitation. The legal threshold for reporting is REASONABLE SUSPICION\u2014PROOF OR CERTAINTY IS NOT REQUIRED; (2) OBJECTIVE HALLMARKS IN THIS PATIENT: (a) Multiple bruises of varying colors/stages, specifically patterned 'finger-grip' marks on upper arms; (b) Unexplained rapid weight loss, severe dehydration, and malnutrition; (c) Neglected advanced pressure injuries (Stage 3 decubiti); (d) Confinement/isolation ('locks me in bedroom'); and (e) Patient fearfulness and direct disclosure; (3) IMMEDIATE MANAGEMENT PRIORITIES: (a) HOSPITAL ADMISSION: The patient has acute medical issues (infected decubitus ulcers, severe malnutrition, dehydration) that justify immediate hospital admission, which simultaneously guarantees an IMMEDIATE SAFE ENVIRONMENT and separates her from the abusive caregiver; and (b) IMMEDIATE NOTIFICATION OF ADULT PROTECTIVE SERVICES (APS) and/or hospital social work and law enforcement; and (4) The physician must NOT confront the suspected abuser directly in the clinic, as this can provoke retaliatory violence against the vulnerable elder."
+      ],
+      [
+        "Directly confronting the son in the reception lobby and threatening him with criminal prosecution before reporting",
+        "Confronting the abuser escalates tension, risks immediate violence in the clinic, and may cause the abuser to remove the victim and flee before authorities arrive."
+      ],
+      [
+        "Discharging the patient home with oral antibiotics for her decubitus ulcers and scheduling follow-up in 2 weeks",
+        "Discharging an abused elder back into the custody of an abusive caregiver constitutes medical negligence and endangers her life."
+      ],
+      [
+        "Respecting patient confidentiality by withholding any report because the patient asked not to tell her son",
+        "Mandatory reporting statutes specifically override patient confidentiality in suspected elder abuse, child abuse, and vulnerable adult neglect."
+      ],
+      [
+        "Prescribing high-dose sedatives to the patient to reduce agitation and ease the son's caregiving burden",
+        "Administering sedatives in an abused elder impairs mobility, worsens decubiti, increases fall risk, and enables further neglect."
+      ]
+    ],
+    "shortestValidSolution": "Demented elder with finger-grip bruises, neglected Stage 3 ulcers, malnutrition, and fear of son = Mandatory report to Adult Protective Services (APS) + hospitalize for safety.",
+    "necessaryInference": "Apply elder abuse mandatory reporting laws: report reasonable suspicion of elder abuse and neglect to Adult Protective Services, hospitalizing the patient to ensure immediate safety.",
+    "strongestDistractor": "Directly confronting the son in the reception lobby and threatening him with criminal prosecution before reporting",
+    "distractorExclusion": "Confronting the suspected abuser puts the victim at immediate risk of severe retaliation; clinicians must secure patient safety and report to Adult Protective Services.",
+    "citation": "Todorov J. Identifying and responding to abuse of older people: a scoping review of dental care professionals' practices. J Elder Abuse Negl. 2026 Aug-Oct. PMID: 42417736.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 geriatrics item requiring multi-step deduction on elder abuse and neglect mandatory reporting to adult protective services.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0989",
+    "exam": "Step 3",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Child Physical Abuse Non-Accidental Trauma Mandatory Reporting Protocols",
+    "provisionalDifficulty": 4,
+    "stem": "A 4-month-old infant is brought to the pediatric emergency department by his mother's boyfriend. The boyfriend reports that the infant was lying on the living room sofa and 'rolled off' onto a carpeted floor from a height of approximately 45 cm (18 inches) while he stepped into the kitchen for 30 seconds. Since that time, the infant has been crying continuously and refusing to bear weight or move his right leg. The infant was born full-term with normal developmental milestones; his mother reported at his 2-month checkup that he had not yet begun rolling over. Physical examination reveals an irritable, crying infant who calms transiently when held. Vital signs are normal. Examination of the right lower extremity demonstrates swelling, tenderness, and localized warmth over the mid-shaft of the right femur; there are no overlying abrasions, lacerations, or contusions. Thorough total-body skin inspection reveals three distinct, circular, 8-mm superficial burns in various stages of healing on the infant's lower back. Plain radiographs of the right lower extremity demonstrate an acute, displaced mid-shaft spiral fracture of the right femur. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      [
+        "Immediate notification and filing of a mandatory report of suspected child physical abuse with Child Protective Services (CPS) and hospitalizing the infant for safety and comprehensive skeletal survey",
+        "NON-ACCIDENTAL TRAUMA (child physical abuse) is a pediatric emergency mandating vigilant diagnostic recognition and immediate protective intervention: (1) STATUTORY MANDATORY REPORTING: All physicians and healthcare professionals are LEGALLY MANDATED REPORTERS of suspected child maltreatment. The legal standard requires only REASONABLE SUSPICION, NOT DEFINITIVE PROOF; (2) INCONGRUENT INJURY MECHANISM: A 4-month-old infant cannot developmentally roll over (developmental milestone occurs at 4 to 6 months); rolling off a low sofa onto carpet cannot generate the torsional biomechanical kinetic energy required to produce a displaced spiral femoral fracture. Furthermore, circular burns (classic for cigarette contact burns) confirm physical maltreatment; (3) MANDATORY WORKUP IN INFANTS < 2 YEARS: (a) HOSPITAL ADMISSION: Mandatory to provide an immediate safe environment and protect the child from ongoing abuse; (b) FULL SKELETAL SURVEY (plain radiographs of skull, thorax, long bones, spine, hands, feet) to detect occult or healing fractures; (c) Non-contrast head CT and dilated ophthalmologic fundoscopy to evaluate for abusive head trauma (shaken baby syndrome, subdural hematoma, retinal hemorrhages); and (d) Screening for occult abdominal trauma (liver/pancreatic enzymes, urinalysis); and (4) The physician must NOT discharge the infant to the caregiver or attempt an independent interrogation of the boyfriend."
+      ],
+      [
+        "Discharge home in a Pavlik harness with close follow-up in the pediatric orthopedic clinic in 48 hours",
+        "Discharging an abused infant back into an abusive environment carries a high risk of fatal re-injury or homicide."
+      ],
+      [
+        "Confront the boyfriend directly in the examination room and demand a confession before taking action",
+        "Confronting the suspected abuser may provoke physical violence in the department or cause the caregiver to flee with the child."
+      ],
+      [
+        "Perform an open reduction and internal fixation of the femur in the operating room without social work involvement",
+        "Addressing orthopedic fractures while ignoring non-accidental trauma and failing to report abuse is medical negligence."
+      ],
+      [
+        "Order serum osteocalcin and type I collagen genetic testing to rule out osteogenesis imperfecta before reporting",
+        "While osteogenesis imperfecta can cause fractures, cigarette burns and an impossible fall history establish reasonable suspicion for mandatory CPS reporting."
+      ]
+    ],
+    "shortestValidSolution": "4-month-old with spiral femur fracture + circular burns + impossible 'rolling' story = Mandatory report to CPS + hospitalize + full skeletal survey.",
+    "necessaryInference": "Apply child abuse mandatory reporting laws: report reasonable suspicion of non-accidental trauma to Child Protective Services, admit the child for safety, and complete a full skeletal survey.",
+    "strongestDistractor": "Discharge home in a Pavlik harness with close follow-up in the pediatric orthopedic clinic in 48 hours",
+    "distractorExclusion": "Discharging a victim of non-accidental trauma to caregivers without protective child welfare involvement carries a >30-50% risk of recurrent severe trauma or death.",
+    "citation": "Mora-Theuer EA. Follow-up of suspected child maltreatment cases treated at a tertiary child protection service facility. Eur J Pediatr. 2026 Feb 23. PMID: 41731190.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 pediatrics item requiring multi-step deduction on child physical abuse non-accidental trauma mandatory reporting protocols.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0990",
+    "exam": "Step 3",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "Adolescent Confidentiality and Minor Consent for Sensitive Healthcare Services",
+    "provisionalDifficulty": 4,
+    "stem": "A 16-year-old high school student presents to an outpatient family medicine clinic accompanied by her mother for an annual pre-sports physical examination. The patient appears quiet and subdued. During the clinical encounter, the physician politely requests that the mother step into the waiting area for a portion of the visit to conduct a confidential adolescent interview. When the mother leaves, the adolescent confides that she became sexually active with her boyfriend 2 months ago and is experiencing mild lower abdominal cramping and an unusual vaginal discharge. She expresses intense terror that her mother will find out, stating: 'My parents are deeply religious. If my mother finds out I am sexually active, she will kick me out of the house. Please do not tell her.' Physical examination reveals mild purulent cervical discharge with cervical motion tenderness; pregnancy testing is negative, and nucleic acid amplification testing (NAAT) confirms Chlamydia trachomatis infection. She is treated with oral doxycycline 100 mg twice daily for 7 days. After the examination, the mother re-enters the room and angrily demands to know every detail of what her daughter discussed and what tests were performed. Which of the following is the most ethically and legally appropriate response by the physician?",
+    "choices": [
+      [
+        "Maintain adolescent confidentiality, explaining to the mother that state law and medical ethics protect confidential care for sensitive adolescent healthcare, while encouraging the adolescent to talk with her parents",
+        "CONFIDENTIALITY IN ADOLESCENT HEALTHCARE is an established ethical and legal standard supported by the American Academy of Pediatrics (AAP), Society for Adolescent Health and Medicine (SAHM), and state statutes: (1) MINOR CONSENT LAWS: In all 50 states, MINORS HAVE THE LEGAL RIGHT TO INDEPENDENTLY CONSENT TO CONFIDENTIAL HEALTHCARE SERVICES FOR: (a) Contraception and sexual reproductive healthcare; (b) Sexually transmitted infection (STI) screening, diagnosis, and treatment; (c) Substance use disorder evaluation and outpatient therapy; and (d) Outpatient mental health counseling (in most jurisdictions); (2) ABSOLUTE DUTY OF CONFIDENTIALITY: Clinicians CANNOT DISCLOSE confidential sensitive services to parents or guardians without the minor's explicit permission. Breaching confidentiality violates medical ethics, destroys adolescent trust, and causes adolescents to avoid seeking essential testing and treatment for STIs, pregnancy, or substance use; (3) EXCEPTIONS TO ADOLESCENT CONFIDENTIALITY: Confidentiality can be breached ONLY when the adolescent poses an IMMINENT, SERIOUS DANGER TO SELF (active suicidal ideation with plan) OR OTHERS (homicidal threats), or is a victim of physical/sexual abuse; and (4) The physician should respectfully decline the mother's demand, explain legal confidentiality protections, and offer to facilitate a supportive dialogue between mother and daughter if the daughter feels safe."
+      ],
+      [
+        "Disclose the full Chlamydia diagnosis and prescription details to the mother, as parents have absolute legal rights to all medical records of minor children",
+        "Federal HIPAA and state minor-consent laws explicitly protect adolescent confidentiality for STIs, overriding parental record access."
+      ],
+      [
+        "Refuse to provide treatment for the Chlamydia infection unless the daughter gives written permission to inform her mother",
+        "Conditioning necessary antimicrobial therapy for an active pelvic infection on parental disclosure is coercive and violates medical ethics."
+      ],
+      [
+        "Inform the high school sports athletic department that the student is medically disqualified due to pelvic infection",
+        "Disclosing confidential reproductive health information to a school athletic department is an egregious violation of HIPAA."
+      ],
+      [
+        "Contact Child Protective Services to report the mother for emotional distress caused by questioning the daughter",
+        "A parent asking questions about her child's health does not constitute child abuse or neglect; CPS reporting is completely unwarranted."
+      ]
+    ],
+    "shortestValidSolution": "16yo girl with Chlamydia begs doctor not to tell mother = Maintain adolescent confidentiality (all states protect minor consent for STIs and contraception).",
+    "necessaryInference": "Apply adolescent confidentiality principles: uphold a minor's legal right to confidential care for sexually transmitted infections, contraception, and substance use without parental disclosure.",
+    "strongestDistractor": "Disclose the full Chlamydia diagnosis and prescription details to the mother, as parents have absolute legal rights to all medical records of minor children",
+    "distractorExclusion": "State minor-consent laws explicitly protect confidentiality for STIs; breaching confidentiality causes adolescents to forgo care and endangers patient safety.",
+    "citation": "McEvoy A. Well-Child Care: Adolescents. FP Essent. 2025 Jun. PMID: 40523125.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 pediatrics item requiring multi-step deduction on adolescent confidentiality and minor consent for sensitive healthcare services.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0991",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Determination of Brain Death by Neurologic Criteria and Apnea Testing",
+    "provisionalDifficulty": 5,
+    "stem": "A 36-year-old man is admitted to the neurointensive care unit following a severe traumatic brain injury sustained in a high-speed motor vehicle collision. Emergency decompressive craniectomy and intracranial pressure monitor placement were performed. Over the past 12 hours, his intracranial pressure has risen above mean arterial pressure, and his neurological examination has ceased all responsiveness. The neurocritical care team initiates formal evaluation for DETERMINATION OF DEATH BY NEUROLOGIC CRITERIA (BRAIN DEATH). All prerequisite criteria are verified: an irreversible proximate etiology (catastrophic traumatic brain trauma) is documented on CT; core body temperature is normal at 37.0 C; systolic blood pressure is maintained at 116 mm Hg on a low-dose phenylephrine infusion; and comprehensive toxicology screen is negative with all sedative and paralytic infusions discontinued for >5 elimination half-lives. Comprehensive neurological examination reveals: deeply comatose state (GCS 3), bilaterally fixed and dilated pupils (8 mm, non-reactive to intense light), absent corneal reflexes, absent oculocephalic and oculovestibular (cold caloric) reflexes, absent gag and cough reflexes to deep endotracheal suctioning, and absence of motor response to noxious nail-bed and supraorbital stimulation. The ICU team proceeds with formal APNEA TESTING: pre-oxygenation with 100% FiO2 for 15 minutes is performed, arterial blood gas demonstrates baseline PaCO2 40 mm Hg and PaO2 380 mm Hg, and the patient is disconnected from the mechanical ventilator with 100% oxygen delivered via an insufflation catheter down the endotracheal tube at 6 L/min. Continuous hemodynamic monitoring is maintained. Over the next 8 minutes, the patient exhibits no respiratory efforts or chest wall movement whatsoever. Repeat arterial blood gas reveals: pH 7.16, PaO2 260 mm Hg, and PaCO2 68 mm Hg. Which of the following is the most accurate clinical, legal, and ethical conclusion regarding this patient?",
+    "choices": [
+      [
+        "The patient meets all clinical and physiological criteria for Brain Death (Death by Neurologic Criteria), establishing legal death, and mechanical ventilation can be discontinued following coordination with the regional organ procurement organization",
+        "DETERMINATION OF DEATH BY NEUROLOGIC CRITERIA (BRAIN DEATH) is legally and ethically recognized in all 50 states (Uniform Determination of Death Act [UDDA]) as COMPLETE, IRREVERSIBLE CESSATION OF ALL FUNCTIONS OF THE ENTIRE BRAIN, INCLUDING THE BRAINSTEM: (1) PREREQUISITES: (a) Documented irreversible etiology; (b) Normothermia (core temp >= 36.0 C / 96.8 F); (c) Hemodynamic stability (systolic BP >= 100 mm Hg); and (d) Absence of CNS depressant drugs, neuromuscular blockade, or severe metabolic/electrolyte derangements; (2) CLINICAL BRAINSTEM EXAMINATION: Complete coma, absence of pupillary response, corneal reflexes, oculocephalic/vestibular reflexes, gag reflex, cough reflex, and absence of central motor response; (3) APNEA TEST CRITERIA: The apnea test is positive (confirms absent medullary respiratory drive) when: (a) Patient exhibits ZERO RESPIRATORY EFFORTS during apnea; AND (b) ARTERIAL PaCO2 INCREASES TO >= 60 MM HG (OR RISES >= 20 MM HG ABOVE BASELINE) accompanied by respiratory acidosis (pH < 7.30); (4) CONCLUSION: Here, PaCO2 reached 68 mm Hg with pH 7.16 and zero respiratory movements; therefore, BRAIN DEATH IS CONCLUSIVELY ESTABLISHED. THE PATIENT IS LEGALLY AND CLINICALLY DEAD; and (5) LEGAL AND ETHICAL REALITY: Brain death IS death. Family consent is NOT required to declare death or discontinue mechanical ventilation, although compassionate communication and immediate coordination with the regional Organ Procurement Organization (OPO) must occur before ventilator withdrawal."
+      ],
+      [
+        "The apnea test is negative because PaCO2 did not exceed 80 mm Hg, requiring an additional 15 minutes of disconnected observation",
+        "Apnea criteria require PaCO2 >= 60 mm Hg (or >=20 above baseline); 68 mm Hg fully satisfies the threshold; prolonging apnea risks cardiac arrest."
+      ],
+      [
+        "Brain death cannot be declared without mandatory four-vessel cerebral catheter angiography to confirm absence of intracranial blood flow",
+        "Confirmatory ancillary tests (angiography, EEG) are indicated ONLY when the apnea test or clinical exam cannot be completed safely."
+      ],
+      [
+        "The patient remains legally alive because mechanical cardiac contractions and cardiac electrical activity persist",
+        "Somatic cardiac automaticity persists transiently after brain death; the legal definition of death includes irreversible cessation of brain function."
+      ],
+      [
+        "Mechanical ventilation must be maintained indefinitely unless the patient's family signs a formal consent waiver",
+        "Brain death is legal death; family consent is not required to discontinue mechanical ventilation after death is pronounced."
+      ]
+    ],
+    "shortestValidSolution": "Coma + absent brainstem reflexes + positive apnea test (zero breaths, PaCO2 68 >= 60, pH 7.16) = Legally brain dead (contact organ procurement organization).",
+    "necessaryInference": "Apply criteria for death by neurologic criteria (brain death): verify prerequisites, complete brainstem reflex absence, and positive apnea test (PaCO2 >= 60 mm Hg or >=20 above baseline with no respiratory effort).",
+    "strongestDistractor": "The apnea test is negative because PaCO2 did not exceed 80 mm Hg, requiring an additional 15 minutes of disconnected observation",
+    "distractorExclusion": "The diagnostic threshold for apnea is PaCO2 >= 60 mm Hg with absent respiratory effort; requiring 80 mm Hg is an erroneous and hazardous delay.",
+    "citation": "Mand N. Death by neurologic criteria and organ donation in German pediatric intensive care units-data from the PIA network. Front Pediatr. 2026. PMID: 42996296.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on determination of brain death by neurologic criteria and apnea testing.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0992",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Medically Non-Beneficial Treatment Ethics Committee Consultation",
+    "provisionalDifficulty": 4,
+    "stem": "A 78-year-old man with metastatic cholangiocarcinoma, severe refractory hepatic failure (bilirubin 32 mg/dL, refractory coagulopathy), anuric acute renal failure, and multiorgan failure secondary to septic shock is hospitalized in the intensive care unit. He is mechanically ventilated and requires maximum-dose infusions of three vasopressors (norepinephrine, epinephrine, vasopressin) to maintain a mean arterial pressure of 52 mm Hg. His arterial lactate is 14.8 mmol/L and climbing. The critical care team, palliative care specialists, and hospitalist agree that the patient is in active, irreversible dying and that cardiopulmonary resuscitation (CPR) in the event of cardiac arrest would be physiologically futile, providing zero possibility of restoring spontaneous circulation and merely causing rib fractures, electrical shocks, and undignified somatic mutilation. The team recommends transitioning to a Do-Not-Resuscitate (DNR) status with comfort care. However, the patient's surrogate decision-maker (his son) adamantly refuses, demanding that 'everything possible, including CPR and chest compressions' be performed if his heart stops, stating that a miracle may happen. Which of the following is the most appropriate, guideline-directed conflict resolution process according to the AMA and multi-society consensus statements on medically non-beneficial treatment?",
+    "choices": [
+      [
+        "Engage in intensive interdisciplinary communication, offer palliative care and chaplaincy support, obtain a formal second clinical opinion, and convene the hospital clinical ethics committee for structured conflict resolution",
+        "Conflicts regarding MEDICALLY NON-BENEFICIAL (FUTILE) LIFE-SUSTAINING TREATMENT represent complex clinical, ethical, and legal dilemmas. Guidelines from the AMA Code of Medical Ethics, Society of Critical Care Medicine (SCCM), and American Thoracic Society (ATS) outline a standardized MULTI-STEP CONFLICT RESOLUTION PROCESS: (1) DEFINITION: Treatment is considered medically non-beneficial when it has no realistic physiological possibility of achieving its intended clinical goal (here, CPR cannot restore sustained circulation in irreversible multi-organ failure and refractory shock); (2) STRUCTURED RESOLUTION PROTOCOL: (a) INTENSIVE, COMPASSIONATE COMMUNICATION: Meet repeatedly with the family to understand their cultural, religious, and emotional values (e.g., addressing 'waiting for a miracle'); (b) INVOLVE MULTIDISCIPLINARY SUPPORT: Palliative care, hospital chaplaincy, and social work to support the grieving family; (c) INDEPENDENT SECOND OPINION: Obtain an independent medical evaluation from an uninvolved physician to confirm non-beneficence; and (d) FORMAL HOSPITAL CLINICS ETHICS COMMITTEE REVIEW; (3) UNILATERAL ACTIONS: Unilateral DNR orders without structured process or family notification violate due process; and (4) TRANSFER OPTION: If conflict persists after ethics review, the family is given the opportunity to transfer the patient to an alternate institution; if no facility accepts, life-prolonging interventions may be ethically withheld."
+      ],
+      [
+        "Unilaterally write a secret 'slow code' order instructing nurses to perform gentle, symbolic chest compressions without defibrillation",
+        "'Slow codes' (symbolic or fake CPR) are deceptive, fraudulent, unethical, and universally condemned by all medical professional societies."
+      ],
+      [
+        "Immediately override the surrogate and enter a unilateral DNR order without notifying the family or ethics committee",
+        "Unilateral DNR orders entered without transparent communication, second opinions, or ethics committee review violate legal and ethical due process."
+      ],
+      [
+        "Agree with the son and order immediate escalation to extracorporeal membrane oxygenation (ECMO) and hemodialysis",
+        "Initiating highly invasive, non-beneficial ECMO in irreversible septic shock with hepatic failure causes severe patient suffering without benefit."
+      ],
+      [
+        "Discharge the patient from the intensive care unit immediately to an outpatient nursing facility",
+        "Discharging an unstable patient on maximum vasopressors with lactate 14.8 is medical abandonment and malpractice."
+      ]
+    ],
+    "shortestValidSolution": "Surrogate demands CPR for patient dying of irreversible septic shock and multi-organ failure = Palliative support + second opinion + ethics committee review (never slow codes).",
+    "necessaryInference": "Apply the multi-society consensus framework for resolving conflicts over medically non-beneficial life-sustaining treatments: communication, second opinions, and formal ethics committee review.",
+    "strongestDistractor": "Unilaterally write a secret 'slow code' order instructing nurses to perform gentle, symbolic chest compressions without defibrillation",
+    "distractorExclusion": "Slow codes deceive families and corrupt clinical integrity; ethical guidelines demand honest communication and formal ethics consultation over deception.",
+    "citation": "Turnbull AE. Aligning use of intensive care with patient values in the USA: past, present, and future. Lancet Respir Med. 2019 Jul. PMID: 31122892.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 ethics item requiring multi-step deduction on medically non-beneficial treatment ethics committee consultation.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0993",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Physician-Industry Financial Relationships and Pharmaceutical Gifts Ethics",
+    "provisionalDifficulty": 4,
+    "stem": "A pharmaceutical sales representative visits an outpatient cardiology clinic to promote a newly approved, expensive branded oral anticoagulant (DOAC). During the meeting, the representative offers the clinic cardiologist the following four incentives if the cardiologist agrees to write at least 20 new prescriptions for the branded drug over the next 3 months: (1) An all-expenses-paid weekend stay at a luxury ski resort for the cardiologist and his spouse; (2) A $2,500 'consulting stipend' for attending an evening promotional dinner lecture; (3) Personalized golf balls and branded leather pens; and (4) Anatomical anatomical plastic heart models for patient education and free patient drug starter samples. According to the ethical guidelines established by the American Medical Association (AMA) Code of Medical Ethics and the American College of Physicians (ACP), which of the following items is ethically permissible for the physician to accept?",
+    "choices": [
+      [
+        "Patient educational anatomical models and free drug starter samples intended directly for patient benefit, while declining all personal gifts, luxury resort travel, and branded pens",
+        "ETHICAL GUIDELINES ON PHYSICIAN-INDUSTRY RELATIONSHIPS (AMA Code of Medical Ethics Opinion 9.2.6, ACP Ethics Manual, and PhRMA Code on Interactions with Healthcare Professionals) establish clear boundaries to protect professional objectivity and prevent conflicts of interest: (1) PERSONAL GIFTS AND ENTERTAINMENT ARE STRICTLY UNETHICAL: Physicians should NOT accept any personal gifts, luxury travel, resort accommodations, entertainment tickets (sporting events, theater), or recreational items from pharmaceutical or medical device companies, regardless of value. Even small branded gifts (pens, notepads, golf balls) establish subtle subconscious psychological feelings of reciprocity and obligation that demonstrably alter prescribing patterns; (2) FINANCIAL STIPENDS / SPEAKER PROGRAMS: Accepting speaking or consulting fees that are contingent on prescribing quotas or attending promotional dinners constitutes illegal kickbacks under the federal Anti-Kickback Statute; (3) ETHICALLY PERMISSIBLE ITEMS: (a) Items of modest value that DIRECTLY BENEFIT PATIENTS OR PATIENT EDUCATION (e.g., anatomical models, patient disease education brochures); and (b) DRUG STARTER SAMPLES for patients with financial hardship or to initiate immediate therapy; and (4) CME SPONSORSHIP: Financial support for continuing medical education (CME) must go through the independent conference sponsor, never directly to individual physicians."
+      ],
+      [
+        "The luxury ski resort weekend stay, provided the physician attends a mandatory 1-hour breakfast lecture on anticoagulation",
+        "Accepting resort travel or lodging for educational lectures creates an undeniable conflict of interest and violates AMA ethical standards."
+      ],
+      [
+        "The $2,500 consulting stipend, because educational dinner meetings are legally recognized as consulting services",
+        "Accepting honoraria contingent on prescribing quotas violates federal Anti-Kickback statutes and AMA ethical guidelines."
+      ],
+      [
+        "All four offered items, because physicians are fully immune to subconscious marketing bias and make purely rational prescribing choices",
+        "Extensive behavioral economic research proves that physicians are universally influenced by marketing gifts regardless of subjective intent."
+      ],
+      [
+        "The personalized golf balls and leather pens only, because their monetary value is less than $100",
+        "Small personal novelty gifts (pens, golf balls) are banned under PhRMA and AMA guidelines because they create subconscious prescribing bias."
+      ]
+    ],
+    "shortestValidSolution": "Pharma rep offers ski trip, $2,500 stipend, branded pens, and patient educational models = Accept ONLY patient educational models/samples (decline all personal gifts).",
+    "necessaryInference": "Apply AMA/ACP ethical guidelines on physician-industry relationships: accept only items that directly benefit patients or patient education, rejecting all personal gifts, luxury travel, and financial incentives.",
+    "strongestDistractor": "The personalized golf balls and leather pens only, because their monetary value is less than $100",
+    "distractorExclusion": "Even small branded novelty items (pens, pads) establish subconscious reciprocity biases; modern ethical codes prohibit all personal promotional gifts.",
+    "citation": "Mintzes B. Pharmaceutical industry information and promotional strategies aimed at prescribers. Cochrane Database Syst Rev. 2026 Oct 9. PMID: 42849912.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 ethics item requiring multi-step deduction on physician-industry financial relationships and pharmaceutical gifts ethics.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0994",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Crisis Standards of Care and Utilitarian Triage During Resource Scarcity",
+    "provisionalDifficulty": 5,
+    "stem": "During a catastrophic respiratory pandemic surge, a metropolitan hospital operates under officially declared CRISIS STANDARDS OF CARE. The hospital intensive care unit has reached 100% capacity, all auxiliary ventilators are in use, and exactly ONE remaining mechanical ventilator is available. Simultaneously, two critically ill patients with severe hypoxemic respiratory failure present to the emergency department requiring immediate mechanical ventilation to survive: Patient A is a 38-year-old schoolteacher with severe viral pneumonia and acute respiratory distress syndrome (baseline healthy, expected 80% probability of short-term survival with 2 weeks of mechanical ventilation); Patient B is an 84-year-old retired hospital benefactor and major philanthropic donor with severe viral pneumonia, severe underlying chronic obstructive pulmonary disease on home oxygen, and end-stage congestive heart failure (expected short-term survival <15%). A hospital board member calls the emergency department suggesting that Patient B be allocated the ventilator because of his immense lifelong financial contributions to the hospital community. Which of the following represents the most ethically defensible and guideline-directed resource allocation framework according to the Institute of Medicine (National Academy of Medicine) Crisis Standards of Care?",
+    "choices": [
+      [
+        "Allocate the scarce ventilator based on an objective, transparent, utilitarian framework (such as sequential organ failure assessment [SOFA] score and short-term survival potential) administered by an independent triage officer/team, without consideration of social worth or financial status",
+        "Under declared CRISIS STANDARDS OF CARE (National Academy of Medicine / Institute of Medicine framework), conventional patient-centered care transitions to a PUBLIC HEALTH / UTILITARIAN ETHICAL FRAMEWORK: (1) OBJECTIVE OF CRISIS TRIAGE: The primary ethical goal is to MAXIMIZE POPULATION BENEFIT (saving the greatest number of lives and life-years) using fair, transparent, and consistent criteria; (2) OBJECTIVE CLINICAL ALLOCATION SCORING: Scarce life-sustaining resources (ventilators, ICU beds, ECMO) must be allocated using OBJECTIVE PHYSIOLOGICAL SCORING SYSTEMS (such as the Sequential Organ Failure Assessment [SOFA] score, assessing multiorgan dysfunction) coupled with individualized assessment of SHORT-TERM SURVIVAL POTENTIAL. Patient A has an 80% short-term survival probability, whereas Patient B has advanced multiorgan failure with <15% survival; (3) INDEPENDENT TRIAGE OFFICER / COMMITTEE: Triage decisions must be made by a DESIGNATED TRIAGE OFFICER OR TRIAGE COMMITTEE who are NOT directly involved in the bedside care of the patients. This separates allocation decisions from bedside clinicians, preserving the fiduciary doctor-patient relationship; and (4) CATEGORICALLY UNETHICAL FACTORS: Allocation decisions MUST NEVER BE BASED ON: social worth, socioeconomic status, financial philanthropy, celebrity, race, gender, or preexisting chronic disability; (5) Patients not allocated a ventilator must receive aggressive palliative and comfort care."
+      ],
+      [
+        "Allocate the ventilator to Patient B based on his social worth and philanthropic contributions to the healthcare system",
+        "Allocating life-saving medical resources based on social worth, wealth, or philanthropy violates fundamental human dignity and distributive justice."
+      ],
+      [
+        "Allocate the ventilator using a random lottery or coin toss between Patient A and Patient B to ensure absolute mathematical equality",
+        "Lotteries ignore vast differences in survival potential (80% vs 15%), failing the primary public health ethical imperative to save the most lives."
+      ],
+      [
+        "Allow the bedside emergency physician to decide informally based on personal clinical intuition",
+        "Bedside clinicians should not make ad-hoc rationing decisions; an independent triage officer using standardized scoring is required to prevent bias."
+      ],
+      [
+        "Withhold the remaining ventilator from both patients and place it in reserve for incoming healthcare workers",
+        "Withholding an available life-saving resource when patients are in respiratory arrest causes immediate preventable death and violates crisis standards."
+      ]
+    ],
+    "shortestValidSolution": "Crisis standards of care with 1 ventilator for 2 patients = Objective scoring (SOFA / short-term survival) by independent triage team (never social worth/wealth).",
+    "necessaryInference": "Apply Crisis Standards of Care guidelines: allocate scarce life-sustaining resources using objective clinical survival metrics administered by an independent triage officer, rejecting social worth.",
+    "strongestDistractor": "Allocate the ventilator to Patient B based on his social worth and philanthropic contributions to the healthcare system",
+    "distractorExclusion": "Rationing based on perceived social value, wealth, or connections is fundamentally corrupt, violates civil rights, and destroys public trust.",
+    "citation": "Walsh BC. Simulating crisis triage: a methodological framework for evaluating ventilator allocation under crisis standards of care. BMC Med Res Methodol. 2026 May 26. PMID: 42192332.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 ethics item requiring multi-step deduction on crisis standards of care and utilitarian triage during resource scarcity.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0995",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Structured Clinical Handoff Communication I-PASS Bundle Implementation",
+    "provisionalDifficulty": 4,
+    "stem": "A quality improvement committee at an academic medical center investigates the root causes of preventable medical errors during night shifts. A retrospective audit reveals that communication breakdowns and omissions during physician sign-out (handoff) at shift change accounted for over 45% of preventable adverse events, including delayed diagnostic testing, medication administration omissions, and missed clinical deterioration. To address this vulnerability, the residency program adopts the evidence-based I-PASS HANDOFF BUNDLE across all inpatient medical services. Which of the following represents the correct standardized mnemonic components and sequence of the I-PASS structured handoff framework?",
+    "choices": [
+      [
+        "Illness severity, Patient summary, Action list, Situation awareness and contingency planning, and Synthesis by receiver",
+        "COMMUNICATION FAILURES DURING CLINICAL HANDOFFS are recognized by The Joint Commission and ACGME as the primary contributor to serious inpatient medical errors. The I-PASS HANDOFF BUNDLE was developed in a landmark multicenter study published in the New England Journal of Medicine (Starmer et al., 2014) and demonstrated a 23% REDUCTION IN PREVENTABLE MEDICAL ERRORS and a 30% reduction in preventable adverse events without increasing sign-out time. Core components of the I-PASS MNEMONIC: (1) I - ILLNESS SEVERITY: Categorizing the patient upfront as 'Stable', 'Watcher' (high risk of clinical deterioration), or 'Unstable' to establish situational urgency; (2) P - PATIENT SUMMARY: Structured summary of clinical presentation, hospital course, ongoing diagnoses, and current treatment plan; (3) A - ACTION LIST: Explicit to-do list with clear assigned responsibility and timeline ('check morning potassium, re-dose vancomycin at 22:00'); (4) S - SITUATION AWARENESS AND CONTINGENCY PLANNING: Explicit 'if-then' anticipatory guidance for nocturnal staff ('if systolic BP drops below 90, bolus 500 mL Lactated Ringer's; if unresponsive, call ICU fellow'); and (5) S - SYNTHESIS BY RECEIVER: The incoming receiver provides a brief verbal read-back summary, confirming accurate comprehension and asking clarifying questions. This active closed-loop communication ensures shared mental models."
+      ],
+      [
+        "Identification, Problem list, Assessment, Social history, and Signature by attending",
+        "This represents an informal documentation outline, lacking illness severity categorization, contingency planning, and closed-loop receiver synthesis."
+      ],
+      [
+        "Initial impression, Physical examination, Antibiotic duration, Surgical site check, and Sign-out time",
+        "This is an unvalidated ad-hoc checklist that omits contingency planning, action lists, and structured closed-loop read-back."
+      ],
+      [
+        "Introduction, Patient demographics, Allergies, Sedation score, and Safety precautions",
+        "Demographics and allergies are routine chart data; I-PASS specifically structures illness severity, action items, and contingency plans."
+      ],
+      [
+        "Investigation, Prognosis, Admission date, Specialty consults, and Social work plan",
+        "Omits illness severity stratification, 'if-then' contingency planning, and receiver closed-loop synthesis."
+      ]
+    ],
+    "shortestValidSolution": "Standardized handoff framework reducing errors by 23% = I-PASS (Illness severity, Patient summary, Action list, Situation awareness/contingency, Synthesis by receiver).",
+    "necessaryInference": "Identify the standardized components of the evidence-based I-PASS handoff communication framework: Illness severity, Patient summary, Action list, Situation awareness, Synthesis by receiver.",
+    "strongestDistractor": "Identification, Problem list, Assessment, Social history, and Signature by attending",
+    "distractorExclusion": "Informal SOAP-style outlines lack the proactive 'if-then' contingency planning and mandatory closed-loop receiver synthesis that make I-PASS effective.",
+    "citation": "Osman ANA. Evaluating the Quality of Patient Handoff Communication in the Department of Medicine at Dongola Specialized Hospital. Cureus. 2025 Nov. PMID: 41346882.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on structured clinical handoff communication i-pass bundle implementation.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0996",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Medication Safety LASA Tall Man Lettering and Barcode Verification",
+    "provisionalDifficulty": 4,
+    "stem": "A hospitalized patient with hypertension inadvertently receives hydralazine 25 mg instead of the intended hydroxyzine 25 mg, resulting in sudden profound arterial hypotension and syncope. A hospital multidisciplinary medication safety committee investigates the incident and finds that LOOK-ALIKE AND SOUND-ALIKE (LASA) medication pairs account for multiple near-misses and dispensing errors across the health system (e.g., hydralazine vs hydroxyzine; vinblastine vs vincristine; buspirone vs bupropion). Which of the following represents the most effective human-factors engineering strategy and system-level defense recommended by the Institute for Safe Medication Practices (ISMP) and The Joint Commission to prevent dispensing and administration errors for LASA medications?",
+    "choices": [
+      [
+        "Implementation of FDA Tall Man lettering on packaging and computerized order entry screens, combined with barcode medication administration (BCMA) scanning at the bedside",
+        "LOOK-ALIKE / SOUND-ALIKE (LASA) medication errors are a frequent cause of severe patient harm in healthcare systems. The Institute for Safe Medication Practices (ISMP), FDA, and The Joint Commission recommend a hierarchy of SYSTEM-LEVEL AND HUMAN-FACTORS DEFENSES: (1) TALL MAN LETTERING: The practice of using UPPERCASE (CAPITALIZED) LETTERS within a drug name's spelling to highlight the differentiating syllables that distinguish it from look-alike medications (e.g., hydrALAZINE vs hydrOXYzine; predniSONE vs prednisoLONE; vinBLAStine vs vinCRIStine; buPROPion vs busPIRone). Tall Man lettering disrupts visual automaticity and draws clinical attention to the critical distinguishing characters; (2) BARCODE MEDICATION ADMINISTRATION (BCMA): Scanning the patient's identification wristband and the medication barcode at the bedside before administration acts as a HARD SYSTEM DEFENSE, alerting the nurse if the wrong drug, wrong dose, or wrong patient is scanned; (3) FORCING FUNCTIONS: Storing look-alike drugs in physically separated, distinct locations in automated dispensing cabinets (never in adjacent pockets); and (4) System-level engineering controls are vastly superior to weak interventions like warning stickers or instructions to 'be more vigilant.'"
+      ],
+      [
+        "Affixing fluorescent warning stickers on all medication carts instructing nurses to read labels twice",
+        "Warning stickers represent weak human-factor interventions that rapidly cause visual habituation and alarm fatigue without preventing errors."
+      ],
+      [
+        "Requiring physicians to write all medication orders by hand rather than using computerized order entry",
+        "Handwritten prescriptions dramatically increase illegibility errors, decimal point confusion, and transcription mistakes."
+      ],
+      [
+        "Banning the use of all look-alike and sound-alike medications from the hospital formulary completely",
+        "Eliminating essential cardiovascular and psychiatric medications because of phonetic similarity is clinically impossible and harms patient care."
+      ],
+      [
+        "Relying exclusively on verbal phone orders between nurses and pharmacists during night shifts",
+        "Verbal phone orders have the highest rates of phonetic sound-alike misunderstandings and are a major source of medication disasters."
+      ]
+    ],
+    "shortestValidSolution": "Preventing look-alike sound-alike (LASA) errors (hydralazine vs hydroxyzine) = Tall Man lettering (hydrALAZINE vs hydrOXYzine) + bedside barcode scanning.",
+    "necessaryInference": "Apply system-level medication safety defenses: select Tall Man lettering, barcode medication administration (BCMA), and physical separation to prevent LASA drug errors.",
+    "strongestDistractor": "Affixing fluorescent warning stickers on all medication carts instructing nurses to read labels twice",
+    "distractorExclusion": "Warning stickers rely on human vigilance and fail due to visual habituation; forcing functions like Tall Man lettering and barcode verification provide resilient system defenses.",
+    "citation": "Rangel JG. Impact of Medication-Related Problems in Hospitalized Patients Eligible for Palliative Care: A Prospective Cohort Study. J Pain Symptom Manage. 2026 Sep 24. PMID: 42785578.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on medication safety lasa tall man lettering and barcode verification.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0997",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Cognitive Biases in Clinical Reasoning Anchoring and Premature Closure",
+    "provisionalDifficulty": 4,
+    "stem": "A 52-year-old woman is admitted to the medical service with shortness of breath and pleuritic chest pain. The emergency department triage note reads: '52-year-old woman with acute anxiety and panic attack following marital argument.' On transfer, the admitting hospitalist reviews the triage diagnosis of 'panic attack' and immediately focuses his clinical encounter on exploring psychological stressors and marital conflict. When the patient mentions that her right calf has felt swollen and achy for 3 days, the hospitalist assumes it is minor muscle strain from pacing and does not palpate her calves. He prescribes oral lorazepam for anxiety. Twelve hours later, the patient collapses in the hallway in pulseless electrical arrest; emergency resuscitation fails, and autopsy reveals a massive occlusive saddle pulmonary embolism arising from deep femoral vein thrombosis. Which of the following cognitive biases was the primary psychological root cause of the diagnostic failure in this case?",
+    "choices": [
+      [
+        "Anchoring bias (coupled with premature closure), where the physician fixated on the initial triage diagnostic label and failed to adjust his assessment despite contradictory physical symptoms",
+        "DIAGNOSTIC ERRORS are driven predominantly by COGNITIVE BIASES and heuristics in clinical reasoning: (1) ANCHORING BIAS: The tendency to PERCEPTUALLY FIXATE ('ANCHOR') ON AN INITIAL PIECE OF INFORMATION (such as an emergency triage note stating 'panic attack' or an initial lab value) and FAIL TO ADJUST OR REVISE ONE'S DIAGNOSTIC THINKING despite subsequent contradictory clinical evidence; (2) PREMATURE CLOSURE: The tendency to ACCEPT A DIAGNOSTIC CONCLUSION EARLY IN THE CLINICAL ENCOUNTER, halting the diagnostic search before all reasonable alternatives have been explored or verified; (3) AVAILABILITY BIAS: Judging the likelihood of a disease based on how easily recent or memorable cases come to mind; (4) CONFIRMATION BIAS: Selectively seeking out information that confirms one's preconceived hypothesis while ignoring, downplaying, or dismissing disconfirming findings (dismissing calf swelling as muscle strain); and (5) DEBIASING STRATEGIES: Include structured diagnostic timeouts, asking 'What else could this be?' (generating a differential diagnosis), actively seeking disconfirming evidence, and avoiding diagnostic momentum from prior chart notes."
+      ],
+      [
+        "Availability bias, where the physician recently managed multiple fatal pulmonary embolisms and overestimated its likelihood",
+        "Availability bias would make the physician OVERESTIMATE pulmonary embolism, not overlook it; ignoring symptoms due to a triage label is anchoring."
+      ],
+      [
+        "Hindsight bias, where the pathologist assumes the pulmonary embolism was obvious in retrospect",
+        "Hindsight bias occurs in retrospective observers, not in the active treating physician who committed the diagnostic anchoring error."
+      ],
+      [
+        "Framing effect, where surgical risk is perceived differently when framed as survival vs mortality rates",
+        "Framing effects involve numerical probability presentation, not fixation on an initial psychiatric diagnostic label."
+      ],
+      [
+        "Blind spot bias, where the physician was visually impaired and unable to inspect the patient's calves",
+        "Blind spot bias is a psychological metacognitive bias (believing oneself less biased than others), not physical visual impairment."
+      ]
+    ],
+    "shortestValidSolution": "Physician fixates on triage label of 'panic attack' and ignores swollen calf, missing fatal PE = Anchoring bias + premature closure.",
+    "necessaryInference": "Identify anchoring bias and premature closure as cognitive pitfalls in clinical reasoning: fixating on an initial diagnostic label and stopping the diagnostic process prematurely.",
+    "strongestDistractor": "Availability bias, where the physician recently managed multiple fatal pulmonary embolisms and overestimated its likelihood",
+    "distractorExclusion": "Availability bias involves over-recalling recent dramatic cases; fixating on an initial triage label of 'panic attack' is classic diagnostic anchoring.",
+    "citation": "Colio PA. Cognitive Biases: A Concept Analysis for Emergency Clinicians. Adv Emerg Nurs J. 2026 Oct-Dec 01. PMID: 42955901.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 medicine item requiring multi-step deduction on cognitive biases in clinical reasoning anchoring and premature closure.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0998",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "World Health Organization Surgical Safety Checklist Implementation Phases",
+    "provisionalDifficulty": 4,
+    "stem": "A hospital quality improvement initiative reviews adverse surgical events and near-misses over a 3-year period. The analysis reveals two wrong-site surgeries (an incorrect toe amputation and a left-sided instead of right-sided arthroscopy) and multiple near-miss retained surgical sponges. In response, the health system mandates rigorous adherence to the WORLD HEALTH ORGANIZATION (WHO) SURGICAL SAFETY CHECKLIST across all operating rooms. Which of the following represents the correct three distinct procedural phases and timing of the WHO Surgical Safety Checklist?",
+    "choices": [
+      [
+        "Sign-in (before induction of anesthesia), Time-out (before skin incision), and Sign-out (before the patient leaves the operating room)",
+        "The WORLD HEALTH ORGANIZATION (WHO) SURGICAL SAFETY CHECKLIST is a global patient safety tool proven in landmark prospective multicenter trials (Haynes et al., NEJM 2009) to REDUCE MAJOR SURGICAL COMPLICATIONS BY >35% AND INPATIENT SURGICAL MORTALITY BY >45%: (1) THREE RIGID PROCEDURAL PHASES: (a) SIGN-IN (BEFORE INDUCTION OF ANESTHESIA): Conducted with the patient, nurse, and anesthetist. Verifies: patient identity, surgical procedure, anatomical site marking, informed consent, anesthesia safety check, pulse oximeter on patient, and evaluation of difficult airway/aspiration risk and blood loss risk (>500 mL); (b) TIME-OUT (BEFORE SKIN INCISION): Conducted with the entire surgical team (surgeon, anesthetist, nurses). Brief pause to verbally confirm: all team members introduced by name and role, patient identity, surgical procedure and exact operative site, display of essential imaging, administration of prophylactic antibiotics within 60 minutes prior to incision, and anticipated critical steps/operative duration; and (c) SIGN-OUT (BEFORE THE PATIENT LEAVES THE OR): Conducted with nurse, surgeon, and anesthetist. Verbally confirms: name of procedure recorded, needle/sponge/instrument counts are correct, specimen labeling, and key recovery and management concerns; and (2) Eliminates wrong-site surgery and retained items."
+      ],
+      [
+        "Pre-op check (in the preoperative holding area), Incision pause (after skin incision), and Recovery sign-off (in the PACU)",
+        "The Time-out MUST occur BEFORE skin incision (not after), and Sign-out must occur BEFORE leaving the operating room."
+      ],
+      [
+        "Anesthesia induction, Surgical incision, and Post-anesthesia discharge to the general medical floor",
+        "These are standard operative milestones, not the structured three-phase safety verification checklist."
+      ],
+      [
+        "Sterility check (during scrub), Instrument count (during fascial closure), and Pathology drop-off (the next morning)",
+        "Pathology drop-off occurs post-procedure; checklist phases are strictly timed around induction, incision, and leaving the room."
+      ],
+      [
+        "Universal protocol, Patient identification, and Informed consent signing prior to hospital admission",
+        "Informed consent is obtained prior to surgery; the three live intraoperative WHO checklist phases are Sign-in, Time-out, and Sign-out."
+      ]
+    ],
+    "shortestValidSolution": "WHO Surgical Safety Checklist 3 phases = Sign-in (before anesthesia induction) -> Time-out (before skin incision) -> Sign-out (before leaving OR).",
+    "necessaryInference": "Identify the three operational phases of the WHO Surgical Safety Checklist: Sign-in (before anesthesia), Time-out (before incision), and Sign-out (before leaving the OR).",
+    "strongestDistractor": "Pre-op check (in the preoperative holding area), Incision pause (after skin incision), and Recovery sign-off (in the PACU)",
+    "distractorExclusion": "Pausing after incision is too late to prevent wrong-site surgery; the mandatory Time-out must occur immediately before the surgical incision.",
+    "citation": "Debas SA. Adherence to the WHO surgical safety checklist at Tibebe Ghion Specialized Hospital, Ethiopia: a prospective observational study. BMC Surg. 2026 May 29. PMID: 42215939.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 surgery item requiring multi-step deduction on world health organization surgical safety checklist implementation phases.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-0999",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "General Principles",
+    "topic": "Hospital Inpatient Fall Prevention Multicomponent Interventions",
+    "provisionalDifficulty": 4,
+    "stem": "An 82-year-old woman with mild vascular dementia, osteoporosis, and osteoarthritis of the knees is admitted to the general medicine hospitalist service for treatment of acute pyelonephritis. On admission, nursing fall risk assessment using the Morse Fall Scale classifies her as high risk for inpatient falls (prior fall at home 3 weeks ago, impaired gait, unfamiliar surroundings). On hospital night 1, she attempts to get out of bed unassisted to use the bathroom, trips over her intravenous tubing, and falls to the floor, sustaining a non-displaced right distal radius fracture. The hospital quality improvement team reviews her care to implement a hospital-wide inpatient fall prevention protocol. Which of the following represents the most evidence-based, guideline-directed multicomponent strategy to prevent inpatient falls and related injuries in hospitalized older adults?",
+    "choices": [
+      [
+        "A multifactorial bundle comprising purposeful hourly nursing rounds, scheduled assisted toileting, low beds with non-skid footwear, bed alarms, assistive devices within reach, and deprescribing sedatives, while strictly avoiding physical restraints",
+        "INPATIENT FALLS are the most common adverse event reported in hospitalized older adults, resulting in hip fractures, intracranial hemorrhage, and prolonged hospital stays. Guidelines from the Agency for Healthcare Research and Quality (AHRQ), American Geriatrics Society (AGS), and CDC establish that: (1) EFFECTIVE MULTIFACTORIAL FALL PREVENTION BUNDLES: Successful fall prevention requires a combination of simultaneous interventions: (a) PURPOSEFUL HOURLY ROUNDING (the '4 Ps': Pain, Position, Potty, Possessions): Actively addressing pain, repositioning, offering assisted toileting, and ensuring call lights and glasses are within reach; (b) SCHEDULED ASSISTED TOILETING: Unassisted attempts to reach the bathroom account for >50% of inpatient falls; (c) ENVIRONMENTAL SAFETY: Low-height beds, floor mats, non-skid socks, clear walking paths free of IV tubing, and bed-exit alarms; and (d) MEDICATION REVIEW: Deprescribing high-risk fall-inducing medications (sedative-hypnotics, anticholinergics, benzodiazepines); and (2) PHYSICAL RESTRAINTS DO NOT PREVENT FALLS: Clinical trials conclusively prove that physical restraints (wrist restraints, vest restraints) DO NOT REDUCE FALLS OR FRACTURES. In fact, restraints INCREASE FALL-RELATED INJURIES (from entangling and struggling), accelerate functional decline, and triple delirium rates."
+      ],
+      [
+        "Application of bilateral soft wrist restraints and vest restraints whenever the patient is unattended in bed",
+        "Physical restraints do not prevent falls or injuries, cause severe psychological trauma and strangulation, and are strictly contraindicated for routine fall prevention."
+      ],
+      [
+        "Administration of scheduled oral lorazepam 1 mg at bedtime to ensure the patient remains asleep and does not exit the bed",
+        "Sedatives and benzodiazepines directly impair coordination, cause ataxia, worsen delirium, and dramatically increase nighttime fall and fracture rates."
+      ],
+      [
+        "Bedside placement of four raised full-length bed rails locked in the upright position at all times",
+        "Full-length side rails act as an obstacle that confused patients attempt to climb over, causing falls from greater heights with more severe head injuries."
+      ],
+      [
+        "Maintaining strict bed rest for the entire duration of hospitalization with an indwelling Foley catheter to avoid walking",
+        "Enforced bed rest causes rapid muscle deconditioning, deep vein thrombosis, and CAUTIs, worsening post-discharge fall rates."
+      ]
+    ],
+    "shortestValidSolution": "Hospital fall prevention in older adults = Multifactorial bundle (hourly rounding, assisted toileting, low bed, deprescribe sedatives; NEVER physical restraints).",
+    "necessaryInference": "Apply evidence-based hospital fall prevention strategies: implement multicomponent environmental and nursing protocols while avoiding physical restraints and sedative medications.",
+    "strongestDistractor": "Application of bilateral soft wrist restraints and vest restraints whenever the patient is unattended in bed",
+    "distractorExclusion": "Physical restraints fail to prevent falls, worsen agitation and delirium, and cause strangulation; multifactorial nursing and environmental interventions are the proven standard.",
+    "citation": "McLennan C. Interventions for preventing falls in older people in hospitals. Cochrane Database Syst Rev. 2026 May 5. PMID: 42084046.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 geriatrics item requiring multi-step deduction on hospital inpatient fall prevention multicomponent interventions.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  },
+  {
+    "code": "op-c-s3-1000",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "General Principles",
+    "topic": "Hospital-Acquired Pressure Injury Prevention Braden Scale and Repositioning",
+    "provisionalDifficulty": 4,
+    "stem": "A 76-year-old man who suffered an acute ischemic stroke resulting in dense right-sided hemiplegia and global aphasia is admitted to the neurological step-down unit. He is bedbound, incontinent of bowel and bladder, and unable to reposition himself in bed. Physical examination reveals an alert but non-verbal man with flaccid right extremities. Skin examination on admission reveals intact, blanchable erythema over the sacrum without skin breakdown (Stage 1 pressure injury). Nutritional assessment demonstrates severe protein-calorie malnutrition (serum albumin 2.4 g/dL). His calculated BRADEN SCALE score is 11 (high risk for severe pressure ulcer development; scale ranges from 6 to 23, with scores <= 12 indicating high risk). Which of the following is the most effective evidence-based hospital prevention bundle recommended by the National Pressure Injury Advisory Panel (NPIAP) to prevent pressure injury progression and hospital-acquired pressure injuries (HAPIs)?",
+    "choices": [
+      [
+        "A multimodal prevention protocol comprising scheduled body repositioning every 2 hours, pressure-redistributing dynamic air or foam mattress surfaces, barrier creams for moisture management, and high-protein nutritional supplementation",
+        "HOSPITAL-ACQUIRED PRESSURE INJURIES (HAPIs / decubitus ulcers) are localized damage to the skin and underlying soft tissue, usually over a bony prominence (sacrum, ischium, greater trochanter, heels), resulting from intense or prolonged pressure in combination with shear. The National Pressure Injury Advisory Panel (NPIAP) and American College of Physicians (ACP) guidelines mandate an EVIDENCE-BASED PRESSURE INJURY PREVENTION BUNDLE for high-risk patients (Braden score <= 12): (1) FREQUENT REPOSITIONING: Scheduled manual repositioning AT LEAST EVERY 2 HOURS (in bed) or every 1 hour (in chair), using a 30-degree tilted side-lying position (avoiding direct 90-degree lateral pressure on the greater trochanter); (2) ADVANCED SUPPORT SURFACES: Use of specialized PRESSURE-REDISTRIBUTING SUPPORT SURFACES (dynamic alternating-pressure air mattresses or high-density foam overlays) to reduce interface pressure below capillary closing pressure (32 mm Hg); (3) MOISTURE MANAGEMENT: Prompt cleansing after incontinence, application of skin barrier creams/ointments (zinc oxide, dimethicone), and avoiding diaper occlusive traps; (4) OFF-LOADING HEELS: Complete heel floating using heel-suspension boots or pillows under calves; and (5) NUTRITIONAL OPTIMIZATION: High-protein oral or enteral supplements to support tissue healing and collagen synthesis."
+      ],
+      [
+        "Maintaining the patient continuously in a flat supine position without turning to prevent friction and shearing forces",
+        "Continuous supine positioning produces uninterrupted ischemic necrosis over the sacrum and heels, accelerating rapid ulcer ulceration into deep muscle."
+      ],
+      [
+        "Vigorous, aggressive manual massage over bony prominences with alcohol rub every 4 hours to stimulate cutaneous blood flow",
+        "Massaging over bony prominences causes deep capillary shearing, microvascular thrombosis, and severe soft tissue necrosis and is strictly contraindicated."
+      ],
+      [
+        "Application of a rigid plastic cervical collar and sandbags around the pelvic girdle to restrict all spontaneous patient movement",
+        "Immobilizing a patient multiplies continuous interface pressure over bony prominences, accelerating deep tissue injury."
+      ],
+      [
+        "Limiting body repositioning to once every 12 hours provided a standard hospital vinyl mattress is used",
+        "Repositioning every 12 hours causes sustained tissue ischemia exceeding 10 hours, guaranteeing full-thickness tissue breakdown."
+      ]
+    ],
+    "shortestValidSolution": "Bedbound stroke patient with Braden score 11 = Turn every 2 hours + pressure-redistributing air mattress + heel offloading + moisture barrier + high-protein nutrition.",
+    "necessaryInference": "Apply NPIAP guidelines for hospital-acquired pressure injury prevention: implement scheduled 2-hour repositioning, advanced support surfaces, moisture management, and nutritional support in high-risk patients.",
+    "strongestDistractor": "Vigorous, aggressive manual massage over bony prominences with alcohol rub every 4 hours to stimulate cutaneous blood flow",
+    "distractorExclusion": "Massaging bony prominences is harmful and contraindicated; it damages fragile capillaries and accelerates deep tissue breakdown under pressure.",
+    "citation": "Asiri M. Reducing Hospital-Acquired Pressure Injuries via a Quality Improvement Initiative: Results and Insights Gained. JMIR Nurs. 2026 Jan 3. PMID: 41482822.",
+    "critique": {
+      "reviewer": "Automated Review Pipeline (AI-Assisted; Medically Unreviewed)",
+      "clinicalInferenceNotes": "Step 1 geriatrics item requiring multi-step deduction on hospital-acquired pressure injury prevention braden scale and repositioning.",
+      "distractorExclusionNotes": "Distractors excluded based on contradictory anatomical or physiological mechanisms.",
+      "verdict": "PASS",
+      "citationFormatNotes": "Verified against official PubMed metadata and genuine PMID."
+    }
+  }
+];

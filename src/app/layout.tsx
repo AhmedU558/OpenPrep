@@ -6,9 +6,22 @@ import './globals.css';
 export const metadata: Metadata = {
   title: { default: appName(), template: `%s · ${appName()}` },
   description: 'Free, open-source exam practice: question bank, timed blocks, explanations, flashcards, analytics and a study planner.',
+  manifest: '/manifest.webmanifest',
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: 'default',
+    title: 'OpenPrep',
+  },
 };
 
-export const viewport: Viewport = { width: 'device-width', initialScale: 1 };
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  themeColor: [
+    { media: '(prefers-color-scheme: dark)', color: '#0d1b17' },
+    { media: '(prefers-color-scheme: light)', color: '#153f35' },
+  ],
+};
 
 // Applies the saved theme and text size before first paint (no flash). Values are validated, never injected raw.
 const prefsScript = `try{var t=localStorage.getItem('op-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;var f=+localStorage.getItem('op-font');if(f>=12&&f<=24)document.documentElement.style.setProperty('--font-size',f+'px')}catch(e){}`;

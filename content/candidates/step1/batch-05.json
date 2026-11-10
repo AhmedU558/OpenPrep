@@ -1,0 +1,1302 @@
+[
+  {
+    "code": "op-c-s1-0101",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Hematology",
+    "topic": "Pyruvate Kinase Deficiency Erythrocyte Glycolytic Flux Dynamics",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 6-week-old male infant is brought to the outpatient pediatric clinic for progressive pallor and scleral icterus. He was born at 39 weeks of gestation following an uncomplicated pregnancy. There is no family history of anemias or bleeding diatheses. Physical examination reveals an alert, vigorous infant with marked conjunctival pallor and splenomegaly palpated 3 cm below the left costal margin; he has normal feeding behavior and cries robustly without tachypnea. Laboratory evaluation demonstrates: hemoglobin 7.1 g/dL, hematocrit 21%, reticulocyte count 11.8%, total serum bilirubin 4.4 mg/dL, unconjugated bilirubin 3.8 mg/dL, and undetectable serum haptoglobin. Direct and indirect antiglobulin (Coombs) tests are negative. An erythrocyte osmotic fragility test is within normal limits. Peripheral blood smear reveals normocytic normochromic red cells with prominent echinocytes (burr cells) and polychromasia, without spherocytes, target cells, sickle cells, Heinz bodies, or bite cells. An erythrocyte metabolic flux study reveals that despite profound anemia, the infant exhibits substantially greater tissue oxygen delivery than expected for his hemoglobin level. Which of the following alterations in erythrocyte intermediate metabolism explains this clinical preservation of oxygen unloading?",
+    "options": [
+      {
+        "text": "Allosteric accumulation of an intermediate upstream of the phosphoglycerate mutase step that stabilizes the deoxyhemoglobin quaternary structure",
+        "correct": true,
+        "explanation": "The patient presents with hereditary nonspherocytic hemolytic anemia characterized by neonatal jaundice, splenomegaly, reticulocytosis, negative Coombs testing, normal osmotic fragility (excluding hereditary spherocytosis), and prominent echinocytes (burr cells). This constellation is diagnostic of pyruvate kinase (PK) deficiency, the most common glycolytic enzymopathy. Mature erythrocytes lack mitochondria and depend entirely on anaerobic glycolysis for ATP synthesis. Pyruvate kinase catalyzes the final substrate-level phosphorylation step, converting phosphoenolpyruvate (PEP) to pyruvate and generating ATP. Loss of PK activity causes severe ATP depletion, failure of membrane Na+/K+-ATPase and Ca2+-ATPase pumps, intracellular dehydration, membrane distortion (echinocytes), and splenic extravascular hemolysis. Crucially, the enzymatic block at the terminal step causes backward accumulation of proximal glycolytic intermediates, specifically 1,3-bisphosphoglycerate and 2,3-bisphosphoglycerate (2,3-BPG) generated via the Luebering-Rapoport shunt. High intraerythrocytic 2,3-BPG binds the central cavity of the deoxygenated hemoglobin tetramer, stabilizing the low-affinity T (tense) state. This causes a rightward shift in the oxygen-hemoglobin dissociation curve (increased P50), which paradoxically facilitates oxygen offloading in peripheral tissues and permits patients to tolerate lower hemoglobin levels with minimal symptoms."
+      },
+      {
+        "text": "Accumulation of glucose-6-phosphate with compensatory upregulation of NADPH production via the pentose phosphate pathway",
+        "correct": false,
+        "explanation": "Glucose-6-phosphate is the initial substrate of glycolysis and the HMP shunt; its accumulation occurs in proximal blocks such as phosphofructokinase deficiency, not downstream pyruvate kinase deficiency where intermediates proximal to pyruvate (PEP, 2,3-BPG) accumulate."
+      },
+      {
+        "text": "Enhanced synthesis of reduced glutathione via upregulation of glutamate-cysteine ligase preventing Heinz body formation",
+        "correct": false,
+        "explanation": "Glutathione synthesis and Heinz body prevention reflect the hexose monophosphate shunt and G6PD pathway; PK deficiency is a glycolytic ATP defect, and Heinz bodies are absent because oxidative defense is preserved."
+      },
+      {
+        "text": "Increased intraerythrocytic adenosine triphosphate concentration promoting spectrin-ankyrin membrane phosphorylation",
+        "correct": false,
+        "explanation": "Pyruvate kinase deficiency causes profound ATP depletion, not ATP elevation; ATP depletion causes loss of membrane deformability and splenic destruction."
+      },
+      {
+        "text": "Selective impairment of cytochrome b5 reductase causing methemoglobin accumulation and leftward shifted oxygen binding",
+        "correct": false,
+        "explanation": "Cytochrome b5 reductase deficiency causes methemoglobinemia, which shifts the curve to the left (decreasing oxygen offloading) and causes clinical cyanosis, the exact opposite of the findings here."
+      }
+    ],
+    "explanation": "The patient presents with hereditary nonspherocytic hemolytic anemia characterized by neonatal jaundice, splenomegaly, reticulocytosis, negative Coombs testing, normal osmotic fragility (excluding hereditary spherocytosis), and prominent echinocytes (burr cells). This constellation is diagnostic of pyruvate kinase (PK) deficiency, the most common glycolytic enzymopathy. Mature erythrocytes lack mitochondria and depend entirely on anaerobic glycolysis for ATP synthesis. Pyruvate kinase catalyzes the final substrate-level phosphorylation step, converting phosphoenolpyruvate (PEP) to pyruvate and generating ATP. Loss of PK activity causes severe ATP depletion, failure of membrane Na+/K+-ATPase and Ca2+-ATPase pumps, intracellular dehydration, membrane distortion (echinocytes), and splenic extravascular hemolysis. Crucially, the enzymatic block at the terminal step causes backward accumulation of proximal glycolytic intermediates, specifically 1,3-bisphosphoglycerate and 2,3-bisphosphoglycerate (2,3-BPG) generated via the Luebering-Rapoport shunt. High intraerythrocytic 2,3-BPG binds the central cavity of the deoxygenated hemoglobin tetramer, stabilizing the low-affinity T (tense) state. This causes a rightward shift in the oxygen-hemoglobin dissociation curve (increased P50), which paradoxically facilitates oxygen offloading in peripheral tissues and permits patients to tolerate lower hemoglobin levels with minimal symptoms. Deduce pyruvate kinase (PK) deficiency from non-immune, non-spherocytic hemolytic anemia presenting with neonatal jaundice, splenomegaly, prominent echinocytes (burr cells), negative Coombs testing, and normal osmotic fragility. Because mature erythrocytes lack mitochondria and depend entirely on substrate-level phosphorylation via glycolysis, loss of terminal pyruvate kinase impairs ATP generation and causes rigid extravascular hemolysis. The downstream metabolic block causes upstream accumulation of glycolytic intermediates, specifically 2,3-bisphosphoglycerate (2,3-BPG). Elevated 2,3-BPG binds the central cavity of deoxyhemoglobin, stabilizing the T-state and shifting the oxygen-hemoglobin dissociation curve to the right (increasing P50), which augments peripheral tissue oxygen extraction and provides paradoxical compensation for profound anemia.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Pyruvate Kinase Deficiency Erythrocyte Glycolytic Flux Dynamics.",
+    "keyPoints": [
+      "Pyruvate Kinase Deficiency Erythrocyte Glycolytic Flux Dynamics",
+      "Deduce pyruvate kinase (PK) deficiency from non-immune, non-spherocytic hemolytic anemia presenting with neonatal jaundice, splenomegaly, prominent echinocytes (burr cells), negati"
+    ],
+    "references": [
+      {
+        "label": "Grace RF, et al. Erythrocyte pyruvate kinase deficiency: 2015 status report. Am J Hematol. 2015;90(9):825-830. PMID: 26087744.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26087744/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0102",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Hartnup Disease SLC6A19 Neutral Amino Acid Defect",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 6-year-old boy is brought to the pediatric neurology clinic because of intermittent unsteadiness, mood swings, and a recurrent skin rash over the past 6 months. His mother notes that whenever he plays outdoors in the sunshine, he develops a red, scaly, hyperpigmented, burning rash in a symmetric distribution across his cheeks, neck, and forearms. Physical examination reveals an erythematous, scaling plaque across the anterior neck (resembling a broad collar) and dorsum of both hands. Neurological examination reveals broad-based gait ataxia, dysmetria on finger-to-nose testing, and horizontal nystagmus. Psychological testing reveals emotional lability and intermittent confusion. Quantitative 24-hour urinalysis reveals marked, selective excretion of neutral monocarboxylic amino acids (including tryptophan, alanine, valine, leucine, isoleucine, phenylalanine, and threonine) with normal urinary excretion of proline, hydroxyproline, lysine, and arginine. The mutated transport protein responsible for this condition is localized to which of the following cellular membranes?",
+    "options": [
+      {
+        "text": "Basolateral membrane of intestinal enterocytes mediating facilitated diffusion into mesenteric venules",
+        "correct": false,
+        "explanation": "Basolateral amino acid transport occurs via distinct sodium-independent carriers (such as LAT1/LAT2); SLC6A19 is restricted to the apical luminal brush border."
+      },
+      {
+        "text": "Apical brush border membrane of small intestinal enterocytes and renal proximal convoluted tubule cells",
+        "correct": true,
+        "explanation": "Hartnup disease is an autosomal recessive inborn error of metabolism caused by mutations in SLC6A19, which encodes the system B(0) neutral amino acid transporter. This sodium-dependent symporter is expressed on the apical brush border membrane of both small intestinal enterocytes and renal proximal convoluted tubule epithelial cells. Defective transport prevents dietary absorption and renal tubular reabsorption of neutral amino acids, leading to massive urinary wasting of tryptophan and other neutral amino acids. Tryptophan is the crucial precursor for endogenous synthesis of nicotinamide (niacin / vitamin B3) via the kynurenine pathway, as well as serotonin. Tryptophan deficiency causes secondary niacin deficiency, manifesting with the classic triad of pellagra: photosensitive dermatitis (Casal necklace distribution), diarrhea, and neurological/psychiatric disturbances (ataxia, confusion, depression). Treatment is oral nicotinamide and a high-protein diet."
+      },
+      {
+        "text": "Mitochondrial inner membrane exchanging cytosolic glutamate for matrix aspartate",
+        "correct": false,
+        "explanation": "The mitochondrial aspartate-glutamate antiporter (aralar/citrin) is part of the malate-aspartate shuttle; mutations cause citrullinemia type 2, not neutral aminoaciduria."
+      },
+      {
+        "text": "Lysosomal membrane exporting cystine into the cytoplasm via vesicular proton coupling",
+        "correct": false,
+        "explanation": "Mutations in the lysosomal cystine transporter cystinosin (CTNS) cause cystinosis, leading to intracellular cystine crystal accumulation and renal Fanconi syndrome, not Hartnup disease."
+      },
+      {
+        "text": "Canalicular membrane of hepatocytes exporting conjugated bile salts into bile canaliculi",
+        "correct": false,
+        "explanation": "Canalicular bile salt export is mediated by BSEP (ABCB11); mutations cause progressive familial intrahepatic cholestasis (PFIC2), presenting with jaundice and pruritus without aminoaciduria."
+      }
+    ],
+    "explanation": "Hartnup disease is an autosomal recessive inborn error of metabolism caused by mutations in SLC6A19, which encodes the system B(0) neutral amino acid transporter. This sodium-dependent symporter is expressed on the apical brush border membrane of both small intestinal enterocytes and renal proximal convoluted tubule epithelial cells. Defective transport prevents dietary absorption and renal tubular reabsorption of neutral amino acids, leading to massive urinary wasting of tryptophan and other neutral amino acids. Tryptophan is the crucial precursor for endogenous synthesis of nicotinamide (niacin / vitamin B3) via the kynurenine pathway, as well as serotonin. Tryptophan deficiency causes secondary niacin deficiency, manifesting with the classic triad of pellagra: photosensitive dermatitis (Casal necklace distribution), diarrhea, and neurological/psychiatric disturbances (ataxia, confusion, depression). Treatment is oral nicotinamide and a high-protein diet. Recognize Hartnup disease: autosomal recessive mutation in SLC6A19, which encodes the apical sodium-dependent neutral amino acid transporter in the intestinal brush border and renal proximal convoluted tubule. Impaired absorption and reabsorption of neutral amino acids (especially TRYPTOPHAN). Tryptophan is the obligatory precursor for nicotinic acid / NAD(P)+ and serotonin synthesis. Deficiency results in pellagra-like photosensitive rash (broad-collared dermatosis), cerebellar ataxia, and neutral aminoaciduria. Differentiated from dietary pellagra by presence of massive neutral aminoaciduria with normal proline, hydroxyproline, and basic amino acids. Treatment: high-protein diet and nicotinamide supplementation.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hartnup Disease SLC6A19 Neutral Amino Acid Defect.",
+    "keyPoints": [
+      "Hartnup Disease SLC6A19 Neutral Amino Acid Defect",
+      "Recognize Hartnup disease: autosomal recessive mutation in SLC6A19, which encodes the apical sodium-dependent neutral amino acid transporter in the intestinal brush border and rena"
+    ],
+    "references": [
+      {
+        "label": "Kleta R, et al. Molecular analysis of Hartnup disorder. Lancet. 2004;364(9438):999-1004. PMID: 15380963.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15380963/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0103",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Maple Syrup Urine Disease BCKDC Thiamine Cofactor Defect",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 6-day-old male infant is brought to the pediatric emergency department for severe lethargy, poor feeding, and progressive muscle twitching. He was born at 39 weeks gestation via uncomplicated spontaneous vaginal delivery to consanguineous parents. Physical examination reveals a stuporous neonate with alternating episodes of hypotonia and hypertonicity, accompanied by dystonic posturing and \"bicycling\" movements of the lower extremities. The physician notices a distinct sweet, caramel-like odor emanating from the infant’s skin and diaper. Laboratory evaluation reveals: arterial pH 7.28, serum bicarbonate 14 mEq/L, anion gap 18 mEq/L, and plasma ammonia 68 micromol/L (mildly elevated; normal < 50). Quantitative plasma amino acid analysis demonstrates marked elevations in leucine, isoleucine, and valine, along with the pathognomonic detection of alloisoleucine. The defective multienzyme mitochondrial complex responsible for this disease utilizes the identical five essential cofactors as which of the following enzymes?",
+    "options": [
+      {
+        "text": "Succinate dehydrogenase and fumarate hydratase in the citric acid cycle",
+        "correct": false,
+        "explanation": "Succinate dehydrogenase contains covalently bound FAD and iron-sulfur clusters (Complex II of ETC); fumarate hydratase is a simple lyase requiring no cofactors; neither requires thiamine, lipoate, or NAD+."
+      },
+      {
+        "text": "Isocitrate dehydrogenase and malate dehydrogenase generating matrix NADH",
+        "correct": false,
+        "explanation": "Isocitrate dehydrogenase and malate dehydrogenase are simple monomeric/dimeric dehydrogenases requiring only NAD+ (or NADP+), lacking the E1-E2-E3 multienzyme architecture and lipoic acid/thiamine cofactors."
+      },
+      {
+        "text": "Alpha-ketoglutarate dehydrogenase and pyruvate dehydrogenase complexes",
+        "correct": true,
+        "explanation": "Maple syrup urine disease (MSUD) is an autosomal recessive metabolic disorder caused by deficiency of the branched-chain alpha-ketoacid dehydrogenase (BCKDC) complex. BCKDC catalyzes the irreversible oxidative decarboxylation of the alpha-ketoacids derived from the branched-chain amino acids (BCAAs: leucine, isoleucine, valine). Like pyruvate dehydrogenase (PDH) and alpha-ketoglutarate dehydrogenase (AKGDH), BCKDC is a massive mitochondrial multi-enzyme complex composed of E1, E2, and E3 subunits that requires five distinct cofactors: (1) Thiamine pyrophosphate (TPP, vitamin B1); (2) Lipoic acid; (3) Coenzyme A (CoA, vitamin B5); (4) Flavin adenine dinucleotide (FAD, vitamin B2); and (5) Nicotinamide adenine dinucleotide (NAD+, vitamin B3) (\"Tender Loving Care For Nancy\"). Leucine and its ketoacid (alpha-ketoisocaproate) accumulate and cause cytotoxic brain edema, encephalopathy, and seizures. A subset of MSUD patients with mutations in the E1 beta subunit have thiamine-responsive MSUD."
+      },
+      {
+        "text": "Propionyl-CoA carboxylase and methylmalonyl-CoA mutase degrading odd-chain fatty acids",
+        "correct": false,
+        "explanation": "Propionyl-CoA carboxylase requires biotin (vitamin B7), while methylmalonyl-CoA mutase requires adenosylcobalamin (vitamin B12); neither uses thiamine, lipoic acid, or the 5-cofactor complex."
+      },
+      {
+        "text": "Glucose-6-phosphate dehydrogenase and 6-phosphogluconate dehydrogenase in the cytosol",
+        "correct": false,
+        "explanation": "G6PD and 6-phosphogluconate dehydrogenase are cytosolic pentose phosphate pathway enzymes utilizing NADP+ as an electron acceptor, not the five-cofactor decarboxylation machinery."
+      }
+    ],
+    "explanation": "Maple syrup urine disease (MSUD) is an autosomal recessive metabolic disorder caused by deficiency of the branched-chain alpha-ketoacid dehydrogenase (BCKDC) complex. BCKDC catalyzes the irreversible oxidative decarboxylation of the alpha-ketoacids derived from the branched-chain amino acids (BCAAs: leucine, isoleucine, valine). Like pyruvate dehydrogenase (PDH) and alpha-ketoglutarate dehydrogenase (AKGDH), BCKDC is a massive mitochondrial multi-enzyme complex composed of E1, E2, and E3 subunits that requires five distinct cofactors: (1) Thiamine pyrophosphate (TPP, vitamin B1); (2) Lipoic acid; (3) Coenzyme A (CoA, vitamin B5); (4) Flavin adenine dinucleotide (FAD, vitamin B2); and (5) Nicotinamide adenine dinucleotide (NAD+, vitamin B3) (\"Tender Loving Care For Nancy\"). Leucine and its ketoacid (alpha-ketoisocaproate) accumulate and cause cytotoxic brain edema, encephalopathy, and seizures. A subset of MSUD patients with mutations in the E1 beta subunit have thiamine-responsive MSUD. Recognize Maple Syrup Urine Disease (MSUD): autosomal recessive deficiency of branched-chain alpha-ketoacid dehydrogenase (BCKDC). Degrades branched-chain amino acids (Isoleucine, Leucine, Valine - \"I Love Vermont maple syrup\"). BCKDC is a multi-enzyme mitochondrial complex requiring 5 cofactors: Thiamine pyrophosphate (B1), Lipoic acid, CoA (B5), FAD (B2), and NAD+ (B3) - identical to pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase. Leucine accumulation causes severe neurotoxicity (cerebral edema, seizures, dystonia, sweet burnt-sugar odor). A subset of patients responds to high-dose thiamine (vitamin B1) supplementation.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Maple Syrup Urine Disease BCKDC Thiamine Cofactor Defect.",
+    "keyPoints": [
+      "Maple Syrup Urine Disease BCKDC Thiamine Cofactor Defect",
+      "Recognize Maple Syrup Urine Disease (MSUD): autosomal recessive deficiency of branched-chain alpha-ketoacid dehydrogenase (BCKDC). Degrades branched-chain amino acids (Isoleucine, "
+    ],
+    "references": [
+      {
+        "label": "Strauss KA, et al. Maple Syrup Urine Disease. In: GeneReviews. 2020. PMID: 20301495.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20301495/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0104",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Hematology",
+    "topic": "Hereditary Orotic Aciduria vs OTC Deficiency",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 10-month-old female infant is evaluated for severe failure to thrive and persistent pallor. She was born at term and fed standard cow-milk infant formula. Over the past 3 months, her weight and height percentiles have fallen below the 3rd percentile. Physical examination demonstrates marked lethargy, pale conjunctivae, and delayed motor milestones (inability to sit without support). Laboratory testing reveals: hemoglobin 6.4 g/dL, mean corpuscular volume (MCV) 112 fL (normal: 70–86 fL), reticulocyte count 0.8%, white blood cell count 3,200/microL, and platelet count 98,000/microL (pancytopenia with macrocytosis). Serum vitamin B12 and red blood cell folate concentrations are well within normal limits. Bone marrow aspiration reveals prominent megaloblastic erythroid hyperplasia. Serum ammonia concentration is 28 micromol/L (normal: 15–45 micromol/L) and serum blood urea nitrogen (BUN) is 14 mg/dL. Urinalysis demonstrates heavy excretion of needle-shaped crystals, identified as orotic acid. Daily oral administration of which of the following compounds is the specific treatment to bypass this enzymatic defect and reverse the megaloblastic anemia?",
+    "options": [
+      {
+        "text": "Sodium phenylbutyrate to provide an alternative metabolic pathway for nitrogen clearance",
+        "correct": false,
+        "explanation": "Sodium phenylbutyrate is an ammonia-scavenging agent used in urea cycle defects (such as OTC deficiency) to treat severe hyperammonemia, which is absent in hereditary orotic aciduria."
+      },
+      {
+        "text": "High-dose parenteral cobalamin and leucovorin calcium to restore thymidylate synthesis",
+        "correct": false,
+        "explanation": "Vitamin B12 and folate cannot overcome the pyrimidine deficiency in orotic aciduria because the defect lies in de novo pyrimidine ring synthesis (UMP synthase), not the folate-dependent thymidylate synthase cycle."
+      },
+      {
+        "text": "Oral allopurinol to inhibit xanthine oxidase and reduce excess uric acid crystallization",
+        "correct": false,
+        "explanation": "Allopurinol treats hyperuricemia (gout or tumor lysis); in fact, high doses of allopurinol can inhibit OMP decarboxylase and transiently cause mild orotic aciduria."
+      },
+      {
+        "text": "Uridine triacetate providing exogenous pyrimidine nucleosides to bypass UMP synthase",
+        "correct": true,
+        "explanation": "Hereditary orotic aciduria is an autosomal recessive disorder of de novo pyrimidine synthesis caused by a deficiency in uridine monophosphate (UMP) synthase, a bifunctional enzyme possessing orotate phosphoribosyltransferase and orotidine-5'-phosphate (OMP) decarboxylase activities. Inability to convert orotic acid to UMP leads to orotic acid accumulation in urine (crystalluria) and pyrimidine starvation. Pyrimidine deficiency halts DNA synthesis in rapidly dividing hematopoietic precursors, causing severe macrocytic megaloblastic anemia that does not respond to vitamin B12 or folate. Crucially, serum ammonia and BUN are completely NORMAL, distinguishing this condition from ornithine transcarbamylase (OTC) deficiency (which presents with severe hyperammonemia, encephalopathy, and low BUN). Treatment is lifelong oral administration of uridine (uridine triacetate), which is phosphorylated by uridine kinase directly to UMP, bypassing the enzymatic block and rescuing DNA synthesis."
+      },
+      {
+        "text": "L-arginine supplementation to drive hepatic urea cycle intermediate recycling",
+        "correct": false,
+        "explanation": "Arginine is essential in urea cycle disorders (OTC, argininosuccinate synthetase deficiency) to sustain ornithine regeneration, but plays no role in de novo pyrimidine biosynthesis."
+      }
+    ],
+    "explanation": "Hereditary orotic aciduria is an autosomal recessive disorder of de novo pyrimidine synthesis caused by a deficiency in uridine monophosphate (UMP) synthase, a bifunctional enzyme possessing orotate phosphoribosyltransferase and orotidine-5'-phosphate (OMP) decarboxylase activities. Inability to convert orotic acid to UMP leads to orotic acid accumulation in urine (crystalluria) and pyrimidine starvation. Pyrimidine deficiency halts DNA synthesis in rapidly dividing hematopoietic precursors, causing severe macrocytic megaloblastic anemia that does not respond to vitamin B12 or folate. Crucially, serum ammonia and BUN are completely NORMAL, distinguishing this condition from ornithine transcarbamylase (OTC) deficiency (which presents with severe hyperammonemia, encephalopathy, and low BUN). Treatment is lifelong oral administration of uridine (uridine triacetate), which is phosphorylated by uridine kinase directly to UMP, bypassing the enzymatic block and rescuing DNA synthesis. Differentiate Hereditary Orotic Aciduria from Ornithine Transcarbamylase (OTC) deficiency: Both present with elevated urinary orotic acid. OTC deficiency is an X-linked urea cycle defect characterized by SEVERE HYPERAMMONEMIA, lethargy, encephalopathy, and BUN depletion, WITHOUT megaloblastic anemia. Hereditary Orotic Aciduria is an autosomal recessive pyrimidine synthesis defect caused by UMP SYNTHASE (orotate phosphoribosyltransferase and OMP decarboxylase) deficiency, presenting with MEGALOBLASTIC ANEMIA refractory to B12/folate, failure to thrive, developmental delay, and NORMAL serum ammonia. Treatment: Oral URIDINE (bypasses UMP synthase).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hereditary Orotic Aciduria vs OTC Deficiency.",
+    "keyPoints": [
+      "Hereditary Orotic Aciduria vs OTC Deficiency",
+      "Differentiate Hereditary Orotic Aciduria from Ornithine Transcarbamylase (OTC) deficiency: Both present with elevated urinary orotic acid. OTC deficiency is an X-linked urea cycle "
+    ],
+    "references": [
+      {
+        "label": "Nyhan WL. Disorders of purine and pyrimidine metabolism. Mol Genet Metab. 2005;86(1-2):25-33. PMID: 16176880.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16176880/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0105",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "Phenoxybenzamine Non-Competitive Antagonist Receptor Dynamics",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old woman is admitted to the hospital for surgical resection of a 4-cm right adrenal mass diagnosed as a pheochromocytoma. Her baseline blood pressure is 184/110 mm Hg with episodic paroxysms of throbbing headache, diaphoresis, and palpitations. Ten days prior to surgery, she is started on oral phenoxybenzamine to achieve hemodynamic stability and prevent intraoperative hypertensive crises. In an isolated vascular smooth muscle organ-bath experiment evaluating the contractile response to increasing concentrations of norepinephrine, the addition of phenoxybenzamine alters the norepinephrine concentration-response curve. Which of the following alterations in agonist pharmacodynamics correctly describes the effect of phenoxybenzamine on this vascular tissue?",
+    "options": [
+      {
+        "text": "Parallel rightward shift of the concentration-response curve with full preservation of maximal contractile response (Emax)",
+        "correct": false,
+        "explanation": "A parallel rightward shift with preserved Emax (increased EC50) is the signature of a reversible, competitive antagonist (such as phentolamine, prazosin, or propranolol), not an irreversible covalent antagonist."
+      },
+      {
+        "text": "Leftward shift of the concentration-response curve with an increase in norepinephrine potency (decreased EC50)",
+        "correct": false,
+        "explanation": "A leftward shift indicates increased sensitivity or potency, which is produced by positive allosteric modulators or up-regulated receptor density, not receptor blockade."
+      },
+      {
+        "text": "Selective competitive displacement of norepinephrine only at high agonist concentrations without receptor alkylation",
+        "correct": false,
+        "explanation": "Phenoxybenzamine alkylates the receptor covalently; it does not undergo competitive displacement at high agonist concentrations."
+      },
+      {
+        "text": "Non-selective enhancement of vascular beta-2 receptor degradation with no change in alpha-adrenergic affinity",
+        "correct": false,
+        "explanation": "Phenoxybenzamine blocks alpha-1 and alpha-2 receptors covalently; it does not accelerate beta-2 receptor degradation."
+      },
+      {
+        "text": "Depression of the maximal contractile response (Emax) that cannot be surmounted by escalating norepinephrine concentrations",
+        "correct": true,
+        "explanation": "Phenoxybenzamine is an irreversible, non-competitive alpha-adrenergic receptor antagonist. It undergoes cyclization to form a reactive ethyleneimonium ion intermediate that forms a covalent bond with the alpha-adrenergic receptor binding pocket. Because the covalent alkylation is irreversible, the receptors are permanently inactivated and cannot be displaced by high concentrations of agonist. In receptor pharmacodynamics, irreversible non-competitive antagonists depress the maximal achievable response (Emax) of the agonist (downward shift of the concentration-response curve). Escalating the concentration of norepinephrine cannot surmount the blockade. In contrast, competitive reversible antagonists (such as phentolamine or prazosin) cause a parallel rightward shift of the curve (increased EC50, reduced apparent potency) with preservation of maximal efficacy (Emax unchanged) because high agonist concentrations can displace the antagonist."
+      }
+    ],
+    "explanation": "Phenoxybenzamine is an irreversible, non-competitive alpha-adrenergic receptor antagonist. It undergoes cyclization to form a reactive ethyleneimonium ion intermediate that forms a covalent bond with the alpha-adrenergic receptor binding pocket. Because the covalent alkylation is irreversible, the receptors are permanently inactivated and cannot be displaced by high concentrations of agonist. In receptor pharmacodynamics, irreversible non-competitive antagonists depress the maximal achievable response (Emax) of the agonist (downward shift of the concentration-response curve). Escalating the concentration of norepinephrine cannot surmount the blockade. In contrast, competitive reversible antagonists (such as phentolamine or prazosin) cause a parallel rightward shift of the curve (increased EC50, reduced apparent potency) with preservation of maximal efficacy (Emax unchanged) because high agonist concentrations can displace the antagonist. Recognize phenoxybenzamine: irreversible, non-competitive, long-acting alpha-1 and alpha-2 adrenergic receptor antagonist. Covalently binds via an ethyleneimonium intermediate to the receptor active site. In receptor pharmacodynamics: Non-competitive (irreversible) antagonists DECREASE MAXIMAL EFFICACY (Emax shifts DOWNWARD) without necessarily altering agonist potency/EC50 at low antagonist concentrations (or shifts EC50 rightward if spare receptors are depleted). Increasing norepinephrine concentration CANNOT overcome the irreversible blockade. In contrast, competitive antagonists (phentolamine, prazosin) shift the dose-response curve to the RIGHT (increasing EC50) while maintaining Emax.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Phenoxybenzamine Non-Competitive Antagonist Receptor Dynamics.",
+    "keyPoints": [
+      "Phenoxybenzamine Non-Competitive Antagonist Receptor Dynamics",
+      "Recognize phenoxybenzamine: irreversible, non-competitive, long-acting alpha-1 and alpha-2 adrenergic receptor antagonist. Covalently binds via an ethyleneimonium intermediate to t"
+    ],
+    "references": [
+      {
+        "label": "Goldstein DS. Pheochromocytoma: pharmacology and pathophysiology. Clin Sci (Lond). 2020;134(14):1859-1881. PMID: 32692383.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32692383/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0106",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Bethanechol Muscarinic Agonism for Postoperative Urinary Retention",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old woman undergoes an uncomplicated laparoscopic hysterectomy under general endotracheal anesthesia. On postoperative day 1, her Foley catheter is removed. Over the next 8 hours, she is unable to void spontaneously despite feeling an intense sensation of bladder fullness. Bedside bladder ultrasonography demonstrates a post-void residual volume of 650 mL of urine. Physical examination reveals a distended, dull, non-tender suprapubic mass. Renal ultrasound rules out mechanical obstruction, hydronephrosis, and ureteral injury. She is diagnosed with non-obstructive postoperative urinary retention (atonic bladder). The surgical team prescribes subcutaneous bethanechol. Which of the following describes the molecular mechanism of action by which bethanechol promotes bladder emptying in this patient?",
+    "options": [
+      {
+        "text": "Direct stimulation of muscarinic M3 receptors coupled to Gq proteins, activating phospholipase C and mobilizing intracellular calcium in detrusor smooth muscle",
+        "correct": true,
+        "explanation": "Bethanechol is a carbamoyl choline ester that functions as a direct-acting muscarinic receptor agonist. It is completely resistant to hydrolysis by acetylcholinesterase and butyrylcholinesterase (prolonged duration of action) and possesses strong selectivity for muscarinic over nicotinic receptors. In the urinary bladder, bethanechol binds to muscarinic M3 receptors on the detrusor smooth muscle. M3 receptors are coupled to the Gq heterotrimeric G-protein, which activates phospholipase C-beta (PLC). PLC hydrolyzes phosphatidylinositol 4,5-bisphosphate (PIP2) into inositol 1,4,5-trisphosphate (IP3) and diacylglycerol (DAG). IP3 binds receptors on the sarcoplasmic reticulum, releasing intracellular calcium, which binds calmodulin and activates myosin light chain kinase (MLCK), triggering coordinated detrusor smooth muscle contraction to empty the atonic bladder."
+      },
+      {
+        "text": "Blockade of alpha-1 adrenergic receptors on the internal urethral sphincter reducing bladder outlet resistance",
+        "correct": false,
+        "explanation": "Alpha-1 adrenergic antagonists (e.g., tamsulosin, alfuzosin) relax the internal sphincter in benign prostatic hyperplasia; bethanechol is a direct muscarinic agonist, not an alpha-blocker."
+      },
+      {
+        "text": "Reversible inhibition of acetylcholinesterase in the synaptic cleft prolonging endogenous acetylcholine action",
+        "correct": false,
+        "explanation": "Reversible acetylcholinesterase inhibition is the mechanism of neostigmine and pyridostigmine; bethanechol is a direct muscarinic receptor agonist, not an enzyme inhibitor."
+      },
+      {
+        "text": "Selective agonism of beta-3 adrenergic receptors activating adenylyl cyclase to increase detrusor compliance",
+        "correct": false,
+        "explanation": "Beta-3 adrenergic agonism is the mechanism of mirabegron, which relaxes the detrusor muscle to treat overactive bladder (urge incontinence), the exact opposite of bethanechol."
+      },
+      {
+        "text": "Antagonism of presynaptic muscarinic M2 autoreceptors enhancing norepinephrine release in pelvic ganglia",
+        "correct": false,
+        "explanation": "M2 autoreceptors modulate parasympathetic and sympathetic terminals, but bethanechol acts directly on postsynaptic M3 receptors on the bladder smooth muscle."
+      }
+    ],
+    "explanation": "Bethanechol is a carbamoyl choline ester that functions as a direct-acting muscarinic receptor agonist. It is completely resistant to hydrolysis by acetylcholinesterase and butyrylcholinesterase (prolonged duration of action) and possesses strong selectivity for muscarinic over nicotinic receptors. In the urinary bladder, bethanechol binds to muscarinic M3 receptors on the detrusor smooth muscle. M3 receptors are coupled to the Gq heterotrimeric G-protein, which activates phospholipase C-beta (PLC). PLC hydrolyzes phosphatidylinositol 4,5-bisphosphate (PIP2) into inositol 1,4,5-trisphosphate (IP3) and diacylglycerol (DAG). IP3 binds receptors on the sarcoplasmic reticulum, releasing intracellular calcium, which binds calmodulin and activates myosin light chain kinase (MLCK), triggering coordinated detrusor smooth muscle contraction to empty the atonic bladder. Recognize bethanechol: direct-acting parasympathomimetic choline ester with selective resistance to acetylcholinesterase and quaternary amine structure (does not cross blood-brain barrier). Indicated for non-obstructive postoperative or postpartum urinary retention and neurogenic ileus. Acts on muscarinic M3 receptors on bladder detrusor muscle, activating Gq -> Phospholipase C -> IP3/DAG -> intracellular Ca2+ release -> detrusor smooth muscle contraction and trigone/sphincter relaxation, facilitating micturition. Contraindicated in mechanical bladder outlet obstruction (e.g., BPH) or peptic ulcer disease.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Bethanechol Muscarinic Agonism for Postoperative Urinary Retention.",
+    "keyPoints": [
+      "Bethanechol Muscarinic Agonism for Postoperative Urinary Retention",
+      "Recognize bethanechol: direct-acting parasympathomimetic choline ester with selective resistance to acetylcholinesterase and quaternary amine structure (does not cross blood-brain "
+    ],
+    "references": [
+      {
+        "label": "Andersson KE. Mechanisms of Disease: pharmacokinetics and pharmacology of drugs used for the treatment of overactive bladder and urinary retention. Nat Clin Pract Urol. 2007;4(5):260-272. PMID: 17483808.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17483808/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0107",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "Dobutamine Inotropic Beta-1 Adrenergic Gs Adenylyl Cyclase Pathway",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man with a history of anterior myocardial infarction 2 years ago is admitted to the cardiac intensive care unit with acute decompensated heart failure and cardiogenic shock. Physical examination reveals cold, clammy extremities, marked jugular venous distension, bilateral pulmonary crackles in all lung fields, and an S3 gallop. Vital signs: blood pressure 82/54 mm Hg, heart rate 94/min, and oxygen saturation 88% on high-flow cannula. Invasive hemodynamic monitoring via a pulmonary artery catheter demonstrates: cardiac index 1.6 L/min/m2 (normal: 2.5–4.0 L/min/m2), pulmonary capillary wedge pressure (PCWP) 26 mm Hg (normal: 6–12 mm Hg), and systemic vascular resistance (SVR) 1,900 dynes-sec/cm5 (normal: 800–1,200 dynes-sec/cm5). A continuous intravenous infusion of dobutamine is initiated. Which of the following intracellular signaling events in ventricular cardiomyocytes is primarily responsible for the therapeutic improvement in this patient’s cardiac output?",
+    "options": [
+      {
+        "text": "Selective inhibition of phosphodiesterase-3 preventing cyclic GMP degradation in vascular smooth muscle",
+        "correct": false,
+        "explanation": "Phosphodiesterase-3 (PDE3) inhibition is the mechanism of milrinone (an inodilator that increases cAMP by preventing its breakdown), not dobutamine, which directly stimulates beta-1 adrenergic receptors."
+      },
+      {
+        "text": "Gs-protein stimulation of adenylyl cyclase increasing cAMP and protein kinase A-mediated phosphorylation of L-type calcium channels and phospholamban",
+        "correct": true,
+        "explanation": "Dobutamine is a synthetic sympathomimetic that acts primarily as a beta-1 adrenergic receptor agonist (with minor beta-2 and alpha-1 activities). In ventricular cardiomyocytes, beta-1 activation stimulates the heterotrimeric Gs protein, which activates adenylyl cyclase, converting ATP to cyclic AMP (cAMP). Elevated cAMP activates Protein Kinase A (PKA). PKA phosphorylates two critical targets: (1) sarcolemmal L-type voltage-gated calcium channels (Cav1.2), increasing inward calcium trigger flux and augmenting calcium-induced calcium release (CICR) from the sarcoplasmic reticulum via ryanodine receptors (positive inotropy); and (2) phospholamban, which disinhibits the sarcoplasmic reticulum calcium ATPase (SERCA2a), accelerating calcium re-uptake during diastole (positive lusitropy). The net hemodynamic effect is an increase in stroke volume and cardiac index, along with a reduction in PCWP (preload) and modest decrease in SVR (afterload)."
+      },
+      {
+        "text": "Direct binding and activation of ryanodine receptor-2 without involvement of protein kinase A",
+        "correct": false,
+        "explanation": "Dobutamine does not bind ryanodine receptors directly; CICR is modulated downstream of PKA phosphorylation of L-type channels and phospholamban."
+      },
+      {
+        "text": "Inhibition of the sarcolemmal Na+/K+-ATPase pump promoting sodium-calcium exchanger reversal",
+        "correct": false,
+        "explanation": "Inhibition of the Na+/K+-ATPase is the mechanism of cardiac glycosides (digoxin), which increases intracellular sodium and slows calcium extrusion via NCX, distinct from beta-adrenergic signaling."
+      },
+      {
+        "text": "Gi-protein-mediated reduction of myocardial oxygen consumption through inward rectifier potassium opening",
+        "correct": false,
+        "explanation": "Gi-protein activation and potassium channel opening (IK-ACh) is the mechanism of acetylcholine and adenosine on pacemaker cells, slowing heart rate, which is opposite to dobutamine."
+      }
+    ],
+    "explanation": "Dobutamine is a synthetic sympathomimetic that acts primarily as a beta-1 adrenergic receptor agonist (with minor beta-2 and alpha-1 activities). In ventricular cardiomyocytes, beta-1 activation stimulates the heterotrimeric Gs protein, which activates adenylyl cyclase, converting ATP to cyclic AMP (cAMP). Elevated cAMP activates Protein Kinase A (PKA). PKA phosphorylates two critical targets: (1) sarcolemmal L-type voltage-gated calcium channels (Cav1.2), increasing inward calcium trigger flux and augmenting calcium-induced calcium release (CICR) from the sarcoplasmic reticulum via ryanodine receptors (positive inotropy); and (2) phospholamban, which disinhibits the sarcoplasmic reticulum calcium ATPase (SERCA2a), accelerating calcium re-uptake during diastole (positive lusitropy). The net hemodynamic effect is an increase in stroke volume and cardiac index, along with a reduction in PCWP (preload) and modest decrease in SVR (afterload). Recognize dobutamine: synthetic sympathomimetic amine with predominant beta-1 > beta-2 > alpha-1 agonism. First-line inotropic agent in cardiogenic shock / severe decompensated systolic heart failure with low cardiac output. Beta-1 receptor stimulation activates Gs -> Adenylyl Cyclase -> cAMP -> Protein Kinase A (PKA). PKA phosphorylates L-type Ca2+ channels (increasing Ca2+ influx) and phospholamban (accelerating SERCA2a Ca2+ reuptake), producing positive inotropy (contractility) and positive lusitropy (relaxation). Modest beta-2 agonism produces peripheral vasodilation, reducing afterload (SVR) and left ventricular end-diastolic pressure (PCWP) with minimal increase in heart rate compared to isoproterenol.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Dobutamine Inotropic Beta-1 Adrenergic Gs Adenylyl Cyclase Pathway.",
+    "keyPoints": [
+      "Dobutamine Inotropic Beta-1 Adrenergic Gs Adenylyl Cyclase Pathway",
+      "Recognize dobutamine: synthetic sympathomimetic amine with predominant beta-1 > beta-2 > alpha-1 agonism. First-line inotropic agent in cardiogenic shock / severe decompensated sys"
+    ],
+    "references": [
+      {
+        "label": "Francis GS, et al. Inotropic agents in heart failure. J Am Coll Cardiol. 2014;63(20):2069-2078. PMID: 24657692.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24657692/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0108",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Acetazolamide Carbonic Anhydrase Proximal Bicarbonate Wasting",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old mountaineer embarks on an expedition to climb Mount Rainier (elevation 4,392 meters / 14,411 feet). To prevent acute mountain sickness (headache, nausea, sleep disruption), his travel medicine physician prescribes oral acetazolamide, starting 24 hours prior to ascent. Acetazolamide acts by inhibiting both the luminal brush border isoform (carbonic anhydrase IV) and the cytoplasmic isoform (carbonic anhydrase II) in the renal proximal convoluted tubule. Forty-eight hours after initiating therapy, which of the following combinations of arterial blood gas, serum electrolytes, and urinary parameters is most expected in this traveler?",
+    "options": [
+      {
+        "text": "Elevated anion gap metabolic acidosis with low urine pH and profound hyperkalemia",
+        "correct": false,
+        "explanation": "Elevated anion gap metabolic acidosis occurs in lactic acidosis, ketoacidosis, or toxic ingestions (MUDPILES); acetazolamide causes a normal anion gap acidosis with hypokalemia (due to increased distal sodium delivery)."
+      },
+      {
+        "text": "Hypochloremic metabolic alkalosis with paradoxical aciduria and profound hypercalcemia",
+        "correct": false,
+        "explanation": "Hypochloremic metabolic alkalosis is caused by loop or thiazide diuretics, vomiting, or hyperaldosteronism, the exact opposite of acetazolamide bicarbonate wasting."
+      },
+      {
+        "text": "Hyperchloremic normal anion gap metabolic acidosis with elevated urine pH and increased urinary bicarbonate excretion",
+        "correct": true,
+        "explanation": "In the proximal convoluted tubule (PCT), brush border carbonic anhydrase IV converts luminal filtered HCO3- and secreted H+ into H2O and CO2, which diffuse into tubular cells. Cytoplasmic carbonic anhydrase II then converts H2O and CO2 back into H+ and HCO3-, allowing basolateral HCO3- reclamation. Acetazolamide reversibly inhibits both carbonic anhydrase isoforms, completely blocking proximal bicarbonate reabsorption. Massive quantities of sodium bicarbonate are excreted in the urine, producing an alkaline urine (pH > 7.0–7.5). Loss of bicarbonate leads to a normal anion gap (hyperchloremic) metabolic acidosis, because plasma chloride increases to maintain electroneutrality. This metabolic acidosis stimulates medullary respiratory chemoreceptors to sustain hyperventilation, overcoming the hypoxia-induced respiratory alkalosis of high altitude and improving arterial oxygen saturation."
+      },
+      {
+        "text": "Pure respiratory alkalosis with zero change in urinary bicarbonate or electrolyte concentrations",
+        "correct": false,
+        "explanation": "High altitude alone causes respiratory alkalosis due to hypoxia-driven hyperventilation; acetazolamide actively induces a metabolic acidosis to compensate for this alkalosis."
+      },
+      {
+        "text": "Hyperkalemic distal renal tubular acidosis with nephrocalcinosis and positive urinary anion gap",
+        "correct": false,
+        "explanation": "Acetazolamide mimics proximal (Type 2) RTA, which causes transient bicarbonate wasting with urine pH becoming acidic once a low serum bicarbonate steady state is reached; it does not produce Type 4 hyperkalemic RTA."
+      }
+    ],
+    "explanation": "In the proximal convoluted tubule (PCT), brush border carbonic anhydrase IV converts luminal filtered HCO3- and secreted H+ into H2O and CO2, which diffuse into tubular cells. Cytoplasmic carbonic anhydrase II then converts H2O and CO2 back into H+ and HCO3-, allowing basolateral HCO3- reclamation. Acetazolamide reversibly inhibits both carbonic anhydrase isoforms, completely blocking proximal bicarbonate reabsorption. Massive quantities of sodium bicarbonate are excreted in the urine, producing an alkaline urine (pH > 7.0–7.5). Loss of bicarbonate leads to a normal anion gap (hyperchloremic) metabolic acidosis, because plasma chloride increases to maintain electroneutrality. This metabolic acidosis stimulates medullary respiratory chemoreceptors to sustain hyperventilation, overcoming the hypoxia-induced respiratory alkalosis of high altitude and improving arterial oxygen saturation. Recognize acetazolamide: non-competitive reversible inhibitor of carbonic anhydrase (membrane-bound CA IV and cytoplasmic CA II) in the proximal convoluted tubule (PCT). Blocks luminal HCO3- dehydration and cellular H+ secretion -> prevents PCT reabsorption of ~85% of filtered HCO3- -> causes marked urinary bicarbonate, sodium, and potassium wasting. Produces alkaline urine (pH > 7.5), hyperchloremic normal anion gap metabolic acidosis, and mild self-limiting diuresis (due to macula densa tubuloglomerular feedback). Clinical uses: open-angle glaucoma, acute altitude sickness (counteracts hyperventilation respiratory alkalosis), and idiopathic intracranial hypertension.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Acetazolamide Carbonic Anhydrase Proximal Bicarbonate Wasting.",
+    "keyPoints": [
+      "Acetazolamide Carbonic Anhydrase Proximal Bicarbonate Wasting",
+      "Recognize acetazolamide: non-competitive reversible inhibitor of carbonic anhydrase (membrane-bound CA IV and cytoplasmic CA II) in the proximal convoluted tubule (PCT). Blocks lum"
+    ],
+    "references": [
+      {
+        "label": "Vardiman AB, et al. Carbonic anhydrase inhibitors: a review of therapeutic applications. Curr Neuropharmacol. 2016;14(5):485-498. PMID: 26813137.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26813137/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0109",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "Spironolactone vs Eplerenone Steroid Receptor Cross-Reactivity",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old man with ischemic cardiomyopathy (left ventricular ejection fraction 28%) presents to the clinic for routine follow-up. Three months ago, his guideline-directed medical therapy was intensified by adding a potassium-sparing diuretic known to reduce all-cause mortality in heart failure with reduced ejection fraction. Over the past 6 weeks, he has developed tender, bilateral subareolar breast enlargement, accompanied by loss of libido and erectile dysfunction. Physical examination reveals firm, tender, disc-like glandular tissue beneath both areolae measuring 3.5 cm in diameter. Serum potassium is 4.8 mEq/L and serum creatinine is 1.1 mg/dL. The medication responsible for this patient’s symptoms causes these endocrine adverse effects primarily through which of the following molecular mechanisms?",
+    "options": [
+      {
+        "text": "Direct stimulation of anterior pituitary lactotroph dopamine D2 receptors stimulating prolactin exocytosis",
+        "correct": false,
+        "explanation": "Dopamine D2 antagonists (such as antipsychotics or metoclopramide) disinhibit prolactin release and cause hyperprolactinemic gynecomastia; spironolactone does not act on dopamine receptors."
+      },
+      {
+        "text": "Upregulation of hepatic sex hormone-binding globulin synthesis reducing free circulating estradiol",
+        "correct": false,
+        "explanation": "Spironolactone displaces estradiol from SHBG, increasing free circulating estradiol; it does not increase SHBG synthesis."
+      },
+      {
+        "text": "Selective antagonism of estrogen receptor-alpha in male breast glandular tissue",
+        "correct": false,
+        "explanation": "Estrogen receptor antagonists (such as tamoxifen) treat or prevent gynecomastia; spironolactone causes gynecomastia by acting as an anti-androgen."
+      },
+      {
+        "text": "Antagonism of androgen receptors and inhibition of 17-alpha-hydroxylase combined with agonism of progesterone receptors",
+        "correct": true,
+        "explanation": "The patient was prescribed spironolactone, a non-selective mineralocorticoid receptor antagonist that improves survival in NYHA class II–IV heart failure with reduced ejection fraction. Due to its structural similarity to steroid sex hormones, spironolactone exhibits significant cross-reactivity with other nuclear steroid receptors: (1) it acts as a competitive antagonist at androgen receptors, blocking dihydrotestosterone binding; (2) it inhibits 17-alpha-hydroxylase and 17,20-desmolase/lyase in Leydig cells, impairing testosterone synthesis; (3) it displaces estradiol from sex hormone-binding globulin (SHBG), increasing free estrogen; and (4) it acts as an agonist at progesterone receptors. This altered estrogen-to-androgen ratio leads to painful gynecomastia, erectile dysfunction, and decreased libido in men (~10% incidence). Switching to eplerenone, a selective aldosterone receptor antagonist with negligible affinity for androgen or progesterone receptors, resolves these symptoms."
+      },
+      {
+        "text": "Constitutive transcriptional activation of aromatase CYP19A1 in peripheral adipose tissue",
+        "correct": false,
+        "explanation": "Spironolactone does not induce aromatase gene transcription; its antiandrogenic effects stem from direct androgen receptor blockade and steroidogenesis enzyme inhibition."
+      }
+    ],
+    "explanation": "The patient was prescribed spironolactone, a non-selective mineralocorticoid receptor antagonist that improves survival in NYHA class II–IV heart failure with reduced ejection fraction. Due to its structural similarity to steroid sex hormones, spironolactone exhibits significant cross-reactivity with other nuclear steroid receptors: (1) it acts as a competitive antagonist at androgen receptors, blocking dihydrotestosterone binding; (2) it inhibits 17-alpha-hydroxylase and 17,20-desmolase/lyase in Leydig cells, impairing testosterone synthesis; (3) it displaces estradiol from sex hormone-binding globulin (SHBG), increasing free estrogen; and (4) it acts as an agonist at progesterone receptors. This altered estrogen-to-androgen ratio leads to painful gynecomastia, erectile dysfunction, and decreased libido in men (~10% incidence). Switching to eplerenone, a selective aldosterone receptor antagonist with negligible affinity for androgen or progesterone receptors, resolves these symptoms. Differentiate spironolactone from eplerenone: Both are mineralocorticoid (aldosterone) receptor antagonists acting on the late distal tubule and cortical collecting duct principal cells (blocking ENaC insertion and basolateral Na+/K+-ATPase, sparing K+ and H+). Spironolactone is non-selective: its steroid ring cross-reacts with androgen receptors (as an antagonist, blocking testosterone binding) and progesterone receptors (as an agonist), and inhibits 17-alpha-hydroxylase and 17,20-lyase (reducing testosterone synthesis). This causes endocrine adverse effects: painful gynecomastia, decreased libido, and erectile dysfunction in men, and menstrual irregularities in women. Eplerenone is a selective mineralocorticoid receptor antagonist with minimal affinity for androgen/progesterone receptors, lacking antiandrogenic side effects.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Spironolactone vs Eplerenone Steroid Receptor Cross-Reactivity.",
+    "keyPoints": [
+      "Spironolactone vs Eplerenone Steroid Receptor Cross-Reactivity",
+      "Differentiate spironolactone from eplerenone: Both are mineralocorticoid (aldosterone) receptor antagonists acting on the late distal tubule and cortical collecting duct principal "
+    ],
+    "references": [
+      {
+        "label": "Struthers A, et al. Aldosterone receptor antagonism in heart failure. Heart. 2008;94(8):1097-1102. PMID: 18635889.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18635889/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0110",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Inulin vs PAH Clearance and Filtration Fraction Calculation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "In a clinical physiology laboratory protocol evaluating renal hemodynamics in a healthy 28-year-old volunteer, continuous intravenous infusions of inulin and para-aminohippuric acid (PAH) are administered until steady-state plasma concentrations are achieved. Urine is collected over a timed 2-hour interval. The following measurements are obtained:\n- Urine flow rate: 1.5 mL/min\n- Steady-state plasma inulin concentration: 2.0 mg/mL\n- Urine inulin concentration: 160 mg/mL\n- Steady-state plasma PAH concentration: 0.02 mg/mL\n- Urine PAH concentration: 8.0 mg/mL\n- Hematocrit: 40%\n- Renal extraction ratio of PAH: 1.0 (100% extraction)\nWhich of the following represents the patient’s calculated Glomerular Filtration Rate (GFR), Renal Plasma Flow (RPF), and Filtration Fraction (FF)?",
+    "options": [
+      {
+        "text": "GFR = 80 mL/min; RPF = 400 mL/min; Filtration Fraction = 0.20 (20%)",
+        "correct": false,
+        "explanation": "Incorrect calculation using wrong urine flow rate or inverted concentrations; the correct Cinulin is (160 * 1.5)/2 = 120 mL/min."
+      },
+      {
+        "text": "GFR = 120 mL/min; RPF = 1,000 mL/min; Filtration Fraction = 0.12 (12%)",
+        "correct": false,
+        "explanation": "This mistakenly divides GFR by total Renal Blood Flow (1,000 mL/min) instead of Renal Plasma Flow (600 mL/min); filtration fraction is GFR / RPF, not GFR / RBF."
+      },
+      {
+        "text": "GFR = 150 mL/min; RPF = 600 mL/min; Filtration Fraction = 0.25 (25%)",
+        "correct": false,
+        "explanation": "Inulin clearance of 150 mL/min is mathematically incorrect based on (160 * 1.5) / 2.0 = 120 mL/min."
+      },
+      {
+        "text": "GFR = 60 mL/min; RPF = 300 mL/min; Filtration Fraction = 0.20 (20%)",
+        "correct": false,
+        "explanation": "Omits the urine flow multiplier of 1.5 mL/min, yielding values exactly half of the true clearance rates."
+      },
+      {
+        "text": "GFR = 120 mL/min; RPF = 600 mL/min; Filtration Fraction = 0.20 (20%)",
+        "correct": true,
+        "explanation": "Clearance is calculated as C = (U * V) / P. For inulin: GFR = Cinulin = (160 mg/mL * 1.5 mL/min) / 2.0 mg/mL = 240 / 2.0 = 120 mL/min. For PAH: RPF = CPAH = (8.0 mg/mL * 1.5 mL/min) / 0.02 mg/mL = 12.0 / 0.02 = 600 mL/min. Filtration Fraction (FF) is the fraction of renal plasma flow that is filtered across the glomerular filtration barrier: FF = GFR / RPF = 120 mL/min / 600 mL/min = 0.20 (20%). If total Renal Blood Flow (RBF) were asked: RBF = RPF / (1 - Hct) = 600 / (1 - 0.40) = 600 / 0.60 = 1,000 mL/min."
+      }
+    ],
+    "explanation": "Clearance is calculated as C = (U * V) / P. For inulin: GFR = Cinulin = (160 mg/mL * 1.5 mL/min) / 2.0 mg/mL = 240 / 2.0 = 120 mL/min. For PAH: RPF = CPAH = (8.0 mg/mL * 1.5 mL/min) / 0.02 mg/mL = 12.0 / 0.02 = 600 mL/min. Filtration Fraction (FF) is the fraction of renal plasma flow that is filtered across the glomerular filtration barrier: FF = GFR / RPF = 120 mL/min / 600 mL/min = 0.20 (20%). If total Renal Blood Flow (RBF) were asked: RBF = RPF / (1 - Hct) = 600 / (1 - 0.40) = 600 / 0.60 = 1,000 mL/min. Calculate GFR, RPF, and Filtration Fraction (FF): Inulin is freely filtered, neither reabsorbed nor secreted -> Clearance of Inulin = Glomerular Filtration Rate (GFR). Para-aminohippuric acid (PAH) is freely filtered and actively secreted by proximal tubules -> Clearance of PAH = Effective Renal Plasma Flow (eRPF). True RPF = eRPF / PAH extraction ratio (~0.90). Filtration Fraction (FF) = GFR / RPF = Cinulin / CPAH. Renal Blood Flow (RBF) = RPF / (1 - Hematocrit). Clearance = (Urine conc * Urine volume) / Plasma conc.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Inulin vs PAH Clearance and Filtration Fraction Calculation.",
+    "keyPoints": [
+      "Inulin vs PAH Clearance and Filtration Fraction Calculation",
+      "Calculate GFR, RPF, and Filtration Fraction (FF): Inulin is freely filtered, neither reabsorbed nor secreted -> Clearance of Inulin = Glomerular Filtration Rate (GFR). Para-aminohi"
+    ],
+    "references": [
+      {
+        "label": "Hall JE. Guyton and Hall Textbook of Medical Physiology. 14th ed. Philadelphia, PA: Elsevier; 2021:327-340. NLM ID: 101777649.",
+        "url": "https://www.ncbi.nlm.nih.gov/nlmcatalog/101777649"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0111",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Free Water Clearance Dynamics in SIADH and Diabetes Insipidus",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old man with small cell lung carcinoma is admitted to the hospital for progressive lethargy and confusion. Physical examination reveals an euvolemic, afebrile man with normal skin turgor, moist mucous membranes, and no peripheral edema. Vital signs are normal. Laboratory testing reveals: serum sodium 118 mEq/L (normal: 135–145 mEq/L), serum potassium 4.1 mEq/L, serum chloride 86 mEq/L, and serum bicarbonate 24 mEq/L. Serum osmolality (Posm) is 246 mOsm/kg H2O (normal: 275–295 mOsm/kg H2O). Urinalysis demonstrates: urine osmolality (Uosm) 615 mOsm/kg H2O and urine sodium 68 mEq/L. Timed urine collection demonstrates a urine flow rate (V) of 1.0 mL/min (1,440 mL/day). He is diagnosed with Syndrome of Inappropriate Antidiuretic Hormone secretion (SIADH). What is this patient’s calculated free water clearance (CH2O), and what does its sign indicate regarding renal water handling?",
+    "options": [
+      {
+        "text": "CH2O = -1.5 mL/min; the negative value indicates active tubular conservation of solute-free water into the hypertonic medullary interstitium",
+        "correct": true,
+        "explanation": "Free water clearance (CH2O) quantifies the rate at which solute-free water is excreted by the kidneys. It is calculated by subtracting osmolar clearance (Cosm) from the urine flow rate (V): CH2O = V - Cosm, where Cosm = (Uosm * V) / Posm. Here, Cosm = (615 mOsm/kg * 1.0 mL/min) / 246 mOsm/kg = 2.5 mL/min. Therefore, CH2O = 1.0 mL/min - 2.5 mL/min = -1.5 mL/min. A negative free water clearance (also called solute-free water reabsorption, TcH2O = +1.5 mL/min) occurs whenever urine is hypertonic to plasma (Uosm > Posm). In SIADH, constitutive V2 receptor activation inserts aquaporin-2 channels into collecting duct apical membranes, driving water reabsorption and producing concentrated urine despite profound serum hypotonicity."
+      },
+      {
+        "text": "CH2O = +1.5 mL/min; the positive value indicates excessive urinary wasting of solute-free water driving hypernatremia",
+        "correct": false,
+        "explanation": "Positive free water clearance occurs when Uosm < Posm (as in diabetes insipidus), which causes water loss and hypernatremia; here the patient has SIADH with hyponatremia and hypertonic urine."
+      },
+      {
+        "text": "CH2O = 0 mL/min; the zero value indicates isosthenuria with identical solute and water clearance rates",
+        "correct": false,
+        "explanation": "Zero free water clearance occurs when Uosm = Posm (isosthenuric urine ~290 mOsm/kg); here Uosm is 615 mOsm/kg, far exceeding Posm."
+      },
+      {
+        "text": "CH2O = -0.5 mL/min; the negative value indicates passive proximal tubular water retention mediated by angiotensin II",
+        "correct": false,
+        "explanation": "Calculation error; Cosm is 2.5 mL/min, so CH2O = 1.0 - 2.5 = -1.5 mL/min, not -0.5 mL/min."
+      },
+      {
+        "text": "CH2O = +3.5 mL/min; the positive value reflects hyperfiltration induced by atrial natriuretic peptide secretion",
+        "correct": false,
+        "explanation": "This calculation mistakenly adds Cosm and V; free water clearance is V minus Cosm, which is negative in concentrated urine."
+      }
+    ],
+    "explanation": "Free water clearance (CH2O) quantifies the rate at which solute-free water is excreted by the kidneys. It is calculated by subtracting osmolar clearance (Cosm) from the urine flow rate (V): CH2O = V - Cosm, where Cosm = (Uosm * V) / Posm. Here, Cosm = (615 mOsm/kg * 1.0 mL/min) / 246 mOsm/kg = 2.5 mL/min. Therefore, CH2O = 1.0 mL/min - 2.5 mL/min = -1.5 mL/min. A negative free water clearance (also called solute-free water reabsorption, TcH2O = +1.5 mL/min) occurs whenever urine is hypertonic to plasma (Uosm > Posm). In SIADH, constitutive V2 receptor activation inserts aquaporin-2 channels into collecting duct apical membranes, driving water reabsorption and producing concentrated urine despite profound serum hypotonicity. Understand Free Water Clearance (CH2O): CH2O = V - Cosm = V * [1 - (Uosm / Posm)]. Cosm = (Uosm * V) / Posm. When urine is hypoosmotic to plasma (Uosm < Posm, e.g., central or nephrogenic diabetes insipidus, excessive water drinking), CH2O is POSITIVE, indicating pure solute-free water excretion. When urine is hyperosmotic to plasma (Uosm > Posm, e.g., SIADH, dehydration), CH2O is NEGATIVE, meaning free water is being retained and concentrated solute is excreted (also termed negative free water clearance or solute-free water reabsorption, TcH2O).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Free Water Clearance Dynamics in SIADH and Diabetes Insipidus.",
+    "keyPoints": [
+      "Free Water Clearance Dynamics in SIADH and Diabetes Insipidus",
+      "Understand Free Water Clearance (CH2O): CH2O = V - Cosm = V * [1 - (Uosm / Posm)]. Cosm = (Uosm * V) / Posm. When urine is hypoosmotic to plasma (Uosm < Posm, e.g., central or neph"
+    ],
+    "references": [
+      {
+        "label": "Rose BD, Post TW. Clinical Physiology of Acid-Base and Electrolyte Disorders. 5th ed. New York: McGraw-Hill; 2001:285-298. NLM ID: 100965313.",
+        "url": "https://www.ncbi.nlm.nih.gov/nlmcatalog/100965313"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0112",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Glomerulotubular Balance and Peritubular Capillary Starling Forces",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old woman with severe volume depletion secondary to cholera-induced watery diarrhea is admitted to the hospital. Intense sympathetic nervous system and renin-angiotensin-aldosterone system activation causes preferential vasoconstriction of the renal efferent arterioles. While total renal plasma flow (RPF) decreases by 50%, the glomerular filtration rate (GFR) decreases by only 15%, resulting in a marked increase in the filtration fraction (FF = GFR / RPF) from a baseline of 0.20 up to 0.34. Which of the following alterations in Starling forces within the downstream peritubular capillaries directly drives the compensatory increase in fractional fluid and sodium reabsorption by the proximal convoluted tubule?",
+    "options": [
+      {
+        "text": "Markedly elevated peritubular capillary hydrostatic pressure with decreased interstitium-to-capillary oncotic gradient",
+        "correct": false,
+        "explanation": "Elevated peritubular hydrostatic pressure opposes tubular reabsorption and promotes back-leak of fluid into the tubular lumen (seen in extracellular volume expansion), the opposite of hypovolemia."
+      },
+      {
+        "text": "Markedly elevated peritubular capillary oncotic pressure and reduced peritubular capillary hydrostatic pressure",
+        "correct": true,
+        "explanation": "Peritubular capillaries originate directly from the efferent arterioles and surround the proximal convoluted tubules. The net reabsorptive pressure across peritubular capillaries is governed by Starling forces: Net Reabsorption = (pi-c - pi-if) - (Pc - Pif). During efferent arteriolar constriction (induced by angiotensin II), two hemodynamic changes occur: (1) higher filtration fraction filters a greater percentage of water while retaining impermeable plasma albumin, dramatically increasing the protein concentration and oncotic pressure (pi-c) of blood entering the efferent arteriole and peritubular capillaries; and (2) efferent arteriolar constriction produces a steep pressure drop downstream, markedly lowering peritubular capillary hydrostatic pressure (Pc). High pi-c combined with low Pc maximizes the inward Starling suction force, drawing reabsorbed solute and water from the lateral intercellular spaces into peritubular capillaries."
+      },
+      {
+        "text": "Profound reduction in peritubular capillary oncotic pressure due to dilutional hypoalbuminemia",
+        "correct": false,
+        "explanation": "Filtration removes water and leaves proteins behind; higher filtration fraction increases peritubular oncotic pressure, never decreases it."
+      },
+      {
+        "text": "Equalization of peritubular capillary hydrostatic and oncotic pressures abolishing net Starling gradients",
+        "correct": false,
+        "explanation": "Equalization would halt net proximal reabsorption; hypovolemia widens the Starling gradient in favor of reabsorption."
+      },
+      {
+        "text": "Direct suppression of proximal tubule apical Na+/H+ exchanger-3 (NHE3) by elevated peritubular oncotic forces",
+        "correct": false,
+        "explanation": "High peritubular oncotic pressure promotes reabsorption; moreover, angiotensin II directly stimulates NHE3 on the apical membrane, not suppresses it."
+      }
+    ],
+    "explanation": "Peritubular capillaries originate directly from the efferent arterioles and surround the proximal convoluted tubules. The net reabsorptive pressure across peritubular capillaries is governed by Starling forces: Net Reabsorption = (pi-c - pi-if) - (Pc - Pif). During efferent arteriolar constriction (induced by angiotensin II), two hemodynamic changes occur: (1) higher filtration fraction filters a greater percentage of water while retaining impermeable plasma albumin, dramatically increasing the protein concentration and oncotic pressure (pi-c) of blood entering the efferent arteriole and peritubular capillaries; and (2) efferent arteriolar constriction produces a steep pressure drop downstream, markedly lowering peritubular capillary hydrostatic pressure (Pc). High pi-c combined with low Pc maximizes the inward Starling suction force, drawing reabsorbed solute and water from the lateral intercellular spaces into peritubular capillaries. Understand Glomerulotubular (GT) Balance: Constant percentage (~65%) of filtered fluid and sodium is reabsorbed by the proximal convoluted tubule (PCT) regardless of GFR fluctuations. Driven by Starling forces in PERITUBULAR CAPILLARIES. As blood traverses glomerular capillaries, fluid is filtered while plasma proteins remain, concentrating proteins in the efferent arteriole. Thus, peritubular capillaries have HIGH ONCOTIC PRESSURE (pi-c) and LOW HYDROSTATIC PRESSURE (Pc). High pi-c and low Pc create a powerful net absorptive pressure that sucks fluid and Na+ from the lateral intercellular space into peritubular capillaries. When Filtration Fraction (FF = GFR/RPF) increases (e.g., efferent arteriolar constriction), pi-c rises further, boosting proximal reabsorption.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Glomerulotubular Balance and Peritubular Capillary Starling Forces.",
+    "keyPoints": [
+      "Glomerulotubular Balance and Peritubular Capillary Starling Forces",
+      "Understand Glomerulotubular (GT) Balance: Constant percentage (~65%) of filtered fluid and sodium is reabsorbed by the proximal convoluted tubule (PCT) regardless of GFR fluctuatio"
+    ],
+    "references": [
+      {
+        "label": "Koeppen BM, Stanton BA. Renal Physiology. 6th ed. Philadelphia, PA: Elsevier; 2019:45-58. NLM ID: 101734261.",
+        "url": "https://www.ncbi.nlm.nih.gov/nlmcatalog/101734261"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0113",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "General Principles",
+    "topic": "Severe Combined Immunodeficiency IL-2RG Common Gamma Chain",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-month-old male infant is admitted to the pediatric intensive care unit with severe hypoxic respiratory failure, persistent oral candidiasis, and watery diarrhea. He was born at full term with normal birth weight. Over the past 6 weeks, he has suffered recurrent episodes of otitis media, Pseudomonas sepsis, and failure to thrive. Chest radiography demonstrates bilateral diffuse interstitial infiltrates and an absent thymic shadow. Bronchoalveolar lavage confirms Pneumocystis jirovecii pneumonia. Laboratory evaluation reveals profound lymphopenia: absolute lymphocyte count 420/microL (normal: 3,000–8,000/microL). Flow cytometric immunophenotyping of peripheral blood lymphocytes reveals:\n- CD3+ T cells: undetectable (< 1%)\n- CD19+ B cells: 88% (absolute count within normal range for age)\n- CD16+/CD56+ Natural Killer (NK) cells: undetectable (< 1%)\nQuantitative serum immunoglobulins reveal IgG 45 mg/dL (profoundly reduced), IgM undetectable, and IgA undetectable. A maternal uncle died of severe pneumonia in infancy. The mutated receptor subunit responsible for this infant’s immunodeficiency is normally shared by the cell-surface receptors for which of the following cytokine families?",
+    "options": [
+      {
+        "text": "Interferon-gamma and interleukin-12 signaling via STAT4 driving Th1 polarization",
+        "correct": false,
+        "explanation": "Defects in the IFN-gamma / IL-12 receptor axis impair macrophage activation and cause Mendelian Susceptibility to Mycobacterial Disease (MSMD), not SCID or Pneumocystis pneumonia."
+      },
+      {
+        "text": "Interleukin-1, interleukin-6, and tumor necrosis factor-alpha signaling via NF-kappa-B",
+        "correct": false,
+        "explanation": "IL-1, IL-6, and TNF-alpha are pro-inflammatory innate cytokines signaling through Toll/IL-1 receptors and TNFRs, not the gamma-c chain / JAK3 pathway."
+      },
+      {
+        "text": "Interleukins 2, 4, 7, 9, 15, and 21 signaling via Janus kinase 3 (JAK3)",
+        "correct": true,
+        "explanation": "The infant has X-linked severe combined immunodeficiency (X-SCID), the most common form of SCID (~50% of cases). It is caused by mutations in the IL2RG gene on chromosome Xq13.1, which encodes the common gamma chain (gamma-c / CD132) shared by six cytokine receptors: IL-2, IL-4, IL-7, IL-9, IL-15, and IL-21. These receptors all signal downstream through the cytoplasmic tyrosine kinase Janus kinase 3 (JAK3). Impaired IL-7 receptor signaling prevents thymic development and maturation of T-cell precursors, resulting in complete absence of T cells (CD3-). Impaired IL-15 receptor signaling prevents development of Natural Killer cells (CD16/CD56-). Although B-cell development is normal (CD19+ B cells are present), B cells cannot class-switch or produce functional antibodies without T-follicular helper cells, producing profound pan-hypogammaglobulinemia (the classic T- B+ NK- phenotype)."
+      },
+      {
+        "text": "Transforming growth factor-beta and interleukin-10 signaling via Smad2/3 transcription factors",
+        "correct": false,
+        "explanation": "TGF-beta and IL-10 are anti-inflammatory cytokines regulating peripheral tolerance; defects cause IPEX-like autoimmune enteropathy, not T- B+ NK- SCID."
+      },
+      {
+        "text": "Interleukin-3, interleukin-5, and GM-CSF sharing the common beta chain (CD131)",
+        "correct": false,
+        "explanation": "IL-3, IL-5, and GM-CSF share the common beta chain (CSF2RB), not the common gamma chain; mutations in this pathway cause pulmonary alveolar proteinosis, not SCID."
+      }
+    ],
+    "explanation": "The infant has X-linked severe combined immunodeficiency (X-SCID), the most common form of SCID (~50% of cases). It is caused by mutations in the IL2RG gene on chromosome Xq13.1, which encodes the common gamma chain (gamma-c / CD132) shared by six cytokine receptors: IL-2, IL-4, IL-7, IL-9, IL-15, and IL-21. These receptors all signal downstream through the cytoplasmic tyrosine kinase Janus kinase 3 (JAK3). Impaired IL-7 receptor signaling prevents thymic development and maturation of T-cell precursors, resulting in complete absence of T cells (CD3-). Impaired IL-15 receptor signaling prevents development of Natural Killer cells (CD16/CD56-). Although B-cell development is normal (CD19+ B cells are present), B cells cannot class-switch or produce functional antibodies without T-follicular helper cells, producing profound pan-hypogammaglobulinemia (the classic T- B+ NK- phenotype). Recognize Severe Combined Immunodeficiency (SCID): recurrent severe viral, fungal (Candida, Pneumocystis), and bacterial infections, failure to thrive, absent thymic shadow, and chronic diarrhea in early infancy. Most common form is X-linked SCID (~50%), caused by mutation in the IL2RG gene encoding the COMMON GAMMA (gamma-c) CHAIN shared by cytokine receptors for IL-2, IL-4, IL-7, IL-9, IL-15, and IL-21. Defective IL-7 receptor halts T-cell development (absent T cells). Defective IL-15 receptor halts NK-cell development (absent NK cells). B cells are present in normal numbers but non-functional due to lack of T-cell help (T- B+ NK- phenotype). Signals via JAK3. In contrast, autosomal recessive Adenosine Deaminase (ADA) deficiency causes toxic dATP accumulation, killing all lymphocytes (T- B- NK- phenotype).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Severe Combined Immunodeficiency IL-2RG Common Gamma Chain.",
+    "keyPoints": [
+      "Severe Combined Immunodeficiency IL-2RG Common Gamma Chain",
+      "Recognize Severe Combined Immunodeficiency (SCID): recurrent severe viral, fungal (Candida, Pneumocystis), and bacterial infections, failure to thrive, absent thymic shadow, and ch"
+    ],
+    "references": [
+      {
+        "label": "Fischer A. Severe combined immunodeficiencies (SCID). Clin Exp Immunol. 2000;122(2):143-149. PMID: 11091267.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11091267/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0114",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Hematology",
+    "topic": "Wiskott-Aldrich Syndrome WASP Actin Cytoskeleton Defect",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 14-month-old boy is brought to the pediatric hematology clinic because of recurrent nosebleeds, easy bruising, and a persistent itchy rash. Since age 4 months, he has suffered three episodes of severe bacterial otitis media and one episode of pneumococcal bacteremia. Physical examination reveals an irritable infant with extensive, excoriated, flexural eczematous plaques over both antecubital and popliteal fossae, accompanied by scattered petechiae and purpura over his lower extremities and trunk. Complete blood count demonstrates: hemoglobin 10.8 g/dL, white blood cell count 6,800/microL, and platelet count 28,000/microL (normal: 150,000–450,000/microL). Peripheral blood smear examination reveals marked thrombocytopenia, with circulating platelets displaying a mean platelet volume (MPV) of 5.2 fL (normal: 7.5–11.5 fL; microthrombocytopenia). Flow cytometry confirms absent cytoplasmic expression of a hematopoietic-specific protein that regulates actin filament reorganization. The mutated protein in this child normally interacts with which of the following molecular complexes to coordinate actin cytoskeletal nucleation?",
+    "options": [
+      {
+        "text": "The dynactin-dynein motor complex directing retrograde vesicular transport along microtubules",
+        "correct": false,
+        "explanation": "Dynein-dynactin complexes mediate microtubular retrograde transport; defects cause primary ciliary dyskinesia or motor neuropathies, not microthrombocytopenia or eczema."
+      },
+      {
+        "text": "The dystrophin-glycoprotein complex anchoring intracellular F-actin to extracellular laminin-211",
+        "correct": false,
+        "explanation": "Dystrophin links actin to the extracellular matrix in muscle fibers; mutations cause Duchenne and Becker muscular dystrophies without thrombocytopenia or immune deficiency."
+      },
+      {
+        "text": "The kinesin-1 ATPase motor facilitating anterograde chromosomal segregation during mitosis",
+        "correct": false,
+        "explanation": "Kinesin mediates microtubule-based anterograde axonal and vesicular transport, not branched actin filament nucleation."
+      },
+      {
+        "text": "The Arp2/3 (actin-related protein 2/3) complex driving branched filamentous actin polymerization",
+        "correct": true,
+        "explanation": "Wiskott-Aldrich syndrome (WAS) is an X-linked recessive disorder characterized by the classic clinical triad: (1) microthrombocytopenia (low platelets with abnormally small size / low MPV, predisposing to early mucosal bleeding); (2) severe atopic eczema; and (3) combined immunodeficiency with recurrent pyogenic and opportunistic infections. It is caused by mutations in the WAS gene, which encodes the Wiskott-Aldrich syndrome protein (WASP). WASP is expressed exclusively in hematopoietic cells and functions as an essential molecular scaffold linking cell-surface signaling (via CDC42 and PIP2) to the Arp2/3 complex. Upon activation, WASP binds the Arp2/3 complex to nucleate branched actin filament polymerization. Defective actin remodeling impairs megakaryocyte proplatelet formation (producing small, unstable platelets that are prematurely destroyed in the spleen) and paralyzes leukocyte migration, phagocytosis, and immunological synapse formation between T cells and antigen-presenting cells."
+      },
+      {
+        "text": "The spectrin-ankyrin lattice providing horizontal shear resistance to red blood cell membranes",
+        "correct": false,
+        "explanation": "Spectrin-ankyrin lattice defects disrupt red cell membrane stability and cause hereditary spherocytosis, not Wiskott-Aldrich syndrome."
+      }
+    ],
+    "explanation": "Wiskott-Aldrich syndrome (WAS) is an X-linked recessive disorder characterized by the classic clinical triad: (1) microthrombocytopenia (low platelets with abnormally small size / low MPV, predisposing to early mucosal bleeding); (2) severe atopic eczema; and (3) combined immunodeficiency with recurrent pyogenic and opportunistic infections. It is caused by mutations in the WAS gene, which encodes the Wiskott-Aldrich syndrome protein (WASP). WASP is expressed exclusively in hematopoietic cells and functions as an essential molecular scaffold linking cell-surface signaling (via CDC42 and PIP2) to the Arp2/3 complex. Upon activation, WASP binds the Arp2/3 complex to nucleate branched actin filament polymerization. Defective actin remodeling impairs megakaryocyte proplatelet formation (producing small, unstable platelets that are prematurely destroyed in the spleen) and paralyzes leukocyte migration, phagocytosis, and immunological synapse formation between T cells and antigen-presenting cells. Recognize Wiskott-Aldrich Syndrome (WAS): X-linked recessive triad of Microthrombocytopenia (small platelets and low platelet count, bleeding/petechiae), Eczema, and Recurrent pyogenic infections. Caused by mutations in the WAS gene encoding Wiskott-Aldrich Syndrome Protein (WASP). WASP links cell-surface signaling to the actin cytoskeleton (Arp2/3 complex nucleation). Defective actin polymerization impairs leukocyte motility, immunologic synapse formation, and platelet budding/fragmentation from megakaryocytes, producing abnormally small platelets (low mean platelet volume, MPV). Differentiated from ITP where platelets are abnormally large.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Wiskott-Aldrich Syndrome WASP Actin Cytoskeleton Defect.",
+    "keyPoints": [
+      "Wiskott-Aldrich Syndrome WASP Actin Cytoskeleton Defect",
+      "Recognize Wiskott-Aldrich Syndrome (WAS): X-linked recessive triad of Microthrombocytopenia (small platelets and low platelet count, bleeding/petechiae), Eczema, and Recurrent pyog"
+    ],
+    "references": [
+      {
+        "label": "Notarangelo LD, et al. Wiskott-Aldrich syndrome. Curr Opin Hematol. 2008;15(1):30-36. PMID: 18043243.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18043243/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0115",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "General Principles",
+    "topic": "Hyper-IgM Syndrome CD40L Class-Switch Recombination Failure",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 9-month-old boy is hospitalized for severe cough, tachypnea, and cyanosis. Silver staining of bronchoalveolar lavage fluid demonstrates cup-shaped cysts of Pneumocystis jirovecii. He has a history of recurrent bacterial otitis media and persistent oral candidiasis since age 4 months. Physical examination reveals an infant in moderate respiratory distress with oral thrush and complete absence of palpable cervical or axillary lymph nodes and tonsillar tissue. Laboratory evaluation reveals: white blood cell count 12,400/microL with normal absolute lymphocyte count (4,100/microL) and severe persistent neutropenia (ANC 380/microL). Serum immunoglobulin electrophoresis demonstrates:\n- IgM: 380 mg/dL (markedly elevated; normal: 30–120 mg/dL)\n- IgG: 18 mg/dL (profoundly decreased; normal: 300–1,000 mg/dL)\n- IgA: undetectable (< 5 mg/dL)\n- IgE: undetectable\nFlow cytometry demonstrates normal numbers of circulating CD19+ B lymphocytes and CD3+ T lymphocytes. However, stimulated CD4+ T lymphocytes fail to express a critical surface ligand required for cognate interaction with B cells. The defective ligand in this patient normally binds to which of the following surface molecules on antigen-presenting cells?",
+    "options": [
+      {
+        "text": "B7-1 (CD80) and B7-2 (CD86) costimulatory molecules on professional antigen-presenting cells",
+        "correct": false,
+        "explanation": "CD80/CD86 bind CD28 (for activation) or CTLA-4 (for inhibition) on T cells, not CD40L; defects in CTLA-4 cause immune dysregulation and lymphoproliferation, not Hyper-IgM syndrome."
+      },
+      {
+        "text": "Major histocompatibility complex class II (HLA-DR) presenting exogenous peptide antigens",
+        "correct": false,
+        "explanation": "MHC class II binds the T-cell receptor (TCR) and CD4 coreceptor; bare lymphocyte syndrome type II (MHC II deficiency) impairs CD4+ T-cell development entirely, not isolated class-switching."
+      },
+      {
+        "text": "Programmed death-ligand 1 (PD-L1) mediating peripheral T-cell anergy and exhaustion",
+        "correct": false,
+        "explanation": "PD-L1 binds PD-1 on activated T cells to suppress immune responses; it is targeted by immune checkpoint inhibitors in oncology, unrelated to congenital immunoglobulin deficiency."
+      },
+      {
+        "text": "Complement receptor type 2 (CD21) facilitating B-cell antigen coreceptor complex signaling",
+        "correct": false,
+        "explanation": "CD21 (CR2) binds C3d-coated antigens and serves as the receptor for Epstein-Barr virus; it does not bind CD40L."
+      },
+      {
+        "text": "CD40 receptor on B lymphocytes, macrophages, and dendritic cells",
+        "correct": true,
+        "explanation": "The patient has X-linked Hyper-IgM syndrome (HIGM1), caused by mutations in the CD40LG gene on chromosome Xq26. CD40 ligand (CD40L / CD154) is transiently expressed on the surface of activated CD4+ T helper cells. It binds to CD40, a member of the TNF receptor superfamily constitutively expressed on B cells, macrophages, and dendritic cells. In B cells, CD40L binding provides the essential second signal that activates NF-kappa-B, inducing activation-induced cytidine deaminase (AID), which initiates immunoglobulin heavy-chain class-switch recombination (CSR) from IgM to IgG, IgA, and IgE, as well as germinal center formation. Without CD40L, B cells can only secrete low-affinity IgM. Furthermore, CD40L-CD40 signaling between T cells and macrophages/dendritic cells is essential for macrophage IL-12 secretion and cell-mediated immunity. Its absence renders patients exquisitely vulnerable to opportunistic pathogens like Pneumocystis jirovecii and Cryptosporidium parvum."
+      }
+    ],
+    "explanation": "The patient has X-linked Hyper-IgM syndrome (HIGM1), caused by mutations in the CD40LG gene on chromosome Xq26. CD40 ligand (CD40L / CD154) is transiently expressed on the surface of activated CD4+ T helper cells. It binds to CD40, a member of the TNF receptor superfamily constitutively expressed on B cells, macrophages, and dendritic cells. In B cells, CD40L binding provides the essential second signal that activates NF-kappa-B, inducing activation-induced cytidine deaminase (AID), which initiates immunoglobulin heavy-chain class-switch recombination (CSR) from IgM to IgG, IgA, and IgE, as well as germinal center formation. Without CD40L, B cells can only secrete low-affinity IgM. Furthermore, CD40L-CD40 signaling between T cells and macrophages/dendritic cells is essential for macrophage IL-12 secretion and cell-mediated immunity. Its absence renders patients exquisitely vulnerable to opportunistic pathogens like Pneumocystis jirovecii and Cryptosporidium parvum. Recognize Hyper-IgM Syndrome: X-linked recessive mutation in CD40LG (CD154) on activated CD4+ T helper cells. CD40L normally binds CD40 on B cells, providing the obligatory second costimulatory signal for activation-induced cytidine deaminase (AID) expression and immunoglobulin heavy-chain class-switch recombination (CSR) from IgM/IgD to IgG, IgA, and IgE. Failure of CSR results in markedly elevated or normal serum IgM with undetectable/profoundly low IgG, IgA, and IgE. Crucially, CD40L-CD40 interaction is also required for macrophage activation (via IFN-gamma priming); lack of CD40L impairs cell-mediated immunity, causing opportunistic infections (Pneumocystis jirovecii pneumonia, Cryptosporidium parvum biliary disease), distinguishing it from pure B-cell agammaglobulinemia.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Hyper-IgM Syndrome CD40L Class-Switch Recombination Failure.",
+    "keyPoints": [
+      "Hyper-IgM Syndrome CD40L Class-Switch Recombination Failure",
+      "Recognize Hyper-IgM Syndrome: X-linked recessive mutation in CD40LG (CD154) on activated CD4+ T helper cells. CD40L normally binds CD40 on B cells, providing the obligatory second "
+    ],
+    "references": [
+      {
+        "label": "Davies EG, Thrasher AJ. Update on the hyper immunoglobulin M syndromes. Br J Haematol. 2010;149(2):167-180. PMID: 20201941.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20201941/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0116",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "General Principles",
+    "topic": "Leukocyte Adhesion Deficiency Type 1 CD18 Beta-2 Integrin Defect",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-week-old male infant is brought to the hospital because his umbilical cord stump has failed to detach and the surrounding periumbilical skin has become erythematous, swollen, and foul-smelling (omphalitis). The infant was delivered vaginally at 39 weeks gestation without complications. Physical examination reveals an irritable, febrile neonate (temperature 38.6 C) with a dry, blackened, firmly attached umbilical cord surrounded by a 3-cm zone of violaceous, indurated cellulitis. Notably, despite marked tissue necrosis around the umbilicus, there is a complete absence of purulent drainage or pus formation. Laboratory evaluation reveals: white blood cell count 68,000/microL with 86% neutrophils, 8% bands, and 6% lymphocytes (marked neutrophilia). Blood cultures grow Staphylococcus aureus. Skin biopsy of the infected periumbilical tissue reveals extensive bacterial colonies and tissue necrosis, but a striking absence of extravasated neutrophils within the interstitial spaces. Flow cytometric analysis of the patient’s neutrophils demonstrates undetectable surface expression of which of the following adhesion molecules?",
+    "options": [
+      {
+        "text": "CD18 (beta-2 integrin subunit) required for high-affinity binding to endothelial ICAM-1",
+        "correct": true,
+        "explanation": "The infant has Leukocyte Adhesion Deficiency Type 1 (LAD-1), an autosomal recessive primary immunodeficiency caused by mutations in the ITGB2 gene encoding CD18. CD18 is the shared beta-2 subunit of leukocyte integrins, including LFA-1 (CD11a/CD18) and Mac-1 (CD11b/CD18). Leukocyte extravasation follows a four-step cascade: (1) Margination and rolling (mediated by selectins and Sialyl-Lewis X); (2) Activation (chemokines like IL-8 induce conformational change in integrins); (3) Tight adhesion and firm arrest (mediated by activated beta-2 integrins binding endothelial ICAM-1 / CD54); and (4) Diapedesis / transmigration (mediated by PECAM-1 / CD31). In LAD-1, neutrophils fail to adhere to endothelium and cannot exit postcapillary venules. Hallmarks: delayed umbilical cord separation (>30 days; umbilical cord sloughing requires neutrophil-mediated degradation), severe recurrent necrotic infections without pus (pus is composed of dead neutrophils), impaired wound healing, and extreme peripheral neutrophilic leukocytosis due to inability of neutrophils to marginate."
+      },
+      {
+        "text": "Sialyl-Lewis X (CD15s) mediating initial low-affinity rolling along endothelial E-selectin",
+        "correct": false,
+        "explanation": "Sialyl-Lewis X defect causes LAD Type 2 (fucose transporter SLC35C1 mutation), presenting with rolling impairment, mental retardation, and Bombay blood phenotype, but normal cord separation."
+      },
+      {
+        "text": "PECAM-1 (CD31) coordinating homophilic transendothelial diapedesis through junctional gaps",
+        "correct": false,
+        "explanation": "PECAM-1 mediates transendothelial migration (diapedesis); congenital PECAM-1 deficiencies do not produce the classic LAD-1 triad of delayed cord separation and extreme leukocytosis."
+      },
+      {
+        "text": "VLA-4 (alpha-4-beta-1 integrin) mediating lymphocyte rolling and adhesion to endothelial VCAM-1",
+        "correct": false,
+        "explanation": "VLA-4 is an alpha-4 integrin expressed on lymphocytes and monocytes (targeted by natalizumab in multiple sclerosis), not the beta-2 integrin on neutrophils responsible for LAD-1."
+      },
+      {
+        "text": "L-selectin (CD62L) mediating leukocyte tethering to peripheral lymph node addressins",
+        "correct": false,
+        "explanation": "L-selectin mediates initial leukocyte rolling and lymphocyte homing into lymph node high endothelial venules (HEVs), not firm arrest and tight adhesion."
+      }
+    ],
+    "explanation": "The infant has Leukocyte Adhesion Deficiency Type 1 (LAD-1), an autosomal recessive primary immunodeficiency caused by mutations in the ITGB2 gene encoding CD18. CD18 is the shared beta-2 subunit of leukocyte integrins, including LFA-1 (CD11a/CD18) and Mac-1 (CD11b/CD18). Leukocyte extravasation follows a four-step cascade: (1) Margination and rolling (mediated by selectins and Sialyl-Lewis X); (2) Activation (chemokines like IL-8 induce conformational change in integrins); (3) Tight adhesion and firm arrest (mediated by activated beta-2 integrins binding endothelial ICAM-1 / CD54); and (4) Diapedesis / transmigration (mediated by PECAM-1 / CD31). In LAD-1, neutrophils fail to adhere to endothelium and cannot exit postcapillary venules. Hallmarks: delayed umbilical cord separation (>30 days; umbilical cord sloughing requires neutrophil-mediated degradation), severe recurrent necrotic infections without pus (pus is composed of dead neutrophils), impaired wound healing, and extreme peripheral neutrophilic leukocytosis due to inability of neutrophils to marginate. Recognize Leukocyte Adhesion Deficiency Type 1 (LAD-1): autosomal recessive mutation in ITGB2 (CD18), the beta-2 subunit of integrins (LFA-1 [CD11a/CD18] and Mac-1 [CD11b/CD18]). Integrins mediate TIGHT ADHESION and stable arrest of neutrophils to endothelial ICAM-1 (CD54) during leukocyte extravasation. Hallmarks: 1. Delayed detachment/separation of the umbilical cord (> 30 days; normal is 1-2 weeks); 2. Recurrent necrotic skin and mucosal bacterial/fungal infections WITHOUT PUS formation (neutrophils cannot migrate into tissues); 3. Persistent, profound neutrophilic LEUKOCYTOSIS (> 30,000-100,000/microL) because neutrophils cannot marginate into tissues. Differentiated from LAD-2 which is caused by defective fucose metabolism (absence of Sialyl-Lewis X, affecting rolling).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Leukocyte Adhesion Deficiency Type 1 CD18 Beta-2 Integrin Defect.",
+    "keyPoints": [
+      "Leukocyte Adhesion Deficiency Type 1 CD18 Beta-2 Integrin Defect",
+      "Recognize Leukocyte Adhesion Deficiency Type 1 (LAD-1): autosomal recessive mutation in ITGB2 (CD18), the beta-2 subunit of integrins (LFA-1 [CD11a/CD18] and Mac-1 [CD11b/CD18]). I"
+    ],
+    "references": [
+      {
+        "label": "Hanna S, Etzioni A. Leukocyte adhesion deficiencies. Ann N Y Acad Sci. 2012;1250:50-55. PMID: 22276660.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22276660/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0117",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Hematology",
+    "topic": "Chediak-Higashi Syndrome LYST Lysosomal Trafficking Defect",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 3-year-old boy is brought to the pediatric clinic for evaluation of recurrent skin abscesses and severe photophobia. Over the past 18 months, he has required multiple incision-and-drainage procedures for subcutaneous Staphylococcus aureus abscesses and has suffered two episodes of lobar pneumonia. Physical examination reveals silvery-metallic blonde hair, very fair skin compared to his olive-complexioned parents, and light gray irides with transillumination defects. Neurological examination reveals marked bilateral horizontal nystagmus, mild lower extremity muscle weakness, and absent patellar reflexes. Complete blood count demonstrates mild pancytopenia: hemoglobin 10.2 g/dL, white blood cell count 3,100/microL with absolute neutropenia (ANC 650/microL), and platelet count 92,000/microL. Examination of the peripheral blood smear demonstrates massive, giant, round-to-oval, dark-purple azurophilic granules within the cytoplasm of all mature neutrophils and monocytes. This disorder is caused by a genetic defect in which of the following cellular processes?",
+    "options": [
+      {
+        "text": "Assembly of the multi-subunit NADPH oxidase complex preventing superoxide anion generation",
+        "correct": false,
+        "explanation": "NADPH oxidase deficiency causes Chronic Granulomatous Disease (CGD), presenting with granulomas and catalase-positive infections (S. aureus, Serratia, Aspergillus) without albinism or giant granules."
+      },
+      {
+        "text": "Microtubule-dependent intracellular lysosomal trafficking and organelle fusion mediated by the LYST protein",
+        "correct": true,
+        "explanation": "The patient has Chédiak-Higashi syndrome, a rare autosomal recessive immunodeficiency caused by pathogenic mutations in the LYST (lysosomal trafficking regulator) gene on chromosome 1q42. LYST regulates intracellular vesicle fusion and microtubule-mediated organelle transport. Defective lysosomal trafficking leads to failure of phagolysosome formation: phagosomes cannot fuse with lysosomes, preventing phagocytosed bacteria from being killed by lysosomal acid hydrolases. Concurrently, lysosomes undergo abnormal end-to-end fusion, producing pathognomonic giant lysosomal granules within neutrophils, monocytes, and eosinophils. Because melanosomes are specialized lysosome-related organelles, defective melanosome dispersion in melanocytes causes partial oculocutaneous albinism with silvery hair, pale skin, and photophobia/nystagmus. Defective dense granules in platelets cause easy bruising, and impaired axonal vesicular transport causes progressive peripheral neuropathy."
+      },
+      {
+        "text": "Copper-transporting P-type ATPase (ATP7A) translocation in the trans-Golgi network",
+        "correct": false,
+        "explanation": "ATP7A mutations cause Menkes disease (\"kinky\" brittle hair, cerebral degeneration, vascular tortuosity due to lysyl oxidase failure), not giant neutrophil granules or immune deficiency."
+      },
+      {
+        "text": "Clathrin-mediated endocytosis of low-density lipoprotein receptor complexes",
+        "correct": false,
+        "explanation": "Defective LDL receptor endocytosis causes familial hypercholesterolemia (xanthomas, premature atherosclerosis), unrelated to lysosomal organelle fusion."
+      },
+      {
+        "text": "Peroxisomal biogenesis and ATP-binding cassette transporter assembly",
+        "correct": false,
+        "explanation": "Peroxisome biogenesis defects cause Zellweger syndrome (very long-chain fatty acid accumulation, craniofacial dysmorphism, hepatomegaly), lacking giant granules."
+      }
+    ],
+    "explanation": "The patient has Chédiak-Higashi syndrome, a rare autosomal recessive immunodeficiency caused by pathogenic mutations in the LYST (lysosomal trafficking regulator) gene on chromosome 1q42. LYST regulates intracellular vesicle fusion and microtubule-mediated organelle transport. Defective lysosomal trafficking leads to failure of phagolysosome formation: phagosomes cannot fuse with lysosomes, preventing phagocytosed bacteria from being killed by lysosomal acid hydrolases. Concurrently, lysosomes undergo abnormal end-to-end fusion, producing pathognomonic giant lysosomal granules within neutrophils, monocytes, and eosinophils. Because melanosomes are specialized lysosome-related organelles, defective melanosome dispersion in melanocytes causes partial oculocutaneous albinism with silvery hair, pale skin, and photophobia/nystagmus. Defective dense granules in platelets cause easy bruising, and impaired axonal vesicular transport causes progressive peripheral neuropathy. Recognize Chédiak-Higashi syndrome: autosomal recessive mutation in the LYST gene (lysosomal trafficking regulator). Impairs microtubule-dependent intracellular vesicle transport and lysosomal-phagosomal fusion. Clinical tetrad: 1. Partial oculocutaneous albinism (abnormal melanosome trafficking in melanocytes); 2. Recurrent pyogenic staphylococcal/streptococcal infections (impaired phagolysosome killing); 3. Progressive peripheral and cranial neuropathies; 4. Bleeding diathesis (dense platelet granule defect). Peripheral blood smear is pathognomonic: GIANT AZUROPHILIC LYSOSOMAL GRANULES within neutrophils, monocytes, and eosinophils.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Chediak-Higashi Syndrome LYST Lysosomal Trafficking Defect.",
+    "keyPoints": [
+      "Chediak-Higashi Syndrome LYST Lysosomal Trafficking Defect",
+      "Recognize Chédiak-Higashi syndrome: autosomal recessive mutation in the LYST gene (lysosomal trafficking regulator). Impairs microtubule-dependent intracellular vesicle transport a"
+    ],
+    "references": [
+      {
+        "label": "Kaplan J, et al. Chediak-Higashi syndrome. Curr Opin Hematol. 2008;15(1):22-29. PMID: 18043242.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18043242/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0118",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Nervous System",
+    "topic": "Ataxia-Telangiectasia ATM Gene Non-Homologous End Joining",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 5-year-old girl is brought to the pediatric neurology clinic for progressive clumsiness and frequent falls. Her parents note that she began walking at 14 months with a clumsy gait that has steadily deteriorated over the past 2 years. She also has a history of three hospitalizations for severe Streptococcus pneumoniae sinusitis and bronchopneumonia. Physical examination reveals an alert child who requires hand-holding to ambulate due to marked truncal and appendicular cerebellar ataxia. Cranial nerve examination reveals prominent oculomotor apraxia and fine, branched, spider-like vascular dilatations (telangiectasias) across the bulbar conjunctivae of both eyes and over the bridge of her nose. Laboratory evaluation reveals: serum IgA 8 mg/dL (markedly decreased; normal: 40–200 mg/dL), serum IgG2 decreased, and serum alpha-fetoprotein (AFP) markedly elevated at 142 ng/mL (normal: < 10 ng/mL). Brain MRI confirms marked atrophy of the cerebellar vermis and hemispheres. This patient’s underlying disease is caused by an inability to repair which of the following forms of DNA damage?",
+    "options": [
+      {
+        "text": "Ultraviolet light-induced cyclobutane pyrimidine dimers repaired by nucleotide excision repair",
+        "correct": false,
+        "explanation": "Defective nucleotide excision repair of UV-induced pyrimidine dimers causes Xeroderma Pigmentosum, presenting with severe photosensitivity, dry skin, and cutaneous malignancies, not ataxia or conjunctival telangiectasias."
+      },
+      {
+        "text": "Replication-associated single-base mismatches corrected by post-replicative mismatch repair",
+        "correct": false,
+        "explanation": "Defective DNA mismatch repair (MSH2, MLH1, MSH6, PMS2) causes Lynch syndrome (hereditary nonpolyposis colorectal cancer), characterized by microsatellite instability without ataxia."
+      },
+      {
+        "text": "DNA double-strand breaks induced by ionizing radiation and free radical oxidation",
+        "correct": true,
+        "explanation": "Ataxia-telangiectasia is an autosomal recessive neurodegenerative and immunodeficiency disorder caused by mutations in the ATM (ataxia-telangiectasia mutated) gene on chromosome 11q22. The ATM protein is a master serine/threonine kinase belonging to the PI3K-like kinase family. It functions as the primary sensor of DNA double-strand breaks (DSBs) generated by ionizing radiation, radiomimetic chemotherapies, or physiological V(D)J / class-switch recombination. Upon sensing DSBs, ATM phosphorylates p53, CHK2, and BRCA1 to halt cell cycle progression at G1/S or G2/M and recruit the non-homologous end joining (NHEJ) machinery. Loss of ATM leads to failure of DSB repair, accumulation of chromosomal breaks, apoptosis of cerebellar Purkinje cells (ataxia), telangiectasias, profound IgA/IgG2 deficiency (recurrent sinopulmonary infections), marked AFP elevation, extreme radiosensitivity, and high risk of lymphoid leukemias/lymphomas."
+      },
+      {
+        "text": "Spontaneous deamination of cytosine to uracil removed by base excision repair glycosylases",
+        "correct": false,
+        "explanation": "Base excision repair removes single deaminated or oxidized bases (via DNA glycosylases and AP endonucleases); defects do not cause ataxia-telangiectasia."
+      },
+      {
+        "text": "Interstrand DNA cross-links repaired by the Fanconi anemia nuclear core protein complex",
+        "correct": false,
+        "explanation": "Defective interstrand crosslink repair causes Fanconi anemia, presenting with aplastic anemia, radial ray anomalies (absent thumbs), and café-au-lait spots."
+      }
+    ],
+    "explanation": "Ataxia-telangiectasia is an autosomal recessive neurodegenerative and immunodeficiency disorder caused by mutations in the ATM (ataxia-telangiectasia mutated) gene on chromosome 11q22. The ATM protein is a master serine/threonine kinase belonging to the PI3K-like kinase family. It functions as the primary sensor of DNA double-strand breaks (DSBs) generated by ionizing radiation, radiomimetic chemotherapies, or physiological V(D)J / class-switch recombination. Upon sensing DSBs, ATM phosphorylates p53, CHK2, and BRCA1 to halt cell cycle progression at G1/S or G2/M and recruit the non-homologous end joining (NHEJ) machinery. Loss of ATM leads to failure of DSB repair, accumulation of chromosomal breaks, apoptosis of cerebellar Purkinje cells (ataxia), telangiectasias, profound IgA/IgG2 deficiency (recurrent sinopulmonary infections), marked AFP elevation, extreme radiosensitivity, and high risk of lymphoid leukemias/lymphomas. Recognize Ataxia-Telangiectasia: autosomal recessive mutation in the ATM gene on chromosome 11q22. ATM encodes a serine/threonine protein kinase that senses DNA DOUBLE-STRAND BREAKS (e.g., from ionizing radiation) and orchestrates cell-cycle arrest (via p53) and repair via non-homologous end joining (NHEJ) and homologous recombination. Clinical triad: 1. Progressive cerebellar ataxia (Purkinje and granule cell loss, wheelchair-bound by age 10); 2. Oculocutaneous telangiectasias (dilated conjunctival and facial capillaries appearing by ages 3-5); 3. Combined immunodeficiency (profound IgA and IgG deficiency leading to recurrent sinopulmonary infections). Marked elevation of serum ALPHA-FETOPROTEIN (AFP) is the biochemical hallmark. Extreme hypersensitivity to IONIZING RADIATION and high risk of hematologic malignancies (lymphoma/leukemia).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Ataxia-Telangiectasia ATM Gene Non-Homologous End Joining.",
+    "keyPoints": [
+      "Ataxia-Telangiectasia ATM Gene Non-Homologous End Joining",
+      "Recognize Ataxia-Telangiectasia: autosomal recessive mutation in the ATM gene on chromosome 11q22. ATM encodes a serine/threonine protein kinase that senses DNA DOUBLE-STRAND BREAK"
+    ],
+    "references": [
+      {
+        "label": "Rothblum-Oviatt C, et al. Ataxia telangiectasia: a review. Orphanet J Rare Dis. 2016;11(1):159. PMID: 27884168.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27884168/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0119",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Musculoskeletal",
+    "topic": "Alkaptonuria Homogentisate 1,2-Dioxygenase Ochronosis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man presents to the rheumatology clinic with severe, chronic, progressive lower back stiffness and bilateral knee pain that has made walking difficult over the past 5 years. Physical examination reveals a flattened lumbar lordosis with marked restriction of spinal flexion, along with crepitus and effusion in both knees. On closer examination, the physician observes slate-blue to dark-gray speckled pigmentation across the sclerae of both eyes and along the cartilage of both ear helices. Radiographs of the spine demonstrate marked, multi-level intervertebral disc calcifications and disc space narrowing throughout the thoracic and lumbar spine, with complete fusion of several lumbar vertebrae. The patient recalls that since infancy, his urine would turn completely black if left standing in the toilet bowl. This patient’s degenerative arthropathy is caused by the accumulation and tissue deposition of a metabolic byproduct derived from the catabolism of which of the following amino acids?",
+    "options": [
+      {
+        "text": "Methionine and homocysteine catabolism accumulating cystathionine",
+        "correct": false,
+        "explanation": "Methionine catabolism defects cause homocystinuria (cystathionine beta-synthase deficiency), presenting with Marfanoid habitus, ectopia lentis (downward lens subluxation), and thromboembolism, not ochronosis."
+      },
+      {
+        "text": "Tryptophan catabolism accumulating kynurenine and xanthurenic acid",
+        "correct": false,
+        "explanation": "Tryptophan degradation produces niacin and picolinic acid; defects in kynurenine metabolism cause vitamin B6-dependent disorders, not alkaptonuria or spinal disc calcification."
+      },
+      {
+        "text": "Branched-chain amino acids (leucine, isoleucine, valine) accumulating alpha-ketoacids",
+        "correct": false,
+        "explanation": "BCAA catabolism defects cause maple syrup urine disease (sweet burnt-sugar odor and neonatal encephalopathy), not adult-onset ochronotic arthropathy."
+      },
+      {
+        "text": "Phenylalanine and tyrosine catabolism accumulating homogentisic acid",
+        "correct": true,
+        "explanation": "The patient has alkaptonuria, an autosomal recessive inborn error of metabolism caused by deficiency of homogentisate 1,2-dioxygenase (HGD) on chromosome 3q13. In the normal catabolic pathway of phenylalanine and tyrosine, phenylalanine is converted to tyrosine, which is subsequently converted through 4-hydroxyphenylpyruvate into homogentisic acid (HGA). Homogentisate 1,2-dioxygenase normally converts HGA into maleylacetoacetate (and eventually fumarate and acetoacetate). When HGD is deficient, HGA accumulates in blood and is excreted in large quantities in the urine. Upon oxidation by air or alkaline substances, HGA polymerizes into an alkapton pigment, turning the urine dark brownish-black. Over decades, HGA pigment irreversibly binds to collagen fibers in connective tissue, cartilage, and heart valves (ochronosis). This leads to brittle cartilage, dense wafer-like intervertebral disc calcification, and severe, premature, debilitating spondyloarthropathy and large-joint osteoarthritis."
+      },
+      {
+        "text": "Arginine and ornithine catabolism accumulating guanidinoacetate",
+        "correct": false,
+        "explanation": "Arginine metabolism contributes to creatine and urea synthesis; guanidinoacetate methyltransferase deficiency causes intellectual disability and seizures, not dark urine or arthritis."
+      }
+    ],
+    "explanation": "The patient has alkaptonuria, an autosomal recessive inborn error of metabolism caused by deficiency of homogentisate 1,2-dioxygenase (HGD) on chromosome 3q13. In the normal catabolic pathway of phenylalanine and tyrosine, phenylalanine is converted to tyrosine, which is subsequently converted through 4-hydroxyphenylpyruvate into homogentisic acid (HGA). Homogentisate 1,2-dioxygenase normally converts HGA into maleylacetoacetate (and eventually fumarate and acetoacetate). When HGD is deficient, HGA accumulates in blood and is excreted in large quantities in the urine. Upon oxidation by air or alkaline substances, HGA polymerizes into an alkapton pigment, turning the urine dark brownish-black. Over decades, HGA pigment irreversibly binds to collagen fibers in connective tissue, cartilage, and heart valves (ochronosis). This leads to brittle cartilage, dense wafer-like intervertebral disc calcification, and severe, premature, debilitating spondyloarthropathy and large-joint osteoarthritis. Recognize Alkaptonuria: autosomal recessive defect in homogentisate 1,2-dioxygenase in the degradative pathway of tyrosine to fumarate. Homogentisic acid (HGA) accumulates and is excreted in urine. HGA oxidizes to a dark pigment when urine stands or is exposed to air/alkali. Pigment polymerizes and deposits in connective tissue (OCHRONOSIS): bluish-black pigmentation of sclerae, ear cartilage, and heart valves. In adults (ages 30-50), pigment binds collagen in joints and intervertebral discs, causing dense disc calcification, loss of lumbar lordosis, and crippling debilitating osteoarthropathy (ankylosis of spine and large joints). Benign in childhood aside from dark urine in diapers.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Alkaptonuria Homogentisate 1,2-Dioxygenase Ochronosis.",
+    "keyPoints": [
+      "Alkaptonuria Homogentisate 1,2-Dioxygenase Ochronosis",
+      "Recognize Alkaptonuria: autosomal recessive defect in homogentisate 1,2-dioxygenase in the degradative pathway of tyrosine to fumarate. Homogentisic acid (HGA) accumulates and is e"
+    ],
+    "references": [
+      {
+        "label": "Mistry JB, et al. Alkaptonuria. Postgrad Med J. 2013;89(1058):684-690. PMID: 24043641.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24043641/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0120",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Renal",
+    "topic": "Cystinuria COLA Transporter Defect and Hexagonal Crystals",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "An 18-year-old man presents to the emergency department with severe, colicky, left-flank pain that radiates to his groin, accompanied by gross hematuria and nausea. He reports a similar episode of flank pain 2 years ago for which he passed a kidney stone that was not analyzed. Physical examination demonstrates marked left costovertebral angle tenderness. Non-contrast abdominal CT reveals a 7-mm radio-opaque calculus lodged in the left proximal ureter, causing moderate proximal hydroureteronephrosis. Urinalysis demonstrates: urine pH 5.5, specific gravity 1.025, 3+ blood, and microscopic sediment revealing numerous flat, colorless, hexagonal crystals. The addition of sodium cyanide to the patient’s urine followed by sodium nitroprusside generates an intense purple-red color reaction. This patient’s stone-forming disorder is caused by defective tubular reabsorption of cystine along with which of the following groups of amino acids?",
+    "options": [
+      {
+        "text": "Alanine, valine, leucine, and isoleucine sharing the neutral monocarboxylic amino acid transporter",
+        "correct": false,
+        "explanation": "Defective neutral amino acid reabsorption causes Hartnup disease (SLC6A19 mutation), presenting with pellagra-like rash and ataxia without kidney stones."
+      },
+      {
+        "text": "Glutamate and aspartate sharing the acidic dicarboxylic amino acid carrier",
+        "correct": false,
+        "explanation": "Defective acidic amino acid transport causes dicarboxylic aminoaciduria (SLC1A1 mutation), which is typically benign or presents with mental retardation, not cystine nephrolithiasis."
+      },
+      {
+        "text": "Proline, hydroxyproline, and glycine sharing the iminoglycinuria luminal symporter",
+        "correct": false,
+        "explanation": "Defective iminoglycine transport causes benign familial iminoglycinuria, an asymptomatic condition characterized by urinary excretion of proline and glycine without calculi."
+      },
+      {
+        "text": "Phenylalanine, tyrosine, and tryptophan sharing the large neutral L-type transporter",
+        "correct": false,
+        "explanation": "Aromatic amino acid transport is mediated by LAT1/LAT2; defects do not produce hexagonal urinary crystals or cystinuria."
+      },
+      {
+        "text": "Ornithine, lysine, and arginine sharing the dibasic amino acid apical transporter",
+        "correct": true,
+        "explanation": "Cystinuria is an autosomal recessive disorder caused by mutations in SLC3A1 (encoding rBAT) or SLC7A9 (encoding b0,+AT). These proteins form a heterodimeric, sodium-independent transporter on the apical brush border membrane of renal proximal convoluted tubule cells and small intestinal enterocytes. The transporter mediates the reabsorption of four dibasic amino acids, remembered by the mnemonic COLA: Cystine, Ornithine, Lysine, and Arginine. While ornithine, lysine, and arginine are highly water-soluble and freely excreted without adverse effect, cystine (composed of two cysteine molecules joined by a disulfide bond) has very poor solubility in acidic urine (precipitation threshold ~250 mg/L at pH < 7.0). Precipitation produces recurrent radiopaque staghorn or ureteral calculi. Urinalysis reveals pathognomonic flat, hexagonal, benzene-ring-like crystals. The sodium cyanide-nitroprusside test is diagnostic."
+      }
+    ],
+    "explanation": "Cystinuria is an autosomal recessive disorder caused by mutations in SLC3A1 (encoding rBAT) or SLC7A9 (encoding b0,+AT). These proteins form a heterodimeric, sodium-independent transporter on the apical brush border membrane of renal proximal convoluted tubule cells and small intestinal enterocytes. The transporter mediates the reabsorption of four dibasic amino acids, remembered by the mnemonic COLA: Cystine, Ornithine, Lysine, and Arginine. While ornithine, lysine, and arginine are highly water-soluble and freely excreted without adverse effect, cystine (composed of two cysteine molecules joined by a disulfide bond) has very poor solubility in acidic urine (precipitation threshold ~250 mg/L at pH < 7.0). Precipitation produces recurrent radiopaque staghorn or ureteral calculi. Urinalysis reveals pathognomonic flat, hexagonal, benzene-ring-like crystals. The sodium cyanide-nitroprusside test is diagnostic. Recognize Cystinuria: autosomal recessive defect in the apical sodium-independent dibasic amino acid transporter (rBAT / SLC3A1 and b0,+AT / SLC7A9) in renal proximal tubules and small intestine. Prevents reabsorption of COLA: Cystine, Ornithine, Lysine, Arginine. Only CYSTINE is poorly soluble in acidic urine (pH < 7.0), causing recurrent nephrolithiasis in young patients (teens/20s). Urinalysis shows pathognomonic flat, colorless, HEXAGONAL crystals. Confirmatory bedside test: Sodium cyanide-nitroprusside test (cyanide reduces cystine disulfides to cysteine, producing a red-purple color with nitroprusside). Treatment: aggressive hydration, urinary alkalinization (potassium citrate/bicarbonate to pH > 7.5), and chelating agents (tiopronin/penicillamine) for refractory stones.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Cystinuria COLA Transporter Defect and Hexagonal Crystals.",
+    "keyPoints": [
+      "Cystinuria COLA Transporter Defect and Hexagonal Crystals",
+      "Recognize Cystinuria: autosomal recessive defect in the apical sodium-independent dibasic amino acid transporter (rBAT / SLC3A1 and b0,+AT / SLC7A9) in renal proximal tubules and s"
+    ],
+    "references": [
+      {
+        "label": "Ahmed K, et al. Cystinuria: a review of the literature. Int J Surg. 2006;4(4):244-249. PMID: 17462354.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17462354/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0121",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Endocrine",
+    "topic": "Glycogen Storage Disease Type I Glucose-6-Phosphatase",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-month-old male infant is brought to the emergency department after experiencing a generalized tonic-clonic seizure at 6:00 AM. His mother states that he slept through the night for the first time (6 hours without feeding) before waking up limp, pale, and convulsing. Physical examination reveals an irritable infant with striking \"doll-like\" cherubic facial features, thin extremities, and a massively protuberant abdomen. Abdominal examination confirms non-tender hepatomegaly palpable 6 cm below the right costal margin; the spleen is not palpable. Immediate bedside glucose measurement is 24 mg/dL. Following intravenous dextrose administration, his seizure ceases and mental status normalizes. Laboratory evaluation reveals: arterial pH 7.24, serum bicarbonate 12 mEq/L, anion gap 22 mEq/L, serum lactate 7.8 mmol/L (normal: 0.5–2.2 mmol/L), serum uric acid 11.2 mg/dL (normal: 2.0–5.5 mg/dL), and serum triglycerides 840 mg/dL (normal: < 150 mg/dL). Intravenous administration of glucagon fails to increase blood glucose concentrations but results in a further rise in serum lactate. Deficient activity of which of the following enzymes is responsible for this metabolic crisis?",
+    "options": [
+      {
+        "text": "Glucose-6-phosphatase in the endoplasmic reticulum membrane of hepatocytes and renal tubular cells",
+        "correct": true,
+        "explanation": "The infant has Glycogen Storage Disease Type Ia (von Gierke disease), an autosomal recessive inborn error of metabolism caused by deficiency of glucose-6-phosphatase (G6Pase). G6Pase is located in the endoplasmic reticulum membrane of hepatocytes, enterocytes, and renal proximal tubular cells. It catalyzes the terminal reaction of both glycogenolysis and gluconeogenesis: the dephosphorylation of glucose-6-phosphate to produce free glucose for export into the bloodstream. In its absence, free glucose cannot be released during fasting, precipitating profound fasting hypoglycemia within 2 to 4 hours of a meal. Accumulated glucose-6-phosphate is shunted into alternative pathways: (1) glycolysis produces excess pyruvate, which is converted to lactate, causing severe lactic acidosis; (2) HMP shunt overactivation generates excess ribose-5-phosphate and PRPP, driving purine overproduction and catabolism to uric acid (hyperuricemia/gout), exacerbated by lactate competing with urate for renal tubular secretion; and (3) excess acetyl-CoA drives de novo lipogenesis, causing profound hypertriglyceridemia and xanthomas. Glucagon administration cannot release glucose and only worsens lactic acidosis."
+      },
+      {
+        "text": "Liver glycogen phosphorylase catalyzing alpha-1,4-glycosidic phosphorolysis",
+        "correct": false,
+        "explanation": "Liver glycogen phosphorylase deficiency causes GSD Type VI (Hers disease), which presents with mild hepatomegaly and mild hypoglycemia because gluconeogenesis remains completely intact."
+      },
+      {
+        "text": "Lysosomal acid alpha-1,4-glucosidase hydrolyzing glycogen within secondary lysosomes",
+        "correct": false,
+        "explanation": "Acid alpha-glucosidase (maltase) deficiency causes GSD Type II (Pompe disease), characterized by massive hypertrophic cardiomyopathy and severe hypotonia without hypoglycemia."
+      },
+      {
+        "text": "Glycogen debranching enzyme possessing alpha-1,4-transferase and alpha-1,6-glucosidase activities",
+        "correct": false,
+        "explanation": "Debranching enzyme deficiency causes GSD Type III (Cori disease), which features mild hypoglycemia, hepatomegaly, and accumulation of limit dextrins, but normal blood lactate."
+      },
+      {
+        "text": "Branching enzyme (amylo-alpha-1,4-to-1,6-transglucosidase) forming glycogen branch points",
+        "correct": false,
+        "explanation": "Branching enzyme deficiency causes GSD Type IV (Andersen disease), characterized by accumulation of abnormal insoluble amylopectin-like polyglucosans, leading to early progressive cirrhosis and death in infancy."
+      }
+    ],
+    "explanation": "The infant has Glycogen Storage Disease Type Ia (von Gierke disease), an autosomal recessive inborn error of metabolism caused by deficiency of glucose-6-phosphatase (G6Pase). G6Pase is located in the endoplasmic reticulum membrane of hepatocytes, enterocytes, and renal proximal tubular cells. It catalyzes the terminal reaction of both glycogenolysis and gluconeogenesis: the dephosphorylation of glucose-6-phosphate to produce free glucose for export into the bloodstream. In its absence, free glucose cannot be released during fasting, precipitating profound fasting hypoglycemia within 2 to 4 hours of a meal. Accumulated glucose-6-phosphate is shunted into alternative pathways: (1) glycolysis produces excess pyruvate, which is converted to lactate, causing severe lactic acidosis; (2) HMP shunt overactivation generates excess ribose-5-phosphate and PRPP, driving purine overproduction and catabolism to uric acid (hyperuricemia/gout), exacerbated by lactate competing with urate for renal tubular secretion; and (3) excess acetyl-CoA drives de novo lipogenesis, causing profound hypertriglyceridemia and xanthomas. Glucagon administration cannot release glucose and only worsens lactic acidosis. Recognize Glycogen Storage Disease Type I (von Gierke disease): autosomal recessive deficiency of Glucose-6-Phosphatase (Type Ia) or G6P translocase (Type Ib). Final common step of BOTH glycogenolysis and gluconeogenesis in liver and kidney. Hallmarks: 1. Severe fasting hypoglycemia (seizures, lethargy 2-4 hours after feeds); 2. Lactic acidosis (pyruvate shunted to lactate); 3. Hyperuricemia (G6P shunted into HMP shunt -> excess PRPP and purine breakdown, plus lactate competes with uric acid for renal excretion -> gout); 4. Hyperlipidemia (excess G6P shunted to acetyl-CoA -> triglycerides/cholesterol -> xanthomas, doll-like cherubic facies); 5. Massive hepatomegaly with NORMAL spleen (glycogen accumulates in liver). Treatment: frequent oral uncooked cornstarch and avoidance of fructose/galactose (which cannot be converted to free glucose).",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Glycogen Storage Disease Type I Glucose-6-Phosphatase.",
+    "keyPoints": [
+      "Glycogen Storage Disease Type I Glucose-6-Phosphatase",
+      "Recognize Glycogen Storage Disease Type I (von Gierke disease): autosomal recessive deficiency of Glucose-6-Phosphatase (Type Ia) or G6P translocase (Type Ib). Final common step of"
+    ],
+    "references": [
+      {
+        "label": "Kishnani PS, et al. Diagnosis and management of glycogen storage disease type I. Genet Med. 2014;16(11):e1. PMID: 25356975.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25356975/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0122",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Musculoskeletal",
+    "topic": "Glycogen Storage Disease Type V Myophosphorylase Deficiency",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old college student presents to the sports medicine clinic complaining of recurrent episodes of severe, painful muscle stiffness and cramping in his calves and thighs during high-intensity weightlifting and sprinting. He notes that if he rests for approximately 10 to 15 minutes when symptoms begin, he experiences a remarkable \"second wind\" that allows him to resume moderate jogging without further cramps. Yesterday, following an intense CrossFit workout, his urine turned dark reddish-brown. Urinalysis demonstrates 3+ blood on dipstick, but microscopic sediment examination reveals 0–1 red blood cells per high-power field. Serum creatine kinase (CK) is markedly elevated at 28,500 U/L (normal: 50–200 U/L). Serum electrolytes and fasting blood glucose are normal. A standardized non-ischemic forearm exercise test is performed: sequential blood samples drawn from the antecubital vein during strenuous repetitive handgrip contractions demonstrate a normal rise in venous ammonia, but a completely flat venous lactate concentration curve (no increase in blood lactate). The deficient enzyme in this patient normally catalyzes which of the following reactions?",
+    "options": [
+      {
+        "text": "Hydrolysis of alpha-1,6-glucosidic branch points releasing free unphosphorylated glucose",
+        "correct": false,
+        "explanation": "Hydrolysis of alpha-1,6 branch points is catalyzed by the alpha-1,6-glucosidase activity of debranching enzyme (Cori disease, GSD III), which affects liver and muscle and causes hepatomegaly and hypoglycemia."
+      },
+      {
+        "text": "Phosphorolytic cleavage of alpha-1,4-glycosidic bonds in skeletal muscle glycogen to yield glucose-1-phosphate",
+        "correct": true,
+        "explanation": "The patient has Glycogen Storage Disease Type V (McArdle disease), an autosomal recessive myopathy caused by mutations in the PYGM gene, encoding skeletal muscle glycogen phosphorylase (myophosphorylase). Myophosphorylase catalyzes the rate-limiting first step of glycogenolysis in skeletal muscle: phosphorolytic cleavage of alpha-1,4-glucosidic bonds using inorganic phosphate to generate glucose-1-phosphate. During high-intensity anaerobic exercise, skeletal muscle depends on glycogenolysis to fuel rapid glycolysis. Without myophosphorylase, muscle cells cannot generate glucose-1-phosphate, resulting in acute intracellular ATP depletion, failure of calcium reuptake into the sarcoplasmic reticulum, and painful contractures/cramping with rhabdomyolysis (elevated CK, myoglobinuria). The non-ischemic forearm test confirms absent anaerobic glycolysis (flat venous lactate curve) while muscle adenylate kinase and AMP deaminase activity generate normal ammonia. The pathognomonic \"second-wind\" phenomenon occurs as vasodilation delivers blood-borne free fatty acids and hepatic glucose to exercising muscle."
+      },
+      {
+        "text": "Phosphorylation of fructose-6-phosphate to fructose-1,6-bisphosphate in anaerobic muscle glycolysis",
+        "correct": false,
+        "explanation": "Phosphofructokinase deficiency causes GSD Type VII (Tarui disease), which presents similarly with muscle cramps but also features hemolytic anemia because erythrocyte PFK is also partially deficient."
+      },
+      {
+        "text": "Oxidative decarboxylation of pyruvate to acetyl-CoA within muscle mitochondrial matrix",
+        "correct": false,
+        "explanation": "Pyruvate dehydrogenase deficiency causes severe congenital lactic acidosis, developmental delay, and microcephaly, not exertion-induced muscle cramping with a flat lactate curve."
+      },
+      {
+        "text": "Dephosphorylation of glucose-6-phosphate to free glucose across the sarcoplasmic reticulum",
+        "correct": false,
+        "explanation": "Skeletal muscle does not express glucose-6-phosphatase (which is why muscle glycogen cannot be used to maintain blood glucose); this enzyme is present only in liver and kidney."
+      }
+    ],
+    "explanation": "The patient has Glycogen Storage Disease Type V (McArdle disease), an autosomal recessive myopathy caused by mutations in the PYGM gene, encoding skeletal muscle glycogen phosphorylase (myophosphorylase). Myophosphorylase catalyzes the rate-limiting first step of glycogenolysis in skeletal muscle: phosphorolytic cleavage of alpha-1,4-glucosidic bonds using inorganic phosphate to generate glucose-1-phosphate. During high-intensity anaerobic exercise, skeletal muscle depends on glycogenolysis to fuel rapid glycolysis. Without myophosphorylase, muscle cells cannot generate glucose-1-phosphate, resulting in acute intracellular ATP depletion, failure of calcium reuptake into the sarcoplasmic reticulum, and painful contractures/cramping with rhabdomyolysis (elevated CK, myoglobinuria). The non-ischemic forearm test confirms absent anaerobic glycolysis (flat venous lactate curve) while muscle adenylate kinase and AMP deaminase activity generate normal ammonia. The pathognomonic \"second-wind\" phenomenon occurs as vasodilation delivers blood-borne free fatty acids and hepatic glucose to exercising muscle. Recognize Glycogen Storage Disease Type V (McArdle disease): autosomal recessive deficiency of skeletal muscle glycogen phosphorylase (myophosphorylase / PYGM). Hepatic glycogen phosphorylase is normal, so blood glucose homeostasis is completely preserved (NO hypoglycemia). Hallmarks: 1. Exercise intolerance, severe painful muscle cramps, and fatigue during intense, short bursts of anaerobic exercise; 2. \"Second-wind\" phenomenon (after ~10 minutes of rest or reduced exertion, heart rate drops and exercise tolerance improves because blood-borne substrates like fatty acids and liver-derived glucose reach muscles); 3. Rhabdomyolysis and myoglobinuria (red-brown urine after exertion, positive dipstick blood with 0 RBCs, acute tubular necrosis risk); 4. Non-ischemic forearm exercise test reveals FLAT VENOUS LACTATE CURVE with normal or exaggerated rise in venous ammonia.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Glycogen Storage Disease Type V Myophosphorylase Deficiency.",
+    "keyPoints": [
+      "Glycogen Storage Disease Type V Myophosphorylase Deficiency",
+      "Recognize Glycogen Storage Disease Type V (McArdle disease): autosomal recessive deficiency of skeletal muscle glycogen phosphorylase (myophosphorylase / PYGM). Hepatic glycogen ph"
+    ],
+    "references": [
+      {
+        "label": "Lucia A, et al. McArdle disease: what we have learned in the last decade. J Physiol. 2008;586(11):2631-2640. PMID: 18400803.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18400803/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0123",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Musculoskeletal",
+    "topic": "Carnitine Palmitoyltransferase II Deficiency Rhabdomyolysis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 22-year-old military recruit is admitted to the hospital after collapsing during a 20-mile endurance ruck march conducted in cold weather following a 16-hour overnight fast. He complains of excruciating generalized muscle aches and passing cola-colored urine. He has no history of childhood weakness or developmental delay, but recalls experiencing similar muscle soreness after high school track meets. Physical examination reveals an exhausted young man with diffuse muscular tenderness in his shoulders, back, and quadriceps without focal neurological deficits. Vital signs are normal. Urinalysis demonstrates large blood on dipstick with 0 RBCs on microscopy. Laboratory evaluation demonstrates: serum creatine kinase (CK) 82,000 U/L (normal: 50–200 U/L), serum glucose 48 mg/dL (fasting hypoglycemia), serum creatinine 2.4 mg/dL (baseline 0.9 mg/dL), and undetectable urinary and serum acetoacetate and beta-hydroxybutyrate (hypoketonemia). The metabolic pathway primarily impaired in this recruit normally functions to facilitate which of the following biological processes?",
+    "options": [
+      {
+        "text": "Peroxisomal alpha-oxidation of branched-chain fatty acids such as phytanic acid",
+        "correct": false,
+        "explanation": "Peroxisomal alpha-oxidation of phytanic acid is defective in Refsum disease (PHYH mutation), presenting with retinitis pigmentosa, sensorineural deafness, ataxia, and ichthyosis, not acute exertion rhabdomyolysis."
+      },
+      {
+        "text": "Microsomal omega-oxidation of medium-chain fatty acids into dicarboxylic acids",
+        "correct": false,
+        "explanation": "Omega-oxidation is a minor rescue pathway in the endoplasmic reticulum upregulated in MCAD deficiency, not the primary mechanism of CPT II transport."
+      },
+      {
+        "text": "Translocation of long-chain fatty acyl groups across the inner mitochondrial membrane for beta-oxidation",
+        "correct": true,
+        "explanation": "The patient has the adult-onset muscular form of Carnitine Palmitoyltransferase II (CPT II) deficiency, the most common inherited disorder of lipid metabolism affecting skeletal muscle. Long-chain fatty acids (LCFAs, 14–20 carbons) cannot freely cross the inner mitochondrial membrane. In the cytosol, fatty acyl-CoA synthetase activates LCFAs to acyl-CoA. Carnitine palmitoyltransferase I (CPT I) on the outer mitochondrial membrane converts acyl-CoA to acylcarnitine. Carnitine-acylcarnitine translocase shuttles acylcarnitine across the inner membrane. Finally, CPT II on the inner mitochondrial membrane reconverts acylcarnitine back into fatty acyl-CoA within the matrix, where it enters mitochondrial beta-oxidation. Deficiency of CPT II impairs fatty acid oxidation during conditions of high energy demand and glycogen depletion (prolonged fasting, endurance exercise, cold, infection), starving skeletal muscle of ATP and causing rhabdomyolysis and myoglobinuria. Crucially, impaired hepatic beta-oxidation reduces acetyl-CoA generation, preventing ketogenesis and causing pathognomonic hypoketotic hypoglycemia."
+      },
+      {
+        "text": "Cytosolic de novo fatty acid synthesis catalyzed by fatty acid synthase",
+        "correct": false,
+        "explanation": "Fatty acid synthesis is an anabolic process active in the fed state requiring citrate and NADPH; CPT II is a catabolic mitochondrial transport enzyme."
+      },
+      {
+        "text": "Mitochondrial matrix cleavage of 3-hydroxy-3-methylglutaryl-CoA into acetoacetate",
+        "correct": false,
+        "explanation": "HMG-CoA lyase deficiency impairs ketogenesis and leucine catabolism, presenting in early infancy with profound metabolic acidosis and hypoglycemia, without adult-onset exercise rhabdomyolysis."
+      }
+    ],
+    "explanation": "The patient has the adult-onset muscular form of Carnitine Palmitoyltransferase II (CPT II) deficiency, the most common inherited disorder of lipid metabolism affecting skeletal muscle. Long-chain fatty acids (LCFAs, 14–20 carbons) cannot freely cross the inner mitochondrial membrane. In the cytosol, fatty acyl-CoA synthetase activates LCFAs to acyl-CoA. Carnitine palmitoyltransferase I (CPT I) on the outer mitochondrial membrane converts acyl-CoA to acylcarnitine. Carnitine-acylcarnitine translocase shuttles acylcarnitine across the inner membrane. Finally, CPT II on the inner mitochondrial membrane reconverts acylcarnitine back into fatty acyl-CoA within the matrix, where it enters mitochondrial beta-oxidation. Deficiency of CPT II impairs fatty acid oxidation during conditions of high energy demand and glycogen depletion (prolonged fasting, endurance exercise, cold, infection), starving skeletal muscle of ATP and causing rhabdomyolysis and myoglobinuria. Crucially, impaired hepatic beta-oxidation reduces acetyl-CoA generation, preventing ketogenesis and causing pathognomonic hypoketotic hypoglycemia. Differentiate Carnitine Palmitoyltransferase II (CPT II) deficiency from glycogen storage diseases: CPT II deficiency is an autosomal recessive disorder of the carnitine shuttle (catalyzes the reformation of acyl-carnitine into acyl-CoA inside the mitochondrial matrix). Most common adult form presents with recurrent exercise-, cold-, infection-, or fasting-induced RHABDOMYOLYSIS, myoglobinuria, and muscle pain, without the \"second-wind\" phenomenon of McArdle disease. Because long-chain fatty acids cannot enter the mitochondrial matrix for beta-oxidation, acetyl-CoA is depleted, preventing hepatic ketone body synthesis during fasting. This produces HYPOKETOTIC HYPOGLYCEMIA during prolonged fasting (in contrast to normal ketones/glycogenolysis in pure muscle glycogenoses). Muscle biopsy reveals lipid droplet accumulation in type I slow-twitch muscle fibers.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Carnitine Palmitoyltransferase II Deficiency Rhabdomyolysis.",
+    "keyPoints": [
+      "Carnitine Palmitoyltransferase II Deficiency Rhabdomyolysis",
+      "Differentiate Carnitine Palmitoyltransferase II (CPT II) deficiency from glycogen storage diseases: CPT II deficiency is an autosomal recessive disorder of the carnitine shuttle (c"
+    ],
+    "references": [
+      {
+        "label": "Bonnefont JP, et al. Carnitine palmitoyltransferases 1 and 2: biochemical, molecular and clinical aspects. Mol Aspects Med. 2004;25(5-6):495-520. PMID: 15363995.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15363995/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0124",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Medium-Chain Acyl-CoA Dehydrogenase Deficiency Hypoketotic Hypoglycemia",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 14-month-old girl is brought to the pediatric emergency department in a comatose state. Her parents report that she developed a mild viral gastroenteritis with vomiting 24 hours ago, during which she refused all oral intake and fluids. Physical examination reveals an unresponsive, hypotonic toddler with shallow respirations and mild hepatomegaly palpable 3 cm below the right costal margin. Bedside capillary glucose is 18 mg/dL. Immediate intravenous dextrose resuscitation restores consciousness over the next 30 minutes. Laboratory evaluation reveals: arterial pH 7.34, serum bicarbonate 18 mEq/L, serum ammonia 92 micromol/L (normal: 15–45 micromol/L), and serum AST 142 U/L and ALT 168 U/L. Urinalysis demonstrates 4+ glucose (post-resuscitation) and a complete absence of ketones (negative for acetoacetate and beta-hydroxybutyrate). Plasma acylcarnitine profile reveals markedly elevated octanoylcarnitine (C8) and hexanoylcarnitine (C6). Urine organic acid analysis reveals prominent dicarboxylic aciduria (adipic, suberic, and sebacic acids). The enzyme deficient in this patient catalyzes the initial reaction of which of the following metabolic pathways?",
+    "options": [
+      {
+        "text": "Peroxisomal very long-chain fatty acid oxidation coupled to molecular oxygen reduction to hydrogen peroxide",
+        "correct": false,
+        "explanation": "Peroxisomal beta-oxidation handles very long-chain fatty acids (VLCFAs, >= C22) via acyl-CoA oxidase generating H2O2; defects cause X-linked adrenoleukodystrophy (ABCD1 mutation), not MCAD deficiency."
+      },
+      {
+        "text": "Hepatic mitochondrial ketogenesis converting acetoacetyl-CoA into 3-hydroxy-3-methylglutaryl-CoA",
+        "correct": false,
+        "explanation": "HMG-CoA synthase catalyzes the condensation of acetoacetyl-CoA and acetyl-CoA in ketogenesis; while MCAD deficiency causes hypoketonemia, the enzymatic defect is in fatty acid beta-oxidation, starving ketogenesis of its substrate (acetyl-CoA)."
+      },
+      {
+        "text": "Cytosolic carnitine biosynthesis from protein-bound lysine and methionine precursors",
+        "correct": false,
+        "explanation": "Primary carnitine deficiency (OCTN2 organic cation transporter mutation) impairs cellular carnitine uptake, presenting with low serum free carnitine, whereas MCAD deficiency features elevated acylcarnitines (especially C8)."
+      },
+      {
+        "text": "Mitochondrial beta-oxidation of fatty acids utilizing flavin adenine dinucleotide (FAD) as an electron acceptor",
+        "correct": true,
+        "explanation": "The child has Medium-Chain Acyl-CoA Dehydrogenase (MCAD) deficiency, the most common inherited defect of mitochondrial fatty acid beta-oxidation (autosomal recessive, frequently due to a c.985A>G mutation in the ACADM gene). In mitochondrial beta-oxidation, acyl-CoA dehydrogenases (VLCAD, LCAD, MCAD, SCAD) catalyze the initial dehydrogenation step, introducing a trans-double bond between C2 and C3 of fatty acyl-CoA, transferring electrons to FAD (producing FADH2, which transfers electrons to ubiquinone via electron-transferring flavoprotein). When hepatic glycogen is exhausted after a 12–18 hour fast, the liver relies on beta-oxidation of fatty acids to generate acetyl-CoA (which drives ketogenesis and allosterically activates pyruvate carboxylase for gluconeogenesis). In MCAD deficiency, medium-chain fatty acids (C6–C12) cannot be oxidized. The liver cannot synthesize ketones or maintain gluconeogenesis, producing catastrophic hypoketotic hypoglycemia, hyperammonemia, and hepatic steatosis. Excess medium-chain fatty acids undergo microsomal omega-oxidation, yielding C6–C10 dicarboxylic acids in urine."
+      },
+      {
+        "text": "Hepatic gluconeogenesis converting pyruvate into oxaloacetate via biotin carboxylation",
+        "correct": false,
+        "explanation": "Pyruvate carboxylase is a biotin-dependent gluconeogenic enzyme; in MCAD deficiency, pyruvate carboxylase is structurally normal but fails to be allosterically activated by acetyl-CoA."
+      }
+    ],
+    "explanation": "The child has Medium-Chain Acyl-CoA Dehydrogenase (MCAD) deficiency, the most common inherited defect of mitochondrial fatty acid beta-oxidation (autosomal recessive, frequently due to a c.985A>G mutation in the ACADM gene). In mitochondrial beta-oxidation, acyl-CoA dehydrogenases (VLCAD, LCAD, MCAD, SCAD) catalyze the initial dehydrogenation step, introducing a trans-double bond between C2 and C3 of fatty acyl-CoA, transferring electrons to FAD (producing FADH2, which transfers electrons to ubiquinone via electron-transferring flavoprotein). When hepatic glycogen is exhausted after a 12–18 hour fast, the liver relies on beta-oxidation of fatty acids to generate acetyl-CoA (which drives ketogenesis and allosterically activates pyruvate carboxylase for gluconeogenesis). In MCAD deficiency, medium-chain fatty acids (C6–C12) cannot be oxidized. The liver cannot synthesize ketones or maintain gluconeogenesis, producing catastrophic hypoketotic hypoglycemia, hyperammonemia, and hepatic steatosis. Excess medium-chain fatty acids undergo microsomal omega-oxidation, yielding C6–C10 dicarboxylic acids in urine. Recognize Medium-Chain Acyl-CoA Dehydrogenase (MCAD) Deficiency: autosomal recessive mutation in ACADM (classic A985G substitution). Most common inborn error of fatty acid oxidation. Inability to oxidize medium-chain fatty acids (6-12 carbons) to acetyl-CoA. Typically presents at 3 to 24 months of age following a prolonged fast (e.g., during viral gastroenteritis) with: 1. Profound HYPOKETOTIC HYPOGLYCEMIA (undetectable ketones in urine/blood despite severe hypoglycemia); 2. Encephalopathy, lethargy, seizures, or sudden infant death; 3. Hepatic dysfunction (hyperammonemia, elevated transaminases, hepatomegaly with microvesicular steatosis); 4. Urine organic acids demonstrate elevated DICARBOXYLIC ACIDS (C6-C10) due to alternative omega-oxidation. Treatment: avoidance of prolonged fasting and frequent complex carbohydrates.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Medium-Chain Acyl-CoA Dehydrogenase Deficiency Hypoketotic Hypoglycemia.",
+    "keyPoints": [
+      "Medium-Chain Acyl-CoA Dehydrogenase Deficiency Hypoketotic Hypoglycemia",
+      "Recognize Medium-Chain Acyl-CoA Dehydrogenase (MCAD) Deficiency: autosomal recessive mutation in ACADM (classic A985G substitution). Most common inborn error of fatty acid oxidatio"
+    ],
+    "references": [
+      {
+        "label": "Grosse SD, et al. Newborn screening for medium-chain acyl-CoA dehydrogenase deficiency. Genet Med. 2006;8(4):205-212. PMID: 16617240.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16617240/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "op-c-s1-0125",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Respiratory",
+    "topic": "Primary Ciliary Dyskinesia Kartagener Syndrome Dynein Arm Defect",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man presents to the pulmonary clinic for evaluation of chronic productive cough with copious foul-smelling purulent sputum, recurrent sinusitis, and chronic nasal congestion. Since early childhood, he has experienced numerous episodes of pneumonia and otitis media. He also notes that he and his wife have been unable to conceive a child after 2 years of unprotected intercourse; semen analysis demonstrates normal sperm count but 0% sperm motility. Physical examination reveals bilateral inspiratory crackles over both lung bases, digital clubbing of both hands, and a cardiac apical impulse palpated in the right fifth intercostal space at the midclavicular line (dextrocardia). Chest radiography confirms dextrocardia with the cardiac apex pointing to the right, along with gastric air bubble on the right side and liver shadow on the left (situs inversus totalis). High-resolution chest CT demonstrates bilateral saccular and cylindrical bronchiectasis in the middle and lower lung lobes. Nasal nitric oxide measurement is markedly reduced. Transmission electron microscopy (TEM) of a bronchial mucosal brush biopsy is most expected to demonstrate which of the following ultrastructural abnormalities in the respiratory ciliary axonemes?",
+    "options": [
+      {
+        "text": "Complete loss of the central pair of singlet microtubules with intact peripheral dynein arms",
+        "correct": false,
+        "explanation": "Central pair defects (such as transposition or absent central pair) account for <10% of PCD cases and do not typically exhibit situs inversus because embryonic nodal cilia normally have a \"9 + 0\" structure lacking the central pair."
+      },
+      {
+        "text": "Disruption of the apical zonula occludens tight junctions between respiratory epithelial cells",
+        "correct": false,
+        "explanation": "Zonula occludens (claudin/occludin) forms paracellular tight junctions; disruption alters barrier permeability but does not affect ciliary motility or sperm flagella."
+      },
+      {
+        "text": "Defective polymerization of desmin intermediate filaments anchoring basal bodies to the cytoskeleton",
+        "correct": false,
+        "explanation": "Desmin is a muscle-specific intermediate filament; ciliary basal bodies are anchored by tubulin and basal foot structures, not desmin."
+      },
+      {
+        "text": "Congenital absence of the CFTR chloride channel along the apical epithelial brush border",
+        "correct": false,
+        "explanation": "CFTR mutations cause cystic fibrosis, which presents with bronchiectasis and sinusitis, but CFTR is an apical chloride channel, not an axonemal motor protein, and does not cause situs inversus or absent dynein arms."
+      },
+      {
+        "text": "Absence of outer and inner dynein arms bridging adjacent peripheral microtubule doublets",
+        "correct": true,
+        "explanation": "The patient has Kartagener syndrome, a subset of primary ciliary dyskinesia (PCD) characterized by the clinical triad of: (1) situs inversus totalis; (2) chronic sinusitis; and (3) bronchiectasis, along with male infertility. Cilia and flagella share an identical ultrastructural core called the axoneme, composed of 9 peripheral microtubule doublets surrounding a central pair of single microtubules (the classic \"9 + 2\" arrangement). The outer and inner dynein arms contain dynein ATPase motor proteins that project from the A-tubule of each doublet toward the B-tubule of the adjacent doublet. ATP hydrolysis produces conformational sliding of adjacent doublets, translated into coordinated ciliary wave bending. In ~70% to 80% of PCD cases, mutations in dynein genes (e.g., DNAH5, DNAI1) result in complete absence or truncation of the dynein arms. Immotile cilia paralyze the mucociliary escalator (causing bronchiectasis and sinusitis). Defective nodal cilia in the embryonic primitive node disrupt leftward fluid flow during gastrulation, causing random 50/50 lateralization of visceral organs (situs inversus)."
+      }
+    ],
+    "explanation": "The patient has Kartagener syndrome, a subset of primary ciliary dyskinesia (PCD) characterized by the clinical triad of: (1) situs inversus totalis; (2) chronic sinusitis; and (3) bronchiectasis, along with male infertility. Cilia and flagella share an identical ultrastructural core called the axoneme, composed of 9 peripheral microtubule doublets surrounding a central pair of single microtubules (the classic \"9 + 2\" arrangement). The outer and inner dynein arms contain dynein ATPase motor proteins that project from the A-tubule of each doublet toward the B-tubule of the adjacent doublet. ATP hydrolysis produces conformational sliding of adjacent doublets, translated into coordinated ciliary wave bending. In ~70% to 80% of PCD cases, mutations in dynein genes (e.g., DNAH5, DNAI1) result in complete absence or truncation of the dynein arms. Immotile cilia paralyze the mucociliary escalator (causing bronchiectasis and sinusitis). Defective nodal cilia in the embryonic primitive node disrupt leftward fluid flow during gastrulation, causing random 50/50 lateralization of visceral organs (situs inversus). Recognize Primary Ciliary Dyskinesia (PCD) / Kartagener Syndrome: autosomal recessive triad of 1. Situs Inversus (dextrocardia, complete situs inversus totalis due to defective embryonic nodal cilia motile flow); 2. Chronic Sinusitis (impaired mucociliary clearance in paranasal sinuses); 3. Bronchiectasis (recurrent lower respiratory tract infections, digital clubbing). Caused by mutations in genes encoding OUTER and INNER DYNEIN ARMS (e.g., DNAH5, DNAI1) of the ciliary axoneme. The axoneme possesses a \"9 + 2\" arrangement of microtubule doublets. Dynein is an ATPase motor protein that drives ATP-dependent sliding of adjacent doublets, producing ciliary and flagellar bending. Immotile sperm flagella cause male infertility; dysfunctional fallopian tube cilia cause female subfertility and ectopic pregnancy risk. Screening: Low nasal nitric oxide (nNO). Confirmatory: Transmission electron microscopy (TEM) showing absent outer/inner dynein arms.",
+    "objective": "Understand and correctly identify the clinical, diagnostic, and pathophysiological principles of Primary Ciliary Dyskinesia Kartagener Syndrome Dynein Arm Defect.",
+    "keyPoints": [
+      "Primary Ciliary Dyskinesia Kartagener Syndrome Dynein Arm Defect",
+      "Recognize Primary Ciliary Dyskinesia (PCD) / Kartagener Syndrome: autosomal recessive triad of 1. Situs Inversus (dextrocardia, complete situs inversus totalis due to defective emb"
+    ],
+    "references": [
+      {
+        "label": "Knowles MR, et al. Primary ciliary dyskinesia: recent advances in diagnostics, genetics, and characterization of clinical disease. Am J Respir Crit Care Med. 2013;188(8):913-922. PMID: 23796196.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23796196/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+]

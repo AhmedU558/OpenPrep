@@ -1,7 +1,9 @@
 """Local evidence inventory and fail-closed preflight. Never creates a release artifact or grants permission."""
 import argparse
 import base64
+import datetime
 import hashlib
+import importlib.util
 import json
 import pathlib
 import re
@@ -46,22 +48,28 @@ def graph_modules(graph):
         yield item
         yield from graph_modules(item)
 
-def source_files():
+def source_files(output_dir=None):
     tracked=subprocess.check_output(['git','ls-files','--cached','--others','--exclude-standard','-z'],cwd=ROOT).decode().split('\0')
     sidecars={'docs/audit/phase3-artifacts.json','docs/audit/phase3-compliance-report.json','docs/audit/phase3-file-changes.md'}
-    return [p for p in tracked if p and p not in sidecars and not p.startswith('docs/SBOM_') and '__pycache__' not in p and (ROOT/p).is_file() and not any(x.startswith('.env') and x!='.env.example' for x in pathlib.PurePosixPath(p).parts)]
+    return [p for p in tracked if p and p not in sidecars and not p.startswith('docs/SBOM_') and not (output_dir and p.startswith(output_dir.rstrip('/')+'/')) and p not in {'docs/audit/phase4-file-changes.md'} and '__pycache__' not in p and (ROOT/p).is_file() and not any(x.startswith('.env') and x!='.env.example' for x in pathlib.PurePosixPath(p).parts)]
 
-def generate():
+def sbom_path(scope, directory=None): return (directory or 'docs')+'/SBOM_'+scope.upper()+'.json'
+def manifest_path(directory=None): return directory+'/artifacts.json' if directory else 'docs/audit/phase3-artifacts.json'
+def report_path(directory=None): return directory+'/compliance-report.json' if directory else 'docs/audit/phase3-compliance-report.json'
+
+def generate(output_dir=None, webpack_dir='.release/phase3/webpack', grant_evidence=None):
     inventory=read('docs/audit/dependency-inventory.json'); packages=inventory['packages']
     old=read('docs/audit/dependency-compliance-evidence.json')['artifacts']
     new={p['package']:p for p in read('docs/audit/phase3-license-investigation.json')['packages']}
-    source=source_files()
+    if grant_evidence:
+        new.update({p['package']:p for p in read(grant_evidence)['packages']})
+    source=source_files(output_dir)
     scopes={s:{'files':[],'packages':set(),'coverageGaps':[]} for s in SCOPES}
     scopes['source']['files']=source;scopes['source']['packages']={p['path'] for p in packages}
     scopes['container']['coverageGaps']=['No container image, digest, base OS inventory or built filesystem supplied.']
     for scope,folder in [('browser','.next/static'),('hosted','.next/server')]:
         scopes[scope]['files']=files(folder)
-        graphs=files('.release/phase3/webpack')
+        graphs=files(webpack_dir)
         selected=[g for g in graphs if ('browser.json' in g)==(scope=='browser')]
         if not selected:scopes[scope]['coverageGaps'].append('No compiler module evidence')
         for g in selected:
@@ -97,7 +105,7 @@ def generate():
             if (ROOT/archive).is_file():scopes['native']['files'].append(archive);scopes['native']['packages'].add(p['path'])
     scopes['hosted']['coverageGaps'].append('Local Windows build candidate; deployed Linux/Vercel artifact not supplied.')
     native=read('docs/audit/phase3-native-evidence.json')
-    manifest={'version':1,'lockSha256':sha(ROOT/'package-lock.json'),'scopes':{},'buildInputs':read('.release/phase3/webpack/browser.json').get('audit',{}).get('buildInputs',[])}
+    manifest={'version':1,'lockSha256':sha(ROOT/'package-lock.json'),'scopes':{},'buildInputs':read(webpack_dir+'/browser.json').get('audit',{}).get('buildInputs',[])}
     bypath={p['path']:p for p in packages}
     for scope,item in scopes.items():
         entries=[{'path':p,'sha256':sha(safe(p))} for p in sorted(set(item['files']))]
@@ -125,9 +133,9 @@ def generate():
         for c in data['nativeComponents']:
             components.append({'type':'library','bom-ref':'native:'+c['name']+'@'+c['version'],'name':c['name'],'version':c['version'],'properties':[{'name':'openprep:evidence','value':'publisher-reported platform union; exact local inclusion NOT VERIFIED'}]})
         bom={'bomFormat':'CycloneDX','specVersion':'1.6','version':1,'metadata':{'component':{'type':'application','name':'OpenPrep '+scope+' inventory','version':'0.1.0','licenses':[{'license':{'id':'MIT'}}]},'properties':[{'name':'openprep:coverage','value':'INCOMPLETE; see docs/audit/phase3-artifacts.json and RELEASE_ARTIFACT_COMPLIANCE.md'}]},'components':components}
-        write('docs/SBOM_'+scope.upper()+'.json',bom)
-    manifest['sboms']=[{'path':'docs/SBOM_'+scope.upper()+'.json','sha256':sha(ROOT/('docs/SBOM_'+scope.upper()+'.json'))} for scope in SCOPES]
-    write('docs/audit/phase3-artifacts.json',manifest)
+        write(sbom_path(scope,output_dir),bom)
+    manifest['sboms']=[{'path':sbom_path(scope,output_dir),'sha256':sha(ROOT/sbom_path(scope,output_dir))} for scope in SCOPES]
+    write(manifest_path(output_dir),manifest)
     print(json.dumps({s:{'files':len(d['files']),'packages':len(d['packages']),'coverageGaps':len(d['coverageGaps'])} for s,d in manifest['scopes'].items()}))
 
 def verify_records(records, root=ROOT):
@@ -141,7 +149,12 @@ def verify_records(records, root=ROOT):
 
 def permission(records, identity, scope):
     matches=[r for r in records if r.get('identity')==identity and r.get('scope')==scope]
-    return len(matches)==1 and matches[0].get('status')=='APPROVED' and all(isinstance(matches[0].get(k),str) and len(matches[0][k].strip())>=2 for k in ['reviewer','evidence','reviewedAt'])
+    if len(matches)!=1:return False
+    record=matches[0]
+    if record.get('status')!='APPROVED' or not all(isinstance(record.get(k),str) and len(record[k].strip())>=2 for k in ['reviewer','evidence','reviewedAt']):return False
+    try:datetime.datetime.fromisoformat(record['reviewedAt'].replace('Z','+00:00'))
+    except ValueError:return False
+    return True
 
 def prerequisite_checks(policy):
     return ['RELEASE_PREREQUISITE_MISSING:'+identity for identity in ['ownership','privateSecurityReporting','conductReporting'] if not permission(policy.get('releasePrerequisites',[]),identity,'release')]
@@ -171,9 +184,26 @@ def policy_checks(data, policy, scope, root=ROOT):
     if data.get('nativeComponents'):errors.append('NATIVE_BUILD_SOURCE_RELINKING_REVIEW_REQUIRED')
     return sorted(set(errors))
 
-def check():
-    manifest=read('docs/audit/phase3-artifacts.json'); policy=read('docs/audit/phase3-release-policy.json')
+def grant_checks(evidence):
+    spec=importlib.util.spec_from_file_location('grant_reader',ROOT/'scripts/audit-package-licenses.py')
+    audit=importlib.util.module_from_spec(spec);spec.loader.exec_module(audit)
+    packages=evidence.get('packages',[])
+    if not packages:return ['GRANT_EVIDENCE_EMPTY']
+    errors=[]
+    for p in packages:
+        valid=[]
+        for grant in p.get('licenseTexts',[]):
+            record={'path':grant.get('file',''),'sha256':grant.get('sha256','')}
+            if verify_records([record]):continue
+            bound=grant.get('kind','').startswith('complete grant') or grant.get('sourceBinding')=='publisher gitHead' or (p.get('provenanceVerification',{}).get('verified') is True and grant.get('sourceBinding'))
+            if bound and audit.complete_grant(safe(record['path']).read_text(encoding='utf-8',errors='replace')):valid.append(record)
+        if p.get('status') not in ['EXACT_VERSION_GRANT_CAPTURED','SIGNED_PROVENANCE_SOURCE_GRANT_CAPTURED'] or p.get('archiveIntegrityVerified') is not True or not valid:errors.append('UNRESOLVED_DEPENDENCY_GRANT:'+p.get('package','UNKNOWN'))
+    return errors
+
+def check(output_dir=None,grant_evidence=None):
+    manifest=read(manifest_path(output_dir)); policy=read('docs/audit/phase3-release-policy.json')
     common=verify_records(manifest.get('buildInputs',[]))+verify_records(manifest.get('sboms',[]))+prerequisite_checks(policy)
+    if grant_evidence:common+=grant_checks(read(grant_evidence))
     if read('docs/audit/dependency-inventory.json').get('lockSha256')!=sha(ROOT/'package-lock.json'):common.append('STALE_DEPENDENCY_AUDIT')
     current=json.loads(subprocess.check_output(['node','--input-type=module','-e',"import inputs from './scripts/compliance-build-inputs.mjs';process.stdout.write(JSON.stringify(inputs()))"],cwd=ROOT))
     if current!=manifest.get('buildInputs'):common.append('BUILD_INPUT_SET_CHANGED')
@@ -185,7 +215,7 @@ def check():
     if read('package.json')['license']!='MIT' or read('package-lock.json')['packages']['']['license']!='MIT':common.append('UNAUTHORIZED_LICENSE_TRANSITION')
     license_text=(ROOT/'LICENSE').read_text()
     if 'MIT License' not in license_text or 'Permission is hereby granted' not in license_text:common.append('LICENSE_DECLARATION_INCONSISTENT')
-    if {f['path'] for f in manifest['scopes']['source']['files']}!=set(source_files()):common.append('SOURCE_FILE_SET_CHANGED')
+    if {f['path'] for f in manifest['scopes']['source']['files']}!=set(source_files(output_dir)):common.append('SOURCE_FILE_SET_CHANGED')
     results={}
     for scope in SCOPES:
         errors=common+policy_checks(manifest['scopes'][scope],policy,scope)
@@ -194,15 +224,18 @@ def check():
         if result.returncode:errors.append('CONTENT_RIGHTS_UNRESOLVED')
         results[scope]={'status':'BLOCKED' if errors else 'PASS','errors':sorted(set(errors))}
     output={'version':1,'releaseReady':all(r['status']=='PASS' for r in results.values()),'scopes':results}
-    write('docs/audit/phase3-compliance-report.json',output)
+    write(report_path(output_dir),output)
     print(json.dumps({s:{'status':r['status'],'blockers':len(r['errors'])} for s,r in results.items()}))
     return 0 if output['releaseReady'] else 1
 
 if __name__=='__main__':
-    parser=argparse.ArgumentParser();parser.add_argument('command',choices=['sbom','check']);args=parser.parse_args()
+    parser=argparse.ArgumentParser();parser.add_argument('command',choices=['sbom','check']);parser.add_argument('--output-dir');parser.add_argument('--webpack-dir',default='.release/phase3/webpack');parser.add_argument('--grant-evidence');args=parser.parse_args()
+    if args.output_dir:
+        destination=safe(args.output_dir)
+        if destination==ROOT or not args.output_dir.startswith('docs/audit/phase4'):raise ValueError('Phase-isolated output must be under docs/audit/phase4')
     try:
-        if args.command=='sbom':generate()
-        else:sys.exit(check())
+        if args.command=='sbom':generate(args.output_dir,args.webpack_dir,args.grant_evidence)
+        else:sys.exit(check(args.output_dir,args.grant_evidence))
     except Exception as error:
-        write('docs/audit/phase3-compliance-report.json',{'releaseReady':False,'fatal':str(error)})
+        write(report_path(args.output_dir),{'releaseReady':False,'fatal':str(error)})
         raise

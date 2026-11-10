@@ -37,6 +37,7 @@ export function CreateTestForm({ facets, poolCounts, collections, initialCollect
   const router = useRouter();
   const [mode, setMode] = useState<'TUTOR' | 'TIMED'>('TUTOR');
   const [pool, setPool] = useState('unused');
+  const [difficulty, setDifficulty] = useState<number[]>([]);
   const [examIds, setExams] = useState<string[]>([]);
   const [subjectIds, setSubjects] = useState<string[]>([]);
   const [systemIds, setSystems] = useState<string[]>([]);
@@ -52,7 +53,7 @@ export function CreateTestForm({ facets, poolCounts, collections, initialCollect
   const submit = async () => {
     setBusy(true); setError('');
     const r = await createTestAction({
-      mode, pool, examIds, subjectIds, systemIds, topicIds: topicId ? [topicId] : [], count, blocks, q, negativeMark,
+      mode, pool, difficulty, examIds, subjectIds, systemIds, topicIds: topicId ? [topicId] : [], count, blocks, q, negativeMark,
       collectionId: collectionId || undefined,
     });
     if (r.ok) router.push(`/test/${r.data}`);
@@ -86,6 +87,54 @@ export function CreateTestForm({ facets, poolCounts, collections, initialCollect
                   {label} <span className="tabular-nums text-muted">({poolCounts[v] ?? 0})</span>
                 </label>
               ))}
+            </div>
+            <div className="mt-3 border-t border-line/60 pt-2.5 text-xs text-muted">
+              Finished practicing through your question bank?{' '}
+              <a href="/settings#reset" className="text-brand underline hover:opacity-80">
+                Reset question bank for a second pass
+              </a>
+            </div>
+          </fieldset>
+        </Card>
+        <Card>
+          <fieldset>
+            <legend className="mb-2.5 flex w-full items-center justify-between text-sm font-semibold">
+              Difficulty
+              {difficulty.length > 0 && (
+                <button type="button" className="text-xs font-normal text-brand underline" onClick={() => setDifficulty([])}>
+                  Clear
+                </button>
+              )}
+            </legend>
+            <div className="flex flex-wrap gap-2">
+              {[
+                { level: 1, label: '1 · Very easy' },
+                { level: 2, label: '2 · Easy' },
+                { level: 3, label: '3 · Moderate' },
+                { level: 4, label: '4 · Hard' },
+                { level: 5, label: '5 · Very hard' },
+              ].map(({ level, label }) => {
+                const active = difficulty.includes(level);
+                return (
+                  <label
+                    key={level}
+                    className={cx(
+                      'flex cursor-pointer items-center gap-2 rounded-lg border px-3 py-1.5 text-sm transition-colors',
+                      active ? 'border-brand bg-brand-soft text-brand font-medium' : 'border-line bg-surface'
+                    )}
+                  >
+                    <input
+                      type="checkbox"
+                      className="accent-[var(--brand)]"
+                      checked={active}
+                      onChange={(e) =>
+                        setDifficulty(e.target.checked ? [...difficulty, level] : difficulty.filter((x) => x !== level))
+                      }
+                    />
+                    <span>{label}</span>
+                  </label>
+                );
+              })}
             </div>
           </fieldset>
         </Card>

@@ -17,6 +17,7 @@ export function ExamScreen({ initial, ai = false }: { initial: ExamView; ai?: bo
   const [error, setError] = useState('');
   const [pending, start] = useTransition();
   const [dialog, setDialog] = useState<null | 'labs' | 'calc' | 'end' | 'navigator'>(null);
+  const [imageZoom, setImageZoom] = useState(false);
   const stemRef = useRef<HTMLDivElement>(null);
   const { session: s, item, question: q } = view;
   const review = s.state === 'SUBMITTED';
@@ -89,7 +90,7 @@ export function ExamScreen({ initial, ai = false }: { initial: ExamView; ai?: bo
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       const t = e.target as HTMLElement;
-      if (dialog || e.ctrlKey || e.metaKey || e.altKey || t.closest('input, textarea, select, [contenteditable]')) return;
+      if (dialog || imageZoom || e.ctrlKey || e.metaKey || e.altKey || t.closest('input, textarea, select, [contenteditable]')) return;
       const k = e.key.toUpperCase();
       if (e.key === 'ArrowRight') { e.preventDefault(); go(s.position + 1); }
       else if (e.key === 'ArrowLeft') { e.preventDefault(); go(s.position - 1); }
@@ -146,7 +147,24 @@ export function ExamScreen({ initial, ai = false }: { initial: ExamView; ai?: bo
               {q.isAiAuthored && <Badge tone="warn">AI-authored · medically unreviewed</Badge>}
             </div>
             <div ref={stemRef} className="prose-q text-[1.05rem]" dangerouslySetInnerHTML={{ __html: item.stemHtml }} />
-            {q.imageUrl && <img src={q.imageUrl} alt={q.imageAlt ?? 'Question image'} className="my-4 max-h-96 rounded-lg border border-line" />}
+
+            {q.imageUrl && (
+              <div className="my-4">
+                <button
+                  type="button"
+                  onClick={() => setImageZoom(true)}
+                  className="group relative block max-w-full overflow-hidden rounded-lg border border-line bg-surface-2 transition-transform hover:scale-[1.01] focus-visible:ring-2 focus-visible:ring-brand text-left"
+                  title="Click to enlarge image and inspect clinical exhibit"
+                >
+                  <img src={q.imageUrl} alt={q.imageAlt ?? 'Question image'} className="max-h-96 rounded-lg object-contain" />
+                  <div className="absolute bottom-2 right-2 flex items-center gap-1.5 rounded-md bg-black/75 px-2.5 py-1 text-xs font-medium text-white shadow backdrop-blur-sm group-hover:bg-black/90">
+                    <span aria-hidden="true">🔍</span>
+                    <span>Enlarge exhibit</span>
+                  </div>
+                </button>
+                {q.imageAlt && <p className="mt-1 text-xs text-muted">{q.imageAlt}</p>}
+              </div>
+            )}
 
             <div role={q.type === 'SINGLE' ? 'radiogroup' : 'group'} aria-label="Answer choices" className="mt-6 space-y-2">
               {q.options.map((o, idx) => {
@@ -206,6 +224,16 @@ export function ExamScreen({ initial, ai = false }: { initial: ExamView; ai?: bo
           <Button variant="danger" onClick={endBlock} disabled={pending}>End block</Button>
         </div>
       </Dialog>
+      {q.imageUrl && (
+        <Dialog open={imageZoom} onClose={() => setImageZoom(false)} title="Clinical Exhibit Inspection" wide>
+          <div className="flex flex-col items-center">
+            <div className="max-h-[70vh] w-full overflow-auto rounded-lg bg-black/5 p-2 text-center">
+              <img src={q.imageUrl} alt={q.imageAlt ?? 'Clinical exhibit'} className="mx-auto max-h-[65vh] w-auto max-w-full rounded object-contain" />
+            </div>
+            {q.imageAlt && <p className="mt-3 text-center text-sm text-muted">{q.imageAlt}</p>}
+          </div>
+        </Dialog>
+      )}
     </div>
   );
 }
