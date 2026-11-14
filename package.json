@@ -23,6 +23,7 @@
     "bank:preserve": "tsx scripts/bank-baseline.ts --verify",
     "bank:verify": "tsx scripts/verify-bank.ts",
     "bank:expand": "tsx scripts/expansion-batch.ts",
+    "bank:intl": "tsx scripts/international-bank.ts",
     "test": "vitest run",
     "test:unit": "vitest run --config vitest.unit.config.ts",
     "test:int": "vitest run tests/integration",

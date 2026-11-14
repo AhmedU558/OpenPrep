@@ -31,14 +31,20 @@ function CheckGroup({ legend, items, value, onChange }: { legend: string; items:
   );
 }
 
-export function CreateTestForm({ facets, poolCounts, collections, initialCollection }: {
-  facets: Facets; poolCounts: Record<string, number>; collections: { id: string; name: string; count: number }[]; initialCollection?: string;
+export function CreateTestForm({ facets, poolCounts, collections, initialCollection, initialPool, initialMode, initialExamId }: {
+  facets: Facets;
+  poolCounts: Record<string, number>;
+  collections: { id: string; name: string; count: number }[];
+  initialCollection?: string;
+  initialPool?: string;
+  initialMode?: 'TUTOR' | 'TIMED';
+  initialExamId?: string;
 }) {
   const router = useRouter();
-  const [mode, setMode] = useState<'TUTOR' | 'TIMED'>('TUTOR');
-  const [pool, setPool] = useState('unused');
+  const [mode, setMode] = useState<'TUTOR' | 'TIMED'>(initialMode === 'TIMED' ? 'TIMED' : 'TUTOR');
+  const [pool, setPool] = useState(initialPool && POOL_LABEL[initialPool] ? initialPool : 'unused');
   const [difficulty, setDifficulty] = useState<number[]>([]);
-  const [examIds, setExams] = useState<string[]>([]);
+  const [examIds, setExams] = useState<string[]>(initialExamId ? [initialExamId] : []);
   const [subjectIds, setSubjects] = useState<string[]>([]);
   const [systemIds, setSystems] = useState<string[]>([]);
   const [topicId, setTopic] = useState('');
@@ -49,6 +55,12 @@ export function CreateTestForm({ facets, poolCounts, collections, initialCollect
   const [negativeMark, setNeg] = useState(0);
   const [error, setError] = useState('');
   const [busy, setBusy] = useState(false);
+
+  // Auto-detect if NEET PG is selected to recommend standard negative marking
+  const hasNeetPg = examIds.some((id) => {
+    const ex = facets.exams.find((e) => e.id === id);
+    return ex && ex.name.toUpperCase().includes('NEET PG');
+  });
 
   const submit = async () => {
     setBusy(true); setError('');
@@ -175,12 +187,17 @@ export function CreateTestForm({ facets, poolCounts, collections, initialCollect
               </select>
             </div>
           )}
-          <details className="text-sm">
+          <details className="text-sm" open={hasNeetPg || negativeMark > 0}>
             <summary className="cursor-pointer font-semibold">Advanced</summary>
             <label htmlFor="neg" className="mt-3 block">Negative marking (points per wrong answer)</label>
+            {hasNeetPg && (
+              <p className="mt-1 text-xs text-brand">
+                NEET PG standard: −0.25 negative marking per incorrect answer.
+              </p>
+            )}
             <select id="neg" value={negativeMark} onChange={(e) => setNeg(+e.target.value)} className={cx(inputCls, 'mt-1.5')}>
               <option value={0}>None (USMLE style)</option>
-              <option value={0.25}>−0.25</option>
+              <option value={0.25}>−0.25 (NEET PG / standard)</option>
               <option value={0.33}>−0.33</option>
               <option value={0.5}>−0.5</option>
             </select>

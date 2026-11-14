@@ -53,3 +53,5 @@ temp/
 # Python compliance audit cache
 __pycache__/
 *.pyc
+
+.playwright-mcp/

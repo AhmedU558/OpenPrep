@@ -18,6 +18,17 @@ const EXAMS = [
   { slug: 'step-1', name: 'Step 1', position: 1 },
   { slug: 'step-2-ck', name: 'Step 2 CK', position: 2 },
   { slug: 'step-3', name: 'Step 3', position: 3 },
+  { slug: 'plab-ukmla', name: 'PLAB / UKMLA', position: 4 },
+  { slug: 'amc', name: 'AMC', position: 5 },
+  { slug: 'mccqe', name: 'MCCQE', position: 6 },
+  { slug: 'fcps', name: 'FCPS', position: 7 },
+  { slug: 'nle', name: 'NLE', position: 8 },
+  { slug: 'neet-pg', name: 'NEET PG', position: 9 },
+  { slug: 'mrcp', name: 'MRCP', position: 10 },
+  { slug: 'mrcem', name: 'MRCEM', position: 11 },
+  { slug: 'smle', name: 'SMLE', position: 12 },
+  { slug: 'haad-dha', name: 'HAAD / DHA', position: 13 },
+  { slug: 'uhs-mbbs', name: 'UHS MBBS', position: 14 },
 ];
 
 export async function seed(db: PrismaClient) {

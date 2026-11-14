@@ -1,0 +1,51 @@
+{
+  "validatedAt": "2026-11-14T14:42:37.115Z",
+  "totalQuestions": 30,
+  "batches": [
+    {
+      "name": "batch-intl-01",
+      "count": 15,
+      "digest": "ee2fa2465a373cc627d4c68c0dc962393c483670126227b4a064a072081ed156",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-02",
+      "count": 15,
+      "digest": "433a5fc786faecaf01dc8cc59e1aacafa444e8c3a7caa6c519b00f5ca81c615f",
+      "errors": []
+    }
+  ],
+  "examsCovered": [
+    "AMC",
+    "FCPS",
+    "HAAD / DHA",
+    "MCCQE",
+    "MRCEM",
+    "MRCP",
+    "NEET PG",
+    "NLE",
+    "PLAB / UKMLA",
+    "SMLE",
+    "Step 1",
+    "Step 2 CK",
+    "UHS MBBS"
+  ],
+  "subjectsCovered": {
+    "Anatomy": 1,
+    "Ethics": 1,
+    "Geriatrics": 1,
+    "Medicine": 12,
+    "Microbiology": 1,
+    "Obstetrics": 2,
+    "Pathology": 1,
+    "Pediatrics": 3,
+    "Pharmacology": 3,
+    "Physiology": 1,
+    "Psychiatry": 1,
+    "Surgery": 3
+  },
+  "optionsPerQuestion": 5,
+  "provenance": "OpenPrep original; AI-authored; medically unreviewed",
+  "license": "CC-BY-SA-4.0",
+  "allErrors": []
+}

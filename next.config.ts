@@ -20,6 +20,7 @@ const csp = [
 ].join('; ');
 
 const nextConfig: NextConfig = {
+  turbopack: {},
   experimental: { cpus: 2 },
   poweredByHeader: false,
   webpack(config, { isServer, nextRuntime }) {

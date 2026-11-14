@@ -1,5 +1,51 @@
 {
-  "exams": ["Step 1", "Step 2 CK", "Step 3"],
-  "subjects": ["Anatomy", "Physiology", "Biochemistry", "Pathology", "Pharmacology", "Microbiology", "Immunology", "Genetics", "Ethics", "Biostatistics", "Medicine", "Surgery", "Pediatrics", "Obstetrics", "Neurology", "Psychiatry", "Geriatrics"],
-  "systems": ["Cardiovascular", "Dermatology", "Renal", "Pregnancy", "Respiratory", "General Principles", "Gastrointestinal", "Hematology", "Musculoskeletal", "Endocrine", "Nervous System", "Behavioral Health"]
+  "exams": [
+    "Step 1",
+    "Step 2 CK",
+    "Step 3",
+    "PLAB / UKMLA",
+    "AMC",
+    "MCCQE",
+    "FCPS",
+    "NLE",
+    "NEET PG",
+    "MRCP",
+    "MRCEM",
+    "SMLE",
+    "HAAD / DHA",
+    "UHS MBBS"
+  ],
+  "subjects": [
+    "Anatomy",
+    "Physiology",
+    "Biochemistry",
+    "Pathology",
+    "Pharmacology",
+    "Microbiology",
+    "Immunology",
+    "Genetics",
+    "Ethics",
+    "Biostatistics",
+    "Medicine",
+    "Surgery",
+    "Pediatrics",
+    "Obstetrics",
+    "Neurology",
+    "Psychiatry",
+    "Geriatrics"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Dermatology",
+    "Renal",
+    "Pregnancy",
+    "Respiratory",
+    "General Principles",
+    "Gastrointestinal",
+    "Hematology",
+    "Musculoskeletal",
+    "Endocrine",
+    "Nervous System",
+    "Behavioral Health"
+  ]
 }

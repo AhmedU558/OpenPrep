@@ -8,13 +8,15 @@ import { filtersSchema, POOLS } from '@/lib/validation/exam';
 
 export const metadata = { title: 'Create test' };
 
-export default async function CreatePage({ searchParams }: { searchParams: Promise<{ collection?: string }> }) {
+export default async function CreatePage({ searchParams }: {
+  searchParams: Promise<{ collection?: string; pool?: string; mode?: 'TUTOR' | 'TIMED'; exam?: string }>;
+}) {
   const user = await requireUserPage();
-  const { collection } = await searchParams;
+  const { collection, pool, mode, exam } = await searchParams;
   const pools = await resolveUserActiveQuestionPools(db, user.id);
   const [f, poolCounts, collections] = await Promise.all([
     facets({ status: 'PUBLISHED' }),
-    Promise.all(POOLS.map(async (pool) => [pool, await db.question.count({ where: await questionWhere(user.id, filtersSchema.parse({ pool }), pools) })] as const)),
+    Promise.all(POOLS.map(async (p) => [p, await db.question.count({ where: await questionWhere(user.id, filtersSchema.parse({ pool: p }), pools) })] as const)),
     db.collection.findMany({ where: { userId: user.id }, select: { id: true, name: true, _count: { select: { items: true } } }, orderBy: { name: 'asc' } }),
   ]);
   return (
@@ -25,6 +27,9 @@ export default async function CreatePage({ searchParams }: { searchParams: Promi
         poolCounts={Object.fromEntries(poolCounts)}
         collections={collections.map((c) => ({ id: c.id, name: c.name, count: c._count.items }))}
         initialCollection={collection}
+        initialPool={pool}
+        initialMode={mode}
+        initialExamId={exam}
       />
     </>
   );

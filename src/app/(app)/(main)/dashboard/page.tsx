@@ -39,6 +39,37 @@ export default async function Dashboard() {
         <div className="study-orbits" aria-hidden="true"><span /><span /><span /></div>
       </section>
 
+      <section className="mb-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4" aria-label="Quick practice shortcuts">
+        <Link href="/create?pool=unused" className="group flex items-center gap-3.5 rounded-2xl border border-line bg-surface p-4 transition-all hover:border-brand hover:bg-brand-soft/30 hover:shadow-sm">
+          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-brand/10 text-brand text-lg font-bold">⚡</div>
+          <div>
+            <div className="text-sm font-semibold group-hover:text-brand">Practice Unused</div>
+            <div className="text-xs text-muted">Fresh, unattempted items</div>
+          </div>
+        </Link>
+        <Link href="/create?pool=incorrect" className="group flex items-center gap-3.5 rounded-2xl border border-line bg-surface p-4 transition-all hover:border-bad hover:bg-bad-soft/30 hover:shadow-sm">
+          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-bad/10 text-bad text-lg font-bold">🔄</div>
+          <div>
+            <div className="text-sm font-semibold group-hover:text-bad">Drill Incorrect</div>
+            <div className="text-xs text-muted">Master previous mistakes</div>
+          </div>
+        </Link>
+        <Link href="/create?pool=marked" className="group flex items-center gap-3.5 rounded-2xl border border-line bg-surface p-4 transition-all hover:border-accent hover:bg-warn-soft/40 hover:shadow-sm">
+          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-accent/20 text-accent text-lg font-bold">🚩</div>
+          <div>
+            <div className="text-sm font-semibold group-hover:text-accent">Review Flagged</div>
+            <div className="text-xs text-muted">Revisit saved bookmarks</div>
+          </div>
+        </Link>
+        <Link href="/create?mode=TIMED" className="group flex items-center gap-3.5 rounded-2xl border border-line bg-surface p-4 transition-all hover:border-ok hover:bg-ok-soft/30 hover:shadow-sm">
+          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-ok/10 text-ok text-lg font-bold">⏱️</div>
+          <div>
+            <div className="text-sm font-semibold group-hover:text-ok">Timed Block</div>
+            <div className="text-xs text-muted">Prometric exam simulation</div>
+          </div>
+        </Link>
+      </section>
+
       {suspended.length > 0 && (
         <Card className="mb-6 border-accent/40 bg-warn-soft">
           <h2 className="font-semibold">Pick up where you left off</h2>
