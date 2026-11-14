@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-14T14:42:37.115Z",
-  "totalQuestions": 30,
+  "validatedAt": "2026-11-14T15:35:39.623Z",
+  "totalQuestions": 45,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -12,6 +12,12 @@
       "name": "batch-intl-02",
       "count": 15,
       "digest": "433a5fc786faecaf01dc8cc59e1aacafa444e8c3a7caa6c519b00f5ca81c615f",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-03",
+      "count": 15,
+      "digest": "2bda0c85293d12de7361c7102243963ea2d121e39b4675b6012d0bbdda34cd25",
       "errors": []
     }
   ],
@@ -34,15 +40,15 @@
     "Anatomy": 1,
     "Ethics": 1,
     "Geriatrics": 1,
-    "Medicine": 12,
-    "Microbiology": 1,
-    "Obstetrics": 2,
+    "Medicine": 21,
+    "Microbiology": 2,
+    "Obstetrics": 4,
     "Pathology": 1,
     "Pediatrics": 3,
-    "Pharmacology": 3,
+    "Pharmacology": 5,
     "Physiology": 1,
     "Psychiatry": 1,
-    "Surgery": 3
+    "Surgery": 4
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",
