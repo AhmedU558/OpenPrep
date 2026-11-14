@@ -10,7 +10,7 @@
 ## 1. Executive Summary
 
 This report documents the rigorous verification and quality assurance protocol executed for the OpenPrep platform expansion following the StepwiseMD research audit. Verification encompassed:
-1. **Content Schema & Provenance Validation:** 395 newly authored original clinical vignettes across 14 international examinations validated against strict Zod schema specifications and citation registries.
+1. **Content Schema & Provenance Validation:** 745 newly authored original clinical vignettes across 14 international examinations validated against strict Zod schema specifications and citation registries.
 2. **Specialized Bank Unit Tests:** Vitest test suite executing deep semantic assertions on options count (5 choices), distractor rationales (>= 35 chars), citation references (valid HTTPS), and exam slug coverage (14 exams).
 3. **Core Platform Unit Tests:** Full execution of OpenPrep's core unit test suite (16 test suites, 199 tests) verifying user sessions, exam modes, review workflows, and scoring engines.
 4. **Static Type Safety:** Complete TypeScript compiler validation (`tsc --noEmit`) across the entire codebase including modified UI and API routes.
@@ -39,12 +39,12 @@ The dedicated validation script `scripts/international-bank.ts` was executed to 
 > openprep@0.1.0 bank:intl
 > tsx scripts/international-bank.ts
 
-Validating 395 international expansion questions...
-All 395 international questions validated successfully with 0 errors.
+Validating 745 international expansion questions...
+All 745 international questions validated successfully with 0 errors.
 Exams covered (14): AMC, FCPS, HAAD / DHA, MCCQE, MRCEM, MRCP, NEET PG, NLE, PLAB / UKMLA, SMLE, Step 1, Step 2 CK, Step 3, UHS MBBS
 Reports written to: content/bank/international/reports/validation-report.json
 ```
-**Outcome:** PASSED (395/395 questions validated; 0 errors).
+**Outcome:** PASSED (745/745 questions validated; 0 errors).
 
 ---
 
@@ -57,7 +57,7 @@ A dedicated unit test suite was implemented in `tests/unit/international-bank.te
 
  RUN  v5.0.4 D:/Open Uworld
 
- ✓ tests/unit/international-bank.test.ts (4 tests) 174ms
+ ✓ tests/unit/international-bank.test.ts (4 tests) 327ms
 
  Test Files  1 passed (1)
       Tests  4 passed (4)

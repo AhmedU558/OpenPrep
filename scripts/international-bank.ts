@@ -9,12 +9,17 @@ import { questions as bIntl4 } from '../content/bank/international/batch-intl-04
 import { questions as bIntl5 } from '../content/bank/international/batch-intl-05';
 import { questions as bIntl6 } from '../content/bank/international/batch-intl-06';
 import { questions as bIntl7 } from '../content/bank/international/batch-intl-07';
+import { questions as bIntl8 } from '../content/bank/international/batch-intl-08';
+import { questions as bIntl9 } from '../content/bank/international/batch-intl-09';
+import { questions as bIntl10 } from '../content/bank/international/batch-intl-10';
+import { questions as bIntl11 } from '../content/bank/international/batch-intl-11';
 import { questions as b1 } from '../content/bank/batch-01';
 import type { QuestionContent } from '../src/lib/validation/content';
 
 const allQuestions: QuestionContent[] = [
   ...bIntl1, ...bIntl2, ...bIntl3,
-  ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7
+  ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7,
+  ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11
 ];
 const dir = 'content/bank/international';
 
@@ -32,6 +37,10 @@ async function main() {
   const v5 = validateBank(bIntl5, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4]);
   const v6 = validateBank(bIntl6, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5]);
   const v7 = validateBank(bIntl7, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6]);
+  const v8 = validateBank(bIntl8, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7]);
+  const v9 = validateBank(bIntl9, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8]);
+  const v10 = validateBank(bIntl10, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9]);
+  const v11 = validateBank(bIntl11, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10]);
 
   const allErrors = [
     ...v1.errors.map(e => ({ batch: 'intl-01', ...e })),
@@ -41,6 +50,10 @@ async function main() {
     ...v5.errors.map(e => ({ batch: 'intl-05', ...e })),
     ...v6.errors.map(e => ({ batch: 'intl-06', ...e })),
     ...v7.errors.map(e => ({ batch: 'intl-07', ...e })),
+    ...v8.errors.map(e => ({ batch: 'intl-08', ...e })),
+    ...v9.errors.map(e => ({ batch: 'intl-09', ...e })),
+    ...v10.errors.map(e => ({ batch: 'intl-10', ...e })),
+    ...v11.errors.map(e => ({ batch: 'intl-11', ...e })),
   ];
 
   const batches = [
@@ -51,6 +64,10 @@ async function main() {
     { name: 'batch-intl-05', data: bIntl5, errs: v5.errors },
     { name: 'batch-intl-06', data: bIntl6, errs: v6.errors },
     { name: 'batch-intl-07', data: bIntl7, errs: v7.errors },
+    { name: 'batch-intl-08', data: bIntl8, errs: v8.errors },
+    { name: 'batch-intl-09', data: bIntl9, errs: v9.errors },
+    { name: 'batch-intl-10', data: bIntl10, errs: v10.errors },
+    { name: 'batch-intl-11', data: bIntl11, errs: v11.errors },
   ];
 
   const batchReports = [];

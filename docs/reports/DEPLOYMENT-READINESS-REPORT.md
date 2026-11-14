@@ -24,7 +24,7 @@ All core deliverables, code modifications, content batches, and automated verifi
 | **2. OpenPrep Gap Analysis** | `docs/reports/OPENPREP-GAP-ANALYSIS.md` | Completed & Verified |
 | **3. Implementation Plan** | `docs/reports/OPENPREP-IMPLEMENTATION-PLAN.md` | Completed & Verified |
 | **4. Updated OpenPrep Source Code** | `src/`, `prisma/seed.ts`, `content/` | Completed & Verified |
-| **5. Original Question-Bank Content** | `content/bank/international/` | Completed & Verified (395 Qs in 7 batches) |
+| **5. Original Question-Bank Content** | `content/bank/international/` | Completed & Verified (745 Qs in 11 batches) |
 | **6. DB Migration & Import Report** | `docs/reports/DATABASE-MIGRATION-AND-IMPORT-REPORT.md` | Completed & Verified |
 | **7. Test & Verification Report** | `docs/reports/TEST-AND-VERIFICATION-REPORT.md` | Completed & Verified |
 | **8. Deployment Readiness Report** | `docs/reports/DEPLOYMENT-READINESS-REPORT.md` | Completed & Verified |
@@ -52,7 +52,7 @@ The following production-ready improvements have been integrated into OpenPrep:
    - Every examination is configured with specific subjects, organ systems, and standardized scoring parameters.
 
 2. **Original International Question Content (`content/bank/international/`):**
-   - Authored 395 comprehensive clinical vignette questions across targeted tracks in 7 modular batches.
+   - Authored 745 comprehensive clinical vignette questions across targeted tracks in 11 modular batches.
    - 100% adherence to the 15 required criteria: clinical vignette, question stem, 5 plausible answer choices, distractor rationales for all alternatives, difficulty ranking (1–5), high-yield learning objectives, accredited HTTPS medical guideline citations, content provenance metadata, and explicit `AI-authored; medically unreviewed` status.
 
 3. **Dashboard Quick Practice Launchers (`src/app/(app)/(main)/dashboard/page.tsx`):**

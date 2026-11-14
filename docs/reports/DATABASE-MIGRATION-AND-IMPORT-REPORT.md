@@ -3,7 +3,7 @@
 **Date:** November 2026  
 **Document Status:** Complete (Phase 5/6 Deliverable)  
 **Safety Protocol:** Zero Data Deletion & Immutable Ledger Compliance  
-**Authoring Status:** 395 Original Multi-Exam Questions Generated & Validated (Batches intl-01 through intl-07)
+**Authoring Status:** 745 Original Multi-Exam Questions Generated & Validated (Batches intl-01 through intl-11)
 
 ---
 
@@ -55,7 +55,13 @@ The following 14 examination categories are now officially registered in `conten
 - **Batch intl-06 (`content/bank/international/batch-intl-06.ts`):** 85 items (`intl-0226` - `intl-0310`). Focus: Endocrinology (DKA, Thyroid storm, Adrenal crisis), Hematology (Transfusion reactions, Coagulopathies, Leukemias), Neurology (Stroke, Status Epilepticus).
 - **Batch intl-07 (`content/bank/international/batch-intl-07.ts`):** 85 items (`intl-0311` - `intl-0395`). Focus: Neuromuscular Disorders (Myasthenia, Guillain-Barré), Rheumatology (SLE, Vasculitides), Obstetric Emergencies (Pre-eclampsia, PPH), Resuscitation (Anaphylaxis, Toxins, Cardiac Arrest).
 
-**Total Expansion Inventory:** **395 high-yield clinical items** across 7 modular batch suites.
+### 3.3 Second 350-Question Mega Expansion Batches (`intl-08` to `intl-11`)
+- **Batch intl-08 (`content/bank/international/batch-intl-08.ts`):** 90 items (`intl-0396` - `intl-0485`). Focus: Sepsis/Septic Shock (Surviving Sepsis, TLR4, Norepinephrine), CAP/Atypical Pneumonia (CURB-65, Strep pneumoniae), Infective Endocarditis (Duke criteria, TEE, S. viridans), CNS Infections (Meningitis, LP, Ceftriaxone/Dexamethasone), Tuberculosis (Cord factor, RIPE, GeneXpert), HIV/AIDS (CD4 thresholds, PJP, Toxoplasmosis, ART).
+- **Batch intl-09 (`content/bank/international/batch-intl-09.ts`):** 90 items (`intl-0486` - `intl-0575`). Focus: Pyelonephritis/UTI (P-fimbriae, WBC casts, Ceftriaxone), Pediatric Airway Obstruction (Croup, Epiglottitis, Dexamethasone, Stepple sign), Pediatric Gastroenteritis (SGLT1, WHO ORS, Isotonic fluid bolus), Pediatric Exanthems/Vasculitis (Kawasaki, IVIG/Aspirin, HSP, Measles), Congenital Heart Defects (Tetralogy of Fallot, VSD, TGA, PGE1), Neonatal Jaundice (UGT1A1, Phototherapy nomograms, Kernicterus).
+- **Batch intl-10 (`content/bank/international/batch-intl-10.ts`):** 85 items (`intl-0576` - `intl-0660`). Focus: Pediatric Hip Pathology (Septic arthritis, Kocher criteria, SCFE, Perthes), Acute Appendicitis & Diverticulitis (Visceral/somatic pain, McBurney, CT/US, Laparoscopic appendicectomy), Mechanical Bowel Obstruction (Closed loop, Gastrografin, Volvulus), Acute Biliary Tract (Triangle of Calot, Charcot triad, ERCP, Early cholecystectomy), Acute Aortic Syndromes (Stanford A vs B, Anti-impulse esmolol, Ruptured AAA).
+- **Batch intl-11 (`content/bank/international/batch-intl-11.ts`):** 85 items (`intl-0661` - `intl-0745`). Focus: Major Trauma & ATLS Survey (Tension pneumothorax decompression, 1:1:1 MTP, TXA, FAST), Thermal Burns (Jackson zones, Parkland formula, Inhalation injury, Escharotomy), Major Depressive Disorder (SSRI neurobiology, Suicide safety, ECT), Psychotic Disorders & NMS (D2 antagonism, Lead-pipe rigidity, Dantrolene, Clozapine ANC), Panic & PTSD (Amygdala hyperactivity, CBT, SSRI, Prazosin), SJS/TEN & Blistering Diseases (Granulysin, SCORTEN, Desmoglein autoantibodies), Acute Poisoning (Organophosphates/Atropine, Acetaminophen/NAC, Toxidromes).
+
+**Total Expansion Inventory:** **745 high-yield clinical items** across 11 modular batch suites.
 
 ---
 
@@ -63,12 +69,12 @@ The following 14 examination categories are now officially registered in `conten
 
 | Audit Parameter | Verification Requirement | Observed Result | Status |
 |---|---|---|---|
-| **Code Uniqueness** | Zero duplicate codes across the entire question bank | 395 unique codes (`intl-0001`..`intl-0395`) | **PASSED** |
-| **Option Structure** | Exactly 5 distinct choices per item | 395/395 questions have exactly 5 options | **PASSED** |
-| **Correct Answer Integrity** | Exactly 1 correct answer per question | 395/395 questions have single correct option | **PASSED** |
-| **Stem Depth** | Vignette length >= 100 characters | All 395 questions >= 100 characters | **PASSED** |
-| **Explanation Depth** | Main explanation >= 180 characters | All 395 questions >= 180 characters | **PASSED** |
-| **Distractor Rationales** | Every choice rationale >= 35 characters | 1,975/1,975 option rationales >= 35 characters | **PASSED** |
+| **Code Uniqueness** | Zero duplicate codes across the entire question bank | 745 unique codes (`intl-0001`..`intl-0745`) | **PASSED** |
+| **Option Structure** | Exactly 5 distinct choices per item | 745/745 questions have exactly 5 options | **PASSED** |
+| **Correct Answer Integrity** | Exactly 1 correct answer per question | 745/745 questions have single correct option | **PASSED** |
+| **Stem Depth** | Vignette length >= 100 characters | All 745 questions >= 100 characters | **PASSED** |
+| **Explanation Depth** | Main explanation >= 180 characters | All 745 questions >= 180 characters | **PASSED** |
+| **Distractor Rationales** | Every choice rationale >= 35 characters | 3,725/3,725 option rationales >= 35 characters | **PASSED** |
 | **Factual References** | Verified HTTPS bibliographic link | 100% valid HTTPS links (NCBI, NICE, WHO, etc.) | **PASSED** |
 | **Shingles Similarity** | 3-gram similarity < 0.65 against all prior questions | 0 collisions or near-duplicates detected | **PASSED** |
 | **Review Attribution** | Explicit AI authorship and review state | Explicitly declared in `source` and `attribution` | **PASSED** |
