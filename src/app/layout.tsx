@@ -24,7 +24,7 @@ export const viewport: Viewport = {
 };
 
 // Applies the saved theme and text size before first paint (no flash). Values are validated, never injected raw.
-const prefsScript = `try{var t=localStorage.getItem('op-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;var f=+localStorage.getItem('op-font');if(f>=12&&f<=24)document.documentElement.style.setProperty('--font-size',f+'px')}catch(e){}`;
+const prefsScript = `try{var t=localStorage.getItem('op-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;var f=+localStorage.getItem('op-font');if(f>=12&&f<=24)document.documentElement.style.setProperty('--font-size',f+'px')}catch(e){};if('serviceWorker'in navigator&&window.location.protocol==='https:'){window.addEventListener('load',function(){navigator.serviceWorker.register('/sw.js').catch(function(){})})}`;
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (

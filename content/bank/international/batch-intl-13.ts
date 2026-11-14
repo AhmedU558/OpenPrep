@@ -1,0 +1,4594 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-0836",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Neurosurgical operative management: Ventriculoperitoneal versus Lumboperitoneal ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old woman presenting with functional decline is admitted following primary survey in the emergency service requiring evaluation for normal pressure hydrocephalus and reversible cognitive decline. Clinical examination confirms classic triad of progressive magnetic gait apraxia, urge urinary incontinence, and subcortical cognitive impairment ('wacky, wobbly, and wet'). Vital parameters reflect blood pressure 120/86 mm Hg, heart rate 74/min, respiratory rate 20/min, and ambient oxygen saturation 96%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Placement of a programmable ventriculoperitoneal (VP) shunt using stereotactic or laparoscopic abdominal assistance to achieve controlled physiological CSF diversion.",
+        "explanation": "VP shunting is the definitive surgical standard for NPH; laparoscopic placement of the distal peritoneal catheter confirms correct positioning and reduces pseudocyst formation.",
+        "correct": true
+      }
+    ],
+    "explanation": "VP shunting is the definitive surgical standard for NPH; laparoscopic placement of the distal peritoneal catheter confirms correct positioning and reduces pseudocyst formation. In the clinical evaluation of normal pressure hydrocephalus and reversible cognitive decline, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Neurosurgical operative management: Ventriculoperitoneal versus Lumboperitoneal .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Neurosurgical operative management: Ventriculoperitoneal versus Lumboperitoneal ."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0837",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Adams-Hakim clinical triad of Normal Pressure Hydrocephalus",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 26-year-old man undergoes pre-procedure optimization on the acute observation floor with progressive clinical features suspicious for normal pressure hydrocephalus and reversible cognitive decline. On clinical examination, findings show classic triad of progressive magnetic gait apraxia, urge urinary incontinence, and subcortical cognitive impairment ('wacky, wobbly, and wet'). Vital parameters reflect blood pressure 124/89 mm Hg, heart rate 79/min, respiratory rate 21/min, and ambient oxygen saturation 97%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "The classical triad: Gait disturbance (earliest sign), Urinary incontinence (urge incontinence due to uninhibited detrusor contractions), and Cognitive impairment (subcortical psychomotor slowing).",
+        "explanation": "National licensing curricula test the 'wet, wacky, and wobbly' triad, emphasizing that gait disturbance is the most sensitive and responsive component to surgical shunting.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "National licensing curricula test the 'wet, wacky, and wobbly' triad, emphasizing that gait disturbance is the most sensitive and responsive component to surgical shunting. In the clinical evaluation of normal pressure hydrocephalus and reversible cognitive decline, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Adams-Hakim clinical triad of Normal Pressure Hydrocephalus.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Adams-Hakim clinical triad of Normal Pressure Hydrocephalus."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0838",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Radiographic signs on neuroimaging: Evans index and callosal angle",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Detailed clinical workup is initiated for a 33-year-old woman who presents to the acute medical triage unit due to suspected normal pressure hydrocephalus and reversible cognitive decline. Bedside assessment demonstrates classic triad of progressive magnetic gait apraxia, urge urinary incontinence, and subcortical cognitive impairment ('wacky, wobbly, and wet'). Vital parameters reflect blood pressure 128/66 mm Hg, heart rate 84/min, respiratory rate 22/min, and ambient oxygen saturation 98%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Evans index > 0.3 (ratio of maximum frontal horn width to maximum inner skull diameter), acute callosal angle (< 90 degrees), and disproportionately enlarged subarachnoid space hydrocephalus (DESH).",
+        "explanation": "NEET PG neuroradiology heavily tests NPH neuroimaging: DESH sign (ventriculomegaly with tight high-convexity sulci and dilated Sylvian fissures) strongly predicts excellent shunt responsiveness.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "NEET PG neuroradiology heavily tests NPH neuroimaging: DESH sign (ventriculomegaly with tight high-convexity sulci and dilated Sylvian fissures) strongly predicts excellent shunt responsiveness. In the clinical evaluation of normal pressure hydrocephalus and reversible cognitive decline, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Radiographic signs on neuroimaging: Evans index and callosal angle.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Radiographic signs on neuroimaging: Evans index and callosal angle."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0839",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Subacute Combined Degeneration of the spinal cord and elevated methylmalonic aci",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old man with recent symptom exacerbation is evaluated during specialist consultation rounds for urgent diagnostic clarification of normal pressure hydrocephalus and reversible cognitive decline. Bedside evaluation highlights classic triad of progressive magnetic gait apraxia, urge urinary incontinence, and subcortical cognitive impairment ('wacky, wobbly, and wet'). Vital parameters reflect blood pressure 132/69 mm Hg, heart rate 89/min, respiratory rate 23/min, and ambient oxygen saturation 99%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Vitamin B12 deficiency presenting with sensory ataxia (dorsal column loss), spastic paraparesis (corticospinal tract loss), and elevated methylmalonic acid and homocysteine levels.",
+        "explanation": "MRCP clinical scenarios test vitamin B12 deficiency: serum B12 can be borderline normal; elevated methylmalonic acid confirms cellular deficiency requiring immediate intramuscular cobalamin.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "MRCP clinical scenarios test vitamin B12 deficiency: serum B12 can be borderline normal; elevated methylmalonic acid confirms cellular deficiency requiring immediate intramuscular cobalamin. In the clinical evaluation of normal pressure hydrocephalus and reversible cognitive decline, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Subacute Combined Degeneration of the spinal cord and elevated methylmalonic aci.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Subacute Combined Degeneration of the spinal cord and elevated methylmalonic aci."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0840",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Emergency recognition of acute VP shunt malfunction and infection",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Medical evaluation is commenced for a 47-year-old woman who attends the comprehensive outpatient ambulatory clinic with characteristic manifestations of normal pressure hydrocephalus and reversible cognitive decline. Physical examination reveals classic triad of progressive magnetic gait apraxia, urge urinary incontinence, and subcortical cognitive impairment ('wacky, wobbly, and wet'). Vital parameters reflect blood pressure 136/72 mm Hg, heart rate 94/min, respiratory rate 24/min, and ambient oxygen saturation 93%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Severe headache, vomiting, lethargy, sunsetting eyes, and peritonitis or shunt tract erythema in a shunted patient, requiring urgent non-contrast head CT and shunt reservoir tap.",
+        "explanation": "In emergency evaluation of suspected VP shunt failure, head CT compares ventricular size with post-op baseline; tapping the shunt reservoir under sterile conditions assesses pressure and rules out infection.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "In emergency evaluation of suspected VP shunt failure, head CT compares ventricular size with post-op baseline; tapping the shunt reservoir under sterile conditions assesses pressure and rules out infection. In the clinical evaluation of normal pressure hydrocephalus and reversible cognitive decline, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Emergency recognition of acute VP shunt malfunction and infection.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Emergency recognition of acute VP shunt malfunction and infection."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0841",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Neurosyphilis (General Paresis and Tabes Dorsalis) and aqueous penicillin G ther",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man presenting with functional decline is urgently admitted to the high-dependency critical care unit requiring evaluation for normal pressure hydrocephalus and reversible cognitive decline. Clinical examination confirms classic triad of progressive magnetic gait apraxia, urge urinary incontinence, and subcortical cognitive impairment ('wacky, wobbly, and wet'). Vital parameters reflect blood pressure 140/75 mm Hg, heart rate 99/min, respiratory rate 25/min, and ambient oxygen saturation 94%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Argyll Robertson pupils (accommodate but do not react to light), progressive dementia, tabetic lightning pains, and positive CSF VDRL, treated with IV aqueous crystalline penicillin G for 14 days.",
+        "explanation": "Saudi clinical guidelines emphasize screening for syphilis in unexplained progressive cognitive or gait impairment, treating confirmed neurosyphilis with high-dose intravenous aqueous penicillin.",
+        "correct": true
+      }
+    ],
+    "explanation": "Saudi clinical guidelines emphasize screening for syphilis in unexplained progressive cognitive or gait impairment, treating confirmed neurosyphilis with high-dose intravenous aqueous penicillin. In the clinical evaluation of normal pressure hydrocephalus and reversible cognitive decline, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Neurosyphilis (General Paresis and Tabes Dorsalis) and aqueous penicillin G ther.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Neurosyphilis (General Paresis and Tabes Dorsalis) and aqueous penicillin G ther."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0842",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Cognitive assessment tools and validated screening instruments (MoCA vs MMSE)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old woman presents to the regional secondary referral center with progressive clinical features suspicious for normal pressure hydrocephalus and reversible cognitive decline. On clinical examination, findings show classic triad of progressive magnetic gait apraxia, urge urinary incontinence, and subcortical cognitive impairment ('wacky, wobbly, and wet'). Vital parameters reflect blood pressure 144/78 mm Hg, heart rate 104/min, respiratory rate 14/min, and ambient oxygen saturation 95%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Administering the Montreal Cognitive Assessment (MoCA) as a more sensitive instrument than the MMSE for detecting subcortical and executive dysfunction characteristic of NPH.",
+        "explanation": "UAE health standards prioritize the MoCA test for early cognitive decline screening due to its comprehensive evaluation of executive function, visual spatial skills, and attention.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "UAE health standards prioritize the MoCA test for early cognitive decline screening due to its comprehensive evaluation of executive function, visual spatial skills, and attention. In the clinical evaluation of normal pressure hydrocephalus and reversible cognitive decline, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Cognitive assessment tools and validated screening instruments (MoCA vs MMSE).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Cognitive assessment tools and validated screening instruments (MoCA vs MMSE)."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0843",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Nervous System",
+    "topic": "Cerebrospinal fluid physiology: Production, circulation, and normal opening pres",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Detailed clinical workup is initiated for a 68-year-old man who undergoes multidisciplinary assessment in the clinical assessment unit due to suspected normal pressure hydrocephalus and reversible cognitive decline. Bedside assessment demonstrates classic triad of progressive magnetic gait apraxia, urge urinary incontinence, and subcortical cognitive impairment ('wacky, wobbly, and wet'). Vital parameters reflect blood pressure 148/81 mm Hg, heart rate 109/min, respiratory rate 15/min, and ambient oxygen saturation 96%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "CSF produced by the choroid plexuses (approx. 500 mL/day), flowing through the ventricular system into the subarachnoid space, exhibiting normal opening pressure (70-200 mm H2O) on lumbar puncture.",
+        "explanation": "Undergraduate physiology and pathology emphasize that despite marked ventricular enlargement, baseline lumbar puncture opening pressure in NPH remains strictly within the normal reference range.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Undergraduate physiology and pathology emphasize that despite marked ventricular enlargement, baseline lumbar puncture opening pressure in NPH remains strictly within the normal reference range. In the clinical evaluation of normal pressure hydrocephalus and reversible cognitive decline, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Cerebrospinal fluid physiology: Production, circulation, and normal opening pres.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of normal pressure hydrocephalus and reversible cognitive decline concerning Cerebrospinal fluid physiology: Production, circulation, and normal opening pres."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0844",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Musculoskeletal",
+    "topic": "RANKL-RANK-OPG pathway and osteoclast-mediated bone resorption",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Detailed clinical workup is initiated for a 50-year-old man who undergoes pre-procedure optimization on the acute observation floor due to suspected metabolic bone disease (osteoporosis, osteomalacia, and Paget disease). Bedside assessment demonstrates acute severe mid-thoracic back pain following minor lifting, point vertebral tenderness, progressive kyphosis, height loss of four centimeters, and DXA T-score -3.2. Vital parameters reflect blood pressure 148/73 mm Hg, heart rate 96/min, respiratory rate 16/min, and ambient oxygen saturation 93%. Which physiological alteration or pharmacological mechanism of action directly accounts for this condition?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Estrogen deficiency increasing osteoblast RANKL expression, binding RANK on osteoclast precursors to accelerate osteoclastogenesis and bone resorption with reduced osteoprotegerin (OPG) decoy receptor.",
+        "explanation": "Osteoporosis involves normal bone mineralization but decreased bone mass due to unbalanced remodeling; postmenopausal loss of estrogen removes inhibition of RANKL, driving rapid trabecular bone loss.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Osteoporosis involves normal bone mineralization but decreased bone mass due to unbalanced remodeling; postmenopausal loss of estrogen removes inhibition of RANKL, driving rapid trabecular bone loss. In the clinical evaluation of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning RANKL-RANK-OPG pathway and osteoclast-mediated bone resorption.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning RANKL-RANK-OPG pathway and osteoclast-mediated bone resorption."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0845",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Dual-energy X-ray absorptiometry (DXA) T-score criteria and bisphosphonate thera",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old woman with recent symptom exacerbation presents to the acute medical triage unit for urgent diagnostic clarification of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease). Bedside evaluation highlights acute severe mid-thoracic back pain following minor lifting, point vertebral tenderness, progressive kyphosis, height loss of four centimeters, and DXA T-score -3.2. Vital parameters reflect blood pressure 106/76 mm Hg, heart rate 101/min, respiratory rate 17/min, and ambient oxygen saturation 94%. Which of the following is the most appropriate next step in clinical management or diagnostic confirmation?",
+    "options": [
+      {
+        "text": "DXA T-score <= -2.5 at femoral neck or lumbar spine diagnosing osteoporosis; initiating oral bisphosphonates (alendronate) with calcium and vitamin D optimization.",
+        "explanation": "First-line pharmacological treatment for postmenopausal osteoporosis is oral bisphosphonates; patients must take tablets with a full glass of water and remain upright for 30 minutes to prevent esophagitis.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "First-line pharmacological treatment for postmenopausal osteoporosis is oral bisphosphonates; patients must take tablets with a full glass of water and remain upright for 30 minutes to prevent esophagitis. In the clinical evaluation of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Dual-energy X-ray absorptiometry (DXA) T-score criteria and bisphosphonate thera.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Dual-energy X-ray absorptiometry (DXA) T-score criteria and bisphosphonate thera."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0846",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Atypical femoral fractures and osteonecrosis of the jaw monitoring",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Medical evaluation is commenced for a 64-year-old man who is evaluated during specialist consultation rounds with characteristic manifestations of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease). Physical examination reveals acute severe mid-thoracic back pain following minor lifting, point vertebral tenderness, progressive kyphosis, height loss of four centimeters, and DXA T-score -3.2. Vital parameters reflect blood pressure 110/79 mm Hg, heart rate 106/min, respiratory rate 18/min, and ambient oxygen saturation 95%. What is the optimal long-term maintenance therapy or surveillance interval for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Considering a 'drug holiday' after 3 to 5 years of bisphosphonate therapy in low-to-moderate risk patients to minimize risks of atypical subtrochanteric femoral fractures and jaw osteonecrosis.",
+        "explanation": "Long-term potent bisphosphonates oversuppress bone turnover; periodic fracture risk reassessment (FRAX score) determines the appropriateness of temporary drug holidays.",
+        "correct": true
+      }
+    ],
+    "explanation": "Long-term potent bisphosphonates oversuppress bone turnover; periodic fracture risk reassessment (FRAX score) determines the appropriateness of temporary drug holidays. In the clinical evaluation of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Atypical femoral fractures and osteonecrosis of the jaw monitoring.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Atypical femoral fractures and osteonecrosis of the jaw monitoring."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0847",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "NICE guidelines on fracture risk assessment (FRAX tool) and screening thresholds",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 71-year-old woman presenting with functional decline attends the comprehensive outpatient ambulatory clinic requiring evaluation for metabolic bone disease (osteoporosis, osteomalacia, and Paget disease). Clinical examination confirms acute severe mid-thoracic back pain following minor lifting, point vertebral tenderness, progressive kyphosis, height loss of four centimeters, and DXA T-score -3.2. Vital parameters reflect blood pressure 114/82 mm Hg, heart rate 111/min, respiratory rate 19/min, and ambient oxygen saturation 96%. What is the guideline-directed management recommendation for this NHS acute presentation?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Calculating 10-year major osteoporotic fracture probability using the FRAX tool in women >= 65 years and men >= 75 years (or earlier with risk factors) to guide DXA scanning.",
+        "explanation": "NICE clinical guideline CG146 recommends using FRAX or QFracture before DXA scanning; high-risk scores trigger DXA or direct treatment without imaging in very elderly patients with fragility fractures.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "NICE clinical guideline CG146 recommends using FRAX or QFracture before DXA scanning; high-risk scores trigger DXA or direct treatment without imaging in very elderly patients with fragility fractures. In the clinical evaluation of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning NICE guidelines on fracture risk assessment (FRAX tool) and screening thresholds.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning NICE guidelines on fracture risk assessment (FRAX tool) and screening thresholds."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0848",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Osteomalacia in adults and defective unmineralized osteoid accumulation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 78-year-old man is urgently admitted to the high-dependency critical care unit with progressive clinical features suspicious for metabolic bone disease (osteoporosis, osteomalacia, and Paget disease). On clinical examination, findings show acute severe mid-thoracic back pain following minor lifting, point vertebral tenderness, progressive kyphosis, height loss of four centimeters, and DXA T-score -3.2. Vital parameters reflect blood pressure 118/85 mm Hg, heart rate 68/min, respiratory rate 20/min, and ambient oxygen saturation 97%. According to Australian therapeutic guidelines and AMC clinical standards, what is the most appropriate initial action?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Severe vitamin D deficiency causing bone pain, proximal muscle weakness, elevated alkaline phosphatase, low serum calcium and phosphate, and pseudofractures (Looser zones) on X-ray.",
+        "explanation": "Australian guidelines emphasize that osteomalacia is characterized by failure of osteoid matrix mineralization; treatment requires high-dose cholecalciferol (50,000 IU weekly for 8-12 weeks).",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Australian guidelines emphasize that osteomalacia is characterized by failure of osteoid matrix mineralization; treatment requires high-dose cholecalciferol (50,000 IU weekly for 8-12 weeks). In the clinical evaluation of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Osteomalacia in adults and defective unmineralized osteoid accumulation.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Osteomalacia in adults and defective unmineralized osteoid accumulation."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0849",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Secondary causes of osteoporosis workup (Cushing, hyperparathyroidism, multiple ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Detailed clinical workup is initiated for a 25-year-old woman who presents to the regional secondary referral center due to suspected metabolic bone disease (osteoporosis, osteomalacia, and Paget disease). Bedside assessment demonstrates acute severe mid-thoracic back pain following minor lifting, point vertebral tenderness, progressive kyphosis, height loss of four centimeters, and DXA T-score -3.2. Vital parameters reflect blood pressure 122/88 mm Hg, heart rate 73/min, respiratory rate 21/min, and ambient oxygen saturation 98%. What is the key diagnostic investigation or management priority according to Canadian qualifying standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Investigating secondary etiologies in men and premenopausal women with fragility fractures: checking serum calcium, PTH, 25-OH vitamin D, TSH, and serum protein electrophoresis.",
+        "explanation": "Canadian medical objectives mandate screening for secondary causes of osteoporosis (e.g., celiac disease, hyperthyroidism, hypogonadism, myeloma) before assuming primary involutional bone loss.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Canadian medical objectives mandate screening for secondary causes of osteoporosis (e.g., celiac disease, hyperthyroidism, hypogonadism, myeloma) before assuming primary involutional bone loss. In the clinical evaluation of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Secondary causes of osteoporosis workup (Cushing, hyperparathyroidism, multiple .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Secondary causes of osteoporosis workup (Cushing, hyperparathyroidism, multiple ."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0850",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Vertebroplasty versus Kyphoplasty in painful osteoporotic compression fractures",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 32-year-old man with recent symptom exacerbation undergoes multidisciplinary assessment in the clinical assessment unit for urgent diagnostic clarification of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease). Bedside evaluation highlights acute severe mid-thoracic back pain following minor lifting, point vertebral tenderness, progressive kyphosis, height loss of four centimeters, and DXA T-score -3.2. Vital parameters reflect blood pressure 126/65 mm Hg, heart rate 78/min, respiratory rate 22/min, and ambient oxygen saturation 99%. Which clinical strategy is prioritized in this post-graduate fellowship examination scenario?",
+    "options": [
+      {
+        "text": "Balloon kyphoplasty or percutaneous vertebroplasty with polymethylmethacrylate (PMMA) cement injection for severe, incapacitating pain refractory to conservative analgesia.",
+        "explanation": "In orthopedic and neurosurgical practice, percutaneous balloon kyphoplasty restores vertebral body height and provides rapid pain relief for acute, unstable compression fractures.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "In orthopedic and neurosurgical practice, percutaneous balloon kyphoplasty restores vertebral body height and provides rapid pain relief for acute, unstable compression fractures. In the clinical evaluation of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Vertebroplasty versus Kyphoplasty in painful osteoporotic compression fractures.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Vertebroplasty versus Kyphoplasty in painful osteoporotic compression fractures."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0851",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Paget disease of bone clinical features and isolated elevated alkaline phosphata",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Medical evaluation is commenced for a 39-year-old woman who is transferred by emergency medical service to the resuscitation bay with characteristic manifestations of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease). Physical examination reveals acute severe mid-thoracic back pain following minor lifting, point vertebral tenderness, progressive kyphosis, height loss of four centimeters, and DXA T-score -3.2. Vital parameters reflect blood pressure 130/68 mm Hg, heart rate 83/min, respiratory rate 23/min, and ambient oxygen saturation 93%. Which of the following is the most appropriate initial medical therapy or core clinical recommendation according to national licensing standards?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Increased skull circumference, bone deformities (bowing of tibia), progressive sensorineural hearing loss, and markedly elevated serum alkaline phosphatase with normal calcium and phosphate.",
+        "explanation": "National licensing curricula test Paget disease (osteitis deformans): accelerated disorganized bone remodeling produces bone enlargement, cranial nerve compression, and high-output heart failure.",
+        "correct": true
+      }
+    ],
+    "explanation": "National licensing curricula test Paget disease (osteitis deformans): accelerated disorganized bone remodeling produces bone enlargement, cranial nerve compression, and high-output heart failure. In the clinical evaluation of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Paget disease of bone clinical features and isolated elevated alkaline phosphata.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Paget disease of bone clinical features and isolated elevated alkaline phosphata."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0852",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Histological mosaic pattern and osteosarcoma transformation in Paget disease",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 46-year-old man presenting with functional decline attends the scheduled outpatient subspecialty service requiring evaluation for metabolic bone disease (osteoporosis, osteomalacia, and Paget disease). Clinical examination confirms acute severe mid-thoracic back pain following minor lifting, point vertebral tenderness, progressive kyphosis, height loss of four centimeters, and DXA T-score -3.2. Vital parameters reflect blood pressure 134/71 mm Hg, heart rate 88/min, respiratory rate 24/min, and ambient oxygen saturation 94%. What is the pathognomonic diagnostic sign, drug of choice, or histological feature of this condition?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Haphazard 'mosaic' or 'jigsaw puzzle' pattern of lamellar bone with prominent cement lines, and recognition of the 1% lifetime risk of secondary malignant degeneration to osteosarcoma.",
+        "explanation": "NEET PG pathology tests Paget disease histology: prominent basophilic cement lines separating haphazardly arranged bone fragments; new-onset severe bone pain and lytic lesions indicate secondary osteosarcoma.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "NEET PG pathology tests Paget disease histology: prominent basophilic cement lines separating haphazardly arranged bone fragments; new-onset severe bone pain and lytic lesions indicate secondary osteosarcoma. In the clinical evaluation of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Histological mosaic pattern and osteosarcoma transformation in Paget disease.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Histological mosaic pattern and osteosarcoma transformation in Paget disease."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0853",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Teriparatide (recombinant human PTH) versus Denosumab (RANKL inhibitor) pharmaco",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old woman is admitted following primary survey in the emergency service with progressive clinical features suspicious for metabolic bone disease (osteoporosis, osteomalacia, and Paget disease). On clinical examination, findings show acute severe mid-thoracic back pain following minor lifting, point vertebral tenderness, progressive kyphosis, height loss of four centimeters, and DXA T-score -3.2. Vital parameters reflect blood pressure 138/74 mm Hg, heart rate 93/min, respiratory rate 25/min, and ambient oxygen saturation 95%. Which evidence-based clinical intervention is supported by landmark clinical trial evidence?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Pulsatile daily teriparatide acting as an anabolic agent stimulating new bone formation; denosumab (monoclonal antibody against RANKL) requiring vigilance for rebound vertebral fractures upon discontinuation.",
+        "explanation": "MRCP clinical endocrinology contrasts bone therapies: teriparatide stimulates osteoblastic bone formation directly (max 24-month duration due to osteosarcoma warning); denosumab cannot be stopped abruptly without bridging.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "MRCP clinical endocrinology contrasts bone therapies: teriparatide stimulates osteoblastic bone formation directly (max 24-month duration due to osteosarcoma warning); denosumab cannot be stopped abruptly without bridging. In the clinical evaluation of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Teriparatide (recombinant human PTH) versus Denosumab (RANKL inhibitor) pharmaco.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Teriparatide (recombinant human PTH) versus Denosumab (RANKL inhibitor) pharmaco."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0854",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Emergency management of acute fragility hip fracture in elderly patients",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Detailed clinical workup is initiated for a 60-year-old man who undergoes pre-procedure optimization on the acute observation floor due to suspected metabolic bone disease (osteoporosis, osteomalacia, and Paget disease). Bedside assessment demonstrates acute severe mid-thoracic back pain following minor lifting, point vertebral tenderness, progressive kyphosis, height loss of four centimeters, and DXA T-score -3.2. Vital parameters reflect blood pressure 142/77 mm Hg, heart rate 98/min, respiratory rate 14/min, and ambient oxygen saturation 96%. Triage evaluation reveals acute physiological compromise. What is the most immediate emergency resuscitation intervention?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Multimodal analgesia with ultrasound-guided fascia iliaca compartment block, avoidance of systemic opioids, fluid optimization, and surgical fixation within 24-36 hours.",
+        "explanation": "Emergency resuscitation in geriatric hip fractures prioritizes early fascia iliaca nerve blocks to achieve excellent pain relief without opioid-induced delirium, expediting urgent surgical repair.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Emergency resuscitation in geriatric hip fractures prioritizes early fascia iliaca nerve blocks to achieve excellent pain relief without opioid-induced delirium, expediting urgent surgical repair. In the clinical evaluation of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Emergency management of acute fragility hip fracture in elderly patients.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Emergency management of acute fragility hip fracture in elderly patients."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0855",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "High prevalence of hypovitaminosis D in the Arabian Peninsula and fortification ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 67-year-old woman with recent symptom exacerbation presents to the acute medical triage unit for urgent diagnostic clarification of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease). Bedside evaluation highlights acute severe mid-thoracic back pain following minor lifting, point vertebral tenderness, progressive kyphosis, height loss of four centimeters, and DXA T-score -3.2. Vital parameters reflect blood pressure 146/80 mm Hg, heart rate 103/min, respiratory rate 15/min, and ambient oxygen saturation 97%. What is the standard clinical protocol recommended for this presentation under Saudi licensing examination guidelines?",
+    "options": [
+      {
+        "text": "Screening high-risk populations for vitamin D deficiency despite abundant sunlight due to indoor lifestyle and traditional clothing, prescribing maintenance 1,000-2,000 IU daily.",
+        "explanation": "Saudi clinical guidelines emphasize population-wide screening for vitamin D deficiency, mandating public health food fortification and routine prophylactic supplementation.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "Saudi clinical guidelines emphasize population-wide screening for vitamin D deficiency, mandating public health food fortification and routine prophylactic supplementation. In the clinical evaluation of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning High prevalence of hypovitaminosis D in the Arabian Peninsula and fortification .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning High prevalence of hypovitaminosis D in the Arabian Peninsula and fortification ."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0856",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Post-fracture liaison service (FLS) implementation and secondary prevention",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Medical evaluation is commenced for a 74-year-old man who is evaluated during specialist consultation rounds with characteristic manifestations of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease). Physical examination reveals acute severe mid-thoracic back pain following minor lifting, point vertebral tenderness, progressive kyphosis, height loss of four centimeters, and DXA T-score -3.2. Vital parameters reflect blood pressure 150/83 mm Hg, heart rate 108/min, respiratory rate 16/min, and ambient oxygen saturation 98%. What is the recommended guideline-directed protocol for this patient in the UAE health system?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Enrolling all fragility fracture patients in a structured Fracture Liaison Service to ensure DXA evaluation, initiation of anti-osteoporotic therapy, and balance/fall prevention training.",
+        "explanation": "UAE health authority standards mandate hospital-based Fracture Liaison Services, achieving over 80% treatment rates for secondary fragility fracture prevention.",
+        "correct": true
+      }
+    ],
+    "explanation": "UAE health authority standards mandate hospital-based Fracture Liaison Services, achieving over 80% treatment rates for secondary fragility fracture prevention. In the clinical evaluation of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Post-fracture liaison service (FLS) implementation and secondary prevention.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Post-fracture liaison service (FLS) implementation and secondary prevention."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0857",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Microscopic pathology of osteomalacia versus osteoporosis",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 21-year-old woman presenting with functional decline attends the comprehensive outpatient ambulatory clinic requiring evaluation for metabolic bone disease (osteoporosis, osteomalacia, and Paget disease). Clinical examination confirms acute severe mid-thoracic back pain following minor lifting, point vertebral tenderness, progressive kyphosis, height loss of four centimeters, and DXA T-score -3.2. Vital parameters reflect blood pressure 108/86 mm Hg, heart rate 113/min, respiratory rate 17/min, and ambient oxygen saturation 99%. Bedside clinical examination reveals classical findings. What is the most important clinical sign, pathological finding, or investigation to establish the diagnosis?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Osteomalacia showing excessively wide seams of unmineralized pale osteoid lining trabeculae; osteoporosis showing thin, sparse, attenuated bony trabeculae with normal mineralization.",
+        "explanation": "Undergraduate pathology emphasizes that Von Kossa staining stains mineralized bone black, easily demonstrating the thick, unmineralized osteoid seams pathognomonic of osteomalacia.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Undergraduate pathology emphasizes that Von Kossa staining stains mineralized bone black, easily demonstrating the thick, unmineralized osteoid seams pathognomonic of osteomalacia. In the clinical evaluation of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Microscopic pathology of osteomalacia versus osteoporosis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of metabolic bone disease (osteoporosis, osteomalacia, and Paget disease) concerning Microscopic pathology of osteomalacia versus osteoporosis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0858",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Distal intercalated cell H+-ATPase failure in Type 1 RTA",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 63-year-old woman presenting with functional decline is transferred by emergency medical service to the resuscitation bay requiring evaluation for renal tubular acidosis (types 1, 2, and 4). Clinical examination confirms normal anion gap metabolic acidosis (hyperchloremic), hypokalemia, inability to acidify urine below pH 5.5, and recurrent bilateral nephrocalcinosis. Vital parameters reflect blood pressure 108/78 mm Hg, heart rate 100/min, respiratory rate 18/min, and ambient oxygen saturation 96%. What is the underlying biochemical pathway, genetic defect, or cellular alteration responsible for these observed clinical findings?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Failure of alpha-intercalated cells in the cortical collecting duct to secrete H+ via apical H+-ATPase or H+/K+-ATPase, preventing luminal acidification and trapping of ammonium (NH4+).",
+        "explanation": "In Type 1 (distal) RTA, inability to excrete hydrogen ions causes systemic acidosis; alkaline urine promotes calcium phosphate precipitation, leading to nephrocalcinosis and recurrent nephrolithiasis.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In Type 1 (distal) RTA, inability to excrete hydrogen ions causes systemic acidosis; alkaline urine promotes calcium phosphate precipitation, leading to nephrocalcinosis and recurrent nephrolithiasis. In the clinical evaluation of renal tubular acidosis (types 1, 2, and 4), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Distal intercalated cell H+-ATPase failure in Type 1 RTA.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Distal intercalated cell H+-ATPase failure in Type 1 RTA."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0859",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Diagnostic differentiation: Urine anion gap and response to bicarbonate loading",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 70-year-old man attends the scheduled outpatient subspecialty service with progressive clinical features suspicious for renal tubular acidosis (types 1, 2, and 4). On clinical examination, findings show normal anion gap metabolic acidosis (hyperchloremic), hypokalemia, inability to acidify urine below pH 5.5, and recurrent bilateral nephrocalcinosis. Vital parameters reflect blood pressure 112/81 mm Hg, heart rate 105/min, respiratory rate 19/min, and ambient oxygen saturation 97%. Which of the following represents the immediate next step in patient evaluation?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Positive urine anion gap (Na + K - Cl > 0) in Type 1 RTA reflecting impaired urinary ammonium excretion; fractional excretion of bicarbonate > 15% during bicarbonate infusion in Type 2 RTA.",
+        "explanation": "A normal anion gap metabolic acidosis with a positive urine anion gap points to distal RTA; negative urine anion gap (Na + K - Cl < 0) indicates GI bicarbonate loss (diarrhea) with intact renal ammonium excretion.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "A normal anion gap metabolic acidosis with a positive urine anion gap points to distal RTA; negative urine anion gap (Na + K - Cl < 0) indicates GI bicarbonate loss (diarrhea) with intact renal ammonium excretion. In the clinical evaluation of renal tubular acidosis (types 1, 2, and 4), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Diagnostic differentiation: Urine anion gap and response to bicarbonate loading.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Diagnostic differentiation: Urine anion gap and response to bicarbonate loading."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0860",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Chronic alkali replacement and potassium optimization strategies",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Detailed clinical workup is initiated for a 77-year-old woman who is admitted following primary survey in the emergency service due to suspected renal tubular acidosis (types 1, 2, and 4). Bedside assessment demonstrates normal anion gap metabolic acidosis (hyperchloremic), hypokalemia, inability to acidify urine below pH 5.5, and recurrent bilateral nephrocalcinosis. Vital parameters reflect blood pressure 116/84 mm Hg, heart rate 110/min, respiratory rate 20/min, and ambient oxygen saturation 98%. Which of the following represents the most appropriate long-term ambulatory management or secondary prevention strategy?",
+    "options": [
+      {
+        "text": "High-dose sodium bicarbonate or potassium citrate (to correct acidosis and prevent stone formation) in Type 1 RTA; fludrocortisone and dietary potassium restriction in Type 4 RTA.",
+        "explanation": "Potassium citrate is the treatment of choice in Type 1 RTA because citrate alkalinizes urine and chelates calcium, preventing nephrocalcinosis while simultaneously correcting hypokalemia.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Potassium citrate is the treatment of choice in Type 1 RTA because citrate alkalinizes urine and chelates calcium, preventing nephrocalcinosis while simultaneously correcting hypokalemia. In the clinical evaluation of renal tubular acidosis (types 1, 2, and 4), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Chronic alkali replacement and potassium optimization strategies.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Chronic alkali replacement and potassium optimization strategies."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0861",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Type 4 RTA association with diabetic nephropathy and hyperkalemia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man with recent symptom exacerbation undergoes pre-procedure optimization on the acute observation floor for urgent diagnostic clarification of renal tubular acidosis (types 1, 2, and 4). Bedside evaluation highlights normal anion gap metabolic acidosis (hyperchloremic), hypokalemia, inability to acidify urine below pH 5.5, and recurrent bilateral nephrocalcinosis. Vital parameters reflect blood pressure 120/87 mm Hg, heart rate 115/min, respiratory rate 21/min, and ambient oxygen saturation 99%. According to UK national clinical standards, which intervention should be initiated promptly?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Hyporeninemic hypoaldosteronism in long-standing diabetic kidney disease causing hyperkalemia and mild normal anion gap metabolic acidosis with intact urine acidification (urine pH < 5.5).",
+        "explanation": "UK clinical guidelines highlight Type 4 RTA as the only hyperkalemic RTA, commonly triggered in diabetics with mild-to-moderate CKD when ACE inhibitors or potassium-sparing diuretics are started.",
+        "correct": true
+      }
+    ],
+    "explanation": "UK clinical guidelines highlight Type 4 RTA as the only hyperkalemic RTA, commonly triggered in diabetics with mild-to-moderate CKD when ACE inhibitors or potassium-sparing diuretics are started. In the clinical evaluation of renal tubular acidosis (types 1, 2, and 4), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Type 4 RTA association with diabetic nephropathy and hyperkalemia.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Type 4 RTA association with diabetic nephropathy and hyperkalemia."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0862",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Type 2 (proximal) RTA and association with Fanconi syndrome",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Medical evaluation is commenced for a 31-year-old woman who presents to the acute medical triage unit with characteristic manifestations of renal tubular acidosis (types 1, 2, and 4). Physical examination reveals normal anion gap metabolic acidosis (hyperchloremic), hypokalemia, inability to acidify urine below pH 5.5, and recurrent bilateral nephrocalcinosis. Vital parameters reflect blood pressure 124/64 mm Hg, heart rate 72/min, respiratory rate 22/min, and ambient oxygen saturation 93%. Which diagnostic or therapeutic action is prioritized under Australian clinical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Impaired proximal tubular bicarbonate reabsorption accompanied by glucosuria, aminoaciduria, phosphaturia (causing rickets/osteomalacia), and uricosuria (Fanconi syndrome).",
+        "explanation": "Australian nephrology consensus emphasizes that Type 2 RTA occurs commonly secondary to light-chain nephropathy (multiple myeloma) or drugs (tenofovir, ifosfamide), causing generalized proximal dysfunction.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Australian nephrology consensus emphasizes that Type 2 RTA occurs commonly secondary to light-chain nephropathy (multiple myeloma) or drugs (tenofovir, ifosfamide), causing generalized proximal dysfunction. In the clinical evaluation of renal tubular acidosis (types 1, 2, and 4), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Type 2 (proximal) RTA and association with Fanconi syndrome.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Type 2 (proximal) RTA and association with Fanconi syndrome."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0863",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Autoimmune etiology of Type 1 RTA and association with Sj\u00f6gren syndrome",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 38-year-old man presenting with functional decline is evaluated during specialist consultation rounds requiring evaluation for renal tubular acidosis (types 1, 2, and 4). Clinical examination confirms normal anion gap metabolic acidosis (hyperchloremic), hypokalemia, inability to acidify urine below pH 5.5, and recurrent bilateral nephrocalcinosis. Vital parameters reflect blood pressure 128/67 mm Hg, heart rate 77/min, respiratory rate 23/min, and ambient oxygen saturation 94%. In accordance with Medical Council of Canada clinical objectives, which of the following is the most appropriate initial step?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Evaluation for underlying Sj\u00f6gren syndrome, systemic lupus erythematosus, or autoimmune thyroiditis in adult patients presenting with unexplained hypokalemic distal RTA.",
+        "explanation": "Canadian medical objectives stress investigating autoimmune diseases (particularly Sj\u00f6gren syndrome with anti-Ro/La) in women presenting with unexplained distal RTA and hypokalemic paralysis.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "Canadian medical objectives stress investigating autoimmune diseases (particularly Sj\u00f6gren syndrome with anti-Ro/La) in women presenting with unexplained distal RTA and hypokalemic paralysis. In the clinical evaluation of renal tubular acidosis (types 1, 2, and 4), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Autoimmune etiology of Type 1 RTA and association with Sj\u00f6gren syndrome.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Autoimmune etiology of Type 1 RTA and association with Sj\u00f6gren syndrome."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0864",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Urological and surgical management of staghorn calculi in Type 1 RTA",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old woman attends the comprehensive outpatient ambulatory clinic with progressive clinical features suspicious for renal tubular acidosis (types 1, 2, and 4). On clinical examination, findings show normal anion gap metabolic acidosis (hyperchloremic), hypokalemia, inability to acidify urine below pH 5.5, and recurrent bilateral nephrocalcinosis. Vital parameters reflect blood pressure 132/70 mm Hg, heart rate 82/min, respiratory rate 24/min, and ambient oxygen saturation 95%. What is the most appropriate advanced diagnostic workup or surgical intervention in this tertiary referral patient?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Percutaneous nephrolithotomy (PCNL) for large, bilateral calcium phosphate staghorn calculi formed in the persistently alkaline urinary milieu of distal RTA.",
+        "explanation": "In urological practice, stones in Type 1 RTA consist of calcium phosphate (apatite or brushite); open or percutaneous stone clearance must be coupled with lifelong potassium citrate therapy.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "In urological practice, stones in Type 1 RTA consist of calcium phosphate (apatite or brushite); open or percutaneous stone clearance must be coupled with lifelong potassium citrate therapy. In the clinical evaluation of renal tubular acidosis (types 1, 2, and 4), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Urological and surgical management of staghorn calculi in Type 1 RTA.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Urological and surgical management of staghorn calculi in Type 1 RTA."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0865",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Clinical comparison of RTA types (Type 1, Type 2, and Type 4)",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Detailed clinical workup is initiated for a 52-year-old man who is urgently admitted to the high-dependency critical care unit due to suspected renal tubular acidosis (types 1, 2, and 4). Bedside assessment demonstrates normal anion gap metabolic acidosis (hyperchloremic), hypokalemia, inability to acidify urine below pH 5.5, and recurrent bilateral nephrocalcinosis. Vital parameters reflect blood pressure 136/73 mm Hg, heart rate 87/min, respiratory rate 25/min, and ambient oxygen saturation 96%. Which fundamental clinical intervention is prioritized for this patient?",
+    "options": [
+      {
+        "text": "Type 1 (distal): urine pH > 5.5, hypokalemia, stones common; Type 2 (proximal): urine pH < 5.5 once reset, hypokalemia, rickets; Type 4 (hypoaldo): urine pH < 5.5, hyperkalemia, no stones.",
+        "explanation": "National licensing curricula test the classic RTA differentiation matrix: serum potassium is high only in Type 4; urine pH cannot drop below 5.5 only in Type 1.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "National licensing curricula test the classic RTA differentiation matrix: serum potassium is high only in Type 4; urine pH cannot drop below 5.5 only in Type 1. In the clinical evaluation of renal tubular acidosis (types 1, 2, and 4), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Clinical comparison of RTA types (Type 1, Type 2, and Type 4).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Clinical comparison of RTA types (Type 1, Type 2, and Type 4)."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0866",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Urine net charge and urinary ammonium excretion calculation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old woman with recent symptom exacerbation presents to the regional secondary referral center for urgent diagnostic clarification of renal tubular acidosis (types 1, 2, and 4). Bedside evaluation highlights normal anion gap metabolic acidosis (hyperchloremic), hypokalemia, inability to acidify urine below pH 5.5, and recurrent bilateral nephrocalcinosis. Vital parameters reflect blood pressure 140/76 mm Hg, heart rate 92/min, respiratory rate 14/min, and ambient oxygen saturation 97%. Which of the following represents the most characteristic clinical discriminator, drug of choice, or pathological hallmark?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Urine anion gap = (Urine Sodium + Urine Potassium) - Urine Chloride; negative values indicate normal ammonium excretion, while positive values indicate impaired distal H+/NH4+ secretion.",
+        "explanation": "NEET PG nephrology questions heavily test the urine anion gap formula as an indirect bedside surrogate for urinary ammonium (NH4+) excretion in normal anion gap metabolic acidosis.",
+        "correct": true
+      }
+    ],
+    "explanation": "NEET PG nephrology questions heavily test the urine anion gap formula as an indirect bedside surrogate for urinary ammonium (NH4+) excretion in normal anion gap metabolic acidosis. In the clinical evaluation of renal tubular acidosis (types 1, 2, and 4), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Urine net charge and urinary ammonium excretion calculation.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Urine net charge and urinary ammonium excretion calculation."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0867",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Drug-induced Type 4 RTA mechanisms (mineralocorticoid receptor antagonists, trim",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Medical evaluation is commenced for a 66-year-old man who undergoes multidisciplinary assessment in the clinical assessment unit with characteristic manifestations of renal tubular acidosis (types 1, 2, and 4). Physical examination reveals normal anion gap metabolic acidosis (hyperchloremic), hypokalemia, inability to acidify urine below pH 5.5, and recurrent bilateral nephrocalcinosis. Vital parameters reflect blood pressure 144/79 mm Hg, heart rate 97/min, respiratory rate 15/min, and ambient oxygen saturation 98%. What is the optimal specialized investigation or second-line disease-modifying therapy for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Trimethoprim blocking epithelial sodium channels (ENaC) in the collecting duct, and spironolactone or ACE inhibitors causing functional hypoaldosteronism and severe hyperkalemia.",
+        "explanation": "MRCP clinical pharmacology highlights trimethoprim's chemical similarity to amiloride, blocking luminal ENaC channels and precipitating acute hyperkalemic Type 4 RTA in elderly CKD patients.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "MRCP clinical pharmacology highlights trimethoprim's chemical similarity to amiloride, blocking luminal ENaC channels and precipitating acute hyperkalemic Type 4 RTA in elderly CKD patients. In the clinical evaluation of renal tubular acidosis (types 1, 2, and 4), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Drug-induced Type 4 RTA mechanisms (mineralocorticoid receptor antagonists, trim.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Drug-induced Type 4 RTA mechanisms (mineralocorticoid receptor antagonists, trim."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0868",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Emergency management of severe hypokalemic quadriparesis in distal RTA",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old woman presenting with functional decline is transferred by emergency medical service to the resuscitation bay requiring evaluation for renal tubular acidosis (types 1, 2, and 4). Clinical examination confirms normal anion gap metabolic acidosis (hyperchloremic), hypokalemia, inability to acidify urine below pH 5.5, and recurrent bilateral nephrocalcinosis. Vital parameters reflect blood pressure 148/82 mm Hg, heart rate 102/min, respiratory rate 16/min, and ambient oxygen saturation 99%. Which acute algorithmic intervention must be performed without delay in this emergency setting?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Rapid intravenous potassium chloride infusion with continuous cardiac telemetry to prevent fatal ventricular arrhythmias, correcting potassium before giving large alkali boluses.",
+        "explanation": "In emergency care of severe hypokalemic paralysis from RTA, alkali therapy must never precede potassium repletion, as sodium bicarbonate shifts extracellular potassium into cells, causing cardiac arrest.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "In emergency care of severe hypokalemic paralysis from RTA, alkali therapy must never precede potassium repletion, as sodium bicarbonate shifts extracellular potassium into cells, causing cardiac arrest. In the clinical evaluation of renal tubular acidosis (types 1, 2, and 4), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Emergency management of severe hypokalemic quadriparesis in distal RTA.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Emergency management of severe hypokalemic quadriparesis in distal RTA."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0869",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Genetic causes of distal RTA in pediatric populations (SLC4A1 and ATP6V0A4 mutat",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 20-year-old man attends the scheduled outpatient subspecialty service with progressive clinical features suspicious for renal tubular acidosis (types 1, 2, and 4). On clinical examination, findings show normal anion gap metabolic acidosis (hyperchloremic), hypokalemia, inability to acidify urine below pH 5.5, and recurrent bilateral nephrocalcinosis. Vital parameters reflect blood pressure 106/85 mm Hg, heart rate 107/min, respiratory rate 17/min, and ambient oxygen saturation 93%. According to Saudi medical licensing guidelines, what is the recommended initial management or diagnostic protocol?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Autosomal recessive distal RTA with sensorineural hearing loss (ATP6V1B1 / ATP6V0A4 mutations) in consanguineous families, presenting with failure to thrive and rickets.",
+        "explanation": "In Saudi Arabia where consanguinity rates are high, familial pediatric distal RTA presents with severe metabolic acidosis, growth failure, and progressive sensorineural hearing loss.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In Saudi Arabia where consanguinity rates are high, familial pediatric distal RTA presents with severe metabolic acidosis, growth failure, and progressive sensorineural hearing loss. In the clinical evaluation of renal tubular acidosis (types 1, 2, and 4), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Genetic causes of distal RTA in pediatric populations (SLC4A1 and ATP6V0A4 mutat.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Genetic causes of distal RTA in pediatric populations (SLC4A1 and ATP6V0A4 mutat."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0870",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Tenofovir disoproxil fumarate-induced proximal tubular toxicity and monitoring",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Detailed clinical workup is initiated for a 27-year-old woman who is admitted following primary survey in the emergency service due to suspected renal tubular acidosis (types 1, 2, and 4). Bedside assessment demonstrates normal anion gap metabolic acidosis (hyperchloremic), hypokalemia, inability to acidify urine below pH 5.5, and recurrent bilateral nephrocalcinosis. Vital parameters reflect blood pressure 110/88 mm Hg, heart rate 112/min, respiratory rate 18/min, and ambient oxygen saturation 94%. Under Department of Health clinical standards, what is the most appropriate diagnostic or management action?",
+    "options": [
+      {
+        "text": "Monitoring urine protein-to-creatinine ratio, serum phosphate, and glucosuria in patients receiving tenofovir disoproxil, switching to tenofovir alafenamide upon detecting tubulopathy.",
+        "explanation": "UAE HIV and hepatitis B treatment guidelines mandate serial renal surveillance for tenofovir-induced Fanconi syndrome and proximal RTA, utilizing newer prodrugs with lower renal exposure.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "UAE HIV and hepatitis B treatment guidelines mandate serial renal surveillance for tenofovir-induced Fanconi syndrome and proximal RTA, utilizing newer prodrugs with lower renal exposure. In the clinical evaluation of renal tubular acidosis (types 1, 2, and 4), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Tenofovir disoproxil fumarate-induced proximal tubular toxicity and monitoring.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Tenofovir disoproxil fumarate-induced proximal tubular toxicity and monitoring."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0871",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Histopathology of nephrocalcinosis in distal renal tubular acidosis",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 34-year-old man with recent symptom exacerbation undergoes pre-procedure optimization on the acute observation floor for urgent diagnostic clarification of renal tubular acidosis (types 1, 2, and 4). Bedside evaluation highlights normal anion gap metabolic acidosis (hyperchloremic), hypokalemia, inability to acidify urine below pH 5.5, and recurrent bilateral nephrocalcinosis. Vital parameters reflect blood pressure 114/65 mm Hg, heart rate 69/min, respiratory rate 19/min, and ambient oxygen saturation 95%. Which foundational clinical or pathological feature is most characteristic of this disorder?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Extensive basophilic calcium phosphate deposits within the tubular lumens, tubular epithelial basement membranes, and interstitial tissue of the renal medulla.",
+        "explanation": "Undergraduate pathology describes nephrocalcinosis: chronic alkaline intraluminal pH in the collecting ducts causes microscopic metastatic calcification and tubulointerstitial fibrosis.",
+        "correct": true
+      }
+    ],
+    "explanation": "Undergraduate pathology describes nephrocalcinosis: chronic alkaline intraluminal pH in the collecting ducts causes microscopic metastatic calcification and tubulointerstitial fibrosis. In the clinical evaluation of renal tubular acidosis (types 1, 2, and 4), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Histopathology of nephrocalcinosis in distal renal tubular acidosis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renal tubular acidosis (types 1, 2, and 4) concerning Histopathology of nephrocalcinosis in distal renal tubular acidosis."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0872",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Endocrine",
+    "topic": "V2 receptor activation, aquaporin-2 translocation, and volume regulation escape",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 76-year-old man with recent symptom exacerbation is urgently admitted to the high-dependency critical care unit for urgent diagnostic clarification of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus. Bedside evaluation highlights profound euvolemic hyponatremia (serum sodium 116 mEq/L), confusion, seizures, inappropriate urine concentration (urine osmolality 580 mOsm/kg), and urine sodium 64 mEq/L. Vital parameters reflect blood pressure 114/83 mm Hg, heart rate 104/min, respiratory rate 20/min, and ambient oxygen saturation 99%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Excessive arginine vasopressin (ADH) stimulating basolateral V2 receptors in collecting duct principal cells, increasing cAMP and inserting apical aquaporin-2 water channels.",
+        "explanation": "SIADH causes water retention and volume expansion; 'aldosterone escape' and increased ANP/BNP release promote natriuresis, restoring clinically euvolemic state with high urine sodium.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "SIADH causes water retention and volume expansion; 'aldosterone escape' and increased ANP/BNP release promote natriuresis, restoring clinically euvolemic state with high urine sodium. In the clinical evaluation of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning V2 receptor activation, aquaporin-2 translocation, and volume regulation escape.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning V2 receptor activation, aquaporin-2 translocation, and volume regulation escape."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0873",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Diagnostic criteria for SIADH and hypertonic 3% saline for acute severe symptoms",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Medical evaluation is commenced for a 23-year-old woman who presents to the regional secondary referral center with characteristic manifestations of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus. Physical examination reveals profound euvolemic hyponatremia (serum sodium 116 mEq/L), confusion, seizures, inappropriate urine concentration (urine osmolality 580 mOsm/kg), and urine sodium 64 mEq/L. Vital parameters reflect blood pressure 118/86 mm Hg, heart rate 109/min, respiratory rate 21/min, and ambient oxygen saturation 93%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Serum osmolality < 275 mOsm/kg, urine osmolality > 100 mOsm/kg, urine sodium > 40 mEq/L in clinically euvolemic patient; 3% hypertonic saline bolus (100 mL) for seizures or coma.",
+        "explanation": "Severe symptomatic hyponatremia (seizures, coma) requires immediate 3% hypertonic saline to raise serum sodium by 4-6 mEq/L within hours, preventing fatal cerebral tentorial herniation.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Severe symptomatic hyponatremia (seizures, coma) requires immediate 3% hypertonic saline to raise serum sodium by 4-6 mEq/L within hours, preventing fatal cerebral tentorial herniation. In the clinical evaluation of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Diagnostic criteria for SIADH and hypertonic 3% saline for acute severe symptoms.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Diagnostic criteria for SIADH and hypertonic 3% saline for acute severe symptoms."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0874",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Osmotic demyelination syndrome (central pontine myelinolysis) prevention guideli",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old man presenting with functional decline undergoes multidisciplinary assessment in the clinical assessment unit requiring evaluation for syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus. Clinical examination confirms profound euvolemic hyponatremia (serum sodium 116 mEq/L), confusion, seizures, inappropriate urine concentration (urine osmolality 580 mOsm/kg), and urine sodium 64 mEq/L. Vital parameters reflect blood pressure 122/89 mm Hg, heart rate 114/min, respiratory rate 22/min, and ambient oxygen saturation 94%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Limiting sodium correction rate to no more than 8 mEq/L in any 24-hour period (and < 6 mEq/L in high-risk malnourished or alcoholic patients) to avoid fatal pontine demyelination.",
+        "explanation": "Overly rapid correction of chronic hyponatremia causes rapid brain dehydration and osmotic demyelination syndrome, manifesting days later with spastic quadriparesis, dysarthria, and 'locked-in' syndrome.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "Overly rapid correction of chronic hyponatremia causes rapid brain dehydration and osmotic demyelination syndrome, manifesting days later with spastic quadriparesis, dysarthria, and 'locked-in' syndrome. In the clinical evaluation of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Osmotic demyelination syndrome (central pontine myelinolysis) prevention guideli.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Osmotic demyelination syndrome (central pontine myelinolysis) prevention guideli."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0875",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Investigation of Central versus Nephrogenic Diabetes Insipidus via water depriva",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old woman is transferred by emergency medical service to the resuscitation bay with progressive clinical features suspicious for syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus. On clinical examination, findings show profound euvolemic hyponatremia (serum sodium 116 mEq/L), confusion, seizures, inappropriate urine concentration (urine osmolality 580 mOsm/kg), and urine sodium 64 mEq/L. Vital parameters reflect blood pressure 126/66 mm Hg, heart rate 71/min, respiratory rate 23/min, and ambient oxygen saturation 95%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Water deprivation test: failure to concentrate urine followed by exogenous desmopressin (DDAVP); > 50% increase in urine osmolality confirms central DI; lack of response indicates nephrogenic DI.",
+        "explanation": "NICE and UK endocrine protocols test polyuria-polydipsia: urine osmolality < 300 mOsm/kg despite hypernatremia confirms diabetes insipidus, differentiated by response to subcutaneous desmopressin.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "NICE and UK endocrine protocols test polyuria-polydipsia: urine osmolality < 300 mOsm/kg despite hypernatremia confirms diabetes insipidus, differentiated by response to subcutaneous desmopressin. In the clinical evaluation of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Investigation of Central versus Nephrogenic Diabetes Insipidus via water depriva.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Investigation of Central versus Nephrogenic Diabetes Insipidus via water depriva."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0876",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Pharmacological management of Nephrogenic Diabetes Insipidus (lithium-induced)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Detailed clinical workup is initiated for a 44-year-old man who attends the scheduled outpatient subspecialty service due to suspected syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus. Bedside assessment demonstrates profound euvolemic hyponatremia (serum sodium 116 mEq/L), confusion, seizures, inappropriate urine concentration (urine osmolality 580 mOsm/kg), and urine sodium 64 mEq/L. Vital parameters reflect blood pressure 130/69 mm Hg, heart rate 76/min, respiratory rate 24/min, and ambient oxygen saturation 96%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Discontinuing lithium if feasible, initiating thiazide diuretics (hydrochlorothiazide) with amiloride to block lithium entry via collecting duct ENaC channels.",
+        "explanation": "Australian psychiatric and endocrine guidelines recommend amiloride for lithium-induced nephrogenic DI, which selectively blocks epithelial sodium channels to halt intracellular lithium uptake.",
+        "correct": true
+      }
+    ],
+    "explanation": "Australian psychiatric and endocrine guidelines recommend amiloride for lithium-induced nephrogenic DI, which selectively blocks epithelial sodium channels to halt intracellular lithium uptake. In the clinical evaluation of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Pharmacological management of Nephrogenic Diabetes Insipidus (lithium-induced).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Pharmacological management of Nephrogenic Diabetes Insipidus (lithium-induced)."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0877",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Small cell lung carcinoma presenting with ectopic ADH secretion",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old woman with recent symptom exacerbation is admitted following primary survey in the emergency service for urgent diagnostic clarification of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus. Bedside evaluation highlights profound euvolemic hyponatremia (serum sodium 116 mEq/L), confusion, seizures, inappropriate urine concentration (urine osmolality 580 mOsm/kg), and urine sodium 64 mEq/L. Vital parameters reflect blood pressure 134/72 mm Hg, heart rate 81/min, respiratory rate 25/min, and ambient oxygen saturation 97%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Persistent euvolemic hyponatremia in an elderly smoker, warranting contrast-enhanced chest CT to detect occult small cell neuroendocrine lung carcinoma.",
+        "explanation": "Canadian qualifying objectives emphasize that SIADH is frequently paraneoplastic; finding unexplained euvolemic hyponatremia mandates chest imaging to detect small cell lung cancer.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Canadian qualifying objectives emphasize that SIADH is frequently paraneoplastic; finding unexplained euvolemic hyponatremia mandates chest imaging to detect small cell lung cancer. In the clinical evaluation of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Small cell lung carcinoma presenting with ectopic ADH secretion.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Small cell lung carcinoma presenting with ectopic ADH secretion."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0878",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Post-hypophysectomy triphasic water balance response following pituitary surgery",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Medical evaluation is commenced for a 58-year-old man who undergoes pre-procedure optimization on the acute observation floor with characteristic manifestations of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus. Physical examination reveals profound euvolemic hyponatremia (serum sodium 116 mEq/L), confusion, seizures, inappropriate urine concentration (urine osmolality 580 mOsm/kg), and urine sodium 64 mEq/L. Vital parameters reflect blood pressure 138/75 mm Hg, heart rate 86/min, respiratory rate 14/min, and ambient oxygen saturation 98%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Triphasic response: initial transient central DI (axonal shock), followed by transient SIADH (uncontrolled release of stored ADH from degenerating posterior pituitary), ending in permanent DI.",
+        "explanation": "Neurosurgical post-pituitary operative management requires rigorous hourly fluid balance monitoring to navigate the predictable triphasic DI-SIADH-DI response and avoid severe sodium swings.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Neurosurgical post-pituitary operative management requires rigorous hourly fluid balance monitoring to navigate the predictable triphasic DI-SIADH-DI response and avoid severe sodium swings. In the clinical evaluation of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Post-hypophysectomy triphasic water balance response following pituitary surgery.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Post-hypophysectomy triphasic water balance response following pituitary surgery."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0879",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Clinical distinction between SIADH, Cerebral Salt Wasting, and Dehydration",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 65-year-old woman presenting with functional decline presents to the acute medical triage unit requiring evaluation for syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus. Clinical examination confirms profound euvolemic hyponatremia (serum sodium 116 mEq/L), confusion, seizures, inappropriate urine concentration (urine osmolality 580 mOsm/kg), and urine sodium 64 mEq/L. Vital parameters reflect blood pressure 142/78 mm Hg, heart rate 91/min, respiratory rate 15/min, and ambient oxygen saturation 99%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "SIADH: euvolemic, low serum uric acid and BUN; Cerebral Salt Wasting: hypovolemic with high urine sodium; Dehydration: hypovolemic with low urine sodium (< 20 mEq/L).",
+        "explanation": "National licensing curricula test hyponatremia volume status: clinical volume assessment is paramount; SIADH patients have no edema, normal skin turgor, and low BUN/uric acid.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "National licensing curricula test hyponatremia volume status: clinical volume assessment is paramount; SIADH patients have no edema, normal skin turgor, and low BUN/uric acid. In the clinical evaluation of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Clinical distinction between SIADH, Cerebral Salt Wasting, and Dehydration.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Clinical distinction between SIADH, Cerebral Salt Wasting, and Dehydration."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0880",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Endocrine",
+    "topic": "Vasopressin V2 receptor antagonists (Tolvaptan and Conivaptan) indications and s",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 72-year-old man is evaluated during specialist consultation rounds with progressive clinical features suspicious for syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus. On clinical examination, findings show profound euvolemic hyponatremia (serum sodium 116 mEq/L), confusion, seizures, inappropriate urine concentration (urine osmolality 580 mOsm/kg), and urine sodium 64 mEq/L. Vital parameters reflect blood pressure 146/81 mm Hg, heart rate 96/min, respiratory rate 16/min, and ambient oxygen saturation 93%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Tolvaptan (oral selective V2 antagonist) and conivaptan (IV dual V1a/V2 antagonist) promoting aquaresis in euvolemic hyponatremia, with black-box warning regarding liver injury.",
+        "explanation": "NEET PG pharmacology emphasizes vaptans: selective V2 receptor antagonists that block water reabsorption without affecting electrolytes, indicated for SIADH refractory to fluid restriction.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "NEET PG pharmacology emphasizes vaptans: selective V2 receptor antagonists that block water reabsorption without affecting electrolytes, indicated for SIADH refractory to fluid restriction. In the clinical evaluation of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Vasopressin V2 receptor antagonists (Tolvaptan and Conivaptan) indications and s.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Vasopressin V2 receptor antagonists (Tolvaptan and Conivaptan) indications and s."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0881",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Reset osmostat syndrome in chronic debilitating illnesses and pregnancy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Detailed clinical workup is initiated for a 19-year-old woman who attends the comprehensive outpatient ambulatory clinic due to suspected syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus. Bedside assessment demonstrates profound euvolemic hyponatremia (serum sodium 116 mEq/L), confusion, seizures, inappropriate urine concentration (urine osmolality 580 mOsm/kg), and urine sodium 64 mEq/L. Vital parameters reflect blood pressure 150/84 mm Hg, heart rate 101/min, respiratory rate 17/min, and ambient oxygen saturation 94%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Downward reset of the hypothalamic osmostat threshold where serum sodium is maintained stably low (125-130 mEq/L) while normal renal water excretion and dilution are preserved.",
+        "explanation": "MRCP clinical scenarios test reset osmostat: patients dilute urine normally in response to an oral water load despite baseline hyponatremia; treatment is directed at underlying illness, not water restriction.",
+        "correct": true
+      }
+    ],
+    "explanation": "MRCP clinical scenarios test reset osmostat: patients dilute urine normally in response to an oral water load despite baseline hyponatremia; treatment is directed at underlying illness, not water restriction. In the clinical evaluation of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Reset osmostat syndrome in chronic debilitating illnesses and pregnancy.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Reset osmostat syndrome in chronic debilitating illnesses and pregnancy."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0882",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Emergency re-lowering protocol for accidental overcorrection of hyponatremia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 26-year-old man with recent symptom exacerbation is urgently admitted to the high-dependency critical care unit for urgent diagnostic clarification of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus. Bedside evaluation highlights profound euvolemic hyponatremia (serum sodium 116 mEq/L), confusion, seizures, inappropriate urine concentration (urine osmolality 580 mOsm/kg), and urine sodium 64 mEq/L. Vital parameters reflect blood pressure 108/87 mm Hg, heart rate 106/min, respiratory rate 18/min, and ambient oxygen saturation 95%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Immediate administration of desmopressin (DDAVP 1-2 mcg IV) and infusion of 5% dextrose in water (D5W) to re-lower serum sodium when 24-hour correction exceeds 8-10 mEq/L.",
+        "explanation": "When spontaneous water diuresis causes sodium to rise too rapidly (> 8-10 mEq/L/24h), emergency protocols mandate re-lowering with D5W and DDAVP to abort impending osmotic demyelination.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "When spontaneous water diuresis causes sodium to rise too rapidly (> 8-10 mEq/L/24h), emergency protocols mandate re-lowering with D5W and DDAVP to abort impending osmotic demyelination. In the clinical evaluation of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Emergency re-lowering protocol for accidental overcorrection of hyponatremia.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Emergency re-lowering protocol for accidental overcorrection of hyponatremia."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0883",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Head trauma and subarachnoid hemorrhage-induced hyponatremia management",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Medical evaluation is commenced for a 33-year-old woman who presents to the regional secondary referral center with characteristic manifestations of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus. Physical examination reveals profound euvolemic hyponatremia (serum sodium 116 mEq/L), confusion, seizures, inappropriate urine concentration (urine osmolality 580 mOsm/kg), and urine sodium 64 mEq/L. Vital parameters reflect blood pressure 112/64 mm Hg, heart rate 111/min, respiratory rate 19/min, and ambient oxygen saturation 96%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Careful differentiation of SIADH from Cerebral Salt Wasting (CSW) in neurotrauma; CSW features true hypovolemia and requires volume restoration with isotonic or hypertonic saline.",
+        "explanation": "Saudi neuro-intensive care guidelines highlight that restricting fluids in a neurosurgical patient misdiagnosed with SIADH who actually has CSW precipitates cerebral vasospasm and infarction.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Saudi neuro-intensive care guidelines highlight that restricting fluids in a neurosurgical patient misdiagnosed with SIADH who actually has CSW precipitates cerebral vasospasm and infarction. In the clinical evaluation of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Head trauma and subarachnoid hemorrhage-induced hyponatremia management.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Head trauma and subarachnoid hemorrhage-induced hyponatremia management."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0884",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Fluid restriction protocols and pharmacological second-line options in chronic S",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 40-year-old man presenting with functional decline undergoes multidisciplinary assessment in the clinical assessment unit requiring evaluation for syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus. Clinical examination confirms profound euvolemic hyponatremia (serum sodium 116 mEq/L), confusion, seizures, inappropriate urine concentration (urine osmolality 580 mOsm/kg), and urine sodium 64 mEq/L. Vital parameters reflect blood pressure 116/67 mm Hg, heart rate 68/min, respiratory rate 20/min, and ambient oxygen saturation 97%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "First-line fluid restriction to 800-1,000 mL/24h; adding oral urea powder or sodium chloride tablets with low-dose loop diuretics for refractory outpatient management.",
+        "explanation": "UAE endocrine consensus supports oral urea as a safe, effective osmotic aquaretic for chronic SIADH, inducing solute diuresis without risk of hepatotoxicity.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "UAE endocrine consensus supports oral urea as a safe, effective osmotic aquaretic for chronic SIADH, inducing solute diuresis without risk of hepatotoxicity. In the clinical evaluation of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Fluid restriction protocols and pharmacological second-line options in chronic S.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Fluid restriction protocols and pharmacological second-line options in chronic S."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0885",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Endocrine",
+    "topic": "Neuropathology of Central Pontine Myelinolysis (Osmotic Demyelination)",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 47-year-old woman is transferred by emergency medical service to the resuscitation bay with progressive clinical features suspicious for syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus. On clinical examination, findings show profound euvolemic hyponatremia (serum sodium 116 mEq/L), confusion, seizures, inappropriate urine concentration (urine osmolality 580 mOsm/kg), and urine sodium 64 mEq/L. Vital parameters reflect blood pressure 120/70 mm Hg, heart rate 73/min, respiratory rate 21/min, and ambient oxygen saturation 98%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Symmetrical loss of myelin in the central basis pontis with preservation of neuronal cell bodies and axons, accompanied by macrophage infiltration and absence of prominent inflammation.",
+        "explanation": "Undergraduate pathology describes CPM: rapid hypertonic stress causes shrinkage of oligodendrocytes in the compact transverse pontine fibers, causing irreversible myelin sheath breakdown.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Undergraduate pathology describes CPM: rapid hypertonic stress causes shrinkage of oligodendrocytes in the compact transverse pontine fibers, causing irreversible myelin sheath breakdown. In the clinical evaluation of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Neuropathology of Central Pontine Myelinolysis (Osmotic Demyelination).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of syndrome of inappropriate antidiuretic hormone secretion and diabetes insipidus concerning Neuropathology of Central Pontine Myelinolysis (Osmotic Demyelination)."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0886",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Renal",
+    "topic": "Physicochemical mechanisms of crystal supersaturation and urinary inhibitors",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old woman presents to the acute medical triage unit with progressive clinical features suspicious for nephrolithiasis and obstructive urolithiasis. On clinical examination, findings show sudden-onset excruciating colicky unilateral flank pain radiating to the ipsilateral groin and labium/testis, gross hematuria, and non-contrast CT showing a 7 mm stone at the ureterovesical junction. Vital parameters reflect blood pressure 120/88 mm Hg, heart rate 108/min, respiratory rate 22/min, and ambient oxygen saturation 95%. Which physiological alteration or pharmacological mechanism of action directly accounts for this condition?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Calcium oxalate crystal nucleation driven by urinary supersaturation, hypercalciuria, hyperoxaluria, and deficiency of endogenous crystallization inhibitors like urinary citrate.",
+        "explanation": "Urinary citrate forms soluble complexes with calcium, inhibiting calcium oxalate crystallization; systemic acidosis stimulates proximal tubular citrate reabsorption, causing hypocitraturia and stones.",
+        "correct": true
+      }
+    ],
+    "explanation": "Urinary citrate forms soluble complexes with calcium, inhibiting calcium oxalate crystallization; systemic acidosis stimulates proximal tubular citrate reabsorption, causing hypocitraturia and stones. In the clinical evaluation of nephrolithiasis and obstructive urolithiasis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Physicochemical mechanisms of crystal supersaturation and urinary inhibitors.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Physicochemical mechanisms of crystal supersaturation and urinary inhibitors."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0887",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Non-contrast helical computed tomography and indications for emergency decompres",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Detailed clinical workup is initiated for a 36-year-old man who is evaluated during specialist consultation rounds due to suspected nephrolithiasis and obstructive urolithiasis. Bedside assessment demonstrates sudden-onset excruciating colicky unilateral flank pain radiating to the ipsilateral groin and labium/testis, gross hematuria, and non-contrast CT showing a 7 mm stone at the ureterovesical junction. Vital parameters reflect blood pressure 124/65 mm Hg, heart rate 113/min, respiratory rate 23/min, and ambient oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management or diagnostic confirmation?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Low-dose non-contrast CT of the abdomen and pelvis as the diagnostic imaging modality of choice; emergency ureteral stenting or percutaneous nephrostomy for stone with fever and obstruction.",
+        "explanation": "An obstructed infected kidney (urolithiasis with fever, pyuria, and hydronephrosis) is a surgical emergency requiring immediate decompression via retrograde ureteral stent or percutaneous nephrostomy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "An obstructed infected kidney (urolithiasis with fever, pyuria, and hydronephrosis) is a surgical emergency requiring immediate decompression via retrograde ureteral stent or percutaneous nephrostomy. In the clinical evaluation of nephrolithiasis and obstructive urolithiasis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Non-contrast helical computed tomography and indications for emergency decompres.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Non-contrast helical computed tomography and indications for emergency decompres."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0888",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Medical expulsive therapy and 24-hour urine metabolic evaluation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 43-year-old woman with recent symptom exacerbation attends the comprehensive outpatient ambulatory clinic for urgent diagnostic clarification of nephrolithiasis and obstructive urolithiasis. Bedside evaluation highlights sudden-onset excruciating colicky unilateral flank pain radiating to the ipsilateral groin and labium/testis, gross hematuria, and non-contrast CT showing a 7 mm stone at the ureterovesical junction. Vital parameters reflect blood pressure 128/68 mm Hg, heart rate 70/min, respiratory rate 24/min, and ambient oxygen saturation 97%. What is the optimal long-term maintenance therapy or surveillance interval for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Alpha-1 receptor antagonists (tamsulosin 0.4 mg daily) to facilitate distal ureteral stone passage (< 10 mm); comprehensive 24-hour urine metabolic profile after stone resolution.",
+        "explanation": "Tamsulosin relaxes distal ureteral smooth muscle, increasing spontaneous expulsion rates for stones 5-10 mm; 24-hour urine collection identifies treatable metabolic abnormalities.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Tamsulosin relaxes distal ureteral smooth muscle, increasing spontaneous expulsion rates for stones 5-10 mm; 24-hour urine collection identifies treatable metabolic abnormalities. In the clinical evaluation of nephrolithiasis and obstructive urolithiasis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Medical expulsive therapy and 24-hour urine metabolic evaluation.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Medical expulsive therapy and 24-hour urine metabolic evaluation."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0889",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "NICE guidelines on renal colic analgesia and shockwave lithotripsy (ESWL)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Medical evaluation is commenced for a 50-year-old man who is urgently admitted to the high-dependency critical care unit with characteristic manifestations of nephrolithiasis and obstructive urolithiasis. Physical examination reveals sudden-onset excruciating colicky unilateral flank pain radiating to the ipsilateral groin and labium/testis, gross hematuria, and non-contrast CT showing a 7 mm stone at the ureterovesical junction. Vital parameters reflect blood pressure 132/71 mm Hg, heart rate 75/min, respiratory rate 25/min, and ambient oxygen saturation 98%. What is the guideline-directed management recommendation for this NHS acute presentation?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "First-line analgesia with intravenous or rectal NSAIDs (diclofenac or ketorolac); offering shockwave lithotripsy (ESWL) or ureteroscopy for non-passing stones < 10 mm.",
+        "explanation": "NICE guideline NG118 mandates NSAIDs as the first-line analgesic of choice over opioids for acute renal colic, demonstrating superior pain reduction and fewer adverse effects.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "NICE guideline NG118 mandates NSAIDs as the first-line analgesic of choice over opioids for acute renal colic, demonstrating superior pain reduction and fewer adverse effects. In the clinical evaluation of nephrolithiasis and obstructive urolithiasis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning NICE guidelines on renal colic analgesia and shockwave lithotripsy (ESWL).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning NICE guidelines on renal colic analgesia and shockwave lithotripsy (ESWL)."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0890",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Uric acid stones: Radiolucency on plain radiography and urinary alkalinization",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old woman presenting with functional decline presents to the regional secondary referral center requiring evaluation for nephrolithiasis and obstructive urolithiasis. Clinical examination confirms sudden-onset excruciating colicky unilateral flank pain radiating to the ipsilateral groin and labium/testis, gross hematuria, and non-contrast CT showing a 7 mm stone at the ureterovesical junction. Vital parameters reflect blood pressure 136/74 mm Hg, heart rate 80/min, respiratory rate 14/min, and ambient oxygen saturation 99%. According to Australian therapeutic guidelines and AMC clinical standards, what is the most appropriate initial action?",
+    "options": [
+      {
+        "text": "Radiolucent stones on plain abdominal X-ray (visible on non-contrast CT) formed in persistently acidic urine (pH < 5.5), successfully dissolved with oral potassium citrate.",
+        "explanation": "Australian guidelines emphasize that pure uric acid calculi are radiolucent on KUB radiographs and can be completely chemolysed non-operatively by alkalinizing urine to pH 6.5-7.0.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Australian guidelines emphasize that pure uric acid calculi are radiolucent on KUB radiographs and can be completely chemolysed non-operatively by alkalinizing urine to pH 6.5-7.0. In the clinical evaluation of nephrolithiasis and obstructive urolithiasis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Uric acid stones: Radiolucency on plain radiography and urinary alkalinization.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Uric acid stones: Radiolucency on plain radiography and urinary alkalinization."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0891",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Renal ultrasound in pregnancy for suspected acute nephrolithiasis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man undergoes multidisciplinary assessment in the clinical assessment unit with progressive clinical features suspicious for nephrolithiasis and obstructive urolithiasis. On clinical examination, findings show sudden-onset excruciating colicky unilateral flank pain radiating to the ipsilateral groin and labium/testis, gross hematuria, and non-contrast CT showing a 7 mm stone at the ureterovesical junction. Vital parameters reflect blood pressure 140/77 mm Hg, heart rate 85/min, respiratory rate 15/min, and ambient oxygen saturation 93%. What is the key diagnostic investigation or management priority according to Canadian qualifying standards?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Renal ultrasonography as first-line imaging in pregnant women, evaluating for stone visualization, unilateral hydronephrosis, and absence of ureteral jet on color Doppler.",
+        "explanation": "Canadian medical objectives focus on minimizing fetal radiation: ultrasound is the initial modality; transvaginal ultrasound or MRI without gadolinium is considered if diagnosis is uncertain.",
+        "correct": true
+      }
+    ],
+    "explanation": "Canadian medical objectives focus on minimizing fetal radiation: ultrasound is the initial modality; transvaginal ultrasound or MRI without gadolinium is considered if diagnosis is uncertain. In the clinical evaluation of nephrolithiasis and obstructive urolithiasis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Renal ultrasound in pregnancy for suspected acute nephrolithiasis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Renal ultrasound in pregnancy for suspected acute nephrolithiasis."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0892",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Surgical modalities: Extracorporeal Shock Wave Lithotripsy (ESWL) versus PCNL ve",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Detailed clinical workup is initiated for a 71-year-old woman who is transferred by emergency medical service to the resuscitation bay due to suspected nephrolithiasis and obstructive urolithiasis. Bedside assessment demonstrates sudden-onset excruciating colicky unilateral flank pain radiating to the ipsilateral groin and labium/testis, gross hematuria, and non-contrast CT showing a 7 mm stone at the ureterovesical junction. Vital parameters reflect blood pressure 144/80 mm Hg, heart rate 90/min, respiratory rate 16/min, and ambient oxygen saturation 94%. Which clinical strategy is prioritized in this post-graduate fellowship examination scenario?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Percutaneous nephrolithotomy (PCNL) for renal calculi > 20 mm or staghorn calculi; retrograde intrarenal surgery (RIRS) / ureteroscopy for lower pole stones 10-20 mm.",
+        "explanation": "In urological surgical training, PCNL is the gold standard for large complex stones (> 2 cm); shockwave lithotripsy is contraindicated in pregnancy, bleeding diatheses, and distal obstruction.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "In urological surgical training, PCNL is the gold standard for large complex stones (> 2 cm); shockwave lithotripsy is contraindicated in pregnancy, bleeding diatheses, and distal obstruction. In the clinical evaluation of nephrolithiasis and obstructive urolithiasis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Surgical modalities: Extracorporeal Shock Wave Lithotripsy (ESWL) versus PCNL ve.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Surgical modalities: Extracorporeal Shock Wave Lithotripsy (ESWL) versus PCNL ve."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0893",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Three anatomical sites of natural ureteral constriction",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 78-year-old man with recent symptom exacerbation attends the scheduled outpatient subspecialty service for urgent diagnostic clarification of nephrolithiasis and obstructive urolithiasis. Bedside evaluation highlights sudden-onset excruciating colicky unilateral flank pain radiating to the ipsilateral groin and labium/testis, gross hematuria, and non-contrast CT showing a 7 mm stone at the ureterovesical junction. Vital parameters reflect blood pressure 148/83 mm Hg, heart rate 95/min, respiratory rate 17/min, and ambient oxygen saturation 95%. Which of the following is the most appropriate initial medical therapy or core clinical recommendation according to national licensing standards?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Three physiological narrowing sites where calculi most frequently impinge: Ureteropelvic junction (UPJ), crossing of the iliac vessels at the pelvic brim, and Ureterovesical junction (UVJ).",
+        "explanation": "National licensing curricula test ureteral anatomy: the ureterovesical junction (UVJ) is the narrowest point of the entire ureter, representing the most common site of stone impaction.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "National licensing curricula test ureteral anatomy: the ureterovesical junction (UVJ) is the narrowest point of the entire ureter, representing the most common site of stone impaction. In the clinical evaluation of nephrolithiasis and obstructive urolithiasis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Three anatomical sites of natural ureteral constriction.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Three anatomical sites of natural ureteral constriction."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0894",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Cystine stones: Genetic defect in dibasic amino acid transporter and hexagonal c",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Medical evaluation is commenced for a 25-year-old woman who is admitted following primary survey in the emergency service with characteristic manifestations of nephrolithiasis and obstructive urolithiasis. Physical examination reveals sudden-onset excruciating colicky unilateral flank pain radiating to the ipsilateral groin and labium/testis, gross hematuria, and non-contrast CT showing a 7 mm stone at the ureterovesical junction. Vital parameters reflect blood pressure 106/86 mm Hg, heart rate 100/min, respiratory rate 18/min, and ambient oxygen saturation 96%. What is the pathognomonic diagnostic sign, drug of choice, or histological feature of this condition?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Mutations in SLC3A1 or SLC7A9 disrupting the proximal tubular COLA transporter (Cystine, Ornithine, Lysine, Arginine), producing pathognomonic hexagonal crystals on urinalysis.",
+        "explanation": "NEET PG questions focus on cystinuria: autosomal recessive defect leading to recurrent childhood staghorn stones, positive sodium cyanide-nitroprusside test, and hexagonal crystals.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "NEET PG questions focus on cystinuria: autosomal recessive defect leading to recurrent childhood staghorn stones, positive sodium cyanide-nitroprusside test, and hexagonal crystals. In the clinical evaluation of nephrolithiasis and obstructive urolithiasis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Cystine stones: Genetic defect in dibasic amino acid transporter and hexagonal c.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Cystine stones: Genetic defect in dibasic amino acid transporter and hexagonal c."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0895",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Enteric hyperoxaluria following Roux-en-Y gastric bypass or Crohn disease",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 32-year-old man presenting with functional decline undergoes pre-procedure optimization on the acute observation floor requiring evaluation for nephrolithiasis and obstructive urolithiasis. Clinical examination confirms sudden-onset excruciating colicky unilateral flank pain radiating to the ipsilateral groin and labium/testis, gross hematuria, and non-contrast CT showing a 7 mm stone at the ureterovesical junction. Vital parameters reflect blood pressure 110/89 mm Hg, heart rate 105/min, respiratory rate 19/min, and ambient oxygen saturation 97%. Which evidence-based clinical intervention is supported by landmark clinical trial evidence?",
+    "options": [
+      {
+        "text": "Malabsorption of fatty acids binding intraluminal calcium (saponification), leaving free unbound oxalate to be hyper-absorbed in the colon, producing severe calcium oxalate stones.",
+        "explanation": "MRCP clinical scenarios test enteric hyperoxaluria: fat malabsorption in ileal resection or bariatric surgery leaves dietary oxalate unbound to calcium, leading to massive renal oxalate stone burdens.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "MRCP clinical scenarios test enteric hyperoxaluria: fat malabsorption in ileal resection or bariatric surgery leaves dietary oxalate unbound to calcium, leading to massive renal oxalate stone burdens. In the clinical evaluation of nephrolithiasis and obstructive urolithiasis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Enteric hyperoxaluria following Roux-en-Y gastric bypass or Crohn disease.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Enteric hyperoxaluria following Roux-en-Y gastric bypass or Crohn disease."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0896",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Emergency point-of-care ultrasound (POCUS) and exclusion of ruptured AAA",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old woman presents to the acute medical triage unit with progressive clinical features suspicious for nephrolithiasis and obstructive urolithiasis. On clinical examination, findings show sudden-onset excruciating colicky unilateral flank pain radiating to the ipsilateral groin and labium/testis, gross hematuria, and non-contrast CT showing a 7 mm stone at the ureterovesical junction. Vital parameters reflect blood pressure 114/66 mm Hg, heart rate 110/min, respiratory rate 20/min, and ambient oxygen saturation 98%. Triage evaluation reveals acute physiological compromise. What is the most immediate emergency resuscitation intervention?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "POCUS demonstrating unilateral hydronephrosis in renal colic, while simultaneously visualizing the infrarenal abdominal aorta to exclude an expanding or leaking aneurysm in older patients.",
+        "explanation": "In emergency patients over 50 presenting with acute flank pain and hematuria, bedside ultrasound must visualize the abdominal aorta to avoid mistaking a catastrophic ruptured AAA for renal colic.",
+        "correct": true
+      }
+    ],
+    "explanation": "In emergency patients over 50 presenting with acute flank pain and hematuria, bedside ultrasound must visualize the abdominal aorta to avoid mistaking a catastrophic ruptured AAA for renal colic. In the clinical evaluation of nephrolithiasis and obstructive urolithiasis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Emergency point-of-care ultrasound (POCUS) and exclusion of ruptured AAA.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Emergency point-of-care ultrasound (POCUS) and exclusion of ruptured AAA."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0897",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Hot climate, dehydration, and lifestyle risk factors for recurrent urolithiasis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Detailed clinical workup is initiated for a 46-year-old man who is evaluated during specialist consultation rounds due to suspected nephrolithiasis and obstructive urolithiasis. Bedside assessment demonstrates sudden-onset excruciating colicky unilateral flank pain radiating to the ipsilateral groin and labium/testis, gross hematuria, and non-contrast CT showing a 7 mm stone at the ureterovesical junction. Vital parameters reflect blood pressure 118/69 mm Hg, heart rate 115/min, respiratory rate 21/min, and ambient oxygen saturation 99%. What is the standard clinical protocol recommended for this presentation under Saudi licensing examination guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "High ambient temperatures causing chronic concentrated urine and low volume, managed with aggressive fluid intake targeting at least 2.5 to 3 liters of urine output daily.",
+        "explanation": "Saudi clinical guidelines emphasize dietary modification: maintaining high fluid intake, normal dietary calcium (not low calcium), restricted animal protein, and low dietary sodium.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Saudi clinical guidelines emphasize dietary modification: maintaining high fluid intake, normal dietary calcium (not low calcium), restricted animal protein, and low dietary sodium. In the clinical evaluation of nephrolithiasis and obstructive urolithiasis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Hot climate, dehydration, and lifestyle risk factors for recurrent urolithiasis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Hot climate, dehydration, and lifestyle risk factors for recurrent urolithiasis."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0898",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Dietary calcium restriction myth and paradoxical stone risk increase",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old woman with recent symptom exacerbation attends the comprehensive outpatient ambulatory clinic for urgent diagnostic clarification of nephrolithiasis and obstructive urolithiasis. Bedside evaluation highlights sudden-onset excruciating colicky unilateral flank pain radiating to the ipsilateral groin and labium/testis, gross hematuria, and non-contrast CT showing a 7 mm stone at the ureterovesical junction. Vital parameters reflect blood pressure 122/72 mm Hg, heart rate 72/min, respiratory rate 22/min, and ambient oxygen saturation 93%. What is the recommended guideline-directed protocol for this patient in the UAE health system?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Counseling patients that restricting dietary calcium actually increases calcium oxalate stone formation by freeing dietary oxalate for hyper-absorption in the bowel.",
+        "explanation": "UAE health authority guidelines emphasize that maintaining normal dietary calcium intake (1,000-1,200 mg/day) binds oxalate in the intestinal lumen, safely reducing urinary oxalate excretion.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "UAE health authority guidelines emphasize that maintaining normal dietary calcium intake (1,000-1,200 mg/day) binds oxalate in the intestinal lumen, safely reducing urinary oxalate excretion. In the clinical evaluation of nephrolithiasis and obstructive urolithiasis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Dietary calcium restriction myth and paradoxical stone risk increase.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Dietary calcium restriction myth and paradoxical stone risk increase."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0899",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Microscopic morphology and chemical classification of urinary calculi",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Medical evaluation is commenced for a 60-year-old man who is urgently admitted to the high-dependency critical care unit with characteristic manifestations of nephrolithiasis and obstructive urolithiasis. Physical examination reveals sudden-onset excruciating colicky unilateral flank pain radiating to the ipsilateral groin and labium/testis, gross hematuria, and non-contrast CT showing a 7 mm stone at the ureterovesical junction. Vital parameters reflect blood pressure 126/75 mm Hg, heart rate 77/min, respiratory rate 23/min, and ambient oxygen saturation 94%. Bedside clinical examination reveals classical findings. What is the most important clinical sign, pathological finding, or investigation to establish the diagnosis?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Calcium oxalate monohydrate (dumbbell-shaped) versus dihydrate (envelope-shaped), magnesium ammonium phosphate struvite (coffin-lid crystals), and uric acid (pleomorphic rhomboids).",
+        "explanation": "Undergraduate pathology details crystal morphology: envelope-shaped calcium oxalate dihydrate crystals and coffin-lid struvite crystals formed by urease-producing Proteus infections.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Undergraduate pathology details crystal morphology: envelope-shaped calcium oxalate dihydrate crystals and coffin-lid struvite crystals formed by urease-producing Proteus infections. In the clinical evaluation of nephrolithiasis and obstructive urolithiasis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Microscopic morphology and chemical classification of urinary calculi.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of nephrolithiasis and obstructive urolithiasis concerning Microscopic morphology and chemical classification of urinary calculi."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Acid-Base Disorders",
+        "url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0900",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Goldblatt kidney model, renin-angiotensin-aldosterone axis, and efferent arterio",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Medical evaluation is commenced for a 42-year-old man who attends the scheduled outpatient subspecialty service with characteristic manifestations of renovascular hypertension and renal artery stenosis. Physical examination reveals refractory hypertension requiring four antihypertensive medications, continuous epigastric/flank systolic-diastolic bruit, and acute increase in serum creatinine > 35% after starting lisinopril. Vital parameters reflect blood pressure 126/67 mm Hg, heart rate 112/min, respiratory rate 24/min, and ambient oxygen saturation 98%. What is the underlying biochemical pathway, genetic defect, or cellular alteration responsible for these observed clinical findings?",
+    "options": [
+      {
+        "text": "Unilateral renal hypoperfusion stimulating juxtaglomerular apparatus renin release; angiotensin II preferentially constricts efferent arterioles to preserve glomerular filtration rate (GFR).",
+        "explanation": "In bilateral renal artery stenosis (or stenosis in a solitary kidney), GFR is critically dependent on angiotensin II-mediated efferent arteriolar vasoconstriction; ACE inhibitors precipitate acute renal failure.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "In bilateral renal artery stenosis (or stenosis in a solitary kidney), GFR is critically dependent on angiotensin II-mediated efferent arteriolar vasoconstriction; ACE inhibitors precipitate acute renal failure. In the clinical evaluation of renovascular hypertension and renal artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Goldblatt kidney model, renin-angiotensin-aldosterone axis, and efferent arterio.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Goldblatt kidney model, renin-angiotensin-aldosterone axis, and efferent arterio."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0901",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Fibromuscular dysplasia versus atherosclerotic renal artery stenosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old woman presenting with functional decline is admitted following primary survey in the emergency service requiring evaluation for renovascular hypertension and renal artery stenosis. Clinical examination confirms refractory hypertension requiring four antihypertensive medications, continuous epigastric/flank systolic-diastolic bruit, and acute increase in serum creatinine > 35% after starting lisinopril. Vital parameters reflect blood pressure 130/70 mm Hg, heart rate 69/min, respiratory rate 25/min, and ambient oxygen saturation 99%. Which of the following represents the immediate next step in patient evaluation?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Atherosclerotic disease affecting proximal ostial artery in older smokers; Fibromuscular dysplasia (FMD) affecting medial layers in young women ('string of beads' on angiography).",
+        "explanation": "Renovascular hypertension accounts for secondary hypertension: FMD typically presents in women under 35 with carotid/renal bruits, successfully cured with percutaneous balloon angioplasty without stenting.",
+        "correct": true
+      }
+    ],
+    "explanation": "Renovascular hypertension accounts for secondary hypertension: FMD typically presents in women under 35 with carotid/renal bruits, successfully cured with percutaneous balloon angioplasty without stenting. In the clinical evaluation of renovascular hypertension and renal artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Fibromuscular dysplasia versus atherosclerotic renal artery stenosis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Fibromuscular dysplasia versus atherosclerotic renal artery stenosis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0902",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Medical therapy versus renal artery revascularization (ASTRAL and CORAL trial ev",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 56-year-old man undergoes pre-procedure optimization on the acute observation floor with progressive clinical features suspicious for renovascular hypertension and renal artery stenosis. On clinical examination, findings show refractory hypertension requiring four antihypertensive medications, continuous epigastric/flank systolic-diastolic bruit, and acute increase in serum creatinine > 35% after starting lisinopril. Vital parameters reflect blood pressure 134/73 mm Hg, heart rate 74/min, respiratory rate 14/min, and ambient oxygen saturation 93%. Which of the following represents the most appropriate long-term ambulatory management or secondary prevention strategy?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Maximizing medical therapy with statins, antiplatelet agents, and careful blood pressure control as first-line strategy for atherosclerotic renal artery stenosis over routine stenting.",
+        "explanation": "Landmark clinical trials (CORAL, ASTRAL) demonstrated that routine renal artery stenting does not confer clinical benefit over optimal medical therapy in stable atherosclerotic renovascular disease.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "Landmark clinical trials (CORAL, ASTRAL) demonstrated that routine renal artery stenting does not confer clinical benefit over optimal medical therapy in stable atherosclerotic renovascular disease. In the clinical evaluation of renovascular hypertension and renal artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Medical therapy versus renal artery revascularization (ASTRAL and CORAL trial ev.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Medical therapy versus renal artery revascularization (ASTRAL and CORAL trial ev."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0903",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "NICE guidelines on secondary hypertension screening and diagnostic Doppler ultra",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Detailed clinical workup is initiated for a 63-year-old woman who presents to the acute medical triage unit due to suspected renovascular hypertension and renal artery stenosis. Bedside assessment demonstrates refractory hypertension requiring four antihypertensive medications, continuous epigastric/flank systolic-diastolic bruit, and acute increase in serum creatinine > 35% after starting lisinopril. Vital parameters reflect blood pressure 138/76 mm Hg, heart rate 79/min, respiratory rate 15/min, and ambient oxygen saturation 94%. According to UK national clinical standards, which intervention should be initiated promptly?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Screening with renal duplex ultrasound or CT/MR angiography in patients with resistant hypertension, flash pulmonary edema, or worsening renal function on ACE inhibitors.",
+        "explanation": "NICE guideline NG136 recommends investigating secondary hypertension in patients under 40 or those with resistant hypertension (uncontrolled on 3 optimal antihypertensive classes).",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "NICE guideline NG136 recommends investigating secondary hypertension in patients under 40 or those with resistant hypertension (uncontrolled on 3 optimal antihypertensive classes). In the clinical evaluation of renovascular hypertension and renal artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning NICE guidelines on secondary hypertension screening and diagnostic Doppler ultra.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning NICE guidelines on secondary hypertension screening and diagnostic Doppler ultra."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0904",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Flash pulmonary edema (Pickering syndrome) in bilateral renal artery stenosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 70-year-old man with recent symptom exacerbation is evaluated during specialist consultation rounds for urgent diagnostic clarification of renovascular hypertension and renal artery stenosis. Bedside evaluation highlights refractory hypertension requiring four antihypertensive medications, continuous epigastric/flank systolic-diastolic bruit, and acute increase in serum creatinine > 35% after starting lisinopril. Vital parameters reflect blood pressure 142/79 mm Hg, heart rate 84/min, respiratory rate 16/min, and ambient oxygen saturation 95%. Which diagnostic or therapeutic action is prioritized under Australian clinical guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Recurrent sudden-onset acute pulmonary edema in a hypertensive patient with preserved left ventricular ejection fraction, representing a primary indication for renal revascularization.",
+        "explanation": "Australian cardiology consensus identifies flash pulmonary edema (Pickering syndrome) in bilateral RAS as a definitive indication for urgent catheter-based renal revascularization.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Australian cardiology consensus identifies flash pulmonary edema (Pickering syndrome) in bilateral RAS as a definitive indication for urgent catheter-based renal revascularization. In the clinical evaluation of renovascular hypertension and renal artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Flash pulmonary edema (Pickering syndrome) in bilateral renal artery stenosis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Flash pulmonary edema (Pickering syndrome) in bilateral renal artery stenosis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0905",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Acute renal failure following ACE inhibitor or ARB initiation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Medical evaluation is commenced for a 77-year-old woman who attends the comprehensive outpatient ambulatory clinic with characteristic manifestations of renovascular hypertension and renal artery stenosis. Physical examination reveals refractory hypertension requiring four antihypertensive medications, continuous epigastric/flank systolic-diastolic bruit, and acute increase in serum creatinine > 35% after starting lisinopril. Vital parameters reflect blood pressure 146/82 mm Hg, heart rate 89/min, respiratory rate 17/min, and ambient oxygen saturation 96%. In accordance with Medical Council of Canada clinical objectives, which of the following is the most appropriate initial step?",
+    "options": [
+      {
+        "text": "Routine measurement of serum creatinine and potassium 1 to 2 weeks after starting ACE inhibitors; a rise in creatinine > 30-35% raises high clinical suspicion for bilateral RAS.",
+        "explanation": "Canadian medical objectives emphasize that an abrupt decline in GFR after starting an ACE inhibitor or ARB is a classic clinical clue unmasking underlying bilateral renal artery stenosis.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Canadian medical objectives emphasize that an abrupt decline in GFR after starting an ACE inhibitor or ARB is a classic clinical clue unmasking underlying bilateral renal artery stenosis. In the clinical evaluation of renovascular hypertension and renal artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Acute renal failure following ACE inhibitor or ARB initiation.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Acute renal failure following ACE inhibitor or ARB initiation."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0906",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Endovascular stenting versus balloon angioplasty operative techniques",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man presenting with functional decline is urgently admitted to the high-dependency critical care unit requiring evaluation for renovascular hypertension and renal artery stenosis. Clinical examination confirms refractory hypertension requiring four antihypertensive medications, continuous epigastric/flank systolic-diastolic bruit, and acute increase in serum creatinine > 35% after starting lisinopril. Vital parameters reflect blood pressure 150/85 mm Hg, heart rate 94/min, respiratory rate 18/min, and ambient oxygen saturation 97%. What is the most appropriate advanced diagnostic workup or surgical intervention in this tertiary referral patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Percutaneous transluminal balloon angioplasty without stent placement for fibromuscular dysplasia; balloon-expandable metallic stenting for atherosclerotic ostial lesions.",
+        "explanation": "In interventional radiology and vascular surgery, FMD responds exceptionally well to simple balloon dilation (curing hypertension in > 80%), while atherosclerotic ostial lesions require stents.",
+        "correct": true
+      }
+    ],
+    "explanation": "In interventional radiology and vascular surgery, FMD responds exceptionally well to simple balloon dilation (curing hypertension in > 80%), while atherosclerotic ostial lesions require stents. In the clinical evaluation of renovascular hypertension and renal artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Endovascular stenting versus balloon angioplasty operative techniques.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Endovascular stenting versus balloon angioplasty operative techniques."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0907",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Clinical physical examination findings in secondary renovascular hypertension",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 31-year-old woman presents to the regional secondary referral center with progressive clinical features suspicious for renovascular hypertension and renal artery stenosis. On clinical examination, findings show refractory hypertension requiring four antihypertensive medications, continuous epigastric/flank systolic-diastolic bruit, and acute increase in serum creatinine > 35% after starting lisinopril. Vital parameters reflect blood pressure 108/88 mm Hg, heart rate 99/min, respiratory rate 19/min, and ambient oxygen saturation 98%. Which fundamental clinical intervention is prioritized for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "A continuous systolic-diastolic abdominal or epigastric vascular bruit with a high-pitched diastolic component radiating into the flanks.",
+        "explanation": "National licensing curricula test physical signs of secondary hypertension: an abdominal systolic-diastolic bruit has high specificity for hemodynamically significant renal artery stenosis.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "National licensing curricula test physical signs of secondary hypertension: an abdominal systolic-diastolic bruit has high specificity for hemodynamically significant renal artery stenosis. In the clinical evaluation of renovascular hypertension and renal artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Clinical physical examination findings in secondary renovascular hypertension.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Clinical physical examination findings in secondary renovascular hypertension."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0908",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Pathology of Fibromuscular Dysplasia: Medial fibroplasia versus intimal/perimedi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Detailed clinical workup is initiated for a 38-year-old man who undergoes multidisciplinary assessment in the clinical assessment unit due to suspected renovascular hypertension and renal artery stenosis. Bedside assessment demonstrates refractory hypertension requiring four antihypertensive medications, continuous epigastric/flank systolic-diastolic bruit, and acute increase in serum creatinine > 35% after starting lisinopril. Vital parameters reflect blood pressure 112/65 mm Hg, heart rate 104/min, respiratory rate 20/min, and ambient oxygen saturation 99%. Which of the following represents the most characteristic clinical discriminator, drug of choice, or pathological hallmark?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Medial fibroplasia accounting for 85% of cases, featuring alternating areas of thinned media and fibromuscular ridges containing excessive collagen, creating the 'string of beads' appearance.",
+        "explanation": "NEET PG pathology tests FMD: medial fibroplasia is the most common subtype, characterized by aneurysmal dilation alternating with stenosis, affecting renal, carotid, and vertebral arteries.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "NEET PG pathology tests FMD: medial fibroplasia is the most common subtype, characterized by aneurysmal dilation alternating with stenosis, affecting renal, carotid, and vertebral arteries. In the clinical evaluation of renovascular hypertension and renal artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Pathology of Fibromuscular Dysplasia: Medial fibroplasia versus intimal/perimedi.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Pathology of Fibromuscular Dysplasia: Medial fibroplasia versus intimal/perimedi."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0909",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Renal vein renin ratio (RVRR) sampling and diagnostic significance",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old woman with recent symptom exacerbation is transferred by emergency medical service to the resuscitation bay for urgent diagnostic clarification of renovascular hypertension and renal artery stenosis. Bedside evaluation highlights refractory hypertension requiring four antihypertensive medications, continuous epigastric/flank systolic-diastolic bruit, and acute increase in serum creatinine > 35% after starting lisinopril. Vital parameters reflect blood pressure 116/68 mm Hg, heart rate 109/min, respiratory rate 21/min, and ambient oxygen saturation 93%. What is the optimal specialized investigation or second-line disease-modifying therapy for this patient?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Selective catheterization of both renal veins to measure renin concentrations; an ischemic-to-contralateral renal vein renin ratio >= 1.5 predicts cure following revascularization.",
+        "explanation": "MRCP clinical endocrinology scenarios test renal vein renin ratios: unilateral hypersecretion of renin with contralateral suppression indicates functional unilateral renovascular hypertension.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "MRCP clinical endocrinology scenarios test renal vein renin ratios: unilateral hypersecretion of renin with contralateral suppression indicates functional unilateral renovascular hypertension. In the clinical evaluation of renovascular hypertension and renal artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Renal vein renin ratio (RVRR) sampling and diagnostic significance.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Renal vein renin ratio (RVRR) sampling and diagnostic significance."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0910",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Emergency department management of hypertensive emergency with flash pulmonary e",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Medical evaluation is commenced for a 52-year-old man who attends the scheduled outpatient subspecialty service with characteristic manifestations of renovascular hypertension and renal artery stenosis. Physical examination reveals refractory hypertension requiring four antihypertensive medications, continuous epigastric/flank systolic-diastolic bruit, and acute increase in serum creatinine > 35% after starting lisinopril. Vital parameters reflect blood pressure 120/71 mm Hg, heart rate 114/min, respiratory rate 22/min, and ambient oxygen saturation 94%. Which acute algorithmic intervention must be performed without delay in this emergency setting?",
+    "options": [
+      {
+        "text": "Immediate intravenous nitroglycerin infusion (high-dose vasodilator), non-invasive positive pressure ventilation (CPAP/BiPAP), and loop diuretics in the resuscitation bay.",
+        "explanation": "Emergency resuscitation in acute hypertensive crisis with flash pulmonary edema prioritizes aggressive afterload reduction using IV nitrates to rapidly offload the left ventricle.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Emergency resuscitation in acute hypertensive crisis with flash pulmonary edema prioritizes aggressive afterload reduction using IV nitrates to rapidly offload the left ventricle. In the clinical evaluation of renovascular hypertension and renal artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Emergency department management of hypertensive emergency with flash pulmonary e.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Emergency department management of hypertensive emergency with flash pulmonary e."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0911",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Screening for extra-renal vascular involvement in fibromuscular dysplasia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old woman presenting with functional decline is admitted following primary survey in the emergency service requiring evaluation for renovascular hypertension and renal artery stenosis. Clinical examination confirms refractory hypertension requiring four antihypertensive medications, continuous epigastric/flank systolic-diastolic bruit, and acute increase in serum creatinine > 35% after starting lisinopril. Vital parameters reflect blood pressure 124/74 mm Hg, heart rate 71/min, respiratory rate 23/min, and ambient oxygen saturation 95%. According to Saudi medical licensing guidelines, what is the recommended initial management or diagnostic protocol?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "One-time comprehensive vascular imaging from head to pelvis (CTA or MRA) in any patient diagnosed with FMD to screen for occult intracranial and visceral aneurysms or dissections.",
+        "explanation": "Saudi clinical practice guidelines recommend screening the entire arterial tree in confirmed FMD due to the high co-prevalence of asymptomatic intracranial berry aneurysms.",
+        "correct": true
+      }
+    ],
+    "explanation": "Saudi clinical practice guidelines recommend screening the entire arterial tree in confirmed FMD due to the high co-prevalence of asymptomatic intracranial berry aneurysms. In the clinical evaluation of renovascular hypertension and renal artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Screening for extra-renal vascular involvement in fibromuscular dysplasia.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Screening for extra-renal vascular involvement in fibromuscular dysplasia."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0912",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Resistant hypertension evaluation algorithms and renal denervation consideration",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old man undergoes pre-procedure optimization on the acute observation floor with progressive clinical features suspicious for renovascular hypertension and renal artery stenosis. On clinical examination, findings show refractory hypertension requiring four antihypertensive medications, continuous epigastric/flank systolic-diastolic bruit, and acute increase in serum creatinine > 35% after starting lisinopril. Vital parameters reflect blood pressure 128/77 mm Hg, heart rate 76/min, respiratory rate 24/min, and ambient oxygen saturation 96%. Under Department of Health clinical standards, what is the most appropriate diagnostic or management action?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Excluding white-coat hypertension with 24-hour ambulatory blood pressure monitoring, confirming medication compliance, and screening for obstructive sleep apnea and RAS.",
+        "explanation": "UAE cardiovascular centers establish protocolized resistant hypertension clinics, evaluating refractory patients for catheter-based renal sympathetic denervation in specialized settings.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "UAE cardiovascular centers establish protocolized resistant hypertension clinics, evaluating refractory patients for catheter-based renal sympathetic denervation in specialized settings. In the clinical evaluation of renovascular hypertension and renal artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Resistant hypertension evaluation algorithms and renal denervation consideration.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Resistant hypertension evaluation algorithms and renal denervation consideration."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0913",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Microscopic pathology of ischemic renal atrophy and contralateral hypertensive a",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Detailed clinical workup is initiated for a 73-year-old woman who presents to the acute medical triage unit due to suspected renovascular hypertension and renal artery stenosis. Bedside assessment demonstrates refractory hypertension requiring four antihypertensive medications, continuous epigastric/flank systolic-diastolic bruit, and acute increase in serum creatinine > 35% after starting lisinopril. Vital parameters reflect blood pressure 132/80 mm Hg, heart rate 81/min, respiratory rate 25/min, and ambient oxygen saturation 97%. Which foundational clinical or pathological feature is most characteristic of this disorder?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Stenotic kidney showing diffuse tubular atrophy, interstitial fibrosis, and crowded glomeruli; contralateral non-stenotic kidney showing severe hyaline and hyperplastic arteriolosclerosis.",
+        "explanation": "Undergraduate pathology emphasizes the Goldblatt phenomenon: the ischemic kidney is protected from systemic pressure while the contralateral kidney bears the brunt of malignant hypertensive vascular damage.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Undergraduate pathology emphasizes the Goldblatt phenomenon: the ischemic kidney is protected from systemic pressure while the contralateral kidney bears the brunt of malignant hypertensive vascular damage. In the clinical evaluation of renovascular hypertension and renal artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Microscopic pathology of ischemic renal atrophy and contralateral hypertensive a.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of renovascular hypertension and renal artery stenosis concerning Microscopic pathology of ischemic renal atrophy and contralateral hypertensive a."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0914",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Hematology",
+    "topic": "Neoplastic plasma cell bone marrow proliferation and osteoclast activating facto",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Detailed clinical workup is initiated for a 55-year-old woman who presents to the regional secondary referral center due to suspected multiple myeloma and monoclonal gammopathies. Bedside assessment demonstrates punched-out osteolytic bone lesions on skeletal survey, serum creatinine 2.8 mg/dL, normocytic anemia, hypercalcemia 12.4 mg/dL, and elevated monoclonal paraprotein spike. Vital parameters reflect blood pressure 132/72 mm Hg, heart rate 68/min, respiratory rate 14/min, and ambient oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Clonal plasma cell expansion in bone marrow producing excessive IL-6 and DKK1 (inhibiting Wnt/osteoblasts) while stimulating RANKL to cause unrestrained osteoclast lytic bone destruction.",
+        "explanation": "Multiple myeloma plasma cells produce monoclonal immunoglobulin (IgG or IgA) and stimulate osteoclasts via RANKL/MIP-1alpha; because osteoblasts are inhibited, bone scans (technetium-99m) are false-negative.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Multiple myeloma plasma cells produce monoclonal immunoglobulin (IgG or IgA) and stimulate osteoclasts via RANKL/MIP-1alpha; because osteoblasts are inhibited, bone scans (technetium-99m) are false-negative. In the clinical evaluation of multiple myeloma and monoclonal gammopathies, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Neoplastic plasma cell bone marrow proliferation and osteoclast activating facto.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Neoplastic plasma cell bone marrow proliferation and osteoclast activating facto."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0915",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "CRAB criteria and initial triplet induction therapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 62-year-old man with recent symptom exacerbation undergoes multidisciplinary assessment in the clinical assessment unit for urgent diagnostic clarification of multiple myeloma and monoclonal gammopathies. Bedside evaluation highlights punched-out osteolytic bone lesions on skeletal survey, serum creatinine 2.8 mg/dL, normocytic anemia, hypercalcemia 12.4 mg/dL, and elevated monoclonal paraprotein spike. Vital parameters reflect blood pressure 136/75 mm Hg, heart rate 73/min, respiratory rate 15/min, and ambient oxygen saturation 95%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Fulfillment of CRAB criteria (HyperCalcemia, Renal insufficiency, Anemia, Bone lytic lesions); starting triplet induction with bortezomib, lenalidomide, and dexamethasone (VRd).",
+        "explanation": "Diagnosis of multiple myeloma requires >= 10% clonal bone marrow plasma cells plus CRAB end-organ damage or myeloma-defining biomarkers; standard induction is proteasome inhibitor-based triplet therapy.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Diagnosis of multiple myeloma requires >= 10% clonal bone marrow plasma cells plus CRAB end-organ damage or myeloma-defining biomarkers; standard induction is proteasome inhibitor-based triplet therapy. In the clinical evaluation of multiple myeloma and monoclonal gammopathies, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning CRAB criteria and initial triplet induction therapy.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning CRAB criteria and initial triplet induction therapy."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0916",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Autologous stem cell transplantation (ASCT) and maintenance therapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Medical evaluation is commenced for a 69-year-old woman who is transferred by emergency medical service to the resuscitation bay with characteristic manifestations of multiple myeloma and monoclonal gammopathies. Physical examination reveals punched-out osteolytic bone lesions on skeletal survey, serum creatinine 2.8 mg/dL, normocytic anemia, hypercalcemia 12.4 mg/dL, and elevated monoclonal paraprotein spike. Vital parameters reflect blood pressure 140/78 mm Hg, heart rate 78/min, respiratory rate 16/min, and ambient oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Consolidation with high-dose melphalan conditioning followed by autologous hematopoietic stem cell transplantation in transplant-eligible patients, followed by lenalidomide maintenance.",
+        "explanation": "Autologous stem cell transplant significantly improves progression-free and overall survival; alkylating agents (e.g., melphalan) must be avoided prior to stem cell harvest to prevent stem cell toxicity.",
+        "correct": true
+      }
+    ],
+    "explanation": "Autologous stem cell transplant significantly improves progression-free and overall survival; alkylating agents (e.g., melphalan) must be avoided prior to stem cell harvest to prevent stem cell toxicity. In the clinical evaluation of multiple myeloma and monoclonal gammopathies, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Autologous stem cell transplantation (ASCT) and maintenance therapy.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Autologous stem cell transplantation (ASCT) and maintenance therapy."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0917",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "NICE guidelines on investigating suspected myeloma and whole-body imaging",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 76-year-old man presenting with functional decline attends the scheduled outpatient subspecialty service requiring evaluation for multiple myeloma and monoclonal gammopathies. Clinical examination confirms punched-out osteolytic bone lesions on skeletal survey, serum creatinine 2.8 mg/dL, normocytic anemia, hypercalcemia 12.4 mg/dL, and elevated monoclonal paraprotein spike. Vital parameters reflect blood pressure 144/81 mm Hg, heart rate 83/min, respiratory rate 17/min, and ambient oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Screening with serum protein electrophoresis, serum free light chain assay, and urine Bence Jones protein; whole-body low-dose CT or whole-body MRI as preferred imaging over plain X-rays.",
+        "explanation": "NICE guideline NG35 recommends whole-body low-dose CT as first-line imaging for suspected myeloma, offering superior sensitivity over conventional skeletal surveys for detecting small lytic lesions.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "NICE guideline NG35 recommends whole-body low-dose CT as first-line imaging for suspected myeloma, offering superior sensitivity over conventional skeletal surveys for detecting small lytic lesions. In the clinical evaluation of multiple myeloma and monoclonal gammopathies, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning NICE guidelines on investigating suspected myeloma and whole-body imaging.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning NICE guidelines on investigating suspected myeloma and whole-body imaging."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0918",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Monoclonal Gammopathy of Undetermined Significance (MGUS) versus Smoldering Myel",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 23-year-old woman is admitted following primary survey in the emergency service with progressive clinical features suspicious for multiple myeloma and monoclonal gammopathies. On clinical examination, findings show punched-out osteolytic bone lesions on skeletal survey, serum creatinine 2.8 mg/dL, normocytic anemia, hypercalcemia 12.4 mg/dL, and elevated monoclonal paraprotein spike. Vital parameters reflect blood pressure 148/84 mm Hg, heart rate 88/min, respiratory rate 18/min, and ambient oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "MGUS: serum M-protein < 30 g/L, bone marrow clonal plasma cells < 10%, and absence of CRAB symptoms, monitored with annual SPEP and FLC without active cytotoxic therapy.",
+        "explanation": "Australian hematology guidelines detail MGUS surveillance: annual monitoring for malignant progression (approx. 1% annual risk of transforming to symptomatic multiple myeloma).",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Australian hematology guidelines detail MGUS surveillance: annual monitoring for malignant progression (approx. 1% annual risk of transforming to symptomatic multiple myeloma). In the clinical evaluation of multiple myeloma and monoclonal gammopathies, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Monoclonal Gammopathy of Undetermined Significance (MGUS) versus Smoldering Myel.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Monoclonal Gammopathy of Undetermined Significance (MGUS) versus Smoldering Myel."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0919",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Myeloma cast nephropathy (light-chain nephropathy) pathophysiology and preventio",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Detailed clinical workup is initiated for a 30-year-old man who undergoes pre-procedure optimization on the acute observation floor due to suspected multiple myeloma and monoclonal gammopathies. Bedside assessment demonstrates punched-out osteolytic bone lesions on skeletal survey, serum creatinine 2.8 mg/dL, normocytic anemia, hypercalcemia 12.4 mg/dL, and elevated monoclonal paraprotein spike. Vital parameters reflect blood pressure 106/87 mm Hg, heart rate 93/min, respiratory rate 19/min, and ambient oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Excessive monoclonal free light chains filtering across glomeruli, overwhelming proximal reabsorption, and precipitating with Tamm-Horsfall mucoprotein in distal tubules, forming obstructive casts.",
+        "explanation": "Canadian medical objectives emphasize cast nephropathy: light chains are toxic to proximal tubular cells; vigorous hydration and early treatment to lower light chains prevent irreversible end-stage renal disease.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Canadian medical objectives emphasize cast nephropathy: light chains are toxic to proximal tubular cells; vigorous hydration and early treatment to lower light chains prevent irreversible end-stage renal disease. In the clinical evaluation of multiple myeloma and monoclonal gammopathies, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Myeloma cast nephropathy (light-chain nephropathy) pathophysiology and preventio.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Myeloma cast nephropathy (light-chain nephropathy) pathophysiology and preventio."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0920",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Hematology",
+    "topic": "Orthopedic management of impending pathological fractures (Mirels score)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old woman with recent symptom exacerbation presents to the acute medical triage unit for urgent diagnostic clarification of multiple myeloma and monoclonal gammopathies. Bedside evaluation highlights punched-out osteolytic bone lesions on skeletal survey, serum creatinine 2.8 mg/dL, normocytic anemia, hypercalcemia 12.4 mg/dL, and elevated monoclonal paraprotein spike. Vital parameters reflect blood pressure 110/64 mm Hg, heart rate 98/min, respiratory rate 20/min, and ambient oxygen saturation 93%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Prophylactic internal fixation or intramedullary rodding for long bone lytic lesions with high Mirels score (>= 8) to prevent catastrophic complete pathological fracture.",
+        "explanation": "In surgical oncology, prophylactic stabilization of weight-bearing long bones (e.g., femur) followed by localized palliative radiation therapy preserves mobility and eliminates fracture pain.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In surgical oncology, prophylactic stabilization of weight-bearing long bones (e.g., femur) followed by localized palliative radiation therapy preserves mobility and eliminates fracture pain. In the clinical evaluation of multiple myeloma and monoclonal gammopathies, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Orthopedic management of impending pathological fractures (Mirels score).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Orthopedic management of impending pathological fractures (Mirels score)."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0921",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Classic laboratory tetrad of Multiple Myeloma (CRAB mnemonic)",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Medical evaluation is commenced for a 44-year-old man who is evaluated during specialist consultation rounds with characteristic manifestations of multiple myeloma and monoclonal gammopathies. Physical examination reveals punched-out osteolytic bone lesions on skeletal survey, serum creatinine 2.8 mg/dL, normocytic anemia, hypercalcemia 12.4 mg/dL, and elevated monoclonal paraprotein spike. Vital parameters reflect blood pressure 114/67 mm Hg, heart rate 103/min, respiratory rate 21/min, and ambient oxygen saturation 94%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "HyperCalcemia (stones, groans, psychiatric overtones), Renal failure (cast nephropathy), Anemia (fatigue, pallor), and Bone lytic lesions causing severe bone pain.",
+        "explanation": "National licensing curricula test the CRAB mnemonic, emphasizing that normal bone scans do not exclude multiple myeloma, which requires plain radiographs, CT, or MRI.",
+        "correct": true
+      }
+    ],
+    "explanation": "National licensing curricula test the CRAB mnemonic, emphasizing that normal bone scans do not exclude multiple myeloma, which requires plain radiographs, CT, or MRI. In the clinical evaluation of multiple myeloma and monoclonal gammopathies, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Classic laboratory tetrad of Multiple Myeloma (CRAB mnemonic).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Classic laboratory tetrad of Multiple Myeloma (CRAB mnemonic)."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0922",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Serum Protein Electrophoresis (SPEP) M-spike and immunofixation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old woman presenting with functional decline attends the comprehensive outpatient ambulatory clinic requiring evaluation for multiple myeloma and monoclonal gammopathies. Clinical examination confirms punched-out osteolytic bone lesions on skeletal survey, serum creatinine 2.8 mg/dL, normocytic anemia, hypercalcemia 12.4 mg/dL, and elevated monoclonal paraprotein spike. Vital parameters reflect blood pressure 118/70 mm Hg, heart rate 108/min, respiratory rate 22/min, and ambient oxygen saturation 95%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Dense, narrow-based band in the gamma-globulin region on serum protein electrophoresis (M-spike), confirmed as monoclonal IgG kappa or lambda on immunofixation electrophoresis.",
+        "explanation": "NEET PG pathology and biochemistry questions focus on SPEP: an M-spike represents monoclonal paraprotein; urine immunofixation detects free Bence Jones light chains.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "NEET PG pathology and biochemistry questions focus on SPEP: an M-spike represents monoclonal paraprotein; urine immunofixation detects free Bence Jones light chains. In the clinical evaluation of multiple myeloma and monoclonal gammopathies, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Serum Protein Electrophoresis (SPEP) M-spike and immunofixation.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Serum Protein Electrophoresis (SPEP) M-spike and immunofixation."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0923",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "AL (Primary) Amyloidosis association and Congo red birefringence",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old man is urgently admitted to the high-dependency critical care unit with progressive clinical features suspicious for multiple myeloma and monoclonal gammopathies. On clinical examination, findings show punched-out osteolytic bone lesions on skeletal survey, serum creatinine 2.8 mg/dL, normocytic anemia, hypercalcemia 12.4 mg/dL, and elevated monoclonal paraprotein spike. Vital parameters reflect blood pressure 122/73 mm Hg, heart rate 113/min, respiratory rate 23/min, and ambient oxygen saturation 96%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Monoclonal light chains forming insoluble beta-pleated fibrillar sheets depositing in heart, kidneys, and tongue, showing apple-green birefringence under polarized light after Congo red staining.",
+        "explanation": "MRCP clinical scenarios test AL amyloidosis: macroglossia, periorbital ecchymoses ('raccoon eyes'), restrictive cardiomyopathy, and heavy proteinuria complicating plasma cell dyscrasias.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "MRCP clinical scenarios test AL amyloidosis: macroglossia, periorbital ecchymoses ('raccoon eyes'), restrictive cardiomyopathy, and heavy proteinuria complicating plasma cell dyscrasias. In the clinical evaluation of multiple myeloma and monoclonal gammopathies, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning AL (Primary) Amyloidosis association and Congo red birefringence.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning AL (Primary) Amyloidosis association and Congo red birefringence."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0924",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Emergency management of severe hypercalcemia of malignancy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Detailed clinical workup is initiated for a 65-year-old woman who presents to the regional secondary referral center due to suspected multiple myeloma and monoclonal gammopathies. Bedside assessment demonstrates punched-out osteolytic bone lesions on skeletal survey, serum creatinine 2.8 mg/dL, normocytic anemia, hypercalcemia 12.4 mg/dL, and elevated monoclonal paraprotein spike. Vital parameters reflect blood pressure 126/76 mm Hg, heart rate 70/min, respiratory rate 24/min, and ambient oxygen saturation 97%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive intravenous 0.9% normal saline rehydration (200-300 mL/h), followed by IV bisphosphonates (zoledronic acid) and calcitonin for rapid short-term calcium lowering.",
+        "explanation": "In emergency care of hypercalcemic crisis (calcium > 14 mg/dL), fluid restoration corrects prerenal azotemia; bisphosphonates take 48-72 hours to work, so calcitonin provides rapid acute bridging.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "In emergency care of hypercalcemic crisis (calcium > 14 mg/dL), fluid restoration corrects prerenal azotemia; bisphosphonates take 48-72 hours to work, so calcitonin provides rapid acute bridging. In the clinical evaluation of multiple myeloma and monoclonal gammopathies, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Emergency management of severe hypercalcemia of malignancy.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Emergency management of severe hypercalcemia of malignancy."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0925",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Venous thromboembolism prophylaxis during immunomodulatory drug (IMiD) therapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 72-year-old man with recent symptom exacerbation undergoes multidisciplinary assessment in the clinical assessment unit for urgent diagnostic clarification of multiple myeloma and monoclonal gammopathies. Bedside evaluation highlights punched-out osteolytic bone lesions on skeletal survey, serum creatinine 2.8 mg/dL, normocytic anemia, hypercalcemia 12.4 mg/dL, and elevated monoclonal paraprotein spike. Vital parameters reflect blood pressure 130/79 mm Hg, heart rate 75/min, respiratory rate 25/min, and ambient oxygen saturation 98%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Mandatory thromboprophylaxis with low-dose aspirin or low-molecular-weight heparin in all myeloma patients receiving lenalidomide or thalidomide with dexamethasone.",
+        "explanation": "Saudi oncology guidelines enforce VTE prophylaxis protocols because combining immunomodulatory agents with high-dose corticosteroids markedly increases deep vein thrombosis risk.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Saudi oncology guidelines enforce VTE prophylaxis protocols because combining immunomodulatory agents with high-dose corticosteroids markedly increases deep vein thrombosis risk. In the clinical evaluation of multiple myeloma and monoclonal gammopathies, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Venous thromboembolism prophylaxis during immunomodulatory drug (IMiD) therapy.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of multiple myeloma and monoclonal gammopathies concerning Venous thromboembolism prophylaxis during immunomodulatory drug (IMiD) therapy."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];

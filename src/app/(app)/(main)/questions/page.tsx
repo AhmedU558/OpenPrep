@@ -36,10 +36,47 @@ export default async function QuestionsPage({ searchParams }: { searchParams: Pr
     return `?${u}`;
   };
   const checked = (k: string, v: string) => arr(sp[k]).includes(v);
+  const selectedExams = arr(sp.exam);
 
   return (
     <>
       <PageHeader title="Question bank" subtitle={`${total} question${total === 1 ? '' : 's'} match. Explanations unlock once you answer a question.`} />
+
+      {/* 1-Click Exam Quick Switcher (StepwiseMD Category Parity) */}
+      <div className="mb-6 flex items-center gap-2 overflow-x-auto pb-2 text-sm no-scrollbar">
+        <Link
+          href="/questions"
+          className={cx(
+            'inline-flex shrink-0 items-center gap-1.5 rounded-full border px-3 py-1 font-medium transition',
+            selectedExams.length === 0
+              ? 'border-brand bg-brand text-brand-ink'
+              : 'border-line bg-surface hover:bg-surface-elevated'
+          )}
+        >
+          All Exams
+        </Link>
+        {fx.exams.map((exam) => {
+          const isActive = selectedExams.includes(exam.id);
+          return (
+            <Link
+              key={exam.id}
+              href={`/questions?exam=${encodeURIComponent(exam.id)}`}
+              className={cx(
+                'inline-flex shrink-0 items-center gap-1.5 rounded-full border px-3 py-1 font-medium transition',
+                isActive
+                  ? 'border-brand bg-brand text-brand-ink'
+                  : 'border-line bg-surface hover:bg-surface-elevated'
+              )}
+            >
+              <span>{exam.name}</span>
+              <span className={cx('text-xs tabular-nums', isActive ? 'opacity-80' : 'text-muted')}>
+                {exam.count}
+              </span>
+            </Link>
+          );
+        })}
+      </div>
+
       <div className="grid gap-6 lg:grid-cols-[280px_1fr]">
         <aside className="space-y-4">
           <form method="get" className="space-y-4 rounded-xl border border-line bg-surface p-4">

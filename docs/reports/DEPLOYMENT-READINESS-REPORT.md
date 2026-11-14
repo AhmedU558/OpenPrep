@@ -1,6 +1,6 @@
 # OpenPrep Deployment Readiness Report
 
-**Date:** 2026-11-14  
+**Date:** 2026-11-15  
 **Project:** OpenPrep Platform Expansion (StepwiseMD Parity & Original QBank Ingestion)  
 **Target Environment:** Vercel (Production) & Neon PostgreSQL  
 **Author:** Antigravity / Engineering Agent  
@@ -24,7 +24,7 @@ All core deliverables, code modifications, content batches, and automated verifi
 | **2. OpenPrep Gap Analysis** | `docs/reports/OPENPREP-GAP-ANALYSIS.md` | Completed & Verified |
 | **3. Implementation Plan** | `docs/reports/OPENPREP-IMPLEMENTATION-PLAN.md` | Completed & Verified |
 | **4. Updated OpenPrep Source Code** | `src/`, `prisma/seed.ts`, `content/` | Completed & Verified |
-| **5. Original Question-Bank Content** | `content/bank/international/` | Completed & Verified (745 Qs in 11 batches) |
+| **5. Original Question-Bank Content** | `content/bank/international/` | Completed & Verified (1,095 Qs in 15 batches) |
 | **6. DB Migration & Import Report** | `docs/reports/DATABASE-MIGRATION-AND-IMPORT-REPORT.md` | Completed & Verified |
 | **7. Test & Verification Report** | `docs/reports/TEST-AND-VERIFICATION-REPORT.md` | Completed & Verified |
 | **8. Deployment Readiness Report** | `docs/reports/DEPLOYMENT-READINESS-REPORT.md` | Completed & Verified |
@@ -52,7 +52,7 @@ The following production-ready improvements have been integrated into OpenPrep:
    - Every examination is configured with specific subjects, organ systems, and standardized scoring parameters.
 
 2. **Original International Question Content (`content/bank/international/`):**
-   - Authored 745 comprehensive clinical vignette questions across targeted tracks in 11 modular batches.
+   - Authored 1,095 comprehensive clinical vignette questions across targeted tracks in 15 modular batches (5,475 choices with detailed rationales).
    - 100% adherence to the 15 required criteria: clinical vignette, question stem, 5 plausible answer choices, distractor rationales for all alternatives, difficulty ranking (1–5), high-yield learning objectives, accredited HTTPS medical guideline citations, content provenance metadata, and explicit `AI-authored; medically unreviewed` status.
 
 3. **Dashboard Quick Practice Launchers (`src/app/(app)/(main)/dashboard/page.tsx`):**
@@ -66,7 +66,13 @@ The following production-ready improvements have been integrated into OpenPrep:
    - Deep query parameter synchronization (`initialPool`, `initialMode`, `initialExamId`).
    - Dynamic UI banner detecting NEET PG selection and presenting the standardized −0.25 negative marking penalty notice.
 
-5. **Turbopack Build Compatibility (`next.config.ts`):**
+5. **Question Browser Quick Navigation (`src/app/(app)/(main)/questions/page.tsx`):**
+   - 1-click exam pill selector bar across all 14 examinations for rapid mobile and desktop category filtering.
+
+6. **PWA Offline Service Worker (`public/sw.js` & `src/app/layout.tsx`):**
+   - Stale-while-revalidate shell caching for offline practice readiness matching StepwiseMD PWA features.
+
+7. **Turbopack Build Compatibility (`next.config.ts`):**
    - Configured `turbopack: {}` to resolve Next.js 16 build warnings and enable ultra-fast compilation.
 
 ---
@@ -75,7 +81,7 @@ The following production-ready improvements have been integrated into OpenPrep:
 
 All automated verification gates passed without error:
 
-- **Offline Content Validation:** `npm run bank:intl` — 30/30 questions passed Zod schema validation; batch digests calculated.
+- **Offline Content Validation:** `npm run bank:intl` — 1,095/1,095 questions passed Zod schema validation; batch digests calculated.
 - **Content Unit Tests:** `npx vitest run tests/unit/international-bank.test.ts` — 4/4 assertions passed.
 - **Platform Unit Tests:** `npm run test:unit` — 16 test suites passed; 199/199 tests passed.
 - **Type Safety:** `npm run typecheck` — 0 TypeScript compiler errors.
@@ -88,7 +94,7 @@ All automated verification gates passed without error:
 
 ### 5.1 Preservation of Existing Production Data
 - **Existing User Records:** Zero modifications to existing `User`, `Account`, `Session`, or user preferences.
-- **Existing Question Bank:** All 1,028 existing USMLE questions and their associated options, explanations, and reviews remain untouched.
+- **Existing Question Bank:** All 4,028 existing database questions and their associated options, explanations, and reviews remain untouched.
 - **Existing Test History:** All `TestSession`, `Response`, bookmark, and note records are strictly preserved.
 
 ### 5.2 Idempotent Database Seeding
@@ -136,22 +142,23 @@ Once explicit user approval is granted, execute the following steps in sequence:
 3. **Step 3: Commit and Push Source Code**  
    Commit the verified code additions to git:
    ```bash
-   git add content/ docs/ src/ prisma/ scripts/ tests/ next.config.ts package.json
-   git commit -m "feat: expand exam taxonomy, add international question bank, and enhance study modes"
+   git add content/ docs/ src/ prisma/ scripts/ tests/ public/ next.config.ts package.json
+   git commit -m "feat: expand international question bank to 1,095 questions, add PWA sw, and question browser pills"
    git push origin main
    ```
 
 4. **Step 4: Trigger Vercel Production Deployment**  
    Vercel will automatically build and deploy the updated application from `main`. Alternatively, run:
    ```bash
-   vercel --prod
+   $env:NODE_OPTIONS="--max-old-space-size=4096"; npx vercel deploy --prod --yes
    ```
 
 5. **Step 5: Production Smoke Test**  
    - Visit `https://openprep-ahmedu558.vercel.app/dashboard` and verify the Quick Practice launcher cards.
+   - Navigate to `/questions` and verify the 1-click exam pill switcher and PWA service worker registration.
    - Navigate to `/create` and confirm that all 14 examinations appear in the exam dropdown.
    - Select "NEET PG" and confirm the negative marking indicator appears.
-   - Verify that existing USMLE questions and tests are fully intact.
+   - Verify that existing questions and tests are fully intact.
 
 ---
 
