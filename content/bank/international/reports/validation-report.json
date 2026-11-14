@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-14T15:35:39.623Z",
-  "totalQuestions": 45,
+  "validatedAt": "2026-11-14T16:38:02.845Z",
+  "totalQuestions": 395,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -19,6 +19,30 @@
       "count": 15,
       "digest": "2bda0c85293d12de7361c7102243963ea2d121e39b4675b6012d0bbdda34cd25",
       "errors": []
+    },
+    {
+      "name": "batch-intl-04",
+      "count": 90,
+      "digest": "523975d0f60801f4b5b7126a1c9abada4d5815a79d87f271924594ece3bd4d0b",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-05",
+      "count": 90,
+      "digest": "1f4a7f485a8837f8374395b13641c082e4e65dec60acdc71b600101865ac3278",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-06",
+      "count": 85,
+      "digest": "f10d81c9b657f6c77f40cdad189c29ef8547042d5addb735740fae594e436853",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-07",
+      "count": 85,
+      "digest": "8fd28b260213fd6c0d24353f398c3621cac89f29fe706918daa831754031ee80",
+      "errors": []
     }
   ],
   "examsCovered": [
@@ -34,21 +58,24 @@
     "SMLE",
     "Step 1",
     "Step 2 CK",
+    "Step 3",
     "UHS MBBS"
   ],
   "subjectsCovered": {
-    "Anatomy": 1,
+    "Anatomy": 2,
+    "Biochemistry": 3,
     "Ethics": 1,
     "Geriatrics": 1,
-    "Medicine": 21,
-    "Microbiology": 2,
-    "Obstetrics": 4,
-    "Pathology": 1,
+    "Immunology": 3,
+    "Medicine": 283,
+    "Microbiology": 9,
+    "Obstetrics": 17,
+    "Pathology": 35,
     "Pediatrics": 3,
-    "Pharmacology": 5,
-    "Physiology": 1,
+    "Pharmacology": 15,
+    "Physiology": 7,
     "Psychiatry": 1,
-    "Surgery": 4
+    "Surgery": 15
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",

@@ -1,0 +1,4339 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-0226",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Hepatitis B antiviral prophylaxis in decompensated cirrhosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 42-year-old woman who attends an ambulatory primary care review with recent symptom onset due to suspected decompensated liver cirrhosis and portal hypertension. Physical examination reveals ascites, varices, hepatic encephalopathy, and jaundice. Vital signs: blood pressure 149/91 mm Hg, heart rate 84/min, respiratory rate 22/min, and oxygen saturation 91% on room air. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Lifelong potent oral nucleoside analogue (entecavir or tenofovir)",
+        "explanation": "Suppression of HBV replication with tenofovir or entecavir prevents further necroinflammation, halts fibrosis progression, and decreases decompensation.",
+        "correct": true
+      }
+    ],
+    "explanation": "Suppression of HBV replication with tenofovir or entecavir prevents further necroinflammation, halts fibrosis progression, and decreases decompensation. In the management of decompensated liver cirrhosis and portal hypertension, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Hepatitis B antiviral prophylaxis in decompensated cirrhosis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Hepatitis B antiviral prophylaxis in decompensated cirrhosis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0227",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Peripheral physical stigmata of chronic liver failure",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 49-year-old man with a history of chronic health complaints is examined during morning inpatient rounds in the specialty ward with acute worsening of decompensated liver cirrhosis and portal hypertension. Examination confirms ascites, varices, hepatic encephalopathy, and jaundice. Vital signs: blood pressure 151/92 mm Hg, heart rate 87/min, respiratory rate 23/min, and oxygen saturation 93% on room air. Bedside clinical examination reveals classical findings. What is the most important clinical sign, pathological finding, or investigation to establish the diagnosis?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Spider angiomas, palmar erythema, gynecomastia, and testicular atrophy",
+        "explanation": "Impaired hepatic metabolism of circulating estrogens leads to systemic cutaneous manifestations including spider angiomas, palmar erythema, and gynecomastia.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Impaired hepatic metabolism of circulating estrogens leads to systemic cutaneous manifestations including spider angiomas, palmar erythema, and gynecomastia. In the management of decompensated liver cirrhosis and portal hypertension, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Peripheral physical stigmata of chronic liver failure.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Peripheral physical stigmata of chronic liver failure."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0228",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Ischemic susceptibility of renal tubular segments",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An urgent clinical evaluation is conducted for a 26-year-old man who is examined during morning inpatient rounds in the specialty ward due to suspected acute kidney injury and acute tubular necrosis. Physical examination reveals oliguria, elevated serum creatinine, and muddy brown casts. Vital signs: blood pressure 130/82 mm Hg, heart rate 105/min, respiratory rate 26/min, and oxygen saturation 95% on room air. What is the underlying biochemical pathway, genetic defect, or cellular alteration responsible for these observed clinical findings?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Proximal convoluted tubule straight segment (S3) and thick ascending limb",
+        "explanation": "The straight segment of the proximal tubule and medullary thick ascending limb have high ATP demand for active transport and low basolateral oxygenation, making them vulnerable.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "The straight segment of the proximal tubule and medullary thick ascending limb have high ATP demand for active transport and low basolateral oxygenation, making them vulnerable. In the management of acute kidney injury and acute tubular necrosis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Ischemic susceptibility of renal tubular segments.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Ischemic susceptibility of renal tubular segments."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0229",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Prerenal azotemia versus acute tubular necrosis differentiation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old woman with a history of chronic health complaints presents to the emergency department with acute worsening of acute kidney injury and acute tubular necrosis. Examination confirms oliguria, elevated serum creatinine, and muddy brown casts. Vital signs: blood pressure 132/83 mm Hg, heart rate 108/min, respiratory rate 27/min, and oxygen saturation 97% on room air. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Fractional excretion of sodium (FeNa) < 1% versus > 2%",
+        "explanation": "In prerenal azotemia, intact tubular reabsorption retains sodium (FeNa < 1%, urine Na < 20); in ATN, damaged tubules cannot concentrate urine (FeNa > 2%, urine Na > 40).",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In prerenal azotemia, intact tubular reabsorption retains sodium (FeNa < 1%, urine Na < 20); in ATN, damaged tubules cannot concentrate urine (FeNa > 2%, urine Na > 40). In the management of acute kidney injury and acute tubular necrosis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Prerenal azotemia versus acute tubular necrosis differentiation.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Prerenal azotemia versus acute tubular necrosis differentiation."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0230",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Indications for emergency renal replacement therapy (AEIOU)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 40-year-old man who is evaluated in the acute medical admission unit presenting with clinical features of acute kidney injury and acute tubular necrosis. Physical findings include oliguria, elevated serum creatinine, and muddy brown casts. Vital signs: blood pressure 134/84 mm Hg, heart rate 111/min, respiratory rate 14/min, and oxygen saturation 99% on room air. What is the optimal long-term maintenance therapy or surveillance interval for this patient?",
+    "options": [
+      {
+        "text": "Refractory hyperkalemia, severe metabolic acidosis, and pulmonary edema",
+        "explanation": "Immediate hemodialysis is indicated for refractory Acidosis (pH < 7.1), Electrolytes (K > 6.5 with ECG changes), Intoxications, Overload (pulmonary edema), and Uremia.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Immediate hemodialysis is indicated for refractory Acidosis (pH < 7.1), Electrolytes (K > 6.5 with ECG changes), Intoxications, Overload (pulmonary edema), and Uremia. In the management of acute kidney injury and acute tubular necrosis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Indications for emergency renal replacement therapy (AEIOU).",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Indications for emergency renal replacement therapy (AEIOU)."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0231",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "NICE AKI staging criteria based on serum creatinine rise",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 47-year-old woman with recent functional decline attends a routine follow-up consultation in the outpatient clinic for investigation of suspected acute kidney injury and acute tubular necrosis. Clinical signs demonstrate oliguria, elevated serum creatinine, and muddy brown casts. Vital signs: blood pressure 136/85 mm Hg, heart rate 64/min, respiratory rate 15/min, and oxygen saturation 92% on room air. According to UK national clinical standards, which intervention should be initiated promptly?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Creatinine rise >= 26 umol/L within 48 hours or >= 1.5 times baseline",
+        "explanation": "NICE and KDIGO define Stage 1 AKI as an increase in serum creatinine by >= 26.5 umol/L (0.3 mg/dL) within 48 hours or 1.5\u20131.9 times baseline.",
+        "correct": true
+      }
+    ],
+    "explanation": "NICE and KDIGO define Stage 1 AKI as an increase in serum creatinine by >= 26.5 umol/L (0.3 mg/dL) within 48 hours or 1.5\u20131.9 times baseline. In the management of acute kidney injury and acute tubular necrosis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of NICE AKI staging criteria based on serum creatinine rise.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of NICE AKI staging criteria based on serum creatinine rise."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0232",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Rhabdomyolysis-induced acute kidney injury management",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man is admitted to the intensive care unit for close monitoring with progressive symptoms of acute kidney injury and acute tubular necrosis. Bedside assessment demonstrates oliguria, elevated serum creatinine, and muddy brown casts. Vital signs: blood pressure 138/86 mm Hg, heart rate 67/min, respiratory rate 16/min, and oxygen saturation 94% on room air. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive intravenous isotonic crystalloid resuscitation targeting urine output > 200 mL/h",
+        "explanation": "Massive skeletal muscle necrosis releases myoglobin that causes renal vasoconstriction and tubular casts; prompt aggressive volume expansion prevents cast deposition.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Massive skeletal muscle necrosis releases myoglobin that causes renal vasoconstriction and tubular casts; prompt aggressive volume expansion prevents cast deposition. In the management of acute kidney injury and acute tubular necrosis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Rhabdomyolysis-induced acute kidney injury management.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Rhabdomyolysis-induced acute kidney injury management."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0233",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Medication reconciliation and nephrotoxin cessation in acute AKI",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 61-year-old woman who presents to a regional community health facility due to suspected acute kidney injury and acute tubular necrosis. Physical examination reveals oliguria, elevated serum creatinine, and muddy brown casts. Vital signs: blood pressure 140/87 mm Hg, heart rate 70/min, respiratory rate 17/min, and oxygen saturation 96% on room air. What is the key diagnostic investigation or management priority according to Canadian qualifying standards?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Immediate discontinuation of ACE inhibitors, ARBs, and NSAIDs",
+        "explanation": "In hemodynamically mediated AKI, ACE inhibitors (blocking efferent constriction) and NSAIDs (blocking afferent dilation) reduce intraglomerular pressure and must be stopped.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In hemodynamically mediated AKI, ACE inhibitors (blocking efferent constriction) and NSAIDs (blocking afferent dilation) reduce intraglomerular pressure and must be stopped. In the management of acute kidney injury and acute tubular necrosis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Medication reconciliation and nephrotoxin cessation in acute AKI.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Medication reconciliation and nephrotoxin cessation in acute AKI."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0234",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Acute interstitial nephritis clinical triad and urinary findings",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old man with a history of chronic health complaints is referred to the tertiary university medical service with acute worsening of acute kidney injury and acute tubular necrosis. Examination confirms oliguria, elevated serum creatinine, and muddy brown casts. Vital signs: blood pressure 142/88 mm Hg, heart rate 73/min, respiratory rate 18/min, and oxygen saturation 98% on room air. What is the most appropriate advanced diagnostic workup or surgical intervention in this tertiary referral patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Fever, rash, arthralgias, and urinary eosinophils following drug exposure",
+        "explanation": "Drug-induced AIN (penicillins, PPIs, NSAIDs) manifests as acute hypersensitivity with interstitial inflammatory infiltration containing eosinophils.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Drug-induced AIN (penicillins, PPIs, NSAIDs) manifests as acute hypersensitivity with interstitial inflammatory infiltration containing eosinophils. In the management of acute kidney injury and acute tubular necrosis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Acute interstitial nephritis clinical triad and urinary findings.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Acute interstitial nephritis clinical triad and urinary findings."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0235",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Urinary sediment microscopy in acute tubular necrosis",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is initiated for a 75-year-old woman who undergoes specialized assessment in the outpatient center presenting with clinical features of acute kidney injury and acute tubular necrosis. Physical findings include oliguria, elevated serum creatinine, and muddy brown casts. Vital signs: blood pressure 144/89 mm Hg, heart rate 76/min, respiratory rate 19/min, and oxygen saturation 91% on room air. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Muddy brown granular casts and pigmented tubular epithelial cells",
+        "explanation": "Sloughing of necrotic renal tubular epithelial cells into the tubular lumen forms characteristic muddy brown granular casts diagnostic of ATN.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Sloughing of necrotic renal tubular epithelial cells into the tubular lumen forms characteristic muddy brown granular casts diagnostic of ATN. In the management of acute kidney injury and acute tubular necrosis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Urinary sediment microscopy in acute tubular necrosis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Urinary sediment microscopy in acute tubular necrosis."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0236",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Fractional excretion of urea utility in diuretic-treated patients",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old man with recent functional decline is brought by ambulance to the acute trauma and resuscitation suite for investigation of suspected acute kidney injury and acute tubular necrosis. Clinical signs demonstrate oliguria, elevated serum creatinine, and muddy brown casts. Vital signs: blood pressure 146/90 mm Hg, heart rate 79/min, respiratory rate 20/min, and oxygen saturation 93% on room air. What is the pathognomonic diagnostic sign, drug of choice, or histological feature of this condition?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Fractional excretion of urea (FeUrea) < 35% confirming prerenal azotemia",
+        "explanation": "When loop diuretics artificially increase urinary sodium, FeNa becomes unreliable; FeUrea < 35% reflects intact tubular reabsorption confirming prerenal failure.",
+        "correct": true
+      }
+    ],
+    "explanation": "When loop diuretics artificially increase urinary sodium, FeNa becomes unreliable; FeUrea < 35% reflects intact tubular reabsorption confirming prerenal failure. In the management of acute kidney injury and acute tubular necrosis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Fractional excretion of urea utility in diuretic-treated patients.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Fractional excretion of urea utility in diuretic-treated patients."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0237",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Contrast-induced nephropathy prevention guidelines",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old woman attends an ambulatory primary care review with recent symptom onset with progressive symptoms of acute kidney injury and acute tubular necrosis. Bedside assessment demonstrates oliguria, elevated serum creatinine, and muddy brown casts. Vital signs: blood pressure 148/91 mm Hg, heart rate 82/min, respiratory rate 21/min, and oxygen saturation 95% on room air. What is the optimal specialized investigation or second-line disease-modifying therapy for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous isotonic saline hydration before and after radiocontrast exposure",
+        "explanation": "In patients with eGFR < 30\u201345 mL/min undergoing contrast procedures, pre- and post-procedure volume expansion with 0.9% saline is the proven protective measure.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "In patients with eGFR < 30\u201345 mL/min undergoing contrast procedures, pre- and post-procedure volume expansion with 0.9% saline is the proven protective measure. In the management of acute kidney injury and acute tubular necrosis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Contrast-induced nephropathy prevention guidelines.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Contrast-induced nephropathy prevention guidelines."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0238",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Severe hyperkalemia with electrocardiographic changes emergency protocol",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 41-year-old man who is examined during morning inpatient rounds in the specialty ward due to suspected acute kidney injury and acute tubular necrosis. Physical examination reveals oliguria, elevated serum creatinine, and muddy brown casts. Vital signs: blood pressure 150/92 mm Hg, heart rate 85/min, respiratory rate 22/min, and oxygen saturation 97% on room air. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous 10% calcium gluconate bolus to stabilize cardiac membrane potential",
+        "explanation": "When hyperkalemia produces ECG changes (peaked T waves, PR prolongation, wide QRS), intravenous calcium immediately antagonizes cardiotoxicity to prevent arrest.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "When hyperkalemia produces ECG changes (peaked T waves, PR prolongation, wide QRS), intravenous calcium immediately antagonizes cardiotoxicity to prevent arrest. In the management of acute kidney injury and acute tubular necrosis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Severe hyperkalemia with electrocardiographic changes emergency protocol.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Severe hyperkalemia with electrocardiographic changes emergency protocol."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0239",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Post-streptococcal glomerulonephritis versus acute tubular necrosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old woman with a history of chronic health complaints presents to the emergency department with acute worsening of acute kidney injury and acute tubular necrosis. Examination confirms oliguria, elevated serum creatinine, and muddy brown casts. Vital signs: blood pressure 152/68 mm Hg, heart rate 88/min, respiratory rate 23/min, and oxygen saturation 99% on room air. What is the standard clinical protocol recommended for this presentation under Saudi licensing examination guidelines?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Dysmorphic red blood cells, RBC casts, and low serum C3 complement",
+        "explanation": "Acute nephritic syndrome demonstrates dysmorphic hematuria and erythrocyte casts from glomerular basement membrane disruption, accompanied by transient low C3.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Acute nephritic syndrome demonstrates dysmorphic hematuria and erythrocyte casts from glomerular basement membrane disruption, accompanied by transient low C3. In the management of acute kidney injury and acute tubular necrosis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Post-streptococcal glomerulonephritis versus acute tubular necrosis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Post-streptococcal glomerulonephritis versus acute tubular necrosis."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0240",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Heat stroke and acute exertional renal injury in outdoor workers",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 55-year-old man who is evaluated in the acute medical admission unit presenting with clinical features of acute kidney injury and acute tubular necrosis. Physical findings include oliguria, elevated serum creatinine, and muddy brown casts. Vital signs: blood pressure 154/69 mm Hg, heart rate 91/min, respiratory rate 24/min, and oxygen saturation 92% on room air. Under Department of Health clinical standards, what is the most appropriate diagnostic or management action?",
+    "options": [
+      {
+        "text": "Rapid core evaporative cooling and generous intravenous crystalloid hydration",
+        "explanation": "Exertional heat stroke causes multiorgan damage, hyperthermia, and rhabdomyolysis; immediate conductive/evaporative cooling and fluid replacement are vital.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Exertional heat stroke causes multiorgan damage, hyperthermia, and rhabdomyolysis; immediate conductive/evaporative cooling and fluid replacement are vital. In the management of acute kidney injury and acute tubular necrosis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Heat stroke and acute exertional renal injury in outdoor workers.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Heat stroke and acute exertional renal injury in outdoor workers."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0241",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Gross and microscopic pathological features of acute tubular necrosis",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 62-year-old woman with recent functional decline attends a routine follow-up consultation in the outpatient clinic for investigation of suspected acute kidney injury and acute tubular necrosis. Clinical signs demonstrate oliguria, elevated serum creatinine, and muddy brown casts. Vital signs: blood pressure 111/70 mm Hg, heart rate 94/min, respiratory rate 25/min, and oxygen saturation 94% on room air. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Tubular epithelial flattening, brush border loss, and denuded basement membranes",
+        "explanation": "Light microscopy in ATN reveals loss of proximal tubular microvilli brush borders, cell necrosis, apoptotic debris in lumina, and focal basement membrane rupture.",
+        "correct": true
+      }
+    ],
+    "explanation": "Light microscopy in ATN reveals loss of proximal tubular microvilli brush borders, cell necrosis, apoptotic debris in lumina, and focal basement membrane rupture. In the management of acute kidney injury and acute tubular necrosis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Gross and microscopic pathological features of acute tubular necrosis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute kidney injury and acute tubular necrosis in the context of Gross and microscopic pathological features of acute tubular necrosis."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0242",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Renal",
+    "topic": "IgA nephropathy (Berger disease) mesangial immune deposition",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is initiated for a 39-year-old woman who attends a routine follow-up consultation in the outpatient clinic presenting with clinical features of chronic kidney disease and glomerulonephritis. Physical findings include proteinuria, hypertension, declining GFR, and fluid retention. Vital signs: blood pressure 135/85 mm Hg, heart rate 112/min, respiratory rate 14/min, and oxygen saturation 96% on room air. Which physiological alteration or pharmacological mechanism of action directly accounts for this condition?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Mesangial IgA and C3 immune complex deposition on immunofluorescence",
+        "explanation": "IgA nephropathy is characterized by galactose-deficient IgA1 molecules that form immune complexes depositing in the glomerular mesangium, stimulating proliferation.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "IgA nephropathy is characterized by galactose-deficient IgA1 molecules that form immune complexes depositing in the glomerular mesangium, stimulating proliferation. In the management of chronic kidney disease and glomerulonephritis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of IgA nephropathy (Berger disease) mesangial immune deposition.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of IgA nephropathy (Berger disease) mesangial immune deposition."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0243",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Nephrotic syndrome diagnostic triad and minimal change disease",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 46-year-old man with recent functional decline is admitted to the intensive care unit for close monitoring for investigation of suspected chronic kidney disease and glomerulonephritis. Clinical signs demonstrate proteinuria, hypertension, declining GFR, and fluid retention. Vital signs: blood pressure 137/86 mm Hg, heart rate 65/min, respiratory rate 15/min, and oxygen saturation 98% on room air. Which of the following represents the immediate next step in patient evaluation?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Proteinuria > 3.5 g/24h, hypoalbuminemia < 30 g/L, and peripheral edema",
+        "explanation": "Nephrotic syndrome is defined by heavy proteinuria (> 3.5 g/day), severe hypoalbuminemia, and generalized pitting edema, with minimal change disease common in children.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Nephrotic syndrome is defined by heavy proteinuria (> 3.5 g/day), severe hypoalbuminemia, and generalized pitting edema, with minimal change disease common in children. In the management of chronic kidney disease and glomerulonephritis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Nephrotic syndrome diagnostic triad and minimal change disease.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Nephrotic syndrome diagnostic triad and minimal change disease."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0244",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Cardiovascular disease risk in chronic kidney disease patients",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old woman presents to a regional community health facility with progressive symptoms of chronic kidney disease and glomerulonephritis. Bedside assessment demonstrates proteinuria, hypertension, declining GFR, and fluid retention. Vital signs: blood pressure 139/87 mm Hg, heart rate 68/min, respiratory rate 16/min, and oxygen saturation 91% on room air. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Cardiovascular events as the leading cause of mortality in CKD",
+        "explanation": "Patients with chronic kidney disease are significantly more likely to die from premature cardiovascular disease than to progress to end-stage renal disease.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Patients with chronic kidney disease are significantly more likely to die from premature cardiovascular disease than to progress to end-stage renal disease. In the management of chronic kidney disease and glomerulonephritis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Cardiovascular disease risk in chronic kidney disease patients.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Cardiovascular disease risk in chronic kidney disease patients."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0245",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "NICE guideline blood pressure targets in chronic kidney disease",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 60-year-old man who is referred to the tertiary university medical service due to suspected chronic kidney disease and glomerulonephritis. Physical examination reveals proteinuria, hypertension, declining GFR, and fluid retention. Vital signs: blood pressure 141/88 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 93% on room air. What is the guideline-directed management recommendation for this NHS acute presentation?",
+    "options": [
+      {
+        "text": "Target blood pressure < 130/80 mm Hg if urine ACR >= 70 mg/mmol",
+        "explanation": "NICE NG203 recommends maintaining clinic blood pressure between 120\u2013129/<80 mm Hg for adults with CKD and significant proteinuria (ACR >= 70 mg/mmol).",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "NICE NG203 recommends maintaining clinic blood pressure between 120\u2013129/<80 mm Hg for adults with CKD and significant proteinuria (ACR >= 70 mg/mmol). In the management of chronic kidney disease and glomerulonephritis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of NICE guideline blood pressure targets in chronic kidney disease.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of NICE guideline blood pressure targets in chronic kidney disease."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0246",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Diabetic nephropathy screening and albumin-to-creatinine ratio",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 67-year-old woman with a history of chronic health complaints undergoes specialized assessment in the outpatient center with acute worsening of chronic kidney disease and glomerulonephritis. Examination confirms proteinuria, hypertension, declining GFR, and fluid retention. Vital signs: blood pressure 143/89 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 95% on room air. Which diagnostic or therapeutic action is prioritized under Australian clinical guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Annual spot urine albumin-to-creatinine ratio (ACR) and estimated GFR",
+        "explanation": "Diabetic kidney disease screening requires annual urine ACR to detect microalbuminuria (ACR 3\u201330 mg/mmol) early before overt decline in eGFR occurs.",
+        "correct": true
+      }
+    ],
+    "explanation": "Diabetic kidney disease screening requires annual urine ACR to detect microalbuminuria (ACR 3\u201330 mg/mmol) early before overt decline in eGFR occurs. In the management of chronic kidney disease and glomerulonephritis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Diabetic nephropathy screening and albumin-to-creatinine ratio.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Diabetic nephropathy screening and albumin-to-creatinine ratio."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0247",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Membranous nephropathy primary antibodies and associations",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 74-year-old man who is brought by ambulance to the acute trauma and resuscitation suite presenting with clinical features of chronic kidney disease and glomerulonephritis. Physical findings include proteinuria, hypertension, declining GFR, and fluid retention. Vital signs: blood pressure 145/90 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 97% on room air. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Phospholipase A2 receptor (PLA2R) autoantibodies in primary membranous",
+        "explanation": "Autoantibodies against the M-type phospholipase A2 receptor on podocytes cause 70\u201380% of primary membranous nephropathy, producing subepithelial immune deposits.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Autoantibodies against the M-type phospholipase A2 receptor on podocytes cause 70\u201380% of primary membranous nephropathy, producing subepithelial immune deposits. In the management of chronic kidney disease and glomerulonephritis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Membranous nephropathy primary antibodies and associations.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Membranous nephropathy primary antibodies and associations."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0248",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Post-streptococcal glomerulonephritis electron microscopy features",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 26-year-old woman with recent functional decline attends an ambulatory primary care review with recent symptom onset for investigation of suspected chronic kidney disease and glomerulonephritis. Clinical signs demonstrate proteinuria, hypertension, declining GFR, and fluid retention. Vital signs: blood pressure 147/91 mm Hg, heart rate 80/min, respiratory rate 20/min, and oxygen saturation 99% on room air. Which clinical strategy is prioritized in this post-graduate fellowship examination scenario?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Large subepithelial electron-dense 'humps' and dome-shaped immune deposits",
+        "explanation": "Post-streptococcal GN shows subepithelial humps on electron microscopy, corresponding to immune complexes of streptococcal antigen, IgG, and C3 complement.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Post-streptococcal GN shows subepithelial humps on electron microscopy, corresponding to immune complexes of streptococcal antigen, IgG, and C3 complement. In the management of chronic kidney disease and glomerulonephritis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Post-streptococcal glomerulonephritis electron microscopy features.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Post-streptococcal glomerulonephritis electron microscopy features."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0249",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Minimal change disease response to corticosteroid therapy",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 33-year-old man is examined during morning inpatient rounds in the specialty ward with progressive symptoms of chronic kidney disease and glomerulonephritis. Bedside assessment demonstrates proteinuria, hypertension, declining GFR, and fluid retention. Vital signs: blood pressure 149/92 mm Hg, heart rate 83/min, respiratory rate 21/min, and oxygen saturation 92% on room air. Which fundamental clinical intervention is prioritized for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Rapid complete remission following 4 to 8 weeks of oral prednisolone",
+        "explanation": "Minimal change disease in pediatric nephrotic syndrome demonstrates podocyte foot process effacement on EM and responds dramatically to oral corticosteroid therapy.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Minimal change disease in pediatric nephrotic syndrome demonstrates podocyte foot process effacement on EM and responds dramatically to oral corticosteroid therapy. In the management of chronic kidney disease and glomerulonephritis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Minimal change disease response to corticosteroid therapy.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Minimal change disease response to corticosteroid therapy."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0250",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Crescentic glomerulonephritis (RPGN) histopathological hallmark",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 40-year-old woman who presents to the emergency department due to suspected chronic kidney disease and glomerulonephritis. Physical examination reveals proteinuria, hypertension, declining GFR, and fluid retention. Vital signs: blood pressure 151/68 mm Hg, heart rate 86/min, respiratory rate 22/min, and oxygen saturation 94% on room air. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Proliferation of parietal epithelial cells and infiltrating monocytes in Bowman space",
+        "explanation": "Rapidly progressive crescentic glomerulonephritis is defined by cellular crescents composed of proliferating parietal epithelial cells and fibrin in Bowman space.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Rapidly progressive crescentic glomerulonephritis is defined by cellular crescents composed of proliferating parietal epithelial cells and fibrin in Bowman space. In the management of chronic kidney disease and glomerulonephritis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Crescentic glomerulonephritis (RPGN) histopathological hallmark.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Crescentic glomerulonephritis (RPGN) histopathological hallmark."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0251",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "SGLT2 inhibitors for slowing non-diabetic chronic kidney disease progression",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 47-year-old man with a history of chronic health complaints is evaluated in the acute medical admission unit with acute worsening of chronic kidney disease and glomerulonephritis. Examination confirms proteinuria, hypertension, declining GFR, and fluid retention. Vital signs: blood pressure 153/69 mm Hg, heart rate 89/min, respiratory rate 23/min, and oxygen saturation 96% on room air. Which evidence-based clinical intervention is supported by landmark clinical trial evidence?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Dapagliflozin or empagliflozin in patients with eGFR 20 to 60 mL/min/1.73m2",
+        "explanation": "The DAPA-CKD and EMPA-KIDNEY trials demonstrated that SGLT2 inhibitors slow CKD progression and reduce cardiovascular death in both diabetic and non-diabetic CKD.",
+        "correct": true
+      }
+    ],
+    "explanation": "The DAPA-CKD and EMPA-KIDNEY trials demonstrated that SGLT2 inhibitors slow CKD progression and reduce cardiovascular death in both diabetic and non-diabetic CKD. In the management of chronic kidney disease and glomerulonephritis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of SGLT2 inhibitors for slowing non-diabetic chronic kidney disease progression.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of SGLT2 inhibitors for slowing non-diabetic chronic kidney disease progression."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0252",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Severe nephrotic syndrome hypercoagulability and renal vein thrombosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 54-year-old woman who attends a routine follow-up consultation in the outpatient clinic presenting with clinical features of chronic kidney disease and glomerulonephritis. Physical findings include proteinuria, hypertension, declining GFR, and fluid retention. Vital signs: blood pressure 110/70 mm Hg, heart rate 92/min, respiratory rate 24/min, and oxygen saturation 98% on room air. Which acute algorithmic intervention must be performed without delay in this emergency setting?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Sudden flank pain, gross hematuria, and acute decline in GFR",
+        "explanation": "Loss of antithrombin III and protein C/S in nephrotic urine creates marked hypercoagulability, predisposing to deep vein thrombosis and renal vein thrombosis.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Loss of antithrombin III and protein C/S in nephrotic urine creates marked hypercoagulability, predisposing to deep vein thrombosis and renal vein thrombosis. In the management of chronic kidney disease and glomerulonephritis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Severe nephrotic syndrome hypercoagulability and renal vein thrombosis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Severe nephrotic syndrome hypercoagulability and renal vein thrombosis."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0253",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Renal osteodystrophy and phosphate binder selection",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man with recent functional decline is admitted to the intensive care unit for close monitoring for investigation of suspected chronic kidney disease and glomerulonephritis. Clinical signs demonstrate proteinuria, hypertension, declining GFR, and fluid retention. Vital signs: blood pressure 112/71 mm Hg, heart rate 95/min, respiratory rate 25/min, and oxygen saturation 91% on room air. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Calcium acetate or non-calcium binders (sevelamer) taken with meals",
+        "explanation": "In advanced CKD with hyperphosphatemia, intestinal phosphate binders bind dietary phosphate to prevent vascular calcification and secondary hyperparathyroidism.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In advanced CKD with hyperphosphatemia, intestinal phosphate binders bind dietary phosphate to prevent vascular calcification and secondary hyperparathyroidism. In the management of chronic kidney disease and glomerulonephritis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Renal osteodystrophy and phosphate binder selection.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Renal osteodystrophy and phosphate binder selection."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0254",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Arteriovenous fistula creation timing prior to hemodialysis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 68-year-old woman presents to a regional community health facility with progressive symptoms of chronic kidney disease and glomerulonephritis. Bedside assessment demonstrates proteinuria, hypertension, declining GFR, and fluid retention. Vital signs: blood pressure 114/72 mm Hg, heart rate 98/min, respiratory rate 26/min, and oxygen saturation 93% on room air. What is the recommended guideline-directed protocol for this patient in the UAE health system?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Surgical creation of a radiocephalic AV fistula 6 months before expected dialysis",
+        "explanation": "Mature autogenous arteriovenous fistulas have the lowest infection and thrombosis rates; creation 6 months prior allows adequate vascular remodeling.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Mature autogenous arteriovenous fistulas have the lowest infection and thrombosis rates; creation 6 months prior allows adequate vascular remodeling. In the management of chronic kidney disease and glomerulonephritis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Arteriovenous fistula creation timing prior to hemodialysis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Arteriovenous fistula creation timing prior to hemodialysis."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0255",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Lupus nephritis WHO/ISN-RPS classification hallmark",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "An urgent clinical evaluation is conducted for a 75-year-old man who is referred to the tertiary university medical service due to suspected chronic kidney disease and glomerulonephritis. Physical examination reveals proteinuria, hypertension, declining GFR, and fluid retention. Vital signs: blood pressure 116/73 mm Hg, heart rate 101/min, respiratory rate 27/min, and oxygen saturation 95% on room air. Which foundational clinical or pathological feature is most characteristic of this disorder?",
+    "options": [
+      {
+        "text": "Class IV diffuse proliferative lupus nephritis with 'wire loop' capillary lesions",
+        "explanation": "Class IV diffuse proliferative glomerulonephritis is the most severe form of lupus nephritis, featuring subendothelial immune deposits creating 'wire loop' capillaries.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Class IV diffuse proliferative glomerulonephritis is the most severe form of lupus nephritis, featuring subendothelial immune deposits creating 'wire loop' capillaries. In the management of chronic kidney disease and glomerulonephritis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Lupus nephritis WHO/ISN-RPS classification hallmark.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of chronic kidney disease and glomerulonephritis in the context of Lupus nephritis WHO/ISN-RPS classification hallmark."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic Kidney Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0256",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Endocrine",
+    "topic": "Ketone body synthesis in prolonged insulin deficiency",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old man is referred to the tertiary university medical service with progressive symptoms of diabetic ketoacidosis and hyperosmolar hyperglycemic state. Bedside assessment demonstrates hyperglycemia, high anion gap metabolic acidosis, and ketonemia. Vital signs: blood pressure 140/88 mm Hg, heart rate 69/min, respiratory rate 16/min, and oxygen saturation 97% on room air. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Hepatic mitochondrial beta-hydroxybutyrate and acetoacetate production",
+        "explanation": "Severe insulin deficiency stimulates hormone-sensitive lipase in adipose tissue, flooding the liver with free fatty acids that undergo beta-oxidation to form ketone bodies.",
+        "correct": true
+      }
+    ],
+    "explanation": "Severe insulin deficiency stimulates hormone-sensitive lipase in adipose tissue, flooding the liver with free fatty acids that undergo beta-oxidation to form ketone bodies. In the management of diabetic ketoacidosis and hyperosmolar hyperglycemic state, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Ketone body synthesis in prolonged insulin deficiency.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Ketone body synthesis in prolonged insulin deficiency."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0257",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Serum potassium management protocol before insulin infusion",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 59-year-old woman who undergoes specialized assessment in the outpatient center due to suspected diabetic ketoacidosis and hyperosmolar hyperglycemic state. Physical examination reveals hyperglycemia, high anion gap metabolic acidosis, and ketonemia. Vital signs: blood pressure 142/89 mm Hg, heart rate 72/min, respiratory rate 17/min, and oxygen saturation 99% on room air. Which of the following is the most appropriate next step in clinical management or diagnostic confirmation?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Holding insulin infusion if serum potassium is less than 3.3 mEq/L",
+        "explanation": "Insulin drives extracellular potassium into cells; administering insulin to a hypokalemic patient can trigger fatal cardiac arrhythmias or respiratory arrest.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Insulin drives extracellular potassium into cells; administering insulin to a hypokalemic patient can trigger fatal cardiac arrhythmias or respiratory arrest. In the management of diabetic ketoacidosis and hyperosmolar hyperglycemic state, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Serum potassium management protocol before insulin infusion.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Serum potassium management protocol before insulin infusion."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0258",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Transition from intravenous insulin infusion to subcutaneous regimen",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old man with a history of chronic health complaints is brought by ambulance to the acute trauma and resuscitation suite with acute worsening of diabetic ketoacidosis and hyperosmolar hyperglycemic state. Examination confirms hyperglycemia, high anion gap metabolic acidosis, and ketonemia. Vital signs: blood pressure 144/90 mm Hg, heart rate 75/min, respiratory rate 18/min, and oxygen saturation 92% on room air. Which of the following represents the most appropriate long-term ambulatory management or secondary prevention strategy?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Administering subcutaneous basal insulin 2 hours prior to stopping the IV infusion",
+        "explanation": "To prevent rebound hyperglycemia and recurrent ketoacidosis, subcutaneous basal insulin must overlap with the intravenous infusion by at least 2 hours.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "To prevent rebound hyperglycemia and recurrent ketoacidosis, subcutaneous basal insulin must overlap with the intravenous infusion by at least 2 hours. In the management of diabetic ketoacidosis and hyperosmolar hyperglycemic state, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Transition from intravenous insulin infusion to subcutaneous regimen.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Transition from intravenous insulin infusion to subcutaneous regimen."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0259",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Diagnostic criteria for DKA according to UK guidelines",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 73-year-old woman who attends an ambulatory primary care review with recent symptom onset presenting with clinical features of diabetic ketoacidosis and hyperosmolar hyperglycemic state. Physical findings include hyperglycemia, high anion gap metabolic acidosis, and ketonemia. Vital signs: blood pressure 146/91 mm Hg, heart rate 78/min, respiratory rate 19/min, and oxygen saturation 94% on room air. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Blood glucose > 11 mmol/L, capillary ketones > 3.0 mmol/L, and venous pH < 7.30",
+        "explanation": "Joint British Diabetes Societies (JBDS) criteria define DKA as ketonemia >= 3.0 mmol/L (or significant ketonuria), blood glucose > 11.0 mmol/L, and bicarbonate < 15 mmol/L.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Joint British Diabetes Societies (JBDS) criteria define DKA as ketonemia >= 3.0 mmol/L (or significant ketonuria), blood glucose > 11.0 mmol/L, and bicarbonate < 15 mmol/L. In the management of diabetic ketoacidosis and hyperosmolar hyperglycemic state, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Diagnostic criteria for DKA according to UK guidelines.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Diagnostic criteria for DKA according to UK guidelines."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0260",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Hyperosmolar hyperglycemic state (HHS) fluid resuscitation protocol",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old man with recent functional decline is examined during morning inpatient rounds in the specialty ward for investigation of suspected diabetic ketoacidosis and hyperosmolar hyperglycemic state. Clinical signs demonstrate hyperglycemia, high anion gap metabolic acidosis, and ketonemia. Vital signs: blood pressure 148/92 mm Hg, heart rate 81/min, respiratory rate 20/min, and oxygen saturation 96% on room air. According to Australian therapeutic guidelines and AMC clinical standards, what is the most appropriate initial action?",
+    "options": [
+      {
+        "text": "0.9% normal saline fluid replacement targeting slow reduction in serum osmolality",
+        "explanation": "HHS is characterized by profound dehydration (water deficit 8\u201310 L), serum osmolality > 320 mOsm/kg, and absence of significant ketoacidosis, requiring careful rehydration.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "HHS is characterized by profound dehydration (water deficit 8\u201310 L), serum osmolality > 320 mOsm/kg, and absence of significant ketoacidosis, requiring careful rehydration. In the management of diabetic ketoacidosis and hyperosmolar hyperglycemic state, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Hyperosmolar hyperglycemic state (HHS) fluid resuscitation protocol.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Hyperosmolar hyperglycemic state (HHS) fluid resuscitation protocol."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0261",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Cerebral edema prevention during DKA resuscitation in young patients",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 32-year-old woman presents to the emergency department with progressive symptoms of diabetic ketoacidosis and hyperosmolar hyperglycemic state. Bedside assessment demonstrates hyperglycemia, high anion gap metabolic acidosis, and ketonemia. Vital signs: blood pressure 150/68 mm Hg, heart rate 84/min, respiratory rate 21/min, and oxygen saturation 98% on room air. In accordance with Medical Council of Canada clinical objectives, which of the following is the most appropriate initial step?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Avoiding rapid reductions in plasma osmolality and excessive hypotonic fluids",
+        "explanation": "Cerebral edema is the leading cause of mortality in pediatric DKA, precipitated by rapid fluid shifts when serum osmolality falls faster than brain idiogenic osmoles dissipate.",
+        "correct": true
+      }
+    ],
+    "explanation": "Cerebral edema is the leading cause of mortality in pediatric DKA, precipitated by rapid fluid shifts when serum osmolality falls faster than brain idiogenic osmoles dissipate. In the management of diabetic ketoacidosis and hyperosmolar hyperglycemic state, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Cerebral edema prevention during DKA resuscitation in young patients.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Cerebral edema prevention during DKA resuscitation in young patients."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0262",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Precipitating factors and infection screen in adult DKA",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An urgent clinical evaluation is conducted for a 39-year-old man who is evaluated in the acute medical admission unit due to suspected diabetic ketoacidosis and hyperosmolar hyperglycemic state. Physical examination reveals hyperglycemia, high anion gap metabolic acidosis, and ketonemia. Vital signs: blood pressure 152/69 mm Hg, heart rate 87/min, respiratory rate 22/min, and oxygen saturation 91% on room air. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Urgent search for hidden infection such as urinary tract sepsis or pneumonia",
+        "explanation": "Infection is the most common trigger for diabetic ketoacidosis, requiring aggressive source control, diagnostic chest radiography, and empiric antibacterials.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Infection is the most common trigger for diabetic ketoacidosis, requiring aggressive source control, diagnostic chest radiography, and empiric antibacterials. In the management of diabetic ketoacidosis and hyperosmolar hyperglycemic state, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Precipitating factors and infection screen in adult DKA.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Precipitating factors and infection screen in adult DKA."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0263",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Sodium bicarbonate indication in extreme metabolic acidosis",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 46-year-old woman with a history of chronic health complaints attends a routine follow-up consultation in the outpatient clinic with acute worsening of diabetic ketoacidosis and hyperosmolar hyperglycemic state. Examination confirms hyperglycemia, high anion gap metabolic acidosis, and ketonemia. Vital signs: blood pressure 154/70 mm Hg, heart rate 90/min, respiratory rate 23/min, and oxygen saturation 93% on room air. Which of the following is the most appropriate initial medical therapy or core clinical recommendation according to national licensing standards?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Reserved strictly for arterial blood gas pH less than 6.90",
+        "explanation": "Sodium bicarbonate is contraindicated in routine DKA because it causes paradoxical intracellular CNS acidosis and delays ketosis clearance, reserved only for pH < 6.9.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Sodium bicarbonate is contraindicated in routine DKA because it causes paradoxical intracellular CNS acidosis and delays ketosis clearance, reserved only for pH < 6.9. In the management of diabetic ketoacidosis and hyperosmolar hyperglycemic state, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Sodium bicarbonate indication in extreme metabolic acidosis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Sodium bicarbonate indication in extreme metabolic acidosis."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0264",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "Electrolyte correction formulas for pseudohyponatremia in DKA",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 53-year-old man who is admitted to the intensive care unit for close monitoring presenting with clinical features of diabetic ketoacidosis and hyperosmolar hyperglycemic state. Physical findings include hyperglycemia, high anion gap metabolic acidosis, and ketonemia. Vital signs: blood pressure 111/71 mm Hg, heart rate 93/min, respiratory rate 24/min, and oxygen saturation 95% on room air. Which of the following represents the most characteristic clinical discriminator, drug of choice, or pathological hallmark?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Corrected sodium = Measured Na + 1.6 x [(Glucose - 100) / 100]",
+        "explanation": "Hyperglycemia draws water from the intracellular to extracellular compartment, diluting serum sodium; corrected sodium indicates true effective water deficit.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Hyperglycemia draws water from the intracellular to extracellular compartment, diluting serum sodium; corrected sodium indicates true effective water deficit. In the management of diabetic ketoacidosis and hyperosmolar hyperglycemic state, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Electrolyte correction formulas for pseudohyponatremia in DKA.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Electrolyte correction formulas for pseudohyponatremia in DKA."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0265",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Euglycemic diabetic ketoacidosis associated with SGLT2 inhibitors",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 60-year-old woman with recent functional decline presents to a regional community health facility for investigation of suspected diabetic ketoacidosis and hyperosmolar hyperglycemic state. Clinical signs demonstrate hyperglycemia, high anion gap metabolic acidosis, and ketonemia. Vital signs: blood pressure 113/72 mm Hg, heart rate 96/min, respiratory rate 25/min, and oxygen saturation 97% on room air. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Ketoacidosis with normal or near-normal blood glucose levels (< 11.1 mmol/L)",
+        "explanation": "SGLT2 inhibitors promote urinary glucose excretion while suppressing insulin and elevating glucagon, precipitating ketoacidosis despite normal blood glucose.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "SGLT2 inhibitors promote urinary glucose excretion while suppressing insulin and elevating glucagon, precipitating ketoacidosis despite normal blood glucose. In the management of diabetic ketoacidosis and hyperosmolar hyperglycemic state, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Euglycemic diabetic ketoacidosis associated with SGLT2 inhibitors.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Euglycemic diabetic ketoacidosis associated with SGLT2 inhibitors."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0266",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Point-of-care capillary beta-hydroxybutyrate versus urine dipstick",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 67-year-old man is referred to the tertiary university medical service with progressive symptoms of diabetic ketoacidosis and hyperosmolar hyperglycemic state. Bedside assessment demonstrates hyperglycemia, high anion gap metabolic acidosis, and ketonemia. Vital signs: blood pressure 115/73 mm Hg, heart rate 99/min, respiratory rate 26/min, and oxygen saturation 99% on room air. Triage evaluation reveals acute physiological compromise. What is the most immediate emergency resuscitation intervention?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Capillary beta-hydroxybutyrate measurement for real-time monitoring",
+        "explanation": "Blood beta-hydroxybutyrate is the predominant circulating ketone in acute DKA and clears rapidly with therapy, whereas urine nitroprusside tests measure acetoacetate.",
+        "correct": true
+      }
+    ],
+    "explanation": "Blood beta-hydroxybutyrate is the predominant circulating ketone in acute DKA and clears rapidly with therapy, whereas urine nitroprusside tests measure acetoacetate. In the management of diabetic ketoacidosis and hyperosmolar hyperglycemic state, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Point-of-care capillary beta-hydroxybutyrate versus urine dipstick.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Point-of-care capillary beta-hydroxybutyrate versus urine dipstick."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0267",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Resolution criteria for diabetic ketoacidosis before discharge",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 74-year-old woman who undergoes specialized assessment in the outpatient center due to suspected diabetic ketoacidosis and hyperosmolar hyperglycemic state. Physical examination reveals hyperglycemia, high anion gap metabolic acidosis, and ketonemia. Vital signs: blood pressure 117/74 mm Hg, heart rate 102/min, respiratory rate 27/min, and oxygen saturation 92% on room air. According to Saudi medical licensing guidelines, what is the recommended initial management or diagnostic protocol?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Serum glucose < 200 mg/dL, venous pH > 7.30, and serum bicarbonate >= 18 mEq/L",
+        "explanation": "DKA resolution is defined by blood glucose < 200 mg/dL, venous pH > 7.30, bicarbonate >= 18 mEq/L, and closed anion gap (<= 12 mEq/L) with tolerated oral intake.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "DKA resolution is defined by blood glucose < 200 mg/dL, venous pH > 7.30, bicarbonate >= 18 mEq/L, and closed anion gap (<= 12 mEq/L) with tolerated oral intake. In the management of diabetic ketoacidosis and hyperosmolar hyperglycemic state, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Resolution criteria for diabetic ketoacidosis before discharge.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Resolution criteria for diabetic ketoacidosis before discharge."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0268",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Type 1 diabetes education and sick-day management guidelines",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 26-year-old man with a history of chronic health complaints is brought by ambulance to the acute trauma and resuscitation suite with acute worsening of diabetic ketoacidosis and hyperosmolar hyperglycemic state. Examination confirms hyperglycemia, high anion gap metabolic acidosis, and ketonemia. Vital signs: blood pressure 119/75 mm Hg, heart rate 105/min, respiratory rate 14/min, and oxygen saturation 94% on room air. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Frequent blood glucose monitoring and never stopping baseline basal insulin",
+        "explanation": "During intercurrent acute illness, metabolic stress increases counter-regulatory hormones; patients must continue basal insulin and check ketones frequently.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "During intercurrent acute illness, metabolic stress increases counter-regulatory hormones; patients must continue basal insulin and check ketones frequently. In the management of diabetic ketoacidosis and hyperosmolar hyperglycemic state, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Type 1 diabetes education and sick-day management guidelines.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Type 1 diabetes education and sick-day management guidelines."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0269",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Kussmaul breathing pathophysiology and acid-base compensation",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is initiated for a 33-year-old woman who attends an ambulatory primary care review with recent symptom onset presenting with clinical features of diabetic ketoacidosis and hyperosmolar hyperglycemic state. Physical findings include hyperglycemia, high anion gap metabolic acidosis, and ketonemia. Vital signs: blood pressure 121/76 mm Hg, heart rate 108/min, respiratory rate 15/min, and oxygen saturation 96% on room air. Bedside clinical examination reveals classical findings. What is the most important clinical sign, pathological finding, or investigation to establish the diagnosis?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Compensatory respiratory alkalosis with deep, rapid respirations to eliminate CO2",
+        "explanation": "High systemic proton concentrations stimulate peripheral and central chemoreceptors, driving hyperventilation (Kussmaul breathing) to lower arterial PaCO2.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "High systemic proton concentrations stimulate peripheral and central chemoreceptors, driving hyperventilation (Kussmaul breathing) to lower arterial PaCO2. In the management of diabetic ketoacidosis and hyperosmolar hyperglycemic state, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Kussmaul breathing pathophysiology and acid-base compensation.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of diabetic ketoacidosis and hyperosmolar hyperglycemic state in the context of Kussmaul breathing pathophysiology and acid-base compensation."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0270",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Endocrine",
+    "topic": "Thyrotropin receptor autoantibody signaling pathway",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old woman with a history of chronic health complaints attends an ambulatory primary care review with recent symptom onset with acute worsening of Graves disease, Hashimoto thyroiditis, and thyroid storm. Examination confirms weight loss, heat intolerance, tremor, and suppressed TSH with high free T4. Vital signs: blood pressure 145/91 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98% on room air. What is the underlying biochemical pathway, genetic defect, or cellular alteration responsible for these observed clinical findings?",
+    "options": [
+      {
+        "text": "TSH-receptor stimulation activating adenylyl cyclase and protein kinase A",
+        "explanation": "Graves disease is mediated by IgG autoantibodies (TRAb/TSI) that bind and activate the TSH receptor, stimulating follicular cell hypertrophy and thyroid hormone synthesis.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Graves disease is mediated by IgG autoantibodies (TRAb/TSI) that bind and activate the TSH receptor, stimulating follicular cell hypertrophy and thyroid hormone synthesis. In the management of Graves disease, Hashimoto thyroiditis, and thyroid storm, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Thyrotropin receptor autoantibody signaling pathway.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Thyrotropin receptor autoantibody signaling pathway."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0271",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Thyroid storm emergency multimodal pharmacotherapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 72-year-old man who is examined during morning inpatient rounds in the specialty ward presenting with clinical features of Graves disease, Hashimoto thyroiditis, and thyroid storm. Physical findings include weight loss, heat intolerance, tremor, and suppressed TSH with high free T4. Vital signs: blood pressure 147/92 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 91% on room air. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Propranolol, propylthiouracil (PTU), Lugol iodine, and hydrocortisone",
+        "explanation": "Thyroid storm is a life-threatening crisis treated by blocking peripheral effects (propranolol), new synthesis (PTU), hormone release (iodine), and T4-to-T3 conversion (steroids).",
+        "correct": true
+      }
+    ],
+    "explanation": "Thyroid storm is a life-threatening crisis treated by blocking peripheral effects (propranolol), new synthesis (PTU), hormone release (iodine), and T4-to-T3 conversion (steroids). In the management of Graves disease, Hashimoto thyroiditis, and thyroid storm, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Thyroid storm emergency multimodal pharmacotherapy.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Thyroid storm emergency multimodal pharmacotherapy."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0272",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Subclinical hypothyroidism management and treatment thresholds",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old woman with recent functional decline presents to the emergency department for investigation of suspected Graves disease, Hashimoto thyroiditis, and thyroid storm. Clinical signs demonstrate weight loss, heat intolerance, tremor, and suppressed TSH with high free T4. Vital signs: blood pressure 149/68 mm Hg, heart rate 82/min, respiratory rate 20/min, and oxygen saturation 93% on room air. What is the optimal long-term maintenance therapy or surveillance interval for this patient?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Levothyroxine replacement if TSH is >= 10 mIU/L or patient is symptomatic",
+        "explanation": "Subclinical hypothyroidism (normal free T4 with elevated TSH) warrants treatment when TSH >= 10 mIU/L to reduce cardiovascular risk and prevent overt failure.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Subclinical hypothyroidism (normal free T4 with elevated TSH) warrants treatment when TSH >= 10 mIU/L to reduce cardiovascular risk and prevent overt failure. In the management of Graves disease, Hashimoto thyroiditis, and thyroid storm, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Subclinical hypothyroidism management and treatment thresholds.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Subclinical hypothyroidism management and treatment thresholds."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0273",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Radioactive iodine uptake differentiation of thyrotoxicosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 31-year-old man is evaluated in the acute medical admission unit with progressive symptoms of Graves disease, Hashimoto thyroiditis, and thyroid storm. Bedside assessment demonstrates weight loss, heat intolerance, tremor, and suppressed TSH with high free T4. Vital signs: blood pressure 151/69 mm Hg, heart rate 85/min, respiratory rate 21/min, and oxygen saturation 95% on room air. According to UK national clinical standards, which intervention should be initiated promptly?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Diffuse high uptake in Graves versus absent or low uptake in subacute thyroiditis",
+        "explanation": "Subacute de Quervain thyroiditis causes transient hyperthyroidism due to follicular destruction with low radioiodine uptake, distinguishing it from Graves disease.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Subacute de Quervain thyroiditis causes transient hyperthyroidism due to follicular destruction with low radioiodine uptake, distinguishing it from Graves disease. In the management of Graves disease, Hashimoto thyroiditis, and thyroid storm, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Radioactive iodine uptake differentiation of thyrotoxicosis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Radioactive iodine uptake differentiation of thyrotoxicosis."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0274",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Thionamide adverse effects and urgent full blood examination",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 38-year-old woman who attends a routine follow-up consultation in the outpatient clinic due to suspected Graves disease, Hashimoto thyroiditis, and thyroid storm. Physical examination reveals weight loss, heat intolerance, tremor, and suppressed TSH with high free T4. Vital signs: blood pressure 153/70 mm Hg, heart rate 88/min, respiratory rate 22/min, and oxygen saturation 97% on room air. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Immediate full blood count to exclude life-threatening agranulocytosis",
+        "explanation": "Carbimazole and methimazole can cause idiosyncratic agranulocytosis (< 0.5%); any patient developing a sore throat or fever must stop the drug and check FBC immediately.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Carbimazole and methimazole can cause idiosyncratic agranulocytosis (< 0.5%); any patient developing a sore throat or fever must stop the drug and check FBC immediately. In the management of Graves disease, Hashimoto thyroiditis, and thyroid storm, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Thionamide adverse effects and urgent full blood examination.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Thionamide adverse effects and urgent full blood examination."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0275",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Levothyroxine monitoring in primary hypothyroidism",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old man with a history of chronic health complaints is admitted to the intensive care unit for close monitoring with acute worsening of Graves disease, Hashimoto thyroiditis, and thyroid storm. Examination confirms weight loss, heat intolerance, tremor, and suppressed TSH with high free T4. Vital signs: blood pressure 110/71 mm Hg, heart rate 91/min, respiratory rate 23/min, and oxygen saturation 99% on room air. What is the key diagnostic investigation or management priority according to Canadian qualifying standards?",
+    "options": [
+      {
+        "text": "Serum TSH measurement 6 to 8 weeks after dose initiation or adjustment",
+        "explanation": "TSH is the most sensitive marker of pituitary-thyroid feedback; serum levels require 6 to 8 weeks to equilibrate following changes in levothyroxine dose.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "TSH is the most sensitive marker of pituitary-thyroid feedback; serum levels require 6 to 8 weeks to equilibrate following changes in levothyroxine dose. In the management of Graves disease, Hashimoto thyroiditis, and thyroid storm, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Levothyroxine monitoring in primary hypothyroidism.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Levothyroxine monitoring in primary hypothyroidism."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0276",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Subtotal thyroidectomy surgical complications and recurrent laryngeal nerve",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is initiated for a 52-year-old woman who presents to a regional community health facility presenting with clinical features of Graves disease, Hashimoto thyroiditis, and thyroid storm. Physical findings include weight loss, heat intolerance, tremor, and suppressed TSH with high free T4. Vital signs: blood pressure 112/72 mm Hg, heart rate 94/min, respiratory rate 24/min, and oxygen saturation 92% on room air. What is the most appropriate advanced diagnostic workup or surgical intervention in this tertiary referral patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Hoarseness secondary to unilateral recurrent laryngeal nerve traction injury",
+        "explanation": "The recurrent laryngeal nerve ascends in the tracheoesophageal groove and is vulnerable during ligation of the inferior thyroid artery, causing vocal cord palsy.",
+        "correct": true
+      }
+    ],
+    "explanation": "The recurrent laryngeal nerve ascends in the tracheoesophageal groove and is vulnerable during ligation of the inferior thyroid artery, causing vocal cord palsy. In the management of Graves disease, Hashimoto thyroiditis, and thyroid storm, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Subtotal thyroidectomy surgical complications and recurrent laryngeal nerve.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Subtotal thyroidectomy surgical complications and recurrent laryngeal nerve."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0277",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Endemic goiter etiology and dietary iodine supplementation",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 59-year-old man with recent functional decline is referred to the tertiary university medical service for investigation of suspected Graves disease, Hashimoto thyroiditis, and thyroid storm. Clinical signs demonstrate weight loss, heat intolerance, tremor, and suppressed TSH with high free T4. Vital signs: blood pressure 114/73 mm Hg, heart rate 97/min, respiratory rate 25/min, and oxygen saturation 94% on room air. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Compensatory TSH elevation driven by environmental dietary iodine deficiency",
+        "explanation": "Iodine deficiency in mountainous northern Pakistan reduces thyroid hormone synthesis, provoking compensatory pituitary TSH release and diffuse hyperplastic goiter.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Iodine deficiency in mountainous northern Pakistan reduces thyroid hormone synthesis, provoking compensatory pituitary TSH release and diffuse hyperplastic goiter. In the management of Graves disease, Hashimoto thyroiditis, and thyroid storm, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Endemic goiter etiology and dietary iodine supplementation.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Endemic goiter etiology and dietary iodine supplementation."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0278",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "Hashimoto thyroiditis microscopic histopathology",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old woman undergoes specialized assessment in the outpatient center with progressive symptoms of Graves disease, Hashimoto thyroiditis, and thyroid storm. Bedside assessment demonstrates weight loss, heat intolerance, tremor, and suppressed TSH with high free T4. Vital signs: blood pressure 116/74 mm Hg, heart rate 100/min, respiratory rate 26/min, and oxygen saturation 96% on room air. What is the pathognomonic diagnostic sign, drug of choice, or histological feature of this condition?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Diffuse lymphocytic infiltrate with germinal centers and Hurthle (Askanazy) cells",
+        "explanation": "Hashimoto thyroiditis demonstrates extensive chronic lymphocytic and plasma cell infiltration with lymphoid follicles and metaplastic oncocytes (Hurthle cells).",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Hashimoto thyroiditis demonstrates extensive chronic lymphocytic and plasma cell infiltration with lymphoid follicles and metaplastic oncocytes (Hurthle cells). In the management of Graves disease, Hashimoto thyroiditis, and thyroid storm, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Hashimoto thyroiditis microscopic histopathology.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Hashimoto thyroiditis microscopic histopathology."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0279",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Thyroid eye disease pathogenesis and smoking cessation counseling",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An urgent clinical evaluation is conducted for a 73-year-old man who is brought by ambulance to the acute trauma and resuscitation suite due to suspected Graves disease, Hashimoto thyroiditis, and thyroid storm. Physical examination reveals weight loss, heat intolerance, tremor, and suppressed TSH with high free T4. Vital signs: blood pressure 118/75 mm Hg, heart rate 103/min, respiratory rate 27/min, and oxygen saturation 98% on room air. What is the optimal specialized investigation or second-line disease-modifying therapy for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Retro-orbital adipocyte TSH-receptor expression and glycosaminoglycan accumulation",
+        "explanation": "Orbital fibroblasts express TSH receptors; cigarette smoking dramatically increases the risk and severity of Graves orbitopathy and reduces treatment efficacy.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Orbital fibroblasts express TSH receptors; cigarette smoking dramatically increases the risk and severity of Graves orbitopathy and reduces treatment efficacy. In the management of Graves disease, Hashimoto thyroiditis, and thyroid storm, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Thyroid eye disease pathogenesis and smoking cessation counseling.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Thyroid eye disease pathogenesis and smoking cessation counseling."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0280",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Amiodarone-induced thyrotoxicosis Type 1 versus Type 2",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old woman with a history of chronic health complaints attends an ambulatory primary care review with recent symptom onset with acute worsening of Graves disease, Hashimoto thyroiditis, and thyroid storm. Examination confirms weight loss, heat intolerance, tremor, and suppressed TSH with high free T4. Vital signs: blood pressure 120/76 mm Hg, heart rate 106/min, respiratory rate 14/min, and oxygen saturation 91% on room air. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Type 1 iodine-induced hyperthyroidism versus Type 2 destructive thyroiditis",
+        "explanation": "Amiodarone contains 37% iodine: Type 1 occurs in pre-existing nodular goiter (treated with thionamides); Type 2 is a direct destructive toxic thyroiditis (treated with steroids).",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Amiodarone contains 37% iodine: Type 1 occurs in pre-existing nodular goiter (treated with thionamides); Type 2 is a direct destructive toxic thyroiditis (treated with steroids). In the management of Graves disease, Hashimoto thyroiditis, and thyroid storm, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Amiodarone-induced thyrotoxicosis Type 1 versus Type 2.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Amiodarone-induced thyrotoxicosis Type 1 versus Type 2."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0281",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Pregnancy trimester-specific thionamide selection",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 32-year-old man who is examined during morning inpatient rounds in the specialty ward presenting with clinical features of Graves disease, Hashimoto thyroiditis, and thyroid storm. Physical findings include weight loss, heat intolerance, tremor, and suppressed TSH with high free T4. Vital signs: blood pressure 122/77 mm Hg, heart rate 109/min, respiratory rate 15/min, and oxygen saturation 93% on room air. What is the standard clinical protocol recommended for this presentation under Saudi licensing examination guidelines?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Propylthiouracil in the first trimester followed by methimazole in second/third",
+        "explanation": "Propylthiouracil is preferred in the first trimester due to lower teratogenicity (methimazole causes aplasia cutis); methimazole is resumed later to avoid PTU hepatotoxicity.",
+        "correct": true
+      }
+    ],
+    "explanation": "Propylthiouracil is preferred in the first trimester due to lower teratogenicity (methimazole causes aplasia cutis); methimazole is resumed later to avoid PTU hepatotoxicity. In the management of Graves disease, Hashimoto thyroiditis, and thyroid storm, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Pregnancy trimester-specific thionamide selection.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Pregnancy trimester-specific thionamide selection."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0282",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Thyroid nodule fine-needle aspiration biopsy criteria",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old woman with recent functional decline presents to the emergency department for investigation of suspected Graves disease, Hashimoto thyroiditis, and thyroid storm. Clinical signs demonstrate weight loss, heat intolerance, tremor, and suppressed TSH with high free T4. Vital signs: blood pressure 124/78 mm Hg, heart rate 112/min, respiratory rate 16/min, and oxygen saturation 95% on room air. Under Department of Health clinical standards, what is the most appropriate diagnostic or management action?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Solid hypoechoic nodule >= 1.0 cm with microcalcifications or irregular margins",
+        "explanation": "Thyroid nodules with suspicious sonographic features (microcalcifications, taller-than-wide, hypoechoic) require ultrasound-guided fine-needle aspiration biopsy.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Thyroid nodules with suspicious sonographic features (microcalcifications, taller-than-wide, hypoechoic) require ultrasound-guided fine-needle aspiration biopsy. In the management of Graves disease, Hashimoto thyroiditis, and thyroid storm, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Thyroid nodule fine-needle aspiration biopsy criteria.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Thyroid nodule fine-needle aspiration biopsy criteria."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0283",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Endocrine",
+    "topic": "Graves ophthalmopathy physical examination signs",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 46-year-old man is evaluated in the acute medical admission unit with progressive symptoms of Graves disease, Hashimoto thyroiditis, and thyroid storm. Bedside assessment demonstrates weight loss, heat intolerance, tremor, and suppressed TSH with high free T4. Vital signs: blood pressure 126/79 mm Hg, heart rate 65/min, respiratory rate 17/min, and oxygen saturation 97% on room air. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Proptosis, lid lag, lid retraction, and extraocular muscle restriction",
+        "explanation": "Infiltration of retro-orbital tissues by hydrophilic glycosaminoglycans causes proptosis (exophthalmos), diplopia, and compressive optic neuropathy.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Infiltration of retro-orbital tissues by hydrophilic glycosaminoglycans causes proptosis (exophthalmos), diplopia, and compressive optic neuropathy. In the management of Graves disease, Hashimoto thyroiditis, and thyroid storm, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Graves ophthalmopathy physical examination signs.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Graves disease, Hashimoto thyroiditis, and thyroid storm in the context of Graves ophthalmopathy physical examination signs."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0284",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Endocrine",
+    "topic": "POMC cleavage and melanocyte stimulation in primary adrenal failure",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 23-year-old man with recent functional decline is evaluated in the acute medical admission unit for investigation of suspected Addison disease, secondary adrenal failure, and Cushing syndrome. Clinical signs demonstrate hypotension, hyperpigmentation, hyperkalemia versus central adiposity and striae. Vital signs: blood pressure 150/69 mm Hg, heart rate 83/min, respiratory rate 20/min, and oxygen saturation 99% on room air. Which physiological alteration or pharmacological mechanism of action directly accounts for this condition?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Co-secretion of melanocyte-stimulating hormone (MSH) with ACTH from POMC",
+        "explanation": "Pro-opiomelanocortin (POMC) is cleaved in the anterior pituitary into ACTH and alpha-MSH, causing generalized cutaneous hyperpigmentation in primary Addison disease.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Pro-opiomelanocortin (POMC) is cleaved in the anterior pituitary into ACTH and alpha-MSH, causing generalized cutaneous hyperpigmentation in primary Addison disease. In the management of Addison disease, secondary adrenal failure, and Cushing syndrome, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of POMC cleavage and melanocyte stimulation in primary adrenal failure.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of POMC cleavage and melanocyte stimulation in primary adrenal failure."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0285",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Acute adrenal crisis emergency management protocol",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old woman attends a routine follow-up consultation in the outpatient clinic with progressive symptoms of Addison disease, secondary adrenal failure, and Cushing syndrome. Bedside assessment demonstrates hypotension, hyperpigmentation, hyperkalemia versus central adiposity and striae. Vital signs: blood pressure 152/70 mm Hg, heart rate 86/min, respiratory rate 21/min, and oxygen saturation 92% on room air. Which of the following represents the immediate next step in patient evaluation?",
+    "options": [
+      {
+        "text": "Immediate high-dose intravenous hydrocortisone (100 mg) and isotonic saline",
+        "explanation": "Acute Addisonian crisis manifests as refractory hypovolemic shock, hypoglycemia, and hyperkalemia; immediate stress-dose hydrocortisone is lifesaving before testing.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Acute Addisonian crisis manifests as refractory hypovolemic shock, hypoglycemia, and hyperkalemia; immediate stress-dose hydrocortisone is lifesaving before testing. In the management of Addison disease, secondary adrenal failure, and Cushing syndrome, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Acute adrenal crisis emergency management protocol.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Acute adrenal crisis emergency management protocol."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0286",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Cushing syndrome initial screening diagnostic algorithm",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 37-year-old man who is admitted to the intensive care unit for close monitoring due to suspected Addison disease, secondary adrenal failure, and Cushing syndrome. Physical examination reveals hypotension, hyperpigmentation, hyperkalemia versus central adiposity and striae. Vital signs: blood pressure 154/71 mm Hg, heart rate 89/min, respiratory rate 22/min, and oxygen saturation 94% on room air. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "24-hour urinary free cortisol, late-night salivary cortisol, or 1-mg dexamethasone test",
+        "explanation": "Establishing hypercortisolemia requires at least two abnormal initial screening tests before proceeding to plasma ACTH measurement to determine etiology.",
+        "correct": true
+      }
+    ],
+    "explanation": "Establishing hypercortisolemia requires at least two abnormal initial screening tests before proceeding to plasma ACTH measurement to determine etiology. In the management of Addison disease, secondary adrenal failure, and Cushing syndrome, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Cushing syndrome initial screening diagnostic algorithm.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Cushing syndrome initial screening diagnostic algorithm."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0287",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Short Synacthen (ACTH stimulation) test diagnostic interpretation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old woman with a history of chronic health complaints presents to a regional community health facility with acute worsening of Addison disease, secondary adrenal failure, and Cushing syndrome. Examination confirms hypotension, hyperpigmentation, hyperkalemia versus central adiposity and striae. Vital signs: blood pressure 111/72 mm Hg, heart rate 92/min, respiratory rate 23/min, and oxygen saturation 96% on room air. What is the guideline-directed management recommendation for this NHS acute presentation?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Failure of serum cortisol to rise above 450 to 500 nmol/L at 30 minutes",
+        "explanation": "A normal adrenal response to 250 mcg synthetic ACTH is a post-stimulation cortisol peak >= 450\u2013500 nmol/L; a flat or subnormal response confirms adrenal insufficiency.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "A normal adrenal response to 250 mcg synthetic ACTH is a post-stimulation cortisol peak >= 450\u2013500 nmol/L; a flat or subnormal response confirms adrenal insufficiency. In the management of Addison disease, secondary adrenal failure, and Cushing syndrome, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Short Synacthen (ACTH stimulation) test diagnostic interpretation.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Short Synacthen (ACTH stimulation) test diagnostic interpretation."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0288",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Sick-day rules and stress-dose steroid education for Addison patients",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 51-year-old man who is referred to the tertiary university medical service presenting with clinical features of Addison disease, secondary adrenal failure, and Cushing syndrome. Physical findings include hypotension, hyperpigmentation, hyperkalemia versus central adiposity and striae. Vital signs: blood pressure 113/73 mm Hg, heart rate 95/min, respiratory rate 24/min, and oxygen saturation 98% on room air. Which diagnostic or therapeutic action is prioritized under Australian clinical guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Doubling or tripling the oral hydrocortisone dose during febrile illnesses",
+        "explanation": "Patients with chronic primary adrenal insufficiency must double their oral replacement dose during intercurrent illnesses and carry an emergency injectable hydrocortisone kit.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Patients with chronic primary adrenal insufficiency must double their oral replacement dose during intercurrent illnesses and carry an emergency injectable hydrocortisone kit. In the management of Addison disease, secondary adrenal failure, and Cushing syndrome, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Sick-day rules and stress-dose steroid education for Addison patients.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Sick-day rules and stress-dose steroid education for Addison patients."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0289",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Dexamethasone suppression testing in Cushing disease versus ectopic ACTH",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 58-year-old woman with recent functional decline undergoes specialized assessment in the outpatient center for investigation of suspected Addison disease, secondary adrenal failure, and Cushing syndrome. Clinical signs demonstrate hypotension, hyperpigmentation, hyperkalemia versus central adiposity and striae. Vital signs: blood pressure 115/74 mm Hg, heart rate 98/min, respiratory rate 25/min, and oxygen saturation 91% on room air. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "High-dose (8-mg) dexamethasone suppresses ACTH in pituitary adenoma but not ectopic",
+        "explanation": "Pituitary corticotroph adenomas retain partial negative feedback and suppress cortisol by > 50% on high-dose dexamethasone, whereas ectopic tumors do not suppress.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Pituitary corticotroph adenomas retain partial negative feedback and suppress cortisol by > 50% on high-dose dexamethasone, whereas ectopic tumors do not suppress. In the management of Addison disease, secondary adrenal failure, and Cushing syndrome, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Dexamethasone suppression testing in Cushing disease versus ectopic ACTH.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Dexamethasone suppression testing in Cushing disease versus ectopic ACTH."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0290",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Adrenal incidentaloma workup and surgical resection criteria",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old man is brought by ambulance to the acute trauma and resuscitation suite with progressive symptoms of Addison disease, secondary adrenal failure, and Cushing syndrome. Bedside assessment demonstrates hypotension, hyperpigmentation, hyperkalemia versus central adiposity and striae. Vital signs: blood pressure 117/75 mm Hg, heart rate 101/min, respiratory rate 26/min, and oxygen saturation 93% on room air. Which clinical strategy is prioritized in this post-graduate fellowship examination scenario?",
+    "options": [
+      {
+        "text": "Endocrine functional evaluation and resection for tumors >= 4 cm or suspicious imaging",
+        "explanation": "All adrenal incidentalomas require biochemical screening for pheochromocytoma, Cushing, and Conn syndrome; non-functioning lesions >= 4 cm warrant adrenalectomy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "All adrenal incidentalomas require biochemical screening for pheochromocytoma, Cushing, and Conn syndrome; non-functioning lesions >= 4 cm warrant adrenalectomy. In the management of Addison disease, secondary adrenal failure, and Cushing syndrome, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Adrenal incidentaloma workup and surgical resection criteria.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Adrenal incidentaloma workup and surgical resection criteria."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0291",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Primary versus secondary adrenal insufficiency electrolyte differences",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "An urgent clinical evaluation is conducted for a 72-year-old woman who attends an ambulatory primary care review with recent symptom onset due to suspected Addison disease, secondary adrenal failure, and Cushing syndrome. Physical examination reveals hypotension, hyperpigmentation, hyperkalemia versus central adiposity and striae. Vital signs: blood pressure 119/76 mm Hg, heart rate 104/min, respiratory rate 27/min, and oxygen saturation 95% on room air. Which fundamental clinical intervention is prioritized for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Hyperkalemia and hyponatremia in primary versus normal potassium in secondary",
+        "explanation": "Mineralocorticoid (aldosterone) synthesis is regulated by the renin-angiotensin axis; secondary adrenal insufficiency lacks ACTH but preserves aldosterone and potassium balance.",
+        "correct": true
+      }
+    ],
+    "explanation": "Mineralocorticoid (aldosterone) synthesis is regulated by the renin-angiotensin axis; secondary adrenal insufficiency lacks ACTH but preserves aldosterone and potassium balance. In the management of Addison disease, secondary adrenal failure, and Cushing syndrome, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Primary versus secondary adrenal insufficiency electrolyte differences.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Primary versus secondary adrenal insufficiency electrolyte differences."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0292",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Endocrine",
+    "topic": "Waterhouse-Friderichsen syndrome pathological hallmark",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man with a history of chronic health complaints is examined during morning inpatient rounds in the specialty ward with acute worsening of Addison disease, secondary adrenal failure, and Cushing syndrome. Examination confirms hypotension, hyperpigmentation, hyperkalemia versus central adiposity and striae. Vital signs: blood pressure 121/77 mm Hg, heart rate 107/min, respiratory rate 14/min, and oxygen saturation 97% on room air. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Bilateral massive adrenal cortical hemorrhage complicating meningococcemia",
+        "explanation": "Fulminant Neisseria meningitidis septicemia triggers disseminated intravascular coagulation and endotoxin-mediated bilateral adrenal hemorrhagic necrosis.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Fulminant Neisseria meningitidis septicemia triggers disseminated intravascular coagulation and endotoxin-mediated bilateral adrenal hemorrhagic necrosis. In the management of Addison disease, secondary adrenal failure, and Cushing syndrome, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Waterhouse-Friderichsen syndrome pathological hallmark.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Waterhouse-Friderichsen syndrome pathological hallmark."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0293",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Primary hyperaldosteronism (Conn syndrome) screening and diagnosis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is initiated for a 31-year-old woman who presents to the emergency department presenting with clinical features of Addison disease, secondary adrenal failure, and Cushing syndrome. Physical findings include hypotension, hyperpigmentation, hyperkalemia versus central adiposity and striae. Vital signs: blood pressure 123/78 mm Hg, heart rate 110/min, respiratory rate 15/min, and oxygen saturation 99% on room air. Which evidence-based clinical intervention is supported by landmark clinical trial evidence?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Plasma aldosterone-to-renin ratio (ARR) > 20 to 30 with suppressed renin",
+        "explanation": "Primary aldosteronism presents with resistant hypertension and spontaneous hypokalemia, screened by an elevated plasma aldosterone-to-renin ratio with suppressed renin.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Primary aldosteronism presents with resistant hypertension and spontaneous hypokalemia, screened by an elevated plasma aldosterone-to-renin ratio with suppressed renin. In the management of Addison disease, secondary adrenal failure, and Cushing syndrome, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Primary hyperaldosteronism (Conn syndrome) screening and diagnosis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Primary hyperaldosteronism (Conn syndrome) screening and diagnosis."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0294",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Pheochromocytoma crisis emergency alpha-adrenergic blockade",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 38-year-old man with recent functional decline is evaluated in the acute medical admission unit for investigation of suspected Addison disease, secondary adrenal failure, and Cushing syndrome. Clinical signs demonstrate hypotension, hyperpigmentation, hyperkalemia versus central adiposity and striae. Vital signs: blood pressure 125/79 mm Hg, heart rate 113/min, respiratory rate 16/min, and oxygen saturation 92% on room air. Which acute algorithmic intervention must be performed without delay in this emergency setting?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous phentolamine or oral phenoxybenzamine before any beta-blocker",
+        "explanation": "Beta-blockade in pheochromocytoma without prior irreversible alpha-1 blockade precipitates unopposed severe alpha-adrenergic vasoconstriction and hypertensive crisis.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Beta-blockade in pheochromocytoma without prior irreversible alpha-1 blockade precipitates unopposed severe alpha-adrenergic vasoconstriction and hypertensive crisis. In the management of Addison disease, secondary adrenal failure, and Cushing syndrome, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Pheochromocytoma crisis emergency alpha-adrenergic blockade.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Pheochromocytoma crisis emergency alpha-adrenergic blockade."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0295",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Exogenous corticosteroid-induced secondary adrenal insufficiency",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old woman attends a routine follow-up consultation in the outpatient clinic with progressive symptoms of Addison disease, secondary adrenal failure, and Cushing syndrome. Bedside assessment demonstrates hypotension, hyperpigmentation, hyperkalemia versus central adiposity and striae. Vital signs: blood pressure 127/80 mm Hg, heart rate 66/min, respiratory rate 17/min, and oxygen saturation 94% on room air. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Suppression of the hypothalamic-pituitary-adrenal axis following prolonged therapy",
+        "explanation": "Supraphysiological steroid therapy (> 3 weeks) suppresses CRH and ACTH, causing bilateral adrenal cortical atrophy; abrupt cessation precipitates acute crisis.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Supraphysiological steroid therapy (> 3 weeks) suppresses CRH and ACTH, causing bilateral adrenal cortical atrophy; abrupt cessation precipitates acute crisis. In the management of Addison disease, secondary adrenal failure, and Cushing syndrome, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Exogenous corticosteroid-induced secondary adrenal insufficiency.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Exogenous corticosteroid-induced secondary adrenal insufficiency."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0296",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Cushing syndrome cutaneous and musculoskeletal physical findings",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 52-year-old man who is admitted to the intensive care unit for close monitoring due to suspected Addison disease, secondary adrenal failure, and Cushing syndrome. Physical examination reveals hypotension, hyperpigmentation, hyperkalemia versus central adiposity and striae. Vital signs: blood pressure 129/81 mm Hg, heart rate 69/min, respiratory rate 18/min, and oxygen saturation 96% on room air. What is the recommended guideline-directed protocol for this patient in the UAE health system?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Violaceous abdominal striae > 1 cm wide, proximal muscle myopathy, and facial plethora",
+        "explanation": "Hypercortisolemia induces protein catabolism, leading to skin thinning, capillary fragility, purple broad striae, and proximal muscle atrophy (difficulty rising from a chair).",
+        "correct": true
+      }
+    ],
+    "explanation": "Hypercortisolemia induces protein catabolism, leading to skin thinning, capillary fragility, purple broad striae, and proximal muscle atrophy (difficulty rising from a chair). In the management of Addison disease, secondary adrenal failure, and Cushing syndrome, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Cushing syndrome cutaneous and musculoskeletal physical findings.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Cushing syndrome cutaneous and musculoskeletal physical findings."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0297",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Adrenal cortex histological zonation and hormone production",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 59-year-old woman with a history of chronic health complaints presents to a regional community health facility with acute worsening of Addison disease, secondary adrenal failure, and Cushing syndrome. Examination confirms hypotension, hyperpigmentation, hyperkalemia versus central adiposity and striae. Vital signs: blood pressure 131/82 mm Hg, heart rate 72/min, respiratory rate 19/min, and oxygen saturation 98% on room air. Which foundational clinical or pathological feature is most characteristic of this disorder?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Zona glomerulosa (aldosterone), fasciculata (cortisol), and reticularis (androgens)",
+        "explanation": "The adrenal cortex is organized from capsule inward: Zona Glomerulosa produces mineralocorticoids, Zona Fasciculata produces glucocorticoids, and Zona Reticularis produces androgens.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "The adrenal cortex is organized from capsule inward: Zona Glomerulosa produces mineralocorticoids, Zona Fasciculata produces glucocorticoids, and Zona Reticularis produces androgens. In the management of Addison disease, secondary adrenal failure, and Cushing syndrome, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Adrenal cortex histological zonation and hormone production.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Addison disease, secondary adrenal failure, and Cushing syndrome in the context of Adrenal cortex histological zonation and hormone production."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Approach to the Patient With Endocrine Disorders",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/principles-of-endocrinology/approach-to-the-patient-with-endocrine-disorders"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0298",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Hematology",
+    "topic": "Folate trap hypothesis and methylmalonic acid elevation in B12 deficiency",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An urgent clinical evaluation is conducted for a 36-year-old woman who presents to a regional community health facility due to suspected iron deficiency, vitamin B12 deficiency, and thalassemia. Physical examination reveals fatigue, pallor, low hemoglobin, and abnormal MCV. Vital signs: blood pressure 110/72 mm Hg, heart rate 90/min, respiratory rate 22/min, and oxygen saturation 91% on room air. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Elevated methylmalonic acid and homocysteine due to cobalamin coenzyme failure",
+        "explanation": "Vitamin B12 is an essential cofactor for methionine synthase and methylmalonyl-CoA mutase; deficiency elevates both methylmalonic acid and homocysteine, unlike folate deficiency.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Vitamin B12 is an essential cofactor for methionine synthase and methylmalonyl-CoA mutase; deficiency elevates both methylmalonic acid and homocysteine, unlike folate deficiency. In the management of iron deficiency, vitamin B12 deficiency, and thalassemia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Folate trap hypothesis and methylmalonic acid elevation in B12 deficiency.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Folate trap hypothesis and methylmalonic acid elevation in B12 deficiency."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0299",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Iron deficiency anemia investigation in elderly men and postmenopausal women",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 43-year-old man with a history of chronic health complaints is referred to the tertiary university medical service with acute worsening of iron deficiency, vitamin B12 deficiency, and thalassemia. Examination confirms fatigue, pallor, low hemoglobin, and abnormal MCV. Vital signs: blood pressure 112/73 mm Hg, heart rate 93/min, respiratory rate 23/min, and oxygen saturation 93% on room air. Which of the following is the most appropriate next step in clinical management or diagnostic confirmation?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Bidirectional endoscopy (colonoscopy and gastroscopy) to exclude gastrointestinal malignancy",
+        "explanation": "Unexplained iron deficiency anemia in adult men or postmenopausal women represents occult gastrointestinal bleeding from colorectal or gastric carcinoma until proven otherwise.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Unexplained iron deficiency anemia in adult men or postmenopausal women represents occult gastrointestinal bleeding from colorectal or gastric carcinoma until proven otherwise. In the management of iron deficiency, vitamin B12 deficiency, and thalassemia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Iron deficiency anemia investigation in elderly men and postmenopausal women.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Iron deficiency anemia investigation in elderly men and postmenopausal women."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0300",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Oral iron therapeutic trial and reticulocytosis timing",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 50-year-old woman who undergoes specialized assessment in the outpatient center presenting with clinical features of iron deficiency, vitamin B12 deficiency, and thalassemia. Physical findings include fatigue, pallor, low hemoglobin, and abnormal MCV. Vital signs: blood pressure 114/74 mm Hg, heart rate 96/min, respiratory rate 24/min, and oxygen saturation 95% on room air. Which of the following represents the most appropriate long-term ambulatory management or secondary prevention strategy?",
+    "options": [
+      {
+        "text": "Reticulocyte count peak at 7 to 10 days followed by hemoglobin rise",
+        "explanation": "Effective oral iron supplementation produces an early reticulocyte response peaking at 7 to 10 days, followed by a 1 to 2 g/dL hemoglobin increase over 3 to 4 weeks.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Effective oral iron supplementation produces an early reticulocyte response peaking at 7 to 10 days, followed by a 1 to 2 g/dL hemoglobin increase over 3 to 4 weeks. In the management of iron deficiency, vitamin B12 deficiency, and thalassemia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Oral iron therapeutic trial and reticulocytosis timing.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Oral iron therapeutic trial and reticulocytosis timing."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0301",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "NICE guideline referral for unexplained iron deficiency anemia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old man with recent functional decline is brought by ambulance to the acute trauma and resuscitation suite for investigation of suspected iron deficiency, vitamin B12 deficiency, and thalassemia. Clinical signs demonstrate fatigue, pallor, low hemoglobin, and abnormal MCV. Vital signs: blood pressure 116/75 mm Hg, heart rate 99/min, respiratory rate 25/min, and oxygen saturation 97% on room air. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Urgent two-week wait suspected cancer pathway referral for colonoscopy",
+        "explanation": "NICE NG12 mandates urgent cancer pathway referral for endoscopy in men and postmenopausal women with unexplained iron deficiency anemia (Hb < 110 g/L in men, < 100 in women).",
+        "correct": true
+      }
+    ],
+    "explanation": "NICE NG12 mandates urgent cancer pathway referral for endoscopy in men and postmenopausal women with unexplained iron deficiency anemia (Hb < 110 g/L in men, < 100 in women). In the management of iron deficiency, vitamin B12 deficiency, and thalassemia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of NICE guideline referral for unexplained iron deficiency anemia.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of NICE guideline referral for unexplained iron deficiency anemia."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0302",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Thalassemia minor versus iron deficiency differentiation (Mentzer index)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old woman attends an ambulatory primary care review with recent symptom onset with progressive symptoms of iron deficiency, vitamin B12 deficiency, and thalassemia. Bedside assessment demonstrates fatigue, pallor, low hemoglobin, and abnormal MCV. Vital signs: blood pressure 118/76 mm Hg, heart rate 102/min, respiratory rate 26/min, and oxygen saturation 99% on room air. According to Australian therapeutic guidelines and AMC clinical standards, what is the most appropriate initial action?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Mentzer index (MCV / RBC count) < 13 suggesting beta-thalassemia trait",
+        "explanation": "A Mentzer index < 13 indicates microcytosis with an inappropriately high red blood cell count, characteristic of thalassemia trait rather than iron deficiency (Mentzer > 13).",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "A Mentzer index < 13 indicates microcytosis with an inappropriately high red blood cell count, characteristic of thalassemia trait rather than iron deficiency (Mentzer > 13). In the management of iron deficiency, vitamin B12 deficiency, and thalassemia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Thalassemia minor versus iron deficiency differentiation (Mentzer index).",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Thalassemia minor versus iron deficiency differentiation (Mentzer index)."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0303",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Pernicious anemia autoimmune pathogenesis and gastric antibodies",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 71-year-old man who is examined during morning inpatient rounds in the specialty ward due to suspected iron deficiency, vitamin B12 deficiency, and thalassemia. Physical examination reveals fatigue, pallor, low hemoglobin, and abnormal MCV. Vital signs: blood pressure 120/77 mm Hg, heart rate 105/min, respiratory rate 27/min, and oxygen saturation 92% on room air. In accordance with Medical Council of Canada clinical objectives, which of the following is the most appropriate initial step?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Autoantibodies directed against gastric parietal cells and intrinsic factor",
+        "explanation": "Pernicious anemia is an autoimmune gastritis that destroys gastric oxyntic mucosa, impairing intrinsic factor synthesis and terminating ileal cobalamin absorption.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Pernicious anemia is an autoimmune gastritis that destroys gastric oxyntic mucosa, impairing intrinsic factor synthesis and terminating ileal cobalamin absorption. In the management of iron deficiency, vitamin B12 deficiency, and thalassemia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Pernicious anemia autoimmune pathogenesis and gastric antibodies.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Pernicious anemia autoimmune pathogenesis and gastric antibodies."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0304",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Beta-thalassemia major transfusion dependency and iron chelation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 23-year-old woman with a history of chronic health complaints presents to the emergency department with acute worsening of iron deficiency, vitamin B12 deficiency, and thalassemia. Examination confirms fatigue, pallor, low hemoglobin, and abnormal MCV. Vital signs: blood pressure 122/78 mm Hg, heart rate 108/min, respiratory rate 14/min, and oxygen saturation 94% on room air. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Parenteral or oral iron chelation therapy (deferoxamine or deferasirox)",
+        "explanation": "Chronic transfusional iron overload causes hemosiderosis and fatal cardiomyopathy/endocrine failure, requiring daily iron chelation once serum ferritin > 1,000 mcg/L.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Chronic transfusional iron overload causes hemosiderosis and fatal cardiomyopathy/endocrine failure, requiring daily iron chelation once serum ferritin > 1,000 mcg/L. In the management of iron deficiency, vitamin B12 deficiency, and thalassemia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Beta-thalassemia major transfusion dependency and iron chelation.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Beta-thalassemia major transfusion dependency and iron chelation."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0305",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Serum ferritin diagnostic utility in microcytic hypochromic anemia",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is initiated for a 30-year-old man who is evaluated in the acute medical admission unit presenting with clinical features of iron deficiency, vitamin B12 deficiency, and thalassemia. Physical findings include fatigue, pallor, low hemoglobin, and abnormal MCV. Vital signs: blood pressure 124/79 mm Hg, heart rate 111/min, respiratory rate 15/min, and oxygen saturation 96% on room air. Which of the following is the most appropriate initial medical therapy or core clinical recommendation according to national licensing standards?",
+    "options": [
+      {
+        "text": "Serum ferritin < 15 to 30 ng/mL confirming absolute iron store depletion",
+        "explanation": "Serum ferritin reflects total-body macrophage iron storage; levels below 15\u201330 ng/mL are highly specific for true iron deficiency anemia in uncomplicated patients.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Serum ferritin reflects total-body macrophage iron storage; levels below 15\u201330 ng/mL are highly specific for true iron deficiency anemia in uncomplicated patients. In the management of iron deficiency, vitamin B12 deficiency, and thalassemia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Serum ferritin diagnostic utility in microcytic hypochromic anemia.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Serum ferritin diagnostic utility in microcytic hypochromic anemia."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0306",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Peripheral blood smear in megaloblastic anemia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old woman with recent functional decline attends a routine follow-up consultation in the outpatient clinic for investigation of suspected iron deficiency, vitamin B12 deficiency, and thalassemia. Clinical signs demonstrate fatigue, pallor, low hemoglobin, and abnormal MCV. Vital signs: blood pressure 126/80 mm Hg, heart rate 64/min, respiratory rate 16/min, and oxygen saturation 98% on room air. Which of the following represents the most characteristic clinical discriminator, drug of choice, or pathological hallmark?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Hypersegmented neutrophils with six or more nuclear lobes and macro-ovalocytes",
+        "explanation": "Impaired DNA synthesis causes nuclear-cytoplasmic dyssynchrony, producing characteristic giant oval erythrocytes (macro-ovalocytes) and hypersegmented neutrophils (>= 6 lobes).",
+        "correct": true
+      }
+    ],
+    "explanation": "Impaired DNA synthesis causes nuclear-cytoplasmic dyssynchrony, producing characteristic giant oval erythrocytes (macro-ovalocytes) and hypersegmented neutrophils (>= 6 lobes). In the management of iron deficiency, vitamin B12 deficiency, and thalassemia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Peripheral blood smear in megaloblastic anemia.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Peripheral blood smear in megaloblastic anemia."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0307",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Subacute combined degeneration of the spinal cord clinical presentation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man is admitted to the intensive care unit for close monitoring with progressive symptoms of iron deficiency, vitamin B12 deficiency, and thalassemia. Bedside assessment demonstrates fatigue, pallor, low hemoglobin, and abnormal MCV. Vital signs: blood pressure 128/81 mm Hg, heart rate 67/min, respiratory rate 17/min, and oxygen saturation 91% on room air. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Loss of vibration and proprioception combined with upper motor neuron signs",
+        "explanation": "Vitamin B12 deficiency causes demyelination of the dorsal columns (sensory ataxia, impaired position/vibration) and lateral corticospinal tracts (spastic paraparesis).",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Vitamin B12 deficiency causes demyelination of the dorsal columns (sensory ataxia, impaired position/vibration) and lateral corticospinal tracts (spastic paraparesis). In the management of iron deficiency, vitamin B12 deficiency, and thalassemia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Subacute combined degeneration of the spinal cord clinical presentation.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Subacute combined degeneration of the spinal cord clinical presentation."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0308",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Severe symptomatic anemia transfusion trigger in coronary artery disease",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 51-year-old woman who presents to a regional community health facility due to suspected iron deficiency, vitamin B12 deficiency, and thalassemia. Physical examination reveals fatigue, pallor, low hemoglobin, and abnormal MCV. Vital signs: blood pressure 130/82 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 93% on room air. Triage evaluation reveals acute physiological compromise. What is the most immediate emergency resuscitation intervention?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Restrictive transfusion trigger of hemoglobin < 70 to 80 g/L in stable inpatients",
+        "explanation": "Clinical trials (TRICC, FOCUS) support a restrictive transfusion threshold of 70\u201380 g/L, reserving transfusion for higher thresholds (80\u2013100 g/L) only in acute coronary syndrome.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Clinical trials (TRICC, FOCUS) support a restrictive transfusion threshold of 70\u201380 g/L, reserving transfusion for higher thresholds (80\u2013100 g/L) only in acute coronary syndrome. In the management of iron deficiency, vitamin B12 deficiency, and thalassemia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Severe symptomatic anemia transfusion trigger in coronary artery disease.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Severe symptomatic anemia transfusion trigger in coronary artery disease."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0309",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Sickle cell anemia acute painful vaso-occlusive crisis management",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 58-year-old man with a history of chronic health complaints is referred to the tertiary university medical service with acute worsening of iron deficiency, vitamin B12 deficiency, and thalassemia. Examination confirms fatigue, pallor, low hemoglobin, and abnormal MCV. Vital signs: blood pressure 132/83 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 95% on room air. According to Saudi medical licensing guidelines, what is the recommended initial management or diagnostic protocol?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive intravenous hydration, multimodal analgesia with opioids, and oxygen",
+        "explanation": "Microvascular occlusion by sickled erythrocytes causes intense ischemia and bone pain; management requires rapid opioid analgesia, hydration, and incentive spirometry.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Microvascular occlusion by sickled erythrocytes causes intense ischemia and bone pain; management requires rapid opioid analgesia, hydration, and incentive spirometry. In the management of iron deficiency, vitamin B12 deficiency, and thalassemia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Sickle cell anemia acute painful vaso-occlusive crisis management.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Sickle cell anemia acute painful vaso-occlusive crisis management."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0310",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Premarital hemoglobinopathy screening in high-prevalence populations",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 65-year-old woman who undergoes specialized assessment in the outpatient center presenting with clinical features of iron deficiency, vitamin B12 deficiency, and thalassemia. Physical findings include fatigue, pallor, low hemoglobin, and abnormal MCV. Vital signs: blood pressure 134/84 mm Hg, heart rate 76/min, respiratory rate 20/min, and oxygen saturation 97% on room air. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Hemoglobin electrophoresis or HPLC to identify thalassemia and sickle cell traits",
+        "explanation": "Premarital screening identifies carrier couples for hemoglobinopathies (beta-thalassemia, HbS), enabling genetic counseling and prenatal diagnosis to prevent major disorders.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Premarital screening identifies carrier couples for hemoglobinopathies (beta-thalassemia, HbS), enabling genetic counseling and prenatal diagnosis to prevent major disorders. In the management of iron deficiency, vitamin B12 deficiency, and thalassemia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Premarital hemoglobinopathy screening in high-prevalence populations.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of iron deficiency, vitamin B12 deficiency, and thalassemia in the context of Premarital hemoglobinopathy screening in high-prevalence populations."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];

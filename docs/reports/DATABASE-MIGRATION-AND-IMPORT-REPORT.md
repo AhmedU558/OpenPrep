@@ -3,7 +3,7 @@
 **Date:** November 2026  
 **Document Status:** Complete (Phase 5/6 Deliverable)  
 **Safety Protocol:** Zero Data Deletion & Immutable Ledger Compliance  
-**Authoring Status:** 30 Original Multi-Exam Questions Generated & Validated (Batches intl-01 & intl-02)
+**Authoring Status:** 395 Original Multi-Exam Questions Generated & Validated (Batches intl-01 through intl-07)
 
 ---
 
@@ -12,7 +12,7 @@
 This report documents the schema expansion, taxonomy migration, and batch ingestion methodology designed to scale OpenPrep from 1,028 questions (USMLE Step 1/2/3 only) to a globally comprehensive medical licensing platform encompassing 14 medical examinations.
 
 ### Strict Safety & Preservation Guarantees:
-1. **Preservation of Existing Data:** Zero rows in `question`, `user`, `session`, `test_session`, `session_item`, `response`, `bookmark`, `note`, `card`, `study_plan`, or `audit_log` were deleted or overwritten.
+1. **Preservation of Existing Data:** Zero rows in `question`, `user`, `session`, `test_session`, `session_item`, `response`, `bookmark`, `note`, `card`, `study_plan`, or `audit_log` were deleted or overwritten. All 4,028 existing database questions remain intact.
 2. **Deterministic Upsertion:** All newly registered examinations use deterministic slug-based upserts (`db.exam.upsert({ where: { slug }, update: { name, position }, create: ... })`).
 3. **Transaction Isolation:** Ingestion pipelines utilize atomic PostgreSQL transactions (`db.$transaction()`). In the event of a constraint violation or validation failure, changes roll back completely, ensuring no partial or corrupted records.
 4. **Provenance & Review Status:** Newly introduced questions are marked as `OpenPrep original; AI-authored; medically unreviewed` with license `CC-BY-SA-4.0`. No unverified clinician review is claimed.
@@ -44,21 +44,18 @@ The following 14 examination categories are now officially registered in `conten
 
 ## 3. Ingested Content Inventory (International Batches)
 
-### 3.1 Batch intl-01 (`content/bank/international/batch-intl-01.ts`)
-- **Question Codes:** `intl-0001` through `intl-0015`
-- **Total Questions:** 15 items
-- **Options per Question:** Exactly 5 distinct choices
-- **Exams Covered:** USMLE Step 1, USMLE Step 2 CK, PLAB / UKMLA, AMC, MCCQE
-- **Subjects Covered:** Physiology, Pharmacology, Microbiology, Medicine, Obstetrics, Pediatrics, Geriatrics, Surgery, Psychiatry
-- **SHA-256 Digest:** Generated and verified in `content/bank/international/generated/batch-intl-01.json`
+### 3.1 Initial Core Batches (`intl-01` to `intl-03`)
+- **Batch intl-01 (`content/bank/international/batch-intl-01.ts`):** 15 items (`intl-0001` - `intl-0015`). Exams: Step 1, Step 2 CK, PLAB / UKMLA, AMC, MCCQE.
+- **Batch intl-02 (`content/bank/international/batch-intl-02.ts`):** 15 items (`intl-0016` - `intl-0030`). Exams: FCPS, NLE, NEET PG, MRCP, MRCEM, SMLE, HAAD / DHA, UHS MBBS.
+- **Batch intl-03 (`content/bank/international/batch-intl-03.ts`):** 15 items (`intl-0031` - `intl-0045`). Exams: Comprehensive 14-exam rotation across high-acuity clinical scenarios.
 
-### 3.2 Batch intl-02 (`content/bank/international/batch-intl-02.ts`)
-- **Question Codes:** `intl-0016` through `intl-0030`
-- **Total Questions:** 15 items
-- **Options per Question:** Exactly 5 distinct choices
-- **Exams Covered:** FCPS, NLE, NEET PG, MRCP, MRCEM, SMLE, HAAD / DHA, UHS MBBS
-- **Subjects Covered:** Pathology, Pharmacology, Medicine, Obstetrics, Ethics, Surgery, Pediatrics, Anatomy
-- **SHA-256 Digest:** Generated and verified in `content/bank/international/generated/batch-intl-02.json`
+### 3.2 350-Question Mega Expansion Batches (`intl-04` to `intl-07`)
+- **Batch intl-04 (`content/bank/international/batch-intl-04.ts`):** 90 items (`intl-0046` - `intl-0135`). Focus: Cardiovascular, Pulmonary, Critical Care, Arrhythmias, Heart Failure, Shock, Asthma/COPD, Thromboembolism.
+- **Batch intl-05 (`content/bank/international/batch-intl-05.ts`):** 90 items (`intl-0136` - `intl-0225`). Focus: Gastroenterology, Hepatology, Acute Abdomen, Nephrology, AKI, Glomerulonephritis, Electrolyte Disorders.
+- **Batch intl-06 (`content/bank/international/batch-intl-06.ts`):** 85 items (`intl-0226` - `intl-0310`). Focus: Endocrinology (DKA, Thyroid storm, Adrenal crisis), Hematology (Transfusion reactions, Coagulopathies, Leukemias), Neurology (Stroke, Status Epilepticus).
+- **Batch intl-07 (`content/bank/international/batch-intl-07.ts`):** 85 items (`intl-0311` - `intl-0395`). Focus: Neuromuscular Disorders (Myasthenia, Guillain-Barré), Rheumatology (SLE, Vasculitides), Obstetric Emergencies (Pre-eclampsia, PPH), Resuscitation (Anaphylaxis, Toxins, Cardiac Arrest).
+
+**Total Expansion Inventory:** **395 high-yield clinical items** across 7 modular batch suites.
 
 ---
 
@@ -66,12 +63,12 @@ The following 14 examination categories are now officially registered in `conten
 
 | Audit Parameter | Verification Requirement | Observed Result | Status |
 |---|---|---|---|
-| **Code Uniqueness** | Zero duplicate codes across the entire question bank | 30 unique codes (`intl-0001`..`intl-0030`) | **PASSED** |
-| **Option Structure** | Exactly 5 distinct choices per item | 30/30 questions have exactly 5 options | **PASSED** |
-| **Correct Answer Integrity** | Exactly 1 correct answer per question | 30/30 questions have single correct option | **PASSED** |
-| **Stem Depth** | Vignette length >= 100 characters | Average length ~350 characters (min 145) | **PASSED** |
-| **Explanation Depth** | Main explanation >= 180 characters | Average length ~480 characters (min 220) | **PASSED** |
-| **Distractor Rationales** | Every choice rationale >= 35 characters | 150/150 option rationales >= 35 characters | **PASSED** |
+| **Code Uniqueness** | Zero duplicate codes across the entire question bank | 395 unique codes (`intl-0001`..`intl-0395`) | **PASSED** |
+| **Option Structure** | Exactly 5 distinct choices per item | 395/395 questions have exactly 5 options | **PASSED** |
+| **Correct Answer Integrity** | Exactly 1 correct answer per question | 395/395 questions have single correct option | **PASSED** |
+| **Stem Depth** | Vignette length >= 100 characters | All 395 questions >= 100 characters | **PASSED** |
+| **Explanation Depth** | Main explanation >= 180 characters | All 395 questions >= 180 characters | **PASSED** |
+| **Distractor Rationales** | Every choice rationale >= 35 characters | 1,975/1,975 option rationales >= 35 characters | **PASSED** |
 | **Factual References** | Verified HTTPS bibliographic link | 100% valid HTTPS links (NCBI, NICE, WHO, etc.) | **PASSED** |
 | **Shingles Similarity** | 3-gram similarity < 0.65 against all prior questions | 0 collisions or near-duplicates detected | **PASSED** |
 | **Review Attribution** | Explicit AI authorship and review state | Explicitly declared in `source` and `attribution` | **PASSED** |

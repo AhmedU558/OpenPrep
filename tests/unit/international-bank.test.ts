@@ -1,16 +1,24 @@
 import { describe, expect, it } from 'vitest';
 import { bankQuestionSchema, validateBank } from '@/lib/question-bank';
+import type { QuestionContent } from '@/lib/validation/content';
 import { questions as bIntl1 } from '../../content/bank/international/batch-intl-01';
 import { questions as bIntl2 } from '../../content/bank/international/batch-intl-02';
 import { questions as bIntl3 } from '../../content/bank/international/batch-intl-03';
+import { questions as bIntl4 } from '../../content/bank/international/batch-intl-04';
+import { questions as bIntl5 } from '../../content/bank/international/batch-intl-05';
+import { questions as bIntl6 } from '../../content/bank/international/batch-intl-06';
+import { questions as bIntl7 } from '../../content/bank/international/batch-intl-07';
 import { questions as b1 } from '../../content/bank/batch-01';
 
 describe('international question bank expansion', () => {
-  const allIntl = [...bIntl1, ...bIntl2, ...bIntl3];
+  const allIntl: QuestionContent[] = [
+    ...bIntl1, ...bIntl2, ...bIntl3,
+    ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7
+  ];
 
-  it('contains 45 comprehensive original questions across all target exams', () => {
-    expect(allIntl).toHaveLength(45);
-    expect(new Set(allIntl.map((q) => q.code)).size).toBe(45);
+  it('contains 395 comprehensive original questions across all target exams', () => {
+    expect(allIntl).toHaveLength(395);
+    expect(new Set(allIntl.map((q) => q.code)).size).toBe(395);
 
     const exams = new Set(allIntl.map((q) => q.exam));
     expect(exams).toContain('Step 1');

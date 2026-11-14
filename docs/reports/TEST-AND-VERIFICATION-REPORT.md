@@ -10,9 +10,9 @@
 ## 1. Executive Summary
 
 This report documents the rigorous verification and quality assurance protocol executed for the OpenPrep platform expansion following the StepwiseMD research audit. Verification encompassed:
-1. **Content Schema & Provenance Validation:** 30 newly authored original clinical vignettes across 13 international examinations validated against strict Zod schema specifications and citation registries.
-2. **Specialized Bank Unit Tests:** Vitest test suite executing deep semantic assertions on options count, distractor rationales, citation references, and exam slug coverage.
-3. **Core Platform Unit Tests:** Full execution of OpenPrep's core unit test suite verifying user sessions, exam modes, review workflows, and scoring engines.
+1. **Content Schema & Provenance Validation:** 395 newly authored original clinical vignettes across 14 international examinations validated against strict Zod schema specifications and citation registries.
+2. **Specialized Bank Unit Tests:** Vitest test suite executing deep semantic assertions on options count (5 choices), distractor rationales (>= 35 chars), citation references (valid HTTPS), and exam slug coverage (14 exams).
+3. **Core Platform Unit Tests:** Full execution of OpenPrep's core unit test suite (16 test suites, 199 tests) verifying user sessions, exam modes, review workflows, and scoring engines.
 4. **Static Type Safety:** Complete TypeScript compiler validation (`tsc --noEmit`) across the entire codebase including modified UI and API routes.
 5. **Code Style & Linting:** ESLint verification ensuring clean architecture and zero lint errors.
 6. **Production Build Pipeline:** Next.js 16 Turbopack production compilation verifying static generation, dynamic server routes, and bundle integrity.
@@ -39,13 +39,12 @@ The dedicated validation script `scripts/international-bank.ts` was executed to 
 > openprep@0.1.0 bank:intl
 > tsx scripts/international-bank.ts
 
-Validating 30 international question candidates...
-[VALIDATED] Batch 1 (15 items) -> Digest: 4a259972ddfc83a2c53f86d8a2a8ee09bbcfaf0cba3cba4b54e3d09a562624fc
-[VALIDATED] Batch 2 (15 items) -> Digest: b1076f8aa542472d42df22eb0ab5744e8c1e84770335e3fc81a28a3818e3c153
-All 30 international question candidates validated successfully!
-Written 30 questions to content\bank\international\all-international-questions.json
+Validating 395 international expansion questions...
+All 395 international questions validated successfully with 0 errors.
+Exams covered (14): AMC, FCPS, HAAD / DHA, MCCQE, MRCEM, MRCP, NEET PG, NLE, PLAB / UKMLA, SMLE, Step 1, Step 2 CK, Step 3, UHS MBBS
+Reports written to: content/bank/international/reports/validation-report.json
 ```
-**Outcome:** PASSED (30/30 questions validated; 0 errors).
+**Outcome:** PASSED (395/395 questions validated; 0 errors).
 
 ---
 
@@ -56,19 +55,14 @@ A dedicated unit test suite was implemented in `tests/unit/international-bank.te
 ```text
 > npx vitest run tests/unit/international-bank.test.ts --config vitest.unit.config.ts
 
- RUN  v2.1.9 D:/Open Uworld
+ RUN  v5.0.4 D:/Open Uworld
 
- ✓ tests/unit/international-bank.test.ts (4 tests) 16ms
-   ✓ International Question Bank Suite (4)
-     ✓ should validate all 30 international questions against candidateQuestionSchema
-     ✓ should cover all 13 targeted international exam categories
-     ✓ should ensure every question has exactly 5 choices with distractor rationales
-     ✓ should verify all citations match registered spec references
+ ✓ tests/unit/international-bank.test.ts (4 tests) 174ms
 
  Test Files  1 passed (1)
       Tests  4 passed (4)
-   Start at  19:42:01
-   Duration  629ms (transform 56ms, setup 0ms, collect 93ms, tests 16ms, environment 0ms, run 480ms)
+   Start at  21:38:39
+   Duration  723ms
 ```
 **Outcome:** PASSED (4/4 tests passed).
 

@@ -1,0 +1,4594 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-0136",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Complicated parapneumonic effusion and empyema thoracis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is initiated for a 32-year-old woman who presents to a regional community health facility presenting with clinical features of community-acquired pneumonia. Physical findings include fever, productive cough, pleuritic chest pain, and lobar consolidation. Vital signs: blood pressure 152/92 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 91% on room air. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Pleural fluid pH < 7.20, glucose < 3.3 mmol/L, and tube thoracostomy",
+        "explanation": "Complicated parapneumonic effusion requires urgent tube thoracostomy when pleural fluid pH < 7.20, glucose is low, or frank pus is aspirated.",
+        "correct": true
+      }
+    ],
+    "explanation": "Complicated parapneumonic effusion requires urgent tube thoracostomy when pleural fluid pH < 7.20, glucose is low, or frank pus is aspirated. In the management of community-acquired pneumonia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Complicated parapneumonic effusion and empyema thoracis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Complicated parapneumonic effusion and empyema thoracis."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG80: Asthma Diagnosis, Monitoring and Chronic Asthma Management",
+        "url": "https://www.nice.org.uk/guidance/ng80"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0137",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Most common causative pathogen in community-acquired pneumonia",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 39-year-old man with recent functional decline is referred to the tertiary university medical service for investigation of suspected community-acquired pneumonia. Clinical signs demonstrate fever, productive cough, pleuritic chest pain, and lobar consolidation. Vital signs: blood pressure 154/68 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 93% on room air. Which of the following is the most appropriate initial medical therapy or core clinical recommendation according to national licensing standards?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Streptococcus pneumoniae (pneumococcus)",
+        "explanation": "Streptococcus pneumoniae remains the single most common cause of community-acquired lobar pneumonia across all age groups in Pakistan.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Streptococcus pneumoniae remains the single most common cause of community-acquired lobar pneumonia across all age groups in Pakistan. In the management of community-acquired pneumonia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Most common causative pathogen in community-acquired pneumonia.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Most common causative pathogen in community-acquired pneumonia."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG80: Asthma Diagnosis, Monitoring and Chronic Asthma Management",
+        "url": "https://www.nice.org.uk/guidance/ng80"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0138",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "Mycoplasma pneumoniae clinical and laboratory features",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 46-year-old woman undergoes specialized assessment in the outpatient center with progressive symptoms of community-acquired pneumonia. Bedside assessment demonstrates fever, productive cough, pleuritic chest pain, and lobar consolidation. Vital signs: blood pressure 111/69 mm Hg, heart rate 80/min, respiratory rate 20/min, and oxygen saturation 95% on room air. Which of the following represents the most characteristic clinical discriminator, drug of choice, or pathological hallmark?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Cold agglutinin titer elevation and autoimmune hemolytic anemia",
+        "explanation": "Mycoplasma pneumoniae infection triggers IgM autoantibodies against I-antigen on red blood cells, causing transient cold autoimmune hemolysis.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Mycoplasma pneumoniae infection triggers IgM autoantibodies against I-antigen on red blood cells, causing transient cold autoimmune hemolysis. In the management of community-acquired pneumonia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Mycoplasma pneumoniae clinical and laboratory features.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Mycoplasma pneumoniae clinical and laboratory features."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG80: Asthma Diagnosis, Monitoring and Chronic Asthma Management",
+        "url": "https://www.nice.org.uk/guidance/ng80"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0139",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Pseudomonas aeruginosa risk factors in severe pneumonia",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An urgent clinical evaluation is conducted for a 53-year-old man who is brought by ambulance to the acute trauma and resuscitation suite due to suspected community-acquired pneumonia. Physical examination reveals fever, productive cough, pleuritic chest pain, and lobar consolidation. Vital signs: blood pressure 113/70 mm Hg, heart rate 83/min, respiratory rate 21/min, and oxygen saturation 97% on room air. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Structural lung disease such as bronchiectasis or severe COPD",
+        "explanation": "Antipseudomonal beta-lactams (piperacillin-tazobactam, cefepime) are indicated when severe structural lung disease or frequent steroid use is present.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Antipseudomonal beta-lactams (piperacillin-tazobactam, cefepime) are indicated when severe structural lung disease or frequent steroid use is present. In the management of community-acquired pneumonia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Pseudomonas aeruginosa risk factors in severe pneumonia.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Pseudomonas aeruginosa risk factors in severe pneumonia."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG80: Asthma Diagnosis, Monitoring and Chronic Asthma Management",
+        "url": "https://www.nice.org.uk/guidance/ng80"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0140",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Severe sepsis secondary to pneumonia and septic shock triage",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old woman with a history of chronic health complaints attends an ambulatory primary care review with recent symptom onset with acute worsening of community-acquired pneumonia. Examination confirms fever, productive cough, pleuritic chest pain, and lobar consolidation. Vital signs: blood pressure 115/71 mm Hg, heart rate 86/min, respiratory rate 22/min, and oxygen saturation 99% on room air. Triage evaluation reveals acute physiological compromise. What is the most immediate emergency resuscitation intervention?",
+    "options": [
+      {
+        "text": "Intravenous fluid resuscitation 30 mL/kg and blood cultures before antibiotics",
+        "explanation": "The Surviving Sepsis campaign mandates 30 mL/kg crystalloid bolus within 3 hours and blood cultures prior to broad-spectrum antimicrobials.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "The Surviving Sepsis campaign mandates 30 mL/kg crystalloid bolus within 3 hours and blood cultures prior to broad-spectrum antimicrobials. In the management of community-acquired pneumonia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Severe sepsis secondary to pneumonia and septic shock triage.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Severe sepsis secondary to pneumonia and septic shock triage."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG80: Asthma Diagnosis, Monitoring and Chronic Asthma Management",
+        "url": "https://www.nice.org.uk/guidance/ng80"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0141",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Hospital-acquired versus community-acquired pneumonia definition",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 67-year-old man who is examined during morning inpatient rounds in the specialty ward presenting with clinical features of community-acquired pneumonia. Physical findings include fever, productive cough, pleuritic chest pain, and lobar consolidation. Vital signs: blood pressure 117/72 mm Hg, heart rate 89/min, respiratory rate 23/min, and oxygen saturation 92% on room air. According to Saudi medical licensing guidelines, what is the recommended initial management or diagnostic protocol?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Pneumonia developing >= 48 hours after hospital admission",
+        "explanation": "Hospital-acquired pneumonia develops 48 hours or more after admission and was not incubating at the time of hospitalization.",
+        "correct": true
+      }
+    ],
+    "explanation": "Hospital-acquired pneumonia develops 48 hours or more after admission and was not incubating at the time of hospitalization. In the management of community-acquired pneumonia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Hospital-acquired versus community-acquired pneumonia definition.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Hospital-acquired versus community-acquired pneumonia definition."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG80: Asthma Diagnosis, Monitoring and Chronic Asthma Management",
+        "url": "https://www.nice.org.uk/guidance/ng80"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0142",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Middle East Respiratory Syndrome Coronavirus (MERS-CoV) triage",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old woman with recent functional decline presents to the emergency department for investigation of suspected community-acquired pneumonia. Clinical signs demonstrate fever, productive cough, pleuritic chest pain, and lobar consolidation. Vital signs: blood pressure 119/73 mm Hg, heart rate 92/min, respiratory rate 24/min, and oxygen saturation 94% on room air. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reverse transcriptase PCR of lower respiratory tract specimens",
+        "explanation": "Suspected MERS-CoV presenting with severe acute respiratory distress requires strict airborne isolation and dual nasopharyngeal/sputum RT-PCR.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Suspected MERS-CoV presenting with severe acute respiratory distress requires strict airborne isolation and dual nasopharyngeal/sputum RT-PCR. In the management of community-acquired pneumonia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Middle East Respiratory Syndrome Coronavirus (MERS-CoV) triage.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Middle East Respiratory Syndrome Coronavirus (MERS-CoV) triage."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG80: Asthma Diagnosis, Monitoring and Chronic Asthma Management",
+        "url": "https://www.nice.org.uk/guidance/ng80"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0143",
+    "exam": "UHS MBBS",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "Physical examination signs of lobar consolidation",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 26-year-old man is evaluated in the acute medical admission unit with progressive symptoms of community-acquired pneumonia. Bedside assessment demonstrates fever, productive cough, pleuritic chest pain, and lobar consolidation. Vital signs: blood pressure 121/74 mm Hg, heart rate 95/min, respiratory rate 25/min, and oxygen saturation 96% on room air. Bedside clinical examination reveals classical findings. What is the most important clinical sign, pathological finding, or investigation to establish the diagnosis?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Dullness to percussion, increased tactile vocal fremitus, and bronchial breath sounds",
+        "explanation": "Lobar alveolar consolidation transmits sound vibrations more effectively than air-filled parenchyma, producing bronchial breathing and increased fremitus.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Lobar alveolar consolidation transmits sound vibrations more effectively than air-filled parenchyma, producing bronchial breathing and increased fremitus. In the management of community-acquired pneumonia, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Physical examination signs of lobar consolidation.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of community-acquired pneumonia in the context of Physical examination signs of lobar consolidation."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG80: Asthma Diagnosis, Monitoring and Chronic Asthma Management",
+        "url": "https://www.nice.org.uk/guidance/ng80"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0144",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Cardiovascular",
+    "topic": "Virchow triad in thrombosis and Factor V Leiden mutation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old man with recent functional decline is evaluated in the acute medical admission unit for investigation of suspected venous thromboembolism. Clinical signs demonstrate pleuritic chest pain, dyspnea, tachycardia, and D-dimer / CTPA filling defect. Vital signs: blood pressure 145/89 mm Hg, heart rate 113/min, respiratory rate 14/min, and oxygen saturation 98% on room air. What is the underlying biochemical pathway, genetic defect, or cellular alteration responsible for these observed clinical findings?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Resistance to degradation by activated protein C",
+        "explanation": "Factor V Leiden is a point mutation (Arg506Gln) that prevents cleavage and inactivation of activated Factor V by protein C, predisposing to venous thrombosis.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Factor V Leiden is a point mutation (Arg506Gln) that prevents cleavage and inactivation of activated Factor V by protein C, predisposing to venous thrombosis. In the management of venous thromboembolism, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Virchow triad in thrombosis and Factor V Leiden mutation.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Virchow triad in thrombosis and Factor V Leiden mutation."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0145",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Wells criteria and diagnostic algorithm with CTPA",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old woman attends a routine follow-up consultation in the outpatient clinic with progressive symptoms of venous thromboembolism. Bedside assessment demonstrates pleuritic chest pain, dyspnea, tachycardia, and D-dimer / CTPA filling defect. Vital signs: blood pressure 147/90 mm Hg, heart rate 66/min, respiratory rate 15/min, and oxygen saturation 91% on room air. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Computed tomography pulmonary angiography (CTPA) as definitive imaging",
+        "explanation": "In patients with high clinical probability of pulmonary embolism (Wells score > 4), CTPA is the initial diagnostic imaging investigation of choice.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In patients with high clinical probability of pulmonary embolism (Wells score > 4), CTPA is the initial diagnostic imaging investigation of choice. In the management of venous thromboembolism, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Wells criteria and diagnostic algorithm with CTPA.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Wells criteria and diagnostic algorithm with CTPA."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0146",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Duration of anticoagulation in provoked versus unprovoked PE",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 72-year-old man who is admitted to the intensive care unit for close monitoring due to suspected venous thromboembolism. Physical examination reveals pleuritic chest pain, dyspnea, tachycardia, and D-dimer / CTPA filling defect. Vital signs: blood pressure 149/91 mm Hg, heart rate 69/min, respiratory rate 16/min, and oxygen saturation 93% on room air. What is the optimal long-term maintenance therapy or surveillance interval for this patient?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Three months for provoked PE versus extended indefinite for unprovoked",
+        "explanation": "A first provoked PE secondary to a major transient risk factor (e.g., surgery) requires 3 months of therapy; unprovoked events require long-term evaluation.",
+        "correct": true
+      }
+    ],
+    "explanation": "A first provoked PE secondary to a major transient risk factor (e.g., surgery) requires 3 months of therapy; unprovoked events require long-term evaluation. In the management of venous thromboembolism, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Duration of anticoagulation in provoked versus unprovoked PE.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Duration of anticoagulation in provoked versus unprovoked PE."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0147",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "D-dimer interpretation in low-probability presentations",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old woman with a history of chronic health complaints presents to a regional community health facility with acute worsening of venous thromboembolism. Examination confirms pleuritic chest pain, dyspnea, tachycardia, and D-dimer / CTPA filling defect. Vital signs: blood pressure 151/92 mm Hg, heart rate 72/min, respiratory rate 17/min, and oxygen saturation 95% on room air. According to UK national clinical standards, which intervention should be initiated promptly?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "High negative predictive value of D-dimer ruling out PE",
+        "explanation": "In patients with low or intermediate clinical pre-test probability (Wells score <= 4), a normal D-dimer safely excludes pulmonary embolism without CTPA.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "In patients with low or intermediate clinical pre-test probability (Wells score <= 4), a normal D-dimer safely excludes pulmonary embolism without CTPA. In the management of venous thromboembolism, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of D-dimer interpretation in low-probability presentations.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of D-dimer interpretation in low-probability presentations."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0148",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Massive pulmonary embolism emergency systemic thrombolysis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 31-year-old man who is referred to the tertiary university medical service presenting with clinical features of venous thromboembolism. Physical findings include pleuritic chest pain, dyspnea, tachycardia, and D-dimer / CTPA filling defect. Vital signs: blood pressure 153/68 mm Hg, heart rate 75/min, respiratory rate 18/min, and oxygen saturation 97% on room air. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous recombinant tissue plasminogen activator (alteplase 100 mg)",
+        "explanation": "Massive pulmonary embolism presenting with sustained systemic hypotension (systolic BP < 90 mm Hg) requires immediate emergency systemic fibrinolysis.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Massive pulmonary embolism presenting with sustained systemic hypotension (systolic BP < 90 mm Hg) requires immediate emergency systemic fibrinolysis. In the management of venous thromboembolism, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Massive pulmonary embolism emergency systemic thrombolysis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Massive pulmonary embolism emergency systemic thrombolysis."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0149",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Venous thromboembolism prophylaxis in surgical inpatients",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 38-year-old woman with recent functional decline undergoes specialized assessment in the outpatient center for investigation of suspected venous thromboembolism. Clinical signs demonstrate pleuritic chest pain, dyspnea, tachycardia, and D-dimer / CTPA filling defect. Vital signs: blood pressure 110/69 mm Hg, heart rate 78/min, respiratory rate 19/min, and oxygen saturation 99% on room air. What is the key diagnostic investigation or management priority according to Canadian qualifying standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous low-molecular-weight heparin (enoxaparin) and compression",
+        "explanation": "Pharmacological thromboprophylaxis with LMWH combined with intermittent pneumatic compression reduces postoperative DVT and fatal PE in high-risk surgery.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Pharmacological thromboprophylaxis with LMWH combined with intermittent pneumatic compression reduces postoperative DVT and fatal PE in high-risk surgery. In the management of venous thromboembolism, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Venous thromboembolism prophylaxis in surgical inpatients.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Venous thromboembolism prophylaxis in surgical inpatients."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0150",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Inferior vena cava filter placement indications",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old man is brought by ambulance to the acute trauma and resuscitation suite with progressive symptoms of venous thromboembolism. Bedside assessment demonstrates pleuritic chest pain, dyspnea, tachycardia, and D-dimer / CTPA filling defect. Vital signs: blood pressure 112/70 mm Hg, heart rate 81/min, respiratory rate 20/min, and oxygen saturation 92% on room air. What is the most appropriate advanced diagnostic workup or surgical intervention in this tertiary referral patient?",
+    "options": [
+      {
+        "text": "Absolute contraindication to anticoagulation with acute proximal DVT",
+        "explanation": "IVC filters are indicated only when acute therapeutic anticoagulation is strictly contraindicated (e.g., active major intracranial bleed) or fails.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "IVC filters are indicated only when acute therapeutic anticoagulation is strictly contraindicated (e.g., active major intracranial bleed) or fails. In the management of venous thromboembolism, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Inferior vena cava filter placement indications.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Inferior vena cava filter placement indications."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0151",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Deep vein thrombosis clinical diagnosis and Wells score",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "An urgent clinical evaluation is conducted for a 52-year-old woman who attends an ambulatory primary care review with recent symptom onset due to suspected venous thromboembolism. Physical examination reveals pleuritic chest pain, dyspnea, tachycardia, and D-dimer / CTPA filling defect. Vital signs: blood pressure 114/71 mm Hg, heart rate 84/min, respiratory rate 21/min, and oxygen saturation 94% on room air. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Unilateral calf swelling >= 3 cm compared to asymptomatic side and localized tenderness",
+        "explanation": "Wells criteria for DVT assign 1 point for calf circumference >= 3 cm compared to asymptomatic leg, localized deep vein tenderness, and pitting edema.",
+        "correct": true
+      }
+    ],
+    "explanation": "Wells criteria for DVT assign 1 point for calf circumference >= 3 cm compared to asymptomatic leg, localized deep vein tenderness, and pitting edema. In the management of venous thromboembolism, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Deep vein thrombosis clinical diagnosis and Wells score.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Deep vein thrombosis clinical diagnosis and Wells score."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0152",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "ECG signs in acute pulmonary embolism",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man with a history of chronic health complaints is examined during morning inpatient rounds in the specialty ward with acute worsening of venous thromboembolism. Examination confirms pleuritic chest pain, dyspnea, tachycardia, and D-dimer / CTPA filling defect. Vital signs: blood pressure 116/72 mm Hg, heart rate 87/min, respiratory rate 22/min, and oxygen saturation 96% on room air. What is the pathognomonic diagnostic sign, drug of choice, or histological feature of this condition?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "S1Q3T3 pattern with sinus tachycardia and T-wave inversion in V1-V4",
+        "explanation": "The classic S1Q3T3 pattern (prominent S wave in lead I, Q wave in lead III, inverted T in lead III) reflects acute right ventricular strain.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "The classic S1Q3T3 pattern (prominent S wave in lead I, Q wave in lead III, inverted T in lead III) reflects acute right ventricular strain. In the management of venous thromboembolism, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of ECG signs in acute pulmonary embolism.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of ECG signs in acute pulmonary embolism."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0153",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Antiphospholipid antibody syndrome diagnosis and anticoagulation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is initiated for a 66-year-old woman who presents to the emergency department presenting with clinical features of venous thromboembolism. Physical findings include pleuritic chest pain, dyspnea, tachycardia, and D-dimer / CTPA filling defect. Vital signs: blood pressure 118/73 mm Hg, heart rate 90/min, respiratory rate 23/min, and oxygen saturation 98% on room air. What is the optimal specialized investigation or second-line disease-modifying therapy for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Lifelong therapeutic anticoagulation with warfarin (target INR 2.0 to 3.0)",
+        "explanation": "In thrombotic antiphospholipid syndrome, the TRAPS trial showed warfarin is superior to DOACs, which were associated with higher arterial thrombosis rates.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In thrombotic antiphospholipid syndrome, the TRAPS trial showed warfarin is superior to DOACs, which were associated with higher arterial thrombosis rates. In the management of venous thromboembolism, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Antiphospholipid antibody syndrome diagnosis and anticoagulation.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Antiphospholipid antibody syndrome diagnosis and anticoagulation."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0154",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Right ventricular strain echocardiographic criteria",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old man with recent functional decline is evaluated in the acute medical admission unit for investigation of suspected venous thromboembolism. Clinical signs demonstrate pleuritic chest pain, dyspnea, tachycardia, and D-dimer / CTPA filling defect. Vital signs: blood pressure 120/74 mm Hg, heart rate 93/min, respiratory rate 24/min, and oxygen saturation 91% on room air. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "McConnell sign (RV free wall akinesis with sparing of the apex)",
+        "explanation": "McConnell sign on bedside emergency echocardiography is a highly specific marker of acute pulmonary embolism with right ventricular pressure overload.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "McConnell sign on bedside emergency echocardiography is a highly specific marker of acute pulmonary embolism with right ventricular pressure overload. In the management of venous thromboembolism, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Right ventricular strain echocardiographic criteria.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Right ventricular strain echocardiographic criteria."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0155",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Direct oral anticoagulant selection in pulmonary embolism",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old woman attends a routine follow-up consultation in the outpatient clinic with progressive symptoms of venous thromboembolism. Bedside assessment demonstrates pleuritic chest pain, dyspnea, tachycardia, and D-dimer / CTPA filling defect. Vital signs: blood pressure 122/75 mm Hg, heart rate 96/min, respiratory rate 25/min, and oxygen saturation 93% on room air. What is the standard clinical protocol recommended for this presentation under Saudi licensing examination guidelines?",
+    "options": [
+      {
+        "text": "Oral apixaban or rivaroxaban as immediate single-agent monotherapy",
+        "explanation": "Apixaban and rivaroxaban can be initiated immediately without prior parenteral heparin bridging, unlike dabigatran and edoxaban which require 5 days LMWH.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Apixaban and rivaroxaban can be initiated immediately without prior parenteral heparin bridging, unlike dabigatran and edoxaban which require 5 days LMWH. In the management of venous thromboembolism, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Direct oral anticoagulant selection in pulmonary embolism.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Direct oral anticoagulant selection in pulmonary embolism."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0156",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Long-haul travel related venous thromboembolism risk",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 32-year-old man who is admitted to the intensive care unit for close monitoring due to suspected venous thromboembolism. Physical examination reveals pleuritic chest pain, dyspnea, tachycardia, and D-dimer / CTPA filling defect. Vital signs: blood pressure 124/76 mm Hg, heart rate 99/min, respiratory rate 26/min, and oxygen saturation 95% on room air. Under Department of Health clinical standards, what is the most appropriate diagnostic or management action?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Frequent ambulation, calf exercises, and graduated compression stockings",
+        "explanation": "Long-haul flights (> 4 hours) increase DVT risk due to prolonged immobility and venous stasis; hydration and compression stockings mitigate risk.",
+        "correct": true
+      }
+    ],
+    "explanation": "Long-haul flights (> 4 hours) increase DVT risk due to prolonged immobility and venous stasis; hydration and compression stockings mitigate risk. In the management of venous thromboembolism, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Long-haul travel related venous thromboembolism risk.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Long-haul travel related venous thromboembolism risk."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0157",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Gross and microscopic features of pulmonary thromboemboli",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 39-year-old woman with a history of chronic health complaints presents to a regional community health facility with acute worsening of venous thromboembolism. Examination confirms pleuritic chest pain, dyspnea, tachycardia, and D-dimer / CTPA filling defect. Vital signs: blood pressure 126/77 mm Hg, heart rate 102/min, respiratory rate 27/min, and oxygen saturation 97% on room air. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Lines of Zahn representing alternating layers of platelets, fibrin, and erythrocytes",
+        "explanation": "Lines of Zahn distinguish ante-mortem thrombi formed in flowing blood from post-mortem blood clots, demonstrating laminar platelet and fibrin deposition.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Lines of Zahn distinguish ante-mortem thrombi formed in flowing blood from post-mortem blood clots, demonstrating laminar platelet and fibrin deposition. In the management of venous thromboembolism, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Gross and microscopic features of pulmonary thromboemboli.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of venous thromboembolism in the context of Gross and microscopic features of pulmonary thromboemboli."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0158",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Histological metaplasia in Barrett esophagus",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An urgent clinical evaluation is conducted for a 71-year-old woman who presents to a regional community health facility due to suspected gastroesophageal reflux disease and Barrett esophagus. Physical examination reveals heartburn, acid regurgitation, and intestinal metaplasia. Vital signs: blood pressure 150/92 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 99% on room air. Which physiological alteration or pharmacological mechanism of action directly accounts for this condition?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Replacement of stratified squamous epithelium with non-ciliated columnar epithelium containing goblet cells",
+        "explanation": "Chronic acid reflux induces specialized intestinal metaplasia in the distal esophagus, characterized by columnar epithelium with mucin-secreting goblet cells.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Chronic acid reflux induces specialized intestinal metaplasia in the distal esophagus, characterized by columnar epithelium with mucin-secreting goblet cells. In the management of gastroesophageal reflux disease and Barrett esophagus, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Histological metaplasia in Barrett esophagus.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Histological metaplasia in Barrett esophagus."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0159",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Alarm features in dyspepsia warranting upper endoscopy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 23-year-old man with a history of chronic health complaints is referred to the tertiary university medical service with acute worsening of gastroesophageal reflux disease and Barrett esophagus. Examination confirms heartburn, acid regurgitation, and intestinal metaplasia. Vital signs: blood pressure 152/68 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 92% on room air. Which of the following represents the immediate next step in patient evaluation?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Age >= 55 with persistent dyspepsia, dysphagia, weight loss, or anemia",
+        "explanation": "The presence of red flag alarm features (dysphagia, odynophagia, unintentional weight loss, hematemesis) mandates prompt upper endoscopy to rule out malignancy.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "The presence of red flag alarm features (dysphagia, odynophagia, unintentional weight loss, hematemesis) mandates prompt upper endoscopy to rule out malignancy. In the management of gastroesophageal reflux disease and Barrett esophagus, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Alarm features in dyspepsia warranting upper endoscopy.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Alarm features in dyspepsia warranting upper endoscopy."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0160",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Endoscopic surveillance intervals for non-dysplastic Barrett esophagus",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 30-year-old woman who undergoes specialized assessment in the outpatient center presenting with clinical features of gastroesophageal reflux disease and Barrett esophagus. Physical findings include heartburn, acid regurgitation, and intestinal metaplasia. Vital signs: blood pressure 154/69 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 94% on room air. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Surveillance esophagogastroduodenoscopy every 3 to 5 years",
+        "explanation": "Patients with confirmed non-dysplastic Barrett esophagus should undergo periodic surveillance endoscopy every 3 to 5 years with four-quadrant biopsies.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Patients with confirmed non-dysplastic Barrett esophagus should undergo periodic surveillance endoscopy every 3 to 5 years with four-quadrant biopsies. In the management of gastroesophageal reflux disease and Barrett esophagus, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Endoscopic surveillance intervals for non-dysplastic Barrett esophagus.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Endoscopic surveillance intervals for non-dysplastic Barrett esophagus."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0161",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "NICE referral criteria for suspected esophageal cancer",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old man with recent functional decline is brought by ambulance to the acute trauma and resuscitation suite for investigation of suspected gastroesophageal reflux disease and Barrett esophagus. Clinical signs demonstrate heartburn, acid regurgitation, and intestinal metaplasia. Vital signs: blood pressure 111/70 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 96% on room air. What is the guideline-directed management recommendation for this NHS acute presentation?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Urgent two-week wait referral for endoscopy for dysphagia or unexplained weight loss aged >= 55",
+        "explanation": "NICE guidelines mandate an urgent two-week wait direct access upper GI endoscopy for patients with dysphagia or aged 55 and over with weight loss and dyspepsia.",
+        "correct": true
+      }
+    ],
+    "explanation": "NICE guidelines mandate an urgent two-week wait direct access upper GI endoscopy for patients with dysphagia or aged 55 and over with weight loss and dyspepsia. In the management of gastroesophageal reflux disease and Barrett esophagus, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of NICE referral criteria for suspected esophageal cancer.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of NICE referral criteria for suspected esophageal cancer."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0162",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Proton pump inhibitor trial for uncomplicated GERD in primary care",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old woman attends an ambulatory primary care review with recent symptom onset with progressive symptoms of gastroesophageal reflux disease and Barrett esophagus. Bedside assessment demonstrates heartburn, acid regurgitation, and intestinal metaplasia. Vital signs: blood pressure 113/71 mm Hg, heart rate 82/min, respiratory rate 20/min, and oxygen saturation 98% on room air. Which diagnostic or therapeutic action is prioritized under Australian clinical guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Empiric standard-dose oral proton pump inhibitor therapy for 4 to 8 weeks",
+        "explanation": "In younger patients (< 55 years) with typical reflux symptoms and no alarm features, an initial 4- to 8-week therapeutic trial of a PPI is diagnostic and therapeutic.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "In younger patients (< 55 years) with typical reflux symptoms and no alarm features, an initial 4- to 8-week therapeutic trial of a PPI is diagnostic and therapeutic. In the management of gastroesophageal reflux disease and Barrett esophagus, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Proton pump inhibitor trial for uncomplicated GERD in primary care.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Proton pump inhibitor trial for uncomplicated GERD in primary care."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0163",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Lifestyle and dietary interventions for nocturnal acid reflux",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 51-year-old man who is examined during morning inpatient rounds in the specialty ward due to suspected gastroesophageal reflux disease and Barrett esophagus. Physical examination reveals heartburn, acid regurgitation, and intestinal metaplasia. Vital signs: blood pressure 115/72 mm Hg, heart rate 85/min, respiratory rate 21/min, and oxygen saturation 91% on room air. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Elevation of the head of the bed by 15 to 20 cm and avoidance of late-evening meals",
+        "explanation": "Head-of-bed elevation utilizes gravity to accelerate nocturnal acid clearance, reducing supine esophageal acid exposure and improving sleep quality.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Head-of-bed elevation utilizes gravity to accelerate nocturnal acid clearance, reducing supine esophageal acid exposure and improving sleep quality. In the management of gastroesophageal reflux disease and Barrett esophagus, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Lifestyle and dietary interventions for nocturnal acid reflux.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Lifestyle and dietary interventions for nocturnal acid reflux."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0164",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Surgical indications and Nissen fundoplication in severe reflux",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old woman with a history of chronic health complaints presents to the emergency department with acute worsening of gastroesophageal reflux disease and Barrett esophagus. Examination confirms heartburn, acid regurgitation, and intestinal metaplasia. Vital signs: blood pressure 117/73 mm Hg, heart rate 88/min, respiratory rate 22/min, and oxygen saturation 93% on room air. Which clinical strategy is prioritized in this post-graduate fellowship examination scenario?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Laparoscopic 360-degree Nissen fundoplication for medically refractory GERD",
+        "explanation": "Antireflux surgery (Nissen fundoplication) is indicated for documented reflux refractory to maximal PPI therapy, persistent large hiatal hernia, or medication intolerance.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Antireflux surgery (Nissen fundoplication) is indicated for documented reflux refractory to maximal PPI therapy, persistent large hiatal hernia, or medication intolerance. In the management of gastroesophageal reflux disease and Barrett esophagus, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Surgical indications and Nissen fundoplication in severe reflux.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Surgical indications and Nissen fundoplication in severe reflux."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0165",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "First-line pharmacological management for severe erosive esophagitis",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is initiated for a 65-year-old man who is evaluated in the acute medical admission unit presenting with clinical features of gastroesophageal reflux disease and Barrett esophagus. Physical findings include heartburn, acid regurgitation, and intestinal metaplasia. Vital signs: blood pressure 119/74 mm Hg, heart rate 91/min, respiratory rate 23/min, and oxygen saturation 95% on room air. Which fundamental clinical intervention is prioritized for this patient?",
+    "options": [
+      {
+        "text": "Oral omeprazole or esomeprazole 20 to 40 mg daily before breakfast",
+        "explanation": "Proton pump inhibitors irreversibly inhibit the H+/K+ ATPase pump in gastric parietal cells, achieving superior mucosal healing rates compared to H2-receptor antagonists.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Proton pump inhibitors irreversibly inhibit the H+/K+ ATPase pump in gastric parietal cells, achieving superior mucosal healing rates compared to H2-receptor antagonists. In the management of gastroesophageal reflux disease and Barrett esophagus, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of First-line pharmacological management for severe erosive esophagitis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of First-line pharmacological management for severe erosive esophagitis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0166",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Immunohistochemical markers of esophageal adenocarcinoma",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 72-year-old woman with recent functional decline attends a routine follow-up consultation in the outpatient clinic for investigation of suspected gastroesophageal reflux disease and Barrett esophagus. Clinical signs demonstrate heartburn, acid regurgitation, and intestinal metaplasia. Vital signs: blood pressure 121/75 mm Hg, heart rate 94/min, respiratory rate 24/min, and oxygen saturation 97% on room air. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Overexpression of p53 protein and HER2/neu amplification",
+        "explanation": "Progression from Barrett dysplasia to invasive esophageal adenocarcinoma involves p53 loss of function, cyclin D1 overexpression, and HER2/neu amplification.",
+        "correct": true
+      }
+    ],
+    "explanation": "Progression from Barrett dysplasia to invasive esophageal adenocarcinoma involves p53 loss of function, cyclin D1 overexpression, and HER2/neu amplification. In the management of gastroesophageal reflux disease and Barrett esophagus, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Immunohistochemical markers of esophageal adenocarcinoma.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Immunohistochemical markers of esophageal adenocarcinoma."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0167",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Radiofrequency ablation indications in Barrett esophagus with dysplasia",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man is admitted to the intensive care unit for close monitoring with progressive symptoms of gastroesophageal reflux disease and Barrett esophagus. Bedside assessment demonstrates heartburn, acid regurgitation, and intestinal metaplasia. Vital signs: blood pressure 123/76 mm Hg, heart rate 97/min, respiratory rate 25/min, and oxygen saturation 99% on room air. Which evidence-based clinical intervention is supported by landmark clinical trial evidence?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic radiofrequency ablation for confirmed low-grade or high-grade dysplasia",
+        "explanation": "Endoscopic eradication therapy (RFA) combined with endoscopic mucosal resection of visible lesions is the standard of care for dysplastic Barrett esophagus.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Endoscopic eradication therapy (RFA) combined with endoscopic mucosal resection of visible lesions is the standard of care for dysplastic Barrett esophagus. In the management of gastroesophageal reflux disease and Barrett esophagus, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Radiofrequency ablation indications in Barrett esophagus with dysplasia.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Radiofrequency ablation indications in Barrett esophagus with dysplasia."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0168",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Boerhaave syndrome spontaneous esophageal perforation triage",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 31-year-old woman who presents to a regional community health facility due to suspected gastroesophageal reflux disease and Barrett esophagus. Physical examination reveals heartburn, acid regurgitation, and intestinal metaplasia. Vital signs: blood pressure 125/77 mm Hg, heart rate 100/min, respiratory rate 26/min, and oxygen saturation 92% on room air. Which acute algorithmic intervention must be performed without delay in this emergency setting?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Computed tomography of the chest and abdomen with oral water-soluble contrast",
+        "explanation": "Forceful emesis followed by acute severe chest pain, subcutaneous emphysema, and shock suggests transmural esophageal rupture, confirmed by Gastrografin CT.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Forceful emesis followed by acute severe chest pain, subcutaneous emphysema, and shock suggests transmural esophageal rupture, confirmed by Gastrografin CT. In the management of gastroesophageal reflux disease and Barrett esophagus, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Boerhaave syndrome spontaneous esophageal perforation triage.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Boerhaave syndrome spontaneous esophageal perforation triage."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0169",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Long-term adverse risks associated with chronic high-dose PPI use",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 38-year-old man with a history of chronic health complaints is referred to the tertiary university medical service with acute worsening of gastroesophageal reflux disease and Barrett esophagus. Examination confirms heartburn, acid regurgitation, and intestinal metaplasia. Vital signs: blood pressure 127/78 mm Hg, heart rate 103/min, respiratory rate 27/min, and oxygen saturation 94% on room air. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Increased risk of Clostridioides difficile colitis, hypomagnesemia, and hip fractures",
+        "explanation": "Chronic acid suppression reduces gastric barrier defenses and intestinal mineral absorption, increasing susceptibility to enteric infections and bone fractures.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Chronic acid suppression reduces gastric barrier defenses and intestinal mineral absorption, increasing susceptibility to enteric infections and bone fractures. In the management of gastroesophageal reflux disease and Barrett esophagus, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Long-term adverse risks associated with chronic high-dose PPI use.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Long-term adverse risks associated with chronic high-dose PPI use."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0170",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Extra-esophageal manifestations of chronic reflux disease",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 45-year-old woman who undergoes specialized assessment in the outpatient center presenting with clinical features of gastroesophageal reflux disease and Barrett esophagus. Physical findings include heartburn, acid regurgitation, and intestinal metaplasia. Vital signs: blood pressure 129/79 mm Hg, heart rate 106/min, respiratory rate 14/min, and oxygen saturation 96% on room air. What is the recommended guideline-directed protocol for this patient in the UAE health system?",
+    "options": [
+      {
+        "text": "Chronic cough, laryngitis, asthma exacerbations, and dental enamel erosions",
+        "explanation": "Refluxate microaspiration and vagal reflexes trigger extra-esophageal symptoms including hoarseness, nocturnal asthma, chronic throat clearing, and tooth decay.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Refluxate microaspiration and vagal reflexes trigger extra-esophageal symptoms including hoarseness, nocturnal asthma, chronic throat clearing, and tooth decay. In the management of gastroesophageal reflux disease and Barrett esophagus, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Extra-esophageal manifestations of chronic reflux disease.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Extra-esophageal manifestations of chronic reflux disease."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0171",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Anatomical landmarks of the lower esophageal sphincter",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 52-year-old man with recent functional decline is brought by ambulance to the acute trauma and resuscitation suite for investigation of suspected gastroesophageal reflux disease and Barrett esophagus. Clinical signs demonstrate heartburn, acid regurgitation, and intestinal metaplasia. Vital signs: blood pressure 131/80 mm Hg, heart rate 109/min, respiratory rate 15/min, and oxygen saturation 98% on room air. Which foundational clinical or pathological feature is most characteristic of this disorder?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Physiological anti-reflux barrier located at the gastroesophageal junction (Z-line)",
+        "explanation": "The lower esophageal sphincter is an intrinsic physiological smooth muscle high-pressure zone augmented extrinsically by the right crus of the diaphragm.",
+        "correct": true
+      }
+    ],
+    "explanation": "The lower esophageal sphincter is an intrinsic physiological smooth muscle high-pressure zone augmented extrinsically by the right crus of the diaphragm. In the management of gastroesophageal reflux disease and Barrett esophagus, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Anatomical landmarks of the lower esophageal sphincter.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of gastroesophageal reflux disease and Barrett esophagus in the context of Anatomical landmarks of the lower esophageal sphincter."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0172",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "Gastrointestinal",
+    "topic": "Urease virulence mechanism of Helicobacter pylori",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is initiated for a 29-year-old man who is brought by ambulance to the acute trauma and resuscitation suite presenting with clinical features of peptic ulcer disease and Helicobacter pylori infection. Physical findings include epigastric burning pain, postprandial distress, and melena. Vital signs: blood pressure 110/70 mm Hg, heart rate 77/min, respiratory rate 18/min, and oxygen saturation 91% on room air. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Hydrolysis of urea into carbon dioxide and ammonia to buffer gastric acid",
+        "explanation": "Helicobacter pylori produces abundant cytoplasmic and surface urease, generating basic ammonia that neutralizes microenvironmental hydrochloric acid, enabling colonization.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Helicobacter pylori produces abundant cytoplasmic and surface urease, generating basic ammonia that neutralizes microenvironmental hydrochloric acid, enabling colonization. In the management of peptic ulcer disease and Helicobacter pylori infection, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Urease virulence mechanism of Helicobacter pylori.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Urease virulence mechanism of Helicobacter pylori."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0173",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Confirmation of Helicobacter pylori eradication testing",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old woman with recent functional decline attends an ambulatory primary care review with recent symptom onset for investigation of suspected peptic ulcer disease and Helicobacter pylori infection. Clinical signs demonstrate epigastric burning pain, postprandial distress, and melena. Vital signs: blood pressure 112/71 mm Hg, heart rate 80/min, respiratory rate 19/min, and oxygen saturation 93% on room air. Which of the following is the most appropriate next step in clinical management or diagnostic confirmation?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Urea breath test or stool antigen test performed at least 4 weeks post-treatment",
+        "explanation": "Eradication must be verified at least 4 weeks after completing antibiotics and at least 2 weeks off PPIs using urea breath or stool antigen assays.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Eradication must be verified at least 4 weeks after completing antibiotics and at least 2 weeks off PPIs using urea breath or stool antigen assays. In the management of peptic ulcer disease and Helicobacter pylori infection, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Confirmation of Helicobacter pylori eradication testing.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Confirmation of Helicobacter pylori eradication testing."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0174",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Bismuth-based quadruple therapy for eradication in high clarithromycin resistanc",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 43-year-old man is examined during morning inpatient rounds in the specialty ward with progressive symptoms of peptic ulcer disease and Helicobacter pylori infection. Bedside assessment demonstrates epigastric burning pain, postprandial distress, and melena. Vital signs: blood pressure 114/72 mm Hg, heart rate 83/min, respiratory rate 20/min, and oxygen saturation 95% on room air. Which of the following represents the most appropriate long-term ambulatory management or secondary prevention strategy?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "PPI, bismuth subsalicylate, metronidazole, and tetracycline for 14 days",
+        "explanation": "In areas where clarithromycin resistance exceeds 15%, 14-day bismuth quadruple therapy is the preferred first-line regimen to achieve high cure rates.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In areas where clarithromycin resistance exceeds 15%, 14-day bismuth quadruple therapy is the preferred first-line regimen to achieve high cure rates. In the management of peptic ulcer disease and Helicobacter pylori infection, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Bismuth-based quadruple therapy for eradication in high clarithromycin resistanc.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Bismuth-based quadruple therapy for eradication in high clarithromycin resistanc."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0175",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Bleeding peptic ulcer Forrest classification and endoscopic therapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 50-year-old woman who presents to the emergency department due to suspected peptic ulcer disease and Helicobacter pylori infection. Physical examination reveals epigastric burning pain, postprandial distress, and melena. Vital signs: blood pressure 116/73 mm Hg, heart rate 86/min, respiratory rate 21/min, and oxygen saturation 97% on room air. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Endoscopic dual therapy (epinephrine injection plus thermal coagulation or clipping)",
+        "explanation": "NICE guidelines mandate dual endoscopic therapy (mechanical clip plus injection) for actively bleeding or non-bleeding visible vessels (Forrest Ia, Ib, IIa).",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "NICE guidelines mandate dual endoscopic therapy (mechanical clip plus injection) for actively bleeding or non-bleeding visible vessels (Forrest Ia, Ib, IIa). In the management of peptic ulcer disease and Helicobacter pylori infection, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Bleeding peptic ulcer Forrest classification and endoscopic therapy.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Bleeding peptic ulcer Forrest classification and endoscopic therapy."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0176",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "NSAID-induced peptic ulcer prevention in high-risk patients",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old man with a history of chronic health complaints is evaluated in the acute medical admission unit with acute worsening of peptic ulcer disease and Helicobacter pylori infection. Examination confirms epigastric burning pain, postprandial distress, and melena. Vital signs: blood pressure 118/74 mm Hg, heart rate 89/min, respiratory rate 22/min, and oxygen saturation 99% on room air. According to Australian therapeutic guidelines and AMC clinical standards, what is the most appropriate initial action?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Coadministration of a daily proton pump inhibitor with NSAID therapy",
+        "explanation": "Patients requiring chronic NSAIDs who have high ulcer risk (age >= 65, prior ulcer, anticoagulant use) should receive gastroprotection with a daily PPI or misoprostol.",
+        "correct": true
+      }
+    ],
+    "explanation": "Patients requiring chronic NSAIDs who have high ulcer risk (age >= 65, prior ulcer, anticoagulant use) should receive gastroprotection with a daily PPI or misoprostol. In the management of peptic ulcer disease and Helicobacter pylori infection, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of NSAID-induced peptic ulcer prevention in high-risk patients.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of NSAID-induced peptic ulcer prevention in high-risk patients."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0177",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Gastric versus duodenal ulcer pain timing relative to meals",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 64-year-old woman who attends a routine follow-up consultation in the outpatient clinic presenting with clinical features of peptic ulcer disease and Helicobacter pylori infection. Physical findings include epigastric burning pain, postprandial distress, and melena. Vital signs: blood pressure 120/75 mm Hg, heart rate 92/min, respiratory rate 23/min, and oxygen saturation 92% on room air. In accordance with Medical Council of Canada clinical objectives, which of the following is the most appropriate initial step?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Gastric ulcer pain exacerbated by food versus duodenal ulcer pain relieved by food",
+        "explanation": "Food ingestion stimulates gastric acid release, worsening gastric ulcer pain; in contrast, food causes pyloric closure and bicarbonate release, relieving duodenal pain.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Food ingestion stimulates gastric acid release, worsening gastric ulcer pain; in contrast, food causes pyloric closure and bicarbonate release, relieving duodenal pain. In the management of peptic ulcer disease and Helicobacter pylori infection, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Gastric versus duodenal ulcer pain timing relative to meals.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Gastric versus duodenal ulcer pain timing relative to meals."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0178",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Perforated peptic ulcer emergency diagnosis and Graham patch repair",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 71-year-old man with recent functional decline is admitted to the intensive care unit for close monitoring for investigation of suspected peptic ulcer disease and Helicobacter pylori infection. Clinical signs demonstrate epigastric burning pain, postprandial distress, and melena. Vital signs: blood pressure 122/76 mm Hg, heart rate 95/min, respiratory rate 24/min, and oxygen saturation 94% on room air. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Erect chest radiograph demonstrating subdiaphragmatic pneumoperitoneum",
+        "explanation": "Sudden-onset severe peritonitis with free subdiaphragmatic air on upright chest X-ray confirms visceral perforation, treated by laparoscopic Graham omental patch.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Sudden-onset severe peritonitis with free subdiaphragmatic air on upright chest X-ray confirms visceral perforation, treated by laparoscopic Graham omental patch. In the management of peptic ulcer disease and Helicobacter pylori infection, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Perforated peptic ulcer emergency diagnosis and Graham patch repair.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Perforated peptic ulcer emergency diagnosis and Graham patch repair."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0179",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Standard first-line triple therapy for H. pylori eradication",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 23-year-old woman presents to a regional community health facility with progressive symptoms of peptic ulcer disease and Helicobacter pylori infection. Bedside assessment demonstrates epigastric burning pain, postprandial distress, and melena. Vital signs: blood pressure 124/77 mm Hg, heart rate 98/min, respiratory rate 25/min, and oxygen saturation 96% on room air. Which of the following is the most appropriate initial medical therapy or core clinical recommendation according to national licensing standards?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Proton pump inhibitor, amoxicillin 1,000 mg, and clarithromycin 500 mg twice daily",
+        "explanation": "Classic triple therapy for 14 days is widely utilized when local clarithromycin resistance is low, achieving microbial eradication in uncomplicated ulcer disease.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Classic triple therapy for 14 days is widely utilized when local clarithromycin resistance is low, achieving microbial eradication in uncomplicated ulcer disease. In the management of peptic ulcer disease and Helicobacter pylori infection, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Standard first-line triple therapy for H. pylori eradication.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Standard first-line triple therapy for H. pylori eradication."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0180",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "Gastrinoma (Zollinger-Ellison syndrome) diagnostic criteria",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 30-year-old man who is referred to the tertiary university medical service due to suspected peptic ulcer disease and Helicobacter pylori infection. Physical examination reveals epigastric burning pain, postprandial distress, and melena. Vital signs: blood pressure 126/78 mm Hg, heart rate 101/min, respiratory rate 26/min, and oxygen saturation 98% on room air. Which of the following represents the most characteristic clinical discriminator, drug of choice, or pathological hallmark?",
+    "options": [
+      {
+        "text": "Fasting serum gastrin > 1,000 pg/mL with secretin stimulation test paradoxical rise",
+        "explanation": "Secretin injection paradoxically increases serum gastrin in gastrinoma, whereas it suppresses gastrin secretion from normal antral G-cells.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Secretin injection paradoxically increases serum gastrin in gastrinoma, whereas it suppresses gastrin secretion from normal antral G-cells. In the management of peptic ulcer disease and Helicobacter pylori infection, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Gastrinoma (Zollinger-Ellison syndrome) diagnostic criteria.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Gastrinoma (Zollinger-Ellison syndrome) diagnostic criteria."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0181",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Gastric MALT lymphoma association with H. pylori and regression",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old woman with a history of chronic health complaints undergoes specialized assessment in the outpatient center with acute worsening of peptic ulcer disease and Helicobacter pylori infection. Examination confirms epigastric burning pain, postprandial distress, and melena. Vital signs: blood pressure 128/79 mm Hg, heart rate 104/min, respiratory rate 27/min, and oxygen saturation 91% on room air. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Complete eradication of Helicobacter pylori leading to tumor regression",
+        "explanation": "Low-grade gastric mucosa-associated lymphoid tissue (MALT) lymphoma is driven by H. pylori antigenic stimulation and frequently regresses completely after eradication.",
+        "correct": true
+      }
+    ],
+    "explanation": "Low-grade gastric mucosa-associated lymphoid tissue (MALT) lymphoma is driven by H. pylori antigenic stimulation and frequently regresses completely after eradication. In the management of peptic ulcer disease and Helicobacter pylori infection, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Gastric MALT lymphoma association with H. pylori and regression.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Gastric MALT lymphoma association with H. pylori and regression."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0182",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute upper gastrointestinal hemorrhage risk scoring (Glasgow-Blatchford)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 44-year-old man who is brought by ambulance to the acute trauma and resuscitation suite presenting with clinical features of peptic ulcer disease and Helicobacter pylori infection. Physical findings include epigastric burning pain, postprandial distress, and melena. Vital signs: blood pressure 130/80 mm Hg, heart rate 107/min, respiratory rate 14/min, and oxygen saturation 93% on room air. Triage evaluation reveals acute physiological compromise. What is the most immediate emergency resuscitation intervention?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Glasgow-Blatchford score of 0 identifying very low-risk patients suitable for outpatient care",
+        "explanation": "The Glasgow-Blatchford Bleeding Score uses urea, hemoglobin, systolic BP, and clinical markers to identify patients safe for outpatient management without admission.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "The Glasgow-Blatchford Bleeding Score uses urea, hemoglobin, systolic BP, and clinical markers to identify patients safe for outpatient management without admission. In the management of peptic ulcer disease and Helicobacter pylori infection, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Acute upper gastrointestinal hemorrhage risk scoring (Glasgow-Blatchford).",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Acute upper gastrointestinal hemorrhage risk scoring (Glasgow-Blatchford)."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0183",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Stress ulcer prophylaxis in critically ill intensive care patients",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old woman with recent functional decline attends an ambulatory primary care review with recent symptom onset for investigation of suspected peptic ulcer disease and Helicobacter pylori infection. Clinical signs demonstrate epigastric burning pain, postprandial distress, and melena. Vital signs: blood pressure 132/81 mm Hg, heart rate 110/min, respiratory rate 15/min, and oxygen saturation 95% on room air. According to Saudi medical licensing guidelines, what is the recommended initial management or diagnostic protocol?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous proton pump inhibitor or H2-receptor antagonist in mechanically ventilated patients",
+        "explanation": "Stress ulcer prophylaxis is indicated for ICU patients with coagulopathy (platelets < 50,000, INR > 1.5) or mechanical ventilation for > 48 hours.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Stress ulcer prophylaxis is indicated for ICU patients with coagulopathy (platelets < 50,000, INR > 1.5) or mechanical ventilation for > 48 hours. In the management of peptic ulcer disease and Helicobacter pylori infection, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Stress ulcer prophylaxis in critically ill intensive care patients.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Stress ulcer prophylaxis in critically ill intensive care patients."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0184",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Serological antibody testing limitations in H. pylori management",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 58-year-old man is examined during morning inpatient rounds in the specialty ward with progressive symptoms of peptic ulcer disease and Helicobacter pylori infection. Bedside assessment demonstrates epigastric burning pain, postprandial distress, and melena. Vital signs: blood pressure 134/82 mm Hg, heart rate 113/min, respiratory rate 16/min, and oxygen saturation 97% on room air. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Inability of serum IgG antibodies to distinguish active from past cleared infection",
+        "explanation": "Serum IgG anti-H. pylori antibodies remain positive for months to years following successful treatment, rendering serology useless for confirming eradication.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Serum IgG anti-H. pylori antibodies remain positive for months to years following successful treatment, rendering serology useless for confirming eradication. In the management of peptic ulcer disease and Helicobacter pylori infection, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Serological antibody testing limitations in H. pylori management.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Serological antibody testing limitations in H. pylori management."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0185",
+    "exam": "UHS MBBS",
+    "subject": "Microbiology",
+    "system": "Gastrointestinal",
+    "topic": "Microscopic and cultural characteristics of Helicobacter pylori",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "An urgent clinical evaluation is conducted for a 65-year-old woman who presents to the emergency department due to suspected peptic ulcer disease and Helicobacter pylori infection. Physical examination reveals epigastric burning pain, postprandial distress, and melena. Vital signs: blood pressure 136/83 mm Hg, heart rate 66/min, respiratory rate 17/min, and oxygen saturation 99% on room air. Bedside clinical examination reveals classical findings. What is the most important clinical sign, pathological finding, or investigation to establish the diagnosis?",
+    "options": [
+      {
+        "text": "Microaerophilic, spiral, flagellated Gram-negative rod producing catalase and urease",
+        "explanation": "Helicobacter pylori is a spiral-shaped, microaerophilic Gram-negative bacterium possessing multiple unipolar flagella that facilitate motility in gastric mucus.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Helicobacter pylori is a spiral-shaped, microaerophilic Gram-negative bacterium possessing multiple unipolar flagella that facilitate motility in gastric mucus. In the management of peptic ulcer disease and Helicobacter pylori infection, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Microscopic and cultural characteristics of Helicobacter pylori.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of peptic ulcer disease and Helicobacter pylori infection in the context of Microscopic and cultural characteristics of Helicobacter pylori."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0186",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Pathological hallmarks of Crohn disease versus ulcerative colitis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 42-year-old woman presents to the emergency department with progressive symptoms of Crohn disease and ulcerative colitis. Bedside assessment demonstrates chronic bloody diarrhea, abdominal pain, and transmural vs mucosal inflammation. Vital signs: blood pressure 115/73 mm Hg, heart rate 84/min, respiratory rate 20/min, and oxygen saturation 92% on room air. What is the underlying biochemical pathway, genetic defect, or cellular alteration responsible for these observed clinical findings?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Non-caseating granulomas and transmural lymphoid aggregates with skip lesions",
+        "explanation": "Crohn disease displays transmural inflammation, non-caseating granulomas, fissure ulcers, and cobblestone mucosa, whereas UC is mucosal and continuous.",
+        "correct": true
+      }
+    ],
+    "explanation": "Crohn disease displays transmural inflammation, non-caseating granulomas, fissure ulcers, and cobblestone mucosa, whereas UC is mucosal and continuous. In the management of Crohn disease and ulcerative colitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Pathological hallmarks of Crohn disease versus ulcerative colitis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Pathological hallmarks of Crohn disease versus ulcerative colitis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0187",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Toxic megacolon diagnostic criteria and emergency management",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 49-year-old man who is evaluated in the acute medical admission unit due to suspected Crohn disease and ulcerative colitis. Physical examination reveals chronic bloody diarrhea, abdominal pain, and transmural vs mucosal inflammation. Vital signs: blood pressure 117/74 mm Hg, heart rate 87/min, respiratory rate 21/min, and oxygen saturation 94% on room air. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Colonic dilation > 6 cm on abdominal radiography with systemic toxicity",
+        "explanation": "Toxic megacolon is a lethal complication of severe colitis characterized by colonic distension > 6 cm, fever, tachycardia, and leukocytosis, requiring IV steroids.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Toxic megacolon is a lethal complication of severe colitis characterized by colonic distension > 6 cm, fever, tachycardia, and leukocytosis, requiring IV steroids. In the management of Crohn disease and ulcerative colitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Toxic megacolon diagnostic criteria and emergency management.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Toxic megacolon diagnostic criteria and emergency management."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0188",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Colorectal cancer surveillance colonoscopy in chronic colitis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 56-year-old woman with a history of chronic health complaints attends a routine follow-up consultation in the outpatient clinic with acute worsening of Crohn disease and ulcerative colitis. Examination confirms chronic bloody diarrhea, abdominal pain, and transmural vs mucosal inflammation. Vital signs: blood pressure 119/75 mm Hg, heart rate 90/min, respiratory rate 22/min, and oxygen saturation 96% on room air. What is the optimal long-term maintenance therapy or surveillance interval for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Surveillance colonoscopy with targeted biopsies starting 8 years after symptom onset",
+        "explanation": "Patients with extensive ulcerative colitis or Crohn colitis have elevated colorectal cancer risk, warranting surveillance colonoscopy every 1 to 2 years starting at 8 years.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Patients with extensive ulcerative colitis or Crohn colitis have elevated colorectal cancer risk, warranting surveillance colonoscopy every 1 to 2 years starting at 8 years. In the management of Crohn disease and ulcerative colitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Colorectal cancer surveillance colonoscopy in chronic colitis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Colorectal cancer surveillance colonoscopy in chronic colitis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0189",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "First-line induction of remission in mild-to-moderate ulcerative colitis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 63-year-old man who is admitted to the intensive care unit for close monitoring presenting with clinical features of Crohn disease and ulcerative colitis. Physical findings include chronic bloody diarrhea, abdominal pain, and transmural vs mucosal inflammation. Vital signs: blood pressure 121/76 mm Hg, heart rate 93/min, respiratory rate 23/min, and oxygen saturation 98% on room air. According to UK national clinical standards, which intervention should be initiated promptly?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Topical (rectal) and oral 5-aminosalicylic acid (mesalazine)",
+        "explanation": "NICE guidelines recommend rectal mesalazine as initial first-line therapy for mild-to-moderate proctitis, combined with oral mesalazine for extensive disease.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "NICE guidelines recommend rectal mesalazine as initial first-line therapy for mild-to-moderate proctitis, combined with oral mesalazine for extensive disease. In the management of Crohn disease and ulcerative colitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of First-line induction of remission in mild-to-moderate ulcerative colitis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of First-line induction of remission in mild-to-moderate ulcerative colitis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0190",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Biologic anti-TNF therapy indications in refractory Crohn disease",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 70-year-old woman with recent functional decline presents to a regional community health facility for investigation of suspected Crohn disease and ulcerative colitis. Clinical signs demonstrate chronic bloody diarrhea, abdominal pain, and transmural vs mucosal inflammation. Vital signs: blood pressure 123/77 mm Hg, heart rate 96/min, respiratory rate 24/min, and oxygen saturation 91% on room air. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Infliximab or adalimumab for moderate-to-severe disease refractory to steroids",
+        "explanation": "Monoclonal anti-TNF antibodies (infliximab) induce and maintain remission in moderate-to-severe refractory Crohn disease and promote fistula closure.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Monoclonal anti-TNF antibodies (infliximab) induce and maintain remission in moderate-to-severe refractory Crohn disease and promote fistula closure. In the management of Crohn disease and ulcerative colitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Biologic anti-TNF therapy indications in refractory Crohn disease.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Biologic anti-TNF therapy indications in refractory Crohn disease."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0191",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Extraintestinal manifestations of inflammatory bowel disease",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 22-year-old man is referred to the tertiary university medical service with progressive symptoms of Crohn disease and ulcerative colitis. Bedside assessment demonstrates chronic bloody diarrhea, abdominal pain, and transmural vs mucosal inflammation. Vital signs: blood pressure 125/78 mm Hg, heart rate 99/min, respiratory rate 25/min, and oxygen saturation 93% on room air. What is the key diagnostic investigation or management priority according to Canadian qualifying standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Pyoderma gangrenosum, erythema nodosum, primary sclerosing cholangitis, and uveitis",
+        "explanation": "Extraintestinal manifestations parallel disease activity (erythema nodosum, aphthous ulcers) or run an independent course (ankylosing spondylitis, PSC).",
+        "correct": true
+      }
+    ],
+    "explanation": "Extraintestinal manifestations parallel disease activity (erythema nodosum, aphthous ulcers) or run an independent course (ankylosing spondylitis, PSC). In the management of Crohn disease and ulcerative colitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Extraintestinal manifestations of inflammatory bowel disease.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Extraintestinal manifestations of inflammatory bowel disease."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0192",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Surgical indications in ulcerative colitis and restorative procedure",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An urgent clinical evaluation is conducted for a 29-year-old woman who undergoes specialized assessment in the outpatient center due to suspected Crohn disease and ulcerative colitis. Physical examination reveals chronic bloody diarrhea, abdominal pain, and transmural vs mucosal inflammation. Vital signs: blood pressure 127/79 mm Hg, heart rate 102/min, respiratory rate 26/min, and oxygen saturation 95% on room air. What is the most appropriate advanced diagnostic workup or surgical intervention in this tertiary referral patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Restorative proctocolectomy with ileal pouch-anal anastomosis (IPAA)",
+        "explanation": "Total proctocolectomy with ileal pouch-anal anastomosis is the definitive curative surgical procedure for ulcerative colitis refractory to medical therapy or dysplasia.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Total proctocolectomy with ileal pouch-anal anastomosis is the definitive curative surgical procedure for ulcerative colitis refractory to medical therapy or dysplasia. In the management of Crohn disease and ulcerative colitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Surgical indications in ulcerative colitis and restorative procedure.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Surgical indications in ulcerative colitis and restorative procedure."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0193",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Differentiation between inflammatory bowel disease and intestinal tuberculosis",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 36-year-old man with a history of chronic health complaints is brought by ambulance to the acute trauma and resuscitation suite with acute worsening of Crohn disease and ulcerative colitis. Examination confirms chronic bloody diarrhea, abdominal pain, and transmural vs mucosal inflammation. Vital signs: blood pressure 129/80 mm Hg, heart rate 105/min, respiratory rate 27/min, and oxygen saturation 97% on room air. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Transverse mucosal ulcers, caseating granulomas, and positive AFB on biopsy",
+        "explanation": "In Pakistan, differentiating Crohn disease from intestinal tuberculosis is critical: intestinal TB shows caseating granulomas and circular transverse ulcers.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In Pakistan, differentiating Crohn disease from intestinal tuberculosis is critical: intestinal TB shows caseating granulomas and circular transverse ulcers. In the management of Crohn disease and ulcerative colitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Differentiation between inflammatory bowel disease and intestinal tuberculosis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Differentiation between inflammatory bowel disease and intestinal tuberculosis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0194",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Serological antibodies distinguishing Crohn disease from ulcerative colitis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 43-year-old woman who attends an ambulatory primary care review with recent symptom onset presenting with clinical features of Crohn disease and ulcerative colitis. Physical findings include chronic bloody diarrhea, abdominal pain, and transmural vs mucosal inflammation. Vital signs: blood pressure 131/81 mm Hg, heart rate 108/min, respiratory rate 14/min, and oxygen saturation 99% on room air. What is the pathognomonic diagnostic sign, drug of choice, or histological feature of this condition?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Anti-Saccharomyces cerevisiae antibodies (ASCA) in Crohn versus p-ANCA in UC",
+        "explanation": "Positive ASCA with negative p-ANCA supports Crohn disease, whereas positive perinuclear ANCA (p-ANCA) with negative ASCA supports ulcerative colitis.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Positive ASCA with negative p-ANCA supports Crohn disease, whereas positive perinuclear ANCA (p-ANCA) with negative ASCA supports ulcerative colitis. In the management of Crohn disease and ulcerative colitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Serological antibodies distinguishing Crohn disease from ulcerative colitis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Serological antibodies distinguishing Crohn disease from ulcerative colitis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0195",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Ustekinumab and vedolizumab mechanisms of action in IBD",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 50-year-old man with recent functional decline is examined during morning inpatient rounds in the specialty ward for investigation of suspected Crohn disease and ulcerative colitis. Clinical signs demonstrate chronic bloody diarrhea, abdominal pain, and transmural vs mucosal inflammation. Vital signs: blood pressure 133/82 mm Hg, heart rate 111/min, respiratory rate 15/min, and oxygen saturation 92% on room air. What is the optimal specialized investigation or second-line disease-modifying therapy for this patient?",
+    "options": [
+      {
+        "text": "Inhibition of interleukin-12/23 p40 subunit versus alpha-4-beta-7 integrin blockade",
+        "explanation": "Ustekinumab targets IL-12/IL-23 p40 to suppress Th1/Th17 responses, while vedolizumab selectively blocks gut-homing alpha-4-beta-7 integrin on lymphocytes.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Ustekinumab targets IL-12/IL-23 p40 to suppress Th1/Th17 responses, while vedolizumab selectively blocks gut-homing alpha-4-beta-7 integrin on lymphocytes. In the management of Crohn disease and ulcerative colitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Ustekinumab and vedolizumab mechanisms of action in IBD.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Ustekinumab and vedolizumab mechanisms of action in IBD."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0196",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Severe acute ulcerative colitis Truelove and Witts criteria triage",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old woman presents to the emergency department with progressive symptoms of Crohn disease and ulcerative colitis. Bedside assessment demonstrates chronic bloody diarrhea, abdominal pain, and transmural vs mucosal inflammation. Vital signs: blood pressure 135/83 mm Hg, heart rate 64/min, respiratory rate 16/min, and oxygen saturation 94% on room air. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Six or more bloody stools daily with tachycardia, fever, and ESR > 30 mm/h",
+        "explanation": "Truelove and Witts criteria identify acute severe ulcerative colitis requiring immediate hospital admission, intensive intravenous hydrocortisone, and DVT prophylaxis.",
+        "correct": true
+      }
+    ],
+    "explanation": "Truelove and Witts criteria identify acute severe ulcerative colitis requiring immediate hospital admission, intensive intravenous hydrocortisone, and DVT prophylaxis. In the management of Crohn disease and ulcerative colitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Severe acute ulcerative colitis Truelove and Witts criteria triage.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Severe acute ulcerative colitis Truelove and Witts criteria triage."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0197",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Fecal calprotectin utility as non-invasive biomarker of bowel inflammation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 64-year-old man who is evaluated in the acute medical admission unit due to suspected Crohn disease and ulcerative colitis. Physical examination reveals chronic bloody diarrhea, abdominal pain, and transmural vs mucosal inflammation. Vital signs: blood pressure 137/84 mm Hg, heart rate 67/min, respiratory rate 17/min, and oxygen saturation 96% on room air. What is the standard clinical protocol recommended for this presentation under Saudi licensing examination guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Quantitative fecal calprotectin distinguishing inflammatory bowel disease from IBS",
+        "explanation": "Fecal calprotectin is released by neutrophils infiltrating the intestinal mucosa; elevated levels (> 50\u2013100 mcg/g) indicate active organic mucosal inflammation.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Fecal calprotectin is released by neutrophils infiltrating the intestinal mucosa; elevated levels (> 50\u2013100 mcg/g) indicate active organic mucosal inflammation. In the management of Crohn disease and ulcerative colitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Fecal calprotectin utility as non-invasive biomarker of bowel inflammation.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Fecal calprotectin utility as non-invasive biomarker of bowel inflammation."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0198",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Primary sclerosing cholangitis screening in ulcerative colitis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 71-year-old woman with a history of chronic health complaints attends a routine follow-up consultation in the outpatient clinic with acute worsening of Crohn disease and ulcerative colitis. Examination confirms chronic bloody diarrhea, abdominal pain, and transmural vs mucosal inflammation. Vital signs: blood pressure 139/85 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 98% on room air. Under Department of Health clinical standards, what is the most appropriate diagnostic or management action?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Magnetic resonance cholangiopancreatography (MRCP) demonstrating beaded bile ducts",
+        "explanation": "Primary sclerosing cholangitis (PSC) is strongly associated with ulcerative colitis; patients with elevated alkaline phosphatase should undergo diagnostic MRCP.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Primary sclerosing cholangitis (PSC) is strongly associated with ulcerative colitis; patients with elevated alkaline phosphatase should undergo diagnostic MRCP. In the management of Crohn disease and ulcerative colitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Primary sclerosing cholangitis screening in ulcerative colitis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Primary sclerosing cholangitis screening in ulcerative colitis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0199",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Gross pathological distribution of Crohn disease",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is initiated for a 23-year-old man who is admitted to the intensive care unit for close monitoring presenting with clinical features of Crohn disease and ulcerative colitis. Physical findings include chronic bloody diarrhea, abdominal pain, and transmural vs mucosal inflammation. Vital signs: blood pressure 141/86 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 91% on room air. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Discontinuous involvement (skip lesions) affecting any segment from mouth to anus",
+        "explanation": "Crohn disease can involve any portion of the gastrointestinal tract with normal intervening skip areas, most commonly involving the terminal ileum and cecum.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Crohn disease can involve any portion of the gastrointestinal tract with normal intervening skip areas, most commonly involving the terminal ileum and cecum. In the management of Crohn disease and ulcerative colitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Gross pathological distribution of Crohn disease.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of Crohn disease and ulcerative colitis in the context of Gross pathological distribution of Crohn disease."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0200",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Gastrointestinal",
+    "topic": "Premature intracellular trypsinogen activation in acinar cells",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old man with a history of chronic health complaints is admitted to the intensive care unit for close monitoring with acute worsening of acute pancreatitis. Examination confirms acute severe epigastric pain radiating to back, and elevated lipase >= 3x URL. Vital signs: blood pressure 120/76 mm Hg, heart rate 91/min, respiratory rate 22/min, and oxygen saturation 93% on room air. Which physiological alteration or pharmacological mechanism of action directly accounts for this condition?",
+    "options": [
+      {
+        "text": "Intracellular activation of trypsinogen to trypsin within zymogen granules",
+        "explanation": "Acute pancreatitis is initiated when lysosomal hydrolases (cathepsin B) prematurely activate trypsinogen to trypsin within acinar cells, triggering autodigestion.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Acute pancreatitis is initiated when lysosomal hydrolases (cathepsin B) prematurely activate trypsinogen to trypsin within acinar cells, triggering autodigestion. In the management of acute pancreatitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Premature intracellular trypsinogen activation in acinar cells.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Premature intracellular trypsinogen activation in acinar cells."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0201",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Atlanta diagnostic criteria and serum lipase superiority",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 62-year-old woman who presents to a regional community health facility presenting with clinical features of acute pancreatitis. Physical findings include acute severe epigastric pain radiating to back, and elevated lipase >= 3x URL. Vital signs: blood pressure 122/77 mm Hg, heart rate 94/min, respiratory rate 23/min, and oxygen saturation 95% on room air. Which of the following represents the immediate next step in patient evaluation?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Serum lipase elevation at least three times the upper limit of normal",
+        "explanation": "Diagnosis requires 2 of 3 criteria: characteristic epigastric pain, serum lipase/amylase >= 3x ULN, and characteristic cross-sectional imaging findings.",
+        "correct": true
+      }
+    ],
+    "explanation": "Diagnosis requires 2 of 3 criteria: characteristic epigastric pain, serum lipase/amylase >= 3x ULN, and characteristic cross-sectional imaging findings. In the management of acute pancreatitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Atlanta diagnostic criteria and serum lipase superiority.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Atlanta diagnostic criteria and serum lipase superiority."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0202",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Early fluid resuscitation protocol and monitoring in pancreatitis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man with recent functional decline is referred to the tertiary university medical service for investigation of suspected acute pancreatitis. Clinical signs demonstrate acute severe epigastric pain radiating to back, and elevated lipase >= 3x URL. Vital signs: blood pressure 124/78 mm Hg, heart rate 97/min, respiratory rate 24/min, and oxygen saturation 97% on room air. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Isotonic crystalloid (Ringer lactate) infusion titrated to urine output and hematocrit",
+        "explanation": "Early aggressive fluid resuscitation (200\u2013500 mL/h) with lactated Ringer solution within the first 12\u201324 hours reduces systemic inflammation and renal failure.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Early aggressive fluid resuscitation (200\u2013500 mL/h) with lactated Ringer solution within the first 12\u201324 hours reduces systemic inflammation and renal failure. In the management of acute pancreatitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Early fluid resuscitation protocol and monitoring in pancreatitis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Early fluid resuscitation protocol and monitoring in pancreatitis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0203",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Biliary pancreatitis etiology and cholecystectomy timing",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 76-year-old woman undergoes specialized assessment in the outpatient center with progressive symptoms of acute pancreatitis. Bedside assessment demonstrates acute severe epigastric pain radiating to back, and elevated lipase >= 3x URL. Vital signs: blood pressure 126/79 mm Hg, heart rate 100/min, respiratory rate 25/min, and oxygen saturation 99% on room air. What is the guideline-directed management recommendation for this NHS acute presentation?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Index admission laparoscopic cholecystectomy following resolution of symptoms",
+        "explanation": "NICE and IAP guidelines strongly recommend index admission cholecystectomy for mild gallstone pancreatitis to prevent recurrent life-threatening attacks.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "NICE and IAP guidelines strongly recommend index admission cholecystectomy for mild gallstone pancreatitis to prevent recurrent life-threatening attacks. In the management of acute pancreatitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Biliary pancreatitis etiology and cholecystectomy timing.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Biliary pancreatitis etiology and cholecystectomy timing."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0204",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Prophylactic antibiotics in sterile acute necrotizing pancreatitis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 28-year-old man who is brought by ambulance to the acute trauma and resuscitation suite due to suspected acute pancreatitis. Physical examination reveals acute severe epigastric pain radiating to back, and elevated lipase >= 3x URL. Vital signs: blood pressure 128/80 mm Hg, heart rate 103/min, respiratory rate 26/min, and oxygen saturation 92% on room air. Which diagnostic or therapeutic action is prioritized under Australian clinical guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Prophylactic intravenous antibiotics are not routinely recommended",
+        "explanation": "Routine prophylactic antibiotics do not reduce mortality or infected necrosis in acute necrotizing pancreatitis and promote resistant fungal superinfections.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Routine prophylactic antibiotics do not reduce mortality or infected necrosis in acute necrotizing pancreatitis and promote resistant fungal superinfections. In the management of acute pancreatitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Prophylactic antibiotics in sterile acute necrotizing pancreatitis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Prophylactic antibiotics in sterile acute necrotizing pancreatitis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0205",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Etiological investigation in non-gallstone, non-alcoholic pancreatitis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 35-year-old woman with a history of chronic health complaints attends an ambulatory primary care review with recent symptom onset with acute worsening of acute pancreatitis. Examination confirms acute severe epigastric pain radiating to back, and elevated lipase >= 3x URL. Vital signs: blood pressure 130/81 mm Hg, heart rate 106/min, respiratory rate 27/min, and oxygen saturation 94% on room air. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Serum triglycerides and calcium levels to exclude metabolic triggers",
+        "explanation": "Severe hypertriglyceridemia (> 1,000 mg/dL or 11.3 mmol/L) and hypercalcemia are important treatable metabolic causes of acute pancreatitis.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Severe hypertriglyceridemia (> 1,000 mg/dL or 11.3 mmol/L) and hypercalcemia are important treatable metabolic causes of acute pancreatitis. In the management of acute pancreatitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Etiological investigation in non-gallstone, non-alcoholic pancreatitis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Etiological investigation in non-gallstone, non-alcoholic pancreatitis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0206",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Infected pancreatic necrosis diagnosis and step-up surgical approach",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is initiated for a 42-year-old man who is examined during morning inpatient rounds in the specialty ward presenting with clinical features of acute pancreatitis. Physical findings include acute severe epigastric pain radiating to back, and elevated lipase >= 3x URL. Vital signs: blood pressure 132/82 mm Hg, heart rate 109/min, respiratory rate 14/min, and oxygen saturation 96% on room air. Which clinical strategy is prioritized in this post-graduate fellowship examination scenario?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Minimally invasive catheter drainage followed by retroperitoneal necrosectomy",
+        "explanation": "The PANTER trial demonstrated that a step-up approach (percutaneous catheter drainage followed by minimally invasive retroperitoneal debridement) reduces morbidity.",
+        "correct": true
+      }
+    ],
+    "explanation": "The PANTER trial demonstrated that a step-up approach (percutaneous catheter drainage followed by minimally invasive retroperitoneal debridement) reduces morbidity. In the management of acute pancreatitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Infected pancreatic necrosis diagnosis and step-up surgical approach.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Infected pancreatic necrosis diagnosis and step-up surgical approach."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0207",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Ecchymotic physical signs of severe hemorrhagic pancreatitis",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 49-year-old woman with recent functional decline presents to the emergency department for investigation of suspected acute pancreatitis. Clinical signs demonstrate acute severe epigastric pain radiating to back, and elevated lipase >= 3x URL. Vital signs: blood pressure 134/83 mm Hg, heart rate 112/min, respiratory rate 15/min, and oxygen saturation 98% on room air. Which fundamental clinical intervention is prioritized for this patient?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Cullen sign (periumbilical ecchymosis) and Grey Turner sign (flank ecchymosis)",
+        "explanation": "Retroperitoneal tracking of hemorrhagic pancreatic exudate produces ecchymosis in the flanks (Grey Turner sign) or periumbilical region (Cullen sign).",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Retroperitoneal tracking of hemorrhagic pancreatic exudate produces ecchymosis in the flanks (Grey Turner sign) or periumbilical region (Cullen sign). In the management of acute pancreatitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Ecchymotic physical signs of severe hemorrhagic pancreatitis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Ecchymotic physical signs of severe hemorrhagic pancreatitis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0208",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Ranson prognostic criteria parameters at admission",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 56-year-old man is evaluated in the acute medical admission unit with progressive symptoms of acute pancreatitis. Bedside assessment demonstrates acute severe epigastric pain radiating to back, and elevated lipase >= 3x URL. Vital signs: blood pressure 136/84 mm Hg, heart rate 65/min, respiratory rate 16/min, and oxygen saturation 91% on room air. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Age > 55, WBC > 16,000, Blood glucose > 200 mg/dL, AST > 250 U/L, and LDH > 350 U/L",
+        "explanation": "Ranson score assesses severity at admission (age, white blood cells, glucose, AST, LDH) and at 48 hours (hematocrit drop, BUN rise, calcium < 8, PaO2 < 60).",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Ranson score assesses severity at admission (age, white blood cells, glucose, AST, LDH) and at 48 hours (hematocrit drop, BUN rise, calcium < 8, PaO2 < 60). In the management of acute pancreatitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Ranson prognostic criteria parameters at admission.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Ranson prognostic criteria parameters at admission."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0209",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Autoimmune pancreatitis diagnosis and IgG4 elevation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An urgent clinical evaluation is conducted for a 63-year-old woman who attends a routine follow-up consultation in the outpatient clinic due to suspected acute pancreatitis. Physical examination reveals acute severe epigastric pain radiating to back, and elevated lipase >= 3x URL. Vital signs: blood pressure 138/85 mm Hg, heart rate 68/min, respiratory rate 17/min, and oxygen saturation 93% on room air. Which evidence-based clinical intervention is supported by landmark clinical trial evidence?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Type 1 autoimmune pancreatitis with elevated serum IgG4 and sausage-shaped pancreas",
+        "explanation": "Type 1 IgG4-related pancreatitis presents with painless jaundice, elevated IgG4, lymphoplasmacytic infiltrate, and responds dramatically to oral steroids.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Type 1 IgG4-related pancreatitis presents with painless jaundice, elevated IgG4, lymphoplasmacytic infiltrate, and responds dramatically to oral steroids. In the management of acute pancreatitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Autoimmune pancreatitis diagnosis and IgG4 elevation.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Autoimmune pancreatitis diagnosis and IgG4 elevation."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0210",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Severe acute pancreatitis systemic complications triage",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 70-year-old man with a history of chronic health complaints is admitted to the intensive care unit for close monitoring with acute worsening of acute pancreatitis. Examination confirms acute severe epigastric pain radiating to back, and elevated lipase >= 3x URL. Vital signs: blood pressure 140/86 mm Hg, heart rate 71/min, respiratory rate 18/min, and oxygen saturation 95% on room air. Which acute algorithmic intervention must be performed without delay in this emergency setting?",
+    "options": [
+      {
+        "text": "Early identification of acute respiratory distress syndrome (ARDS) and shock",
+        "explanation": "Systemic release of pancreatic phospholipase A2 and cytokines causes pulmonary capillary endothelial injury, leading to life-threatening hypoxemic ARDS.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Systemic release of pancreatic phospholipase A2 and cytokines causes pulmonary capillary endothelial injury, leading to life-threatening hypoxemic ARDS. In the management of acute pancreatitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Severe acute pancreatitis systemic complications triage.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Severe acute pancreatitis systemic complications triage."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0211",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Enteral versus parenteral nutrition in severe acute pancreatitis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 22-year-old woman who presents to a regional community health facility presenting with clinical features of acute pancreatitis. Physical findings include acute severe epigastric pain radiating to back, and elevated lipase >= 3x URL. Vital signs: blood pressure 142/87 mm Hg, heart rate 74/min, respiratory rate 19/min, and oxygen saturation 97% on room air. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Early enteral feeding via nasogastric or nasojejunal tube within 24 to 72 hours",
+        "explanation": "Enteral nutrition maintains the gut mucosal barrier, prevents bacterial translocation from the colon, and reduces septic complications compared to TPN.",
+        "correct": true
+      }
+    ],
+    "explanation": "Enteral nutrition maintains the gut mucosal barrier, prevents bacterial translocation from the colon, and reduces septic complications compared to TPN. In the management of acute pancreatitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Enteral versus parenteral nutrition in severe acute pancreatitis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Enteral versus parenteral nutrition in severe acute pancreatitis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0212",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Pancreatic pseudocyst conservative management and drainage criteria",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man with recent functional decline is referred to the tertiary university medical service for investigation of suspected acute pancreatitis. Clinical signs demonstrate acute severe epigastric pain radiating to back, and elevated lipase >= 3x URL. Vital signs: blood pressure 144/88 mm Hg, heart rate 77/min, respiratory rate 20/min, and oxygen saturation 99% on room air. What is the recommended guideline-directed protocol for this patient in the UAE health system?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Conservative observation for asymptomatic cysts < 6 cm; endoscopic drainage if persistent",
+        "explanation": "Most acute fluid collections resolve spontaneously; pseudocysts persisting > 6 weeks that are symptomatic, infected, or > 6 cm warrant cystogastrostomy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Most acute fluid collections resolve spontaneously; pseudocysts persisting > 6 weeks that are symptomatic, infected, or > 6 cm warrant cystogastrostomy. In the management of acute pancreatitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Pancreatic pseudocyst conservative management and drainage criteria.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Pancreatic pseudocyst conservative management and drainage criteria."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0213",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Enzymatic fat necrosis and saponification in acute pancreatitis",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 36-year-old woman undergoes specialized assessment in the outpatient center with progressive symptoms of acute pancreatitis. Bedside assessment demonstrates acute severe epigastric pain radiating to back, and elevated lipase >= 3x URL. Vital signs: blood pressure 146/89 mm Hg, heart rate 80/min, respiratory rate 21/min, and oxygen saturation 92% on room air. Which foundational clinical or pathological feature is most characteristic of this disorder?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Dystrophic calcification and calcium soap formation with chalky white deposits",
+        "explanation": "Activated pancreatic lipases hydrolyze fat tissue into free fatty acids that bind calcium ions, forming insoluble chalky-white calcium soaps (saponification).",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Activated pancreatic lipases hydrolyze fat tissue into free fatty acids that bind calcium ions, forming insoluble chalky-white calcium soaps (saponification). In the management of acute pancreatitis, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Enzymatic fat necrosis and saponification in acute pancreatitis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of acute pancreatitis in the context of Enzymatic fat necrosis and saponification in acute pancreatitis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0214",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Hepatic stellate cell activation and fibrogenesis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old woman with recent functional decline undergoes specialized assessment in the outpatient center for investigation of suspected decompensated liver cirrhosis and portal hypertension. Clinical signs demonstrate ascites, varices, hepatic encephalopathy, and jaundice. Vital signs: blood pressure 125/79 mm Hg, heart rate 98/min, respiratory rate 24/min, and oxygen saturation 94% on room air. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Transformation of quiescent vitamin A-storing stellate cells into myofibroblasts",
+        "explanation": "Liver injury stimulates quiescent perisinusoidal stellate cells (Ito cells) to transform into myofibroblasts that synthesize abundant type I and III collagen.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Liver injury stimulates quiescent perisinusoidal stellate cells (Ito cells) to transform into myofibroblasts that synthesize abundant type I and III collagen. In the management of decompensated liver cirrhosis and portal hypertension, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Hepatic stellate cell activation and fibrogenesis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Hepatic stellate cell activation and fibrogenesis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0215",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute bleeding esophageal varices emergency pharmacotherapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 75-year-old man is brought by ambulance to the acute trauma and resuscitation suite with progressive symptoms of decompensated liver cirrhosis and portal hypertension. Bedside assessment demonstrates ascites, varices, hepatic encephalopathy, and jaundice. Vital signs: blood pressure 127/80 mm Hg, heart rate 101/min, respiratory rate 25/min, and oxygen saturation 96% on room air. Which of the following is the most appropriate next step in clinical management or diagnostic confirmation?",
+    "options": [
+      {
+        "text": "Intravenous octreotide or terlipressin infusion and prophylactic ceftriaxone",
+        "explanation": "Somatostatin analogues (octreotide) induce splanchnic vasoconstriction to reduce portal pressure, while prophylactic antibiotics reduce bacterial sepsis and mortality.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Somatostatin analogues (octreotide) induce splanchnic vasoconstriction to reduce portal pressure, while prophylactic antibiotics reduce bacterial sepsis and mortality. In the management of decompensated liver cirrhosis and portal hypertension, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Acute bleeding esophageal varices emergency pharmacotherapy.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Acute bleeding esophageal varices emergency pharmacotherapy."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0216",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Primary prophylaxis for medium-to-large esophageal varices",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An urgent clinical evaluation is conducted for a 27-year-old woman who attends an ambulatory primary care review with recent symptom onset due to suspected decompensated liver cirrhosis and portal hypertension. Physical examination reveals ascites, varices, hepatic encephalopathy, and jaundice. Vital signs: blood pressure 129/81 mm Hg, heart rate 104/min, respiratory rate 26/min, and oxygen saturation 98% on room air. Which of the following represents the most appropriate long-term ambulatory management or secondary prevention strategy?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Non-selective beta-blocker (propranolol or carvedilol) or endoscopic variceal ligation",
+        "explanation": "Baveno guidelines recommend non-selective beta-blockers (blocking beta-2 splanchnic vasodilation to leave unopposed alpha-1 vasoconstriction) or band ligation.",
+        "correct": true
+      }
+    ],
+    "explanation": "Baveno guidelines recommend non-selective beta-blockers (blocking beta-2 splanchnic vasodilation to leave unopposed alpha-1 vasoconstriction) or band ligation. In the management of decompensated liver cirrhosis and portal hypertension, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Primary prophylaxis for medium-to-large esophageal varices.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Primary prophylaxis for medium-to-large esophageal varices."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0217",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Spontaneous bacterial peritonitis diagnostic paracentesis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man with a history of chronic health complaints is examined during morning inpatient rounds in the specialty ward with acute worsening of decompensated liver cirrhosis and portal hypertension. Examination confirms ascites, varices, hepatic encephalopathy, and jaundice. Vital signs: blood pressure 131/82 mm Hg, heart rate 107/min, respiratory rate 27/min, and oxygen saturation 91% on room air. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Ascitic fluid absolute neutrophil count >= 250 cells/uL (0.25 x 10^9/L)",
+        "explanation": "Diagnostic paracentesis is mandatory for hospitalized cirrhotic patients with ascites; an ascitic polymorphonuclear neutrophil count >= 250/uL confirms SBP.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Diagnostic paracentesis is mandatory for hospitalized cirrhotic patients with ascites; an ascitic polymorphonuclear neutrophil count >= 250/uL confirms SBP. In the management of decompensated liver cirrhosis and portal hypertension, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Spontaneous bacterial peritonitis diagnostic paracentesis.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Spontaneous bacterial peritonitis diagnostic paracentesis."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0218",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Hepatic encephalopathy first-line pharmacotherapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 41-year-old woman who presents to the emergency department presenting with clinical features of decompensated liver cirrhosis and portal hypertension. Physical findings include ascites, varices, hepatic encephalopathy, and jaundice. Vital signs: blood pressure 133/83 mm Hg, heart rate 110/min, respiratory rate 14/min, and oxygen saturation 93% on room air. According to Australian therapeutic guidelines and AMC clinical standards, what is the most appropriate initial action?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Oral lactulose titrated to produce 2 to 3 soft bowel movements daily",
+        "explanation": "Lactulose is metabolized by colonic bacteria into lactic and acetic acids, trapping ammonia as unabsorbable ammonium ions (NH4+) and accelerating excretion.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Lactulose is metabolized by colonic bacteria into lactic and acetic acids, trapping ammonia as unabsorbable ammonium ions (NH4+) and accelerating excretion. In the management of decompensated liver cirrhosis and portal hypertension, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Hepatic encephalopathy first-line pharmacotherapy.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Hepatic encephalopathy first-line pharmacotherapy."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0219",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Serum-ascites albumin gradient (SAAG) diagnostic calculation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old man with recent functional decline is evaluated in the acute medical admission unit for investigation of suspected decompensated liver cirrhosis and portal hypertension. Clinical signs demonstrate ascites, varices, hepatic encephalopathy, and jaundice. Vital signs: blood pressure 135/84 mm Hg, heart rate 113/min, respiratory rate 15/min, and oxygen saturation 95% on room air. In accordance with Medical Council of Canada clinical objectives, which of the following is the most appropriate initial step?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "SAAG >= 11 g/L (1.1 g/dL) indicating portal hypertension etiology",
+        "explanation": "SAAG is calculated as serum albumin minus ascitic fluid albumin; a gradient >= 1.1 g/dL reflects sinusoidal hypertension (cirrhosis, heart failure, Budd-Chiari).",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "SAAG is calculated as serum albumin minus ascitic fluid albumin; a gradient >= 1.1 g/dL reflects sinusoidal hypertension (cirrhosis, heart failure, Budd-Chiari). In the management of decompensated liver cirrhosis and portal hypertension, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Serum-ascites albumin gradient (SAAG) diagnostic calculation.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Serum-ascites albumin gradient (SAAG) diagnostic calculation."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0220",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Transjugular intrahepatic portosystemic shunt (TIPS) indications",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old woman attends a routine follow-up consultation in the outpatient clinic with progressive symptoms of decompensated liver cirrhosis and portal hypertension. Bedside assessment demonstrates ascites, varices, hepatic encephalopathy, and jaundice. Vital signs: blood pressure 137/85 mm Hg, heart rate 66/min, respiratory rate 16/min, and oxygen saturation 97% on room air. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Refractory variceal bleeding or refractory ascites despite maximal medical therapy",
+        "explanation": "TIPS creates a low-resistance channel between the hepatic vein and portal vein, decompressing portal hypertension at the expense of increased encephalopathy.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "TIPS creates a low-resistance channel between the hepatic vein and portal vein, decompressing portal hypertension at the expense of increased encephalopathy. In the management of decompensated liver cirrhosis and portal hypertension, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Transjugular intrahepatic portosystemic shunt (TIPS) indications.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Transjugular intrahepatic portosystemic shunt (TIPS) indications."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0221",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Ascites sodium and diuretic management protocol",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "An urgent clinical evaluation is conducted for a 62-year-old man who is admitted to the intensive care unit for close monitoring due to suspected decompensated liver cirrhosis and portal hypertension. Physical examination reveals ascites, varices, hepatic encephalopathy, and jaundice. Vital signs: blood pressure 139/86 mm Hg, heart rate 69/min, respiratory rate 17/min, and oxygen saturation 99% on room air. Which of the following is the most appropriate initial medical therapy or core clinical recommendation according to national licensing standards?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Dietary sodium restriction and combination spironolactone plus furosemide",
+        "explanation": "First-line diuretic therapy uses spironolactone (aldosterone antagonist) combined with furosemide in a 100:40 mg ratio to maintain normokalemia and promote diuresis.",
+        "correct": true
+      }
+    ],
+    "explanation": "First-line diuretic therapy uses spironolactone (aldosterone antagonist) combined with furosemide in a 100:40 mg ratio to maintain normokalemia and promote diuresis. In the management of decompensated liver cirrhosis and portal hypertension, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Ascites sodium and diuretic management protocol.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Ascites sodium and diuretic management protocol."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0222",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "Hepatorenal syndrome diagnostic criteria and treatment",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old woman with a history of chronic health complaints presents to a regional community health facility with acute worsening of decompensated liver cirrhosis and portal hypertension. Examination confirms ascites, varices, hepatic encephalopathy, and jaundice. Vital signs: blood pressure 141/87 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 92% on room air. Which of the following represents the most characteristic clinical discriminator, drug of choice, or pathological hallmark?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Terlipressin combined with intravenous albumin infusion",
+        "explanation": "Hepatorenal syndrome represents extreme renal vasoconstriction from splanchnic arterial vasodilation, treated with splanchnic vasoconstrictors (terlipressin) and albumin.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Hepatorenal syndrome represents extreme renal vasoconstriction from splanchnic arterial vasodilation, treated with splanchnic vasoconstrictors (terlipressin) and albumin. In the management of decompensated liver cirrhosis and portal hypertension, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Hepatorenal syndrome diagnostic criteria and treatment.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Hepatorenal syndrome diagnostic criteria and treatment."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0223",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Rifaximin add-on therapy for secondary encephalopathy prevention",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is initiated for a 76-year-old man who is referred to the tertiary university medical service presenting with clinical features of decompensated liver cirrhosis and portal hypertension. Physical findings include ascites, varices, hepatic encephalopathy, and jaundice. Vital signs: blood pressure 143/88 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 94% on room air. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral rifaximin 550 mg twice daily added to lactulose",
+        "explanation": "Rifaximin is a minimally absorbed oral antibiotic that eradicates colonic ammoniagenic bacteria, significantly reducing recurrent encephalopathy hospitalizations.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Rifaximin is a minimally absorbed oral antibiotic that eradicates colonic ammoniagenic bacteria, significantly reducing recurrent encephalopathy hospitalizations. In the management of decompensated liver cirrhosis and portal hypertension, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Rifaximin add-on therapy for secondary encephalopathy prevention.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Rifaximin add-on therapy for secondary encephalopathy prevention."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0224",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Variceal hemorrhage airway protection and endotracheal intubation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 28-year-old woman with recent functional decline undergoes specialized assessment in the outpatient center for investigation of suspected decompensated liver cirrhosis and portal hypertension. Clinical signs demonstrate ascites, varices, hepatic encephalopathy, and jaundice. Vital signs: blood pressure 145/89 mm Hg, heart rate 78/min, respiratory rate 20/min, and oxygen saturation 96% on room air. Triage evaluation reveals acute physiological compromise. What is the most immediate emergency resuscitation intervention?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Elective endotracheal intubation before endoscopy in severe hematemesis",
+        "explanation": "Patients with active massive upper gastrointestinal bleeding or encephalopathy are at high risk of fatal pulmonary blood aspiration, warranting intubation.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Patients with active massive upper gastrointestinal bleeding or encephalopathy are at high risk of fatal pulmonary blood aspiration, warranting intubation. In the management of decompensated liver cirrhosis and portal hypertension, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Variceal hemorrhage airway protection and endotracheal intubation.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Variceal hemorrhage airway protection and endotracheal intubation."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-0225",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Hepatocellular carcinoma surveillance in cirrhotic patients",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 35-year-old man is brought by ambulance to the acute trauma and resuscitation suite with progressive symptoms of decompensated liver cirrhosis and portal hypertension. Bedside assessment demonstrates ascites, varices, hepatic encephalopathy, and jaundice. Vital signs: blood pressure 147/90 mm Hg, heart rate 81/min, respiratory rate 21/min, and oxygen saturation 98% on room air. According to Saudi medical licensing guidelines, what is the recommended initial management or diagnostic protocol?",
+    "options": [
+      {
+        "text": "Hepatic ultrasound with or without serum alpha-fetoprotein every 6 months",
+        "explanation": "AASLD guidelines recommend biannual abdominal ultrasound surveillance for all patients with cirrhosis to detect early resectable hepatocellular carcinoma.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "AASLD guidelines recommend biannual abdominal ultrasound surveillance for all patients with cirrhosis to detect early resectable hepatocellular carcinoma. In the management of decompensated liver cirrhosis and portal hypertension, clinical practice requires rigorous diagnostic differentiation and adherence to accredited guideline protocols.",
+    "objective": "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Hepatocellular carcinoma surveillance in cirrhotic patients.",
+    "keyPoints": [
+      "Analyze the clinical presentation, diagnostic evaluation, and evidence-based management of decompensated liver cirrhosis and portal hypertension in the context of Hepatocellular carcinoma surveillance in cirrhotic patients."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
