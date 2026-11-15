@@ -1,0 +1,4594 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-1186",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Surgical decompression and incision technique for Ludwig angina",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 36-year-old woman who presents to the tertiary trauma and critical care unit with prominent manifestations of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess. Bedside evaluation demonstrates woody induration of the submandibular and sublingual spaces, elevated and protruding tongue, severe trismus, 'hot potato' muffled voice, uvular deviation, and impending upper airway obstruction. Clinical observations record blood pressure 150/84 mm Hg, heart rate 82/min, respiratory rate 22/min, and ambient oxygen saturation 94%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Transverse cervical incision with bilateral submandibular and submental blunt fascial space exploration, division of the mylohyoid muscle, and placement of dependent Penrose drains.",
+        "explanation": "Surgical drainage releases massive tissue tension in the submandibular, sublingual, and submental compartments; extraction of offending mandibular molars eliminates the septic source.",
+        "correct": true
+      }
+    ],
+    "explanation": "Surgical drainage releases massive tissue tension in the submandibular, sublingual, and submental compartments; extraction of offending mandibular molars eliminates the septic source. In the clinical evaluation of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Surgical decompression and incision technique for Ludwig angina.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Surgical decompression and incision technique for Ludwig angina."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Knowledge Summaries: Otitis Media and Vertigo",
+        "url": "https://cks.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1187",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Empiric intravenous antibiotic therapy for deep fascial neck infections",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 41-year-old man with recent symptom exacerbation undergoes multidisciplinary diagnostic evaluation in the clinic for urgent clarification of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess. Clinical examination highlights woody induration of the submandibular and sublingual spaces, elevated and protruding tongue, severe trismus, 'hot potato' muffled voice, uvular deviation, and impending upper airway obstruction. Clinical observations record blood pressure 108/88 mm Hg, heart rate 85/min, respiratory rate 23/min, and ambient oxygen saturation 95%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Initiating empirical intravenous broad-spectrum coverage with ampicillin-sulbactam plus metronidazole, or ceftriaxone plus metronidazole, or vancomycin plus piperacillin-tazobactam.",
+        "explanation": "Deep neck space infections are synergistic polymicrobial infections involving aerobic streptococci and oral anaerobes; robust antianaerobic and anti-streptococcal coverage is mandatory.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "Deep neck space infections are synergistic polymicrobial infections involving aerobic streptococci and oral anaerobes; robust antianaerobic and anti-streptococcal coverage is mandatory. In the clinical evaluation of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Empiric intravenous antibiotic therapy for deep fascial neck infections.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Empiric intravenous antibiotic therapy for deep fascial neck infections."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Knowledge Summaries: Otitis Media and Vertigo",
+        "url": "https://cks.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1188",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Prevertebral soft tissue thickness measurements on lateral neck radiography",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 46-year-old woman is brought by paramedic transfer to the emergency department with clinical findings indicative of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess. Bedside physical examination confirms woody induration of the submandibular and sublingual spaces, elevated and protruding tongue, severe trismus, 'hot potato' muffled voice, uvular deviation, and impending upper airway obstruction. Clinical observations record blood pressure 110/68 mm Hg, heart rate 88/min, respiratory rate 24/min, and ambient oxygen saturation 96%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Prevertebral space thickness exceeding 7 mm at C2 (retro-pharyngeal) or exceeding 14 mm in children / 22 mm in adults at C6 (retro-tracheal) on lateral soft tissue X-ray.",
+        "explanation": "Lateral cervical radiography taken during inspiration with neck extension is a sensitive initial screening test; widened prevertebral shadows confirm retropharyngeal abscess.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Lateral cervical radiography taken during inspiration with neck extension is a sensitive initial screening test; widened prevertebral shadows confirm retropharyngeal abscess. In the clinical evaluation of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Prevertebral soft tissue thickness measurements on lateral neck radiography.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Prevertebral soft tissue thickness measurements on lateral neck radiography."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Knowledge Summaries: Otitis Media and Vertigo",
+        "url": "https://cks.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1189",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Lemierre syndrome (postanginal sepsis) and internal jugular vein septic thrombop",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 51-year-old man who attends the scheduled hospital outpatient review due to suspected Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess. Clinical examination demonstrates woody induration of the submandibular and sublingual spaces, elevated and protruding tongue, severe trismus, 'hot potato' muffled voice, uvular deviation, and impending upper airway obstruction. Clinical observations record blood pressure 112/72 mm Hg, heart rate 91/min, respiratory rate 25/min, and ambient oxygen saturation 97%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Fusobacterium necrophorum infection following acute pharyngitis leading to internal jugular vein septic thrombophlebitis and septic pulmonary emboli with cavitary lung lesions.",
+        "explanation": "Lemierre syndrome is a life-threatening complication of oropharyngeal infection caused by Fusobacterium necrophorum; high-resolution contrast CT confirms jugular thrombosis.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "Lemierre syndrome is a life-threatening complication of oropharyngeal infection caused by Fusobacterium necrophorum; high-resolution contrast CT confirms jugular thrombosis. In the clinical evaluation of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Lemierre syndrome (postanginal sepsis) and internal jugular vein septic thrombop.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Lemierre syndrome (postanginal sepsis) and internal jugular vein septic thrombop."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Knowledge Summaries: Otitis Media and Vertigo",
+        "url": "https://cks.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1190",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Emergency bedside tracheostomy and cricothyroidotomy equipment readiness",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 56-year-old woman presenting with acute functional symptoms is evaluated in the acute surgical assessment unit requiring evaluation for Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess. Physical assessment reveals woody induration of the submandibular and sublingual spaces, elevated and protruding tongue, severe trismus, 'hot potato' muffled voice, uvular deviation, and impending upper airway obstruction. Clinical observations record blood pressure 114/76 mm Hg, heart rate 94/min, respiratory rate 15/min, and ambient oxygen saturation 98%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Keeping emergency surgical airway equipment, video laryngoscope, and flexible fiberoptic bronchoscope immediately at the bedside in the resuscitation bay.",
+        "explanation": "In advancing Ludwig angina or retropharyngeal abscess, sudden complete airway obstruction can develop within minutes; immediate surgical airway readiness is essential.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In advancing Ludwig angina or retropharyngeal abscess, sudden complete airway obstruction can develop within minutes; immediate surgical airway readiness is essential. In the clinical evaluation of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Emergency bedside tracheostomy and cricothyroidotomy equipment readiness.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Emergency bedside tracheostomy and cricothyroidotomy equipment readiness."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Knowledge Summaries: Otitis Media and Vertigo",
+        "url": "https://cks.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1191",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Differentiating peritonsillar cellulitis (phlegmon) from peritonsillar abscess",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 61-year-old man who undergoes urgent bedside assessment in the medical ward with prominent manifestations of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess. Bedside evaluation demonstrates woody induration of the submandibular and sublingual spaces, elevated and protruding tongue, severe trismus, 'hot potato' muffled voice, uvular deviation, and impending upper airway obstruction. Clinical observations record blood pressure 116/80 mm Hg, heart rate 97/min, respiratory rate 16/min, and ambient oxygen saturation 99%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Transoral point-of-care ultrasound or diagnostic needle aspiration confirming fluid collection (abscess) requiring drainage versus diffuse phlegmon managed medically.",
+        "explanation": "Peritonsillar cellulitis and abscess present identically; intraoral ultrasound or diagnostic needle aspiration differentiates drainable pus from phlegmon treated with IV antibiotics alone.",
+        "correct": true
+      }
+    ],
+    "explanation": "Peritonsillar cellulitis and abscess present identically; intraoral ultrasound or diagnostic needle aspiration differentiates drainable pus from phlegmon treated with IV antibiotics alone. In the clinical evaluation of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Differentiating peritonsillar cellulitis (phlegmon) from peritonsillar abscess.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Differentiating peritonsillar cellulitis (phlegmon) from peritonsillar abscess."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Knowledge Summaries: Otitis Media and Vertigo",
+        "url": "https://cks.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1192",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Hospital discharge criteria following deep neck space infection drainage",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old woman with recent symptom exacerbation presents to the acute subspecialty assessment center for urgent clarification of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess. Clinical examination highlights woody induration of the submandibular and sublingual spaces, elevated and protruding tongue, severe trismus, 'hot potato' muffled voice, uvular deviation, and impending upper airway obstruction. Clinical observations record blood pressure 118/84 mm Hg, heart rate 100/min, respiratory rate 17/min, and ambient oxygen saturation 94%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Complete resolution of trismus, tolerance of oral diet, absence of fever for >= 24 hours, and transition to culture-guided oral antibiotics for a total 10 to 14-day course.",
+        "explanation": "Discharge is safely permitted only when airway stability is fully assured, trismus has resolved, and the patient demonstrates dependable oral intake without signs of sepsis.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Discharge is safely permitted only when airway stability is fully assured, trismus has resolved, and the patient demonstrates dependable oral intake without signs of sepsis. In the clinical evaluation of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Hospital discharge criteria following deep neck space infection drainage.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Hospital discharge criteria following deep neck space infection drainage."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Knowledge Summaries: Otitis Media and Vertigo",
+        "url": "https://cks.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1193",
+    "exam": "UHS MBBS",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "Fascial layers of the neck and boundaries of the submandibular space",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 71-year-old man is evaluated during urgent inpatient consultation with clinical findings indicative of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess. Bedside physical examination confirms woody induration of the submandibular and sublingual spaces, elevated and protruding tongue, severe trismus, 'hot potato' muffled voice, uvular deviation, and impending upper airway obstruction. Clinical observations record blood pressure 120/88 mm Hg, heart rate 103/min, respiratory rate 18/min, and ambient oxygen saturation 95%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Investing layer of deep cervical fascia splitting to enclose the submandibular gland, bounded superiorly by the oral mucosa and inferiorly by the mylohyoid and digastric muscles.",
+        "explanation": "The submandibular space communicates directly with the sublingual space along the posterior free edge of the mylohyoid muscle, explaining rapid bilateral sublingual and submandibular spread.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "The submandibular space communicates directly with the sublingual space along the posterior free edge of the mylohyoid muscle, explaining rapid bilateral sublingual and submandibular spread. In the clinical evaluation of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Fascial layers of the neck and boundaries of the submandibular space.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Ludwig angina, Peritonsillar abscess (Quinsy), and Retropharyngeal abscess concerning Fascial layers of the neck and boundaries of the submandibular space."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Knowledge Summaries: Otitis Media and Vertigo",
+        "url": "https://cks.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1194",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Alcohol dehydrogenase metabolism to toxic formic and oxalic acids",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 23-year-old man with recent symptom exacerbation is evaluated during urgent inpatient consultation for urgent clarification of Methanol and Ethylene glycol poisoning. Clinical examination highlights severe high anion gap metabolic acidosis, elevated osmolar gap, visual blurring ('snowstorm' vision), optic disc hyperemia, calcium oxalate envelope crystals in urine, and acute renal failure. Clinical observations record blood pressure 143/87 mm Hg, heart rate 114/min, respiratory rate 18/min, and ambient oxygen saturation 97%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Alcohol dehydrogenase converting methanol to formic acid (causing retinal toxicity and putaminal necrosis) and ethylene glycol to glycolic/oxalic acids (causing acute tubular necrosis).",
+        "explanation": "Methanol toxicity is mediated by formic acid inhibiting mitochondrial cytochrome c oxidase; ethylene glycol generates oxalic acid which precipitates with calcium as insoluble monohydrate/dihydrate crystals.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "Methanol toxicity is mediated by formic acid inhibiting mitochondrial cytochrome c oxidase; ethylene glycol generates oxalic acid which precipitates with calcium as insoluble monohydrate/dihydrate crystals. In the clinical evaluation of Methanol and Ethylene glycol poisoning, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Alcohol dehydrogenase metabolism to toxic formic and oxalic acids.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Alcohol dehydrogenase metabolism to toxic formic and oxalic acids."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1195",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Immediate fomepizole administration and indications for emergent hemodialysis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 28-year-old woman attends the specialized ambulatory medical clinic with clinical findings indicative of Methanol and Ethylene glycol poisoning. Bedside physical examination confirms severe high anion gap metabolic acidosis, elevated osmolar gap, visual blurring ('snowstorm' vision), optic disc hyperemia, calcium oxalate envelope crystals in urine, and acute renal failure. Clinical observations record blood pressure 145/67 mm Hg, heart rate 73/min, respiratory rate 19/min, and ambient oxygen saturation 98%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering intravenous fomepizole (competitive alcohol dehydrogenase inhibitor) and arranging urgent hemodialysis for severe acidemia (pH < 7.25), visual symptoms, or renal failure.",
+        "explanation": "Fomepizole has an affinity for alcohol dehydrogenase 8,000 times higher than ethanol; early administration prevents conversion of parent alcohols into lethal toxic metabolites.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Fomepizole has an affinity for alcohol dehydrogenase 8,000 times higher than ethanol; early administration prevents conversion of parent alcohols into lethal toxic metabolites. In the clinical evaluation of Methanol and Ethylene glycol poisoning, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Immediate fomepizole administration and indications for emergent hemodialysis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Immediate fomepizole administration and indications for emergent hemodialysis."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1196",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Calculating osmolar gap and cofactor supplementation (folinic acid, thiamine, py",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 33-year-old man who is urgently admitted to the emergency observation suite due to suspected Methanol and Ethylene glycol poisoning. Clinical examination demonstrates severe high anion gap metabolic acidosis, elevated osmolar gap, visual blurring ('snowstorm' vision), optic disc hyperemia, calcium oxalate envelope crystals in urine, and acute renal failure. Clinical observations record blood pressure 147/71 mm Hg, heart rate 76/min, respiratory rate 20/min, and ambient oxygen saturation 99%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Calculating the serum osmolar gap (measured minus calculated osmolarity > 10-15 mOsm/kg) and administering folinic acid for methanol and thiamine/pyridoxine for ethylene glycol.",
+        "explanation": "Folinic acid enhances endogenous metabolism of toxic formic acid to carbon dioxide and water; thiamine and pyridoxine shift ethylene glycol breakdown toward non-toxic alpha-hydroxybutyrate and glycine.",
+        "correct": true
+      }
+    ],
+    "explanation": "Folinic acid enhances endogenous metabolism of toxic formic acid to carbon dioxide and water; thiamine and pyridoxine shift ethylene glycol breakdown toward non-toxic alpha-hydroxybutyrate and glycine. In the clinical evaluation of Methanol and Ethylene glycol poisoning, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Calculating osmolar gap and cofactor supplementation (folinic acid, thiamine, py.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Calculating osmolar gap and cofactor supplementation (folinic acid, thiamine, py."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1197",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "National Poisons Information Service (TOXBASE) guidance and ethanol infusion fal",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 38-year-old woman presenting with acute functional symptoms presents to the tertiary trauma and critical care unit requiring evaluation for Methanol and Ethylene glycol poisoning. Physical assessment reveals severe high anion gap metabolic acidosis, elevated osmolar gap, visual blurring ('snowstorm' vision), optic disc hyperemia, calcium oxalate envelope crystals in urine, and acute renal failure. Clinical observations record blood pressure 149/75 mm Hg, heart rate 79/min, respiratory rate 21/min, and ambient oxygen saturation 94%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Consulting TOXBASE and initiating intravenous ethanol infusion if fomepizole is unavailable, targeting a serum ethanol concentration of 100 to 150 mg/dL (22 to 33 mmol/L).",
+        "explanation": "Ethanol serves as a competitive substrate for alcohol dehydrogenase; when fomepizole is not stocked, IV ethanol infusion delays toxic metabolite production pending transfer for hemodialysis.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "Ethanol serves as a competitive substrate for alcohol dehydrogenase; when fomepizole is not stocked, IV ethanol infusion delays toxic metabolite production pending transfer for hemodialysis. In the clinical evaluation of Methanol and Ethylene glycol poisoning, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning National Poisons Information Service (TOXBASE) guidance and ethanol infusion fal.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning National Poisons Information Service (TOXBASE) guidance and ethanol infusion fal."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1198",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Urinary microscopy for calcium oxalate monohydrate and dihydrate crystals",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 43-year-old man who undergoes multidisciplinary diagnostic evaluation in the clinic with prominent manifestations of Methanol and Ethylene glycol poisoning. Bedside evaluation demonstrates severe high anion gap metabolic acidosis, elevated osmolar gap, visual blurring ('snowstorm' vision), optic disc hyperemia, calcium oxalate envelope crystals in urine, and acute renal failure. Clinical observations record blood pressure 151/79 mm Hg, heart rate 82/min, respiratory rate 22/min, and ambient oxygen saturation 95%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Performing urine sediment microscopy under polarized light to identify envelope-shaped (dihydrate) or needle/dumbbell-shaped (monohydrate) calcium oxalate crystals.",
+        "explanation": "Identification of calcium oxalate crystals in a patient with severe metabolic acidosis and acute renal injury is pathognomonic of ethylene glycol (antifreeze) ingestion.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Identification of calcium oxalate crystals in a patient with severe metabolic acidosis and acute renal injury is pathognomonic of ethylene glycol (antifreeze) ingestion. In the clinical evaluation of Methanol and Ethylene glycol poisoning, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Urinary microscopy for calcium oxalate monohydrate and dihydrate crystals.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Urinary microscopy for calcium oxalate monohydrate and dihydrate crystals."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1199",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Distinguishing toxic alcohol ingestion from alcoholic ketoacidosis and DKA",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old woman with recent symptom exacerbation is brought by paramedic transfer to the emergency department for urgent clarification of Methanol and Ethylene glycol poisoning. Clinical examination highlights severe high anion gap metabolic acidosis, elevated osmolar gap, visual blurring ('snowstorm' vision), optic disc hyperemia, calcium oxalate envelope crystals in urine, and acute renal failure. Clinical observations record blood pressure 109/83 mm Hg, heart rate 85/min, respiratory rate 23/min, and ambient oxygen saturation 96%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Differentiating toxic alcohol toxicity (high osmolar gap + high anion gap without prominent ketonuria) from diabetic ketoacidosis and starvation/alcoholic ketoacidosis.",
+        "explanation": "In toxic alcohol ingestion, the osmolar gap is highest early after ingestion before parent alcohols are metabolized; as acidosis worsens, the osmolar gap falls while the anion gap widens.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "In toxic alcohol ingestion, the osmolar gap is highest early after ingestion before parent alcohols are metabolized; as acidosis worsens, the osmolar gap falls while the anion gap widens. In the clinical evaluation of Methanol and Ethylene glycol poisoning, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Distinguishing toxic alcohol ingestion from alcoholic ketoacidosis and DKA.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Distinguishing toxic alcohol ingestion from alcoholic ketoacidosis and DKA."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1200",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Bilateral putaminal necrosis and hemorrhagic infarction on neuroimaging in metha",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old man attends the scheduled hospital outpatient review with clinical findings indicative of Methanol and Ethylene glycol poisoning. Bedside physical examination confirms severe high anion gap metabolic acidosis, elevated osmolar gap, visual blurring ('snowstorm' vision), optic disc hyperemia, calcium oxalate envelope crystals in urine, and acute renal failure. Clinical observations record blood pressure 111/87 mm Hg, heart rate 88/min, respiratory rate 24/min, and ambient oxygen saturation 97%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Non-contrast brain CT or T2-weighted MRI demonstrating bilateral symmetrical hypodensity or T2-hyperintensity and necrosis of the putamen in methanol poisoning.",
+        "explanation": "Formic acid exhibits selective cytotoxic affinity for the basal ganglia, particularly the putamen; putaminal necrosis and optic nerve demyelination produce permanent visual and parkinsonian deficits.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Formic acid exhibits selective cytotoxic affinity for the basal ganglia, particularly the putamen; putaminal necrosis and optic nerve demyelination produce permanent visual and parkinsonian deficits. In the clinical evaluation of Methanol and Ethylene glycol poisoning, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Bilateral putaminal necrosis and hemorrhagic infarction on neuroimaging in metha.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Bilateral putaminal necrosis and hemorrhagic infarction on neuroimaging in metha."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1201",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "First-line antidote and calculation of the serum anion gap",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is performed for a 58-year-old woman who is evaluated in the acute surgical assessment unit due to suspected Methanol and Ethylene glycol poisoning. Clinical examination demonstrates severe high anion gap metabolic acidosis, elevated osmolar gap, visual blurring ('snowstorm' vision), optic disc hyperemia, calcium oxalate envelope crystals in urine, and acute renal failure. Clinical observations record blood pressure 113/67 mm Hg, heart rate 91/min, respiratory rate 25/min, and ambient oxygen saturation 98%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous fomepizole and calculating the anion gap [Na - (Cl + HCO3)] to verify elevated gap metabolic acidosis exceeding 12 mEq/L.",
+        "explanation": "Anion gap elevation reflects accumulation of unmeasured toxic anions (formate or glycolate); timely fomepizole prevents continued unmeasured anion accumulation.",
+        "correct": true
+      }
+    ],
+    "explanation": "Anion gap elevation reflects accumulation of unmeasured toxic anions (formate or glycolate); timely fomepizole prevents continued unmeasured anion accumulation. In the clinical evaluation of Methanol and Ethylene glycol poisoning, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning First-line antidote and calculation of the serum anion gap.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning First-line antidote and calculation of the serum anion gap."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1202",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Wood's lamp examination of urine and fluorescence of sodium fluorescein additive",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old man presenting with acute functional symptoms undergoes urgent bedside assessment in the medical ward requiring evaluation for Methanol and Ethylene glycol poisoning. Physical assessment reveals severe high anion gap metabolic acidosis, elevated osmolar gap, visual blurring ('snowstorm' vision), optic disc hyperemia, calcium oxalate envelope crystals in urine, and acute renal failure. Clinical observations record blood pressure 115/71 mm Hg, heart rate 94/min, respiratory rate 15/min, and ambient oxygen saturation 99%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Illuminating freshly voided urine with a Wood's ultraviolet lamp to detect bright yellow-green fluorescence of sodium fluorescein added to commercial antifreeze.",
+        "explanation": "Many antifreeze formulations contain fluorescein dye; ultraviolet inspection within 4 hours of ingestion can provide a rapid presumptive bedside diagnosis of ethylene glycol ingestion.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Many antifreeze formulations contain fluorescein dye; ultraviolet inspection within 4 hours of ingestion can provide a rapid presumptive bedside diagnosis of ethylene glycol ingestion. In the clinical evaluation of Methanol and Ethylene glycol poisoning, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Wood's lamp examination of urine and fluorescence of sodium fluorescein additive.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Wood's lamp examination of urine and fluorescence of sodium fluorescein additive."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1203",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Extracorporeal clearance kinetics and hemodialysis endpoints in toxic alcohol po",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 68-year-old woman who presents to the acute subspecialty assessment center with prominent manifestations of Methanol and Ethylene glycol poisoning. Bedside evaluation demonstrates severe high anion gap metabolic acidosis, elevated osmolar gap, visual blurring ('snowstorm' vision), optic disc hyperemia, calcium oxalate envelope crystals in urine, and acute renal failure. Clinical observations record blood pressure 117/75 mm Hg, heart rate 97/min, respiratory rate 16/min, and ambient oxygen saturation 94%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Hemodialysis clearances of parent alcohols and toxic metabolites, continuing hemodialysis until toxic alcohol levels are undetectable and acid-base status normalizes.",
+        "explanation": "Hemodialysis rapidly clears both small molecular parent compounds (methanol, ethylene glycol) and toxic organic acid metabolites (formate, glycolate), correcting lethal metabolic acidemia.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Hemodialysis rapidly clears both small molecular parent compounds (methanol, ethylene glycol) and toxic organic acid metabolites (formate, glycolate), correcting lethal metabolic acidemia. In the clinical evaluation of Methanol and Ethylene glycol poisoning, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Extracorporeal clearance kinetics and hemodialysis endpoints in toxic alcohol po.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Extracorporeal clearance kinetics and hemodialysis endpoints in toxic alcohol po."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1204",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Emergency airway protection and avoidance of hyperventilation suppression in sev",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old man with recent symptom exacerbation is evaluated during urgent inpatient consultation for urgent clarification of Methanol and Ethylene glycol poisoning. Clinical examination highlights severe high anion gap metabolic acidosis, elevated osmolar gap, visual blurring ('snowstorm' vision), optic disc hyperemia, calcium oxalate envelope crystals in urine, and acute renal failure. Clinical observations record blood pressure 119/79 mm Hg, heart rate 100/min, respiratory rate 17/min, and ambient oxygen saturation 95%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Maintaining high minute ventilation matching compensatory respiratory alkalosis if intubation is required, to avoid catastrophic worsening of acidemia.",
+        "explanation": "Patients compensate for severe metabolic acidosis with intense Kussmaul hyperventilation; standard mechanical ventilator settings cause acute rise in PaCO2 and precipitous fatal drop in arterial pH.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Patients compensate for severe metabolic acidosis with intense Kussmaul hyperventilation; standard mechanical ventilator settings cause acute rise in PaCO2 and precipitous fatal drop in arterial pH. In the clinical evaluation of Methanol and Ethylene glycol poisoning, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Emergency airway protection and avoidance of hyperventilation suppression in sev.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Emergency airway protection and avoidance of hyperventilation suppression in sev."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1205",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Toxicology screening panels and cross-reactivity limitations with enzymatic assa",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 20-year-old woman attends the specialized ambulatory medical clinic with clinical findings indicative of Methanol and Ethylene glycol poisoning. Bedside physical examination confirms severe high anion gap metabolic acidosis, elevated osmolar gap, visual blurring ('snowstorm' vision), optic disc hyperemia, calcium oxalate envelope crystals in urine, and acute renal failure. Clinical observations record blood pressure 121/83 mm Hg, heart rate 103/min, respiratory rate 18/min, and ambient oxygen saturation 96%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Recognizing that standard hospital toxicology screens do not detect methanol or ethylene glycol, requiring specific gas chromatography or enzymatic volatile screens.",
+        "explanation": "Standard urine drug screens only detect common drugs of abuse (opiates, cocaine, cannabinoids); toxic alcohols require specific blood assays or surrogate calculated osmolar gap evaluation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Standard urine drug screens only detect common drugs of abuse (opiates, cocaine, cannabinoids); toxic alcohols require specific blood assays or surrogate calculated osmolar gap evaluation. In the clinical evaluation of Methanol and Ethylene glycol poisoning, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Toxicology screening panels and cross-reactivity limitations with enzymatic assa.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Toxicology screening panels and cross-reactivity limitations with enzymatic assa."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1206",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Occupational and industrial solvent exposure reporting in workplace toxicity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 25-year-old man who is urgently admitted to the emergency observation suite due to suspected Methanol and Ethylene glycol poisoning. Clinical examination demonstrates severe high anion gap metabolic acidosis, elevated osmolar gap, visual blurring ('snowstorm' vision), optic disc hyperemia, calcium oxalate envelope crystals in urine, and acute renal failure. Clinical observations record blood pressure 123/87 mm Hg, heart rate 106/min, respiratory rate 19/min, and ambient oxygen saturation 97%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Filing statutory occupational health incident notification for commercial solvent ingestions and enforcing chemical storage container labeling standards.",
+        "explanation": "Unintentional toxic alcohol ingestions frequently occur when industrial solvents or adulterated spirits are stored in unlabelled beverage containers, mandating regulatory inspection.",
+        "correct": true
+      }
+    ],
+    "explanation": "Unintentional toxic alcohol ingestions frequently occur when industrial solvents or adulterated spirits are stored in unlabelled beverage containers, mandating regulatory inspection. In the clinical evaluation of Methanol and Ethylene glycol poisoning, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Occupational and industrial solvent exposure reporting in workplace toxicity.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Occupational and industrial solvent exposure reporting in workplace toxicity."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1207",
+    "exam": "UHS MBBS",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Biochemical formula for serum osmolarity and calculated osmolar gap",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 30-year-old woman presenting with acute functional symptoms presents to the tertiary trauma and critical care unit requiring evaluation for Methanol and Ethylene glycol poisoning. Physical assessment reveals severe high anion gap metabolic acidosis, elevated osmolar gap, visual blurring ('snowstorm' vision), optic disc hyperemia, calcium oxalate envelope crystals in urine, and acute renal failure. Clinical observations record blood pressure 125/67 mm Hg, heart rate 109/min, respiratory rate 20/min, and ambient oxygen saturation 98%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Calculated osmolarity = 2[Na] + [Glucose]/18 + [BUN]/2.8; osmolar gap = measured osmolality minus calculated osmolarity (>10 mOsm/L is abnormal).",
+        "explanation": "Discrepancy between measured freezing-point depression osmolality and calculated serum osmolarity indicates the presence of unmeasured low-molecular-weight solutes (toxic alcohols).",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Discrepancy between measured freezing-point depression osmolality and calculated serum osmolarity indicates the presence of unmeasured low-molecular-weight solutes (toxic alcohols). In the clinical evaluation of Methanol and Ethylene glycol poisoning, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Biochemical formula for serum osmolarity and calculated osmolar gap.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Methanol and Ethylene glycol poisoning concerning Biochemical formula for serum osmolarity and calculated osmolar gap."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1208",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "CYP2E1 oxidation to toxic NAPQI, glutathione depletion, and centrilobular zone 3",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 40-year-old woman who presents to the tertiary trauma and critical care unit due to suspected Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure. Clinical examination demonstrates initial asymptomatic or mild nausea phase, followed at 48-72 hours by severe right upper quadrant pain, profound jaundice, massive transaminitis (AST/ALT > 1,000-10,000 U/L), coagulopathy, and encephalopathy. Clinical observations record blood pressure 148/66 mm Hg, heart rate 76/min, respiratory rate 20/min, and ambient oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Saturation of phase II glucuronidation and sulfation, shunting acetaminophen to CYP2E1 oxidation into N-acetyl-p-benzoquinone imine (NAPQI), depleting hepatic glutathione and causing zone 3 necrosis.",
+        "explanation": "When hepatic glutathione stores fall below 30% of normal, electrophilic NAPQI binds covalently to mitochondrial and cellular macromolecules, causing severe centrilobular (zone 3) hepatic necrosis.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "When hepatic glutathione stores fall below 30% of normal, electrophilic NAPQI binds covalently to mitochondrial and cellular macromolecules, causing severe centrilobular (zone 3) hepatic necrosis. In the clinical evaluation of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning CYP2E1 oxidation to toxic NAPQI, glutathione depletion, and centrilobular zone 3.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning CYP2E1 oxidation to toxic NAPQI, glutathione depletion, and centrilobular zone 3."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1209",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Rumack-Matthew nomogram interpretation and timing of N-acetylcysteine (NAC) admi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old man presenting with acute functional symptoms undergoes multidisciplinary diagnostic evaluation in the clinic requiring evaluation for Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure. Physical assessment reveals initial asymptomatic or mild nausea phase, followed at 48-72 hours by severe right upper quadrant pain, profound jaundice, massive transaminitis (AST/ALT > 1,000-10,000 U/L), coagulopathy, and encephalopathy. Clinical observations record blood pressure 150/70 mm Hg, heart rate 79/min, respiratory rate 21/min, and ambient oxygen saturation 95%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Plotting 4-hour post-ingestion serum acetaminophen concentration on the Rumack-Matthew nomogram and administering N-acetylcysteine within 8 hours of acute ingestion.",
+        "explanation": "NAC replenishes hepatic glutathione stores and acts as a direct glutathione surrogate; administration within 8 hours of acute ingestion reduces the risk of severe hepatotoxicity to < 2%.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "NAC replenishes hepatic glutathione stores and acts as a direct glutathione surrogate; administration within 8 hours of acute ingestion reduces the risk of severe hepatotoxicity to < 2%. In the clinical evaluation of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Rumack-Matthew nomogram interpretation and timing of N-acetylcysteine (NAC) admi.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Rumack-Matthew nomogram interpretation and timing of N-acetylcysteine (NAC) admi."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1210",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "King's College Hospital criteria for emergency liver transplantation in acute li",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 50-year-old woman who is brought by paramedic transfer to the emergency department with prominent manifestations of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure. Bedside evaluation demonstrates initial asymptomatic or mild nausea phase, followed at 48-72 hours by severe right upper quadrant pain, profound jaundice, massive transaminitis (AST/ALT > 1,000-10,000 U/L), coagulopathy, and encephalopathy. Clinical observations record blood pressure 108/74 mm Hg, heart rate 82/min, respiratory rate 22/min, and ambient oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Evaluating for liver transplantation criteria: arterial pH < 7.30 after fluid resuscitation, or INR > 6.5, serum creatinine > 3.4 mg/dL (300 umol/L), and grade III/IV encephalopathy within 24 hours.",
+        "explanation": "Acetaminophen-induced acute liver failure carries high mortality once severe encephalopathy and multi-organ dysfunction supervene; King's College criteria identify candidates requiring urgent grafting.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Acetaminophen-induced acute liver failure carries high mortality once severe encephalopathy and multi-organ dysfunction supervene; King's College criteria identify candidates requiring urgent grafting. In the clinical evaluation of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning King's College Hospital criteria for emergency liver transplantation in acute li.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning King's College Hospital criteria for emergency liver transplantation in acute li."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1211",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UK single treatment line protocol on the paracetamol overdose nomogram",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 55-year-old man with recent symptom exacerbation attends the scheduled hospital outpatient review for urgent clarification of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure. Clinical examination highlights initial asymptomatic or mild nausea phase, followed at 48-72 hours by severe right upper quadrant pain, profound jaundice, massive transaminitis (AST/ALT > 1,000-10,000 U/L), coagulopathy, and encephalopathy. Clinical observations record blood pressure 110/78 mm Hg, heart rate 85/min, respiratory rate 23/min, and ambient oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous N-acetylcysteine immediately if the paracetamol concentration lies on or above the single 100 mg/L treatment line at 4 hours post-ingestion.",
+        "explanation": "UK guidelines utilize a single treatment threshold line (100 mg/L at 4 hours) for all patients, eliminating the previous high-risk vs normal-risk dichotomy to enhance clinical safety.",
+        "correct": true
+      }
+    ],
+    "explanation": "UK guidelines utilize a single treatment threshold line (100 mg/L at 4 hours) for all patients, eliminating the previous high-risk vs normal-risk dichotomy to enhance clinical safety. In the clinical evaluation of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning UK single treatment line protocol on the paracetamol overdose nomogram.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning UK single treatment line protocol on the paracetamol overdose nomogram."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1212",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Management of staggered or chronic supratherapeutic acetaminophen ingestions",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old woman is evaluated in the acute surgical assessment unit with clinical findings indicative of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure. Bedside physical examination confirms initial asymptomatic or mild nausea phase, followed at 48-72 hours by severe right upper quadrant pain, profound jaundice, massive transaminitis (AST/ALT > 1,000-10,000 U/L), coagulopathy, and encephalopathy. Clinical observations record blood pressure 112/82 mm Hg, heart rate 88/min, respiratory rate 24/min, and ambient oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Treating staggered ingestions (taken over > 2 hours) or chronic supratherapeutic dosing with immediate intravenous NAC if paracetamol is detectable or transaminases are elevated.",
+        "explanation": "The Rumack-Matthew nomogram applies strictly to single acute ingestions presenting within 24 hours; staggered ingestions cannot be risk-stratified with the nomogram and mandate empiric NAC.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "The Rumack-Matthew nomogram applies strictly to single acute ingestions presenting within 24 hours; staggered ingestions cannot be risk-stratified with the nomogram and mandate empiric NAC. In the clinical evaluation of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Management of staggered or chronic supratherapeutic acetaminophen ingestions.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Management of staggered or chronic supratherapeutic acetaminophen ingestions."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1213",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Oral vs intravenous N-acetylcysteine protocols and management of anaphylactoid r",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 65-year-old man who undergoes urgent bedside assessment in the medical ward due to suspected Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure. Clinical examination demonstrates initial asymptomatic or mild nausea phase, followed at 48-72 hours by severe right upper quadrant pain, profound jaundice, massive transaminitis (AST/ALT > 1,000-10,000 U/L), coagulopathy, and encephalopathy. Clinical observations record blood pressure 114/86 mm Hg, heart rate 91/min, respiratory rate 25/min, and ambient oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Managing non-IgE-mediated anaphylactoid reactions to IV NAC (flushing, urticaria, bronchospasm) by temporarily pausing infusion, administering antihistamines, and restarting at a lower rate.",
+        "explanation": "Anaphylactoid reactions to IV NAC are caused by direct histamine release rather than IgE-mediated anaphylaxis; symptoms resolve with rate reduction and antihistamines without needing drug discontinuation.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Anaphylactoid reactions to IV NAC are caused by direct histamine release rather than IgE-mediated anaphylaxis; symptoms resolve with rate reduction and antihistamines without needing drug discontinuation. In the clinical evaluation of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Oral vs intravenous N-acetylcysteine protocols and management of anaphylactoid r.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Oral vs intravenous N-acetylcysteine protocols and management of anaphylactoid r."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1214",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Surgical liver transplant evaluation and MELD score in acute toxic liver failure",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 70-year-old woman presenting with acute functional symptoms presents to the acute subspecialty assessment center requiring evaluation for Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure. Physical assessment reveals initial asymptomatic or mild nausea phase, followed at 48-72 hours by severe right upper quadrant pain, profound jaundice, massive transaminitis (AST/ALT > 1,000-10,000 U/L), coagulopathy, and encephalopathy. Clinical observations record blood pressure 116/66 mm Hg, heart rate 94/min, respiratory rate 15/min, and ambient oxygen saturation 94%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Emergency liver transplant listing with continuous veno-venous hemodiafiltration, intracranial pressure monitoring, and intravenous NAC continuation until coagulopathy resolves.",
+        "explanation": "Intravenous NAC provides systemic antioxidant, inotropic, and microvascular benefits in established acute liver failure even after the initial 24-hour therapeutic window has passed.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Intravenous NAC provides systemic antioxidant, inotropic, and microvascular benefits in established acute liver failure even after the initial 24-hour therapeutic window has passed. In the clinical evaluation of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Surgical liver transplant evaluation and MELD score in acute toxic liver failure.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Surgical liver transplant evaluation and MELD score in acute toxic liver failure."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1215",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Four clinical stages of acute acetaminophen poisoning",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is commenced for a 75-year-old man who is evaluated during urgent inpatient consultation with prominent manifestations of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure. Bedside evaluation demonstrates initial asymptomatic or mild nausea phase, followed at 48-72 hours by severe right upper quadrant pain, profound jaundice, massive transaminitis (AST/ALT > 1,000-10,000 U/L), coagulopathy, and encephalopathy. Clinical observations record blood pressure 118/70 mm Hg, heart rate 97/min, respiratory rate 16/min, and ambient oxygen saturation 95%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Stage 1 (0-24h: nausea/vomiting), Stage 2 (24-72h: transaminitis, RUQ pain), Stage 3 (72-96h: peak hepatotoxicity, jaundice, coagulopathy), Stage 4 (4-14 days: recovery or death).",
+        "explanation": "Recognizing the deceptive clinical latency in Stage 1 is crucial; patients may feel relatively well despite irreversible hepatic biochemical cascade initiation if NAC is delayed.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Recognizing the deceptive clinical latency in Stage 1 is crucial; patients may feel relatively well despite irreversible hepatic biochemical cascade initiation if NAC is delayed. In the clinical evaluation of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Four clinical stages of acute acetaminophen poisoning.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Four clinical stages of acute acetaminophen poisoning."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1216",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "Role of chronic alcohol consumption and CYP2E1 induction in lowering toxic thres",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 22-year-old woman with recent symptom exacerbation attends the specialized ambulatory medical clinic for urgent clarification of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure. Clinical examination highlights initial asymptomatic or mild nausea phase, followed at 48-72 hours by severe right upper quadrant pain, profound jaundice, massive transaminitis (AST/ALT > 1,000-10,000 U/L), coagulopathy, and encephalopathy. Clinical observations record blood pressure 120/74 mm Hg, heart rate 100/min, respiratory rate 17/min, and ambient oxygen saturation 96%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Chronic ethanol consumption inducing hepatic CYP2E1 and depleting baseline nutritional glutathione stores, predisposing to severe hepatotoxicity at lower doses (< 4 g/day).",
+        "explanation": "Chronic alcoholism induces cytochrome P450 2E1 expression and diminishes hepatic glutathione; acute alcohol co-ingestion, however, competitively inhibits CYP2E1, providing transient hepatoprotection.",
+        "correct": true
+      }
+    ],
+    "explanation": "Chronic alcoholism induces cytochrome P450 2E1 expression and diminishes hepatic glutathione; acute alcohol co-ingestion, however, competitively inhibits CYP2E1, providing transient hepatoprotection. In the clinical evaluation of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Role of chronic alcohol consumption and CYP2E1 induction in lowering toxic thres.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Role of chronic alcohol consumption and CYP2E1 induction in lowering toxic thres."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1217",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Biomarkers of acute hepatic necrosis: rapid INR rise preceding hyperbilirubinemi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 27-year-old man is urgently admitted to the emergency observation suite with clinical findings indicative of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure. Bedside physical examination confirms initial asymptomatic or mild nausea phase, followed at 48-72 hours by severe right upper quadrant pain, profound jaundice, massive transaminitis (AST/ALT > 1,000-10,000 U/L), coagulopathy, and encephalopathy. Clinical observations record blood pressure 122/78 mm Hg, heart rate 103/min, respiratory rate 18/min, and ambient oxygen saturation 97%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing that coagulopathy (INR prolongation due to factor VII half-life of 6 hours) is the earliest and most sensitive marker of impaired synthetic hepatic function.",
+        "explanation": "Factor VII has the shortest biological half-life of all clotting factors; acute prolongation of the prothrombin time/INR heralds severe hepatocyte death before significant jaundice develops.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Factor VII has the shortest biological half-life of all clotting factors; acute prolongation of the prothrombin time/INR heralds severe hepatocyte death before significant jaundice develops. In the clinical evaluation of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Biomarkers of acute hepatic necrosis: rapid INR rise preceding hyperbilirubinemi.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Biomarkers of acute hepatic necrosis: rapid INR rise preceding hyperbilirubinemi."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1218",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Emergency administration of activated charcoal within 1 to 2 hours of ingestion",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 32-year-old woman who presents to the tertiary trauma and critical care unit due to suspected Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure. Clinical examination demonstrates initial asymptomatic or mild nausea phase, followed at 48-72 hours by severe right upper quadrant pain, profound jaundice, massive transaminitis (AST/ALT > 1,000-10,000 U/L), coagulopathy, and encephalopathy. Clinical observations record blood pressure 124/82 mm Hg, heart rate 106/min, respiratory rate 19/min, and ambient oxygen saturation 98%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering oral activated charcoal (1 g/kg, up to 50 g) if the patient presents within 1 to 2 hours of a potentially toxic acute paracetamol ingestion.",
+        "explanation": "Activated charcoal binds acetaminophen avidly in the stomach, reducing systemic absorption by up to 50-70% when given early, without interfering with subsequent IV NAC efficacy.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Activated charcoal binds acetaminophen avidly in the stomach, reducing systemic absorption by up to 50-70% when given early, without interfering with subsequent IV NAC efficacy. In the clinical evaluation of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Emergency administration of activated charcoal within 1 to 2 hours of ingestion.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Emergency administration of activated charcoal within 1 to 2 hours of ingestion."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1219",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Criteria for stopping N-acetylcysteine infusion: AST/ALT and INR normalization",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old man presenting with acute functional symptoms undergoes multidisciplinary diagnostic evaluation in the clinic requiring evaluation for Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure. Physical assessment reveals initial asymptomatic or mild nausea phase, followed at 48-72 hours by severe right upper quadrant pain, profound jaundice, massive transaminitis (AST/ALT > 1,000-10,000 U/L), coagulopathy, and encephalopathy. Clinical observations record blood pressure 126/86 mm Hg, heart rate 109/min, respiratory rate 20/min, and ambient oxygen saturation 99%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Continuing NAC beyond the standard 21-hour infusion until serum acetaminophen is undetectable, ALT is clearly declining, and INR has normalized to < 2.0.",
+        "explanation": "Fixed 21-hour protocols are inadequate for massive overdoses or ongoing hepatic injury; therapy must be extended based on objective biochemical markers of hepatic recovery.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Fixed 21-hour protocols are inadequate for massive overdoses or ongoing hepatic injury; therapy must be extended based on objective biochemical markers of hepatic recovery. In the clinical evaluation of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Criteria for stopping N-acetylcysteine infusion: AST/ALT and INR normalization.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Criteria for stopping N-acetylcysteine infusion: AST/ALT and INR normalization."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1220",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Public health restrictions on over-the-counter blister packaging and pack sizes",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 42-year-old woman who is brought by paramedic transfer to the emergency department with prominent manifestations of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure. Bedside evaluation demonstrates initial asymptomatic or mild nausea phase, followed at 48-72 hours by severe right upper quadrant pain, profound jaundice, massive transaminitis (AST/ALT > 1,000-10,000 U/L), coagulopathy, and encephalopathy. Clinical observations record blood pressure 128/66 mm Hg, heart rate 112/min, respiratory rate 21/min, and ambient oxygen saturation 94%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Enforcing statutory pharmaceutical regulations restricting maximum over-the-counter pack sizes to blister packs containing <= 16 to 32 tablets.",
+        "explanation": "Legislation limiting over-the-counter blister pack sizes reduces impulse suicide attempts and substantially lowers the incidence of severe paracetamol-induced liver failure.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Legislation limiting over-the-counter blister pack sizes reduces impulse suicide attempts and substantially lowers the incidence of severe paracetamol-induced liver failure. In the clinical evaluation of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Public health restrictions on over-the-counter blister packaging and pack sizes.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Public health restrictions on over-the-counter blister packaging and pack sizes."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1221",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "Chemical structure of acetaminophen and phase II hepatic conjugation pathways",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 47-year-old man with recent symptom exacerbation attends the scheduled hospital outpatient review for urgent clarification of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure. Clinical examination highlights initial asymptomatic or mild nausea phase, followed at 48-72 hours by severe right upper quadrant pain, profound jaundice, massive transaminitis (AST/ALT > 1,000-10,000 U/L), coagulopathy, and encephalopathy. Clinical observations record blood pressure 130/70 mm Hg, heart rate 115/min, respiratory rate 22/min, and ambient oxygen saturation 95%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Para-aminophenol derivative primarily conjugated by hepatic glucuronyl transferase (60%) and sulfotransferase (35%) into non-toxic water-soluble renal excretion products.",
+        "explanation": "In therapeutic doses, over 90% of acetaminophen is safely conjugated to glucuronide and sulfate metabolites; less than 5% enters the CYP2E1 pathway, safely neutralized by glutathione.",
+        "correct": true
+      }
+    ],
+    "explanation": "In therapeutic doses, over 90% of acetaminophen is safely conjugated to glucuronide and sulfate metabolites; less than 5% enters the CYP2E1 pathway, safely neutralized by glutathione. In the clinical evaluation of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Chemical structure of acetaminophen and phase II hepatic conjugation pathways.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acetaminophen (Paracetamol) hepatotoxicity and acute liver failure concerning Chemical structure of acetaminophen and phase II hepatic conjugation pathways."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1222",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "Respiratory",
+    "topic": "Left-shift of oxygen-hemoglobin curve by CO and Complex IV cytochrome inhibition",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 57-year-old man who attends the scheduled hospital outpatient review with prominent manifestations of Carbon monoxide (CO) and Cyanide poisoning in house fire victims. Bedside evaluation demonstrates headache, confusion, cherry-red skin (rare/post-mortem), normal pulse oximetry with falsely high oxygen saturation, marked lactic acidosis (> 8-10 mmol/L), and acute cardiovascular collapse following smoke inhalation. Clinical observations record blood pressure 109/69 mm Hg, heart rate 82/min, respiratory rate 22/min, and ambient oxygen saturation 97%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "CO binding hemoglobin with 240-fold greater affinity than oxygen, shifting the curve leftward, while cyanide binds ferric iron (Fe3+) in mitochondrial cytochrome c oxidase (complex IV) halting ATP synthesis.",
+        "explanation": "Carboxyhemoglobin causes tissue hypoxia through cooperative left-shifting of the dissociation curve preventing oxygen unloading; cyanide produces histotoxic anoxia by inhibiting oxidative phosphorylation.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Carboxyhemoglobin causes tissue hypoxia through cooperative left-shifting of the dissociation curve preventing oxygen unloading; cyanide produces histotoxic anoxia by inhibiting oxidative phosphorylation. In the clinical evaluation of Carbon monoxide (CO) and Cyanide poisoning in house fire victims, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Left-shift of oxygen-hemoglobin curve by CO and Complex IV cytochrome inhibition.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Left-shift of oxygen-hemoglobin curve by CO and Complex IV cytochrome inhibition."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1223",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Immediate 100% normobaric oxygen for CO and intravenous hydroxocobalamin for cya",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 62-year-old woman with recent symptom exacerbation is evaluated in the acute surgical assessment unit for urgent clarification of Carbon monoxide (CO) and Cyanide poisoning in house fire victims. Clinical examination highlights headache, confusion, cherry-red skin (rare/post-mortem), normal pulse oximetry with falsely high oxygen saturation, marked lactic acidosis (> 8-10 mmol/L), and acute cardiovascular collapse following smoke inhalation. Clinical observations record blood pressure 111/73 mm Hg, heart rate 85/min, respiratory rate 23/min, and ambient oxygen saturation 98%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Administering 100% normobaric oxygen via non-rebreather mask for carbon monoxide, and empirical intravenous hydroxocobalamin for suspected cyanide poisoning in smoke inhalation.",
+        "explanation": "100% oxygen reduces the elimination half-life of carboxyhemoglobin from 300 minutes to 90 minutes; hydroxocobalamin binds cyanide with high affinity to form non-toxic cyanocobalamin excreted in urine.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "100% oxygen reduces the elimination half-life of carboxyhemoglobin from 300 minutes to 90 minutes; hydroxocobalamin binds cyanide with high affinity to form non-toxic cyanocobalamin excreted in urine. In the clinical evaluation of Carbon monoxide (CO) and Cyanide poisoning in house fire victims, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Immediate 100% normobaric oxygen for CO and intravenous hydroxocobalamin for cya.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Immediate 100% normobaric oxygen for CO and intravenous hydroxocobalamin for cya."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1224",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Indications for hyperbaric oxygen therapy (HBOT) and delayed neurological sequel",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 67-year-old man undergoes urgent bedside assessment in the medical ward with clinical findings indicative of Carbon monoxide (CO) and Cyanide poisoning in house fire victims. Bedside physical examination confirms headache, confusion, cherry-red skin (rare/post-mortem), normal pulse oximetry with falsely high oxygen saturation, marked lactic acidosis (> 8-10 mmol/L), and acute cardiovascular collapse following smoke inhalation. Clinical observations record blood pressure 113/77 mm Hg, heart rate 88/min, respiratory rate 24/min, and ambient oxygen saturation 99%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Referring for hyperbaric oxygen therapy for carboxyhemoglobin > 25% (> 15% in pregnancy), loss of consciousness, severe metabolic acidosis, or ischemic electrocardiographic changes.",
+        "explanation": "HBOT (at 2.5-3.0 atmospheres) reduces CO half-life to 20-30 minutes and displaces CO from myoglobin and cytochromes, significantly reducing the incidence of delayed neuropsychiatric syndrome.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "HBOT (at 2.5-3.0 atmospheres) reduces CO half-life to 20-30 minutes and displaces CO from myoglobin and cytochromes, significantly reducing the incidence of delayed neuropsychiatric syndrome. In the clinical evaluation of Carbon monoxide (CO) and Cyanide poisoning in house fire victims, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Indications for hyperbaric oxygen therapy (HBOT) and delayed neurological sequel.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Indications for hyperbaric oxygen therapy (HBOT) and delayed neurological sequel."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1225",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Co-oximetry blood gas measurement vs standard pulse oximetry inaccuracy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 72-year-old woman who presents to the acute subspecialty assessment center due to suspected Carbon monoxide (CO) and Cyanide poisoning in house fire victims. Clinical examination demonstrates headache, confusion, cherry-red skin (rare/post-mortem), normal pulse oximetry with falsely high oxygen saturation, marked lactic acidosis (> 8-10 mmol/L), and acute cardiovascular collapse following smoke inhalation. Clinical observations record blood pressure 115/81 mm Hg, heart rate 91/min, respiratory rate 25/min, and ambient oxygen saturation 94%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Obtaining an arterial or venous blood gas with co-oximetry to directly measure carboxyhemoglobin and oxyhemoglobin, recognizing that standard two-wavelength pulse oximeters read falsely normal.",
+        "explanation": "Standard pulse oximeters measure light absorption at 660 nm and 940 nm and cannot distinguish oxyhemoglobin from carboxyhemoglobin, giving a falsely reassuring normal SpO2 reading.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Standard pulse oximeters measure light absorption at 660 nm and 940 nm and cannot distinguish oxyhemoglobin from carboxyhemoglobin, giving a falsely reassuring normal SpO2 reading. In the clinical evaluation of Carbon monoxide (CO) and Cyanide poisoning in house fire victims, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Co-oximetry blood gas measurement vs standard pulse oximetry inaccuracy.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Co-oximetry blood gas measurement vs standard pulse oximetry inaccuracy."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1226",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Workup of profound lactic acidosis in house fire victims with soot in the oropha",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old man presenting with acute functional symptoms is evaluated during urgent inpatient consultation requiring evaluation for Carbon monoxide (CO) and Cyanide poisoning in house fire victims. Physical assessment reveals headache, confusion, cherry-red skin (rare/post-mortem), normal pulse oximetry with falsely high oxygen saturation, marked lactic acidosis (> 8-10 mmol/L), and acute cardiovascular collapse following smoke inhalation. Clinical observations record blood pressure 117/85 mm Hg, heart rate 94/min, respiratory rate 15/min, and ambient oxygen saturation 95%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing that serum lactate > 8-10 mmol/L in smoke inhalation victims is highly sensitive and specific for cyanide toxicity resulting from synthetic polymer combustion.",
+        "explanation": "Combustion of household plastics, wool, and polyurethane releases high concentrations of hydrogen cyanide gas; severe lactic acidosis despite adequate oxygenation indicates cellular histotoxic asphyxia.",
+        "correct": true
+      }
+    ],
+    "explanation": "Combustion of household plastics, wool, and polyurethane releases high concentrations of hydrogen cyanide gas; severe lactic acidosis despite adequate oxygenation indicates cellular histotoxic asphyxia. In the clinical evaluation of Carbon monoxide (CO) and Cyanide poisoning in house fire victims, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Workup of profound lactic acidosis in house fire victims with soot in the oropha.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Workup of profound lactic acidosis in house fire victims with soot in the oropha."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1227",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Management of pregnant patients with carbon monoxide exposure",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 24-year-old woman who attends the specialized ambulatory medical clinic with prominent manifestations of Carbon monoxide (CO) and Cyanide poisoning in house fire victims. Bedside evaluation demonstrates headache, confusion, cherry-red skin (rare/post-mortem), normal pulse oximetry with falsely high oxygen saturation, marked lactic acidosis (> 8-10 mmol/L), and acute cardiovascular collapse following smoke inhalation. Clinical observations record blood pressure 119/89 mm Hg, heart rate 97/min, respiratory rate 16/min, and ambient oxygen saturation 96%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Maintaining hyperbaric or normobaric oxygen therapy for pregnant patients until fetal carboxyhemoglobin clears, using lower threshold (COHb > 15%) for hyperbaric referral.",
+        "explanation": "Fetal hemoglobin (HbF) binds carbon monoxide with higher affinity than adult hemoglobin; fetal elimination is much slower, predisposing the fetus to severe intrauterine hypoxia, teratogenicity, or demise.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Fetal hemoglobin (HbF) binds carbon monoxide with higher affinity than adult hemoglobin; fetal elimination is much slower, predisposing the fetus to severe intrauterine hypoxia, teratogenicity, or demise. In the clinical evaluation of Carbon monoxide (CO) and Cyanide poisoning in house fire victims, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Management of pregnant patients with carbon monoxide exposure.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Management of pregnant patients with carbon monoxide exposure."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1228",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Neuroimaging findings in delayed encephalopathy: globus pallidus necrosis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man with recent symptom exacerbation is urgently admitted to the emergency observation suite for urgent clarification of Carbon monoxide (CO) and Cyanide poisoning in house fire victims. Clinical examination highlights headache, confusion, cherry-red skin (rare/post-mortem), normal pulse oximetry with falsely high oxygen saturation, marked lactic acidosis (> 8-10 mmol/L), and acute cardiovascular collapse following smoke inhalation. Clinical observations record blood pressure 121/69 mm Hg, heart rate 100/min, respiratory rate 17/min, and ambient oxygen saturation 97%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Brain MRI demonstrating bilateral symmetrical T2/FLAIR hyperintensity and necrosis of the globus pallidus and subcortical white matter demyelination in carbon monoxide poisoning.",
+        "explanation": "The globus pallidus and substantia nigra have high basal metabolic rates and high iron concentrations, making them uniquely vulnerable to CO-induced hypoxic-ischemic injury and lipid peroxidation.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "The globus pallidus and substantia nigra have high basal metabolic rates and high iron concentrations, making them uniquely vulnerable to CO-induced hypoxic-ischemic injury and lipid peroxidation. In the clinical evaluation of Carbon monoxide (CO) and Cyanide poisoning in house fire victims, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Neuroimaging findings in delayed encephalopathy: globus pallidus necrosis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Neuroimaging findings in delayed encephalopathy: globus pallidus necrosis."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1229",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Symptoms of acute carbon monoxide poisoning based on carboxyhemoglobin levels",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 34-year-old woman presents to the tertiary trauma and critical care unit with clinical findings indicative of Carbon monoxide (CO) and Cyanide poisoning in house fire victims. Bedside physical examination confirms headache, confusion, cherry-red skin (rare/post-mortem), normal pulse oximetry with falsely high oxygen saturation, marked lactic acidosis (> 8-10 mmol/L), and acute cardiovascular collapse following smoke inhalation. Clinical observations record blood pressure 123/73 mm Hg, heart rate 103/min, respiratory rate 18/min, and ambient oxygen saturation 98%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Mild (10-20%: tension headache, nausea), Moderate (20-40%: dizziness, syncope, confusion), Severe (>40-50%: seizures, coma, myocardial ischemia, death).",
+        "explanation": "Carbon monoxide is an odorless, colorless, non-irritating gas produced by incomplete combustion of fossil fuels; persistent headache and flu-like symptoms during winter suggest domestic CO exposure.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Carbon monoxide is an odorless, colorless, non-irritating gas produced by incomplete combustion of fossil fuels; persistent headache and flu-like symptoms during winter suggest domestic CO exposure. In the clinical evaluation of Carbon monoxide (CO) and Cyanide poisoning in house fire victims, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Symptoms of acute carbon monoxide poisoning based on carboxyhemoglobin levels.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Symptoms of acute carbon monoxide poisoning based on carboxyhemoglobin levels."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1230",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "Cyanide antidote mechanisms: hydroxocobalamin vs sodium nitrite and sodium thios",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 39-year-old man who undergoes multidisciplinary diagnostic evaluation in the clinic due to suspected Carbon monoxide (CO) and Cyanide poisoning in house fire victims. Clinical examination demonstrates headache, confusion, cherry-red skin (rare/post-mortem), normal pulse oximetry with falsely high oxygen saturation, marked lactic acidosis (> 8-10 mmol/L), and acute cardiovascular collapse following smoke inhalation. Clinical observations record blood pressure 125/77 mm Hg, heart rate 106/min, respiratory rate 19/min, and ambient oxygen saturation 99%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Hydroxocobalamin chelating cyanide to form cyanocobalamin, versus sodium nitrite inducing methemoglobinemia (Fe3+) to scavenge cyanide, followed by thiosulfate rhodanese conjugation to thiocyanate.",
+        "explanation": "Nitrites oxidize Fe2+ to Fe3+ forming methemoglobin, which binds cyanide; however, nitrites reduce oxygen-carrying capacity and are contraindicated when concurrent carbon monoxide toxicity is present.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Nitrites oxidize Fe2+ to Fe3+ forming methemoglobin, which binds cyanide; however, nitrites reduce oxygen-carrying capacity and are contraindicated when concurrent carbon monoxide toxicity is present. In the clinical evaluation of Carbon monoxide (CO) and Cyanide poisoning in house fire victims, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Cyanide antidote mechanisms: hydroxocobalamin vs sodium nitrite and sodium thios.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Cyanide antidote mechanisms: hydroxocobalamin vs sodium nitrite and sodium thios."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1231",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Mechanism of delayed neuropsychiatric sequelae (DNS) following carbon monoxide r",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old woman presenting with acute functional symptoms is brought by paramedic transfer to the emergency department requiring evaluation for Carbon monoxide (CO) and Cyanide poisoning in house fire victims. Physical assessment reveals headache, confusion, cherry-red skin (rare/post-mortem), normal pulse oximetry with falsely high oxygen saturation, marked lactic acidosis (> 8-10 mmol/L), and acute cardiovascular collapse following smoke inhalation. Clinical observations record blood pressure 127/81 mm Hg, heart rate 109/min, respiratory rate 20/min, and ambient oxygen saturation 94%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Development of cognitive deficits, parkinsonism, memory loss, and personality changes 2 to 40 days after apparent full recovery, caused by brain lipid peroxidation and myelin basic protein autoimmunity.",
+        "explanation": "CO causes reperfusion injury, xanthine oxidase activation, and microvascular leukocyte adherence; approximately 10-30% of severely poisoned patients develop delayed neurological syndrome.",
+        "correct": true
+      }
+    ],
+    "explanation": "CO causes reperfusion injury, xanthine oxidase activation, and microvascular leukocyte adherence; approximately 10-30% of severely poisoned patients develop delayed neurological syndrome. In the clinical evaluation of Carbon monoxide (CO) and Cyanide poisoning in house fire victims, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Mechanism of delayed neuropsychiatric sequelae (DNS) following carbon monoxide r.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Mechanism of delayed neuropsychiatric sequelae (DNS) following carbon monoxide r."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1232",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Emergency antidote administration priority in simultaneous smoke inhalation coll",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 49-year-old man who attends the scheduled hospital outpatient review with prominent manifestations of Carbon monoxide (CO) and Cyanide poisoning in house fire victims. Bedside evaluation demonstrates headache, confusion, cherry-red skin (rare/post-mortem), normal pulse oximetry with falsely high oxygen saturation, marked lactic acidosis (> 8-10 mmol/L), and acute cardiovascular collapse following smoke inhalation. Clinical observations record blood pressure 129/85 mm Hg, heart rate 112/min, respiratory rate 21/min, and ambient oxygen saturation 95%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Immediate administration of intravenous hydroxocobalamin (5 g IV over 15 minutes) and 100% high-flow oxygen in an obtunded fire victim with suspected cyanide and CO toxicity.",
+        "explanation": "Hydroxocobalamin does not induce methemoglobinemia or hypotension, making it the safest first-line cyanide antidote in the presence of co-existing carbon monoxide poisoning or smoke-induced shock.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Hydroxocobalamin does not induce methemoglobinemia or hypotension, making it the safest first-line cyanide antidote in the presence of co-existing carbon monoxide poisoning or smoke-induced shock. In the clinical evaluation of Carbon monoxide (CO) and Cyanide poisoning in house fire victims, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Emergency antidote administration priority in simultaneous smoke inhalation coll.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Emergency antidote administration priority in simultaneous smoke inhalation coll."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1233",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Domestic sources of carbon monoxide poisoning and installation of home alarms",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old woman with recent symptom exacerbation is evaluated in the acute surgical assessment unit for urgent clarification of Carbon monoxide (CO) and Cyanide poisoning in house fire victims. Clinical examination highlights headache, confusion, cherry-red skin (rare/post-mortem), normal pulse oximetry with falsely high oxygen saturation, marked lactic acidosis (> 8-10 mmol/L), and acute cardiovascular collapse following smoke inhalation. Clinical observations record blood pressure 131/89 mm Hg, heart rate 115/min, respiratory rate 22/min, and ambient oxygen saturation 96%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Identifying malfunctioning gas furnaces, kerosene space heaters, indoor charcoal barbecues, and generators operating in enclosed spaces, recommending certified carbon monoxide alarms.",
+        "explanation": "Public health prevention mandates installing domestic electrochemical CO detectors near sleeping areas, particularly in colder months when indoor combustion heating systems are actively operating.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "Public health prevention mandates installing domestic electrochemical CO detectors near sleeping areas, particularly in colder months when indoor combustion heating systems are actively operating. In the clinical evaluation of Carbon monoxide (CO) and Cyanide poisoning in house fire victims, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Domestic sources of carbon monoxide poisoning and installation of home alarms.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Domestic sources of carbon monoxide poisoning and installation of home alarms."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1234",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Adverse effects of hydroxocobalamin: chromaturia and interference with hemodialy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man undergoes urgent bedside assessment in the medical ward with clinical findings indicative of Carbon monoxide (CO) and Cyanide poisoning in house fire victims. Bedside physical examination confirms headache, confusion, cherry-red skin (rare/post-mortem), normal pulse oximetry with falsely high oxygen saturation, marked lactic acidosis (> 8-10 mmol/L), and acute cardiovascular collapse following smoke inhalation. Clinical observations record blood pressure 133/69 mm Hg, heart rate 74/min, respiratory rate 23/min, and ambient oxygen saturation 97%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Counseling that hydroxocobalamin causes harmless dark red discoloration of urine and skin (chromaturia) and transiently interferes with co-oximetry and photometric hemodialysis alarms.",
+        "explanation": "Hydroxocobalamin's deep red chromophore causes skin and body fluid red discoloration lasting several days; it absorbs light at 652 nm, interfering with blood analyzers, creatinine, and bilirubin tests.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Hydroxocobalamin's deep red chromophore causes skin and body fluid red discoloration lasting several days; it absorbs light at 652 nm, interfering with blood analyzers, creatinine, and bilirubin tests. In the clinical evaluation of Carbon monoxide (CO) and Cyanide poisoning in house fire victims, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Adverse effects of hydroxocobalamin: chromaturia and interference with hemodialy.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Adverse effects of hydroxocobalamin: chromaturia and interference with hemodialy."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1235",
+    "exam": "UHS MBBS",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Spectroscopic differentiation of oxyhemoglobin, carboxyhemoglobin, and methemogl",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is performed for a 64-year-old woman who presents to the acute subspecialty assessment center due to suspected Carbon monoxide (CO) and Cyanide poisoning in house fire victims. Clinical examination demonstrates headache, confusion, cherry-red skin (rare/post-mortem), normal pulse oximetry with falsely high oxygen saturation, marked lactic acidosis (> 8-10 mmol/L), and acute cardiovascular collapse following smoke inhalation. Clinical observations record blood pressure 135/73 mm Hg, heart rate 77/min, respiratory rate 24/min, and ambient oxygen saturation 98%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Carboxyhemoglobin has characteristic absorption peaks at 535 nm and 570 nm on multi-wavelength co-oximetry, while methemoglobin demonstrates absorption at 630 nm.",
+        "explanation": "Multi-wavelength spectrophotometry (co-oximetry) measures light absorption across four distinct wavelengths, accurately determining the exact percentages of functional and dyshemoglobins.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Multi-wavelength spectrophotometry (co-oximetry) measures light absorption across four distinct wavelengths, accurately determining the exact percentages of functional and dyshemoglobins. In the clinical evaluation of Carbon monoxide (CO) and Cyanide poisoning in house fire victims, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Spectroscopic differentiation of oxyhemoglobin, carboxyhemoglobin, and methemogl.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Carbon monoxide (CO) and Cyanide poisoning in house fire victims concerning Spectroscopic differentiation of oxyhemoglobin, carboxyhemoglobin, and methemogl."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1236",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "Receptor mechanisms: intracellular cAMP depletion, L-type calcium blockade, and ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old woman presents to the acute subspecialty assessment center with clinical findings indicative of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity. Bedside physical examination confirms profound bradycardia, high-grade AV block, refractory hypotension, hyperglycemia (in CCB overdose), hypoglycemia (in beta-blocker overdose), and xanthopsia (yellow-green halos) with scooped ST segments in digoxin toxicity. Clinical observations record blood pressure 114/72 mm Hg, heart rate 88/min, respiratory rate 24/min, and ambient oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Beta-blockade reducing adenylyl cyclase and cAMP; CCB blocking L-type channels inhibiting pancreatic insulin release and myocardial contractility; digoxin inhibiting Na+/K+ ATPase increasing intracellular Ca2+.",
+        "explanation": "Digoxin inhibits myocardial Na+/K+ ATPase, raising intracellular sodium and indirectly increasing intracellular calcium via Na+/Ca2+ exchange; toxicity causes delayed afterdepolarizations and triggered ventricular ectopy.",
+        "correct": true
+      }
+    ],
+    "explanation": "Digoxin inhibits myocardial Na+/K+ ATPase, raising intracellular sodium and indirectly increasing intracellular calcium via Na+/Ca2+ exchange; toxicity causes delayed afterdepolarizations and triggered ventricular ectopy. In the clinical evaluation of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Receptor mechanisms: intracellular cAMP depletion, L-type calcium blockade, and .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Receptor mechanisms: intracellular cAMP depletion, L-type calcium blockade, and ."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1237",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "High-dose insulin euglycemia (HIE) for CCB toxicity and IV glucagon for beta-blo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 21-year-old man who is evaluated during urgent inpatient consultation due to suspected Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity. Clinical examination demonstrates profound bradycardia, high-grade AV block, refractory hypotension, hyperglycemia (in CCB overdose), hypoglycemia (in beta-blocker overdose), and xanthopsia (yellow-green halos) with scooped ST segments in digoxin toxicity. Clinical observations record blood pressure 116/76 mm Hg, heart rate 91/min, respiratory rate 25/min, and ambient oxygen saturation 95%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Initiating high-dose insulin euglycemia therapy (regular insulin 1 unit/kg bolus followed by 1-10 units/kg/hr infusion with dextrose) for CCB/beta-blocker shock, and IV glucagon for beta-blocker toxicity.",
+        "explanation": "During severe shock, myocardial metabolism switches from free fatty acids to carbohydrates; high-dose insulin acts as a powerful inotrope by facilitating myocardial glucose uptake, while glucagon bypasses beta-receptors to increase cAMP.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "During severe shock, myocardial metabolism switches from free fatty acids to carbohydrates; high-dose insulin acts as a powerful inotrope by facilitating myocardial glucose uptake, while glucagon bypasses beta-receptors to increase cAMP. In the clinical evaluation of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning High-dose insulin euglycemia (HIE) for CCB toxicity and IV glucagon for beta-blo.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning High-dose insulin euglycemia (HIE) for CCB toxicity and IV glucagon for beta-blo."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1238",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Digoxin-specific Fab fragments (DigiFab) indications and dosing calculations",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 26-year-old woman presenting with acute functional symptoms attends the specialized ambulatory medical clinic requiring evaluation for Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity. Physical assessment reveals profound bradycardia, high-grade AV block, refractory hypotension, hyperglycemia (in CCB overdose), hypoglycemia (in beta-blocker overdose), and xanthopsia (yellow-green halos) with scooped ST segments in digoxin toxicity. Clinical observations record blood pressure 118/80 mm Hg, heart rate 94/min, respiratory rate 15/min, and ambient oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering digoxin-specific antibody fragments (DigiFab) for life-threatening ventricular arrhythmias, progressive bradycardia refractory to atropine, or serum potassium > 5.0-5.5 mEq/L in acute overdose.",
+        "explanation": "In acute digoxin toxicity, hyperkalemia is an independent predictor of mortality; serum potassium > 5.5 mEq/L reflects profound systemic Na+/K+ ATPase inhibition, establishing a definitive indication for DigiFab.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In acute digoxin toxicity, hyperkalemia is an independent predictor of mortality; serum potassium > 5.5 mEq/L reflects profound systemic Na+/K+ ATPase inhibition, establishing a definitive indication for DigiFab. In the clinical evaluation of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Digoxin-specific Fab fragments (DigiFab) indications and dosing calculations.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Digoxin-specific Fab fragments (DigiFab) indications and dosing calculations."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1239",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Contraindication of calcium chloride in digoxin toxicity (historical 'stone hear",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 31-year-old man who is urgently admitted to the emergency observation suite with prominent manifestations of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity. Bedside evaluation demonstrates profound bradycardia, high-grade AV block, refractory hypotension, hyperglycemia (in CCB overdose), hypoglycemia (in beta-blocker overdose), and xanthopsia (yellow-green halos) with scooped ST segments in digoxin toxicity. Clinical observations record blood pressure 120/84 mm Hg, heart rate 97/min, respiratory rate 16/min, and ambient oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Avoiding routine intravenous calcium administration in suspected digoxin toxicity due to theoretical risk of precipitating irreversible systolic cardiac arrest ('stone heart').",
+        "explanation": "Although recent evidence suggests calcium may be safe, UK and international guidelines avoid empiric IV calcium in hyperkalemia caused by digoxin toxicity, prioritizing immediate DigiFab therapy.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Although recent evidence suggests calcium may be safe, UK and international guidelines avoid empiric IV calcium in hyperkalemia caused by digoxin toxicity, prioritizing immediate DigiFab therapy. In the clinical evaluation of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Contraindication of calcium chloride in digoxin toxicity (historical 'stone hear.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Contraindication of calcium chloride in digoxin toxicity (historical 'stone hear."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1240",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Differentiation of CCB vs Beta-blocker overdose by serum glucose levels",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old woman with recent symptom exacerbation presents to the tertiary trauma and critical care unit for urgent clarification of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity. Clinical examination highlights profound bradycardia, high-grade AV block, refractory hypotension, hyperglycemia (in CCB overdose), hypoglycemia (in beta-blocker overdose), and xanthopsia (yellow-green halos) with scooped ST segments in digoxin toxicity. Clinical observations record blood pressure 122/88 mm Hg, heart rate 100/min, respiratory rate 17/min, and ambient oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Recognizing that calcium channel blocker overdose classically presents with marked hyperglycemia (due to pancreatic islet beta-cell L-type channel blockade), whereas beta-blockers cause hypoglycemia.",
+        "explanation": "Pancreatic insulin secretion is dependent on calcium influx through L-type voltage-gated channels; CCB toxicity blocks this influx, producing marked hypoinsulinemic hyperglycemia.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Pancreatic insulin secretion is dependent on calcium influx through L-type voltage-gated channels; CCB toxicity blocks this influx, producing marked hypoinsulinemic hyperglycemia. In the clinical evaluation of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Differentiation of CCB vs Beta-blocker overdose by serum glucose levels.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Differentiation of CCB vs Beta-blocker overdose by serum glucose levels."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1241",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Managing lipid emulsion therapy (Intralipid) in lipophilic drug toxicity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old man undergoes multidisciplinary diagnostic evaluation in the clinic with clinical findings indicative of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity. Bedside physical examination confirms profound bradycardia, high-grade AV block, refractory hypotension, hyperglycemia (in CCB overdose), hypoglycemia (in beta-blocker overdose), and xanthopsia (yellow-green halos) with scooped ST segments in digoxin toxicity. Clinical observations record blood pressure 124/68 mm Hg, heart rate 103/min, respiratory rate 18/min, and ambient oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Administering 20% intravenous lipid emulsion (ILE) bolus and infusion as rescue therapy for refractory hemodynamic collapse from lipid-soluble agents (verapamil, diltiazem, propranolol).",
+        "explanation": "Intravenous lipid emulsion acts via a 'lipid sink' mechanism, extracting lipophilic medications from target myocardial tissues into intravascular lipid droplets, and promoting direct myocardial fatty acid oxidation.",
+        "correct": true
+      }
+    ],
+    "explanation": "Intravenous lipid emulsion acts via a 'lipid sink' mechanism, extracting lipophilic medications from target myocardial tissues into intravascular lipid droplets, and promoting direct myocardial fatty acid oxidation. In the clinical evaluation of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Managing lipid emulsion therapy (Intralipid) in lipophilic drug toxicity.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Managing lipid emulsion therapy (Intralipid) in lipophilic drug toxicity."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1242",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Veno-arterial extracorporeal membrane oxygenation (VA-ECMO) in refractory cardio",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 46-year-old woman who is brought by paramedic transfer to the emergency department due to suspected Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity. Clinical examination demonstrates profound bradycardia, high-grade AV block, refractory hypotension, hyperglycemia (in CCB overdose), hypoglycemia (in beta-blocker overdose), and xanthopsia (yellow-green halos) with scooped ST segments in digoxin toxicity. Clinical observations record blood pressure 126/72 mm Hg, heart rate 106/min, respiratory rate 19/min, and ambient oxygen saturation 94%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Instituting emergent veno-arterial ECMO as a bridge to drug clearance and myocardial recovery in patients with drug-induced refractory cardiogenic shock.",
+        "explanation": "Toxicological cardiogenic shock from beta-blockers and CCBs is typically reversible once the offending drug is metabolized; temporary mechanical circulatory support with VA-ECMO maintains perfusion.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Toxicological cardiogenic shock from beta-blockers and CCBs is typically reversible once the offending drug is metabolized; temporary mechanical circulatory support with VA-ECMO maintains perfusion. In the clinical evaluation of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Veno-arterial extracorporeal membrane oxygenation (VA-ECMO) in refractory cardio.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Veno-arterial extracorporeal membrane oxygenation (VA-ECMO) in refractory cardio."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1243",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Electrocardiographic manifestations of digoxin toxicity: arrhythmias and ST chan",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 51-year-old man presenting with acute functional symptoms attends the scheduled hospital outpatient review requiring evaluation for Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity. Physical assessment reveals profound bradycardia, high-grade AV block, refractory hypotension, hyperglycemia (in CCB overdose), hypoglycemia (in beta-blocker overdose), and xanthopsia (yellow-green halos) with scooped ST segments in digoxin toxicity. Clinical observations record blood pressure 128/76 mm Hg, heart rate 109/min, respiratory rate 20/min, and ambient oxygen saturation 95%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing scooped 'Salvador Dali mustache' ST depression, PR prolongation, ventricular premature beats (bigeminy), and bidirectional ventricular tachycardia.",
+        "explanation": "Bidirectional ventricular tachycardia (alternating QRS axis from beat to beat) is virtually pathognomonic of severe digitalis toxicity or catecholaminergic polymorphic ventricular tachycardia.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "Bidirectional ventricular tachycardia (alternating QRS axis from beat to beat) is virtually pathognomonic of severe digitalis toxicity or catecholaminergic polymorphic ventricular tachycardia. In the clinical evaluation of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Electrocardiographic manifestations of digoxin toxicity: arrhythmias and ST chan.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Electrocardiographic manifestations of digoxin toxicity: arrhythmias and ST chan."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1244",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "Factors predisposing to digitalis toxicity: hypokalemia, hypomagnesemia, and hyp",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 56-year-old woman who is evaluated in the acute surgical assessment unit with prominent manifestations of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity. Bedside evaluation demonstrates profound bradycardia, high-grade AV block, refractory hypotension, hyperglycemia (in CCB overdose), hypoglycemia (in beta-blocker overdose), and xanthopsia (yellow-green halos) with scooped ST segments in digoxin toxicity. Clinical observations record blood pressure 130/80 mm Hg, heart rate 112/min, respiratory rate 21/min, and ambient oxygen saturation 96%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Hypokalemia, hypomagnesemia, and hypercalcemia sensitizing the myocardium to digoxin toxicity, along with co-administration of quinidine, amiodarone, or verapamil.",
+        "explanation": "Potassium competes with digoxin for binding to the Na+/K+ ATPase; hypokalemia allows greater digoxin binding and toxicity even at normal therapeutic serum concentrations.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Potassium competes with digoxin for binding to the Na+/K+ ATPase; hypokalemia allows greater digoxin binding and toxicity even at normal therapeutic serum concentrations. In the clinical evaluation of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Factors predisposing to digitalis toxicity: hypokalemia, hypomagnesemia, and hyp.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Factors predisposing to digitalis toxicity: hypokalemia, hypomagnesemia, and hyp."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1245",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Serum digoxin level interpretation: timing and post-distribution equilibrium",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old man with recent symptom exacerbation undergoes urgent bedside assessment in the medical ward for urgent clarification of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity. Clinical examination highlights profound bradycardia, high-grade AV block, refractory hypotension, hyperglycemia (in CCB overdose), hypoglycemia (in beta-blocker overdose), and xanthopsia (yellow-green halos) with scooped ST segments in digoxin toxicity. Clinical observations record blood pressure 132/84 mm Hg, heart rate 115/min, respiratory rate 22/min, and ambient oxygen saturation 97%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Measuring serum digoxin levels at least 6 to 8 hours post-dose to allow complete tissue distribution equilibrium, avoiding falsely elevated distribution-phase measurements.",
+        "explanation": "Digoxin has a massive volume of distribution (5-8 L/kg) and binds slowly to skeletal and myocardial tissues; levels drawn within 6 hours of ingestion reflect non-equilibrated serum concentrations.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Digoxin has a massive volume of distribution (5-8 L/kg) and binds slowly to skeletal and myocardial tissues; levels drawn within 6 hours of ingestion reflect non-equilibrated serum concentrations. In the clinical evaluation of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Serum digoxin level interpretation: timing and post-distribution equilibrium.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Serum digoxin level interpretation: timing and post-distribution equilibrium."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1246",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Emergency pacing in severe drug-induced bradycardia and chronotropic failure",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old woman presents to the acute subspecialty assessment center with clinical findings indicative of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity. Bedside physical examination confirms profound bradycardia, high-grade AV block, refractory hypotension, hyperglycemia (in CCB overdose), hypoglycemia (in beta-blocker overdose), and xanthopsia (yellow-green halos) with scooped ST segments in digoxin toxicity. Clinical observations record blood pressure 134/88 mm Hg, heart rate 74/min, respiratory rate 23/min, and ambient oxygen saturation 98%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Initiating transcutaneous or transvenous electrical cardiac pacing when atropine and high-dose vasopressor infusions fail to improve perfusion in severe beta-blocker/CCB bradycardia.",
+        "explanation": "Electrical pacing may capture the myocardium; however, electromechanical dissociation can occur if underlying inotropy is severely depressed, requiring concurrent high-dose insulin or inotropes.",
+        "correct": true
+      }
+    ],
+    "explanation": "Electrical pacing may capture the myocardium; however, electromechanical dissociation can occur if underlying inotropy is severely depressed, requiring concurrent high-dose insulin or inotropes. In the clinical evaluation of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Emergency pacing in severe drug-induced bradycardia and chronotropic failure.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Emergency pacing in severe drug-induced bradycardia and chronotropic failure."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1247",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Drug interactions: P-glycoprotein inhibition and renal clearance of digoxin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 71-year-old man who is evaluated during urgent inpatient consultation due to suspected Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity. Clinical examination demonstrates profound bradycardia, high-grade AV block, refractory hypotension, hyperglycemia (in CCB overdose), hypoglycemia (in beta-blocker overdose), and xanthopsia (yellow-green halos) with scooped ST segments in digoxin toxicity. Clinical observations record blood pressure 136/68 mm Hg, heart rate 77/min, respiratory rate 24/min, and ambient oxygen saturation 99%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing that amiodarone, verapamil, and clarithromycin inhibit P-glycoprotein and reduce renal digoxin clearance, mandating a 50% empiric reduction in baseline digoxin dose.",
+        "explanation": "Digoxin is excreted largely unchanged by renal tubular P-glycoprotein; co-prescribing P-glycoprotein inhibitors precipitously elevates serum digoxin levels into toxic ranges.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Digoxin is excreted largely unchanged by renal tubular P-glycoprotein; co-prescribing P-glycoprotein inhibitors precipitously elevates serum digoxin levels into toxic ranges. In the clinical evaluation of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Drug interactions: P-glycoprotein inhibition and renal clearance of digoxin.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Drug interactions: P-glycoprotein inhibition and renal clearance of digoxin."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1248",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Intravenous glucagon administration protocol and pre-medication for emesis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 76-year-old woman presenting with acute functional symptoms attends the specialized ambulatory medical clinic requiring evaluation for Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity. Physical assessment reveals profound bradycardia, high-grade AV block, refractory hypotension, hyperglycemia (in CCB overdose), hypoglycemia (in beta-blocker overdose), and xanthopsia (yellow-green halos) with scooped ST segments in digoxin toxicity. Clinical observations record blood pressure 138/72 mm Hg, heart rate 80/min, respiratory rate 25/min, and ambient oxygen saturation 94%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous glucagon 5-10 mg slow IV bolus followed by maintenance infusion, pre-treating with an antiemetic due to prominent stimulation of the chemoreceptor trigger zone.",
+        "explanation": "Glucagon directly stimulates hepatic and myocardial glucagon receptors, activating Gs protein and adenylyl cyclase; high doses routinely trigger severe nausea and vomiting.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "Glucagon directly stimulates hepatic and myocardial glucagon receptors, activating Gs protein and adenylyl cyclase; high doses routinely trigger severe nausea and vomiting. In the clinical evaluation of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Intravenous glucagon administration protocol and pre-medication for emesis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Intravenous glucagon administration protocol and pre-medication for emesis."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1249",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "Pharmacokinetics of digoxin: half-life, volume of distribution, and renal excret",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is commenced for a 23-year-old man who is urgently admitted to the emergency observation suite with prominent manifestations of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity. Bedside evaluation demonstrates profound bradycardia, high-grade AV block, refractory hypotension, hyperglycemia (in CCB overdose), hypoglycemia (in beta-blocker overdose), and xanthopsia (yellow-green halos) with scooped ST segments in digoxin toxicity. Clinical observations record blood pressure 140/76 mm Hg, heart rate 83/min, respiratory rate 15/min, and ambient oxygen saturation 95%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Biological half-life of 36 to 48 hours, large volume of distribution (400-500 liters), and predominant elimination via glomerular filtration and tubular secretion.",
+        "explanation": "Because digoxin has a narrow therapeutic index (0.5-0.9 ng/mL for heart failure, 0.8-2.0 ng/mL for atrial fibrillation) and prolonged half-life, subtle declines in GFR cause rapid toxic accumulation.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Because digoxin has a narrow therapeutic index (0.5-0.9 ng/mL for heart failure, 0.8-2.0 ng/mL for atrial fibrillation) and prolonged half-life, subtle declines in GFR cause rapid toxic accumulation. In the clinical evaluation of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Pharmacokinetics of digoxin: half-life, volume of distribution, and renal excret.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Beta-blocker, Calcium channel blocker (CCB), and Digoxin toxicity concerning Pharmacokinetics of digoxin: half-life, volume of distribution, and renal excret."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1250",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Muscarinic receptor antagonism vs acetylcholinesterase inhibition and enzyme agi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 33-year-old man presenting with acute functional symptoms is urgently admitted to the emergency observation suite requiring evaluation for Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates). Physical assessment reveals mydriasis, anhidrosis, flushed dry skin, delirium, urinary retention, absent bowel sounds ('mad as a hatter, dry as a bone') versus miosis, massive diaphoresis, salivation, lacrimation, urination, defecation, and bronchospasm (SLUDGE / DUMBELS). Clinical observations record blood pressure 119/75 mm Hg, heart rate 94/min, respiratory rate 15/min, and ambient oxygen saturation 97%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Competitive blockade of postganglionic muscarinic acetylcholine receptors, versus organophosphate covalent phosphorylation of acetylcholinesterase and subsequent chemical aging.",
+        "explanation": "Organophosphates phosphorylate the serine hydroxyl group of acetylcholinesterase; pralidoxime (2-PAM) reactivates the enzyme only if given before spontaneous dealkylation ('aging') occurs.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Organophosphates phosphorylate the serine hydroxyl group of acetylcholinesterase; pralidoxime (2-PAM) reactivates the enzyme only if given before spontaneous dealkylation ('aging') occurs. In the clinical evaluation of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Muscarinic receptor antagonism vs acetylcholinesterase inhibition and enzyme agi.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Muscarinic receptor antagonism vs acetylcholinesterase inhibition and enzyme agi."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1251",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Atropine titration to clear pulmonary secretions and pralidoxime in organophosph",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 38-year-old woman who presents to the tertiary trauma and critical care unit with prominent manifestations of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates). Bedside evaluation demonstrates mydriasis, anhidrosis, flushed dry skin, delirium, urinary retention, absent bowel sounds ('mad as a hatter, dry as a bone') versus miosis, massive diaphoresis, salivation, lacrimation, urination, defecation, and bronchospasm (SLUDGE / DUMBELS). Clinical observations record blood pressure 121/79 mm Hg, heart rate 97/min, respiratory rate 16/min, and ambient oxygen saturation 98%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous atropine doubling the dose every 3-5 minutes until pulmonary secretions and bronchospasm clear, followed by pralidoxime infusion.",
+        "explanation": "The therapeutic endpoint for atropinization in cholinergic crisis is dry lung fields, clear breath sounds, and resolved bronchospasm\u2014not tachycardia or pupillary dilation.",
+        "correct": true
+      }
+    ],
+    "explanation": "The therapeutic endpoint for atropinization in cholinergic crisis is dry lung fields, clear breath sounds, and resolved bronchospasm\u2014not tachycardia or pupillary dilation. In the clinical evaluation of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Atropine titration to clear pulmonary secretions and pralidoxime in organophosph.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Atropine titration to clear pulmonary secretions and pralidoxime in organophosph."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1252",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Physostigmine indications and strict contraindication in tricyclic antidepressan",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 43-year-old man with recent symptom exacerbation undergoes multidisciplinary diagnostic evaluation in the clinic for urgent clarification of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates). Clinical examination highlights mydriasis, anhidrosis, flushed dry skin, delirium, urinary retention, absent bowel sounds ('mad as a hatter, dry as a bone') versus miosis, massive diaphoresis, salivation, lacrimation, urination, defecation, and bronchospasm (SLUDGE / DUMBELS). Clinical observations record blood pressure 123/83 mm Hg, heart rate 100/min, respiratory rate 17/min, and ambient oxygen saturation 99%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Administering physostigmine (tertiary amine carbamate) for pure anticholinergic delirium, strictly avoiding its use in TCA overdose due to risk of fatal asystole.",
+        "explanation": "Physostigmine crosses the blood-brain barrier to reverse central and peripheral anticholinergic delirium; however, in TCA overdose with cardiac conduction slowing, it precipitates asystole.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Physostigmine crosses the blood-brain barrier to reverse central and peripheral anticholinergic delirium; however, in TCA overdose with cardiac conduction slowing, it precipitates asystole. In the clinical evaluation of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Physostigmine indications and strict contraindication in tricyclic antidepressan.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Physostigmine indications and strict contraindication in tricyclic antidepressan."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1253",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Recognition of anticholinergic urinary retention and bedside catheterization",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old woman is brought by paramedic transfer to the emergency department with clinical findings indicative of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates). Bedside physical examination confirms mydriasis, anhidrosis, flushed dry skin, delirium, urinary retention, absent bowel sounds ('mad as a hatter, dry as a bone') versus miosis, massive diaphoresis, salivation, lacrimation, urination, defecation, and bronchospasm (SLUDGE / DUMBELS). Clinical observations record blood pressure 125/87 mm Hg, heart rate 103/min, respiratory rate 18/min, and ambient oxygen saturation 94%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Performing bedside bladder ultrasound demonstrating acute urinary retention (> 500-1,000 mL) and placing a urinary catheter prior to administering sedatives for agitation.",
+        "explanation": "Severe anticholinergic antagonism paralyzes the detrusor muscle, causing massive painless or painful urinary retention; acute delirium frequently resolves once the distended bladder is drained.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "Severe anticholinergic antagonism paralyzes the detrusor muscle, causing massive painless or painful urinary retention; acute delirium frequently resolves once the distended bladder is drained. In the clinical evaluation of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Recognition of anticholinergic urinary retention and bedside catheterization.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Recognition of anticholinergic urinary retention and bedside catheterization."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1254",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Decontamination protocols and personal protective equipment (PPE) for chemical o",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 53-year-old man who attends the scheduled hospital outpatient review due to suspected Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates). Clinical examination demonstrates mydriasis, anhidrosis, flushed dry skin, delirium, urinary retention, absent bowel sounds ('mad as a hatter, dry as a bone') versus miosis, massive diaphoresis, salivation, lacrimation, urination, defecation, and bronchospasm (SLUDGE / DUMBELS). Clinical observations record blood pressure 127/67 mm Hg, heart rate 106/min, respiratory rate 19/min, and ambient oxygen saturation 95%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Full chemical-resistant personal protective equipment (PPE) for staff, complete removal of contaminated clothing, and vigorous skin decontamination with soap and water.",
+        "explanation": "Organophosphates are highly lipophilic and readily absorbed through unbroken skin; healthcare workers risk severe secondary contamination and cholinergic crisis without adequate dermal PPE.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Organophosphates are highly lipophilic and readily absorbed through unbroken skin; healthcare workers risk severe secondary contamination and cholinergic crisis without adequate dermal PPE. In the clinical evaluation of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Decontamination protocols and personal protective equipment (PPE) for chemical o.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Decontamination protocols and personal protective equipment (PPE) for chemical o."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1255",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "ECG signs of tricyclic antidepressant toxicity and intravenous sodium bicarbonat",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 58-year-old woman presenting with acute functional symptoms is evaluated in the acute surgical assessment unit requiring evaluation for Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates). Physical assessment reveals mydriasis, anhidrosis, flushed dry skin, delirium, urinary retention, absent bowel sounds ('mad as a hatter, dry as a bone') versus miosis, massive diaphoresis, salivation, lacrimation, urination, defecation, and bronchospasm (SLUDGE / DUMBELS). Clinical observations record blood pressure 129/71 mm Hg, heart rate 109/min, respiratory rate 20/min, and ambient oxygen saturation 96%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Administering intravenous hypertonic sodium bicarbonate (1-2 mEq/kg) for QRS widening > 100 ms or prominent R wave in aVR (> 3 mm) in TCA overdose.",
+        "explanation": "TCAs cause fast sodium channel blockade slowing intraventricular conduction; hypertonic sodium bicarbonate overcomes blockade by providing high extracellular sodium and inducing alkalinization.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "TCAs cause fast sodium channel blockade slowing intraventricular conduction; hypertonic sodium bicarbonate overcomes blockade by providing high extracellular sodium and inducing alkalinization. In the clinical evaluation of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning ECG signs of tricyclic antidepressant toxicity and intravenous sodium bicarbonat.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning ECG signs of tricyclic antidepressant toxicity and intravenous sodium bicarbonat."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1256",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Managing intermediate syndrome and delayed polyneuropathy following organophosph",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 63-year-old man who undergoes urgent bedside assessment in the medical ward with prominent manifestations of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates). Bedside evaluation demonstrates mydriasis, anhidrosis, flushed dry skin, delirium, urinary retention, absent bowel sounds ('mad as a hatter, dry as a bone') versus miosis, massive diaphoresis, salivation, lacrimation, urination, defecation, and bronchospasm (SLUDGE / DUMBELS). Clinical observations record blood pressure 131/75 mm Hg, heart rate 112/min, respiratory rate 21/min, and ambient oxygen saturation 97%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Monitoring for acute respiratory muscle weakness, neck flexion paresis, and cranial nerve palsies occurring 24 to 96 hours post-exposure (intermediate syndrome).",
+        "explanation": "Intermediate syndrome occurs after initial cholinergic crisis resolves; it involves post-synaptic neuromuscular junction receptor down-regulation requiring prolonged mechanical ventilation.",
+        "correct": true
+      }
+    ],
+    "explanation": "Intermediate syndrome occurs after initial cholinergic crisis resolves; it involves post-synaptic neuromuscular junction receptor down-regulation requiring prolonged mechanical ventilation. In the clinical evaluation of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Managing intermediate syndrome and delayed polyneuropathy following organophosph.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Managing intermediate syndrome and delayed polyneuropathy following organophosph."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1257",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Mnemonic recognition: 'Hot as a hare, blind as a bat, dry as a bone, red as a be",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 68-year-old woman with recent symptom exacerbation presents to the acute subspecialty assessment center for urgent clarification of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates). Clinical examination highlights mydriasis, anhidrosis, flushed dry skin, delirium, urinary retention, absent bowel sounds ('mad as a hatter, dry as a bone') versus miosis, massive diaphoresis, salivation, lacrimation, urination, defecation, and bronchospasm (SLUDGE / DUMBELS). Clinical observations record blood pressure 133/79 mm Hg, heart rate 115/min, respiratory rate 22/min, and ambient oxygen saturation 98%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Hyperthermia, mydriasis/cycloplegia, anhidrosis/dry mouth, cutaneous vasodilation/flushing, and agitation/visual hallucinations in anticholinergic poisoning.",
+        "explanation": "Anticholinergic drugs block sweat glands preventing evaporative cooling and block ciliary and iris sphincter muscles causing blurred vision and non-reactive dilated pupils.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Anticholinergic drugs block sweat glands preventing evaporative cooling and block ciliary and iris sphincter muscles causing blurred vision and non-reactive dilated pupils. In the clinical evaluation of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Mnemonic recognition: 'Hot as a hare, blind as a bat, dry as a bone, red as a be.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Mnemonic recognition: 'Hot as a hare, blind as a bat, dry as a bone, red as a be."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1258",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Differentiating anticholinergic poisoning from sympathomimetic toxidrome by swea",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old man is evaluated during urgent inpatient consultation with clinical findings indicative of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates). Bedside physical examination confirms mydriasis, anhidrosis, flushed dry skin, delirium, urinary retention, absent bowel sounds ('mad as a hatter, dry as a bone') versus miosis, massive diaphoresis, salivation, lacrimation, urination, defecation, and bronchospasm (SLUDGE / DUMBELS). Clinical observations record blood pressure 135/83 mm Hg, heart rate 74/min, respiratory rate 23/min, and ambient oxygen saturation 99%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing that patients with sympathomimetic toxicity (cocaine, amphetamines) exhibit profuse diaphoresis, whereas patients with anticholinergic toxicity have completely dry skin and axillae.",
+        "explanation": "Both toxidromes cause tachycardia, hypertension, mydriasis, and hyperthermia; palpation of the axillae and skin differentiates wet sympathomimetic states from bone-dry anticholinergic states.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "Both toxidromes cause tachycardia, hypertension, mydriasis, and hyperthermia; palpation of the axillae and skin differentiates wet sympathomimetic states from bone-dry anticholinergic states. In the clinical evaluation of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Differentiating anticholinergic poisoning from sympathomimetic toxidrome by swea.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Differentiating anticholinergic poisoning from sympathomimetic toxidrome by swea."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1259",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Erythrocyte acetylcholinesterase vs plasma pseudocholinesterase monitoring",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 20-year-old woman who attends the specialized ambulatory medical clinic due to suspected Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates). Clinical examination demonstrates mydriasis, anhidrosis, flushed dry skin, delirium, urinary retention, absent bowel sounds ('mad as a hatter, dry as a bone') versus miosis, massive diaphoresis, salivation, lacrimation, urination, defecation, and bronchospasm (SLUDGE / DUMBELS). Clinical observations record blood pressure 137/87 mm Hg, heart rate 77/min, respiratory rate 24/min, and ambient oxygen saturation 94%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Measuring red blood cell acetylcholinesterase activity as an accurate biological surrogate for true neuronal synaptic cholinesterase inhibition and recovery.",
+        "explanation": "RBC acetylcholinesterase reflects neuronal enzyme activity more accurately than plasma butyrylcholinesterase (pseudocholinesterase), which is synthesized by the liver and fluctuates with nutritional state.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "RBC acetylcholinesterase reflects neuronal enzyme activity more accurately than plasma butyrylcholinesterase (pseudocholinesterase), which is synthesized by the liver and fluctuates with nutritional state. In the clinical evaluation of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Erythrocyte acetylcholinesterase vs plasma pseudocholinesterase monitoring.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Erythrocyte acetylcholinesterase vs plasma pseudocholinesterase monitoring."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1260",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Emergency agitation management: benzodiazepines vs avoidance of antipsychotics",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old man presenting with acute functional symptoms is urgently admitted to the emergency observation suite requiring evaluation for Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates). Physical assessment reveals mydriasis, anhidrosis, flushed dry skin, delirium, urinary retention, absent bowel sounds ('mad as a hatter, dry as a bone') versus miosis, massive diaphoresis, salivation, lacrimation, urination, defecation, and bronchospasm (SLUDGE / DUMBELS). Clinical observations record blood pressure 139/67 mm Hg, heart rate 80/min, respiratory rate 25/min, and ambient oxygen saturation 95%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Administering intravenous benzodiazepines (lorazepam or diazepam) for agitation and hyperthermia, strictly avoiding haloperidol or chlorpromazine.",
+        "explanation": "First-generation antipsychotics possess intrinsic anticholinergic properties, lower the seizure threshold, and impair heat dissipation, exacerbating anticholinergic hyperthermia.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "First-generation antipsychotics possess intrinsic anticholinergic properties, lower the seizure threshold, and impair heat dissipation, exacerbating anticholinergic hyperthermia. In the clinical evaluation of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Emergency agitation management: benzodiazepines vs avoidance of antipsychotics.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Emergency agitation management: benzodiazepines vs avoidance of antipsychotics."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1261",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Toxicity of central anticholinergics in the elderly: cognitive decline and falls",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 30-year-old woman who presents to the tertiary trauma and critical care unit with prominent manifestations of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates). Bedside evaluation demonstrates mydriasis, anhidrosis, flushed dry skin, delirium, urinary retention, absent bowel sounds ('mad as a hatter, dry as a bone') versus miosis, massive diaphoresis, salivation, lacrimation, urination, defecation, and bronchospasm (SLUDGE / DUMBELS). Clinical observations record blood pressure 141/71 mm Hg, heart rate 83/min, respiratory rate 15/min, and ambient oxygen saturation 96%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Reviewing Beers Criteria to deprescribe first-generation antihistamines, antispasmodics, and tricyclic agents to prevent drug-induced delirium and urinary retention.",
+        "explanation": "Elderly individuals have reduced baseline cholinergic reserves in the nucleus basalis of Meynert; anticholinergic medications precipitate acute confusion, hallucinations, and catastrophic falls.",
+        "correct": true
+      }
+    ],
+    "explanation": "Elderly individuals have reduced baseline cholinergic reserves in the nucleus basalis of Meynert; anticholinergic medications precipitate acute confusion, hallucinations, and catastrophic falls. In the clinical evaluation of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Toxicity of central anticholinergics in the elderly: cognitive decline and falls.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Toxicity of central anticholinergics in the elderly: cognitive decline and falls."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1262",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Agricultural pesticide storage and organophosphate occupational surveillance sta",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 35-year-old man with recent symptom exacerbation undergoes multidisciplinary diagnostic evaluation in the clinic for urgent clarification of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates). Clinical examination highlights mydriasis, anhidrosis, flushed dry skin, delirium, urinary retention, absent bowel sounds ('mad as a hatter, dry as a bone') versus miosis, massive diaphoresis, salivation, lacrimation, urination, defecation, and bronchospasm (SLUDGE / DUMBELS). Clinical observations record blood pressure 143/75 mm Hg, heart rate 86/min, respiratory rate 16/min, and ambient oxygen saturation 97%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Mandatory baseline and periodic serum cholinesterase monitoring for agricultural pesticide handlers and secure locked storage regulations.",
+        "explanation": "Statutory agricultural health standards mandate periodic cholinesterase testing; workers with > 30-50% depression from baseline must be removed from pesticide exposure.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Statutory agricultural health standards mandate periodic cholinesterase testing; workers with > 30-50% depression from baseline must be removed from pesticide exposure. In the clinical evaluation of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Agricultural pesticide storage and organophosphate occupational surveillance sta.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning Agricultural pesticide storage and organophosphate occupational surveillance sta."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1263",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "SLUDGE and DUMBELS mnemonics for muscarinic cholinergic hyperstimulation",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 40-year-old woman is brought by paramedic transfer to the emergency department with clinical findings indicative of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates). Bedside physical examination confirms mydriasis, anhidrosis, flushed dry skin, delirium, urinary retention, absent bowel sounds ('mad as a hatter, dry as a bone') versus miosis, massive diaphoresis, salivation, lacrimation, urination, defecation, and bronchospasm (SLUDGE / DUMBELS). Clinical observations record blood pressure 145/79 mm Hg, heart rate 89/min, respiratory rate 17/min, and ambient oxygen saturation 98%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Salivation, Lacrimation, Urination, Defecation, Gastrointestinal distress, Emesis, and Diaphoresis, Urination, Miosis, Bradycardia/Bronchorrhea, Emesis, Lacrimation, Salivation.",
+        "explanation": "Muscarinic hyperstimulation produces excessive exocrine gland secretions and smooth muscle contraction, with acute respiratory failure caused by bronchoconstriction and copius bronchial secretions.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Muscarinic hyperstimulation produces excessive exocrine gland secretions and smooth muscle contraction, with acute respiratory failure caused by bronchoconstriction and copius bronchial secretions. In the clinical evaluation of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning SLUDGE and DUMBELS mnemonics for muscarinic cholinergic hyperstimulation.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anticholinergic toxidrome (Atropine, Diphenhydramine, TCAs) vs Cholinergic toxidrome (Organophosphates) concerning SLUDGE and DUMBELS mnemonics for muscarinic cholinergic hyperstimulation."
+    ],
+    "references": [
+      {
+        "label": "Medical Toxicology: A Guide for Clinical Management, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1264",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "General Principles",
+    "topic": "Thermoregulatory mechanisms: preoptic anterior hypothalamus and Osborn (J) wave ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 50-year-old woman with recent symptom exacerbation is brought by paramedic transfer to the emergency department for urgent clarification of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke. Clinical examination highlights core body temperature < 35 C, Osborn (J) waves on ECG, cold coagulopathy, freezing tissue necrosis with hemorrhagic blisters, or core temperature > 40 C with central nervous system dysfunction and hyperpyrexic anhidrosis/diaphoresis. Clinical observations record blood pressure 124/78 mm Hg, heart rate 100/min, respiratory rate 17/min, and ambient oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Hypothalamic set-point disruption, cutaneous vasoconstriction failure, cold-induced diuresis, and delayed ventricular depolarization producing Osborn (J) waves on ECG.",
+        "explanation": "Osborn (J) waves are positive deflections at the QRS-ST junction caused by a prominent transmural voltage gradient in the ventricular epicardium during hypothermia.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Osborn (J) waves are positive deflections at the QRS-ST junction caused by a prominent transmural voltage gradient in the ventricular epicardium during hypothermia. In the clinical evaluation of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Thermoregulatory mechanisms: preoptic anterior hypothalamus and Osborn (J) wave .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Thermoregulatory mechanisms: preoptic anterior hypothalamus and Osborn (J) wave ."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Essential Trauma Care",
+        "url": "https://www.who.int/publications/i/item/9241546409"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1265",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Evaporative cooling for heat stroke and rapid rewarming bath for frostbite",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 55-year-old man attends the scheduled hospital outpatient review with clinical findings indicative of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke. Bedside physical examination confirms core body temperature < 35 C, Osborn (J) waves on ECG, cold coagulopathy, freezing tissue necrosis with hemorrhagic blisters, or core temperature > 40 C with central nervous system dysfunction and hyperpyrexic anhidrosis/diaphoresis. Clinical observations record blood pressure 126/82 mm Hg, heart rate 103/min, respiratory rate 18/min, and ambient oxygen saturation 95%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate ice-water immersion or evaporative cooling (mist and fan) to lower core temperature < 39 C for heat stroke, and 37-39 C water bath rewarming for frostbite.",
+        "explanation": "Heat stroke is a medical emergency with mortality directly proportional to the duration of hyperthermia; rapid active cooling halts systemic inflammatory cascade and multiorgan failure.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Heat stroke is a medical emergency with mortality directly proportional to the duration of hyperthermia; rapid active cooling halts systemic inflammatory cascade and multiorgan failure. In the clinical evaluation of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Evaporative cooling for heat stroke and rapid rewarming bath for frostbite.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Evaporative cooling for heat stroke and rapid rewarming bath for frostbite."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Essential Trauma Care",
+        "url": "https://www.who.int/publications/i/item/9241546409"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1266",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Extracorporeal life support (ECLS/CPB) rewarming for severe hypothermic cardiac ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 60-year-old woman who is evaluated in the acute surgical assessment unit due to suspected Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke. Clinical examination demonstrates core body temperature < 35 C, Osborn (J) waves on ECG, cold coagulopathy, freezing tissue necrosis with hemorrhagic blisters, or core temperature > 40 C with central nervous system dysfunction and hyperpyrexic anhidrosis/diaphoresis. Clinical observations record blood pressure 128/86 mm Hg, heart rate 106/min, respiratory rate 19/min, and ambient oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Instituting veno-arterial ECMO or cardiopulmonary bypass for accidental hypothermic cardiac arrest with core temperature < 30-32 C until warmed > 32-35 C.",
+        "explanation": "The clinical axiom 'no one is dead until warm and dead' applies; hypothermia provides profound neuroprotection, allowing neurologically intact survival following prolonged cardiac arrest.",
+        "correct": true
+      }
+    ],
+    "explanation": "The clinical axiom 'no one is dead until warm and dead' applies; hypothermia provides profound neuroprotection, allowing neurologically intact survival following prolonged cardiac arrest. In the clinical evaluation of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Extracorporeal life support (ECLS/CPB) rewarming for severe hypothermic cardiac .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Extracorporeal life support (ECLS/CPB) rewarming for severe hypothermic cardiac ."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Essential Trauma Care",
+        "url": "https://www.who.int/publications/i/item/9241546409"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1267",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Gentle handling and avoidance of rough movement in hypothermia to prevent ventri",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old man presenting with acute functional symptoms undergoes urgent bedside assessment in the medical ward requiring evaluation for Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke. Physical assessment reveals core body temperature < 35 C, Osborn (J) waves on ECG, cold coagulopathy, freezing tissue necrosis with hemorrhagic blisters, or core temperature > 40 C with central nervous system dysfunction and hyperpyrexic anhidrosis/diaphoresis. Clinical observations record blood pressure 130/66 mm Hg, heart rate 109/min, respiratory rate 20/min, and ambient oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Minimizing patient movement, avoiding rough transfers, and passive/active external warming to prevent mechanical triggering of intractable ventricular fibrillation in an irritable hypothermic heart.",
+        "explanation": "Below 30-32 C, the hypothermic myocardium is exquisitely sensitive to mechanical irritation; rough movement, endotracheal suctioning, or blind central line placement can trigger refractory VF.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Below 30-32 C, the hypothermic myocardium is exquisitely sensitive to mechanical irritation; rough movement, endotracheal suctioning, or blind central line placement can trigger refractory VF. In the clinical evaluation of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Gentle handling and avoidance of rough movement in hypothermia to prevent ventri.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Gentle handling and avoidance of rough movement in hypothermia to prevent ventri."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Essential Trauma Care",
+        "url": "https://www.who.int/publications/i/item/9241546409"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1268",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Differentiating exertional heat stroke from non-exertional (classic) heat stroke",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 70-year-old woman who presents to the acute subspecialty assessment center with prominent manifestations of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke. Bedside evaluation demonstrates core body temperature < 35 C, Osborn (J) waves on ECG, cold coagulopathy, freezing tissue necrosis with hemorrhagic blisters, or core temperature > 40 C with central nervous system dysfunction and hyperpyrexic anhidrosis/diaphoresis. Clinical observations record blood pressure 132/70 mm Hg, heart rate 112/min, respiratory rate 21/min, and ambient oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing that exertional heat stroke occurs in athletes/laborers with active diaphoresis and high risk of rhabdomyolysis and DIC, whereas classic heat stroke occurs in frail elderly with anhidrosis.",
+        "explanation": "Exertional heat stroke is driven by metabolic heat production exceeding heat dissipation; massive muscle breakdown frequently precipitates acute tubular necrosis and consumption coagulopathy.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "Exertional heat stroke is driven by metabolic heat production exceeding heat dissipation; massive muscle breakdown frequently precipitates acute tubular necrosis and consumption coagulopathy. In the clinical evaluation of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Differentiating exertional heat stroke from non-exertional (classic) heat stroke.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Differentiating exertional heat stroke from non-exertional (classic) heat stroke."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Essential Trauma Care",
+        "url": "https://www.who.int/publications/i/item/9241546409"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1269",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Proper frostbite thawing protocol: avoiding dry heat or premature refreezing",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 75-year-old man with recent symptom exacerbation is evaluated during urgent inpatient consultation for urgent clarification of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke. Clinical examination highlights core body temperature < 35 C, Osborn (J) waves on ECG, cold coagulopathy, freezing tissue necrosis with hemorrhagic blisters, or core temperature > 40 C with central nervous system dysfunction and hyperpyrexic anhidrosis/diaphoresis. Clinical observations record blood pressure 134/74 mm Hg, heart rate 115/min, respiratory rate 22/min, and ambient oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Immersing frozen extremities in circulating warm water (37-39 C) only when there is zero risk of refreezing, strictly avoiding dry heat, rubbing with snow, or premature debridement.",
+        "explanation": "Thawing followed by refreezing causes catastrophic ice crystal propagation and microvascular thrombosis; early debridement is contraindicated because demarcating viable tissue requires weeks ('frostbite in January, amputate in July').",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Thawing followed by refreezing causes catastrophic ice crystal propagation and microvascular thrombosis; early debridement is contraindicated because demarcating viable tissue requires weeks ('frostbite in January, amputate in July'). In the clinical evaluation of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Proper frostbite thawing protocol: avoiding dry heat or premature refreezing.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Proper frostbite thawing protocol: avoiding dry heat or premature refreezing."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Essential Trauma Care",
+        "url": "https://www.who.int/publications/i/item/9241546409"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1270",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Thrombolytic therapy (intravenous or intra-arterial tPA) for severe deep frostbi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old woman attends the specialized ambulatory medical clinic with clinical findings indicative of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke. Bedside physical examination confirms core body temperature < 35 C, Osborn (J) waves on ECG, cold coagulopathy, freezing tissue necrosis with hemorrhagic blisters, or core temperature > 40 C with central nervous system dysfunction and hyperpyrexic anhidrosis/diaphoresis. Clinical observations record blood pressure 136/78 mm Hg, heart rate 74/min, respiratory rate 23/min, and ambient oxygen saturation 94%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Administering intravenous or intra-arterial tissue plasminogen activator (tPA) within 24 hours of thawing for deep frostbite with absent perfusion on angiography to reduce amputation rates.",
+        "explanation": "Severe frostbite causes progressive microvascular endothelial damage and platelet-fibrin microthrombi; timely thrombolysis salvages ischemic digits that would otherwise require amputation.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Severe frostbite causes progressive microvascular endothelial damage and platelet-fibrin microthrombi; timely thrombolysis salvages ischemic digits that would otherwise require amputation. In the clinical evaluation of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Thrombolytic therapy (intravenous or intra-arterial tPA) for severe deep frostbi.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Thrombolytic therapy (intravenous or intra-arterial tPA) for severe deep frostbi."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Essential Trauma Care",
+        "url": "https://www.who.int/publications/i/item/9241546409"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1271",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Clinical classification of hypothermia: Mild, Moderate, and Severe",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is performed for a 27-year-old man who is urgently admitted to the emergency observation suite due to suspected Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke. Clinical examination demonstrates core body temperature < 35 C, Osborn (J) waves on ECG, cold coagulopathy, freezing tissue necrosis with hemorrhagic blisters, or core temperature > 40 C with central nervous system dysfunction and hyperpyrexic anhidrosis/diaphoresis. Clinical observations record blood pressure 138/82 mm Hg, heart rate 77/min, respiratory rate 24/min, and ambient oxygen saturation 95%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Mild (32-35 C: shivering, tachycardia), Moderate (28-32 C: shivering ceases, bradycardia, confusion), Severe (<28 C: coma, rigidity, apnea, ventricular arrhythmias).",
+        "explanation": "Shivering ceases below 32 C, removing the primary physiological mechanism for endogenous heat production; patients become poikilothermic and require active rewarming.",
+        "correct": true
+      }
+    ],
+    "explanation": "Shivering ceases below 32 C, removing the primary physiological mechanism for endogenous heat production; patients become poikilothermic and require active rewarming. In the clinical evaluation of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Clinical classification of hypothermia: Mild, Moderate, and Severe.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Clinical classification of hypothermia: Mild, Moderate, and Severe."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Essential Trauma Care",
+        "url": "https://www.who.int/publications/i/item/9241546409"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1272",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Paradoxical undressing, hide-and-die behavior, and cold diuresis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 32-year-old woman presenting with acute functional symptoms presents to the tertiary trauma and critical care unit requiring evaluation for Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke. Physical assessment reveals core body temperature < 35 C, Osborn (J) waves on ECG, cold coagulopathy, freezing tissue necrosis with hemorrhagic blisters, or core temperature > 40 C with central nervous system dysfunction and hyperpyrexic anhidrosis/diaphoresis. Clinical observations record blood pressure 140/86 mm Hg, heart rate 80/min, respiratory rate 25/min, and ambient oxygen saturation 96%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Terminal peripheral vasodilation producing a sensation of extreme heat (paradoxical undressing) and primitive brainstem burrowing behavior (hide-and-die) in fatal hypothermia.",
+        "explanation": "Paralysis of the vasoconstrictor center causes sudden cutaneous vasodilation, giving the freezing victim a false sensation of burning heat, prompting them to discard clothing.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Paralysis of the vasoconstrictor center causes sudden cutaneous vasodilation, giving the freezing victim a false sensation of burning heat, prompting them to discard clothing. In the clinical evaluation of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Paradoxical undressing, hide-and-die behavior, and cold diuresis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Paradoxical undressing, hide-and-die behavior, and cold diuresis."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Essential Trauma Care",
+        "url": "https://www.who.int/publications/i/item/9241546409"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1273",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Laboratory anomalies in hypothermia: cold coagulopathy, hemoconcentration, and b",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 37-year-old man who undergoes multidisciplinary diagnostic evaluation in the clinic with prominent manifestations of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke. Bedside evaluation demonstrates core body temperature < 35 C, Osborn (J) waves on ECG, cold coagulopathy, freezing tissue necrosis with hemorrhagic blisters, or core temperature > 40 C with central nervous system dysfunction and hyperpyrexic anhidrosis/diaphoresis. Clinical observations record blood pressure 142/66 mm Hg, heart rate 83/min, respiratory rate 15/min, and ambient oxygen saturation 97%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing that hypothermia causes in vivo enzymatic coagulopathy despite normal standard 37 C laboratory PT/INR assays, along with respiratory acidosis and hyperkalemia.",
+        "explanation": "Standard laboratory blood coagulation tests are warmed to 37 C and fail to reflect severe in vivo enzymatic hypothermic coagulopathy; platelet dysfunction is pronounced.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Standard laboratory blood coagulation tests are warmed to 37 C and fail to reflect severe in vivo enzymatic hypothermic coagulopathy; platelet dysfunction is pronounced. In the clinical evaluation of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Laboratory anomalies in hypothermia: cold coagulopathy, hemoconcentration, and b.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Laboratory anomalies in hypothermia: cold coagulopathy, hemoconcentration, and b."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Essential Trauma Care",
+        "url": "https://www.who.int/publications/i/item/9241546409"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1274",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Emergency resuscitation protocols: withholding epinephrine in hypothermic arrest",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old woman with recent symptom exacerbation is brought by paramedic transfer to the emergency department for urgent clarification of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke. Clinical examination highlights core body temperature < 35 C, Osborn (J) waves on ECG, cold coagulopathy, freezing tissue necrosis with hemorrhagic blisters, or core temperature > 40 C with central nervous system dysfunction and hyperpyrexic anhidrosis/diaphoresis. Clinical observations record blood pressure 144/70 mm Hg, heart rate 86/min, respiratory rate 16/min, and ambient oxygen saturation 98%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Limiting defibrillation attempts to <= 3 shocks and withholding intravenous epinephrine until core temperature is warmed > 30 C, then doubling dosing intervals between 30-35 C.",
+        "explanation": "Below 30 C, the liver and kidneys do not metabolize catecholamines; repeated adrenaline doses accumulate in the central circulation, causing massive rebound toxicity and dysrhythmias upon rewarming.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Below 30 C, the liver and kidneys do not metabolize catecholamines; repeated adrenaline doses accumulate in the central circulation, causing massive rebound toxicity and dysrhythmias upon rewarming. In the clinical evaluation of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Emergency resuscitation protocols: withholding epinephrine in hypothermic arrest.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Emergency resuscitation protocols: withholding epinephrine in hypothermic arrest."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Essential Trauma Care",
+        "url": "https://www.who.int/publications/i/item/9241546409"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1275",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Fluid resuscitation in heat emergencies: normal saline vs avoiding hypotonic flu",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 47-year-old man attends the scheduled hospital outpatient review with clinical findings indicative of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke. Bedside physical examination confirms core body temperature < 35 C, Osborn (J) waves on ECG, cold coagulopathy, freezing tissue necrosis with hemorrhagic blisters, or core temperature > 40 C with central nervous system dysfunction and hyperpyrexic anhidrosis/diaphoresis. Clinical observations record blood pressure 146/74 mm Hg, heart rate 89/min, respiratory rate 17/min, and ambient oxygen saturation 99%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Administering intravenous isotonic normal saline or lactated Ringer solution, monitoring electrolytes to avoid rapid hyponatremia correction or water intoxication.",
+        "explanation": "Heat exhaustion involves significant electrolyte and fluid losses; drinking large quantities of pure water without sodium can cause severe exertional hyponatremic encephalopathy.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Heat exhaustion involves significant electrolyte and fluid losses; drinking large quantities of pure water without sodium can cause severe exertional hyponatremic encephalopathy. In the clinical evaluation of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Fluid resuscitation in heat emergencies: normal saline vs avoiding hypotonic flu.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Fluid resuscitation in heat emergencies: normal saline vs avoiding hypotonic flu."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Essential Trauma Care",
+        "url": "https://www.who.int/publications/i/item/9241546409"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];

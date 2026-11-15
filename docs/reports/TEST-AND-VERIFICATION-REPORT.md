@@ -10,12 +10,12 @@
 ## 1. Executive Summary
 
 This report documents the rigorous verification and quality assurance protocol executed for the OpenPrep platform expansion following the StepwiseMD research audit. Verification encompassed:
-1. **Content Schema & Provenance Validation:** 1,095 newly authored original clinical vignettes across 14 international examinations validated against strict Zod schema specifications and citation registries across 15 modular batches.
+1. **Content Schema & Provenance Validation:** 1,445 newly authored original clinical vignettes across 14 international examinations validated against strict Zod schema specifications and citation registries across 19 modular batches.
 2. **Specialized Bank Unit Tests:** Vitest test suite executing deep semantic assertions on options count (5 choices), distractor rationales (>= 35 chars), citation references (valid HTTPS), and exam slug coverage (14 exams).
 3. **Core Platform Unit Tests:** Full execution of OpenPrep's core unit test suite (16 test suites, 199 tests) verifying user sessions, exam modes, review workflows, and scoring engines.
 4. **Static Type Safety:** Complete TypeScript compiler validation (`tsc --noEmit`) across the entire codebase including modified UI and API routes.
-5. **PWA & Offline Service Worker:** Addition of `public/sw.js` for offline caching and service worker registration in `RootLayout`.
-6. **Question Browser Fast Navigation:** 1-click exam pill selector added to `src/app/(app)/(main)/questions/page.tsx` for immediate category filtering without opening filter sidebars.
+5. **PWA & Offline Service Worker:** Verification of `public/sw.js` for offline caching and service worker registration in `RootLayout`.
+6. **Question Browser Fast Navigation:** 1-click exam pill selector in `src/app/(app)/(main)/questions/page.tsx` for immediate category filtering without opening filter sidebars.
 7. **Production Build Pipeline:** Next.js 16 Turbopack production compilation verifying static generation, dynamic server routes, and bundle integrity.
 
 ---
@@ -40,12 +40,12 @@ The dedicated validation script `scripts/international-bank.ts` was executed to 
 > openprep@0.1.0 bank:intl
 > tsx scripts/international-bank.ts
 
-Validating 1095 international expansion questions...
-All 1095 international questions validated successfully with 0 errors.
+Validating 1445 international expansion questions...
+All 1445 international questions validated successfully with 0 errors.
 Exams covered (14): AMC, FCPS, HAAD / DHA, MCCQE, MRCEM, MRCP, NEET PG, NLE, PLAB / UKMLA, SMLE, Step 1, Step 2 CK, Step 3, UHS MBBS
 Reports written to: content/bank/international/reports/validation-report.json
 ```
-**Outcome:** PASSED (1,095/1,095 questions validated; 0 errors).
+**Outcome:** PASSED (1,445/1,445 questions validated; 0 errors).
 
 ---
 
@@ -59,14 +59,14 @@ A dedicated unit test suite was implemented in `tests/unit/international-bank.te
 
  RUN  v5.0.4 D:/Open Uworld
 
- ✓ tests/unit/international-bank.test.ts (4 tests) 727ms
+ ✓ tests/unit/international-bank.test.ts (4 tests) 1481ms
    ✓ international question bank expansion (4)
-     ✓ passes bankQuestionSchema and validateBank without errors or duplicates 593ms
+     ✓ passes bankQuestionSchema and validateBank without errors or duplicates 1206ms
 
  Test Files  1 passed (1)
       Tests  4 passed (4)
-   Start at  01:12:56
-   Duration  1.45s (tests 57%, transform 24%, import 18%, worker 1%)
+   Start at  16:20:15
+   Duration  3.09s (tests 58%, transform 24%, import 18%)
 ```
 **Outcome:** PASSED (4/4 tests passed).
 
@@ -82,35 +82,35 @@ The standard OpenPrep unit testing suite was executed across the existing applic
 
  RUN  v5.0.4 D:/Open Uworld
 
- ✓ tests/unit/practice-provenance.test.ts (69 tests) 1240ms
+ ✓ tests/unit/international-bank.test.ts (4 tests) 1041ms
+   ✓ international question bank expansion (4)
+     ✓ passes bankQuestionSchema and validateBank without errors or duplicates 830ms
+ ✓ tests/unit/practice-provenance.test.ts (69 tests) 4734ms
    ✓ F. Reset boundaries & Question Practice Status Resolution (42)
      ✓ H. Stage 4B.4 Question Revisions, Three-Pillar Review & Delivery Gating (26)
        ✓ 6. Delivered revision pinning, revocation demotion, and browse snapshot consistency (13)
-         ✓ F-01: getView concurrent race rereads already-bound revision under row lock without overwriting 1120ms
- ✓ tests/unit/international-bank.test.ts (4 tests) 730ms
-   ✓ international question bank expansion (4)
-     ✓ passes bankQuestionSchema and validateBank without errors or duplicates 596ms
- ✓ tests/unit/question-bank.test.ts (15 tests) 488ms
+         ✓ F-01: getView concurrent race rereads already-bound revision under row lock without overwriting 4094ms
+ ✓ tests/unit/question-bank.test.ts (15 tests) 655ms
    ✓ authored question bank (15)
-     ✓ every batch passes the higher editorial structure and cross-batch duplicate screen 479ms
- ✓ tests/unit/bank-expansion.test.ts (5 tests) 287ms
- ✓ tests/unit/content-distribution.test.ts (7 tests) 69ms
- ✓ tests/unit/learning-tools.test.ts (10 tests) 52ms
- ✓ tests/unit/content-and-analytics.test.ts (26 tests) 22ms
- ✓ tests/unit/pilot-bank.test.ts (8 tests) 15ms
- ✓ tests/unit/step3-bank.test.ts (7 tests) 17ms
- ✓ tests/unit/license-policy.test.ts (1 test) 9ms
- ✓ tests/unit/authorized-importer.test.ts (5 tests) 9ms
- ✓ tests/unit/exam-engine.test.ts (18 tests) 9ms
- ✓ tests/unit/owner-test-release.test.ts (4 tests) 6ms
- ✓ tests/unit/candidate-reference-url.test.ts (5 tests) 6ms
- ✓ tests/unit/test-database.test.ts (9 tests) 5ms
- ✓ tests/unit/readiness.test.ts (6 tests) 4ms
+     ✓ every batch passes the higher editorial structure and cross-batch duplicate screen 643ms
+ ✓ tests/unit/bank-expansion.test.ts (5 tests) 419ms
+ ✓ tests/unit/content-distribution.test.ts (7 tests) 100ms
+ ✓ tests/unit/learning-tools.test.ts (10 tests) 60ms
+ ✓ tests/unit/content-and-analytics.test.ts (26 tests) 29ms
+ ✓ tests/unit/step3-bank.test.ts (7 tests) 23ms
+ ✓ tests/unit/pilot-bank.test.ts (8 tests) 26ms
+ ✓ tests/unit/license-policy.test.ts (1 test) 20ms
+ ✓ tests/unit/authorized-importer.test.ts (5 tests) 13ms
+ ✓ tests/unit/exam-engine.test.ts (18 tests) 12ms
+ ✓ tests/unit/owner-test-release.test.ts (4 tests) 8ms
+ ✓ tests/unit/candidate-reference-url.test.ts (5 tests) 8ms
+ ✓ tests/unit/test-database.test.ts (9 tests) 7ms
+ ✓ tests/unit/readiness.test.ts (6 tests) 6ms
 
  Test Files  16 passed (16)
       Tests  199 passed (199)
-   Start at  01:15:13
-   Duration  8.23s (tests 49%, import 46%, transform 4%, worker 2%)
+   Start at  16:20:45
+   Duration  14.78s (tests 60%, import 34%, transform 5%, worker 1%)
 ```
 **Outcome:** PASSED (16 test suites passed; 199/199 unit tests passed; 0 failures).
 
@@ -132,7 +132,7 @@ Static type analysis was executed using the project's TypeScript compiler (`tsc 
 
 | Verification Check | Target Command | Result | Details |
 | :--- | :--- | :--- | :--- |
-| **Batch Content Integrity** | `npm run bank:intl` | **PASS** | 1,095/1,095 items valid, SHA-256 digests verified |
+| **Batch Content Integrity** | `npm run bank:intl` | **PASS** | 1,445/1,445 items valid, SHA-256 digests verified across 19 batches |
 | **Question Unit Tests** | `npx vitest run tests/unit/international-bank.test.ts` | **PASS** | 4/4 passed (options, rationales, citations, exams) |
 | **Platform Unit Tests** | `npm run test:unit` | **PASS** | 16/16 suites passed (199/199 tests passed) |
 | **Static Type Analysis** | `npm run typecheck` | **PASS** | 0 TypeScript errors |

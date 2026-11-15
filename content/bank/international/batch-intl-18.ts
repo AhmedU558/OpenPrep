@@ -1,0 +1,4339 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-1276",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Mandatory midday work bans and occupational heat stress regulations in Gulf clim",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 52-year-old woman who is evaluated in the acute surgical assessment unit due to suspected Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke. Clinical examination demonstrates core body temperature < 35 C, Osborn (J) waves on ECG, cold coagulopathy, freezing tissue necrosis with hemorrhagic blisters, or core temperature > 40 C with central nervous system dysfunction and hyperpyrexic anhidrosis/diaphoresis. Clinical observations record blood pressure 148/78 mm Hg, heart rate 92/min, respiratory rate 18/min, and ambient oxygen saturation 94%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Enforcing statutory midday outdoor work bans during summer months, mandatory hydration stations, and wet-bulb globe temperature (WBGT) monitoring at construction sites.",
+        "explanation": "Occupational health legislation prohibiting outdoor labor between 12:30 PM and 3:00 PM during peak summer drastically reduces morbidity and mortality from exertional heat illness.",
+        "correct": true
+      }
+    ],
+    "explanation": "Occupational health legislation prohibiting outdoor labor between 12:30 PM and 3:00 PM during peak summer drastically reduces morbidity and mortality from exertional heat illness. In the clinical evaluation of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Mandatory midday work bans and occupational heat stress regulations in Gulf clim.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Mandatory midday work bans and occupational heat stress regulations in Gulf clim."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Essential Trauma Care",
+        "url": "https://www.who.int/publications/i/item/9241546409"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1277",
+    "exam": "UHS MBBS",
+    "subject": "Physiology",
+    "system": "General Principles",
+    "topic": "Physical mechanisms of heat loss: Radiation, Convection, Conduction, and Evapora",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 57-year-old man presenting with acute functional symptoms undergoes urgent bedside assessment in the medical ward requiring evaluation for Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke. Physical assessment reveals core body temperature < 35 C, Osborn (J) waves on ECG, cold coagulopathy, freezing tissue necrosis with hemorrhagic blisters, or core temperature > 40 C with central nervous system dysfunction and hyperpyrexic anhidrosis/diaphoresis. Clinical observations record blood pressure 150/82 mm Hg, heart rate 95/min, respiratory rate 19/min, and ambient oxygen saturation 95%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Radiation accounts for 60% of heat loss at room temperature, but evaporation becomes the sole effective mechanism for heat dissipation when ambient temperature exceeds body temperature.",
+        "explanation": "When environmental temperature exceeds 35 C, heat is gained by radiation and convection; cutaneous vasodilation and sweat evaporation remain the only defense against heat stroke.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "When environmental temperature exceeds 35 C, heat is gained by radiation and convection; cutaneous vasodilation and sweat evaporation remain the only defense against heat stroke. In the clinical evaluation of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Physical mechanisms of heat loss: Radiation, Convection, Conduction, and Evapora.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Accidental hypothermia, Frostbite, Heat exhaustion, and Exertional/Classic Heat stroke concerning Physical mechanisms of heat loss: Radiation, Convection, Conduction, and Evapora."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Essential Trauma Care",
+        "url": "https://www.who.int/publications/i/item/9241546409"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1278",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Anatomy of the four lower leg fascial compartments and microvascular perfusion t",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 67-year-old man who undergoes urgent bedside assessment in the medical ward due to suspected Acute compartment syndrome and emergent surgical fasciotomy. Clinical examination demonstrates severe pain out of proportion to injury, pain exacerbated by passive muscle stretch, tense wooden swelling, paresthesias, and intracompartmental pressure within 30 mm Hg of diastolic pressure (delta-P <= 30 mm Hg). Clinical observations record blood pressure 129/81 mm Hg, heart rate 106/min, respiratory rate 19/min, and ambient oxygen saturation 97%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Anterior, lateral, superficial posterior, and deep posterior compartments enclosed by unyielding deep fascia, where rising tissue pressure compromises capillary perfusion pressure.",
+        "explanation": "Elevated interstitial tissue pressure compresses thin-walled venules, reducing the arteriovenous pressure gradient and causing capillary collapse, tissue ischemia, and muscle necrosis.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "Elevated interstitial tissue pressure compresses thin-walled venules, reducing the arteriovenous pressure gradient and causing capillary collapse, tissue ischemia, and muscle necrosis. In the clinical evaluation of Acute compartment syndrome and emergent surgical fasciotomy, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Anatomy of the four lower leg fascial compartments and microvascular perfusion t.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Anatomy of the four lower leg fascial compartments and microvascular perfusion t."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1279",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Emergent measurement of compartment pressure and urgent two-incision four-compar",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 72-year-old woman presenting with acute functional symptoms presents to the acute subspecialty assessment center requiring evaluation for Acute compartment syndrome and emergent surgical fasciotomy. Physical assessment reveals severe pain out of proportion to injury, pain exacerbated by passive muscle stretch, tense wooden swelling, paresthesias, and intracompartmental pressure within 30 mm Hg of diastolic pressure (delta-P <= 30 mm Hg). Clinical observations record blood pressure 131/85 mm Hg, heart rate 109/min, respiratory rate 20/min, and ambient oxygen saturation 98%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Measuring needle compartmental pressure (Stryker device) and performing emergent two-incision four-compartment fasciotomy when delta pressure (diastolic BP minus compartment pressure) is <= 30 mm Hg.",
+        "explanation": "Irreversible muscle necrosis and permanent nerve injury occur after 6 to 8 hours of sustained compartment ischemia; emergency full decompression of all four compartments is mandatory.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Irreversible muscle necrosis and permanent nerve injury occur after 6 to 8 hours of sustained compartment ischemia; emergency full decompression of all four compartments is mandatory. In the clinical evaluation of Acute compartment syndrome and emergent surgical fasciotomy, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Emergent measurement of compartment pressure and urgent two-incision four-compar.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Emergent measurement of compartment pressure and urgent two-incision four-compar."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1280",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Prevention of Volkmann ischemic contracture and late rhabdomyolysis complication",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 77-year-old man who is evaluated during urgent inpatient consultation with prominent manifestations of Acute compartment syndrome and emergent surgical fasciotomy. Bedside evaluation demonstrates severe pain out of proportion to injury, pain exacerbated by passive muscle stretch, tense wooden swelling, paresthesias, and intracompartmental pressure within 30 mm Hg of diastolic pressure (delta-P <= 30 mm Hg). Clinical observations record blood pressure 133/89 mm Hg, heart rate 112/min, respiratory rate 21/min, and ambient oxygen saturation 99%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Aggressive isotonic fluid resuscitation, monitoring for myoglobinuria and acute kidney injury, and delayed wound closure (or split-thickness skin grafting) once swelling subsides.",
+        "explanation": "Reperfusion following fasciotomy washes massive amounts of myoglobin, potassium, and lactic acid into the systemic circulation; vigorous alkaline diuresis prevents pigment nephropathy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Reperfusion following fasciotomy washes massive amounts of myoglobin, potassium, and lactic acid into the systemic circulation; vigorous alkaline diuresis prevents pigment nephropathy. In the clinical evaluation of Acute compartment syndrome and emergent surgical fasciotomy, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Prevention of Volkmann ischemic contracture and late rhabdomyolysis complication.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Prevention of Volkmann ischemic contracture and late rhabdomyolysis complication."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1281",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "The 6 Ps of compartment syndrome and early clinical sensitivity of passive stret",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old woman with recent symptom exacerbation attends the specialized ambulatory medical clinic for urgent clarification of Acute compartment syndrome and emergent surgical fasciotomy. Clinical examination highlights severe pain out of proportion to injury, pain exacerbated by passive muscle stretch, tense wooden swelling, paresthesias, and intracompartmental pressure within 30 mm Hg of diastolic pressure (delta-P <= 30 mm Hg). Clinical observations record blood pressure 135/69 mm Hg, heart rate 115/min, respiratory rate 22/min, and ambient oxygen saturation 94%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing that severe pain exacerbated by passive stretching of the compartment muscles is the earliest and most sensitive sign, whereas pulselessness and pallor are late ominous signs.",
+        "explanation": "Waiting for pulselessness or pallor before diagnosing compartment syndrome results in irreversible muscle necrosis; peripheral arterial pulses persist because systolic pressure exceeds compartment pressure.",
+        "correct": true
+      }
+    ],
+    "explanation": "Waiting for pulselessness or pallor before diagnosing compartment syndrome results in irreversible muscle necrosis; peripheral arterial pulses persist because systolic pressure exceeds compartment pressure. In the clinical evaluation of Acute compartment syndrome and emergent surgical fasciotomy, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning The 6 Ps of compartment syndrome and early clinical sensitivity of passive stret.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning The 6 Ps of compartment syndrome and early clinical sensitivity of passive stret."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1282",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Management of circumferential casts or constrictive dressings in suspected compa",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man is urgently admitted to the emergency observation suite with clinical findings indicative of Acute compartment syndrome and emergent surgical fasciotomy. Bedside physical examination confirms severe pain out of proportion to injury, pain exacerbated by passive muscle stretch, tense wooden swelling, paresthesias, and intracompartmental pressure within 30 mm Hg of diastolic pressure (delta-P <= 30 mm Hg). Clinical observations record blood pressure 137/73 mm Hg, heart rate 74/min, respiratory rate 23/min, and ambient oxygen saturation 95%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Immediately bivalving the circumferential plaster cast, splitting the underlying cotton padding down to bare skin, and maintaining the limb at heart level (avoiding elevation).",
+        "explanation": "Splitting the cast reduces compartmental pressure by 50-65%; elevating the limb above heart level is contraindicated as it reduces arterial perfusion pressure, worsening ischemia.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Splitting the cast reduces compartmental pressure by 50-65%; elevating the limb above heart level is contraindicated as it reduces arterial perfusion pressure, worsening ischemia. In the clinical evaluation of Acute compartment syndrome and emergent surgical fasciotomy, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Management of circumferential casts or constrictive dressings in suspected compa.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Management of circumferential casts or constrictive dressings in suspected compa."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1283",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "High-risk fracture patterns predisposing to compartment syndrome",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 34-year-old woman who presents to the tertiary trauma and critical care unit due to suspected Acute compartment syndrome and emergent surgical fasciotomy. Clinical examination demonstrates severe pain out of proportion to injury, pain exacerbated by passive muscle stretch, tense wooden swelling, paresthesias, and intracompartmental pressure within 30 mm Hg of diastolic pressure (delta-P <= 30 mm Hg). Clinical observations record blood pressure 139/77 mm Hg, heart rate 77/min, respiratory rate 24/min, and ambient oxygen saturation 96%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing high risk in tibial shaft fractures, forearm fractures (supracondylar humerus or radius/ulna), high-energy crush injuries, and reperfusion after prolonged arterial ischemia.",
+        "explanation": "Tibial diaphyseal fractures are the single most common cause of acute compartment syndrome; clinical vigilance and serial neurovascular examinations are essential.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Tibial diaphyseal fractures are the single most common cause of acute compartment syndrome; clinical vigilance and serial neurovascular examinations are essential. In the clinical evaluation of Acute compartment syndrome and emergent surgical fasciotomy, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning High-risk fracture patterns predisposing to compartment syndrome.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning High-risk fracture patterns predisposing to compartment syndrome."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1284",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Surgical anatomy of two-incision four-compartment release (anterolateral and pos",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man presenting with acute functional symptoms undergoes multidisciplinary diagnostic evaluation in the clinic requiring evaluation for Acute compartment syndrome and emergent surgical fasciotomy. Physical assessment reveals severe pain out of proportion to injury, pain exacerbated by passive muscle stretch, tense wooden swelling, paresthesias, and intracompartmental pressure within 30 mm Hg of diastolic pressure (delta-P <= 30 mm Hg). Clinical observations record blood pressure 141/81 mm Hg, heart rate 80/min, respiratory rate 25/min, and ambient oxygen saturation 97%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Anterolateral incision decompressing anterior and lateral compartments (identifying superficial peroneal nerve), and posteromedial incision decompressing superficial and deep posterior compartments.",
+        "explanation": "The posteromedial incision must release the deep posterior fascia (tibialis posterior and flexor digitorum longus) from the tibia; incomplete release risks late claw-toe deformities.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "The posteromedial incision must release the deep posterior fascia (tibialis posterior and flexor digitorum longus) from the tibia; incomplete release risks late claw-toe deformities. In the clinical evaluation of Acute compartment syndrome and emergent surgical fasciotomy, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Surgical anatomy of two-incision four-compartment release (anterolateral and pos.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Surgical anatomy of two-incision four-compartment release (anterolateral and pos."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1285",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "The 6 Ps mnemonic in clinical assessment of limb ischemia and compartment syndro",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is commenced for a 44-year-old woman who is brought by paramedic transfer to the emergency department with prominent manifestations of Acute compartment syndrome and emergent surgical fasciotomy. Bedside evaluation demonstrates severe pain out of proportion to injury, pain exacerbated by passive muscle stretch, tense wooden swelling, paresthesias, and intracompartmental pressure within 30 mm Hg of diastolic pressure (delta-P <= 30 mm Hg). Clinical observations record blood pressure 143/85 mm Hg, heart rate 83/min, respiratory rate 15/min, and ambient oxygen saturation 98%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Pain out of proportion, Paresthesias, Pallor, Poikilothermia, Pulselessness, and Paralysis.",
+        "explanation": "Paresthesias and hypoesthesia in the distribution of traversing nerves (e.g., deep peroneal nerve webspace between 1st and 2nd toes) indicate nerve ischemia within the compartment.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Paresthesias and hypoesthesia in the distribution of traversing nerves (e.g., deep peroneal nerve webspace between 1st and 2nd toes) indicate nerve ischemia within the compartment. In the clinical evaluation of Acute compartment syndrome and emergent surgical fasciotomy, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning The 6 Ps mnemonic in clinical assessment of limb ischemia and compartment syndro.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning The 6 Ps mnemonic in clinical assessment of limb ischemia and compartment syndro."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1286",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Deep peroneal nerve sensory distribution and Whitesides needle manometer techniq",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man with recent symptom exacerbation attends the scheduled hospital outpatient review for urgent clarification of Acute compartment syndrome and emergent surgical fasciotomy. Clinical examination highlights severe pain out of proportion to injury, pain exacerbated by passive muscle stretch, tense wooden swelling, paresthesias, and intracompartmental pressure within 30 mm Hg of diastolic pressure (delta-P <= 30 mm Hg). Clinical observations record blood pressure 145/89 mm Hg, heart rate 86/min, respiratory rate 16/min, and ambient oxygen saturation 99%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Sensory loss in the first dorsal web space indicating deep peroneal nerve compression in the anterior compartment, and Whitesides technique using a mercury manometer and saline column.",
+        "explanation": "The deep peroneal nerve traverses the anterior leg compartment; sensory loss between the great and second toes is the earliest neurological deficit of anterior compartment syndrome.",
+        "correct": true
+      }
+    ],
+    "explanation": "The deep peroneal nerve traverses the anterior leg compartment; sensory loss between the great and second toes is the earliest neurological deficit of anterior compartment syndrome. In the clinical evaluation of Acute compartment syndrome and emergent surgical fasciotomy, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Deep peroneal nerve sensory distribution and Whitesides needle manometer techniq.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Deep peroneal nerve sensory distribution and Whitesides needle manometer techniq."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1287",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Rhabdomyolysis biomarkers: serum creatine kinase, myoglobinuria, and urine dipst",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old woman is evaluated in the acute surgical assessment unit with clinical findings indicative of Acute compartment syndrome and emergent surgical fasciotomy. Bedside physical examination confirms severe pain out of proportion to injury, pain exacerbated by passive muscle stretch, tense wooden swelling, paresthesias, and intracompartmental pressure within 30 mm Hg of diastolic pressure (delta-P <= 30 mm Hg). Clinical observations record blood pressure 147/69 mm Hg, heart rate 89/min, respiratory rate 17/min, and ambient oxygen saturation 94%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Markedly elevated serum creatine kinase (> 10,000-50,000 U/L) and urine dipstick testing positive for blood in the complete absence of red blood cells on microscopic examination.",
+        "explanation": "Urine dipstick orthotolidine reagent detects the heme moiety of both myoglobin and hemoglobin; a strongly positive dipstick for 'blood' with zero microscopic RBCs confirms myoglobinuria.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Urine dipstick orthotolidine reagent detects the heme moiety of both myoglobin and hemoglobin; a strongly positive dipstick for 'blood' with zero microscopic RBCs confirms myoglobinuria. In the clinical evaluation of Acute compartment syndrome and emergent surgical fasciotomy, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Rhabdomyolysis biomarkers: serum creatine kinase, myoglobinuria, and urine dipst.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Rhabdomyolysis biomarkers: serum creatine kinase, myoglobinuria, and urine dipst."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1288",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Emergency bedside decompression when fasciotomy is delayed during transfer",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 59-year-old man who undergoes urgent bedside assessment in the medical ward due to suspected Acute compartment syndrome and emergent surgical fasciotomy. Clinical examination demonstrates severe pain out of proportion to injury, pain exacerbated by passive muscle stretch, tense wooden swelling, paresthesias, and intracompartmental pressure within 30 mm Hg of diastolic pressure (delta-P <= 30 mm Hg). Clinical observations record blood pressure 149/73 mm Hg, heart rate 92/min, respiratory rate 18/min, and ambient oxygen saturation 95%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Removing all constricting bandages, maintaining the limb strictly neutral at heart level, administering aggressive crystalloid fluids, and arranging immediate surgical transfer.",
+        "explanation": "Neither elevation (which drops perfusion pressure) nor dependency (which increases venous congestion) is safe; keeping the limb at heart level optimizes capillary perfusion pressure.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Neither elevation (which drops perfusion pressure) nor dependency (which increases venous congestion) is safe; keeping the limb at heart level optimizes capillary perfusion pressure. In the clinical evaluation of Acute compartment syndrome and emergent surgical fasciotomy, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Emergency bedside decompression when fasciotomy is delayed during transfer.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Emergency bedside decompression when fasciotomy is delayed during transfer."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1289",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Vacuum-assisted closure (VAC) and delayed closure techniques post-fasciotomy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old woman presenting with acute functional symptoms presents to the acute subspecialty assessment center requiring evaluation for Acute compartment syndrome and emergent surgical fasciotomy. Physical assessment reveals severe pain out of proportion to injury, pain exacerbated by passive muscle stretch, tense wooden swelling, paresthesias, and intracompartmental pressure within 30 mm Hg of diastolic pressure (delta-P <= 30 mm Hg). Clinical observations record blood pressure 151/77 mm Hg, heart rate 95/min, respiratory rate 19/min, and ambient oxygen saturation 96%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Applying negative-pressure wound therapy (wound VAC) to fasciotomy open wounds, with progressive dermatotraction (vessel-loop shoelace technique) prior to delayed primary closure.",
+        "explanation": "Wound VAC maintains tissue microcirculation, prevents skin edge retraction, and removes exudate, allowing successful delayed primary skin closure without requiring extensive skin grafts.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Wound VAC maintains tissue microcirculation, prevents skin edge retraction, and removes exudate, allowing successful delayed primary skin closure without requiring extensive skin grafts. In the clinical evaluation of Acute compartment syndrome and emergent surgical fasciotomy, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Vacuum-assisted closure (VAC) and delayed closure techniques post-fasciotomy.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Vacuum-assisted closure (VAC) and delayed closure techniques post-fasciotomy."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1290",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Postoperative neurovascular charting protocols in orthopedics and traumatology",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 69-year-old man who is evaluated during urgent inpatient consultation with prominent manifestations of Acute compartment syndrome and emergent surgical fasciotomy. Bedside evaluation demonstrates severe pain out of proportion to injury, pain exacerbated by passive muscle stretch, tense wooden swelling, paresthesias, and intracompartmental pressure within 30 mm Hg of diastolic pressure (delta-P <= 30 mm Hg). Clinical observations record blood pressure 109/81 mm Hg, heart rate 98/min, respiratory rate 20/min, and ambient oxygen saturation 97%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Mandatory hourly neurovascular observations (pain score, passive stretch, capillary refill, peripheral sensation, and motor function) for the first 24-48 hours post-fracture fixation.",
+        "explanation": "Standardized nursing neurovascular observation protocols ensure early identification of impending compartment syndrome, preventing delayed intervention and catastrophic limb loss.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "Standardized nursing neurovascular observation protocols ensure early identification of impending compartment syndrome, preventing delayed intervention and catastrophic limb loss. In the clinical evaluation of Acute compartment syndrome and emergent surgical fasciotomy, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Postoperative neurovascular charting protocols in orthopedics and traumatology.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Postoperative neurovascular charting protocols in orthopedics and traumatology."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1291",
+    "exam": "UHS MBBS",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Contents of the anterior compartment of the leg",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 74-year-old woman with recent symptom exacerbation attends the specialized ambulatory medical clinic for urgent clarification of Acute compartment syndrome and emergent surgical fasciotomy. Clinical examination highlights severe pain out of proportion to injury, pain exacerbated by passive muscle stretch, tense wooden swelling, paresthesias, and intracompartmental pressure within 30 mm Hg of diastolic pressure (delta-P <= 30 mm Hg). Clinical observations record blood pressure 111/85 mm Hg, heart rate 101/min, respiratory rate 21/min, and ambient oxygen saturation 98%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Tibialis anterior, extensor hallucis longus, extensor digitorum longus, peroneus tertius, deep peroneal nerve, and anterior tibial artery/veins.",
+        "explanation": "The anterior compartment is the most frequent site of leg compartment syndrome; its boundary is rigid anteriorly (crural fascia), posteriorly (interosseous membrane), and medially (tibia).",
+        "correct": true
+      }
+    ],
+    "explanation": "The anterior compartment is the most frequent site of leg compartment syndrome; its boundary is rigid anteriorly (crural fascia), posteriorly (interosseous membrane), and medially (tibia). In the clinical evaluation of Acute compartment syndrome and emergent surgical fasciotomy, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Contents of the anterior compartment of the leg.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute compartment syndrome and emergent surgical fasciotomy concerning Contents of the anterior compartment of the leg."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1292",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "Musculoskeletal",
+    "topic": "Hematogenous metaphyseal seeding in children vs epiphyseal vessels in neonates",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 26-year-old woman who attends the specialized ambulatory medical clinic with prominent manifestations of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis. Bedside evaluation demonstrates acute monoarticular joint erythema, severe swelling, inability to bear weight, refusal to move limb (pseudoparalysis), fever, synovial fluid WBC > 50,000/mcL with > 75-90% PMNs, or localized focal bony tenderness with periosteal reaction. Clinical observations record blood pressure 134/84 mm Hg, heart rate 112/min, respiratory rate 21/min, and ambient oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Slow, sluggish blood flow in non-anastomosing capillary loops in the metaphysis of growing long bones in children predisposing to hematogenous Staphylococcus aureus seeding.",
+        "explanation": "In children older than 1 year, the avascular growth plate (physis) acts as a physical barrier preventing metaphyseal osteomyelitis from crossing into the epiphysis and joint cavity.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "In children older than 1 year, the avascular growth plate (physis) acts as a physical barrier preventing metaphyseal osteomyelitis from crossing into the epiphysis and joint cavity. In the clinical evaluation of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Hematogenous metaphyseal seeding in children vs epiphyseal vessels in neonates.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Hematogenous metaphyseal seeding in children vs epiphyseal vessels in neonates."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1293",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Emergency arthrocentesis before antibiotics and urgent surgical joint washout",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 31-year-old man with recent symptom exacerbation is urgently admitted to the emergency observation suite for urgent clarification of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis. Clinical examination highlights acute monoarticular joint erythema, severe swelling, inability to bear weight, refusal to move limb (pseudoparalysis), fever, synovial fluid WBC > 50,000/mcL with > 75-90% PMNs, or localized focal bony tenderness with periosteal reaction. Clinical observations record blood pressure 136/88 mm Hg, heart rate 115/min, respiratory rate 22/min, and ambient oxygen saturation 95%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Performing immediate diagnostic joint aspiration (arthrocentesis) for synovial fluid analysis followed by urgent surgical arthroscopic or open joint drainage and IV antibiotics.",
+        "explanation": "Septic arthritis is an orthopedic emergency; lysosomal enzymes released by dying polymorphonuclear leukocytes destroy articular hyaline cartilage within 24 to 48 hours if not evacuated.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Septic arthritis is an orthopedic emergency; lysosomal enzymes released by dying polymorphonuclear leukocytes destroy articular hyaline cartilage within 24 to 48 hours if not evacuated. In the clinical evaluation of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Emergency arthrocentesis before antibiotics and urgent surgical joint washout.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Emergency arthrocentesis before antibiotics and urgent surgical joint washout."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1294",
+    "exam": "Step 3",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Monitoring ESR and CRP trajectory to assess treatment response and oral switch",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old woman presents to the tertiary trauma and critical care unit with clinical findings indicative of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis. Bedside physical examination confirms acute monoarticular joint erythema, severe swelling, inability to bear weight, refusal to move limb (pseudoparalysis), fever, synovial fluid WBC > 50,000/mcL with > 75-90% PMNs, or localized focal bony tenderness with periosteal reaction. Clinical observations record blood pressure 138/68 mm Hg, heart rate 74/min, respiratory rate 23/min, and ambient oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Serial measurement of C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR), switching to high-bioavailability oral antibiotics once afebrile and CRP declines by > 50%.",
+        "explanation": "CRP rises within 6-8 hours of infection and falls rapidly (half-life 19 hours) upon effective source control; ESR responds much more slowly and remains elevated for weeks.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "CRP rises within 6-8 hours of infection and falls rapidly (half-life 19 hours) upon effective source control; ESR responds much more slowly and remains elevated for weeks. In the clinical evaluation of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Monitoring ESR and CRP trajectory to assess treatment response and oral switch.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Monitoring ESR and CRP trajectory to assess treatment response and oral switch."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1295",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Kocher criteria for differentiating pediatric septic arthritis from transient sy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 41-year-old man who undergoes multidisciplinary diagnostic evaluation in the clinic due to suspected Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis. Clinical examination demonstrates acute monoarticular joint erythema, severe swelling, inability to bear weight, refusal to move limb (pseudoparalysis), fever, synovial fluid WBC > 50,000/mcL with > 75-90% PMNs, or localized focal bony tenderness with periosteal reaction. Clinical observations record blood pressure 140/72 mm Hg, heart rate 77/min, respiratory rate 24/min, and ambient oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Evaluating the four Kocher criteria: inability to bear weight, fever > 38.5 C, ESR > 40 mm/hr, and peripheral WBC > 12,000/mcL (4/4 positive yields 99% probability of septic arthritis).",
+        "explanation": "Kocher criteria differentiate benign, self-limiting transient synovitis (irritable hip) from life-threatening bacterial septic arthritis requiring emergency surgical arthrotomy.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Kocher criteria differentiate benign, self-limiting transient synovitis (irritable hip) from life-threatening bacterial septic arthritis requiring emergency surgical arthrotomy. In the clinical evaluation of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Kocher criteria for differentiating pediatric septic arthritis from transient sy.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Kocher criteria for differentiating pediatric septic arthritis from transient sy."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1296",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Synovial fluid analysis: WBC count, polymorphonuclear percentage, and Gram stain",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 46-year-old woman presenting with acute functional symptoms is brought by paramedic transfer to the emergency department requiring evaluation for Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis. Physical assessment reveals acute monoarticular joint erythema, severe swelling, inability to bear weight, refusal to move limb (pseudoparalysis), fever, synovial fluid WBC > 50,000/mcL with > 75-90% PMNs, or localized focal bony tenderness with periosteal reaction. Clinical observations record blood pressure 142/76 mm Hg, heart rate 80/min, respiratory rate 25/min, and ambient oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Synovial fluid leukocyte count > 50,000/mcL (> 50 x 10^9/L) with > 85-90% neutrophils, low synovial glucose, and positive Gram stain establishing acute bacterial arthritis.",
+        "explanation": "Normal synovial fluid has WBC < 200/mcL; inflammatory arthritis (gout, RA) yields 2,000-50,000/mcL, while purulent bacterial joint infection characteristically exceeds 50,000-100,000/mcL.",
+        "correct": true
+      }
+    ],
+    "explanation": "Normal synovial fluid has WBC < 200/mcL; inflammatory arthritis (gout, RA) yields 2,000-50,000/mcL, while purulent bacterial joint infection characteristically exceeds 50,000-100,000/mcL. In the clinical evaluation of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Synovial fluid analysis: WBC count, polymorphonuclear percentage, and Gram stain.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Synovial fluid analysis: WBC count, polymorphonuclear percentage, and Gram stain."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1297",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Microbiology of osteomyelitis in sickle cell disease: Salmonella vs S. aureus",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 51-year-old man who attends the scheduled hospital outpatient review with prominent manifestations of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis. Bedside evaluation demonstrates acute monoarticular joint erythema, severe swelling, inability to bear weight, refusal to move limb (pseudoparalysis), fever, synovial fluid WBC > 50,000/mcL with > 75-90% PMNs, or localized focal bony tenderness with periosteal reaction. Clinical observations record blood pressure 144/80 mm Hg, heart rate 83/min, respiratory rate 15/min, and ambient oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing Salmonella species as a uniquely prevalent cause of osteomyelitis in sickle cell disease (alongside Staphylococcus aureus), treating with third-generation cephalosporins.",
+        "explanation": "Sickle cell patients experience microvascular bowel infarction allowing Salmonella translocation, coupled with functional hyposplenism and expanded avascular bone marrow.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Sickle cell patients experience microvascular bowel infarction allowing Salmonella translocation, coupled with functional hyposplenism and expanded avascular bone marrow. In the clinical evaluation of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Microbiology of osteomyelitis in sickle cell disease: Salmonella vs S. aureus.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Microbiology of osteomyelitis in sickle cell disease: Salmonella vs S. aureus."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1298",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Chronic osteomyelitis pathology: Sequestrum, Involucrum, and Cloaca",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old woman with recent symptom exacerbation is evaluated in the acute surgical assessment unit for urgent clarification of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis. Clinical examination highlights acute monoarticular joint erythema, severe swelling, inability to bear weight, refusal to move limb (pseudoparalysis), fever, synovial fluid WBC > 50,000/mcL with > 75-90% PMNs, or localized focal bony tenderness with periosteal reaction. Clinical observations record blood pressure 146/84 mm Hg, heart rate 86/min, respiratory rate 16/min, and ambient oxygen saturation 94%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Surgical debridement of necrotic devitalized bone (sequestrum) surrounded by a sheath of new reactive periosteal bone (involucrum) with draining cortical sinus tracts (cloaca).",
+        "explanation": "Avascular sequestra harbor bacteria in sessile biofilms protected from systemic antibiotics; definitive cure requires surgical sequestrectomy, saucerization, and dead-space management.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Avascular sequestra harbor bacteria in sessile biofilms protected from systemic antibiotics; definitive cure requires surgical sequestrectomy, saucerization, and dead-space management. In the clinical evaluation of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Chronic osteomyelitis pathology: Sequestrum, Involucrum, and Cloaca.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Chronic osteomyelitis pathology: Sequestrum, Involucrum, and Cloaca."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1299",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Commonest causative organisms across patient populations",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 61-year-old man undergoes urgent bedside assessment in the medical ward with clinical findings indicative of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis. Bedside physical examination confirms acute monoarticular joint erythema, severe swelling, inability to bear weight, refusal to move limb (pseudoparalysis), fever, synovial fluid WBC > 50,000/mcL with > 75-90% PMNs, or localized focal bony tenderness with periosteal reaction. Clinical observations record blood pressure 148/88 mm Hg, heart rate 89/min, respiratory rate 17/min, and ambient oxygen saturation 95%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Staphylococcus aureus overall; Group B Streptococcus in neonates; Neisseria gonorrhoeae in sexually active young adults; Pseudomonas aeruginosa in puncture wounds through sneakers.",
+        "explanation": "Disseminated gonococcal infection presents as migratory polyarthralgias, tenosynovitis, and vesiculopustular skin lesions, or purulent monoarthritis.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Disseminated gonococcal infection presents as migratory polyarthralgias, tenosynovitis, and vesiculopustular skin lesions, or purulent monoarthritis. In the clinical evaluation of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Commonest causative organisms across patient populations.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Commonest causative organisms across patient populations."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1300",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Musculoskeletal",
+    "topic": "Brodie abscess radiology and Marjolin ulcer in long-standing discharging sinus",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 66-year-old woman who presents to the acute subspecialty assessment center due to suspected Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis. Clinical examination demonstrates acute monoarticular joint erythema, severe swelling, inability to bear weight, refusal to move limb (pseudoparalysis), fever, synovial fluid WBC > 50,000/mcL with > 75-90% PMNs, or localized focal bony tenderness with periosteal reaction. Clinical observations record blood pressure 150/68 mm Hg, heart rate 92/min, respiratory rate 18/min, and ambient oxygen saturation 96%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Brodie abscess presenting as a well-circumscribed lytic radiolucency with a sclerotic rim in the metaphysis, and squamous cell carcinoma (Marjolin ulcer) arising in chronic sinus tracts.",
+        "explanation": "Brodie abscess represents subacute hematogenous pyogenic osteomyelitis; chronic discharging osteomyelitic sinus tracts carry an elevated risk of malignant transformation into squamous carcinoma.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "Brodie abscess represents subacute hematogenous pyogenic osteomyelitis; chronic discharging osteomyelitic sinus tracts carry an elevated risk of malignant transformation into squamous carcinoma. In the clinical evaluation of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Brodie abscess radiology and Marjolin ulcer in long-standing discharging sinus.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Brodie abscess radiology and Marjolin ulcer in long-standing discharging sinus."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1301",
+    "exam": "MRCP",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Vertebral osteomyelitis and discitis: lumbar spine predilection and MRI findings",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 71-year-old man presenting with acute functional symptoms is evaluated during urgent inpatient consultation requiring evaluation for Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis. Physical assessment reveals acute monoarticular joint erythema, severe swelling, inability to bear weight, refusal to move limb (pseudoparalysis), fever, synovial fluid WBC > 50,000/mcL with > 75-90% PMNs, or localized focal bony tenderness with periosteal reaction. Clinical observations record blood pressure 108/72 mm Hg, heart rate 95/min, respiratory rate 19/min, and ambient oxygen saturation 97%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Contrast-enhanced MRI demonstrating loss of intervertebral disc height, T1 hypointensity, T2 hyperintensity, and enhancement across two contiguous vertebrae and the intervening disc.",
+        "explanation": "Unlike spinal metastatic carcinoma which typically spares the intervertebral disc, hematogenous pyogenic discitis/osteomyelitis directly destroys the avascular disc space and adjacent endplates.",
+        "correct": true
+      }
+    ],
+    "explanation": "Unlike spinal metastatic carcinoma which typically spares the intervertebral disc, hematogenous pyogenic discitis/osteomyelitis directly destroys the avascular disc space and adjacent endplates. In the clinical evaluation of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Vertebral osteomyelitis and discitis: lumbar spine predilection and MRI findings.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Vertebral osteomyelitis and discitis: lumbar spine predilection and MRI findings."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1302",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Emergency ultrasound in pediatric hip pain: effusion detection",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 76-year-old woman who attends the specialized ambulatory medical clinic with prominent manifestations of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis. Bedside evaluation demonstrates acute monoarticular joint erythema, severe swelling, inability to bear weight, refusal to move limb (pseudoparalysis), fever, synovial fluid WBC > 50,000/mcL with > 75-90% PMNs, or localized focal bony tenderness with periosteal reaction. Clinical observations record blood pressure 110/76 mm Hg, heart rate 98/min, respiratory rate 20/min, and ambient oxygen saturation 98%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Bedside point-of-care hip ultrasound measuring capsular distension (> 2 mm asymmetry between hips or anterior joint capsule distance > 5 mm) indicating joint effusion.",
+        "explanation": "Ultrasound is the most sensitive non-invasive modality for detecting hip joint effusions in children; visual confirmation guides ultrasound-guided needle aspiration.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "Ultrasound is the most sensitive non-invasive modality for detecting hip joint effusions in children; visual confirmation guides ultrasound-guided needle aspiration. In the clinical evaluation of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Emergency ultrasound in pediatric hip pain: effusion detection.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Emergency ultrasound in pediatric hip pain: effusion detection."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1303",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Empiric antibiotic regimens for pediatric vs adult septic arthritis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 23-year-old man with recent symptom exacerbation is urgently admitted to the emergency observation suite for urgent clarification of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis. Clinical examination highlights acute monoarticular joint erythema, severe swelling, inability to bear weight, refusal to move limb (pseudoparalysis), fever, synovial fluid WBC > 50,000/mcL with > 75-90% PMNs, or localized focal bony tenderness with periosteal reaction. Clinical observations record blood pressure 112/80 mm Hg, heart rate 101/min, respiratory rate 21/min, and ambient oxygen saturation 99%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous cefazolin or vancomycin (if MRSA suspected) for adults, and cefazolin plus ceftriaxone for neonates and infants under 3 months to cover Gram-negative enteric rods.",
+        "explanation": "Antimicrobial selection must cover Staphylococcus aureus in all age groups, with additional coverage for Kingella kingae in young toddlers and Gram-negatives in neonates.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Antimicrobial selection must cover Staphylococcus aureus in all age groups, with additional coverage for Kingella kingae in young toddlers and Gram-negatives in neonates. In the clinical evaluation of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Empiric antibiotic regimens for pediatric vs adult septic arthritis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Empiric antibiotic regimens for pediatric vs adult septic arthritis."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1304",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Prosthetic joint infection (PJI) diagnostic criteria and biofilm management",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 28-year-old woman presents to the tertiary trauma and critical care unit with clinical findings indicative of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis. Bedside physical examination confirms acute monoarticular joint erythema, severe swelling, inability to bear weight, refusal to move limb (pseudoparalysis), fever, synovial fluid WBC > 50,000/mcL with > 75-90% PMNs, or localized focal bony tenderness with periosteal reaction. Clinical observations record blood pressure 114/84 mm Hg, heart rate 104/min, respiratory rate 22/min, and ambient oxygen saturation 94%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Synovial fluid aspiration with alpha-defensin biomarker assay, treating with two-stage exchange arthroplasty with antibiotic-impregnated cement spacers for late chronic infections.",
+        "explanation": "Biofilms formed on metallic hardware by coagulase-negative staphylococci resist antibiotic penetration; mature infections (> 4 weeks) mandate complete hardware removal for eradication.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Biofilms formed on metallic hardware by coagulase-negative staphylococci resist antibiotic penetration; mature infections (> 4 weeks) mandate complete hardware removal for eradication. In the clinical evaluation of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Prosthetic joint infection (PJI) diagnostic criteria and biofilm management.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Prosthetic joint infection (PJI) diagnostic criteria and biofilm management."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1305",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Radiological changes of acute osteomyelitis over time",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is performed for a 33-year-old man who undergoes multidisciplinary diagnostic evaluation in the clinic due to suspected Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis. Clinical examination demonstrates acute monoarticular joint erythema, severe swelling, inability to bear weight, refusal to move limb (pseudoparalysis), fever, synovial fluid WBC > 50,000/mcL with > 75-90% PMNs, or localized focal bony tenderness with periosteal reaction. Clinical observations record blood pressure 116/88 mm Hg, heart rate 107/min, respiratory rate 23/min, and ambient oxygen saturation 95%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Normal plain radiographs during the first 10 to 14 days, followed by soft tissue swelling, focal osteopenia, periosteal reaction (elevation), and cortical bone destruction.",
+        "explanation": "Plain X-rays require at least 30-50% bone mineral loss before lytic lesions appear; early negative radiographs do not exclude acute osteomyelitis, requiring MRI for confirmation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Plain X-rays require at least 30-50% bone mineral loss before lytic lesions appear; early negative radiographs do not exclude acute osteomyelitis, requiring MRI for confirmation. In the clinical evaluation of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Radiological changes of acute osteomyelitis over time.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute and Chronic osteomyelitis, Brodie abscess, and Septic arthritis concerning Radiological changes of acute osteomyelitis over time."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1306",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Anatomy of ACL attachments and the 'Unhappy Triad' of O'Donoghue",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 43-year-old man undergoes multidisciplinary diagnostic evaluation in the clinic with clinical findings indicative of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears. Bedside physical examination confirms audible 'pop' during non-contact deceleration or twisting injury, rapid gross hemarthrosis within 1-2 hours, positive Lachman test, joint-line tenderness, knee locking, and positive McMurray test. Clinical observations record blood pressure 139/87 mm Hg, heart rate 74/min, respiratory rate 23/min, and ambient oxygen saturation 97%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "ACL originating from the posterior lateral femoral condyle inserting on the anterior intercondylar tibia; Unhappy Triad classically involving ACL, MCL, and medial (or lateral in acute) meniscus.",
+        "explanation": "The anterior cruciate ligament prevents anterior translation of the tibia relative to the femur; lateral blow to the knee with external rotation produces the classic multi-ligament triad injury.",
+        "correct": true
+      }
+    ],
+    "explanation": "The anterior cruciate ligament prevents anterior translation of the tibia relative to the femur; lateral blow to the knee with external rotation produces the classic multi-ligament triad injury. In the clinical evaluation of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Anatomy of ACL attachments and the 'Unhappy Triad' of O'Donoghue.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Anatomy of ACL attachments and the 'Unhappy Triad' of O'Donoghue."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1307",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Lachman test as the most sensitive clinical examination and diagnostic knee MRI",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 48-year-old woman who is brought by paramedic transfer to the emergency department due to suspected Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears. Clinical examination demonstrates audible 'pop' during non-contact deceleration or twisting injury, rapid gross hemarthrosis within 1-2 hours, positive Lachman test, joint-line tenderness, knee locking, and positive McMurray test. Clinical observations record blood pressure 141/67 mm Hg, heart rate 77/min, respiratory rate 24/min, and ambient oxygen saturation 98%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Performing the Lachman test (at 20-30 degrees knee flexion) as the most sensitive physical examination for ACL tear, followed by non-contrast MRI of the knee to assess concurrent chondral/meniscal injury.",
+        "explanation": "The Lachman test has superior sensitivity (85-95%) compared to the anterior drawer test because hamstring spasm and posterior meniscal wedge effect do not impede tibial translation at 20 degrees.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "The Lachman test has superior sensitivity (85-95%) compared to the anterior drawer test because hamstring spasm and posterior meniscal wedge effect do not impede tibial translation at 20 degrees. In the clinical evaluation of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Lachman test as the most sensitive clinical examination and diagnostic knee MRI.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Lachman test as the most sensitive clinical examination and diagnostic knee MRI."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1308",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Conservative pre-habilitation vs surgical ACL reconstruction with autografts",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old man presenting with acute functional symptoms attends the scheduled hospital outpatient review requiring evaluation for Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears. Physical assessment reveals audible 'pop' during non-contact deceleration or twisting injury, rapid gross hemarthrosis within 1-2 hours, positive Lachman test, joint-line tenderness, knee locking, and positive McMurray test. Clinical observations record blood pressure 143/71 mm Hg, heart rate 80/min, respiratory rate 25/min, and ambient oxygen saturation 99%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Initial reduction of effusion, restoring full range of motion with intensive physical therapy, followed by arthroscopic ACL reconstruction using bone-patellar tendon-bone or hamstring tendon autograft.",
+        "explanation": "Performing early ACL reconstruction on a stiff, swollen knee dramatically increases the risk of postoperative arthrofibrosis (cyclops lesion); pre-habilitation restores knee range of motion.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Performing early ACL reconstruction on a stiff, swollen knee dramatically increases the risk of postoperative arthrofibrosis (cyclops lesion); pre-habilitation restores knee range of motion. In the clinical evaluation of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Conservative pre-habilitation vs surgical ACL reconstruction with autografts.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Conservative pre-habilitation vs surgical ACL reconstruction with autografts."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1309",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Ottawa Knee Rules for selective radiographic imaging in acute knee trauma",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 58-year-old woman who is evaluated in the acute surgical assessment unit with prominent manifestations of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears. Bedside evaluation demonstrates audible 'pop' during non-contact deceleration or twisting injury, rapid gross hemarthrosis within 1-2 hours, positive Lachman test, joint-line tenderness, knee locking, and positive McMurray test. Clinical observations record blood pressure 145/75 mm Hg, heart rate 83/min, respiratory rate 15/min, and ambient oxygen saturation 94%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Requesting knee radiographs only if: age >= 55, isolated patellar tenderness, fibular head tenderness, inability to flex knee to 90 degrees, or inability to bear weight for 4 steps.",
+        "explanation": "The Ottawa Knee Rules boast nearly 100% sensitivity for detecting clinically significant knee fractures, safely reducing unnecessary emergency department radiographs by over 25%.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "The Ottawa Knee Rules boast nearly 100% sensitivity for detecting clinically significant knee fractures, safely reducing unnecessary emergency department radiographs by over 25%. In the clinical evaluation of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Ottawa Knee Rules for selective radiographic imaging in acute knee trauma.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Ottawa Knee Rules for selective radiographic imaging in acute knee trauma."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1310",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Differentiating ACL hemarthrosis from meniscal injury by timing of joint effusio",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old man with recent symptom exacerbation undergoes urgent bedside assessment in the medical ward for urgent clarification of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears. Clinical examination highlights audible 'pop' during non-contact deceleration or twisting injury, rapid gross hemarthrosis within 1-2 hours, positive Lachman test, joint-line tenderness, knee locking, and positive McMurray test. Clinical observations record blood pressure 147/79 mm Hg, heart rate 86/min, respiratory rate 16/min, and ambient oxygen saturation 95%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Recognizing that ACL tears cause rapid tense hemarthrosis within 1 to 2 hours (due to middle genicular artery rupture), whereas isolated meniscal tears produce insidious swelling over 24 hours.",
+        "explanation": "Tense hemarthrosis developing within hours of a twisting knee injury has a >70% positive predictive value for acute ACL tear or patellar dislocation.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "Tense hemarthrosis developing within hours of a twisting knee injury has a >70% positive predictive value for acute ACL tear or patellar dislocation. In the clinical evaluation of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Differentiating ACL hemarthrosis from meniscal injury by timing of joint effusio.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Differentiating ACL hemarthrosis from meniscal injury by timing of joint effusio."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1311",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Physical examination maneuvers for meniscal tears: McMurray and Thessaly tests",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 68-year-old woman presents to the acute subspecialty assessment center with clinical findings indicative of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears. Bedside physical examination confirms audible 'pop' during non-contact deceleration or twisting injury, rapid gross hemarthrosis within 1-2 hours, positive Lachman test, joint-line tenderness, knee locking, and positive McMurray test. Clinical observations record blood pressure 149/83 mm Hg, heart rate 89/min, respiratory rate 17/min, and ambient oxygen saturation 96%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Joint-line tenderness, Thessaly test (dynamic rotation at 20 degrees flexion), and McMurray test demonstrating a palpable or audible click with pain during knee extension and rotation.",
+        "explanation": "Joint-line tenderness is the most sensitive physical sign for meniscal tears; the Thessaly test reproduces dynamic shear stress across the fibrocartilaginous meniscus.",
+        "correct": true
+      }
+    ],
+    "explanation": "Joint-line tenderness is the most sensitive physical sign for meniscal tears; the Thessaly test reproduces dynamic shear stress across the fibrocartilaginous meniscus. In the clinical evaluation of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Physical examination maneuvers for meniscal tears: McMurray and Thessaly tests.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Physical examination maneuvers for meniscal tears: McMurray and Thessaly tests."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1312",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Surgical management of bucket-handle meniscal tears: repair vs partial meniscect",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 73-year-old man who is evaluated during urgent inpatient consultation due to suspected Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears. Clinical examination demonstrates audible 'pop' during non-contact deceleration or twisting injury, rapid gross hemarthrosis within 1-2 hours, positive Lachman test, joint-line tenderness, knee locking, and positive McMurray test. Clinical observations record blood pressure 151/87 mm Hg, heart rate 92/min, respiratory rate 18/min, and ambient oxygen saturation 97%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Arthroscopic meniscal repair using inside-out or all-inside suture techniques for tears in the vascular peripheral 'red-red' zone, preserving meniscal shock absorption.",
+        "explanation": "The peripheral third of the meniscus has rich microvascular supply (red-red zone) with high healing capacity; central avascular (white-white) tears lack blood supply and require partial excision.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "The peripheral third of the meniscus has rich microvascular supply (red-red zone) with high healing capacity; central avascular (white-white) tears lack blood supply and require partial excision. In the clinical evaluation of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Surgical management of bucket-handle meniscal tears: repair vs partial meniscect.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Surgical management of bucket-handle meniscal tears: repair vs partial meniscect."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1313",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Physical examination of collateral ligaments: Varus and Valgus stress testing",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 20-year-old woman presenting with acute functional symptoms attends the specialized ambulatory medical clinic requiring evaluation for Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears. Physical assessment reveals audible 'pop' during non-contact deceleration or twisting injury, rapid gross hemarthrosis within 1-2 hours, positive Lachman test, joint-line tenderness, knee locking, and positive McMurray test. Clinical observations record blood pressure 109/67 mm Hg, heart rate 95/min, respiratory rate 19/min, and ambient oxygen saturation 98%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Valgus stress testing at 30 degrees knee flexion isolating the medial collateral ligament (MCL), and Varus stress testing isolating the lateral collateral ligament (LCL).",
+        "explanation": "Testing collateral ligaments at 30 degrees of flexion unlocks the posterior capsule and cruciate ligaments, allowing isolated evaluation of collateral ligament laxity.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Testing collateral ligaments at 30 degrees of flexion unlocks the posterior capsule and cruciate ligaments, allowing isolated evaluation of collateral ligament laxity. In the clinical evaluation of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Physical examination of collateral ligaments: Varus and Valgus stress testing.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Physical examination of collateral ligaments: Varus and Valgus stress testing."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1314",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Segond fracture on plain radiography as pathognomonic marker of ACL tear",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 25-year-old man who is urgently admitted to the emergency observation suite with prominent manifestations of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears. Bedside evaluation demonstrates audible 'pop' during non-contact deceleration or twisting injury, rapid gross hemarthrosis within 1-2 hours, positive Lachman test, joint-line tenderness, knee locking, and positive McMurray test. Clinical observations record blood pressure 111/71 mm Hg, heart rate 98/min, respiratory rate 20/min, and ambient oxygen saturation 99%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Avulsion fracture of the lateral tibial plateau (Segond fracture) at the site of insertion of the anterolateral ligament, highly pathognomonic for concurrent complete ACL tear.",
+        "explanation": "Segond fracture results from excessive internal rotation and varus stress; its presence on an anteroposterior knee radiograph is associated with ACL rupture in >90% of cases.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Segond fracture results from excessive internal rotation and varus stress; its presence on an anteroposterior knee radiograph is associated with ACL rupture in >90% of cases. In the clinical evaluation of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Segond fracture on plain radiography as pathognomonic marker of ACL tear.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Segond fracture on plain radiography as pathognomonic marker of ACL tear."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1315",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Posterior cruciate ligament (PCL) injury mechanisms: dashboard injury and poster",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 30-year-old woman with recent symptom exacerbation presents to the tertiary trauma and critical care unit for urgent clarification of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears. Clinical examination highlights audible 'pop' during non-contact deceleration or twisting injury, rapid gross hemarthrosis within 1-2 hours, positive Lachman test, joint-line tenderness, knee locking, and positive McMurray test. Clinical observations record blood pressure 113/75 mm Hg, heart rate 101/min, respiratory rate 21/min, and ambient oxygen saturation 94%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Direct posterior force applied to the proximal tibia with the knee in 90 degrees flexion ('dashboard injury'), presenting with posterior sag sign and positive posterior drawer test.",
+        "explanation": "PCL tears are often clinically subtle without massive hemarthrosis; resting the knee at 90 degrees reveals posterior displacement (sag) of the tibial tuberosity compared to the femoral condyles.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "PCL tears are often clinically subtle without massive hemarthrosis; resting the knee at 90 degrees reveals posterior displacement (sag) of the tibial tuberosity compared to the femoral condyles. In the clinical evaluation of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Posterior cruciate ligament (PCL) injury mechanisms: dashboard injury and poster.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Posterior cruciate ligament (PCL) injury mechanisms: dashboard injury and poster."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1316",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Emergency joint aspiration (arthrocentesis) for tense traumatic knee hemarthrosi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 35-year-old man undergoes multidisciplinary diagnostic evaluation in the clinic with clinical findings indicative of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears. Bedside physical examination confirms audible 'pop' during non-contact deceleration or twisting injury, rapid gross hemarthrosis within 1-2 hours, positive Lachman test, joint-line tenderness, knee locking, and positive McMurray test. Clinical observations record blood pressure 115/79 mm Hg, heart rate 104/min, respiratory rate 22/min, and ambient oxygen saturation 95%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Performing diagnostic and therapeutic arthrocentesis under sterile technique to relieve painful intra-articular pressure and inspect for fat globules (lipohemarthrosis).",
+        "explanation": "Presence of floating fat droplets (lipohemarthrosis) in aspirated bloody joint fluid indicates marrow fat extrusion through an occult intra-articular fracture (e.g., tibial plateau or patella).",
+        "correct": true
+      }
+    ],
+    "explanation": "Presence of floating fat droplets (lipohemarthrosis) in aspirated bloody joint fluid indicates marrow fat extrusion through an occult intra-articular fracture (e.g., tibial plateau or patella). In the clinical evaluation of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Emergency joint aspiration (arthrocentesis) for tense traumatic knee hemarthrosi.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Emergency joint aspiration (arthrocentesis) for tense traumatic knee hemarthrosi."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1317",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Conservative non-operative management protocol for isolated Grade I and II MCL t",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 40-year-old woman who is brought by paramedic transfer to the emergency department due to suspected Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears. Clinical examination demonstrates audible 'pop' during non-contact deceleration or twisting injury, rapid gross hemarthrosis within 1-2 hours, positive Lachman test, joint-line tenderness, knee locking, and positive McMurray test. Clinical observations record blood pressure 117/83 mm Hg, heart rate 107/min, respiratory rate 23/min, and ambient oxygen saturation 96%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Hinged knee brace locked in extension for walking, early progressive functional range of motion, and physical therapy, avoiding surgical repair.",
+        "explanation": "The medial collateral ligament is extra-articular with excellent vascular supply; isolated Grade I and II sprains heal reliably without surgery within 4 to 6 weeks.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "The medial collateral ligament is extra-articular with excellent vascular supply; isolated Grade I and II sprains heal reliably without surgery within 4 to 6 weeks. In the clinical evaluation of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Conservative non-operative management protocol for isolated Grade I and II MCL t.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Conservative non-operative management protocol for isolated Grade I and II MCL t."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1318",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Return-to-sport criteria following ACL reconstruction and functional testing",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old man presenting with acute functional symptoms attends the scheduled hospital outpatient review requiring evaluation for Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears. Physical assessment reveals audible 'pop' during non-contact deceleration or twisting injury, rapid gross hemarthrosis within 1-2 hours, positive Lachman test, joint-line tenderness, knee locking, and positive McMurray test. Clinical observations record blood pressure 119/87 mm Hg, heart rate 110/min, respiratory rate 24/min, and ambient oxygen saturation 97%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Minimum 9 to 12 months post-reconstruction, complete restoration of quadriceps/hamstring strength (> 90% limb symmetry index), and passing standardized hop test batteries.",
+        "explanation": "Premature return to cutting and pivoting sports before 9-12 months carries a high rate of graft re-rupture; objective biomechanical limb symmetry testing minimizes secondary injury.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Premature return to cutting and pivoting sports before 9-12 months carries a high rate of graft re-rupture; objective biomechanical limb symmetry testing minimizes secondary injury. In the clinical evaluation of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Return-to-sport criteria following ACL reconstruction and functional testing.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Return-to-sport criteria following ACL reconstruction and functional testing."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1319",
+    "exam": "UHS MBBS",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Fibrocartilaginous anatomy and vascular zones of the medial vs lateral meniscus",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is commenced for a 50-year-old woman who is evaluated in the acute surgical assessment unit with prominent manifestations of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears. Bedside evaluation demonstrates audible 'pop' during non-contact deceleration or twisting injury, rapid gross hemarthrosis within 1-2 hours, positive Lachman test, joint-line tenderness, knee locking, and positive McMurray test. Clinical observations record blood pressure 121/67 mm Hg, heart rate 113/min, respiratory rate 25/min, and ambient oxygen saturation 98%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Medial meniscus is C-shaped and firmly anchored to the deep MCL (making it less mobile and more prone to injury), while lateral meniscus is circular (O-shaped) and more mobile.",
+        "explanation": "Attachment of the medial meniscus to the medial collateral ligament limits its excursion during rotational stress, explaining why medial meniscal tears are significantly more common than lateral.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Attachment of the medial meniscus to the medial collateral ligament limits its excursion during rotational stress, explaining why medial meniscal tears are significantly more common than lateral. In the clinical evaluation of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Fibrocartilaginous anatomy and vascular zones of the medial vs lateral meniscus.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior cruciate ligament (ACL), Posterior cruciate (PCL), Medial collateral (MCL), and Meniscal tears concerning Fibrocartilaginous anatomy and vascular zones of the medial vs lateral meniscus."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1320",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Physeal zones of growth plate and anterior humeral line radiographic geometry",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 60-year-old woman presenting with acute functional symptoms is evaluated in the acute surgical assessment unit requiring evaluation for Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture. Physical assessment reveals acute elbow swelling following a fall on an outstretched hand (FOOSH), anterior humeral line missing the capitellum, posterior fat pad sign, absent radial pulse, and median/anterior interosseous nerve deficit. Clinical observations record blood pressure 144/66 mm Hg, heart rate 80/min, respiratory rate 25/min, and ambient oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "The hypertrophic zone of the physis is the mechanically weakest layer where Salter-Harris fractures propagate, and the anterior humeral line must bisect the middle third of the capitellum.",
+        "explanation": "In children, ligaments and joint capsules are stronger than the cartilaginous growth plate; mechanical trauma preferentially causes physeal fractures rather than ligamentous sprains.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "In children, ligaments and joint capsules are stronger than the cartilaginous growth plate; mechanical trauma preferentially causes physeal fractures rather than ligamentous sprains. In the clinical evaluation of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Physeal zones of growth plate and anterior humeral line radiographic geometry.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Physeal zones of growth plate and anterior humeral line radiographic geometry."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1321",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Emergency closed reduction and percutaneous K-wire pinning for displaced supraco",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 65-year-old man who undergoes urgent bedside assessment in the medical ward with prominent manifestations of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture. Bedside evaluation demonstrates acute elbow swelling following a fall on an outstretched hand (FOOSH), anterior humeral line missing the capitellum, posterior fat pad sign, absent radial pulse, and median/anterior interosseous nerve deficit. Clinical observations record blood pressure 146/70 mm Hg, heart rate 83/min, respiratory rate 15/min, and ambient oxygen saturation 95%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Immediate orthopedic consultation for urgent closed reduction and percutaneous Kirschner wire (K-wire) cross-pinning for Gartland type II and III displaced supracondylar fractures.",
+        "explanation": "Supracondylar humerus fractures are orthopedic emergencies in children due to close proximity to the brachial artery and median nerve; prompt pinning prevents neurovascular compromise and malunion.",
+        "correct": true
+      }
+    ],
+    "explanation": "Supracondylar humerus fractures are orthopedic emergencies in children due to close proximity to the brachial artery and median nerve; prompt pinning prevents neurovascular compromise and malunion. In the clinical evaluation of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Emergency closed reduction and percutaneous K-wire pinning for displaced supraco.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Emergency closed reduction and percutaneous K-wire pinning for displaced supraco."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1322",
+    "exam": "Step 3",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Monitoring for Volkmann ischemic contracture and brachial artery entrapment",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 70-year-old woman with recent symptom exacerbation presents to the acute subspecialty assessment center for urgent clarification of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture. Clinical examination highlights acute elbow swelling following a fall on an outstretched hand (FOOSH), anterior humeral line missing the capitellum, posterior fat pad sign, absent radial pulse, and median/anterior interosseous nerve deficit. Clinical observations record blood pressure 148/74 mm Hg, heart rate 86/min, respiratory rate 16/min, and ambient oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Serial neurovascular monitoring of radial pulse, capillary refill, and passive finger extension, proceeding to emergent surgical exploration if perfusion is absent after closed reduction.",
+        "explanation": "Ischemia of the deep flexor compartment of the forearm (flexor digitorum profundus and flexor pollicis longus) leads to irreversible fibroblastic muscle contracture and claw-hand deformity.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "Ischemia of the deep flexor compartment of the forearm (flexor digitorum profundus and flexor pollicis longus) leads to irreversible fibroblastic muscle contracture and claw-hand deformity. In the clinical evaluation of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Monitoring for Volkmann ischemic contracture and brachial artery entrapment.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Monitoring for Volkmann ischemic contracture and brachial artery entrapment."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1323",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Salter-Harris classification mnemonic: SALTR (Same, Above, Lower, Through, Ramme",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 75-year-old man is evaluated during urgent inpatient consultation with clinical findings indicative of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture. Bedside physical examination confirms acute elbow swelling following a fall on an outstretched hand (FOOSH), anterior humeral line missing the capitellum, posterior fat pad sign, absent radial pulse, and median/anterior interosseous nerve deficit. Clinical observations record blood pressure 150/78 mm Hg, heart rate 89/min, respiratory rate 17/min, and ambient oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Classifying physeal fractures: Type I (Straight across physis), Type II (Above physis into metaphysis), Type III (Lower into epiphysis), Type IV (Through all three), Type V (Rammed/crush).",
+        "explanation": "Salter-Harris Type II is the commonest pediatric growth plate fracture (features Thurston-Holland metaphyseal fragment); Types III, IV, and V involve the articular surface and risk growth arrest.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Salter-Harris Type II is the commonest pediatric growth plate fracture (features Thurston-Holland metaphyseal fragment); Types III, IV, and V involve the articular surface and risk growth arrest. In the clinical evaluation of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Salter-Harris classification mnemonic: SALTR (Same, Above, Lower, Through, Ramme.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Salter-Harris classification mnemonic: SALTR (Same, Above, Lower, Through, Ramme."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1324",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Recognition of Anterior Interosseous Nerve (AIN) neuropraxia: 'OK' sign test",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 22-year-old woman who attends the specialized ambulatory medical clinic due to suspected Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture. Clinical examination demonstrates acute elbow swelling following a fall on an outstretched hand (FOOSH), anterior humeral line missing the capitellum, posterior fat pad sign, absent radial pulse, and median/anterior interosseous nerve deficit. Clinical observations record blood pressure 108/82 mm Hg, heart rate 92/min, respiratory rate 18/min, and ambient oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Testing the anterior interosseous nerve (motor branch of median nerve) by asking the child to make an 'OK' sign (pincer grasp of index finger and thumb flexors).",
+        "explanation": "AIN neuropraxia prevents distal flexion of the thumb (FPL) and index finger (FDP), producing a flat pad-to-pad pinch rather than a circular tip-to-tip 'OK' gesture.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "AIN neuropraxia prevents distal flexion of the thumb (FPL) and index finger (FDP), producing a flat pad-to-pad pinch rather than a circular tip-to-tip 'OK' gesture. In the clinical evaluation of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Recognition of Anterior Interosseous Nerve (AIN) neuropraxia: 'OK' sign test.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Recognition of Anterior Interosseous Nerve (AIN) neuropraxia: 'OK' sign test."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1325",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Radiological identification of the posterior fat pad sign (sail sign)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old man presenting with acute functional symptoms is urgently admitted to the emergency observation suite requiring evaluation for Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture. Physical assessment reveals acute elbow swelling following a fall on an outstretched hand (FOOSH), anterior humeral line missing the capitellum, posterior fat pad sign, absent radial pulse, and median/anterior interosseous nerve deficit. Clinical observations record blood pressure 110/86 mm Hg, heart rate 95/min, respiratory rate 19/min, and ambient oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Visualizing a radiolucent triangular lucency anteriorly ('sail sign') and any visualization of a posterior fat pad on lateral elbow radiograph indicating occult intra-articular fracture.",
+        "explanation": "The posterior fat pad is normally hidden inside the deep olecranon fossa; an intra-articular fracture hemarthrosis distends the joint capsule, displacing the posterior fat pad into view.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "The posterior fat pad is normally hidden inside the deep olecranon fossa; an intra-articular fracture hemarthrosis distends the joint capsule, displacing the posterior fat pad into view. In the clinical evaluation of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Radiological identification of the posterior fat pad sign (sail sign).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Radiological identification of the posterior fat pad sign (sail sign)."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1326",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Cubitus varus (Gunstock deformity) pathophysiology and lateral closing-wedge ost",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 32-year-old woman who presents to the tertiary trauma and critical care unit with prominent manifestations of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture. Bedside evaluation demonstrates acute elbow swelling following a fall on an outstretched hand (FOOSH), anterior humeral line missing the capitellum, posterior fat pad sign, absent radial pulse, and median/anterior interosseous nerve deficit. Clinical observations record blood pressure 112/66 mm Hg, heart rate 98/min, respiratory rate 20/min, and ambient oxygen saturation 94%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Malunion of supracondylar fractures resulting from medial collapse and internal rotation tilt producing cubitus varus, corrected with lateral closing-wedge humeral osteotomy.",
+        "explanation": "Cubitus varus is a cosmetic deformity caused by imperfect reduction rather than physeal growth arrest, as the distal humeral physis contributes only 15-20% of longitudinal humeral growth.",
+        "correct": true
+      }
+    ],
+    "explanation": "Cubitus varus is a cosmetic deformity caused by imperfect reduction rather than physeal growth arrest, as the distal humeral physis contributes only 15-20% of longitudinal humeral growth. In the clinical evaluation of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Cubitus varus (Gunstock deformity) pathophysiology and lateral closing-wedge ost.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Cubitus varus (Gunstock deformity) pathophysiology and lateral closing-wedge ost."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1327",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Differentiating incomplete pediatric fractures: Torus (buckle), Greenstick, and ",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 37-year-old man with recent symptom exacerbation undergoes multidisciplinary diagnostic evaluation in the clinic for urgent clarification of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture. Clinical examination highlights acute elbow swelling following a fall on an outstretched hand (FOOSH), anterior humeral line missing the capitellum, posterior fat pad sign, absent radial pulse, and median/anterior interosseous nerve deficit. Clinical observations record blood pressure 114/70 mm Hg, heart rate 101/min, respiratory rate 21/min, and ambient oxygen saturation 95%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Torus fracture (cortical buckling due to axial compression) versus Greenstick fracture (incomplete fracture with cortical breach on tension side and intact plastic bend on compression side).",
+        "explanation": "Pediatric bone has high collagen content and thick, metabolically active periosteum, allowing plastic deformation and buckle fractures without complete cortical disruption.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "Pediatric bone has high collagen content and thick, metabolically active periosteum, allowing plastic deformation and buckle fractures without complete cortical disruption. In the clinical evaluation of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Differentiating incomplete pediatric fractures: Torus (buckle), Greenstick, and .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Differentiating incomplete pediatric fractures: Torus (buckle), Greenstick, and ."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1328",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "CRITOE mnemonic for ossification centers of the elbow in pediatric radiographs",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old woman is brought by paramedic transfer to the emergency department with clinical findings indicative of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture. Bedside physical examination confirms acute elbow swelling following a fall on an outstretched hand (FOOSH), anterior humeral line missing the capitellum, posterior fat pad sign, absent radial pulse, and median/anterior interosseous nerve deficit. Clinical observations record blood pressure 116/74 mm Hg, heart rate 104/min, respiratory rate 22/min, and ambient oxygen saturation 96%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Capitellum (1 yr), Radial head (3 yr), Internal/medial epicondyle (5 yr), Trochlea (7 yr), Olecranon (9 yr), External/lateral epicondyle (11 yr).",
+        "explanation": "Knowledge of ossification timing is critical for detecting avulsion fractures, particularly medial epicondyle avulsion which can be mistakenly interpreted as an un-united epiphysis.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Knowledge of ossification timing is critical for detecting avulsion fractures, particularly medial epicondyle avulsion which can be mistakenly interpreted as an un-united epiphysis. In the clinical evaluation of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning CRITOE mnemonic for ossification centers of the elbow in pediatric radiographs.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning CRITOE mnemonic for ossification centers of the elbow in pediatric radiographs."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1329",
+    "exam": "MRCP",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Nursemaid's elbow (subluxation of the radial head) and manual reduction techniqu",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 47-year-old man who attends the scheduled hospital outpatient review due to suspected Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture. Clinical examination demonstrates acute elbow swelling following a fall on an outstretched hand (FOOSH), anterior humeral line missing the capitellum, posterior fat pad sign, absent radial pulse, and median/anterior interosseous nerve deficit. Clinical observations record blood pressure 118/78 mm Hg, heart rate 107/min, respiratory rate 23/min, and ambient oxygen saturation 97%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Axial traction on an extended and pronated arm causing subluxation of the annular ligament into the radiohumeral joint, reduced by gentle supination and flexion with thumb pressure on the radial head.",
+        "explanation": "In toddlers under 4-5 years, the annular ligament is thin and pliable; a sudden pull on the wrist causes the ligament to slip over the cartilaginous radial head into the joint space.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In toddlers under 4-5 years, the annular ligament is thin and pliable; a sudden pull on the wrist causes the ligament to slip over the cartilaginous radial head into the joint space. In the clinical evaluation of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Nursemaid's elbow (subluxation of the radial head) and manual reduction techniqu.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Nursemaid's elbow (subluxation of the radial head) and manual reduction techniqu."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1330",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Management of the 'pink and pulseless' hand in supracondylar fracture",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 52-year-old woman presenting with acute functional symptoms is evaluated in the acute surgical assessment unit requiring evaluation for Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture. Physical assessment reveals acute elbow swelling following a fall on an outstretched hand (FOOSH), anterior humeral line missing the capitellum, posterior fat pad sign, absent radial pulse, and median/anterior interosseous nerve deficit. Clinical observations record blood pressure 120/82 mm Hg, heart rate 110/min, respiratory rate 24/min, and ambient oxygen saturation 98%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "If the radial pulse is absent but the hand is warm, pink, with capillary refill < 2 seconds, immediate gentle closed reduction is performed; if still pulseless after reduction, vascular exploration is indicated.",
+        "explanation": "Brachial artery spasm or kinking over the proximal fracture spike is common; anatomical closed reduction and stabilization frequently restores palpable radial pulses without open arteriotomy.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Brachial artery spasm or kinking over the proximal fracture spike is common; anatomical closed reduction and stabilization frequently restores palpable radial pulses without open arteriotomy. In the clinical evaluation of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Management of the 'pink and pulseless' hand in supracondylar fracture.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Management of the 'pink and pulseless' hand in supracondylar fracture."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1331",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Immobilization protocol for uncomplicated torus (buckle) fractures of the distal",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 57-year-old man who undergoes urgent bedside assessment in the medical ward with prominent manifestations of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture. Bedside evaluation demonstrates acute elbow swelling following a fall on an outstretched hand (FOOSH), anterior humeral line missing the capitellum, posterior fat pad sign, absent radial pulse, and median/anterior interosseous nerve deficit. Clinical observations record blood pressure 122/86 mm Hg, heart rate 113/min, respiratory rate 25/min, and ambient oxygen saturation 99%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Treating simple pediatric distal radial torus fractures with a removable volar splint or short arm cast for 3 weeks, without requiring routine repeat radiographs.",
+        "explanation": "Torus fractures are intrinsically stable compression injuries with zero risk of displacement; rigid prolonged immobilization is unnecessary and simple splinting provides excellent recovery.",
+        "correct": true
+      }
+    ],
+    "explanation": "Torus fractures are intrinsically stable compression injuries with zero risk of displacement; rigid prolonged immobilization is unnecessary and simple splinting provides excellent recovery. In the clinical evaluation of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Immobilization protocol for uncomplicated torus (buckle) fractures of the distal.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Immobilization protocol for uncomplicated torus (buckle) fractures of the distal."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1332",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Child abuse (non-accidental injury) skeletal survey: corner fractures and poster",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 62-year-old woman with recent symptom exacerbation presents to the acute subspecialty assessment center for urgent clarification of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture. Clinical examination highlights acute elbow swelling following a fall on an outstretched hand (FOOSH), anterior humeral line missing the capitellum, posterior fat pad sign, absent radial pulse, and median/anterior interosseous nerve deficit. Clinical observations record blood pressure 124/66 mm Hg, heart rate 72/min, respiratory rate 15/min, and ambient oxygen saturation 94%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Identifying metaphyseal corner fractures (bucket-handle fractures), posterior rib fractures, and multiple fractures of varying healing stages as high-specificity markers of physical abuse.",
+        "explanation": "Metaphyseal chip fractures result from sudden forceful pulling or twisting of limbs; their presence in non-ambulatory infants mandates immediate multidisciplinary safeguarding protection.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Metaphyseal chip fractures result from sudden forceful pulling or twisting of limbs; their presence in non-ambulatory infants mandates immediate multidisciplinary safeguarding protection. In the clinical evaluation of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Child abuse (non-accidental injury) skeletal survey: corner fractures and poster.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Child abuse (non-accidental injury) skeletal survey: corner fractures and poster."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1333",
+    "exam": "UHS MBBS",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Anatomy of the supracondylar region and relationship to the neurovascular bundle",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 67-year-old man is evaluated during urgent inpatient consultation with clinical findings indicative of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture. Bedside physical examination confirms acute elbow swelling following a fall on an outstretched hand (FOOSH), anterior humeral line missing the capitellum, posterior fat pad sign, absent radial pulse, and median/anterior interosseous nerve deficit. Clinical observations record blood pressure 126/70 mm Hg, heart rate 75/min, respiratory rate 16/min, and ambient oxygen saturation 95%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Thin bone between the coronoid fossa anteriorly and olecranon fossa posteriorly, with the brachial artery and median nerve passing anteriorly over the brachialis muscle.",
+        "explanation": "Posterior displacement of the distal fracture fragment causes the sharp proximal humeral spike to thrust anteriorly, directly lacerating or entrapping the adjacent brachial artery and median nerve.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Posterior displacement of the distal fracture fragment causes the sharp proximal humeral spike to thrust anteriorly, directly lacerating or entrapping the adjacent brachial artery and median nerve. In the clinical evaluation of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Anatomy of the supracondylar region and relationship to the neurovascular bundle.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Pediatric physeal fractures (Salter-Harris) and Supracondylar humerus fracture concerning Anatomy of the supracondylar region and relationship to the neurovascular bundle."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1334",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Anatomy of the glenohumeral labrum, SITS muscles, and axillary nerve course arou",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old man with recent symptom exacerbation is evaluated during urgent inpatient consultation for urgent clarification of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears. Clinical examination highlights flattening of the deltoid contour ('squared-off' shoulder), prominent acromion, arm held in slight abduction and external rotation, axillary nerve hypoesthesia over the regimental badge area, or painful arc with inability to abduct. Clinical observations record blood pressure 149/69 mm Hg, heart rate 86/min, respiratory rate 16/min, and ambient oxygen saturation 97%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Glenoid labrum deepening the shallow fossa, Supraspinatus/Infraspinatus/Teres minor/Subscapularis dynamic stabilization, and axillary nerve traversing the quadrangular space around the surgical neck.",
+        "explanation": "The axillary nerve winds intimately around the surgical neck of the humerus beneath the inferior glenohumeral joint capsule; anterior inferior dislocation directly stretches this nerve.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "The axillary nerve winds intimately around the surgical neck of the humerus beneath the inferior glenohumeral joint capsule; anterior inferior dislocation directly stretches this nerve. In the clinical evaluation of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Anatomy of the glenohumeral labrum, SITS muscles, and axillary nerve course arou.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Anatomy of the glenohumeral labrum, SITS muscles, and axillary nerve course arou."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1335",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Closed reduction techniques (Milch, Stimson, Cunningham) and post-reduction neur",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old woman attends the specialized ambulatory medical clinic with clinical findings indicative of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears. Bedside physical examination confirms flattening of the deltoid contour ('squared-off' shoulder), prominent acromion, arm held in slight abduction and external rotation, axillary nerve hypoesthesia over the regimental badge area, or painful arc with inability to abduct. Clinical observations record blood pressure 151/73 mm Hg, heart rate 89/min, respiratory rate 17/min, and ambient oxygen saturation 98%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Performing emergent closed reduction using gentle traction-countertraction or Cunningham/Milch maneuvers under procedural sedation, documenting pre- and post-reduction axillary nerve function.",
+        "explanation": "Prompt reduction minimizes articular cartilage compressive ischemia and neurovascular traction; testing cutaneous sensation over the lateral deltoid ('regimental badge area') verifies nerve integrity.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Prompt reduction minimizes articular cartilage compressive ischemia and neurovascular traction; testing cutaneous sensation over the lateral deltoid ('regimental badge area') verifies nerve integrity. In the clinical evaluation of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Closed reduction techniques (Milch, Stimson, Cunningham) and post-reduction neur.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Closed reduction techniques (Milch, Stimson, Cunningham) and post-reduction neur."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1336",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Recurrent shoulder instability: Bankart lesion, Hill-Sachs deformity, and Bristo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 29-year-old man who is urgently admitted to the emergency observation suite due to suspected Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears. Clinical examination demonstrates flattening of the deltoid contour ('squared-off' shoulder), prominent acromion, arm held in slight abduction and external rotation, axillary nerve hypoesthesia over the regimental badge area, or painful arc with inability to abduct. Clinical observations record blood pressure 109/77 mm Hg, heart rate 92/min, respiratory rate 18/min, and ambient oxygen saturation 99%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Investigating recurrent dislocations for anteroinferior labral tear (Bankart) and posterolateral humeral head compression fracture (Hill-Sachs), indicating Latarjet coracoid transfer for bony glenoid loss.",
+        "explanation": "Young active patients (< 20 years) have a >70-90% recurrence rate after initial dislocation; significant anterior glenoid bone loss (> 20-25%) mandates bone graft transfer (Latarjet procedure).",
+        "correct": true
+      }
+    ],
+    "explanation": "Young active patients (< 20 years) have a >70-90% recurrence rate after initial dislocation; significant anterior glenoid bone loss (> 20-25%) mandates bone graft transfer (Latarjet procedure). In the clinical evaluation of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Recurrent shoulder instability: Bankart lesion, Hill-Sachs deformity, and Bristo.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Recurrent shoulder instability: Bankart lesion, Hill-Sachs deformity, and Bristo."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1337",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Posterior shoulder dislocation after seizures or electrocution and lightbulb sig",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old woman presenting with acute functional symptoms presents to the tertiary trauma and critical care unit requiring evaluation for Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears. Physical assessment reveals flattening of the deltoid contour ('squared-off' shoulder), prominent acromion, arm held in slight abduction and external rotation, axillary nerve hypoesthesia over the regimental badge area, or painful arc with inability to abduct. Clinical observations record blood pressure 111/81 mm Hg, heart rate 95/min, respiratory rate 19/min, and ambient oxygen saturation 94%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing posterior dislocation following epileptic seizure or electrical shock, presenting with arm held in internal rotation and adduction with 'lightbulb sign' on AP radiograph.",
+        "explanation": "Simultaneous violent contraction of all shoulder musculature overcomes external rotators, forcing the humeral head posteriorly; missing posterior dislocations on standard AP radiographs is common without axillary/Y views.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "Simultaneous violent contraction of all shoulder musculature overcomes external rotators, forcing the humeral head posteriorly; missing posterior dislocations on standard AP radiographs is common without axillary/Y views. In the clinical evaluation of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Posterior shoulder dislocation after seizures or electrocution and lightbulb sig.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Posterior shoulder dislocation after seizures or electrocution and lightbulb sig."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1338",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Physical examination tests for rotator cuff integrity: Drop arm, Empty can, and ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 39-year-old man who undergoes multidisciplinary diagnostic evaluation in the clinic with prominent manifestations of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears. Bedside evaluation demonstrates flattening of the deltoid contour ('squared-off' shoulder), prominent acromion, arm held in slight abduction and external rotation, axillary nerve hypoesthesia over the regimental badge area, or painful arc with inability to abduct. Clinical observations record blood pressure 113/85 mm Hg, heart rate 98/min, respiratory rate 20/min, and ambient oxygen saturation 95%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Evaluating supraspinatus tear with the Empty Can (Jobe) test and Drop Arm test, infraspinatus with resisted external rotation, and subscapularis with the Lift-Off (Gerber) or Belly-Press test.",
+        "explanation": "Supraspinatus initiates the first 15 degrees of abduction and stabilizes the humeral head against the glenoid; full-thickness tears cause sudden drop of the arm when lowered past 90 degrees.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Supraspinatus initiates the first 15 degrees of abduction and stabilizes the humeral head against the glenoid; full-thickness tears cause sudden drop of the arm when lowered past 90 degrees. In the clinical evaluation of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Physical examination tests for rotator cuff integrity: Drop arm, Empty can, and .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Physical examination tests for rotator cuff integrity: Drop arm, Empty can, and ."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1339",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Subacromial impingement syndrome and Neer/Hawkins-Kennedy diagnostic tests",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old woman with recent symptom exacerbation is brought by paramedic transfer to the emergency department for urgent clarification of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears. Clinical examination highlights flattening of the deltoid contour ('squared-off' shoulder), prominent acromion, arm held in slight abduction and external rotation, axillary nerve hypoesthesia over the regimental badge area, or painful arc with inability to abduct. Clinical observations record blood pressure 115/89 mm Hg, heart rate 101/min, respiratory rate 21/min, and ambient oxygen saturation 96%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Painful arc between 60 and 120 degrees of active abduction, positive Neer impingement sign, and positive Hawkins-Kennedy test indicating subacromial bursitis and supraspinatus tendonitis.",
+        "explanation": "Repetitive overhead elevation compresses the supraspinatus tendon and subacromial bursa against the coracoacromial arch, causing chronic microvascular ischemic tendinopathy.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Repetitive overhead elevation compresses the supraspinatus tendon and subacromial bursa against the coracoacromial arch, causing chronic microvascular ischemic tendinopathy. In the clinical evaluation of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Subacromial impingement syndrome and Neer/Hawkins-Kennedy diagnostic tests.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Subacromial impingement syndrome and Neer/Hawkins-Kennedy diagnostic tests."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1340",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Arthroscopic Bankart repair vs open Latarjet coracoid transfer biomechanics",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man attends the scheduled hospital outpatient review with clinical findings indicative of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears. Bedside physical examination confirms flattening of the deltoid contour ('squared-off' shoulder), prominent acromion, arm held in slight abduction and external rotation, axillary nerve hypoesthesia over the regimental badge area, or painful arc with inability to abduct. Clinical observations record blood pressure 117/69 mm Hg, heart rate 104/min, respiratory rate 22/min, and ambient oxygen saturation 97%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Arthroscopic suture anchor labral refixation for isolated soft-tissue Bankart lesions, and coracoid osteotomy with conjoint tendon transfer through subscapularis (Latarjet) for critical glenoid bone loss.",
+        "explanation": "The Latarjet procedure provides a 'triple-blocking' effect: restoring glenoid bone surface, providing a dynamic conjoint tendon muscular sling in abduction/external rotation, and reinforcing the capsule.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "The Latarjet procedure provides a 'triple-blocking' effect: restoring glenoid bone surface, providing a dynamic conjoint tendon muscular sling in abduction/external rotation, and reinforcing the capsule. In the clinical evaluation of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Arthroscopic Bankart repair vs open Latarjet coracoid transfer biomechanics.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Arthroscopic Bankart repair vs open Latarjet coracoid transfer biomechanics."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1341",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Clinical presentation of anterior shoulder dislocation: 'squared-off' shoulder a",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is performed for a 54-year-old woman who is evaluated in the acute surgical assessment unit due to suspected Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears. Clinical examination demonstrates flattening of the deltoid contour ('squared-off' shoulder), prominent acromion, arm held in slight abduction and external rotation, axillary nerve hypoesthesia over the regimental badge area, or painful arc with inability to abduct. Clinical observations record blood pressure 119/73 mm Hg, heart rate 107/min, respiratory rate 23/min, and ambient oxygen saturation 98%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Loss of normal rounded lateral deltoid contour, prominent acromion process, palpable humeral head in the subcoracoid space, and inability to touch the opposite shoulder (Dugas sign).",
+        "explanation": "Anterior dislocation accounts for >95% of shoulder dislocations; the displaced humeral head rests anteriorly and inferiorly beneath the coracoid process.",
+        "correct": true
+      }
+    ],
+    "explanation": "Anterior dislocation accounts for >95% of shoulder dislocations; the displaced humeral head rests anteriorly and inferiorly beneath the coracoid process. In the clinical evaluation of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Clinical presentation of anterior shoulder dislocation: 'squared-off' shoulder a.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Clinical presentation of anterior shoulder dislocation: 'squared-off' shoulder a."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1342",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Trough line, rim sign, and reverse Hill-Sachs lesion in posterior shoulder dislo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man presenting with acute functional symptoms undergoes urgent bedside assessment in the medical ward requiring evaluation for Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears. Physical assessment reveals flattening of the deltoid contour ('squared-off' shoulder), prominent acromion, arm held in slight abduction and external rotation, axillary nerve hypoesthesia over the regimental badge area, or painful arc with inability to abduct. Clinical observations record blood pressure 121/77 mm Hg, heart rate 110/min, respiratory rate 24/min, and ambient oxygen saturation 99%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Anterior humeral head impaction fracture (reverse Hill-Sachs / McLaughlin lesion), vacant glenoid sign, and vertical trough line on anteroposterior radiograph in posterior dislocation.",
+        "explanation": "In posterior dislocation, the anterior aspect of the humeral head impacts against the posterior glenoid rim, producing an indentation fracture (McLaughlin lesion) that causes recurrent instability.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In posterior dislocation, the anterior aspect of the humeral head impacts against the posterior glenoid rim, producing an indentation fracture (McLaughlin lesion) that causes recurrent instability. In the clinical evaluation of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Trough line, rim sign, and reverse Hill-Sachs lesion in posterior shoulder dislo.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Trough line, rim sign, and reverse Hill-Sachs lesion in posterior shoulder dislo."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1343",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Adhesive capsulitis (Frozen shoulder) stages and association with diabetes and t",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 64-year-old woman who presents to the acute subspecialty assessment center with prominent manifestations of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears. Bedside evaluation demonstrates flattening of the deltoid contour ('squared-off' shoulder), prominent acromion, arm held in slight abduction and external rotation, axillary nerve hypoesthesia over the regimental badge area, or painful arc with inability to abduct. Clinical observations record blood pressure 123/81 mm Hg, heart rate 113/min, respiratory rate 25/min, and ambient oxygen saturation 94%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Progressive insidious loss of both active AND passive glenohumeral range of motion in all planes (especially external rotation), strongly associated with diabetes mellitus and hypothyroidism.",
+        "explanation": "Unlike rotator cuff tears where passive range of motion is fully preserved, adhesive capsulitis is characterized by dense fibrotic thickening and contracture of the joint capsule restricting passive movement.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Unlike rotator cuff tears where passive range of motion is fully preserved, adhesive capsulitis is characterized by dense fibrotic thickening and contracture of the joint capsule restricting passive movement. In the clinical evaluation of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Adhesive capsulitis (Frozen shoulder) stages and association with diabetes and t.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Adhesive capsulitis (Frozen shoulder) stages and association with diabetes and t."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1344",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Axillary view or scapular Y-view importance in verifying concentric glenohumeral",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man with recent symptom exacerbation is evaluated during urgent inpatient consultation for urgent clarification of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears. Clinical examination highlights flattening of the deltoid contour ('squared-off' shoulder), prominent acromion, arm held in slight abduction and external rotation, axillary nerve hypoesthesia over the regimental badge area, or painful arc with inability to abduct. Clinical observations record blood pressure 125/85 mm Hg, heart rate 72/min, respiratory rate 15/min, and ambient oxygen saturation 95%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Obtaining a true axillary or scapular Y-view radiograph pre- and post-reduction to definitively confirm that the humeral head is centered within the glenoid fossa.",
+        "explanation": "Standard anteroposterior radiographs can deceptively appear normal in posterior dislocation or subtle subluxation; orthogonal axillary or Velpeau views provide unequivocal anatomical orientation.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Standard anteroposterior radiographs can deceptively appear normal in posterior dislocation or subtle subluxation; orthogonal axillary or Velpeau views provide unequivocal anatomical orientation. In the clinical evaluation of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Axillary view or scapular Y-view importance in verifying concentric glenohumeral.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Axillary view or scapular Y-view importance in verifying concentric glenohumeral."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1345",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Conservative management and rehabilitation progression for partial rotator cuff ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old woman attends the specialized ambulatory medical clinic with clinical findings indicative of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears. Bedside physical examination confirms flattening of the deltoid contour ('squared-off' shoulder), prominent acromion, arm held in slight abduction and external rotation, axillary nerve hypoesthesia over the regimental badge area, or painful arc with inability to abduct. Clinical observations record blood pressure 127/89 mm Hg, heart rate 75/min, respiratory rate 16/min, and ambient oxygen saturation 96%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Subacromial corticosteroid injection for acute inflammation, followed by rotator cuff strengthening physical therapy and periscapular stabilization exercises.",
+        "explanation": "Non-operative therapy is successful in >75% of partial or atraumatic degenerative rotator cuff tears; surgery is indicated if pain and functional disability persist after 3 to 6 months.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Non-operative therapy is successful in >75% of partial or atraumatic degenerative rotator cuff tears; surgery is indicated if pain and functional disability persist after 3 to 6 months. In the clinical evaluation of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Conservative management and rehabilitation progression for partial rotator cuff .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Conservative management and rehabilitation progression for partial rotator cuff ."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1346",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Post-reduction immobilization: internal vs external rotation bracing debate",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 21-year-old man who is urgently admitted to the emergency observation suite due to suspected Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears. Clinical examination demonstrates flattening of the deltoid contour ('squared-off' shoulder), prominent acromion, arm held in slight abduction and external rotation, axillary nerve hypoesthesia over the regimental badge area, or painful arc with inability to abduct. Clinical observations record blood pressure 129/69 mm Hg, heart rate 78/min, respiratory rate 17/min, and ambient oxygen saturation 97%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Immobilizing in a standard sling for 1 to 2 weeks followed by guided physical therapy, avoiding prolonged rigid immobilization to prevent secondary joint stiffness.",
+        "explanation": "While external rotation bracing was historically hypothesized to improve labral coaptation, large randomized trials show equivalent recurrence rates to conventional comfortable sling wear.",
+        "correct": true
+      }
+    ],
+    "explanation": "While external rotation bracing was historically hypothesized to improve labral coaptation, large randomized trials show equivalent recurrence rates to conventional comfortable sling wear. In the clinical evaluation of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Post-reduction immobilization: internal vs external rotation bracing debate.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Post-reduction immobilization: internal vs external rotation bracing debate."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1347",
+    "exam": "UHS MBBS",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Shoulder joint stability factors: dynamic vs static stabilizers",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 26-year-old woman presenting with acute functional symptoms presents to the tertiary trauma and critical care unit requiring evaluation for Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears. Physical assessment reveals flattening of the deltoid contour ('squared-off' shoulder), prominent acromion, arm held in slight abduction and external rotation, axillary nerve hypoesthesia over the regimental badge area, or painful arc with inability to abduct. Clinical observations record blood pressure 131/73 mm Hg, heart rate 81/min, respiratory rate 18/min, and ambient oxygen saturation 98%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Static stabilizers (glenoid labrum, glenohumeral ligaments, joint capsule, negative intra-articular pressure) and dynamic stabilizers (rotator cuff muscles and long head of biceps).",
+        "explanation": "The glenohumeral joint trades structural stability for extreme multi-axial mobility, possessing the greatest range of motion of any joint in the human body, predisposing to recurrent dislocation.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "The glenohumeral joint trades structural stability for extreme multi-axial mobility, possessing the greatest range of motion of any joint in the human body, predisposing to recurrent dislocation. In the clinical evaluation of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Shoulder joint stability factors: dynamic vs static stabilizers.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Anterior and Posterior shoulder dislocation, Bankart/Hill-Sachs lesions, and Rotator cuff tears concerning Shoulder joint stability factors: dynamic vs static stabilizers."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1348",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Arterial blood supply to the femoral head and intracapsular vs extracapsular fra",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 36-year-old woman who presents to the tertiary trauma and critical care unit due to suspected Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN). Clinical examination demonstrates elderly patient after a fall presenting with a shortened and externally rotated lower extremity, inability to bear weight, severe groin/hip pain, and disruption of Shenton line on pelvic radiography. Clinical observations record blood pressure 110/72 mm Hg, heart rate 92/min, respiratory rate 18/min, and ambient oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Medial circumflex femoral artery giving off ascending retinacular branches supplying the femoral head, traversing intracapsularly beneath the periosteum of the femoral neck.",
+        "explanation": "Intracapsular femoral neck fractures shear the retinacular vessels of the medial circumflex femoral artery, predisposing to high rates of femoral head avascular necrosis and nonunion.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Intracapsular femoral neck fractures shear the retinacular vessels of the medial circumflex femoral artery, predisposing to high rates of femoral head avascular necrosis and nonunion. In the clinical evaluation of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Arterial blood supply to the femoral head and intracapsular vs extracapsular fra.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Arterial blood supply to the femoral head and intracapsular vs extracapsular fra."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1349",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Surgical strategy: hemiarthroplasty/total hip for displaced neck fractures vs ce",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old man presenting with acute functional symptoms undergoes multidisciplinary diagnostic evaluation in the clinic requiring evaluation for Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN). Physical assessment reveals elderly patient after a fall presenting with a shortened and externally rotated lower extremity, inability to bear weight, severe groin/hip pain, and disruption of Shenton line on pelvic radiography. Clinical observations record blood pressure 112/76 mm Hg, heart rate 95/min, respiratory rate 19/min, and ambient oxygen saturation 95%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Performing hemiarthroplasty or total hip arthroplasty for displaced intracapsular neck fractures in elderly patients, and sliding hip screw or cephalomedullary nail for extracapsular intertrochanteric fractures.",
+        "explanation": "Displaced intracapsular fractures have poor healing potential; replacing the femoral head prevents nonunion and AVN, while extracapsular intertrochanteric fractures have rich blood supply and heal with internal fixation.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Displaced intracapsular fractures have poor healing potential; replacing the femoral head prevents nonunion and AVN, while extracapsular intertrochanteric fractures have rich blood supply and heal with internal fixation. In the clinical evaluation of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Surgical strategy: hemiarthroplasty/total hip for displaced neck fractures vs ce.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Surgical strategy: hemiarthroplasty/total hip for displaced neck fractures vs ce."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1350",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Early surgical fixation within 24 to 48 hours to reduce perioperative mortality ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 46-year-old woman who is brought by paramedic transfer to the emergency department with prominent manifestations of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN). Bedside evaluation demonstrates elderly patient after a fall presenting with a shortened and externally rotated lower extremity, inability to bear weight, severe groin/hip pain, and disruption of Shenton line on pelvic radiography. Clinical observations record blood pressure 114/80 mm Hg, heart rate 98/min, respiratory rate 20/min, and ambient oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Expediting medical optimization and performing definitive surgical fixation within 24 to 48 hours of admission to drastically lower risks of pressure ulcers, pneumonia, VTE, and 30-day mortality.",
+        "explanation": "Delaying hip fracture surgery beyond 48 hours in frail elderly patients is independently associated with doubled 30-day mortality, severe delirium, and decubitus ulcer complications.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Delaying hip fracture surgery beyond 48 hours in frail elderly patients is independently associated with doubled 30-day mortality, severe delirium, and decubitus ulcer complications. In the clinical evaluation of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Early surgical fixation within 24 to 48 hours to reduce perioperative mortality .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Early surgical fixation within 24 to 48 hours to reduce perioperative mortality ."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1351",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "NICE Guideline CG124: Orthogeriatric multidisciplinary care and fascia iliaca ne",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old man with recent symptom exacerbation attends the scheduled hospital outpatient review for urgent clarification of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN). Clinical examination highlights elderly patient after a fall presenting with a shortened and externally rotated lower extremity, inability to bear weight, severe groin/hip pain, and disruption of Shenton line on pelvic radiography. Clinical observations record blood pressure 116/84 mm Hg, heart rate 101/min, respiratory rate 21/min, and ambient oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Administering a pre-operative ultrasound-guided fascia iliaca compartment nerve block for analgesia, reducing systemic opioid requirements and risk of postoperative delirium.",
+        "explanation": "Fascia iliaca nerve block anesthetizes the femoral, lateral cutaneous, and obturator nerves, providing superior non-opioid pain relief in acute fractured neck of femur.",
+        "correct": true
+      }
+    ],
+    "explanation": "Fascia iliaca nerve block anesthetizes the femoral, lateral cutaneous, and obturator nerves, providing superior non-opioid pain relief in acute fractured neck of femur. In the clinical evaluation of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning NICE Guideline CG124: Orthogeriatric multidisciplinary care and fascia iliaca ne.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning NICE Guideline CG124: Orthogeriatric multidisciplinary care and fascia iliaca ne."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1352",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Garden classification of intracapsular femoral neck fractures",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 56-year-old woman is evaluated in the acute surgical assessment unit with clinical findings indicative of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN). Bedside physical examination confirms elderly patient after a fall presenting with a shortened and externally rotated lower extremity, inability to bear weight, severe groin/hip pain, and disruption of Shenton line on pelvic radiography. Clinical observations record blood pressure 118/88 mm Hg, heart rate 104/min, respiratory rate 22/min, and ambient oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Garden I (incomplete/impacted valgus), Garden II (complete non-displaced), Garden III (complete partially displaced), and Garden IV (completely displaced with lost trabecular alignment).",
+        "explanation": "Garden stages I and II have intact retinacular vessels and can be preserved with internal screw fixation; stages III and IV disrupt blood supply and mandate arthroplasty in elderly patients.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Garden stages I and II have intact retinacular vessels and can be preserved with internal screw fixation; stages III and IV disrupt blood supply and mandate arthroplasty in elderly patients. In the clinical evaluation of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Garden classification of intracapsular femoral neck fractures.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Garden classification of intracapsular femoral neck fractures."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1353",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Risk factors for non-traumatic avascular necrosis of the femoral head",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 61-year-old man who undergoes urgent bedside assessment in the medical ward due to suspected Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN). Clinical examination demonstrates elderly patient after a fall presenting with a shortened and externally rotated lower extremity, inability to bear weight, severe groin/hip pain, and disruption of Shenton line on pelvic radiography. Clinical observations record blood pressure 120/68 mm Hg, heart rate 107/min, respiratory rate 23/min, and ambient oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Identifying chronic high-dose systemic corticosteroid therapy, chronic excessive alcohol intake, sickle cell disease, systemic lupus erythematosus, and decompression sickness (Caisson disease).",
+        "explanation": "Corticosteroids and chronic alcoholism cause bone marrow fat embolization and microvascular thrombosis, leading to ischemic death of osteocytes in the subchondral femoral head.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Corticosteroids and chronic alcoholism cause bone marrow fat embolization and microvascular thrombosis, leading to ischemic death of osteocytes in the subchondral femoral head. In the clinical evaluation of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Risk factors for non-traumatic avascular necrosis of the femoral head.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Risk factors for non-traumatic avascular necrosis of the femoral head."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1354",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Surgical management of early pre-collapse avascular necrosis: Core decompression",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 66-year-old woman presenting with acute functional symptoms presents to the acute subspecialty assessment center requiring evaluation for Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN). Physical assessment reveals elderly patient after a fall presenting with a shortened and externally rotated lower extremity, inability to bear weight, severe groin/hip pain, and disruption of Shenton line on pelvic radiography. Clinical observations record blood pressure 122/72 mm Hg, heart rate 110/min, respiratory rate 24/min, and ambient oxygen saturation 94%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Performing core decompression with bone marrow aspirate concentrate (BMAC) for pre-collapse Ficat stage I/II AVN, versus total hip arthroplasty once subchondral crescent sign and collapse occur.",
+        "explanation": "Core decompression reduces elevated intraosseous pressure and stimulates neovascularization; once articular collapse occurs (Ficat III/IV), total hip replacement is the only definitive option.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Core decompression reduces elevated intraosseous pressure and stimulates neovascularization; once articular collapse occurs (Ficat III/IV), total hip replacement is the only definitive option. In the clinical evaluation of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Surgical management of early pre-collapse avascular necrosis: Core decompression.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Surgical management of early pre-collapse avascular necrosis: Core decompression."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1355",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Differentiating femoral neck from intertrochanteric fractures by external rotati",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is commenced for a 71-year-old man who is evaluated during urgent inpatient consultation with prominent manifestations of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN). Bedside evaluation demonstrates elderly patient after a fall presenting with a shortened and externally rotated lower extremity, inability to bear weight, severe groin/hip pain, and disruption of Shenton line on pelvic radiography. Clinical observations record blood pressure 124/76 mm Hg, heart rate 113/min, respiratory rate 25/min, and ambient oxygen saturation 95%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Moderate external rotation and mild shortening in intracapsular neck fractures (constrained by capsule) versus severe external rotation (foot resting on bed) and marked shortening in extracapsular fractures.",
+        "explanation": "Extracapsular fractures occur outside the fibrous capsule where strong pull of the iliopsoas and gluteal muscles rotates the distal shaft unobstructed, causing extreme deformity.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Extracapsular fractures occur outside the fibrous capsule where strong pull of the iliopsoas and gluteal muscles rotates the distal shaft unobstructed, causing extreme deformity. In the clinical evaluation of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Differentiating femoral neck from intertrochanteric fractures by external rotati.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Differentiating femoral neck from intertrochanteric fractures by external rotati."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1356",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Shenton line disruption, crescent sign on plain radiography, and MRI sensitivity",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 76-year-old woman with recent symptom exacerbation attends the specialized ambulatory medical clinic for urgent clarification of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN). Clinical examination highlights elderly patient after a fall presenting with a shortened and externally rotated lower extremity, inability to bear weight, severe groin/hip pain, and disruption of Shenton line on pelvic radiography. Clinical observations record blood pressure 126/80 mm Hg, heart rate 72/min, respiratory rate 15/min, and ambient oxygen saturation 96%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Loss of continuity of Shenton's parabolic line on pelvis radiograph, subchondral fracture (crescent sign), and MRI 'double-line sign' on T2-weighted imaging for early osteonecrosis.",
+        "explanation": "MRI is the gold standard for diagnosing early pre-radiographic avascular necrosis, showing a focal serpiginous line of low signal intensity with a high-intensity inner hyperemic zone.",
+        "correct": true
+      }
+    ],
+    "explanation": "MRI is the gold standard for diagnosing early pre-radiographic avascular necrosis, showing a focal serpiginous line of low signal intensity with a high-intensity inner hyperemic zone. In the clinical evaluation of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Shenton line disruption, crescent sign on plain radiography, and MRI sensitivity.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Shenton line disruption, crescent sign on plain radiography, and MRI sensitivity."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1357",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Legg-Calve-Perthes disease vs Slipped Capital Femoral Epiphysis (SCFE)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 23-year-old man is urgently admitted to the emergency observation suite with clinical findings indicative of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN). Bedside physical examination confirms elderly patient after a fall presenting with a shortened and externally rotated lower extremity, inability to bear weight, severe groin/hip pain, and disruption of Shenton line on pelvic radiography. Clinical observations record blood pressure 128/84 mm Hg, heart rate 75/min, respiratory rate 16/min, and ambient oxygen saturation 97%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Differentiating idiopathic avascular necrosis of the femoral head in young boys aged 4-8 (Perthes) from posteromedial slippage of the femoral epiphysis in obese adolescents aged 11-14 (SCFE).",
+        "explanation": "Perthes disease presents with painless limp and insidious flattening of the femoral head; SCFE presents with hip or referred knee pain and obligatory external rotation on passive hip flexion.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Perthes disease presents with painless limp and insidious flattening of the femoral head; SCFE presents with hip or referred knee pain and obligatory external rotation on passive hip flexion. In the clinical evaluation of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Legg-Calve-Perthes disease vs Slipped Capital Femoral Epiphysis (SCFE).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Legg-Calve-Perthes disease vs Slipped Capital Femoral Epiphysis (SCFE)."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1358",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Assessment of occult hip fracture with negative plain radiographs: urgent MRI or",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 28-year-old woman who presents to the tertiary trauma and critical care unit due to suspected Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN). Clinical examination demonstrates elderly patient after a fall presenting with a shortened and externally rotated lower extremity, inability to bear weight, severe groin/hip pain, and disruption of Shenton line on pelvic radiography. Clinical observations record blood pressure 130/88 mm Hg, heart rate 78/min, respiratory rate 17/min, and ambient oxygen saturation 98%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Obtaining an immediate coronal MRI (or thin-slice CT if MRI unavailable) for elderly patients unable to bear weight with persistent groin pain despite normal initial plain radiographs.",
+        "explanation": "Up to 5-10% of hip fractures in osteoporotic elderly individuals are radiographically occult on initial X-rays; early MRI detects occult trabecular fractures, avoiding delayed displaced fracture.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Up to 5-10% of hip fractures in osteoporotic elderly individuals are radiographically occult on initial X-rays; early MRI detects occult trabecular fractures, avoiding delayed displaced fracture. In the clinical evaluation of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Assessment of occult hip fracture with negative plain radiographs: urgent MRI or.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Assessment of occult hip fracture with negative plain radiographs: urgent MRI or."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1359",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Venous thromboembolism (VTE) prophylaxis protocols following hip fracture surger",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old man presenting with acute functional symptoms undergoes multidisciplinary diagnostic evaluation in the clinic requiring evaluation for Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN). Physical assessment reveals elderly patient after a fall presenting with a shortened and externally rotated lower extremity, inability to bear weight, severe groin/hip pain, and disruption of Shenton line on pelvic radiography. Clinical observations record blood pressure 132/68 mm Hg, heart rate 81/min, respiratory rate 18/min, and ambient oxygen saturation 99%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Administering low-molecular-weight heparin (enoxaparin) or direct oral anticoagulants (apixaban/rivaroxaban) for at least 28 to 35 days postoperatively, combined with intermittent pneumatic compression.",
+        "explanation": "Hip fracture surgery carries the highest risk of postoperative deep vein thrombosis and fatal pulmonary embolism among all surgical procedures, mandating extended 35-day thromboprophylaxis.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "Hip fracture surgery carries the highest risk of postoperative deep vein thrombosis and fatal pulmonary embolism among all surgical procedures, mandating extended 35-day thromboprophylaxis. In the clinical evaluation of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Venous thromboembolism (VTE) prophylaxis protocols following hip fracture surger.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Venous thromboembolism (VTE) prophylaxis protocols following hip fracture surger."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1360",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Secondary prevention of osteoporotic fractures: DXA scanning and bisphosphonate ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 38-year-old woman who is brought by paramedic transfer to the emergency department with prominent manifestations of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN). Bedside evaluation demonstrates elderly patient after a fall presenting with a shortened and externally rotated lower extremity, inability to bear weight, severe groin/hip pain, and disruption of Shenton line on pelvic radiography. Clinical observations record blood pressure 134/72 mm Hg, heart rate 84/min, respiratory rate 19/min, and ambient oxygen saturation 94%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Arranging dual-energy X-ray absorptiometry (DXA) bone mineral density testing and initiating intravenous zoledronic acid or oral alendronate during post-acute fracture rehabilitation.",
+        "explanation": "A fragility hip fracture establishes the clinical diagnosis of severe osteoporosis; initiating antiresorptive therapy halves the risk of sustaining a catastrophic contralateral hip fracture.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "A fragility hip fracture establishes the clinical diagnosis of severe osteoporosis; initiating antiresorptive therapy halves the risk of sustaining a catastrophic contralateral hip fracture. In the clinical evaluation of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Secondary prevention of osteoporotic fractures: DXA scanning and bisphosphonate .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Secondary prevention of osteoporotic fractures: DXA scanning and bisphosphonate ."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];

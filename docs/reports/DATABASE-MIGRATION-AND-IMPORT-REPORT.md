@@ -3,7 +3,7 @@
 **Date:** November 2026  
 **Document Status:** Complete (Phase 5/6 Deliverable)  
 **Safety Protocol:** Zero Data Deletion & Immutable Ledger Compliance  
-**Authoring Status:** 1,095 Original Multi-Exam Questions Generated & Validated (Batches intl-01 through intl-15)
+**Authoring Status:** 1,445 Original Multi-Exam Questions Generated & Validated (Batches intl-01 through intl-19)
 
 ---
 
@@ -62,12 +62,18 @@ The following 14 examination categories are now officially registered in `conten
 - **Batch intl-11 (`content/bank/international/batch-intl-11.ts`):** 85 items (`intl-0661` - `intl-0745`). Focus: Major Trauma & ATLS Survey (Tension pneumothorax decompression, 1:1:1 MTP, TXA, FAST), Thermal Burns (Jackson zones, Parkland formula, Inhalation injury, Escharotomy), Major Depressive Disorder (SSRI neurobiology, Suicide safety, ECT), Psychotic Disorders & NMS (D2 antagonism, Lead-pipe rigidity, Dantrolene, Clozapine ANC), Panic & PTSD (Amygdala hyperactivity, CBT, SSRI, Prazosin), SJS/TEN & Blistering Diseases (Granulysin, SCORTEN, Desmoglein autoantibodies), Acute Poisoning (Organophosphates/Atropine, Acetaminophen/NAC, Toxidromes).
 
 ### 3.4 Third 350-Question Mega Expansion Batches (`intl-12` to `intl-15`)
-- **Batch intl-12 (`content/bank/international/batch-intl-12.ts`):** 90 items (`intl-0746` - `intl-0835`). Focus: Gout & Pseudogout/CPPD (polarizing microscopy, colchicine vs NSAID, urate-lowering), Systemic Sclerosis & Raynaud (anticentromere vs anti-Scl70, renal crisis ACEi), Sjögren Syndrome & Inflammatory Myopathies (anti-Ro/La, CD8 vs CD4 endomysial/perimysial, dermatomyositis malignancy screen), Multiple Sclerosis (oligoclonal bands, Dawson fingers, methylprednisolone, DMT), Parkinson Disease & Tremors (Lewy bodies, alpha-synuclein, levodopa/carbidopa, propranolol).
-- **Batch intl-13 (`content/bank/international/batch-intl-13.ts`):** 90 items (`intl-0836` - `intl-0925`). Focus: Amyotrophic Lateral Sclerosis (combined UMN/LMN, riluzole, non-invasive ventilation), Normal Pressure Hydrocephalus (triad, high-volume tap, ventriculoperitoneal shunt), Alzheimer & Vascular Dementia (amyloid-beta, tau tangles, cholinesterase inhibitors, memantine), Metabolic Bone Disease (osteoporosis DEXA, T-scores, bisphosphonates, Paget osteoclast mosaic bone), Renal Tubular Acidosis (Type 1 distal, Type 2 proximal, Type 4 hypoaldosteronism, urinary AG), SIADH & Diabetes Insipidus (euvolemic hyponatremia, fluid restriction, desmopressin challenge).
-- **Batch intl-14 (`content/bank/international/batch-intl-14.ts`):** 85 items (`intl-0926` - `intl-1010`). Focus: Nephrolithiasis (calcium oxalate, struvite staghorn, stone size thresholds, tamsulosin, ureteroscopy), Renovascular Hypertension (fibromuscular dysplasia vs atherosclerosis, renal artery stenosis Doppler, ACEi caution), Multiple Myeloma & MGUS (CRAB criteria, Rouleaux, serum free light chains, bortezomib), Hodgkin & Non-Hodgkin Lymphoma (Reed-Sternberg CD15/CD30, ABVD, excisional biopsy), Myeloproliferative Neoplasms (JAK2 V617F, polycythemia vera phlebotomy, essential thrombocythemia hydroxyurea), Metabolic Liver Disease (Wilson ATP7B, Kayser-Fleischer, penicillamine, Hemochromatosis HFE C282Y phlebotomy).
-- **Batch intl-15 (`content/bank/international/batch-intl-15.ts`):** 85 items (`intl-1011` - `intl-1095`). Focus: Celiac Disease (anti-tTG IgA, duodenal intraepithelial lymphocytosis, villous atrophy, gluten-free diet), Mesenteric Ischemia (pain out of proportion, SMA embolus, CT angiography, revascularization), Endocrine Hypertension (primary aldosteronism ARR ratio, adrenal vein sampling, spironolactone, pheochromocytoma alpha-before-beta blockade), Multiple Endocrine Neoplasia (MEN 1 menin vs MEN 2 RET, prophylactic thyroidectomy), Tropical & Vector-Borne Infections (P. falciparum PfEMP-1, artesunate, Dengue NS1 hemoconcentration), Enteric Fever (Salmonella Typhi, rose spots, XDR ceftriaxone/azithromycin, terminal ileal perforation), Spirochetal Infections (Treponema pallidum darkfield, benzathine penicillin G, neurosyphilis, Lyme erythema migrans), Ectopic Pregnancy (beta-hCG discriminatory zone, transvaginal US, methotrexate vs salpingectomy, anti-D), Gynecologic Oncology (HPV 16/18 E6/E7, Pap smear, colposcopy, LEEP, FIGO staging).
+- **Batch intl-12 (`content/bank/international/batch-intl-12.ts`):** 90 items (`intl-0746` - `intl-0835`). Focus: Gout & Pseudogout/CPPD, Systemic Sclerosis, Sjögren Syndrome, Inflammatory Myopathies, Multiple Sclerosis, Parkinson Disease.
+- **Batch intl-13 (`content/bank/international/batch-intl-13.ts`):** 90 items (`intl-0836` - `intl-0925`). Focus: Amyotrophic Lateral Sclerosis, Normal Pressure Hydrocephalus, Alzheimer & Vascular Dementia, Metabolic Bone Disease, Renal Tubular Acidosis, SIADH & Diabetes Insipidus.
+- **Batch intl-14 (`content/bank/international/batch-intl-14.ts`):** 85 items (`intl-0926` - `intl-1010`). Focus: Nephrolithiasis, Renovascular Hypertension, Multiple Myeloma, Hodgkin & Non-Hodgkin Lymphoma, Myeloproliferative Neoplasms, Metabolic Liver Disease.
+- **Batch intl-15 (`content/bank/international/batch-intl-15.ts`):** 85 items (`intl-1011` - `intl-1095`). Focus: Celiac Disease, Mesenteric Ischemia, Endocrine Hypertension, Multiple Endocrine Neoplasia, Vector-Borne Infections (Malaria/Dengue), Enteric Fever, Spirochetes, Ectopic Pregnancy, Cervical Dysplasia.
 
-**Total Expansion Inventory:** **1,095 high-yield clinical items** across 15 modular batch suites (5,475 options with distinct rationales).
+### 3.5 Fourth 350-Question Mega Expansion Batches (`intl-16` to `intl-19`)
+- **Batch intl-16 (`content/bank/international/batch-intl-16.ts`):** 90 items (`intl-1096` - `intl-1185`). Focus: Acute Angle-Closure & Open-Angle Glaucoma, Retinal Vascular Occlusions (CRAO/CRVO), Retinal Detachment, Macular Degeneration (Dry vs Wet), Diabetic Retinopathy, Acute Otitis Media & Otitis Externa.
+- **Batch intl-17 (`content/bank/international/batch-intl-17.ts`):** 90 items (`intl-1186` - `intl-1275`). Focus: Peripheral vs Central Vertigo (BPPV/Meniere/Neuritis), Epistaxis & Sphenopalatine Artery Ligation, Deep Neck Space Infections (Ludwig Angina/Quinsy), Toxic Alcohols (Methanol/Ethylene Glycol), Acetaminophen Toxicity & NAC, Carbon Monoxide & Cyanide Poisoning.
+- **Batch intl-18 (`content/bank/international/batch-intl-18.ts`):** 85 items (`intl-1276` - `intl-1360`). Focus: Cardiovascular Drug Overdose (Beta-blockers/CCB/Digoxin), Autonomic Toxidromes (Anticholinergic vs Cholinergic), Hypothermia & Heat Emergencies, Acute Compartment Syndrome & Fasciotomy, Osteomyelitis & Septic Arthritis, Knee Ligamentous & Meniscal Injuries (ACL/PCL/Unhappy Triad).
+- **Batch intl-19 (`content/bank/international/batch-intl-19.ts`):** 85 items (`intl-1361` - `intl-1445`). Focus: Pediatric Fractures & Supracondylar Humerus, Shoulder Dislocation & Rotator Cuff Pathology, Hip Fractures & Femoral Head Osteonecrosis, Medical Decision-Making Capacity & Advance Directives, Informed Consent & Minors (Gillick Competence), Forensic Pathology & Traumatology, Cutaneous Malignancies (Melanoma/BCC/SCC), Severe Cutaneous Adverse Reactions (DRESS/AGEP/FDE), Acute Transfusion Reactions (TRALI/TACO/AHTR).
+
+**Total Expansion Inventory:** **1,445 high-yield clinical items** across 19 modular batch suites (7,225 options with distinct rationales).
 
 ---
 
@@ -75,12 +81,12 @@ The following 14 examination categories are now officially registered in `conten
 
 | Audit Parameter | Verification Requirement | Observed Result | Status |
 |---|---|---|---|
-| **Code Uniqueness** | Zero duplicate codes across the entire question bank | 1,095 unique codes (`intl-0001`..`intl-1095`) | **PASSED** |
-| **Option Structure** | Exactly 5 distinct choices per item | 1,095/1,095 questions have exactly 5 options | **PASSED** |
-| **Correct Answer Integrity** | Exactly 1 correct answer per question | 1,095/1,095 questions have single correct option | **PASSED** |
-| **Stem Depth** | Vignette length >= 100 characters | All 1,095 questions >= 100 characters | **PASSED** |
-| **Explanation Depth** | Main explanation >= 180 characters | All 1,095 questions >= 180 characters | **PASSED** |
-| **Distractor Rationales** | Every choice rationale >= 35 characters | 5,475/5,475 option rationales >= 35 characters | **PASSED** |
+| **Code Uniqueness** | Zero duplicate codes across the entire question bank | 1,445 unique codes (`intl-0001`..`intl-1445`) | **PASSED** |
+| **Option Structure** | Exactly 5 distinct choices per item | 1,445/1,445 questions have exactly 5 options | **PASSED** |
+| **Correct Answer Integrity** | Exactly 1 correct answer per question | 1,445/1,445 questions have single correct option | **PASSED** |
+| **Stem Depth** | Vignette length >= 100 characters | All 1,445 questions >= 100 characters | **PASSED** |
+| **Explanation Depth** | Main explanation >= 180 characters | All 1,445 questions >= 180 characters | **PASSED** |
+| **Distractor Rationales** | Every choice rationale >= 35 characters | 7,225/7,225 option rationales >= 35 characters | **PASSED** |
 | **Factual References** | Verified HTTPS bibliographic link | 100% valid HTTPS links (NCBI, NICE, WHO, etc.) | **PASSED** |
 | **Shingles Similarity** | 3-gram similarity < 0.65 against all prior questions | 0 collisions or near-duplicates detected | **PASSED** |
 | **Review Attribution** | Explicit AI authorship and review state | Explicitly declared in `source` and `attribution` | **PASSED** |

@@ -17,6 +17,10 @@ import { questions as bIntl12 } from '../content/bank/international/batch-intl-1
 import { questions as bIntl13 } from '../content/bank/international/batch-intl-13';
 import { questions as bIntl14 } from '../content/bank/international/batch-intl-14';
 import { questions as bIntl15 } from '../content/bank/international/batch-intl-15';
+import { questions as bIntl16 } from '../content/bank/international/batch-intl-16';
+import { questions as bIntl17 } from '../content/bank/international/batch-intl-17';
+import { questions as bIntl18 } from '../content/bank/international/batch-intl-18';
+import { questions as bIntl19 } from '../content/bank/international/batch-intl-19';
 import { questions as b1 } from '../content/bank/batch-01';
 import type { QuestionContent } from '../src/lib/validation/content';
 
@@ -24,7 +28,8 @@ const allQuestions: QuestionContent[] = [
   ...bIntl1, ...bIntl2, ...bIntl3,
   ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7,
   ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11,
-  ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15
+  ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15,
+  ...bIntl16, ...bIntl17, ...bIntl18, ...bIntl19
 ];
 const dir = 'content/bank/international';
 
@@ -50,6 +55,10 @@ async function main() {
   const v13 = validateBank(bIntl13, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11, ...bIntl12]);
   const v14 = validateBank(bIntl14, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11, ...bIntl12, ...bIntl13]);
   const v15 = validateBank(bIntl15, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11, ...bIntl12, ...bIntl13, ...bIntl14]);
+  const v16 = validateBank(bIntl16, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11, ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15]);
+  const v17 = validateBank(bIntl17, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11, ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15, ...bIntl16]);
+  const v18 = validateBank(bIntl18, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11, ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15, ...bIntl16, ...bIntl17]);
+  const v19 = validateBank(bIntl19, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11, ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15, ...bIntl16, ...bIntl17, ...bIntl18]);
 
   const allErrors = [
     ...v1.errors.map(e => ({ batch: 'intl-01', ...e })),
@@ -67,6 +76,10 @@ async function main() {
     ...v13.errors.map(e => ({ batch: 'intl-13', ...e })),
     ...v14.errors.map(e => ({ batch: 'intl-14', ...e })),
     ...v15.errors.map(e => ({ batch: 'intl-15', ...e })),
+    ...v16.errors.map(e => ({ batch: 'intl-16', ...e })),
+    ...v17.errors.map(e => ({ batch: 'intl-17', ...e })),
+    ...v18.errors.map(e => ({ batch: 'intl-18', ...e })),
+    ...v19.errors.map(e => ({ batch: 'intl-19', ...e })),
   ];
 
   const batches = [
@@ -85,6 +98,10 @@ async function main() {
     { name: 'batch-intl-13', data: bIntl13, errs: v13.errors },
     { name: 'batch-intl-14', data: bIntl14, errs: v14.errors },
     { name: 'batch-intl-15', data: bIntl15, errs: v15.errors },
+    { name: 'batch-intl-16', data: bIntl16, errs: v16.errors },
+    { name: 'batch-intl-17', data: bIntl17, errs: v17.errors },
+    { name: 'batch-intl-18', data: bIntl18, errs: v18.errors },
+    { name: 'batch-intl-19', data: bIntl19, errs: v19.errors },
   ];
 
   const batchReports = [];

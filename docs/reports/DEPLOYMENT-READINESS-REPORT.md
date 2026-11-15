@@ -24,7 +24,7 @@ All core deliverables, code modifications, content batches, and automated verifi
 | **2. OpenPrep Gap Analysis** | `docs/reports/OPENPREP-GAP-ANALYSIS.md` | Completed & Verified |
 | **3. Implementation Plan** | `docs/reports/OPENPREP-IMPLEMENTATION-PLAN.md` | Completed & Verified |
 | **4. Updated OpenPrep Source Code** | `src/`, `prisma/seed.ts`, `content/` | Completed & Verified |
-| **5. Original Question-Bank Content** | `content/bank/international/` | Completed & Verified (1,095 Qs in 15 batches) |
+| **5. Original Question-Bank Content** | `content/bank/international/` | Completed & Verified (1,445 Qs in 19 batches) |
 | **6. DB Migration & Import Report** | `docs/reports/DATABASE-MIGRATION-AND-IMPORT-REPORT.md` | Completed & Verified |
 | **7. Test & Verification Report** | `docs/reports/TEST-AND-VERIFICATION-REPORT.md` | Completed & Verified |
 | **8. Deployment Readiness Report** | `docs/reports/DEPLOYMENT-READINESS-REPORT.md` | Completed & Verified |
@@ -52,7 +52,7 @@ The following production-ready improvements have been integrated into OpenPrep:
    - Every examination is configured with specific subjects, organ systems, and standardized scoring parameters.
 
 2. **Original International Question Content (`content/bank/international/`):**
-   - Authored 1,095 comprehensive clinical vignette questions across targeted tracks in 15 modular batches (5,475 choices with detailed rationales).
+   - Authored 1,445 comprehensive clinical vignette questions across targeted tracks in 19 modular batches (7,225 choices with detailed rationales).
    - 100% adherence to the 15 required criteria: clinical vignette, question stem, 5 plausible answer choices, distractor rationales for all alternatives, difficulty ranking (1–5), high-yield learning objectives, accredited HTTPS medical guideline citations, content provenance metadata, and explicit `AI-authored; medically unreviewed` status.
 
 3. **Dashboard Quick Practice Launchers (`src/app/(app)/(main)/dashboard/page.tsx`):**
@@ -81,12 +81,12 @@ The following production-ready improvements have been integrated into OpenPrep:
 
 All automated verification gates passed without error:
 
-- **Offline Content Validation:** `npm run bank:intl` — 1,095/1,095 questions passed Zod schema validation; batch digests calculated.
+- **Offline Content Validation:** `npm run bank:intl` — 1,445/1,445 questions passed Zod schema validation across 19 batches; batch digests calculated.
 - **Content Unit Tests:** `npx vitest run tests/unit/international-bank.test.ts` — 4/4 assertions passed.
 - **Platform Unit Tests:** `npm run test:unit` — 16 test suites passed; 199/199 tests passed.
 - **Type Safety:** `npm run typecheck` — 0 TypeScript compiler errors.
 - **Linting:** `npm run lint` — 0 ESLint errors.
-- **Production Build:** `npm run build` — Successfully compiled all 29 routes in 12.1s with Turbopack.
+- **Production Build:** `npm run build` — Successfully compiled all 29 routes with Turbopack.
 
 ---
 
@@ -143,7 +143,7 @@ Once explicit user approval is granted, execute the following steps in sequence:
    Commit the verified code additions to git:
    ```bash
    git add content/ docs/ src/ prisma/ scripts/ tests/ public/ next.config.ts package.json
-   git commit -m "feat: expand international question bank to 1,095 questions, add PWA sw, and question browser pills"
+   git commit -m "feat: expand international question bank to 1,445 questions across 19 batches"
    git push origin main
    ```
 

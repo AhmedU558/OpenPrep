@@ -16,6 +16,10 @@ import { questions as bIntl12 } from '../../content/bank/international/batch-int
 import { questions as bIntl13 } from '../../content/bank/international/batch-intl-13';
 import { questions as bIntl14 } from '../../content/bank/international/batch-intl-14';
 import { questions as bIntl15 } from '../../content/bank/international/batch-intl-15';
+import { questions as bIntl16 } from '../../content/bank/international/batch-intl-16';
+import { questions as bIntl17 } from '../../content/bank/international/batch-intl-17';
+import { questions as bIntl18 } from '../../content/bank/international/batch-intl-18';
+import { questions as bIntl19 } from '../../content/bank/international/batch-intl-19';
 import { questions as b1 } from '../../content/bank/batch-01';
 
 describe('international question bank expansion', () => {
@@ -23,12 +27,13 @@ describe('international question bank expansion', () => {
     ...bIntl1, ...bIntl2, ...bIntl3,
     ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7,
     ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11,
-    ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15
+    ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15,
+    ...bIntl16, ...bIntl17, ...bIntl18, ...bIntl19
   ];
 
-  it('contains 1095 comprehensive original questions across all target exams', () => {
-    expect(allIntl).toHaveLength(1095);
-    expect(new Set(allIntl.map((q) => q.code)).size).toBe(1095);
+  it('contains 1445 comprehensive original questions across all target exams', () => {
+    expect(allIntl).toHaveLength(1445);
+    expect(new Set(allIntl.map((q) => q.code)).size).toBe(1445);
 
     const exams = new Set(allIntl.map((q) => q.exam));
     expect(exams).toContain('Step 1');
@@ -86,7 +91,7 @@ describe('international question bank expansion', () => {
     const validation2 = validateBank(bIntl2, [...b1, ...bIntl1]);
     expect(validation2.errors).toEqual([]);
 
-    const validation12 = validateBank(bIntl12, [...b1, ...bIntl1]);
-    expect(validation12.errors).toEqual([]);
+    const validation16 = validateBank(bIntl16, [...b1, ...bIntl1]);
+    expect(validation16.errors).toEqual([]);
   });
 });

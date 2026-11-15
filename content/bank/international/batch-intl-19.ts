@@ -1,0 +1,4339 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-1361",
+    "exam": "UHS MBBS",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Shenton line and Ward triangle in proximal femoral trabecular architecture",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 43-year-old man with recent symptom exacerbation attends the scheduled hospital outpatient review for urgent clarification of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN). Clinical examination highlights elderly patient after a fall presenting with a shortened and externally rotated lower extremity, inability to bear weight, severe groin/hip pain, and disruption of Shenton line on pelvic radiography. Clinical observations record blood pressure 136/76 mm Hg, heart rate 87/min, respiratory rate 20/min, and ambient oxygen saturation 95%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Shenton line as a smooth continuous parabolic arc drawn along the inferior border of the superior pubic ramus and inferior margin of the femoral neck.",
+        "explanation": "Ward's triangle is a naturally radiolucent area of weakness between the principal compressive and tensile trabecular systems of the femoral neck, where osteoporotic fractures typically initiate.",
+        "correct": true
+      }
+    ],
+    "explanation": "Ward's triangle is a naturally radiolucent area of weakness between the principal compressive and tensile trabecular systems of the femoral neck, where osteoporotic fractures typically initiate. In the clinical evaluation of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Shenton line and Ward triangle in proximal femoral trabecular architecture.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Femoral neck vs Intertrochanteric hip fractures and Avascular necrosis (AVN) concerning Shenton line and Ward triangle in proximal femoral trabecular architecture."
+    ],
+    "references": [
+      {
+        "label": "American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines",
+        "url": "https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1362",
+    "exam": "Step 1",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Four legal criteria for decision-making capacity: understanding, expressing choi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 53-year-old man who attends the scheduled hospital outpatient review with prominent manifestations of Medical decision-making capacity, advance healthcare directives, and involuntary admission. Bedside evaluation demonstrates patient refusing life-sustaining intervention, fluctuating cognitive clarity, surrogate family disagreements, durable power of attorney documentation, or acute suicidal ideation requiring psychiatric detention. Clinical observations record blood pressure 115/75 mm Hg, heart rate 98/min, respiratory rate 20/min, and ambient oxygen saturation 97%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Demonstrating ability to understand relevant clinical information, appreciate the consequences of the decision on their own health, reason through options, and communicate a consistent voluntary choice.",
+        "explanation": "Decision-making capacity is decision-specific and time-specific, assessed by any licensed physician; it differs from competence, which is a global legal designation determined exclusively by a judge.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Decision-making capacity is decision-specific and time-specific, assessed by any licensed physician; it differs from competence, which is a global legal designation determined exclusively by a judge. In the clinical evaluation of Medical decision-making capacity, advance healthcare directives, and involuntary admission, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Four legal criteria for decision-making capacity: understanding, expressing choi.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Four legal criteria for decision-making capacity: understanding, expressing choi."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1363",
+    "exam": "Step 2 CK",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Hierarchy of surrogate decision-makers and substituted judgment standard",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 58-year-old woman with recent symptom exacerbation is evaluated in the acute surgical assessment unit for urgent clarification of Medical decision-making capacity, advance healthcare directives, and involuntary admission. Clinical examination highlights patient refusing life-sustaining intervention, fluctuating cognitive clarity, surrogate family disagreements, durable power of attorney documentation, or acute suicidal ideation requiring psychiatric detention. Clinical observations record blood pressure 117/79 mm Hg, heart rate 101/min, respiratory rate 21/min, and ambient oxygen saturation 98%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Following valid advance directives and designated healthcare power of attorney, applying the substituted judgment standard (what the patient would have wanted) before best interests standard.",
+        "explanation": "Substituted judgment respects patient autonomy by honoring known patient values and prior stated wishes; the best interests standard is applied only when the patient's personal preferences are unknown.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Substituted judgment respects patient autonomy by honoring known patient values and prior stated wishes; the best interests standard is applied only when the patient's personal preferences are unknown. In the clinical evaluation of Medical decision-making capacity, advance healthcare directives, and involuntary admission, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Hierarchy of surrogate decision-makers and substituted judgment standard.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Hierarchy of surrogate decision-makers and substituted judgment standard."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1364",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Resolving family disagreements with living wills and hospital ethics committee c",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old man undergoes urgent bedside assessment in the medical ward with clinical findings indicative of Medical decision-making capacity, advance healthcare directives, and involuntary admission. Bedside physical examination confirms patient refusing life-sustaining intervention, fluctuating cognitive clarity, surrogate family disagreements, durable power of attorney documentation, or acute suicidal ideation requiring psychiatric detention. Clinical observations record blood pressure 119/83 mm Hg, heart rate 104/min, respiratory rate 22/min, and ambient oxygen saturation 99%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Honoring clear, unambiguous living wills and advance directives despite family objections, convening an ethics committee consultation when surrogate disputes persist.",
+        "explanation": "A patient's previously executed valid advance directive supersedes the contrary preferences of grieving family members; clinicians must advocate for the patient's autonomous self-determination.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "A patient's previously executed valid advance directive supersedes the contrary preferences of grieving family members; clinicians must advocate for the patient's autonomous self-determination. In the clinical evaluation of Medical decision-making capacity, advance healthcare directives, and involuntary admission, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Resolving family disagreements with living wills and hospital ethics committee c.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Resolving family disagreements with living wills and hospital ethics committee c."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1365",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Mental Capacity Act 2005 (MCA) principles and two-stage capacity test",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 68-year-old woman who presents to the acute subspecialty assessment center due to suspected Medical decision-making capacity, advance healthcare directives, and involuntary admission. Clinical examination demonstrates patient refusing life-sustaining intervention, fluctuating cognitive clarity, surrogate family disagreements, durable power of attorney documentation, or acute suicidal ideation requiring psychiatric detention. Clinical observations record blood pressure 121/87 mm Hg, heart rate 107/min, respiratory rate 23/min, and ambient oxygen saturation 94%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Applying the MCA 2005 presumption of capacity, establishing impairment of mind or brain, and assessing inability to understand, retain, weigh information, or communicate the decision.",
+        "explanation": "Under UK law, an unwise or eccentric decision does not in itself indicate lack of capacity; healthcare professionals must take all practicable steps to support the person to make the decision.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Under UK law, an unwise or eccentric decision does not in itself indicate lack of capacity; healthcare professionals must take all practicable steps to support the person to make the decision. In the clinical evaluation of Medical decision-making capacity, advance healthcare directives, and involuntary admission, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Mental Capacity Act 2005 (MCA) principles and two-stage capacity test.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Mental Capacity Act 2005 (MCA) principles and two-stage capacity test."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1366",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Australian guardianship legislation and enduring power of attorney activation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old man presenting with acute functional symptoms is evaluated during urgent inpatient consultation requiring evaluation for Medical decision-making capacity, advance healthcare directives, and involuntary admission. Physical assessment reveals patient refusing life-sustaining intervention, fluctuating cognitive clarity, surrogate family disagreements, durable power of attorney documentation, or acute suicidal ideation requiring psychiatric detention. Clinical observations record blood pressure 123/67 mm Hg, heart rate 110/min, respiratory rate 24/min, and ambient oxygen saturation 95%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Activating designated Enduring Guardian or Medical Treatment Decision Maker authority once lack of capacity is formally documented, adhering to the principle of least restrictive alternative.",
+        "explanation": "In Australian jurisdictions, an Enduring Power of Attorney for medical decisions becomes active only upon documented loss of capacity, with statutory tribunals resolving conflicting surrogate claims.",
+        "correct": true
+      }
+    ],
+    "explanation": "In Australian jurisdictions, an Enduring Power of Attorney for medical decisions becomes active only upon documented loss of capacity, with statutory tribunals resolving conflicting surrogate claims. In the clinical evaluation of Medical decision-making capacity, advance healthcare directives, and involuntary admission, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Australian guardianship legislation and enduring power of attorney activation.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Australian guardianship legislation and enduring power of attorney activation."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1367",
+    "exam": "MCCQE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Criteria for involuntary psychiatric admission: imminent risk of harm to self or",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 20-year-old woman who attends the specialized ambulatory medical clinic with prominent manifestations of Medical decision-making capacity, advance healthcare directives, and involuntary admission. Bedside evaluation demonstrates patient refusing life-sustaining intervention, fluctuating cognitive clarity, surrogate family disagreements, durable power of attorney documentation, or acute suicidal ideation requiring psychiatric detention. Clinical observations record blood pressure 125/71 mm Hg, heart rate 113/min, respiratory rate 25/min, and ambient oxygen saturation 96%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Completing statutory involuntary psychiatric detention forms for patients with active mental illness presenting imminent serious risk of suicide, physical harm to others, or severe self-neglect.",
+        "explanation": "Involuntary psychiatric admission overrides autonomy to preserve life and safety; it requires documented severe mental disorder and clear imminent danger that cannot be mitigated voluntarily.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Involuntary psychiatric admission overrides autonomy to preserve life and safety; it requires documented severe mental disorder and clear imminent danger that cannot be mitigated voluntarily. In the clinical evaluation of Medical decision-making capacity, advance healthcare directives, and involuntary admission, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Criteria for involuntary psychiatric admission: imminent risk of harm to self or.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Criteria for involuntary psychiatric admission: imminent risk of harm to self or."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1368",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Behavioral Health",
+    "topic": "Do-Not-Resuscitate (DNR) protocols and distinction from withdrawal of medical ca",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old man with recent symptom exacerbation is urgently admitted to the emergency observation suite for urgent clarification of Medical decision-making capacity, advance healthcare directives, and involuntary admission. Clinical examination highlights patient refusing life-sustaining intervention, fluctuating cognitive clarity, surrogate family disagreements, durable power of attorney documentation, or acute suicidal ideation requiring psychiatric detention. Clinical observations record blood pressure 127/75 mm Hg, heart rate 72/min, respiratory rate 15/min, and ambient oxygen saturation 97%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Documenting valid Do-Not-Resuscitate orders in terminal illness with patient/family consent, recognizing that DNR restricts only cardiopulmonary resuscitation, not comfort care or therapeutic interventions.",
+        "explanation": "A DNR order applies specifically to cardiac and respiratory arrest; it does not authorize withholding intravenous fluids, antibiotics, pain relief, or other appropriate active clinical care.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "A DNR order applies specifically to cardiac and respiratory arrest; it does not authorize withholding intravenous fluids, antibiotics, pain relief, or other appropriate active clinical care. In the clinical evaluation of Medical decision-making capacity, advance healthcare directives, and involuntary admission, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Do-Not-Resuscitate (DNR) protocols and distinction from withdrawal of medical ca.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Do-Not-Resuscitate (DNR) protocols and distinction from withdrawal of medical ca."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1369",
+    "exam": "NLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Principle of patient autonomy and informed refusal of life-saving blood transfus",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 30-year-old woman presents to the tertiary trauma and critical care unit with clinical findings indicative of Medical decision-making capacity, advance healthcare directives, and involuntary admission. Bedside physical examination confirms patient refusing life-sustaining intervention, fluctuating cognitive clarity, surrogate family disagreements, durable power of attorney documentation, or acute suicidal ideation requiring psychiatric detention. Clinical observations record blood pressure 129/79 mm Hg, heart rate 75/min, respiratory rate 16/min, and ambient oxygen saturation 98%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Respecting the autonomous refusal of blood products by an adult patient with decision-making capacity (e.g., Jehovah's Witness), exploring blood-sparing alternatives.",
+        "explanation": "An adult with documented decision-making capacity possesses the fundamental legal and ethical right to refuse any medical treatment, even if that refusal leads directly to their demise.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "An adult with documented decision-making capacity possesses the fundamental legal and ethical right to refuse any medical treatment, even if that refusal leads directly to their demise. In the clinical evaluation of Medical decision-making capacity, advance healthcare directives, and involuntary admission, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Principle of patient autonomy and informed refusal of life-saving blood transfus.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Principle of patient autonomy and informed refusal of life-saving blood transfus."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1370",
+    "exam": "NEET PG",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Supreme Court of India passive euthanasia ruling and Advance Medical Directive r",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 35-year-old man who undergoes multidisciplinary diagnostic evaluation in the clinic due to suspected Medical decision-making capacity, advance healthcare directives, and involuntary admission. Clinical examination demonstrates patient refusing life-sustaining intervention, fluctuating cognitive clarity, surrogate family disagreements, durable power of attorney documentation, or acute suicidal ideation requiring psychiatric detention. Clinical observations record blood pressure 131/83 mm Hg, heart rate 78/min, respiratory rate 17/min, and ambient oxygen saturation 99%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Executing Advance Medical Directives for passive euthanasia under guidelines of the Supreme Court of India, requiring verification by a Judicial Magistrate and hospital medical boards.",
+        "explanation": "Indian jurisprudence permits passive euthanasia (withdrawal of life support in terminally ill, persistent vegetative state) under strict multi-tiered primary and secondary medical board safeguards.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Indian jurisprudence permits passive euthanasia (withdrawal of life support in terminally ill, persistent vegetative state) under strict multi-tiered primary and secondary medical board safeguards. In the clinical evaluation of Medical decision-making capacity, advance healthcare directives, and involuntary admission, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Supreme Court of India passive euthanasia ruling and Advance Medical Directive r.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Supreme Court of India passive euthanasia ruling and Advance Medical Directive r."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1371",
+    "exam": "MRCP",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Deprivation of Liberty Safeguards (DoLS) and Liberty Protection Safeguards in ho",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old woman presenting with acute functional symptoms is brought by paramedic transfer to the emergency department requiring evaluation for Medical decision-making capacity, advance healthcare directives, and involuntary admission. Physical assessment reveals patient refusing life-sustaining intervention, fluctuating cognitive clarity, surrogate family disagreements, durable power of attorney documentation, or acute suicidal ideation requiring psychiatric detention. Clinical observations record blood pressure 133/87 mm Hg, heart rate 81/min, respiratory rate 18/min, and ambient oxygen saturation 94%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Applying for DoLS authorization when an incapacitated inpatient is subject to continuous supervision, control, and is not free to leave the acute hospital ward.",
+        "explanation": "DoLS protects human rights (Article 5 ECHR) for vulnerable individuals lacking capacity; hospital clinicians must ensure restraint or confinement is lawful, proportionate, and in best interests.",
+        "correct": true
+      }
+    ],
+    "explanation": "DoLS protects human rights (Article 5 ECHR) for vulnerable individuals lacking capacity; hospital clinicians must ensure restraint or confinement is lawful, proportionate, and in best interests. In the clinical evaluation of Medical decision-making capacity, advance healthcare directives, and involuntary admission, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Deprivation of Liberty Safeguards (DoLS) and Liberty Protection Safeguards in ho.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Deprivation of Liberty Safeguards (DoLS) and Liberty Protection Safeguards in ho."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1372",
+    "exam": "MRCEM",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Emergency doctrine exception to consent in unconscious, unstable patients withou",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 45-year-old man who attends the scheduled hospital outpatient review with prominent manifestations of Medical decision-making capacity, advance healthcare directives, and involuntary admission. Bedside evaluation demonstrates patient refusing life-sustaining intervention, fluctuating cognitive clarity, surrogate family disagreements, durable power of attorney documentation, or acute suicidal ideation requiring psychiatric detention. Clinical observations record blood pressure 135/67 mm Hg, heart rate 84/min, respiratory rate 19/min, and ambient oxygen saturation 95%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Providing emergent life-saving medical resuscitation and surgical intervention under the emergency doctrine of implied consent when the patient is unconscious and no surrogate is immediately reachable.",
+        "explanation": "The emergency doctrine presumes that a reasonable person would consent to immediate life-saving care in the absence of a known valid prior written refusal or advance directive.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "The emergency doctrine presumes that a reasonable person would consent to immediate life-saving care in the absence of a known valid prior written refusal or advance directive. In the clinical evaluation of Medical decision-making capacity, advance healthcare directives, and involuntary admission, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Emergency doctrine exception to consent in unconscious, unstable patients withou.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Emergency doctrine exception to consent in unconscious, unstable patients withou."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1373",
+    "exam": "SMLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Islamic bioethics and Saudi Council of Senior Scholars fatwas on brain death and",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 50-year-old woman with recent symptom exacerbation is evaluated in the acute surgical assessment unit for urgent clarification of Medical decision-making capacity, advance healthcare directives, and involuntary admission. Clinical examination highlights patient refusing life-sustaining intervention, fluctuating cognitive clarity, surrogate family disagreements, durable power of attorney documentation, or acute suicidal ideation requiring psychiatric detention. Clinical observations record blood pressure 137/71 mm Hg, heart rate 87/min, respiratory rate 20/min, and ambient oxygen saturation 96%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Following Ministry of Health and Senior Scholars guidelines recognizing brain death as legal death, and requiring three qualified attending consultants to validate a DNR decision for terminal futility.",
+        "explanation": "Saudi health regulations mandate consensus of three consultant physicians to issue a DNR order in medical futility, ensuring clinical decisions align with Islamic jurisprudence.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Saudi health regulations mandate consensus of three consultant physicians to issue a DNR order in medical futility, ensuring clinical decisions align with Islamic jurisprudence. In the clinical evaluation of Medical decision-making capacity, advance healthcare directives, and involuntary admission, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Islamic bioethics and Saudi Council of Senior Scholars fatwas on brain death and.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Islamic bioethics and Saudi Council of Senior Scholars fatwas on brain death and."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1374",
+    "exam": "HAAD / DHA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Federal Decree Law on Medical Liability: End-of-life care and DNR documentation ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 55-year-old man undergoes urgent bedside assessment in the medical ward with clinical findings indicative of Medical decision-making capacity, advance healthcare directives, and involuntary admission. Bedside physical examination confirms patient refusing life-sustaining intervention, fluctuating cognitive clarity, surrogate family disagreements, durable power of attorney documentation, or acute suicidal ideation requiring psychiatric detention. Clinical observations record blood pressure 139/75 mm Hg, heart rate 90/min, respiratory rate 21/min, and ambient oxygen saturation 97%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Documenting DNR orders in compliance with UAE Federal Medical Liability Law, requiring unanimous agreement of three consultant physicians in cases of terminal, irreversible illness.",
+        "explanation": "UAE statutory legislation prohibits active euthanasia; non-resuscitation is permitted under strict conditions when treatment is clinically futile as certified by a multi-consultant review panel.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "UAE statutory legislation prohibits active euthanasia; non-resuscitation is permitted under strict conditions when treatment is clinically futile as certified by a multi-consultant review panel. In the clinical evaluation of Medical decision-making capacity, advance healthcare directives, and involuntary admission, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Federal Decree Law on Medical Liability: End-of-life care and DNR documentation .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Federal Decree Law on Medical Liability: End-of-life care and DNR documentation ."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1375",
+    "exam": "UHS MBBS",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Four classical core principles of biomedical ethics (Beauchamp and Childress)",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is performed for a 60-year-old woman who presents to the acute subspecialty assessment center due to suspected Medical decision-making capacity, advance healthcare directives, and involuntary admission. Clinical examination demonstrates patient refusing life-sustaining intervention, fluctuating cognitive clarity, surrogate family disagreements, durable power of attorney documentation, or acute suicidal ideation requiring psychiatric detention. Clinical observations record blood pressure 141/79 mm Hg, heart rate 93/min, respiratory rate 22/min, and ambient oxygen saturation 98%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Autonomy (self-determination), Beneficence (acting in patient's best interest), Non-maleficence (primum non nocere), and Justice (fair distribution of healthcare resources).",
+        "explanation": "Clinical ethical dilemmas arise when these prima facie principles conflict (e.g., autonomy in treatment refusal conflicting with beneficence); structured ethical frameworks reconcile these tensions.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Clinical ethical dilemmas arise when these prima facie principles conflict (e.g., autonomy in treatment refusal conflicting with beneficence); structured ethical frameworks reconcile these tensions. In the clinical evaluation of Medical decision-making capacity, advance healthcare directives, and involuntary admission, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Four classical core principles of biomedical ethics (Beauchamp and Childress).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Medical decision-making capacity, advance healthcare directives, and involuntary admission concerning Four classical core principles of biomedical ethics (Beauchamp and Childress)."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1376",
+    "exam": "Step 1",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Core elements of informed consent: information, voluntariness, and disclosure st",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 70-year-old woman presents to the acute subspecialty assessment center with clinical findings indicative of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions. Bedside physical examination confirms adolescent requesting confidential contraception or STI treatment, parental refusal of life-saving therapy for a child, or duty to warn third parties of imminent violence (Tarasoff rule). Clinical observations record blood pressure 120/78 mm Hg, heart rate 104/min, respiratory rate 22/min, and ambient oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Disclosing diagnosis, proposed procedure, material risks, potential benefits, alternatives (including no treatment), and ensuring voluntary authorization without coercion.",
+        "explanation": "The reasonable person disclosure standard requires physicians to disclose all risks and alternatives that an ordinary reasonable patient would consider significant in deciding on treatment.",
+        "correct": true
+      }
+    ],
+    "explanation": "The reasonable person disclosure standard requires physicians to disclose all risks and alternatives that an ordinary reasonable patient would consider significant in deciding on treatment. In the clinical evaluation of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Core elements of informed consent: information, voluntariness, and disclosure st.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Core elements of informed consent: information, voluntariness, and disclosure st."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1377",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "Confidential care for mature minors: contraception, STIs, substance abuse, and p",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 75-year-old man who is evaluated during urgent inpatient consultation due to suspected Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions. Clinical examination demonstrates adolescent requesting confidential contraception or STI treatment, parental refusal of life-saving therapy for a child, or duty to warn third parties of imminent violence (Tarasoff rule). Clinical observations record blood pressure 122/82 mm Hg, heart rate 107/min, respiratory rate 23/min, and ambient oxygen saturation 95%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Providing confidential assessment and management for emancipated or mature minors seeking contraception, sexually transmitted infection treatment, prenatal care, or substance abuse rehabilitation.",
+        "explanation": "Most legal jurisdictions protect confidential minor consent for reproductive healthcare, sexual health, and substance abuse to prevent fear of parental disclosure from deterring essential treatment.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Most legal jurisdictions protect confidential minor consent for reproductive healthcare, sexual health, and substance abuse to prevent fear of parental disclosure from deterring essential treatment. In the clinical evaluation of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Confidential care for mature minors: contraception, STIs, substance abuse, and p.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Confidential care for mature minors: contraception, STIs, substance abuse, and p."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1378",
+    "exam": "Step 3",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "Parental refusal of life-saving treatment for a child: emergent court order and ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 22-year-old woman presenting with acute functional symptoms attends the specialized ambulatory medical clinic requiring evaluation for Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions. Physical assessment reveals adolescent requesting confidential contraception or STI treatment, parental refusal of life-saving therapy for a child, or duty to warn third parties of imminent violence (Tarasoff rule). Clinical observations record blood pressure 124/86 mm Hg, heart rate 110/min, respiratory rate 24/min, and ambient oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Providing immediate emergent life-saving treatment to a child despite parental religious refusal, obtaining an emergency court order or temporary protective custody if time permits.",
+        "explanation": "While parents have wide discretion in child-rearing, parental authority is not absolute; the state's parens patriae doctrine mandates protecting a child from life-threatening medical neglect.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "While parents have wide discretion in child-rearing, parental authority is not absolute; the state's parens patriae doctrine mandates protecting a child from life-threatening medical neglect. In the clinical evaluation of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Parental refusal of life-saving treatment for a child: emergent court order and .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Parental refusal of life-saving treatment for a child: emergent court order and ."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1379",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "Gillick competence and Fraser guidelines for adolescent contraception under age ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 27-year-old man who is urgently admitted to the emergency observation suite with prominent manifestations of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions. Bedside evaluation demonstrates adolescent requesting confidential contraception or STI treatment, parental refusal of life-saving therapy for a child, or duty to warn third parties of imminent violence (Tarasoff rule). Clinical observations record blood pressure 126/66 mm Hg, heart rate 113/min, respiratory rate 25/min, and ambient oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Assessing Gillick competence (sufficient maturity and intelligence to understand treatment), and applying Fraser guidelines to provide confidential contraception without parental knowledge.",
+        "explanation": "Lord Fraser's guidelines allow confidential contraception if the adolescent understands advice, cannot be persuaded to inform parents, is likely to have intercourse, and their physical/mental health will suffer without it.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "Lord Fraser's guidelines allow confidential contraception if the adolescent understands advice, cannot be persuaded to inform parents, is likely to have intercourse, and their physical/mental health will suffer without it. In the clinical evaluation of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Gillick competence and Fraser guidelines for adolescent contraception under age .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Gillick competence and Fraser guidelines for adolescent contraception under age ."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1380",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "Australian 'Mature Minor' doctrine (Marion's Case) and statutory child protectio",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 32-year-old woman with recent symptom exacerbation presents to the tertiary trauma and critical care unit for urgent clarification of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions. Clinical examination highlights adolescent requesting confidential contraception or STI treatment, parental refusal of life-saving therapy for a child, or duty to warn third parties of imminent violence (Tarasoff rule). Clinical observations record blood pressure 128/70 mm Hg, heart rate 72/min, respiratory rate 15/min, and ambient oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Evaluating whether an adolescent has achieved sufficient understanding and intelligence to consent to medical treatment, while fulfilling mandatory statutory reporting for child physical/sexual abuse.",
+        "explanation": "The High Court of Australia established in Marion's Case that parental power to consent diminishes as the child reaches sufficient maturity; however, special procedures (sterilization) require court approval.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "The High Court of Australia established in Marion's Case that parental power to consent diminishes as the child reaches sufficient maturity; however, special procedures (sterilization) require court approval. In the clinical evaluation of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Australian 'Mature Minor' doctrine (Marion's Case) and statutory child protectio.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Australian 'Mature Minor' doctrine (Marion's Case) and statutory child protectio."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1381",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "Mandatory reporting exceptions to confidentiality: child abuse, elder abuse, and",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old man undergoes multidisciplinary diagnostic evaluation in the clinic with clinical findings indicative of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions. Bedside physical examination confirms adolescent requesting confidential contraception or STI treatment, parental refusal of life-saving therapy for a child, or duty to warn third parties of imminent violence (Tarasoff rule). Clinical observations record blood pressure 130/74 mm Hg, heart rate 75/min, respiratory rate 16/min, and ambient oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Breaching patient-physician confidentiality to fulfill statutory mandatory reporting duties for suspected child physical/sexual abuse, elder abuse, and medical conditions impairing safe motor vehicle operation.",
+        "explanation": "Confidentiality is a fundamental ethical duty but not absolute; provincial and territorial statutes legally compel physicians to report suspected child abuse and reportable communicable diseases.",
+        "correct": true
+      }
+    ],
+    "explanation": "Confidentiality is a fundamental ethical duty but not absolute; provincial and territorial statutes legally compel physicians to report suspected child abuse and reportable communicable diseases. In the clinical evaluation of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Mandatory reporting exceptions to confidentiality: child abuse, elder abuse, and.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Mandatory reporting exceptions to confidentiality: child abuse, elder abuse, and."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1382",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "Pediatric assent in clinical research and assent threshold in adolescents",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 42-year-old woman who is brought by paramedic transfer to the emergency department due to suspected Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions. Clinical examination demonstrates adolescent requesting confidential contraception or STI treatment, parental refusal of life-saving therapy for a child, or duty to warn third parties of imminent violence (Tarasoff rule). Clinical observations record blood pressure 132/78 mm Hg, heart rate 78/min, respiratory rate 17/min, and ambient oxygen saturation 94%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Obtaining written parental permission accompanied by development-appropriate affirmative assent from pediatric patients aged 7 years and older before clinical trial enrollment.",
+        "explanation": "Assent respects the developing autonomy of the child; dissent by a capable older child must be respected unless the experimental intervention offers direct, life-saving therapeutic benefit unavailable elsewhere.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Assent respects the developing autonomy of the child; dissent by a capable older child must be respected unless the experimental intervention offers direct, life-saving therapeutic benefit unavailable elsewhere. In the clinical evaluation of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Pediatric assent in clinical research and assent threshold in adolescents.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Pediatric assent in clinical research and assent threshold in adolescents."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1383",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "Therapeutic privilege doctrine: strict limitations in modern clinical practice",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 47-year-old man presenting with acute functional symptoms attends the scheduled hospital outpatient review requiring evaluation for Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions. Physical assessment reveals adolescent requesting confidential contraception or STI treatment, parental refusal of life-saving therapy for a child, or duty to warn third parties of imminent violence (Tarasoff rule). Clinical observations record blood pressure 134/82 mm Hg, heart rate 81/min, respiratory rate 18/min, and ambient oxygen saturation 95%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Withholding clinical information under therapeutic privilege only when disclosure would cause severe, immediate psychological deterioration, strictly avoiding its use to prevent refusal.",
+        "explanation": "Therapeutic privilege is an extremely narrow legal defense; it cannot be invoked simply because the physician anticipates the patient might refuse an uncomfortable or necessary procedure.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Therapeutic privilege is an extremely narrow legal defense; it cannot be invoked simply because the physician anticipates the patient might refuse an uncomfortable or necessary procedure. In the clinical evaluation of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Therapeutic privilege doctrine: strict limitations in modern clinical practice.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Therapeutic privilege doctrine: strict limitations in modern clinical practice."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1384",
+    "exam": "NEET PG",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Indian POCSO Act (Protection of Children from Sexual Offences) mandatory reporti",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 52-year-old woman who is evaluated in the acute surgical assessment unit with prominent manifestations of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions. Bedside evaluation demonstrates adolescent requesting confidential contraception or STI treatment, parental refusal of life-saving therapy for a child, or duty to warn third parties of imminent violence (Tarasoff rule). Clinical observations record blood pressure 136/86 mm Hg, heart rate 84/min, respiratory rate 19/min, and ambient oxygen saturation 96%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Mandatory reporting of any sexual activity involving a minor under 18 years of age to the Special Juvenile Police Unit or local police under Section 19 of the POCSO Act.",
+        "explanation": "The POCSO Act makes reporting of suspected sexual offenses against minors legally mandatory for doctors, with criminal penalties for failure to report, even when the adolescent requests confidentiality.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "The POCSO Act makes reporting of suspected sexual offenses against minors legally mandatory for doctors, with criminal penalties for failure to report, even when the adolescent requests confidentiality. In the clinical evaluation of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Indian POCSO Act (Protection of Children from Sexual Offences) mandatory reporti.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Indian POCSO Act (Protection of Children from Sexual Offences) mandatory reporti."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1385",
+    "exam": "MRCP",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "Duty of candour: statutory requirements to disclose and apologize for clinical h",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 57-year-old man with recent symptom exacerbation undergoes urgent bedside assessment in the medical ward for urgent clarification of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions. Clinical examination highlights adolescent requesting confidential contraception or STI treatment, parental refusal of life-saving therapy for a child, or duty to warn third parties of imminent violence (Tarasoff rule). Clinical observations record blood pressure 138/66 mm Hg, heart rate 87/min, respiratory rate 20/min, and ambient oxygen saturation 97%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Fulfilling the statutory professional duty of candour by informing the patient promptly of unintended harm, offering a sincere apology, and explaining remedial actions taken.",
+        "explanation": "Regulation 20 of the Health and Social Care Act legally obliges healthcare organizations to be open and transparent with service users when notifiable safety incidents result in moderate or severe harm.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Regulation 20 of the Health and Social Care Act legally obliges healthcare organizations to be open and transparent with service users when notifiable safety incidents result in moderate or severe harm. In the clinical evaluation of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Duty of candour: statutory requirements to disclose and apologize for clinical h.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Duty of candour: statutory requirements to disclose and apologize for clinical h."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1386",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "Tarasoff ruling: Duty to protect and warn identifiable third parties of imminent",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 62-year-old woman presents to the acute subspecialty assessment center with clinical findings indicative of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions. Bedside physical examination confirms adolescent requesting confidential contraception or STI treatment, parental refusal of life-saving therapy for a child, or duty to warn third parties of imminent violence (Tarasoff rule). Clinical observations record blood pressure 140/70 mm Hg, heart rate 90/min, respiratory rate 21/min, and ambient oxygen saturation 98%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Breaching confidentiality to directly warn law enforcement and notify specific, identifiable potential victims when a psychiatric patient articulates credible, imminent threats of violence.",
+        "explanation": "The California Supreme Court Tarasoff decision established that the protective privilege of confidentiality ends where public peril begins; clinicians must act reasonably to protect endangered third parties.",
+        "correct": true
+      }
+    ],
+    "explanation": "The California Supreme Court Tarasoff decision established that the protective privilege of confidentiality ends where public peril begins; clinicians must act reasonably to protect endangered third parties. In the clinical evaluation of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Tarasoff ruling: Duty to protect and warn identifiable third parties of imminent.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Tarasoff ruling: Duty to protect and warn identifiable third parties of imminent."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1387",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "Saudi Law on Practicing Healthcare Professions: Consent requirements and female ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 67-year-old man who is evaluated during urgent inpatient consultation due to suspected Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions. Clinical examination demonstrates adolescent requesting confidential contraception or STI treatment, parental refusal of life-saving therapy for a child, or duty to warn third parties of imminent violence (Tarasoff rule). Clinical observations record blood pressure 142/74 mm Hg, heart rate 93/min, respiratory rate 22/min, and ambient oxygen saturation 99%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Obtaining independent informed consent directly from adult female patients with full legal capacity, recognizing that male guardianship (wali) approval is not legally required for medical care.",
+        "explanation": "Saudi Ministry of Health directives affirm that any adult woman possessing mental capacity has the sovereign right to sign her own informed consent for medical, surgical, and obstetric procedures.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Saudi Ministry of Health directives affirm that any adult woman possessing mental capacity has the sovereign right to sign her own informed consent for medical, surgical, and obstetric procedures. In the clinical evaluation of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Saudi Law on Practicing Healthcare Professions: Consent requirements and female .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Saudi Law on Practicing Healthcare Professions: Consent requirements and female ."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1388",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "Electronic medical records (EMR) privacy and patient data protection regulations",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 72-year-old woman presenting with acute functional symptoms attends the specialized ambulatory medical clinic requiring evaluation for Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions. Physical assessment reveals adolescent requesting confidential contraception or STI treatment, parental refusal of life-saving therapy for a child, or duty to warn third parties of imminent violence (Tarasoff rule). Clinical observations record blood pressure 144/78 mm Hg, heart rate 96/min, respiratory rate 23/min, and ambient oxygen saturation 94%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Adhering to National Health Data Protection regulations, prohibiting unauthorized sharing of identifiable patient health records without explicit written patient authorization.",
+        "explanation": "Health authority data privacy laws impose severe fines and regulatory sanctions for unauthorized access, data breaches, or clinical photography shared on personal electronic devices.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Health authority data privacy laws impose severe fines and regulatory sanctions for unauthorized access, data breaches, or clinical photography shared on personal electronic devices. In the clinical evaluation of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Electronic medical records (EMR) privacy and patient data protection regulations.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Electronic medical records (EMR) privacy and patient data protection regulations."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1389",
+    "exam": "UHS MBBS",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Medical negligence (Tort of Malpractice): The four essential legal Ds",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is commenced for a 77-year-old man who is urgently admitted to the emergency observation suite with prominent manifestations of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions. Bedside evaluation demonstrates adolescent requesting confidential contraception or STI treatment, parental refusal of life-saving therapy for a child, or duty to warn third parties of imminent violence (Tarasoff rule). Clinical observations record blood pressure 146/82 mm Hg, heart rate 99/min, respiratory rate 24/min, and ambient oxygen saturation 95%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Duty of care owed by physician, Dereliction (breach of standard of care), Direct causation, and Damages (actual compensable physical or psychological injury).",
+        "explanation": "To establish civil medical negligence in a court of law, the claimant must prove all four elements on the balance of probabilities; an adverse outcome without breach of duty does not constitute negligence.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "To establish civil medical negligence in a court of law, the claimant must prove all four elements on the balance of probabilities; an adverse outcome without breach of duty does not constitute negligence. In the clinical evaluation of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Medical negligence (Tort of Malpractice): The four essential legal Ds.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Informed consent, Treatment of minors, Gillick competence, and Confidentiality exceptions concerning Medical negligence (Tort of Malpractice): The four essential legal Ds."
+    ],
+    "references": [
+      {
+        "label": "WMA International Code of Medical Ethics",
+        "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1390",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Biochemical basis of rigor mortis: ATP depletion and persistent actin-myosin cro",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man presenting with acute functional symptoms is urgently admitted to the emergency observation suite requiring evaluation for Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths. Physical assessment reveals estimating post-mortem interval via algor, livor, and rigor mortis, differentiating contact vs distant gunshot entrance wounds by soot and stippling, and identifying hyoid bone fracture in manual strangulation. Clinical observations record blood pressure 125/81 mm Hg, heart rate 110/min, respiratory rate 24/min, and ambient oxygen saturation 97%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Loss of oxidative phosphorylation and ATP synthesis preventing detachment of myosin cross-bridges from actin filaments, causing permanent muscle stiffening that resolves with autolysis.",
+        "explanation": "Rigor mortis begins 2-4 hours post-mortem, peaks at 12 hours, remains fixed for 12 hours, and resolves over 24-36 hours as endogenous lysosomal proteases degrade myofibrillar structural proteins.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Rigor mortis begins 2-4 hours post-mortem, peaks at 12 hours, remains fixed for 12 hours, and resolves over 24-36 hours as endogenous lysosomal proteases degrade myofibrillar structural proteins. In the clinical evaluation of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Biochemical basis of rigor mortis: ATP depletion and persistent actin-myosin cro.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Biochemical basis of rigor mortis: ATP depletion and persistent actin-myosin cro."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1391",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Gunshot wound characteristics: contact muzzle imprint, soot tattooing (stippling",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 34-year-old woman who presents to the tertiary trauma and critical care unit with prominent manifestations of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths. Bedside evaluation demonstrates estimating post-mortem interval via algor, livor, and rigor mortis, differentiating contact vs distant gunshot entrance wounds by soot and stippling, and identifying hyoid bone fracture in manual strangulation. Clinical observations record blood pressure 127/85 mm Hg, heart rate 113/min, respiratory rate 25/min, and ambient oxygen saturation 98%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Contact wounds displaying muzzle imprint and soot in wound tract; close-range showing powder tattooing (stippling) of unburned powder particles; distant wounds showing clean circular defect with abrasion collar.",
+        "explanation": "True powder tattooing (stippling) consists of punctate punctate burns caused by hot unburned gunpowder flakes embedded in the epidermis; it cannot be wiped off, proving a close-range firing distance (< 60-100 cm).",
+        "correct": true
+      }
+    ],
+    "explanation": "True powder tattooing (stippling) consists of punctate punctate burns caused by hot unburned gunpowder flakes embedded in the epidermis; it cannot be wiped off, proving a close-range firing distance (< 60-100 cm). In the clinical evaluation of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Gunshot wound characteristics: contact muzzle imprint, soot tattooing (stippling.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Gunshot wound characteristics: contact muzzle imprint, soot tattooing (stippling."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1392",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Differentiating hanging (antemortem ligature mark) from manual strangulation and",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man with recent symptom exacerbation undergoes multidisciplinary diagnostic evaluation in the clinic for urgent clarification of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths. Clinical examination highlights estimating post-mortem interval via algor, livor, and rigor mortis, differentiating contact vs distant gunshot entrance wounds by soot and stippling, and identifying hyoid bone fracture in manual strangulation. Clinical observations record blood pressure 129/89 mm Hg, heart rate 72/min, respiratory rate 15/min, and ambient oxygen saturation 99%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Identifying ascending, incomplete, non-continuous ligature furrow with suspended apex above the thyroid cartilage in hanging, versus horizontal, continuous, low-level marks and hyoid fracture in strangulation.",
+        "explanation": "In typical complete hanging, the ligature mark rises obliquely toward the suspension knot at the occiput; in manual strangulation, fingertip contusions, nail marks, and hyoid greater cornu fractures predominate.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "In typical complete hanging, the ligature mark rises obliquely toward the suspension knot at the occiput; in manual strangulation, fingertip contusions, nail marks, and hyoid greater cornu fractures predominate. In the clinical evaluation of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Differentiating hanging (antemortem ligature mark) from manual strangulation and.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Differentiating hanging (antemortem ligature mark) from manual strangulation and."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1393",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Coroner notification criteria and statutory death certification in the UK",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old woman is brought by paramedic transfer to the emergency department with clinical findings indicative of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths. Bedside physical examination confirms estimating post-mortem interval via algor, livor, and rigor mortis, differentiating contact vs distant gunshot entrance wounds by soot and stippling, and identifying hyoid bone fracture in manual strangulation. Clinical observations record blood pressure 131/69 mm Hg, heart rate 75/min, respiratory rate 16/min, and ambient oxygen saturation 94%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Referring to the Coroner for deaths that are sudden, unexpected, violent, unnatural, occurring during surgery/anesthesia, or within 14 days of medical admission without clear cause.",
+        "explanation": "A medical certificate of cause of death (MCCD) cannot be issued by the treating doctor if the death meets statutory coroner referral criteria, mandating formal coroner review and potential autopsy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "A medical certificate of cause of death (MCCD) cannot be issued by the treating doctor if the death meets statutory coroner referral criteria, mandating formal coroner review and potential autopsy. In the clinical evaluation of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Coroner notification criteria and statutory death certification in the UK.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Coroner notification criteria and statutory death certification in the UK."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1394",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Medical certificate of cause of death (MCCD) formatting: Part I underlying cause",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 49-year-old man who attends the scheduled hospital outpatient review due to suspected Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths. Clinical examination demonstrates estimating post-mortem interval via algor, livor, and rigor mortis, differentiating contact vs distant gunshot entrance wounds by soot and stippling, and identifying hyoid bone fracture in manual strangulation. Clinical observations record blood pressure 133/73 mm Hg, heart rate 78/min, respiratory rate 17/min, and ambient oxygen saturation 95%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Recording the immediate cause of death on line I(a), due to antecedent intermediate causes on I(b)/I(c), and underlying primary disease on the lowest line, listing unrelated contributors in Part II.",
+        "explanation": "The underlying cause of death is the disease or injury that initiated the chain of morbid events leading directly to death; mechanistic modes of dying (e.g., 'cardiac arrest' or 'respiratory failure') are improper causes.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "The underlying cause of death is the disease or injury that initiated the chain of morbid events leading directly to death; mechanistic modes of dying (e.g., 'cardiac arrest' or 'respiratory failure') are improper causes. In the clinical evaluation of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Medical certificate of cause of death (MCCD) formatting: Part I underlying cause.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Medical certificate of cause of death (MCCD) formatting: Part I underlying cause."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1395",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Sudden Infant Death Syndrome (SIDS) diagnostic criteria and safe sleep counselin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old woman presenting with acute functional symptoms is evaluated in the acute surgical assessment unit requiring evaluation for Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths. Physical assessment reveals estimating post-mortem interval via algor, livor, and rigor mortis, differentiating contact vs distant gunshot entrance wounds by soot and stippling, and identifying hyoid bone fracture in manual strangulation. Clinical observations record blood pressure 135/77 mm Hg, heart rate 81/min, respiratory rate 18/min, and ambient oxygen saturation 96%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Sudden unexplained death of an infant under 1 year after thorough case investigation, complete autopsy, and death scene reconstruction; counseling on supine sleep positioning ('Back to Sleep').",
+        "explanation": "SIDS is a diagnosis of exclusion; safe sleep guidelines (supine positioning, firm mattress, no loose bedding, room-sharing without bed-sharing, and smoke-free environment) drastically reduce incidence.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "SIDS is a diagnosis of exclusion; safe sleep guidelines (supine positioning, firm mattress, no loose bedding, room-sharing without bed-sharing, and smoke-free environment) drastically reduce incidence. In the clinical evaluation of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Sudden Infant Death Syndrome (SIDS) diagnostic criteria and safe sleep counselin.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Sudden Infant Death Syndrome (SIDS) diagnostic criteria and safe sleep counselin."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1396",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Differentiating antemortem vs post-mortem injuries: vital reaction and histopath",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 59-year-old man who undergoes urgent bedside assessment in the medical ward with prominent manifestations of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths. Bedside evaluation demonstrates estimating post-mortem interval via algor, livor, and rigor mortis, differentiating contact vs distant gunshot entrance wounds by soot and stippling, and identifying hyoid bone fracture in manual strangulation. Clinical observations record blood pressure 137/81 mm Hg, heart rate 84/min, respiratory rate 19/min, and ambient oxygen saturation 97%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Identifying cellular vital reaction (inflammatory polymorphonuclear leukocyte infiltration, tissue retraction, and true extravasated fibrin clotting) to prove trauma occurred prior to death.",
+        "explanation": "Post-mortem injuries lack vital reaction, exhibiting no inflammatory response, no tissue swelling, and only passive hypostatic oozing of unclotted blood without fibrin net formation.",
+        "correct": true
+      }
+    ],
+    "explanation": "Post-mortem injuries lack vital reaction, exhibiting no inflammatory response, no tissue swelling, and only passive hypostatic oozing of unclotted blood without fibrin net formation. In the clinical evaluation of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Differentiating antemortem vs post-mortem injuries: vital reaction and histopath.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Differentiating antemortem vs post-mortem injuries: vital reaction and histopath."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1397",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Differentiating ante-mortem drowning (PNS signs) from post-mortem submersion",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 64-year-old woman with recent symptom exacerbation presents to the acute subspecialty assessment center for urgent clarification of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths. Clinical examination highlights estimating post-mortem interval via algor, livor, and rigor mortis, differentiating contact vs distant gunshot entrance wounds by soot and stippling, and identifying hyoid bone fracture in manual strangulation. Clinical observations record blood pressure 139/85 mm Hg, heart rate 87/min, respiratory rate 20/min, and ambient oxygen saturation 98%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Identifying persistent fine, white, tenacious froth at mouth and nostrils (froth of Paltauf), emphysema aquosum (hyperinflated lungs with rib indentations), and diatom recovery in closed bone marrow.",
+        "explanation": "Diatoms (microscopic algae) in closed organs (femur marrow, brain) prove antemortem active circulation and inhalation of drowning water, distinguishing active drowning from post-mortem disposal of a body.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Diatoms (microscopic algae) in closed organs (femur marrow, brain) prove antemortem active circulation and inhalation of drowning water, distinguishing active drowning from post-mortem disposal of a body. In the clinical evaluation of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Differentiating ante-mortem drowning (PNS signs) from post-mortem submersion.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Differentiating ante-mortem drowning (PNS signs) from post-mortem submersion."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1398",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Forensic traumatology: Lucid interval in extradural hemorrhage and blast injury ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man is evaluated during urgent inpatient consultation with clinical findings indicative of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths. Bedside physical examination confirms estimating post-mortem interval via algor, livor, and rigor mortis, differentiating contact vs distant gunshot entrance wounds by soot and stippling, and identifying hyoid bone fracture in manual strangulation. Clinical observations record blood pressure 141/89 mm Hg, heart rate 90/min, respiratory rate 21/min, and ambient oxygen saturation 99%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Lucid interval in extradural hematoma (middle meningeal artery), and blast injuries: primary (barotrauma shock wave), secondary (shrapnel), tertiary (body displacement), and quaternary (burns/toxins).",
+        "explanation": "Primary blast injury affects air-filled organs (tympanic membrane rupture, blast lung, bowel perforation); the tympanic membrane is the most sensitive anatomical structure to overpressure shock waves.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Primary blast injury affects air-filled organs (tympanic membrane rupture, blast lung, bowel perforation); the tympanic membrane is the most sensitive anatomical structure to overpressure shock waves. In the clinical evaluation of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Forensic traumatology: Lucid interval in extradural hemorrhage and blast injury .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Forensic traumatology: Lucid interval in extradural hemorrhage and blast injury ."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1399",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Cyanide and carbon monoxide post-mortem skin discoloration patterns",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 74-year-old woman who attends the specialized ambulatory medical clinic due to suspected Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths. Clinical examination demonstrates estimating post-mortem interval via algor, livor, and rigor mortis, differentiating contact vs distant gunshot entrance wounds by soot and stippling, and identifying hyoid bone fracture in manual strangulation. Clinical observations record blood pressure 143/69 mm Hg, heart rate 93/min, respiratory rate 22/min, and ambient oxygen saturation 94%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing bright cherry-red post-mortem hypostasis (livor mortis) in carbon monoxide poisoning, and brick-red or pink discoloration in cyanide toxicity due to cellular histotoxic unextracted oxygen.",
+        "explanation": "Because cyanide blocks cellular oxygen extraction by cytochrome oxidase, venous blood remains fully oxygenated, producing bright pinkish-red lividity mimicking carbon monoxide poisoning.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Because cyanide blocks cellular oxygen extraction by cytochrome oxidase, venous blood remains fully oxygenated, producing bright pinkish-red lividity mimicking carbon monoxide poisoning. In the clinical evaluation of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Cyanide and carbon monoxide post-mortem skin discoloration patterns.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Cyanide and carbon monoxide post-mortem skin discoloration patterns."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1400",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Chain of custody preservation for forensic evidence and forensic sexual assault ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old man presenting with acute functional symptoms is urgently admitted to the emergency observation suite requiring evaluation for Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths. Physical assessment reveals estimating post-mortem interval via algor, livor, and rigor mortis, differentiating contact vs distant gunshot entrance wounds by soot and stippling, and identifying hyoid bone fracture in manual strangulation. Clinical observations record blood pressure 145/73 mm Hg, heart rate 96/min, respiratory rate 23/min, and ambient oxygen saturation 95%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Meticulously documenting evidence collection, maintaining unbroken signed chain-of-custody transfer logs, drying wet biological swabs, and storing sealed evidence in tamper-evident containers.",
+        "explanation": "Failure to document an unbroken chain of custody renders physical and forensic evidence inadmissible in a court of law; emergency clinicians must ensure proper custody protocols from triage.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Failure to document an unbroken chain of custody renders physical and forensic evidence inadmissible in a court of law; emergency clinicians must ensure proper custody protocols from triage. In the clinical evaluation of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Chain of custody preservation for forensic evidence and forensic sexual assault .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Chain of custody preservation for forensic evidence and forensic sexual assault ."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1401",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Post-mortem interval (PMI) estimation formula: Algor mortis and Henssge nomogram",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 26-year-old woman who presents to the tertiary trauma and critical care unit with prominent manifestations of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths. Bedside evaluation demonstrates estimating post-mortem interval via algor, livor, and rigor mortis, differentiating contact vs distant gunshot entrance wounds by soot and stippling, and identifying hyoid bone fracture in manual strangulation. Clinical observations record blood pressure 147/77 mm Hg, heart rate 99/min, respiratory rate 24/min, and ambient oxygen saturation 96%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Using Henssge's nomogram combining deep rectal temperature, ambient temperature, body weight, and clothing factor to calculate the post-mortem interval with statistical confidence limits.",
+        "explanation": "During the first 12 hours post-mortem, body core temperature drops by approximately 0.8 to 1.0 C per hour in temperate environments; environmental factors and clothing significantly modulate this cooling rate.",
+        "correct": true
+      }
+    ],
+    "explanation": "During the first 12 hours post-mortem, body core temperature drops by approximately 0.8 to 1.0 C per hour in temperate environments; environmental factors and clothing significantly modulate this cooling rate. In the clinical evaluation of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Post-mortem interval (PMI) estimation formula: Algor mortis and Henssge nomogram.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Post-mortem interval (PMI) estimation formula: Algor mortis and Henssge nomogram."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1402",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Medico-legal documentation standards in acute domestic violence and physical ass",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 31-year-old man with recent symptom exacerbation undergoes multidisciplinary diagnostic evaluation in the clinic for urgent clarification of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths. Clinical examination highlights estimating post-mortem interval via algor, livor, and rigor mortis, differentiating contact vs distant gunshot entrance wounds by soot and stippling, and identifying hyoid bone fracture in manual strangulation. Clinical observations record blood pressure 149/81 mm Hg, heart rate 102/min, respiratory rate 25/min, and ambient oxygen saturation 97%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Using standardized body surface injury charts (pictograms), documenting precise measurements, anatomical locations, and photography under patient consent with forensic scale rulers.",
+        "explanation": "Exact forensic documentation with millimeter measurements and non-judgmental descriptive terminology (e.g., 'linear abrasion' rather than 'scratched by husband') provides objective courtroom evidence.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Exact forensic documentation with millimeter measurements and non-judgmental descriptive terminology (e.g., 'linear abrasion' rather than 'scratched by husband') provides objective courtroom evidence. In the clinical evaluation of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Medico-legal documentation standards in acute domestic violence and physical ass.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Medico-legal documentation standards in acute domestic violence and physical ass."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1403",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Post-mortem changes: Livor mortis (hypostasis) fixity and differentiation from c",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 36-year-old woman is brought by paramedic transfer to the emergency department with clinical findings indicative of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths. Bedside physical examination confirms estimating post-mortem interval via algor, livor, and rigor mortis, differentiating contact vs distant gunshot entrance wounds by soot and stippling, and identifying hyoid bone fracture in manual strangulation. Clinical observations record blood pressure 151/85 mm Hg, heart rate 105/min, respiratory rate 15/min, and ambient oxygen saturation 98%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Hypostasis results from gravitational pooling of blood in dependent capillaries; differentiating from contusion by incising the skin: hypostatic blood washes away with water, whereas contusion hematoma is clotted.",
+        "explanation": "Livor mortis is blanchable during the first 6 to 8 hours; after 8 to 12 hours, hemolyzed erythrocytes extravasate and stain subcutaneous fat, becoming permanently fixed regardless of body repositioning.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Livor mortis is blanchable during the first 6 to 8 hours; after 8 to 12 hours, hemolyzed erythrocytes extravasate and stain subcutaneous fat, becoming permanently fixed regardless of body repositioning. In the clinical evaluation of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Post-mortem changes: Livor mortis (hypostasis) fixity and differentiation from c.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Forensic pathology, Post-mortem interval (PMI), Gunshot wound ballistics, and Asphyxial deaths concerning Post-mortem changes: Livor mortis (hypostasis) fixity and differentiation from c."
+    ],
+    "references": [
+      {
+        "label": "Clinical Methods, 3rd ed., NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK201/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1404",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Oncogenic mutations: BRAF V600E in melanoma vs Hedgehog PTCH1 in BCC and p53 in ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old woman with recent symptom exacerbation is brought by paramedic transfer to the emergency department for urgent clarification of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC). Clinical examination highlights pigmented lesion with ABCDE criteria, pearly nodule with rolled borders and arborizing telangiectasias, or hyperkeratotic ulcerated crusted lesion on sun-exposed head/neck in an elderly patient. Clinical observations record blood pressure 130/84 mm Hg, heart rate 72/min, respiratory rate 15/min, and ambient oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "BRAF V600E activating mutation in the MAPK pathway in melanoma, sonic hedgehog/PTCH1 pathway inactivation in BCC, and UV-induced pyrimidine dimer mutations in p53 in squamous cell carcinoma.",
+        "explanation": "UVB radiation induces characteristic cyclobutane pyrimidine dimers (C-to-T transitions); BRAF V600E occurs in >50% of cutaneous melanomas, making them susceptible to vemurafenib/dabrafenib targeted therapy.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "UVB radiation induces characteristic cyclobutane pyrimidine dimers (C-to-T transitions); BRAF V600E occurs in >50% of cutaneous melanomas, making them susceptible to vemurafenib/dabrafenib targeted therapy. In the clinical evaluation of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Oncogenic mutations: BRAF V600E in melanoma vs Hedgehog PTCH1 in BCC and p53 in .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Oncogenic mutations: BRAF V600E in melanoma vs Hedgehog PTCH1 in BCC and p53 in ."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1405",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Complete excisional biopsy for suspected melanoma and Breslow depth prognostic s",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old man attends the scheduled hospital outpatient review with clinical findings indicative of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC). Bedside physical examination confirms pigmented lesion with ABCDE criteria, pearly nodule with rolled borders and arborizing telangiectasias, or hyperkeratotic ulcerated crusted lesion on sun-exposed head/neck in an elderly patient. Clinical observations record blood pressure 132/88 mm Hg, heart rate 75/min, respiratory rate 16/min, and ambient oxygen saturation 95%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Performing complete full-thickness excisional biopsy with 1-3 mm margins (avoiding superficial shave biopsy) to determine histological Breslow microstaging depth and ulceration status.",
+        "explanation": "Breslow thickness (measured from the granular layer of the epidermis to the deepest invading tumor cells in millimeters) is the single most powerful prognostic indicator for cutaneous melanoma.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Breslow thickness (measured from the granular layer of the epidermis to the deepest invading tumor cells in millimeters) is the single most powerful prognostic indicator for cutaneous melanoma. In the clinical evaluation of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Complete excisional biopsy for suspected melanoma and Breslow depth prognostic s.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Complete excisional biopsy for suspected melanoma and Breslow depth prognostic s."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1406",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Wide local excision margins and sentinel lymph node biopsy (SLNB) indications",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 56-year-old woman who is evaluated in the acute surgical assessment unit due to suspected Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC). Clinical examination demonstrates pigmented lesion with ABCDE criteria, pearly nodule with rolled borders and arborizing telangiectasias, or hyperkeratotic ulcerated crusted lesion on sun-exposed head/neck in an elderly patient. Clinical observations record blood pressure 134/68 mm Hg, heart rate 78/min, respiratory rate 17/min, and ambient oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Performing wide local excision with 1 cm margins for melanoma < 1 mm depth (2 cm margins for > 2 mm depth), offering sentinel lymph node biopsy for Breslow thickness >= 0.8 mm or ulceration.",
+        "explanation": "SLNB accurately microstages regional nodal basins; identifying microscopic nodal metastases guides adjuvant systemic therapy (anti-PD-1 immunotherapy or targeted BRAF/MEK inhibitors).",
+        "correct": true
+      }
+    ],
+    "explanation": "SLNB accurately microstages regional nodal basins; identifying microscopic nodal metastases guides adjuvant systemic therapy (anti-PD-1 immunotherapy or targeted BRAF/MEK inhibitors). In the clinical evaluation of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Wide local excision margins and sentinel lymph node biopsy (SLNB) indications.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Wide local excision margins and sentinel lymph node biopsy (SLNB) indications."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1407",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NICE Guideline NG12: Urgent 2-week wait (2WW) referral criteria for suspected sk",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man presenting with acute functional symptoms undergoes urgent bedside assessment in the medical ward requiring evaluation for Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC). Physical assessment reveals pigmented lesion with ABCDE criteria, pearly nodule with rolled borders and arborizing telangiectasias, or hyperkeratotic ulcerated crusted lesion on sun-exposed head/neck in an elderly patient. Clinical observations record blood pressure 136/72 mm Hg, heart rate 81/min, respiratory rate 18/min, and ambient oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Referring urgently via the suspected cancer 2-week wait pathway using the weighted 7-point checklist (major: change in size, irregular shape, irregular color) scoring >= 3 points.",
+        "explanation": "The revised 7-point checklist assigns 2 points each to major features and 1 point to minor features (inflammation, oozing, sensory change, diameter >= 7 mm); scores of 3 or more mandate urgent 2WW referral.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "The revised 7-point checklist assigns 2 points each to major features and 1 point to minor features (inflammation, oozing, sensory change, diameter >= 7 mm); scores of 3 or more mandate urgent 2WW referral. In the clinical evaluation of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning NICE Guideline NG12: Urgent 2-week wait (2WW) referral criteria for suspected sk.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning NICE Guideline NG12: Urgent 2-week wait (2WW) referral criteria for suspected sk."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1408",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Mohs micrographic surgery indications for high-risk Basal Cell Carcinomas",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 66-year-old woman who presents to the acute subspecialty assessment center with prominent manifestations of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC). Bedside evaluation demonstrates pigmented lesion with ABCDE criteria, pearly nodule with rolled borders and arborizing telangiectasias, or hyperkeratotic ulcerated crusted lesion on sun-exposed head/neck in an elderly patient. Clinical observations record blood pressure 138/76 mm Hg, heart rate 84/min, respiratory rate 19/min, and ambient oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Recommending Mohs micrographic surgery for facial tumors in the central cosmetic/functional 'H-zone', recurrent lesions, aggressive histological subtypes, or poorly defined clinical margins.",
+        "explanation": "Mohs surgery provides 100% intraoperative histological evaluation of all peripheral and deep surgical margins with frozen sections, maximizing tissue preservation and achieving cure rates > 99%.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Mohs surgery provides 100% intraoperative histological evaluation of all peripheral and deep surgical margins with frozen sections, maximizing tissue preservation and achieving cure rates > 99%. In the clinical evaluation of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Mohs micrographic surgery indications for high-risk Basal Cell Carcinomas.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Mohs micrographic surgery indications for high-risk Basal Cell Carcinomas."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1409",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "ABCDE mnemonic for bedside dermatological evaluation of pigmented lesions",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 71-year-old man with recent symptom exacerbation is evaluated during urgent inpatient consultation for urgent clarification of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC). Clinical examination highlights pigmented lesion with ABCDE criteria, pearly nodule with rolled borders and arborizing telangiectasias, or hyperkeratotic ulcerated crusted lesion on sun-exposed head/neck in an elderly patient. Clinical observations record blood pressure 140/80 mm Hg, heart rate 87/min, respiratory rate 20/min, and ambient oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Asymmetry, Border irregularity, Color variegation (multiple shades of brown, black, blue, red), Diameter > 6 mm, and Evolution (any changing shape, size, elevation, or bleeding).",
+        "explanation": "Evolution (change over time) is the single most sensitive historical feature of malignant melanoma; an 'ugly duckling' lesion that looks distinctly different from the patient's other nevi warrants biopsy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Evolution (change over time) is the single most sensitive historical feature of malignant melanoma; an 'ugly duckling' lesion that looks distinctly different from the patient's other nevi warrants biopsy. In the clinical evaluation of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning ABCDE mnemonic for bedside dermatological evaluation of pigmented lesions.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning ABCDE mnemonic for bedside dermatological evaluation of pigmented lesions."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1410",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Surgical management of Squamous Cell Carcinoma: Marjolin ulcer and lymphadenecto",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 76-year-old woman attends the specialized ambulatory medical clinic with clinical findings indicative of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC). Bedside physical examination confirms pigmented lesion with ABCDE criteria, pearly nodule with rolled borders and arborizing telangiectasias, or hyperkeratotic ulcerated crusted lesion on sun-exposed head/neck in an elderly patient. Clinical observations record blood pressure 142/84 mm Hg, heart rate 90/min, respiratory rate 21/min, and ambient oxygen saturation 94%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Wide surgical excision with 4-6 mm margins for low-risk SCC, 10 mm margins for high-risk/Marjolin ulcer, and staging regional lymphadenectomy for clinically palpable metastases.",
+        "explanation": "Squamous cell carcinoma arising in chronic non-healing burns, radiation scars, or chronic osteomyelitis (Marjolin ulcer) is aggressive, carrying a high metastatic rate (> 30%) to regional lymph nodes.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Squamous cell carcinoma arising in chronic non-healing burns, radiation scars, or chronic osteomyelitis (Marjolin ulcer) is aggressive, carrying a high metastatic rate (> 30%) to regional lymph nodes. In the clinical evaluation of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Surgical management of Squamous Cell Carcinoma: Marjolin ulcer and lymphadenecto.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Surgical management of Squamous Cell Carcinoma: Marjolin ulcer and lymphadenecto."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1411",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Clinical variants of Basal Cell Carcinoma: Nodular, Superficial, and Morpheaform",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is performed for a 23-year-old man who is urgently admitted to the emergency observation suite due to suspected Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC). Clinical examination demonstrates pigmented lesion with ABCDE criteria, pearly nodule with rolled borders and arborizing telangiectasias, or hyperkeratotic ulcerated crusted lesion on sun-exposed head/neck in an elderly patient. Clinical observations record blood pressure 144/88 mm Hg, heart rate 93/min, respiratory rate 22/min, and ambient oxygen saturation 95%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Nodular BCC presenting as a pearly translucent papule with telangiectasias and rolled borders, superficial BCC presenting as an erythematous scaly plaque, and morpheaform mimicking an indurated scar.",
+        "explanation": "Basal cell carcinoma is the most common human malignancy; it is locally invasive and destructive ('rodent ulcer') but has an exceedingly low rate of distant hematogenous metastasis (< 0.1%).",
+        "correct": true
+      }
+    ],
+    "explanation": "Basal cell carcinoma is the most common human malignancy; it is locally invasive and destructive ('rodent ulcer') but has an exceedingly low rate of distant hematogenous metastasis (< 0.1%). In the clinical evaluation of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Clinical variants of Basal Cell Carcinoma: Nodular, Superficial, and Morpheaform.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Clinical variants of Basal Cell Carcinoma: Nodular, Superficial, and Morpheaform."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1412",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Histological hallmarks: Peripheral palisading in BCC vs keratin pearls in Squamo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 28-year-old woman presenting with acute functional symptoms presents to the tertiary trauma and critical care unit requiring evaluation for Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC). Physical assessment reveals pigmented lesion with ABCDE criteria, pearly nodule with rolled borders and arborizing telangiectasias, or hyperkeratotic ulcerated crusted lesion on sun-exposed head/neck in an elderly patient. Clinical observations record blood pressure 146/68 mm Hg, heart rate 96/min, respiratory rate 23/min, and ambient oxygen saturation 96%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Islands of basaloid epithelial cells with peripheral nuclear palisading and retraction artifact from adjacent stroma in BCC, versus atypical keratinocytes with intercellular bridges and keratin pearls in SCC.",
+        "explanation": "Peripheral palisading and stromal clefting are pathognomonic for BCC; squamous cell carcinoma is defined by malignant dyskeratotic cells forming concentric laminated whorls of eosinophilic keratin pearls.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Peripheral palisading and stromal clefting are pathognomonic for BCC; squamous cell carcinoma is defined by malignant dyskeratotic cells forming concentric laminated whorls of eosinophilic keratin pearls. In the clinical evaluation of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Histological hallmarks: Peripheral palisading in BCC vs keratin pearls in Squamo.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Histological hallmarks: Peripheral palisading in BCC vs keratin pearls in Squamo."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1413",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Adjuvant systemic therapy for advanced and metastatic melanoma: Immunotherapy vs",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 33-year-old man who undergoes multidisciplinary diagnostic evaluation in the clinic with prominent manifestations of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC). Bedside evaluation demonstrates pigmented lesion with ABCDE criteria, pearly nodule with rolled borders and arborizing telangiectasias, or hyperkeratotic ulcerated crusted lesion on sun-exposed head/neck in an elderly patient. Clinical observations record blood pressure 148/72 mm Hg, heart rate 99/min, respiratory rate 24/min, and ambient oxygen saturation 97%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Administering immune checkpoint inhibitors (nivolumab plus ipilimumab) or targeted dabrafenib plus trametinib for BRAF V600E-mutant stage III/IV melanoma.",
+        "explanation": "Targeted BRAF/MEK inhibitors yield rapid clinical responses in BRAF-mutated disease, while dual CTLA-4 and PD-1 checkpoint blockade generates durable, long-term survival in advanced melanoma.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Targeted BRAF/MEK inhibitors yield rapid clinical responses in BRAF-mutated disease, while dual CTLA-4 and PD-1 checkpoint blockade generates durable, long-term survival in advanced melanoma. In the clinical evaluation of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Adjuvant systemic therapy for advanced and metastatic melanoma: Immunotherapy vs.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Adjuvant systemic therapy for advanced and metastatic melanoma: Immunotherapy vs."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1414",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Actinic keratosis as a pre-malignant precursor to invasive Squamous Cell Carcino",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 38-year-old woman with recent symptom exacerbation is brought by paramedic transfer to the emergency department for urgent clarification of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC). Clinical examination highlights pigmented lesion with ABCDE criteria, pearly nodule with rolled borders and arborizing telangiectasias, or hyperkeratotic ulcerated crusted lesion on sun-exposed head/neck in an elderly patient. Clinical observations record blood pressure 150/76 mm Hg, heart rate 102/min, respiratory rate 25/min, and ambient oxygen saturation 98%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing erythematous, sandpaper-textured scaly macules on sun-exposed skin, treating with cryotherapy with liquid nitrogen, topical 5-fluorouracil, or imiquimod.",
+        "explanation": "Actinic keratoses represent partial-thickness intraepidermal dysplasia; approximately 1-10% progress over time to invasive squamous cell carcinoma, requiring treatment.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Actinic keratoses represent partial-thickness intraepidermal dysplasia; approximately 1-10% progress over time to invasive squamous cell carcinoma, requiring treatment. In the clinical evaluation of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Actinic keratosis as a pre-malignant precursor to invasive Squamous Cell Carcino.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Actinic keratosis as a pre-malignant precursor to invasive Squamous Cell Carcino."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1415",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Photoprotection counseling: broad-spectrum sunscreens, UV index, and barrier clo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 43-year-old man attends the scheduled hospital outpatient review with clinical findings indicative of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC). Bedside physical examination confirms pigmented lesion with ABCDE criteria, pearly nodule with rolled borders and arborizing telangiectasias, or hyperkeratotic ulcerated crusted lesion on sun-exposed head/neck in an elderly patient. Clinical observations record blood pressure 108/80 mm Hg, heart rate 105/min, respiratory rate 15/min, and ambient oxygen saturation 99%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Recommending daily broad-spectrum (UVA and UVB) water-resistant sunscreen with SPF >= 30-50, applied 20 minutes before sun exposure, re-applied every 2 hours, and seeking shade.",
+        "explanation": "Sun protection prevents both direct DNA pyrimidine dimer mutations from UVB and reactive oxygen species generation from UVA, significantly reducing lifetime non-melanoma and melanoma skin cancer risks.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "Sun protection prevents both direct DNA pyrimidine dimer mutations from UVB and reactive oxygen species generation from UVA, significantly reducing lifetime non-melanoma and melanoma skin cancer risks. In the clinical evaluation of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Photoprotection counseling: broad-spectrum sunscreens, UV index, and barrier clo.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Photoprotection counseling: broad-spectrum sunscreens, UV index, and barrier clo."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1416",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Dermoscopic criteria for melanoma: atypical pigment network and blue-white veil",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 48-year-old woman who is evaluated in the acute surgical assessment unit due to suspected Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC). Clinical examination demonstrates pigmented lesion with ABCDE criteria, pearly nodule with rolled borders and arborizing telangiectasias, or hyperkeratotic ulcerated crusted lesion on sun-exposed head/neck in an elderly patient. Clinical observations record blood pressure 110/84 mm Hg, heart rate 108/min, respiratory rate 16/min, and ambient oxygen saturation 94%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Utilizing handheld dermoscopy to identify asymmetric atypical pigment networks, irregular dots/globules, branched streaks, and blue-white veils indicating deep dermal melanin.",
+        "explanation": "Dermoscopy increases diagnostic sensitivity for melanoma by 20-30% compared to naked-eye inspection, avoiding unnecessary biopsies of benign seborrheic keratoses and dysplastic nevi.",
+        "correct": true
+      }
+    ],
+    "explanation": "Dermoscopy increases diagnostic sensitivity for melanoma by 20-30% compared to naked-eye inspection, avoiding unnecessary biopsies of benign seborrheic keratoses and dysplastic nevi. In the clinical evaluation of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Dermoscopic criteria for melanoma: atypical pigment network and blue-white veil.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Dermoscopic criteria for melanoma: atypical pigment network and blue-white veil."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1417",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Anatomy and function of epidermal melanocytes and keratinocyte melanin capping",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 53-year-old man presenting with acute functional symptoms undergoes urgent bedside assessment in the medical ward requiring evaluation for Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC). Physical assessment reveals pigmented lesion with ABCDE criteria, pearly nodule with rolled borders and arborizing telangiectasias, or hyperkeratotic ulcerated crusted lesion on sun-exposed head/neck in an elderly patient. Clinical observations record blood pressure 112/88 mm Hg, heart rate 111/min, respiratory rate 17/min, and ambient oxygen saturation 95%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Dendritic melanocytes derived from the neural crest located in the basal layer of the epidermis, transferring melanin granules (melanosomes) to suprabasal keratinocytes to shield nuclei from UV radiation.",
+        "explanation": "Each melanocyte provides protective melanin granules to approximately 36 adjacent keratinocytes (epidermal-melanin unit), forming protective supranuclear 'umbrellas' that absorb incoming UV photons.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Each melanocyte provides protective melanin granules to approximately 36 adjacent keratinocytes (epidermal-melanin unit), forming protective supranuclear 'umbrellas' that absorb incoming UV photons. In the clinical evaluation of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Anatomy and function of epidermal melanocytes and keratinocyte melanin capping.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Melanoma, Basal cell carcinoma (BCC), and Squamous cell carcinoma (SCC) concerning Anatomy and function of epidermal melanocytes and keratinocyte melanin capping."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1418",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Dermatology",
+    "topic": "Delayed type IVb hypersensitivity, viral reactivation (HHV-6), and high-risk HLA",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 63-year-old man who undergoes urgent bedside assessment in the medical ward due to suspected Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption. Clinical examination demonstrates diffuse morbilliform eruption developing 2-8 weeks post-drug initiation, facial edema, diffuse lymphadenopathy, marked eosinophilia (> 1,500/mcL), massive acute pustulosis, or recurrent well-demarcated dusky violaceous plaques at the exact same anatomical site. Clinical observations record blood pressure 135/87 mm Hg, heart rate 78/min, respiratory rate 17/min, and ambient oxygen saturation 97%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "T-cell mediated delayed hypersensitivity with IL-5-driven eosinophil activation, human herpesvirus 6 (HHV-6) reactivation, and HLA-B*57:01 (abacavir) or HLA-B*58:01 (allopurinol) genetic susceptibility.",
+        "explanation": "DRESS syndrome involves massive T-cell stimulation triggering viral reactivation of latent HHV-6, HHV-7, and EBV; allopurinol-induced DRESS is strongly associated with HLA-B*58:01 in Han Chinese populations.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "DRESS syndrome involves massive T-cell stimulation triggering viral reactivation of latent HHV-6, HHV-7, and EBV; allopurinol-induced DRESS is strongly associated with HLA-B*58:01 in Han Chinese populations. In the clinical evaluation of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Delayed type IVb hypersensitivity, viral reactivation (HHV-6), and high-risk HLA.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Delayed type IVb hypersensitivity, viral reactivation (HHV-6), and high-risk HLA."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1419",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Immediate offending drug cessation and systemic corticosteroid taper in DRESS sy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 68-year-old woman presenting with acute functional symptoms presents to the acute subspecialty assessment center requiring evaluation for Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption. Physical assessment reveals diffuse morbilliform eruption developing 2-8 weeks post-drug initiation, facial edema, diffuse lymphadenopathy, marked eosinophilia (> 1,500/mcL), massive acute pustulosis, or recurrent well-demarcated dusky violaceous plaques at the exact same anatomical site. Clinical observations record blood pressure 137/67 mm Hg, heart rate 81/min, respiratory rate 18/min, and ambient oxygen saturation 98%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Immediate discontinuation of the culprit medication and initiating oral or intravenous corticosteroids (prednisone 0.5-1.0 mg/kg/day) with a slow, gradual taper over 2 to 3 months.",
+        "explanation": "Premature discontinuation or rapid tapering of systemic corticosteroids in DRESS frequently precipitates severe recrudescence of visceral organ inflammation (hepatitis, nephritis, myocarditis).",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Premature discontinuation or rapid tapering of systemic corticosteroids in DRESS frequently precipitates severe recrudescence of visceral organ inflammation (hepatitis, nephritis, myocarditis). In the clinical evaluation of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Immediate offending drug cessation and systemic corticosteroid taper in DRESS sy.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Immediate offending drug cessation and systemic corticosteroid taper in DRESS sy."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1420",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Visceral organ screening: transaminitis, serum creatinine, and cardiac troponin ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 73-year-old man who is evaluated during urgent inpatient consultation with prominent manifestations of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption. Bedside evaluation demonstrates diffuse morbilliform eruption developing 2-8 weeks post-drug initiation, facial edema, diffuse lymphadenopathy, marked eosinophilia (> 1,500/mcL), massive acute pustulosis, or recurrent well-demarcated dusky violaceous plaques at the exact same anatomical site. Clinical observations record blood pressure 139/71 mm Hg, heart rate 84/min, respiratory rate 19/min, and ambient oxygen saturation 99%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Serial monitoring of liver function tests (severe hepatitis is the commonest visceral complication), renal function (interstitial nephritis), and cardiac troponin (fatal acute eosinophilic myocarditis).",
+        "explanation": "Internal organ involvement is the hallmark of DRESS, distinguishing it from simple morbilliform drug eruptions; acute myocarditis carries an exceptionally high mortality, mandating early echocardiography.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Internal organ involvement is the hallmark of DRESS, distinguishing it from simple morbilliform drug eruptions; acute myocarditis carries an exceptionally high mortality, mandating early echocardiography. In the clinical evaluation of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Visceral organ screening: transaminitis, serum creatinine, and cardiac troponin .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Visceral organ screening: transaminitis, serum creatinine, and cardiac troponin ."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1421",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "High-risk culprit drugs: aromatic antiepileptics, allopurinol, sulfonamides, and",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 20-year-old woman with recent symptom exacerbation attends the specialized ambulatory medical clinic for urgent clarification of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption. Clinical examination highlights diffuse morbilliform eruption developing 2-8 weeks post-drug initiation, facial edema, diffuse lymphadenopathy, marked eosinophilia (> 1,500/mcL), massive acute pustulosis, or recurrent well-demarcated dusky violaceous plaques at the exact same anatomical site. Clinical observations record blood pressure 141/75 mm Hg, heart rate 87/min, respiratory rate 20/min, and ambient oxygen saturation 94%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Identifying the common culprit triggers: aromatic anticonvulsants (carbamazepine, phenytoin, phenobarbital), lamotrigine, allopurinol, sulfasalazine, and minocycline, noting the 2-8 week latency.",
+        "explanation": "Unlike anaphylaxis (minutes) or simple drug exanthems (days), DRESS syndrome has a uniquely prolonged incubation period of 2 to 8 weeks between starting the drug and clinical manifestation.",
+        "correct": true
+      }
+    ],
+    "explanation": "Unlike anaphylaxis (minutes) or simple drug exanthems (days), DRESS syndrome has a uniquely prolonged incubation period of 2 to 8 weeks between starting the drug and clinical manifestation. In the clinical evaluation of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning High-risk culprit drugs: aromatic antiepileptics, allopurinol, sulfonamides, and.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning High-risk culprit drugs: aromatic antiepileptics, allopurinol, sulfonamides, and."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1422",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Differentiating DRESS from Stevens-Johnson Syndrome (SJS/TEN) and AGEP",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old man is urgently admitted to the emergency observation suite with clinical findings indicative of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption. Bedside physical examination confirms diffuse morbilliform eruption developing 2-8 weeks post-drug initiation, facial edema, diffuse lymphadenopathy, marked eosinophilia (> 1,500/mcL), massive acute pustulosis, or recurrent well-demarcated dusky violaceous plaques at the exact same anatomical site. Clinical observations record blood pressure 143/79 mm Hg, heart rate 90/min, respiratory rate 21/min, and ambient oxygen saturation 95%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Differentiating DRESS (prominent facial edema, eosinophilia, internal organ involvement, absence of mucosal erosion) from SJS/TEN (severe mucosal sloughing, positive Nikolsky sign).",
+        "explanation": "Acute Generalized Exanthematous Pustulosis (AGEP) presents rapidly within 24-48 hours of antibiotic exposure with hundreds of non-follicular sterile subcorneal pustules and neutrophilia.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Acute Generalized Exanthematous Pustulosis (AGEP) presents rapidly within 24-48 hours of antibiotic exposure with hundreds of non-follicular sterile subcorneal pustules and neutrophilia. In the clinical evaluation of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Differentiating DRESS from Stevens-Johnson Syndrome (SJS/TEN) and AGEP.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Differentiating DRESS from Stevens-Johnson Syndrome (SJS/TEN) and AGEP."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1423",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Fixed Drug Eruption (FDE): clinical features, hyperpigmentation, and intraepider",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 30-year-old woman who presents to the tertiary trauma and critical care unit due to suspected Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption. Clinical examination demonstrates diffuse morbilliform eruption developing 2-8 weeks post-drug initiation, facial edema, diffuse lymphadenopathy, marked eosinophilia (> 1,500/mcL), massive acute pustulosis, or recurrent well-demarcated dusky violaceous plaques at the exact same anatomical site. Clinical observations record blood pressure 145/83 mm Hg, heart rate 93/min, respiratory rate 22/min, and ambient oxygen saturation 96%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing solitary or few round, sharply demarcated, dusky red or violaceous plaques that recur at the exact same anatomical site (often genitalia or lips) leaving residual slate-gray post-inflammatory hyperpigmentation.",
+        "explanation": "Fixed drug eruptions are mediated by quiescent resident memory CD8+ T cells persisting in the basal epidermis at the lesion site, reacting instantly upon re-exposure to the culprit drug (NSAIDs, co-trimoxazole).",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Fixed drug eruptions are mediated by quiescent resident memory CD8+ T cells persisting in the basal epidermis at the lesion site, reacting instantly upon re-exposure to the culprit drug (NSAIDs, co-trimoxazole). In the clinical evaluation of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Fixed Drug Eruption (FDE): clinical features, hyperpigmentation, and intraepider.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Fixed Drug Eruption (FDE): clinical features, hyperpigmentation, and intraepider."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1424",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Second-line steroid-sparing immunosuppression in refractory DRESS: Cyclosporine ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 35-year-old man presenting with acute functional symptoms undergoes multidisciplinary diagnostic evaluation in the clinic requiring evaluation for Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption. Physical assessment reveals diffuse morbilliform eruption developing 2-8 weeks post-drug initiation, facial edema, diffuse lymphadenopathy, marked eosinophilia (> 1,500/mcL), massive acute pustulosis, or recurrent well-demarcated dusky violaceous plaques at the exact same anatomical site. Clinical observations record blood pressure 147/87 mm Hg, heart rate 96/min, respiratory rate 23/min, and ambient oxygen saturation 97%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Administering oral cyclosporine or intravenous immunoglobulin (IVIG) for corticosteroid-refractory DRESS syndrome with fulminant liver failure or severe interstitial pneumonitis.",
+        "explanation": "Cyclosporine rapidly suppresses IL-2 and T-cell activation, halting eosinophilic infiltration and rescuing patients with advancing steroid-resistant hepatic necrosis.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Cyclosporine rapidly suppresses IL-2 and T-cell activation, halting eosinophilic infiltration and rescuing patients with advancing steroid-resistant hepatic necrosis. In the clinical evaluation of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Second-line steroid-sparing immunosuppression in refractory DRESS: Cyclosporine .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Second-line steroid-sparing immunosuppression in refractory DRESS: Cyclosporine ."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1425",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Diagnostic triad of DRESS syndrome (RegiSCAR criteria)",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is commenced for a 40-year-old woman who is brought by paramedic transfer to the emergency department with prominent manifestations of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption. Bedside evaluation demonstrates diffuse morbilliform eruption developing 2-8 weeks post-drug initiation, facial edema, diffuse lymphadenopathy, marked eosinophilia (> 1,500/mcL), massive acute pustulosis, or recurrent well-demarcated dusky violaceous plaques at the exact same anatomical site. Clinical observations record blood pressure 149/67 mm Hg, heart rate 99/min, respiratory rate 24/min, and ambient oxygen saturation 98%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Extensive cutaneous eruption, systemic symptoms (fever > 38.5 C, cervical lymphadenopathy), and biological abnormalities (eosinophilia > 10% or >= 700/mcL, atypical lymphocytosis, internal organ failure).",
+        "explanation": "RegiSCAR validation scoring categorizes suspected cases into no, possible, probable, or definite DRESS, guiding decisions regarding systemic immunosuppressive therapy.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "RegiSCAR validation scoring categorizes suspected cases into no, possible, probable, or definite DRESS, guiding decisions regarding systemic immunosuppressive therapy. In the clinical evaluation of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Diagnostic triad of DRESS syndrome (RegiSCAR criteria).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Diagnostic triad of DRESS syndrome (RegiSCAR criteria)."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1426",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Dermatology",
+    "topic": "Sterile subcorneal pustulosis and neutrophil chemotaxis (IL-8) in AGEP",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old man with recent symptom exacerbation attends the scheduled hospital outpatient review for urgent clarification of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption. Clinical examination highlights diffuse morbilliform eruption developing 2-8 weeks post-drug initiation, facial edema, diffuse lymphadenopathy, marked eosinophilia (> 1,500/mcL), massive acute pustulosis, or recurrent well-demarcated dusky violaceous plaques at the exact same anatomical site. Clinical observations record blood pressure 151/71 mm Hg, heart rate 102/min, respiratory rate 25/min, and ambient oxygen saturation 99%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Subcorneal and intraepidermal spongiform pustules on histopathology driven by drug-specific T-cells secreting high levels of interleukin-8 (CXCL8) recruiting massive neutrophilic infiltration.",
+        "explanation": "AGEP develops rapidly after starting beta-lactams or macrolides; resolution occurs spontaneously within 10 to 14 days following drug cessation with characteristic pinhead desquamation.",
+        "correct": true
+      }
+    ],
+    "explanation": "AGEP develops rapidly after starting beta-lactams or macrolides; resolution occurs spontaneously within 10 to 14 days following drug cessation with characteristic pinhead desquamation. In the clinical evaluation of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Sterile subcorneal pustulosis and neutrophil chemotaxis (IL-8) in AGEP.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Sterile subcorneal pustulosis and neutrophil chemotaxis (IL-8) in AGEP."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1427",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Long-term autoimmune sequelae following DRESS recovery: Autoimmune thyroiditis a",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 50-year-old woman is evaluated in the acute surgical assessment unit with clinical findings indicative of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption. Bedside physical examination confirms diffuse morbilliform eruption developing 2-8 weeks post-drug initiation, facial edema, diffuse lymphadenopathy, marked eosinophilia (> 1,500/mcL), massive acute pustulosis, or recurrent well-demarcated dusky violaceous plaques at the exact same anatomical site. Clinical observations record blood pressure 109/75 mm Hg, heart rate 105/min, respiratory rate 15/min, and ambient oxygen saturation 94%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Long-term endocrine surveillance for late-onset autoimmune complications (Hashimoto thyroiditis, Graves disease, type 1 diabetes) developing months to years after resolution of DRESS.",
+        "explanation": "Massive immune dysregulation and loss of regulatory T-cell function during the viral reactivation phase predispose patients to late de novo autoimmune polyendocrinopathies.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Massive immune dysregulation and loss of regulatory T-cell function during the viral reactivation phase predispose patients to late de novo autoimmune polyendocrinopathies. In the clinical evaluation of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Long-term autoimmune sequelae following DRESS recovery: Autoimmune thyroiditis a.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Long-term autoimmune sequelae following DRESS recovery: Autoimmune thyroiditis a."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1428",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Emergency triage differentiation of drug rash with facial edema from angioedema",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 55-year-old man who undergoes urgent bedside assessment in the medical ward due to suspected Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption. Clinical examination demonstrates diffuse morbilliform eruption developing 2-8 weeks post-drug initiation, facial edema, diffuse lymphadenopathy, marked eosinophilia (> 1,500/mcL), massive acute pustulosis, or recurrent well-demarcated dusky violaceous plaques at the exact same anatomical site. Clinical observations record blood pressure 111/79 mm Hg, heart rate 108/min, respiratory rate 16/min, and ambient oxygen saturation 95%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Differentiating widespread morbilliform eruption with facial swelling in DRESS from acute IgE-mediated anaphylaxis/angioedema, noting absence of stridor, wheeze, or lip/tongue swelling.",
+        "explanation": "Facial edema in DRESS is inflammatory and cutaneous rather than mucosal; airway compromise is rare, but systemic hemodynamic instability from high-output erythroderma can occur.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "Facial edema in DRESS is inflammatory and cutaneous rather than mucosal; airway compromise is rare, but systemic hemodynamic instability from high-output erythroderma can occur. In the clinical evaluation of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Emergency triage differentiation of drug rash with facial edema from angioedema.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Emergency triage differentiation of drug rash with facial edema from angioedema."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1429",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Cross-reactivity among aromatic anticonvulsants and safe non-aromatic alternativ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old woman presenting with acute functional symptoms presents to the acute subspecialty assessment center requiring evaluation for Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption. Physical assessment reveals diffuse morbilliform eruption developing 2-8 weeks post-drug initiation, facial edema, diffuse lymphadenopathy, marked eosinophilia (> 1,500/mcL), massive acute pustulosis, or recurrent well-demarcated dusky violaceous plaques at the exact same anatomical site. Clinical observations record blood pressure 113/83 mm Hg, heart rate 111/min, respiratory rate 17/min, and ambient oxygen saturation 96%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing > 75% immunological cross-reactivity among aromatic antiepileptics (carbamazepine, phenytoin, phenobarbital), substituting non-aromatic agents (levetiracetam, valproate).",
+        "explanation": "Aromatic anticonvulsants share common arene oxide reactive intermediate metabolites; developing DRESS to one aromatic agent strictly contraindicates switching to another aromatic drug.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Aromatic anticonvulsants share common arene oxide reactive intermediate metabolites; developing DRESS to one aromatic agent strictly contraindicates switching to another aromatic drug. In the clinical evaluation of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Cross-reactivity among aromatic anticonvulsants and safe non-aromatic alternativ.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Cross-reactivity among aromatic anticonvulsants and safe non-aromatic alternativ."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1430",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Reporting adverse drug reactions to pharmacovigilance registries and medical ale",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 65-year-old man who is evaluated during urgent inpatient consultation with prominent manifestations of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption. Bedside evaluation demonstrates diffuse morbilliform eruption developing 2-8 weeks post-drug initiation, facial edema, diffuse lymphadenopathy, marked eosinophilia (> 1,500/mcL), massive acute pustulosis, or recurrent well-demarcated dusky violaceous plaques at the exact same anatomical site. Clinical observations record blood pressure 115/87 mm Hg, heart rate 114/min, respiratory rate 18/min, and ambient oxygen saturation 97%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Issuing a permanent national medical alert card and filing mandatory yellow card adverse drug reaction reports with statutory pharmacovigilance authorities.",
+        "explanation": "Patients who survive severe cutaneous adverse reactions must be provided with explicit written documentation and wristbands; re-exposure to the culprit drug can precipitate fatal recurrence.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "Patients who survive severe cutaneous adverse reactions must be provided with explicit written documentation and wristbands; re-exposure to the culprit drug can precipitate fatal recurrence. In the clinical evaluation of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Reporting adverse drug reactions to pharmacovigilance registries and medical ale.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Reporting adverse drug reactions to pharmacovigilance registries and medical ale."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1431",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Dermatology",
+    "topic": "Gell and Coombs classification: Type I through Type IV drug hypersensitivity",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 70-year-old woman with recent symptom exacerbation attends the specialized ambulatory medical clinic for urgent clarification of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption. Clinical examination highlights diffuse morbilliform eruption developing 2-8 weeks post-drug initiation, facial edema, diffuse lymphadenopathy, marked eosinophilia (> 1,500/mcL), massive acute pustulosis, or recurrent well-demarcated dusky violaceous plaques at the exact same anatomical site. Clinical observations record blood pressure 117/67 mm Hg, heart rate 73/min, respiratory rate 19/min, and ambient oxygen saturation 98%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Type I (IgE anaphylaxis), Type II (cytotoxic IgG/IgM), Type III (immune-complex deposition), and Type IV (cell-mediated delayed hypersensitivity: IVa monocytes, IVb eosinophils, IVc cytotoxic T cells, IVd neutrophils).",
+        "explanation": "DRESS is a classic manifestation of Type IVb delayed hypersensitivity (characterized by TH2 cytokine profile, IL-5, and prominent tissue eosinophilia), whereas AGEP represents Type IVd (IL-8 and neutrophils).",
+        "correct": true
+      }
+    ],
+    "explanation": "DRESS is a classic manifestation of Type IVb delayed hypersensitivity (characterized by TH2 cytokine profile, IL-5, and prominent tissue eosinophilia), whereas AGEP represents Type IVd (IL-8 and neutrophils). In the clinical evaluation of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Gell and Coombs classification: Type I through Type IV drug hypersensitivity.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), AGEP, and Fixed Drug Eruption concerning Gell and Coombs classification: Type I through Type IV drug hypersensitivity."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists: Guidelines for the Management of Skin Conditions",
+        "url": "https://www.bad.org.uk/clinical-services/guidelines-and-standards/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1432",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Hematology",
+    "topic": "Two-hit neutrophil priming mechanism in TRALI vs anti-A/anti-B IgM complement ly",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 22-year-old woman who attends the specialized ambulatory medical clinic with prominent manifestations of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic. Bedside evaluation demonstrates sudden hypoxemia and bilateral non-cardiogenic pulmonary infiltrates within 6 hours of transfusion (TRALI), elevated jugular venous pressure with S3 gallop (TACO), acute flank pain with brown urine and shock (ABO mismatch), or benign fever spike with rigors (FNHTR). Clinical observations record blood pressure 140/66 mm Hg, heart rate 84/min, respiratory rate 19/min, and ambient oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Donor anti-HLA or anti-HNA antibodies binding primed recipient pulmonary neutrophils causing capillary leak in TRALI, versus preformed recipient IgM fixing complement causing intravascular hemolysis in ABO mismatch.",
+        "explanation": "TRALI requires recipient neutrophil priming (sepsis, surgery) followed by donor antileukocyte antibodies activating pulmonary microvascular neutrophils, causing acute non-cardiogenic pulmonary edema.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "TRALI requires recipient neutrophil priming (sepsis, surgery) followed by donor antileukocyte antibodies activating pulmonary microvascular neutrophils, causing acute non-cardiogenic pulmonary edema. In the clinical evaluation of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Two-hit neutrophil priming mechanism in TRALI vs anti-A/anti-B IgM complement ly.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Two-hit neutrophil priming mechanism in TRALI vs anti-A/anti-B IgM complement ly."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1433",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Immediate cessation of transfusion, clerical check, and aggressive isotonic flui",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old man with recent symptom exacerbation is urgently admitted to the emergency observation suite for urgent clarification of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic. Clinical examination highlights sudden hypoxemia and bilateral non-cardiogenic pulmonary infiltrates within 6 hours of transfusion (TRALI), elevated jugular venous pressure with S3 gallop (TACO), acute flank pain with brown urine and shock (ABO mismatch), or benign fever spike with rigors (FNHTR). Clinical observations record blood pressure 142/70 mm Hg, heart rate 87/min, respiratory rate 20/min, and ambient oxygen saturation 95%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Immediately stopping the blood transfusion, preserving IV access with normal saline, performing a bedside clerical identification check, and administering aggressive fluids to prevent acute renal failure.",
+        "explanation": "In acute hemolytic transfusion reaction, intravascular hemolysis releases free hemoglobin and stroma, predisposing to disseminated intravascular coagulation (DIC) and acute tubular necrosis.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In acute hemolytic transfusion reaction, intravascular hemolysis releases free hemoglobin and stroma, predisposing to disseminated intravascular coagulation (DIC) and acute tubular necrosis. In the clinical evaluation of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Immediate cessation of transfusion, clerical check, and aggressive isotonic flui.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Immediate cessation of transfusion, clerical check, and aggressive isotonic flui."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1434",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Differentiating TRALI from TACO using BNP, echocardiography, and diuretic respon",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 32-year-old woman presents to the tertiary trauma and critical care unit with clinical findings indicative of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic. Bedside physical examination confirms sudden hypoxemia and bilateral non-cardiogenic pulmonary infiltrates within 6 hours of transfusion (TRALI), elevated jugular venous pressure with S3 gallop (TACO), acute flank pain with brown urine and shock (ABO mismatch), or benign fever spike with rigors (FNHTR). Clinical observations record blood pressure 144/74 mm Hg, heart rate 90/min, respiratory rate 21/min, and ambient oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Differentiating Transfusion-Related Acute Lung Injury (normal BNP, normal cardiac filling pressures, exudative edema) from Transfusion-Associated Circulatory Overload (elevated BNP, high JVP, responds to loop diuretics).",
+        "explanation": "TACO is cardiogenic hydrostatic pulmonary edema caused by volume overload, treated with intravenous furosemide; TRALI is non-cardiogenic capillary leak where diuretics are ineffective and can cause hypotension.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "TACO is cardiogenic hydrostatic pulmonary edema caused by volume overload, treated with intravenous furosemide; TRALI is non-cardiogenic capillary leak where diuretics are ineffective and can cause hypotension. In the clinical evaluation of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Differentiating TRALI from TACO using BNP, echocardiography, and diuretic respon.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Differentiating TRALI from TACO using BNP, echocardiography, and diuretic respon."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1435",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Serious Hazards of Transfusion (SHOT) reporting and management of Febrile Non-He",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 37-year-old man who undergoes multidisciplinary diagnostic evaluation in the clinic due to suspected Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic. Clinical examination demonstrates sudden hypoxemia and bilateral non-cardiogenic pulmonary infiltrates within 6 hours of transfusion (TRALI), elevated jugular venous pressure with S3 gallop (TACO), acute flank pain with brown urine and shock (ABO mismatch), or benign fever spike with rigors (FNHTR). Clinical observations record blood pressure 146/78 mm Hg, heart rate 93/min, respiratory rate 22/min, and ambient oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Stopping transfusion, checking vitals to rule out acute hemolysis/sepsis, administering paracetamol, and submitting mandatory statutory notification to the SHOT hemovigilance scheme.",
+        "explanation": "Febrile non-hemolytic transfusion reactions (FNHTR) are caused by accumulated cytokines (IL-1, IL-6, TNF-alpha) released from leukocytes during stored platelet/RBC storage; symptoms resolve with antipyretics.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "Febrile non-hemolytic transfusion reactions (FNHTR) are caused by accumulated cytokines (IL-1, IL-6, TNF-alpha) released from leukocytes during stored platelet/RBC storage; symptoms resolve with antipyretics. In the clinical evaluation of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Serious Hazards of Transfusion (SHOT) reporting and management of Febrile Non-He.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Serious Hazards of Transfusion (SHOT) reporting and management of Febrile Non-He."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1436",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Universal prestorage leukodepletion to reduce FNHTR and CMV transmission",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old woman presenting with acute functional symptoms is brought by paramedic transfer to the emergency department requiring evaluation for Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic. Physical assessment reveals sudden hypoxemia and bilateral non-cardiogenic pulmonary infiltrates within 6 hours of transfusion (TRALI), elevated jugular venous pressure with S3 gallop (TACO), acute flank pain with brown urine and shock (ABO mismatch), or benign fever spike with rigors (FNHTR). Clinical observations record blood pressure 148/82 mm Hg, heart rate 96/min, respiratory rate 23/min, and ambient oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Implementing universal prestorage leukoreduction of blood products to drastically reduce the incidence of febrile non-hemolytic reactions, HLA alloimmunization, and cytomegalovirus transmission.",
+        "explanation": "Filtering out white blood cells prior to storage prevents cytokine accumulation during shelf-life and prevents recipient antibody formation against donor human leukocyte antigens (HLA).",
+        "correct": true
+      }
+    ],
+    "explanation": "Filtering out white blood cells prior to storage prevents cytokine accumulation during shelf-life and prevents recipient antibody formation against donor human leukocyte antigens (HLA). In the clinical evaluation of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Universal prestorage leukodepletion to reduce FNHTR and CMV transmission.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Universal prestorage leukodepletion to reduce FNHTR and CMV transmission."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1437",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Anaphylactic transfusion reaction in selective IgA deficiency: anti-IgA antibodi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 47-year-old man who attends the scheduled hospital outpatient review with prominent manifestations of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic. Bedside evaluation demonstrates sudden hypoxemia and bilateral non-cardiogenic pulmonary infiltrates within 6 hours of transfusion (TRALI), elevated jugular venous pressure with S3 gallop (TACO), acute flank pain with brown urine and shock (ABO mismatch), or benign fever spike with rigors (FNHTR). Clinical observations record blood pressure 150/86 mm Hg, heart rate 99/min, respiratory rate 24/min, and ambient oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Sudden hypotension, bronchospasm, and urticaria within seconds of initiating transfusion in a patient with selective IgA deficiency, caused by preformed recipient anti-IgA IgE/IgG antibodies.",
+        "explanation": "Patients with severe IgA deficiency (< 7 mg/dL) develop antibodies against foreign IgA; transfusing standard blood components containing trace donor IgA triggers catastrophic anaphylaxis, requiring washed red cells.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Patients with severe IgA deficiency (< 7 mg/dL) develop antibodies against foreign IgA; transfusing standard blood components containing trace donor IgA triggers catastrophic anaphylaxis, requiring washed red cells. In the clinical evaluation of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Anaphylactic transfusion reaction in selective IgA deficiency: anti-IgA antibodi.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Anaphylactic transfusion reaction in selective IgA deficiency: anti-IgA antibodi."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1438",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Donor deferral policies and predominantly male plasma donation to prevent TRALI",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old woman with recent symptom exacerbation is evaluated in the acute surgical assessment unit for urgent clarification of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic. Clinical examination highlights sudden hypoxemia and bilateral non-cardiogenic pulmonary infiltrates within 6 hours of transfusion (TRALI), elevated jugular venous pressure with S3 gallop (TACO), acute flank pain with brown urine and shock (ABO mismatch), or benign fever spike with rigors (FNHTR). Clinical observations record blood pressure 108/66 mm Hg, heart rate 102/min, respiratory rate 25/min, and ambient oxygen saturation 94%. Specialty diagnostic and surgical considerations are evaluated in this tertiary care setting. What is the definitive management consideration?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Excluding multiparous female donors from fresh frozen plasma (FFP) and platelet production, relying on male or nulliparous female donors to eliminate anti-HLA alloantibodies.",
+        "explanation": "Pregnancy induces alloimmunization against paternal HLA and human neutrophil antigens (HNA); restricting plasma donation to male donors has reduced TRALI incidence by > 70% worldwide.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "Pregnancy induces alloimmunization against paternal HLA and human neutrophil antigens (HNA); restricting plasma donation to male donors has reduced TRALI incidence by > 70% worldwide. In the clinical evaluation of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Donor deferral policies and predominantly male plasma donation to prevent TRALI.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Donor deferral policies and predominantly male plasma donation to prevent TRALI."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1439",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Immediate clinical and laboratory investigations following an acute transfusion ",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 57-year-old man undergoes urgent bedside assessment in the medical ward with clinical findings indicative of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic. Bedside physical examination confirms sudden hypoxemia and bilateral non-cardiogenic pulmonary infiltrates within 6 hours of transfusion (TRALI), elevated jugular venous pressure with S3 gallop (TACO), acute flank pain with brown urine and shock (ABO mismatch), or benign fever spike with rigors (FNHTR). Clinical observations record blood pressure 110/70 mm Hg, heart rate 105/min, respiratory rate 15/min, and ambient oxygen saturation 95%. What is the recommended first-line pharmacological treatment or diagnostic test in this licensing scenario?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Sending the remaining blood bag, transfusion tubing, fresh recipient blood sample, and urine sample to the blood bank for repeat cross-match, direct antiglobulin (Coombs) test, and free hemoglobin testing.",
+        "explanation": "Direct antiglobulin testing (DAT) demonstrates in vivo antibody or complement coating of circulating transfused donor red blood cells, confirming immune-mediated hemolytic destruction.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Direct antiglobulin testing (DAT) demonstrates in vivo antibody or complement coating of circulating transfused donor red blood cells, confirming immune-mediated hemolytic destruction. In the clinical evaluation of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Immediate clinical and laboratory investigations following an acute transfusion .",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Immediate clinical and laboratory investigations following an acute transfusion ."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1440",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Transfusion-Associated Graft-versus-Host Disease (TA-GvHD) and gamma irradiation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 62-year-old woman who presents to the acute subspecialty assessment center due to suspected Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic. Clinical examination demonstrates sudden hypoxemia and bilateral non-cardiogenic pulmonary infiltrates within 6 hours of transfusion (TRALI), elevated jugular venous pressure with S3 gallop (TACO), acute flank pain with brown urine and shock (ABO mismatch), or benign fever spike with rigors (FNHTR). Clinical observations record blood pressure 112/74 mm Hg, heart rate 108/min, respiratory rate 16/min, and ambient oxygen saturation 96%. Which key pharmacological or pathological discriminator distinguishes this clinical entity?",
+    "options": [
+      {
+        "text": "Fatal pancytopenia, fever, rash, and liver dysfunction developing 1-4 weeks post-transfusion in immunocompromised or HLA-homozygous shared family donors, prevented by gamma irradiation of cellular components.",
+        "explanation": "TA-GvHD is caused by viable donor T-lymphocytes engrafting and attacking recipient tissues; gamma irradiation (25 Gy) cross-links donor leukocyte DNA, preventing proliferation while preserving RBC function.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "TA-GvHD is caused by viable donor T-lymphocytes engrafting and attacking recipient tissues; gamma irradiation (25 Gy) cross-links donor leukocyte DNA, preventing proliferation while preserving RBC function. In the clinical evaluation of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Transfusion-Associated Graft-versus-Host Disease (TA-GvHD) and gamma irradiation.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Transfusion-Associated Graft-versus-Host Disease (TA-GvHD) and gamma irradiation."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1441",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Delayed Hemolytic Transfusion Reaction (DHTR): anamnestic Rh/Kidd antibody respo",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old man presenting with acute functional symptoms is evaluated during urgent inpatient consultation requiring evaluation for Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic. Physical assessment reveals sudden hypoxemia and bilateral non-cardiogenic pulmonary infiltrates within 6 hours of transfusion (TRALI), elevated jugular venous pressure with S3 gallop (TACO), acute flank pain with brown urine and shock (ABO mismatch), or benign fever spike with rigors (FNHTR). Clinical observations record blood pressure 114/78 mm Hg, heart rate 111/min, respiratory rate 17/min, and ambient oxygen saturation 97%. Advanced investigation and specialized secondary therapy are considered. Which of the following is the most appropriate recommendation?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Unexplained drop in hemoglobin, mild jaundice, and spherocytosis occurring 3 to 14 days post-transfusion, caused by an anamnestic secondary antibody response (classically anti-Jka or anti-Rh).",
+        "explanation": "Kidd (Jk) system antibodies typically drop to undetectable titers over time; re-exposure to antigen-positive donor RBCs triggers rapid secondary IgG synthesis, causing extravascular splenic hemolysis days later.",
+        "correct": true
+      }
+    ],
+    "explanation": "Kidd (Jk) system antibodies typically drop to undetectable titers over time; re-exposure to antigen-positive donor RBCs triggers rapid secondary IgG synthesis, causing extravascular splenic hemolysis days later. In the clinical evaluation of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Delayed Hemolytic Transfusion Reaction (DHTR): anamnestic Rh/Kidd antibody respo.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Delayed Hemolytic Transfusion Reaction (DHTR): anamnestic Rh/Kidd antibody respo."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1442",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Emergency management of suspected septic bacterial contamination of platelet uni",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 72-year-old woman who attends the specialized ambulatory medical clinic with prominent manifestations of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic. Bedside evaluation demonstrates sudden hypoxemia and bilateral non-cardiogenic pulmonary infiltrates within 6 hours of transfusion (TRALI), elevated jugular venous pressure with S3 gallop (TACO), acute flank pain with brown urine and shock (ABO mismatch), or benign fever spike with rigors (FNHTR). Clinical observations record blood pressure 116/82 mm Hg, heart rate 114/min, respiratory rate 18/min, and ambient oxygen saturation 98%. What is the highest priority emergency intervention during the primary survey resuscitation?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood culture collection from both the patient and the implicated blood pack, initiating emergency broad-spectrum IV carbapenems or vancomycin/piperacillin-tazobactam.",
+        "explanation": "Platelets are stored at room temperature (20-24 C), providing a fertile environment for bacterial proliferation (Staphylococcus epidermidis, Serratia, Gram-negative rods), causing fulminant septic shock.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Platelets are stored at room temperature (20-24 C), providing a fertile environment for bacterial proliferation (Staphylococcus epidermidis, Serratia, Gram-negative rods), causing fulminant septic shock. In the clinical evaluation of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Emergency management of suspected septic bacterial contamination of platelet uni.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Emergency management of suspected septic bacterial contamination of platelet uni."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1443",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Washed and irradiated red blood cell indications across special patient populati",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old man with recent symptom exacerbation is urgently admitted to the emergency observation suite for urgent clarification of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic. Clinical examination highlights sudden hypoxemia and bilateral non-cardiogenic pulmonary infiltrates within 6 hours of transfusion (TRALI), elevated jugular venous pressure with S3 gallop (TACO), acute flank pain with brown urine and shock (ABO mismatch), or benign fever spike with rigors (FNHTR). Clinical observations record blood pressure 118/86 mm Hg, heart rate 73/min, respiratory rate 19/min, and ambient oxygen saturation 99%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Washed red blood cells for recurrent severe allergic/anaphylactic reactions or severe IgA deficiency, and irradiated blood products for bone marrow transplant recipients and first-degree directed family donations.",
+        "explanation": "Saline washing removes > 99% of plasma proteins (including IgA) from cellular components; gamma irradiation prevents graft-versus-host disease in immunocompromised or partial HLA-matched recipients.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Saline washing removes > 99% of plasma proteins (including IgA) from cellular components; gamma irradiation prevents graft-versus-host disease in immunocompromised or partial HLA-matched recipients. In the clinical evaluation of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Washed and irradiated red blood cell indications across special patient populati.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Washed and irradiated red blood cell indications across special patient populati."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1444",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Blood bank barcode verification and two-person independent bedside verification",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old woman presents to the tertiary trauma and critical care unit with clinical findings indicative of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic. Bedside physical examination confirms sudden hypoxemia and bilateral non-cardiogenic pulmonary infiltrates within 6 hours of transfusion (TRALI), elevated jugular venous pressure with S3 gallop (TACO), acute flank pain with brown urine and shock (ABO mismatch), or benign fever spike with rigors (FNHTR). Clinical observations record blood pressure 120/66 mm Hg, heart rate 76/min, respiratory rate 20/min, and ambient oxygen saturation 94%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Mandatory independent bedside double-checking of patient identification wristband, blood unit tag, expiration date, and ABO/Rh compatibility by two registered practitioners before transfusion.",
+        "explanation": "Bedside identification errors remain the primary root cause of fatal ABO-incompatible hemolytic transfusion reactions; strict two-person electronic barcode verification eliminates clerical transcription errors.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Bedside identification errors remain the primary root cause of fatal ABO-incompatible hemolytic transfusion reactions; strict two-person electronic barcode verification eliminates clerical transcription errors. In the clinical evaluation of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Blood bank barcode verification and two-person independent bedside verification.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Blood bank barcode verification and two-person independent bedside verification."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1445",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Direct Coombs test (DAT) vs Indirect Coombs test (IAT) principles and methodolog",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is performed for a 29-year-old man who undergoes multidisciplinary diagnostic evaluation in the clinic due to suspected Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic. Clinical examination demonstrates sudden hypoxemia and bilateral non-cardiogenic pulmonary infiltrates within 6 hours of transfusion (TRALI), elevated jugular venous pressure with S3 gallop (TACO), acute flank pain with brown urine and shock (ABO mismatch), or benign fever spike with rigors (FNHTR). Clinical observations record blood pressure 122/70 mm Hg, heart rate 79/min, respiratory rate 21/min, and ambient oxygen saturation 95%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Direct Coombs test detects antibodies or complement already bound to the patient's RBCs in vivo; Indirect Coombs test detects unbound atypical antibodies in the patient's serum in vitro.",
+        "explanation": "In the Direct Antiglobulin Test, antihuman globulin (Coombs reagent) is added directly to washed patient red cells; agglutination proves the presence of surface-bound IgG or C3d.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In the Direct Antiglobulin Test, antihuman globulin (Coombs reagent) is added directly to washed patient red cells; agglutination proves the presence of surface-bound IgG or C3d. In the clinical evaluation of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Direct Coombs test (DAT) vs Indirect Coombs test (IAT) principles and methodolog.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Acute transfusion reactions: TRALI, TACO, Febrile Non-Hemolytic, and Acute Hemolytic concerning Direct Coombs test (DAT) vs Indirect Coombs test (IAT) principles and methodolog."
+    ],
+    "references": [
+      {
+        "label": "Merck Manual Professional: Evaluation of Anemia",
+        "url": "https://www.merckmanuals.com/professional/hematology/approach-to-the-patient-with-anemia/evaluation-of-anemia"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
